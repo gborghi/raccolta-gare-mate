@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1991 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1991__Q02
 parent: src_cgen_1991
 competition: Concours Général des Lycées 1991 — Matematica
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of square roots minus arithmetic mean; monotonicity and limit*
 
@@ -49,3 +52,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u-mEdJF7yrrB2YNFkv9USeSkjKrJqpe7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa delle radici quadrate meno media aritmetica; monotonia e limite*
+
+> Per ogni numero naturale non zero $n$, associamo al numero intero $n$ l'applicazione $f_n$ della variabile reale $x$, definita per $x \ge n$ da: $$f_n(x) = \sqrt{x-n} + \sqrt{x-n+1} + \cdots + \sqrt{x-1} + \sqrt{x} + \sqrt{x+1} + \cdots + \sqrt{x+n} - (2n+1)\sqrt{x}.$$
+> 
+> **1.** In questa domanda il numero intero $n$ è fisso.
+> 
+> Indicare che < MSK0/> è in aumento e che < MSK1/>.
+> 
+> **2.** Determina il limite della sequenza con termine generale $f_n(n)$.
+
+[[src_cgen_1991__Q02]]

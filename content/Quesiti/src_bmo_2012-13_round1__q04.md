@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2012-13 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2012-13_round1__Q04
 parent: src_bmo_2012-13_round1
 competition: British Mathematical Olympiad 2012-13 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive integers n with 12n-119 and 75n-539 perfect squares*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova i numeri interi positivi n con quadrati perfetti 12n-119 e 75n-539*
+
+> Trova tutti gli integri positivi $n$ in modo che $12n - 119$ e $75n - 539$ siano entrambi quadrati perfetti.
+
+[[src_bmo_2012-13_round1__Q04]]

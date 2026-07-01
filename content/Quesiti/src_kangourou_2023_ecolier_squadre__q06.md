@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre__Q06
 parent: src_kangourou_2023_ecolier_squadre
 competition: Kangourou Squadre 2023 Ecolier Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Incontri totali di ogni partecipante doppio tennis*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0018
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total matches of each tennis doubles player*
+
+> Four boys playing tennis against four girls. The dates are double (two boys against two girls) and every possible pair of boys plays once and only once against every possible pair of girls. How many meetings does each participant have in total?
+
+**Answer:** 0018
+[[src_kangourou_2023_ecolier_squadre__Q06]]

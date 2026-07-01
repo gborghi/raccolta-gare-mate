@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f1__Q18
 parent: src_obm_2013_n1_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of perimeters of six integer-sided squares tiling a 144 cm^2 square*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZFAopdNjG-Ynm1d9LROcVImmCRs-HuH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Summa dei perimetri di sei quadrati a lato intero di un quadrato di 144 cm^2< MSK1/>
+
+> Un quadrato di superficie $144$ cm$^2$ può essere decomposto in sei quadrati con lati interi, non tutti uguali. Qual è la somma dei perimetri di tutti e sei i quadrati?
+> 
+> (A) $36$ cm \quad (B) $84$ cm \quad (C) $96$ cm \quad (D) $112$ cm \quad (E) $164$ cm
+
+[[src_obm_2013_n1_f1__Q18]]

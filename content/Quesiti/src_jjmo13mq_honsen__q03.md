@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2015 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo13mq_honsen__Q03
 parent: src_jjmo13mq_honsen
 competition: Japan Junior Mathematical Olympiad 2015 — Honsen (Final)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ants on n x n board visiting every cell, minimal black cells*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KO6vJDo2NFREQnMe8CLBm6pqNrYJc_o-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ante su n x n tabella che visitano ogni cella, cellule nere minime< MSK1/>
+
+> $n,k$ siano integri positivi con $n \ge k$. C'è una griglia di cellule $n \times n$, e ogni cellula è colorata in bianco o nero. Ci sono formiche < MSK3/>. Ogni formica si trasferisce ripetutamente in una cella adiacente. Su una cellula bianca una formica può solo muoversi dritta in avanti, mentre su una cellula nera una formica può scegliere liberamente quale cellula adiacente spostarsi dopo. Supponiamo che colorando alcune cellule $m$ in nero e il resto in bianco, e scegliendo adeguatamente il posizionamento iniziale delle formiche e le loro direzioni iniziali di movimento, si possa organizzare che ogni cellula della griglia venga visitata da almeno una formica. Trovare il minimo valore possibile di $m$ per il quale tale disposizione è possibile.
+
+[[src_jjmo13mq_honsen__Q03]]

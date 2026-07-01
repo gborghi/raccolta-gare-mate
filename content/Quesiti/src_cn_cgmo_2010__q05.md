@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2010 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2010__Q05
 parent: src_cn_cgmo_2010
 competition: China Girls' Mathematical Olympiad 2010
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles acute triangle, exterior bisector, perpendiculars, prove BC = PF + AK*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Isoceles triangolo acuto, bisector esterno, perpendicolari, provare BC = PF + AK*
+
+> Nel triangolo acuto $ABC$ con $AB = AC$, $M$ deve essere il punto medio del lato $BC$. Il bisettore di angolo esterno di $\angle BAC$ incontra il raggio $BC$ a $P$. I punti $K$ e $F$ si trovano sulla riga $PA$ in modo tale che $MF \perp BC$ e $MK \perp PA$. Prove che $BC = PF + AK$.
+
+![[src_cn_cgmo_b11_w193__Q05.png]]
+
+[[src_cn_cgmo_2010__Q05]]

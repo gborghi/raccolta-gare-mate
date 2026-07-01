@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q06
 parent: src_archimede_2025_squadre_finale
 competition: Gara a Squadre Nazionale 2025 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma primi della forma n^4-2023n^2+1*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4051
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Prime sum of the form n^4-2023n^2+1*
+
+> Normal Normal is the humanoid robot built by Dr. DoofenSchwartz to be his personal assistant. My name is Norma. The natural enemies of the scorpion are man... and prime numbers that can be expressed as n4 −2023n2 +1, with n integer states Normal with robotic voice. How much is the sum of the prime numbers of the enemies of the ornithorhinks? Or some ornithorins? Or the little ornaments. I mean, you got it. How much is it worth?
+
+**Answer:** 4051
+[[src_archimede_2025_squadre_finale__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q12
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ages of father and son given past and future conditions*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>età di padre e di figlio, date le condizioni passate e future< MSK1/>
+
+> Hélio ha ora < MSK0/> anni. Tre volte l'età di Hélio era esattamente l'età del padre di Hélio. Ora il padre ha il doppio dell'età di suo figlio. Quanti anni hanno Hélio e suo figlio?
+> 
+> (A) anni $72$ e anni $36$ e anni $18$. Quad (B) < MSK3/> anni e < MSK4/> anni e < MSK5/> anni. Quad (C) < MSK6/> anni e < MSK7/> anni. Quad (D) < MSK8/> anni e < MSK9/> anni. \quad (E) < MSK10/> anni e < MSK11/> anni.
+
+**Risposta:** E
+[[src_obm_2000_n1_f1__Q12]]

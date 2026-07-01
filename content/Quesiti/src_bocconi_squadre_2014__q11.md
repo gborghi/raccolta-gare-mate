@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2014 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2014__Q11
 parent: src_bocconi_squadre_2014
 competition: Gara a Squadre 2014
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso di ciascuna delle cinque uova di cioccolato dato sistema di pesate*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $A = 126$ g; $B = 147$ g; $C = 147$ g; $D = 147$ g; $E = 126$ g
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Weight of each of the five chocolate eggs given weighting system*
+
+> In Nando's shop, after the Easter holidays, five chocolate eggs have come in. They are of two different types: some are empty and therefore lighter; others, when filled, are heavier. Nando referred to them as $A$, $B$, $C$, $D$, $E$. The eggs $A$ and $E$ together weigh $252$ g; the eggs $A$, $B$ and $C$ together weigh $420$ g; the eggs $B$, $C$, $D$ and $E$ together weigh $567$ g. What is the weight of each of the five eggs?
+
+**Answer:** $A = 126$ g; $B = 147$ g; $C = 147$ g; $D = 147$ g; $E = 126$ g
+[[src_bocconi_squadre_2014__Q11]]

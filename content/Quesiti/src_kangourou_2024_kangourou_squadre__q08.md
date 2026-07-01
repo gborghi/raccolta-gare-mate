@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_kangourou_squadre__Q08
 parent: src_kangourou_2024_kangourou_squadre
 competition: Kangourou Squadre 2024 Kangourou Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime quattro cifre allineamento somma 14*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3653
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1H4evp3ENM3JXuKHssVIkxKmXh6l0-t0_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last four digits alignment sum 14*
+
+> In a 16-digit alignment, the fourth is 3 and the fifth is 5. In addition, the sum of three consecutive digits in the alignment, wherever they are, is 14. What is the sequence of the last four digits of the alignment?
+
+**Answer:** 3653
+[[src_kangourou_2024_kangourou_squadre__Q08]]

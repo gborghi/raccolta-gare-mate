@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q26
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli contenenti il centro in poligono di 13 lati*
 
@@ -51,3 +54,21 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangles containing the centre in the 13-sided polygon*
+
+> Choosing three of the vertices of a regular polygon identifies a triangle. If the polygon has 13 sides, how many of the triangles that can be formed in this way have the center of the polygon (i.e. the center of the inscribed circumference) inside them? A) 65
+> 	
+> B) 85
+> 	
+> C) 91
+> 	
+> D) 104 E) A number different from the previous ones.
+>
+
+**Answer:** C
+[[src_kangourou_2013_student__Q26]]

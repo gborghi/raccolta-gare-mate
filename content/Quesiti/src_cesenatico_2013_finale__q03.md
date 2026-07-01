@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q03
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Morsi al pasticcino per altezza 1/3 (potenze)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0009
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Height of 1/3 (power) < MSK1/>
+
+> Drink me, Eat me Root finds in the living room a small bottle with the words BEVIMI, containing a liquid that causes a drinker to shrink by a factor of 243,512. Nearby is also a cake with the inscription MANGIAMI, a bite of which makes people enlarge by a factor of 128 81 . Root wants to get exactly a third taller than she is now, so she can get through the little door she's seen. Since Root is a square person, although sometimes irrational, he begins to think about what to do. How many bites will you have to give the pie?
+
+**Answer:** 0009
+[[src_cesenatico_2013_finale__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q06
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *risultato di 000000 meno 00*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The result of the test shall be the following: < MSK0/> result of 000000 minus 00< MSK1/>
+
+> 6. Luke, who has not yet learned the ordinary notation of negative numbers, has devised his own way of representing integers before zero; considering the relative integers closest to zero he would write: 0000, 000, 00, 0, 1, 2, 3, ... . Using its notation, what is the result of 000000  00? A) 1 B) 0000 C) 00000 D) 0000000 E) 00000000
+
+**Answer:** C
+[[src_kangourou_2016_junior_marzo__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale B — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_b__Q13
 parent: src_gas_2009_semifinale_b
 competition: Gara a Squadre 2009 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo ABC in quadrilatero con cerchio e archi*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0138
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular angle ABC with circle and arc *
+
+> The tower's walls The tower of the sorcerer Sarumath the White, lord of Isengraf and traitor of the free peoples, stands in the middle of a plain and is surrounded by two perimeters of walls that intersect each other: the oldest walls draw in the plain a convex quadrilateral ABCD, while the most recent ones are circular in shape and intersect 8 times with the former, remaining divided by the intersection points into 8 arches. Of these, the 4 interiors of the ancient walls are such that the sums of the lengths of two non-consecutive ones are equal to each other. The DAB angle of the quadrilateral is 108°; furthermore, d BCD −d CDA = 30°. Determine the angle d of ABC.
+
+**Answer:** 0138
+[[src_gas_2009_semifinale_b__Q13]]

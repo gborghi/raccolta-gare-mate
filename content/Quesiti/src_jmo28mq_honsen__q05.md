@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2018 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo28mq_honsen__Q05
 parent: src_jmo28mq_honsen
 competition: Japan Mathematical Olympiad 2018 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *find all functions on pairs with level-set and shift conditions*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FbU0XqFYeQTbhZOAOggiqJ27nJzT3Ibf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*trovare tutte le funzioni su coppie con condizioni di impostazione di livello e di spostamento*
+
+> $T$ sia un numero intero positivo. Trovare tutte le funzioni $f$, definite su coppie ordinate di integri positivi e assumendo valori di integri positivi, insieme ad integri $C_0, C_1, \ldots, C_T$, soddisfacendo entrambe le seguenti caratteristiche: \begin{itemize} \item Per ogni integro positivo $n$, ci sono esattamente $n$ coppie ordinate $(k, l)$ di integri positivi con $f(k, l) = n$. \item Per ogni $t = 0, 1, \ldots, T$ e ogni coppia ordinata $(k, l)$ di integri positivi, $f(k + t,\, l + T - t) - f(k, l) = C_t$. # Finire #
+
+[[src_jmo28mq_honsen__Q05]]

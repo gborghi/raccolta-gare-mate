@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q06
 parent: src_archimede_2015_febb_2livello
 competition: Archimede Gara di Febbraio 2015 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto aree triangolo dei simmetrici ed esagono*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/147OSJf1wSBJHNEWKDKPVWMIP2TLevkAt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Report of triangle areas of symmetries and hexagons*
+
+> Given a triangle ABC, be A′ the symmetric of A with respect to C, A′′ the symmetric of A with respect to B, B′ the symmetric of B with respect to A, B′′ the symmetric of B with respect to C, C′ the symmetric of C with respect to B and C′′ the symmetric of C with respect to A. Determine the ratio between the A′B′C′ and that of the A′A′′C′C′′B′B′′.
+>
+> - **(A)** 6 13
+> - **(B)** 7 13
+> - **(C)** 3 7
+> - **(D)** 1 2
+> - **(E)** Depends on the starting triangle.
+
+**Answer:** B
+[[src_archimede_2015_febb_2livello__Q06]]

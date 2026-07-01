@@ -1,6 +1,7 @@
 ---
 title: IMO 2016 (LVII International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2016__Q01
 parent: src_imho_2016
 competition: IMO 2016 (LVII International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Concurrent lines in triangle with angle bisectors*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DJN1I1nyXv23EBAYsmuEqh4UN-f1qoI1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Concurrent lines in triangle with angle bisectors*
+
+> Triangle $BCF$ has a right angle at $B$. Let $A$ be the point on line $CF$ such that $FA = FB$ and $F$ lies between $A$ and $C$. Point $D$ is chosen such that $DA = DC$ and $AC$ is the bisector of $\angle DAB$. Point $E$ is chosen such that $EA = ED$ and $AD$ is the bisector of $\angle EAC$. Let $M$ be the midpoint of $CF$. Let $X$ be the point such that $AMXE$ is a parallelogram (where $AM \parallel EX$ and $AE \parallel MX$). Prove that lines $BD$, $FX$, and $ME$ are concurrent.
+
+[[src_imho_2016__Q01]]

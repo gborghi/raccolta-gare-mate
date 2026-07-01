@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Triennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_triennio__Q12
 parent: src_archimede_2008_triennio
 competition: Giochi di Archimede 2008 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo di 27 consecutivi con media 2008*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Smallest of 27 consecutive years with average 2008< MSK1/>
+
+> The arithmetic mean of twenty-seven consecutive natural numbers is 2008. How much is the smallest of them worth?
+>
+> - **(A)** 1995,
+> - **(B)** 1997,
+> - **(C)** 1999,
+> - **(D)** 2001,
+> - **(E)** 2004.
+
+**Answer:** A
+[[src_archimede_2008_triennio__Q12]]

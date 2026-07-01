@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_femminile__Q06
 parent: src_squadre_2024_femminile
 competition: Gara a Squadre Femminile 2024 - Finale Nazionale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma n*a_n^2024 con a_n opposto somma divisori propri*
 
@@ -38,3 +41,13 @@ tags:
 **Metodo:** [[method_ricorsione|Ricorsione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum n*a_n^2024 with a_n opposite sum of proper divisors*
+
+> The generosity of Zenonigata Zenonigata is so obsessed with Lupin/3 that he has promised that when he captures him, he will give to his colleagues as many MathYen as the sum of the digits of the sum of the digits of the sum of the digits of 20232024. How many MathYen are there?
+
+[[src_squadre_2024_femminile__Q06]]

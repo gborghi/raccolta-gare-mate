@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale A — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_a__Q02
 parent: src_gas_2009_semifinale_a
 competition: Gara a Squadre 2009 - Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di prodotto/quoziente di differenze di quadrati*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4018
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Wx24coOZuHD5lnXnMkNRwAuUmiEDrRDK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Product value/quotient of differences in squares*
+
+> Years of experience The bodies or shepherds of the forest are intelligent trees of millennia. Polimino Tuc, called Polino, is instead a specimen of gobbits, creatures that resemble small, rounded humans, lively and lovers of beautiful life. Talking to an entity, Polino discovers the legendary longevity of these extraordinary creatures. When Polino asks him how old he is, he responds seraphically and scanning the words: (20092 −20072)(20092 −20062)(20092 −20052)...(20092 −02) (20082 −20072)(20082 −20062)(20082 −20052)...(20082 −02) How old is this particular entity?
+
+**Answer:** 4018
+[[src_gas_2009_semifinale_a__Q02]]

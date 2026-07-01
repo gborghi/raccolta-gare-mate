@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2011 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2011__Q03
 parent: src_rmo_2011
 competition: Regional Mathematical Olympiad 2011
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Consecutive perfect squares; prove n-kl is a perfect square*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11naePAaLu3tt8jkxesNT0s0aRYNpRilH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Squadrati perfetti consecutivi; dimostrare che n-kl è un quadrato perfetto*
+
+> Un numero naturale $n$ è scelto rigorosamente tra due quadrati perfetti consecutivi. Il più piccolo di questi due quadrati si ottiene sottraendo $k$ da $n$ e il più grande si ottiene aggiungendo $l$ a $n$. Prova che $n - kl$ è un quadrato perfetto.
+
+[[src_rmo_2011__Q03]]

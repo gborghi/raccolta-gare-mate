@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q22
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum number of finite-area polygons formed by 10 pairwise non-parallel lines*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nombre massimo di poligoni di area finita formati da 10 linee non parallele in coppia*
+
+> Supponiamo che nel piano 10 linee non parallele in coppia si incrociano tra loro. Qual è il numero massimo possibile di poligoni con superficie finita che 10 linee possono formare?
+
+[[src_prmo_2017__Q22]]

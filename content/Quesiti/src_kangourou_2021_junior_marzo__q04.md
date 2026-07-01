@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q04
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezza del rettangolo in basso a destra dalle aree*
 
@@ -68,3 +71,23 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Height of the lower right rectangle from the areas*
+
+![[src_kangourou_2021_junior_marzo__prob4.png]]
+
+> Six rectangles are aligned as shown in the figure. For each rectangle, the number inside indicates the area in 3 cm2; the upper left rectangle is 6 cm high. How much is the height in centimetres of the rectangle at the bottom right? A) 4
+> 	
+> B) 5
+> 	
+> C) 6
+> 	
+> (D) 7.5 E) 10 Compared to the previous year's figures, the Commission has adopted a number of proposals for a number of measures.
+>
+
+**Answer:** B
+[[src_kangourou_2021_junior_marzo__Q04]]

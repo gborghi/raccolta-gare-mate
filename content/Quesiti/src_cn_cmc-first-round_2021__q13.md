@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q13
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A1-2: vectors a=(1+2^m,1-2^m), b=(4^m-3,4^m+5); minimum of a·b.*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A1-2: vettori a=(1+2^m,1-2^m), b=(4^m-3,4^m+5); minimo di a·b.*
+
+> [Test Paper A1, Problema 2] Dato che i vettori $\vec{a}=(1+2^m,1-2^m)$, $\vec{b}=(4^m-3,4^m+5)$, supponiamo che $m$ sia reale. In questo caso il minimo del prodotto dotto $\vec{a}\cdot\vec{b}$ è ______.
+
+**Risposta:** -6
+[[src_cn_cmc-first-round_2021__Q13]]

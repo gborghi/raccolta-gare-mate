@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2011 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2011__Q08
 parent: src_cn_csmo_2011
 competition: China Southeastern Mathematical Olympiad 2011
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Color 12 clock-face points in 4 colors; find largest n convex quadrilaterals with no shared color among any three*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Colore 12 punti di faccia dell'orologio in 4 colori; trovare i più grandi n quadrilaterali convexi senza colore condiviso tra i tre*
+
+> Considerate 12 cifre sulla faccia dell'orologio come 12 punti. Colorateli in quattro colori: rosso, giallo, blu e verde. Ogni colore è usato per tre punti. Configurare i quadrilaterali convexi con vertici in questi punti in modo che ogni quadrilaterale abbia un vertice di ogni colore. Trova il numero più grande $n$ di tali quadrilaterali in modo tale che tra tutti e tre di questi quadrilaterali non ci sia vertice dello stesso colore nella stessa posizione. (posta da Tao Pingsheng)
+
+**Risposta:** 9
+[[src_cn_csmo_2011__Q08]]

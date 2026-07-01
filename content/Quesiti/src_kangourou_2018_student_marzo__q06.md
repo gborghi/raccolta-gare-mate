@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q06
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti modi 1001 come somma di due primi*
 
@@ -58,3 +61,23 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>In how many ways 1001 as the sum of two prime < MSK1/>
+
+> How many different ways (except the order) can the number 1001 be written as the sum of two prime numbers? A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 3
+> 	
+> (e) more than 3 ports 1 3 4 5 2 2006 + 2009 + 2012 + 2015 + 2018 + 2021 + 2024 + 2027 + 2030
+>
+
+**Answer:** A
+[[src_kangourou_2018_student_marzo__Q06]]

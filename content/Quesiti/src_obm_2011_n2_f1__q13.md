@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q13
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Hypotenuse XY of right triangle from the two medians to the legs*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ipotenusa XY di triangolo rettangolo dai due mediani alle gambe< MSK1/>
+
+> Che $XOY$ sia un triangolo rettangolo con $X\hat{O}Y = 90^\circ$. I punti intermedi $M$ e $N$ siano rispettivamente i punti intermedi $OX$ e $OY$ delle gambe. Dato che $XN = 19$ e $YM = 22$, determinare la misura del segmento $XY$.
+> 
+> (A) $24$ \quad (B) $26$ \quad (C) $28$ \quad (D) $30$ \quad (E) $32$
+
+[[src_obm_2011_n2_f1__Q13]]

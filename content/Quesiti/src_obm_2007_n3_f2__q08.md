@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f2__Q08
 parent: src_obm_2007_n3_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a triangle in a circle configuration is equilateral with side 8 and compute its area*
 
@@ -52,3 +55,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zX7z5wzrS24GDIg6SjMeYYN4pu7op9WA/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che un triangolo in una configurazione di cerchio è equilaterale con il lato 8 e calcola la sua superficie*
+
+> Nella configurazione data, i punti $A$, $B$, $C$, $D$, $E$, $F$ sono associati a un cerchio, con $AD = BC$, $ED = EB$ e $\angle CDE = \angle FCE = \alpha$, in modo che $\angle ADE = \angle BCE = 180^\circ - \alpha$. Le linee $AD$ e $BC$ sono estese fino a quando non si incontrano al punto $F$ e $\angle AFB = 60^\circ = \angle DEC$. Mostra che il triangolo $ADE$ è congruente al triangolo $BCE$, quindi $EA = EB$ e $\angle AEB = \angle DEC = 60^\circ$, in modo che il triangolo $ABE$ sia equilaterale con il lato $8$. Calcolare l'area del triangolo $ABE$.
+
+![[src_obm_2007_n3_f2__Q08.png]]
+
+**Risposta:** $16\sqrt{3}\ \text{cm}^2$
+[[src_obm_2007_n3_f2__Q08]]

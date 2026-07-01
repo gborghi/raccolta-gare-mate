@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q02
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Hotel guests: maximum eating none of three meats*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ospiti alberghieri: massimo non si mangia più di tre carni< MSK1/>
+
+> Un hotel ha 100 ospiti. 30 mangiano carne di maiale, 60 mangiano pollo e 80 mangiano carne bovina. Qual è il numero massimo di persone che non mangiano nessuno di questi tre tipi di carne?
+> 
+> A) 10 \quad B) 20 \quad C) 30 \quad D) 40 \quad E) 50
+
+**Risposta:** D
+[[src_obm_1999_n3_f1__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q06
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Volume of all platinum produced in 50 years (density 21.45 g/cm3, 110 t/year); closest object*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Volume di tutto il platino prodotto in 50 anni (densità 21,45 g/cm3, 110 t/anno); oggetto più vicino < MSK1/>
+
+> Il platino è un metallo molto raro, anche più raro dell'oro. La densità è < MSK0/>. Supponiamo che la produzione mondiale di platino fosse di circa < MSK1/> tonnellate in ciascuno degli ultimi < MSK2/> anni, e trascurabile prima di allora. Indicare l'alternativa con l'oggetto il cui volume è più vicino al volume di platino prodotto nel mondo in tutta la storia. A) una scatola di scarpe B) una piscina C) un edificio di dieci piani D) il Monte Pascoal E) la Luna
+
+**Risposta:** B
+[[src_obm_2005_n2_f1__Q06]]

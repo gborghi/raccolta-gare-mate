@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale A — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_a__Q02
 parent: src_gas_2010_semifinale_a
 competition: Gara a Squadre 2010 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio bugiardi in cerchio con affermazioni sui vicini*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0670
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting of lies in a circle with statements about neighbors*
+
+> Mutiny The true pearl swarm is divided into two factions: the MSK0/> rat recruited by Captain Jack Disparrow, who always tell the truth, and those recruited by the fearsome Bourbakossa, who always lie and plan to mutine. At the end of the final report, as early as 2010 members of the crew were arranged in a circle on the deck of the ship. Each of them says out loud, "Of my two neighbors, one was recruited by Jack and the other by Bourbakossa". Knowing that Master Gibbs is also in the circle, who was the first to be recruited by Jack, how many mutineers will there be in total?
+
+**Answer:** 0670
+[[src_gas_2010_semifinale_a__Q02]]

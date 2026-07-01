@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Koala — Gioco Koala — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_koala__Q07
 parent: src_kangourou_2022_koala
 competition: Kangourou 2022 Koala — Gioco Koala
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti quadretti macchiati*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nyec1GxOQ3f28I_D0c1kacejlV99W-GD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many squares are stained< MSK1/>
+
+![[src_kangourou_2022_koala__prob7.png]]
+
+> A drop of ink fell on a square piece of paper, as you can see in the picture. How many paintings are stained? (see figure)
+
+**Answer:** E
+[[src_kangourou_2022_koala__Q07]]

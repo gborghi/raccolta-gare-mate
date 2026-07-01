@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1967 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1967_r3__Q06
 parent: src_pol_1967_r3
 competition: Olimpiade Matematica Polacca 1967 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic polygon with odd sides and equal angles is regular*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOZgCbQj4f0sjxRkfqvY1uffN7E7Z8k0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il poligono ciclico con lati unici e angoli uguali è regolare*
+
+> Prova che se un poligono ciclico con un numero impar di lati ha tutti gli angoli uguali, allora questo poligono è regolare.
+
+[[src_pol_1967_r3__Q06]]

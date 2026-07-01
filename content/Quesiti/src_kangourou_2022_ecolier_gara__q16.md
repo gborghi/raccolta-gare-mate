@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier gara individuale — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q16
 parent: src_kangourou_2022_ecolier_gara
 competition: Kangourou 2022 Ecolier gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di figure scelte da Viola*
 
@@ -54,3 +57,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of figures selected by Viola< MSK1/>
+
+![[src_kangourou_2022_ecolier_gara__prob16.png]]
+
+> Viola picks some of the shapes you see in the figure and describes them like this: Of the shapes I've chosen, two are gray, two are big and two are round. What's the smallest number of characters that Viola could have chosen? A) 2
+>   
+> B) 3
+>   
+> C) 4
+>   
+> D) 5
+>   
+> E) 6 Questions from N. 17 al N. Twenty-four is worth five points each.
+
+**Answer:** B
+[[src_kangourou_2022_ecolier_gara__Q16]]

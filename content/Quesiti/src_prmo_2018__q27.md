@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 27
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q27
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Colour 4x4 chessboard red/blue so each row and column has exactly 2 red and 2 blue, count ways*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 90
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Colour 4x4 scacchi rosso/blu così ogni riga e colonna ha esattamente 2 rosso e 2 blu, contare modi*
+
+> Qual è il numero di modi in cui si possono colorare i quadrati di un scacchi $4 \times 4$ con colori rosso e blu in modo tale che ogni riga e ogni colonna abbiano esattamente due quadrati rossi e due quadrati blu?
+
+**Risposta:** 90
+[[src_prmo_2018__Q27]]

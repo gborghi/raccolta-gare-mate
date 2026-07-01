@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Benjamin — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin__Q08
 parent: src_kangourou_2014_benjamin
 competition: Kangourou 2014 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo perle bianche da sfilare con le grigie*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum white pearls to be displayed with grays< MSK1/>
+
+![[src_kangourou_2014_benjamin__prob8.png]]
+
+> Franca's necklace you see in the picture contains the gray and white pearls. Franca wants to give Bruna five of the gray pearls, slicing them from the ends. Since finding the pearls again takes a long time, Franca wants to parade with the greys the few white pearls that will allow her to achieve her goal. What's this number? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** B
+[[src_kangourou_2014_benjamin__Q08]]

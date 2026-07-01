@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f2__Q06
 parent: src_obm_2009_n2_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Chinese Remainder Theorem table mod 7 and mod 3; sum highlighted cells*
 
@@ -52,3 +55,19 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Table della Teorema dei Rimanenti Cinesi mod 7 e mod 3; somma delle celle evidenziate*
+
+> $m$ e $n$ siano due integri positivi con $\gcd(m,n)=1$ e $0 \le j < m$, $0 \le i < n$. Il teorema del rimanente cinese afferma che esiste esattamente un intero $a$ con $0 \le a < mn$ in modo tale che il resto della divisione $a$ da $m$ equivale a $j$ e il resto della divisione $a$ da $n$ equivale a $i$. Ad esempio, con $m=7$ e $n=3$, abbiamo $19$ come numero unico in $\{0,1,\ldots,20\}$ che lascia il rimanente $5$ quando diviso da $7$ e il rimanente $1$ quando diviso da $3$.
+> 
+> Si forma quindi una tabella in cui ciascuna cella $(i,j)$ ( riga $i$ per mod restante $3$, colonna $j$ per mod restante $7$) contiene il valore unico $a \in \{0,1,\ldots,20\}$ che soddisfa le due congruenze. La tabella è parzialmente riempita come mostrato, con il numero $19$ presente in una delle celle evidenziate.
+> 
+> Qual è la somma dei numeri nelle celle evidenziate?
+
+![[src_obm_2009_n2_f2__Q06.png]]
+
+[[src_obm_2009_n2_f2__Q06]]

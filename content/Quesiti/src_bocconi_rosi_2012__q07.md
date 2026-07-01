@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2012 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2012__Q07
 parent: src_bocconi_rosi_2012
 competition: Giochi di Rosi 2012
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo scarpe da estrarre per avere un paio dello stesso colore*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 15
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1du4nM_pjVseEMRiX1hz7hrTEkEIg-ZC2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum shoe extraction to have a pair of the same color< MSK1/>
+
+> In my closet there are seven pairs of black shoes, five white shoes and two red shoes. If I take my shoes out of the closet without looking, how many shoes do I have to take at least to make sure I have a pair (a left shoe and a right shoe) of the same color?
+
+**Answer:** 15
+[[src_bocconi_rosi_2012__Q07]]

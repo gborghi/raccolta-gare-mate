@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q26
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura dell'angolo BDC nel quadrilatero*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measurement of the BDC angle in the quadrilateral*
+
+> In an ABCD convex quadrilateral the AB side and the AC diagonal have the same length. In addition, the BAD angle measures 80°, the ABC angle measures 75°, and the ADC angle measures 65°. How many degrees does the BDC angle measure? A) 10 B) 15 C) 20 D) 30 E) 45
+
+**Answer:** B
+[[src_kangourou_2011_cadet__Q26]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2007 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2007__Q12
 parent: src_bocconi_squadre_2007
 competition: Gara a Squadre 2007
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Salti di una volpe inseguita da un cane: quando raggiunge la volpe?*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Jumps of a fox chased by a dog: when does it reach the fox?*
+
+> A fox, always chased by a dog, taking advantage of its momentary drowsiness, took advantage with 27 jumps. It's easy to predict that now that the dog has woken up, he'll soon catch up with her. Keep in mind that three leaps of fox length equals two leaps of dog length. But at the same time that the dog makes four jumps, the fox does five.
+> 
+> In how many jumps will the dog reach the fox?
+
+[[src_bocconi_squadre_2007__Q12]]

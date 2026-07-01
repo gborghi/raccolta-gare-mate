@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q20
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Diagonale XA del parallelepipedo (Pitagora)*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>XA diagonal of the parallel piped (Pitagora) < MSK1/>
+
+![[src_kangourou_2006_student_marzo__prob20.png]]
+
+> A rectangular parallel piped is shown in the figure. The dimensions, in centimetres, of the sides of the XYZ triangle are 8, 9 and . What is the size, in centimeters, of the XA diagonal? A) B) 10 C) D) 11 E) Questions from N. 21 al N. 30 is worth 5 points.
+
+**Answer:** B
+[[src_kangourou_2006_student_marzo__Q20]]

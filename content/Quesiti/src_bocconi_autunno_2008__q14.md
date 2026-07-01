@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2008 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2008__Q14
 parent: src_bocconi_autunno_2008
 competition: Giochi d'Autunno 2008
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero uguale al doppio del quadrato della somma delle sue cifre aumentato della somma*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 171, 465, 666
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number equal to twice the square of the sum of its digits plus the sum*
+
+> Find a number that is twice the square of the sum of its digits plus the sum of its digits.
+
+**Answer:** 171, 465, 666
+[[src_bocconi_autunno_2008__Q14]]

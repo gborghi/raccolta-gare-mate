@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo13yq_yosen__Q01
 parent: src_jmo13yq_yosen
 competition: Japan Mathematical Olympiad 2003 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pay 777 yen with fewest coins; change is allowed*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Pagare 777 yen con il minor numero di monete; è consentito il cambio
+
+> Utilizzando le monete di 1 yen, 5 yen, 10 yen, 50 yen, 100 yen e 500 yen, pagate esattamente < MSK0/> yen in modo che il numero totale di monete pagate sia il più piccolo possibile. Trova questo numero totale minimo di monete. È possibile utilizzare qualsiasi numero di monete di ciascuna denominazione; non è necessario utilizzare tutte le monete. Potete anche ricevere cambiamenti (cioè potete pagare in eccesso e ricevere la differenza).
+
+**Risposta:** 6
+[[src_jmo13yq_yosen__Q01]]

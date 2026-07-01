@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2003 — Round 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2003_r1__Q12
 parent: src_pol_2003_r1
 competition: Olimpiade Matematica Polacca 2003 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For positive reals a,b,c,d with A=a^3+b^3+c^3+d^3 and B=bcd+cda+dab+abc, prove (a+b+c+d)^3 <= 4A+24B.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per i reali positivi a,b,c,d con A=a^3+b^3+c^3+d^3 e B=bcd+cda+dab+abc, provare (a+b+c+d)^3 <= 4A+24B.*
+
+> Per i numeri reali positivi $a$, $b$, $c$, $d$, indicare $A=a^3+b^3+c^3+d^3$ e $B=bcd+cda+dab+abc$. Provare che < MSK0/>
+
+[[src_pol_2003_r1__Q12]]

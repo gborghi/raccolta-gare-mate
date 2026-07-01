@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2000-01 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2000-01_round2__Q04
 parent: src_bmo_2000-01_round2
 competition: British Mathematical Olympiad 2000-01 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Numbers 1 to N in a circle; find max and min of sum of neighbour differences*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UYH7Ndk8ttJ-fkOUzCb8p7ZtSGt7VJ1m/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri da 1 a N in un cerchio; trovare il massimo e il minimo della somma delle differenze vicine*
+
+> I numeri $N$ $1, 2, 3, \ldots, N$ sono disposti in un cerchio. Per ogni coppia di nani vicini viene calcolata la differenza positiva tra i numeri, e la somma di queste differenze $N$ viene chiamata $V$.
+> 
+> Trova (con prova) i valori massimi e minimi possibili di $V$.
+
+[[src_bmo_2000-01_round2__Q04]]

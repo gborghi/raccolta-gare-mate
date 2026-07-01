@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Biennio — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_biennio__Q19
 parent: src_archimede_1997_biennio
 competition: Giochi di Archimede 1997 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Negazione di una frase quantificata*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TBCBxk41PfhfCNwF0me53U4VCY16S0qo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Denial of a quantified sentence*
+
+> What's the negation of the phrase Every 1st grade student has at least 2 cousins?
+>
+> - **(A)** No 1st grade student has cousins.
+> - **(B)** All 1st A students have a cousin.
+> - **(C)** At least one 1st A student has only one cousin.
+> - **(D)** At least one 1st A student has no cousins.
+> - **(E)** None of the above is the denial of the given sentence.
+
+**Answer:** E
+[[src_archimede_1997_biennio__Q19]]

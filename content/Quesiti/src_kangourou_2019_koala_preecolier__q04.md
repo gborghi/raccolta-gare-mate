@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q04
 parent: src_kangourou_2019_koala_preecolier
 competition: Kangourou 2019 Koala n.6 Pre-Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante paia di calze con lo stesso numero*
 
@@ -43,3 +46,23 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many pairs of socks with the same number< MSK1/>
+
+![[src_kangourou_2019_koala_preecolier__prob4.png]]
+
+> In the picture you can see socks, each with a number on it. To make a pair, you have to use two socks with the same number. How many pairs of socks can you make?
+>
+> (see figure)
+>
+> - **(A)** 8
+> - **(B)** 6
+> - **(C)** 5
+> - **(D)** 4
+> - **(E)** 3
+
+[[src_kangourou_2019_koala_preecolier__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Ecolier finale (maggio) — Quesito E5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_ecolier_maggio__QE5
 parent: src_kangourou_2007_ecolier_maggio
 competition: Kangourou 2007 Ecolier finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trasformazioni di gettoni (invariante di parita)*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** si/si/no
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fZINTJ5guIb2ezsX6JthVc7FkvQfrpis/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Traditions of tokens (invariable of parity) *
+
+> You have four round, two triangular and five square tokens. Every time you give me a round and a triangle I give you a square - a square and a triangle I give you a round - a round and a square I give you no tokens
+> 
+> And these are the only chances you have of altering the situation.
+> 
+> Answer the following questions. 1) Can you stay with 5 squares? How (or, if not, why not)? 2) Can you stay with just one token? How (or, if not, why not)? 3) Can you remove all the tokens? How (or, if not, why not)?
+
+**Answer:** si/si/no
+[[src_kangourou_2007_ecolier_maggio__QE5]]

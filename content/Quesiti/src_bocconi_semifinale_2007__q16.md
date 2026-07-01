@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2007 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2007__Q16
 parent: src_bocconi_semifinale_2007
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2007
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Contare numeri di 10 cifre distinte divisibili per 11*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 285.120
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting numbers of 10 distinct digits divisible by 11*
+
+> How many numbers are written with the 10 digits 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 (each used once), which are divisible by 11?
+
+**Answer:** 285.120
+[[src_bocconi_semifinale_2007__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale nazionale Junior — Quesito J5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_finale__QJ5
 parent: src_kangourou_2019_junior_finale
 competition: Kangourou 2019 Finale nazionale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Per quali n il numero 5^(5n+1)+4^(5n+2)+3^(5n) e divisibile per 11*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** tutti
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*For which n the number 5^(5n+1)+4^(5n+2)+3^(5n) is divisible by 11*
+
+> For which non-negative integers $n$, the number $5^{5n+1} + 4^{5n+2} + 3^{5n}$ is divisible by 11?
+
+**Answer:** tutti
+[[src_kangourou_2019_junior_finale__QJ5]]

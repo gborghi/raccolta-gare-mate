@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f3__Q04
 parent: src_obm_2003_n2_f3
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove $x^2+4y^2-4xy+2x-4y+2>0$ for all reals $x,y$*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uhVXECvta8Ycz4kch8C6GF4_k1qhNTYm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prova $x^2+4y^2-4xy+2x-4y+2>0$ per tutti i reali $x,y$*
+
+> Prova che $x^2 + 4y^2 - 4xy + 2x - 4y + 2 > 0$ per tutti i numeri reali $x$ e $y$.
+
+[[src_obm_2003_n2_f3__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet__Q26
 parent: src_kangourou_2005_cadet
 competition: Kangourou 2005 - Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri tra 10 e 99 piu che triplicati scambiando cifre*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Numbers between 10 and 99 more than tripled by exchanging digits< MSK1/>
+
+> How many positive integers between 10 and 99 are more than tripled when you exchange their numbers ? The Commission has therefore decided to extend the period of validity of this Regulation to the following three years:
+> 
+> I'm going to pay. I'm going to pay. 21 21 Kang 2005 Kang
+
+**Answer:** A
+[[src_kangourou_2005_cadet__Q26]]

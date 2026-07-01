@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_preecolier_marzo__Q23
 parent: src_kangourou_2016_preecolier_marzo
 competition: Kangourou 2016 Pre-Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Simbolo sulla faccia opposta a quella con il simbolo dato*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Symbol on the face opposite the one with the given symbol*
+
+> On each of the six faces of a cube there is one (and only one) of these $\blacklozenge$ $\blacktriangledown$ $\bullet$ $\bigstar$ $\blacksquare$ $\bigstar$ symbols and there are no two faces on which there is the same symbol. The two figures show you the cube seen from two different points of view. Which of the following is the symbol on the face opposite to the one on which the $\bigstar$ symbol is located? (see figure)
+>
+> - **(A)** $\blacktriangledown$
+> - **(B)** $\blacklozenge$
+> - **(C)** $\bullet$
+> - **(D)** $\bigstar$
+> - **(E)** $\blacksquare$
+
+**Answer:** A
+[[src_kangourou_2016_preecolier_marzo__Q23]]

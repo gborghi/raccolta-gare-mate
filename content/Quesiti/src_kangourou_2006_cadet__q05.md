@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q05
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo su foglio quadrettato*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the triangle on square sheet*
+
+> The figure represents a square sheet on which a triangle is drawn. If the side of each square is 1 centimetre, the area of the triangle is (in square centimetres) A) 25.5 B) 25.75 C) 26.25 D) 28 E) 24.7
+
+**Answer:** A
+[[src_kangourou_2006_cadet__Q05]]

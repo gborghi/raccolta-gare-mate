@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2012 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2012__Q03
 parent: src_bocconi_squadre_2012
 competition: Gara a Squadre 2012
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di salti del canguro per 100 metri*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 40 salti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of kangaroo jumps per 100 metres*
+
+> Kangaroos are known to jump and move only by jumping. Our kangaroo makes two jumps in $1.5$ seconds, moving at $12$ km/h.
+> 
+> How many jumps does she take in the 100 meters?
+
+**Answer:** 40 salti
+[[src_bocconi_squadre_2012__Q03]]

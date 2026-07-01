@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q03
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Disuguaglianza corretta tra i percorsi P,Q,R*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Correct inequality between paths P,Q,R*
+
+![[src_kangourou_2021_junior_marzo__prob3.png]]
+
+> The figure shows three equal equilateral triangles and three possible paths starting from the top to the bottom right of each triangle, with lengths P, Q and R. Which of the following inequalities is correct? A) P < Q < R
+> 	
+> B) P < R < Q
+> 	
+> C) P < Q = R D) P = R < Q
+> 	
+> E) P = Q = R
+
+**Answer:** B
+[[src_kangourou_2021_junior_marzo__Q03]]

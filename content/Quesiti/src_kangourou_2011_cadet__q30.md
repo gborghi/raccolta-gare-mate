@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q30
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza del lato x del triangolo ottenuto ricomponendo*
 
@@ -53,3 +56,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of the x side of the triangle obtained by reconstituting*
+
+![[src_kangourou_2011_cadet__prob30.png]]
+
+> The figure shows a plane region with two rectangles and shows the lengths of the two sides of the rectangles: 11 and 13. By dividing the region into three parts and approaching them as indicated by the arrows, you get the triangle represented on the side. What is the length of the side denoted by x? The Commission has therefore decided to extend the period of validity of this Regulation to the following areas:
+> 
+> 1 2011 Cadet category
+
+**Answer:** B
+[[src_kangourou_2011_cadet__Q30]]

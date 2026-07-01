@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q24
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Random point P in square QRST; probability that angle RPQ is acute.*
 
@@ -57,3 +60,22 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto casuale P in quadrato QRST; probabilità che l'angolo RPQ sia acuto.*
+
+> Si sceglie un punto $P$ all'interno del quadrato $QRST$. Qual è la probabilità che l'angolo $R\hat{P}Q$ sia acuto?
+>
+> - **(A)** $\frac{3}{4}$
+> - **(B)** $\sqrt{2}-1$
+> - **(C)** $\frac{1}{2}$
+> - **(D)** $\frac{\pi}{4}$
+> - **(E)** $1-\frac{\pi}{8}$
+
+![[src_obm_2010_n3_f1__Q24.png]]
+
+**Risposta:** E
+[[src_obm_2010_n3_f1__Q24]]

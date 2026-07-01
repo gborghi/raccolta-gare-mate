@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f2__Q03
 parent: src_obm_2010_n3_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three mutually tangent circles and quadrilateral; find inscribed circle radius*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre cerchi e quadrilaterali reciprocamente tangenti; trovare il raggio del cerchio inscritto*
+
+> Nella figura seguente, tre cerchi tracciati in traccia continua sono tutti tangenti alle due linee $r$ e $s$ che attraversano i punti $A$, $B$, $C$, $D$. Inoltre, il cerchio più piccolo è anche tangente a $AD$, il cerchio più grande è anche tangente a $BC$, e il cerchio inserito nel quadrilaterale $ABCD$ è anche tangente a $AD$. I radii dei due cerchi esterni tangenti al quadrilaterale $ABCD$ sono $8$ e $18$. Calcolare il raggio $R$ del cerchio inserito in $ABCD$.
+
+![[src_obm_2010_n3_f2__Q03.png]]
+
+[[src_obm_2010_n3_f2__Q03]]

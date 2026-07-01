@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Ecolier 2024 — Quesito E4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_finale__QE4
 parent: src_kangourou_2024_ecolier_finale
 competition: Kangourou Finale Ecolier 2024
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Si puo dedurre il significato di KAB*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** no
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1w21FKv9v3Gf8h_K0skpT381-6hGBkHto/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>The meaning of KAB< MSK1/> can be deduced
+
+> In the strange language of Kangland, the words yes and no are translated into KAB and BAK, but not necessarily in this order. You meet a person you can trust who speaks both Italian and Kangal and ask them: Is it true that KAB means 'yes'? The person replies: KAB. Can you tell if KAB means yes or no?
+
+**Answer:** no
+[[src_kangourou_2024_ecolier_finale__QE4]]

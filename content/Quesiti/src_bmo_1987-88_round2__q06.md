@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1987-88 — Round 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1987-88_round2__Q06
 parent: src_bmo_1987-88_round2
 competition: British Mathematical Olympiad 1987-88 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *If two triangles have sides a1,b1,c1 and a2,b2,c2, prove geometric means form a triangle*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1saRGuH3Bwi42EqoEIhAENB9ZwUjztngB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Se due triangoli hanno lati a1,b1,c1 e a2,b2,c2, dimostrare che i mezzi geometrici formano un triangolo
+
+> Prova che se $a_1$, $b_1$, $c_1$ e $a_2$, $b_2$, $c_2$ sono le lunghezze dei lati di due triangoli (in qualche unità di misura), allora $$a = \sqrt{a_1 a_2}, \quad b = \sqrt{b_1 b_2}, \quad c = \sqrt{c_1 c_2}$$ sono anche le lunghezze dei lati di un triangolo.
+
+[[src_bmo_1987-88_round2__Q06]]

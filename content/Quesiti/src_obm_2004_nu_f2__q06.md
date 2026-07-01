@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2 —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_nu_f2__Q06
 parent: src_obm_2004_nu_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove chord inequality for unit-speed simple closed curve*
 
@@ -52,3 +55,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WVgS-I5YT_klW86nflai_QTNcRLnc5kh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza di accordi per una curva chiusa semplice a velocità unità*
+
+> Che $\gamma:[0,2\pi]\to\mathbb{R}^2$ sia una funzione differenziabile con derivata continua, $|\gamma'(t)|=1$ per tutte le $t$, la cui immagine è una curva chiusa semplice; cioè, $$\gamma(t_1)=\gamma(t_2),\quad t_1<t_2\implies t_1=0,\;t_2=2\pi.$$
+> 
+> Prove che esiste $0\le t_0<t_1<2\pi$ tale che $$|\gamma(t_1)-\gamma(t_0)|\le\frac{1}{\pi}\min\{t_1-t_0,\,2\pi+t_0-t_1\}.$$
+
+[[src_obm_2004_nu_f2__Q06]]

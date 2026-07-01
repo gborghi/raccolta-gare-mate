@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q05
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *La meta di un centesimo*
 
@@ -55,3 +58,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The goal of a penny*
+
+> Half a cent is A) 0.5 B) 0.002 C) 0.005 D) 0.02 E) 0.05 5 7 2 68 41 309 500 crowns 1200 crowns Benjamin_06.qxp 20/02/2006 23.56 Page 10
+> 
+> I'm going to pay. I'm going to pay. 11 11 Kang 2006 Kang
+
+**Answer:** C
+[[src_kangourou_2006_benjamin__Q05]]

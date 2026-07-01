@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q08
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Superficie totale del solido a due cubi*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Total surface area of the two-cubic solid< MSK1/>
+
+> The solid in the figure consists of two cubes. The smallest, whose side is 1 centimeter long, is entirely resting on the upper face of the larger cube whose side measures 3 centimeters. What is the total surface area of the solid measured in square centimetres? A) 56 B) 58 C) 60 D) 62 E) 64
+
+**Answer:** B
+[[src_kangourou_2006_cadet__Q08]]

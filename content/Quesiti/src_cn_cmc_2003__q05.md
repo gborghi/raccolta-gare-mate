@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2003 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2003__Q05
 parent: src_cn_cmc_2003
 competition: China Mathematical Competition 2003
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the minimum value of a two-variable expression subject to a constraint.*
 
@@ -47,3 +50,16 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il valore minimo di un'espressione a due variabili soggetta a un vincolo.*
+
+> Supponiamo $x, y \in (-2, 2)$ e $xy = -1$. Il valore minimo di $u = \frac{4}{4 - x^2} + \frac{9}{9 - y^2}$ è ( ).
+> 
+> (A) $\frac{8}{5}$ \quad (B) $\frac{24}{11}$ \quad (C) $\frac{12}{7}$ \quad (D) $\frac{12}{5}$
+
+**Risposta:** (D) $\frac{12}{5}$
+[[src_cn_cmc_2003__Q05]]

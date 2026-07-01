@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2016 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_classiprime__Q18
 parent: src_archimede_2016_classiprime
 competition: Gara Nazionale Classi Prime 2016
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del quadrato intermedio con vertici allineati*
 
@@ -58,3 +61,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11_tVYKZUBusCSJwiRULQD9nPIEI-cYvl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Intermediate square area with aligned vertices*
+
+![[src_archimede_2016_classiprime__prob18.png]]
+
+> Three squares, drawn as shown, have the vertices P, Q and R aligned. We also know that the side of the smallest one measures one meter and that of the largest one measures 120 centimeters. P Q R What is the area in cm2 of the average size? A 12000 B 14400 C 12200 D 11000 E 12100 F 12400 1
+> 
+> Solutions Below you will find the solutions in written form. The video solutions will be posted a bit at a time on my YouTube channel: problemisoluti.it. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+
+**Answer:** A
+[[src_archimede_2016_classiprime__Q18]]

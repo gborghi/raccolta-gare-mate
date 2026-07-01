@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale_a__Q04
 parent: src_kangourou_2019_ecolier_semifinale_a
 competition: Kangourou Coppa Ecolier squadre 2019 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di accostare 4 cartoncini di 2019*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0018
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to attach 4 2019 cards*
+
+> Rita has 4 numbered cards on each of which is one of the four digits of 2019 and the figure 9 is underlined, so as not to confuse it with 6. How many ways can you approach the cards if you want to get a significant four-digit number (i.e. you can't write using just three digits)?
+
+**Answer:** 0018
+[[src_kangourou_2019_ecolier_semifinale_a__Q04]]

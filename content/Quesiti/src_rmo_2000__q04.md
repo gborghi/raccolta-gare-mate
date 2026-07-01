@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2000 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2000__Q04
 parent: src_rmo_2000
 competition: Regional Mathematical Olympiad 2000
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *7-digit numbers with digits 1-7 each once, not divisible by 5, find 2000th in order*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12rUdRsFDdXuqpCuHRpFpmWSAWCuy3oU3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*numeri a 7 cifre con cifre da 1-7 ogni volta, non divisibili per 5, trovare 2000° nell'ordine*
+
+> Tutti i numeri a 7 cifre contenenti ciascuna delle cifre $1, 2, 3, 4, 5, 6, 7$ esattamente una volta, e non divisibili da $5$, sono disposti nell'ordine crescente. Trova il numero 2000 in questa lista.
+
+[[src_rmo_2000__Q04]]

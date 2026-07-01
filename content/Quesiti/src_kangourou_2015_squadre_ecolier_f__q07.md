@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_ecolier_f__Q07
 parent: src_kangourou_2015_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2015 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza strada salita e discesa raddoppiando velocita*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 35
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iZrTBi-soab93JlVJUtlAaAcp-N69n0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Route length up and down doubling speed*
+
+> A cyclist climbs a mountain road constantly maintaining a speed of 21 kilometers per hour. When it goes down the same road, it doubles its speed, taking 50 minutes less time to climb. How many miles is that road?
+
+**Answer:** 35
+[[src_kangourou_2015_squadre_ecolier_f__Q07]]

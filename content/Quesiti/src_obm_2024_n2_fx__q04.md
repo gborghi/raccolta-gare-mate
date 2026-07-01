@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_n2_fx__Q04
 parent: src_obm_2024_n2_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 10-digit numbers with digits in {1,2,3} divisible by 99*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IF2AhS-oyKoh7_VN0FmjTtVwiNv_ZbJT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri a 10 cifre con cifre di {1,2,3} divisibili per 99*
+
+> Un numero è chiamato *trilegal* se tutti i suoi numeri appartengono all'insieme $\{1, 2, 3\}$ ed è divisibile da $99$. Quanti numeri trilegali hanno esattamente $10$ cifre?
+
+[[src_obm_2024_n2_fx__Q04]]

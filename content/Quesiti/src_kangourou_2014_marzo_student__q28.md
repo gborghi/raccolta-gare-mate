@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q28
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *somma angoli interni*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>sum of inner corners< MSK1/>
+
+![[src_kangourou_2014_marzo_student__prob28.png]]
+
+> The figure shows a polygonal fracture whose vertices are all the midpoints of the vertices of a cube. We define, as duse, an inner angle formed by two sides of a polygon, which meet in a vertex, as the angle of measurement not exceeding 180° formed by the two sides in the plane containing them. What is the sum of the measurements in degrees of all the interior angles of the polygonal fracture in the figure? A) 720 B) 1080 C) 1200 D) 1440 E) 1800
+
+**Answer:** B
+[[src_kangourou_2014_marzo_student__Q28]]

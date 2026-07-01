@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f3__Q04
 parent: src_obm_2002_n2_f3
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 3
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Combine three two-component mixtures to obtain a target three-component ratio*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nXOkuveTEgG-AREkbRruZntjlbpxTLWP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Combinazione di tre miscele a due componenti per ottenere un rapporto di tre componenti obiettivo*
+
+> Una miscela ha i componenti $A$ e $B$ nel rapporto $3 : 5$, una seconda miscela ha i componenti $B$ e $C$ nel rapporto $1 : 2$, e una terza miscela ha i componenti $A$ e $C$ nel rapporto $2 : 3$. In quale rapporto dobbiamo combinare la prima, la seconda e la terza miscela in modo che i componenti $A$, $B$ e $C$ appaiano nel rapporto $3 : 5 : 2$?
+
+[[src_obm_2002_n2_f3__Q04]]

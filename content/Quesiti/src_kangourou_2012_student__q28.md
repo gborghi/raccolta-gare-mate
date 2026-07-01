@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q28
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma primi 100 termini di successione ricorsiva*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total of first 100 terms of recurring succession*
+
+> In the sequence {1, 1, 0, 1, -1, 0, ...} the first two elements a1 and a2 are 1. The third element is the difference of the two preceding ones, a3 = a1 - a2; the fourth element is the sum of the two preceding ones, a4 = a2 + a3 and going on a5 = a3 - a4 , a6 = a4 + a5 and so on. What is the sum of the first 100 elements of the succession? A) 0 B) 3 C) -21 D) 100 E) -1
+
+**Answer:** B
+[[src_kangourou_2012_student__Q28]]

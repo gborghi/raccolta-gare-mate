@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f2__Q01
 parent: src_obm_2005_n3_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle in regular pentagon with internal equilateral triangle point*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo in pentagono regolare con punto triangolare equilaterale interno*
+
+> Nella figura, $ABCDE$ è un pentagono regolare e $AEF$ è un triangolo equilaterale. Il segmento $P$ deve essere un punto sul segmento $BF$, all'interno di $ABCDE$, in modo tale che l'angolo $\widehat{PEA}$ misura $12^\circ$, come mostrato nella figura seguente. Trova la misura, in gradi, dell'angolo $\widehat{PAC}$.
+
+![[src_obm_2005_n3_f2__Q01.png]]
+
+[[src_obm_2005_n3_f2__Q01]]

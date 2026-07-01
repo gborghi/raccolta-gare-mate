@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Junior — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q23
 parent: src_kangourou_2015_marzo_junior
 competition: Kangourou 2015 gara 19 marzo Junior
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *regione centrale*
 
@@ -75,3 +78,40 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1lv8vPzK3uXmG94tNsM2uWmmnksIo2fLI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This appropriation is intended to cover expenditure relating to:
+
+![[src_kangourou_2015_marzo_junior__prob23.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  % Three circles arranged in a Venn diagram
+  % Centers at distance 1.2 from origin at 90, 210, 330 degrees, radius 1.5
+  \draw[thick] (90:1.2) circle (1.5);
+  \draw[thick] (210:1.2) circle (1.5);
+  \draw[thick] (330:1.2) circle (1.5);
+  % Label "1" in left petal (overlap of top and bottom-left circles)
+  \node at (-0.65,0.3) {$1$};
+  % Label "2" in right petal (overlap of top and bottom-right circles)
+  \node at (0.65,0.3) {$2$};
+  % Label "?" in central region (triple overlap)
+  \node at (0,-0.25) {$?$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The three circles in the figure identify seven regions, each within at least one of them. A number must be written in each region, so that it is the sum of the numbers written in the regions adjacent to it (two regions are considered adjacent if their borders have more than one point in common). In two of the regions the number has already been written. What number should be written in the central region marked by the point of application? A) 0
+> 	
+> B) - 3
+> 	
+> C) 3
+> 	
+> D) - 6 E) 6
+
+**Answer:** A
+[[src_kangourou_2015_marzo_junior__Q23]]

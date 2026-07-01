@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Triennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_triennio__Q18
 parent: src_archimede_2008_triennio
 competition: Giochi di Archimede 2008 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di tutti i numeri di due cifre distinte*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of all numbers of two distinct digits*
+
+> The sum of all natural numbers formed by two distinct digits is:
+>
+> - **(A)** 3840,
+> - **(B)** 3960,
+> - **(C)** 4140,
+> - **(D)** 4260,
+> - **(E)** 4410.
+
+**Answer:** E
+[[src_archimede_2008_triennio__Q18]]

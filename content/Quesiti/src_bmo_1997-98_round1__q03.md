@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1997-98 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1997-98_round1__Q03
 parent: src_bmo_1997-98_round1
 competition: British Mathematical Olympiad 1997-98 — Round 1
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle, parallelogram; prove M is midpoint of DA*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UZ524YDE6UQUHs3-dWJ9PRw0y50Efe-X/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles, parallelo; prova che M è il punto medio di DA*
+
+> $ABP$ è un triangolo di uguali braccia con $AB = AP$ e $\angle PAB$ acuta. $PC$ è la linea attraverso $P$ perpendicolare a $BP$, e $C$ è un punto su questa linea sullo stesso lato di $BP$ come $A$. (Si può presumere che $C$ non sia sulla linea $AB$.) $D$ completa il parallelo $ABCD$. $PC$ soddisfa $DA$ al $M$. Provare che $M$ è il punto medio di $DA$.
+
+[[src_bmo_1997-98_round1__Q03]]

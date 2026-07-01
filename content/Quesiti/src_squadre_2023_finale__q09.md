@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Finale Nazionale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_finale__Q09
 parent: src_squadre_2023_finale
 competition: Gara a Squadre 2023 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore medio di n a fine gioco dei cavalli su scacchiera 3x3*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0010
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mean value of n at the end of the game of horses on a chessboard 3x3*
+
+> Maria is a chess lover, and as time goes on, she decides to play the next solitary, hoping it will last a long time... Place four horses at the top of a chessboard 3×3. Then he moves the horses like in chess, from one vertex to another of a sub-angle 2×3 of the chessboard. Initially, n is equal to 0. At each turn, Maria performs the following operations: she moves each of the horses into a box that she can legally reach, chosen at random, independently, with uniform probability: in this operation it is not a problem if two or more horses are in the same box. Increases n by 1. If there are more than one horse in the same box, he removes all but one. If there is only one horse left at the end of a turn, the game is over. What's n worth, on average, when the game's over?
+
+**Answer:** 0010
+[[src_squadre_2023_finale__Q09]]

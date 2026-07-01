@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2006-07 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2006-07_round2__Q04
 parent: src_bmo_2006-07_round2
 competition: British Mathematical Olympiad 2006-07 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Six-city rail network, count ways to close lines keeping full connectivity*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13patTNOY-l-7IEYEjDrmwDYanVi5UO1N/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rete ferroviaria di sei città, conteggiare le vie di chiusura delle linee mantenendo piena connettività*
+
+> Nel paese dell'Esagonia, le sei città sono collegate da una rete ferroviaria tale che esiste una linea ferroviaria diretta che collega ciascuna coppia di città. Domenica, alcune linee possono essere chiuse per la riparazione. La carta ferroviaria dei passeggeri stabilisce che ogni città deve essere accessibile in treno da qualsiasi altra città (non necessariamente direttamente) in ogni momento. In quanti modi diversi possono essere chiuse alcune linee a condizione di questa condizione?
+
+[[src_bmo_2006-07_round2__Q04]]

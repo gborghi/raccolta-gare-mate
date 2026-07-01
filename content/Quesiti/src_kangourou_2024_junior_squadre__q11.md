@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Junior Finale 1 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_squadre__Q11
 parent: src_kangourou_2024_junior_squadre
 competition: Kangourou Squadre 2024 Junior Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma valori numero maggiore date somme coppie*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0015
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/19twDyCIYYYLPZm2ICyi_V91n9zEgBbys/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary values greater than given pair sums*
+
+> Four real numbers With four distinct real numbers you can form six pairs of numbers. Knowing that, when these pairs vary, the sums of the two numbers that make them up are all different from each other and that the four smallest sums are 2, 4, 6, 8, we calculate the sum of all possible values of the greatest number.
+
+**Answer:** 0015
+[[src_kangourou_2024_junior_squadre__Q11]]

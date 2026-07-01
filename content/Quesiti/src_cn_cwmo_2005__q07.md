@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2005 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2005__Q07
 parent: src_cn_cwmo_2005
 competition: China Western Mathematical Olympiad 2005
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality for a+b+c=1 involving 3rd and 5th powers*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza per a+b+c=1 che coinvolge potenze 3 e 5*
+
+> Se i numeri reali $a$, $b$, $c$ soddisfano $a + b + c = 1$, dimostrano che $$10(a^3 + b^3 + c^3) - 9(a^5 + b^5 + c^5) \ge 1.$$
+
+[[src_cn_cwmo_2005__Q07]]

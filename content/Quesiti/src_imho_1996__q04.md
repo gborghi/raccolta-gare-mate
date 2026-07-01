@@ -1,6 +1,7 @@
 ---
 title: IMO 1996 (XXXVII International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1996__Q04
 parent: src_imho_1996
 competition: IMO 1996 (XXXVII International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Least value of smaller of two squares from linear combos*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Least value of smaller of two squares from linear combos*
+
+> The positive integers $a$ and $b$ are such that the numbers $15a + 16b$ and $16a - 15b$ are both squares of positive integers. What is the least possible value that can be taken on by the smaller of these two squares?
+
+[[src_imho_1996__Q04]]

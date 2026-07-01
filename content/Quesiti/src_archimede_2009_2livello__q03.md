@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_2livello__Q03
 parent: src_archimede_2009_2livello
 competition: Archimede Gara 2° livello 2009 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anni tra 999 e 9999 con due o più zeri consecutivi*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Years between 999 and 9999 with two or more consecutive zeros*
+
+> In the last New Year, glasses with the shape of the number 2009 and lenses instead of the two zeros were very fashionable. In order to make similar glasses, it is necessary that there are two or more consecutive zeros in the number representing the year (e.g. 3500 is fine, 2010 no). How many years between the years 999 and 9999 have two or more consecutive zeros in their writing?
+>
+> - **(A)** 171
+> - **(B)** 180
+> - **(C)** 190
+> - **(D)** 191
+> - **(E)** 200.
+
+**Answer:** A
+[[src_archimede_2009_2livello__Q03]]

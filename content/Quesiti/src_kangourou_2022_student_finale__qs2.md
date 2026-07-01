@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Finale (risposta aperta) — Quesito S2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student_finale__QS2
 parent: src_kangourou_2022_student_finale
 competition: Kangourou 2022 Student — Finale (risposta aperta)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *lati rossi=verdi*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xkM8usCvbEkYYISsMrLicq6kvtHNww5g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>reds=greens< MSK1/>
+
+![[src_kangourou_2022_student_finale__probS2.png]]
+
+> Two congruent squares, one with a red and the other with a green edge, are arranged in the plane so that their intersection is an octagon (the centers of the two squares may not coincide). It shows that the sum of the lengths of the red sides of the octagon coincides with the sum of the lengths of the green sides. (see figure)
+
+**Answer:** dimostrazione
+[[src_kangourou_2022_student_finale__QS2]]

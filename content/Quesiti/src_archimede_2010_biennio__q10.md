@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Biennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_biennio__Q10
 parent: src_archimede_2010_biennio
 competition: Giochi di Archimede 2010 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale riduzione per tornare al numero iniziale corsie*
 
@@ -48,3 +51,22 @@ tags:
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 **Anche in triennio:** [apri PDF p.5](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage reduction to return to the original number of lanes*
+
+> Silvanus, Neptune's richest man, owns a highway with many lanes. At a time of prosperity he decides to increase the number of lanes by 60%. Next, because of an ancient planetary law, it must reduce the number of lanes by a certain percentage of X. After you do that, you find yourself with the same number.
+>
+> It's the tracks you had at the beginning. How much is X worth?
+>
+> - **(A)** 15%,
+> - **(B)** 21,5%,
+> - **(C)** 28%,
+> - **(D)** 37,5%,
+> - **(E)** 60%.
+
+**Answer:** D
+[[src_archimede_2010_biennio__Q10]]

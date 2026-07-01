@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2026 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2026__Q20
 parent: src_oprem_2026
 competition: Olympiades Nationales de Mathématiques (Première) 2026
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exercise 3, Q1: triominoes (bis), tile a 3x6 grid*
 
@@ -46,3 +49,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LLPTi5ufMEDVFp1I29WzXWLiM0F8_rKH/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esercizio 3, Q1: triomino (bis), tessuto di griglia 3x6*
+
+> Esercizio 3 (candidato di pista generale NON seguendo la specialità di matematica, e TUTTI i candidati della pista tecnologica) - Triominoes (bis). Ritorniamo qui sulle piastrelle con triomini (cfr. domanda 5 dell'esercizio 1) delle griglie (qui, complete) $a \times b$, rettangolare, eventualmente quadrata, su cui sono poste alcune domande complementari. Si consiglia di disegnare le griglie non con una penna, ma i triomini con una matita. Per aiutarsi, si possono disegnare le griglie già tracciate mostrate di fronte. (1) Rappresentano una piastrella della griglia nel caso in cui $a = 3$ e $b = 6$.
+
+![[src_oprem_2026__Q20.png]]
+
+[[src_oprem_2026__Q20]]

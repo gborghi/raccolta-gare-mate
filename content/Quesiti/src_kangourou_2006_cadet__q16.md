@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q16
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato del grande quadrato bianco nel rettangolo*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Side of the large white square in the rectangle*
+
+> A rectangle is divided into 7 squares. The side of the uncolonned gray squares on the right measures 8. How big is the side of the great white square? A) 15 B) 18        C) 20 D) 24           E) 30
+
+**Answer:** B
+[[src_kangourou_2006_cadet__Q16]]

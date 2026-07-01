@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q03
 parent: src_kangourou_2014_squadre_a
 competition: Kangourou Coppa Squadre 2014 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero rettangoli n piu vicino a 1000 con rette*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1050
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of rectangles n nearest to 1000 with straight lines < MSK1/>
+
+> 5 parallel lines and some parallel lines are drawn in the plane. Overall, n rectangles can be identified, each having sides on four of the lines drawn. We know that n is the number as close to 1000 as possible with these assumptions. How much is n?
+
+**Answer:** 1050
+[[src_kangourou_2014_squadre_a__Q03]]

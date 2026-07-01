@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f2__Q01
 parent: src_obm_2011_n1_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of inner rectangle with vertices on sides of outer rectangle*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di rettangolo interno con vertici sui lati del rettangolo esterno*
+
+> Nella figura, i vertici del rettangolo $PQRS$ si trovano sui lati del rettangolo $ABCD$. Dato $AP = 3$ cm, $AS = 4$ cm, $SC = 6$ cm e $CR = 8$ cm, qual è la superficie del rettangolo $PQRS$, in cm$^2$?
+
+![[src_obm_2011_n1_f2__Q01.png]]
+
+[[src_obm_2011_n1_f2__Q01]]

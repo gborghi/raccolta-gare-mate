@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2000 — Round 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2000_r2__Q06
 parent: src_pol_2000_r2
 competition: Olimpiade Matematica Polacca 2000 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A quadratic polynomial w with integer coefficients takes a perfect-square value at every integer x; prove w is the square of a polynomial.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1M8ROmEjFOc71e2VL3ctjR70wj7gR0qKt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un polinomio quadratico w con coefficienti interi assume un valore di quadrato perfetto a ogni numero intero x; prova w è il quadrato di un polinomio.*
+
+> Che $w$ sia un polinomio quadratico con coefficienti interi. Supponiamo che per ogni numero intero $x$ il valore $w(x)$ sia un quadrato perfetto. Prova che $w$ è il quadrato di un polinomio.
+
+[[src_pol_2000_r2__Q06]]

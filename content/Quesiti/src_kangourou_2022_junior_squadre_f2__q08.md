@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Junior Finale 2 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_squadre_f2__Q08
 parent: src_kangourou_2022_junior_squadre_f2
 competition: Kangourou Squadre 2022 Junior Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi del Re da b6 a e4 senza tornare indietro*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0025
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode of the King from b6 to e4 without going back*
+
+![[src_kangourou_2022_junior_squadre_f2__prob8.png]]
+
+> In the game of chess the king can move on the chessboard only one box at a time, horizontally, vertically or in one of the two diagonal directions. The King wants to go from b6 to e4 without ever going back (so, with reference to the figure, moving horizontally from left to right, vertically from top to bottom, diagonally from left to right from top to bottom). How many different ways can you do that?
+
+**Answer:** 0025
+[[src_kangourou_2022_junior_squadre_f2__Q08]]

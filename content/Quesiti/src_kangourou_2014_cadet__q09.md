@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q09
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale prodotto fornisce il risultato maggiore*
 
@@ -44,3 +47,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which product gives the highest result< MSK1/>
+
+> Which of the following products produces the greatest result? A) 44 × 777
+> 	
+> B) 55 × 666
+> 	
+> C) 77 × 444
+>      
+> D) 88 × 333
+> 	
+> E) 99 × 222
+
+**Answer:** B
+[[src_kangourou_2014_cadet__Q09]]

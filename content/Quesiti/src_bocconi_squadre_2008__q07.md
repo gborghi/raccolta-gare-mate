@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q07
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore del quadrato della differenza delle aree*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 0
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of the square of the difference of areas*
+
+> Starting from the rectangle of the figure of dimensions $A$ and $B$, three circumferences  all centered at one of its vertices  passing through another of the vertices of the rectangle respectively have been drawn. What is the square of the difference between the areas of the two darkest regions?
+
+![[src_bocconi_squadre_2008__Q07.png]]
+
+**Answer:** 0
+[[src_bocconi_squadre_2008__Q07]]

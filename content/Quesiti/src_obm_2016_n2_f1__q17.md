@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f1__Q17
 parent: src_obm_2016_n2_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum merge operations to equalize piles 1,2,...,9,11 summing to 56*
 
@@ -49,3 +52,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Minimum di operazioni di fusione per igualarne le pile 1,2,...,9,11 sommando a 56 < MSK1/>
+
+> La somma totale delle pietre è $1+2+3+\dots+9+11=56$. Per che le pile abbiano un valore comune $k$, questo deve dividere $56$; e poiché alcune pile hanno già pietre $11$, ogni pile finale ha almeno $11$, quindi i valori possibili sono $14$, $28$ o $56$. Per ottenere pile di $28$ occorrono due operazioni, pile di $56$ meno e pile di $14$ occorrono $6$ operazioni, che possono essere eseguite come $$(11+3),(9+5),(8+6),(7+4+2+1).$$ Qual è il numero minimo di operazioni? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+
+**Risposta:** D
+[[src_obm_2016_n2_f1__Q17]]

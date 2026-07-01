@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q12
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Arnaldo has blue 2x2, yellow 2x2, green 3x3 squares; assemble a larger square using at least three of each; minimize total count.*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Arnaldo ha quadrati blu 2x2, gialli 2x2, verdi 3x3; assemblare un quadrato più grande utilizzando almeno tre di ciascuno; ridurre al minimo il numero totale.*
+
+> Arnaldo ha diversi quadrati di vari colori: quadrati blu $2 \times 2$, quadrati gialli $2 \times 2$ e quadrati verdi $3 \times 3$. Vuole assemblare un quadrato più grande in modo che appaiano almeno tre di ciascuna specie. Qual è il numero minimo di quadrati che potrà usare?
+> 
+> (A) 3 \quad (B) 6 \quad (C) 7 \quad (D) 8 \quad (E) 9
+
+[[src_obm_2006_n3_f1__Q12]]

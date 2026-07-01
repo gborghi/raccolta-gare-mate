@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_semifinale_a__Q01
 parent: src_cesenatico_2016_semifinale_a
 competition: Gara a Squadre Cesenatico 2016 - Semifinale A
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori di S con S^2 divisore somma pagine teoria*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0240
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Values of S with S^2 divider sum theory pages*
+
+> The Galactic Sheets for Tourists are the best-selling problem-solving book in the universe, also because they feature the reassuring words Work! Get to work! I'm going to work. They have 420 pages numbered from 1 to 420, some of which contain theory and other exercises. The sum of the page numbers of the exercise pages, which we'll call S, is such that S2 divides the sum of the page numbers of the pages containing theory. What different values can S assume? Answer by indicating the sum of these values.
+
+**Answer:** 0240
+[[src_cesenatico_2016_semifinale_a__Q01]]

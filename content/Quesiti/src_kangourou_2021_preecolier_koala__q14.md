@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q14
 parent: src_kangourou_2021_preecolier_koala
 competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti punti meno di Angela ha totalizzato Chiara*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many points less than Angela has Chiara totalled
+
+> Kangball is played like football, but each net is worth 2 points. In one game, Clara scored five goals and Angela nine. How many points less than Angela has Chiara totalled?
+>
+> - **(A)** 4
+> - **(B)** 6
+> - **(C)** 8
+> - **(D)** 10
+> - **(E)** 12
+
+**Answer:** C
+[[src_kangourou_2021_preecolier_koala__Q14]]

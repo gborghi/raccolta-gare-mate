@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q06
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find x so that factors of 100 fill a 3×3 grid with equal row, column, and diagonal products*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova x in modo che i fattori di 100 riempiano una griglia 3×3 con uguali prodotti riga, colonna e diagonale*
+
+> Ciascuno dei fattori di 100 deve essere inserito in una griglia $3 \times 3$, una per ogni cella, in modo tale che i prodotti dei tre numeri di ogni riga, colonna e diagonale siano tutti uguali. Le posizioni dei numeri $1$, $2$, $50$ e $x$ sono indicate nel diagramma.
+> 
+> Qual è il valore di < MSK0/>?
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 10
+> - **(D)** 20
+> - **(E)** 25
+
+![[src_smc_2019__Q06.png]]
+
+**Risposta:** D
+[[src_smc_2019__Q06]]

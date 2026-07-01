@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo9yq_yosen__Q07
 parent: src_jjmo9yq_yosen
 competition: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest integer n ≥ 11 with exactly 23 perfect squares in [n, n+2011]*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qMJjxU0l_DxfEY-9HMozDgyKBaM5GpnZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il numero intero più piccolo n ≥ 11 con esattamente 23 quadrati perfetti in [n, n+2011]*
+
+> Trova il più piccolo intero positivo $n \ge 11$ in modo che tra gli interi $n, n+1, n+2, \ldots, n+2011$, ci siano esattamente $23$ quadrati perfetti.
+
+[[src_jjmo9yq_yosen__Q07]]

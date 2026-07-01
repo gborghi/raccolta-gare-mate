@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Junior 2023 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_semifinale__Q11
 parent: src_kangourou_2023_junior_semifinale
 competition: Kangourou Semifinale individuale Junior 2023
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio inserimenti lettere in 5 settori con A,B non adiacenti*
 
@@ -59,3 +62,33 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rq1gJ31P8DKnidln7hHYAxiIyAQN3F0c/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting entries in 5 sectors with non-adjacent A,B*
+
+![[src_kangourou_2023_junior_semifinale__prob11.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.5]
+  \draw (0,0) circle (1);
+  \draw (0,0) -- (90:1);
+  \draw (0,0) -- (18:1);
+  \draw (0,0) -- (-54:1);
+  \draw (0,0) -- (-126:1);
+  \draw (0,0) -- (162:1);
+  \node at (54:0.65) {1};
+  \node at (-18:0.65) {2};
+  \node at (-90:0.65) {3};
+  \node at (198:0.65) {4};
+  \node at (126:0.65) {5};
+\end{tikzpicture}
+\end{document}
+```
+
+> In each of the five numbered sectors into which the circle is divided, one of the letters A, B, C, D, E (different letters for different sectors) must be inserted so that the letters A and B are not in adjacent sectors. How many different ways can integration be carried out?
+
+[[src_kangourou_2023_junior_semifinale__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1994-95 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1994-95_round2__Q04
 parent: src_bmo_1994-95_round2
 competition: British Mathematical Olympiad 1994-95 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count pairings of 2n people; prove divisibility of multinomial*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LnyjaTQ_tXLADpavIS5gxDmq-C79XE65/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta coppie di 2n persone; dimostra divisibilità di multinomial*
+
+> (a) Determinare, con una spiegazione attenta, in quanti modi le persone < MSK0/> possono essere accoppiate per formare squadre < MSK1/> di < MSK2/>.
+> 
+> b) dimostrare che $(2mn)!$ è divisibile per $((m!)^n (n!)^m)^2$ per tutti gli integri positivi $m$, $n$.
+
+[[src_bmo_1994-95_round2__Q04]]

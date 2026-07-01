@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q03
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero da sostituire all'asterisco*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number to be replaced by asterisk*
+
+> If you want it to be true, what number do you have to replace the asterisk in the equation 2 × 18 × 14 = 6 × * × 7? A) 8
+> 	
+> B) 9
+>  	
+> C) 10 D) 12
+> 	
+> E) 15
+
+**Answer:** D
+[[src_kangourou_2018_cadet_marzo__Q03]]

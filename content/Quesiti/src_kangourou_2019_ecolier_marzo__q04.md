@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q04
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale tessera di due quadretti si puo ottenere*
 
@@ -59,3 +62,25 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which two-square card can be obtained*
+
+![[src_kangourou_2019_ecolier_marzo__prob4.png]]
+
+> From the grid you see in the figure next to her, Catherine cuts a card made of two adjacent boards. Which of the following cards can you obtain? A)
+>  	
+> B)
+>  	
+> C)
+>         
+> D)
+>  	
+> E) , , , , , , , , , ,
+>
+
+**Answer:** A
+[[src_kangourou_2019_ecolier_marzo__Q04]]

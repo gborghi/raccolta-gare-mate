@@ -1,6 +1,7 @@
 ---
 title: IX Gara Nazionale Classi Prime 2024 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2024__Q02
 parent: src_garaprime_2024
 competition: IX Gara Nazionale Classi Prime 2024
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero massimo di cavalieri sull'isola di furfanti e cavalieri*
 
@@ -56,3 +59,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of knights on the island of crooks and knights*
+
+> On the island of thieves (who always lie) and knights (who always tell the truth) live 10 people. Five of these are silent while each of the other five makes a statement: Here we are all cunning!; Here we are all knights!; At least 4 of us are cunning; Exactly 6 of us are cunning; No more than 5 of us are knights. How many knights are there on the island? A) 5 B) 4 C) 6 D) 8 E) 7 The correct answer is C We analyse each statement. The person who says Here we are all cunning cannot be a knight (otherwise he would tell the truth, and so the 10 people would all be cunning, against the assumption that he is a knight) and so he is a cunning. On the other hand, even the second person is a con man, because it is not true that they are all knights (we have just observed that the first person speaking is a con man). If the third person was a crook, the crooks would be at most 3, but then the next person should be a knight and tell the truth (there are exactly 6 crooks), whereas we just said that crooks are at most 3. So the third person has to be a knight: therefore, there are at least 4 thieves and, consequently, the number of knights is at most 6. The presence of 4 thieves and 6 knights is compatible with the last two statements: in particular, if the last two are thieves, there are exactly 4 thieves and 6 knights (the third person and all those who did not speak).
+
+**Answer:** C
+[[src_garaprime_2024__Q02]]

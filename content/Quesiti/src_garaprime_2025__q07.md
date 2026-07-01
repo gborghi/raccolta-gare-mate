@@ -1,6 +1,7 @@
 ---
 title: X Gara Nazionale Classi Prime 2025 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2025__Q07
 parent: src_garaprime_2025
 competition: X Gara Nazionale Classi Prime 2025
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di 6 cifre con 1 e 2 multipli di 3*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*6 digit numbers with 1 and 2 multiplied by 3*
+
+> How many six-digit numbers that are multiples of three can I write using just the numbers 1 and 2?
+>
+> - **(A)** 2
+> - **(B)** 12
+> - **(C)** 22
+> - **(D)** 32
+> - **(E)** 64
+
+**Answer:** C
+[[src_garaprime_2025__Q07]]

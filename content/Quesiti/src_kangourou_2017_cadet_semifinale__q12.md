@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q12
 parent: src_kangourou_2017_cadet_semifinale
 competition: Kangourou 2017 Cadet (semifinale individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo cioccolatini divisibili in classi da 21 e 25*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 240
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum chocolates divided into classes 21 and 25< MSK1/>
+
+> To celebrate their birthday, the twins Lina and Nina want to bring sweets to school to give to classmates and classmates: so Mom bought chocolates and split them in two equal parts, half for Lina and half for Nina. On the day of the party in Lina's class, there are 21 in attendance, in Nina's class there are 25. Lina gives each of her companions the same number of chocolates and they don't get any better. The same thing happens to Nina. What's the smallest number of chocolates your mom could buy?
+
+**Answer:** 240
+[[src_kangourou_2017_cadet_semifinale__Q12]]

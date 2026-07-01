@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Student (15 marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_student__Q09
 parent: src_kangourou_2001_student
 competition: Kangourou 2001 - Student (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora in cui i ciclisti distano 130 km*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Time when cyclists travel 130 km < MSK1/>
+
+> Two cyclists leave the same spot at 2:10 p.m. The first is moving north at a speed of 32 km/h, while the second is moving east at a speed of 24 km/h. The distance between them will be 130 km at
+>
+> - **(A)** 16.10
+> - **(B)** 16.20
+> - **(C)** 17.10
+> - **(D)** 17.25
+> - **(E)** 17.35. . a 1 (E) 5 a (D) 5a (C) 2 a (B) 2a ) A ( . The Commission's proposal for a regulation on the protection of the environment in the Member States of the European Communities is to be adopted by the Council on 15 March 2001. Class of students. This item is not intended to be used. 3
+
+**Answer:** D
+[[src_kangourou_2001_student__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2011 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2011__Q02
 parent: src_cn_ctst_2011
 competition: China National Team Selection Test 2011
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove existence of a in [1, n/k+1] with n | a(a-1)*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove l'esistenza di a in [1, n/k+1] con n ̊ a ̊ a-1) *
+
+> Che $n > 1$ sia un numero intero, $k$ sia il numero di fattori primi distinti di $n$. Prova che esiste un numero intero $a$, $1 \le a \le \dfrac{n}{k} + 1$, tale che $n \mid a(a-1)$. (Possibile da Yu Hongbing)
+
+[[src_cn_ctst_2011__Q02]]

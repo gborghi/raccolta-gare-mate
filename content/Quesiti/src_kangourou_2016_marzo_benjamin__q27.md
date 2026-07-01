@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q27
 parent: src_kangourou_2016_marzo_benjamin
 competition: Kangourou 2016 gara 17 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero in X*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1nld6l3RD6emhTglIXueL7F2OJGTBOKRG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*number in X*
+
+![[src_kangourou_2016_marzo_benjamin__prob27.png]]
+
+> Cristina has already written a number in five of the 10 circles you see in the figure. Now she wants to write a number in each remaining circle so that the sum of the 3 numbers in the circles that are on the same side of the pentagon doesn't change anyway she chooses the side. What number should you write in the circle marked with X ? A) 7
+> 	
+> B) 8
+> 	
+> C) 11
+> 	
+> D) 13
+> 	
+> E) 15
+
+**Answer:** D
+[[src_kangourou_2016_marzo_benjamin__Q27]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q07
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify the youngest among four boys from age relations*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare il più giovane tra i quattro ragazzi di età *
+
+> João è più vecchio di Pedro, che è più giovane di Carlos; António è più vecchio di Carlos, che è più giovane di João. António non è più giovane di João, e tutti e quattro i ragazzi hanno età diversa. Il più giovane di loro è:
+>
+> - **(A)** João
+> - **(B)** António
+> - **(C)** Pedro
+> - **(D)** Carlos
+> - **(E)** Impossibile determinare dalle informazioni fornite
+
+**Risposta:** C
+[[src_obm_1998_n1_f1__Q07]]

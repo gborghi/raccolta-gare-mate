@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q11
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso intero di ognuno dei tre cani (bilance)*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Total weight of each of the three dogs (balance) < MSK1/>
+
+![[src_kangourou_2019_ecolier_marzo__prob11.png]]
+
+> Look at the balance sheets in the figure where three identical dogs and two weights, one 12 and the other 20 kg, appear. The weight in kilograms of each of the dogs is expressed by an integer. What kind? A) 7
+> 	
+> B) 8
+> 	
+> C) 9
+> 	
+> D) 10
+> 	
+> E) 11
+
+**Answer:** E
+[[src_kangourou_2019_ecolier_marzo__Q11]]

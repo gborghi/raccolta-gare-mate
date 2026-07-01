@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1996 — Round 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1996_r1__Q10
 parent: src_pol_1996_r1
 competition: Olimpiade Matematica Polacca 1996 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove x^9 = y^3 + z^3 has infinitely many solutions in positive integers*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove x^9 = y^3 + z^3 ha infinite soluzioni in interi positivi*
+
+> Prova che l'equazione $x^9 = y^3 + z^3$ ha infinite soluzioni in numeri interi positivi $x, y, z$.
+
+[[src_pol_1996_r1__Q10]]

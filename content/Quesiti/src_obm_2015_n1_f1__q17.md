@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q17
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Volume of a box from areas of its three pairs of faces*
 
@@ -57,3 +60,22 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Volume di una scatola dalle aree delle sue tre coppie di facce*
+
+> Juliana realizzò la pianificazione (net) di una scatola di cartone con due facce bianche, due facce nere e due facce grigie. Le facce bianche hanno ciascuna superficie < MSK0/>, le facce nere hanno ciascuna superficie < MSK1/> e le facce grigie < MSK2/> ciascuna. Qual è il volume della scatola?
+>
+> - **(A)** $25\,\text{cm}^3$
+> - **(B)** $60\,\text{cm}^3$
+> - **(C)** $71\,\text{cm}^3$
+> - **(D)** $105\,\text{cm}^3$
+> - **(E)** $220\,\text{cm}^3$
+
+![[src_obm_2015_n1_f1__Q17.png]]
+
+**Risposta:** D
+[[src_obm_2015_n1_f1__Q17]]

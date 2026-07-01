@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2021 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2021__Q02
 parent: src_cn_cmo_2021
 competition: China Mathematical Olympiad 2021
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum lambda so cubic with positive coefficients has no root with |Im|>=lambda|Re|*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\sqrt{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La lambda massima così cubica con i coefficienti positivi non ha radice con \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+
+> Trova il numero reale massimo $\lambda$ che soddisfa la seguente condizione: per tutti i numeri reali positivi $p, q, r, s$ e per un numero complesso $z = a + bi$ ($a, b \in \mathbb{R}$) tale che $|b| \geq \lambda|a|$, $pz^3 + 2qz^2 + 2rz + s \neq 0$.
+
+**Risposta:** \sqrt{3}
+[[src_cn_cmo_2021__Q02]]

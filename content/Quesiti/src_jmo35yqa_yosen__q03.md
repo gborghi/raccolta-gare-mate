@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo35yqa_yosen__Q03
 parent: src_jmo35yqa_yosen
 competition: Japan Mathematical Olympiad 2025 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Place six bracket-shaped pieces P1,P2,P4,P5,P7,P8 on a 10x10 grid without overlap*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 512
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Posizionare sei pezzi a forma di supporto P1, P2, P4, P5, P7, P8 su una griglia da 10x10 senza sovrapposizione*
+
+> Per un numero intero positivo $n$, chiamare $P_n$ il pezzo costituito da cellule unità $3n+2$ con forma simile alla figura: una forma di supporto ($\sqcap$) costituita da una riga superiore di cellule $n+2$ insieme a due gambe verticali di cellule $n$ ognuna appesa dalle due estremità della riga superiore. Abbiamo uno per ogni sei pezzi $P_1, P_2, P_4, P_5, P_7, P_8$. In quanti modi questi pezzi $6$ possono essere posizionati su una griglia di celle $10 \times 10$, ciascun pezzo allineato alle celle e senza due pezzi che si sovrappongono? Qui, i pezzi possono essere rotati e due posizioni che coincidono sotto una rotazione o riflessione della griglia sono contate come distinte.
+
+![[src_jmo35yqa_yosen__Q03.png]]
+
+**Risposta:** 512
+[[src_jmo35yqa_yosen__Q03]]

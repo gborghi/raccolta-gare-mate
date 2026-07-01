@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Ecolier (18 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_ecolier__Q12
 parent: src_kangourou_2004_ecolier
 competition: Kangourou 2004 Ecolier (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti fogli mancanti tra pagina 24 e 45*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many sheets are missing between pages 24 and 45*
+
+> Simonetta found an old book missing a few pages. The book is open and the left page is numbered "page 24" while the right page is numbered "page 45". How many sheets are missing between page 24 and page 45? A) 9 B) 10 C) 11 D) 20         E) 21
+
+**Answer:** B
+[[src_kangourou_2004_ecolier__Q12]]

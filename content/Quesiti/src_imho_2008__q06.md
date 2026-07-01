@@ -1,6 +1,7 @@
 ---
 title: IMO 2008 (XLIX International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2008__Q06
 parent: src_imho_2008
 competition: IMO 2008 (XLIX International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tangent circle to sides of convex quadrilateral ABCD*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14Wdwk9eLYN2D6Kkkf0dzw1N64rAZts1h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Tangent circle to sides of convex quadrilateral ABCD< MSK1/>
+
+> Let $ABCD$ be a convex quadrilateral with $|BA| \ne |BC|$. Denote the incircles of triangles $ABC$ and $ADC$ by $\omega_1$ and $\omega_2$ respectively. Suppose that there exists a circle $\omega$ tangent to the ray $BA$ beyond $A$ and to the ray $BC$ beyond $C$, which is also tangent to the lines $AD$ and $CD$. Prove that the common external tangents of $\omega_1$ and $\omega_2$ intersect on $\omega$.
+
+[[src_imho_2008__Q06]]

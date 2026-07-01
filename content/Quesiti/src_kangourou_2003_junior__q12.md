@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior (20 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior__Q12
 parent: src_kangourou_2003_junior
 competition: Kangourou 2003 Junior (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza andata con velocita diverse*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Length travelled at different speeds< MSK1/>
+
+> A kangaroo traveled, never stopping, a round trip in a total of 15 minutes. On the way, the speed was 5 m/s and on the way back, 4 m/s. The length of the one-way journey is A) 4.05 km B) 8.1 km C) 0.9 km D) 2 km E) impossible to determine with this information alone.
+
+**Answer:** D
+[[src_kangourou_2003_junior__Q12]]

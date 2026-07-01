@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2006 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo4q__Q09
 parent: src_jjmo4q
 competition: Japan Junior Mathematical Olympiad 2006
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count coprime pairs (x,y,z) where tens digits of x·z and y·z equal tens digits of x and y*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare copriemi (x,y,z) dove decine di cifre di x·z e y·z sono uguali a decine di cifre di x e y*
+
+> Se i numeri $x$, $y$, $z$ sono interamente integri positivi coprimi di due cifre ciascuno. La decima cifra di $x \cdot z$ equivale alla decima cifra di $x$, e la decima cifra di $y \cdot z$ equivale alla decima cifra di $y$, e la decima cifra di $x \cdot z$ equivale alla decima cifra di $y \cdot z$. Quanti sono tali tripli < MSK9/>?
+
+[[src_jjmo4q__Q09]]

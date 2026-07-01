@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_finale__Q03
 parent: src_garasquadre_2006_finale
 competition: VII Gara Nazionale a Squadre 2006 - Finale
@@ -23,6 +24,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *trovare AB*
 
@@ -34,3 +37,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0015
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gZSw1a8n1M4j9DvH6wTbhtIqnyyqml42/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>find AB< MSK1/>
+
+![[src_garasquadre_2006_finale__prob3.png]]
+
+> 3. A number whose sum of digits is 9. Verticals: 3
+
+**Answer:** 0015
+[[src_garasquadre_2006_finale__Q03]]

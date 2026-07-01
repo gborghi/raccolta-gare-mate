@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q11
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Com'e fatto l'astuccio dalle condizioni logiche*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How is the logical circumstance tricked*
+
+> My trick is one color: if it's blue, it's round; if it's square, it's red; if it's blue or yellow; if it's yellow, it's square; it's square or round. How's my trick? A) red and square B) red and round C) square and blue D) blue and round E) yellow and round
+
+**Answer:** D
+[[src_kangourou_2006_cadet__Q11]]

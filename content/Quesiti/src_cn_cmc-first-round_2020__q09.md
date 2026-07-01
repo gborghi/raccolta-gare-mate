@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2020 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2020__Q09
 parent: src_cn_cmc-first-round_2020
 competition: China Mathematical Competition (First Round) 2020
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ellipse with perpendicularity condition, find product of tangents of angles*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $-\frac{1}{5}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Elisse con condizione di perpendicularità, trovare il prodotto di tangenti di angoli*
+
+> (Paper B, Parte II Q9, 16 marchi) Nell'ellisse $\Gamma$, $A$ è un punto terminale dell'asse maggiore, $B$ è un punto terminale dell'asse minore e $F_1$, $F_2$ sono i foci. Se $\overrightarrow{AF_1} \cdot \overrightarrow{AF_2} + \overrightarrow{BF_1} \cdot \overrightarrow{BF_2} = 0$, trovare il valore di $\tan \angle ABF_1 \cdot \tan \angle ABF_2$.
+
+**Risposta:** -\frac{1}{5}
+[[src_cn_cmc-first-round_2020__Q09]]

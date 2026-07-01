@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f3__Q01
 parent: src_obm_2002_n3_f3
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Set of positive integers with 2002 elements, no element is a perfect power*
 
@@ -53,3 +56,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1P0nci9SiA7xXrHnMSEaRv6-dmdjZQyLj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieme di integri positivi con elementi 2002, nessun elemento è una potenza perfetta*
+
+> Indicare che esiste un insieme $A$ formato da integri positivi con le seguenti proprietà:
+> 
+> a) $A$ contiene elementi del 2002.
+> 
+> b) La somma di qualsiasi quantità di elementi distinti di $A$ (almeno uno) non è mai una potenza perfetta.
+> 
+> **Obs:** Una potenza perfetta è un numero della forma $a^b$, dove $a$ e $b$ sono interi positivi e $b \ge 2$.
+
+[[src_obm_2002_n3_f3__Q01]]

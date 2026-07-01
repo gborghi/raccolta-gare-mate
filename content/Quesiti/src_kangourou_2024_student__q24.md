@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q24
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero sacchetti con prob estrarre un solo 12 uguale a nessuno*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of bags with a single extract of 12 equal to none< MSK1/>
+
+> There are some identical bags, each containing 12 tokens numbered 1 through 12. By randomly extracting a token from each bag, the probability of extracting one and only one token with the number 12 is equal to the probability of not extracting any. How many bags are there? A) 8
+> 	
+> B) 9
+> 	
+> C) 10
+> 	
+> D) 11
+> 	
+> E) 12
+
+**Answer:** D
+[[src_kangourou_2024_student__Q24]]

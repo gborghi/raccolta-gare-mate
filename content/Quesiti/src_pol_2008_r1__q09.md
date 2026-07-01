@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2008 — Round 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2008_r1__Q09
 parent: src_pol_2008_r1
 competition: Olimpiade Matematica Polacca 2008 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the smallest a such that for all reals x,y,z >= a with x+y+z=3, x^3+y^3+z^3 >= 3.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova la più piccola a tale che per tutti i valori reali x,y,z >= a con x+y+z=3, x^3+y^3+z^3 >=3.*
+
+> Determinare il numero più piccolo $a$ che abbia la seguente proprietà: per tutti i numeri reali $x, y, z \ge a$ che soddisfano $x + y + z = 3$, esso detiene $x^3 + y^3 + z^3 \ge 3$.
+
+[[src_pol_2008_r1__Q09]]

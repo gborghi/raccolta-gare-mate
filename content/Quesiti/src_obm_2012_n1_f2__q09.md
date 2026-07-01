@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f2__Q09
 parent: src_obm_2012_n1_f2
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Diamantino's digit-sum reduction game: trace, max 3-digit, count under 2012*
 
@@ -54,3 +57,19 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GopwL_0fgb7iEbs-bG1HNdfWHmDyf8B2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il gioco di riduzione della somma dei numeri di Diamantino: traccia, massimo 3 cifre, conteggio sotto il 2012*
+
+> Diamantino gioca con numeri di due o più cifre, trasformandoli in numeri a una cifra nel seguente modo: aggiunge le due cifre più a destra e sostituisce quelle due cifre con il risultato, ripetendo il processo finché non ottiene ciò che vuole. Ad esempio, partendo da $367$ scrive $313$, poi scrive $34$, e finisce scrivendo $7$.
+> 
+> a) A partire dal numero < MSK0/>, quale numero riceverà Diamantino?
+> 
+> b) Qual è il numero a tre cifre più grande che Diamantino può trasformare in $1$?
+> 
+> c) Diamantino ha scritto tutti i numeri inferiori a $2012$, con due o più cifre, che possono essere trasformati in $9$. Quanti numeri ha scritto?
+
+[[src_obm_2012_n1_f2__Q09]]

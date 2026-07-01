@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2006 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2006__Q01
 parent: src_cn_cmc_2006
 competition: China Mathematical Competition 2006
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC with vector inequality implies right angle*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC con disuguaglianza vettoriale implica angolo retto*
+
+> Lasciate che $\triangle ABC$ sia un triangolo dato. Se $|\overrightarrow{BA} - t\overrightarrow{BC}| \ge |\overrightarrow{AC}|$ per qualsiasi $t \in \mathbf{R}$, allora $\triangle ABC$ è (\ \ ).
+> 
+> (A) un triangolo acuto\quad (B) un triangolo obtuso\quad (C) un triangolo rettangolo\quad (D) sconosciuto
+
+**Risposta:** C
+[[src_cn_cmc_2006__Q01]]

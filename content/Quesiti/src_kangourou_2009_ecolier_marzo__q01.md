@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q01
 parent: src_kangourou_2009_ecolier_marzo
 competition: Kangourou 2009 - Ecolier (gara 19 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Per quale importo serve il resto (monete)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*For what amount is the balance needed (coin) *
+
+> You have a five-euro banknote, a two-euro coin and a one-euro coin in your pocket and you must pay one of the following amounts: A) 3 € B) 4 € C) 6 € D) 7 € E) 8 € Which of these must you necessarily expect the rest?
+
+**Answer:** B
+[[src_kangourou_2009_ecolier_marzo__Q01]]

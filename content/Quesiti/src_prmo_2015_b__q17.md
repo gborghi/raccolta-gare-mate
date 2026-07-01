@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_b__Q17
 parent: src_prmo_2015_b
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -32,6 +33,8 @@ tags:
   - regione/b
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Expression P with a+b+c=0; find P*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Espressione P con a+b+c=0; trovare P*
+
+> Che $a$, $b$, $c$ siano tali da definire $a + b + c = 0$ e $$P = \frac{a^2}{2a^2 + bc} + \frac{b^2}{2b^2 + ca} + \frac{c^2}{2c^2 + ab}$$. Qual è il valore di < MSK5/>?
+
+**Risposta:** 1
+[[src_prmo_2015_b__Q17]]

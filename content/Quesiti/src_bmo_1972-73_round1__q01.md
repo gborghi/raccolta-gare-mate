@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1972-73 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1972-73_round1__Q01
 parent: src_bmo_1972-73_round1
 competition: British Mathematical Olympiad 1972-73 — Round 1
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Variable circle touching two fixed circles; PQ through fixed point*
 
@@ -42,3 +45,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo variabile che tocca due cerchi fissi; PQ attraverso punto fisso*
+
+> (i) Due cerchi fissi sono toccati da un cerchio variabile a $P$ e $Q$.
+> 
+> Provare che $PQ$ passa attraverso uno dei due punti fissi.
+> 
+> (ii) Esprimere un vero teorema sulle ellisse o se vi piace su conico in generale di cui (i) è un caso particolare.
+
+[[src_bmo_1972-73_round1__Q01]]

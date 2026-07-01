@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2007 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2007__Q03
 parent: src_cgen_2007
 competition: Concours Général des Lycées 2007 — Matematica
@@ -41,6 +42,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Type-W triangles (perpendicular medians from A and B): geometric loci, then integer-sided solutions and prime divisors of u^2-uv-v^2*
 
@@ -135,3 +138,93 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JihN9Eqo9Bow2H0rK1U6n_bOKeneSjKF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangoli di tipo W (mediani perpendicolari da A e B): loci geometrici, quindi soluzioni a lato intero e divisori primi di u^2-uv-v^2*
+
+> Durante tutto questo esercizio, dato un triangolo non degenerato $ABC$, si indicano rispettivamente $a$, $b$, $c$ le lunghezze dei lati $BC$, $CA$ e $AB$. Si dice che un triangolo è di tipo $\mathscr{W}$ se i suoi mediani emessi da $A$ e da $B$ sono perpendicolari.
+> 
+> ## 3.1  Geometria
+> 
+> **1.** Mostra che esiste un triangolo $ABC$ tale da avere le relazioni: $$c^2 = \frac{b^2}{2} = \frac{a^2}{3}.$$ Stabilire che tale triangolo sia angolato a destra a $A$ e che sia di tipo $\mathscr{W}$.
+> 
+> **2.** In questa domanda si fissano i punti $A$ e $B$ e si considera che l'insieme $\Gamma$ dei punti $C$ sia di tipo $\mathscr{W}$.
+> 
+> **a.** Determinare l'insieme dei punti $G$, isobaricentri di $A$, $B$, $C$, come descritto da $C$.
+> 
+> **b.** Ridurre l'insieme $\Gamma$.
+> 
+> **c.** Determinare l'insieme dei valori presi dal rapporto $\dfrac{b}{a}$.
+> 
+> **d.** Determinare l'insieme dei punti $H$, ortocentri dei triangoli $ABC$, come $C$ descrive $\Gamma$ (si lavorerà in un quadro $(O, \vec{i}, \vec{j})$ in cui $A$ e $B$ hanno rispettive coordinate $(-1, 0)$ e $(1, 0)$, e si determinerà una funzione $f$ tale da dedurre che $H$ è l'unione delle due curve delle equazioni $y = f(x)$ e $y = -f(x)$).
+> 
+> **3.** In questa domanda si fissano i punti $A$ e $C$ e si considera che l'insieme $\Gamma'$ dei punti $B$ sia di tipo $\mathscr{W}$.
+> 
+> **a.** Determina l'insieme $\Gamma'$.
+> 
+> **b.** Determinare l'insieme dei valori presi dal rapporto $\dfrac{b}{a}$.
+> 
+> **c.** Determinare i triangoli $ABC$ del tipo $\mathscr{W}$ con radius circundante minimo.
+> 
+> **d.** Determinare l'insieme dei punti $H$, ortocentri dei triangoli $ABC$, come $B$ descrive $\Gamma'$ (si lavorerà in un quadro $(O, \vec{i}, \vec{j})$ in cui $C$ e $A$ hanno rispettive coordinate $(-1, 0)$ e $(-5, 0)$).
+> 
+> **4. a.** Indicare che un triangolo $ABC$ è di tipo $\mathscr{W}$ se e solo se ha la relazione: $$(\star) \quad a^2 + b^2 = 5c^2.$$
+> 
+> **b.** Dato il valore rigorosamente positivo $a$, $b$, $c$ che verifica la relazione $(\star)$, indicare la condizione necessaria e sufficiente che il rapporto $\dfrac{b}{a}$ per $a$, $b$, $c$ sia il lungo dei lati di un triangolo di tipo $\mathscr{W}$.
+> 
+> ## 3.2  aritmetica
+> 
+> ### 3.2.1  Due famiglie di triangoli
+> 
+> Nel resto dell'esercizio si propone di cercare i triangoli di tipo $\mathscr{W}$ i cui lati hanno lunghezze interi, iniziando dalla ricerca del insieme $\mathscr{T}$ di triples $(a, b, c)$ di enti interi strettamente positivi che verificano la relazione $(\star)$.
+> 
+> Si osserva che per un triplo $(a, b, c)$ di interi rigorosamente positivi essere un elemento di $\mathscr{T}$, basta che esista un intero rigorosamente positivo $m$ tale che il triplo $(ma, mb, mc)$ sia un elemento di $\mathscr{T}$. Si può quindi limitare alla ricerca del insieme $\mathscr{T}_1$ di elementi di $\mathscr{T}$ senza fattore primo comune.
+> 
+> **1. a.** Mostra che se $(a, b, c)$ è un elemento di $\mathscr{T}_1$ allora i numeri interi $a$, $b$, $c$ sono copriamo in copriamo.
+> 
+> **b.** Stabilire che se $(a, b, c)$ è un elemento di $\mathscr{T}_1$ allora $a$ e $b$ sono di parità diverse.
+> 
+> **c.** Indicare che se $(a, b, c)$ è un elemento di $\mathscr{T}_1$, $c$ non è divisibile né per $3$, né per $4$, né per $5$.
+> 
+> **d.** $(a, b, c)$ deve essere un elemento di $\mathscr{T}_1$. Indicare che $b^2 - 4a^2$ e $a^2 - 4b^2$ sono multipli di $5$. Deduci che esiste una coppia di integri $(\alpha, \beta)$ tale da avere $\begin{cases} 2a + b = 5\alpha \\ -a + 2b = 5\beta \end{cases}$ o $\begin{cases} 2a - b = 5\alpha \\ a + 2b = 5\beta \end{cases}$. Verificare quindi che uno ha $\alpha^2 + \beta^2 = c^2$, e che $\alpha$ e $\beta$ sono coprime.
+> 
+> **e.** Se $\alpha$ e $\beta$ sono integri copriemi l'uno con l'altro, sono i numeri integri $a$ e $b$ che sono associati a loro dalle relazioni di cui sopra copriemi l'uno con l'altro?
+> 
+> Si ammette ora il seguente risultato: i triples $(x, y, z)$ di enti interi rigorosamente positivi senza fattore primo comune che verificano $x^2 + y^2 = z^2$ e tali che $y$ sia pari sono dati da $x = u^2 - v^2$, $y = 2uv$ e $z = u^2 + v^2$, dove $u$ e $v$ sono enti interi rigorosamente positivi, coprime, di parità diverse e tali che $u > v$, determinati in modo unico.
+> 
+> **2.** Si dirà che un triangolo è di tipo $\mathscr{W}_e$ se è di tipo $\mathscr{W}$ e se le lunghezze $a$, $b$ e $c$ dei suoi lati sono interi senza fattore primo comune. Mostrare che per ogni triangolo di tipo $\mathscr{W}_e$ esistono integri rigorosamente positivi $u$ e $v$, coprime, di parità diverse e verificare $u > v$, in modo tale che una delle due relazioni seguenti sia valida:
+> 
+> $$(1) \quad (a, b, c) = \bigl( 2(u^2 - uv - v^2),\; u^2 + 4uv - v^2,\; u^2 + v^2 \bigr)$$ $$(2) \quad (a, b, c) = \bigl( 2(u^2 + uv - v^2),\; -u^2 + 4uv + v^2,\; u^2 + v^2 \bigr)$$
+> 
+> **3.** Determinare le serie di coppie $(u, v)$ di integri positivi in modo tale che la relazione $(1)$ (rispettivamente $(2)$) porti a un triangolo di tipo $\mathscr{W}_e$.
+> 
+> **4.** Stabilire che un triangolo di tipo $\mathscr{W}_e$ sia dato solo da una delle due relazioni $(1)$ o $(2)$. Si classifica quindi i triangoli del tipo $\mathscr{W}_e$ in due categorie disconnesse, che si denoteranno $\mathscr{W}_1$ e $\mathscr{W}_2$.
+> 
+> **5.** Indicare le lunghezze dei lati dei triangoli di tipo $\mathscr{W}_e$ il cui lato  piccolo  $c$ ha una lunghezza inferiore o uguale a $50$.
+> 
+> ### 3.2.2  Integra della forma $u^2 - uv - v^2$ e dei loro divisori
+> 
+> Si propone di studiare i fattori primi superiori o uguali a $7$ degli integri $a$ e $b$, le lunghezze dei lati $BC$ e $CA$ di un triangolo di tipo $\mathscr{W}_e$.
+> 
+> **1.** Uno indica con $\omega$ e $\omega'$ le soluzioni dell'equazione $x^2 - x - 1 = 0$. Stabilire il rapporto $u^2 - uv - v^2 = (u - \omega v)(u - \omega' v)$. Deduzione che l'insieme di integri della forma $u^2 - uv - v^2$, dove $u$ e $v$ descrivono i numeri interi relativi, è stabile sotto moltiplicazione. Cosa si può dire dell'insieme di integri del modulo $u^2 + 4uv - v^2$, dove $u$ e $v$ sono integri relativi arbitrari?
+> 
+> **2.** $p = 2q + 1$ deve essere un numero primo strettamente superiore a $5$ che divide un intero della forma $u^2 - uv - v^2$, dove $u$ e $v$ sono integri relativi copriemi.
+> 
+> **a.** Stabilire le congruenze $(2u - v)^2 \equiv 5v^2$ modulo $p$ e $(u + 2v)^2 \equiv 5u^2$ modulo $p$.
+> 
+> **b.** Deduce che $5^q \equiv 1$ modulo $p$.
+> 
+> **c.** $j$ sia un numero intero tra $1$ e $q$; uno indica con $r_j$ il resto della divisione di $5j$ con $p$. Se $r_j \le q$ un insieme $f(j) = r_j$ e $\varepsilon(j) = 1$; al contrario un insieme $f(j) = p - r_j$ e $\varepsilon(j) = -1$, in modo che in tutti i casi si abbia $1 \le f(j) \le q$ e $5j \equiv \varepsilon(j) f(j)$ modulo $p$. Mostrare che i numeri interi $f(1), f(2), \ldots, f(q)$ sono separati in coppia e dedurre che il numero di numeri interi $j$, tra $1$ e $q$ e tale che $\varepsilon(j) = -1$, è pari.
+> 
+> **d.** Per ogni numero reale $x$, si indica con $\lfloor x \rfloor$ la sua parte integrale, vale a dire il più grande numero intero relativo inferiore o uguale a $x$. Indicare che $\left\lfloor \dfrac{4p}{10} \right\rfloor - \left\lfloor \dfrac{3p}{10} \right\rfloor + \left\lfloor \dfrac{2p}{10} \right\rfloor - \left\lfloor \dfrac{p}{10} \right\rfloor$ è pari, quindi che $p \equiv \pm 1$ modulo $10$.
+> 
+> **3.** $(a, b, c)$ siano le lunghezze dei lati di un triangolo del tipo $\mathscr{W}_e$.
+> 
+> **a.** Mostra che tutti i fattori primi odd di $a$ sono congruenti a $1$ o a $9$ modulo $10$.
+> 
+> **b.** Cosa si può dire dei fattori primi di $b$?
+
+[[src_cgen_2007__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1989 (30th IMO, Braunschweig) — Quesito 1'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1989__Q01
 parent: src_imo_1989
 competition: 'IMO 1989 (30th IMO, Braunschweig)'
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Partition 1..1989 into 117 equal-sum 17-element subsets*
 
@@ -38,3 +41,13 @@ tags:
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Partition 1..1989 into 117 equal-sum 17-element subsets
+
+> Prove that the set {1, 2, . . . , 1989} can be expressed as the disjoint union of subsets Ai (i = 1, 2, . . . , 117) such that: (i) Each Ai contains 17 elements; (ii) The sum of all the elements in each Ai is the same.
+
+[[src_imo_1989__Q01]]

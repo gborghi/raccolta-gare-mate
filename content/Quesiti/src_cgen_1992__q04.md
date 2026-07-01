@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1992 — Matematica — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1992__Q04
 parent: src_cgen_1992
 competition: Concours Général des Lycées 1992 — Matematica
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convergence and eventual monotonicity of a square-root recurrence*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Convergenza e eventuale monotonia di una ricorrenza di radice quadrata*
+
+> $(u_n)$ sia la sequenza numerica definita dai suoi primi due termini $u_0$ e $u_1$, con $0 < u_0 < 1$ e $0 < u_1 < 1$, e dal rapporto di ricorrenza: $$u_{n+2} = \frac{1}{2}\left(\sqrt{u_{n+1}} + \sqrt{u_n}\right).$$
+> 
+> **1.** Mostra che la sequenza $(u_n)$ è convergente e determina il suo limite.
+> 
+> **2.** Mostra che da alcuni indici $n_0$ in poi, la sequenza $(u_n)$ è monotona (non è richiesto di determinare $n_0$, che dipende dai valori iniziali $u_0$ e $u_1$).
+
+[[src_cgen_1992__Q04]]

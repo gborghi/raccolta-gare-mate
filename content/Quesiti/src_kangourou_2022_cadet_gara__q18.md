@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet gara individuale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q18
 parent: src_kangourou_2022_cadet_gara
 competition: Kangourou 2022 Cadet gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nella quarta casella d'angolo della griglia 3x3*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the fourth corner box of the grid 3x3*
+
+![[src_kangourou_2022_cadet_gara__prob18.png]]
+
+> Giada wants to write a number in each box of a grid 3 × 3, so that the sums of the numbers in each of the four squares 2 × 2 that you can highlight in the grid are all the same. He has already written the numbers in three of the corner boxes; which number should he put in the fourth corner box? A) 0
+> 	
+> B) 1
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** B
+[[src_kangourou_2022_cadet_gara__Q18]]

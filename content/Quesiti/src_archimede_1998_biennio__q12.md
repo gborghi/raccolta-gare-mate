@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Biennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_biennio__Q12
 parent: src_archimede_1998_biennio
 competition: Giochi di Archimede 1998 - Biennio
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti triangoli equilateri nella figura*
 
@@ -69,3 +72,41 @@ tags:
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kWwcoo-eeUmeGNwnlbaf7KaRcCi2NLyS/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many equilateral triangles in Figure < MSK1/>
+
+![[src_archimede_1998_biennio__prob12.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0)--(4,0);
+  \draw (0.5,0.8660)--(3.5,0.8660);
+  \draw (1,1.7320)--(3,1.7320);
+  \draw (1.5,2.5980)--(2.5,2.5980);
+  \draw (0,0)--(2,3.4641);
+  \draw (1,0)--(2.5,2.5980);
+  \draw (2,0)--(3,1.7320);
+  \draw (3,0)--(3.5,0.8660);
+  \draw (4,0)--(2,3.4641);
+  \draw (3,0)--(1.5,2.5980);
+  \draw (2,0)--(1,1.7320);
+  \draw (1,0)--(0.5,0.8660);
+\end{tikzpicture}
+\end{document}
+```
+
+> How many equilateral triangles are there in this figure?
+>
+> - **(A)** 16
+> - **(B)** 20
+> - **(C)** 25
+> - **(D)** 26
+> - **(E)** 27.
+
+**Answer:** E
+[[src_archimede_1998_biennio__Q12]]

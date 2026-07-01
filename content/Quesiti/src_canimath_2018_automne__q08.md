@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2018 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2018_automne__Q08
 parent: src_canimath_2018_automne
 competition: Coupe Animath Automne 2018
@@ -37,6 +38,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all functions f: R*→R satisfying af(x/y)+af(x/z)−f(x)f((y+z)/2)≥a²*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni f: R *→R soddisfacendo af(x/y) +af(x/z)−f(x) f(y+z)/2)≥a2*
+
+> Let < MSK1/>. Trova tutte le funzioni $f : \mathbb{R}^* \to \mathbb{R}$ in modo tale che, per tutte $x, y, z \in \mathbb{R}^*$, $$af\!\left(\frac{x}{y}\right) + af\!\left(\frac{x}{z}\right) - f(x)\,f\!\left(\frac{y+z}{2}\right) \ge a^2.$$
+
+[[src_canimath_2018_automne__Q08]]

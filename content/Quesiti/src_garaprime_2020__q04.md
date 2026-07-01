@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2020 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2020__Q04
 parent: src_garaprime_2020
 competition: Gara Nazionale Classi Prime 2020
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di vertici di un dodecaedro regolare*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RcjMtWkWdcfagBZF3LMfq3IMn7aMwmGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of vertices of a regular dodecahedron*
+
+> A regular dodecahedron is a solid with 12 faces, all equal to each other, shaped like a regular pentagon. How many peaks do you have? A 20 B 60 C 30 D 12 E 36 F 48
+
+**Answer:** A
+[[src_garaprime_2020__Q04]]

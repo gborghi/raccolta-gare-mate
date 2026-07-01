@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q14
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo n di 4 cifre con quadrato di forma data*
 
@@ -38,3 +41,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum n of 4 digits with a given shape square*
+
+> Newton Pulsifer is trying to determine a four-digit combination to open a lock box. After torturing the witch, who owned the coffin, Newton discovered that the combination is a perfect square with the penultimate digit 5.
+> 
+> What's the largest four-digit number that could be the combination Newton was looking for?
+
+[[src_gs_2008_squadre__Q14]]

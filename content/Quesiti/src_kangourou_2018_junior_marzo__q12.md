@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q12
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti dei primi 105 numeri della lista divisibili per 3*
 
@@ -54,3 +57,23 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many of the first 105 numbers in the list are divisible by 3*
+
+> Suppose you have written in increasing order every natural number n exactly n times: 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, and so on. From the first to the 105th number on the list, how many of the numbers written are divisible by 3? A) 4
+> 	
+> B) 12
+> 	
+> C) 21
+> 	
+> D) 30
+> 	
+> E) 45 A B
+>
+
+**Answer:** D
+[[src_kangourou_2018_junior_marzo__Q12]]

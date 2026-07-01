@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f1__Q06
 parent: src_obm_1998_n2_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Units digit of 3 raised to the 1998th power*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>L'unità di 3 aumentata alla potenza 1998< MSK1/>
+
+> Qual è la cifra di unità di $3^{1998}$?
+> 
+> A) 1 B) 3 C) 5 D) 7 E) 9
+
+**Risposta:** E
+[[src_obm_1998_n2_f1__Q06]]

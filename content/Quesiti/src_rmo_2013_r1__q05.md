@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r1__Q05
 parent: src_rmo_2013_r1
 competition: Regional Mathematical Olympiad 2013
@@ -32,6 +33,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with angle A=90 and point D,E on BC; prove angle DAE=45*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kzoUvCWGpDy_1Yry02V2lM4u5xLLwPb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con angolo A=90 e punto D,E su BC; prova angolo DAE=45*
+
+> Il $ABC$ deve essere un triangolo con $\angle A = 90^\circ$ e $AB = AC$. Il punto $D$ e il punto $E$ devono essere punti del segmento $BC$ in modo tale che $BD : DE : EC = 3 : 5 : 4$. Dimostra che $\angle DAE = 45^\circ$.
+
+[[src_rmo_2013_r1__Q05]]

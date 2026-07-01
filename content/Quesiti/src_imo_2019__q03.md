@@ -1,6 +1,7 @@
 ---
 title: IMO 2019 papers — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2019__Q03
 parent: src_imo_2019
 competition: IMO 2019 papers
@@ -28,6 +29,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rete sociale 2019 utenti, eventi amicizia*
 
@@ -42,3 +45,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JyHT55oZouRQ04YAx-a4_fyuMYOtPSWx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Social network 2019 users, friendship events*
+
+> A social network has $2019$ users, some of whom are friends. Whenever the user $A$ is a friend of the user $B$, $B$ is also a friend of $A$. Events of the following type may occur repeatedly, one at a time:
+> 
+> Three users $A$, $B$ and $C$ such that $A$ is a friend of both $B$ and $C$, but $B$ and $C$ are not friends, change their friendship states so that $B$ and $C$ become friends, but $A$ is no longer a friend of $B$ and is no longer a friend of $C$. All other states of friendship remain unchanged.
+> 
+> Initially, $1010$ users each have $1009$ friends and $1009$ users each have $1010$ friends. Demonstrate that there is a sequence of such events after which each user is friends with at most one other user.
+
+[[src_imo_2019__Q03]]

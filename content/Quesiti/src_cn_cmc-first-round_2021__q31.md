@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 31
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q31
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A2-9: triangle ABC with AB=1, AC=2, cos B + sin C = 1; find length of BC.*
 
@@ -43,3 +46,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A2-9: triangolo ABC con AB=1, AC=2, cos B + sin C = 1; trovare lunghezza di BC.*
+
+> [Paper di prova A2, problema 9] (16 punti) È noto che $\triangle ABC$ soddisfa $AB=1$, $AC=2$ e $\cos B+\sin C=1$. Trova la lunghezza del lato $BC$.
+
+[[src_cn_cmc-first-round_2021__Q31]]

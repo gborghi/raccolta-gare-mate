@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Junior Finale 1 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_squadre__Q01
 parent: src_kangourou_2022_junior_squadre
 competition: Kangourou Squadre 2022 Junior Finale 1
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Voti favorevoli totali in referendum 252 votanti*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0147
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total votes in favour in the referendum 252 voters*
+
+> A referendum was held in one country, with 252 votes in favour or against the construction of a cycle track. The percentage of votes in favour of the first 240 votes cast remained the same over the total when the remaining 12 votes were cast, of which 7 were in favour. How many votes were in favour?
+
+**Answer:** 0147
+[[src_kangourou_2022_junior_squadre__Q01]]

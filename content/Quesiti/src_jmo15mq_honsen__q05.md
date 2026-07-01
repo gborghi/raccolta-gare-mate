@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2005 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo15mq_honsen__Q05
 parent: src_jmo15mq_honsen
 competition: Japan Mathematical Olympiad 2005 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of an envy-free assignment that is not dominated by another*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kJ0RBj04mPEdfmRta9X0N2LOSpB-9biU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di un incarico senza invidia che non è dominato da un altro*
+
+> Ci sono $10$ subordinati e $10$ posti di lavoro. Per ogni subordinato e per ogni lavoro, due numeri reali, chiamati entusiasmo e capacità di quel subordinato per quel lavoro, sono fissati. Come capo di sezione, lei vuole assegnare esattamente un lavoro a ogni subordinato. Supponiamo che il subordinato $A$ abbia un maggiore entusiasmo per il lavoro $v$ rispetto al lavoro $u$, e inoltre $A$ abbia una maggiore capacità per il lavoro $v$ rispetto al subordinato $B$; quindi, se assegnate $u$ a $A$ e $v$ a $B$, il subordinato $A$ diventa insoddisfatto. Inoltre, se utilizzando un incarico diverso dal tuo è possibile fare in modo che ogni lavoro venga dato a una persona con una maggiore capacità per esso (come nel tuo incarico), allora sei rimproverato dal presidente dell'azienda. Dimostrare che esiste un incarico in cui nessun subordinato è insoddisfatto e che il presidente non ti rimprovera.
+
+[[src_jmo15mq_honsen__Q05]]

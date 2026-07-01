@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Écolier (gara marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q13
 parent: src_kangourou_2017_ecolier_marzo
 competition: Kangourou 2017 Écolier (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima somma di un quadrato 2x2 nella griglia 4x4*
 
@@ -78,3 +81,48 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum sum of a 2x2 square in the 4x4 grid*
+
+![[src_kangourou_2017_ecolier_marzo__prob13.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw[thick] (0,0) grid (4,4);
+  \node at (0.5,3.5) {1};
+  \node at (1.5,3.5) {2};
+  \node at (2.5,3.5) {1};
+  \node at (3.5,3.5) {3};
+  \node at (0.5,2.5) {4};
+  \node at (1.5,2.5) {1};
+  \node at (2.5,2.5) {1};
+  \node at (3.5,2.5) {2};
+  \node at (0.5,1.5) {1};
+  \node at (1.5,1.5) {7};
+  \node at (2.5,1.5) {3};
+  \node at (3.5,1.5) {2};
+  \node at (0.5,0.5) {2};
+  \node at (1.5,0.5) {1};
+  \node at (2.5,0.5) {3};
+  \node at (3.5,0.5) {1};
+\end{tikzpicture}
+\end{document}
+```
+
+> The figure shows a grid of 434 squares: numbers were inserted into each cell. Look in that grid for the square 232 so that the sum of the numbers in its four cells is as large as possible. How much is that? A) 11
+> 	
+> B) 12
+> 	
+> C) 13
+> 	
+> D) 14
+> 	
+> E) 15
+
+**Answer:** D
+[[src_kangourou_2017_ecolier_marzo__Q13]]

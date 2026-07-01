@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Ecolier (marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q21
 parent: src_kangourou_2006_ecolier_marzo
 competition: Kangourou 2006 Ecolier (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato impossibile con +/- su 5 numeri*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1pKY5ouqmagp75LpVMmZ7-wegTuPPO_ZD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Impossible result with +/- out of 5 numbers*
+
+> In writing 2002 * 2003 * 2004 * 2005 * 2006 picture replacing each * symbol with a + or a - (not necessarily always the same sign): depending on the choices operated are possible many different results. Only one of the following results is impossible: which? A) 1998 B) 2001 C) 2002 D) 2004          E) 2006
+
+**Answer:** B
+[[src_kangourou_2006_ecolier_marzo__Q21]]

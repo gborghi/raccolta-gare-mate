@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Semifinale A — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_a__Q14
 parent: src_cesenatico_2007_squadre_semifinale_a
 competition: Gara a Squadre Cesenatico 2007 - Semifinale A
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero terne (a,b,c) con a<b, a<4c, bc^3<=ac^3+b, <=2007*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Term number (a,b,c) with a<b, a<4c, bc^3<=ac^3+b, <=2007*
+
+> A task too difficult Sekante now thinks only of his future reign and is so taken by the idea of saving money, that he started doing other students' homework in exchange for money. Master Isoshilo discovered it and to put it in line, he presented himself under false pretenses offering him a laudous compensation to find all the positive integers that satisfy a <b, a <4c, bc3 ≤ac3 +b, a,b,c ≤2007. Sekante is squeezing the meningi and Isoshilo doesn't think he can make it, but even if he does, he'll mock him without paying! How many solutions should Sekante find?
+
+[[src_cesenatico_2007_squadre_semifinale_a__Q14]]

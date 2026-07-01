@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Triennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_triennio__Q05
 parent: src_archimede_1998_triennio
 competition: Giochi di Archimede 1998 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di n con n lati e 4n diagonali*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of n with n sides and 4n diagonal *
+
+> A regular polygon has n sides and 4 n diagonals. How much is n?
+>
+> - **(A)** 8
+> - **(B)** 9
+> - **(C)** 10
+> - **(D)** 11
+> - **(E)** 12.
+
+**Answer:** D
+[[src_archimede_1998_triennio__Q05]]

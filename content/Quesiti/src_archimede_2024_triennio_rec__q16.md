@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_triennio_rec__Q16
 parent: src_archimede_2024_triennio_rec
 competition: Giochi di Archimede 2024 - Gara Triennio (riserva)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che due divisori di 18000 siano primi tra loro*
 
@@ -48,3 +51,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability that two divisors of 18000 are prime to each other*
+
+> Luca and Giulia wrote, in 60 different notes, the list of all natural numbers that are divisors of 18000 (one for each note). Luke randomly draws one, then puts it back together with the others, and Julia then runs a new draw. What is the probability that the extracted numbers are prime?
+>
+> - **(A)** 9/100
+> - **(B)** 5/54
+> - **(C)** 1/12
+> - **(D)** 1/10
+> - **(E)** 7/80 511
+
+[[src_archimede_2024_triennio_rec__Q16]]

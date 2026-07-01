@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2015 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_classiprime__Q12
 parent: src_archimede_2015_classiprime
 competition: Gara Nazionale Classi Prime 2015
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti primi distinti dividono 1122221100*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What are the distinct prime numbers dividing 1122221100*
+
+> How many different prime numbers divide the number 1122221100? (remember that 1 is NOT a prime number) A 8 B 7 C less than 7 D 9 E 10 F more than 10
+
+**Answer:** A
+[[src_archimede_2015_classiprime__Q12]]

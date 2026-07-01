@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1983-84 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1983-84_round2__Q03
 parent: src_bmo_1983-84_round2
 competition: British Mathematical Olympiad 1983-84 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find maximum and minimum of cos α + cos β + cos γ with α+β+γ = 4π/3*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18oguQ4XfS33xmfIqthYty5_Jy5-1pMJ0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il massimo e il minimo di cos α + cos β + cos γ con α+β+γ = 4π/3*
+
+> Trova, con prova, i valori massimi e minimi di $$\cos\alpha + \cos\beta + \cos\gamma ,$$ dove $\alpha \ge 0$, $\beta \ge 0$, $\gamma \ge 0$ e $$\alpha + \beta + \gamma = \frac{4\pi}{3} .$$
+
+[[src_bmo_1983-84_round2__Q03]]

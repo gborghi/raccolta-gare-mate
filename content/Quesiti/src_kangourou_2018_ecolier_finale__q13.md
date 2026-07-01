@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_finale__Q13
 parent: src_kangourou_2018_ecolier_finale
 competition: Kangourou Coppa Ecolier squadre 2018 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri 4 cifre con cifre 1 2 3 senza adiacenti uguali*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0024
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers 4 digits with digits 1 2 3 without equal adjacencies*
+
+> Bice Bice numbers only love 4-digit numbers that satisfy both of these properties:  there are no numbers other than 1, 2 or 3 in the number  there are no two adjacent numbers equal How many 4-digit numbers does Bice love?
+
+**Answer:** 0024
+[[src_kangourou_2018_ecolier_finale__Q13]]

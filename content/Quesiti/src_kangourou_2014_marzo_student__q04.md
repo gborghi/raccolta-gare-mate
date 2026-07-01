@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q04
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quante nel piu grande*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> when in the largest< MSK1/>
+
+> Three baskets of different sizes contain a total of 48 balls. The smallest basket contains half of the balls in the middle basket, and counting the balls in the smaller and larger baskets together, you get twice the number of balls in the middle basket. How many balls does the biggest basket contain? A) 16
+> 	
+> B) 20
+> 	
+> C) 24
+> 	
+> D) 30
+> 	
+> E) 32
+
+**Answer:** C
+[[src_kangourou_2014_marzo_student__Q04]]

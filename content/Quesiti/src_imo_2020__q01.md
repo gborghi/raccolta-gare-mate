@@ -1,6 +1,7 @@
 ---
 title: IMO 2020 papers — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2020__Q01
 parent: src_imo_2020
 competition: IMO 2020 papers
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tre rette concorrenti in quadrilatero con rapporti angoli*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lHIqSWrqlVCOmcFjndDhEYM3gZRYMB5g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three competing squared lines with angular ratios*
+
+> Consider the convex quadrilateral $ABCD$. The point $P$ is within $ABCD$. The following equations of proportions are valid: $$\angle PAD : \angle PBA : \angle DPA = 1 : 2 : 3 = \angle CBP : \angle BAP : \angle BPC.$$ It shows that the following three lines meet at a point: the inner intersections of the $\angle ADP$ and $\angle PCB$ angles and the mediator of the $AB$ segment.
+
+[[src_imo_2020__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q29
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di scambio regali senza il proprio (5 amici)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How to exchange gifts without one's own (5 friends)
+
+> At a party, five friends exchange gifts so that each one makes and receives exactly one gift (and, of course, no one receives their own gift). How many different ways can they do this? A) 5 B) 10 C) 44 D) 50 E) 120
+
+**Answer:** C
+[[src_kangourou_2007_junior_marzo__Q29]]

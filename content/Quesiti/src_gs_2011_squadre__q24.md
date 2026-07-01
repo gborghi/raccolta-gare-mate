@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2011 - Gara a squadre — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2011_squadre__Q24
 parent: src_gs_2011_squadre
 competition: Coppa Fermat 2011 - Gara a squadre
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo sferico da ottavo di sfera*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0125
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Eighth spherical spherical triangle area*
+
+> James must enter a spherical capsule with a surface < MSK0/>. It is known that the opening consists of a spherical triangle with angles of $90^\circ$, $60^\circ$, $45^\circ$. A spherical triangle is the part of a spherical surface enclosed by three arcs of maximum circumference. James's trying to figure out if the opening's gonna be wide enough to go in with Honey. What is the area of the spherical triangle measured in $\text{dm}^2$?
+
+**Answer:** 0125
+[[src_gs_2011_squadre__Q24]]

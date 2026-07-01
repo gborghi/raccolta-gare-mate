@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q07
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre X e Y nella griglia (somma 2 per riga/colonna)*
 
@@ -62,3 +65,30 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*X and Y figures in the grid (sum of 2 per row/column) *
+
+![[src_kangourou_2007_junior_marzo__prob7.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.7]
+  \draw[line width=1pt] (0,0) grid (4,4);
+  \node at (0.5,3.5) {1};
+  \node at (2.5,3.5) {1};
+  \node at (2.5,2.5) {1};
+  \node at (1.5,1.5) {$x$};
+  \node at (3.5,1.5) {0};
+  \node at (1.5,0.5) {$y$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In each grid cell in the figure, the digit 0 or the digit 1 must be inserted, so that in each row and column the sum of the digits that appear there is 2. What digits should be substituted for X and Y? A) X = 1, Y = 1 B) X = 1, Y = 0 C) X = 0, Y = 1 D) X = 0, Y = 0 E) The configuration cannot be made.
+
+**Answer:** A
+[[src_kangourou_2007_junior_marzo__Q07]]

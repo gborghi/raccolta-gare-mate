@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f2__Q06
 parent: src_obm_2004_n2_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Split set of perfect squares into two equal-sum groups*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rDWi4aChRBskadFdiGfO9ekGjbo_vFkU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Spartire l'insieme di quadrati perfetti in due gruppi di somma uguale*
+
+> **Problema 1** (parte B)
+> 
+> (a) È possibile dividere l'insieme $\{1^2, 2^2, 3^2, \ldots, 7^2\}$ in due gruppi $A$ e $B$ in modo tale che la somma degli elementi di $A$ sia uguale alla somma degli elementi di $B$? Giustifica la tua risposta.
+> 
+> b) È possibile dividere l'insieme $\{1^2, 2^2, 3^2, \ldots, 9^2\}$ in due gruppi $C$ e $D$ in modo tale che la somma degli elementi di $C$ sia uguale alla somma degli elementi di $D$? Giustifica la tua risposta.
+
+[[src_obm_2004_n2_f2__Q06]]

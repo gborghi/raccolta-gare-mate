@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Koala — Gioco Koala — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_koala__Q09
 parent: src_kangourou_2022_koala
 competition: Kangourou 2022 Koala — Gioco Koala
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *cifre uguali sotto formine uguali*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Nyec1GxOQ3f28I_D0c1kacejlV99W-GD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*equal numbers under the same form*
+
+![[src_kangourou_2022_koala__prob9.png]]
+
+> Gloria wrote a number on the sand and then covered each number with an ant. The result is what you see in the figure. He covered different numbers with different ants and the same numbers with the same ants. Which of the following numbers could be Gloria's number? (see figure)
+
+**Answer:** A
+[[src_kangourou_2022_koala__Q09]]

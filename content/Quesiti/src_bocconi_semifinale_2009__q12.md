@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2009 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2009__Q12
 parent: src_bocconi_semifinale_2009
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2009
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rette tracciate da Desiderio che dividono piano in regioni*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 20 oppure 21 oppure 24 oppure 35
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lines drawn by Desiderio dividing flat into regions*
+
+> Desiderio, on the phone with Angelo, playing with a card and a pen. At the end of the call, he drew several lines dividing the plane into a number of rectangles and illuminated regions. The number of rectangles is exactly twice the number of illuminated regions.
+> 
+> How many lines did Desiderio trace?
+
+**Answer:** 20 oppure 21 oppure 24 oppure 35
+[[src_bocconi_semifinale_2009__Q12]]

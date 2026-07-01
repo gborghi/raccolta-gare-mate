@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_squadre__Q08
 parent: src_archimede_2001_squadre
 competition: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *cifre decimali dopo 2001 mosse*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4001
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BmICgzhXXszLqAUxg8mhu_z1YXo7y9a6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>decimal digits after 2001 moves< MSK1/>
+
+> I mean, games... 1 2 3** (25 points)
+> 
+> The newspapers are full of articles on loneliness and hobbies. Here's one of them. Starting with three points on a circumference; one move consists of tracing the beams of the triangle detected by the three points and considering the points that those beams intercept on the circumference. Xam begins to play with points that on the circumference identify arcs of length 1, 2 and 3. Xam stops after the 2001 move. How many digits after the comma is the product of the lengths of the three arcs identified by the last points marked?
+
+**Answer:** 4001
+[[src_archimede_2001_squadre__Q08]]

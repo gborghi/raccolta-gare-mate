@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (gara marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q04
 parent: src_kangourou_2016_ecolier_marzo
 competition: Kangourou 2016 Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Immagine del pagliaccio allo specchio*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Image of the clown in the mirror*
+
+![[src_kangourou_2016_ecolier_marzo__prob4.png]]
+
+> What image does the figure clown see when he looks in the mirror? A) B) C)
+> 	
+> D) E)
+
+**Answer:** D
+[[src_kangourou_2016_ecolier_marzo__Q04]]

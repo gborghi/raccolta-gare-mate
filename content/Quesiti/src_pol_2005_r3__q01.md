@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2005 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2005_r3__Q01
 parent: src_pol_2005_r3
 competition: Olimpiade Matematica Polacca 2005 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer triples (x,y,n) with (x-y)^n = xy.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORyk-mK8rlEH9HuKazmwqcy5n8d2do0t/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i tripli interi positivi (x,y,n) con (x-y)^n = xy.*
+
+> Trova tutti i triples $(x, y, n)$ di numeri interi positivi che soddisfano l'equazione $$(x - y)^n = xy.$$
+
+[[src_pol_2005_r3__Q01]]

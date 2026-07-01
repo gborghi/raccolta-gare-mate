@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 1) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g1__Q02
 parent: src_bocconi_finaleint_2011_g1
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Biglie nere in scatole, massimo per scatola*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1120
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Black bags in boxes, maximum by box< MSK1/>
+
+> Bigio has four black and four white balls. It also has four boxes. He puts two balls in each box. Since it's rather disgusting, the number of black beans (noires) that you've indicated on each box is false. We know there's more white balls in the last box on the right than in the last box on the left. Tell me how many black balls you put in each box.
+
+![[src_bocconi_finaleint_2011_g1__Q02.png]]
+
+**Answer:** 1120
+[[src_bocconi_finaleint_2011_g1__Q02]]

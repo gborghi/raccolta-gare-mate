@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_mumbai__Q07
 parent: src_rmo_2015_mumbai
 competition: Regional Mathematical Olympiad 2015
@@ -37,6 +38,8 @@ tags:
   - regione/r5
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality (1+x)(1+y)(1+z) ≤ 4+4xyz for x²+y²+z²-2xyz=1*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aKO7__cJlTFnDSJpRW04wWyB2aJzzbY3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza (1+x)(1+y)(1+z) ≤ 4+4xyz per x2+y2+z2-2xyz=1*
+
+> $x, y, z$ siano numeri reali come $x^2 + y^2 + z^2 - 2xyz = 1$. Provare che < MSK0/>
+
+*Apparizioni nelle regioni: Mumbai, Regione 5.*
+
+[[src_rmo_2015_mumbai__Q07]]

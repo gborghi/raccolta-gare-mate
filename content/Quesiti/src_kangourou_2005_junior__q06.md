@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q06
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero x per progressioni aritmetiche in tabella*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number x for arithmetic progressions in the table*
+
+![[src_kangourou_2005_junior__prob6.png]]
+
+> What number do you have to put in the box marked with x if you want to complete the table so that in each row, in each column and on the two diagonals the numbers are in arithmetic progression? (The numbers in a sequence form an arithmetic progression when the difference between each number and the previous one is constant.) A) 49 B) 42 C) 33 D) 28 E) 4
+
+**Answer:** B
+[[src_kangourou_2005_junior__Q06]]

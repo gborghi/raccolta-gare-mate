@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_finale__Q04
 parent: src_cesenatico_2011_finale
 competition: Gara a Squadre Cesenatico 2011 - Finale Nazionale
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Schiere da 10 cifre con 5 blocchi a 2 cifre primi*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0960
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ten-digit lines with five blocks of two prime numbers*
+
+> The Roman legion threatening the village of Cantorax is organized into many ranks of 10 legionaries each. In each row the legionaries are numbered from 0 to 9 and are one next to the other not necessarily in order. In fact, the centurion is superstitious, and he has demanded that each line be in a different order and that all have the property that by dividing the 10 legionaries of the line into 5 2-digit blocks each and lightening each 2-digit block as if it were a number (it is allowed to write 02, which simply means 2), you get 5 prime numbers. Determine how many legions the legion is made up of.
+
+**Answer:** 0960
+[[src_cesenatico_2011_finale__Q04]]

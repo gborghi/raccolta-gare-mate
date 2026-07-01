@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q19
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *S_n is the sum of the first ten positive multiples of n; compute S_1+S_2+...+S_10.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*S_n è la somma dei primi dieci multipli positivi di n; calcola S_1+S_2+...+S_10.*
+
+> Per ogni numero naturale $n$, $S_n$ è la somma dei primi dieci multipli positivi di $n$. Ad esempio, $S_2 = 2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20$. Che cos' è < MSK4/>? (A) $2925$ (B) $3025$ (C) $3125$ (D) $3225$ (E) $3325$
+
+[[src_obm_2009_n3_f1__Q19]]

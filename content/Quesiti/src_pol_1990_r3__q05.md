@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1990 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1990_r3__Q05
 parent: src_pol_1990_r3
 competition: Olimpiade Matematica Polacca 1990 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For a sequence of positive integers with n/a_n -> 0, prove existence of k with at least 1990 perfect squares between consecutive partial sums.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SP_o4XBA9t_Mr20tlsjjsNkpPD2auONv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per una sequenza di interi positivi con n/a_n -> 0, dimostrare l'esistenza di k con almeno 1990 quadrati perfetti tra somme parziali consecutive.*
+
+> Supponiamo che $(a_n)$ sia una sequenza di integri positivi come $\lim_{n \to \infty} \frac{n}{a_n} = 0$. Dimostrare l'esistenza di $k$ in modo tale che ci siano almeno 1990 quadrati perfetti tra $a_1 + a_2 + \cdots + a_k$ e $a_1 + a_2 + \cdots + a_{k+1}$.
+
+[[src_pol_1990_r3__Q05]]

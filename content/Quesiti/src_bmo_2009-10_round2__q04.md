@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2009-10 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2009-10_round2__Q04
 parent: src_bmo_2009-10_round2
 competition: British Mathematical Olympiad 2009-10 — Round 2
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality for positive reals x, y, z*
 
@@ -46,3 +49,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z0AxOacaUmiq8Nh603s8l69kewEVc8n7/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza dei valori reali positivi x, y, z*
+
+> Prove che, per tutti i numeri reali positivi $x$, $y$ e $z$, $$\left(\frac{x+y}{z}\right)^2 + \left(\frac{y+z}{x}\right)^2 + \left(\frac{z+x}{y}\right)^2 \ge 3(x+y+z)\left(\frac{1}{x}+\frac{1}{y}+\frac{1}{z}\right) - 9.$$
+
+[[src_bmo_2009-10_round2__Q04]]

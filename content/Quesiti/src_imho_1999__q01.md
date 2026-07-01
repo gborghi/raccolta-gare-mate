@@ -1,6 +1,7 @@
 ---
 title: IMO 1999 (XL International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1999__Q01
 parent: src_imho_1999
 competition: IMO 1999 (XL International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Finite point sets symmetric under all perpendicular bisectors*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WclaSKYkM_7ZmKkebTw-DQsLSLaQVSUZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Finite point sets symmetric under all perpendicular bisectors*
+
+> Determine the finite sets $S$ of at least three points in the plane which satisfy the following condition:
+> 
+> For any two distinct points $A$ and $B$ in $S$, the perpendicular bisector of the line segment $AB$ is an axis of symmetry for $S$.
+
+[[src_imho_1999__Q01]]

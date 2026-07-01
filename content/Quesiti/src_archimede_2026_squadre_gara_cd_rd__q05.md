@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_gara_cd_rd__Q05
 parent: src_archimede_2026_squadre_gara_cd_rd
 competition: Gara a Squadre 2026 - Gara Coordinatori e Responsabili
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ampiezza angolo PCQ con proiezione cerchio inscritto*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*PCQ angle magnification with inscribed circle projection*
+
+> Consider a rectangular triangle $ABC$ and be $PQ$ the projection, on the hypotenuse $AB$, of the circle inscribed in the triangle. Determine the angle width $P\hat{C}Q$.
+
+[[src_archimede_2026_squadre_gara_cd_rd__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: IMO compilation 1959-2013 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_compilation__Q01
 parent: src_imo_compilation
 competition: IMO compilation 1959-2013
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *IMO 1997 problema 1*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.62](https://drive.google.com/file/d/1k6cpNRHvI9fVtF3vHCIOPLmdeEf70-V4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the case in the Member States.
+
+> Let d be any positive integer not equal to 2, 5, or 13. Show that one can find distinct a, b in the set {2, 5, 13, d} such that ab −1 is not a perfect square.
+
+[[src_imo_compilation__Q01]]

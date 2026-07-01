@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 27
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q27
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -37,6 +38,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ordered triples (a,b,c) with 1≤a,b,c≤50 satisfying (lcm(a,c)+lcm(b,c))/(a+b)=26c/27*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i tripli ordinati (a,b,c) con 1 ≤a,b,c≤50 soddisfacenti (lcm(a,c)+lcm(b,c))/(a+b)=26c/27*
+
+> Trova il numero di triples ordinati $(a, b, c)$ di enti interi positivi come $1 \le a, b, c \le 50$ che soddisfano la relazione $$\frac{\text{lcm}(a, c) + \text{lcm}(b, c)}{a + b} = \frac{26c}{27}.$$ Qui, con $\text{lcm}(x, y)$ intendiamo il LCM, cioè il più piccolo comune multiple di $x$ e $y$.
+
+[[src_ioqm_2025_sep07__Q27]]

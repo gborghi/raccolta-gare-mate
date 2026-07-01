@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_kangourou_squadre__Q12
 parent: src_kangourou_2024_kangourou_squadre
 competition: Kangourou Squadre 2024 Kangourou Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri 3 cifre distinte crescenti o decrescenti*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0204
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1H4evp3ENM3JXuKHssVIkxKmXh6l0-t0_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers 3 distinct digits increasing or decreasing*
+
+> Increasing or decreasing What are the positive integers of three digits (which are greater than 99), all distinct from each other, in which the digits are in increasing or decreasing order?
+
+**Answer:** 0204
+[[src_kangourou_2024_kangourou_squadre__Q12]]

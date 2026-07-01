@@ -1,6 +1,7 @@
 ---
 title: XXV Olimpiade Italiana Cesenatico 2009 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2009__Q03
 parent: src_cesenatico_2009
 competition: XXV Olimpiade Italiana Cesenatico 2009
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri gradevoli di 4 cifre con prodotto cifre che divide n^2*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1111,1212,2424,3636,1515
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RKPm3NkroFDeg9oRHAPmvCWj33-Ezm8e/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Acute 4-digit numbers with product of digits dividing n^2*
+
+> A natural number n is said to be pleasing if it has the following properties: • its decimal expression is 4 digits; • the first and third digits of n are equal; • the second and fourth digits of n are equal; • the product of the digits of n divides n2. Let's get all the pleasant numbers.
+
+**Answer:** 1111,1212,2424,3636,1515
+[[src_cesenatico_2009__Q03]]

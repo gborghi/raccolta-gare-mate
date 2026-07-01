@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_2livello__Q17
 parent: src_archimede_2022_2livello
 competition: Archimede Gara di Febbraio 2022 - 2° livello
@@ -28,6 +29,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazione primo quadrante con semirette, monocromatico*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Color first quadrant with semicircle, monochromatic*
+
+> The first quadrant of the Cartesian plane is the set of points (x, y) with x and y strictly positive real numbers (i.e. x > 0, y > 0). Each point in the first quadrant is colored red or blue. In addition, for each point P = (x, y) of the first quadrant, all points on the semicircle exiting from P with slope y (i.e. the semicircle originating in P and passing through the coordinate point (x + 1, 2y)) have the same color as P. Prove that all points in the first quadrant have the same color.
+
+[[src_archimede_2022_2livello__Q17]]

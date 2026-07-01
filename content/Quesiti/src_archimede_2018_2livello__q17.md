@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_2livello__Q17
 parent: src_archimede_2018_2livello
 competition: Archimede Gara di Febbraio 2018 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo con punto interno, calcolare angolo BAC*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 50°
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangle with inner point, calculate the angle BAC*
+
+> Let ABC be a triangle and P be its inner point. Both H the point on the side of BC such that the bisector of the angle \ AHP is perpendicular to the BC straight. Knowing that \ ABC = \ HPC and \ BPC = 130o, determine the measure of the angle \ BAC.
+
+**Answer:** 50°
+[[src_archimede_2018_2livello__Q17]]

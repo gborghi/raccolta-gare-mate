@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q23
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -31,6 +32,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cevians from interior point P; BP/PE=5/2, CP/PF=7/3; find p+q where AP/PD=p/q*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ceviani dal punto interno P; BP/PE=5/2, CP/PF=7/3; trovare p+q dove AP/PD=p/q*
+
+> Il $P$ deve essere un punto all'interno di un triangolo $ABC$ e $AP$, $BP$, $CP$ devono incontrare i lati $BC$, $CA$, $AB$ rispettivamente in $D$, $E$ e $F$. Se $$\frac{BP}{PE} = \frac{5}{2}, \quad \frac{CP}{PF} = \frac{7}{3}, \quad \text{and} \quad \frac{AP}{PD} = \frac{p}{q}$$ dove $p, q$ sono numeri naturali e $\gcd(p, q) = 1$, trovare $p + q$.
+
+[[src_ioqm_2025_sep28__Q23]]

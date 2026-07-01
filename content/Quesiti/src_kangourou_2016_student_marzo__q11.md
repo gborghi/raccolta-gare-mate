@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q11
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *2*
 
@@ -53,3 +56,23 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*2*
+
+> a, b, c, and d are strictly positive integers that satisfy the chain of equations a + 2 = b − 2 = c ∙ 2 = d: 2. Establish which is the largest of the four numbers. A) a
+> 	
+> B) b
+> 	
+> C) c
+> 	
+> D) d
+> 	
+> E) It is not uniquely determined. b a 2 --- x
+>
+
+**Answer:** D
+[[src_kangourou_2016_student_marzo__Q11]]

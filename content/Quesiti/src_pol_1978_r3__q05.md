@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1978 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1978_r3__Q05
 parent: src_pol_1978_r3
 competition: Olimpiade Matematica Polacca 1978 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For the recursively defined sequence, prove it contains infinitely many nonpositive terms.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AGtrG0C8tcQJU36uFC-bh5dGK0KglZ6h/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per la sequenza definita in modo ricorrente, dimostrare che contiene infiniti termini non positivi.*
+
+> Per un dato numero reale $a$, definire la sequenza $(a_n)$ da $a_1=a$ e $$a_{n+1}=\begin{cases} \frac{1}{2}\left(a_n-\frac{1}{a_n}\right) & \text{if } a_n\ne 0, \\ 0 & \text{if } a_n=0. \end{cases}$$ Prove che la sequenza $(a_n)$ contiene infiniti termini non positivi.
+
+[[src_pol_1978_r3__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q07
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma elementi della tabella triangolare*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4410
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of elements of the triangular table*
+
+> To spend time at the Barrier, the Night's Watch do very long calculations to keep their brains warm. For example, Sam writes numbers in sequence and sums the sequence. Today he writes lines of 21 numbers: in the first line he writes two 1, then 2, 3, etc. In the second line, he writes 1, then two 2, then 3, 4, etc. up to 20; in the third line, it says 1, 2, two 3, then 4, 5, etc. until 20; and then continue until you write a line with 1, 2, etc. until 19, ending with two 20. Finally, add up all the numbers written. What is the result?
+
+**Answer:** 4410
+[[src_gs_2013_squadre__Q07]]

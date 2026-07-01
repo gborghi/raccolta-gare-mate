@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_preecolier_marzo__Q06
 parent: src_kangourou_2016_preecolier_marzo
 competition: Kangourou 2016 Pre-Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti bambini in giardino, dieci compagni di cui 5 bambine*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many children are in the garden, ten companions, including 5 girls< MSK1/>
+
+> Only ten of James' schoolmates attend the garden party for his birthday. Five of them are girls. How many kids are in the yard?
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 7
+> - **(E)** 8
+
+**Answer:** C
+[[src_kangourou_2016_preecolier_marzo__Q06]]

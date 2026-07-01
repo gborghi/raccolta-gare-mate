@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2002 — Round 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2002_r2__Q06
 parent: src_pol_2002_r2
 competition: Olimpiade Matematica Polacca 2002 — Round 2
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers n such that for all reals x_i,y_i the product inequality with sums of squares under square roots holds.*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jU9r-WBc_lrQ5IY9m00_E7KFGVcR9W3o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli integri positivi n in modo tale che per tutti i reali x_i,y_i la disuguaglianza del prodotto con le somme dei quadrati sotto radici quadrate sia contenuta.*
+
+> Trovare tutti gli integri positivi $n$ in modo tale che per tutti i numeri reali $x_1,x_2,\ldots,x_n,y_1,y_2,\ldots,y_n$ si verifichi la seguente disuguaglianza $$x_1x_2\ldots x_n + y_1y_2\ldots y_n \le \sqrt{x_1^2+y_1^2}\cdot\sqrt{x_2^2+y_2^2}\cdot\ldots\cdot\sqrt{x_n^2+y_n^2}$$.
+
+[[src_pol_2002_r2__Q06]]

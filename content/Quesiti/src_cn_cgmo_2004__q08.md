@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2004 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2004__Q08
 parent: src_cn_cgmo_2004
 competition: China Girls' Mathematical Olympiad 2004
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum non-overlapping crosses in 10x11 chessboard minus corners*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 15
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Massime croci non sovrapposti in scacchi da 10x11 meno angoli*
+
+> Quando i quadrati di unità nei quattro angoli vengono rimossi da un quadrato di tre per tre, la forma rimanente viene chiamata croce. Qual è il numero massimo di croci non sovrapposti posizionati all'interno del confine di una scacchiera $10 \times 11$? (Ogni croce copre esattamente cinque unità quadrate sulla tabella.)
+
+**Risposta:** 15
+[[src_cn_cgmo_2004__Q08]]

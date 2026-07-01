@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q09
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti triangoli si vedono nella figura*
 
@@ -48,3 +51,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many triangles are seen in Figure < MSK1/>
+
+> A train car is occupied only by three families, each made up of a father, mother and three children, male or female. In two families there are twins and all the twins in that car are males. How many females at most, including mothers, are traveling in that car? A) 5
+>         	
+> B) 6
+>     	
+> C) 7 D) 8
+>       	
+> E) 9
+
+[[src_kangourou_2013_ecolier__Q09]]

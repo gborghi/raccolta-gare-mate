@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2006 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2006__Q05
 parent: src_cn_cwmo_2006
 competition: China Western Mathematical Olympiad 2006
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *If n is sum of squares of two positives in consecutive triple, so is n^2*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Se n è la somma dei quadrati di due positivi in triplice consecutive, così è n^2*
+
+> Let < MSK0/>. Prova che, se $n \in S$, allora $n^2 \in S$.
+
+[[src_cn_cwmo_2006__Q05]]

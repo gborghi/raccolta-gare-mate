@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q06
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find x satisfying the nested square root equation sqrt(sqrt(sqrt(x)+1)+1)+1 = 3.*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova x che soddisfa l'equazione di radice quadrata incastonata sqrt(sqrt(sqrt(x) +1) +1) +1 = 3.*
+
+> Per quale valore di $x$ è $\sqrt{\sqrt{\sqrt{x}+1}+1}+1 = 3$?
+>
+> - **(A)** 4096
+> - **(B)** 64
+> - **(C)** 8
+> - **(D)** 3
+> - **(E)** 0
+
+**Risposta:** B
+[[src_smc_2025__Q06]]

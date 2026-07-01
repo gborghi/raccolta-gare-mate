@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2010 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2010__Q08
 parent: src_bocconi_semifinale_2010
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2010
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Che influenza: quanti alunni maschi presenti oggi*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 20 alunni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What influences: how many male pupils are present today*
+
+> In Jacob's class, when everyone is present, there are more than 16 students but less than 40. Today, two out of every seven students are absent because of the flu, and, oddly enough, there are as many females as males in the classroom. How many pupils (male plus female) are in school today?
+
+**Answer:** 20 alunni
+[[src_bocconi_semifinale_2010__Q08]]

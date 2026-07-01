@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2009 — Quesito
   5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2009__Q05
 parent: src_bocconi_finalenaz_2009
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2009
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore degli altri due francobolli per ottenere tutti gli interi consecutivi*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9 - 18
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of the other two stamps to obtain all consecutive integers*
+
+> You have six stamps. Of the first four, two have a value of 1 Euro and two have a value of 3 Euro (as you can see in the figure). What is the value of the other two, knowing that with the six stamps (and some of them), you can get all consecutive integers from 1 Euro at some point in the future (the largest possible)? Note: the last two stamps may have different values.
+
+![[src_bocconi_finalenaz_2009__Q05.png]]
+
+**Answer:** 9 - 18
+[[src_bocconi_finalenaz_2009__Q05]]

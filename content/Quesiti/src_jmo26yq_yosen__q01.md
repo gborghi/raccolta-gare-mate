@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo26yq_yosen__Q01
 parent: src_jmo26yq_yosen
 competition: Japan Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute a radical of fourth powers*
 
@@ -45,3 +48,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolare un radicale di quattro potenze*
+
+> Calcolare il valore della seguente espressione e dare la risposta come numero intero: $$\sqrt{\dfrac{11^4 + 100^4 + 111^4}{2}}.$$
+
+**Risposta:** 11221
+[[src_jmo26yq_yosen__Q01]]

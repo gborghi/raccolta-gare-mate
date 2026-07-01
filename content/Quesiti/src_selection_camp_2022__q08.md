@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2022 — Selection Camp — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2022__Q08
 parent: src_selection_camp_2022
 competition: Japan IMO Selection Camp 2022 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum operations for chairman to achieve majority preference ordering*
 
@@ -51,3 +54,21 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IbxW-7wHAbocY02LPUXVJ2fiAgki09kb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di operazioni per il presidente per ottenere l'ordine di preferenza di maggioranza*
+
+> Lasciate che $m$ sia un numero intero parente con $m \ge 3$, e lasciate che $n$ sia un numero intero con $n \ge 3$. Per ogni numero intero $i$ con $1 \le i \le m$, $a_{i,1}, a_{i,2}, \ldots, a_{i,n}$ deve essere una permutazione di $1, 2, \ldots, n$.
+> 
+> Un presidente e i delegati $m$ (delegato $1$, delegato $2$, $\ldots$, delegato $m$) stanno tenendo una riunione per selezionare i problemi per l'IMO di quest'anno. Esistono problemi di candidato $n$ (problema $1$, problema $2$, $\ldots$, problema $n$). Ogni delegato ha un punteggio di preferenza **** per ogni problema, che è un numero intero da $1$ a $n$; il punteggio di preferenza iniziale del delegato $i$ per il problema $j$ è $a_{i,j}$. Il presidente può eseguire ripetutamente la seguente operazione:
+> 
+> > Scegliere i numeri interi $i, j, k$ con $1 \le i \le m$ e $1 \le j, k \le n$ in modo tale che la differenza tra i punteggi preferenziali del delegato $i$ per il problema $j$ e il problema $k$ sia esattamente $1$, e scambiare quei due punteggi preferenziali del delegato $i$.
+> 
+> Indipendentemente dai valori degli integri $mn$ $a_{i,j}$ ($1 \le i \le m$, $1 \le j \le n$), trovare il numero intero minimo non negativo $L$ in modo tale che il presidente possa ottenere la seguente condizione eseguendo l'operazione al massimo $L$ volte:
+> 
+> > Per due numeri interi distinti $x, y$ con $1 \le x, y \le n$, esiste un numero intero $s \ge 2$ e una sequenza $p_1, p_2, \ldots, p_s$ di numeri interi da $1$ a $n$ con $p_1 = x$ e $p_s = y$, in modo tale che per ogni numero intero $t$ con $1 \le t \le s-1$, almeno $\dfrac{m+1}{2}$ i delegati hanno un punteggio di preferenza strettamente superiore per il problema $p_{t+1}$ rispetto al problema $p_t$.
+
+[[src_selection_camp_2022__Q08]]

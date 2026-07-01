@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q02
 parent: src_archimede_2015_febb_2livello
 competition: Archimede Gara di Febbraio 2015 - 2 livello
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di 100 termini con media di consecutivi pari all'indice*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/147OSJf1wSBJHNEWKDKPVWMIP2TLevkAt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of 100 terms with mean consecutive values of *
+
+> A sequence of a1. . . , a100 of real numbers is such that the arithmetic mean between two consecutive terms is always equal to the index of the second term (e.g., we have a4+a5 2 = 5); what is the sum of the 100 numbers in the sequence? (A) 2550 (B) 5050 (C) 5100 (D) 10100 (E) It cannot be determined: it depends on a1.
+
+**Answer:** C
+[[src_archimede_2015_febb_2livello__Q02]]

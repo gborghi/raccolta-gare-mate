@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_gara_cd_rd__Q06
 parent: src_archimede_2026_squadre_gara_cd_rd
 competition: Gara a Squadre 2026 - Gara Coordinatori e Responsabili
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sequenze 1,1,2,2,3,3,4,4 con vincolo coppie uguali*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sequences 1,1,2,2,3,3,4,4 with equal pairs of bonds*
+
+> How many sequences can all eight digits < MSK0/> be arranged so that, in the middle of each pair of equal digits, no lower value figure appears than those two digits? For example, two of the allowed sequences are $3\;3\;4\;4\;1\;2\;2\;1$ and $1\;2\;4\;4\;2\;1\;3\;3$.
+
+[[src_archimede_2026_squadre_gara_cd_rd__Q06]]

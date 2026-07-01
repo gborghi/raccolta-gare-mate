@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q13
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Day on which both Knave of Hearts and Knave of Diamonds say 'Yesterday I told lies'*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Giorno in cui sia il Canico dei Cuori che il Canico dei Diamanti dicono "Ieri ho mentito"
+
+> Il Gnuccio dei Cuori dice solo la verità il lunedì, martedì, mercoledì e giovedì. Dice solo bugie in tutti gli altri giorni. Il Colletto dei Diamanti dice solo la verità il venerdì, sabato, domenica e lunedì. Dice solo bugie in tutti gli altri giorni. Un giorno della settimana scorsa, entrambi dissero: "Ieri ho mentito".
+>
+> - **(A)** Domenica
+> - **(B)** Lunedì
+> - **(C)** Martedì
+> - **(D)** Giovedì
+> - **(E)** Venerdì
+
+**Risposta:** E
+[[src_smc_2015__Q13]]

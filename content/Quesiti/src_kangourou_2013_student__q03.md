@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q03
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di spigoli di un prisma con 2013 facce*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of edges of a prism with 2013 faces*
+
+> If a prism has, in total, 2013 faces, how many beads does it have? A) 2011 B) 2013 C) 4022 D) 4024 E) 6033
+
+[[src_kangourou_2013_student__Q03]]

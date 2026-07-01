@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2011 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2011__Q04
 parent: src_inmo_2011
 competition: Indian National Mathematical Olympiad 2011
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five vertices chosen from regular nine-gon contain four forming a trapezium*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UMyBd55umRxUDtQdsg_pK-d1SkeZ2kq4/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Quattro vertici scelti tra i nove goni regolari contengono quattro che formano un trapezio< MSK1/>
+
+> Supponiamo che cinque dei nove vertici di un poligono regolare a nove lati siano scelti arbitrariamente. Mostrate che si possono scegliere quattro tra questi cinque in modo tale che siano i vertici di un trapezio.
+
+![[src_inmo_2011__Q04.png]]
+
+[[src_inmo_2011__Q04]]

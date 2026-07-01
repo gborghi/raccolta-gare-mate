@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f1__Q01
 parent: src_obm_2012_n3_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count vowels in the correct answer to this problem*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta le vocali nella risposta corretta a questo problema*
+
+> Quante vocali ha la risposta corretta a questo problema? Non contare la lettera A né la lettera E delle alternative A) e E).
+> 
+> **A) ** Sei $\quad$ **B) ** Cinque $\quad$ **C) ** Quattro $\quad$ **D) ** Tre $\quad$ **E) ** Due
+
+[[src_obm_2012_n3_f1__Q01]]

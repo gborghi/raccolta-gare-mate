@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo20yq_yosen__Q06
 parent: src_jjmo20yq_yosen
 competition: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three cascading right triangles form pentagon of area 23; find FD*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $2+\sqrt{2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre triangoli rettangolari in cascata formano il pentagono dell'area 23; trovare FD*
+
+> I triangoli rettangolari $ABC$, $ADE$, $EFG$ hanno angoli rettangolari rispettivamente $C$, $E$ e $G$, e sono disposti in modo da condividere vertici come mostrato nella figura seguente (la figura è una piramide in 3D con l'etichetta $B$, $D$ e $F$, $G$). Il pentagono $ABDGE$ ha superficie $23$ e $AB = 8$. Dato che $FD > DG$, trovare la lunghezza $FD$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+![[src_jjmo20yq_yosen__Q06.png]]
+
+**Risposta:** 2+\sqrt{2}
+[[src_jjmo20yq_yosen__Q06]]

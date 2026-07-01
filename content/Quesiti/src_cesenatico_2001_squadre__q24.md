@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2001_squadre__Q24
 parent: src_cesenatico_2001_squadre
 competition: Gara Nazionale a Squadre Cesenatico 2001
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie ordinate di divisori di 385 con m divisore di n*
 
@@ -39,3 +42,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0027
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ordered pairs of 385 divisors with m divisor of n*
+
+> < MSK0/>Schools placed < MSK1/> (15 points)
+> 
+> A monthly pupil was assigned the following year. It must find all ordered pairs of natural numbers $(m, n)$ so that both $m$ and $n$ are divisors of 385 and that $m$ is divisor of $n$. Can you give him a hand and tell him how many?
+> 
+> (NB: 1 and $k$ are considered to be $k$ divisors)
+
+**Answer:** 0027
+[[src_cesenatico_2001_squadre__Q24]]

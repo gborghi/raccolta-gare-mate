@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r3__Q03
 parent: src_pol_1993_r3
 competition: Olimpiade Matematica Polacca 1993 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence via greatest-odd-divisor map; show 800 appears once and find when.*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ozjMAbDlKBC3LLKmoYwAq8Nm_A0MkSaK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza tramite mappa di divisione più probabile; mostra 800 appare una volta e trova quando.*
+
+> Indichiamo $g(k)$ il più grande divisore odd di un intero positivo $k$. Abbiamo impostato $$f(k) = \begin{cases} k/2 + k/g(k) & \text{for } k \text{ even;} \\ 2^{(k+1)/2} & \text{for } k \text{ odd.} \end{cases}$$ e definito la sequenza $x_n$ da $x_1 = 1$ e $x_{n+1} = f(x_n)$ per $n \in \mathbb{N}$. Indicare che il numero $800$ appare nella sequenza esattamente una volta e determinare per quale $n$ $x_n = 800$.
+
+[[src_pol_1993_r3__Q03]]

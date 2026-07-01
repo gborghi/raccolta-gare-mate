@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q15
 parent: src_kangourou_2019_junior_marzo
 competition: Kangourou 2019 Gara marzo Junior (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti modi piastrellare la figura con tessere a L*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many ways to tick the figure with L *
+
+![[src_kangourou_2019_junior_marzo__prob15.png]]
+
+> A 3 x 2 rectangle can be tiled with L tiles like this in the two different ways that we show you on the side. How many different ways can you tick, with tiles of the same type, the figure you see below? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 48
+
+**Answer:** B
+[[src_kangourou_2019_junior_marzo__Q15]]

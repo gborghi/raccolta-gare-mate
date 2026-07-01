@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre_f2__Q02
 parent: src_kangourou_2023_ecolier_squadre_f2
 competition: Kangourou Squadre 2023 Ecolier Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora di rientro a casa con orologio fermo*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1830
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Time to go home with the clock fixed< MSK1/>
+
+> I'm home by now. The only watch I have stopped at 1:00. As soon as I realized it, I put it back on the bike without changing the time and went to a friend's house right away: I got to him at 15:00 (correct time) and left at 17:30 (correct time). Now I'm back home, and my watch (which in the meantime has been running regularly) is at 5:30. The time I spent on the trip is the same as the time I spent on the return. What time (correct) did I get home? (Write the four digits of the hour, without the two dots.)
+
+**Answer:** 1830
+[[src_kangourou_2023_ecolier_squadre_f2__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Gara del pubblico — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_pubblico__Q07
 parent: src_squadre_2023_pubblico
 competition: Gara a Squadre 2023 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo k con 2^k divide max|a(n)-b(n)| sottoinsiemi*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0007
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum k with 2^k divided by the maximum number of subsets < MSK1/>
+
+> Lupin/3 falls in love Lupin/3 is in love with the beautiful Fujit ̄o, a thief who has taken him by answering almost instantly to the following question: how much is the sum mcm(1,8)+mcm(2,8)+...+mcm(136,8)?
+
+**Answer:** 0007
+[[src_squadre_2023_pubblico__Q07]]

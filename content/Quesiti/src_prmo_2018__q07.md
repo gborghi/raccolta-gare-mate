@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q07
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Point P inside regular hexagon at distances 8,8,16 from three consecutive vertices, find integer closest to circumradius*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 14
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto P all'interno dell'esagono regolare a distanze di 8,8,16 da tre vertici consecutivi, trovare il numero intero più vicino al circondario*
+
+> Un punto $P$ all'interno di un esagono regolare si trova a distanze $8, 8, 16$ unità da tre vertici consecutivi dell'esagono, rispettivamente. Se $r$ è il raggio del cerchio circonscritto dell'esagono, quale è il numero intero più vicino a $r$?
+
+**Risposta:** 14
+[[src_prmo_2018__Q07]]

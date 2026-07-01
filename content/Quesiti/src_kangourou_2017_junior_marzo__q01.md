@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q01
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero mancante in piramide di somme*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number missing in the sum pyramid*
+
+![[src_kangourou_2017_junior_marzo__prob1.png]]
+
+> In each of the free cells in the figure a number must be inserted so that each number of the first two rows is the sum of the two numbers below it. What number should be inserted in place of the question mark? A) 15
+> 	
+> B) 16
+> 	
+> C) 17
+> 	
+> D) 18
+> 	
+> E) 19
+
+**Answer:** B
+[[src_kangourou_2017_junior_marzo__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_semifinale_a__Q12
 parent: src_cesenatico_2016_semifinale_a
 competition: Gara a Squadre Cesenatico 2016 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma valori del risultato in criptaritmetica*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3413
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary result values in cryptography*
+
+> Arthur is trying to find the coordinates of the planet Mathratea by deciphering the numbers in an ancient inscription. He managed to discover this sum among numbers written in base 10, written in an ancient system in which each symbol represents a different number (and the numbers cannot start with the number 0): ♥+♦♥+♣♦♥= ♣♥. It is very valuable for deciphering their writing, since there are not many values that can assume the result ♣♥. Calculate the amount you get by dividing by ten the sum of all its possible values.
+
+**Answer:** 3413
+[[src_cesenatico_2016_semifinale_a__Q12]]

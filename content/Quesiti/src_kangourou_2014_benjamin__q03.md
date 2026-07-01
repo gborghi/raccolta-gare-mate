@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Benjamin — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin__Q03
 parent: src_kangourou_2014_benjamin
 competition: Kangourou 2014 marzo Benjamin
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Vista da dietro di due anelli intrecciati*
 
@@ -45,3 +48,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*View from behind two interwoven rings*
+
+![[src_kangourou_2014_benjamin__prob3.png]]
+
+> Peter and Paul are facing each other, separated by a transparent vertical glass on which are affixed two rings, one white and the other gray, tied together. The figure shows you how Peter sees them. How does Paul see them? A) B) C)
+>  	
+> D)
+>    	
+> E)
+
+[[src_kangourou_2014_benjamin__Q03]]

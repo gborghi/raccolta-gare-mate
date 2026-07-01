@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Junior Finale 2 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_squadre_f2__Q11
 parent: src_kangourou_2024_junior_squadre_f2
 competition: Kangourou Squadre 2024 Junior Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo elementi sottoinsieme somme uguali 1..100*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0030
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum subset elements equal to sums of 1.100*
+
+> I want to divide the sum of the first 100 positive integers into two sub-sets so that the two sums of the integers in the two sub-sets coincide and that one of the two has the least number of elements possible. What's this number?
+
+**Answer:** 0030
+[[src_kangourou_2024_junior_squadre_f2__Q11]]

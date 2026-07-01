@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Extra Test) 2003 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-extra-test_2003__Q02
 parent: src_cn_cmc-extra-test_2003
 competition: China Mathematical Competition (Extra Test) 2003
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer-sided triangle with equal fractional parts of powers of 3*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3003
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo a lato intero con parti frazionarie uguali di potenze di 3*
+
+> I tre lati di un triangolo sono numeri interi $l$, $m$, $n$, rispettivamente, soddisfacendo $l > m \ge n$ e $\left\{\frac{3^l}{10^4}\right\} = \left\{\frac{3^m}{10^4}\right\} = \left\{\frac{3^n}{10^4}\right\}$, dove $\{x\} = x - [x]$ e $[x]$ denotano la parte integrale di $x$. Trova il perimetro minimo di un triangolo.
+
+**Risposta:** 3003
+[[src_cn_cmc-extra-test_2003__Q02]]

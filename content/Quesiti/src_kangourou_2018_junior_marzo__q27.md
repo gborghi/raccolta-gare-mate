@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q27
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante affermazioni sulle coccinelle sorde sono vere*
 
@@ -67,3 +70,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many statements about deaf cows are true*
+
+![[src_kangourou_2018_junior_marzo__prob27.png]]
+
+> Four indistinguishable cochineals, some of which may be large, are each in a different grid cell 4 < MSK0/> 4. Whenever a whistle is sounded, all the non-deaf and only deaf cockroaches move into an adjacent cell that is already free at the time of the whistle, without ending up in two in the same cell: they can move up, down, to the right or to the left, but they cannot return to the cell from which they came at the previous whistle. The first figure shows that at the beginning the coccinelle occupies the cells (2,1), (3,1), (3,2) and (4,3). If the second figure shows the result after the third whistle, how many of the following statements can be true? • None of the chicks are deaf (all of the chicks have moved). • Only the first and last coconut are deaf (3.2). • Only the head in the initial and final position is deaf (4,3). • Only the two young ones in the final position (2,2) and (2,4) are deaf. A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 3
+> 	
+> E) 4
+
+**Answer:** C
+[[src_kangourou_2018_junior_marzo__Q27]]

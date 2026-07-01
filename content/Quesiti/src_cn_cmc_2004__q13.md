@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2004 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2004__Q13
 parent: src_cn_cmc_2004
 competition: China Mathematical Competition 2004
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability of crossing first three obstacles in dice game*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+La probabilità di attraversare i primi tre ostacoli nel gioco dei dadi
+
+> La regola di "corso di ostacolo" specifica che all'ostacolo $n$, una persona deve lanciare un dado fino a quando il numero di punti in tali lanci $n$ è maggiore di $2^n$; si dice che la persona abbia attraversato l'ostacolo.
+> 
+> (1) Quanti ostacoli può superare una persona?
+> 
+> (2) Qual è la probabilità che una persona attraverserà i primi tre ostacoli?
+
+[[src_cn_cmc_2004__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1998 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1998__Q05
 parent: src_rmo_1998
 competition: Regional Mathematical Olympiad 1998
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum lcm of twenty natural numbers summing to 801*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15-hOAv0psynRUhAjOfCXMcOkrAiY-0eX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum lcm di venti numeri naturali che sommano 801*
+
+> Trovare il minimo possibile più piccolo comune multiplo (lcm) di venti (non necessariamente distinti) numeri naturali la cui somma è $801$.
+
+[[src_rmo_1998__Q05]]

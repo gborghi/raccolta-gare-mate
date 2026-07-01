@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2014 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2014__Q06
 parent: src_inmo_2014
 competition: Indian National Mathematical Olympiad 2014
@@ -36,6 +37,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all collections F of 2^{n-1} subsets of {1,...,n} closed under symmetric difference bound*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10Z-9bRHrg98_B491eEp9PX2WiyL_iPbr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le collezioni F dei sottogruppi 2^{n-1} di {1,...,n} chiusi sotto il limite di differenza simmetrica*
+
+> $n$ sia un numero naturale e $X = \{1, 2, \ldots, n\}$. Per ogni sottoinsieme $A$ di $X$ definiamo $\Delta A$ come l'insieme di tutti gli elementi di $X$ che appartengono esattamente a uno di $A$ e $B$. Il $\mathcal{F}$ deve essere una raccolta di sottoinsiemi di $X$ in modo tale che per due elementi distinti $A$ e $B$ di $\mathcal{F}$, il set $A \triangle B$ abbia almeno $2^{n-1}$ elementi. Trova tutte queste collezioni $\mathcal{F}$ con elementi $2^{n-1}$.
+
+[[src_inmo_2014__Q06]]

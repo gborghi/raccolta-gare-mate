@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Junior (15 marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_junior__Q29
 parent: src_kangourou_2001_junior
 competition: Kangourou 2001 - Junior (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di piastrellare 2x8 con domino*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Mode of tiles 2x8 with dominoes< MSK1/>
+
+> How many different ways can a rectangular floor of size 2 × 8 be tiled using rectangular tiles of size 1 × 2 (without overlapping)?
+>
+> - **(A)** 16
+> - **(B)** 21
+> - **(C)** 30
+> - **(D)** 32
+> - **(E)** 34.
+
+**Answer:** E
+[[src_kangourou_2001_junior__Q29]]

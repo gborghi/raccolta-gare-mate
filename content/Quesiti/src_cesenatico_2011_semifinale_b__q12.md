@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_b__Q12
 parent: src_cesenatico_2011_semifinale_b
 competition: Gara a Squadre Cesenatico 2011 - Semifinale B
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Convertire 111111111 da base 9 a base 10*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7561
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Convert 111111111 from base 9 to base 10*
+
+> A complex translation The Parabolix druid is one of the few able to read the language of the ancient Gauls. One day, while translating one of their scrolls, he noticed in the original text the number 111111111 (which consisted of nine digits); however, he knew that their numbering system was based on 9. When he completed the translation, what number did he write? (Include the last 4 digits)
+
+**Answer:** 7561
+[[src_cesenatico_2011_semifinale_b__Q12]]

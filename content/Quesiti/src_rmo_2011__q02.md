@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2011 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2011__Q02
 parent: src_rmo_2011
 competition: Regional Mathematical Olympiad 2011
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Permutation of 1..2011; show two indices with equal absolute difference*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11naePAaLu3tt8jkxesNT0s0aRYNpRilH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Permutazione del 1..2011; mostrare due indici con uguale differenza assoluta*
+
+> Let $(a_1, a_2, \ldots, a_{2011})$ essere una permutazione (cioè una riorganizzazione) dei numeri $1, 2, 3, \ldots, 2011$. Indicare che esistono due numeri $j, k$, quali $1 \le j < k \le 2011$ e $|a_j - j| = |a_k - k|$.
+
+[[src_rmo_2011__Q02]]

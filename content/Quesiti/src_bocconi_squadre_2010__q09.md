@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q09
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante pagine numerate ha l'enciclopedia con 2010 cifre «1»*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3171
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many numbered pages does the encyclopedia have with 2010 digits 1*
+
+> To number the pages of an encyclopedia, the figure  1  was printed 2010 times.
+> 
+> How many numbered pages does the encyclopedia have?
+
+**Answer:** 3171
+[[src_bocconi_squadre_2010__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f1__Q04
 parent: src_obm_1999_n1_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Metro line with 12 equally-spaced stations; find total length.*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Linea della metropolitana con 12 stazioni con spazi uguali; trovare la lunghezza totale.*
+
+> In una certa città, la metropolitana ha tutte le sue 12 stazioni in linea retta. La distanza tra due stazioni vicine è sempre la stessa. È noto che la distanza tra la 3° e la 6° stazione è pari a 3.300 metri. Qual è la lunghezza totale di questa linea?
+> 
+> (A) 8,4 km quadrati (B) 12,1 km quadrati (C) 9,9 km quadrati (D) 13,2 km quadrati (E) 9,075 km
+
+**Risposta:** B
+[[src_obm_1999_n1_f1__Q04]]

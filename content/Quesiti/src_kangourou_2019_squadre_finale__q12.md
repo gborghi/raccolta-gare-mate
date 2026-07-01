@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Finale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q12
 parent: src_kangourou_2019_squadre_finale
 competition: Kangourou Coppa squadre 2019 Finale
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minime diagonali per irrigidire reticolo 4x4*
 
@@ -67,3 +70,34 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0007
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum diagonals for irrigation of 4x4 mesh *
+
+![[src_kangourou_2019_squadre_finale__prob12.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.5]
+  \draw[thick] (0,0) -- (1,0) -- (1,1) -- (0,1) -- cycle;
+  \draw[fill=white] (0,0) circle (2pt);
+  \draw[fill=white] (1,0) circle (2pt);
+  \draw[fill=white] (1,1) circle (2pt);
+  \draw[fill=white] (0,1) circle (2pt);
+  \draw[->,thick] (1.3,0.5) -- (1.9,0.5);
+  \draw[thick] (2.2,0) -- (3.2,0) -- (3.7,1) -- (2.7,1) -- cycle;
+  \draw[fill=white] (2.2,0) circle (2pt);
+  \draw[fill=white] (3.2,0) circle (2pt);
+  \draw[fill=white] (3.7,1) circle (2pt);
+  \draw[fill=white] (2.7,1) circle (2pt);
+\end{tikzpicture}
+\end{document}
+```
+
+> The lattice A lattice is an assembly of bars articulated at their junction points. When its threads are square or rectangular the structure is generally not rigid (see figure) without the addition of diagonal bars. How many diagonal bars, at a minimum, must be added to a 4 < MSK0/> 4 square mesh mesh that contains none to make it rigid?
+
+**Answer:** 0007
+[[src_kangourou_2019_squadre_finale__Q12]]

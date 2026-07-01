@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre__Q02
 parent: src_kangourou_2023_kangourou_squadre
 competition: Kangourou Squadre 2023 Kangourou Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Segmento AE in trapezio isoscele con triangolo*
 
@@ -67,3 +70,38 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0070
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ae segment in isosceles trapezoid with triangle *
+
+![[src_kangourou_2023_kangourou_squadre__prob2.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.025]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (220,0);
+  \coordinate (C) at (200,60);
+  \coordinate (D) at (20,60);
+  \coordinate (E) at (70,0);
+  \coordinate (F) at (120,60);
+  \draw (A) -- (B) -- (C) -- (D) -- cycle;
+  \fill[gray!30] (D) -- (E) -- (F) -- cycle;
+  \draw (D) -- (E) -- (F) -- cycle;
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above right] at (C) {$C$};
+  \node[above left] at (D) {$D$};
+  \node[below] at (E) {$E$};
+  \node[above] at (F) {$F$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The ABCD trapezoid in the figure is isosceles; the shaded DEF triangle is also isosceles and its area is one quarter of the trapezoid area. The greater base and the lesser base of the ABCD trapezoid measure 220 and 180 cm respectively. How many centimeters is the AE segment?
+
+**Answer:** 0070
+[[src_kangourou_2023_kangourou_squadre__Q02]]

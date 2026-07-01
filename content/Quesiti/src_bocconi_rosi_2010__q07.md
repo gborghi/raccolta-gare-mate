@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2010 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2010__Q07
 parent: src_bocconi_rosi_2010
 competition: Giochi di Rosi 2010
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero primo che diventa divisibile per 5 invertendo le cifre*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 53 oppure 59
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pwjn1M0F1YSZ60SMZmZPXENHZGd98Xmt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First number that becomes divisible by 5 by reversing the digits*
+
+> **Find a prime number that becomes divisible by $5$ when its two digits are reversed.** (One solution is enough)
+
+**Answer:** 53 oppure 59
+[[src_bocconi_rosi_2010__Q07]]

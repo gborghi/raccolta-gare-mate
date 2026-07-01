@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - semifinale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q06
 parent: src_kangourou_2021_benjamin_semifinale
 competition: Kangourou 2021 Benjamin - semifinale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti minimi per attraversare il ponte tibetano*
 
@@ -54,3 +57,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ZoOsj72QmushXUD5rVHJ0W3fyHvEdq-b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum minutes to cross the Tibetan Bridge*
+
+> (4 points) Anna, Bob, Carla and Doris have to cross a river on a Tibetan bridge, where no more than two people can cross at a time; it is dark and therefore a stack is required for crossing, but they only have one that can accommodate two people and cannot throw it from one side of the river to the other. How many minutes will it take at least to get everyone across if it takes Anna 8 minutes to cross, Bob 7, Carla 5 and Doris 4 and, of course, if two friends cross together, they do it at the slowest speed?
+>   
+> A) 24
+>   
+> B) 27
+>   
+> C) 28 D) 29 E) 32
+
+**Answer:** C
+[[src_kangourou_2021_benjamin_semifinale__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q18
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distribute 10 white and 8 red balls into 5 equal boxes, each box different number of white balls*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Distribuire 10 palle bianche e 8 palle rosse in 5 scatole uguali, ciascuna scatola con un numero diverso di palle bianche
+
+> In quanti modi possiamo distribuire le sfere bianche e le sfere rosse in cinque scatole uguali, in modo tale che ogni scatole abbia almeno una sfera e che ogni scatole abbia un numero diverso di sfere bianche?
+> 
+> (A) $330$ \quad (B) $348$ \quad (C) $512$ \quad (D) $676$ \quad (E) $900$
+
+[[src_obm_2013_n3_f1__Q18]]

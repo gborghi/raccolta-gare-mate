@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q11
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Carte a doppia lettura da stampare per numeri 100–999*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 866
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Dual-reading card to be printed for numbers 100999*
+
+> Fabrizio has to print the cards with the whole numbers from 100 to 999. However, there are certain cards that allow two different numbers to be read simultaneously  as in the case of the figure, with 109 and 601  depending on how they are oriented (the numbers a double reading are 0, 1, 6, 8, 9). In this case, instead of two cards, one is printed.
+> 
+> According to this criterion, how many cards must be printed in total?
+
+![[src_bocconi_squadre_2010__Q11.png]]
+
+**Answer:** 866
+[[src_bocconi_squadre_2010__Q11]]

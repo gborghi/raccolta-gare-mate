@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q05
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Secondi per incontro su circonferenza (maratonda)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1056
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Seconds for meeting on circumference (marathon) < MSK1/>
+
+> Marathon runner Finally Root can get out of the lake of tears, but it's all soup. Captain Liebezout organizes a marathon so that he can dry himself up. He runs around a circle at a constant speed, making one lap every 12 minutes. Root wants to reach it and runs at a constant speed around the perimeter of a regular ABCDE pentagon inscribed in the circumference making a turn every 11 minutes. At the beginning Root starts from A and runs towards B on the pentagon, while Captain Liebezout starts from point L on the minor arc AB such that ˆ LBA = 12° and runs towards A on the circumference. After how many seconds do they meet?
+
+**Answer:** 1056
+[[src_cesenatico_2013_finale__Q05]]

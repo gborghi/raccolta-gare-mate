@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_a__Q14
 parent: src_cesenatico_2006_squadre_semifinale_a
 competition: Gara a Squadre Cesenatico 2006 - Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero colorazioni distinte di tetraedri con 20 colori*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 9690
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of distinct colours of tetrahedra with 20 colours*
+
+> The collector Professor Primon makes a strange collection of dark mathematics artifacts. These are regular tetrahedra that have all colored faces of a single color (different for each face), and colors are chosen from a range of 20 different colors. Professor Primon already owns an item from this collection and buys another one, then he goes home and turns it upside down, turns it on the base, and he realizes that it's actually a duplicate. How many pieces are in total in the collection (two pieces obtained by rotation are to be considered the same)?
+
+**Answer:** 9690
+[[src_cesenatico_2006_squadre_semifinale_a__Q14]]

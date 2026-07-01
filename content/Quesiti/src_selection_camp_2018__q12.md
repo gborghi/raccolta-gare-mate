@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2018__Q12
 parent: src_selection_camp_2018
 competition: Japan IMO Selection Camp 2018 — Selection Camp
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex hexagon with AB=BC; reflections of A,B,C across line l; circumcircles meet at E; BB1 and DE meet on circumcircle*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jASM40MHMk6NMhN2bMvDto4r4rOWEBtP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esagono converso con AB=BC; riflessi di A,B,C attraverso la linea l; circoncircoli si incontrano a E; BB1 e DE si incontrano su circoncircolo*
+
+> Che $ABCC_1B_1A_1$ sia un esagono convexo che soddisfi $AB = BC$. $A_1$, $B_1$, $C_1$ siano rispettivamente i riflessi di $A$, $B$, $C$ su una linea $\ell$. Il $D$ è l'intersezione dei segmenti $AC_1$ e $A_1C$, e il $\omega$ è il circoncircolo del triangolo $ABC$. Supponiamo che $\omega$ e il circoncircolo del triangolo $A_1BC_1$ si incontrino in un punto $E$ diverso da $B$. Provare che la riga $BB_1$ e la riga $DE$ si incontrano su $\omega$.
+
+[[src_selection_camp_2018__Q12]]

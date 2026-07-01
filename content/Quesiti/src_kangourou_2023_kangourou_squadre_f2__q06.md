@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre_f2__Q06
 parent: src_kangourou_2023_kangourou_squadre_f2
 competition: Kangourou Squadre 2023 Kangourou Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo rette per coprire vertici quadretti*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 4046
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum straight lines to cover square vertices*
+
+> On a huge square sheet of square paper, with 2,023 squares per side, you want to draw lines, none parallel to those that delimit the squares, so that all the vertices of the squares that appear on the sheet are covered by at least one straight. What is the smallest number of lines that is sufficient to trace?
+
+**Answer:** 4046
+[[src_kangourou_2023_kangourou_squadre_f2__Q06]]

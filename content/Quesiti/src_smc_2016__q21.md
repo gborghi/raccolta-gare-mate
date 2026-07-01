@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2016 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2016__Q21
 parent: src_smc_2016
 competition: Senior Mathematical Challenge 2016
@@ -35,6 +36,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ten equal discs lie between two concentric circles; each disc touches its two neighbours and both circles; inner circle radius 1. Find the radius of the outer circle.*
 
@@ -54,3 +57,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dieci dischi uguali si trovano tra due cerchi concentrici; ogni disco tocca i suoi due vicini e entrambi i cerchi; raggio del cerchio interno 1. Trova il raggio del cerchio esterno.*
+
+> Il diagramma mostra dieci dischi uguali che si trovano tra due cerchi concentrici  un cerchio interno e un cerchio esterno. Ogni disco tocca due dischi vicini e entrambi i cerchi. Il cerchio interno ha raggio 1. Qual è il raggio del cerchio esterno?
+>
+> - **(A)** $2\tan 36^\circ$
+> - **(B)** $\dfrac{\sin 36^\circ}{1 - \sin 36^\circ}$
+> - **(C)** $\dfrac{1 + \sin 18^\circ}{1 - \sin 18^\circ}$
+> - **(D)** $\dfrac{1}{\cos 18^\circ}$
+> - **(E)** $\dfrac{1}{5}$
+
+![[src_smc_2016__Q21.png]]
+
+**Risposta:** C
+[[src_smc_2016__Q21]]

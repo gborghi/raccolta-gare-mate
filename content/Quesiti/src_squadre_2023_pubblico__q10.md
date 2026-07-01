@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Gara del pubblico — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_pubblico__Q10
 parent: src_squadre_2023_pubblico
 competition: Gara a Squadre 2023 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *AS per dividere triangolo equilatero in 4 aree uguali*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0053
 **Fonte:** [apri PDF p.30](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AS for dividing an equilateral triangle into 4 equal areas*
+
+> Teamwork Lupin/3 has managed to get his hands on the Black Fox's shield where the precious Queen of Africa diamond is housed. The shield is an ABCD square. Jig∈N scrapes the sides of the square, one bullet for each side: A′ on the AB side such that 2AA′ = A′B and, cyclically also B′ on the BC side such that 2BB′ = B′C, similarly C′ and D′. Goemetrikon performs four net cuts along DA′, AB′, BC′ and CD′ thus detaching the central diamond from the rest of the shield. What is the ratio between the diamond area and the initial shield area? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+
+**Answer:** 0053
+[[src_squadre_2023_pubblico__Q10]]

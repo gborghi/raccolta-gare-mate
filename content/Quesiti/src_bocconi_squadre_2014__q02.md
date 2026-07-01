@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2014 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2014__Q02
 parent: src_bocconi_squadre_2014
 competition: Gara a Squadre 2014
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto di numero a due cifre per 99 con terza cifra 5*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4356
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Two-digit number product for 99 with third digit 5*
+
+> A number of two digits equal to each other is multiplied by $99$. What will be the result of multiplication, knowing that it is a four-digit number and that its third digit (from left) is $5$?
+
+**Answer:** 4356
+[[src_bocconi_squadre_2014__Q02]]

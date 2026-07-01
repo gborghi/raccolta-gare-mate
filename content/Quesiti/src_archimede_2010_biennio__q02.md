@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Biennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_biennio__Q02
 parent: src_archimede_2010_biennio
 competition: Giochi di Archimede 2010 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo calzini per due dello stesso colore*
 
@@ -48,3 +51,20 @@ tags:
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 **Anche in triennio:** [apri PDF p.5](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum socks for two of the same colour< MSK1/>
+
+> Emilio takes the socks out of a basket in the dark with six black socks, 14 blue socks and eight green socks. To make sure that among the socks you picked up there are two of the same color, the minimum number of socks you need to pick up is:
+>
+> - **(A)** 3,
+> - **(B)** 4,
+> - **(C)** 9,
+> - **(D)** 15,
+> - **(E)** 21.
+
+**Answer:** B
+[[src_archimede_2010_biennio__Q02]]

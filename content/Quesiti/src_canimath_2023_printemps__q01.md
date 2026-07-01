@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2023 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2023_printemps__Q01
 parent: src_canimath_2023_printemps
 competition: Coupe Animath Printemps 2023
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute the value of 4^8/8^4.*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolare il valore di 4^8/8^4.*
+
+> Calcolare il numero $$\frac{4^8}{8^4}.$$
+> 
+> *Solo una risposta numerica è prevista qui.*
+
+**Risposta:** 16
+[[src_canimath_2023_printemps__Q01]]

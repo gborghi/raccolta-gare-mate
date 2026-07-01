@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n1_f1__Q09
 parent: src_obm_2008_n1_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two equal trapezoids joined to form a square with inner square hole; find area*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jS9AjIezsp0MUxDiEgVpS7k3MJ9uT3_v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due trapezzi uguali uniti per formare un quadrato con buco quadrato interno; trovare area*
+
+> Unendo due trapeziodi uguali con basi $30\,\text{cm}$ e $50\,\text{cm}$, fianco a fianco, possiamo formare un quadrato di superficie $2500\,\text{cm}^2$, con un buco quadrato al centro. Qual è l'area di ciascun trapezoide, in < MSK3/>?
+> 
+> A) 200 $\quad$ B) 250 $\quad$ C) 300 $\quad$ D) 350 $\quad$ E) 400
+
+![[src_obm_2008_n1_f1__Q09.png]]
+
+**Risposta:** C
+[[src_obm_2008_n1_f1__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_preecolier_marzo__Q05
 parent: src_kangourou_2016_preecolier_marzo
 competition: Kangourou 2016 Pre-Écolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale punto Gianni puo raggiungere nel labirinto*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What point Gianni can reach in the maze
+
+> In the figure, you see a maze. Gianni is in O. From there it can only reach one of the points A, B, C, D or E. What kind? (see figure)
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
+
+**Answer:** C
+[[src_kangourou_2016_preecolier_marzo__Q05]]

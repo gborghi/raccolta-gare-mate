@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q08
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del pentagono triangolo+quadrato isoperimetrici*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of the triangle pentagon + square isoperimetric *
+
+![[src_kangourou_2008_benjamin_marzo__prob8.png]]
+
+> The triangle and the square in the figure have the same perimeter. What is the perimeter of the whole figure (i.e. the pentagon)? A) 12 cm B) 24 cm C) 28 cm D) 32 cm E) Depends on the angles of the triangle.
+
+**Answer:** B
+[[src_kangourou_2008_benjamin_marzo__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale nazionale Junior — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q02
 parent: src_kangourou_2019_junior_finale
 competition: Kangourou 2019 Finale nazionale Junior
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area superficie totale del tetraedro*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0076
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total area of the tetrahedron*
+
+> year N + 1: in the following 4 years days are added according to the scheme: 2+1+1+1,
+
+**Answer:** 0076
+[[src_kangourou_2019_junior_finale__Q02]]

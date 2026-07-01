@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre semifinale turno A — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q11
 parent: src_kangourou_2012_squadre_semifinale
 competition: Kangourou 2012 squadre semifinale turno A
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti euro ha speso Carlo (media amici 82)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 154
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How much did Carlo spend (average friends 82)
+
+> Shopping Carlo and eight of his friends bought some items. Charles' friends spent an average of 82 euros each; Charles spent an average of 64 euros more than Charles and his eight friends. How much did Carlo spend?
+
+**Answer:** 154
+[[src_kangourou_2012_squadre_semifinale__Q11]]

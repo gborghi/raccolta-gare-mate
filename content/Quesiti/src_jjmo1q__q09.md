@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2003 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo1q__Q09
 parent: src_jjmo1q
 competition: Japan Junior Mathematical Olympiad 2003
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 4-tuples of positive integers satisfying two symmetric equations*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare 4 tupli di integri positivi che soddisfano due equazioni simmetriche*
+
+> Trova il numero di 4 tupli $(a, b, c, d)$ di numeri interi positivi che soddisfano il sistema: $$\begin{cases} a + b = cd \\ c + d = ab \end{cases}$$
+
+[[src_jjmo1q__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q22
 parent: src_kangourou_2021_preecolier_koala
 competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di vassoi di biscotti per il piatto*
 
@@ -43,3 +46,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of cookie trays for the dish< MSK1/>
+
+![[src_kangourou_2021_preecolier_koala__prob22.png]]
+
+> Each participant in a cooking contest prepared a cookie tray like the one shown. What's the minimum number of cookie trays to make the dish below?
+>
+> - **(A)** 5
+> - **(B)** 1
+> - **(C)** 3
+> - **(D)** 2
+> - **(E)** 4 (see figure)
+
+**Answer:** C
+[[src_kangourou_2021_preecolier_koala__Q22]]

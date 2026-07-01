@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f2__Q05
 parent: src_obm_2006_n2_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of three terms of sequence after 2006 steps starting from (1,1,1)*
 
@@ -51,3 +54,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di tre termini di sequenza dopo i passaggi del 2006 a partire da (1,1,1) *
+
+> Partendo da un triplo ordinato $(a, b, c)$, si ottiene una sequenza di triplice mediante successive trasformazioni del tipo: $$(a, b, c) \to (a^2 - b,\; a + b + c,\; b - c).$$ Ad esempio, partendo dal triplo $(1, 2, 3)$: $(1, 2, 3) \to (1-2,\; 1+2+3,\; 2-3) = (-1, 6, -1) \to (-64, 12, 7) \to \cdots$ Se iniziamo con $(1, 1, 1)$ come il primo triplo ordinato di una sequenza, quale sarà la somma dei tre termini del triplo che occupa la posizione 2006 in questa sequenza?
+
+[[src_obm_2006_n2_f2__Q05]]

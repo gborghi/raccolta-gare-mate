@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_ecolier__Q01
 parent: src_kangourou_2002_ecolier
 competition: Kangourou 2002 - Ecolier (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tassello rimosso dalla figura Kangourou*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Table removed from figure Kangourou*
+
+![[src_kangourou_2002_ecolier__prob1.png]]
+
+> Which of the square brackets shown below has been removed from the large figure on the right representing a kangaroo?
+
+**Answer:** B
+[[src_kangourou_2002_ecolier__Q01]]

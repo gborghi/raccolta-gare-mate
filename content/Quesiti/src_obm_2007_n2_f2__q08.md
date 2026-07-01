@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f2__Q08
 parent: src_obm_2007_n2_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count divisors of 23^5-23 and prove n^3-n is always a multiple of 30.*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 192
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i divisori di 23^5-23 e provare che n^3-n è sempre un multiple di 30. *
+
+> (Parte B, problema 3.) a) Let < MSK0/>. Determinare il numero di divisori positivi di $N$ (che è $6\times2\times2\times2\times2=192$). b) Let < MSK3/>. Mostra che $N$ è sempre un multiple di $30$. (Tra i tre numeri interi consecutivi $n-1,n,n+1$ uno è pari e uno è un multiple di $3$; se nessuno è un multiple di $5$ allora $n\equiv2$ o $3\pmod5$, e $n^2+1$ è un multiple di $5$, quindi $n^3-n$ è un multiple di $5$. Quindi $N$ è un multiple di $2\cdot3\cdot5=30$.) [Fonte è la scheda delle soluzioni; dichiarazione ricostruita dalla soluzione. Parte-a OCR ha perso un fattore primo; il numero di divisori 192 implica $N=2^5\cdot3\cdot5\cdot11\cdot23\cdot53$.]
+
+**Risposta:** 192
+[[src_obm_2007_n2_f2__Q08]]

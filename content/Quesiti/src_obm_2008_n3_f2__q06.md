@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f2__Q06
 parent: src_obm_2008_n3_f2
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers m, n with m²+161=3^n*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli integri positivi m, n con m2+161=3^n*
+
+> Determinare tutti gli integri positivi $m$ e $n$ in modo tale che $$m^2 + 161 = 3^n.$$
+
+[[src_obm_2008_n3_f2__Q06]]

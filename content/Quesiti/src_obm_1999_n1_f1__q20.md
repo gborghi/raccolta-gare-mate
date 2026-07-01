@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f1__Q20
 parent: src_obm_1999_n1_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers whose last digit equals the number of digits of the number.*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri interi positivi la cui ultima cifra è uguale al numero di cifre del numero.*
+
+> Sai che ci sono 9 numeri a un solo cifra, 90 numeri a due cifre, 900 numeri a tre cifre, e così via. Considerate ogni numero intero positivo la cui ultima cifra è uguale al numero di numeri di quel numero intero. Ad esempio, 9\,074 è uno di loro, dal momento che la sua ultima cifra è 4 e ha 4 cifre. Quanti tali numeri esistono?
+> 
+> (A) 99\,999\,999 \quad (B) 99\,999\,992 \quad (C) 100\,000\,000 \quad (D) 10\,000\,000 \quad (E) 1\,000\,000\,000
+
+**Risposta:** C
+[[src_obm_1999_n1_f1__Q20]]

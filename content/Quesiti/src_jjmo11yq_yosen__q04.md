@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo11yq_yosen__Q04
 parent: src_jjmo11yq_yosen
 competition: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count markings of star points with two marked per line*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KqvofIIXgEWPDHUAZMRGkscvso3ZVrK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio di segni di punti stellari con due segni per linea*
+
+> Come mostrato di seguito, i punti $10$ sono disposti e tra loro $5$ sono contrassegnati punti reciprocamente distinti. Per quanto riguarda le linee rette $5$, ciascuna che attraversa $4$ di questi punti $10$ (le linee in realtà disegnate come linee solide nella figura), si è scoperto che, per ciascuna linea, il numero di punti segnati tra i punti $4$ che si trovano su di essa era esattamente $2$. In totale, quante sono queste modalità di marcatura? Si noti che anche i segni che coincidono sotto rotazione o riflessione sono considerati come distinti.
+
+![[src_jjmo11yq_yosen__Q04.png]]
+
+**Risposta:** 12
+[[src_jjmo11yq_yosen__Q04]]

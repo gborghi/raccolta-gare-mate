@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_ecolier__Q22
 parent: src_kangourou_2001_ecolier
 competition: Kangourou 2001 - Ecolier (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quando si spengono tutte le candele*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>When all the candles are off< MSK1/>
+
+> Zita has four candles. Each candle can stay lit for three hours before it goes out. Light two of the candles. After 30 minutes, a blast of wind turns off one, and an hour later, another blast of wind turns off the other. Zita then decides to light all four candles. How long after all the candles are off, if no wind blows?
+>
+> - **(A)** An hour and a half.
+> - **(B)** Two hours
+> - **(C)** three hours
+> - **(D)** Seven and a half hours
+> - **(E)** Eight hours.
+
+**Answer:** C
+[[src_kangourou_2001_ecolier__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q04
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo biscotti mangiati da Daniela*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum cookies eaten by Daniela< MSK1/>
+
+> Six children ate a total of 20 cookies together. Andrea ate one, Beatrice two and Charles three. Daniela ate more cookies than any of the other kids. What's the smallest number of cookies Daniela could have eaten?
+>  
+> A. 3 B. 4 C. 5 D. 6 E. 7
+
+**Answer:** D
+[[src_kangourou_2002_junior__Q04]]

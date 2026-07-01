@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2022 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2022__Q13
 parent: src_smc_2022
 competition: Senior Mathematical Challenge 2022
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three rugs (combined area 90 m^2) cover a 60 m^2 floor; exactly two layers cover 12 m^2; find the area covered by exactly three layers.*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre tappeti (area combinata 90 m^2) coprono un pavimento di 60 m^2; esattamente due strati coprono 12 m^2; trovate l'area coperta da esattamente tre strati.*
+
+> Tre tappeti hanno una superficie combinata di < MSK0/>. Quando sono disposti per coprire completamente un pavimento di superficie $60\text{ m}^2$, l'area coperta da esattamente due strati di tappeto è $12\text{ m}^2$. Qual è l'area del pavimento coperta da esattamente tre strati di tappeto?
+>
+> - **(A)** $2\text{ m}^2$
+> - **(B)** $6\text{ m}^2$
+> - **(C)** $9\text{ m}^2$
+> - **(D)** $10\text{ m}^2$
+> - **(E)** $12\text{ m}^2$
+
+**Risposta:** C
+[[src_smc_2022__Q13]]

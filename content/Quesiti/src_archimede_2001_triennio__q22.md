@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Triennio — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_triennio__Q22
 parent: src_archimede_2001_triennio
 competition: Giochi di Archimede 2001 - Triennio
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo mele divisibili tra 3, 4 e a meta dopo -2*
 
@@ -47,3 +50,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum apples divisible by 3, 4 and 1/2 after -2< MSK1/>
+
+> Three friends are dividing an apple basket into equal parts and they realize they can do it without cutting the apples. A fourth friend arrives and they decide to divide again, always in equal parts and they manage to do it again without cutting the apples. One of the four goes home and eats two apples along the way. When he gets home, he realizes that he can split the remaining apples in half with his girlfriend without cutting them. How many original apples could there be at least?
+>
+> - **(A)** 12
+> - **(B)** 16
+> - **(C)** 24
+> - **(D)** 36
+> - **(E)** 50.
+
+[[src_archimede_2001_triennio__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q14
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *minimo centrali elettriche*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>minimum power plants< MSK1/>
+
+![[src_kangourou_2022_student__prob14.png]]
+
+> The diagram represents a territory with 16 cities and the roads connecting them. The government wants to build power plants in some of the cities. Each of these power stations can provide enough energy for itself and for the cities connected to it from a single stretch of road. What is the minimum number of power plants that is sufficient to build? A) 3 B) 4
+> 
+> The following information is provided:
+
+**Answer:** B
+[[src_kangourou_2022_student__Q14]]

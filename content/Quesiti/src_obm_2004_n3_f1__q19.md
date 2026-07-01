@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q19
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum number of 0.8m cubes stacked in a corner that a 1.80m person outside can see through a glass door.*
 
@@ -56,3 +59,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero massimo di 0,8 m di cubetti impilati in un angolo che una persona di 1,80 m di distanza può vedere attraverso una porta di vetro.*
+
+> In un negozio, una persona ha impilato diversi blocchi di $0{,}8\text{ m}\times 0{,}8\text{ m}\times 0{,}8\text{ m}$ nell'angolo del negozio, incostati (inclinati) contro una parete di vetro che passa dalla porta, come mostrato nella figura di seguito. Al massimo quanti blocchi può vedere una persona di $1{,}80\text{ m}$ di altezza, che si trova fuori dal negozio?
+> 
+> Nota: Riteniamo che una persona possa vedere una scatola se c'è almeno una piccola regione di area positiva della sua superficie (visibile).
+> 
+> (A) 13 (B) 14 (C) 15 (D) 16 (E) 17
+
+![[src_obm_2004_n3_f1__Q19.png]]
+
+[[src_obm_2004_n3_f1__Q19]]

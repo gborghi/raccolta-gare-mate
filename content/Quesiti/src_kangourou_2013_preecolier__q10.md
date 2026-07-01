@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Pre-Ecolier — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_preecolier__Q10
 parent: src_kangourou_2013_preecolier
 competition: Kangourou 2013 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso di un gatto se Giorgio pesa 30 kg*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ykejBpK7Wiwv-x_5BvjdytAue5Y_N6nU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Weight of a cat if George weighs 30 kg
+
+![[src_kangourou_2013_preecolier__prob10.png]]
+
+> Look at the figure. George has two cats of the same weight. What's the weight of a cat if we know George weighs 30 pounds? A) 1 kg B) 2 kg C) 3 kg D) 4 kg E) 5 kg
+
+**Answer:** C
+[[src_kangourou_2013_preecolier__Q10]]

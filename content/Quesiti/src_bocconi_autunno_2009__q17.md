@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2009 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2009__Q17
 parent: src_bocconi_autunno_2009
 competition: Giochi d'Autunno 2009
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato massimo del quadrato intagliato in cartone*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $1 + \sqrt{2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum side of the square carved in cardboard*
+
+> In a side square < MSK0/>, a side square < MSK1/> has been carved (as you can see in the figure). In the remaining piece of cardboard, a quarter of the circumference is plotted with the center at point A. What is the maximum value of $x$ for construction to be possible (the entire quarter of the circumference is in the remaining piece of cardboard)? $1{,}414$ may be replaced by $\sqrt{2}$.
+
+![[src_bocconi_autunno_2009__Q17.png]]
+
+**Answer:** $1 + \sqrt{2}$
+[[src_bocconi_autunno_2009__Q17]]

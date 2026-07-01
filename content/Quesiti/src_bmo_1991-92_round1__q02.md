@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1991-92 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1991-92_round1__Q02
 parent: src_bmo_1991-92_round1
 competition: British Mathematical Olympiad 1991-92 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pentagon ABCDE inscribed in circle with parallel sides: must it be regular?*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qqoRPhq2Mj2agmbGrWyLkoFFksv9tAll/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCDE pentagono inciso in cerchio con lati paralleli: deve essere regolare?*
+
+> Che il $ABCDE$ sia un pentagono inscritto in un cerchio. Supponiamo che $AC, BD, CE, DA$ e $EB$ siano parallele rispettivamente a $DE, EA, AB, BC$ e $CD$. Ne consegue che il pentagono deve essere regolare? Giustifica la tua richiesta.
+
+[[src_bmo_1991-92_round1__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Cadet (20 marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet__Q11
 parent: src_kangourou_2003_cadet
 competition: Kangourou 2003 Cadet (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trasformazioni della lettera Y (rotazioni/ribaltamenti)*
 
@@ -59,3 +62,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eygrPRLv8IqHr90bPrLsox-FA6V93kRL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Transformations of the letter Y (rotations/turns) *
+
+> There's a clear square sheet of paper on the table. It's marked with the letter Y. We rotate the sheet 900 clockwise, then we flip it along the left side of the sheet, and finally we rotate it 1800 clockwise. What figure do we see? A) B) C) D) E) a b x c d e Y Y Y y Y
+> 
+> I'm going to pay. I'm going to pay. 18 18 Kang 2003 Kang
+
+**Answer:** A
+[[src_kangourou_2003_cadet__Q11]]

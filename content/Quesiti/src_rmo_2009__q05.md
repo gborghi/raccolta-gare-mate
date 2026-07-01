@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2009 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2009__Q05
 parent: src_rmo_2009
 competition: Regional Mathematical Olympiad 2009
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex polygon Γ with diameter ≤1: boundary distance and interior midpoint on boundary*
 
@@ -47,3 +50,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1et9IO1xuP1ryseoogrNkDB_LaxO70ZCd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Poligono converso Γ con diametro ≤1: distanza di confine e punto medio interno sul confine*
+
+> Un poligono converso $\Gamma$ è tale che la distanza tra due vertici di $\Gamma$ non superi $1$.
+> 
+> (i) dimostrare che la distanza tra due punti del confine di $\Gamma$ non supera $1$.
+> 
+> (ii) Se $X$ e $Y$ sono due punti distinti all'interno di $\Gamma$, dimostrare che esiste un punto $Z$ sul confine di $\Gamma$ tale che $XZ + YZ \le 1$.
+
+![[src_rmo_2009__Q05.png]]
+
+[[src_rmo_2009__Q05]]

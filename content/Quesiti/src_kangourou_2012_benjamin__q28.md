@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q28
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma delle aree dei due rettangoli grigi dopo le piegature*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the areas of the two grey rectangles after folding*
+
+![[src_kangourou_2012_benjamin__prob28.png]]
+
+> An 8 cm square sheet of paper was folded twice as shown in the figure. What is the sum of the areas of the two rectangles highlighted in gray in square centimetres? A) 10 B) 14 C) 15 D) 16 E) 24
+
+**Answer:** D
+[[src_kangourou_2012_benjamin__Q28]]

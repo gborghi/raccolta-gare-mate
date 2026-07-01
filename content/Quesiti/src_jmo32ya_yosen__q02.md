@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo32ya_yosen__Q02
 parent: src_jmo32ya_yosen
 competition: Japan Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of trapezoid with inscribed circle, given two lateral sides*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 45
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Area di trapezzo con cerchio inciso, data due lati laterali< MSK1/>
+
+> Il trapezoide $ABCD$ ha $AD \parallel BC$, con angoli acuti a $B$ e $C$. Ha un cerchio di raggio $3$. Date $AB = 7$ e $CD = 8$, si trova l'area del trapezoide $ABCD$.
+
+**Risposta:** 45
+[[src_jmo32ya_yosen__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2021 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2021__Q05
 parent: src_cn_cmo_2021
 competition: China Mathematical Olympiad 2021
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Construct sqrt(2021) with ruler and compass using at most 10 circles/lines*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Construire sqrt(2021) con regola e bussola utilizzando al massimo 10 cerchi/linee*
+
+> È noto che ci sono solo due tipi di oggetti geometrici unidimensionali, cerchi e linee, che appaiono nella costruzione di regola e bussola. Due punti devono essere contrassegnati su una carta con una distanza di $1$. Prove che una linea e due punti su questa linea con una distanza di $\sqrt{2021}$ possono essere disegnati sulla carta con regola e bussola, in modo che il numero totale di diversi cerchi e linee che appaiono nel processo di disegna non superi $10$.
+
+[[src_cn_cmo_2021__Q05]]

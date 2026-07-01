@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2009 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2009__Q05
 parent: src_cn_cmc_2009
 competition: China Mathematical Competition 2009
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum of |OP|*|OQ| for perpendicular radii on an ellipse*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $\dfrac{\sqrt{2}\,a^2 b^2}{a^2+b^2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+MSK0/>Minimum di ∆OP di * di <OQ di di <OQ di di perpendicolare radii su un'ellisse*
+
+> Se si considerano i punti $P$, $Q$ su un'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ ($a > b > 0$) che soddisfano $OP \perp OQ$, il valore minimo di $|OP| \times |OQ|$ è \_\_\_\__.
+
+**Risposta:** \dfrac{\sqrt{2}\,a^2 b^2}{a^2+b^2}
+[[src_cn_cmc_2009__Q05]]

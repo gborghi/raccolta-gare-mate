@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier semifinale individuale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_semifinale__Q06
 parent: src_kangourou_2022_ecolier_semifinale
 competition: Kangourou 2022 Ecolier semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sacchetto nello stesso gruppo di quello da 6 biglie*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Bacquet in the same group as the 6-package bag< MSK1/>
+
+> (4 points) Roberto has nine bags containing 1, 2, 3, 4, 5, 6, 9, 13, 17 bags respectively. He wants to collect the bags in groups of three so that in each of the three resulting groups there is the same number of bags. Which of the following bags must be placed in the same group as the six-pack? A) The two-piece.
+>  
+> B) The three-piece. C) The four-piece. D) The nine-beaded one.
+>  
+> E) The one with the 13 bucks.
+
+**Answer:** D
+[[src_kangourou_2022_ecolier_semifinale__Q06]]

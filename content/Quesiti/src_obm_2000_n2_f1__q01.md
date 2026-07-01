@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f1__Q01
 parent: src_obm_2000_n2_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers less than 1,000,000 whose perfect cube ends in digit 1*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare numeri interi positivi inferiori a 1.000.000 il cui cubo perfetto termina con la cifra 1*
+
+> Quanti integri positivi inferiori a $1{,}000{,}000$ esistono i cui cubetti perfetti finiscono in $1$?
+> 
+> A) $1{,}000$ \quad B) $10{,}000$ \quad C) $50{,}000$ \quad D) $100{,}000$ \quad E) $500{,}000$
+
+**Risposta:** D
+[[src_obm_2000_n2_f1__Q01]]

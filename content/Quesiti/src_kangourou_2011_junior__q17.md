@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Junior (gara marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_junior__Q17
 parent: src_kangourou_2011_junior
 competition: Kangourou 2011 Junior (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max interi consecutivi di tre cifre con almeno una cifra dispari*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1AJCl_AfEoFXnuVsI8nXmEWfRHRXKCZ3O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Max consecutive three digit integers with at least one odd digit*
+
+> What is the greatest number of consecutive three-digit integers that have at least one odd digit? A) 121 B) 111 C) 110 D) 100 E) 99
+
+**Answer:** B
+[[src_kangourou_2011_junior__Q17]]

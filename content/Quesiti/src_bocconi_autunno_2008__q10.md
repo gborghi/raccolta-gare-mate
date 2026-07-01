@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2008 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2008__Q10
 parent: src_bocconi_autunno_2008
 competition: Giochi d'Autunno 2008
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lati totali di due poligoni con 25 diagonali in comune*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 13 lati
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total sides of two polygons with 25 diagonal points in common*
+
+> Two polygons (without points in common) have a total of 25 diagonals. How many sides do they have in total?
+
+**Answer:** 13 lati
+[[src_bocconi_autunno_2008__Q10]]

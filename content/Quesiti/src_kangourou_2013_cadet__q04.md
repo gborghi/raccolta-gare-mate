@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q04
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Candele ancora accese dopo 55 minuti*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Candle still lit after 55 minutes< MSK1/>
+
+> Alexander lights a candle every ten minutes. Every candle burns for 40 minutes and then it goes out. How many candles are still lit 55 minutes after Alexander lit the first candle? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** C
+[[src_kangourou_2013_cadet__Q04]]

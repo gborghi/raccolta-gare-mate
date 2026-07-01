@@ -1,6 +1,7 @@
 ---
 title: Japan EGMO Selection / Girls MO 2025 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jegmo14q__Q04
 parent: src_jegmo14q
 competition: Japan EGMO Selection / Girls MO 2025
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum stones left in box 1 after stone-moving operations*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16-NqAuK58hCzJs_f8zhLcVk4UkEgeo1H/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Minimum di pietre lasciate nella casella 1 dopo le operazioni di spostamento delle pietre< MSK1/>
+
+> Ci sono caselle $2025$ numerate $1, 2, \ldots, 2025$ e per ogni numero intero $i$ con $1 \le i \le 2025$, la casella $i$ contiene inizialmente le pietre $2^{i-1}$. Si ripete la seguente operazione.
+> 
+> Selezionare un intero $n \ge 2$ e un intero $a_1, a_2, \ldots, a_n$ che soddisfi $1 \le a_1 < a_2 < \cdots < a_n \le 2025$ in modo tale che per ogni intero $i$ con $2 \le i \le n$, la casella $a_i$ contenga almeno una pietra. Mettere la pietra $1$ nella casella $a_1$ e togliere una pietra dalla casella $a_i$ per ogni numero intero $i$ con $2 \le i \le n$.
+> 
+> Quando si raggiunge lo stato in cui nessuna casella diversa dalla casella $1$ contiene pietre, l'operazione viene interrotta. Trova il valore minimo possibile del numero di pietre nella casella $1$ quando l'operazione è terminata.
+
+[[src_jegmo14q__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q02
 parent: src_kangourou_2018_cadet_semifinale
 competition: Kangourou 2018 Cadet - Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prima cifra del piu piccolo numero moderno*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kVLsfgriHzHWeJPk7c69FlUrtxeTTMzS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First digit of the smallest modern number *
+
+> (Points 3) A positive integer is said to be modern if the sum of its digits is 2018. What is the first digit of the smallest modern number? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 9
+
+**Answer:** B
+[[src_kangourou_2018_cadet_semifinale__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_benjamin__Q10
 parent: src_kangourou_2002_benjamin
 competition: Kangourou 2002 - Benjamin (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Biglie nella terza scatola*
 
@@ -51,3 +54,23 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Bags in the third box< MSK1/>
+
+> They want to divide 49 balls into three boxes so that the first box contains half the balls of the second and the second half the balls of the third. How many balls will the third box have to hold?
+>  
+> A. 16 B. 17 C. 7     D. 14 E. 28
+>  
+>  
+>  
+>  
+>  
+> 
+> I'm not going to lie to you. This item is not intended to be used. 3 Questions from N. 11 al N. Twenty is worth four points.
+
+**Answer:** E
+[[src_kangourou_2002_benjamin__Q10]]

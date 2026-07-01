@@ -1,6 +1,7 @@
 ---
 title: IMO 2011 (LII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2011__Q05
 parent: src_imho_2011
 competition: IMO 2011 (LII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Divisibility property of f(m)-f(n) by f(m-n) for positive integer function*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AgPUw9EsnOZUa380gcARqgMoP3LAb6KQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Divisibility property of f(m) -f(n) by f(m-n) for positive integer function*
+
+> Let $f$ be a function from the set of integers to the set of positive integers. Suppose that, for any two integers $m$ and $n$, the difference $f(m) - f(n)$ is divisible by $f(m-n)$. Prove that, for all integers $m$ and $n$ with $f(m) \le f(n)$, the number $f(n)$ is divisible by $f(m)$.
+
+[[src_imho_2011__Q05]]

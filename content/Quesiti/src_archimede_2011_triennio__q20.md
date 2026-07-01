@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Triennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_triennio__Q20
 parent: src_archimede_2011_triennio
 competition: Giochi di Archimede 2011 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio cerchio inscritto in quadrilatero con diagonali ortogonali*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Ramage of a circle inscribed in a quadrilateral with orthogonal diagonals< MSK1/>
+
+> In the quadrilateral ABCD the diagonals are orthogonal to each other and the angles in B and D are straight. In addition, AB = AD = 20 cm, BC = CD = 30 cm. Calculate the radius of circumference recorded in the ABCD.
+>
+> - **(A)** 15 cm,
+> - **(B)** 5 √ 13 cm,
+> - **(C)** 10 cm,
+> - **(D)** 6 √ 5 cm,
+> - **(E)** 12 cm.
+
+**Answer:** E
+[[src_archimede_2011_triennio__Q20]]

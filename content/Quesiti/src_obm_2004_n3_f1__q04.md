@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q04
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of divisors of the sum of the six three-digit numbers formed from three distinct nonzero digits.*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di divisori della somma dei sei numeri a tre cifre formati da tre cifre distinte non a zero.*
+
+> Esmeralda, molto attento, prese tre cifre distinte (non zero) $a$, $b$ e $c$ e, con loro, è possibile formare 6 numeri a tre cifre distinte, tutte con cifre distinte. Quanti sono i divisori della somma di questi 6 numeri?
+> 
+> (A) 4 (B) 6 (C) 10 (D) 15 (E) Più di quattro
+
+[[src_obm_2004_n3_f1__Q04]]

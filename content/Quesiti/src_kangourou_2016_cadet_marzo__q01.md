@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q01
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti interi tra -20,16 e 3,17*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Integres between -20,16 and 3,17< MSK1/>
+
+> How many integers are there between −20.16 and 3.17? A) 16 B) 17 C) 20 D) 23 E) 24
+
+**Answer:** E
+[[src_kangourou_2016_cadet_marzo__Q01]]

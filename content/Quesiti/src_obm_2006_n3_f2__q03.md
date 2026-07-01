@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f2__Q03
 parent: src_obm_2006_n3_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two runners on circular track, find track length from two crossings*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1opr1KnCz4sXqFTqwDJVnexLXTOtfy7Cz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due corridori su pista circolare, trovano la lunghezza della pista da due attraversamenti*
+
+> Esmeralda e Jade corrono in direzioni opposte su una pista circolare, partendo da punti diametralmente opposti. Il primo incrocio tra loro si verifica dopo che Esmeralda ha corso 200 metri. Il secondo attraversamento avviene dopo che Jade ha corso 350 metri dal primo punto di attraversamento. Le velocità delle ragazze sono costanti. Qual è la lunghezza della pista, in metri?
+
+[[src_obm_2006_n3_f2__Q03]]

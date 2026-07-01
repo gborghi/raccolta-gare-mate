@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2026 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2026__Q02
 parent: src_oprem_2026
 competition: Olympiades Nationales de Mathématiques (Première) 2026
@@ -29,6 +30,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exercise 1, Q2: age trick, person can make himself younger*
 
@@ -41,3 +44,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LLPTi5ufMEDVFp1I29WzXWLiM0F8_rKH/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Esercizio 1, Q2: trucco dell'età, la persona può diventare più giovane< MSK1/>
+
+> Esercizio 1 (tutti i candidati) - Ritorno al futuro. Tuo zio ha $54$ anni. Con un trucco si fece $9$ anni più giovane. Più in generale, si consideri una persona di età < MSK2/> anni, con < MSK3/> e < MSK4/>. (a) Con quante anni, al massimo, questa persona malvagia può rendersi più giovane con la procedura descritta? b) Può questa persona diventare più giovane di esattamente < MSK5/> anni?
+
+[[src_oprem_2026__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_febb29_2livello__Q10
 parent: src_archimede_2012_febb29_2livello
 competition: Archimede Gara Febbraio 2012 (29 feb) - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio parole chiave con vincoli su caratteri E N V*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting keywords with character restrictions E N V*
+
+> To enter Burian Castle you must use a keyword that consists of at least 6 characters; furthermore, a character can never be repeated two or more times consecutively, and a pair of consecutive characters cannot appear at another point in the keyword. On the keyboard now only the letters E, N and V work: how many different keywords can you try?
+>
+> - **(A)** 6
+> - **(B)** 18
+> - **(C)** 62
+> - **(D)** 26
+> - **(E)** I'm not going to end it.
+
+**Answer:** C
+[[src_archimede_2012_febb29_2livello__Q10]]

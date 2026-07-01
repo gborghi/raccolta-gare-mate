@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q25
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -40,6 +41,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest subset of {1..25} with no two elements whose product is a perfect square*
 
@@ -54,3 +57,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sottoinsieme più grande di {1..25} senza due elementi il cui prodotto è un quadrato perfetto*
+
+> Quanti elementi hanno il più grande sottoinsieme di $\{1, 2, 3, \ldots, 25\}$ che non contiene due numeri distinti il cui prodotto è un quadrato perfetto?
+> 
+> A) 15 \quad B) 16 \quad C) 17 \quad D) 18 \quad E) 19
+
+[[src_obm_2012_n2_f1__Q25]]

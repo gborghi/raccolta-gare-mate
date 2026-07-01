@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2022 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_automne__Q13
 parent: src_canimath_2022_automne
 competition: Coupe Animath Automne 2022
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trapezoid ABCD; midpoints E, F; parallel through E meets CD; right angle and ratio*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hAlr5oS_VPXWtAhgZvHeNt9W7CHb_zHz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD trapezoide; punti intermedi E, F; parallelo attraverso E incontra CD; angolo retto e rapporto*
+
+> Il $ABCD$ deve essere quadrilaterale in modo tale che $AD = BC$, $(AB)$ e $(CD)$ siano parallele e $AB > CD$. Il $E$ deve essere il punto medio di $[AC]$ e $F$ il punto medio di $[BD]$. La linea parallela a $(BD)$ che attraversa $E$ incontra $(CD)$ al punto $G$.
+> 
+> 1) Indicare che il triangolo $CGA$ è angolato a destra a $G$.
+> 
+> 2) Set $CD = b$ e $AB = a$. Calcolare il rapporto $\dfrac{EG}{CF}$ come funzione di $a$ e $b$.
+
+[[src_canimath_2022_automne__Q13]]

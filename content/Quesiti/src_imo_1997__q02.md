@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1997 (38th IMO, Mar del Plata) — Quesito 2'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1997__Q02
 parent: src_imo_1997
 competition: 'IMO 1997 (38th IMO, Mar del Plata)'
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prove AU=TB+TC with perpendicular-bisector construction*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g-riBxA5RS3xIizqUBYrgemajJKWaBw5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Prove AU=TB+TC with perpendicular-bisector construction*
+
+> The angle at A is the smallest angle of triangle ABC. The points B and C divide the circumcircle of the triangle into two arcs. Let U be an interior point of the arc between B and C which does not contain A. The perpendicular bisectors of AB and AC meet the line AU at V and W, respectively. The lines BV and CW meet at T. Show that AU is TB + TC.
+
+[[src_imo_1997__Q02]]

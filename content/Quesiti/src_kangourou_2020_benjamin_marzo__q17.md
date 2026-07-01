@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q17
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale forma non e ottenibile con i due pezzi di fil di ferro*
 
@@ -59,3 +62,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which shape cannot be obtained with the two pieces of wire *
+
+![[src_kangourou_2020_benjamin_marzo__prob17.png]]
+
+> George has two identical pieces of wire shaped like this right next to him. Which of the following shapes cannot George obtain by attaching the two pieces of iron wire? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E) X Y X Y X Y X Y X Y
+>
+
+**Answer:** E
+[[src_kangourou_2020_benjamin_marzo__Q17]]

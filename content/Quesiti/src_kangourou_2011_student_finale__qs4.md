@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Finale Student (Mirabilandia) — Quesito S4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student_finale__QS4
 parent: src_kangourou_2011_student_finale
 competition: Kangourou 2011 Finale Student (Mirabilandia)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti valori distinti somma perimetri di 4 triangoli area 1/4*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IJm1jK3TMWoj5sVE88bzHX7made5WOw3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many distinct values sum the perimeter of 4 triangles area 1/4*
+
+> There are several ways to divide a square of side 1 into 4 triangles each of area < MSK0/> (to divide  is to decompose without overlapping if not, if possible, sides). The sum of the perimeter of the triangles may vary as the modes vary. How many different possible values can this sum assume? Justify the answer in the most comprehensive way possible.
+
+**Answer:** 5
+[[src_kangourou_2011_student_finale__QS4]]

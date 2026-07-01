@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1991 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1991__Q04
 parent: src_inmo_1991
 competition: Indian National Mathematical Olympiad 1991
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real numbers a,b,c in (0,1) with a+b+c=2: prove sum of fractions >=8*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri reali a,b,c in (0,1) con a+b+c=2: dimostrare la somma delle frazioni >=8*
+
+> $a, b, c$ siano numeri reali nell'intervallo $(0, 1)$ con $a + b + c = 2$. Provare che < MSK0/>
+
+[[src_inmo_1991__Q04]]

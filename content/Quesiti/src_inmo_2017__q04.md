@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2017 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2017__Q04
 parent: src_inmo_2017
 competition: Indian National Mathematical Olympiad 2017
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex pentagon with equal angles and consecutive integer sides; find AB+BC+CD*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z6pnzbJ-kW6s92b3_JnLtyC_FzIH6VDc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Pentagono converso con angoli uguali e lati interi consecutivi; trovare AB+BC+CD*
+
+> Let $ABCDE$ essere un pentagono convex in cui $\angle A = \angle B = \angle C = \angle D = 120^\circ$ e lunghezze laterali sono cinque numeri interi consecutivi in qualche ordine. Trova tutti i valori possibili di $AB + BC + CD$.
+
+[[src_inmo_2017__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q21
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max ET-nerds among four nerds making truth/lie statements*
 
@@ -51,3 +54,19 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Max ET-nerds tra quattro nerds che fanno dichiarazioni di verità/buonezza*
+
+> Sul pianeta Nerdia, esistono tre specie di nerds: nerds ET, nerds UFO e nerds UFO. La prima specie dice sempre la verità, la seconda mente sempre, e la terza dice sempre la verità e poi mente, o prima mente e poi dice la verità. Un certo giorno, Bruberson, un nerd molto amichevole con tutti, incontra quattro nerd. Dicono:
+> 
+> $X$: "Oggi è sole. " $Y$: "Il nerd $Z$ mentirà. " $Z$: "Oggi non è sole. " $W$: "Il primo nerd ci ha mentito; siamo tutti nerd ET".
+> 
+> Con quanti nerd extraterrestri ha parlato Bruberson al massimo?
+> 
+> (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $3$ \quad (E) $4$
+
+[[src_obm_2011_n2_f1__Q21]]

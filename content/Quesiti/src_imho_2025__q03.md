@@ -1,6 +1,7 @@
 ---
 title: IMO 2025 (LXVI International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2025__Q03
 parent: src_imho_2025
 competition: IMO 2025 (LXVI International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find smallest constant c for bonza functions on positive integers*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pjXhaUlYZwLGrFG-3qMO2-K-raAkyAEG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find the smallest constant c for bonza functions on positive integers
+
+> Let $\mathbb{N}$ denotes the set of positive integers. A function $f\colon \mathbb{N} \to \mathbb{N}$ is said to be *good* if $$f(a) \mid b^a - f(b)^{f(a)}$$ for all positive integers $a$ and $b$.
+> 
+> Determine the smallest real constant $c$ such that $f(n) \le cn$ for all bonza functions $f$ and all positive integers $n$.
+
+[[src_imho_2025__Q03]]

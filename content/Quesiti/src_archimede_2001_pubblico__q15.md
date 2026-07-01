@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_pubblico__Q15
 parent: src_archimede_2001_pubblico
 competition: Archimede 2001 - Gara del Pubblico (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *probabilita di max 5 punti consecutivi*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0028
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*probability of up to 5 consecutive points*
+
+> Two brothers stationed in orbit around the Earth have just watched the fifth set of the Italy-Yugoslavia volleyball game in Imo-Vision, which ended with the score of $15$-$10$ in favour of Yugoslavia. "Sadly, after Sartoretti's $6$ consecutive points I thought we could get back together", says Oloap, who plays for Italy. "You're wrong", says Aerdna, "Italy has never scored more than $5$ points in a row". Oloap looks at the statistics, sees that throughout the set there have been $7$ ball changes and he starts to calculate the probability that he is right (calculating the number of all possible moves of the score, those that would give him right and getting the percentage by ignoring the decimal digits). What percentage will Oloap find?
+> 
+> NB: A team scores even when they get the ball.
+
+**Answer:** 0028
+[[src_archimede_2001_pubblico__Q15]]

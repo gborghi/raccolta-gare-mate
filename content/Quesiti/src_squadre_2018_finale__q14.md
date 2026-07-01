@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q14
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di N/s(N) per N da 1 a 1000*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7963
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of N/s(N) for N from 1 to 1000*
+
+> To convert into theorems, Frege decided to use his tax refund to buy 1,000 coffees. For each N between 1 and 1000, the N-eighth coffee has a caffeine content equal to N/s(N), where s(N) is the sum of the digits of N: for example, the 433rd coffee contains 433 4+3+3. What is the total amount of caffeine Frege will take, equal to the sum of Team Competition 3018  National Finals  Problem Tests  2/3
+> 
+> The caffeine content of all the coffees?
+
+**Answer:** 7963
+[[src_squadre_2018_finale__Q14]]

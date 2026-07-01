@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin__Q30
 parent: src_kangourou_2023_benjamin
 competition: Kangourou 2023 Benjamin — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *mossa dopo X*
 
@@ -71,3 +74,23 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>movement after X< MSK1/>
+
+![[src_kangourou_2023_benjamin__prob30.png]]
+
+> Andrea wants a path that crosses the maze shown in the figure from the point marked with Partance to the point marked with Arrivo. It can only move on horizontal or vertical lines and can only pass on white circles; it must also pass on all white circles and on each one only once. When he reaches the circle marked with X, what will be his next move? A) ↑
+> 	
+> B) ↓
+> 	
+> C) → D) ← E) There is no such path. W Rombo Corona Lamp
+>  
+> X Departure Arrival
+>
+
+**Answer:** B
+[[src_kangourou_2023_benjamin__Q30]]

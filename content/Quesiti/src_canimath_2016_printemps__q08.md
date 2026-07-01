@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2016 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2016_printemps__Q08
 parent: src_canimath_2016_printemps
 competition: Coupe Animath Printemps 2016
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Class test: at least 2/3 of questions difficult and at least 2/3 of students did well; is it possible; repeat with 3/4 and 7/10.*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prova di classe: almeno 2/3 delle domande difficili e almeno 2/3 degli studenti hanno fatto bene; è possibile; ripeti con 3/4 e 7/10.*
+
+> a) Si è svolta una prova in classe. Sappiamo che almeno due terzi delle domande di questo test erano difficili: per ciascuna di queste domande difficili, almeno due terzi degli studenti non riuscirono a rispondere. Sappiamo anche che almeno i due terzi degli studenti hanno fatto bene il test: ognuno di loro è riuscito a rispondere almeno ai due terzi delle domande. E' possibile? b) La risposta alla domanda precedente sarebbe la stessa se sostituissimo ovunque "due terzi" con "tre quarti"? c) La risposta alla prima domanda sarebbe la stessa se sostituissimo ovunque "due terzi" con "sette decimi"?
+
+[[src_canimath_2016_printemps__Q08]]

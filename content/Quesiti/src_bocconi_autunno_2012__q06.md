@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2012 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2012__Q06
 parent: src_bocconi_autunno_2012
 competition: Giochi d'Autunno 2012
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo necessario per segare 10 boscaioli sei cipressi in sei ore*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6 ore
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NV-k_HLPNGANyAIvy1osIKx3v70VuvCV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Time required to cut 10 six cypress bushes in six hours< MSK1/>
+
+> If six loggers harvest six cypresses in six hours, how long will it take ten loggers to harvest ten cypresses?
+
+**Answer:** 6 ore
+[[src_bocconi_autunno_2012__Q06]]

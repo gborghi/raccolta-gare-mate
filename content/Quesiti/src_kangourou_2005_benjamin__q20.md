@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q20
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza tra numero di triangoli e quadrati*
 
@@ -64,3 +67,30 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Difference between number of triangles and squares*
+
+![[src_kangourou_2005_benjamin__prob20.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw[thick] (0,0) -- (4,0) -- (0,4) -- cycle;
+  \draw (0,1) -- (3,1);
+  \draw (0,2) -- (2,2);
+  \draw (0,3) -- (1,3);
+  \draw (1,0) -- (1,3);
+  \draw (2,0) -- (2,2);
+  \draw (3,0) -- (3,1);
+\end{tikzpicture}
+\end{document}
+```
+
+> It counts how many triangles and how many squares you can find in the figure. How much larger is the number of triangles than the number of squares? A) 0 B) 1 C) 2 D) 3 E) 4 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** D
+[[src_kangourou_2005_benjamin__Q20]]

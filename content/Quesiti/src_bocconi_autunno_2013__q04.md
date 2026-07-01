@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2013 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2013__Q04
 parent: src_bocconi_autunno_2013
 competition: Giochi d'Autunno 2013
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quattro tessere da collocare nel quadrato con buco.*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Four cards to be placed in the square with hole.*
+
+> Place the 4 pieces in the quadrant, which are now shown in the figure below, so that they cover it completely (pieces can be rotated, but not upside down).
+
+![[src_bocconi_autunno_2013__Q04.png]]
+
+[[src_bocconi_autunno_2013__Q04]]

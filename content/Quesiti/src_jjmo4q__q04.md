@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2006 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo4q__Q04
 parent: src_jjmo4q
 competition: Japan Junior Mathematical Olympiad 2006
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle DEF where DEF is the contact triangle of ABC with angle BAC=70°*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca angolo DEF dove DEF è il triangolo di contatto di ABC con angolo BAC=70°*
+
+> I punti $D$, $E$ e $F$ sono i punti in cui l'incircolo del triangolo $ABC$ tocca rispettivamente i lati $AB$, $BC$ e $CA$. Dato che $\angle BAC = 70^\circ$, trovare $\angle DEF$.
+
+![[src_jjmo4q__Q04.png]]
+
+[[src_jjmo4q__Q04]]

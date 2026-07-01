@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q24
 parent: src_cesenatico_2007_squadre_finale
 competition: Gara a Squadre Cesenatico 2007 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero divisori del numero di mazzi mateninja magici*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of the number of magic morning decks dividers*
+
+> The classic mateninja deck consists of 16 cards, marked with a number between 1, 2, 3, 4 and a symbol between ♥, ♣, ♦, (so that for each paired number-symbol there is a card). A mateninja deck becomes magical if adjacent cards have adjacent values (the 4 is considered adjacent to  1 and vice versa, a value is not adjacent to itself). How many possible magic morning decks are there? Give the answer the number of all the positive divisors of the number of magic decks.
+
+[[src_cesenatico_2007_squadre_finale__Q24]]

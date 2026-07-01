@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2025 — KV/JNV — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2025_kv__Q02
 parent: src_rmo_2025_kv
 competition: Regional Mathematical Olympiad 2025
@@ -32,6 +33,8 @@ tags:
   - regione/kv
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality for positive reals with abc=1*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MrMQ5sdyNiJZHOwWDmELMBbGQJwXcICc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza dei valori reali positivi con abc=1*
+
+> $a, b, c$ siano numeri reali positivi che soddisfino $abc = 1$. Provare che < MSK0/>
+
+[[src_rmo_2025_kv__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q14
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pesci pescati se triplo darebbe 12 in più*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Fished if tripled would give 12 more < MSK1/>
+
+> Matteo went fishing. If he had caught three times the fish he caught, he would have caught 12 more. How many fish have you caught? A) 7
+>         	
+> B) 6 C) 5
+>         	
+> D) 4
+> 	
+> E) 3
+
+**Answer:** B
+[[src_kangourou_2013_benjamin__Q14]]

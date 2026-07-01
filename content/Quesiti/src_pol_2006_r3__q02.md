@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2006 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2006_r3__Q02
 parent: src_pol_2006_r3
 competition: Olimpiade Matematica Polacca 2006 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers k for which 3^k + 5^k is a perfect power with exponent greater than 1.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Gb-ql6_Ggztexxno6TomZay4IG7dvmgE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli integri positivi k per i quali 3^k + 5^k è una potenza perfetta con esponente superiore a 1.*
+
+> Trova tutti gli integri positivi $k$ per i quali il numero $3^k + 5^k$ è una potenza di un intero con l'esponente maggiore di 1.
+
+[[src_pol_2006_r3__Q02]]

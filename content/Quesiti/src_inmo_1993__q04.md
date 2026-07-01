@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1993 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1993__Q04
 parent: src_inmo_1993
 competition: Indian National Mathematical Olympiad 1993
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Locus of points with equal circumradii for sub-triangles*
 
@@ -35,3 +38,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YUUjSkPwVGDNNzFb4tb7lnpGfqMd6wTC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Localisso dei punti con circondazioni uguali per i sotto-triangoli*
+
+> Trovare l'insieme di tutti i punti $P$ nell'insieme di un triangolo $ABC$ in modo tale che $P \neq A, B, C$ e i triangoli $ABP$, $BCP$ e $CAP$ abbiano lo stesso circondario.
+
+[[src_inmo_1993__Q04]]

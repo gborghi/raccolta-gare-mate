@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2014 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2014__Q16
 parent: src_bocconi_autunno_2014
 competition: Giochi d'Autunno 2014
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie di soluzioni intere non negative dell'equazione con radici*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9 coppie
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PloiPSpf4_9YADREFtliPjnhVrdcFhjI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pairs of non-negative integer solutions of the equation with roots*
+
+> In the $\sqrt{a} + \sqrt{b} = \sqrt{2} + \sqrt{2}$ equation, the unknowns $a$ and $b$ are nonnegative integers. How many pairs of solutions does the equation have?
+
+**Answer:** 9 coppie
+[[src_bocconi_autunno_2014__Q16]]

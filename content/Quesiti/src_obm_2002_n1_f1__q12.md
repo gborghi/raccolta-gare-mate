@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f1__Q12
 parent: src_obm_2002_n1_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compare car trip cost (gasoline plus toll) versus bus*
 
@@ -50,3 +53,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NviJwQmbmihSaakvq3DJSWhViadj6Z5P/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Comparare il costo del viaggio in auto (benzina più pedaggio) con quello dell'autobus
+
+> Patricia vive a Sao Paulo e vuole visitare Rio de Janeiro per una lunga vacanza. Il viaggio da lì e di ritorno, in auto, è $800$ km, e Patricia è sicura che con l'auto spenderà sul carburante, facendo $12$ chilometri con un litro di benzina. Il litro di benzina costa in media R\$$1{,}60$. She figures the car will run about $900$ kilometers and she will pay $48$ reais di pedaggio. Andando in macchina spenderà per queste spese; ma come gli amici che erano già andati in macchina per lo stesso viaggio le hanno detto delle loro spese, in questo modo, andando in macchina invece di autobus, Patricia:
+>
+> - **(A)** R\$$20{,}00$.
+> - **(B)** Spendere solo R\$$2{,}00$ in più.
+> - **(C)** R\$$24{,}00$.
+> - **(D)** Spendeva lo stesso che se fosse andata in autobus.
+> - **(E)** Spendere R\$$14{,}00$ di più.
+
+**Risposta:** C
+[[src_obm_2002_n1_f1__Q12]]

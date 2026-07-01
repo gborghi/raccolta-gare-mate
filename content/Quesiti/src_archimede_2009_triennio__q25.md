@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Triennio — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_triennio__Q25
 parent: src_archimede_2009_triennio
 competition: Giochi di Archimede 2009 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area superficie cubo esterna a sfera per punti medi*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*External cubic surface area of spheres for midpoints*
+
+> A 1 m side cube and a sphere have the same center and the surface of the sphere passes through the midpoints on all sides of the cube. What is the surface area of the cube outside the sphere?
+>
+> - **(A)** (6 −3π 2 ) m2,
+> - **(B)** (8 −2π) m2,
+> - **(C)** (6 −4π 3 ) m2,
+> - **(D)** (12 −3π) m2,
+> - **(E)** π m2.
+
+**Answer:** A
+[[src_archimede_2009_triennio__Q25]]

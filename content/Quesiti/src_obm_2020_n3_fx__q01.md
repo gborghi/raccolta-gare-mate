@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2020 — Nível 3 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2020_n3_fx__Q01
 parent: src_obm_2020_n3_fx
 competition: Olimpíada Brasileira de Matemática 2020 — Nível 3 — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of positive integers making a weighted reciprocal sum equal 1*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b__JDOphfOKJwjRdW1rKhY9YKOrtSicC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di integri positivi che rendono una somma reciproca ponderata uguale a 1*
+
+> Prove che esistono integri positivi $a_1, a_2, \ldots, a_{2020}$ tali che $$\frac{1}{a_1} + \frac{1}{2a_2} + \frac{1}{3a_3} + \cdots + \frac{1}{2020\,a_{2020}} = 1.$$
+
+[[src_obm_2020_n3_fx__Q01]]

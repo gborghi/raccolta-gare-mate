@@ -1,6 +1,7 @@
 ---
 title: IMO 1991 (32nd IMO) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1991__Q05
 parent: src_imo_1991
 competition: IMO 1991 (32nd IMO)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interior point gives an angle at most 30 degrees*
 
@@ -33,3 +36,13 @@ tags:
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interior point gives an angle at most 30 degrees*
+
+> Whether $ABC$ a triangle and $P$ an internal point at $ABC$. Demonstrate that at least one of the angles $\angle PAB$, $\angle PBC$, $\angle PCA$ is less than or equal to $30°$.
+
+[[src_imo_1991__Q05]]

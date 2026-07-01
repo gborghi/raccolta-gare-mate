@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (gara marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q12
 parent: src_kangourou_2017_benjamin_marzo
 competition: Kangourou 2017 Benjamin (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pezzi di spago tagliando in punti da 9 e 8 parti*
 
@@ -52,3 +55,23 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Shares by cutting into 9 and 8 parts< MSK1/>
+
+> Simone intends to divide a piece of spaghetti into nine pieces of the same length and marks the points where she must cut it with a blue pin. Barbara intends to divide the same piece of spaghetti into eight pieces of the same length and, in turn, marks the points where she must cut it with a red pin. Charles comes in and cuts the sponge wherever he finds any marks of pebble. How many pieces of spaghetti does Carlo get? A) 15
+> 	
+> B) 16
+> 	
+> C) 17
+> 	
+> D) 18
+> 	
+> E) 19
+>
+
+**Answer:** B
+[[src_kangourou_2017_benjamin_marzo__Q12]]

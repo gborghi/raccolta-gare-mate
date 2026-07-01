@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 2) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g2__Q10
 parent: src_bocconi_finaleint_2010_g2
 competition: >-
@@ -40,6 +41,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Successione di numeri di 3 cifre dove ogni termine si ottiene moltiplicando il precedente per un fattore intero fisso >1; con numero massimo di termini, trova il termine piu grande.*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 972
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Succession of 3-digit numbers where each term is obtained by multiplying the previous one by a fixed integer factor >1; with maximum number of terms, find the largest term.*
+
+> The terms of the Prosper Geoffroy succession are integers of $3$ digits. Each term (other than the smallest of the succession) is obtained by multiplying the previous one by a number (forcibly whole, but strictly higher than $1$) that is always the same. If the number of terms in the succession is as large as possible, which is the largest term?
+
+**Answer:** 972
+[[src_bocconi_finaleint_2010_g2__Q10]]

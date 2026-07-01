@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_b__Q14
 parent: src_cesenatico_2007_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2007 - Semifinale B
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma radici distinte di x^2-ax+4a con radici intere positive*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of distinct roots of x^2-ax+4a with positive integer roots*
+
+> The third test is finally the practical test! Numeruto can do his best; however, in order to succeed perfectly in the difficult technique of transformation, he must knead his magical strength according to very delicate balances. The useable magical force levels are all positive integers a for which the polynomial x2 −ax+4a has only positive integers. If Numeruto performs the technique well, his score on the exam will be the sum of all the distinct roots that can be obtained in this way. How much will it take?
+
+[[src_cesenatico_2007_squadre_semifinale_b__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_benjamin__Q17
 parent: src_kangourou_2002_benjamin
 competition: Kangourou 2002 - Benjamin (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale di sale nella soluzione*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Percentage of salt in solution< MSK1/>
+
+> Roberta adds 3 grams of salt to 17 grams of water. What is the percentage of salt in the solution obtained?
+>  
+> A. 17.6% B. 17% C. 16% D. 15% E. 6%
+
+**Answer:** D
+[[src_kangourou_2002_benjamin__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Semifinale 1 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_semifinale1__Q15
 parent: src_squadre_2023_semifinale1
 competition: Gara a Squadre 2023 - Semifinale 1
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza Lupin-Jig con baricentro e circoscritta*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0101
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Lupin-Jig distance with baricenter and boundary< MSK1/>
+
+> Inspector Zenonigata is convinced he can catch all three thieves. He's in the center of the GJL triangle formed by the three thieves. Goemetrikon and Jig are 79 metres apart, while Goemetrikon and Lupin/3 are 119 metres apart. Goemetrikon jumps like only samaterai can do and lands in the symmetrical, relative to Zenonigata, of its starting point. He realizes that he is (still) on the circumscribed circumference at GJL; he calculates the distance between Lupin and Jig and saves his friends. How many meters do you measure the distance between Lupin and Jig?
+
+**Answer:** 0101
+[[src_squadre_2023_semifinale1__Q15]]

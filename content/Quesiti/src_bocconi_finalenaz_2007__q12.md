@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2007 — Quesito
   12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2007__Q12
 parent: src_bocconi_finalenaz_2007
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2007
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coordinate dell'anno 2007 nello schema a triangolo (piramide) dei numeri*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Le coordinate del 2007 sono (1937; 729)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Coordinates of the year 2007 in the triangular (pyramid) scheme of numbers*
+
+> We have put all the numbers of the years of our era in a triangular scheme: $$\begin{array}{ccccccc} & & & 1 \\ & & 2 & 3 & 4 \\ & 5 & 6 & 7 & 8 & 9 \\ 10 & 11 & 12 & 13 & 14 & 15 & 16 \\ 17 & \cdots \end{array}$$ - a row is identified by the first number of the same line, starting from the left; - a column is identified by the first number of the same column, starting from the top; - a number of the scheme is therefore identified by two coordinates: the number of the row and that of the column in which it is located. For example, 15 has coordinates (10;9). Find the coordinates for the year 2007 in the chart.
+
+![[src_bocconi_finalenaz_2007__Q12.png]]
+
+**Answer:** Le coordinate del 2007 sono (1937; 729)
+[[src_bocconi_finalenaz_2007__Q12]]

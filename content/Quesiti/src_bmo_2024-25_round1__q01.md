@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2024-25 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2024-25_round1__Q01
 parent: src_bmo_2024-25_round1
 competition: British Mathematical Olympiad 2024-25 — Round 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find which n in 3..12 admit a happy circle arrangement*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zc71QU7y2yEdLL5Hv10dv-SMgCrj9jY8/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova quale n in 3.12 ammette una disposizione di cerchio felice*
+
+> Diciamo che un numero $n \ge 3$ è $happy$ se è possibile organizzare i numeri $1$ a $n$ in un cerchio in modo tale che si applichino le seguenti due condizioni: (a) Se $x$ e $y$ sono vicini nel cerchio, allora $x$ divide $y$ o $y$ divide $x$; (b) Se diversi interi $u$ e $v$ sono nel cerchio ma non sono vicini, allora nessuno divide l'altro.
+> 
+> Trova tutte le $n$ nella gamma $3 \le n \le 12$ che sono soddisfatte.
+
+[[src_bmo_2024-25_round1__Q01]]

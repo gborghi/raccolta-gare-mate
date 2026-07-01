@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2025 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2025__Q03
 parent: src_cgen_2025
 competition: Concours Général des Lycées 2025 — Matematica
@@ -35,6 +36,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation f(x+1)=1/2+sqrt(f(x)-f(x)^2): exhibit a continuous solution, prove every solution is periodic, and produce infinitely many continuous solutions with f(0)=1/2.*
 
@@ -56,3 +59,21 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RJQcrE2LoxqUG0FX5qFL59QY5bS7h8dG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale f(x+1)=1/2+sqrt(f(x)-f(x)^2): mostrare una soluzione continua, dimostrare che ogni soluzione è periodica, e produrre infinite soluzioni continue con f(0)=1/2.*
+
+> Esercizio 3.
+> 
+> Si dice che una funzione $f$ verifica la proprietà $\mathscr{E}$ se, per ogni reale $x$, $$f(x+1) = \frac{1}{2} + \sqrt{f(x) - f(x)^2}.$$
+> 
+> 1. Propone una funzione continua che verifica la proprietà $\mathscr{E}$.
+> 
+> 2. Si ricorda che una funzione $g$ definita su $\mathbb{R}$ è periodica se esiste una $T > 0$ reale tale che $$\text{for every real } x,\quad g(x + T) = g(x).$$ $f$ sia una funzione che verifica $\mathscr{E}$. Indicare che $f$ è periodico.
+> 
+> 3. Proporre un'infinità di funzioni continue $f$ che verificano $\mathscr{E}$ e che $f(0) = \frac{1}{2}$.
+
+[[src_cgen_2025__Q03]]

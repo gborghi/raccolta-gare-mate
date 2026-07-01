@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2023 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo21hq_honsen__Q05
 parent: src_jjmo21hq_honsen
 competition: Japan Junior Mathematical Olympiad 2023 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove circumcircle of triangle PRN is tangent to BC*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1efdSphrAk6aeIsu8HcCF4eiUkFyOMt6a/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che il circoncircolo del triangolo PRN è tangente a BC*
+
+> Nel triangolo $ABC$, $\Gamma$ sia il circoncircolo e $M$ il punto medio del lato $AC$. I punti $P$ e $Q$ siano due punti distinti del segmento $BC$ che siano simmetrici rispetto al punto medio di $BC$. $N$ sia il punto medio del segmento $PQ$ (così $N$ è il punto medio di $BC$). La linea $AN$ incontra di nuovo $\Gamma$ in un punto $R$ (diverso da $A$). Prova che il circoncircolo del triangolo $PRN$ è tangente alla linea $BC$.
+
+[[src_jjmo21hq_honsen__Q05]]

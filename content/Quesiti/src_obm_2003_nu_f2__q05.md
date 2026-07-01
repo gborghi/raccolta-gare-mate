@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 2 —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_nu_f2__Q05
 parent: src_obm_2003_nu_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *C-infinity lacunary functions closed under addition and product*
 
@@ -51,3 +54,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*C-infinity funzioni lacunarie chiuse con aggiunta e prodotto*
+
+> Una funzione $f : (-1,1) \to \mathbb{R}$ della classe $C^\infty$ viene chiamata *lacunaria* se esiste un intero positivo $n$ e polinomi $P_j \in \mathbb{R}[t]$, $0 \le j \le n$, con $P_n$ non identicamente zero, in modo tale che $$\sum_{j=0}^{n} P_j(t) f^{(j)}(t) = 0 \quad \text{for all } t \in (-1,1).$$ dimostri che se $f$ e $g$ sono lacunarie allora $f + g$ e $f \cdot g$ sono anche lacunarie.
+> 
+> **Remarchi.** Definimmo $f^{(m)} = f$ per $m \ge 0$ (che significa $f^{(0)} = f$), e $(f^{(m)})' = f^{(m+1)}$.
+
+[[src_obm_2003_nu_f2__Q05]]

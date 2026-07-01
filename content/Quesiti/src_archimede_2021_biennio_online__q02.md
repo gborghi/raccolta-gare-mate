@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_biennio_online__Q02
 parent: src_archimede_2021_biennio_online
 competition: Giochi di Archimede 2021 - Gara Biennio (online)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli con due vertici dello stesso colore su circonferenza*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Zo7WSUv5KN16W_nTPuywBaG12u7UYl5I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangles with two vertices of the same colour on the circumference*
+
+> Three red dots, two green dots, two yellow dots, and two blue dots are marked along one circumference. How many triangles can be obtained by choosing two vertices of the same color and a third of a different color?
+>
+> - **(A)** 44
+> - **(B)** 27
+> - **(C)** 43
+> - **(D)** 39
+> - **(E)** 41
+
+**Answer:** D
+[[src_archimede_2021_biennio_online__Q02]]

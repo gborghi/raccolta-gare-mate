@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q10
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pedro's spending in four shops, find initial amount*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>La spesa di Pedro in quattro negozi, trovare l'importo iniziale < MSK1/>
+
+> Pedro lasciò casa e andò a quattro negozi, ognuno in un quartiere diverso. In ogni negozio spendeva la metà di quello che aveva più 2,00 MSK1/>$\,8.00$. Quanto aveva Pedro quando se n'è andato?
+> 
+> A) $\mathrm{R}\$\,220{,}00$ \quad B) $\mathrm{R}\$\,204{,}00$ \quad C) $\mathrm{R}\$\,196{,}00$ \quad D) $\mathrm{R}\$\,188{,}00$ \quad E) $\mathrm{R}\$\,180{,}00$
+
+**Risposta:** D
+[[src_obm_1999_n3_f1__Q10]]

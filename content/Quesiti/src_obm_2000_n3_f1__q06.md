@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q06
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation f(x+y)=x+f(y), find f(2000)*
 
@@ -55,3 +58,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale f(x+y)=x+f(y), trovare f(2000) *
+
+> Che $f$ sia una funzione con le seguenti proprietà: (i) per tutti i valori $x,y$, $f(x+y)=x+f(y)$; (ii) $f(0)=2$. Che cos' è < MSK4/>?
+>
+> - **(A)** 0
+> - **(B)** 2
+> - **(C)** 1998
+> - **(D)** 2000
+> - **(E)** 2002
+
+**Risposta:** E
+[[src_obm_2000_n3_f1__Q06]]

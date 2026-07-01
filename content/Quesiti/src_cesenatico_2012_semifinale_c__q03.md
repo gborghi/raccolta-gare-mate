@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_semifinale_c__Q03
 parent: src_cesenatico_2012_semifinale_c
 competition: Gara a Squadre Cesenatico 2012 - Semifinale C
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza torre A dal centro del cerchio*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 6500
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance tower A from the centre of the circle*
+
+> From a time capsule buried fifty years ago a prophecy is recovered: The world will end in a solar flare in year n, where n is the largest number of 4 digits dividing by. . . ”. Unfortunately, the number that was written in place of the dots is no longer legible, only understood to have at least seven digits. Knowing that the MIT glow will occur this year, what is the smallest possible value for the number that completed the prophecy?
+
+**Answer:** 6500
+[[src_cesenatico_2012_semifinale_c__Q03]]

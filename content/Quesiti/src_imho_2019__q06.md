@@ -1,6 +1,7 @@
 ---
 title: IMO 2019 (LX International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2019__Q06
 parent: src_imho_2019
 competition: IMO 2019 (LX International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lines DI and PQ meet on altitude through A in acute triangle with incircle tangencies*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JyHT55oZouRQ04YAx-a4_fyuMYOtPSWx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lines DI and PQ meet on altitude through A in acute triangle with incircle tangencies*
+
+> Let $I$ be the incentre of acute triangle $ABC$ with $AB \neq AC$. The incircle $\omega$ of $ABC$ is tangent to sides $BC$, $CA$, and $AB$ at $D$, $E$, and $F$, respectively. The line through $D$ perpendicular to $EF$ meets $\omega$ again at $R$. Line $AR$ meets $\omega$ again at $P$. The circumcircles of triangles $PCE$ and $PBF$ meet again at $Q$.
+> 
+> Prove that lines $DI$ and $PQ$ meet on the line through $A$ perpendicular to $AI$.
+
+[[src_imho_2019__Q06]]

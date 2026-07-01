@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_2livello__Q09
 parent: src_archimede_2022_2livello
 competition: Archimede Gara di Febbraio 2022 - 2° livello
@@ -28,6 +29,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Successione ricorsiva, minimo n con a_n divisibile per 2022*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Recurring succession, minimum n with a_n divisible by 2022*
+
+> Let's put a1 = 1 and, for every n ≥2, an = n(a1 + a2 + · · + an−1). What is the smallest value of n by which an is divisible by 2022?
+>
+> - **(A)** 47
+> - **(B)** 289
+> - **(C)** 337
+> - **(D)** 2022
+> - **(E)** 2023
+
+**Answer:** C
+[[src_archimede_2022_2livello__Q09]]

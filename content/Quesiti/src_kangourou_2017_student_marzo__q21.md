@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Student - Gara 16 marzo — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q21
 parent: src_kangourou_2017_student_marzo
 competition: Kangourou 2017 Student - Gara 16 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi tali che togliendo l'ultima cifra dia 1/14*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Inteers such that by subtracting the last digit, give 1/14 < MSK1/>
+
+> 21. How many positive integers are such that the number obtained by eliminating the last digit is 1/14 of the original number? A) 0 B) 1 C) 2 D) 3 E) 4
+
+**Answer:** C
+[[src_kangourou_2017_student_marzo__Q21]]

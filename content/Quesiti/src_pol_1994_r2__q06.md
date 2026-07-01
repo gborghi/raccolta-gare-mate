@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1994 — Round 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1994_r2__Q06
 parent: src_pol_1994_r2
 competition: Olimpiade Matematica Polacca 1994 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For a prime p, prove p divides some n^2-n+3 iff p divides some m^2-m+25.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uA4twJvqYtpwmlzZpoJcK0hKVdyFmCqj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Per un primo p, provare p divide alcuni n^2-n+3 se p divide alcuni m^2-m+25.
+
+> $p$ sia un numero primo. Dimostrare l'esistenza di $n \in \mathbb{Z}$ tale da $p \mid n^2 - n + 3$ se e solo se esiste $m \in \mathbb{Z}$ tale da $p \mid m^2 - m + 25$.
+
+[[src_pol_1994_r2__Q06]]

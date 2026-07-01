@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q06
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Calcolo a_5N/1000 con numeri di somma cifre 7*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Calculate a_5N/1000 with sum numbers of 7 digits *
+
+> A coincidence [30] The great council of the village of Retta accurately transcribes all the proceeds of the missions carried out by its moreninja. A scroll records this year's revenues and Isoshilo immediately noticed that all the numbers a1, a2, . . . , are in strictly increasing order and have a curious feature: they are all numbers that have 7 as a sum of digits (in decimal form). If N is the index of first income exceeding 2000, calculate a5N 1000
+
+[[src_cesenatico_2007_squadre_pubblico__Q06]]

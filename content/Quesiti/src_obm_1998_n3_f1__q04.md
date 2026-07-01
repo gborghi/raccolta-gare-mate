@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f1__Q04
 parent: src_obm_1998_n3_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cross-reference to Problem 6 of Level 2 (statement not on these pages).*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Riferazione incrociata al problema 6 del livello 2 (dichiarazione non presente in queste pagine).< MSK1/>
+
+> Cfr. il problema 6 del livello 2.
+
+**Risposta:** E
+[[src_obm_1998_n3_f1__Q04]]

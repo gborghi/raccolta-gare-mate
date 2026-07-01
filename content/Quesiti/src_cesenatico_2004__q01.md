@@ -1,6 +1,7 @@
 ---
 title: XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004__Q01
 parent: src_cesenatico_2004
 competition: XX Olimpiade Italiana Cesenatico 2004 - individuale
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *trovare quella del 25 dicembre*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** -3 gradi
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1SUJ83wt6O3HsePZYy6Y39_rKksLv5Bk-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*find the one from December 25*
+
+> By re-analysing divisibility by 3, we get that x1 and y1 must also be divisible by 3, and so the equation can be further simplified by dividing by 9. If we do this, we'll get to the point where the equation comes down to the form 3 · 6682005 = x2n + y2n. But again, this equation is only possible if xn and yn are divisible by 3, and so x2 n + y2 n is divisible by 9. But since 3 · 6682005 is not divisible by 9, such an equation has no solutions.
+
+**Answer:** -3 gradi
+[[src_cesenatico_2004__Q01]]

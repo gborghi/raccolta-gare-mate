@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student finale (maggio) — Quesito S1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_maggio__QS1
 parent: src_kangourou_2006_student_maggio
 competition: Kangourou 2006 Student finale (maggio)
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma minima dei valori assoluti su circonferenza numerata*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2n-2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ianQsLYKRWCoToqRQQItfRaLtb1Nj0Gq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of absolute values on numbered circumference*
+
+> Let's denote with $n$ an integer greater than 1 and assume that $n$ points of a circumference are numbered from 1 to $n$ in a completely random order. For each pair (not ordered) of adjacent points the absolute value of the difference of the two corresponding numbers is taken into account; all the absolute values thus obtained are therefore added. What is the minimum amount of this sum?
+
+**Answer:** 2n-2
+[[src_kangourou_2006_student_maggio__QS1]]

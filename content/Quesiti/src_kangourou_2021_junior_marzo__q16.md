@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q16
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Membri della squadra partita per prima (ragazzi/ragazze)*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Members of the first-placed team (boys/girls) *
+
+> In a team competition, there are five teams waiting to leave. Each team is made up of either boys or girls. The teams are composed of 9, 15, 17, 19 and 21 elements. After the first team leaves, the number of girls who haven't left is three times the number of boys who haven't left. How many members are on the team that left first? A) 9
+> 	
+> B) 15
+> 	
+> C) 17
+> 	
+> D) 19
+> 	
+> E) 21
+
+**Answer:** E
+[[src_kangourou_2021_junior_marzo__Q16]]

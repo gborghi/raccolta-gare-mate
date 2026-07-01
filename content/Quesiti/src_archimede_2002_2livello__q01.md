@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2002 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_2livello__Q01
 parent: src_archimede_2002_2livello
 competition: Archimede Gara 2º livello 2002
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di famiglie con almeno un televisore*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of households with at least one television*
+
+> In the following multiplication: $$\begin{array}{r} 2\;a\;b\;c \\ \times\quad 4\;a\;f \end{array}$$ for each letter corresponds to a digit. Knowing that in multiplication all the digits from 1 to 9 appear once and only once, what is the value of $c$?
+> 
+> (A) 2 and (B) 4 and (C) 6 and (D) 7 and (E) 8
+
+**Answer:** D
+[[src_archimede_2002_2livello__Q01]]

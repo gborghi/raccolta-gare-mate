@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2010 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo8mq_honsen__Q02
 parent: src_jjmo8mq_honsen
 competition: Japan Junior Mathematical Olympiad 2010 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest k so truncating a perfect square keeps squares*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p2F4y-eHA_uMQrouWBYL9ACgMCFOr7Tx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La k più piccola così truncando un quadrato perfetto mantiene quadrati*
+
+> Trova il più grande intero non negativo $k$ per il quale esiste un intero positivo $n$ che soddisfa la seguente condizione.
+> 
+> Condizione: $n$ è un quadrato perfetto con almeno $k+1$ cifre, e per ogni intero positivo $i$ con $i \le k$, il numero ottenuto da $n$ eliminando le sue ultime cifre $i$ è anche un quadrato perfetto.
+
+[[src_jjmo8mq_honsen__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Triennio — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_triennio__Q24
 parent: src_archimede_2006_triennio
 competition: Giochi di Archimede 2006 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Natura del numero 100020001*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Nature of number 100020001*
+
+> The number 100020001 is:
+>
+> - **(A)** a prime number,
+> - **(B)** a perfect square,
+> - **(C)** a multiple of three,
+> - **(D)** A perfect cube,
+> - **(E)** a multiple of 11.
+
+**Answer:** B
+[[src_archimede_2006_triennio__Q24]]

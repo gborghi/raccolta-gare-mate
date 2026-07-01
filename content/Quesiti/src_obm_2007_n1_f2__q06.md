@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f2__Q06
 parent: src_obm_2007_n1_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A column addition contains one wrongly written digit; correct it and compute a power.*
 
@@ -53,3 +56,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c1KSYB2Si60KoloY7duhcwVwRnP2K6BN/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un'aggiunta di colonne contiene una cifra scritta erroneamente; correggerla e calcolare una potenza.*
+
+> Nell'aggiunta di seguito, al primo controllo si può presumere che le tre cifre a destra di tutti i numeri siano scritte correttamente, ma che una cifra sia scritta erroneamente. Tra le cifre, la $9$ è scritta erroneamente. In base all'analisi, al posto della cifra sbagliata deve essere inserita una $6$ e sostituita, se necessario, da una $2$, in modo che l'aggiunta $$\begin{array}{r} 7\,4\,6\,5\,8\,6 \\ +\;8\,6\,9\,4\,3\,0 \\ \hline 1\,6\,1\,6\,0\,1\,6 \end{array}$$ sia corretta. Facendo la sostituzione e verificando che il resto si adatta, si ottiene $a=2$. Determinare il valore di $a^6$ (avemo $a^6=2^6=64$).
+
+**Risposta:** 64
+[[src_obm_2007_n1_f2__Q06]]

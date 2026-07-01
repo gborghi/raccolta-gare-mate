@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2023 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2023_automne__Q10
 parent: src_canimath_2023_automne
 competition: Coupe Animath Automne 2023
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *5x5 grid of positive integers with every row sum odd; prove some column sum is also odd (lycee)*
 
@@ -48,3 +51,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+* 5x5 griglia di numeri interi positivi con ogni riga somma impar; dimostrare che qualche colonna somma è anche impar (lycee) *
+
+> In ciascuna delle celle di una tabella quadrata di dimensioni $5 \times 5$, si scrive un intero rigorosamente positivo. Supponiamo che, per ogni riga della tabella, la somma dei numeri interi scritti nelle celle di quella riga sia un numero intero impar. Mostrare che esiste una colonna della tabella tale che la somma dei numeri interi scritti nelle celle di quella colonna sia anche strana.
+
+[[src_canimath_2023_automne__Q10]]

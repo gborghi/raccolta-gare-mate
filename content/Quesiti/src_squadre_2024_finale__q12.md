@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Finale Nazionale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_finale__Q12
 parent: src_squadre_2024_finale
 competition: Gara a Squadre 2024 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo salatini con divisioni k/(k+1) senza resti*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0079
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of lettuces with k/(k+1) divisions without residues*
+
+> Enjoy the dinner! There's a table full of delicious salads. The waiter has to distribute the salads to the 6 guests: first to S-Higgs who is the most hungry, then to Fredmath, to his mother, to his father, to Vennma and finally to Dafnne. He prepares the portions with a ceremonial elaboration: he gives a salad to Scoobe-Zout and half the remaining salad to the first guest; then he gives two salad to Scoobe-Zout and 2 3 of the remaining salad to the second guest and continues thus giving k salad to Scoobe-Zout and k k+1 of the remaining salad to the k-eighth guest. S-Higgs is about to make his first salad, but the waiter stops him and says, "I've managed to do all the subdividing without any residue, without dividing the salads, and everyone has at least one. Guess how many salads I've distributed? What was the minimum number of salads on the table at first?
+
+**Answer:** 0079
+[[src_squadre_2024_finale__Q12]]

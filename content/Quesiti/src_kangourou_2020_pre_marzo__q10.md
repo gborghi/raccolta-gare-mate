@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Pre - gara marzo — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q10
 parent: src_kangourou_2020_pre_marzo
 competition: Kangourou 2020 Pre - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dove disegnare la dodicesima casa del villaggio*
 
@@ -47,3 +50,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Where to draw the twelfth village house
+
+![[src_kangourou_2020_pre_marzo__prob10.png]]
+
+> A village of $12$ houses has four straight streets and three circular streets. On each straight road there are $3$ houses; also on each circular road there are $3$ houses. The map shows $11$ of the houses: where should the 12th house be drawn?
+>
+> (see figure)
+>
+> - **(A)** In A
+> - **(B)** In B
+> - **(C)** In C
+> - **(D)** In D
+> - **(E)** In E
+
+**Answer:** C
+[[src_kangourou_2020_pre_marzo__Q10]]

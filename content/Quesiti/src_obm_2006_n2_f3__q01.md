@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f3__Q01
 parent: src_obm_2006_n2_f3
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min steps to rewrite sequence 1..n in order*
 
@@ -55,3 +58,19 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YkJDppLT4ZSZbNPF1voiSzcsCHYMYSgG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Min passi per riscrivere la sequenza 1..n nell'ordine*
+
+> Scriviamo, in fila, i numeri $1, 2, 3, \ldots, n$. Ad ogni passo, prendiamo gli ultimi due numeri della riga corrente, scriviamo l'ultimo prima e l'ultimo dopo l'ultimo, e poi mettiamo i restanti numeri $n-2$ in mezzo. Per esempio, per $n = 12$ otteniamo: $$1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 \to 12, 11, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10$$ $$\to 10, 9, 12, 11, 1, 2, 3, 4, 5, 6, 7, 8 \to \cdots$$
+> 
+> Qual è il numero minimo di passi necessari per scrivere $1, 2, 3, \ldots, n$ in ordine di nuovo, quando
+> 
+> (a) $n = 2006$?
+> 
+> (b) $n = 2005$?
+
+[[src_obm_2006_n2_f3__Q01]]

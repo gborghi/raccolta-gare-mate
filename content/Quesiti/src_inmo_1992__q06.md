@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1992 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1992__Q06
 parent: src_inmo_1992
 competition: Indian National Mathematical Olympiad 1992
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Polynomial with integer coefficients taking value 2 at distinct integers; no integer b with f(b)=9*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EOEsZB8HaiI0YQM_jwUKgpq-22uACryj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomio con coefficienti interi che assumono il valore 2 a numeri interi distinti; nessun numero intero b con f(b)=9*
+
+> $f(x)$ sia un polinomio con coefficienti interi in modo che esistano diversi interi $a_1, a_2, \ldots, a_n$ in cui $f$ prende il valore $2$. Indicare che non esiste un numero intero $b$ con $f(b) = 9$.
+
+[[src_inmo_1992__Q06]]

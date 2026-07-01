@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2018__Q06
 parent: src_tfjm_2018
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018
@@ -38,6 +39,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A two-player simultaneous card game with cards 1..2n; under several rules about who reveals first and how the lead passes, determine the number of points each player can guarantee, and study a card-redistribution variant.*
 
@@ -64,3 +67,21 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un gioco di carte simultaneo per due giocatori con carte 1..2n; secondo diverse regole su chi rivela per primo e come passa il lead, determinare il numero di punti che ogni giocatore può garantire e studiare una variante di ridistribuzione delle carte.*
+
+> Battaglia del Corsair. Igor e Sophia decidono di modificare le regole della battaglia di carte (guerra), che ritengono troppo dipendenti dalla fortuna. Hanno un mazzo di carte $2n$ numerate da $1$ a $2n$, per alcune $n\in\mathbb{N}^*$. All'inizio, Igor e Sophia ricevono ognuno delle carte $n$. A ogni turno, i due giocatori scelgono contemporaneamente una delle loro carte e la mettono sul tavolo; quella che ha giocato la carta con il numero più alto prende un punto, e poi le due carte giocate vengono rimosse.
+> 
+> 1. Igor e Sophia segnano i punti secondo le seguenti regole. Per ogni regola, quale è il maggior numero di punti che un giocatore può garantire? Si può iniziare studiando piccoli valori di < MSK0/>. a) Igor rivela per primo a ogni turno. b) Sophia si rivela prima a ogni turno. c) Igor rivela prima alla prima volta, poi a ogni volta il giocatore che ha appena perso rivela prima. D) La stessa cosa, ma Sophia rivela prima al primo turno. e) Igor rivela prima al primo turno, poi a ogni turno il giocatore che ha appena vinto rivela per primo. f) La stessa cosa, ma Sophia rivela prima al primo turno.
+> 
+> 2. Per ogni regola che non è uguale, i due giocatori giocano, e per evitare legami si aggiunge la seguente regola: a ogni turno quando si gioca una carta, se c'è un pareggio, l'ultimo punto non viene attribuito. Rendi la domanda 1 in questo contesto.
+> 
+> 3. Igor propone una nuova distribuzione delle carte. Si gioca di nuovo con le carte numerate da $1$ a $2n$, ma ogni giocatore cambia la distribuzione iniziale. Igor quindi vuole fare strettamente meglio di Sophia (cioè avere strettamente più punti di lei alla fine della partita), ma vuole il minor numero di giri di gioco possibile. Con le diverse regole della domanda 1, stima questo numero di giri.
+> 
+> 4. Proporre e studiare altre direzioni di ricerca.
+
+[[src_tfjm_2018__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q14
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di sinceri tra delegazioni con dichiarazioni*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0650
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of candidates among delegations with declarations*
+
+> The SMULLYAN Fry Planet and the Planar Express are about to make a delivery to the Smullyan Planet. Liela has already warned Fry about the inhabitants of the planet belonging to two religious factions: the erov who are always sincere and oslaf who are always lying. When the mayor arrives, he introduces himself and says, "I'm a ..." Unfortunately, a gust of wind prevented Fry from hearing his voice. At this point, various groups of inhabitants are present to collect the goods: the first group consists of two inhabitants, each declaring: lthe other is an oslaf. Next comes a delegation of three inhabitants who declare each other the other two belong to the erov group, then comes a group of four people who declare each other: the other three in the group are oslaf. And so on until the last delegation of 50 inhabitants. Each group made up of n inhabitants declared that the other n-1s are oslaf if n is equal, erov if n is odd. Beuler asks Fry if he knows how many erov, at most, he may have met.
+
+**Answer:** 0650
+[[src_squadre_2018_femminile__Q14]]

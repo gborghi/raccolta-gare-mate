@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre__Q04
 parent: src_kangourou_2023_ecolier_squadre
 competition: Kangourou Squadre 2023 Ecolier Finale 1
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo dei tre numeri date somme a coppie*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0059
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most of the three numbers given in pairs sums*
+
+> Three sums Franco wrote three numbers. By choosing two of the numbers Franco wrote, in three possible ways, and adding them together, you get 91, 100, and 109. What's the biggest number Franco ever wrote?
+
+**Answer:** 0059
+[[src_kangourou_2023_ecolier_squadre__Q04]]

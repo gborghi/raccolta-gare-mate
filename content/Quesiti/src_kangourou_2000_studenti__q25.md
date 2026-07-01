@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q25
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizione della moneta tra le scatole*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Position of the coin between the boxes*
+
+> There are three boxes and three objects: a coin, a shell, and a penis. Each box contains one and only one object: the green box is to the left of the blue box; the coin is to the left of the peel; the red box is to the right of the shell; the peel is to the right of the red box; in which box is the coin? A) in the red box B) in the green box C) in the blue box D) we cannot know E) the conditions are impossible to verify
+
+**Answer:** A
+[[src_kangourou_2000_studenti__Q25]]

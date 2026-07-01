@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f2__Q05
 parent: src_obm_2014_n3_f2
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum shadow area of a 3x4x6 box under 45-degree parallel light*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XkAXjIN4Wy75ir0QX-HQaiyTPxhLBK2C/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area massima di ombra di una scatola 3x4x6 sotto luce parallela di 45 gradi*
+
+> Una scatola di legno in forma di parallelepipedone rettangolare con dimensioni $3 \times 4 \times 6$ si posa sul pavimento e una delle sue facce è completamente piatta sul pavimento. Una fonte luminosa emette raggi paralleli al pavimento a $45^\circ$. Considerando solo la luce proveniente da questa fonte, qual è la superficie massima possibile dell'ombra gettata sul pavimento (esclusa la superficie direttamente sotto la scatola)?
+
+[[src_obm_2014_n3_f2__Q05]]

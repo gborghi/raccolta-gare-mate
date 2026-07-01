@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q10
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer n such that n*2^n has 2008 more divisors than n; find digit sum of n*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integra n tale che n*2^n abbia 2008 più divisori di n; trovare la somma di n*
+
+> Il numero intero $n$ è tale che $n \cdot 2^n$ ha $2008$ più divisori di $n$. La somma delle cifre di $n$ è uguale a:
+> 
+> (A) $5$ (B) $7$ (C) $9$ (D) $11$ (E) $12$
+
+[[src_obm_2008_n3_f1__Q10]]

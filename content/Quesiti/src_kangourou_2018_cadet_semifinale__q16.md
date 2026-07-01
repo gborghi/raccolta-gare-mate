@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q16
 parent: src_kangourou_2018_cadet_semifinale
 competition: Kangourou 2018 Cadet - Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo esterno tra tangenti a due circonferenze*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0120
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kVLsfgriHzHWeJPk7c69FlUrtxeTTMzS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*External angle between tangents with two circumferences*
+
+> (Points 7) Two planar circles of the same radius pass each through the centre of the other: call P one of the two intersecting points. How many degrees does the outer angle between the circles formed by the two tangent lines in P on the two circumferences measure?
+
+**Answer:** 0120
+[[src_kangourou_2018_cadet_semifinale__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q10
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di due dadi con probabilita piu alta tra 7,8,9,10*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Sum of two dice with highest probability between 7.8, 9.10*
+
+> Two regular dice (faces numbered from one to six) are thrown without makeup. Which of the numbers 7, 8, 9, and 10 is most likely to be the sum of the two scores? A) 7
+> 	
+> B) 8
+> 	
+> C) 9
+> 	
+> D) 10 E) 7 and 8 have the same probability. The questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** A
+[[src_kangourou_2018_junior_marzo__Q10]]

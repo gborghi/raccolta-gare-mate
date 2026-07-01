@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2009_finale__Q03
 parent: src_kangourou_squadre_2009_finale
 competition: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri scrive Marco (sequenza +29, tutte cifre 9)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3449
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many numbers does Mark write (sequence +29, all digits 9) *
+
+> Is Marco still writing? Mark started writing the sequence of numbers 7, 36, 65, 94, ...where each, from the second on, is the previous one increased by 29. Marco intends to stop as soon as he has written a number whose digits are all equal to nine. Will Mark be able to stop, and if so, how many numbers will he have written when he stops? (Write 0000 if he can't stop.)
+
+**Answer:** 3449
+[[src_kangourou_squadre_2009_finale__Q03]]

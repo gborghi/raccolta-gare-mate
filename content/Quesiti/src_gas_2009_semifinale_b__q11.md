@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale B — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_b__Q11
 parent: src_gas_2009_semifinale_b
 competition: Gara a Squadre 2009 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio cerchio inscritto in trapezio rettangolo dato area*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0040
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A circle beam inscribed in a rectangular trapezoid given area*
+
+> A tailor-made box The nazgul approaches, and Frobbo hides the ring in a quadrilateral ABCD container of area 6480 mm2, where AD is perpendicular to AB and CD and such that 4AB = 5CD. The ring fits perfectly into the container, touching all four sides. How many millimeters does the radius of the ring measure?
+
+**Answer:** 0040
+[[src_gas_2009_semifinale_b__Q11]]

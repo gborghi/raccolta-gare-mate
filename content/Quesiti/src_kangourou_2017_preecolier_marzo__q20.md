@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_preecolier_marzo__Q20
 parent: src_kangourou_2017_preecolier_marzo
 competition: Kangourou 2017 Pre-Ecolier - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo minuti per fare 30 salti col canguro*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum minutes to make 30 kangaroo jumps< MSK1/>
+
+> A kangaroo makes 10 jumps in one minute and then rests for three minutes. Then he makes another 10 jumps in one minute and rests for three minutes, and so on. What's the minimum number of minutes it takes to make 30 jumps?
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 9
+
+**Answer:** E
+[[src_kangourou_2017_preecolier_marzo__Q20]]

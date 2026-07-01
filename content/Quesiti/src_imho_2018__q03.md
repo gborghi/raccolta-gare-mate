@@ -1,6 +1,7 @@
 ---
 title: IMO 2018 (LIX International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2018__Q03
 parent: src_imho_2018
 competition: IMO 2018 (LIX International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Existence of anti-Pascal triangle with 2018 rows covering 1 to 1+2+…+2018*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tvIX0rbY0Jiofkx0Jp_N_tsr4t5dB-fl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Existence of anti-Pascal triangle with 2018 rows covering 1 to 1+2+...+2018*
+
+> An anti-Pascal triangle is an equilateral triangular array of numbers such that, except for the numbers in the bottom row, each number is the absolute value of the difference of the two numbers immediately below it. The following array is an anti-Pascal triangle with four rows which contains every integer from 1 to 10: $$\begin{array}{ccccccc} & & & 4 & & & \\ & & 2 & & 6 & & \\ & 5 & & 7 & & 1 & \\ 8 & & 3 & & 10 & & 9 \end{array}$$ Does there exist an anti-Pascal triangle with 2018 rows which contains every integer from 1 to $1 + 2 + \cdots + 2018$?
+
+![[src_imho_2018__Q03.png]]
+
+[[src_imho_2018__Q03]]

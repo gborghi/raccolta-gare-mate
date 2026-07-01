@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier gara individuale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q18
 parent: src_kangourou_2022_ecolier_gara
 competition: Kangourou 2022 Ecolier gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punteggio impossibile nel torneo a tre squadre*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Impossible score in the three-team tournament*
+
+> Three football teams participate in a tournament. Each team meets the other two exactly once. If the match ends in a draw, 1 point is awarded to each of the two teams; otherwise, 3 points are awarded to the winning team, 0 points to the losing team. How many points can no team finish the tournament? A) 1
+>   
+> B) 2
+>   
+> C) 4
+>   
+> D) 5
+>   
+> E) 6
+
+**Answer:** D
+[[src_kangourou_2022_ecolier_gara__Q18]]

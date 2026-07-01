@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2 —
   Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_nu_f2__Q03
 parent: src_obm_2004_nu_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove sub-multiplicative inequality for matrix norm and dilation factor*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WVgS-I5YT_klW86nflai_QTNcRLnc5kh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Demonstra la disuguaglianza sub-multiplicativa per la norma di matrice e il fattore di dilatazione*
+
+> Che $A$ sia una matrice invertibile reale dell'ordine $n$ e $A^t$ la sua trasposizione. $\lambda_1\ge\lambda_2\ge\cdots\ge\lambda_n>0$ siano i valori propri di $A^tA$. Definire la norma ** di $A$ con $\|A\|=\sqrt{\lambda_1}$ e il fattore di dilatazione ** di $A$ con $d(A)=\sqrt{\dfrac{\lambda_1}{\lambda_n}}$.
+> 
+> Prova che, per due matrici invertibili reali $A$ e $B$, $$d(AB)\le\frac{\|AB\|}{\|A\|\cdot\|B\|}\,d(A)\cdot d(B).$$
+
+[[src_obm_2004_nu_f2__Q03]]

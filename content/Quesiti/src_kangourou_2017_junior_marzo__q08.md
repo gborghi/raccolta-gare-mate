@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q08
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Euro per estrarre almeno 3 biglie stesso colore*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Euro to extract at least 3 bags of the same colour*
+
+> In one bag there are 203 red balloons, 117 green balloons and 28 white balloons. The extraction of a ticket costs €1. How many euros must we be willing to spend if we want to be sure to extract at least three beads of the same colour? A) 3
+> 	
+> B) 6
+> 	
+> C) 7
+> 	
+> D) 28
+> 	
+> E) 203
+
+**Answer:** C
+[[src_kangourou_2017_junior_marzo__Q08]]

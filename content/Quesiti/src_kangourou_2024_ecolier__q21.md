@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Ecolier 2024 — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier__Q21
 parent: src_kangourou_2024_ecolier
 competition: Kangourou Categoria Ecolier 2024
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti modi due rane saltano mantenendo due per riga/colonna*
 
@@ -56,3 +59,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many ways two frogs jump by keeping two per row/column*
+
+![[src_kangourou_2024_ecolier__prob21.png]]
+
+> Look at the figure: there are exactly two frogs in each row and in each column. Two frogs jump at the same time and each lands in an empty box near the one from which it jumped, a box that has a side in common with it. After that, there are two frogs in each row and column. In how many ways can this happen? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 5
+
+**Answer:** D
+[[src_kangourou_2024_ecolier__Q21]]

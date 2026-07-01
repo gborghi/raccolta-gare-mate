@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q03
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero di pietre puo ottenere Maciste (+4 per colpo)*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many stones can Maciste get (+4 per shot) < MSK1/>
+
+> Maciste initially has seven stones and a hammer that breaks any stone into exactly five smaller stones. What number of stones can you get, among the following? A) 17
+> 	
+> B) 20
+> 	
+> C) 21
+> 	
+> D) 23
+> 	
+> E) 25
+
+**Answer:** D
+[[src_kangourou_2018_student_marzo__Q03]]

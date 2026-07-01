@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q17
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum remainder after distributing marbles to 10 children in arithmetic sequence*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il residuo minimo dopo aver distribuito i marmi a 10 bambini in sequenza aritmetica*
+
+> João vuole sbarazzarsi della sua collezione di marmi. Per farlo sceglie ragazzi della sua strada. Il primo ragazzo gli dà marmi $x$, il secondo ragazzo $x + 1$ marmi, e così via, dando sempre un marmo in più al prossimo ragazzo rispetto al precedente, fino a quando non raggiunge il decimo ragazzo. Alla fine, a João resta il minor residuo possibile $x$. Il valore di $x$ è:
+>
+> - **(A)** $94$
+> - **(B)** $95$
+> - **(C)** $96$
+> - **(D)** $97$
+> - **(E)** $98$
+
+**Risposta:** B
+[[src_obm_1998_n1_f1__Q17]]

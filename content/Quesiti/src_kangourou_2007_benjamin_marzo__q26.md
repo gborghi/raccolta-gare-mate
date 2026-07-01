@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q26
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero pensato da Elisa (operazioni ignote)*
 
@@ -68,3 +71,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number thought by Elisa (unknown operations) < MSK1/>
+
+> Elisa came up with a whole number. Marco multiplied it by 5 or by 6, but we don't know which of the two. Sonia added to Mark's result one of the two numbers 5 or 6, but we don't know which one. Dino subtracted from Sonia's result one of the two numbers 5 or 6, but we don't know which one. Finally, Dino communicated the result: 73. What number did Elisa think of? A) it is not possible to know B) 11 C) 12 D) 14 E) 15 A B 4 6 6 4 4 5 4 a b c d
+> 
+> I'm going to pay. I'm going to pay. 15 15 Kang 2007 Kang 2007
+
+**Answer:** C
+[[src_kangourou_2007_benjamin_marzo__Q26]]

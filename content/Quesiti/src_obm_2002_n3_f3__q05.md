@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f3__Q05
 parent: src_obm_2002_n3_f3
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Finite set of unit squares with area 4; rearrange to cover a unit square*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1P0nci9SiA7xXrHnMSEaRv6-dmdjZQyLj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieme finito di quadrati unitari con area 4; riorganizzare per coprire un quadrato unitario*
+
+> Abbiamo un insieme finito di quadrati, di superficie totale $4$. dimostrare che è possibile organizzarli in modo da coprire un quadrato di lato $1$.
+> 
+> **Obs:** È consentito che i quadrati si sovrappongano e parti di essi possono estendersi oltre i confini del quadrato da coprire.
+
+[[src_obm_2002_n3_f3__Q05]]

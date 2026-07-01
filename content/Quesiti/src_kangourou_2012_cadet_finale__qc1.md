@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Finale Cadet (Mirabilandia) — Quesito C1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet_finale__QC1
 parent: src_kangourou_2012_cadet_finale
 competition: Kangourou 2012 Finale Cadet (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante biglie marroni tra le 20 di Elena*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dAQ2UBRUIZY90-KiQxqdHKt0edOWJpGd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many brown balls in Elena's 20< MSK1/>
+
+> Elena has 20 balls, each colored with one and only one of the following colors: green, red, blue, brown. 17 are not green, 5 are red, 12 are not blue. How many brown balls are there?
+
+**Answer:** 4
+[[src_kangourou_2012_cadet_finale__QC1]]

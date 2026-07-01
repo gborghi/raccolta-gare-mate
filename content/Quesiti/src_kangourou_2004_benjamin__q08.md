@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q08
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Carote mangiate dalla madre coniglio*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Carrots eaten by the rabbit mother
+
+> The three members of a rabbit family ate a total of 73 carrots. His father ate five more carrots than his mother. Bunny's son ate 12 carrots. How many carrots did your mother eat? A) 27 B) 28 C) 31 D) 33          E) 56
+
+**Answer:** B
+[[src_kangourou_2004_benjamin__Q08]]

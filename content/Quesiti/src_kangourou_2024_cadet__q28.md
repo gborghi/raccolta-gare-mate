@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q28
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi ha scritto il vero sulla pergamena (30 monete)*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who wrote the truth on the parchment (30 coins)
+
+![[src_kangourou_2024_cadet__prob28.png]]
+
+> Captain Flint has asked four of his pirates to write on a parchment how many of the 30 coins in the treasure trunk are gold, how many are silver, and how many are bronze. In the figure, you see the scroll torn apart with only one part of each one's answers. It is known that only one pirate wrote the truth on the scroll, while the other three wrote the false in each of the three voices. Is it possible to determine with certainty who wrote the truth and if so who is it? A) Yes, Tom. B) Sì, Al. C) Yes, Pit. D) Yes, Jim. E) It cannot be established with certainty.
+
+**Answer:** B
+[[src_kangourou_2024_cadet__Q28]]

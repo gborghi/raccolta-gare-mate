@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f1__Q10
 parent: src_obm_2013_n1_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of plus signs in 2013^2013 + ... = 2013^2014*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZFAopdNjG-Ynm1d9LROcVImmCRs-HuH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di segni più nel 2013^2013 + ... = 2013^2014*
+
+> Nell'aggiunta dei termini uguali $2013^{2013} + 2013^{2013} + \cdots + 2013^{2013} = 2013^{2014}$, scritti in forma semplificata, sono stati scritti molti segni di aggiunta $(+)$. Quante sono state scritte?
+> 
+> (A) $1006$ \quad (B) $2009$ \quad (C) $2012$ \quad (D) $2014$ \quad (E) $4026$
+
+[[src_obm_2013_n1_f1__Q10]]

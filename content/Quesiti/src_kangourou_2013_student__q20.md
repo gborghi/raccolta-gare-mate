@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q20
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *f(2013) per f periodica di periodo 5*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total value of the own funds of the institution.
+
+> Whether f is the real function defined on the whole real axis by the following properties: • f is periodic of period 5; • the law describing the restriction of f to the interval [2, 3[ is f (x) = x2 . How much is f (2013)? A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 4
+> 	
+> E) 9
+> 
+> The questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** D
+[[src_kangourou_2013_student__Q20]]

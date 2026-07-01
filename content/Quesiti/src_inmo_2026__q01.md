@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2026 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2026__Q01
 parent: src_inmo_2026
 competition: Indian National Mathematical Olympiad 2026
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine which positive integers m occur as a perfect-square term m^2 in a floor-of-square-root recurrence sequence.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ffwcPTmw5kJZuKkanVDFlqLhvUS6FxGr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Determine quali integri positivi m si verificano come termine m^2 a quadrato perfetto in una sequenza di ricorrenza a radice quadrata del pavimento.*
+
+> Che $x_1, x_2, x_3, \ldots$ sia una sequenza di integri positivi definita come segue: $x_1 = 1$ e per ogni $n \ge 1$ abbiamo $$x_{n+1} = x_n + \lfloor \sqrt{x_n} \rfloor.$$ Determinare tutti gli integri positivi $m$ per i quali $x_n = m^2$ per alcuni $n \ge 1$. (Qui $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$ per ogni numero reale $x$.)
+
+[[src_inmo_2026__Q01]]

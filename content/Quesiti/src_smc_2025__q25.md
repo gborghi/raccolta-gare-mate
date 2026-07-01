@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q25
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two squares OPQR (area 25) and OSTU; S lies on QV; triangle UQV has right angle at V; find area of OSTU.*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due quadrati OPQR (area 25) e OSTU; S si trova su QV; triangolo UQV ha angolo retto a V; trovare superficie di OSTU.*
+
+> Il diagramma mostra due quadrati $OPQR$ e $OSTU$. Il triangolo $UQV$ ha un angolo retto a $V$. Il quadrato $OPQR$ ha area 25. Il punto $S$ si trova su $QV$. Qual è la superficie del quadrato $OSTU$?
+>
+> - **(A)** 36
+> - **(B)** 45
+> - **(C)** 50
+> - **(D)** 54
+> - **(E)** 60
+
+![[src_smc_2025__Q25.png]]
+
+**Risposta:** C
+[[src_smc_2025__Q25]]

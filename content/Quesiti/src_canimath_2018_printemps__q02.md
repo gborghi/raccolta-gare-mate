@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2018 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2018_printemps__Q02
 parent: src_canimath_2018_printemps
 competition: Coupe Animath Printemps 2018
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compare two sums A and B involving reciprocals*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Compare due somme A e B che comportano reciprocità*
+
+> a) Let < MSK0/> e < MSK1/>. Mostra che $A > B$.
+> 
+> b) Let < MSK0/> e < MSK1/>. Mostra che $A > B$.
+
+[[src_canimath_2018_printemps__Q02]]

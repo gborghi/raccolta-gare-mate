@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2019 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2019__Q08
 parent: src_garaprime_2019
 competition: Gara Nazionale Classi Prime 2019
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali tra a,b,c sono cubi perfetti*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GTzdagqUQpCUSYBLrYJmJaKl7DQUIbtK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Those between a,b,c are perfect cubes*
+
+> The numbers a = 132132, b = 913 −324 and c = 998800 are given. Which of these are perfect cubes? A only b b only a and b c only a and c d only b and c and all f none
+
+**Answer:** A
+[[src_garaprime_2019__Q08]]

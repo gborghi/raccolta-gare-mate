@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo21yqa_yosen__Q01
 parent: src_jjmo21yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest integer with 6 divisors and digit sum 7*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 52
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11kigjl_Wt-al8ocndA12n0n3x8dtw2E3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il numero intero più piccolo con 6 divisori e somma a 7 cifre*
+
+> Un intero positivo che ha esattamente $6$ divisori positivi e la cui somma digitali è uguale $7$ è chiamato "numero di quest'anno". Ad esempio, $2023$ è un numero di quest'anno. Trova il numero più piccolo di quest'anno.
+
+**Risposta:** 52
+[[src_jjmo21yqa_yosen__Q01]]

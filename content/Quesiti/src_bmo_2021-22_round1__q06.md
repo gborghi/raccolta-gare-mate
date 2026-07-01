@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2021-22 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2021-22_round1__Q06
 parent: src_bmo_2021-22_round1
 competition: British Mathematical Olympiad 2021-22 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count lists of 71 integers summing to 999,999 with given recurrence*
 
@@ -51,3 +54,21 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ldnNBiWXMyvCmwHuX6A7qXhF4AqgZKYU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Listi di conteggio di 71 numeri interi che sommano 999.999 con una data ricorrenza*
+
+> A Marvin è stato incaricato di scrivere ogni elenco di numeri interi con le seguenti proprietà:
+> 
+> I) L'elenco contiene 71 termini.
+> 
+> (ii) Il primo termine è $1$.
+> 
+> (iii) Ogni termine dopo il primo è uguale al termine precedente o alla somma di tutti i termini precedenti.
+> 
+> Quando Marvin sarà finito, quante delle liste avranno una somma uguale a $999{,}999$?
+
+[[src_bmo_2021-22_round1__Q06]]

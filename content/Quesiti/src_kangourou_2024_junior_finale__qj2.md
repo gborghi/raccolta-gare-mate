@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Junior 2024 — Quesito J2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_finale__QJ2
 parent: src_kangourou_2024_junior_finale
 competition: Kangourou Finale Junior 2024
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Due triangoli con due lati e un'altezza uguali sono congruenti*
 
@@ -53,3 +56,33 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Y-tp_mTp0sC1jmwY30azSLfiSncH3a5p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Two triangles with two sides and equal height are congruent*
+
+![[src_kangourou_2024_junior_finale__probJ2.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (B) at (0,0);
+  \coordinate (C) at (2,0);
+  \coordinate (D) at (4.5,0);
+  \coordinate (A) at (2,2.5);
+  \fill[blue!30] (A) -- (C) -- (D) -- cycle;
+  \draw[thick] (A) -- (B) -- (C) -- cycle;
+  \draw[thick] (A) -- (C) -- (D) -- (A);
+  \node[above] at (A) {$A$};
+  \node[below left] at (B) {$B$};
+  \node[below] at (C) {$C$};
+  \node[below right] at (D) {$D$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Two triangles are given. The lengths of two of the sides of one shall coincide with the lengths of two of the sides of the other and the height relative to the third side of one shall coincide with that relative to the third side of the other. Are the two triangles necessarily congruent?
+
+[[src_kangourou_2024_junior_finale__QJ2]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale_a__Q11
 parent: src_kangourou_2019_ecolier_semifinale_a
 competition: Kangourou Coppa Ecolier squadre 2019 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di spartire 50 mele con vincoli*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0029
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Mode of dividing 50 apples with constraints< MSK1/>
+
+> Alice, Bianca and Claudia want to split 50 apples (without cutting them) so that Alice gets at least 14, Bianca gets at least 9, and Claudia gets 12 or 15. How many different ways can they do that?
+
+**Answer:** 0029
+[[src_kangourou_2019_ecolier_semifinale_a__Q11]]

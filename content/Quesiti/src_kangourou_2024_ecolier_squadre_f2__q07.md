@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre_f2__Q07
 parent: src_kangourou_2024_ecolier_squadre_f2
 competition: Kangourou Squadre 2024 Ecolier Finale 2
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chilometri per litro di benzina*
 
@@ -62,3 +65,34 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0022
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The amount of fuel used shall be calculated on the basis of the following information:
+
+![[src_kangourou_2024_ecolier_squadre_f2__prob7.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw[thick] (0,0) -- (6,0);
+  \fill (0,0) rectangle (0.15,0.15);
+  \node[above] at (0,0.15) {$A$};
+  \fill (2,0) circle (3pt);
+  \node[above] at (2,0.1) {$B$};
+  \fill (4.5,0) circle (3pt);
+  \node[above] at (4.5,0.1) {$C$};
+  \fill (6,0) circle (3pt);
+  \node[above] at (6,0.1) {$D$};
+  \node[below] at (3.25,0) {54 km};
+  \node[below] at (5.25,0) {23 km};
+\end{tikzpicture}
+\end{document}
+```
+
+> The gasoline with my car is at a gas station located in point A shown in the figure. Starting from A with only 6 liters of gasoline, I would stop at point B, which is 54 km from point C. Instead, with nine and a half litres, I would stop, always for lack of gasoline, at point D which is 23 km beyond point C. How many miles does my car travel with a gallon of gasoline? The answer is 0022.
+
+**Answer:** 0022
+[[src_kangourou_2024_ecolier_squadre_f2__Q07]]

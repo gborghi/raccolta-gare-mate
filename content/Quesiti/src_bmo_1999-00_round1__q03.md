@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1999-00 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1999-00_round1__Q03
 parent: src_bmo_1999-00_round1
 competition: British Mathematical Olympiad 1999-00 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find point on triangle perimeter minimising sum of distances to vertices*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jXrypnD0VZ-T2J0x_R-FJ1Z-nveBfTYT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto di ritrovamento sul perimetro del triangolo riducendo al minimo la somma delle distanze verso i vertici*
+
+> Il triangolo $ABC$ ha angoli $60^\circ$, $75^\circ$, $45^\circ$ rispettivamente a $A$, $B$ e $C$. Un punto $P$ sul perimetro del triangolo è tale da ridurre al minimo $$AP + BP + CP$$. Trova la posizione di $P$.
+
+[[src_bmo_1999-00_round1__Q03]]

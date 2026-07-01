@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Finale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_f__Q08
 parent: src_kangourou_2017_squadre_f
 competition: Kangourou Coppa Squadre 2017 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo euro nella giacca con vincoli sulle tasche*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 23
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum euro in the jacket with pocket restrictions*
+
+> My jacket has four pockets, each containing a different number of one-euro coins. Pocket A contains less than B, B less than C and C less than D. In addition, the content of D is less than that of A and B together and that of B and C together is less than that of A and D together. How much do I have in my jacket at least?
+
+**Answer:** 23
+[[src_kangourou_2017_squadre_f__Q08]]

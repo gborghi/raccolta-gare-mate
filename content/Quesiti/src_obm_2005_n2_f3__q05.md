@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f3__Q05
 parent: src_obm_2005_n2_f3
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove 1^2005 + 2^2005 + ... + 2005^2005 is divisible by 1+2+...+2005*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qikjZ95ZyXid25_31zk99bAk_4evNgeC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Prova 1^2005 + 2^2005 + ... + 2005^2005 è divisibile per 1+2+...+2005*
+
+> Provare che il numero $1^{2005} + 2^{2005} + 3^{2005} + \cdots + 2005^{2005}$ è un multiple di $1 + 2 + 3 + \cdots + 2005$.
+
+[[src_obm_2005_n2_f3__Q05]]

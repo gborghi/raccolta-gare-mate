@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2008 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2008__Q01
 parent: src_cn_cgmo_2008
 competition: China Girls' Mathematical Olympiad 2008
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divide sets into 3-element subsets with equal element sums*
 
@@ -49,3 +52,16 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Divisioni di set in sottoinsiemi di 3 elementi con somme di elementi uguali*
+
+> (1) Si può suddividere l'insieme $\{1, 2, \ldots, 96\}$ in 32 sottoinsiemi, ciascuno contenente tre elementi, e la somma dei tre elementi di ciascun sottoinsieme è uguale?
+> 
+> (2) Si può suddividere l'insieme $\{1, 2, \ldots, 99\}$ in 33 sottoinsiemi, ognuno contenente tre elementi, e le somme dei tre elementi di ciascun sottoinsieme sono tutte uguali? (Posato da Liu Shixiong)
+
+**Risposta:** (1) No; (2) Yes
+[[src_cn_cgmo_2008__Q01]]

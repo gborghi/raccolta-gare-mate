@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2013 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2013__Q13
 parent: src_bocconi_autunno_2013
 competition: Giochi d'Autunno 2013
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del triangolo isoscele ABC con BD=6 e area AEFD=6.*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $16 \text{ cm}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of isosceles triangle ABC with BD=6 and area AEFD=6.*
+
+> In the $ABC$ triangle, $AB = AC$ are equal and $D$, $E$, $F$ are points on the respective sides. The side $BD$ is $6$ cm long and the area of the quadrilateral $AEFD$ is $6\ \text{cm}^2$.
+> 
+> What is the perimeter of the $ABC$ triangle?
+
+![[src_bocconi_autunno_2013__Q13.png]]
+
+**Answer:** 16 \text{ cm}
+[[src_bocconi_autunno_2013__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre semifinale turno A — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q14
 parent: src_kangourou_2011_squadre_semifinale
 competition: Kangourou 2011 squadre semifinale turno A
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri rimasti dopo cancellazioni iterate (1997 cancellato)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 673
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers remaining after repeated deletions (1997 deleted) *
+
+> /deleted numbers The integers from 1 to 2011 included are written in the order: 1, 2, ... , 2011. They are then deleted, in order, the second, fourth, sixth and so on. Then, of the remaining numbers, they are deleted in the order, the third, the sixth, the ninth and so on. Of the remaining numbers, the fourth, eighth, twelfth and so on are now deleted. This criterion continues, increasing the deletion step by one unit over the remaining numbers. The 1997 issue has just been deleted: how many numbers are still written?
+
+**Answer:** 673
+[[src_kangourou_2011_squadre_semifinale__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 2023 papers — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2023__Q02
 parent: src_imo_2023
 competition: IMO 2023 papers
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tangente a omega in P incontra BS sul bisettore*
 
@@ -38,3 +41,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Omega tangent in P meets BS on the visor< MSK1/>
+
+> Whether $ABC$ is an acute triangle with $AB < AC$. Whether $\Omega$ the circumscribed circumference of $ABC$. Whether $S$ is the middle point of the $CB$ arc of $\Omega$ containing $A$. The perpendicular from $A$ to $BC$ meets $BS$ in $D$ and meets $\Omega$ again in $E \neq A$. The line for $D$ parallel to $BC$ meets the line $BE$ in $L$. Whether $\omega$ the circumference circumscribed at the $BDL$ triangle. Be $P \neq B$ the second intersection point of $\omega$ with $\Omega$.
+> 
+> Demonstrate that the tangent to $\omega$ in $P$ meets the line $BS$ on the inner beam of $\angle BAC$.
+
+[[src_imo_2023__Q02]]

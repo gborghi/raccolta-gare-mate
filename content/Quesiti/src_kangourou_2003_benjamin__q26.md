@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q26
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato della somma a destra coi simboli*
 
@@ -72,3 +75,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Result of the sum on the right with the symbols *
+
+> Each symbol corresponds to one and only one of the digits 0, 1, 2, ..., 9 and to different symbols correspond different digits. You know the result of the sum on the left. What's the result of the sum on the right? A)  6 B)  7 C) 8 D) 9 E) 13 65 68 67 78 45 59 59 63 43 56 2 0 0 3 = ? A B 1 cm 1 cm 100 cm 100 cm + + = +
+> 
+> I'm going to pay. I'm going to pay. 15 15 Kang 2003 Kang
+
+**Answer:** A
+[[src_kangourou_2003_benjamin__Q26]]

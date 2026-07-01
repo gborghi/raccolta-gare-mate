@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo20yq_yosen__Q01
 parent: src_jmo20yq_yosen
 competition: Japan Mathematical Olympiad 2010 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integer 6-tuples with strict order and equal pairwise sums 22*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta un intero positivo di 6 doppi con ordine rigoroso e pari somme in coppia 22*
+
+> Trova il numero di 6 tupli $(a,b,c,d,e,f)$ di numeri interi positivi soddisfaci $a > b > c > d > e > f$ e $a + f = b + e = c + d = 22$.
+
+**Risposta:** 4
+[[src_jmo20yq_yosen__Q01]]

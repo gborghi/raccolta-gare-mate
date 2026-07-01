@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo25yq_yosen__Q01
 parent: src_jmo25yq_yosen
 competition: Japan Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count divisors of 6000 that are not perfect squares*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 34
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1puWzUo8OLdW2kCIHzGHhZaVauCRdH9Ya/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare divisori di 6000 che non sono quadrati perfetti*
+
+> Quanti divisori positivi di $6000$ non sono quadrati perfetti?
+
+**Risposta:** 34
+[[src_jmo25yq_yosen__Q01]]

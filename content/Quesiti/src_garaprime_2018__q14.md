@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2018 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2018__Q14
 parent: src_garaprime_2018
 competition: Gara Nazionale Classi Prime 2018
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cammino minimo sulla superficie di un ottaedro*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XzoWDlSETOE6ynBaPWQsIvAiUafgaOrc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum path on the surface of an octahedron*
+
+![[src_garaprime_2018__prob14.png]]
+
+> A small planet has the shape of a regular octahedron with a side of 720 kilometers. The only inhabitant of the planet is in the middle of one of the spines and wants to go to the middle of the spine diametrically opposite to the one on which he is walking on the surface of the planet. What's the minimum number of miles he has to travel? A 1080 B 1440 C 900 D 720 E 960 F 1200
+
+**Answer:** A
+[[src_garaprime_2018__Q14]]

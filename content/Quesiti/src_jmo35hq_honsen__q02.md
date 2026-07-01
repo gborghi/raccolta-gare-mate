@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2025 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo35hq_honsen__Q02
 parent: src_jmo35hq_honsen
 competition: Japan Mathematical Olympiad 2025 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcenters of sub-triangles with circumcenter; collinearity proof*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GuPXGAl_7m7YyhnChIywbUec7G9_S963/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circumcenti di sotto-triangoli con circoncentro; prova di collinearietà*
+
+> $ABC$ sia un triangolo acuto con il centro circundante $O$. $O_1$ e $O_2$ siano rispettivamente i circoncentri dei triangoli $ABO$ e $ACO$. Il circoncircolo del triangolo $AO_1O_2$ incontra la linea $BC$ a due punti distinti $P$ e $Q$. Lasciate che $O_3$ sia il centro circundante del triangolo $OPQ$. Prove che i tre punti $A$, $O$ e $O_3$ sono collineari.
+
+[[src_jmo35hq_honsen__Q02]]

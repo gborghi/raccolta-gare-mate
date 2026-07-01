@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2024-25 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2024-25_round2__Q02
 parent: src_bmo_2024-25_round2
 competition: British Mathematical Olympiad 2024-25 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove D lies on circle AQP in acute triangle configuration*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19GTqbDo2xCiXZF4NdAfLAruAN7LAIYD8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La prova D si trova su AQP di cerchio in configurazione triangolare acuta*
+
+> In un triangolo angolato acuto $ABC$ con $AB < AC$, l'incentro è $I$ e il bisettore perpendicolare di $BC$ incontra $BI$ a $P$ e $CI$ a $Q$. I cerchi $BIQ$ e $CIP$ si incontrano di nuovo a $X$. Le linee $AX$ e $BC$ si incontrano a $D$.
+> 
+> Provare che $D$ si trova sul cerchio $AQP$.
+
+[[src_bmo_2024-25_round2__Q02]]

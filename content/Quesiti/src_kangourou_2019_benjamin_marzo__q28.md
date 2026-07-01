@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q28
 parent: src_kangourou_2019_benjamin_marzo
 competition: Kangourou 2019 Gara di Marzo Benjamin
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione bianca massima della superficie del cubo 4x4x4*
 
@@ -66,3 +69,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1mCVu8mcZWozh4A9IixxiUAmKQbLsElwm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum white fraction of the surface of the cube 4x4x4*
+
+> Lina obtained a cube by approaching 64 cubes all of the same size, 32 white and 32 black, and made the white part of the surface of the large cube as wide as possible. What fraction of the surface of the large cube appears white? A) 3/4 B) 4/7
+> 	
+> C) 1/2 D) 2/3 E) 5/12 +1 +1 × 3 + 2 × 2 1 9 7 6 8 6 4 5 9 1 9 7 3 6 6 8 2 5 3 4 after the intervention of Gianna after the intervention of Albert
+>
+
+**Answer:** A
+[[src_kangourou_2019_benjamin_marzo__Q28]]

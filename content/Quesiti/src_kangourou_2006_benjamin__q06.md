@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q06
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Figura con angolo lancette di 150 gradi*
 
@@ -38,3 +41,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Figure with a 150 degree angle of incision*
+
+![[src_kangourou_2006_benjamin__prob6.png]]
+
+> Choose the figure in which the smaller of the two angles formed by the two hands of the clock measures 150°.
+
+**Answer:** E
+[[src_kangourou_2006_benjamin__Q06]]

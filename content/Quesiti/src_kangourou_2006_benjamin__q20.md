@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q20
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordine dei cinque punti sul segmento OE*
 
@@ -63,3 +66,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Order of the five points on the segment OE*
+
+> One OE segment is 2006 meters long. On it we identify three points A, B, C so that the segments OA and BE measure 1111 meters and the length of OC is 70% of OE. Starting from the O extreme, in what order are the five points? (a) OASB (b) OASB (c) OASB (d) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) OASB (e) A B Benjamin_06.qxp 20/02/2006 23.56 Page 13
+> 
+> I'm going to pay. I'm going to pay. 14 14 Kang 2006 Kang 2006 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** E
+[[src_kangourou_2006_benjamin__Q20]]

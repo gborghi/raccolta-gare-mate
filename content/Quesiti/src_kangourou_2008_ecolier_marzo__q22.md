@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q22
 parent: src_kangourou_2008_ecolier_marzo
 competition: Kangourou 2008 - Ecolier (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante date leggibili al contrario*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 34
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Y2PPk0y8EAPu9XdVwcxKDHQ2tA4fBFmN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many dates are readable in reverse*
+
+> If you read the date 21.02 (February 21) from right to left, you get 20.12 and in this case it is still a possible date (December 20). However, the date 10.09 (10 September) does not have this property (there is no date 90 January). How many dates in a year do they have this property (i.e. are like February 21st)? A) 30 B) 18 C) 36 D) 35 E) Depends on the year
+
+**Answer:** 34
+[[src_kangourou_2008_ecolier_marzo__Q22]]

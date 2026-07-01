@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2007 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2007__Q04
 parent: src_inmo_2007
 competition: Indian National Mathematical Olympiad 2007
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count permutations of (1,...,n) with exactly two inversions*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\dfrac{(n+1)(n-2)}{2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GDB9h1f2j9Id2KXkRQkP-aK4nL-Se5hG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contate le permutazioni di (1,...,n) con esattamente due inversioni*
+
+> $\sigma = (a_1, a_2, a_3, \ldots, a_n)$ sia una permutazione di $(1, 2, 3, \ldots, n)$. Una coppia $(a_i, a_j)$ corrisponde ad un'inversione di $\sigma$, se $i < j$ ma $a_i > a_j$. (Esempio: nella permutazione $(2, 4, 5, 3, 1)$, ci sono $6$ inversioni corrispondenti alle coppie $(2,1)$, $(4,3)$, $(4,1)$, $(5,3)$, $(5,1)$, $(3,1)$.) Quante permutazioni di $(1, 2, 3, \ldots, n)$, $(n \ge 3)$ hanno esattamente ** due** inversioni?
+
+**Risposta:** $\dfrac{(n+1)(n-2)}{2}$
+[[src_inmo_2007__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Triennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_triennio__Q08
 parent: src_archimede_2026_triennio
 competition: Giochi di Archimede 2026 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Polinomio che concatena cifre 4, valore p(10)*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Polynomial containing 4 digits, value p(10) *
+
+> Henry is writing, in alphabetical order, all the possible anagrams of the word NUMERO. What position does the word NUMBER occupy in this list?
+>
+> - **(A)** la 341a
+> - **(B)** la 344a
+> - **(C)** la 361a
+> - **(D)** la 337a
+> - **(E)** la 336a
+
+**Answer:** B
+[[src_archimede_2026_triennio__Q08]]

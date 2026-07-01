@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f1__Q11
 parent: src_obm_1998_n3_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *On a calculator, key A maps x to 1/x and key 2 doubles; starting from 2, the sequence ABABAB...AB (998 keystrokes) is typed. Find the resulting number.*
 
@@ -57,3 +60,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Su una calcolatrice, la chiave A mappa da x a 1/x e la chiave 2 è doppia; a partire da 2, viene digitata la sequenza ABABAB...AB (998 tasti). Trova il numero risultante.*
+
+> Su una calcolatrice, la chiave $A$ trasforma il numero $x$ sul display in $\dfrac{1}{x}$ e la chiave $2$ moltiplica per $2$ il numero sul display. Se il numero $2$ è sul display e digitamo la sequenza ABABABAB...AB (total di $998$ tastiere), il numero che apparirà sul display è uguale a:
+> 
+> A) $1$
+> 
+> B) $2^{498}$
+> 
+> C) $2^{500}$
+> 
+> D) $2^{499}$
+> 
+> E) $2^{501}$
+
+**Risposta:** A
+[[src_obm_1998_n3_f1__Q11]]

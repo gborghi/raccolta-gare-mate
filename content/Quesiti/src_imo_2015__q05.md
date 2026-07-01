@@ -1,6 +1,7 @@
 ---
 title: IMO 2015 papers — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2015__Q05
 parent: src_imo_2015
 competition: IMO 2015 papers
@@ -26,6 +27,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Equazione funzionale f(x+f(x+y))+f(xy)=...*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the functional equation f(x+f(x+y))+f(xy) =...*
+
+> Let $\mathbb{R}$ denotes the set of real numbers. Determine the functions $f : \mathbb{R} \to \mathbb{R}$ satisfying the equation $$f(x + f(x + y)) + f(xy) = x + f(x + y) + y f(x)$$ for all real numbers $x$ and $y$.
+
+[[src_imo_2015__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q23
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero strette di mano tra 12 studenti adiacenti*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of handshakes between 12 adjacent students*
+
+> In a classroom there are 12 students sitting in 3 rows of 4 benches each. Students shake hands according to the following criterion: if two students are sitting on adjacent benches (diagonal included), they shake hands once and only once. How many handshakes are there in total? A) 12 B) 23 C) 24 D) 29 E) 36
+
+**Answer:** D
+[[src_kangourou_2005_benjamin__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q07
 parent: src_kangourou_squadre_2009_semifinale
 competition: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Vertici incontrati dalle diagonali di rettangolo 350x210*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0143
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Vertical points encountered by diagonal rectangles 350x210*
+
+> Transportation In a strange nation there are 13 cities that can be connected by one or more of the following means of transport: bus, train, plane. The President, the Vice-President and the Prime Minister must be able to visit each city, but each of the three refuses to use one of the three means: the President bus, the Vice-President train and the Prime Minister air. What is the smallest number of city-to-city connections to meet all needs?
+
+**Answer:** 0143
+[[src_kangourou_squadre_2009_semifinale__Q07]]

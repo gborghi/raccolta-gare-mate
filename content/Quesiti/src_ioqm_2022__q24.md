@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q24
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distribute 52 identical balls into 4 boxes, no box empty, pairwise differences not multiples of 6*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 81
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Distribuire 52 palle identiche in 4 scatole, nessuna scatola vuota, differenze in coppia non multipli di 6*
+
+> Il numero $N$ deve essere il numero di modi di distribuire 52 palle identiche in 4 scatole distinguibili in modo tale che nessuna scatola sia vuota e la differenza tra il numero di palle in due delle scatole non sia un multiple di 6. Se $N = 100a + b$, dove $a, b$ sono numeri interi positivi inferiori a 100, trovare $a + b$.
+
+**Risposta:** 81
+[[src_ioqm_2022__Q24]]

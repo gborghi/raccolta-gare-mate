@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q24
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza B-A di cubetti neri (cubo 3x3x3 tricolore)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Differential B-A of black cubes (three-colored 3x3x3 cube) < MSK1/>
+
+> 24. Giulia has some black cubes, some grey and some white cubes, all the same size, and she wants to use 27 of them to build a cube 3 × 3 × 3. He also wants the surface of this large cube to be one third black, one third gray and one third white. If A and B are respectively the smallest and largest number of black cubes you can use to achieve your goal, how much is the difference B  A worth? A) 1 B) 3 C) 6 D) 7 E) 9 249 ·3 23 ·5 12 ·7 8 ·1 14 ·1 34 ·1 73 ·1 92 ·2 32 ·2 9· 31 ·3 7· 41 ·4 3· 47 22. On alternate days, Charles tells the truth or lies all day long. In a certain journal, Charles made exactly four of the following statements. Which cannot have
+
+**Answer:** D
+[[src_kangourou_2024_junior__Q24]]

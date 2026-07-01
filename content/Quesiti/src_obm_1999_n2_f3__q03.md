@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n2_f3__Q03
 parent: src_obm_1999_n2_f3
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many times did Adriano and Bruno face each other in ping-pong?*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1k42zZ3BeWS0dfAnJGGJ3_oUUrRSrCFwC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Quante volte Adriano e Bruno si sono affrontati a ping-pong?
+
+> Adriano, Bruno e Carlos giocarono una serie di partite di table tennis. Ogni volta che un giocatore perdeva, veniva sostituito dal giocatore che aspettava. La prima partita è stata giocata tra Adriano e Bruno. È noto che Adriano ha vinto 12 partite e Bruno 21 partite. Quante volte Adriano e Bruno hanno giocato l'uno contro l'altro?
+
+[[src_obm_1999_n2_f3__Q03]]

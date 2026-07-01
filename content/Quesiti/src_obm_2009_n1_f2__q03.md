@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n1_f2__Q03
 parent: src_obm_2009_n1_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *From a 5-day attendance table where each student missed exactly 2 days, find what percent of total absences fell on the lowest-attendance day*
 
@@ -52,3 +55,17 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Da un tavolo di frequenza di 5 giorni in cui ogni studente ha perso esattamente 2 giorni, scopri quale percentuale delle assenze totali è diminuita il giorno di frequenza più basso< MSK1/>
+
+> Nel corso di cinque giorni, la frequenza degli studenti è stata registrata nella tabella seguente:
+> 
+> Il primo giorno della lezione Il secondo giorno Il terzo giorno Il quarto giorno Il quinto giorno Il quinto giorno Il numero degli studenti Presenti Il numero degli studenti Presenti
+> 
+> Ogni studente era assente esattamente due giorni. Il giorno del più basso numero di persone presenti, quale percentuale del totale delle assenze [si è verificata quel giorno]?
+
+[[src_obm_2009_n1_f2__Q03]]

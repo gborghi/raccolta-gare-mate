@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f1__Q17
 parent: src_obm_2016_n3_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of solutions of abc=b^2+c^2=c^2+a^2=a^2+b^2 with a,b,c nonzero*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Numero di soluzioni di abc=b^2+c^2=c^2+a^2=a^2+b^2 con a,b,c non zero*
+
+> Il sistema può essere riscritto come $abc=b^2+c^2=c^2+a^2=a^2+b^2$, con $a,b,c$ non-zero. Questo forza $a^2=b^2=c^2$. Supponendo $a=b=c$ si ottiene $a=b=c=2$, la soluzione $(2,2,2)$. Se $a=b=-c$, allora $a=b=-c=2$, dando $(2,2,-2)$; permutando questo triplo, si ottiene anche $(-2,2,-2)$ e $(2,-2,-2)$, per un totale di soluzioni $4$. Quante soluzioni ha il sistema? [Valore della chiave di risposta: $4$.]
+
+**Risposta:** D
+[[src_obm_2016_n3_f1__Q17]]

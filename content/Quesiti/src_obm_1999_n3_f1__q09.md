@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q09
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Range of x satisfying cos x = 1/4 with 0 < x < 90*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Range di x soddisfacente cos x = 1/4 con 0 < x < 90*
+
+> Se $0^\circ < x < 90^\circ$ e $\cos x = \dfrac{1}{4}$, allora $x$ si trova tra:
+> 
+> A) $0^\circ$ e $30^\circ$ \quad B) $30^\circ$ e $45^\circ$ \quad C) $45^\circ$ e $60^\circ$ \quad D) $60^\circ$ e $75^\circ$ \quad E) $75^\circ$ e $90^\circ$
+
+**Risposta:** D
+[[src_obm_1999_n3_f1__Q09]]

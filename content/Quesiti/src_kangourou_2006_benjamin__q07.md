@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q07
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo valore della differenza con cifre da inserire*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum value of the difference with digits to be entered*
+
+> Each time the symbol  appears in the expression 42−13, a figure must be inserted (not necessarily always the same); depending on the figures inserted, the resulting difference can take on different values. What 's the smallest of these values ? A) 3629        B) 3530     C) 2720           D) 2621          E) 2603
+
+**Answer:** D
+[[src_kangourou_2006_benjamin__Q07]]

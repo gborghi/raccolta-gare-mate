@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q10
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Diminuzione di volume nella solidificazione*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Reduction in volume in the solidification< MSK1/>
+
+> When a solid is liquefied, its volume increases by 1/12; how much less does its volume decrease when it solidifies? A) 1/10 B) 12
+> 	
+> (c) 1/12 D) 1/13 E) 13 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2013_student__Q10]]

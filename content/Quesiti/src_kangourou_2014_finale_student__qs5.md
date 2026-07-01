@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale nazionale Student — Quesito S5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_finale_student__QS5
 parent: src_kangourou_2014_finale_student
 competition: Kangourou 2014 finale nazionale Student
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo n caselle nere su griglia 8x8 con adiacenza*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 20
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J0eVc0n4KMj_riY1S4VFaIQwejE9Ln6P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum n black boxes on 8x8 grid with adjacency< MSK1/>
+
+> $n$ squares of one grid $8 \times 8$ are painted black, the others are white. Each square of the grid, whether white or black, is adjacent to (i.e. has a side in common with) a black square (different from it in the case of black). What is the minimum possible value for $n$?
+
+**Answer:** 20
+[[src_kangourou_2014_finale_student__QS5]]

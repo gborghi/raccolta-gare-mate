@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Semifinale individuale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q04
 parent: src_kangourou_2022_student_semifinale
 competition: Kangourou 2022 Student — Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *max area rettangolo*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>max rectangular area< MSK1/>
+
+![[src_kangourou_2022_student_semifinale__prob4.png]]
+
+> (4 points) In the figure you see a square divided into two gray rectangles and two squares. The two rectangles are congruent and inside each of the two squares is inscribed a circle. In each of the squares, the outside of the circle is painted black. The area of the region in black is 20 4  < MSK0/>). With a configuration like this, what is the maximum value of the area of each of the two rectangles when the two rays vary? A) 40 B) 40√2
+>  
+> C) 20 D) 40 / π E) None of the proposed numbers.
+
+**Answer:** A
+[[src_kangourou_2022_student_semifinale__Q04]]

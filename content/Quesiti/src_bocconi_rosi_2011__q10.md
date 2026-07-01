@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q10
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età di Debora con vincoli su tre gemelli*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 8 anni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Age of Deborah with constraints on three twins*
+
+> Deborah, Jacob, and Luke have a combined age of 32. Jacob and Luke are twins, while Deborah was born 4 years after Luke. What is Deborah's age?
+
+**Answer:** 8 anni
+[[src_bocconi_rosi_2011__Q10]]

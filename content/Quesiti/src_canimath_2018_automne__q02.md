@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2018 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2018_automne__Q02
 parent: src_canimath_2018_automne
 competition: Coupe Animath Automne 2018
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC, interior point O, sum of three parallel-line ratios equals 1*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC, punto interno O, somma di tre rapporti di linea parallela uguale a 1*
+
+> Che $ABC$ sia un triangolo e $O$ un punto all'interno di questo triangolo. La linea parallela a $(BC)$ che attraversa $O$ incontra $(CA)$ a $D$ e $(AB)$ a $E$. La linea parallela a $(CA)$ che attraversa $O$ incontra $(BC)$ a $F$. Qual è il valore della somma seguente? $$\frac{BF}{BC} + \frac{AE}{AB} + \frac{CD}{AC}$$
+
+**Risposta:** 1
+[[src_canimath_2018_automne__Q02]]

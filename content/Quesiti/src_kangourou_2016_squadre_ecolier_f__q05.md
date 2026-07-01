@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q05
 parent: src_kangourou_2016_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2016 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato quadrato tagliato in 36 quadrati (uno piu grande)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 18
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AmqdvgZVEwczaExdEeD0t4IQIsBaAuB7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Square side cut into 36 squares (one larger) < MSK1/>
+
+> Thirty-six squares A square is cut into 36 smaller squares. One of these has an area greater than 1 cm2, while all the others have an area of 1 cm2. How many centimeters does the side of the starting square measure?
+
+**Answer:** 18
+[[src_kangourou_2016_squadre_ecolier_f__Q05]]

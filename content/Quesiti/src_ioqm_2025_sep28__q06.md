@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q06
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -32,6 +33,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four distinct primes sum to 240, none greater than 70; find smallest*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro numeri primi distinti sommano a 240, nessuno più grande di 70; trovare il più piccolo *
+
+> La somma di quattro numeri primi distinti è 240. Se nessuno dei quattro numeri primi è più grande di 70, quale è il più piccolo dei quattro numeri?
+
+[[src_ioqm_2025_sep28__Q06]]

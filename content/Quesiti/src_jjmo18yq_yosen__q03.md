@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo18yq_yosen__Q03
 parent: src_jjmo18yq_yosen
 competition: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count palindromic integers not divisible by 10 between 1 and 10000*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 107
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi palindromici non divisibili per 10 tra 1 e 10000*
+
+> Tra i numeri interi positivi, un numero è chiamato palindromo (回文数) se si legge lo stesso avanti e indietro. Tra i palindromi tra $1$ e $10000$ (inclusi), si contano quelli che non sono multipli di $10$.
+
+**Risposta:** 107
+[[src_jjmo18yq_yosen__Q03]]

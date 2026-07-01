@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2013-14 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2013-14_round1__Q06
 parent: src_bmo_2013-14_round1
 competition: British Mathematical Olympiad 2013-14 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove weighted angle average lies between 60 and largest angle*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgsYrm3l_qNtt2ZM0eyq3HtunDHw6TCQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>La media ponderata dell'angolo di prova si trova tra 60 e l'angolo più grande< MSK1/>
+
+> Gli angoli $A$, $B$ e $C$ di un triangolo sono misurati in gradi, e $A$, $B$ e $C$ sono interi positivi con $A + B + C = 180$. Le lunghezze dei lati opposti sono rispettivamente $a$, $b$ e $c$. Prova che $$60 \leq \frac{aA + bB + cC}{a + b + c} \leq C$$ dove $C$ è l'angolo più grande e $c$ è il lato più lungo corrispondente.
+
+[[src_bmo_2013-14_round1__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_pubblico__Q04
 parent: src_archimede_2002_pubblico
 competition: Archimede 2002 - Gara del Pubblico (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *minimo dell'espressione razionale*
 
@@ -177,3 +180,64 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0501
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*minimum of the rational expression*
+
+>  4  ,    
+> 
+>  	    	# 	
+> 
+> 
+
+>       
+> 
+	
+>      
+
+> 
+> 
+> 
+> 	   
+	
+>  
+> 	
+>        	
+> 
+>     
+> 
+> 
+> 	        
+> 
+	
+>   	    	 
+> 
+
+>  	 
+> 	
+>    	 	    
+
+
+>  
+> 
+>   
+> 
+> 
+>   
+> 
+> 
+>   
+> 
+>    ;	
+> 
+>   ' "!!" . 3 <
+> 
+>  	   <   .
+> 
+>  .
+
+**Answer:** 0501
+[[src_archimede_2002_pubblico__Q04]]

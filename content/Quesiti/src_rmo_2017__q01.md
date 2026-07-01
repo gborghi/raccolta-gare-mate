@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2017 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2017__Q01
 parent: src_rmo_2017
 competition: Regional Mathematical Olympiad 2017
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Construct line segment CD using compass/ruler given angle and ratio*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aTvWjjCyaztnP6zBTHomfMlYOKdjp_YI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Construire un CD di segmento di linea utilizzando una bussola/regola con angolo e rapporto dati*
+
+> Il punto $AOB$ deve essere un angolo determinato inferiore a $180^\circ$ e il punto $P$ deve essere un punto interno della regione angolare determinata da $\angle AOB$. Mostra, con la prova, come costruire, utilizzando solo la regola e le buste, un segmento di linea $CD$ che passa attraverso $P$ in modo tale che $C$ si trova sul raggio $OA$ e $D$ si trova sul raggio $OB$, e $CP : PD = 1 : 2$.
+
+[[src_rmo_2017__Q01]]

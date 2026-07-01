@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Student (15 marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_student__Q22
 parent: src_kangourou_2001_student
 competition: Kangourou 2001 - Student (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colore piu usato nella griglia 43x43*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most commonly used color in grid 43x43< MSK1/>
+
+![[src_kangourou_2001_student__prob22.png]]
+
+> The cells of a grid of 43 rows × 43 columns are coloured with 4 colours 1, 2, 3, 4 as shown in Figure 1. Which color is used more often than each of the other three?
+>
+> - **(A)** Colour 1
+> - **(B)** Colour 2
+> - **(C)** Colour 3
+> - **(D)** Colour 4
+> - **(E)** I don't know.
+
+**Answer:** C
+[[src_kangourou_2001_student__Q22]]

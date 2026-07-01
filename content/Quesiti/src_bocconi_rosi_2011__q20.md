@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q20
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora a cui Renato aveva caricato il pendolo ieri*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 18.36
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The time Renato had charged the pendulum yesterday.
+
+> Yesterday, Renato simultaneously charged his old pendulum and his old wake. This morning, waking up, he can't help but notice that the wake indicates 6:00 while the pendulum indicates 7:00. At this point it is remembered that the alarm goes back three minutes every hour while the pendulum goes forward (as opposed to the exact time) for two minutes every hour. What time did Renato load them yesterday?
+
+**Answer:** 18.36
+[[src_bocconi_rosi_2011__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2020 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2020__Q21
 parent: src_smc_2020
 competition: Senior Mathematical Challenge 2020
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of digits of (10^2020 + 2020)^2, a 4041-digit number*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di numeri di (10^2020 + 2020)^2, un numero di 4041 cifre*
+
+> Se scritto a pieno, il numero $(10^{2020} + 2020)^2$ ha 4041 cifre. Qual è la somma dei numeri di questo numero di 4041 cifre?
+>
+> - **(A)** $9$
+> - **(B)** $17$
+> - **(C)** $25$
+> - **(D)** $2048$
+> - **(E)** $4041$
+
+**Risposta:** C
+[[src_smc_2020__Q21]]

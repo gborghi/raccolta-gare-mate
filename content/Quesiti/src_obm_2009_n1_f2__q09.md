@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n1_f2__Q09
 parent: src_obm_2009_n1_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Chess: 7 rounds, 4 games/round, 8 players; after round 3, can there be a tied first-place group with the rest tied second, and can all scores differ*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+* scacchi: 7 round, 4 games/round, 8 giocatori; dopo il round 3, può esserci un gruppo al primo posto con il resto al secondo posto e tutti i punteggi possono differire*
+
+> Un campionato di scacchi ha round $7$, con partite $4$ per round, $8$ partecipanti, i cui punteggi per gioco sono come al solito: un punto per una vittoria, mezzo punto per un pareggio e nessun punto per una sconfitta. Ogni coppia di giocatori si affronta esattamente una volta.
+> 
+> a) Al termine del terzo round, è possibile che un gruppo di giocatori si trovi al primo posto e i giocatori rimanenti al secondo? Spiegate con un esempio.
+> 
+> b) Al termine del terzo round, è possibile che tutti i giocatori abbiano punteggi diversi? Spiegami.
+
+[[src_obm_2009_n1_f2__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q05
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Result of squaring, subtracting, and dividing a positive number by itself*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Resultat di squadratura, sottrazione e divisione di un numero positivo da solo*
+
+> Ho sollevato un numero positivo al quadrato, ho sottratto il risultato dallo stesso numero, e poi ho diviso quello che rimaneva dallo stesso numero. Il risultato ottenuto è stato uguale a:
+>
+> - **(A)** Il numero stesso
+> - **(B)** raddoppiare il numero
+> - **(C)** Numero più $1$
+> - **(D)** La radice quadrata del numero
+> - **(E)** Il numero meno $1$
+
+**Risposta:** E
+[[src_obm_1998_n1_f1__Q05]]

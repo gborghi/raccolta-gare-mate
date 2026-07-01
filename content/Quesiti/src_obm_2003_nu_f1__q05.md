@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1 —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_nu_f1__Q05
 parent: src_obm_2003_nu_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Polynomial (1/n)((X+a)^n - X^n - a) has integer coefficients iff n is prime*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkHYs-oRGCC1ZYJ_cT5E1wAW1AqoZ7ND/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il polinomio (1/n) (((X+a)^n - X^n - a) ha coefficienti interi se n è primo*
+
+> $a$ e $n$ siano integri con $n > 1$ e $\gcd(a, n) = 1$. Prova che il polinomio $\dfrac{1}{n}\bigl((X + a)^n - X^n - a\bigr)$ ha tutti i coefficienti interi se e solo se $n$ è primo.
+
+[[src_obm_2003_nu_f1__Q05]]

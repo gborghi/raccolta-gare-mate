@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q21
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo divisori di n divisibile 21 e 9*
 
@@ -38,3 +41,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum divisors of n divisible by 21 and 9 < MSK1/>
+
+> A positive integer n is divisible by 21 and by 9. What is the minimum number of positive integers that must have n (1 and n inclusive)?
+>  
+> A. 3           B. 4           C. 5           D. 6           E. 7.
+
+**Answer:** D
+[[src_kangourou_2002_cadet__Q21]]

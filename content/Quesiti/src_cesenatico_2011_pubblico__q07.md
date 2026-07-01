@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q07
 parent: src_cesenatico_2011_pubblico
 competition: Gara a Squadre Cesenatico 2011 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tre atleti fianco a fianco per la prima volta*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2600
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three athletes side by side for the first time*
+
+> A quick deception [35] Abelix and Borelix want to help Cleopatra defeat Julius Caesar, but she does not believe them and subjects them to the terrible Fatiches. If they overcome them with the grace of the gods, they'll have the Queen's too. Fatica I is a 200-lap race on the track. Abelix, the Greek champion Velocipedos and the Roman champion Dopatus are taking part. On the way, they all start together from the same point on the track, running counter-clockwise at a constant speed. Abelix takes 120 seconds, Velocipedos 75 seconds and Dopatus (who secretly stole and drank some magic potion and will be disqualified after arrival) only 39 seconds. How many seconds from the start will all three athletes be back side by side for the first time?
+
+**Answer:** 2600
+[[src_cesenatico_2011_pubblico__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2024 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo22hq_honsen__Q04
 parent: src_jjmo22hq_honsen
 competition: Japan Junior Mathematical Olympiad 2024 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum number of white cells in 2024×2024 colored grid*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bmmJByRMGYGsoLlsU-vCwBSdySo_6rjl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero massimo di globuli bianchi nel 2024×2024 griglia colorata*
+
+> È data una griglia $2024 \times 2024$. Ogni cellula è di colore rosso, blu o bianco, e ogni cellula riceve esattamente un colore. La colorazione soddisfa la seguente condizione: ogni cellula rossa ha esattamente $1$ cellula rossa tra i suoi vicini (al massimo $4$) che condividono un lato; e per ogni quadrato di cellule $2 \times 2$, il numero di cellule blu che contiene è $1$ o $2$. Trova il massimo numero possibile di cellule bianche.
+
+[[src_jjmo22hq_honsen__Q04]]

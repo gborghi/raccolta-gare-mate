@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r1__Q01
 parent: src_rmo_2013_r1
 competition: Regional Mathematical Olympiad 2013
@@ -31,6 +32,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle with circumcircle, find angle BAC*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kzoUvCWGpDy_1Yry02V2lM4u5xLLwPb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto con circoncircolo, angolo di ricerca BAC*
+
+> Lasciate che $ABC$ sia un triangolo angolato acuto. Il cerchio $\Gamma$ con $BC$ come diametro si interseca di nuovo con $AB$ e $AC$ rispettivamente a $P$ e $Q$. Determinare $\angle BAC$ dato che l'ortocentro del triangolo $APQ$ si trova su $\Gamma$.
+
+[[src_rmo_2013_r1__Q01]]

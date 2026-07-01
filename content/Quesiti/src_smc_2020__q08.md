@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2020 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2020__Q08
 parent: src_smc_2020
 competition: Senior Mathematical Challenge 2020
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest prime factor of 106 squared minus 15 squared*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fattore primo più piccolo di 106 al quadrato meno 15 al quadrato*
+
+> Qual è il più grande fattore primo di $106^2 - 15^2$?
+>
+> - **(A)** $3$
+> - **(B)** $7$
+> - **(C)** $11$
+> - **(D)** $13$
+> - **(E)** $17$
+
+**Risposta:** D
+[[src_smc_2020__Q08]]

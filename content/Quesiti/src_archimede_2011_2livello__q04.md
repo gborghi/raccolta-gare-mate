@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_2livello__Q04
 parent: src_archimede_2011_2livello
 competition: Archimede Gara 2° livello 2011 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti primi della forma n^(n+1) + 1*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers of prime of the form n^(n+1) + 1*
+
+> How many prime numbers can be expressed in the form nn+1+1, with n positive integers?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** more than 2, but in finite number
+> - **(E)** infinite.
+
+**Answer:** B
+[[src_archimede_2011_2livello__Q04]]

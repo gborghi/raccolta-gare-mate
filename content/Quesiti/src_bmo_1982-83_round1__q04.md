@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1982-83 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1982-83_round1__Q04
 parent: src_bmo_1982-83_round1
 competition: British Mathematical Olympiad 1982-83 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cupola on tower: find shortest path over surface*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cupola sulla torre: trovare il percorso più corto sulla superficie*
+
+> Le due superfici cilindriche $$x^2 + z^2 = 4, \quad y \geq 0 \quad \text{and} \quad y^2 + z^2 = 4, \quad x \geq 0$$ si intersecano e con $x \geq 0$, $y \geq 0$, $z \geq 0$ formano una forma di cupola che qui viene chiamata "cupola". La cupola è collocata sopra una torre verticale di altezza $h$ la cui sezione trasversale orizzontale è un quadrato laterale $2$. Trova la distanza più breve dal punto più alto della cupola a un angolo della base della torre, sopra la superficie della cupola e della torre.
+
+[[src_bmo_1982-83_round1__Q04]]

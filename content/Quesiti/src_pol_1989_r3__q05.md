@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1989 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1989_r3__Q05
 parent: src_pol_1989_r3
 competition: Olimpiade Matematica Polacca 1989 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three pairwise tangent equal circles of radius a on a hemisphere of radius r; compute the radius of a fourth circle on the same sphere tangent to all three.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZpIHimsHSvkG4b__OiWbVXE_0S523k2N/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre cerchi pari di taglia pari di raggio a su un emisfero di raggio r; calcolare il raggio di un quarto cerchio sulla stessa sfera tangente a tutti e tre.*
+
+> I cerchi pari di raggio $a$ si trovano su un emisfero di raggio $r$. Calcolare il raggio di un quarto cerchio sulla stessa sfera che è tangente ai tre cerchi dati.
+
+[[src_pol_1989_r3__Q05]]

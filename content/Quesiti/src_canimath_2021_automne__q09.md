@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2021 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_automne__Q09
 parent: src_canimath_2021_automne
 competition: Coupe Animath Automne 2021
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle, midpoint symmetric image, find angle MDC (lycée version)*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles, immagine simmetrica del punto medio, angolo di ricerca MDC (versione liceale) *
+
+> $ABC$ sia un triangolo di pari dimensioni con vertice $A$. Il segmento $[BC]$ deve essere il punto medio di $M$. Il punto $D$ deve essere l'immagine simmetrica del punto $M$ rispetto alla riga $(AC)$. Indichiamo con $x$ l'angolo $\widehat{BAC}$. Determinare, come funzione di $x$, il valore dell'angolo $\widehat{MDC}$.
+
+[[src_canimath_2021_automne__Q09]]

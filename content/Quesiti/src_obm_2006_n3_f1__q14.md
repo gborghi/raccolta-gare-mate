@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q14
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five grades entered one by one with running average always an integer; grades 71,76,80,82,91; find which was entered last.*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cinque classi inserite una per una con una media corrente sempre un numero intero; classi 71,76,80,82,91; ritrovare l'ultima inserita.*
+
+> Il professore Piraldo ha applicato un test ai suoi cinque studenti e, dopo averli corretti, ha inserito i voti in una scheda elettronica che calcola automaticamente la media mentre i voti vengono inseriti ogni volta. Ha notato che, entrando nei voti, la media calcolata dalla scheda di calcolo era sempre un numero intero. I voti, nell'ordine in cui sono stati inseriti, sono stati 71, 76, 80, 82 e 91, ma non necessariamente in questo ordine. Qual era l'ultimo anno di classe in cui Piraldo era entrato?
+> 
+> (A) 71 \quad (B) 76 \quad (C) 80 \quad (D) 82 \quad (E) 91
+
+[[src_obm_2006_n3_f1__Q14]]

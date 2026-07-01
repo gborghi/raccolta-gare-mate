@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo28yq_yosen__Q02
 parent: src_jmo28yq_yosen
 competition: Japan Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distribute cards 1-9 into 3 boxes forming arithmetic progressions*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5 ways
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Distribuire le carte 1-9 in 3 scatole che formano progressioni aritmetiche
+
+> Ci sono 9 carte, ciascuna etichettata con uno degli enti da $1$ a $9$, una carta per numero. Sono distribuite, 3 carte ciascuno, in 3 scatole indistinguibili. In quanti modi si può fare questo in modo che, per ogni scatola, i tre numeri sulle sue carte formino una progressione aritmetica quando sono disposti in ordine crescente? Qui, tre numeri $a, b, c$ formano una progressione aritmetica quando $b - a = c - b$ si mantiene.
+
+**Risposta:** 5 ways
+[[src_jmo28yq_yosen__Q02]]

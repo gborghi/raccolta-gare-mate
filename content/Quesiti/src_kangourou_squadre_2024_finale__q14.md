@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2024_finale__Q14
 parent: src_kangourou_squadre_2024_finale
 competition: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma massima dei punteggi di 24 lanci di dado vincolati*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0090
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum score of 24 bound dice throws*
+
+> The Mauro dice has thrown a fair dice 24 times. All scores from 1 to 6 came out at least once, but 1 came out more than any other. The sum of all the scores obtained by Mauro is as high as possible in accordance with the above: what is this sum?
+
+**Answer:** 0090
+[[src_kangourou_squadre_2024_finale__Q14]]

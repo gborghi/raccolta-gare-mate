@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 2) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g2__Q11
 parent: src_bocconi_finaleint_2009_g2
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di amici dato che Caterina beve 1/4 del latte e 1/6 del caffè*
 
@@ -49,3 +52,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_LRZ35lngxx9JZL11y14CrDyt5FTBU28/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Number of friends since Caterina drinks 1/4 milk and 1/6 coffee
+
+> Coffee with milk. Catherine and her friends each drink the same amount of milk coffee, but in different proportions of coffee and milk. Catherine drank a quarter of the total milk and a sixth of the total coffee. How many friends are at the table?
+
+**Answer:** 4
+[[src_bocconi_finaleint_2009_g2__Q11]]

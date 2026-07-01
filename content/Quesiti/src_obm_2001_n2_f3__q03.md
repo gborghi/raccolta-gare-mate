@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f3__Q03
 parent: src_obm_2001_n2_f3
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 3
@@ -39,6 +40,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove only finitely many integer-sided triangles have a given integer altitude h relative to side c*
 
@@ -51,3 +54,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove solo finitamente molti triangoli a lato intero hanno un'altitudine di un dato numero intero h rispetto al lato c*
+
+> Date un intero positivo $h$, dimostrare che esiste solo un numero finito di triangoli con lati interi $a$, $b$, $c$ e altitudine relativa al lato $c$ uguale a $h$.
+
+![[src_obm_2001_n2_f3__Q03.png]]
+
+[[src_obm_2001_n2_f3__Q03]]

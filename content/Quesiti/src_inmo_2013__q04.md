@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2013 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2013__Q04
 parent: src_inmo_2013
 competition: Indian National Mathematical Olympiad 2013
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Good nonempty subsets of {1,2,...,n}; prove t_n and n are both odd or both even*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gmbaqp-kDcxUyvAlPf7W-ahq0MnrHajW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Buoni sottoinsiemi non vuoti di {1,2,...,n}; dimostrare che t_n e n sono entrambi pari o entrambi pari*
+
+> $n$ sia un numero intero positivo. Chiamare valido un sottogruppo non vuoto $S$ di $\{1, 2, \ldots, n\}$ se la media aritmetica degli elementi di $S$ è anche un intero. $t_n$ indica il numero di buoni sottoinsiemi di $\{1, 2, \ldots, n\}$. Prove che $t_n$ e $n$ sono entrambi pari o pari.
+
+[[src_inmo_2013__Q04]]

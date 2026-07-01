@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_biennio__Q15
 parent: src_archimede_2018_biennio
 competition: Giochi di Archimede 2018 - Biennio (T1)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di disporre 99 monete non adiacenti in tabella 2x100*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to dispose of 99 non-adjacent coins in Table 2x100*
+
+> Michela drew a rectangular table of size 2 × 100. He wants to have 99 coins, each in a box in the table, so that there are no pairs of boxes with one side in common that are both occupied by one coin. How many different ways can Michela place the 99 coins?
+>
+> - **(A)** 200
+> - **(B)** 396
+> - **(C)** 402
+> - **(D)** 400
+> - **(E)** 202
+
+**Answer:** B
+[[src_archimede_2018_biennio__Q15]]

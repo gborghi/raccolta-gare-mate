@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Triennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_triennio__Q16
 parent: src_archimede_2009_triennio
 competition: Giochi di Archimede 2009 - Triennio
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma numeri quattro cifre distinte tra 1,2,3,6*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of four digit numbers separated by 1,2,3,6*
+
+> What number is obtained by adding up all the numbers of four distinct digits, each of which can only be 1, 2, 3, or 6?
+>
+> - **(A)** 79992,
+> - **(B)** 13332,
+> - **(C)** 123456,
+> - **(D)** 100000,
+> - **(E)** 63210.
+
+**Answer:** A
+[[src_archimede_2009_triennio__Q16]]

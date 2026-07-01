@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f1__Q25
 parent: src_obm_2008_n2_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Small cubes with both a red and a blue face from a cut cube*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Cubini piccoli con faccia rossa e blu provenienti da un cubo tagliato< MSK1/>
+
+> Ho un cubo di legno con tre facce rosse e tre facce blu. È tagliato in cubetti < MSK0/> più piccoli. Quanti di questi cubetti più piccoli hanno almeno una faccia rossa e almeno una faccia blu? (A) $6$ \quad (B) $12$ \quad (C) $14$ \quad (D) $16$ \quad (E) Dipende dalla disposizione delle facce rosse e delle facce blu.
+
+[[src_obm_2008_n2_f1__Q25]]

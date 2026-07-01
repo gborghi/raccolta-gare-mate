@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2025 — Nível 3 — Fase x — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2025_n3_fx__Q05
 parent: src_obm_2025_n3_fx
 competition: Olimpíada Brasileira de Matemática 2025 — Nível 3 — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Polygon triangulation: minimum size of obstructive diagonal set*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFf1OuT8cLJGAETsQx_9-GJOvIDVonCr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Triangolazione poligonale: dimensione minima dell'insieme di diagonali ostruzionali< MSK1/>
+
+> $\mathcal{P}$ sia un poligono converso con vertici $n$, $n \ge 4$. Possiamo dividere $\mathcal{P}$ in triangoli disegnando diagonali che non si incrociano all'interno di $\mathcal{P}$. Una partizione di questo tipo è chiamata triangolazione **. Un insieme $X$ di diagonali di $\mathcal{P}$ si chiama *obstruttivo* se ha la seguente proprietà:
+> 
+> *Qualsiasi triangolazione di $\mathcal{P}$ utilizza almeno una diagonale appartenente al set $X$.*
+> 
+> Determinare, come funzione di $n$, il numero minimo possibile di elementi di un insieme ostruzionale.
+
+[[src_obm_2025_n3_fx__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1974-75 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1974-75_round2__Q02
 parent: src_bmo_1974-75_round2
 competition: British Mathematical Olympiad 1974-75 — Round 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers not in a given infinite set are sums of consecutive positive integers*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Db2YDJJe3HTlXlSJ6KbEzgmGqDFFe8HU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I numeri interi positivi non presenti in un dato insieme infinito sono le somme di numeri interi positivi consecutivi*
+
+> Dimostra che ogni intero positivo che non è un membro dell'insieme infinito $$3,\ 2^2 \cdot 3,\ 2^4 \cdot 3,\ \ldots,\ 2^{2k} \cdot 3,\ \ldots$$ è uguale alla somma di due o più interi positivi consecutivi.
+
+[[src_bmo_1974-75_round2__Q02]]

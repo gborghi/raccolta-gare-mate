@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2020 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2020__Q01
 parent: src_smc_2020
 competition: Senior Mathematical Challenge 2020
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate 2020 divided by (20 times 20)*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare il 2020 diviso per (20 volte 20)*
+
+> Qual è il valore di < MSK0/>?
+>
+> - **(A)** $10.1$
+> - **(B)** $5.5$
+> - **(C)** $5.1$
+> - **(D)** $5.05$
+> - **(E)** $0.55$
+
+**Risposta:** C
+[[src_smc_2020__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q25
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Stuzzicadenti da aggiungere alla 31-esima griglia*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Stickers to be added to the 31st grid*
+
+![[src_kangourou_2006_benjamin__prob25.png]]
+
+> Bianca builds toaster grids by expanding the existing grids each time by adding new toaster grids, according to the pattern shown in the figure. How many hot dogs does Bianca have to add to the 30th grid to get the 31st? A) 124            B) 148             C) 61               D) 254            E) 120
+
+**Answer:** A
+[[src_kangourou_2006_benjamin__Q25]]

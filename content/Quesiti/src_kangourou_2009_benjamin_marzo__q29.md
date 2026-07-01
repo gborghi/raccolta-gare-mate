@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q29
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di amici (scarpe Piedistrani)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of friends (footwear)
+
+> 29. Answer A) If the group is made up of only women, shoes of all numbers from 36 to 45 must have been purchased, and nine pairs were formed with the left shoe of a larger number on the right, so the group is made up of nine people. If there are men in the group, to avoid any further remains, the pairs of shoes of intermediate number between the two different feet of the same male must be excluded. This will allow for a maximum of eight people in the group.
+
+**Answer:** A
+[[src_kangourou_2009_benjamin_marzo__Q29]]

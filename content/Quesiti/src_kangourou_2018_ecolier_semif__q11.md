@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Ecolier — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q11
 parent: src_kangourou_2018_ecolier_semif
 competition: Kangourou 2018 Semifinale Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Nuova somma scambiando due cifre tra 345 e 921*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1293
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12RJbo4WQyFx3m4vMHKRiOwlOuiEa6SZd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*New sum by swapping two digits between 345 and 921*
+
+> By choosing a number 345 and a number 921 and swapping them, Sandra obtained two new numbers whose sum is greater than the sum of the original numbers. How much is the new sum?
+
+**Answer:** 1293
+[[src_kangourou_2018_ecolier_semif__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_2livello__Q08
 parent: src_archimede_2022_2livello
 competition: Archimede Gara di Febbraio 2022 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Palla Riemanniana, tabella azioni, valore k*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total amount of the loan.
+
+> In a Riemannian football match, two teams face each other; at any given time, each row in the field k > 1 players. At the end of each action, a point is awarded to one of the two teams; in addition, each team can make an arbitrary number of substitutions before the next action begins. Alice and Barbara are part of the Geodetic team. At the end of today's game, Alice notes that while she was on the field, Geodetic won
+>
+> 7 more shares than they lost. When Barbara was on the field, they lost two more shares than they won. Each of the other Geodetic players has participated in as many winning actions as losing. How much is k?
+>
+> - **(A)** 3
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 9
+> - **(E)** There's not enough data to determine that.
+
+**Answer:** B
+[[src_archimede_2022_2livello__Q08]]

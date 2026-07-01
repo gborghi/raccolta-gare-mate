@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q30
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero partecipanti al campo data probabilita 1/2*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of participants in the given probability field 1/2*
+
+> 30. Among the participants in a summer camp, the number of girls exceeds the number of boys by 40 percent. The probability that a delegation of two participants chosen will usually consist of a girl and a boy is exactly 1/2. How many people are in the camp? A) 20 B) 24 C) 36 D) 38
+
+**Answer:** C
+[[src_kangourou_2018_student_marzo__Q30]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale A — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_a__Q15
 parent: src_gas_2009_semifinale_a
 competition: Gara a Squadre 2009 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di fuga colpito esattamente una volta su 5 tiri*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1999
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Wx24coOZuHD5lnXnMkNRwAuUmiEDrRDK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of escape hit exactly once in 5 shots*
+
+> After a fierce battle with the dwarf Gim-Lie, an orc escapes. When he is now almost safe in the forest, Legalois notices him and scores five arrows in quick succession, but as the target moves away, his accuracy is always less: he has a 1/4 chance of hitting it with the first arrow, 1/5 with the second, and so on, up to 1/8 with the fifth. Knowing that the enemy can escape if hit once, but not if hit twice, what is the probability that he can escape? (As a result, provide the sum of the numerator and denominator of the reduced fraction to the minimum terms.)
+
+**Answer:** 1999
+[[src_gas_2009_semifinale_a__Q15]]

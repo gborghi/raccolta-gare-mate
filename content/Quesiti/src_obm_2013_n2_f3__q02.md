@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f3__Q02
 parent: src_obm_2013_n2_f3
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 3
@@ -39,6 +40,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive integers n with floor(sqrt(n))=2013; prove perfect square condition*
 
@@ -53,3 +56,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VmF6cRGRwHnU6LZqHAbDQ8RpHge5JFX2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i numeri interi positivi n con floor(sqrt(n))=2013; prova la condizione quadrata perfetta*
+
+> a) Trovare tutti gli integri positivi $n$ tali da $\lfloor \sqrt{n} \rfloor = 2013$.
+> 
+> b) Che i $a$ e $b$ siano integri positivi tali che $\lfloor \sqrt{ab} \rfloor = \lfloor \sqrt{a} \rfloor \cdot \lfloor \sqrt{b} \rfloor$. Prova che almeno uno dei due numeri interi deve essere un quadrato perfetto.
+> 
+> (Per qualsiasi numero reale $x$, il numero $\lfloor x \rfloor$ è definito come il numero intero più grande inferiore o uguale a $x$.)
+
+[[src_obm_2013_n2_f3__Q02]]

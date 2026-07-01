@@ -1,6 +1,7 @@
 ---
 title: IMO 1979 (Twenty-first International Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1979_all__Q05
 parent: src_imo_1979_all
 competition: IMO 1979 (Twenty-first International Olympiad)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find a with nonneg x_k satisfying three power-sum relations*
 
@@ -35,3 +38,13 @@ tags:
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zEPuPBU2bBcA_YKZy9BbfgTGEtgtWSpu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find a with nonneg x_k satisfying three power-sum relations*
+
+> Find all real numbers $a$ for which there are non-negative real numbers $x_1, x_2, x_3, x_4, x_5$ that satisfy the $$\sum_{k=1}^{5} k x_k = a, \quad \sum_{k=1}^{5} k^3 x_k = a^2, \quad \sum_{k=1}^{5} k^5 x_k = a^3.$$ relationships
+
+[[src_imo_1979_all__Q05]]

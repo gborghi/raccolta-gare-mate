@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2023 - VI Finale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_femminile__Q10
 parent: src_squadre_2023_femminile
 competition: Gara a Squadre Femminile 2023 - VI Finale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Codici quasi palindromi ABxyzCD diviso 10*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4250
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Almost palindromic codes ABxyzCD divided by 10< MSK1/>
+
+> 10000 minions to be divided Krull must divide 10000 minions into groups, so that they perform different tasks. To do this, he decides to use this tricky procedure: first, number them from 1 to 10,000. Then each minion has to take his number a, write it in base 3 and delete the digits 2. Then, if there are more than two digits 1, he must eliminate all the digits to the left of the second 1 starting from the right; the binary number that is obtained is the number of the team (possibly 0) to which that minion will be assigned. For example, the minion 115 = 110213 is assigned to the team 1012 = 5. How many teams will Krull make this way?
+
+**Answer:** 4250
+[[src_squadre_2023_femminile__Q10]]

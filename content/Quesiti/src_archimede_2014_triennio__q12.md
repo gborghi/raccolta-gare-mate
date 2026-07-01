@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_triennio__Q12
 parent: src_archimede_2014_triennio
 competition: Giochi di Archimede 2014 - Triennio (Testo 1)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di x^3+1/x^3 dato x+1/x=5*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of x^3+1/x^3 given x+1/x=5*
+
+> If x plus 1 x is equal to 5, how much is x3 plus 1 x3? (A) 105, (B) 110, (C) 115, (D) 120, (E) 125.
+
+**Answer:** B
+[[src_archimede_2014_triennio__Q12]]

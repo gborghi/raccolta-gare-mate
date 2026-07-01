@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Ecolier — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q14
 parent: src_kangourou_2019_ecolier_semifinale
 competition: Kangourou 2019 Semifinale Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tra quante ore i due serbatoi hanno uguale quantita acqua*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 10
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tNc5SZ7vm6wp3SYyibXhYqSBPWtNBocw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Within how many hours the two tanks have the same amount of water< MSK1/>
+
+> At this moment one tank contains 100 litres of water and another tank contains 120 litres. From the first, water comes out at a rate of one litre per hour, while from the second, water comes out at a rate of three litres per hour. How many hours from now will the two tanks contain the same amount of water?
+
+**Answer:** 10
+[[src_kangourou_2019_ecolier_semifinale__Q14]]

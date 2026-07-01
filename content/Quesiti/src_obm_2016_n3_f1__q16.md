@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f1__Q16
 parent: src_obm_2016_n3_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest possible 'video-game' distance between points placed in four equal sub-rectangles of a screen*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La più grande distanza possibile di "video-gioco" tra i punti posizionati in quattro sub rettangoli uguali di uno schermo*
+
+> Lo schermo del videogioco è diviso dai bisettori perpendicolari dei suoi lati in quattro rettangoli uguali $A,B,C,D$. Considerate il rettangolo $R$ formato dai centri di questi quattro rettangoli. La "distanza videogioco" tra due punti è sempre inferiore o uguale alla distanza euclidiana abituale sullo schermo; qualunque sia la posizione all'interno dei rettangoli scelti, la distanza massima videogioco è uguale alla diagonale di $R$, che misura $\frac{\sqrt{2^2+s^2}}{2}=2.5$. Concludere che nessuna distanza di gioco video tra due punti è superiore a $2.5$ e la distanza di gioco video più grande possibile è $2.5$. Qual è la più grande distanza possibile per i videogiochi? [Valore della chiave di risposta: $2.5$.]
+
+![[src_obm_2016_n3_f1__Q16.png]]
+
+**Risposta:** B
+[[src_obm_2016_n3_f1__Q16]]

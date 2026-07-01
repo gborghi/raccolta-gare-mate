@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f2__Q09
 parent: src_obm_2007_n3_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum number of roads among 20 cities to guarantee the road network is connected*
 
@@ -51,3 +54,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zX7z5wzrS24GDIg6SjMeYYN4pu7op9WA/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero minimo di strade tra le 20 città per garantire la connessione della rete stradale*
+
+> Selezionare $20$ città di un paese. Se si collegassero tutte e due con una strada si utilizzerebbero strade $\binom{20}{2} = 190$. Trovare il minor numero di strade che devono essere costruite in modo che, partendo da una città, si possa raggiungere un'altra città in auto (cioè la rete stradale sia collegata). Mostrare che le strade $190$ non devono essere sufficienti e dimostrare che con le strade $191$ è sempre possibile viaggiare in auto tra due città. (Insigno: se le città potessero essere suddivise in due gruppi $A$ e $B$ con rispettivamente $a$ e $b$ città, $a + b = 21$, senza strada che unisca i due gruppi, allora il numero di strade sarebbe al massimo $\binom{a}{2} + \binom{b}{2}$; derivere una contraddizione.)
+
+**Risposta:** $191$
+[[src_obm_2007_n3_f2__Q09]]

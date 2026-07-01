@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Semifinale 2 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_semifinale2__Q13
 parent: src_squadre_2023_semifinale2
 competition: Gara a Squadre 2023 - Semifinale 2
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori n vincenti gioco di Nim su 2022 fiammiferi*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0674
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Nim game winning values on 2022 matches*
+
+> To design the perfect shot, you have to know the place perfectly. Lupin/3, Jig∈N and Goemetrikon study the map of the museum room from which they will make a famous statue disappear. The room is an ABC isosceles triangle of base AB. The three doors of the room are in M, the middle point of BC, in F, the foot of height relative to B and in E, point on AB such that EB ∼= BM. They also know that B,E,F,M passes a circumference. To avoid video surveillance, it is important to know the width of the ABC angles. How much it 's worth ! The ACB?
+
+**Answer:** 0674
+[[src_squadre_2023_semifinale2__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n1_f1__Q04
 parent: src_obm_2008_n1_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quotient and remainder of 26097 divided by 25*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jS9AjIezsp0MUxDiEgVpS7k3MJ9uT3_v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quotiente e rimanente di 26097 diviso per 25*
+
+> Il quotiente e il rimanente nella divisione di $26097$ per $25$ sono rispettivamente:
+> 
+> A) $1043$ e $22$ $\quad$ B) $1044$ e $22$ $\quad$ C) $143$ e $22$ $\quad$ D) $1044$ e $3$ $\quad$
+
+**Risposta:** A
+[[src_obm_2008_n1_f1__Q04]]

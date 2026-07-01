@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q24
 parent: src_kangourou_2008_junior_marzo
 competition: Kangourou 2008 - Junior (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza arco evidenziato (tre cerchi tangenti)*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of highlighted arc (three tangent circles) *
+
+![[src_kangourou_2008_junior_marzo__prob24.png]]
+
+> In the figure three outer two-to-two tangent circles are represented; the beams are as indicated. What is the length of the radius of circumference 1 detected in the graph? A) B) C) D) E)
+
+**Answer:** D
+[[src_kangourou_2008_junior_marzo__Q24]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_triennio__Q18
 parent: src_archimede_2014_triennio
 competition: Giochi di Archimede 2014 - Triennio (Testo 1)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spigoli di un poliedro da conteggio delle facce*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Spieces of a face-counting polyester < MSK1/>
+
+> An artist has made a stone sculpture in the shape of a strange polyhedron. The surface of the sculpture is made up of 31 triangular faces, 18 quadrangular faces, 11 pentagonal faces and 7 hexagonal faces. How many beads does polyhedron have? (A) 65, (B) 94, (C) 100, (D) 123, (E) 131.
+
+**Answer:** E
+[[src_archimede_2014_triennio__Q18]]

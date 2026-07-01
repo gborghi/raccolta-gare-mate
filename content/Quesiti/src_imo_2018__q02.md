@@ -1,6 +1,7 @@
 ---
 title: IMO 2018 papers — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2018__Q02
 parent: src_imo_2018
 competition: IMO 2018 papers
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi n con successione ciclica ai·ai+1+1=ai+2*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tvIX0rbY0Jiofkx0Jp_N_tsr4t5dB-fl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Interi n with cyclic succession ai·ai+1+1=ai+2< MSK1/>
+
+> Find all integers $n \geq 3$ for which there exist real numbers $a_1, a_2, \ldots, a_{n+2}$ satisfying $a_{n+1} = a_1$, $a_{n+2} = a_2$ and $$a_i a_{i+1} + 1 = a_{i+2}$$ for $i = 1, 2, \ldots, n$.
+
+[[src_imo_2018__Q02]]

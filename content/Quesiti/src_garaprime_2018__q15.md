@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2018 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2018__Q15
 parent: src_garaprime_2018
 competition: Gara Nazionale Classi Prime 2018
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Gioco della tavoletta di cioccolato, mossa vincente*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XzoWDlSETOE6ynBaPWQsIvAiUafgaOrc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Game of the Chocolate Table, winning move*
+
+> Luca and Claudia have to share a rectangular chocolate table made up of seven rows of 12 squares each. In turn each of the two breaks what is left of the table into two parts, with a horizontal or vertical cut that leaves each individual square intact, eats one of the two parts and returns the other to the opponent. He who receives from the opponent a piece of a single square loses. If Claudia starts, how many squares does she have to eat on the first move to be sure that, whatever Luca says, she will win? And whatever Claudia does, it's going to be Luke winning.
+
+**Answer:** A
+[[src_garaprime_2018__Q15]]

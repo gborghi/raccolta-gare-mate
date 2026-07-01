@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f2__Q08
 parent: src_obm_2010_n1_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Card faces: sum of digits on reverse; find cards where one face is double the other*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Faci di carta: somma di cifre sul retro; trovare carte dove una faccia è doppia dell'altra*
+
+> Maria ha carte $90$ numerate da $10$ a $99$ su una faccia; sull'altra faccia di ogni carta ha scritto la somma dei numeri del numero sul fronte. Ad esempio, la scheda con $43$ sul fronte ha $7$ scritto sul retro. In quante carte il numero su una faccia è esattamente il doppio del numero sull'altra faccia?
+
+[[src_obm_2010_n1_f2__Q08]]

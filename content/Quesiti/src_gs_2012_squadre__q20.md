@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q20
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolazione con formula di Eulero*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0026
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Triangulation with the formula of Euler< MSK1/>
+
+> The royal banner is a triangle divided into 3 triangles of different colors and with 4 diamonds, one at each vertex. The Queen wants to make it change using more triangles; the King agrees, but imposes that a number of triangles greater than 3 be used and that the gift properties of the original one be maintained: it must be a triangle divided into $a$ triangles, with a diamond at each vertex; each side must contain only two diamonds (the two at its vertices) and, in each vertex of the figure, one must meet the same number of sides (the number of sides that meet in the same vertex of the original banner is three). What is the sum of the numbers that the Queen can choose?
+> 
+> [Note: the property does not require that the number of sides meeting in the same vertex coincide with the number of triangles used.]
+
+**Answer:** 0026
+[[src_gs_2012_squadre__Q20]]

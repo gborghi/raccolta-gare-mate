@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1991 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1991__Q09
 parent: src_inmo_1991
 competition: Indian National Mathematical Olympiad 1991
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Incircle tangent construction: triangle AB'C' similar to ABC*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Construzione tangente in cerchio: triangolo AB'C' simile a ABC*
+
+> L'incircolo $l$ di un triangolo $ABC$ è centrato a $I$ e tocca il lato $BC$ a $T$. La linea attraverso $T$ parallela a $IA$ incontra di nuovo l'incircolo a $S$ e la tangente all'incircolo a $S$ incontra rispettivamente $AB$, $AC$ nei punti $C'$ e $B'$. Prove che il triangolo $AB'C'$ sia simile al triangolo $ABC$.
+
+[[src_inmo_1991__Q09]]

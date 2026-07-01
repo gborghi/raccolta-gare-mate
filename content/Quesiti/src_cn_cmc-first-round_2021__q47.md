@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 47
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q47
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -29,6 +30,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *B1-3: A={1,2,3}, B={4x-y}, C={4x+y}; sum of elements of B∩C.*
 
@@ -42,3 +45,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*B1-3: A={1,2,3}, B={4x-y}, C={4x+y}; somma degli elementi di B∩C.*
+
+> [Paper di prova B1, problema 3] Supponiamo $A=\{1,2,3\}$, $B=\{4x-y\mid x,y\in A\}$, $C=\{4x+y\mid x,y\in A\}$. Quindi la somma di tutti gli elementi di $B\cap C$ è ______.
+
+**Risposta:** 18
+[[src_cn_cmc-first-round_2021__Q47]]

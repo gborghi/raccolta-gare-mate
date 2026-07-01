@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 4 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r4__Q04
 parent: src_rmo_2013_r4
 competition: Regional Mathematical Olympiad 2013
@@ -31,6 +32,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Non-zero real x with x^3+1/x^3 and x^5+1/x^5 rational implies x+1/x rational*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A3xPqFuv-0CPhkgiaHaPOWIfaJVs8RuK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Non-zero reale x con x^3+1/x^3 e x^5+1/x^5 razionale implica x+1/x razionale*
+
+> Che $x$ sia un numero reale non-zero tale che $x^3 + \frac{1}{x^3}$ e $x^5 + \frac{1}{x^5}$ siano entrambi numeri razionali. Prova che $x + \frac{1}{x}$ è un numero razionale.
+
+[[src_rmo_2013_r4__Q04]]

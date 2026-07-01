@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q20
 parent: src_kangourou_2008_ecolier_marzo
 competition: Kangourou 2008 - Ecolier (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale forma non puo avere la sezione della piramide*
 
@@ -58,3 +61,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Y2PPk0y8EAPu9XdVwcxKDHQ2tA4fBFmN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What shape can't have the pyramid section*
+
+![[src_kangourou_2008_ecolier_marzo__prob20.png]]
+
+> A full pyramid with a square base, outwardly painted black, is cut into two parts with a flat cut. Since the pyramid is of clear wood, each of the two sides has a clear face while all the others are obviously black. Which of the following cannot be the shape of the clear face? I'm going to pay. I'm going to pay. 8 Kang 2008 Kang 2008 P G A S Texts_08.qxp 9-03-2008 14:56 Page 8
+> 
+> I'm going to pay. I'm going to pay. 9 Kang 2008 Kang 2008 A) Square B) Trapezoid C) Triangle D) Pentagon E) All the shapes listed are possible
+
+**Answer:** E
+[[src_kangourou_2008_ecolier_marzo__Q20]]

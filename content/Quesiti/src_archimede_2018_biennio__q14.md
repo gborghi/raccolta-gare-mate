@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_biennio__Q14
 parent: src_archimede_2018_biennio
 competition: Giochi di Archimede 2018 - Biennio (T1)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area quarta regione da P ai punti medi del quadrilatero*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area four region from P to the midpoints of the quadrilateral*
+
+![[src_archimede_2018_biennio__prob14.png]]
+
+> From a point P within a convex quadrilateral, the segments connecting it to the midpoints of the sides are plotted. In this way, the quadrilateral is divided into four regions. The figures show the areas of three of these regions. What's the area of the fourth?
+>
+> - **(A)** 32
+> - **(B)** 33
+> - **(C)** 29
+> - **(D)** 31
+> - **(E)** 30 28 ? 23 19 P
+
+**Answer:** A
+[[src_archimede_2018_biennio__Q14]]

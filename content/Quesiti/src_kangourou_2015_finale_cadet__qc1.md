@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 finale nazionale Cadet — Quesito C1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_finale_cadet__QC1
 parent: src_kangourou_2015_finale_cadet
 competition: Kangourou 2015 finale nazionale Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *primo o secondo?*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** secondo (Paolo inizia)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lJat_HJPa_if1S_8tiIXnJFfuMmekK2y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*first or second? *
+
+> Sandro and Paolo play the following game. There are 8 tokens on the table: you play it in turn and when it's your turn, you can take 1, 2 or 3 tokens: the last one who can take any tokens wins. Sandro wants to win at any cost. Should he play first or let Paul start?
+
+**Answer:** secondo (Paolo inizia)
+[[src_kangourou_2015_finale_cadet__QC1]]

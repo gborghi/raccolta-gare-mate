@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2025_n2_fx__Q04
 parent: src_obm_2025_n2_fx
 competition: Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Collinearity DEF and segment equality ID=IF using incenter and A-excenter*
 
@@ -54,3 +57,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CcXWhSqND26SnC8adQX6Fy1P4X3uridO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Collinearity DEF e segmento di uguaglianza ID=IF utilizzando incenter e A-excenter*
+
+> Il punto di eccentricità $ABC$ deve essere un triangolo con incentro $I$ e excentro $A$ (l'accentro opposto al vertice $A$) pari a $K$. Che $D$ sia il piede del bisettore interno dal vertice $A$, che $E$ sia il circoncentro del triangolo $BDK$, e che $F$ sia la seconda intersezione di $AC$ con il cerchio circumscritto del triangolo $BEC$.
+> 
+> a) dimostrare che i punti $D$, $E$, $F$ sono collineari.
+> 
+> b) Prove che < MSK0/>.
+> 
+> \textit{Remember:} \begin{itemize} \item L'incentro di $ABC$ è l'intersezione dei bisettori interni di $\angle A$, $\angle B$ e $\angle C$. \item Il $A$-escentro di $ABC$ è l'intersezione del bisector interno di $\angle A$ con i bisector esterni di $\angle B$ e $\angle C$. # Finire #
+
+[[src_obm_2025_n2_fx__Q04]]

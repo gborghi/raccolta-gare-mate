@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2019-20 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2019-20_round1__Q04
 parent: src_bmo_2019-20_round1
 competition: British Mathematical Olympiad 2019-20 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Penguins queue with ticket rules; find counts near tickets 2 and 33*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Pinguini in coda con le regole dei biglietti; trovare i conti vicino ai biglietti 2 e 33*
+
+> Ci sono pinguini del 2019 che vagano verso il loro ristorante preferito. Quando arrivano i pinguini, vengono consegnati biglietti numerati in ordine ascendente dal 1 al 2019, e viene detto di unirsi alla coda. Il primo pinguino inizia la coda. Per ciascuna $n > 1$ il numero di biglietto di detenzione del pinguino $n$ trova il più grande $m < n$ che divide $n$ e entra nella coda direttamente dietro il numero di biglietto di detenzione del pinguino $m$. Questo continua fino a quando tutti i pinguini del 2019 sono in coda.
+> 
+> (a) Quanti pinguini sono davanti al pinguino con il biglietto numero 2?
+> 
+> (b) Quali sono i numeri sui biglietti che i pinguini tengono proprio davanti e proprio dietro al pinguino che detiene il biglietto 33?
+
+[[src_bmo_2019-20_round1__Q04]]

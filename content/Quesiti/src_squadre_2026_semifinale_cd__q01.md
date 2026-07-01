@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2026_semifinale_cd__Q01
 parent: src_squadre_2026_semifinale_cd
 competition: Gara a Squadre 2026 - Semifinale 2 (nazionale)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Base B in cui 41 e divisibile per 14*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0011
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Base B in which 41 is divisible by 14*
+
+> Gaia Fuselli Hermita is engaged in the translation of a manuscript for the course of Ancient Runes. In it the calculations are made on a base B (B > 4) in which the number 41 is divisible by 14. How much is B?
+
+**Answer:** 0011
+[[src_squadre_2026_semifinale_cd__Q01]]

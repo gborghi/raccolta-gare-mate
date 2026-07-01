@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q13
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Dido's finishing place: ahead of quadruple of those ahead of him*
 
@@ -48,3 +51,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il posto di fine di Dido: quattro volte prima di quelli che lo precedono
+
+> In una gara con i partecipanti del 2011, Dido è arrivato quattro volte prima del numero di persone che sono arrivate prima di lui. In che posto è arrivato Dido?
+> 
+> (A) $20^\circ$ \quad (B) $42^\circ$ \quad (C) $105^\circ$ \quad (D) $403^\circ$ \quad (E) $1005^\circ$
+
+**Risposta:** D
+[[src_obm_2011_n1_f1__Q13]]

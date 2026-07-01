@@ -1,6 +1,7 @@
 ---
 title: X Gara Nazionale Classi Prime 2025 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2025__Q01
 parent: src_garaprime_2025
 competition: X Gara Nazionale Classi Prime 2025
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza aree tra mosaici romboidali riscalati*
 
@@ -62,3 +65,36 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Different areas between rising rhomboidal mosaics< MSK1/>
+
+![[src_garaprime_2025__prob1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.5]
+  \draw (3,6) rectangle (4,7);
+  \draw (2,5) rectangle (3,6); \draw (3,5) rectangle (4,6); \draw (4,5) rectangle (5,6);
+  \draw (1,4) rectangle (2,5); \draw (2,4) rectangle (3,5); \draw (3,4) rectangle (4,5); \draw (4,4) rectangle (5,5); \draw (5,4) rectangle (6,5);
+  \draw (0,3) rectangle (1,4); \draw (1,3) rectangle (2,4); \draw (2,3) rectangle (3,4); \draw (3,3) rectangle (4,4); \draw (4,3) rectangle (5,4); \draw (5,3) rectangle (6,4); \draw (6,3) rectangle (7,4);
+  \draw (1,2) rectangle (2,3); \draw (2,2) rectangle (3,3); \draw (3,2) rectangle (4,3); \draw (4,2) rectangle (5,3); \draw (5,2) rectangle (6,3);
+  \draw (2,1) rectangle (3,2); \draw (3,1) rectangle (4,2); \draw (4,1) rectangle (5,2);
+  \draw (3,0) rectangle (4,1);
+\end{tikzpicture}
+\end{document}
+```
+
+> Using 1 cm square side-pieces, Raffaella builds the mosaic shown in the figure. Luca decides to make one that has the same shape, but with side braids of 5 cm. Claudia, on the other hand, builds one using still 1 cm side brackets and maintaining the same rhomboidal structure as Raffaella, but with the diagonal 35 squares instead of 7. What's the difference, in cm2, between the areas of Claudia and Luca's figures?
+>
+> - **(A)** 12
+> - **(B)** 0
+> - **(C)** 24
+> - **(D)** 25
+> - **(E)** 13
+
+**Answer:** A
+[[src_garaprime_2025__Q01]]

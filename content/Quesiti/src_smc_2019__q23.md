@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q23
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of hexagonal cross-section of a cube of edge sqrt(2) cut through midpoints T, U, V, W of edges*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di seccatura esagonale di un cubo di borda sqrt(2) tagliata attraverso i punti medi T, U, V, W dei bordi*
+
+> La lunghezza del bordo del cubo solido mostrato è $\sqrt{2}$. Un singolo taglio piano passa attraverso i punti $T$, $U$, $V$ e $W$ che sono i punti medi dei bordi del cubo, come mostrato.
+> 
+> Qual è l'area della sezione trasversale?
+>
+> - **(A)** $\sqrt{3}$
+> - **(B)** $3\sqrt{3}$
+> - **(C)** $6$
+> - **(D)** $6\sqrt{2}$
+> - **(E)** $8$
+
+![[src_smc_2019__Q23.png]]
+
+**Risposta:** B
+[[src_smc_2019__Q23]]

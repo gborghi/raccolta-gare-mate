@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier semifinale individuale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_semifinale__Q14
 parent: src_kangourou_2022_ecolier_semifinale
 competition: Kangourou 2022 Ecolier semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo prodotto di due numeri di due cifre con 1,2,3,4*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1312
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum product of two two-digit numbers with 1,2,3,4*
+
+> (8 points) Luigi used the four digits 1, 2, 3, 4 (each once) to write two two-digit numbers so that the product of those numbers is as high as possible. What number did you get as a product?
+
+**Answer:** 1312
+[[src_kangourou_2022_ecolier_semifinale__Q14]]

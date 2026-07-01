@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier__Q14
 parent: src_kangourou_2023_ecolier
 competition: Kangourou 2023 Ecolier — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *stazione della 96-esima fermata*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bDY_Y5qtxjaNx_dh5X8llzlndfmVtNwJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*station of the 96th stop*
+
+![[src_kangourou_2023_ecolier__prob14.png]]
+
+> A subway line has 6 stations A, B, C, D, E, F. The train stops at each station and, when it reaches one of the two terminals, reverses the heading. A motorist started his service shift at station B and his first stop was at station C. What station will be its 96th stop? A) A
+> 	
+> B) B
+> 	
+> C) C
+> 	
+> D) D
+> 	
+> E) E
+
+**Answer:** D
+[[src_kangourou_2023_ecolier__Q14]]

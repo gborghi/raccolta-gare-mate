@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2011 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo21mq_honsen__Q04
 parent: src_jmo21mq_honsen
 competition: Japan Mathematical Olympiad 2011 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real-valued functions satisfying a given functional equation*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLC2UOTU3J2U3mjuR_gj2bmQJMcqztuc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni a valore reale che soddisfano una determinata equazione funzionale*
+
+> Trovare tutte le funzioni $f$ definite sui numeri reali assumendo valori reali in modo tale che per qualsiasi numero reale $x, y$, $$f(f(x) - f(y)) = f(f(x)) - 2x^2 f(y) + f(y^2)$$ si trova.
+
+[[src_jmo21mq_honsen__Q04]]

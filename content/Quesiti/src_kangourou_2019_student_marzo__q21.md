@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q21
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Relazione tra somma a e prodotto b dei divisori di 1024*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Relation between sum a and product b of 1024 divisors*
+
+> If a is the sum of all the divisors (positive integers) of 1024 and b is their product, then A) (a  1)5 = b. B) (a + 1)5 = b. C) a5 = b. D) a5 – 1 = b.
+> 	
+> E) a5 + 1= b.
+
+**Answer:** B
+[[src_kangourou_2019_student_marzo__Q21]]

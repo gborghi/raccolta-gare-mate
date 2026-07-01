@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q01
 parent: src_cesenatico_2007_squadre_finale
 competition: Gara a Squadre Cesenatico 2007 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punti raggiungibili in quadrato con passi (1,1) o (-1,0)*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Reachable points in square with steps (1,1) or (-1,0) *
+
+> The sage Numeritus often uses the step of the hag to confuse his opponents. Each step consists of adding (1,1) or (−1,0) to its position. If Numeruto starts from the point (0,0), how many points of the square [−5,5] × [−5,5] (edges included) can be reached by Numeruto without ever leaving the square?
+
+[[src_cesenatico_2007_squadre_finale__Q01]]

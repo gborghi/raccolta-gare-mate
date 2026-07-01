@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre_f2__Q04
 parent: src_kangourou_2023_kangourou_squadre_f2
 competition: Kangourou Squadre 2023 Kangourou Finale 2
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore n nelle miscele acqua*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0320
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>N value in water mixtures< MSK1/>
+
+> Mixtures One mixture A is 90% water and one mixture B is 54%. 160 litres were taken from mixture B and mixed with n litres of mixture A to produce a new mixture in which the water content is 78%. How much is n?
+
+**Answer:** 0320
+[[src_kangourou_2023_kangourou_squadre_f2__Q04]]

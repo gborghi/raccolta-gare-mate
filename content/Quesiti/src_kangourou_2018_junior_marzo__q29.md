@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q29
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di riempire tabella 2x3 con somme divisibili per 3*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to fill a 2x3 table with sums divisible by 3*
+
+> In each cell of a table 2 × 3 you want to write exactly one of the numbers of the set {1, 2, 3, 4, 5, 6} so that for each row and each column the sum of the numbers in it is divisible by 3. How many different ways can you fill the table? A) 24
+> 	
+> B) 36
+> 	
+> C) 40
+> 	
+> D) 45 E) A different number from the previous ones.
+
+**Answer:** E
+[[src_kangourou_2018_junior_marzo__Q29]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2022_squadre__Q06
 parent: src_gsm_2022_squadre
 competition: Gara a Squadre GSM (locale Genova) 2022
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo a con numero raddoppiato uguale a k volte a^2*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0143
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum a with a number doubled to k times a^2< MSK1/>
+
+> Consider a positive integer < MSK0/>. Let's write the number $a$ twice in a row and get a number $b$that is, assuming that $a$ is a number with $\ell$ digits, in other words it's $10^{\ell-1} \le a < 10^\ell$, the number $b$ is $a + a \cdot 10^\ell$. What is the smallest value of $a$ such that $b = k a^2$ for a suitable $k$ positive integer?
+
+**Answer:** 0143
+[[src_gsm_2022_squadre__Q06]]

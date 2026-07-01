@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q13
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza A-B fra due triangoli ombreggiati nel quadrato*
 
@@ -64,3 +67,36 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Difference A-B between two shaded triangles in the square*
+
+![[src_kangourou_2024_cadet__prob13.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.8]
+  % Square with 3 segments creating 5 triangles, A and B are shaded
+  % Coordinates: BL=(0,0), BR=(5,0), TR=(5,5), TL=(0,5)
+  % Segments: BL->(3.75,5), (3.75,5)->BR, BR->TL
+  % Intersection I of (BL->(3.75,5)) and (BR->TL): approx (2.14,2.81)
+  \fill[gray!40] (0,5) -- (2.14,2.86) -- (0,0) -- cycle;
+  \fill[gray!40] (3.75,5) -- (5,0) -- (2.14,2.86) -- cycle;
+  \draw (0,0) rectangle (5,5);
+  \draw (0,0) -- (3.75,5);
+  \draw (3.75,5) -- (5,0);
+  \draw (5,0) -- (0,5);
+  \node at (0.7,2.5) {$A$};
+  \node at (4.2,2.5) {$B$};
+  \node[below] at (2.5,0) {10 m};
+\end{tikzpicture}
+\end{document}
+```
+
+> The side of the square in the figure is 10 m long. The square is divided into five triangles by three segments, as shown. The two shaded triangles have areas, in square meters, A and B. How much is the difference A  B ? A) 0 B) 1 C) 2 D) 5 E) 10
+
+**Answer:** A
+[[src_kangourou_2024_cadet__Q13]]

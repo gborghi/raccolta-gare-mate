@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre semifinale turno A — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q14
 parent: src_kangourou_2012_squadre_semifinale
 competition: Kangourou 2012 squadre semifinale turno A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Intero n con stesso resto dividendo 1059,1417,2312*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 179
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Inter n with the same remainder divided by 1059,1417,2312< MSK1/>
+
+> If you divide 1059, 1417 and 2312 by a certain integer greater than 1, you always get the same remainder. What's the number n?
+
+**Answer:** 179
+[[src_kangourou_2012_squadre_semifinale__Q14]]

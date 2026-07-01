@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo20yq_yosen__Q12
 parent: src_jjmo20yq_yosen
 competition: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *3-floor, 40-room-per-floor corridor building; max robots with no two meeting on corridors*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 12544
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*edificio di corridoio a 3 piani, con 40 camere al piano; al massimo robot senza due incontri sui corridoi*
+
+> Un edificio ha i piani $3$, ognuno dei quali contiene stanze $40$ disposte lungo un corridoio, come mostrato nella figura (le stanze sono rappresentate da punti $\bullet$ e dai corridoi che collegano le stanze adiacenti per segmenti di linea). In ogni stanza può essere posto al massimo un robot. A ogni robot inserito viene assegnato esattamente un corridoio (orlo) collegato alla sua stanza. Tutti i robot si muovono contemporaneamente lungo il corridoio assegnato alla stanza all'altra estremità e si fermano contemporaneamente. Durante questo movimento, nessun robot può occupare la stessa posizione contemporaneamente (cioè non devono incontrarsi), e le stanze in cui arrivano i robot devono essere tutte distinte. $N$ è il numero massimo di robot che possono essere posizionati in conformità di queste condizioni. Quando i robot $N$ sono posizionati, trovare il numero di modi validi per posizionare i robot $N$ e assegnare a ciascuno un corridoio. (I robot sono considerati indistinguibili.)
+
+![[src_jjmo20yq_yosen__Q12.png]]
+
+**Risposta:** 12544
+[[src_jjmo20yq_yosen__Q12]]

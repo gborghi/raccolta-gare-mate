@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - semifinale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q12
 parent: src_kangourou_2021_benjamin_semifinale
 competition: Kangourou 2021 Benjamin - semifinale
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Monete in ogni forziere (<270 e >200 per 3)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 67
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ZoOsj72QmushXUD5rVHJ0W3fyHvEdq-b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Coins in each forcer (<270 and >200 for 3) *
+
+> (5 points) A pirate has 4 couriers in each of which there is the same number of gold coins. You know that • in all, the four forcers contain less than 270 coins; • 3 of them, however you choose them, contain more than 200 coins. How many coins each forzer contains?
+
+**Answer:** 67
+[[src_kangourou_2021_benjamin_semifinale__Q12]]

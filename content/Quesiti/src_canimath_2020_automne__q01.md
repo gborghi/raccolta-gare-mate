@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2020 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_automne__Q01
 parent: src_canimath_2020_automne
 competition: Coupe Animath Automne 2020
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute a telescoping product of consecutive fractions*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 15
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolare un prodotto telescopico di frazioni consecutive*
+
+> Calcolare il numero $$P = \frac{3}{2} \times \frac{4}{3} \times \cdots \times \frac{29}{28} \times \frac{30}{29}.$$
+> 
+> *Solo una risposta numerica è prevista qui.*
+
+**Risposta:** 15
+[[src_canimath_2020_automne__Q01]]

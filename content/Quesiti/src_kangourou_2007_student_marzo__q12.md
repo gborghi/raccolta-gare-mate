@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Student (marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q12
 parent: src_kangourou_2007_student_marzo
 competition: Kangourou 2007 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione (quadrati con 2 vertici comuni)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Regional area (squares with 2 common vertices) *
+
+> Assigned to a square ABCD of side 1, all squares having at least two vertices in common with ABCD shall be considered. The area of the region of the plane formed by the points belonging to at least one of these squares is A) 5 B) 6 C) 7 D) 8 E) 9
+
+**Answer:** C
+[[src_kangourou_2007_student_marzo__Q12]]

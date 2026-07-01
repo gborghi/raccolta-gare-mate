@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_ecolier__Q07
 parent: src_kangourou_2001_ecolier
 competition: Kangourou 2001 - Ecolier (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Allievi da aggiungere per 6 gruppi uguali*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Students to be added for 6 equal groups*
+
+> There are 19 girls and 12 boys in one class. What is the minimum number of pupils to be added to them, so that they can be divided into 6 groups, with exactly the same number of pupils (it doesn't matter if they are boys or girls)?
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5
+
+**Answer:** E
+[[src_kangourou_2001_ecolier__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q21
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max number of distinct rational roots of integer-coefficient polynomial with P(0)=2015*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximo numero di radici razionali distinte di polinomio a coefficiente interi con P(0)=2015*
+
+> Il polinomio $P(x)$ ha coefficienti interi e $P(0) = 2015$. Al massimo quante radici razionali distinte può avere $P(x)$?
+> 
+> (A) 3 \quad (B) 4 \quad (C) 5 \quad (D) 6 \quad (E) 8
+
+**Risposta:** D
+[[src_obm_2015_n3_f1__Q21]]

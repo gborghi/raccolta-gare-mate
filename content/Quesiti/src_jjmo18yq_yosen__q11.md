@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo18yq_yosen__Q11
 parent: src_jjmo18yq_yosen
 competition: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum expected number of black-face-up coins after 2020 row/column flip operations*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 50
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero massimo previsto di monete a faccia nera dopo le operazioni di riversamento delle righe/colonne del 2020*
+
+> C'è una griglia $8 \times 8$; ogni cella contiene una moneta. Ogni moneta mostra bianco (faccia in su) o nero (faccia in su). Inizialmente tutte le monete mostrano nero. Una operazione avviene come segue: il giocatore $A$ seleziona i quadrati $5$ in una singola riga; il giocatore $B$ seleziona quindi $1$ di quei quadrati $5$, e tutte le monete $8$ della riga contenente quel quadrato e tutte le monete $8$ della colonna contenente quel quadrato vengono volte (la moneta all'incrocio viene volta una volta). Dopo $2020$ tali operazioni, trovare il numero massimo possibile di monete attese mostrando nero (faccia su), dove il giocatore $A$ sceglie la propria strategia per massimizzare questo valore atteso.
+
+**Risposta:** 50
+[[src_jjmo18yq_yosen__Q11]]

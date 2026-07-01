@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2004 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2004__Q12
 parent: src_cn_cmc_2004
 competition: China Mathematical Competition 2004
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *x-coordinate of point P on x-axis maximizing angle MPN*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $1$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*coordinata x del punto P sull'asse x angolo di massimizzazione MPN*
+
+> Che $M(-1, 2)$ e $N(1, 4)$ siano due punti in un sistema di coordinate retangolare piano $xOy$. $P$ è un punto in movimento sull'asse $x$. Quando $\angle MPN$ prende il suo valore massimo, la coordinata $x$ del punto $P$ è ___.
+
+**Risposta:** $1$
+[[src_cn_cmc_2004__Q12]]

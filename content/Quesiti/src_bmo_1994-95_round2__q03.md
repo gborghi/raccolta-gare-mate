@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1994-95 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1994-95_round2__Q03
 parent: src_bmo_1994-95_round2
 competition: British Mathematical Olympiad 1994-95 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality for real numbers in (0,4)*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LnyjaTQ_tXLADpavIS5gxDmq-C79XE65/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza dei numeri reali in (0,4) *
+
+> $a$, $b$, $c$ siano numeri reali con $0 < a < b < c < 4$. Prove che $0 < a + b + c - abc < 4$.
+
+[[src_bmo_1994-95_round2__Q03]]

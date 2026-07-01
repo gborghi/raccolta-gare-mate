@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q01
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Calcolo 2x0+0x1*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total number of units of measurement.
+
+> The kangaroo calculates: 2 < MSK0/> 0 + 0 < MSK1/> 1. The result is
+>
+> - **(A)** 2
+> - **(B)** 0
+> - **(C)** 1
+> - **(D)** 2001
+> - **(E)** 3. Kangourou 15 March 2001, category Benjamin. This item is not intended to be used. 2
+
+**Answer:** B
+[[src_kangourou_2001_benjamin__Q01]]

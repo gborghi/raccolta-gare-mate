@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1989 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1989_r3__Q02
 parent: src_pol_1989_r3
 competition: Olimpiade Matematica Polacca 1989 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three pairwise tangent circles; through a chain of secant constructions prove three points are collinear.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZpIHimsHSvkG4b__OiWbVXE_0S523k2N/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre cerchi tangenti in coppia; attraverso una catena di costruzioni secanti dimostrano che tre punti sono collineari.*
+
+> I cerchi $K_1$, $K_2$, $K_3$ sono indicati nel piano in modo tale che $K_2$ e $K_3$ siano tangenti a $P$, $K_3$ e $K_1$ a $Q$, e $K_1$ e $K_2$ a $R$. Le linee $PQ$ e $PR$ si riducono rispettivamente a $S$ e $T$. Le linee $SR$ e $TQ$ sono tagliate $K_2$ e $K_3$ di nuovo a $U$ e $V$. Provare che i punti $P$, $U$, $V$ sono collineari.
+
+[[src_pol_1989_r3__Q02]]

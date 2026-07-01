@@ -1,6 +1,7 @@
 ---
 title: IMO 1984 (25th International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1984__Q05
 parent: src_imo_1984
 competition: IMO 1984 (25th International Mathematical Olympiad)
@@ -28,6 +29,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Bound diagonal-sum to perimeter ratio of convex polygon*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hddGpriFfJ9QXK1JRJNBQA3ykv770Ola/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Bound diagonal-sum to perimeter ratio of convex polygon*
+
+> Let $d$ be the sum of the lengths of all the diagonals of a plane convex polygon with $n$ vertices ($n > 3$), and let $p$ be its perimeter. Prove that $$n - 3 < \frac{2d}{p} < \left[\frac{n}{2}\right]\left[\frac{n+1}{2}\right] - 2,$$ where $[x]$ denotes the greatest integer not exceeding $x$.
+
+[[src_imo_1984__Q05]]

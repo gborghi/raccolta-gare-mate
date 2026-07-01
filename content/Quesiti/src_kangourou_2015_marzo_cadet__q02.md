@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q02
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *lato maggiore*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>major side< MSK1/>
+
+![[src_kangourou_2015_marzo_cadet__prob2.png]]
+
+> Four identical rectangles, joined together as shown in the figure, form a large rectangle. If the smaller side of the large rectangle is 10 cm long, how long is its larger side? A) 10 cm B) 20 cm C) 30 cm D) 40 cm E) 50 cm
+
+**Answer:** B
+[[src_kangourou_2015_marzo_cadet__Q02]]

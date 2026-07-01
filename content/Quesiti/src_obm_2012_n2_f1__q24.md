@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q24
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Measure of angle PBQ given right angle ABC and angle AFD=40 degrees*
 
@@ -49,3 +52,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Meditazione dell'angolo PBQ dato angolo retto ABC e angolo AFD=40 gradi*
+
+> Nella figura che segue, l'angolo $A\hat{B}C$ è corretto, $r$ è una linea sopra i segmenti $AB$ e $BC$ rispettivamente a $D$ e $E$; le linee $CD$ e $AE$ tagliate a $F$; $P$ e $Q$ sono le proiezioni ortogonali di $A$ e $C$ sulla linea $r$, rispettivamente. Sapendo che l'angolo tra le linee $CD$ e $AE$ è $m(A\hat{F}D) = 40^\circ$, la misura di $P\hat{B}Q$, in gradi, è:
+> 
+> A) 110 \quad B) 120 \quad C) 130 \quad D) 140 \quad E) 160
+
+![[src_obm_2012_n2_f1__Q24.png]]
+
+[[src_obm_2012_n2_f1__Q24]]

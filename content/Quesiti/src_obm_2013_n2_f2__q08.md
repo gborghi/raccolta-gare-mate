@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f2__Q08
 parent: src_obm_2013_n2_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min boxes to guarantee opening all 10 padlocks with 2 keys per box*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jz8AX5epqRi_4AzCthzju1jrj_ZupO7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Min scatole per garantire l'apertura di tutte le 10 lucchette con 2 chiavi per scatola*
+
+> Led, un famoso eroe del gioco, ha una nuova sfida: aprire il portale del drago. Il portale dispone di < MSK0/> lucchetti distinti. Per aprire il portale, Led deve avere almeno una chiave per ogni lucchetto. Ci sono scatole $45$ nel gioco, e ciascuna scatola contiene esattamente $2$ chiavi distinte, con chiavi nella stessa scatola che aprono lo stesso lucchetto. Inoltre, le serrature $10$ hanno tutte chiavi diverse e non esistono due scatole con la stessa coppia di chiavi. Qual è il numero minimo di scatole che Led deve portare per garantire l'apertura del portale?
+
+[[src_obm_2013_n2_f2__Q08]]

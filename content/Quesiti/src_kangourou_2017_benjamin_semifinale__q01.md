@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q01
 parent: src_kangourou_2017_benjamin_semifinale
 competition: Kangourou 2017 Benjamin (semifinale individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *prezzo di 9 pezzi 3_72,98*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uSb-8ZS0ZxgQE-rDkGuF4RrLMjBY_qKl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Price of 9 pieces 3_72.98
+
+> I bought 9 pieces of the same product, but I don't know what I have to pay because one of the numbers on the payment request sheet is stained and you only see the word 3 72.98. What's the number under the black spot?
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 7
+
+**Answer:** E
+[[src_kangourou_2017_benjamin_semifinale__Q01]]

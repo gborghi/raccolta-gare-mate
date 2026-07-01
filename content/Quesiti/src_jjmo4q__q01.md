@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2006 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo4q__Q01
 parent: src_jjmo4q
 competition: Japan Junior Mathematical Olympiad 2006
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute an arithmetic expression with products and sums*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolare un'espressione aritmetica con prodotti e somme*
+
+> Calcolare quanto segue: $$39 \times 37 + 41 \times 82 + 43 \times 80 + 45 \times 39$$
+
+[[src_jjmo4q__Q01]]

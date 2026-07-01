@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q06
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero centrale*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*central number*
+
+> David wrote, in increasing order, all integers between 2 and 2022 whose decimal representation contains no digits other than 0 and 2. What's the number in the middle of the list? A) 200 B) 220 C) 222 D) 2000 E) 2002
+
+**Answer:** B
+[[src_kangourou_2022_student__Q06]]

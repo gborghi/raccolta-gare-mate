@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2007 — Quesito
   7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2007__Q07
 parent: src_bocconi_finalenaz_2007
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2007
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante caramelle verdi contiene la scatola?*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 24 caramelle verdi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many green candies does the box contain? < MSK1/>
+
+> A box contains yellow (lemon) and green (mint) candies. If we added a yellow candy, the yellow candy would represent a quarter of the contents of the box, whereas if we took one out, it would only be a fifth of the contents of the box. How many green candies does the box contain?
+
+**Answer:** 24 caramelle verdi
+[[src_bocconi_finalenaz_2007__Q07]]

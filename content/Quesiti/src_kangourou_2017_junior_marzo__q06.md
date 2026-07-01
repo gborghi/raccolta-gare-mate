@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q06
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi ottiene il prodotto maggiore e di quanto*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Who gets the biggest product and how much < MSK1/>
+
+> Bruno multiplies 3333 by 4445, Anna multiplies 2222 by 6667 and both get the correct result. Which of the two gets the most, and how much? A) Anna, from 1111. B) Bruno, from 1111. C) Anna, of 2222. D) Bruno, 2222. E) None of the above answers is correct.
+
+**Answer:** B
+[[src_kangourou_2017_junior_marzo__Q06]]

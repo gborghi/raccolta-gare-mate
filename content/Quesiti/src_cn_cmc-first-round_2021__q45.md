@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 45
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q45
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -27,6 +28,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *B1-1: f odd on R, f(1)=2, f(2)=3; find f(f(-1)).*
 
@@ -39,3 +42,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*B1-1: f pari su R, f(1)=2, f(2)=3; trovare f(f(-1)).*
+
+> [Test Paper B1, Problema 1] Supponiamo che $f(x)$ sia una funzione strana con dominio $\mathbb{R}$. Se $f(1)=2$, $f(2)=3$, allora il valore di $f(f(-1))$ è ______.
+
+**Risposta:** -3
+[[src_cn_cmc-first-round_2021__Q45]]

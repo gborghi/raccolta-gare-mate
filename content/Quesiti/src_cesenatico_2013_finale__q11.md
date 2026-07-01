@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q11
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto numeri della ninna nanna (sistema)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4206
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Nine number product (system) < MSK1/>
+
+> Root bed bugger enters the Duchess' house, who is cuddling an ugly baby in tears, singing him this unusual nanna nanna. Two numbers, one day, I wrote on a booklet, if you take the biggest one out of a hundred, and you add one to the smallest one, one will just increase their output. But if you take the sum of them by seventy-nine-five times, kid, you get the difference in the squares of those numbers over there. Now, can you tell me how long their product is? Hearing this, the baby starts screaming and groaning, until he turns into a piglet. What number is hidden behind the Duchess's nanny's nest?
+
+**Answer:** 4206
+[[src_cesenatico_2013_finale__Q11]]

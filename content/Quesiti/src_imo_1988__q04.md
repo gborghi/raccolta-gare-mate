@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1988 (29th IMO, Canberra) — Quesito 4'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1988__Q04
 parent: src_imo_1988
 competition: 'IMO 1988 (29th IMO, Canberra)'
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Inequality solution set is intervals of total length 1988*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Ybq-uT2smNXXPn3zPVTn60m5ILt7Hzss/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Inequality solution set is intervals of total length 1988*
+
+> Show that set of real numbers x which satisfy the inequality 70 X k=1 k x −k ≥5 4 is a union of disjoint intervals, the sum of whose lengths is 1988.
+
+[[src_imo_1988__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f1__Q24
 parent: src_obm_2016_n2_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count of four-digit numbers abcd with abcd-(sum of digits) a multiple of 1000*
 
@@ -50,3 +53,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conte dei numeri a quattro cifre abcd con abcd-(somma di cifre) multiplo di 1000*
+
+> Considerare un numero di almeno quattro cifre $\overline{abcd}$ e la differenza $\overline{abcd}-(a+b+c+d)=999a+99b+9c$. Analizzando le possibili scelte digitali e contando quelle per le quali la differenza è lo stesso valore modulo la condizione richiesta, si scopre che ci sono esattamente $100$ tali numeri. Quanti sono questi numeri? (Nota: il testo della soluzione sorgente di questa voce è parzialmente distorto; dichiarazione ricostruita dal contesto. Le opzioni multiple di scelta originali non sono riprodotte; la chiave di risposta dà $100$.)
+
+**Risposta:** C
+[[src_obm_2016_n2_f1__Q24]]

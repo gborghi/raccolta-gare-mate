@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Finale Nazionale Student — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_finale__Q05
 parent: src_kangourou_2018_student_finale
 competition: Kangourou 2018 Finale Nazionale Student
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dimostrare esistenza cerchio con esattamente n nodi reticolari*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** esiste sempre (dim.)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G_M-eOnqxzFZ-A4J1-CLR1Loyg3--KBZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Demonstrate the existence of a circle with exactly n knots < MSK1/>
+
+> Imagine the plane as a square sheet (all on the same side) boundless in every direction and call **node** each vertex of each square. It shows that for each $n$ there is a circle containing exactly $n$ nodes inside.
+
+**Answer:** esiste sempre (dim.)
+[[src_kangourou_2018_student_finale__Q05]]

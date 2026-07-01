@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_semifinale1__Q10
 parent: src_archimede_2026_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2026 - Semifinale 1
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume coppa da sviluppo quadrato con esagoni*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2405
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of square development cup with hexagons*
+
+![[src_archimede_2026_squadre_semifinale1__prob10.png]]
+
+> House Cup Luca Lamanna Ron is so excited about the House Cup that he wants to build a replica of it. It begins by carving out the flat development of the cup: a 9 cm side square on each side of which a regular hexagon is constructed, outside the square. Ron then assembles it, matching the sides of hexagons that have a vertex in common and then bending the hexagons inwards, along the major diagonal parallel to the sides of the square. This way the cup, which has a square hole at the top, is ready. What is its volume (in cm3)?
+
+**Answer:** 2405
+[[src_archimede_2026_squadre_semifinale1__Q10]]

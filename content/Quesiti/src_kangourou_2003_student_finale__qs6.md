@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student finale nazionale — Quesito S6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student_finale__QS6
 parent: src_kangourou_2003_student_finale
 competition: Kangourou 2003 Student finale nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lucchetti e chiavi per accesso a gruppi di 4/3*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 35 lucchetti 20 chiavi
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OBeXoq_PUWofvqyA2y-KxF9LlSDsE0IX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Locks and keys for access to groups of 4/3*
+
+> An examination committee shall be composed of seven members. The evidence texts shall be kept in a safe which can be closed with two-to-two different locks. How many locks must be used and how many keys must be given to each Commissioner in total if each group of four Commissioners is to be able to open the safe, but no group of three is?
+
+**Answer:** 35 lucchetti 20 chiavi
+[[src_kangourou_2003_student_finale__QS6]]

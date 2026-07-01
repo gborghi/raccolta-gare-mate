@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f3__Q04
 parent: src_obm_2015_n3_f3
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divisors alternating sum identity and characterization, find three solutions*
 
@@ -55,3 +58,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Divisioni alternando la somma identità e la caratterizzazione, trovare tre soluzioni*
+
+> Che $n$ sia un intero positivo e che $n = d_1 > d_2 > \cdots > d_k = 1$ sia il suo divisore positivo.
+> 
+> (a) Dimostra che $$d_1 - d_2 + d_3 - \cdots + (-1)^{k-1} d_k = n - 1$$ se e solo se $n$ è primo o $n = 4$.
+> 
+> b) Determinare i tre integri positivi < MSK1/> per i quali < MSK0/>
+
+[[src_obm_2015_n3_f3__Q04]]

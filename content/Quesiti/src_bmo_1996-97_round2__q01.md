@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1996-97 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1996-97_round2__Q01
 parent: src_bmo_1996-97_round2
 competition: British Mathematical Olympiad 1996-97 — Round 2
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divisibility by 7 preserved under digit swaps between two integers*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16oC7AaiZrRoqDodnHu4P3UrxIRp2B4_E/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Divisibilità per 7 conservata in scambi digitali tra due integri*
+
+> Che $M$ e $N$ siano due integri positivi a 9 cifre con la proprietà che se una cifra di $M$ viene sostituita dalla cifra di $N$ al posto corrispondente (ad esempio, la cifra "dieci" di $M$ è sostituita dalla cifra "dieci" di $N$), il numero intero risultante è un multiple di $7$. Prova che qualsiasi numero ottenuto sostituendo una cifra di $N$ con la cifra corrispondente di $M$ è anche un multiple di $7$. Trova un intero $d > 9$ tale che il risultato sopra riportato in merito alla divisibilità per $7$ rimanga vero quando $M$ e $N$ sono due integri positivi a 2 cifre $d$.
+
+[[src_bmo_1996-97_round2__Q01]]

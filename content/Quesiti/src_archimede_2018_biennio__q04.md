@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_biennio__Q04
 parent: src_archimede_2018_biennio
 competition: Giochi di Archimede 2018 - Biennio (T1)
@@ -28,6 +29,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita due carte stesso colore dopo scambi*
 
@@ -50,3 +53,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of two cards of the same color after trading*
+
+> Both Luca and Claudia have a red and a black card in their hands. Luke takes a random card from Claudia's hand and adds it to his own. At this point, Claudia is catching a card from Luca's hand. What is the probability that each of them will find himself holding two cards of the same color (one with two red cards, one with two black cards)?
+>
+> - **(A)** 3/4
+> - **(B)** 1/4
+> - **(C)** 1/3
+> - **(D)** 1/2
+> - **(E)** 1/6
+
+**Answer:** C
+[[src_archimede_2018_biennio__Q04]]

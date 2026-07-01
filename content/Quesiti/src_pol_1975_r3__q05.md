@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1975 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1975_r3__Q05
 parent: src_pol_1975_r3
 competition: Olimpiade Matematica Polacca 1975 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Characterize when a triangle with one angle alpha admits circumradius R and inradius r: iff 2R/r >= 1/(sin(alpha/2)(1-sin(alpha/2)))*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZj1pubsPzjyaS0gZ1wXauU_3x3XwBGJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Caricare quando un triangolo con un angolo alfa ammette il circondario R e l'inradio r: iff 2R/r >= 1/(sin(alfa/2)(1-sin(alfa/2)))*
+
+> Mostrare che è possibile circonscrivere un cerchio di raggio $R$ circa e iscrivere un cerchio di raggio $r$ in un triangolo con un angolo uguale a $\alpha$, se e solo se $$\frac{2R}{r} \ge \frac{1}{\sin \frac{\alpha}{2} \left(1 - \sin \frac{\alpha}{2}\right)}.$$
+
+[[src_pol_1975_r3__Q05]]

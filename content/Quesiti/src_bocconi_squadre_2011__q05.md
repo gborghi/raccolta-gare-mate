@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2011 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2011__Q05
 parent: src_bocconi_squadre_2011
 competition: Gara a Squadre 2011
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo codice segreto dal complemento a 30*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 839808
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csoOdxkAD8Fd4QvzRpEPzVVVOCkJ8l1C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum secret code from complement to 30*
+
+> The secret agent Nando, in order to contact his operational base, must first provide a secret code that he obtains with the square of a natural number $N$ (selected between 1 and 30) multiplied by the complement cube of $N$ to 30. (For example, for $N=5$, Nando will provide the number $5^2 \times 35^3 = 300\,625$). What's the biggest secret code Nando can provide?
+
+**Answer:** 839808
+[[src_bocconi_squadre_2011__Q05]]

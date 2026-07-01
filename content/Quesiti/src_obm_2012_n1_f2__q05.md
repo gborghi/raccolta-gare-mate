@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f2__Q05
 parent: src_obm_2012_n1_f2
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum value of expression 1-2+3-4+5-6+7-8+9-10 using parentheses*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GopwL_0fgb7iEbs-bG1HNdfWHmDyf8B2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta massima dell'espressione 1-2+3-4+5-6+7-8+9-10 con parentesi*
+
+> Utilizzando solo le parentesi quante siano necessarie, ma utilizzando solo le addizioni e le sottrazioni già indicate, possiamo rendere l'espressione $$1 - 2 + 3 - 4 + 5 - 6 + 7 - 8 + 9 - 10$$ il numero più grande possibile. Che numero è questo?
+
+[[src_obm_2012_n1_f2__Q05]]

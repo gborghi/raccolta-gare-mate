@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Cadet — Quesito C2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_finale__QC2
 parent: src_kangourou_2020_cadet_finale
 competition: Kangourou 2020 Finale nazionale Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tragitto minimo tra due punti toccando l asse y*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2020
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1USVAWxQY6y2E_COFv5RMawnN3IdAjH49/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum distance between two points touching the y axis *
+
+> In the Cartesian plane, how long is the shortest path linking the $(808, 808)$ point to the $(404, -808)$ point by touching the $y$ axis at least once?
+
+**Answer:** 2020
+[[src_kangourou_2020_cadet_finale__QC2]]

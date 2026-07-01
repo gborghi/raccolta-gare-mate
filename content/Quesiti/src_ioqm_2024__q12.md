@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q12
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of triangle MAB in square ABCD with trisection of CD*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area del triangolo MAB in quadrato ABCD con trisezione di CD*
+
+> Considera un quadrato $ABCD$ di lunghezza laterale $16$. $E, F$ siano punti su $CD$ in modo tale che $CE = EF = FD$. La linea $BF$ e $AE$ si incontrano in $M$. La superficie di $\triangle MAB$ è:
+
+[[src_ioqm_2024__Q12]]

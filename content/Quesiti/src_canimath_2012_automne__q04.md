@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2012 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2012_automne__Q04
 parent: src_canimath_2012_automne
 competition: Coupe Animath Automne 2012
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Round table: prove equal numbers of tall and short among 2013*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tavola rotonda: dimostrare numeri uguali di lunghi e corti tra il 2013*
+
+> Circa lo stesso tavolo si siedono persone di altezza diversa. Diciamo che una persona è *grande* (alta) se è più alta dei suoi due vicini, e *petite* (quota) se è più bassa dei suoi due vicini. Prova che il numero di persone alte intorno al tavolo è uguale al numero di persone basse.
+
+[[src_canimath_2012_automne__Q04]]

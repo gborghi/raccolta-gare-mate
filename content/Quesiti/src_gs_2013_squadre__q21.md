@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q21
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio rettangoli con perimetro 20 sulla griglia*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0296
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular count with perimeter 20 on the grid*
+
+![[src_gs_2013_squadre__prob21.png]]
+
+> The grate at the window of the cell in which Lewyj Stark is locked is made up of twenty-two bars, eleven vertical, eleven horizontal, which form 100 squares all equal on the side $5\text{ cm}$. Lewyj Stark spends his time forming with a thin wire perimeter rectangles $1\text{ m}$ with vertices at intersections between bars (and with all four sides of positive length). How many rectangles can it form?
+
+**Answer:** 0296
+[[src_gs_2013_squadre__Q21]]

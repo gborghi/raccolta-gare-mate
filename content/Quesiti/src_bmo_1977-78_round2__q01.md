@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1977-78 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1977-78_round2__Q01
 parent: src_bmo_1977-78_round2
 competition: British Mathematical Olympiad 1977-78 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex pentagon unit-triangle property: equal area, infinitely many non-congruent*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zLI5k50clg-k_utGFUoSPQrlhHf44lsu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Proprietà di unità triangolare pentagonale convexa: superficie uguale, infinite non congruenti*
+
+> Si dice che un pentagono converso piano $ABCDE$ abbia la "proprietà del triangolo unitario" se l'area di ciascuno dei triangoli $ABC$, $BCD$, $CDE$, $DEA$, $EAB$ è unità. Mostrare che tutti i pentagoni convexi a piano con la proprietà del triangolo unitario hanno la stessa area e che ci sono un numero infinito di questi pentagoni, di cui non due sono congruenti.
+
+[[src_bmo_1977-78_round2__Q01]]

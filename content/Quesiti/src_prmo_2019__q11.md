@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q11
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangles similar to ABC with cos A cos B sin C = 1*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangoli simili a ABC con cos A cos B sin C = 1*
+
+> Quanti triangoli distinti $ABC$ esistono, fino alla somiglianza, in modo tale che le magnitudini degli angoli $A$, $B$ e $C$ in gradi siano integri positivi e $$\cos A \cos B + \sin A \sin B \sin kC = 1$$ per qualche integro positivo $k$, dove $kC$ non supera $360^\circ$?
+
+[[src_prmo_2019__Q11]]

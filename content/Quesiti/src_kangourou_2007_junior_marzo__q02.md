@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q02
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti biglietti premiati (vincolo sulle cifre)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many tickets were awarded (link on figures) *
+
+> In a lottery, only those ticket holders whose number is at least five digits are awarded prizes, three of which are higher than two. Of the following ticket holders, 1022, 22222, 102334, 213343, 3042531, how many are awarded? A) 1 B) 2                  C) 3 D) 4                      E) 5
+
+**Answer:** B
+[[src_kangourou_2007_junior_marzo__Q02]]

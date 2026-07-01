@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q08
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cost of alcohol to drive 600 km at 25 km per 3 litres*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Costo di alcol per guidare 600 km a 25 km per 3 litri*
+
+> Un litro di alcol costa 0,75 MSK1/>25 MSK2/>3 MSK3/>600$ km?
+> 
+> (A) $54$ \quad (B) $72$ \quad (C) $50$ \quad (D) $52$ \quad (E) $45$
+
+**Risposta:** B
+[[src_obm_2000_n1_f1__Q08]]

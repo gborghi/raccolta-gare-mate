@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q06
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of a square sheet cut into two squares and two rectangles*
 
@@ -54,3 +57,22 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area di un foglio quadrato tagliato in due quadrati e due rettangoli*
+
+> Con due tagli perpendicolari, Pablo divise un foglio quadrato di legno in due quadrati di aree $400\,\text{cm}^2$ e $900\,\text{cm}^2$ e due rettangoli uguali in più, come nel disegno. Qual è l'area del foglio di legno?
+>
+> - **(A)** $2500\,\text{cm}^2$
+> - **(B)** $2400\,\text{cm}^2$
+> - **(C)** $2100\,\text{cm}^2$
+> - **(D)** $1800\,\text{cm}^2$
+> - **(E)** $1600\,\text{cm}^2$
+
+![[src_obm_2015_n1_f1__Q06.png]]
+
+**Risposta:** A
+[[src_obm_2015_n1_f1__Q06]]

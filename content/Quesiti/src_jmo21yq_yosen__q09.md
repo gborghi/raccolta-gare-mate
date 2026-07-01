@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo21yq_yosen__Q09
 parent: src_jmo21yq_yosen
 competition: Japan Mathematical Olympiad 2011 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count color arrangements of 12 marbles in a row with adjacency condition*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le disposizioni di colore di 12 marmi in fila con condizione di adiacenza*
+
+> I marmi rossi, blu e gialli  12 in totale  sono disposti in una riga orizzontale. Trova il numero di accordi che soddisfano la seguente condizione. Qui vengono considerati anche gli arrangiamenti con 2 o meno colori per i marmi.
+> 
+> **Condizione: ** Per ogni marmo di un dato colore, esiste un marmo dello stesso colore adiacente.
+
+[[src_jmo21yq_yosen__Q09]]

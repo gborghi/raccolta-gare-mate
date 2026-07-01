@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2010 — Quesito
   11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2010__Q11
 parent: src_bocconi_finalenaz_2010
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2010
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Km massimi in bicicletta in tre ore e mezzo*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 48
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum cycling distance in three and a half hours< MSK1/>
+
+> John finished a three-and-a-half-hour bike ride. In each one-hour interval, he traveled 12 kilometers.
+> 
+> What is the maximum number of kilometres you could have walked?
+
+**Answer:** 48
+[[src_bocconi_finalenaz_2010__Q11]]

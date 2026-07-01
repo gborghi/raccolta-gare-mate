@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q10
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Mean of four numbers, each added to mean of the other three gives 60,64,68,72*
 
@@ -48,3 +51,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Medio di quattro numeri, ognuno aggiunto alla media degli altri tre dà 60,64,68,72*
+
+> Esmeralda scelse quattro numeri e, aggiungendo ciascuno alla media aritmetica degli altri tre, ottenne i numeri $60, 64, 68$ e $72$. Qual è la media aritmetica dei quattro numeri che ha scelto inizialmente?
+> 
+> (A) 30 \quad (B) 31 \quad (C) 32 \quad (D) 33 \quad (E) 66
+
+**Risposta:** D
+[[src_obm_2011_n1_f1__Q10]]

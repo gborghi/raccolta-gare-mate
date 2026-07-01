@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2007 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2007__Q03
 parent: src_bocconi_autunno_2007
 competition: Giochi d'Autunno 2007
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti per costruire la piramide vuota del disegno*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 41
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cubets to build the empty pyramid of the design*
+
+> How many cubes did it take to build the drawing pyramid? Keep in mind that each plane of the pyramid is a square and that, in each plane, the cubes are arranged only along the edges (in the middle there is a buck).
+
+![[src_bocconi_autunno_2007__Q03.png]]
+
+**Answer:** 41
+[[src_bocconi_autunno_2007__Q03]]

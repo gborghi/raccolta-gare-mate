@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (finale nazionale) — Quesito C5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet_finale__QC5
 parent: src_kangourou_2005_cadet_finale
 competition: Kangourou 2005 - Cadet (finale nazionale)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori possibili di x+y con x+y+xy=90*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** uno, 18
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xu5y5JpzGNUIyhivHcF8Vczu7vpaLZFN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible values of x+y with x+y+xy=90*
+
+> If $x$ and $y$ are two strictly positive integers such that $$x + y + xy = 90,$$ is obtained, what are the possible values of the sum $x + y$?
+
+**Answer:** uno, 18
+[[src_kangourou_2005_cadet_finale__QC5]]

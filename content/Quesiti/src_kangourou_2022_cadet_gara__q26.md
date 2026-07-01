@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet gara individuale — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q26
 parent: src_kangourou_2022_cadet_gara
 competition: Kangourou 2022 Cadet gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo caselle da colorare per coprire ogni 1x4*
 
@@ -60,3 +63,32 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum coloring boxes to cover each 1x4*
+
+![[src_kangourou_2022_cadet_gara__prob26.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw[step=1cm] (0,0) grid (5,5);
+\end{tikzpicture}
+\end{document}
+```
+
+> The figure shows a square grid of 5×5. We want every rectangle 1×4 and every rectangle 4×1 made up of adjacent grid boxes to have at least one colored box. What is the smallest number of boxes that you need (and just need) to color? A) 5
+> 	
+> B) 6
+> 	
+> C) 7
+> 	
+> D) 8
+> 	
+> E) 9
+
+**Answer:** B
+[[src_kangourou_2022_cadet_gara__Q26]]

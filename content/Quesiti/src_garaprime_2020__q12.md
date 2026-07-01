@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2020 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2020__Q12
 parent: src_garaprime_2020
 competition: Gara Nazionale Classi Prime 2020
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del trapezio ABCD in un ottagono regolare*
 
@@ -75,3 +78,44 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RcjMtWkWdcfagBZF3LMfq3IMn7aMwmGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the ABCD trapezoid in a regular octagon*
+
+![[src_garaprime_2020__prob12.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \def\r{2}
+  \coordinate (A) at (-67.5:\r);
+  \coordinate (B) at (-22.5:\r);
+  \coordinate (C) at (22.5:\r);
+  \coordinate (D) at (67.5:\r);
+  \coordinate (E) at (112.5:\r);
+  \coordinate (F) at (157.5:\r);
+  \coordinate (G) at (202.5:\r);
+  \coordinate (H) at (247.5:\r);
+  \fill[gray!25] (A)--(B)--(C)--(D)--cycle;
+  \draw (A)--(B)--(C)--(D)--(E)--(F)--(G)--(H)--cycle;
+  \draw (A)--(D);
+  \foreach \p in {A,B,C,D,E,F,G,H} \fill (\p) circle (1.2pt);
+  \node[right] at (A) {$A$};
+  \node[right] at (B) {$B$};
+  \node[right] at (C) {$C$};
+  \node[above] at (D) {$D$};
+  \node[above] at (E) {$E$};
+  \node[left]  at (F) {$F$};
+  \node[left]  at (G) {$G$};
+  \node[left]  at (H) {$H$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The ABCDEFGH area is 1440. What is the area of the trapezoid ABCD? A 360 B 480 C 288 D 432 E 400 F 384
+
+**Answer:** A
+[[src_garaprime_2020__Q12]]

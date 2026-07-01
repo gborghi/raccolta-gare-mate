@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q22
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale affermazione vera sui colori dei triangolini*
 
@@ -56,3 +59,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What is true about the colours of the triangles*
+
+![[src_kangourou_2019_ecolier_marzo__prob22.png]]
+
+> Mary has nine small triangles: three red, three yellow and three blue. By approaching them as shown in the figure, he formed a large triangle following this rule: if two small triangles have a side in common, they must be of different colors. In the figure you can see where a red triangle (R), a yellow triangle (G) and two blue triangles (B) are located; the other triangles are numbered. Which of the following statements is true? A) 1 is yellow and 3 is blue.
+> 	
+> B) 1 is blue and 2 is red.
+>      
+> C) 1 and 3 are both red. D) 5 is red and 2 is yellow. E) 1 and 3 are both yellow.
+
+**Answer:** E
+[[src_kangourou_2019_ecolier_marzo__Q22]]

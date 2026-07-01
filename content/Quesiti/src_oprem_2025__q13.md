@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2025 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2025__Q13
 parent: src_oprem_2025
 competition: Olympiades Nationales de Mathématiques (Première) 2025
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exercise 3 intro: prove 1+...+m=m(m+1)/2 by reversal, derive shifted-sum formula, and the examples 6, 7, 204*
 
@@ -72,3 +75,34 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 6 has balance 2; 7 is not balanced; 204 has balance 84
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esercizio 3 intro: dimostrare 1+...+m=m(m+1)/2 per inversione, derivare la formula della somma spostata, e gli esempi 6, 7, 204*
+
+> **Esercizio 3 - Per i candidati del flusso generale NON che seguono la specialità "spe mathematics", e TUTTI i candidati del flusso tecnologico**
+> 
+> Ricerca d'equilibrio: i numeri sul file
+> 
+> **1. Una formula utile per i seguenti.** Aggiungendo la somma $S = 1 + 2 + 3$ a se stessa, ma presa in ordine inverso, vale a dire $S = 3 + 2 + 1$, e presentando l'operazione come segue, $$\begin{array}{r}1+2+3\\+\ 3+2+1\\\hline 4+4+4\end{array}$$ si calcola $S + S = 3 \times 4$ e quindi $S = 6$.
+> 
+> Più in generale, dimostrare in questo modo che per ogni numero naturale non zero $m$: $$1 + 2 + 3 + \cdots + m = \frac{m(m+1)}{2}.$$
+> 
+> **2.** Deduci che per ogni numero naturale non zero $n$ e per ogni numero naturale non zero $b$: $$(n+1) + (n+2) + (n+3) + \cdots + (n+b) = \frac{b(2n+b+1)}{2}.$$
+> 
+> Quando $n$ è un intero almeno uguale a 2, diciamo che $n$ è un **numero bilanciato** se si può trovare un intero non zero $b$ tale che: $$1 + 2 + 3 + \cdots + (n-1) = (n+1) + (n+2) + \cdots + (n+b).$$ In questo caso, l'intero $b$ è unico ed è chiamato il **equilibrio** di $n$.
+> 
+> Ad esempio, 35 è un numero equilibrato, poiché $1 + 2 + 3 + 4 + \cdots + 34 = 595$ e $(35+1) + (35+2) + \cdots + (35+14) = 595$. L'equilibrio di 35 e' 14.
+> 
+> **3. Alcuni esempi**
+> 
+> **(a) ** Indicare che 6 è un numero equilibrato e specificare il suo equilibrio.
+> 
+> **(b) ** Mostra che 7 non è un numero equilibrato.
+> 
+> **(c) ** Mostra che 204 è un numero bilanciato di equilibrio 84.
+
+**Risposta:** 6 has balance 2; 7 is not balanced; 204 has balance 84
+[[src_oprem_2025__Q13]]

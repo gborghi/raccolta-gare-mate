@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2023 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2023__Q14
 parent: src_smc_2023
 competition: Senior Mathematical Challenge 2023
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of values of d for two points on a circle centred at origin*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa dei valori di d per due punti su un cerchio centrato all'origine*
+
+> I punti $P\,(d,-d)$ e $Q\,(12-d,2d-6)$ si trovano entrambi sulla circonferenza dello stesso cerchio il cui centro è l'origine. Qual è la somma dei due valori possibili di $d$?
+>
+> - **(A)** $-16$
+> - **(B)** $-4$
+> - **(C)** $4$
+> - **(D)** $8$
+> - **(E)** $16$
+
+**Risposta:** E
+[[src_smc_2023__Q14]]

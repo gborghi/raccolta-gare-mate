@@ -1,6 +1,7 @@
 ---
 title: IMO 1978 (XX International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1978__Q02
 parent: src_imho_1978
 competition: IMO 1978 (XX International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Three mutually perpendicular rays from point P on a sphere*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three mutually perpendicular rays from point P on a sphere*
+
+> $P$ is a given point on a sphere. Three mutually perpendicular rays from $P$ intersect the sphere at points $U$, $V$, $W$. Prove that for all such triples of rays, the plane of triangle $UVW$ passes through a fixed point, and find the locus of $Q$ for all such triangles $UVW$.
+
+[[src_imho_1978__Q02]]

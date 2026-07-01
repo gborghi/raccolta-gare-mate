@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2022 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2022__Q18
 parent: src_cn_ctst_2022
 competition: China National Team Selection Test 2022
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *(1) Convex hull of zeros of z^19+63z+22 has area > π; (2) polynomial root magnitude bound*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*(1) Lo scafo convexo di zeri di z^19+63z+22 ha superficie > π; (2) limite di grandezza radicale polinomial*
+
+> (1) Provare che, sul piano complesso, lo scafo convexo dell'insieme di zeri di $z^{19} + 63z + 22 = 0$ ha una superficie superiore a $\pi$.
+> 
+> (2) Che $n$ sia un intero positivo e che $1 \le k_1 < k_2 < \cdots < k_n$ sia $n$ pari interi positivi. Prova che per qualsiasi numero complesso $n$ $a_1, a_2, \ldots, a_n$ con $\sum_{i=1}^{n} a_i = 1$ e per qualsiasi numero complesso $w$ con $|w| \ge 1$, l'equazione $$a_1 z^{k_1} + a_2 z^{k_2} + \cdots + a_n z^{k_n} = w$$ ha almeno una radice $z$ con $|z| \le 3mn$, dove $m = \max_{1 \le i \le n} |a_i|^{-1}$.
+
+[[src_cn_ctst_2022__Q18]]

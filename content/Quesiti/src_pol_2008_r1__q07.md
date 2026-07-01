@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2008 — Round 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2008_r1__Q07
 parent: src_pol_2008_r1
 competition: Olimpiade Matematica Polacca 2008 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a company of 2^n-1 people, each subset elects a leader (a member outside it); prove a global choice exists and count the choices.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In una società di 2^n-1 persone, ogni sottoinsieme sceglie un leader (un membro al di fuori di esso); dimostra l'esistenza di una scelta globale e conta le scelte.*
+
+> In un insieme di persone $n$ si formano società $2^n - 1$ (una società è un sottoinsieme non vuoto di persone). Ogni società deve scegliere un leader secondo la seguente regola: se una società $C$ è l'unione $A \cup B$ di due società $A$ e $B$, allora il leader di $C$ è anche il leader di almeno una delle società $A$ e $B$. Trova il numero di possibili scelte di leader.
+
+[[src_pol_2008_r1__Q07]]

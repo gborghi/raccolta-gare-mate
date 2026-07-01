@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q06
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max MCD(m,n) scambiando prima/ultima cifra + n cifre*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0008
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max MCD(m,n) by exchanging the first/last digit + n digits< MSK1/>
+
+> On the planet Geodesis, between one evil plan and the other, Count Sudooku delights in writing numbers of up to 10 digits with the first and last digits different between them and from zero. Next to each number m, he writes the number n obtained from m by exchanging the first and last digits, and then notes the maximum common divisor d between m and n. Determine the maximum possible value for d and add it to the number of its digits. Team competition 2016  National final  Problem texts  1/5
+> 
+> 2/5 Team competition 2016  National final  Problems
+
+**Answer:** 0008
+[[src_cesenatico_2016_finale__Q06]]

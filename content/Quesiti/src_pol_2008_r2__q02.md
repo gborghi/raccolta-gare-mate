@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2008 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2008_r2__Q02
 parent: src_pol_2008_r2
 competition: Olimpiade Matematica Polacca 2008 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex pentagon with equal-angle conditions; prove AS perpendicular to CD where S is the intersection of diagonals BD and CE.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBqpAesfIgvgnT5yAsrIJN7zQovSRGdZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Pentagono converso con condizioni di angolo uguale; dimostrare AS perpendicolare a CD dove S è l'intersezione delle diagonali BD e CE.*
+
+> Un pentagono convexo $ABCDE$ è tale che $\angle ABD = \angle ACE$, $\angle ACB = \angle ACD$, $\angle ADC = \angle ADE$ e $\angle ADB = \angle AEC$. Le diagonali $BD$ e $CE$ si intersecano a $S$. Prova che $AS$ è perpendicolare a $CD$.
+
+[[src_pol_2008_r2__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q22
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume piramide che racchiude 14 cubi*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of pyramid containing 14 cubes*
+
+![[src_kangourou_2005_junior__prob22.png]]
+
+> 14 volume 1 cubes are stacked as shown in Figure 1. The resulting construction is enclosed in a pyramid, as shown in the figure. What's the volume of this pyramid? A) 64 B) 32 C) D) E)
+
+**Answer:** D
+[[src_kangourou_2005_junior__Q22]]

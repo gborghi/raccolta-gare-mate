@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2019 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2019__Q15
 parent: src_garaprime_2019
 competition: Gara Nazionale Classi Prime 2019
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di primi nella fattorizzazione di p(19,18)*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GTzdagqUQpCUSYBLrYJmJaKl7DQUIbtK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of firsts in the factorization of p(19,18) < MSK1/>
+
+> Given the polynomial p(x, y) = x5 +x4y +x3y2 +x2y3 +xy4 +y5, both n = p(19, 18), i.e. n is the number that is obtained by replacing the values x = 19 and y = 18 in the polynomial. How many different prime numbers do you have in the factorization of n? A 4 B 3 C 5 D 6 E 7 F more than 7
+
+**Answer:** A
+[[src_garaprime_2019__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale B — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_b__Q15
 parent: src_gas_2009_semifinale_b
 competition: Gara a Squadre 2009 - Semifinale B
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima distanza tra due punti date somme quadrati ai vertici*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 9000
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum distance between two points given sums squared at vertices*
+
+> The Battle of Pontor The Battle of Pontor, between Gaussdalf and Tauron, took place in a square forest, from the perimeter of 68 Km. The scriptures record, for both contenders, the sum of the squares of the distances from the vertices of the battlefield: Gaussdalf 747 Km2, Tauron 603 Km2. How many yards away did the wizard and the dark lord have to face each other?
+
+**Answer:** 9000
+[[src_gas_2009_semifinale_b__Q15]]

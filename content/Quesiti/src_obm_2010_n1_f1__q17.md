@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f1__Q17
 parent: src_obm_2010_n1_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of rectangular tiling with 17 white unit squares in corner pattern*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di piastrelle rettangolari con 17 quadrati di unità bianche in angolo *
+
+> La figura rappresenta un angolo di una piastra rettangolare fatta di quadrati unitari (lato $1\,\text{cm}$). In questo tessuto $17$ i quadrati sono bianchi. Qual è la superficie della piastrella, in < MSK2/>?
+> 
+> (A) $29$ \quad (B) $34$ \quad (C) $35$ \quad (D) $40$ \quad (E) $150$
+
+![[src_obm_2010_n1_f1__Q17.png]]
+
+**Risposta:** B
+[[src_obm_2010_n1_f1__Q17]]

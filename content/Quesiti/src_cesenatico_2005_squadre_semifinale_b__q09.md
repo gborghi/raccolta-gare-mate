@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_b__Q09
 parent: src_cesenatico_2005_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2005 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di distribuire 27 caramelle a tre con esattamente due tipi*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7104
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iFfFchZtZKQhrAMA0KsBO1ZR930Z0xA7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How to distribute 27 candies to three with exactly two types< MSK1/>
+
+> Andrea, Bernardo and Chiara want to share a pack of candy. The pack contains < MSK0/> strawberry candy, < MSK1/> lemon and < MSK2/> mint. How many ways can the $27$ candies (even in non-equal parts) be distributed between the three, so that each has candies of exactly two types?
+
+**Answer:** 7104
+[[src_cesenatico_2005_squadre_semifinale_b__Q09]]

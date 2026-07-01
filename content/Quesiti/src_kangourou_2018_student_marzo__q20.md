@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q20
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di f(0)+f(1)+f(2)+f(3) con f(x+y)=f(x)f(y)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of f(0) + f(1) + f(2) + f(3) with f(x+y) = f(x) f(y) *
+
+> 20. Whether f is a function such that f (x + y) = f (x) f (y) for all integers x and y. If f (1) = 1/2, what is f (0) + f (1) + f (2) + f (3)? The Commission shall adopt delegated acts in accordance with the opinion of the Standing Committee on Planning and Zoning in accordance with the opinion of the Standing Committee on Planning and Zoning.
+
+**Answer:** D
+[[src_kangourou_2018_student_marzo__Q20]]

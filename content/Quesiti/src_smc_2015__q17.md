@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q17
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Radius of smaller circles in a diagram of eight circles arranged in concentric pairs at corners of a square*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Radio di cerchi più piccoli in un diagramma di otto cerchi disposti in coppie concentriche alle angoli di un quadrato*
+
+> Il diagramma mostra otto cerchi di due dimensioni diverse. I cerchi sono disposti in coppie concentriche in modo che i centri formino un quadrato. Ogni cerchio più grande tocca un altro cerchio più grande e due cerchi più piccoli. I cerchi più grandi hanno raggio 1. Qual è il raggio di ogni cerchio più piccolo?
+>
+> - **(A)** $\dfrac{1}{4}$
+> - **(B)** $\dfrac{1}{3}$
+> - **(C)** $\sqrt{2} - 1$
+> - **(D)** $\dfrac{1}{2}$
+> - **(E)** $\dfrac{1}{\sqrt{2}}$
+
+![[src_smc_2015__Q17.png]]
+
+**Risposta:** C
+[[src_smc_2015__Q17]]

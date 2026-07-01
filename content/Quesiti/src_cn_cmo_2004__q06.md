@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2004 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2004__Q06
 parent: src_cn_cmo_2004
 competition: China Mathematical Olympiad 2004
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove all but finitely many positive integers are sums of 2004 strictly increasing integers with divisibility chain*
 
@@ -47,3 +50,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove tutti, se non finiti, molti integri positivi sono somme del 2004 di integri rigorosamente in aumento con catena di divisibilità*
+
+> Prova che ogni intero positivo $n$, ad eccezione di un numero finito di essi, può essere rappresentato come una somma di interi positivi 2004: $n = a_1 + a_2 + \cdots + a_{2004}$, dove $1 \le a_1 < a_2 < \cdots < a_{2004}$, e $a_i \mid a_{i+1}$, $i = 1, 2, \ldots, 2003$. (Possibile da Chen Yonggao)
+
+[[src_cn_cmo_2004__Q06]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q09
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sei punti su una retta non in ordine: distanza tra i due punti piu lontani.*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2 soluzioni: 17 cm; 15 cm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Six points on a straight line not in order: distance between the two most distant points.*
+
+> Six points $A$, $B$, $C$, $D$, $E$ and $F$ are marked on a straight line, not necessarily in this order. It is known that $AB = 2$ cm, $BC = 3$ cm, $CD = 5$ cm, $DE = 7$ cm, $EF = 8$ cm and $FA = 9$ cm. What is the distance in cm between the two most distant points?
+
+**Answer:** 2 soluzioni: 17 cm; 15 cm
+[[src_bocconi_finaleint_2008_g1__Q09]]

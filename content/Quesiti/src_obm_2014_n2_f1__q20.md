@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f1__Q20
 parent: src_obm_2014_n2_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Point on angle bisector; given area of one sub-triangle, find area of other*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto sul bisettore angolare; data superficie di un triangolo, trova area di un altro*
+
+> In triangolo $ABC$, $AB = 5$ e $AC = 6$. Il punto $P$ deve essere un punto sul bisector dell'angolo $\widehat{BAC}$. L'area del triangolo $APB$ è $\frac{5}{2}$. Qual è l'area del triangolo $APC$?
+> 
+> (A) $\frac{5}{4}$ $\quad$ (B) $\frac{9}{4}$ $\quad$ (C) $\frac{23}{4}$ $\quad$ (D) $\frac{25}{4}$ $\quad$ (E) $\frac{4}{5}$
+
+**Risposta:** D
+[[src_obm_2014_n2_f1__Q20]]

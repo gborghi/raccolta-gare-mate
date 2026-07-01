@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_semifinale_a__Q09
 parent: src_cesenatico_2012_semifinale_a
 competition: Gara a Squadre Cesenatico 2012 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pagine mangiate dal verme tra i volumi*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5904
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Pages eaten by worms between volumes< MSK1/>
+
+> The alien invaders Santovasku know that the only Earthling who can resist them is a scholar who keeps the secrets to defeat them on n voluminous books, arranged on a single shelf, from number 1 (left) all the way to number n (right). To destroy the books, an alien insect is sent out into the space between page 100 and page 101 of the first volume and begins to eat to the right, until the last volume, where it stops between page 10 and page 11. It is known that each volume has 38 more pages than the previous one and that the sum of the pages of the fourth and last volumes is equal to twice the pages of the seventh volume and three times the pages of the first volume. How many pages did the worm eat? Ignore the covers, but remember how the volumes are arranged on the shelf.
+
+**Answer:** 5904
+[[src_cesenatico_2012_semifinale_a__Q09]]

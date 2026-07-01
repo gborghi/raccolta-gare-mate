@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q04
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti spigoli ha piramide con 23 facce triangolari*
 
@@ -44,3 +47,21 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many beads has a pyramid with 23 triangular faces
+
+> How many beads does a pyramid have that has 23 triangular faces? A) 23
+> 	
+> B) 24
+> 	
+> C) 46
+> 	
+> D) 48 E) 69
+>
+
+**Answer:** C
+[[src_kangourou_2019_student_marzo__Q04]]

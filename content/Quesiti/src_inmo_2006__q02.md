@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2006 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2006__Q02
 parent: src_inmo_2006
 competition: Indian National Mathematical Olympiad 2006
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Unique ordered pair (a,b) giving every positive integer n*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fL6CHwtNRPMnX4gkiManxyf5xqdd58fL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un'unica coppia ordinata (a,b) che dà ogni numero intero positivo n*
+
+> Prove che per ogni intero positivo $n$ esiste una coppia unica **** ordinata $(a, b)$ di interi positivi in modo tale che $$n = \frac{1}{2}(a + b - 1)(a + b - 2) + a.$$
+
+[[src_inmo_2006__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q18
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers below 1000000 whose cubes end in 1*
 
@@ -54,3 +57,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare interi positivi inferiori a 1000000 i cui cubetti terminano in 1*
+
+> Quanti numeri interi positivi minori di $1{.}000{.}000$ ci sono i cui cubetti finiscono in 1?
+>
+> - **(A)** 1.000
+> - **(B)** 10.000
+> - **(C)** 50.000
+> - **(D)** 100.000
+> - **(E)** 500.000
+
+**Risposta:** D
+[[src_obm_2000_n3_f1__Q18]]

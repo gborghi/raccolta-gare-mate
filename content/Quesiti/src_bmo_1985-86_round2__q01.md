@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1985-86 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1985-86_round2__Q01
 parent: src_bmo_1985-86_round2
 competition: British Mathematical Olympiad 1985-86 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rational point centre of similitude for two rational-point segments*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mG_z1yGslDZWUJ7U6HvxDw6ixvIjUXu2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Centro di somiglianza dei punti razionali per due segmenti di punti razionali*
+
+> Gli assi cartesiani rettangolari a piano sono dati con uguale lunghezza unitaria lungo ogni asse. Un punto razionale è definito come un punto le cui coordinate sono entrambi numeri razionali. $A, B, A', B'$ sono quattro punti razionali distinti; $A$ e $B$ sono sull'asse $x$. Prova che $\overline{AB} = \overline{A'B'}$, esiste solo un punto $P$ tale che i triangoli $PAB$, $PA'B'$ siano direttamente simili, ovvero ciascuno può essere ottenuto dall'altro mediante ingrandimento (e traduzione) e rotazione di circa $P$. Prova anche che $P$ è un punto razionale.
+
+[[src_bmo_1985-86_round2__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2010 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2010__Q02
 parent: src_inmo_2010
 competition: Indian National Mathematical Olympiad 2010
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all n>1 such that n² does not divide (n-2)!*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GhkONMJ0LPgZdmr5745TyA4cn4-EdBzP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le n>1 in modo che n2 non divida (n-2)!*
+
+> Trova tutti i numeri naturali $n > 1$ in modo tale che $n^2$ divida ** non ** $(n-2)!$.
+
+[[src_inmo_2010__Q02]]

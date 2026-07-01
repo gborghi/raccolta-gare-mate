@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1980 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1980_r3__Q06
 parent: src_pol_1980_r3
 competition: Olimpiade Matematica Polacca 1980 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove combinatorial identity summing to $2^{2n}$*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1buHUldz_MXLjWLDDfrCtJVYfHr83vEi2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove l'identità combinatoria sommata a $2^{2n}$*
+
+> Prove che per ogni numero naturale $n$ abbiamo: $$\sum_{k=1}^{n} 2^{2k-1} \binom{n}{k} = 2^{2n}.$$
+
+[[src_pol_1980_r3__Q06]]

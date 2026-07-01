@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2024 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_automne__Q06
 parent: src_canimath_2024_automne
 competition: Coupe Animath Automne 2024
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square ABCD, equilateral triangles ABE and DAF exterior; midpoint H of EF, G = (BF)∩(CE); show GH=GC*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrato, triangoli equilaterali ABE e DAF esterni; punto medio H di EF, G = (BF) ∩(CE); mostra GH=GC*
+
+> $ABCD$ sia quadrato e $E$ e $F$ puntino l'esterno di $ABCD$ in modo tale che i triangoli $ABE$ e $DAF$ siano equilaterali. $H$ sia il punto medio di $[EF]$ e $G$ il punto di intersezione delle linee $(BF)$ e $(CE)$. Mostra che < MSK11/>.
+
+[[src_canimath_2024_automne__Q06]]

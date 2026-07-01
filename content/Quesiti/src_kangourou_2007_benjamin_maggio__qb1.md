@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin finale (maggio) — Quesito B1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_maggio__QB1
 parent: src_kangourou_2007_benjamin_maggio
 competition: Kangourou 2007 Benjamin finale (maggio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo ADE (parallelogramma)*
 
@@ -57,3 +60,36 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1,5 cm^2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wbmAAkHVqbo7EOEVBYt8x1-cdr8_snEU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*area of the ADE triangle (parallelogram) *
+
+![[src_kangourou_2007_benjamin_maggio__probB1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (5,0);
+  \coordinate (D) at (1.2,2);
+  \coordinate (C) at (6.2,2);
+  \coordinate (E) at (3.7,2);
+  \draw (A) -- (B) -- (C) -- (D) -- cycle;
+  \draw (A) -- (E);
+  \draw (E) -- (B);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above right] at (C) {$C$};
+  \node[above left] at (D) {$D$};
+  \node[above] at (E) {$E$};
+\end{tikzpicture}
+\end{document}
+```
+
+> If the parallelogram $ABCD$ has an area $7 \ \text{cm}^2$, and the triangle $EBC$ has an area $2 \ \text{cm}^2$, what is the area of the triangle $ADE$ in the figure? (see figure)
+
+**Answer:** 1,5 cm^2
+[[src_kangourou_2007_benjamin_maggio__QB1]]

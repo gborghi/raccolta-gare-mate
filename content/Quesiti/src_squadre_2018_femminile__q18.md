@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q18
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza EF con triangoli equilateri esterni a quadrilatero*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0058
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length EF with equilateral triangles outside quadrilateral*
+
+![[src_squadre_2018_femminile__prob18.png]]
+
+> Ignoring Professor Fredholm's orders, Liela takes the Planar Express shuttle to a demolition derby to settle a score with a guy who offended her. But now he has to return to Earth and calculate the shortest trajectory. I'll show you the position on the screen. The on-board computer, perhaps due to a malfunction due to the shots received, draws an ABCD quadrilateral. Liela observes that there is a point P inside it where ADP and BCP are equilateral triangles. By constructing the equilateral triangles ABE and DCF externally to the quadrilateral , the onboard computer indicates that the Earth is at point F and the Planar Express is at point E . The computer reports only the data 20 AD  light years, 21 DC  light years and ˆ 90 FDP  . With this data, will Liela be able to calculate the length of EF (in light years) to get everyone home?
+
+**Answer:** 0058
+[[src_squadre_2018_femminile__Q18]]

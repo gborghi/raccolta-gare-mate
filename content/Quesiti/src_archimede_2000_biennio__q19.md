@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Biennio — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_biennio__Q19
 parent: src_archimede_2000_biennio
 competition: Giochi di Archimede 2000 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza spigolo CD di tetraedro dati gli spigoli*
 
@@ -48,3 +51,20 @@ tags:
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Tetrahedron CD length of beam given the beams< MSK1/>
+
+> In the tomb of Pharaoh Tetrankamon, an emerald, shaped like a tetrahedron (a triangular-based pyramid) was found whose shoots measure in millimeters (54, 32, 29, 27, 20). When you point with A, B, C, D to the vertices of the tetrahedron and you know AB is 54, how many millimeters is CD?
+>
+> - **(A)** 32
+> - **(B)** 29
+> - **(C)** 27
+> - **(D)** 20
+> - **(E)** It's impossible to determine.
+
+**Answer:** D
+[[src_archimede_2000_biennio__Q19]]

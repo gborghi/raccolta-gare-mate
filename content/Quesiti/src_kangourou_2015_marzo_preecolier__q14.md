@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q14
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prossima data futura con tre 5*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.14](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Next future date with three 5*
+
+> The date $5/5/2015$ ($5$ May $2015$) contains three $5$. The nearest future date which will contain three more < MSK4/> is:
+> 
+> (A) $5/5/2025$ (B) $15/6/2055$ (C) $15/5/2050$ (D) $25/5/2015$ (E) $15/5/2015$
+
+**Answer:** E
+[[src_kangourou_2015_marzo_preecolier__Q14]]

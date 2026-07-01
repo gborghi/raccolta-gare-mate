@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Biennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_biennio__Q14
 parent: src_archimede_2005_biennio
 competition: Giochi di Archimede 2005 - Gara Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri n con prodotto piu somma cifre uguale a n*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers n with product plus sum of digits equal to n*
+
+> For every integer n between 10 and 99, including extremes, the product of its digits and the sum of its digits are added, thus obtaining a new number S(n). For how many n happens that S(n) = n?
+>
+> - **(A)** 8,
+> - **(B)** 9,
+> - **(C)** 10,
+> - **(D)** 11,
+> - **(E)** 12.
+
+**Answer:** B
+[[src_archimede_2005_biennio__Q14]]

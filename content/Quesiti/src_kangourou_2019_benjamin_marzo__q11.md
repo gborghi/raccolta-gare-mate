@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q11
 parent: src_kangourou_2019_benjamin_marzo
 competition: Kangourou 2019 Gara di Marzo Benjamin
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *19 con le stesse cifre*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mCVu8mcZWozh4A9IixxiUAmKQbLsElwm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*19 with the same figures *
+
+> A digital clock marks 20:19. What is the closest time to 20:19 as opposed to 20:19, which is written using the same digits? A) 19:02 B) 2:19 C) 19:20 D) 9:12 E) None of the above.
+
+**Answer:** E
+[[src_kangourou_2019_benjamin_marzo__Q11]]

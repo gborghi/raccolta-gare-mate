@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2015 - Biennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_biennio__Q03
 parent: src_archimede_2015_biennio
 competition: Giochi di Archimede 2015 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta media dei tre amici di Enea*
 
@@ -43,3 +46,19 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1prvgjdAFaK6FEUhTIz1KxL8s22sIjytL/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Average age of three friends of Enea
+
+> Andrea, Beatrice, Chiara, David, Enea and Frederick are very close friends. Their average age is 14. If three friends of Enea join them, the average age of the entire group becomes 16. What is the average age of Enea's three friends?
+>
+> - **(A)** 16
+> - **(B)** 20
+> - **(C)** 19
+> - **(D)** 17
+> - **(E)** 18
+
+[[src_archimede_2015_biennio__Q03]]

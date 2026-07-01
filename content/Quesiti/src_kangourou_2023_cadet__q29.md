@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q29
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sei interi consecutivi su 3 monete, lanci 6,7,8/23/17*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Six consecutive integers on three coins, 6,7,8/23/17 *
+
+![[src_kangourou_2023_cadet__prob29.png]]
+
+> James wrote on a sheet six consecutive integers; he then cut out from the sheet six francobolli, each containing one of the numbers and glued them onto the faces of three coins, one for each face. Then he threw these coins three times. On the first launch he saw numbers 6, 7, 8; on the second launch the sum of the numbers he saw was 23 and the third was 17. What's the sum of the numbers that didn't show up the first time? A) 18 B) 19
+> 	
+> C) 23 D) 24 E) 30
+
+**Answer:** A
+[[src_kangourou_2023_cadet__Q29]]

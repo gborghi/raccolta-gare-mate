@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Cadet — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q30
 parent: src_kangourou_2019_cadet_marzo
 competition: Kangourou 2019 Gara di Marzo Cadet
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione bianca della superficie del cubo (interni neri)*
 
@@ -56,3 +59,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*White fraction of the surface of the cube (black interior) *
+
+> Lucia obtained a cube by attaching 64 cubes all of the same size, 32 white and 32 black, and made all the non-visible cubes (i.e. those inside the cube) black. What fraction of the surface of the cube appears white? A) 3/4 B) 4/7
+> 	
+> C) 5/12 D) 2/3 E) It is not possible to establish A P D B Q C R
+>
+
+**Answer:** E
+[[src_kangourou_2019_cadet_marzo__Q30]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q13
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -40,6 +41,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cammelliere: massima quantita d'acqua consegnata a un campo nel deserto con due cammelli.*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 30 litri
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Camel: maximum quantity of water delivered to a camp in the desert with two camels.*
+
+> A camel shed is located at the entrance of the desert and must supply water to a field located $16$ km from there. It has a water reserve of < MSK1/> L and two camels moving at < MSK2/> km/h. When moving, a camel can carry up to < MSK3/> L of water and consume < MSK4/> L of water per hour while, when standing, it consumes only < MSK5/> L per hour. The camel rider, for his part, consumes < MSK6/> L of water per hour walking and < MSK7/> L of water per hour standing. A camel that is not led by its camel keeper can no longer navigate the desert. The camel keeper can tie a camel to a picket and leave it alone. How much water can the camelman deliver to the camp, knowing that he must be able to get out of the wilderness (at the same point of entry) with his two camels?
+
+**Answer:** 30 litri
+[[src_bocconi_finaleint_2008_g1__Q13]]

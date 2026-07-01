@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_ecolier__Q02
 parent: src_kangourou_2001_ecolier
 competition: Kangourou 2001 - Ecolier (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Bastoncini dopo aver spezzato uno*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sticks after breaking one < MSK1/>
+
+> Stephen has seven sticks of varying lengths. Break one in half. How many sticks does Stefano have now?
+>
+> - **(A)** 5
+> - **(B)** 6
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 9
+
+**Answer:** D
+[[src_kangourou_2001_ecolier__Q02]]

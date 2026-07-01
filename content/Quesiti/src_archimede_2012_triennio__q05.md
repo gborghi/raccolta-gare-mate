@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Triennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_triennio__Q05
 parent: src_archimede_2012_triennio
 competition: Giochi di Archimede 2012 - Triennio
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Velocita media nel percorso casa-scuola-casa*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mean speed on the home-school-home route*
+
+> The answer is C. The average speed in the home-school-home route is given by the total route length, i.e. 4 km (2 to go and 2 to return), divided by the total time spent, i.e. 16 minutes (12 to go and 4 to return). So the average speed is 0.25 km/min, which is 15 km/h. [Problem proposed by S. Monica.]
+
+**Answer:** C
+[[src_archimede_2012_triennio__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f1__Q17
 parent: src_obm_1998_n3_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two radios sold at equal prices, one with 25% profit and one with 25% loss; find the net result on invested capital.*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due radio vendute a prezzi uguali, una con profitto del 25% e un'altra con perdita del 25%; trovare il risultato netto sul capitale investito.*
+
+> Ho venduto due radio a prezzi uguali. Su una di esse ho ottenuto un profitto di $25\%$ sul prezzo di acquisto, e sull'altra una perdita di $25\%$. Per quanto riguarda il capitale investito:
+> 
+> A) Non avevo né profitto né perdita
+> 
+> B) Ho ottenuto un profitto di < MSK0/>
+> 
+> C) Ho ottenuto un profitto di < MSK0/>
+> 
+> D) Ho perso < MSK0/>
+> 
+> E) Ho perso < MSK0/>
+
+**Risposta:** D
+[[src_obm_1998_n3_f1__Q17]]

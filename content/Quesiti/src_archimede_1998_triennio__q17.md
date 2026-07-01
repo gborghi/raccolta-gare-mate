@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Triennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_triennio__Q17
 parent: src_archimede_1998_triennio
 competition: Giochi di Archimede 1998 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale triangolo del baricentro ha area massima*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which triangle of the center of the beam has maximum area*
+
+> Let G be the center of the ABC triangle. Knowing that AB < AC < BC, which of the triangles GAB, GAC, GBC has maximum area?
+>
+> - **(A)** GAB
+> - **(B)** GAC
+> - **(C)** GBC
+> - **(D)** They all have the same area.
+> - **(E)** depends on the lengths of the sides of the ABC.
+
+**Answer:** D
+[[src_archimede_1998_triennio__Q17]]

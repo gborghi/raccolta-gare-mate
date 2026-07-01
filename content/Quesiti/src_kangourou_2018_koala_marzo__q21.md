@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q21
 parent: src_kangourou_2018_koala_marzo
 competition: Kangourou 2018 Gioco Koala (Marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti pezzi di carta dopo i due tagli a meta*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1AGwjurQUucDfrq-UuV0KeOG7NZtWOZs2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many pieces of paper after the two target cuts< MSK1/>
+
+![[src_kangourou_2018_koala_marzo__prob21.png]]
+
+> Alice has three pieces of white paper, two black and two gray. First, cut every piece of non-black paper in half; then cut every piece of non-white paper in half. How many pieces of paper do you have at the end?
+
+**Answer:** D
+[[src_kangourou_2018_koala_marzo__Q21]]

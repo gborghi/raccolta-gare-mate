@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_a__Q11
 parent: src_cesenatico_2011_semifinale_a
 competition: Gara a Squadre Cesenatico 2011 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del quadrato di ricerca del villaggio*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0682
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the village search square*
+
+> A careful search by Julius Caesar searches the village of the Gauls and has narrowed its search area to a square of 60 miles by side. His soldiers have been attacked every time in the midpoints of the sides of the square. Thanks to the informant Ficcanasus, Julius Caesar was able to discover that the Gauls never moved more than 45 miles from the village when attacking. Then draw the area where the village can be found on the map and order his soldiers to look in the square that has as its vertices the vertices of the drawn area. How much is the area of the square in square miles?
+
+**Answer:** 0682
+[[src_cesenatico_2011_semifinale_a__Q11]]

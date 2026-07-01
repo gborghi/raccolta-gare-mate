@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2022 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_automne__Q04
 parent: src_canimath_2022_automne
 competition: Coupe Animath Automne 2022
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle ABCD; midpoints M, N; show angle MAN equals angle BPN*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hAlr5oS_VPXWtAhgZvHeNt9W7CHb_zHz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo ABCD; punti medi M, N; angolo di mostra MAN è uguale all'angolo BPN*
+
+> Lasciate che $ABCD$ sia un rettangolo. Il segmento $M$ è il punto medio del segmento $[BC]$ e il segmento $N$ è il punto medio del segmento $[CD]$. Il punto di intersezione delle linee $(BN)$ e $(DM)$ è $P$. Mostra che $\widehat{MAN} = \widehat{BPN}$.
+
+[[src_canimath_2022_automne__Q04]]

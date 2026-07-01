@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2013 - Triennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_triennio__Q09
 parent: src_archimede_2013_triennio
 competition: Giochi di Archimede 2013 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo quaderni di colori diversi, potenze di 2*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum notebooks of different colours, power of 2< MSK1/>
+
+> Alberto goes to the mailroom to buy notebooks and wants them all in different colors. There are 2014 notebooks in various colours in the cartel; for each colour the number of notebooks is a power of 2, different from colour to colour. How many notebooks can Alberto buy at most?
+>
+> - **(A)** 7
+> - **(B)** 8
+> - **(C)** 9
+> - **(D)** 10
+> - **(E)** 11.
+
+**Answer:** C
+[[src_archimede_2013_triennio__Q09]]

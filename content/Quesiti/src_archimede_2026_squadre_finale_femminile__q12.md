@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q12
 parent: src_archimede_2026_squadre_finale_femminile
 competition: Gara a Squadre Femminile 2026 - IX Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti rimbalzi raggio a 5° per rientrare nella tana*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 35
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK1/>How many beam bounces at < MSK0/> to get back into the pit< MSK2/>
+
+> KNOW THE DRAGONS (Claudia Manotti) Hiccup becomes skilled at domesticating the dragons guarded for the training of young Vikings, though in his unorthodox ways. Gronkio, for example, is stopped due to the allergy of dragons to a particular plant, while the Mortal Claw is particularly sensitive to the scratches under the chin. The Terrible Terror, one of the smallest dragons in existence, enjoys following the rays of light. The Arena is a perfect circle coated with reflective metal. Hiccup is positioned just above the hole of the Terrible Terror that's on the edge and using the shield sends a beam of light that forms an angle of exactly 5° with the diameter of the arena. The dragon follows the beam after hitting the rim of the arena many times until it enters the pit. How many times did you beat the poor dragon by following the light beam before you went back into the pit?
+
+**Answer:** 35
+[[src_archimede_2026_squadre_finale_femminile__Q12]]

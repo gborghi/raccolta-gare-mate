@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q04
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di due minimi multipli*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of two minimum multiples*
+
+> Sum the smallest positive integer divisible by 2 and by 3 to the smallest positive integer divisible by 2, by 3 and by 4. You get A) 9 B) 30 C) 20 D) 24 E) 18
+
+**Answer:** E
+[[src_kangourou_2003_benjamin__Q04]]

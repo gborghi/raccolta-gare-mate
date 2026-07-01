@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q08
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Telescoping product of (1 - F_{k}^2/F_{k+1}^2) over Fibonacci numbers*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prodotto telescopico di (1 - F_{k}^2/F_{k+1}^2) su numeri di Fibonacci*
+
+> La sequenza di Fibonacci è definita recursivamente da $F_{n+2} = F_{n+1} + F_n$ per $n \in \mathbb{Z}$ e $F_1 = F_2 = 1$. Poi $$\left(1 - \frac{F_2^2}{F_3^2}\right)\cdot\left(1 - \frac{F_3^2}{F_4^2}\right)\cdot\left(1 - \frac{F_4^2}{F_5^2}\right)\cdots\left(1 - \frac{F_{2013}^2}{F_{2014}^2}\right)$$ è uguale a: (A) $\frac{F_{2016}}{F_{2013}^2}$ (B) $\frac{F_{2014}}{F_{2013}}$ (C) $\frac{F_{2015}^2}{F_{2013}^2}$ (D) $\frac{F_{2015}}{2}$ (E) $\frac{F_{2015}}{2 F_{2013} F_{2014}}$
+
+[[src_obm_2014_n3_f1__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Biennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_biennio__Q02
 parent: src_archimede_2000_biennio
 competition: Giochi di Archimede 2000 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto aree con raggio esterno doppio dell'interno*
 
@@ -58,3 +61,33 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rate of areas with an outer radius twice that of the interior*
+
+![[src_archimede_2000_biennio__prob2.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \fill[gray!60] (0,0) circle (2);
+  \fill[white] (0,0) circle (1);
+  \draw (0,0) circle (2);
+  \draw (0,0) circle (1);
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure next to the radius of the outer circle and twice that of the inner circle. What is the relationship between the shaded area and the white area inside?
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** depends on the position of the circle
+> - **(E)** None of the previous ones.
+
+**Answer:** B
+[[src_archimede_2000_biennio__Q02]]

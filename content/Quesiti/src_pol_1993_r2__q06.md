@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r2__Q06
 parent: src_pol_1993_r2
 competition: Olimpiade Matematica Polacca 1993 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Continuous f with f(1000)=999 and f(x)f(f(x))=1 for all real x; determine f(500).*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NgcL0QAd2CG62bFmgawlLI7Z2DvH7hOH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Continuo f con f(1000) =999 e f(x) f(f(x)) =1 per tutti gli x reali; determinare f(500).*
+
+> Una funzione continua $f:\mathbb{R} \to \mathbb{R}$ soddisfa le condizioni $f(1000)=999$ e $f(x)f(f(x))=1$ per tutte le $x$ reali. Determinare < MSK4/>.
+
+[[src_pol_1993_r2__Q06]]

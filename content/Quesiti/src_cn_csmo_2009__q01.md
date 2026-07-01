@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2009 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2009__Q01
 parent: src_cn_csmo_2009
 competition: China Southeastern Mathematical Olympiad 2009
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find integer solutions of a quadratic Diophantine equation*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova le soluzioni integrali di un'equazione diofantina quadrata*
+
+> Trovare le soluzioni interi dell'equazione $x^2 - 2xy + 126y^2 = 2009$. (Posato da Zhang Pengcheng)
+
+[[src_cn_csmo_2009__Q01]]

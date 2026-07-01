@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2002-03 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2002-03_round1__Q03
 parent: src_bmo_2002-03_round1
 competition: British Mathematical Olympiad 2002-03 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove symmetric inequality given sum of squares equals one*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qbsbqjxO0641BDChyC5CTANb8CFtOG6r/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza simmetrica data la somma dei quadrati equivale a uno*
+
+> $x, y, z$ siano numeri reali positivi come $x^2 + y^2 + z^2 = 1$. Provare che < MSK0/>
+
+[[src_bmo_2002-03_round1__Q03]]

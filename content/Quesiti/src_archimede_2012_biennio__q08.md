@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Biennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_biennio__Q08
 parent: src_archimede_2012_biennio
 competition: Giochi di Archimede 2012 - Biennio
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di colorare mattonelle esagonali con tre colori*
 
@@ -53,3 +56,22 @@ tags:
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13kesAdPzQ8k4YwW-asUVUoQ5RPW1gOnt/view)
 **Anche in triennio:** [apri PDF p.3](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How to colour hexagonal bricks with three colours< MSK1/>
+
+![[src_archimede_2012_biennio__prob8.png]]
+
+> One floor is tiled as shown. How many ways can you color hexagonal bricks in blue, red, and black so that two hexagonal bricks with one side in common never have the same color?
+>
+> - **(A)** No one
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 6
+> - **(E)** infinitesimal
+
+**Answer:** D
+[[src_archimede_2012_biennio__Q08]]

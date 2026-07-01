@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q24
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum over reals x,y,z of sqrt(x^2+1)+sqrt((y-x)^2+4)+sqrt((z-y)^2+1)+sqrt((10-z)^2+9).*
 
@@ -54,3 +57,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il minimo sui numeri reali x,y,z di sqrt(x^2+1)+sqrt((y-x)^2+4)+sqrt((z-y)^2+1)+sqrt((10-z)^2+9).*
+
+> Qual è il valore più piccolo che l'espressione $\sqrt{x^2 + 1} + \sqrt{(y - x)^2 + 4} + \sqrt{(z - y)^2 + 1} + \sqrt{(10 - z)^2 + 9}$ può assumere, quando $x$, $y$ e $z$ sono reali?
+> 
+> (A) 7 \quad (B) 13 \quad (C) $4 + \sqrt{109}$ \quad (D) $3 + \sqrt{2} + \sqrt{90}$ \quad (E) $\sqrt{149}$
+
+**Risposta:** E
+[[src_obm_2006_n3_f1__Q24]]

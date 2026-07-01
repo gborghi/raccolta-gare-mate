@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Ecolier — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q13
 parent: src_kangourou_2019_ecolier_semifinale
 competition: Kangourou 2019 Semifinale Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima somma delle prime due carte con somma totale 35*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 14
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tNc5SZ7vm6wp3SYyibXhYqSBPWtNBocw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum sum of the first two cards with total sum of 35
+
+> (Points 6) From a bag containing many decks of cards mixed together, Ada drew five cards (not one of which is a jolly or a figure) and arranged them so that the score of each card did not exceed that of the next card. Putting all the scores together, he gets 35. What is the maximum value of the sum of the scores of the first two cards?
+
+**Answer:** 14
+[[src_kangourou_2019_ecolier_semifinale__Q13]]

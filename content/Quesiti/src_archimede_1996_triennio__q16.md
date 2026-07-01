@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Triennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_triennio__Q16
 parent: src_archimede_1996_triennio
 competition: Giochi di Archimede 1996 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di indovinare numero con cifre sfalsate*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of guessing a number with false digits< MSK1/>
+
+> A friend of mine wrote a secret four-digit number using the numbers 1, 2, 3 and 4 only once. Knowing that no number occupies the place that corresponds to its value (i.e. the first number is not 1, the second number is not 2, and so on), what are the odds of guessing the number on the first attempt?
+>
+> - **(A)** 1 24
+> - **(B)** 1 9
+> - **(C)** 1 8
+> - **(D)** 1 81
+> - **(E)** 1 6.
+
+**Answer:** B
+[[src_archimede_1996_triennio__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q14
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime 4 cifre somma interi divisibili per 30 con 30 divisori*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6340
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last 4 digits whole sum divisible by 30 by 30 divisors*
+
+> Carovita Messer Guiglielmo Guardastagno, a Frankish merchant, set the prices of his goods so that they are all positive integers that are divisible by 30 and have exactly 30 divisors. If S is the sum of all positive integers of this kind, what are the last four digits of S?
+
+**Answer:** 6340
+[[src_cesenatico_2004_squadre__Q14]]

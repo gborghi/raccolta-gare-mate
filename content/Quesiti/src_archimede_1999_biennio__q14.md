@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1999 - Biennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_biennio__Q14
 parent: src_archimede_1999_biennio
 competition: Giochi di Archimede 1999 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma del primo e ultimo nome in ordine alfabetico*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of first and last names in alphabetical order*
+
+> Suppose we write the names of integers between 1 and 100 (including extremes) in alphabetical order. What is the sum of the first and the last?
+>
+> - **(A)** 6
+> - **(B)** 70
+> - **(C)** 71
+> - **(D)** 101
+> - **(E)** 121.
+
+**Answer:** E
+[[src_archimede_1999_biennio__Q14]]

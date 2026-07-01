@@ -1,6 +1,7 @@
 ---
 title: IMO 1982 (23rd International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1982__Q06
 parent: src_imo_1982
 competition: IMO 1982 (23rd International Mathematical Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Path covering square boundary has two close far-apart points*
 
@@ -35,3 +38,13 @@ tags:
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Path covering square boundary has two close far-apart points
+
+> either $S$ a side square $100$, or $L$ a path within $S$ that does not intersect and is composed of segments $A_0A_1, A_1A_2, \ldots, A_{n-1}A_n$ with $A_0 \neq A_n$. For each $P$ point on the edge of $S$ there shall be a point of $L$ at a distance from $P$ not greater than $\tfrac{1}{2}$. Demonstrate that there are two $X$ and $Y$ points on $L$ such that the distance between $X$ and $Y$ is not greater than $1$, and the length of the part of $L$ between $X$ and $Y$ is not less than $198$.
+
+[[src_imo_1982__Q06]]

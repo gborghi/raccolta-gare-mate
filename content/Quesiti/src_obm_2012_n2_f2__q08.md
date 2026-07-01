@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f2__Q08
 parent: src_obm_2012_n2_f2
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of hexadecimal numbers (1)_16 through (100)_16 evaluated in base 10*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eh3-XUlx8DQIfyrafQYPn3K5T8QkbX4r/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa dei numeri esadesimali (1)_16 a (100)_16 valutati nella base 10*
+
+> Sul pianeta *Hexaterra*, la base più utilizzata è l'esadecimale (base 16) invece del decimale (base 10). Nella base 16, le lettere $A, B, C, D, E, F$ vengono usate come cifre (in ordine crescente). Per esempio, $(10)_{16} = 10 \times 16 + 1 = 176$, $(AB)_{16} = 10 \times 16 + 11 = 176$, $(F0E)_{16} = 15 \times 16^2 + 0 \times 16 + 14 = 3854$. Determinare il valore della somma $$(1)_{16} + (2)_{16} + \cdots + (D)_{16} + (E)_{16} + (F)_{16} + (10)_{16} + \cdots + (100)_{16}$$ nella base 10.
+
+[[src_obm_2012_n2_f2__Q08]]

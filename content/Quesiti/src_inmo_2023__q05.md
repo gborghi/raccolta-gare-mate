@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2023 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2023__Q05
 parent: src_inmo_2023
 competition: Indian National Mathematical Olympiad 2023
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n Euclidean points; Gauss records floor(log2 d) for each pair; show fewer than 2n distinct values*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kW6GgduaArtuZwxLT_Wd61CJZas0evUz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>n punti euclidici; Gauss registra il livello di < log2 d) per ciascuna coppia; mostrano meno di 2n valori distinti< MSK1/>
+
+> Euler segna $n$ punti diversi nel piano euclidico. Per ogni coppia di punti segnalati, Gauss scrive il numero $\lfloor \log_2 d \rfloor$ dove $d$ è la distanza tra i due punti. Prove che Gauss scrive meno di $2n$ valori distinti.
+> 
+> *Nota: * Per qualsiasi $d > 0$, $\lfloor \log_2 d \rfloor$ è l'intero unico $k$ tale che $2^k \leq d < 2^{k+1}$.
+
+[[src_inmo_2023__Q05]]

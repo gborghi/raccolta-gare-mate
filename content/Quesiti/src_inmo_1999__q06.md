@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1999 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1999__Q06
 parent: src_inmo_1999
 competition: Indian National Mathematical Olympiad 1999
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Split set {1,2,...,4n} into disjoint four-element subsets with equal element sum*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hgD_u8X82WEkCyMKo3vqKvNfYTKTm396/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Split set {1,2,...,4n} in sottosette disconnessi di quattro elementi con somma di elementi uguale*
+
+> Per quali integri positivi $n$ può essere diviso l'insieme $\{1, 2, \ldots, 4n\}$ in $n$ disgiunti sottoinsiemi di quattro elementi $\{a, b, c, d\}$ in modo che in ciascuno di essi $a = \frac{b+c+d}{3}$?
+
+[[src_inmo_1999__Q06]]

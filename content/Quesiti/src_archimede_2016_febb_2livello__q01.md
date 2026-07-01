@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2016 - 2 livello — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_febb_2livello__Q01
 parent: src_archimede_2016_febb_2livello
 competition: Archimede Gara di Febbraio 2016 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di transazioni perche tutti paghino uguale*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WjYsXx25mj1TfZaCRYUsoX4KBtCIbL6j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum number of transactions so that everyone pays the same
+
+> Determine the volume of the region of space traversed by the surface during a < MSK0/> rotation around the traced line.
+>
+> - **(A)** 2 3π
+> - **(B)** 4π
+> - **(C)** 16π 3
+> - **(D)** 35π 6
+> - **(E)** 6π
+
+**Answer:** C
+[[src_archimede_2016_febb_2livello__Q01]]

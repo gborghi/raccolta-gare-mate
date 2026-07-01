@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2012 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2012__Q08
 parent: src_bocconi_squadre_2012
 competition: Gara a Squadre 2012
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza percorsa dalla formica cordiale nella fila*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $50(1 + \sqrt{2})$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance traveled by the cordial ant in the row*
+
+> A group of ants moves in a straight line and in a straight line, forming a column of < MSK0/> cm. At some point, the ant that was in the queue - particularly friendly - decides to go and greet the coworker who is at the head of the queue; he reaches out to her, greets her, and then comes back in the queue. Knowing that in this "going back and forth" the corneal ant's velocity has remained constant and that the column has traveled $50$ cm, ** what is the distance traveled by the corneal ant?**
+> 
+> (The length of a single ant is considered negligible)
+
+**Answer:** $50(1 + \sqrt{2})$
+[[src_bocconi_squadre_2012__Q08]]

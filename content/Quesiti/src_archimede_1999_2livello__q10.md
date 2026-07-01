@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1999 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_2livello__Q10
 parent: src_archimede_1999_2livello
 competition: Archimede Gara 2º livello 1999
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area di trapezio isoscele con diagonale e angolo dati*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Isosceles trapezoidal area with diagonal and angle data*
+
+> In an isosceles trapezoid, a diagonal is 22 cm long; it is also known that such a diagonal forms an angle of < MSK0/> with the major base. How much is the area of the trapezoid?
+>
+> - **(A)** $121\text{ cm}^2$
+> - **(B)** $242\text{ cm}^2$
+> - **(C)** $484\text{ cm}^2$
+> - **(D)** The data are insufficient.
+> - **(E)** None of the previous ones.
+
+**Answer:** B
+[[src_archimede_1999_2livello__Q10]]

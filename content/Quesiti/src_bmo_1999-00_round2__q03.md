@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1999-00 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1999-00_round2__Q03
 parent: src_bmo_1999-00_round2
 competition: British Mathematical Olympiad 1999-00 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive integers p,q satisfying a given floor/radical equation*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BEx1MRf0HGALRwfMJ0zD4xZnI7CsxPCd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca dei numeri interi positivi p,q che soddisfano una determinata equazione piano/radicale*
+
+> Trovare integri positivi $p$ e $q$ tali da $$p + q = \lfloor \sqrt{p} \rfloor + \lfloor \sqrt{q} \rfloor + \lfloor \sqrt{p+q} \rfloor.$$
+
+[[src_bmo_1999-00_round2__Q03]]

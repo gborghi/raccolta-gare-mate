@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f1__Q19
 parent: src_obm_1998_n3_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the real values of x satisfying sqrt(x) + sqrt(1/x) <= 2.*
 
@@ -54,3 +57,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i valori reali di x che soddisfano sqrt(x) + sqrt(1/x) <= 2.*
+
+> I valori reali di $x$ che soddisfano la disuguaglianza $\sqrt{x} + \sqrt{\dfrac{1}{x}} \le 2$ sono:
+> 
+> A) $-1 \le x \le 1$
+> 
+> B) $x = 1$
+> 
+> C) $x \le 1$
+> 
+> D) $x \ge 1$
+> 
+> E) $x \le 2$
+
+**Risposta:** B
+[[src_obm_1998_n3_f1__Q19]]

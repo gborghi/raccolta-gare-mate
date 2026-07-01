@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Ecolier (marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q09
 parent: src_kangourou_2007_ecolier_marzo
 competition: Kangourou 2007 Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Terza bambolina per grandezza (matrioska)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Third doll by size (matrioska) < MSK1/>
+
+> A matrioska is made up of 5 dolls of different colors, one contained in the other. That blue is smaller than the green, but not the yellow. The blue one is bigger than both the blue and the green one, but smaller than the red one. What color is the third doll in order of size? A) green B) red C) blue D) blue E) yellow
+
+**Answer:** A
+[[src_kangourou_2007_ecolier_marzo__Q09]]

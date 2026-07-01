@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2005-06 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2005-06_round1__Q06
 parent: src_bmo_2005-06_round1
 competition: British Mathematical Olympiad 2005-06 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Each point lies inside an even number of triangles*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ogni punto si trova all'interno di un numero pari di triangoli*
+
+> $T$ sia un insieme di punti coplanari $2005$ senza tre punti collineari. Mostrare che, per uno qualsiasi dei punti $2005$, il numero dei triangoli che si trova strettamente all'interno, le cui vertici sono punti in $T$, è pari.
+
+[[src_bmo_2005-06_round1__Q06]]

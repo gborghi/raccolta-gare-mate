@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Triennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_triennio__Q02
 parent: src_archimede_2017_triennio
 competition: Giochi di Archimede 2017 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *tra quanti anni doppio*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WbKYlCGmnvn3EnNy8PHpDbjgy_2zTYne/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>over two years< MSK1/>
+
+> Six years ago, Anna was five times as old as her son, Mario. Now, instead, it's three times Mario's age. How many years from now will Anna be twice as old as Mario?
+>
+> - **(A)** 8
+> - **(B)** 6
+> - **(C)** 10
+> - **(D)** 9
+> - **(E)** 12
+
+**Answer:** E
+[[src_archimede_2017_triennio__Q02]]

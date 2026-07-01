@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q07
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza spezzata ABC...P*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Breaking length ABC...P< MSK1/>
+
+![[src_kangourou_2007_cadet_marzo__prob7.png]]
+
+> The squares in the figure were formed by intersecting the 24-centimeter-long AP segment with the broken ABC...OP line. How long is the broken ABC...OP? A) 48 B) 56 C) 96 D) 106 E) a value different from the previous one
+
+**Answer:** E
+[[src_kangourou_2007_cadet_marzo__Q07]]

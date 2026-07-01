@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_2livello__Q05
 parent: src_archimede_2018_2livello
 competition: Archimede Gara di Febbraio 2018 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri m con 3m=ABC e 4m=CAB*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers m with 3m=ABC and 4m=CAB*
+
+> Veronica observes that 81·3 = 243 and 81·4 = 324 and asks how many are the numbers m with 10 < MSK0/>m < MSK1/>99 and such that 3m = ABC and 4m = CAB, with A, B and C decimal digits (also considered valid cases where one or more of the digits A, B, C are equal to zero).
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 6
+
+**Answer:** C
+[[src_archimede_2018_2livello__Q05]]

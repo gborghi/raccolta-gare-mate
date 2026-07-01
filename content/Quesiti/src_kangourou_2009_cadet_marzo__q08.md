@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q08
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali intrecci non con un unico spezzone (parita)*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which weights do not have a single piece (parity) *
+
+![[src_kangourou_2009_cadet_marzo__prob8.png]]
+
+> The figure shows five strings. Which of these cannot be done with a single piece of rope? A) All B) None C) All but II D) Only III, IV and V E) Only I, III and V
+
+**Answer:** E
+[[src_kangourou_2009_cadet_marzo__Q08]]

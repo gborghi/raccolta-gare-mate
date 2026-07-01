@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q08
 parent: src_garasquadre_2006_pubblico
 competition: VII Gara Nazionale a Squadre 2006 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultima cifra non nulla di (5n)! per anni 2006-2009*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4862
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The final figure is not much of (5n)! for the years 2006 to 2009*
+
+> Merited Holidays [80] According to a long tradition, the number of extra-curricular holidays of the Higher Mathematical School is decided each solar year on the basis of an ancient tradition. It is always a number between 1 and 9, and in the year n must correspond to the last non-zero figure of the factor of 5n (calculated at the matrices in a special ceremony). How many vacation days are there in the next four years? Answer a number whose four digits are in the order of the holiday days of the years 2006 to 2009.
+
+**Answer:** 4862
+[[src_garasquadre_2006_pubblico__Q08]]

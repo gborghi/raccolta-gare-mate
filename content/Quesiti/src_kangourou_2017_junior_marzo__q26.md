@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q26
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti codici a 7 cifre col criterio dato*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many 7-digit codes with the given criterion*
+
+> Aldo has to set up his safe code and he wants to make sure he doesn't forget it. The code must be a 7-digit number and Aldo invents the following criterion: each digit must appear as many times as its value and all the same digits must appear consecutively (e.g. 4444333 is acceptable, 4433344 and 4443333 are not). How many codes can you choose from? A) 6
+> 	
+> B) 7
+> 	
+> C) 10
+> 	
+> D) 12
+> 	
+> E) 13
+
+**Answer:** E
+[[src_kangourou_2017_junior_marzo__Q26]]

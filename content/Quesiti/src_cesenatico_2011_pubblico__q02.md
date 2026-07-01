@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q02
 parent: src_cesenatico_2011_pubblico
 competition: Gara a Squadre Cesenatico 2011 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *pezzi di bronzo mancanti*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0006
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> missing pieces of bronze < MSK1/>
+
+> On the boat for Britannia, when Abelix asks him for information about the type of coins used on his land, Cantorax replies: It's very simple! We have iron bars worth 3 sesterces and 12 plus 4 pieces of zinc. Zinc pieces, on the other hand, are worth 1 piece and 12 pieces of copper. Also, to make a sester, it takes 12 pieces of bronze or, alternatively, 6 pieces and 12 pieces of copper.  If Abelix already has 25 and a half pieces of copper, how many pieces of bronze does he need to reach the value of an iron barrel?
+
+**Answer:** 0006
+[[src_cesenatico_2011_pubblico__Q02]]

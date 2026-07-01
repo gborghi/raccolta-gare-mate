@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2007 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2007__Q17
 parent: src_bocconi_primavera_2007
 competition: Semifinale di Primavera 2007
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ore mostrate dall'orologio visto allo specchio*
 
@@ -41,3 +44,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Le 9 e 45 minuti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ears shown by the watch as seen in the mirror*
+
+> Here's a watch seen in a mirror.
+> 
+> What time is it?
+
+![[src_bocconi_primavera_2007__Q17.png]]
+
+**Answer:** Le 9 e 45 minuti
+[[src_bocconi_primavera_2007__Q17]]

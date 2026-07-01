@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1993 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1993__Q03
 parent: src_cgen_1993
 competition: Concours Général des Lycées 1993 — Matematica
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bounded-below function on Z with midpoint inequality implies constant*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Funzione di sotto limite su Z con disuguaglianza di punto medio implica costante*
+
+> $f$ sia un'applicazione da $\mathbb{Z}$ all'insieme $\mathbb{R}$ di numeri reali. Supponiamo che $f$ sia delimitato di seguito e soddisfi: per ogni numero intero relativo $n$, $$f(n) > \frac{1}{2}|f(n+1) + f(n-1)|.$$ Mostri che l'applicazione $f$ è costante.
+
+[[src_cgen_1993__Q03]]

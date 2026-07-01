@@ -1,6 +1,7 @@
 ---
 title: IMO 1977 (XIX International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1977__Q06
 parent: src_imho_1977
 competition: IMO 1977 (XIX International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Function on positive integers with $f(n+1)>f(f(n))$; prove $f(n)=n$*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Function on positive integers with $f(n+1)>f(f(n))$; proofs $f(n)=n$*
+
+> Let $f(n)$ be a function defined on the set of all positive integers and having all its values in the same set. Prove that if $$f(n+1) > f(f(n))$$ for each positive integer $n$, then $$f(n) = n$$ for each positive integer $n$.
+
+[[src_imho_1977__Q06]]

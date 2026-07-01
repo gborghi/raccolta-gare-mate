@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q18
 parent: src_archimede_2026_squadre_finale_femminile
 competition: Gara a Squadre Femminile 2026 - IX Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo b con radici di g quadrati radici di f*
 
@@ -78,3 +81,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 3236
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum b with roots of g square roots of f*
+
+> Hiccup is gone and convinces Astrid and the other boys to run to help Sdentato. Explain to them that riding a dragon is as easy as calculating the maximum value of b when 3 2 ( ) 1 f x ax bx   , 3 2 ( ) g x mx nx p      (both real coefficients), the roots of ( ) g x are the squares of the roots of ( ) f x and    1 5 g  . The boys don't understand the comparison, but they believe in Hiccup's heart. They immediately learn about the dragons who had fought in the arena until recently and, riding on them, run to the aid of Dentatus. What value of b was Hiccup referring to? (Give the solution multiplied by 1000 .)
+
+**Answer:** 3236
+[[src_archimede_2026_squadre_finale_femminile__Q18]]

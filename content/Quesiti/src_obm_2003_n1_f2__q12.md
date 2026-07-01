@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f2__Q12
 parent: src_obm_2003_n1_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two squares ABCD and FHIJ share a side line; find area of square BEFG*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 100
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due quadrati ABCD e FHIJ condividono una linea laterale; trovare superficie di quadrato BEFG*
+
+> Nella figura, il quadrato $ABCD$ ha superficie $64\text{ cm}^2$ e il quadrato $FHIJ$ ha superficie $36\text{ cm}^2$. I vertici $A$, $D$, $E$, $H$ e $I$ si trovano sulla stessa linea retta. Calcolare la superficie del quadrato $BEFG$.
+
+![[src_obm_2003_n1_f2__Q12.png]]
+
+**Risposta:** 100
+[[src_obm_2003_n1_f2__Q12]]

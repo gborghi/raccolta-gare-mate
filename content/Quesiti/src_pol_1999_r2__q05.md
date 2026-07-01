@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r2__Q05
 parent: src_pol_1999_r2
 competition: Olimpiade Matematica Polacca 1999 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count functions f:S->S on S={1,2,3,4,5} with f^{50}(x)=x for all x.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QtyD6o9jwMuVGDAxuguLy_l8OL34LF1K/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggi funzioni f:S->S su S={1,2,3,4,5} con f^{50}(x)=x per tutte le x.*
+
+> Let < MSK0/>. Trova il numero di funzioni $f : S \to S$ tale da $f^{50}(x) = x$ per tutte le $x \in S$.
+
+[[src_pol_1999_r2__Q05]]

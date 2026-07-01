@@ -1,6 +1,7 @@
 ---
 title: IMO 1975 (XVII International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1975__Q04
 parent: src_imho_1975
 competition: IMO 1975 (XVII International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sum of digits of 4444^4444 iterated*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TP79v6F2u-0eqTiBw6yUOXst22fnJsC9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of digits of 4444^4444 iterated*
+
+> When $4444^{4444}$ is written in decimal notation, the sum of its digits is $A$. Let $B$ be the sum of the digits of $A$. Find the sum of the digits of $B$. ($A$ and $B$ are written in decimal notation.)
+
+[[src_imho_1975__Q04]]

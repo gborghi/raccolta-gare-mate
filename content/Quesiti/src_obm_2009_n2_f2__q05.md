@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f2__Q05
 parent: src_obm_2009_n2_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Overlapping squares ABCD and EFGH side 48; find highlighted intersection area*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrate sovrapposte ABCD e EFGH lato 48; trovare la zona di intersezione evidenziata*
+
+> Nella figura seguente, $ABCD$ e $EFGH$ sono quadrati con lunghezza laterale $48\,\text{cm}$. Sapendo che $A$ è il punto medio di $EF$ e $G$ è il punto medio di $DC$, determinare l'area della regione ombreggiata (illustrata) in $\text{cm}^2$.
+
+![[src_obm_2009_n2_f2__Q05.png]]
+
+[[src_obm_2009_n2_f2__Q05]]

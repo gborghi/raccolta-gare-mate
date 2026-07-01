@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo36yqa_yosen__Q09
 parent: src_jmo36yqa_yosen
 competition: Japan Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find area of triangle DPQ in isosceles triangle ABC with angle condition and given lengths*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\dfrac{48\sqrt{7}}{25}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'area del triangolo DPQ nel triangolo ABC con condizione angolare e lunghezze date*
+
+> In triangolo $ABC$, $AB = AC$ e $BC = 21$. Sul lato $BC$, $CA$, $AB$ (esclusi i punti finali) ci sono i punti $D$, $E$ e $F$ rispettivamente tali che $\angle EDF = 180^\circ - \dfrac{1}{2}\angle BAC$. $P$ sia l'intersezione del bisettore perpendicolare di $BD$ e della linea $DE$, e $Q$ sia l'intersezione del bisettore perpendicolare di $CD$ e della linea $DF$. Dato che $FP = 16$, $FQ = 12$ e $AB = 6\sqrt{7}$, si trova l'area del triangolo $DPQ$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Risposta:** \dfrac{48\sqrt{7}}{25}
+[[src_jmo36yqa_yosen__Q09]]

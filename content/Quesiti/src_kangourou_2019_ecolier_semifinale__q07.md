@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Ecolier — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q07
 parent: src_kangourou_2019_ecolier_semifinale
 competition: Kangourou 2019 Semifinale Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale foglio incollato per primo nella sovrapposizione*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tNc5SZ7vm6wp3SYyibXhYqSBPWtNBocw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which sheet first pasted in the overlay*
+
+![[src_kangourou_2019_ecolier_semifinale__prob7.png]]
+
+> (Documents 5) Filippo has 8 identical sheets of paper, but of different colours: he glues them onto a cardboard one after another, each at least partially overlapping with the previous one, so that the square in the figure (where the letters denote the colour of the sheet) is finally obtained. Which sheet did you paste first? A) b
+> 	
+> B) d
+> 	
+> C) e
+> 	
+> D) f
+> 	
+> E) h
+
+**Answer:** C
+[[src_kangourou_2019_ecolier_semifinale__Q07]]

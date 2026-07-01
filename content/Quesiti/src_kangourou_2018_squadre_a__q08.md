@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2018 Semifinale A — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_a__Q08
 parent: src_kangourou_2018_squadre_a
 competition: Kangourou Coppa Squadre 2018 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimi divisori comuni di due interi di tre cifre*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 24
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum common divisors of two three-digit integers*
+
+> Common divisors How many common divisors can have at most two different three-digit positive integers? (Both 1 and the number itself must be included among the divisors of each number.)
+
+**Answer:** 24
+[[src_kangourou_2018_squadre_a__Q08]]

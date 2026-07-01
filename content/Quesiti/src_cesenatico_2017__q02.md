@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2017__Q02
 parent: src_cesenatico_2017
 competition: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *soluzioni intere finite*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JISzedSazgC79gEUAMWBmfIAmPO-Z1X9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*finished whole solutions*
+
+> Let n < MSK0/>2 be an integer. Consider the solutions (a, b, c) of the system of equations (n = a + b −c n = a2 + b2 −c2, where a, b, c are integers. Demonstrate that there is at least one solution and that there are a finite number of solutions.
+
+[[src_cesenatico_2017__Q02]]

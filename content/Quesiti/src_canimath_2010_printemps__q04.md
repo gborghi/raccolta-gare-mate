@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2010 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2010_printemps__Q04
 parent: src_canimath_2010_printemps
 competition: Coupe Animath Printemps 2010
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Eight-team round-robin: prove a chain A>B,C,D; B>C,D; C>D exists; ask about seven teams*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ICeKHFa9AJshYkRGcVmLzHyoHqOKQ5Ay/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rond-robin di otto squadre: dimostrare l'esistenza di una catena A>B,C,D; B>C,D; C>D; chiedere circa sette squadre*
+
+> Otto squadre partecipano a un torneo. Ogni squadra gioca una e solo una partita contro ciascuna delle altre squadre, e non ci sono pareggio.
+> 
+> Provare che esistono necessariamente quattro squadre $A$, $B$, $C$, $D$ in modo tale che $A$ abbia vinto contro $B$, $C$ e $D$; $B$ abbia vinto contro $C$ e $D$; e $C$ abbia vinto contro $D$.
+> 
+> Si può affermare la stessa cosa se solo sette squadre partecipano al torneo?
+
+[[src_canimath_2010_printemps__Q04]]

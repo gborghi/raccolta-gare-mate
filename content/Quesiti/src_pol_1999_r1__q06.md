@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r1__Q06
 parent: src_pol_1999_r1
 competition: Olimpiade Matematica Polacca 1999 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral diagonals meet at P, M midpoint of AB, MP meets CD at Q; prove [BCP]:[ADP]=CQ:DQ.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Diagonali quadrilaterali convex si incontrano a P, M al punto medio di AB, MP si incontrano a CD a Q; prova [BCP]:[ADP]=CQ:DQ.*
+
+> Le diagonali $AC$ e $BD$ di un quadrilaterale converso $ABCD$ si incontrano a $P$. La linea $MP$ deve incontrare $CD$ al punto medio di $AB$. Prova che il rapporto tra le superfici dei triangoli $BCP$ e $ADP$ è uguale a $CQ : DQ$.
+
+[[src_pol_1999_r1__Q06]]

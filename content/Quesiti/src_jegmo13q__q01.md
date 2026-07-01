@@ -1,6 +1,7 @@
 ---
 title: Japan EGMO Selection / Girls MO 2024 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jegmo13q__Q01
 parent: src_jegmo13q
 competition: Japan EGMO Selection / Girls MO 2024
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer pairs with prime average and integer factorial ratio*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i4QZZutoi2mFnBZ3lbxvw8r4EoB_TIth/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di numeri interi positivi con rapporto fattoriale di media primaria e numeri interi*
+
+> Trova tutte le coppie di integri positivi $(x, y)$ che soddisfano le seguenti due condizioni: \begin{itemize} \item La media di $x$ e $y$ è un numero primo. \item $\dfrac{x! + y!}{x + y}$ è un numero intero. # Finire #
+
+[[src_jegmo13q__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2005 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo15mq_honsen__Q01
 parent: src_jmo15mq_honsen
 competition: Japan Mathematical Olympiad 2005 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Flipping 5-in-a-row coins on 17x17 grid to all tails*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kJ0RBj04mPEdfmRta9X0N2LOSpB-9biU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Flipping 5 in a row monete sulla griglia 17x17 a tutte le code*
+
+> Le monete, ciascuna con una testa (front) e una coda (back) distinguibili, sono disposte in una matrice quadrata $17 \times 17$, tutte posizionate a testa in su. In un'operazione, si lanciano contemporaneamente monete consecutive $5$ in una colonna, monete consecutive $5$ in una riga o monete consecutive $5$ lungo una diagonale. Ripetendo questa operazione un certo numero di volte, è possibile raggiungere lo stato in cui tutte le monete sono in coda?
+
+[[src_jmo15mq_honsen__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo10yq_yosen__Q03
 parent: src_jjmo10yq_yosen
 competition: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Hexagon formed by squares on each side of triangle; find its area*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $34+8\sqrt{5}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esagono formato da quadrati su ciascun lato del triangolo; trovare la sua superficie*
+
+> Su ciascun lato del triangolo $ABC$, i quadrati $PQBA$, $RSCB$ e $TUAC$ sono costruiti all'esterno del triangolo. Date $AB = 3$, $BC = 4$, $CA = 3$, si trova l'area dell'esagono $PQRSTU$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+![[src_jjmo10yq_yosen__Q03.png]]
+
+**Risposta:** 34+8\sqrt{5}
+[[src_jjmo10yq_yosen__Q03]]

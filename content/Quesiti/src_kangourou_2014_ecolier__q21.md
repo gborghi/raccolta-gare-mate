@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Ecolier — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier__Q21
 parent: src_kangourou_2014_ecolier
 competition: Kangourou 2014 marzo Ecolier
@@ -28,6 +29,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali giocattoli ha portato a casa Heinzi date le monete*
 
@@ -66,3 +69,20 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What toys Heinzi brought home given the coins
+
+![[src_kangourou_2014_ecolier__prob21.png]]
+
+> Michele went to a store and bought some of the toys you see in the picture, each of which is priced. He paid with three 50-euro tickets and got 20 euros left. As soon as he left, he changed his mind and returned to the store, changing one of the toys he had bought with another, also in the figure. What toys did he finally come home with? (a) The carriage and the aircraft.
+> 	
+> (b) The carriage and bus. C) The carriage and the tram.
+> 	
+> D) The motorcycle and the tram. E) Buses, motorcycles and trams. T E N M O G S E
+>
+
+[[src_kangourou_2014_ecolier__Q21]]

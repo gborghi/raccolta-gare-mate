@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2004 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo2q__Q06
 parent: src_jjmo2q
 competition: Japan Junior Mathematical Olympiad 2004
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Magic spells transform strawberries and bananas to target counts*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gli incantesimi magici trasformano fragole e banane in numeri mirati*
+
+> Un mago può usare due incantesimi, l'incantesimo A e l'incantesimo B. Quando viene utilizzato il carattere A, in quel momento ogni fragola si trasforma contemporaneamente in fragola < MSK0/> e banana < MSK1/>, e ogni banana si trasforma contemporaneamente in fragola < MSK2/> e banana < MSK3/>. Quando si utilizza l'Espressione B, ogni fragola si trasforma in < MSK4/> banana, e ogni banana si trasforma in < MSK5/> fragola e < MSK6/> banana. Partendo da uno stato con fragole $1$ e banane $1$, utilizzando gli incantesimi A e B un certo numero di volte, il mago vuole raggiungere uno stato con fragole $15$ e banane $877$. Qual è il numero minimo totale di volte che devono essere usate le incantesime?
+
+[[src_jjmo2q__Q06]]

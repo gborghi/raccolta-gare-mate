@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q07
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Negazione di 'ognuno ha risolto più di 20 problemi'*
 
@@ -48,3 +51,26 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Denial of 'each solved more than 20 problems'*
+
+> What is the negation of the following statement: Everyone has solved more than 20 problems?
+> 	
+> A) No one has solved more than 20 problems.
+>        
+> 	
+> B) Someone solved less than 21 problems.
+> 	
+> C) Each solved less than 21 problems.
+> 	
+> D) Someone solved exactly 20 problems.
+>         
+> 	
+> E) Someone has solved more than 20 problems.
+
+**Answer:** B
+[[src_kangourou_2014_junior__Q07]]

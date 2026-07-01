@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q17
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A1-6: regular pyramid P-ABCD with base side=height, G centroid of face PBC; sine of angle between AG and base.*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A1-6: piramide regolare P-ABCD con lato base=altezza, G centroide del viso PBC; seno di angolo tra AG e base.*
+
+> [Paper di prova A1, problema 6] La lunghezza laterale della base e l'altezza della piramide regolare $P-ABCD$ siano uguali. Il punto $G$ è il centroide del viso $\triangle PBC$. Quindi il seno dell'angolo tra la linea $AG$ e la base $ABCD$ è ______.
+
+**Risposta:** \dfrac{\sqrt{38}}{19}
+[[src_cn_cmc-first-round_2021__Q17]]

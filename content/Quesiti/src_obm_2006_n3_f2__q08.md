@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f2__Q08
 parent: src_obm_2006_n3_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC with AB=4, AC=3, angle BAC=60°; distance between orthocenters*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1opr1KnCz4sXqFTqwDJVnexLXTOtfy7Cz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC con AB=4, AC=3, angolo BAC=60°; distanza tra ortocentri*
+
+> Nel triangolo $ABC$ abbiamo $AB = 4$, $AC = 3$, e l'angolo $\widehat{BAC} = 60^\circ$. Il punto di intersezione di $D$ deve essere la linea perpendicolare a $AB$ che attraversa $B$ e la linea perpendicolare a $AC$ che attraversa $C$. Determinare la distanza tra gli ortocentri dei triangoli $ABC$ e $BCD$.
+
+[[src_obm_2006_n3_f2__Q08]]

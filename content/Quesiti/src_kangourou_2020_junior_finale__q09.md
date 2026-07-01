@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2020 Finale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_finale__Q09
 parent: src_kangourou_2020_junior_finale
 competition: Kangourou Coppa Junior squadre 2020 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma interi n con d(n)*s(n)=96*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0076
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1FHlXv6XSZu8CigCMt0qnx7UwdUaiE9UP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interest sum n with d(n) *s(n)=96*
+
+> Divisors For a positive integer n we denote with d(n) the number of its divisors and with s(n) their sum (e.g. d(8) = 4 because 8 has 4 divisors (1, 2, 4, 8), while s(8) = 15). Determine the sum of all integers such that n = 96.
+
+**Answer:** 0076
+[[src_kangourou_2020_junior_finale__Q09]]

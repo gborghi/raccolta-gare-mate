@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1975-76 — Round 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1975-76_round2__Q05
 parent: src_bmo_1975-76_round2
 competition: British Mathematical Olympiad 1975-76 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Figure-of-eight curve with two hexagons properties*
 
@@ -48,3 +51,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KOrdnSCj31p80BGIDGvH7v-v3TGPV0jd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Figura di otto curve con due proprietà esagoniche*
+
+> Una curva di "figure di otto", $S$, è costituita da due cerchi che si toccano di uguali radii. Mostrare che esiste una coppia di due esagoni congruenti distinti (non necessariamente convexi) con le seguenti proprietà:
+> 
+> (a) Tutti i vertici degli esagoni si trovano su $S$.
+> 
+> b) Ogni esagono ha tutti i suoi vertici su un cerchio.
+> 
+> (c) Nessun esagono può essere ottenuto dall'altro con una singola traduzione, una singola rotazione o un singolo riflesso.
+
+[[src_bmo_1975-76_round2__Q05]]

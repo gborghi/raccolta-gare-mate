@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2005 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2005__Q10
 parent: src_cn_cmc_2005
 competition: China Mathematical Competition 2005
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find CD in tetrahedron given volume, angle, and AM-GM equality condition*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $\sqrt{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il CD in tetraedro dato volume, angolo e condizione di uguaglianza AM-GM*
+
+> Come mostrato nel diagramma, il volume del tetraedro $DABC$ è $\dfrac{1}{6}$. Inoltre $\angle ACB = 45^\circ$ e $AD + BC + \dfrac{AC}{\sqrt{2}} = 3$. Poi $CD = $ \underline{\hspace{2cm}}.
+
+![[src_cn_cmc_2005__Q10.png]]
+
+**Risposta:** \sqrt{3}
+[[src_cn_cmc_2005__Q10]]

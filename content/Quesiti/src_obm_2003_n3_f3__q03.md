@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f3__Q03
 parent: src_obm_2003_n3_f3
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Lines EH and FG parallel in rhombus with tangent lines*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Line EH e FG parallele nel rombo con linee tangenti*
+
+> Lascia che il $ABCD$ sia un rombo. Le parti $E$, $F$, $G$ e $H$ siano punti sui lati $AB$, $BC$, $CD$ e $DA$, rispettivamente, in modo tale che le linee $EF$ e $GH$ siano tangenti al cerchio inscritto del rombo. Provare che le linee $EH$ e $FG$ sono parallele.
+
+[[src_obm_2003_n3_f3__Q03]]

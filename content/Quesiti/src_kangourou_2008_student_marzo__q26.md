@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q26
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del triangolo ADE (cerchio inscritto)*
 
@@ -70,3 +73,40 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of the ADE triangle (inscribed circle) *
+
+![[src_kangourou_2008_student_marzo__prob26.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.9]
+  \coordinate (C) at (-1.5, 0);
+  \coordinate (B) at (1.5, 0);
+  \coordinate (A) at ({-11/6}, {-4*sqrt(14)/3});
+  \coordinate (I) at ({(3*(-11/6) + 5*1.5 + 6*(-1.5))/14}, {(3*(-4*sqrt(14)/3))/14});
+  \draw (A) -- (B) -- (C) -- cycle;
+  \draw (I) circle ({2*sqrt(14)/7});
+  \coordinate (D) at ({-1.5 + 1}, 0);
+  \coordinate (E) at ({-1.5 + (1/5)*(-11/6+1.5)}, {(1/5)*(-4*sqrt(14)/3)});
+  \draw (D) -- (E);
+  \node[above left] at (C) {$C$};
+  \node[above right] at (B) {$B$};
+  \node[below] at (A) {$A$};
+  \node[above] at (D) {$D$};
+  \node[left] at (E) {$E$};
+  \node[above] at (0,0) {$3$};
+  \node[left] at ({(-1.5 + (-11/6))/2}, {(-4*sqrt(14)/3)/2}) {$5$};
+  \node[right] at ({(1.5 + (-11/6))/2}, {(-4*sqrt(14)/3)/2}) {$6$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Look at the figure. In the triangle ABC, a circle is inscribed. You know that AC is equal to 5, AB is equal to 6, BC is equal to 3, and that the ED segment is tangent to the circle. The perimeter of the ADE triangle is A) 7 B) 4 C) 9 D) 6 E) 8
+
+**Answer:** E
+[[src_kangourou_2008_student_marzo__Q26]]

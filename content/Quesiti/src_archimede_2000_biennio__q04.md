@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Biennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_biennio__Q04
 parent: src_archimede_2000_biennio
 competition: Giochi di Archimede 2000 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di 6a data relazione lineare in a e b*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of 6a given linear relationship in a and b*
+
+> How much is 6a if 3a −2 = 2b −1?
+>
+> - **(A)** 4b + 1
+> - **(B)** 4b + 2
+> - **(C)** 4b + 3
+> - **(D)** 4b + 4
+> - **(E)** None of the previous ones.
+
+**Answer:** B
+[[src_archimede_2000_biennio__Q04]]

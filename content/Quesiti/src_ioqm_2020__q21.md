@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q21
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *N thousand rupees given to A,B,C proportional to age each year; find N*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>N mila rupie assegnate a A,B,C in proporzione all'età ogni anno; trovare N < MSK1/>
+
+> Un totale di < MSK0/> mille rupie viene concesso a tre persone < MSK1/> ogni anno, a ciascuna una somma proporzionale alla sua età. Nel primo anno, < MSK2/> ha ottenuto il sesto settimo dell'importo totale. Quando è stato effettuato il sesto pagamento, $A$ ha ricevuto la metà dell'importo totale. Nel secondo anno, $B$ ha ottenuto 1000 rupie in meno rispetto al primo anno; e $C$ ha ottenuto il doppio di quello che aveva nel primo anno. Trova < MSK6/>.
+
+[[src_ioqm_2020__Q21]]

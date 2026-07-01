@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q13
 parent: src_kangourou_2017_squadre_a
 competition: Kangourou Coppa Squadre 2017 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti N primo fattore nel prodotto cifrato*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Quantities of N first factor in the encrypted product< MSK1/>
+
+> Product In the product _ _ _  9 _ = _ 3 _ _ the first factor N is a 3-digit number, while the second factor is a 2-digit number with 9 as the number of decimal places. The result is a four-digit number that has three as the number of hundreds. How many numbers can N be the first factor?
+
+**Answer:** 5
+[[src_kangourou_2017_squadre_a__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q10
 parent: src_kangourou_2014_squadre_a
 competition: Kangourou Coppa Squadre 2014 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre della differenza di due quadrati grandi*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 74
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of figures of the difference of two large squares*
+
+> What is the sum of the digits of the whole number 777.777.777.7772 - 222.222.222.2232 ?
+
+**Answer:** 74
+[[src_kangourou_2014_squadre_a__Q10]]

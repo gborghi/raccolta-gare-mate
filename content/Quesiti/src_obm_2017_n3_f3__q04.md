@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n3_f3__Q04
 parent: src_obm_2017_n3_f3
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3
@@ -40,6 +41,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Phone unlock pattern on a 3x3 grid: find smallest n so any n-subset of digits admits a valid path*
 
@@ -64,3 +67,27 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Modello di sblocco del telefono su una griglia 3x3: trovare il più piccolo n in modo che qualsiasi n-sottoinsieme di cifre ammetta un percorso valido*
+
+> Nelle figure 1 e 2 di seguito vediamo esempi di sblocco di uno schermo del cellulare con una password che non viene digitata ma disegnata con segmenti di linea. Questi segmenti formano una linea poligonale le cui vertici si trovano su una griglia. Durante il disegno del modello corrispondente alla password, il dito deve rimanere in contatto con lo schermo per tutto il tempo. L'intera linea poligonale corrisponde a una sequenza di cifre, e questa sequenza è in realtà la password. Il disegno delle linee poligonali è conforme alle seguenti regole:
+> 
+> i. Il disegno inizia ad uno dei punti evidenziati, che corrispondono alle cifre $1$ a $9$ (figura 3).
+> 
+> ii. Ogni segmento del modello deve avere, come uno dei suoi punti finali (quello in cui si finisce il segmento), un punto che non è ancora stato utilizzato.
+> 
+> iii. Se un segmento unisce due punti e contiene un terzo punto (il suo punto medio), allora la cifra corrispondente a tale terzo punto è inclusa nella password. Questo non avviene quando tale punto/cifre è già stato utilizzato.
+> 
+> iv. Ogni password ha almeno quattro cifre.
+> 
+> Pertanto, ogni linea poligonale è associata a una sequenza di quattro o più cifre, che appaiono nella password nello stesso ordine in cui vengono visitate. Nella figura 1 sopra, ad esempio, la password è $218369$, nel caso in cui il primo punto visitato è stato $2$. Si noti che il segmento che unisce i punti associati ai numeri $3$ e $9$ include il punto associato al numero $6$. Se il primo punto visitato fosse $9$, la password sarebbe $963812$. Se il primo punto visitato fosse $6$, la password sarebbe $693812$. Si noti che $6$ sarebbe saltato, poiché non poteva essere ripetuto. D'altra parte, la linea poligonale della figura 2 è associata a una singola password.
+> 
+> Determinare la minima $n$ ($n \ge 4$) in modo tale che, data qualsiasi sottoinsieme di cifre $n$ da $1$ a $9$, sia possibile elaborare una password che coinvolga esattamente quelle cifre in un certo ordine.
+
+![[src_obm_2017_n3_f3__Q04.png]]
+
+[[src_obm_2017_n3_f3__Q04]]

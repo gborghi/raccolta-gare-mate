@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n1_f2__Q02
 parent: src_obm_2009_n1_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *6th grade class: of every 11 students 4 are girls and there are 15 more boys than girls; total students*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>6° grado: di ogni 11 studenti 4 sono ragazze e ci sono 15 maschi in più di ragazze; studenti totali< MSK1/>
+
+> In una classe di seconda elementare, di tutti gli studenti di seconda elementare, $4$ sono ragazze. Ci sono più ragazzi che ragazze. Quanti studenti ci sono in questa classe?
+
+[[src_obm_2009_n1_f2__Q02]]

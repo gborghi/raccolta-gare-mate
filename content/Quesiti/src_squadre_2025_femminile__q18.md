@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2025_femminile__Q18
 parent: src_squadre_2025_femminile
 competition: Gara a Squadre Femminile 2025 - VIII Finale
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita Phineas primo lanciatore al quarto round*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1996
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability Phineas first pitcher in the fourth round*
+
+> Finally (Simona Pieri) Candace finally manages to punish Phineas and Ferb, showing her mother the car the boys turned into the flying machine of the future. The two brothers are sent to the school/rehabilitation center Via the smile, where they are brainwashed. So they 're forced to play by rolling a dice in turn with the following rules: The first player to get 6 wins a round . The round continues until one player wins. Whoever loses the round, starts first in the next round. Phineas plays first. At the end of the third round, Candace and Jeremy break into the school to save Phineas and Ferb. Perry wakes up, realizing he's dreamed everything. What's the probability that Phineas was the first to throw the dice at the start of the fourth round? (Give the sum between numerator and denominator of the fraction reduced to minimum terms.)
+
+**Answer:** 1996
+[[src_squadre_2025_femminile__Q18]]

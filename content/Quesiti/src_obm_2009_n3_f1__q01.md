@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q01
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-digit numbers that 'detonate' 314 (every digit strictly greater).*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri a 3 cifre che "detonano" 314 (ogni cifra è strettamente maggiore).*
+
+> Un numero naturale a tre cifre $A$ \textit{detona} un numero naturale a tre cifre $B$ se ogni cifra di $A$ è maggiore della cifra corrispondente di $B$. Ad esempio, $876$ detona $345$; tuttavia, $651$ non detona $542$ perché $1 < 2$. Quanti numeri a tre cifre esplodono? (A) $120$ (B) $240$ (C) $360$ (D) $480$ (E) $600$
+
+[[src_obm_2009_n3_f1__Q01]]

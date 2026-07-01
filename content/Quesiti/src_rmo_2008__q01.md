@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2008 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2008__Q01
 parent: src_rmo_2008
 competition: Regional Mathematical Olympiad 2008
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perpendicular meets and circumradius in acute triangle*
 
@@ -35,3 +38,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16mQy3REp8_l6rFZ-_EyE4gi26-48xpHT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In triangolo acuto *
+
+> Il $ABC$ sia un triangolo a angolo acuto; $D$, $F$ siano rispettivamente i punti medi di $BC$ e $AB$. La perpendicolare da $F$ a $AC$ e la perpendicolare da $B$ a $BC$ si incontrano in $N$. Provare che $ND$ è il radio circostante di $ABC$.
+
+[[src_rmo_2008__Q01]]

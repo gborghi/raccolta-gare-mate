@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2021 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2021__Q08
 parent: src_smc_2021
 competition: Senior Mathematical Challenge 2021
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the area of quadrilateral PQRS where PQ = 5, QR = 13, RS = 12 and the angle at Q is 90°.*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'area del PQRS quadrilaterale dove PQ = 5, QR = 13, RS = 12 e l'angolo a Q è 90°.*
+
+> Qual è la superficie della regione all'interno del quadrilaterale $PQRS$?
+>
+> - **(A)** 18
+> - **(B)** 24
+> - **(C)** 36
+> - **(D)** 48
+> - **(E)** ulteriori informazioni necessarie
+
+![[src_smc_2021__Q08.png]]
+
+**Risposta:** B
+[[src_smc_2021__Q08]]

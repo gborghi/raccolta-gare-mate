@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f1__Q16
 parent: src_obm_2002_n1_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fraction of larger circle's area covered by the black region*
 
@@ -55,3 +58,22 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NviJwQmbmihSaakvq3DJSWhViadj6Z5P/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fraczione della superficie del cerchio più grande coperta dalla regione nera*
+
+> Nella rete quadrata di seguito, tutte le circonferenze hanno il centro $M$. Allora si può concludere che l'area nera è:
+>
+> - **(A)** due quinti della superficie del cerchio più grande.
+> - **(B)** tre settimi della superficie del cerchio più grande.
+> - **(C)** metà dell'area del cerchio più grande.
+> - **(D)** quattro sesti della superficie del cerchio più grande.
+> - **(E)** tre ottavi della superficie del cerchio più grande.
+
+![[src_obm_2002_n1_f1__Q16.png]]
+
+**Risposta:** C
+[[src_obm_2002_n1_f1__Q16]]

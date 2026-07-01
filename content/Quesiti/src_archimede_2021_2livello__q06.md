@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2021 - 2° livello — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_2livello__Q06
 parent: src_archimede_2021_2livello
 competition: Archimede Gara di Febbraio 2021 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Furfanti e cavalieri numerati, valori possibili furfanti*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbered horses and horsemen, possible values of horses*
+
+> Participants in a gathering of thieves (who always lie) and knights (who always tell the truth) are numbered from 1 to 2021. Each of them states: At least the groups of participants of which I am a member and which contain exactly two knights can be formed, where i is the number assigned to the person speaking. What are the possible values for the number of thieves at the convention?
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 2021
+> - **(E)** 2022
+
+**Answer:** B
+[[src_archimede_2021_2livello__Q06]]

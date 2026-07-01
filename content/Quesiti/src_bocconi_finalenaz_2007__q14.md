@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2007 — Quesito
   14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2007__Q14
 parent: src_bocconi_finalenaz_2007
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2007
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Migliore prima carta per Angelo nel gioco delle carte che porta sicuramente alla vittoria*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Best first card for Angelo in a card game that definitely leads to victory
+
+> Angelo and Desiderio have a game of cards that they much prefer to the others. They put the four assi, the four 2, the four 3 and the four 4 on the table (with their faces clearly visible) and, in turn, take a card. At each take, they make the sum of the values of the cards withdrawn from the table until that moment (the ass is worth 1 point, the 2 two points, the 3 three points and the 4 four points) both by Angelo and Desiderio: the first one who reaches exactly 21 points wins or who obliges his opponent to exceed this score. The first move is Angelo's: he can choose whether to start Desiderio or play first, taking a card. What is the best choice for Angelo, which will surely lead him to victory? (Write the value of the first card taken by Angelo or answer 0 if, for Angelo, it is better to start Desiderio).
+
+**Answer:** 3
+[[src_bocconi_finalenaz_2007__Q14]]

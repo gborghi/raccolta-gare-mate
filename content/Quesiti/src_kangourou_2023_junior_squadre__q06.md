@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Junior Finale 1 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_squadre__Q06
 parent: src_kangourou_2023_junior_squadre
 competition: Kangourou Squadre 2023 Junior Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora dato moto del ragno sull'orologio*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 0626
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Now given the motion of the spider on the watch*
+
+> The spider On a bell tower there is a large traditional circular clock. Moving at a constant speed on its edge, at 06:00 a spider sets out in an anti-clockwise direction corresponding to the tip of the hour's clock, reaches the tip of the minute's clock, reverses the direction of travel and reaches, moving now clockwise, for the second time the tip of the minute's clock after 20 minutes from the first time. What time is it? (Write the answer using only 4 digits, without the two dots: for example at 07:56 write 0756.)
+
+**Answer:** 0626
+[[src_kangourou_2023_junior_squadre__Q06]]

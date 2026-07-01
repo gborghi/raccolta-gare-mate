@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_finale__Q20
 parent: src_cesenatico_2012_finale
 competition: Gara a Squadre Cesenatico 2012 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Min minuti per distruggere C-18 (grafo isole)*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0049
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minutes to destroy C-18 (graph islands)
+
+![[src_cesenatico_2012_finale__prob20.png]]
+
+> The Pell archipelago is looking for C-18, which hides in an archipelago made up of 11 islands and 20 bridges (as shown in the figure), Pell has 3 possible moves:
+
+**Answer:** 0049
+[[src_cesenatico_2012_finale__Q20]]

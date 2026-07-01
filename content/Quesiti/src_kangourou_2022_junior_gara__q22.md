@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q22
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo punti del vincitore del torneo a otto squadre*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum points for the eight-team tournament winner*
+
+> Eight teams participated in a football tournament. Each played each other once and only once, scoring 3 points in a win, 1 point in a draw, 0 points in a loss. The sum of the points scored by the individual teams is 61. A team has won the tournament: how many points can it have scored, at most? A) 21
+>   
+> B) 19
+>   
+> C) 18 D) 17 E) 16
+
+**Answer:** D
+[[src_kangourou_2022_junior_gara__Q22]]

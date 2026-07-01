@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 4 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r4__Q01
 parent: src_rmo_2013_r4
 competition: Regional Mathematical Olympiad 2013
@@ -29,6 +30,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle through O intersects another circle; angle equality proof*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A3xPqFuv-0CPhkgiaHaPOWIfaJVs8RuK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo attraverso O incrocia un altro circolo; prova di ugualezza angolare*
+
+> Il $\Gamma$ deve essere un cerchio con il centro $O$. Il $A$ deve essere un altro cerchio che attraversa $O$ e che si interseca con $\Gamma$ ai punti $A$ e $B$. Un diametro $CD$ di $\Gamma$ interseca $A$ in un punto $P$ diverso da $O$. Provare che < MSK0/>
+
+[[src_rmo_2013_r4__Q01]]

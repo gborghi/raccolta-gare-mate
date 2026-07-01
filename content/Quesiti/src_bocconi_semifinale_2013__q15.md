@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2013 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2013__Q15
 parent: src_bocconi_semifinale_2013
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2013
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di concorrenti che non hanno barato in una classe*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 15
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of competitors who have not cheated in a class*
+
+> The participants in a competition were 31 pupils from the same class. Upon arrival, the finalist declared: "Everyone ahead of me in the rankings cheated because at some point they took a shortcut". Each of the other competitors makes the following statement instead: the partner who came immediately after me cheated because at some point he took a shortcut.
+> 
+> Keep in mind that all those who cheated then lied in their statements, while honest competitors then told the truth.
+> 
+> How many competitors didn't cheat?
+
+**Answer:** 15
+[[src_bocconi_semifinale_2013__Q15]]

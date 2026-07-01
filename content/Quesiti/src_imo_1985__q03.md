@@ -1,6 +1,7 @@
 ---
 title: IMO 1985 (26th International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1985__Q03
 parent: src_imo_1985
 competition: IMO 1985 (26th International Mathematical Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Odd-coefficient count inequality for sums of binomial polynomials*
 
@@ -37,3 +40,15 @@ tags:
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cg1NYtm4dPh2yDOiQw5AK-zPMbUVJynC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Odd-coefficient count inequality for sums of binomial polynomials*
+
+> For each $P(x) = a_0 + a_1 x + \cdots + a_k x^k$ polynomial with integer coefficients, the number of odd coefficients is denoted by $w(P)$. For $i = 0, 1, \ldots$, be $Q_i(x) = (1 + x)^i$. Show that if $i_1, i_2, \ldots, i_n$ are integers such that $0 \leq i_1 < i_2 < \cdots < i_n$, then
+> 
+> $$w(Q_{i_1} + Q_{i_2} + \cdots + Q_{i_n}) \geq w(Q_{i_1}).$$
+
+[[src_imo_1985__Q03]]

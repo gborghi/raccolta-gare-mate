@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2014 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2014_automne__Q07
 parent: src_canimath_2014_automne
 competition: Coupe Animath Automne 2014
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Digit-rule sequence; can a_0 be chosen so the sequence is infinite?*
 
@@ -54,3 +57,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15vtKOtQa9ehL1Qp64ICOkTx6pQqg0n_e/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di regola digitali; può essere scelto a_0 in modo che la sequenza sia infinita?*
+
+> $a_0$ sia un numero intero rigorosamente positivo. Da esso costruiamo una sequenza di integri $a_1, a_2, \cdots$ secondo la seguente procedura:
+> 
+> - se la cifra di unità di $a_i$ è strettamente superiore a $5$, allora $a_{i+1} = 9 a_i$; - se la cifra di unità di $a_i$ è inferiore o uguale a $5$ e non zero, allora il numero così formato (eliminando quella cifra di unità) è $a_{i+1}$.
+> 
+> Chiaramente, se si sono cancellate tutte le cifre di $a_i$, la procedura si ferma e non esiste $a_{i+1}$.
+> 
+> Si può scegliere $a_0$ in modo che la sequenza così costruita sia infinita?
+
+[[src_canimath_2014_automne__Q07]]

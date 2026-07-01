@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2019 — Selection Camp — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2019__Q04
 parent: src_selection_camp_2019
 competition: Japan IMO Selection Camp 2019 — Selection Camp
@@ -30,6 +31,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *All f on positive rationals with f(x^2 f(y)^2)=f(x)^2 f(y)*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tutti f su razionali positivi con f(x^2 f(y) ^2) = f(x) ^2 f(y) *
+
+> Trova tutte le funzioni $f$ definite sui razionali positivi e prendi valori razionali positivi in modo tale che, per tutti i razionali positivi $x$ e $y$, $$f\big(x^2 f(y)^2\big) = f(x)^2 f(y).$$
+
+[[src_selection_camp_2019__Q04]]

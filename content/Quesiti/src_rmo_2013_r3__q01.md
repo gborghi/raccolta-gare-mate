@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r3__Q01
 parent: src_rmo_2013_r3
 competition: Regional Mathematical Olympiad 2013
@@ -34,6 +35,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count eight-digit numbers with digit sum equal to 4*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LyJj9lZ6d9wJTkSmciSZe9Gn8yrb6GdD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare numeri a otto cifre con somma di numeri pari a 4*
+
+> Trova il numero di numeri a otto cifre con la somma delle cifre uguale a 4.
+
+[[src_rmo_2013_r3__Q01]]

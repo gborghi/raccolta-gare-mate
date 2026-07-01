@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2022 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_automne__Q08
 parent: src_canimath_2022_automne
 competition: Coupe Animath Automne 2022
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute a nested radical expression*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hAlr5oS_VPXWtAhgZvHeNt9W7CHb_zHz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Calcolare un'espressione radicale annidata< MSK1/>
+
+> Calcolo: $$\sqrt{7 + \sqrt{1 + \sqrt{7 + \sqrt{1 + \sqrt{7 + \sqrt{1 + \sqrt{7 + \sqrt{3 + \sqrt{1}}}}}}}}}$$ Si prevede una sola risposta numerica.
+
+**Risposta:** 3
+[[src_canimath_2022_automne__Q08]]

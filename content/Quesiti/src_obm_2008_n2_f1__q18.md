@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f1__Q18
 parent: src_obm_2008_n2_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three-digit number 629 times smaller than sum of all others*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un numero a tre cifre 629 volte inferiore alla somma di tutti gli altri*
+
+> Un certo numero a tre cifre è $629$ volte inferiore alla somma di tutti gli altri numeri a tre cifre. Questo numero è: (A) $450$ \quad (B) $785$ \quad (C) $630$ \quad (D) $471$ \quad (E) $525$
+
+[[src_obm_2008_n2_f1__Q18]]

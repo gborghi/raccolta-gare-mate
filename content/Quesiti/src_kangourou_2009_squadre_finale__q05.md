@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 squadre finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_squadre_finale__Q05
 parent: src_kangourou_2009_squadre_finale
 competition: Kangourou 2009 squadre finale
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo sottoinsiemi con intersezione consecutiva*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5776
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum subset with consecutive intersection*
+
+> Special subsets Consider the sum of the first 151 integers greater than zero. From all its sub-sets, you want to choose some so that the intersection between any two of those you have chosen is either a single number or a sequence of consecutive numbers (condition satisfied, for example, by both pairs of sub-sets ({1, 2}, {2, 3}) and ({1, 2, 3}, {2, 3, 4}), but not by pairs ({1, 2}, {3, 4}) or ({1, 2, 4}, {2, 3, 4})). How many sub-sets can you pick at most?
+
+**Answer:** 5776
+[[src_kangourou_2009_squadre_finale__Q05]]

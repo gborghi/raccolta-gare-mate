@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin finale (maggio) — Quesito B4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_maggio__QB4
 parent: src_kangourou_2007_benjamin_maggio
 competition: Kangourou 2007 Benjamin finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tipo di molecola rimasta (reazioni con invariante)*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Anti-X
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wbmAAkHVqbo7EOEVBYt8x1-cdr8_snEU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Remaining molecule type (reactions with invariant) < MSK1/>
+
+> By reacting with each other, three types of $X$, $Y$ and $\text{Anti-X}$ molecules behave as follows: - if a molecule of $X$ meets one of $Y$, a molecule of $\text{Anti-X}$ is formed that replaces them; - if a molecule of $\text{Anti-X}$ meets one of $Y$, a molecule of $X$ is formed that replaces them; - if a molecule of $X$ and one of $\text{Anti-X}$ meet, they explode, explode and release energy.
+> 
+> Of course, no molecule reacts with molecules of the same type!
+> 
+> Four < MSK0/> molecules, two < MSK1/> and five < MSK2/> react with each other in such a way that one molecule is eventually left. Can we guess what kind of guy he is?
+> 
+> [Caution: if you are positive, you must show that no other result can be obtained; otherwise, you must indicate two procedures each of which allows one molecule to be produced and the two molecules produced are different].
+
+**Answer:** Anti-X
+[[src_kangourou_2007_benjamin_maggio__QB4]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student finale — Quesito S4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student_finale__QS4
 parent: src_kangourou_2024_student_finale
 competition: Kangourou 2024 Student finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Esistono palindromi ABBA quadrati perfetti?*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** No
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pVmLuJsgtVZ0iaNk5NbfEj5LKn6f8UgH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Are there any perfectly square ABBA palindromes?
+
+> Are there 4-digit palindromes (i.e. $\overline{ABBA}$ with $A \neq 0$) in decimal notation, which are perfect squares?
+
+**Answer:** No
+[[src_kangourou_2024_student_finale__QS4]]

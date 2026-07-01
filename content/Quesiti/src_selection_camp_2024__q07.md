@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2024 — Selection Camp — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2024__Q07
 parent: src_selection_camp_2024
 competition: Japan IMO Selection Camp 2024 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Longest sequence of integers in [1,2^2023] with no zero signed subsum*
 
@@ -50,3 +53,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PL_Bn-4WncGMxFABFvS--QrLAcF9eVC7/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La sequenza più lunga di numeri interi in [1,2^2023] senza sottosum sottoscritto a zero*
+
+> Trova il più grande intero positivo $N$ in modo che esista una sequenza $a_1, a_2, \ldots, a_N$ che soddisfa entrambi i seguenti elementi: \begin{itemize} \item Per ogni intero $i$ con $1 \le i \le N$, $a_i$ è un intero con $1 \le a_i \le 2^{2023}$. \item Per tutti gli integri $i, j$ con $1 \le i \le j \le N$ e ogni scelta di $s_i, s_{i+1}, \ldots, s_j$ ognuno uguale a $1$ o $-1$, $$s_i a_i + s_{i+1} a_{i+1} + \cdots + s_j a_j \neq 0.$$ \end{itemize}
+
+[[src_selection_camp_2024__Q07]]

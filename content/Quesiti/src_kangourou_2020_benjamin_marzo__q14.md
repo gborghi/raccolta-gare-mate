@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q14
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale cubo puo aver costruito Maria (10/9/8 cubetti)*
 
@@ -47,3 +50,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What cube could Mary have built?
+
+![[src_kangourou_2020_benjamin_marzo__prob14.png]]
+
+> Maria has exactly 10 white cubes, 9 gray cubes and 8 black cubes, all the same size. He glues them all together and he gets a bigger cube. Which of the cubes pictured below may be the one built by Mary? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E) No one.
+
+**Answer:** B
+[[src_kangourou_2020_benjamin_marzo__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2020 - 2° livello — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_2livello__Q04
 parent: src_archimede_2020_2livello
 competition: Archimede Gara di Febbraio 2020 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadrato, cerchio, intersezioni, lunghezza AY*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Square, circle, intersections, length AY*
+
+> Lucia, after drawing the square ABCD of the unit side, draws a circumference of center C and equal radius to the side of the square. It then indicates with X the intersection between the diagonal AC and the circumference, and with Y the intersection of the straight DX with the side AB. How much is the length of the AY segment ?
+>
+> - **(A)** √ 2+1 6
+> - **(B)** √ 2 −1
+> - **(C)** √ 2 3
+> - **(D)** 3 + √ 2 8
+> - **(E)** √ 2 2
+
+**Answer:** B
+[[src_archimede_2020_2livello__Q04]]

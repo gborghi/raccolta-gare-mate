@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2006 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2006__Q02
 parent: src_cn_cmc-complementary-test_2006
 competition: China Mathematical Competition (Complementary Test) 2006
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min pieces to remove from 7x8 board to break all 5-in-a-row groups*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 11
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Min pezzi da rimuovere dalla lavagna 7x8 per rompere tutti i gruppi 5 in fila*
+
+> Dato un scacchiere $7 \times 8$ come si vede nella figura, 56 pezzi sono posizionati sulla tavola con ciascun quadrato contenente esattamente un pezzo. Se due pezzi si trovano in un lato o in un vertice comune, vengono chiamati "connessi". Si dice che un gruppo di 5 pezzi abbia la proprietà A, se questi pezzi sono collegati ordinatamente in una linea (orizzontale, verticale o diagonale).
+> 
+> Qual è il numero minimo di pezzi da rimuovere dalla lavagna per garantire che nessun gruppo di 5 pezzi sulla lavagna abbia la proprietà A? Devi provare la tua risposta.
+
+![[src_cn_b07_w62__Q02.png]]
+
+**Risposta:** 11
+[[src_cn_cmc-complementary-test_2006__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: XXII Olimpiade Italiana Cesenatico 2006 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006__Q05
 parent: src_cesenatico_2006
 competition: XXII Olimpiade Italiana Cesenatico 2006
@@ -25,6 +26,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *per quali n vera*
 
@@ -40,3 +43,18 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (a) vera per n>=4; (b) falsa per n piccolo
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1a5Lshf2bV_5u5VJu3USrqJtBqyLicefL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> for which n true< MSK1/>
+
+> Consider the inequality < MSK0/>
+> 
+> (a) Determine for which $n \geq 3$ is true for each possible choice of positive real numbers $x_1, x_2, \ldots, x_n$.
+> 
+> (b) Determine for which $n \geq 3$ is true for each possible choice of real numbers $x_1, x_2, \ldots, x_n$.
+
+**Answer:** (a) vera per n>=4; (b) falsa per n piccolo
+[[src_cesenatico_2006__Q05]]

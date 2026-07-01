@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q15
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quando cuore e freccia coincidono per la prima volta*
 
@@ -54,3 +57,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+When heart and arrow match for the first time
+
+![[src_kangourou_2014_cadet__prob15.png]]
+
+> Two heart-shaped and arrow-shaped bases are placed in the triangles shown in the figure. They begin to move at the same moment: the arrow moves 3 places in the direction of the hour, the heart 4 places in the direction of the hour and then they stop. The procedure is repeated several times. After how many operations of the procedure are the heart and arrow found for the first time in the same triangular region? A) 7
+> 	
+> B) 8
+> 	
+> (C) 9 D) A number different from the previous three.
+> 	
+> E) Never.
+
+**Answer:** E
+[[src_kangourou_2014_cadet__Q15]]

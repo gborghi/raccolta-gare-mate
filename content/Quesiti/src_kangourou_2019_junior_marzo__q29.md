@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q29
 parent: src_kangourou_2019_junior_marzo
 competition: Kangourou 2019 Gara marzo Junior (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo PQR costruito su prolungamenti*
 
@@ -55,3 +58,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*PQR triangle area built on extensions*
+
+![[src_kangourou_2019_junior_marzo__prob29.png]]
+
+> The figure shows an ABC triangle of area S. D the middle point of BC, three points P, Q, R were marked on the segments BA, DA and CA respectively so that AP is twice AB, AQ is triple AD and AR is quadruple AC. What is the area of the PQR triangle? A) S
+> 	
+> B) 2S
+> 	
+> C) 3S
+> 	
+> D) S/2 E) 0 (i.e. P, Q, R are aligned).
+
+**Answer:** A
+[[src_kangourou_2019_junior_marzo__Q29]]

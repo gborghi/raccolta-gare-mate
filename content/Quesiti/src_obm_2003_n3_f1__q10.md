@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q10
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify which sequence does NOT describe itself autologically*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare quale sequenza NON si descrive autologicamente*
+
+> La sequenza $``22"$ si descrive, poiché è formata da esattamente due $2$. Analogamente, la sequenza $``31\;12\;33\;15"$ si descrive perché contiene esattamente tre $1$, uno $2$, tre $3$, uno $4$ (=quattro zero), e uno $5$... Quale delle seguenti sequenze NON si descrive?
+> 
+> A) $21\;32\;23\;16$ \quad B) $31\;12\;33\;18$ \quad C) $31\;22\;33\;17\;19$ \quad D) $31\;32\;33\;24\;15\;16\;18$ \quad E) $41\;32\;33\;24\;15\;16\;18$
+
+**Risposta:** D
+[[src_obm_2003_n3_f1__Q10]]

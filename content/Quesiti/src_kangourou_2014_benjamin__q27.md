@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Benjamin — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin__Q27
 parent: src_kangourou_2014_benjamin
 competition: Kangourou 2014 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero cancellato da Aldo (somma 15, prodotto 36)*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number deleted by Aldo (sum 15, product 36) *
+
+> On the board are three numbers of one digit each: their sum is 15. Aldo deletes one and replaces it with number three: now their product is 36. What's the number Aldo deleted? A) 6 or 7, and both are possible.
+> 	
+> B) 7 or 8, and both are possible. C) Surely 6. D) Surely 7. E) Surely 8.
+
+**Answer:** B
+[[src_kangourou_2014_benjamin__Q27]]

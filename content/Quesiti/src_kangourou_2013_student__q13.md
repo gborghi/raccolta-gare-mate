@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q13
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale colorazione di piastrelle non puo derivare dal tappeto*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>What colour of tiles cannot be obtained from the carpet< MSK1/>
+
+![[src_kangourou_2013_student__prob13.png]]
+
+> A floor covered with square tiles is partially covered by a round carpet. In the following figures, the shaded tiles represent only tiles that have more than one point covered by the carpet. What figure cannot be obtained? A)
+>     	
+> B) C) D) E)
+
+[[src_kangourou_2013_student__Q13]]

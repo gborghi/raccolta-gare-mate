@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q13
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punto comune a tutti i grafici di famiglia di cubiche*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Common point to all cubic family graphs*
+
+> Whatever the choice of the value assigned to the real parameter a, the graphs of the functions ya = x3 + 3x2 + ax + 2a + 4 all pass through the same point of the Cartesian plane. What is the sum of the coordinates of that point? A) 2
+> 	
+> B) 4
+> 	
+> C) 7
+> 	
+> D) 8 E) None of the above.
+
+**Answer:** E
+[[src_kangourou_2023_student__Q13]]

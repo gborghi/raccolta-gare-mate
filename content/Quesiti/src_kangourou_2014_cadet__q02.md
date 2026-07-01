@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q02
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parola che certamente non compare aggiungendo due lettere a VOLANO*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Word that certainly does not appear by adding two letters to VOLANO*
+
+> Georgia lined up on the table six tiles, each engraved with a letter, forming the word VOLANO. Mattia added to Georgia's two cards (also with a letter each) we don't know where (one or both can also be found at the beginning or end of the word), but he didn't change the order of the cards aligned by Georgia. Which of the following words certainly does not appear on the table now? (a) Flying B) Flying C) Flying D) Flying E) Flying
+
+**Answer:** D
+[[src_kangourou_2014_cadet__Q02]]

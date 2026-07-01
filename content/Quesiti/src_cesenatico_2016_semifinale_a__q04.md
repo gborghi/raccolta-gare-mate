@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_semifinale_a__Q04
 parent: src_cesenatico_2016_semifinale_a
 competition: Gara a Squadre Cesenatico 2016 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita due teletrasporti (ritardi geometrici)*
 
@@ -52,3 +55,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6143
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of two teleports (geometric delays) < MSK1/>
+
+> Even Earth is about to be destroyed to make way for a hyperspace curve. Square Perfect came up with a plan to save himself and Arthur. They will have to teleport on a Bogon ship, wait at least half an hour on it for their teleportation device to recharge, and then they can transfer with the device to another spacecraft that is expected to cross the Bogon ship 11 hours later than their expected arrival time (the teleportation device only works when the two ships are close together). In fact, unfortunately, there is no guarantee that the two ships will be on time: each of them, regardless of the other, has 12 chances of arriving on time, 14 of being one hour late, 18 of having two, 16 of having three, and so on. What are the odds that our two heroes will be able to teleport twice as scheduled? Answer by stating the sum of the numerator and denominator of the fraction reduced to the minimum terms.
+
+**Answer:** 6143
+[[src_cesenatico_2016_semifinale_a__Q04]]

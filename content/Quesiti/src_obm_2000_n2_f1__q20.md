@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f1__Q20
 parent: src_obm_2000_n2_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2000th number in sequence filling white cells of growing-row table*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2000° numero in sequenza che riempie le celle bianche della tabella di fila in crescita*
+
+> Si inseriscono numeri in ordine crescente nelle celle bianche (non ombrate) di una tabella, riempendole come mostrato (le prime righe hanno $1, 2, 3, \ldots$ celle bianche; ad esempio, il numero $9$ scritto è $14$). Qual è il numero $2000$ in questa sequenza?
+> 
+> A) $3931$ \quad B) $3933$ \quad C) $3935$ \quad D) $3937$ \quad E) $3939$
+
+![[src_obm_2000_n2_f1__Q20.png]]
+
+**Risposta:** D
+[[src_obm_2000_n2_f1__Q20]]

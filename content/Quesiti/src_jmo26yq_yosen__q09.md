@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo26yq_yosen__Q09
 parent: src_jmo26yq_yosen
 competition: Japan Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count pairs (a,b) with two divisibility conditions*
 
@@ -43,3 +46,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Coppie di conteggio (a,b) con due condizioni di divisibilità*
+
+> Quante coppie di integri $(a, b)$ con $1 \le a, b \le 2015$ esistono tali che $a$ sia un multiple di $b + 1$ e $2016 - a$ sia un multiple di $b$?
+
+**Risposta:** 1980
+[[src_jmo26yq_yosen__Q09]]

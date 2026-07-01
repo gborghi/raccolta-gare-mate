@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior (18 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior__Q05
 parent: src_kangourou_2004_junior
 competition: Kangourou 2004 Junior (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punti di Giovanni a ping-pong (sistema)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+John's points in ping-pong (system)
+
+> Giovanni and Stefano are playing ping-pong. Right now, if John had five more points, he'd have doubled Stephen's, while if he had seven fewer points, he'd have half Stephen's. How many points does Giovanni have right now? A) 5            B) 7            C) 9           D) 11          E) 15
+
+**Answer:** D
+[[src_kangourou_2004_junior__Q05]]

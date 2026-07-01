@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Finale Nazionale Junior — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q02
 parent: src_kangourou_2018_junior_finale
 competition: Kangourou 2018 Finale Nazionale Junior
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo prodotto ab con a^2+b^2+1007ab=2018*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0002
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum product ab with a^2+b^2+1007ab=2018< MSK1/>
+
+> The sides of a quadrilateral measure 1, 4, 7, 8. What's your maximum area?
+
+**Answer:** 0002
+[[src_kangourou_2018_junior_finale__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1998 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1998_r3__Q01
 parent: src_pol_1998_r3
 competition: Olimpiade Matematica Polacca 1998 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive integers a,b,c,x,y,z satisfying two symmetric equations*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HNzsYtp4f53ox4csFAmBEErk9uGCnNXP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i numeri interi positivi a,b,c,x,y,z che soddisfano due equazioni simmetriche*
+
+> Trova tutti gli integri positivi $a, b, c, x, y, z$ con $a \ge 2$, $b \ge 2$, $c \ge 2$, $x \ge y \ge z$ che soddisfano $$a + b + c = xyz, \quad x + y + z = abc.$$
+
+[[src_pol_1998_r3__Q01]]

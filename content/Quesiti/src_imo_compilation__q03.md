@@ -1,6 +1,7 @@
 ---
 title: IMO compilation 1959-2013 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_compilation__Q03
 parent: src_imo_compilation
 competition: IMO compilation 1959-2013
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *IMO 1997 problema 3*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.62](https://drive.google.com/file/d/1k6cpNRHvI9fVtF3vHCIOPLmdeEf70-V4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the case for the European Union.
+
+> To each vertex of a regular pentagon an integer is assigned in such a way that the sum of all five numbers is positive. If three consecutive vertices are assigned the numbers x, y, z respectively and y < 0 then the following operation is allowed: the numbers x, y, z are replaced by x+y, −y, z +y respectively. Such an operation is performed repeatedly as long as at least one of the five numbers is negative. Determine whether this procedure necessarily comes to an end after a finite number of steps.
+> 
+> 27th International Mathematical Olympiad Warsaw, Poland Day II July 10, 1986
+
+[[src_imo_compilation__Q03]]

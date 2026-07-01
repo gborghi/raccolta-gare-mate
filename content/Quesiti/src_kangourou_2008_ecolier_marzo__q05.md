@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q05
 parent: src_kangourou_2008_ecolier_marzo
 competition: Kangourou 2008 - Ecolier (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti orari poteva iniziare la telefonata*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Y2PPk0y8EAPu9XdVwcxKDHQ2tA4fBFmN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many hours could the call start*
+
+> Lucia's digital clock is flawed: sometimes it shows the digit 8 instead of the digit 0, and sometimes it shows the digit 0 instead of the digit 8. At the beginning of a phone call, Lucia looked at her watch and read 20:08. How many different times could that phone call have started? A) 1 B) 2 C) 3 D) 4 E) 8
+
+**Answer:** B
+[[src_kangourou_2008_ecolier_marzo__Q05]]

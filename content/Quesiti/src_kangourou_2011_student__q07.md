@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q07
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -26,6 +27,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Forma del taglio obliquo di un cilindro srotolato*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Form of the oblique cut of a rolling cylinder*
+
+![[src_kangourou_2011_student__prob7.png]]
+
+> A rectangular sheet of paper is wrapped around a cylinder so as to cover it without overlap with itself; if the cylinder is cut with a passing plane for the points A and B in the figure, and the bottom of the sheet is then stretched on a plane, which of the following figures can be the image?
+
+[[src_kangourou_2011_student__Q07]]

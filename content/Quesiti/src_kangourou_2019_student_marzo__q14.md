@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q14
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta e altezza dell uomo (tre info con un dato corretto)*
 
@@ -59,3 +62,32 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Height and height of the man (three info with correct data) < MSK1/>
+
+> The police have collected the following information, which is partly contradictory, about one man:
+> 	
+> - he's 33 years old and is 1.75 in height.
+> 	
+> - is 31 years old and is 1.90 m tall;
+> 	
+> - is 29 years old and is 1.75 in height;
+> 	
+> - He's 29 years old and he's 1.70. It was subsequently found that for exactly three of these information, only one of the two data is correct. Then you can be sure that
+> 	
+> A) the man is 31 or 33 years old.
+> 	
+> (b) the man is 29 or 33 years old.
+> 	
+> C) the man is 29 years old and is less than 1.70 or more than 1.90.
+> 	
+> D) The man is 1.75 or 1.90.
+> 	
+> E) The man is 1.75 or 1.70.
+
+**Answer:** D
+[[src_kangourou_2019_student_marzo__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q13
 parent: src_archimede_2013_febb_2livello
 competition: Archimede Gara di Febbraio 2013 - 2 livello
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Battaglia navale, colpi minimi per colpire portaerei 5x1*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 20
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Marine battle, minimum hits to hit aircraft carriers 5x1
+
+![[src_archimede_2013_febb_2livello__prob13.png]]
+
+> In a variant of the naval battle game, Anna places an aircraft carrier (which we can think of as a rectangle 5 × 1) in a grid 10 × 10, either vertically or horizontally, without showing it to Jacopo. Jacopo tries to hit the aircraft carrier, telling her again and again the coordinates of a square inside the grid. If the picture you chose is among those covered by the aircraft carrier, this one is hit, otherwise it is missing. How many shots does Jacopo have to shoot at least to hit her for sure at least once?
+
+**Answer:** 20
+[[src_archimede_2013_febb_2livello__Q13]]

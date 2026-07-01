@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1993 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1993__Q05
 parent: src_rmo_1993
 competition: Regional Mathematical Olympiad 1993
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *19^93 - 13^93 divisible by 162*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kadMp-CRN3MjuB-TEm5ptxaScgegf-GQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*19^93 - 13^93 divisibile per 162*
+
+> Indicare che $19^{93} - 13^{93}$ è un intero positivo divisibile da $162$.
+
+[[src_rmo_1993__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2007 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2007__Q07
 parent: src_cn_cmc_2007
 competition: China Mathematical Competition 2007
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum sum of distances from four fixed points to variable point*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $3\sqrt{2}+2\sqrt{5}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum somma delle distanze da quattro punti fissi a punti variabili*
+
+> Se si considerano quattro punti fissi $A(-3,\, 0)$, $B(1,\, -1)$, $C(0,\, 3)$, $D(-1,\, 3)$ e un punto variabile $P$ in un sistema di coordinate rettangolari piani, il minimo di $|PA| + |PB| + |PC| + |PD|$ è $\underline{\qquad}$.
+
+**Risposta:** $3\sqrt{2}+2\sqrt{5}$
+[[src_cn_cmc_2007__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_pubblico__Q01
 parent: src_gas_2009_pubblico
 competition: Gara a Squadre 2009 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di elfi tra prigionieri sinceri/bugiardi*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5864
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of Elves among honest/ foolish prisoners
+
+> Question of Honor [10] They elevate noble creatures to Him and flee from falsehood and deceit: they always speak the truth. Humans, on the other hand, are a less austere people and have no regrets if they need to lie: they can tell the truth or the lie. When the Orcs conquer a human stronghold, they capture 9999 prisoners. They are questioned in order; the first 1729 claim to be elves. Starting with 1730°, the n-eighth states There are at least n −1729 humans among us. How many elves can there be?
+
+**Answer:** 5864
+[[src_gas_2009_pubblico__Q01]]

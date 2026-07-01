@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q29
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante gocce di colla nella piramide di sferette*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many glue drops in the sphere pyramid< MSK1/>
+
+![[src_kangourou_2020_benjamin_marzo__prob29.png]]
+
+> Daniel builds the pyramid of spheres you see in the figure (the four side faces are identical). The base is made up of 3×3 spheres, the intermediate plane is made up of 2×2 spheres and at the top is a sphere. He puts a drop of glue at each point of contact between two spheres. How many glue drops did Daniel use? A) 20
+> 	
+> B) 24
+> 	
+> C) 28
+> 	
+> D) 32
+> 	
+> E) 36
+
+**Answer:** E
+[[src_kangourou_2020_benjamin_marzo__Q29]]

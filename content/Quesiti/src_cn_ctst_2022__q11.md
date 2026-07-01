@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2022 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2022__Q11
 parent: src_cn_ctst_2022
 competition: China National Team Selection Test 2022
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equivalence of two divisibility conditions on multiplicative functions on divisors*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equivalenza di due condizioni di divisibilità sulle funzioni moltiplicative sui divisori*
+
+> Per un intero positivo fisso $n$, $D$ è l'insieme di tutti i divisori positivi di $n$. Prova che per un mappaggio $f : D \to \mathbb{Z}$, le seguenti due affermazioni sono equivalenti: (A) Per qualsiasi divisore positivo $m$ di $n$, $$n \mid \sum_{d \mid m} f(d)\, \binom{m/d}{n/d};$$ (B) Per qualsiasi divisore positivo $k$ di $n$, $$k \mid \sum_{d \mid k} f(d).$$
+
+[[src_cn_ctst_2022__Q11]]

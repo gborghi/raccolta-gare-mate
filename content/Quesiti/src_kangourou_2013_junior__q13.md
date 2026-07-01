@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Junior — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_junior__Q13
 parent: src_kangourou_2013_junior
 competition: Kangourou 2013 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto PQ per RS in esagono regolare*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*PQ product for RS in the regular hexagon*
+
+![[src_kangourou_2013_junior__prob13.png]]
+
+> Look at the figure. The points P and Q are opposite vertices of a regular hexagon, while the points R and S are the midpoints of the two opposite sides parallel to the PQ segment. The area of the section is 60 square metres. What is the product of the length (in meters) of PQ for the length (in meters) of RS? A) 40 B) 50 C) 60 D) 100 E) None of the above.
+
+**Answer:** E
+[[src_kangourou_2013_junior__Q13]]

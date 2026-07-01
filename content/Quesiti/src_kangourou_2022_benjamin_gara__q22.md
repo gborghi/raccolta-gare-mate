@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin gara individuale — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q22
 parent: src_kangourou_2022_benjamin_gara
 competition: Kangourou 2022 Benjamin gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima somma dei quattro interi nella prima riga*
 
@@ -54,3 +57,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum sum of the four integers in the first row*
+
+![[src_kangourou_2022_benjamin_gara__prob22.png]]
+
+> In the table next to each animal represents a positive integer and different animals represent different numbers. Under each column the sum of the two numbers represented by the animals occupying it is indicated. What is the maximum value of the sum of the four integers in the first line? A) 18
+>   
+> B) 19
+>   
+> C) 20 D) 25
+>   
+> E) 26
+
+**Answer:** C
+[[src_kangourou_2022_benjamin_gara__Q22]]

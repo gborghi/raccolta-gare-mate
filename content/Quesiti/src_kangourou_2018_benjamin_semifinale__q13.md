@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Semifinale individuale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_semifinale__Q13
 parent: src_kangourou_2018_benjamin_semifinale
 competition: Kangourou 2018 Benjamin - Semifinale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezze del sesto listello per triangolo equilatero*
 
@@ -66,3 +69,36 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0004
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mpGDkZU0ITLxgA_gblbwITgtcOOWYDSU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lengths of the sixth row for an equilateral triangle*
+
+![[src_kangourou_2018_benjamin_semifinale__prob13.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.7]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (8,0);
+  \coordinate (C) at (4,6.9282);
+  \draw[thick] (A) -- (B) -- (C) -- cycle;
+  \draw[thick] (1.8,3.1) -- (2.2,3.75);
+  \draw[thick] (4.8,4.85) -- (5.2,5.54);
+  \draw[thick] (2.9,-0.15) -- (3.1,0.15);
+  \node at (1.2,4.5) {4 \textit{cm}};
+  \node at (0.3,2.0) {4 \textit{cm}};
+  \node at (4.8,6.2) {2 \textit{cm}};
+  \node at (7.0,3.5) {6 \textit{cm}};
+  \node at (1.5,-0.4) {3 \textit{cm}};
+  \node at (5.5,-0.4) {5 \textit{cm}};
+\end{tikzpicture}
+\end{document}
+```
+
+> (Point 6) Paola has five stripes of 2, 3, 4, 5, and 6 centimeters in length and can choose the length of a sixth stripe so that using all six stripes she can form an equilateral triangle. How many different lengths can the sixth list have? (The figure shows you how you can build the triangle with a sixth row 4 cm long, and this is one of the possible lengths.)
+
+**Answer:** 0004
+[[src_kangourou_2018_benjamin_semifinale__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Finale Nazionale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_finale__Q19
 parent: src_squadre_2023_finale
 competition: Gara a Squadre 2023 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *f(10) con f ottenuta da (x-1)^9 modificando i termini*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1632
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*f(10) with f obtained from (x-1)^9 by modifying the terms*
+
+> After recovering the moon, Krull realizes that it may still be time for the ballet of Maria, Gaetana and Agnese. Then try to enter the return code p(10), where p(x) is the polynomial (x−1)9. However, in a hurry it is confused and considers instead f(x), the function obtained by copying the expression of p(x) and replacing each term of the type anxn with annx. How much is f(10), the number actually entered by Krull? Give each other the first four digits of the result.
+
+**Answer:** 1632
+[[src_squadre_2023_finale__Q19]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 2) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g2__Q16
 parent: src_bocconi_finaleint_2010_g2
 competition: >-
@@ -39,6 +40,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Disponi gli interi da 0 a 9 nei dieci cerchi in modo che le dieci somme dei numeri nei cerchi allineati siano uguali.*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2 soluzioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Set the integers 0 to 9 in the ten circles so that the sums of the ten numbers in the aligned circles are equal.*
+
+> You have the integers from $0$ to $9$ in the ten circles. The sum of the 10 numbers in three aligned circles must be equal.
+
+![[src_bocconi_finaleint_2010_g2__Q16.png]]
+
+**Answer:** 2 soluzioni
+[[src_bocconi_finaleint_2010_g2__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f1__Q18
 parent: src_obm_2002_n2_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1
@@ -39,6 +40,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Polygonal line AB with repeating staircase pattern; total length with 6 segments*
 
@@ -58,3 +61,22 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Linea poligonale AB con modello di scala ripetuta; lunghezza totale con 6 segmenti*
+
+> La linea poligonale $AB$ viene disegnata mantenendo sempre lo stesso modello di ripetizione mostrato nella figura. Ha segmenti $6$ e la sua lunghezza totale è uguale a:
+>
+> - **(A)** $31$
+> - **(B)** $88$
+> - **(C)** $90$
+> - **(D)** $97$
+> - **(E)** $105$
+
+![[src_obm_2002_n2_f1__Q18.png]]
+
+**Risposta:** D
+[[src_obm_2002_n2_f1__Q18]]

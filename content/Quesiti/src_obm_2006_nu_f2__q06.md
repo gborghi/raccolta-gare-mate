@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2 —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_nu_f2__Q06
 parent: src_obm_2006_nu_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *No integer alternating product of A^a_i B^b_i equals identity for n>1*
 
@@ -52,3 +55,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18lHsUkA6TjiVCKvRGHHFZ98nGkOcKHvM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nessun prodotto intero alternativo di A^a_i B^b_i è uguale all'identità per n>1*
+
+> Considera le matrici $$A = \begin{pmatrix} 1 & 2 \\ 0 & 1 \end{pmatrix} \quad \text{and} \quad B = \begin{pmatrix} 1 & 0 \\ 2 & 1 \end{pmatrix}.$$ Prove che, per $n > 1$, non esistono numeri interi $a_1, a_2, a_3, \ldots, a_n$ e $b_1, b_2, \ldots, b_{n-1}, b_n$ con $a_2, a_3, \ldots, a_n$ e $b_1, b_2, \ldots, b_{n-1}$ tutti non zero, in modo tale che $$A^{a_1} \cdot B^{b_1} \cdot A^{a_2} \cdot B^{b_2} \cdots A^{a_n} \cdot B^{b_n} = I,$$ dove $I$ è la matrice di identità $2 \times 2$.
+
+[[src_obm_2006_nu_f2__Q06]]

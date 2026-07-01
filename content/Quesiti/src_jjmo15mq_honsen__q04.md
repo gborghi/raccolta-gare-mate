@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2017 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo15mq_honsen__Q04
 parent: src_jjmo15mq_honsen
 competition: Japan Junior Mathematical Olympiad 2017 — Honsen (Final)
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two non-intersecting curves in xy-plane; 5 points chosen; minimize maximum axis-aligned rectangle area*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ho2le-gwPvbBiq_sWgDwI8cp--nm23DX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due curve non intersezionate in piano xy; 5 punti scelti; ridurre al minimo la superficie rettaangulare massima allineata all'asse*
+
+> Nel piano $xy$ ci sono due curve $y = f(x)$ e $y = g(x)$ che non si incrociano, e per qualsiasi punto di una curva la coordinata $y$ è almeno $1$. Tra i punti $5$ selezionati su queste due curve (con almeno $2$ punti su ciascuna curva), si considerano tutti i rettangoli allineati all'asse i cui lati sono paralleli agli assi delle coordinate e i cui angoli opposti sono due dei punti scelti che si trovano su curve diverse; ciascun rettangolo ha superficie almeno $1$. Il $M$ è la superficie massima di tali rettangoli su tutte le scelte dei punti $5$. Trova il valore minimo possibile di < MSK10/>.
+
+[[src_jjmo15mq_honsen__Q04]]

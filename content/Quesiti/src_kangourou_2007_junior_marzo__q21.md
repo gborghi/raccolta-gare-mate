@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q21
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore a^3+b^3 dove a,b radici di x^2-3x+1*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value a^3+b^3 where a,b roots of x^2-3x+1*
+
+> Call a and b the solutions of the equation x2 - 3x + 1 = 0. How much is a3 + b3 ? A) 12 B) 14 C) 16 D) 18 E) 24
+
+**Answer:** D
+[[src_kangourou_2007_junior_marzo__Q21]]

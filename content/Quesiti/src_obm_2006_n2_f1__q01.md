@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q01
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Expression with powers of 2, count digits*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Espressione con potenze di 2, conteggio di cifre*
+
+> Eseguendo le operazioni indicate nell'espressione $$\frac{2^{2005}+2^{2005}}{2^{2006}+2^{2005}}\times 2006$$ otteniamo un numero di quattro cifre. Quale delle seguenti cifre è uno di questi numeri?
+> 
+> **A) ** 4 \quad **B) ** 5 \quad **C) ** 6 \quad **D) ** 7 \quad **E) ** 8
+
+**Risposta:** B
+[[src_obm_2006_n2_f1__Q01]]

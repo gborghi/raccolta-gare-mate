@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q15
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Alberi col nastro rosso*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Red-tape trees< MSK1/>
+
+> There are 46 trees along the road from Louis' house to the pool. Going from home to the pool and returning, Luigi marked some trees with a red ribbon as follows. Allandata marked the first tree and then the second of each pair of trees she encountered; on her return she marked the first tree and then the third of each trunk of trees she encountered. After that, how many trees have the red ribbon? A) 16 B) 23 C) 24 D) 30 E) 31
+
+**Answer:** E
+[[src_kangourou_2003_benjamin__Q15]]

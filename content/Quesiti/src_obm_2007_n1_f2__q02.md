@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f2__Q02
 parent: src_obm_2007_n1_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A square sheet is folded twice; find the area of the resulting convex pentagon.*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c1KSYB2Si60KoloY7duhcwVwRnP2K6BN/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un foglio quadrato viene piegato due volte; trova l'area del pentagono convexo risultante.*
+
+> Un foglio quadrato di carta, di superficie < MSK0/>, viene ripiegato lungo il primo ripiegamento e poi lungo il secondo ripiegamento, come mostrato nelle figure (a sinistra: prima del primo ripiegamento; a destra: dopo i ripiegamenti). Si può verificare che $CE=EA$ e $CF=FA$, e con una proprietà del piego il segmento $FE$ è perpendicolare al segmento $AC$; questi segmenti si incrociano ai loro punti di mezzo, quindi i triangoli $EBC$ e $AECF$-parti sono congruenti e il quadrilaterale $AECF$ è composto da triangoli congruenti. Determinare l'area, in $\text{cm}^2$, del pentagono convex risultante $BEFE'B'$ (il valore richiesto è uguale a $\dfrac{15\times 20}{2}=150\text{ cm}^2$).
+
+![[src_obm_2007_n1_f2__Q02.png]]
+
+**Risposta:** 150
+[[src_obm_2007_n1_f2__Q02]]

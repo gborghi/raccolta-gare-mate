@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1991-92 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1991-92_round1__Q05
 parent: src_bmo_1991-92_round1
 competition: British Mathematical Olympiad 1991-92 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *f: ℤ⁺→ℤ⁺ strictly increasing with f(f(n))=3n; find f(1992)*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qqoRPhq2Mj2agmbGrWyLkoFFksv9tAll/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*f: Z+→Z+ in aumento rigido con f(n))=3n; ritrovare f(1992)*
+
+> Lasciate che $f$ sia una funzione di mappatura dei numeri interi positivi in numeri interi positivi. Supponiamo che $f(n + 1) > f(n)$ e $f(f(n)) = 3n$ per tutti gli integri positivi $n$. Determinare < MSK4/>.
+
+[[src_bmo_1991-92_round1__Q05]]

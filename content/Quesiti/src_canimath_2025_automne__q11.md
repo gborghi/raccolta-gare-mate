@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2025 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_automne__Q11
 parent: src_canimath_2025_automne
 competition: Coupe Animath Automne 2025
@@ -35,6 +36,8 @@ tags:
   - topic/grafi
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show a 20-island graph with 172 ferry edges has diameter at most 2*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra un grafico di 20 isole con 172 bordi di traghetto con diametro massimo 2*
+
+> Ci sono isole $20$ in Animatland; alcune sono collegate tra loro da rotte di traghetto che vanno in entrambe le direzioni. Ogni coppia di isole è collegata da un percorso massimo e ci sono in totale percorsi $172$. Mostrare che è possibile viaggiare da un'isola a un'altra cambiando il traghetto una volta al massimo (cioè passando per un'altra isola al massimo).
+
+[[src_canimath_2025_automne__Q11]]

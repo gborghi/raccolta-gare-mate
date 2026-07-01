@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q20
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore del diametro d della cisterna*
 
@@ -42,3 +45,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 12 dm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of the tank diameter d*
+
+> For his new home, Desiderio purchased a cistern made up of a cylinder and two semipers, as you can see in the picture. The length L and the diameter d are expressed by an integer of dm. Desiderio is a good and diligent mathematician: he calculated the total surface area of the cistern by getting $6{,}48\pi$ m$^2$ and also its volume, which is $1{,}8\pi$ m$^3$.
+> 
+> What's the value of d?
+
+![[src_bocconi_squadre_2013__Q20.png]]
+
+**Answer:** 12 dm
+[[src_bocconi_squadre_2013__Q20]]

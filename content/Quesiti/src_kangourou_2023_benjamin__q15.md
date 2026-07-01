@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin__Q15
 parent: src_kangourou_2023_benjamin
 competition: Kangourou 2023 Benjamin — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *chi ha rotto la finestra*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who broke the window?
+
+> While Maria, Pietro, Richard and Tina were playing football in the yard, the ball broke through a window. To the teacher who asked the principal, the four answered as follows: Mary: It was Peter Peter: It was Richard Richard: It wasn't me Tina: It wasn't me Only one of them told the truth. Who broke the window? A) Maria B) Tina C) Peter D) Richard E) It is not possible to establish it with certainty.
+
+**Answer:** A
+[[src_kangourou_2023_benjamin__Q15]]

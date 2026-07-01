@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2008 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2008_r3__Q06
 parent: src_pol_2008_r3
 competition: Olimpiade Matematica Polacca 2008 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For S = integers of the form a^2+5b^2 with coprime a,b, and a prime p≡3 mod 4: if some multiple of p is in S, prove 2p is in S.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fNP5XBamldvAMai-xDjSDLVp0ag-433Q/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per S = integri della forma a^2+5b^2 con coprimo a,b, e un primo p3 mod 4: se qualche multiplo di p è in S, dimostra che 2p è in S.*
+
+> $S$ sia l'insieme di integri positivi che possono essere scritti nella forma $a^2 + 5b^2$ per alcuni integri co-prime $a$ e $b$. Il modulo $p$ deve essere un primo congruente a $3$ modulo $4$. Prove che se qualche multiple integrale di $p$ appartiene a $S$, allora $2p$ appartiene anche a $S$.
+
+[[src_pol_2008_r3__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q29
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo rotazioni per riportare pentagono iniziale*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum rotation to return the initial pentagon*
+
+> In the figure a regular pentagon OABCD is represented and the pentagons obtained from it are obtained by first making a centre O rotation leading to the OD side overlapping to the OA side (and OA to OA'), then a centre O rotation leading to the OA side overlapping to the OD' side (and OD' to OA'). Continuing this way, what is the minimum number of rotations sufficient to bring the pentagon back to its original position? A) 6 B) 10 C) 12 D) 15 E) 20
+
+**Answer:** B
+[[src_kangourou_2006_cadet__Q29]]

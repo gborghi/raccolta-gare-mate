@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2016 Semifinale A — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_a__Q10
 parent: src_kangourou_2016_squadre_a
 competition: Kangourou Coppa Squadre 2016 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti braccialetti diversi con 7 anellini colorati*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 360
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many different bracelets with 7 coloured rings< MSK1/>
+
+> A bracelet for Carla Carla has seven rings of different colors. By placing them one by one and connecting them, he wants to build a bracelet. How many different bracelets can it form?
+
+**Answer:** 360
+[[src_kangourou_2016_squadre_a__Q10]]

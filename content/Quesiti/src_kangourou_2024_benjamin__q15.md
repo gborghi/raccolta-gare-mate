@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Benjamin 2024 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin__Q15
 parent: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri diversi coperti dai 16 cerchietti (5 e 13)*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many different numbers are covered by the 16 circles (5 and 13) *
+
+![[src_kangourou_2024_benjamin__prob15.png]]
+
+> Each of the 16 circles in the figure covers a natural number. Numbers covered by nearby circles differ by unit. One of the circles covers the number 5, the other covers the number 13. How many different numbers are covered by the 16 circles altogether? A) 9
+> 	
+> B) 10
+> 	
+> C) 13
+> 	
+> D) 14
+> 	
+> E) 16
+
+**Answer:** A
+[[src_kangourou_2024_benjamin__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q05
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *One of five numbers divides the sum of the other four; which one.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Uno dei cinque numeri divide la somma degli altri quattro; quale uno.*
+
+> Uno dei seguenti cinque numeri è un divisore della somma degli altri quattro. Qual e' quel numero? (A) $20$ (B) $24$ (C) $28$ (D) $38$ (E) $42$
+
+[[src_obm_2009_n3_f1__Q05]]

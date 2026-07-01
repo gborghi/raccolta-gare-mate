@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1979-80 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1979-80_round1__Q04
 parent: src_bmo_1979-80_round1
 competition: British Mathematical Olympiad 1979-80 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find initial values $a_0$ making the recurrence $a_{n+1}=2^n-3a_n$ strictly increasing*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n5B-ELf98YCz5IP34V0d13ErIyoqNLrU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK2/>Ricerca i valori iniziali < MSK0/> che rendono la ricorrenza < MSK1/> in aumento < MSK3/>
+
+> Trova l'insieme dei numeri reali $a_0$ per i quali la sequenza infinita $\{a_n\}$ dei numeri reali definiti da $$a_{n+1} = 2^n - 3a_n \qquad (n \ge 0)$$ è strettamente in aumento, cioè $$a_n < a_{n+1} \qquad (n \ge 0).$$
+
+[[src_bmo_1979-80_round1__Q04]]

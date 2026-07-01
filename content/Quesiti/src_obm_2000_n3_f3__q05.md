@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f3__Q05
 parent: src_obm_2000_n3_f3
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distance-preserving functions on a sequence space*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** $1000! \cdot 1000! \cdot 2^{1000} \cdot (1\times 2^{1000} \cdot 3^{1000})$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta le funzioni di conservazione della distanza su uno spazio di sequenza*
+
+> $X$ sia l'insieme di tutte le sequenze $\underline{a} = (a_1, a_2, \ldots, a_{2000})$ in modo tale che $a_i \in \{0,1,2\}$ per $1 \le i \le 1000$ e $a_i \in \{0,1\}$ per $1001 \le i \le 2000$. Date $\underline{a}$ e $\underline{b}$ in $X$, definire la distanza $d(\underline{a},\underline{b})$ tra $\underline{a}$ e $\underline{b}$ come il numero degli indici $i$, $1 \le i \le 2000$, in modo tale che $a_i \ne b_i$. Determinare il numero di funzioni $f : X \to X$ che preservano la distanza, cioè tale che $d(f(\underline{a}), f(\underline{b})) = d(\underline{a}, \underline{b})$ per tutte le $\underline{a}$ e $\underline{b}$ di $X$.
+
+**Risposta:** $1000! \cdot 1000! \cdot 2^{1000} \cdot (1\times 2^{1000} \cdot 3^{1000})$
+[[src_obm_2000_n3_f3__Q05]]

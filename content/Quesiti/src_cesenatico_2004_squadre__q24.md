@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q24
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo prodotto di fattoriali da eliminare per rendere K quadrato*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0010
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum product of factors to be removed to make K square< MSK1/>
+
+> The colonisation of the archipelago has cost an unprecedented amount. The real cash deficit K is the product of the following 20 factors: K = 1! · 2! · 3! · · · 19! · 20!. What is the minimum value of the product of the numbers, chosen from 1, 2, . . . , 20, such that, by eliminating the factorial correspondence from K, the number K becomes a perfect square? Team competition 2004  National stage  Problem texts  Pag. 4 di 4
+
+**Answer:** 0010
+[[src_cesenatico_2004_squadre__Q24]]

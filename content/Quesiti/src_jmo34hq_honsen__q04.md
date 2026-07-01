@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2024 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo34hq_honsen__Q04
 parent: src_jmo34hq_honsen
 competition: Japan Mathematical Olympiad 2024 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcircle diameter endpoint lies on circumcircle of auxiliary triangle via angle chase*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oh_f0Ust1zP8T7KdADefA9zgGGlZhTvf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il punto di fine del diametro del cerchio si trova sul cerchio del triangolo ausiliario attraverso la caccia angolare*
+
+> Il triangolo $ABC$ deve soddisfare $AB < AC$. Let $O$ essere il centro circostante di $\triangle ABC$, e let $M$ essere il punto medio di arco $BC$ non contenente $A$ sul circolo circostante. Il punto di estensione del lato $AB$ al di là di $B$ deve essere $D$ in modo tale che $BD = BM$. $E$ deve essere il punto laterale $AB$ (tra $A$ e $B$) in modo tale che $CE = CM$. Il circoncircolo di $\triangle ABE$ deve incontrare di nuovo il circoncircolo di $\triangle ABC$ in un punto $X$ (diversi da $B$). Che $U$ e $V$ siano le intersezioni della linea $AX$ con il circoncircolo di $\triangle ABC$ (così $UV$ è un'accorda, con $U$ su arco $AB$ che non contiene $C$ e $V$ su arco $BC$ che non contiene $A$, o se del caso). Indicare che il segmento $UV$ è un diametro del circoncircolo di $\triangle ABC$ se e solo se $D$, $O$, $X$ sono collineari.
+> 
+> (Più precisamente: $E$ sia il punto del segmento $AB$ con $CE = CM$. Il circoncircolo di $\triangle ABE$ incontra il circoncircolo di $\triangle ABC$ a $B$ e in un altro punto $X$. $U$, $V$ siano i due punti di intersezione della linea $AX$ con il circoncircolo di $\triangle ABC$. Provare che $UV$ è un diametro del circoncircolo di $\triangle ABC$ se e solo se $D$, $O$, $X$ sono collineari, dove $D$ è sul raggio da $A$ a $B$ oltre $B$ con $BD = BM$.)
+
+[[src_jmo34hq_honsen__Q04]]

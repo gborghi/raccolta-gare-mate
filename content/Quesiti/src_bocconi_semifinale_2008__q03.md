@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2008 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2008__Q03
 parent: src_bocconi_semifinale_2008
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2008
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Francobolli da 0,60 e 0,80 euro con totale fissato*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+€0.60 and €0.80 franc with fixed total
+
+> Carla sent her friend Milena a package with a birthday present. For shipping expenses, it only put stamps of $0{,}60$ Euro and $0{,}80$ Euro on the package for a total value of $6{,}60$ Euro. Carla used less than < MSK3/> stamps overall. How many stamps from $0{,}80$ Euro did you use?
+
+**Answer:** 6
+[[src_bocconi_semifinale_2008__Q03]]

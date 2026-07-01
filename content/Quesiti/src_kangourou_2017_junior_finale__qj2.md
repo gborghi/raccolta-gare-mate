@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Finale nazionale Cervia — Quesito J2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_finale__QJ2
 parent: src_kangourou_2017_junior_finale
 competition: Kangourou 2017 Junior - Finale nazionale Cervia
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Terne di dispari consecutivi tutti primi*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** {3,5,7}
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r2LdWQerO2z3EUJjVaVOKVRtkiJBrV2g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Term of consecutive odd numbers all first*
+
+> (**7 points**) Are there any sets of consecutive odd numbers, each of which is prime? If yes, specify how many; if no, provide a reason.
+
+**Answer:** {3,5,7}
+[[src_kangourou_2017_junior_finale__QJ2]]

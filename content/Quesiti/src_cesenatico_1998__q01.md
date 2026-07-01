@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Cesenatico 1998 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_1998__Q01
 parent: src_cesenatico_1998
 competition: Gara Nazionale Cesenatico 1998
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di floor(sqrt n) da 1 a 1000000*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1808Il3eNlCCoCmtYEGf6RgJ9jHdMSKuA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of floors (sqrt n) from 1 to 1000000*
+
+> If $x$ is a positive real number, $[x]$ denotes the whole part of $x$, i.e. the maximum integer $n \leq x$. Calculate the sum $$\sum_{n=1}^{1\,000\,000} \left[\sqrt{n}\right] = \left[\sqrt{1}\right] + \left[\sqrt{2}\right] + \cdots + \left[\sqrt{999\,999}\right] + \left[\sqrt{1\,000\,000}\right].$$ [The student may use, if he believes so, the following formula: $$\sum_{i=1}^{k} i^2 = \frac{k(k+1)(2k+1)}{6},$$ for which proof is not required.]
+
+[[src_cesenatico_1998__Q01]]

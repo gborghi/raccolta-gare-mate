@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2011 — Quesito
   1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2011__Q01
 parent: src_bocconi_finalenaz_2011
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2011
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante carte rosse nel mazzetto di sotto*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 18
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many red cards are in the bottom bracket< MSK1/>
+
+> In a deck of 52 cards, the cards are black and red and the black cards are as many as the red ones. The 52 cards were divided into two sets of 26 cards and the one above is 18 black cards. How many red cards are in the drawer below?
+
+![[src_bocconi_finalenaz_2011__Q01.png]]
+
+**Answer:** 18
+[[src_bocconi_finalenaz_2011__Q01]]

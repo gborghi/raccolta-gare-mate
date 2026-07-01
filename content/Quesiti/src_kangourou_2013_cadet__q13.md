@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q13
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angoli minori di trapezio con perimetro 5 e lati interi*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Smaller angles of trapezoid with perimeter 5 and full sides*
+
+> The perimeter of a trapezoid is 5 and the lengths of its sides are expressed by integers. How many degrees do the two smaller corners of the trapezoid measure? (a) Both 30. B) Both 60. (c) Both 45. D) One 30 and the other 45. E) One 45 and the other 90.
+
+**Answer:** B
+[[src_kangourou_2013_cadet__Q13]]

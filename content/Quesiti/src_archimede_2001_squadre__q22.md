@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_squadre__Q22
 parent: src_archimede_2001_squadre
 competition: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti sono*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0646
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BmICgzhXXszLqAUxg8mhu_z1YXo7y9a6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many are < MSK1/>
+
+> The following table shows the results of the calculations:
+> 
+> In the textbooks of the confederation, polynomials whose coefficients are integers such that the sum of their squares is less than or equal to the degree of the polynomial are called onesti. How many honest polynomials (of a variable) of degree less than or equal to five?
+> 
+> (NB: Non-zero constant polynomials have degree 0 and the polynomial 0 per convention has degree $-\infty$; therefore the latter is not an honest polynomial.)
+
+**Answer:** 0646
+[[src_archimede_2001_squadre__Q22]]

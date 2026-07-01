@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q08
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo punti visibili sul dado*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum points visible on the dice*
+
+> The bottom face of the dice in the figure has 6 points, the left face has 4, the back face has 2. Assuming you can't see more than three faces at a time, what is the maximum number of points that can be seen simultaneously by turning the cube?
+>                                                          
+> A. 15        B. 14        C. 13        D. 12        E. Another number.
+
+**Answer:** C
+[[src_kangourou_2002_cadet__Q08]]

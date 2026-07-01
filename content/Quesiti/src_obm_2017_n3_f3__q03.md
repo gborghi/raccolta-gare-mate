@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n3_f3__Q03
 parent: src_obm_2017_n3_f3
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tangential quadrilateral with inscribed circle; line RT passes through incenter of triangle PQC*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilatero tangenziale con un cerchio inciso; linea RT passa attraverso l'incentro del triangolo PQC*
+
+> Un quadrilaterale $ABCD$ ha un cerchio inciso $\omega$ ed è tale che i raggi $AB$ e $DC$ si incontrino in un punto $P$ e i raggi $AD$ e $BC$ si incontrino in un punto $Q$. Le linee $AC$ e $PQ$ si incontrano in un punto $R$. $T$ deve essere il punto di $\omega$ più vicino alla linea $PQ$. Prova che la linea $RT$ passa attraverso l'incentro del triangolo $PQC$.
+
+[[src_obm_2017_n3_f3__Q03]]

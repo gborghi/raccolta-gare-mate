@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2013 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2013__Q04
 parent: src_cn_cgmo_2013
 competition: China Girls' Mathematical Olympiad 2013
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count cubic polynomials whose values mod 2013 are all distinct*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta polinomi cubici i cui valori mod 2013 sono tutti distinti*
+
+> Trova il numero di polinomi $f(x) = ax^3 + bx$ che soddisfano le seguenti condizioni:
+> 
+> (1) $a, b \in \{1, 2, \ldots, 2013\}$;
+> 
+> (2) la differenza di due numeri tra $f(1), f(2), \ldots, f(2013)$ non è un multiple di $2013$.
+
+[[src_cn_cgmo_2013__Q04]]

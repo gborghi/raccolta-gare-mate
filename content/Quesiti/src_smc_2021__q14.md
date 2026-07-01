@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2021 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2021__Q14
 parent: src_smc_2021
 competition: Senior Mathematical Challenge 2021
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fewest 2×3 rectangles that tile without overlap a rectangle with side ratio 5:4.*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2×3 rectangli che non sovrappongono un rettangolo con rapporto laterale 5:4.*
+
+> Qual è il numero più piccolo di rettangoli, ognuno dei quali misura $2\,\text{cm}$ per $3\,\text{cm}$, che sono necessari per adattarsi senza sovrapposizione per formare un rettangolo i cui lati sono nel rapporto $5:4$?
+>
+> - **(A)** 10
+> - **(B)** 15
+> - **(C)** 20
+> - **(D)** 30
+> - **(E)** 60
+
+**Risposta:** D
+[[src_smc_2021__Q14]]

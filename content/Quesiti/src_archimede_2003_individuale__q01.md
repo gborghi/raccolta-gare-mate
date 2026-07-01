@@ -1,6 +1,7 @@
 ---
 title: Archimede 2003 - Gara Nazionale Individuale (Cesenatico) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_individuale__Q01
 parent: src_archimede_2003_individuale
 competition: Archimede 2003 - Gara Nazionale Individuale (Cesenatico)
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *divisibilita dei numeri di cifre*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1z9XJ4zwVGyArw1MyYDhdpDLSa62ucfsX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*divisibility of the digits *
+
+> Find all three-digit natural numbers $n$ ($100 \le n \le 999$) that are equal to the number formed by the last three digits of $n^2$.
+
+[[src_archimede_2003_individuale__Q01]]

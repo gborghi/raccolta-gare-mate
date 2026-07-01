@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Semifinale individuale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin_semifinale__Q13
 parent: src_kangourou_2023_benjamin_semifinale
 competition: Kangourou 2023 Benjamin — Semifinale individuale
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *pere non usate*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mF2rVbrNP5wIK8iQldHBHcyFNDzq0vZz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>not used< MSK1/>
+
+> I had 10 apples of different weights between them and 10 pairs of different weights between them. Each pear weighed more than every apple, but less than any pair of apples. I was lucky enough to pack three mixed bags, each of which weighs as much as the whole of the apples. Certainly I could not have hoped to use more pears than I did. How many pears have I not used?
+
+[[src_kangourou_2023_benjamin_semifinale__Q13]]

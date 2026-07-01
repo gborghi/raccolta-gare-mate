@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Junior — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q04
 parent: src_kangourou_2015_marzo_junior
 competition: Kangourou 2015 gara 19 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti in piu Anna*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lv8vPzK3uXmG94tNsM2uWmmnksIo2fLI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> how many more Anna< MSK1/>
+
+> Anna, Betta and Cinzia purchased a box containing 30 cookies: for the price, Anna provided 80 cents, Betta 50 cents and Cinzia 20. So they each took 10 cookies. If the cookies were divided in proportion to what each one paid, how many more would Anna have had? A) 10
+> 	
+> B) 9
+> 	
+> C) 8
+> 	
+> D) 7
+> 	
+> E) 6
+
+**Answer:** E
+[[src_kangourou_2015_marzo_junior__Q04]]

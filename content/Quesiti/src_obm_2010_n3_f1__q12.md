@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q12
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which fraction is closest to the square root of 7.*
 
@@ -49,3 +52,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quale frazione è più vicina alla radice quadrata di 7.*
+
+> Qual è la frazione più vicina a $\sqrt{7}$?
+>
+> - **(A)** $\frac{3}{1}$
+> - **(B)** $\frac{5}{2}$
+> - **(C)** $\frac{8}{3}$
+> - **(D)** $\frac{13}{5}$
+> - **(E)** $\frac{18}{7}$
+
+**Risposta:** E
+[[src_obm_2010_n3_f1__Q12]]

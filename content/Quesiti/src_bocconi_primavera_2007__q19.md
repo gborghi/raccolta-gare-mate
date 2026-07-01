@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2007 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2007__Q19
 parent: src_bocconi_primavera_2007
 competition: Semifinale di Primavera 2007
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero interno a tutti i cerchi nella figura*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Inner number of all circles in figure *
+
+> **What is the number inside all circles? **
+
+![[src_bocconi_primavera_2007__Q19.png]]
+
+**Answer:** 2
+[[src_bocconi_primavera_2007__Q19]]

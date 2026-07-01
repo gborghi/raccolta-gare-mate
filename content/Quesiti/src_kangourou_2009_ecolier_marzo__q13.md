@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q13
 parent: src_kangourou_2009_ecolier_marzo
 competition: Kangourou 2009 - Ecolier (gara 19 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di due cifre con piu stuzzicadenti*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of two digits with more sparklers*
+
+![[src_kangourou_2009_ecolier_marzo__prob13.png]]
+
+> The ten digits in the figure are constructed by appropriately joining all the same sparklers together. Between the two-digit numbers, I built the one that requires the use of the most spices. How many have I used? A) 10 B) 11 C) 12 D) 13 E) 14
+
+**Answer:** E
+[[src_kangourou_2009_ecolier_marzo__Q13]]

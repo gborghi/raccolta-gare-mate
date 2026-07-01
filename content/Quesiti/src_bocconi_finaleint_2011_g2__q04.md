@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 2) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g2__Q04
 parent: src_bocconi_finaleint_2011_g2
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cinque gettoni: massimizzare prodotto di tre numeri*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5022
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Five tokens: maximize the product of three numbers*
+
+> Matilde found the five tokens in the sun lounge right here, arranged on a wooden base. She would like to arrange them in a different way on this basis, so as to obtain an operation whose outcome is as great as possible. What will be the result? Note: the $6$ can be rotated to obtain the $9$.
+
+![[src_bocconi_finaleint_2011_g2__Q04.png]]
+
+**Answer:** 5022
+[[src_bocconi_finaleint_2011_g2__Q04]]

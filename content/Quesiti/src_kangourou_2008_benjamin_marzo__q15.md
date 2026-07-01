@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q15
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo N persone a 60 sedie ognuna vicino a un altra*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum N people in 60 seats each next to each other< MSK1/>
+
+> As in the previous question, 60 chairs are arranged around a round table. A certain number, let's call it N, of people are sitting at this table so that each person is sitting next to the other. The smallest value of N that makes the situation possible is A) 40 B) 30 C) 20 D) 10 E) None of the above.
+
+**Answer:** E
+[[src_kangourou_2008_benjamin_marzo__Q15]]

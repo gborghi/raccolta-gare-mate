@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q28
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *rettangoli blu*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>blue rectangles < MSK1/>
+
+> On a board are blue rectangles and red rectangles. Exactly seven of the rectangles are squares. The number of red rectangles is the number of blue squares plus 3, and that of red squares is that of blue rectangles plus 2. How many blue rectangles are on the board? A) 1
+> 	
+> B) 3
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 10
+
+**Answer:** B
+[[src_kangourou_2015_marzo_student__Q28]]

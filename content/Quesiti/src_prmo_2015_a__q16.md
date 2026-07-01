@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_a__Q16
 parent: src_prmo_2015_a
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -33,6 +34,8 @@ tags:
   - regione/a
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle $\angle ADF$ in acute triangle with midpoints and equal angle condition*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 40
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*angolo $\angle ADF$ in un triangolo acuto con punti di mezzo e condizioni di angolo uguale*
+
+> Nel triangolo acuto $ABC$, $D$ sia il punto medio di $BC$. $F$ sia il punto medio di $AC$. Supponiamo < MSK5/>. Se $\angle DAE = \angle DFE$, qual è il valore di $\angle ADF$ in gradi?
+
+**Risposta:** 40
+[[src_prmo_2015_a__Q16]]

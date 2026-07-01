@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Triennio — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_triennio__Q19
 parent: src_archimede_1997_triennio
 competition: Giochi di Archimede 1997 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti segni cambiati per ottenere 1997 dalla somma*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many marks changed to get 1997 from the sum< MSK1/>
+
+> In the sum of 1 + 2 + 3 + · · + 100, how many signs + must be changed to −minimum in order to obtain 1997?
+>
+> - **(A)** Less than 10
+> - **(B)** Between 10 and 19
+> - **(C)** Between 20 and 29
+> - **(D)** more than 30
+> - **(E)** It is not possible to obtain 1997.
+
+**Answer:** E
+[[src_archimede_1997_triennio__Q19]]

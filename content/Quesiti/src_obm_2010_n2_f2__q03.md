@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f2__Q03
 parent: src_obm_2010_n2_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real p,q satisfy two quadratics with pq≠1; find (pq+p+1)/q*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10R1d2hHb89ymd5y0yUy3PquhrN5L7XmC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Real p,q soddisfa due quadratici con pq≠1; trovare (pq+p+1)/q*
+
+> $p, q$ siano numeri reali che soddisfano le relazioni $2p^2 - 3p - 1 = 0$, $q^2 + 3q - 2 = 0$ e $pq \neq 1$. Trova il valore di $\dfrac{pq + p + 1}{q}$.
+
+[[src_obm_2010_n2_f2__Q03]]

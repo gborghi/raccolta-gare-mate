@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2012 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2012__Q08
 parent: src_bocconi_rosi_2012
 competition: Giochi di Rosi 2012
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Euro in tasca di Luca prima di entrare in pasticceria*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $410$€
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1du4nM_pjVseEMRiX1hz7hrTEkEIg-ZC2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Euro in Luke's pocket before he went into the bakery
+
+> Before Easter, Luke went to the bakery to make a little supply of chocolate eggs and pigeons. He spent a tenth of what he had and came home with 369 euros.
+> 
+> How many euros did Luca have in his pocket before he went into the bakery?
+
+**Answer:** $410$€
+[[src_bocconi_rosi_2012__Q08]]

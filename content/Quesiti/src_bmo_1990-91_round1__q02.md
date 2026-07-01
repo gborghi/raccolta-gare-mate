@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1990-91 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1990-91_round1__Q02
 parent: src_bmo_1990-91_round1
 competition: British Mathematical Olympiad 1990-91 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive integers k such that x^(2k+1)+x+1 is divisible by x^k+x+1*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca dei numeri interi positivi k tale che x^(2k+1)+x+1 sia divisibile da x^k+x+1*
+
+> Trovare tutti gli integri positivi $k$ in modo tale che il polinomio $x^{2k+1} + x + 1$ sia divisibile dal polinomio $x^k + x + 1$.
+> 
+> Per ciascuna di tali $k$ specificare gli integri $n$ in modo tale che $x^n + x + 1$ sia divisibile da $x^k + x + 1$.
+
+[[src_bmo_1990-91_round1__Q02]]

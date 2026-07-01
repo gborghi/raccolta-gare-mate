@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q15
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli per la stella con angoli acuti minori*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangles for the star with minor sharp angles*
+
+![[src_kangourou_2021_cadet__prob15.png]]
+
+> Five identical rectangular triangles can be moved so that by approaching (without leaving interstities and without creating overlapping positions) their larger sharp angles form the star shown in the figure. With a larger number of triangles of the same type, a different star can be constructed by approaching (with the same precautions) the smaller sharp angles: how many triangles form such a star? A) 10
+> 	
+> B) 12
+> 	
+> C) 18
+> 	
+> D) 20
+> 	
+> E) 24
+
+**Answer:** D
+[[src_kangourou_2021_cadet__Q15]]

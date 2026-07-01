@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q28
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo LMN dentro l'equilatero*
 
@@ -78,3 +81,49 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the LMN triangle within the equilateral *
+
+![[src_kangourou_2018_cadet_marzo__prob28.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.1]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (6,0);
+  \coordinate (C) at (3,5.196);
+  \coordinate (L) at (4,0);
+  \coordinate (M) at (4,3.464);
+  \coordinate (N) at (1,1.732);
+  \draw[thick] (A) -- (B) -- (C) -- cycle;
+  \fill[gray!30] (L) -- (M) -- (N) -- cycle;
+  \draw[thick] (L) -- (M) -- (N) -- cycle;
+  \draw (4,0.18) -- (3.82,0.18) -- (3.82,0);
+  \draw (3.88,3.55) -- (3.76,3.42) -- (3.9,3.35);
+  \draw (1.14,1.64) -- (1.01,1.77) -- (0.87,1.65);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above] at (C) {$C$};
+  \node[below] at (L) {$L$};
+  \node[right] at (M) {$M$};
+  \node[left] at (N) {$N$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The L, M and N points on the sides of the equilateral triangle ABC are fixed so that ML is perpendicular to AB, NM is perpendicular to BC and LN is perpendicular to CA. The ABC triangle has an area of 36 cm2. How many square centimetres does the area of the LMN triangle measure ? A) 9
+> 	
+> B) 12
+> 	
+> C) 15
+> 	
+> D) 16
+> 	
+> E) 18
+
+**Answer:** B
+[[src_kangourou_2018_cadet_marzo__Q28]]

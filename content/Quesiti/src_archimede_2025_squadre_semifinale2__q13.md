@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_semifinale2__Q13
 parent: src_archimede_2025_squadre_semifinale2
 competition: Gara a Squadre Nazionale 2025 - Semifinale 2
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo ABC con circonferenza e rapporti dati*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0540
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area ABC triangle with circumference and data ratios*
+
+> Bound and Mathieu want to devise a trap to capture a spectral theorist. To mimic the situation, two circumferences are drawn on the floor: Γ of centre O and radius 4m, and ∆ of centre O′ and radius R > 4m. The two circumferences intersect in A and B, the segment OO′ intersects Γ in C, while the straight OB intersects ∆in B and D. Bound notices that the segments CO′ and AD intersect, and puts himself right at their intersection point X, while Mathieu puts himself at a Y point on the segment DX. If the intersection of Y C with Γ is distinct from C, then \ Y FO = \ DOX and XO′ = 3m. For the trap to be infallible, Bound and Mathieu must determine the value (in square metres) of the product AX ·Y D. How much is that product worth?
+
+**Answer:** 0540
+[[src_archimede_2025_squadre_semifinale2__Q13]]

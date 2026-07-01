@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Biennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_biennio__Q15
 parent: src_archimede_2012_biennio
 competition: Giochi di Archimede 2012 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di riestrarre la stessa carta con reinserimento*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13kesAdPzQ8k4YwW-asUVUoQ5RPW1gOnt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of removing the same paper by reinserting*
+
+> From a deck of 40 cards one is extracted, which is immediately reinserted into the deck; the deck is then mixed, and a new card is extracted. What is the probability that the new paper is the same as the previous paper?
+>
+> - **(A)** 1/1600
+> - **(B)** 1/40
+> - **(C)** 1/80
+> - **(D)** 1/20
+> - **(E)** 1 40·39
+
+**Answer:** B
+[[src_archimede_2012_biennio__Q15]]

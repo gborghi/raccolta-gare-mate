@@ -1,6 +1,7 @@
 ---
 title: IMO 1999 (XL International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1999__Q04
 parent: src_imho_1999
 competition: IMO 1999 (XL International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pairs of positive integers with divisibility condition involving prime*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WclaSKYkM_7ZmKkebTw-DQsLSLaQVSUZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pairs of positive integers with divisibility condition involving prime*
+
+> Determine the pairs < MSK0/> of positive integers such that
+> 
+> $p$ is a prime, $n$ not exceeded $2p$, and $(p-1)^n + 1$ is divisible by $n^{p-1}$.
+
+[[src_imho_1999__Q04]]

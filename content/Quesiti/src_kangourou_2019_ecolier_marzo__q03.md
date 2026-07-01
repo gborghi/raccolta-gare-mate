@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q03
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali mezzi si vedono a libro chiuso*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What means are seen in closed books*
+
+![[src_kangourou_2019_ecolier_marzo__prob3.png]]
+
+> There are two windows on the cover of a children's book on transportation. When you open the cover, you see what shows the figure. What means do you see when the book is closed? A)
+> 	
+> 	
+> B)
+> 	
+> C) D)
+> 	
+> 	
+> E)
+
+**Answer:** D
+[[src_kangourou_2019_ecolier_marzo__Q03]]

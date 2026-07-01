@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre_f2__Q07
 parent: src_kangourou_2022_kangourou_squadre_f2
 competition: Kangourou Squadre 2022 Kangourou Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume parallelepipedo dato OE e angolo 60°*
 
@@ -47,3 +50,19 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4608
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of parallel piped given OE and angle 60°*
+
+> The volume A parallel-piped rectangle has a square base ABCD; the side face ABBA has a minor side AB and the acute angle formed by its diagonal measures 60 degrees. O said the intersection point of these diagonals and E the foot of the perpendicular leading from the vertex A to the diagonal BA, the segment OE measures 4√3 cm. How many cubic centimeters is the volume of the parallelepiped?
+>  
+>  
+>  
+> 
+> 2
+
+**Answer:** 4608
+[[src_kangourou_2022_kangourou_squadre_f2__Q07]]

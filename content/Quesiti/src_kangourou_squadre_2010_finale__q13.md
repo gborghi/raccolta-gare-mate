@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2010_finale__Q13
 parent: src_kangourou_squadre_2010_finale
 competition: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo massimo elemento di S con prodotto quadrato*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1040
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum maximum element of S with square product< MSK1/>
+
+> Anna and her dog Anna is walking with her dog on a circular track that surrounds a pond. The runway is 500 meters long. At a certain moment the dog starts running at a speed of 10 km/h; Anna chases him running at a speed of 8 km/h. When the distance between the dog and Anna has become 250 meters, Anna reverses the side of her run, intending to retrieve the dog (which instead continues to run in the same direction) running towards him. If the dog and Anna's speeds stay the same, how many seconds will Anna be separated from her dog?
+
+**Answer:** 1040
+[[src_kangourou_squadre_2010_finale__Q13]]

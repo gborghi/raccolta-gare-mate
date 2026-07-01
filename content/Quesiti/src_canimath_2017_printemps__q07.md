@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2017 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2017_printemps__Q07
 parent: src_canimath_2017_printemps
 competition: Coupe Animath Printemps 2017
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Friendship alignment: at most 2 friends yields spacing ≤2017; 3 friends may fail*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WRDBVKTu2eO-0ruMO9lo0GjGJQSpzivB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Allineamento di amicizia: al massimo 2 amici producono spazi ≤2017; 3 amici possono fallire*
+
+> Un campo di matematica ha esattamente un milione di studenti; alcune coppie di studenti sono amici (se $A$ è un amico di $B$, allora $B$ è un amico di $A$).
+> 
+> a) Supponiamo che ogni studente abbia al massimo due amici. Mostrare che è possibile allineare tutti gli studenti in una fila in modo che tra due amici ci siano al massimo < MSK0/> altri studenti tra di loro.
+> 
+> b) Supponiamo ora che ogni studente abbia al massimo tre amici. Mostrate che questo non è necessariamente possibile.
+
+[[src_canimath_2017_printemps__Q07]]

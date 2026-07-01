@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q11
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Euro in tasca a Nando dopo scambi con S. Luca e S. Michele*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5 Euro e 25 centesimi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+EUR in the pocket in Nando after S. Luca and S. I'm going to tell you.
+
+> Nando asked S. Luke to help him double the amount of euros he owned; in return, he promised him 6 euros for the poor in the city. That 's what happens . It 's the first miracle ! Not happy, Nando signs a similar "contract" with S. I'm not going to lie. It 's the second miracle . Michele doubles the Euros he had in his pocket (after S. Luca) and Nando from another 6 Euros to the poor of the city. When you do the same thing with S. Desiderio, after giving 6 euros to the poor in the city for the third time, Nando realizes that his pockets are empty! How many euros did you have in your pocket at first, Nando?
+
+**Answer:** 5 Euro e 25 centesimi
+[[src_bocconi_primavera_2008__Q11]]

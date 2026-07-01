@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2007 — Quesito
   11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2007__Q11
 parent: src_bocconi_finalenaz_2007
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2007
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare il divisore primo di 2^24−3^12 a due cifre e minore di 30*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find the prime divisor of 2^24−3^12 at two digits and less than 30*
+
+> What a risk! Find the number that is a multiple of $2^{24} - 3^{12}$ but that is also prime, made up of two digits and less than 30. (Write 0 if you think there are no numbers with these characteristics.)
+
+**Answer:** 13
+[[src_bocconi_finalenaz_2007__Q11]]

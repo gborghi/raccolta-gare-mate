@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_biennio_online__Q05
 parent: src_archimede_2021_biennio_online
 competition: Giochi di Archimede 2021 - Gara Biennio (online)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro triangolo date le tre altezze e lato AB*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Zo7WSUv5KN16W_nTPuywBaG12u7UYl5I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangle perimeter given the three heights and side AB*
+
+> The heights coming out of the vertices A, B and C of the triangle ABC measure, respectively, 6 m, 8 m and 10 m. Indicated by the length of the AB side, what is the circumference of the triangle?
+>
+> - **(A)** 25 12ℓ
+> - **(B)** 37 12ℓ
+> - **(C)** 47 12ℓ
+> - **(D)** 32 15ℓ
+> - **(E)** 13 6 ℓ
+
+**Answer:** C
+[[src_archimede_2021_biennio_online__Q05]]

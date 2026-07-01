@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2013 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2013__Q03
 parent: src_bocconi_semifinale_2013
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2013
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di parti uguali da una pizza con 3 tagli*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 7
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of equal parts from a pizza with 3 cuts
+
+> With 3 cuts, Michele divides the figure's pizza into parts, without wasting any "slices" after each cut.
+> 
+> How many parts (not necessarily of the same shape or weight) will you get at most?
+
+**Answer:** 7
+[[src_bocconi_semifinale_2013__Q03]]

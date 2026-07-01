@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Biennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_biennio__Q03
 parent: src_archimede_2006_biennio
 competition: Giochi di Archimede 2006 - Gara Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di divisori positivi di 5*4*3*2*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of positive divisors of 5*4*3*2*
+
+> How many positive divisors does the number 5·4·3·2 have? (The divisors of a number must also include 1 and the number itself.)
+>
+> - **(A)** 4,
+> - **(B)** 8,
+> - **(C)** 10,
+> - **(D)** 12,
+> - **(E)** 16.
+
+**Answer:** E
+[[src_archimede_2006_biennio__Q03]]

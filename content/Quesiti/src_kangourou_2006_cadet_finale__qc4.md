@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (finale nazionale) — Quesito C4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet_finale__QC4
 parent: src_kangourou_2006_cadet_finale
 competition: Kangourou 2006 - Cadet (finale nazionale)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di colori per gli spicchi del cerchio*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oNnFL23n9WfxOc8CMwyvvJmHD7pBCd5S/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of colours for spikes of the circle*
+
+![[src_kangourou_2006_cadet_finale__probC4.png]]
+
+> A circle has been divided into a number of points (at least 4), for example as shown in Figure 1. You have been instructed to paint the inside of each spike so that between two spikes of the same color there are always at least two of a different color, but you do not know the number of spikes in the circle (that in the figure is just an example!). What's the smallest number of colors that will guarantee you'll make it, regardless of the number of spikes? (see figure)
+
+**Answer:** 5
+[[src_kangourou_2006_cadet_finale__QC4]]

@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2018__Q02
 parent: src_selection_camp_2018
 competition: Japan IMO Selection Camp 2018 — Selection Camp
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Self-map on {1,...,n}: unique g satisfying f(g(f(m)))=g(f(g(m))) implies f and f∘f have same image*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jASM40MHMk6NMhN2bMvDto4r4rOWEBtP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Self-map on {1,...,n}: unica g soddisfacente f(g(f(m)))=g(f(g(m))) implica che f e ff hanno la stessa immagine*
+
+> $n$ sia un numero intero positivo. Let $S = \{1, 2, \ldots, n\}$, e let $\mathcal{A}$ essere l'insieme di tutte le funzioni da $S$ a $S$. Let $f$ essere una funzione in $\mathcal{A}$. Supponiamo che l'unica funzione $g \in \mathcal{A}$ che soddisfa $$f(g(f(m))) = g(f(g(m))), \quad m = 1, 2, \ldots, n$$ sia la stessa $g = f$. Provare che < MSK1/>
+
+[[src_selection_camp_2018__Q02]]

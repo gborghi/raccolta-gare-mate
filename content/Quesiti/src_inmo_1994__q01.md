@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1994 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1994__Q01
 parent: src_inmo_1994
 competition: Indian National Mathematical Olympiad 1994
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with obtuse angle at C; medians, centroid, circle, parallelogram*
 
@@ -43,3 +46,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13t8gO6PkdwPwLC5CkXjN35Yq6olVnxjx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con angolo obtuso a C; media, centroide, cerchio, parallelo*
+
+> In un triangolo $ABC$ con angolo obtuso a $C$, $AD$ e $CF$ sono le medie e $G$ il centroide.
+> 
+> a) Se i punti $B, D, G, F$ si trovano su un cerchio, indicare che $\frac{BG}{GD} \ge \sqrt{2}$.
+> 
+> b) Inoltre, se $P$ è il quarto vertice del parallelo $AGCP$, dimostrare che il triangolo $GAP$ è simile a $\triangle ABC$.
+
+[[src_inmo_1994__Q01]]

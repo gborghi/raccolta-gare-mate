@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q02
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero divisibile per la somma delle sue cifre*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number divisible by the sum of its digits*
+
+> Which of the following numbers is exactly divisible by the sum of its digits? A) 2008 B) 2009 C) 2010 D) 2011 E) 2012
+
+**Answer:** C
+[[src_kangourou_2007_benjamin_marzo__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier gara individuale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q07
 parent: src_kangourou_2022_ecolier_gara
 competition: Kangourou 2022 Ecolier gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale e la cartolina di Michele*
 
@@ -67,3 +70,36 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Which one and Michele's card
+
+![[src_kangourou_2022_ecolier_gara__prob7.png]]
+
+> There's no antithesis in Michele's postcard. On Chiara's postcard, the sun is visible. There's exactly two animals on Paola's card. The animals that appear in Luke and Nicholas' cards don't fly. What is Michele's card? A)
+>    
+> What image do you see when you look at the tower from above? A)
+>  
+> The questions from N. 9 al N. 16 is worth 4 points each 9. Ivan entered numbers into a grid of 3×3 with the intention that the six sums obtained by adding the numbers of each row and each column would be equal. But Ivan made a mistake: What number should be corrected? A) 1
+>   
+> B) 3
+>   
+> C) One of the two 4.
+>   
+> D) 5
+>   
+> E) One of the two 7.
+>   
+> B)
+>   
+> C)
+>   
+> D)
+>   
+> E)
+
+**Answer:** A
+[[src_kangourou_2022_ecolier_gara__Q07]]

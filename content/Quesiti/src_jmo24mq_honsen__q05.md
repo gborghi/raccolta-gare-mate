@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2014 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo24mq_honsen__Q05
 parent: src_jmo24mq_honsen
 competition: Japan Mathematical Olympiad 2014 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest k for a three-variable cyclic inequality*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1suYUMYpD2iGEGY-rmTJaUSXMpm2mVi_0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La k più piccola per una disuguaglianza ciclica a tre variabili*
+
+> Trovare il valore più grande del numero reale $k$ in modo tale che l'ineguaglianza $$\frac{a}{1+9bc+k(b-c)^2} + \frac{b}{1+9ca+k(c-a)^2} + \frac{c}{1+9ab+k(a-b)^2} \ge \frac{1}{2}$$ sia valida per tutti i numeri reali non negativi $a, b, c$ che soddisfano $a+b+c=1$.
+
+[[src_jmo24mq_honsen__Q05]]

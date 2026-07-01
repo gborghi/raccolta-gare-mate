@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q08
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti da aggiungere per cubo di spigolo 3*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cubs to be added per cube of bead 3*
+
+![[src_kangourou_2014_cadet__prob8.png]]
+
+> George constructed the solid shown in the figure next door by gluing 7 cubes each of 1 cm of grain. How many cubes identical to these must he add for a cube whose beam is 3 cm long? A) 12
+> 	
+> B) 14
+> 	
+> C) 16
+>        
+> D) 18
+> 	
+> E) 20
+
+**Answer:** E
+[[src_kangourou_2014_cadet__Q08]]

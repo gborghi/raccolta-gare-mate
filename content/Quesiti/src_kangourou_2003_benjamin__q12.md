@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q12
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultati diversi sommando due numeri*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Different results by adding two numbers< MSK1/>
+
+> By choosing in every possible way two different numbers between 1, 2, 3, 4, 5 and adding them together, how many different results can we get? A) 5 B) 6 C) 7 D) 8 E) 9
+> 
+> I'm going to pay. I'm going to pay. 12 12 Kang 2003 Kang
+
+**Answer:** C
+[[src_kangourou_2003_benjamin__Q12]]

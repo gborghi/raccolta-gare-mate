@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2004 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo2q__Q11
 parent: src_jjmo2q
 competition: Japan Junior Mathematical Olympiad 2004
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill-in dialogue: triples and the operation a*b mod 10*
 
@@ -65,3 +68,17 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dialogo di riempimento: triples e l'operazione a*b mod 10*
+
+> Riempire i vuoti $\boxed{\text{(a)}}$ fino a $\boxed{\text{(h)}}$. Qui, ciascuno di $\boxed{\text{(a)}}$ e $\boxed{\text{(b)}}$ è un triplo di interi; $\boxed{\text{(c)}}$ e $\boxed{\text{(d)}}$ sono interi positivi a una cifra; $\boxed{\text{(e)}}$, $\boxed{\text{(f)}}$, $\boxed{\text{(h)}}$ sono interi non negativi; e $\boxed{\text{(g)}}$ sono diversi interi.
+> 
+> Per gli integri $a, b$ che sono almeno $0$, $a * b$ indica il rimanente quando $a \times b$ è diviso da $10$. Considera l'operazione che invia un triplo $(a, b, c)$ di enti da $0$ a $9$ al triplo $(a*b,\, b*c,\, c*a)$ di enti da $0$ a $9$. Qui, come in $(2,7,0)$ e $(2,0,7)$, i triples che differiscono solo nell'ordine delle loro voci sono considerati triples distinti. Vogliamo indagare quali triples si possono produrre eseguendo questa operazione esattamente una volta.
+> 
+> Allievo A: "Per esempio, da $(2,3,5)$ possiamo fare $(6,5,0)$. " Insegnante: "Allora, possiamo fare $(3,4,2)$?" Allievo B: "Può essere fatto da $\boxed{\text{(a)}}$ o $\boxed{\text{(b)}}$". Insegnante: "E che mi dici di $(4,3,7)$?" Allievo B: "Hmm... Ah, capisco! Se $(4,3,7)$ può essere fatto da $(a,b,c)$, allora $a*b$ è un multiple di $\boxed{\text{(c)}}$, quindi $(a*b)\cdot(b*c)\cdot(c*a)$ sarebbe un multiple di $\boxed{\text{(c)}}$. "Studente A: "Ma $3$ e $7$ non sono multipli di $\boxed{\text{(c)}}$, quindi non può essere fatto. "Studente B: "Pensando allo stesso modo, in generale un triplo in cui esattamente $\boxed{\text{(d)}}$ delle tre voci è un multiple di $\boxed{\text{(c)}}$ non può essere fatto". Se $(4,3,4)$ può essere fatto da $(a,b,c)$, allora il rimanente di $a^2 b^2 c^2$ dopo la divisione da $5$ è $\boxed{\text{(f)}}$, vero? Ma non c'è un intero il cui quadrato ha un residuo $\boxed{\text{(f)}}$ quando viene diviso da $5$". Studente A: "Poiché gli unici residui possibili quando un intero è quadrato e diviso da $5$ sono $\boxed{\text{(g)}}$, vediamo che ci sono ancora altri triples che non possono essere fatti". Infatti, ogni triplo diverso da quelli che sono stati dimostrati impossibili dalla discussione finora può essere fatto. Allievo A, per favore, verificate questo". Allievo A: (30 minuti dopo) "Fatto!" Allievo B: "In altre parole, il numero totale di triples che può essere prodotto da questa operazione è $\boxed{\text{(h)}}$".
+
+[[src_jjmo2q__Q11]]

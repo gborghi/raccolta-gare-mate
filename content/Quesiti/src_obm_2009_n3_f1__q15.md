@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q15
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Semicircle on diameter AB, center O, with CD=BC and angle BAD=72 degrees; find angle DEC.*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Semicircolo sul diametro AB, centro O, con CD=BC e angolo BAD=72 gradi; trovare angolo DEC.*
+
+> Nella figura, $CD = BC$, $\angle BAD = 72^\circ$, $AB$ è il diametro e $O$ è il centro del semicircolo. Determinare la misura dell'angolo $\angle DEC$. (A) $36^\circ$ (B) $42^\circ$ (C) $54^\circ$ (D) $63^\circ$ (E) $18^\circ$
+
+![[src_obm_2009_n3_f1__Q15.png]]
+
+[[src_obm_2009_n3_f1__Q15]]

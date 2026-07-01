@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2013 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2013__Q04
 parent: src_cn_cmc_2013
 competition: China Mathematical Competition 2013
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inscribed sphere radius of regular triangular pyramid*
 
@@ -35,3 +38,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Radio di sfera di piramide triangolare regolare *
+
+> Supponiamo che il lato della base e l'altezza della piramide triangolare regolare $P\text{-}ABC$ siano $1$ e $\sqrt{2}$, rispettivamente. Il raggio di radius della sfera della piramide è $\underline{\qquad}$.
+
+[[src_cn_cmc_2013__Q04]]

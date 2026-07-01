@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1996 — Round 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1996_r1__Q07
 parent: src_pol_1996_r1
 competition: Olimpiade Matematica Polacca 1996 — Round 1
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Nonnegative a,b,c and p,q,r summing to 1 with p,q,r <= 1/2; prove 8abc <= pa+qb+rc*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nonnegativi a,b,c e p,q,r sommando a 1 con p,q,r <= 1/2; dimostrare 8abc <= pa+qb+rc*
+
+> $a, b, c$ e $p, q, r$ siano numeri non negativi che soddisfino $a + b + c = p + q + r = 1$ e $p, q, r \le 1/2$. Prove che $$8abc \le pa + qb + rc$$ e trova quando si verifica l'uguaglianza.
+
+[[src_pol_1996_r1__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f2__Q06
 parent: src_obm_2002_n3_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quadratic with two roots; prove b<0*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gF94S0aX4v_2i-OEAFyuTxXKFKl8xKDl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadratico con due radici; prova b<0*
+
+> Si consideri l'equazione $ax^2 + bx + c = 0$, dove $a$, $b$, $c$ sono reali e $a > 0$. Supponiamo che questa equazione abbia due radici reali $r$ e $s$ tali che $0 < r < 1$ e $0 < s < 1$. Prove che $b < 0$.
+
+[[src_obm_2002_n3_f2__Q06]]

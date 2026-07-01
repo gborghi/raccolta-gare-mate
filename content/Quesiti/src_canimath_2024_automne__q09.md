@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2024 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_automne__Q09
 parent: src_canimath_2024_automne
 competition: Coupe Animath Automne 2024
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integers a≥2,b≥2 with (a−1)/(b−1)−a/b=1; show a/b and (a−1)/(b−1) are integers*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integra a≥2,b≥2 con (a−1)/(b−1)−a/b=1; mostrare a/b e (a−1)/(b−1) sono integri*
+
+> $a \ge 2$ e $b \ge 2$ siano due integri. Supponiamo che $$\frac{a-1}{b-1} - \frac{a}{b} = 1.$$ Mostri che $\dfrac{a}{b}$ e $\dfrac{a-1}{b-1}$ sono numeri interi.
+
+[[src_canimath_2024_automne__Q09]]

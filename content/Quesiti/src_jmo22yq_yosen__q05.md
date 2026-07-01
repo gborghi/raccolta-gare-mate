@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo22yq_yosen__Q05
 parent: src_jmo22yq_yosen
 competition: Japan Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers whose product of all divisors equals 2^{240}*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** $2^{15} \cdot 3^5$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieri positivi il cui prodotto di tutti i divisori è uguale a 2^{240}*
+
+> Trova tutti gli integri positivi il cui prodotto di tutti i divisori positivi è uguale a $2^{240}$.
+
+**Risposta:** $2^{15} \cdot 3^5$
+[[src_jmo22yq_yosen__Q05]]

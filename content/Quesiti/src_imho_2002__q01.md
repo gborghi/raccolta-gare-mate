@@ -1,6 +1,7 @@
 ---
 title: IMO 2002 (XLIII International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2002__Q01
 parent: src_imho_2002
 competition: IMO 2002 (XLIII International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coloring pairs in a set, equal type-1 and type-2 subsets*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ObZM7DSfR5iF7JGM97BCPn0sruvx6Y7m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Coloring pairs in a set, equal type-1 and type-2 subsets*
+
+> $S$ is the set of all $(h,k)$ with $h,k$ non-negative integers such that $h+k < n$. Each element of $S$ is colored red or blue, so that if $(h,k)$ is red and $h' \le h$, $k' \le k$, then $(h',k')$ is also red. A type 1 subset of $S$ has $n$ blue elements with different first members and a type 2 subset of $S$ has $n$ blue elements with different second members. Show that there are the same number of type 1 and type 2 subsets.
+
+[[src_imho_2002__Q01]]

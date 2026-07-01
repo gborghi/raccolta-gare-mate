@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Ecolier — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q22
 parent: src_kangourou_2020_ecolier_marzo
 competition: Kangourou 2020 Gara marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante squadre nel campo (5 o 6 membri, 43 persone)*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many teams in the field (5 or 6 members, 43 people) *
+
+> Some teams participate in a Kangourou summer camp. Each team is made up of five or six members and there are 43 people in total. How many teams are there on the field? A) 4
+> 	
+> B) 6
+> 	
+> C) 7
+> 	
+> D) 8
+> 	
+> E) 9
+
+**Answer:** D
+[[src_kangourou_2020_ecolier_marzo__Q22]]

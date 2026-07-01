@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q01
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo minimo perché tre amiche si incontrino*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 270 minuti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum time for three friends to meet
+
+> Anna, Chiara, and Milena are three friends who live together and they have to go find three other friends who live 75 km from them. How can we make it take as little time as possible? Keep in mind that Anna is the only one who can drive a two-seater motorcycle that travels at 30 km/h; for the rest, Chiara runs and keeps an average of 10 km/h while Milena does not run but, walking at a good pace, "travels" at 6 km/h.
+> 
+> What is the minimum time, expressed in minutes, for which Anna, Chiara, and Milena arrive at their friends simultaneously?
+
+**Answer:** 270 minuti
+[[src_bocconi_squadre_2013__Q01]]

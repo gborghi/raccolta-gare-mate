@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Student - Gara 16 marzo — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q23
 parent: src_kangourou_2017_student_marzo
 competition: Kangourou 2017 Student - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di a_2017 in successione ricorsiva*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of a_2017 in recurring succession*
+
+> 23. Let's consider the an sequence defined by putting a1 = 2017 and, for each n, a(n + 1) = (an - 1) / year. This is the same as the previous year's report.
+
+**Answer:** E
+[[src_kangourou_2017_student_marzo__Q23]]

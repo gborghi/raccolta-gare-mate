@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Triennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_triennio__Q16
 parent: src_archimede_2025_triennio
 competition: Giochi di Archimede 2025 - Triennio
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezze, simmetrico e ciclicita, similitudine e perpendicolarita AP*
 
@@ -53,3 +56,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Height, symmetrical and cyclic, similarity and perpendicularity AP
+
+> Considered a PQRS trapezoid, where the PQ side is parallel to RS, T is the point of the QS diagonal such that RT is parallel to SP. The areas of the QRT and RST triangles are measured in the order of 6 and 4 m2. How many m2 is the area of the entire PQRS trapezoid ? P Q R S T 6 4
+>
+> - **(A)** 30
+> - **(B)** 35
+> - **(C)** 32
+> - **(D)** 36
+> - **(E)** 27 311
+
+[[src_archimede_2025_triennio__Q16]]

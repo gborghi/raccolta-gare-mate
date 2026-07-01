@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1978-79 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1978-79_round1__Q02
 parent: src_bmo_1978-79_round1
 competition: British Mathematical Olympiad 1978-79 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three rays from O in 3-space; find points with equal-perimeter triangles and express OX*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre raggi da O nello spazio 3; trovare punti con triangoli di perimetro uguale e esprimere OX*
+
+> Da un punto $O$ nello spazio $3$ emergono tre raggi $OA$, $OB$, $OC$, gli angoli $BOC$, $COA$, $AOB$ sono $\alpha$, $\beta$ e $\gamma$ rispettivamente.
+> 
+> Prove che, per qualsiasi $2n > 0$, esistono punti $X$, $Y$, $Z$ su $OA$, $OB$, $OC$ rispettivamente in modo tale che i triangoli $YOZ$, $ZOX$ e $XOY$ abbiano tutti lo stesso perimetro $2n$, ed esprimere semplicemente $OX$ in termini di $n$, $\alpha$, $\beta$ e $\gamma$.
+
+[[src_bmo_1978-79_round1__Q02]]

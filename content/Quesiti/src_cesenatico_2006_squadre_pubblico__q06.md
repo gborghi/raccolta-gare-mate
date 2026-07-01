@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q06
 parent: src_cesenatico_2006_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coefficiente di x^2006 in prodotto di polinomi*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0064
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Coefficient of x^2006 in product of polynomials
+
+> Ron has discovered the other half of the sky, the girls! His passion is the most beautiful of all mathematicians: Clara, of the house of Righecompass. The number of Chiara's chamber is equal to the coefficient of the term x2006 of the polynomial (1+x) 2(1+x2)(1+x4)(1+x8) 3(1+x16)(1+x32) 4(1+x64)(1+x128)(1+x256)(1+x512)(1+x1024). Which room in Righecompasso's house is Ron supposed to go into?
+
+**Answer:** 0064
+[[src_cesenatico_2006_squadre_pubblico__Q06]]

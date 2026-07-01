@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2024 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2024__Q14
 parent: src_smc_2024
 competition: Senior Mathematical Challenge 2024
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Digits P,Q,R,S,T are 1–5 in some order; PRT and QRS are both 3-digit primes; find R*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le cifre P, Q, R, S, T sono 15 in un certo ordine; PRT e QRS sono entrambi numeri primi a 3 cifre; trovare R*
+
+> $P$, $Q$, $R$, $S$ e $T$ sono le cifre 1, 2, 3, 4 e 5 in un certo ordine. "$PRT$" e "$QRS$" sono entrambi numeri primi a tre cifre. Quale cifra è $R$?
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $4$
+> - **(E)** $5$
+
+**Risposta:** B
+[[src_smc_2024__Q14]]

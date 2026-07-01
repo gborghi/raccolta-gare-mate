@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1974-75 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1974-75_round1__Q04
 parent: src_bmo_1974-75_round1
 competition: British Mathematical Olympiad 1974-75 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Collinear points dividing parallel cevians in ratio k:1; find k*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDmSu0Uk3UVcyIxeAuO2e7yunqEoXRZY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punti collineari che dividono ceviani paralleli in rapporto k:1; trovare k*
+
+> Tre linee parallele $AD$, $BE$ e $CF$ sono tracciate attraverso le vertici del triangolo $ABC$ che si incontrano sui lati opposti rispettivamente in $D$, $E$ e $F$.
+> 
+> I punti $P$, $Q$, $R$ dividono $AD$, $BE$, $CF$ rispettivamente nello stesso rapporto $k:1$ e $P$, $Q$, $R$ sono collineari. Trova il valore di < MSK10/>.
+
+[[src_bmo_1974-75_round1__Q04]]

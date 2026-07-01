@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2024-25 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2024-25_round2__Q03
 parent: src_bmo_2024-25_round2
 competition: British Mathematical Olympiad 2024-25 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest swaps Elijah needs to restore chessboard colouring*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19GTqbDo2xCiXZF4NdAfLAruAN7LAIYD8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+I più grandi swap Elijah ha bisogno di ripristinare il colore della scacchiera
+
+> Una scacchiera $n \times n$ è composta da celle $n^2$ che sono quadrati unitari. Ogni cellula è di colore nero o bianco, in modo che le cellule con un bordo comune abbiano colori diversi. Isaac sconvolge il colore scambiando ripetutamente due colonne complete o due righe complete. Elijah vuole ripristinare il colore originale scambiando ripetutamente due colonne complete o due righe complete.
+> 
+> In termini di $n$, qual è il maggior numero di swap che Elijah potrebbe aver bisogno?
+
+[[src_bmo_2024-25_round2__Q03]]

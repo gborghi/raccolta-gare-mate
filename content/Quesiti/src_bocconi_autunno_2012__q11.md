@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2012 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2012__Q11
 parent: src_bocconi_autunno_2012
 competition: Giochi d'Autunno 2012
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Figura patchwork da quadrettatura sovrapposta in cinque parti*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NV-k_HLPNGANyAIvy1osIKx3v70VuvCV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Figure of patchwork square overlaid in five parts*
+
+> Divide the area in the figure, following the lines of the square, into five overlapping parts (possibly by some rotation).
+
+![[src_bocconi_autunno_2012__Q11.png]]
+
+[[src_bocconi_autunno_2012__Q11]]

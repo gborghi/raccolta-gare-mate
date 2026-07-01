@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo34yqa_yosen__Q07
 parent: src_jmo34yqa_yosen
 competition: Japan Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count pairs (p,a) with p prime >= 3 and ap^4+2p^3+2p^2+1 a perfect square*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BLiurO6ycVxBaRhIQ4VIeU3sYe6dethe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Conte le coppie (p,a) con p primo >= 3 e ap^4+2p^3+2p^2+1 un quadrato perfetto< MSK1/>
+
+> Trova il numero di coppie $(p, a)$ dove $p$ è un primo con $p \ge 3$ e $a$ è un intero con $1 \le a \le 2024$, soddisfa $a < p^4$ e $ap^4 + 2p^3 + 2p^2 + 1$ è un quadrato perfetto.
+
+**Risposta:** 16
+[[src_jmo34yqa_yosen__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f2__Q08
 parent: src_obm_2011_n1_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Selo (proper-divisor pair) of integers: compute, invert, and minimize*
 
@@ -53,3 +56,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Selo (pari di divisori corretti) di numeri interi: calcolare, invertere e ridurre al minimo*
+
+> Il \textit{selo} (seal) di un intero positivo $n$ è definito come la coppia ordinata $\mathrm{par}(x;\, y)$, dove $x$ è il numero di divisori positivi di $n$ che sono strettamente inferiori a $n$, e $y$ è la somma di tali divisori. Ad esempio, i divisori positivi di $10$ che sono inferiori a $10$ sono $1$, $2$ e $5$, quindi il selo di $10$ è $(3;\, 8)$. Il selo del numero $1$ è $(1;\, 1)$.
+> 
+> a) Qual è il selo di < MSK0/>?
+> 
+> b) Quale numero ha selo $(2;\, 3)$?
+> 
+> c) Esistono numeri il cui selo è $(6;\, m)$? Qual è il minimo valore possibile di $m$?
+
+[[src_obm_2011_n1_f2__Q08]]

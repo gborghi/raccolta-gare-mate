@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_pubblico__Q13
 parent: src_gas_2009_pubblico
 competition: Gara a Squadre 2009 - Gara del Pubblico
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo lettere tra 25 persone di 13 citta diverse*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0444
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of letters among 25 people from 13 different cities*
+
+> Keeping in touch [45] Before meeting at the council convened by El-Romb in Riemandell, the 25 free peoples' representatives will have to contact each other, and each of them wants to make sure they have heard everyone else. Unfortunately, the council members come from 13 different cities, so each will send a letter to everyone who is not in their city. How many letters were sent, at least?
+
+**Answer:** 0444
+[[src_gas_2009_pubblico__Q13]]

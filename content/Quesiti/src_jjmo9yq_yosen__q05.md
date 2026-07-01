@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo9yq_yosen__Q05
 parent: src_jjmo9yq_yosen
 competition: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary)
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum grapes after spells restore apples and grapes to 2011 with mandarins exceeding 2011*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qMJjxU0l_DxfEY-9HMozDgyKBaM5GpnZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di uve dopo le stagioni ripristinare le mele e le uve al 2011 con mandarine superiori al 2011*
+
+> Un mago può utilizzare uno dei seguenti tre incantesimi in qualsiasi numero di volte:\n\nL'incantesimo A: Cambia 1 mandarino e 1 uva in 2 mele.\nL'incantesimo B: Cambia 1 uva e 1 mela in 3 mandarini.\nL'incantesimo C: Cambia 1 mela e 1 mandarino in 4 uve.\n\nA partire da uno stato con mele $2011$, mandarini $2011$ e uve $2011$, il mago utilizza gli incantesimi (ogni una almeno una volta) e termina con mele $2011$, esattamente $2011$ uve, e almeno $2011$ mandarini. Qual è il numero minimo di mandarini alla fine?
+
+[[src_jjmo9yq_yosen__Q05]]

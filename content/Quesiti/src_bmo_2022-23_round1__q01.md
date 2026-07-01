@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2022-23 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2022-23_round1__Q01
 parent: src_bmo_2022-23_round1
 competition: British Mathematical Olympiad 2022-23 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all three-digit n where exactly 1/k numbers start with digit 2*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le n a tre cifre dove esattamente i numeri 1/k iniziano con la cifra 2*
+
+> Una strada ha case numerate da $1$ a $n$, dove $n$ è un numero a tre cifre. Esattamente $\frac{1}{k}$ dei numeri inizia con la cifra $2$, dove $k$ è un intero positivo. Trova i valori possibili di $n$.
+
+[[src_bmo_2022-23_round1__Q01]]

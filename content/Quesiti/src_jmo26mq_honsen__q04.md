@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2016 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo26mq_honsen__Q04
 parent: src_jmo26mq_honsen
 competition: Japan Mathematical Olympiad 2016 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real functions satisfying f(yf(x)-x)=f(x)f(y)+2x*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/132UNd9VdEb-Dva1Pf5U1Z0Wc_DnRuIHu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni reali che soddisfano f(yf(x) -x) = f(x) f(y) +2x*
+
+> Trovare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ definite su tutti i numeri reali in modo tale che per tutti i numeri reali $x, y$, $$f(yf(x) - x) = f(x)f(y) + 2x$$ si mantenga.
+
+[[src_jmo26mq_honsen__Q04]]

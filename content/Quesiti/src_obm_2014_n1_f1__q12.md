@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f1__Q12
 parent: src_obm_2014_n1_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three painters paint three 60 m walls at different rates, helping each other; total time*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Tre pittori dipingono tre pareti di 60 m a velocità diverse, aiutandosi a vicenda; tempo totale
+
+> Manuel, Antonio e Joaquim iniziano a dipingere, nello stesso istante, tre pareti uguali di $60$ metri di lunghezza, una parete ciascuno. Nei primi minuti di lavoro, Manuel dipinge i metri $2$, gli metri Antonio $3$ e Joaquim $5$. Quando ciascuno finisce la sua parte, va immediatamente ad aiutare gli altri, fino a quando tutti e tre insieme finiscono tutto il lavoro, mantenendo lo stesso ritmo fino alla fine. Quanto tempo hanno impiegato per completare il lavoro?
+> 
+> (A) $3$ ore \quad (B) $4$ ore \quad (C) $5$ ore \quad (D) $6$ ore \quad (E) $7$ ore
+
+[[src_obm_2014_n1_f1__Q12]]

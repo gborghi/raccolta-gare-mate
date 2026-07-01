@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q04
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto ab con MCD 3 e quoziente 4/10*
 
@@ -48,3 +51,23 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Product ab with MCD 3 and coefficient 4/10*
+
+> Let a and b be two positive integers whose maximum common divisor is 3. Knowing that the coefficient a/b is 4/10, what is the product a·b worth?
+>  
+> A. 18 B. 10
+>  
+> C. 36 D. 30
+>  
+> E. 90
+>  
+> 
+> Student of the year 2002. This item is not intended to be used. 2
+
+**Answer:** E
+[[src_kangourou_2002_student__Q04]]

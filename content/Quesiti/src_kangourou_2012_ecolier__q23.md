@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Ecolier (gara marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_ecolier__Q23
 parent: src_kangourou_2012_ecolier
 competition: Kangourou 2012 Ecolier (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato dei due quadrati finali dal foglio 192x84*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Side of the two final squares from sheet 192x84*
+
+> The sides of a rectangular sheet of paper measure 192 and 84 millimeters. With just one straight cut, I get two sheets, one of which is a square. With just one straight cut, from the non-square sheet I get two more sheets, one of which is a square. I keep going this way until I have to stop, because after a certain cut, both sheets are square. How many millimeters does each side of these two squares measure? A) 1 B) 4 C) 6 D) 10 E) 12
+
+**Answer:** E
+[[src_kangourou_2012_ecolier__Q23]]

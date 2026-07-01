@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin gara individuale — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q23
 parent: src_kangourou_2022_benjamin_gara
 competition: Kangourou 2022 Benjamin gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Codice di tre cifre del lucchetto dai suggerimenti*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three-digit code of the suggestion lock*
+
+> Paul has to open a three-digit lock. Francis gives him these suggestions: - in sequence 682 only one of the digits is correct and it is in the right place, - in sequence 614 only one of the digits is correct, but it is in a wrong place, - in sequence 206 exactly two digits are correct, but both are in the wrong places, - in sequence 738 all the digits are wrong. What's the code to open the lock?
+>  
+> B) 082 C) 642 D) 042 E) 012
+
+**Answer:** D
+[[src_kangourou_2022_benjamin_gara__Q23]]

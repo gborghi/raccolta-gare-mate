@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2003 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2003__Q02
 parent: src_cn_cwmo_2003
 competition: China Western Mathematical Olympiad 2003
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max value of difference of two half-sums given sum of squared differences*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta massima della differenza di due semisumi data la somma delle differenze al quadrato*
+
+> $a_1, a_2, \ldots, a_{2n}$ siano numeri reali con $\sum_{k=1}^{2n-1}(a_{k+1} - a_k)^2 = 1$. Trova il valore massimo di $(a_{n+1} + a_{n+2} + \cdots + a_{2n}) - (a_1 + a_2 + \cdots + a_n)$.
+
+[[src_cn_cwmo_2003__Q02]]

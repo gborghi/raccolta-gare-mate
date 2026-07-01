@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2015 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2015_printemps__Q01
 parent: src_canimath_2015_printemps
 competition: Coupe Animath Printemps 2015
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three integer operations; find x giving 1945, all x giving 2015*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre operazioni a numeri interi; trovare x dando 1945, tutti x dando 2015*
+
+> Sono definite tre operazioni sui numeri interi: - Operazione $A$: moltiplicare per $2$ e aggiungere $4$ al risultato. - Operazione $B$: moltiplicare per $1$ e aggiungere $16$ al risultato. - Operazione < MSK6/>: moltiplicare per < MSK7/> e aggiungere < MSK8/> al risultato.
+> 
+> a) Trovare un numero intero $x$ tale che, dopo aver applicato successivamente le operazioni $A$, $B$ e $C$ in tale ordine, si ottiene $1945$.
+> 
+> b) Trovare tutti gli enti $x$ in modo tale che, partendo da $x$ e applicando successivamente due operazioni diverse (tra $A$, $B$, $C$), si ottiene $2015$.
+
+[[src_canimath_2015_printemps__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2019 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_automne__Q10
 parent: src_canimath_2019_automne
 competition: Coupe Animath Automne 2019
@@ -34,6 +35,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum socks drawn to guarantee two of different colours from 6 blue and 6 red*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Minimum di calzini disegnati per garantire due colori diversi da 6 blu e 6 rossi< MSK1/>
+
+> Ho calzini di due colori diversi: 6 calzini blu e 6 calzini rossi. Ho disegnato diversi calzini a caso dal cassetto. Quante calzini devo disegnare, come minimo, per essere sicuro di avere due calzini di colori diversi?
+
+[[src_canimath_2019_automne__Q10]]

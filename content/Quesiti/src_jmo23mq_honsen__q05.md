@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2013 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo23mq_honsen__Q05
 parent: src_jmo23mq_honsen
 competition: Japan Mathematical Olympiad 2013 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max intersecting segment pairs in 90-degree turning point sequence*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PB6QVfFVyF4M6--riIsWoTuMBhLU_5t7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximi coppie di segmenti che si intersecano in una sequenza di punti di svolta a 90 gradi*
+
+> $n$ sia un numero intero positivo. Nel piano ci sono punti $P_1, P_2, \ldots, P_{4n}$, di cui non tre sono collineari, in modo tale che per ogni $i = 1, 2, \ldots, 4n$, rotando il raggio $P_i P_{i-1}$ in senso orario per $90^\circ$ circa il punto $P_i$, esso coincide con il raggio $P_i P_{i+1}$. Trovare il numero massimo possibile di coppie $(i,j)$ in modo tale che i segmenti $P_i P_{i+1}$ e $P_j P_{j+1}$ si intersecano in un punto diverso dai loro punti di fine. Qui $P_0 = P_{4n}$, $P_{4n+1} = P_1$ e $1 \le i < j \le 4n$.
+
+[[src_jmo23mq_honsen__Q05]]

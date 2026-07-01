@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q13
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli con vertici su due rette parallele*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangles with vertices on two parallel lines*
+
+![[src_kangourou_2007_cadet_marzo__prob13.png]]
+
+> Six different points are located on two parallel lines: four on one and two on the other. How many triangles have the points in question for vertices? A) 18 B) 16 C) 12 D) 8 E) 6
+
+**Answer:** B
+[[src_kangourou_2007_cadet_marzo__Q13]]

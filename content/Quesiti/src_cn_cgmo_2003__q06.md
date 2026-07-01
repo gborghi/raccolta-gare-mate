@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2003 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2003__Q06
 parent: src_cn_cgmo_2003
 competition: China Girls' Mathematical Olympiad 2003
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *At most half of proper divisors of n end in digit 5*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Al massimo la metà dei divisori propri di n fine nella cifra 5*
+
+> Che $n \ge 2$ sia un intero positivo, e che $S_n$ sia l'insieme di tutti i divisori interi positivi di $n$ (esclusi $1$ e $n$ stesso). Prova che almeno la metà degli elementi di $S_n$ ha le ultime cifre uguali a $5$. (Possibile da Feng Zanting)
+
+[[src_cn_cgmo_2003__Q06]]

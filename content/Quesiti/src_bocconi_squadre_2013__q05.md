@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q05
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità che una moneta d'oro provenga dal sacco rosso*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\frac{5}{9}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The probability of a gold coin coming from the red sack
+
+> In front of him, Nando has two bags, one blue and the other red. In the first, there are 20 gold and 30 silver coins; in the second, 20 gold and 20 silver. Blessed, Nando extracts a gold coin from one of the two sacks.
+> 
+> What is the probability that this gold coin came from the red sack?
+
+**Answer:** $\frac{5}{9}$
+[[src_bocconi_squadre_2013__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q08
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Loss value from a fraction of total crop revenue*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valutazione della perdita derivante da una frazione delle entrate totali delle colture*
+
+> Un agricoltore dovrebbe ricevere circa < MSK0/> reais dalla vendita del suo raccolto. Tuttavia, la mancanza di pioggia ha causato una perdita del raccolto, valutata tra < MSK1/> e < MSK2/> del totale previsto. Quali dei seguenti valori potrebbero rappresentare la perdita dell'agricoltore?
+> 
+> A) R\$\,21{,}987.53 \quad B) R\$\,34{,}000.00 \quad C) R\$\,44{,}999.99 D) R\$\,21{,}987.53 \quad E) R\$\,60{,}000.00
+
+**Risposta:** A
+[[src_obm_2005_n1_f1__Q08]]

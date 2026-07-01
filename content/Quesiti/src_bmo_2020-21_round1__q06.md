@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2020-21 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2020-21_round1__Q06
 parent: src_bmo_2020-21_round1
 competition: British Mathematical Olympiad 2020-21 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer as sum of two different powers of 2 and two different squares*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xg514doHxMaADkn1oQBkdyq62hCSeCSk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integra come somma di due potenze differenti di 2 e due quadrati diversi*
+
+> Dato che un intero $n$ è la somma di due potenze differenti di $2$ e anche la somma di due diversi primi di Mersenne, dimostrare che $n$ è la somma di due diversi numeri quadrati.
+> 
+> (Un primo di Mersenne è un numero primo che è uno meno di una potenza di due.)
+
+[[src_bmo_2020-21_round1__Q06]]

@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2008 — Quesito
   1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2008__Q01
 parent: src_bocconi_finalenaz_2008
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2008
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Contare le biglie che appartengono a due qualsiasi delle tre figure ma non a tutte e tre.*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 10 biglie
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Count the balls belonging to any two of the three figures but not to all three.*
+
+> Luke drew on the ground three geometric figures: a rectangle, a triangle, and an oval. He then took his little bag of colored beans and put 33 of them in his figures, as in the drawing. How many balls can you count that belong to any two of the three figures, but not all three?
+
+![[src_bocconi_finalenaz_2008__Q01.png]]
+
+**Answer:** 10 biglie
+[[src_bocconi_finalenaz_2008__Q01]]

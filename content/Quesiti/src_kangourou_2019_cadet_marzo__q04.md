@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Cadet — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q04
 parent: src_kangourou_2019_cadet_marzo
 competition: Kangourou 2019 Gara di Marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero iniziale di salatini dimezzato dagli scambi*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Initial number of salads halved by trade*
+
+> 4. Five friends went on a trip, each with a bag of salads; each of them gave each other a salads, and they all ate all the gifted salads and no one else. So the total number of lettuces they had at the beginning was halved: what was that number? A) 20 B) 24 C) 30 D) 40 E) 60
+
+**Answer:** D
+[[src_kangourou_2019_cadet_marzo__Q04]]

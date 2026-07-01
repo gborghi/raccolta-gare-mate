@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre finale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q04
 parent: src_kangourou_2012_squadre_finale
 competition: Kangourou 2012 squadre finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo acuto lancette 10 minuti dopo angolo 90*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 35
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Acute angle launches 10 minutes after angle 90*
+
+> In the village of Marco, the bell tower has a large traditional clock and only plays at full hours. At a certain hour in the afternoon, when the bell rings, the lancet forms a 90-degree angle. How many degrees does the sharp angle the lancet forms 10 minutes later?
+
+**Answer:** 35
+[[src_kangourou_2012_squadre_finale__Q04]]

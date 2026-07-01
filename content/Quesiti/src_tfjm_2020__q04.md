@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2020__Q04
 parent: src_tfjm_2020
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020
@@ -34,6 +35,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-player furniture-moving game in a 1D and 2D warehouse*
 
@@ -80,3 +83,41 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J8zHKpO1Q-BosuE3UiWvjA4Arny60DJ4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco per due giocatori che muove mobili in un magazzino 1D e 2D*
+
+> Olivier cerca di mettere i mobili nel magazzino di Animath, mentre Chloé cerca di difenderli.
+> 
+> $d \ge 2$ sia un numero intero. Consideriamo i mobili delle dimensioni $1 \times d$ e $d \times 1$ conservati in magazzino.
+> 
+> < MSK1/>1. < MSK2/> Mettiamo i pezzi in un magazzino di dimensioni < MSK0/>. Si dice che il magazzino sia ** pieno ** se non si può aggiungere un nuovo pezzo di mobili, come illustrato alla figura 7. Qual è il numero minimo di mobili necessari per riempire un magazzino? Qual è il numero massimo?
+> 
+> Let < MSK0/>. Si considera un magazzino di dimensioni < MSK1/>. Olivier e Chloé agiscono a loro volta come segue: - A sua volta, Olivier mette un pezzo di mobili nel magazzino se possibile. - A sua volta, Chloé puo' spostare un pezzo di mobili orizzontalmente da una cella.
+> 
+> Un pezzo di mobili non può essere spostato oltre gli spazi vuoti, e non può attraversare un altro pezzo durante una mossa. Si dice che un mobile sia bloccato quando Chloé non può spostarlo. Se non riesce a metterlo, lo perde. Olivier vince se a un certo punto un pezzo di mobili viene bloccato.
+> 
+> La figura 8 mostra un esempio di gioco in un magazzino di lunghezza $n = 7$ con $d = 2$: Olivier posiziona un pezzo fino alla destra, poi Chloé sposta tre celle verso sinistra, Olivier posiziona un pezzo fino alla sinistra. Olivier ha vinto mettendo un pezzo a sinistra, che è bloccato.
+> 
+> < MSK0/> e < MSK1/> devono essere fissati. Olivier può assicurarsi di vincere? Inizieremo studiando i casi < MSK2/>.
+> 
+> **3.** Dopo una breve ristrutturazione, il magazzino è ora una striscia infinita di larghezza $1$. Chloé può spostare pezzi lungo questa striscia indefinitamente, il che significa che non c'è mai un pezzo bloccato. Fissare $n$ e $d$. Olivier può sempre garantire la vittoria? Inizieremo studiando i casi < MSK3/>.
+> 
+> Dopo una lunga ristrutturazione, il magazzino è ora un piano infinito. Chloé non può più spostare i mobili che si trovano lungo il confine del lato più lungo dei mobili orizzontali. Come nella figura 9, sono mostrate due configurazioni in un magazzino bidimensionale per $d = 2$.
+> 
+> Per quali integri può Olivier garantire la vittoria? Inizieremo studiando i casi < MSK1/>.
+> 
+> **5. ** Per far fronte alla diversificazione delle sue attività, Animath ora ha bisogno di mobili di varie lunghezze (almeno $2$) e sempre di larghezza $1$. Rivisita la domanda precedente alle seguenti condizioni: a) A ogni turno, Olivier sceglie la dimensione del pezzo che vuole mettere; b) a ogni turno, Chloé sceglie la dimensione del pezzo che deve mettere Olivier; c) a ogni turno, Olivier sceglie la sequenza di dimensioni che deve mettere; d) all'inizio della partita, Chloé sceglie la sequenza di dimensioni di pezzi che Olivier deve mettere.
+> 
+> L'arredamento di nuova generazione è di dimensioni < MSK0/> e può muoversi in due direzioni. La figura 10 mostra una configurazione con i nuovi mobili.
+> 
+> **6.** Rivedere le domande precedenti per questo caso.
+> 
+> **7.** Proporre e studiare altre vie di ricerca.
+
+![[src_tfjm_2020__Q04.png]]
+
+[[src_tfjm_2020__Q04]]

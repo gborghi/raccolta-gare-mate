@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 2) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g2__Q08
 parent: src_bocconi_finaleint_2007_g2
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di parole nella formula magica di Ali Baba*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of words in the magic formula of Ali Baba*
+
+> Ali Baba must pronounce a magic formula, consisting of a series of words from $1$ to $8$ letters, to access the thieves' treasure. It must start with $B$ and end with $BRABB$. Each new word shall be obtained from the previous one by replacing one or more consecutive letters, and using one of the following rules: - $AB$ may be replaced by $BA$; - $B$ may be replaced by $BAA$; - $AA$ may be replaced by $BB$.
+> 
+> **How many words does Ali Baba have to say, at least, including the beginning and the end? **
+
+**Answer:** 7
+[[src_bocconi_finaleint_2007_g2__Q08]]

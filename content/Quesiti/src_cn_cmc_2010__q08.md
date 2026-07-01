@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2010 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2010__Q08
 parent: src_cn_cmc_2010
 competition: China Mathematical Competition 2010
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integer solutions of x+y+z=2010 with x<=y<=z*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le soluzioni a numeri interi positivi di x+y+z=2010 con x<=y<=z*
+
+> Il numero di soluzioni integrali positive dell'equazione $x + y + z = 2010$ con $x \le y \le z$ è ________.
+
+**Risposta:** $336675$
+[[src_cn_cmc_2010__Q08]]

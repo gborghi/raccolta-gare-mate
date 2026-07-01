@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q02
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fraction of equilateral triangle shaded when divided into nine smaller triangles with two additional lines.*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fraczione di triangolo equilaterale ombrato quando diviso in nove triangoli più piccoli con due linee aggiuntive.*
+
+> Il diagramma mostra un triangolo equilaterale diviso in nove triangoli equilaterali più piccoli, con due linee aggiuntive. Quale frazione del grande triangolo è ombrata?
+>
+> - **(A)** - Sì, certo.
+> - **(B)** - Sì, signore.
+> - **(C)** - Sì, certo.
+> - **(D)** - Sì, certo.
+> - **(E)** - Sì, certo.
+
+![[src_smc_2025__Q02.png]]
+
+**Risposta:** E
+[[src_smc_2025__Q02]]

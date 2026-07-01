@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f3__Q01
 parent: src_obm_2011_n2_f3
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Magic-sum 3x3 grid with multiples of 3*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FQup9_FXEn3vNvvzDk-gCVzfK-BezMBX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Griglia di somma magica 3x3 con moltipli di 3*
+
+> In una tabella $3 \times 3$ scriviamo i numeri $1$ a $9$, uno in ogni cella. Quindi calcoliamo la somma dei numeri in ogni riga, in ogni colonna e in ogni diagonale, ottenendo somme $8$ in totale (le tre righe, tre colonne e due diagonali). Ad esempio, nella tabella di seguito tutti i numeri $8$ sono moltipli di $3$.
+> 
+> $$\begin{array}{|c|c|c|}\hline 1 & 2 & 3 \\ \hline 4 & 5 & 6 \\ \hline 7 & 8 & 9 \\ \hline\end{array}$$
+> 
+> È possibile che nessuna delle somme $8$ sia un multiple di $3$? Ricorda di giustificare la tua risposta.
+
+[[src_obm_2011_n2_f3__Q01]]

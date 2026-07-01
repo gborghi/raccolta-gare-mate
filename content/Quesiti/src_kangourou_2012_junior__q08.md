@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Junior (gara marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior__Q08
 parent: src_kangourou_2012_junior
 competition: Kangourou 2012 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del triangolo KLM dei punti medi*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of the KLM triangle of the midpoints*
+
+> ABC is a rectangular triangle whose catheters are 6 and 8 cm long. The points K, L, and M are the midpoints of its sides. How many centimeters is the perimeter of the KLM triangle? A) 10 B) 12 C) 15 D) 20 E) 24
+
+**Answer:** B
+[[src_kangourou_2012_junior__Q08]]

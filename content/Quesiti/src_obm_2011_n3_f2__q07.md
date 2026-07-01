@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f2__Q07
 parent: src_obm_2011_n3_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real solutions of a cyclic system 2y=x+1/x, etc.*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le soluzioni reali di un sistema ciclico 2y=x+1/x, ecc..*
+
+> Trova tutte le soluzioni reali $(x, y, z)$ del sistema \[ \begin{cases} 2y = x + \dfrac{1}{x} \\ 2z = y + \dfrac{1}{y} \\ 2x = z + \dfrac{1}{z} \end{cases} \]
+
+[[src_obm_2011_n3_f2__Q07]]

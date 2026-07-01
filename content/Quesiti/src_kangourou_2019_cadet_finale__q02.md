@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Cadet — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_finale__Q02
 parent: src_kangourou_2019_cadet_finale
 competition: Kangourou 2019 Finale Nazionale Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura dell angolo ITE nel pentagono e triangolo equilatero*
 
@@ -63,3 +66,42 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 114
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1smvCpL_hdFhIZi16iX73KtjPyMEZu5zx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measurement of the ITE angle in the equilateral pentagon and triangle*
+
+![[src_kangourou_2019_cadet_finale__prob2.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1]
+  \coordinate (I) at (0, 2.5);
+  \coordinate (B) at (-2.378, 0.773);
+  \coordinate (L) at (-1.469, -2.023);
+  \coordinate (E) at (1.469, -2.023);
+  \coordinate (C) at (2.378, 0.773);
+  \coordinate (R) at (4.343, -1.411);
+  \coordinate (T) at (2.275, 0.450);
+  \draw (B) -- (I) -- (C) -- (E) -- (L) -- cycle;
+  \draw (I) -- (E);
+  \draw (C) -- (R) -- (E);
+  \draw (I) -- (R);
+  \node[above] at (I) {$I$};
+  \node[left] at (B) {$B$};
+  \node[below left] at (L) {$L$};
+  \node[below] at (E) {$E$};
+  \node[above right] at (C) {$C$};
+  \node[right] at (R) {$R$};
+  \node[above right] at (T) {$T$};
+  \fill (T) circle (1.5pt);
+\end{tikzpicture}
+\end{document}
+```
+
+> Look at the figure. $IBLEC$ is a regular pentagon and the triangle $CER$ is equilateral. $T$ is the intersection point between $CE$ and $IR$ segments. How many degrees does the angle $ITE$ measure? (see figure)
+
+**Answer:** 114
+[[src_kangourou_2019_cadet_finale__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q22
 parent: src_kangourou_2018_benjamin_marzo
 competition: Kangourou 2018 Benjamin - Gara 15 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero al 2018-esimo posto della sequenza*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number at 2018th place in the sequence*
+
+> Matilde wrote a long sequence of numbers: the first four are 2, 0, 1, 8 and the sum of five consecutive numbers is always 18. What's the number that occupies the 2018th place in the sequence? A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 8
+> 	
+> E) 9
+
+**Answer:** B
+[[src_kangourou_2018_benjamin_marzo__Q22]]

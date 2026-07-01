@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q07
 parent: src_kangourou_2019_benjamin_marzo
 competition: Kangourou 2019 Gara di Marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale somma non puo uscire da tre dadi con dispari 1-11*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mCVu8mcZWozh4A9IixxiUAmKQbLsElwm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>What sum cannot be drawn from three dice with odd numbers 1-11 < MSK1/>
+
+> On the sides of a dice, instead of the numbers 1 to 6, the first six odd numbers appear. Anna pulled the dice three times and added the three scores. Which of the following is certainly not the result you have achieved? A) 31
+> 	
+> B) 5
+> 	
+> C) 35
+> 	
+> D) 19
+> 	
+> E) 29
+
+**Answer:** C
+[[src_kangourou_2019_benjamin_marzo__Q07]]

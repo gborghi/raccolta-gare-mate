@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q11
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dell'addizione di numeri a quattro cifre*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of addition of four digits of numbers*
+
+![[src_kangourou_2021_cadet__prob11.png]]
+
+> The sum of the two two-digit numbers shown on the left, if done correctly, is 137. What is the sum of the two four-digit numbers shown on the right? A) 13737 B) 13837 C) 14747 D) 23737 E) 137137
+
+**Answer:** B
+[[src_kangourou_2021_cadet__Q11]]

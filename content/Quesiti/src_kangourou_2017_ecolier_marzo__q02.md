@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Écolier (gara marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q02
 parent: src_kangourou_2017_ecolier_marzo
 competition: Kangourou 2017 Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti canguri nel parco, Gianni ne vede meta*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many kangaroos are in the park, Gianni sees.
+
+![[src_kangourou_2017_ecolier_marzo__prob2.png]]
+
+> Gianni looks out the window (see the figure!) and sees half the kangaroos living in the park. How many kangaroos live in the park? A) 3 B) 10 C) 12 D) 15 E) 18
+
+**Answer:** C
+[[src_kangourou_2017_ecolier_marzo__Q02]]

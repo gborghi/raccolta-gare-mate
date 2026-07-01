@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo7yq_yosen__Q12
 parent: src_jjmo7yq_yosen
 competition: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers ≤2009 expressible as a^2009 + b^2009 for integers a, b*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JSUMowa9JI8Y3BaqBeZ4gyyU1TBF9Jpp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare gli integri positivi ≤2009 espressi come a^2009 + b^2009 per gli integri a, b*
+
+> Utilizzando gli integri $a$ e $b$, considera tutti gli integri positivi che possono essere espressi nella forma $a^{2009} + b^{2009}$. Tra questi, trovare il numero di tali integri positivi che sono al massimo $2009$.
+
+[[src_jjmo7yq_yosen__Q12]]

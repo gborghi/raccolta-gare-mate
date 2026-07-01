@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo12yq_yosen__Q06
 parent: src_jjmo12yq_yosen
 competition: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive n with n+16 and 16n+1 both perfect squares*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $33,\ 105,\ 1008$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le n positive con n+16 e 16n+1 entrambi i quadrati perfetti*
+
+> Trova tutti gli integri positivi $n$ in modo che sia $n+16$ che $16n+1$ siano quadrati perfetti.
+
+**Risposta:** $33,\ 105,\ 1008$
+[[src_jjmo12yq_yosen__Q06]]

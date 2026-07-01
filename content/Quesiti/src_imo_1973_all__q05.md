@@ -1,6 +1,7 @@
 ---
 title: IMO 1973 (Fifteenth International Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1973_all__Q05
 parent: src_imo_1973_all
 competition: IMO 1973 (Fifteenth International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Group of affine maps has common fixed point*
 
@@ -46,3 +49,21 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_yg5ytepW4kPtXzf2MZzjG__z3aJ2dcR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Group of affine maps has common fixed point*
+
+> $G$ is a set of non-constant functions of the real variable $x$ of the form $$f(x) = ax + b, \quad a, b \in \mathbb{R},$$ and $G$ has the following properties:
+> 
+> (a) If $f$ and $g$ belong to $G$, then $g \circ f$ belongs to $G$; here $(g \circ f)(x) = g[f(x)]$.
+> 
+> (b) If $f$ belongs to $G$, then its inverse $f^{-1}$ belongs to $G$; here the inverse of $f(x) = ax + b$ is $f^{-1}(x) = \dfrac{x - b}{a}$.
+> 
+> (c) For each $f \in G$ there is a real number $x_f$ such as $f(x_f) = x_f$.
+> 
+> Demonstrate that there is a real number $k$ such that $f(k) = k$ for each $f \in G$.
+
+[[src_imo_1973_all__Q05]]

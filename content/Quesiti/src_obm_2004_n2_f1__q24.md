@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q24
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Time the assistant stops so as to match the artisan's bracelet output*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Tempo in cui l'assistente si ferma in modo da corrispondere all'uscita del braccialetto dell'artigiano< MSK1/>
+
+> Un artigiano inizia a lavorare alle 8 e produce 6 braccialetti ogni venti minuti; il suo assistente inizia a lavorare un'ora più tardi e produce 8 braccialetti dello stesso tipo ogni mezz'ora. L'artigiano smette di lavorare alle 12h ma avverte il suo assistente che deve continuare a lavorare fino a quando non produce la stessa quantità dell'artigiano. A che ora si fermerà l'assistente?
+> 
+> **A) ** 12h $\quad$ **B) ** 12h30min $\quad$ **C) ** 13h $\quad$ **D) ** 13h30min $\quad$ **E) ** 14h30min
+
+**Risposta:** D
+[[src_obm_2004_n2_f1__Q24]]

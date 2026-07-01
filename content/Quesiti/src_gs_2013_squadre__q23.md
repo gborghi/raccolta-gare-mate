@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q23
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume minimo solido da quadrati incatenati*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 9000
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum solid volume from chained squares*
+
+> The new emblem of House Lannister is a pair of identical rings, formed by rotating a square around a straight plane with the square and parallel to its diagonal. The two rings are chained to each other (one goes through the other's hole). An ancient legend says that if the diagonal of the square used to obtain the rings is $30\text{ cm}$ long and if the volume occupied by the pair of rings is as low as possible, a diamond is created at each point of contact between the two rings. The volume in $\text{cm}^3$ of the smallest solid containing all the pyramids with diamond vertices (i.e. the smallest convex polyhedron containing all the diamonds) will indicate the number of years of Lannister House rule over Westeros. How long will that rule last?
+
+**Answer:** 9000
+[[src_gs_2013_squadre__Q23]]

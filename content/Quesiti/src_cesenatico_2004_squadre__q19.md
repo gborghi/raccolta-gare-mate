@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q19
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza tra modi pari e dispari di illuminare 6 finestre*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0064
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Difference between equal and odd ways of illuminating 6 windows< MSK1/>
+
+> The throne room The throne room of Franquie is illuminated by 6 large windows. The windows can be completely darkened from the inside with a tent, or from the outside with a wooden panel. The Queen's maid of honor counted all the different ways of opening or closing, regardless, curtains and panels, so that light would enter through an equal number of windows. The king's shield, on the other hand, counted all the different ways of opening or closing the curtains and panels, for which the windows illuminating the hall are in odd number. What's the difference between these two numbers?
+
+**Answer:** 0064
+[[src_cesenatico_2004_squadre__Q19]]

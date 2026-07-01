@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q16
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale che parla entrambe le lingue*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Percentage who speak both languages< MSK1/>
+
+> In Canada, part of the population speaks only English, part only French and part both languages. If 85% of the population speaks English and 75% French, what percentage of the population speaks both languages?
+>  
+> A. 50%        B. 57%        C. 25%        D. 60%        E. 40%.
+
+**Answer:** D
+[[src_kangourou_2002_cadet__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2012 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2012_automne__Q01
 parent: src_canimath_2012_automne
 competition: Coupe Animath Automne 2012
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count children in a family from sibling-ratio constraints*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Contare i figli in una famiglia da vincoli di rapporto fra fratelli< MSK1/>
+
+> Fred e Sarah sono i figli maggiori della stessa famiglia numerosa. Fred ha la metà dei fratelli rispetto alle sorelle, mentre Sarah ha le sorelle uguali ai fratelli. Quanti bambini ci sono in questa famiglia?
+
+[[src_canimath_2012_automne__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1981 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1981_r3__Q03
 parent: src_pol_1981_r3
 competition: Olimpiade Matematica Polacca 1981 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a product inequality bounding the product of |x-alpha^k|/(x+alpha^k) by the product of (1-alpha^k)/(1+alpha^k).*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11gXCIkgSxcgxTqCK4QeFSynkdB7_4TGW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove una disuguaglianza di prodotto che limita il prodotto di x-alpha^k/(x+alpha^k) al prodotto di (1-alpha^k)/(1+alpha^k).*
+
+> Prova che per qualsiasi numero naturale $n$ e numeri reali $\alpha$ e $x$ che soddisfi $\alpha^{n+1} \le x \le 1$ e $0 < \alpha < 1$ si ritiene che $$\prod_{k=1}^{n} \left| \frac{x - \alpha^k}{x + \alpha^k} \right| \le \prod_{k=1}^{n} \frac{1 - \alpha^k}{1 + \alpha^k}.$$
+
+[[src_pol_1981_r3__Q03]]

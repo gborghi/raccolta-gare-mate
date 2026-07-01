@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2015-16 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2015-16_round2__Q03
 parent: src_bmo_2015-16_round2
 competition: British Mathematical Olympiad 2015-16 — Round 2
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral: PQ perp AC implies PQ perp BD*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IP9QibKtwHZ1_25MdkGcnWk39s-zWQx-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterale ciclico: PQ perp AC implica PQ perp BD*
+
+> Che il $ABCD$ sia un quadrilaterale ciclico. Le diagonali $AC$ e $BD$ si incontrano a $Q$. Le linee $AB$ e $CD$ prodotte si incontrano a $P$. Prove che se $PQ$ è perpendicolare a $AC$, allora $PQ$ è perpendicolare a $BD$.
+
+[[src_bmo_2015-16_round2__Q03]]

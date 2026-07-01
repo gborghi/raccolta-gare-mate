@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2014__Q20
 parent: src_prmo_2014
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2014
@@ -37,6 +38,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of ordered pairs (A,B) with A,B subsets of {1,...,5}, neither A⊆B nor B⊆A*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 570
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di coppie ordinate (A,B) con sottoinsiemi A,B di {1,...,5}, né A⊆B né B⊆A*
+
+> Qual è il numero di coppie ordinate $(A, B)$ in modo tale che $A$ e $B$ siano sottoinsiemi di $\{1, 2, 3, 4, 5\}$ e non $A \subseteq B$ né $B \subseteq A$?
+
+**Risposta:** 570
+[[src_prmo_2014__Q20]]

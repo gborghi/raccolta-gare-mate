@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q27
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti rimasti dopo i fori*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Remaining cubes after the holes< MSK1/>
+
+![[src_kangourou_2001_benjamin__prob27.png]]
+
+> In a side 5 cube, constructed by adjoining side 1 cubes, holes were made (from side to side) as shown in the figure. How many cubes on side one are left?
+>
+> - **(A)** 88
+> - **(B)** 80
+> - **(C)** 70
+> - **(D)** 96
+> - **(E)** 85.
+
+**Answer:** A
+[[src_kangourou_2001_benjamin__Q27]]

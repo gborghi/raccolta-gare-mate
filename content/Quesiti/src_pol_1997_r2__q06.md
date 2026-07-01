@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r2__Q06
 parent: src_pol_1997_r2
 competition: Olimpiade Matematica Polacca 1997 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Eight points in unit cube, some two at distance at most 1*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fDY_chv3u9rsyb6LgvZXDNkbEcZAAdED/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Otto punti in cubo unitario, circa due a distanza massima 1< MSK1/>
+
+> Lasciate dare otto punti in un cubo unitario. Prove che due di questi punti sono a distanza non superiore a 1.
+
+[[src_pol_1997_r2__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre__Q15
 parent: src_kangourou_2023_kangourou_squadre
 competition: Kangourou Squadre 2023 Kangourou Finale 1
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *06*
 
@@ -44,3 +47,17 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0153
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*06*
+
+> The clock A traditional clock with 12 hours and the hours and minutes mark 8 and 6 minutes. How many degrees does the least angle between the two hands measure? a b c d
+> 
+>  
+> Questions and solutions
+
+**Answer:** 0153
+[[src_kangourou_2023_kangourou_squadre__Q15]]

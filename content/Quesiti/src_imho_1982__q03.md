@@ -1,6 +1,7 @@
 ---
 title: IMO 1982 (XXIII International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1982__Q03
 parent: src_imho_1982
 competition: IMO 1982 (XXIII International Mathematical Olympiad)
@@ -36,6 +37,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Infinite sequence of positive reals: prove lower bound and find sequence with upper bound*
 
@@ -53,3 +56,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Infinite sequence of positive reals: prove lower bound and find sequence with upper bound*
+
+> Consider the infinite sequences $\{x_i\}$ of positive real numbers with the following properties: $$x_0 = 1, \text{ and for all } i \ge 0,\; x_{i+1} \le x_i. $$ (a) Prove that for every such sequence there is an $n \ge 1$ such that $$\frac{x_0^2}{x_1} + \frac{x_1^2}{x_2} + \cdots + \frac{x_{n-1}^2}{x_n} \ge 3.999.$$ (b) Find such a sequence for which $$\frac{x_0^2}{x_1} + \frac{x_1^2}{x_2} + \cdots + \frac{x_{n-1}^2}{x_n} < 4$$ for all $n \ge 1$.
+
+[[src_imho_1982__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_finale__Q13
 parent: src_cesenatico_2011_finale
 competition: Gara a Squadre Cesenatico 2011 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *multiplo di 3,4,5 in basi diverse*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7980
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>multiply by 3,4,5 on different bases< MSK1/>
+
+> A message from Egypt The code message Numerotris uses to ask friends from Wales to reach him in Egypt is a long sequence of 1000 digits between 0 and 8. To decode it, Parabolix notes that this number, read at base 10 is multiple of 3, read at base 9 is multiple of 4, and read at base 11 is multiple of 5. How much is the sum of the numbers on the paper worth at most?
+
+**Answer:** 7980
+[[src_cesenatico_2011_finale__Q13]]

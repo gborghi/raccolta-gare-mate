@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2009 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo19mq_honsen__Q05
 parent: src_jmo19mq_honsen
 competition: Japan Mathematical Olympiad 2009 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all non-negative real-valued functions satisfying a functional equation*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkWAtYCNms8aPB0csO1ya8AFPjXe2OlU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni a valore reale non negativo che soddisfano un'equazione funzionale*
+
+> Trovare tutte le funzioni $f$ definite sui numeri reali non negativi che assumono valori reali non negativi in modo tale che per tutti i numeri reali non negativi $x$ e $y$, $$f(x^2) + f(y) = f\!\left(x^2 + y + x f(4y)\right)$$ sia valido.
+
+[[src_jmo19mq_honsen__Q05]]

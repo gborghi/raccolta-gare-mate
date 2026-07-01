@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Finale Nazionale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_finale__Q05
 parent: src_squadre_2023_finale
 competition: Gara a Squadre 2023 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza retta tangente s dal centro di Gamma2*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0027
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Right tangent distance s from the centre of Gamma2< MSK1/>
+
+> In the waiting room, Krull meets Vector, who managed to steal the pyramid. Curious, he asks him how he did it. Tronfio, Vector replies: "You must imagine two circumferences Γ1 and Γ2 of rays 7 and 41, respectively, tangent externally at the point P. Then you take r a tangent line at both circumferences and Q is the tangent point of r with Γ2 (which is different from P). Given that R is the P-distinguished intersection between the PQ straight and Γ1, consider the tangent line at Γ1 in R. You'd know how I did it if you knew how far the straight s is from the center of Γ2!" "Hey, what? And how would it help me understand?" Answer by the distance of s from the center of Γ2.
+
+**Answer:** 0027
+[[src_squadre_2023_finale__Q05]]

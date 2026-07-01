@@ -1,6 +1,7 @@
 ---
 title: XI Gara Nazionale Classi Prime 2026 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2026__Q17
 parent: src_garaprime_2026
 competition: XI Gara Nazionale Classi Prime 2026
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre di 10^2026 - 2026*
 
@@ -40,3 +43,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1F8eBxLs4bDWlyZJGhjIxQLaCXc18EKrk/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Summary of figures from 10^2026 - 2026< MSK1/>
+
+> Nicolò enjoys calculating the sum of the digits of the number 102026 −2026. What's your number?
+>
+> - **(A)** 18225
+> - **(B)** 18205
+> - **(C)** 18234
+> - **(D)** 18243
+> - **(E)** 18218
+
+**Answer:** A
+[[src_garaprime_2026__Q17]]

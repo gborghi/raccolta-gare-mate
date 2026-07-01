@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2024 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo34hq_honsen__Q02
 parent: src_jmo34hq_honsen
 competition: Japan Mathematical Olympiad 2024 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all functions on positive integers satisfying an lcm functional equation*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oh_f0Ust1zP8T7KdADefA9zgGGlZhTvf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni su numeri interi positivi che soddisfano un'equazione funzionale lcm*
+
+> Trova tutte le funzioni $f$ definite sui numeri interi positivi che assumono valori interi positivi in modo tale che, per tutti i numeri interi positivi $m$ e $n$, $$\mathrm{lcm}(f(m + f(n)),\, f(m)) = \mathrm{lcm}(f(m),\, f(m + n)).$$ qui $\mathrm{lcm}(x, y)$ denota il più piccolo comune multiple di $x$ e $y$.
+
+[[src_jmo34hq_honsen__Q02]]

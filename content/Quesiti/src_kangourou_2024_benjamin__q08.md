@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Benjamin 2024 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin__Q08
 parent: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di pesi per equilibrare 445 g*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of weights to balance 445 g< MSK1/>
+
+> To weigh an object weighing 445 g, Piero has a two-plate scale and the following eight weights What is the minimum number of weights that allows him to balance the scale? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** B
+[[src_kangourou_2024_benjamin__Q08]]

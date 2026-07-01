@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2004 - Gara Biennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2004_biennio__Q09
 parent: src_archimede_2004_biennio
 competition: Giochi di Archimede 2004 - Gara Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Funzione/posizione di vertici e numero N di lati*
 
@@ -41,3 +44,19 @@ tags:
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
 **Anche in triennio:** [apri PDF p.7](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Function/position of vertices and number N of sides*
+
+> Once a year, Marco has to travel to a distant country for work from an airport. However, that country's currency loses 30 percent of its value to the euro each year, while prices in that country double from year to year. The expenditure (in euro) incurred by Marco for his stay in 2004 is as follows:
+>
+> - **(A)** less than that of 2002
+> - **(B)** equal to that of 2002
+> - **(C)** higher than that of 2002, but less than twice that
+> - **(D)** equal to twice the expenditure of 2002
+> - **(E)** More than double the expenditure of 2002
+
+[[src_archimede_2004_biennio__Q09]]

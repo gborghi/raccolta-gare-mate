@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2007 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2007__Q13
 parent: src_bocconi_squadre_2007
 competition: Gara a Squadre 2007
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorso minimo lungo le facce del parallelepipedo da A a B*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum path along the faces of the parallel piped from A to B< MSK1/>
+
+> What is the shortest path for an ant in < MSK0/> and wants to reach the point < MSK1/>, moving along the faces of the paralelepipedo in the figure? (You have to approximate the solution by default, rounding to the first decimal point.)
+
+![[src_bocconi_squadre_2007__Q13.png]]
+
+[[src_bocconi_squadre_2007__Q13]]

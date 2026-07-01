@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2020 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2020__Q14
 parent: src_garaprime_2020
 competition: Gara Nazionale Classi Prime 2020
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle decine di n^3 con n che termina per 5*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RcjMtWkWdcfagBZF3LMfq3IMn7aMwmGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of decimal places of n^3 with n ending in 5*
+
+> Of a positive integer n we know that it ends with 5 and that the number of tens of n3 is odd. What's the number of tens of n3? A 7 B 1 C 3 D 5 E 9 F not uniquely determined by the data provided
+
+**Answer:** A
+[[src_garaprime_2020__Q14]]

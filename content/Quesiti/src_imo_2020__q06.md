@@ -1,6 +1,7 @@
 ---
 title: IMO 2020 papers — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2020__Q06
 parent: src_imo_2020
 competition: IMO 2020 papers
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Retta separante con distanza >=c·n^(-1/3)*
 
@@ -44,3 +47,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lHIqSWrqlVCOmcFjndDhEYM3gZRYMB5g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Separating straight with distance >= n^(-1/3) < MSK1/>
+
+> It shows that there is such a positive constant $c$ that the following statement is true:
+> 
+> Consider an integer $n > 1$ and a set $S$ of $n$ points in the plane such that the distance between any two distinct points of $S$ is at least $1$. It follows that there is a $\ell$ line separating $S$ such that the distance from each point of $S$ to $\ell$ is at least $cn^{-1/3}$.
+> 
+> (A straight $\ell$ separates a set of points $S$ if any segment connecting two points of $S$ intersects $\ell$.)
+> 
+> **Note.** Weaker results with $cn^{-1/3}$ replaced by $cn^{-\alpha}$ may receive points depending on the value of the $\alpha > 1/3$ constant.
+
+[[src_imo_2020__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1967 (IX International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1967__Q04
 parent: src_imho_1967
 competition: IMO 1967 (IX International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Acute-angled triangles similar to ABC with maximum area*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1U5rz4wEepU-SfkFdqcEOsSXqBT-xtIsB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Acute-angled triangles similar to ABC with maximum area*
+
+> Let $A_0B_0C_0$ and $A_1B_1C_1$ be any two acute-angled triangles. Consider all $ABC$ triangles that are similar to $\triangle A_1B_1C_1$ (so that vertices $A_1$, $B_1$, $C_1$ correspond to vertices $A$, $B$, $C$ respectively) and circumscribed about triangle $A_0B_0C_0$ (where $A_0$ lies on $BC$, $B_0$ on $CA$, and $C_0$ on $AB$). Of all such possible triangles, determine the one with maximum area, and construct it.
+
+[[src_imho_1967__Q04]]

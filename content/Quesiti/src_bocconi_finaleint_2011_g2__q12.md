@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 2) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g2__Q12
 parent: src_bocconi_finaleint_2011_g2
 competition: >-
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale superficie grigia nel giglio*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $50\%$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Percentage of grey area in the lily< MSK1/>
+
+> There's a glass in Mathematics Castle that represents a lily. All circle arcs are quarters of a circle. All the contact points are perfect. What is the area of the gray part on the figure, as a percentage of the area of the largest square? If necessary, take $2217$ for $\pi$.
+
+![[src_bocconi_finaleint_2011_g2__Q12.png]]
+
+**Answer:** $50\%$
+[[src_bocconi_finaleint_2011_g2__Q12]]

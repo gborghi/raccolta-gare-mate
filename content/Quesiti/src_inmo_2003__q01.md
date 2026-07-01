@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2003 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2003__Q01
 parent: src_inmo_2003
 competition: Indian National Mathematical Olympiad 2003
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cevians in acute triangle; DK bisects angle EKF*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1z6Cf4_2hukBRTJtfy1Vyovz4VqhtYk3x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ceviani in triangolo acuto; DK bisecta angolo EKF< MSK1/>
+
+> Considera un triangolo acuto $ABC$ e lascia che $P$ sia un punto interno di $ABC$. Supponiamo che le linee $BP$ e $CP$, quando prodotte, soddisfino rispettivamente $AC$ e $AB$ in $E$ e $F$. $D$ sia il punto in cui $AP$ incrocia il segmento di linea $EF$ e $K$ sia il piede di perpendicolare da $D$ a $BC$. Indicare che < MSK15/> bisecta < MSK16/>.
+
+[[src_inmo_2003__Q01]]

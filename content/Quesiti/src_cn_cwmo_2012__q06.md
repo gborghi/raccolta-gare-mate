@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2012 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2012__Q06
 parent: src_cn_cwmo_2012
 competition: China Western Mathematical Olympiad 2012
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find integer k where sequence crosses 1*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2012
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova un intero k dove la sequenza attraversa 1*
+
+> La sequenza $\{a_n\}$ è definita da $a_0 = \dfrac{1}{2}$, $a_{n+1} = a_n + \dfrac{1}{2012}a_n^2$, $n = 0, 1, 2, \ldots$. Trova un numero intero $k$ tale da $a_k < 1 < a_{k+1}$. (Posizionato da Bian Hongping)
+
+**Risposta:** 2012
+[[src_cn_cwmo_2012__Q06]]

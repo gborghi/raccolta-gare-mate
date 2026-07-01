@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2025 Cadet finale — Quesito C3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2025_cadet_finale__QC3
 parent: src_kangourou_2025_cadet_finale
 competition: Kangourou 2025 Cadet finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (a,b) con a+b=283*353 e b divide a*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** tre coppie
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PQuJedCWTXWhrFhpDRxzkn1D0caSD99m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pairs (a,b) with a+b=283*353 and b divides a*
+
+> Two positive integers $a$ and $b$ are such that their sum is equal to the product of the two prime numbers 283 and 353. For which pairs $(a, b)$ does $b$ divide $a$?
+
+**Answer:** tre coppie
+[[src_kangourou_2025_cadet_finale__QC3]]

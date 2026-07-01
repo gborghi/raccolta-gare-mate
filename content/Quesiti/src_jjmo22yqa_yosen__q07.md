@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo22yqa_yosen__Q07
 parent: src_jjmo22yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integers n in [10^98, 10^100) such that the erasing operation leaves exactly 3 numbers*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $18 \cdot 10^{49}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MpOoffmNfAlSJnrNvYxGLF27kPgwbEmW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri interi n in [10^98, 10^100) in modo tale che l'operazione di cancellazione lascia esattamente 3 numeri*
+
+> $n$ sia un numero intero con $10^{98} \le n < 10^{100}$. Scrivere i numeri interi da $1$ a $n$ su una lavagna, quindi eseguire ripetutamente la seguente operazione fino a quando non rimangono al massimo i numeri $3$ sulla lavagna:
+> 
+> *Sbarazzare contemporaneamente tutti i numeri della scheda che si trovano in posizione a quadrato perfetto dalla più piccola (cioè cancellare la 1a più piccola, la 4a più piccola, la 9a più piccola, ecc.).*
+> 
+> Trovare il numero di valori di $n$ per i quali i numeri $3$ rimangono sulla lavagna quando l'operazione termina.
+
+**Risposta:** 18 \cdot 10^{49}
+[[src_jjmo22yqa_yosen__Q07]]

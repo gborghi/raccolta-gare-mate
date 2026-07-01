@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2024 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2024__Q21
 parent: src_smc_2024
 competition: Senior Mathematical Challenge 2024
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2×3 crossword-number grid using digits 1–9 once each; Across: multiple of 9, a square; Down: multiple of 11, multiple of 13 and 19; find the unused digit*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2×3 griglia di numeri incrociati utilizzando cifre 19 una volta ogni volta; Across: multiple di 9, a quadrato; Down: multiple di 11, multiple di 13 e 19; trovare il numero non utilizzato*
+
+> Una crociverba deve essere compilata con i numeri da 1 a 9, ognuno utilizzato esattamente una volta. Gli indizi sono: Across  1. Un multiple di 9; 3. Un quadrato. In basso  1. Un multiple di 11; 2. Un multiple di 13 e di 19. Quale cifra non viene usata?
+>
+> - **(A)** $9$
+> - **(B)** $8$
+> - **(C)** $5$
+> - **(D)** $3$
+> - **(E)** $2$
+
+**Risposta:** B
+[[src_smc_2024__Q21]]

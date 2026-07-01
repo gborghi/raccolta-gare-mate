@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r1__Q04
 parent: src_pol_1999_r1
 competition: Olimpiade Matematica Polacca 1999 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *If x+y, x^2+y^2, x^3+y^3, x^4+y^4 are integers, prove x^n+y^n is an integer for all n.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Se x+y, x^2+y^2, x^3+y^3, x^4+y^4 sono numeri interi, dimostra che x^n+y^n è un intero per tutti n.*
+
+> Supponiamo che $x, y$ siano numeri reali in modo che $x + y$, $x^2 + y^2$, $x^3 + y^3$ e $x^4 + y^4$ siano interi. Provare che $x^n + y^n$ è un numero intero per tutti $n \in \mathbb{N}$.
+
+[[src_pol_1999_r1__Q04]]

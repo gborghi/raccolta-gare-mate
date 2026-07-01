@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale Benjamin — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin_finale__Q03
 parent: src_kangourou_2014_benjamin_finale
 competition: Kangourou 2014 finale Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del tavolo con panni sovrapposti*
 
@@ -55,3 +58,29 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 4
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TnGwh4toG4vq6-d1XPE8mHyu9WzrqlgT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of the table with overlapping fabrics*
+
+![[src_kangourou_2014_benjamin_finale__prob3.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  % Table (solid rectangle)
+  \draw[very thick] (0,0) rectangle (4,1.5);
+  % First cloth (dotted border, left side)
+  \draw[thick, dotted, line width=1.5pt] (0,0) rectangle (2.5,1.5);
+  % Second cloth (dashed border, right side, shifted right)
+  \draw[thick, dashed] (1.5,0.2) rectangle (4,1.3);
+\end{tikzpicture}
+\end{document}
+```
+
+> AT BU CV DZ
+
+**Answer:** 4
+[[src_kangourou_2014_benjamin_finale__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Finale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q12
 parent: src_kangourou_2015_squadre_f
 competition: Kangourou Coppa Squadre 2015 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Velocita per arrivare in orario tra ritardo e anticipo*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 24
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h_SgvOFzLa5MkyUk9nA_Lj1BTGkSTzB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Speed to arrive on time between late and early< MSK1/>
+
+> Franco likes to ride a bicycle, even if he has to travel long distances. Starting at a given moment and cycling at a speed of 20 km/h, you would arrive at an appointment with an hour of delay; leaving at the same moment and cycling at a speed of 30 km/h, you would arrive an hour early. How many miles an hour does he have to cycle if he wants to get there on time?
+
+**Answer:** 24
+[[src_kangourou_2015_squadre_f__Q12]]

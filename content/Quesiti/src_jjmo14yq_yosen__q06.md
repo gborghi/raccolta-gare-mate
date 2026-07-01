@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo14yq_yosen__Q06
 parent: src_jjmo14yq_yosen
 competition: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximize m for positive integers with m(m+57)=n(n+57)*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximizzare m per i numeri interi positivi con m(m+57)=n(n+57)*
+
+> I numeri interi positivi $m,n$ soddisfano $$m(m+57) = n(n+57).$$ Tra tali coppie, trovare il valore massimo possibile di $m$.
+
+**Risposta:** 783
+[[src_jjmo14yq_yosen__Q06]]

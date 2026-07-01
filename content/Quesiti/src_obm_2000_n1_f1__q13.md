@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q13
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence in columns: under which letter does 2000 appear*
 
@@ -60,3 +63,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza in colonne: sotto la quale appare la lettera 2000*
+
+> I numeri interi positivi sono disposti in colonne come mostrato di seguito, a partire dalla lettera $A$:
+> 
+> $$\begin{array}{ccccccccc} A & B & C & D & E & F & G & H & I \\ 1 & & 2 & & 3 & & & & 5 \\ & 9 & & & & 7 & & 6 & \\ & & 11 & 12 & & & 13 & & 14 \\ 19 & & & 17 & & 16 & & 15 & \\ & 18 & & & & & & & \\ \end{array}$$
+> 
+> Sotto quale lettera appare il numero $2000$?
+> 
+> (A) $F$ \quad (B) $B$ \quad (C) $C$ \quad (D) $I$ \quad (E) $A$
+
+**Risposta:** C
+[[src_obm_2000_n1_f1__Q13]]

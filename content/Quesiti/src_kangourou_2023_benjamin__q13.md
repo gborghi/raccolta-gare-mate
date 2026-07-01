@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin__Q13
 parent: src_kangourou_2023_benjamin
 competition: Kangourou 2023 Benjamin — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *in quale gruppo c'è 4*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*in which group is 4*
+
+> Pamela divided the integers from 1 to 15 into five groups of three prime numbers. The sums of the numbers in each of the first four groups are in the order 25, 27, 30 and 31. In which group is the number 4 present? A) In the first. (B) In the second. C) In the third. D) In the fourth. E) On the fifth.
+
+**Answer:** E
+[[src_kangourou_2023_benjamin__Q13]]

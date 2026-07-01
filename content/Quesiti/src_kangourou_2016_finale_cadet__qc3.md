@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 finale nazionale Cadet — Quesito C3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_finale_cadet__QC3
 parent: src_kangourou_2016_finale_cadet
 competition: Kangourou 2016 finale nazionale Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *conviene quale?*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** busta B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oqrEh6WLA1jn7meM9kqx809sdukOIBbT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> is suitable for which? < MSK1/>
+
+> The Fox student must, to be promoted, make a maximum of one mistake and take a closed-ended test. You can choose between two envelopes: - envelope A containing $7$ questions, each with $2$ answers, - envelope B containing $3$ questions, each with $6$ answers. Fox is unprepared and thinks he's answering questions at random. If he wants a promotion, should he choose envelope A or envelope B?
+
+**Answer:** busta B
+[[src_kangourou_2016_finale_cadet__QC3]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_pubblico__Q04
 parent: src_cesenatico_2013_pubblico
 competition: Gara a Squadre Cesenatico 2013 - Gara del pubblico
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma terne eta <=30 non coprime a due a due*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0960
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Term sum <=30 not covered by two to two< MSK1/>
+
+> The flowers in the grass Roots, still surprised by what's happening, leaves the house, and finds himself walking in an infinitely flowery grassland 200cm long and wide. On the lawn, many flowers observe her, amazed to see a flower move! Each of them has the shape of a regular polygon of petal, oops, side 1cm. How many petals/late has the largest flower Root can meet in the lawn?
+
+**Answer:** 0960
+[[src_cesenatico_2013_pubblico__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Cadet (20 marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet__Q16
 parent: src_kangourou_2003_cadet
 competition: Kangourou 2003 Cadet (20 marzo)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di terne di bastoncini che formano triangolo*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1eygrPRLv8IqHr90bPrLsox-FA6V93kRL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of rods with a triangle shape*
+
+> You have six sticks, each 1 cm, 2 cm, 3 cm, 2001 cm, 2002 cm and 2003 cm long: you have to choose three to build a triangle (which is not reduced to a segment). How many different choices of three sticks can you make? A) 1 B) 3 C) 5           D) 6 E) 20
+
+**Answer:** D
+[[src_kangourou_2003_cadet__Q16]]

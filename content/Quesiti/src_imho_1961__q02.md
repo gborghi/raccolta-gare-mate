@@ -1,6 +1,7 @@
 ---
 title: IMO 1961 (III International Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1961__Q02
 parent: src_imho_1961
 competition: IMO 1961 (III International Olympiad)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Provare a^2+b^2+c^2 >= 4 sqrt3 T (disuguaglianza di Weitzenbock)*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19oKHAdph4sJuaxtpEyXIRuF3vBNV2I4p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Try a^2+b^2+c^2 >= 4 squared 3 T (Weitzenbock inequality) < MSK1/>
+
+> Let $a, b, c$ be the sides of a triangle, and $T$ its area. In what case does equality hold?
+
+[[src_imho_1961__Q02]]

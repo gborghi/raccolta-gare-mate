@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q08
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coordinate di un vertice del quadrato con diagonale sull'asse x*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Coordinates of a vertex of the square with diagonal on the x-axis*
+
+> Referred to an ordinary system of orthogonal Cartesian axes, the position of a square is such that one of its diagonals lies on the axis of the axes. The coordinates of the two vertices on this axis are given by the pairs (1,0) and (5,0). Which of the following pairs gives the coordinates of one of the remaining vertices? A) (2, 0) B) (2, 3) C) (2, – 6) D) (3, 5) E) (3, – 1)
+
+**Answer:** B
+[[src_kangourou_2014_junior__Q08]]

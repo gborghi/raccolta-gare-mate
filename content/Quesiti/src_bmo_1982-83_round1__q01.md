@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1982-83 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1982-83_round1__Q01
 parent: src_bmo_1982-83_round1
 competition: British Mathematical Olympiad 1982-83 — Round 1
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcentre, midpoint, centroid; prove OE perpendicular to CD*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circumcento, punto medio, centroide; prova che l'OE è perpendicolare al CD*
+
+> Nel triangolo $ABC$ con circoncentro $O$, $D$ è il punto medio di $AB$ e $E$ è il centroide del triangolo $ACD$. Prova che $OE$ è perpendicolare a $CD$.
+
+[[src_bmo_1982-83_round1__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2000 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_2livello__Q11
 parent: src_archimede_2000_2livello
 competition: Archimede Gara 2º livello 2000
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume del tetraedro ABPQ in un cubo di lato 12*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 72
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of the ABPQ tetrahedron in a side cube 12*
+
+> In a side cube 12, $P$ and $Q$ are the two-sided centers that have in common the slope $AB$. What is the volume of the tetrahedron with the points $A$, $B$, $P$, $Q$ as vertices?
+
+**Answer:** 72
+[[src_archimede_2000_2livello__Q11]]

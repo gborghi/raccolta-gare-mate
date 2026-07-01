@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1998 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1998_r2__Q04
 parent: src_pol_1998_r2
 competition: Olimpiade Matematica Polacca 1998 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer pairs (x,y) satisfying x^2+3y^2=1998x*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NWtmk2jyNO5I-Zt-c1qVK7ASBrDFtJkS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di numeri interi (x,y) che soddisfano x^2+3y^2=1998x*
+
+> Trova tutte le coppie di integri $(x, y)$ che soddisfano $x^2 + 3y^2 = 1998x$.
+
+[[src_pol_1998_r2__Q04]]

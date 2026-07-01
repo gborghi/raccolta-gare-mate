@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q01
 parent: src_kangourou_2008_cadet_marzo
 competition: Kangourou 2008 - Cadet (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti quadrati con vertici su punti dati*
 
@@ -55,3 +58,26 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quantity of squares with vertices on data points*
+
+![[src_kangourou_2008_cadet_marzo__prob1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.8]
+  \foreach \x/\y in {0/2, 1/2, 2/2, 0/1, 1/1, 2/1, 1/0, 2/0}{
+    \draw[fill=black] (\x,\y) circle (4pt);
+  }
+\end{tikzpicture}
+\end{document}
+```
+
+> How many squares can be plotted that have as their vertices four of the points in the figure? A) 2                 B) 3              C) 4 D) 5                 E) 6
+
+**Answer:** C
+[[src_kangourou_2008_cadet_marzo__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo15yq_yosen__Q12
 parent: src_jmo15yq_yosen
 competition: Japan Mathematical Olympiad 2005 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum number of ways to destroy bridges so all islands have even degree*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $2^{1926}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il numero massimo di modi per distruggere ponti in modo che tutte le isole abbiano un grado pari
+
+> Ci sono isole $80$ e ponti $2005$. Ogni coppia di isole è collegata da un ponte al massimo, e alcune coppie potrebbero non avere un ponte. Da qualsiasi isola, è possibile raggiungere qualsiasi altra isola attraversando una sequenza di ponti (cioè il grafico è collegato). Desideriamo distruggere alcuni dei ponti MSK2 così che dopo la distruzione, ogni isola abbia un numero pari di ponti rimasti. (È consentito distruggere ponti $0$; dopo la distruzione il grafico non deve rimanere connesso; e dopo la distruzione, è anche accettabile se un'isola diventa irraggiungibile da un'altra). Su tutti i grafici collegati su vertici $80$ con bordi $2005$, trovare il numero massimo di modi per scegliere quali ponti distruggere.
+
+**Risposta:** 2^{1926}
+[[src_jmo15yq_yosen__Q12]]

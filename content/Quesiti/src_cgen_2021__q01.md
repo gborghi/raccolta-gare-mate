@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2021 — Matematica — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2021__Q01
 parent: src_cgen_2021
 competition: Concours Général des Lycées 2021 — Matematica
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Petits poids: for a finite sequence of n reals one defines its weight as the largest of the absolute partial-sum-type values |x_1|,|x_1+x_2|,...,|x_1+...+x_n|; Isabelle minimizes the weight over all orderings (value I), Clara uses a greedy algorithm (value C); compare I and C.*
 
@@ -80,3 +83,25 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mpuoT_Bn4czxgorxXLmkmdqsNnb4j2Av/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Peter's Weights: per una sequenza finita di n reali si definisce il suo peso come il più grande dei valori del tipo di somma parziale assoluta. ̇x_1: ̇x_1: ̇x_1: ̇x_2: ̇,... ̇x_1: ̇x_1: ̇... ̇x_1: ̇x_: ̇ Isabelle minimizza il peso su tutti gli ordini (valore I), Clara usa un algoritmo avido (valore C); confronta I e C.*
+
+> Problemi 1: "Peteits weights" (piccoli pesi). Per ogni numero intero $n$ maggiore o uguale a $2$ e per ogni sequenza finita di $n$ reale $(x_1,x_2,\ldots,x_n)$, si chiama peso della sequenza il più grande dei valori $|x_1|,|x_1+x_2|,\ldots,|x_1+x_2+\cdots+x_n|$. Per esempio, per $n=4$ e $(x_1,x_2,x_3,x_4)=(4,4,0,-9)$, il peso della sequenza è uguale a $8$, perché $|x_1|=4$, $|x_1+x_2|=8$, $|x_1+x_2+x_3|=8$ e $|x_1+x_2+x_3+x_4|=1$. Per $(x_1,x_2,x_3,x_4)=(-9,4,0,4)$, il peso è uguale a $9$, perché $|x_1|=9$, $|x_1+x_2|=5$, $|x_1+x_2+x_3|=5$ e $|x_1+x_2+x_3+x_4|=1$. Si nota che le due sequenze finite di cui sopra sono formate dai medesimi numeri in un ordine diverso e che hanno pesi diversi.
+> 
+> 1. Determinare i pesi delle seguenti sequenze finite: a. $(3,5,-6,-8,2)$ (e quindi $n=5$). b. $(1,2,3,\ldots,2014,2015,-2015,-2014,\ldots,-2,-1)$ (e quindi $n=4030$). c. In ciascuno dei due esempi precedenti, riordinare i termini in modo da ottenere un peso minore.
+> 
+> Uno dà a Isabelle e Clara la stessa sequenza finita di $n$ reali $(x_1,x_2,\ldots,x_n)$. Isabelle desidera riordinare questi reali $n$ in modo da ottenere una sequenza finita di peso minimo. Per fare ciò, considera tutti gli ordini possibili di questi reali $n$, determina per ciascuno il peso della sequenza corrispondente e sceglie un ordine per il quale il peso è minimo. Si nota < MSK4/> questo peso minimo. Per sua parte, Clara, più affrettata di Isabelle, adotta l'algoritmo seguente. Inizia scegliendo tra i reali $n$ un numero, nota $c_1$, in modo che il valore di $|c_1|$ sia il più piccolo possibile. Sceglie quindi il numero $c_2$ tra i reali $n-1$ rimasti, in modo che il valore di $|c_1+c_2|$ sia il più piccolo possibile. Più in generale, dopo aver scelto i numeri $c_1,\ldots,c_i$ tra i reali $n$ indicati all'inizio, sceglie $c_{i+1}$ tra i rimanenti $n-i$ in modo che il valore di $|c_1+\cdots+c_i+c_{i+1}|$ sia il più piccolo possibile. Finalmente ottiene una sequenza finita $(c_1,\ldots,c_n)$ di $n$ reali. Uno nota < MSK18/> il suo peso.
+> 
+> 2. Determinare $I$ e $C$ nei due casi seguenti. a. $n=3$ e $x_1=1$, $x_2=2$, $x_3=-4$. b. < MSK6/> e < MSK7/>, < MSK8/>, < MSK9/>, < MSK10/>.
+> 
+> 3. Se $n=2$, indicare che $I=C$.
+> 
+> 4. Se $n=3$, indicare che $C\le\frac{3}{2}I$.
+> 
+> 5. Che $n$ sia un numero intero maggiore o uguale a $4$ e che $(x_1,x_2,\ldots,x_n)$ sia la sequenza finita data a Isabelle e Clara. Un insieme: $$M=\max(|x_1|,|x_2|,\ldots,|x_n|)\qquad S=|x_1+x_2+\cdots+x_n|\qquad N=\max(M,S)$$ In altre parole, $M$ è il più grande dei numeri $|x_1|,|x_2|,\ldots,|x_n|$. Allo stesso modo, $N$ è il più grande dei numeri $M$ e $S$. a. Mostra che $S\le I$. b. Mostra che < MSK10/>. c. Mostra che < MSK11/>. d. Riduzione di < MSK12/>. e. Determinare i valori $n$ $x_1,x_2,\ldots,x_n$ tali da $C=2I$.
+
+[[src_cgen_2021__Q01]]

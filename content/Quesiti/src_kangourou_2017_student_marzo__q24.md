@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Student - Gara 16 marzo — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q24
 parent: src_kangourou_2017_student_marzo
 competition: Kangourou 2017 Student - Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto volumi tetraedro sezionato*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sectioned tetrahedral volume report*
+
+![[src_kangourou_2017_student_marzo__prob24.png]]
+
+> 24. From a regular tetrahedron, a new solid is made by securing it with four planes, each passing through the midpoints of the three beams coming out of the same vertex, as shown in the figure. What is the ratio of the volume of the solvent thus obtained to that of the initial tetrahedron? A) 4/5 B) 3/4 C) 2/3 D) 1/2 E) 1/3
+
+**Answer:** D
+[[src_kangourou_2017_student_marzo__Q24]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2009-10 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2009-10_round1__Q01
 parent: src_bmo_2009-10_round1
 competition: British Mathematical Olympiad 2009-10 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integers x, y, z satisfying a quadratic Diophantine equation*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutti gli enti x, y, z che soddisfano un'equazione diofantina quadrata*
+
+> Trova tutti gli integri $x$, $y$ e $z$ in modo tale che $x^2 + y^2 + z^2 = x + y + z + 2$.
+
+[[src_bmo_2009-10_round1__Q01]]

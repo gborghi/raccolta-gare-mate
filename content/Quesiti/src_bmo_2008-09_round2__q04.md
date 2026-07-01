@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2008-09 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2008-09_round2__Q04
 parent: src_bmo_2008-09_round2
 competition: British Mathematical Olympiad 2008-09 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show k(n) le 2009 implies n le 2^20, find equality cases*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ferPQhLsagHhNDpl4Pc-5BSxvy9ubeYh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il 2009 implica l'esistenza di casi di uguaglianza
+
+> Dato un intero positivo $n$, $k(n)$ indica il numero di interi positivi le cui rappresentazioni binarie si verificano come blocchi di cifre consecutive nella rappresentazione binaria di $n$.
+> 
+> Ad esempio, se $n = 10$ allora la rappresentazione binaria è $1010$, quindi $k(10) = 10$ (conteggiando tutti gli integri positivi distinti rappresentabili da un blocco contiguo di cifre di $1010$, notando che $0$ non conta come un intero positivo).
+> 
+> Indicare che se $k(n) \le 2009$, allora $n \le 2^{20}$, e determinare i valori di $n$ per cui vale l'uguaglianza.
+
+[[src_bmo_2008-09_round2__Q04]]

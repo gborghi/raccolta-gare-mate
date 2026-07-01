@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q26
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima lunghezza lato per 2009 quadrati interi*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum side length for 2009 whole squares*
+
+> A square was exactly divided (i.e. without surpluses and overlaps) into 2009 squares. If the length of the side of each of the squares we're talking about is an integer, what is the minimum length of the side of the original square that makes this possible? A) 46 B) 47 C) 503 D) A number different from the previous ones. (e) This breakdown is not feasible.
+
+**Answer:** D
+[[src_kangourou_2009_cadet_marzo__Q26]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre finale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q11
 parent: src_kangourou_2012_squadre_finale
 competition: Kangourou 2012 squadre finale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza del treno (Giacomo 45m, Luca 30m)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 180
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Train length (James 45m, Luke 30m) *
+
+> The train passes. James and Luke are both standing in the middle of the sidewalk of a station where a freight train is arriving, which is traveling at a constant speed and will not stop at the station. When the front of the locomotive reaches them, they begin to walk at the same speed along the sidewalk, James in the same direction as the train and Luke in the opposite direction. They both stop when they are reached by the train's tail: James walked 45 meters, Luke walked 30 meters. How long is the train?
+
+**Answer:** 180
+[[src_kangourou_2012_squadre_finale__Q11]]

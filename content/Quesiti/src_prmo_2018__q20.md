@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q20
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of positive integers n whose digit product equals n^2-15n-27*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 17
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di numeri interi positivi n il cui prodotto digitali è uguale a n^2-15n-27*
+
+> Determinare la somma di tutti i possibili integri positivi $n$, il prodotto dei quali è uguale a $n^2 - 15n - 27$.
+
+**Risposta:** 17
+[[src_prmo_2018__Q20]]

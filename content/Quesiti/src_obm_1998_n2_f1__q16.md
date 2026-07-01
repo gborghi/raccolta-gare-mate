@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f1__Q16
 parent: src_obm_1998_n2_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill grid with digits 1-5; find most repeated digit*
 
@@ -58,3 +61,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Remplire la griglia con le cifre 1-5; trovare la cifra più ripetuta*
+
+> Metti i numeri 1, 2, 3, 4 o 5 in ogni piccola cella della griglia mostrata, in modo che ogni cifra appaia almeno una volta e il numero più grande possibile formato sia un multiple di 9.
+> 
+> (La griglia ha 9 celle consecutive.)
+> 
+> Quale cifra appare più spesso nel numero che hai costruito?
+> 
+> A) 6 volte B) 5 volte C) 4 volte D) 3 volte E) 2 volte
+
+**Risposta:** B
+[[src_obm_1998_n2_f1__Q16]]

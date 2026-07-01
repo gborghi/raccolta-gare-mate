@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f3__Q01
 parent: src_obm_2011_n3_f3
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove every positive integer n has a chapa with exactly n digits*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lg8sglroGshD0xnLsEEaoJUunh8VJxYI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che ogni intero positivo n ha un chapa con esattamente n cifre*
+
+> Diciamo che un intero positivo è un **chapa** se è formato solo da cifre non zero e la somma dei quadrati delle sue cifre è anche un quadrato perfetto. Ad esempio, 221 è un chapa perché $2^2 + 2^2 + 1^2 = 9 = 3^2$ e tutti i suoi numeri sono non zero; 403 non è un chapa perché $4^2 + 0^2 + 3^2 = 5^2$ ma una delle sue cifre è zero; e 5 non è un chapa perché $1^2 + 2^2 = 5$ non è un quadrato perfetto (nota: se tutti i numeri di 403 non sono zero allora $1^2 + 2^2 = 5$ non è un quadrato perfetto).
+> 
+> Prova che per ogni intero positivo $n$, esiste un chapa con esattamente $n$ cifre.
+
+[[src_obm_2011_n3_f3__Q01]]

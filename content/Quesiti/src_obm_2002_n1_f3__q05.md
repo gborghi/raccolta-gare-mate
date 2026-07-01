@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f3__Q05
 parent: src_obm_2002_n1_f3
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3
@@ -42,6 +43,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *On an 8x8 board two players alternately place 1x1 pawns on squares; the player who cannot move loses; determine which player has a winning strategy independent of the opponent's play*
 
@@ -54,3 +57,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15lQ7pjQw33CmRKlTG9zAbRyQY3NZVoW3/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Su un tavolo 8x8 due giocatori inseriscono alternativamente 1x1 pedoni su quadrati; il giocatore che non può muoversi perde; determina quale giocatore ha una strategia vincente indipendentemente dal gioco dell'avversario*
+
+> Due giocatori giocano su una scacchiera ($8 \times 8$) composta da quadrati della dimensione dei pezzi. I due giocatori giocano alternativamente, e a ciascuna partita un giocatore pone un pedone $1 \times 1$ su un quadrato vuoto della tavola. Il giocatore che non riesce a mettere un pedone sulla tavola perde. Un giocatore può vincere indipendentemente dal modo in cui l'avversario gioca  cioè, uno dei giocatori ha una strategia vincente?
+
+[[src_obm_2002_n1_f3__Q05]]

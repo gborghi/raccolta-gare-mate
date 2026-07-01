@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2012 — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2012__Q20
 parent: src_bocconi_squadre_2012
 competition: Gara a Squadre 2012
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultima data palindroma a otto cifre nel formato gg/mm/aaaa*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 29/11/1192
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last eight-digit palindrome date in gg/mm/aaaa*
+
+> The < MSK0/> February of this year was a palindrome date (< MSK1/>). Also considering eight-digit alignments, ** what was the last palindrome date in the past centuries? **
+
+**Answer:** 29/11/1192
+[[src_bocconi_squadre_2012__Q20]]

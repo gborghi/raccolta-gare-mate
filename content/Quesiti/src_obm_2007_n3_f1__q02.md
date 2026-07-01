@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f1__Q02
 parent: src_obm_2007_n3_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 4-digit 'peroba' numbers: at least two neighboring digits of same parity*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri "peroba" a 4 cifre: almeno due cifre vicine della stessa parità*
+
+> Un numero a quattro cifre è chiamato \textit{peroba} se ha almeno due cifre vicine (adiacenti) con la stessa parità. Quanti sono i perobas?
+> 
+> (A) $8999$ \quad (B) $8874$ \quad (C) $7875$ \quad (D) $8000$ \quad (E) $7750$
+
+**Risposta:** C
+[[src_obm_2007_n3_f1__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1992 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1992__Q05
 parent: src_inmo_1992
 competition: Indian National Mathematical Olympiad 1992
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two circles; line through P meets them; midpoint of AB, midpoint of XZ coincide*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EOEsZB8HaiI0YQM_jwUKgpq-22uACryj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi; una linea attraverso P li incontra; punto medio di AB, punto medio di XZ coincidono*
+
+> Due cerchi $C_1$ e $C_2$ nel piano si intersecano a due punti $P$ e $Q$. Una linea attraverso $P$ incontra $C_1$ a $A$ e $C_2$ a $B$. Il $Y$ deve essere il punto medio di $AB$ e $QY$ deve incontrare di nuovo i cerchi $C_1$ e $C_2$ rispettivamente a $X$ e $Z$. Indicare che $Y$ è il punto medio di $XZ$.
+
+[[src_inmo_1992__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1984 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1984_r3__Q03
 parent: src_pol_1984_r3
 competition: Olimpiade Matematica Polacca 1984 — Round 3
@@ -39,6 +40,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two concentric circles inscribed in and circumscribed about the section of a regular octahedron by a plane through its center; prove a ratio bound.*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uJbOajHDsVJS_W8N_b349B1gwV3vlEpC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi concentrici inseriti e circoscritti intorno alla sezione di un ottaedro regolare da un piano attraverso il suo centro; dimostrare un rapporto legato.*
+
+> Che il $W$ sia un ottaedro regolare e il $O$ sia il suo centro. In un piano $P$ contenente $O$ si scelgono i cerchi $k_1(O,r_1)$ e $k_2(O,r_2)$ in modo tale che $k_1\subset P\cap W\subset k_2$. Dimostra che $\frac{r_1}{r_2}\le\frac{\sqrt{3}}{2}$.
+
+[[src_pol_1984_r3__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2023 — Selection Camp — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2023__Q05
 parent: src_selection_camp_2023
 competition: Japan IMO Selection Camp 2023 — Selection Camp
@@ -26,6 +27,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find rationals q realized by f(x+f(y))=f(x)+f(y) with f(z)=qz*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i razionali q realizzati da f(x+f(y))=f(x)+f(y) con f(z)=qz*
+
+> Chiamare una funzione $f$ definita sui numeri reali e assumendo i valori reali una buona funzione se, per tutti i numeri reali $x, y$, $$f(x + f(y)) = f(x) + f(y).$$ Trovare tutti i numeri razionali $q$ che soddisfano la seguente condizione: esiste una buona funzione $f$ e un numero reale $z$ tale che $f(z) = qz$.
+
+[[src_selection_camp_2023__Q05]]

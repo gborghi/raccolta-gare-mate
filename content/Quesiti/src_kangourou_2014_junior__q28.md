@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q28
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultimo numero della prima metà delle permutazioni di 1..7*
 
@@ -56,3 +59,21 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last number of the first half of the permutations of 1.7.*
+
+> Consider the sum of all the seven-digit numbers that can be formed using each of the seven digits 1, 2, 3, ..., 7. Now put these numbers in ascending order and break the list exactly in half. What is the last number of the first half? A) 3765421
+> 	
+> B) 4123567
+> 	
+> C) 4352617
+>               
+> D) A number different from the previous E) It is impossible to split the list exactly in half because it consists of a number of odd numbers. P A T B O
+>
+
+**Answer:** D
+[[src_kangourou_2014_junior__Q28]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1974 (XVI International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1974__Q03
 parent: src_imho_1974
 competition: IMO 1974 (XVI International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sum involving binomial coefficients not divisible by 5*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Sum involving binomial coefficients not divisible by 5
+
+> Prove that the number $\sum_{k=0}^{n} \binom{2n+1}{2k+1} 2^{3k}$ is not divisible by 5 for any integer $n \ge 0$.
+
+[[src_imho_1974__Q03]]

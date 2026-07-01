@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2013 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2013__Q03
 parent: src_cn_cmo_2013
 competition: China Mathematical Olympiad 2013
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive real t with infinite set X and arithmetic progression inequality*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $0 < t < \frac{1}{2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le t reali positive con set infinito X e disuguaglianza di progressione aritmetica*
+
+> Trova tutti i numeri reali positivi $t$ con la proprietà che esiste un insieme infinito $X$ di numeri reali in modo tale che l'ineguaglianza $$\max\{\,|x - (a - d)|,\ |y - a|,\ |z - (a + d)|\,\} > td$$ si applique a tutti (non necessariamente distinti) $x, y, z \in X$, tutti i numeri reali $a$ e tutti i numeri reali positivi $d$.
+
+**Risposta:** $0 < t < \frac{1}{2}$
+[[src_cn_cmo_2013__Q03]]

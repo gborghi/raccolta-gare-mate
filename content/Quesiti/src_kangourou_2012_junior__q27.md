@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Junior (gara marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior__Q27
 parent: src_kangourou_2012_junior
 competition: Kangourou 2012 Junior (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo valore del massimo tra sei interi*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Littleest value of a maximum of six integers< MSK1/>
+
+> Six positive integers are assigned, all different from each other; for one and only one pair of these integers it happens that the minor is not a divisor of the major. What's the smallest possible value for the largest of these six integers? A) 18 B) 20 C) 36 D) 45 E) A number different from the previous one
+
+**Answer:** E
+[[src_kangourou_2012_junior__Q27]]

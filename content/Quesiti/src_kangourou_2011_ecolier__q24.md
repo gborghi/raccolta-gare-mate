@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Ecolier (gara marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier__Q24
 parent: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Da quanti esagoni e formata la quinta figura*
 
@@ -55,3 +58,19 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*From how many hexagons and formed the fifth figure*
+
+![[src_kangourou_2011_ecolier__prob24.png]]
+
+> Using identical hexagon-shaped cards, Silvia built five figures. Here we show you the first three, telling you that Silvia built the fourth and fifth based on the same rule with which she built the ones you see (i.e. each figure is built by surrounding the previous figure with hexagons). How many hexagons is the fifth figure? The Commission has therefore decided to extend the period of validity of this Regulation to the following areas:
+> 
+>  
+> 1 2011 Categories of schools
+
+**Answer:** D
+[[src_kangourou_2011_ecolier__Q24]]

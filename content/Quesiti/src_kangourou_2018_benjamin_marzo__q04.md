@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q04
 parent: src_kangourou_2018_benjamin_marzo
 competition: Kangourou 2018 Benjamin - Gara 15 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma delle due cifre cancellate nella sottrazione*
 
@@ -50,3 +53,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the two digits deleted in subtraction*
+
+![[src_kangourou_2018_benjamin_marzo__prob4.png]]
+
+> Look at the figure: Alice correctly subtracted two two-digit numbers; then she deleted two digits. What is the sum of the deleted numbers? A) 8
+> 	
+> B) 9
+> 	
+> C) 12
+> 	
+> D) 13
+> 	
+> E) 15
+
+**Answer:** D
+[[src_kangourou_2018_benjamin_marzo__Q04]]

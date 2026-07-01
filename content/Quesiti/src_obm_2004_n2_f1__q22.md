@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q22
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Side of square sheet cut into 41 unit squares plus one larger square*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'insieme del foglio quadrato tagliato in 41 unità quadrate più un quadrato più grande*
+
+> Un foglio di carta quadrato è stato tagliato in 42 quadrati più piccoli, di cui uno ha una superficie superiore a $1 \text{ cm}^2$ e gli altri hanno una superficie uguale a $1 \text{ cm}^2$. Qual è la misura del lato del foglio?
+> 
+> **A)** $6$ cm $\quad$ **B)** $12$ cm $\quad$ **C)** $21$ cm $\quad$ **D)** $19$ cm $\quad$ **E)** $20$ cm
+
+**Risposta:** C
+[[src_obm_2004_n2_f1__Q22]]

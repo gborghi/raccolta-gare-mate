@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f2__Q03
 parent: src_obm_2009_n2_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest family of 3-digit numbers sharing at least one digit pairwise*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La più grande famiglia di numeri a 3 cifre che condividono almeno una cifra in coppia*
+
+> Diciamo che due o più numeri, ognuno con lo stesso numero di cifre, appartengono alla stessa famiglia quando ogni coppia di loro condivide almeno una cifra in comune. Ad esempio, $32$, $25$ e $22$ appartengono alla stessa famiglia, perché $32$ e $25$ condividono il numero $2$, $25$ e $22$ condividono il numero $2$, e $32$ e $22$ condividono il numero $2$. D'altra parte, $123$, $245$ e $568$ non appartengono alla stessa famiglia, poiché $123$ e $568$ non condividono una cifra comune. Qual è il maggior numero di membri che una famiglia di numeri a tre cifre può avere?
+
+[[src_obm_2009_n2_f2__Q03]]

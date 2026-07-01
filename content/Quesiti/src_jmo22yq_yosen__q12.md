@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo22yq_yosen__Q12
 parent: src_jmo22yq_yosen
 competition: Japan Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cube side 2012 cut by plane as hexagon IJKLMN; find area combination*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $4\sqrt{61}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cuba lato 2012 tagliato per piano come hexagono IJKLMN; trovare combinazione di superficie*
+
+> In spazio, un cubo $ABCD\text{-}EFGH$ ha lunghezza laterale $2012$. Un piano incrocia il cubo e la sezione trasversale è un esagono $IJKLMN$, dove rispettivamente $I$, $J$, $K$, $L$, $M$, $N$ si trovano sui bordi $AE$, $EF$, $FG$, $GC$, $CD$ e $DA$.
+> 
+> Date $AI - GL = 8$, $CM - EJ = 6$, $FK - DN = 4$, trovate $$(\text{area of } \triangle IKM) + (\text{area of } \triangle JLN) - (\text{area of hexagon } IJKLMN).$$
+> 
+> (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+![[src_jmo22yq_yosen__Q12.png]]
+
+**Risposta:** 4\sqrt{61}
+[[src_jmo22yq_yosen__Q12]]

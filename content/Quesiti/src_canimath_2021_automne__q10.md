@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2021 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_automne__Q10
 parent: src_canimath_2021_automne
 competition: Coupe Animath Automne 2021
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Village 5 buildings with 5,15,25,35,45 residents; show someone shares building with family member (lycée)*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Village 5 edilizia con 5,15,25,35,45 abitanti; mostra qualcuno che condivide l'edificio con un membro della famiglia (liceu) *
+
+> Un villaggio è composto da 5 edifici. Nei 5 edifici vivono rispettivamente 5, 15, 25, 35 e 45 persone. Ogni persona conta almeno due membri della propria famiglia (esclusi se stessi) tra gli abitanti del villaggio. Mostrate che esiste una persona che conta un membro della sua famiglia tra gli abitanti del proprio edificio.
+
+[[src_canimath_2021_automne__Q10]]

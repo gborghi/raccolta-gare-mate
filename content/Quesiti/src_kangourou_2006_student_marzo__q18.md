@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q18
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punti dell'ultima in classifica (torneo prog. aritm.)*
 
@@ -92,3 +95,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Scores from the last qualifying round (prog. The following table shows the results of the calculations:
+
+> Sixteen teams play a volleyball tournament. Each team faces each other once and only once: at each match, the winning team advances one point in the standings, while the losing team stays with the score they had (there can be no draws). At the end of the tournament, the ranking appears in arithmetic progression. How many points did the team that came in last score? A) 3 B) 2 C) 1 D) A score other than 3, 2, 1. (e) The situation described cannot be verified. B B B B R R R R R R G G G 2 1 − b a 1 + b a 1 2 2 + b a 1 2 2 − b a 1 3 3 + b a Student_06.qxp 20/02/2006 23.38 Page 30
+> 
+> I'm going to pay. I'm going to pay. 31 31 Kang 2006 Kang 2006 tudent
+
+**Answer:** D
+[[src_kangourou_2006_student_marzo__Q18]]

@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2012 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2012__Q02
 parent: src_cn_csmo_2012
 competition: China Southeastern Mathematical Olympiad 2012
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Incircle chord intersections: prove product equality DM·KE = DN·KF*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Intersezioni di accordi in cerchio: dimostrazione della parità del prodotto DM·KE = DN·KF< MSK1/>
+
+> $\odot I$ sia l'incircolo di $\triangle ABC$. Il cerchio $\odot I$ incrocia i lati $AB$, $BC$ e $CA$ rispettivamente nei punti $D$, $E$ e $F$. La linea $EF$ incrocia le linee $AB$, $BI$ e $DI$ rispettivamente ai punti $M$, $N$ e $K$. Prova che < MSK16/>. (Posizionato da Zhang Pengcheng)
+
+![[src_cn_csmo_b11_w301__Q02.png]]
+
+[[src_cn_csmo_2012__Q02]]

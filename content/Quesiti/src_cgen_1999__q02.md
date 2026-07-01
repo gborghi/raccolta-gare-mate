@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1999 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1999__Q02
 parent: src_cgen_1999
 competition: Concours Général des Lycées 1999 — Matematica
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve in N the equation involving sum of powers*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi in N l'equazione che comporta la somma delle potenze*
+
+> Risolvere in $\mathbb{N}$ l'equazione in $n$: $$( n+3)^{n} = \sum_{k=1}^{n+2} k^{n}$$
+
+[[src_cgen_1999__Q02]]

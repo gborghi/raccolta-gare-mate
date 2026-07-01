@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Koala — Gioco Koala — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_koala__Q13
 parent: src_kangourou_2022_koala
 competition: Kangourou 2022 Koala — Gioco Koala
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale immagine si ottiene*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Nyec1GxOQ3f28I_D0c1kacejlV99W-GD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*what image is obtained*
+
+![[src_kangourou_2022_koala__prob13.png]]
+
+> In the picture, you see a stamp. When you use it, which of the following images do you get? (see figure)
+
+**Answer:** D
+[[src_kangourou_2022_koala__Q13]]

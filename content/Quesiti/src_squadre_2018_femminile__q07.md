@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q07
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre del numero dopo 2018 inserimenti di 15*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6058
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of numbers after 2018 entries of 15*
+
+> Liela can find Fry. She confides to him that she wants to quit her oppressive job and that her dream is to travel in space. They begin a search to see if there is a descendant of Fry in New York in the year 3000 who can help them and, in fact, it's the scientist Hubert Fredholm, a distant pro-pro-pro-pro-nephew of Fry. The only problem is that a scientist's civic number, in the 3000s, is always masked by a mathematical operation. On the Fredholm file is the series of numbers 16, 1156, 111556, ... obtained by inserting the number 15 among the digits of the previous number. If n is the number obtained after the 2018th entry and ( ) S m is the sum of the digits of the number m, then the citizen of Fredholm is ( ) S n.
+
+**Answer:** 6058
+[[src_squadre_2018_femminile__Q07]]

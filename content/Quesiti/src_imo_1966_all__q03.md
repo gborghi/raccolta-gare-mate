@@ -1,6 +1,7 @@
 ---
 title: IMO 1966 (Eighth International Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1966_all__Q03
 parent: src_imo_1966_all
 competition: IMO 1966 (Eighth International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *center minimizes sum of vertex distances*
 
@@ -35,3 +38,13 @@ tags:
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*center minimizes sum of vertex distances*
+
+> Demonstrate that the sum of the distances of the vertices of a regular tetrahedron from the center of its circumscribed sphere is less than the sum of the distances of those vertices from any other point in space.
+
+[[src_imo_1966_all__Q03]]

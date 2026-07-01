@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_pubblico__Q18
 parent: src_gas_2009_pubblico
 competition: Gara a Squadre 2009 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tangente angolo da uguaglianza potenze rispetto a due cerchi*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0009
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tangent angle of equal power with respect to two circles*
+
+> Strange geometries [70] Riemandell's main square has two circular fountains: a large A-center and a small
+> 
+> I'm going to pay. 4 out of 4  Team competition 2009  Public competition  Tests of B-center problems. Morry and Polino are respectively in points M and P and note that the points in which they are located have a peculiarity: if you calculate the difference between the squares of the lengths of the tangents conducting to the two circles, you find the same number for both gobbits. They also note that the angles [ MAB, [ MBA] measure 60 and 30 degrees respectively and the tangent of d PAB is 12/5. How much is the tangent of the angle of PBA? (As a result, provide the sum of the numerator and denominator of the reduced fraction to the minimum terms.)
+
+**Answer:** 0009
+[[src_gas_2009_pubblico__Q18]]

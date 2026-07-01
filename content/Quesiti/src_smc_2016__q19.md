@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2016 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2016__Q19
 parent: src_smc_2016
 competition: Senior Mathematical Challenge 2016
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *S is a set of five different positive integers, largest m. No quadrilateral with non-zero area has all side-lengths distinct elements of S. Find smallest possible m.*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*S è un insieme di cinque diversi integri positivi, il più grande m. Nessun quadrilaterale con superficie non zero ha tutte le lunghezze laterali elementi distinti di S. Trova il minimo possibile m.*
+
+> $S$ sia un insieme di cinque diversi integri positivi, il più grande dei quali è $m$. È impossibile costruire un quadrilaterale con superficie non zero le cui lunghezze laterali sono tutti elementi distinti di $S$. Qual è il minimo valore possibile di $m$?
+>
+> - **(A)** 2
+> - **(B)** 4
+> - **(C)** 9
+> - **(D)** 11
+> - **(E)** 12
+
+**Risposta:** D
+[[src_smc_2016__Q19]]

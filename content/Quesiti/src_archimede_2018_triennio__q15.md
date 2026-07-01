@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Triennio (T1) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_triennio__Q15
 parent: src_archimede_2018_triennio
 competition: Giochi di Archimede 2018 - Triennio (T1)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Casella del numero 2018 in griglia senza multipli di 11*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*2018 number box in grid without multiples of 11*
+
+![[src_archimede_2018_triennio__prob15.png]]
+
+> Giulia writes positive integers in a grid with 7 columns, as shown in the figure. Since he hates the number 11, his list lacks all the multiples of 11. Let's use (m;n) to indicate the box in the row number m (counting from the top) and column number n (counting from the left): for example, box (2; 4) contains the number 12. In which box will the 2018 issue be included?
+>
+> - **(A)** (289; 2)
+> - **(B)** (263; 1)
+> - **(C)** (278; 5)
+> - **(D)** (262; 4)
+> - **(E)** (288; 2) 1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 23 24 25 ... ... ... ... ... ... ... ... ... ...
+
+**Answer:** B
+[[src_archimede_2018_triennio__Q15]]

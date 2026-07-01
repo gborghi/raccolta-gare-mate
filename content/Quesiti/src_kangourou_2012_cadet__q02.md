@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q02
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tra quanti minuti la lancetta sara a Nord-Ovest*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+In a few minutes, the launch will be in the northwest.
+
+> A traditional clock is placed on a table with the dial facing up. Now his minute-run is pointed exactly northeast. In how many minutes will this launch be directed for the first time exactly Northwest? A) 45 B) 40 C) 30 D) 20 E) 15
+
+**Answer:** A
+[[src_kangourou_2012_cadet__Q02]]

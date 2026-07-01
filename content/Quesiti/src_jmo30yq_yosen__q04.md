@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo30yq_yosen__Q04
 parent: src_jmo30yq_yosen
 competition: Japan Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers n where digit sums of n^2 and n^3 are each 1 to 8*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 24
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contate i numeri interi positivi n dove le somme digitali di n^2 e n^3 sono ciascuna da 1 a 8*
+
+> Trova il numero di interi positivi $n$ in modo tale che la somma digitali di $n^2$ e la somma digitali di $n^3$ si trovino ciascuna in $\{1, 2, 3, 4, 5, 6, 7, 8\}$ (cioè\ entrambe le somme digitali sono tra $1$ e $8$ incluse).
+
+**Risposta:** 24
+[[src_jmo30yq_yosen__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo16yq_yosen__Q11
 parent: src_jmo16yq_yosen
 competition: Japan Mathematical Olympiad 2006 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum constant c for functional inequality involving f(x,y) on unit square*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\dfrac{1}{3\sqrt{3}}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la costante minima c per le disuguaglianze funzionali che coinvolgono f ((x,y) sul quadrato unitario*
+
+> Per i numeri reali $x, y$ con $0 \le x, y \le 1$, definire $$f(x, y) = xy\sqrt{1 - x^2} - x^2 y\sqrt{1 - y^2}.$$ Trovare la costante minima $c$ tale che: per ogni intero $n \ge 2$ e per ogni numero reale $0 \le a_1 < a_2 < \cdots < a_n \le 1$, $$f(a_1, a_2) + f(a_2, a_3) + \cdots + f(a_{n-1}, a_n) < c.$$
+
+**Risposta:** $\dfrac{1}{3\sqrt{3}}$
+[[src_jmo16yq_yosen__Q11]]

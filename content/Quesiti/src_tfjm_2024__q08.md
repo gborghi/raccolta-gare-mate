@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2024__Q08
 parent: src_tfjm_2024
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Game creation: number N cards 1..N so that each authorized/forbidden pair is decided by reading the manual page indexed by the sum (or GCD, LCM, product) of the two card numbers; characterize admissible configurations and find the minimal M (>=N) making every configuration M-admissible.*
 
@@ -74,3 +77,37 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Creazione di gioco: numero N carte 1..N in modo che ogni coppia autorizzata/proibita venga decisa leggendo la pagina manuale indicizzata dalla somma (o GCD, LCM, prodotto) dei due numeri di carte; caratterizzare le configurazioni ammissibili e trovare la minima M (>=N) che rende ogni configurazione M-ammissibile.*
+
+> Anaïs vuole creare un gioco da tavolo. Questo gioco richiede carte di numerazione con determinati vincoli. Il gioco è costituito da carte, ciascuna carta con un numero compreso tra $1$ e $N \ge 2$ e possibilmente un simbolo (distinto), insieme a un manuale di regole. Ogni coppia di simboli (distinti) è $\textbf{authorized}$ o $\textbf{forbidden}$. Uno chiama $\textbf{configuration}$ l'insieme di coppie autorizzate.
+> 
+> Anaïs vuole che i giocatori sappiano esattamente quali coppie sono autorizzate, ma invece di fornire l'elenco esaustivo delle coppie autorizzate, procede come segue: scrive su ogni carta un numero diverso tra $1$ e $N$ e fornisce ai giocatori un manuale di regole. Per conoscere lo stato di una coppia, basta che i giocatori aggiungano i numeri scritti sulle due carte e guardano la pagina corrispondente del manuale. È possibile che alcuni numeri di pagina non siano raggiungibili come una somma di numeri di carta. In tal caso, ciò che è scritto su di loro non importa.
+> 
+> Una configurazione è $\textbf{admissible}$ se per Anaïs è possibile eseguire la costruzione precedente, cioè numerare le carte e creare il corrispondente manuale.
+> 
+> Un esempio con $N = 5$ è il seguente: il gioco ha le carte $5$ $A$, $B$, $C$, $D$, $E$ e le uniche coppie autorizzate sono $(A, D)$ e $(C, D)$. Questa configurazione è ammissibile, poiché Anaïs può fare la seguente costruzione: attribuisce alle carte $A$, $B$, $C$, $D$, $E$ i numeri $3$, $5$, $2$, $1$, $4$ rispettivamente, e scrive "autorizzato" sulle pagine $3$ e $4$ del suo manuale e "proibito" sulle altre pagine.
+> 
+> $\textbf{1.}$ Per quale $N$ è ammissibile ogni configurazione?
+> 
+> Per le quali è ammissibile ogni configurazione tra quelle per le quali: a) ogni carta appartiene ad almeno una coppia autorizzata? b) ciascuna carta appartiene ad un paio autorizzato? c) ciascuna carta appartiene ad un massimo di due coppie autorizzate?
+> 
+> $\textbf{3.}$ Ripeti le domande $\textbf{1.}$ e $\textbf{2.}$ se, invece di sommare le carte, i giocatori calcolano il loro GCD.
+> 
+> $\textbf{4.}$ Ripeti le domande $\textbf{1.}$ e $\textbf{2.}$ se, invece di sommare le carte, i giocatori calcolano il loro LCM (il manuale ha quindi pagine $N^2$).
+> 
+> $\textbf{5.}$ Ripeti le domande $\textbf{1.}$ e $\textbf{2.}$ se, invece di sommare le carte, i giocatori calcolano il loro prodotto (il manuale ha quindi pagine $N^2$).
+> 
+> Per poter costruire il suo gioco qualunque cosa accada, Anaïs si permette di numerare le carte con numeri distinti in coppia da $1$ a $M$ con $M \ge N$. Una configurazione per la quale Anaïs può costruire una tale numerazione e un manuale associato è detta $M$-$\textbf{admissible}$.
+> 
+> $\textbf{6.}$ Estimare, come funzione di $N$, il minimo $M$ per il quale ogni configurazione è $M$ ammissibile. Fornire esempi di configurazioni per le quali si può calcolare il minimo $M$ per il quale sono $M$ ammissibili. Si interesseranno le varie modalità di combinazione delle carte (somma, GCD, ...).
+> 
+> < MSK0/> Proporre e studiare altre vie di ricerca.
+
+![[src_tfjm_2024__Q08.png]]
+
+[[src_tfjm_2024__Q08]]

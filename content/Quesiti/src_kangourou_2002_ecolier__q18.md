@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_ecolier__Q18
 parent: src_kangourou_2002_ecolier
 competition: Kangourou 2002 - Ecolier (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti del tunnel non usati nella piramide*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tunnel cubes not used in pyramid*
+
+![[src_kangourou_2002_ecolier__prob18.png]]
+
+> Roberta builds a tunnel using only identical cubes between them (fig. 1). When she is tired of that construction, she dismantles the tunnel and builds a pyramid (fig. 2). How many cubes were used in the tunnel that weren't used to build the pyramid?
+>  
+> A. 34 B. 29 C. 22 D. 18 E. 15
+
+**Answer:** D
+[[src_kangourou_2002_ecolier__Q18]]

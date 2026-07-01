@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2002 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2002__Q11
 parent: src_cn_cmc_2002
 competition: China Mathematical Competition 2002
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum value of |x|-|y| given logarithmic constraint*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\sqrt{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*valore minimo di <x di- di- di- di- di- di di- di- di logaritmico di*
+
+> Se $\log|x + 2y| + \log|x - 2y| = 1$, il valore minimo di $|x| - |y|$ è \underline{\quad}.
+
+**Risposta:** $\sqrt{3}$
+[[src_cn_cmc_2002__Q11]]

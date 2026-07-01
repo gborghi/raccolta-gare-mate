@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q16
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *prima vera incontrata*
 
@@ -45,3 +48,21 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>first actual encounter< MSK1/>
+
+> If one reads the following five statements in the given order, i.e. starting with A), what is the first true statement one encounters? A) C) is true
+> 	
+> B) A) is true
+> 	
+> C) E) is false D) B) is false
+> 	
+> E) “1 + 1 = 2”
+>
+
+**Answer:** D
+[[src_kangourou_2015_marzo_student__Q16]]

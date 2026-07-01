@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f3__Q02
 parent: src_obm_2003_n3_f3
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest k so k subsets cover S via signed unions*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Le sottogruppe minori di k so k coprono S tramite sindacati firmati< MSK1/>
+
+> Il $S$ deve essere un insieme di elementi $n$. Trova il numero intero positivo $k$ con la seguente proprietà: data qualsiasi $k$ sottogruppo distinto $A_1, A_2, \ldots, A_k$ di $S$, esiste una scelta appropriata dei segni $+$ e $-$ in modo tale che $$S = A_1^{\pm} \cup A_2^{\pm} \cup \cdots \cup A_k^{\pm},$$, dove $A_i^{+} = A_i$ e $A_i^{-} = S \setminus A_i$ sono il complemento di $A_i$ rispetto a $S$.
+
+[[src_obm_2003_n3_f3__Q02]]

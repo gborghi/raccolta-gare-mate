@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_a__Q16
 parent: src_cesenatico_2011_semifinale_a
 competition: Gara a Squadre Cesenatico 2011 - Semifinale A
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero soluzioni intere di |x|+2|y|=4022*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8044
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of whole solutions of ∆x ∆+2 ∆y ∆=4022
+
+> Another adventure is over and the village is unmistakably gathering for the traditional banquet. The number of wild boars our greedy Gallic friends have slaughtered is equal to the number of whole solutions to the equation ≠ ≠ ≠ ≠ ≠ 2 ≠ ≠ 4022. How many pigs were needed?
+> 
+> This year's event is the 12th National Team Semi-Final. The problem
+
+**Answer:** 8044
+[[src_cesenatico_2011_semifinale_a__Q16]]

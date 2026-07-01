@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q09
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti candidati possono gia escludere l'elezione*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many candidates can already opt out of the election*
+
+> In an assembly, the president is elected from among five candidates. Each voter has only one vote available. When 90% of the votes were scrutinized the result was as follows: Ada got 14 votes, Bruno 11, Carla 10, Diana 8 and Enrico 2. How many of these five candidates can already deduce that they will not be elected president? A) 1
+>   
+> B) 2
+>   
+> C) 3
+>   
+> D) 4
+>   
+> E) 5
+
+**Answer:** B
+[[src_kangourou_2022_junior_gara__Q09]]

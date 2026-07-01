@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo31yq_yosen__Q05
 parent: src_jmo31yq_yosen
 competition: Japan Mathematical Olympiad 2021 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pack four kinds of L-tetracube blocks into a 2x2x4 box*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 379
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Imballare quattro tipi di blocchi di L-tetracube in una scatola 2x2x4< MSK1/>
+
+> Come mostrato nella figura di seguito, ci sono tipi di blocchi $4$, ognuno formato da cubetti unitari $4$ di lunghezza di bordo $1$. Quanti modi ci sono per inserire $4$ tali blocchi in una scatola rettangolare $2\times 2\times 4$ in modo che nulla salga fuori? Blocchi dello stesso tipo possono essere utilizzati più volte e blocchi possono essere inseriti dopo la rotazione. I posizionamenti che coincidono sotto una rotazione dell'intera scatola sono contati come distinti.
+
+![[src_jmo31yq_yosen__Q05.png]]
+
+**Risposta:** 379
+[[src_jmo31yq_yosen__Q05]]

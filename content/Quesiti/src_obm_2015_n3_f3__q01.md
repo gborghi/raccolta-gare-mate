@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f3__Q01
 parent: src_obm_2015_n3_f3
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Collinearity of A, D, N iff angle BAC = 45 degrees*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Collinearità di A, D, N se angolo BAC = 45 gradi< MSK1/>
+
+> Che $ABC$ sia un triangolo acuto scaleno e $N$ il centro del cerchio che attraversa i piedi delle tre altitudini del triangolo. $D$ è l'intersezione delle linee tangenti al circoncircolo di $ABC$ a $B$ e $C$. Provare che $A$, $D$ e $N$ sono collineari se e solo se $\angle BAC = 45^\circ$.
+
+[[src_obm_2015_n3_f3__Q01]]

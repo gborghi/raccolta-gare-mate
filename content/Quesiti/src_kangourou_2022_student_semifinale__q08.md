@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Semifinale individuale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q08
 parent: src_kangourou_2022_student_semifinale
 competition: Kangourou 2022 Student — Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *per quanti a1 è costante*
 
@@ -56,3 +59,27 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> for how many times a1 is constant< MSK1/>
+
+> (5 points) A sequence {a1, a2, a3, ...} of real numbers is defined inductively as follows: an+1 = an2 an2−2022 an+1 for n = 1, 2, ... . For how many values of a1 is succession constant?
+>  
+> (A) Infinite
+>  
+> B) 4
+>  
+> C) 3
+>  
+> D) 2
+>  
+> E) 1
+>  
+>  
+> K
+
+**Answer:** C
+[[src_kangourou_2022_student_semifinale__Q08]]

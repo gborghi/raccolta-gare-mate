@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q20
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum colors to paint 3x3 grid with no row/column/diagonal repeat*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Colori minimi per dipingere la griglia 3x3 senza ripetizione di righe/colonne/diagonali*
+
+> Le nove celle di una scheda $3 \times 3$ devono essere dipinte in modo che non appaiano due celle dello stesso colore nella stessa colonna, nella stessa riga o in una delle due diagonali principali. Qual è il numero minimo di colori richiesti?
+> 
+> A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
+
+**Risposta:** B
+[[src_obm_2005_n1_f1__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1976 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1976_r3__Q02
 parent: src_pol_1976_r3
 competition: Olimpiade Matematica Polacca 1976 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four sequences satisfy coupled recurrences; given periodicity for some k, prove the second terms vanish.*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PxGC28sBLT0pD-IOjDgoTvfc9tTCy6v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro sequenze soddisfano ricorrenze accoppiate; data la periodicità per alcuni k, dimostrano che i secondi termini scompaiono.*
+
+> Quattro sequenze di numeri reali $(a_n)$, $(b_n)$, $(c_n)$, $(d_n)$ soddisfano per tutti $n$, $$a_{n+1}=a_n+b_n,\quad b_{n+1}=b_n+c_n,$$ $$c_{n+1}=c_n+d_n,\quad d_{n+1}=d_n+a_n.$$ Prove che se $a_{k+m}=a_m$, $b_{k+m}=b_m$, $c_{k+m}=c_m$, $d_{k+m}=d_m$ per alcuni $k\ge 1$, $n\ge 1$, allora $a_2=b_2=c_2=d_2=0$.
+
+[[src_pol_1976_r3__Q02]]

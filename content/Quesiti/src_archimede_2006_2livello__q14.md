@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_2livello__Q14
 parent: src_archimede_2006_2livello
 competition: Archimede Gara 2° livello 2006 (biennio/triennio)
@@ -29,6 +30,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo fra spigoli non complanari di piramide a base quadrata*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 120
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Angle between non-planar spikes of square base pyramid*
+
+> A square-base pyramid has the base side length √ 3 and all of the lateral faces are length √ 2. How many degrees does the angle between two rods not on the same side measure?
+
+**Answer:** 120
+[[src_archimede_2006_2livello__Q14]]

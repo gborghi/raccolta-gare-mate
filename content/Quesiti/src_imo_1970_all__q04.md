@@ -1,6 +1,7 @@
 ---
 title: IMO 1970 (Twelfth International Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1970_all__Q04
 parent: src_imo_1970_all
 competition: IMO 1970 (Twelfth International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find n where six consecutive integers split into equal products*
 
@@ -33,3 +36,13 @@ tags:
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Find n where six consecutive integers split into equal products< MSK1/>
+
+> Find the set of all positive integers $n$ with the property that the set $\{n, n+1, n+2, n+3, n+4, n+5\}$ can be divided into two subsets such that the product of the numbers in one subset is equal to the product of the numbers in the other subset.
+
+[[src_imo_1970_all__Q04]]

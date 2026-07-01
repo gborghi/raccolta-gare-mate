@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2003 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2003__Q03
 parent: src_cn_cmo_2003
 competition: China Mathematical Olympiad 2003
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum lambda for sum of cosines given product of tangents constraint*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** n-1
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il lambda minimo per la somma dei cosini dato il prodotto della restrizione di tangenti*
+
+> Data un numero intero positivo $n$, trovare il valore minimo $\lambda$ tale che $\cos\theta_1 + \cos\theta_2 + \cdots + \cos\theta_n < \lambda$ sia valido ogni volta che $\tan\theta_1 \cdot \tan\theta_2 \cdots \tan\theta_n = 2^{\frac{n}{2}}$ per qualsiasi $\theta_i \in \left(0, \frac{\pi}{2}\right)$, $i = 1, 2, \ldots, n$. (Posizionato da Huang Yumin)
+
+**Risposta:** n-1
+[[src_cn_cmo_2003__Q03]]

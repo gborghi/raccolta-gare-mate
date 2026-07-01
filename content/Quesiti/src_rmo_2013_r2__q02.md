@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r2__Q02
 parent: src_rmo_2013_r2
 competition: Regional Mathematical Olympiad 2013
@@ -31,6 +32,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with altitude, circumcenter, and tangent collinearity*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uqSSojdtAvGG1PLqgEhOlUA-N31qYiRK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con altitudine, circoncentro e collinearietà tangente*
+
+> In un triangolo $ABC$, $AD$ è l'altitudine da $A$ a $BC$ e $H$ è l'ortocentro. Il $K$ deve essere il centro del cerchio che attraversa $D$ e tangente a $BH$ al punto $H$. Provare che $DK$ bisecta $AC$.
+
+[[src_rmo_2013_r2__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q07
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Self-referential product of vowel-count and consonant-count of the correct option*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prodotto autoreferenziale del conteggio vocale e consonante dell'opzione corretta*
+
+> Qual è il prodotto della quantità di vocali per la quantità di consonanti nell'alternativa corretta? (Non considerare le lettere A, B, C, D, E delle alternative nel conto.)
+> 
+> (A) Vinte e quattro. Quad (B) Trinta e sei. Quarenta e due. Quarenta e otto. Quad (E) Cinquanta e sei. (Piccento sei.)
+
+[[src_obm_2011_n2_f1__Q07]]

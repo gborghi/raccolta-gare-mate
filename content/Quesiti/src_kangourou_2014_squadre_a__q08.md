@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q08
 parent: src_kangourou_2014_squadre_a
 competition: Kangourou Coppa Squadre 2014 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante cifre 0 nel quoziente R(25)/R(5)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 16
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many digits 0 in the coefficient R(25)/R(5) *
+
+> How many digits of zero? Let's denote with R(k) the positive integer whose writing consists of exactly k digits all equal to 1 (e.g., R(3) = 111). The quotient R(25)/R(5) is an integer: how many of its digits are equal to 0?
+
+**Answer:** 16
+[[src_kangourou_2014_squadre_a__Q08]]

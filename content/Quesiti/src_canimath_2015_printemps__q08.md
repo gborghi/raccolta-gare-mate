@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2015 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2015_printemps__Q08
 parent: src_canimath_2015_printemps
 competition: Coupe Animath Printemps 2015
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Primes p,q,r; pq+1, pr+1, qr-p squares; prove p+2qr+2 is also a square*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prima p,q,r; pq+1, pr+1, qr-p quadrati; prova che p+2qr+2 è anche un quadrato*
+
+> Lasciate che $p$, $q$, $r$ siano numeri primi in modo tale che ciascuno dei tre numeri $pq + 1$, $pr + 1$ e $qr - p$ sia un quadrato perfetto. Prova che $p + 2qr + 2$ è anche un quadrato perfetto.
+
+[[src_canimath_2015_printemps__Q08]]

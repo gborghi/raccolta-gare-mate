@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q17
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum sum of squares of two naturals whose difference is 29*
 
@@ -55,3 +58,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum somma dei quadrati di due naturali la cui differenza è di 29*
+
+> Di due numeri naturali la cui differenza è di 29, il valore minimo della somma dei loro quadrati è:
+>
+> - **(A)** 785
+> - **(B)** 733
+> - **(C)** 647
+> - **(D)** 421
+> - **(E)** 334
+
+**Risposta:** A
+[[src_obm_2000_n3_f1__Q17]]

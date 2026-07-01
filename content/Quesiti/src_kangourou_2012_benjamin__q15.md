@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q15
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della figura di otto quadrati dato il perimetro 42*
 
@@ -78,3 +81,33 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Figure area of eight squares given the perimeter 42*
+
+![[src_kangourou_2012_benjamin__prob15.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw[thick] (1,2) rectangle (2,3);
+  \draw[thick] (2,2) rectangle (3,3);
+  \draw[thick] (0,1) rectangle (1,2);
+  \draw[thick] (1,1) rectangle (2,2);
+  \draw[thick] (2,1) rectangle (3,2);
+  \draw[thick] (3,1) rectangle (4,2);
+  \draw[thick] (1,0) rectangle (2,1);
+  \draw[thick] (2,0) rectangle (3,1);
+\end{tikzpicture}
+\end{document}
+```
+
+> The figure you see is constructed from eight identical squares; its perimeter is 42 cm. How many square centimeters does it cover? A) 8 B) 9 C) 24 D) 72 E) 128 1 2 3 4 5 6 D D D A B D
+> 
+> I'm going to pay. I'm going to pay. 13 13 Kang 2012 Kang 2012
+
+**Answer:** D
+[[src_kangourou_2012_benjamin__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2003 - Triennio — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_triennio__Q25
 parent: src_archimede_2003_triennio
 competition: Giochi di Archimede 2003 - Triennio
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume piramide da altezze ortogonali sullo spigolo VA*
 
@@ -47,3 +50,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of pyramid with orthogonal heights on the VA shaft*
+
+> On the ABC triangle a pyramid of V vertices and ABC base is built. P is a point on the V-axis such that BP and CP are orthogonal to each other and are heights of the BAV and CAV triangles respectively . Knowing that P divides V A into two segments of length 1 cm and 2 cm and that BP and CP heights are 3 cm and 4 cm respectively, determine the volume (in cm3) of the pyramid.
+>
+> - **(A)** Data are not sufficient to calculate volume
+> - **(B)** 6
+> - **(C)** 9
+> - **(D)** 12
+> - **(E)** There's no such pyramid.
+
+[[src_archimede_2003_triennio__Q25]]

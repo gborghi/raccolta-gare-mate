@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo25yq_yosen__Q06
 parent: src_jmo25yq_yosen
 competition: Japan Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum a+b+c for positive integers satisfying four GCD conditions*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 30
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1puWzUo8OLdW2kCIHzGHhZaVauCRdH9Ya/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il minimo a+b+c per i numeri interi positivi che soddisfano quattro condizioni GCD*
+
+> I numeri interi positivi $a, b, c$ soddisfano tutte e quattro le seguenti condizioni: \begin{itemize} \item $\gcd(a, b, c) = 1$, \item $\gcd(a, b) + c > 1$, \item $\gcd(b, c) + a > 1$, \item $\gcd(c, a) + b > 1$. \end{itemize} Trova il valore minimo di $a + b + c$.
+
+**Risposta:** 30
+[[src_jmo25yq_yosen__Q06]]

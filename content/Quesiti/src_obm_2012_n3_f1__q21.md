@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f1__Q21
 parent: src_obm_2012_n3_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest power of 2 dividing 2011^2012 - 1*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Migliore potenza di 2 divisione 2011^2012 - 1*
+
+> Qual è la maggiore potenza di 2 che divide $2011^{2012} - 1$?
+> 
+> **A)** 2 $\quad$ **B)** 4 $\quad$ **C)** 8 $\quad$ **D)** 16 $\quad$ **E)** 32
+
+[[src_obm_2012_n3_f1__Q21]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q24
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -30,6 +31,8 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto altezza/raggio di quattro coni tangenti*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4142
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Height/radius ratio of four tangent cones*
+
+> The city of relics The impregnable stronghold of the fraternity of the π-noble rats is built entirely from the wood of the wrecks of sandy ships. The shape is that of four identical cones, resting on a flat ground so that the vertices touch each other, their side surfaces are tangent to the ground on 4 equal and perpendicular segments forming a cross and two adjacent cones have tangent side surfaces. Write the first four digits after the comma of the ratio of the height to the base radius of the cones.
+
+**Answer:** 4142
+[[src_gas_2010_finale__Q24]]

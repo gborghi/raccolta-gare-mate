@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2007 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2007__Q03
 parent: src_cn_csmo_2007
 competition: China Southeastern Mathematical Olympiad 2007
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integers a for which a quadratic has even roots with absolute value less than 1000*
 
@@ -46,3 +49,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggi interi a per i quali un quadratico ha radici pari con valore assoluto inferiore a 1000*
+
+> Quanti integri $a$ soddisfano la condizione: per ogni $a$, l'equazione $x^2 = ax + a + 1$ rispetto a $x$ ha radici pari e $|x| < 1000$?
+
+[[src_cn_csmo_2007__Q03]]

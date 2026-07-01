@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Ecolier 2024 — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier__Q23
 parent: src_kangourou_2024_ecolier
 competition: Kangourou Categoria Ecolier 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale insieme di dolcetti e stato preso da una ragazza*
 
@@ -63,3 +66,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What set of candy was taken by a girl?
+
+![[src_kangourou_2024_ecolier__prob23.png]]
+
+> Three girls came one after another to the tray you see in the picture to get candy. We don't know in what order they arrived at the tray, but we do know that • one of the girls took all the hearts she found on the tray and nothing else; • another took all the white candy she found on the tray and nothing else; • another took all the big candy she found on the tray and nothing else. The end result is that one girl took three candy bars, one took six and one took seven. Which of the following sets of candy was taken by one of the girls? A)
+> 	
+> 	
+> B)
+> 	
+> 	
+> C) D)
+> 	
+> 	
+> E)
+
+**Answer:** E
+[[src_kangourou_2024_ecolier__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q21
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest and largest possible class average given means of the 10 worst (3) and 10 best (9) of 30 grades.*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La media di classe più piccola e più grande possibile data dalla media delle 10 classi peggiori (3) e 10 migliori (9) di 30 classi.*
+
+> In una prova per una classe di 30 studenti, la media aritmetica dei 10 voti peggiori è di 3 e la media aritmetica dei 10 voti migliori è di 9. Il valore più piccolo possibile e il valore più grande possibile per la media aritmetica dei gradi della classe sono rispettivamente:
+> 
+> A) 6 e 7 B) 5 e 7 C) 4 e 6 D) 3 e 9 E) 4 e 8
+
+[[src_obm_2004_n3_f1__Q21]]

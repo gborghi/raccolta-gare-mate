@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre finale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q12
 parent: src_kangourou_2011_squadre_finale
 competition: Kangourou 2011 squadre finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta di nonno Angelo con condizioni di multipli*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 61
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13507kQgtd5A0hh0IwUZH9QyAEafhU_bz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Eta of grandfather Angelo with conditions of multiples< MSK1/>
+
+> Angelo Nonno Angelo, who is not yet centenarian, today says: My age (expressed by an integer number of years) in a year will be a multiple of 2, in two years a multiple of 3, in three years a multiple of 4, in four years a multiple of 5. How old is Grandpa Angelo today?
+
+**Answer:** 61
+[[src_kangourou_2011_squadre_finale__Q12]]

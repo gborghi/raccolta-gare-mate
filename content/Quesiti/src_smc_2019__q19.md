@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q19
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -33,6 +34,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify which graph could be y^2 = sin(x^2)*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare quale grafico potrebbe essere y^2 = sin(x^2)*
+
+> Quale dei seguenti potrebbe essere il grafico di $y^2 = \sin(x^2)$?
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
+
+![[src_smc_2019__Q19.png]]
+
+**Risposta:** A
+[[src_smc_2019__Q19]]

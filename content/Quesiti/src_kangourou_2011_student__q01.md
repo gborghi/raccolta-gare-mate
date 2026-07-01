@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q01
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri sui vertici di esagono con somme uguali per lato*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers on the hexagonal vertices with equal sums per side*
+
+> In a theater there are 100 spectators: 50 of them are Italians, 60 are men, 90 are vegetarians. How many spectators in that theater can you be sure of being Italian, male and vegetarian at the same time? A) 0 B) 1 C) 10 D) 40 E) 50
+
+[[src_kangourou_2011_student__Q01]]

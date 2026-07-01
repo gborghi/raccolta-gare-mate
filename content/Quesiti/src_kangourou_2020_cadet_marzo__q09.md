@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q09
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ore del viaggio a piedi dati viaggi misti*
 
@@ -48,3 +51,23 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Walk time data for mixed journeys< MSK1/>
+
+> When John goes to school by public transport and returns home on foot, his round trip takes 3 hours; when he goes back and forth by public transport, the trip takes 1 hour. How many hours would that journey take if John walked (and always at the same pace) on both occasions? A) Three and a half
+> 	
+> B) 4
+> 	
+> C) 4 and a half
+> 	
+> D) 5
+> 	
+> 	
+> E) 5 and a half
+
+**Answer:** D
+[[src_kangourou_2020_cadet_marzo__Q09]]

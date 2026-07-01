@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f2__Q02
 parent: src_obm_2009_n2_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max value of ab+bc+cd+da for a,b,c,d a permutation of 1,2,3,4*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valore massimo di ab+bc+cd+da per a,b,c,d con una permutazione di 1,2,3,4*
+
+> Se $a$, $b$, $c$ e $d$ sono, in un certo ordine, i numeri $1$, $2$, $3$ e $4$, quale è il più grande valore possibile di $$ab + bc + cd + da?$$
+
+[[src_obm_2009_n2_f2__Q02]]

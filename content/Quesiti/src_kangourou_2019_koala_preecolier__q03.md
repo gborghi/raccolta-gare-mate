@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q03
 parent: src_kangourou_2019_koala_preecolier
 competition: Kangourou 2019 Koala n.6 Pre-Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale pezzo puo essere ritagliato dalla griglia*
 
@@ -45,3 +48,25 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What part can be cut from the grille*
+
+![[src_kangourou_2019_koala_preecolier__prob3.png]]
+
+> Catherine cut a piece of this grid.
+>
+> (see figure)
+>
+> Which one of these could be the piece he cut?
+>
+> - **(A)** Triangle and square
+> - **(B)** Inverted triangle and circle
+> - **(C)** star and left-facing triangle
+> - **(D)** Star and rope
+> - **(E)** square and circle
+
+[[src_kangourou_2019_koala_preecolier__Q03]]

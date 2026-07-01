@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q14
 parent: src_cesenatico_2011_pubblico
 competition: Gara a Squadre Cesenatico 2011 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza sfoglia avvolta sul mattarello*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0330
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Wrapped length of bulge on the mattress< MSK1/>
+
+> A teacher in the kitchen [35] Bonferrina, the wife of the village chief, when she has to prepare the outing for the big banquet always drinks a little magic potion. Thanks to its magical effect, it is thus able to stretch it evenly with a thickness of 0.1 mm. After laying it down, he wraps it over his beloved mattress so that he can carry it comfortably to the village oven. Knowing that the paste makes a whole number of turns around the matrix, that the diameter of this roll is 65 cm and that initially the diameter of the matrix was 4 cm, find out how long the fold is in decameters.
+
+**Answer:** 0330
+[[src_cesenatico_2011_pubblico__Q14]]

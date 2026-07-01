@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_b__Q06
 parent: src_cesenatico_2011_semifinale_b
 competition: Gara a Squadre Cesenatico 2011 - Semifinale B
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Allineare 9 soldati con somme vicine multiple di 3*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2880
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Line up 9 soldiers with close sums multiple of 3
+
+> You're not going through! Defense is one of the strengths of the Roman army. To organize a line of defense the commander of the legion aligns the soldiers based on their experience in the field. Each soldier's experience is quantified by an integer between 1 and 40. Julius Caesar is an expert in organizing the lines of defence and uses a secret technique that guarantees him a certain success: an effective line of defence is composed of soldiers aligned so that the sum of the experiences of two soldiers between each other is always multiple by 3. In attacking Gaul, Julius Caesar has soldiers with the following experiences: 4, 10, 11, 14, 16, 23, 25, 32, 34. How many ways can Julius Caesar organize an effective line of defense that uses all nine soldiers available? Team competition 2011  Semifinal B  Problem tests  1/1
+> 
+> 2/1 Team competition 2011  Semifinal B  Problem tests
+
+**Answer:** 2880
+[[src_cesenatico_2011_semifinale_b__Q06]]

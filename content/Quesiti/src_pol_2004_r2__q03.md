@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r2__Q03
 parent: src_pol_2004_r2
 competition: Olimpiade Matematica Polacca 2004 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequences of 1 and -1 with multiplicative and density properties*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qs-4pQENG-aSe6lLcgW99_sE-sF3wP__/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenze di 1 e -1 con proprietà moltiplicative e densità*
+
+> Determinare tutte le sequenze $a_1, a_2, a_3, \ldots$ di $1$ e $-1$ che soddisfano l'uguaglianza $$a_{mn} = a_m a_n$$ per tutte le $m, n$ e che hanno la proprietà: tra i tre termini successivi $a_n, a_{n+1}, a_{n+2}$, si verificano sia $1$ che $-1$.
+
+[[src_pol_2004_r2__Q03]]

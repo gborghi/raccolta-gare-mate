@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f2__Q08
 parent: src_obm_2004_n2_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Paper folding: find segment AB' and side AD*
 
@@ -50,3 +53,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rDWi4aChRBskadFdiGfO9ekGjbo_vFkU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Piegamento di carta: trovare segmento AB' e lato AD*
+
+> **Problema 3** (parte B)
+> 
+> Un foglio rettangolare di carta $ABCD$ è stato piegato in modo che il vertice $B$ sia portato a un punto $B'$ sul lato $AD$. La linea pieghevole è $EF$, con $E$ sul lato $AB$ e $F$ sul lato $CD$.
+> 
+> È noto che $AE = 8$, $BE = 17$ e $CF = 3$.
+> 
+> (a) Trovare la lunghezza del segmento $AB'$. b) Trova la lunghezza del lato < MSK1/>.
+
+[[src_obm_2004_n2_f2__Q08]]

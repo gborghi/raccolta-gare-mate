@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q22
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo autocarri per 50 scatole*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum trucks for 50 boxes< MSK1/>
+
+> We have to transport 50 boxes at the same time using trucks weighing 1,200 kilograms each. The first weighs 150 kg, the second 151 kg, the third 152 kg and so on until the last weighs 199 kg. What is the minimum number of trucks sufficient to carry out the transport?
+>  
+> A. 9 B. 10 C. 8 D. 7 E. 6
+
+**Answer:** C
+[[src_kangourou_2002_junior__Q22]]

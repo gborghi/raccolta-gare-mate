@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2022 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_printemps__Q12
 parent: src_canimath_2022_printemps
 competition: Coupe Animath Printemps 2022
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle, two angle bisectors, prove an angle equality*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles, due bisettori angolari, dimostrare un'eguaglianza angolare*
+
+> $ABC$ sia un triangolo a uguale scala a $B$. Il punto di intersezione del bisettore dell'angolo $\widehat{BAC}$ con il segmento $[BC]$ è $D$. Il punto $E$ deve essere il punto del segmento $[AC]$ distinto da $C$ in modo tale che $DE = DC$. Il punto di intersezione del bisector dell'angolo $\widehat{AED}$ con il lato $[AB]$ è $F$. Mostra che < MSK12/>.
+
+[[src_canimath_2022_printemps__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2026 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2026__Q06
 parent: src_inmo_2026
 competition: Indian National Mathematical Olympiad 2026
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two decks of 40 cards play repeated deterministic duels with win/draw/no-interaction rules; prove the maximum time a terminating game can take is 356 hours.*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ffwcPTmw5kJZuKkanVDFlqLhvUS6FxGr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due mazzi di 40 carte giocano duelli deterministici ripetuti con regole di vincita/riguardo/senza interazione; dimostrare che il tempo massimo che può richiedere un gioco di fine è di 356 ore.*
+
+> Due mazzi $\mathcal{A}$ e $\mathcal{B}$ di 40 schede sono posizionati su un tavolo al mezzogiorno. Ogni minuto dopo, scegliamo le prime carte $a \in \mathcal{A}$ e $b \in \mathcal{B}$, ciascuna una carta $b$, il risultato rimane lo stesso ed è indipendente da tutti gli altri duelli. Un duello ha tre possibili risultati: \begin{itemize} \item Se una carta vince, viene riposta in cima al suo mazzo e la carta perdente viene posta in fondo all'altro mazzo. \item Se $a$ e $b$ sono uguali, entrambi vengono rimossi dai rispettivi ponti. \item Se $a$ e $b$ non interagiscono tra loro, entrambi sono posizionati in fondo ai rispettivi ponti. Il processo termina quando entrambi i ponti sono vuoti. Un processo si chiama gioco se termina. Prove che il tempo massimo di una partita è pari a 356 ore.
+
+[[src_inmo_2026__Q06]]

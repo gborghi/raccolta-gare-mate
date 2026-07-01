@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_individuale__Q04
 parent: src_archimede_2001_individuale
 competition: Archimede 2001 - Gara Nazionale Individuale (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *somma a cinque cifre e zeri finali del mcm*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** somma=13999860; mcm termina con 3 zeri
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of five digits and final zeros of the mcm*
+
+> Let's call it monotonous numbers, positive integers such that: - are written using at least two digits; - no digits are zero; - the digits appear in strictly increasing or strictly decreasing order.
+> 
+> (For example, $127$ and $9742$ are monotonous numbers, while $172$, $1224$ and $7320$ are not.)
+> 
+> (a) Calculate the sum of all five-digit monotonous numbers.
+> 
+> (b) Determine how many zeros the common minimum multiple of all monotonous numbers ends with (without restrictions on the number of digits).
+
+**Answer:** somma=13999860; mcm termina con 3 zeri
+[[src_archimede_2001_individuale__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre__Q10
 parent: src_kangourou_2024_ecolier_squadre
 competition: Kangourou Squadre 2024 Ecolier Finale 1
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Grammi peso ogni oggetto nella cassa*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0050
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Grams weight of each item in the box*
+
+> In the box, a metal box contains 500 objects all of the same weight. The weight of the full box is three times the total weight of all items; that of the empty box is 50 kilograms. How many grams does each object weigh? The answer is 0050.
+
+**Answer:** 0050
+[[src_kangourou_2024_ecolier_squadre__Q10]]

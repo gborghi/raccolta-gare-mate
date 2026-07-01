@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo16yq_yosen__Q07
 parent: src_jjmo16yq_yosen
 competition: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of lucky degrees of all 3-digit integers, where lucky degree counts one-digit changes giving multiples of 7*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3328
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kd1TVGSchFgfQoYWGu97jdlpAwS4ecq_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa dei gradi fortunati di tutti i numeri interi a 3 cifre, dove il grado fortunato conta cambiamenti a una cifra dando moltipli di 7*
+
+> Per un intero positivo di $3$-cifre $n$, definire il suo \emph{lucky degree} come il numero di $3$-cifre multipli di $7$ che può essere ottenuto da $n$ modificando esattamente una delle sue cifre (la cifra di centinaia non può essere cambiata a $0$). Per esempio, per $n = 777$, i multipli di $7$ raggiungibili con una modifica a singola cifra sono $770$ e $707$, quindi il grado fortunato di $777$ è $2$. Trova la somma dei gradi fortunati di tutti gli enti da $100$ a $999$.
+
+**Risposta:** 3328
+[[src_jjmo16yq_yosen__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Biennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_biennio__Q17
 parent: src_archimede_2000_biennio
 competition: Giochi di Archimede 2000 - Biennio
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita tre vertici esagono formino triangolo equilatero*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of three vertices exaggerating the shape of an equilateral triangle< MSK1/>
+
+> What is the probability that, if three distinct vertices of a regular hexagon are taken at random, they are the vertices of an equilateral triangle?
+>
+> - **(A)** 1 4
+> - **(B)** 1 8
+> - **(C)** 1 9
+> - **(D)** 1 10
+> - **(E)** 1 20.
+
+**Answer:** D
+[[src_archimede_2000_biennio__Q17]]

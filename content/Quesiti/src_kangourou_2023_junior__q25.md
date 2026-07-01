@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q25
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *durata viaggio*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>duration of the journey< MSK1/>
+
+> When a smartphone's battery is fully charged, it allows you to talk on the phone for 20 hours or surf the Internet for 32 hours; if the smartphone is not used, the battery runs out in 80 hours. Charge consumption is uniform over time. During a trip, I talked for a third of the time, I browsed the internet for another third of the time, and I didn't use my smartphone for the remaining third of the time. The battery was half-charged at the start, and the charge ran out just after the trip. How many hours did the trip take? A) 10
+> 	
+> B) 12
+> 	
+> C) 13
+> 	
+> D) 16
+> 	
+> E) 18
+
+**Answer:** D
+[[src_kangourou_2023_junior__Q25]]

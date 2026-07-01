@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_pubblico__Q14
 parent: src_cesenatico_2013_pubblico
 competition: Gara a Squadre Cesenatico 2013 - Gara del pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo di (a*b)*(c*d) con x*y=x+y-xy*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 9868
 **Fonte:** [apri PDF p.27](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum of (a*b) *(c*d) with x*y=x+y-xy*
+
+> The Divisors of the Knight Root now stand in front of the White Knight, who, resting from battle, meditates on a leaf. Here I wrote all the positive divisors of a certain integer N, including 1 and itself. I'm just going to tell you that there are 606 perfect squares, and exactly 165 numbers that are also divisors of 1014. Ah, and multiples of 5 are odd numbers. How many numbers are on the sheet?
+
+**Answer:** 9868
+[[src_cesenatico_2013_pubblico__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1976 (Eighteenth International Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1976_all__Q04
 parent: src_imo_1976_all
 competition: IMO 1976 (Eighteenth International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Largest product of positive integers summing to 1976*
 
@@ -33,3 +36,13 @@ tags:
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11l0Z3RXDT5mQvc_2OoUC_uxhAD2ME5IA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Largest product of positive integers summing to 1976*
+
+> Determine, with proof, the largest number which is the product of positive integers whose sum is $1976$.
+
+[[src_imo_1976_all__Q04]]

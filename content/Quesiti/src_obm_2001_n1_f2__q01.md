@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f2__Q01
 parent: src_obm_2001_n1_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Total number of dots on all 28 dominoes*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 168
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OU_kkwljknqnKJvISMf5e6JcgwurbdgC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Total numero di punti su tutti i 28 domino*
+
+> Un set di domino è formato da 28 pezzi rettangolari distinti, ciascuno con due parti, ciascuna parte contenente da 0 a 6 punti. Per esempio, ecco tre di questi pezzi (mostrando 0 di 1, 1 di 3 e 4 di 6). Qual è il numero totale di punti su tutti i pezzi?
+
+![[src_obm_2001_n1_f2__Q01.png]]
+
+**Risposta:** 168
+[[src_obm_2001_n1_f2__Q01]]

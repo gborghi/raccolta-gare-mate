@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Junior Finale 2 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_squadre_f2__Q12
 parent: src_kangourou_2022_junior_squadre_f2
 competition: Kangourou Squadre 2022 Junior Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo intero 4 cifre con divisioni per 7 resto 1*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1030
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum whole 4 digits divided by 7 remaining 1*
+
+> Divisions by 7 Imagine that, dividing by 7 a positive integer, you get the remaining 1. If the quotient of this first division is not divisible by 7, imagine that the rest of the division by 7 of this quotient is still 1 and so on until, after a finite number of steps, the quotient is divisible by 7. What's the smallest positive four-digit integer you could have started from?
+
+**Answer:** 1030
+[[src_kangourou_2022_junior_squadre_f2__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f2__Q03
 parent: src_obm_2013_n1_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Join twelve 3×4 plastic rectangles side-to-side to maximize perimeter*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK1/>Unire dodici 3 < MSK0/>4 rettangoli di plastica fianco a fianco per massimizzare il perimetro < MSK2/>
+
+> Jurema ha 12 pezzi rettangolari di plastica, ognuno di cui < MSK0/>. Unisce questi pezzi con lati che coincidono per formare rettangoli più grandi, uno alla volta. Tra tutti i rettangoli che può formare utilizzando tutti i 12 pezzi, si sceglie quello con il più grande perimetro. Qual è questo perimetro, in centimetri?
+
+[[src_obm_2013_n1_f2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2012 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2012__Q05
 parent: src_inmo_2012
 competition: Indian National Mathematical Olympiad 2012
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with cevians satisfying pedal angle conditions must be equilateral*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Yo2mg-kxvVgZBQrmg9vQdyiD2EizSWJt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un triangolo con ceviani che soddisfano le condizioni dell'angolo di pedala deve essere equilaterale*
+
+> Che $ABC$ sia un triangolo a angolo acuto, e che $D$, $E$, $F$ siano punti rispettivamente su $BC$, $CA$, $AB$ in modo tale che $AD$ sia la media, $BE$ sia il bisettore dell'angolo interno e $CF$ sia l'altitudine. Supponiamo $\angle FDE = \angle C$, $\angle DEF = \angle A$ e $\angle EFD = \angle B$. Prove che $ABC$ è equilaterale.
+
+![[src_inmo_2012__Q05.png]]
+
+[[src_inmo_2012__Q05]]

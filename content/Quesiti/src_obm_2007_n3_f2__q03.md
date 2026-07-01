@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f2__Q03
 parent: src_obm_2007_n3_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Digit sum of the integer nearest to the square root of the 1000-digit repunit*
 
@@ -50,3 +53,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zX7z5wzrS24GDIg6SjMeYYN4pu7op9WA/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa digitali del numero intero più vicino alla radice quadrata del repunito di 1000 cifre*
+
+> Considerate il numero $\underbrace{11\ldots1}_{1000\ \text{ones}} = \dfrac{10^{1000} - 1}{9}$ costituito da mille cifre tutte uguali a $1$. Determinare la somma delle cifre del numero intero più vicino a $\sqrt{\underbrace{11\ldots1}_{1000\ \text{ones}}}$.
+
+**Risposta:** 1500
+[[src_obm_2007_n3_f2__Q03]]

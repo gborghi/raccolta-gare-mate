@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Triennio — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_triennio__Q24
 parent: src_archimede_2008_triennio
 competition: Giochi di Archimede 2008 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale volume cono nell'intersezione con cilindro*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage of cone volume at the cylinder intersection*
+
+> C and T are respectively a rectangular cone and a circular cylinder, which have the same axis and have bases in the same plane (and are turned from the same side relative to this plane). The base area of C is 400 < MSK0/> cm2 while the base radius of T is 10 cm. In addition, the heights of C and T both measure 20 cm. What percentage of the volume of C is contained in the intersection between C and T ?
+>
+> - **(A)** 20 √ 2 %,
+> - **(B)** 40 %,
+> - **(C)** 50 %,
+> - **(D)** 60 %,
+> - **(E)** 50 √ 2 %.
+
+**Answer:** C
+[[src_archimede_2008_triennio__Q24]]

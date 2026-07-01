@@ -1,6 +1,7 @@
 ---
 title: Archimede 2003 - Gara Nazionale Individuale (Cesenatico) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_individuale__Q05
 parent: src_archimede_2003_individuale
 competition: Archimede 2003 - Gara Nazionale Individuale (Cesenatico)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *pedine al centro, esistenza configurazioni*
 
@@ -42,3 +45,19 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1z9XJ4zwVGyArw1MyYDhdpDLSa62ucfsX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* foot in the centre, configuration existence*
+
+![[src_archimede_2003_individuale__prob5.png]]
+
+> Given a $m \times n$ grid, ($m, n \ge 1$) a footprint is provided at the centre of each box and one at each top of the grid (in the example shown next to $n = 4$ and $m = 3$ $32$ footprints are provided).
+> 
+> (a) Find all tables that have exactly $500$ footings.
+> 
+> (b) Demonstrate that there are infinite positive integers < MSK0/> such that there are no grids with exactly < MSK1/> footings.
+
+[[src_archimede_2003_individuale__Q05]]

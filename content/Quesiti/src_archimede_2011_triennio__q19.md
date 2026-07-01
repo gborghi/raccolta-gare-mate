@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Triennio — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_triennio__Q19
 parent: src_archimede_2011_triennio
 competition: Giochi di Archimede 2011 - Triennio
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Terne primi minori di 100 con p^2+q^2=r*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Third prime factors of 100 with p^2+q^2=r*
+
+> How many ordered ternes (p, q, r), made up of prime numbers less than 100, do p2 + q2 = r? [1 is not a prime number.]
+>
+> - **(A)** 2,
+> - **(B)** 4,
+> - **(C)** 6,
+> - **(D)** 8,
+> - **(E)** 16.
+
+**Answer:** C
+[[src_archimede_2011_triennio__Q19]]

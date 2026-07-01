@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f1__Q03
 parent: src_obm_2016_n3_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Side of a square equal in area to a rectangle of integer dimensions with perimeter 58 and square product*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Side di un quadrato uguale in superficie a un rettangolo di dimensioni interi con perimetro 58 e prodotto quadrato*
+
+> $x$ e $y$ siano le dimensioni interi di un rettangolo il cui perimetro è $58$, quindi $x+y=29$. Le possibili coppie sono < MSK4/>. Esattamente una di queste coppie ha il prodotto $x\cdot y$ pari a un quadrato perfetto, vale a dire $4\cdot 25=100$. Trova il lato $n$ di un quadrato con la stessa area di quel rettangolo, ovvero $n=\sqrt{4\cdot 25}=\sqrt{100}=10$. [Valore della chiave di risposta: $n=10$.]
+
+**Risposta:** C
+[[src_obm_2016_n3_f1__Q03]]

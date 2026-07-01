@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q07
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of all surface areas of a cube with two given vertices*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di tutte le superfici di un cubo con due vertici dati*
+
+> Determinare la somma di tutte le superfici possibili di un cubo di cui due vertici sono $(1, 2, 0)$ e $(3, 3, 2)$.
+
+[[src_ioqm_2024__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo22yq_yosen__Q06
 parent: src_jmo22yq_yosen
 competition: Japan Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2×100 grid red/blue coloring with parity and existence constraints*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 39800
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2×100 colore rosso/blu a griglia con restrizioni di parità ed esistenza*
+
+> C'è una griglia < MSK0/> in cui ogni cella è colorata in rosso o blu. Considerate i coloranti che soddisfano entrambe le seguenti condizioni. I colori legati alla rotazione o alla riflessione sono considerati uguali.
+> 
+> - Sia l'insieme delle cellule rosse che l'insieme delle cellule blu non sono vuote (esistono almeno una cellula rossa e almeno una cellula blu). - Il numero totale di globuli rossi è pari, e il numero totale di globuli blu è pari.
+> 
+> Trova il numero di tali coloranti.
+
+**Risposta:** 39800
+[[src_jmo22yq_yosen__Q06]]

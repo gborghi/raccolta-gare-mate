@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q18
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Casetta impossibile da costruire*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Impossible to build tape*
+
+> Let's build a little house from the side-by-side drawing on a cardboard. What little house is impossible ? A) B) C) D)               E)
+
+**Answer:** B
+[[src_kangourou_2003_benjamin__Q18]]

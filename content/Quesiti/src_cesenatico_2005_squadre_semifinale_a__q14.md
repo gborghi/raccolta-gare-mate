@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_a__Q14
 parent: src_cesenatico_2005_squadre_semifinale_a
 competition: Gara a Squadre Cesenatico 2005 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura dell'angolo CAD nel quadrilatero con angoli dati*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0030
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measurement of the CAD angle in the quadrilateral with data angles*
+
+![[src_cesenatico_2005_squadre_semifinale_a__prob14.png]]
+
+> The $ABCD$ quadrilateral in the figure has the angles $\angle ABD = 30°$, $\angle DBC = 50°$, $\angle BCA = 60°$ and $\angle ACD = 20°$. What is the angle $\angle CAD$? (see figure)
+
+**Answer:** 0030
+[[src_cesenatico_2005_squadre_semifinale_a__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q20
 parent: src_kangourou_2021_preecolier_koala
 competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizioni dei denti neri dopo un giro della ruota piccola*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Positions of black teeth after a small wheel turn< MSK1/>
+
+![[src_kangourou_2021_preecolier_koala__prob20.png]]
+
+> The image shows a gear consisting of two toothed wheels, each with one and only one black tooth. In what positions will the two black teeth be found after the small toothed wheel has completed a complete turn? (see figure)
+
+**Answer:** C
+[[src_kangourou_2021_preecolier_koala__Q20]]

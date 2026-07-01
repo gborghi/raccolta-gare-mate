@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Junior (15 marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_junior__Q15
 parent: src_kangourou_2001_junior
 competition: Kangourou 2001 - Junior (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma aree dei due triangoli tolti*
 
@@ -57,3 +60,32 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of areas of the two triangles removed*
+
+![[src_kangourou_2001_junior__prob15.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.7]
+  \draw[dashed] (0,0) rectangle (6,2.5);
+  \draw[fill=gray!30] (0,0) -- (6,0) -- (5,2.5) -- (1,2.5) -- cycle;
+  \node at (3,1.25) {\textbf{30 cm}$^2$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Two triangles have been removed from a rectangle (see figure). The remaining trapezoid has an area of 30 cm2 and its major base is twice the minor. What is the sum of the areas of the two triangles that have been removed?
+>
+> - **(A)** 10 cm2
+> - **(B)** 12 cm2
+> - **(C)** 15 cm2
+> - **(D)** 18 cm2
+> - **(E)** 20 inches square.
+
+**Answer:** A
+[[src_kangourou_2001_junior__Q15]]

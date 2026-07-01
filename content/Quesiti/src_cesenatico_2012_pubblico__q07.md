@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_pubblico__Q07
 parent: src_cesenatico_2012_pubblico
 competition: Gara a Squadre Cesenatico 2012 - Gara del pubblico
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area max pentagono con vincoli (special pose)*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0843
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Area max pentagon with constraints (special pose) < MSK1/>
+
+> First Impact On December 21, 2012, a spherical asteroid with a radius of 1/7 of a kilometer will hit the Earth's surface perpendicularly in a K-square area on the side of 26 km, making a hole exactly the same size as the asteroid. It is known that the hole will be completely contained in K, but it is not known exactly in which position (experts are likely to consider each position as equally likely). The authorities have a 5 km radius circular disintegrating shield: if the asteroid also competes in Team 2012  Semifinal A  Problem texts  1/1
+> 
+> 2/1 Team Race 2012  Semifinal A  Problem testing will only wipe it out, it will be annihilated and the Earth will be saved. The shield is placed a few metres from the ground, right in the centre of area K. What are the odds of Earth being saved? As a response, provide the first four digits after the comma.
+
+**Answer:** 0843
+[[src_cesenatico_2012_pubblico__Q07]]

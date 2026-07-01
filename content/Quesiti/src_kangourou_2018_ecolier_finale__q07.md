@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_finale__Q07
 parent: src_kangourou_2018_ecolier_finale
 competition: Kangourou Coppa Ecolier squadre 2018 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante partite hanno giocato A e C*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0007
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many games have A and C played?
+
+> Basketball Three basketball teams have played some training matches. Team A played 11 games, team B played 9 games and team C played 12 games. How many times have teams A and C played together?
+
+**Answer:** 0007
+[[src_kangourou_2018_ecolier_finale__Q07]]

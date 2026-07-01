@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2012 — Quesito
   2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2012__Q02
 parent: src_bocconi_finalenaz_2012
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2012
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza in metri tra casa di Renato e la scuola*
 
@@ -42,3 +45,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance in metres between Renato's home and school*
+
+> Renato has long legs, and every two steps he advances by a foot and a half. When he goes from home to school, he's used to counting his steps; halfway through, he stops and thinks, "I've already taken 800 steps". What's the distance in meters between Renato's house and the school?
+
+**Answer:** 1200
+[[src_bocconi_finalenaz_2012__Q02]]

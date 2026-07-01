@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q18
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *area ombreggiata*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>shaded area< MSK1/>
+
+![[src_kangourou_2023_junior__prob18.png]]
+
+> The figure shows a large square divided into 9 identical squares containing three circles. The side of the square is about 30 cm; the radii of the three circles are 4 cm (circle up to left), 3 cm (circle up to right), 5 cm (circle down to right). How many square centimetres is the area of the shaded part of the large square? A) 400 B) 500 C) 400 + 50π D) 500 – 25π E) 500 + 25π
+
+**Answer:** D
+[[src_kangourou_2023_junior__Q18]]

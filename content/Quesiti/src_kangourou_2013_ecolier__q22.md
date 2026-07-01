@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q22
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante lune sul tappeto disteso*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many moons on the stretched carpet< MSK1/>
+
+> Peter bought a carpet 60 centimeters long and 36 wide. The carpet has a design made up of squares all of the same size that contain either the sun or the moon, as shown in the figure, which shows only one end of the carpet (imagine the remaining part being rolled). When the carpet is completely stretched, how many moons can you see? A) 68
+>         	
+> B) 67 C) 65 D) 63
+>        	
+> E) 60
+
+**Answer:** B
+[[src_kangourou_2013_ecolier__Q22]]

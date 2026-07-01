@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre_f2__Q14
 parent: src_kangourou_2022_kangourou_squadre_f2
 competition: Kangourou Squadre 2022 Kangourou Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Casella del numero 2022 nella griglia*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0659
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*2022 number box in the grid*
+
+![[src_kangourou_2022_kangourou_squadre_f2__prob14.png]]
+
+> The number 2022 The positive integers are inserted, one per box, in an unlimited imaginary grid to the right and down, according to the diagram illustrated in the figure. In which box is the number 2022 entered? (Write the row and column that determine the box in the order, for example if they were the eighth row and the twentieth column you should write 0820.)
+
+**Answer:** 0659
+[[src_kangourou_2022_kangourou_squadre_f2__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2011 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2011__Q04
 parent: src_cn_cwmo_2011
 competition: China Western Mathematical Olympiad 2011
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle with perpendicular chords, inner tangent circle; prove a tangency*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo con accordi perpendicolari, circolo tangente interno; dimostrare una tangenza*
+
+> Come mostrato nella figura, $AB$ e $CD$ sono due accordi nel cerchio $\odot O$, che si incontrano al punto $E$ e $AB \perp CD$. $\odot I$ è tangente a $\odot O$ internamente al punto $F$, ed è tangente agli accordi $AB$ e $CD$ rispettivamente ai punti $G$ e $H$. $l$ è una linea che attraversa $O$, che incontra $AB$, $CD$ rispettivamente nei punti $P$ e $Q$, in modo tale che $EP = EQ$. La linea $l$ incontra la linea $EF$ al punto $M$. Prove che la linea attraverso $M$ e parallela alla linea $AB$ è tangente al cerchio $\odot O$.
+
+![[src_cn_cwmo_b11_w244__Q04.png]]
+
+[[src_cn_cwmo_2011__Q04]]

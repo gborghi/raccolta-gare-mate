@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo22yqa_yosen__Q02
 parent: src_jjmo22yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find length BC using two concentric circles, secant and tangent*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MpOoffmNfAlSJnrNvYxGLF27kPgwbEmW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la lunghezza BC utilizzando due cerchi concentrici, secanti e tangenti*
+
+> Come mostrato nella figura seguente, ci sono due cerchi $\Gamma_1$ e $\Gamma_2$ con centro $O$. I punti $A$ e $B$ siano due punti distinti su $\Gamma_1$. Il segmento $AB$ incontra $\Gamma_2$ in due punti distinti; $C$ sia quello più vicino a $B$. C'è anche un punto $D$ su $\Gamma_2$ tale che la riga $AD$ sia tangente a $\Gamma_2$. Dato che $AC = 9$ e $AD = 6$, trovare la lunghezza $BC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+![[src_jjmo22yqa_yosen__Q02.png]]
+
+**Risposta:** 4
+[[src_jjmo22yqa_yosen__Q02]]

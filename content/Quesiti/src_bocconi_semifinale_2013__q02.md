@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2013 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2013__Q02
 parent: src_bocconi_semifinale_2013
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2013
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di scegliere 5 dadi con somma pari*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to choose 5 dice with equal sums*
+
+> Jacob chooses two tokens, among the five he sees in the figure, with the goal that the sum of their numbers is an equal number.
+> 
+> In how many ways can you choose them regardless of the order in which you take the two tokens?
+> 
+> The tokens show the numbers 1, 2, 3, 4, 5.
+
+![[src_bocconi_semifinale_2013__Q02.png]]
+
+**Answer:** 4
+[[src_bocconi_semifinale_2013__Q02]]

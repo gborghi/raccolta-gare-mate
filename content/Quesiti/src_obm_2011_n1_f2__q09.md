@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f2__Q09
 parent: src_obm_2011_n1_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum squares on geoplane with one continuous string (4x4 and 5x5)*
 
@@ -53,3 +56,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrati massimi su un geoplano con una corda continua (4x4 e 5x5) *
+
+> Legando un pezzo di corda su un geoplano (una tavola di chiodi disposta in una griglia quadrata), Diamantino può formare quadrati \textit{senza passare la corda su qualsiasi chiodo più di una volta}. Può formare due quadrati contemporaneamente con un solo pezzo di corda come mostrato. (La figura mostra una parte semplificata del geoplano; i quadrati sono ottenuti da due delle unghie.)
+> 
+> a) Nella parte del geoplano mostrata (una griglia $4 \times 4$ di unghie $16$), disegnare il maggior numero di quadrati uguali che Diamantino può ottenere utilizzando un singolo pezzo di corda. Segnalare le frecce come nell'esempio per indicare come la corda è disposta.
+> 
+> b) Diamantino sostiene di poter ottenere < MSK0/> quadrati sul proprio geoplano. Mostrare che è possibile ottenere la stessa quantità anche sulla griglia $5 \times 5$ di unghie mostrata sotto. Non dimenticate di segnare le frecce sul disegno.
+
+![[src_obm_2011_n1_f2__Q09.png]]
+
+[[src_obm_2011_n1_f2__Q09]]

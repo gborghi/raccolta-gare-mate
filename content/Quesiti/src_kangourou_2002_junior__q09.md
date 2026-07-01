@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q09
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione di disco rimasta sana*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Fraction of disk remaining healthy< MSK1/>
+
+> A computer is infected by a virus that, during the day it was inoculated, damaged half of the hard drive. During the next day the virus damaged 1/3 of the remaining part of the disc; during the third day the virus damaged 1/4 of the still healthy part at the beginning of the day and during the fourth day
+> 
+> Junior year 2002. This item is not intended to be used. 3 1/5 of the part still healthy at the beginning of the day. At this point, what fraction of the hard drive is still intact? A. 1/5 B. 1/6 C. 1/10 D. 1/12 E. 1/24
+
+**Answer:** A
+[[src_kangourou_2002_junior__Q09]]

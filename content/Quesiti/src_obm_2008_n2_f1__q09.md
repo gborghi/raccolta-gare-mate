@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f1__Q09
 parent: src_obm_2008_n2_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Digits a,b,c with prime two-digit numbers summing to aaa*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cifri a, b, c con numeri prim di due cifre che sumano aaa*
+
+> Le cifre $a$, $b$ e $c$ sono tali che i numeri a due cifre $\overline{aa}$, $\overline{bc}$ e $\overline{cb}$ siano numeri primi e $\overline{aa}+\overline{bc}+\overline{cb}=\overline{aaa}$. Se $c<a$, allora $\overline{bc}$ è uguale a: (A) $19$ \quad (B) $17$ \quad (C) $37$ \quad (D) $29$ \quad (E) $59$
+
+[[src_obm_2008_n2_f1__Q09]]

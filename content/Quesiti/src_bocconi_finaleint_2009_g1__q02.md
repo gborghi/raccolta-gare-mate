@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 1) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g1__Q02
 parent: src_bocconi_finaleint_2009_g1
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero iniziale di biglie, ricavato da una relazione fra triplo delle date e meta delle rimanenti.*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 25
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Initial number of seeds, derived from a ratio between three times the dates and the remaining seeds.*
+
+> Mathias had more than 20 but less than 30. He gives a number to Mathilde and says, "I'll add three times the number of balls I just gave you and half the number of balls I have left. The result is exactly the same as the number of balls I had before I gave it to him. How many balls did Mathias have before I gave it to him?
+
+**Answer:** 25
+[[src_bocconi_finaleint_2009_g1__Q02]]

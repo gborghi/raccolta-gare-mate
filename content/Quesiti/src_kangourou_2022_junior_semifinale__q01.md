@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior — Semifinale individuale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_semifinale__Q01
 parent: src_kangourou_2022_junior_semifinale
 competition: Kangourou 2022 Junior — Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle unità del prodotto finale di 2021..2029*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1q4eeCpaS_1aSTIYHi1bK45-1x3orSnEw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Final product unit number for 2021..2029*
+
+> (2 points) Sandra wrote on a sheet each of the whole numbers from 2021 to 2029. Samuel, who has a calculator at his disposal, chooses two at random, eliminates them, and replaces them with their product. It proceeds on the eight numbers remaining the same by getting seven and so on, until there is only one number left on the sheet. What is the unit number of this number? A) 0
+>  
+> B) 2
+>  
+> C) 4
+>  
+> D) 6
+>  
+> E) 8
+
+**Answer:** A
+[[src_kangourou_2022_junior_semifinale__Q01]]

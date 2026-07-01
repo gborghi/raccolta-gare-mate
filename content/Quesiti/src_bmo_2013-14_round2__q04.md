@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2013-14 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2013-14_round2__Q04
 parent: src_bmo_2013-14_round2
 competition: British Mathematical Olympiad 2013-14 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with interior point; circumcentres of sub-triangles meet on three concurrent lines*
 
@@ -49,3 +52,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gxTVIckVBIyVVlwqu7d6UulSTigrFAu3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con punto interno; circoncenti di subtriangoli si incontrano su tre linee simultanee*
+
+> Che $ABC$ sia un triangolo e $P$ un punto nel suo interno. Si deve far incontrare $AP$ il circoncircolo di $ABC$ a $A'$. I punti $B'$ e $C'$ sono definiti in modo simile.
+> 
+> $O_A$ sia il circoncentro del triangolo $BCP$. Le circoncentri $O_B$ e $O_C$ sono definite in modo simile.
+> 
+> $O_{A'}$ sia il circoncentro del triangolo $B'C'P$. Le circoncentri $O_{B'}$ e $O_{C'}$ sono definite in modo simile.
+> 
+> Prove che le linee $O_A O_{A'}$, $O_B O_{B'}$ e $O_C O_{C'}$ sono simultanee.
+
+[[src_bmo_2013-14_round2__Q04]]

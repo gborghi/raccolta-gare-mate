@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q10
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four friends make statements about their cards; determine the false statement.*
 
@@ -60,3 +63,23 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro amici fanno dichiarazioni sulle loro carte; determinano la dichiarazione falsa.*
+
+> Quattro amici, Arnaldo, Bernaldo, Cernaldo e Dernaldo distribuiscono carte. Esistono diverse carte $20$, ciascuna carta ha uno dei quattro colori (giallo, verde, rosso e un altro) e un numero da $1$ a $5$. Ogni amico riceve cinque carte. Essi fanno le seguenti dichiarazioni:
+>
+> Arnaldo: "Non ho una carta con un numero uguale a quello di un'altra delle mie carte". Bernaldo: "Le mie cinque carte hanno cinque numeri consecutivi". Cernaldo: "Le mie cinque carte sono di colori che iniziano con la lettera V. " Dernaldo: "Le mie cinque carte sono tutte di un numero odd".
+>
+> È noto che solo una delle affermazioni è falsa. Chi ha fatto la falsa dichiarazione?
+>
+> - **(A)** Arnaldo
+> - **(B)** Bernaldo
+> - **(C)** Cernaldo
+> - **(D)** Dernaldo
+> - **(E)** Non è possibile determinarlo.
+
+[[src_obm_2010_n3_f1__Q10]]

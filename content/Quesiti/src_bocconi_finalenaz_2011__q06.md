@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2011 — Quesito
   6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2011__Q06
 parent: src_bocconi_finalenaz_2011
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2011
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dividere figura in tre parti sovrapponibili*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (vedi figura soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*To divide the figure into three overlapping parts*
+
+> Divide the figure into three perfectly overlapping parts (by overlapping the parts of the figure it is possible for any of them to rotate).
+
+![[src_bocconi_finalenaz_2011__Q06.png]]
+
+**Answer:** (vedi figura soluzione)
+[[src_bocconi_finalenaz_2011__Q06]]

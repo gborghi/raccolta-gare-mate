@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q29
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Metri cubi d’acqua in cilindro verticale e obliquo*
 
@@ -58,3 +61,17 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cub metres of water in vertical and oblique cylinders*
+
+![[src_kangourou_2023_student__prob29.png]]
+
+> Two identical cylinder tanks contain the same amount of water. One cylinder is in a vertical position while the other is oblique, resting on the first in such a position that the water level is the same in both, the lowest allowing the bottom of the tank to be covered, as shown in the figure. The base of each cylinder is a circle of 3 p m2. How many cubic meters of water does each tank contain? A) 3√3p B) 6 p C) 9 p D) p E) The information is not sufficient to answer. x5 −11x4 + 34x3 −46x2 + 29x −7 8 6 6 ? 4 11 3 4
+>
+
+**Answer:** C
+[[src_kangourou_2023_student__Q29]]

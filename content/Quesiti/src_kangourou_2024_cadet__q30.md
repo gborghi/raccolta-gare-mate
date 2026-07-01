@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q30
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del pentagono con regioni di area data*
 
@@ -65,3 +68,26 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the pentagon with regions of the given area*
+
+![[src_kangourou_2024_cadet__prob30.png]]
+
+> In the figure you see an ABCDE pentagon where the two sides AE and BC and the two sides CD and DE are congruent, while the two EAB and ABC angles are straight. On the AB side four points are marked which divide the side into five congruent segments and any other segment that has an end in one of those points is perpendicular to AB. The dark region has an area of 13 cm2, the light gray region has an area of 10 cm2. How many square centimetres does the area of the pentagon measure? A) 45
+>  
+> B) 47
+>  
+> C) 49
+>  
+> D) 58
+>  
+> E) 60 α β γ Gold Silver Bronze A B C D E
+> 
+> 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+
+**Answer:** A
+[[src_kangourou_2024_cadet__Q30]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q15
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer n with 1 < n < 99; P = |1 - n|, Q = |99 - n|, R = |P - Q|; for how many n is R prime?*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integra n con 1 < n n9; P = ̊1 - n ̊, Q = 99 - n ̊, R = ̊P - Q ̊; per quanti n è R primo? *
+
+> Il numero intero $n$ è tale che $1 < n < 99$. $P$ è la differenza tra 1 e $n$, $Q$ è la differenza tra 99 e $n$ e $R$ è la differenza tra $P$ e $Q$. Per quanti valori di $n$ $R$ è un numero primo?
+>
+> - **(A)** 0
+> - **(B)** 2
+> - **(C)** 4
+> - **(D)** 8
+> - **(E)** 99
+
+**Risposta:** B
+[[src_smc_2025__Q15]]

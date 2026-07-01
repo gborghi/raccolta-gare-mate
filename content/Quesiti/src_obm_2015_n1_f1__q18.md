@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q18
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n with 2n a perfect square and 3n a perfect cube*
 
@@ -53,3 +56,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La n più piccola con 2n un quadrato perfetto e 3n un cubo perfetto*
+
+> Il numero $5^2 = 25$ è un quadrato perfetto e il numero $4^3 = 64$ è un cubo perfetto. Qual è il più piccolo intero positivo $n$ il cui doppio è un quadrato perfetto e il cui triplo è un cubo perfetto?
+>
+> - **(A)** 72
+> - **(B)** 98
+> - **(C)** 144
+> - **(D)** 216
+> - **(E)** 256
+
+**Risposta:** A
+[[src_obm_2015_n1_f1__Q18]]

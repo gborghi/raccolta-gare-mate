@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q13
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *x,y rational; given (x - y√2006)/(4 - y√2006) is rational, determine product xy.*
 
@@ -52,3 +55,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*x,y razionale; dato (x - y√2006)/(4 - y√2006) è razionale, determina il prodotto xy.*
+
+> $x$ e $y$ siano numeri razionali. Sapendo che $\dfrac{x - y\sqrt{2006}}{4 - y\sqrt{2006}}$ è anche un numero razionale, quanto può essere il prodotto $xy$?
+>
+> - **(A)** Può essere uguale a 20, ma può anche assumere altri valori.
+> - **(B)** Può essere pari a 20, ma può anche assumere altri valori. (Può essere uguale a 20, ma può anche assumere altri valori.)
+> - **(C)** 1
+> - **(D)** 6
+> - **(E)** Non si può determinare.
+
+[[src_obm_2006_n3_f1__Q13]]

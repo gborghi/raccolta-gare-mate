@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Triennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_triennio__Q07
 parent: src_archimede_2026_triennio
 competition: Giochi di Archimede 2026 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area cerchio da corde perpendicolari, teorema delle corde*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Around area of perpendicular strings, theorem of strings*
+
+> The sides of the square ABCD measure 3 cm. The sides of the EFGH square divide the sides of the ABCD into three equal parts. How many cm2 does the EFGH area measure? A B C D E F G H
+>
+> - **(A)** 25/3
+> - **(B)** 9
+> - **(C)** 8
+> - **(D)** 16 3 √ 2
+> - **(E)** 6 √ 2
+
+**Answer:** C
+[[src_archimede_2026_triennio__Q07]]

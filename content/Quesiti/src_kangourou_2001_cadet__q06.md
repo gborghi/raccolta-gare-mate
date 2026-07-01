@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Cadet (15 marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_cadet__Q06
 parent: src_kangourou_2001_cadet
 competition: Kangourou 2001 - Cadet (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo prodotto di due numeri dell'insieme*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum product of two numbers of the set*
+
+> 6. Multiplying two numbers belonging to the set {−9, −7, −5, 2, 4, 6}, what is the minimum result that can be obtained? (A) −63 (B) −54 (C) −18 (D) −10 (E) 8.
+
+**Answer:** B
+[[src_kangourou_2001_cadet__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1982-83 — Round 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1982-83_round2__Q07
 parent: src_bmo_1982-83_round2
 competition: British Mathematical Olympiad 1982-83 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a colony of mn+1 mice prove Dilworth-type antichain or chain exists*
 
@@ -44,3 +47,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDzW0kwKkWyYoARh-HNPu4-qokjVbmtj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>In una colonia di topi mn+1 dimostrare l'esistenza di un anticatenato o di una catena di tipo Dilworth< MSK1/>
+
+> In una colonia di topi $(mn + 1)$, dimostrare che almeno una delle seguenti affermazioni è vera:
+> 
+> (a) C'è un insieme $A$ di topi $(m + 1)$ nessuno dei quali è genitore di nessun altro nel gruppo.
+> 
+> b) Esiste un insieme ordinato $B$ di topi $(n + 1)$ $a_1, a_2, \ldots, a_n, a_{n+1}$ in modo tale che $a_{i+1}$ sia il genitore di $a_i$ per ciascun $i = 1, 2, \ldots, n$.
+
+[[src_bmo_1982-83_round2__Q07]]

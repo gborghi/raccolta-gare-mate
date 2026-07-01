@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q15
 parent: src_kangourou_2008_cadet_marzo
 competition: Kangourou 2008 - Cadet (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali non sono sviluppi piani del cubo tagliato*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which are not planar developments of the cut cube< MSK1/>
+
+![[src_kangourou_2008_cadet_marzo__prob15.png]]
+
+> A face of a cube is cut along its two diagonals. Which of the following is not a development plan of such a cube? A) 1 e 3 B) 1 e 5 C) 3 e 4 D) 3 e 5         E) 2 e 4
+
+**Answer:** D
+[[src_kangourou_2008_cadet_marzo__Q15]]

@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2010 — Quesito
   1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2010__Q01
 parent: src_bocconi_finalenaz_2010
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2010
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quattro orologi: che ora è adesso?*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 14 h 30 m (anche 2:30 del pomeriggio)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Four watches: what time is it now?
+
+> We're in one of the classrooms where the National Mathematical Games Championships final is taking place between 2 and 3 p.m.
+> 
+> The drawing shows, at this moment, the four watches that are present in the classroom. One is still. Of the three that work, one is behind (less than an hour), another indicates the exact time and another is ahead (less than an hour).
+> 
+> What time is it right now?
+
+![[src_bocconi_finalenaz_2010__Q01.png]]
+
+**Answer:** 14 h 30 m (anche 2:30 del pomeriggio)
+[[src_bocconi_finalenaz_2010__Q01]]

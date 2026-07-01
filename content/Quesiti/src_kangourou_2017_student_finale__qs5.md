@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Student - Finale nazionale Cervia — Quesito S5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_student_finale__QS5
 parent: src_kangourou_2017_student_finale
 competition: Kangourou 2017 Student - Finale nazionale Cervia
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Filo minimo per percorrere i lati di un reticolo 9x7*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 155
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ec2T3A705_oySNvj02ppJ76veXlI5h2r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum thread to run along the sides of a 9x7 lattice*
+
+![[src_kangourou_2017_student_finale__probS5.png]]
+
+> A rectangle $9 \times 7$ is divided into $63$ squares of sides $1$, obtaining a lattice. Imagine planting a spindle in each of the vertices of the squares (one spindle in each common multiple-square vertex) and wanting to pass a thread by stretching it between one spindle and the other, so as to walk at least once all and only the sides of the squares (so not the diagonals), without breaking the thread. What is the minimum length of the wire? (It overlooks the fact that it is necessary to rotate around some spindles, i.e. assume that the spindles are < MSK3/> thick).
+
+**Answer:** 155
+[[src_kangourou_2017_student_finale__QS5]]

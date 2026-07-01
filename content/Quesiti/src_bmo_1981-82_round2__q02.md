@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1981-82 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1981-82_round2__Q02
 parent: src_bmo_1981-82_round2
 competition: British Mathematical Olympiad 1981-82 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence of primes; prove 5 never appears*
 
@@ -45,3 +48,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e8i3xZYTs6OhsVopzbRKd7oUXgpnp9WB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di numeri primi; prova 5 non appare mai*
+
+> La sequenza $p_1, p_2, \ldots$ è definita come segue:
+> 
+> $p_1 = 2$, e per $n \geq 2$, $p_n$ è il primo divisore più grande di $$p_1 p_2 \cdots p_{n-1} + 1.$$
+> 
+> Provare che $5$ non è un membro di questa sequenza.
+
+[[src_bmo_1981-82_round2__Q02]]

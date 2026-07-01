@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier finale individuale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__Q09
 parent: src_kangourou_2022_ecolier_finale
 competition: Kangourou 2022 Ecolier finale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Litri iniziali nella cisterna (due rubinetti)*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1650
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Initial liters in the tank (two taps) < MSK1/>
+
+> Ivan entered numbers into a grid $3 \times 3$ with the intention that the six sums obtained by adding the numbers of each row and each column would be equal. But Ivan made a mistake: What number should be corrected? (see figure)
+> 
+> A) 1 B) 3 C) One of two 4 D) 5 E) One of two 7
+
+**Answer:** 1650
+[[src_kangourou_2022_ecolier_finale__Q09]]

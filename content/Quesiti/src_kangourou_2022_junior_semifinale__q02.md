@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior — Semifinale individuale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_semifinale__Q02
 parent: src_kangourou_2022_junior_semifinale
 competition: Kangourou 2022 Junior — Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Concime supplementare prato 30 vs 25 metri di lato*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1q4eeCpaS_1aSTIYHi1bK45-1x3orSnEw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Additional grass areas 30 vs. 25 metres on the side*
+
+> (3 points) A certain amount of manure is required to fertilize a 25 square metre lawn. Which of the following figures is closest to the amount of additional manure needed to fertilize a 30 square foot lawn in the same way? A) q/6
+>  
+> B) q/5 C) q/4 D) q/3 E) q/2
+
+**Answer:** E
+[[src_kangourou_2022_junior_semifinale__Q02]]

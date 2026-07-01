@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2014 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2014__Q04
 parent: src_cn_ctst_2014
 competition: China National Team Selection Test 2014
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Infinitely many integers a with no two divisors summing to given odd k*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Infinitamente molti interi a senza due divisori che si sommano a un dato k*
+
+> Date un numero intero parso $k \ge 3$. Prova che esistono infiniti interi positivi $a$ in modo tale che $a$ non abbia due divisori positivi $d_1, d_2$ che soddisfino $d_1 + d_2 = k$.
+> 
+> (Proposto da Ya Hongbing)
+
+[[src_cn_ctst_2014__Q04]]

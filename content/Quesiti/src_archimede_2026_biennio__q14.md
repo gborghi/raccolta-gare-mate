@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Biennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_biennio__Q14
 parent: src_archimede_2026_biennio
 competition: Giochi di Archimede 2026 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizione di PUNTO tra gli anagrammi in ordine alfabetico*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*PLACE position between anagrams in alphabetical order*
+
+> James is writing, in alphabetical order, all the possible anagrams of the word PUNTO. What position does the word PUNTO occupy on this list?
+>
+> - **(A)** la 57a
+> - **(B)** la 56a
+> - **(C)** la 65a
+> - **(D)** la 66a
+> - **(E)** la 68a
+
+**Answer:** E
+[[src_archimede_2026_biennio__Q14]]

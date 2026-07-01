@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2025_n2_fx__Q02
 parent: src_obm_2025_n2_fx
 competition: Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Winning strategy in 5x5 board game for which positive integers m*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CcXWhSqND26SnC8adQX6Fy1P4X3uridO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Strategia vincente in gioco da tavolo 5x5 per il quale gli integri positivi m*
+
+> $m$ sia un numero intero positivo. Ana e Banana giocano il seguente gioco su una tavola $5 \times 5$, inizialmente riempita di $0$ in ogni cella. In alternativa, essi scelgono una cella della scheda e aggiungono al numero scritto in quella cella un numero intero dell'insieme $\{1, 2, 3, 4, 5\}$, in modo tale che il numero scritto in quella cella non superi mai $m$. Il giocatore che completa tutte le cinque celle di una riga, una colonna o una delle due diagonali principali con il numero $m$ vince. Per quali integri positivi $m$ Ana, la prima a giocare, ha una strategia vincente?
+
+[[src_obm_2025_n2_fx__Q02]]

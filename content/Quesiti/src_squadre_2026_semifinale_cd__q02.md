@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2026_semifinale_cd__Q02
 parent: src_squadre_2026_semifinale_cd
 competition: Gara a Squadre 2026 - Semifinale 2 (nazionale)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che ab+bcd+d2 estratto sia dispari*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0131
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability that ab+bcd+d2 extract is odd< MSK1/>
+
+> Divination Gaia Fuselli The Divination teacher of the Higher Mathematical School, Sibilla Riemann, takes 3 magic cards: 1,2,3, she mixes them and asks Hermita to extract a random card, and write down the value at which she extracted, she remixes the cards and asks to extract again, marking herself the extracted number b, then repeats the procedure also to find the numbers c and d. As Hermita extracts, she asks the other students to predict the number ab + bcd + d2. What is the probability that the number to be predicted is odd? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+
+**Answer:** 0131
+[[src_squadre_2026_semifinale_cd__Q02]]

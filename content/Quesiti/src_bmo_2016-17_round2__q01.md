@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2016-17 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2016-17_round2__Q01
 parent: src_bmo_2016-17_round2
 competition: British Mathematical Olympiad 2016-17 — Round 2
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count n≤2017 for which a right-angled isosceles triangle has exactly n lattice points on its perimeter*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OZ7MO6JOvySxWSnVFx5p_g4iJo_by7ja/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio n≤2017 per il quale un triangolo a angolo retto di uguali dimensioni ha esattamente n punti di reticola sul suo perimetro*
+
+> Questo problema riguarda i triangoli con vertici a coordinate interi nel solito piano di coordinate $x,y$. Per quanti integri positivi $n \le 2017$ è possibile disegnare un triangolo a rettangolo di isosceles in modo tale che esattamente $n$ i punti sul suo perimetro, compresi tutti e tre i suoi vertici, abbiano coordinate interi?
+
+[[src_bmo_2016-17_round2__Q01]]

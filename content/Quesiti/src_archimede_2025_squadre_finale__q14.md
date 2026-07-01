@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q14
 parent: src_archimede_2025_squadre_finale
 competition: Gara a Squadre Nazionale 2025 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza BC da AE, AD, DM (mediana, bisettrice, altezza)*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4800
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Distance BC from AE, AD, DM (median, biset, height)
+
+![[src_archimede_2025_squadre_finale__prob14.png]]
+
+> How does the perryodic ornitorrinc cope with so many missions in such a short time? To move quickly between φ-neas' house and Ferbmat (point A), headquarters (point B) and DoofenSchwartz's lab (point C), Perryodico uses an elaborate system of secret pipes. The three key points A, B, C form an acute triangle. To further speed up the movements, Perryodico also considers three intermediate stations M, D, and E, which are respectively the middle point of BC, the foot of the beetle coming out of A and the foot of the height coming out of A. Knowing that AE = 960m, AD = 1200m and DM = 1600m, how many meters away are DoofenSchwartz's headquarters and lab?
+
+**Answer:** 4800
+[[src_archimede_2025_squadre_finale__Q14]]

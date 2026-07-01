@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Region 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_r3__Q06
 parent: src_rmo_2012_r3
 competition: Regional Mathematical Olympiad 2012
@@ -34,6 +35,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers n such that 3^{2n}+3n^2+7 is a perfect square*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p3hmhNY4gaLMNi2r8GZ88wmUwZnVczZX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli integri positivi n in modo che 3^{2n}+3n^2+7 sia un quadrato perfetto*
+
+> Trovare tutti gli integri positivi $n$ in modo che $3^{2n} + 3n^2 + 7$ sia un quadrato perfetto.
+
+[[src_rmo_2012_r3__Q06]]

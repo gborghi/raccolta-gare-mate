@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2025 — Selection Camp — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2025__Q11
 parent: src_selection_camp_2025
 competition: Japan IMO Selection Camp 2025 — Selection Camp
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find n so every cubic P has quadratic Q with Q(k)(P(k)+Q(k)) never divisible by n*
 
@@ -47,3 +50,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_hAtW-_q2-uMzqzRMHgBP6hcqovxL3Oj/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare n così ogni P cubo ha Q quadratico con Q(k)(P(k) + Q(k)) mai divisibile da n*
+
+> Determinare tutti i numeri interi positivi $n$ con la seguente proprietà: per ogni polinomio di grado-$3$ $P$ con coeficienti interi, esiste un polinomio di grado-$2$ $Q$ con coeficienti interi in modo che per ogni intero $k$, il valore $Q(k)\bigl(P(k) + Q(k)\bigr)$ non sia divisibile da $n$.
+
+[[src_selection_camp_2025__Q11]]

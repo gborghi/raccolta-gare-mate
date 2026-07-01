@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1995 (36th IMO, Toronto) — Quesito 6'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1995__Q06
 parent: src_imo_1995
 competition: 'IMO 1995 (36th IMO, Toronto)'
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Count p-element subsets of 1..2p with p-divisible sum*
 
@@ -36,3 +39,13 @@ tags:
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pz-4eMo5rOEQfEuxsHP_U9uNUklh6WtJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Count p-element subsets of 1..2p with p-divisible sum*
+
+> Whether $p$ is an odd prime number. How many $A$ subsets of $p$ elements of $\{1, 2, \ldots, 2p\}$ exist that the sum of the elements of $A$ is divisible by $p$?
+
+[[src_imo_1995__Q06]]

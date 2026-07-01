@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2004 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2004__Q01
 parent: src_cn_cmo_2004
 competition: China Mathematical Olympiad 2004
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three convex quadrilaterals with ratio and parallelism conditions; find ratio in terms of lambda*
 
@@ -48,3 +51,16 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre quadrilaterali convexi con condizioni di rapporto e parallelismo; trovare il rapporto in termini di lambda*
+
+> I punti $EFGH$, $ABCD$ e $E_1F_1G_1H_1$ siano tre quadrilaterali convexi che soddisfano: (1) I punti $E$, $F$, $G$ e $H$ si trovano rispettivamente sui lati $AB$, $BC$, $CD$ e $DA$, e $\frac{AE}{EB} \cdot \frac{BF}{FC} \cdot \frac{CG}{GD} \cdot \frac{DH}{HA} = 1$; (2) i punti $A$, $B$, $C$ e $D$ si trovano sui lati $H_1E_1$, $E_1F_1$, $F_1G_1$ e $G_1H_1$, rispettivamente, e $E_1F_1 \parallel EF$, $F_1G_1 \parallel FG$, $G_1H_1 \parallel GH$, $H_1E_1 \parallel HE$. Supponiamo < MSK24/>. Trova l'espressione di $\frac{F_1C}{CG_1}$ in termini di $\lambda$.
+
+![[src_cn_cmo_2004__Q01.png]]
+
+**Risposta:** \frac{F_1C}{CG_1} = \lambda
+[[src_cn_cmo_2004__Q01]]

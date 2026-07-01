@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 finale nazionale Benjamin — Quesito B1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_finale_benjamin__QB1
 parent: src_kangourou_2015_finale_benjamin
 competition: Kangourou 2015 finale nazionale Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dado non regolare con condizioni di somma facce opposte*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** ha ragione Anna
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HlzNO2AuFJjjUewqK6pEVbHM3Q7hk560/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Unadjusted data with opposite sum conditions< MSK1/>
+
+> In a regular dice, the sum of the points on two opposite sides is always $7$. Amedeo says that he has constructed an irregular dice for which all three of the following facts occur: - there are faces with an odd number of points; - the sum of the points on two opposite faces is $7$ if an odd number of points appears on one of the two faces; - the sum of the points on two opposite faces is $8$ if an equal number of points appears on one of the two faces.
+> 
+> Anno doesn't believe him. If you think Amedeo is right, point to one of the dice he may have built; if you think it's good for Anno not to believe him, explain why.
+
+**Answer:** ha ragione Anna
+[[src_kangourou_2015_finale_benjamin__QB1]]

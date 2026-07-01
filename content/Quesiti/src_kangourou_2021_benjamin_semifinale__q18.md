@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - semifinale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q18
 parent: src_kangourou_2021_benjamin_semifinale
 competition: Kangourou 2021 Benjamin - semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di N in (N-1)+...+(N-2021)=1+..+2021*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2022
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ZoOsj72QmushXUD5rVHJ0W3fyHvEdq-b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The value of N in (N-1) +...+(N-2021) = 1+..+2021*
+
+> (8 points) If N is an integer greater than zero and (N  1) + (N  2) + ... + (N  2021) = 1 + 2 + ... + 2021 what is N?
+>   
+> This appropriation is intended to cover expenditure on research and technological development in the Member States.
+
+**Answer:** 2022
+[[src_kangourou_2021_benjamin_semifinale__Q18]]

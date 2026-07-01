@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2001 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_2livello__Q10
 parent: src_archimede_2001_2livello
 competition: Archimede Gara 2º livello 2001
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità di estrarre pallina bianca alla seconda estrazione*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of white ball extraction at second extraction< MSK1/>
+
+> One box contains three white balls and two black balls. Mark extracts a ball and puts it back in the box by adding another ball of the same color. At this point he extracts a new ball from the box. What is the probability that the latter is white?
+>
+> - **(A)** 1 2
+> - **(B)** 7 12
+> - **(C)** 3 5
+> - **(D)** 2 3
+> - **(E)** None of the previous ones. Problems with a numerical answer  8 points
+
+**Answer:** C
+[[src_archimede_2001_2livello__Q10]]

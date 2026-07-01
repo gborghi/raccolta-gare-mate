@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Semifinale individuale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q04
 parent: src_kangourou_2017_junior_semifinale
 competition: Kangourou 2017 Junior - Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Confronto tempi e velocita di due treni*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wcjQloPFR27i6zyeHrMFz2T13JxlzXfM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Comparison of timing and speed of two trains*
+
+> (Point 4) Train X travels the entire route between two cities without stopping during the journey (in particular without making intermediate stops). The Y train follows the same route by making a mid-way stop of 5 minutes and taking 5 minutes more than X for the entire journey. So, what?
+>
+> - **(A)** At some point along the route, the speed of Y is greater than the speed of X.
+> - **(B)** the maximum speed touched by Y is greater than that touched by X.
+> - **(C)** the maximum speed reached by the two trains is the same.
+> - **(D)** the average speed on the entire route is the same for the two trains.
+> - **(E)** None of the above claims are correct.
+
+**Answer:** A
+[[src_kangourou_2017_junior_semifinale__Q04]]

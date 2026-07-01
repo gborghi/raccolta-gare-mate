@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f1__Q04
 parent: src_obm_2005_n3_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find O+B+M given OBM=240, OB+M=46, O+BM=64*
 
@@ -49,3 +52,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova O+B+M dato OBM=240, OB+M=46, O+BM=64*
+
+> Le lettere $O$, $B$ e $M$ rappresentano numeri interi. Se $O \times B \times M = 240$, $O \times B + M = 46$ e $O + B \times M = 64$, allora $O + B + M$ è uguale a: (A) $19$ (B) $20$ (C) $21$ (D) $24$ (E) $36$
+
+[[src_obm_2005_n3_f1__Q04]]

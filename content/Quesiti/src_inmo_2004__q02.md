@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2004 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2004__Q02
 parent: src_inmo_2004
 competition: Indian National Mathematical Olympiad 2004
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer pairs (a,b) satisfying equation with prime p > 3*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_ogop_H9aN7DDnSasFsJqkXiQTv0yKue/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di numeri interi (a,b) che soddisfano l'equazione con p primo > 3*
+
+> Supponiamo che $p$ sia un primo maggiore di $3$. Trova tutte le coppie di integri $(a, b)$ che soddisfano l'equazione $$a^2 + 3ab + 2(a + b) + p^2 = 0.$$
+
+[[src_inmo_2004__Q02]]

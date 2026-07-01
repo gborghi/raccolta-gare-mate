@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q01
 parent: src_garasquadre_2006_pubblico
 competition: VII Gara Nazionale a Squadre 2006 - Gara del pubblico
@@ -23,6 +24,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero nella colonna grigia*
 
@@ -34,3 +37,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0793
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*number in the grey column*
+
+![[src_garasquadre_2006_pubblico__prob1.png]]
+
+> It's a cube.
+
+**Answer:** 0793
+[[src_garasquadre_2006_pubblico__Q01]]

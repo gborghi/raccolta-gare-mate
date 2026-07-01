@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q04
 parent: src_kangourou_2008_cadet_marzo
 competition: Kangourou 2008 - Cadet (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero sconosciuto nella griglia 2x2*
 
@@ -53,3 +56,26 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Unknown number in grid 2x2*
+
+![[src_kangourou_2008_cadet_marzo__prob4.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) rectangle (2,2);
+  \draw (1,0) -- (1,2);
+  \draw (0,1) -- (2,1);
+\end{tikzpicture}
+\end{document}
+```
+
+> The numbers 2, 3, 4, along with another unknown number, are written in the 2x2 grid on the side, one for each box. You know the sum of the numbers in the first line is 9 and the sum of the numbers in the second line is 6. The unknown number is A) 5 B) 6 C) 7 D) 8 E) 4
+
+**Answer:** B
+[[src_kangourou_2008_cadet_marzo__Q04]]

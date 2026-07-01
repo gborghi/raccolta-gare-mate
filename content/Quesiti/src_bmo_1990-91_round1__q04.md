@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1990-91 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1990-91_round1__Q04
 parent: src_bmo_1990-91_round1
 competition: British Mathematical Olympiad 1990-91 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum of (x+y)(y+z) given xyz(x+y+z)=1*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il minimo di (x+y)(y+z) dato xyz(x+y+z)=1*
+
+> Trova, con prova, il valore minimo di $(x + y)(y + z)$ dove $x, y, z$ sono numeri reali positivi che soddisfano la condizione $$xyz(x + y + z) = 1.$$
+
+**Risposta:** 1
+[[src_bmo_1990-91_round1__Q04]]

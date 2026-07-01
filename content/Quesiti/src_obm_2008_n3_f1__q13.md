@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q13
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of real solutions of the cyclic system a^2=b+2, b^2=c+2, c^2=a+2*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Numero di soluzioni reali del sistema ciclico a^2=b+2, b^2=c+2, c^2=a+2*
+
+> Il numero di soluzioni reali del sistema $$\begin{cases} a^2 = b + 2 \\ b^2 = c + 2 \\ c^2 = a + 2 \end{cases}$$ è uguale a:
+> 
+> (A) $0$ (B) $1$ (C) $2$ (D) $4$ (E) $8$
+
+[[src_obm_2008_n3_f1__Q13]]

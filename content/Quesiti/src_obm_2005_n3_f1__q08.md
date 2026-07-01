@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f1__Q08
 parent: src_obm_2005_n3_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equivalent buy-N-pay-M offer for buy-one-get-second-at-half-price*
 
@@ -43,3 +46,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Offerta equivalente di acquisto-N-pay-M per acquisto-one-get-second-at-half-price*
+
+> Un negozio di saponi fa una promozione con l'annuncio: "Acquistate uno e prendete un altro a metà prezzo". Un'altra promozione che il negozio potrebbe fare per offrire lo stesso sconto percentuale è: (A) "Prenditi due e paga uno" (B) "Prenditi tre e paga uno" (C) "Prenditi tre e paga due" (D) "Prenditi quattro e paga tre" (E) "Prenditi cinque e paga quattro"
+
+[[src_obm_2005_n3_f1__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q17
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Euro al secondo classificato (premi raddoppiano)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Euro to the second-placed player (double prizes) < MSK1/>
+
+> EUR 1005 was distributed among the competitors who placed in the top four places of a race. The prize doubles with each placement, so for example the third-placed person wins twice as much as the fourth-placed person. How much does the second-placed person receive? A) 138 B) 140 C) 268 D) 300 E) 301,50
+
+**Answer:** C
+[[src_kangourou_2007_benjamin_marzo__Q17]]

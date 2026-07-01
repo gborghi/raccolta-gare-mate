@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2007 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2007__Q07
 parent: src_bocconi_primavera_2007
 competition: Semifinale di Primavera 2007
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Superficie iniziale del bosco incendiato*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $12.000$ m$^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Initial surface area of burnt forest*
+
+> Nando bought a forest at $60$ Euro per square meter. A fire, however, destroys the newly purchased forest. It is therefore decided to sell it again at $72$ Euro per square metre, gaining $12\%$ in any case.
+> 
+> What was the initial area of the forest (in sqm)?
+
+**Answer:** $12.000$ m$^2$
+[[src_bocconi_primavera_2007__Q07]]

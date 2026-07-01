@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Ecolier (18 marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_ecolier__Q10
 parent: src_kangourou_2004_ecolier
 competition: Kangourou 2004 Ecolier (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Badilate di pietre per 350 di calcestruzzo*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Stone pads for 350 concrete *
+
+> To make concrete, you must mix 4 stone slabs, 2 sand slabs and 1 concrete slab. How many stone slabs are required to produce 350 concrete slabs ? A) 200        B) 150         C)  100       D)  87,5      E)  50
+
+**Answer:** A
+[[src_kangourou_2004_ecolier__Q10]]

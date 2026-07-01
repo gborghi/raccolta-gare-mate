@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 41
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q41
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *B-8: random permutation of 1..10; probability both 9 and 12 appear among products a_i a_{i+1}.*
 
@@ -46,3 +49,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*B-8: permutazione casuale di 1,10; probabilità che sia 9 che 12 appariscano tra i prodotti a_i a_{i+1}.*
+
+> [Test Paper B, Problema 8] $a_1,a_2,\ldots,a_{10}$ sia una permutazione casuale di $1,2,\ldots,10$. Quindi la probabilità che sia $9$ che $12$ appaiano nei numeri $9$ $a_1a_2,a_2a_3,\ldots,a_9a_{10}$ è ______.
+
+[[src_cn_cmc-first-round_2021__Q41]]

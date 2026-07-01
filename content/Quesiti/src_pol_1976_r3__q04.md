@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1976 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1976_r3__Q04
 parent: src_pol_1976_r3
 competition: Olimpiade Matematica Polacca 1976 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *If the diagonals of one quadrilateral with given sides are perpendicular, prove they are perpendicular for any other quadrilateral with the same sides.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PxGC28sBLT0pD-IOjDgoTvfc9tTCy6v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Se le diagonali di un quadrilaterale con un dato lato sono perpendicolari, dimostrare che sono perpendicolari per qualsiasi altro quadrilaterale con gli stessi lati.*
+
+> I diagonali di alcuni quadrilaterali con lati $a,b,c,d$ sono perpendicolari. Prova che anche le diagonali di qualsiasi altro quadrilaterale con lati $a,b,c,d$ sono perpendicolari.
+
+[[src_pol_1976_r3__Q04]]

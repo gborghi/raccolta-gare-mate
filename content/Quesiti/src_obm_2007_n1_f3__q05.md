@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f3__Q05
 parent: src_obm_2007_n1_f3
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Digit sum of 9 times product of 2007-digit repunit fives and twos*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CZ3_wEdYuEm-6txjoEjsnqhbbQsygS85/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Summa digitali di 9 volte il prodotto di cinque e due numeri di repunito del 2007< MSK1/>
+
+> Let < MSK0/>. Calcolare la somma delle cifre di $9 \times A$. Non dimenticate di giustificare la vostra risposta.
+
+[[src_obm_2007_n1_f3__Q05]]

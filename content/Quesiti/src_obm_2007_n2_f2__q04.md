@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f2__Q04
 parent: src_obm_2007_n2_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the digit sum of a number K (statement not faithfully recoverable).*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la somma digitali di un numero K (dichiarazione non fedelmente recuperabile).*
+
+> [I numeri $1,2,3,\ldots$ sono coinvolti; la soluzione afferma che per $n=5$, $K$ ha i numeri $5$, con $K=2608.5=13040$, e che la somma dei numeri di $K$ è $8$. La fonte è un foglio di soluzioni e la dichiarazione originale NON è recuperabile da questo testo confuso. Risposta per il gabarito: 8.]
+
+**Risposta:** 8
+[[src_obm_2007_n2_f2__Q04]]

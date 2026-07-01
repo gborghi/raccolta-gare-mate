@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior finale (maggio) — Quesito J1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_maggio__QJ1
 parent: src_kangourou_2007_junior_maggio
 competition: Kangourou 2007 Junior finale (maggio)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max numeri scelti senza somma multipla di 3*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 10
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18MZGLQJUQipZMb6TJ_fvPWOpz_biScUr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Max number of numbers chosen without a multiple sum of 3*
+
+> Consider the integers from $1$ to $25$ included. You want to pick a few so that the sum of any two of those you choose is not a multiple of $3$. How many numbers can you pick?
+
+**Answer:** 10
+[[src_kangourou_2007_junior_maggio__QJ1]]

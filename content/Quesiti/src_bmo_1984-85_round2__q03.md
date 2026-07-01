@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1984-85 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1984-85_round2__Q03
 parent: src_bmo_1984-85_round2
 competition: British Mathematical Olympiad 1984-85 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove product of five consecutive positive integers is never a perfect square*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove il prodotto di cinque numeri interi positivi consecutivi non è mai un quadrato perfetto*
+
+> Prova che il prodotto di cinque numeri interi positivi consecutivi non è mai un quadrato perfetto.
+
+[[src_bmo_1984-85_round2__Q03]]

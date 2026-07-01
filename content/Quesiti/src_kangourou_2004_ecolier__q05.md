@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Ecolier (18 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_ecolier__Q05
 parent: src_kangourou_2004_ecolier
 competition: Kangourou 2004 Ecolier (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti quadratini verniciare (neri meta bianchi)*
 
@@ -56,3 +59,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many paint squares (black to white) < MSK1/>
+
+![[src_kangourou_2004_ecolier__prob5.png]]
+
+> How many white squares do I have to paint in black if I want the number of black squares to be exactly half the number of white squares? A) 2 B) 3 C) 4 D) 6 E) 0 A B B’ A’ 3 km
+> 
+> I'm going to pay. I'm going to pay. 6 Kang 2004 Kang
+
+**Answer:** B
+[[src_kangourou_2004_ecolier__Q05]]

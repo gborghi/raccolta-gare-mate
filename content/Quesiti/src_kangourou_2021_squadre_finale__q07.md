@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2021 Finale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q07
 parent: src_kangourou_2021_squadre_finale
 competition: Kangourou Coppa squadre 2021 Finale
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Velocita dell'autobus (ordine ai due distributori)*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Bus speed (order to two distributors) < MSK1/>
+
+> The bus A bus, a truck and a car travel at a constant speed, the truck at 63 km/h and the car at 126 km/h. They pass in this order in front of a service station spaced at equal intervals. They then pass by a second service station still at the same time intervals as before, but this time in the order of buses, cars, trucks. What is the speed of the bus in km/h?
+>  
+> ϕ
+
+[[src_kangourou_2021_squadre_finale__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r2__Q02
 parent: src_pol_1999_r2
 competition: Olimpiade Matematica Polacca 1999 — Round 2
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A piece is a 2-cube with a corner unit cube removed; show a 2^n cube minus one unit cube can be cut into pieces.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QtyD6o9jwMuVGDAxuguLy_l8OL34LF1K/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un pezzo è un cubo di 2 cubi con un cubo di unità angolare rimosso; mostrare un cubo di 2^n meno un cubo di unità può essere tagliato in pezzi.*
+
+> Un cubo di bordo $2$ con uno dei cubetti unitari di angolo rimosso si chiama pezzo. Prova che se un cubo $T$ di bordo $2^n$ è diviso in cubi unitari $2^{3n}$ e uno dei cubi unitari viene rimosso, il resto può essere tagliato in pezzi.
+
+[[src_pol_1999_r2__Q02]]

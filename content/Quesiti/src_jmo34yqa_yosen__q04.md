@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo34yqa_yosen__Q04
 parent: src_jmo34yqa_yosen
 competition: Japan Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum n so that 5-round stone replacement always ends on a black stone*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2883
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BLiurO6ycVxBaRhIQ4VIeU3sYe6dethe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum n in modo che la sostituzione di pietra a 5 giri finisca sempre su una pietra nera*
+
+> $n$ sia un numero intero con $0 \le n \le 5^5$. Mettete le pietre nere $n$ e le bianche $5^5 - n$ in fila e ripetete quindi la seguente operazione 5 volte:
+> 
+> Dividere la fila di pietre in gruppi di 5 da sinistra a destra. Per ciascun gruppo, sostituire tutte le 5 pietre di quel gruppo con 5 copie del colore che appare più spesso tra quelle 5 pietre.
+> 
+> Trova il valore minimo di $n$ in modo tale che, indipendentemente dalla disposizione iniziale, la sola pietra rimanente sia sempre nera.
+
+**Risposta:** 2883
+[[src_jmo34yqa_yosen__Q04]]

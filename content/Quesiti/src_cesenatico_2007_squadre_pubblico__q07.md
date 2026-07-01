@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q07
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -28,6 +29,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di discendenza infinita (ramificazione)*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Infinite probability of descent (branching) < MSK1/>
+
+> A singular technique [35] The Numeruto Matemaki has created a copy of it to confuse the pursuers of the village of Binomio. The copy, however, dissolves after a p or so, creating two more copies of Numbers with a probability of 5, 8, or disappearing without further consequences with a probability of 3.
+
+[[src_cesenatico_2007_squadre_pubblico__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q10
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cosa vede Guido dal lato opposto del vetro*
 
@@ -51,3 +54,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What the driver sees from the opposite side of the glass
+
+![[src_kangourou_2019_ecolier_marzo__prob10.png]]
+
+> Six strips of paper are interwoven and glued to a glass between them; Franca and Guido observe them from opposite sides of the glass. The figure shows you what Franca sees. What does Guido see? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** C
+[[src_kangourou_2019_ecolier_marzo__Q10]]

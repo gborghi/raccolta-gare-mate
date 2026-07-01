@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q23
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Suddividere triangolo in 4 aree uguali*
 
@@ -65,3 +68,40 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*To divide the triangle into 4 equal areas*
+
+![[src_kangourou_2002_junior__prob23.png]]
+
+> Assigned a triangle ABC, it is divided into 4 polygons S1, S2, S3, S4 by choosing two points D and E, respectively on the AB side and the BC side, as shown in Figure 1. Is it possible to choose D and E so that the four polygons have the same area?
+>  
+> A. No, whatever the ABC triangle is
+>  
+>  
+>  
+>  
+>  
+>  
+> B. Yes, but only if ABC is an equilateral triangle
+>  
+>  
+>  
+>  
+>  
+> C. Yes, but only if ABC is a right triangle
+>  
+>  
+>  
+>  
+> D. Yes, but only if ABC is an octagonal triangle
+>  
+>  
+>  
+> E. Yes, whatever the ABC triangle is.
+
+**Answer:** A
+[[src_kangourou_2002_junior__Q23]]

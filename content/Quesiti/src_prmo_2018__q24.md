@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q24
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count non-similar triangles with all integer angles in degrees, find N/100*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 27
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i triangoli non simili con tutti gli angoli interi in gradi, trovare N/100*
+
+> Se $N$ è il numero di triangoli di forme diverse (cioè non simili) i cui angoli sono tutti enti (in gradi), qual è $N/100$?
+
+**Risposta:** 27
+[[src_prmo_2018__Q24]]

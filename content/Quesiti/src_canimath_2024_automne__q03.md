@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2024 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_automne__Q03
 parent: src_canimath_2024_automne
 competition: Coupe Animath Automne 2024
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers a,b,n with a,b | n and n=a+b+ab; show a=b*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I numeri interi positivi a,b,n con a,b. n e n=a+b+ab; mostrare a=b*
+
+> Lasciate che $a$, $b$ e $n$ siano tre integri rigorosamente positivi in modo tale che $a$ e $b$ dividano entrambi $n$ e $n = a + b + ab$. Mostra che $a = b$.
+
+[[src_canimath_2024_automne__Q03]]

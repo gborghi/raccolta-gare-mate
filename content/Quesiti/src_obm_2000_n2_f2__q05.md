@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f2__Q05
 parent: src_obm_2000_n2_f2
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find n and m after erasing m from {1,...,n} leaves average 134/11*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvr2BmUCi_mUxzOEXueBNpo7nZjXbRHU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca n e m dopo aver cancellato m da {1,...,n} lascia media 134/11*
+
+> Elencare i numeri interi da $1$ a $n$. Da questo elenco cancellati il numero intero $m$. La media dei restanti numeri $n - 1$ è uguale a $\dfrac{134}{11}$. Trova $n$ e $m$.
+
+[[src_obm_2000_n2_f2__Q05]]

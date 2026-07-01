@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q04
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle CAB in quadrilateral ABCD with given angles*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca angolo CAB in ABCD quadrilaterale con angoli dati*
+
+> Il $ABCD$ deve essere un quadrilaterale con $\angle ADC = 70^\circ$, $\angle ACD = 70^\circ$, $\angle ACB = 10^\circ$ e $\angle BAD = 110^\circ$. La misura di $\angle CAB$ (in gradi) è:
+
+[[src_ioqm_2024__Q04]]

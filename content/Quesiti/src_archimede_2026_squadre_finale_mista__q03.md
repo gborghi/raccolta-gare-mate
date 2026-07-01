@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q03
 parent: src_archimede_2026_squadre_finale_mista
 competition: Gara a Squadre Nazionale 2026 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza QX con tangente e teorema secante-tangente*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0120
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*QX length with tangent and drying-tangent theorem*
+
+![[src_archimede_2026_squadre_finale_mista__prob3.png]]
+
+> That shield is mine! Francesco Laganà If you are forced to choose between a sword and a shield, take the shield, repeat Scalarchio to the young apprentices in the Arena dei Draghi. In the meantime, Θ(tufo) and Θbruta are already fighting over who should wear a particular training shield, with a design on the forehead: AB is a segment of 108 cm in length, while Γ is a circumference of center B and a radius of 72 cm. K is the intersection point of Γ with AB scream Θ(tuff). P is one of the two points of Γ for which AP is tangent to Γ corresponds to Θbruta. Finally, point Q, which is the orthogonal projection of K on the straight AP, and point X, which is the further intersection of the straight QK with Γ, are highlighted. How many centimeters does QX measure?
+
+**Answer:** 0120
+[[src_archimede_2026_squadre_finale_mista__Q03]]

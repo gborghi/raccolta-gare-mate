@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2013 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2013_automne__Q05
 parent: src_canimath_2013_automne
 competition: Coupe Animath Automne 2013
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Club of 100: popular member and maximum size of club*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Club di 100 persone: membro popolare e dimensione massima del club*
+
+> In un club di membri $100$, per ogni gruppo di quattro persone c'è almeno uno che conosce tutti e tre gli altri (un membro che conosce tutti gli altri sarà chiamato \textit{popular}).
+> 
+> 1) Prove che esiste almeno un membro che conosce tutti gli altri.
+> 
+> 2) Quanti membri può contenere un club che soddisfa questa condizione?
+
+[[src_canimath_2013_automne__Q05]]

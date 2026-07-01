@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1978-79 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1978-79_round1__Q06
 parent: src_bmo_1978-79_round1
 competition: British Mathematical Olympiad 1978-79 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Infinite sequence 1001,100010001,...; prove no prime divides all terms*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Sequenza infinita 1001,100010001,...; dimostrare che non esiste una prima che divida tutti i termini*
+
+> Considera la sequenza infinita di numeri interi $$1001, \quad 100010001, \quad 1000100010001, \quad \ldots$$ dove ogni numero intero dopo il primo viene ottenuto adiacendo $0001$ ai numeri del numero intero precedente.
+> 
+> Prove che non esiste un numero primo che divida tutti i numeri interi della sequenza.
+
+[[src_bmo_1978-79_round1__Q06]]

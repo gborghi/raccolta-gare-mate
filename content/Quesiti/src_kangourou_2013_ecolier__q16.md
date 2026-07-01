@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q16
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo amici di Nadia (ragazzi più ragazze)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Nadia's best friends (girls and boys)
+
+> At her birthday party, Nadia invited some friends, boys and girls. He doesn't know how many will accept the invitation, but he does know that the boys invited are more than the girls, that the invited boys named Franco are three and that they make up more than a third of the boys invited. How many of Nadia's friends, boys and girls, are going to be at the party? (a) 12 (b) 13 (c) 14 (d) 15 (e) 16 Questions from N. 17 al N. Twenty-four is worth five points each.
+
+**Answer:** D
+[[src_kangourou_2013_ecolier__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2005 — Round 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2005_r1__Q10
 parent: src_pol_2005_r1
 competition: Olimpiade Matematica Polacca 2005 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three random subsets of an n-set; find the most probable size of their intersection.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre sottoinsiemi casuali di un n-set; trovare la dimensione più probabile della loro intersezione.*
+
+> Sono stati scelti a caso tre sottoinsiemi $A, B, C$ di un dato set $n$-elemento $X$. Si presume che ognuno dei sottoinsiemi $2^n$ di $X$ sia equiprobabile. Trova il numero più probabile di elementi dell'insieme $A \cap B \cap C$.
+
+[[src_pol_2005_r1__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2013 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2013__Q12
 parent: src_bocconi_semifinale_2013
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2013
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare la calcolatrice difettosa sostituendo le cifre*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** due soluzioni: $124 \times 36$ e $214 \times 21$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete the defective calculator by replacing the digits*
+
+> Help Liliana  her calculator is defective and she writes only the figure "4"  to complete the following writing, replacing appropriate digits instead of the $*$ symbol: $$\frac{* * 4 \times}{* *} = \frac{4}{4 * 4}$$
+
+**Answer:** due soluzioni: $124 \times 36$ e $214 \times 21$
+[[src_bocconi_semifinale_2013__Q12]]

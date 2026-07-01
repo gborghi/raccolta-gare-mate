@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2020_n2_fx__Q03
 parent: src_obm_2020_n2_fx
 competition: Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest x_1 so that an infinite integer sequence contains 2020*
 
@@ -54,3 +57,17 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova il più piccolo x_1 in modo che una sequenza di numeri interi infiniti contenga 2020*
+
+> Considera una sequenza infinita $x_1, x_2, \ldots$ di interi positivi tale che, per ogni intero $n \ge 1$:
+> 
+> \begin{itemize} \item Se $x_n$ è pari, allora $x_{n+1} = \dfrac{x_n}{2}$. \item Se $x_n$ è pari, allora $x_{n+1} = \dfrac{x_n - 1}{2} + 2^{k-1}$, dove $k$ è il numero intero tale che $2^{k-1} \le x_n < 2^k$. # Finire #
+> 
+> Trova il minimo valore possibile di $x_1$ per il quale la sequenza contiene un termine pari a $2020$.
+
+[[src_obm_2020_n2_fx__Q03]]

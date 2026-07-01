@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q18
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Con quali colori la cella ombreggiata (4 colori)*
 
@@ -82,3 +85,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What colours the shaded cell is in (4 colours) *
+
+![[src_kangourou_2009_cadet_marzo__prob18.png]]
+
+> We want to color the grid cells in the figure using the four different colors X, Y, Z, W so that two cells that are in contact never receive the same color (two cells are considered to be in contact if they have at least one vertex in common). The figure shows that some colors have already been assigned. What colors can a shaded cell be colored with? A) Only Y. (b) Only Z. C) Only W. (D) Z or W. E) It is not possible to achieve colouration. D.O.D.I.C.I T.R.E = Q.U.A.T.T.R.O 1 3 π 4 π + 2 16 π 12 1 4 1 5 X Y Z W Y Y 1/2
+> 
+> I'm going to pay. I'm going to pay. 19 19 Kang 2009 Kang
+
+**Answer:** D
+[[src_kangourou_2009_cadet_marzo__Q18]]

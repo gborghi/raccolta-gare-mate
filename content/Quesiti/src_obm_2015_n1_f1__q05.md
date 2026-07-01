@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q05
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest sum in white squares of a numbered board (even neighbour sums)*
 
@@ -56,3 +59,21 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La somma più piccola in quadrati bianchi di una lavagna numerata (anche somma vicina) *
+
+> Violeta vuole numerare da 1 a 9 i quadrati della tavola mostrata, in modo tale che la somma di due numeri nei quadrati vicini (quelli che condividono un lato) sia sempre pari. Tra le piazze alcune sono colorate e altre bianche. Qual è la somma dei numeri scritti nei quadrati bianchi?
+>
+> - **(A)** 15
+> - **(B)** 16
+> - **(C)** 22
+> - **(D)** 29
+> - **(E)** 30
+
+![[src_obm_2015_n1_f1__Q05.png]]
+
+[[src_obm_2015_n1_f1__Q05]]

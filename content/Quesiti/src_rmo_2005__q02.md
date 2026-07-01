@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2005 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2005__Q02
 parent: src_rmo_2005
 competition: Regional Mathematical Olympiad 2005
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integers x,y: 17 divides two expressions implies 17 divides third*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14uHfQGAx1Ql7Gxjfhz36KBTCxECJwRQt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integra x,y: 17 divide due espressioni implica 17 divide terzo*
+
+> Se $x$, $y$ sono numeri interi e 17 divide sia $x^2 - 3xy + 2y^2 + x - y$ che $x^2 - 3xy + 2y^2 - 5x + 7y$, dimostri che 17 divide $xy - 12x + 15y$.
+
+[[src_rmo_2005__Q02]]

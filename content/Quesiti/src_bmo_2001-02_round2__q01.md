@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2001-02 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2001-02_round2__Q01
 parent: src_bmo_2001-02_round2
 competition: British Mathematical Olympiad 2001-02 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Altitude foot perpendiculars form equal segment EF for any vertex*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LpuwuHoIJIBIDP0Y40GXoBYpt9HAeS6D/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le perpendicolari dell'altitudine del piede formano segmento EF uguale per qualsiasi vertice*
+
+> L'altitudine da un vertice di un triangolo acuto $ABC$ incontra il lato opposto a $D$. Da $D$ le perpendicolari $DE$ e $DF$ sono tracciate verso gli altri due lati. Prove che la lunghezza di $EF$ è la stessa a seconda del vertice scelto.
+
+[[src_bmo_2001-02_round2__Q01]]

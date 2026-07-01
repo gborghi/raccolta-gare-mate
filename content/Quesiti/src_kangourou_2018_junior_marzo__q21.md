@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q21
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero vertici dei tre poligoni del 2018-agono diviso*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of vertices of the three polygons of the 2018 split axis*
+
+> In a regular polygon with 2018 vertices numbered consecutively from 1 to 2018, for example clockwise, two diagonals have been drawn. One connects the vertices with the numbers 18 and 1018, the other connects the vertices with the numbers 1018 and 2000. How many vertices do the three polygons in which the original polygon is divided have? A) 38, 983, 1001
+> 	
+> B) 37, 983, 1001
+> 	
+> C) 38, 982, 1001 D) 37, 982, 1000
+> 	
+> E) 37, 983, 1002
+
+**Answer:** A
+[[src_kangourou_2018_junior_marzo__Q21]]

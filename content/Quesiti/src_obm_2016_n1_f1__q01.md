@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f1__Q01
 parent: src_obm_2016_n1_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate (2016^2-1)/2015.*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare (2016^2-1)/2015.*
+
+> Calcolare il valore di $\dfrac{2016^2-1}{2015}$.
+> 
+> [Fonte: la chiave di risposta ufficiale (GABARITO); la dichiarazione di scelta pluriennale originale e le opzioni non sono riprodotte. Dalla soluzione: < MSK0/>. In alternativa, $\dfrac{2016^2-1}{2015}=\dfrac{4064256-1}{2015}=\dfrac{4064255}{2015}=2017$.]
+
+**Risposta:** E
+[[src_obm_2016_n1_f1__Q01]]

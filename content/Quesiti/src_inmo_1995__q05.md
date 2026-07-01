@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1995 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1995__Q05
 parent: src_inmo_1995
 competition: Indian National Mathematical Olympiad 1995
@@ -30,6 +31,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real numbers a_k>1 satisfying sum condition, prove double sum inequality*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-pje9yn5-Oz-tcMTgQ38tNi0Sa3TrKyD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri reali a_k>1 che soddisfano la condizione di somma, dimostrano la disuguaglianza della somma doppia*
+
+> I numeri reali $a_1, a_2, \ldots, a_n$ sono tutti superiori a $1$ e soddisfano $|a_k - a_{k+1}| < 1$ per $1 \le k \le n-1$. Provare che < MSK0/>
+
+[[src_inmo_1995__Q05]]

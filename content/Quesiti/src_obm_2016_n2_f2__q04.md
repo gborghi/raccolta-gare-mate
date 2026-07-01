@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f2__Q04
 parent: src_obm_2016_n2_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integer solutions to x^2 - y^4 = 36*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pMNbGFlrYDlG-OKHRMZRxFDZCNFl1iD6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Soluzioni a numeri interi positivi a x^2 - y^4 = 36*
+
+> Determinare il numero di soluzioni con $x$ e $y$ integri positivi dell'equazione $$x^2 - y^4 = 36.$$
+
+[[src_obm_2016_n2_f2__Q04]]

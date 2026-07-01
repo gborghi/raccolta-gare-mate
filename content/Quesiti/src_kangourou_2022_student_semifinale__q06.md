@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Semifinale individuale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q06
 parent: src_kangourou_2022_student_semifinale
 competition: Kangourou 2022 Student — Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *somma di a*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> sum of a< MSK1/>
+
+> (4 points) What is the sum of the possible values of the parameter a corresponding to which the two equations x2 + ax + 2022 = 0 and x2 + 2022x + a = 0 have at least one real solution in common? A) – 4045 B) – 1 C) 0
+>  
+> D) 1 E) 5
+
+**Answer:** B
+[[src_kangourou_2022_student_semifinale__Q06]]

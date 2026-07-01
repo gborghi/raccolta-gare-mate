@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q01
 parent: src_cesenatico_2006_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero nella colonna grigia*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0793
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*number in the grey column*
+
+![[src_cesenatico_2006_squadre_pubblico__prob1.png]]
+
+> It's a cube.
+
+**Answer:** 0793
+[[src_cesenatico_2006_squadre_pubblico__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2003 — Round 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2003_r1__Q09
 parent: src_pol_2003_r1
 competition: Olimpiade Matematica Polacca 2003 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all polynomials W with real coefficients such that if x+y is rational then W(x)+W(y) is rational.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutti i polinomi W con coefficienti reali in modo che se x+y è razionale allora W(x)+W(y) è razionale.*
+
+> Trova tutti i polinomi $W$ con coefficienti reali che hanno la seguente proprietà: se $x+y$ è un numero razionale, allora è $W(x)+W(y)$.
+
+[[src_pol_2003_r1__Q09]]

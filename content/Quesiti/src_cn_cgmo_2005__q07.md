@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2005 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2005__Q07
 parent: src_cn_cgmo_2005
 competition: China Girls' Mathematical Olympiad 2005
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove sum of reciprocals ≤ (m+n)/m for an antichain subset of {1,...,m}*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa provata di reciprocità ≤ (m+n)/m per un sottogruppo di anticetene di {1,...,m}*
+
+> $m$ e $n$ siano integri positivi con $m \ge 2$. L'insieme $S = \{1, 2, \cdots, m\}$ e $T = \{a_1, a_2, \cdots, a_k\}$ è un sottoinsieme di $S$ in modo tale che ogni numero di $S$ non sia divisibile da due numeri distinti di $T$. Provare che < MSK0/>
+
+[[src_cn_cgmo_2005__Q07]]

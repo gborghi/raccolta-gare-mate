@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1992 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1992__Q03
 parent: src_cgen_1992
 competition: Concours Général des Lycées 1992 — Matematica
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tetrahedron inscribed in sphere: three equivalent conditions*
 
@@ -45,3 +48,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tetraedro inserito nella sfera: tre condizioni equivalenti*
+
+> Il $ABCD$ deve essere un tetraedro inciso in una sfera con il centro $O$. Denotare con $G$ il centro isobario delle quattro vertici del tetraedro e con $I$ il centro della sfera inserita nel tetraedro. dimostrare che le seguenti tre proprietà sono equivalenti:
+> 
+> < MSK2/>1. < MSK3/> I due punti < MSK0/> e < MSK1/> coincidono.
+> 
+> **2.** Le quattro facce del tetraedro sono congruenti (isometriche).
+> 
+> < MSK2/>3.< MSK3/> I due punti < MSK0/> e < MSK1/> coincidono.
+
+[[src_cgen_1992__Q03]]

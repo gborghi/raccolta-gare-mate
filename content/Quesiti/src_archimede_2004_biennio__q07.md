@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2004 - Gara Biennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2004_biennio__Q07
 parent: src_archimede_2004_biennio
 competition: Giochi di Archimede 2004 - Gara Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti diversi da zero*
 
@@ -39,3 +42,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*numbers other than zero*
+
+> $a$, $b$ and $c$ are three natural numbers. We know that $a$ is divisible by 15 and $b$ is divisible by 21. Which of the following is certainly true?
+>
+> - **(A)** $a^2 + b^2 + c^2$ is divisible by 2
+> - **(B)** $a + b + c$ is divisible by 18
+> - **(C)** $a + b + c$ is divisible by 9
+> - **(D)** $(a + b + c)^2$ is divisible by 9
+> - **(E)** $a^2 + b^2 + c^2$ is divisible by 9
+
+[[src_archimede_2004_biennio__Q07]]

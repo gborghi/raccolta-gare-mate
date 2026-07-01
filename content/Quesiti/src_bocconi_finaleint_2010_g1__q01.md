@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 1) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g1__Q01
 parent: src_bocconi_finaleint_2010_g1
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di quadratini da spostare per formare un grande quadrato.*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of squares to move to form a large square.*
+
+> Mathias arranged 16 squares identical to the figure. He proposes to Mathilde to form a large square with these 16 squares. How many squares does Mathilde have to move, at least, to form a large square?
+
+![[src_bocconi_finaleint_2010_g1__Q01.png]]
+
+**Answer:** 4
+[[src_bocconi_finaleint_2010_g1__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q20
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Estimate height of a stack of 100 million sheets of paper*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Altezza stimata di uno stack di 100 milioni di fogli di carta*
+
+> Immaginate una pila di cento milioni di fogli di carta sulfita, spessori $0.1\ \text{mm}$ ciascuno. L'alternativa più vicina all'altezza della pila è:
+>
+> - **(A)** la tua altezza.
+> - **(B)** l'altezza dell'animale più alto del mondo, la balena blu, che è di circa 29 metri.
+> - **(C)** l'altezza dell'edificio più alto del mondo, la Torre di Petronas, che ha 88 piani.
+> - **(D)** l'altezza della cima più alta del mondo, il Monte Everest, che è di 8848 metri.
+> - **(E)** la distanza dalla Terra alla Luna, che è molto maggiore di tutte le alternative precedenti.
+
+**Risposta:** D
+[[src_obm_2003_n1_f1__Q20]]

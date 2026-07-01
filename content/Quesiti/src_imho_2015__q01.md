@@ -1,6 +1,7 @@
 ---
 title: IMO 2015 (LVI International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2015__Q01
 parent: src_imho_2015
 competition: IMO 2015 (LVI International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Balanced and centre-free finite point sets in the plane*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Balanced and centre-free finite point sets in the plane*
+
+> We say that a finite set of points in the plane is balanced if, for any two different points $A$ and $B$ in $\mathcal{S}$, there is a point $C$ in $\mathcal{S}$ such that $AC = BC$. We say that $\mathcal{S}$ is centre-free if for any three different points $A$, $B$ and $C$ in $\mathcal{S}$, there is no point $P$ in $\mathcal{S}$ such that $PA = PB = PC$.
+> 
+> (a) Show that for all integers $n \ge 3$, there exists a balanced centre-free set consisting of $n$ points.
+> 
+> (b) Determine the integers $n \ge 3$ for which there exists a balanced centre-free set consisting of $n$ points.
+
+[[src_imho_2015__Q01]]

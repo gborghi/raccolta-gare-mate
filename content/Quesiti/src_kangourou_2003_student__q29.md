@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student (20 marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student__Q29
 parent: src_kangourou_2003_student
 competition: Kangourou 2003 Student (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie di segmenti estranei nell'esagono*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Couples of foreign segments in the hexagon*
+
+> Let's consider the six vertices of a regular hexagon, and all the segments that connect any two of these points. We call two of these segments "foreign" if they have nothing in common (including the extremes). How many pairs of "foreign" segments are there? A) 26 B) 28 C) 30 D) 34 E) 36
+
+**Answer:** C
+[[src_kangourou_2003_student__Q29]]

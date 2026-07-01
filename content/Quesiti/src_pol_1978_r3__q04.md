@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1978 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1978_r3__Q04
 parent: src_pol_1978_r3
 competition: Olimpiade Matematica Polacca 1978 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For a set X of n elements, prove the sum of |A∩B| over all pairs of subsets equals n·4^{n-1}.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AGtrG0C8tcQJU36uFC-bh5dGK0KglZ6h/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per un insieme X di n elementi, provare la somma di A ∩B di tutti i coppie di sottoinsiemi è uguale a n·4^{n-1}.*
+
+> Si deve $X$ essere un insieme di elementi $n$. Prove che la somma dei numeri di elementi di set $A\cap B$, dove $A$ e $B$ si corrono su tutti i sottoinsiemi di $X$, è uguale a $n\cdot 4^{n-1}$.
+
+[[src_pol_1978_r3__Q04]]

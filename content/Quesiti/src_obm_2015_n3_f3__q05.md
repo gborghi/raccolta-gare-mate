@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f3__Q05
 parent: src_obm_2015_n3_f3
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 3
@@ -39,6 +40,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Polynomial f with rational coefficients and integer-valued set S of size n+1 forcing g(t)=f(t) for all t*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomio f con coefficienti razionali e set di valori interi S di dimensione n+1 che forza g(t)=f(t) per tutte le t*
+
+> È vero che per ogni polinomio $f(x)$ con coefficienti razionali, non tutti i coefficienti interi, di grado $n > 0$, e per ogni polinomio $g(x)$ con tutti i coefficienti interi, esiste un insieme $S$ con $n + 1$ interi tali che $g(t) = f(t)$ per tutti $t \in S$?
+
+[[src_obm_2015_n3_f3__Q05]]

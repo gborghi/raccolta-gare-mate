@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo32ya_yosen__Q11
 parent: src_jmo32ya_yosen
 competition: Japan Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest power of 5 dividing sum of ±n^100 based on digit-sum parity*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 5074
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La potenza più bassa di 5 somma divisoria di ±n^100 in base alla parità di somma digitali*
+
+> Per ogni intero positivo $n$, definire $$f(n) = \begin{cases} n^{100} & \text{if the sum of the digits of } n \text{ is even,} \\ -n^{100} & \text{if the sum of the digits of } n \text{ is odd.} \end{cases}$$ Let $S = f(1) + f(2) + \cdots + f(10^{100} - 1)$. Trova il più grande intero non negativo $m$ tale che $5^m$ divida $S$ (si dà che $S \ne 0$).
+
+**Risposta:** 5074
+[[src_jmo32ya_yosen__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f1__Q13
 parent: src_obm_1999_n1_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Letícia sells all CDs at same price to three friends; find minimum number of CDs.*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Letícia vende tutti i CD allo stesso prezzo a tre amici; trova il numero minimo di CD.
+
+> Leticia ha venduto tutti i suoi CD di videogiochi a tre amici, addebitando rispettivamente R$180 e R$320. Tutti i CD avevano lo stesso prezzo. Qual è il numero minimo di CD che Let'icia aveva?
+> 
+> (A) 20 \quad (B) 37 \quad (C) 21 \quad (D) 41 \quad (E) 25
+
+**Risposta:** B
+[[src_obm_1999_n1_f1__Q13]]

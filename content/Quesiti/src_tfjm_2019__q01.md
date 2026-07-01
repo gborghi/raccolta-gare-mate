@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2019__Q01
 parent: src_tfjm_2019
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Constructible house floor plans on a grid with overlong walls (binmus) and external cells*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Piani di pavimentazione di una casa da costruire su una griglia con pareti troppo lunghe (binmus) e celle esterne*
+
+> Donald vuole costruire una nuova casa. Deve aggiungere partizioni interne. La casa è un rettangolo di dimensioni $a \times b$, dove $a$ e $b$ sono integri $\ge 2$, che si decompone in cellule unità di lato $1$. Per evitare la formazione di corridoi, una cella può non avere due lati all'interno della casa: una tale cella è chiamata cella interna, mentre le celle sul bordo sono chiamate celle esterne. Donald, purtroppo, ha commesso un errore nel suo ordine: entusiasta, ha ordinato i muri troppo lunghi. Un muro così troppo lungo si chiama "binmu". Due binmus possono incrociare in un singolo punto (formando una croce), ma non possono essere sovrapposti. Donald cerca quali piani sono possibili per la sua nuova casa con questi vincoli. La figura 1 rappresenta un piano valido per una casa di dimensioni < MSK5/>. La figura 2 rappresenta tre piani di abitazioni $4 \times 3$ che sono invalidi. Un insieme di celle (in grigio sulla figura 1) in modo che ci sia un modo per costruire la casa con binmus su un piano $8 \times 4$ che dà la figura 1 è chiamato un insieme \emph{construibile}, cioè È possibile costruire la casa rispettando i binmus e i vincoli. A partire dalla figura 1, è possibile costruire l'insieme arancione di cellule?\n\n\textbf{2.} Dato $a$ e $b$, è possibile costruire una nuova casa in modo che non ci siano mai due binmus consecutivi (formando un muro di lunghezza $4$ o più)? Per esempio, il piano della figura 1 non è più accettato. Propone diverse costruzioni generali quando questo è possibile.\n\n\textbf{3.} Quante cellule può contenere un ciclo al massimo?\n\n\textbf{4.} Dato $a$ e $b$, quali cellule esterne appartengono a un insieme costruttibile? Quanti elementi un insieme costruttibile può contenere al massimo?\n\n\textbf{5.} Dato $a$ e $b$, caratterizzare gli insiemi costruttibili.\n\n\textbf{6.} Vladimir, un zio di Donald, vuole anche costruire una nuova casa ma su una griglia triangolare, cioè con cellule sotto forma di triangoli equilaterali di lato $1$. Prendi il problema in questo caso e nel caso generale di un $m$-gon.\n\n\textbf{7.} Proponi e studia altre vie di ricerca.
+
+![[src_tfjm_2019__Q01.png]]
+
+[[src_tfjm_2019__Q01]]

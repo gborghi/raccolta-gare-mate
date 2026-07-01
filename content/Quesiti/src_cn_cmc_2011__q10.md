@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2011 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2011__Q10
 parent: src_cn_cmc_2011
 competition: China Mathematical Competition 2011
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Recurrence sequence: find general term and compare consecutive terms*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di ricorrenze: trovare termine generale e confrontare termini consecutivi*
+
+> Supponiamo che la sequenza $\{a_n\}$ soddisfi $a_1 = 2t - 3$ ($t \in \mathbf{R}$ e $t \neq \pm 1$), $$a_{n+1} = \frac{(2t^{n+1} - 3)a_n + 2(t - 1)t^n - 1}{a_n + 2t^n - 1} \quad (n \in \mathbf{N}^*).$$ (1) Trova la formula del termine generale su $\{a_n\}$. (2) Se < MSK6/>, scopri quale sia più grande tra < MSK7/> e < MSK8/>.
+
+[[src_cn_cmc_2011__Q10]]

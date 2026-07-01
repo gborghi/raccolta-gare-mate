@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Junior — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_junior__Q26
 parent: src_kangourou_2013_junior
 competition: Kangourou 2013 marzo Junior
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo frazioni intere con interi da 1 a 22*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum whole fractions with integers from 1 to 22< MSK1/>
+
+> Using all integers between 1 and 22 included, one numbered and one denominated, one can form 11 fractions. How many of these fractions can have an integer value at most? A) 7
+> 	
+> B) 8
+> 	
+> C) 9
+> 	
+> D) 10
+> 	
+> E) 11
+
+**Answer:** D
+[[src_kangourou_2013_junior__Q26]]

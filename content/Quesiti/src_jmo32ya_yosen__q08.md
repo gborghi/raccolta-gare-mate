@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo32ya_yosen__Q08
 parent: src_jmo32ya_yosen
 competition: Japan Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count strictly-increasing sequences satisfying a decreasing squared-difference chain*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare sequenze in rigido aumento che soddisfano una catena di differenza quadrata in diminuzione*
+
+> Quante sequenze di numeri interi positivi in aumento rigoroso $(a_1, a_2, \ldots, a_{2022})$ soddisfano $$a_1^2 - 6^2 \ge a_2^2 - 7^2 \ge \cdots \ge a_{2022}^2 - 2027^2\,?$$
+
+**Risposta:** 10
+[[src_jmo32ya_yosen__Q08]]

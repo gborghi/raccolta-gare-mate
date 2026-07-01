@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q05
 parent: src_kangourou_2013_squadre_f
 competition: Kangourou Coppa Squadre 2013 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo PQT in rettangolo con punti medi*
 
@@ -77,3 +80,49 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1750
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*PQT triangle area in a rectangle with midpoints*
+
+![[src_kangourou_2013_squadre_f__prob5.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \coordinate (K) at (0,0);
+  \coordinate (L) at (4,0);
+  \coordinate (M) at (4,2.5);
+  \coordinate (N) at (0,2.5);
+  \coordinate (P) at (0,1.25);
+  \coordinate (Q) at (2,2.5);
+  \coordinate (R) at (4,1.25);
+  \coordinate (S) at (2,0);
+  \coordinate (T) at (3,0.625);
+  \draw (K) -- (L) -- (M) -- (N) -- cycle;
+  \fill[gray!50] (P) -- (Q) -- (T) -- cycle;
+  \draw[blue] (P) -- (Q) -- (T) -- cycle;
+  \draw[blue] (R) -- (S);
+  \node[below left] at (K) {K};
+  \node[below right] at (L) {L};
+  \node[above right] at (M) {M};
+  \node[above left] at (N) {N};
+  \node[left] at (P) {P};
+  \node[above] at (Q) {Q};
+  \node[right] at (R) {R};
+  \node[below] at (S) {S};
+  \node[right] at (T) {T};
+  \foreach \pt in {P,Q,R,S,T} {
+    \fill[white] (\pt) circle(2pt);
+    \draw (\pt) circle(2pt);
+  }
+\end{tikzpicture}
+\end{document}
+```
+
+> A rectangle and a triangle. Watch the figure. KLM is a rectangle, each of the points P, Q, R and S is the middle point of the side of the rectangle on which it lies and T is the middle point of RS. If the area of the KLM rectangle is 70 square centimetres, how many square centimetres is the area of the PQT triangle?
+
+**Answer:** 1750
+[[src_kangourou_2013_squadre_f__Q05]]

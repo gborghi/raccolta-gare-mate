@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2000 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2000_r1__Q05
 parent: src_pol_2000_r1
 competition: Olimpiade Matematica Polacca 2000 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer pairs (a,b) with a^3+6ab+1 and b^3+6ab+1 both cubes.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di integri positivi (a,b) con a^3+6ab+1 e b^3+6ab+1 entrambi i cubi.*
+
+> Trovare tutte le coppie $(a, b)$ di numeri interi positivi in modo tale che i numeri $a^3 + 6ab + 1$ e $b^3 + 6ab + 1$ siano cubetti di numeri interi positivi.
+
+[[src_pol_2000_r1__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre finale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q13
 parent: src_kangourou_2011_squadre_finale
 competition: Kangourou 2011 squadre finale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore n con 2^n=134217728*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 27
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13507kQgtd5A0hh0IwUZH9QyAEafhU_bz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>N value with 2^n = 134217728< MSK1/>
+
+> A power of two. You know that 2n is equal to 134,217,728. How much is n ?
+
+**Answer:** 27
+[[src_kangourou_2011_squadre_finale__Q13]]

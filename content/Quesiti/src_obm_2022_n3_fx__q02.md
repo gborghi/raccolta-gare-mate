@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2022 — Nível 3 — Fase x — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2022_n3_fx__Q02
 parent: src_obm_2022_n3_fx
 competition: Olimpíada Brasileira de Matemática 2022 — Nível 3 — Fase x
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Reflection of circumcenter midpoint lies on circumcircle ABC*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zz_BBn8K4_LsZ6QfCiVpK3gqOIlQZ9ly/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il riflesso del centro del circolo si trova sul circolo ABC*
+
+> $ABC$ sia un triangolo acuto con $AB < AC$. Il punto $K$ deve essere il punto medio dell'arco $BC$ del cerchio circoscritto di $ABC$ che non contiene $A$ e il punto medio del lato $BC$ deve essere $P$. I punti $I_B$ e $I_C$ sono gli eccentri relativi ai vertici $B$ e $C$, rispettivamente. Il $Q$ deve essere il riflesso di $K$ attraverso il punto $A$. Indicare che $P$, $Q$, $I_B$ e $I_C$ si trovano sullo stesso cerchio.
+
+[[src_obm_2022_n3_fx__Q02]]

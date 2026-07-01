@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f2__Q05
 parent: src_obm_2013_n2_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max bishops on 8x8 board with no two attacking each other*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jz8AX5epqRi_4AzCthzju1jrj_ZupO7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Massimi vescovi su una tavola 8x8 senza due che si attaccano
+
+> Un \textit{bispo} (vescovo) è un pezzo di scacchi che può fare solo mosse diagonali; cioè può spostare qualsiasi numero di quadrati diagonalmente. Nella figura seguente sono indicate le possibili indicazioni di movimento di un vescovo da un determinato quadrato della lavagna. Diciamo che due vescovi si attaccano quando uno di loro è in una piazza che l'altro può raggiungere. Qual è il numero massimo di vescovi che può essere posto su una scacchiera in modo tale che due vescovi non si attaccino a vicenda?
+
+![[src_obm_2013_n2_f2__Q05.png]]
+
+[[src_obm_2013_n2_f2__Q05]]

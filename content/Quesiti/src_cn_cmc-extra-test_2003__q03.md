@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Extra Test) 2003 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-extra-test_2003__Q03
 parent: src_cn_cmc-extra-test_2003
 competition: China Mathematical Competition (Extra Test) 2003
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Space figure with n=q^2+q+1 vertices: prove existence of space quadrilateral*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Figura spaziale con vertici n=q^2+q+1: prova dell'esistenza di quadrilaterali spaziali*
+
+> La figura spaziale è composta da vertici $n$ e linee $l$ che collegano tali vertici, con $n = q^2 + q + 1$, $l \ge \frac{1}{2}(q+1)^2 + 1$, $q \ge 2$, $q \in \mathbb{N}$. Supponiamo che la figura soddisfi le seguenti condizioni: ogni quattro vertici non sono coplanari, ogni vertici è collegato da almeno una linea e c'è un vertici che è collegato da almeno $q + 2$ linee. Prove che esiste un quadrilaterale spaziale nella figura.
+
+[[src_cn_cmc-extra-test_2003__Q03]]

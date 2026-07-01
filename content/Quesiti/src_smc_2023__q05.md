@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2023 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2023__Q05
 parent: src_smc_2023
 competition: Senior Mathematical Challenge 2023
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of triangle joining centres of three touching circles*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area del triangolo che unisce i centri di tre cerchi in contatto*
+
+> Tre cerchi con radii $2$, $3$ e $3$ si toccano, come mostrato nel diagramma. Qual è l'area del triangolo formato dalla connessione dei centri di questi cerchi?
+>
+> - **(A)** $10$
+> - **(B)** $12$
+> - **(C)** $14$
+> - **(D)** $16$
+> - **(E)** $18$
+
+![[src_smc_2023__Q05.png]]
+
+**Risposta:** B
+[[src_smc_2023__Q05]]

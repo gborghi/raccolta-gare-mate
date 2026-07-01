@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2007 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2007__Q02
 parent: src_cn_cmo_2007
 competition: China Mathematical Olympiad 2007
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove two statements about fractions (a_j+a_{j+1})/gcd for prime/composite 2n-1*
 
@@ -54,3 +57,21 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove due affermazioni sulle frazioni (a_j+a_{j+1})/gcd per primo/composto 2n-1*
+
+> Provare le seguenti affermazioni:
+> 
+> (1) Se $2n - 1$ è un primo, allora per qualsiasi gruppo di integri positivi distinti $a_1, a_2, \cdots, a_n$ (dove $a_{n+1} = a_1$), esiste $j \in \{1, 2, \cdots, n\}$ tale che $\dfrac{a_j + a_{j+1}}{(a_j, a_{j+1})} \ge 2n - 1$.
+> 
+> (2) Se $2n - 1$ è un numero composto, allora esiste un gruppo di integri positivi distinti $a_1, a_2, \cdots, a_n$ tale che $\dfrac{a_j + a_{j+1}}{(a_j, a_{j+1})} < 2n - 1$ per qualsiasi $j \in \{1, 2, \cdots, n\}$.
+> 
+> Qui $(x, y)$ indica il più grande divisore comune degli integri positivi $x$ e $y$.
+
+![[src_cn_b07_w62__Q02.png]]
+
+[[src_cn_cmo_2007__Q02]]

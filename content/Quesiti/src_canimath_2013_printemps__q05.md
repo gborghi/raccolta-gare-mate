@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2013 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2013_printemps__Q05
 parent: src_canimath_2013_printemps
 competition: Coupe Animath Printemps 2013
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *(m,n)-grasshopper on grid colored in (2,1)-pattern: find m,n so it always changes color*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*(m,n) - scarafaggio su griglia colorato in (2,1) - modello: trovare m,n così cambia sempre colore*
+
+> I numeri $m$ e $n$ devono essere numeri interi rigorosamente positivi. Un scarafaggio chiamato scarafaggio $(m,n)$ è posizionato su una griglia con infinite righe (infinite verso l'alto e verso il basso) e colonne (infinite verso sinistra e destra). A ogni passo, il salmone muove le cellule $m$ in una direzione (orizzontale o verticale) e le cellule $n$ nella direzione perpendicolare. La griglia è di colore blu e rosso in un modello $(2,1)$-grasshopper (cioè il colore si ripete con periodo $2$ in una direzione e periodo $1$ nell'altra).
+> 
+> Per quali valori di $m$ e $n$ cambia colore la scarafaggio ad ogni passo?
+
+[[src_canimath_2013_printemps__Q05]]

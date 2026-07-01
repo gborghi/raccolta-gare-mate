@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q19
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number closest to the number of digits of 3^400*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Numero più vicino al numero di cifre di 3^400*
+
+> Quale dei seguenti numeri è più vicino al numero di cifre di $3^{400}$?
+> 
+> (A) $100$ \quad (B) $150$ \quad (C) $200$ \quad (D) $240$ \quad (E) $300$
+
+**Risposta:** C
+[[src_obm_2013_n3_f1__Q19]]

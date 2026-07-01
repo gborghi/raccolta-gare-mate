@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2010 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2010__Q05
 parent: src_cn_cwmo_2010
 competition: China Western Mathematical Olympiad 2010
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all k>1 for which linear recurrence sequence has repeated sum property*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** k=2
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le k>1 per le quali la sequenza di ricorrenza lineare ha la proprietà della somma ripetuta*
+
+> $k$ sia un numero intero e $k > 1$. Definire una sequenza $\{a_n\}$ come segue: $a_1 = 0$, $a_2 = 1$ e $a_{n+1} = ka_n + a_{n-1}$ per $n = 1, 2, \ldots$ Determinare, con la prova, tutti i possibili $k$ in modo che esistano integri non negativi $\ell, m$ ($\ell \ne m$) e integri positivi $p, q$ in modo che $a_\ell + ka_p = a_m + ka_q$.
+
+**Risposta:** k=2
+[[src_cn_cwmo_2010__Q05]]

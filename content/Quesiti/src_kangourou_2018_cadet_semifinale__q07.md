@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q07
 parent: src_kangourou_2018_cadet_semifinale
 competition: Kangourou 2018 Cadet - Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero somma di tre e di quattro consecutivi*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kVLsfgriHzHWeJPk7c69FlUrtxeTTMzS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of three and four consecutive *
+
+> (Points 5) Which of the following numbers is either the sum of three consecutive integers or the sum of four consecutive integers? A) 20182018 B) 20192019 C) 20202020 D) 20212021	          E) 20222022
+
+**Answer:** E
+[[src_kangourou_2018_cadet_semifinale__Q07]]

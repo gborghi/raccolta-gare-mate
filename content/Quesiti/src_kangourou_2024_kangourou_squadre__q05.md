@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_kangourou_squadre__Q05
 parent: src_kangourou_2024_kangourou_squadre
 competition: Kangourou Squadre 2024 Kangourou Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Più grande numero con prodotto cifre 90*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1H4evp3ENM3JXuKHssVIkxKmXh6l0-t0_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most number with product figures of 90< MSK1/>
+
+> What is the greatest positive integer whose product is 90? (Write 0000 if you believe such a number does not exist.)
+
+**Answer:** 0000
+[[src_kangourou_2024_kangourou_squadre__Q05]]

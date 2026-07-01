@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f1__Q08
 parent: src_obm_1999_n1_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Marbles redistributed to boys and girls; find percentage of boys.*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Marmi ridistribuiti a ragazzi e ragazze; trovare la percentuale di ragazzi.*
+
+> Dona Zizi ha comprato 2 marmi per ogni studente della quinta elementare. Poiché i ragazzi erano rumorosi, lei decise di ridistribuirli: dare 3 marmi a ogni ragazza e solo 1 marmi a ogni ragazzo. Possiamo concludere che nella quinta elementare:
+> 
+> (A) 20\% sono ragazzi \quad (B) 30\% sono ragazzi \quad (C) 50\% sono ragazzi \quad (D) 50\% sono ragazze \quad (E) 66,6\ldots\% sono ragazzi
+
+**Risposta:** C
+[[src_obm_1999_n1_f1__Q08]]

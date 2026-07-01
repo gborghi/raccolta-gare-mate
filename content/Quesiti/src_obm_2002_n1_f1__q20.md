@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f1__Q20
 parent: src_obm_2002_n1_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find volume V removed twice from a wine-water mixture*
 
@@ -48,3 +51,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NviJwQmbmihSaakvq3DJSWhViadj6Z5P/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ricerca il volume V rimosso due volte da una miscela di acqua vitivinicola< MSK1/>
+
+> Una fabbrica ha acquistato $2000$ litri di vino puro e ha quindi rimosso un certo volume $V$ di vino per produrre un succo e sostituito questo volume con l'acqua. Successivamente, è stato rimosso di nuovo lo stesso volume $V$ della miscela e sostituito di nuovo con acqua. Nella miscela finale ci sono < MSK3/> litri di vino. Il volume $V$ è:
+> 
+> (A) $500$ litri (B) $600$ litri (C) $700$ litri (D) $800$ litri (E) $900$ litri
+
+**Risposta:** A
+[[src_obm_2002_n1_f1__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1999 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1999__Q04
 parent: src_inmo_1999
 competition: Indian National Mathematical Olympiad 1999
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equilateral triangles inscribed in concentric circles inequality for arbitrary points*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hgD_u8X82WEkCyMKo3vqKvNfYTKTm396/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangoli equalaterali inscritti in cerchi concentrici disuguaglianza per punti arbitrari*
+
+> I triangoli equilaterali $ABC$ e $A_1B_1C_1$ sono inseriti rispettivamente in cerchi concentrici $\Gamma$ e $\Gamma_1$. Se $P$ e $P_1$ sono punti arbitrari rispettivamente su $\Gamma$ e $\Gamma_1$, dimostrare che $$P_1A^2 + P_1B^2 + P_1C^2 = PA_1^2 + PB_1^2 + PC_1^2.$$
+
+[[src_inmo_1999__Q04]]

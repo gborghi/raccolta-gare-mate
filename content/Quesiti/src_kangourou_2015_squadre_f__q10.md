@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Finale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q10
 parent: src_kangourou_2015_squadre_f
 competition: Kangourou Coppa Squadre 2015 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di comporre tre squadre da 6 coppie di gemelli*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 960
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h_SgvOFzLa5MkyUk9nA_Lj1BTGkSTzB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Mode of composing three teams of 6 pairs of twins< MSK1/>
+
+> A strange class A strange class is made up of six pairs of twins. The 12 students will be divided into three teams of four students each, who will compete in a competition, so that no team will have either a student or a twin. How many different ways can the three teams be composed?
+
+**Answer:** 960
+[[src_kangourou_2015_squadre_f__Q10]]

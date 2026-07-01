@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q24
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio circonferenza piccola in quadrato*
 
@@ -58,3 +61,29 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Short radius of small square circumference< MSK1/>
+
+![[src_kangourou_2005_junior__prob24.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  % Problem 24: Square circumscribed to large circle radius 1,
+  % small circle tangent to right and top sides and externally to large circle
+  % r = 3 - 2*sqrt(2) ≈ 0.172, center at (1-r, 1-r) ≈ (0.828, 0.828)
+  \draw (-1,-1) rectangle (1,1);
+  \draw (0,0) circle[radius=1];
+  \draw (0.828,0.828) circle[radius=0.172];
+\end{tikzpicture}
+\end{document}
+```
+
+> The figure represents a square and two circles. The square is surrounded by the large circumference, which has a radius of 1 and is tangent externally to the small circumference, which is tangent to two sides of the square. What is the radius of the small circumference? A)                 B) C) D) E)
+
+**Answer:** A
+[[src_kangourou_2005_junior__Q24]]

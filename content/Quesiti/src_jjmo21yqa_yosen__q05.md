@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo21yqa_yosen__Q05
 parent: src_jjmo21yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Chord through triangle parallel to BC; find DE*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 17/5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11kigjl_Wt-al8ocndA12n0n3x8dtw2E3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cord attraverso un triangolo parallelo a BC; trovare DE*
+
+> C'è un triangolo $ABC$ con $AB = 8$ e $AC = 9$. Una linea parallela alla linea $BC$ incontra il circoncircolo del triangolo $ABC$ in due punti distinti $P, Q$ e incontra i lati $AB$, $AC$ rispettivamente nei punti $D$ e $E$. I quattro punti $P, D, E, Q$ si trovano in questo ordine. Quando $PD = 2$ e $EQ = 3$, trovare la lunghezza del segmento $DE$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** 17/5
+[[src_jjmo21yqa_yosen__Q05]]

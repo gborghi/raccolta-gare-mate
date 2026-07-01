@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 1) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g1__Q17
 parent: src_bocconi_finaleint_2009_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto fra raggio grande e raggio piccolo nel blasone formato da archi di cerchio tangenti, con raggi interi in mm.*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{39}{20}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio of large and small radii in the blade of tangent circle arcs, with integer radii in mm.*
+
+> 17 - BLASON (coefficient 17) The Maths-Chateau blade has an axis of vertical symmetry. The four circle arcs have the same radius. Set one after the other, a small bow and a large bow form exactly a quarter of a circle. The tangent to the large arc perpendicular to the horizontal segment and the small arc tangent to each end of this segment. All tangent and contact points are perfect. The radii of the two circles measure an integer number of millimeters. What's the relationship between the largest and the smallest? It will respond in the form of an irreducible fraction.
+
+![[src_bocconi_finaleint_2009_g1__Q17.png]]
+
+**Answer:** $\frac{39}{20}$
+[[src_bocconi_finaleint_2009_g1__Q17]]

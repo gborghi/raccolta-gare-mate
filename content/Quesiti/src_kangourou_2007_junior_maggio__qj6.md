@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior finale (maggio) — Quesito J6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_maggio__QJ6
 parent: src_kangourou_2007_junior_maggio
 competition: Kangourou 2007 Junior finale (maggio)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di sottoinsiemi porosi di {1..10}*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 504
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18MZGLQJUQipZMb6TJ_fvPWOpz_biScUr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of porous sub-sets of {1,10}< MSK1/>
+
+> A set $S$ of positive natural numbers is called "porous" if it is empty or does not contain three consecutive integers. How many porous subsets of the $\{1, 2, 3, \ldots, 10\}$ set are there?
+
+**Answer:** 504
+[[src_kangourou_2007_junior_maggio__QJ6]]

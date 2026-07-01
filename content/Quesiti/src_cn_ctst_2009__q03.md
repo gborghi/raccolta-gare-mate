@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2009 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2009__Q03
 parent: src_cn_ctst_2009
 competition: China National Team Selection Test 2009
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bound number of n with p | n! - 1 by cp^(2/3)*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Numero di n con p n! - 1 by cp^(2/3)*
+
+> Prova che per qualsiasi numero primo impar $p$, il numero di integri positivi $n$ soddisfa $p \mid n! - 1$ non è superiore a $cp^{\frac{2}{3}}$, dove $c$ è una costante indipendente da $p$. (Posato da Yu Hongbing)
+
+[[src_cn_ctst_2009__Q03]]

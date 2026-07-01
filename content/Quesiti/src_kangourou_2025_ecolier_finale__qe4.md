@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2025 Ecolier finale — Quesito E4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2025_ecolier_finale__QE4
 parent: src_kangourou_2025_ecolier_finale
 competition: Kangourou 2025 Ecolier finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Su quale dito cade il conteggio 2025*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** pollice
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EyuX-CGpqanxcrAEhrv2lXfkmU9jNjKg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which finger does the 2025 count fall on*
+
+> On the fingers of one hand, Silvia counted as follows: 1 inch, 2 index, 3 middle, 4 ring, 5 thumb; then she turned back: 6 ring, 7 middle, 8 index, 9 inches. So it's divided: 10 indices, 11 mean and so on, until it's 2,025. What finger?
+
+**Answer:** pollice
+[[src_kangourou_2025_ecolier_finale__QE4]]

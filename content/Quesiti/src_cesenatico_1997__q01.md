@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Cesenatico 1997 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_1997__Q01
 parent: src_cesenatico_1997
 competition: Gara Nazionale Cesenatico 1997
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area minima striscia piegata 3cm*
 
@@ -42,3 +45,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gAfFy7kRpmbdkAKC-cVZKQZi9nJPgz2s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum area of folded strip 3cm*
+
+![[src_cesenatico_1997__prob1.png]]
+
+> A strip of paper with distant parallel edges $3$ cm is folded so that part of it is partially overlaid with the remaining part (see figure).
+> 
+> What is the minimum area of the shaded area?
+> 
+> (see figure)
+
+[[src_cesenatico_1997__Q01]]

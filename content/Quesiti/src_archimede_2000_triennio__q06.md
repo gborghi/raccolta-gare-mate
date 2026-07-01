@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Triennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_triennio__Q06
 parent: src_archimede_2000_triennio
 competition: Giochi di Archimede 2000 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri con cifre consecutive sono primi*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many numbers with consecutive digits are prime*
+
+> Consider the three-digit natural numbers n which have the following property: the digits of n are three consecutive numbers in any order (example 645). How many of these numbers are prime?
+>
+> - **(A)** No one .
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** more than 2 but less than 10
+> - **(E)** more than 10.
+
+**Answer:** A
+[[src_archimede_2000_triennio__Q06]]

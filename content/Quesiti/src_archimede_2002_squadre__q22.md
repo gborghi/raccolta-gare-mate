@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q22
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *combinazioni della cassaforte*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0284
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*combinations of safe *
+
+> The Abacus safe**  65 points
+> 
+> Professor Abacus keeps his money in a safe with a four-digit combination. Unfortunately, you don't remember the combination anymore, but remember that:
+> 
+> - there are no zeros; - there was a 6 and an 8 somewhere; - the difference between two consecutive numbers is never divisible by 3.
+> 
+> How many combinations do you have left to try on the professor?
+
+**Answer:** 0284
+[[src_archimede_2002_squadre__Q22]]

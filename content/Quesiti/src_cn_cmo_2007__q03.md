@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2007 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2007__Q03
 parent: src_cn_cmo_2007
 competition: China Mathematical Olympiad 2007
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compare counts of good vs second-good operation groups*
 
@@ -48,3 +51,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Compare i numeri dei gruppi di funzionamento buoni vs. gruppi di funzionamento buoni secondari*
+
+> Lasciate che $a_1, a_2, \cdots, a_{11}$ siano 11 numeri interi positivi distinti e scrivete i numeri $1, 2, \cdots, 2007$ in ordine sulla lavagna. Ora definiamo un gruppo di 22 operazioni ordinate.
+> 
+> L'operazione $i$ è quella di prendere qualsiasi numero sulla lavagna e aggiungere $a_i$ se $1 \leq i \leq 11$, o aggiungere $-a_{i-11}$ se $12 \leq i \leq 22$, quindi scrivere i risultati sulla lavagna. Se il risultato finale è una permutazione pari di $1, 2, \cdots, 2007$, allora lo chiamiamo un gruppo "buono". Se il risultato finale è una permutazione odd di $1, 2, \cdots, 2007$, allora lo chiamiamo un gruppo di "seconda buona".
+> 
+> La nostra domanda è: quale è più grande? Il numero dei gruppi "buoni" o quello dei gruppi "secondi buoni"? E quanti altri?
+> 
+> (Nota: supponiamo che $x_1, x_2, \cdots, x_{2007}$ sia una permutazione di $1, 2, \cdots, 2007$. Lo chiamiamo una permutazione pari se $\prod_{1 \leq i < j \leq 2007}(x_i - x_j) > 0$ ($< 0$), e altrimenti una permutazione pari.)
+
+[[src_cn_cmo_2007__Q03]]

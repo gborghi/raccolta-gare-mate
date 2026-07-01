@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2019 — Selection Camp — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2019__Q07
 parent: src_selection_camp_2019
 competition: Japan IMO Selection Camp 2019 — Selection Camp
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min moves to gather n stones onto cell n via right shifts of up to k*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Min si muove per raccogliere n pietre sulla cella n tramite spostamenti a destra fino a k*
+
+> $n$ sia un numero intero positivo. C'è una tabella di celle $n+1$ disposte in una singola riga, numerata $0, 1, \ldots, n$ da sinistra a destra. Inizialmente le pietre < MSK4/> vengono posizionate sulla cella < MSK5/>, e le altre celle non hanno pietre. Considerate di ripetere la seguente operazione. Selezionare una cella contenente almeno una pietra e una pietra su di essa; lasciando $k$ il numero di pietre su quella cella, spostare quella pietra a destra almeno $1$ e al massimo $k$ cellule. Prova che, per raggiungere la posizione in cui le pietre $n$ sono collocate sulla cella $n$, l'operazione deve essere eseguita almeno $$\left\lceil \frac{n}{1} \right\rceil + \left\lceil \frac{n}{2} \right\rceil + \cdots + \left\lceil \frac{n}{n} \right\rceil$$ volte. (Qui $\lceil r \rceil$ indica il numero intero più piccolo non inferiore al numero reale $r$.)
+
+[[src_selection_camp_2019__Q07]]

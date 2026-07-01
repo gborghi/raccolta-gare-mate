@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo36yqa_yosen__Q06
 parent: src_jmo36yqa_yosen
 competition: Japan Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find XY in a parallelogram given midpoint and intersection conditions with CE=DF=3*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\sqrt{41}-3$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca XY in un parallelo con condizioni di punto medio e di intersezione con CE=DF=3*
+
+> Nel parallelogramma $ABCD$, $E$ deve essere un punto laterale $CD$ (escluse le estremità). Il $M$ deve essere il punto medio del segmento $AE$, e il $G$ deve essere l'intersezione della linea $BM$ e della linea $AD$. Dato che $CE = DF = 3$ (dove $F$ è un punto specifico definito dalla configurazione), $MB = 5$, $MC = 4$, si trova la lunghezza $XY$, dove $XY$ indica la lunghezza del segmento $AB$.
+
+**Risposta:** \sqrt{41}-3
+[[src_jmo36yqa_yosen__Q06]]

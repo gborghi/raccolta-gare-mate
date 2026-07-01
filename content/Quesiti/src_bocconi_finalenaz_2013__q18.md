@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2013 — Quesito
   18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2013__Q18
 parent: src_bocconi_finalenaz_2013
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2013
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio minimo per tovagliette circolari su tavola triangolare*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 25 cm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum radius for circular tablecloths on triangular table*
+
+> Chiara's table is in the shape of an equilateral triangle, whose side measures 1 m. Clear the cover, leaving no "hole", with 5 circular towels with the same beam.
+> 
+> What is the minimum size of this radius in centimetres?
+
+**Answer:** 25 cm
+[[src_bocconi_finalenaz_2013__Q18]]

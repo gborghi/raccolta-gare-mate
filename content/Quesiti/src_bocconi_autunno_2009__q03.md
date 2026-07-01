@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2009 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2009__Q03
 parent: src_bocconi_autunno_2009
 competition: Giochi d'Autunno 2009
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spostare 2 fiammiferi per formare 7 quadrati*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (o simili — vedi figura soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Put 2 matches to form 7 squares*
+
+> The 12 matches in the figure form 5 squares (the big one and four small ones). Find a way to move two of these matches so that we can now form seven squares. (Draw the new figure in the reply sheet).
+
+![[src_bocconi_autunno_2009__Q03.png]]
+
+**Answer:** (o simili — vedi figura soluzione)
+[[src_bocconi_autunno_2009__Q03]]

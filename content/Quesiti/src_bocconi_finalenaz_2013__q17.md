@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2013 — Quesito
   17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2013__Q17
 parent: src_bocconi_finalenaz_2013
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2013
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Operazioni minime per accendere tutte le lampadine*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 73
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum operation to turn on all lamps< MSK1/>
+
+> Our electric guirl, circular, has nine bulbs initially all on. Starting with a light bulb chosen as the initial, the signal propagates from one bulb to the next, always in the same direction (when the signal has passed through all the bulbs, it reaches the initial bulb and so on).
+> 
+> One operation consists of applying the signal from one bulb to the next, taking into account that: - if the bulb from which the signal starts is lit, then the one to which it is directed changes state; - if the bulb from which the signal starts is turned off, then the one to which it is directed does not change state.
+> 
+> After how many operations, at least, will the bulbs all be turned on again?
+
+**Answer:** 73
+[[src_bocconi_finalenaz_2013__Q17]]

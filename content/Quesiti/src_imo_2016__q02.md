@@ -1,6 +1,7 @@
 ---
 title: IMO 2016 papers — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2016__Q02
 parent: src_imo_2016
 competition: IMO 2016 papers
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tabella n×n riempita con I,M,O bilanciate*
 
@@ -42,3 +45,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DJN1I1nyXv23EBAYsmuEqh4UN-f1qoI1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Table n×n filled with I,M,O balanced*
+
+> Find all positive integers $n$ for which each cell in a table $n \times n$ can be filled with one of the letters I, M and O in such a way that:
+> 
+> - in each row and column, one third of the entries are I, one third is M and one third is O; - in any diagonal, if the number of entries on the diagonal is a multiple of three, then one third of the entries are I, one third is M and one third is O.
+> 
+> **Note:** The rows and columns of a table $n \times n$ are each labelled from $1$ to $n$ in natural order. Each cell corresponds to a pair of positive integers $(i, j)$ with $1 \leq i, j \leq n$. For $n > 1$, the table has $4n - 2$ diagonal of two types. A diagonal of the first type consists of all cells $(i, j)$ for which $i + j$ is constant, and a diagonal of the second type consists of all cells $(i, j)$ for which $i - j$ is constant.
+
+[[src_imo_2016__Q02]]

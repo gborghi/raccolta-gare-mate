@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre_f2__Q01
 parent: src_kangourou_2022_kangourou_squadre_f2
 competition: Kangourou Squadre 2022 Kangourou Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre di espressione con 123456789*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0045
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of figures expressed as 123456789*
+
+> The expression Write the sum of the digits of the result of the following expression: (123.456.789) 2  123.455.789 < MSK0/> 123.456.789.
+
+**Answer:** 0045
+[[src_kangourou_2022_kangourou_squadre_f2__Q01]]

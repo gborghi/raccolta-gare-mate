@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_benjamin__Q09
 parent: src_kangourou_2002_benjamin
 competition: Kangourou 2002 - Benjamin (21 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angoli distinti minori di 180 gradi*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Distinct angles less than 180 degrees < MSK1/>
+
+![[src_kangourou_2002_benjamin__prob9.png]]
+
+> How many smaller angles of 180°, two by two of different sizes, can be seen in the figure next to each other, if you also consider the angles you get by approaching adjacent angles?
+>  
+> A. 6 B. 7 C. 8 D. 9 E. 10
+
+**Answer:** C
+[[src_kangourou_2002_benjamin__Q09]]

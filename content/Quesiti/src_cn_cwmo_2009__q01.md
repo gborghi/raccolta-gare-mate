@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2009 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2009__Q01
 parent: src_cn_cwmo_2009
 competition: China Western Mathematical Olympiad 2009
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Subset of reals closed under polynomial roots and coefficients*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sottoinsieme di reali chiusi sotto radici e coefficienti polinomici*
+
+> $M$ sia un sottoinsieme di $\mathbb{R}$ ottenuto eliminando finitamente molti numeri reali da $\mathbb{R}$. Prova che per un dato numero positivo $n$ esiste un polinomio $f(x)$ di grado $n$ tale che tutti i suoi coefficienti e le sue radici reali $n$ siano in $M$.
+
+[[src_cn_cwmo_2009__Q01]]

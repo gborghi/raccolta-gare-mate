@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_biennio_rec__Q10
 parent: src_archimede_2024_biennio_rec
 competition: Giochi di Archimede 2024 - Gara Biennio (riserva)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza UV tra due archi di cerchio nel quadrato*
 
@@ -52,3 +55,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>UV length between two circle arcs in the square< MSK1/>
+
+![[src_archimede_2024_biennio_rec__prob10.png]]
+
+> Taking a DEFG square of 1 m side, the quarters of the circumference of centers D and F with the other two vertices of the square at their extremes are plotted. The DF diagonal, which intersects the two arcs at points U and V, is then plotted. How many meters does the UV segment measure ? D E F G U V
+>
+> - **(A)** √ 2 2
+> - **(B)** √ 2−3 4
+> - **(C)** 9 16
+> - **(D)** 2− √ 2
+> - **(E)** 1 2
+
+[[src_archimede_2024_biennio_rec__Q10]]

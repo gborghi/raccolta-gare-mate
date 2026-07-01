@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale nazionale Junior — Quesito J2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_finale__QJ2
 parent: src_kangourou_2019_junior_finale
 competition: Kangourou 2019 Finale nazionale Junior
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima somma di 4 interi ai vertici con vincoli di divisibilita*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 35
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of 4 integers at vertices with divisibility constraints*
+
+> Every vertex of a square has a positive integer written on it. If two vertices are adjacent, one of the two corresponding integers divides the other; if two vertices are opposite, neither of the two corresponding integers divides the other. What's the smallest possible value for the sum of these four integers?
+
+**Answer:** 35
+[[src_kangourou_2019_junior_finale__QJ2]]

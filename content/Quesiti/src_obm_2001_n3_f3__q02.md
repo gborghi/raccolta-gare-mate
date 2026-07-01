@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f3__Q02
 parent: src_obm_2001_n3_f3
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Greedy coprime sequence: find a_0 for which every term is a prime or a prime power*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i9yemBLDI7hxIseefnK_GZclyK4JXHSC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di coprimo avido: trovare a_0 per il quale ogni termine è un primo o una potenza primaria*
+
+> Dato un numero intero $a_0 > 1$, definiamo una sequenza $(a_n)_{n \ge 0}$ nel seguente modo: per ogni $k \ge 0$, $a_{k+1}$ è il numero intero più piccolo $a_{k+1} > a_k$ tale che $\gcd(a_{k+1}, a_0 \cdot a_1 \cdots a_k) = 1$. Determinare per quali valori di $a_0$ tutti i termini $a_k$ della sequenza sono numeri primi o potenze di numeri primi.
+
+[[src_obm_2001_n3_f3__Q02]]

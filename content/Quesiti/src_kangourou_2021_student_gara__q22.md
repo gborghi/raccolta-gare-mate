@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q22
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero che resta dopo cancellazioni a somme doppie*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number remaining after double-sum deletions< MSK1/>
+
+> The numbers 1, 2, 7, 9, 10, 15 and 19 were written on a board. Two players alternately cancel one number at a time until only one number remains on the board. If the sum of the numbers deleted by one player is twice the sum of the numbers deleted by the other, what number is left on the board? A) 7
+> 	
+> B) 9
+> 	
+> C) 10
+> 	
+> D) 15
+> 	
+> E) 19
+
+**Answer:** B
+[[src_kangourou_2021_student_gara__Q22]]

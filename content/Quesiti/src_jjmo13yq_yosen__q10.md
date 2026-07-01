@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo13yq_yosen__Q10
 parent: src_jjmo13yq_yosen
 competition: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count reachable configs on 3x100 grid via set-row-heads / set-column-tails*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $6\cdot 4^{100}-6\cdot 3^{100}+2^{100}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le configurazioni accessibili sulla griglia 3x100 tramite set-row-heads / set-column-tails*
+
+> C'è una griglia di cellule $3 \times 100$. Su ciascuna cella si colloca una moneta che si distingue per le sue due facce (capelli e code), tutte inizialmente a testa in su. Le seguenti operazioni 1 e 2 sono ripetute in qualsiasi ordine e numero di volte. Quante singole configurazioni di monete si possono ottenere?
+> 
+> Operazione 1: Scegli un numero intero $i$ con $1 \le i \le 3$ e gira ogni moneta nelle celle della riga $i$ in testa.
+> 
+> Operazione 2: Scegli un numero intero $j$ con $1 \le j \le 100$ e gira ogni moneta nelle celle della colonna $j$ in coda in alto.
+
+**Risposta:** 6\cdot 4^{100}-6\cdot 3^{100}+2^{100}
+[[src_jjmo13yq_yosen__Q10]]

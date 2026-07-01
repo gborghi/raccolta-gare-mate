@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q01
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sesto risultato di somme righe/colonne griglia 3x3*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sixth result of sums of 3x3 grid rows/columns*
+
+![[src_kangourou_2018_junior_marzo__prob1.png]]
+
+> In each grid cell 3 × 3 in the figure a number has been entered. The numbers in the individual rows and the numbers in the individual columns were then added: five out of the six results obtained are indicated. What's the sixth? A) 4
+> 	
+> B) 7 C) 8 D) 9
+> 	
+> E) 10
+
+**Answer:** D
+[[src_kangourou_2018_junior_marzo__Q01]]

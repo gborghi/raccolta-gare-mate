@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q09
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale uguaglianza vale per operazione x*y=y-x associativa*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which is equal to x*y=y-x associative*
+
+> Michele wants to define a new operation on real numbers by putting x * y = y  x. If a, b and c satisfy equality (a * b) * c = a * (b * c), which of the following equality must be true? A) a = b B) b = c C) a = c D) a = 0 E) c = 0
+
+**Answer:** D
+[[src_kangourou_2019_student_marzo__Q09]]

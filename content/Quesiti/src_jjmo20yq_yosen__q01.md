@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo20yq_yosen__Q01
 parent: src_jjmo20yq_yosen
 competition: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distinct 2x2 letter-grid fillings up to rotation/reflection*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 18
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i riempimenti di griglia a lettere distinte 2x2 fino alla rotazione/riflessione*
+
+> Ogni cella di una griglia $2 \times 2$ è riempita con esattamente una lettera scelta da $A$, $B$, $C$. Due celle che condividono un bordo devono contenere lettere diverse. Una cellula può ricevere una lettera anche se le cellule adiacenti usano la stessa lettera in altre posizioni; l'unico vincolo è che ogni coppia di cellule adiacenti ai bordi ha lettere diverse. Due riempimenti sono considerati uguali se uno può essere ottenuto dall'altro mediante rotazione o riflessione della griglia. Trova il numero di riempimenti distinti.
+
+**Risposta:** 18
+[[src_jjmo20yq_yosen__Q01]]

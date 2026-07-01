@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_preecolier_marzo__Q04
 parent: src_kangourou_2016_preecolier_marzo
 competition: Kangourou 2016 Pre-Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Fra quanti mesi Sara compira due anni*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Within how many months will Sara be two years old< MSK1/>
+
+> Sara turns one year and three months today. In how many months will she be two?
+>
+> - **(A)** 3
+> - **(B)** 5
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 9
+
+**Answer:** E
+[[src_kangourou_2016_preecolier_marzo__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_preecolier_marzo__Q01
 parent: src_kangourou_2017_preecolier_marzo
 competition: Kangourou 2017 Pre-Ecolier - Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi ha preso il pesce seguendo i fili*
 
@@ -45,3 +48,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Who caught the fish following the ropes < MSK1/>
+
+![[src_kangourou_2017_preecolier_marzo__prob1.png]]
+
+> Who took the fish?
+>
+> Five cats (Aldo, Bruno, Carlo, Davide, Enrico) each hold a fishing rod. The threads are tangled together and end with friends, one of whom caught a fish. Following the wire, who caught the fish?
+>
+> - **(A)** Aldo
+> - **(B)** Bruno
+> - **(C)** Charles
+> - **(D)** David , please .
+> - **(E)** Henry (see figure)
+
+**Answer:** D
+[[src_kangourou_2017_preecolier_marzo__Q01]]

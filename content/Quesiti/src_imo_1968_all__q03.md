@@ -1,6 +1,7 @@
 ---
 title: IMO 1968 (Tenth International Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1968_all__Q03
 parent: src_imo_1968_all
 competition: IMO 1968 (Tenth International Olympiad)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Number of solutions of cyclic quadratic system via discriminant*
 
@@ -49,3 +52,19 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of solutions of cyclic quadratic system via discriminant*
+
+> Consider the system of equations $$ax_1^2 + bx_1 + c = x_2$$ $$ax_2^2 + bx_2 + c = x_3$$ $$\cdots$$ $$ax_{n-1}^2 + bx_{n-1} + c = x_n$$ $$ax_n^2 + bx_n + c = x_1,$$ with unknowns $x_1, x_2, \ldots, x_n$, where $a, b, c$ are real and $a \neq 0$. Let < MSK8/>. Prove that for this system
+> 
+> (a) if $\Delta < 0$, there is no solution,
+> 
+> (b) if < MSK0/>, there is exactly one solution,
+> 
+> (c) if < MSK0/>, there is more than one solution.
+
+[[src_imo_1968_all__Q03]]

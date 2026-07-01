@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Ecolier 2024 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier__Q14
 parent: src_kangourou_2024_ecolier
 competition: Kangourou Categoria Ecolier 2024
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti modi costruire il bruco (testa, coda, pezzi)*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many ways to build the stump (head, tail, pieces) *
+
+![[src_kangourou_2024_ecolier__prob14.png]]
+
+> Luca wants to build a bulkhead that opens the head, tail and one or two or three double-crossed pieces between the head and tail. The pieces must fit together well, without holes or overlapping. How many ways can you do that? A) 3
+> 	
+> B) 4
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 7
+
+**Answer:** B
+[[src_kangourou_2024_ecolier__Q14]]

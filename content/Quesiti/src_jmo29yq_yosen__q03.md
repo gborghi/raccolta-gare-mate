@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo29yq_yosen__Q03
 parent: src_jmo29yq_yosen
 competition: Japan Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill 3x3 grid with 1-9 so edge-adjacent entries differ by at most 3*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 32
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Riempire la griglia 3x3 con 1-9, in modo che le voci adiacenti ai bordi differiscano per un massimo di 3*
+
+> In ogni cella di una griglia $3 \times 3$ scriviamo un intero da $1$ a $9$, senza che un intero si ripeta (percio' ognuno di $1,2,\ldots,9$ viene usato esattamente una volta). In quanti modi può essere fatto in modo che, per due cellule che condividono un bordo, la differenza dei due numeri interi scritti in esse sia al massimo $3$? Qui, gli accordi che coincidono sotto rotazione o riflessione sono contati come diversi.
+
+**Risposta:** 32
+[[src_jmo29yq_yosen__Q03]]

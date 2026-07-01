@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1989 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1989_r3__Q01
 parent: src_pol_1989_r3
 competition: Olimpiade Matematica Polacca 1989 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Even number of people at a round table change seats after lunch; show two persons are separated by the same number of persons as before.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZpIHimsHSvkG4b__OiWbVXE_0S523k2N/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero pari di persone in una tavola rotonda che cambiano posto dopo pranzo; mostra che due persone sono separate dallo stesso numero di persone come prima.*
+
+> Un numero pari di persone partecipa a una conferenza a tavola rotonda. Dopo la pausa pranzo i partecipanti cambiano posto. Mostrate che alcune due persone sono separate dallo stesso numero di persone che erano prima della pausa.
+
+[[src_pol_1989_r3__Q01]]

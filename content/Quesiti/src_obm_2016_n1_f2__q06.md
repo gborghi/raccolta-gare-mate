@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f2__Q06
 parent: src_obm_2016_n1_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2
@@ -40,6 +41,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Board m×n covered by T-tetromino (leaving 3) and L-tromino (leaving 2); find minimum m·n*
 
@@ -52,3 +55,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tabella m×n coperta da T-tetromino (a partire da 3) e L-tromino (a partire da 2); trovare il minimo m·n*
+
+> La figura seguente mostra due tipi di pezzi: tipo 1, con quadrati di unità $4$ (un tetromino a forma di L) e tipo 2, con quadrati di unità $3$ (un tromino a forma di L). Una lavagna con righe $m$ e colonne $n$ è stata coperta, senza sovrapposizioni, da pezzi di tipo 1, ad eccezione di quadrati di unità $3$ esatti lasciati non coperti. Poi la stessa lavagna è stata coperta, anche senza sovrapposizioni, da pezzi di tipo 2, con l'eccezione di quadrati di unità $2$ esclusi. I pezzi possono essere rotati ma non possono estendersi al di fuori della tavola. Qual è il minimo valore possibile del prodotto < MSK6/>?
+
+![[src_obm_2016_n1_f2__Q06.png]]
+
+[[src_obm_2016_n1_f2__Q06]]

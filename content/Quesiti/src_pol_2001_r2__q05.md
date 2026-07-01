@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2001 — Round 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2001_r2__Q05
 parent: src_pol_2001_r2
 competition: Olimpiade Matematica Polacca 2001 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In triangle ABC with incenter I and D=AI∩BC, show AI+CD=AC iff angle B = 60 + (1/2) angle C.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dO7OqqHjPcVUusxRxcY7zUJe_pdXhL9d/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nel triangolo ABC con incentro I e D=AI∩BC, mostrare AI+CD=AC se angolo B = 60 + angolo C.*
+
+> In un triangolo $ABC$, $I$ è il centro e $D$ il punto di intersezione di $AI$ e $BC$. Indicare che $AI+CD=AC$ se e solo se $\angle B=60^\circ+\frac{1}{2}\angle C$.
+
+[[src_pol_2001_r2__Q05]]

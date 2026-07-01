@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2023 — Selection Camp — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2023__Q11
 parent: src_selection_camp_2023
 competition: Japan IMO Selection Camp 2023 — Selection Camp
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three circumcircles share a common point*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre circoncircoli condividono un punto comune*
+
+> Il $P$ deve essere un punto all'interno (escluso il confine) di un triangolo acuto $ABC$ in modo tale che la linea $AP$ e la linea $BC$ non siano perpendicolari. $X, Y$ siano rispettivamente i riflessi di $P$ nelle linee $AB, AC$, e $\omega$ sia il circoncircolo del triangolo $AXY$. Supponiamo che un punto $Q$ all'interno (escluso il confine) del triangolo $ABC$ soddisfi $\angle QBC = \angle CAP$ e $\angle QCB = \angle BAP$, e supponiamo che le linee $AQ$ e $\omega$ si incontrino in un punto $R$ diverso da $A$ e $Q$. Prova che il circoncircolo del triangolo $ABC$, il circoncircolo del triangolo $PQR$ e $\omega$ condividono un punto comune.
+
+[[src_selection_camp_2023__Q11]]

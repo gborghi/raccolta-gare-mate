@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q13
 parent: src_kangourou_2015_squadre_a
 competition: Kangourou Coppa Squadre 2015 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre del quadrato di 99...9 (99 noni)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 891
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>sum of digits in the square of 99...9 (99 noni) < MSK1/>
+
+> A number and its square Consider the number 999...999 in which the writing appears only the number 9 repeated 99 times. How much is the sum of the digits squared of this number?
+
+**Answer:** 891
+[[src_kangourou_2015_squadre_a__Q13]]

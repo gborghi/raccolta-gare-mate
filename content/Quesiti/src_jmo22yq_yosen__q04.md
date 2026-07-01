@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo22yq_yosen__Q04
 parent: src_jmo22yq_yosen
 competition: Japan Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Multiples of 3 but not 9 whose digit sum raises it to a multiple of 9*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 138
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Multiplici di 3 ma non di 9 la cui somma digitali lo eleva a un multiple di 9*
+
+> $A$ sia un intero positivo che sia un multiple di $3$ ma non un multiple di $9$. Quando ogni cifra di $A$ viene aggiunta a $A$, il risultato è un multiple di $9$. Trova il valore minimo possibile di $A$.
+
+**Risposta:** 138
+[[src_jmo22yq_yosen__Q04]]

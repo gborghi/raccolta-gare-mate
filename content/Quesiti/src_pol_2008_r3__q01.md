@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2008 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2008_r3__Q01
 parent: src_pol_2008_r3
 competition: Olimpiade Matematica Polacca 2008 — Round 3
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a lower bound for a weighted sum of inverses given a special arrangement of 1..n^2 on an n×n board with one chosen cell per row and column.*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fNP5XBamldvAMai-xDjSDLVp0ag-433Q/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove un limite inferiore per una somma ponderata di inversi data una disposizione speciale di 1..n^2 su una scheda n ×n con una cella scelta per riga e colonna.*
+
+> I numeri $1, 2, \ldots, n^2$ sono disposti nelle celle di una tabella $n \times n$ in modo tale che i numeri $1, \ldots, n$ siano nella prima riga (in questo ordine), $n+1, \ldots, 2n$ nella seconda, ecc. Scegliamo le celle $n$ della scheda, nessuna delle quali è nella stessa riga o colonna. Il numero $a_i$ deve essere il numero scelto nella riga $i$. Provare che < MSK0/>
+
+[[src_pol_2008_r3__Q01]]

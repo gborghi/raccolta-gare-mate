@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q20
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Min n con probabilita 1/2016 (cammino aleatorio grafo)*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0013
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Min n with probability 1/2016 (random graph path) *
+
+> Interplanetary random walk Luke Randomwalker is looking for a safe place to hide, and to do so, he travels unknown aboard merchant ships. The ships Luke has chosen follow routes connecting planets. Among them are: Coruscantor, where Luke is at the beginning; Banahch-Torsk, a tiny double planet where Luke stops immediately (if he passes by); Taodana, the seat of Maz Karamata's lair, where there are so many spies from the First Order that it is certain that someone recognizes him and kills him. From each planet (excluding Taodana and Banahch-Torsk) one-way routes start to exactly two other planets, and from at most one of these two there is a sequence of routes that allows you to return to the planet you just left. Each time he leaves a planet, Luke chooses at random between the two possible routes (with equal probability) and stops only if he arrives on Banahch-Torsk or is killed on Taodana. Knowing that the probability of arriving safely at Banahch-Torsk is 1/2016, what's the minimum value of n?
+
+**Answer:** 0013
+[[src_cesenatico_2016_finale__Q20]]

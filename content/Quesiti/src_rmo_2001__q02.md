@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2001 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2001__Q02
 parent: src_rmo_2001
 competition: Regional Mathematical Olympiad 2001
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all prime pairs p,q making p²+7pq+q² a perfect square*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15Y14HVMjGftkYhnfutHqAb_lpxEScIwl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le coppie prime p,q che rendono p2 + 7pq + q2 un quadrato perfetto*
+
+> Trova tutti i numeri primi $p, q$ in modo tale che $p^2 + 7pq + q^2$ sia il quadrato di un intero.
+
+[[src_rmo_2001__Q02]]

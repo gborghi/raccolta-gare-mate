@@ -1,6 +1,7 @@
 ---
 title: IMO compilation 1959-2013 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_compilation__Q04
 parent: src_imo_compilation
 competition: IMO compilation 1959-2013
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *IMO 1997 problema 4*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.62](https://drive.google.com/file/d/1k6cpNRHvI9fVtF3vHCIOPLmdeEf70-V4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the case for the European Union.
+
+> Let A, B be adjacent vertices of a regular n-gon (n ≥5) in the plane having center at O. A triangle XY Z, which is congruent to and initially conincides with OAB, moves in the plane in such a way that Y and Z each trace out the entire boundary of the polygon, X remaining inside the polygon. Find the locus of X.
+
+[[src_imo_compilation__Q04]]

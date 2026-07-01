@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r2__Q01
 parent: src_pol_2007_r2
 competition: Olimpiade Matematica Polacca 2007 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Common zero of P(x) and P(P(x)) implies a common integer zero.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LZVQNRmXGjFMUK1nE7-wezK2nSuE5Pma/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Zero comune di P(x) e P(P(x)) implica un numero intero comune zero.*
+
+> Un polinomio $P(x)$ ha coefficienti interi. Prova che se i polinomi $P(x)$ e $P(P(x))$ hanno uno zero comune, allora hanno anche uno zero intero comune.
+
+[[src_pol_2007_r2__Q01]]

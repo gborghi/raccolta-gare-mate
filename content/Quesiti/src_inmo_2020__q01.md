@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2020 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2020__Q01
 parent: src_inmo_2020
 competition: Indian National Mathematical Olympiad 2020
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcentre of triangles ACD and XAY lies on perp bisector of O1O2*
 
@@ -35,3 +38,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zGms2MQj8QKRPizstjU-44-Fnpo52wDY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il circolo dei triangoli ACD e XAY si trova sul bisettore perp di O1O2*
+
+> I valori $\Gamma_1$ e $\Gamma_2$ siano due cerchi di raggio diseguale, con i centri $O_1$ e $O_2$ rispettivamente, nel piano che si intersecano in due punti distinti $A$ e $B$. Supponiamo che il centro di ciascuno dei cerchi $\Gamma_1$ e $\Gamma_2$ sia all'esterno dell'altro. La tangente di $\Gamma_1$ a $B$ interseca di nuovo $\Gamma_2$ in $C$, diversa da $B$; la tangente di $\Gamma_2$ a $B$ interseca di nuovo $\Gamma_1$ in $D$, diversa da $B$. I bisettori di $\angle CAB$ e $\angle DAB$ incontrano $\Gamma_2$ e $\Gamma_1$ di nuovo rispettivamente in $X$ e $Y$, diversi da $A$. $P$ e $Q$ siano rispettivamente i circoncenti dei triangoli $ACD$ e $XAY$. Prova che $PQ$ è il bisettore perpendicolare del segmento di linea $O_1 O_2$.
+
+[[src_inmo_2020__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q03
 parent: src_kangourou_2017_cadet_semifinale
 competition: Kangourou 2017 Cadet (semifinale individuale)
@@ -23,6 +24,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Esercizio annullato*
 
@@ -32,3 +35,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** annullato
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the list of the countries of the European Union.
+
+> (Point 3) Exercise canceled
+
+**Answer:** annullato
+[[src_kangourou_2017_cadet_semifinale__Q03]]

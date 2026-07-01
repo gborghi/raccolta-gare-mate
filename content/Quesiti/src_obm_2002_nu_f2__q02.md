@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2 —
   Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_nu_f2__Q02
 parent: src_obm_2002_nu_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Symmetric real matrix with row sums 1 and bounded off-diagonal; prove 0 < det A ≤ 1*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Matrice reale simmetrica con somme di righe 1 e di diagonali non limitate; prova 0 < det A ≤ 1 *
+
+> Che $A = (a_{ij})$ sia una matrice simmetrica reale $n \times n$ tale che $a_{ii} = 1$ e $\displaystyle\sum_{j=1}^{n} |a_{ij}| < 2$ per tutti $i \in \{1, 2, \ldots, n\}$. Prove che $0 < \det A \le 1$.
+
+[[src_obm_2002_nu_f2__Q02]]

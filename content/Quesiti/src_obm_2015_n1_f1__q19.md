@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q19
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of shaded quadrilateral in an equilateral triangle*
 
@@ -52,3 +55,22 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di quadrilaterali ombrati in un triangolo equilaterale*
+
+> Nel triangolo equilaterale $ABC$ della figura, il segmento $DA$ è il doppio del segmento $DB$ e il segmento $EC$ è il doppio di $EA$. Sapendo che l'area del triangolo $ABC$ è uguale a $162\,\text{cm}^2$, qual è l'area, in $\text{cm}^2$, del quadrilaterale ombrato?
+>
+> - **(A)** 126
+> - **(B)** 132
+> - **(C)** 135
+> - **(D)** 140
+> - **(E)** 144
+
+![[src_obm_2015_n1_f1__Q19.png]]
+
+**Risposta:** A
+[[src_obm_2015_n1_f1__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q10
 parent: src_kangourou_2008_cadet_marzo
 competition: Kangourou 2008 - Cadet (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di amici da 15 strette di mano*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Number of friends by 15 handshakes
+
+> Some friends greet each other, each shaking hands with the others. If the handshakes were 15, how many friends are there? A) 15 B) 6 C) 5 D) 7 E) 14 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** B
+[[src_kangourou_2008_cadet_marzo__Q10]]

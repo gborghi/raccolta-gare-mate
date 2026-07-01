@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2012 — Quesito
   13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2012__Q13
 parent: src_bocconi_finalenaz_2012
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2012
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione della parte più scura del quadrato*
 
@@ -49,3 +52,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Fraction of the darkest part of the square< MSK1/>
+
+> In the square of the figure, segments have been drawn that connect some opposite vertices and the middle point of one side. The darkest part of the figure was thus formed. What's the darker fraction of the surface than the whole square?
+
+![[src_bocconi_finalenaz_2012__Q13.png]]
+
+**Answer:** $\frac{11}{20}$
+[[src_bocconi_finalenaz_2012__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q20
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Spreadsheet computes running mean; find last note Piralão entered*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Spreadsheet computa media in esecuzione; trova l'ultima nota inserita da Piralão< MSK1/>
+
+> Il professore Piralão ha applicato un test ai suoi cinque studenti e, dopo averli corretti, ha inserito i voti in una scheda elettronica che calcola automaticamente la media esecutiva dopo aver inserito ogni grado. I voti dei cinque studenti sono, in ordine crescente: $71, 76, 80, 82, 91$. Si è notato che dopo ogni voce la media corrente è sempre un numero intero. L'ultimo anno che ha frequentato Piralão è stato:
+> 
+> **A) ** 71 \quad **B) ** 76 \quad **C) ** 80 \quad **D) ** 82 \quad **E) ** 91
+
+**Risposta:** C
+[[src_obm_2006_n2_f1__Q20]]

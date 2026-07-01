@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f3__Q06
 parent: src_obm_2012_n2_f3
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find m,n,d values allowing full marking of m×n chocolate bar*
 
@@ -52,3 +55,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ltDj5iPNeS6_Ss9WI6dkLY05-Nizkd3Z/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i valori m,n,d che consentono la marcatura completa di m×n bar di cioccolato*
+
+> Maria ha una barra di cioccolato di dimensioni < MSK0/> divisa in quadrati < MSK1/>. Desidera segnare ogni piccolo quadrato utilizzando lo strumento di stampilamento seguente:
+> 
+> Lo strumento può essere utilizzato orizzontalmente o verticalmente. Esso segna due quadrati che lasciano tra di loro due quadrati con distanza $d = 1$; i quadrati segnalati non possono essere alterati e non è consentito segnalare un quadrato più di una volta. Per quali valori di $m$, $n$ e $d$ è possibile segnare tutti i quadrati secondo queste condizioni?
+> 
+> *Nota:* Esempio di marcatura con $d = 3$, utilizzandola una volta verticalmente e una volta orizzontalmente.
+
+![[src_obm_2012_n2_f3__Q06.png]]
+
+[[src_obm_2012_n2_f3__Q06]]

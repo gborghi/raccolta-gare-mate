@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1990 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1990__Q07
 parent: src_inmo_1990
 competition: Indian National Mathematical Olympiad 1990
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Locus of P such that triangle DEF (feet of perps) is isosceles; when equilateral?*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G8lDoodsQyIXm-tyEu5jDUtV7TjXp552/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Locus di P tale che il triangolo DEF (piedi dei criminali) sia isosceles; quando equilaterale?*
+
+> Per qualsiasi punto $P$ situato all'interno di un determinato triangolo acuto $ABC$, $D, E, F$ indichi i piedi delle perpendicolari da $P$ a $AB$, $BC$ e $CA$ rispettivamente. Trova l'insieme di tutte le posizioni di $P$ per le quali il triangolo $DEF$ è uguale. Per quale posizione di $P$ è equilaterale il triangolo $DEF$?
+
+[[src_inmo_1990__Q07]]

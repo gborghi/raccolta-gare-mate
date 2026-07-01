@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q18
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio circonferenza inscritta in quarto di cerchio*
 
@@ -59,3 +62,29 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Ramage inscribed in a quarter circle< MSK1/>
+
+![[src_kangourou_2004_student__prob18.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.8]
+  \draw (6,0) arc (0:90:6);
+  \draw (0,0) -- (6,0);
+  \draw (0,0) -- (0,6);
+  \draw (2.485,2.485) circle (2.485);
+  \node at (2.485,2.485) {K};
+  \draw (0.3,0) -- (0.3,0.3) -- (0,0.3);
+\end{tikzpicture}
+\end{document}
+```
+
+> A circumference K is inscribed in the circular sector which is a quarter of a circle of radius 6, as shown in Figure 1. What's the radius of K? A) B) C) 2,5 D) 3 E)
+
+**Answer:** E
+[[src_kangourou_2004_student__Q18]]

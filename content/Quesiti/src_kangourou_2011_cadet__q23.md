@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q23
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi mente tra Ida Mara Olga*
 
@@ -73,3 +76,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who lies between Ida Mara Olga
+
+> Ida, Mara, and Olga are sitting in the garden each on a chair. Ida says: I am more than twice as far away from Mara as I am from Olga. Mara says, "I'm more than twice as far away from Olga as I am from Ida". Olga says: I am more than twice as far away from Mara as I am from Ida. At least two of them are telling the truth. Who's lying? A) A) B) Mara C) Olga D) None of them E) There is no way to establish it A) B) C) D) E) a b c d i j k l and h g f Texts_11Mat.qxp 19-05-2011 21:24 Page 19
+> 
+> I'm going to pay. I'm going to pay. 20 20 Kang 201 Kang 2011
+
+**Answer:** B
+[[src_kangourou_2011_cadet__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo16yq_yosen__Q04
 parent: src_jjmo16yq_yosen
 competition: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count divisors of 5040 that themselves have exactly 6 divisors*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kd1TVGSchFgfQoYWGu97jdlpAwS4ecq_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i divisori di 5040 che essi stessi hanno esattamente 6 divisori*
+
+> Quanti divisori positivi di $5040$ hanno esattamente $6$ divisori?
+
+**Risposta:** 10
+[[src_jjmo16yq_yosen__Q04]]

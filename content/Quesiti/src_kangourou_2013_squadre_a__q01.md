@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Semifinale A — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_a__Q01
 parent: src_kangourou_2013_squadre_a
 competition: Kangourou Coppa Squadre 2013 Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero operai prima dell'aumento ore di lavoro*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 195
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of workers before increasing working hours*
+
+> Increasing the hours of work of workers (and wages!), the owner of a television factory increased production by 25%. Subsequently, in the face of declining demand for the product, 39 workers were able to be transferred to a refrigerator factory and, after their transfer, while the working hours for the remaining workers remained increased, the production of the television factory returned to what it was before the increase in hours. How many workers worked in the television factory before the increase in working hours?
+
+**Answer:** 195
+[[src_kangourou_2013_squadre_a__Q01]]

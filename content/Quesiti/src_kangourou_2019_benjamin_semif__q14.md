@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Benjamin — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q14
 parent: src_kangourou_2019_benjamin_semif
 competition: Kangourou 2019 Semifinale Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo intero non pari, non quadrato, non primo, non mult3*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 35
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Little whole number not equal, not square, not prime, not mult3< MSK1/>
+
+> (Points 6) What is the smallest positive integer that is not equal, is not a perfect square, is not a prime number and is not a multiple of 3?
+
+**Answer:** 35
+[[src_kangourou_2019_benjamin_semif__Q14]]

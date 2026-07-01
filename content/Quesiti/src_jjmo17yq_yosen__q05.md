@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo17yq_yosen__Q05
 parent: src_jjmo17yq_yosen
 competition: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length AF in cyclic quadrilateral with reflection of D over AE*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{3\sqrt{5}}{5}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YyPhdRC8ta06c--Y1mxGSGuS4yujWAKb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza AF in quadrilaterali ciclici con riflessione di D su AE*
+
+> Un quadrilaterale $ABCD$ è inserito in un cerchio e $E$ è un punto laterale $CD$, con $AB = 3$, $EC = 5$, $ED = 1$ e $AE \parallel BC$. Se $F$ è il riflesso di $D$ attraverso la linea $AE$, i tre punti $B, E, F$ sono collineari. Trova la lunghezza del segmento $AF$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** \frac{3\sqrt{5}}{5}
+[[src_jjmo17yq_yosen__Q05]]

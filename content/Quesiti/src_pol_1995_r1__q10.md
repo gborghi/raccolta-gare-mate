@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1995 — Round 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1995_r1__Q10
 parent: src_pol_1995_r1
 competition: Olimpiade Matematica Polacca 1995 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three pairs of rays from collinear points form quadrilaterals; two tangent implies third tangent*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre coppie di raggi provenienti da punti collineari formano quadrilaterali; due tangenti implicano una terza tangente*
+
+> Tre punti distinti sono indicati su una linea $k$. Da ciascuno di questi punti disegniamo una coppia di raggi in modo che tutti i raggi siano sullo stesso lato di $k$. Ogni due di queste tre coppie di raggi formano un quadrilaterale. Prova che se due di questi quadrilaterali sono tangenti, allora anche il terzo.
+
+[[src_pol_1995_r1__Q10]]

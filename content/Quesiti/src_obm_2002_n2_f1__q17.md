@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f1__Q17
 parent: src_obm_2002_n2_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC on 30 cm square grid; find its area*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC su una griglia quadrata di 30 cm; trovare la sua superficie*
+
+> Nella griglia quadrata di seguito con lunghezza laterale $30\,\text{cm}$, l'area del triangolo $ABC$ è:
+>
+> - **(A)** $150\,\text{cm}^2$
+> - **(B)** $100\,\text{cm}^2$
+> - **(C)** $75\,\text{cm}^2$
+> - **(D)** $50\,\text{cm}^2$
+> - **(E)** $25\,\text{cm}^2$
+
+![[src_obm_2002_n2_f1__Q17.png]]
+
+**Risposta:** C
+[[src_obm_2002_n2_f1__Q17]]

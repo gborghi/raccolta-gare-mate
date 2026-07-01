@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f1__Q02
 parent: src_obm_2012_n1_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute $0.1^2 + 0.2^2$*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Computo $0.1^2 + 0.2^2$*
+
+> Possiamo dire che $0.1^{2}+0.2^{2}$ è uguale
+> 
+> (A) $\dfrac{1}{20}$ \quad (B) $\dfrac{1}{10}$ \quad (C) $\dfrac{1}{5}$ \quad (D) $\dfrac{1}{4}$ \quad (E) $\dfrac{1}{2}$
+
+**Risposta:** A
+[[src_obm_2012_n1_f1__Q02]]

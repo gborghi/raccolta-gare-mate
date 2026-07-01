@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q18
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di n (cubetti con una faccia = senza facce dipinte)*
 
@@ -79,3 +82,23 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of n (cube with one face = no painted face) *
+
+> I've approximated n3 identical cubes to each other (with a positive integer) and I've obtained a large cube. Then I painted the outer surface of the large cube; finally I again broke down the cube into the initial cubes. The number of cubes that have exactly a painted face coincides with the number of cubes that have no painted face. What 's number n ? A) 4
+> 	
+> B) 6
+> 	
+> C) 7
+> 	
+> D) 8
+> 	
+> E) 10 20 ---- 24 2020 -------- 2424 202020 ------------  + ... + 242424 2020...20 --------------- : 2424...24 A P 3 2 6 A B C 10 4 12 6 24
+>
+
+**Answer:** D
+[[src_kangourou_2024_junior__Q18]]

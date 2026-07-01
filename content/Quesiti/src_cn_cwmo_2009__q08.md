@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2009 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2009__Q08
 parent: src_cn_cwmo_2009
 competition: China Western Mathematical Olympiad 2009
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest lambda(n) bounding |a_k| in terms of max(|a_1|,|a_n|)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\frac{n+1}{n-1}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+MSK0/>Trovare la lambda più piccola che abbia il limite.
+
+> $a_1, a_2, \ldots, a_n$ ($n \geq 3$) siano numeri reali che soddisfino $a_1 + a_2 + \cdots + a_n = 0$ e $2a_k \leq a_{k-1} + a_{k+1}$ per $k = 2, 3, \ldots, n-1$. Determinare il più piccolo $\lambda(n)$, in modo che per qualsiasi $k \in \{1, 2, \ldots, n\}$ si abbia $$|a_k| \leq \lambda(n) \cdot \max\{|a_1|,\ |a_n|\}.$$
+
+**Risposta:** \frac{n+1}{n-1}
+[[src_cn_cwmo_2009__Q08]]

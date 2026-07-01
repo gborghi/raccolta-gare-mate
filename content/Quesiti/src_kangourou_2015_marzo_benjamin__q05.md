@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q05
 parent: src_kangourou_2015_marzo_benjamin
 competition: Kangourou 2015 gara 19 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale frazione fornisce numero piu piccolo di 2*
 
@@ -49,3 +52,15 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AiqamuCK6oQtEOLFArlQVHEyWohLlfzH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which fraction gives a number smaller than 2*
+
+> Which of the following fractions gives a number smaller than 2 ? A) 19/8 B) 20/9 C) 21/10 D) 22/11 E) 23/12 R A G N A K O O
+>
+
+**Answer:** E
+[[src_kangourou_2015_marzo_benjamin__Q05]]

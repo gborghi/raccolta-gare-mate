@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Finale Nazionale Junior — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q08
 parent: src_kangourou_2018_junior_finale
 competition: Kangourou 2018 Finale Nazionale Junior
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Maggiore raggio di tre cerchi tangenti a una retta*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0036
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Major radius of three tangent circles in a straight line*
+
+> You can go from $A$ to $B$ in the figure only by following the directions and lines indicated by the arrows. How many different routes are possible? (see figure)
+>
+> - **(A)** $20$
+> - **(B)** $16$
+> - **(C)** $12$
+> - **(D)** $9$
+> - **(E)** $8$
+
+**Answer:** 0036
+[[src_kangourou_2018_junior_finale__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Ecolier (finale nazionale) — Quesito E1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_ecolier_finale__QE1
 parent: src_kangourou_2005_ecolier_finale
 competition: Kangourou 2005 - Ecolier (finale nazionale)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero totale di case sullo stesso lato*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 111
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IkYd8e7o2p8yRZV9wdme-Pnuv7OvFI11/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total number of houses on the same side*
+
+> On the street where I live, the houses are numbered on one side with consecutive odd numbers, starting with 1, and on the other side with even numbers (each number denotes only one house). My house is number 137. If the numbering had started at the other end of the street, my house would have the number 85. How many houses are there all over the same side of mine?
+
+**Answer:** 111
+[[src_kangourou_2005_ecolier_finale__QE1]]

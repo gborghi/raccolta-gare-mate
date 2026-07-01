@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q08
 parent: src_cesenatico_2007_squadre_finale
 competition: Gara a Squadre Cesenatico 2007 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Combinazioni compatibili dello zodiaco amici/nemici*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Compatible combinations of the zodiac friends/enemies*
+
+> The morning zodiac signs of the morning zodiac are 12 like ours. Each sign has exactly two friends and one enemy sign. The two friends of one sign are always enemies of the other. A sign and its enemy always have the same two friend signs. Friendship and enmity are symmetrical. Numeruto only remembers that the enemy of the elephant is the mouse and that one of the tiger's friends is the frog and he must complete a pattern returning the friends and the enemy of all signs. How many combinations compatible with the rules set out can you choose from?
+
+[[src_cesenatico_2007_squadre_finale__Q08]]

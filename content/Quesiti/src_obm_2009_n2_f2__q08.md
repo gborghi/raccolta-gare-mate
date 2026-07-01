@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f2__Q08
 parent: src_obm_2009_n2_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle median geometry: find MN perpendicular to AB given AN=2NC, AC=12*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Geometria mediana triangolare: trovare MN perpendicolare a AB data AN=2NC, AC=12*
+
+> Che $N$ sia un punto sul lato $AC$ del triangolo $ABC$ tale che $AN = 2NC$, e che $M$ sia un punto sul lato $AB$ tale che $MN \perp AB$. Dato che $AC = 12\,\text{cm}$ e $G$ è il centroide del triangolo $ABC$ (il punto di intersezione dei mediani), determinare la lunghezza del segmento $MN$.
+> 
+> \textit{Nota: il centroide (baricentro) è il punto di intersezione dei mediani del triangolo.}
+
+[[src_obm_2009_n2_f2__Q08]]

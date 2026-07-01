@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1976-77 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1976-77_round1__Q06
 parent: src_bmo_1976-77_round1
 competition: British Mathematical Olympiad 1976-77 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Decompose 26(x+...+x^n) as sum of permutation polynomials; find all n*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Decomponere 26(x+...+x^n) come somma di polinomi di permutazione; trovare tutti n*
+
+> Il polinomio $26(x + x^2 + x^3 + \cdots + x^n)$, dove $n > 1$, deve essere decomposto in una somma di polinomi, non necessariamente tutti diversi. Ciascuno di questi polinomi deve avere la forma $a_1 x + a_2 x^2 + a_3 x^3 + \cdots + a_n x^n$ dove ogni $a_i$ è uno dei numeri $1, 2, 3, \ldots, n$ e non sono uguali due $a_i$. Trova tutti i valori di $n$ per i quali è possibile questa decomposizione.
+
+[[src_bmo_1976-77_round1__Q06]]

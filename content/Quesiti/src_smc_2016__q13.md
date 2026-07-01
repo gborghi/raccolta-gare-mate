@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2016 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2016__Q13
 parent: src_smc_2016
 competition: Senior Mathematical Challenge 2016
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five square tiles (side length 1) placed side by side; a quarter circle on each tile forms a continuous curve. What is the total length of the curve?*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+5 piastrelle quadrate (lenghezza laterale 1) poste fianco a fianco; un quarto di cerchio su ciascuna piastrella forma una curva continua. Qual è la lunghezza totale della curva?*
+
+> Cinque piastrelle quadrate sono messe insieme fianco a fianco. Un quarto di cerchio viene disegnato su ogni piastrella per fare una curva continua, come mostrato. Ognuno dei più piccoli quadrati ha una lunghezza laterale 1. Qual è la lunghezza totale della curva?
+>
+> - **(A)** $4\pi$
+> - **(B)** $6.5\pi$
+> - **(C)** $7\pi$
+> - **(D)** $7.5\pi$
+> - **(E)** $8\pi$
+
+![[src_smc_2016__Q13.png]]
+
+**Risposta:** A
+[[src_smc_2016__Q13]]

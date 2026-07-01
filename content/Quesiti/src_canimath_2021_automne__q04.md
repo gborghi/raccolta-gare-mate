@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2021 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_automne__Q04
 parent: src_canimath_2021_automne
 competition: Coupe Animath Automne 2021
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *8×8 chessboard, infernal rooks attack same-color in row and other-color in column; find maximum non-attacking placement*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*8×8 scacchi, corde infernali attaccano di colore uguale in riga e di colore diverso in colonna; trovare posizionamento massimo non attaccante*
+
+> Consideriamo una scacchiera $8 \times 8$ i cui quadrati sono di colore alternato bianco e nero. Una torre infernale ** è un pezzo che può attaccare tutti i quadrati del suo colore situati sulla sua riga, così come i quadrati dell'altro colore situati sulla sua colonna. Qual è il numero massimo di corde infernali che si possono mettere sulla scacchiera in modo che due corde infernali non possano attaccarsi l'una l'altra?
+
+[[src_canimath_2021_automne__Q04]]

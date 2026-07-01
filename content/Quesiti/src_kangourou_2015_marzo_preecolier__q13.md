@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q13
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *la tessera mancante*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>the missing card< MSK1/>
+
+> Each card is an equilateral triangle. What's the missing card? (see figure)
+> 
+> (A) (B) (C) (D) (E)
+
+**Answer:** C
+[[src_kangourou_2015_marzo_preecolier__Q13]]

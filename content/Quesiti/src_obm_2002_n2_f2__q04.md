@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f2__Q04
 parent: src_obm_2002_n2_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four birds equidistant from observer post; find distance given BD=16 and angle BAD=45°*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro uccelli a uguale distanza dal posto di osservazione; trovare la distanza data BD=16 e l'angolo BAD=45°*
+
+> Il professor Pardal sta studiando il comportamento di una famiglia di una certa specie di uccelli. I punti $A$, $B$, $C$ e $D$ della figura accanto rappresentano le posizioni di quattro uccelli. Il professore costruì un posto di osservazione a uguale distanza dai quattro uccelli.
+> 
+> Tutti i nidi e il posto d'osservazione si trovano alla stessa altezza. La distanza da $B$ a $D$ è $16$ metri e $\widehat{BAD} = 45^\circ$. Determina la distanza dal palo a ciascun uccello.
+
+![[src_obm_2002_n2_f2__Q04.png]]
+
+[[src_obm_2002_n2_f2__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2012 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2012__Q07
 parent: src_cn_cwmo_2012
 competition: China Western Mathematical Olympiad 2012
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all n>=2 for which n×n grid can be flipped to all -1*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le n>=2 per le quali n×n griglia può essere rovesciata a tutte -1*
+
+> Data una griglia $n \times n$, chiamiamo due celle adiacenti se hanno un lato comune. All'inizio, ad ogni cella viene assegnato il numero $+1$. Un'operazione sulla griglia è definita come segue: si sceglie una cella, e poi si cambiano i segni di ogni numero nelle sue celle adiacenti (ma non si cambia il segno del numero in sé). Trova tutti i numeri interi $n \ge 2$, in modo che dopo un numero finito di operazioni, tutti i numeri nelle celle della griglia siano cambiati in $-1$. (Possibile da Shen Huyue)
+
+[[src_cn_cwmo_2012__Q07]]

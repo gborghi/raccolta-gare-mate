@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1997 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_2livello__Q16
 parent: src_archimede_1997_2livello
 competition: Archimede Gara 2º livello 1997
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *angolo in D*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>angle in D< MSK1/>
+
+> In a convex quadrilateral $ABCD$ the sides $AB$, $BC$, $CD$ are equal. In addition, $AC = BD = AD$. What is the angle in $D$?
+
+[[src_archimede_1997_2livello__Q16]]

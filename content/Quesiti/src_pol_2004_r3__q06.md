@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r3__Q06
 parent: src_pol_2004_r3
 competition: Olimpiade Matematica Polacca 2004 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest number of consecutive terms divisible by m in a recursive sequence*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xVPNuxhSgv3eEtgJe42pRAq5eC6MhKAl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Meno numero di termini consecutivi divisibili per m in una sequenza ricorsiva*
+
+> Si dà un numero intero $m > 1$. La sequenza infinita $x_1, x_2, x_3, \ldots$ è definita da $$x_i = \begin{cases} 2^i & \text{for } i < m, \\ x_{i-1} + x_{i-2} + \cdots + x_{i-m+1} & \text{for } i \ge m. \end{cases}$$ Trova il numero naturale più grande $k$ in modo tale che esistano $k$ termini successivi di questa sequenza che sono divisibili da $m$.
+
+[[src_pol_2004_r3__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Biennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_biennio__Q17
 parent: src_archimede_2006_biennio
 competition: Giochi di Archimede 2006 - Gara Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato del quadrato inscritto in triangolo equilatero*
 
@@ -61,7 +64,7 @@ tags:
 > - **(B)** (2 √ 3 −3) m,
 > - **(C)** 1 2 m,
 > - **(D)** 1 + √ 3 4 m,
-> - **(E)** ( √ 3 −1) m. A D E B C F G
+> - **(E)** ( √ 3 −1) m.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -69,3 +72,45 @@ tags:
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Side of the square inscribed in an equilateral triangle*
+
+![[src_archimede_2006_biennio__prob17.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (6,0);
+  \coordinate (C) at (3,5.196);
+  \coordinate (D) at (1.607,0);
+  \coordinate (E) at (4.393,0);
+  \coordinate (F) at (4.393,2.785);
+  \coordinate (G) at (1.607,2.785);
+  \draw (A) -- (B) -- (C) -- cycle;
+  \draw (D) -- (E) -- (F) -- (G) -- cycle;
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above] at (C) {$C$};
+  \node[below] at (D) {$D$};
+  \node[below] at (E) {$E$};
+  \node[above right] at (F) {$F$};
+  \node[above left] at (G) {$G$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure next to the triangle ABC is equilateral and has a side of 1 m and DEFG is a square. What's the size of the DE side?
+>
+> - **(A)** 1 3 m,
+> - **(B)** (2 √ 3 −3) m,
+> - **(C)** 1 2 m,
+> - **(D)** 1 + √ 3 4 m,
+> - **(E)** ( √ 3 −1) m.
+
+**Answer:** B
+[[src_archimede_2006_biennio__Q17]]

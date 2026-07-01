@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1978-79 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1978-79_round1__Q04
 parent: src_bmo_1978-79_round1
 competition: British Mathematical Olympiad 1978-79 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rational-valued function satisfying f(x+f(y))=f(f(x))+f(y); prove f is constant*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Funzione a valore razionale che soddisfa f(x+f(y))=f(f(x))+f(y); prova che f è costante*
+
+> La funzione $f$ è definita sui numeri razionali e assume solo valori razionali. Per tutti i $x$ e $y$ razionali, $$f(x + f(y)) = f(f(x)) + f(y).$$
+> 
+> Provare che $f$ è costante.
+
+[[src_bmo_1978-79_round1__Q04]]

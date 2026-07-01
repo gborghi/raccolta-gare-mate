@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2010 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2010__Q10
 parent: src_bocconi_semifinale_2010
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2010
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Strano triangolo rettangolo: misura di un angolo acuto*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $45^\circ$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Strange triangle rectangle: measurement of a sharp angle*
+
+> In a right triangle, the product of the lengths of the three sides is twice the product of the three heights. What is the measure (in degrees) of one of the two sharp angles of this right triangle?
+
+**Answer:** $45^\circ$
+[[src_bocconi_semifinale_2010__Q10]]

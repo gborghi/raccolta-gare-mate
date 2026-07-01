@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2020 — Nível 1 — Fase x — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2020_n1_fx__Q05
 parent: src_obm_2020_n1_fx
 competition: Olimpíada Brasileira de Matemática 2020 — Nível 1 — Fase x
@@ -39,6 +40,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Simple polygons and straight lines cutting their sides without passing through vertices: constructions and a parity argument*
 
@@ -59,3 +62,23 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iSdaRM6CErivk-PPJ0xdts0TClcOGdZN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Poligoni semplici e linee rette che tagliano i loro lati senza passare attraverso vertici: costruzioni e un argomento di parità*
+
+> Un poligono semplice è determinato dall'unione di segmenti di linea che collegano punti in sequenza, in modo tale che i punti consecutivi di una sequenza siano uniti da un segmento e l'ultimo punto della sequenza sia unito al primo. I lati consecutivi sono segmenti che condividono un vertice; gli altri sono chiamati lati non consecutivi. Tale sequenza di punti deve essere tale che gli unici punti di intersezione tra i segmenti si trovino ai vertici di segmenti consecutivi. La figura mostra due esempi di poligoni semplici e un esempio che non è un poligono semplice.
+> 
+> a) Disegnare un poligono semplice con i lati $4$ e una linea che non contiene alcuna vertice ma taglia $4$ dei suoi lati.
+> 
+> b) Indicare se è possibile disegnare un poligono semplice con lati $20$ e una linea che non contiene vertici e taglia i lati $20$ del poligono. Se possibile, mostralo con un disegno. Se no, spiegate il motivo.
+> 
+> c) Considerare un poligono semplice con lati < MSK0/>. Spiega perché non è possibile disegnare una linea che taglia esattamente $17$ i lati di questo poligono senza passare attraverso uno dei suoi vertici.
+> 
+> d) Rendere uno schema di un poligono semplice con lati $21$ e linee $10$ in modo tale che queste linee non passino attraverso nessun vertice e il numero di lati tagliati da queste linee sia distinto.
+
+![[src_obm_2020_n1_fx__Q05.png]]
+
+[[src_obm_2020_n1_fx__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo12yq_yosen__Q02
 parent: src_jmo12yq_yosen
 competition: Japan Mathematical Olympiad 2002 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pairs from 1..14 with absolute difference at most 3*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 36
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Coppie da 1,14 con differenza assoluta non superiore a 3*
+
+> Tra i numeri interi tra $1$ e $14$ inclusi, scegliere due numeri distinti. Quante coppie di due numeri esistono tali che il valore assoluto della loro differenza sia al massimo $3$? Qui, scegliere i due numeri in entrambi gli ordini è considerato come la stessa coppia.
+
+**Risposta:** 36
+[[src_jmo12yq_yosen__Q02]]

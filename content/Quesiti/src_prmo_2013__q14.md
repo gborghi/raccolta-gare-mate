@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2013__Q14
 parent: src_prmo_2013
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2013
@@ -34,6 +35,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find m+n where m,n are smallest odd/even integers making triangular number a perfect square*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova m+n dove m,n sono i numeri interi più piccoli pari/pari che rendono il numero triangolare un quadrato perfetto*
+
+> Che $m$ sia il più piccolo numero intero parziale per il quale $1 + 2 + \cdots + m$ è un quadrato di un intero e che $n$ sia il più piccolo numero intero pari per il quale $1 + 2 + \cdots + n$ è un quadrato di un intero. Qual è il valore di < MSK4/>?
+
+[[src_prmo_2013__Q14]]

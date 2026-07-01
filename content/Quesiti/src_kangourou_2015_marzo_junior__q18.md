@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Junior — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q18
 parent: src_kangourou_2015_marzo_junior
 competition: Kangourou 2015 gara 19 marzo Junior
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *somma cifre di c*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lv8vPzK3uXmG94tNsM2uWmmnksIo2fLI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of digits c *
+
+> The two solutions to the equation x2 - 85x + c = 0 are prime integers. What is the sum of the digits of the number c ? A) 12
+> 	
+> B) 13
+> 	
+> C) 14
+> 	
+> D) 15
+> 	
+> E) 21
+
+**Answer:** B
+[[src_kangourou_2015_marzo_junior__Q18]]

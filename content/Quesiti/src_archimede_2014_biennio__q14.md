@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_biennio__Q14
 parent: src_archimede_2014_biennio
 competition: Giochi di Archimede 2014 - Biennio (Testo 1)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area tra tre circonferenze tangenti due a due*
 
@@ -58,3 +61,27 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Oz_wj_o5ytBhbhCTfVi7OLptFspmtFPH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area between three tangent circumferences two to two*
+
+![[src_archimede_2014_biennio__prob14.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \fill[gray!50] (1,0) arc (0:60:1) arc (240:300:1) arc (120:180:1) -- cycle;
+  \draw (0,0) circle (1);
+  \draw (2,0) circle (1);
+  \draw (1,1.732) circle (1);
+\end{tikzpicture}
+\end{document}
+```
+
+> Three circles are given, each 1 cm in radius and tangent two to two as shown in the figure. Calculate the area in cm2 of the part between the three circumferences, highlighted in gray in the figure. (A) ( √ 3 −π 2 ), (B) √ 3, (C) 3, (D) π 2 , (E) π.
+
+**Answer:** A
+[[src_archimede_2014_biennio__Q14]]

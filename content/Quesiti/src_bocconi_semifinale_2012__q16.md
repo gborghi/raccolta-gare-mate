@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2012 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2012__Q16
 parent: src_bocconi_semifinale_2012
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2012
@@ -34,6 +35,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Superficie della visiera triangolare grigia del casco a partire da un pentagono inscritto in una circonferenza.*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 505
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Surface of the grey triangular visor of the helmet from a pentagon inscribed in a circumference.*
+
+> The Horseman's helmet
+> 
+> In the figure (symmetrical to the vertical axis) you see a knight's helmet. The five vertices of the pentagon are situated on the same circumference. The three smallest sides of the same pentagon have a length equal to the radius of this circumference, or 25 cm. The middle points of the major sides of the pentagon delimit the lower base of the grey triangle (which represents the visor of the helmet); the high vertices of the grey triangle and the pentagon coincide.
+> 
+> What is the area of the helmet visor (expressed in cm$^2$ and rounded to the nearest cm$^2$)?
+> 
+> Note: if necessary, $1{,}414$ for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$ will be used to write the final result.
+
+![[src_bocconi_semifinale_2012__Q16.png]]
+
+**Answer:** 505
+[[src_bocconi_semifinale_2012__Q16]]

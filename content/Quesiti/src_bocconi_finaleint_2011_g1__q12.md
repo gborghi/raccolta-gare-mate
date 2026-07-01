@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 1) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g1__Q12
 parent: src_bocconi_finaleint_2011_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo api nell'alveare magico*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 92
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most bees in the magic hive< MSK1/>
+
+> The figure represents the section of a hive. At each of the $24$ vertices there are from $1$ to $6$ bees. The bees at the < MSK3/> vertices of each hexagon shall be in different numbers. < MSK4/>What is the maximum number of bees in the hive? < MSK5/>
+
+![[src_bocconi_finaleint_2011_g1__Q12.png]]
+
+**Answer:** 92
+[[src_bocconi_finaleint_2011_g1__Q12]]

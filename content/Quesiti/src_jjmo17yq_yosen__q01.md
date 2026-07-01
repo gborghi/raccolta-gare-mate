@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo17yq_yosen__Q01
 parent: src_jjmo17yq_yosen
 competition: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distinct digits 1-9 with two products equal to a sum*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 23, 27
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YyPhdRC8ta06c--Y1mxGSGuS4yujWAKb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Differenti cifre 1-9 con due prodotti uguali a una somma*
+
+> $a, b, c, d, e, f$ siano integri separati in coppia, ciascuno tra $1$ e $9$ inclusi, soddisfacendo $a\cdot b = c\cdot d = e + f$. Trova tutti i valori possibili di $a + b + c + d + e + f$.
+
+**Risposta:** 23, 27
+[[src_jjmo17yq_yosen__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Student - Gara 16 marzo — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q13
 parent: src_kangourou_2017_student_marzo
 competition: Kangourou 2017 Student - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale altezza tra cilindri stesso volume*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage height between cylinders of the same volume*
+
+> The two cylinders A and B with a circular base have the same volume. If the radius of the base of B is greater than 10% of that of the base of A, by what percentage is the height of A greater than that of B? A) 5% B) 10% C) 11% D) 20% E) 21%
+
+**Answer:** E
+[[src_kangourou_2017_student_marzo__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q22
 parent: src_kangourou_2009_ecolier_marzo
 competition: Kangourou 2009 - Ecolier (gara 19 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prossimo numero palindromo dopo 15951*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Furth palindrome number after 15951*
+
+> A palindrome number is a number that remains the same if it is read from right to left instead of from left to right: for example, numbers 101 and 1221 are palindromes, while number 1231 is not. My car's meter now has the palindrome number 15951. How many miles will I have to travel to get the next palindrome number? A) 100 B) 110 C) 710 D) 900 E) 1010
+
+**Answer:** B
+[[src_kangourou_2009_ecolier_marzo__Q22]]

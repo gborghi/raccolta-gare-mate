@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q17
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -35,6 +36,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum cards to draw guaranteeing product divisible by 6*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di carte da disegnare per il prodotto di garanzia divisibile per 6*
+
+> Ci sono 100 carte in una scatola che sono numerate da 1 a 100. Mentre è legato gli occhi, Mainak sta per disegnare una o più carte dalla scatola. Dopo di che, toglierà la benda e moltiplicerà insieme i numeri su queste carte. Mainak vuole che il prodotto dei numeri sulle carte disegnate sia un multiple di 6. Quante carte deve disegnare per assicurarsi che questo accada?
+
+[[src_ioqm_2025_sep28__Q17]]

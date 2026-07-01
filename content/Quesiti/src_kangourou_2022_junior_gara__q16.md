@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q16
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto AD/DC del rettangolo in 12 rettangoli*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio AD/DC of the rectangle in 12 rectangles*
+
+![[src_kangourou_2022_junior_gara__prob16.png]]
+
+> The figure shows a rectangle divided into 12 rectangles all of the same size. What 's the relationship between the length of the AD side and that of the DC side ? A) 8/9 B) 5/6 C) 7/8 D) 2/3 E) 9/8
+
+**Answer:** A
+[[src_kangourou_2022_junior_gara__Q16]]

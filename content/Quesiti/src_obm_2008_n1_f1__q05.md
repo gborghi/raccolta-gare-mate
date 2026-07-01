@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n1_f1__Q05
 parent: src_obm_2008_n1_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *People numbered 1–125; multiples of 3 listed; some names appear twice*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jS9AjIezsp0MUxDiEgVpS7k3MJ9uT3_v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Persone numerate 1125; multipli di 3 elencati; alcuni nomi appaiono due volte*
+
+> In una riunione della comunità del quartiere, ciascuno dei 125 presenti ricevette un numero diverso, da 1 a 125. In quel momento, è stato fatto un elenco di tutte le persone il cui numero è multiplo di 3, che dovevano partecipare a un progetto. Alcune persone si lamentarono che il loro nome apparve due volte nella lista. Quante persone sono apparse due volte sulla lista?
+> 
+> A) 2 $\quad$ B) 6 $\quad$ C) 20 $\quad$ D) 41 $\quad$ E) 62
+
+**Risposta:** B
+[[src_obm_2008_n1_f1__Q05]]

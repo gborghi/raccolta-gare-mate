@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (finale Cervia) — Quesito J4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_finale__QJ4
 parent: src_kangourou_2016_junior_finale
 competition: Kangourou 2016 Junior (finale Cervia)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorni festivi in piu aggiungendo i ponti, anno 3000 giorni*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BU30qu2TCa9fts5FiD2Cc0ESbI7oLEr9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Additional holidays by adding bridges, year 3000 days
+
+> In the strange republic of Kang, years last 3,000 days, numbered from 1 to 3,000. Holidays are those whose number is divisible by 6 or is a prime number; the others are working days. If the holidays were to be added to each day of ponte, that is, the working day preceding and followed by a holidays, how many more holidays would there be in each year?
+
+**Answer:** 2
+[[src_kangourou_2016_junior_finale__QJ4]]

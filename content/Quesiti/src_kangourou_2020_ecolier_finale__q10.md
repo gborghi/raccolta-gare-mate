@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Ecolier — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__Q10
 parent: src_kangourou_2020_ecolier_finale
 competition: Kangourou 2020 Finale nazionale Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti talleri valeva il paiolo (contratto)*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0480
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many tallies was the payroll (contracts) < MSK1/>
+
+> Luke looks up at the pyramid you see below. Which one of the pictures on the side do you see?
+>
+> - **(A)** (Figure A)
+> - **(B)** (Figure B)
+> - **(C)** (Figure C)
+> - **(D)** (Figure D)
+> - **(E)** (Figure E) (see figure)
+
+**Answer:** 0480
+[[src_kangourou_2020_ecolier_finale__Q10]]

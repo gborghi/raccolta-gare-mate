@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q27
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza del lato del quadrato data poligonale DEFB*
 
@@ -68,3 +71,35 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of the side of the polygonal given square DEFB*
+
+![[src_kangourou_2019_student_marzo__prob27.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.9]
+  \draw[thick] (0,0) -- (5,0) -- (5,5) -- (0,5) -- cycle;
+  \node[above left] at (0,5) {$A$};
+  \node[above right] at (5,5) {$B$};
+  \node[below right] at (5,0) {$C$};
+  \node[below left] at (0,0) {$D$};
+  \draw[thick] (0,0) -- (3,4) -- (3.8,3.4) -- (5,5);
+  \draw (3.12,4.16) -- (3.28,4.04) -- (3.16,3.88);
+  \node[left] at (1.5,2) {$5$};
+  \node[right] at (3.45,3.65) {$1$};
+  \node[above left] at (4.4,4.6) {$2$};
+  \node[left] at (3,4) {$E$};
+  \node[below] at (3.8,3.4) {$F$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the square ABCD a DEFB polygon with DE and FB perpendicular to FE has been drawn, as shown in the figure. If the segments DE, EF and FB are 5, 1 and 2 respectively, what is the length of the side of the square? (A) 3√2 B) 7√2/2 C) 11/2 D) 5√2 E) None of the above.
+
+**Answer:** E
+[[src_kangourou_2019_student_marzo__Q27]]

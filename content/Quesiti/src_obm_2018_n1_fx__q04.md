@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2018 — Nível 1 — Fase x — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2018_n1_fx__Q04
 parent: src_obm_2018_n1_fx
 competition: Olimpíada Brasileira de Matemática 2018 — Nível 1 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ball-passing game among four players; how many throws after n passes return to Ana*
 
@@ -55,3 +58,21 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KCJHUo1nCGlEeSCXILo_64DHKdkW717s/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di passaggio della palla tra quattro giocatori; quanti lanci dopo n passi ritornano a Ana*
+
+> Ana, Bruno, Célia e Dirce sono in un parco e decidono di giocare con una palla. Ogni bambino che riceve la palla la passa ad un altro. I diversi modi in cui Ana può passare la palla sono:
+> 
+> a) Tre lanci? Ad esempio, Ana lancia a Bruno, che lancia a Dirce, che lancia di nuovo a Ana.
+> 
+> b) 4 lanci? Ad esempio, Ana lancia a Bruno, che lo rimette a Ana, che lo lancia a Célia, che lo riporta ad Ana.
+> 
+> c) 10 lanci?
+> 
+> In quanti modi distinti la palla può tornare a Ana dopo ciascuno dei seguenti lanci totali?
+
+[[src_obm_2018_n1_fx__Q04]]

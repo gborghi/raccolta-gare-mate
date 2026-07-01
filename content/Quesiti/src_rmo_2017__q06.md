@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2017 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2017__Q06
 parent: src_rmo_2017
 competition: Regional Mathematical Olympiad 2017
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove cyclic inequality for reals greater than 1*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aTvWjjCyaztnP6zBTHomfMlYOKdjp_YI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rimprovare le disuguaglianze cicliche per reali superiori a 1*
+
+> $x, y, z$ siano numeri reali, ognuno più grande di $1$. Provare che < MSK0/>
+
+[[src_rmo_2017__Q06]]

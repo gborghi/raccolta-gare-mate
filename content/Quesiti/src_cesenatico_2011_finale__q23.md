@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_finale__Q23
 parent: src_cesenatico_2011_finale
 competition: Gara a Squadre Cesenatico 2011 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro muro intorno piramide (geodetiche)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1047
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Wall perimeter around pyramids (geodetic) *
+
+> Cleopatra's true pyramid Cleopatra had another pyramid built, this time straight and square, with side faces of equilateral triangles of side 100 cleopasses. The queen demanded that the architects surround the pyramid, located in a perfectly flat desert, with a perimeter wall so that, from any point of the inner wall, Cleopatra could reach the top of the pyramid in 200 cleopasses (but nothing less), walking through the desert and on the surface of the pyramid. What will the perimeter of the wall be calculated in cleopasses?
+
+**Answer:** 1047
+[[src_cesenatico_2011_finale__Q23]]

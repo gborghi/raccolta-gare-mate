@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q08
 parent: src_archimede_2015_febb_2livello
 competition: Archimede Gara di Febbraio 2015 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area di ABC dato quadrato sull'ipotenusa e aree di ABE, ACD*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/147OSJf1wSBJHNEWKDKPVWMIP2TLevkAt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of ABC given square on the hypotenuse and areas of ABE, ACD*
+
+![[src_archimede_2015_febb_2livello__prob8.png]]
+
+> Given the triangle ABC rectangle in A we build on the hypotenuse the square BCDE (with D, E on the opposite side of A versus BC). Knowing that the areas of the triangles ABE and ACD are worth 6 m2 and 27 m2 respectively, what is the area of the triangle ABC worth?
+>
+> - **(A)** 3 √ 2 m2
+> - **(B)** 6 m2
+> - **(C)** 12 m2
+> - **(D)** 9 √ 2 m2
+> - **(E)** 18 m2
+
+**Answer:** D
+[[src_archimede_2015_febb_2livello__Q08]]

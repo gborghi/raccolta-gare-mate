@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q05
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count triangles of perimeter 7 with integer sides*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i triangoli del perimetro 7 con lati interi*
+
+> Quanti triangoli con perimetro $7$ hanno tutti i lati con lunghezze interi?
+> 
+> (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
+
+[[src_obm_2011_n2_f1__Q05]]

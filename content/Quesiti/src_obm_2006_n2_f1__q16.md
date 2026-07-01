@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q16
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *João writes all 4-digit numbers using only digits 1 and 2; find sum*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*João scrive tutti i numeri a 4 cifre utilizzando solo i numeri 1 e 2; trovare somma*
+
+> João scrive tutti i numeri di cifre $4$ utilizzando solo le cifre $1$ e $2$, e poi le aggiunge tutte. Il valore ottenuto è:
+> 
+> **A) ** 2314 \quad **B) ** 3000 \quad **C) ** 1401 \quad **D) ** 2316 \quad **E) ** 1716
+
+**Risposta:** B
+[[src_obm_2006_n2_f1__Q16]]

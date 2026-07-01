@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q17
 parent: src_archimede_2025_squadre_finale
 competition: Gara a Squadre Nazionale 2025 - Finale Nazionale
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Caselle reticolo toccate da circonferenza raggio 2025*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 6220
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Radio-circumference-touched lattice shafts 2025*
+
+> The world's largest compass IsAbel returns to visit φ-neas and Ferbmat. - Hey, you guys. What are you doing? φ-neas: We're building the world's largest compass! (Ferbmat draws an infinite grid on the ground with square boxes of side 1m and then φ-neas places the fixed tip of the compass on a top of the grid). φ-neas: Now I draw a radius circumference of 2025m and those in red the boxes that have at least one point in common with the circumference drawn by the compass (even only on the edge of the box). How many boxes did you dye red with φ-neas?
+
+**Answer:** 6220
+[[src_archimede_2025_squadre_finale__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2018 Semifinale A — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_a__Q10
 parent: src_kangourou_2018_squadre_a
 competition: Kangourou Coppa Squadre 2018 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza tra max e min palindromi di 5 cifre div 45*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9090
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Difference between max and min 5 digit palindromes divided by 45
+
+> Divisible by 45 A number is called a palindrome if it coincides with the number obtained by reading its digits from right to left (e.g. 42324 is palindrome, 42334 is not). Consider all the five-digit palindromic numbers (significant) divisible by 45. What is the difference between the largest and the smallest of them?
+
+**Answer:** 9090
+[[src_kangourou_2018_squadre_a__Q10]]

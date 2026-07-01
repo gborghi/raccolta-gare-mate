@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Finale Junior (Mirabilandia) — Quesito J2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_junior_finale__QJ2
 parent: src_kangourou_2011_junior_finale
 competition: Kangourou 2011 Finale Junior (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max numero di cifre distinte divisibile per ognuna delle sue cifre*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A8qimI9Qnb556w2mXg3Qay5AZ8S_1rqs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Max number of distinct digits divisible by each of its digits*
+
+> A positive integer, written in decimal notation, has the digits two to two different from each other and is divisible by each of its digits. How many digits can he have at most?
+
+**Answer:** 7
+[[src_kangourou_2011_junior_finale__QJ2]]

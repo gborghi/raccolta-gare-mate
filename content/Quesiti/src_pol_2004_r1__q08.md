@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r1__Q08
 parent: src_pol_2004_r1
 competition: Olimpiade Matematica Polacca 2004 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For a point $P$ inside tetrahedron $ABCD$, prove $\angle APB+\angle BPC+\angle CPD+\angle DPA>360^\circ$.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per un punto $P$ all'interno del tetraedro $ABCD$, provare $\angle APB+\angle BPC+\angle CPD+\angle DPA>360^\circ$.*
+
+> Il punto $P$ si trova all'interno di un tetraedro $ABCD$. Provare che < MSK0/>
+
+[[src_pol_2004_r1__Q08]]

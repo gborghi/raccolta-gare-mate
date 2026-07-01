@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_finale__Q11
 parent: src_kangourou_2018_ecolier_finale
 competition: Kangourou Coppa Ecolier squadre 2018 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero lettere nella sequenza di Clara*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0060
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of letters in the Clara sequence*
+
+> The Clara Alice sequence has written the ABCAABBCCAAABBBCCC letter sequence. Biagio rewrote Alice's sequence by replacing each letter A with a pair of letters BB. Finally Clara rewrote Biagio's sequence replacing each letter B with the letter CCC. How many letters are in Clara's sequence?
+
+**Answer:** 0060
+[[src_kangourou_2018_ecolier_finale__Q11]]

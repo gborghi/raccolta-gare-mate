@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q09
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero impossibile*
 
@@ -54,3 +57,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>number not possible< MSK1/>
+
+> Alessio has two strings, one 1 meter long and the other 2 meters long. The cuts and all the pieces of rope you get are the same length. Which of the following cannot be the total number of pieces of rope obtained? A) 6
+> 	
+> B) 8
+> 	
+> C) 9
+> 	
+> D) 12
+> 	
+> E) 15
+
+**Answer:** C
+[[src_kangourou_2016_cadet_marzo__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_a__Q13
 parent: src_cesenatico_2005_squadre_semifinale_a
 competition: Gara a Squadre Cesenatico 2005 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cateto minore di triangolo rettangolo con condizione incentro*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0500
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lesser set of rectangular triangle with center condition*
+
+> A rectangular triangle is given where the encounter is equidistant from the top of the right angle and the middle point of the hypotenuse. Knowing that the hypotenuse measures $1000$, calculate the minor triangle length.
+
+**Answer:** 0500
+[[src_cesenatico_2005_squadre_semifinale_a__Q13]]

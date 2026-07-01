@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q04
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante lettere da consegnare (numeri dispari)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many letters to deliver (odd numbers) *
+
+> The houses on Via Lunga are numbered from 1, without skipping numbers. Henry has to deliver letters to some houses: he has to deliver a letter to each house that has an odd civil number, starting with house number 15 and ending with house number 53. How many letters does he have to deliver in all? A) 19 B) 20 C) 27 D) 38 E) 53
+
+**Answer:** B
+[[src_kangourou_2009_cadet_marzo__Q04]]

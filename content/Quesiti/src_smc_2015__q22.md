@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q22
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of f(2015) where f(x) = x + sqrt(x^2+1) + 1/(x - sqrt(x^2+1))*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta di f(2015) dove f(x) = x + sqrt(x^2+1) + 1/(x - sqrt(x^2+1)) *
+
+> Let < MSK0/>. Qual è il valore di $f(2015)$?
+>
+> - **(A)** $-1$
+> - **(B)** $0$
+> - **(C)** $1$
+> - **(D)** $\sqrt{2016}$
+> - **(E)** $2015$
+
+**Risposta:** B
+[[src_smc_2015__Q22]]

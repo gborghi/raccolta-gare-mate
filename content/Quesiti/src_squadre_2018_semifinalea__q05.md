@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Semifinale A — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_semifinalea__Q05
 parent: src_squadre_2018_semifinalea
 competition: Gara a Squadre 2018 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Due triangoli simili intersecanti in esagono, rapporto prodotti lati*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0103
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Two similar triangles intersecting in the hexagon, side product ratio< MSK1/>
+
+> It's a great Gauss! The rays in the flow geometry always create strange figures, Matryx! says DOC. Today they form two T1 and T2 triangles, with two parallel sides, partially overlapping so as to intersect in an ABCDEF hexagon, whose area is half that of T1, and also the 49 72 of T2. Also AB is 4DE. Now, Matryx, can you tell me how much AB ·CD ·EF BC ·DE ·FA? You write the result as a fraction reduced to the minimum terms, and you answer it by indicating the sum between numerator and denominator.
+
+**Answer:** 0103
+[[src_squadre_2018_semifinalea__Q05]]

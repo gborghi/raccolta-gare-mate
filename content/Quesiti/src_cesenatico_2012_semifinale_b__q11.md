@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_semifinale_b__Q11
 parent: src_cesenatico_2012_semifinale_b
 competition: Gara a Squadre Cesenatico 2012 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Alieni al tavolo rotondo (afferm. su 2 lati)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4887
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The Commission shall adopt implementing acts in accordance with the procedure referred to in paragraph 1 of this Article. on two sides)*
+
+> The ferocious aliens of the Uru System are invading Earth! The world will end unless the Earth Champion defeats the alien chief's daughter in a desperate race. The race is held on a 500-meter track, on multiple laps. The alien surpasses the Champion every three minutes. If one of them were to run in the opposite direction, they would cross each other every 20 seconds. What is the speed of the alien in centimeters per second?
+
+**Answer:** 4887
+[[src_cesenatico_2012_semifinale_b__Q11]]

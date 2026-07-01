@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Ecolier — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__Q09
 parent: src_kangourou_2020_ecolier_finale
 competition: Kangourou 2020 Finale nazionale Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo segmenti per vedere 55 quadrati*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0012
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimate segments to see 55 squares*
+
+> Ash colors each region into which the circle you see is divided by either red or yellow or blue, so that the regions you touch receive different colors. The outermost region is red ash; after the entire drawing has been colored, how many regions are red?
+>
+> - **(A)** $2$
+> - **(B)** $3$
+> - **(C)** $4$
+> - **(D)** $5$
+> - **(E)** The following table shows the results of the evaluation:
+
+**Answer:** 0012
+[[src_kangourou_2020_ecolier_finale__Q09]]

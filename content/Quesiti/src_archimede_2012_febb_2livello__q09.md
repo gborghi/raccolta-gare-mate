@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q09
 parent: src_archimede_2012_febb_2livello
 competition: Archimede Gara Febbraio 2012 (8 feb) - 2 livello
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie m,n con mn=25! frazione ridotta minore di 1*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> Couples m,n with mn=25! a reduced fraction of less than 1*
+
+> How many pairs of positive integers (m, n) are such that the fraction m n is reduced to the minimum terms and strictly less than 1, and that the product mn is equal to 1 · 2 · 3 · 24 · 25 (or the product of the first 25 positive integers)?
+>
+> - **(A)** 27
+> - **(B)** 28 −1
+> - **(C)** 28
+> - **(D)** 29 −1
+> - **(E)** 29.
+
+**Answer:** C
+[[src_archimede_2012_febb_2livello__Q09]]

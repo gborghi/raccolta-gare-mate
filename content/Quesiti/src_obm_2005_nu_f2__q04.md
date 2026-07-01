@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 2 —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_nu_f2__Q04
 parent: src_obm_2005_nu_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove convergence of series involving a recursively defined sequence*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B-VoDPg_AHX_VA8woSsj9mylOr9Jg297/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prova la convergenza di serie che coinvolgono una sequenza definita in modo ricorrente*
+
+> Si consideri la sequenza $(a_n)_{n \ge 1}$ definita da $a_1 = 1$, $a_{n+1} = a_n + \dfrac{1}{a_n^{2005}}$, per tutte le $n \ge 1$. Provare che la serie $\displaystyle\sum_{n=1}^{\infty} \frac{1}{n \cdot a_n}$ converge.
+
+[[src_obm_2005_nu_f2__Q04]]

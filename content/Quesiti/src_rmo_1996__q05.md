@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1996 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1996__Q05
 parent: src_rmo_1996
 competition: Regional Mathematical Olympiad 1996
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In triangle ABC prove $(b+c)^2 \ge a^2 + 4h_a^2$*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19J2mf5R1cDnrRILwWwEUjnzN7cMwK4cG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In triangolo ABC prova $(b+c)^2 \ge a^2 + 4h_a^2$*
+
+> Che $ABC$ sia un triangolo e $h_a$ l'altitudine attraverso $A$. Prove che $$(b + c)^2 \ge a^2 + 4h_a^2.$$ (Come al solito $a$, $b$, $c$ indicano rispettivamente i lati $BC$, $CA$ e $AB$.)
+
+[[src_rmo_1996__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre_f2__Q12
 parent: src_kangourou_2023_ecolier_squadre_f2
 competition: Kangourou Squadre 2023 Ecolier Finale 2
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prezzo panino dato acquisti torte e panini*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0460
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sandwich price given the purchase of cakes and sandwiches< MSK1/>
+
+> Yesterday I bought six sandwiches and three slices of cake, today I bought three sandwiches and six slices of cake. All sandwiches have the same price and all cake slices have the same price: a sandwich costs twice as much as a slice of cake. Yesterday I spent 6 euros and 90 cents more than today. How much is a sandwich worth?
+
+**Answer:** 0460
+[[src_kangourou_2023_ecolier_squadre_f2__Q12]]

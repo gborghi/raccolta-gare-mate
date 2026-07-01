@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q16
 parent: src_kangourou_2017_benjamin_semifinale
 competition: Kangourou 2017 Benjamin (semifinale individuale)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti di ciascun cubo costruito da Paola e Giovanna*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uSb-8ZS0ZxgQE-rDkGuF4RrLMjBY_qKl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cubs of each cube built by Paola and Giovanna*
+
+> (Points 7) Pietro, Paola and Giovanna have a total of 2017 cubes, all of the same size. Approaching more than half of it, Peter constructed a large cube and said to Paola and Joan: 'I could have built a larger cube but this way, using all but the remaining cubes, you can construct a cube each and your two cubes will be of the same size. How many cubes will each of the two cubes be made of?
+
+[[src_kangourou_2017_benjamin_semifinale__Q16]]

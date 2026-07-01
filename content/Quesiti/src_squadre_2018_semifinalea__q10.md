@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Semifinale A — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_semifinalea__Q10
 parent: src_squadre_2018_semifinalea
 competition: Gara a Squadre 2018 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frecce con angoli dati chiuse per riflessione, numero minimo*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0012
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Arrows with data angles closed for reflection, minimum number*
+
+> In the wild West, the Indians pierced the DOC's cowboy hat with arrows. The arrows all have the same tip at the center of the hat, and they all have the shape of segments of the same length. Matryx notes that there are three arrows a,b,c such that the angle between a and b is 60°, that between b and c is 60°, that between c and a is 90°. Instead \ DOC, a more skilled mathematician, notes that for each pair of arrows s and t there is also an arrow that is the symmetry of t with respect to the plane perpendicular to s. How many arrows are in the hat, at least?
+
+**Answer:** 0012
+[[src_squadre_2018_semifinalea__Q10]]

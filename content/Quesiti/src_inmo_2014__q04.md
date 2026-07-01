@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2014 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2014__Q04
 parent: src_inmo_2014
 competition: Indian National Mathematical Olympiad 2014
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Calvin and Hobbes game on x^2+x+2014; prove Calvin has winning strategy*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10Z-9bRHrg98_B491eEp9PX2WiyL_iPbr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Calvin e Hobbes su x^2+x+2014; dimostra che Calvin ha una strategia vincente
+
+> In una lavagna è scritto il polinomio $x^2 + x + 2014$. Calvin e Hobbes si alternano (a partire da Calvin) nel gioco seguente. Durante il suo turno, Calvin dovrebbe aumentare o diminuire il coefficiente di $x$ di $1$. E durante il suo turno, Hobbes dovrebbe aumentare o diminuire il coefficiente costante di $1$. Calvin vince se in qualsiasi momento il polinomio sulla lavagna in quel momento ha radici interi. Dimostra che Calvin ha una strategia vincente.
+
+[[src_inmo_2014__Q04]]

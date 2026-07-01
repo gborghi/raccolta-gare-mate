@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2010 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2010__Q06
 parent: src_cn_cmc_2010
 competition: China Mathematical Competition 2010
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability that the first player wins a dice-rolling game*
 
@@ -43,3 +46,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+La probabilità che il primo giocatore vinca un gioco di lancio dei dadi
+
+> Due persone fanno due dadi a turno. Chiunque ottenga il numero di somma superiore a $6$ prima vincerà la partita. La probabilità che la persona che ruota per primo vinca è di ________.
+
+**Risposta:** $\frac{12}{17}$
+[[src_cn_cmc_2010__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier semifinale individuale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_semifinale__Q08
 parent: src_kangourou_2022_ecolier_semifinale
 competition: Kangourou 2022 Ecolier semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ettogrammi in piu per aiuola da 5 a 6 metri*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Extra hectograms for 5 to 6 metres of flooring < MSK1/>
+
+> (5 points) 50 hectograms (5 kilograms) of fertilizer are needed to fertilise a 5 metre-square-square-foot flower bed. Which of the following numbers expresses how many extra hectograms of fertilizer are needed to fertilise a 6 metre square wooden fence in the same way? A) 10
+>  
+> B) 20 C) 22 D) 60 E) 72
+
+**Answer:** C
+[[src_kangourou_2022_ecolier_semifinale__Q08]]

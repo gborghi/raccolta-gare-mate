@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Ecolier (marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_ecolier__Q09
 parent: src_kangourou_2005_ecolier
 competition: Kangourou 2005 - Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale automezzo puo attraversare il ponte*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which vehicle can cross the bridge*
+
+> Two road signs are located at the foot of a bridge. They indicate the maximum width, 325 cm, and the maximum weight, 4300 kg, permitted for a vehicle to cross that bridge. Which of the following cars is allowed to cross that bridge? A) A width of 315 cm and a weight of 4307 kg. B) A width of 330 cm and a weight of 4250 kg. C) A width of 325 cm and weight of 4400 kg. D) A width of 322 cm and a weight of 4298 kg. E) None of the above.
+
+**Answer:** D
+[[src_kangourou_2005_ecolier__Q09]]

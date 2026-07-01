@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q05
 parent: src_kangourou_2017_squadre_a
 competition: Kangourou Coppa Squadre 2017 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro triangolo rettangolo con un cateto 11 intero*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 132
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular triangle perimeter with an integer catheter 11*
+
+> You only know one catheter In a right triangle the dimensions of the sides, expressed in centimeters, are all integers. One of the catheters measures 11 centimeters. How many centimeters does the perimeter measure?
+
+**Answer:** 132
+[[src_kangourou_2017_squadre_a__Q05]]

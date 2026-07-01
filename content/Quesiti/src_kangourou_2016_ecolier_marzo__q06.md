@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (gara marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q06
 parent: src_kangourou_2016_ecolier_marzo
 competition: Kangourou 2016 Écolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti bambini hanno triangolo sopra il quadrato*
 
@@ -54,3 +57,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many children have a triangle over the square< MSK1/>
+
+![[src_kangourou_2016_ecolier_marzo__prob6.png]]
+
+> Five children each have a square, a triangle, and a circle. All these objects are made of opaque paper. Each child has partially overlapped its three objects: the figure shows you what you see at the end. How many kids put the triangle above (not necessarily subito above) the square? A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 3
+> 	
+> E) 4
+
+**Answer:** D
+[[src_kangourou_2016_ecolier_marzo__Q06]]

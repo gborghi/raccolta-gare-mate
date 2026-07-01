@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2025 Benjamin finale — Quesito B1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2025_benjamin_finale__QB1
 parent: src_kangourou_2025_benjamin_finale
 competition: Kangourou 2025 Benjamin finale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo intero con somma cifre 100*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 199999999999
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hvCMhKmXAjUOFEJWwvFFJ29ZPfkhmm4P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Little whole number with sum of 100 < MSK1/>
+
+> What is the smallest positive integer whose sum is $100$? Explain how you determined it.
+
+**Answer:** 199999999999
+[[src_kangourou_2025_benjamin_finale__QB1]]

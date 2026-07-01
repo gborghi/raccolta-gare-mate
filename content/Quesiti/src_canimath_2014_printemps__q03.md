@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2014 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2014_printemps__Q03
 parent: src_canimath_2014_printemps
 competition: Coupe Animath Printemps 2014
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two tangent circles, common tangent, four sub-questions on geometry*
 
@@ -48,3 +51,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXbOAjNKTjFFzbKdpAWQivUPB4zcjEuT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi tangenti, tangente comune, quattro sottoquestioni sulla geometria*
+
+> Due cerchi, uno con centro $O$ e raggio $R$, l'altro con centro $O'$ e raggio $R'$ con $R < R'$, sono tangenti esternamente al punto $B$. La linea tangente comune $T$ passa attraverso $B$. Disegnare un'altra tangente comune $[MM']$ (dove $M$ appartiene al primo cerchio e $M'$ al secondo). Questa tangente risponde a $(T)$ a $A$. Le linee $(OA)$ e $(O'A)$ tagliano $BM$ e $BM'$ rispettivamente a $D$ e $D'$. Le linee $(OO')$ e $(DD')$ si incontrano a $E$.
+> 
+> (1) Indicare che $(DD')$ è parallelo a $(MM')$.
+> 
+> (2) Indicare che $OAO'$ è un angolo retto a $A$.
+> 
+> (3) Calcolare la lunghezza $EO$ in termini di $R$ e $R'$.
+> 
+> (4) Calcolare la lunghezza $DD'$ in termini di $R$ e $R'$.
+
+[[src_canimath_2014_printemps__Q03]]

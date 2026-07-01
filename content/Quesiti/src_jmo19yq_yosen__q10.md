@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo19yq_yosen__Q10
 parent: src_jmo19yq_yosen
 competition: Japan Mathematical Olympiad 2009 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ratio of two sums of nested square roots*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ratio di due somme di radici quadrate incastonate*
+
+> Calcolare $$\frac{\sqrt{10+\sqrt{1}}+\sqrt{10+\sqrt{2}}+\cdots+\sqrt{10+\sqrt{99}}}{\sqrt{10-\sqrt{1}}+\sqrt{10-\sqrt{2}}+\cdots+\sqrt{10-\sqrt{99}}}.$$ Qui il denominatore è la somma di $\sqrt{10-\sqrt{n}}$ come $n$ si estende sui numeri interi da $1$ a $99$, e il numeratore è la somma di $\sqrt{10+\sqrt{n}}$ come $n$ si estende sui numeri interi da $1$ a $99$.
+
+[[src_jmo19yq_yosen__Q10]]

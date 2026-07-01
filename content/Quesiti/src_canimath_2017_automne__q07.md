@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2017 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2017_automne__Q07
 parent: src_canimath_2017_automne
 competition: Coupe Animath Automne 2017
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2012 numbers (±1) on a circle, no 10 consecutive sum to 0; find possible values of total sum S*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Numeri *2012 (±1) su un cerchio, non 10 somma consecutiva fino a 0; trovare possibili valori della somma totale S*
+
+> Su un cerchio si scrivono i numeri $2012$. Ciascuno di essi è uguale a $1$ o $-1$. La somma è < MSK3/>. Supponiamo che non esistano $10$ numeri consecutivi sul cerchio la cui somma è $0$. Quali valori < MSK6/> può assumere in questa condizione?
+
+[[src_canimath_2017_automne__Q07]]

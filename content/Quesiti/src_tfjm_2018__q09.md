@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2018__Q09
 parent: src_tfjm_2018
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018
@@ -40,6 +41,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A combinatorial game with n torches each lit or off; players alternately toggle one torch but may never repeat a configuration, and the player who cannot move loses; determine winning strategies under cooperative play, a cap of k lit torches, toggling a fixed number per turn, and asymmetric per-player toggle counts.*
 
@@ -64,3 +67,25 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un gioco combinatorio con n torce ogni accesa o spenta; i giocatori alternatamente togliono una torcia ma non possono mai ripetere una configurazione, e il giocatore che non può muoversi perde; determinare le strategie vincenti nel gioco cooperativo, un limite di k torce accese, togliere un numero fisso per turno, e il numero di togliere asimmetrico per giocatore.*
+
+> Accendiamo il fuoco. Let < MSK0/>. Gabrielle e Marie giocano a un gioco. Hanno davanti loro torce $n$, ognuna delle quali può essere accesa o spenta. Inizialmente, tutte le torce vengono spente. Ogni volta, a partire da Gabrielle, uno dei due giocatori tocca una torcia, cioè cambia lo stato di quella torcia: se la torcia è stata spenta la accende, e viceversa. Per rendere interessante il gioco, Gabrielle e Marie si impongono un vincolo: è proibito ottenere una configurazione già ottenuta in precedenza (vedi Figura 5). Il primo che non può più giocare ha perso.
+> 
+> 1. (Solo in questa domanda, Gabrielle e Marie collaborano, e non si cerca chi vince.) È possibile per Gabrielle e Marie ottenere tutte le configurazioni possibili con le torce $n$ durante una singola partita? Nel caso in cui ciò sia possibile, su quali configurazioni può finire il gioco?
+> 
+> 2. D'ora in poi, i due giocatori giocano l'uno contro l'altro. Chi di loro ha una strategia vincente?
+> 
+> 3. Let < MSK0/>. Per evitare di diventare troppo caldi, i giocatori si vietano di accendere più di $k$ torce contemporaneamente. Rendi la domanda 2 in questo contesto.
+> 
+> 4. I due giocatori devono ora attivare (cambiare lo stato di) torce $a$ esattamente ad ogni turno, per un numero intero fisso $a$, e non possono attivare nessuna delle torce che hanno appena cambiato stato. Redo le domande 2 e 3 in questo contesto. Si può iniziare con il trattamento dei casi < MSK2/> o < MSK3/>.
+> 
+> 5. La stessa domanda, ma Gabrielle deve ora attivare le torce $a$ per turno, e le torce Marie $b$ per turno, per due integri fissi $a$ e $b$.
+> 
+> 6. Proporre e studiare altre direzioni di ricerca.
+
+[[src_tfjm_2018__Q09]]

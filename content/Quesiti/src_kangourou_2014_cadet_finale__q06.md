@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale Cadet — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet_finale__Q06
 parent: src_kangourou_2014_cadet_finale
 competition: Kangourou 2014 finale Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Per quanti n il prodotto (p+1) è divisibile per n*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 336
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AnnZ-qUV6dWWweXJXKQibDtTu2LV1ZDz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*For quantities n the product (p+1) is divisible by n*
+
+> A natural number $n$ is broken down into prime factors in 2014 (not necessarily all of them distinct from each other). Each prime factor is added to 1 and the new 2014 numbers obtained are multiplied by each other, resulting in a number $m$. For how many integers $n$ does it happen that, with these premises, $m$ is divisible by $n$?
+
+**Answer:** 336
+[[src_kangourou_2014_cadet_finale__Q06]]

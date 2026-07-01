@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Finale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q11
 parent: src_kangourou_2013_squadre_f
 competition: Kangourou Coppa Squadre 2013 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti neri visibili sul parallelepipedo 2013*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 742
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Black cubes visible on the parallel piped 2013*
+
+> White cubes and black cubes We have a lot of white and black cubes, all of the same size, and we want to make a parallel piped formed from 2013 cubes so that, in each of the three directions, each parallel to a spike, there's more than one cubes and alternate white cubes and black cubes. If we start by placing a black cube on one of the eight vertices of the parallelepiped, how many of the black cubes will be visible on the outer surface of the parallelepiped?
+
+**Answer:** 742
+[[src_kangourou_2013_squadre_f__Q11]]

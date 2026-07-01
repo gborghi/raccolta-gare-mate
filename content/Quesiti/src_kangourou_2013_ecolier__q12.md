@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q12
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dove arriva Anna seguendo le svolte*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Where Anna arrives following the turns.
+
+> The figure represents the map of the city of Anna. Anna begins to walk in the point and direction indicated by the arrow: at each intersection she does not go straight, but turns right or left. Exactly, at the first intersection you meet turn right, turn second and third to left, turn fourth to right, turn fifth and sixth to left. Where's Anna coming from? A) B) 	           C)              D) E)
+
+**Answer:** A
+[[src_kangourou_2013_ecolier__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2013__Q13
 parent: src_prmo_2013
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2013
@@ -35,6 +36,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum distinct colours in colouring of {1,...,1000} with divisibility constraint*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Coloure distinte massime in colorazione di {1,...,1000} con restrizione di divisibilità*
+
+> Ogni elemento del set $S = \{1, 2, \ldots, 1000\}$ è assegnato un colore. Supponiamo che per qualsiasi due elementi $a$, $b$ di $S$, se $15$ divide $a + b$ allora entrambi ricevono lo stesso colore. Qual è il numero massimo di colori distinti utilizzati?
+
+**Risposta:** 3
+[[src_prmo_2013__Q13]]

@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2008 — Quesito
   17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2008__Q17
 parent: src_bocconi_finalenaz_2008
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2008
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare la colorazione bianco/grigio di un pavimento di 16 quadrati grandi con vincoli di identita ai contatti e ai bordi.*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete the white/gray colouring of a floor of 16 large squares with boundaries of identity on the contacts and edges.*
+
+> The drawing is a floor plan composed of sixteen large squares. Each of the large squares is in turn divided into four white and gray colored squares. The large, oriented squares are all different. Five gray squares have already been inserted into the drawing. The contact squares in two large squares must be identical. In addition, the last line (below) must be identical to the first (top) and the first square column (left) must be identical to the last (right). Finish the pattern coloring.
+
+![[src_bocconi_finalenaz_2008__Q17.png]]
+
+[[src_bocconi_finalenaz_2008__Q17]]

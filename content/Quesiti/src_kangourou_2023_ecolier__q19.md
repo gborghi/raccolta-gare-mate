@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier__Q19
 parent: src_kangourou_2023_ecolier
 competition: Kangourou 2023 Ecolier — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti diversi*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bDY_Y5qtxjaNx_dh5X8llzlndfmVtNwJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many different < MSK1/>
+
+> Elisa, Mario and Nicola always enter the dining room one at a time. Elisa is never the first, Mario is never the second and Nicholas is never the third. How many different orders can they enter? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 6
+
+**Answer:** B
+[[src_kangourou_2023_ecolier__Q19]]

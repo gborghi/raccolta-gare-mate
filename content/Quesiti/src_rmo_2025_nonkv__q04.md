@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2025 — Non-KV — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2025_nonkv__Q04
 parent: src_rmo_2025_nonkv
 competition: Regional Mathematical Olympiad 2025
@@ -34,6 +35,8 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *No positive integer solutions to a Diophantine equation in four variables*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ik3u0dWCcvW1PmcS_C8SRI2gnccFRgZA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Non ci sono soluzioni a numeri interi positivi per un'equazione diofantina in quattro variabili*
+
+> Prova che non esistono numeri reali positivi $x$ e $y$ in modo tale che $$x + y + \frac{1}{x} + \frac{1}{y} = 2025.$$
+
+[[src_rmo_2025_nonkv__Q04]]

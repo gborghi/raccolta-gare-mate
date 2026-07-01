@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Junior Finale 2 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_squadre_f2__Q05
 parent: src_kangourou_2022_junior_squadre_f2
 competition: Kangourou Squadre 2022 Junior Finale 2
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante cifre 1 nella somma di 2023 addendi*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2019
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many digits 1 in the sum of 2023 add *
+
+> 2023 Additional Consider the following sum 8 + 98 + 998 + 9.998 + ... + 9.999. ... .998 where the 2023 additions are obtained by pressing the digit 8 respectively 0, 1, 2, 3, ..., 2022 digits 9. How many digits of 1 appear in the result?
+
+**Answer:** 2019
+[[src_kangourou_2022_junior_squadre_f2__Q05]]

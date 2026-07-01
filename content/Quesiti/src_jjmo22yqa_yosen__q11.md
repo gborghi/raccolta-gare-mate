@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo22yqa_yosen__Q11
 parent: src_jjmo22yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count achievable sign-sequence tuples (s1,...,s100) from permutations of 1..100*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** $\dfrac{3^{100} - 197}{4}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MpOoffmNfAlSJnrNvYxGLF27kPgwbEmW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i tuppi di sequenza di segno raggiungibili (s1,...,s100) da permutazioni di 1..100*
+
+> $a_1, a_2, \ldots, a_{100}$ sia una permutazione di $1, 2, \ldots, 100$. Per ogni numero intero $n$ con $1 \le n \le 100$, definire il numero intero $s_n$ da $$s_n = \begin{cases} 1 & (a_n > n), \\ 0 & (a_n = n), \\ -1 & (a_n < n). \end{cases}$$ Trovare il numero di tupli distinti $(s_1, s_2, \ldots, s_{100})$ che possono derivare da qualche permutazione di $1, 2, \ldots, 100$.
+> 
+> (Una permutazione di $1, 2, \ldots, 100$ è una sequenza di lunghezza $100$ in cui ciascuno dei numeri interi $1$ attraverso $100$ appare esattamente una volta.)
+
+**Risposta:** \dfrac{3^{100} - 197}{4}
+[[src_jjmo22yqa_yosen__Q11]]

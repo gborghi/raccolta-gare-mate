@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q02
 parent: src_kangourou_2016_marzo_benjamin
 competition: Kangourou 2016 gara 17 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *lunghezze dei tre pezzi*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nld6l3RD6emhTglIXueL7F2OJGTBOKRG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*lengths of the three pieces*
+
+![[src_kangourou_2016_marzo_benjamin__prob2.png]]
+
+> A 10 cm long thread is folded into equal parts as shown in the figure. If the wire is cut where indicated by the lines drawn, how many centimeters are the resulting three pieces of wire? A) 2, 3, 5 B) 2, 2, 6 C) 1, 4, 5 D) 1, 3, 6 E) 3, 3, 4
+
+**Answer:** A
+[[src_kangourou_2016_marzo_benjamin__Q02]]

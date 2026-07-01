@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q13
 parent: src_archimede_2025_squadre_finale
 competition: Gara a Squadre Nazionale 2025 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime quattro cifre di 1^7+2^7+...+2025^7*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5625
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The last four digits of 1^7+2^7+...+2025^7*
+
+> Good morning officer, you're finally here! We have a special assignment for you today. Il Dr. DoofenSchwartz has built the last machine! Fortunately, the device can be disabled by entering the last four digits of 17 +27 +...+20257 as code. This is the total amount of the contribution from the Union to the programme. What code will the agent π have to enter to disable the device?
+
+**Answer:** 5625
+[[src_archimede_2025_squadre_finale__Q13]]

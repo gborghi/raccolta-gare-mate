@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Finale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_f__Q02
 parent: src_kangourou_2014_squadre_f
 competition: Kangourou Coppa Squadre 2014 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre tasti bianchi per ottenere 2014 con 6 tasti*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 19
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of white key figures to get 2014 with 6 keys*
+
+> The calculator Elena has a calculator with 15 keys: 10 are white and each returns one of the 10 digits (all the digits appear there), 5 are black and each returns one of the 5 symbols plus, minus, for, divided, equal (all these symbols appear there). To obtain the result of the product 2 by 3 by 15, press the seven keys (not necessarily different) 2, ×, 3, ×, 1, 5, =, after which the number 90 appears on the screen. As a result of another product, after pressing six keys Elena got the number 2014. What's the sum of the numbers on the white keys hit by Elena this time?
+
+**Answer:** 19
+[[src_kangourou_2014_squadre_f__Q02]]

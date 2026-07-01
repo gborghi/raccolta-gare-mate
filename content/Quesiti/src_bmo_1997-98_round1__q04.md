@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1997-98 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1997-98_round1__Q04
 parent: src_bmo_1997-98_round1
 competition: British Mathematical Olympiad 1997-98 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show unique positive-integer sequence satisfies given recurrence*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UZ524YDE6UQUHs3-dWJ9PRw0y50Efe-X/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Mostra una sequenza unica di numeri interi positivi che soddisfa una data ricorrenza< MSK1/>
+
+> Indicare che esiste una sequenza unica di integri positivi $(a_n)$ che soddisfa le seguenti condizioni: $$a_1 = 1, \quad a_2 = 2, \quad a_4 = 12,$$ $$a_{n+1}a_{n-1} = a_n^2 \pm 1 \quad \text{for} \quad n = 2, 3, 4, \ldots.$$
+
+[[src_bmo_1997-98_round1__Q04]]

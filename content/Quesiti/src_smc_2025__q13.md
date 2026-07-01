@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q13
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five congruent squares of side 2a placed edge to edge; two circles with same centre drawn through vertices; find area between the circles.*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro quadrati congruenti del lato 2a posizionati da borda a borda; due cerchi con lo stesso centro tracciati attraverso vertici; trovare l'area tra i cerchi.*
+
+> Cinque quadrati congruenti, ciascuno di lato $2a$, sono posizionati borda a borda. Due cerchi con lo stesso centro sono tracciati attraverso i vertici come mostrato. Qual è l'area della regione tra i due cerchi?
+>
+> - **(A)** $2\pi a^2$
+> - **(B)** $4\pi a^2$
+> - **(C)** $6\pi a^2$
+> - **(D)** $8\pi a^2$
+> - **(E)** $10\pi a^2$
+
+![[src_smc_2025__Q13.png]]
+
+**Risposta:** D
+[[src_smc_2025__Q13]]

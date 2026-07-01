@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Finale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q10
 parent: src_kangourou_2019_squadre_finale
 competition: Kangourou Coppa squadre 2019 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quarte potenze con 1 o 6 come cifra unita*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0800
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quite power with 1 or 6 as a unit *
+
+> How many of the first thousand perfect fourth powers of positive integers have 1 or 6 as a unit number?
+
+**Answer:** 0800
+[[src_kangourou_2019_squadre_finale__Q10]]

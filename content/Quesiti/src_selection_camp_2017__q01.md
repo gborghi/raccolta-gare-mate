@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2017 — Selection Camp — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2017__Q01
 parent: src_selection_camp_2017
 competition: Japan IMO Selection Camp 2017 — Selection Camp
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Binary strings game: find minimum whiteboard count for B to win*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco con stringhe binarie: trovare il numero minimo di whiteboard per vincere B*
+
+> Lasciate che $n$ e $k$ siano integri positivi con $n > k$. I giocatori A e B giocano il seguente gioco. Trova il più piccolo intero positivo $m$ in modo che B possa sempre vincere. (B viene informato dei valori di $n$ e $k$ all'inizio della partita.)
+> 
+> - A sceglie una stringa binaria $n$ a cifre $X$, e scrive sulla lavagna tutte le stringhe binarie che possono essere ottenute da $X$ volando esattamente $k$ cifre. - B vede le stringhe sulla lavagna, poi scrive i numeri $m$ sulla lavagna. - B vince se $X$ è tra i numeri scritti sulla lavagna.
+> 
+> Qui una stringa binaria $n$-cifre è una sequenza di simboli $n$ ognuno uguale a $0$ o $1$. Ad esempio, le stringhe binarie $3$ a cifre sono $000, 001, 010, 011, 100, 101, 110, 111$, dando stringhe $8$ in totale.
+
+[[src_selection_camp_2017__Q01]]

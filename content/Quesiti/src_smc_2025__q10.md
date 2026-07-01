@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q10
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count how many different perfect squares are factors of 2025.*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare quanti diversi quadrati perfetti sono fattori del 2025. *
+
+> Quanti quadrati diversi sono fattori del 2025?
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6
+
+**Risposta:** E
+[[src_smc_2025__Q10]]

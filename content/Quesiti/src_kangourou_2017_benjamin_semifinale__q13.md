@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q13
 parent: src_kangourou_2017_benjamin_semifinale
 competition: Kangourou 2017 Benjamin (semifinale individuale)
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *ritorno piu lento di un quinto*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uSb-8ZS0ZxgQE-rDkGuF4RrLMjBY_qKl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> slower than a fifth < MSK1/>
+
+> Stephania leaves home on foot to visit a friend in a nearby town, stops by her for an hour and returns home. For fatigue, on return every hour of walking it covers a distance less than one fifth of that covered in an hour of walking. In this way, returning home generally takes an hour longer than usual. How many hours have you been away from home?
+
+[[src_kangourou_2017_benjamin_semifinale__Q13]]

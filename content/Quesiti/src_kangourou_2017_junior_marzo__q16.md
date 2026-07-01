@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q16
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Il maggiore di tre interi consecutivi con somma quadrati 770*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The largest of three consecutive integers with sum of squares 770*
+
+> The sum of the squares of three consecutive positive integers is 770. Which is the largest of the three integers? A) 15
+> 	
+> B) 16
+> 	
+> C) 17
+> 	
+> D) 18
+> 	
+> E) 19
+
+**Answer:** C
+[[src_kangourou_2017_junior_marzo__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2010-11 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2010-11_round2__Q02
 parent: src_bmo_2010-11_round2
 competition: British Mathematical Olympiad 2010-11 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers n < 2011 with f(n) = f(2011)*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14seLXr6DJIlaqxnLOHlZ_AKgh-xYbFYR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi positivi n < 2011 con f(n) = f(2011)*
+
+> La funzione $f$ è definita sui numeri interi positivi come segue: $$f(2n) = n \quad \text{if } n \text{ is even,}$$ $$f(2n) = 2n \quad \text{if } n \text{ is odd,}$$ $$f(2n+1) = f(n) \quad \text{if } n \text{ is even,}$$ $$f(2n+1) = f(n)+1 \quad \text{if } n \text{ is odd.}$$ Trova il numero di numeri interi positivi $n$ che sono inferiori al 2011 e hanno la proprietà di $f(n) = f(2011)$.
+
+[[src_bmo_2010-11_round2__Q02]]

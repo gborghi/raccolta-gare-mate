@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2023 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2023_automne__Q13
 parent: src_canimath_2023_automne
 competition: Coupe Animath Automne 2023
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular sets are arithmetic progressions; super-regular if both the set and its reciprocals are regular; largest n with a super-regular set of n distinct nonzero reals (lycee)*
 
@@ -53,3 +56,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Setti regolari sono progressioni aritmetiche; superregolari se sia l'insieme che le sue reciprocità sono regolari; più grande n con un insieme superregolare di n reali non-zero distinte (lycee) *
+
+> Un insieme di $n$ numeri reali non zeri e separati in coppia viene chiamato \emph{regular} se, quando si scrivono questi numeri sulla lavagna in ordine crescente, la differenza tra due numeri vicini è sempre la stessa, a seconda di quale dei due numeri vicini viene scelto. Ad esempio, l'insieme $\{4, 18, -3, 11\}$ è regolare perché i suoi elementi sono scritti $-3, 4, 11$ e $18$ in ordine crescente, e infatti $4 - (-3) = 11 - 4 = 18 - 11$.
+> 
+> Un insieme $A$ di numeri reali non zeri e pari distinti si chiama \emph{super-regolare} se è regolare e se l'insieme formato dagli inversi dei numeri del insieme $A$ è anche regolare.
+> 
+> Qual è il più grande numero intero $n$ tale che esista un insieme superregolare di $n$ non zero e numeri reali distinti in coppia?
+
+[[src_canimath_2023_automne__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet gara individuale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q05
 parent: src_kangourou_2022_cadet_gara
 competition: Kangourou 2022 Cadet gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Possibili dimensioni di ciascun mattone del cubo*
 
@@ -53,3 +56,17 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible dimensions of each brick of the cube*
+
+![[src_kangourou_2022_cadet_gara__prob5.png]]
+
+> Roberto has all the same bricks. With a certain number of such bricks he built the solid in figure, which is a cube. Of the following, what might each brick be in centimetres? (A) 4 × 6 × 12 B) 4 × 6 × 16 C) 4 × 8 × 12 D) 4 × 8 × 16 E) 4 × 12 × 16 04 NSN 40 9 0 HOH 09 80 BNB 08 03 HNH 30 08 XBX 80
+>
+
+**Answer:** C
+[[src_kangourou_2022_cadet_gara__Q05]]

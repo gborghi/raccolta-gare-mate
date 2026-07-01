@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_b__Q13
 parent: src_cesenatico_2011_semifinale_b
 competition: Gara a Squadre Cesenatico 2011 - Semifinale B
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quarto numero (decrescente)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9072
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*fourth number (decreasing) *
+
+> A rapture with multiple consequences Shortly before being kidnapped by the goats, Parabolix had stored potions received from the other druids in a locked box, the combination of which is a number between 0000 and 9999. Euleric, the most cunning of the Raptor Goths, discovered that this number can be obtained as follows: They are written on a line 4 integers greater than 1, different from each other. In the next row, the 3 products of the previous number pairs are written (the first with the second, the second with the third and the third with the fourth). In the next line, repeat the procedure, writing two products. Multiplying these two, you get the result. If you write in order from major to minor all the numbers of this kind, the fourth is the right combination.
+
+**Answer:** 9072
+[[src_cesenatico_2011_semifinale_b__Q13]]

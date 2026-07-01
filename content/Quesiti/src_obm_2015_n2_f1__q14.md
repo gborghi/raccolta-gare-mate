@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q14
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum number of square tiles covering a 7-meter wall without overlap*
 
@@ -52,3 +55,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nombre massimo di piastrelle quadrate che coprono una parete di 7 metri senza sovrapposizione*
+
+> L'artista Juliana vuole coprire un muro largo 7 metri, con piastrelle rettangolari, senza superposizione delle piastrelle. Nessuna delle piastrelle ha una misura frazionaria (tutte sono numeri interi di metri). La figura mostra un modello di disposizione con piastrelle quadrate. Supponiamo che Renata voglia rivestire il più possibile di piastrelle. Quante piastrelle si adattano al muro?
+> 
+> (A) 10 (B) 14 (C) 18 (D) 20 (E) 24
+
+![[src_obm_2015_n2_f1__Q14.png]]
+
+[[src_obm_2015_n2_f1__Q14]]

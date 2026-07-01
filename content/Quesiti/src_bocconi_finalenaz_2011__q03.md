@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2011 — Quesito
   3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2011__Q03
 parent: src_bocconi_finalenaz_2011
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2011
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Addizione con otto gettoni cifre 0,1,1,2,6,9,6 uguale a 2011*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1012+999 oppure 1092+919 oppure 1099+912 (ciascuna è una sola delle quattro soluzioni)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Addition with eight digit tokens 0,1,1,2,6,9,6 equal to 2011*
+
+> Using the eight tokens in the figure, write an addition that is equal to 2011. Elaboration: however, a token with the 6, by rotating it, can become a token with the 9 and vice versa. You have to use all the tokens and no number can start with 0.
+
+![[src_bocconi_finalenaz_2011__Q03.png]]
+
+**Answer:** 1012+999 oppure 1092+919 oppure 1099+912 (ciascuna è una sola delle quattro soluzioni)
+[[src_bocconi_finalenaz_2011__Q03]]

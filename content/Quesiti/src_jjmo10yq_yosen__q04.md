@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo10yq_yosen__Q04
 parent: src_jjmo10yq_yosen
 competition: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Point E on side DA of quadrilateral; find length EC*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{24}{5}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto E sul lato DA del quadrilaterale; troverà lunghezza EC*
+
+> Il quadrilaterale $ABCD$ ha un punto $E$ sul lato $DA$, con la linea $AB$ parallela alla linea $EC$. Se $AB = 3$, $BC = 3$, $CD = 5$, $DE = 3$, $EA = 2$, si trova $EC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+![[src_jjmo10yq_yosen__Q04.png]]
+
+**Risposta:** \frac{24}{5}
+[[src_jjmo10yq_yosen__Q04]]

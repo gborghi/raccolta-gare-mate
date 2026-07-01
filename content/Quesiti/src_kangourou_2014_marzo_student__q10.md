@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q10
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anni con ultima cifra > somma prime tre, tutte diverse*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Year with last digit > sum of first three, all different < MSK1/>
+
+> The 2014 number is made up of numbers all different from each other, and the last one is larger than the sum of the first three. How many years have passed since last year with this property? A) 5
+> 	
+> B) 215 C) 395 D) 485 E) A number different from the previous one. Questions from n. 11 al n. 20 is worth 4 points each.
+
+**Answer:** E
+[[src_kangourou_2014_marzo_student__Q10]]

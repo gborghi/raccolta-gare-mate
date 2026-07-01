@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1994 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1994_r1__Q05
 parent: src_pol_1994_r1
 competition: Olimpiade Matematica Polacca 1994 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *If a cubic has three distinct real roots, a related cubic does too*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Se un cubo ha tre radici reali distinte, un cubo correlato lo fa anche*
+
+> Dimostra che se il polinomio $x^3 + ax^2 + bx + c$ ha tre radici reali distinte, allora lo fa anche il polinomio $$x^3 + ax^2 + \frac{1}{4}(a^2 + b)x + \frac{1}{8}(ab - c).$$
+
+[[src_pol_1994_r1__Q05]]

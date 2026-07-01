@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q25
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre di ABCDE2 con 2ABCDE x3 = ABCDE2*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>sum of ABCDE2 figures with 2ABCDE x3 = ABCDE2< MSK1/>
+
+> If we multiply by 3 the six-digit number 2ABCDE we get the six-digit number ABCDE2. What is the sum of the numbers in this number? A) 24
+> 	
+> B) 27
+> 	
+> C) 30
+> 	
+> D) 33
+> 	
+> E) 36
+
+**Answer:** B
+[[src_kangourou_2021_cadet__Q25]]

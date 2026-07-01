@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q17
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di topi visti da Leone*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of mice seen by Leo*
+
+> A form of cut-up cheese was left unattended and the rats stole pieces all day. Lion, a lazy cat, noted that each mouse stole less than 10 pieces of cheese, that each mouse stole a different number of pieces from the others, that no mouse stole exactly twice the pieces of another mouse. What is the maximum number of different mice that Leo could have seen? A) 4 B) 5 C) 6 D) 7 E) 8
+
+**Answer:** C
+[[src_kangourou_2012_cadet__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q05
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione non dipinta in quadrato lato s*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Region area not squared side s*
+
+![[src_kangourou_2004_student__prob5.png]]
+
+> s is an odd positive integer. In a s-side square the squares on side 1 centered on the diagonals were painted in black (see the example in figure, where s = 7). What is the area of the unpainted region? A)s2 + 1 − 2s B)s2 + 4 − 4s C) 2s2 + 1− 4s D) s2 −1 −2s E) s2 − 2s
+
+**Answer:** A
+[[src_kangourou_2004_student__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2020 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_printemps__Q12
 parent: src_canimath_2020_printemps
 competition: Coupe Animath Printemps 2020
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *With min x_i >= max y_i, prove P <= G <= 2P for P=max(x_i-y_i), G=max x_i - min y_i*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Con min x_i >= max y_i, provare P <= G <= 2P per P=max(x_i-y_i), G=max x_i - min y_i*
+
+> $x_1, \ldots, x_n$ e $y_1, \ldots, y_n$ siano due elenchi di reali tali da $\min_{1 \le i \le n} x_i \ge \max_{1 \le i \le n} y_i$. Set $P = \max_{1 \le i \le n}(x_i - y_i)$ e $G = \max_{1 \le i \le n} x_i - \min_{1 \le i \le n} y_i$. Mostra che $P \le G \le 2P$.
+> 
+> *Dati i numeri reali $a_1, a_2, \ldots, a_n$, il numero $\min_{1 \le i \le n} a_i$ indica il numero reale più piccolo tra i numeri $a_1, a_2, \ldots, a_n$. Il numero $\max_{1 \le i \le n} a_i$ indica il più grande reale tra i numeri $a_1, a_2, \ldots, a_n$.*
+
+[[src_canimath_2020_printemps__Q12]]

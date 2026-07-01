@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Mumbai — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_mumbai__Q05
 parent: src_rmo_2015_mumbai
 competition: Regional Mathematical Olympiad 2015
@@ -34,6 +35,8 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right-angled triangle, incentres of sub-triangles and circumcircle: prove collinearity*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aKO7__cJlTFnDSJpRW04wWyB2aJzzbY3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo rettangolo, incentri di subtriangoli e circoncircolo: dimostrare collinearità*
+
+> Che $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$ e che $BD$ sia l'altitudine da $B$ a $AC$. Disegnare $DE \perp AB$ e $DF \perp BC$. I segmenti $P$, $Q$, $R$ e $S$ siano rispettivamente gli incentri dei triangoli $DFC$, $DBF$, $DEB$ e $DAE$. Prove che $P$, $Q$, $R$, $D$ si trovano su un cerchio.
+
+[[src_rmo_2015_mumbai__Q05]]

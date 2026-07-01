@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2013 — Quesito
   14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2013__Q14
 parent: src_bocconi_finalenaz_2013
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2013
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di lanci di moneta con testa o croce*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of coin tosses with head or cross*
+
+> Gian Italo enjoys tossing a 1 Euro coin in succession and taking note of whether it comes out "head" (T) or "cross" (C). In the series of "C" and "T" he writes, the results of four consecutive throws are all different from each other and in the end the number of "heads" is three times that of the "cross".
+> 
+> How many coin tosses did Gian Italo make?
+
+**Answer:** 12
+[[src_bocconi_finalenaz_2013__Q14]]

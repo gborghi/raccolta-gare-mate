@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior finale individuale — Quesito J3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_finale__QJ3
 parent: src_kangourou_2022_junior_finale
 competition: Kangourou 2022 Junior finale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di tessere 2x1 nella regione di 36 quadratini*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 15
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nc-josfBQrvIVQaZGTW6I82lQMtWKEjA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of 2x1 tiles in the 36-square region*
+
+![[src_kangourou_2022_junior_finale__probJ3.png]]
+
+> In the figure you can see a region of the plane obtained by joining $36$ squares all equal to each other, and a card obtained by joining two squares identical to those of the region (the $2 \times 1$ table). How many tiles of this type can you have at most in the region so that each one covers exactly two squares of the region and does not overlap (even partially)? You can use the figure to indicate how to arrange the cards, but remember that you also have to justify why you can't place a larger number. (see figure)
+
+**Answer:** 15
+[[src_kangourou_2022_junior_finale__QJ3]]

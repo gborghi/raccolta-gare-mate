@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q20
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cerchio tangente a 5 cerchi su pentagono, raggio*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 6180
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tangent circle at 5 circles on a pentagon, radius*
+
+> The legendary five-leafed quadruped found by Frege had the shape of this flat figure. On a circumference Γ of center O and radius 1, we take five points A,B,C,D,E that divide it into five equal and disjoint arcs. Consider the five radii of radius 1, distinct from Γ, and passing respectively through A and B, through B and C, through C and D, through D and E, through E and A. A smaller circumference of center O is tangent to these five circumferences. How much is your radius worth? It is answered by indicating the first four digits after the comma.
+
+**Answer:** 6180
+[[src_squadre_2018_finale__Q20]]

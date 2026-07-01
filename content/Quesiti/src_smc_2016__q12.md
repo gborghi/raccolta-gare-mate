@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2016 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2016__Q12
 parent: src_smc_2016
 competition: Senior Mathematical Challenge 2016
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *What is the smallest perfect square that has 2016 as a factor?*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Qual è il più piccolo quadrato perfetto che ha 2016 come fattore?
+
+> Qual è il più piccolo quadrato che ha 2016 come fattore?
+>
+> - **(A)** $42^2$
+> - **(B)** $84^2$
+> - **(C)** $168^2$
+> - **(D)** $336^2$
+> - **(E)** $2016^2$
+
+**Risposta:** C
+[[src_smc_2016__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q11
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti N con quadrato e cubo con stesso numero cifre*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quantities of N with square and cube with same number of digits*
+
+> How many positive integers N have the following property: "the number of digits of the decimal representation of the square of N is equal to the number of digits of the decimal representation of the cube of N"? A) 2 B) 3 C) 4 D) 9 E) Infinite
+
+**Answer:** B
+[[src_kangourou_2009_cadet_marzo__Q11]]

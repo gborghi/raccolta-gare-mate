@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q14
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Difference between sum of all odd and all even two-digit numbers*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Differenza tra la somma di tutti i numeri odd e tutti i numeri pari a due cifre*
+
+> La somma di tutti i numeri a due cifre dispari meno la somma di tutti i numeri a due cifre pari:
+>
+> - **(A)** $50$
+> - **(B)** $46$
+> - **(C)** $45$
+> - **(D)** $49$
+> - **(E)** $48$
+
+**Risposta:** C
+[[src_obm_1998_n1_f1__Q14]]

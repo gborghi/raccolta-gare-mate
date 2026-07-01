@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q05
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore della frazione con termini in progressione*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of the fraction with terms in progression*
+
+> A) 2
+> 	
+> B) 9/4
+> 	
+> C) 9
+> 	
+> D) 2018 E) 1009
+
+**Answer:** B
+[[src_kangourou_2018_student_marzo__Q05]]

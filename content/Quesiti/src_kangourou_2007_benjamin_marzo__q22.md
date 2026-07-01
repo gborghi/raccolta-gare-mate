@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q22
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizione scatolone per max apertura porta*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Box position for maximum opening of the door< MSK1/>
+
+![[src_kangourou_2007_benjamin_marzo__prob22.png]]
+
+> On the long side of a room whose short side measures 10 dm, a door of 10 dm width opens. In the corner adjacent to the one where the door is inserted, a box with a length of 4, 5 and 6 dm is to be placed. Four of the possible positions are outlined in the figure. In which of them must the box be placed so that the door can be opened as much as possible? (a) (b) (c) (d) (e) (c) and (d) are both optimal positions
+
+**Answer:** C
+[[src_kangourou_2007_benjamin_marzo__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Ecolier — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q02
 parent: src_kangourou_2018_ecolier_semif
 competition: Kangourou 2018 Semifinale Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta di Roberta oggi data condizione su somma futura*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12RJbo4WQyFx3m4vMHKRiOwlOuiEa6SZd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Eta de Roberta today given condition on future sum*
+
+> In one year's time the sum of the ages of Ambrogio, Chiara and Roberta will be 8 years higher than the sum of the ages of Ambrogio and Chiara today. How old is Roberta today? A) 5
+> 	
+> B) 6
+> 	
+> C) 7
+> 	
+> D) 8
+> 	
+> E) 11
+
+**Answer:** A
+[[src_kangourou_2018_ecolier_semif__Q02]]

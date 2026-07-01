@@ -1,6 +1,7 @@
 ---
 title: IMO 2016 papers — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2016__Q03
 parent: src_imo_2016
 competition: IMO 2016 papers
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *2S divisibile per n in poligono ciclico intero*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DJN1I1nyXv23EBAYsmuEqh4UN-f1qoI1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*2S divisible by n in whole cyclic polygon*
+
+> Whether $P = A_1 A_2 \ldots A_k$ is a polygon convex in the plane. The vertices $A_1, A_2, \ldots, A_k$ have full coordinates and lie on a circle. Whether $S$ the area of $P$. A odd positive integer $n$ is given such that the squares of the side lengths of $P$ are integers divisible by $n$. Show that $2S$ is an integer divisible by $n$.
+
+[[src_imo_2016__Q03]]

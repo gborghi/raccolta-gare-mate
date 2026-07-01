@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q20
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma punti facce interne di quattro dadi*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of internal facial points of four dice*
+
+![[src_kangourou_2008_student_marzo__prob20.png]]
+
+> Four identical dice are drawn as shown in the figure. The faces of each dice are numbered from 1 to 6, but the dice are not standard, meaning the sum of the points of two opposite faces is not necessarily 7. What is the sum of the points of the six faces each of which comes into contact with some other face? A) 19 B) 20 C) 21 D) 22 E) 23 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** B
+[[src_kangourou_2008_student_marzo__Q20]]

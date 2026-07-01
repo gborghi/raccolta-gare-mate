@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Junior (gara marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_junior__Q06
 parent: src_kangourou_2011_junior
 competition: Kangourou 2011 Junior (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area di ogni piastrella nel mosaico 360*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AJCl_AfEoFXnuVsI8nXmEWfRHRXKCZ3O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of each tile in the mosaic 360*
+
+> A rectangular mosaic of 360 cm2 area is obtained by attaching square tiles, all of the same size. One side of the mosaic measures 24 cm, the other 5 times the side of the tiles. How much is the area of each tile in square centimetres? A) 1 B) 4 C) 9 D) 16 E) 25
+
+**Answer:** C
+[[src_kangourou_2011_junior__Q06]]

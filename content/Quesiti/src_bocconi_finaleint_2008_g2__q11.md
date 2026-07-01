@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 2) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g2__Q11
 parent: src_bocconi_finaleint_2008_g2
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di vertici colorati senza due sulla stessa retta in una rete triangolare.*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of coloured vertices without two on the same line in a triangular network.*
+
+> Color as many vertices as possible of this triangular network, so that there are never two colored vertices on the same traced line.
+
+![[src_bocconi_finaleint_2008_g2__Q11.png]]
+
+[[src_bocconi_finaleint_2008_g2__Q11]]

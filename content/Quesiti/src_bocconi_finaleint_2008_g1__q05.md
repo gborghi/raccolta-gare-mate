@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q05
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Display a sette segmenti: minimo numero di segmenti da spegnere per rendere vera un'uguaglianza.*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2 segmenti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Seven-segment display: minimum number of segments to be switched off to make an equality true.*
+
+> In a digital display, each digit is represented by two to seven bright segments (see drawing here). How many light segments must be switched off, at a minimum, to make the equation on the right < MSK0/> true?
+
+**Answer:** 2 segmenti
+[[src_bocconi_finaleint_2008_g1__Q05]]

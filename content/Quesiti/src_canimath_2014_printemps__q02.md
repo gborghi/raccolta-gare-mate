@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2014 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2014_printemps__Q02
 parent: src_canimath_2014_printemps
 competition: Coupe Animath Printemps 2014
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Digit pairs (a,b) making four-digit number ab32 divisible by 99*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(a,b)=(3,6)$ and $(a,b)=(6,9)$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXbOAjNKTjFFzbKdpAWQivUPB4zcjEuT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*coppie di numeri (a,b) che rendono divisabile il numero a quattro cifre ab32 per 99*
+
+> Trovare tutte le coppie di cifre $(a, b)$ in modo tale che il numero intero di cui quattro cifre sono $ab32$ (cioè il numero $1000a + 100b + 32$) sia divisibile da $99$.
+
+**Risposta:** $(a,b)=(3,6)$ and $(a,b)=(6,9)$
+[[src_canimath_2014_printemps__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2009-10 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2009-10_round1__Q04
 parent: src_bmo_2009-10_round1
 competition: British Mathematical Olympiad 2009-10 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two internally tangent circles; common tangent and secant; prove BD is diameter*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi interamente tangenti; tangente comune e secante; dimostrare che BD è diametro *
+
+> Due cerchi di radii diversi si toccano internamente a < MSK0/>. Un tangente comune, non attraverso $A$, tocca il cerchio interno a $C$ e passa attraverso un punto $B$ sul cerchio esterno. La linea $CA$ è prodotta per incontrare il cerchio esterno a $D$. Provare che $BD$ è un diametro del cerchio esterno.
+
+[[src_bmo_2009-10_round1__Q04]]

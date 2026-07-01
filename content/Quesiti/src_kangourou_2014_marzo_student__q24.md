@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q24
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *lato*
 
@@ -73,3 +76,23 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The manufacturer shall provide the manufacturer with the following information:
+
+![[src_kangourou_2014_marzo_student__prob24.png]]
+
+> As you can see in the figure, a square is embedded exactly between a straight (horizontal) and two equal circles tangent to the straight and tangent to each other. If the radius of the circles is 1, what's the side of the square? A)
+> 	
+> B)
+> 	
+> C) D)
+> 	
+> E) A D C B r P Q R S T 2---- 5 1---- 4 1---- 5 1---- 2 1 ----- √2
+>
+
+**Answer:** A
+[[src_kangourou_2014_marzo_student__Q24]]

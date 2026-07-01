@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f2__Q05
 parent: src_obm_2011_n2_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equilateral triangle ABC with point D; given angles, find angle BAD*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rTFVytZ0r4ui2fCSYnm5ciGL2P0QyY5F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo equilaterale ABC con punto D; angoli dati, trovare angolo BAD*
+
+> Nella figura seguente, il triangolo $ABC$ è equilaterale, l'angolo $\widehat{BDC} = 30^\circ$ e l'angolo $\widehat{ACD} = 70^\circ$. Determinare, in gradi, la misura dell'angolo $\widehat{BAD}$.
+
+![[src_obm_2011_n2_f2__Q05.png]]
+
+[[src_obm_2011_n2_f2__Q05]]

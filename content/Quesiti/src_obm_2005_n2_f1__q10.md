@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q10
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Folded cardboard net forms a rectangular box; find its volume*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Rete pieghevole di cartone costituisce una scatola rettangolare; trova il suo volume< MSK1/>
+
+> Il disegno di fianco mostra un pezzo di cartone che verrà piegato e incollato lungo i bordi per formare una scatola rettangolare. Gli angoli degli angoli della cartone sono tutti angoli retti. Qual è il volume della scatola, in < MSK0/>? A) $1\,500$ \quad B) $3\,000$ \quad C) $4\,500$ \quad D) $6\,000$ \quad E) $12\,000$
+
+![[src_obm_2005_n2_f1__Q10.png]]
+
+**Risposta:** C
+[[src_obm_2005_n2_f1__Q10]]

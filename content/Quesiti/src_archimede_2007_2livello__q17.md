@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_2livello__Q17
 parent: src_archimede_2007_2livello
 competition: Archimede Gara 2° livello 2007 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie di numeri triangolari con differenza 2007*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pairs of triangular numbers with difference 2007*
+
+> A positive integer is said to be triangular if it can be written in the form n(n + 1) 2 for some positive integer n. How many pairs (a, b) of triangular numbers such that b −a = 2007? (Remember that 223 is a prime number.)
+
+**Answer:** 6
+[[src_archimede_2007_2livello__Q17]]

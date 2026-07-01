@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q15
 parent: src_kangourou_2014_squadre_a
 competition: Kangourou Coppa Squadre 2014 Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di quattro interi consecutivi con prodotto 358800*
 
@@ -46,3 +49,21 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 98
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of four consecutive integers with product 358800*
+
+> Product and sum The product of four consecutive integers is 358,800. What's their sum?
+> 
+>  
+>  
+> Kangourou of Mathematics 2014 Kangourou Team Cup Semifinal round at Cervia, 10 May 2014
+>  
+>  
+> Questions and solutions
+
+**Answer:** 98
+[[src_kangourou_2014_squadre_a__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q20
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma 2^a 3^b con a+b in 0..9 (ultime 4 cifre)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6526
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum 2^a 3^b with a+b in 0.9. (last 4 digits) *
+
+> Root gets bored with croquet in the long run: the balls/thorns move of their own free will and the ferns/sticks don't cooperate. So he seizes the opportunity to chat with False Quadrature and Grif1. Without a doubt, the favorite dance of his interlocutors is the cockroach quadrangle. In fact, they tell Rootze that every Saturday the sea and the beach are teeming with dancing fish and crustaceans. Last Saturday, for example, to count the dancers, all positive integers expressed as product of powers of 2 and 3 could be added together, provided that the sum of the exponents is between 0 and 9, extremes included. How many people were in the quadrangle on Saturday? Answer by indicating the last four digits of the result.
+
+**Answer:** 6526
+[[src_cesenatico_2013_finale__Q20]]

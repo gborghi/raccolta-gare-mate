@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Triennio — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_triennio__Q22
 parent: src_archimede_2011_triennio
 competition: Giochi di Archimede 2011 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto b/a da piegatura del quadrato*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Square folding ratio b/a *
+
+> The square ABCD is drawn on a sheet. The sheet is folded (along a straight line) so that B coincides with the mean point of DC. The side BC is divided by the bend into two segments of lengths a and b, with a ≤b. How much is a b/a?
+>
+> - **(A)** 2,
+> - **(B)** 1,
+> - **(C)** 5/3,
+> - **(D)** 25/9,
+> - **(E)** √ 5/2.
+
+**Answer:** C
+[[src_archimede_2011_triennio__Q22]]

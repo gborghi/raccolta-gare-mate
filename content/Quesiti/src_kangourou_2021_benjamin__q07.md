@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q07
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Figura che puo uscire dall'apertura G con traslazioni*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Figure that can exit the G opening with translations*
+
+![[src_kangourou_2021_benjamin__prob7.png]]
+
+> Suppose that you can move (even several times) a drawn figure on a square sheet but only in the directions indicated by the 4 arrows. Which of the five figures in the drawing can, in the absence of the others, exit the rectangle through the G opening? A) A B) B
+> 	
+> C) C D) D E) E
+
+**Answer:** B
+[[src_kangourou_2021_benjamin__Q07]]

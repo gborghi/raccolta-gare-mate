@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Biennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_biennio__Q07
 parent: src_archimede_2008_biennio
 competition: Giochi di Archimede 2008 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione percorsa dalla mamma all'incontro con Pietro*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Fraction traveled by the mother to meet Pietro
+
+> Peter's house and school are at both ends of a straight road. Peter's mother leaves the house and heads for school at the same time as Peter leaves the school and heads home. Peter's mother walks at twice the speed of Peter. How much of the way home from school will Peter's mother have gone by the time she meets him?
+>
+> - **(A)** 1/3,
+> - **(B)** 2/5,
+> - **(C)** 1/2,
+> - **(D)** 2/3,
+> - **(E)** 3/4.
+
+**Answer:** D
+[[src_archimede_2008_biennio__Q07]]

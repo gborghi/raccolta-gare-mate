@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q11
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *(b-c) con proporzioni*
 
@@ -38,3 +41,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*(b-c) with proportions *
+
+> a, b, c are three numbers such that a: b = 9: 4 and b: c = 5: 3. It follows that (a−b): (b−c) is equal to
+>  
+> A. 7 : 12       B. 25 : 8       C. 4 : 1      D. 5 : 2       E. It's impossible to answer.
+
+**Answer:** B
+[[src_kangourou_2002_cadet__Q11]]

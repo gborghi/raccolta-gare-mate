@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2024 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_automne__Q01
 parent: src_canimath_2024_automne
 competition: Coupe Animath Automne 2024
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute (2039−2024)²/9*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 25
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Computo (2039−2024) 2/9< MSK1/>
+
+> Calcolo < MSK0/>
+> 
+> Qui si aspetta solo una risposta numerica.
+
+**Risposta:** 25
+[[src_canimath_2024_automne__Q01]]

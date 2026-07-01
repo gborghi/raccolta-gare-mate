@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q02
 parent: src_kangourou_2018_benjamin_marzo
 competition: Kangourou 2018 Benjamin - Gara 15 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro della stella di triangoli e quadrato*
 
@@ -55,3 +58,28 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of the star of triangles and squares*
+
+![[src_kangourou_2018_benjamin_marzo__prob2.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) -- (2,0) -- (2,2) -- (0,2) -- cycle;
+  \draw (0,0) -- (1,-1.732) -- (2,0);
+  \draw (0,2) -- (1,3.732) -- (2,2);
+  \draw (0,0) -- (-1.732,1) -- (0,2);
+  \draw (2,0) -- (3.732,1) -- (2,2);
+\end{tikzpicture}
+\end{document}
+```
+
+> The star in the figure consists of four equilateral triangles and a square. The perimeter of the square is 36 cm. How much is the star? A) 144 cm B) 120 cm C) 104 cm D) 90 cm E) 72 cm
+
+**Answer:** E
+[[src_kangourou_2018_benjamin_marzo__Q02]]

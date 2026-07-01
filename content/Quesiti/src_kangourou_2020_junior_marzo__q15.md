@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q15
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di 9x+27y dato 17x+51y=102*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Value of 9x+27y given 17x+51y=102< MSK1/>
+
+> If 17x plus 51y is 102, what's 9x plus 27y worth? A) 54
+> 	
+> B) 36
+> 	
+> C) 34
+> 	
+> D) 18 E) The problem data are insufficient to answer.
+
+**Answer:** A
+[[src_kangourou_2020_junior_marzo__Q15]]

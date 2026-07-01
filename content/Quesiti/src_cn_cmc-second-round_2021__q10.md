@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Second Round) 2021 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-second-round_2021__Q10
 parent: src_cn_cmc-second-round_2021
 competition: China Mathematical Competition (Second Round) 2021
@@ -38,6 +39,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest M so that any 10 numbers in [1,M] contain three forming a quadratic with no real roots*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $4^{405}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*M più grande in modo che ogni 10 numeri in [1,M] contengano tre che formano un quadratico senza radici reali*
+
+> (Test Paper B, Problem 3) Cerca di trovare il numero positivo più grande $M > 1$ con la seguente proprietà: per qualsiasi 10 diversi numeri reali scelti dall'intervallo $[1, M]$, tre di essi possono essere selezionati, indicati dal più piccolo al più grande da $a < b < c$, in modo che l'equazione quadrata $ax^2 + bx + c = 0$ non abbia radici reali.
+
+**Risposta:** $4^{405}$
+[[src_cn_cmc-second-round_2021__Q10]]

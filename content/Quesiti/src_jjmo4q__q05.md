@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2006 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo4q__Q05
 parent: src_jjmo4q
 competition: Japan Junior Mathematical Olympiad 2006
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum coins on 8×8 grid: at most one face-up per row, at most one face-down per column*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Monete massime su 8 ×8 griglia: al massimo una faccia in su per riga, al massimo una faccia in giù per colonna*
+
+> C'è una griglia $8 \times 8$. Su alcune celle, le monete sono posizionate sia a faccia alta che a faccia bassa, soddisfacendo le seguenti condizioni: \begin{itemize} \item Se una cella contiene una moneta a faccia alta, allora nessuna altra cella nella stessa riga contiene una moneta a faccia alta. \item Se una cella contiene una moneta rivolta verso il basso, allora nessuna altra cella nella stessa colonna contiene una moneta rivolta verso il basso. Qual è il numero massimo di monete che si possono mettere sulla griglia?
+
+[[src_jjmo4q__Q05]]

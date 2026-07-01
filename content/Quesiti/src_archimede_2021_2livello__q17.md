@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2021 - 2° livello — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_2livello__Q17
 parent: src_archimede_2021_2livello
 competition: Archimede Gara di Febbraio 2021 - 2° livello
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Griglia a spirale, forzieri raggiungibili, numero finito*
 
@@ -55,3 +58,15 @@ tags:
 **Abilita:** [[skill_stima|Stima e approssimazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Spiral grid, forcing to be reached, finite number*
+
+![[src_archimede_2021_2livello__prob17.png]]
+
+> It 's a demonstration exercise . . . A treasure map consists of a map of an island (infinitely extended in all directions) to which a square grid is overlaid. The grid boxes are numbered in a spiral as shown in the figure. The pirates have hidden their treasure by dividing it into forcibles who have buried it in some of the boxes, those numbered with the n containing the directions to reach them from box 1. By this phrase, pirates mean the following: by writing the number n in base ten, we call it a1, . . . , with its digits, read from left to right; in box n, there is a forcer with part of the treasure if (and only if) it can be reached starting from box 1 and taking steps in a certain direction (North, South, West or East), a2 steps in a certain direction (possibly the same as before). . . And finally, we move in one of the four directions. For example, in box 12 there's a forcer, because starting from 1 and taking 1 step north and 2 steps east you get right into 12. In box 1, on the other hand, there's no forcing, because in any direction you take a step from 1, you end up in a box other than 1. Demonstrate that there are only a finite number of boxes in which a forcer is buried.
+
+[[src_archimede_2021_2livello__Q17]]

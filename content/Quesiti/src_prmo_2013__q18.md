@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2013__Q18
 parent: src_prmo_2013
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2013
@@ -33,6 +34,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum k such that 2013 equals sum of k consecutive positive integers*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 61
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximo k tale che il 2013 sia pari alla somma di k numeri interi positivi consecutivi*
+
+> Qual è il valore massimo possibile di $k$ tale che il 2013 possa essere scritto come somma di $k$ numeri interi positivi consecutivi?
+
+**Risposta:** 61
+[[src_prmo_2013__Q18]]

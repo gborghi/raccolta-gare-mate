@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q06
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum sum choosing 3 consecutive circles from 0–9 arranged anticlockwise*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa massima che sceglie 3 cerchi consecutivi da 09 disposti in senso antiorario*
+
+> Scrivi i numeri da 0 a 9 nei cerchi laterali, in modo che crescano nella direzione anticlockwise. Quindi sottraendo 1 da ogni numero impar e aggiungendo 1 a ogni numero pari. Scegliendo tre cerchi consecutivi, la somma più grande che puoi ottenere è:
+> 
+> (A) 19 \quad (B) 21 \quad (C) 23 \quad (D) 24 \quad (E) 25
+
+![[src_obm_2003_n1_f1__Q06.png]]
+
+**Risposta:** C
+[[src_obm_2003_n1_f1__Q06]]

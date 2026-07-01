@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f1__Q02
 parent: src_obm_2002_n2_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Billiard ball on 5×7 table shot at 45°; count side hits before corner pocket*
 
@@ -55,3 +58,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK2/>Bolla da biliardo su 5 < MSK1/>7 tavola colpita a < MSK0/>; contare i colpi laterali prima della tasca angolare < MSK3/>
+
+> Se dovessi giocare a biliardo su un tavolo rettangolare il cui rapporto larghezza-lunghezza è $5:7$, e spari una palla da un angolo a $45^\circ$ ai lati, quante volte la palla colpisce i lati prima di cadere in una tasca in un angolo?
+>
+> - **(A)** < MSK0/> volte
+> - **(B)** < MSK0/> volte
+> - **(C)** < MSK0/> volte
+> - **(D)** < MSK0/> volte
+> - **(E)** < MSK0/> volte
+
+![[src_obm_2002_n2_f1__Q02.png]]
+
+**Risposta:** A
+[[src_obm_2002_n2_f1__Q02]]

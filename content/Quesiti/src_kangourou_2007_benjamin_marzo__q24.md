@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q24
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte il numero di 4 cifre supera quello di 2*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many times a 4-digit number exceeds that of 2*
+
+> It is assigned a 2-digit number. On your right, we rewrite the same number, so you get a 4-digit number. How many times is the four-digit number so obtained greater than the initial two-digit number? A) 100 B) 101 C) 1000 D) 1001 E) 10
+
+**Answer:** B
+[[src_kangourou_2007_benjamin_marzo__Q24]]

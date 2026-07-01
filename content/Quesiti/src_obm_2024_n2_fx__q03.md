@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_n2_fx__Q03
 parent: src_obm_2024_n2_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Longest guaranteed increasing path in 10×10 grid with 1–100*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IF2AhS-oyKoh7_VN0FmjTtVwiNv_ZbJT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il percorso di crescita più lungo garantito nella griglia 10 ×10 con 1100 *
+
+> I numeri $1$ a $100$ vengono inseriti senza ripetizione, uno in ogni cella di una griglia $10 \times 10$. Un percorso *aumentante di lunghezza $k$* in questa griglia è una sequenza di celle $c_1, c_2, \ldots, c_k$ tale che, per ciascuna $i = 2, 3, \ldots, k$, possano le seguenti proprietà:
+> 
+> - le celle $c_i$ e $c_{i-1}$ condividono un lato o un vertice; - il numero di $c_i$ è maggiore del numero di $c_{i-1}$.
+> 
+> Qual è il più grande intero positivo $k$ in modo che possiamo sempre trovare un percorso crescente di lunghezza $k$, indipendentemente dal modo in cui i numeri $1$ a $100$ sono disposti nella griglia?
+
+[[src_obm_2024_n2_fx__Q03]]

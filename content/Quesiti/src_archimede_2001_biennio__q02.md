@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Biennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_biennio__Q02
 parent: src_archimede_2001_biennio
 competition: Giochi di Archimede 2001 - Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo calzini da prendere per una coppia stesso colore*
 
@@ -41,3 +44,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15IBgfl7GAsJGqi_MCOVW5U5tuBXGW2je/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum socks to take for a pair of the same colour< MSK1/>
+
+> One drawer contains, in the infusion, 3 pairs of beige socks, 5 pairs of blue socks and 6 pairs of black socks. You're in the dark. How many socks do you have to take at least to make sure you have a pair of the same color?
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 14.
+
+[[src_archimede_2001_biennio__Q02]]

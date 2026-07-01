@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q14
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Runners on circular track; when does Alberto first meet Beatriz*
 
@@ -52,3 +55,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Corridori su pista circolare, quando Alberto incontra per la prima volta Beatriz
+
+> Alberto, Beatriz e Carlos corrono su una pista circolare. Iniziano tutti allo stesso tempo e dallo stesso punto, ognuno a una velocità costante. Correndo nella stessa direzione, Carlos incontra Alberto, per la prima volta, esattamente 90 secondi dopo l'inizio della gara, e incontra Beatriz esattamente 15 secondi dopo. Alberto, correndo nella direzione opposta, incontra Beatriz, per la prima volta, 20 secondi dopo l'inizio della gara. Quanti secondi ci vogliono per Alberto per incontrare Beatriz correndo nella stessa direzione (per la prima volta)?
+>
+> - **(A)** 105
+> - **(B)** 630
+> - **(C)** 900
+> - **(D)** 1050
+> - **(E)** non può essere determinato
+
+**Risposta:** A
+[[src_obm_2000_n3_f1__Q14]]

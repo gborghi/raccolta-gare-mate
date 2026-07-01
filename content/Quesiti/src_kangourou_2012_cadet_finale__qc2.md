@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Finale Cadet (Mirabilandia) — Quesito C2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet_finale__QC2
 parent: src_kangourou_2012_cadet_finale
 competition: Kangourou 2012 Finale Cadet (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra finale del prodotto dei dispari tra 1 e 2012*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dAQ2UBRUIZY90-KiQxqdHKt0edOWJpGd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Final product figure of the odd between 1 and 2012*
+
+> If all odd integers between 1 and 2012 are multiplied by each other, what number does the product end with?
+
+**Answer:** 5
+[[src_kangourou_2012_cadet_finale__QC2]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2006 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2006__Q11
 parent: src_cn_cmc_2006
 competition: China Mathematical Competition 2006
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum value of trig-radical function on interval*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** $\frac{4\sqrt{5}}{5}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Valuta minima della funzione trigradikale a intervallo< MSK1/>
+
+> Dato $f(x) = \frac{\sin(\pi x) - \cos(\pi x) + 2}{\sqrt{x}}$ per $\frac{1}{4} \le x \le \frac{5}{4}$, il minimo di $f(x)$ è $\underline{\hspace{2cm}}$.
+
+**Risposta:** $\frac{4\sqrt{5}}{5}$
+[[src_cn_cmc_2006__Q11]]

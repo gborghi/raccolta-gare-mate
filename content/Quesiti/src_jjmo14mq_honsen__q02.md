@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2016 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo14mq_honsen__Q02
 parent: src_jjmo14mq_honsen
 competition: Japan Junior Mathematical Olympiad 2016 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n×n Latin-row grid, maximize adjacent equal-number pairs*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNe77mqSS5KaVCDyNI-U80o5ArYTZuAL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*n×n griglia latina di fila, massimizzare le coppie di numeri uguali adiacenti*
+
+> $n \ge 2$ sia un numero intero. Considera una griglia di celle $n \times n$, in cui ogni cella contiene un numero intero da $1$ a $n$. Ogni numero intero da $1$ a $n$ appare esattamente una volta in ogni riga. Due cellule sono chiamate "coppie vicine" se condividono un lato (non solo un vertex). Trova il numero massimo possibile di coppie di cellule vicine che contengono lo stesso numero intero.
+> 
+> (Nota: due cellule che condividono solo una vertica non sono considerate vicine.)
+
+[[src_jjmo14mq_honsen__Q02]]

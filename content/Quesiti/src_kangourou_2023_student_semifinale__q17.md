@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Student 2023 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student_semifinale__Q17
 parent: src_kangourou_2023_student_semifinale
 competition: Kangourou Semifinale individuale Student 2023
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima lunghezza di segmento parallelo a un lato nel triangolo*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum length of segment parallel to one side in the triangle*
+
+> Consider a triangle of perimeter 64 and the circumference inscribed therein. Between the networks perpendicular to this circumference, consider one parallel to one side of the triangle. What is the maximum length of a segment of such a straight line contained in the triangle?
+
+[[src_kangourou_2023_student_semifinale__Q17]]

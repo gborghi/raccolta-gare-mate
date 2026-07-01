@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2 —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_nu_f2__Q05
 parent: src_obm_2006_nu_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Series 1/f(n) converges iff series f^{-1}(n)/n^2 converges*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18lHsUkA6TjiVCKvRGHHFZ98nGkOcKHvM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Serie 1/f(n) converge se serie f^{-1}(n)/n^2 converge*
+
+> Lasciate che $f : [0, +\infty) \to [0, +\infty)$ sia una funzione crescente e bijectiva. Prova che la serie $\displaystyle\sum_{n=1}^{\infty} \frac{1}{f(n)}$ converge se e solo se la serie $\displaystyle\sum_{n=1}^{\infty} \frac{f^{-1}(n)}{n^2}$ converge, dove $f^{-1}$ indica la funzione inversa di $f$.
+
+[[src_obm_2006_nu_f2__Q05]]

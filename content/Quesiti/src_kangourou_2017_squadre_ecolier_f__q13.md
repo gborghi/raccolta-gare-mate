@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_ecolier_f__Q13
 parent: src_kangourou_2017_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2017 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti cubi bianchi lungo gli spigoli del cubo grande*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 32
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many white cubes along the large cube's tips< MSK1/>
+
+![[src_kangourou_2017_squadre_ecolier_f__prob13.png]]
+
+> The cube Using white cubes and colored cubes, Luigi built the large cube you see in the figure. He put the white cubes along the ends of the big cube, but he didn't put them inside. How many white cubes did you use?
+
+**Answer:** 32
+[[src_kangourou_2017_squadre_ecolier_f__Q13]]

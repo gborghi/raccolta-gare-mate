@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2025 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2025__Q08
 parent: src_oprem_2025
 competition: Olympiades Nationales de Mathématiques (Première) 2025
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exercise 2 intro and examples: show 6 is balanced (balance 2), 7 is not, 204 has balance 84*
 
@@ -66,3 +69,30 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 6 has balance 2; 7 is not balanced; 204 has balance 84
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esercizio 2 introduzione e esempi: mostra 6 è bilanciato (equilibrio 2), 7 non è, 204 ha equilibrio 84*
+
+> **Esercizio 2 - Per i candidati del flusso generale che seguono la specialità "spe mathematics"**
+> 
+> Ricerca d'equilibrio: i numeri sul file
+> 
+> Ricordiamo che per ogni numero naturale non zero $m$: $$1 + 2 + 3 + \cdots + m = \frac{m(m+1)}{2}$$ e, più in generale, che per ogni numero naturale non zero $n$ e per ogni numero naturale non zero $b$: $$(n+1) + (n+2) + (n+3) + \cdots + (n+b) = \frac{b(2n+b+1)}{2}.$$
+> 
+> Quando $n$ è un intero almeno uguale a 2, diciamo che $n$ è un **numero bilanciato** se si può trovare un intero non zero $b$ tale che: $$1 + 2 + 3 + \cdots + (n-1) = (n+1) + (n+2) + \cdots + (n+b).$$ In questo caso, il intero $b$ è unico ed è chiamato il **equilibrio** di $n$.
+> 
+> Ad esempio, 35 è un numero equilibrato, poiché $1 + 2 + 3 + 4 + \cdots + 34 = 595$ e $(35+1) + (35+2) + \cdots + (35+14) = 595$. L'equilibrio di 35 e' 14.
+> 
+> **1. Alcuni esempi**
+> 
+> **(a) ** Indicare che 6 è un numero equilibrato e specificare il suo equilibrio.
+> 
+> **(b) ** Mostra che 7 non è un numero equilibrato.
+> 
+> **(c) ** Mostra che 204 è un numero bilanciato di equilibrio 84.
+
+**Risposta:** 6 has balance 2; 7 is not balanced; 204 has balance 84
+[[src_oprem_2025__Q08]]

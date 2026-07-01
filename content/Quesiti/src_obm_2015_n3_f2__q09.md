@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f2__Q09
 parent: src_obm_2015_n3_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest integer a>1 such that a^(2^n)-1 is a multiple of 2015 for some positive integer n*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il numero intero più piccolo a>1 tale che a^(2^n)-1 è un multiple di 2015 per qualche numero intero positivo n*
+
+> (Parte B) Qual è il più piccolo intero $a > 1$ per il quale esiste un intero positivo $n$ tale che $a^{2^n} - 1$ sia un multiple di $2015$?
+
+[[src_obm_2015_n3_f2__Q09]]

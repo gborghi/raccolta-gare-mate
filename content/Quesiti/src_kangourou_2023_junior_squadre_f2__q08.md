@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Junior Finale 2 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_squadre_f2__Q08
 parent: src_kangourou_2023_junior_squadre_f2
 competition: Kangourou Squadre 2023 Junior Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo partite vinte per il 99% arrotondato*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0066
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum winnings by 99% rounded*
+
+> You've played some games: you haven't won all of them, but you can say you've won 99% of them if you're asked to round (as usual) the percentage of those you've won to the nearest integer. What's the smallest number of games you have to win to make your claim correct?
+
+**Answer:** 0066
+[[src_kangourou_2023_junior_squadre_f2__Q08]]

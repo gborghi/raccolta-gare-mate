@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (finale Cervia) — Quesito C3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_finale__QC3
 parent: src_kangourou_2017_cadet_finale
 competition: Kangourou 2017 Cadet (finale Cervia)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo amici con terne di caramelle a gusti diversi*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 10
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fMRZkFu7bLdUiC11xBpSrprxlKebqYVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Best friends with different-tasting candy bars
+
+> Lucilla has several candies: $6$ to mint, $7$ to lemon, $8$ to orange and $12$ to strawberry. He wants to give MSK4 to each of his friends, but each friend asks to have candy all of their tastes different. Considering the wishes of friends, how many friends can you please, at most?
+
+**Answer:** 10
+[[src_kangourou_2017_cadet_finale__QC3]]

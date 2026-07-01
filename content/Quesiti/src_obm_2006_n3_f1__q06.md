@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q06
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Place digits 4,5,6,7,8,9 in spaces forming three two-digit numbers in strictly decreasing order; count arrangements.*
 
@@ -52,3 +55,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Posizionare i numeri 4,5,6,7,8,9 in spazi che formano tre numeri a due cifre in ordine rigorosamente decrescente; ordini di conteggio.*
+
+> In quanti modi possiamo posizionare, in ogni spazio di sotto, uno dei numeri 4, 5, 6, 7, 8, 9 in modo che i due numeri di ogni coppia di spazi consecutivi formino numeri a due cifre e, in ogni membro, i numeri soddisfino l'ineguaglianza indicata?
+> 
+> $\_\_ > \_\_ > \_\_$
+> 
+> (A) 100 \quad (B) 120 \quad (C) 240 \quad (D) 480 \quad (E) 720
+
+[[src_obm_2006_n3_f1__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f3__Q03
 parent: src_obm_2005_n1_f3
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 3
@@ -39,6 +40,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Numbers written in diagonal pattern on a 100x100 board starting at line 1 column 50; find n and position of 2005*
 
@@ -55,3 +58,19 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rXvMl_8euzqRpkl9LTmc656w0mM0pHYd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri scritti in diagonale su una lavagna da 100x100 a partire dalla riga 1 colonna 50; trovare n e posizione del 2005*
+
+> A partire dalla cella situata alla riga $1$ e alla colonna $50$ di una lavagna $100 \times 100$, i numeri $1, 2, 3, 4, \ldots, n$ verranno scritti, come nella figura seguente, che presenta una parte della lavagna e mostra come devono essere posizionati i numeri. Il numero $n$ occuperà la cella nella riga $1$, nella colonna $100$.
+> 
+> a) Determinare < MSK0/>.
+> 
+> b) In quale riga e colonna apparirà il numero $2005$?
+
+![[src_obm_2005_n1_f3__Q03.png]]
+
+[[src_obm_2005_n1_f3__Q03]]

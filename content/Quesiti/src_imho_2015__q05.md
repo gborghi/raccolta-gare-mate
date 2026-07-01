@@ -1,6 +1,7 @@
 ---
 title: IMO 2015 (LVI International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2015__Q05
 parent: src_imho_2015
 competition: IMO 2015 (LVI International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all real functions satisfying f(x+f(x+y))+f(xy)=x+f(x+y)+yf(x)*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find the real functions satisfying f(x+f(x+y))+f(xy)=x+f(x+y)+yf(x)*
+
+> Let $\mathbb{R}$ be the set of real numbers. Determine the functions $f : \mathbb{R} \to \mathbb{R}$ satisfying the equation $$f(x + f(x + y)) + f(xy) = x + f(x + y) + yf(x)$$ for all real numbers $x$ and $y$.
+
+[[src_imho_2015__Q05]]

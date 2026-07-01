@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2022 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_printemps__Q02
 parent: src_canimath_2022_printemps
 competition: Coupe Animath Printemps 2022
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle, symmetric point and altitude foot, find the three angles*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles, punto simmetrico e piede di altitudine, trovare i tre angoli*
+
+> Il $AMC$ deve essere un triangolo a uguale scala a $M$ e tale che l'angolo $\widehat{AMC}$ sia acuto. $B$ sia simmetrica del punto $A$ rispetto al punto $M$, e $H$ sia il piede dell'altitudine dal vertice $C$ nel triangolo $ABC$. Supponiamo che $AH = HM$. Calcolare i valori dei tre angoli del triangolo $ABC$.
+
+[[src_canimath_2022_printemps__Q02]]

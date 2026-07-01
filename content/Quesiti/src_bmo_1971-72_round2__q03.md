@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1971-72 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1971-72_round2__Q03
 parent: src_bmo_1971-72_round2
 competition: British Mathematical Olympiad 1971-72 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a friendship graph with no common friends and two common strangers, find n*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1k2yo3ejkX0AY0rDb7QgQWMTuPK1MocPt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un grafico di amicizia senza amici comuni e due stranieri comuni, trovare n*
+
+> Ci sono persone < MSK0/> presenti in una riunione. Ogni due persone sono o amiche l'una dell'altra o estranee l'una all'altra. Non ci sono due amici che abbiano un amico in comune. Ogni sconosciuto ha due amici in comune. Prove che ogni persona abbia lo stesso numero di amici alla riunione. Se questo numero è $b$, trovare $n$.
+
+[[src_bmo_1971-72_round2__Q03]]

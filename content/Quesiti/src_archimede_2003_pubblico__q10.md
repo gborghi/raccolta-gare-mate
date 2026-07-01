@@ -1,6 +1,7 @@
 ---
 title: Archimede 2003 - Gara del Pubblico (Cesenatico) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_pubblico__Q10
 parent: src_archimede_2003_pubblico
 competition: Archimede 2003 - Gara del Pubblico (Cesenatico)
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *problema 10*
 
@@ -35,3 +38,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the first time I have seen this.
+
+> Kolmogorov Institute teachers are never satisfied with the results of their students, and they continue to propose increasingly elaborate exercises. Here's another example.
+> 
+> A polynomial with integer coefficients $q(x)$ divides another polynomial $p(x)$ also into integer coefficients (i.e. there is a third polynomial $r(x)$, also into integer coefficients, such as $p(x) = q(x) \cdot r(x)$). Knowing that the sum of the coefficients of $p(x)$ is 15!, what are the possible values of $q(1)$?
+
+[[src_archimede_2003_pubblico__Q10]]

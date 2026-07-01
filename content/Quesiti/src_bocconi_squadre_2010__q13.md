@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q13
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di tre cifre che forma quadrato e cubo perfetto con vicini*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 675
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of three digits forming perfect square and cube with neighbors*
+
+> It's a three-digit integer. Add me to the whole before me and the whole that follows me, and you get a perfect square. Add me to the two integers that precede me and the two that follow me, you get a perfect cube.
+> 
+> Who are they?
+
+**Answer:** 675
+[[src_bocconi_squadre_2010__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_benjamin__Q27
 parent: src_kangourou_2002_benjamin
 competition: Kangourou 2002 - Benjamin (21 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tagli minimi per 7 fette con una stella*
 
@@ -49,3 +52,19 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum sizes for 7 slices with one star< MSK1/>
+
+![[src_kangourou_2002_benjamin__prob27.png]]
+
+> John's mother prepares a cake for his son's birthday and decorates the surface with 7 stars by positioning them as in the figure. She wants to divide the cake into 7 parts, even in different sizes, but in such a way that each part contains exactly one star. What is the minimum number of straight cuts to be made on the cake to achieve the goal?
+>  
+>  
+> A. 3 B. 4 C. 5 D. 6 E. 7
+
+**Answer:** A
+[[src_kangourou_2002_benjamin__Q27]]

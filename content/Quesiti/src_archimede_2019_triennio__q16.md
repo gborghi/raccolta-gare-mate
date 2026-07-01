@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2019 - Triennio (T1) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_triennio__Q16
 parent: src_archimede_2019_triennio
 competition: Giochi di Archimede 2019 - Triennio (T1)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro triangolo A'B'C' da quadrati su triangolo equilatero*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A'B'C' triangle perimeter by squares on an equilateral triangle*
+
+![[src_archimede_2019_triennio__prob16.png]]
+
+> On the sides of the equilateral triangle ABC, which have a length of 1, three squares are constructed, as shown in the figure. What is the perimeter of the triangle A′B′C′?
+>
+> - **(A)** 3 p 4 + √ 3
+> - **(B)** 6
+> - **(C)** 3 p 1 + 2 √ 3
+> - **(D)** 3 2 √ 3
+> - **(E)** 3 2 + 3 4 √ 3 A A′ A′′ B B′ B′′ C C′ C′′
+
+**Answer:** A
+[[src_archimede_2019_triennio__Q16]]

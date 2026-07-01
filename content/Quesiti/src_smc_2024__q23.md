@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2024 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2024__Q23
 parent: src_smc_2024
 competition: Senior Mathematical Challenge 2024
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perimeter of the Einstein 'hat tile' made of congruent kite pieces with area 8√3*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Perimetro della "tiglia del cappello" di Einstein, fatta di pezzi congruenti con superficie 8√3*
+
+> L'aereo può essere ripiegato utilizzando la "taglia del cappello" mostrata qui. Questa piastrella può essere suddivisa in otto comete congruenti. L'area della piastrella è $8\sqrt{3}$. Qual è il perimetro della piastrella?
+>
+> - **(A)** $8 + 12\sqrt{3}$
+> - **(B)** $16 + 6\sqrt{3}$
+> - **(C)** $8\sqrt{3}$
+> - **(D)** $6 + 8\sqrt{3}$
+> - **(E)** $8 + 6\sqrt{3}$
+
+![[src_smc_2024__Q23.png]]
+
+**Risposta:** E
+[[src_smc_2024__Q23]]

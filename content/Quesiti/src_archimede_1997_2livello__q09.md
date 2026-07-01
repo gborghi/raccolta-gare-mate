@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1997 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_2livello__Q09
 parent: src_archimede_1997_2livello
 competition: Archimede Gara 2º livello 1997
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Successioni di colori di calzini senza due uguali vicini*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Success of colours of socks without two identical neighbours*
+
+> Three pairs of socks, one red, one blue, and one green, are laid out in line. Knowing that two socks of the same color are not close to each other, how many sequences of colors can you have?
+>
+> - **(A)** 15
+> - **(B)** 24
+> - **(C)** 30
+> - **(D)** 36
+> - **(E)** None of the above
+
+**Answer:** C
+[[src_archimede_1997_2livello__Q09]]

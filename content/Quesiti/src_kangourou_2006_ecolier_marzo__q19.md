@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Ecolier (marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q19
 parent: src_kangourou_2006_ecolier_marzo
 competition: Kangourou 2006 Ecolier (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Facce verniciate di struttura di 10 cubi*
 
@@ -70,3 +73,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1pKY5ouqmagp75LpVMmZ7-wegTuPPO_ZD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Painted faces of a structure of 10 cubes*
+
+![[src_kangourou_2006_ecolier_marzo__prob19.png]]
+
+> The structure shown in the figure consists of 10 cubes glued together. Roman paints the entire structure, including the bottom. How many faces of cubes have been painted? (A) 18 (B) 24 (C) 30 (D) 36 (E) 42 pages. I'm going to pay. 8 Kang 2006 Kang 2006 A B 80 20 60 30 20 10 10 60 70 A) B) C) D) Ecolier_06.qxp 21/02/2006 0.07 Page 8
+> 
+> I'm going to pay. I'm going to pay. 9 Kang 2006 Kang 2006
+
+**Answer:** D
+[[src_kangourou_2006_ecolier_marzo__Q19]]

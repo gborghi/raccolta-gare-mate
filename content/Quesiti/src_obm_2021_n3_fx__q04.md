@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2021_n3_fx__Q04
 parent: src_obm_2021_n3_fx
 competition: Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest real belonging to every framed (bounded, closed under (a-b)^2) set*
 
@@ -52,3 +55,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17H-vwLFAdIazq1JXS3IN18t1GGmAcKXp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il più piccolo reale appartenente a ogni set framed (limitato, chiuso sotto (a-b) ^2)*
+
+> Un insieme $X$ di numeri reali, finiti o infiniti, si chiama *limitato* quando esiste un $M$ reale tale che $|x| \le M$ per tutti $x \in X$. Ad esempio, $A = [-3, n]$ e $B = \{2^k : k \in \mathbb{Z}_{\ge 0}\} = \{1, 2, 4, 8, \ldots\}$ sono limitati (prendendo $M \ge n$ e $M \ge 1$, rispettivamente). D'altra parte, $C = \mathbb{Z}$ e $D = \mathbb{R}_{\ge 0}$ non sono dilimitati.
+> 
+> Un insieme $A$ di numeri reali viene chiamato *framed* quando è limitato e, per tutti i diversi $a, b \in A$, abbiamo $(a - b)^2 \in A$.
+> 
+> Qual è il numero reale più piccolo che appartiene a ogni insieme framed?
+
+[[src_obm_2021_n3_fx__Q04]]

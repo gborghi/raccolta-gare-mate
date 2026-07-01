@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo14yq_yosen__Q09
 parent: src_jjmo14yq_yosen
 competition: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count red/blue colourings of 15-rectangle pyramid with downward propagation*
 
@@ -46,3 +49,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i coloranti rosso/blu della piramide a 15 rettangoli con propagazione verso il basso*
+
+> Sono disposti quindici rettangoli come mostrato nella figura (una piramide con una riga inferiore di rettangoli $5$, quindi righe di $4$, $3$, $2$, $1$ sopra). Ciascuno di questi rettangoli deve essere colorato rosso o blu, a condizione che: ogni volta che un rettangolo che non si trova nella riga inferiore è di colore rosso, i due rettangoli immediatamente sotto di esso devono essere di colore rosso. In quanti modi si può fare questo colorazione?
+
+![[src_jjmo14yq_yosen__Q09.png]]
+
+**Risposta:** 365
+[[src_jjmo14yq_yosen__Q09]]

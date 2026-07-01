@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q17
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo ACB con AN=AC e BM=BC e MCN=43*
 
@@ -60,3 +63,32 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*ACB angle with AN=AC and BM=BC and MCN=43*
+
+![[src_kangourou_2013_student__prob17.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \draw[thick] (0,0) -- (4,0) -- (2,3.2) -- cycle;
+  \draw (2,3.2) -- (0.7,0);
+  \draw (2,3.2) -- (3.2,0);
+  \node[below left] at (0,0) {$A$};
+  \node[below right] at (4,0) {$B$};
+  \node[above] at (2,3.2) {$C$};
+  \node[below] at (0.7,0) {$M$};
+  \node[below] at (3.2,0) {$N$};
+  \node[font=\small, right] at (2.05,2.85) {$43^\circ$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the triangle ABC the points M and N are fixed on the AB side so that AN = AC and BM = BC. Determine the width of the ACB angle by knowing that the MCN angle measures 43°. A) 86° B) 89° C) 90° D) 92° E) 94°
+
+**Answer:** E
+[[src_kangourou_2013_student__Q17]]

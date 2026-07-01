@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q19
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Il piu grande di 11 numeri consecutivi a somma p*
 
@@ -70,3 +73,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Greatest of 11 consecutive numbers to sum p*
+
+> The sum of eleven consecutive numbers is p. So the largest of these numbers is A . B) . C) . D) . E) . The Commission has decided to extend the scope of this Regulation to the following areas:
+> 
+> I'm going to pay. I'm going to pay. 19 19 Kang 201 Kang 2011
+
+**Answer:** B
+[[src_kangourou_2011_cadet__Q19]]

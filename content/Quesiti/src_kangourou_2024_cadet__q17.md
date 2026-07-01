@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q17
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del quarto rettangolino noti gli altri tre*
 
@@ -48,3 +51,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of the fourth rectangle known to the other three*
+
+![[src_kangourou_2024_cadet__prob17.png]]
+
+> Elisa carves a large rectangle to produce four rectangles, as shown in the figure. Three of these small rectangles have perimeter 16, 18 and 24. What is the perimeter of the fourth small rectangle? A) 8
+>  
+> B) 10
+>  
+> C) 12
+>  
+> D) 14
+>  
+> E) 16
+
+**Answer:** B
+[[src_kangourou_2024_cadet__Q17]]

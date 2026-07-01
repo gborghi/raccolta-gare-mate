@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2023 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2023__Q22
 parent: src_smc_2023
 competition: Senior Mathematical Challenge 2023
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which sketch matches y = sin(arccos x)*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Che bozza corrisponde a y = sin(arccos x) *
+
+> Quale diagramma potrebbe essere uno schema della curva $y=\sin(\cos^{-1} x)$?
+>
+> - **(A)** grafico A
+> - **(B)** grafico B
+> - **(C)** grafico C
+> - **(D)** grafico D
+> - **(E)** grafico E
+
+![[src_smc_2023__Q22.png]]
+
+**Risposta:** C
+[[src_smc_2023__Q22]]

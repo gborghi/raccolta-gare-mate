@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q23
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *cerchio ?*
 
@@ -61,3 +64,26 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> circle ? < MSK1/>
+
+![[src_kangourou_2022_student__prob23.png]]
+
+> The integers 1 to 10 are placed, without repetition, each in one of the ten circles arranged as shown in the figure. The sum of the numbers in the left column is 24, as well as the sum of the numbers in the right column, while the sum of the numbers in the row at the bottom of the drawing is 25. What is the number in the circle indicated by the question mark? A) 2
+>   
+> B) 4
+>   
+> C) 5
+>   
+> D) 6 E) None of the other answers is correct.
+>   
+> E) 36 1 x y 5 5
+>  
+> Page 32
+
+**Answer:** E
+[[src_kangourou_2022_student__Q23]]

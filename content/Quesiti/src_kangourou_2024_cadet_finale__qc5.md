@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Cadet 2024 — Quesito C5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet_finale__QC5
 parent: src_kangourou_2024_cadet_finale
 competition: Kangourou Finale Cadet 2024
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perche il risultato di Marco e sempre 1089*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Because the result of Marco is always 1089
+
+> Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits, and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, press $0$ to this difference, otherwise it remains unchanged. Finally, it adds to the number thus obtained the number it gets by reversing the order of its digits. What is the result? Our question suggests that the outcome does not depend on the number initially chosen by Marco.
+
+[[src_kangourou_2024_cadet_finale__QC5]]

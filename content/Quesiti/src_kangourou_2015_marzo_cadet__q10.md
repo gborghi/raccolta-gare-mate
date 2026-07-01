@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q10
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *giri in 5 secondi*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>spins in 5 seconds< MSK1/>
+
+> A cyclist pedals at a speed of five meters per second. The circumference of each wheel of his bicycle is 250 cm long. In five seconds, how many complete spins does each wheel make? A) 2
+>  	
+> B) 5
+> 	
+> (c) 10 D) 20 E) 25 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** C
+[[src_kangourou_2015_marzo_cadet__Q10]]

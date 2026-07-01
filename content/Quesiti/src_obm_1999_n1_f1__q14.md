@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f1__Q14
 parent: src_obm_1999_n1_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cards on a table; mean of all is 5, mean of Y's neighbours is 3; find X.*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Carte su una tabella; media di tutte è 5, media dei vicini di Y è 3; trovare X.*
+
+> Sette carte con numeri su una faccia sono posizionate a faccia in giù su una tavola, disposta in una griglia $2 \times 3$. Le schede $X$ e $Y$ sono posizionate con la faccia numerata verso l'alto. La disposizione è: $$\begin{array}{|c|c|c|}\hline 8 & 2 & 4 \\ \hline X & 6 & Y \\ \hline \end{array}$$ La media aritmetica dei numeri su tutte le carte è 5. La media aritmetica dei numeri della carta $Y$ e dei suoi tre vicini è di 3. Qual è il numero scritto sulla scheda < MSK5/>?
+> 
+> (A) $-4$ \quad (B) 12 \quad (C) 0 \quad (D) 15 \quad (E) 10
+
+**Risposta:** A
+[[src_obm_1999_n1_f1__Q14]]

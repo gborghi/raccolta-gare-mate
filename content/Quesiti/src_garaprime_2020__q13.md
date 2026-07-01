@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2020 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2020__Q13
 parent: src_garaprime_2020
 competition: Gara Nazionale Classi Prime 2020
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Mossa vincente nel gioco Dividi e Sostituisci*
 
@@ -53,3 +56,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RcjMtWkWdcfagBZF3LMfq3IMn7aMwmGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Winning move in the game Divide and Replace*
+
+> Claudia and Luca play Dividi and Replace. At the beginning of the board is written a positive integer n. In turn, the two players divide the number written on the board by a power of a prime number so as to get a new positive integer m, smaller than n, which is written on the board instead of n. The first one to get 1 wins. At some point on the board, it says 320000 and it's Claudia's turn. What move does Claudia have to make to make sure she can force the win, anyway, you play Luca? A divided by 32 B divided by 625 C divided by 2 D divided by 25 E there's more than one move that allows Claudia to win F. Whatever Claudia moves, Luke wins.
+
+**Answer:** A
+[[src_garaprime_2020__Q13]]

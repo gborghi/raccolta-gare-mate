@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2013__Q12
 parent: src_prmo_2013
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2013
@@ -29,6 +30,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length of PC in equilateral triangle with rectangle PQRS inscribed*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza del PC in triangolo equilaterale con PQRS rettangolo inciso *
+
+> Lasciate che $ABC$ sia un triangolo equilaterale. Che $P$ e $S$ siano punti su $AB$ e $AC$, rispettivamente, e che $Q$ e $R$ siano punti su $BC$ in modo tale che $PQRS$ sia un rettangolo. Se $PQ = \sqrt{3}\,PS$ e la superficie di $PQRS$ sono $28\sqrt{3}$, quale è la lunghezza di $PC$?
+
+[[src_prmo_2013__Q12]]

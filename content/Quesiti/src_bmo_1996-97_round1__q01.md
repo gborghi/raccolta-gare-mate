@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1996-97 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1996-97_round1__Q01
 parent: src_bmo_1996-97_round1
 competition: British Mathematical Olympiad 1996-97 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Reverse digits of N equals 4N+3; find all four-digit N*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13D96daRiyLTrSNR6oAEhxWJQqmw0irae/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gli numeri inversi di N sono uguali a 4N+3; trovare tutti i N a quattro cifre *
+
+> $N$ è un numero intero a quattro cifre, che non termina in zero, e $B(N)$ è il numero intero a quattro cifre ottenuto invertendo i numeri di $N$. Ad esempio, $B(3275) = 5723$.
+> 
+> Determinare tutti i numeri interi $N$ per i quali $B(N) = 4N + 3$.
+
+[[src_bmo_1996-97_round1__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f3__Q06
 parent: src_obm_2015_n2_f3
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Scalene triangle with internal bisectors; compute angle BCA*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo di scalene con bisettori interni; angolo di calcolo BCA*
+
+> Il $ABC$ deve essere un triangolo di scalene con $AD$, $BE$ e $CF$ come bisettori interni, con $D$ su $BC$, $E$ su $AC$ e $F$ su $AB$. È dato che < MSK10/>. Calcolare la misura dell'angolo $\angle BCA$.
+
+[[src_obm_2015_n2_f3__Q06]]

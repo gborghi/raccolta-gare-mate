@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2000 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2000_r3__Q04
 parent: src_pol_2000_r3
 competition: Olimpiade Matematica Polacca 2000 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A zig-zag path on lateral edges of a regular pyramid shorter than twice an edge*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nDWoQAPfWDLllzYEGHcK_5w05h4brUh9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un percorso in zigzag sui bordi laterali di una piramide regolare inferiore al doppio del bordo*
+
+> In una piramide regolare con vertice superiore $S$ e base $A_1 A_2 \ldots A_n$ ogni bordo laterale forma un angolo di $60^\circ$ con la base della piramide. Per ogni $n \geq 3$ si dimostra o si nega che esistono punti $B_2, B_3, \ldots, B_n$ che si trovano sui bordi $A_2 S, A_3 S, \ldots, A_n S$, rispettivamente, in modo tale che $$A_1 B_2 + B_2 B_3 + \cdots + B_{n-1} B_n + B_n A_1 < 2 A_1 S.$$
+
+[[src_pol_2000_r3__Q04]]

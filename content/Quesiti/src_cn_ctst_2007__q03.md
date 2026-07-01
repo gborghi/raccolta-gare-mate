@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2007 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2007__Q03
 parent: src_cn_ctst_2007
 competition: China National Team Selection Test 2007
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max triangles with all sides >9 among 63 points on circle radius 10*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 23121
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Max triangoli con tutti i lati >9 tra 63 punti sul raggio di circolo 10*
+
+> Ci sono 63 punti su un cerchio $C$ con raggio 10. $S$ è il numero di triangoli i cui lati sono più grandi di 9 e le cui vertici sono scelte tra i 63 punti. Trova il valore massimo di $S$.
+
+**Risposta:** 23121
+[[src_cn_ctst_2007__Q03]]

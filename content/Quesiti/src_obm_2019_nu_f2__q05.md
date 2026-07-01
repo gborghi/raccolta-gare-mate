@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2 —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2019_nu_f2__Q05
 parent: src_obm_2019_nu_f2
 competition: Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2
@@ -40,6 +41,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine the exponent beta(M,k) in the asymptotic count of multiples of k-prime powers with exponents >= k*
 
@@ -52,3 +55,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10ZZ53PN51VCIg4v8FeDtpK_VZe_GuZRq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Determine l'esponente beta(M,k) nel conteggio asimptotico di moltipli di potenze k-prime con esponenti >= k*
+
+> Lasciate che $M$, $k$ siano numeri interi positivi. $X_{M,k}$ sia l'insieme dei multipli di numeri della forma $p_1^{a_1} p_2^{a_2} \cdots p_k^{a_k}$ in cui $p_1, p_2, \ldots, p_k$ sono numeri primi in modo tale che $M \leq p_1 < p_2 < \cdots < p_k$ e $a_1, a_2, \ldots, a_k$ siano integri superiori o uguali a $k$. Prove che esistono numeri reali positivi $c(M, k)$ e $\beta(M, k)$ tali da $$\lim_{n \to \infty} \frac{|X_{M,k} \cap \{0, 1, \ldots, n\}|}{n^{\beta(M,k)}} = c(M, k),$$ e determina il valore di $\beta(M, k)$.
+
+[[src_obm_2019_nu_f2__Q05]]

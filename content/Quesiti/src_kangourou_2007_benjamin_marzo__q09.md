@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q09
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area di sovrapposizione di due quadrati*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Overlay area of two squares*
+
+![[src_kangourou_2007_benjamin_marzo__prob9.png]]
+
+> Two squares whose sides measure 9 cm are partially superimposed, as shown in the figure, to form a rectangle whose sides measure 9 cm and 13 cm. How many square centimetres measure the area of the region where the two squares are overlapping? A) 36 B) 45 C) 54 D) 63 E) 72
+
+**Answer:** B
+[[src_kangourou_2007_benjamin_marzo__Q09]]

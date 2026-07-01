@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Triennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_triennio__Q20
 parent: src_archimede_1996_triennio
 competition: Giochi di Archimede 1996 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante cifre ha il numero (123456789) alla sesta*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many digits has the number (123456789) at six*
+
+> How many digits does the number (123456789)6 have ?
+>
+> - **(A)** 16
+> - **(B)** 48
+> - **(C)** 49
+> - **(D)** 50
+> - **(E)** 54.
+
+**Answer:** C
+[[src_archimede_1996_triennio__Q20]]

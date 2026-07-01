@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q09
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -26,6 +27,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dado che muta, numero con massima probabilita al terzo lancio*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3011
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Given that it changes, number most likely at the third launch*
+
+> HALBERT CONWAY The Planar Express has been joined by Halbert Conway, who runs it as if it were his own, taking care of the financial and personnel administration. Its characteristics are pennelry, order, punctuality, compliance with rules and regulations, planning and economics. He loves dice games and has a six-sided electronic dice that, reset, has the first six positive integers on the six faces and, after each roll, halves the even values if an even number is released, increases the value of each of the six faces of one if an odd number is released. Halbert asked Beuler to calculate which number n has the highest probability of exiting at the third launch and which is this probability a b reduced to minimum terms. (Give the answer 1000n to b   .)
+> 
+> 3
+
+**Answer:** 3011
+[[src_squadre_2018_femminile__Q09]]

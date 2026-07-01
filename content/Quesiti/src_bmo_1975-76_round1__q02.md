@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1975-76 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1975-76_round1__Q02
 parent: src_bmo_1975-76_round1
 competition: British Mathematical Olympiad 1975-76 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality sum of x/(y+z) >= 3/2 for positive reals*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la somma delle disuguaglianze di x/(y+z) >= 3/2 per i reali positivi*
+
+> Dimostra che se $x, y, z$ sono numeri reali positivi allora $$\frac{x}{y+z} + \frac{y}{z+x} + \frac{z}{x+y} \ge \frac{3}{2}.$$
+
+[[src_bmo_1975-76_round1__Q02]]

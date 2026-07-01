@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q25
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest positive value of 21 m^2 - n^2 for positive integers m, n.*
 
@@ -54,3 +57,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il minimo valore positivo di 21 m^2 - n^2 per gli integri positivi m, n.*
+
+> Qual è il valore positivo più piccolo di $21m^2-n^2$ con $m$ e $n$ integri positivi?
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $5$
+> - **(E)** $7$
+
+[[src_obm_2010_n3_f1__Q25]]

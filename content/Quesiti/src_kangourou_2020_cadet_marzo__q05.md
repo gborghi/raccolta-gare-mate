@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q05
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale punteggio non puo essere totalizzato nel torneo*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which score cannot be aggregated in the tournament*
+
+> There are four teams in a football tournament. Every team meets every other team exactly once. In each match the winning team gets 3 points, the losing team 0 points; in the event of a tie, both teams get 1 point. Once all the matches of the tournament have been played, which of the following scores cannot be aggregated by any of the four teams? A) 4
+> 	
+> B) 5
+> 	
+> C) 6
+> 	
+> D) 7
+> 	
+> E) 8
+
+**Answer:** E
+[[src_kangourou_2020_cadet_marzo__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1972-73 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1972-73_round1__Q04
 parent: src_bmo_1972-73_round1
 competition: British Mathematical Olympiad 1972-73 — Round 1
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Congruent equilateral triangular discs forming convex equiangular hexagon; valid n*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dischi triangolari equilaterali congruenti che formano un esagono equangolare converso; n* valido
+
+> Si dispone di un gran numero di dischi equilaterali triangolari congruenti su un tavolo e si desidera mettere insieme i dischi $n$ per creare un esagono equangolare convexo (cioè un angolo interno di ciascuna $120^\circ$).
+> 
+> Ovviamente $n$ non può essere un intero positivo. Il più piccolo $n$ è $6$, il successivo è $10$ e il successivo $13$. Determinare le condizioni per un possibile $n$.
+
+![[src_bmo_1972-73_round1__Q04.png]]
+
+[[src_bmo_1972-73_round1__Q04]]

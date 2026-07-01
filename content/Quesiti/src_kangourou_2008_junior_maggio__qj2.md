@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Junior finale nazionale (Mirabilandia) — Quesito J2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_junior_maggio__QJ2
 parent: src_kangourou_2008_junior_maggio
 competition: Kangourou 2008 - Junior finale nazionale (Mirabilandia)
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di sottoinsiemi con numero dispari di elementi*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2^(n-1)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uXc8-ZmBP-ZtvKTQDU0i6ugKKpgckWrF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of sub-sets with odd number of elements*
+
+> A set of $n$ objects ($n \geq 1$) is given. How many of its sub-sets are made up of an odd number of elements?
+
+**Answer:** 2^(n-1)
+[[src_kangourou_2008_junior_maggio__QJ2]]

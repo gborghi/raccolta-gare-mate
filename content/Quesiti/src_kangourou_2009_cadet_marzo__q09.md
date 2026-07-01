@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q09
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Litri nel recipiente con dimensioni dimezzate*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Litres in the half-sized container< MSK1/>
+
+> A rectangular parallel-piped container is of such size that, when filled to the brim, it contains one litre of water. Each of its three dimensions is halved, creating a new vessel of the same shape. If this container is also filled to the brim, how many liters of water is it? A) 0,0625 B) 0,125 C) 0,25 D) 0,5 E) A number different from the previous ones
+
+**Answer:** B
+[[src_kangourou_2009_cadet_marzo__Q09]]

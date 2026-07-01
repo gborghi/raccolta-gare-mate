@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2018 Finale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_finale__Q14
 parent: src_kangourou_2018_squadre_finale
 competition: Kangourou Coppa squadre 2018 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita somma 7 con due dadi non standard*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0718
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability sum 7 with two non-standard dice*
+
+> Two odd dice Nicola has two unmade, but not traditional dice: in one there is a face with 1 point, two faces with 2 points and three faces with 3 points; in the other a face with 6 points, two faces with 5 points and three faces with 4 points. What is the probability that, by throwing the two dice, the sum of the points that Nicholas gets is 7? Write the numerator of the fraction, reduced to the minimum terms, followed by the denominator: for example, if the result was 3/23, write 0323.
+
+**Answer:** 0718
+[[src_kangourou_2018_squadre_finale__Q14]]

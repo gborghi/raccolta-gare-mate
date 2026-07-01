@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q22
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 4-digit numbers with distinct digits avoiding 1 in units, 2 in tens, 3 in hundreds, 4 in thousands*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri a 4 cifre con cifre distinte evitando 1 in unità, 2 in decine, 3 in centinaia, 4 in migliaia*
+
+> Quanti numeri a quattro cifre con cifre distinte non hanno $1$ nelle unità, né $2$ nelle decine, né $3$ nelle centinaia, né $4$ nelle migliaia?
+> 
+> (A) Meno di $1000$ \quad (B) Più di $1000$ e meno di $2000$ \quad (C) Più di $2000$ e meno di $3000$ \quad (D) Più di $3000$ e meno di $4000$ \quad (E) Più di $4000$
+
+[[src_obm_2013_n3_f1__Q22]]

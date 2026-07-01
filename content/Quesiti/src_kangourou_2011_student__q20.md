@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q20
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di membri del club da due affermazioni*
 
@@ -82,3 +85,29 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of club members from two statements*
+
+![[src_kangourou_2011_student__prob20.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) grid (3,3);
+  \node at (1.5,2.5) {2};
+  \node at (0.5,1.5) {1};
+  \node at (2.5,1.5) {3};
+  \node at (1.5,0.5) {4};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the 3x3 grid in the figure, 4 numbers are visible. Nicola inserted a positive integer into each cell that appears free so that the sum of the numbers in each 2x2 subgrid is 10 (the subgrids can only be made by truncing consecutive rows and columns). How much can the sum of the numbers entered by Nicholas be worth? A) 9 B) 10 C) 12 D) 13 E) None of the previous values K•A • N• G• O • U• R • O • U G • I • O • C• O C A B S X Q P R 2 1 3 4 A(1, -10) Texts_11Mat.qxp 19-05-2011 21:27 Page 30
+> 
+> I'm going to pay. I'm going to pay. 31 31 Kang 201 Kang 2011 Questions from N. 21 al N. 30 is worth 5 points each.
+
+[[src_kangourou_2011_student__Q20]]

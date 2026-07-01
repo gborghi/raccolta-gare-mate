@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q13
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -33,6 +34,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral, diagonals 12 and 16, midpoint segments equal; max area*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterali convex, diagonali 12 e 16, segmenti di punto medio uguali; superficie massima*
+
+> In un quadrilaterale converso $ABCD$, le lunghezze dei diagonali sono 12 e 16 e i segmenti di linea che uniscono i punti di mezzo dei lati opposti sono di uguale lunghezza. Qual è la superficie massima possibile del quadrilaterale $ABCD$?
+
+[[src_ioqm_2025_sep28__Q13]]

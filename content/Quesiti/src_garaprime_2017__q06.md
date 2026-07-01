@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2017 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2017__Q06
 parent: src_garaprime_2017
 competition: Gara Nazionale Classi Prime 2017
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro minimo di rettangolo intero con area 12120*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum perimeter of full rectangle with area 12120*
+
+> A rectangle has an area of 12120 and sides of full size. What's the minimum value of its perimeter? A 442 B 440 C 444 D 446 E 448 F None of the other answers are correct
+
+**Answer:** A
+[[src_garaprime_2017__Q06]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 2) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g2__Q03
 parent: src_bocconi_finaleint_2009_g2
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Riempire una figura con le cifre 1,2,3,4,5 secondo regole di frequenza e adiacenza*
 
@@ -53,3 +56,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_LRZ35lngxx9JZL11y14CrDyt5FTBU28/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fill a figure with the digits 1,2,3,4,5 according to frequency and adjacency rules*
+
+> One, two, three, four, five. You must type $1$, $2$, $3$, $4$ or $5$ in each box in the figure, subject to the following conditions: - the $1$ appears only once, the $2$ twice, the $3$ three times, the $4$ four times and the $5$ five times; - no box adjacent to another (horizontally, vertically or diagonally) contains an identical figure.
+
+![[src_bocconi_finaleint_2009_g2__Q03.png]]
+
+[[src_bocconi_finaleint_2009_g2__Q03]]

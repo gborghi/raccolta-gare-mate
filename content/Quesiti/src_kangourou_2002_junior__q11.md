@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q11
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore della somma S di radici*
 
@@ -75,3 +78,18 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of the sum of roots S*
+
+> Whether S = 2 5 1 5 6 1 6 7 1 + + + + . So S is A. 3 B. 2 7 −
+>   
+> C. 2 5 2 6 2 7 + + −
+>   
+> D. 1 E. 2 7 1 −
+
+**Answer:** B
+[[src_kangourou_2002_junior__Q11]]

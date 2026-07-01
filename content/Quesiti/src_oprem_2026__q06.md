@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2026 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2026__Q06
 parent: src_oprem_2026
 competition: Olympiades Nationales de Mathématiques (Première) 2026
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exercise 1, Q6: harmonic sums H_n, binary weight, H_n never integer for n>=2*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LLPTi5ufMEDVFp1I29WzXWLiM0F8_rKH/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esercizio 1, Q6: somma armonica H_n, peso binario, H_n mai numero intero per n>=2*
+
+> Esercizio 1 (tutti i candidati) - Somme armoniche. Per $n$ un intero naturale, $n \ge 1$, si calcola la somma (chiamata armonica) $H_n = 1 + \frac{1}{2} + \frac{1}{3} + \cdots + \frac{1}{n}$. Quindi $H_1 = 1$, $H_2 = 1 + \frac{1}{2} = \frac{3}{2}$, $H_3 = 1 + \frac{1}{2} + \frac{1}{3} = \frac{11}{6}$. (a) giustificare tale $H_4 = \frac{25}{12}$. b) Proporre un codice in Python che permetta di ottenere $H_n$ per qualsiasi numero intero naturale $n \ge 1$. (c) Si chiama peso binario la potenza più grande di due apparsi tra i termini da sommare. Quindi il peso binario di $H_2$ è $\frac{1}{2}$, quello di $H_3$ anche; il peso binario di $H_8$ è $\frac{1}{8}$, quello di $H_9, H_{10}, \dots, H_{15}$ anche, ecc. Qual è il peso binario di < MSK15/>? Of $H_8$? Of $H_{20}$? (d) Si osserva, dopo alcuni tentativi, che i valori di $H_n$ non sembrano mai essere numeri interi non appena $n \ge 2$. dimostrarlo con l'aiuto, in particolare, del peso binario di < MSK20/>.
+
+**Risposta:** H_4 = 25/12
+[[src_oprem_2026__Q06]]

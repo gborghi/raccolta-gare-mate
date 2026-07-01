@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2025_n1_fx__Q04
 parent: src_obm_2025_n1_fx
 competition: Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x
@@ -41,6 +42,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Supersum S(N): sum of all distinct numbers formed by the orderings of the digits of N. Find a multiple of 9 with S(N) a multiple of 9, prove the implication, and find the smallest N with S(N) a multiple of 2025.*
 
@@ -59,3 +62,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BAsW5wUtp8e4eUtIjSrr-GeYtmuXz4Ok/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Supersum S(N): somma di tutti i numeri distinti formati dall'ordine delle cifre di N. Trova un multiple di 9 con S(N) un multiple di 9, prova l'implicazione, e trova il più piccolo N con S(N) un multiple di 2025.*
+
+> Chiameremo la *supersum* di un intero positivo $N$ la somma di tutti i numeri formati dall'ordine dei numeri di $N$. Indicheremo la supersumma con $S(N)$. Ad esempio, se $N=\overline{AB}$ ha i numeri $A$ e $B$ (con $A\neq 0$), allora la somma di $N$ è $S(N)=AB+BA$; se $N=\overline{ABC}$ ha i numeri $A$, $B$ e $C$ (con $A\neq 0$), allora la somma di $N$ è $S(N)=ABC+ACB+BAC+BCA+CAB+CBA$. Si noti che quando $N$ ha cifre ripetute facciamo possibile tutti gli ordini finché formano numeri distinti. Ad esempio, $100$ ha la supersomma $S(100)=100+010+001=111$ e $111$ ha la supersomma $S(111)=111$. Si noti che possiamo anche considerare $N=010$ con tre cifre significative, ma per $N$ di avere tre cifre significative, $010$ non è consentito; la supersomma è definita per $N$ diversa da zero.
+> 
+> (a) Trovare un numero $N$ multiple di $9$, con supersomma $S(N)$ anche un multiple di $9$.
+> 
+> b) dimostrare che se $N$ è un multiple di $9$, allora $S(N)$ è anche un multiple di $9$.
+> 
+> (c) Qual è il più piccolo intero positivo $N$ tale che $S(N)$ sia un multiple di $2025$?
+
+[[src_obm_2025_n1_fx__Q04]]

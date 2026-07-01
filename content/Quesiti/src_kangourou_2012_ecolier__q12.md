@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Ecolier (gara marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_ecolier__Q12
 parent: src_kangourou_2012_ecolier
 competition: Kangourou 2012 Ecolier (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo dolcetti decorati sia con uvetta sia con noci*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum sweets decorated with both grapes and nuts< MSK1/>
+
+> Grandma made 20 candy for her grandchildren. He decorated some with grapes, some with nuts, and some with both grapes and nuts: first, he put grapes on 15 sweets, then he put nuts on 15 sweets. How many must be the candy decorations with both grapes and nuts? A) 4 B) 5 C) 6 D) 8 E) 10
+
+**Answer:** E
+[[src_kangourou_2012_ecolier__Q12]]

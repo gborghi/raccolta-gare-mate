@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q06
 parent: src_kangourou_2016_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2016 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo canestri per Cantu per vincere (96-83)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AmqdvgZVEwczaExdEeD0t4IQIsBaAuB7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum canisters for singing to win (96-83)
+
+> Canestri In a basketball game, Milan defeated Cantù by 96 to 83. Knowing that the baskets made can be worth 1 or 2 or 3 points, what is the minimum number of baskets Cantù would have had to make to win?
+
+**Answer:** 5
+[[src_kangourou_2016_squadre_ecolier_f__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2021 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_automne__Q06
 parent: src_canimath_2021_automne
 competition: Coupe Animath Automne 2021
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle, constructed circle intersections, show Z on perpendicular bisector of BC*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto, intersezioni a cerchio costruite, mostrare Z sul bisettore perpendicolare di BC*
+
+> Che $ABC$ sia un triangolo con tutti gli angoli acuti e tale che $AB > BC$ e $AC > BC$. Il punto $X$ deve essere il punto della metà della linea $[BC)$ in modo tale che $BX = BA$. Il punto $Y$ deve essere il punto della semilinea $[BA)$ in modo tale che $BY = BC$. Il punto $P$ deve essere il punto distinto da $A$ sulla semilinea $[AX)$ in modo tale che $CP = CA$. Il punto $Q$ deve essere il punto distinto da $A$ sulla semilinea $[AY)$ in modo tale che $BQ = BA$. Supponiamo che le linee $(BQ)$ e $(CP)$ si incontrino in un punto $Z$. Indicare che $Z$ si trova sul bisettore perpendicolare di $[BC]$.
+
+[[src_canimath_2021_automne__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q05
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti triangoli in figura con linee che si intersecano*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 7
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many triangles in the figure with intersecting lines*
+
+> How many triangles do you see in the figure?
+
+![[src_bocconi_primavera_2008__Q05.png]]
+
+**Answer:** 7
+[[src_bocconi_primavera_2008__Q05]]

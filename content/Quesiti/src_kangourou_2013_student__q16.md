@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q16
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soluzioni di f(f(f(x)))=0 dal grafico*
 
@@ -73,3 +76,46 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Solutions of f(f(x)))=0 from the graph*
+
+![[src_kangourou_2013_student__prob16.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.7]
+  \draw[->] (-5.5,0) -- (5.5,0) node[right] {$x$};
+  \draw[->] (0,-2.5) -- (0,5.5) node[above] {$y$};
+  \foreach \x in {-4,-2,2,4} {
+    \draw (\x,0.08) -- (\x,-0.08);
+    \node[below, font=\small] at (\x,0) {$\x$};
+  }
+  \foreach \y in {2,4} {
+    \draw (0.08,\y) -- (-0.08,\y);
+    \node[left, font=\small] at (0,\y) {$\y$};
+  }
+  \draw[thick] (-5.2,-1.2) -- (-2,2);
+  \draw[thick] (-2,2) -- (0,0);
+  \draw[thick] (0,0) -- (4.8,4.8);
+  \draw[dashed] (-2,0) -- (-2,2) -- (0,2);
+  \draw[dashed] (4,0) -- (4,4) -- (0,4);
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure you see the graph of a real function f defined over the entire real axis, which is made up of two semirettes and a segment that connects them. How many distinct solutions does the equation f (f (f (x))) = 0 have ? A) 4
+> 	
+> B) 3
+> 	
+> C) 2
+>          
+> D) 1
+> 	
+> E) 0
+
+**Answer:** A
+[[src_kangourou_2013_student__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012__Q05
 parent: src_cesenatico_2012
 competition: Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *luogo dei punti P con angAPB+angCPD=180*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** diagonali e archi della circoscritta
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BVUN2Bz52Jm2vo9MCNXxGskJnttPAfkt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*place of P points with angAPB+angCPD=180*
+
+> Let ABCD be a square. Describe the location of P points of the plane other than A, B, C, D for which \ APB + \ CPD = 180o.
+
+**Answer:** diagonali e archi della circoscritta
+[[src_cesenatico_2012__Q05]]

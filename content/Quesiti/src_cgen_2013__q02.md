@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2013 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2013__Q02
 parent: src_cgen_2013
 competition: Concours Général des Lycées 2013 — Matematica
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Skew lines and transversals in space; a quadric surface S given by xy+yz+zx-(x+y+z)+1=0 containing three cube edges D1,D2,D3; lines meeting S in 0,1,2 points; transversals to four lines.*
 
@@ -58,3 +61,27 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pq6bo-6oCLQunkq5bIb1Od_s6bhLIKzO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gli sottili e le trasversali nello spazio; una superficie quadrica S data da xy+yz+zx-(x+y+z)+1=0 contenente tre bordi cubi D1,D2,D3; linee che incontrano S in 0,1,2 punti; le trasversali a quattro linee.*
+
+> Problema 2: Pinta un quadrupingle.
+> 
+> **1.** nello spazio, $D_1, D_2$ siano due linee non coplanari e $M$ sia un punto che non appartiene né a $D_1$ né a $D_2$. Indicare che esiste almeno una linea che attraversa $M$ e taglia sia $D_1$ che $D_2$. In quale caso non esiste?
+> 
+> Se lo spazio è dotato di una cornice ortonormale, $ABCDEFGH$ deve essere il cubo le cui vertici hanno le coordinate $A(0,0,0)$, $B(1,0,0)$, $C(1,1,0)$, $D(0,1,0)$, $E(0,0,1)$, $F(1,0,1)$, $G(1,1,1)$, $H(0,1,1)$. Le linee $D_1, D_2$ e $D_3$ sono rispettivamente $(EF)$, $(BC)$ e $(DH)$. Infine, $\mathscr{S}$ sia l'insieme di punti con coordinate $M(x,y,z)$ in modo tale che: $$xy + yz + zx - (x + y + z) + 1 = 0$$
+> 
+> **2.** Indicare una rappresentazione parametrica di ciascuna delle linee $D_1, D_2$ e $D_3$.
+> 
+> < MSK3/>3.< MSK4/> Indicare che le righe < MSK0/> e < MSK1/> sono contenute in < MSK2/>.
+> 
+> **4.** Indicare che ogni linea di spazio non contenuta in $\mathscr{S}$ incontra $\mathscr{S}$ nei punti $0$, $1$ o $2$.
+> 
+> **5.** Deduce che ogni linea che taglia le linee $D_1, D_2$ e $D_3$ è contenuta in $\mathscr{S}$.
+> 
+> **6.** $D_4$ deve essere una riga che non risponde a nessuna delle linee $D_1, D_2, D_3$ e non è contenuta in $\mathscr{S}$. Mostrare che esistono al massimo due linee di spazio che tagliano le quattro linee $D_1, D_2, D_3, D_4$.
+
+[[src_cgen_2013__Q02]]

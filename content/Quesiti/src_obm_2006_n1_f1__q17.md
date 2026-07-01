@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q17
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find Neto's age in 2006 from sum of birth years*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ricerca l'età di Neto nel 2006 dalla somma degli anni di nascita< MSK1/>
+
+> Alla fine del 1994, Neto aveva la metà dell'età di sua nonna. La somma dei loro anni di nascita è di 3844. Quanti anni compie Neto nel 2006?
+>
+> - **(A)** 55
+> - **(B)** 56
+> - **(C)** 60
+> - **(D)** 62
+> - **(E)** 108
+
+**Risposta:** C
+[[src_obm_2006_n1_f1__Q17]]

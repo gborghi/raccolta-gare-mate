@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q16
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli non congruenti con vertici in poligono di 144 lati*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1728
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Non-conforming triangles with 144 side polygon vertices*
+
+> Jack Disparrow's delirium finally failed to escape the Cramer, who fucked him up with all the True Pearl. Now, a prisoner beyond the Perimeter of the World, he's a victim of hallucinations. From the tree the master of the Pearl of Truth looks down and sees 144 rocky crabs that begin to move by positioning themselves at the tops of a regular polygon of 144 sides. Still in the midst of hallucinations one wonders how many non-conforming triangles have vertices in the vertices of the polygon. What's the answer? (Remember that in particular symmetrical triangles with respect to a straight line are congruent.)
+
+**Answer:** 1728
+[[src_gas_2010_finale__Q16]]

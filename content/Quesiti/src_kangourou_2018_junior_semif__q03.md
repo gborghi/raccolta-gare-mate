@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Junior — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q03
 parent: src_kangourou_2018_junior_semif
 competition: Kangourou 2018 Semifinale Junior
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *triangolo equilatero, quadrato o cerchio*
 
@@ -68,3 +71,33 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17csch1-7f-cVvjGdqKXJQd6PNOelNdNG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*equilateral triangle, square or circle*
+
+![[src_kangourou_2018_junior_semif__prob3.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[x=0.5cm,y=0.5cm]
+  % Squared paper: 11 columns (0..10), 5 rows (0..4), y increases upward
+  \draw[gray, thin] (0,0) grid (10,4);
+  % B=(col 3, row 0 from top) => tikz (3,4)
+  % C=(col 6, row 0 from top) => tikz (6,4)
+  % A=(col 2, row 3 from top) => tikz (2,1)
+  % D=(col 8, row 3 from top) => tikz (8,1)
+  \filldraw (3,4) circle[radius=2.5pt] node[below right, font=\small] {$B$};
+  \filldraw (6,4) circle[radius=2.5pt] node[below right, font=\small] {$C$};
+  \filldraw (2,1) circle[radius=2.5pt] node[below right, font=\small] {$A$};
+  \filldraw (8,1) circle[radius=2.5pt] node[below right, font=\small] {$D$};
+\end{tikzpicture}
+\end{document}
+```
+
+> (Points 3) The four points A, B, C and D are marked on a square sheet of paper (see section below). Henry wants to identify a figure that is either an equilateral triangle, or a square, or a circle whose edge passes through all four points. So the figure can be A) either an equilateral triangle or a square, but not a circle. (b) a square, but not an equilateral triangle or a circle. (c) is a square or a circle, but not an equilateral triangle. (d) any of the following: (e) none of those listed.
+
+**Answer:** A
+[[src_kangourou_2018_junior_semif__Q03]]

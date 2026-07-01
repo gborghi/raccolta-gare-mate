@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q26
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza tra i due punti piu lontani su retta*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance between the two most distant points on a straight line*
+
+> A, B, C and D shall be drawn on a straight line in an unspecified order. You know AB is long 13, BC is long 11, CD is long 14 and DA is long 12. What's the distance between the two most distant points? A) 14 B) 38 C) 50 D) 25 E) None of the above.
+
+**Answer:** D
+[[src_kangourou_2008_benjamin_marzo__Q26]]

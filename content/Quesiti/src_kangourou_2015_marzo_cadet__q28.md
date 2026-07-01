@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q28
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *max tentativi*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>max attempts< MSK1/>
+
+> 28. Yesterday, I wrote down the phone number of my friend Luca. The number I wrote has six digits, but I remember Luke telling me the number is seven digits. I don't know what number I forgot to write down, or what position it might be in. If I'm going to be able to call Luca, how many attempts do I have to make? (Note: a telephone number may start with any number, including 0.) A) 55 B) 60 C) 64 D) 70 E) 80
+
+**Answer:** C
+[[src_kangourou_2015_marzo_cadet__Q28]]

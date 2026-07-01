@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q03
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Numbered triangular faces of a solid; count placements with distinct visible faces.*
 
@@ -58,3 +61,21 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Facce triangolari numerate di un solido; posizioni di conteggio con facce visibili distinte.*
+
+> Le quattro facce di un solido sono triangoli equilaterali, numerati da $1$ a $4$, come nella figura. Colorazione di due facce blu e di altre due gialle, in quanti modi diversi possono essere colorati i facci in modo che due facce dello stesso colore non abbiano un margine comune? (Il solido può essere girato in modo che uno dei numeri rimanga sotto, cioè In quanti modi è possibile?
+>
+> - **(A)** $12$
+> - **(B)** $14$
+> - **(C)** $17$
+> - **(D)** $18$
+> - **(E)** $19$
+
+![[src_obm_2010_n3_f1__Q03.png]]
+
+[[src_obm_2010_n3_f1__Q03]]

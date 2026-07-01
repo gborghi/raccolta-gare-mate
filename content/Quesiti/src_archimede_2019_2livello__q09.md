@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2019 - 2° livello — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_2livello__Q09
 parent: src_archimede_2019_2livello
 competition: Archimede Gara di Febbraio 2019 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Equazione tra polinomi, proprietà certa*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Equation between polynomials, certain property*
+
+> Marcella, playing, finds by chance two polynomials p(x) and q(x), non-constant and integer coefficients, verifying the relationship: p(q(x + 1)) = p(x3)q(x + 1)5. What can we say with certainty about the two polynomials found by Marcella?
+>
+> - **(A)** The direct coefficient of p(x) q(x) is positive
+> - **(B)** The polynomial q(x) does not have whole roots
+> - **(C)** The degree of q(x) does not exceed that of p(x)
+> - **(D)** The sum of the coefficients of p(x) is odd
+> - **(E)** The degree of p (x) q (x) is multiple of 8.
+
+**Answer:** E
+[[src_archimede_2019_2livello__Q09]]

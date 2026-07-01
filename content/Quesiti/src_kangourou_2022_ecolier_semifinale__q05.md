@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier semifinale individuale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_semifinale__Q05
 parent: src_kangourou_2022_ecolier_semifinale
 competition: Kangourou 2022 Ecolier semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali timbri forniscono la scritta corretta*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which stamps give the correct spelling*
+
+![[src_kangourou_2022_ecolier_semifinale__prob5.png]]
+
+> (4 points) Palloni Gonfiati has ordered a stamp bearing his name. The figure shows five stamps that were delivered to her, but, by mistake, not all of them in contact with the paper provide the desired writing, which is precisely Palloni Gonfiati. Which of the five do? A) Only five. B) Only one. C) Only 2 and 5. D) Only 3 and 4. E) Only four and five.
+
+**Answer:** D
+[[src_kangourou_2022_ecolier_semifinale__Q05]]

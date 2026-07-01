@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2010 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2010__Q09
 parent: src_bocconi_semifinale_2010
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2010
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Decoupage: dividere figura in due pezzi sovrapponibili*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (vedere figura nella soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Decoupage: divide the figure into two overlapping pieces*
+
+> Divide the figure (following the lines drawn) into two overlapping pieces. Warning: one of the two pieces may be overturned.
+
+![[src_bocconi_semifinale_2010__Q09.png]]
+
+**Answer:** (vedere figura nella soluzione)
+[[src_bocconi_semifinale_2010__Q09]]

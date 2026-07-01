@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2026_semifinale_cd__Q12
 parent: src_squadre_2026_semifinale_cd
 competition: Gara a Squadre 2026 - Semifinale 2 (nazionale)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di n con Kn=4096 successione geometrica*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0034
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of n with Kn=4096 geometric sequence*
+
+> Among the bad Giuseppe Mascellani The worst mathematician of all time, The One-who-can-not-be-proven, heads the loyalty of his followers by proposing the following question. Given a positive integer a, it defines K0 = 1 and, for each n ≥0, Kn+1 = Kn +aKn−1 +...+anK0. He then asks to determine the sum of all positive integers n so it's possible that Kn = 4096. What must followers say to save lives?
+
+**Answer:** 0034
+[[src_squadre_2026_semifinale_cd__Q12]]

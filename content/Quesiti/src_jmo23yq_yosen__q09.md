@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo23yq_yosen__Q09
 parent: src_jmo23yq_yosen
 competition: Japan Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divisors of 10^2013-1 between 1 and 100*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1, 3, 9, 27, 37, 67
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dMCin6mfKEWYPJJU3SDEXt5-U6UwypUB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*divisioni di 10^2013-1 tra 1 e 100*
+
+> Trova tutti i divisori di $10^{2013} - 1$ che sono almeno $1$ e al massimo $100$.
+
+**Risposta:** 1, 3, 9, 27, 37, 67
+[[src_jmo23yq_yosen__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q02
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero divisori dell'mcm dei naturali da 1 a 30*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7680
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of natural mcm dividers from 1 to 30*
+
+> FRY RIVAL wakes up in 2999. When he opens his eyes he realizes that he is in a lab with a strange being with only one eye who asks him a burning question: Consider the smallest number divisible by all natural numbers from 1 to 30. How many of his positive divisors are there?
+
+**Answer:** 7680
+[[src_squadre_2018_femminile__Q02]]

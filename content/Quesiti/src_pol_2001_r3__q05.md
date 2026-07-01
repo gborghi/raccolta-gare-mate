@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2001 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2001_r3__Q05
 parent: src_pol_2001_r3
 competition: Olimpiade Matematica Polacca 2001 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In parallelogram ABCD, K on BC and L on CD with BK*AD=DL*AB; DK and BL meet at P. Prove angle DAP = angle BAC.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NdQKIsmLWVns4DWiT4Xy-7m3Ys5L9SOW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Nel parallelogramma ABCD, K su BC e L su CD con BK< MSK1/>AD=DL< MSK2/>AB; DK e BL si incontrano a P. Indicare l'angolo DAP = angolo BAC.
+
+> I punti $K$ e $L$ sono presi sui lati $BC$ e $CD$ di un parallelo $ABCD$, rispettivamente, in modo tale che $BK \cdot AD = DL \cdot AB$. I segmenti $DK$ e $BL$ si incontrano al punto $P$. Prove che $\angle DAP = \angle BAC$.
+
+[[src_pol_2001_r3__Q05]]

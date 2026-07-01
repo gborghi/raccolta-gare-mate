@@ -1,6 +1,7 @@
 ---
 title: Japan EGMO Selection / Girls MO 2026 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jgmo1q__Q03
 parent: src_jgmo1q
 competition: Japan EGMO Selection / Girls MO 2026
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer pairs (m,n) with 2^m = 8n^4 + n^2 - 1*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1180ckG5q7aatjERi-5y5rzura8yZ7JXZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di integri positivi (m,n) con 2^m = 8n^4 + n^2 - 1*
+
+> Trova tutte le coppie $(m, n)$ di numeri interi positivi che soddisfano $$2^m = 8n^4 + n^2 - 1.$$
+
+[[src_jgmo1q__Q03]]

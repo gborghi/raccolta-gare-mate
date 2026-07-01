@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q02
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Width of equal side strips covering 20% of a rectangular plot*
 
@@ -45,3 +48,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'ampiezza delle strisce laterali uguali che coprono il 20% di un'area rettangolare*
+
+> Il padre di Esmeralda ha acquistato un terreno rettangolare di $120$ metri di lunghezza e $80$ metri di larghezza. A causa delle leggi ambientali, deve piantare alberi su $20\%$ della terra. Decise di usare strisce, della stessa larghezza, lungo i lati laterali del terreno, come mostra la figura. Qual è questa larghezza?
+> 
+> (A) $6\,\text{m}$ \quad (B) $8\,\text{m}$ \quad (C) $10\,\text{m}$ \quad (D) $16\,\text{m}$ \quad (E) $24\,\text{m}$
+
+![[src_obm_2011_n2_f1__Q02.png]]
+
+[[src_obm_2011_n2_f1__Q02]]

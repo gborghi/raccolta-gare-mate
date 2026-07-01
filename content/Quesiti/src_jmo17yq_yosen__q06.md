@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo17yq_yosen__Q06
 parent: src_jmo17yq_yosen
 competition: Japan Mathematical Olympiad 2007 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distinct sums achievable by selecting cards numbered 1 to 15*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 120
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare somme distinte raggiungibili selezionando carte numerate da 1 a 15*
+
+> Ci sono carte $15$, ciascuna con un numero intero distinto scritto su di essa, una da ciascuna di $1, 2, \ldots, 15$. Si selezionano una o più carte e si sommano i numeri. Quanti valori distinti può contenere questa somma?
+
+**Risposta:** 120
+[[src_jmo17yq_yosen__Q06]]

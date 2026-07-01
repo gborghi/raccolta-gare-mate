@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f3__Q02
 parent: src_obm_2005_n1_f3
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count right triangles with legs parallel to grid edges on a 5x5 board*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rXvMl_8euzqRpkl9LTmc656w0mM0pHYd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i triangoli rettangolari con gambe parallele ai bordi della griglia su una tabella 5x5*
+
+> Su una tabella quadrata $5 \times 5$, saranno posizionati tre pulsanti identici, ciascuno al centro di una cella, determinando un triangolo.
+> 
+> In quanti modi possono essere posizionati i pulsanti formando un triangolo rettangolo le cui gambe sono parallele ai lati della tavola?
+> 
+> Un triangolo rettangolo è qualsiasi triangolo che abbia un angolo $90^\circ$. I lati che formano questo angolo sono chiamati gambe (catetos).
+
+[[src_obm_2005_n1_f3__Q02]]

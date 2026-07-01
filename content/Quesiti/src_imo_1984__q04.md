@@ -1,6 +1,7 @@
 ---
 title: IMO 1984 (25th International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1984__Q04
 parent: src_imo_1984
 competition: IMO 1984 (25th International Mathematical Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tangent circle on AB diameter iff BC parallel AD*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hddGpriFfJ9QXK1JRJNBQA3ykv770Ola/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tangent circle on AB diameter iff BC parallel AD*
+
+> Let $ABCD$ be a convex quadrilateral such that the line $CD$ is a tangent to the circle on $AB$ as diameter. Prove that the line $AB$ is a tangent to the circle on $CD$ as diameter if and only if the lines $BC$ and $AD$ are parallel.
+
+[[src_imo_1984__Q04]]

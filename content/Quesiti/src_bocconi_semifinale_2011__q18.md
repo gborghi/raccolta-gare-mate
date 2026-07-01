@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2011 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2011__Q18
 parent: src_bocconi_semifinale_2011
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2011
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di mosse per portare un solo gettone alla casella 2011.*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5362 mosse
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of moves to bring a single token to box 2011.*
+
+> It consists of an unlimited strip of numbered boxes: 0,1,2,3 ... . There is also an unlimited number of tokens and, in turn, each box can contain an unlimited number of tokens. At the beginning of the game, however, there is only one token placed in the box with the number 1. Two types of moves are possible: you 'double' a token (not in the box with the number 0) by replacing it with two tokens placed in the adjacent boxes (one to its left, one to its right); you remove a token, 'group' two and replace them with a token placed in the only box between the two. You win when you can get a single token, and that's in the box with the number 2011. How many moves, at least, can you win? (you answer 0 if you think the question is impossible).
+
+**Answer:** 5362 mosse
+[[src_bocconi_semifinale_2011__Q18]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2012 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2012__Q11
 parent: src_bocconi_squadre_2012
 competition: Gara a Squadre 2012
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di operazioni per arrivare da 1 a 2000*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of operations to reach 1 to 2000*
+
+> **What is the minimum number of operations required to get from $1$ to $2000$, given a particularly poor arithmetic where you can only add $1$ and multiply by $3$?
+> 
+> **What is the minimum number of operations needed to get from 1 to 2000 and multiply by 3?**
+
+**Answer:** 13
+[[src_bocconi_squadre_2012__Q11]]

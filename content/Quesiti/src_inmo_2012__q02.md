@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2012 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2012__Q02
 parent: src_inmo_2012
 competition: Indian National Mathematical Olympiad 2012
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two prime sets with equal span 8; prove 30 divides difference of smallest elements*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Yo2mg-kxvVgZBQrmg9vQdyiD2EizSWJt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due serie prime con spazio uguale 8; dimostrare 30 divide la differenza degli elementi più piccoli*
+
+> Che $\{p_1, p_2, p_3, p_4\}$ sia un sottoinsieme di $\{p_1, p_1+2, p_1+4, p_1+6, p_1+8\}$ e $\{q_1, q_2, q_3, q_4\}$ sia un sottoinsieme di $\{q_1, q_1+2, q_1+4, q_1+6, q_1+8\}$ siano due set di numeri primi come $p_4 - p_1 = 8$ e $q_4 - q_1 = 8$. Supponiamo $p_1 > 5$ e $q_1 > 5$. Provare che $30$ divide $p_1 - q_1$.
+
+[[src_inmo_2012__Q02]]

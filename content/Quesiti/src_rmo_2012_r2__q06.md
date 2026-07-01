@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Region 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_r2__Q06
 parent: src_rmo_2012_r2
 competition: Regional Mathematical Olympiad 2012
@@ -32,6 +33,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show x^3y+y^3z+z^3x is constant given two linear conditions*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1O1FDigJNhO9Zlam3ioTuOXoyYqoOZxhF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra che x^3y+y^3z+z^3x è costante dato due condizioni lineari*
+
+> Indicare che per tutti i numeri reali $x, y, z$ tali che $x + y + z = -3$ e $xy + yz + zx = -3$, l'espressione $x^3 y + y^3 z + z^3 x$ è una costante.
+
+[[src_rmo_2012_r2__Q06]]

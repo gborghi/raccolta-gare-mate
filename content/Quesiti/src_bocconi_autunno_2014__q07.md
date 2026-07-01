@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2014 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2014__Q07
 parent: src_bocconi_autunno_2014
 competition: Giochi d'Autunno 2014
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di facce visibili di un solido su tavolo*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PloiPSpf4_9YADREFtliPjnhVrdcFhjI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of visible faces of a table solid*
+
+> In the figure, you see a solid that, when resting on a table, has all its faces (flat) horizontal or vertical. How many faces does this solid have, at least?
+
+![[src_bocconi_autunno_2014__Q07.png]]
+
+**Answer:** 10
+[[src_bocconi_autunno_2014__Q07]]

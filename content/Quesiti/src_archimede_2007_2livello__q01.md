@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_2livello__Q01
 parent: src_archimede_2007_2livello
 competition: Archimede Gara 2° livello 2007 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizioni di Q per triangolo APQ simile all'isoscele ABC*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Q positions for an APQ triangle similar to the ABC isosceles*
+
+> In an ABC isosceles triangle with AC = BC  = AB, a point P is fixed on the base AB. How many positions can a point Q occupy in the plane if we want points A, P and Q, taken in any order, to be the vertices of a triangle similar to ABC?
+>
+> - **(A)** 0
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 6.
+
+**Answer:** E
+[[src_archimede_2007_2livello__Q01]]

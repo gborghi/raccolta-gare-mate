@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n1_f1__Q07
 parent: src_obm_2008_n1_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Class of 22 boys and 18 girls; 60% do community work; minimum from boys*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jS9AjIezsp0MUxDiEgVpS7k3MJ9uT3_v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Classe di 22 ragazzi e 18 ragazze; il 60% fa lavoro comunitario; minimo da ragazzi< MSK1/>
+
+> Una classe ha 22 maschi e 18 femmine. Durante le vacanze, $60\%$ di tutti gli studenti della classe svolgono attività comunitarie. Almeno quanti studenti maschi partecipano a questo lavoro?
+> 
+> A) 1 $\quad$ B) 4 $\quad$ C) 6 $\quad$ D) 6 $\quad$ E) 8
+
+**Risposta:** B
+[[src_obm_2008_n1_f1__Q07]]

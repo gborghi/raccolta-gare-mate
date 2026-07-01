@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f2__Q05
 parent: src_obm_2016_n2_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ways to earn exactly 15 points in 7 soccer games*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pMNbGFlrYDlG-OKHRMZRxFDZCNFl1iD6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Come guadagnare esattamente 15 punti in 7 partite di calcio
+
+> Nel Super Bola, una nuova partita di calcio, il giocatore compete in stagioni. Ogni stagione è composta da sette partite, e in ogni partita un giocatore può guadagnare $3$ punti per una vittoria, $1$ punto per un pareggio, o $0$ punti per una sconfitta. In quanti modi diversi un giocatore può guadagnare esattamente < MSK3/> punti in una stagione?
+
+[[src_obm_2016_n2_f2__Q05]]

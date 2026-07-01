@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q29
 parent: src_kangourou_2016_marzo_benjamin
 competition: Kangourou 2016 gara 17 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *risultato impossibile*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1nld6l3RD6emhTglIXueL7F2OJGTBOKRG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>outcome not possible< MSK1/>
+
+> Samuel's playing with the calculator. Start with number 12 and multiply or divide (if possible) by 2 or by 3, 60 times in a row. Which of the following results cannot be achieved? A) 12
+> 	
+> B) 18
+> 	
+> C) 36
+> 	
+> D) 72
+> 	
+> E) 108
+
+**Answer:** C
+[[src_kangourou_2016_marzo_benjamin__Q29]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f2__Q06
 parent: src_obm_2011_n1_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count brothers of 60 that are less than 1000*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Conta fratelli di 60 anni che sono inferiori a 1000< MSK1/>
+
+> Diciamo che due o più numeri sono fratelli quando hanno esattamente gli stessi fattori primi. Ad esempio, $10 = 2 \times 5$ e $20 = 2^2 \times 5$ sono fratelli, poiché $2$ e $5$ sono i loro unici fattori primari. Il numero $60$ può avere fratelli inferiori a $1000$. Quanti fratelli hanno meno di $1000$ $60$?
+
+[[src_obm_2011_n1_f2__Q06]]

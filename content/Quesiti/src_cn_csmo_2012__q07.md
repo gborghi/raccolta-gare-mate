@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2012 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2012__Q07
 parent: src_cn_csmo_2012
 competition: China Southeastern Mathematical Olympiad 2012
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In triangle with angle bisector and perpendicular foot, find angle AME*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $90^\circ$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nel triangolo con angolo bisettore e piede perpendicolare, trovare angolo AME*
+
+> In $\triangle ABC$ con $AB = 1$, $D$ deve essere un punto su $AC$ tale che $\angle ABD = \angle C$ e $E$ deve essere un punto su $AB$ tale che $BE \perp DE$. Il $H$ deve essere un punto su $DE$ in modo tale che $AH \perp DE$ e $M$ siano il punto medio di $CD$. Trova il valore di < MSK13/>. (Posizionato da Xiong Bin)
+
+![[src_cn_csmo_b11_w301__Q07.png]]
+
+**Risposta:** $90^\circ$
+[[src_cn_csmo_2012__Q07]]

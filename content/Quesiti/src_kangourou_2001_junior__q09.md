@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Junior (15 marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_junior__Q09
 parent: src_kangourou_2001_junior
 competition: Kangourou 2001 - Junior (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre del minimo numero con 0 e 1 divisibile 225*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number with 0 and 1 divisible by 225*
+
+> How many digits does the decimal representation of the smallest positive integer that can be written using the only digits 0 and 1, and that is divisible by 225 contain?
+>
+> - **(A)** 10
+> - **(B)** 11
+> - **(C)** 12
+> - **(D)** 13
+> - **(E)** 14.
+
+**Answer:** B
+[[src_kangourou_2001_junior__Q09]]

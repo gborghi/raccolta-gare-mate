@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2020 - 2° livello — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_2livello__Q02
 parent: src_archimede_2020_2livello
 competition: Archimede Gara di Febbraio 2020 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Gioco alla lavagna, affermazione sempre vera*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Game of thrones, always true *
+
+> Alberto and Barbara write numbers on the board. Alberto leaves and writes the real number x. Then Barbara writes number one. The two then alternate, and each turn they write a number. Albert in his turn multiplies the last number written for x2 and writes the result. Barbara in her turn sums up the last number written x + 1 and writes the result. They stop when they have 2020 numbers written on the board. Which of the following statements is always true? (A) There is at least one negative number written on the board (B) All numbers written on the board are positive (C) Alberto wrote only positive numbers (D) Alberto wrote only negative numbers (E) Barbara wrote only positive numbers
+
+**Answer:** E
+[[src_archimede_2020_2livello__Q02]]

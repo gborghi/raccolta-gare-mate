@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q17
 parent: src_kangourou_2016_marzo_benjamin
 competition: Kangourou 2016 gara 17 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti giorni*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1nld6l3RD6emhTglIXueL7F2OJGTBOKRG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many days< MSK1/>
+
+> Ophelia bought cat food to feed her four cats for 12 days. On his way home, he found two stray cats and brought them home. If you give each cat the same food ration every day as when it made the purchase, how many days will the stock last? A) 8
+> 	
+> B) 7
+> 	
+> C) 6
+> 	
+> D) 5
+> 	
+> E) 4
+
+**Answer:** A
+[[src_kangourou_2016_marzo_benjamin__Q17]]

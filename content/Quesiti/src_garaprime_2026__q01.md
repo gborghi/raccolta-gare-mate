@@ -1,6 +1,7 @@
 ---
 title: XI Gara Nazionale Classi Prime 2026 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2026__Q01
 parent: src_garaprime_2026
 competition: XI Gara Nazionale Classi Prime 2026
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto di tutti i divisori di 1024^3*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1F8eBxLs4bDWlyZJGhjIxQLaCXc18EKrk/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Products of all 1024^3 dividers < MSK1/>
+
+> Teacher Scaldasedia, in order not to give a lesson, assigns her students to do a calculation in class that she thinks is long enough to fill in all the time: find the product of all the divisors of 10243, including 1 and 10243. To her great surprise, after a few minutes, her best student brings her the drawer with the correct result written on it. What is the result?
+>
+> - **(A)** 291
+> - **(B)** 2465
+> - **(C)** 2990
+> - **(D)** 2900
+> - **(E)** 2450
+
+**Answer:** B
+[[src_garaprime_2026__Q01]]

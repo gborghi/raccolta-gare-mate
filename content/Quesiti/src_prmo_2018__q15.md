@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q15
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Natural numbers a,b with 2a-b, a-2b, a+b all distinct perfect squares, find minimum b*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 20
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri naturali a,b con 2a-b, a-2b, a+b tutti quadrati perfetti distinti, trovare minimo b*
+
+> Che $a$ e $b$ siano numeri naturali in modo tale che $2a - b$, $a - 2b$ e $a + b$ siano tutti quadrati distinti. Qual è il minimo valore possibile di $b$?
+
+**Risposta:** 20
+[[src_prmo_2018__Q15]]

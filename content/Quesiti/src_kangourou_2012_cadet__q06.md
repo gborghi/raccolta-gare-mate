@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q06
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale espressione invariante sostituendo 8*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which expression is invariant by replacing 8*
+
+> In which of the following expressions can we replace the number 8, every time it occurs, with the same positive number (other than 8) and get the same result? A)  (8 + 8) : 8 + 8 B) 8 ⋅(8 + 8) : 8 C) 8 + 8 – 8 + 8 D)  (8 + 8 – 8) ⋅8 E) (8 + 8 – 8) : 8
+> 
+> I'm going to pay. I'm going to pay. 17 17 Kang 2012 Kang
+
+**Answer:** E
+[[src_kangourou_2012_cadet__Q06]]

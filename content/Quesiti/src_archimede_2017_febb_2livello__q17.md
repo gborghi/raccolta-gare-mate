@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2017 - 2 livello — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_febb_2livello__Q17
 parent: src_archimede_2017_febb_2livello
 competition: Archimede Gara di Febbraio 2017 - 2 livello
@@ -28,6 +29,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *n puo essere solo 0 o 2*
 
@@ -88,3 +91,46 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>n can only be 0 or 2< MSK1/>
+
+![[src_archimede_2017_febb_2livello__prob17.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A0) at (0,0);
+  \coordinate (A1) at (2,0);
+  \coordinate (A2) at (4,0);
+  \coordinate (A3) at (6,0);
+  \coordinate (B0) at (1,1.732);
+  \coordinate (B1) at (3,1.732);
+  \coordinate (B2) at (5,1.732);
+  \coordinate (C0) at (2,3.464);
+  \coordinate (C1) at (4,3.464);
+  \coordinate (D0) at (3,5.196);
+  \draw (A0)--(A3)--(D0)--cycle;
+  \draw (A1)--(B0)--(B2)--(A2);
+  \draw (A1)--(B1)--(A2);
+  \draw (B0)--(C0)--(C1)--(B2);
+  \draw (B1)--(C0); \draw (B1)--(C1);
+  \node at (1.000,0.577) {0};
+  \node at (3.000,0.577) {0};
+  \node at (5.000,0.577) {0};
+  \node at (2.000,1.155) {0};
+  \node at (4.000,1.155) {0};
+  \node at (2.000,2.309) {0};
+  \node at (4.000,2.309) {0};
+  \node at (3.000,2.887) {0};
+  \node at (3.000,4.041) {0};
+\end{tikzpicture}
+\end{document}
+```
+
+> DEMOSTRATIVE EXERCISE An equilateral triangle is divided into 9 triangles as shown in the figure, and the number 0 is initially written on each triangle. Marco, to pass the time, plays the following game: at each move he chooses 2 triangles with one side in common and sums or subtracts 1 from both numbers written on these triangles (it is understood that the operation carried out on the two triangles is the same). After a while you notice that the numbers written on the 9 triangles are, in some order, n, n+1, . . . , n+8, where n is a nonnegative integer. Prove that n can only be 0 or 2. The Commission shall adopt implementing acts in accordance with the procedure referred to in paragraph 1. The cases n = 0 and n = 2 can actually occur, but this claim is not required to be proven.
+
+[[src_archimede_2017_febb_2livello__Q17]]

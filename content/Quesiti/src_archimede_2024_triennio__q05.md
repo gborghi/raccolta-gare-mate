@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Triennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_triennio__Q05
 parent: src_archimede_2024_triennio
 competition: Giochi di Archimede 2024 - Gara Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi k con q(k)=0 per composizione 2024 volte di p(x)*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interi k with q(k) = 0 for composition 2024 times p(x) *
+
+> Philip would like to write in decimal form the fraction 8 13 . What number will take the thousandth place after the comma?
+>
+> - **(A)** 6
+> - **(B)** 1
+> - **(C)** 3
+> - **(D)** 5
+> - **(E)** 8
+
+**Answer:** C
+[[src_archimede_2024_triennio__Q05]]

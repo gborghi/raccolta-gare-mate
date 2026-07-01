@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2006 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2006__Q12
 parent: src_cn_cmc_2006
 competition: China Mathematical Competition 2006
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to fill 4x4 matrix with two a's and two b's*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3960
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i modi per riempire la matrice 4x4 con due a e due b*
+
+> Quattro lettere, due $a$ e due $b$, sono riempite nelle celle $16$ di una matrice come mostrato nella figura. Occorre che ogni riga contenga al massimo una lettera e ogni riga o colonna non può contenere le stesse lettere. Poi ci sono $\underline{\hspace{2cm}}$ diversi modi in cui la matrice può essere riempita. (Si richiede una risposta numerica.)
+
+![[src_cn_b07_w46__Q12.png]]
+
+**Risposta:** 3960
+[[src_cn_cmc_2006__Q12]]

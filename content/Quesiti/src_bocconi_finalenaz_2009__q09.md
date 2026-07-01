@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2009 — Quesito
   9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2009__Q09
 parent: src_bocconi_finalenaz_2009
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2009
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Due numeri naturali con somma 203 che usano tutte le dieci cifre*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 57 , 146
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Two natural numbers with the sum of 203 using all ten digits*
+
+> TEN figures Two natural numbers have the sum of 203. Writing the two numbers, their difference (the largest minus the smallest) and their sum (203) uses the ten digits from 0 to 9, each once. What are the two numbers?
+
+**Answer:** 57 , 146
+[[src_bocconi_finalenaz_2009__Q09]]

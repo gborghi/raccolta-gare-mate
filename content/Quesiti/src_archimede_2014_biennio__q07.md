@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_biennio__Q07
 parent: src_archimede_2014_biennio
 competition: Giochi di Archimede 2014 - Biennio (Testo 1)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo biglie nel distributore con 5 monete*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Oz_wj_o5ytBhbhCTfVi7OLptFspmtFPH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum bags in the dealer with 5 coins< MSK1/>
+
+> At Luna Park, there is a seed distributor with two buttons and a container: the first button puts 16 seed into the container, the second increases the number of seed in the container by 50%. By entering a coin, you can press any of the two buttons. If the container is initially empty, how many bags can you get into the container with 5 coins? (A) 70, (B) 80, (C) 88, (D) 96, (E) 108.
+
+**Answer:** E
+[[src_archimede_2014_biennio__Q07]]

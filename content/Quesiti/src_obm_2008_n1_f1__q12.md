@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n1_f1__Q12
 parent: src_obm_2008_n1_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count squares with vertices on 4x4 dot grid*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jS9AjIezsp0MUxDiEgVpS7k3MJ9uT3_v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggiare quadrati con vertici sulla griglia a punti 4x4*
+
+> Quanti quadrati possono essere formati con vertici nei punti della griglia di punti mostrati? (un array $4 \times 4$ di 16 punti)
+> 
+> A) 6 $\quad$ B) 7 $\quad$ C) 8 $\quad$ D) 9 $\quad$ E) 10
+
+![[src_obm_2008_n1_f1__Q12.png]]
+
+**Risposta:** D
+[[src_obm_2008_n1_f1__Q12]]

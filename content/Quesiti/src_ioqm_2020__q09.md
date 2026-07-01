@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q09
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC, angle bisector of C meets AB at D, parallel lines through D; find sum of digits of p-q*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC, angolo bisectore di C incontra AB a D, linee parallele attraverso D; trovare la somma dei numeri di p-q*
+
+> Si deve $ABC$ essere un triangolo con $AB = 5$, $AC = 4$, $BC = 6$. Il bisettore di angolo interno di $C$ interseca il lato $AB$ a $D$. I punti $M$ e $N$ sono presi sui lati $BC$ e $AC$, rispettivamente, in modo tale che $DM \parallel AC$ e $DN \parallel BC$. Se $\frac{(MN)^2}{p} = \frac{p}{q}$ dove $p$ e $q$ sono numeri interi relativamente primi positivi, qual è la somma dei numeri di $p - q$?
+
+[[src_ioqm_2020__Q09]]

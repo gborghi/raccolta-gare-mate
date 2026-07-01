@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Ecolier — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier__Q24
 parent: src_kangourou_2014_ecolier
 competition: Kangourou 2014 marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo quadratini grigi senza quadrato 2x2 grigio*
 
@@ -60,3 +63,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum gray squares without 2x2 gray squares< MSK1/>
+
+![[src_kangourou_2014_ecolier__prob24.png]]
+
+> You want to colour some squares in gray among those shown in the figure to the right, but you don't want to make gray squares like the one shown on the left, obtained by attaching 4 gray squares. How many squares can you color? A) 16
+> 	
+> B) 18
+> 	
+> C) 20 D) 21
+> 	
+> E) 22 + 2 4 1 6 7
+> 
+> This appropriation is intended to cover expenditure on research and technological development in the Member States.
+
+**Answer:** D
+[[src_kangourou_2014_ecolier__Q24]]

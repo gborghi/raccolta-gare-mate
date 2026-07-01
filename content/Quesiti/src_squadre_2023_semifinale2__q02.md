@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Semifinale 2 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_semifinale2__Q02
 parent: src_squadre_2023_semifinale2
 competition: Gara a Squadre 2023 - Semifinale 2
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato quadrato in circonferenza con quadrato lato 1200*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0240
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Side square in circumference with side square 1200*
+
+> The first to join Lupin's adventures was Jig, a skilled gunfighter and problem solver. For example, while recharging, he determined the maximum area that a triangle can have with the shortest side measuring 40 and the longest side measuring 101. What is it?
+
+**Answer:** 0240
+[[src_squadre_2023_semifinale2__Q02]]

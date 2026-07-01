@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q25
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo calze da estrarre per 7 paia accoppiate*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum socks to be extracted for 7 pairs paired< MSK1/>
+
+> Mother washed Gianni's socks - five pairs of black, 10 pairs of brown, and 15 pairs of gray - and asked him to put them away after pairing them for color. But Gianni put them all mixed up in a box. Now Gianni has to go on a seven-day camping trip: what is the minimum number of socks he can get out of the box, even in the dark, to make sure he has at least seven pairs of socks well matched? A) 16 B) 14 C) 35 D) 37 E) 18
+
+**Answer:** A
+[[src_kangourou_2006_cadet__Q25]]

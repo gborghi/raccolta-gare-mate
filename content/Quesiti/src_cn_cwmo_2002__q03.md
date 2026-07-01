@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2002 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2002__Q03
 parent: src_cn_cwmo_2002
 competition: China Western Mathematical Olympiad 2002
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum area of a square whose vertices are roots of a quartic with integer coefficients*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 2
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area minima di un quadrato le cui vertici sono radici di una quarticca con coefficienti interi*
+
+> Considerate un quadrato sul piano complesso. I numeri complessi corrispondenti ai suoi quattro vertici sono le quattro radici di qualche equazione del quarto grado con un coefficiente sconosciuto e interi $x^4 + px^3 + qx^2 + rx + s = 0$. Trova il valore minimo dell'area di tale quadrato. (Posizionato da Xiong Jin)
+
+**Risposta:** 2
+[[src_cn_cwmo_2002__Q03]]

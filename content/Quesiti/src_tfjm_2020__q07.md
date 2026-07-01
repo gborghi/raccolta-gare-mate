@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2020__Q07
 parent: src_tfjm_2020
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020
@@ -37,6 +38,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Moving objects in Chambord forest of integer-lattice trees via translations and rotations*
 
@@ -83,3 +86,41 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J8zHKpO1Q-BosuE3UiWvjA4Arny60DJ4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Movimento di oggetti nella foresta di Chambord di alberi di reticola integrale tramite traduzioni e rotazioni*
+
+> Due taglialegni cercano di spostare tronchi e tronchi in una foresta.
+> 
+> La foresta di Chambord è un piano infinito in cui ogni punto con coordinate integrali è un albero puntuale. I tagliatori di legno spostano un oggetto applicandone due operazioni di base:
+> 
+> - **(Traduzione) ** Scegli un vettore $\vec{v}$ e applica all'oggetto una traduzione per vettore $\vec{v}$. - **(Rotazione) ** Fissa un punto $O$ dell'oggetto e un angolo $\theta \in [0, \pi]$, e applica all'oggetto una rotazione del centro $O$ e dell'angolo $\theta$ nel senso diretto o indiretto.
+> 
+> Questo è possibile solo se l'oggetto non incontra alcun albero durante il movimento, il che significa: - **(Traduzione) ** Non esiste un reale $0 \le t \le 1$ tale che l'oggetto tradotto dal vettore $t\vec{v}$ tocchi un albero. - **(Rotation) ** Non esiste un angolo $0 \le \phi \le \theta$ tale da che, dopo aver rotato di $\phi$ circa $O$, l'oggetto tocchi un albero.
+> 
+> Si dice che un oggetto sia **free** se, per ogni posizione iniziale e per ogni posizione finale che non tocca gli alberi, i tagliatori di legno possono spostare l'oggetto da uno all'altro.
+> 
+> I tagliatori lavorano attualmente nella foresta di Chambord.
+> 
+> **1.** Prima di entrare nella foresta, i taglialegni si muovono all'interno di una piccola copse costituita da un numero finito di alberi posizionati in qualsiasi configurazione. L'oggetto che trasportano è un tronco sottile ****, cioè un segmento aperto di lunghezza $L$ (le due estremità possono toccare gli alberi). Date le due posizioni possibili per questo tronco, è sempre possibile che i tagliatori lo spostino da uno all'altro? Se sì, come?
+> 
+> **2.** Cercano di spostare un **stump**, che è un disco aperto di raggio $r_0$ (il confine del disco non tocca nessun albero). Per quale raggio $r_0$ è libero il tronco?
+> 
+> < MSK2/>3. < MSK3/> Cercano di spostare un tronco sottile < MSK4/> di lunghezza < MSK0/>. Per quali lunghezze $L$ il tronco sottile è libero?
+> 
+> **4. ** Cercano di spostare un tronco speso ****, cioè un rettangolo aperto (i lati del rettangolo possono toccare alberi) $E \times L$ con $0 < E \le L$. Per quali valori di $E$ e $L$ il tronco spessore è libero?
+> 
+> Il tempo totale minimo necessario per eseguire una sequenza di operazioni è la distanza percorsa da un punto specifico dell'oggetto, chiamato **centro** dell'oggetto.
+> 
+> Qual è il tempo minimo necessario per muoversi, quando possibile: - Un tronco di raggio < MSK0/> centrato a < MSK1/> in una posizione centrata a < MSK2/>, con < MSK3/> enti? Il centro del tronco è il centro del disco. - Un tronco sottile di lunghezza < MSK4/> nella stessa posizione dopo aver effettuato una mezza rotazione? Il centro del tronco è il punto medio del segmento. - Un tronco spessore di lunghezza < MSK5/> e spessore < MSK6/> nella stessa posizione dopo mezzo giro? Il centro del tronco è l'intersezione dei diagonali del rettangolo.
+> 
+> Cercheremo di limitare queste quantità il più precisamente possibile.
+> 
+> **6.** Proporre e studiare altre vie di ricerca.
+
+![[src_tfjm_2020__Q07.png]]
+
+[[src_tfjm_2020__Q07]]

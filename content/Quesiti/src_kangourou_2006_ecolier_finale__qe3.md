@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Ecolier (finale nazionale) — Quesito E3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_finale__QE3
 parent: src_kangourou_2006_ecolier_finale
 competition: Kangourou 2006 - Ecolier (finale nazionale)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scritta PUZZLES vista riflessa dall'interno*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** immagine speculare
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ENJjl4aQcW623JJ5_e3uB1g4bMks6Vti/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Written PUZZLES as seen from the inside*
+
+![[src_kangourou_2006_ecolier_finale__probE3.png]]
+
+> *(11 points) * On the window of a billboard is the writing (made up of sticky letters)
+> 
+> $$\text{PUZZLES}$$
+> 
+> Draw here under the inscription that you'd see looking at the window from inside the store. (see figure)
+
+**Answer:** immagine speculare
+[[src_kangourou_2006_ecolier_finale__QE3]]

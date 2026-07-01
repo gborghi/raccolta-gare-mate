@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2006 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2006__Q03
 parent: src_cn_cmc-complementary-test_2006
 competition: China Mathematical Competition (Complementary Test) 2006
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve a system of four symmetric power-sum equations in x,y,z,w*
 
@@ -45,3 +48,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Risolvere un sistema di quattro equazioni simmetriche di potenza-somma in x,y,z,w*
+
+> Risolvi il seguente sistema di equazioni. $$\begin{cases} x - y + z - w = 2, \\ x^2 - y^2 + z^2 - w^2 = 6, \\ x^3 - y^3 + z^3 - w^3 = 20, \\ x^4 - y^4 + z^4 - w^4 = 66. \end{cases}$$
+
+**Risposta:** $(x,y,z,w)$: $(3,2,1,0)$, $(3,0,1,2)$, $(1,2,3,0)$, $(1,0,3,2)$
+[[src_cn_cmc-complementary-test_2006__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: XXI Olimpiade Italiana Cesenatico 2005 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005__Q04
 parent: src_cesenatico_2005
 competition: XXI Olimpiade Italiana Cesenatico 2005
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *n interi a due a due con fattore comune ma a tre a tre coprimi*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** per ogni n>=3; con limite <5000 il massimo n e 4
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>n integers two to two with common factor but three to three coatings< MSK1/>
+
+> Determine for which n < MSK0/>3 it is possible to find n positive integers such that two to two have at least one common factor other than 1, but three to three are prime to each other. If we add the condition that all integers are less than 5000, what is the maximum value of n possible?
+
+**Answer:** per ogni n>=3; con limite <5000 il massimo n e 4
+[[src_cesenatico_2005__Q04]]

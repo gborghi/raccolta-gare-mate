@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q24
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti tovaglioli stesi nel modo della figura 1*
 
@@ -68,3 +71,25 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many tablecloths laid in the manner of Figure 1*
+
+![[src_kangourou_2019_ecolier_marzo__prob24.png]]
+
+> Emilio stretched out to dry the towels used in his restaurant. He started using two boots, as shown in Figure 1. At some point, however, he realized that the laundry sheets he had would not be enough for him. Then he began to stretch out the towels as shown in Figure 2. At the end of the work, he laid out a total of 35 rolls and used 58 laundry racks. How many napkins did you spread out in the way shown in Figure 1? A) 12
+> 	
+> B) 13
+> 	
+> C) 21
+> 	
+> D) 22
+> 	
+> E) 23 B B G R 5 1 2 4 3 and 1 Figure 1 Figure 2
+>
+
+**Answer:** D
+[[src_kangourou_2019_ecolier_marzo__Q24]]

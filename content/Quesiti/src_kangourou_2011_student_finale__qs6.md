@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Finale Student (Mirabilandia) — Quesito S6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student_finale__QS6
 parent: src_kangourou_2011_student_finale
 competition: Kangourou 2011 Finale Student (Mirabilandia)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo elementi del sottoinsieme A con rapporti non oltre 2*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1IJm1jK3TMWoj5sVE88bzHX7made5WOw3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum elements of subset A with ratios not exceeding 2*
+
+> Andrea constructs a set of 24 elements selected from the natural integers such that, whenever there are two numbers in MSK1/, there are also all natural numbers between MSK4/ and MSK5/. In the construction of $S$ some numbers can be repeated. Bruno chooses a subset $A$ of $S$ with the property that, however two elements of $A$ are chosen, their ratio does not exceed 2. Andrea wants to build $S$ so as to minimize the number of elements of the $A$ set that Bruno can choose. What's this number? Appropriately justify the answer.
+
+**Answer:** 8
+[[src_kangourou_2011_student_finale__QS6]]

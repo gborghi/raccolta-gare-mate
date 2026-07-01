@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q10
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume scatola da cartoncino 6x6*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Volume of cardboard box 6x6< MSK1/>
+
+![[src_kangourou_2004_benjamin__prob10.png]]
+
+> A square cardboard of 6 centimeters on the side is used to build a box 1 centimeter high, as suggested by the figure (shaded squares are removed). How many cubic centimetres is the volume of the box? A) 16 B) 36 C) 30 D) 25 E) 24 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** A
+[[src_kangourou_2004_benjamin__Q10]]

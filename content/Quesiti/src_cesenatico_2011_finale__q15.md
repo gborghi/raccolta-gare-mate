@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_finale__Q15
 parent: src_cesenatico_2011_finale
 competition: Gara a Squadre Cesenatico 2011 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo minimo rotta a due tratti ortogonali*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0536
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum time broken to two orthogonal lines< MSK1/>
+
+> Near the time of the pennyshell, pirates spotted a ship stationed in the middle of the Mediterranean, a mile away. Tosto, they're going to plunder her. However, in fear that (by chance) it will be populated by the usual Gauls, they proceed with extreme caution. Their approach route consists of two straight lines, orthogonal to each other, the first at 1/4 mile per hour, the second at 1/8 mile per hour. Moreover, of all the routes of this kind, they choose the slowest. How many minutes will it take the pirate ship to intercept each other (where, of course, the usual Gauls are crushing a little bit)?
+
+**Answer:** 0536
+[[src_cesenatico_2011_finale__Q15]]

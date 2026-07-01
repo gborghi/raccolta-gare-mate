@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q18
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which sequence does NOT describe itself*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quale sequenza NON si descrive*
+
+> La sequenza "22" si descrive perché è formata da esattamente due 2s. Allo stesso modo, la sequenza "31 12 33 15" è formata da esattamente tre 1s, uno 2, tre 3s, uno 5. Quale delle seguenti sequenze NON si descrive?
+>
+> - **(A)** 21 32 33 16
+> - **(B)** 31 12 33 18
+> - **(C)** 31 22 33 17 19
+> - **(D)** 21 32 33 24 15
+> - **(E)** 41 32 33 24 15 16 18
+
+**Risposta:** D
+[[src_obm_2003_n1_f1__Q18]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q22
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo dei quattro numeri dati i quattro risultati medi*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most of the four numbers given the four average results*
+
+> Consider this procedure: give four positive integers, choose three, calculate their arithmetic mean, and sum the fourth number. Maria set four numbers and the corresponding results for the four possible ways (selection of three out of four numbers) of applying the procedure are 17, 21, 23 and 29: what is the value of the largest of the four numbers set by Maria? A) 12
+> 	
+> B) 15
+> 	
+> C) 21
+> 	
+> D) 24
+> 	
+> E) 29
+
+**Answer:** C
+[[src_kangourou_2018_junior_marzo__Q22]]

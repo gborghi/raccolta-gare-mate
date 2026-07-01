@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2005-06 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2005-06_round2__Q03
 parent: src_bmo_2005-06_round2
 competition: British Mathematical Olympiad 2005-06 — Round 2
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle, points on sides, line meets perpendicular bisector; angle relation*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1587ntk_Om0adXZIJTWJf2XDGaBi6jrzP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo, punti laterali, linea che incontra il bisettore perpendicolare; rapporto angolare*
+
+> $ABC$ sia un triangolo con $AC > AB$. Il punto $X$ si trova sul lato $BA$ esteso attraverso $A$, e il punto $Y$ si trova sul lato $CA$ in modo tale che $BX = CA$ e $CY = BA$. La linea $XY$ incontra il bisettore perpendicolare del lato $BC$ a $P$. Indicare che < MSK0/>
+
+[[src_bmo_2005-06_round2__Q03]]

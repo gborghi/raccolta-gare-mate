@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q17
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Identificare la pila con monete false con una sola pesata*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 275 g (la differenza tra il peso effettivo e 275 g assegna il numero di monete false e quindi la pila da cui sono state prese)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Identify the counterfeit coin stack with a single weight*
+
+> You've got 10 piles of coins in front of you. One of these stacks consists of counterfeit coins (which weigh, each, 10 coins. One of these stacks consists of counterfeit coins (which weigh, each) 5 g; the others are made up of real coins (which each weigh) 5 g. Describe how the stack of counterfeit coins can be detected with a single weight.
+
+**Answer:** 275 g (la differenza tra il peso effettivo e 275 g assegna il numero di monete false e quindi la pila da cui sono state prese)
+[[src_bocconi_primavera_2008__Q17]]

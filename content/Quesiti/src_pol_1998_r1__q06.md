@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1998 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1998_r1__Q06
 parent: src_pol_1998_r1
 competition: Olimpiade Matematica Polacca 1998 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with midpoint D and projections P, Q onto AD; prove BE=AE+AC iff AD=PQ*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con punto medio D e proiezioni P, Q su AD; dimostrare BE=AE+AC se AD=PQ*
+
+> In un triangolo $ABC$ con $AB > AC$, $D$ è il punto medio di $BC$ e $E$ è un punto arbitrario sul lato $AC$. I punti $P$ e $Q$ sono rispettivamente le proiezioni ortogonali di $B$ e $E$ su $AD$. Indicare che $BE = AE + AC$ se e solo se $AD = PQ$.
+
+[[src_pol_1998_r1__Q06]]

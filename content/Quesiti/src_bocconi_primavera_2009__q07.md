@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2009 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2009__Q07
 parent: src_bocconi_primavera_2009
 competition: Semifinale di Primavera 2009
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cioccolatini comprati ieri da Desiderio*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Desiderio aveva comprato 6 cioccolatini.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14prakvd6EDcEQSfmnn_-6oGG4wcPui_K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Chocolates purchased yesterday by Desiderio
+
+> Desiderio does not hide his passion for chocolate. Yesterday he bought a number of chocolates, which cost (each) 40 cents. Today he bought a double number of another, better quality, at the price of 61 cents each. Between yesterday and today he spent almost 10 euros keeping only a few pieces of leftover, less than 50 cents.
+> 
+> How many chocolates did you buy yesterday?
+
+**Answer:** Desiderio aveva comprato 6 cioccolatini.
+[[src_bocconi_primavera_2009__Q07]]

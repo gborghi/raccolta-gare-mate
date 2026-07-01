@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1991 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1991_r3__Q03
 parent: src_pol_1991_r3
 competition: Olimpiade Matematica Polacca 1991 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show N is not a fifth power of an integer*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1roje33Ik1bzgcqsL7yxrXsm0APZTffe7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra N non è una quinta potenza di un intero*
+
+> Definire $$N = \sum_{k=1}^{n} a_k 6^k,$$ dove $a_k \in [-1, 1]$ per ogni $k$. Prova che $N$ non può essere la quinta potenza di un intero.
+
+[[src_pol_1991_r3__Q03]]

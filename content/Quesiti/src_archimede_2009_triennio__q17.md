@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Triennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_triennio__Q17
 parent: src_archimede_2009_triennio
 competition: Giochi di Archimede 2009 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Superficie di ricerca attorno a palazzo pentagonale*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Research area around the pentagonal building*
+
+> David and Goliath live in a palace whose plan is a regular pentagon of 10 meters. The gate of the palace is placed on one of the vertices of the pentagon and the palace is surrounded, within a radius of a few kilometers, by flat ground. Goliath steals David's spoon, leaves the gate, travels no more than 20 meters (without entering the palace) and leaves the spoon on the ground. What is the maximum area David will have to search before he finds his spindle?
+>
+> - **(A)** 320π m2,
+> - **(B)** 160π m2,
+> - **(C)** 100(4π − √ 5−1 2 ) m2,
+> - **(D)** 100(2π + √ 5−1 2 ) m2,
+> - **(E)** 280π m2.
+
+**Answer:** A
+[[src_archimede_2009_triennio__Q17]]

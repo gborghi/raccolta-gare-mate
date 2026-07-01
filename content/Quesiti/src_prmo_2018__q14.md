@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q14
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Products of cosines, find integer nearest to (2/7)log_2(y/x)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 19
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prodotti di cosini, trovare un numero intero più vicino a (2/7)log_2(y/x) *
+
+> Se $x = \cos 1^\circ \cos 2^\circ \cos 3^\circ \cdots \cos 89^\circ$ e $y = \cos 2^\circ \cos 6^\circ \cos 10^\circ \cdots \cos 86^\circ$, quale è il numero intero più vicino a $\frac{2}{7} \log_2(y/x)$?
+
+**Risposta:** 19
+[[src_prmo_2018__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q19
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo certamente non ottenibile*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangle certainly not achievable*
+
+> We have a regular hexagon, we pick three vertices at random, and we consider the triangle identified by these three vertices. This triangle is certainly not A) rectangle B) equilateral C) isosceles non-equilateral D) octagonal E) acutangol non-equilateral
+
+**Answer:** E
+[[src_kangourou_2003_benjamin__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2008 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo6q__Q11
 parent: src_jjmo6q
 competition: Japan Junior Mathematical Olympiad 2008
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Color m×n grid red/blue/black so each color neighbors both others; find valid (m,n)*
 
@@ -57,3 +60,25 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Colore m×n griglia rosso/blu/nero in modo che ogni colore sia vicino agli altri; trovare valido (m,n) *
+
+> Lasciate che $m, n$ siano numeri interi positivi. Vogliamo colorare ogni cella di una griglia $m \times n$ rosso, blu o nero in modo che tutte le seguenti condizioni si applichino:
+> 
+> - Ogni cellula rossa è adiacente ad almeno una cellula blu e ad almeno una cellula nera. - Ogni cellula blu è adiacente ad almeno una cellula nera e ad almeno una cellula rossa. - Ogni cellula nera è adiacente ad almeno una cellula rossa e ad almeno una cellula blu.
+> 
+> (Due cellule distinte sono chiamate < MSK0/>adiacenti< MSK1/> se condividono un lato.)
+> 
+> Rispondi alle seguenti domande:
+> 
+> (1) Nel caso $m = 3$, $n = 4$: trovare un colore valido che soddisfi tutte le condizioni di cui sopra. **(Una risposta/esempio è sufficiente; non è necessaria alcuna prova.)**
+> 
+> (2) Trova tutte le coppie $(m, n)$ per le quali esiste un colore valido.
+> 
+> (Questo è un problema di prova per la parte (2).)
+
+[[src_jjmo6q__Q11]]

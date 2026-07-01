@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Finale Nazionale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_finale__Q03
 parent: src_squadre_2024_finale
 competition: Gara a Squadre 2024 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tassellazioni corridoio 2x6 con tessere 1x2 e 1x3*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0030
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*2x6 corridor layouts with 1x2 and 1x3 tiles*
+
+> Visiting the ship Summy Suy Deevysori, the cruise director, leads the group of visitors to discover the wonders of the ship: the octagonal swimming pools, the puzzle room, the mind's gym and stops in front of a narrow corridor of 2m that still has to be tiled. Summy recommends that it be completely towed using only 1m×2m or 1m×3m mattresses, without overlapping. How many different ways can they achieve the objective?
+
+**Answer:** 0030
+[[src_squadre_2024_finale__Q03]]

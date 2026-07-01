@@ -1,6 +1,7 @@
 ---
 title: IMO 1970 (XII International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1970__Q02
 parent: src_imho_1970
 competition: IMO 1970 (XII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Representation of numbers in two bases; compare sizes via digits*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Representation of numbers in two bases; compare sizes by digits*
+
+> Let $a$, $b$ be integers greater than 1, and let $a$ and $b$ be the bases of two number systems. $A_{n-1}$ and $A_n$ are numbers in the system with base $a$; $B_{n-1}$ and $B_n$ are the numbers in the system with base $b$; these are related as follows: $$A_n = x_n x_{n-1} \cdots x_1 x_0, \quad A_{n-1} = x_{n-1} x_{n-2} \cdots x_1 x_0,$$ $$B_n = x_n x_{n-1} \cdots x_1 x_0, \quad B_{n-1} = x_{n-1} x_{n-2} \cdots x_1 x_0,$$ $$x_n \neq 0, \quad x_{n-1} \neq 0.$$ Prove that $$\frac{A_{n-1}}{A_n} < \frac{B_{n-1}}{B_n} \text{ if and only if } a > b.$$
+
+[[src_imho_1970__Q02]]

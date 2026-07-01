@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q21
 parent: src_cesenatico_2006_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma razionali a/30 ridotti minori di 10*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0400
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rational sum of a/30 less than 10*
+
+> Ambitious matriculations [20] Higher Mathematics School students are assigned to their home country according to their mathematical attitudes. This year, in order to enter the House of Rapporteur, it was necessary to find the sum of all the positive rations which, reduced to the minimum terms, have the form of 30, and which are less than 10. What was the response of the student body?
+
+**Answer:** 0400
+[[src_cesenatico_2006_squadre_pubblico__Q21]]

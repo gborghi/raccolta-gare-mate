@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q11
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *When is addition distributive over multiplication: a+(b*c)=(a+b)*(a+c)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quando l'addizione è distributiva sulla moltiplicazione: a+(b*c)=(a+b)*(a+c)*
+
+> $a$, $b$ e $c$ siano numeri reali. Per la proprietà distributiva della moltiplicazione rispetto all'addizione, è vero che $a\times(b+c)=(a\times b)+(a\times c)$. La distributività dell'addizione rispetto alla moltiplicazione, cioè $a+(b\times c)=(a+b)\times(a+c)$, non è sempre vera, ma vale solo se: A) $a=b=c=\dfrac{1}{3}$ o $a=0$ B) $a=b=c$ C) L'uguaglianza non si verifica mai D) $a+b+c=1$ o $a=0$ E) $a+b+c=0$
+
+**Risposta:** D
+[[src_obm_2005_n2_f1__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q02
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -26,6 +27,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio del cerchio inscritto nell’ottagono regolare*
 
@@ -46,3 +49,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Rage of the circle inscribed in the regular octagon< MSK1/>
+
+![[src_kangourou_2013_student__prob2.png]]
+
+> The regular octagon in the figure has 10 cm long sides. How many centimetres does the radius of the circle inscribed in the regular octagon formed by the diagonals parallel to each side measure? A) 10
+> 	
+> B) 7,5
+> 	
+> C) 5
+> 	
+> D) 2,5 E) 2
+
+[[src_kangourou_2013_student__Q02]]

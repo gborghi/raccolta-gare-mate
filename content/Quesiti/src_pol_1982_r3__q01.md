@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1982 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1982_r3__Q01
 parent: src_pol_1982_r3
 competition: Olimpiade Matematica Polacca 1982 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximize d_n - c_n for n girls and n boys around a round table*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qBPh1W7EiylRWktVfDLoEOsdrnYFDxsy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Maximizzare il d_n - c_n per n ragazze e n ragazzi attorno a una tavola rotonda< MSK1/>
+
+> Trovare un modo per organizzare le ragazze e i ragazzi su una tavola rotonda per la quale il massimo è $d_n - c_n$, dove $d_n$ è il numero di ragazze sedute tra due ragazzi e $c_n$ il numero di ragazzi seduti tra due ragazze.
+
+[[src_pol_1982_r3__Q01]]

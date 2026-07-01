@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q15
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto tra aree triangoli DMS e ABC nel bosco*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{1}{7}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rate between DMS and ABC triangle areas in the forest*
+
+> Desiderio, Milena, and Sergio got lost in a triangle-shaped forest (tops A, B, and C). In panic, they decided to split up to find a way out, but after an hour they were still inside the woods. More precisely, Desiderio is in the middle point D of the segment that connects the vertex A with the position M where Milena is located; M is the middle point of the segment that connects B with the position S where Sergio is located; S is the middle point of the segment CD.
+> 
+> What is the relationship between the areas of the DMS and ABC triangles?
+
+**Answer:** $\frac{1}{7}$
+[[src_bocconi_squadre_2010__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_2livello__Q05
 parent: src_archimede_2023_2livello
 competition: Archimede Gara di Febbraio 2023 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Due rettangoli con diagonale comune, area sovrapposizione*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Two rectangles with a common diagonal, overlapping area*
+
+> Lucius has two identical rectangular-shaped cards with long sides 6 and 9; he supports them on the table so that they have a diagonal in common but are not precisely overlapping. What is the area of the portion of the first paper that is covered by the second?
+>
+> - **(A)** 27
+> - **(B)** 36
+> - **(C)** 37
+> - **(D)** 38
+> - **(E)** 39
+
+**Answer:** E
+[[src_archimede_2023_2livello__Q05]]

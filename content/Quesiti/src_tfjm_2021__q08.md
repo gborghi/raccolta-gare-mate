@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2021__Q08
 parent: src_tfjm_2021
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021
@@ -40,6 +41,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rigged reality TV: participants have preference rankings determining sequential eliminations; an objective (X,Y) means Y wins when X is eliminated first; determine when a list of objectives is realizable, with cycle structures*
 
@@ -86,3 +89,47 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_SfCnSHm4hFbj_TGxa2GoahJiFYpdibk/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rigged reality TV: i partecipanti hanno classifiche di preferenza che determinano le eliminazioni sequenziali; un obiettivo (X,Y) significa che Y vince quando X viene eliminato per primo; determinare quando è realizzabile una lista di obiettivi, con strutture di ciclo*
+
+> - Televisione truccata.
+> 
+> Denis e' il direttore tecnico di un reality show.
+> 
+> Lo spettacolo si svolge come segue: i partecipanti $n \ge 3$ competono in un evento sportivo, e il perdente viene eliminato. Il primo giocatore eliminato sceglie un giocatore che è anche eliminato, che a sua volta sceglie un giocatore da eliminare, e così via finché non rimane solo uno. Quel giocatore viene poi dichiarato vincitore.
+> 
+> Ciò che gli spettatori non sanno è che Denis prepara prima di ogni spettacolo una tabella di preferenze: distribuisce prima dello spettacolo a ogni partecipante un ranking degli altri partecipanti. Quando un partecipante viene eliminato, decide sempre di eliminare il partecipante, tra quelli rimasti, che è classificato più basso nella sua tabella.
+> 
+> Ad esempio, con la tabella delle preferenze illustrata nella Figura 13, se Loulou viene eliminato nell'evento sportivo, allora Fifi viene eliminato dopo, e Riri vince.
+> 
+> La direzione non può prevedere chi perderà l'evento sportivo e chi sarà quindi il primo eliminato.
+> 
+> Il direttore artistico invia quindi a Denis un elenco di obiettivi. Un obiettivo è una coppia $(X,Y)$ di partecipanti. Diciamo che un obiettivo è soddisfatto se il partecipante $Y$ vince lo spettacolo quando il partecipante $X$ è il primo eliminato. Si dice che un obiettivo $(X,Y)$ sia realizzabile se esiste una tabella di preferenze tale che $(X,Y)$ sia un obiettivo soddisfatto.
+> 
+> Denis deve trovare una tabella di preferenze in modo tale da soddisfare tutti gli obiettivi dell'elenco. Se esiste una tabella di preferenze del genere, si dice che l'elenco degli obiettivi sia realizzabile.
+> 
+> Ad esempio, la tabella delle preferenze presentata nella figura 13 soddisfa tutti gli obiettivi dell'elenco degli obiettivi presentati nella figura 14.
+> 
+> **(1) ** Per uno spettacolo composto solo da $n=3$ candidati, quali sono gli obiettivi realizzabili?
+> 
+> Per un dato elenco di obiettivi, diciamo che un insieme di partecipanti $k \ge 2$ forma un ciclo $k$ se i partecipanti possono essere numerati $P_1, P_2, \cdots, P_k$ in modo che l'obiettivo di $P_1$ è $P_2$, quello di $P_2$ è $P_3$, \ldots, e quello di $P_k$ è $P_1$.
+> 
+> **(2) ** Supponiamo che i partecipanti $n$ formino un ciclo $n$ per l'elenco di obiettivi di Denis. L'elenco degli obiettivi è realizzabile?
+> 
+> In questa domanda, Denis dispone di un elenco di obiettivi per i partecipanti e ha il diritto di sommare gli altri partecipanti e di scegliere i loro obiettivi. È sempre possibile per Denis trovare una tabella di preferenze per i partecipanti $n+N$ che realizzi l'elenco degli obiettivi, se Denis può scegliere $N$? E se si limita a $N \le n$? To $N \le 1$? To $N=0$?
+> 
+> **(5) ** Supponiamo che, tra i partecipanti $n=a+b$, $a$ costituisca un ciclo $a$ e $b$ costituisca un ciclo $b$ per l'elenco di obiettivi di Denis. L'elenco degli obiettivi è realizzabile? Si può iniziare con il trattamento dei casi < MSK5/> e < MSK6/>.
+> 
+> In quali condizioni è possibile realizzare un elenco arbitrario di obiettivi? Si può iniziare con il trattamento di < MSK0/> e < MSK1/>.
+> 
+> Dopo anni di presentazione dello show, Denis si è ritirato, in modo che la tabella delle preferenze rimanga sempre la stessa. Lo spettacolo è continuato con gli stessi partecipanti per diversi anni, in modo che ogni candidato ha perso l'evento sportivo almeno una volta. Alice, che conosce gli arcani dello show e ha visto tutte le repliche, cerca di dedurre la tabella delle preferenze. In termini di $n$, ci sono tabelle di preferenze che può determinare completamente? Se sì, per quale cosa è possibile?
+> 
+> **(8) ** Proporre e studiare altre direzioni di ricerca.
+
+![[src_tfjm_2021__Q08.png]]
+
+[[src_tfjm_2021__Q08]]

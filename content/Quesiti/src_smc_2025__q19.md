@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q19
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Football kit pricing system; find how many complete kits Eden can buy with money for nine shirts.*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sistema di prezzo del kit di calcio; scopri quante kit complete Eden può comprare con i soldi per nove camicie.*
+
+> Un kit di calcio "completo" consiste in una camicia, un paio di pantaloncini e un paio di calzini. Tre coppie di pantaloncini e un paio di calzini insieme costano la stessa cosa di due camicie. Sette paia di pantaloncini e quattro paia di calzini insieme costano la stessa cifra di cinque camicie. Eden ha esattamente la giusta quantità di soldi per comprare nove camicie. Quanti kit di calcio 'completi' si potevano comprare per la stessa quantità di denaro?
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 7
+
+**Risposta:** C
+[[src_smc_2025__Q19]]

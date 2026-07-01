@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q09
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers n dividing 2032 with remainder 17*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi positivi n dividendo 2032 con il rimanente 17*
+
+> Quanti integri positivi $n$ ci sono tali che dividendo il 2032 per $n$ lascia il rimanente 17?
+> 
+> (A) 4 \quad (B) 5 \quad (C) 6 \quad (D) 7 \quad (E) 8
+
+**Risposta:** C
+[[src_obm_2015_n3_f1__Q09]]

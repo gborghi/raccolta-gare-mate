@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 37
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q37
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -29,6 +30,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *B-4: domain (-∞,0)∪(0,∞), f(x)=(f(1)x^2+f(2)x-1)/x; sum of zeros.*
 
@@ -41,3 +44,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*B-4: dominio (-∞,0)∪,∞), f(x) = f(1)x^2+f(2)x-1)/x; somma di zeri.*
+
+> [Test Paper B, Problema 4] Supponiamo che il dominio della funzione $f(x)$ sia $D=(-\infty,0)\cup(0,+\infty)$ e che ci sia $f(x)=\dfrac{f(1)\cdot x^2+f(2)\cdot x-1}{x}$ per qualsiasi $x\in D$. Quindi la somma di tutti gli zero di $f(x)$ è ______.
+
+**Risposta:** -4
+[[src_cn_cmc-first-round_2021__Q37]]

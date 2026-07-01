@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q08
 parent: src_kangourou_2019_junior_semifinale_a
 competition: Kangourou Coppa Junior squadre 2019 Semifinale A
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tipi di banconote a tre quadretti (rotazioni)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0040
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qvyGTt8fMV3U7A9REDKvAdJtpkkgdYbx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Type of three-quarter banknotes (rotations) *
+
+> Banknotes Kanglandia banknotes are rectangular, obtained by aligning three squares of the same size. For all the rear is gray, while on the other side each of the squares can be yellow, red, green or blue. Only the colours (and their positions) differentiate different banknotes. How many types of banknotes are there?
+
+**Answer:** 0040
+[[src_kangourou_2019_junior_semifinale_a__Q08]]

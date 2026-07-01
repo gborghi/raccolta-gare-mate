@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2024 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo34hq_honsen__Q03
 parent: src_jmo34hq_honsen
 competition: Japan Mathematical Olympiad 2024 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum n so that some good point lies on n Z-shaped broken lines in a grid*
 
@@ -51,3 +54,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oh_f0Ust1zP8T7KdADefA9zgGGlZhTvf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum n in modo che un certo punto buono si trovi su n linee rotte a forma di Z in una griglia*
+
+> Nel piano $xy$, un punto di rete $(x, y)$ è chiamato **good** se $1 < x \le 2000$ e $1 < y \le 2000$ (cioè.~ entrambe le coordinate sono interi con $2 \le x \le 2000$ e $2 \le y \le 2000$). Per quattro punti buoni $A(x_1, y_1)$, $B(x_2, y_2)$, $C(x_3, y_3)$, $D(x_4, y_4)$, il percorso poligonale $ABCD$ si chiama linea rotta ** a forma di Z** se tutti i seguenti punti: - $A, B, C, D$ sono tutti punti buoni. - < MSK12/> e < MSK13/>. - $x_2 > x_3$ e $y_2 > y_3$. - < MSK16/> e < MSK17/>.
+> 
+> Qui una linea rotta a forma di Z $ABCD$ è composta da segmenti $AB$, $BC$, $CD$ (compresi i loro punti di fine).
+> 
+> Lasciate che $n$ buone linee rotte a forma di Z $Z_1, Z_2, \ldots, Z_n$ soddisfino tutte le condizioni di cui sopra. Trovare il numero intero minimo $n$ in modo tale che: non importa quali $n$ buone linee rotte a forma di Z siano scelte, esiste sempre un buon punto $P$ che si trova su almeno due di esse.
+> 
+> (Nota: il segmento $AB$, $BC$ o $CD$ comprende entrambi gli endpoint.)
+
+[[src_jmo34hq_honsen__Q03]]

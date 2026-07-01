@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1994 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1994__Q02
 parent: src_rmo_1994
 competition: Regional Mathematical Olympiad 1994
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Incircle of triangle touches sides; find sides given concurrency*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'incircolo del triangolo tocca i lati; trovare i lati dati la simultanea*
+
+> Nel triangolo $ABC$, l'incircolo tocca i lati $BC$, $CA$ e $AB$ rispettivamente a $D$, $E$ e $F$. Se il raggio dell'incircolo è di 4 unità e se $BD$, $CE$ e $AF$ sono numeri interi consecutivi, trovare i lati del triangolo $ABC$.
+
+[[src_rmo_1994__Q02]]

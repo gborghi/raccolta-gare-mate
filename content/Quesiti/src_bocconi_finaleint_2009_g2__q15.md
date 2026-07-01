@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 2) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g2__Q15
 parent: src_bocconi_finaleint_2009_g2
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coordinate del tesoro su una mappa quadrettata piegata, in decimetri*
 
@@ -52,3 +55,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_LRZ35lngxx9JZL11y14CrDyt5FTBU28/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Treasure coordinates on a square map folded in decimals*
+
+> The treasure card. The large rectangle of the figure represents the map of the valley where the treasure is located. The paper is square and the grey area of the figure represents the part under which it is folded, regularly; the side of each square box is a certain length. The paper scale is $\frac{1}{4}$. The treasure is located at a point of the fold coinciding with the upper left corner of the folded area, whose coordinates (horizontal; vertical) remain to be found. What are the coordinates (horizontal; vertical) of the treasure in decimeter from the bottom left corner?
+
+![[src_bocconi_finaleint_2009_g2__Q15.png]]
+
+**Answer:** $(28;\ 24)$
+[[src_bocconi_finaleint_2009_g2__Q15]]

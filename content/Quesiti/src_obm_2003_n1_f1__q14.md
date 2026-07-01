@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q14
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum congruent squares removed from 5×5 grid via row, column, and diagonal*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrati congruenti massimi rimossi dalla griglia 5×5 tramite riga, colonna e diagonale*
+
+> Un quadrato $5 \times 5$ è tagliato in cinque righe di 5 quadrati unità ciascuno. Tutti i quadrati dell'unità sono congruenti. Da ogni diagonale (di qualsiasi quadrato unitario) e da una riga e una colonna, vengono rimossi i quadrati unitari segnati. L'area coperta dai quadrati delle unità rimanenti è, al massimo:
+> 
+> (A) $\dfrac{2}{5}$ \quad (B) $\dfrac{11}{25}$ \quad (C) $\dfrac{12}{25}$ \quad (D) $\dfrac{13}{25}$ \quad (E) $\dfrac{3}{5}$
+
+![[src_obm_2003_n1_f1__Q14.png]]
+
+**Risposta:** C
+[[src_obm_2003_n1_f1__Q14]]

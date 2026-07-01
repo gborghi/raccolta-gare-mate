@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2009 — Quesito
   10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2009__Q10
 parent: src_bocconi_finalenaz_2009
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2009
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area di un quadrato piccolo dato il grande quadrato di area 405*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 40 cm²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of a small square given the large square of area 405*
+
+> A large square has an area of < MSK0/> and contains five smaller, equal squares arranged as shown in the figure (which has an axis of stretched symmetry). What's the area of a small square?
+
+![[src_bocconi_finalenaz_2009__Q10.png]]
+
+**Answer:** 40 cm²
+[[src_bocconi_finalenaz_2009__Q10]]

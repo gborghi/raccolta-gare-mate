@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Semifinale 2 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_semifinale2__Q13
 parent: src_squadre_2024_semifinale2
 competition: Gara a Squadre 2024 - Semifinale 2
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tratto in salita strada minima attorno a cono, apotema 1000*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0800
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Treated as a minimum road climb around cones, abbreviation 1000*
+
+> Scanning numbers A number n has a consecutive spelling if there is a sequence of at least two consecutive positive integers such that their sum is n. Among the various gadgets of Inspector Gauget is the consecutive meter: given a number n, the consecutive meter returns the number of consecutive scripts of n. To solve the last case, the inspector uses the consecutivometer on all numbers from 1 to 101 and sums all the values obtained. How much is this?
+
+**Answer:** 0800
+[[src_squadre_2024_semifinale2__Q13]]

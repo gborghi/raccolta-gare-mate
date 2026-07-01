@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q03
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which power equals 2 raised to several powers summed?*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Quale potenza è uguale a 2 sollevata a più potenze sommate?
+
+> Che cos' è < MSK0/>?
+> 
+> (A) $0$ \quad (B) $2$ \quad (C) $4$ \quad (D) $4^7$ \quad (E) $4^8$
+
+**Risposta:** C
+[[src_obm_2004_n1_f1__Q03]]

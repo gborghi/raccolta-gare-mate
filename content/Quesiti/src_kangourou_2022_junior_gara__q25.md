@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q25
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cosa dedurre dalla domanda di Bruna (setta positivi/negativi)*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What can be deduced from Bruna's application (positive/negative set) *
+
+> The members of a strange sect are of two types: the positive, who ask only questions to which the correct answer is Yes and the negative, who ask only questions to which the correct answer is No. I met with Alberto and Bruna. Bruna asked me, "Are Albert and I both negative? What can I tell?
+>  
+> A) Alberto and Bruna are both positive. B) Alberto and Bruna are both negative. C) Alberto is positive, Bruna is negative. D) Alberto is negative, Bruna is positive. E) I cannot draw any of the above conclusions.
+
+**Answer:** C
+[[src_kangourou_2022_junior_gara__Q25]]

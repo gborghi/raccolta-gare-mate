@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_semifinale_b__Q15
 parent: src_cesenatico_2013_semifinale_b
 competition: Gara a Squadre Cesenatico 2013 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area BKD con area ABC palindroma di 4 cifre*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8556
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>BKD area with 4-digit palindrome ABC area< MSK1/>
+
+> The palindrome triangle Root has reached the eighth cross, and she's about to become Queen too! However, the Red Queen asks her one last question before the coronation: If ABC is an isosceles triangle (AB = AC) of base BC length 62 and height AH. K is the middle point of AH and D is the intersection point between the segment perpendicular to BK passing through K and the line parallel to BC passing through A. How much is the area of BKD worth, knowing that the area of ABC is a 4-digit palindrome number and the height is an even integer?
+
+**Answer:** 8556
+[[src_cesenatico_2013_semifinale_b__Q15]]

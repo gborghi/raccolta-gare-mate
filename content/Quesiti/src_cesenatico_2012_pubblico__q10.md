@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_pubblico__Q10
 parent: src_cesenatico_2012_pubblico
 competition: Gara a Squadre Cesenatico 2012 - Gara del pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma interi 3 cifre con cifra 3 o 6 (fusion)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8848
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Third-digit integer sum with digit 3 or 6 (fusion) *
+
+> No one remembers the command word to disable the robot Gort, which in nine days will ignite and destroy life on Earth. However, there is a second arrest procedure. In each of these days, the hero Ash Williams will throw a six-sided dice. If each launch is different from either the number released two days before or the number that will be released four days after, Gort will deactivate. (If on one of the required days Ash did not draw the dice, for example two days before the first day, the number that came out is considered different.) What is the probability that the world will not end? As a response, provide the first four digits after the comma.
+
+**Answer:** 8848
+[[src_cesenatico_2012_pubblico__Q10]]

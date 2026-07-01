@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q12
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Velocita del treno nella galleria*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Speed of train in the tunnel*
+
+> A 144 meter long train crosses a 2004 meter long tunnel. It is exactly 20 seconds since the tail of the last wagon enters the tunnel until the engine nose, which is in front of the train, comes out of the tunnel. What is the speed of the train in meters per second? (A) less than 60 B) 60 C) 85.8 D) 93 E) more than 100
+
+**Answer:** D
+[[src_kangourou_2004_cadet__Q12]]

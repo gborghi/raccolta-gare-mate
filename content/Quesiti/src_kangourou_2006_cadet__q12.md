@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q12
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prezzo della tenda da percentuali dei contributi*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Price of the tent as a percentage of contributions*
+
+> Andrea, Bruno, and Carlo combined their savings to buy a tent for camping. Carlo contributed 60% of the price, Andrea contributed 40% of the remaining share. Bruno added the missing 30 euros. What was the price in euros for the tent? A) 50 B) 60 C) 125 D) 150 E) 200
+
+**Answer:** C
+[[src_kangourou_2006_cadet__Q12]]

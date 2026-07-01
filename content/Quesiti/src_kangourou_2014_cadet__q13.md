@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q13
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età della nipote (potenze di 2 con somma 100)*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Age of granddaughter (powers of 2 plus 100) < MSK1/>
+
+> This year a friend of mine, her daughter and her granddaughter all have ages that, in years, are powers of two and the sum of their ages is 100 years. How old is your granddaughter? A) 1
+> 	
+> B) 2
+> 	
+> C) 4
+> 	
+> D) 8
+> 	
+> E) 16
+
+**Answer:** C
+[[src_kangourou_2014_cadet__Q13]]

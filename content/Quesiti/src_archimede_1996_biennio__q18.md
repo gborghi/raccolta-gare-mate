@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Biennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_biennio__Q18
 parent: src_archimede_1996_biennio
 competition: Giochi di Archimede 1996 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti angoli maggiori di 90 gradi in un quadrilatero*
 
@@ -46,3 +49,20 @@ tags:
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ARzIV3wHmzpV455NSIYGulflPgheKY6p/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many angles greater than 90 degrees in a quadrilateral*
+
+> How many angles greater than 90° can a quadrilateral (unwoven) have?
+>
+> - **(A)** He always has at least one .
+> - **(B)** He has at most one.
+> - **(C)** He has two at most.
+> - **(D)** He has three at most.
+> - **(E)** You can have four.
+
+**Answer:** D
+[[src_archimede_1996_biennio__Q18]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q27
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura angolo BAC in figura*
 
@@ -66,3 +69,40 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measure the BAC angle in Figure *
+
+![[src_kangourou_2000_studenti__prob27.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.5]
+  \coordinate (A) at (0.5, 1.866);
+  \coordinate (B) at (0, 1);
+  \coordinate (C) at (0, 0);
+  \coordinate (D) at (1, 0);
+  \coordinate (E) at (1, 1);
+  \draw[line width=1.5pt] (A) -- (B) -- (C) -- (D) -- (E) -- (A);
+  \draw[dotted, line width=1.2pt] (A) -- (C);
+  \node[above] at (A) {$A$};
+  \node[left] at (B) {$B$};
+  \node[below left] at (C) {$C$};
+  \node[below right] at (D) {$D$};
+  \node[right] at (E) {$E$};
+  \node[left, font=\small] at (0.25, 1.433) {$1$};
+  \node[right, font=\small] at (0.75, 1.433) {$1$};
+  \node[left, font=\small] at (0, 0.5) {$1$};
+  \node[right, font=\small] at (1, 0.5) {$1$};
+  \node[below, font=\small] at (0.5, 0) {$1$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure, the angle BÂC is measured: A) 15° B) 12° C) 30° D) 20° E) Other
+
+**Answer:** A
+[[src_kangourou_2000_studenti__Q27]]

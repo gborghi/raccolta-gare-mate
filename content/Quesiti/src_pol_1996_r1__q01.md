@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1996 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1996_r1__Q01
 parent: src_pol_1996_r1
 competition: Olimpiade Matematica Polacca 1996 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive integers n for which tan x + cot x = 2 sin nx has a real solution*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare numeri interi positivi n per i quali tan x + cot x = 2 sin nx ha una soluzione reale*
+
+> Trova tutti gli integri positivi $n$ per i quali l'equazione $\tan x + \cot x = 2\sin nx$ ha una soluzione reale.
+
+[[src_pol_1996_r1__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q10
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conclusione sul vicino Franco*
 
@@ -46,3 +49,21 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Conclusion on neighbour Franco*
+
+> Alberto is always lying. One day he told his neighbor Franco, "At least one of us never lies". On the basis of this information, it can be concluded that
+>  
+> A. Franco always lies.
+>  
+> B. Frank lies at least sometimes, but it's not always C. Franco always tells the truth, D. Franco sometimes tells the truth, but he doesn't always tell it E. Franco said nothing .
+>  
+>  
+> The questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** B
+[[src_kangourou_2002_junior__Q10]]

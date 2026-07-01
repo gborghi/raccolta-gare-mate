@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2018__Q07
 parent: src_tfjm_2018
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018
@@ -41,6 +42,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A generalized knight that moves a squares then b squares perpendicular on the infinite board Z^2; determine for which (a,b) all squares are reachable, study the number reachable in k moves, the number on square (0,1), irregular squares, and an intervention-time quantity.*
 
@@ -71,3 +74,25 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un cavaliere generalizzato che muove un quadrato e poi b quadrati perpendicolari sulla tavola infinita Z^2; determinare per quale (a,b) tutti i quadrati sono raggiungibili, studiare il numero raggiungibile in k movimenti, il numero sul quadrato (0,1), quadrati irregolari e una quantità di tempo di intervento.*
+
+> Il cavaliere testardo. Ada gioca a scacchi. Studia il movimento del suo pezzo preferito, il cavaliere, su una scacchiera infinita (le cui quadrate sono indicizzate da $\mathbb{Z}^2$). Più precisamente, $a$ e $b$ siano due integri con $0\le a\le b$. Ada studia un pezzo che chiama cavaliere di tipo $(a,b)$, che a ogni turno può spostare quadrati $a$ paralleli ad un asse della lavagna, quindi quadrati $b$ nell'altra direzione perpendicolare. Ad esempio, il solito cavaliere di scacchi è il cavaliere di tipo $(1,2)$. Il cavaliere parte dal quadrato $(0,0)$.
+> 
+> 1. Come funzione di $a$ e $b$, il cavaliere del tipo $(a,b)$ può raggiungere ogni quadrato della tavola infinita? Si possono considerare arbitrari i seguenti valori di $(a,b)$: a) $(1,1)$; b) $(1,2)$; c) $(1,3)$; d) $(2,3)$; e) $(a,b)$. [Nota di seguito: Questa domanda è studiata nell'articolo "Contando il numero di quadrati raggiungibili in $k$ Movimenti di Cavaliere", di A. Miller e B. Farnsworth. Si può usare il risultato trovato lì ma si raccomanda di trattare i problemi del problema.]
+> 
+> 2. Ada scrive $u_k$ per il numero di quadrati della scheda raggiungibili in $k$ mosse (cioè per il quale il numero minimo di mosse è $k$). Determinare la sequenza $(u_k)$. Come si comporta questa sequenza quando $k\to+\infty$? Sta aumentando?
+> 
+> 3. Qual è il numero scritto sul quadrato $(0,1)$ (il numero minimo di mosse per raggiungerlo)? Propone una stima.
+> 
+> 4. Ada dice che un quadrato $c$ è regolare se, per ogni quadrato $c'$ vicino $c$, la differenza tra i numeri scritti su $c$ e su $c'$ è sempre la stessa. Quanti quadrati non sono regolari? Se questo numero è finito, calcolalo. Altrimenti, qual è la più grande differenza tra due quadrati vicini che si può osservare infinitamente spesso?
+> 
+> 5. Per un intero $n\in\mathbb{N}^*$, Ada scrive $B_n$ per l'insieme di quadrati della forma $(x,y)$ con $x,y\in\mathbb{Z}$ e $|x|,|y|\le n$. Il tempo di intervento di un cavaliere in $B_n$ è il numero più grande scritto sui quadrati di $B_n$. Per quali valori di $(a,b)$ il tempo di intervento in $B_n$ è minimo? Ada scrive $T_n$ per questo valore. Valutare $T_n$ in funzione di $n$.
+> 
+> 6. Proporre e studiare altre direzioni di ricerca.
+
+[[src_tfjm_2018__Q07]]

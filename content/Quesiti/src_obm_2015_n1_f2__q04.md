@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f2__Q04
 parent: src_obm_2015_n1_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2015 people at round table, each says one neighbor honest and one dishonest; count honest*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2015 persone a tavola rotonda, ognuno dice un vicino onesto e un disonesto; contare onesto*
+
+> Ci sono persone < MSK0/> sedute attorno a un tavolo circolare. Ognuno di loro è onesto o disonesto. Ognuno dice: "Uno dei miei due vicini (il di sinistra o quello di destra) è onesto, e l'altro è disonesto".
+
+[[src_obm_2015_n1_f2__Q04]]

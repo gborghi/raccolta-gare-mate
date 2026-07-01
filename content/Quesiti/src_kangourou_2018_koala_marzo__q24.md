@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q24
 parent: src_kangourou_2018_koala_marzo
 competition: Kangourou 2018 Gioco Koala (Marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giocattolo piu economico e piu costoso dai prezzi*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1AGwjurQUucDfrq-UuV0KeOG7NZtWOZs2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Cheaper and more expensive toy by price
+
+![[src_kangourou_2018_koala_marzo__prob24.png]]
+
+> Ornella bought some toys. Their price satisfies all these equality (see figure). Which are, in order, the cheapest and most expensive toys? (see figure)
+
+**Answer:** E
+[[src_kangourou_2018_koala_marzo__Q24]]

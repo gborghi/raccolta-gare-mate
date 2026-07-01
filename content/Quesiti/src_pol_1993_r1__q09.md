@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r1__Q09
 parent: src_pol_1993_r1
 competition: Olimpiade Matematica Polacca 1993 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove an inequality for three real numbers.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rimostra una disuguaglianza per tre numeri reali.*
+
+> Lasciate che $a,b,c$ siano numeri reali. Provare la disuguaglianza $$(a^2+b^2-c^2)(b^2+c^2-a^2)(c^2+a^2-b^2)\le(a+b-c)^2(b+c-a)^2(c+a-b)^2.$$
+
+[[src_pol_1993_r1__Q09]]

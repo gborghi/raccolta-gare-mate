@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_finale__Q11
 parent: src_garasquadre_2006_finale
 competition: VII Gara Nazionale a Squadre 2006 - Finale
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *max fogli*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9998
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gZSw1a8n1M4j9DvH6wTbhtIqnyyqml42/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>max sheets< MSK1/>
+
+> Dangerous games Playing with tricks can be quite dangerous. The 5,000 students of the house of Rapportaureo drank a potion that forced them to tell the truth all the time, while the 5,000 students of the house of Partimmaginaria drank a potion that forced them to always lie. The 10,000 students of the two houses are arranged in a circle and each one writes on a scroll. My right neighbor is from Rapporteur or my right neighbor is from Partimagineria. Of course, everyone knows which houses the neighbors belong to. How many sheets of my right-hand neighbor's reporting can there be, at most?
+> 
+> Team competition 2006  National final  Problem texts  Pag. 3 di 4
+
+**Answer:** 9998
+[[src_garasquadre_2006_finale__Q11]]

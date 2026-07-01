@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2009 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2009__Q11
 parent: src_cn_cmc_2009
 competition: China Mathematical Competition 2009
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum and minimum of sqrt(x)+sqrt(x+27)+sqrt(13-x) on [0,13]*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\max = 11,\ \min = 3\sqrt{3} + \sqrt{13}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Massimo e minimo di sqrt(x)+sqrt(x+27)+sqrt(13-x) su [0,13]*
+
+> Trova il massimo e il minimo della funzione $$y = \sqrt{x} + \sqrt{x + 27} + \sqrt{13 - x}$$ per $x \in [0, 13]$.
+
+**Risposta:** \max = 11,\ \min = 3\sqrt{3} + \sqrt{13}
+[[src_cn_cmc_2009__Q11]]

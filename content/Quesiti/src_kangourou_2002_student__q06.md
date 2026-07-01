@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q06
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Diminuzione volume ghiaccio che fonde*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Reduction in the volume of melting ice< MSK1/>
+
+> When frozen, water increases its volume by 1 / 11. How much less ice does the volume decrease when water returns?
+>  
+> A. 1 / 11 B. 1 / 10 C. 1 / 12 D. 1 / 13 E. 1 / 14
+
+**Answer:** C
+[[src_kangourou_2002_student__Q06]]

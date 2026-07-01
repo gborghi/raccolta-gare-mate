@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f2__Q03
 parent: src_obm_2001_n1_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum folds to get more than 100 holes when unfolding*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OU_kkwljknqnKJvISMf5e6JcgwurbdgC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Minimum di pieghe per ottenere più di 100 fori quando si svolgono< MSK1/>
+
+> Carlitos fa un buco in un foglio di carta rettangolare. Si piega il foglio a metà e fa un buco; poi si piega di nuovo il foglio già piegato a metà e fa un buco. Può ripetere questa procedura tutte le volte che vuole, evitando sempre di colpire dove ci sono già buchi. Quando si apre il foglio, viene contato il numero totale di buchi. Quante pieghe deve fare almeno per ottenere più di 100 buchi nel foglio?
+
+**Risposta:** 6
+[[src_obm_2001_n1_f2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 2017 papers — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2017__Q05
 parent: src_imo_2017
 competition: IMO 2017 papers
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rimuovere giocatori lasciando 2N con condizioni altezza*
 
@@ -46,3 +49,23 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1f-FfFFSte2Xcf0IS6inIxe8_MiXPlKgB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Remove players by leaving 2N with height conditions*
+
+> A whole < MSK0/> is given. A collection of $N(N+1)$ footballers, of which there are no two of the same height, is arranged in a row. Sir Alex wants to remove $N(N-1)$ players from this row, leaving a new row of $2N$ players where the following $N$ conditions apply:
+> 
+> (1) no one is between the two highest players,
+> 
+> (2) No player is between the third and fourth highest,
+> 
+> $\vdots$
+> 
+> (N) No one is between the two lowest players.
+> 
+> Prove that this is always possible.
+
+[[src_imo_2017__Q05]]

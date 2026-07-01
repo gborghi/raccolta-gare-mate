@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2009 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2009__Q04
 parent: src_cn_csmo_2009
 competition: China Southeastern Mathematical Olympiad 2009
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum triangles covering all chords among 12 red circle points*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 11
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangoli minimi che coprono tutti gli accordi tra i 12 punti del cerchio rosso*
+
+> Ci sono 12 punti rossi su un cerchio. Trovare il minimo di $n$, in modo che esistano triangoli $n$, le cui vertici sono punti rossi, che soddisfano ogni corda con punti terminali rossi che sono un lato di un triangolo. (Posato da Tao Pingsheng)
+
+**Risposta:** 11
+[[src_cn_csmo_2009__Q04]]

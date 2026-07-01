@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Gara del pubblico — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_pubblico__Q02
 parent: src_squadre_2023_pubblico
 competition: Gara a Squadre 2023 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza retta s dal centro di Gamma2, raggi 8 e 52*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0036
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Right distance s from the centre of Gamma2, rays 8 and 52< MSK1/>
+
+> The first to join Lupin's adventures was Jig, a skilled gunfighter and problem solver. For example, while recharging, he determined the maximum area that a triangle can have with the shortest side measuring 40 and the longest side measuring 101. What is it?
+
+**Answer:** 0036
+[[src_squadre_2023_pubblico__Q02]]

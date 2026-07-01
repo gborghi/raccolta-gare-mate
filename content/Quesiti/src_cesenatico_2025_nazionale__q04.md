@@ -1,6 +1,7 @@
 ---
 title: Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2025_nazionale__Q04
 parent: src_cesenatico_2025_nazionale
 competition: Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di potenze di 2 come somma di coppie in S*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2024
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1qB7eL3B9ur3wfVhNrlYiTjMkleeW6oDL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum power of 2 as sum of pairs in S*
+
+> A set S is said to be annual if it is composed of positive real numbers (distinguished) by 2025. For each set of years S, we indicate with d(S) the number of powers of 2, with distinct positive integers, which can be written as the sum of two distinct elements of S. Determine the maximum of dS for the variation of S between all sets of years.
+
+**Answer:** 2024
+[[src_cesenatico_2025_nazionale__Q04]]

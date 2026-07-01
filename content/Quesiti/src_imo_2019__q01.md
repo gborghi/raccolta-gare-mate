@@ -1,6 +1,7 @@
 ---
 title: IMO 2019 papers — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2019__Q01
 parent: src_imo_2019
 competition: IMO 2019 papers
@@ -24,6 +25,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Z->Z con f(2a)+2f(b)=f(f(a+b))*
 
@@ -34,3 +37,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JyHT55oZouRQ04YAx-a4_fyuMYOtPSWx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Z->Z with f(2a)+2f(b)=f(f(a+b))*
+
+> It is < MSK1/> the set of integers. Determine all functions $f : \mathbb{Z} \to \mathbb{Z}$ such that, for all integers $a$ and $b$, $$f(2a) + 2f(b) = f(f(a+b)).$$
+
+[[src_imo_2019__Q01]]

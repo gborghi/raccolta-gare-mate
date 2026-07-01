@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f1__Q11
 parent: src_obm_2012_n1_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Weight of Juquinha's purchase given three system-of-equations clues*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Peso dell'acquisto di Juquinha dato tre indizi di sistema di equazioni*
+
+> In un negozio di attrezzatura, vengono venduti vari prodotti in base al peso. Un chiodo, cinque bulloni e due noci pesano 24 grammi. Due chiodi, cinque bulloni e quattro noci pesano 44 grammi. Cinque chiodi, 32 bulloni e cinque noci pesano 200 g. Juquinha ha comprato 12 chiodi, 32 bulloni e cinque noci. Quanto pesava l'acquisto?
+> 
+> (A) 200 g \quad (B) 208 g \quad (C) 256 g \quad (D) 272 g \quad (E) 280 g
+
+**Risposta:** D
+[[src_obm_2012_n1_f1__Q11]]

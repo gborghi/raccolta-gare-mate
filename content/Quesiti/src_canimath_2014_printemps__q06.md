@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2014 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2014_printemps__Q06
 parent: src_canimath_2014_printemps
 competition: Coupe Animath Printemps 2014
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max circles at equal distance from four non-concyclic points*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXbOAjNKTjFFzbKdpAWQivUPB4zcjEuT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circoli massimi a distanza uguale da quattro punti non conciclici*
+
+> Se si considera un punto $P$ e un cerchio $\mathcal{C}$ nel piano, definire la distanza da $P$ a $\mathcal{C}$ come la lunghezza minima $PM$ in cui $M$ è un punto sul cerchio $\mathcal{C}$. Per esempio, se $P$ appartiene al cerchio, la distanza da $P$ a $\mathcal{C}$ è zero, e se $P$ è il centro del cerchio, la distanza da $P$ a $\mathcal{C}$ è pari al raggio di $\mathcal{C}$.
+> 
+> Dati quattro punti non conciclici $A, B, C, D$, qual è il numero massimo di cerchi che si trovano a distanza uguale da tutti e quattro i punti?
+
+[[src_canimath_2014_printemps__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f1__Q19
 parent: src_obm_2010_n1_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify who made the false statement in a card game*
 
@@ -56,3 +59,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare chi ha fatto la dichiarazione falsa in un gioco di carte*
+
+> Quattro amici  Arnaldo, Bernaldo, Cernaldo e Dernaldo  stanno giocando a carte. Esistono diverse schede $20$ in $4$ (blu, giallo, verde, rosso e viola) e numerate $1$ a $5$. Ogni amico riceve carte $5$ in modo che tutte le carte siano distribuite. Essi fanno le seguenti dichiarazioni:
+> 
+> Arnaldo: ``Ho quattro carte con lo stesso numero.'' Bernaldo: ``Ho cinque carte rosse.'' Cernaldo: ``Le mie cinque carte iniziano tutte con la lettera V.'' Dernaldo: ``Ho tre carte con un numero e due carte con un altro numero.''
+> 
+> È noto che esattamente una delle affermazioni è falsa. Chi ha fatto la falsa dichiarazione?
+> 
+> (A) Arnaldo \quad (B) Bernaldo \quad (C) Cernaldo \quad (D) Dernaldo \quad (E) Non è possibile determinare.
+
+**Risposta:** B
+[[src_obm_2010_n1_f1__Q19]]

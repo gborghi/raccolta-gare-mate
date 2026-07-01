@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - finale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet_finale__Q03
 parent: src_kangourou_2021_cadet_finale
 competition: Kangourou 2021 Cadet - finale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto dei volumi di due sfere a distanza 100x*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1000000
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio of volumes of two spheres at a distance 100x*
+
+![[src_kangourou_2021_cadet_finale__prob3.png]]
+
+> When you observe two spheres of different rays from a distance, they appear to you of the same size (as, for example, might happen to the sun and the moon). However, the distance of the largest from you is $100$ times the distance of the smallest (assume that the distances are estimated between you and the centers of the spheres). What is the ratio of the volume of the largest to the volume of the smallest?
+
+**Answer:** 1000000
+[[src_kangourou_2021_cadet_finale__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo14yq_yosen__Q11
 parent: src_jjmo14yq_yosen
 competition: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min self-crossings of one-stroke path over 2016-row triangle figure*
 
@@ -50,3 +53,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Min autoincroci del percorso a un tempo su una figura triangolare di 2016 riga*
+
+> Si consideri la figura ottenuta accumulando le righe $2016$ in cui la riga $k$-th contiene $k$ piccoli triangoli equilaterali che puntano verso il basso disposti in una linea. Partendo dal punto medio del lato più alto e disegnando in un colpo continuo (senza sollevare la penna) in modo che ogni lato di ogni piccolo triangolo che punta verso il basso venga superato esattamente una volta, il percorso si attraversa $T$ volte nel corso del disegno. Trova il valore minimo possibile di $T$.
+
+![[src_jjmo14yq_yosen__Q11.png]]
+
+**Risposta:** 7559
+[[src_jjmo14yq_yosen__Q11]]

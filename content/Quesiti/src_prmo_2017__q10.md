@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q10
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ways to place 4 guests in 8 corridor rooms with no two adjacent or opposite*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Medi per collocare 4 ospiti in 8 camere corridoio senza due adiacenti o opposti*
+
+> Nel primo piano dell'hotel ci sono otto camere, con quattro camere a ciascun lato del corridoio, situate simmetricamente (cioè ciascuna stanza è esattamente opposta ad un'altra). Quattro ospiti devono essere ospitati in quattro delle otto camere (cioè una in ciascuna) in modo tale che non ci siano due ospiti nelle camere adiacenti o opposte. In quanti modi si possono ospitare gli ospiti?
+
+[[src_prmo_2017__Q10]]

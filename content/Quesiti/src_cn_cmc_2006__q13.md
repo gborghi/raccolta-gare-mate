@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2006 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2006__Q13
 parent: src_cn_cmc_2006
 competition: China Mathematical Competition 2006
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove integer sequence k_m defined by intersection of y^2=kx-1 and y=x satisfies recurrence*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la sequenza di numeri interi k_m definita dall'intersezione di y^2=kx-1 e y=x soddisfa la ricorrenza*
+
+> Date un numero intero $n \ge 2$, definire $M_k(x_k, y_k)$ come punto di intersezione della parabola $y^2 = kx - 1$ e della linea $y = x$. Prova che per qualsiasi numero intero positivo $m$, $k_m = x_m + \dfrac{1}{x_m}$ è un numero intero positivo, dove $k_0 = n$ e $k_{m+1} = k_m^2 - k_{m-1}$ (con $k_1 = n^2 - 2$).
+
+[[src_cn_cmc_2006__Q13]]

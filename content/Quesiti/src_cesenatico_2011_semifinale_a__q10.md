@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_a__Q10
 parent: src_cesenatico_2011_semifinale_a
 competition: Gara a Squadre Cesenatico 2011 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *5 affermazioni*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2222
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The following information is provided for in the Annex to Delegated Regulation (EU) 2015/61.
+
+> Druid or impostor? Gathered together a group of 5 self-styled druids, Archidrus listens to them one by one to determine if there are any impostors infiltrated by the Romans. All the suspects know who the druids are and who the impostors are. Druids always tell the truth, impostors always lie. The five suspects make the following statements: A: The number of druids present is a multiple of 3. B: There's only one impostor among us. C: A and B are both druids. D: Me and A are not impostors. E: D is lying. In the answer, use the numbers from left to right to indicate what you can say about each of the first 4 individuals: 1 if it's a druid, 2 if it's an impostor, 0 if it can't be determined uniquely.
+
+**Answer:** 2222
+[[src_cesenatico_2011_semifinale_a__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1985-86 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1985-86_round1__Q05
 parent: src_bmo_1985-86_round1
 competition: British Mathematical Olympiad 1985-86 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count permutations of 1..n with bounded jump constraints*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lLrqivQ3O-Z7kbBj5SWrC104ePjmgMFw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggi permutazioni di 1..n con restrizioni di salto limitate*
+
+> Trova, con prova, il numero di permutazioni $$a_1, a_2, \ldots, a_n$$ di $1, 2, \ldots, n$ in modo tale che $$a_r \le a_{r+2} \quad\text{for } 1 \le r \le n-2$$ e $$a_r \le a_{r+3} \quad\text{for } 1 \le r \le n-3 .$$ (In una permutazione appaiono ciascuno dei numeri $1, 2, \ldots, n$.)
+
+[[src_bmo_1985-86_round1__Q05]]

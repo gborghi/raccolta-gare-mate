@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Junior (gara marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior__Q02
 parent: src_kangourou_2012_junior
 competition: Kangourou 2012 Junior (gara marzo)
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Calcolo di 11.111-1.1111*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Calculation of 11.111-1.1111< MSK1/>
+
+> The speed of a pedestrian and that of a cyclist are in the ratio of 2 to 7. The pedestrian covers 4 kilometers in an hour. How many miles does a cyclist travel in four hours? A) 14 B) 16 C) 28 D) 36 E) A number different from the previous one
+
+[[src_kangourou_2012_junior__Q02]]

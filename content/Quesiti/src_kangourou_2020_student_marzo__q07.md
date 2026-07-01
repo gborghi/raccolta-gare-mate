@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q07
 parent: src_kangourou_2020_student_marzo
 competition: Kangourou 2020 Student - gara marzo (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo b con a<=b<=c e abc=10^6*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum b with a<=b<=c and abc=10^6*
+
+> If a, b and c are integers such that 1 ≤ a ≤ b ≤ c and abc = 1,000,000, what is the maximum value that b can assume? A) 100 B) 250 C) 500 D) 1000 E) 2000
+
+**Answer:** D
+[[src_kangourou_2020_student_marzo__Q07]]

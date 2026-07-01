@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q25
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *grigi dopodomani*
 
@@ -61,3 +64,23 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>grey the day after< MSK1/>
+
+![[src_kangourou_2016_cadet_marzo__prob25.png]]
+
+> The figure shows a cube of 64 cubes, of which exactly one, the one shown, is gray. At dawn of each day, starting tomorrow, all cubes adjacent to a grey cubet will turn grey (two cubes are adjacent if they have a face in common). How many grey cubes will there be after tomorrow night? A) 11
+> 	
+> B) 13
+> 	
+> C) 15 D) 16
+> 	
+> E) 17
+>
+
+**Answer:** C
+[[src_kangourou_2016_cadet_marzo__Q25]]

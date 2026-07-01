@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q20
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of first 10 positive multiples of n; compute S5+S10*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa dei primi 10 multipli positivi di n; calcolo S5+S10*
+
+> Per ogni numero naturale $n$, $S_n$ è la somma dei primi dieci multipli positivi di $n$. Ad esempio, $S_2 = 2 + 4 + 6 + 8 + 10 + 12 + 14 + 16 + 18 + 20$. Che cos' è < MSK4/>?
+> 
+> **(A)** $2925$ $\quad$ **(B)** $3025$ $\quad$ **(C)** $3125$ $\quad$ **(D)** $3225$ $\quad$ **(E)** $3325$
+
+**Risposta:** C
+[[src_obm_2009_n2_f1__Q20]]

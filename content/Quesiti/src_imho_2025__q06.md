@@ -1,6 +1,7 @@
 ---
 title: IMO 2025 (LXVI International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2025__Q06
 parent: src_imho_2025
 competition: IMO 2025 (LXVI International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimum tiles to cover every row and column unit square in 2025x2025 grid*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pjXhaUlYZwLGrFG-3qMO2-K-raAkyAEG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum tiles to cover every row and column unit square in 2025x2025 grid*
+
+> Consider a $2025 \times 2025$ grid of unit squares. Matilda wishes to place on the grid some rectangular tiles, possibly of different sizes, such that each side of every tile lies on a grid line and every unit square is covered by at most one tile.
+> 
+> Determine the minimum number of tiles Matilda needs to place such that for each row and each column of the grid there is exactly one unit square that is not covered by any tile.
+
+[[src_imho_2025__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_ecolier__Q24
 parent: src_kangourou_2002_ecolier
 competition: Kangourou 2002 - Ecolier (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime tre lettere della sequenza di 2002*
 
@@ -57,3 +60,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The last three letters of the 2002 sequence*
+
+> Using the letters A, B, C you make up the sequence formed by 2002 letters starting with A B C B A B C B A B C B B A B B B B B B B B B B B B B B A....... And he keeps repeating this block of letters. What are the last three letters?
+>  
+> A. ABC B. BCB C. CBA D BAB
+>  
+> E. CAB
+>  
+> 
+> The Commission has not yet taken any further action. This item is not intended to be used. 1 Kangourou Italy Competition of 21 March 2002 Category Schools For fourth and fifth graders Solutions
+>  
+>  
+> The correct answer is indicated in round brackets after the question number.
+
+**Answer:** D
+[[src_kangourou_2002_ecolier__Q24]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q15
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Final shape of a repeating metal-strip panel*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Finalità di un pannello a striscia metallica ripetuta*
+
+> Un fabbro salda strisce di metallo per produrre pezzi identici che saranno uniti per fare il pannello mostrato di seguito. Il disegno mostra le misure, in centimetri, di uno dei pezzi. Il fabbro utilizza esattamente < MSK0/> metri di striscia per realizzare il suo lavoro. Quale dei disegni di seguito rappresenta il pannello finale?
+> 
+> A) B) C) D) E)
+
+![[src_obm_2005_n1_f1__Q15.png]]
+
+**Risposta:** D
+[[src_obm_2005_n1_f1__Q15]]

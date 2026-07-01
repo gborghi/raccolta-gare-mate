@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_2livello__Q15
 parent: src_archimede_2010_2livello
 competition: Archimede Gara 2° livello 2010 (biennio/triennio)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Terne (p,q,n) primi con p^2+q^2 = pqn+1*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (2,3,2) e (3,2,2)
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Term (p,q,n) prime with p^2+q^2 = pqn+1*
+
+> DEMOSTRATIVE EXERCISE Find all the ordered sets of positive integers (p, q, n) such that p, q are prime and p2 + q2 = pqn + 1.
+
+**Answer:** (2,3,2) e (3,2,2)
+[[src_archimede_2010_2livello__Q15]]

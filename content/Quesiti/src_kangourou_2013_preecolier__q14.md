@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Pre-Ecolier — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_preecolier__Q14
 parent: src_kangourou_2013_preecolier
 competition: Kangourou 2013 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti cubi ha usato Pietro per il podio*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ykejBpK7Wiwv-x_5BvjdytAue5Y_N6nU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many cubes did Peter use for the podium?
+
+![[src_kangourou_2013_preecolier__prob14.png]]
+
+> Peter builds the illustrated podium. How many cubes did you use? A) 12
+> 	
+> B) 18
+> 	
+> C) 19
+> 	
+> D) 22 E) 24
+
+**Answer:** E
+[[src_kangourou_2013_preecolier__Q14]]

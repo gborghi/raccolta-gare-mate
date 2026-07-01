@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f1__Q07
 parent: src_obm_1998_n2_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Secret code: find a+b+c+d from digit equations*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Codice segreto: trovare a+b+c+d dalle equazioni digitali*
+
+> In un codice segreto, le prime 10 lettere dell'alfabeto rappresentano i numeri da 0 a 9, con ogni lettera corrispondente esattamente a una cifra e viceversa. È noto che < MSK0/>, < MSK1/>, < MSK2/>, < MSK3/> e < MSK4/>. Possiamo concludere che $a + b + c + d$ è uguale a:
+> 
+> A) 0 B) 2 C) 4 D) 6 E) 8
+
+**Risposta:** D
+[[src_obm_1998_n2_f1__Q07]]

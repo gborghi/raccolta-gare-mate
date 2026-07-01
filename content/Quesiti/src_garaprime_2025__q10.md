@@ -1,6 +1,7 @@
 ---
 title: X Gara Nazionale Classi Prime 2025 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2025__Q10
 parent: src_garaprime_2025
 competition: X Gara Nazionale Classi Prime 2025
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numeri della tombola con vincoli somma e prodotto*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of headings with sum and product constraints*
+
+> I take the 90 numbers from the casing and I want to put some of them inside the bag so that if I take out two of any of these, I'm sure their sum will be less than or equal to 25 and their product will be greater than or equal to 50. How many numbers, at most, can I choose?
+>
+> - **(A)** 5
+> - **(B)** 7
+> - **(C)** 9
+> - **(D)** 11
+> - **(E)** 6
+
+**Answer:** B
+[[src_garaprime_2025__Q10]]

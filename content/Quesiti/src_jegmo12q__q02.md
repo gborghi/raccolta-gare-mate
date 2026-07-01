@@ -1,6 +1,7 @@
 ---
 title: Japan EGMO Selection / Girls MO 2023 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jegmo12q__Q02
 parent: src_jegmo12q
 competition: Japan EGMO Selection / Girls MO 2023
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Midpoint of PQ lies on circumcircle of ABC; orthocenter collinearity*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e28_MsSTS9vi8erfj7ZsfuDBusJwGwNV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il centro di PQ si trova sul circoncircolo di ABC; collinearità dell'ortocentro*
+
+> Il $ABC$ deve essere un triangolo acuto con il centro orto $H$. Prendi un punto $P$ (diverso da $H$) sul circoncircolo di $\triangle AHB$, e un punto $Q$ (diverso da $H$) sul circoncircolo di $\triangle AHC$, in modo tale che $P$, $H$, $Q$ siano collineari in questo ordine. Indicare che il punto medio del segmento $PQ$ si trova sul circoncircolo di $\triangle ABC$.
+
+[[src_jegmo12q__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_triennio_rec__Q10
 parent: src_archimede_2024_triennio_rec
 competition: Giochi di Archimede 2024 - Gara Triennio (riserva)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di sedere 4 coppie di sorelle accanto*
 
@@ -43,3 +46,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How to sit 4 pairs of sisters next to each other
+
+> Four sisters want to sit on a bench. They all want to be with their sister. How many ways can they go from left to right?
+>
+> - **(A)** 480
+> - **(B)** 384
+> - **(C)** 360
+> - **(D)** 432
+> - **(E)** 420
+
+[[src_archimede_2024_triennio_rec__Q10]]

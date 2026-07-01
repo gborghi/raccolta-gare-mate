@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q09
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integers a,b where a+b is root of x^2+ax+b=0, maximum value of b^2*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integri a,b dove a+b è radice di x^2+ax+b=0, valore massimo di b^2*
+
+> Supponiamo che $a, b$ siano numeri interi e $a + b$ sia una radice di $x^2 + ax + b = 0$. Qual è il valore massimo possibile di $b^2$?
+
+**Risposta:** 16
+[[src_prmo_2018__Q09]]

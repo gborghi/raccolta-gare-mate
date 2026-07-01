@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q25
 parent: src_kangourou_2019_junior_marzo
 competition: Kangourou 2019 Gara marzo Junior (biennio)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quali vertici puo trovarsi la pulce dopo 2019 salti*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which vertices can the fleas be found after 2019 jumps*
+
+![[src_kangourou_2019_junior_marzo__prob25.png]]
+
+> The geometric figure you see on the side is obtained by combining eight segments each of the eight vertices of the outer octagon with each of the eight vertices of the inner octagon. A flea that is now on the A-denoted vertex can only jump from one vertex to an adjacent one. Which of the peaks P, Q, R, S, T can be found after 2019 jumps? A) Only in P, R or S. B) In all but R. C) Only in Q.
+> 	
+> D) Only in T.
+> 	
+> E) None of them.
+
+**Answer:** C
+[[src_kangourou_2019_junior_marzo__Q25]]

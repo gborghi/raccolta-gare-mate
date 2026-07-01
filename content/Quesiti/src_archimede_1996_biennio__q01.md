@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Biennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_biennio__Q01
 parent: src_archimede_1996_biennio
 competition: Giochi di Archimede 1996 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza percorsa da un ciclista a velocita costante*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ARzIV3wHmzpV455NSIYGulflPgheKY6p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance travelled by a cyclist at constant speed*
+
+> A cyclist traveling at a constant speed of 5 m/s, how many miles does he travel in three hours?
+>
+> - **(A)** 15 km
+> - **(B)** 18 km
+> - **(C)** 50 km
+> - **(D)** 54 km
+> - **(E)** None of the previous ones.
+
+**Answer:** D
+[[src_archimede_1996_biennio__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1985-86 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1985-86_round1__Q04
 parent: src_bmo_1985-86_round1
 competition: British Mathematical Olympiad 1985-86 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest K in an inequality for the sides of any obtuse triangle*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lLrqivQ3O-Z7kbBj5SWrC104ePjmgMFw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*K più grande in una disuguaglianza per i lati di qualsiasi triangolo obtuso*
+
+> Trovare, con prova, il numero reale più grande $K$ (indipendente da $a$, $b$, $c$) in modo tale che l'ineguaglianza $$a^2 + b^2 + c^2 > K(a+b+c)^2$$ sia valida per le lunghezze $a$, $b$, $c$ dei lati di qualsiasi triangolo angolato obtuso.
+
+[[src_bmo_1985-86_round1__Q04]]

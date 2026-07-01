@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 27
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q27
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Product mn where area of pedal triangle DEF is m*sqrt(n) for isogonal point*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Produzione mn in cui l'area del triangolo pedale DEF è m*sqrt(n) per il punto isogonale*
+
+> In un triangolo $ABC$, un punto $P$ all'interno di $ABC$ è tale che $$\angle BPC - \angle BAC = \angle CPA - \angle CBA = \angle APB - \angle ACB.$$ supponga $\angle BAC = 30^\circ$ e $AP = 12$. Il $D, E, F$ deve essere il piede delle perpendicolari da $P$ a $BC, CA, AB$ rispettivamente. Se $m\sqrt{n}$ è l'area del triangolo $DEF$ dove $m, n$ sono numeri interi con $n$ primo, qual è il valore del prodotto $mn$?
+
+[[src_ioqm_2024__Q27]]

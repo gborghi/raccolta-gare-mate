@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2004 - Gara Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2004_triennio__Q15
 parent: src_archimede_2004_triennio
 competition: Giochi di Archimede 2004 - Gara Triennio
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Problema sull'equazione con interi positivi p,q (dimostrazione)*
 
@@ -35,3 +38,15 @@ tags:
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Problem of the equation with positive integers p,q (demonstration) *
+
+> A colony of amoeba multiplies in a pond. Initially, a clear and a dark amoeba are present; then, every day for 2004 consecutive days, a random amoeba among the existing ones (all having the same probability of being chosen, regardless of their age) splits into two amoeba identical to itself. What's the likelihood that there's only one dark amoeba in the pond at the end of day 2004?
+> 
+> (A) $\dfrac{1}{2^{2004}}$, (B) $\dfrac{1}{2004}$, (C) $\dfrac{2}{2005}$, (D) $\dfrac{1}{2004 \cdot 2005}$, (E) $\dfrac{2004}{2005}$.
+
+[[src_archimede_2004_triennio__Q15]]

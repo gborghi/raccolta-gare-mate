@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (finale nazionale) — Quesito C1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet_finale__QC1
 parent: src_kangourou_2006_cadet_finale
 competition: Kangourou 2006 - Cadet (finale nazionale)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione grigia tra cerchi concentrici*
 
@@ -52,3 +55,31 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 5/6
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oNnFL23n9WfxOc8CMwyvvJmHD7pBCd5S/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Gray fraction between concentric circles*
+
+![[src_kangourou_2006_cadet_finale__probC1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \fill[gray!60] (0,0) circle (3);
+  \fill[white] (-1,1) circle (0.5);
+  \fill[white] (1,1) circle (0.5);
+  \fill[white] (0,-1) circle (1);
+  \draw (0,0) circle (3);
+  \draw (-1,1) circle (0.5);
+  \draw (1,1) circle (0.5);
+  \draw (0,-1) circle (1);
+\end{tikzpicture}
+\end{document}
+```
+
+> The radius of the two small circles is one sixth of the radius of the large circle. The radius of the medium-sized circle is twice that of the small circles. What fraction of the large circle is colored gray? (see figure)
+
+**Answer:** 5/6
+[[src_kangourou_2006_cadet_finale__QC1]]

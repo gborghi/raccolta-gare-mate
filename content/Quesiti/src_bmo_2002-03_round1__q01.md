@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2002-03 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2002-03_round1__Q01
 parent: src_bmo_2002-03_round1
 competition: British Mathematical Olympiad 2002-03 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find digits contained in a specific large number*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qbsbqjxO0641BDChyC5CTANb8CFtOG6r/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i numeri contenuti in un numero specifico grande*
+
+> Dato che $$N = 2022327994814814600943000000,$$ determina le cifre contenute in $N$, cioè trovare quale dei numeri $0, 1, \ldots, 9$ appare nella rappresentazione decimale di $N$.
+
+[[src_bmo_2002-03_round1__Q01]]

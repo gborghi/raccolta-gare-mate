@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q29
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Insiemi di interi consecutivi con somma 100*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sets of consecutive integers with a sum of 100*
+
+> How many sets of consecutive positive integers are such that the sum of their numbers is exactly 100? (N.B. The sum consisting of only number 100 is excluded. A) 0            B) 1 C) 2 D) 3 E) 4
+
+**Answer:** C
+[[src_kangourou_2004_student__Q29]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q06
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eliminazione iterata dei pari da 9999 soldati, soldato di mezzo*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4097
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Iterate elimination of peers by 9999 soldiers, middle soldier
+
+> The 9999 soldiers of the Royal Guards of Franquie are assigned an identification number, from 1 to 9999. The commander wants to select a volunteer and proceeds as follows: he places the soldiers, in order of number, on a single line, and brings out of the ranks all the soldiers who occupy an equal place. Once the ranks are closed, repeat the same procedure until there are only three soldiers left. Of these, the middle soldier is the volunteer. Which number does the volunteer match?
+
+**Answer:** 4097
+[[src_cesenatico_2004_squadre__Q06]]

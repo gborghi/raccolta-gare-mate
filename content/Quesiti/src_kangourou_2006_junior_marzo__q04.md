@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q04
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di libri della biblioteca (25% e 1/9)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of books in the library (25% and 1/9) *
+
+> 4. Peter says that exactly 25% of his personal library is made up of literature books, while exactly 1/9 of it is made up of mathematics books. The number of Junior Junior books in Peter's library is known to be between 50 and 100. How many books is that library made of? A) 50 B) 54 C) 64 D) 72 E) 92
+
+**Answer:** D
+[[src_kangourou_2006_junior_marzo__Q04]]

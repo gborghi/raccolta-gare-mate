@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q09
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Litri nella botte che inizialmente ne conteneva di più*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 205 litri
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Litres in the batch which initially contained more < MSK1/>
+
+> Two (precious) barrels contain a total of 350 litres of Brunello di Montalcino. Taking 20 liters from the first bottle and 80 from the second, the wine left in the two bottles is the same (the same number of liters). How many liters were in the box that initially contained more?
+
+**Answer:** 205 litri
+[[src_bocconi_rosi_2011__Q09]]

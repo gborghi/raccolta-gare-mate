@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1982-83 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1982-83_round1__Q03
 parent: src_bmo_1982-83_round1
 competition: British Mathematical Olympiad 1982-83 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence x_n with x_1=-1, x_2=2; prove nS_n + F_n = 1 for all n*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza x_n con x_1=-1, x_2=2; provare nS_n + F_n = 1 per tutte le n*
+
+> I numeri reali $x_1, x_2, x_3, \ldots$ sono definiti da $$x_1 = -1, \quad x_2 = 2 \quad \text{and} \quad x_{n+1} = 2x_n - x_{n-1} \text{ for all } n \geq 1.$$ $S_n$ è la media e $F_n$ è il $n$-th termine della sequenza $y_1, y_2, \ldots$, dove $y_n = \dfrac{x_{n-1} + x_n}{2}$.
+> 
+> Prova che $nS_n + F_n = 1$ per tutti $n$.
+
+[[src_bmo_1982-83_round1__Q03]]

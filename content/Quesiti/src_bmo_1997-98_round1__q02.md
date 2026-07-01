@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1997-98 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1997-98_round1__Q02
 parent: src_bmo_1997-98_round1
 competition: British Mathematical Olympiad 1997-98 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Mod-100 Fibonacci-like sequence; sum of squares mod 8*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UZ524YDE6UQUHs3-dWJ9PRw0y50Efe-X/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza mod-100 simile a Fibonacci; somma dei quadrati mod 8*
+
+> Il valore di $a_1 = 19$, $a_2 = 98$. Per $n \ge 1$, definire $a_{n+2}$ come il rimanente di $a_n + a_{n+1}$ quando diviso da $100$. Qual è il rimanente quando $$a_1^2 + a_2^2 + \cdots + a_{1998}^2$$ è diviso da $8$?
+
+[[src_bmo_1997-98_round1__Q02]]

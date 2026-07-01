@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (gara marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q14
 parent: src_kangourou_2016_ecolier_marzo
 competition: Kangourou 2016 Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *zampe superano i nasi di 18*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>gumps exceed the noses by 18< MSK1/>
+
+> I have some dogs. Their legs are 18 times larger than their noses. How many dogs do I have? A) 4
+> 	
+> B) 5
+> 	
+> C) 6
+> 	
+> D) 8
+> 	
+> E) 9
+
+**Answer:** C
+[[src_kangourou_2016_ecolier_marzo__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo11yq_yosen__Q03
 parent: src_jmo11yq_yosen
 competition: Japan Mathematical Olympiad 2001 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Subsets of 1..2001 with odd sum*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $2^{2000}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Sottosette di 1..2001 con somma impar< MSK1/>
+
+> Dalle cifre naturali $2001$ $1, 2, 3, \ldots, 2001$ vengono scelte diverse cifre contemporaneamente. Quanti modi ci sono per sceglierne in modo che la somma totale dei numeri scelti sia strana? Per convenzione, quando nessun numero è scelto, la somma è $0$; inoltre, è consentito scegliere tutti i numeri $2001$.
+
+**Risposta:** 2^{2000}
+[[src_jmo11yq_yosen__Q03]]

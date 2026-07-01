@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2020 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2020__Q22
 parent: src_smc_2020
 competition: Senior Mathematical Challenge 2020
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perimeter of a rectangle formed by rearranging pieces cut from a unit square*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Perimetro di un rettangolo formato da riorganizzazione di pezzi tagliati da un quadrato unitario*
+
+> Un quadrato con perimetro di 4 cm può essere tagliato in due triangoli rettangolari congruenti e due trapezoi congruenti come mostrato nel primo diagramma in modo tale che i quattro pezzi possano essere riordinati per formare il rettangolo mostrato nel secondo diagramma. Qual è il perimetro, in centimetri, di questo rettangolo?
+>
+> - **(A)** $2\sqrt{5}$
+> - **(B)** $4\sqrt{2}$
+> - **(C)** $5$
+> - **(D)** $4\sqrt{3}$
+> - **(E)** $3\sqrt{7}$
+
+![[src_smc_2020__Q22.png]]
+
+**Risposta:** A
+[[src_smc_2020__Q22]]

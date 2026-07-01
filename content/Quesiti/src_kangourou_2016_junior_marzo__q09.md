@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q09
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *5 cifre, nessuna coppia somma 10*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*5 digits, no pairs sum 10*
+
+> 9. Sonia wrote five different positive integers to one digit on the board. He discovered that the sum of two of any of them is never 10. Which of these numbers is Sonia sure wrote on the board? A) 1 B) 2 C) 3 D) 4 E) 5
+
+**Answer:** E
+[[src_kangourou_2016_junior_marzo__Q09]]

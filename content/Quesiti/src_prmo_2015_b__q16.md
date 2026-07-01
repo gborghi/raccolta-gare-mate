@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_b__Q16
 parent: src_prmo_2015_b
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -31,6 +32,8 @@ tags:
   - regione/b
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle midpoints D,E,F; angle conditions; find angle ADF*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 40
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punti medi di un triangolo acuto D,E,F; condizioni di angolo; angolo di ricerca ADF*
+
+> Nel triangolo a angolo acuto $ABC$, $D$ deve essere il punto medio di $BC$. $E$ sia il punto medio di $AC$. $F$ sia il punto medio di $AB$. Supponiamo $\angle BAE = 40^\circ$. Se $\angle DAE = \angle DFE$, qual è la magnitudine di $\angle ADF$ in gradi?
+
+**Risposta:** 40
+[[src_prmo_2015_b__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1997-98 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1997-98_round2__Q03
 parent: src_bmo_1997-98_round2
 competition: British Mathematical Olympiad 1997-98 — Round 2
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Reciprocal equation: hxyz and h(y-x) are perfect squares*
 
@@ -44,3 +47,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BmWcr_kfQLYIf7TTUKc10v2VCU6EcDQW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione reciproca: hxyz e h(y-x) sono quadrati perfetti*
+
+> Supponiamo che $x, y, z$ siano integri positivi che soddisfano l'equazione $$\frac{1}{x} - \frac{1}{y} = \frac{1}{z},$$ e che $h$ sia il fattore comune più alto di $x, y, z$.
+> 
+> Prova che $hxyz$ è un quadrato perfetto.
+> 
+> Prova anche che $h(y - x)$ è un quadrato perfetto.
+
+[[src_bmo_1997-98_round2__Q03]]

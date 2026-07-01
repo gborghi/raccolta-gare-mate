@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2013 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2013__Q08
 parent: src_cn_cmo_2013
 competition: China Mathematical Olympiad 2013
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Non-empty subsets A,B of {1,...,n}; a subset D of A+B with D+D in 2(A+B) and |D| at least |A||B|/(2n)*
 
@@ -48,3 +51,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sottoinsiemi non vuoti A,B di {1,...,n}; un sottoinsieme D di A+B con D+D in 2(A+B) e \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+
+> Che $n$ sia un intero positivo e $A$, $B$ siano sottosette non vuote di $\{1,2,\ldots,n\}$. Prove che esiste un sottogruppo $D$ di $A+B$ tale che $$D+D\subseteq 2(A+B), \quad \text{and} \quad |D|\ge\frac{|A|\cdot|B|}{2n},$$ in cui $|X|$ indica il numero di elementi di un insieme finito $X$.
+
+[[src_cn_cmo_2013__Q08]]

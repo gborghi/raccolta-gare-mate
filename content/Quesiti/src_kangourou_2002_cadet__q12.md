@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q12
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Persone a bordo prima dei naufraghi*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Persons on board before shipwreck*
+
+> One ship collects 30 wrecks at sea. Supplies on board before the encounter would have been sufficient for 60 days, but only become sufficient for 50 days once the shipwrecked people set foot on the ship. Assuming that all people on board consume the same amount of food, how many people were on board before the shipwreck?
+>  
+> A. 15 B. 40 C. 110 D. 140 E. 150.
+
+**Answer:** E
+[[src_kangourou_2002_cadet__Q12]]

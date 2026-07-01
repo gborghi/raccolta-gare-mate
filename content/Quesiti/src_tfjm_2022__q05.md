@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2022__Q05
 parent: src_tfjm_2022
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022
@@ -39,6 +40,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Microscopic tinkering: which line configurations Malo can reach from another using three operations (reflect a line across another, scale the whole picture by lambda, translate by a vector); study square and triangular grid configurations and interchangeability.*
 
@@ -78,3 +81,37 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C7JOrKkoZ1206MAEq0GAwv-ifvn_yjCd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tincering microscopico: quali configurazioni di linea Malo può raggiungere da un'altra utilizzando tre operazioni (riflettere una linea attraverso un'altra, scalare l'intero quadro con lambda, tradurre con un vettore); studiare le configurazioni quadrate e triangolari della griglia e l'interscambiabilità.*
+
+> Tintinatura microscopica (bricolaggio).
+> 
+> Malo è un tecnico che lavora molto minuziosamente: manipola bastone metalliche molto sottili, che osserva solo sotto un microscopio.
+> 
+> Sotto il microscopio, Malo osserva le barre $n$ che formano ciascuna una linea retta sullo schermo, alcune delle quali possibilmente si sovrappongono (confonde). Può eseguire tre tipi di trasformazioni per spostare queste barre: (i) Con l'aiuto di raggi molto sofisticati, è in grado di scegliere una di queste barre e rifletterla rispetto ad un'altra di queste barre presenti; (ii) Può ingrandire o ridurre l'intera immagine con il microscopio, con qualsiasi ingrandimento $\lambda \in \mathbb{R}_+^*$, cioè che il punto delle coordinate $(x, y)$ viene inviato al punto delle coordinate $(\lambda x, \lambda y)$ (questo per tutte le barre, che rimangono linee rette); (iii) Può tradurre tutte le barre con lo stesso vettore $\vec{v}$.
+> 
+> Può eseguire queste operazioni in modo unico, ma è consentito, ad esempio, di applicare una sola operazione a tutte le linee. Se una linea $d$ si sovrappone a una linea $d'$, Malo può comunque spostare la linea $d$ con l'operazione (i) senza spostare la linea $d'$. Alcuni esempi di trasformazioni consentite sono illustrati nella figura 5.
+> 
+> Applicando questi tre tipi di operazioni un numero finito di volte, può ottenere altre configurazioni di linee. Se Malo è in grado di ottenere una configurazione $\mathcal{C}$ di linee da una configurazione $\mathcal{C}'$, si dice che $\mathcal{C}'$ è $accessible$ da $\mathcal{C}$.
+> 
+> 1. $n \ge 3$ sia un numero intero. Date due configurazioni di linee $n$ parallele all'asse delle abscisse e tali che le due siano sempre a distanza di numeri interi, a quale condizione si può accedere all'una dall'altra? Si può iniziare con il caso $n = 3$.
+> 
+> 2. Si dice che una configurazione di linee sia $square$ (carrée) se tutte le linee appartengono a una griglia costituita da quadrati identici i cui lati sono paralleli agli assi. Si dice che una configurazione di linee sia $triangular$ se tutte le linee appartengono a una griglia costituita da triangoli equilaterali identici che hanno tutti un lato parallelo all'asse delle abscisse. Le due tipologie di griglie e gli esempi di configurazioni quadrate e triangolari sono illustrati nella figura 6. a) Il $n \ge 1$ deve essere un numero intero. Esiste un insieme finito $E$ di configurazioni quadrate con linee $n$ in modo tale che ogni configurazione quadrata con linee $n$ sia accessibile da una configurazione di $E$? Se sì, quante configurazioni sono necessarie al minimo? b) Dato che ci sono due configurazioni quadrate, come si può sapere se l'una è accessibile dall'altra?
+> 
+> 3. Riprendi la domanda precedente, sostituendo le configurazioni quadrate con le configurazioni triangolari.
+> 
+> Le linee sono ora numerate da 1 a $n$. Malo decide di attribuire a ciascuna riga un nuovo numero, che sarà indicato $\sigma(i)$ per la riga $i$. Egli ha tuttavia fatto in modo che ogni numero da 1 a $n$ appaia esattamente una volta. Una configurazione è $interchangeable$ se, qualunque sia la rinumerazione di Malo, è possibile per lui eseguire trasformazioni in modo che, dopo queste trasformazioni, per tutte le $i \in [\![1, n]\!]$, la riga $\sigma(i)$ apparisca esattamente dove la riga $i$ era precedentemente.
+> 
+> 4. Quali configurazioni triangolari e quadrate sono intercambiabili?
+> 
+> 5. Trovare le condizioni necessarie e sufficienti affinché una configurazione arbitraria di linee sia intercambiabile. Si può iniziare trattando il caso in cui le linee $n$ siano tutte parallele.
+> 
+> 6. Proporre e studiare altre vie di ricerca.
+
+![[src_tfjm_2022__Q05.png]]
+
+[[src_tfjm_2022__Q05]]

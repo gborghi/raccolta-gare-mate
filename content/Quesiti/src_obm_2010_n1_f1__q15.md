@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f1__Q15
 parent: src_obm_2010_n1_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest number in a set with sum 83 and product 1024*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero più piccolo in un insieme con somma 83 e prodotto 1024*
+
+> Alcuni numeri interi positivi (non necessariamente distinti) sono scritti su una lavagna. La loro somma è $83$ e il loro prodotto è $1024$. Qual è il minimo valore possibile del numero più piccolo tra tutti quelli sulla lavagna?
+> 
+> (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $8$ \quad (E) $16$
+
+**Risposta:** A
+[[src_obm_2010_n1_f1__Q15]]

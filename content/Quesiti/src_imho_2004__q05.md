@@ -1,6 +1,7 @@
 ---
 title: IMO 2004 (XLV International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2004__Q05
 parent: src_imho_2004
 competition: IMO 2004 (XLV International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cyclic quadrilateral iff AP=CP via angle bisectors*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1szqn3o_1STn6AS-iMOaHZTa6rpdHG630/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Cyclic quadrilateral if AP=CP by angle bisectors< MSK1/>
+
+> In a convex quadrilateral $ABCD$ the diagonal $BD$ does not bisect the angles $ABC$ and $CDA$. The point $P$ lies inside $ABCD$ and satisfies $$\angle PBC = \angle DBA \quad \text{and} \quad \angle PDC = \angle BDA.$$ Prove that $ABCD$ is a cyclic quadrilateral if and only if $AP = CP$.
+
+[[src_imho_2004__Q05]]

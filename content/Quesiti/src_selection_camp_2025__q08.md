@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2025 — Selection Camp — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2025__Q08
 parent: src_selection_camp_2025
 competition: Japan IMO Selection Camp 2025 — Selection Camp
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *1000 points, triangle-with-interior-point sets, linear weights; max beautiful sets*
 
@@ -48,3 +51,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_hAtW-_q2-uMzqzRMHgBP6hcqovxL3Oj/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*1000 punti, set di punti triangolari con punti interni, pesi lineari; set magnifici mass*
+
+> Nel piano ci sono punti $1000$, non tre collineari, chiamati punti buoni. Un insieme si chiama bello se è costituito da un triangolo le cui tre vertici sono punti buoni insieme con esattamente un punto buono che si trova rigorosamente all'interno di quel triangolo. Supponiamo che si possa assegnare un numero reale a ciascun punto buono in modo che si applichino entrambe le seguenti due condizioni: (1) esistono due punti buoni i cui numeri assegnati differiscono (cioè l'assegnazione non è costante); (2) per ogni insieme bello, il numero assegnato al suo punto buono interno è uguale alla media dei numeri assegnati ai tre vertici del triangolo. Determina il massimo numero possibile di set belli.
+
+[[src_selection_camp_2025__Q08]]

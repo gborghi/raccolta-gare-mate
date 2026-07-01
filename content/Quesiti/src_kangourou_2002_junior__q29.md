@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q29
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di n*2^n da 2 a 10*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of n*2^n from 2 to 10*
+
+> What is the sum of 2 · 22 + 3 · 23 + 4 · 24 + ... + 10 · 210 ?
+>  
+> A. 9 · 211 B. 10 · 211        C. 11 · 210    D. 11 · 222            E. 10 · 212
+
+**Answer:** A
+[[src_kangourou_2002_junior__Q29]]

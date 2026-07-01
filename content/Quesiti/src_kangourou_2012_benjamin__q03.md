@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q03
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Costo di una barra di cioccolato dato il totale*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cost of a chocolate bar given the total *
+
+> Sandra has enclosed four identical coins in a square bounded by four matches, as shown in the figure, which respects proportions. How many matches will you need to enclose 16 identical coins in a square without even partial coin overlapping? A) 8 B) 10 C) 12 D) 15 E) 16
+
+[[src_kangourou_2012_benjamin__Q03]]

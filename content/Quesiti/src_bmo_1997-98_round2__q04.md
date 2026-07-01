@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1997-98 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1997-98_round2__Q04
 parent: src_bmo_1997-98_round2
 competition: British Mathematical Olympiad 1997-98 — Round 2
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Symmetric system: find unique positive solution*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BmWcr_kfQLYIf7TTUKc10v2VCU6EcDQW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Sistema simmetrico: trovare soluzione positiva unica< MSK1/>
+
+> Trova una soluzione delle equazioni simultanee $$xy + yz + zx = 12$$ $$xyz = 2 + x + y + z$$ in cui tutte le $x, y, z$ sono positive e prova che è l'unica tale soluzione.
+> 
+> Mostrare che esiste una soluzione in cui $x, y, z$ sono reali e distinte.
+
+[[src_bmo_1997-98_round2__Q04]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 2) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g2__Q14
 parent: src_bocconi_finaleint_2007_g2
 competition: >-
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del grande quadrato grigio nel cerchio di destra*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 75 cm²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the large grey square in the right circle*
+
+> The two circles have the same radius. In the circle on the left, each box measures... That's the area of the great gray square in the circle to the right?
+
+![[src_bocconi_finaleint_2007_g2__Q14.png]]
+
+**Answer:** 75 cm²
+[[src_bocconi_finaleint_2007_g2__Q14]]

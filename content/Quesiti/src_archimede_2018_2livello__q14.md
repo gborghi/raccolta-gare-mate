@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_2livello__Q14
 parent: src_archimede_2018_2livello
 competition: Archimede Gara di Febbraio 2018 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Orologio digitale, minimo intero che non divide*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 84
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Digital clock, not dividing < MSK1/>
+
+> Consider a digital clock and the four-digit numbers (hours and minutes): 10:45 will indicate the number 1045. What is the smallest positive integer that doesn't divide any of the numbers that appear between 11:00 and 12:59?
+
+**Answer:** 84
+[[src_archimede_2018_2livello__Q14]]

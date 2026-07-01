@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2004 - Gara Biennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2004_biennio__Q13
 parent: src_archimede_2004_biennio
 competition: Giochi di Archimede 2004 - Gara Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri sommati su forma con due cifre, somma in base*
 
@@ -39,3 +42,19 @@ tags:
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Two-digit numbers summed up in form, base sum*
+
+> The rectangular trapezoid $ABCD$ contains a radius of 1 metre, tangent on all sides. Knowing that the oblique side $BC$ is 7 meters long, find the area of the trapezium. (see figure)
+>
+> - **(A)** 8 square meters
+> - **(B)** 9 square meters
+> - **(C)** 10 square meters
+> - **(D)** 11 square meters
+> - **(E)** You can't get it from the problem data.
+
+[[src_archimede_2004_biennio__Q13]]

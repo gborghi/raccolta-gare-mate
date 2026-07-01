@@ -1,6 +1,7 @@
 ---
 title: XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007__Q02
 parent: src_cesenatico_2007
 competition: XXIII Olimpiade Italiana Cesenatico 2007
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *p(2007)-q(2007) multiplo di 2 e di k*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (a) dimostrato; (b) si, k=2006
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1f34U527qzfJNiSRUXGF8n4qcd2jD3ko5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*p(2007)-q(2007) multiplied by 2 and k*
+
+> Let's say that two polynomials with integer coefficients p and q are similar if they have the same degree and the same coefficients less the order. (a) Demonstrate that if p and q are similar, then p(2007) −q(2007) is a multiple of 2. (b) Are there such integers k > 2 that, however given two similar polynomials p and q, p(2007)−q(2007) is a multiple of k?
+
+**Answer:** (a) dimostrato; (b) si, k=2006
+[[src_cesenatico_2007__Q02]]

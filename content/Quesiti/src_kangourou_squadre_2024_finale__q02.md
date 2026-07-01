@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2024_finale__Q02
 parent: src_kangourou_squadre_2024_finale
 competition: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo intero somma di 9 e di 10 interi consecutivi*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0135
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum whole sum of 9 and 10 consecutive integers*
+
+> Positive sums What is the smallest positive integer that can be expressed as the sum of both nine consecutive positive integers and ten consecutive positive integers?
+
+**Answer:** 0135
+[[src_kangourou_squadre_2024_finale__Q02]]

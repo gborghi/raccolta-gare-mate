@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2005 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo3q__Q02
 parent: src_jjmo3q
 competition: Japan Junior Mathematical Olympiad 2005
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divisors leaving remainder 11 for both 197 and 290*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Divisioni che lasciano il rimanente 11 sia per 197 che per 290*
+
+> Trova tutti i numeri interi positivi che lasciano un residuo di $11$ quando dividono $197$, e lasciano anche un residuo di $11$ quando dividono $290$.
+
+[[src_jjmo3q__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Ecolier (18 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_ecolier__Q08
 parent: src_kangourou_2004_ecolier
 competition: Kangourou 2004 Ecolier (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale rettangolo e il negativo*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which rectangle and negative *
+
+![[src_kangourou_2004_ecolier__prob8.png]]
+
+> The illustrated rectangles are all the same size. Only one of the rectangles A, B, C, D, E is the negative (eventually rotated) of the one on the right (i.e. it has white squares in the positions where the one on the right has them black and vice versa). What kind? (A) B) C) D) E) Questions from N. 9 al N. 16 is worth 4 points each.
+
+**Answer:** E
+[[src_kangourou_2004_ecolier__Q08]]

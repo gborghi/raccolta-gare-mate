@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f2__Q09
 parent: src_obm_2006_n3_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fibonacci sequence: find all positive integer pairs (m,n) with F_m·F_n=mn*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1opr1KnCz4sXqFTqwDJVnexLXTOtfy7Cz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di Fibonacci: trovare tutte le coppie di numeri interi positivi (m,n) con F_m·F_n=mn*
+
+> La sequenza $F_n$ è definita da $F_1 = F_2 = 1$ e $F_n = F_{n-1} + F_{n-2}$ per $n \ge 3$. Trova tutte le coppie di integri positivi $(m, n)$ tali da $F_m \cdot F_n = mn$.
+
+[[src_obm_2006_n3_f2__Q09]]

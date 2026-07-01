@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2023__Q08
 parent: src_tfjm_2023
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023
@@ -36,6 +37,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Card-deck shuffles as permutations; finding the shuffle sigma in minimum games, and realizable objectives (target partitions) per shuffle*
 
@@ -50,3 +53,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Zgbgw16aZEai2bo8kAUFHAI-ffQz7IA5/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Suffichi di carte come permutazioni; trovare la sigma del shuffle in giochi minimi, e obiettivi realizzabili (partizioni di obiettivo) per shuffle*
+
+> Seme di mazzo (Graine deck). Nicolas gioca a un gioco di carte di costruzione del mazzo e cerca il mazzo perfetto, pronto a ricominciare molte volte. Let $k, n \\in \\mathbb{N}^*$ con $k$ dividendo $n$ e $k \\geqslant 2$. Il mazzo di Nicolas contiene carte $n$ in totale, ognuna con un simbolo, possibilmente identiche. Nel mazzo ci sono diversi tipi di carte distinti dal loro simbolo; alcune carte possono essere identiche (in questo caso il shuffle non cambia nulla poiché le carte hanno lo stesso aspetto). Deve dare un ordine iniziale al suo mazzo, che può fare come vuole. Il shuffle del mazzo è una permutazione $\\sigma$ che, applicata all'ordine iniziale delle carte, dà un nuovo ordine; è il shuffle. Poi, all'inizio di ogni partita $P_i$, viene tirato il mazzo il cui ordine è $\\sigma$ applicato all'ordine iniziale, le carte vengono giocate $k$ da $k$ (così un gioco ha $n/k$ giri). Quando il mazzo ha carte in $n/k$ copie, due carte identiche non possono essere distinte dopo il shuffle.\n\nPer esempio, con le carte $n = 6$, 3 carte $A$ e 3 carte $B$ inizialmente nell'ordine $(A, B, A, B, A, B)$, dove le carte vengono giocate $k = 3$ per 3 (un gioco ha $n/k = 2$ giri) e dove il shuffle è $\\sigma = \\begin{pmatrix} 123456 \\\\ 152346 \\end{pmatrix}$, gli oggetti $(ABABAB, AAABBB)$ o $(ABABAB, AAB, ABB)$ sono realizzabili per il shuffle $\\sigma$ (vedere domanda 3). La seconda scelta consente di distinguere $\\sigma$ da $\\begin{pmatrix} 123456 \\\\ 153246 \\end{pmatrix}$ ma la prima non lo fa (perché lo stato finale del mazzo è lo stesso).\n\n1. In questa domanda, l'obiettivo di Nicolas è trovare il mix $\\sigma$ il più velocemente possibile. L'ordine iniziale, prima di iniziare una partita, è sempre lo stesso. Quanti giochi ha bisogno al minimo quando:\n a) $k = n$, e tutte le carte sono diverse?\n b) $k = n$, e il mazzo è costituito da 2 carte diverse, una unica e l'altra in $n - 1$ copie?\n c) $k = n$, e il mazzo è costituito da 2 carte diverse, ciascuna in $n/2$ copie?\n d) $k = 2$, e il mazzo è costituito da 2 carte diverse, ciascuna in $n/2$ copie, e l'ordine iniziale è una perfezione di queste carte?\n e) $k = n$, e il mazzo è costituito da $a$ diverse carte, ciascuna in $n/a$ copie, per alcune $a$ che dividono <K36/n\n\n2. Come funzione di $k$ e $n$, caratterizzare le composizioni iniziali ordinate del mazzo di partenza per cui Nicolas può essere sicuro di trovare $\\sigma$.\n\nNicolas ora non è più interessato al shuffle $\\sigma$ ma vuole solo ottenere il gioco perfetto. Sa quali carte vuole disegnare alla prima volta, poi alla seconda volta, e così via. Indichiamo con $P_i$ l'insieme delle carte $k$ che Nicolas vuole disegnare al $i$-esito dopo il shuffling, in una partita. Chiamiamo obiettivo i dati di una composizione iniziale ordinata $\\mathcal{O}$ del mazzo e di una partizione del set di carte in parti di dimensioni $n/k$ $k$, del modulo $(P_1, \\dots, P_{n/k})$. L'ordine delle carte contenute in ciascuna $P_i$ non è importante poiché vengono tirate nello stesso turno. Un obiettivo è detto realizzabile per un shuffle $\\sigma$ se Nicolas può disegnare le sue carte in un certo ordine partendo da $\\mathcal{O}$ in modo che, dopo il shuffling, ottiene esattamente le carte corrispondenti al set $P_1$, quindi $P_2$, ecc.\n\n3. Quali obiettivi sono realizzabili qualunque sia il conflitto? Quali $\\sigma$ rendono realizzabili i minori obiettivi nei seguenti casi: a) $k = 2$, e tutte le carte sono diverse? b) $k = 2$, e il mazzo è costituito da 2 carte diverse, ciascuna in copie $n/2$, che si alternano perfettamente? Riprendiamo la questione precedente, ma rendendo più obiettivi realizzabili. Nicolas ora vuole sapere se il suo obiettivo, il cui ordine iniziale è quello del gioco, è realizzabile. L'ordine delle carte, prima di ogni partita, è sempre lo stesso. In funzione del suo obiettivo, a quanti giochi ha bisogno Nicolas almeno per sapere se è realizzabile nei seguenti casi: a) $k = 2$, e tutte le carte sono diverse? b) $k = 2$, e il mazzo è costituito da 2 carte diverse, ciascuna in copie $n/2$, che si alternano perfettamente? Come funzione di $k$, $n$ e della distribuzione delle carte, che sono gli obiettivi per i quali è più difficile sapere se sono realizzabili (cioè Il numero minimo di giochi che Nicolas deve sapere se sono realizzabili è il più grande). Proporre e studiare altre linee di ricerca.
+
+![[src_tfjm_2023__Q08.png]]
+
+[[src_tfjm_2023__Q08]]

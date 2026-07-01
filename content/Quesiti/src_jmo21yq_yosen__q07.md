@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo21yq_yosen__Q07
 parent: src_jmo21yq_yosen
 competition: Japan Mathematical Olympiad 2011 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3×3 grids with integers 1–9 placed once each satisfying a marking condition*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta 3×3 griglie con numeri interi 19 posizionate una volta che ciascuna soddisfa una condizione di marcatura*
+
+> Una griglia $3 \times 3$ è riempita con i numeri interi da 1 a 9, ognuno apparendo esattamente una volta (uno per cella). Per ciascuna colonna, è indicato il secondo più grande dei 3 numeri scritti in quella colonna. Si è scoperto che il secondo più grande dei tre numeri segnati era 5. In questo caso, quante disposizioni dei 9 numeri interi sono possibili?
+
+[[src_jmo21yq_yosen__Q07]]

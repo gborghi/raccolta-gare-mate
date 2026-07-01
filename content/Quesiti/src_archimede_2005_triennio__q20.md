@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Triennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_triennio__Q20
 parent: src_archimede_2005_triennio
 competition: Giochi di Archimede 2005 - Gara Triennio
@@ -26,6 +27,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra finale di a_2005 in una successione ricorsiva*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Final figure of a_2005 in a recurring sequence*
+
+> A sequence of numbers a0, a1, a2, . . . , an, . . . has this property: the first two terms are equal to 1: a0 = a1 = 1, and, for every n greater than or equal to one, an+1 = n(an + an−1) (so, for example, a2 = 1(a1 + a0) = 1 · 2 = 2). What figure does 2005 end with?
+>
+> - **(A)** 0,
+> - **(B)** 2,
+> - **(C)** 4,
+> - **(D)** 6,
+> - **(E)** 8.
+
+**Answer:** A
+[[src_archimede_2005_triennio__Q20]]

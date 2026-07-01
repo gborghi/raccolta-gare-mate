@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q07
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorni e uova rimaste per l'ordine*
 
@@ -47,3 +50,21 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Days and eggs remaining for the order< MSK1/>
+
+> Alfonso the pastry chef produces 23 Easter eggs a day and receives a request for 2002 eggs just on a day when he no longer has eggs in stock. After how many days (including the first) can Alfonso fulfill the order and how many eggs does he have left after sending the 2002 eggs?
+>  
+> A. 87 days, remaining eggs: none
+>  
+> B. 87 days, remaining eggs: 1 C. 88 days, remaining eggs: 20
+>  
+>  
+> D. 88 days, remaining eggs: 21 E. 88 days, remaining eggs: 22.
+
+**Answer:** E
+[[src_kangourou_2002_cadet__Q07]]

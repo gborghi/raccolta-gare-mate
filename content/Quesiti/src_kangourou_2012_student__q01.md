@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q01
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Aspetto del quadrante dell'orologio con lancette diverse*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Look at the dial of the watch with different hands*
+
+> On a given day, the water level (measured in centimetres) in a port has risen and fallen relative to the average annual quota, reported as 0, according to the diagram in figure. For how many hours that day, the water level was at least 30 cm. above the mean? A) 5 B) 6 C) 7 D) 9 E) 13
+
+[[src_kangourou_2012_student__Q01]]

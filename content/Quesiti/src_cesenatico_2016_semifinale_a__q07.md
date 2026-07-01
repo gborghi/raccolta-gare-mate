@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_semifinale_a__Q07
 parent: src_cesenatico_2016_semifinale_a
 competition: Gara a Squadre Cesenatico 2016 - Semifinale A
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime 3 cifre di a_2016+3a_2015 (ricorrenza)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0120
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last three digits of a_2016+3a_2015 (recurrence) *
+
+> The most intelligent species humans are only the third most intelligent species on planet Earth, after dolphins and mice. In fact, given a sequence such that a0 = 1, a1 = 2, and an = an−1 +12an−2 for each n ≥2, mice can immediately calculate what is worth 2016 +3a2015. Humans, on the other hand, can only determine the last three digits of this number. What are these last three digits?
+
+**Answer:** 0120
+[[src_cesenatico_2016_semifinale_a__Q07]]

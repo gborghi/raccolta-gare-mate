@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q23
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Martian domino: pieces have 3 numbers each from 0..6, one piece per unordered triple; find total sum of all numbers*
 
@@ -53,3 +56,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Domino marziano: i pezzi hanno 3 numeri ciascuno da 0,6, un pezzo per triplo non ordinato; trovare la somma totale di tutti i numeri*
+
+> Nel domino marziano, i pezzi hanno 3 numeri ciascuno (diferente dal domino terrestre, dove ogni pezzo ha solo 2 numeri). I numeri nel domino marziano variano anche da 0 a 6, e ogni pezzo ha una scelta di 3 numeri (non necessariamente distinti), esiste un e solo un pezzo che contiene quei 3 numeri. Qual è la somma dei numeri di tutti i pezzi del domino marziano? (A) 756 (B) 1512 (C) 84 (D) 315 (E) 900
+
+**Risposta:** A
+[[src_obm_2002_n3_f1__Q23]]

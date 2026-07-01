@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1995 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1995__Q03
 parent: src_cgen_1995
 competition: Concours Général des Lycées 1995 — Matematica
@@ -32,6 +33,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum area of region inside at least two of three circles of radius R*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area minima di regione all'interno di almeno due dei tre cerchi di raggio R*
+
+> Nel piano, $\Gamma_1$, $\Gamma_2$, $\Gamma_3$ siano tre cerchi di raggio $R$ che attraversano tutti un punto $O$. $D$ indica l'insieme dei punti del piano che appartengono ad almeno due di questi cerchi.
+> 
+> Qual è il valore minimo dell'area di $D$ e per quale configurazione di $\Gamma_1$, $\Gamma_2$, $\Gamma_3$ viene raggiunto? Giustifica la tua risposta.
+
+[[src_cgen_1995__Q03]]

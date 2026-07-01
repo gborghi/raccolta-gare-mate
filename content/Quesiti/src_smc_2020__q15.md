@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2020 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2020__Q15
 parent: src_smc_2020
 competition: Senior Mathematical Challenge 2020
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Shaded area inside a circle of radius 3, between the circle and two tangents meeting at 60 degrees*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area oscurata all'interno di un cerchio di raggio 3, tra il cerchio e due tangenti che si incontrano a 60 gradi*
+
+> L'area ombreggiata mostrata nel diagramma è costituita dall'interno di un cerchio di raggio 3 insieme alle due tangenti del cerchio. L'angolo tra le tangenti al punto di incontro è $60^\circ$. Che cos'è la zona ombrosa?
+>
+> - **(A)** $6\pi + 9\sqrt{3}$
+> - **(B)** $15\sqrt{3}$
+> - **(C)** $9\pi$
+> - **(D)** $9\pi + 4\sqrt{3}$
+> - **(E)** $6\pi + \frac{9}{2}$
+
+![[src_smc_2020__Q15.png]]
+
+**Risposta:** A
+[[src_smc_2020__Q15]]

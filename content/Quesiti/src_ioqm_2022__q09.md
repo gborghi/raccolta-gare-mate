@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q09
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with sides 18, x<100, exactly 35 valid integer values for third side*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 82
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con lati 18, x<100, esattamente 35 valori integri validi per il terzo lato*
+
+> Due lati di un triangolo a lato intero hanno lunghezze 18 e $x$ dove $x < 100$. Se ci sono esattamente 35 possibili valori interi $y$ in modo che $18, x, y$ siano i lati di un triangolo non degenerato, trovare il numero di possibili valori interi $x$ può avere.
+
+**Risposta:** 82
+[[src_ioqm_2022__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: IX Gara Nazionale Classi Prime 2024 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2024__Q17
 parent: src_garaprime_2024
 competition: IX Gara Nazionale Classi Prime 2024
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie non ordinate di palline di colore diverso*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Unordered pairs of balls of different colour< MSK1/>
+
+> Claudia has 11 different balls all of which are colored as follows: 4 red, 2 green and 5 blue. In how many ways can a pair of balls of different colours be chosen? A) 3 B) 38 C) 40 D) 45 E) 76 The correct answer is B The valid pairs are: red-green, red-blue and green-blue. We don't even have to count the three green-red, blue-red and blue-green pairs because that would count the ordered pairs. Since the balls are all different, we can choose the red ball in four ways, the green ball in two and the blue ball in five. For the fundamental principle of combinatorial computation (or for the rule of the Cartesian product), the number of pairs is found by producing the cardinality of the starting sets, i.e. 4 ∙2 = 8, 4 ∙5 = 20 and 2 ∙5 = 10. These three quantities have to be added because the three situations are independent of each other and so the solution is 8 + 20 + 10 = 38.
+
+**Answer:** B
+[[src_garaprime_2024__Q17]]

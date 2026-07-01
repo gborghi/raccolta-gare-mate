@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2009 — Quesito
   18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2009__Q18
 parent: src_bocconi_finalenaz_2009
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2009
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero a tre cifre che dà la lista più lunga sommando i quadrati delle cifre*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 12 soluzioni: 369 – 396 – 629 – 692 – 926 – 962 – 667 – 676 – 766 – 799 – 979 – 997
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three-digit number giving the longest list by summing the squares of the digits*
+
+> SQUARE IN SQUARE Choose a natural number that is not more than three digits and write it down. Then you add the squares of its digits, you get a second number. With it, you start the operation again, which is adding the squares of the numbers and writing the result. And so on, until you get a number that's already written. For example: $409 \to 97 \to 130 \to 10 \to 1$ Which number will give the longest list?
+
+**Answer:** 12 soluzioni: 369 – 396 – 629 – 692 – 926 – 962 – 667 – 676 – 766 – 799 – 979 – 997
+[[src_bocconi_finalenaz_2009__Q18]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q03
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max distanza tra due persone (ricetrasmittente)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max distance between two persons (re-transmitter) < MSK1/>
+
+> A balloon is stationary at 1,200 meters above the ground. The crew on board has a receiver capable of operating within 1300 metres. What is the maximum distance in metres for two people on the ground to communicate with the crew on board, equipped with similar transmitters? A) 500 B) 800 C) 1000 D) 1200 E) 1300
+
+**Answer:** C
+[[src_kangourou_2007_junior_marzo__Q03]]

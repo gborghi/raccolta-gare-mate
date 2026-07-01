@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2020-21 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2020-21_round1__Q05
 parent: src_bmo_2020-21_round1
 competition: British Mathematical Olympiad 2020-21 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle tangent to AC and AB, prove AD=DP implies BP=AC*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xg514doHxMaADkn1oQBkdyq62hCSeCSk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo tangente a AC e AB, prova che AD=DP implica BP=AC*
+
+> I punti $A$, $B$ e $C$ si trovano su un cerchio $\Gamma$. Il circolo $A$ è tangente a $AC$ a $A$. Si riunisce a $\Gamma$ a $D$ e alla riga $AB$ a $P$. Il punto $P$ si trova tra $B$ e $D$. Prova che se $AD = DP$, allora $BP = AC$.
+
+[[src_bmo_2020-21_round1__Q05]]

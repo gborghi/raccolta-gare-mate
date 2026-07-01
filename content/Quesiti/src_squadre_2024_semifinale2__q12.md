@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Semifinale 2 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_semifinale2__Q12
 parent: src_squadre_2024_semifinale2
 competition: Gara a Squadre 2024 - Semifinale 2
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area unione di tre rettangoli, AB=46 BC=20*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1610
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of union of three rectangles, AB=46 BC=20*
+
+> On the scene of the crime, Hermite Poinsot finds a leaflet with a sequence of numbers: the first term is 1 while the ln-eighth term is the sum of the k-eighth term (where k is the entire part of the root of n) and the absolute value of the difference between n and the perfect square closest to it. Hercules notes that the difference between the last two numbers is 10: how long is the minimum sequence? Provide the exponent of 2 in prime factorization.
+
+**Answer:** 1610
+[[src_squadre_2024_semifinale2__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q03
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di z dato sistema con A,B,C*
 
@@ -44,3 +47,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of z given system with A,B,C*
+
+> 25 + z = A,    25 - z = B,     25 × z = C,    A + B + C = 150. How much is Z worth ? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** C
+[[src_kangourou_2017_junior_marzo__Q03]]

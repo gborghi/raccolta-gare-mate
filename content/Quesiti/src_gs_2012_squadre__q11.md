@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q11
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punti di intersezione diagonali poligono 21 vertici*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 5985
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Diagonal intersection points are polygons of 21 vertices*
+
+> Brontë draws a regular polygon of 21 sides. Then trace all the diagonals and count all the points inside the polygon that are intersections of those diagonals. How many points does that count?
+
+**Answer:** 5985
+[[src_gs_2012_squadre__Q11]]

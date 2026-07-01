@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2009__Q19
 parent: src_bocconi_squadre_2009
 competition: Gara a Squadre 2009
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anno di morte di Fermat, dispari e divisibile per 37, inizio XVII secolo*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1665
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Year of death of Fermat, odd and divisible by 37, early seventeenth century*
+
+> If you don't know, remember that Fermat died in the early 17th century and that the year he died was an odd number, divisible by 37. When did the mathematician Fermat die?
+
+**Answer:** 1665
+[[src_bocconi_squadre_2009__Q19]]

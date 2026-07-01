@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q01
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale tra le espressioni con 2013 e la piu grande*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which of the expressions with 2013 and the largest *
+
+> Which of the following numbers is the largest? A) 2013 B) 20+13 C) 2013 D) 2013 E) 20 ∙ 13
+
+[[src_kangourou_2013_student__Q01]]

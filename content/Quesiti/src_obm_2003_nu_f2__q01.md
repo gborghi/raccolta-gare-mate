@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 2 —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_nu_f2__Q01
 parent: src_obm_2003_nu_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Parabola tangent and perpendicular lines trace a hyperbola*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Le linee tangenti e perpendicolari della parabola tracciano un'iperbola
+
+> Si deve indicare una parabola e un punto $A$ al di fuori di essa. Per ogni punto $P$ della parabola, $t$ è la tangente della parabola a $P$ e $r$ la linea parallela all'asse della parabola attraverso $P$. La perpendicolare a $t$ attraverso $A$ incontra $r$ a $Q$. Prove che, poiché $P$ varia sulla parabola, $Q$ traccia un iperbola.
+
+[[src_obm_2003_nu_f2__Q01]]

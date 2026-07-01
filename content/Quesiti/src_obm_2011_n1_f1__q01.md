@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q01
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cell phone bill split among calls, internet, messaging*
 
@@ -46,3 +49,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La bolletta per cellulare è divisa tra chiamate, internet, messaggistica*
+
+> Nel maggio, l'importo totale della bolletta per il cellulare di Esmeralda era di R\$119.76, without taxes. This amount corresponds to the following items: calls, internet access, and message sending. She spent R\$29.90 per l'accesso a Internet e R\$15.50 per il servizio di spedizione di messaggi. Quanto ha speso per le chiamate?
+> 
+> (A) R\$74.36 \quad (B) R\$74.46 \quad (C) R\$84.36 \quad (D) R\$89.86 \quad (E) R\$104.26
+
+**Risposta:** A
+[[src_obm_2011_n1_f1__Q01]]

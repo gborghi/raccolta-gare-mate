@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q10
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di x2-y2+z2 dati due vincoli lineari*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0001
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of x2-y2+z2 given two linear constraints*
+
+> Judgment Solomon The king of Franconia adopts unique methods of administering justice. In a bankruptcy proceedings he revealed to the parties that he had in mind three real numbers x, y, z for which x −7y + 8z = 4 and 8x + 4y −z = 7. The first person to reveal the value of x2 −y2 + z2 is awarded the cause. While the debtor's lawyer protested that there were not enough conditions to answer, the creditors shouted a number, winning the case. What number did they yell at?
+
+**Answer:** 0001
+[[src_cesenatico_2004_squadre__Q10]]

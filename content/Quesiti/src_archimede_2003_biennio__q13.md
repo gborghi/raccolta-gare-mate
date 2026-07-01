@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2003 - Biennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_biennio__Q13
 parent: src_archimede_2003_biennio
 competition: Giochi di Archimede 2003 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *rapporto volumi pieno/vuoto*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 70%
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*full/empty volume report*
+
+> Julius wants to amaze Damian with his divination skills. So he gives him a list of some two-digit numbers and tells him to choose one. Giulio asks Damiano the sum of the numbers in the number, and he's so sure he can guess. How many numbers did the initial list consist of?
+>
+> - **(A)** 9
+> - **(B)** 10
+> - **(C)** 11
+> - **(D)** 17
+> - **(E)** 18.
+
+**Answer:** 70%
+[[src_archimede_2003_biennio__Q13]]

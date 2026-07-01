@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Student - Gara 16 marzo — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q16
 parent: src_kangourou_2017_student_marzo
 competition: Kangourou 2017 Student - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero che non puo essere radice del polinomio*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number that cannot be the root of the polynomial *
+
+> In the polynomial 5x3 + ax2 + bx + 24 the coefficients a and b are integers. Which of the following numbers cannot be a root of the polynomial? A) 1
+> 	
+> B) -1
+> 	
+> C) 3
+> 	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** D
+[[src_kangourou_2017_student_marzo__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q09
 parent: src_kangourou_2016_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2016 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo mele iniziali nel piatto con frazioni prese*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AmqdvgZVEwczaExdEeD0t4IQIsBaAuB7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimate the initial apples in the dish with fractions taken< MSK1/>
+
+> Apples In the dish there are apples. Anna took a few of them: they amounted to a third of the apples in the dish plus a third of the apples. Luigi took more: their quantity was equal to one third of the apples left in the dish plus one third of the apples. Now there's a whole number of apples left in the plate. What is the minimum number of apples that could be in the dish initially?
+
+**Answer:** 8
+[[src_kangourou_2016_squadre_ecolier_f__Q09]]

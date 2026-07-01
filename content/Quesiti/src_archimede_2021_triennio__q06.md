@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_triennio__Q06
 parent: src_archimede_2021_triennio
 competition: Giochi di Archimede 2021 - Gara Triennio (tradizionale)
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi n con n^6+3n^5 multiplo di 49, somma di due*
 
@@ -43,3 +46,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interies n with n^6+3n^5 multiple of 49, sum of two*
+
+> Consider the positive integers n such that n6 + 3n5 is a multiple of 49. Assuming you have these values in ascending order, indicate the sum between the 4° and the 7° of these numbers.
+>
+> - **(A)** 77
+> - **(B)** 74
+> - **(C)** 88
+> - **(D)** 70
+> - **(E)** 81
+
+[[src_archimede_2021_triennio__Q06]]

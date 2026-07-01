@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q03
 parent: src_kangourou_2008_ecolier_marzo
 competition: Kangourou 2008 - Ecolier (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Che fiore riceve la mamma*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Y2PPk0y8EAPu9XdVwcxKDHQ2tA4fBFmN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What a flower the mother receives
+
+> Miriam brings her mother, grandmother, aunt, and two sisters a flower for each. Do you know that • the flowers for the sisters and the aunt are the same color; • the grandmother does not receive a rose. What flower does the mother receive, if Miriam's gift is the one listed below? A) A yellow tulip. B) A red rose. C) A red carnation. D) A yellow rose. E) A yellow carnation.
+
+**Answer:** B
+[[src_kangourou_2008_ecolier_marzo__Q03]]

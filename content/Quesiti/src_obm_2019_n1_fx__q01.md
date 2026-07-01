@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2019_n1_fx__Q01
 parent: src_obm_2019_n1_fx
 competition: Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find integers O, B, M as exponents summing to 24*
 
@@ -52,3 +55,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pakMGdmqn3t7vFmFJmF7aCi7jvCUTIEX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova i numeri interi O, B, M come esponenti che sommano a 24*
+
+> Le lettere $O$, $B$, $M$ rappresentano numeri interi positivi utilizzati come esponenti, come $$2^O + 2^B + 2^M = 24.$$ a) In un caso in cui $O$, $B$ e $M$ rappresentano lo stesso numero, quale è quel numero?
+> 
+> b) Indicare che < MSK0/> non può essere uguale a < MSK1/>.
+> 
+> c) In un caso in cui $O$ è doppio di $M$, qual è il valore di $B$?
+
+[[src_obm_2019_n1_fx__Q01]]

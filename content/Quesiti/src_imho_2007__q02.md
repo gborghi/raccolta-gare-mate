@@ -1,6 +1,7 @@
 ---
 title: IMO 2007 (XLVIII International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2007__Q02
 parent: src_imho_2007
 competition: IMO 2007 (XLVIII International Mathematical Olympiad)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Line through vertex of parallelogram meets cyclic quadrilateral*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18zBoJL6BL0Qzw_Nb0n79SKzFnL3kZGiT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Line through vertex of parallelogram meets cyclic quadrilateral*
+
+> Consider five points $A$, $B$, $C$, $D$ and $E$ such that $ABCD$ is a parallelogram and $BCED$ is a cyclic quadrilateral. Suppose that a line $\ell$ passing through $A$ intersects the interior of the segment $DC$ at $F$ and intersects line $BC$ at $G$. Suppose also that $EF = EG = EC$. Prove that $\ell$ is the bisector of angle $DAB$.
+
+[[src_imho_2007__Q02]]

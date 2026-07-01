@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Benjamin — Quesito B6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_finale__QB6
 parent: src_kangourou_2020_benjamin_finale
 competition: Kangourou 2020 Finale nazionale Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle unita di n con 7n di 2021 cifre*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Vg2bLFoFVHv5KZ2qfdK3Oti296AV5sN-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of units of n with 7n of 2021 digits*
+
+> If $n$ is the smallest positive integer such that the number $7 \times n$ has 2021 digits. What is the unit number of $n$?
+
+**Answer:** 9
+[[src_kangourou_2020_benjamin_finale__QB6]]

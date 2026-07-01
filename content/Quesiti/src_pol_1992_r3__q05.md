@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1992 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1992_r3__Q05
 parent: src_pol_1992_r3
 competition: Olimpiade Matematica Polacca 1992 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equal sums of odd/even lateral edge segments on regular 2n-gon pyramid*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y0mu5QcC1ogDOJ92TBWc65WHpU-0WUHz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summe uguali di segmenti di bordi laterali pari/pari su piramide regolare a 2 n-gon*
+
+> La base di una piramide regolare è un $2n$-gon $A_1 A_2 \ldots A_{2n}$ regolare. Una sfera che passa attraverso la vertica superiore $S$ incrocia il bordo laterale $SA_i$ a $B_i$ per $i = 1, 2, \ldots, 2n$. Prove che $\sum_{i=1}^{n} SB_{2i-1} = \sum_{i=1}^{n} SB_{2i}$.
+
+[[src_pol_1992_r3__Q05]]

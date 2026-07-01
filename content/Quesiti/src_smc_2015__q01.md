@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q01
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate 2015^2 minus 2016 times 2014*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare 2015^2 meno 2016 volte 2014*
+
+> Che cos' è < MSK0/>?
+>
+> - **(A)** $-2015$
+> - **(B)** $-1$
+> - **(C)** $0$
+> - **(D)** $1$
+> - **(E)** $2015$
+
+**Risposta:** D
+[[src_smc_2015__Q01]]

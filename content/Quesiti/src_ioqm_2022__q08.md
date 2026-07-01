@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q08
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Primes p and q satisfy q^2+3p=197p^2+q, write q/p=l+m/n, find max l+m+n*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 32
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I primi p e q soddisfano q^2+3p=197p^2+q, scrivono q/p=l+m/n, trovano il massimo l+m+n*
+
+> Supponiamo che i numeri primi $p$ e $q$ soddisfino $q^2 + 3p = 197p^2 + q$. Scrivere $\frac{q}{p} = l + \frac{m}{n}$ dove $l, m, n$ sono numeri interi positivi, $m < n$ e $\gcd(m, n) = 1$. Trova il valore massimo di $l + m + n$.
+
+**Risposta:** 32
+[[src_ioqm_2022__Q08]]

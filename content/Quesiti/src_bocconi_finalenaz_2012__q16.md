@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2012 — Quesito
   16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2012__Q16
 parent: src_bocconi_finalenaz_2012
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2012
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo curvilineo tra tre cerchi tangenti*
 
@@ -48,3 +51,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of curved triangle between three tangent circles*
+
+> The three circles of the figure, tangent two to two, have the same radius. The curved triangle, coloured in the figure, has a 'side' of < MSK0/> cm. What's your area?
+
+![[src_bocconi_finalenaz_2012__Q16.png]]
+
+**Answer:** $144$ cm$^2$
+[[src_bocconi_finalenaz_2012__Q16]]

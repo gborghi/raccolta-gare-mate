@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_triennio__Q15
 parent: src_archimede_2000_triennio
 competition: Giochi di Archimede 2000 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di f(x+1)-f(x) per funzione esponenziale 4^x*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of f(x+1)-f(x) by exponential function 4^x*
+
+> You have, for every x, f (x) = 4x. So f(x + 1) −f(x) is:
+>
+> - **(A)** f(x)
+> - **(B)** 2f(x)
+> - **(C)** 3f(x)
+> - **(D)** 4
+> - **(E)** 1.
+
+**Answer:** C
+[[src_archimede_2000_triennio__Q15]]

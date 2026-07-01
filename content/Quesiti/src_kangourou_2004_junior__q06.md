@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior (18 marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior__Q06
 parent: src_kangourou_2004_junior
 competition: Kangourou 2004 Junior (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Noci alla piu giovane (proporzioni)*
 
@@ -56,3 +59,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Nights at the youngest (proportions) < MSK1/>
+
+> Alessia, Beatrice, and Carla have collected a total of 770 nuts and decide to divide them proportionally to their age. According to this criterion, if Alessia touched 4 nuts, Carla would touch 3, if Beatrice touched 7 nuts, Alessia would touch 6. How many nuts of those crops are for the youngest of the three? A) 264        B) 256       C) 218         D) 198       E) 180 Dˆ A B C D 30° 75° 50° ?
+> 
+> I'm going to pay. I'm going to pay. 23 23 Kang 2004 Kang 2004
+
+**Answer:** D
+[[src_kangourou_2004_junior__Q06]]

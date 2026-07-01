@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Triennio — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_triennio__Q23
 parent: src_archimede_2005_triennio
 competition: Giochi di Archimede 2005 - Gara Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parole di 4 lettere senza M dopo una B*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Words of 4 letters without M after a B*
+
+> How many four-letter words (even meaningless) can be written using only the letters A, B, E, M, O so that none of the letters following a B (going from left to right) is an M? (So, for example, ABEB must be counted but OBAM not).
+>
+> - **(A)** 43 · 5,
+> - **(B)** 42 · 52,
+> - **(C)** 4 · 53,
+> - **(D)** 29,
+> - **(E)** 54.
+
+**Answer:** D
+[[src_archimede_2005_triennio__Q23]]

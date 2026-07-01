@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier__Q16
 parent: src_kangourou_2023_ecolier
 competition: Kangourou 2023 Ecolier — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *ordine dei dipinti*
 
@@ -65,3 +68,26 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bDY_Y5qtxjaNx_dh5X8llzlndfmVtNwJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*order of paintings*
+
+![[src_kangourou_2023_ecolier__prob16.png]]
+
+> Sandra walks through a two-story maze from the entrance to the exit, never returning to her steps. In what order will you see the paintings on the wall? A)
+> 	
+> B)
+> 	
+> C)
+>  	
+> D)
+> 	
+> E) Street A Street B West East South North A B C D and F Entrance Exit Floor ground floor First floor
+> 
+> The questions from N. 17 al N. Twenty-four is worth five points each.
+
+**Answer:** A
+[[src_kangourou_2023_ecolier__Q16]]

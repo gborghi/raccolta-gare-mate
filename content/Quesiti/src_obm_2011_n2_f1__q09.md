@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q09
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive numbers below 30 with exactly two divisors (primes)*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri positivi inferiori a 30 con esattamente due divisori (prime) *
+
+> Quanti numeri positivi più piccoli di $30$ hanno esattamente due divisori positivi?
+> 
+> (A) $6$ \quad (B) $7$ \quad (C) $8$ \quad (D) $9$ \quad (E) $10$
+
+[[src_obm_2011_n2_f1__Q09]]

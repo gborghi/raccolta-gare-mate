@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f1__Q22
 parent: src_obm_2005_n3_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bound total time over three road segments given average-speed ranges*
 
@@ -49,3 +52,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Total time bound over three road segments given average speed ranges*
+
+> Un pilota copre tre segmenti di strada, rispettivamente $240$ km, $300$ km e $400$ km. Le velocità medie su questi tre segmenti sono comprese tra $40$ km/h, $75$ km/h e $80$ km/h. Possiamo garantire che il tempo totale, in ore, trascorso dal pilota sui tre segmenti sia: (A) almeno $13$ ore (B) almeno $13$ ore e al massimo $18$ ore (C) almeno $14$ ore e al massimo $18$ ore (D) almeno $15$ ore e al massimo $18$ ore (E) almeno $18$ ore
+
+[[src_obm_2005_n3_f1__Q22]]

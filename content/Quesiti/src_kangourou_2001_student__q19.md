@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Student (15 marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_student__Q19
 parent: src_kangourou_2001_student
 competition: Kangourou 2001 - Student (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti minimo e massimo da viste*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum and maximum cubes from view*
+
+![[src_kangourou_2001_student__prob19.png]]
+
+> Next to it you have the view from the left and front of a building made by approaching small cubes. How many cubes were used? The minimum and maximum number of cubes compatible with the illustrations shown are required.
+>
+> - **(A)** 7 e 13
+> - **(B)** 8 e 13
+> - **(C)** 7 e 15
+> - **(D)** 7 e 16
+> - **(E)** 8 e 16. AF AD BC ⋅ + − 2 . This appropriation is intended to cover expenditure relating to the implementation of the common agricultural policy. Class of students. This item is not intended to be used. 5
+
+**Answer:** E
+[[src_kangourou_2001_student__Q19]]

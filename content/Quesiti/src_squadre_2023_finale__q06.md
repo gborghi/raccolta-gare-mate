@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Finale Nazionale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_finale__Q06
 parent: src_squadre_2023_finale
 competition: Gara a Squadre 2023 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di distribuire 5+4+3 stuzzichini a 4 persone*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7316
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How to distribute 5+4+3 snacks to 4 people*
+
+> Krull takes Maria, Gaetana, and Agnese in his custody so they can infiltrate Vector's house. He welcomes them with some 2023 Team Competition  National Final  Problem Tests  1/3
+> 
+> Welcome snacks: five slices of pizza, four cheese slides and three sugar beets. The four eat everything and no one fastes. How many ways can they do this, knowing that the spices are not broken down into smaller pieces?
+
+**Answer:** 7316
+[[src_squadre_2023_finale__Q06]]

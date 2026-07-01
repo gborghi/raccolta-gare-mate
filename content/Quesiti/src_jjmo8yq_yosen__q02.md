@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo8yq_yosen__Q02
 parent: src_jjmo8yq_yosen
 competition: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pick one card per suit so sum is multiple of 7*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Scegli una carta per costume in modo che la somma sia multiplo di 7*
+
+> Ci sono le schede di spade $4$ etichettate con i numeri $1, 2, 3, 4$ (una ciascuna), le schede di cuore $6$ etichettate con i numeri $1, 2, 3, \ldots, 6$ (una ciascuna) e le schede di diamante $8$ etichettate con i numeri $1, 2, 3, \ldots, 8$ (una ciascuna). Quando una carta viene scelta da ciascuna combinazione, per un totale di carte $3$, in quanti modi può essere fatta la scelta in modo che la somma dei numeri sulle carte $3$ scelte sia un multiple di $7$?
+
+[[src_jjmo8yq_yosen__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student (20 marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student__Q20
 parent: src_kangourou_2003_student
 competition: Kangourou 2003 Student (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero regioni disgiunte nei poligoni inscritti*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of regions divided into the polygons entered *
+
+![[src_kangourou_2003_student__prob20.png]]
+
+> So let's first draw an equilateral triangle, then let's draw the circumference of the circle around it; now let's circle this circle around a square, and the square around another circle; this new circle around a regular pentagon, and so on. We repeat this construction, with new circumferences and new regular polygons (each having one side more than the previous one) until we trace the regular polygon of 16 sides. How many segregated regions are contained within the last polygon? A) 232 B) 240 C) 248 D) 264 E) 272 Questions from N. 21 al N. 30 is worth 5 points.
+
+**Answer:** C
+[[src_kangourou_2003_student__Q20]]

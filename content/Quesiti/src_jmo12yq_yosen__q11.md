@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo12yq_yosen__Q11
 parent: src_jmo12yq_yosen
 competition: Japan Mathematical Olympiad 2002 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Color 7 sectors of a disk with 4 colors, rotations equivalent*
 
@@ -48,3 +51,22 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Colore 7 settori di un disco con 4 colori, rotazioni equivalenti*
+
+> Una faccia di un disco è suddivisa in settori congruenti $7$. Ci sono le matite < MSK1/> di colore: rosso, blu, giallo e verde. Usando questi, vogliamo colorare ogni settore con un colore. Lo stesso colore può essere utilizzato più volte e non è necessario utilizzare tutti i colori $4$, ma due settori adiacenti devono essere colorati con colori diversi. Quanti tipi di colorazione ci sono? Qui, due colori del disco che possono essere ottenuti l'uno dall'altro mediante rotazione sono considerati come lo stesso colore.
+
+```tikz
+\begin{tikzpicture}
+\draw (0,0) circle (2cm);
+\foreach \a in {0,...,6} {
+  \draw (0,0) -- (\a*360/7:2cm);
+}
+\end{tikzpicture}
+```
+
+[[src_jmo12yq_yosen__Q11]]

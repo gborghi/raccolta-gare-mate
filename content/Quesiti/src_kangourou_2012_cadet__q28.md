@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q28
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante posizioni distinte del triangolo equilatero ruotante*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many distinct positions of the rotating equilateral triangle*
+
+> An equilateral triangle rotates, always in the same direction, around its center before 3 degrees, then 9 degrees, then 27 degrees, and so on (i.e. at the next rotation of the wheel of 3n degrees). How many different positions (including the first) will the triangle occupy during these rotations? A) 3 B) 4 C) 5 D) 6 E) 360
+
+**Answer:** B
+[[src_kangourou_2012_cadet__Q28]]

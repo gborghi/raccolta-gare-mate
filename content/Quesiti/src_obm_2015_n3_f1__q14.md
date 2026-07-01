@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q14
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max subset of dodecahedron edges that are pairwise skew*
 
@@ -54,3 +57,20 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sottoinsieme massimo di bordi dodecaedro che sono abbracciati in coppia*
+
+> Due segmenti di linea nello spazio sono chiamati \emph{skew} (riversi) quando non esiste un piano che contenga entrambi. Un dodecaedro regolare è un poliedro con dodici volti pentagonali regolari.
+> 
+> Qual è il maggior numero di elementi in un sottoinsieme $S$ di bordi di un dodecaedro regolare in modo tale che due elementi di $S$ siano skew?
+> 
+> (A) 3 \quad (B) 6 \quad (C) 9 \quad (D) 12 \quad (E) 15
+
+![[src_obm_2015_n3_f1__Q14.png]]
+
+**Risposta:** D
+[[src_obm_2015_n3_f1__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2012 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2012__Q14
 parent: src_bocconi_squadre_2012
 competition: Gara a Squadre 2012
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso delle uova di cioccolato più leggere e più pesanti*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Le uova più leggere pesano 126 g ciascuna e quelle più pesanti pesano 147 g ciascuna
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Weight of lighter and heavier chocolate eggs< MSK1/>
+
+> On the table, ready to be given, there are five chocolate eggs marked with the letters $A, B, C, D, E$. However, they are of two different types: one has heavier chocolate, the other is lighter and therefore weighs less. You know that the eggs together weigh $A$ and $E$ together weigh $252$ g; the eggs $A, B, C$ together weigh $420$ g; the eggs $B, C, D, E$ together weigh $567$ g.
+> 
+> What is the weight of the lightest and heaviest eggs?
+
+**Answer:** Le uova più leggere pesano 126 g ciascuna e quelle più pesanti pesano 147 g ciascuna
+[[src_bocconi_squadre_2012__Q14]]

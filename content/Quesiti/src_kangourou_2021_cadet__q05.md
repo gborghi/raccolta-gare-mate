@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q05
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato dell'operazione nel puzzle a tessere*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Result of the operation in the card puzzle< MSK1/>
+
+![[src_kangourou_2021_cadet__prob5.png]]
+
+> Incrementing the five cards of the puzzle in the correct way results in a rectangle in which an operation is read. What is the result? A) –100 B) –8
+> 	
+> C) –1
+> 	
+> D) 199 E) 208
+
+**Answer:** A
+[[src_kangourou_2021_cadet__Q05]]

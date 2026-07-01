@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_2livello__Q11
 parent: src_archimede_2011_2livello
 competition: Archimede Gara 2° livello 2011 (biennio/triennio)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (x,y) con x^2-y^2 multiplo di 2011 e 2011 divisori*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Couples (x,y) with x^2-y^2 multiples of 2011 and 2011 dividers*
+
+> x and y are two positive integers such that x2 −y2 is positive, multiple of 2011 and has exactly 2011 positive divisors. How many pairs (x, y) do these conditions occur? Note: 2011 is a prime number
+>
+> - **(A)** 2010
+> - **(B)** 2011
+> - **(C)** 1005
+> - **(D)** 0
+> - **(E)** There are infinitely many of them.
+
+**Answer:** C
+[[src_archimede_2011_2livello__Q11]]

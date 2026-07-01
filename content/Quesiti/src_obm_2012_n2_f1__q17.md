@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q17
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Shaded area in parallelogram with sides divided into 4 and 3 parts*
 
@@ -50,3 +53,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area oscurata in parallelo con lati divisi in 4 e 3 parti*
+
+> I lati $AB$ e $DC$ del parallelo $ABCD$ sono stati suddivisi in segmenti uguali $4$. I lati $AD$ e $BC$ sono stati divisi in segmenti uguali $3$. I punti di divisione sono stati collegati come indica la figura seguente. La superficie di $ABCD$ è $84$. Determina la zona ombrata.
+> 
+> A) 1 \quad B) 3 \quad C) 4 \quad D) 7 \quad E) 12
+
+![[src_obm_2012_n2_f1__Q17.png]]
+
+[[src_obm_2012_n2_f1__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 46
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q46
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -27,6 +28,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *B1-2: z=1+i+m/(1+i) with real and imaginary parts positive; range of m.*
 
@@ -39,3 +42,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*B1-2: z=1+i+m/(1+i) con parti reali e immaginarie positive; gamma di m.*
+
+> [Test Paper B1, Problema 2] $m$ sia un numero reale. Se le parti reali e immaginarie del complesso $z=1+\mathrm{i}+\dfrac{m}{1+\mathrm{i}}$, con $\mathrm{i}$ l'unità immaginaria, sono superiori a zero, allora l'intervallo di $m$ è ______.
+
+**Risposta:** -2<m<2
+[[src_cn_cmc-first-round_2021__Q46]]

@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1 —
   Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_nu_f1__Q03
 parent: src_obm_2012_nu_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Polynomial divisibility condition via g(x)^m*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VJG3lcmttXkoTtSX_ZbVy5feO9Uy-VFe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Condizione di divisibilità polinomica via g(x) ^ m*
+
+> Lasciate che $f(x)$ e $g(x) \in \mathbb{R}[x]$ siano polinomi non costanti e $m$, $n$ interi positivi. Indicare che $y^n - f(x)$ divide $y^n - g(x)$ in $\mathbb{R}[x, y]$ se e solo se $m$ divide $n$ e $g(x) = f(x)^{n/m}$.
+
+[[src_obm_2012_nu_f1__Q03]]

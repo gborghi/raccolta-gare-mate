@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo30yq_yosen__Q01
 parent: src_jmo30yq_yosen
 competition: Japan Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count multiples of 7 that are 4 times a perfect square up to 10^9*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 14
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Count multiples of 7 that are 4 times a perfect square up to 10^9*
+
+> How many positive multiples of $7$ that do not exceed $10^9$ are of the form $4k^2$ for some positive integer $k$?
+
+**Risposta:** 14
+[[src_jmo30yq_yosen__Q01]]

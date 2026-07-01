@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q22
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di (a+b)(b+c)(c+a) con a+b+c=0 e abc=78*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of (a+b)(b+c)(c+a) with a+b+c=0 and abc=78*
+
+> The numbers a, b and c are such that a + b + c = 0 and a × b × c = 78. What is the value of (a + b) × (b + c) × (c + a)? A) –156 B) –39 C) 78
+> 	
+> D) 156 E) None of the above.
+
+**Answer:** E
+[[src_kangourou_2021_junior_marzo__Q22]]

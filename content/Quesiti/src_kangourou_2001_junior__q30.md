@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Junior (15 marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_junior__Q30
 parent: src_kangourou_2001_junior
 competition: Kangourou 2001 - Junior (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scomposizioni di 30 in tre interi positivi*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Compositions of 30 into three positive integers< MSK1/>
+
+> How many different ways can the number 30 be broken down as the sum of three strictly positive integers? (Two breakdowns are equal if they differ only in the order of the additives.)
+>
+> - **(A)** 105
+> - **(B)** 75
+> - **(C)** 81
+> - **(D)** 362
+> - **(E)** 101. . This is the total number of participants in the contested competition.
+
+**Answer:** B
+[[src_kangourou_2001_junior__Q30]]

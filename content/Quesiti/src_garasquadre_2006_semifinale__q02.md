@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_semifinale__Q02
 parent: src_garasquadre_2006_semifinale
 competition: VII Gara Nazionale a Squadre 2006 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (a,b) interi positivi con a<=222 e a/2<b<2a/3*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4033
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Positive integer pairs (a,b) with a<=222 and a/2< b<2a/3< MSK1/>
+
+> The first test of the tournament finally came the big day of the Triangle tournament, which compares the best math students. Here's the first test: Find how many pairs (a,b) of positive integers are such as a ≤222 and a 2 < b < 2 3a.
+
+**Answer:** 4033
+[[src_garasquadre_2006_semifinale__Q02]]

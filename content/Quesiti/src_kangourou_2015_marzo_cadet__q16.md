@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q16
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *media bocciati*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>failed media< MSK1/>
+
+> The average score of students who passed a math test is 6. He passed the test exactly 60 percent of the students, and their average score is 8. What is the average score of the students who did not pass the test? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 5
+
+**Answer:** C
+[[src_kangourou_2015_marzo_cadet__Q16]]

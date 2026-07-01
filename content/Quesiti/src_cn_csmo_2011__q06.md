@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2011 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2011__Q06
 parent: src_cn_csmo_2011
 competition: China Southeastern Mathematical Olympiad 2011
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove sum of distances from n points to any point on segment AB does not exceed max of sums to endpoints*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prova la somma delle distanze da n punti a qualsiasi punto del segmento AB non supera il massimo delle somme fino ai punti terminali*
+
+> Dato che i punti $n$ $P_1, P_2, \ldots, P_n$ su un piano, $M$ deve essere qualsiasi punto sul segmento $AB$ sul piano. Indicare con $|P_i M|$ la distanza tra $P_i$ e $M$, $i = 1, 2, 3, \ldots, n$. Prove che $$\sum_{i=1}^{n} |P_i M| \leq \max\!\left\{\sum_{i=1}^{n} |P_i A|,\; \sum_{i=1}^{n} |P_i B|\right\}.$$ (posato da Jin Mengwei)
+
+[[src_cn_csmo_2011__Q06]]

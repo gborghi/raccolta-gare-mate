@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1999 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_2livello__Q09
 parent: src_archimede_1999_2livello
 competition: Archimede Gara 2º livello 1999
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soluzioni intere positive di x^x - 2^x - x² = 10*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Positive integer solutions of x^x - 2^x - x2 = 10 < MSK1/>
+
+> How many positive integer solutions of the $x^x - 2x - x^2 = 0$ equation are there?
+>
+> - **(A)** None of them .
+> - **(B)** One .
+> - **(C)** two
+> - **(D)** more than two, but a finite number
+> - **(E)** I'm not going to end it.
+
+**Answer:** B
+[[src_archimede_1999_2livello__Q09]]

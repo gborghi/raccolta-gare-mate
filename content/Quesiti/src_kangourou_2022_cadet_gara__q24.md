@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet gara individuale — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q24
 parent: src_kangourou_2022_cadet_gara
 competition: Kangourou 2022 Cadet gara individuale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza impossibile di A da D tra quattro paesi*
 
@@ -54,3 +57,19 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Impossible distance from A to D between four countries*
+
+> Four countries A, B, C and D are situated, not necessarily in this order, on a long straight road. The distance of A to C is 75 km, that of B to D is 45 km and that of B to C is 20 km. Which of the following cannot be the distance in kilometres from A to D ? A) 10
+> 	
+> B) 50
+> 	
+> C) 80 D) 100 E) 140 96 72 102
+>
+
+**Answer:** C
+[[src_kangourou_2022_cadet_gara__Q24]]

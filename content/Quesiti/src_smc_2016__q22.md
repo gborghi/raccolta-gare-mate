@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2016 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2016__Q22
 parent: src_smc_2016
 competition: Senior Mathematical Challenge 2016
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ben, Cam and Dan each make one statement about who is telling the truth. Exactly one of the three is lying. Which of the three is lying?*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Ben, Cam e Dan fanno una dichiarazione su chi dice la verita'. Esattamente uno dei tre mente. Quale dei tre sta mentendo?
+
+> Tre amici fanno le seguenti dichiarazioni. Ben dice: "Esattamente uno di Dan e Cam sta dicendo la verità". Dan dice: "Esattamente uno di Ben e Cam sta dicendo la verità". Cam dice: "Nessuno di Ben né Dan sta dicendo la verità".
+>
+> - **(A)** Solo Ben.
+> - **(B)** Solo Cam.
+> - **(C)** Solo Dan.
+> - **(D)** Ognuno di Ben e Cam
+> - **(E)** Ognuno di Ben e Dan
+
+**Risposta:** B
+[[src_smc_2016__Q22]]

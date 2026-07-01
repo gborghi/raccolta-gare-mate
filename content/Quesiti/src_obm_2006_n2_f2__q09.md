@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f2__Q09
 parent: src_obm_2006_n2_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Most frequent digit after substituting integers 1–2006 digit by digit*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il numero più frequente dopo la sostituzione dei numeri interi 12006 con il numero *
+
+> Tutti i numeri interi dal 1 al 2006 sono scritti in una griglia. Quindi, ciascuno di questi numeri viene sostituito dalla somma delle sue cifre. Queste sostituzioni si ripetono fino a quando non abbiamo i numeri a singolo cifra del 2006. Dei numeri rimasti nella griglia, che appare più spesso: 1 o 2?
+
+[[src_obm_2006_n2_f2__Q09]]

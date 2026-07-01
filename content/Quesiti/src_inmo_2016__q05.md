@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2016 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2016__Q05
 parent: src_inmo_2016
 competition: Indian National Mathematical Olympiad 2016
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right triangle, equal inradii of sub-triangles, prove 1/r'=1/r+1/BD*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1woBuE2HYjU-e_MK1TenDn20fm5TAalE-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo retto, uguale all'inradii dei subtriangoli, prova 1/r'=1/r+1/BD*
+
+> Il $ABC$ deve essere un triangolo rettangolare con $\angle B = 90^\circ$. Il $D$ deve essere un punto su $AC$ tale da rendere uguali i radii di in dei triangoli $ABD$ e $CBD$. Se questo valore comune è $r'$ e se $r$ è il raggio di in del triangolo $ABC$, dimostrare che $$\frac{1}{r'} = \frac{1}{r} + \frac{1}{BD}.$$
+
+[[src_inmo_2016__Q05]]

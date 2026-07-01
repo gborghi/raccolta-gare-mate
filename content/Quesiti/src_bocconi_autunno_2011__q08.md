@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2011 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2011__Q08
 parent: src_bocconi_autunno_2011
 competition: Giochi d'Autunno 2011
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Multiplo di 2012 usando i cinque gettoni della figura*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 74444
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Multiple of 2012 using the five tokens in figure *
+
+> Using the five tokens in the figure (all or part), write a multiple of 2012.
+
+![[src_bocconi_autunno_2011__Q08.png]]
+
+**Answer:** 74444
+[[src_bocconi_autunno_2011__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1993 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1993__Q09
 parent: src_inmo_1993
 competition: Indian National Mathematical Olympiad 1993
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex hexagon with equal angles and side lengths 1,2,3,4,5,6 in some order*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YUUjSkPwVGDNNzFb4tb7lnpGfqMd6wTC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esagono converso con angoli e lunghezze laterali uguali 1,2,3,4,5,6 in qualche ordine*
+
+> Dimostrare che nel piano esiste un esagono converso i cui angoli interni sono tutti uguali e le cui lunghezze laterali sono $1, 2, 3, 4, 5, 6$ in un certo ordine.
+
+[[src_inmo_1993__Q09]]

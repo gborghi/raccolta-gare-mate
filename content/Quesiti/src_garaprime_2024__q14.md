@@ -1,6 +1,7 @@
 ---
 title: IX Gara Nazionale Classi Prime 2024 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2024__Q14
 parent: src_garaprime_2024
 competition: IX Gara Nazionale Classi Prime 2024
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri tra 2 e 900 hanno esattamente 3 divisori*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Any number between 2 and 900 has exactly 3 divisors.
+
+> A prime number has exactly two divisors: 1 and itself. But Michelangelo has to find all the numbers between 2 and 900 that have exactly 3 divisors. How many are there? A) 10 B) 0 C) 30 D) 29 E) 49 The correct answer is A The only numbers to have exactly 3 divisors are the squares of prime numbers. In fact, if p is a prime number, its square p2 is divisible only by 1, by p and by p2. On the other hand, a number that admits as divisors two distinct primes p and q, with p< q, then it is also divisible by 1 and pq, and therefore cannot have only 3 divisors. The perfect squares between 2 and 900 that verify the required condition are therefore squares of 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, i.e. 10 numbers.
+
+**Answer:** A
+[[src_garaprime_2024__Q14]]

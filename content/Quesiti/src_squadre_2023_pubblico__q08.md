@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Gara del pubblico — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_pubblico__Q08
 parent: src_squadre_2023_pubblico
 competition: Gara a Squadre 2023 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza percorso triangolare riflesso, BCD=54 gradi*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0648
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Reflect triangular path length, BCD=54 degrees*
+
+> If you're looking for a match, Lupin/3 prefers to play this game: extract three balls from a bag containing 9 balls numbered 1 to 9. Every time he extracts a ball, he marks the number and then puts it back in the bag. If the maximum common divisor (MCD) of these 3 numbers is 1 then the beautiful Fujit ̄o counterexchanges her love, otherwise it is not reciprocated. What's the probability that Lupin/3 will compete in Team 2023  Semifinal 1  Problem Tests  1/2
+> 
+> Is it correlated? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+
+**Answer:** 0648
+[[src_squadre_2023_pubblico__Q08]]

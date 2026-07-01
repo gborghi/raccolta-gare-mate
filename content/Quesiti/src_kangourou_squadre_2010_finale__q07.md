@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2010_finale__Q07
 parent: src_kangourou_squadre_2010_finale
 competition: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora di riaccensione contemporanea di tre lampadine*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1106
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Time of simultaneous re-ignition of three lamps*
+
+> Transportation In a strange nation there are 13 cities that can be connected by one or more of the following means of transport: bus, train, plane. The President, the Vice-President and the Prime Minister must be able to visit each city, but each of the three refuses to use one of the three means: the President bus, the Vice-President train and the Prime Minister air. What is the smallest number of city-to-city connections to meet all needs?
+
+**Answer:** 1106
+[[src_kangourou_squadre_2010_finale__Q07]]

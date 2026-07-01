@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre__Q15
 parent: src_kangourou_2022_kangourou_squadre
 competition: Kangourou Squadre 2022 Kangourou Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato quadrati laterali in semicerchio*
 
@@ -74,3 +77,35 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1050
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kPr4pxe9JLW6PscULmAS1patprSg1xRs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Side side squares in semicircle*
+
+![[src_kangourou_2022_kangourou_squadre__prob15.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.5]
+  \pgfmathsetmacro{\R}{sqrt(5)}
+  \draw[thick] (-\R,0) -- (\R,0);
+  \draw[thick] (\R,0) arc(0:180:\R);
+  \draw[thick] (-1,0) -- (1,0) -- (1,2) -- (-1,2) -- cycle;
+  \draw[thick] (-2,0) -- (-1,0) -- (-1,1) -- (-2,1) -- cycle;
+  \draw[thick] (1,0) -- (2,0) -- (2,1) -- (1,1) -- cycle;
+\end{tikzpicture}
+\end{document}
+```
+
+> The side squares The figure shows a semicircle that houses three squares, each of which has one side on the diameter and at least one vertex on the semicircle. The middle point of the base side of the central side is the middle point of the diameter; the other two squares are adjacent in a symmetrical position to the central side. If the side of the center square is 2,100, how big is the side of the side squares?
+>  
+> A N M V V V A B C D E
+> 
+> 3
+>  
+> Questions and solutions
+
+**Answer:** 1050
+[[src_kangourou_2022_kangourou_squadre__Q15]]

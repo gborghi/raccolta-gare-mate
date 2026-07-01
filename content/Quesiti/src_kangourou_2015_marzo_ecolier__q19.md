@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q19
 parent: src_kangourou_2015_marzo_ecolier
 competition: Kangourou 2015 gara 19 marzo Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *colore x*
 
@@ -75,3 +78,41 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>color x< MSK1/>
+
+![[src_kangourou_2015_marzo_ecolier__prob19.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (1,0);
+  \coordinate (C) at (2,0);
+  \coordinate (D) at (3,0);
+  \coordinate (P) at (0.5,1);
+  \coordinate (Q) at (1.5,1);
+  \coordinate (R) at (2.5,1);
+  \draw (A)--(P); \draw (P)--(B); \draw (B)--(Q); \draw (Q)--(C);
+  \draw (C)--(R); \draw (R)--(D);
+  \draw (A)--(B); \draw (B)--(C); \draw (C)--(D);
+  \node[above] at (1,1.05) {\small $x$};
+  \node[above] at (2,1.05) {\small blu};
+  \node[below] at (0.5,-0.05) {\small rosso};
+  \node[below] at (2,-0.05) {\small rosso};
+\end{tikzpicture}
+\end{document}
+```
+
+> Each of the nine segments in the figure must be coloured by dividing the colours between red, green and blue, so that in each triangle the three sides are given different colours. As you can see, three segments have already been assigned colours in the figure. What color can the segment marked with x be? A) Only blue.
+> 	
+> B) Only green.
+> 	
+> C) Only red. D) Any color is fine. E) No color is right.
+
+**Answer:** C
+[[src_kangourou_2015_marzo_ecolier__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2011 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2011__Q04
 parent: src_bocconi_squadre_2011
 competition: Gara a Squadre 2011
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Crittaritmetica: cifre diverse per lettere*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A=4, B=8, C=0, D=9, E=7, F=3, G=5, H=6, I=1, J=2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csoOdxkAD8Fd4QvzRpEPzVVVOCkJ8l1C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Arithmetic characters: different numbers for each letter*
+
+> On the mirror: $$\text{ABC} + \text{CBA} +$$ $$\text{DE} + \text{ED} +$$ $$\text{FG} = \text{GF}$$ $$\text{HII} = \text{JJJ}$$ Replace the digits 0 to 9 with letters (different letters must be replaced with different numbers and letters equal the same number) so that both sums are verified. The one on the right gets the numbers from right to left from the first reading. Some numbers can start with 0 but $A$ is different from 0. Finally, for two-digit numbers, $DE$ is greater than $ED$ which is greater than $GF$ which is in turn greater than $FG$.
+
+**Answer:** A=4, B=8, C=0, D=9, E=7, F=3, G=5, H=6, I=1, J=2
+[[src_bocconi_squadre_2011__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2008 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2008__Q04
 parent: src_cn_ctst_2008
 competition: China National Team Selection Test 2008
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Permutation of nonempty subsets with consecutive intersection size 1*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Permutazione di sottoinsiemi non vuoti con dimensioni di intersezione consecutive 1*
+
+> Let $n \in \mathbb{N}^*$, $n \geq 3$ e $G_n = \{1, 2, \cdots, n\}$. Prove che esiste una permutazione $Q_1, Q_2, \cdots, Q_{2^n - 1}$ di tutti i sottogruppi non vuoti di $G_n$, tale che $|Q_i \cap Q_{i+1}| = 1$ per $i = 1, 2, \cdots, 2^n - 2$.
+
+[[src_cn_ctst_2008__Q04]]

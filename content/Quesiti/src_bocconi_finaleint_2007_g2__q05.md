@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 2) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g2__Q05
 parent: src_bocconi_finaleint_2007_g2
 competition: >-
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Kg di vernice per dipingere il secondo solido di cubi*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4 kg
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Kg of paint to paint the second solid of cubes*
+
+> The two solids shown below are all identical cubes. It took $5{,}4$ pounds of paint to paint the entire left cube.
+> 
+> How many pounds of paint do you need to paint the second solid?
+
+![[src_bocconi_finaleint_2007_g2__Q05.png]]
+
+**Answer:** 4 kg
+[[src_bocconi_finaleint_2007_g2__Q05]]

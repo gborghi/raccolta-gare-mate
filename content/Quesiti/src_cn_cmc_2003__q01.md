@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2003 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2003__Q01
 parent: src_cn_cmc_2003
 competition: China Mathematical Competition 2003
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the 2003rd term of the sequence of positive integers with perfect squares deleted.*
 
@@ -49,3 +52,16 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova il termine 2003 della sequenza di numeri interi positivi con quadrati perfetti eliminati.*
+
+> Una nuova sequenza viene ottenuta dalla sequenza dei numeri interi positivi $\{1, 2, 3, \cdots\}$ eliminando tutti i quadrati perfetti. Il terzo mandato della nuova sequenza del 2003 è ().
+> 
+> (A) 2 046 \quad (B) 2 047 \quad (C) 2 048 \quad (D) 2 049
+
+**Risposta:** (B) 2 047
+[[src_cn_cmc_2003__Q01]]

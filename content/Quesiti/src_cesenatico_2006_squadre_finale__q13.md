@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q13
 parent: src_cesenatico_2006_squadre_finale
 competition: Gara a Squadre Cesenatico 2006 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero 4 cifre prodotto di soli 2 e moltiplicazioni*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9768
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum 4 digits produced by only 2 digits and multiples*
+
+> At the divination lesson poor Ron was blindfolded and the divination teacher wrote a formula on the board. Knowing that in the expression only 2 digits and multiplication marks appear, and that the result has four digits and is the maximum possible, what should Ron answer?
+
+**Answer:** 9768
+[[src_cesenatico_2006_squadre_finale__Q13]]

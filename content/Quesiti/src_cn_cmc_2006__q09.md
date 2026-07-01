@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2006 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2006__Q09
 parent: src_cn_cmc_2006
 competition: China Mathematical Competition 2006
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find ratio |PF1|/|PF2| when angle F1PF2 is maximized for point P on line*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\sqrt{5} - 1$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Find ratio ↓PF1 quando l'angolo di declinazione/di declinazionePF2 è F1PF2 è massimo per il punto P sulla linea*
+
+> Supponiamo che i punti $F_1$, $F_2$ siano rispettivamente i foci sinistri e destri dell'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ (dove $a > b > 0$, $b = 2$) e $P$ sia un punto sulla linea $l_1$. Quando $\angle F_1 P F_2$ raggiunge il massimo, il valore del rapporto $\left|\dfrac{PF_1}{PF_2}\right|$ è ________.
+
+**Risposta:** $\sqrt{5} - 1$
+[[src_cn_cmc_2006__Q09]]

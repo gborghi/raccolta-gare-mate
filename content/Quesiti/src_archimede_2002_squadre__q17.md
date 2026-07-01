@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q17
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *70 punti, geometria*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0030
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>70 points, geometry < MSK1/>
+
+> **The triangular garden**  70 points
+> 
+> The window of Professor Abacus's study shows a garden in the shape of an isosceles triangle $ABC$ whose angle at the apex $A$ measures 20 degrees. The garden is crossed by three avenues: one joins a point $D$ of $AB$ with the summit $C$, the other joins a point $E$ of $AC$ with the third joining $D$ with $E$. Knowing that $\angle EBA$ and $\angle DCA$ measure 20 and 30 degrees respectively, the width of $\angle BED$ is determined.
+
+**Answer:** 0030
+[[src_archimede_2002_squadre__Q17]]

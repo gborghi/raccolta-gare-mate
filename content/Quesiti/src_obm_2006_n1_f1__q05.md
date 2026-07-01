@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q05
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count three-digit odd numbers with distinct digits divisible by 3*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare numeri dispari a tre cifre con cifre distinte divisibili per 3*
+
+> Quanti numeri dispari a tre cifre con tre cifre distinte sono divisibili per 3?
+>
+> - **(A)** 18
+> - **(B)** 24
+> - **(C)** 28
+> - **(D)** 36
+> - **(E)** 48
+
+**Risposta:** B
+[[src_obm_2006_n1_f1__Q05]]

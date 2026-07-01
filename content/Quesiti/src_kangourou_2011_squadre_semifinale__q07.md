@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre semifinale turno A — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q07
 parent: src_kangourou_2011_squadre_semifinale
 competition: Kangourou 2011 squadre semifinale turno A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti interi sono 20 volte la somma delle cifre*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Total numbers are 20 times the sum of the digits < MSK1/>
+
+> How many positive integers, written in decimal notation, are 20 times the sum of their digits? (Write [9999] if you believe there are infinitesimal.)
+
+**Answer:** 1
+[[src_kangourou_2011_squadre_semifinale__Q07]]

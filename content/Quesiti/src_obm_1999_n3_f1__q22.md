@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q22
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Midpoint geometry in square: triangle AEF area as percentage*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Geometria del punto medio in quadrato: area AEF triangolare in percentuale*
+
+> Nel quadrato $ABCD$, il punto $E$ è il punto medio di $BC$ e il punto $F$ su $CD$ è tale che l'angolo $\angle AEF$ sia un angolo retto. Circa quale percentuale della superficie del quadrato rappresenta il triangolo $AEF$?
+> 
+> A) 28\% \quad B) 31\% \quad C) 34\% \quad D) 36\% \quad E) 39\%
+
+**Risposta:** C
+[[src_obm_1999_n3_f1__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_biennio__Q06
 parent: src_archimede_2000_biennio
 competition: Giochi di Archimede 2000 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di assi di simmetria della figura*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of axes of symmetry of the figure*
+
+![[src_archimede_2000_biennio__prob6.png]]
+
+> How many axes of symmetry does the figure on the side have?
+>
+> - **(A)** 2
+> - **(B)** 4
+> - **(C)** 6
+> - **(D)** 8
+> - **(E)** None of the previous ones.
+
+**Answer:** E
+[[src_archimede_2000_biennio__Q06]]

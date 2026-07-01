@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2024 — Selection Camp — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2024__Q05
 parent: src_selection_camp_2024
 competition: Japan IMO Selection Camp 2024 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation with iterate exponent b*f(a)*
 
@@ -47,3 +50,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PL_Bn-4WncGMxFABFvS--QrLAcF9eVC7/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale con esponente iterato b*f(a)*
+
+> Trova tutte le funzioni $f$ definite sui numeri interi positivi e prendi valori di numeri interi positivi in modo tale che, per tutti i numeri interi positivi $a, b$, $$f^{\,b\,f(a)}(a+1) = (a+1)\,f(b)$$ si mantenga, dove $f^{k}(n)$ indica l'iterata moltiplicata $k$ $\underbrace{f(f(\cdots f(n)\cdots))}_{k}$ ($f$ applicata $k$ volte).
+
+[[src_selection_camp_2024__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Benjamin — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q08
 parent: src_kangourou_2019_benjamin_semif
 competition: Kangourou 2019 Semifinale Benjamin
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero al terzo posto con somme di consecutivi quadrati*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in third place with sums of consecutive squares*
+
+> (Points 5) The integers from 1 to 17 included have been aligned so that the sum of two consecutive numbers is always a perfect square, that the number in the first place is greater than the number in the last (and of course in the alignment each one appears only once). What number is in the third position of the alignment? A) 14 B) 13 C) 4
+> 	
+> D) 3
+> 	
+> E) 1
+
+**Answer:** E
+[[src_kangourou_2019_benjamin_semif__Q08]]

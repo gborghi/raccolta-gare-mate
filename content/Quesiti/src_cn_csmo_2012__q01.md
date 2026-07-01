@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2012 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2012__Q01
 parent: src_cn_csmo_2012
 competition: China Southeastern Mathematical Olympiad 2012
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find triple (l,m,n) with partial sums forming geometric sequence*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il triplo (l,m,n) con somme parziali che formano una sequenza geometrica*
+
+> Trovare un triplo $(l, m, n)$ $(1 < l < m < n)$ di numeri interi positivi in modo che $\sum_{k=1}^{l} k$, $\sum_{k=l+1}^{m} k$, $\sum_{k=m+1}^{n} k$ formino una sequenza geometrica in ordine. (posta da Tao Pingsheng)
+
+[[src_cn_csmo_2012__Q01]]

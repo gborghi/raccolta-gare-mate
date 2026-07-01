@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre_f2__Q01
 parent: src_kangourou_2023_ecolier_squadre_f2
 competition: Kangourou Squadre 2023 Ecolier Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero 4 cifre con prodotto cifre 40*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1158
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number 4 digits with product number 40*
+
+> The smallest Mariella wrote the smallest four-digit integer greater than zero, such that the product of its digits is 40. What number did Mariella write?
+
+**Answer:** 1158
+[[src_kangourou_2023_ecolier_squadre_f2__Q01]]

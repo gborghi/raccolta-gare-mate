@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q22
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Friendly binary sequences with n terms, find smallest n>=2 with F_n>100*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 11
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenze binarie amichevoli con n termini, trovare la più piccola n>=2 con F_n>100*
+
+> Una sequenza binaria è una sequenza in cui ogni termine è uguale a 0 o 1. Una sequenza binaria è chiamata amichevole se ogni termine è adiacente ad almeno un termine che è uguale a 1. Ad esempio, la sequenza $0, 1, 1, 0, 0, 1, 1, 1$ è amichevole. $F_n$ indichi il numero di sequenze binarie amichevoli con termini $n$. Trova il numero intero positivo più piccolo $n \geq 2$ tale da $F_n > 100$.
+
+**Risposta:** 11
+[[src_ioqm_2022__Q22]]

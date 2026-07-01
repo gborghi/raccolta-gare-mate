@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q02
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu grande numero di 10 cifre accostando foglietti*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Biggest number of 10 digits by attaching sheets< MSK1/>
+
+![[src_kangourou_2006_benjamin__prob2.png]]
+
+> Look at the figure: six numbers are written on as many sheets. By holding all six sheets together, you can form ten-digit numbers. Which one's the biggest? A) 9 876 543 210          B) 4 130 975 682          C) 3 097 568 241 D) 7 568 413 092          E) 7 685 413 092
+
+**Answer:** E
+[[src_kangourou_2006_benjamin__Q02]]

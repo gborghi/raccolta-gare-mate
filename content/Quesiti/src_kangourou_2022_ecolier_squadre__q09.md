@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_squadre__Q09
 parent: src_kangourou_2022_ecolier_squadre
 competition: Kangourou Squadre 2022 Ecolier Finale 2
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza numero allo specchio e sul muro*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3483
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Different number on mirror and wall*
+
+> The mirror On a wall the number appears and in front of the wall there is a mirror. By reading the number visible in the mirror and calculating the difference with the number visible on the wall, what is the result?
+
+**Answer:** 3483
+[[src_kangourou_2022_ecolier_squadre__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f1__Q09
 parent: src_obm_2010_n1_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive divisors of 120 that are multiples of 6*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i divisori positivi di 120 che sono multipli di 6*
+
+> Quanti divisori positivi di $120$ sono multipli di $6$?
+> 
+> (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $8$ \quad (E) $12$
+
+**Risposta:** C
+[[src_obm_2010_n1_f1__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Écolier (gara marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q14
 parent: src_kangourou_2017_ecolier_marzo
 competition: Kangourou 2017 Écolier (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo minuti per cuocere 5 vivande su due fornelli*
 
@@ -54,3 +57,23 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum minutes to cook 5 dishes on two ovens< MSK1/>
+
+> David wants to cook five dishes and has only two ovens. Each meal has a different cooking time: 40, 15, 35, 10 and 45 minutes. What is the minimum number of minutes David needs to finish the job? Note that David cannot take a living thing out of the fire unless the whole time of cooking has been spent. A) 60
+> 	
+> B) 70
+> 	
+> C) 75
+> 	
+> D) 80
+> 	
+> E) 85
+>
+
+**Answer:** C
+[[src_kangourou_2017_ecolier_marzo__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f1__Q18
 parent: src_obm_2000_n2_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of children of Emir Abdel Aziz given twin/triple constraints*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di figli di Emir Abdel Aziz con vincoli doppi/tripli*
+
+> L'emiro Abdel Aziz divenne famoso per molte ragioni. Ha avuto $39$ figli, compresi i suoi discendenti; lo storico Ahmed Aab afferma: tutti i suoi figli erano gemelli (nati in coppia), tranne $39$; erano anche triplici (nati in tre), tranne $39$. Il numero dei figli dell' emir è:
+> 
+> A) $75$ \quad B) $48$ \quad C) $51$ \quad D) $1{,}050$ \quad E) $111$
+
+**Risposta:** C
+[[src_obm_2000_n2_f1__Q18]]

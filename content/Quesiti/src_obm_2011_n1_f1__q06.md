@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q06
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Percentage of cancelled flights (volcano then rain)*
 
@@ -46,3 +49,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Percentuale di voli cancellati (vulcano e pioggia) *
+
+> A causa di un'eruzione vulcanica, < MSK0/> dei voli da un aeroporto sono stati cancellati. Dei voli rimanenti, $20\%$ sono stati cancellati a causa della pioggia. Qual è la percentuale dei voli totali da tale aeroporto annullati?
+> 
+> (A) 28\% \quad (B) 30\% \quad (C) 35\% \quad (D) 38\% \quad (E) 70\%
+
+**Risposta:** A
+[[src_obm_2011_n1_f1__Q06]]

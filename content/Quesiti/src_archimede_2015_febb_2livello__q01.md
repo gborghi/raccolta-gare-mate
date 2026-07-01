@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q01
 parent: src_archimede_2015_febb_2livello
 competition: Archimede Gara di Febbraio 2015 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *x e x+312 palindromi, x di 4 cifre, somma delle cifre di x*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/147OSJf1wSBJHNEWKDKPVWMIP2TLevkAt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*x and x+312 palindromes, x of 4 digits, sum of digits of x*
+
+> A natural number is called a palindrome if it is equal to the number obtained by reading the digits of its writing in base ten from right to left (e.g., 68386 and 44 are palindroms, 220 are not). We know that the natural number x and the number x plus 312 are both palindromes; x has four digits, while x plus 312 has five. How much is the sum of the digits of x?
+>
+> - **(A)** 30
+> - **(B)** 31
+> - **(C)** 32
+> - **(D)** 33
+> - **(E)** 34
+
+**Answer:** E
+[[src_archimede_2015_febb_2livello__Q01]]

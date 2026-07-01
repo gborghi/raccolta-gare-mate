@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q01
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale figura geometrica manca nei riquadri*
 
@@ -39,3 +42,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which geometric figure is missing in the frames*
+
+![[src_kangourou_2015_marzo_preecolier__prob1.png]]
+
+> What geometric figure is missing in any of the four frames? (see figure)
+> 
+> (A) (B) (C) (D) (E)
+
+**Answer:** D
+[[src_kangourou_2015_marzo_preecolier__Q01]]

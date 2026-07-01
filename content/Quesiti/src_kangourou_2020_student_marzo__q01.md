@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q01
 parent: src_kangourou_2020_student_marzo
 competition: Kangourou 2020 Student - gara marzo (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma ultime due cifre del prodotto 1x2x..x1*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total of the last two digits of the product 1x2x..x1*
+
+> What is the sum of the last two digits of product 1×2×3×4×5×4×3×2×1? A) 2
+> 	
+> B) 4
+> 	
+> C) 6
+> 	
+> D) 8
+> 	
+> E) 16
+
+**Answer:** D
+[[src_kangourou_2020_student_marzo__Q01]]

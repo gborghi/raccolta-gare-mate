@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q09
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area quadrilatero ciclico con riflessione E (raggio 15)*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cyclic quadrilateral area with E reflection (radius 15) *
+
+> Amara medicine [40] Otenusa is engaged in a difficult healing technique. Doses and measures are essential for medical morning. Otenusa considers an ABCD quadrilateral inscribed in a circumference with a radius equal to 15 mat-shaku. That said, the symmetry of B with respect to the AC segment axis, Otenusa knows that AC, BD and DE have lengths equal to 23, 24 and 25 mat-shaku respectively. What is the surface area of the ABCD quadrilateral in mat-shaku2?
+
+[[src_cesenatico_2007_squadre_pubblico__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo7yq_yosen__Q03
 parent: src_jjmo7yq_yosen
 competition: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer part (floor) of a specific fraction with digit-pattern numerator and denominator*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JSUMowa9JI8Y3BaqBeZ4gyyU1TBF9Jpp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Parte integrale (piano) di una frazione specifica con numeratore e denominatore di modello digitali*
+
+> Trovare la parte integrale (cioè arrotondata verso il basso al numero intero più vicino) della seguente espressione: $$\frac{9 + 98 + 987 + 9876 + 98765 + 987654 + 9876543 + 98765432}{12345678 + 1234567 + 123456 + 12345 + 1234 + 123 + 12 + 1}.$$
+
+**Risposta:** 8
+[[src_jjmo7yq_yosen__Q03]]

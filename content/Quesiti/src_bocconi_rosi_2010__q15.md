@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2010 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2010__Q15
 parent: src_bocconi_rosi_2010
 competition: Giochi di Rosi 2010
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora attuale con condizione sui quinti del tempo trascorso*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Sono le 7 e mezza
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pwjn1M0F1YSZ60SMZmZPXENHZGd98Xmt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Current time with condition on fifths of the time elapsed*
+
+> To know what time it is this morning, one must add to the time left at noon two-fifths of the time since midnight.
+> 
+> What time is it?
+
+**Answer:** Sono le 7 e mezza
+[[src_bocconi_rosi_2010__Q15]]

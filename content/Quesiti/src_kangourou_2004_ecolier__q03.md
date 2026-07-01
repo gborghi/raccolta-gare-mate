@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Ecolier (18 marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_ecolier__Q03
 parent: src_kangourou_2004_ecolier
 competition: Kangourou 2004 Ecolier (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante rondini all'inizio*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many swallows at the start< MSK1/>
+
+> There were some swirls on the light strings. At some point, five of those squirrels flew away, and three new squirrels landed. Now we're counting the swallows on the light strings, they're 12. How many squirrels were on the wires at the beginning? A)  8           B)  9 C)  10 D)  12         E)  14
+
+**Answer:** E
+[[src_kangourou_2004_ecolier__Q03]]

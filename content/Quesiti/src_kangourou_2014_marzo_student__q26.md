@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q26
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *n perche CZ=1*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>n because CZ=1 < MSK1/>
+
+> Two regular polygons, with sides of length 1, lie in semiplanes opposite to the straight containing their common side AB. One of them is a 15-sided polygon, ABCD... And the other one is a polygon with n sides, ABZY... . For what value of n is the length of the CZ segment equal to 1? A) 10
+> 	
+> B) 12
+> 	
+> C) 15
+> 	
+> D) 16
+> 	
+> E) 18
+
+**Answer:** A
+[[src_kangourou_2014_marzo_student__Q26]]

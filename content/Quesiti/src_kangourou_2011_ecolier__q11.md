@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Ecolier (gara marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier__Q11
 parent: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale somma non puo avere con 13 monete da 5 o 10*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What sum can't have with 13 coins of 5 or 10*
+
+> Andrea has 13 coins in her pocket, each of which is five cents or ten cents. Which of the following certainly cannot be, in cents, the total amount Andrew has in his pocket? A) 80 B) 60 C) 70 D) 115 E) 125
+
+**Answer:** B
+[[src_kangourou_2011_ecolier__Q11]]

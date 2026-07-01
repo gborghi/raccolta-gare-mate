@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Junior (15 marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_junior__Q19
 parent: src_kangourou_2001_junior
 competition: Kangourou 2001 - Junior (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero non ottenibile con segni alterni*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number not available with alternate characters*
+
+> In expression 2 * 4 * 6 * 8 * 10 * 12 * 14 the " + " or "  " mark may be replaced by each asterisk. What number cannot be the result of any of these expressions ?
+>
+> - **(A)** 0
+> - **(B)** 4
+> - **(C)** – 4
+> - **(D)** 48
+> - **(E)** 30.
+
+**Answer:** E
+[[src_kangourou_2001_junior__Q19]]

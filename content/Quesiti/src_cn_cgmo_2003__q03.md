@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2003 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2003__Q03
 parent: src_cn_cgmo_2003
 competition: China Girls' Mathematical Olympiad 2003
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five nonneg reals summing to 1: neighboring products on circle*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Cinque valori reali non negativi sommati a 1: prodotti vicini sul cerchio< MSK1/>
+
+> (1) Per tutti i cinque numeri reali non negativi $a$, $b$, $c$, $d$ e $e$ con la loro somma uguale a $1$, è sempre possibile organizzarli intorno a un cerchio in modo che ci siano sempre due numeri vicini con il loro prodotto non inferiore a $\frac{1}{4}$.
+> 
+> (2) Per tutti i cinque numeri reali non negativi $a$, $b$, $c$, $d$ e $e$ con la loro somma uguale a $1$, è sempre possibile organizzarli attorno a un cerchio in modo che ci siano due numeri vicini il cui prodotto non è maggiore di $\frac{1}{9}$.
+> 
+> (Posizionato da Qian Zhanwang)
+
+[[src_cn_cgmo_2003__Q03]]

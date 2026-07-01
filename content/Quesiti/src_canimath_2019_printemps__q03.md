@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2019 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_printemps__Q03
 parent: src_canimath_2019_printemps
 competition: Coupe Animath Printemps 2019
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle with cevians; show a+b=c for areas of four regions*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo con ceviani; indicare a+b=c per le aree di quattro regioni*
+
+> Lasciate che $ABCD$ sia un rettangolo. Il punto $P$ deve essere un punto sul segmento $[AB]$ e il punto $Q$ un punto sul segmento $[BC]$. I segmenti $[AQ]$ e $[DP]$ si intersecano a $X$; i segmenti $[AQ]$ e $[CP]$ si intersecano a $Y$; i segmenti $[DP]$ e $[CP]$ si intersecano a $Z$. Le aree $a$, $b$, $c$ sono rispettivamente le aree del triangolo $APX$, del quadrilaterale $BPYQ$ e del triangolo $CQZ$ del quadrilaterale $DXYZ$.
+> 
+> Indicare che l'area del quadrilaterale $DXYZ$ soddisfa $a + b = c$.
+
+[[src_canimath_2019_printemps__Q03]]

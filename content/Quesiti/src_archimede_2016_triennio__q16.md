@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Triennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_triennio__Q16
 parent: src_archimede_2016_triennio
 competition: Giochi di Archimede 2016 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio circonferenza da bisettrice e arco medio*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Blink of the circumference of the beam and medium arc< MSK1/>
+
+> Given an EFG triangle, both C and the circumference to it circumscribed. We indicate with X the point of intersection (other than F) of the intersection of the angle E FG with the circumference C and with Y the middle point of the arc EG containing F. Knowing that FX is 12 and FY is 5, how much does the radius of the circumference C measure?
+>
+> - **(A)** 9
+> - **(B)** 13/2
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 11/2
+
+**Answer:** B
+[[src_archimede_2016_triennio__Q16]]

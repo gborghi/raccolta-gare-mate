@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Ecolier — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier__Q12
 parent: src_kangourou_2014_ecolier
 competition: Kangourou 2014 marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di due punteggi non ottenibile al bersaglio*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of two scores not achievable at the target*
+
+![[src_kangourou_2014_ecolier__prob12.png]]
+
+> Paul plays the shot at the target. If he doesn't hit the target he gets 0 points, if he hits it he gets the score shown in the figure in the area where he hit it. After two throws, which of the following numbers cannot be the sum of the two scores he has scored? A) 60
+> 	
+> B) 70
+> 	
+> C) 80
+>              
+> D) 90
+> 	
+> E) 100
+
+**Answer:** D
+[[src_kangourou_2014_ecolier__Q12]]

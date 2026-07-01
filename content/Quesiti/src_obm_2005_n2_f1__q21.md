@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q21
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Clock makes a plim each time a hand overtakes another; count plins between 12h00m01s and 23h59m59s*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>L'orologio fa un plim ogni volta che una mano supera un'altra; conta i plini tra le 12h00m01 e le 23h59m59< MSK1/>
+
+> Un orologio, con ore, minuti e seconde mani, fa un $plim$ ogni volta che una mano supera un'altra sul quadrante. Il numero di $plins$ registrati in un determinato giorno, nel periodo compreso tra $12$ ore e $1$ seconde e $23$ ore, $59$ minuti e $59$ secondi, è: A) $732$ \quad B) $1438$ \quad C) $1440$ \quad D) $1446$ \quad E) $1452$
+
+**Risposta:** B
+[[src_obm_2005_n2_f1__Q21]]

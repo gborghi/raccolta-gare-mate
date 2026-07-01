@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2008 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2008__Q15
 parent: src_cn_cmc_2008
 competition: China Mathematical Competition 2008
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum area of triangle with vertex on parabola and inscribed circle*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area minima del triangolo con vertice sulla parabola e cerchio inciso*
+
+> Come mostra la figura, $P$ è un punto in movimento sulla parabola $y^2 = 2x$, i punti $B$, $C$ sono sull'asse $y$ e il cerchio $(x-1)^2 + y^2 = 1$ è tangente internamente a $\triangle PBC$. Trova il valore minimo della superficie di $\triangle PBC$.
+
+![[src_cn_cmc_2008__Q15.png]]
+
+[[src_cn_cmc_2008__Q15]]

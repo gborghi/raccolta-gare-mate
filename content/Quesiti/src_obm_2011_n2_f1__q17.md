@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q17
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle BAC given D,E on BC with BD=BA, CE=CA and angle DAE=40*
 
@@ -42,3 +45,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo BAC dato D,E su BC con BD=BA, CE=CA e angolo DAE=40*
+
+> Nel triangolo $ABC$, i punti $D$ e $E$ appartengono al lato $BC$ e sono tali che $BD = BA$ e $CE = CA$. Dato che $m(D\hat{A}E) = 40^\circ$, quanto in gradi misura l'angolo $B\hat{A}C$?
+> 
+> (A) $80$ \quad (B) $90$ \quad (C) $100$ \quad (D) $110$ \quad (E) $120$
+
+![[src_obm_2011_n2_f1__Q17.png]]
+
+[[src_obm_2011_n2_f1__Q17]]

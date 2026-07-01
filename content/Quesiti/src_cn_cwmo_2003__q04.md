@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2003 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2003__Q04
 parent: src_cn_cwmo_2003
 competition: China Western Mathematical Olympiad 2003
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove ABCD is parallelogram if sum of distances from any interior point is constant*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove ABCD è parallelo se la somma delle distanze da qualsiasi punto interno è costante*
+
+> Supponiamo che la somma delle distanze da qualsiasi punto $P$ su un quadrilaterale converso $ABCD$ alle linee $AB$, $BC$, $CD$ e $DA$ sia costante. Provare che $ABCD$ è un parallelo.
+
+![[src_cn_cwmo_2003__Q04.png]]
+
+[[src_cn_cwmo_2003__Q04]]

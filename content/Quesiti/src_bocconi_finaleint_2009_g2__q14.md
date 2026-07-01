@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 2) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g2__Q14
 parent: src_bocconi_finaleint_2009_g2
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei numeri ottenuti dalle pagine affacciate di un libro*
 
@@ -50,3 +53,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_LRZ35lngxx9JZL11y14CrDyt5FTBU28/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of numbers obtained from the outline pages of a book*
+
+> The verse of the book. A book has pages numbered from $1$ to $999$ included. For each page, a number is formed by joining the page number to the front page number. For example: $20$ before $2$, $350$ before $35$, $450$ before $45$, $607$ before $67$, etc. What is the sum of all the numbers thus obtained (including those of the first change)?
+
+**Answer:** 418095
+[[src_bocconi_finaleint_2009_g2__Q14]]

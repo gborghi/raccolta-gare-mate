@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q02
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Nome dal albero genealogico*
 
@@ -65,3 +68,26 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Name from the family tree*
+
+![[src_kangourou_2002_junior__prob2.png]]
+
+> Matthew examines his family tree where only males are listed and where the arrows point to the father's lineage to their respective children. What is the name of Matthew's grandfather's brother's son's brother's brother's son?
+>  
+> A. Mark B. Alex C. I 'm going to tell you . This is not a problem.
+>  
+>  
+>  
+>  
+>  
+> E. No one from the previous one Angelo Tommaso Bruno Roberto Marco Giovanni Alex Enrico Matteo Riccardo
+> 
+> Junior year 2002. This item is not intended to be used. 2
+
+**Answer:** D
+[[src_kangourou_2002_junior__Q02]]

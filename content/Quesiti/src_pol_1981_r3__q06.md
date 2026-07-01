@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1981 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1981_r3__Q06
 parent: src_pol_1981_r3
 competition: Olimpiade Matematica Polacca 1981 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For a tetrahedron of volume V with S the sum of squares of its edge lengths, prove V <= S*sqrt(S)/(72*sqrt(3)).*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11gXCIkgSxcgxTqCK4QeFSynkdB7_4TGW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per un tetraedro di volume V con S la somma dei quadrati delle sue lunghezze di bordo, provare V <= S*sqrt(S)/(72*sqrt(3)).*
+
+> In un tetraedro di volume $V$ la somma dei quadrati delle lunghezze dei suoi bordi è uguale a $S$. Provare che < MSK0/>
+
+[[src_pol_1981_r3__Q06]]

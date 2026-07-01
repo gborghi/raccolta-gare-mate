@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q04
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto cifre di numero 10 cifre =15, somma cifre*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Product number 10 digits = 15, sum of digits*
+
+> 4. The product of the digits of a 10-digit integer is 15. What is the sum of the 10 digits of the number? The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EU) No 1303/2013.
+
+**Answer:** D
+[[src_kangourou_2022_student__Q04]]

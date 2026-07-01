@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q14
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti interi positivi si scrivono con 6 fiammiferi*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many positive integers can be written with 6 matches < MSK1/>
+
+![[src_kangourou_2023_cadet__prob14.png]]
+
+> The figure shows how to construct each figure by approaching matches. How many positive integers can each be written using exactly six matches (as indicated)? A) 2
+> 	
+> B) 4
+> 	
+> C) 6
+> 	
+> D) 8
+> 	
+> E) 9
+
+**Answer:** C
+[[src_kangourou_2023_cadet__Q14]]

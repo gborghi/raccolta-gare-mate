@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2014 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_classiprime__Q07
 parent: src_archimede_2014_classiprime
 competition: Gara Nazionale Classi Prime 2014
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima manciata di numeri tombola con somma multiplo di 10*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of convex numbers with multiple sums of 10*
+
+> In a bag there are the 90 numbers of the tomb: 90 wooden scissors numbered from 1 to 90. I need two of these so that their sum is a multiple of 10. So I take a handful of them blindly, and I hope to find two of them that will suit me. What is the minimum amount of numbers my hand must contain to make sure this happens? A 39 B 11 C 46 D 10 E 54 F 19
+
+**Answer:** A
+[[src_archimede_2014_classiprime__Q07]]

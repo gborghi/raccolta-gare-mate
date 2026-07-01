@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2021_squadre__Q15
 parent: src_gsm_2021_squadre
 competition: Gara a Squadre GSM (locale Genova) 2021
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di radice quarta di a piu radice quarta di b*
 
@@ -56,3 +59,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0007
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of the fourth root of a plus the fourth root of b*
+
+> On the lake of Braies, Francesco and Simone Campigotto decide to do what most other tourists do and hire a rowing boat to go around the lake. Simon (pointing to a writing inscribed in the boat) What is that? Francesco (He puts on his glasses) He seems to be a problem. Simone What do you say? Francesco C is written: How much is 4pa + 4p b where a and b are the two roots of the polynomial x2 −2207x + 1? Simone . .
+
+**Answer:** 0007
+[[src_gsm_2021_squadre__Q15]]

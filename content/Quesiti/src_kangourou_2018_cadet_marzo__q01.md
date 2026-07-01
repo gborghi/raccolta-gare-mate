@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q01
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante tacche sull'asta della neve*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many ticks on the snow axe< MSK1/>
+
+> A snow height measuring rod is 3 metres long and has a tail every 15 centimetres from the ends (which are tailless). How many turkeys are on the raft? A) 20
+> 	
+> B) 12
+> 	
+> C) 21
+> 	
+> D) 15
+> 	
+> E) 19
+
+**Answer:** E
+[[src_kangourou_2018_cadet_marzo__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1968 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1968_r3__Q04
 parent: src_pol_1968_r3
 competition: Olimpiade Matematica Polacca 1968 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of lines through n non-collinear points is at least n*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10k54qccFrtN6TlMsohHjGXdPXzsXwNZY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il numero di linee attraverso n punti non collineari è almeno n*
+
+> Sul piano ci sono punti $n \ge 3$, non tutti sulla stessa linea. Tracciando tutte le linee che attraversano due di questi punti si ottengono $k$ diverse linee. Prove che $k \ge n$.
+
+[[src_pol_1968_r3__Q04]]

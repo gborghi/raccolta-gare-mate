@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q21
 parent: src_kangourou_2008_cadet_marzo
 competition: Kangourou 2008 - Cadet (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Crittoaritmo KAN-GAR=OO, massimo KAN*
 
@@ -58,3 +61,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>KAN-GAR=OO, maximum KAN< MSK1/>
+
+> In the KAN  GAR = OO equality, each letter represents a digit (in decimal notation): different letters represent different digits, equal letters represent equal digits. What is the maximum value that can be assumed from the KAN number? The Commission has therefore decided to extend the scope of this Regulation to the following areas:
+> 
+> I'm going to pay. I'm going to pay. 20 20 Kang 2008 Kang
+
+**Answer:** D
+[[src_kangourou_2008_cadet_marzo__Q21]]

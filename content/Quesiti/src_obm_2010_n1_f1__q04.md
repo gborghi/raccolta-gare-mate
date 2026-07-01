@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f1__Q04
 parent: src_obm_2010_n1_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max tokens in 5x5 grid with row and column counts multiples of 3*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Max token in griglia 5x5 con conteggio di righe e colonne multipli di 3*
+
+> Qual è il numero massimo di token che può essere inserito in una tabella $5 \times 5$, con un token al massimo per cella, in modo tale che il numero di token in ogni riga e in ogni colonna sia un multiple di $3$?
+> 
+> (A) $3$ \quad (B) $9$ \quad (C) $12$ \quad (D) $15$ \quad (E) $24$
+
+**Risposta:** B
+[[src_obm_2010_n1_f1__Q04]]

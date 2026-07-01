@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2009 - Gara a squadre — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2009_squadre__Q23
 parent: src_gs_2009_squadre
 competition: Coppa Fermat 2009 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Strategia vincente tavoletta di cioccolata*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6993
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Winning strategy chocolate table *
+
+> After drinking three Pan Galactic Gargle Blasters, Ford and Zaphod had the Nutri-matic Food Synthesizer generate a huge rectangular square-shaped chocolate tablet: 9002 columns, each composed of 2009 square-shaped chocolate. They decide to play a game: they may splash the box on a top; then, in turn, each of them will break the table (or what is left of it) into two rectangular pieces, along one of the drains between the boxes, eating one of the two parts. Whoever eats the box with the mayonnaise loses. Ford plays first. Which rectangle must eat on the first move to be sure of winning? The answer indicates the number of different pictures from 2009 and 9002 of one of the sides of the piece of chocolate you have to eat.
+
+**Answer:** 6993
+[[src_gs_2009_squadre__Q23]]

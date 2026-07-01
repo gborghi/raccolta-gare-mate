@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2003 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo13mq_honsen__Q03
 parent: src_jmo13mq_honsen
 competition: Japan Mathematical Olympiad 2003 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the largest real k such that an inequality holds for all positive reals*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10-DDRKMteTHYfjsW5yYE7XwybI34H8OB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la k reale più grande in modo tale che una disuguaglianza si verifichi per tutti i reali positivi*
+
+> Trova il numero reale più grande $k$ in modo tale che per ogni triplo dei numeri reali positivi $a, b, c$ soddisfa $a^2 > bc$, la disuguaglianza $$(a^2 - bc)^2 > k(b^2 - ca)(c^2 - ab)$$ sia valida.
+
+[[src_jmo13mq_honsen__Q03]]

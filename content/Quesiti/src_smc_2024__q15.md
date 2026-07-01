@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2024 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2024__Q15
 parent: src_smc_2024
 competition: Senior Mathematical Challenge 2024
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two squares JKLM and NKPO sharing corner K; NL = 10 cm, shaded area 62 cm²; find KN*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due quadrati JKLM e NKPO che condividono angolo K; NL = 10 cm, area ombrata 62 cm2; trovi KN*
+
+> Il diagramma mostra due quadrati, $JKLM$ e $NKPO$. La lunghezza di $NL$ è di 10 cm. La zona ombrata ha una superficie di 62 cm < MSK3/>. Qual è la lunghezza di < MSK4/> in cm?
+>
+> - **(A)** $3$
+> - **(B)** $\sqrt{18}$
+> - **(C)** $\sqrt{19}$
+> - **(D)** $\sqrt{22}$
+> - **(E)** $5$
+
+![[src_smc_2024__Q15.png]]
+
+**Risposta:** C
+[[src_smc_2024__Q15]]

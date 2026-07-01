@@ -1,6 +1,7 @@
 ---
 title: XI Gara Nazionale Classi Prime 2026 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2026__Q15
 parent: src_garaprime_2026
 competition: XI Gara Nazionale Classi Prime 2026
@@ -26,6 +27,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anatre con testa e piume rosse (insiemi)*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1F8eBxLs4bDWlyZJGhjIxQLaCXc18EKrk/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Anater with red head and feathers (together) < MSK1/>
+
+> A lake is populated by 800 ducks with red or blue feathers and red or blue heads. If 430 ducks have red feathers, 290 ducks have blue heads and 160 ducks have both blue heads and blue feathers, how many ducks have both red heads and red feathers?
+>
+> - **(A)** 370
+> - **(B)** 350
+> - **(C)** 240
+> - **(D)** 300
+> - **(E)** The information is insufficient
+
+**Answer:** D
+[[src_garaprime_2026__Q15]]

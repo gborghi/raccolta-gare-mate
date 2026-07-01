@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior (20 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior__Q14
 parent: src_kangourou_2003_junior
 competition: Kangourou 2003 Junior (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza max-min multipli di 8 da 888*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Max-min multiple difference of 8 from 888*
+
+> Anna and Barbara write the three-digit number 888, which is clearly a multiple of 8. Anna changes 2 of the three digits so that she gets the maximum possible number still multiple of 8 and Barbara instead changes two digits of 888 so that she gets the minimum possible number of three digits multiple of 8. What is the difference between the two results? A) 800 B) 840 C) 856 D) 864 E) 904
+
+**Answer:** C
+[[src_kangourou_2003_junior__Q14]]

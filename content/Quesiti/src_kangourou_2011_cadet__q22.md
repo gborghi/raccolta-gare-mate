@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q22
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale sestina di spigoli non da esagono regolare*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which set of rods does not have a regular hexagon< MSK1/>
+
+![[src_kangourou_2011_cadet__prob22.png]]
+
+> You can cut a cube with a plane so that the section is a regular hexagon. This can be done in 4 different ways and in any case the drying plane intersects 6 different cube branches. Each branch of the cube in the figure is marked by a letter: of the following six branches, which one cannot be affected by a cut giving rise to a regular hexagon? A) k, j, d, a, f, h B) k, l, a, b, e, g C) c, b, h, f, i, l D) g, j, i, c, d, e E) i, k, e, g, a, c
+
+**Answer:** E
+[[src_kangourou_2011_cadet__Q22]]

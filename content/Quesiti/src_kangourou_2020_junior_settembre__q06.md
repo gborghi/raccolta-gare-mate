@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - finale settembre — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_settembre__Q06
 parent: src_kangourou_2020_junior_settembre
 competition: Kangourou 2020 Junior - finale settembre
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Allineamento di M,N,P nel triangolo con incerchio*
 
@@ -35,3 +38,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Y0Gi-Uy881pNn6RNQhqSGYn7AyhCKbJx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Alignment of M,N,P in the triangle with inclination*
+
+![[src_kangourou_2020_junior_settembre__prob6.png]]
+
+> A center circumference $I$ is inscribed in a triangle $ABC$: denotes with $D$ and $E$ its tangent points on the sides $BC$ and $AC$ respectively. Also denote with $M$ and $N$ the mean points of $BC$ and $AB$ respectively and with $P$ the intersection between the connecting line $A$ with $I$ and the connecting line $D$ with $E$. It shows that $M$, $N$ and $P$ are aligned.
+
+[[src_kangourou_2020_junior_settembre__Q06]]

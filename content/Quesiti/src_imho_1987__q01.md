@@ -1,6 +1,7 @@
 ---
 title: IMO 1987 (XXVIII International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1987__Q01
 parent: src_imho_1987
 competition: IMO 1987 (XXVIII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sum of k times permutations with k fixed points equals n!*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of k times permutations with k fixed points equals n!*
+
+> Let $p_n(k)$ be the number of permutations of the set $\{1, \ldots, n\}$, $n \ge 1$, which have exactly $k$ fixed points. Prove that $$\sum_{k=0}^{n} k \cdot p_n(k) = n!.$$ (Remark: A permutation $f$ of a set $S$ is a one-to-one mapping of $S$ onto itself. An element $i$ in $S$ is called a fixed point of the permutation $f$ if $f(i) = i$.)
+
+[[src_imho_1987__Q01]]

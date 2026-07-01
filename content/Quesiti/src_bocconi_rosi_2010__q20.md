@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2010 — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2010__Q20
 parent: src_bocconi_rosi_2010
 competition: Giochi di Rosi 2010
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo ACD piegando rettangolo lungo diagonale*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** L'angolo $ACD$ misura $30^\circ$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pwjn1M0F1YSZ60SMZmZPXENHZGd98Xmt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*ACD angle by folding a diagonal rectangle *
+
+> Fold the $ABCD$ rectangle along its $AC$ diagonal, thus obtaining the $ACF$ triangle. The area of the $BEC$ triangle is $\frac{1}{6}$ of that of the rectangle.
+> 
+> **What is the angle measurement $ACD$ in degrees?**
+
+![[src_bocconi_rosi_2010__Q20.png]]
+
+**Answer:** L'angolo $ACD$ misura $30^\circ$
+[[src_bocconi_rosi_2010__Q20]]

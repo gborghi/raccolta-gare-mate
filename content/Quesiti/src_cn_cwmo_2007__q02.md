@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2007 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2007__Q02
 parent: src_cn_cwmo_2007
 competition: China Western Mathematical Olympiad 2007
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two circles, perpendicularity OD perp MN iff concyclicity of P,Q,M,N*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Due cerchi, perpendicolare OD per MN se conciclicità di P,Q,M,N < MSK1/>
+
+> I punti $C$ e $D$ siano due punti di intersezione del cerchio $O_1$ e del cerchio $O_2$. Una linea che attraversa $D$ incrocia il cerchio $O_1$ rispettivamente nei punti $A$ e $B$. I punti $P$ e $Q$ sono rispettivamente sul cerchio $O_2$ e sul cerchio $O_1$. Le linee $PD$ e $AC$ si incrociano a $M$, e le linee $QD$ e $BC$ si incrociano a $N$. Supponiamo che $O$ sia il centro circoncentrale del triangolo $ABC$, dimostriamo che $OD \perp MN$ se e solo se $P$, $Q$, $M$, $N$ sono conciclici.
+
+![[src_cn_b07_w158__Q02.png]]
+
+[[src_cn_cwmo_2007__Q02]]

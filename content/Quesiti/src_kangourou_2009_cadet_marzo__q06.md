@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q06
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di quattro interi distinti con prodotto 100*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of four distinct integers with product 100*
+
+> The product of four different positive integers is 100. What's their sum? A) 10 B) 12 C) 15 D) 18 E) 20 Texts_09.qxp 15-04-2009 20:26 Page 16
+> 
+> I'm going to pay. I'm going to pay. 17 17 Kang 2009 Kang
+
+**Answer:** D
+[[src_kangourou_2009_cadet_marzo__Q06]]

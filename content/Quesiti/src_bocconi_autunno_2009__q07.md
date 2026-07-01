@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2009 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2009__Q07
 parent: src_bocconi_autunno_2009
 competition: Giochi d'Autunno 2009
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Contare i quadrati in una figura*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 20
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting the squares in a figure*
+
+> How many squares can you see in the figure?
+
+![[src_bocconi_autunno_2009__Q07.png]]
+
+**Answer:** 20
+[[src_bocconi_autunno_2009__Q07]]

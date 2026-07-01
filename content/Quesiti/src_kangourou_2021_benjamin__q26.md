@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q26
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dobloni e diamanti dalle risposte vere/false*
 
@@ -57,3 +60,23 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total of true/false diamonds and diamonds *
+
+> To the two questions How many doubles and how many diamonds does your friend Barbanera have? three pirates each gave a true and a false answer. Their answers were: (1) It has 8 double-edged diamonds and 6 diamonds. (2) It has seven double and four diamonds. (3) It has seven double and seven diamonds. What is the sum of the number of duplicates and the number of diamonds owned by Barbanera? A) 11
+> 	
+> B) 12
+> 	
+> C) 13
+> 	
+> D) 14
+> 	
+> E) 15
+>
+
+**Answer:** C
+[[src_kangourou_2021_benjamin__Q26]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 2) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g2__Q16
 parent: src_bocconi_finaleint_2007_g2
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dimensioni della tavoletta di cioccolato per garantire la vittoria ad Alice*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1:2 ; 1:5 ; 1:7 ; 1:9 ; 3:3 ; 3:5 ; 3:7 ; 5:5 ; 5:7 ; 7:7 (10 soluzioni)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The size of the chocolate table to ensure Alice's victory
+
+> Alice proposes to Bruno to play the following game: he hands him a chocolate table, then Bruno breaks this chocolate table along one of the grooves. Whenever he gets an isolated square (or two pieces each consisting of a single square), he eats it, and puts the larger pieces back on the table. Later, it's up to Alice to pick one of the pieces and break it, eating the isolated squares, and so on. The player who eats the most of the table wins (in the event of a tie, the game is declared zero).
+> 
+> What size of board should Alice choose if she wants to be sure of winning, playing her best, knowing that a board has at least two squares and that each of its two sizes is up to ten squares?
+
+**Answer:** 1:2 ; 1:5 ; 1:7 ; 1:9 ; 3:3 ; 3:5 ; 3:7 ; 5:5 ; 5:7 ; 7:7 (10 soluzioni)
+[[src_bocconi_finaleint_2007_g2__Q16]]

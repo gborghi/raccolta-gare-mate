@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Semifinale individuale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet_semifinale__Q11
 parent: src_kangourou_2023_cadet_semifinale
 competition: Kangourou 2023 Cadet — Semifinale individuale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *peso Maurizio*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1M9sXIkUDY4rP1rr4DHPF0VSPHt_-LbxS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>weight Mauritius< MSK1/>
+
+> Maurizio and Carlo each have a box of balls. Each ball weighs a whole number of grams; in each of the boxes, the balls all have the same weight, but those in Maurizio's box are lighter than those in Charles' box. Multiplying the weight of a Maurizio's ball by that of a Carlo's ball gets 81; adding up the weights of all the balls gets 1001. How many grams each of Maurizio's balls weighs?
+
+[[src_kangourou_2023_cadet_semifinale__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q02
 parent: src_cesenatico_2006_squadre_finale
 competition: Gara a Squadre Cesenatico 2006 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di relazioni alleate/nemiche tra cinque case*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0052
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode of allied/enemy relations between five households*
+
+> Before she begins to color, the conscientious Hermit realizes that the yellow is almost gone, and the three are then forced to use it for one of the square faces. How many different ways are there left to color the prism? Write the answer (1) in the first two digits and the answer (2) in the last two.
+
+**Answer:** 0052
+[[src_cesenatico_2006_squadre_finale__Q02]]

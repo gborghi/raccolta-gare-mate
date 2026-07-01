@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior (18 marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior__Q22
 parent: src_kangourou_2004_junior
 competition: Kangourou 2004 Junior (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del rombo da rettangolo piegato*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Folded rectangular rim area*
+
+![[src_kangourou_2004_junior__prob22.png]]
+
+> The KLMN rim in the figure is obtained by folding two opposite vertices of an appropriate rectangle to match the midpoint of the diagonal. The shortest side of the rectangle measures . What's the size of the rim? A) 3             B)               C) 2           D) 4           E)3
+
+**Answer:** C
+[[src_kangourou_2004_junior__Q22]]

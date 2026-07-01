@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q17
 parent: src_kangourou_2019_junior_marzo
 competition: Kangourou 2019 Gara marzo Junior (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore A+B con somma cifre di AAABBBB uguale ad AB*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A+B value with sum of AAABBBB digits equal to AB*
+
+> A and B are two digits and adding the seven digits of the AAABBBB sequence gives the number of two digits AB. How much is A + B ? A) 8
+> 	
+> B) 9
+> 	
+> C) 10
+> 	
+> D) 11
+>  	
+> E) 12
+
+**Answer:** C
+[[src_kangourou_2019_junior_marzo__Q17]]

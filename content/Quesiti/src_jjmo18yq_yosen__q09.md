@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo18yq_yosen__Q09
 parent: src_jjmo18yq_yosen
 competition: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count tilings of hexagon divided into half-triangles satisfying two conditions on good points*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 22
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio di piastrelle esagoniche suddivise in semi-triangoli che soddisfano due condizioni in punti buoni*
+
+> Un esagono regolare con lunghezza laterale $1$ è diviso in triangoli equilaterali di lunghezza laterale $\tfrac{1}{2}$. I punti $10$ segnati nella figura sono chiamati punti buoni. Ci sono piastrelle $12$ ciascuna con forma di triangolo obtuso (occupando una piccola cella triangolare), che insieme coprono l'esagono senza lacune o sovrapposizioni. Tra tutte queste piastrelle si contano quelle che soddisfano entrambe le seguenti condizioni: (i) almeno una piastrella ha un buon punto in uno dei suoi vertici acuti. (ii) Esattamente una coppia di piastrelle adiacenti insieme forma un triangolo equilaterale di lato $\tfrac{1}{2}$ (cioè, esattamente $2$ piastrelle condividono il bordo più lungo). Le piastrelle possono essere ruotate o volte; le piastrelle che differiscono per rotazione o riflessione dell'intero esagono sono considerate distinte.
+
+![[src_jjmo18yq_yosen__Q09.png]]
+
+**Risposta:** 22
+[[src_jjmo18yq_yosen__Q09]]

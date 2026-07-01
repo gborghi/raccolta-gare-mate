@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Biennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_biennio__Q08
 parent: src_archimede_2017_biennio
 competition: Giochi di Archimede 2017 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (a,b) con MCD 2 e mcm 60*
 
@@ -44,3 +47,20 @@ tags:
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/112mFupkYpsCYPbpzDQ0mOl_VW0wTFJK_/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1WbKYlCGmnvn3EnNy8PHpDbjgy_2zTYne/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Pairs (a,b) with MCD 2 and mcm 60< MSK1/>
+
+> How many pairs of positive integers (a, b), with a < b, such that MCD(a, b) = 2 and mcm(a, b) = 60?
+>
+> - **(A)** 0
+> - **(B)** 4
+> - **(C)** 3
+> - **(D)** 2
+> - **(E)** 6
+
+**Answer:** B
+[[src_archimede_2017_biennio__Q08]]

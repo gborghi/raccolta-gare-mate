@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q24
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della regione ombreggiata (quadrato 10cm)*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the shaded region (10 cm2) *
+
+![[src_kangourou_2009_benjamin_marzo__prob24.png]]
+
+> Look at the figure. ABCD is a square whose side measures 10 cm; the distance between N and M points is 6 cm. Each of the unshaded regions is an isosceles rectangle triangle or a square. The four triangles are equal to each other and so are the four squares. How much is the area of the shaded region in square centimetres? A) 42 B) 46 C) 48 D) 52 E) 58
+
+**Answer:** C
+[[src_kangourou_2009_benjamin_marzo__Q24]]

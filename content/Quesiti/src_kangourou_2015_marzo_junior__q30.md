@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Junior — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q30
 parent: src_kangourou_2015_marzo_junior
 competition: Kangourou 2015 gara 19 marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti punti*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lv8vPzK3uXmG94tNsM2uWmmnksIo2fLI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many points < MSK1/>
+
+> On a line are marked points, all different from each other: A and B are two of them. Counting all the segments that have as their extremes two of the points marked different from A and that contain A, you get 80. Counting all the segments that have as extremes two of the points marked different from B and that contain B, you get 90. How many dots are marked on the rectum? A) 20
+> 	
+> B) 22
+> 	
+> C) 80
+> 	
+> D) 90 E) Information is insufficient to answer
+> 
+> I'm not sure I'm going to make it.
+
+**Answer:** B
+[[src_kangourou_2015_marzo_junior__Q30]]

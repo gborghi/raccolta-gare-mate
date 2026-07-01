@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre_f2__Q06
 parent: src_kangourou_2023_ecolier_squadre_f2
 competition: Kangourou Squadre 2023 Ecolier Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti non toccati dal trapano in cubo 4x4x4*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0044
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Untouched cubes from the 4x4x4 cube drill< MSK1/>
+
+![[src_kangourou_2023_ecolier_squadre_f2__prob6.png]]
+
+> The pierced cube Luigi obtained a cube by approaching 4 × 4 × 4 identical cubes. He then mounted a section tip smaller than the face of each of the cubes on a drill bit and drilled the cube side by side six times, each time parallel to a shaft: black dots indicate the entry points of the drill bit. How many cubes haven't been touched by the tip of the drill?
+
+**Answer:** 0044
+[[src_kangourou_2023_ecolier_squadre_f2__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q10
 parent: src_kangourou_2015_marzo_benjamin
 competition: Kangourou 2015 gara 19 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *di quanto sovrapporre*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AiqamuCK6oQtEOLFArlQVHEyWohLlfzH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> of what is overlapping < MSK1/>
+
+![[src_kangourou_2015_marzo_benjamin__prob10.png]]
+
+> Sara has four strips of paper all the same length. He glues two of them together so that they overlap by 10 cm and gets a single strip 50 cm long. Now he wants to paste the other two together so that they form a 56 cm long strip. How many centimeters does he have to overlay them? A) 4 cm B) 6 cm C) 7 cm D) 10 cm E) 12 cm 10 cm 10 cm 50 cm
+> 
+> The questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** A
+[[src_kangourou_2015_marzo_benjamin__Q10]]

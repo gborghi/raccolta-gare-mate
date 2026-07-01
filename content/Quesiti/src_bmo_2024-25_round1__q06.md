@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2024-25 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2024-25_round1__Q06
 parent: src_bmo_2024-25_round1
 competition: British Mathematical Olympiad 2024-25 — Round 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *4x4x4 cube of 3-flavour sugar cubes; find 12 same-flavour in 9 equal-distance pairs*
 
@@ -46,3 +49,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zc71QU7y2yEdLL5Hv10dv-SMgCrj9jY8/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>4x4x4 cubo di zuccheri a 3 sapori; trovare 12 sapori identici in 9 coppie di distanza uguale< MSK1/>
+
+> Bjork ha cubetti di zucchero < MSK0/>, ciascuno di dimensioni < MSK1/>. Ogni cubo di zucchero ha un sapore bianco, demeraro o muscovado. Ha accumulato i cubetti di zucchero in un cubo $4 \times 4 \times 4$. Dovere che tra i cubetti i cui centri si trovano su una sottolattice allineata all'asse $1 \times 1 \times 1$ devono esistere cubetti di zucchero $12$ dello stesso sapore, che possono essere suddivisi in coppie disgiunte $9$ in modo che i cubetti di ciascuna coppia siano dello stesso colore.
+
+[[src_bmo_2024-25_round1__Q06]]

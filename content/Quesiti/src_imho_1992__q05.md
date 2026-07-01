@@ -1,6 +1,7 @@
 ---
 title: IMO 1992 (XXXIII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1992__Q05
 parent: src_imho_1992
 competition: IMO 1992 (XXXIII International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Orthogonal projections of a finite set onto coordinate planes*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Orthogonal projections of a finite set on coordinate planes*
+
+> Let $S$ be a finite set of points in three-dimensional space. Let $S_x$, $S_y$, $S_z$ be the sets consisting of the orthogonal projections of the points of $S$ onto the $yz$-plane, $zx$-plane, $xy$-plane, respectively. Prove that $$|S|^2 \leq |S_x| \cdot |S_y| \cdot |S_z|,$$ where $|A|$ denotes the number of elements in the finite set $|A|$. (Note: The orthogonal projection of a point onto a plane is the foot of the perpendicular from that point to the plane.)
+
+[[src_imho_1992__Q05]]

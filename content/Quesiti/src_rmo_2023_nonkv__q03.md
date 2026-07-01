@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2023 — Non-KV — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2023_nonkv__Q03
 parent: src_rmo_2023_nonkv
 competition: Regional Mathematical Olympiad 2023
@@ -35,6 +36,8 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find natural numbers m and n with digit-sum conditions in base 10*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o7iLlUQAhl19zj3fiRO4A18L1eOLmVoI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i numeri naturali m e n con condizioni di somma digitali nella base 10*
+
+> Per qualsiasi numero naturale $n$, scritto nella base 10, $s(n)$ indichi la somma di tutte le sue cifre. Trova tutti i numeri naturali $m$ e $n$ in modo tale che $m < n$ e $$(s(n))^2 = m \quad \text{and} \quad (s(m))^2 = n.$$
+
+[[src_rmo_2023_nonkv__Q03]]

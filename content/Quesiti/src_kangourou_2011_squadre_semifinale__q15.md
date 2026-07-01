@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre semifinale turno A — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q15
 parent: src_kangourou_2011_squadre_semifinale
 competition: Kangourou 2011 squadre semifinale turno A
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero libri di Elisabetta (romanzo,poesia,scienza)*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of books by Elizabeth (novel, poetry, science) *
+
+> Elisabeth's books She likes to read, so on her birthday she was given books. The genres of books she received were: novel, poetry, science. Three of the books are not novels, four are not books of poetry, five are not science books. How many books did Elizabeth receive as a gift?
+> 
+>  
+> Kangourou of Mathematics 2011 Kangourou Team Cup Semifinal round at Cervia, 7 May 2011
+>                            
+>                        
+> Questions and solutions
+
+**Answer:** 6
+[[src_kangourou_2011_squadre_semifinale__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_triennio_online__Q01
 parent: src_archimede_2021_triennio_online
 competition: Giochi di Archimede 2021 - Gara Triennio (online)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale prodotto di potenze e un quadrato perfetto*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mirXxT9-Hv1KYgVTqPSQsnkdU7SPLtJP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What a power product and a perfect square*
+
+> Which of the following is the square of an integer?
+>
+> - **(A)** 336 · 779 · 2116
+> - **(B)** 338 · 779 · 217
+> - **(C)** 339 · 7713 · 2113
+> - **(D)** 3316 · 779 · 214
+> - **(E)** 3312 · 7716 · 219
+
+**Answer:** C
+[[src_archimede_2021_triennio_online__Q01]]

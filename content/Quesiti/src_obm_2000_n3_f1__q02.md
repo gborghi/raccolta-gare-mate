@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q02
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle of square built outside a regular pentagon*
 
@@ -49,3 +52,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo di quadrato costruito al di fuori di un pentagono regolare*
+
+> $DEFG$ è un quadrato costruito all'esterno del pentagono regolare $ABCDE$. Qual è l'angolo $E\widehat{A}F$?
+>
+> - **(A)** $9^\circ$
+> - **(B)** $12^\circ$
+> - **(C)** $15^\circ$
+> - **(D)** $18^\circ$
+> - **(E)** $21^\circ$
+
+**Risposta:** C
+[[src_obm_2000_n3_f1__Q02]]

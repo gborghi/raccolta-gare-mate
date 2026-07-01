@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_riserva_biennio__Q07
 parent: src_archimede_2020_riserva_biennio
 competition: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area quadrilatero EMDN da trisezione e punti medi*
 
@@ -44,3 +47,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1FHovVvjzoFx5DPSwVsD8IjrWzxEYNRZ6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Trilateral area of EMDN trisection and midpoints*
+
+> The area of an ABC triangle is 648 m2. Taking an F-point on the AB side, whether D or E she points divide the CF segment into three equal parts CD = DE = EF. If M and N are the midpoints of the AC and BC sides, how many m2 does the area of the EMDN quadrilateral measure?
+>
+> - **(A)** the data provided are insufficient
+> - **(B)** 162
+> - **(C)** 96
+> - **(D)** 108
+> - **(E)** 72
+
+[[src_archimede_2020_riserva_biennio__Q07]]

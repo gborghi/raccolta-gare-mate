@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2003 - Biennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_biennio__Q12
 parent: src_archimede_2003_biennio
 competition: Giochi di Archimede 2003 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Riempire celle e scommi su una scacchiera, conteggio*
 
@@ -45,3 +48,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Filling cells and bets on a chessboard, count*
+
+> Four guys want to call their girls at the same time. Each cell phone can operate on four different frequencies. If two cell phones are activated at the same frequency, the communication falls. If each boy doesn't know what frequency the other three choose, what are the odds that all four will be able to talk to their girls?
+>
+> - **(A)** 3 32
+> - **(B)** 3 64
+> - **(C)** 1 256
+> - **(D)** 1 16
+> - **(E)** 9 128.
+
+[[src_archimede_2003_biennio__Q12]]

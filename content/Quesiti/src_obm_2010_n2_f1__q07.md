@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q07
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Corner of conventional checkerboard with 17 white squares; find area*
 
@@ -55,3 +58,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo di scacchiatura convenzionale con 17 quadrati bianchi; area di ricerca*
+
+> Il disegno rappresenta un angolo di una tabella rettangolare convenzionale, formata da piccoli quadrati laterali < MSK0/> cm. In questa lavagna, $17$ piccoli quadrati sono bianchi. Qual è l'area della lavagna, in centimetri quadrati?
+>
+> - **(A)** $29$
+> - **(B)** $34$
+> - **(C)** $35$
+> - **(D)** $40$
+> - **(E)** $150$
+
+![[src_obm_2010_n2_f1__Q07.png]]
+
+**Risposta:** C
+[[src_obm_2010_n2_f1__Q07]]

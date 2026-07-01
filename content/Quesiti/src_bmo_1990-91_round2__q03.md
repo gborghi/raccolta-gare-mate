@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1990-91 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1990-91_round2__Q03
 parent: src_bmo_1990-91_round2
 competition: British Mathematical Olympiad 1990-91 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle perimeter 2 implies a²+b²+c²+2abc < 2*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19rA2wLIhPP8-xZr1hcnmK6fsW1-NB1i1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Perimetro del triangolo 2 implica a2+b2+c2+2abc < 2*
+
+> Prova che se il perimetro di un triangolo con lati $a$, $b$, $c$ è $2$, allora $$a^2 + b^2 + c^2 + 2abc < 2.$$
+
+[[src_bmo_1990-91_round2__Q03]]

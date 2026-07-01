@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2009 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2009__Q11
 parent: src_bocconi_autunno_2009
 competition: Giochi d'Autunno 2009
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dividere una figura in due parti sovrapponibili*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (vedi figura soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Separate a figure into two overlapping parts*
+
+> Divide the figure into two overlapping parts (perhaps by some rotation and some flipping).
+
+![[src_bocconi_autunno_2009__Q11.png]]
+
+**Answer:** (vedi figura soluzione)
+[[src_bocconi_autunno_2009__Q11]]

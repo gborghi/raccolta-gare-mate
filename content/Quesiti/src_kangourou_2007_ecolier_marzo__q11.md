@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Ecolier (marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q11
 parent: src_kangourou_2007_ecolier_marzo
 competition: Kangourou 2007 Ecolier (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero totale dei rettangoli in figura*
 
@@ -73,3 +76,29 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total number of rectangles in figure *
+
+![[src_kangourou_2007_ecolier_marzo__prob11.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw[thick] (0,0) rectangle (4,5);
+  \draw[thick] (1,0) -- (1,5);
+  \draw[thick] (2,0) -- (2,5);
+  \draw[thick] (3,0) -- (3,5);
+\end{tikzpicture}
+\end{document}
+```
+
+> What is the total number of rectangles that you see in the figure? A) 5 B) 12 C) 7 D) 10 E) None of the above - 2 : 3 + 4 5 ? A) 1 B) 3 C) 7 D) 9 E) a number different from the previous Text_07.qxp 16-04-2007 12:02 Page 6
+> 
+> I'm going to pay. I'm going to pay. 7 Kang 2007 Kang 2007
+
+**Answer:** D
+[[src_kangourou_2007_ecolier_marzo__Q11]]

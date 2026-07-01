@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_pubblico__Q05
 parent: src_archimede_2001_pubblico
 competition: Archimede 2001 - Gara del Pubblico (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *cruciverba di numeri primi e prodotti*
 
@@ -68,3 +71,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2100
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*crossword of prime numbers and products*
+
+![[src_archimede_2001_pubblico__prob5.png]]
+
+> One of the most controversial measures of the Senate this month is a law banning the publication of crosswords. Some student associations have launched the monthly "Contestation" cross-number to protest. Complete the following cross-section:
+> 
+> $$\begin{array}{|c|c|c|c|} \hline \mathbf{1} & & \mathbf{2} & \\ \hline & & & \\ \hline \mathbf{3} & & & \\ \hline \mathbf{4} & & & \\ \hline \end{array}$$
+> 
+> **Horizontal: ** - (1) The exact answer to this game. - (2) It is a prime number, equal to the product of more consecutive prime numbers less < MSK0/> (e.g. < MSK1/>, even if this is not a prime number). - (3) Product of three consecutive numbers (e.g. < MSK2/>). - (4) It is a product of two primes.
+> 
+> **Vertical: ** - (1) Sum of cubes of two prime numbers. - (2) Palindrome number of < MSK0/> prime power digits (a palindrome number is a number that does not change if read from right to left). - (3) It is a prime number. - (4) < MSK1/> vertical to square.
+> 
+> (NB: The answer to any of the definitions can also be less than $1000$. If one of the answers should be, for example, $13$ in the table, enter $0013$.)
+
+**Answer:** 2100
+[[src_archimede_2001_pubblico__Q05]]

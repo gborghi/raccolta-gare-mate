@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 1) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g1__Q13
 parent: src_bocconi_finaleint_2009_g1
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area di un triangolo nota dalle due condizioni di copertura reciproca con un quadrato di lato 4 cm.*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 18 cm$^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of a triangle known by two conditions of reciprocal coverage with a side square of 4 cm.*
+
+> 13 - DOUBLE COVER (coefficient 13) By placing a square of 4 cm on a triangle, up to two thirds of the triangle surface can be covered. By placing the triangle on the square, you can cover up to three quarters of the square's surface. What is the area of the triangle, in cm$^2$?
+
+**Answer:** 18 cm$^2$
+[[src_bocconi_finaleint_2009_g1__Q13]]

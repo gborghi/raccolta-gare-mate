@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q17
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of squares needed to balance the last scale*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di quadrati necessari per bilanciare l'ultima scala*
+
+> Figure della stessa forma rappresentano oggetti della stessa massa. Quanti quadrati sono necessari per bilanciare l'ultima scala?
+> 
+> A) $7$ \quad B) $8$ \quad C) $9$ \quad D) $10$ \quad E) $12$
+
+![[src_obm_2005_n1_f1__Q17.png]]
+
+**Risposta:** C
+[[src_obm_2005_n1_f1__Q17]]

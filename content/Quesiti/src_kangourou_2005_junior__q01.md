@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q01
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Studenti totali con Elena 50ma da entrambi i lati*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Total students with Elena 50ma from both sides
+
+> At Kangourou 2004, Elena in her school placed 50th. His place is 50th even from the bottom of the standings. How many students from that school took part in the competition? A) 99 B) 75 C) 103 D) 100 E) 101
+
+**Answer:** A
+[[src_kangourou_2005_junior__Q01]]

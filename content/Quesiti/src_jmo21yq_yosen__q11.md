@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo21yq_yosen__Q11
 parent: src_jmo21yq_yosen
 competition: Japan Mathematical Olympiad 2011 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *OM:ON for a tangential quadrilateral with incenter O*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*OM:ON per un quadrilaterale tangenziale con incentro O*
+
+> Il quadrilaterale $ABCD$ è circoscritto intorno a un cerchio centrato a $O$ (il cerchio è tangente a tutti e quattro i lati), con $OA = 5$, $OB = 6$, $OC = 7$, $OD = 8$. Il segmento $M$ deve essere il punto medio del segmento $AC$ e il segmento $N$ deve essere il punto medio del segmento $BD$. Trova < MSK10/>. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+[[src_jmo21yq_yosen__Q11]]

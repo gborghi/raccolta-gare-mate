@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f2__Q01
 parent: src_obm_2009_n3_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *CRT table: sum of highlighted cells (mod 3 × mod 7)*
 
@@ -55,3 +58,21 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rfN7WR1PZ66ueGRXD4K4BGaqDvl8IrBK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK1/>tabella CRT: somma delle celle evidenziate (mod 3 < MSK0/> mod 7) < MSK2/>
+
+> Lasciate che $m$ e $n$ siano due integri positivi che sono coprimi. Il teorema del rimanente cinese afferma che, per qualsiasi numero intero $i$ e $j$ con $0 \le i < m$ e $0 \le j < n$, esiste esattamente un numero intero $a$ con $0 \le a < mn$ in modo tale che il resto della divisione di $a$ da $m$ è uguale a $i$ e il resto della divisione di $a$ da $n$ è uguale a $j$. Per esempio, per $m = 3$ e $n = 7$, il numero $19$ è il numero intero unico in $\{0, 1, \ldots, 20\}$ che lascia i rimanenti $1$ e $5$ quando diviso rispettivamente da $3$ e $7$.
+> 
+> Nella tabella seguente (linee = rest mod $3$, colonne = rest mod $7$), ogni numero intero da $0$ a $20$ appare esattamente una volta:
+> 
+> $$\begin{array}{c|ccccccc} \text{Res mod 3} \backslash \text{Res mod 7} & 0 & 1 & 2 & 3 & 4 & 5 & 6 \\ \hline 0 & 0 & 15 & 9 & 3 & 18 & 12 & 6 \\ 1 & 7 & 1 & 16 & 10 & 4 & 19 & 13 \\ 2 & 14 & 8 & 2 & 17 & 11 & 5 & 20 \end{array}$$
+> 
+> Alcune celle della tabella sono evidenziate (ombrate). Qual è la somma dei numeri evidenziati?
+
+![[src_obm_2009_n3_f2__Q01.png]]
+
+[[src_obm_2009_n3_f2__Q01]]

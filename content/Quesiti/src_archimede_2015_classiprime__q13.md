@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2015 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_classiprime__Q13
 parent: src_archimede_2015_classiprime
 competition: Gara Nazionale Classi Prime 2015
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *cubo di cubetti suddiviso in cubi uguali*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*cube of cubes divided into equal cubes*
+
+> In a nursery school on Kenoncè Island, 23 children are enrolled, all in the same classroom. One day, Luca, to pass the time, builds a big cube using exactly all the wooden cubes in school. Then the teacher, in order to make her companions play the same game, divides the entire cubes into equal parts among all the children (including Luke) and orders each of them to build a cube using exactly all the cubes they have received. Knowing that the children are able to complete the assignment, counting the number of absentees that day. A 15 B 7 C 10 D 3 E 9 F the data provided are insufficient
+
+**Answer:** A
+[[src_archimede_2015_classiprime__Q13]]

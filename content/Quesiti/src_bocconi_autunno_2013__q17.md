@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2013 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2013__Q17
 parent: src_bocconi_autunno_2013
 competition: Giochi d'Autunno 2013
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Il 2014-esimo numero di sette cifre con cifre 0-6 ciascuna una volta.*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3546120
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The 2014th seven-digit number with digits 0-6 each once.*
+
+> Increasingly order all seven-digit numbers using one and only one of the $0, 1, 2, 3, 4, 5, 6$ digits (no number starts with 0).
+> 
+> What number will be the 2014th?
+
+**Answer:** 3546120
+[[src_bocconi_autunno_2013__Q17]]

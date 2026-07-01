@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo30yq_yosen__Q02
 parent: src_jmo30yq_yosen
 competition: Japan Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular hexagon, equilateral triangle CGH inside, find area of triangle EFH*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{\sqrt{3}}{8}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esagono regolare, triangolo equilaterale CGH all'interno, area del triangolo EFH*
+
+> Un esagono regolare $ABCDEF$ ha una lunghezza laterale $1$. Il punto medio del lato $AB$ è $G$. Un punto $H$ è preso all'interno dell'esagono in modo che il triangolo $CGH$ sia equilaterale. Trova l'area del triangolo $EFH$.
+
+![[src_jmo30yq_yosen__Q02.png]]
+
+**Risposta:** \frac{\sqrt{3}}{8}
+[[src_jmo30yq_yosen__Q02]]

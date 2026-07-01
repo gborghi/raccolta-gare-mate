@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1998 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_2livello__Q10
 parent: src_archimede_1998_2livello
 competition: Archimede Gara 2º livello 1998
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo dei simmetrici rispetto all'area di ABC*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the triangle of the symmetries with respect to the area of ABC*
+
+> Given a $ABC$ triangle, be $A'$ the symmetric of $A$ with respect to $BC$, $B'$ the symmetric of $B$ with respect to $CA$, $C'$ the symmetric of $C$ with respect to $AB$. What is the area of $A'B'C'$?
+>
+> - **(A)** 3 times the area of $ABC$
+> - **(B)** 4 times the area of $ABC$
+> - **(C)** 5 times the area of $ABC$
+> - **(D)** 6 times the area of $ABC$
+> - **(E)** 7 times the area of < MSK0/>.
+
+**Answer:** E
+[[src_archimede_1998_2livello__Q10]]

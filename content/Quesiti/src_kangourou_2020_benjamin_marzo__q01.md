@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q01
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo confezioni di uova per 24 muffin*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum packaging of eggs for 24 muffins< MSK1/>
+
+> Michele wants to make 24 muffins for his birthday party. Two eggs are needed to make six muffins. The eggs are sold in packs of six. What's the minimum number of egg packs that Michael can buy? A) 1 B) 2 C) 3
+> 	
+> D) 4 E) 8
+
+**Answer:** B
+[[src_kangourou_2020_benjamin_marzo__Q01]]

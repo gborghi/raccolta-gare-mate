@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo17yq_yosen__Q12
 parent: src_jmo17yq_yosen
 competition: Japan Mathematical Olympiad 2007 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum guaranteed honest-candidate votes in a village with liars using one instruction*
 
@@ -52,3 +55,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Massimi voti garantiti da candidati onesti in un villaggio con bugiardi che utilizzano una sola istruzione*
+
+> Un villaggio ha < MSK0/> persone. Un dio (神) vuole determinare il nome di un candidato facendo un sondaggio ai villaggi. Ogni abitante del villaggio può scrivere lettere: in ogni lettera, un abitante del villaggio scrive un nome candidato e lo invia al dio. Le lettere vengono raccolte ogni sera e consegnate la mattina dopo. Ogni abitante del villaggio è o una persona onesta, o un bugiardo. Dio conosce il numero totale di persone oneste e di bugiardi, ma non quali singole persone siano oneste. È noto che almeno le persone < MSK1/> sono oneste. Potete, in un giorno particolare, dare un'unica istruzione a tutti i villaggi. Le persone oneste seguiranno le tue istruzioni; i bugiardi possono fare qualsiasi cosa. Trova il valore massimo di $k$ in modo da poter garantire quanto segue: se dai le istruzioni appropriate, e esiste un nome candidato che ogni persona onesta invierebbe indipendentemente al dio, allora almeno $k$ persone oneste inviano tutti lo stesso nome candidato al dio.
+> 
+> Più precisamente, le due regole sono: alla fine del processo, ogni persona onesta invia al dio una lettera, e tutte le persone oneste inviano lo stesso candidato. Se tutte le persone oneste, dopo aver calcolato in modo indipendente, concordano sullo stesso nome del candidato, allora questo è il nome che ogni persona onesta invia al dio. \end{itemize} Trova il valore massimo di $k$.
+
+[[src_jmo17yq_yosen__Q12]]

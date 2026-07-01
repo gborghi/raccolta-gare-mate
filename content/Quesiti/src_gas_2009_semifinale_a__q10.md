@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale A — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_a__Q10
 parent: src_gas_2009_semifinale_a
 competition: Gara a Squadre 2009 - Semifinale A
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tentativi massimi combinazione 6 cifre 1-5 senza singole*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1405
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Wx24coOZuHD5lnXnMkNRwAuUmiEDrRDK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum combined attempts of 6 digits 1-5 without singles*
+
+> The fate of the free peoples of Middle-earth rests on the shoulders of a young gobbit. Frobino Massim-Mattlinks, called Frobbo, is the bearer of the ring of power. To protect him, Frobbo put him in a closed box with a combination. While Frobbo and his friend Sam are sleeping, the evil G'dellum tries to take over. Knowing that the combination is made up of 6 digits, each between 1 and 5, and that no number appears once, how many attempts will you have to make to get it back? . . What, honey?
+
+**Answer:** 1405
+[[src_gas_2009_semifinale_a__Q10]]

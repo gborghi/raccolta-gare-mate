@@ -1,6 +1,7 @@
 ---
 title: IMO 1986 (XXVII International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1986__Q01
 parent: src_imho_1986
 competition: IMO 1986 (XXVII International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Show ab-1 not a perfect square for some pair in set*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Q7vmoRjHZBnLVOcJfGhRBYvwVepRUaQE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Show ab-1 not a perfect square for some pair in set
+
+> Let $d$ be any positive integer not equal to $2$, $5$, or $13$. Show that one can find distinct $a$, $b$ in the set $\{2, 5, 13, d\}$ such that $ab - 1$ is not a perfect square.
+
+[[src_imho_1986__Q01]]

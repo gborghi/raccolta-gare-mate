@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2014-15 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2014-15_round1__Q05
 parent: src_bmo_2014-15_round1
 competition: British Mathematical Olympiad 2014-15 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral ABCD; prove PQ parallel to AB*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrilaterale ciclico; dimostrare PQ parallelo ad AB*
+
+> Che il $ABCD$ sia un quadrilaterale ciclico. Il $F$ deve essere il punto medio dell'arco $AB$ del suo circoncircolo che non contiene $C$ o $D$. Lasciate che le linee $DF$ e $AC$ si incontrino a $P$ e le linee $CF$ e $BD$ si incontrino a $Q$. Prove che le linee $PQ$ e $AB$ sono parallele.
+
+[[src_bmo_2014-15_round1__Q05]]

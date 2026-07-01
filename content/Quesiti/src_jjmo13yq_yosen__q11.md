@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo13yq_yosen__Q11
 parent: src_jjmo13yq_yosen
 competition: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five points, four collinear, with given distances and equal angles; find BC/AD*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{38}{105}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cinque punti, quattro collineari, con distanze indicate e angoli uguali; trovare BC/AD*
+
+> In un piano ci sono $5$ punti $A, B, C, D, O$. Tra questi, $A, B, C, D$ si trova in questo ordine sulla stessa linea retta, mentre $O$ non è in quella linea. Si ritiene che $OA = 16$, $OB = 10$, $OC = 9$, $OD = 12$ e $\angle AOB = \angle COD$. Trova il valore di $\dfrac{BC}{AD}$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Risposta:** \frac{38}{105}
+[[src_jjmo13yq_yosen__Q11]]

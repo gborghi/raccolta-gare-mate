@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q11
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato somma alternata dispari da 99 a 11*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Outcome of odd alternate sum from 99 to 11< MSK1/>
+
+> 99  97 + 95  93 + ... + 15  13 + 11: what is the result of this expression where I wrote, alternating the characters, all odd numbers from 99 to 11? A) 59
+> 	
+> B) 55
+> 	
+> C) 51
+> 	
+> D) 47
+> 	
+> E) 45
+
+**Answer:** B
+[[src_kangourou_2017_cadet_marzo__Q11]]

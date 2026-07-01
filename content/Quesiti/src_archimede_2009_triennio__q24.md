@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Triennio — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_triennio__Q24
 parent: src_archimede_2009_triennio
 competition: Giochi di Archimede 2009 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorsi hamiltoniani formica sugli spigoli del cubo*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Anthony hamiltonian paths on the cube shafts< MSK1/>
+
+> An ant is on top of a cube. It moves along the tips of the cube so that it passes once and only once from each vertex of the cube. How many distinct paths can he take?
+>
+> - **(A)** 10,
+> - **(B)** 18,
+> - **(C)** 22,
+> - **(D)** 26,
+> - **(E)** 30.
+
+**Answer:** B
+[[src_archimede_2009_triennio__Q24]]

@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2012 — Quesito
   17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2012__Q17
 parent: src_bocconi_finalenaz_2012
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2012
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare a, b, c con somma minima e quadrati perfetti*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Finding a, b, c with minimum sum and perfect squares*
+
+> Write a natural number (not zero) in each of the white boxes so that their sum is as small as possible. Note, however, to the following rules: the number of the box $b$ must be comprised between that of the box $a$ and that of the box $c$; each coloured box is immediately connected by a circumference with two white boxes to which it is immediately connected and this sum must be a perfect square.
+
+![[src_bocconi_finalenaz_2012__Q17.png]]
+
+**Answer:** a=6, b=19, c=30
+[[src_bocconi_finalenaz_2012__Q17]]

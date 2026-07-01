@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2019 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2019__Q05
 parent: src_rmo_2019
 competition: Regional Mathematical Olympiad 2019
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show segment joining midpoints of EF, related feet on DF gives XM perpendicular to MY.*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gH34ilbEvo69eusEOFKpyZYPt0gnWDcP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il segmento di visualizzazione che unisce i punti medi di EF, i piedi correlati sul DF dà XM perpendicolare a MY.*
+
+> In un triangolo angolato acuto $ABC$, $H$ deve essere il centro ortografico, e $D$, $E$, $F$ devono essere i piedi delle altitudini da $A$, $B$, $C$ ai lati opposti, rispettivamente. I segmenti $L$, $M$, $N$ siano rispettivamente i punti di mezzo $AH$, $EF$ e $BC$. Le altitudini $X$, $Y$ devono essere piedi di altitudine da $L$, $N$ alla linea $DF$. Prove che $XM$ è perpendicolare a $MY$.
+
+[[src_rmo_2019__Q05]]

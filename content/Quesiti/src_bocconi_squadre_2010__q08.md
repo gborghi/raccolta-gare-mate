@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q08
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di travasi per ottenere 4 litri di vino*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of bars to produce 4 litres of wine*
+
+> Matteo has a small bottle of wine, full, eight liters and two empty bottles of five and three liters, respectively. Amerigo is not insensitive to the pleasure of drinking and asks his friend for four liters of wine.
+> 
+> What is the minimum number of trays needed to produce this amount of wine?
+
+**Answer:** 6
+[[src_bocconi_squadre_2010__Q08]]

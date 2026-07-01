@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2020 - 2° livello — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_2livello__Q03
 parent: src_archimede_2020_2livello
 competition: Archimede Gara di Febbraio 2020 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quattro età primi con somma 240, la più giovane*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Four first years with a total of 240, the youngest < MSK1/>
+
+> Anna, Bianca, Carla, and Diana are four women of different ages. Their ages are prime numbers whose sum is 240. Knowing that none of them are over 70, what is the age of the youngest?
+>
+> - **(A)** 47
+> - **(B)** 53
+> - **(C)** 57
+> - **(D)** 61
+> - **(E)** 67
+
+**Answer:** B
+[[src_archimede_2020_2livello__Q03]]

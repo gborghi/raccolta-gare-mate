@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2009 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2009_printemps__Q06
 parent: src_canimath_2009_printemps
 competition: Coupe Animath Printemps 2009
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove chain of inequalities among four classical means of two positive reals*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove catena di disuguaglianze tra quattro mezzi classici di due valori positivi *
+
+> $x$ e $y$ siano numeri reali rigorosamente positivi con $0 < x < y$. Definire: $$H = \frac{2xy}{x+y}, \quad G = \sqrt{xy}, \quad A = \frac{x+y}{2}, \quad Q = \sqrt{\frac{x^2+y^2}{2}}.$$ Prove che: a) $0 < G - H$ b) $Q \ge G < 2A$ (cioè\ $G \le Q$ e $G < 2A$) c) $G - H < Q - A$
+> 
+> (In sintesi: < MSK0/>.)
+
+[[src_canimath_2009_printemps__Q06]]

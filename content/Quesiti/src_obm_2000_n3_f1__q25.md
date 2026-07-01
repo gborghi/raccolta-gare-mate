@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q25
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count three-digit numbers with one digit equal to mean of the other two*
 
@@ -57,3 +60,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare numeri a tre cifre con una cifra uguale alla media delle altre due*
+
+> Quanti numeri a tre cifre (che non iniziano con 0) hanno una cifra uguale alla media aritmetica degli altri due?
+>
+> - **(A)** 121
+> - **(B)** 117
+> - **(C)** 112
+> - **(D)** 115
+> - **(E)** 105
+
+**Risposta:** A
+[[src_obm_2000_n3_f1__Q25]]

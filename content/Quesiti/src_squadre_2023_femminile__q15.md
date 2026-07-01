@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2023 - VI Finale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_femminile__Q15
 parent: src_squadre_2023_femminile
 competition: Gara a Squadre Femminile 2023 - VI Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie ordinate (a,b) in 1-2023 con mcm=7*MCD*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9233
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pairs ordered (a,b) in 1-2023 with mcm=7*MCD*
+
+> A really cute little Kelvin is taking the restrictive beam into the security room, which is a room with mirrored walls. The layout of the room is such an ABCD quadrilateral ! ABC is 90°! CDA = < MSK1/>, BCD = 36°, BC = 2,8m and BD = 1,8m. Kelvin is in the A-top and playing with the restricting beam accidentally shoots by pointing at the BC side, parallel to the floor and the beam, after hitting once the BC wall and once the CD wall, returns to the A-point, closing a triangular path and narrowing the failed Kelvin. What is the total length of the radius in cm?
+
+**Answer:** 9233
+[[src_squadre_2023_femminile__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Region 4 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_r4__Q06
 parent: src_rmo_2012_r4
 competition: Regional Mathematical Olympiad 2012
@@ -34,6 +35,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve the symmetric system 1/(xy)=x/z+1, 1/(yz)=y/x+1, 1/(zx)=z/y+1 for positive reals*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RynHYch6pmp09Vp_PVUFTCMGvoAuqZ22/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi il sistema simmetrico 1/(xy)=x/z+1, 1/(yz)=y/x+1, 1/(zx)=z/y+1 per i reali positivi*
+
+> Risolvere il sistema di equazioni per i numeri reali positivi: $$\frac{1}{xy} = \frac{x}{z} + 1, \quad \frac{1}{yz} = \frac{y}{x} + 1, \quad \frac{1}{zx} = \frac{z}{y} + 1.$$
+
+[[src_rmo_2012_r4__Q06]]

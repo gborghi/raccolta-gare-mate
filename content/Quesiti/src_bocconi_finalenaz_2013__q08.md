@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2013 — Quesito
   8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2013__Q08
 parent: src_bocconi_finalenaz_2013
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2013
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tagli minimi per dividere blocco 21 cubetti*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sizes for dividing block 21 cubes*
+
+> Amerigo wants to divide the block we see in the figure into his 21 cubes (all equal to each other). With how many cuts does he get the minimum, knowing that between one cut and the other he can assemble the pieces he gets as he pleases?
+
+![[src_bocconi_finalenaz_2013__Q08.png]]
+
+**Answer:** 5
+[[src_bocconi_finalenaz_2013__Q08]]

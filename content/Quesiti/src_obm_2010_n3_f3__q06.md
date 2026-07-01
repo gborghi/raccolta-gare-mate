@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f3__Q06
 parent: src_obm_2010_n3_f3
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer pairs (a,b) with 3^a = 2b^2 + 1*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ovDjSumqrFuklc3ULDZ-ZJmM3q6fwQxX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di integri positivi (a,b) con 3^a = 2b^2 + 1*
+
+> Trova tutte le coppie $(a,b)$ di integri positivi tali che $$3^{a}=2b^{2}+1.$$
+
+[[src_obm_2010_n3_f3__Q06]]

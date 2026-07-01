@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q08
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante regioni blu nella colorazione del cerchio*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many blue regions in the colour of the circle< MSK1/>
+
+![[src_kangourou_2020_benjamin_marzo__prob8.png]]
+
+> Ada colors each region into which the circle you see is divided by either red or yellow or blue, so that the regions you touch receive different colors. The outermost region is blue; after the entire drawing has been colored, how many regions are blue? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** B
+[[src_kangourou_2020_benjamin_marzo__Q08]]

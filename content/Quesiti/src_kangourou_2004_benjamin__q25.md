@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q25
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prezzo attuale articolo meno caro (sconti)*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Current price of the item less expensive (discounts) < MSK1/>
+
+> In a store a month ago, two items were priced the same. One of the two subsequently received a 5% discount while the other received a 15% increase. As a result of these changes, the two prices now differ by 6 euros. What is the current price of the cheaper item? A) € 1,5      B) € 6 C) € 28,5    D) € 30      E) € 34,50 7 6
+> 
+> I'm going to pay. I'm going to pay. 15 15 Kang 2004 Kang 2004
+
+**Answer:** C
+[[src_kangourou_2004_benjamin__Q25]]

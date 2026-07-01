@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2023 - Gara Triennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_triennio__Q06
 parent: src_archimede_2023_triennio
 competition: Giochi di Archimede 2023 - Gara Triennio
@@ -28,6 +29,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale espressione e sicuramente positiva date disuguaglianze*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What an expression and certainly positive given inequalities*
+
+> We know that a < b < c < d are real numbers other than 0 and that 1 b < 1 a < 1 d < 1 c . Which of the following is definitely positive?
+>
+> - **(A)** −a −2b −4c + 3d
+> - **(B)** 2a −b + 3c + 2d
+> - **(C)** −2a −3b −c + 2d
+> - **(D)** −a + 3b + 4c + 5d
+> - **(E)** a + 2b + 3c + 4d
+
+**Answer:** C
+[[src_archimede_2023_triennio__Q06]]

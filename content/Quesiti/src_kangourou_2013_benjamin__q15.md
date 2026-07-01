@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q15
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di facce del cubo con cubetti rimossi ai vertici*
 
@@ -48,3 +51,21 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of faces of the cube with cubes removed at the vertices*
+
+![[src_kangourou_2013_benjamin__prob15.png]]
+
+> The figure represents a 3 cm side cube after a 1 cm side cube has been removed from one of its vertices. Consider the solid obtained by repeating the operation on each of the remaining vertices (of the large cube): how many faces does it have? A) 16
+>           	
+> B) 20
+>       	
+> C) 24 D) 30 E) 36
+>
+
+**Answer:** D
+[[src_kangourou_2013_benjamin__Q15]]

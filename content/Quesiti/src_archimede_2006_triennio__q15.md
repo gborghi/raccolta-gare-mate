@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_triennio__Q15
 parent: src_archimede_2006_triennio
 competition: Giochi di Archimede 2006 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soluzioni reali di una equazione con valori assoluti*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Real solutions to an equation with absolute values*
+
+> How many real solutions has the equation
+>
+> |a| + 3 −2 = 1 ?
+>
+> - **(A)** None of them.
+> - **(B)** One of them.
+> - **(C)** two,
+> - **(D)** three,
+> - **(E)** I got eight.
+
+**Answer:** B
+[[src_archimede_2006_triennio__Q15]]

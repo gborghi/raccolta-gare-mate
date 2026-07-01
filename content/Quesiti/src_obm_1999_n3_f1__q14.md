@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q14
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tangent points on incircle of triangle, arc ratio gives angle*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punti di angoscia sull'incircolo di un triangolo, il rapporto d'arco dà angolo*
+
+> I punti $S$, $T$ e $U$ sono i punti di tangenza del cerchio del triangolo $PQR$ inscritto sui lati $RQ$, $RP$ e $PQ$ rispettivamente. Dato che le lunghezze dell'arco soddisfano $TU : ST : US = 5 : 8 : 11$, trovare il rapporto $\angle TPU : \angle SRT : \angle UQS$.
+> 
+> A) $7:4:1$ \quad B) $8:5:2$ \quad C) $7:3:2$ \quad D) $11:8:5$ \quad E) $9:5:1$
+
+**Risposta:** A
+[[src_obm_1999_n3_f1__Q14]]

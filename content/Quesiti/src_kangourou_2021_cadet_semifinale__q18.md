@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - semifinale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet_semifinale__Q18
 parent: src_kangourou_2021_cadet_semifinale
 competition: Kangourou 2021 Cadet - semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Resto per 5 del prodotto dei numeri di 5 cifre non div per 5*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Remaining 5 of the product of non-divi-digit 5-digit numbers for 5*
+
+> (8 points) If you multiply all positive integers by 5 that are not divisible by 5 and divide the result by 5, what do you get?
+>  
+> The Commission has not yet taken any further action.
+>  
+> P Welding < MSK0/> 3 cm
+
+**Answer:** 1
+[[src_kangourou_2021_cadet_semifinale__Q18]]

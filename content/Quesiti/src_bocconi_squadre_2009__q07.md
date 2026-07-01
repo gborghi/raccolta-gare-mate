@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2009__Q07
 parent: src_bocconi_squadre_2009
 competition: Gara a Squadre 2009
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Maggior numero simpatico a 3 cifre (cifre distinte, multiplo della somma)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 972
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Major symmetrical number of 3 digits (different digits, multiple of the sum) *
+
+> These are called symmetric numbers composed of numbers which are all different from each other and which are multiples of the sum of their numbers. What's the biggest three-digit number?
+
+**Answer:** 972
+[[src_bocconi_squadre_2009__Q07]]

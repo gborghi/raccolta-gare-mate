@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - finale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet_finale__Q06
 parent: src_kangourou_2021_cadet_finale
 competition: Kangourou 2021 Cadet - finale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Riempire griglia mxn con somme colonna costanti*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** a)No b)Si
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fill the mxn grid with constant column sums*
+
+> You have a rectangular grid of $m$ rows and $n$ columns and you want to fill it up by inserting, one for each box, all integers from $1$ to $m \times n$ so that the sum of the numbers inserted in each column is always the same when the columns vary. Answer the following questions and justify your answers. You can do it when:
+> 
+> a) $m = 2021$ e $n = 2020$?
+> 
+> b) $m = 2020$ e $n = 2021$?
+
+**Answer:** a)No b)Si
+[[src_kangourou_2021_cadet_finale__Q06]]

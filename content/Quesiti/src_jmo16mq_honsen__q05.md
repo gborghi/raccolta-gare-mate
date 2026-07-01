@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2006 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo16mq_honsen__Q05
 parent: src_jmo16mq_honsen
 competition: Japan Mathematical Olympiad 2006 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find maximum A in a symmetric inequality for positive reals*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bl8cg_2YQ8omBOceEpKIPRLxJoCe7Zlw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il massimo di A in una disuguaglianza simmetrica per i reali positivi*
+
+> Per i numeri reali positivi $x_1, x_2, x_3, y_1, y_2, y_3, z_1, z_2, z_3$, trovare il valore massimo della costante $A$ in modo tale che l'ineguaglianza $$(x_1^2 + x_2^2 + x_3^2)(y_1^2 + y_2^2 + y_3^2)(z_1^2 + z_2^2 + z_3^2) \ge A(x_1 + y_1 + z_1)(x_2 + y_2 + z_2)(x_3 + y_3 + z_3)$$ sia valida per tutti tali numeri reali positivi. Trova anche tutte le condizioni in cui l'uguaglianza si verifica.
+
+[[src_jmo16mq_honsen__Q05]]

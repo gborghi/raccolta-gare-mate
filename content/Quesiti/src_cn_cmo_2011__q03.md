@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2011 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2011__Q03
 parent: src_cn_cmo_2011
 competition: China Mathematical Olympiad 2011
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove union of k subsets has fewer than k/n fraction of A elements*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'unione di prova di k sottoinsiemi ha meno di k/n frazione di elementi A*
+
+> Che $A_1, A_2, \ldots, A_n$ sia $n$ sottoinsieme non vuoti di un insieme finito $A$ di numeri reali che soddisfino le seguenti condizioni: (1) La somma degli elementi di $A$ è uguale a 0; (2) Scegli arbitrariamente un numero da ogni $A_i$ e la loro somma è strettamente positiva. Provare che esistono set $A_{i_1}, A_{i_2}, \ldots, A_{i_k}$, $1 \le i_1 < i_2 < \cdots < i_k \le n$ in modo tale che $$|A_{i_1} \cup A_{i_2} \cup \cdots \cup A_{i_k}| < \frac{k}{n} |A|.$$ ($|X|$ indica il numero di elementi di un set finito $X$.)
+
+[[src_cn_cmo_2011__Q03]]

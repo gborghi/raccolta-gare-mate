@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2025 — Nível Universitário — Fase x —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2025_nu_fx__Q06
 parent: src_obm_2025_nu_fx
 competition: Olimpíada Brasileira de Matemática 2025 — Nível Universitário — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Möbius maps on (-1,1) via tanh; find minimum contraction factor*
 
@@ -54,3 +57,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13bcEYRAi-4qTqqDPM-7tUBCWHbYLc-du/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Möbius mappe su (-1,1) via tanh; trovare il fattore minimo di contrazione< MSK1/>
+
+> (a) Che $g : \mathbb{R} \to (-1, 1)$ sia la bijezione data da $$g(x) = \tanh(x) = \frac{e^{2x} - 1}{e^{2x} + 1}.$$ Data $r \in [0, 1)$, dimostri che esiste $\lambda(r) \in [0, 1)$ con la seguente proprietà: per ogni funzione razionale $$f(x) = \frac{ax + b}{cx + d}$$ con $a, b, c, d$ numeri reali e $|d| > |c|$ tale che $f((-1,1)) \subset (-r, r)$, abbiamo $|(g^{-1} \circ f \circ g)(x)| \le \lambda(r)$ per tutti $x \in \mathbb{R}$.
+> 
+> b) Determinare il minimo < MSK0/> possibile nella parte (a).
+
+[[src_obm_2025_nu_fx__Q06]]

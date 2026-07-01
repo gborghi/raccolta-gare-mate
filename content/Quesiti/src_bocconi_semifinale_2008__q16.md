@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2008 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2008__Q16
 parent: src_bocconi_semifinale_2008
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2008
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero dispari maggiore di 1 su piastrellatura rettangolare*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum odd number greater than 1 on rectangular tiles*
+
+> We have rectangular tiles measuring, respectively, $7$ and $10$ centimetres in width and length. The figure illustrates how the smallest square surface that can contain three tiles can also contain one more. What is the minimum odd number (greater than 1) such that the smallest square surface that can contain this number of tiles cannot contain even one more?
+
+![[src_bocconi_semifinale_2008__Q16.png]]
+
+**Answer:** 9
+[[src_bocconi_semifinale_2008__Q16]]

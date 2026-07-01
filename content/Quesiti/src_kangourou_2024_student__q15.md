@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q15
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione ombreggiata in quadrato con archi*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Square region shaded area with arches*
+
+![[src_kangourou_2024_student__prob15.png]]
+
+> The figure shows a square of 6 cm on the side with a diagonal, a semicircular and a quarter of a circumference. All these lines have their ends at two vertices of the square. How many square centimetres is the area of the shaded region? A) 9
+> 	
+> B) 3π
+> 	
+> C) 6π − 9 D) 10π/3 E) 12
+
+**Answer:** A
+[[src_kangourou_2024_student__Q15]]

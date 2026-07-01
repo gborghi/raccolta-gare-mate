@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q06
 parent: src_archimede_2014_febb_2livello
 competition: Archimede Gara di Febbraio 2014 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Potenze di 4 che in base 3 usano solo 0 e al piu due 1*
 
@@ -45,3 +48,21 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Potenze di 4 che in base 3 usano solo 0 e al piu due 1*
+
+> Quanti interi positivi sono una potenza di 4 e si scrivono in base 3 usando solo le cifre 0 e 1, lo
+> 0 quante volte si vuole (anche nessuna) e l’1 al più due volte?
+>
+> - **(A)** 4
+> - **(B)** 2
+> - **(C)** 1
+> - **(D)** 0
+> - **(E)** Infiniti.
+
+**Answer:** B
+[[src_archimede_2014_febb_2livello__Q06]]

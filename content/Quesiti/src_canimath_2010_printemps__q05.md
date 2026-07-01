@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2010 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2010_printemps__Q05
 parent: src_canimath_2010_printemps
 competition: Coupe Animath Printemps 2010
@@ -36,6 +37,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *sqrt(n) has its first k decimals all equal to v; bound sqrt(n) below by 10^k/2 and 10^k/144*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ICeKHFa9AJshYkRGcVmLzHyoHqOKQ5Ay/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*sqrt(n) ha le sue prime k decimali tutte uguali a v; bound sqrt(n) sotto di 10^k/2 e 10^k/144*
+
+> Lasciate che $n$ sia un intero rigorosamente positivo che non è un quadrato perfetto (cioè che non è il quadrato di un intero). Guardando l'espansione decimale di $\sqrt{n}$, si osserva che le sue prime cifre decimali $k$ sono tutte uguali allo stesso valore $v$ (ad esempio, se $n = 48273160$, allora $\sqrt{n} = 6947{,}88888800044067\ldots$, le prime sei cifre decimali sono uguali a $8$, quindi $k = 6$ e $v = 8$).
+> 
+> a) Se $v = 0$ o $v = 9$, dimostrare che $\sqrt{n} > \dfrac{10^k}{2}$.
+> 
+> b) Per tutti i valori di $v$, dimostrare che $\sqrt{n} > \dfrac{10^k}{144}$.
+
+[[src_canimath_2010_printemps__Q05]]

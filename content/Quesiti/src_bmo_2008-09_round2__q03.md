@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2008-09 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2008-09_round2__Q03
 parent: src_bmo_2008-09_round2
 competition: British Mathematical Olympiad 2008-09 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real functions satisfying a symmetric cubic functional equation*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ferPQhLsagHhNDpl4Pc-5BSxvy9ubeYh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni reali che soddisfano un'equazione funzionale cubica simmetrica*
+
+> Trova tutte le funzioni $f$ dai numeri reali ai numeri reali che soddisfano $$f(x)^3 + f(y)^3 + f(z)^3 = f(x+y+z)\bigl(f(x)^2 + f(y)^2 + f(z)^2 - f(x)f(y) - f(y)f(z) - f(z)f(x)\bigr)$$ per tutti i numeri reali $x, y, z$.
+
+[[src_bmo_2008-09_round2__Q03]]

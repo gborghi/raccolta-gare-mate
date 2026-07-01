@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2003-04 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2003-04_round1__Q02
 parent: src_bmo_2003-04_round1
 competition: British Mathematical Olympiad 2003-04 — Round 1
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle with midpoint and perpendicular; prove triangle isosceles*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18wiJiqdZkrKQw2W9Fj-nCrBT9lVgHHwa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo con punto medio e perpendicolare; prove triangolo isosceles*
+
+> $ABCD$ è un rettangolo, $P$ è il punto medio di $AB$, e $Q$ è il punto su $PD$ in modo tale che $CQ$ sia perpendicolare a $PD$. Prove che il triangolo $BQC$ è uguale.
+
+[[src_bmo_2003-04_round1__Q02]]

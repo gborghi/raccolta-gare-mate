@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q25
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of f(500) for a multiplicative function with f(10)=14 and f(40)=20*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta di f(500) per una funzione moltiplicativa con f(10)=14 e f(40)=20*
+
+> Una funzione $f$, definita sull'insieme di integri positivi, è tale che $f(xy) = f(x) + f(y)$ per tutti $x$ e $y$. È dato che $f(10) = 14$ e $f(40) = 20$. Qual è il valore di < MSK6/>?
+>
+> - **(A)** $29$
+> - **(B)** $30$
+> - **(C)** $39$
+> - **(D)** $49$
+> - **(E)** $50$
+
+**Risposta:** C
+[[src_smc_2015__Q25]]

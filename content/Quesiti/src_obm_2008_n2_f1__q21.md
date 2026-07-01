@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f1__Q21
 parent: src_obm_2008_n2_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum number of girls among 60% of class doing community work*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di ragazze tra il 60% della classe che svolge attività comunitarie*
+
+> Una classe ha ragazzi e ragazze. Durante le vacanze, < MSK2/> di tutti gli studenti di quella classe sono andati a fare lavori comunitari. Almeno quante ragazze hanno partecipato a questo lavoro? (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $6$ \quad (E) $8$
+
+[[src_obm_2008_n2_f1__Q21]]

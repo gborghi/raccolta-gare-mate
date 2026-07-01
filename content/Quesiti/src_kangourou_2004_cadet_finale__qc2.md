@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet finale nazionale — Quesito C2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet_finale__QC2
 parent: src_kangourou_2004_cadet_finale
 competition: Kangourou 2004 Cadet finale nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Min a con somma a+...+9a a cifre uguali*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 12345679
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qutKfUoHQoWcRhpaUbm6vw6FQyOCRizB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Min a with sum of a+...+9a at equal figures*
+
+> The number $a$ is a positive integer such that the sum $a + 2a + 3a + 4a + \ldots + 9a$ is a number in which all the digits are equal. What is the minimum value of $a$?
+
+**Answer:** 12345679
+[[src_kangourou_2004_cadet_finale__QC2]]

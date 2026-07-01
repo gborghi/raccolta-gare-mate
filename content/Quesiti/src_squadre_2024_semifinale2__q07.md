@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Semifinale 2 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_semifinale2__Q07
 parent: src_squadre_2024_semifinale2
 competition: Gara a Squadre 2024 - Semifinale 2
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sottoinsiemi di 1-13 con prodotto cifra unita zero*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6080
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sub-sets of 1 to 13 with product unit number zero< MSK1/>
+
+> Jessica Fourier's challenge Jessica Fourier has the classic math writer's block. To distract himself, he challenges Dr. Seven: both have a sheet with an identical circumference drawn and have to cut a quadrilateral. Both quadrilaterals must have the same area. Il Dr. Seven cuts the square inscribed in the circumference. Jessica instead draws an AB rope 400 mm from center C and the tangents at points A and B to the circumference that intersect in P. So cut the CAPB quadrilateral. What is the radius of the two identical circumferences in mm?
+
+**Answer:** 6080
+[[src_squadre_2024_semifinale2__Q07]]

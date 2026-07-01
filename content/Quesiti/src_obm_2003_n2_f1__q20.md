@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f1__Q20
 parent: src_obm_2003_n2_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Coin-flip game with three players; who has smallest win probability*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di coin-flip con tre giocatori; chi ha la minore probabilità di vincere*
+
+> Beatriz, Isabele e Nicole stanno giocando a turni a lanciare una moneta giusta. Beatriz vince se, in due volte consecutive, entrambe sono teste. Nicole vince se, in due volte consecutive, entrambe sono coda. Isabele vince se in due volte consecutive uno è testa e uno è coda. Spuntano la moneta ripetutamente in ordine (Beatriz, poi Isabele, poi Nicole, poi Beatriz, ...) finché qualcuno non vince. Quale giocatore ha (ha) la minore probabilità di vincere?
+> 
+> (A) Beatriz \quad (B) Isabele \quad (C) Nicole \quad (D) Beatriz e Nicole \quad (E) Tutti e tre hanno la stessa probabilità.
+
+**Risposta:** B
+[[src_obm_2003_n2_f1__Q20]]

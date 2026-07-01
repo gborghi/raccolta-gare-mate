@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q01
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale cordino chiuso non puo essere disposto a 8*
 
@@ -50,3 +53,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which closed cord cannot be set to 8*
+
+![[src_kangourou_2024_cadet__prob1.png]]
+
+> Here on the right is a closed cord arranged at 8. Which of the following closed strings cannot be arranged in the same way without cutting it? A)
+>  
+> B)
+>  
+> C)
+>  
+> D)
+>  
+> E)
+
+**Answer:** B
+[[src_kangourou_2024_cadet__Q01]]

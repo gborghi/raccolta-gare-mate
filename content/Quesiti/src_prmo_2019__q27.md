@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 27
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q27
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count derangements of BHARAT*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Disturbi di conteggio di BHARAT< MSK1/>
+
+> Diciamo che una riorganizzazione delle lettere di una parola non ha lettere fisse se, quando la riorganizzazione è posta direttamente sotto la parola, nessuna colonna ha la stessa lettera ripetuta. Ad esempio, $HBRATA$ è un riordinamento senza lettere fisse di $BHARAT$. Quante riorganizzazioni distinguibili senza lettere fisse ha $BHARAT$? (I due $A$ sono considerati identici.)
+
+[[src_prmo_2019__Q27]]

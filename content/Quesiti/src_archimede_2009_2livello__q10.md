@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_2livello__Q10
 parent: src_archimede_2009_2livello
 competition: Archimede Gara 2° livello 2009 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità tutti a zero punti dopo 10 mani*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of all zero points after 10 hands < MSK1/>
+
+> Alberto, Barbara and Carlo are playing cards. In each hand, the winner gains 2 points, while the other two players lose one point each. Initially, everyone has zero points. What's the probability that after 10 hands, they're all zero again?
+>
+> - **(A)** 0
+> - **(B)** 1 5
+> - **(C)** 1 3
+> - **(D)** 10 6  310
+> - **(E)** 1 − 2 3 10 .
+
+**Answer:** A
+[[src_archimede_2009_2livello__Q10]]

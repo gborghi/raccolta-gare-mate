@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q17
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Secondi di ritardo del podista rispetto al ciclista*
 
@@ -46,3 +49,15 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Seconds of pedestrian delay from the cyclist< MSK1/>
+
+> A cyclist and a podiatrist move on a circular circuit 550 metres long with constant speeds of 10 m/s for the cyclist and 1 m/s for the podiatrist. They start in opposite directions from the same point of the circuit: when they meet the cyclist, he continues his race, while the podium player immediately turns and starts chasing the cyclist. How many seconds later than the rider will the podium finisher have reached the starting point? A) 45 B) 50 C) 55 D) 100 E) 505 Y
+>
+
+**Answer:** A
+[[src_kangourou_2022_junior_gara__Q17]]

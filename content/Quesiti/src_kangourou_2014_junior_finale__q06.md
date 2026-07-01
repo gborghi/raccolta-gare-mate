@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale Junior — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior_finale__Q06
 parent: src_kangourou_2014_junior_finale
 competition: Kangourou 2014 finale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo n di quadrati grigi 8x8 per copertura adiacente*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 20
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gsyU7EVfAmWfdKlyvCj0UIdYJSndEpVE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum n of 8x8 gray squares for adjacent coverage*
+
+![[src_kangourou_2014_junior_finale__prob6.png]]
+
+> $n$ squares of one grid $8 \times 8$ are painted black, the others are white. Each square of the grid, whether white or black, is adjacent to (i.e. has a side in common with) a black square (different from it in the case of black). What is the minimum possible value for $n$?
+
+**Answer:** 20
+[[src_kangourou_2014_junior_finale__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - semifinale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_semifinale__Q13
 parent: src_kangourou_2021_ecolier_semifinale
 competition: Kangourou 2021 Ecolier - semifinale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo marziani per averne due dello stesso tipo*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 25
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1d4KIlUoujYfd3Cc7JpT28ssbmAgsp2A5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum Martian to have two of the same type*
+
+> (6 points) Not all Martians have the same number of hands and not all have the same number of feet: hands can be 3 to 6, feet 2 to 7. How many Martians do you have to get on a space shuttle to make sure there's at least two of the same type?
+
+**Answer:** 25
+[[src_kangourou_2021_ecolier_semifinale__Q13]]

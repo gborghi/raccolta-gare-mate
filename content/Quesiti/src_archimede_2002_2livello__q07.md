@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2002 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_2livello__Q07
 parent: src_archimede_2002_2livello
 competition: Archimede Gara 2º livello 2002
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo c con a≤b≤c e somma di cifre fissata*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum c with a≤b≤c and sum of figures fixed*
+
+> Whether $ABC$ is an isosceles triangle such as $\widehat{BAC} = 120°$ and $AB = AC = 1$. What is the radius of the circumscribed circle?
+> 
+> (A) 2 &ensp; (B) $\dfrac{\sqrt{3}}{2}$ &ensp; (C) $\dfrac{\sqrt{2}}{2}$ &ensp; (D) 1 &ensp; (E) None of the above
+
+**Answer:** D
+[[src_archimede_2002_2livello__Q07]]

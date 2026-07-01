@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier gara individuale — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q21
 parent: src_kangourou_2022_ecolier_gara
 competition: Kangourou 2022 Ecolier gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo giri perche Giorgio reincontri Thea in A*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+I'm going to take a few laps because George will meet Thea again in A.
+
+![[src_kangourou_2022_ecolier_gara__prob21.png]]
+
+> George and Thea start walking from the same point A, with the same speed, which they always maintain, but in the opposite direction. George walks on the edge of the square aisle, Thea on the edge of the rectangular aisle: find the dimensions of the two aisles in the figure. What is the minimum number of turns around the square curtain completed by which George meets Thea again at point A? A) 1
+>   
+> B) 2
+>   
+> C) 3
+>   
+> D) 4
+>   
+> E) 5
+
+**Answer:** C
+[[src_kangourou_2022_ecolier_gara__Q21]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2011 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2011__Q08
 parent: src_bocconi_squadre_2011
 competition: Gara a Squadre 2011
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area minima triangoli rettangoli con cateti che prolungano quadrato*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csoOdxkAD8Fd4QvzRpEPzVVVOCkJ8l1C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum area rectangular triangles with square lengthing catheters*
+
+> Consider all rectangular triangles whose cathetes extend the sides of the $ASOT$ square and in which the hypotenuse passes through $O$. Knowing that $c = 1$ cm, what is the minimum value of the area of these triangles?
+
+![[src_bocconi_squadre_2011__Q08.png]]
+
+**Answer:** 2
+[[src_bocconi_squadre_2011__Q08]]

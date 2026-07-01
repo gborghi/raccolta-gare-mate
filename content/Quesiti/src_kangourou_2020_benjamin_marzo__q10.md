@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q10
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quale punto si incontrano cane e gatto (velocita tripla)*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Where dog and cat meet (triple speed) < MSK1/>
+
+![[src_kangourou_2020_benjamin_marzo__prob10.png]]
+
+> A dog and cat move through the park following the path depicted in the picture by the thick black line. The dog starts from P, the cat from Q, and the dog's speed is three times that of the cat. Where will they meet? A) In A. B) In B. C) In C. D) In D. E) In E. The questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** E
+[[src_kangourou_2020_benjamin_marzo__Q10]]

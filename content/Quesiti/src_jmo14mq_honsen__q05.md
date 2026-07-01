@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2004 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo14mq_honsen__Q05
 parent: src_jmo14mq_honsen
 competition: Japan Mathematical Olympiad 2004 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cubic graph: Hamiltonian cycle differing from given one and its reverse*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aESRi7OnarSwt4c_TIM_ZNlZDgdoPbhj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Grafico cubico: ciclo di Hamilton differente da quello dato e il suo inverso*
+
+> Su una certa isola, ogni città è collegata da strade ad esattamente altre tre città. Nel viaggio dell'anno scorso, il viaggiatore ha lasciato una certa città, visitato ogni città dell'isola esattamente una volta e tornato nella città di partenza. Quest'anno, il viaggiatore desidera fare un viaggio che, partendo dalla stessa città, visita di nuovo ogni città dell'isola esattamente una volta e ritorna lì. Tuttavia, il viaggiatore vuole evitare sia l'ordine esatto dello scorso anno che l'ordine che è semplicemente il suo contrario. Mostrate che è possibile.
+
+[[src_jmo14mq_honsen__Q05]]

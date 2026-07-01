@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q07
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Clock angle difference between two times when hands are perpendicular*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 51
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Differenza di angolo dell'orologio tra due volte quando le mani sono perpendicolari*
+
+> Su un orologio, ci sono due istanti tra le 12 di mezzogiorno e le 13 di sera, quando la mano dell'ora e la mano del minuto sono ad angolo retto. La differenza di minuti tra questi due istanti è scritta come $a + \frac{b}{c}$, dove $a, b, c$ sono integri positivi, con $b < c$ e $b/c$ nella forma ridotta. Qual è il valore di < MSK4/>?
+
+**Risposta:** 51
+[[src_prmo_2019__Q07]]

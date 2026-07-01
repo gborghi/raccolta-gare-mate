@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 1) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g1__Q09
 parent: src_bocconi_finaleint_2007_g1
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Moneta: prezzo cartolina pagata con 3 monete diverse usando una da 0,50 euro, resto in 3 monete diverse*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $0{,}23$ euro oppure $0{,}27$ euro
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Currency: card price paid with 3 different coins using one of 0,50 euro, remaining in 3 different coins< MSK1/>
+
+> Mathilde, on vacation, wants to buy a card for her friend Geo. He wants to pay for it with three different coins. It also prefers to give a coin of $0{,}50$ euro. The merchant then returns three different coins. What's the price of the card? The coins in use are the following: < MSK1/> euro; < MSK2/> euro; < MSK3/> euro; < MSK4/> euro; < MSK5/> euro; < MSK6/> euro; < MSK7/> euro; < MSK8/> euro.
+
+**Answer:** $0{,}23$ euro oppure $0{,}27$ euro
+[[src_bocconi_finaleint_2007_g1__Q09]]

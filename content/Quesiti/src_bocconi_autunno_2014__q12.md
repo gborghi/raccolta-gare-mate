@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2014 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2014__Q12
 parent: src_bocconi_autunno_2014
 competition: Giochi d'Autunno 2014
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti piani ha la piramide tennistica di 385 palline*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PloiPSpf4_9YADREFtliPjnhVrdcFhjI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many floors does the 385-ball tennis pyramid have?
+
+> To decorate the window of his sportswear store, Nando built the pyramid you see, which is made of tennis balls. Each level of the building is a square. The highest level consists of $1$ single ball. The one below from $4$ balls, the one still below from $9$ etc. How many floors does the pyramid have?
+
+![[src_bocconi_autunno_2014__Q12.png]]
+
+**Answer:** 10
+[[src_bocconi_autunno_2014__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2003 - Triennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_triennio__Q02
 parent: src_archimede_2003_triennio
 competition: Giochi di Archimede 2003 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *lettere automobilistiche da 2 a 4 lettere, conteggio*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*car letters from 2 to 4 letters, counting *
+
+> What is the largest positive integer n such that the arithmetic mean of the numbers from 1 to n is < 2003 ? (Note: the arithmetic mean of n numbers is equal to their sum divided by n.)
+>
+> - **(A)** 2002
+> - **(B)** 2003
+> - **(C)** 4003
+> - **(D)** 4004
+> - **(E)** 4005.
+
+**Answer:** B
+[[src_archimede_2003_triennio__Q02]]

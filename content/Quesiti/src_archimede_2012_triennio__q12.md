@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Triennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_triennio__Q12
 parent: src_archimede_2012_triennio
 competition: Giochi di Archimede 2012 - Triennio
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo divisore di n^5-5n^3+4n per n>=3*
 
@@ -56,3 +59,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum divider of n^5-5n^3+4n for n>=3*
+
+> The answer is D. We can write n5 −5n3 + 4n = n(n4 −5n2 + 4) = n(n2 −4)(n2 −1) = (n −2)(n −1) n(n + 1)(n + 2) . So we're considering a number that can always be written as the product of five consecutive natural numbers (all strictly positive, because n ≥3). In a sequence of 5 consecutive natural numbers there are certainly two even numbers of which a multiple of 4, a multiple of 3 and a multiple of 5. So their product is certainly a multiple of 120 = 2·3·4·5. On the other hand for n = 3 we have n5 −5n3 + 4n = 120 so 120 is the largest divisor of n5 −5n3 + 4n at the variance of n ≥3.
+
+**Answer:** D
+[[src_archimede_2012_triennio__Q12]]

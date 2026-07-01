@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2009__Q01
 parent: src_bocconi_squadre_2009
 competition: Gara a Squadre 2009
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo intero >20 non primo e non divisibile per primi <20*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 529
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interest minimum >20 not prime and not divisible by prime <20*
+
+> What is the smallest integer greater than 20 that is not prime but is not even divisible by prime numbers (greater than 1 and) less than 20?
+
+**Answer:** 529
+[[src_bocconi_squadre_2009__Q01]]

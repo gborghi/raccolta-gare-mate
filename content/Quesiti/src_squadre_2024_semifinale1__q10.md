@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Semifinale 1 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_semifinale1__Q10
 parent: src_squadre_2024_semifinale1
 competition: Gara a Squadre 2024 - Semifinale 1
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sottoinsiemi di 1-12 con prodotto cifra unita zero*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3040
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sub-sets of 1 to 12 with zero unit product< MSK1/>
+
+> Lieutenant Coulomb has already figured out who the culprit is, so he's playing psychology to get him to confess. The question that Coulomb asks, and which brings down the suspect, is this: how many of the nonempty subsets of {1,2,...,12} does the product of the elements have zero as the number of units?
+
+**Answer:** 3040
+[[src_squadre_2024_semifinale1__Q10]]

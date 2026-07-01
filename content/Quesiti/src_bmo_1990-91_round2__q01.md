@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1990-91 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1990-91_round2__Q01
 parent: src_bmo_1990-91_round2
 competition: British Mathematical Olympiad 1990-91 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right triangle median angle bound: sin theta ≤ 1/√5*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19rA2wLIhPP8-xZr1hcnmK6fsW1-NB1i1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lineato angolo mediano del triangolo retto: sin theta ≤ 1/√5*
+
+> Nel triangolo $ABC$, $B$ è un angolo rettangolo e $\theta$ è l'angolo tra $AC$ e la media da $C$ a $AB$.
+> 
+> Prove che $\sin\theta \le \dfrac{1}{\sqrt{5}}$.
+
+[[src_bmo_1990-91_round2__Q01]]

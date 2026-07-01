@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2009 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2009__Q07
 parent: src_cn_cgmo_2009
 competition: China Girls' Mathematical Olympiad 2009
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Region of 4n squares on a 10x10 board tileable by n 1x4 pieces and by n 2x2 pieces; minimize n for tiling by given combination.*
 
@@ -49,3 +52,16 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Regione di 4n quadrati su una tavola da 10x10 a piastrellare da n pezzi da 1x4 e da n pezzi da 2x2; minimizzare n per la piastrellare da una data combinazione.*
+
+> Su una scacchiera $10 \times 10$, alcuni campi quadrati unitari $4n$ vengono scelti per formare una regione $R$. Questa regione $R$ può essere contrassegnata da $n$ $1 \times 4$ pezzi e anche da $n$ $2 \times 2$ pezzi. Se $R$ può essere incollato anche con una combinazione di pezzi $n$ dei seguenti tipi di forme (con rotazioni consentite), determinare il valore minimo di $n$. (Posato da Zhu Huawei)
+
+![[src_cn_cgmo_2009__Q07.png]]
+
+**Risposta:** The answer is $n = 4$.
+[[src_cn_cgmo_2009__Q07]]

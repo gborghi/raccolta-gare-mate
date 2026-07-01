@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q04
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all valid bases b>=10 for equation 166x56=8590*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le basi valide b>=10 per l'equazione 166x56=8590*
+
+> L'equazione $166 \times 56 = 8590$ è valida in alcune basi $b \ge 10$ (cioè $1, 6, 6, 5, 8, 9, 0$ sono i numeri di base $b$ nell'equazione di cui sopra). Trova la somma di tutti i valori possibili di $b \ge 10$ che soddisfano l'equazione.
+
+**Risposta:** 12
+[[src_prmo_2018__Q04]]

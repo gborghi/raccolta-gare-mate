@@ -1,6 +1,7 @@
 ---
 title: IMO 2021 (LXII International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2021__Q02
 parent: src_imho_2021
 competition: IMO 2021 (LXII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Double sum inequality with square roots of absolute values*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VTMF3_4FUjshC9L1h1JDLd2a_dFGHkhF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Double sum inequality with square roots of absolute values*
+
+> Show that the inequality $$\sum_{i=1}^{n}\sum_{j=1}^{n}\sqrt{|x_i - x_j|} \leq \sum_{i=1}^{n}\sum_{j=1}^{n}\sqrt{|x_i + x_j|}$$ holds for all real numbers $x_1, \ldots, x_n$.
+
+[[src_imho_2021__Q02]]

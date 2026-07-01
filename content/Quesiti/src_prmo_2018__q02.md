@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q02
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Incircle radius in quadrilateral ABCD, find integer closest to r*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Incircolare il raggio in quadrilaterale ABCD, trovare un numero intero più vicino a r*
+
+> In un quadrilaterale $ABCD$, è dato che $AB = AD = 13$, $BC = CD = 20$, $BD = 24$. Se $r$ è il raggio del cerchio iscrivibile nel quadrilaterale, qual è il numero intero più vicino a $r$?
+
+**Risposta:** 8
+[[src_prmo_2018__Q02]]

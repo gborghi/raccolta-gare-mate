@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo14yq_yosen__Q12
 parent: src_jmo14yq_yosen
 competition: Japan Mathematical Olympiad 2004 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum N points in plane guaranteeing a 2004-point monotone-slope subsequence.*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di N punti in piano che garantiscono una subsequenza monotone-inclinazione di 2004 punti.*
+
+> Trova il numero intero positivo minimo $N$ in modo tale che la seguente affermazione sia valida: per qualsiasi posizionamento di punti $N$ nel piano $xy$ senza 3 collineari e senza 2 che condividono la stessa coordinata $x$, si può sempre scegliere 2004 di questi punti $(x_1, y_1), (x_2, y_2), \ldots, (x_{2004}, y_{2004})$ con $x_1 < x_2 < \cdots < x_{2004}$ in modo tale che sia $$\frac{y_2 - y_1}{x_2 - x_1} < \frac{y_3 - y_2}{x_3 - x_2} < \cdots < \frac{y_{2004} - y_{2003}}{x_{2004} - x_{2003}}$$ o $$\frac{y_2 - y_1}{x_2 - x_1} > \frac{y_3 - y_2}{x_3 - x_2} > \cdots > \frac{y_{2004} - y_{2003}}{x_{2004} - x_{2003}}$$ sia valida.
+
+[[src_jmo14yq_yosen__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: X Gara Nazionale Classi Prime 2025 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2025__Q16
 parent: src_garaprime_2025
 competition: X Gara Nazionale Classi Prime 2025
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo mcm di interi positivi con somma 10*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum MC of positive integers with sum of 10 < MSK1/>
+
+> The sum of some positive integers is 10. What's the maximum of their minimum common multiple?
+>
+> - **(A)** less than 16
+> - **(B)** between 16 and 28
+> - **(C)** between 29 and 39
+> - **(D)** between 40 and 49
+> - **(E)** more than 49
+
+**Answer:** C
+[[src_garaprime_2025__Q16]]

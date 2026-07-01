@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q08
 parent: src_kangourou_2009_ecolier_marzo
 competition: Kangourou 2009 - Ecolier (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo colori per i vertici del cubo*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum colours for the vertices of the cube*
+
+![[src_kangourou_2009_ecolier_marzo__prob8.png]]
+
+> You have a cube and you want to color each of the vertices by following the rule: two vertices that are at the ends of the same vertex must receive different colors. What's the smallest number of colors that allows you to achieve your goal? A) 2 B) 3 C) 4 D) 6 E) 8 Questions from N. 9 al N. 16 is worth 4 points each.
+
+**Answer:** A
+[[src_kangourou_2009_ecolier_marzo__Q08]]

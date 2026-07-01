@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q01
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many two-digit numbers are neither prime nor multiples of 2, 3 or 5*
 
@@ -52,3 +55,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quanti numeri a due cifre non sono né prime né multipli di 2, 3 o 5*
+
+> Quanti numeri a due cifre non sono né prime né multipli di $2$, $3$ o $5$?
+> 
+> (A) $1$ \quad (B) $26$ \quad (C) $5$ \quad (D) $4$ \quad (E) più di $4$
+
+**Risposta:** B
+[[src_obm_2001_n2_f1__Q01]]

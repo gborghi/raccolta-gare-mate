@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1997 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1997__Q01
 parent: src_inmo_1997
 competition: Indian National Mathematical Olympiad 1997
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Line through vertex C of parallelogram meets extensions of sides*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SA7DeUVRAagzjUC6Q6y2b9m6tHkKLIIy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La linea attraverso il vertice C del parallelo raggiunge le estensioni dei lati*
+
+> Una linea attraverso la vertica $C$ di un parallelo $ABCD$ risponde alle estensioni dei lati $AB$ e $AD$ rispettivamente a $E$ e $F$. Provare che < MSK0/>
+
+[[src_inmo_1997__Q01]]

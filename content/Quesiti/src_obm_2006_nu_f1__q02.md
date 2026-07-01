@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1 —
   Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_nu_f1__Q02
 parent: src_obm_2006_nu_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Volume of solid defined by floor sum condition*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-zF5q38838Z7BnrHtVLRS1IJQQPHcA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Volume di solido definito con la somma del livello *
+
+> $N$ sia un numero intero positivo. Calcolare, come funzione di $N$, il volume del solido definito da $$x,\, y,\, z \in [0, +\infty), \quad \lfloor x \rfloor + \lfloor y \rfloor + \lfloor z \rfloor \le N.$$
+
+[[src_obm_2006_nu_f1__Q02]]

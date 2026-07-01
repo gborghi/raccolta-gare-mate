@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_a__Q01
 parent: src_cesenatico_2011_semifinale_a
 competition: Gara a Squadre Cesenatico 2011 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *decodificare numeri da messaggio cifrato*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7466
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*decode numbers from encrypted message*
+
+> An ancient cipher Abelix and Borelix intercepted a message from Julius Caesar himself and intended for one of his lieutenants. The message reads: You must send WBUHHH platoons of soldiers, each platoon must be made up of WKHW soldiers to be deployed in a square squad with UHH soldiers on the side. Furthermore, I need other LLCBKWHU soldiers to make me a personal guard. Abelix scrutinizes the message and observes doubtful: The Romans usually use other funny letters instead of numbers, type XVIII, XLIV and stuff like that. That they changed letters? but then immediately exclaims:But of course! Julius Caesar used his usual method and changed the letters simply by moving a fixed number in alphabetical order! How many soldiers did Julius Caesar ask for?
+
+**Answer:** 7466
+[[src_cesenatico_2011_semifinale_a__Q01]]

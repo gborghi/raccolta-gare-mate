@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2017 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2017_printemps__Q03
 parent: src_canimath_2017_printemps
 competition: Coupe Animath Printemps 2017
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perpendicular bisectors in 60-degree triangle give equal segment*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WRDBVKTu2eO-0ruMO9lo0GjGJQSpzivB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I bisettori perpendicolari in un triangolo di 60 gradi danno segmento uguale*
+
+> Che $ABC$ sia un triangolo tale che $\widehat{BAC} = 60^\circ$. Il bisettore perpendicolare di $[AC]$ incontra la linea $(AB)$ a $P$, e il bisettore perpendicolare di $[AB]$ incontra la linea $(AC)$ a $Q$. Mostra che $PQ = BC$.
+
+[[src_canimath_2017_printemps__Q03]]

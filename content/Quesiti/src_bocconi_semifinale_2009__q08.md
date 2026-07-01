@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2009 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2009__Q08
 parent: src_bocconi_semifinale_2009
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2009
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Maggior numero di dischi colorati in un quadrato*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (soluzione mostrata nella figura della soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of coloured discs in a square*
+
+> Color as many discs as possible in the drawing so that you never have four colored discs at the top of a square (with horizontal or vertical sides). There may be more than one solution, but you just have to point to one.
+
+![[src_bocconi_semifinale_2009__Q08.png]]
+
+**Answer:** (soluzione mostrata nella figura della soluzione)
+[[src_bocconi_semifinale_2009__Q08]]

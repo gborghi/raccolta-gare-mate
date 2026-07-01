@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Finale Nazionale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_finale__Q05
 parent: src_squadre_2024_finale
 competition: Gara a Squadre 2024 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo coefficiente dispari nello sviluppo di (x+y)^13*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1287
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum odd coefficient in the development of (x+y)^13*
+
+> Captain Kronecker's arrivals, he begins by saying, "As you may have guessed from my business card, I am a polynomial enthusiast. One of my favorite questions is: What is the greatest odd coefficient in the development of (x+y)13? What is the answer?
+
+**Answer:** 1287
+[[src_squadre_2024_finale__Q05]]

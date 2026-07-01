@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q19
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo per Achille e la tartaruga*
 
@@ -47,3 +50,21 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Time for Achilles and the turtle< MSK1/>
+
+> Achilles' fast-footed chases the turtle that walks slowly in front of him. The initial distance between them is 990 meters. The speed of Achilles is 10 meters per second, the speed of the turtle is 1 meter every 10 seconds. How long before Achilles reaches the turtle?
+>  
+> A. 1 minute and 40 seconds B. 990 seconds
+>  
+>  
+> C. Never
+>  
+> D. 1 minute and 50 seconds E. 1 minute and 39 seconds
+
+**Answer:** A
+[[src_kangourou_2002_student__Q19]]

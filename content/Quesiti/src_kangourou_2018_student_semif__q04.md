@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Student — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_semif__Q04
 parent: src_kangourou_2018_student_semif
 competition: Kangourou 2018 Semifinale Student
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti primi r somma di due primi con uguale somma cifre*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many prime r sums of two prime numbers with equal sums < MSK1/>
+
+> (Points 4) A prime r is the sum of two prime p and q. It also happens that the sum of the digits r coincides with the sum of the digits p plus the sum of the digits q. How many possible prime r numbers are in this situation? A) Only 1 B) Exactly 2 C) Exactly 3 D) Exactly 4 E) More than 4
+
+**Answer:** E
+[[src_kangourou_2018_student_semif__Q04]]

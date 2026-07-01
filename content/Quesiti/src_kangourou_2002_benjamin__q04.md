@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_benjamin__Q04
 parent: src_kangourou_2002_benjamin
 competition: Kangourou 2002 - Benjamin (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Membri della famiglia Kangourou*
 
@@ -46,3 +49,19 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Members of the Kangourou family< MSK1/>
+
+> Kangourou's parents have three daughters. Every girl has two brothers. How many members of the Kangourou family are there?
+>  
+> A. 11 B. 9 C. 8 D. 7 E. 5
+>  
+> 
+> I'm not going to lie to you. This item is not intended to be used. 2
+
+**Answer:** D
+[[src_kangourou_2002_benjamin__Q04]]

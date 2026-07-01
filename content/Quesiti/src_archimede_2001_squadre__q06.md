@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_squadre__Q06
 parent: src_archimede_2001_squadre
 competition: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *cruciverba di numeri primi e prodotti*
 
@@ -68,3 +71,42 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7100
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BmICgzhXXszLqAUxg8mhu_z1YXo7y9a6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*crossword of prime numbers and products*
+
+![[src_archimede_2001_squadre__prob6.png]]
+
+> Other readings MSK1/ (65 points)
+> 
+> One of the most controversial provisions of the Senate this month is a law banning the publication of crosswords. Some student associations have launched the monthly "Contestation" cross-number to protest.
+> 
+> The cross-sectional number shall have a grid $3 \times 4$ with the following definitions:
+> 
+> The value of the underlying assets shall be the sum of all the assets of the institution.
+> 
+> (1) The exact answer to this game.
+> 
+> (2) It is a prime number, equal to the product of more consecutive prime numbers minus 1 (e.g. < MSK0/>, even if this is not a prime number).
+> 
+> (3) Product of three consecutive numbers (e.g. < MSK0/>).
+> 
+> (4) It is a prime number.
+> 
+> The manufacturer shall provide the manufacturer with the following information:
+> 
+> (1) Sum of two cubes (of natural numbers, of course).
+> 
+> (2) 4-digit palindrome number power of a prime (a palindrome number is a number that does not change if read from right to left).
+> 
+> (3) It is a prime number.
+> 
+> (4) 5 vertically to the square.
+> 
+> (NB: The answer to any of the definitions can also be a number less than 1000. If one of the answers should be, for example, 13 in the table, enter 0013.)
+
+**Answer:** 7100
+[[src_archimede_2001_squadre__Q06]]

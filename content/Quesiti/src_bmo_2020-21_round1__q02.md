@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2020-21 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2020-21_round1__Q02
 parent: src_bmo_2020-21_round1
 competition: British Mathematical Olympiad 2020-21 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle: perimeter numerically equal to area squared*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xg514doHxMaADkn1oQBkdyq62hCSeCSk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles: perimetro numericamente uguale all'area al quadrato*
+
+> Un triangolo ha lunghezze laterali $a$, $a$ e $b$. Il suo perimetro $P$ e superficie $A$. Dato che $b$ e $P$ sono numeri interi e che $P$ è numericamente uguale a $A^2$, trovare tutte le possibili coppie $(a, b)$.
+
+[[src_bmo_2020-21_round1__Q02]]

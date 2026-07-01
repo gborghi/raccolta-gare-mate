@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Cadet 2024 — Quesito C6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet_finale__QC6
 parent: src_kangourou_2024_cadet_finale
 competition: Kangourou Finale Cadet 2024
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di rette per coprire i vertici dei quadretti*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of lines to cover the vertices of the squares*
+
+> On a huge square sheet of square paper you want to draw lines, none parallel to the ones that delimit the squares, so that all the vertices of the squares that appear on the sheet are covered by at least one line. What is the smallest number of lines that is sufficient to trace?
+
+[[src_kangourou_2024_cadet_finale__QC6]]

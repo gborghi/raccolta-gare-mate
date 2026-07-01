@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q06
 parent: src_kangourou_2018_koala_marzo
 competition: Kangourou 2018 Gioco Koala (Marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale coccinella e volata via (20 puntini residui)*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AGwjurQUucDfrq-UuV0KeOG7NZtWOZs2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which is cooked and blown away (20 residual dots) < MSK1/>
+
+![[src_kangourou_2018_koala_marzo__prob6.png]]
+
+> One of these cockroaches flies away. The remaining cockroaches have a total of 20 dots. Which little bitch flew away? (see figure)
+>
+> - **(A)** The one on the left.
+> - **(B)** The second one on the right.
+> - **(C)** The one on the right.
+> - **(D)** The second one on the left.
+> - **(E)** The one in the middle.
+
+**Answer:** B
+[[src_kangourou_2018_koala_marzo__Q06]]

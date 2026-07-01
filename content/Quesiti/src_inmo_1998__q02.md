@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1998 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1998__Q02
 parent: src_inmo_1998
 competition: Indian National Mathematical Olympiad 1998
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rationality condition for sum of two square roots*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uAxelJ4GAxypZpM2ox-8kZZSTZuFphZT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Condizione di razionalità per la somma di due radici quadrate*
+
+> $a$ e $b$ siano numeri reali positivi. Prova che se $\sqrt{a} + \sqrt{b}$ è un numero razionale, allora lo sono anche $\sqrt{a}$ e $\sqrt{b}$.
+
+[[src_inmo_1998__Q02]]

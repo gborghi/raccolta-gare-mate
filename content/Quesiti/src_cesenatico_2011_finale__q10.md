@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_finale__Q10
 parent: src_cesenatico_2011_finale
 competition: Gara a Squadre Cesenatico 2011 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di pagare 2011 lingotti con bronzo e rame*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4448
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to pay 2011 bullion with bronze and copper*
+
+> In Britannia, a strange game played between two teams, using balls, clubs and small arrows, is fashionable. Tickets to the final between Londinium and Cambridge cost 2011 bars. How many different ways, using only pieces of bronze and pieces of copper, can Cantorax pay for a ticket without having to receive the rest?
+
+**Answer:** 4448
+[[src_cesenatico_2011_finale__Q10]]

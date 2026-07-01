@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q28
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parita di M e T con M(A-T+A) dispari*
 
@@ -55,3 +58,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pair of M and T with M(A-T+A) odd*
+
+> The letters M, A and T represent as many integers as possible. You know that the expression M x (A - T + A) results in an odd number. Which of the following statements is true? A) Both M and T are even numbers. B) Both M and T are odd numbers. C) Of the two numbers M, T, one is even and the other is odd. D) M is odd, T could be either even or odd. E) M is equal, T could be either equal or odd. The Commission has therefore decided to extend the scope of this Regulation to the following areas:
+> 
+> I'm going to pay. I'm going to pay. 16 16 Kang 2006 Kang
+
+**Answer:** B
+[[src_kangourou_2006_benjamin__Q28]]

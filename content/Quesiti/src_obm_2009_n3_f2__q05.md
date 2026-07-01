@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f2__Q05
 parent: src_obm_2009_n3_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest n < 10000 with 2^n + n divisible by 5*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rfN7WR1PZ66ueGRXD4K4BGaqDvl8IrBK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La più piccola n < 10000 con 2^n + n divisibile per 5*
+
+> Determinare il numero intero più grande $n$ inferiore a $10000$ in modo tale che $2^n + n$ sia divisibile da $5$.
+
+[[src_obm_2009_n3_f2__Q05]]

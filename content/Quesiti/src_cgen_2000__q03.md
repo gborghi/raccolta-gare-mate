@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2000 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2000__Q03
 parent: src_cgen_2000
 competition: Concours Général des Lycées 2000 — Matematica
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Set E of radii R of spheres (H) keeping points B,C strictly outside while sphere (A) lies strictly inside; non-emptiness and least upper bound*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_wcXSU872UGoX0DYiQuqq6oLuR1WtHy0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Set E di raggio R delle sfere (H) mantenendo i punti B,C strettamente all'esterno mentre la sfera (A) si trova strettamente all'interno; non vuoto e il limite superiore minimo*
+
+> Che $A$, $B$, $C$ siano tre punti spaziali separati in coppia, $(A)$ una sfera di centro $A$ e di raggio $r$, e $E$ l'insieme di numeri $R > 0$ in modo tale che esista una sfera $(H)$ del centro $H$ e di raggio $R$ in relazione alla quale i punti $B$ e $C$ sono strettamente esterni (cioè, ad esempio, tali che $HB > R$), e i punti di $(A)$ sono strettamente interni.
+> 
+> 1. In questa domanda, $B$ e $C$ sono allineati e strettamente esterni a $(A)$. Indicare che $E$ non è vuoto e che è limitato sopra. Calcolare il più piccolo dei suoi limiti superiori come funzione dei dati. 2. Determinare una condizione necessaria e sufficiente affinché il $E$ non sia vuoto e sia limitato sopra. 3. Calcolare, quando esiste, il minimo dei limiti superiori di $E$.
+
+[[src_cgen_2000__Q03]]

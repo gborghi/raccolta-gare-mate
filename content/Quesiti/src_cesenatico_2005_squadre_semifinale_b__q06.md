@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_b__Q06
 parent: src_cesenatico_2005_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2005 - Semifinale B
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo in configurazione di triangoli isosceli annidati*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0108
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iFfFchZtZKQhrAMA0KsBO1ZR930Z0xA7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Angle in the configuration of nested isosceles triangles*
+
+> A $ABC$ isosceles triangle in $C$ and a $A'$ point on the $AC$ side so that the $AA'B$ triangle is isosceles in $B$ shall be given. Then $B'$ a point on the $BC$ side and $C'$ the intersection point between $AB'$ and $A'B$. Since the $ABB'$, $AB'C$ and $A'BC$ triangles are also isosceles, calculate the value (in degrees) of the angle $A'C'B'$.
+
+**Answer:** 0108
+[[src_cesenatico_2005_squadre_semifinale_b__Q06]]

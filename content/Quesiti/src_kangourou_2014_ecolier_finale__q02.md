@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale Ecolier — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier_finale__Q02
 parent: src_kangourou_2014_ecolier_finale
 competition: Kangourou 2014 finale Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero sulle facce combacianti dei due dadi*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3 o 4
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eeR5ULKkoZEBoRxzdiK9J7w9p-cjXAx-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number on the matching faces of the two dice*
+
+![[src_kangourou_2014_ecolier_finale__prob2.png]]
+
+> AS BT CU DV
+
+**Answer:** 3 o 4
+[[src_kangourou_2014_ecolier_finale__Q02]]

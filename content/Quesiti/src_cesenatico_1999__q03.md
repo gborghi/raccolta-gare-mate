@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Cesenatico 1999 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_1999__Q03
 parent: src_cesenatico_1999
 competition: Gara Nazionale Cesenatico 1999
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *AB passa per intersezione sse r1+r2=r (cerchi tangenti)*
 
@@ -38,3 +41,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xiVBBYZkZtqAHB0eYNM1QTJV2D_9fS-1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>AB passes through the intersection with r1+r2=r (tangent circles) < MSK1/>
+
+![[src_cesenatico_1999__prob3.png]]
+
+> Three radial circumferences of $\gamma_1, \gamma_2, \gamma_3$ and $0 < r_1 < r_2 < r_3$ respectively shall be $r_1, r_2, r_3$. The circumferences $\gamma_1$ and $\gamma_2$ are tangent internally to $\gamma_3$ at two distinct points $A$ and $B$ and intersect each other at two distinct points. Demonstrate that the $AB$ segment passes through one of the intersection points between $\gamma_1$ and $\gamma_2$ if and only if $r_1 + r_2 = r_3$.
+
+[[src_cesenatico_1999__Q03]]

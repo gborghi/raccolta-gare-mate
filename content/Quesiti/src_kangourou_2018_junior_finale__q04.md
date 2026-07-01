@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Finale Nazionale Junior — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q04
 parent: src_kangourou_2018_junior_finale
 competition: Kangourou 2018 Finale Nazionale Junior
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo N con sacchi (algoritmo euclideo Fibonacci)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0610
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum N with bags (Fibonacci Euclidean Algorithm) < MSK1/>
+
+> In the figure you can see a regular pentagon of which four diagonal lines have been drawn that identify two shaded regions $A$ and $B$. Express the area of $B$ depending on the area of $A$. (see figure)
+
+**Answer:** 0610
+[[src_kangourou_2018_junior_finale__Q04]]

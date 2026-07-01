@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2023__Q05
 parent: src_tfjm_2023
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023
@@ -38,6 +39,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sets of points/polygons with all integer-degree angles; maxima under convexity, concyclicity, collinearity, and two-line constraints*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Zgbgw16aZEai2bo8kAUFHAI-ffQz7IA5/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insiemi di punti/poligoni con tutti gli angoli di gradi interi; massimi sotto convexità, conciclicità, collinearità e restrizioni a due linee*
+
+> Angoli interi (angoli integrali). Per passare il tempo, Emmanuel si diverte disegnando figure geometriche. Ma quando disegna cifre arbitrarie, non può sempre misurare gli angoli con un prolungatore. È fastidioso quando segnala un angolo che non è un numero intero di gradi, cioè non in $\\{0^\\circ, 1^\\circ, \\dots, 360^\\circ\\}$. Dice che un insieme di punti del piano ha angoli interi (aux angles entiers) se per qualsiasi tre punti distinti del set, sia allineati che no, il triangolo che formano (possibilmente appiattito) ha tre angoli interi.\n\n1. Per quale $n \\geqslant 3$ il normale $n$-gon ha angoli interi?\n\nUn poligono è detto convexo se i suoi angoli interni misurano rigorosamente tra $0^\\circ$ e $180^\\circ$.\n\n2. Qual è il massimo $n$ tale che esista un convex $n$-gon con angoli interi? E impone che il poligono non sia regolare? Riprendi la domanda precedente che impone questo:\n a) Quattro punti non sono mai sullo stesso cerchio.\n b) Quattro punti non sono mai contemporaneamente sullo stesso cerchio.\n\n4. Ora imponiamo che i punti formino un poligono convex. Qual è il numero massimo di punti che formano un insieme con angoli interi? La stessa domanda impone allo stesso tempo che non ci sono tre punti allineati e che non più di tre punti sono sullo stesso cerchio. Emmanuel traccia ora due linee parallele distinte e impone che ogni punto sia su una delle due linee. Qual è il numero massimo di punti che formano un insieme con angoli interi sotto questo vincolo? La stessa domanda che impone inoltre che ci siano uguali punti su ogni linea. Emmanuel traccia ora due linee che formano un angolo intero $\\theta$ invece di due linee parallele. Riprendi la domanda precedente come funzione di $\\theta$.\n\n7. Riprendi la domanda precedente se il prolungatore di Emmanuel non è graduato in gradi ma in gradi (un giro completo è $400$ gradi).\n\n8. Proporre e studiare altre linee di ricerca.
+
+![[src_tfjm_2023__Q05.png]]
+
+[[src_tfjm_2023__Q05]]

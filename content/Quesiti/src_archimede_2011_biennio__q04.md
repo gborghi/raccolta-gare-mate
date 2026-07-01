@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Biennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_biennio__Q04
 parent: src_archimede_2011_biennio
 competition: Giochi di Archimede 2011 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie ordinate intere con prodotto 15*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Whole ordered pairs with product 15*
+
+> m and n are two positive integers, such that m −n = 7. How many values between 0 and 2011 (extremes included) can be assumed from m + 5n?
+>
+> - **(A)** 6,
+> - **(B)** 334,
+> - **(C)** 670,
+> - **(D)** 1005,
+> - **(E)** 2012.
+
+**Answer:** E
+[[src_archimede_2011_biennio__Q04]]

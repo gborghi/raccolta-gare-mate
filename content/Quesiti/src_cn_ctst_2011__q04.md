@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2011 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2011__Q04
 parent: src_cn_ctst_2011
 competition: China National Team Selection Test 2011
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove triangle JKM isosceles in orthocenter-Simson line configuration*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove triangolo JKM isosceles nella configurazione della linea orthocenter-Simson*
+
+> Che $H$ sia l'ortocentro di $\triangle ABC$ angolato acuto. Il $P$ deve essere un punto sull'arco $\widehat{BC}$ del circoncircolo di $\triangle ABC$ (non contenente $A$). $PH$ interseca l'arco $\widehat{AC}$ a $M$. Esiste un punto $K$ su $AB$ tale che la riga $KM$ sia parallela alla riga Simson di $P$ rispetto a $\triangle ABC$. Il punto $Q$ deve essere il punto del circoncircolo in modo tale che $QP \perp BC$; l'accordo $KQ$ incroci $BC$ al punto $J$. Provare che $\triangle JKM$ è uguale. (Posizionato da Xiong Bin)
+
+![[src_cn_ctst_b11_w134__Q04.png]]
+
+[[src_cn_ctst_2011__Q04]]

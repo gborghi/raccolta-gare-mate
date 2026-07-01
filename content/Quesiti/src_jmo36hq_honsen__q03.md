@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2026 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo36hq_honsen__Q03
 parent: src_jmo36hq_honsen
 competition: Japan Mathematical Olympiad 2026 — Honsen (Final)
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular m-gon, n red and n blue vertices, no matching red/blue distance; find min m*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oqGtdGx8swPoRbJnrYEkEjUg3BLmmGVE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*M-gon regolare, n vertici rossi e n vertici blu, nessuna distanza corrispondente tra rosso e blu; trovare min m*
+
+> Che $n$ sia un intero con $n \geq 2$ e che $m$ sia un intero con $m \geq 2n$. Selezionare $2n$ vertici distinti di un normale $m$-gon, il colore $n$ di cui rosso e il rimanente $n$ blu, in modo che si verifichi quanto segue:
+> 
+> Non importa come si sceglie due punti rossi distinti e due punti blu distinti, la distanza tra i due punti rossi e la distanza tra i due punti blu non coincidono.
+> 
+> Determinare, in termini di $n$, il minimo valore possibile di $m$ per il quale esiste un tale colorante.
+
+[[src_jmo36hq_honsen__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo36yqa_yosen__Q01
 parent: src_jmo36yqa_yosen
 competition: Japan Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find non-negative integer triples with a^20+b^2+c^6=2026*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (1,36,3)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tripli interi non negativi con a^20+b^2+c^6=2026*
+
+> Trova tutti i triples $(a, b, c)$ di numeri interi non negativi che soddisfano $$a^{20} + b^2 + c^6 = 2026.$$
+
+**Risposta:** (1,36,3)
+[[src_jmo36yqa_yosen__Q01]]

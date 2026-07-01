@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q13
 parent: src_kangourou_2017_cadet_semifinale
 competition: Kangourou 2017 Cadet (semifinale individuale)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *poligono regolare invariante per rotazione di 55*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 72
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*variable regular polygon for rotation of 55*
+
+> (Points 6) A regular polygon of n sides is transformed into itself by a rotation of 55° around its center: what is the minimum value of n that makes this statement true?
+
+**Answer:** 72
+[[src_kangourou_2017_cadet_semifinale__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo22yq_yosen__Q09
 parent: src_jmo22yq_yosen
 competition: Japan Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two players write two integers each; product/sum conditions; find all possible sums of B's numbers*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8, 9, 10, 13, 17, 19, 27
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due giocatori scrivono due interi ciascuno; condizioni prodotto/somma; trovare tutte le possibili somme dei numeri di B*
+
+> I giocatori A e B scrivono ciascuno due numeri interi su una lavagna. Il prodotto dei due numeri di A è il doppio della somma dei due numeri di B, e la somma dei due numeri di A è almeno grande come il prodotto dei due numeri di B. Trova tutti i valori possibili della somma dei due numeri di B. (I quattro numeri scritti non sono necessariamente distinti.)
+
+**Risposta:** 8, 9, 10, 13, 17, 19, 27
+[[src_jmo22yq_yosen__Q09]]

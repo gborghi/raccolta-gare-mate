@@ -1,6 +1,7 @@
 ---
 title: Coppa/Gara di febbraio 2005 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_febbraio_2005__Q15
 parent: src_febbraio_2005
 competition: Coppa/Gara di febbraio 2005
@@ -23,6 +24,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie ordinate (x,y) di interi positivi e relazione x+y(x+y)=2005*
 
@@ -32,3 +35,13 @@ tags:
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ordered pairs (x,y) of positive integers and the ratio x+y(x+y) = 2005*
+
+> How many ordered pairs of positive integers $(x,\, y)$ and $y$ satisfy the $xy + 5(x + y) = 2005$ relationship?
+
+[[src_febbraio_2005__Q15]]

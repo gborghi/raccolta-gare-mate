@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior (18 marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior__Q19
 parent: src_kangourou_2004_junior
 competition: Kangourou 2004 Junior (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto tra i raggi delle due circonferenze*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio between the radii of the two circumferences*
+
+![[src_kangourou_2004_junior__prob19.png]]
+
+> Look at the figure. The circumference of centre C and centre D meet at points A and B. The angle A B measures 60 degrees, while the angle A B measures 90 degrees. What is the relationship between the greater and lesser of the two radii of the circumferences? A) 4:3         B) C) 3:2        D) E)2:1
+
+**Answer:** B
+[[src_kangourou_2004_junior__Q19]]

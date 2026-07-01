@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f1__Q18
 parent: src_obm_2002_n1_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of bottles to empty a tank using a level-vs-bottles table*
 
@@ -53,3 +56,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NviJwQmbmihSaakvq3DJSWhViadj6Z5P/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di bottiglie per svuotare un serbatoio utilizzando una tabella di livello contro bottiglie*
+
+> Un produttore di latte bottiglia ogni giorno l'intera produzione di latte della sua fattoria. Dopo l'imbottigliamento, lascia una parte rimasta nel serbatoio cilindrico, conforme come vediamo nella figura laterale. La tabella mostra la quantità di bottiglie riempite e il livello del latte nel serbatoio. Dopo quante bottiglie il serbatoio sarà vuoto?
+> 
+> Quantità di bottiglie riempite: $0,\ 200,\ 400,\ 600$ Livello del serbatoio (cm): $210,\ 170,\ 130,\ 90$
+> 
+> (A) $1000$ (B) $1050$ (C) $1100$ (D) $1150$ (E) $1200$
+
+![[src_obm_2002_n1_f1__Q18.png]]
+
+**Risposta:** B
+[[src_obm_2002_n1_f1__Q18]]

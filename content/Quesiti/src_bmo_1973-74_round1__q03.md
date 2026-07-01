@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1973-74 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1973-74_round1__Q03
 parent: src_bmo_1973-74_round1
 competition: British Mathematical Olympiad 1973-74 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove no convex polyhedron can have all hexagonal faces*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che nessun poliedro converso può avere tutte le facce esagonali*
+
+> Dimostra che è impossibile che tutti i volti di un poliedro converso siano esagoni.
+
+[[src_bmo_1973-74_round1__Q03]]

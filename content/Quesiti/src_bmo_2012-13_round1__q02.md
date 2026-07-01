@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2012-13 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2012-13_round1__Q02
 parent: src_bmo_2012-13_round1
 competition: British Mathematical Olympiad 2012-13 — Round 1
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two touching circles, common tangent, diameter; prove collinearity*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi in contatto, tangente comune, diametro; dimostrare collinearità*
+
+> Due cerchi $S$ e $T$ si toccano a $X$. Hanno una tangente comune che incontra $S$ a $A$ e $T$ a $B$. I punti $A$ e $B$ sono diversi. Il diametro di $AP$ deve essere di $S$. Provare che $B$, $X$ e $P$ si trovano su una linea retta.
+
+[[src_bmo_2012-13_round1__Q02]]

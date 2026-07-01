@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Finale Nazionale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_finale__Q01
 parent: src_squadre_2023_finale
 competition: Gara a Squadre 2023 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima minima differenza tra minions consecutivi in fila*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5000
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum difference between consecutive minions in a row*
+
+> 10,000 minions in a row Krull is a supervillain criminal, but with a good spirit... Today he's upset because he thinks he hasn't been able to steal the moon yet! To relax, he likes to think about mathematical problems. He then goes down to his lab and takes 10,000 minions, his trusted assistants, numbered from 1 to 10,000. Then he decides to line them up so that the smallest of the 9999 absolute value differences between the numbers of two consecutive minions is as large as possible. How much is this difference worth?
+
+**Answer:** 5000
+[[src_squadre_2023_finale__Q01]]

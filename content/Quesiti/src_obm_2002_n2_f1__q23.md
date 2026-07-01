@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f1__Q23
 parent: src_obm_2002_n2_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *False proof that 4>4 using square roots; identify step with the error*
 
@@ -65,3 +68,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Falsa prova che 4>4 utilizzando radici quadrate; identificare il passo con l'errore*
+
+> Considerate il seguente argomento che pretende di dimostrare che $4 > 4$. Selezionare $a = b$ con $a > 4$.
+>
+> 1) Sottoprendere $4$ da entrambe le parti di $a = b$: $$a - 4 = b - 4$$ 2) Il fattore $-1$ sul lato destro: $$a - 4 = -1 \cdot (-b + 4) = -(b - 4)$$ 3) Quadratare entrambe le parti: $$(a-4)^2 = [-(b-4)]^2 = (4-b)^2$$ 4) Prendere la radice quadrata di entrambe le parti: $$\sqrt{(a-4)^2} = \sqrt{(4-b)^2}$$ 5) Dal momento che $a = b$, sostituire $b$ con $a$: $$a - 4 = 4 - a$$ 6) Risolvere l'equazione: $$2a = 8 \implies a = 4$$
+>
+> Dal momento che abbiamo scelto $a > 4$, arriviamo alla conclusione assurda $4 > 4$. Dov'è l'errore?
+>
+> - **(A)** Nel secondo passo.
+> - **(B)** In fase 3.
+> - **(C)** Nel passaggio 4.
+> - **(D)** Nel passo 5.
+> - **(E)** In fase 6.
+
+**Risposta:** C
+[[src_obm_2002_n2_f1__Q23]]

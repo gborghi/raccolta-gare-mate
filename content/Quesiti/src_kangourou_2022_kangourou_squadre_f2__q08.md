@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre_f2__Q08
 parent: src_kangourou_2022_kangourou_squadre_f2
 competition: Kangourou Squadre 2022 Kangourou Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo candidati per due con stesso punteggio*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0057
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum candidates for two with the same score*
+
+> Candidates A test consists of 10 questions numbered 1 to 10. A candidate receives a positive or negative score that matches the order number of the question, depending on whether he or she answers correctly or incorrectly, respectively. (For example, by correctly answering question n. 5 points will be earned, 5 points will be lost if the answer is incorrect or no answer is given.) To be sure that there are at least two candidates scoring the same score, how many candidates must be at least?
+
+**Answer:** 0057
+[[src_kangourou_2022_kangourou_squadre_f2__Q08]]

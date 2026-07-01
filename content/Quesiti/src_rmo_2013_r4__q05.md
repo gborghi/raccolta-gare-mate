@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 4 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r4__Q05
 parent: src_rmo_2013_r4
 competition: Regional Mathematical Olympiad 2013
@@ -31,6 +32,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC with orthocentre H; circumcircles of ACP and ABP meet line CH at R; H is incentre of PQR*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A3xPqFuv-0CPhkgiaHaPOWIfaJVs8RuK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Triangolo ABC con ortrocentro H; circoncircoli di ACP e ABP incontrano la linea CH a R; H è centro di PQR< MSK1/>
+
+> In un triangolo $ABC$, $H$ indichi il suo centro ortodosso. $P$ sia il riflesso di $A$ rispetto a $BC$. Il circoncircolo del triangolo $ABP$ incrocia di nuovo la linea $BH$ a $Q$, e il circoncircolo del triangolo $ACP$ incrocia di nuovo la linea $CH$ a $R$. Prova che $H$ è l'incentro del triangolo $PQR$.
+
+[[src_rmo_2013_r4__Q05]]

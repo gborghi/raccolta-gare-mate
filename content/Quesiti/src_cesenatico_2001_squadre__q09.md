@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2001_squadre__Q09
 parent: src_cesenatico_2001_squadre
 competition: Gara Nazionale a Squadre Cesenatico 2001
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di mucchi di pietre con unione e divisione*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0735
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of piles of stones with union and division*
+
+> This appropriation is intended to cover expenditure relating to:
+> 
+> Here's another one. The following operations are permitted: two can be joined and one can be divided into two equal piles (if the number of its stones is equal). Assuming Obob leaves with 3 piles made of 441, 1437, and 327 stones respectively, what is the maximum number of piles he can come up with?
+
+**Answer:** 0735
+[[src_cesenatico_2001_squadre__Q09]]

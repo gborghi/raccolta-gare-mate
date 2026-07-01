@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2012 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2012__Q05
 parent: src_cn_ctst_2012
 competition: China National Team Selection Test 2012
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max length of total displacement vector for beetles on 2012×2012 board*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** $2 \times 1006^3$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza massima del vettore di spostamento totale per gli scarafaggi sul tabellone 2012×2012*
+
+> Supponiamo che ci siano scarafaggi su una scacchiera composta da quadrati unitari $2012 \times 2012$. Ogni quadrato può ospitare al massimo un scarafaggio. In un istante, tutti gli scarafaggi volano e atterrano di nuovo sulla scacchiera. Per un scarafaggio, chiamiamo il vettore dalla sua unità di volo alla sua unità di atterraggio il "vettore di spostamento" del scarafaggio. Chiamiamo la somma di tutti i "vettor di spostamento" del scarafaggio "vettor di spostamento totale". Trova la lunghezza massima del "vettore di spostamento totale" considerando il numero di scarafaggi e tutte le posizioni possibili di volo e atterraggio.
+> 
+> (Posizionato da Qu Zhenhua)
+
+**Risposta:** $2 \times 1006^3$
+[[src_cn_ctst_2012__Q05]]

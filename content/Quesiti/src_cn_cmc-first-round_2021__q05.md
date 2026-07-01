@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q05
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with AB=1, AC=2, B-C=2π/3; find area.*
 
@@ -45,3 +48,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con AB=1, AC=2, B-C=2π/3; area di ricerca.*
+
+> [Test paper A, problema 5] In $\triangle ABC$, $AB=1$, $AC=2$, $B-C=\dfrac{2\pi}{3}$. Quindi la superficie di $\triangle ABC$ è ______.
+
+**Risposta:** \dfrac{5\sqrt{3}}{14}
+[[src_cn_cmc-first-round_2021__Q05]]

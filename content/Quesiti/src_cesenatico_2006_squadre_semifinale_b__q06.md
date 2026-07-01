@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_b__Q06
 parent: src_cesenatico_2006_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2006 - Semifinale B
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *9000-esimo intero che non e ne quadrato ne cubo*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9111
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>9000th integer other than squared < MSK1/>
+
+> At the divination lesson, Hardy and Ron were again bitten to chat during the boring divination lesson. For punishment , they must solve an exercise: given sequence 2, 3, 5, 6, 7, 10, 11. .. , made up of all positive integers that are not n squares n cubes of other integers, predict the 9,000th term. Team competition 2006  Semifinal B Problem tests  Pag. 1 di 2
+> 
+> I'm going to pay. 2 out of 2  Team competition 2006  Semifinal B Problem tests
+
+**Answer:** 9111
+[[src_cesenatico_2006_squadre_semifinale_b__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r3__Q04
 parent: src_pol_1997_r3
 competition: Olimpiade Matematica Polacca 1997 — Round 3
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence with a_1=0, a_n = a_{floor(n/2)} + (-1)^{n(n+1)/2}; count indices n in [2^k, 2^{k+1}) with a_n=0.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PdUGPXA4h0kRnc6_JAc7ObCdV2yreLSM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza con a_1=0, a_n = a_{floor(n/2)} + (-1)^{n(n+1)/2}; indici di conteggio n in [2^k, 2^{k+1}) con a_n=0.*
+
+> Considera la sequenza data da $a_1 = 0$ e $a_n = a_{\lfloor n/2 \rfloor} + (-1)^{\frac{n(n+1)}{2}}$ per $n > 1$. Per ogni numero intero $k \geq 0$, trovare il numero di indici $n$ con $2^k \leq n < 2^{k+1}$ tale che $a_n = 0$.
+
+[[src_pol_1997_r3__Q04]]

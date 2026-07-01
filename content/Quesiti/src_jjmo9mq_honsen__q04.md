@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2011 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo9mq_honsen__Q04
 parent: src_jjmo9mq_honsen
 competition: Japan Junior Mathematical Olympiad 2011 — Honsen (Final)
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer pairs p,q allowing indefinite blackboard operation avoiding multiples*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQFXoo9rN8C_YkZobTc_GDXqyqB1KsjQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di integri positivi p,q che consentono un'operazione di scheda nera indefinita evitando i multipli*
+
+> Lasciate che $p$ e $q$ siano integri positivi. In primo luogo, scrivere il numero intero $1$ su una lavagna e poi ripetere la seguente operazione:
+> 
+> \textbf{Operazione:} Scegli uno di $p$ o $q$ e scrivi sulla lavagna il numero ottenuto aggiungendo il valore scelto al numero attualmente sulla lavagna.
+> 
+> Trova tutte le coppie $(p, q)$ di numeri interi positivi per le quali è possibile ripetere l'operazione a tempo indeterminato (per qualsiasi numero di passaggi, in qualsiasi ordine di scelte) senza mai scrivere un multiple di $p$ o un multiple di $q$ sulla scheda nera.
+
+[[src_jjmo9mq_honsen__Q04]]

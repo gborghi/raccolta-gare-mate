@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2010 — Quesito
   16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2010__Q16
 parent: src_bocconi_finalenaz_2010
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2010
@@ -38,6 +39,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giardino triangolare con angolo doppio ottuso: perimetro minimo*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 77
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangular garden with double corner enclosure: minimum perimeter*
+
+> Rosi has a triangular garden in which one corner is twice the other, while the third is an octagonal corner. The measurement of the three sides is given by an integer number of meters.
+> 
+> What is the minimum perimeter of Rosi's garden?
+
+**Answer:** 77
+[[src_bocconi_finalenaz_2010__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 28
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q28
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest n<30 with (n^8+3n^4-4)/2 squarefree*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N<30 più piccolo con (n^8+3n^4-4)/2 libero da quadrati*
+
+> Trova il più grande intero positivo $n < 30$ in modo che $\frac{1}{2}(n^8 + 3n^4 - 4)$ non sia divisibile per il quadrato di qualsiasi numero primo.
+
+[[src_ioqm_2024__Q28]]

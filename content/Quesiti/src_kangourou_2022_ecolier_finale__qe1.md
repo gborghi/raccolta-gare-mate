@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier finale individuale — Quesito E1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__QE1
 parent: src_kangourou_2022_ecolier_finale
 competition: Kangourou 2022 Ecolier finale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo mosse per uniformare i 9 gettoni bicolori*
 
@@ -55,3 +58,32 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum moves to unify the 9 bicolor tokens*
+
+![[src_kangourou_2022_ecolier_finale__probE1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \filldraw[fill=black, draw=black] (0,0) circle (0.45);
+  \filldraw[fill=white, draw=black, thick] (1.2,0) circle (0.45);
+  \filldraw[fill=black, draw=black] (2.4,0) circle (0.45);
+  \filldraw[fill=white, draw=black, thick] (0,-1.2) circle (0.45);
+  \filldraw[fill=white, draw=black, thick] (1.2,-1.2) circle (0.45);
+  \filldraw[fill=white, draw=black, thick] (2.4,-1.2) circle (0.45);
+  \filldraw[fill=black, draw=black] (0,-2.4) circle (0.45);
+  \filldraw[fill=white, draw=black, thick] (1.2,-2.4) circle (0.45);
+  \filldraw[fill=black, draw=black] (2.4,-2.4) circle (0.45);
+\end{tikzpicture}
+\end{document}
+```
+
+> On a table, there are nine tokens, white on one face and black on the other. The icons are arranged squarely over three rows and show their faces as shown in the figure. A game consists of trying to get all the tokens to show the same colour, white or black faces, performing only moves that consist of flipping all three tokens of the same line or column or diagonal, and being able to choose from move to move. What's the smallest number of moves to finish the game? (see figure)
+
+**Answer:** 2
+[[src_kangourou_2022_ecolier_finale__QE1]]

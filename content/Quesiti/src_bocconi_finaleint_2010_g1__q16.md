@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 1) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g1__Q16
 parent: src_bocconi_finaleint_2010_g1
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare il fattore moltiplicativo di una sequenza ciclica con operazioni di rimozione cifra o moltiplicazione.*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 10 soluzioni: 205, 206, 207, 208, 209, 255, 256, 257, 258, 259
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Finding the multiplier of a cyclic sequence with digit removal or multiplication operations.*
+
+> In the sense of a clock's hands, one moves from one number to the next: $\bullet$ by removing one digit from it (if it has at least two), without changing the order of the others when they are more than one; $\bullet$ or by multiplying it by an integer factor, always the same. What's the multiplier? All numbers are integers (not zeros), their writing never begins with $0$. In the figure, two given boxes contain $20$ and $10$.
+
+![[src_bocconi_finaleint_2010_g1__Q16.png]]
+
+**Answer:** 10 soluzioni: 205, 206, 207, 208, 209, 255, 256, 257, 258, 259
+[[src_bocconi_finaleint_2010_g1__Q16]]

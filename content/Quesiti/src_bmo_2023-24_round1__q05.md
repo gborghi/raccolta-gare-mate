@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2023-24 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2023-24_round1__Q05
 parent: src_bmo_2023-24_round1
 competition: British Mathematical Olympiad 2023-24 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum faults for 1000 red-blue dots on a circle*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di errori per 1000 punti rosso-blu su un cerchio*
+
+> Un artista organizza 1000 punti uniformemente intorno a un cerchio, con ogni punto rosso o blu. Un critico guarda i 1000 punti e conta *errori*: ogni volta che due punti rossi adiacenti sono un errore, e ogni volta che due punti blu sono esattamente due separati (cioè hanno esattamente un punto tra di loro) è un altro.
+> 
+> Qual è il minor numero di difetti che il critico potrebbe trovare?
+
+[[src_bmo_2023-24_round1__Q05]]

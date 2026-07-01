@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q11
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perimeter of L-shape formed by two overlapping paper strips*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Perimetro di forma L formato da due strisce di carta sovrapposte*
+
+> Due strisce di carta rettangolare, lunghe 20 cm, larghe 5 cm e larghe 11 cm, sono incollate perpendicolare per formare la figura illustrata lateralmente. Qual è il perimetro di questa figura, in centimetri?
+>
+> - **(A)** 50
+> - **(B)** 60
+> - **(C)** 80
+> - **(D)** 100
+> - **(E)** 120
+
+![[src_obm_2006_n1_f1__Q11.png]]
+
+**Risposta:** C
+[[src_obm_2006_n1_f1__Q11]]

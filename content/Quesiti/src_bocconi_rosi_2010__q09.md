@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2010 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2010__Q09
 parent: src_bocconi_rosi_2010
 competition: Giochi di Rosi 2010
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età media festa con ragazze doppio dei ragazzi*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 16 anni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pwjn1M0F1YSZ60SMZmZPXENHZGd98Xmt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Middle-aged party with girls double boys
+
+> There's a lot of guys at a party, but there's twice as many girls. Their average age is < MSK0/> years, while that of boys is < MSK1/> years.
+> 
+> **What is the average age of all party participants?**
+
+**Answer:** 16 anni
+[[src_bocconi_rosi_2010__Q09]]

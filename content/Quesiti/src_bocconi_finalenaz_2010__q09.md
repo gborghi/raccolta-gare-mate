@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2010 — Quesito
   9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2010__Q09
 parent: src_bocconi_finalenaz_2010
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2010
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eleven: intero uguale a 11 volte la somma delle sue cifre*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 198
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Eleven: an integer equal to 11 times the sum of its digits*
+
+> Elena found an integer (which she called "eleven") that is equal to 11 times the sum of its digits.
+> 
+> Who is it?
+
+**Answer:** 198
+[[src_bocconi_finalenaz_2010__Q09]]

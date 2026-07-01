@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q06
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero di anelli non e ottenibile con catene 5 e 7*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which number of rings is not achievable with chains 5 and 7*
+
+> Luigi has several chains, some made up of five rings, others of seven. By joining them together, but without breaking them, Louis can form chains with a greater number of rings, but he cannot form a chain with A) 10 rings. B) 12 rings. C) 13 rings. D) 14 rings. E) 15 rings.
+
+**Answer:** C
+[[src_kangourou_2020_benjamin_marzo__Q06]]

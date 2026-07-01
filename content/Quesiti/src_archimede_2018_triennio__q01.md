@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Triennio (T1) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_triennio__Q01
 parent: src_archimede_2018_triennio
 competition: Giochi di Archimede 2018 - Triennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Indicare la piu grande tra cinque frazioni*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Include the largest of the five fractions< MSK1/>
+
+> Indicate the largest of these fractions.
+>
+> - **(A)** 2018 2011
+> - **(B)** 2016 2009
+> - **(C)** 2020 2013
+> - **(D)** 2019 2012
+> - **(E)** 2025 2018
+
+**Answer:** B
+[[src_archimede_2018_triennio__Q01]]

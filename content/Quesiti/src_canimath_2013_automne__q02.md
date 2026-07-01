@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2013 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2013_automne__Q02
 parent: src_canimath_2013_automne
 competition: Coupe Animath Automne 2013
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count afternoon naps given constraints over 15-day observation*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Contare i sonnellini pomeridiani con limitazioni durante l'osservazione di 15 giorni< MSK1/>
+
+> Durante un certo numero di giorni, si osservò che ogni giorno in cui pioveva al mattino pioveva anche al pomeriggio, e che ogni giorno in cui pioveva al pomeriggio era stato buono al mattino. Durante il periodo di osservazione, è piovuto < MSK0/> giorni, ci sono state < MSK1/> buone mattine e < MSK2/> buoni pomeriggi.
+> 
+> Quante sonnelline di pomeriggio ha piovuto? (cioè, quante pomeriggi piovosi c'erano?)
+
+**Risposta:** 7
+[[src_canimath_2013_automne__Q02]]

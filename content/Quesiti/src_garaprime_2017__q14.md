@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2017 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2017__Q14
 parent: src_garaprime_2017
 competition: Gara Nazionale Classi Prime 2017
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti quadrati perfetti dividono 16!*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many perfect squares divides 16?
+
+> Whether N = 16!, i.e. N = 16 · 15 · 14 · . . . · 3 · 2 · 1. How many perfect squares divide N? A 128 B 36 C 144 D 48 E 64 F 96
+
+**Answer:** A
+[[src_garaprime_2017__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2003 - Biennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_biennio__Q18
 parent: src_archimede_2003_biennio
 competition: Giochi di Archimede 2003 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli non degeneri con vertici in sei punti dati*
 
@@ -61,3 +64,34 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Non-degenerate triangles with vertices at six data points*
+
+![[src_archimede_2003_biennio__prob18.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \fill (0,0) circle (3pt);
+  \fill (1,0) circle (3pt);
+  \fill (0,1) circle (3pt);
+  \fill (1,1) circle (3pt);
+  \fill (0,2) circle (3pt);
+  \fill (1,2) circle (3pt);
+\end{tikzpicture}
+\end{document}
+```
+
+> They are given six points arranged as shown in the figure next to each other. How many possible non-degenerate triangles have their vertices at three of the data points?
+>
+> - **(A)** 12
+> - **(B)** 15
+> - **(C)** 16
+> - **(D)** 18
+> - **(E)** 24.      
+
+[[src_archimede_2003_biennio__Q18]]

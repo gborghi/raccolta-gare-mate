@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier__Q03
 parent: src_kangourou_2023_ecolier
 competition: Kangourou 2023 Ecolier — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *coppia possibile*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bDY_Y5qtxjaNx_dh5X8llzlndfmVtNwJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>possible pair< MSK1/>
+
+![[src_kangourou_2023_ecolier__prob3.png]]
+
+> The figure shows the dial of a clock and what Sarah sees after she overlaps it with a dark circle with two holes. Now Sara rotates the circle around her center. Which of these number pairs can you possibly see in the holes after rotation? A) 4 e 9 B) 5 e 9 C) 5 e 10 D) 6 e 9 E) 7 e 12
+
+**Answer:** B
+[[src_kangourou_2023_ecolier__Q03]]

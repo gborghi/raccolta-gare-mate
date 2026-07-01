@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2021_squadre__Q06
 parent: src_gsm_2021_squadre
 competition: Gara a Squadre GSM (locale Genova) 2021
@@ -32,6 +33,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Resto modulo 6 di termine di successione ricorrente*
 
@@ -62,3 +65,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0002
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Remaining Form 6 of recurring term of succession*
+
+> The Thuile Andrea Giusto Vlada is skiing in La Thuile. He descends from the saddle and heads towards the Berthod, Italy's steepest slope, but at the start of the same a ski master barrows the road. Master Ferma! Where would you like to go? I'm sorry, I just wanted to enjoy a ski trip. Master Ah, don't you know? Since this year, in order to preserve the snow on this track, we have decided to restrict the entrance: only those who can correctly answer a mathematical question can enter. Vlada (Curious about this situation) Come on then, I'm ready to answer! Master (Assumes a very serious unaria) Si (an) and (bn) are two successions defined by recurrence such that a0 = 5, an+1 = an · bn, b0 = 1 and bn+1 = bn + n + 1. What's the rest of a2021 in division by six? It's harder than I thought!
+
+**Answer:** 0002
+[[src_gsm_2021_squadre__Q06]]

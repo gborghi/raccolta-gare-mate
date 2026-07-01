@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q12
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *cubetti bianchi*
 
@@ -39,3 +42,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>white cubes< MSK1/>
+
+![[src_kangourou_2015_marzo_preecolier__prob12.png]]
+
+> Six towers were built with grey and white cubes (see figure). Each tower is made of five cubes. Cubes of the same color don't touch. How many white cubes are there?
+> 
+> (A) $10$ (B) $11$ (C) $12$ (D) $18$ (E) $30$
+
+**Answer:** C
+[[src_kangourou_2015_marzo_preecolier__Q12]]

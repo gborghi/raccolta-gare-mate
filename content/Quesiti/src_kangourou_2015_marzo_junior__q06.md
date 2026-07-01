@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Junior — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q06
 parent: src_kangourou_2015_marzo_junior
 competition: Kangourou 2015 gara 19 marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle unita di 2015^2+2015^0+2015^1+2015^5*
 
@@ -53,3 +56,23 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lv8vPzK3uXmG94tNsM2uWmmnksIo2fLI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total amount of unemployment over the period considered.
+
+> What is the number of units of the number 20152 + 20150 + 20151 + 20155? A) 1
+> 	
+> B) 5
+> 	
+> C) 6
+> 	
+> D) 7
+> 	
+> E) 9 A) B) C) D) E)
+>
+
+**Answer:** C
+[[src_kangourou_2015_marzo_junior__Q06]]

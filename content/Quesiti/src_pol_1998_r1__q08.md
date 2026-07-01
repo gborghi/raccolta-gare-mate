@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1998 — Round 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1998_r1__Q08
 parent: src_pol_1998_r1
 competition: Olimpiade Matematica Polacca 1998 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of a convex polyhedron with k edges and a plane cutting r edges with 3r>2k*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di un poliedro convexo con bordi k e di un piano di taglio con bordi r con 3r>2k*
+
+> Determinare se esiste un poliedro converso con bordi $k$ e un piano che non attraversa alcuna vertice e taglia bordi $r$ in modo tale da $3r > 2k$.
+
+[[src_pol_1998_r1__Q08]]

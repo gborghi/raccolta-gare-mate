@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2024 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_automne__Q08
 parent: src_canimath_2024_automne
 competition: Coupe Animath Automne 2024
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute 1/x + 1/y given x+y = 2024xy*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2024
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcola 1/x + 1/y data x+y = 2024xy*
+
+> $x$ e $y$ siano numeri reali non zero come $x + y = 2024xy$. Calcolo < MSK0/>
+> 
+> Qui si aspetta solo una risposta numerica.
+
+**Risposta:** 2024
+[[src_canimath_2024_automne__Q08]]

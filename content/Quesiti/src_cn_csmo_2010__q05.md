@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2010 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2010__Q05
 parent: src_cn_csmo_2010
 competition: China Southeastern Mathematical Olympiad 2010
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right triangle with midpoint of two interior points; prove harmonic-mean inequality for ratios*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo retto con punto medio di due punti interni; dimostrare la disuguaglianza di media armonica per i rapporti*
+
+> Come mostrato nella figura. 5.1. Il $C$ deve essere l'angolo retto di $\triangle ABC$. Che $M_1$ e $M_2$ siano due punti arbitrari all'interno di $\triangle ABC$, e che $M$ sia il punto medio di $M_1 M_2$. Le estensioni di $BM_1$, $BM_2$ e $BM$ si incrociano rispettivamente a $N_1$, $N_2$ e $N$. Provare che < MSK0/>
+
+![[src_cn_csmo_b11_w277__Q05.png]]
+
+[[src_cn_csmo_2010__Q05]]

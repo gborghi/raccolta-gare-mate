@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q04
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di a in progressione aritmetica*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Value of a in arithmetic progression< MSK1/>
+
+> a, b, c, d, and are five numbers in arithmetic progression. We know that b is 5.5 and e is 10. How much is it worth? A) 0,5 B) 3 C) 4 D) 4,5 E) 5
+
+**Answer:** C
+[[src_kangourou_2006_student_marzo__Q04]]

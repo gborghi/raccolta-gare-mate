@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2024 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2024__Q03
 parent: src_inmo_2024
 competition: Indian National Mathematical Olympiad 2024
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Odd prime p divides sum of powers of integers a,b,c*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D0Zw8xFmfCMQngEWwZiI2BY1LTiLM4r7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Odd primo p divide la somma delle potenze dei numeri interi a, b, c*
+
+> Che $p$ sia un numero primo impar e $a, b, c$ un numero intero in modo che tutti i numeri interi $$a^{2021} + b^{2023},\quad a^{2023} + c^{2021},\quad a^{2025} + c^{2025}$$ siano divisibili da $p$. Provare che $p$ divide ciascuno di $a, b, c$.
+
+[[src_inmo_2024__Q03]]

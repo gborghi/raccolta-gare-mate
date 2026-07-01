@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q12
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ratio of area of equilateral triangle to regular hexagon with same perimeter*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ratio di superficie di triangolo equilaterale a esagono regolare con lo stesso perimetro*
+
+> Un triangolo equilaterale e un esagono regolare hanno lo stesso perimetro. Il rapporto tra l'area del triangolo e l'area dell'esagono è:
+> 
+> **A) ** $\dfrac{1}{2}$ \quad **B) ** $1$ \quad **C) ** $\dfrac{2}{3}$ \quad **D) ** $\dfrac{3}{2}$ \quad **E) ** $\dfrac{1}{3}$
+
+**Risposta:** C
+[[src_obm_2006_n2_f1__Q12]]

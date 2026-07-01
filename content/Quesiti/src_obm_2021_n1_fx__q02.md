@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2021 — Nível 1 — Fase x — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2021_n1_fx__Q02
 parent: src_obm_2021_n1_fx
 competition: Olimpíada Brasileira de Matemática 2021 — Nível 1 — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count triples of positive integers with divisibility conditions*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10RcAE6sTt-lvUTcmg157vdVd4ZjysYzW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare triples di numeri interi positivi con condizioni di divisibilità*
+
+> Quanti triples di integri positivi $(a, b, c)$ con $a < b < c$ sono tali che $a$ sia un divisore di $b$, $b$ sia un divisore di $c$ e $a + b + c \le 20$?
+
+[[src_obm_2021_n1_fx__Q02]]

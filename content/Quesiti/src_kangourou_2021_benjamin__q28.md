@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q28
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti con almeno una riga rossa sulle diagonali*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cubets with at least one red line on the diagonals*
+
+> A cube has a length of 7 cm and consists of many cubes with a length of 1 cm attached to each other. On each of the faces of the larger cube were drawn the two diagonals with a red pennant. How many cubes have at least one face with at least one red line on it? A) 54
+> 	
+> B) 62
+> 	
+> C) 70
+> 	
+> D) 78
+> 	
+> E) 86
+
+**Answer:** B
+[[src_kangourou_2021_benjamin__Q28]]

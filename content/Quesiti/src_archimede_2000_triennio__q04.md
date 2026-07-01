@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Triennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_triennio__Q04
 parent: src_archimede_2000_triennio
 competition: Giochi di Archimede 2000 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tra quanti anni l'eta padre eguaglia somma eta figli*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Between the ages of the father and the sum of the children
+
+> A father is 46 years old and the sum of the ages of his three children is 22. By how many years will the father's age be equal to the sum of the children's ages?
+>
+> - **(A)** 6
+> - **(B)** 8
+> - **(C)** 10
+> - **(D)** 12
+> - **(E)** I never did.
+
+**Answer:** D
+[[src_archimede_2000_triennio__Q04]]

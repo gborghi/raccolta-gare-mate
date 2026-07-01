@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1977-78 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1977-78_round1__Q05
 parent: src_bmo_1977-78_round1
 competition: British Mathematical Olympiad 1977-78 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inside a 15-unit cube, find least 6 points with unit radius sphere covering all*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*All'interno di un cubo di 15 unità, trovare almeno 6 punti con sfera di raggio unitario che copra tutti*
+
+> All'interno di un cubo di 15 unità laterali ci sono 11000 punti dati.
+> 
+> Prove che esiste una sfera di raggio unitario all'interno della quale ci sono almeno 6 dei punti dati.
+
+[[src_bmo_1977-78_round1__Q05]]

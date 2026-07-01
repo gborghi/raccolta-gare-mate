@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q21
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum distance in metres between ladybird (30 cm/min along QR) and spider (40 cm/min along RT) in 10 m square garden*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di distanza in metri tra la galleggia (30 cm/min lungo la QR) e l'araigno (40 cm/min lungo la RT) in giardino quadrato di 10 m*
+
+> In un giardino quadrato $PQRT$ di lato $10\,\text{m}$, una galleggia parte da $Q$ e si muove lungo il bordo $QR$ a $30\,\text{cm}$ al minuto. Allo stesso tempo, un ragno parte da $R$ e si muove lungo il bordo $RT$ a $40\,\text{cm}$ al minuto.
+> 
+> Qual è la distanza più corta tra di loro, in metri?
+>
+> - **(A)** 5
+> - **(B)** 6
+> - **(C)** $5\sqrt{2}$
+> - **(D)** 8
+> - **(E)** 10
+
+![[src_smc_2019__Q21.png]]
+
+**Risposta:** D
+[[src_smc_2019__Q21]]

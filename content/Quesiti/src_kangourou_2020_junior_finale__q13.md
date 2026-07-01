@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2020 Finale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_finale__Q13
 parent: src_kangourou_2020_junior_finale
 competition: Kangourou Coppa Junior squadre 2020 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte ha vinto Martino in 7 giorni*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0015
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1FHlXv6XSZu8CigCMt0qnx7UwdUaiE9UP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many times did Martino win in 7 days?
+
+> At the casino, Martino plays in a casino. He developed a method that consisted of playing 5 times in a row one euro on the first day, 5 times in a row 5 € on the second day, 5 times in a row 25 € on the third day, 5 times in a row 125 € on the fourth day and so on, continuing to multiply the bet by 5 until the seventh day. If he wins a game, he's given the bet twice the same bet, while if he loses, he loses the bet. He's never seen him win or lose. After 7 days of playing, Martino earned €22,066. How many times have you won in the last seven days?
+
+**Answer:** 0015
+[[src_kangourou_2020_junior_finale__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (gara marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q03
 parent: src_kangourou_2016_ecolier_marzo
 competition: Kangourou 2016 Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *condivise con 5 amiche, mezza ciascuna*
 
@@ -43,3 +46,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*shared with 5 friends, half each*
+
+> Anna brought some apples to school and shared them with five friends. Each girl ate half an apple. How many apples did Anna bring? (A) 2 and a half (B) 3
+> 	
+> C) 3 and a half D) 4
+> 	
+> E) 5
+
+**Answer:** B
+[[src_kangourou_2016_ecolier_marzo__Q03]]

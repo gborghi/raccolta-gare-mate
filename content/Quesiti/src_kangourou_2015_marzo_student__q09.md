@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q09
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *relazione*
 
@@ -53,3 +56,21 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total amount of the loan.
+
+![[src_kangourou_2015_marzo_student__prob9.png]]
+
+> The diameters of three semicircles are the sides of a right triangle. The areas of the semicircles are X cm2, Y cm2 and Z cm2, in the order shown in the figure. Which of the following reports must necessarily be verified? A) X + Y < Z
+> 	
+> B) √ X + √ Y = √ Z C) X + Y = Z
+> 	
+> D) X 2 + Y 2 = Z 2 E) X 2 + Y 2 = Z ⇒ X Y Z
+>
+
+**Answer:** C
+[[src_kangourou_2015_marzo_student__Q09]]

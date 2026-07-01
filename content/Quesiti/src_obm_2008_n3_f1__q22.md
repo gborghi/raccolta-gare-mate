@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q22
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cone of height 5cm filled with sand to 3cm, then inverted; find sand level height*
 
@@ -45,3 +48,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cono di altezza di 5 cm riempito di sabbia a 3 cm, poi invertito; trova l'altezza del livello di sabbia*
+
+> Il giocattolo preferito di Cicerone è un cono di vetro retto di $5$ cm di altezza. Cicero ha riempito il cono di sabbia fino a una altezza di < MSK1/> cm, come mostrato alla figura 1. Poi Cicerone chiuse la base del cono e lo girò a testa in giù, come indicato nella figura 2. A che altezza dalla base del cono, in cm, si trova il segno di sabbia?
+> 
+> (A) $1$ (B) $2$ (C) $5 - \sqrt[3]{98}$ (D) $\sqrt[3]{98}$ (E) $1 - \dfrac{\sqrt[3]{98}}{5}$
+
+![[src_obm_2008_n3_f1__Q22.png]]
+
+[[src_obm_2008_n3_f1__Q22]]

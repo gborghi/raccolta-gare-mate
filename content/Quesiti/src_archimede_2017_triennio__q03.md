@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Triennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_triennio__Q03
 parent: src_archimede_2017_triennio
 competition: Giochi di Archimede 2017 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle decine di H = somma fattoriali*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WbKYlCGmnvn3EnNy8PHpDbjgy_2zTYne/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of decimal places of H = factor sums< MSK1/>
+
+> With the symbol n! the product of positive integers from 1 to n, for example: 4! = 1 · 2 · 3 · 4. Let's say the number H is equal to 1. + 2! + 3! + 4! + ... + 2016! + 2017! (a sum with 2017 pluses). What's the number of tens of H?
+>
+> - **(A)** 5
+> - **(B)** 7
+> - **(C)** 1
+> - **(D)** 3
+> - **(E)** 6
+
+**Answer:** C
+[[src_archimede_2017_triennio__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q15
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Il piu grande di due numeri (somma 77)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>The largest of two numbers (sum of 77) < MSK1/>
+
+> The sum of two positive integers is 77. The smaller of the two times 8 gives the same result as the other times 6. How much is the larger of the two numbers? A) 33 B) 39 C) 43 D) 44         E) 54
+
+**Answer:** D
+[[src_kangourou_2004_benjamin__Q15]]

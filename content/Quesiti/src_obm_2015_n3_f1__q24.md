@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q24
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum x+y for positive integers satisfying a given rational equation*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum x+y per numeri interi positivi che soddisfano una determinata equazione razionale*
+
+> I numeri interi positivi $x$ e $y$ soddisfano $$\frac{1}{x} - \frac{1}{2015} = \frac{1}{y} - \frac{1}{x}.$$ Qual è il valore minimo possibile di $x + y$?
+> 
+> (A) 2015 \quad (B) 2016 \quad (C) 3264 \quad (D) 4836 \quad (E) 9672
+
+**Risposta:** D
+[[src_obm_2015_n3_f1__Q24]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f3__Q04
 parent: src_obm_2012_n3_f3
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of positive integers with n^2 as sum of prime-power terms*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di integri positivi con n^2 come somma di termini di potenza primaria*
+
+> Determinare se esistono integri positivi $n$, $a_1$, $a_2$, $\ldots$, $a_{2012}$, tutti più grandi o uguali a $2$, in modo tale che $$n^2 = a_1^2 + a_2^3 + a_3^5 + \cdots + a_i^{p_i} + \cdots + a_{2012}^{p_{2012}},$$ in cui $p_i$ è il primo primo di $i$ (cioè $p_1 = 2$, $p_2 = 3$, $p_3 = 5$, $\ldots$).
+
+[[src_obm_2012_n3_f3__Q04]]

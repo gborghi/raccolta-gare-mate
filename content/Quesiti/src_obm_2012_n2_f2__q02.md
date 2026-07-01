@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f2__Q02
 parent: src_obm_2012_n2_f2
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find a minus b given real non-zero a,b satisfying two joint equalities*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eh3-XUlx8DQIfyrafQYPn3K5T8QkbX4r/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca a meno b data reale non-zero a,b che soddisfa due uguaglianza congiunte*
+
+> Dati numeri reali non zero $a$ e $b$ in modo tale che $$\frac{1}{a} + \frac{1}{b} = \frac{a-4}{2012} = ab = 4024,$$ qual è il valore di $a - b$?
+
+[[src_obm_2012_n2_f2__Q02]]

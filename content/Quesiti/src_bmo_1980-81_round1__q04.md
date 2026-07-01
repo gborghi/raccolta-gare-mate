@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1980-81 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1980-81_round1__Q04
 parent: src_bmo_1980-81_round1
 competition: British Mathematical Olympiad 1980-81 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest positive value of |128^m - 9^n|*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvC2qvBdYveDQTv4wMFuVVfLHwCOEMvY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+MSK0/> Trova il minimo valore positivo di m - <128^m> <n=MSK1/
+
+> Trova, con prova, il minimo valore positivo possibile di $|128^m - 9^n|$, dove $m$ e $n$ sono integri positivi.
+
+[[src_bmo_1980-81_round1__Q04]]

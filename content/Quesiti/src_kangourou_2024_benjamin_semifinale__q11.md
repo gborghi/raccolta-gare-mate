@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q11
 parent: src_kangourou_2024_benjamin_semifinale
 competition: Kangourou Semifinale individuale Benjamin 2024
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Francobolli nella prima busta (ricorrenza di Fibonacci a ritroso)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0002
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Francobolli in the first envelope (recurrence of Fibonacci backwards) < MSK1/>
+
+> (Points 5) There are six numbered envelopes lined up: from the third to the next, each contains as many stamps as the two immediately preceding ones combined. The sixth contains 71 stamps, the fifth contains 43. How many stamps does the first one have? Answer: 0002. The solution. Proceeding backwards, the fourth contains 71  43 = 28, the third 43  28 = 15, the second 28  15 = 13, the first 15  13 = 2.
+
+**Answer:** 0002
+[[src_kangourou_2024_benjamin_semifinale__Q11]]

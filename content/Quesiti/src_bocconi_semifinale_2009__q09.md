@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2009 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2009__Q09
 parent: src_bocconi_semifinale_2009
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2009
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare schema con numeri distinti e somme uguali*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (soluzione mostrata nella figura della soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete the scheme with distinct numbers and equal sums*
+
+> Complete the diagram discs in such a way as to comply with the following constraints: - the ten numbers must all be different and less than < MSK0/>; - in each small square, the two "cross products" must be equal (e.g. side by side, have < MSK1/>).
+
+![[src_bocconi_semifinale_2009__Q09.png]]
+
+**Answer:** (soluzione mostrata nella figura della soluzione)
+[[src_bocconi_semifinale_2009__Q09]]

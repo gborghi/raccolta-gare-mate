@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo10yq_yosen__Q08
 parent: src_jjmo10yq_yosen
 competition: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integers less than 10^6 divisible by 3 written on blackboard once each*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 199998
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare numeri interi inferiori a 10^6 divisibili per 3 scritti sulla lavagna una volta ciascuno*
+
+> Tutti i numeri interi positivi inferiori a $10^6$ divisibili da $3$ sono scritti una volta su una lavagna. Trova il numero totale della cifra $1$ scritta sulla lavagna.
+
+**Risposta:** 199998
+[[src_jjmo10yq_yosen__Q08]]

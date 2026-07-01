@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (finale nazionale) — Quesito B4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin_finale__QB4
 parent: src_kangourou_2005_benjamin_finale
 competition: Kangourou 2005 - Benjamin (finale nazionale)
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo lacci comprati da Silvia*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kBPZIGFs3CfWtIRUJNAqXxrN8NLVFnWk/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum locks purchased from Silvia< MSK1/>
+
+> Five girls, including Silvia, bought some hair locks. It is known that: - there are no two of them who have bought the same number of laces; - the number of laces bought by three of them is greater than that bought by the other two.
+> 
+> What's the minimum number of ties that Silvia could have bought? Reason for the answer.
+
+**Answer:** 5
+[[src_kangourou_2005_benjamin_finale__QB4]]

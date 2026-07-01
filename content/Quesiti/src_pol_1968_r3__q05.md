@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1968 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1968_r3__Q05
 parent: src_pol_1968_r3
 competition: Olimpiade Matematica Polacca 1968 — Round 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Any four points form convex quadrilateral implies all points form convex polygon*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10k54qccFrtN6TlMsohHjGXdPXzsXwNZY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Qualsiasi quadrilaterale convex di quattro punti implica tutti i punti di un poligono convex*
+
+> Dati i punti $n \ge 4$ del piano in modo tale che tutti e quattro di essi siano i vertici di un quadrilaterale converso, dimostrare che questi punti sono i vertici di un poligono converso.
+
+[[src_pol_1968_r3__Q05]]

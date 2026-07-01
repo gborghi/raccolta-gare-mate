@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2014 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2014__Q01
 parent: src_cn_ctst_2014
 competition: China National Team Selection Test 2014
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove circumcenters and feet of altitudes are concurrent in triangle.*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che i circoncentieri e i piedi di altitudine sono simultanei nel triangolo.*
+
+> Che $O$ sia il centro circundante di $\triangle ABC$ e $H_1$ sia la proiezione di $A$ su $BC$. L'estensione di $AO$ interseca il circoncircolo di $\triangle BOC$ a $A'$. Le proiezioni di $A'$ su $AB$ e $AC$ sono rispettivamente $D$ e $E$. Il $O_1$ deve essere il centro circostante di $\triangle DH_1E$. Definire $H_2$, $O_2$, $H_3$ e $O_3$ in modo simile. Prove che < MSK19/>, < MSK20/>, < MSK21/> e < MSK22/>, < MSK23/>, < MSK24/> sono simultanei.
+
+![[src_cn_ctst_b11_w166__Q01.png]]
+
+[[src_cn_ctst_2014__Q01]]

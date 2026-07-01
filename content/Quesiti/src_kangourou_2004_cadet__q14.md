@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q14
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti triangoli isosceli con perimetro intero*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many isosceles triangles with full perimeter*
+
+> ABC is a triangle (not reduced to a segment) whose sides AB and AC measure 5 cm, and whose angle at the BÂC vertex measures more than 60°. The length of its perimeter, measured in centimeters, is an integer. How many triangles of this kind are there? A)  1 B)  2 C)  3 D)  4 E)  5
+
+**Answer:** D
+[[src_kangourou_2004_cadet__Q14]]

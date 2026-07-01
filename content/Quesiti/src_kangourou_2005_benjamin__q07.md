@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q07
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di cioccolatini ripartiti con resto 8*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of chocolates divided by remainder 8*
+
+> At my birthday party, we were less than 10. We split up the chocolates: each of us had 12 and we're up to 8. How many were the chocolates? A) 116 B) 108 C) 188 D) 98 E) It is not possible to establish it without further information.
+
+**Answer:** A
+[[src_kangourou_2005_benjamin__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q07
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer closest to a-b for two finite sums of squares over odd denominators.*
 
@@ -54,3 +57,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integra più vicina a-b per due somme finite di quadrati su denominatori unici.*
+
+> Che $$a=\frac{1^2}{1}+\frac{2^2}{3}+\frac{3^2}{5}+\cdots+\frac{1001^2}{2001}$$ e $$b=\frac{1^2}{3}+\frac{2^2}{5}+\frac{3^2}{7}+\cdots+\frac{1001^2}{2003}.$$ sia il numero intero più vicino a $a-b$?
+> 
+> (A) 500 (B) 501 (C) 999 (D) 1000 (E) 1001
+
+[[src_obm_2004_n3_f1__Q07]]

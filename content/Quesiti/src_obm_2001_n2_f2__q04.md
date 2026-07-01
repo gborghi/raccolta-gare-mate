@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f2__Q04
 parent: src_obm_2001_n2_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC with external bisectors meeting; find angles*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xggI-DZYi_rVkYbSC9aLzBPxq-f6OWiM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC con bisettieri esterni che si incontrano; trovare angoli*
+
+> Le misure degli angoli del triangolo $ABC$ sono tali che $\hat{A} < \hat{B} < 90^\circ < \hat{C}$. I bisettori esterni degli angoli $\hat{A}$ e $\hat{C}$ soddisfano rispettivamente le estensioni dei lati $BC$ e $AB$ nei punti $P$ e $Q$. Dato che $\overline{AP} = \overline{CQ} = \overline{AC}$, determinare gli angoli del triangolo $ABC$.
+
+[[src_obm_2001_n2_f2__Q04]]

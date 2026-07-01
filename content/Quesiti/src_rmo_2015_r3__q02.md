@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r3__Q02
 parent: src_rmo_2015_r3
 competition: Regional Mathematical Olympiad 2015
@@ -33,6 +34,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quadratic polynomial squares in AP implies a,b integers*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HpOXyY027T7yrJIPYwmXafLpB_7tE0uA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrati di polinomi quadratici in AP implicano a,b interi*
+
+> Che $P(x) = x^2 + ax + b$ sia un polinomio quadratico dove $a$ e $b$ sono numeri reali. Supponiamo che $P(-1)^2$, $P(0)^2$, $P(1)^2$ sia una progressione aritmetica degli enti. Provare che $a$ e $b$ sono numeri interi.
+
+[[src_rmo_2015_r3__Q02]]

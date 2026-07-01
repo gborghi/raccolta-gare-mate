@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2021 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_automne__Q01
 parent: src_canimath_2021_automne
 competition: Coupe Animath Automne 2021
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute sum of two arithmetic progressions*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1000
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di calcolo di due progressioni aritmetiche*
+
+> Calcolare il numero $$(1+11+21+31+41+51+61+71+81+91)+(9+19+29+39+49+59+69+79+89+99).$$ Qui si aspetta solo una risposta numerica.
+
+**Risposta:** 1000
+[[src_canimath_2021_automne__Q01]]

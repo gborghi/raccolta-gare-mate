@@ -1,6 +1,7 @@
 ---
 title: IMO 1972 (Fourteenth International Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1972_all__Q01
 parent: src_imo_1972_all
 competition: IMO 1972 (Fourteenth International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ten two-digit numbers have two disjoint equal-sum subsets*
 
@@ -33,3 +36,13 @@ tags:
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ten two-digit numbers have two disjoint equal-sum subsets*
+
+> Prove that from a set of ten distinct two-digit numbers (in the decimal system), it is possible to select two disjoint subsets whose members have the same sum.
+
+[[src_imo_1972_all__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1989 (30th IMO, Braunschweig) — Quesito 3'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1989__Q03
 parent: src_imo_1989
 competition: 'IMO 1989 (30th IMO, Braunschweig)'
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Equidistant-points configuration bound k<1/2+sqrt(2n)*
 
@@ -49,3 +52,15 @@ tags:
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The following information is provided by the manufacturer:
+
+> Let n and k be positive integers and let S be a set of n points in the plane such that (i) No three points of S are collinear, and (ii) For any point P of S there are at least k points of S equidistant from P. Prove that: k < 1 2 + √ 2n.
+> 
+> 30th International Mathematical Olympiad Braunschweig, Germany Day II
+
+[[src_imo_1989__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q21
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione vera sull'intersezione di due triangoli*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*True statement on the intersection of two triangles*
+
+> Which of the following statements is true? A) Intersecting two triangles does not give a triangle. B) Intersecting two triangles does not give a quadrilateral. C) Intersecting two triangles does not give a pentagon. D) Intersecting two triangles does not give a hexagon. E) None of the above statements are true.
+
+**Answer:** C
+[[src_kangourou_2017_cadet_marzo__Q21]]

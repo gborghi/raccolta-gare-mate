@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q13
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti tra ragazzi e ragazze al pareggio*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Numbers of boys and girls at par< MSK1/>
+
+> There are currently 39 boys and 23 girls in a dance school. Starting today, six boys and eight girls will be added each week and in a few weeks the number of girls will be equal to the number of boys. How many boys and girls will be in the group at that time? A) 144 B) 154 C) 164 D) 174 E) 184
+
+**Answer:** D
+[[src_kangourou_2009_benjamin_marzo__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1995 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1995_r3__Q06
 parent: src_pol_1995_r3
 competition: Olimpiade Matematica Polacca 1995 — Round 3
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rays from common endpoint; prove exactly one pair of points B,C on rays with PA+AB=PC+CB and PB+BC=PA+AC*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/150sL_nAa7PPTRBn0nE8dUnuEVC2dD-qB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Raggi da un punto termico comune; dimostrare esattamente una coppia di punti B,C sui raggi con PA+AB=PC+CB e PB+BC=PA+AC*
+
+> Sono indicati tre raggi $l$, $m$, $n$ nello spazio con un punto di fine comune $P$ e un punto $A$ su $l$. Prova che esiste esattamente un paio di punti $B \in m$ e $C \in n$ in modo tale che $$PA + AB = PC + CB \quad \text{and} \quad PB + BC = PA + AC.$$
+
+[[src_pol_1995_r3__Q06]]

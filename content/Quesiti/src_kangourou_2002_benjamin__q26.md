@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_benjamin__Q26
 parent: src_kangourou_2002_benjamin
 competition: Kangourou 2002 - Benjamin (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima somma cifre della somma cifre*
 
@@ -57,3 +60,26 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most sum of digits of the sum of digits < MSK1/>
+
+> What is the maximum value of the sum of digits of the sum of digits of a 3-digit number?
+>  
+> A. 9 B. 10 C. 11 D. 12 E. 18
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+> a b
+> 
+> I'm not going to lie to you. This item is not intended to be used. 6
+
+**Answer:** B
+[[src_kangourou_2002_benjamin__Q26]]

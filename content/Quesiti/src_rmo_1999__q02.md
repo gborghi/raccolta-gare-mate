@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1999 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1999__Q02
 parent: src_rmo_1999
 competition: Regional Mathematical Olympiad 1999
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers dividing $10^{999}$ but not $10^{998}$*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aVueqGzgTBFm2YWPkdVpaNOhDYF_ZzH8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare interi positivi che dividono $10^{999}$ ma non $10^{998}$*
+
+> Trova il numero di interi positivi che dividono $10^{999}$ ma non $10^{998}$.
+
+[[src_rmo_1999__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q06
 parent: src_kangourou_2015_squadre_a
 competition: Kangourou Coppa Squadre 2015 Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato max tavoletta quadrata in anello di raggio 8*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 11
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Late max square table in ring of radius 8< MSK1/>
+
+> Using his game-trapper, Joseph can manufacture square wooden tablets of any size (reasonable), provided the side measures an integer number of centimeters. One of these tablets must be inserted inside a circular metal ring with a radius of 8 cm. How many centimeters is the side of the largest tablet Joseph can make for the purpose?
+
+**Answer:** 11
+[[src_kangourou_2015_squadre_a__Q06]]

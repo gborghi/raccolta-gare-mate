@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Ecolier — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q21
 parent: src_kangourou_2020_ecolier_marzo
 competition: Kangourou 2020 Gara marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti altri pappagalli colorabili diversamente*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many other differently coloured parrots< MSK1/>
+
+![[src_kangourou_2020_ecolier_marzo__prob21.png]]
+
+> Gianna has some pictures of parrots. He only wants to paint the head, tail, and wings of each parrot red, blue, or green so that all three colors appear on each parrot. It colours a parrot's head red, wings green, and tail blue. How many other parrots can you color so they're all different colors? A) 2
+> 	
+> B) 4
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 9
+
+**Answer:** C
+[[src_kangourou_2020_ecolier_marzo__Q21]]

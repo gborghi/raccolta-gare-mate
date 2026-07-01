@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2022__Q02
 parent: src_cesenatico_2022
 competition: Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *circonferenza per EFG tangente ad AC*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TXGU5iDuDzmKc7nZ8Xbc329kdRiV6EwX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*circumference for EFG tangent to AC*
+
+![[src_cesenatico_2022__prob2.png]]
+
+> Let's say ABC is an acute triangle with AB < AC. They are • D the foot of the angle's edge in A, • And the point of the segment BC (different from B) such that AB = AE, • F the point of the segment BC (different from B) such that BD = DF, • G the point of the segment AC such that AB = AG. Demonstrate that the circumference circumscribed to the EFG triangle is tangent to the straight AC.
+
+[[src_cesenatico_2022__Q02]]

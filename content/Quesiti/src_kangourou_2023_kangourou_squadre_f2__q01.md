@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre_f2__Q01
 parent: src_kangourou_2023_kangourou_squadre_f2
 competition: Kangourou Squadre 2023 Kangourou Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza superfici dato differenza volumi cubi*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0042
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Difference of surface area given difference of cubic volumes< MSK1/>
+
+> Cube difference The measurements in meters of the sides of two cubes are integers. The difference (positive) in their volumes is 37 m3. How many square meters is the difference (positive) between their surfaces?
+
+**Answer:** 0042
+[[src_kangourou_2023_kangourou_squadre_f2__Q01]]

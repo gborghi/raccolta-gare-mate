@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Junior — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q12
 parent: src_kangourou_2018_junior_semif
 competition: Kangourou 2018 Semifinale Junior
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto lunghezza fune / pezzo piu corto (dischi)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17csch1-7f-cVvjGdqKXJQd6PNOelNdNG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Ratio length of strings / shorter piece (discs) < MSK1/>
+
+> (Points 5) A circular section rope is cut into two pieces. Both are spirally rolled onto a table to produce approximately two discs. The radius of one of the two is twice the radius of the other. What is the relationship between the length of the whole rope and the length of the shortest piece? (If necessary, approximate the answer to the nearest integer.)
+
+**Answer:** 5
+[[src_kangourou_2018_junior_semif__Q12]]

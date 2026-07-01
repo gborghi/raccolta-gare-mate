@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q04
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Match water-level vs time graphs to vessels of different shapes being filled at constant rate*
 
@@ -52,3 +55,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Concorre tra il livello dell'acqua e i grafici temporali dei vasi di diverse forme che vengono riempiti a velocità costante*
+
+> Successivamente vediamo quattro vasi in cui Angela verserà acqua, da un rubinetto il cui flusso è costante. I grafici A e B di seguito rappresentano il livello dell'acqua (asse verticale) in due dei vasi, secondo il tempo (asse orizzontale). Quale delle navi corrisponde rispettivamente al grafico A e quale al grafico B? A) 3 e 4 B) 2 e 4 C) 1 e 3 D) 2 e 3 E) 1 e 4
+
+![[src_obm_2002_n3_f1__Q04.png]]
+
+**Risposta:** B
+[[src_obm_2002_n3_f1__Q04]]

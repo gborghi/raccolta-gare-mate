@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Cadet — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q22
 parent: src_kangourou_2019_cadet_marzo
 competition: Kangourou 2019 Gara di Marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto iniziale tra le altezze delle due candele*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Initial ratio between the heights of the two candles*
+
+> Carlo has two candles of different heights. The first candle lasts six hours, the second one eight hours. He lights them both at the same time and three hours later the candles are the same height. What was the relationship between the height of the first candle and that of the second candle before it was lit? A) 4 : 3 B) 8 : 5 C) 5 : 4 D) 3 : 5 E) 7 : 3
+
+**Answer:** C
+[[src_kangourou_2019_cadet_marzo__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q14
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the unknown side of a triangle with area 88 square units and two sides 10 and 22*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il lato sconosciuto di un triangolo con superficie di 88 unità quadrate e due lati 10 e 22*
+
+> Il triangolo mostrato ha un'area di 88 unità quadrate. Qual è il valore di < MSK0/>?
+>
+> - **(A)** $17.6$
+> - **(B)** $2\sqrt{46}$
+> - **(C)** $6\sqrt{10}$
+> - **(D)** $13\sqrt{2}$
+> - **(E)** $8\sqrt{5}$
+
+![[src_smc_2015__Q14.png]]
+
+**Risposta:** E
+[[src_smc_2015__Q14]]

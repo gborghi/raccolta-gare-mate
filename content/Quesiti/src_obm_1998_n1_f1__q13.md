@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q13
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Matchsticks needed for 100 squares in a row*
 
@@ -56,3 +59,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Matchsticks necessari per 100 quadrati consecutivi*
+
+> Joãozinho fa una fila di quadrati utilizzando i fiammiferi, come mostra la figura. Il numero di fiammiferi necessari per creare una fila di quadrati $100$ è:
+>
+> - **(A)** $296$
+> - **(B)** $293$
+> - **(C)** $297$
+> - **(D)** $301$
+> - **(E)** $28$
+
+![[src_obm_1998_n1_f1__Q13.png]]
+
+**Risposta:** D
+[[src_obm_1998_n1_f1__Q13]]

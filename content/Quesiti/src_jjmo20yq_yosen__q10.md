@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo20yq_yosen__Q10
 parent: src_jjmo20yq_yosen
 competition: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ring of 103 squares; A moves piece by c or d, B by a or b; count (a,b,c,d)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 515100
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Anello di 103 quadrati; A si muove pezzo per c o d, B per a o b; conteggio (a,b,c,d) *
+
+> $a, b, c, d$ siano numeri interi che soddisfino $0 < a < b < c < d < 163$. Considerate i quadrati $103$ disposti in un anello (circolo), con un quadrato etichettato $S$ e il quadrato passo uno in senso contrario all'orologio da $S$ etichettato $G$. Un token inizia a $S$. I giocatori $A$ e $B$ si alternano, a partire da $A$:\n- Al turno di $A$: spostare il token in senso orario di $c$ o $d$ quadrati.\n- Al turno di $B$: spostare il token in senso orario di $a$ o $b$ quadrati.\nL'obiettivo del giocatore $B$ è quello di avere il token a terra su $G$ immediatamente dopo uno dei movimenti di $B$. Trova il numero di 4 doppi $(a, b, c, d)$ per i quali il giocatore $B$ può sempre raggiungere l'obiettivo in finite mosse, indipendentemente dalle scelte del giocatore $A$.
+
+**Risposta:** 515100
+[[src_jjmo20yq_yosen__Q10]]

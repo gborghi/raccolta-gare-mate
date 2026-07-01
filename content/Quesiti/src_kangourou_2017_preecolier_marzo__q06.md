@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_preecolier_marzo__Q06
 parent: src_kangourou_2017_preecolier_marzo
 competition: Kangourou 2017 Pre-Ecolier - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti mattoncini per completare l'igloo*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many bricks to complete the igloo*
+
+> In the figure, you see the image of an igloo. Every complete brick was made with a sticker and these sticks are all the same between them. How many more do I have to paste to complete the drawing?
+>
+> - **(A)** 6
+> - **(B)** 7
+> - **(C)** 8
+> - **(D)** 9
+> - **(E)** 10 (see figure)
+
+**Answer:** A
+[[src_kangourou_2017_preecolier_marzo__Q06]]

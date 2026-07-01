@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Finale Nazionale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_finale__Q15
 parent: src_squadre_2024_finale
 competition: Gara a Squadre 2024 - Finale Nazionale
@@ -26,6 +27,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pirati in missione con am>m da ricorrenza razionale*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2820
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pirates on missions with a rational frequency *
+
+> Shut up, we're going down! You've arrived at BarbaAlberta's hideout, not even time to look around, which is also the pirate ship arriving. On it is Captain BarbaAlberta and other 2024 pirates, who for convenience are numbered from 1 to 2024; to the pirate m BarbaAlberta assigns a positive rational number am such that, for m = 31,32,...,2024, one has am = m2 max1≤l≤30{l +am−l}. The pirates are sent by the captain on a mission to capture the intruders. How many pirates are on the mission? Provide the sum of all possible answers.
+
+**Answer:** 2820
+[[src_squadre_2024_finale__Q15]]

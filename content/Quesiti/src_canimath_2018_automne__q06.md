@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2018 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2018_automne__Q06
 parent: src_canimath_2018_automne
 competition: Coupe Animath Automne 2018
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prime p divides product of (k^3+1); prove p ≤ n+1*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il primo p divide il prodotto di (k^3+1); prova p ≤ n+1*
+
+> $n$ sia un numero intero rigorosamente positivo. $p$ sia un numero primo tale che $$p \mid (1^3 + 1)(2^3 + 1)(3^3 + 1)\cdots((n-1)^3 + 1)(n^3 + 1).$$ Mostri che $p \le n + 1$.
+
+[[src_canimath_2018_automne__Q06]]

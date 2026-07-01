@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f3__Q05
 parent: src_obm_2012_n2_f3
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 3
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find a+b given two equations in real numbers a and b*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ltDj5iPNeS6_Ss9WI6dkLY05-Nizkd3Z/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova a+b dato due equazioni nei numeri reali a e b*
+
+> Considerare i numeri reali $a$ e $b$, come $(a + b)(a + 1)(b + 1) = 2$ e $a^2 + b^2 = 1$. Trova il valore di $a + b$.
+
+[[src_obm_2012_n2_f3__Q05]]

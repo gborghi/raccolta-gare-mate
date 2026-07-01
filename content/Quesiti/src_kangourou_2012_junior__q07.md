@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Junior (gara marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior__Q07
 parent: src_kangourou_2012_junior
 competition: Kangourou 2012 Junior (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del quadrilatero dato dalle mediane*
 
@@ -72,3 +75,41 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the quadrilateral given by the medians*
+
+![[src_kangourou_2012_junior__prob7.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.6]
+  \coordinate (A) at (-3,0);
+  \coordinate (B) at (0,6);
+  \coordinate (C) at (3,0);
+  \coordinate (M) at (-1.5,3);
+  \coordinate (N) at (1.5,3);
+  \coordinate (P) at (0,2);
+  \fill[gray!30] (A)--(M)--(P)--cycle;
+  \fill[gray!30] (C)--(N)--(P)--cycle;
+  \fill[gray!60] (A)--(P)--(C)--cycle;
+  \draw[thick] (A)--(B)--(C)--cycle;
+  \draw (M)--(C);
+  \draw (N)--(A);
+  \node[above left] at (M) {$M$};
+  \node[above right] at (N) {$N$};
+  \node at (-1.2,1) {$3$};
+  \node at (1.2,1) {$3$};
+  \node at (0,0.7) {$6$};
+  \node at (0,4) {$?$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Note the figure: M and N are the middle points of the two sides of an isosceles triangle of equal length, which is divided by the two medians into three triangles and a quadrilateral. The area of each of the three triangles is indicated. What is the area of the quadrilateral? A) 3 B) 4 C) 7 D) 8 E) A number different from the previous one
+
+**Answer:** E
+[[src_kangourou_2012_junior__Q07]]

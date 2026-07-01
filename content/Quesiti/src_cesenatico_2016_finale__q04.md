@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q04
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cloni totali primi 100 mesi (ricorrenza a blocchi)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4525
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Total clones for the first 100 months (block recurrence)
+
+> The army of clones Master Sisifo-Denis commissioned Rudino's clone workers to create an army of the Republic. During the ninth month, xn clones are produced. The first month is used to analyze Rango Fett's DNA, so x1 = 0. From the following month, production follows the following rules: x4n = x4n−1 +2n−1; x4n+1 = x4n +2n+1; x4n+2 = x4n+1 +2n; x4n+3 = x4n+2 +2n+2 (with integer n). How many clones were produced in the first 100 months?
+
+**Answer:** 4525
+[[src_cesenatico_2016_finale__Q04]]

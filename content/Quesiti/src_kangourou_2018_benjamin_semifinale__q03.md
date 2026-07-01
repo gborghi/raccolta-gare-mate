@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Semifinale individuale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_semifinale__Q03
 parent: src_kangourou_2018_benjamin_semifinale
 competition: Kangourou 2018 Benjamin - Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante cifre ha 4^5 x 5^13*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mpGDkZU0ITLxgA_gblbwITgtcOOWYDSU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many digits has 4^5 x 5^13*
+
+> When the integer 45 × 513 is written in decimal notation, how many digits does it have? A) 18           B) 17 C) 16           	 D) 13 E) 12
+
+**Answer:** D
+[[src_kangourou_2018_benjamin_semifinale__Q03]]

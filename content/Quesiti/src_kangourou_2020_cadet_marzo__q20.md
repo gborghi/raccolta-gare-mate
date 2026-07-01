@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q20
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale configurazione di pieghe della striscia non e ottenibile*
 
@@ -60,3 +63,26 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which band folding configuration is not achievable*
+
+![[src_kangourou_2020_cadet_marzo__prob20.png]]
+
+> You have a strip of paper divided into five equal boxes, each of which has a number from 1 to 5, as you can see in the figure. Fold it so that the boxes overlap, forming five floors. Which of the following configurations, listed from the top floor, can you not get? A) 3, 5, 4, 2, 1
+> 	
+> B) 3, 4, 5, 1, 2
+> 	
+> C) 3, 2, 1, 4, 5
+> 	
+> D) 3, 1, 2, 4, 5
+> 	
+> E) 3, 4, 2, 1, 5 3 4 5 1 2 3 4 5
+> 
+> The questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** E
+[[src_kangourou_2020_cadet_marzo__Q20]]

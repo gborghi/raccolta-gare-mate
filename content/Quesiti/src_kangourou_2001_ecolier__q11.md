@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_ecolier__Q11
 parent: src_kangourou_2001_ecolier
 competition: Kangourou 2001 - Ecolier (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo kangourou con caramelle distinte*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most kangaroos with distinct candies< MSK1/>
+
+> 20 candies are distributed among some kangaroos so that each kangaroo receives at least one candy and never two kangaroos have the same number of candies. How many kangaroos are at most present at the candy distribution?
+>
+> - **(A)** 20
+> - **(B)** 10
+> - **(C)** 8
+> - **(D)** 6
+> - **(E)** 5.
+
+**Answer:** E
+[[src_kangourou_2001_ecolier__Q11]]

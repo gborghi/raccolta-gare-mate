@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q09
 parent: src_kangourou_2017_squadre_a
 competition: Kangourou Coppa Squadre 2017 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri crescenti di tre cifre*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 84
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Three-digit increasing numbers< MSK1/>
+
+> Let's say a number of three significant digits is growing if the digits are all different and that of the hundreds is less than that of the tens which is less than that of the units. How many numbers are growing?
+
+**Answer:** 84
+[[src_kangourou_2017_squadre_a__Q09]]

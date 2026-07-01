@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Junior — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q09
 parent: src_kangourou_2018_junior_semif
 competition: Kangourou 2018 Semifinale Junior
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Per cosa non e divisibile 2019*2018^2 - 2018*2019^2*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17csch1-7f-cVvjGdqKXJQd6PNOelNdNG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is a list of the countries of the European Economic Area.
+
+> (Points 6) The number 201920182 - 201820192 is not divisible by A) 99 B) 101 C) 121 D) 1001 E) 10001 A B C D
+> 
+> Open-ended questions
+
+**Answer:** D
+[[src_kangourou_2018_junior_semif__Q09]]

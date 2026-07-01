@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Biennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_biennio__Q05
 parent: src_archimede_2016_biennio
 competition: Giochi di Archimede 2016 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Acquisto di due capi di tipo diverso*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1w98Us2ogDSfVMh4NQofZesTOzitRRSQB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Purchase of two different types of garments*
+
+> Laura's trying on clothes in a store. She's undecided between eight shirts, five sweaters, six pants. To save money, you will only buy two different hats (not two shirts or two sweaters or two pants). How many ways will Laura be able to make her purchases?
+>
+> - **(A)** 114
+> - **(B)** 128
+> - **(C)** 342
+> - **(D)** 171
+> - **(E)** 118
+
+**Answer:** E
+[[src_archimede_2016_biennio__Q05]]

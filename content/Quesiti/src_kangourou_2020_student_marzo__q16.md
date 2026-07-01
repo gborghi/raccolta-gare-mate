@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q16
 parent: src_kangourou_2020_student_marzo
 competition: Kangourou 2020 Student - gara marzo (triennio)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti totali possibili tra 75,216,365,2020 sulla ruota*
 
@@ -57,3 +60,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total possible between 75,216,365,2020 on the wheel*
+
+![[src_kangourou_2020_student_marzo__prob16.png]]
+
+> There are 15 numbers on a wheel, but only one of them is visible, a 10 in the highest position. It is known that the sum of the numbers in any group of 7 consecutive wheel positions (such as those highlighted in gray in the figure) is always the same. If we add up all 15 numbers, exactly how many of the numbers 75, 216, 365, or 2020 could we get as a total? A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 3
+> 	
+> E) 4
+
+**Answer:** A
+[[src_kangourou_2020_student_marzo__Q16]]

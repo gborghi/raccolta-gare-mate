@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2016 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo14mq_honsen__Q03
 parent: src_jjmo14mq_honsen
 competition: Japan Junior Mathematical Olympiad 2016 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimize product of two quadratics with ab+bc+cd=1*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNe77mqSS5KaVCDyNI-U80o5ArYTZuAL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimizzare il prodotto di due quadratici con ab+bc+cd=1*
+
+> $a, b, c, d$ siano numeri reali che soddisfino $ab + bc + cd = 1$. Trova il valore minimo di $$(a^2 + ac + c^2)(b^2 + bd + d^2).$$
+
+[[src_jjmo14mq_honsen__Q03]]

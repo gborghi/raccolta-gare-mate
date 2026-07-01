@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Junior (15 marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_junior__Q22
 parent: src_kangourou_2001_junior
 competition: Kangourou 2001 - Junior (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di q in funzione di p e c*
 
@@ -66,3 +69,37 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Q value in relation to p and c*
+
+![[src_kangourou_2001_junior__prob22.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (0,2.5);
+  \coordinate (C) at (5,0);
+  \coordinate (X) at (2.2,0);
+  \draw (A) -- (B) -- (C) -- cycle;
+  \draw (0.18,0) -- (0.18,0.18) -- (0,0.18);
+  \draw (X) ++(0,0.08) -- ++(0,-0.16);
+  \node[left] at (B) {$B$};
+  \node[below left] at (A) {$A$};
+  \node[below right] at (C) {$C$};
+  \node[above] at (X) {$X$};
+  \node[left] at (0,1.25) {$c$};
+  \node[below] at (1.1,0) {$p$};
+  \node[below] at (3.6,0) {$q$};
+\end{tikzpicture}
+\end{document}
+```
+
+> An ABC rectangle triangle as in the figure, with AB = c, AX = p and XC = q, represents a terrain. Jenny and Vicky walk at the same speed in opposite directions on the edge of the ground, both starting at the same moment from position X. The two girls meet in B. What's the value of q as a function of p and c?
+
+**Answer:** B
+[[src_kangourou_2001_junior__Q22]]

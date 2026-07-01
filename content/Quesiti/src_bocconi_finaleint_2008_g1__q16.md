@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q16
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -41,6 +42,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazioni distinte (a meno di rotazioni) dei triangolini delle facce di un tetraedro.*
 
@@ -52,3 +55,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 20 colorazioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distinct colours (excluding rotations) of the triangles of the faces of a tetrahedron.*
+
+> Chloé has regular paper tetrahedra (triangular-based pyramids whose faces are all equilateral triangles). Each face of these tetrahedra is divided into four equilateral triangles, and Chloé colors each triangle of his tetrahedra in orange, green, blue, or yellow. Chloé finds a beautiful coloration if for each triangle, he and his three neighbors use exactly once each of the four colors (a triangle can have a neighbor on one face). How many different beautiful colors can you get, at most? (Two colors are different if you can't switch from one to the other by spinning the tetrahedron in space.)
+
+**Answer:** 20 colorazioni
+[[src_bocconi_finaleint_2008_g1__Q16]]

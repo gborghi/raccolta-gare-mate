@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q02
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale ombreggiata di circonferenze concentriche*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shadeed percentage of concentric circles*
+
+![[src_kangourou_2021_cadet__prob2.png]]
+
+> In the figure you see three concentric circles and four of their diameters. What percentage of the figure is shaded? A) 30% B) 35% C) 40% D) 45% E) 50%
+
+**Answer:** E
+[[src_kangourou_2021_cadet__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Finale Benjamin (Mirabilandia) — Quesito B4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin_finale__QB4
 parent: src_kangourou_2012_benjamin_finale
 competition: Kangourou 2012 Finale Benjamin (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di triangoli per ritagliare il canguro*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1eLf47f3d8Db-7K_kEX8gK_re-YyqV8TZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of triangles to cut the kangaroo< MSK1/>
+
+![[src_kangourou_2012_benjamin_finale__probB4.png]]
+
+> The figure, drawn on a square sheet, represents a kangaroo. You want to cut it so that you only get triangles. What's the minimum number of triangles you can get? (see figure)
+
+**Answer:** 6
+[[src_kangourou_2012_benjamin_finale__QB4]]

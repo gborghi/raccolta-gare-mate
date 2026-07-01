@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2008 — Quesito
   8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2008__Q08
 parent: src_bocconi_finalenaz_2008
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2008
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare il numero di due cifre tale che, accodando un 2, il valore aumenta di 335.*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 37
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find the number of two digits such that, encoding a 2, the value increases by 335.*
+
+> Renato wrote a two-digit number. He then writes a 2 to the right of the second digit, thus getting a three-digit number. The new number is 335 more than the original (2 digits) number. What was the two-digit number?
+
+**Answer:** 37
+[[src_bocconi_finalenaz_2008__Q08]]

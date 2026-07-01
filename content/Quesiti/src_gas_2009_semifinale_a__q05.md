@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale A — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_a__Q05
 parent: src_gas_2009_semifinale_a
 competition: Gara a Squadre 2009 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tentativi massimi per lucchetto 4 cifre con due uguali*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4320
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Wx24coOZuHD5lnXnMkNRwAuUmiEDrRDK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum attempts for a 4-digit lock with two equals*
+
+> Secret diary Princess Euleryn has a secret diary protected by a 4-digit lock. Hermilinguo wants to open it and he knows that exactly two digits are the same, but he doesn't know where they are and what they are. How many attempts will you have to make?
+
+**Answer:** 4320
+[[src_gas_2009_semifinale_a__Q05]]

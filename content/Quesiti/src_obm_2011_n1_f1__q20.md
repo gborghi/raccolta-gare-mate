@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q20
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum number of notes changing hands so three girls have equal amounts*
 
@@ -51,3 +54,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Meno numero di biglietti che cambiano di mano in modo che tre ragazze abbiano quantità uguali
+
+> Esmeralda ha 11 banconote di due reais, Rosa ha 7 banconote di cinque reais e Nelly ha 3 banconote di dieci reais. Qual è il numero più piccolo possibile del totale di banconote che devono cambiare mano in modo che tutte le ragazze finiscano con la stessa quantità?
+> 
+> (A) 5 \quad (B) 6 \quad (C) 7 \quad (D) 8 \quad (E) 9
+
+[[src_obm_2011_n1_f1__Q20]]

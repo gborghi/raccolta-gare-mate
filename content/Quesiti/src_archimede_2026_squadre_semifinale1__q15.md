@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_semifinale1__Q15
 parent: src_archimede_2026_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2026 - Semifinale 1
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero radici reali di p_20 con ricorrenza p_{n+1}=1-p_n^2*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 3070
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Real root number of p_20 with recurrence p_{n+1}=1-p_n^2*
+
+> Denis Tusca Hardy, to communicate in secret with his godfather Sirius Schwarz, agreed to put a password on the twin mirrors. Taking p0(x) = x and pn+1(x) = 1−pn(x) 2 for every natural n, the password is the number of real roots, multiplied, of the polynomial p20(x. What's the password?
+
+**Answer:** 3070
+[[src_archimede_2026_squadre_semifinale1__Q15]]

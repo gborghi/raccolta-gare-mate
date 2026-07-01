@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2026_semifinale_cd__Q16
 parent: src_squadre_2026_semifinale_cd
 competition: Gara a Squadre 2026 - Semifinale 2 (nazionale)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi tra -400 e 400 differenza di somme di quadrati*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0801
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interies between -400 and 400 differences in sums of squares*
+
+> Interi of difference Gaia Fuselli In the Room of Necessary Conditions there is everything a mathematician needs. Luna Lovegödel was looking for the integers n between −400 and 400, extremes included, which can be written as the difference between the sum of two squares and the sum of two other squares (squares of appropriate integers, also equal). How many different n numbers did Luna find?
+
+**Answer:** 0801
+[[src_squadre_2026_semifinale_cd__Q16]]

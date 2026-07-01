@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_pubblico__Q05
 parent: src_gas_2009_pubblico
 competition: Gara a Squadre 2009 - Gara del Pubblico
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero coefficienti possibili termine cubico, radici intere*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0013
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of possible cubic term coefficients, whole roots*
+
+> Engravings in the rock [25] In narrating his journey to the mines of Toria, a traveler hinted at a rock wall on which something particular was written: it was a polynomial, in which the highest degree term was x4 and the known term 45. He couldn't remember anything else about that engraving, but he knew all his roots were intact. How many different coefficients could the third degree term have? Team competition 2009  Public competition  Problem texts  Pag. 1 di 4
+> 
+> I'm going to pay. 2 out of 4  Team competition 2009  Public competition  Problem texts
+
+**Answer:** 0013
+[[src_gas_2009_pubblico__Q05]]

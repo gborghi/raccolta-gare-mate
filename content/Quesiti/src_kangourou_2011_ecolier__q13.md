@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Ecolier (gara marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier__Q13
 parent: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Qual e il numero di Franco con i dadi*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What and the number of Franks with the dice*
+
+> Anna, Bruno, Cecilia, Dario, Enrica, and Franco throw a dice (numbered 1 to 6) and get numbers all different from each other. Anna's number is twice that of Bruno and three times that of Cecilia. Darius' number is four times that of Henry. What's Franco's number? A) 2 B) 3 C) 4 D) 5 E) 6
+
+**Answer:** D
+[[src_kangourou_2011_ecolier__Q13]]

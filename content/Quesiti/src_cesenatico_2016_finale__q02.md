@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q02
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max somma aree triangoli rettangoli interi non congrui*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 3930
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max sum of the areas of uncorrelated whole rectangular triangles< MSK1/>
+
+> To celebrate the victory over the Merchant's Foundation, there's a big party on Naboole. The banquet tables are in the shape of rectangular triangles with sides of full length. In addition, each table has at least one square whose length is a prime number less than 20. Queen Atiyala insisted that there should be no two tables with congruent shapes (on Naboole putting two tables equal is like putting none). What is the sum of the areas of the tables at the banquet? Two triangles are considered congruent if they can overlap with each other through rotations, translations and symmetries.
+
+**Answer:** 3930
+[[src_cesenatico_2016_finale__Q02]]

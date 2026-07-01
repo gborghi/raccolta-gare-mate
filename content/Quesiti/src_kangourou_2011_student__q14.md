@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q14
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di grafici di funzioni con radici uguali*
 
@@ -54,3 +57,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of graphs of functions with equal roots*
+
+![[src_kangourou_2011_student__prob14.png]]
+
+> How many of the following functions y = x2 ; y = −x2 ; y = ; y = − ; y = ; y = − ; y = − ; y = ; y = − have the graph included in the figure? A) 0 B) 2 C) 4 D) 6 E) 8
+
+[[src_kangourou_2011_student__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2006 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2006_r2__Q03
 parent: src_pol_2006_r2
 competition: Olimpiade Matematica Polacca 2006 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For positive numbers a,b,c with ab+bc+ca=abc, prove a cyclic sum of fractions involving fourth powers is at least 1.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NlYhgScQkf9eCfEZeeiilK96pka9LzT-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per i numeri positivi a,b,c con ab+bc+ca=abc, dimostrare che la somma ciclica delle frazioni che coinvolgono quattro potenze è almeno 1.*
+
+> I numeri positivi $a,b,c$ soddisfano la condizione $ab+bc+ca=abc$. Provare che < MSK0/>
+
+[[src_pol_2006_r2__Q03]]

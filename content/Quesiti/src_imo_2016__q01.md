@@ -1,6 +1,7 @@
 ---
 title: IMO 2016 papers — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2016__Q01
 parent: src_imo_2016
 competition: IMO 2016 papers
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *BD, FX, ME concorrenti (parallelogramma AMXE)*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DJN1I1nyXv23EBAYsmuEqh4UN-f1qoI1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>BD, FX, ME competitors (AMXE parallelogram) < MSK1/>
+
+> The $BCF$ triangle has a right angle in $B$. Whether $A$ the point on the $CF$ line such that $FA = FB$ and $F$ lie between $A$ and $C$. The point $D$ is chosen so that $DA = DC$ and $AC$ are the angles of the angle $\angle DAB$. The point $E$ is chosen so that $EA = ED$ and $AD$ are the angles of the angle $\angle EAC$. The mean point of $M$ shall be $CF$. If $X$ is the point such that $AMXE$ is a parallelogram (with $AM \parallel EX$ and $AE \parallel MX$). Demonstrate that $BD$, $FX$ and $ME$ are competitors.
+
+[[src_imo_2016__Q01]]

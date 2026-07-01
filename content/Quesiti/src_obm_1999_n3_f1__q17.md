@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q17
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Closest lattice point to line y = (101/3)x - 4 through origin*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto di reticola più vicino alla linea y = (101/3)x - 4 attraverso l'origine*
+
+> La linea $r$ attraversa i punti $(0, 4)$ e $(7, 7)$. Tra i seguenti punti, quale è il punto più vicino alla linea $r$?
+> 
+> A) $(1999, 858)$ \quad B) $(1999, 859)$ \quad C) $(1999, 860)$ \quad D) $(1999, 861)$ \quad E) $(1999, 862)$
+
+**Risposta:** D
+[[src_obm_1999_n3_f1__Q17]]

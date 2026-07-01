@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2025_femminile__Q04
 parent: src_squadre_2025_femminile
 competition: Gara a Squadre Femminile 2025 - VIII Finale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Griglie 5x5 invarianti per rotazioni di 90 gradi*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 128
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Invariant 5x5 grids for 90 degree rotation< MSK1/>
+
+> STAVOLT SET YOURSELF FUCKED! (Michelangelo Sabatini) Candace is in her room, on the phone with her friend Stacy, when, looking out the window, she sees Phineas and Ferb in the garden building a rocket. She then goes down to her mom's living room to report them, but she's busy: she's coloring square grids. It colours each box either red or green so that, by rotating the grid relative to the central box at an angle of 90,180 or 270 the grid remains colored as if it had not been rotated. Mom won't pay any attention to Candace until she's done. How many grids will it take to build?
+
+**Answer:** 128
+[[src_squadre_2025_femminile__Q04]]

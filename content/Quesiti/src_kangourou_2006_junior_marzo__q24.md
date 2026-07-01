@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q24
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza curva descritta da P (quadrato rotante)*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of curve described by P (rotating square) *
+
+![[src_kangourou_2006_junior_marzo__prob24.png]]
+
+> A square PQRS of 10 centimetres on the side rotates without slipping along a segment. Initially the vertices P and Q lie on the segment: the first rotation takes place by making a pin in Q and carrying R on the segment, as indicated in the figure; the subsequent ones take place as suggested by the figure. The rotations end when, for the first time, the P vertex comes back into contact with the segment. What is the length of the curve described by P in centimetres? A) B) C) D) E)
+
+**Answer:** C
+[[src_kangourou_2006_junior_marzo__Q24]]

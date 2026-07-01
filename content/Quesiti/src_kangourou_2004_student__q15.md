@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q15
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio interi positivi in base 3 bilanciata*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>A positive integer count on a 3 basis weighted < MSK1/>
+
+> How many positive integers can be written in the form a0 + 3 a1 + 32 a2 + 33 a3 + 34 a4 with a0 , a1 , a2 , a3 , a4 belonging to the set {-1, 0, 1}? A) 5 B) 80 C) 81 D) 121        E) 243
+
+**Answer:** D
+[[src_kangourou_2004_student__Q15]]

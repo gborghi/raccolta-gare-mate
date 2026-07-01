@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f3__Q03
 parent: src_obm_2016_n1_f3
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3
@@ -40,6 +41,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-player game replacing numbers by differing in k binary digits; count losing positions*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FTPhBzZbiZWvXsDRSCaClgLp-YMTQevY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco a due giocatori che sostituiscono i numeri con k di cifre binarie; contare le posizioni perdenti*
+
+> $N_0$ sia un intero positivo fisso. Alberto e Beraldo giocano il seguente gioco a partire da $N_0$: eseguono alternativamente la seguente operazione  data un numero $n$, sostituendolo con un numero $m$ in modo tale che $m < n$ e, nelle loro rappresentazioni di base-$2$, $m$ e $n$ differiscono esattamente in $\ell$ cifre per alcuni $\ell$ con $1 \le \ell \le k$. Il giocatore che non può muoversi perde. Diciamo che un giocatore che riceve $n$ ha una strategia vincente se può sempre scegliere una mossa che porta alla vittoria indipendentemente dal gioco dell'avversario; altrimenti diciamo che perde. Prove che per ogni intero positivo $N$, il numero di interi non negativi perdenti inferiori a $2^N$ è massimo $2^N - \lfloor \log_2(\lfloor N/1 \rfloor) \rfloor$. (Osservazione: $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$. Ad esempio, $\lfloor 3.14 \rfloor = 3$, $\lfloor 2 \rfloor = 2$, $\lfloor -4.6 \rfloor = -5$.)
+
+[[src_obm_2016_n1_f3__Q03]]

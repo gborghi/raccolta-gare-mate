@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_riserva_triennio__Q01
 parent: src_archimede_2020_riserva_triennio
 competition: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di comprare tre capi tutti di tipo diverso*
 
@@ -44,3 +47,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oJMUKhCeVFFbkLLL48V2VZrR6ye_9VCN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to buy three different types of clothing*
+
+> Andrea's trying on clothes in a store. He's undecided between four shirts, five sweaters, four sweaters and three pants. He will buy three different types of clothes (not two shirts and a sweater or three trousers, etc.). How many ways will Andrea be able to make her purchases?
+>
+> - **(A)** 248
+> - **(B)** 342
+> - **(C)** 262
+> - **(D)** 294
+> - **(E)** 326
+
+[[src_archimede_2020_riserva_triennio__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2010 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2010__Q05
 parent: src_bocconi_semifinale_2010
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2010
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Mercato di campagna: massimo galline per una mucca*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 12 galline
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Farmer's market: maximum number of chickens per cow < MSK1/>
+
+> Thursday is a market day for farmers who exchange their animals in the village square. Here are the "prices": a duck is worth two chickens; a cow is worth a goat plus three ducks; a goat is worth two ducks plus two chickens. How many chickens can a farmer get for a cow?
+
+**Answer:** 12 galline
+[[src_bocconi_semifinale_2010__Q05]]

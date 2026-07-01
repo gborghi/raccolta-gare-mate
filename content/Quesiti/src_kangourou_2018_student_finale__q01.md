@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Finale Nazionale Student — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_finale__Q01
 parent: src_kangourou_2018_student_finale
 competition: Kangourou 2018 Finale Nazionale Student
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area massima di un quadrilatero di lati 1,4,7,8*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 18
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G_M-eOnqxzFZ-A4J1-CLR1Loyg3--KBZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum area of a square of sides 1,4,7,8*
+
+> The sides of a quadrilateral measure < MSK0/>. What's your maximum area?
+
+**Answer:** 18
+[[src_kangourou_2018_student_finale__Q01]]

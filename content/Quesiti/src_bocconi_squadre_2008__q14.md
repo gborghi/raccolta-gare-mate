@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q14
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di cioccolatini regalati da Carla a Milena*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Carla ha regalato a Milena 2003 oppure 1985 cioccolatini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of chocolates given by Carla to Milena< MSK1/>
+
+> Carla gives Milena a number of chocolates. Adding this number to the sum of its digits, you get 2008. How many chocolates did Carla give Milena?
+
+**Answer:** Carla ha regalato a Milena 2003 oppure 1985 cioccolatini
+[[src_bocconi_squadre_2008__Q14]]

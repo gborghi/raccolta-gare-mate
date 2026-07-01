@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f1__Q08
 parent: src_obm_2001_n1_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Occurrences of the group '89' in the string of integers 1..1000 written consecutively*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Incorrenze del gruppo '89' nella catena di numeri interi 1..1000 scritte consecutivamente*
+
+> I numeri interi positivi da $1$ a $1000$ sono scritti fianco a fianco, in ordine crescente, formando la sequenza $123456789101112131415\ldots9990000$. In questa sequenza, quante volte appare il gruppo "$89$"?
+> 
+> (A) $98$ \quad (B) $32$ \quad (C) $22$ \quad (D) $89$ \quad (E) $21$
+
+**Risposta:** B
+[[src_obm_2001_n1_f1__Q08]]

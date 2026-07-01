@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q18
 parent: src_kangourou_2018_benjamin_marzo
 competition: Kangourou 2018 Benjamin - Gara 15 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di tutti i numeri nella tabella triangolare*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of all numbers in the triangular table*
+
+![[src_kangourou_2018_benjamin_marzo__prob18.png]]
+
+> Emilia wants to insert a number into each cell of a triangular table so that the sum of the numbers in two cells sharing a side is the same. He's already entered two numbers. What will be the sum of all the numbers in the table? A) 18
+> 	
+> B) 20
+> 	
+> C) 21
+> 	
+> D) 22 E) It is impossible to determine.
+
+**Answer:** C
+[[src_kangourou_2018_benjamin_marzo__Q18]]

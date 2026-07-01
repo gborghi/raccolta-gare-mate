@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q16
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Shape obtained rotating a regular pentagon 252° about its center*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Forma ottenuta girando un pentagono regolare 252° attorno al suo centro*
+
+> Se ruotiamo un pentagono regolare, intorno al suo centro, per $252^\circ$ nella direzione in senso orario, quale cifra si ottiene?
+> 
+> (A) Figura A \quad (B) Figura B \quad (C) Figura C \quad (D) Figura D \quad (E) Figura E
+
+![[src_obm_2004_n1_f1__Q16.png]]
+
+**Risposta:** B
+[[src_obm_2004_n1_f1__Q16]]

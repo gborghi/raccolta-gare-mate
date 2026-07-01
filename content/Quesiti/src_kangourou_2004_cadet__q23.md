@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q23
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale non puo essere totale pagine (48/52)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which cannot be total pages (48/52) *
+
+> I put some magazines on a shelf. Some have 48 pages and some 52 pages. Which of these numbers cannot be the total number of pages of the magazines I put on the shelf? A) 500        B) 524        C) 568        D) 588       E) 620
+
+**Answer:** B
+[[src_kangourou_2004_cadet__Q23]]

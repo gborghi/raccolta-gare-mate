@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo30yq_yosen__Q06
 parent: src_jmo30yq_yosen
 competition: Japan Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three nested squares with two shared vertices, find shaded area*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{\sqrt{17}-1}{4}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre quadrati nidificati con due vertici condivisi, trovare area ombrata*
+
+> Ci sono tre quadrati nell'aereo. Come mostrato nella figura, due dei quattro vertici del più piccolo quadrato coincidono con due vertici del più grande quadrato, e le estensioni diagonali del più piccolo quadrato passano attraverso il vertice inferiore a sinistra del più grande quadrato. La lunghezza laterale del più piccolo quadrato è $1$ e la lunghezza laterale del più grande quadrato è $3$. Trova l'area dell'ombra.
+
+![[src_jmo30yq_yosen__Q06.png]]
+
+**Risposta:** \frac{\sqrt{17}-1}{4}
+[[src_jmo30yq_yosen__Q06]]

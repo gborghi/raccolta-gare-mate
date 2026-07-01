@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2012 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2012__Q03
 parent: src_cgen_2012
 competition: Concours Général des Lycées 2012 — Matematica
@@ -36,6 +37,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A postman visits each of n houses in a row exactly once per trip; count trips, find min and max trip lengths, and the expected length of a random trip.*
 
@@ -63,3 +66,25 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vIXYHNm7Pie0N6tpc5bYOGp1UUa2qApP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un postino visita ognuna delle n case in fila esattamente una volta per ogni viaggio; conta i viaggi, trova le lunghezze min e massime del viaggio e la durata attesa di un viaggio casuale.*
+
+> Problema 3: la casella postale suona ogni volta esattamente una volta (e solo una volta).
+> 
+> Un postino deve consegnare la posta in una sola strada. Questa strada è composta da una singola fila di case regolarmente spaziate e numerate $1, 2, \ldots, n$, dove $n$ è un numero intero maggiore o uguale a $2$.
+> 
+> Il postino deve consegnare una lettera per casa.
+> 
+> Per fare questo, inizia a partire in bicicletta a casa $1$ e lascia cadere la lettera corrispondente; poi distribuisce le altre lettere alle altre case, e infine ritorna a casa $1$ per prendere di nuovo la sua bicicletta.
+> 
+> Egli effettua così un solo viaggio, dove i numeri successivi delle case a cui ha consegnato formano un percorso di corriere.
+> 
+> Ad esempio, se $n = 5$, un viaggio possibile è $1, 5, 2, 4, 3, 1.$ La distanza totale percorsa, chiamata lunghezza del viaggio, è pari a $12$ poiché in questo caso è pari a $|5-1| + |2-5| + |4-2| + |3-4| + |1-3| = 12.$ Un altro viaggio possibile è $1, 3, 5, 4, 2, 1$, di lunghezza $8.$
+> 
+> 1. Quanti viaggi ci sono? 2. a) Indicare che ogni viaggio ha una lunghezza superiore o pari a < MSK0/>. (b) Quanti viaggi di minima lunghezza ci sono? 3. a) Nel caso $n = 5$, determinare la lunghezza massima di un viaggio e fornire un esempio di un viaggio di lunghezza massima. b) Per un $n$ arbitrario, determinare la lunghezza massima di un viaggio. 4. Uno disegna un viaggio a caso (tutti i viaggi sono equiprobabili). Qual è il valore atteso della lunghezza del viaggio?
+
+[[src_cgen_2012__Q03]]

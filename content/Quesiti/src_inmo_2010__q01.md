@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2010 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2010__Q01
 parent: src_inmo_2010
 competition: Indian National Mathematical Olympiad 2010
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcircle, angle bisector, intersection points, PQ parallel to BC*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GhkONMJ0LPgZdmr5745TyA4cn4-EdBzP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo, bisettore angolare, punti di intersezione, PQ parallelo a BC*
+
+> $ABC$ sia un triangolo con circoncircolo $\Gamma$. $M$ sia un punto all'interno del triangolo $ABC$ che si trova anche sul bisettore di $\angle A$. Lasciate che < MSK5/>, < MSK6/> e < MSK7/> si incontrino rispettivamente in < MSK9/>, < MSK10/> e < MSK11/>. Supponiamo che $P$ sia il punto di intersezione di $A_1C_1$ con $AB$; e $Q$ sia il punto di intersezione di $A_1B_1$ con $AC$. Provare che $PQ$ è parallelo a $BC$.
+
+![[src_inmo_2010__Q01.png]]
+
+[[src_inmo_2010__Q01]]

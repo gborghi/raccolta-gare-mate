@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q17
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colori magliette scimmie (II) conteggio*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 17
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>T-shirts for monkeys (II) counting < MSK1/>
+
+> Sylvier had actually bought 1 yellow shirt, 2 blue, 2 green and 3 red, leaving them in the room of the five monkeys.
+> 
+> In how many ways could the monkeys Albert, Berto, Sure, Derto, and Erto have worn the shirts, given their color aversions?
+
+**Answer:** 17
+[[src_gs_2008_squadre__Q17]]

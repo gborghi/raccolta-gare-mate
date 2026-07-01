@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1995 — Round 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1995_r1__Q08
 parent: src_pol_1995_r1
 competition: Olimpiade Matematica Polacca 1995 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular n-gon pyramid: prove sin²α − sin²β ≥ tan²(π/n)*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Piramida n-gon regolare: prova sin2α − sin2β ≥ tan2(π/n) *
+
+> In una piramide regolare con un gono regolare $n$ come base, una faccia laterale e la base formano un angolo $\alpha$, mentre un bordo laterale e il bordo base formano un angolo $\beta$. Provare che < MSK0/>
+
+[[src_pol_1995_r1__Q08]]

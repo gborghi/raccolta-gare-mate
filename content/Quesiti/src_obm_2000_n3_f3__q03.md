@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f3__Q03
 parent: src_obm_2000_n3_f3
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest n such that f(1)+...+f(n) >= 123456*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 24710
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova la n più piccola tale che f(1)+...+f(n) >= 123456*
+
+> Let $f$ essere una funzione definita sui numeri interi positivi della seguente forma: data $n$, scrivere $n = 2^a(2b+1)$ con $a$ e $b$ numeri interi non negativi, e definire $f(n) = a^2 + a + 1$.
+> 
+> Determinare il numero intero positivo più piccolo $n$ tale che $f(1) + f(2) + \cdots + f(n) \ge 123456$.
+
+**Risposta:** 24710
+[[src_obm_2000_n3_f3__Q03]]

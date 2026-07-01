@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2009 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2009__Q18
 parent: src_bocconi_primavera_2009
 competition: Semifinale di Primavera 2009
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato iniziale del terreno quadrato di Pietro*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** La lunghezza iniziale del lato del terreno di Pietro era di 13 m.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14prakvd6EDcEQSfmnn_-6oGG4wcPui_K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Initial side of the square of Peter's land*
+
+> Peter decides to enlarge his square ground so that it remains square but measures an extra meter on each side. In this way, the area of its land is increased by < MSK0/>.
+> 
+> What was the initial length of the side of Peter's land?
+
+**Answer:** La lunghezza iniziale del lato del terreno di Pietro era di 13 m.
+[[src_bocconi_primavera_2009__Q18]]

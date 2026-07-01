@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2019 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_automne__Q03
 parent: src_canimath_2019_automne
 competition: Coupe Animath Automne 2019
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle ABC with angle ABC = 60°; find all values of angle ACB*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC con angolo ABC = 60°; trovare tutti i valori dell'angolo ACB*
+
+> Lasciate che $ABC$ sia un triangolo di uguali dimensioni in modo che $\widehat{ABC} = 60^\circ$; non sappiamo quale vertice è l'apice. Trova tutti i valori possibili di $\widehat{ACB}$.
+
+[[src_canimath_2019_automne__Q03]]

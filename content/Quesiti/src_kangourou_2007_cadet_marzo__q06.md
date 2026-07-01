@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q06
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quale cerchio piu nero che bianco*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which circle is blacker than white< MSK1/>
+
+![[src_kangourou_2007_cadet_marzo__prob6.png]]
+
+> In which circle is the black part wider than the white? A) A B) B C) C D) D E) none of the four texts
+> 
+> I'm going to pay. I'm going to pay. 17 17 Kang 2007 Kang
+
+**Answer:** E
+[[src_kangourou_2007_cadet_marzo__Q06]]

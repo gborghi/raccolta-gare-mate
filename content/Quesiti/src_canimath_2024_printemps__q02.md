@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2024 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_printemps__Q02
 parent: src_canimath_2024_printemps
 competition: Coupe Animath Printemps 2024
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Parallelogram with equal segments, angle bisector perpendicular to KL*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Parallelogramma con segmenti uguali, bisettore angolare perpendicolare a KL*
+
+> $ABCD$ sia un parallelo. Il $K$ deve essere un punto del segmento $[BC]$ e $L$ un punto del segmento $[CD]$ tale che $CK = CL$. Indicare che il bisettore di $\widehat{DAB}$ e la linea $(KL)$ sono perpendicolari.
+
+[[src_canimath_2024_printemps__Q02]]

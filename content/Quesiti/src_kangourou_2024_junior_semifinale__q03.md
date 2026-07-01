@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Junior 2024 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q03
 parent: src_kangourou_2024_junior_semifinale
 competition: Kangourou Semifinale individuale Junior 2024
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di cifre di N (20230...0)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of digits of N (20230...0) *
+
+> (Points 3) The decimal representation of the integer N has the form 20230...0, where the unindicated digits are all 0. It is known that 0,0002024% of N is greater than 2025. How many digits must N have at least? A) 6 B) 7 C) 8 D) 10 E) 12 Answer: D). The solution. The positive integer k must be such that 2023 < MSK0/> 10k < MSK1/> 2024 / 107+2 > 2025: one must therefore have k < MSK2/> 6.
+
+**Answer:** D
+[[src_kangourou_2024_junior_semifinale__Q03]]

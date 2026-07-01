@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q08
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei numeri fuori dal quadrato*
 
@@ -39,3 +42,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of numbers outside the square*
+
+![[src_kangourou_2015_marzo_preecolier__prob8.png]]
+
+> What's the sum of the numbers outside the square? (see figure)
+> 
+> (A) $30$ (B) $60$ (C) $90$ (D) $45$ (E) $100$
+
+**Answer:** E
+[[src_kangourou_2015_marzo_preecolier__Q08]]

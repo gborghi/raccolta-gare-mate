@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q09
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *tempo totale*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>total time< MSK1/>
+
+> It takes Isabella half an hour to make halfway between home and school. How long does it take to get all the way from home to school?
+> 
+> (A) $15$ minutes (B) $30$ minutes (C) $60$ minutes (D) $120$ minutes (E) $40$ minutes
+
+**Answer:** C
+[[src_kangourou_2015_marzo_preecolier__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 finale nazionale Student — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student_finale__Q06
 parent: src_kangourou_2012_student_finale
 competition: Kangourou 2012 finale nazionale Student
@@ -24,6 +25,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Famiglia infinita di sottoinsiemi quasi-disgiunti non numerabile*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Infinite family of nearly disjoint unnumerable subsets*
+
+> We denote the sum of positive integers with < MSK0/>. It is known that the set of subsets of $\mathbb{N}$ cannot be given a bi-univocal correspondence with $\mathbb{N}$, but can be given a bi-univocal correspondence with any (non-trivial) interval of the real axis. Let's say that two infinite subsets of $\mathbb{N}$ are "almost disjoint" if they have at most a finite number of elements in common. Prove that there exists an infinite set that cannot be given a biunivocal correspondence with $\mathbb{N}$, whose elements are subsets of $\mathbb{N}$ two to two quasi-disjoint.
+
+[[src_kangourou_2012_student_finale__Q06]]

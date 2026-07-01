@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2010 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2010__Q01
 parent: src_cn_ctst_2010
 competition: China National Team Selection Test 2010
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcenters in acute triangle; AO bisects O1O2*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circumcenti in triangolo acuto; AO bisecta O1O2*
+
+> Per il triangolo acuto $ABC$ con $AB > AC$, $M$ deve essere il punto medio del lato $BC$ e $P$ un punto all'interno di $\triangle AMC$ tale che $\angle MAB = \angle PAC$. $O_1$, $O_2$, $O_3$ siano rispettivamente i circoncentri di $\triangle ABC$, $\triangle ABP$ e $\triangle ACP$. Prova che la riga $AO_1$ divide il segmento $O_2O_3$.
+
+[[src_cn_ctst_2010__Q01]]

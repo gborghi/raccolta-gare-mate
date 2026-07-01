@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f1__Q14
 parent: src_obm_2007_n3_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Repunits; find possible q with pX^2+qX+r a repunit for every repunit X*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ripuniti; trovare possibili q con pX^2+qX+r un ripunito per ogni ripunito X*
+
+> Diciamo che un numero naturale $X$ è un \textit{repunit} quando tutti i suoi numeri sono uguali a 1, cioè quando $X$ è della forma $11\ldots1$.
+> 
+> $p$, $q$, $r$ siano numeri interi, $p>0$, in modo che $pX^2+qX+r$ sia un repunito ogni volta che $X$ è un repunito. Quale dei valori di seguito è un valore possibile di $q$?
+> 
+> (A) $-2$ \quad (B) $-1$ \quad (C) $0$ \quad (D) $1$ \quad (E) $2$
+
+**Risposta:** E
+[[src_obm_2007_n3_f1__Q14]]

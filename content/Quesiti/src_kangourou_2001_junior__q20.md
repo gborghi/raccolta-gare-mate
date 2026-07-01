@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Junior (15 marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_junior__Q20
 parent: src_kangourou_2001_junior
 competition: Kangourou 2001 - Junior (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *n dato resto di 999:n*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>n given the remainder of 999:n< MSK1/>
+
+> In division 999: n, where n is a natural number of two digits (significant), the rest is 3. Then the rest of the 2001 division:
+>
+> - **(A)** 3
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 7
+> - **(E)** 9. The questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** E
+[[src_kangourou_2001_junior__Q20]]

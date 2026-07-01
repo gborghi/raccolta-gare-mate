@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2019 - Triennio (T1) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_triennio__Q02
 parent: src_archimede_2019_triennio
 competition: Giochi di Archimede 2019 - Triennio (T1)
@@ -23,6 +24,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prezzo del maglione se IVA passa dal 22% al 25%*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Price of sweater if VAT goes from 22% to 25%*
+
+> The sale price of an asset is obtained by increasing the actual amount of a certain percentage, called VAT (a tax, which is then paid to the tax). In a shop, the selling price of a sweater is 61,00 and, including VAT, at 22%. If VAT were to rise to 25%, what would the selling price of the sweater become?
+>
+> - **(A)** 62, 50 e
+> - **(B)** 64, 00 e
+> - **(C)** 62, 83 e
+> - **(D)** 62, 10 e
+> - **(E)** 62, 00 e
+
+**Answer:** A
+[[src_archimede_2019_triennio__Q02]]

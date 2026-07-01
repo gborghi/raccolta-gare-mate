@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_ecolier_f__Q15
 parent: src_kangourou_2015_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2015 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Euro per verniciare il solido di 4 cubi (EXPO)*
 
@@ -55,3 +58,26 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 250
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iZrTBi-soab93JlVJUtlAaAcp-N69n0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Euro for painting the solid of 4 cubes (EXPO) < MSK1/>
+
+![[src_kangourou_2015_squadre_ecolier_f__prob15.png]]
+
+> Four cubes The solid you see in the figure, prepared for EXPO 2015, is made by approaching four cubes, each two and a half meters by the side. It has to be painted on all sides, including the base, because every face of it has to be visible to the public. The cost of painting is two euros a kilogram and it takes five kilograms of paint to paint an area of four and a half square meters. How many euros will be spent on the paint needed to give a colorful hand to the solid?
+>  
+> 
+>  
+>  
+>  
+> Kangourou of Mathematics 2015 Kangourou Ecolier Popotus Cervia team cup, 8 May 2015
+>  
+>  
+>  
+> Questions and solutions
+
+**Answer:** 250
+[[src_kangourou_2015_squadre_ecolier_f__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo32ya_yosen__Q10
 parent: src_jmo32ya_yosen
 competition: Japan Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 25-element antichains in divisibility poset on {1,...,50}*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1632
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta le anticette di 25 elementi nel posetto di divisibilità su {1,...,50}*
+
+> Quanti modi ci sono per scegliere $25$ numeri interi distinti da $\{1, 2, \ldots, 50\}$ in modo tale che tra due numeri interi scelti, nessuno divida l'altro?
+
+**Risposta:** 1632
+[[src_jmo32ya_yosen__Q10]]

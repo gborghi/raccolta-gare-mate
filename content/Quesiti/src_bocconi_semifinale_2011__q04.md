@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2011 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2011__Q04
 parent: src_bocconi_semifinale_2011
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2011
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di 5 cifre diverse, non 0 ne 5, crescenti, con somma 20.*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Due soluzioni: 12368 e 12467
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of 5 different digits, not 0 or 5, increasing, with sum of 20.*
+
+> Fill the five boxes with five different digits. None can be equal to 0 or 5. Their sum must be equal to 20. Finally, they must be ordered (left to right) from the smallest to the largest.
+
+**Answer:** Due soluzioni: 12368 e 12467
+[[src_bocconi_semifinale_2011__Q04]]

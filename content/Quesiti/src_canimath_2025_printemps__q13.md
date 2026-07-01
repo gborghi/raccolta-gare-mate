@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2025 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_printemps__Q13
 parent: src_canimath_2025_printemps
 competition: Coupe Animath Printemps 2025
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max distinct values on board under 2023-of-2025 divisibility condition*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximi valori distinti a bordo in base alla condizione di divisibilità 2023-2025*
+
+> Su una lavagna sono scritti 2025 numeri interi rigorosamente positivi, non necessariamente distinti. Qualunque numero 2023 si scelga tra questi numeri 2025, ciascuno dei due numeri rimanenti divide la somma dei numeri scelti 2023.
+> 
+> Qual è il numero massimo di valori distinti che possono apparire sulla tabella?
+
+[[src_canimath_2025_printemps__Q13]]

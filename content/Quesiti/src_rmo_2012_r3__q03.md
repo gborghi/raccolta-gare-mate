@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Region 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_r3__Q03
 parent: src_rmo_2012_r3
 competition: Regional Mathematical Olympiad 2012
@@ -31,6 +32,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a^a b^b + b^a a^b ≤ 1 for positive reals a+b=1*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p3hmhNY4gaLMNi2r8GZ88wmUwZnVczZX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove a^a b^b + b^a a^b ≤ 1 per i risultati positivi a+b=1*
+
+> $a$ e $b$ siano numeri reali positivi come $a + b = 1$. Prove che $a^a b^b + b^a a^b \le 1$.
+
+[[src_rmo_2012_r3__Q03]]

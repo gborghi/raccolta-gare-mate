@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Junior (gara marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_junior__Q03
 parent: src_kangourou_2011_junior
 competition: Kangourou 2011 Junior (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del rettangolo da somme di tre lati 20 o 22*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AJCl_AfEoFXnuVsI8nXmEWfRHRXKCZ3O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of the rectangle by sums of three sides 20 or 22*
+
+> If we add up the lengths of three sides of an assigned rectangle, I can get 20 or 22. How much is the perimeter of the rectangle? A) 38 B) 28 C) 30 D) 48 E) 56
+
+**Answer:** B
+[[src_kangourou_2011_junior__Q03]]

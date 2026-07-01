@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q07
 parent: src_kangourou_2009_ecolier_marzo
 competition: Kangourou 2009 - Ecolier (gara 19 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadratini iniziali della tavoletta di cioccolata*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Initial squares of the chocolate table< MSK1/>
+
+![[src_kangourou_2009_ecolier_marzo__prob7.png]]
+
+> Peter had a chocolate table divided into squares. He gave a five-square strip to his brother and a seven-square strip to his sister; the strips were removed from the tablet as shown in the figure. How many squares did the chocolate table initially consist of? A) 20 B) 40 C) 50 D) 60 E) 80
+
+**Answer:** B
+[[src_kangourou_2009_ecolier_marzo__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2002 - Biennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_biennio__Q20
 parent: src_archimede_2002_biennio
 competition: Giochi di Archimede 2002 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso escluso per equilibrio con cinque dei sei pesi*
 
@@ -46,3 +49,19 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Weight excluded by balance with five of the six weights*
+
+> Six weights of 2, 3, 5, 7, 9, 10 hectograms are available. Five of these are placed on the two plates of a scale so that it is in balance. What's the excluded weight?
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 5
+> - **(D)** 10
+> - **(E)** It's impossible to determine.
+
+[[src_archimede_2002_biennio__Q20]]

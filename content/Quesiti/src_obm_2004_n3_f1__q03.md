@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q03
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest interior angle of a triangle with sides 12, 15, 20.*
 
@@ -48,3 +51,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'angolo interno più grande di un triangolo con lati 12, 15, 20.*
+
+> I lati di un triangolo misurano 12, 15 e 20. L'angolo interno più grande del triangolo misura
+> 
+> (A) $72^\circ$ (B) $75^\circ$ (C) $90^\circ$ (D) $108^\circ$ (E) $120^\circ$
+
+[[src_obm_2004_n3_f1__Q03]]

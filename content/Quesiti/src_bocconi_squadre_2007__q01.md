@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2007 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2007__Q01
 parent: src_bocconi_squadre_2007
 competition: Gara a Squadre 2007
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Inserire operazioni tra sette 7 per ottenere 34*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Insert operations between 7 sets to get 34*
+
+> Place, instead of the asterisk, the appropriate operation marks (using them all at least once: sum, subtraction, multiplication, division) so that  without using the parentheses  resulting in: $$7 * 7 * 7 * 7 * 7 * 7 * 7 = 34$$ (Sufficient to provide a solution)
+
+[[src_bocconi_squadre_2007__Q01]]

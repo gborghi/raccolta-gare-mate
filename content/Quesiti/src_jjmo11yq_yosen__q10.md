@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo11yq_yosen__Q10
 parent: src_jjmo11yq_yosen
 competition: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimal PQ for circles through hexagon vertex pairs*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (2/3)*sqrt(6)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KqvofIIXgEWPDHUAZMRGkscvso3ZVrK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*PQ minimo per i cerchi attraverso coppie di vertici esagoni*
+
+> Si consideri un esagono regolare $ABCDEF$ con lunghezza laterale $1$. C'è un cerchio che attraversa i due punti $A$ e $C$, e un cerchio che attraversa i due punti $B$ e $D$; questi due cerchi si incrociano a un punto $P$ e a un punto $Q$. Trovare il minimo valore possibile della lunghezza del segmento $PQ$. Qui, si presume che i due cerchi siano distinti.
+
+**Risposta:** (2/3)*sqrt(6)
+[[src_jjmo11yq_yosen__Q10]]

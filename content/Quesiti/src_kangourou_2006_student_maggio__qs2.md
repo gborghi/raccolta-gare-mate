@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student finale (maggio) — Quesito S2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_maggio__QS2
 parent: src_kangourou_2006_student_maggio
 competition: Kangourou 2006 Student finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *p+q prodotto di almeno tre interi >1 (primi consecutivi)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** e vero
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ianQsLYKRWCoToqRQQItfRaLtb1Nj0Gq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*p+q product of at least three integers >1 (first consecutive) *
+
+> They are $p$ and $q$ two prime numbers, different from each other and both different from 2, such that there is no prime number strictly between $p$ and $q$. Is it true that $p + q$ is the product of at least three positive integers greater than 1 (not necessarily different from each other)? If the answer is yes, it gives a reason, if the answer is no, it gives a counterexample.
+
+**Answer:** e vero
+[[src_kangourou_2006_student_maggio__QS2]]

@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2010 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2010__Q04
 parent: src_cn_csmo_2010
 competition: China Southeastern Mathematical Olympiad 2010
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count good pairs (a,b) with 1<=a<=b<=10 and ab | a^k - b^k for some k*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare buone coppie (a, b) con 1 <=a <=b <=10 e ab , a^k - b^k per qualche k *
+
+> $a$ e $b$ siano integri positivi come $1 \le a \le b \le 10$. Se esiste un intero positivo $k$ tale che $ab \mid (a^k - b^k)$, allora diciamo che la coppia $(a, b)$ è buona. Determina il numero di buone coppie.
+
+[[src_cn_csmo_2010__Q04]]

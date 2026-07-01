@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r1__Q01
 parent: src_pol_1993_r1
 competition: Olimpiade Matematica Polacca 1993 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve an equation with absolute values and the sign function in reals.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi un'equazione con valori assoluti e la funzione del segno in reales.*
+
+> Risolvere la seguente equazione in numeri reali: $$\frac{(x^2-1)(|x|+1)}{x+\operatorname{sgn} x}=[x+1].$$
+
+[[src_pol_1993_r1__Q01]]

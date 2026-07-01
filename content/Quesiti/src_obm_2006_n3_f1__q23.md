@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q23
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Among the 2161 products 0·2160, 1·2159, ..., 2160·0, count how many are multiples of 2160.*
 
@@ -51,3 +54,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Tra i prodotti 2161 0·2160, 1·2159, ..., 2160·0, contare quanti sono i multipli di 2160.
+
+> Considerate i prodotti 2161 < MSK0/>, < MSK1/>, < MSK2/>, < MSK3/>, < MSK4/>. Quanti di loro sono moltiplicati di 2160?
+> 
+> (A) 2 \quad (B) 3 \quad (C) 12 \quad (D) 13 \quad (E) 2161
+
+[[src_obm_2006_n3_f1__Q23]]

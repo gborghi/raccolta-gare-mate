@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q05
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Membri fra tre anni (+50% ogni anno)*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Members after three years (+50% annually) < MSK1/>
+
+> An international body currently consists of 32 members. How many members will it have in three years' time if the number of members is 50% higher than the previous year? A) 182 B) 128 C) 108 D) 96 E) 80 Texts
+> 
+> I'm going to pay. I'm going to pay. 23 23 Kang 2007 Kang 2007
+
+**Answer:** C
+[[src_kangourou_2007_junior_marzo__Q05]]

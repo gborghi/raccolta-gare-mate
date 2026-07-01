@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_b__Q01
 parent: src_cesenatico_2006_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2006 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *AP intersezione altezza-mediana in triangolo rettangolo 21,20*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 6731
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AP height-median intersection in a rectangular triangle of 21.20*
+
+> Unveiled impostors People often wonder how a mathematician can be recognized by a mateban, that is, someone who is fasting mathematics. The method is very simple! Try asking a mattress the following question. In an ABC triangle, straight to A, be AB = 21 and AC = 20. P is the intersection of height from A to median from B. Determine the AP. Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+
+**Answer:** 6731
+[[src_cesenatico_2006_squadre_semifinale_b__Q01]]

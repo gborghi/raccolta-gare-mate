@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_triennio__Q19
 parent: src_archimede_2014_triennio
 competition: Giochi di Archimede 2014 - Triennio (Testo 1)
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di non bagnarsi per tre giorni di fila*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of not getting wet for three days in a row< MSK1/>
+
+> It often happens this season that when Luke leaves school it rains: this happens with a probability of 2.5. For this reason Luke feels it appropriate to take an umbrella with him, but sometimes he forgets it; the probability that Luke forgets the umbrella in a single day is 12. What are the odds that for three days in a row, Luke never bathes on his way home from school? (A) less than 16, (B) between 16 and 13, (C) between 13 and 12, (D) between 12 and 2, (E) greater than 5. 6.
+
+**Answer:** D
+[[src_archimede_2014_triennio__Q19]]

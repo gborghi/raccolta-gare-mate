@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (finale nazionale) — Quesito C3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet_finale__QC3
 parent: src_kangourou_2005_cadet_finale
 competition: Kangourou 2005 - Cadet (finale nazionale)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area rettangolo ombreggiato in triangolo rettangolo*
 
@@ -52,3 +55,31 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 5 cm2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xu5y5JpzGNUIyhivHcF8Vczu7vpaLZFN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shaded rectangular area in rectangular triangle*
+
+![[src_kangourou_2005_cadet_finale__probC3.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (8,0);
+  \coordinate (C) at (0,6);
+  \coordinate (P) at (6,1.5);
+  \fill[yellow!80!white] (A) -- (6,0) -- (P) -- (0,1.5) -- cycle;
+  \draw (A) -- (6,0) -- (P) -- (0,1.5) -- cycle;
+  \draw[thick] (A) -- (B) -- (C) -- cycle;
+  \node[right] at (P) {P};
+\end{tikzpicture}
+\end{document}
+```
+
+> Look at the figure. The $ABC$ triangle is rectangular and the point $P$ is $1$ cm away from both the $AB$ catheter, which is $8$ cm long, and the $BC$ hypotenuse, which is $10$ cm long. What is the area of the shaded rectangle? (see figure)
+
+**Answer:** 5 cm2
+[[src_kangourou_2005_cadet_finale__QC3]]

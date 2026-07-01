@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Biennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_biennio__Q08
 parent: src_archimede_2008_biennio
 competition: Giochi di Archimede 2008 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Diametro biscotti rotondi in sfoglia quadrata*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Diameter of round biscuits in square shape*
+
+![[src_archimede_2008_biennio__prob8.png]]
+
+> The mother has a square-shaped, side-by-side, 40-cm-shaped slice of pasta from which she slices five round biscuits, all of them equal to each other, according to the pattern in the figure. What is the diameter of each cookie?
+>
+> - **(A)** 40( √ 2 −1) cm,
+> - **(B)** 10 √ 2 cm,
+> - **(C)** 20( √ 2 −1) cm,
+> - **(D)** 16 cm,
+> - **(E)** 6( √ 2 + 1) cm.                                          
+
+**Answer:** A
+[[src_archimede_2008_biennio__Q08]]

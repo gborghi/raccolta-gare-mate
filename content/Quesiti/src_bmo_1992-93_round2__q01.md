@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1992-93 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1992-93_round2__Q01
 parent: src_bmo_1992-93_round2
 competition: British Mathematical Olympiad 1992-93 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest a+b+c for angle unit with distinct labelled angles in nested triangles*
 
@@ -50,3 +53,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aFT9G_ZKn1J7Wpj9P28kBqV5xurU7n--/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la più piccola a+b+c per unità angolare con angoli segnalati distinti nei triangoli nidificati*
+
+> Di solito misuriamo gli angoli in gradi, ma possiamo usare qualsiasi altra unità che scegliamo. Ad esempio, se usiamo $30^\circ$ come nuova unità, allora gli angoli di un triangolo $30^\circ$, $60^\circ$, $90^\circ$ sarebbero uguali rispettivamente a $1$, $2$, $3$ nuove unità.
+> 
+> Il diagramma mostra un triangolo $ABC$ con un secondo triangolo $DEF$ inserito in esso. Tutti gli angoli del diagramma sono multipli interi di qualche nuova (unità sconosciuta); le loro dimensioni $a, b, c, d, e, f, g, h, i, j, k, \ell$ rispetto a questa nuova unità angolare sono tutte distinte.
+> 
+> Trova il minimo valore possibile di $a + b + c$ per il quale si può scegliere un'unità di angolo e segna i valori corrispondenti degli angoli $a$ a $\ell$ nel diagramma.
+
+![[src_bmo_1992-93_round2__Q01.png]]
+
+[[src_bmo_1992-93_round2__Q01]]

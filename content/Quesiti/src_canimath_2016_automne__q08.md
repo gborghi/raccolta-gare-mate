@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2016 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2016_automne__Q08
 parent: src_canimath_2016_automne
 competition: Coupe Animath Automne 2016
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum integers equal to 1 in a 'jolie' list of 100 positive integers*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 95
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di numeri interi uguali a 1 in un elenco "jolie" di 100 numeri interi positivi*
+
+> Un elenco di numeri è chiamato *jolie* se è costituito da integri rigorosamente positivi in modo tale che la somma di questi integri sia pari al loro prodotto. Determinare il numero più piccolo di numeri interi uguali a 1 che una lista di 100 numeri può contenere.
+
+**Risposta:** 95
+[[src_canimath_2016_automne__Q08]]

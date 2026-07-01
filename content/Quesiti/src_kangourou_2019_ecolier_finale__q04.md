@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q04
 parent: src_kangourou_2019_ecolier_finale
 competition: Kangourou 2019 Finale Nazionale Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sequenze vincenti testa o croce sei lanci*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0012
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Winning sequences head or cross six throws *
+
+> From the grid you see in the figure next to her, Catherine cuts a card made up of two adjacent boards. Which of the following cards can you get?
+>
+> - **(A)**
+> - **(B)**
+> - **(C)**
+> - **(D)**
+> - **(E)** (see figure)
+
+**Answer:** 0012
+[[src_kangourou_2019_ecolier_finale__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f2__Q09
 parent: src_obm_2014_n1_f2
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Place +, -, x signs between digits of 2014; count integer and distinct results*
 
@@ -52,3 +55,17 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Place +, -, x segni tra i numeri del 2014; contare numeri interi e risultati distinti*
+
+> Mettendo segni $+$, $-$ o $\times$ tra i numeri del 2014 e calcolando il valore dell'espressione, possiamo ottenere risultati diversi. Per esempio, $2 + 0 - 1 \times 4 = -2$, $2 - 0 + 1 \times 4 = 6$.
+> 
+> *Nota: Ricorda che la divisione per zero non è consentita, quindi le espressioni che richiedono questa operazione non sono consentite.*
+> 
+> a) Quale di questi risultati non è un numero intero? b) In quanti modi possiamo mettere i segni tra i numeri? c) Quanti risultati diversi sono possibili?
+
+[[src_obm_2014_n1_f2__Q09]]

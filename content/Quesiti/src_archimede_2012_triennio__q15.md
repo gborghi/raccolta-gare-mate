@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_triennio__Q15
 parent: src_archimede_2012_triennio
 competition: Giochi di Archimede 2012 - Triennio
@@ -32,6 +33,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita somma 11 con dado a 4 e dado a 8 facce*
 
@@ -53,3 +56,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability sum 11 with 4 face dice and 8 face dice< MSK1/>
+
+> The answer is B. The possible events after throwing the two dice can be represented by all the ordered pairs (d1, d2) where d1 is the value of the first dice and d2 is the value of the second; since d1 can vary between 4 possible values and d2 between eight possible values, the total number of events is 32. Let's see that for each d1 value of the 4-sided dice there is one and only one d2 value of the 8-sided dice whose sum with d1 is 11. So the favourable events, or the pairs (d1, d2) such that the sum of d1 + d2 is 11, is 4, out of a total of 32. The probability of a favorable event occurring is then 4 32 = 18. [Problem proposed by S. Mongols.]
+
+**Answer:** B
+[[src_archimede_2012_triennio__Q15]]

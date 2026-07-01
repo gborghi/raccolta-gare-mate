@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f1__Q17
 parent: src_obm_2000_n2_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count rectangles with both A and B as vertices on a 9x9 grid*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare rettangoli con A e B come vertici su una griglia 9x9*
+
+> Quanti rettangoli contengono entrambi i punti $A$ e $B$ come vertici, con tutti i vertici all'intersezione delle linee orizzontali $9$ con le linee verticali $9$ mostrate nella figura?
+> 
+> A) $3$ \quad B) $4$ \quad C) $7$ \quad D) $2$ \quad E) $5$
+
+![[src_obm_2000_n2_f1__Q17.png]]
+
+**Risposta:** E
+[[src_obm_2000_n2_f1__Q17]]

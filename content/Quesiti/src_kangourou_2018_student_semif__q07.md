@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Student — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_semif__Q07
 parent: src_kangourou_2018_student_semif
 competition: Kangourou 2018 Semifinale Student
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Per cosa non e divisibile 2019*2018^2 - 2018*2019^2*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is a list of the countries of the European Economic Area.
+
+> (Points 5) The number 201920182 - 201820192 is not divisible by A) 99 B) 101 C) 121 D) 1001 10001
+
+**Answer:** D
+[[src_kangourou_2018_student_semif__Q07]]

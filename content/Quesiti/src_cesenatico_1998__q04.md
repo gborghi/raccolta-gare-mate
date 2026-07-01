@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Cesenatico 1998 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_1998__Q04
 parent: src_cesenatico_1998
 competition: Gara Nazionale Cesenatico 1998
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *BC^2=CD·CE in trapezio con diagonali perpendicolari*
 
@@ -39,3 +42,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1808Il3eNlCCoCmtYEGf6RgJ9jHdMSKuA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>BC^2=CD·CE in trapezoidal with perpendicular diagonals< MSK1/>
+
+![[src_cesenatico_1998__prob4.png]]
+
+> Whether $ABCD$ a trapezoid with a greater base $AB$ such that the diagonal $AC$ and $BD$ are perpendicular. either $O$ the center of circumference surrounding the $ABC$ triangle and $E$ the intersection point between the $OB$ straight line and the $CD$ straight line. Show that $$BC^2 = CD \cdot CE.$$
+
+[[src_cesenatico_1998__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2012 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2012__Q12
 parent: src_bocconi_autunno_2012
 competition: Giochi d'Autunno 2012
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Facce di solido da cubo tagliato per ogni vertice*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 38
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NV-k_HLPNGANyAIvy1osIKx3v70VuvCV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Cut cubic solids for each vertex< MSK1/>
+
+> You remove a small part of a wooden cube from the area around each vertex and you get a solid with 14 faces. How many faces will you get if you take out a small part of the 14-faced solid in the area around each vertex?
+
+**Answer:** 38
+[[src_bocconi_autunno_2012__Q12]]

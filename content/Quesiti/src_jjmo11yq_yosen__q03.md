@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo11yq_yosen__Q03
 parent: src_jjmo11yq_yosen
 competition: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle in cyclic heptagon with five equal sides*
 
@@ -38,3 +41,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 200/3 degrees
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KqvofIIXgEWPDHUAZMRGkscvso3ZVrK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Angolo in un eptagono ciclico con cinque lati uguali< MSK1/>
+
+> Un eptagone $PABCDEF$ è inserito in un cerchio, e $$AB=BC=CD=DE=EF$$ si tiene. Se $\angle PAB=100^\circ$ e $\angle PFE=120^\circ$, trovare $\angle FPA$. Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.
+
+![[src_jjmo11yq_yosen__Q03.png]]
+
+**Risposta:** 200/3 degrees
+[[src_jjmo11yq_yosen__Q03]]

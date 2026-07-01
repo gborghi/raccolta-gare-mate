@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q08
 parent: src_kangourou_2019_benjamin_marzo
 competition: Kangourou 2019 Gara di Marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *A quale giorno corrisponde il gioco nel 2020*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mCVu8mcZWozh4A9IixxiUAmKQbLsElwm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What day is the game in 2020*
+
+> Kangourou Day is always on the third Thursday of March: this year it corresponds to the 21st. And in 2020, what day will it be? A) Al 19	. B) Al 20	. C) Still at 21. D) Al 22	. E) Al 23.
+
+**Answer:** A
+[[src_kangourou_2019_benjamin_marzo__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q26
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre nella moltiplicazione 45xA3*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers in multiplication by 45xA3*
+
+> Replace each letter with a digit so that the result of multiplication is accurate. 45 × A3 = 3BCD The sum of the four digits entered is:
+>
+> - **(A)** 20
+> - **(B)** 21
+> - **(C)** 17
+> - **(D)** more than 21
+> - **(E)** less than 17.
+
+**Answer:** D
+[[src_kangourou_2001_benjamin__Q26]]

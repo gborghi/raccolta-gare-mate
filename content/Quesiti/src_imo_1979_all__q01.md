@@ -1,6 +1,7 @@
 ---
 title: IMO 1979 (Twenty-first International Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1979_all__Q01
 parent: src_imo_1979_all
 competition: IMO 1979 (Twenty-first International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prove numerator p of alternating harmonic sum divisible by 1979*
 
@@ -35,3 +38,13 @@ tags:
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zEPuPBU2bBcA_YKZy9BbfgTGEtgtWSpu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Prove numerator p of alternating harmonic sum divisible by 1979*
+
+> If $p$ and $q$ are natural numbers such that $$\frac{p}{q} = 1 - \frac{1}{2} + \frac{1}{3} - \frac{1}{4} + \cdots - \frac{1}{1318} + \frac{1}{1319}.$$ Show that $p$ is divisible by $1979$.
+
+[[src_imo_1979_all__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2017-18 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2017-18_round1__Q05
 parent: src_bmo_2017-18_round1
 competition: British Mathematical Olympiad 2017-18 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest k of coloured squares so no uncoloured 100-comb fits in 200x200 grid*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro quadrati colorati più piccoli, in modo che non si inseriscano in una griglia di 200x200 100 colori *
+
+> Se prendiamo una griglia $2 \times 100$ (o $100 \times 2$) di quadrati unitari, e rimuoviamo i quadrati alternativi da un lato lungo, i quadrati rimanenti $150$ formano un $100$-combo. Henry prende una griglia $200 \times 200$ di quadrati unità, e sceglie $k$ di questi quadrati e li colora in modo che James non sia in grado di scegliere $150$ quadrati incolori che formano un $100$-combo. Qual è il minimo valore possibile di $k$?
+
+[[src_bmo_2017-18_round1__Q05]]

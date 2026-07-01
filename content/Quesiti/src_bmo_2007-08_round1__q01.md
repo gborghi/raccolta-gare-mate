@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2007-08 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2007-08_round1__Q01
 parent: src_bmo_2007-08_round1
 competition: British Mathematical Olympiad 2007-08 — Round 1
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate a fraction of fourth and second powers*
 
@@ -43,3 +46,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RB1RkGzKd2r9NM4xaNaiRaoP15anlQ-K/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare una frazione delle potenze quarta e seconda*
+
+> Trova il valore di $$\frac{1^4 + 2007^4 + 2008^4}{1^2 + 2007^2 + 2008^2}.$$
+
+[[src_bmo_2007-08_round1__Q01]]

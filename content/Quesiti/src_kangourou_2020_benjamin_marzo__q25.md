@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q25
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale combinazione gelato-decorazione NON e possibile*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which combination of ice cream and decoration is NOT possible< MSK1/>
+
+![[src_kangourou_2020_benjamin_marzo__prob25.png]]
+
+> Ten boys order a ball of ice cream each. They order four vanilla balls, three chocolate balls, two lemon balls and a strawberry ball. On top of each ice cream is a decoration chosen from a box containing 4 umbrellas, 3 cherries, 2 wafers and 1 chocolate and the choice is made so that each ice cream, once decorated, can be distinguished from each other. Which of the following combinations is NOT possible? A) Chocolate ice cream with wafers. B) Lemon ice cream with umbrella. C) Vanilla ice cream with umbrella. D) Strawberry ice cream with cherry. E) Vanilla ice cream with chocolate.
+
+**Answer:** D
+[[src_kangourou_2020_benjamin_marzo__Q25]]

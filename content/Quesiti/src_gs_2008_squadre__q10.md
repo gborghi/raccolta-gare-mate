@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q10
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza lato lungo del foglio piegato*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2320
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Long side difference of folded sheet*
+
+> Pepper takes a sheet, folds it in half on the long side and cuts it along the fold. Take one of the two sides, fold it in two on the long side and cut it along the fold. Repeat the same operation three more times (five cuts in total), and you get a sheet size < MSK0/>.
+> 
+> How much could he measure the long side of the sheet from which he had begun? How much could he at least measure? Give the difference between the two measurements in millimetres as an answer.
+
+**Answer:** 2320
+[[src_gs_2008_squadre__Q10]]

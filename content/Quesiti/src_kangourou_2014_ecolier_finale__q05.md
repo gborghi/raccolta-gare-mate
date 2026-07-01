@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale Ecolier — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier_finale__Q05
 parent: src_kangourou_2014_ecolier_finale
 competition: Kangourou 2014 finale Ecolier
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scoiattolo svuota 15 piattini in quattro visite*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eeR5ULKkoZEBoRxzdiK9J7w9p-cjXAx-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Scoyattolo empties 15 plates in four visits< MSK1/>
+
+> AV BZ CR DS
+
+[[src_kangourou_2014_ecolier_finale__Q05]]

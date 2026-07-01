@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior (18 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior__Q08
 parent: src_kangourou_2004_junior
 competition: Kangourou 2004 Junior (18 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti biscotti nel vassoio*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many biscuits are in the tray< MSK1/>
+
+> In one tray, between cookies and chocolates, there are 30 candy bars in all. If we pick up 12 candies at random from the tray, we find at least one cookie among them; if we pick up 20 candies at random from the tray, we find at least one chocolate in them. How many cookies are in the tray? A) 11           B) 12           C) 19          D) 20         E) 29
+
+**Answer:** C
+[[src_kangourou_2004_junior__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Ecolier (finale nazionale) — Quesito E6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_finale__QE6
 parent: src_kangourou_2006_ecolier_finale
 competition: Kangourou 2006 - Ecolier (finale nazionale)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo mattonelle per quadrato lato 7*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 12
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ENJjl4aQcW623JJ5_e3uB1g4bMks6Vti/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum bricks per square side 7*
+
+![[src_kangourou_2006_ecolier_finale__probE6.png]]
+
+> You can have, in any quantity you want, three different sizes of square bricks: their sides are 1, 2 or 3 decimeter long. By approaching them, without overlapping them, and without leaving any uncovered areas, you can build a square whose side measures seven centimetres. What is the smallest number of bricks that you can get close enough to and how should they be distributed between the different sizes? Use the square to draw the figure that makes the solution you found and explain why you don't think a smaller number of bricks is enough. (You can also use the square for any other drawings that may serve the purpose.)
+
+**Answer:** 12
+[[src_kangourou_2006_ecolier_finale__QE6]]

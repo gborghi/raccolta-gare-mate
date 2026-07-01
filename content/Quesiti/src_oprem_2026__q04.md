@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2026 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2026__Q04
 parent: src_oprem_2026
 competition: Olympiades Nationales de Mathématiques (Première) 2026
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exercise 1, Q4: volume of frustum bucket, water-level radius and half-fill level*
 
@@ -43,3 +46,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LLPTi5ufMEDVFp1I29WzXWLiM0F8_rKH/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Esercizio 1, Q4: volume del secchio di frustum, raggio del livello dell'acqua e livello di mezzo riempimento< MSK1/>
+
+> Esercizio 1 (tutti i candidati) - La metà non è stupida. Un secchio ha la forma di un cono troncato di piccolo raggio $r$, grande raggio $R > r$ e altezza totale $h$. a) giustificare che il volume totale sia < MSK3/>. b) Si riempie il secchio fino ad un'altezza $x$; $\rho$ sia il numero reale appartenente all'intervallo $[0,h]$ in modo tale che la superficie dell'acqua a questa altezza $x$ sia un disco di raggio $\rho$. Determinare < MSK9/> in termini di < MSK10/>, < MSK11/>, < MSK12/> e < MSK13/>. c) Supponiamo che $r = 1$, $R = 1.2$ e $h = 2$. Utilizzando la calcolatrice, indicare un valore approssimativo di $x$ in modo che il secchio sia riempito a metà della sua capacità. Perché non si può limitare la ricerca intorno al valore $x = 1$?
+
+![[src_oprem_2026__Q04.png]]
+
+[[src_oprem_2026__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2021 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_printemps__Q04
 parent: src_canimath_2021_printemps
 competition: Coupe Animath Printemps 2021
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Proper divisors of a multiple of 2020: sum of odd divisors below sum of even divisors*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*divisioni propri di un multiple di 2020: somma di divisori unici inferiori alla somma di divisori pari*
+
+> Aline sceglie un numero intero $n$ divisibile da $2020$ alla tabella. Scrive poi sulla lavagna tutti i numeri interi $d$ che dividono $n$ e tali che $1 \le d < n$. Prove che la somma dei numeri odd scritti sulla lavagna è inferiore alla somma dei numeri interi pari scritti sulla lavagna.
+
+[[src_canimath_2021_printemps__Q04]]

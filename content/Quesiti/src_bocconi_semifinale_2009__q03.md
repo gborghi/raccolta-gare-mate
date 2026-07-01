@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2009 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2009__Q03
 parent: src_bocconi_semifinale_2009
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2009
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorno di marzo con scrittura strana identica al numero*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 22
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Day of March with odd writing identical to the number *
+
+> In March, every morning, Luke writes down the day's number. He writes it in a somewhat odd way: the $1^\circ$ March, writes $11$ (a "1"); the $2$ March, writes $12$ (two "2"); the $10$ March, writes $1110$ (a "1", a "0"); the $11$ March, writes $21$ (two "1"); the $11$ March, writes $21$ (two "1");
+> 
+> What will be the day in March when the strange script used by Luke will be identical to the actual number of days?
+
+**Answer:** 22
+[[src_bocconi_semifinale_2009__Q03]]

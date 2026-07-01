@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Cadet — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_finale__Q04
 parent: src_kangourou_2019_cadet_finale
 competition: Kangourou 2019 Finale Nazionale Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tra quanti anni la luna piena tornera a Ferragosto*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 22
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1smvCpL_hdFhIZi16iX73KtjPyMEZu5zx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+In a few years the full moon will return to February.
+
+> Last August 15th, a full moon day in February. Assuming that the lunar cycle is exactly 28 days long, how many years from now will there be a full moon again in February? (If, for example, it happens next year, you should answer: in 1 year.)
+
+**Answer:** 22
+[[src_kangourou_2019_cadet_finale__Q04]]

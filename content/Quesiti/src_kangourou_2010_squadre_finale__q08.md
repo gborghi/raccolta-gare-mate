@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2010 squadre finale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2010_squadre_finale__Q08
 parent: src_kangourou_2010_squadre_finale
 competition: Kangourou 2010 squadre finale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato somma con frazioni in due parentesi*
 
@@ -94,3 +97,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1340
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Result sum with fractions in two brackets< MSK1/>
+
+> What is the result of the following sum?
+>  
+>       + + + + + +       + + + + + + + + + + 670 1 669 1 ... 3 1 2 1 1 2010 2009 2008 2007 2006 2005 ... 9 8 7 6 5 4 3 2 1
+
+**Answer:** 1340
+[[src_kangourou_2010_squadre_finale__Q08]]

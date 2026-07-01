@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q02
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which of the given numbers divides a product of powers.*
 
@@ -52,3 +55,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quale dei numeri dati divide un prodotto delle potenze.*
+
+> Quale dei seguenti numeri è un divisore di $3^5\cdot 4^4\cdot 5^3$?
+>
+> - **(A)** $42$
+> - **(B)** $45$
+> - **(C)** $52$
+> - **(D)** $85$
+> - **(E)** $105$
+
+**Risposta:** B
+[[src_obm_2010_n3_f1__Q02]]

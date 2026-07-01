@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q11
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Logic puzzle: six friends, two per transport, deduce who rides what*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Puzzle logico: sei amici, due per trasporto, dedurre chi cavalca cosa*
+
+> Sei amici pianificano di viaggiare in coppia, ognuno utilizzando un mezzo di trasporto diverso: aereo, treno e auto. Alexandre accompagna Bento. André viaggia in aereo. Dário non usa il treno. Tomás non viaggia in aereo o in treno. Quale delle seguenti affermazioni è corretta?
+> 
+> Bento viaggia in macchina e Carlos viaggia in aereo. Dário e Carlos viaggiano in auto. **C) ** Tomás viaggia in aereo e André viaggia in aereo. **D) ** Alexandre viaggia in treno e Tomás in auto. André viaggia in treno e Alexandre in auto.
+
+**Risposta:** D
+[[src_obm_2006_n2_f1__Q11]]

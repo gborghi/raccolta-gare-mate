@@ -1,6 +1,7 @@
 ---
 title: IMO 1987 (XXVIII International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1987__Q06
 parent: src_imho_1987
 competition: IMO 1987 (XXVIII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Primality of k^2+k+n for all k up to n-2 follows from small cases*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Primality of k^2+k+n for all k up to n-2 follows from small cases*
+
+> Let $n$ be an integer greater than or equal to $2$. Prove that if $k^2 + k + n$ is prime for all integers $k$ such that $0 \le k \le \sqrt{n/3}$, then $k^2 + k + n$ is prime for all integers $k$ such that $0 \le k \le n - 2$.
+
+[[src_imho_1987__Q06]]

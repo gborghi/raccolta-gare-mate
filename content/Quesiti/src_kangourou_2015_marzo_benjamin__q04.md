@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q04
 parent: src_kangourou_2015_marzo_benjamin
 competition: Kangourou 2015 gara 19 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *10 galline, uova in 10 giorni*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AiqamuCK6oQtEOLFArlQVHEyWohLlfzH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>10 chickens, eggs in 10 days< MSK1/>
+
+> There are ten chickens in a chicken coop. Five of them each lay one egg a day while the others each lay one egg on alternate days. How many eggs do chickens make in a 10-day period? A) 75
+> 	
+> B) 60
+> 	
+> C) 50
+> 	
+> D) 25
+> 	
+> E) 10
+
+**Answer:** A
+[[src_kangourou_2015_marzo_benjamin__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2017 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo15mq_honsen__Q01
 parent: src_jjmo15mq_honsen
 competition: Japan Junior Mathematical Olympiad 2017 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *People on circular chairs each move at most 1 step; maximize total steps*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ho2le-gwPvbBiq_sWgDwI8cp--nm23DX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le persone in sedie circolari si muovono ogni passo non più di un passo; massimizzare il numero totale di passi*
+
+> $n$ sia un numero intero positivo. Le sedie $n$ sono posizionate a intervalli uguali intorno a un tavolo circolare, con una persona seduta in ciascuna sedia. Ciascuna persona può spostarsi su una sedia adiacente (movendosi $0$ o $1$ in entrambe le direzioni lungo il cerchio), in modo che dopo tutti i movimenti ogni sedia sia occupata da esattamente una persona. Si noti che una persona che rimane nella sua sedia originale conta come aver spostato i passi $0$ e la lunghezza di ogni movimento è al massimo $1$. $S$ indichi il numero totale di passi (suma delle singole mosse) percorsi da tutte le persone $n$. Trova il valore massimo possibile di $S$.
+
+[[src_jjmo15mq_honsen__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Ecolier (marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q03
 parent: src_kangourou_2006_ecolier_marzo
 competition: Kangourou 2006 Ecolier (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di comporre 10 cent con monete*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pKY5ouqmagp75LpVMmZ7-wegTuPPO_ZD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to make 10 cents with coins*
+
+![[src_kangourou_2006_ecolier_marzo__prob3.png]]
+
+> You can see the coins in your purse next door. A milkshake costs 10 cents. How many different ways can you set the amount to pay for it? (Consider two coins of equal value indistinguishable.) A) 1 B) 2 C) 3 D) 4 E) 5
+
+**Answer:** D
+[[src_kangourou_2006_ecolier_marzo__Q03]]

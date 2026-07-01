@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q19
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A1-8: positive reals x,y with a∈[0,x],b∈[0,y], a^2+y^2=2, b^2+x^2=1, ax+by=1; max of x+y.*
 
@@ -50,3 +53,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A1-8: valori reali positivi x,y con a∈[0,x],b∈[0,y], a^2+y^2=2, b^2+x^2=1, ax+by=1; max di x+y.*
+
+> [Paper di prova A1, problema 8] I numeri reali positivi $x,y$ soddisfano la seguente condizione: esistono $a\in[0,x]$, $b\in[0,y]$ in modo tale che $$a^2+y^2=2,\quad b^2+x^2=1,\quad ax+by=1.$$ Quindi il massimo di $x+y$ è ______.
+
+**Risposta:** \sqrt{5}
+[[src_cn_cmc-first-round_2021__Q19]]

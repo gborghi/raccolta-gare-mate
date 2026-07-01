@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale nazionale Student — Quesito S3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_finale_student__QS3
 parent: src_kangourou_2014_finale_student
 competition: Kangourou 2014 finale nazionale Student
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *strategia vincente*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** strategia parita
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J0eVc0n4KMj_riY1S4VFaIQwejE9Ln6P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the main reason why the Commission has decided to adopt a new strategy.
+
+> Consider the following game for two players playing in turns, drawing the first player. He leaves with two piles of coins. The player who is called to play discards one and breaks the remainder into two new piles (of at least one coin each). He loses who can't play anymore. Discuss the existence of winning strategies.
+
+**Answer:** strategia parita
+[[src_kangourou_2014_finale_student__QS3]]

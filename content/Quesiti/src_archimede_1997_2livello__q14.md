@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1997 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_2livello__Q14
 parent: src_archimede_1997_2livello
 competition: Archimede Gara 2º livello 1997
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area massima del quadrilatero CDNM nel quadrato unitario*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum area of the CDNM quadrilateral in the unit square*
+
+> Given a square ABCD of the unit side, and M, N two points on the sides AB and AD respectively, such that AM = AN. What is the maximum value of the CDNM quadrilateral area?
+
+**Answer:** D
+[[src_archimede_1997_2livello__Q14]]

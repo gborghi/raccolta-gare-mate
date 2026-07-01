@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Junior finale nazionale (Mirabilandia) — Quesito J1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_junior_maggio__QJ1
 parent: src_kangourou_2009_junior_maggio
 competition: Kangourou 2009 - Junior finale nazionale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo pezzi dell'asta da riporre nel quadrato 1x1*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 8
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xGZ7OkZ2vv3yACmUJOy44TwOsFXpar5C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum pieces of the axle to be stored in the 1x1 square*
+
+> < MSK0/>(5 points) < MSK1/> A 10 metre spear shall be broken so that it is possible to store (possibly overlapping) all the pieces obtained in a square cardboard of 1 metre side. What's the minimum number of pieces to reach the target?
+
+**Answer:** 8
+[[src_kangourou_2009_junior_maggio__QJ1]]

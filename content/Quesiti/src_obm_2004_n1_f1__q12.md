@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q12
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Coloring a map of 5 states so no two neighbors share a color*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Coloring una mappa di 5 stati in modo che non due vicini condividono un colore*
+
+> Il disegno laterale mostra la mappa di un paese immaginario composto da cinque stati. Si vuole colorare questa mappa usando i colori verde, blu e giallo, in modo che non ci siano due stati vicini che condividano lo stesso colore. In quanti modi diversi si può colorare la mappa?
+> 
+> (A) $8$ \quad (B) $6$ \quad (C) $10$ \quad (D) $24$ \quad (E) $120$
+
+![[src_obm_2004_n1_f1__Q12.png]]
+
+**Risposta:** B
+[[src_obm_2004_n1_f1__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1995 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1995_r1__Q05
 parent: src_pol_1995_r1
 competition: Olimpiade Matematica Polacca 1995 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equivalence of two conditions on positive reals a, b*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equivalenza di due condizioni sui risultati positivi a, b*
+
+> Prove che le seguenti due condizioni per i numeri positivi $a, b$ sono equivalenti: (i) $\sqrt{a} + 1 > \sqrt{b}$, (ii) per ogni $x > \frac{1}{x-1}$, abbiamo $ax > b$.
+
+[[src_pol_1995_r1__Q05]]

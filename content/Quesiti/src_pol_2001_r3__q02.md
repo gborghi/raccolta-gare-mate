@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2001 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2001_r3__Q02
 parent: src_pol_2001_r3
 competition: Olimpiade Matematica Polacca 2001 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show the sum of distances from an interior point of a regular tetrahedron with edge 1 to its vertices is at most 3.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NdQKIsmLWVns4DWiT4Xy-7m3Ys5L9SOW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra la somma delle distanze da un punto interno di un tetraedro regolare con bordo 1 alle sue vertici è massima di 3.*
+
+> Prova che, per qualsiasi punto interno $P$ di un tetraedro regolare con bordo $1$, la somma delle distanze da $P$ ai vertici del tetraedro non è superiore a $3$.
+
+[[src_pol_2001_r3__Q02]]

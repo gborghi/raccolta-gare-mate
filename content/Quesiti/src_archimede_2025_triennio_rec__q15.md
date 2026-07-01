@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_triennio_rec__Q15
 parent: src_archimede_2025_triennio_rec
 competition: Giochi di Archimede 2025 - Triennio (prova di riserva)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area BCD con D simmetrico di A rispetto al baricentro*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*BCD area with symmetrical D of A with respect to the bearings*
+
+> Whether ABC is a rectangular triangle in B, whose cathetes AB and BC measure, respectively, 8 and 15 m. If the symmetric of A with respect to ABC's barycenter is given by D, how many m2 does the area of the BCD triangle measure?
+>
+> - **(A)** 16
+> - **(B)** 15
+> - **(C)** 20
+> - **(D)** 30
+> - **(E)** 25
+
+**Answer:** C
+[[src_archimede_2025_triennio_rec__Q15]]

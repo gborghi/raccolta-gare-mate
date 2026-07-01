@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Ecolier (marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q18
 parent: src_kangourou_2006_ecolier_marzo
 competition: Kangourou 2006 Ecolier (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spesa minima da A a B su rete ferroviaria*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1pKY5ouqmagp75LpVMmZ7-wegTuPPO_ZD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum expense from A to B on railway network*
+
+![[src_kangourou_2006_ecolier_marzo__prob18.png]]
+
+> The small circles in the figure represent as many cities. Each segment connecting two circles represents a railway line connecting the corresponding cities and the number closest to it indicates the euro cost of the ticket for that route. Paolo arranged the trip to get from A to B spending as little as possible. How much did you spend? A) 80 B) 90 C)100 D) 110 E) 180
+
+**Answer:** B
+[[src_kangourou_2006_ecolier_marzo__Q18]]

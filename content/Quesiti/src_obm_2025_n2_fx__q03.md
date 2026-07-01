@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2025_n2_fx__Q03
 parent: src_obm_2025_n2_fx
 competition: Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove quadrilateral KDMR is cyclic in acute triangle with orthocenter*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CcXWhSqND26SnC8adQX6Fy1P4X3uridO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che il KDMR quadrilaterale è ciclico in triangolo acuto con centro orto*
+
+> $ABC$ sia un triangolo acuto con $AB < AC$. La $D$, la $E$ e la $F$ siano i piedi delle altitudini rispettivamente da $A$, $B$ e $C$, e la $M$ sia il punto medio di $BC$. Che < MSK10/> sia l'ortocentro di < MSK11/>. $P$ sia l'intersezione delle linee $EF$ e $BC$. La linea $PH$ incontra nuovamente il cerchio di diametro $AH$ al punto $J$. Il < MSK18/> deve essere il riflesso di < MSK19/> su < MSK20/>. Le linee $JD$ e $PR$ si incontrano a $K$. Provare che il quadrilaterale $KDMR$ è ciclico.
+
+[[src_obm_2025_n2_fx__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Benjamin 2024 — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin__Q22
 parent: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del rettangolo grigio note tre aree e segmenti*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the grey rectangle known as three areas and segments*
+
+![[src_kangourou_2024_benjamin__prob22.png]]
+
+> The drawing shows four adjacent rectangles and shows the areas of three of them and the length of some sections. How many square centimeters does the surface of the grey rectangle measure? A) 12
+> 	
+> B) 14
+> 	
+> C) 16
+> 	
+> D) 18
+> 	
+> E) 20
+
+**Answer:** E
+[[src_kangourou_2024_benjamin__Q22]]

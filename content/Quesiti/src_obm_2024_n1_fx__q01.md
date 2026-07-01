@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_n1_fx__Q01
 parent: src_obm_2024_n1_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível 1 — Fase x
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Special numbers: digit-sum supera condition, find smallest exceeding 2024*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SMFA1YxpKz5Gw3k7ra45Thbg-GPJnX_8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nomeri speciali: condizione della somma digitale supera, trovare il più piccolo superiore al 2024*
+
+> Una potenza di 2 è un numero della forma $2^k$ dove $k$ è un intero non negativo. Ad esempio, le tre potenze più piccole di 2 sono $2^0 = 1$, $2^1 = 2$ e $2^2 = 4$. Un numero si chiama potenza di 2 se è potenza di 2. Ad esempio, il 2024 è speciale perché $2^0 + 2 + 0 + 2 + 4 = 8 = 2^3$. Diciamo che un numero $A$ \emph{supera} (batte) un altro quando il primo è maggiore del secondo e la somma delle cifre del primo è maggiore della somma delle cifre del secondo. Ad esempio, il 2029 batte il 2024, perché $2029 > 2024$ e $2 + 0 + 2 + 9 = 13 > 2 + 0 + 2 + 4 = 8$.
+> 
+> a) Qual è il numero intero positivo più piccolo che è speciale e batte il 2024?
+> 
+> b) Qual è il numero intero positivo più piccolo che è speciale e batte la risposta corretta al punto precedente?
+
+[[src_obm_2024_n1_fx__Q01]]

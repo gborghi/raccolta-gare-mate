@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f1__Q19
 parent: src_obm_2012_n3_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-element subsets of {1,...,25} containing two whose product is a perfect square*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i sottogruppi di 3 elementi di {1,...,25} contenenti due il cui prodotto è un quadrato perfetto*
+
+> Quanti sottoinsiemi con tre elementi distinti di $\{1, 2, 3, \ldots, 25\}$ contengono due numeri distinti il cui prodotto è un quadrato perfetto?
+> 
+> **A)** 15 $\quad$ **B)** 16 $\quad$ **C)** 17 $\quad$ **D)** 18 $\quad$ **E)** 19
+
+[[src_obm_2012_n3_f1__Q19]]

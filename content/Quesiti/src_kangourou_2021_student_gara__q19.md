@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q19
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo PXV da tre quadrati con aree note*
 
@@ -91,3 +94,25 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*PXV triangle area of three squares with known areas*
+
+![[src_kangourou_2021_student_gara__prob19.png]]
+
+> In the drawing you see three squares, PQRS, TUVR and UWXY, with some sides partially overlapping. The points P, T and X lie on the same line. It is known that the area of PQRS is 36 and that of TRVU 16. What is the area of the PXV triangle? A)
+> 	
+> B)
+> 	
+> C) 16
+> 	
+> D)
+> 	
+> E) 18 11 15 10 12 13 9 20 16 22 20 21 2 25 1 24 5 6 4 ? 1---- 2 1---- 4 1---- 8 3---- 4 3---- 8 44 ---- 3 46 ---- 3 53 ---- 3
+>
+
+**Answer:** C
+[[src_kangourou_2021_student_gara__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2025 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_automne__Q02
 parent: src_canimath_2025_automne
 competition: Coupe Animath Automne 2025
@@ -36,6 +37,8 @@ tags:
   - topic/grafi
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum candies from 2-coloring 9 connected circles*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Massimo dolci di 2 colori 9 cerchi collegati*
+
+> Nella figura seguente ci sono cerchi $9$. Diciamo che due di questi cerchi sono collegati se sono uniti da un segmento che non passa attraverso nessun altro cerchio. Eva colora ciascuna delle cerchie in verde o rosso. Una volta che tutti i cerchi sono colorati, vince un caramello per ogni coppia di due cerchi collegati di colori diversi. Determina il numero massimo di caramelle che Eva può ottenere in questo modo.
+
+![[src_canimath_2025_automne__Q02.png]]
+
+[[src_canimath_2025_automne__Q02]]

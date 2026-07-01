@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2025_n1_fx__Q03
 parent: src_obm_2025_n1_fx
 competition: Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x
@@ -43,6 +44,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two players alternately cross out numbers from 1 to 25; you lose if your move leaves three remaining numbers with sum divisible by 3. Analyze a position and decide who wins from the start.*
 
@@ -59,3 +62,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BAsW5wUtp8e4eUtIjSrr-GeYtmuXz4Ok/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Due giocatori intercorso alternatamente i numeri da 1 a 25; si perde se la mossa lascia tre numeri rimanenti con somma divisibile per 3. Analizzare una posizione e decidere chi vince dall'inizio.*
+
+> Ana e Beto decidono di giocare. Inizialmente i numeri $25$, i numeri interi da $1$ a $25$, sono scritti su una lavagna nera. Si suonano alternatamente per eliminare un numero dalla lavagna, con Ana che viene prima. A ogni turno, un giocatore sceglie un numero che non è ancora stato incrociato e lo incrocia. Si dice che una configurazione perda la partita se la somma dei tre numeri rimasti (non incrociati) è divisibile da $3$. Il giocatore che, con la sua mossa, lascia una configurazione che perde il gioco, perde.
+> 
+> (a) Supponiamo che i numeri finora incrociati siano $3$, $2$ e $4$. Ora è il turno di Beto di giocare. Come deve giocare Beto per vincere? Giustifica la tua risposta.
+> 
+> b) Considerando il gioco dal suo stato iniziale, in cui nessun numero è ancora stato eliminato e Ana farà la prima mossa, quale dei giocatori ha una strategia vincente, cioè può giocare in modo da vincere sempre, indipendentemente dalle mosse compiute dall'avversario? Ricordate di spiegare come il giocatore che ha una strategia vincente deve giocare per garantire la vittoria.
+
+[[src_obm_2025_n1_fx__Q03]]

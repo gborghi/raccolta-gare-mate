@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_a__Q06
 parent: src_prmo_2015_a
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -35,6 +36,8 @@ tags:
   - regione/a
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of even-digit function $E$ from 1 to 100*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 400
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa della funzione a numeri pari $E$ da 1 a 100*
+
+> $E(n)$ indichi la somma dei numeri pari di $n$. Per esempio, $E(1243) = 2 + 4 = 6$. Qual è il valore di $E(1) + E(2) + E(3) + \cdots + E(100)$?
+
+**Risposta:** 400
+[[src_prmo_2015_a__Q06]]

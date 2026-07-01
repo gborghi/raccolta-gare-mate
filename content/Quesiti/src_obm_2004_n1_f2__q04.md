@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f2__Q04
 parent: src_obm_2004_n1_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Numbers 1–99 written side by side; erase even-position digits 4 times*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I numeri 199 scritti fianco a fianco; cancellare 4 volte i numeri di posizione pari*
+
+> I numeri interi da 1 a 99 sono scritti fianco a fianco: $123456789101112\ldots9899$. Applicheremo quindi la seguente operazione: cancelleremo le cifre che appaiono in posizioni pari, ottenendo $135790112\ldots89$. Ripetendo questa operazione 4 volte in totale, quante cifre resteranno?
+
+[[src_obm_2004_n1_f2__Q04]]

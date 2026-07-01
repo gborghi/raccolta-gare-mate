@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_riserva_triennio__Q03
 parent: src_archimede_2020_riserva_triennio
 competition: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli non congruenti con lati tra 2,3,4,5*
 
@@ -43,3 +46,19 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oJMUKhCeVFFbkLLL48V2VZrR6ye_9VCN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Non-conforming triangles with sides between 2,3,4,5*
+
+> How many non-degenerate triangles (i.e. no area) are possible, each of them not congruent, where the length of each side is one of the measures 2, 3, 4, 5?
+>
+> - **(A)** 17
+> - **(B)** 12
+> - **(C)** 13
+> - **(D)** 14
+> - **(E)** 16
+
+[[src_archimede_2020_riserva_triennio__Q03]]

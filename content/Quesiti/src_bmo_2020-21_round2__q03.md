@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2020-21 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2020-21_round2__Q03
 parent: src_bmo_2020-21_round2
 competition: British Mathematical Olympiad 2020-21 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *AI and KD meet on circumcircle of triangle ABC*
 
@@ -44,3 +47,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SEh6e0SuVOxbNt7sTRtb3XK9cGPbAmL5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*AI e KD si incontrano sul circolo del triangolo ABC*
+
+> Che $ABC$ sia un triangolo con $AB > AC$. Il suo circoncircolo è $\Gamma$ e il suo incentro è $I$. Il punto di contatto dell'incircolo di $ABC$ con $BC$ è $D$.
+> 
+> $K$ sia il punto su $\Gamma$ in modo tale che $\angle AKI$ sia un angolo retto.
+> 
+> Prove che $AI$ e $KD$ si incontrano su $\Gamma$.
+
+[[src_bmo_2020-21_round2__Q03]]

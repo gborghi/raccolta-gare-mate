@@ -1,6 +1,7 @@
 ---
 title: IMO 1976 (XVIII International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1976__Q04
 parent: src_imho_1976
 competition: IMO 1976 (XVIII International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Largest product of positive integers summing to 1976*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11l0Z3RXDT5mQvc_2OoUC_uxhAD2ME5IA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Largest product of positive integers summing to 1976*
+
+> Determine, with proof, the largest number which is the product of positive integers whose sum is 1976.
+
+[[src_imho_1976__Q04]]

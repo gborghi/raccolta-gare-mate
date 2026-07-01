@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2002 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_2livello__Q10
 parent: src_archimede_2002_2livello
 competition: Archimede Gara 2º livello 2002
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Indovinello su latte e gara a squadre di matematica*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Milk riddle and math team competition*
+
+> A cyclist takes a route of 30 km at a speed of < MSK0/> km/h. Knowing that it took 40 minutes to determine how many degrees occupies the intermediate semicircle sector.
+> 
+> (A) $60°\,20'$ &ensp; (B) $60°\,00'$ &ensp; (C) $45°$ &ensp; (D) $37°\,20'$ &ensp; (E) cannot be determined
+
+**Answer:** B
+[[src_archimede_2002_2livello__Q10]]

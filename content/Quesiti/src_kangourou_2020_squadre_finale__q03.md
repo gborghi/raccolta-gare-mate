@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2020 Finale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q03
 parent: src_kangourou_2020_squadre_finale
 competition: Kangourou Coppa squadre 2020 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tra quanti numeri deve indovinare Dario la somma*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0101
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ouvUikm9jtg5T9XqFtDuhZcgJZXEsFwU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Of the numbers Darius must guess the sum*
+
+> Carla's conundrum has 100 leaflets, each of which has a number that can only be 1 or -1. Carla asks Darius to guess the sum (algebraic) of all the numbers that appear on her 100 leaflets. How many numbers is Darius forced to guess?
+
+**Answer:** 0101
+[[src_kangourou_2020_squadre_finale__Q03]]

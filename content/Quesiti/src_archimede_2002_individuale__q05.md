@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_individuale__Q05
 parent: src_archimede_2002_individuale
 competition: Archimede 2002 - Gara Nazionale Individuale (Cesenatico)
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *dividere espressione in tre parti, k multiplo di 3*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Al72TmtFeqXMapJ1ay6jjUJE3H76wCPm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* divide expression into three parts, k multiple of 3*
+
+> Whether $m = 5^n + 3^n + 1$, where $n$ is a natural number. Show that if $m$ is prime then $n$ is multiple 12.
+
+[[src_archimede_2002_individuale__Q05]]

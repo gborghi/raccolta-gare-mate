@@ -1,6 +1,7 @@
 ---
 title: IMO 2003 (XLIV International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2003__Q02
 parent: src_imho_2003
 competition: IMO 2003 (XLIV International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all pairs (m,n) making a fraction a positive integer*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AH0yViVdXFQ9Y_GJejaNbOzxPiHzQl9i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Find all pairs (m,n) making a fraction a positive integer< MSK1/>
+
+> Find all pairs $(m, n)$ of positive integers such that $\dfrac{m^2}{2mn^2 - n^3 + 1}$ is a positive integer.
+
+[[src_imho_2003__Q02]]

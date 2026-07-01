@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2006 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2006__Q03
 parent: src_rmo_2006
 competition: Regional Mathematical Olympiad 2006
@@ -28,6 +29,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality involving sum of fractions for positive reals*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove le disuguaglianze che comportano la somma delle frazioni per i reali positivi*
+
+> Se $a$, $b$, $c$ sono tre numeri reali positivi, dimostrare che $$\frac{a^2+1}{b+c} + \frac{b^2+1}{c+a} + \frac{c^2+1}{a+b} \ge 3.$$
+
+[[src_rmo_2006__Q03]]

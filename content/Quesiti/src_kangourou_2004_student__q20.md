@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q20
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Penultima cifra di 11^2004*
 
@@ -77,3 +80,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Last figure of 11^2004< MSK1/>
+
+> What is the latest figure for 112004? A) 0 B) 1 C) 2 D) 3 E) 4 ( ) 2
+>  
+> 2 12 22 2 12 22 − − + 2 2 6 − 2 2 3 ( ) 1 2 6 − K
+> 
+> I'm going to pay. I'm going to pay. 31 31 Kang 2004 Kang 2004 tudent Questions from N. 21 al N. 30 is worth 5 points.
+
+**Answer:** E
+[[src_kangourou_2004_student__Q20]]

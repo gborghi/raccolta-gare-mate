@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q07
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Diagonali di un esagono*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 9
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Diagonal of a hexagon*
+
+> **How many diagonals is a hexagon? **
+
+**Answer:** 9
+[[src_bocconi_primavera_2008__Q07]]

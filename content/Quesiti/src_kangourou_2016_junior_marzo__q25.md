@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q25
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero al posto 2016 tra permutazioni di 1..7*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in place of 2016 between permutations of 1.7*
+
+> If we list all the seven-digit numbers in increasing order that we can write using all the numbers from 1 to 7 for each, what's the number in place of 2016 on the list? A) 3547612 B) 3547621 C) 3657421 D) 4125673 E) 4125736
+
+**Answer:** C
+[[src_kangourou_2016_junior_marzo__Q25]]

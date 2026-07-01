@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Ecolier 2024 — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier__Q22
 parent: src_kangourou_2024_ecolier
 competition: Kangourou Categoria Ecolier 2024
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante celle dell'alveare a 9 celle contengono miele*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many cells in the 9-cell hive contain honey< MSK1/>
+
+![[src_kangourou_2024_ecolier__prob22.png]]
+
+> The figure represents a nine-cell hive. Let's say two cells are close if they have a side in common. In some cells there is honey: the number in each cell indicates how many nearby cells contain honey. How many cells contain honey? A) 4
+> 	
+> B) 5
+> 	
+> C) 6
+> 	
+> D) 7
+> 	
+> E) 8
+
+**Answer:** C
+[[src_kangourou_2024_ecolier__Q22]]

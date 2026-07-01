@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q07
 parent: src_kangourou_2017_squadre_a
 competition: Kangourou Coppa Squadre 2017 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei sei numeri tipo Fibonacci (primo 4, ultimo 47)*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 116
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the six Fibonacci numbers (first 4, last 47) *
+
+> The sum In a sequence of six numbers, the first one is 4 and the last one is 47. Each number from the third is the sum of the previous two. What's the sum of all six numbers?
+
+**Answer:** 116
+[[src_kangourou_2017_squadre_a__Q07]]

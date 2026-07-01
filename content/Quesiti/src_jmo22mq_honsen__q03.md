@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2012 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo22mq_honsen__Q03
 parent: src_jmo22mq_honsen
 competition: Japan Mathematical Olympiad 2012 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive integers n such that p | x^n-1 implies p^2 | x^n-1*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SJ0WulkahJ1owyeufg6sr3eDO1pnnUeb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Find positive integers n such that p | x^n-1 implies p^2 | x^n-1*
+
+> Let $p$ be a prime. Find all positive integers $n$ satisfying the following condition:
+> 
+> **Condition:** For every integer $x$, if $p$ divides $x^n - 1$ then $p^2$ also divides $x^n - 1$.
+
+[[src_jmo22mq_honsen__Q03]]

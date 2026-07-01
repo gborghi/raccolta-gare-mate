@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_triennio__Q15
 parent: src_archimede_2010_triennio
 competition: Giochi di Archimede 2010 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo per l'ultimo km con km via via piu veloci*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Time for the last km with km on the fastest route
+
+> An athlete walks 5 km in 16 minutes and 40 seconds. During the route, its speed gradually increases, so that each kilometer is covered in 5 seconds less than the previous one. How long does it take to walk the last mile?
+>
+> - **(A)** Two minutes and 55 seconds,
+> - **(B)** Three minutes,
+> - **(C)** Three minutes and five seconds,
+> - **(D)** 3 minutes and 10 seconds,
+> - **(E)** Three minutes and 15 seconds.
+
+**Answer:** D
+[[src_archimede_2010_triennio__Q15]]

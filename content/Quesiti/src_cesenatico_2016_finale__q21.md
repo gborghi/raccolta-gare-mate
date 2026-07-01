@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q21
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *n iniziale del solitario (operazione su frazioni)*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0020
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>n initial of the solitary (fraction operation) < MSK1/>
+
+> A very widespread droid loner works like this. First, you have to choose a number n, and save the following numbers in memory (in order): 1, 1 2, 1 3, . . . , 1 n. Then proceed in this way, until only one number remains: the first two numbers a and b in the list are deleted, and the new number ab (a+1) (b+1)−1 is saved in memory at the bottom of the list. In a moment of leisure the droid BB-∞ makes a solo match, getting 1 229 as the final number. How much is the number n chosen initially?
+
+**Answer:** 0020
+[[src_cesenatico_2016_finale__Q21]]

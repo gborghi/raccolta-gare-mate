@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1999 - Triennio — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_triennio__Q22
 parent: src_archimede_1999_triennio
 competition: Giochi di Archimede 1999 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero non e esprimibile come a/b + b/a*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which number cannot be expressed as a/b + b/a*
+
+> Which of the following numbers cannot be written in the form a b + b a with a and b positive integers?
+>
+> - **(A)** 25 12
+> - **(B)** 10 3
+> - **(C)** 7 3
+> - **(D)** 17 4
+> - **(E)** 29 10.
+
+**Answer:** C
+[[src_archimede_1999_triennio__Q22]]

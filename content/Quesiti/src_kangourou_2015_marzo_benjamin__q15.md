@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q15
 parent: src_kangourou_2015_marzo_benjamin
 competition: Kangourou 2015 gara 19 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *min bottiglie*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1AiqamuCK6oQtEOLFArlQVHEyWohLlfzH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>min bottles< MSK1/>
+
+> There's only nine houses on Via del Salto, all on the same side of the road. At least one person lives in each house, and the total number of people living in a pair of adjacent houses never exceeds 6. A milkman must deliver one bottle of milk for every person living in Via del Salto. What's the minimum number of bottles you have to put on the truck to make sure you have enough? A) 23
+> 	
+> B) 25
+> 	
+> C) 27
+> 	
+> D) 28
+> 	
+> E) 29
+
+**Answer:** E
+[[src_kangourou_2015_marzo_benjamin__Q15]]

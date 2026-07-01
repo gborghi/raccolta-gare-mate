@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2025 Ecolier finale — Quesito E1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2025_ecolier_finale__QE1
 parent: src_kangourou_2025_ecolier_finale
 competition: Kangourou 2025 Ecolier finale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di mele/pere con cassette e 6 frutti in meno*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 105
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1EyuX-CGpqanxcrAEhrv2lXfkmU9jNjKg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of apples/pears with cartons and 6 fruits less*
+
+> Some identical apples have been placed in 5 identical (initially empty) boxes; each box contains the same number of apples as the others. Some pears, in the same number as the total number of apples, have been placed in 7 boxes (initially empty) identical to each other: each box contains the same number of pears as the others. Each box of pears contains six fewer fruits than each box of apples. How many apples (or pears)?
+
+**Answer:** 105
+[[src_kangourou_2025_ecolier_finale__QE1]]

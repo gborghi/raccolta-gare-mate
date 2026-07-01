@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q25
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali numeri necessariamente in vertici consecutivi*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which numbers are necessarily in consecutive vertices*
+
+> We want to put all the integers from 1 to 12 (inclusive) in the vertices of a regular polygon of 12 sides, one in each vertex, so that, for each pair of vertices A B C D
+> 
+> I'm going to pay. I'm going to pay. 15 15 Kang 2012 Kang 2012 consecutive digits, the numbers entered therein differ by 1 or by 2. Which of the following numbers must necessarily be at consecutive vertices? A) 5 e 6 B) 9 e 10 C) 6 e 7 D) 8 e 10 E) 3 e 4
+
+**Answer:** D
+[[src_kangourou_2012_benjamin__Q25]]

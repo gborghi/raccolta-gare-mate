@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q21
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *3 su 16:9*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*3 su 16:9*
+
+> The old TV display had sides that were in the 4:3 aspect ratio, while the new displays have sides that are in the 16:9 aspect ratio. We want to see a DVD that fills exactly the entire screen of the old TV on a new 16:9 screen. If the height of the footage exactly matches the height of the screen, then the percentage of unused area of the new screen is A) 15 % B) 20 % C) 25 % D) 30 % E) depending on the screen dimensions.
+
+**Answer:** C
+[[src_kangourou_2008_benjamin_marzo__Q21]]

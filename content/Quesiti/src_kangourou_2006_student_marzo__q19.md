@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q19
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max angoli inferiori a 60 in poligono convesso*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max angles less than 60 in convex polygon< MSK1/>
+
+> How many angles of width less than 60° can a convex polygon have at most? A) 1 B) 2 C) 3 D) 4 E) 6
+
+**Answer:** B
+[[src_kangourou_2006_student_marzo__Q19]]

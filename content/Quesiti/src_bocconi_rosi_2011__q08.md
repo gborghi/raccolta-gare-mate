@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q08
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area zona bianca tra tre cerchi concentrici*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $371 \text{ cm}^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A white area between three concentric circles*
+
+> The intermediate circle in the figure has a radius twice that of the small circle. Instead, the larger circle has a radius three times that of the smaller circle. Knowing that the large circle has an area equal to $1.113 \text{ cm}^2$, what is the area of the white area?
+
+![[src_bocconi_rosi_2011__Q08.png]]
+
+**Answer:** $371 \text{ cm}^2$
+[[src_bocconi_rosi_2011__Q08]]

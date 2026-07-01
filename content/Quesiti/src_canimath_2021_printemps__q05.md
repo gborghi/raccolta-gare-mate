@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2021 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_printemps__Q05
 parent: src_canimath_2021_printemps
 competition: Coupe Animath Printemps 2021
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pair 0..13 into 7 pairs so the product of the pair-sums is a perfect square*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Coppia 0..13 in 7 coppie in modo che il prodotto delle coppie-somme sia un quadrato perfetto*
+
+> Rémi distribuisce i numeri interi $0, 1, \ldots, 13$ in sette coppie di numeri interi disgiunti in coppia. Per ogni coppia, scrive sulla lavagna la somma dei suoi due elementi. Prove che Rémi può procedere in modo tale che il prodotto dei sette numeri scritti sulla lavagna sia un quadrato perfetto.
+> 
+> *Un quadrato perfetto è un intero che può essere scritto nella forma $n^2$, dove $n$ è un intero.*
+
+[[src_canimath_2021_printemps__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier__Q04
 parent: src_kangourou_2023_ecolier
 competition: Kangourou 2023 Ecolier — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quali*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bDY_Y5qtxjaNx_dh5X8llzlndfmVtNwJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> equal to < MSK1/>
+
+![[src_kangourou_2023_ecolier__prob4.png]]
+
+> Alice has the four pieces of cardboard you see in the figure: with two of them she can form the square here on the side. What are they? A) 1 e 2 B) 1 e 3 C) 1 e 4 D) 3 e 4 E) 2 e 4
+
+**Answer:** C
+[[src_kangourou_2023_ecolier__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1980-81 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1980-81_round1__Q02
 parent: src_bmo_1980-81_round1
 competition: British Mathematical Olympiad 1980-81 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Alternating sum of products of consecutive integers divisible by m!*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvC2qvBdYveDQTv4wMFuVVfLHwCOEMvY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa alternativa di prodotti di numeri interi consecutivi divisibili per m!*
+
+> $m$ e $n$ sono integri positivi. $S_n$ è la somma dei termini $m$ di $$[(n+1)(n+2)] - [(n+1)(n+2)(n+3)] + [(n+1)(n+2)(n+3)(n+4)] - \cdots$$ in cui i termini si alterano in segno e ciascuno, dopo il primo, è il prodotto di numeri interi consecutivi con il numero di numeri interi uno in più rispetto al precedente.
+> 
+> Provare che $S_n$ è divisibile da $m!$, ma non necessariamente da $(m+1)!$.
+
+[[src_bmo_1980-81_round1__Q02]]

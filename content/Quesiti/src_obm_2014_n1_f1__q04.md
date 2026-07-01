@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f1__Q04
 parent: src_obm_2014_n1_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Class composition / ratio problem with multiple-choice ratios*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Problema di composizione di classe / rapporto con rapporti di scelta multipla< MSK1/>
+
+> In una classe di sesto anno ci sono ragazzi e ragazze; il numero di ragazzi supera il numero di ragazze di una determinata quantità. Qual è il rapporto tra il numero di ragazze e il numero di ragazzi in questa classe?
+> 
+> (A) $23$ \quad (B) $13{:}34$ \quad (C) $3{:}5$ \quad (D) $3{:}8$ \quad (E) $1{:}2$
+
+[[src_obm_2014_n1_f1__Q04]]

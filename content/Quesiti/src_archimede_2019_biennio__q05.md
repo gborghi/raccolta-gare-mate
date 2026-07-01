@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2019 - Biennio (T1) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_biennio__Q05
 parent: src_archimede_2019_biennio
 competition: Giochi di Archimede 2019 - Biennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ampiezza angolo MON con retta perpendicolare alla bisettrice*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*MON angle width perpendicular to the beam*
+
+> In an LMN triangle the angles of vertices L and N have angles 42° and 80° respectively. Either r is the straight line passing through M that is perpendicular to the vertices of the angle \ LMN and either O is the point of intersection between r and the straight LN. What is the width of the angle \ MON?
+>
+> - **(A)** 17°
+> - **(B)** 15°
+> - **(C)** 18°
+> - **(D)** 21°
+> - **(E)** 19°
+
+**Answer:** E
+[[src_archimede_2019_biennio__Q05]]

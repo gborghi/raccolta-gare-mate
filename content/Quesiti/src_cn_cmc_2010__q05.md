@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2010 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2010__Q05
 parent: src_cn_cmc_2010
 competition: China Mathematical Competition 2010
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum of an exponential function given its maximum on an interval*
 
@@ -45,3 +48,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di una funzione esponenziale data la sua massima su un intervallo*
+
+> La funzione $f(x) = a^{2x} + 3a^x - 2$ ($a > 0$, $a \ne 1$) raggiunge il valore massimo $8$ con intervallo $[-1, 1]$. Quindi il suo valore minimo su questo intervallo è ________.
+
+**Risposta:** $-\frac{1}{4}$
+[[src_cn_cmc_2010__Q05]]

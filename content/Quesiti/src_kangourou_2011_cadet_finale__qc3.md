@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Finale Cadet (Mirabilandia) — Quesito C3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet_finale__QC3
 parent: src_kangourou_2011_cadet_finale
 competition: Kangourou 2011 Finale Cadet (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima lunghezza filo su cilindro che incontra ogni generatrice*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2pi*sqrt rect diag
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CSbNPNjOuK69g0kstyR_wlz5kbo88MzC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum length of wire per cylinder encountered by each generator*
+
+> A straight circular cylinder has a base of 1 cm radius and a height of 4 cm. The $P$ and $Q$ points, respectively on the lower and upper base, are on the same generator (each line perpendicular to the bases that intersects the cylinder's side surface is called a 'generator'). One wire has one wire in $P$ and the other in $Q$ and meets each generator at least once. What is the minimum possible length of the wire?
+
+**Answer:** 2pi*sqrt rect diag
+[[src_kangourou_2011_cadet_finale__QC3]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2011 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2011__Q03
 parent: src_bocconi_autunno_2011
 competition: Giochi d'Autunno 2011
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di pezzi tagliando un ferro di cavallo con due rette*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of pieces by cutting a horse iron with two straight lines
+
+> An iron wire was folded to take the form of horse iron (see figure). If you draw two lines, how many pieces can you split your iron wire into? (Parts obtained after tracing the first straight line cannot be moved)
+
+![[src_bocconi_autunno_2011__Q03.png]]
+
+**Answer:** 5
+[[src_bocconi_autunno_2011__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q03
 parent: src_kangourou_2019_benjamin_marzo
 competition: Kangourou 2019 Gara di Marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale poligono regolare non compare nel mosaico*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mCVu8mcZWozh4A9IixxiUAmKQbLsElwm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which regular polygon does not appear in the mosaic*
+
+![[src_kangourou_2019_benjamin_marzo__prob3.png]]
+
+> The contours of the figures that make up the mosaic we are showing you are made up of straight segments all of the same length. Which of the following regular polygons does not appear in the mosaic? A) Triangle
+> 	
+> B) Square C) Hexagon
+> 	
+> (D) The octagon
+> 	
+> (e) Decoration of office
+
+**Answer:** D
+[[src_kangourou_2019_benjamin_marzo__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2003 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo13mq_honsen__Q02
 parent: src_jmo13mq_honsen
 competition: Japan Mathematical Olympiad 2003 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all pairs of positive integers with digit and divisibility conditions*
 
@@ -51,3 +54,23 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10-DDRKMteTHYfjsW5yYE7XwybI34H8OB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di integri positivi con condizioni digitali e di divisibilità*
+
+> Lasciate che $a, b$ siano numeri interi positivi espressi in base 10 con cifre $2n$, dove la cifra principale non è zero. Inoltre, tutte le seguenti tre condizioni si applicano:
+> 
+> (1) Le cifre superiori $n$ di $a$ e le cifre inferiori $n$ di $b$ sono uguali, e le cifre inferiori $n$ di $a$ e le cifre superiori $n$ di $b$ sono uguali.
+> 
+> (2) $a < b$.
+> 
+> (3) $b$ è un multiple di $a$.
+> 
+> Trova tutte le coppie < MSK0/>.
+> 
+> Per esempio, quando $a = 1234$ e $b = 3412$, le condizioni (1) e (2) si appoggiano ma (3) non lo fanno.
+
+[[src_jmo13mq_honsen__Q02]]

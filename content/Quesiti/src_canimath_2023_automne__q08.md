@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2023 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2023_automne__Q08
 parent: src_canimath_2023_automne
 competition: Coupe Animath Automne 2023
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Average of five grades is 16, three known grades are 13,14,17; find the sum of the two forgotten grades*
 
@@ -45,3 +48,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>La media di cinque gradi è 16, tre conosciuti sono 13,14,17; trovare la somma dei due gradi dimenticati< MSK1/>
+
+> Maena ha ricevuto cinque voti in questo periodo, ma ricorda solo le prime tre, che sono $13$, $14$ e $17$. Lei sa che la media (assumendo che le cinque classi abbiano lo stesso peso) delle sue cinque classi è uguale a $16$. Qual è la somma dei due gradi che Maena non ricorda?
+> 
+> Qui si aspetta solo una risposta numerica.
+
+**Risposta:** 36
+[[src_canimath_2023_automne__Q08]]

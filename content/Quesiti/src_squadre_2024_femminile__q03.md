@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_femminile__Q03
 parent: src_squadre_2024_femminile
 competition: Gara a Squadre Femminile 2024 - Finale Nazionale
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma interi 20ab divisibili per ab-1*
 
@@ -36,3 +39,13 @@ tags:
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Total of 20ab integers divisible by ab-1< MSK1/>
+
+> Noted yellow book writer Jessica Fourier likes to put some math questions in her novels. In its last effort, it asks the reader how many pairs (x,y) of integers with \\\displaystyle \\\mathbb {MSK0/>4000} are so there exists a positive integer k that satisfies the relation x2 +y2 +22k−1 +2kx−2ky = 0. What's the answer?
+
+[[src_squadre_2024_femminile__Q03]]

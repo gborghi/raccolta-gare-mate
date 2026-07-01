@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2022 - Gara Triennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_triennio__Q09
 parent: src_archimede_2022_triennio
 competition: Giochi di Archimede 2022 - Gara Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di passi per raggiungere 30 metri di distanza*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of steps to reach a distance of 30 metres*
+
+> While thinking about a mathematical problem, Francesco walks as usual back and forth, taking 1 step forward, 2 back, 3 forward, 4 back and so on (all with steps of 60 cm). As soon as he reaches 30 meters away from the starting point, he finally solves the problem. How many steps has he taken in all?
+>
+> - **(A)** 50
+> - **(B)** 5150
+> - **(C)** 1275
+> - **(D)** 5050
+> - **(E)** 4950
+
+**Answer:** E
+[[src_archimede_2022_triennio__Q09]]

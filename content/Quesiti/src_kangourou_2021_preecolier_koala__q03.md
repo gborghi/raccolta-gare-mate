@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q03
 parent: src_kangourou_2021_preecolier_koala
 competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Il piu lungo tra cinque percorsi mostrati*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The longest of the five paths shown
+
+![[src_kangourou_2021_preecolier_koala__prob3.png]]
+
+> Which is the longest of the five routes shown in Figure 5? (see figure)
+
+**Answer:** E
+[[src_kangourou_2021_preecolier_koala__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre_f2__Q03
 parent: src_kangourou_2022_kangourou_squadre_f2
 competition: Kangourou Squadre 2022 Kangourou Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo incontri per il più forte fra 2022*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2021
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum matches for the strongest by 2022*
+
+> The strongest Between 2022 tennis players whose skills are not known a priori, one wants to identify the strongest by playing only single matches. What's the minimum number of meetings that allows you to do that? (It is assumed that, in every single encounter, the strongest always wins and that, if A is stronger than B and B is stronger than C, then A is stronger than C.)
+
+**Answer:** 2021
+[[src_kangourou_2022_kangourou_squadre_f2__Q03]]

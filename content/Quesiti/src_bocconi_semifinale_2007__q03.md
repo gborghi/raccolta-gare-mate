@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2007 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2007__Q03
 parent: src_bocconi_semifinale_2007
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2007
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra nascosta sotto macchie di inchiostro in equazione*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Hidden under ink stains in the equation*
+
+> Sara stained a square with the ink. But watch out!  The stains always cover the same figure. That he did it on purpose?
+> 
+> $$(\blacksquare \times \blacksquare) + \blacksquare = \blacksquare 0$$
+> 
+> What's this figure?
+
+**Answer:** 9
+[[src_bocconi_semifinale_2007__Q03]]

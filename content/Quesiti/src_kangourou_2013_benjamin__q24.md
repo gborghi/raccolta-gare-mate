@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q24
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di maschi con vincolo sulla distanza*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum number of males with distance restriction< MSK1/>
+
+> Ten students, male and female, are in line. However you choose two males in a row, the number of students standing between those two males is different from 2. How many males can there be in line at most? A) 7
+>         	
+> B) 6
+> 	
+> C) 3
+>        	
+> D) 4 E) 5
+
+**Answer:** B
+[[src_kangourou_2013_benjamin__Q24]]

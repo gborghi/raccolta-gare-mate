@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2009 - Gara a squadre — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2009_squadre__Q19
 parent: src_gs_2009_squadre
 competition: Coppa Fermat 2009 - Gara a squadre
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Templi di Magrathea, lunghezze con similitudini (II)*
 
@@ -39,3 +42,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8.7
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Magrathea templates, lengths with similarities (II) < MSK1/>
+
+![[src_gs_2009_squadre__prob19.png]]
+
+> Of all the circular grooves that are expected to be excavated in problem 15, the first one to be excavated is the smallest circumference.
+> 
+> How many centimetres is the diameter of this circumference?
+
+**Answer:** 8.7
+[[src_gs_2009_squadre__Q19]]

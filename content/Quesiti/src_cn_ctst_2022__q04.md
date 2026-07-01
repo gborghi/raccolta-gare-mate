@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2022 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2022__Q04
 parent: src_cn_ctst_2022
 competition: China National Team Selection Test 2022
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle ABC with incenter I: prove FK = AF = AD*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto ABC con incentro I: prova FK = AF = AD*
+
+> Come mostrato nella figura. 4.1, nel $\triangle ABC$ acuto con $\angle A \ge 2\angle B$, $I$ sia il centro di $\triangle ABC$, e $K$ sia il punto simmetrico di $I$ circa $BC$. Le estensioni di $BA$ e $CK$ si incontrano a $D$. La linea che attraversa $B$ parallela a $CI$ incontra $AC$ a $E$ e incontra nuovamente il circoncircolo di $\triangle ABC$ a $F$. Prova che < MSK16/>.
+
+![[src_cn_ctst_2022__Q04.png]]
+
+[[src_cn_ctst_2022__Q04]]

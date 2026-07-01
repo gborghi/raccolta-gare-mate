@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2020 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_automne__Q12
 parent: src_canimath_2020_automne
 competition: Coupe Animath Automne 2020
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count possible numbers of even entries in a 3x3 grid with all row and column sums odd*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare possibili numeri di voci pari in una griglia 3x3 con tutte le somme di righe e colonne odd*
+
+> Si collocano gli enti $9$ nelle celle di una griglia $3 \times 3$ in modo tale che la somma dei numeri di una colonna o di una riga sia sempre pari. Quali valori possono assumere il numero di cellule pari di tale configurazione?
+
+[[src_canimath_2020_automne__Q12]]

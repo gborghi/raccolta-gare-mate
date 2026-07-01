@@ -1,6 +1,7 @@
 ---
 title: XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2008__Q04
 parent: src_cesenatico_2008
 competition: XXIV Olimpiade Italiana Cesenatico 2008
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Terne (a,b,c) interi positivi con a^2+2^(b+1)=3^c*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (1,2,2) e (7,4,4)
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1o6Dc8ajv2EraLtby07SiyqyPmc6MZ9Su/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Term (a,b,c) positive integers with a^2+2^(b+1) = 3^c< MSK1/>
+
+> Determine all terns (a, b, c) of integers greater than zero such that a2 + 2b + 1 = 3c.
+
+**Answer:** (1,2,2) e (7,4,4)
+[[src_cesenatico_2008__Q04]]

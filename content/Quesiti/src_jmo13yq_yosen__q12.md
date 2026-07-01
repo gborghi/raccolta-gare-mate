@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo13yq_yosen__Q12
 parent: src_jmo13yq_yosen
 competition: Japan Mathematical Olympiad 2003 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum-degree integer-polynomial f(x) with (f(x))^3 - 2 = g(x)h(x), g,h degree ≥ 1*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare un polinomio intero di grado minimo f(x) con (f(x))^3 - 2 = g(x) h(x), grado g,h ≥ 1*
+
+> Un polinomio $f(x)$ con coefficienti interi ha grado almeno $1$. Esistono anche polinomi a coefficiente intero $g(x)$ e $h(x)$, ciascuno di grado almeno $1$, in modo tale che $$\bigl(f(x)\bigr)^3 - 2 = g(x)\,h(x).$$ tra tutti tali polinomi $f(x)$, trovi quello di grado più piccolo.
+
+[[src_jmo13yq_yosen__Q12]]

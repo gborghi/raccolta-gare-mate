@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Cesenatico 1999 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_1999__Q06
 parent: src_cesenatico_1999
 competition: Gara Nazionale Cesenatico 1999
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (x,k) con 3^k-1=x^n*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xiVBBYZkZtqAHB0eYNM1QTJV2D_9fS-1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Pairs (x,k) with 3 k-1=x^n < MSK1/>
+
+> (a) Determine all pairs $(x, k)$ of positive integers satisfying the $$3^k - 1 = x^3.$$ equation. (b) Demonstrate that if $n$ is an integer greater than $1$ and different from $3$ there are no pairs $(x, k)$ of positive integers satisfying the $$3^k - 1 = x^n.$$ equation.
+
+[[src_cesenatico_1999__Q06]]

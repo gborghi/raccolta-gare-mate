@@ -1,6 +1,7 @@
 ---
 title: XXV Olimpiade Italiana Cesenatico 2009 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2009__Q02
 parent: src_cesenatico_2009
 competition: XXV Olimpiade Italiana Cesenatico 2009
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *OM perpendicolare a BK*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** dimostrato (rotazione 90 gradi)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RKPm3NkroFDeg9oRHAPmvCWj33-Ezm8e/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*OM perpendicular to BK*
+
+> Whether ABCD is a square of center O. Two isosceles BCJ and CDK, external to the square, of base BC and CD respectively and congruent to each other, are constructed. Let M be the middle point of CJ. It is proved that the OM and BK lines are perpendicular.
+
+**Answer:** dimostrato (rotazione 90 gradi)
+[[src_cesenatico_2009__Q02]]

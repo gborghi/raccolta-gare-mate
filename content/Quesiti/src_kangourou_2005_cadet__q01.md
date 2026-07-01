@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet__Q01
 parent: src_kangourou_2005_cadet
 competition: Kangourou 2005 - Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti in meta di un terzo di un quarto di giorno*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minutes in the target third of a quarter of the day< MSK1/>
+
+> How many minutes is half a third of a quarter of a day? A) 20         B) 30        C) 60           D) 120           E) 150
+
+**Answer:** C
+[[src_kangourou_2005_cadet__Q01]]

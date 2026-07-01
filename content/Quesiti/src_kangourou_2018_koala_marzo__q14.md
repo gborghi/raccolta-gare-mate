@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q14
 parent: src_kangourou_2018_koala_marzo
 competition: Kangourou 2018 Gioco Koala (Marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorso del cane con 3 svolte destra e 2 sinistra*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1AGwjurQUucDfrq-UuV0KeOG7NZtWOZs2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Crossing of the dog with 3 right and 2 left turns*
+
+![[src_kangourou_2018_koala_marzo__prob14.png]]
+
+> To reach his bone at the crossroads, the dog made a total of three right turns and two left turns. Which of the following is the path taken by the dog? (see figure)
+
+**Answer:** C
+[[src_kangourou_2018_koala_marzo__Q14]]

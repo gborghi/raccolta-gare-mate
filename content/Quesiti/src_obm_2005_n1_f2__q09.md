@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f2__Q09
 parent: src_obm_2005_n1_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Domino chain alignment and impossibility with 1–4 tiles*
 
@@ -53,3 +56,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*allineamento della catena di domini e impossibilità con 14 piastrelle*
+
+> Ogni gioco di domino ha due case numerate. Considerate i 6 pezzi formati solo dai numeri 1, 2 e 3.
+> 
+> (a) In quanti modi è possibile posizionare tutti questi pezzi in una fila, in modo che il numero sulla casa destra di ogni pezzo sia uguale al numero sulla casa sinistra del pezzo immediatamente a destra? Qui di seguito sono riportati due esempi.
+> 
+> (b) Spiegate perché non è possibile fare lo stesso con tutti i 10 pezzi formati solo dai numeri 1, 2, 3 e 4.
+
+![[src_obm_2005_n1_f2__Q09.png]]
+
+[[src_obm_2005_n1_f2__Q09]]

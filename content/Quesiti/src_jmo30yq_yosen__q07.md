@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo30yq_yosen__Q07
 parent: src_jmo30yq_yosen
 competition: Japan Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count fillings of 2x1010 grid with 1-5 such that adjacent cells differ by 2 or 3*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $10 \cdot 3^{1009}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i riempimenti della griglia 2x1010 con 1-5 in modo tale che le celle adiacenti differiscano di 2 o 3*
+
+> Riempire ciascuna cella di una griglia $2 \times 1010$ con un numero intero da $1$ a $5$ (repetimento consentito) in modo che due celle che condividono un bordo contengano numeri la cui differenza assoluta è $2$ o $3$. Quante sono queste disposizioni? Gli accordi che coincidono dopo la rotazione o la riflessione sono considerati distinti.
+
+**Risposta:** 10 \cdot 3^{1009}
+[[src_jmo30yq_yosen__Q07]]

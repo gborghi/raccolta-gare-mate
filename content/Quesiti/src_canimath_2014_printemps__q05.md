@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2014 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2014_printemps__Q05
 parent: src_canimath_2014_printemps
 competition: Coupe Animath Printemps 2014
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Football tournament: find number of teams given win/draw/loss scoring rules*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXbOAjNKTjFFzbKdpAWQivUPB4zcjEuT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Torneo di calcio: trovare il numero di squadre con le regole di punteggio vincita/scorso/perdita*
+
+> In un torneo di calcio, ogni squadra gioca contro ogni altra squadra esattamente due volte. Non ci sono pareggi; una vittoria guadagna due punti e una perdita guadagna zero punti. Si scopre che solo una squadra ha vinto il torneo con $26$ punti, e le due squadre in ultima posizione sono pari con $20$ punti ciascuno. Determinare il numero di squadre e dare un esempio di torneo in cui si verificano questi risultati.
+
+[[src_canimath_2014_printemps__Q05]]

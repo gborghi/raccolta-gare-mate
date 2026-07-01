@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1992 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1992_r3__Q02
 parent: src_pol_1992_r3
 competition: Olimpiade Matematica Polacca 1992 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all functions on rationals with two functional equations*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y0mu5QcC1ogDOJ92TBWc65WHpU-0WUHz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni sui razionali con due equazioni funzionali*
+
+> Trova tutte le funzioni $f : \mathbb{Q}^+ \to \mathbb{Q}^+$ in modo che per tutte $x \in \mathbb{Q}^+$, $$f(x+1) = f(x) + 1 \quad \text{and} \quad f(x^3) = f(x)^3.$$
+
+[[src_pol_1992_r3__Q02]]

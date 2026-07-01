@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2010_finale__Q09
 parent: src_kangourou_squadre_2010_finale
 competition: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anno della predizione su cifra unita eta e m^m*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2008
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Year of forecast on a single digit and m^m < MSK1/>
+
+> Disparate numbers Let's say a positive integer is disparate if divided by 6 gives the remainder 5 and divided by 8 gives the remainder 7. Find the first two odd numbers and write them in order (for example, if they were 65 and 86 you would write 6586).
+
+**Answer:** 2008
+[[src_kangourou_squadre_2010_finale__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f3__Q01
 parent: src_obm_2002_n2_f3
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of triangle obtained by reflecting each vertex of a right triangle across the opposite side*
 
@@ -51,3 +54,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nXOkuveTEgG-AREkbRruZntjlbpxTLWP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di triangolo ottenuta riflettendo ogni vertice di un triangolo rettangolo sul lato opposto*
+
+> Nel disegno laterale, la linea $t$ è perpendicolare al segmento $AB$ e passa attraverso il suo punto medio $M$. Diciamo che $A$ è il riflesso di $B$ rispetto alla linea $t$ (o rispetto al segmento $PQ$).
+> 
+> Il $XYZ$ deve essere un triangolo rettangolo di superficie $1\,\mathrm{m}^2$. Considera il triangolo $X'Y'Z'$ tale che $X'$ sia il riflesso di $X$ rispetto al lato $YZ$, $Y'$ sia il riflesso di $Y$ rispetto al lato $XZ$ e $Z'$ sia il riflesso di $Z$ rispetto al lato $XY$.
+> 
+> Calcolare l'area del triangolo $X'Y'Z'$.
+
+![[src_obm_2002_n2_f3__Q01.png]]
+
+[[src_obm_2002_n2_f3__Q01]]

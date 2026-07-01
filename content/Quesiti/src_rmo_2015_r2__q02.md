@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r2__Q02
 parent: src_rmo_2015_r2
 competition: Regional Mathematical Olympiad 2015
@@ -31,6 +32,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quadratic polynomial, P(s)=t, P(t)=s; prove b-st is a root*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pE5C6xJJWRVrxBj2NXZ57hsymLDTV43n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomio quadratico, P(s) = t, P(t) = s; prova b-st è una radice*
+
+> Che $P(x) = x^2 + ax + b$ sia un polinomio quadratico con coefficienti reali. Supponiamo che ci siano numeri reali $s \neq t$ come $P(s) = t$ e $P(t) = s$. Provare che $b - st$ è una radice dell'equazione $x^2 + ax - b - at = 0$.
+
+[[src_rmo_2015_r2__Q02]]

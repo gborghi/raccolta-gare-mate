@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f1__Q08
 parent: src_obm_2002_n2_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Write 1–9 in 3×3 grid so four-number propeller arm sums are equal and maximal*
 
@@ -56,3 +59,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Scrivere 19 in 3×3 griglia in modo che le somme dei bracci della elica a quattro numeri siano uguali e massime*
+
+> Scrivere i numeri interi da $1$ a $9$ in una griglia $3 \times 3$ in modo che la somma dei quattro numeri lungo ogni braccio della "propeller" (come illustrato) sia uguale e il più grande possibile. Qual è la somma massima pari?
+>
+> - **(A)** $23$
+> - **(B)** $22$
+> - **(C)** $21$
+> - **(D)** $20$
+> - **(E)** $19$
+
+![[src_obm_2002_n2_f1__Q08.png]]
+
+**Risposta:** B
+[[src_obm_2002_n2_f1__Q08]]

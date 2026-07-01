@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Region 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_r1__Q06
 parent: src_rmo_2012_r1
 competition: Regional Mathematical Olympiad 2012
@@ -33,6 +34,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove not all roots of ax^4+bx^3+x^2+x+1=0 are real*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11aRbfC9yQJVoIGFG_WNtegA0QeoTMsx3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Prove che non tutte le radici di ax^4+bx^3+x^2+x+1=0 sono reali
+
+> $b$ e $a$ siano numeri reali come $a \neq 0$. Prova che non tutte le radici di $ax^4 + bx^3 + x^2 + x + 1 = 0$ possono essere reali.
+
+[[src_rmo_2012_r1__Q06]]

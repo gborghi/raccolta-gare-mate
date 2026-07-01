@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2025 — Selection Camp — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2025__Q10
 parent: src_selection_camp_2025
 competition: Japan IMO Selection Camp 2025 — Selection Camp
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic pentagon, diagonal intersection points; prove concyclicity*
 
@@ -43,3 +46,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_hAtW-_q2-uMzqzRMHgBP6hcqovxL3Oj/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Pentagono ciclico, punti di intersezione diagonali; prova di conciclicità*
+
+> Un pentagono $A_1A_2A_3A_4A_5$ è inserito in un cerchio. Per ogni numero intero $i$ con $1 \le i \le 5$, $B_i$ deve essere il punto di intersezione della linea $A_{i+1}A_{i-1}$ e della linea $A_{i-1}A_{i-2}$, dove gli indici sono presi modulo $5$ in modo che $A_n = A_{n+5}$. Dal pentagono $B_1B_2B_3B_4B_5$ si ottengono altri cinque punti di intersezione $I_1, I_2, I_3, I_4, I_5$ dei suoi lati/diagonali. Provare che < MSK10/> si trova su un cerchio comune. (L'indice soddisfa < MSK11/>.)
+
+[[src_selection_camp_2025__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f1__Q25
 parent: src_obm_2001_n3_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC, AB=5, BC=6; maximize angle C; find area*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC, AB=5, BC=6; massimizza l'angolo C; trova la superficie*
+
+> In triangolo $ABC$, $AB = 5$ e $BC = 6$. Qual è l'area del triangolo $ABC$, sapendo che l'angolo $\hat{C}$ ha la misura più grande possibile?
+> 
+> **A)** 15 $\quad$ **B)** $5\sqrt{7}$ $\quad$ **C)** $\dfrac{7\sqrt{7}}{2}$ $\quad$ **D)** $3\sqrt{11}$ $\quad$ **E)** $\dfrac{5\sqrt{11}}{2}$
+
+**Risposta:** E
+[[src_obm_2001_n3_f1__Q25]]

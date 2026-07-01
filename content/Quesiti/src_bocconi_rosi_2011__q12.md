@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q12
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posti nel cinema preferito di Liliana*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 360 posti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Places in Liliana's favourite film
+
+> Liliana's favorite movie theater, when it's 40 percent empty, has 72 fewer viewers than when it's 80 percent full. How many seats does Liliana's favorite movie have?
+
+**Answer:** 360 posti
+[[src_bocconi_rosi_2011__Q12]]

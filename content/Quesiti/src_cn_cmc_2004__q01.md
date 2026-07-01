@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2004 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2004__Q01
 parent: src_cn_cmc_2004
 competition: China Mathematical Competition 2004
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute angle theta making quadratic have repeated root*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'angolo acuto che rende quadratici ha radice ripetuta*
+
+> Che $\theta$ sia un angolo acuto tale che l'equazione $x^2 + 4\cos\theta \cdot x + \cot\theta = 0$ che coinvolge la variabile $x$ abbia più radici. Quindi la misura di $\theta$ nei radiani è ( ).
+> 
+> (A) $\dfrac{\pi}{6}$ \quad (B) $\dfrac{\pi}{12}$ \quad (C) $\dfrac{5\pi}{6}$ \quad (D) $\dfrac{5\pi}{12}$
+
+**Risposta:** B
+[[src_cn_cmc_2004__Q01]]

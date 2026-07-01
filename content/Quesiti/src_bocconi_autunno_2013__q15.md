@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2013 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2013__Q15
 parent: src_bocconi_autunno_2013
 competition: Giochi d'Autunno 2013
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle unità della somma $1^2+2^3+\cdots+2013^{2014}$.*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of units of the sum $1^2+2^3+\cdots+2013^{2014}$.*
+
+> What is the unit number of the number $1^2 + 2^3 + 3^4 + \ldots + 2012^{2013} + 2013^{2014}$?
+
+**Answer:** 5
+[[src_bocconi_autunno_2013__Q15]]

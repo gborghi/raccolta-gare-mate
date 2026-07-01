@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 2 —
   Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_nu_f2__Q02
 parent: src_obm_2007_nu_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Large subset of {1,…,N} contains a shifted arithmetic-density subinterval*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uVjphHFMi3bPUqcfFJw1ZHOQqSglLjnK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un grande sottoinsieme di {1,...,N} contiene un sottointervallo di densità aritmetica spostata*
+
+> Data una cifra integrale positiva $n$, indicare che esiste una cifra integrale positiva $N$ con la seguente proprietà: se $A$ è un sottoinsieme di $\{1,2,\ldots,N\}$ con almeno $N/2$ elementi, allora esiste una cifra integrale positiva $m\le N-n$ tale che $$|A\cap\{m+1,m+2,\ldots,m+k\}|\ge\frac{k}{2}$$ per tutti $k=1,2,\ldots,n$.
+
+[[src_obm_2007_nu_f2__Q02]]

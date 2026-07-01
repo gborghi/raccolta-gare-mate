@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2018 Finale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_finale__Q04
 parent: src_kangourou_2018_squadre_finale
 competition: Kangourou Coppa squadre 2018 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale di aumento del prezzo scontato*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0075
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage increase in discounted price*
+
+> Excessive discount To sell a product in abundance, a retailer reduces its price by 60%. But now he realizes that the discount is too high: the price he should impose is the average between the original and the discounted. By what percentage should the discounted price be increased? (Just write the number, for example, 0003 to indicate 3%.)
+
+**Answer:** 0075
+[[src_kangourou_2018_squadre_finale__Q04]]

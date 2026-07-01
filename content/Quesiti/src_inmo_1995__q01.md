@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1995 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1995__Q01
 parent: src_inmo_1995
 competition: Indian National Mathematical Olympiad 1995
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Orthocenter, midpoint, symmetric point in triangle with angle 30*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-pje9yn5-Oz-tcMTgQ38tNi0Sa3TrKyD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ortocentro, punto medio, punto simmetrico in triangolo con angolo 30*
+
+> In un triangolo a angolo acuto $ABC$ con $\angle A = 30^\circ$, $H$ è l'ortocentro e $M$ il punto medio di $BC$. Il punto $T$ è simmetrico a $H$ rispetto a $M$. Mostra che $AT = 2BC$.
+
+[[src_inmo_1995__Q01]]

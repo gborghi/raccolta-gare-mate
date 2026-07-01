@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2013 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo23mq_honsen__Q03
 parent: src_jmo23mq_honsen
 competition: Japan Mathematical Olympiad 2013 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimal m with increasing sequence whose adjacent square-sum halves are squares*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PB6QVfFVyF4M6--riIsWoTuMBhLU_5t7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum m con sequenza in aumento le cui metà quadrate adiacenti sono quadrate*
+
+> $n$ sia un numero intero con $n \ge 2$. Trova il valore minimo dell'intero numero positivo $m$ per il quale esistono interi positivi $a_1, \ldots, a_n$ che soddisfano le seguenti due condizioni:
+> 
+> - $a_1 < \cdots < a_n = m$. - I numeri $n-1$ $\dfrac{a_1^2 + a_2^2}{2}, \ldots, \dfrac{a_{n-1}^2 + a_n^2}{2}$ sono tutti quadrati perfetti.
+
+[[src_jmo23mq_honsen__Q03]]

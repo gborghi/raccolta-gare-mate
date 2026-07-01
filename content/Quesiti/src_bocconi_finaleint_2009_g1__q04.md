@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 1) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g1__Q04
 parent: src_bocconi_finaleint_2009_g1
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato minimo di un quadrato che contiene senza sovrapposizioni due rettangoli dati.*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8 cm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum side of a square containing without overlap two rectangles of data.*
+
+> 4 - SEARCH THE SQUARE (coefficient 4) Two rectangles of size $5\text{ cm} \times 6\text{ cm}$ and $3\text{ cm} \times 4\text{ cm}$ are arranged within a square, without overlapping. What is the minimum size of the side of the square?
+
+**Answer:** 8 cm
+[[src_bocconi_finaleint_2009_g1__Q04]]

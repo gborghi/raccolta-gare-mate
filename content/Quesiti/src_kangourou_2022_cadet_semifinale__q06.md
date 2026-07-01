@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet semifinale individuale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q06
 parent: src_kangourou_2022_cadet_semifinale
 competition: Kangourou 2022 Cadet semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorso minimo della formica sul cilindro*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum path of the ant on the cylinder*
+
+![[src_kangourou_2022_cadet_semifinale__prob6.png]]
+
+> (4 points) The straight circular cylinder in the figure is 8 cm high and the base circumference is 12 cm long. The two diameters shown in the two bases are parallel. An ant starts from the A-end of the diameter of the lower base and wants to reach the B-end of the diameter of the upper base, moving on the lateral surface of the cylinder. How many centimeters is the shortest path you can take? A) 8
+>  
+> B) 10 C) 14 D) 15 E) 20
+
+**Answer:** B
+[[src_kangourou_2022_cadet_semifinale__Q06]]

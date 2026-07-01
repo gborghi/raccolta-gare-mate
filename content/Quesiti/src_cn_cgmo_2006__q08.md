@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2006 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2006__Q08
 parent: src_cn_cgmo_2006
 competition: China Girls' Mathematical Olympiad 2006
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Round-robin chess tournament: minimum n for property P(m)*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Torneo di scacchi a rotonda: minimo n per la proprietà P(m) *
+
+> In un torneo di scacchi round robin ogni giocatore gioca con ogni altro giocatore esattamente una volta. Il vincitore di ciascuna partita ottiene $1$ punti e il perdente $0$ punti. Se la partita termina in pareggio, ogni giocatore ottiene un punto $\frac{1}{2}$. In un torneo ci sono giocatori $m$, si dice che un torneo abbia proprietà $P(m)$ se si verifica quanto segue: tra ogni set $S$ di giocatori $m$, c'è un giocatore che ha vinto tutte le sue partite $m - 1$ contro gli altri giocatori $m - 1$ in $S$.
+> 
+> Per un dato numero intero positivo $m \ge 4$, determinare il valore minimo di $n$ (come funzione di $m$) in modo tale che si verifichi quanto segue: in ogni torneo di scacchi a round robin da giocatore $n$ con proprietà $P(m)$, i punteggi finali dei giocatori $n$ sono tutti distinti.
+
+[[src_cn_cgmo_2006__Q08]]

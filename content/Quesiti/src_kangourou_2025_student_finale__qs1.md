@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2025 Student finale — Quesito S1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2025_student_finale__QS1
 parent: src_kangourou_2025_student_finale
 competition: Kangourou 2025 Student finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Intervalli razionali inscatolati con intersezione vuota*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Falso
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1NjqBkCmn7HHwv4vdTCDcW5Yj2KD9K8Ly/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rational intervals boxed with empty intersection*
+
+> For $a < b$ rational numbers, the set, which we will denote with $R[a; b]$, is said to be ** rational closed interval** if it contains all but the rational numbers between $a$ and $b$, $a$ and $b$ included. Show or refute the following statement:
+> 
+> 'If $\{A_n\} = \{R[a_n; b_n]\}$ ($n = 1, 2, \ldots$) is a sequence of closed, rational and boxed intervals (i.e. $A_{n+1} \subseteq A_n$ for each $n$), then the intersection of $A_n$ cannot be empty.'
+
+**Answer:** Falso
+[[src_kangourou_2025_student_finale__QS1]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f2__Q03
 parent: src_obm_2005_n1_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Natasha crosses out 1 and 3 from diary pages up to 200*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Natasha ha tagliato fuori 1 e 3 dalle pagine del diario fino a 200
+
+> Natasha è superstiziosa e, a partire dalla pagina 1 del suo diario di 200 pagine, ha incrociato tutti i numeri in cui i numeri 1 e 3 appaiono insieme (in qualsiasi ordine). Per esempio, i numeri 31 e 137 non figurano nel diario, ma 103 invece. Qual è il numero che Natasha ha scritto sull'ultima pagina del suo diario?
+
+[[src_obm_2005_n1_f2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_pubblico__Q08
 parent: src_archimede_2001_pubblico
 competition: Archimede 2001 - Gara del Pubblico (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *unioni e divisioni, numero massimo di mucchi*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0375
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*units and divisions, maximum number of heaps*
+
+> Here's another one. The following operations are permitted: two can be joined and one can be divided into two equal piles (if the number of its stones is equal). Assuming Obob leaves with $3$ heaps made of $88$, $215$, and $72$ stones respectively, what is the maximum number of heaps he can reach?
+
+**Answer:** 0375
+[[src_archimede_2001_pubblico__Q08]]

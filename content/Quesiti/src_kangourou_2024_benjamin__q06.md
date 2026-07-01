@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Benjamin 2024 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin__Q06
 parent: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale cumulo di scatole non e realizzabile*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which stack of boxes is not achievable*
+
+![[src_kangourou_2024_benjamin__prob6.png]]
+
+> 6. On the floor of a bus there are six boxes arranged as shown in Figure F. They're being carried to the ground by a squirrel. Move one BENJAMIN C D box at a time and only if there are no other boxes above it. Hold each box on the ground or on top of another box, without moving it. Which one of the following can't he make? B D B D A B A A C C A A C F F E D B E D B E F D E E F C F C A) B) C) D) E)
+
+**Answer:** C
+[[src_kangourou_2024_benjamin__Q06]]

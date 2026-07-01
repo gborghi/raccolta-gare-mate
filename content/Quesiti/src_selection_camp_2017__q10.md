@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2017 — Selection Camp — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2017__Q10
 parent: src_selection_camp_2017
 competition: Japan IMO Selection Camp 2017 — Selection Camp
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all n>=3: for any 2n reals with |a_k|+|b_k|=1, choose x_k=pm1 bounding two sums*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti n>=3: per qualsiasi 2n reali con ≠a_k=1, scegliere x_k=pm1 limitando due somme*
+
+> Trovare tutti i numeri interi positivi $n \ge 3$ in modo tale che si verifichi quanto segue: per qualsiasi numero reale $2n$ $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n$ soddisfacente $|a_k| + |b_k| = 1$ per $k = 1, 2, \ldots, n$, si possono scegliere numeri reali $x_1, x_2, \ldots, x_n$ con $|x_k| = 1$ per $k = 1, 2, \ldots, n$ in modo tale che $$\left|\sum_{k=1}^n x_k a_k\right| + \left|\sum_{k=1}^n x_k b_k\right| \le 1.$$
+
+[[src_selection_camp_2017__Q10]]

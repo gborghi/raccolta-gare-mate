@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q02
 parent: src_kangourou_2015_marzo_ecolier
 competition: Kangourou 2015 gara 19 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *la barra piu lunga*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0> the longest bar < MSK1/>
+
+![[src_kangourou_2015_marzo_ecolier__prob2.png]]
+
+> Henry has the 10 bars of metal all the same as you see in the figure. With screws, it joins them in pairs to form the 5 longest bars that are shown in the figures that make up the answers. Which one is the longest?
+
+**Answer:** A
+[[src_kangourou_2015_marzo_ecolier__Q02]]

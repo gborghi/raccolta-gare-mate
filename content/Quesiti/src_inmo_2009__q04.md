@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2009 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2009__Q04
 parent: src_inmo_2009
 competition: Indian National Mathematical Olympiad 2009
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *3-colouring of plane yields monochromatic isosceles or geometric-progression triangle*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YPNtVo-CAi9FgLmbWRMzeSPRIJy9mPVu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*3-colorazione del piano produce isosceles monocromatici o triangolo di progressione geometrica*
+
+> Tutti i punti del piano sono colorati con tre colori. Prova che esiste un triangolo con vertici dello stesso colore in modo tale che sia uguale o gli angoli siano in progressione geometrica.
+
+[[src_inmo_2009__Q04]]

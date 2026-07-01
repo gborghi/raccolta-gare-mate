@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2004 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2004__Q06
 parent: src_inmo_2004
 competition: Indian National Mathematical Olympiad 2004
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 5-tuples satisfying reciprocal-sum equation; prove the count is odd*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_ogop_H9aN7DDnSasFsJqkXiQTv0yKue/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare 5 volte che soddisfano l'equazione di somma reciproca; dimostrare che il conteggio è impar*
+
+> Prove che il numero di $5$-tupli di integri positivi $(a, b, c, d, e)$ che soddisfano l'equazione $$abcde = 5(bcde + acde + abde + abce + abcd)$$ è un intero **odd**.
+
+[[src_inmo_2004__Q06]]

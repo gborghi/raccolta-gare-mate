@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Student 2023 — Quesito S3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student_finale__QS3
 parent: src_kangourou_2023_student_finale
 competition: Kangourou Finale Student 2023
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Esiste poliedro con ogni sezione piana triangolo*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Ee_ERD-poJJkEKdZ7-sxycryMbsAtpP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>There is polyhedron with each triangular flat section< MSK1/>
+
+> Mark claims to have managed to build a polyhedron (not degenerate) such that each of its flat sections is a triangle (eventually degenerate). Can we believe him?
+
+[[src_kangourou_2023_student_finale__QS3]]

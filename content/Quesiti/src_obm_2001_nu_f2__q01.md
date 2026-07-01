@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2001 — Nível Universitário — Fase 2 —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_nu_f2__Q01
 parent: src_obm_2001_nu_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível Universitário — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perpendiculars from points on a line envelop a parabola*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12XNvYzmA5iSp5auP4O68Ivgx7LoAbloE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le perpendicolari dei punti su una linea avvolgono una parabola*
+
+> Che $O$ sia un punto e $r$ una linea nel piano. Per ogni punto $P$ di $r$, $r_P$ deve essere perpendicolare a $OP$ che passa attraverso $P$. Prove che l'insieme $\{r_P \mid P \in r\}$ è l'insieme di tutte le linee tangenti di una parabola.
+
+[[src_obm_2001_nu_f2__Q01]]

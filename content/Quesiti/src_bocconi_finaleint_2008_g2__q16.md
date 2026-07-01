@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 2) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g2__Q16
 parent: src_bocconi_finaleint_2008_g2
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ricostruire due moltiplicazioni combinate cifra per cifra su display a sette segmenti.*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 41 × 49 ; 59 × 34
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Reconstruct two combined multiplication figures by figures on a seven-segment display.*
+
+> In digital visualization, each figure is represented by two to seven light segments (see drawing). The multiplication below is the combination, figure by figure, of two similar multiplication: two two-digit factors, two three-digit intermediate results and a four-digit final result. The combination of two digits shall result in a light segment if, and only if, at least one of them contains the corresponding light segment. What are the two multiples combined? It is given as $(A \times B\ ;\ C \times D)$, where A and C are the factors above, B and D are the factors below, with $A \le C$.
+
+![[src_bocconi_finaleint_2008_g2__Q16.png]]
+
+**Answer:** 41 × 49 ; 59 × 34
+[[src_bocconi_finaleint_2008_g2__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2019 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo29mq_honsen__Q01
 parent: src_jmo29mq_honsen
 competition: Japan Mathematical Olympiad 2019 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Diophantine equation in three positive integers*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d-Z0DI9iKKJVTFxoX0Fz2qworASxs0iM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione diofantina in tre numeri interi positivi*
+
+> Trova tutti i triples $(a,b,c)$ di numeri interi positivi che soddisfano $a^2+b+3=(b^2-c^2)^2$.
+
+[[src_jmo29mq_honsen__Q01]]

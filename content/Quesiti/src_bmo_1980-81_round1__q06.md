@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1980-81 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1980-81_round1__Q06
 parent: src_bmo_1980-81_round1
 competition: British Mathematical Olympiad 1980-81 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Lagrange-interpolation identity: sum of 1/P_i is an integer*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvC2qvBdYveDQTv4wMFuVVfLHwCOEMvY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identità di interpolazione di larghezza: la somma di 1/P_i è un intero*
+
+> $a_1, a_2, \ldots, a_n$ sono diversi enti non zero. $P_i$ è il prodotto dei fattori $(n-1)$ $(a_j - a_i)$ per tutti $j \neq i$.
+> 
+> Provare che $$\sum_{i=1}^{n} \frac{1}{P_i}$$ è un numero intero.
+
+[[src_bmo_1980-81_round1__Q06]]

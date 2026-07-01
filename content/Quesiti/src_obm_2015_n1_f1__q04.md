@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q04
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find value of a purchase given a change error*
 
@@ -55,3 +58,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il valore di un acquisto data un errore di modifica*
+
+> Joana andò in un negozio, scelse un prodotto e diede alla cassa una singola banconota, dicendo alla cassa che non era dovuto alcun cambio. Poi si rese conto che la nota era una nota reale di 50 o una nota reale di 20. La cassiera ha restituito 27 reais. Joana ha affermato giustamente di aver ricevuto 9 reales in meno di cambio di quanto avrebbe dovuto. Qual era il valore dell'acquisto?
+>
+> - **(A)** 52
+> - **(B)** 53
+> - **(C)** 57
+> - **(D)** 63
+> - **(E)** 64
+
+**Risposta:** E
+[[src_obm_2015_n1_f1__Q04]]

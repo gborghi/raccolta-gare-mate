@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q24
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti tiri ha fatto Michele*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many shots did Michele take?
+
+> Michele played point-and-shoot. 25% of his shots went unmarked; with the shots that went unmarked, he hit only 5, 8 and 10, hitting 8 and 10 the same number of times. If he scored 99 points in total, how many shots did Michele take? A) 10 B) 12 C) 16 D) 20 E) 24
+
+**Answer:** D
+[[src_kangourou_2011_cadet__Q24]]

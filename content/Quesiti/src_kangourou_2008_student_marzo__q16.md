@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q16
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume parallelepipedo spigoli in prog. geometrica*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Volume of parallel pipes in the forehead. The value of the underlying assets shall be calculated on the basis of the following information:
+
+> The lengths of the tips of a rectangular parallel-piped, measured in centimetres, are integers and form a geometric progression of the ratio q = 2. Which of the following measures, in cubic centimetres, can represent the volume of the solid? (a) 120 (b) 188 (c) 350 (d) 500 (e) None
+
+**Answer:** E
+[[src_kangourou_2008_student_marzo__Q16]]

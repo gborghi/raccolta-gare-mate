@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_squadre__Q10
 parent: src_archimede_2001_squadre
 competition: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *massimo termine noto*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3024
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BmICgzhXXszLqAUxg8mhu_z1YXo7y9a6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>maximum known term< MSK1/>
+
+> **Ancient civilizations** (60 points)
+> 
+> One of the most important problems of Imese archaeology is the deciphering of the numbers of the Qwghlm civilization, whose writing is quite well known. It is assumed that the Qwghlmians used a base 11 system, having 11 tentacles. A brilliant archaeologist just found a page in an old math book that said:
+> 
+> Using the method of 'Rtenio' (NdR: a well-known Qwghlmian mathematician) it is concluded that the roots of the $$\alpha x^2 - \beta x + \alpha + \beta - \gamma = 0$$ polynomial are all integers
+> 
+> The Greek letters represent two different unknown Qwghlmian figures. Calculate the maximum value that the known term can assume.
+
+**Answer:** 3024
+[[src_archimede_2001_squadre__Q10]]

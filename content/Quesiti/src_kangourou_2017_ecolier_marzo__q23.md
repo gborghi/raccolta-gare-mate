@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Écolier (gara marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q23
 parent: src_kangourou_2017_ecolier_marzo
 competition: Kangourou 2017 Écolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Monete toccate a Enzo (sacchetti da 1 a 10)*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Coins minted in Enzo (sacks 1 to 10) < MSK1/>
+
+> There were ten bags on the table, each containing a different number of chocolate coins, from 1 to 10. Grandma gave each of the five grandchildren two bags of coins. Alex has five coins, Ben 7, Claudius 9, and Darius 15. How many chocolate coins were touched in Enzo? A) 9
+> 	
+> B) 11
+> 	
+> C) 13
+> 	
+> D) 17
+> 	
+> E) 19
+
+**Answer:** E
+[[src_kangourou_2017_ecolier_marzo__Q23]]

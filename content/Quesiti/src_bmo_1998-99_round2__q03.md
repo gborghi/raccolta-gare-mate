@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1998-99 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1998-99_round2__Q03
 parent: src_bmo_1998-99_round2
 competition: British Mathematical Olympiad 1998-99 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove symmetric inequality for non-negative reals summing to 1*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AjZMoZUnkxlPd_JNOwNCqxZIvIWIX2xp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rimprovare la disuguaglianza simmetrica per i reali non negativi che sommano a 1*
+
+> I numeri reali non negativi $p$, $q$ e $r$ soddisfano $p + q + r = 1$. Provare che < MSK0/>
+
+[[src_bmo_1998-99_round2__Q03]]

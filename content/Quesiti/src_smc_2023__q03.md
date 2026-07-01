@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2023 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2023__Q03
 parent: src_smc_2023
 competition: Senior Mathematical Challenge 2023
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Effect on area of scaling base up and height down*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Effetto sulla superficie della base di scalazione verso l'alto e l'altezza verso il basso< MSK1/>
+
+> La base di un triangolo è aumentata di $20\%$ e la sua altezza diminuita di $15\%$. Cosa succede alla sua zona?
+>
+> - **(A)** Riduce di < MSK0/>
+> - **(B)** Resta lo stesso .
+> - **(C)** Riduce di < MSK0/>
+> - **(D)** Aumenta di < MSK0/>
+> - **(E)** Aumenta di < MSK0/>
+
+**Risposta:** D
+[[src_smc_2023__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2000 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_2livello__Q08
 parent: src_archimede_2000_2livello
 competition: Archimede Gara 2º livello 2000
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero biglietti lotteria con 999 cifre 9*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lottery ticket number with 999 digits 9*
+
+> In a lottery, the number 9 is used exactly 999 times to number tickets (numbered from number 1 onwards). How many lottery tickets have been issued?
+>
+> - **(A)** Less than 2000
+> - **(B)** Between 2001 and 3000
+> - **(C)** between 3001 and 4000
+> - **(D)** More than 4001
+> - **(E)** There can be no such lottery.
+
+**Answer:** E
+[[src_archimede_2000_2livello__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 53
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q53
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *B1-9: angle between a,b is π/3, |a|,|b|,|a+b| arithmetic sequence; find |a|:|b|:|a+b|.*
 
@@ -47,3 +50,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*B1-9: angolo tra a,b è π/3, \aquoquoquoquoquoquo, \bquoquo, \aquo, \aquo, \bquo sequenza aritmetica; trovare \aquo: \bquo: \bquo.*
+
+> [Test Paper B1, Problem 9] (16 marks) Supponiamo che l'angolo incluso tra i vettori non zero $\vec{a}$ e $\vec{b}$ nel piano sia $\dfrac{\pi}{3}$. Se $|\vec{a}|,|\vec{b}|,|\vec{a}+\vec{b}|$ forma una sequenza aritmetica in ordine, trova il valore di $|\vec{a}|:|\vec{b}|:|\vec{a}+\vec{b}|$.
+
+**Risposta:** 3:5:7
+[[src_cn_cmc-first-round_2021__Q53]]

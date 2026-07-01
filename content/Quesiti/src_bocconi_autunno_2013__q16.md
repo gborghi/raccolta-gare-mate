@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2013 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2013__Q16
 parent: src_bocconi_autunno_2013
 competition: Giochi d'Autunno 2013
@@ -30,6 +31,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità che Desiderio e Nando siedano fianco a fianco.*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\dfrac{1}{3}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The probability that Desiderio and Nando sit side by side.
+
+> Desiderio and Nando booked two seats on the same plane. The automatic procedure that reserved seats put them at random, but in the same row of six seats.
+> 
+> Given that the six seats are all occupied, what is the probability (expressed as an irreducible fraction) that Desiderio and Nando are next to each other (excluding if they are divided by the central corridor)?
+> 
+> N.B.: Desiderio and Nando are supposed to be sitting on either side of the other, even though they were separated by the central hallway.
+
+**Answer:** \dfrac{1}{3}
+[[src_bocconi_autunno_2013__Q16]]

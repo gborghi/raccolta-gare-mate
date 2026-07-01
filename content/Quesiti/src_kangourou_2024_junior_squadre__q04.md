@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Junior Finale 1 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_squadre__Q04
 parent: src_kangourou_2024_junior_squadre
 competition: Kangourou Squadre 2024 Junior Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma due numeri 3 cifre, concat 7 volte prodotto*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0286
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19twDyCIYYYLPZm2ICyi_V91n9zEgBbys/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Two three-digit numbers summed up, seven times the sum of the numbers < MSK1/>
+
+> Two integers Two positive integers of three digits each are written consecutively to each other in a certain order: this gives a six-digit number that turns out to be 7 times the product of the two starting numbers. How much is the sum of these two numbers?
+
+**Answer:** 0286
+[[src_kangourou_2024_junior_squadre__Q04]]

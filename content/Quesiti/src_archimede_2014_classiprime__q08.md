@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2014 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_classiprime__Q08
 parent: src_archimede_2014_classiprime
 competition: Gara Nazionale Classi Prime 2014
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Zeri finali del prodotto n*m dati MCD e mcm*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Final product zeros n < MSK1/> m data MCD and mcm < MSK2/>
+
+> Of two integers n and m we know that the maximum common divisor is 2 · 34 · 5 while the minimum common multiple is 23 · 37 · 52 · 7. How many zeros does the product end with? A 3 B 4 C 1 D 2 E more than 4 F not uniquely determinable from the data provided
+
+**Answer:** A
+[[src_archimede_2014_classiprime__Q08]]

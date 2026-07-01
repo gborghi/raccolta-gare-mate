@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Triennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_triennio__Q03
 parent: src_archimede_1998_triennio
 competition: Giochi di Archimede 1998 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio del cerchio circoscritto a tre cerchi tangenti*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ray of the circle surrounded by three tangent circles*
+
+> There are three outer tangent circumferences of two to two. They have a radius equal to 1, 2, 3 respectively. The radius of the circumference surrounding the triangle having three centers of circumference as vertices is then equal to
+>
+> - **(A)** 2
+> - **(B)** 2,5
+> - **(C)** 3
+> - **(D)** π
+> - **(E)** There's no way to tell.
+
+**Answer:** B
+[[src_archimede_1998_triennio__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q20
 parent: src_garasquadre_2006_pubblico
 competition: VII Gara Nazionale a Squadre 2006 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *rapporto aree 1000A/B*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1000
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* report area 1000A/B *
+
+> Defence against dark mathematics [25] Group lesson in the course of defence against dark mathematics! Twelve students, numbered S1, S2, respectively. . . , S12, are located at the vertices of a regular dodecagon. If the segments S1S6, S5S10 and S9S2 are plotted, four triangles are formed. Both A the area of the central triangle and B the sum of the areas of the other three. Calculate 1000A/B.
+
+**Answer:** 1000
+[[src_garasquadre_2006_pubblico__Q20]]

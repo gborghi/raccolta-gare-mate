@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q10
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Qual e il blocco bianco del parallelepipedo*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>What and the white block of the paralelepiped< MSK1/>
+
+![[src_kangourou_2012_cadet__prob10.png]]
+
+> The parallel-piped rectangle you see in the figure is made by assembling four blocks of different colors, one of which is white. Each block, in turn, is made by attaching 4 cubes, all of the same size and color. What's the white block? (A) B) C) D) E) Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2012_cadet__Q10]]

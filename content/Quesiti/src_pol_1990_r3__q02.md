@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1990 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1990_r3__Q02
 parent: src_pol_1990_r3
 competition: Olimpiade Matematica Polacca 1990 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a cyclic sum of fractions in positive numbers is at most n-1.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SP_o4XBA9t_Mr20tlsjjsNkpPD2auONv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che la somma ciclica delle frazioni in numeri positivi è al massimo n-1.*
+
+> Lasciate che $x_1, x_2, \ldots, x_n$ siano numeri positivi. Provare che < MSK0/>
+
+[[src_pol_1990_r3__Q02]]

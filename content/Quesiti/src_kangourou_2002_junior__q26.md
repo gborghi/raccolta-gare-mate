@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q26
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie di triangoli simili nella piramide*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pairs of similar triangles in the pyramid*
+
+> The lengths of the edges of a triangular-based pyramid ABCD are: AB = 9, BC = 12, CA = 8, AD = 6, BD = 12 and CD = 4. How many pairs of distinct similar triangles can you spot between the faces of the pyramid?
+>  
+> A. 0 B. 1 C. 2 D. 3 E. 4
+
+**Answer:** B
+[[src_kangourou_2002_junior__Q26]]

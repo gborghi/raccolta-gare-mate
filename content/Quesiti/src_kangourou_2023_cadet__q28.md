@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q28
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *rapporto aree esagono piccolo/grande*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>report small/large hexagonal areas< MSK1/>
+
+![[src_kangourou_2023_cadet__prob28.png]]
+
+> The figure shows a regular hexagon broken down into four quadrilaterals and a smaller regular hexagon. The ratio of the grey region to the small area is 4/3. What is the ratio between the area of the small and the area of the large? A) 3/11 B) 1/3
+> 	
+> C) 2/3 D) 3/4 E) 3/5
+
+**Answer:** A
+[[src_kangourou_2023_cadet__Q28]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2009 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2009__Q12
 parent: src_bocconi_autunno_2009
 competition: Giochi d'Autunno 2009
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte lancette formano angolo retto tra mezzogiorno e le 6*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 11
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many times do snails form a right angle between noon and 6 a.m. < MSK1/>
+
+> Between noon and 6 p.m. (on the same day), how many times do the large and small hands of a clock form a right angle?
+
+**Answer:** 11
+[[src_bocconi_autunno_2009__Q12]]

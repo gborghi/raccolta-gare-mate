@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Ecolier (gara marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier__Q23
 parent: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spettatori certamente italiani maschi e vegetariani*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Spectators certainly Italian male and vegetarian< MSK1/>
+
+> In a theater there are 100 spectators: 50 of them are Italians, 60 are men, 90 are vegetarians. How many spectators in that theater can you be sure of being Italian, male and vegetarian at the same time? A) 0 B) 1 C) 10 D) 40 E) 50
+
+**Answer:** A
+[[src_kangourou_2011_ecolier__Q23]]

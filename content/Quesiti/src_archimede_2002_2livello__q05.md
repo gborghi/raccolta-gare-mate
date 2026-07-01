@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2002 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_2livello__Q05
 parent: src_archimede_2002_2livello
 competition: Archimede Gara 2º livello 2002
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *rapporto area in grigio*
 
@@ -39,3 +42,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>grey area report < MSK1/>
+
+![[src_archimede_2002_2livello__prob5.png]]
+
+> In the figure, the reader areas are equal to the area of the semicircle. What is the relationship between the area of the semicircle and that of the smaller circle?
+> 
+> (A) $\dfrac{1}{8}$ &ensp; (B) $\dfrac{\pi}{8}$ &ensp; (C) $\dfrac{\pi}{2}$ &ensp; (D) $2$ &ensp; (E) cannot be determined (see figure)
+
+**Answer:** A
+[[src_archimede_2002_2livello__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_2livello__Q06
 parent: src_archimede_2008_2livello
 competition: Archimede Gara 2° livello 2008 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti paggi sull'isola dato affermazioni in due giorni*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many salaries on the island given claims in two days*
+
+> On the island that doesn't exist, there are 2008 inhabitants, divided into three clans: the crooks who always lie, the knights who never lie, the payers who lie one day yes and one day no. Lorenza, visiting for two days, meets them all on the first day. The first one says, "There's exactly one crook on the island". The second one says, "There's exactly two crooks on the island". . . The 2008th says, "There are exactly 2008 crooks on the island". The next day, Lorenza interrogates them all in the same order. The first one says, there's exactly one rider on the island. The second one says, there's exactly two riders on the island. . . The last one says, "There are exactly 2008 knights on the island". How many pages are there on the island?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 1004
+> - **(D)** 2006
+> - **(E)** It is not possible to determine this with the problem data.
+
+**Answer:** B
+[[src_archimede_2008_2livello__Q06]]

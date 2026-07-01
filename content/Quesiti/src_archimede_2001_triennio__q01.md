@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Triennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_triennio__Q01
 parent: src_archimede_2001_triennio
 competition: Giochi di Archimede 2001 - Triennio
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti interi hanno media 6 e somma 18*
 
@@ -39,3 +42,19 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Integer numbers have mean 6 and sum 18< MSK1/>
+
+> The whole numbers have a mean of 6 and a sum of 18. How many integers are there?
+>
+> - **(A)** 3
+> - **(B)** 6
+> - **(C)** 12
+> - **(D)** 108
+> - **(E)** It's impossible to determine.
+
+[[src_archimede_2001_triennio__Q01]]

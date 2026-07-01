@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2017 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2017__Q13
 parent: src_garaprime_2017
 competition: Gara Nazionale Classi Prime 2017
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Grado del polinomio da uguaglianza di gradi*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Grade of the polynomial by degree equality*
+
+> From the non-identically zero polynomial p(x) we only know that by developing (p(x))3 and (x8 −x3) · p(x) we get two polynomials of the same degree. What's this grade? A 12 B 36 C 10 D 9 E 24 F not determined by the data provided alone
+
+**Answer:** A
+[[src_garaprime_2017__Q13]]

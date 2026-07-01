@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_squadre__Q09
 parent: src_archimede_2001_squadre
 competition: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico)
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *unioni e divisioni, numero massimo di mucchi*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0735
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BmICgzhXXszLqAUxg8mhu_z1YXo7y9a6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*units and divisions, maximum number of heaps*
+
+> **... and hobbies** (30 points)
+> 
+> Here's another one. The following operations are permitted: two can be joined and one can be divided into two equal piles (if the number of stones is equal). Assuming Obob leaves with 3 piles made of 441, 1437 and 327 stones, respectively, what is the maximum number of piles he can reach?
+
+**Answer:** 0735
+[[src_archimede_2001_squadre__Q09]]

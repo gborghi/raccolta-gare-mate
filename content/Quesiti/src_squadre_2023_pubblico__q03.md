@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Gara del pubblico — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_pubblico__Q03
 parent: src_squadre_2023_pubblico
 competition: Gara a Squadre 2023 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore somma di frazioni 1/(k^2-4) tipo telescopica*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0126
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Summary value of fractions 1/(k^2-4) type telescopic< MSK1/>
+
+> To escape from Zenonigata Inspector Zenonigata voted his career to capture Lupin/3. Perhaps this time it did: the Lupin/3 raft (a square on side l) has one side glued to one side of the Zenonigata raft (a larger square, on side 1100). The only possibility for Lupin/3 to escape would be to calculate the length of l, knowing that the circumference circumscribed to the raft of Zenonigata also passes through the two vertices of the raft of Lupin/3 that do not lie on the other raft. Unfortunately for the inspector, Lupin/3 is escaping. How much is it worth?
+
+**Answer:** 0126
+[[src_squadre_2023_pubblico__Q03]]

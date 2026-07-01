@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin__Q25
 parent: src_kangourou_2023_benjamin
 competition: Kangourou 2023 Benjamin — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *coppia adiacente*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> adjacent pair< MSK1/>
+
+![[src_kangourou_2023_benjamin__prob25.png]]
+
+> On the table is a tower of books all numbered the same from 1 to 50. Emma builds a new tower as follows: from the top of the starting tower she takes two books and places them on the table (without changing the order) as the base of the new tower; then from the top of what remains of the original tower she takes two more books and places them on top of the new tower; and so on, as suggested by the figure. Which of the following number pairs are on adjacent books in the new tower? A) 29 e 28 B) 34 e 35 C) 29 e 26 D) 31 e 33 E) 27 e 30
+
+**Answer:** C
+[[src_kangourou_2023_benjamin__Q25]]

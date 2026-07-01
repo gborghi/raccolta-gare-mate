@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2003 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2003__Q04
 parent: src_rmo_2003
 competition: Regional Mathematical Olympiad 2003
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ordered triples of nonneg integers with x≤y≤z, x+y+z≤100*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14_140H2POZbGtUVbO-snI4nHRD_OSqhe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i tripli ordinati di numeri interi non negativi con x≤y≤z, x+y+z≤100*
+
+> Trova il numero di triples ordinati $(x, y, z)$ di enti interi non negativi che soddisfano le condizioni: (i) $x \le y \le z$; (ii) $x + y + z \le 100$.
+
+[[src_rmo_2003__Q04]]

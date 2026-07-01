@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Semifinale individuale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q17
 parent: src_kangourou_2022_student_semifinale
 competition: Kangourou 2022 Student — Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *min somma |coeff|*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 33
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+I'm not going to say anything about it.
+
+> (7 points) Indicate with P the set of polynomials with integer coefficients whose roots are 1 + < MSK0/>2 + < MSK1/>3 and whose degree is as low as possible. For a polynomial P, denote with s(P) the sum of the absolute values of the coefficients of P. What is the minimum possible value for s(P) when P varies from P to P?
+
+**Answer:** 33
+[[src_kangourou_2022_student_semifinale__Q17]]

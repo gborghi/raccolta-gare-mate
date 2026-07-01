@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q05
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest m so that sum of squares of 11 consecutive integers from m is a perfect square*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 95
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Meno m in modo che la somma dei quadrati di 11 integri consecutivi da m sia un quadrato perfetto*
+
+> $m$ sia il numero intero positivo più piccolo in modo tale che $m^2 + (m+1)^2 + \cdots + (m+10)^2$ sia il quadrato di un numero intero positivo $n$. Trova < MSK3/>.
+
+**Risposta:** 95
+[[src_ioqm_2022__Q05]]

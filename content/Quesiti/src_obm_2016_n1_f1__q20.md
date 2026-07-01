@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f1__Q20
 parent: src_obm_2016_n1_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distinct products P from a digit puzzle with nonzero digits and Z=S^3 x I^2.*
 
@@ -54,3 +57,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i prodotti distinti P da un puzzle di numeri con numeri non zero e Z=S^3 x I^2.*
+
+> Ogni lettera è una cifra non zero; contare il numero di valori distinti che il prodotto $P = S\times E\times I\times S\times E\times Z$ può assumere.
+> 
+> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: poiché tutte le cifre non sono zero, annullare i termini ripetuti dà $Z = S^3\times I^2$. Poiché $Z$ è una cifra, sia $Z = 1$ che $S = 2$. Nel primo caso $I^2 = 4$ o $I^2 = 9$; nel secondo caso le possibilità sono $(S,I) = (1,2),(1,3)$ o $(2,1)$. Poiché $E$ differisce da $I$ e $S$, ci sono opzioni $7$ per $E$ in ogni caso. Se si elencano i possibili prodotti $P = S\times E\times I\times S\times E\times Z$ ed escludono le combinazioni che danno un $Z$ già scelto, ci sono valori $12$ distinti per $P$: $6,10,12,14,15,16,18,20,21,24,28$ e $36$.]
+
+**Risposta:** A
+[[src_obm_2016_n1_f1__Q20]]

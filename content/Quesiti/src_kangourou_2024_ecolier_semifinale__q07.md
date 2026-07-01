@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q07
 parent: src_kangourou_2024_ecolier_semifinale
 competition: Kangourou Semifinale individuale Ecolier 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero e certamente dispari*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What a number and certainly odd*
+
+> You know that number N is an integer, but you know nothing else. Which of the following numbers is certainly odd? (A) 17 × N B) N × N + 17 C) (N + 1) × N + 17 D) N × N × N E) N + 17 Answer: C). The solution. If N is equal, it is also equal to D). If N is odd, they are equal to A, B, and E. Whatever N is, (N + 1) × N is equal because either it is N or it is N + 1, so C) is odd.
+
+**Answer:** C
+[[src_kangourou_2024_ecolier_semifinale__Q07]]

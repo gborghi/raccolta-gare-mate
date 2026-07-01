@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q07
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di triangolini sulla superficie di un solido formato da due piramidi intrecciate.*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 24 triangolini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of triangles on the surface of a solid formed by two intertwined pyramids.*
+
+> Julie made this solid with the help of two interwoven triangular-based pyramids. How many triangles is its surface composed of?
+
+![[src_bocconi_finaleint_2008_g1__Q07.png]]
+
+**Answer:** 24 triangolini
+[[src_bocconi_finaleint_2008_g1__Q07]]

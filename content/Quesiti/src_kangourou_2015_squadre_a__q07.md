@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q07
 parent: src_kangourou_2015_squadre_a
 competition: Kangourou Coppa Squadre 2015 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma M+m dei numeri imparziali (CDU+UDC dispari)*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1785
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*M+m sum of the odd numbers (CDU+UDC) *
+
+> ) unbiased numbers Let's say with the CDU the three-digit number where C is the number of hundreds, D is the number of tens and U is the number of units. Let's say CDU is "fair" if it happens that C > D > U > 0 and all the digits of the sum CDU + UDC are odd. They are M and m respectively the largest and smallest of the odd numbers. How much is M + m? A B C X Y
+
+**Answer:** 1785
+[[src_kangourou_2015_squadre_a__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q06
 parent: src_archimede_2026_squadre_finale_femminile
 competition: Gara a Squadre Femminile 2026 - IX Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità somme parziali mai divisibili per 3*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 51
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of partial sums never divisible by 3*
+
+> After walking through the woods, in a depression, Hiccup finds the Dark Fury trapped in his bolas. Raise your knife ready to strike the decisive blow under the dragon's helpless gaze. Something's stopping him. To find strength and determination, imagine writing the numbers from 1 to 10 in random order and calculate the probability that, at no time during writing, the sum of the numbers already written is divisible by 3. But Hiccup still fails to finish the dragon and decides to restore his freedom by cutting the ropes that are trapping him. What's the probability calculated by Hiccup? (Give the sum of the numerator and the denominator of the probability written in irreducible fraction as an answer.)
+
+**Answer:** 51
+[[src_archimede_2026_squadre_finale_femminile__Q06]]

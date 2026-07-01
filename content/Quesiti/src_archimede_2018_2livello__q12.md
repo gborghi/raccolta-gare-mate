@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_2livello__Q12
 parent: src_archimede_2018_2livello
 competition: Archimede Gara di Febbraio 2018 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma telescopica con prodotti di dispari*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Telescopic sum with odd products< MSK1/>
+
+> For every positive integer n, we call f (n) the product of all odd natural numbers less than or equal to 2n + 1 (e.g. f) = 1 · 3 · 5 · 7 · 9). Then we put g (n) = n f (n). What can be said of the sum S = g(1) + g(2) + · · + g(30)?
+>
+> - **(A)** S ≤0.35
+> - **(B)** 0.35 < S ≤0.49
+> - **(C)** 0.49 < S ≤0.50
+> - **(D)** 0.50 < S ≤0.51
+> - **(E)** S > 0.51 Problems with a numerical answer  5 points
+
+**Answer:** C
+[[src_archimede_2018_2livello__Q12]]

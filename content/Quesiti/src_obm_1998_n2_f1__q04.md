@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f1__Q04
 parent: src_obm_1998_n2_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Age when father's age is triple son's age*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>età in cui l'età del padre è triplice dell'età del figlio< MSK1/>
+
+> Un padre ha 33 anni e suo figlio ha 7 anni. In quanti anni l'età del padre sarà triplicata dell'età del figlio?
+> 
+> A) 3 B) 7 C) 6 D) 9 E) 13
+
+**Risposta:** C
+[[src_obm_1998_n2_f1__Q04]]

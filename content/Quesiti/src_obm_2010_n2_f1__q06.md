@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q06
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Arithmetic mean of two distinct two-digit numbers is 98; find difference*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La media aritmetica di due numeri a due cifre distinte è 98; trova la differenza*
+
+> Sonia calcola la media aritmetica di due diversi numeri a due cifre e ottiene $98$. Qual è la differenza tra questi numeri?
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $4$
+> - **(E)** un numero superiore a $4$
+
+**Risposta:** B
+[[src_obm_2010_n2_f1__Q06]]

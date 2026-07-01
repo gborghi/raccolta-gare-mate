@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q06
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with distinct integer sides, largest side 2015, minimize area*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con diversi lati interi, lato più grande 2015, riducendo al minimo l'area*
+
+> Un triangolo ha tutti i lati con lunghezze interi distinte, il più grande dei quali è il 2015. Quali sono le lunghezze degli altri due lati che rendono l'area del triangolo il più piccolo possibile?
+> 
+> (A) 2 e 2014 \quad (B) 3 e 2013 \quad (C) 1006 e 1010 \quad (D) 1007 e 1009 \quad (E) 1008 e 1009
+
+**Risposta:** E
+[[src_obm_2015_n3_f1__Q06]]

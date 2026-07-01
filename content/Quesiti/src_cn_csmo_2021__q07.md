@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2021 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2021__Q07
 parent: src_cn_csmo_2021
 competition: China Southeastern Mathematical Olympiad 2021
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality relating symmetric rational expression to reciprocals of differences*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove le disuguaglianze relative all'espressione razionale simmetrica alle reciprocità delle differenze*
+
+> Che i valori < MSK1/> siano positivi reali distinti. Provare che < MSK0/>
+
+[[src_cn_csmo_2021__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet finale (maggio) — Quesito C6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_maggio__QC6
 parent: src_kangourou_2007_cadet_maggio
 competition: Kangourou 2007 Cadet finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma prime sei cifre decimali di 2^2007/7*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 27
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Dn8ZecdOYUyYHtHKXwFBMWk2VpE5AjPv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Sum of the first six decimal places of 2^2007/7*
+
+> What is the sum of the first six digits after the comma of the division by $7$ of $2^{2007}$?
+
+**Answer:** 27
+[[src_kangourou_2007_cadet_maggio__QC6]]

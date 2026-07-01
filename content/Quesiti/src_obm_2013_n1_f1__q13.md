@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f1__Q13
 parent: src_obm_2013_n1_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum number of paying adults at a stadium given total takings*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZFAopdNjG-Ynm1d9LROcVImmCRs-HuH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Minimum numero di adulti paganti in uno stadio dato il totale delle entrate < MSK1/>
+
+> Il prezzo di ingresso in uno stadio di calcio è di R\$$7.50$ for adults and R\$$2.50$ for children. In the last Sunday's game, the stadium collected R\$$3000.00$ da parte di un pubblico inferiore a $600$ che paga lo spettatore. Almeno quanti adulti paganti c'erano nello stadio?
+> 
+> (A) $299$ \quad (B) $301$ \quad (C) $310$ \quad (D) $361$ \quad (E) $450$
+
+[[src_obm_2013_n1_f1__Q13]]

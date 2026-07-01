@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q15
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma possibile di 22 interi con prodotto 1*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible sum of 22 integers with product 1*
+
+> The product of 22 integers is 1. Which of the following numbers can be their sum? A) -1 B) 0 C) 1 D) 4 E) none of these S F 4 cm2 12 cm2 junior_05_D.qxp 21/02/2005 16.13 Page 24
+> 
+> I'm going to pay. I'm going to pay. 25 25 Kang 2005 Kang
+
+**Answer:** E
+[[src_kangourou_2005_junior__Q15]]

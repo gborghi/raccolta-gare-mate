@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q08
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Aumento percentuale area aiuola (+10%+10%)*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Proportional increase in area of wool (+10%+10%) < MSK1/>
+
+> A man has a rectangular owl in his garden. He decides to enlarge it by increasing both the length and width by 10%. Then the area of the sheath increases from A to 10 percent B to 20 percent C to 21 percent D to 40 percent E to 121 percent
+
+**Answer:** C
+[[src_kangourou_2004_cadet__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1968 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1968_r3__Q06
 parent: src_pol_1968_r3
 competition: Olimpiade Matematica Polacca 1968 — Round 3
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Graph connectivity on n>3 points: triangle-free degree-4 graph vs. forced triangle*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10k54qccFrtN6TlMsohHjGXdPXzsXwNZY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Grafica di connettività su n>3 punti: grafico di grado 4 senza triangolo vs. triangolo forzato*
+
+> Considera un insieme di punti $a > 3$ nel piano, di cui non ci sono tre collineari, e un numero naturale $4 < c$. Provare le seguenti affermazioni: (a) Se $4 \le \frac{c}{2}$, allora ogni punto può essere collegato con almeno altri 4 punti da segmenti in modo che non formino tre segmenti un triangolo. (b) Se $4 > \frac{c}{2}$, ogni punto è collegato con almeno altri 4 punti da segmenti, allora alcuni tre segmenti formano un triangolo.
+
+[[src_pol_1968_r3__Q06]]

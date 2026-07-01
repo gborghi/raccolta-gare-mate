@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q19
 parent: src_cesenatico_2006_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero 4 cifre prodotto di soli 2*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9768
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of 4 digits produced by only 2*
+
+> At the divination lesson [10] Poor Ron was blindfolded and the divination teacher wrote a formula on the board. Knowing that in the expression there are only 2 digits and multiplication marks, and that the result has four digits and is the maximum possible, what answer should Ron give?
+> 
+> I'm going to pay. 4 out of 4  Team competition 2006  Public competition  Problem texts
+
+**Answer:** 9768
+[[src_cesenatico_2006_squadre_pubblico__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q28
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area esagono data area stella*
 
@@ -60,3 +63,34 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Area exaggerated given star area< MSK1/>
+
+![[src_kangourou_2001_benjamin__prob28.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.5]
+  \draw[thick] (1,0) -- (0.5,0.866) -- (-0.5,0.866) -- (-1,0) -- (-0.5,-0.866) -- (0.5,-0.866) -- cycle;
+  \fill[gray!50] (0.75,0.433) -- (-0.75,0.433) -- (0,-0.866) -- cycle;
+  \fill[gray!50] (0,0.866) -- (-0.75,-0.433) -- (0.75,-0.433) -- cycle;
+  \draw[thick] (0.75,0.433) -- (-0.75,0.433) -- (0,-0.866) -- cycle;
+  \draw[thick] (0,0.866) -- (-0.75,-0.433) -- (0.75,-0.433) -- cycle;
+\end{tikzpicture}
+\end{document}
+```
+
+> The star shown in the figure was made by touching the midpoints of the sides of a regular hexagon. If the area of the star is 6, what is the area of the hexagon?
+>
+> - **(A)** 8
+> - **(B)** 9
+> - **(C)** 12
+> - **(D)** 15
+> - **(E)** 18. Kangourou 15 March 2001, category Benjamin. This item is not intended to be used. 7
+
+**Answer:** C
+[[src_kangourou_2001_benjamin__Q28]]

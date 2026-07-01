@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q11
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *5 white-up cards flipped in adjacent pairs; can all be made black-side up?*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>5 carte bianche in coppie adiacenti; tutte possono essere fatte a lato nero? < MSK1/>
+
+> Cinque carte identiche hanno ciascuno un lato bianco e un lato nero. Sono disposte in fila con il lato bianco rivolto verso l'alto. Una mossa consiste nel scegliere una coppia unica di carte adiacenti e girarle entrambe. Almeno quante mosse sono necessarie affinché tutte le carte finiscano con il lato nero rivolto verso l'alto?
+> 
+> **(A) ** $2$ $\quad$ **(B) ** $3$ $\quad$ **(C) ** $4$ $\quad$ **(D) ** $5$ $\quad$ **(E) ** Non è possibile ottenere questa configurazione.
+
+![[src_obm_2009_n2_f1__Q11.png]]
+
+**Risposta:** E
+[[src_obm_2009_n2_f1__Q11]]

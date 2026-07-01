@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q06
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability each colored urn receives exactly its own colored balls*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+La probabilità che ogni urna colorata riceva esattamente le proprie palle colorate
+
+> Ciascuna delle palle < MSK0/> è dipinta blu, verde o giallo e viene inserita in uno dei tre urne, uno blu, un altro verde e il terzo giallo. Qual è la probabilità che ogni urna contenga esattamente le palle del suo rispettivo colore? (A) $\frac{1}{3^{2014}}$ (B) $\frac{1}{3^{2013}}$ (C) $\frac{1}{9^{2014}}$ (D) $\frac{1}{3^{4017}}$ (E) $\frac{1}{9^{2013}}$
+
+[[src_obm_2014_n3_f1__Q06]]

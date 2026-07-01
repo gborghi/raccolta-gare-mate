@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_ecolier_f__Q13
 parent: src_kangourou_2015_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2015 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza tessere nere e bianche bordo 4000 nere*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 2001
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iZrTBi-soab93JlVJUtlAaAcp-N69n0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Difference between black and white tiles 4000 black edge < MSK1/>
+
+![[src_kangourou_2015_squadre_ecolier_f__prob13.png]]
+
+> The mosaic you see in the figure is a mosaic formed by joining white square sheets and black square sheets, all of the same size. The outer edge of the mosaic consists of 16 black tiles. Imagine a mosaic built in the same way, but the outer edge of which, however, is made up of 4,000 black tiles. In this imaginary mosaic, how many more black tiles are there than white tiles?
+
+**Answer:** 2001
+[[src_kangourou_2015_squadre_ecolier_f__Q13]]

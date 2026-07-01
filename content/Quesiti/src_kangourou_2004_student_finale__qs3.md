@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Student finale nazionale — Quesito S3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student_finale__QS3
 parent: src_kangourou_2004_student_finale
 competition: Kangourou 2004 Student finale nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max tessere a croce sulla scacchiera 8x8*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 8
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YDB8i8P8ObCcVZVHoKNettQ8gKf-sGTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max cross-sectional tiles on the 8x8 chessboard < MSK1/>
+
+![[src_kangourou_2004_student_finale__probS3.png]]
+
+> We place in a square chessboard < MSK0/> symmetrical cross-shaped tiles such as the one in the figure, formed by the approximation of 5 squares of the same size to the chessboard cells, so that: - each of them covers exactly (overlapping) 5 of the 64 chessboard boxes; - the tiles do not overlap, but can touch and touch the edge of the chessboard.
+> 
+> How many cards can a chessboard hold? (see figure)
+
+**Answer:** 8
+[[src_kangourou_2004_student_finale__QS3]]

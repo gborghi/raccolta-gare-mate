@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2005 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2005__Q05
 parent: src_cn_cmc_2005
 competition: China Mathematical Competition 2005
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify conic section from equation with irrational trigonometric coefficients*
 
@@ -47,3 +50,19 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare la sezione conica dell'equazione con coefficienti trigonometrici irrazionali*
+
+> La curva rappresentata dall'equazione $$\frac{x^2}{\sin\sqrt{2}-\cos\sqrt{3}}+\frac{y^2}{\cos\sqrt{2}-\sin\sqrt{3}}=1$$ è ( ).
+>
+> - **(A)** Un'ellisse con i foci sull'asse $x$
+> - **(B)** Una iperbola con i foci sull'asse $x$
+> - **(C)** Un'ellisse con i foci sull'asse $y$
+> - **(D)** Una iperbola con i foci sull'asse $y$
+
+**Risposta:** C
+[[src_cn_cmc_2005__Q05]]

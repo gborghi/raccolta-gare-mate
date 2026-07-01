@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Cadet (15 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_cadet__Q23
 parent: src_kangourou_2001_cadet
 competition: Kangourou 2001 - Cadet (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma punti sulla superficie del talismano*
 
@@ -56,3 +59,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of points on the surface of the talisman*
+
+> Maddalena builds a talisman by gluing seven dice to each other according to the following rule: two faces with the same number of dots are glued to each other. As she plays with her masterpiece, it slides into a bucket containing white paint. Taking out the talisman, Maddalena realizes that all the dots have disappeared. What was the sum of all the dots on the talisman's surface? (In a dice the sum of the points on opposite sides is always 7.)
+>
+> Kangourou 15 March 2001, category Cadet. This item is not intended to be used. 6
+>
+> - **(A)** 95
+> - **(B)** 102
+> - **(C)** 105
+> - **(D)** 112
+> - **(E)** 126.
+
+**Answer:** C
+[[src_kangourou_2001_cadet__Q23]]

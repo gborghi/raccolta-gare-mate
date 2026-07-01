@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n1_f2__Q03
 parent: src_obm_2017_n1_f2
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Permutation of points on half-disk boundary minimising sum of squared distances*
 
@@ -56,3 +59,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iwmdzVC1anDxEvSBue1NcwFMI43Xg_Zx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Permutazione dei punti sul confine di mezzo disco riducendo al minimo la somma delle distanze quadrate*
+
+> Il $X = \{(x,y) \in \mathbb{R}^2 : x \ge 0,\, x^2 + y^2 = 1\} \cup \{(x,0) : -1 \le x \le 1\}$ deve essere il limite del mezzo disco chiuso del raggio $1$.
+> 
+> a) Che $n > 1$ sia un numero intero e $P_1, P_2, \ldots, P_n \in X$. Prove che esiste una permutazione $\sigma : \{1, 2, \ldots, n\} \to \{1, 2, \ldots, n\}$ tale che $$\sum_{i=1}^{n} |P_{\sigma(i+1)} - P_{\sigma(i)}|^2 \le 8,$$ dove definiamo $\sigma(n+1) = \sigma(1)$.
+> 
+> b) Determinare tutti i sottogruppi $\{P_1, P_2, \ldots, P_n\} \subset X$ in modo tale che per qualsiasi permutazione $\sigma : \{1, 2, \ldots, n\} \to \{1, 2, \ldots, n\}$, $$\sum_{i=1}^{n} |P_{\sigma(i+1)} - P_{\sigma(i)}|^2 \ge 8$$ (dove $\sigma(n+1) = \sigma(1)$).
+
+[[src_obm_2017_n1_f2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q28
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *max intero al vertice*
 
@@ -57,3 +60,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*max whole at the summit*
+
+![[src_kangourou_2016_cadet_marzo__prob28.png]]
+
+> On each of the 14 cubes of the pyramid in the figure Gaia wrote a different positive integer. The sum of the 9 integers written on the cubes at the base is 50. The whole written on every other cube is the sum of the whole written on the four cubes below it. What's the biggest whole Gaia could have written on the cube at the top? A) 120 B) 118 C) 110 D) 104 E) 102
+
+**Answer:** C
+[[src_kangourou_2016_cadet_marzo__Q28]]

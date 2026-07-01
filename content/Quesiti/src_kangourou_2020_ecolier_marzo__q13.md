@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Ecolier — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q13
 parent: src_kangourou_2020_ecolier_marzo
 competition: Kangourou 2020 Gara marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero del gradino dove si incontrano coniglio e canguro*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of steps where rabbit and kangaroo meet*
+
+![[src_kangourou_2020_ecolier_marzo__prob13.png]]
+
+> Look at the ladder in the figure: every time the rabbit goes down three steps, the kangaroo goes up seven steps. What's the number of the steps on which they're meeting? A) 53
+> 	
+> B) 60
+> 	
+> C) 63 D) 70
+> 	
+> E) 73
+
+**Answer:** D
+[[src_kangourou_2020_ecolier_marzo__Q13]]

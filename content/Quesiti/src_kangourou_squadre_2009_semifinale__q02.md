@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q02
 parent: src_kangourou_squadre_2009_semifinale
 competition: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale di quadrati perfetti tra 1 e 10000*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0001
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage of perfect squares between 1 and 10000*
+
+> The circuit has some regular pentagons and some squares available; the sides of these polygons are all the same length. By alternating pentagons into squares, so that one side of a pentagon matches another side of a square and vice versa, you want to make a closed circuit on a plane: the construction of the ring must proceed as shown in the figure. Assuming it is possible to build it, how many polygons will the closed circuit consist of? (Write 0000 if you can't build it.)
+
+**Answer:** 0001
+[[src_kangourou_squadre_2009_semifinale__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q10
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorno possibile di compleanno di Desiderio*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9/3 e 11/5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible day of Desiderio's birthday*
+
+> Desiderio is Italian and, to indicate a day of the year, writes first the date of the day and then the month (for example, writes 03.01 to indicate January 3). His English friend, Jacob, is instead accustomed to writing first the month and then the day (for him, 03.01 means $1^\circ$ March). For this reason, a real mess has happened. On 7 January 2007, Desiderio had given Jacob an appointment for a certain day of the first half of the year (written "in Italian"). Jacob read it "in English" and the two didn't meet. What (possible) day (s) did Desiderio write, because the difference with how much "capita" from Jacob is the maximum possible (but less than half a year)?
+
+**Answer:** 9/3 e 11/5
+[[src_bocconi_squadre_2008__Q10]]

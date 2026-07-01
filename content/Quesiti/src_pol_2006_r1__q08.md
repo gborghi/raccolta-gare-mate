@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2006 — Round 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2006_r1__Q08
 parent: src_pol_2006_r1
 competition: Olimpiade Matematica Polacca 2006 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tetrahedron ABCD circumscribed about unit sphere center S with SA>=SB>=SC; show SA>sqrt(5).*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tetraedro ABCD circoscritto intorno al centro della sfera unità S con SA>=SB>=SC; mostrare SA>sqrt(5).*
+
+> Un tetraedro $ABCD$ è circoscritto a una sfera con centro $S$ e raggio $1$ tale che $SA \ge SB \ge SC$. Mostrare che $SA > \sqrt{5}$.
+
+[[src_pol_2006_r1__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2002 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2002__Q01
 parent: src_cn_cgmo_2002
 competition: China Girls' Mathematical Olympiad 2002
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers n dividing 2003n+2002*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i numeri interi positivi n divisioni 2003n+2002*
+
+> Trova tutti gli integri positivi $n$ in modo tale che $2$ divida $2003n + 2002$. (Possibile da Wu Weichao)
+
+[[src_cn_cgmo_2002__Q01]]

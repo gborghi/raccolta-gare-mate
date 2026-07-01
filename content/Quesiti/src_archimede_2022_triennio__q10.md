@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2022 - Gara Triennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_triennio__Q10
 parent: src_archimede_2022_triennio
 competition: Giochi di Archimede 2022 - Gara Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultimo numero della 120-esima riga saltando multipli di 5*
 
@@ -57,3 +60,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last number of the 120th row by leaping multiples of 5*
+
+> The table right next to it, with 7 columns and infinite rows that go on and on, is filled in by entering the boxes the natural numbers, in increasing order, by skipping all the multiples of 5. What number does the 120th line end with? 1 2 3 4 6 7 8 9 11 12 13 14 16 17
+>
+> - **(A)** 1049
+> - **(B)** 1051
+> - **(C)** 1052
+> - **(D)** 839
+> - **(E)** 841
+
+**Answer:** A
+[[src_archimede_2022_triennio__Q10]]

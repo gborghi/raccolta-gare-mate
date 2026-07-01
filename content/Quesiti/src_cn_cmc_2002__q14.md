@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2002 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2002__Q14
 parent: src_cn_cmc_2002
 competition: China Mathematical Competition 2002
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Koch snowflake-type fractal: area sequence general term and limit*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Frattale tipo fiocco di neve di Koch: sequenza di superficie termine e limite generale*
+
+> Come mostrato nel diagramma, c'è una sequenza di curve $P_0, P_1, P_2, \ldots$ $P_0$ è un triangolo equilaterale. È noto che la regione circondata da $P_0$ ha area 1. Si costruisce $P_{k+1}$ da $P_k$ operando come segue: trisect ogni lato di $P_k$, costruire un triangolo equilaterale verso l'esterno su ogni lato di $P_k$ seduto sul segmento medio di quel lato, e infine rimuovere il segmento medio $(k = 0, 1, 2, \cdots)$. Scrivere $S_k$ come la superficie della regione circondata da $P_k$.
+> 
+> (1) Trovare una formula per il termine generale della sequenza $\{S_k\}$. (2) Trova < MSK1/>.
+
+![[src_cn_cmc_2002__Q14.png]]
+
+[[src_cn_cmc_2002__Q14]]

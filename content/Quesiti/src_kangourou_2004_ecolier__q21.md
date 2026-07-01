@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Ecolier (18 marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_ecolier__Q21
 parent: src_kangourou_2004_ecolier
 competition: Kangourou 2004 Ecolier (18 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero appare nella sequenza meno 3*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which number appears in the sequence minus 3*
+
+> Consider the following sequence of numbers: 11, 18, 25, 32, 39, ... (each number, starting with the second, is obtained by adding 7 to the number preceding it). If we subtract 3 from each number in this sequence, we get another one. Which of the following numbers appears in the latter? A) 221 B) 222 C) 223 D) 224       E) 225
+
+**Answer:** E
+[[src_kangourou_2004_ecolier__Q21]]

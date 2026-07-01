@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Student (marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q21
 parent: src_kangourou_2007_student_marzo
 competition: Kangourou 2007 Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Funzione inversa g (f(g(x))=x)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Reverse function g (f(g(x))=x) < MSK1/>
+
+> If and f (g (x)) = x, then g (x) = A) B) C) D) E) other function
+
+**Answer:** D
+[[src_kangourou_2007_student_marzo__Q21]]

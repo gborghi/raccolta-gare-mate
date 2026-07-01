@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q16
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Calcolo somma coefficienti a_(3k+1) di ((x^4+x^2+1)/3)^2007*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Calculation of the sum of the coefficients a_(3k+1) of ((x^4+x^2+1)/3)^2007*
+
+> A rough road [55] Numeruto and his team are chasing Sekante's kidnappers. Our mornings are moving cautiously, the pursuers have spread the traps. Suddenly, Numeruto is trapped in a trap. If p(x) = x4+x2+1 3 2007. If p(x) = a0 + a1x + a2x2 + ·· + a8028x8028, the only way to get out of the trap is to calculate a1 + a4 + a7 +... + a3k+1 +... + a8026. Give the sum of the numerator and denominator of the result reduced to the minimum terms.
+
+[[src_cesenatico_2007_squadre_pubblico__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q24
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numeri da 1 a 20 senza maggiore doppio del minore*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum numbers from 1 to 20 with no more than double the minor*
+
+> Among all integers 1 to 20 included, Riccardo wants to select a few so that, however he extracts two of the selected numbers, the greater is not twice the smaller. How many can you pick at most? A) 14
+> 	
+> B) 13
+> 	
+> C) 12
+> 	
+> D) 11
+> 	
+> E) 10
+
+**Answer:** A
+[[src_kangourou_2014_cadet__Q24]]

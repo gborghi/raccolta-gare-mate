@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 1) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g1__Q15
 parent: src_bocconi_finaleint_2011_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Superficie non attraversata da alcun segmento in quadrato*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{101}{315}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Surface not crossed by any square segment*
+
+> The figure represents the different apertures of a camera device. We traced all the segments that connect two points of a regular square separated from each other by $7$ units on a contour of a square or sides by measuring $6$ units. **At the centre, what is the area that is not crossed by any segment?** Answer in the form of an irreducible fraction of the total area (that of the $6 \times 6$ square). Careful, the eye can deceive.
+
+![[src_bocconi_finaleint_2011_g1__Q15.png]]
+
+**Answer:** $\frac{101}{315}$
+[[src_bocconi_finaleint_2011_g1__Q15]]

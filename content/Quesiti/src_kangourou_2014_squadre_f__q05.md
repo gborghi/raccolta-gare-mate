@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_f__Q05
 parent: src_kangourou_2014_squadre_f
 competition: Kangourou Coppa Squadre 2014 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo n biglie per trovare la piu pesante in 2 pesate*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum n bags to find the heaviest in 2 weights
+
+> In a day there are no beads that look identical. In reality n − 1 of them also have the same weight, while the remainder is slightly heavier than the others. Clara has a two-plate precision balance (i.e. it allows only to compare the weights of two groups of objects, placed one on a plate and one on the other): with a maximum of two weights it is able to identify the heaviest seed. What's the maximum possible value for n?
+
+**Answer:** 9
+[[src_kangourou_2014_squadre_f__Q05]]

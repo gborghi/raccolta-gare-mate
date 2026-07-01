@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_2livello__Q05
 parent: src_archimede_2022_2livello
 competition: Archimede Gara di Febbraio 2022 - 2° livello
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tre divisori di 30 con MCD consecutivi primi*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three 30 divisors with first consecutive MCDs*
+
+> Lucia wants to write three positive integers a, b, c so that each of them is a divisor of 30 and that the maximum common divisors between two consecutive terms (i.e. MCD(a, b) and MCD(b, c)) are prime numbers. How many ways can you do that?
+>
+> - **(A)** 69
+> - **(B)** 72
+> - **(C)** 105
+> - **(D)** 27
+> - **(E)** None of the above.
+
+**Answer:** C
+[[src_archimede_2022_2livello__Q05]]

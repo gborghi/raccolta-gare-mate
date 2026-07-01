@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2015 - Triennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_triennio__Q16
 parent: src_archimede_2015_triennio
 competition: Giochi di Archimede 2015 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *seconda volta che si incontrano*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*the second time they meet*
+
+> A cyclist and a pedestrian walk the same straight path between points A and B. Each moves at a steady speed and, once at the end of the route, starts immediately in the opposite direction, always at the usual speed. The two depart at the same time, the cyclist from A and the podiatrist from B; the first proceeds at a speed three times that of the second. They meet for the first time 12 kilometers from B. How many miles from A will they meet for the second time?
+>
+> - **(A)** 24
+> - **(B)** 18
+> - **(C)** 36
+> - **(D)** 27
+> - **(E)** There's not enough data to determine that.
+
+**Answer:** A
+[[src_archimede_2015_triennio__Q16]]

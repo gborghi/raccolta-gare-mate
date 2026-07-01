@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q21
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of digits of the smallest perfect square ending in 2001*
 
@@ -52,3 +55,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di cifre del più piccolo quadrato perfetto che termina nel 2001*
+
+> Quante cifre ha il più piccolo quadrato perfetto le cui ultime quattro cifre sono $2001$?
+> 
+> (A) $9$ \quad (B) $5$ \quad (C) $6$ \quad (D) $7$ \quad (E) $8$
+
+**Risposta:** D
+[[src_obm_2001_n2_f1__Q21]]

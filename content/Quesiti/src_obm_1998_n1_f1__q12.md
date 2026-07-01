@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q12
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum rolls made from limited ingredient quantities*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Rolle massime ottenute da quantità limitate di ingredienti< MSK1/>
+
+> Per realizzare i rulli $12$ occorre esattamente $100\,\text{g}$ di zucchero, $50\,\text{g}$ di burro, mezzo litro di latte e $400\,\text{g}$ di farina. Il maggior numero di rulli che si possono produrre con $500\,\text{g}$ di zucchero, $300\,\text{g}$ di burro, $4$ di litri di latte e $5$ di chilogrammi di farina è:
+>
+> - **(A)** $48$
+> - **(B)** $60$
+> - **(C)** $72$
+> - **(D)** $54$
+> - **(E)** $42$
+
+**Risposta:** B
+[[src_obm_1998_n1_f1__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q21
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di tornare al punto di partenza*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of returning to the starting point< MSK1/>
+
+> A pedal placed at the center of a 5 x 5 square grid is moved with horizontal or vertical steps of width one, determined by the simultaneous throwing of a pair of dice, a red and a blue. The red dice move the foot of a step to the right if an even number comes out and to the left if an odd number comes out, the blue dice move the foot of a step up if an even number comes out and down if an odd number comes out. What are the chances that after two throws the pedal will be back to its starting point? A) B) C) D) E)
+
+**Answer:** C
+[[src_kangourou_2008_student_marzo__Q21]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1993 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1993__Q01
 parent: src_rmo_1993
 competition: Regional Mathematical Olympiad 1993
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Altitude midpoints in acute triangle, find CD*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kadMp-CRN3MjuB-TEm5ptxaScgegf-GQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punti medi di altitudine nel triangolo acuto, trovare CD*
+
+> Il $ABC$ è un triangolo acuto e $CD$ è l'altitudine attraverso $C$. Se $AB = 8$ e $CD = 6$, trovare la distanza tra i punti di mezzo di $AD$ e $BC$.
+
+[[src_rmo_1993__Q01]]

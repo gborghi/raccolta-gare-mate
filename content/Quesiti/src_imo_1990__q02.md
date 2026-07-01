@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1990 (31st IMO, Beijing) — Quesito 2'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1990__Q02
 parent: src_imo_1990
 competition: 'IMO 1990 (31st IMO, Beijing)'
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Smallest k making every coloring of 2n-1 points good*
 
@@ -37,3 +40,13 @@ tags:
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Nm9GUxDj1LQ81dyXFSu02uDt1RWquol/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Smallest k making every coloring of 2n-1 points good*
+
+> Let n ≥3 and consider a set E of 2n −1 distinct points on a circle. Suppose that exactly k of these points are to be colored black. Such a coloring is good if there is at least one pair of black points such that the interior of one of the arcs between them contains exactly n points from E. Find the smallest value of k so that every such coloring of k points of E is good.
+
+[[src_imo_1990__Q02]]

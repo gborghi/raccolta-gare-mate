@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1993-94 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1993-94_round2__Q01
 parent: src_bmo_1993-94_round2
 competition: British Mathematical Olympiad 1993-94 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find first integer n>1 whose sum-of-squares average is a perfect square*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 337
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BVQrmCslxiyxp1Rg64CsxnMuP4Y7oEdJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova il primo intero n>1 la cui media della somma di quadrati è un quadrato perfetto*
+
+> Trova il primo intero $n > 1$ in modo tale che la media di $1^2, 2^2, \ldots, n^2$ sia un quadrato perfetto.
+
+**Risposta:** 337
+[[src_bmo_1993-94_round2__Q01]]

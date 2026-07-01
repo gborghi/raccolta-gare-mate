@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Triennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_triennio__Q01
 parent: src_archimede_1997_triennio
 competition: Giochi di Archimede 1997 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro di una figura composta da rettangoli uguali*
 
@@ -44,3 +47,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of a figure composed of equal rectangles*
+
+![[src_archimede_1997_triennio__prob1.png]]
+
+> In the figure next to the rectangles (all equal) have height a and base b. The perimeter of the figure
+>
+> - **(A)** è 15a+15b
+> - **(B)** è 10a+10b
+> - **(C)** è 15a+30b
+> - **(D)** è 30a + 30b
+> - **(E)** None of the above.
+
+**Answer:** B
+[[src_archimede_1997_triennio__Q01]]

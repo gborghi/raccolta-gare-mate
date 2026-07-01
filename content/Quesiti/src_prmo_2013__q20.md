@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2013__Q20
 parent: src_prmo_2013
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2013
@@ -34,6 +35,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of natural numbers less than 64 with exactly three 1s in base 2*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di numeri naturali inferiori a 64 con esattamente tre 1s nella base 2*
+
+> Qual è la somma (in base 10) di tutti i numeri naturali inferiori a 64 che hanno esattamente tre numeri nella loro rappresentazione base 2?
+
+[[src_prmo_2013__Q20]]

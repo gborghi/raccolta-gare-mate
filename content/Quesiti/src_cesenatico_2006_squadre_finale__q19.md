@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q19
 parent: src_cesenatico_2006_squadre_finale
 competition: Gara a Squadre Cesenatico 2006 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita disposizione 4 persone su 2 file (vedono bene)*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0029
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of 4 people on 2 rows (seeing well) < MSK1/>
+
+> Hardy, Hermita and Ron are going to class with Fracto Malpoysto. The four are randomly arranged in two rows of five seats each. Calculate the probability that everyone sees well, that is, that nobody has anyone else in front of them. Express the result as the sum of the numerator and denominator of the fraction reduced to minimum terms.
+> 
+> I'm going to pay. 4 out of 4  Team competition 2006  National final  Problem texts
+
+**Answer:** 0029
+[[src_cesenatico_2006_squadre_finale__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2015 - Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_biennio__Q06
 parent: src_archimede_2015_biennio
 competition: Giochi di Archimede 2015 - Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di ragazze a una festa di danze incrociate*
 
@@ -41,3 +44,19 @@ tags:
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1prvgjdAFaK6FEUhTIz1KxL8s22sIjytL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Number of girls at a cross-dance party
+
+> At a party, each boy danced with four different girls and each girl danced with three different boys. Knowing there were nine boys at the party, how many girls?
+>
+> - **(A)** 6
+> - **(B)** 10
+> - **(C)** 12
+> - **(D)** 8
+> - **(E)** 16
+
+[[src_archimede_2015_biennio__Q06]]

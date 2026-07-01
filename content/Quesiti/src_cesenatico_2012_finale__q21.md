@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_finale__Q21
 parent: src_cesenatico_2012_finale
 competition: Gara a Squadre Cesenatico 2012 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza minima su superficie piramidi (6)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4275
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum distance on the surface of pyramids (6) *
+
+> 21. Everyone fights and the search for the spheres is up to the brave Bourba, who is about to explore a block of six square-based pyramids, with the side faces of the triangles equilateral on side 15, arranged in a rectangle of 3×2 and adjacent to each other. Bourba is at a top of the base rectangle, but the dragon radar reveals that he must look for the sphere in the pyramid whose entrance is right at the opposite top of the base rectangle: he must have mistakenly consulted the map. How much road does he have to take at least, walking on the surface of the pyramids, to get to the entrance? The answer is the square of the minimum distance.
+
+**Answer:** 4275
+[[src_cesenatico_2012_finale__Q21]]

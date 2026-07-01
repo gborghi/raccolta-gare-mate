@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f3__Q02
 parent: src_obm_2007_n2_f3
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equilateral convex pentagon: two angles summing to 180° implies it tiles the plane*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Pentagono converso equalaterale: due angoli che sommano a 180° implicano che il piano*
+
+> Che $P$ sia un pentagono convexo con tutti i lati uguali. Prova che se due degli angoli di $P$ sommano a $180^\circ$, allora è possibile tessere il piano con copie di $P$, senza sovrapposizioni.
+
+[[src_obm_2007_n2_f3__Q02]]

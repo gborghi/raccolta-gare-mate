@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2011 - Gara a squadre — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2011_squadre__Q22
 parent: src_gs_2011_squadre
 competition: Coppa Fermat 2011 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Implicazioni tra risposte positive (logica II)*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2102
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Implications between positive responses (logic II) *
+
+![[src_gs_2011_squadre__prob22.png]]
+
+> Seeing American Army soldiers surrounding Fort Knox, Bond urges Goldfinger to surrender because the soldiers are stronger than his mercenaries inside the fort. Rather than act immediately, Goldfinger, like any self-respecting villain, does not miss an opportunity to declare: What do you mean when you say that soldiers are stronger than mercenaries? You mean
+> 
+> (1) Is every soldier stronger than every mercenary? (2) Is the strongest soldier stronger than the strongest mercenary? (3) Is every mercenary less powerful than some soldiers? (4) Is it possible to have each mercenary fight at the same time against a stronger soldier? (5) Are there more soldiers of greater strength than some mercenaries than there are mercenaries of greater strength than some soldiers?
+> 
+> To infuriate Goldfinger, Bond makes him note that there is dependence between his questions, explaining that the question $x$ depends on the question $y$ when a positive answer to the question $y$ results in a positive answer to the question $x$. To illustrate what he's saying and waste more time, he tells Goldfinger: how many questions do not depend on others; how many questions do not depend on another question exactly; how many questions do not depend on two more questions exactly; how many questions do not depend on three more questions exactly. What are the four numbers Bond tells Goldfinger? He answers by writing them from left to right in the order he calculated them.
+
+**Answer:** 2102
+[[src_gs_2011_squadre__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q12
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somme dei quadrati 2x2 uguali a 10 in griglia 3x3*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of squares 2x2 equal to 10 in the grid 3x3*
+
+> Andrea and Bruno answer the truth to anyone who asks how many members their Chess Club has. Andrea says all the members of the Club except 5, are male. Bruno says: In each group of 6 members of the Club there are at least 4 women. How many members of the Club? A) 6 B) 7 C) 8 D) 12 E) 18
+
+[[src_kangourou_2011_student__Q12]]

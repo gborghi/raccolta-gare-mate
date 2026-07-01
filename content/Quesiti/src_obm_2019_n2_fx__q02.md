@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2019 — Nível 2 — Fase x — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2019_n2_fx__Q02
 parent: src_obm_2019_n2_fx
 competition: Olimpíada Brasileira de Matemática 2019 — Nível 2 — Fase x
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality involving min and max of two positive integers*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aeOcEq6wUslacZqIssF_CvSifM3PfH2W/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Prove la disuguaglianza che coinvolge min e massimo di due integri positivi< MSK1/>
+
+> Che $a$, $b$ e $k$ siano integri positivi con $k > 1$ in modo tale che $$\min(a, b) + \text{mdc}(a, b) = k(a + b),$$ dove $\text{mdc}(a,b)$ denota il più grande divisore comune di $a$ e $b$.
+> 
+> Prove che $a + b \ge 4k$.
+
+[[src_obm_2019_n2_fx__Q02]]

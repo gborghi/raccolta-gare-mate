@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2005 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2005__Q02
 parent: src_inmo_2005
 competition: Indian National Mathematical Olympiad 2005
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum beta for fraction strictly between two rationals*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 32
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dQpL29VWOYmqDOzqi-9GbT0FQGESE5Z7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il beta minimo per la frazione strettamente tra due razionali*
+
+> $\alpha$ e $\beta$ siano integri positivi in modo tale che $$\frac{43}{197} < \frac{\beta}{\alpha} < \frac{17}{77}.$$ Trova il valore minimo possibile di $\beta$.
+
+**Risposta:** 32
+[[src_inmo_2005__Q02]]

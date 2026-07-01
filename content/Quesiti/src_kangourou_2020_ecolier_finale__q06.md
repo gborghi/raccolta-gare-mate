@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Ecolier — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__Q06
 parent: src_kangourou_2020_ecolier_finale
 competition: Kangourou 2020 Finale nazionale Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta di Alda (mesi anni doppio Carlo)*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0036
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Eta of Alda (month two years Charles) < MSK1/>
+
+> With the six stickers you see on the side, you can make different shapes, but only one of the ones you see below. What kind?
+>
+> - **(A)** (Figure A)
+> - **(B)** (Figure B)
+> - **(C)** (Figure C)
+> - **(D)** (Figure D)
+> - **(E)** (Figure E) (see figure)
+
+**Answer:** 0036
+[[src_kangourou_2020_ecolier_finale__Q06]]

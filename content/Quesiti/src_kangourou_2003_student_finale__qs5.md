@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student finale nazionale — Quesito S5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student_finale__QS5
 parent: src_kangourou_2003_student_finale
 competition: Kangourou 2003 Student finale nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora con lancette sovrapposte*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 9h49'5"
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OBeXoq_PUWofvqyA2y-KxF9LlSDsE0IX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Now with overlapping hands< MSK1/>
+
+> The dial of a clock only returns the 12 numbers corresponding to the hours; its three hands (hour, first minute, second minute) move continuously. At this moment (we're in the morning) the second hand indicates exactly one of the 12 numbers and in less than half an hour, the hour hand and the first minute hand will overlap exactly. What time is it?
+
+**Answer:** 9h49'5"
+[[src_kangourou_2003_student_finale__QS5]]

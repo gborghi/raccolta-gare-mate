@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2004 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2004__Q02
 parent: src_rmo_2004
 competition: Regional Mathematical Olympiad 2004
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers on cube faces; find all possible values of face-sum T*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PH5-bvLqESBobr80FptiJm1tzcFEiAQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tanti interi positivi sulle facce cubiche; trovare tutti i valori possibili della somma facciale T*
+
+> I numeri interi positivi sono scritti su tutte le facce di un cubo, uno su ciascuno. A ciascun angolo (vertice) del cubo è scritto il prodotto dei numeri sulle facce che si incontrano all'angolo. La somma dei numeri scritti in tutti gli angoli è il 2004. Se $T$ indica la somma dei numeri su tutte le facce, trovare tutti i possibili valori di $T$.
+
+[[src_rmo_2004__Q02]]

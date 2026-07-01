@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2016 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_classiprime__Q04
 parent: src_archimede_2016_classiprime
 competition: Gara Nazionale Classi Prime 2016
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima quantita con almeno una banconota da 5 (Frobenius)*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11_tVYKZUBusCSJwiRULQD9nPIEI-cYvl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum quantity with at least one 5 (Frobenius) banknote*
+
+> On the island of Kenoncè, ATMs distribute money using 5, 20 and 35 sesterce notes. Claudia wants to withdraw money so she can be sure she's getting at least a five-sester bill. What is the maximum amount of money you can withdraw? There is no maximum at 85 sesterces B 95 sesterces C 195 sesterces D 110 sesterces E 65 sesterces F, because there are multiple quantities of 5 arbitrarily large sesterces, which cannot be expressed using only 20 and 35 sesterce notes
+
+**Answer:** A
+[[src_archimede_2016_classiprime__Q04]]

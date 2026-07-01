@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f1__Q09
 parent: src_obm_2003_n2_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three consecutive naturals a<b<c; simplify c^2 - ab*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Tre naturali consecutivi a< b< c; semplificare c^2 - ab< MSK1/>
+
+> I numeri $a$, $b$, $c$ sono numeri naturali consecutivi in ordine crescente (così $b = a+1$, $c = a+2$). Il valore di $c^2 - ab$ è quindi uguale a:
+> 
+> (A) 0 \quad (B) 1 \quad (C) $2a + b$ \quad (D) $2a + c$ \quad (E) $2b + c$
+
+**Risposta:** E
+[[src_obm_2003_n2_f1__Q09]]

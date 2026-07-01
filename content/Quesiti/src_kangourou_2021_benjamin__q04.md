@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q04
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorso che fa scrivere il numero maggiore*
 
@@ -58,3 +61,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Course for writing the larger number*
+
+![[src_kangourou_2021_benjamin__prob4.png]]
+
+> In the figure, you can see how Lisa put the numbers 1 through 9 in a square. Lisa plays like this: she draws a path that connects some numbers and then composes the number she gets by transcribing the numbers she encounters along the path, starting with the one she marked with a star. For example, on the left-hand side of the road, you would write the number 42685. Which of the following paths allows Lisa to write the largest number? A) B) C) D) E) 1 2 2 0
+>
+
+**Answer:** E
+[[src_kangourou_2021_benjamin__Q04]]

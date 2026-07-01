@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f1__Q13
 parent: src_obm_2007_n2_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count of 3-digit x with 6x and 7x having the same digit count*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio di x a 3 cifre con 6x e 7x con lo stesso conteggio di cifre*
+
+> La quantità di numeri interi a tre cifre $x$ tale che $6x$ e $7x$ abbiano la stessa quantità di cifre è:
+> 
+> (A) 767 $\quad$ (B) 875 $\quad$ (C) 876 $\quad$ (D) 974 $\quad$ (E) 975
+
+**Risposta:** A
+[[src_obm_2007_n2_f1__Q13]]

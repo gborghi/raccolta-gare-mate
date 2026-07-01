@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior (20 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior__Q05
 parent: src_kangourou_2003_junior
 competition: Kangourou 2003 Junior (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tipo di triangolo con angoli x,2x,3x*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Type of triangle with angles x,2x,3x*
+
+> In an ABC triangle the angle in C is triple the angle in A and the angle in B is double the angle in A. So the triangle ABC is A) equilateral B) non-equilateral isosceles C) octahedral D) rectangle E) non-equilateral acutangol r s a to 15%
+> 
+> I'm going to pay. I'm going to pay. 23 23 Kang 2003 Kang
+
+**Answer:** D
+[[src_kangourou_2003_junior__Q05]]

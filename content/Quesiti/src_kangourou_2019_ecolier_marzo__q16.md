@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q16
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di gettoni dopo tre operazioni*
 
@@ -55,3 +58,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of tokens after three operations*
+
+> A strange token-switching machine provides three white tokens if you insert a red token, while it provides two red tokens if you insert a white token. Alice initially has 4 tokens, 3 red and 1 white; whenever she inserts a token, she combines the tokens she has obtained with those she has left. If you perform the operation three times, each time placing a random token among those you have at that time, what is the smallest number of tokens you could find yourself having? A) 7
+> 	
+> B) 6
+> 	
+> C) 8
+> 	
+> D) 5
+> 	
+> E) 9 Questions from N. 17 al N. Twenty-four is worth five points each.
+
+**Answer:** C
+[[src_kangourou_2019_ecolier_marzo__Q16]]

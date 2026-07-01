@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Triennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_triennio__Q09
 parent: src_archimede_2025_triennio
 competition: Giochi di Archimede 2025 - Triennio
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore q(4) del polinomio con radici i quadrati delle radici di p*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value q(4) of the polynomial with roots the squares of the roots of p*
+
+> Julius is looking for integers n such that the absolute value of (n −2)(n −20) is a prime number. What's the sum of all these n numbers?
+>
+> - **(A)** 36
+> - **(B)** 40
+> - **(C)** 32
+> - **(D)** 21
+> - **(E)** 44
+
+**Answer:** A
+[[src_archimede_2025_triennio__Q09]]

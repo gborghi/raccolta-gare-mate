@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q22
 parent: src_kangourou_2018_koala_marzo
 competition: Kangourou 2018 Gioco Koala (Marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza dello steccato con adesivi sovrapposti*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1AGwjurQUucDfrq-UuV0KeOG7NZtWOZs2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of the fitting with overlapping adhesives*
+
+![[src_kangourou_2018_koala_marzo__prob22.png]]
+
+> A boy has some stickers two inches wide and one inches high, and with these he draws a stitched one like the one in the picture. How many centimeters is the fence? (see figure)
+
+**Answer:** B
+[[src_kangourou_2018_koala_marzo__Q22]]

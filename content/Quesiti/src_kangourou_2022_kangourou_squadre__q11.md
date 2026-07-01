@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre__Q11
 parent: src_kangourou_2022_kangourou_squadre
 competition: Kangourou Squadre 2022 Kangourou Finale 1
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo ACB con punti M,N e angolo MCN 40°*
 
@@ -66,3 +69,39 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kPr4pxe9JLW6PscULmAS1patprSg1xRs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*ACB angle with M,N points and MCN angle 40°*
+
+![[src_kangourou_2022_kangourou_squadre__prob11.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.4]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (5,0);
+  \coordinate (C) at (4,3);
+  \pgfmathsetmacro{\AC}{sqrt((4-0)^2+(3-0)^2)}
+  \pgfmathsetmacro{\BC}{sqrt((4-5)^2+(3-0)^2)}
+  \coordinate (N) at (\AC,0);
+  \pgfmathsetmacro{\Mx}{5-\BC}
+  \coordinate (M) at (\Mx,0);
+  \draw[thick] (A) -- (B) -- (C) -- cycle;
+  \draw (C) -- (M);
+  \draw (C) -- (N);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above right] at (C) {$C$};
+  \node[below] at (M) {$M$};
+  \node[below] at (N) {$N$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The angle In the ABC triangle in the figure the side AB is longer than either of the other two. M and N are two points on the AB side such that AN is as long as AC and BM is as long as BC. The angle is 40 degrees. How many degrees is the angle ?
+
+**Answer:** 0100
+[[src_kangourou_2022_kangourou_squadre__Q11]]

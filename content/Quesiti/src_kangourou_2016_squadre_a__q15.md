@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2016 Semifinale A — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_a__Q15
 parent: src_kangourou_2016_squadre_a
 competition: Kangourou Coppa Squadre 2016 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato massimo inserendo parentesi e segni in 1..5*
 
@@ -64,3 +67,32 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 11
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum result by entering brackets and marks in 1.5.*
+
+> Symbols I have sequence 1 □ 2 □ 3 □ 4 □ 5. I put a left bracket ( and a right bracket ) in the sequence and I replace two of the symbols □ with the symbol + and two with the symbol  so that the result of the resulting algebraic expression is as high as possible. What is this result?
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+> 7
+>  
+>  
+>  
+> 
+>  
+>  
+> Kangourou of Mathematics 2016 Kangourou Team Cup Semifinal round at Cervia, 7 May 2016
+>  
+>  
+> Questions and solutions
+
+**Answer:** 11
+[[src_kangourou_2016_squadre_a__Q15]]

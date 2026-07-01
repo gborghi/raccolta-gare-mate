@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2002 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2002_r3__Q05
 parent: src_pol_2002_r3
 competition: Olimpiade Matematica Polacca 2002 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sphere, plane, three non-collinear points with tangent lines; pyramid circumsphere tangent*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Z3g6eT52wK20LS2ktHnl8h3UqBRM46o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sfera, piano, tre punti non collineari con linee tangenti; circosfera piramidale tangente*
+
+> Sono indicate una sfera $s$ e un piano $\pi$. Sul piano $\pi$ sono indicati tre punti non collineari $A, B, C$. Attraverso ciascuno di questi punti viene costruita una linea tangente a $s$. I punti di contatto di queste linee con $s$ sono indicati rispettivamente da $K, L, M$. Un punto $P$ si trova su $s$ e soddisfa $$\frac{AK}{AP} = \frac{BL}{BP} = \frac{CM}{CP}.$$ Prove che la circosfera della piramide $ABCP$ è tangente a $s$.
+
+[[src_pol_2002_r3__Q05]]

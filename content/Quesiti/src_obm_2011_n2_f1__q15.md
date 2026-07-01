@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q15
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest subset of {1..20} with no element double of another*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sottoinsieme più grande di {1..20} senza elemento doppio di un altro*
+
+> Qual è la quantità più grande di numeri dell'insieme $\{1,2,3,\ldots,20\}$ che possiamo scegliere in modo che nessuno di loro sia il doppio di un altro?
+> 
+> (A) $10$ \quad (B) $11$ \quad (C) $12$ \quad (D) $13$ \quad (E) $14$
+
+[[src_obm_2011_n2_f1__Q15]]

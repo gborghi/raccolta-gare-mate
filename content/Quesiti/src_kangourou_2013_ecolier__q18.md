@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q18
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tra quanti anni prodotto cifre > somma cifre*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Over the years produced figures > sum of figures< MSK1/>
+
+> Imagine that today is the first day of 2013 (i.e. last New Year): in how many years will we be for the first time in a year that the product of its numbers is greater than the sum of its numbers? A) 87 B) 102	               C) 98 D) 1
+>           	
+> E) 103
+
+**Answer:** B
+[[src_kangourou_2013_ecolier__Q18]]

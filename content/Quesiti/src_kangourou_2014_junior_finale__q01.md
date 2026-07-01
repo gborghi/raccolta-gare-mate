@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale Junior — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior_finale__Q01
 parent: src_kangourou_2014_junior_finale
 competition: Kangourou 2014 finale Junior
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo visite per svuotare i 15 piattini*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gsyU7EVfAmWfdKlyvCj0UIdYJSndEpVE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum visits to empty 15 plates< MSK1/>
+
+> In a cabin in the woods, there are 15 plates in a row: the first one has 1 nut, the second one has 2 nuts, the third one has 3 nuts, and so on until the 15th plate has 15 nuts. Every now and then a squirrel comes into the cage, picks up a few plates and eats nuts, taking the same number from each of the plates chosen. What's the smallest number of visits to the cottage that allows him to eat all the nuts?
+
+**Answer:** 4
+[[src_kangourou_2014_junior_finale__Q01]]

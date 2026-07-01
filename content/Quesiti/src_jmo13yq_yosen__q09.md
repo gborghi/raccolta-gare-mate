@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo13yq_yosen__Q09
 parent: src_jmo13yq_yosen
 competition: Japan Mathematical Olympiad 2003 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum length QR as P moves on BC with angle QPR=60°, Q on CA, R on AB*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza minima QR mentre P si muove su BC con angolo QPR=60°, Q su CA, R su AB*
+
+> Nel triangolo $ABC$ con $BC = 7$, $CA = 8$, $AB = 5$, $P$, $Q$, $R$ siano punti sui segmenti $BC$, $CA$ e $AB$ rispettivamente, nessuno in un vertice, con $\angle QPR = 60^\circ$. Poiché < MSK11/> e < MSK12/> variano in base a queste condizioni, trovare il valore minimo di < MSK13/>. (Per i punti $X, Y$, la notazione $XY$ indica la lunghezza del segmento $XY$.)
+
+[[src_jmo13yq_yosen__Q09]]

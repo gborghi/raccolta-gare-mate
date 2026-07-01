@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2011 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2011__Q03
 parent: src_cn_cmc-complementary-test_2011
 competition: China Mathematical Competition (Complementary Test) 2011
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove existence of degree-n polynomial with two integer/non-equality properties*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove l'esistenza di un polinomio di grado n con due proprietà interi/non uguali*
+
+> (60 marchi) Prova che per qualsiasi numero intero $n \geq 4$ esiste un polinomio di grado $n$, $$f(x) = x^n + a_{n-1}x^{n-1} + \cdots + a_1 x + a_0,$$ con le seguenti proprietà.
+> 
+> (1) $a_1, a_2, \ldots, a_{n-1}$ sono tutti numeri interi positivi;
+> 
+> (2) Per qualsiasi intero positivo $a$ e arbitrario $b$ ($b \geq 2$) interi positivi $r_1, r_2, \ldots, r_b$ che sono diversi tra loro, abbiamo $$f(a) \neq f(r_1)f(r_2)\cdots f(r_b) + 2.$$
+
+[[src_cn_cmc-complementary-test_2011__Q03]]

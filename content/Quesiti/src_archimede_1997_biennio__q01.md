@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Biennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_biennio__Q01
 parent: src_archimede_1997_biennio
 competition: Giochi di Archimede 1997 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero massimo di alberi su due lati di un viale*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TBCBxk41PfhfCNwF0me53U4VCY16S0qo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of trees on two sides of an avenue*
+
+> How many trees are there on either side of a wide 180-meter-long alley, set 15 meters apart?
+>
+> - **(A)** 20
+> - **(B)** 22
+> - **(C)** 24
+> - **(D)** 26
+> - **(E)** 28.
+
+**Answer:** D
+[[src_archimede_1997_biennio__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q23
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sottoinsiemi con somma min+max=13*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sub-sets with sum min+max=13*
+
+> How many subsets of the set {1, 2, 3, ..., 12} are such that the sum of the smallest and largest of their elements is 13? A) 1024         B) 1175            C) 1365          D) 1785                E) 4095
+
+**Answer:** C
+[[src_kangourou_2006_student_marzo__Q23]]

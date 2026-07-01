@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q07
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Marcelo's walk to school; fraction of path covered when he turns back, given timing*
 
@@ -49,3 +52,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Marcelo va a scuola a piedi; frazione del percorso percorso quando si riversa, data la tempistica*
+
+> Marcelo ci vuole esattamente 20 minuti per andare da casa a scuola. Un giorno, mentre camminava, si rese conto di aver dimenticato un fumetto da mostrare a un compagno di classe; tornò a casa e uscì di nuovo, arrivando a scuola 8 minuti dopo l'orario in cui sarebbe normalmente arrivato, cioè 10 minuti in ritardo. Quale frazione del sentiero aveva già camminato quando si è voltato? (A) $\dfrac{2}{5}$ (B) $\dfrac{9}{20}$ (C) $\dfrac{1}{2}$ (D) $\dfrac{2}{3}$ (E) $\dfrac{9}{10}$
+
+**Risposta:** B
+[[src_obm_2002_n3_f1__Q07]]

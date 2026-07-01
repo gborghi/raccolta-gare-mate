@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q08
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero gerbere dalle proporzioni dei fiori*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of germs by flower proportions*
+
+![[src_kangourou_2003_ecolier__prob8.png]]
+
+> The table below shows the proportions between the quantities of different types of flowers that are present in the botanical garden. Stephen asked the gardener and found that there were 35 azaleas, 50 irises, and 85 roses in the garden. What is the number of herbs grown in the garden? A) 95 B) 100 C) 105 D) 110 E) 115 Questions from N. 9 al N. 16 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2003_ecolier__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2010 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2010__Q11
 parent: src_bocconi_semifinale_2010
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2010
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prova del quattro: numero scelto da Nando*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2178
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Test of four: number chosen by Nando*
+
+> Multiplying a positive integer by 4, Nando gets a number that is written with the same digits, but written in reverse order. What's the minimum number Nando wrote?
+
+**Answer:** 2178
+[[src_bocconi_semifinale_2010__Q11]]

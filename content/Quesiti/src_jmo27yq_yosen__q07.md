@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo27yq_yosen__Q07
 parent: src_jmo27yq_yosen
 competition: Japan Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest index where a good permutation may differ from identity*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $59$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pjGraeHG4yF3Hf3bQovok6OpLhKRwh23/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Indice più piccolo in cui una buona permutazione può differire dall'identità*
+
+> Una riorganizzazione $a_1,a_2,\dots,a_{1000}$ di $1,2,\dots,1000$ è chiamata una buona riorganizzazione se soddisfa: per i numeri interi positivi $m,n\le 1000$, se $n$ è un multiple di $m$ allora $a_n$ è un multiple di $a_m$. Trova il numero intero positivo più piccolo $k$ che soddisfi la seguente condizione: esiste una buona riorganizzazione $b_1,b_2,\dots,b_{1000}$ con $b_k\neq k$.
+
+**Risposta:** $59$
+[[src_jmo27yq_yosen__Q07]]

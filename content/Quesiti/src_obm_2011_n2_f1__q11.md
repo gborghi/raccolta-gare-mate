@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q11
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of digits of the number subtracted to turn 13/14 into 14/15*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di cifre del numero sottraito per trasformare 13/14 in 14/15*
+
+> Sottraendo lo stesso numero dal numeratore e dal denominatore della frazione $\dfrac{13}{14}$, otteniamo la frazione $\dfrac{14}{15}$. La somma delle cifre di questo numero è:
+> 
+> (A) $1$ \quad (B) $3$ \quad (C) $5$ \quad (D) $7$ \quad (E) $9$
+
+[[src_obm_2011_n2_f1__Q11]]

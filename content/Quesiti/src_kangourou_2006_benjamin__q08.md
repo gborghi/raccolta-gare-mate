@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q08
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di scrivere 2006 seguendo le frecce*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Writing methods 2006 by following arrows*
+
+![[src_kangourou_2006_benjamin__prob8.png]]
+
+> Look at the figure. How many ways can we write the 2006 number by following the arrows? A) 5           B) 6           C) 7           D) 8           E) 9
+
+**Answer:** D
+[[src_kangourou_2006_benjamin__Q08]]

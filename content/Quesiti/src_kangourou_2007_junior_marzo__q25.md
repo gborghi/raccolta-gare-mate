@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q25
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale uguaglianza vera (triangolo, esagono, cerchio)*
 
@@ -59,3 +62,30 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What is true equality (triangle, hexagon, circle) *
+
+![[src_kangourou_2007_junior_marzo__prob25.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.8]
+  \draw[line width=0.8pt] (0,0) circle (1);
+  \draw[line width=0.8pt]
+    (2,0) -- (-1,1.732) -- (-1,-1.732) -- cycle;
+  \draw[line width=0.8pt]
+    (1,0) -- (-0.5,0.866) -- (-0.5,-0.866) -- cycle;
+  \draw[line width=0.8pt]
+    (1,0) -- (0.5,0.866) -- (-0.5,0.866) -- (-1,0) -- (-0.5,-0.866) -- (0.5,-0.866) -- cycle;
+\end{tikzpicture}
+\end{document}
+```
+
+> Look at the figure. An equilateral triangle of area t and a regular hexagon of area E are inscribed in a circumference, which in turn is inscribed in another equilateral triangle of area T. Which of the following equations is true? A) B) E = (t + T)/2              C) T = t + E D) E) T = E + 3t
+
+**Answer:** A
+[[src_kangourou_2007_junior_marzo__Q25]]

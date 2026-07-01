@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Mumbai — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_mumbai__Q01
 parent: src_rmo_2012_mumbai
 competition: Regional Mathematical Olympiad 2012
@@ -32,6 +33,8 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three quadratics share a common zero; find the polynomials*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre quadratici condividono uno zero comune; trovare i polinomi*
+
+> $\alpha$ sia lo zero comune dei tre polinomi $x^2 + ax + b$, $x^2 + x + ab$ e $ax^2 + x + b$. (In questo modo $\alpha^2 + a\alpha + b = 0$, $\alpha^2 + \alpha + ab = 0$ e $a\alpha^2 + \alpha + b = 0$.) Trova tutti questi polinomi, cioè\ trova tutti i valori di $a$ e $b$.
+
+[[src_rmo_2012_mumbai__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1981 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1981_r3__Q05
 parent: src_pol_1981_r3
 competition: Olimpiade Matematica Polacca 1981 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer pairs (x,y) with x^3 + x^2 y + y^3 = 8(x^2 + xy + y^2 + 1).*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11gXCIkgSxcgxTqCK4QeFSynkdB7_4TGW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di numeri interi (x,y) con x^3 + x^2 y + y^3 = 8(x^2 + xy + y^2 + 1).*
+
+> Determinare tutte le coppie di integri $(x, y)$ che soddisfano l'equazione $$x^3 + x^2 y + y^3 = 8(x^2 + xy + y^2 + 1).$$
+
+[[src_pol_1981_r3__Q05]]

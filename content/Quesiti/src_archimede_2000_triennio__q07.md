@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Triennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_triennio__Q07
 parent: src_archimede_2000_triennio
 competition: Giochi di Archimede 2000 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di x per triangolo di area massima lati 4,5,x*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of x per triangle with a maximum side area of 4,5,x*
+
+> Of all triangles whose sides measure 4, 5, x, that of maximum area will have x equal to
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 4,5
+> - **(D)** √ 20
+> - **(E)** √ 41.
+
+**Answer:** E
+[[src_archimede_2000_triennio__Q07]]

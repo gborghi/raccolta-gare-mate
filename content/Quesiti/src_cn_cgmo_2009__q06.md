@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2009 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2009__Q06
 parent: src_cn_cgmo_2009
 competition: China Girls' Mathematical Olympiad 2009
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle internally tangent to another, chord tangent at C, midpoint M of arc, foot N of perpendicular; prove AC*CB = 2r*MN.*
 
@@ -44,3 +47,15 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo interamente tangente ad un altro, tangente di corda a C, punto medio M di arco, piede N di perpendicolare; prova AC*CB = 2r*MN.*
+
+> Il cerchio $\Gamma_1$, con raggio $r_1$, è tangente internamente al cerchio $\Gamma_2$ a $S$. L'accordo $AB$ di $\Gamma_2$ è tangente a $\Gamma_1$ a $C$. Il $M$ deve essere il punto medio dell'arco $\overarc{AB}$ (non contenente $S$), e il $N$ deve essere il piede della perpendicolare da $M$ alla linea $AB$. Prove che $AC \cdot CB = 2 r_1 \cdot MN$. (Posato da Ye Zhonghao)
+
+![[src_cn_cgmo_2009__Q06.png]]
+
+[[src_cn_cgmo_2009__Q06]]

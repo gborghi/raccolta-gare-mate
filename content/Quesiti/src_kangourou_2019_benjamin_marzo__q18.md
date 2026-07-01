@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q18
 parent: src_kangourou_2019_benjamin_marzo
 competition: Kangourou 2019 Gara di Marzo Benjamin
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezza della torre con 28 mattoncini secondo lo schema*
 
@@ -57,3 +60,25 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1mCVu8mcZWozh4A9IixxiUAmKQbLsElwm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Height of the tower with 28 bricks according to the *
+
+![[src_kangourou_2019_benjamin_marzo__prob18.png]]
+
+> Charles has 28 bricks, all two inches long, one inch wide, and one inch high. He wants to use all of them to build a tower: the figures show you with which clay Carlo intends to carry on his construction. How tall will the tower be when Charles finish it? A) 9
+> 	
+> B) 11
+> 	
+> C) 12
+> 	
+> D) 14
+> 	
+> E) 17 1 m
+>
+
+**Answer:** B
+[[src_kangourou_2019_benjamin_marzo__Q18]]

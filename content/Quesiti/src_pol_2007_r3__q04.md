@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r3__Q04
 parent: src_pol_2007_r3
 competition: Olimpiade Matematica Polacca 2007 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count the number of possible values of the product km for integers with n^2 <= k <= m <= (n+1)^2.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I32ii3yrB1ZaVkUP0-xSzka1GIQRg6kF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare il numero dei valori possibili del prodotto km per i numeri interi con n^2 <= k <= m <= (n+1)^2.*
+
+> Date un numero intero $n \ge 1$, trovare il numero dei valori possibili del prodotto $km$, dove $k$ e $m$ sono numeri interi con $n^2 \le k \le m \le (n+1)^2$.
+
+[[src_pol_2007_r3__Q04]]

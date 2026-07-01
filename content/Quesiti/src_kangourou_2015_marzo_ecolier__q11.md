@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q11
 parent: src_kangourou_2015_marzo_ecolier
 competition: Kangourou 2015 gara 19 marzo Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *cubetti bianchi*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>white cubes< MSK1/>
+
+![[src_kangourou_2015_marzo_ecolier__prob11.png]]
+
+> Sarah had many grey cubes and many white cubes. He built the large cube you see in the figure so that two cubes of the same color never had any faces in common. How many white cubes did you use? A) 10           B) 12            C) 13            D) 14            E) 15
+
+**Answer:** C
+[[src_kangourou_2015_marzo_ecolier__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1980 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1980_r3__Q04
 parent: src_pol_1980_r3
 competition: Olimpiade Matematica Polacca 1980 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Decompose any three-variable polynomial into symmetric and antisymmetric parts*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1buHUldz_MXLjWLDDfrCtJVYfHr83vEi2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Decomponere qualsiasi polinomio a tre variabili in parti simmetriche e antisimetriche*
+
+> Mostra che per ogni polinomio $W$ in tre variabili esistono polinomi $U$ e $V$ tali che: $$W(x, y, z) = U(x, y, z) + V(x, y, z),$$ $$U(x, y, z) = U(y, x, z),$$ $$V(x, y, z) = -V(y, x, z).$$
+
+[[src_pol_1980_r3__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q24
 parent: src_kangourou_2009_ecolier_marzo
 competition: Kangourou 2009 - Ecolier (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di amici (scarpe Piedistrani)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum number of friends (footwear)
+
+> 24. Answer A) To go from number 36 to 45 by buying the minimum number of pairs of shoes you will need to have 5 pairs of shoes that differ by two numbers and 1 that differ by a number from the previous one (e.g. shoes no.36,38,40,42,44,45). So we're going to have 12 shoes that, if you discard left foot 36 and right foot 45, will serve five friends.
+
+**Answer:** A
+[[src_kangourou_2009_ecolier_marzo__Q24]]

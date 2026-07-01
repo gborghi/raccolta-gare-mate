@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q09
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero rappresentato dalla figura 3*
 
@@ -44,3 +47,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number represented by Figure 3*
+
+![[src_kangourou_2001_benjamin__prob9.png]]
+
+> If it is agreed that figure 1 represents number 14 and figure 2 number 123, which number represents figure 3?
+>
+> - **(A)** 1246
+> - **(B)** 2461
+> - **(C)** 2641
+> - **(D)** 1462
+> - **(E)** None of the above.
+
+**Answer:** C
+[[src_kangourou_2001_benjamin__Q09]]

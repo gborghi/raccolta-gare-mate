@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f2__Q03
 parent: src_obm_2007_n1_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a number array each ring sum equals the square of its central cell; evaluate a ratio for 2007.*
 
@@ -51,3 +54,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c1KSYB2Si60KoloY7duhcwVwRnP2K6BN/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un array numerico ogni somma di anello è uguale al quadrato della sua cella centrale; valutare un rapporto per 2007.*
+
+> Secondo il modello osservato, le somme sono uguali al quadrato del pacco centrale (quello il cui numero di pacchi a sinistra è uguale al numero di pacchi a destra). Pertanto, mettendo $A=2007^2$, si valuta $\dfrac{A}{223^2}=\dfrac{2007^2}{223^2}=\left(\dfrac{2007}{223}\right)^2=9^2=81$. Determinare questo valore (la risposta è $81$).
+
+**Risposta:** 81
+[[src_obm_2007_n1_f2__Q03]]

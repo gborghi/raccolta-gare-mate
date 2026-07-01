@@ -1,6 +1,7 @@
 ---
 title: IMO 1982 (23rd International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1982__Q01
 parent: src_imo_1982
 competition: IMO 1982 (23rd International Mathematical Olympiad)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Determine f(1982) for a subadditive integer function*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Definition of the subadditive integer function
+
+> The $f(n)$ function is defined for all positive integers $n$ and takes non-negative integers. In addition, for all $m, n$: $$f(m + n) - f(m) - f(n) = 0 \text{ oppure } 1$$ $f(2) = 0$, $f(3) > 0$, and $f(9999) = 3333$.
+> 
+> Determine $f(1982)$.
+
+[[src_imo_1982__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Biennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_biennio__Q10
 parent: src_archimede_2006_biennio
 competition: Giochi di Archimede 2006 - Gara Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Biglie nel sacchetto con un solo mentitore*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Packs in a bag with only one liar*
+
+> There's a bag of eggs in it. Mary says, "There are three cards in the bag and they're black". Luke says, "In the bag there are two black beads and two red beads". George says, "There's only black balls in the bag". Knowing only one of the three lied, how many balls are in the bag?
+>
+> - **(A)** One of them.
+> - **(B)** two,
+> - **(C)** three,
+> - **(D)** four,
+> - **(E)** It is not possible to estimate the number based on the problem data.
+
+**Answer:** C
+[[src_archimede_2006_biennio__Q10]]

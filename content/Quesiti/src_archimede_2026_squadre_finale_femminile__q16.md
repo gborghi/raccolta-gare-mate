@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q16
 parent: src_archimede_2026_squadre_finale_femminile
 competition: Gara a Squadre Femminile 2026 - IX Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (a,b) positive con a^2+b^2-2a-4b=2026*
 
@@ -57,3 +60,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 761
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Positive pairs (a,b) with a^2+b^2-2a-4b=2026< MSK1/>
+
+> Having warned that his friend is in danger, Sdentato runs into the arena, protects Hiccup from the dragon and saves him. Unfortunately, in the most total chaos, he is imprisoned by the Vikings. It is useless for Hiccup to find all pairs ( , ) a b of positive integers such as 2 2 2 4 2026 a b a b     , a problem that Stoick had failed to solve. (Give the sum of the values a b  of all the pairs found.)
+
+**Answer:** 761
+[[src_archimede_2026_squadre_finale_femminile__Q16]]

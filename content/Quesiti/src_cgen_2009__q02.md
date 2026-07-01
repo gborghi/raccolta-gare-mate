@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2009 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2009__Q02
 parent: src_cgen_2009
 competition: Concours Général des Lycées 2009 — Matematica
@@ -32,6 +33,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four 20-sided dice; score the face value if a face appears at least twice; compute probabilities, expected gain, and reroll strategies.*
 
@@ -56,3 +59,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D68pXdGvkXbm-KXlSsEwpd843491VqiZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro dadi a 20 lati; punteggiare il valore nominale se una faccia appare almeno due volte; calcolare le probabilità, il guadagno atteso e le strategie di rilancio.*
+
+> Problema 2: Probabilità. Gioco con 4 dadi di 20 volti. Ognuno di questi dadi, la cui forma è un icosaedro, ha le facce numerate da 1 a 20. Quando viene lanciato, ogni faccia appare in cima con la stessa probabilità $\frac{1}{20}$. Quando, tra i 4 dadi, un volto appare almeno due volte, guadagno il numero di punti corrispondenti a quella faccia. Così: - con la combinazione $3 - 4 - 12 - 16$ non guadagno nulla; - con la combinazione $2 - 8 - 11 - 11$ guadagno $11$ punti; - con la combinazione $4 - 9 - 9 - 9$ guadagno $9$ punti; - con la combinazione $7 - 7 - 14 - 14$ guadagno $21$ punti; - con la combinazione $2 - 2 - 2 - 2$ guadagno $2$ punti.
+> 
+> 1. Qual e' la probabilita' che non faccia niente? 2. $a$ sia un numero intero tra $1$ e $20$. Determinare, per ogni $k \le 4$, la probabilità di avere esattamente $k$ numeri $a$ tra i dadi lanciati. 3. Per ogni $a$ indichiamo con $X_a$ la variabile casuale che è uguale a $1$ se ci sono almeno due dadi uguali a $a$ tra i quattro del lancio, e $0$ altrimenti. Indicare la legge di $X_a$ ed esprimere il guadagno $G$ in termini di queste variabili. Quanti punti posso sperare in media? 4. Qual è la probabilità che guadagni esattamente $8$ punti?
+> 
+> Supponiamo ora che da ora in poi, dopo aver lanciato i 4 dadi, mi sia permesso di lanciare di nuovo tra $0$ e $4$ dadi per migliorare il mio punteggio. 5. Ho ottenuto $11 - 7 - 2 - 2$. Ho esitato tra gettare tutto indietro, mantenere il $11$, e mantenere i due $2$. - Cosa devo fare? 6. Supponiamo che abbia ottenuto 4 dadi diversi. Quali dadi devo gettare di nuovo?
+
+[[src_cgen_2009__Q02]]

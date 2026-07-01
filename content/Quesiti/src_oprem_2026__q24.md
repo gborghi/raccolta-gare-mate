@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2026 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2026__Q24
 parent: src_oprem_2026
 competition: Olympiades Nationales de Mathématiques (Première) 2026
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exercise 3, Q5: a=5, tile grids with b=6, b=9, and b divisible by 3 with b>=6*
 
@@ -42,3 +45,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LLPTi5ufMEDVFp1I29WzXWLiM0F8_rKH/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esercizio 3, Q5: a=5, griglie di piastrelle con b=6, b=9, e b divisibile per 3 con b>=6*
+
+> L'esercizio 3 - (5) Si suppone qui che $a = 5$. Se necessario, si potrà aiutare con i piccoli triomini $16$ a disposizione per le prove su disegno grosso. (5a) Rappresentano un conveniente rivestimento di una griglia quando $b = 6$. (5b) Rappresentano un conveniente rivestimento di una griglia quando $b = 9$. (5c) Si suppone che $b$ dividibile da $3$, $b \ge 6$. Mostrare che si può tessere una griglia di dimensioni $5 \times b$.
+
+[[src_oprem_2026__Q24]]

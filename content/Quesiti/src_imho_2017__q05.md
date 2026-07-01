@@ -1,6 +1,7 @@
 ---
 title: IMO 2017 (LVIII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2017__Q05
 parent: src_imho_2017
 competition: IMO 2017 (LVIII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soccer players in a row; remove 2N players preserving tallness conditions*
 
@@ -52,3 +55,23 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f-FfFFSte2Xcf0IS6inIxe8_MiXPlKgB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Soccer players in a row; remove 2N players preserving tallness conditions*
+
+> An integer < MSK0/> is given. A collection of $N(N+1)$ soccer players, no two of whom are of the same height, stand in a row. Sir Alex wants to remove $N(N-1)$ players from this row leaving a new row of $2N$ players where the following $N$ conditions hold:
+> 
+> (1) no one stands between the two tallest players,
+> 
+> (2) no one stands between the third and fourth tallest players,
+> 
+> $\vdots$
+> 
+> No one stands between the two shortest players.
+> 
+> Show that this is always possible.
+
+[[src_imho_2017__Q05]]

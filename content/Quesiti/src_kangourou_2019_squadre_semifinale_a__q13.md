@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q13
 parent: src_kangourou_2019_squadre_semifinale_a
 competition: Kangourou Coppa squadre 2019 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume ottaedro dai centri facce parallelepipedo*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0450
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume octahedron from the centers of the parallel-piped faces*
+
+> In a right-angled parallel-piped, the centers of the six faces are the vertices of an octahedron. If the dimensions of the parallelepiped are 15 < MSK0/> 10 < MSK1/> 18, what is the volume of the octahedron?
+
+**Answer:** 0450
+[[src_kangourou_2019_squadre_semifinale_a__Q13]]

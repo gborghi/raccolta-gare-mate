@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2025 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2025__Q06
 parent: src_oprem_2025
 competition: Olympiades Nationales de Mathématiques (Première) 2025
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cut a quarter-disk into two equal areas along the axis of symmetry: where to cut*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tagliare un quarto disco in due aree uguali lungo l'asse di simmetria: dove tagliare*
+
+> **Esercizio 1 - Per tutti i candidati**
+> 
+> **6. E per fare un dolce.** Si consideri una porzione di tart rappresentata da un settore angolare con forma di un quarto di disco (apertura angolare $\frac{\pi}{2}$). Uno desidera dividerla in due parti uguali. Ma in un modo originale: tagliando non lungo il bisettore angolare, ma lungo l'asse di simmetria, in modo che l'area del pezzo destro fosse uguale all'area del pezzo sinistro. Dove dovrebbe essere fatto il taglio? (Si introdurranno tutte le variabili necessarie per risolvere il problema.)
+
+![[src_oprem_2025__Q06.png]]
+
+[[src_oprem_2025__Q06]]

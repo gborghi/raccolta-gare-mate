@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2011 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo9mq_honsen__Q03
 parent: src_jjmo9mq_honsen
 competition: Japan Junior Mathematical Olympiad 2011 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle, orthocenter, two circumcircles meet altitude lines outside; prove AE = AF*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQFXoo9rN8C_YkZobTc_GDXqyqB1KsjQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto, centro ortografico, due circoncircoli che incontrano le linee di altitudine all'esterno; dimostrare AE = AF*
+
+> Che $H$ sia l'ortocentro di un triangolo acuto $ABC$, e che $D$ sia l'intersezione delle linee $AH$ e $BC$. Il punto $E$ deve essere il punto (diversi da $A$ e $B$) in cui il circoncircolo del triangolo $ABD$ incontra la linea $CH$, dove $E$ si trova fuori dal triangolo $ABC$. Il punto $F$ deve essere il punto (diversi da $A$ e $C$) in cui il circoncircolo del triangolo $ACD$ incontra la linea $BH$, dove $F$ si trova fuori dal triangolo $ABC$. Provare che < MSK19/>.
+
+[[src_jjmo9mq_honsen__Q03]]

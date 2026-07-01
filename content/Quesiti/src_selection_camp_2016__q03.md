@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2016 — Selection Camp — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2016__Q03
 parent: src_selection_camp_2016
 competition: Japan IMO Selection Camp 2016 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Twin polynomials: existence for degree n+1, nonexistence for degree n*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomi gemelli: esistenza per il grado n+1, non esistenza per il grado n*
+
+> $n$ sia un numero intero con $n \ge 2$. Due polinomi a coefficiente reale $P(x)$ e $Q(x)$ sono chiamati **look-alike** se per ogni numero intero $i$ con $1 \le i \le n$, la sequenza $P(2015i),\, P(2015i-1),\, \ldots,\, P(2015i - 2014)$ è un riordinamento di $Q(2015i),\, Q(2015i-1),\, \ldots,\, Q(2015i-2014)$.
+> 
+> (a) Prove che esistono due polinomi distinti di grado $n+1$ che sono simili. b) dimostrare che non esistono due polinomi distinti di grado $n$ che siano simili.
+
+[[src_selection_camp_2016__Q03]]

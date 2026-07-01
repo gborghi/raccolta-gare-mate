@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2003 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2003_r3__Q06
 parent: src_pol_2003_r3
 competition: Olimpiade Matematica Polacca 2003 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For even n, show there exists a permutation of {1,...,n} where each x_{i+1} is one of four expressions in x_i.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YJsU0Az6dGhVVIiXqks47NARYBNId3kT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per n pari, mostrare che esiste una permutazione di {1,...,n} dove ogni x_{i+1} è una delle quattro espressioni in x_i.*
+
+> Lasciate che $n$ sia un numero intero positivo pari. Indicare che esiste una permutazione $(x_1, x_2, \ldots, x_n)$ del set $\{1, 2, \ldots, n\}$, tale che per ogni $i \in \{1, 2, \ldots, n\}$, $$x_{i+1} \text{ is one of the numbers } 2x_i,\ 2x_i - 1,\ 2x_i - n,\ 2x_i - n - 1,$$ dove $x_{n+1} = x_1$.
+
+[[src_pol_2003_r3__Q06]]

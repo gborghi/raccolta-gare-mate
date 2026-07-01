@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f2__Q06
 parent: src_obm_2002_n1_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 2
@@ -39,6 +40,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill 8×8 grid with distinct positive integers where adjacent cells differ by 1; find diagonal sum*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13KyJPv4dE-PcRKKVGz9NFA82iD0E6DH_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fill 8×8 grid con diversi numeri interi positivi in cui le celle adiacenti differiscono di 1; trova la somma diagonale*
+
+> Nelle cellule di una tabella $8 \times 8$ vengono scritti diversi interi positivi in modo tale che la differenza tra gli interi scritti nelle cellule vicine (cellule che condividono un lato) è sempre 1. In una cella è scritto il numero 17 e in un'altra è scritto il numero 3. Compila la tabella $8 \times 8$ seguendo queste regole e calcola la somma dei numeri scritti nelle due diagonali principali della tabella.
+
+[[src_obm_2002_n1_f2__Q06]]

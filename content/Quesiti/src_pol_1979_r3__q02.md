@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1979 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1979_r3__Q02
 parent: src_pol_1979_r3
 competition: Olimpiade Matematica Polacca 1979 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four tetrahedron face lines concurrent iff products of opposite sides equal*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mFSc82UPOl-hsqJK3SMN5XvfV4dcKK2I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Quattro linee di faccia tetraedro concomitanti se i prodotti di lati opposti sono uguali < MSK1/>
+
+> Prove che le quattro linee che uniscono i vertici di un tetraedro con gli incentri delle facce opposte hanno un punto comune se e solo se i tre prodotti delle lunghezze dei bordi opposti sono uguali.
+
+[[src_pol_1979_r3__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q03
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Diametro x cerchio inscritto in triangolo isoscele*
 
@@ -57,3 +60,27 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0120
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Diameter x circle inscribed in triangle isosceles*
+
+![[src_squadre_2018_femminile__prob3.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.018]
+  \draw (-200,0) -- (200,0) -- (0,210) -- cycle;
+  \draw[dashed] (0,0) -- (0,210);
+  \draw (60,60) circle (60);
+  \draw (-60,60) circle (60);
+\end{tikzpicture}
+\end{document}
+```
+
+> Not receiving any answer, Liela Turinga - so called the girl with only one eye - analyzing Fry, proposes to him the job of farmhand. Fry's not here and he's trying to escape from the cryogenics center. When you get to the back of the building, you find a locked door. Someone on the side wall has drawn an isosceles triangle of base 400 mm and side 290 mm and two equal circles tangent to each other and tangent, each at the base and one side of the triangle. On one of the circles is shown a diameter with an x above it. You want to see that the code is exactly the x in mm? With a memory effort, Fry remembers the geometry lessons taken at school and, though mistaken, after a while, manages to decipher the correct code. What is it?
+
+**Answer:** 0120
+[[src_squadre_2018_femminile__Q03]]

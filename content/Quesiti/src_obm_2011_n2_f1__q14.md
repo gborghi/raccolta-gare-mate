@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q14
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of n given repeated tear-one-into-n yields 2011 pieces*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta di n data ripetuta lacrima-one-in-n rendimenti 2011 pezzi*
+
+> Safira strappò un foglio di carta in pezzi < MSK0/> e poi prese uno di questi pezzi e lo strappò di nuovo in pezzi < MSK1/>. Ha continuato questo processo, cioè a ogni passo ha preso uno dei pezzi e lo ha strappato in pezzi $n$. Sapendo che la quantità finale di fogli di carta che ha ottenuto è $2011$, in quanti pezzi Safira ha strappato il foglio?
+> 
+> (A) $15$ \quad (B) $26$ \quad (C) $28$ \quad (D) $33$ \quad (E) $36$
+
+[[src_obm_2011_n2_f1__Q14]]

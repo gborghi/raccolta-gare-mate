@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Triennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_triennio__Q16
 parent: src_archimede_2017_triennio
 competition: Giochi di Archimede 2017 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadrati in griglia 7x7 contenenti casella centrale*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WbKYlCGmnvn3EnNy8PHpDbjgy_2zTYne/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*7x7 grid squares containing the central box*
+
+![[src_archimede_2017_triennio__prob16.png]]
+
+> Taking a grid 7×7, consider the possible squares (from 1×1 to 7 × 7) obtained from the union of one or more grid boxes. How many of these squares contain the central box of the grid?
+>
+> - **(A)** 50
+> - **(B)** 30
+> - **(C)** 44
+> - **(D)** 42
+> - **(E)** 28
+
+**Answer:** C
+[[src_archimede_2017_triennio__Q16]]

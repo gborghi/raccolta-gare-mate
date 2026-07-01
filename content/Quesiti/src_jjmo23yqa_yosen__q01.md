@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo23yqa_yosen__Q01
 parent: src_jjmo23yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest GCD of two positive integers summing to 2025*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 675
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*GCD più piccolo di due numeri interi positivi sommati fino al 2025*
+
+> Trova il valore più grande possibile di $\gcd(m, n)$, dove $m$ e $n$ sono interi positivi che soddisfano $m + n = 2025$.
+
+**Risposta:** 675
+[[src_jjmo23yqa_yosen__Q01]]

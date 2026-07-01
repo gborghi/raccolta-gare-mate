@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f2__Q07
 parent: src_obm_2012_n2_f2
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of triangle AEC given rectangle ABCD and external equilateral triangle CED*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eh3-XUlx8DQIfyrafQYPn3K5T8QkbX4r/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area del triangolo AEC dato rettangolo ABCD e triangolo equilaterale esterno CED*
+
+> Il $ABCD$ deve essere un rettangolo tale che $AD = 6$ e $DC = 8$. Costruire un triangolo equilaterale $CED$ tale che $C$, $A$ e $B$ si trovino nello stesso semiplano determinato dalla linea $CD$. Determinare l'area del triangolo $AEC$.
+
+[[src_obm_2012_n2_f2__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1998-99 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1998-99_round2__Q01
 parent: src_bmo_1998-99_round2
 competition: British Mathematical Olympiad 1998-99 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Partition first n naturals into 2 or 3 equal-sum subsets*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AjZMoZUnkxlPd_JNOwNCqxZIvIWIX2xp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Partire prima n naturali in 2 o 3 sottoinsiemi di somma uguale*
+
+> Per ogni numero intero positivo $n$, $S_n$ indichi l'insieme composto dai primi $n$ numeri naturali, cioè $$S_n = \{1, 2, 3, 4, \ldots, n-1, n\}.$$ (i) Per quali valori di $n$ è possibile esprimere $S_n$ come l'unione di due sottinsiemi disgiunti non vuoti in modo che gli elementi dei due sottinsiemi abbiano somme uguali? (ii) Per quali valori di $n$ è possibile esprimere $S_n$ come unione di tre sottoinsiemi non vuoti dissociati in modo che gli elementi dei tre sottoinsiemi abbiano somme uguali?
+
+[[src_bmo_1998-99_round2__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2004 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo14mq_honsen__Q03
 parent: src_jmo14mq_honsen
 competition: Japan Mathematical Olympiad 2004 — Honsen (Final)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perpendicular planes; bisector meets circle, prove angle bisected*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aESRi7OnarSwt4c_TIM_ZNlZDgdoPbhj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Piani perpendicolari; bisettore incontra cerchio, prova angolo bisettato*
+
+> nello spazio, ci sono due piani reciprocamente perpendicolari $\pi_1$ e $\pi_2$. Se $A$ e $B$ sono due punti distinti sulla linea di intersezione di $\pi_1$ e $\pi_2$, e se $C$ è un punto che si trova su $\pi_2$ ma non su $\pi_1$. Il $P$ deve essere l'intersezione del bisettore di $\angle BCA$ con $AB$, e $S$ deve essere il cerchio di $\pi_1$ con $AB$ come diametro. Indicare che, per qualsiasi piano $\pi_3$ contenente $CP$, se $D$ e $E$ indicano i punti di intersezione di $\pi_3$ con $S$, allora $CP$ è il bisettore di $\angle DCE$.
+
+[[src_jmo14mq_honsen__Q03]]

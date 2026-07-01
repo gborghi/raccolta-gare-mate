@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q02
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti cubetti mancano per costruire il cubo grande*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many cubes are needed to build the large cube*
+
+> Nicholas is learning to drive: for now he can bend to the right, but he is not yet able to bend to the left. Now, with his car, he's at point A on the map and he's going to get to point B in the direction and direction the arrow points. What is the minimum number of curves (all on the right) that will allow them to get to B? A) 3 B) 4 C) 6 D) 8 E) 10
+
+[[src_kangourou_2013_benjamin__Q02]]

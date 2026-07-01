@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f1__Q08
 parent: src_obm_2000_n2_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Time for Alberto to first overtake Beatriz on circular track*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+E' ora che Alberto raggiunga per la prima volta Beatriz in pista circolare.
+
+> Alberto, Beatriz e Carlos corrono su una pista circolare. Tutti iniziano nello stesso momento e luogo, ognuno a velocità costante. Alberto e Beatriz corrono nella direzione opposta a Carlos. Correndo nella direzione opposta, Carlos incontra prima Alberto, e poi $90$ secondi dopo la partenza Carlos incontra Beatriz esattamente $15$ secondi dopo. Quanti secondi ci vogliono per superare Beatriz per la prima volta?
+> 
+> A) $105$ \quad B) $630$ \quad C) $1{,}050$ \quad D) $1{,}575$ \quad E) non determinato
+
+**Risposta:** B
+[[src_obm_2000_n2_f1__Q08]]

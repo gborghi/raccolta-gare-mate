@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Junior — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q02
 parent: src_kangourou_2019_junior_semifinale
 competition: Kangourou 2019 Semifinale Junior
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tragitto del vertice A in due rotazioni del rettangolo*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Trajectory of the vertex A in two rotations of the rectangle*
+
+> (Points 3) The vertices of a rectangle, named in a clockwise direction, are A, B, C, D. The AB side is 15 and the BC side is 20. The rectangle rotates, always clockwise and always 90 degrees, first around the C vertex, then around the D vertex (in the new position in which it came to be). What is the nearest integer to the length of the path traveled from summit A in two rotations? A) 78 B) 79 C) 70 D) 71 E) A number different from the previous one
+
+**Answer:** D
+[[src_kangourou_2019_junior_semifinale__Q02]]

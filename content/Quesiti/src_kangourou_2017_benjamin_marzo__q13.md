@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (gara marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q13
 parent: src_kangourou_2017_benjamin_marzo
 competition: Kangourou 2017 Benjamin (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Larghezza poltrona dati divani da 2 e 3 posti*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lightness of 2 and 3 seated data couch*
+
+![[src_kangourou_2017_benjamin_marzo__prob13.png]]
+
+> The Modern Mobili store sells 2 and 3 seat chairs and sofas made of the same modular elements, as shown in the figure. Including the arms, the width of a two-seater sofa is 160 cm, that of a three-seater sofa is 220 cm. Including the arms, how many inches wide is the armchair? A) 60
+> 	
+> B) 80
+> 	
+> C) 90
+> 	
+> D) 100
+> 	
+> E) 120
+
+**Answer:** D
+[[src_kangourou_2017_benjamin_marzo__Q13]]

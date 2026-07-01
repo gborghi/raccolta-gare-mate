@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Écolier (gara marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q09
 parent: src_kangourou_2017_ecolier_marzo
 competition: Kangourou 2017 Écolier (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Collana equivalente a quella con sei perle*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Column equivalent to that of six pearls*
+
+![[src_kangourou_2017_ecolier_marzo__prob9.png]]
+
+> The figure on the right shows a necklace with six pearls. Which of the necklaces below represents the same necklace? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** A
+[[src_kangourou_2017_ecolier_marzo__Q09]]

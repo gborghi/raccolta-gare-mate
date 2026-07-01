@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f2__Q05
 parent: src_obm_2005_n3_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum questions to determine polynomial with positive integer coefficients*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Questioni minime per determinare polinomi con coefficienti interi positivi*
+
+> Si desidera determinare un polinomio $p(x)$ con coefficienti interi positivi facendo domande della forma "Qual è il valore numerico di $p(k)$?", dove $k$ è un intero di vostra scelta. Qual è il numero minimo di domande sufficiente a garantire che il polinomio sia determinato?
+
+[[src_obm_2005_n3_f2__Q05]]

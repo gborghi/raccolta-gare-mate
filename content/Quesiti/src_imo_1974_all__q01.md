@@ -1,6 +1,7 @@
 ---
 title: IMO 1974 (Sixteenth International Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1974_all__Q01
 parent: src_imo_1974_all
 competition: IMO 1974 (Sixteenth International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *who received q on first round*
 
@@ -38,3 +41,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>who received q on first round< MSK1/>
+
+> Three players $A$, $B$ and $C$ play the following game: on each of the three cards a whole is written. These three numbers $p, q, r$ correspond to $0 < p < q < r$. The three cards are mixed and one is dealt to each player. Each player then receives the number of tokens indicated by the card in his hand. The cards are then mixed again; the chips remain with the players.
+> 
+> This process (mixing, distributing, giving tokens) takes place for at least two shifts. After the last round, $A$ has a total of 20 tokens, $B$ has 10 and $C$ has 9. In the last round $B$ received $r$ tokens. Who received $q$ tokens in the first round?
+
+[[src_imo_1974_all__Q01]]

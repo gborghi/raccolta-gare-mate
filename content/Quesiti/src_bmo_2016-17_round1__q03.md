@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2016-17 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2016-17_round1__Q03
 parent: src_bmo_2016-17_round1
 competition: British Mathematical Olympiad 2016-17 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pairs of positive integers where both m²-n and n²-m are perfect squares*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I coppie di integri positivi in cui m2-n e n2-m sono quadrati perfetti*
+
+> Determinare tutte le coppie $(m, n)$ di integri positivi in modo tale che $m^2 - n$ e $n^2 - m$ siano entrambi quadrati perfetti.
+
+[[src_bmo_2016-17_round1__Q03]]

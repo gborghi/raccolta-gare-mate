@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2012 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2012__Q06
 parent: src_cn_cgmo_2012
 competition: China Girls' Mathematical Olympiad 2012
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max cities n with two airlines forcing use of both*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximi città n con due compagnie aeree che forzano l'utilizzo di entrambe*
+
+> Ci sono città ($n \ge 2$) e due compagnie aeree in un paese. Tra due città, esiste esattamente un volo a due vie che li collega e che è gestito da una delle due compagnie. Una matematica femminile pianifica un percorso di viaggio, in modo che inizia e finisca nella stessa città, attraversa almeno altre due città e ogni città del percorso viene visitata una volta. Scopre che, ovunque inizi e qualunque sia la rotta che sceglie, deve prendere voli di entrambe le compagnie. Trova il valore massimo di $n$. (Posizionato da Liang Yingde)
+
+**Risposta:** 4
+[[src_cn_cgmo_2012__Q06]]

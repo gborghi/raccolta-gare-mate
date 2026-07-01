@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f1__Q09
 parent: src_obm_2001_n1_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum minutes for a locksmith to form a 30-link chain from ten 3-link pieces*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di minuti per un serratore per formare una catena a 30 collegamenti da dieci pezzi a 3 collegamenti*
+
+> Un serratore ha $10$ pezzi di $3$ collegamenti di catena ciascuno, mostrati di seguito. Vuole fare una singola catena di collegamenti MSK2/. Per aprire e poi saldare un collegamento, il serratore richiede < MSK3/> minuti. Quanti minuti almeno ci vorrà per fare questa catena?
+> 
+> (A) $30$ \quad (B) $35$ \quad (C) $40$ \quad (D) $45$ \quad (E) $50$
+
+![[src_obm_2001_n1_f1__Q09.png]]
+
+**Risposta:** B
+[[src_obm_2001_n1_f1__Q09]]

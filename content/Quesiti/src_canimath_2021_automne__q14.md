@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2021 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_automne__Q14
 parent: src_canimath_2021_automne
 competition: Coupe Animath Automne 2021
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Non-empty balanced subsets of {1,...,n} are odd in number*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I sottoinsiemi bilanciati non vuoti di {1,...,n} sono pari in numero*
+
+> $n$ sia un numero intero rigorosamente positivo. $T$ sia un sottogruppo non vuoto di $\{1, \ldots, n\}$. Un numero $m$ (non necessariamente un numero intero) è chiamato *mediano* di $T$ se ci sono almeno quegli elementi di $T$ inferiori o uguali a $m$ come ci sono elementi di $T$ superiori o uguali a $m$. L'insieme < MSK9/> è chiamato < MSK15/>equilibrato < MSK16/> se la media degli elementi di < MSK10/> è uguale a una media di < MSK11/>. Indicare che il numero dei sottogruppi bilanciati non vuoti di $\{1, \ldots, n\}$ è pari.
+
+[[src_canimath_2021_automne__Q14]]

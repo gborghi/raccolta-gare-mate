@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f1__Q25
 parent: src_obm_2011_n3_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length BE for E the intersection of the diagonals of a cyclic quadrilateral*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza BE per E l'intersezione dei diagonali di un quadrilaterale ciclico*
+
+> Il $ABCD$ deve essere un quadrilaterale inciso (le cui vertici appartengono a una circonferenza) con $AB = 4$, $BC = 8\sqrt{3}$, $AC = 4\sqrt{13}$ e $AD = 2\sqrt{13}$. Essendo $E$ l'intersezione delle diagonali $AC$ e $BD$, la lunghezza del segmento $BE$ è:
+> 
+> (A) $\dfrac{12\sqrt{3}}{7}$ (B) $\dfrac{13\sqrt{3}}{7}$ (C) $2\sqrt{3}$ (D) $\dfrac{15\sqrt{3}}{7}$ (E) $\dfrac{16\sqrt{3}}{7}$
+
+[[src_obm_2011_n3_f1__Q25]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q17
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di 10 cifre distinte divisibili per 11111*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3456
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers of 10 distinct digits divisible by 11111*
+
+> Mordalia has become Liela's pet. It was saved on a near-extinction planet when it was discovered to devour anything by turning it into dark matter, used as fuel for spacecraft. Fry discovered that when Mordalia feeds on math books, the fuel lasts much longer. Now we need to refuel for the next trip. Fry approaches Mordalia and hands him a book from which he reads: How many are the ten-digit numbers all divisible by 11111? For all the answer, the little one devours the book producing a large amount of dark matter. What answer would Fry read to the problem if Mordalia hadn't swallowed the book?
+
+**Answer:** 3456
+[[src_squadre_2018_femminile__Q17]]

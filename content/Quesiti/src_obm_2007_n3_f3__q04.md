@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f3__Q04
 parent: src_obm_2007_n3_f3
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 3
@@ -40,6 +41,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Game on a 2007x2007 board: Arnaldo removes 2x2 blocks, Bernaldo removes single squares; can Bernaldo always win?*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hV2QFPABOEgEquJp5pRBUUMfLKtQpl8d/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Gioco su una tavola 2007x2007: Arnaldo rimuove 2x2 blocchi, Bernaldo rimuove singoli quadrati; Bernaldo può sempre vincere?
+
+> $2007^2$ piccoli quadrati uguali sono disposti formando una tavola $2007 \times 2007$. Arnaldo e Bernaldo giocano il seguente gioco: ciascuna delle mosse di Arnaldo consiste nel rimuovere 4 piccoli quadrati che formano un quadrato $2 \times 2$. Ogni mossa di Bernaldo consiste nel rimuovere solo un piccolo quadrato. I giocatori giocano alternativamente, con Arnaldo come primo a giocare. Quando Arnaldo non riesce più a fare la sua mossa, Bernaldo prende per sé tutti i piccoli quadrati rimasti sulla lavagna alla fine. Colui che ha più piccoli quadrati vince. E' possibile che Bernaldo vinca, non importa come giochi?
+
+[[src_obm_2007_n3_f3__Q04]]

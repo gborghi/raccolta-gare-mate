@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2018 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo16mq_honsen__Q01
 parent: src_jjmo16mq_honsen
 competition: Japan Junior Mathematical Olympiad 2018 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Game on regular k-gon with integers; find all k where B always wins*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18lLVvuAM_rCLtJyXJxWe8K1xxh4PWMHS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioca su k-gon regolare con numeri interi; trova tutti i k dove B vince sempre*
+
+> $k$ sia un numero intero con $k \ge 3$. Usando un normale $k$-gon, i giocatori $A$ e $B$ giocano il seguente gioco. Si ripete quanto segue:
+> 
+> $A$ scrive un intero da $1$ a $100$ su una faccia bianca del normale $k$-gon (una non ancora utilizzata); $B$ scrive, sulla stessa faccia, se quel intero è un quadrato perfetto o meno.
+> 
+> Il punteggio è basato sulle facce del normale $k$-gon: se esistono tre vertici del $k$-gon che formano un triangolo di uguale occhio in modo che tutte e tre le facce corrispondenti abbiano lo stesso valore scritto da $B$, allora $B$ vince; altrimenti $A$ vince. Trova tutti i valori di $k$ in modo che, indipendentemente dalle scelte di $A$, $B$ possa sempre garantire una vittoria.
+
+[[src_jjmo16mq_honsen__Q01]]

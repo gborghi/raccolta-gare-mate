@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2012 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2012__Q01
 parent: src_cn_ctst_2012
 competition: China National Team Selection Test 2012
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Orthocenter, circumcenter, equilateral triangle collinearity*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Orthocenter, circumcenter, collinearità triangolare equilaterale*
+
+> Che $H$ sia l'ortocentro di un $\triangle ABC$ angolato acuto con $\angle A = 60^\circ$. I punti $M$ e $N$ siano rispettivamente sui lati $AB$ e $AC$, in modo che $\angle HMB = 60^\circ = \angle HNC$. Il $O$ deve essere il centro circundante di $\triangle HMN$. I punti $D$ e $A$ devono essere sullo stesso lato della riga $BC$, in modo che $\triangle DBH$ sia equilaterale (vedere figura 1). 5.1). Provare che i punti $H$, $O$ e $D$ sono collineari.
+
+![[src_cn_ctst_b11_w142__Q01.png]]
+
+[[src_cn_ctst_2012__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_a__Q10
 parent: src_prmo_2015_a
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -35,6 +36,8 @@ tags:
   - regione/a
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Greatest perimeter of integer right triangle with one side 12*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 84
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più grande perimetro del triangolo rettangolo intero con un lato 12*
+
+> Qual è il più grande perimetro possibile di un triangolo rettangolo con lunghezze laterali interi se uno dei lati ha lunghezza 12?
+
+**Risposta:** 84
+[[src_prmo_2015_a__Q10]]

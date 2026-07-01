@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1978-79 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1978-79_round2__Q02
 parent: src_bmo_1978-79_round2
 competition: British Mathematical Olympiad 1978-79 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two equilateral triangles with common vertex; prove two triangles similar*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U8W5jKJlcOf3kTSHVPTJynkD6IKK2Jg5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due triangoli equilaterali con vertice comune; dimostrare due triangoli simili*
+
+> Due triangoli equilaterali hanno un vertice comune $C$. Attorno a ciascun triangolo in direzione contraria al senso orario, i vertici sono scritti $C$, $A$, $B$ e $C$, $A'$, $B'$. $O$ è il centro del triangolo $CAB$ e né $A'$ né $B'$ coincidono con $O$. $M$ è il punto medio di $AB'$. Prove che i triangoli $CB'O$ e $CA'M$ sono simili.
+
+[[src_bmo_1978-79_round2__Q02]]

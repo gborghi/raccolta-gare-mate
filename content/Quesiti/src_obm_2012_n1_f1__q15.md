@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f1__Q15
 parent: src_obm_2012_n1_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min sum of attractive numbers (1,3,13,31) to express 2012*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Min somma di numeri attraenti (1,3,13,31) per esprimere 2012*
+
+> Per Mariazinha, ci sono esattamente quattro numeri che lei ritiene *attraenti*: 1, 3, 13 e 31. Qualsiasi altro numero è *attraente* solo se può essere espresso come somma contenente almeno uno di ciascuno dei quattro numeri attraenti (la ripetizione di ciascuno è consentita). Ad esempio, $1+3+13+31=48$, quindi 48 è attraente. Almeno quanti numeri attraenti devono essere sommati per dimostrare che il 2012 è attraente?
+> 
+> (A) 68 \quad (B) 70 \quad (C) 72 \quad (D) 100 \quad (E) 2012
+
+**Risposta:** B
+[[src_obm_2012_n1_f1__Q15]]

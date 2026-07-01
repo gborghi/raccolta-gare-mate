@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Second Round) 2021 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-second-round_2021__Q02
 parent: src_cn_cmc-second-round_2021
 competition: China Mathematical Competition (Second Round) 2021
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcircle geometry: prove angle BCQ equals angle BAC*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Geometria del cerchio: prova angolo BCQ uguale angolo BAC*
+
+> (Test paper A, problema 2) Come mostrato nella figura, in $\triangle ABC$, $M$ è il punto medio del lato $AC$. $D$, $E$ sono due punti sulla tangente del circoncircolo di $\triangle ABC$ al punto $A$, che soddisfano $HD \parallel AB$ e $A$ è il punto medio del segmento $DE$. Il cerchio che attraversa i punti $A$, $B$, $E$ incrocia il lato $AC$ al punto $P$. Il cerchio che attraversa i punti $A$, $D$, $P$ interseca l'estensione di $DM$ al punto $Q$. Provare che < MSK20/>.
+
+![[src_cn_cmc-second-round_2021__Q02.png]]
+
+[[src_cn_cmc-second-round_2021__Q02]]

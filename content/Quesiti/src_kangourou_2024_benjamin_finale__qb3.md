@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Benjamin 2024 — Quesito B3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin_finale__QB3
 parent: src_kangourou_2024_benjamin_finale
 competition: Kangourou Finale Benjamin 2024
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazioni di 8 oggetti con adiacenti di colore diverso*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yfwrv2r59EZD9BNqD2rssm5Ubv6rpykv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Colorings of 8 objects with different coloured adjoints< MSK1/>
+
+> Eight objects are aligned. They have to be painted four in red, three in blue, and one in yellow, but so that adjacent objects receive different colors. How many different colours are eligible?
+
+[[src_kangourou_2024_benjamin_finale__QB3]]

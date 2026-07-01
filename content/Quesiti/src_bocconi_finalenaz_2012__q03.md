@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2012 — Quesito
   3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2012__Q03
 parent: src_bocconi_finalenaz_2012
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2012
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Secondi tra primo e ultimo colpo dell'orologio alle 11*
 
@@ -42,3 +45,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Second between first and last clock strike at 11 *
+
+> Carla has noted that six seconds pass from the first to the last stroke when the clock in her country's church strikes at 6 a.m. How many seconds pass (from the first to the last stroke) when the same clock, five hours later, strikes 11?
+
+**Answer:** 12
+[[src_bocconi_finalenaz_2012__Q03]]

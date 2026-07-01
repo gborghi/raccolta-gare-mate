@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2012 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2012__Q11
 parent: src_bocconi_semifinale_2012
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2012
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultimo numero che Milena riesce a scrivere con tratti, fermandosi al 312esimo tratto.*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 56
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The last issue Milena manages to write with strokes, stopping at the 312th stroke.
+
+> They 're not the pens they used to be .
+> 
+> Look at the figure (read it vertically). To write the whole numbers (the first thirteen are shown in the figure), Milena uses three symbols that contain 1 line or 2 lines or 3 lines. After writing the 312th paragraph, however, he realizes that his pen is drained and he must stop.
+> 
+> What is the last number (which you will indicate with ordinary decimal digits) that Milena managed to write completely?
+
+![[src_bocconi_semifinale_2012__Q11.png]]
+
+**Answer:** 56
+[[src_bocconi_semifinale_2012__Q11]]

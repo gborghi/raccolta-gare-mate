@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2024-25 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2024-25_round2__Q01
 parent: src_bmo_2024-25_round2
 competition: British Mathematical Olympiad 2024-25 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Express 1/n as finite sum of distinct triangular reciprocals*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19GTqbDo2xCiXZF4NdAfLAruAN7LAIYD8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Espresso 1/n come somma finita di reciprocità triangolari distinte*
+
+> Prova che se $n$ è un intero positivo, allora $\frac{1}{n}$ può essere scritto come una somma finita di reciprocità di diversi numeri triangolari.
+> 
+> [Un *numero triangolare* è una delle forme $\frac{k(k+1)}{2}$ per un intero positivo $k$.]
+
+[[src_bmo_2024-25_round2__Q01]]

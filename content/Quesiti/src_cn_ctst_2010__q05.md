@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2010 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2010__Q05
 parent: src_cn_ctst_2010
 competition: China National Team Selection Test 2010
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence defined by least non-coprime term covers all integers except 1*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La sequenza definita con il minimo termine non coprime copre tutti gli integri tranne 1*
+
+> Per $n \ge 2$, definire $a_n$ come il numero intero meno positivo non coprimo a $a_{n-1}$ e non uguale a $a_1, a_2, \ldots, a_{n-1}$. Provare che ogni numero intero tranne $1$ appare nella sequenza $\{a_n\}$.
+
+[[src_cn_ctst_2010__Q05]]

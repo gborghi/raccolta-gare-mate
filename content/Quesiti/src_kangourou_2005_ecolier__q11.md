@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Ecolier (marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_ecolier__Q11
 parent: src_kangourou_2005_ecolier
 competition: Kangourou 2005 - Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo segmenti per suddividere rettangolo in quadrati*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum segments to divide rectangle into squares*
+
+> On a piece of paper, you draw a rectangle 17 cm x 13 cm that I want to divide into squares of 1 cm side. I have a 20 cm long reel. What is the minimum number of segments I need to trace to reach my goal? A) 24 B) 28 C) 30 D) 32 E) 220
+
+**Answer:** B
+[[src_kangourou_2005_ecolier__Q11]]

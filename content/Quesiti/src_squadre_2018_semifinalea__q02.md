@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Semifinale A — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_semifinalea__Q02
 parent: src_squadre_2018_semifinalea
 competition: Gara a Squadre 2018 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorsi distinti dal centro al bordo di scacchiera 13x13*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2912
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Separate routes from the centre to the chessboard edge 13x13*
+
+> He's running away from Matryx Square. He's got to run away on the skateboard from Biffe. Now it's in the center of Hill Valley Square, which is a square chessboard of 13 boxes per side, and it has to reach any box on the edge as quickly as possible, that is, at every step it has to move onto a box that is on a larger square crown (centered at the starting point). Also, not having its own flying skateboard, it can only move between boxes with at least one vertex in common. How many different routes can you take to get out of Biff?
+
+**Answer:** 2912
+[[src_squadre_2018_semifinalea__Q02]]

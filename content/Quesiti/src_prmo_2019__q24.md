@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q24
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest prime factor of coloring count for rectangle grid*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più grande fattore primo del numero di colori per la griglia rettangolare*
+
+> Un rettangolo $1 \times n$ ($n \ge 1$) è diviso in quadrati unitari $n$ ($1 \times 1$). Ogni quadrato di questo rettangolo è di colore rosso, blu o verde. $f(n)$ è il numero di colori del rettangolo in cui ci sono un numero pari di quadrati rossi. Qual è il più grande fattore primo di $f(9)/f(3)$? (Il numero dei quadrati rossi può essere zero.)
+
+[[src_prmo_2019__Q24]]

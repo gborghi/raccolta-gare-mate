@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q18
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -35,6 +36,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Permutations of digits of 223334444; count nine-digit integers with at least one 3 right of last 4*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Permutazioni di cifre di 223334444; contare numeri interi a nove cifre con almeno un 3 a destra dell'ultimo 4*
+
+> $N$ sia il numero di numeri interi a nove cifre che possono essere ottenuti permutando i numeri di 223334444 e che hanno almeno un 3 a destra della frequenza più a destra di 4. Qual è il rimanente quando $N$ è diviso per 100?
+
+[[src_ioqm_2025_sep07__Q18]]

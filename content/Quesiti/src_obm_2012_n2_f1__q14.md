@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q14
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distance traveled by a golf/soccer ball following a semicircular path*
 
@@ -44,3 +47,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Distanza percorsa da una palla da golf/calcio seguendo un percorso semicircolare*
+
+> Il grande artigliere Tornado sta per fare il colpo più bello della sua carriera. Si trova davanti al gol e prevede che la palla, al partire, percorrerà $2$ metri in linea retta fino a un punto, e quindi descriverà un semicircolo, raggiungendo $3$ metri di altitudine sul terreno solido al gol. Qual è la distanza percorsa fino a quando la palla entra nel gol?
+> 
+> A) 3 \quad B) 3.5 \quad C) 4 \quad D) 4.5 \quad E) 5
+
+[[src_obm_2012_n2_f1__Q14]]

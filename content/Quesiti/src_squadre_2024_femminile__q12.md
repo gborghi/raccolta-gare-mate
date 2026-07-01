@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_femminile__Q12
 parent: src_squadre_2024_femminile
 competition: Gara a Squadre Femminile 2024 - Finale Nazionale
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero deltaedri convessi a facce triangoli equilateri lato 1*
 
@@ -75,3 +78,15 @@ tags:
 **Metodo:** [[method_casework|Analisi per casi]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of convex edges with sides of equilateral triangles side 1*
+
+> On the scene of the crime, Hermite Poinsot finds a leaflet with a sequence of numbers: the first term is 1 while the ln-eighth term is the sum of the k-eighth term (where k is the entire part of the root of n) and the absolute value of the difference between n and the perfect square closest to it. Hercules notes that the difference between the last two numbers is 10: how long is the minimum sequence? Provide the exponent of 2 in prime factorization. 13. Scanning numbers A number n has a consecutive spelling if there is a sequence of at least two consecutive positive integers such that their sum is n. Among the various gadgets of Inspector Gauget is the consecutive meter: given a number n, the consecutive meter returns the number of consecutive scripts of n. To solve the last case, the inspector uses the consecutivometer on all numbers from 1 to 101 and sums all the values obtained. How much is this? 14. Call the firefighters! MontyHallbano had a blast: a terrorist cell hid a bomb in a circular round. The Commissioner has already managed to locate the round, because he knows that on the edges there are 3 angels: A and B at the ends of a diameter and the other angel X forms an angle \ XAB = 30°. In addition, with the clues collected, Fuzzy is drawing the map: he traces another diameter XY = 18m and calls C,D respectively the intersections between the AX and AY lines with the tangent to the round led by B. M and N are the midpoints of BX and BY . The bomb was placed at the intersection of the CM and DN lines. The gunmen need to know the precise distance of A from the bomb. How much is this distance in centimetres? 15. The suspect Hermite Poinsot is watching staged a magic game to confuse the detective. Initially he has 2 red balls in his hand; at each step he makes one of the following moves: adds a blue ball and a red ball; adds a blue ball and removes a red ball; adds two green balls. He declares that when he has 11 blue, 9 red and 4 green balls in his hand he will disappear, and he also wants to reach the goal using the minimum number of moves possible. How many ways can you do that? 16. Even this time, Inspector Zenonigata put Lupin/3 in the corner proposing the succession an, which follows the following law: for each n > 1 we have that an = an−1 +2an−2 +3an−3 +...+(n−1)a1 and also a1 = k for some whole k. Zenonigata asks whether Lupin/3 knows how to calculate the sum of all the values of k for which n such as an = 2024 exists. The thief, equally mocked, responds correctly and escapes, leaving Zenonigata to eat his hands for the wasted opportunity. What did Lupin/3 say? Team competition 2024  Semifinal 1  Problem tests  2/2
+> 
+> XXV National Semifinal Team Competition 1  Friday 3 May 2024 Ministry of Education and Merit Solutions Nr. The problem
+
+[[src_squadre_2024_femminile__Q12]]

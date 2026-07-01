@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2002 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_2livello__Q06
 parent: src_archimede_2002_2livello
 competition: Archimede Gara 2º livello 2002
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo valore di c con a<b<c e relazioni date*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum value of c with a< b< c and reported data< MSK1/>
+
+> Whether $n$ is a positive three-digit integer $a$, $b$, $c$ (with $a \neq 0$) such that $n$ has the same number of decimal digits as $a + b + c$. What is the maximum value that < MSK7/> can assume?
+> 
+> (A) 9 and so on; (B) 10 and so on; (C) 19 and so on; (D) 30 and so on; (E) 31
+
+**Answer:** D
+[[src_archimede_2002_2livello__Q06]]

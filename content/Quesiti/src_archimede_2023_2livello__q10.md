@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_2livello__Q10
 parent: src_archimede_2023_2livello
 competition: Archimede Gara di Febbraio 2023 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parallelogramma, bisettrice su punto medio, lunghezza AM*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Parallelogram, centered beacons, length AM*
+
+> Either ABCD is a parallelogram such that the bisector coming out of B intersects the CD side at its midpoint M. The BC side is length 6, and the AC diagonal is length 14. Determine the length of AM.
+>
+> - **(A)** 2 √ 19
+> - **(B)** 14 −3 √ 3
+> - **(C)** 4 √ 5
+> - **(D)** 9
+> - **(E)** 2 √ 22
+
+**Answer:** C
+[[src_archimede_2023_2livello__Q10]]

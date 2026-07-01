@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2011 — Quesito
   12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2011__Q12
 parent: src_bocconi_finalenaz_2011
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2011
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza tra i punti medi delle basi del trapezio*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** La distanza è 248 cm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance between the median points of the trapezoid bases*
+
+> The two bases of a trapezoid measure, respectively, 1515 cm and 1213 cm. The angles adjacent to the main base are complementary (their sum is $90^\circ$). What is the distance between the middle points of the two bases?
+
+**Answer:** La distanza è 248 cm
+[[src_bocconi_finalenaz_2011__Q12]]

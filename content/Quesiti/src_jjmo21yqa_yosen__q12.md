@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo21yqa_yosen__Q12
 parent: src_jjmo21yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic BDEC config, find AM*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\sqrt{137}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11kigjl_Wt-al8ocndA12n0n3x8dtw2E3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Configurazione BDEC ciclica, trovare AM*
+
+> Nel triangolo $ABC$, i punti $D$ e $E$ si trovano rispettivamente sui lati $AB$ e $AC$ (non nei punti finali), mentre i quattro punti $D, B, C, E$ si trovano su un cerchio comune. Il $M$ deve essere il punto medio del lato $BC$ e il $P$ deve essere l'intersezione della linea $BE$ e della linea $CD$. Poiché $DE = 6$, $BC = 10$, $AP = 9$ e $PM = 4$, si trova la lunghezza del segmento $AM$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** \sqrt{137}
+[[src_jjmo21yqa_yosen__Q12]]

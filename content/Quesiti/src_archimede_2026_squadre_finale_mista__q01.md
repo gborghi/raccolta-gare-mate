@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q01
 parent: src_archimede_2026_squadre_finale_mista
 competition: Gara a Squadre Nazionale 2026 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo vichinghi leali a tavola rotonda con dichiarazioni*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0200
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum loyal round table Vikings with declarations*
+
+> ... The dragons! Catherine Malfatto After another dragon attack, all 1000 Vikings in the village of Berkhoff gather around a round table to discuss defense strategies. Some of them are loyal Vikings, who always tell the truth, while others are devious Vikings, who always lie. In turn, each of them declares: In total, between the two Vikings sitting on my right and the two Vikings sitting on my left, there is an equal number of loyal Vikings. What's the minimum number of loyal Vikings?
+
+**Answer:** 0200
+[[src_archimede_2026_squadre_finale_mista__Q01]]

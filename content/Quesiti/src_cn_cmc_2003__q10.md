@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2003 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2003__Q10
 parent: src_cn_cmc_2003
 competition: China Mathematical Competition 2003
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find b - d given log relations and a difference condition on positive integers.*
 
@@ -47,3 +50,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca b - d dati rapporti di log e una condizione di differenza sui numeri interi positivi.*
+
+> Se $a, b, c, d$ sono numeri interi positivi e $\log_a b = \frac{3}{2}$, $\log_c d = \frac{5}{4}$. Se $a - c = 9$, allora $b - d = $ ___.
+
+**Risposta:** 93
+[[src_cn_cmc_2003__Q10]]

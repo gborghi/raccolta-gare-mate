@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2010_finale__Q12
 parent: src_kangourou_squadre_2010_finale
 competition: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma elementi coppie con somma interni 1999*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5997
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of pairs with internal sum 1999*
+
+> The grid In each cell of the grid 3 × 4 in the figure you want to arrange a positive integer by following all the following rules: - the numbers must all be different from each other; - in each row each number from second (left) forward is a multiple of the previous one; - in each column each number from second (from top) forward is a multiple of the previous one. What is the smallest number that can appear in the cell marked with A?
+
+**Answer:** 5997
+[[src_kangourou_squadre_2010_finale__Q12]]

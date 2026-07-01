@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q17
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Vincita attesa gioco dadi a ritroso*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1709
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Winning expected game dice backwards
+
+> The casino of the kingdom has introduced a new game: the player throws a classic 6-sided dice, the dealer then asks the player if he wants to withdraw the dice, or be paid with a sum equal to the result of the dice, and stops. If you choose to withdraw the dice, the dealer repeats the request, up to a maximum of 6 total rolls, when you are forced to accept the result of the sixth roll. Mammolo has found a strategy that allows him to cash in as much as possible. What's the average win for the strategy Mammolo found?
+> 
+> It is answered by the numerator of the fraction reduced to the minimum terms which expresses the average gain.
+
+**Answer:** 1709
+[[src_gs_2012_squadre__Q17]]

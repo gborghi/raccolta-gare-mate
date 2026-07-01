@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Junior Finale 2 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_squadre_f2__Q12
 parent: src_kangourou_2023_junior_squadre_f2
 competition: Kangourou Squadre 2023 Junior Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti primi 2023 Fibonacci danno resto 2 mod 3*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0759
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many first 2023 Fibonacci numbers are left 2 mod 3
+
+> Fibonacci The sequence of integers called di Fibonacci is defined as follows: the first two terms are both 1, from the third to the next each term is the sum of the two preceding it. How many of the first 2023 terms in the Fibonacci sequence give 2 remaining when they're divided by 3?
+
+**Answer:** 0759
+[[src_kangourou_2023_junior_squadre_f2__Q12]]

@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2023_nu_fx__Q04
 parent: src_obm_2023_nu_fx
 competition: Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Invertible matrix C in M_2(Z) with given CAC^{-1} forms*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Matrice invertibile C in M_2(Z) con le formule CAC^{-1} indicate*
+
+> $M_2(\mathbb{Z})$ sia l'insieme di matrici $2\times 2$ con voci interi. Il $A\in M_2(\mathbb{Z})$ deve essere tale che $$A^2+5I=0,$$, dove $I\in M_2(\mathbb{Z})$ e $0\in M_2(\mathbb{Z})$ indichino rispettivamente le matrici di identità e zero. Prova che esiste una matrice invertibile $C\in M_2(\mathbb{Z})$ con $C^{-1}\in M_2(\mathbb{Z})$ tale che $$CAC^{-1}=\begin{pmatrix}1&2\\-3&-1\end{pmatrix}\quad\text{or}\quad CAC^{-1}=\begin{pmatrix}0&1\\-5&0\end{pmatrix}.$$
+
+[[src_obm_2023_nu_fx__Q04]]

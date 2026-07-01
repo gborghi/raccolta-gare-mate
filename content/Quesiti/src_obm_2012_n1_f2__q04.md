@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f2__Q04
 parent: src_obm_2012_n1_f2
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum number of squares when cutting a 24x13 rectangle*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GopwL_0fgb7iEbs-bG1HNdfWHmDyf8B2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero minimo di quadrati per la taglia di un rettangolo 24x13*
+
+> Jade vuole tagliare un foglio rettangolare di carta di $24 \text{ cm}$ di $13 \text{ cm}$ in quadrati più piccoli, non necessariamente della stessa dimensione. Qual è il numero minimo di quadrati che otterrà?
+
+[[src_obm_2012_n1_f2__Q04]]

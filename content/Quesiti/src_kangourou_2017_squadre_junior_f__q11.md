@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Junior 2017 Finale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_junior_f__Q11
 parent: src_kangourou_2017_squadre_junior_f
 competition: Kangourou Coppa Squadre Junior 2017 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero che per 123 termina con 2017*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 179
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number ending in 2017 for 123*
+
+> For 123 Find the smallest positive integer that multiplied by 123 gives a product that ends in 2017.
+
+**Answer:** 179
+[[src_kangourou_2017_squadre_junior_f__Q11]]

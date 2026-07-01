@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n1_f1__Q06
 parent: src_obm_2017_n1_f1
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determinant of Wronskian-type matrix of monomials*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a3U1xwLG4Liq_aZSUCGfvqkTHMuELPzq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Determinatore della matrice di monomi di tipo Wronskian*
+
+> Lasciate che $k_1, k_2, \ldots, k_n$ siano integri non negativi. Provare che esistono costanti $C$ e $r$ tali da $\det(M) = C t^r$. Trovare formule semplici per $C$ e $r$.
+
+[[src_obm_2017_n1_f1__Q06]]

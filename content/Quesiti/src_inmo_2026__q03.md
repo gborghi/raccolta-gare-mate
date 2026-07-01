@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2026 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2026__Q03
 parent: src_inmo_2026
 competition: Indian National Mathematical Olympiad 2026
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In an acute scalene triangle, with P,Q on the sides satisfying BP=BN, CQ=CN and K on line AN with MK=MN, prove angle PKQ is a right angle.*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ffwcPTmw5kJZuKkanVDFlqLhvUS6FxGr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un triangolo di scalene acuto, con P,Q sui lati che soddisfano BP=BN, CQ=CN e K sulla linea AN con MK=MN, prova che l'angolo PKQ è un angolo retto.*
+
+> Il $ABC$ deve essere un triangolo scaleno a angolo acuto con un circoncircolo $\Gamma$. Il $M$ deve essere il punto medio del $BC$ e il $N$ deve essere il punto medio dell'arco minore $BC$ del $\Gamma$. I punti $P$ e $Q$ si trovano rispettivamente sui segmenti $AB$ e $AC$ in modo tale che $BP = BN$ e $CQ = CN$. Il punto $K \ne N$ si trova sulla linea $AN$ con $MK = MN$. Prova che < MSK16/>.
+
+[[src_inmo_2026__Q03]]

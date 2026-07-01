@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f2__Q04
 parent: src_obm_2003_n1_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Student marks X on digital clock showing 7 every minute; find half of total marks*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 66
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'allievo nota X su un orologio digitale che mostra 7 ogni minuto; trova la metà dei voti totali *
+
+> Uno studente con molto tempo libero e curiosità decise di fare il seguente: ogni minuto, quando cambiava l'ora sul suo orologio digitale, segnava un $X$ nel suo quaderno per ogni cifra $7$ che appareva sul display. Quindi, se il suo orologio mostrava $\mathbf{02{:}07}$ ha segnato $X$, e quando mostrava $\mathbf{07{:}17}$ ha segnato $XX$. Ha iniziato a farlo quando l'orologio mostrava $\mathbf{01{:}00}$ e si è fermato quasi dodici ore dopo, quando l'orologio mostrava $\mathbf{12{:}59}$. Calcola la metà del numero di $X$ che ha segnato nel suo quaderno.
+
+![[src_obm_2003_n1_f2__Q04.png]]
+
+**Risposta:** 66
+[[src_obm_2003_n1_f2__Q04]]

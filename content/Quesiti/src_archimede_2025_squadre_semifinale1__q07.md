@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_semifinale1__Q07
 parent: src_archimede_2025_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2025 - Semifinale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo turni per banco con k^2+kn uguale a 6384*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0008
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum turn per bench with k^2+kn equal to 6384< MSK1/>
+
+> For business reasons, James Bound often goes to the math casino. The game you're watching right now starts with k2 dollars on the bench, with k positive. At each turn, k dollars are added to the bank (for example, after the first round there are k2 + k dollars). What's the minimum number of shifts after which there's exactly $6,384 on the bench?
+
+**Answer:** 0008
+[[src_archimede_2025_squadre_semifinale1__Q07]]

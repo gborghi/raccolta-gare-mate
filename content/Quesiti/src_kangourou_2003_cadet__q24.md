@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Cadet (20 marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet__Q24
 parent: src_kangourou_2003_cadet
 competition: Kangourou 2003 Cadet (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza aree regione grigia e nera (4 quadrati)*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1eygrPRLv8IqHr90bPrLsox-FA6V93kRL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Differential grey and black area (4 squares) *
+
+![[src_kangourou_2003_cadet__prob24.png]]
+
+> The figure shows four partially overlapping squares with sides of 11 cm, 9 cm, 7 cm and 5 cm. What is the difference between the grey area and the black area? A) 25 cm2 B) 36 cm2 C) 49 cm2 D) 64 cm2 E) 0 cm2
+
+**Answer:** D
+[[src_kangourou_2003_cadet__Q24]]

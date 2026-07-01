@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q18
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte 2018^2 sotto radice per ottenere 2018^10*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many times 2018^2 under roots to get 2018^10*
+
+> Why is this equation √20182 + 20182 + ... + 20182 = 201810 true, how many times does 20182 have to appear under the square root? A) 5
+> 	
+> B) 8
+> 	
+> C) 18
+> 	
+> D) 20188 E) A number different from the previous one
+
+**Answer:** E
+[[src_kangourou_2018_junior_marzo__Q18]]

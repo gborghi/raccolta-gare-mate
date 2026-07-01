@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f3__Q01
 parent: src_obm_1998_n2_f3
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Consecutive interior angles in convex pentagon sum over 216°*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15LXpd9sC47d1fJN8vNPdURXTArxbZUUH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angoli interiori consecutivi in pentagone converso sommato su 216°*
+
+> Prove che in qualsiasi pentagono converso esistono due angoli interni consecutivi la cui somma è maggiore o uguale a $216^\circ$.
+
+[[src_obm_1998_n2_f3__Q01]]

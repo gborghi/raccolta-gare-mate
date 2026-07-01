@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - finale settembre — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_settembre__Q03
 parent: src_kangourou_2020_student_settembre
 competition: Kangourou 2020 Student - finale settembre
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie intere (x,y) con x^2+7y=xy*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TNLTY-N5_R2aDojc_Feic8HuZ8gVY6JO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Integrated pairs (x,y) with x^2+7y=xy*
+
+> How many pairs $(x, y)$ of integers (not necessarily positive) such as $x^2 + 7y = xy$?
+
+**Answer:** 6
+[[src_kangourou_2020_student_settembre__Q03]]

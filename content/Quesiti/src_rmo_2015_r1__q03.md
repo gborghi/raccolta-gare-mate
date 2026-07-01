@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r1__Q03
 parent: src_rmo_2015_r1
 competition: Regional Mathematical Olympiad 2015
@@ -34,6 +35,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all fractions simultaneously of two given linear forms*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pM_o_4zD3hAhAdQoohTDksCBpNlBtRQ7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le frazioni contemporaneamente di due forme lineari date*
+
+> Trova tutte le frazioni che possono essere scritte contemporaneamente nelle forme $\dfrac{7k-5}{5k-3}$ e $\dfrac{6l-1}{4l-3}$, per alcuni integri $k$, $l$.
+
+[[src_rmo_2015_r1__Q03]]

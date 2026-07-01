@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2001 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2001_r2__Q02
 parent: src_pol_2001_r2
 competition: Olimpiade Matematica Polacca 2001 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Points A,B,C on a line with ABDE a square; circle on diameter AC meets line DE at P,Q; lines AQ and BD meet at R; prove DP=DR.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dO7OqqHjPcVUusxRxcY7zUJe_pdXhL9d/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punti A,B,C su una linea con ABDE quadrata; cerchio su diametro AC incontra la linea DE a P,Q; linee AQ e BD incontra a R; prova DP=DR.*
+
+> I punti $A,B,C$ con $AB<BC$ si trovano in questo ordine su una linea. Il valore $ABDE$ deve essere quadrato. Il cerchio di diametro $AC$ interseca la linea $DE$ nei punti $P$ e $Q$ con $P$ tra $D$ e $E$. Le linee $AQ$ e $BD$ si incrociano a $R$. Prove che < MSK13/>.
+
+[[src_pol_2001_r2__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q16
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Zigzag chain of equal segments between two lines through A; angle B1AB2=1 degree, max n*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Catenata in zigzag di segmenti uguali tra due linee attraverso A; angolo B1AB2=1 grado, massimo n*
+
+> Nella figura seguente, < MSK0/>. I punti $B_1, B_3, B_5, \ldots$ appartengono ad una linea retta e i punti $B_2, B_4, B_6, \ldots$ appartengono ad un'altra linea retta. Tutti i punti $B_1, B_2, B_3, \ldots, B_n$ sono distinti. Sapendo che l'angolo $\angle B_1 A B_2$ misura $1^\circ$, quale è il più grande valore possibile di $n$?
+> 
+> (A) $6$ \quad (B) $7$ \quad (C) $10$ \quad (D) $90$ \quad (E) $n$ può essere arbitrariamente grande
+
+![[src_obm_2013_n3_f1__Q16.png]]
+
+[[src_obm_2013_n3_f1__Q16]]

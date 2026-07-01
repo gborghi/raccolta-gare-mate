@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Student finale nazionale — Quesito S6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student_finale__QS6
 parent: src_kangourou_2004_student_finale
 competition: Kangourou 2004 Student finale nazionale
@@ -30,6 +31,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma distanze di P dai sei spigoli del tetraedro*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 3sqrt2/2 baricentro
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YDB8i8P8ObCcVZVHoKNettQ8gKf-sGTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>sum of distances of P from the six spokes of the tetrahedron< MSK1/>
+
+> Consider a point $P$ within a regular side tetrahedron $1$. It shows that the sum of the distances of $P$ from the six vertebrae of the tetrahedron is not less than $\dfrac{2\sqrt{2}}{3}$ and identifies any $P$ points for which that sum is exactly $\dfrac{2\sqrt{2}}{3}$.
+
+**Answer:** 3sqrt2/2 baricentro
+[[src_kangourou_2004_student_finale__QS6]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1991 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1991__Q07
 parent: src_inmo_1991
 competition: Indian National Mathematical Olympiad 1991
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real solutions to a symmetric system of three equations*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le soluzioni reali a un sistema simmetrico di tre equazioni*
+
+> Determinare tutte le soluzioni reali $x, y, z$ del sistema $$\begin{cases} x + y - z = 4, \\ x^2 - y^2 + z^2 = -4, \\ xyz = 6. \end{cases}$$
+
+[[src_inmo_1991__Q07]]

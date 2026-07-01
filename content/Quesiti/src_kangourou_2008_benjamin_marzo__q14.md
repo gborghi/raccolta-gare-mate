@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q14
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo n persone a 60 sedie senza posto isolato libero*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum n persons in 60 seats with no isolated free seat< MSK1/>
+
+> 60 chairs are arranged around a round table. A certain number, let's call it n, of people are sitting at this table so that anyone who wants to join them should necessarily sit in a chair next to someone already occupied. The smallest value of n that makes the situation possible is A) 15 B) 20 C) 30 D) 40 E) 58
+
+**Answer:** B
+[[src_kangourou_2008_benjamin_marzo__Q14]]

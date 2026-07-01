@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2020 Finale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q06
 parent: src_kangourou_2020_squadre_finale
 competition: Kangourou Coppa squadre 2020 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spettatori con resto 1 mod 2..6 e divisibile 7*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1141
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ouvUikm9jtg5T9XqFtDuhZcgJZXEsFwU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Spectators with remainder 1 mod 2..6 and divisible by 7 < MSK1/>
+
+> In a theater there are more than 1,000 spectators, but less than 1,500. If they're divided into groups of two, or three, or four, or five, or six, there's always exactly one viewer out. If they are divided into groups of seven people, no one is left out. How many spectators are there?
+
+**Answer:** 1141
+[[src_kangourou_2020_squadre_finale__Q06]]

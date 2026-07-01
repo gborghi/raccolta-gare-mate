@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo21yqa_yosen__Q09
 parent: src_jjmo21yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-coloring triangles in 7x7 grid with constraints*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $2^{63}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11kigjl_Wt-al8ocndA12n0n3x8dtw2E3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangoli a due colori in griglia 7x7 con restrizioni*
+
+> Considera una griglia di celle < MSK0/>. Per due celle adiacenti, il bordo che condividono è chiamato "buono bordo". Quando ogni cella è divisa in quattro parti con i suoi due diagonali, l'intera figura è divisa in triangoli congruenti di isosceles destra $196$; ciascun triangolo di questo tipo è chiamato un "piccolo triangolo". In quanti modi ciascuno di questi piccoli triangoli $196$ può essere colorato in rosso o blu in modo che siano valide entrambe le seguenti condizioni? Per ogni cella, tra i quattro piccoli triangoli contenuti, il numero di colore rosso è esattamente $1$ o $3$. \item Per ogni buon bordo, i due piccoli triangoli che lo hanno come lato sono di colore lo stesso colore. # Finire #
+
+![[src_jjmo21yqa_yosen__Q09.png]]
+
+**Risposta:** 2^{63}
+[[src_jjmo21yqa_yosen__Q09]]

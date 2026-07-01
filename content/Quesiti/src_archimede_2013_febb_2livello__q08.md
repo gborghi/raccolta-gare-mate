@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q08
 parent: src_archimede_2013_febb_2livello
 competition: Archimede Gara di Febbraio 2013 - 2 livello
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie di sottoinsiemi di {1..5} con intersezione di un elemento*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pairs of sub-sets of {1,5,} with an element intersecting *
+
+> How many pairs (A, B) of subsets of {1, 2, 3, 4, 5} are ordered such that the intersection between A and B has exactly one element?
+>
+> - **(A)** 80
+> - **(B)** 280
+> - **(C)** 1280
+> - **(D)** 751
+> - **(E)** 405
+
+**Answer:** E
+[[src_archimede_2013_febb_2livello__Q08]]

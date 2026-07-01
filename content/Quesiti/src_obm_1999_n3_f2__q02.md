@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f2__Q02
 parent: src_obm_1999_n3_f2
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square ABCD with four circumscribed circles: angle and length conditions*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D3JkG3FwszG4Cj9u9XDmjhQiLYRED5MN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrato con quattro cerchi circoscritti: condizioni di angolo e lunghezza*
+
+> Lasciate che $ABCD$ sia quadrato. Selezionare i punti $M$, $N$, $P$, $Q$ su $AB$, $BC$, $CD$ e $DA$, rispettivamente, in modo che i cerchi circumscritti dei triangoli $MBN$ e $PDQ$ siano tangenti l'uno all'altro esternamente. Prova che < MSK11/>.
+
+![[src_obm_1999_n3_f2__Q02.png]]
+
+[[src_obm_1999_n3_f2__Q02]]

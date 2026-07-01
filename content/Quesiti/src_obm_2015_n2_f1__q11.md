@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q11
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest integer that is double a square and triple a cube*
 
@@ -47,3 +50,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il numero intero più piccolo che è doppio di un quadrato e triplo di un cubo*
+
+> Il numero $5^2=25$ è un quadrato perfetto e il numero $4^3=64$ è un cubo perfetto. Qual è il numero intero positivo più piccolo che è doppio di un quadrato perfetto e allo stesso tempo triplo di un cubo perfetto?
+> 
+> (A) 72 (B) 98 (C) 144 (D) 216 (E) 256
+
+[[src_obm_2015_n2_f1__Q11]]

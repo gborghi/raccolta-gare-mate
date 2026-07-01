@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo34yqa_yosen__Q08
 parent: src_jmo34yqa_yosen
 competition: Japan Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count tuples (f(0),...,f(2024)) for functional equation on non-negative integers*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $2^{990} + 1$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BLiurO6ycVxBaRhIQ4VIeU3sYe6dethe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i tuppi (f(0),...,f(2024)) per l'equazione funzionale su integri non negativi*
+
+> Una funzione $f$ definita sui numeri interi non negativi prende valori di numeri interi non negativi e soddisfa, per tutti i numeri interi non negativi $m, n$: $$f(m+n)^2 = f(m \cdot f(n)) + f(n^2).$$ Quanti tupli $(f(0), f(1), \ldots, f(2024))$ sono possibili?
+
+**Risposta:** 2^{990} + 1
+[[src_jmo34yqa_yosen__Q08]]

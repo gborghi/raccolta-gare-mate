@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Junior (15 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_junior__Q14
 parent: src_kangourou_2001_junior
 competition: Kangourou 2001 - Junior (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Franchi rimasti a Gaspare*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This appropriation is intended to cover expenditure on research and technological developments in the field of biotechnology.
+
+> Gaspare had 400 francs and had to buy 100 chocolate bars at the cost of 4 francs each. At the grocery store, he found that for every six tablespoons of chocolate he had in his cart, a new tablet was added to the box for free. How many francs did Gaspare have left when he left the supermarket, knowing that he bought nothing but chocolate?
+>
+> - **(A)** 52
+> - **(B)** 56
+> - **(C)** 60
+> - **(D)** 64
+> - **(E)** 68.
+
+**Answer:** B
+[[src_kangourou_2001_junior__Q14]]

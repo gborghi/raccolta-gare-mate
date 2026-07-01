@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_2livello__Q02
 parent: src_archimede_2018_2livello
 competition: Archimede Gara di Febbraio 2018 - 2° livello
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sequenze binarie di lunghezza 8 contenenti 01*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Binary sequences of length 8 containing 01*
+
+> How many sequences of eight numbers consisting only of 0s and 1s containing code 01?
+>
+> - **(A)** 64
+> - **(B)** 128
+> - **(C)** 192
+> - **(D)** 247
+> - **(E)** 255
+
+**Answer:** D
+[[src_archimede_2018_2livello__Q02]]

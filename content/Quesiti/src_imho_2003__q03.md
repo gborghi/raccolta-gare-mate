@@ -1,6 +1,7 @@
 ---
 title: IMO 2003 (XLIV International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2003__Q03
 parent: src_imho_2003
 competition: IMO 2003 (XLIV International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Convex hexagon with midpoint-distance condition has equal angles*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AH0yViVdXFQ9Y_GJejaNbOzxPiHzQl9i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Convex hexagon with midpoint-distance condition has equal angles< MSK1/>
+
+> A convex hexagon has the property that for any pair of opposite sides the distance between their midpoints is $\dfrac{\sqrt{3}}{2}$ times the sum of their lengths. Show that all the hexagons are equal.
+
+[[src_imho_2003__Q03]]

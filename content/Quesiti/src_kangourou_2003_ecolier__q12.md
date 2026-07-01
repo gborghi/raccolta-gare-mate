@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q12
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Forma del terzo mattone del parallelepipedo*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Form of the third parallel-pipedal brick*
+
+![[src_kangourou_2003_ecolier__prob12.png]]
+
+> Fiorella constructed a parallel-piped rectangle using 3 irregular-shaped "mattons", each shaped by approaching 4 equal cubes (see figure). Two of these "mattons" can be seen in the figure. What is the shape of the third "cotton" (indicated by a stroke)? A) B) C) D) E)
+
+**Answer:** D
+[[src_kangourou_2003_ecolier__Q12]]

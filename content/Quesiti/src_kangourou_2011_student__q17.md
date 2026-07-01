@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q17
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale affermazione sulla parabola puo essere falsa*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Any statement on the parable may be false< MSK1/>
+
+![[src_kangourou_2011_student__prob17.png]]
+
+> In the plane with the usual orthogonal cartesian reference system Oxy, the point A(1, -10 was marked on the equation parabola y = ax2 + bx + c; the axes and much of the graph of the parabola were then deleted, and what remains is seen in the figure. Which of the following claims may be false? A) a > 0 B) b < 0 C) a+b+c < 0 D) b2 > 4ac E) c < 0
+
+**Answer:** E
+[[src_kangourou_2011_student__Q17]]

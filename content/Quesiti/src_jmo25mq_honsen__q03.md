@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2015 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo25mq_honsen__Q03
 parent: src_jmo25mq_honsen
 competition: Japan Mathematical Olympiad 2015 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ascending sequences of positive integers and multiples of primes*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zjofx858zIB9CmusWvun9lZn5siZE_Lr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenze ascendenti di numeri interi positivi e multipli di numeri primi*
+
+> Una sequenza di interi positivi $\{a_n\}$ $(n = 1, 2, \ldots)$ si chiama **ascendente** se, per ogni intero positivo $n$, $$a_n < a_{n+1} \quad \text{and} \quad a_n \mid 2a_{n+1}.$$
+> 
+> (1) Supponiamo che $\{a_n\}$ sia in ascesa e $p$ sia un primo maggiore di $a_1$. Indicare che un certo termine della sequenza è divisibile per $p$.
+> 
+> (2) < MSK0/> sia un primo pari. Indicare che esiste una sequenza ascendente $\{a_n\}$ che non contiene un multiple di $p$.
+
+[[src_jmo25mq_honsen__Q03]]

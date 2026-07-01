@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2003 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo1q__Q11
 parent: src_jjmo1q
 competition: Japan Junior Mathematical Olympiad 2003
@@ -39,6 +40,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill-in-the-blank: operations on integer pairs, achievable products, and extremal values*
 
@@ -65,3 +68,27 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fill-in-the-Blank: operazioni su coppie di numeri interi, prodotti raggiungibili e valori estremi*
+
+> Riempire ciascuna casella $\boxed{\phantom{X}}$ con il numero appropriato.
+> 
+> Considera una coppia $(x, y)$ in cui $x$ e $y$ sono integri positivi. Consideriamo due operazioni:
+> 
+> **(A) ** Scegliere un intero positivo $a$ con $a \le y$; sostituire $(x, y)$ con $\left(ax,\, \dfrac{y}{a}\right)$. (Questo richiede < MSK4/>.)
+> 
+> **(B) ** Rimpiazzare $(x, y)$ con $(x + 1,\, y + 1)$.
+> 
+> A partire da < MSK0/>, applicare ripetutamente queste due operazioni. Ad esempio: applicare (B) dà $(2, 2)$; applicare (A) con $a = \tfrac{3}{2}$... l'esempio continua a mostrare che dall'applicazione di $(1,1)$ (B) si ottiene $(2,2)$, poi (A) con $a = \tfrac{3}{2}$ si ottiene $\left(3, \tfrac{4}{3}\right)$...
+> 
+> *(Nota: l'operazione (A) non modifica il prodotto $xy$; l'operazione (B) lo modifica.) *
+> 
+> Il problema chiede di determinare, tra tutte le coppie raggiungibili da $(1,1)$ con queste operazioni, il prodotto massimo $xy$ che è un quadrato perfetto $k^2$, soggetto alla limitazione che l'operazione (B) venga utilizzata al massimo $3$ volte nel totale. Riempire i vuoti:
+> 
+> 1. L'applicazione di (A) non modifica < MSK0/>; dopo una sola applicazione di (B) il prodotto aumenta. Se prima di applicare (B) la coppia ha prodotto $xy = k^2$, il nuovo prodotto è al massimo $\boxed{\phantom{XX}}$ e almeno $\boxed{\phantom{XX}}$. 2. Per $k \ge 1$, il numero di coppie $(x, y)$ con $xy = k^2$ raggiungibili da $(1,1)$ è massimo $\boxed{\phantom{XX}}$. 3. Quando (B) viene applicata esattamente $\mathbf{3}$ volte, il prodotto massimo $xy$ (che deve essere un quadrato perfetto) è $\boxed{\phantom{XX}}$ se il massimo viene preso in tutte le sequenze. Le due coppie che raggiungono i due prodotti a quadrato perfetto più grandi sono $\big(\boxed{\phantom{X}},\, \boxed{\phantom{X}}\big)$ e $\big(\boxed{\phantom{X}},\, \boxed{\phantom{X}}\big)$, e questi non possono essere raggiunti con meno di $3$ applicazioni di (B).
+
+[[src_jjmo1q__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - finale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q08
 parent: src_kangourou_2021_junior_finale
 competition: Kangourou 2021 Junior - finale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma degli n con 2021 = n + somma cifre di n*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of n with 2021 = n + sum of n*
+
+> Look at the figure. A rectangle with a perimeter of 30 cm is divided into four rectangles, one of which is a square of area < MSK0/>. How many centimetres does the perimeter of the $ABCD$ rectangle measure? (see figure)
+> 
+> A) 14 B) 16 C) 18 D) 21 E) 24
+
+[[src_kangourou_2021_junior_finale__Q08]]

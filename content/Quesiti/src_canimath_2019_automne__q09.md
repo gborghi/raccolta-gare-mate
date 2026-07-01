@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2019 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_automne__Q09
 parent: src_canimath_2019_automne
 competition: Coupe Animath Automne 2019
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Chickens and cows; count cows given total animals and slippers (lycée version)*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 40
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Piccoli e mucche; contare mucche per animali totali e pantofole (versione liceale) < MSK1/>
+
+> Monsieur Deschamps possiede polli e mucche; le galline hanno due gambe e le mucche quattro. Per prepararsi all'inverno, deve fare pantofole per tutti. Ha 160 animali in totale e deve fare 400 pantofole. Quante mucche possiede?
+
+**Risposta:** 40
+[[src_canimath_2019_automne__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Biennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_biennio__Q18
 parent: src_archimede_2006_biennio
 competition: Giochi di Archimede 2006 - Gara Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri con cifre 3,4,6,7 divisibili per 44*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers with digits 3,4,6,7 divisible by 44*
+
+> Consider all four-digit numbers consisting of the digits 3, 4, 6, 7, arranged in any order and without any number being repeated. How many of these are divisible by 44?
+>
+> - **(A)** 0,
+> - **(B)** 1,
+> - **(C)** 2,
+> - **(D)** 3,
+> - **(E)** 4.
+
+**Answer:** C
+[[src_archimede_2006_biennio__Q18]]

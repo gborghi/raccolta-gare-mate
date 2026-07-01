@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2022 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2022__Q20
 parent: src_cn_ctst_2022
 competition: China National Team Selection Test 2022
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral with two incenters: prove PE=PF for intersection and perpendicular construction*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterale convex con due incentri: prova PE=PF per intersezione e costruzione perpendicolare*
+
+> Come mostrato nella figura. 2.1, nel quadrilaterale converso $ABCD$, $I$ e $J$ siano rispettivamente gli incentri di $\triangle ABC$ e $\triangle ACD$. È noto che $IJ$, $AC$ e $BD$ sono simultanei in un punto $P$. La linea che attraversa $P$ perpendicolare a $BD$ incontra i bisettori di angolo esterno di $\angle BAD$ e $\angle BCD$ rispettivamente a $E$ e $F$. Prove che $PE = PF$.
+
+![[src_cn_ctst_2022__Q20.png]]
+
+[[src_cn_ctst_2022__Q20]]

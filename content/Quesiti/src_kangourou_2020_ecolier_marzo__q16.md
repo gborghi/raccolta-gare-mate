@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Ecolier — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q16
 parent: src_kangourou_2020_ecolier_marzo
 competition: Kangourou 2020 Gara marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale combinazione di stecchini forma un quadrato*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which combination of stacks forms a square*
+
+![[src_kangourou_2020_ecolier_marzo__prob16.png]]
+
+> Guido has two types of stakes: short, each measuring 1 cm, and long, each measuring 3 cm. With which of the combinations suggested in the answers can you build a square without breaking any stakes, or overlapping parts of two stakes? A) 5 short and 2 long
+> 	
+> B) 7 short and 3 long
+> 	
+> C) 6 shorts D) 4 shorts and 2 longs
+> 	
+> (e) 6 long questions from N. 17 al N. Twenty-four is worth five points each.
+
+**Answer:** B
+[[src_kangourou_2020_ecolier_marzo__Q16]]

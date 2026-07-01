@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Mumbai — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_mumbai__Q01
 parent: src_rmo_2013_mumbai
 competition: Regional Mathematical Olympiad 2013
@@ -29,6 +30,8 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle with circumcircle, prove BE parallel to AD*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QqpKhO6gD1FP1kEEypefYh_ByeYd4RtW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles con circoncircolo, dimostrare BE parallelo ad AD*
+
+> Let $ABC$ essere un triangolo di uguali dimensioni con $AB = AC$ e let $\Gamma$ denotare il suo circoncircolo. Un punto $D$ è sull'arco $AB$ di $\Gamma$ che non contiene $C$ e un punto $E$ è sull'arco $AC$ di $\Gamma$ che non contiene $B$ in modo tale che $AD = CE$. Provare che $BE$ è parallelo a $AD$.
+
+[[src_rmo_2013_mumbai__Q01]]

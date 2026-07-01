@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2008 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2008_r2__Q01
 parent: src_pol_2008_r2
 competition: Olimpiade Matematica Polacca 2008 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest length of a sequence of consecutive integers all of the form x^3+2y^2.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBqpAesfIgvgnT5yAsrIJN7zQovSRGdZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza maggiore di una sequenza di numeri interi consecutivi di forma totale x^3+2y^2.*
+
+> Trova la lunghezza più grande possibile di una sequenza di numeri interi consecutivi che sono tutti espressi nella forma $x^3 + 2y^2$ per alcuni numeri interi $x, y$.
+
+[[src_pol_2008_r2__Q01]]

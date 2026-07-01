@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r1__Q03
 parent: src_pol_2004_r1
 competition: Olimpiade Matematica Polacca 2004 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all functions $f:\mathbb{Q}\to\mathbb{Q}$ with $f(x^2+y)=xf(x)+f(y)$ for all rationals.*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le funzioni $f:\mathbb{Q}\to\mathbb{Q}$ con $f(x^2+y)=xf(x)+f(y)$ per tutti i razionali.*
+
+> Trova tutte le funzioni $f \colon \mathbb{Q} \to \mathbb{Q}$ in modo tale che per tutte le funzioni razionali $x,y$ $$f(x^2+y)=xf(x)+f(y).$$
+
+[[src_pol_2004_r1__Q03]]

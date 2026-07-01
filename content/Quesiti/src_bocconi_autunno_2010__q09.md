@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2010 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2010__Q09
 parent: src_bocconi_autunno_2010
 competition: Giochi d'Autunno 2010
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dividere la figura in tre parti uguali e sovrapponibili*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*To divide the figure into three equal and overlapping parts*
+
+> The Declaration of Autumn 2010 Force! Divide the figure into three parts of the same shape and size (i.e. the three parts must be completely overlapping, even if by some rotation or overturning).
+
+![[src_bocconi_autunno_2010__Q09.png]]
+
+[[src_bocconi_autunno_2010__Q09]]

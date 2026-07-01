@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q09
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo di noleggio bici con baratti*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Bicycle rental time with barter*
+
+> Charlie rents his flaming bicycle to his friends in the following way: for two tablespoons of chocolate four hours and for 12 candy bars three hours. Mike gives Charlie one tablespoon of chocolate and four candy bars. How long can you ride Charlie's bike? A) an hour and a half B) 1 hour C) 2 hours D) 3 hours E) 4 hours
+
+**Answer:** D
+[[src_kangourou_2000_studenti__Q09]]

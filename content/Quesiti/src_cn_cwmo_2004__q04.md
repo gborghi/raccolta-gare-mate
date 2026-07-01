@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2004 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2004__Q04
 parent: src_cn_cwmo_2004
 competition: China Western Mathematical Olympiad 2004
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all non-negative c with d(n)+p(n)=n+c for some positive integer n*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i c non negativi con d(n) + p(n) = n+c per qualche intero positivo n*
+
+> Che $n \in \mathbb{N}$ (l'insieme di interi positivi) e $d(n)$ siano il numero dei divisori positivi di $n$. Successivamente, $p(n)$ indica il numero di interi nell'intervallo chiuso $[1, n]$ che sono co-prime con $n$. Trova tutti gli integri non negativi $c$ in modo tale che esista $n \in \mathbb{N}$ soddisfacente $d(n) + p(n) = n + c$.
+
+[[src_cn_cwmo_2004__Q04]]

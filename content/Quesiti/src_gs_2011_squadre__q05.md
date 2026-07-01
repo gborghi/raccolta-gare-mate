@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2011 - Gara a squadre — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2011_squadre__Q05
 parent: src_gs_2011_squadre
 competition: Coppa Fermat 2011 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri k con k^2+1 divisore di a*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0063
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers k with k^2+1 divider of a*
+
+> James Bond was imprisoned by the bunserols. To pass the time it sums the perfect squares (i.e. numbers that are squares of positive integers) of the form $\dfrac{n}{4000-n}$ for $n$ whole. What is the result?
+
+**Answer:** 0063
+[[src_gs_2011_squadre__Q05]]

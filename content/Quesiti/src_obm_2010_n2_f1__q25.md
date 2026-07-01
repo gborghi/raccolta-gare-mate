@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q25
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Nonnegative reals a,b with a^3+a<b-b^3; order a,b*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Reali non negativi a,b con a^3+a<b-b^3; ordine a,b*
+
+> I numeri $a$ e $b$ sono reali non negativi come $a^3 + a < b - b^3$. Allora...
+>
+> - **(A)** $b < a < 1$
+> - **(B)** $a = b = 1$
+> - **(C)** $a < 1 < b$
+> - **(D)** $a < b < 1$
+> - **(E)** $1 < a < b$
+
+**Risposta:** D
+[[src_obm_2010_n2_f1__Q25]]

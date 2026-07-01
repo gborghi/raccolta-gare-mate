@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2002 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2002__Q04
 parent: src_cn_cmc_2002
 competition: China Mathematical Competition 2002
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of points P on ellipse such that triangle PAB has prescribed area*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di punti P sull'ellisse tale che il triangolo PAB abbia prescritto superficie*
+
+> La linea retta $\dfrac{x}{a} + \dfrac{y}{b} = 1$ interseca l'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ a due punti $A$ e $B$. C'è un punto $P$ sull'ellisse tale che l'area di $\triangle PAB$ sia uguale a 3. Ci sono / è \quad (\quad) tali punti / punti.
+> 
+> (A) 1 \qquad (B) 2 \qquad (C) 3 \qquad (D) 4
+
+**Risposta:** B
+[[src_cn_cmc_2002__Q04]]

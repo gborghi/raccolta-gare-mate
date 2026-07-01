@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2022 — Nível 2 — Fase x — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2022_n2_fx__Q02
 parent: src_obm_2022_n2_fx
 competition: Olimpíada Brasileira de Matemática 2022 — Nível 2 — Fase x
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *System of cyclic equations in a, b, c; determine abc*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yFIgKBuQEpUjEcOEwjrnJOD221-_Znel/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sistema di equazioni cicliche in a, b, c; determinare abc*
+
+> I numeri reali $a$, $b$, $c$ sono tutti diversi da zero e soddisfano il seguente sistema di equazioni: $$\begin{cases} a + ab = c \\ b + bc = a \\ c + ca = b \end{cases}$$ Determinare tutti i valori possibili di $abc$.
+
+[[src_obm_2022_n2_fx__Q02]]

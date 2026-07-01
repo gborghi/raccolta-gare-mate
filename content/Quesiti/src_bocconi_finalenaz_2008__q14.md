@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2008 — Quesito
   14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2008__Q14
 parent: src_bocconi_finalenaz_2008
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2008
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare l'intero che, moltiplicato per 4 e per 5, usa insieme ogni cifra da 1 a 9 una sola volta.*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2469
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find the integer that, multiplied by 4 and by 5, uses each digit from 1 to 9 together once. *
+
+> Multiply an integer by 4. Then multiply the same integer by 5. So you're going to find that the results of the two multiples, collectively, use every digit from 1 to 9 once and only once. What 's the whole number you started from ?
+
+**Answer:** 2469
+[[src_bocconi_finalenaz_2008__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_c__Q14
 parent: src_cesenatico_2011_semifinale_c
 competition: Gara a Squadre Cesenatico 2011 - Semifinale C
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Carri vuoti tra prima e ultima botte (carovana)*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0990
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Empty carriages between the first and last carriage (carriage) *
+
+> A drunken transport The Romans look for a bottle of magic potion scattered among an entire cellar of identical bottles of wine. To bring the sticks to the camp, where the centurion will taste them one by one, a circular caravan of 1,196 steps is arranged, with the cellar and the camp diametrically opposite. Numerous carriages, all identical, form the caravan at 26 steps away from each other, going with the barrels and returning empty. To allow the centurion to dispense the wine, between two wagons carrying barrels, an increasing number of wagons are left empty: first 1, then 2, 3, 4, .... When the first carriage leaves empty again, the number of cans still to load is 4/5 of the total. How many empty wagons arrive at the camp between the first and last batch? (Non-empty wagons each carry the same number of barrels.)
+
+**Answer:** 0990
+[[src_cesenatico_2011_semifinale_c__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r3__Q02
 parent: src_rmo_2013_r3
 competition: Regional Mathematical Olympiad 2013
@@ -35,6 +36,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all 4-tuples of naturals with a!+b!+c!=3^d*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LyJj9lZ6d9wJTkSmciSZe9Gn8yrb6GdD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutti i 4 triples di naturali con a!+b!+c!=3^d*
+
+> Trovare tutti i quadrupli $(a, b, c, d)$ dei numeri naturali con $a \le b \le c$ e $a! + b! + c! = 3^d$.
+
+[[src_rmo_2013_r3__Q02]]

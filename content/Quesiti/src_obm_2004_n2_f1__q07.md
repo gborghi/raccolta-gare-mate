@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q07
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Difference p-q between same-flavor and different-flavor candy probabilities*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Differenza p-q tra probabilità di caramelle di sapore uguale e di sapore diverso< MSK1/>
+
+> Ci sono 1002 caramelle di banana e 1002 caramelle di mele in una scatola. Lara prende, senza vedere, due caramelle dalla scatola. La probabilità che le due caramelle abbiano lo stesso sapore è $p$ e la probabilità che le caramelle abbiano sapori diversi è $q$ Qual è la differenza tra $p$ e $q$?
+> 
+> **A)** $0$ $\quad$ **B)** $\dfrac{1}{2004}$ $\quad$ **C)** $\dfrac{1}{2003}$ $\quad$ **D)** $\dfrac{2}{2003}$ $\quad$ **E)** $\dfrac{1}{1001}$
+
+**Risposta:** C
+[[src_obm_2004_n2_f1__Q07]]

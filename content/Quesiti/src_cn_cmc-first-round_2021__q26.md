@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 26
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q26
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A2-4: choose 3 of 6 vertices of a regular hexagon; probability two are at distance √3.*
 
@@ -50,3 +53,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A2-4: scegli 3 dei 6 vertici di un esagono regolare; probabilità due sono a distanza √3.*
+
+> [Paper di prova A2, problema 4] Selezionare a caso tre vertici tra i sei vertici di un esagono regolare con lunghezza laterale $1$. Quindi la probabilità che due dei tre vertici siano a una distanza di $\sqrt{3}$ è ______.
+
+**Risposta:** 1
+[[src_cn_cmc-first-round_2021__Q26]]

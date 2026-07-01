@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2003 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2003__Q04
 parent: src_cn_cmc_2003
 competition: China Mathematical Competition 2003
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the maximum of a trigonometric expression over a given interval.*
 
@@ -47,3 +50,16 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il massimo di un'espressione trigonometrica su un dato intervallo.*
+
+> Let < MSK1/>. Il valore massimo di $$y = \tan\left(x + \frac{2\pi}{3}\right) - \tan\left(x + \frac{\pi}{6}\right) + \cos\left(x + \frac{\pi}{6}\right)$$ è ( ).
+> 
+> (A) $\frac{12}{5}\sqrt{2}$ \quad (B) $\frac{11}{6}\sqrt{2}$ \quad (C) $\frac{11}{6}\sqrt{3}$ \quad (D) $\frac{12}{5}\sqrt{3}$
+
+**Risposta:** (C) $\frac{11}{6}\sqrt{3}$
+[[src_cn_cmc_2003__Q04]]

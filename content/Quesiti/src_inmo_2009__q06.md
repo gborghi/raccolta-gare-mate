@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2009 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2009__Q06
 parent: src_inmo_2009
 competition: Indian National Mathematical Olympiad 2009
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For positive reals with a³+b³=c³, prove a²+b²−c²≥6(c−a)(c−b)*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YPNtVo-CAi9FgLmbWRMzeSPRIJy9mPVu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per i reali positivi con a3+b3=c3, provare a2+b2−c2≥6(c−a)(c−b)*
+
+> $a$, $b$, $c$ siano numeri reali positivi tali da $a^3 + b^3 = c^3$. Provare che < MSK0/>
+
+[[src_inmo_2009__Q06]]

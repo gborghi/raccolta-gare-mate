@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre finale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q10
 parent: src_kangourou_2011_squadre_finale
 competition: Kangourou 2011 squadre finale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo viaggi cameriera con ascensore sfavorevole*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 29
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13507kQgtd5A0hh0IwUZH9QyAEafhU_bz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum maid trips with unfavourable elevator< MSK1/>
+
+> A strange elevator In a 20-story hotel, the first ten are painted green, the ones from the 11th to the 20th are painted red. The hotel does not have stairs and you can only use a strange elevator to change your floor. Anyone entering the elevator on a green plane is sure to be taken to the plane they want. The person entering the elevator in a red plane is taken to a plane of the same colour as the one he selected, but not necessarily in the selected plane; in any case, the elevator changes plane. From whatever floor you call, the elevator will arrive as soon as you're free. A waitress has to go through all the floors, starting with the first and coming back. If the elevator behaves in a way that is most unfavorable to you, what is the minimum number of trips that will allow you to reach your destination?
+
+**Answer:** 29
+[[src_kangourou_2011_squadre_finale__Q10]]

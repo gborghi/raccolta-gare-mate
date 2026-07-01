@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1995 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1995__Q02
 parent: src_inmo_1995
 competition: Indian National Mathematical Olympiad 1995
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Infinitely many coprime pairs with two quadratics having integer roots*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-pje9yn5-Oz-tcMTgQ38tNi0Sa3TrKyD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Infinitamente molte copriemi con due quadratici con radici interi*
+
+> Mostrare che ci sono infinite coppie $(a,b)$ di integri coprimi in modo tale che sia le equazioni quadratiche $x^2 + ax + b = 0$ che $x^2 + 2ax + b = 0$ abbiano radici di enti.
+
+[[src_inmo_1995__Q02]]

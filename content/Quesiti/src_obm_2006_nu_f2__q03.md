@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2 —
   Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_nu_f2__Q03
 parent: src_obm_2006_nu_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Billiard on elliptic table: prove ball returns to B after A-B-C-A path*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18lHsUkA6TjiVCKvRGHHFZ98nGkOcKHvM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Billiard su tavola ellittica: prova che la palla ritorna a B dopo il percorso A-B-C-A*
+
+> Un tavolo da biliardo ha la forma di un'ellisse e non ha tasche. Quando una palla colpisce un punto $P$ sul bordo della tavola, segue una direzione simmetrica rispetto alla normale all'ellisse a $P$. Prova che se una palla parte da un punto $A$ sull'ellisse e, dopo essere rimbalzata ai punti $B$ e $C$, ritorna a $A$, rimbalzerà di nuovo a $B$.
+
+[[src_obm_2006_nu_f2__Q03]]

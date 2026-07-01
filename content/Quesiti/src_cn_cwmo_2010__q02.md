@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2010 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2010__Q02
 parent: src_cn_cwmo_2010
 competition: China Western Mathematical Olympiad 2010
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove four points concyclic in circle with two tangents*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove quattro punti conciclici in cerchio con due tangenti*
+
+> Come mostrato nella figura. 2.1, $AB$ è il diametro di un cerchio con centro $O$. Le linee tangenti al cerchio nei punti $C$ e $D$ si incontrano a $F$. Le linee $EF$ e $AB$ si incontrano a $M$. Prova che $E$, $C$, $M$ e $D$ sono conciclici.
+
+![[src_cn_cwmo_b11_w236__Q02.png]]
+
+[[src_cn_cwmo_2010__Q02]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 2) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g2__Q06
 parent: src_bocconi_finaleint_2011_g2
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dividere figura in due parti sovrapponibili*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Esiste un'unica posizione di taglio (la risposta è unica).
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*To divide the figure into two overlapping parts*
+
+> Divide this figure into two overlapping parts: for this, follow the drawn lines. Note: It is possible that one part may overlap the other after being overturned.
+
+![[src_bocconi_finaleint_2011_g2__Q06.png]]
+
+**Answer:** Esiste un'unica posizione di taglio (la risposta è unica).
+[[src_bocconi_finaleint_2011_g2__Q06]]

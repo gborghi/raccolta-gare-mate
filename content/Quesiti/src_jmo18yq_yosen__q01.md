@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2008 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo18yq_yosen__Q01
 parent: src_jmo18yq_yosen
 competition: Japan Mathematical Olympiad 2008 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest LCM of four distinct one-digit positive integers*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'LCM più grande di quattro diversi integri positivi a una cifra*
+
+> Ci sono quattro diversi numeri interi positivi a una cifra. Trova il valore più grande che può essere preso dal loro più piccolo comune multiple.
+
+[[src_jmo18yq_yosen__Q01]]

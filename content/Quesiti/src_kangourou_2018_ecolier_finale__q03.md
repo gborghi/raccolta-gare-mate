@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_finale__Q03
 parent: src_kangourou_2018_ecolier_finale
 competition: Kangourou Coppa Ecolier squadre 2018 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giri completi per leggere MATE 2018 volte*
 
@@ -69,3 +72,37 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1345
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete tours to read MATE 2018 times*
+
+![[src_kangourou_2018_ecolier_finale__prob3.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.6]
+  \draw (0,0) circle (1cm);
+  \filldraw (0,1) circle (2pt); \node[above,font=\small] at (0,1) {$M$};
+  \filldraw (0.466,0.885) circle (2pt); \node[right,font=\small] at (0.466,0.885) {$E$};
+  \filldraw (0.822,0.569) circle (2pt); \node[right,font=\small] at (0.822,0.569) {$T$};
+  \filldraw (0.993,0.120) circle (2pt); \node[right,font=\small] at (0.993,0.120) {$A$};
+  \filldraw (0.935,-0.352) circle (2pt); \node[right,font=\small] at (0.935,-0.352) {$M$};
+  \filldraw (0.663,-0.749) circle (2pt); \node[below right,font=\small] at (0.663,-0.749) {$T$};
+  \filldraw (0.238,-0.971) circle (2pt); \node[below,font=\small] at (0.238,-0.971) {$A$};
+  \filldraw (-0.238,-0.971) circle (2pt); \node[below,font=\small] at (-0.238,-0.971) {$E$};
+  \filldraw (-0.663,-0.749) circle (2pt); \node[below left,font=\small] at (-0.663,-0.749) {$M$};
+  \filldraw (-0.935,-0.352) circle (2pt); \node[left,font=\small] at (-0.935,-0.352) {$A$};
+  \filldraw (-0.993,0.120) circle (2pt); \node[left,font=\small] at (-0.993,0.120) {$X$};
+  \filldraw (-0.822,0.569) circle (2pt); \node[left,font=\small] at (-0.822,0.569) {$T$};
+  \filldraw (-0.466,0.885) circle (2pt); \node[above left,font=\small] at (-0.466,0.885) {$E$};
+\end{tikzpicture}
+\end{document}
+```
+
+> MATE I marked on a circumference 13 points, each denoted by a letter. Starting from the top point denoted by the letter M and reading the point labels a point yes and a point no I do several complete turns, clockwise, around the circumference until I read the word MATE for 2018 times: here I stop. How many times have I done a full circle?
+
+**Answer:** 1345
+[[src_kangourou_2018_ecolier_finale__Q03]]

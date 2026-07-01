@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q04
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezza torre di 1000 cubetti*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tower height of 1000 cubes*
+
+> Elisa has a lot of side cubes. Using all of them, he could build a cube of volume 1 dm3. Instead, if he wanted to build a tower and put them on top of each other, how tall would the tower be? (a) 1 (b) 5 (c) 10 (d) 100 (e) a value different from the previous one
+
+**Answer:** C
+[[src_kangourou_2007_benjamin_marzo__Q04]]

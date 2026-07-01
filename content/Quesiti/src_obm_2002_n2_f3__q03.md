@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f3__Q03
 parent: src_obm_2002_n2_f3
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Matchstick game on an m x n board; first to complete a unit square wins; determine the player with a winning strategy*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nXOkuveTEgG-AREkbRruZntjlbpxTLWP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di matchstick su una tavola m x n; prima di completare una vittoria quadrata unità; determinare il giocatore con una strategia vincente*
+
+> Vi viene fornita una lavagna a scacchi < MSK0/> e bastoni di fiammifero della dimensione dei lati delle celle. Due giocatori giocano alternativamente e, ad ogni mossa, uno dei giocatori mette un fiammifero su un lato di una cella della tavola, essendo vietato sovrapporre i fiammiferi.
+> 
+> Il giocatore che per primo riesce a completare un quadrato $1 \times 1$ di fiammiferi vince. Supponendo che nessuno dei due giocatori commetta errori, quale dei due giocatori ha la strategia vincente, cioè può vincere indipendentemente dal modo in cui il suo avversario gioca?
+
+[[src_obm_2002_n2_f3__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q04
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Displacement FP when a land-dividing line is moved on polygon ABCDEF*
 
@@ -47,3 +50,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*FP di spostamento quando una linea di divisione del territorio è spostata sul poligono ABCDEF*
+
+> Jo e Maria hanno ereditato un pezzo di terra, rappresentato dal poligono. C'era una recinzione che separava la terra in due parti, fatta di pezzi dritti. L'hanno ripartita in modo che la linea passi attraverso il punto $P$, mantenendo le due regioni uguali. Gli angoli di $A$, $B$, $D$, $E$ e $F$ sono rimasti uguali. Utilizzando le dimensioni della figura ($100\,\text{m}$ in alto e $60\,\text{m}$ sul lato destro), qual è il spostamento $FP$?
+> 
+> A) 5 \quad B) 8 \quad C) 10 \quad D) 12 \quad E) 20
+
+![[src_obm_2012_n2_f1__Q04.png]]
+
+[[src_obm_2012_n2_f1__Q04]]

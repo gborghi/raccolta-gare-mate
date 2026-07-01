@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Ecolier (gara marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_ecolier__Q18
 parent: src_kangourou_2012_ecolier
 competition: Kangourou 2012 Ecolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti punti nel quadrato con il punto di domanda del domino*
 
@@ -71,3 +74,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many points in the square with the domain demand point *
+
+![[src_kangourou_2012_ecolier__prob18.png]]
+
+> Each domino card consists of two squares, each of which has a number of points, from 0 to 6. Franco had drawn seven dominoes: two squares of different cards had a side in common only if they had the same number of points. In this way he had obtained a kind of snake, on which stick counted 29 points. His brother removed two cards from the snake, the ones that occupied the white spots in the figure. How many points were in the square with the question mark? A) 2 B) 3 C) 4 D) 5 E) 6 Pag. I'm going to pay. 8 Kang 2012 Kang 2012 nd 2 step st 1 step rd 3 these ground Start 1° step 2° step 3° step ?
+> 
+> I'm going to pay. I'm going to pay. 9 Kang 2012 Kang 2012
+
+**Answer:** A
+[[src_kangourou_2012_ecolier__Q18]]

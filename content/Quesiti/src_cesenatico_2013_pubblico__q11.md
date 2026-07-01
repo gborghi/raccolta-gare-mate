@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_pubblico__Q11
 parent: src_cesenatico_2013_pubblico
 competition: Gara a Squadre Cesenatico 2013 - Gara del pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora quando somma Ghiro supera 2012/2013*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0012
 **Fonte:** [apri PDF p.27](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Now when the sum Ghiro exceeds 2012/2013*
+
+> HardyDardy's vocabulary When Root meets that old head of HardyDardy, he says spooky: The octagon has twice the sides of the square. The hexagon has more sides than the hexagon, which in turn has more than the pentagon. The number of sides of the hexagon is the average between that of the triangle and that of the ennagone. Root immediately agrees, but a moment later HardyDardy explains to her that he has exchanged the names of the polygons from 3 to 9 sides so that no polygon matches his real name. Help Roots figure out how HardyDardy changed the words. The number of sides of a triangle, pentagon, hexagon, anagon is given as a sequential answer.
+
+**Answer:** 0012
+[[src_cesenatico_2013_pubblico__Q11]]

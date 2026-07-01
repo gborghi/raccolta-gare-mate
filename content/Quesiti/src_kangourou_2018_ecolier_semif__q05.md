@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Ecolier — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q05
 parent: src_kangourou_2018_ecolier_semif
 competition: Kangourou 2018 Semifinale Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prezzo articolo regalo data spesa totale di 25 euro*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12RJbo4WQyFx3m4vMHKRiOwlOuiEa6SZd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Price of the gift item given total expenditure of EUR 25
+
+> A shop offers this promotion: if you buy four items at four different prices, you will get a fifth item of your choice as long as it is lower than the prices of each item purchased. Each item is priced at an integer of EUR and there are items of all sizes priced between EUR 1 and EUR 30. Stefano brought home five items at a cost of 25 euros in total and chose as a gift the one with the highest possible price compared to what he paid. What is the price in euros for the item you gave as a gift? A) 2 B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** B
+[[src_kangourou_2018_ecolier_semif__Q05]]

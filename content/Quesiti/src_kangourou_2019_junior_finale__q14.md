@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale nazionale Junior — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q14
 parent: src_kangourou_2019_junior_finale
 competition: Kangourou 2019 Finale nazionale Junior
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punti raggiungibili con tre mosse (invariante MCD)*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2664
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Three-step achievable points (invariant MCD) < MSK1/>
+
+> Triathlon is a discipline that requires three trials: swimming, running, and cycling. Three-quarters of the total distance to be covered shall be cycled, one-fifth of the total distance shall be covered on foot, and the distance to be covered by swimming shall be 2 km. How many miles is the entire route?
+>
+> - **(A)** 10
+> - **(B)** 20
+> - **(C)** 38
+> - **(D)** 40
+> - **(E)** 60
+
+**Answer:** 2664
+[[src_kangourou_2019_junior_finale__Q14]]

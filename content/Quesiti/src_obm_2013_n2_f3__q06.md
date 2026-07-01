@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f3__Q06
 parent: src_obm_2013_n2_f3
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 3
@@ -40,6 +41,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n semirays from each of A and B; minimum distinct circles through intersection points*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VmF6cRGRwHnU6LZqHAbDQ8RpHge5JFX2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*n semiraie da ciascuna di A e B; cerchi distinti minimi attraverso i punti di intersezione*
+
+> Considera un intero positivo $n$ e due punti $A$ e $B$ in un piano. A partire dal punto $A$ vengono disegnati semiray $n$ e a partire dal punto $B$ vengono disegnati semiray $n$, in modo tale che tutti si trovino nel semiplano definito dalla linea $AB$ e che tutti gli angoli formati dai semiray $2n$ con segmento $AB$ siano acuti. Definire i cerchi che attraversano $A$, $B$ e attraverso ogni punto di intersezione tra un semiray da $A$ e un semiray da $B$. Qual è il numero minimo di **cerchi ** distinti che possono essere definiti con questa costruzione?
+
+[[src_obm_2013_n2_f3__Q06]]

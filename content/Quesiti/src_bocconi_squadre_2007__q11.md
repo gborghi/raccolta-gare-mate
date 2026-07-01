@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2007 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2007__Q11
 parent: src_bocconi_squadre_2007
 competition: Gara a Squadre 2007
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero moltiplicato per 792 con cifre parzialmente illeggibili*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number multiplied by 792 with partially unreadable digits*
+
+> On an old sheet, which emerges from the memories of a cellar, is a product. However, time has rendered the second factor and 3 of the 11 digits of the result unreadable (where each of the 3 unreadable digits has now been replaced by a dots): $$792 \times \boxed{\phantom{00}} = 1989 \cdot 1990 \cdots$$ For what number was 792 multiplied?
+
+[[src_bocconi_squadre_2007__Q11]]

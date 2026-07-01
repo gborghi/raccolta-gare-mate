@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2017__Q04
 parent: src_cesenatico_2017
 competition: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *prodotti spigoli opposti uguali*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JISzedSazgC79gEUAMWBmfIAmPO-Z1X9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> equal opposite corners < MSK1/>
+
+> ABCD is a tetrahedron with the following properties: A′, B′, C′, D′, respectively, the centers of the faces BCD, ACD, ABD and ABC, so that the directions AA′, BB′, CC′ and DD′ have one thing in common. Demonstrate that the product of the lengths of two opposite sides of the tetrahedron is constant, i.e. AB·CD = AC·BD = AD·BC.
+
+[[src_cesenatico_2017__Q04]]

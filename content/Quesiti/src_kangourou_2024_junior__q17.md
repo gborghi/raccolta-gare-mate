@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q17
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti gettoni in totale nelle quattro scatole autoreferenziali*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total number of tokens in the four self-reference boxes*
+
+> There are four boxes numbered 1 to 4. For n = 1, 2, 3, the box numbered with n contains as many tokens as the boxes containing n tokens. Box number 4 contains as many tokens as the number of boxes that do not contain tokens. How many tokens are there in the boxes? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** C
+[[src_kangourou_2024_junior__Q17]]

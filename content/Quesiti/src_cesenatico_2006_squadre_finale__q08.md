@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q08
 parent: src_cesenatico_2006_squadre_finale
 competition: Gara a Squadre Cesenatico 2006 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo multiplo di 73 con quadrato >=63 divisori*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1752
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Little multiple of 73 with square >=63 divisors< MSK1/>
+
+> 8. The ghost guarding the entrance to the house of Rapporteur, to which Hardy, Hermita and Ron belong, allows entry only to those who can solve easy mathematical questions. The ghost asks which is the smallest integer multiple of 73 such that its square has at least 63 divisors. What's the keyword?
+
+**Answer:** 1752
+[[src_cesenatico_2006_squadre_finale__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Cadet — Quesito C6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_finale__QC6
 parent: src_kangourou_2020_cadet_finale
 competition: Kangourou 2020 Finale nazionale Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante coppie ordinate (x,y) interi con x^2+7y=xy*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1USVAWxQY6y2E_COFv5RMawnN3IdAjH49/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many whole pairs (x,y) are ordered with x^2+7y=xy*
+
+> How many pairs $(x, y)$ of integers (not necessarily positive) such as $x^2 + 7y = xy$?
+
+**Answer:** 6
+[[src_kangourou_2020_cadet_finale__QC6]]

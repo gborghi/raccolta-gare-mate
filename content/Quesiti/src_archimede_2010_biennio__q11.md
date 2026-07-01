@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Biennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_biennio__Q11
 parent: src_archimede_2010_biennio
 competition: Giochi di Archimede 2010 - Biennio
@@ -30,6 +31,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro triangolo con angoli 30 e 105 e lato 2*
 
@@ -49,3 +52,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 **Anche in triennio:** [apri PDF p.5](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangle perimeter with angles 30 and 105 and side 2*
+
+> In a triangle two angles measure 30° and 105° respectively and the side between them is 2 cm long. What is the size of the perimeter of the triangle?
+>
+> - **(A)** (5 + √ 3) cm,
+> - **(B)** (2 + 2 √ 3 + √ 2) cm,
+> - **(C)** (3 + √ 3 + √ 2) cm,
+> - **(D)** (5 + √ 2) cm,
+> - **(E)** (2 + 3 √ 3) cm.
+
+**Answer:** C
+[[src_archimede_2010_biennio__Q11]]

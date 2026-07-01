@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q10
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *tragitti*
 
@@ -60,3 +63,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+
+![[src_kangourou_2016_cadet_marzo__prob10.png]]
+
+> Four squares P, Q, R, S are connected to each other by some paths according to the pattern you see in the figure. You want to organize a race that goes through each road exactly once, starting from P and ending in R. How many trails are possible for the race? A) 10
+> 	
+> B) 8
+> 	
+> C) 6 D) 4
+> 	
+> E) 2 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** E
+[[src_kangourou_2016_cadet_marzo__Q10]]

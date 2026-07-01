@@ -1,6 +1,7 @@
 ---
 title: IMO 2020 (LXI International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2020__Q01
 parent: src_imho_2020
 competition: IMO 2020 (LXI International Mathematical Olympiad)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angle bisectors and perpendicular bisector meet at a point*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lHIqSWrqlVCOmcFjndDhEYM3gZRYMB5g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Angle bisectors and perpendicular bisector meet at a point*
+
+> Consider the convex quadrilateral < MSK1/>. The point $P$ is in the interior of $ABCD$. The following ratio equalities hold: $$\angle PAD : \angle PBA : \angle DPA = 1 : 2 : 3 = \angle CBP : \angle BAP : \angle BPC.$$ Prove that the following three lines meet in a point: the internal bisectors of angles $\angle ADP$ and $\angle PCB$ and the perpendicular bisector of segment $AB$.
+
+[[src_imho_2020__Q01]]

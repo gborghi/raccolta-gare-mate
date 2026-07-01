@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_a__Q03
 parent: src_prmo_2015_a
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -32,6 +33,8 @@ tags:
   - regione/a
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two quadratics share exactly one common root; find $k$*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due quadratici condividono esattamente una radice comune; trovare $k$*
+
+> Le equazioni $x^2 - 4x + k = 0$ e $x^2 + kx - 4 = 0$, dove $k$ è un numero reale, hanno esattamente una radice comune. Qual è il valore di $k$?
+
+**Risposta:** 3
+[[src_prmo_2015_a__Q03]]

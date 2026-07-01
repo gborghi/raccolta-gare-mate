@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre semifinale turno A — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q04
 parent: src_kangourou_2012_squadre_semifinale
 competition: Kangourou 2012 squadre semifinale turno A
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero scritto la prima volta dato differenza 14789*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 532
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number written the first time given difference 14789*
+
+> By adding two 1, Stephen wrote a number and then added a 1 before his digits and another 1 after his digits (for example, if he had written 17 the first time, he would have written 1171). If you make the difference between the number written the second time and the number written the first time, you get 14789. What number did you write the first time?
+
+**Answer:** 532
+[[src_kangourou_2012_squadre_semifinale__Q04]]

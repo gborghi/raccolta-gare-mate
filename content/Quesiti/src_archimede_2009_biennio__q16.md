@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Biennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_biennio__Q16
 parent: src_archimede_2009_biennio
 competition: Giochi di Archimede 2009 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto raggi moneta oro e monete argento tangenti*
 
@@ -45,3 +48,20 @@ tags:
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Report of tangent gold and silver coins < MSK1/>
+
+> A gold coin is surrounded by four equal silver coins. Each silver coin is equivalent to the gold coin and to two silver coins. Find the ratio of the gold coin radius to that of the silver coins.
+>
+> - **(A)** 1 4,
+> - **(B)** √ 2 −1,
+> - **(C)** 1 2,
+> - **(D)** √ 2 2 ,
+> - **(E)** 1.
+
+**Answer:** B
+[[src_archimede_2009_biennio__Q16]]

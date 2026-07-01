@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior Semifinale individuale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_semifinale__Q12
 parent: src_kangourou_2021_junior_semifinale
 competition: Kangourou 2021 Junior Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Avanzamento del punto P del cingolo se mezzo avanza 20cm*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0040
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Forwarding of the P-point of the beam if half forward 20 cm*
+
+![[src_kangourou_2021_junior_semifinale__prob12.png]]
+
+> (5 points) The figure outlines the rim of a half-circle whose wheels have a radius of 1/π meters with a centre distance of 3 meters. The lower part of the ring is in contact with a regular flat ground and P denotes the point halfway up the current upper part of the ring. If the middle moves 20 centimeters, how many centimeters does the point P move, relative to the ground?
+
+**Answer:** 0040
+[[src_kangourou_2021_junior_semifinale__Q12]]

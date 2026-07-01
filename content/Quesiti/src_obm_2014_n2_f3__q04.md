@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f3__Q04
 parent: src_obm_2014_n2_f3
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square, equal segments on sides, area product identity*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1r_0ohfJcDfYsegu0fO1NCvt_VFQTKDiP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadratto, segmenti uguali a lato, superficie identica del prodotto*
+
+> $ABCD$ sia un quadrato con il centro $O$. I punti $E$, $F$, $G$, $H$ siano punti interni sui lati $AB$, $BC$, $CD$, $DA$, rispettivamente, in modo tale che $AE = BF = CG = DH$. Supponiamo che la riga $OA$ incontra $HE$ al punto $X$, la riga $OB$ incontra $EF$ al punto $Y$, la riga $OC$ incontra $FG$ al punto $Z$ e la riga $OD$ incontra $GH$ al punto $W$. Dato che $\text{Area}(EFGH) = 1$, trovare $$\left(\text{Area}\,ABCD\right) \times \left(\text{Area}\,XYZW\right).$$
+
+[[src_obm_2014_n2_f3__Q04]]

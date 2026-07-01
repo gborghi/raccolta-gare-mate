@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q01
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di 2005x100+2005*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total value of the securities issued by the issuer.
+
+> How much is 2005 x 100 plus 2005? A) 2005002005 B) 20052005 C) 2007005 D) 202505 E) 22055
+
+**Answer:** D
+[[src_kangourou_2005_benjamin__Q01]]

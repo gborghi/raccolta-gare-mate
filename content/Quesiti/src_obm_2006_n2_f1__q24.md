@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q24
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Digital clock shows time to nearest minute; count even-digit displays*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'orologio digitale mostra l'ora fino al minuto più vicino; contare gli schermi a numeri pari*
+
+> Un orologio digitale mostra l'ora in ore e minuti utilizzando quattro cifre. Ad esempio, a $00{:}00$ sappiamo che è mezzanotte e a $23{:}59$ appare un minuto prima di mezzanotte. Il numero di volte al giorno che tutte e quattro le cifre mostrate sono pari è:
+> 
+> **A) ** 60 \quad **B) ** 105 \quad **C) ** 180 \quad **D) ** 240 \quad **E) ** 56
+
+**Risposta:** B
+[[src_obm_2006_n2_f1__Q24]]

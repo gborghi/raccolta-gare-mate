@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2017 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2017__Q08
 parent: src_smc_2017
 competition: Senior Mathematical Challenge 2017
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which of 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} is not an integer?*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Quale di 1^{-1}, 4^{-1/2}, 6^0, 8^{2/3}, 16^{3/4} non è un numero intero?
+
+> Quando viene valutato, quale delle seguenti non è un numero intero?
+>
+> - **(A)** $1^{-1}$
+> - **(B)** $4^{-\frac{1}{2}}$
+> - **(C)** $6^0$
+> - **(D)** $8^{\frac{2}{3}}$
+> - **(E)** $16^{\frac{3}{4}}$
+
+**Risposta:** B
+[[src_smc_2017__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2008 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2008__Q07
 parent: src_bocconi_autunno_2008
 competition: Giochi d'Autunno 2008
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti con almeno una faccia colorata in un cubo tagliato*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 56
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Cubs with at least one coloured face in a cut cube< MSK1/>
+
+> We paint all the faces of a big cube. Then, with a saw, we make 9 cuts so that we divide it into smaller cubes all the same size. We don't move any pieces until we've completed the cuts. Of the small cubes thus obtained, some are colored (in the sense that they have at least one painted face); others have no trace of color. How many small, colorful cubes are there?
+
+**Answer:** 56
+[[src_bocconi_autunno_2008__Q07]]

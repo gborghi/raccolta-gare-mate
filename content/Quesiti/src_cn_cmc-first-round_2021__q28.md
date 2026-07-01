@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 28
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q28
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A2-6: f(x) on R, f(x)=2^x-x on [0,1), f(x)+f(x+1)=1, a=log_2 3; find f(a)+f(2a)+f(3a).*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A2-6: f(x) su R, f(x)=2^x-x su [0,1), f(x)+f(x+1)=1, a=log_2 3; trovare f(a)+f(2a)+f(3a).*
+
+> La funzione $f(x)$ con dominio $\mathbb{R}$ soddisfa: quando $x\in[0,1)$, $f(x)=2^x-x$, e per qualsiasi numero reale $x$, c'è $f(x)+f(x+1)=1$. Denotare $a=\log_2 3$, e quindi il valore dell'espressione $f(a)+f(2a)+f(3a)$ è ______.
+
+**Risposta:** \dfrac{17}{16}
+[[src_cn_cmc-first-round_2021__Q28]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q06
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area dell’esagono grande (lato doppio)*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Large area of the axis (double side) < MSK1/>
+
+![[src_kangourou_2014_junior__prob6.png]]
+
+> The length of the sides of the large regular axis in the figure is twice the length of the sides of the small regular axis. The area of the small hexagon is 4 cm2. How many square centimetres is the area of the large hexagon? A) 16
+> 	
+> B) 14
+> 	
+> C) 12
+> 	
+> D) 10
+> 	
+> E) 8
+
+**Answer:** A
+[[src_kangourou_2014_junior__Q06]]

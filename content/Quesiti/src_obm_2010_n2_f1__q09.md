@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q09
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle, angle BAC=140, midpoints M,N, P foot of perpendicular, find angle NMP*
 
@@ -46,3 +49,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo, angolo BAC=140, punti di mezzo M, N, P piede perpendicolare, angolo di ricerca NMP*
+
+> In triangolo $ABC$, $m(B\hat{A}C) = 140^\circ$. Il $M$ deve essere il punto medio di $BC$, $N$ il punto medio di $AB$ e $P$ il punto laterale $AC$ in modo tale che $MP$ sia perpendicolare a $AC$. Qual è la misura dell'angolo < MSK10/>?
+>
+> - **(A)** $40^\circ$
+> - **(B)** $50^\circ$
+> - **(C)** $70^\circ$
+> - **(D)** $90^\circ$
+> - **(E)** $100^\circ$
+
+[[src_obm_2010_n2_f1__Q09]]

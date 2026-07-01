@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Ecolier — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q10
 parent: src_kangourou_2020_ecolier_marzo
 competition: Kangourou 2020 Gara marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale immagine vede Luca guardando la piramide dall alto*
 
@@ -49,3 +52,23 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What image does Luke see looking at the pyramid from above
+
+![[src_kangourou_2020_ecolier_marzo__prob10.png]]
+
+> Luke looks up at the pyramid you see below.
+>          
+> 	
+> A) B)
+> 	
+> C)
+> 	
+> D) E) Which of the images here on the side do you see?
+
+**Answer:** C
+[[src_kangourou_2020_ecolier_marzo__Q10]]

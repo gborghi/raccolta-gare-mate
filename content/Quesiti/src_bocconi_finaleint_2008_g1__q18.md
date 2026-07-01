@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q18
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -39,6 +40,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lingotti: massima quantita d'oro NON ottenibile esattamente con combinazioni di quattro tipi di mattoni.*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2017
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Gold: maximum amount of gold NOT exactly obtained from combinations of four types of bricks.*
+
+> Picsou owns four types of gold bullion, each available in infinite quantities. They are rectangular bricks $A$, $B$, $C$ and $D$ of the same density, the dimensions in centimetres being: $\bullet$ $3$, $4$ and $7$ respectively for $A$; $\bullet$ $3$, $4$ and $11$ for $B$; $\bullet$ $3$, $7$ and $11$ for $C$; $\bullet$ $4$, $7$ and $11$ for $D$. With four < MSK24/> bars, one < MSK25/> bar, four < MSK26/> bars and two < MSK27/> bars, Picsou obtains an exact amount of gold equal to < MSK28/> cm< MSK29/>. What is the maximum amount of gold in cm$^3$ that you cannot get exactly?
+
+**Answer:** 2017
+[[src_bocconi_finaleint_2008_g1__Q18]]

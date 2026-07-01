@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q10
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie m,n interi con m^2=n^2+17*
 
@@ -60,3 +63,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Integer pairs m,n with m2=n2+17 < MSK1/>
+
+> How many pairs of positive integers m, n (with m > n) are such that m 2 = n 2 + 17? A) none B) one C) two D) four E) infinite 21 16 27 x E A B F junior_05_D.qxp 21/02/2005 16.13 Page 23
+> 
+> I'm going to pay. I'm going to pay. 24 24 Kang 2005 Kang 2005 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** B
+[[src_kangourou_2005_junior__Q10]]

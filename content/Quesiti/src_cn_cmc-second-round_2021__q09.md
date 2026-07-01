@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Second Round) 2021 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-second-round_2021__Q09
 parent: src_cn_cmc-second-round_2021
 competition: China Mathematical Competition (Second Round) 2021
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimize sum of prefix products of a decreasing non-negative sequence*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimizzare la somma dei prodotti prefissi di una sequenza non negativa in diminuzione*
+
+> (Test Paper B, Problem 2) Con un numero intero $n \geq 2$, lasciate che i numeri reali non negativi $a_1, a_2, \ldots, a_n$ soddisfino $$a_1 \geq a_2 \geq \cdots \geq a_n.$$ Trovare il minimo di $$a_1 + a_1 a_2 + a_1 a_2 a_3 + \cdots + a_1 a_2 \cdots a_n.$$
+
+[[src_cn_cmc-second-round_2021__Q09]]

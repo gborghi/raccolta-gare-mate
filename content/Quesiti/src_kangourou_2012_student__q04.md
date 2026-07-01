@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q04
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colore della somma di un numero rosso e uno blu*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Color of the sum of a number red and a number blue*
+
+> In two hours, 10 workers dig a 60-foot-long ditch. How many feet of ditch can 20 workers dig in 20 minutes? A) 3 B) 4,5 C) 5 D) 6 E) 12
+
+[[src_kangourou_2012_student__Q04]]

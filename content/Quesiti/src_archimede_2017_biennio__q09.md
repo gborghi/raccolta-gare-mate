@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Biennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_biennio__Q09
 parent: src_archimede_2017_biennio
 competition: Giochi di Archimede 2017 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo con angoli BAD=ACD e CAD=ABD*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/112mFupkYpsCYPbpzDQ0mOl_VW0wTFJK_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangle with angles BAD=ACD and CAD=ABD*
+
+> So ABC is a triangle and D is a point on the BC side. Let's say you have \ BAD = \ ACD and \ CAD = \ ABD. Which of the following is certainly true?
+>
+> - **(A)** ABC is an equilateral triangle
+> - **(B)** ABC is an octagonal triangle.
+> - **(C)** ABC is an isosceles triangle.
+> - **(D)** ABC is a right triangle.
+> - **(E)** ABC is a right triangle.
+
+**Answer:** E
+[[src_archimede_2017_biennio__Q09]]

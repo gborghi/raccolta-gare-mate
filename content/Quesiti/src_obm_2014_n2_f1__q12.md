@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f1__Q12
 parent: src_obm_2014_n2_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify rear view of a 2x2x3 block of black and white cubes*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare la visione posteriore di un blocco di cubi bianchi e neri 2x2x3*
+
+> La figura a destra mostra un blocco rettangolare costruito con sei cubi neri e sei cubi bianchi, tutti della stessa dimensione. Quale delle figure di seguito mostra lo stesso blocco visto da dietro?
+> 
+> (A) figura A $\quad$ (B) figura B $\quad$ (C) figura C $\quad$ (D) figura D $\quad$ (E) figura E
+
+![[src_obm_2014_n2_f1__Q12.png]]
+
+**Risposta:** B
+[[src_obm_2014_n2_f1__Q12]]

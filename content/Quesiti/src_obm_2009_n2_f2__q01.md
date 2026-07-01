@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f2__Q01
 parent: src_obm_2009_n2_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Add water to dilute 9L alcohol mixture to 30% alcohol*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Aggiungere acqua per diluire la miscela di alcol da 9L al 30% di alcol< MSK1/>
+
+> Esmeralda ha una bottiglia contenente 9 litri di una miscela che è di 50% alcol e 50% acqua. Vuole aggiungere acqua alla bottiglia in modo che la miscela risultante sia solo alcol del 30%. Quanti litri di acqua dovrebbe aggiungere?
+
+[[src_obm_2009_n2_f2__Q01]]

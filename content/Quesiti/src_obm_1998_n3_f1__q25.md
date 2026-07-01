@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f1__Q25
 parent: src_obm_1998_n3_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1
@@ -40,6 +41,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given a cube, consider the 27 points formed by vertices, edge midpoints, face centers and the cube center; count the lines passing through three of these points.*
 
@@ -61,3 +64,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dato un cubo, considera i 27 punti formati da vertici, punti di bordo, centri facciali e il centro del cubo; conta le linee che passano attraverso tre di questi punti.*
+
+> Considerando un cubo, si considera l'insieme dei punti $27$ formati dalle vertici di questo cubo, i punti medi dei suoi bordi, i centri delle sue facce e il centro del cubo. Quante linee passano attraverso tre di questi punti?
+> 
+> A) $49$
+> 
+> B) $54$
+> 
+> C) $63$
+> 
+> D) $81$
+> 
+> E) $108$
+
+**Risposta:** A
+[[src_obm_1998_n3_f1__Q25]]

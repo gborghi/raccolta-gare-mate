@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 32
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q32
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A2-10: ellipse, A major-axis vertex, B minor-axis vertex, F focus; symmetric P,Q with FP·FQ+FA·FB=|AB|^2; prove F on extension of AO and find eccentricity range.*
 
@@ -47,3 +50,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A2-10: ellisse, Vertice A-asse maggiore, Vertice B-asse minore, Foco F; P,Q simmetrico con FP·FQ+FA·FB=EAS AB-EAS^2; prova F sull'estensione di AO e trova intervallo di eccentricità.*
+
+> [Test Paper A2, Problem 10] (20 marks) In un sistema di coordinate retangolare piano $xOy$, data l'ellisse $$\Gamma:\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}=1\quad(a>b>0),$$, $A$ sia uno dei vertici del suo asse maggiore, $B$ sia uno dei vertici del suo asse minore e $F$ sia uno dei suoi foci. È noto che esistono due punti $P$ e $Q$ su $\Gamma$ che sono simmetrici circa $O$ in modo tale che $$\overrightarrow{FP}\cdot\overrightarrow{FQ}+\overrightarrow{FA}\cdot\overrightarrow{FB}=|AB|^2.$$ (1) Prove che il punto focale $F$ si trova sull'estensione di $AO$; (2) trova l'intervallo di eccentricità di $\Gamma$.
+
+**Risposta:** e\in\left[\dfrac{3}{4},\dfrac{-1+\sqrt{37}}{6}\right]
+[[src_cn_cmc-first-round_2021__Q32]]

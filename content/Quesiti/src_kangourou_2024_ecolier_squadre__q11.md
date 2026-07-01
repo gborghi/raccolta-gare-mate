@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre__Q11
 parent: src_kangourou_2024_ecolier_squadre
 competition: Kangourou Squadre 2024 Ecolier Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri 2 cifre con prodotto cifre di una cifra*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0032
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers 2 digits with product of digits 1 *
+
+> Single digit What are the integers of two digits (hence greater than 9 and less than 100) such that the product of their digits is a single digit number? The answer is 0032.
+
+**Answer:** 0032
+[[src_kangourou_2024_ecolier_squadre__Q11]]

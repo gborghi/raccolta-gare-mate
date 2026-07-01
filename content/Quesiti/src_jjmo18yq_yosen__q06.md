@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo18yq_yosen__Q06
 parent: src_jjmo18yq_yosen
 competition: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum number of L-shaped 4-unit blocks in 5x5x5 cube minus 8 corners*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 27
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nombre massimo di blocchi a 4 unità a forma di L in cubo 5x5x5 meno 8 angoli*
+
+> Considera il solido $Q$ ottenuto da un cubo $5 \times 5 \times 5$ rimuovendo un cubo unitario da ciascun angolo $8$. Considera inoltre il blocco a forma di L $L$ costituito da cubetti unitari $4$ (come mostrato) e singoli cubetti unitari (lenghezza laterale $1$). Quando $Q$ è suddiviso in copie di $L$ e singoli cubetti unitari, trovare il numero massimo possibile di blocchi $L$ utilizzati.
+
+![[src_jjmo18yq_yosen__Q06.png]]
+
+**Risposta:** 27
+[[src_jjmo18yq_yosen__Q06]]

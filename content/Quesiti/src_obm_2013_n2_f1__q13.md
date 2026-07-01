@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q13
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest quantity of chocolates not exactly purchasable from boxes of 8,9,10*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>La maggior quantità di cioccolatini non esattamente acquistabili da scatole di 8,9,10 < MSK1/>
+
+> In un negozio di cioccolato ci sono scatole di cioccolati 8, 9 e 10. Si noti che non si possono acquistare esattamente alcune quantità; ad esempio, non si possono acquistare esattamente 12 cioccolatini. Qual è la maggior quantità di cioccolati che non si possono acquistare esattamente in questo negozio?
+> 
+> (A) 25 \quad (B) 13 \quad (C) 11 \quad (D) 31 \quad (E) 53
+
+**Risposta:** D
+[[src_obm_2013_n2_f1__Q13]]

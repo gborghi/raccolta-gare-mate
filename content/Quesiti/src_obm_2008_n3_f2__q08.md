@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f2__Q08
 parent: src_obm_2008_n3_f2
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trapezoid inscribed in circle of radius 25, CD diameter, height 24, compute AF·BG/FG*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trapezoide inciso in un cerchio di raggio 25, diametro CD, altezza 24, calcolo AF·BG/FG*
+
+> Un trapezoide $ABCD$, con lati paralleli $AB \parallel CD$, è inserito in un cerchio di raggio $25$. È noto che $CD$ è diametro e che l'altezza del trapezoide è $24$. Il punto $E$ deve essere il punto sull'arco $AB$ (sull'arco minore determinato da $A$ e $B$) con la più piccola distanza da $AB$ a $A$ e $B$. $F$ e $G$ siano rispettivamente i punti di intersezione delle linee $ED$ e $EC$ con $AB$. Calcolo < MSK0/>
+
+[[src_obm_2008_n3_f2__Q08]]

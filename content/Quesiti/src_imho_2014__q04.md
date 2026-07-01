@@ -1,6 +1,7 @@
 ---
 title: IMO 2014 (LV International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2014__Q04
 parent: src_imho_2014
 competition: IMO 2014 (LV International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lines BM and CN concur on circumcircle of triangle ABC*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Lines BM and CN concur on circumcircle of triangle ABC
+
+> Points $P$ and $Q$ lie on side $BC$ of acute-angled triangle $ABC$ so that $\angle PAB = \angle BCA$ and $\angle CAQ = \angle ABC$. Points $M$ and $N$ lie on lines $AP$ and $AQ$, respectively, such that $P$ is the midpoint of $AM$, and $Q$ is the midpoint of $AN$. Prove that lines $BM$ and $CN$ intersect on the circumcircle of triangle $ABC$.
+
+[[src_imho_2014__Q04]]

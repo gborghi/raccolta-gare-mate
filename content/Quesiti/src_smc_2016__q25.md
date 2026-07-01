@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2016 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2016__Q25
 parent: src_smc_2016
 competition: Senior Mathematical Challenge 2016
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Let n be the smallest integer such that 7n has 2016 digits. What is the units digit of n?*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lasciate che n sia il numero intero più piccolo in modo tale che 7n abbia 2016 cifre. Qual è la cifra di unità di n?*
+
+> $n$ sia il numero intero più piccolo in modo che $7n$ abbia 2016 cifre. Qual è la cifra di unità di $n$?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 4
+> - **(D)** 6
+> - **(E)** 8
+
+**Risposta:** D
+[[src_smc_2016__Q25]]

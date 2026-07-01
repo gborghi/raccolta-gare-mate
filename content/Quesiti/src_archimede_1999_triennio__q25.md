@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1999 - Triennio — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_triennio__Q25
 parent: src_archimede_1999_triennio
 competition: Giochi di Archimede 1999 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza da O per corde una doppia dell'altra*
 
@@ -64,3 +67,36 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance from O by two strings of the other *
+
+![[src_archimede_1999_triennio__prob25.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.3]
+  \draw (0,0) circle (2);
+  \draw (1,0) circle (1);
+  \draw (1,-1.732) -- (1,1.732);
+  \draw (-2,0) -- (2,0);
+  \fill (1,0) circle (1.3pt);
+  \node[below left] at (0,0) {$O$};
+  \node[below right] at (1,0) {$P$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The circles drawn next to each other have radii 2 and 1 and are tangent internally at point A. How far from O must the point P be so that the strings intercepted by the perpendicular in P at OA are twice the length of the other?
+>
+> - **(A)** 1 6
+> - **(B)** 1 3
+> - **(C)** 1 2
+> - **(D)** 2 3
+> - **(E)** 3 4. O b P A
+
+**Answer:** D
+[[src_archimede_1999_triennio__Q25]]

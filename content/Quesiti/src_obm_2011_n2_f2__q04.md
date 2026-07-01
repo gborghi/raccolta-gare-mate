@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f2__Q04
 parent: src_obm_2011_n2_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count two-digit numbers whose 4th power ends in 01*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rTFVytZ0r4ui2fCSYnm5ciGL2P0QyY5F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri a due cifre la cui quarta potenza termina in 01*
+
+> Il numero $7$, sollevato alla quarta potenza, termina in $01$: $7^4 = 2401$. Quanti numeri a due cifre, sollevati alla quarta potenza, finiscono in $01$?
+
+[[src_obm_2011_n2_f2__Q04]]

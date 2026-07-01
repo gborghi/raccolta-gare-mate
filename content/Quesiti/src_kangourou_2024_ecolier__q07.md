@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Ecolier 2024 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier__Q07
 parent: src_kangourou_2024_ecolier
 competition: Kangourou Categoria Ecolier 2024
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante piastrelle grigie nasconde il poster*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many gray tiles does the poster hide< MSK1/>
+
+![[src_kangourou_2024_ecolier__prob7.png]]
+
+> Alex's kitchen wall is lined with white and gray chessboard tiles. Now Alex has hung the poster you see in the picture on the wall. How many gray tiles are hidden in the poster? A) 15
+> 	
+> B) 21
+> 	
+> C) 25 D) 30 E) 35
+
+**Answer:** B
+[[src_kangourou_2024_ecolier__Q07]]

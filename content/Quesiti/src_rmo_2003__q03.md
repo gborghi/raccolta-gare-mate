@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2003 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2003__Q03
 parent: src_rmo_2003
 competition: Regional Mathematical Olympiad 2003
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove min of three expressions ≤1/4 and max ≥2/9 when a+b+c=1*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14_140H2POZbGtUVbO-snI4nHRD_OSqhe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove min di tre espressioni ≤1/4 e max ≥2/9 quando a+b+c=1*
+
+> $a, b, c$ siano tre numeri reali positivi come $a + b + c = 1$. Prova che tra i tre numeri $a - ab$, $b - bc$, $c - ca$ c'è uno che è al massimo $\frac{1}{4}$ e c'è uno che è almeno $\frac{2}{9}$.
+
+[[src_rmo_2003__Q03]]

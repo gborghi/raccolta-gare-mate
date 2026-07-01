@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q02
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation roots condition*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Condizione delle radici dell'equazione funzionale*
+
+> Let < MSK1/>. Se per tutti i $x$ $$f\!\left(x + \frac{1}{x}\right) = f(x) + f\!\left(\frac{1}{x}\right)$$ reali non zero e le radici di $f(x) = 0$ sono numeri interi, qual è il valore di $a^2 + b^2$?
+
+**Risposta:** 13
+[[src_prmo_2019__Q02]]

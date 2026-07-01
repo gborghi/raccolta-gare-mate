@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q21
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti canguri tra 15 animali (10 non leoni, 8 non elefanti)*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many kangaroos out of 15 animals (10 non-lions, 8 non-elephants) < MSK1/>
+
+> In a zoo there are a total of 15 animals: lions, elephants and kangaroos. Ten are not lions, eight are not elephants. How many kangaroos are there? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 10
+> 	
+> E) 18
+
+**Answer:** B
+[[src_kangourou_2019_ecolier_marzo__Q21]]

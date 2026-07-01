@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f1__Q25
 parent: src_obm_2014_n2_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest difference between consecutive 4-distinct-digit numbers in sorted list*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La più grande differenza tra numeri consecutivi a 4 cifre distinte nell'elenco ordinato*
+
+> Juca fece un elenco di tutti i numeri interi positivi con quattro cifre distinte, scritti in ordine crescente. Ha poi fatto un'altra lista delle differenze positive tra tutte le coppie di numeri consecutivi nella prima lista. Qual è il numero più grande che appare nella seconda lista di Juca?
+> 
+> (A) 25 $\quad$ (B) 36 $\quad$ (C) 45 $\quad$ (D) 103 $\quad$ (E) 105
+
+**Risposta:** E
+[[src_obm_2014_n2_f1__Q25]]

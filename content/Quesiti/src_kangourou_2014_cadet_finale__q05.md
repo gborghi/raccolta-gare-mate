@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale Cadet — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet_finale__Q05
 parent: src_kangourou_2014_cadet_finale
 competition: Kangourou 2014 finale Cadet
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dipingere 20 quadrati 8x8 con copertura adiacente*
 
@@ -38,3 +41,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AnnZ-qUV6dWWweXJXKQibDtTu2LV1ZDz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Paint 20 8x8 squares with adjacent cover*
+
+![[src_kangourou_2014_cadet_finale__prob5.png]]
+
+> $n$ squares of one grid $8 \times 8$ are painted black, the others are white. Each square of the grid, whether white or black, is adjacent to (i.e. has a side in common with) a black square (different from it in the case of black). It shows you can do it by just blacking out 20 squares. (Answer by appropriately blacking 20 squares of the grid shown below.) (see figure)
+
+[[src_kangourou_2014_cadet_finale__Q05]]

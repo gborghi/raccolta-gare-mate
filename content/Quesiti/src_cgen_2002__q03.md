@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2002 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2002__Q03
 parent: src_cgen_2002
 competition: Concours Général des Lycées 2002 — Matematica
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Troisieme partie: area under the hyperbola branch y=sqrt(x^2-1) via a Fermat-style trapezoid decomposition, and a limiting area ratio.*
 
@@ -57,3 +60,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lVQd2O4k5TRxqRMW1VeIqgQiGW7QRGQs/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Troisieme partie: superficie sotto il ramo dell'iperbola y=sqrt(x^2-1) attraverso una decomposizione trapezoide di stile Fermat, e un rapporto di superficie limitante.*
+
+> $\mathcal{H}$ è la curva definita da $x \ge 1$ e $y = \sqrt{x^2 - 1}$. Il punto $A$ è un punto di $\mathcal{H}$ e $(r,s)$ delle sue coordinate. Denotare con $\mathcal{A}$ l'area della parte del piano definita dalle relazioni $1 \le x \le r$ e $y^2 \le x^2 - 1$.
+> 
+> **1.** Calcolare $\mathcal{A}$ come funzione di $r$ e $s$ (si può, ad esempio, eseguire una rotazione del telaio per angolo $-\pi/4$).
+> 
+> L'obiettivo di questa domanda è quello di recuperare il risultato precedente utilizzando un metodo il cui principio risale senza dubbio a Fermat, poco dopo il 1658 ("De aequationum localium transmutatione et emendationone ad ultimodam curvilineorum inter se vel cum rectilineis comparationem, cui annectitur proportionis geometricae in quadrandis infinitis parabolis et hyperbolis usu", Oeuvres completa, volume I, pagine 225-285).
+> 
+> Che $n$ sia un intero naturale non zero e $u$ un reale positivo tale che $u^n = r + s$. Per ogni numero intero $k$ tra $1$ e $n$, si considera il trapezoide destro $T_k$ (possibilmente ridotto a triangolo) il cui lato oblico è il segmento con punti terminali i punti delle coordinate $(u^{k-1}, 0)$ e $(u^k, 0)$, le cui basi hanno pendenza $-1$, e uno dei cui angoli retti ha per vertice il punto di $\mathcal{H}$ con abscissa $\dfrac{u^{k-1} + u^{1-k}}{2}$. a. Si definisce così, per ogni valore di $k$, un trapezoide unico $T_k$ (ridotto a triangolo quando $k = 1$): illustrare con uno schizzo. b. Perché si può ipotizzare che la somma delle aree di questi trapeziosi ammetta $\dfrac{\mathcal{A} + s^2}{2}$ come limite quando $n$ tende all'infinito? c. Prove la conjectura precedente utilizzando un'altra sequenza di trapezoi combinata con la prima. d. Recuperare il valore di < MSK17/>.
+> 
+> **3.** $B$ e $C$ siano i punti delle rispettive coordinate $(1,0)$ e $(-1,0)$ e $A$ un punto delle coordinate $(x,y)$ con $x \ge 0$ e $y \ge 0$ in modo tale che il triangolo $ABC$ sia pseudo rettangolo a $A$. Indicare con $S$ la superficie del triangolo $ABC$ e con $S'$ la superficie della parte del piano costituita dai punti della piastra triangolare definiti dal triangolo $ABC$ le cui coordinate $(X,Y)$ soddisfano $Y^2 \le X^2 - 1$. Studiare il limite possibile, poiché < MSK16/> tende all' infinito, del rapporto < MSK17/>.
+
+[[src_cgen_2002__Q03]]

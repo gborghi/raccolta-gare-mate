@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2013 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_classiprime__Q14
 parent: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo primo che divide 251001*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum first dividing by 251001< MSK1/>
+
+> So p is the largest prime number that divides 251001. In the case of the first subparagraph of Article 2 (1) of Regulation (EC) No 1408/71 the Commission shall adopt delegated acts in accordance with the procedure referred to in Article 2 (2) of Regulation (EC) No 1408/71 and in accordance with the procedure referred to in Article 2 (2) of Regulation (EC) No 1408/71.';
+
+**Answer:** A
+[[src_archimede_2013_classiprime__Q14]]

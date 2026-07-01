@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q18
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza traccia della lumaca Tin*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Length of trace of the snail Tin< MSK1/>
+
+![[src_kangourou_2004_benjamin__prob18.png]]
+
+> Four snails crawled on a floor made of rectangular tiles all equal to each other. The figure shows the trace left by each of them. You know that the trail left by Fin is 25 centimetres long, the one left by Pin is 37 centimetres long and the one left by Rin is 38 centimetres long. How long is the trail left by the Tin snail? A) 27 B) 30          C) 35 D) 36          E) 40
+
+**Answer:** C
+[[src_kangourou_2004_benjamin__Q18]]

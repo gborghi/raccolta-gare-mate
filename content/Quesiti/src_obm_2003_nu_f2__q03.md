@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 2 —
   Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_nu_f2__Q03
 parent: src_obm_2003_nu_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count matrices of order 4 over Z/(p) whose square is the identity*
 
@@ -52,3 +55,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta matrici di ordine 4 su Z/(p) il cui quadrato è l'identità*
+
+> $p > 2$ sia un numero primo. $X_p$ sia l'insieme di tutte le matrici quadrate $A$ con coefficienti in $\mathbb{Z}/(p)$ e di ordine $4$ in modo tale che $$A^2 = I : \quad X_p = \left\{ A \in (\mathbb{Z}/(p))^{4 \times 4} \mid A^2 = I \right\}.$$ calcoli il numero di elementi di $X_p$.
+> 
+> **Remark.** $\mathbb{Z}/(p) = \{0, 1, 2, \ldots, p-1\}$ è il campo finito con elementi $p$. L'aggiunta e il prodotto sono definiti modulo $p$; ad esempio, in $\mathbb{Z}/(7)$, $4 + 5 = 2$ e $4 \cdot 5 = 6$.
+
+[[src_obm_2003_nu_f2__Q03]]

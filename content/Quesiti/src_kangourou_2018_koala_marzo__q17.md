@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q17
 parent: src_kangourou_2018_koala_marzo
 competition: Kangourou 2018 Gioco Koala (Marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti gnomi si bagnano (capienza dei funghi)*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1AGwjurQUucDfrq-UuV0KeOG7NZtWOZs2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many gnoms are wet (fungal headings) < MSK1/>
+
+![[src_kangourou_2018_koala_marzo__prob17.png]]
+
+> A storm breaks out and 33 gnoms seek shelter under the four mushrooms you see in the figure. Under each mushroom can be as many gnomes as there are the large white dots on the mushroom's hat. You can only see the front of each fungus in the drawing, but on the opposite side there are the same number of dots. How many gnoms do they get wet? (see figure)
+
+**Answer:** B
+[[src_kangourou_2018_koala_marzo__Q17]]

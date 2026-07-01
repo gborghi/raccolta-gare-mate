@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Junior Finale 2 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_squadre_f2__Q01
 parent: src_kangourou_2023_junior_squadre_f2
 competition: Kangourou Squadre 2023 Junior Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area trapezio date aree triangoli diagonali*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0180
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Trapezoidal area given diagonal triangular areas< MSK1/>
+
+> A trapezoid A trapezoid is divided from its two diagonal sides into four triangles. If 5 and 125 are the areas of the two of these triangles that share one of their sides with one of the parallel sides of the trapezium, how much is the trapezium area?
+
+**Answer:** 0180
+[[src_kangourou_2023_junior_squadre_f2__Q01]]

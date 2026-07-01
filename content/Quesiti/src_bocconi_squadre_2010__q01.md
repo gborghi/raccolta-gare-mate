@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q01
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro parte rettangolare di campo triangolare isoscele*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 240 m
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular part perimeter of isosceles triangular field*
+
+> Professor Pitagoris wants to leave his four children a field shaped like an isosceles triangle whose sides measure 240 m, 150 m, 150 m. Each of the children will receive an area equal to that of his brothers. The older one still wants a rectangular part, while the younger one prefers an isosceles.
+> 
+> What is the perimeter of this part of the field (yellow or otherwise darker in the figure)?
+
+![[src_bocconi_squadre_2010__Q01.png]]
+
+**Answer:** 240 m
+[[src_bocconi_squadre_2010__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - semifinale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q17
 parent: src_kangourou_2021_benjamin_semifinale
 competition: Kangourou 2021 Benjamin - semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante fette di pizza ha mangiato Marco*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ZoOsj72QmushXUD5rVHJ0W3fyHvEdq-b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many slices of pizza did Marco eat?
+
+> (7 points) A pizza was cut into less than 10 slices all of the same size. Mark ate some of them: more but less than the whole pizza. How many slices did you eat?
+
+**Answer:** 5
+[[src_kangourou_2021_benjamin_semifinale__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Écolier (gara marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q17
 parent: src_kangourou_2017_ecolier_marzo
 competition: Kangourou 2017 Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadrati per raddoppiare il perimetro di un rettangolo 1x10*
 
@@ -59,3 +62,35 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Squares for doubling the perimeter of a rectangle 1x10*
+
+![[src_kangourou_2017_ecolier_marzo__prob17.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw[thick] (0,0) rectangle (10,1);
+  \foreach \x in {1,2,...,9} {
+    \draw[thick] (\x,0) -- (\x,1);
+  }
+\end{tikzpicture}
+\end{document}
+```
+
+> A rectangle has sides 1 cm and 10 cm long (as suggested by the figure). How many squares of the side 1 cm must be extended to obtain a rectangle of double perimeter? A) 9
+> 	
+> B) 10
+> 	
+> C) 11
+> 	
+> D) 12
+> 	
+> E) 20
+
+**Answer:** C
+[[src_kangourou_2017_ecolier_marzo__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Second Round) 2021 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-second-round_2021__Q11
 parent: src_cn_cmc-second-round_2021
 competition: China Mathematical Competition (Second Round) 2021
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Non-negative reals S=a+2b+3c, T=a+b^2+c^3: find min of T-S and max of T given S=4*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (1) $-3$; (2) $4$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Reali non negativi S=a+2b+3c, T=a+b^2+c^3: trovare min di T-S e massimo di T dato S=4*
+
+> (Test Paper B1, Problema 1) Lasciate che $a$, $b$, $c$ siano numeri reali non negativi. Denote $S = a + 2b + 3c$, $T = a + b^2 + c^3$. (1) Trovare il minimo di $T - S$. (2) Se $S = 4$, trovare il massimo di $T$.
+
+**Risposta:** (1) $-3$; (2) $4$
+[[src_cn_cmc-second-round_2021__Q11]]

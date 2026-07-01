@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin finale individuale — Quesito B2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_finale__QB2
 parent: src_kangourou_2022_benjamin_finale
 competition: Kangourou 2022 Benjamin finale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura dell'angolo evidenziato con tre quadrati accostati*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 90
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14QgfusYqtaxWZ9wvngN_12GroIjBw4DZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measure of the highlighted angle with three adjacent squares*
+
+![[src_kangourou_2022_benjamin_finale__probB2.png]]
+
+> In the figure, three squares appear to be next to each other. How many degrees does the highlighted angle measure? (see figure)
+
+**Answer:** 90
+[[src_kangourou_2022_benjamin_finale__QB2]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f2__Q01
 parent: src_obm_2011_n2_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real a,b are roots of x²+ax+b=0; find a−b*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rTFVytZ0r4ui2fCSYnm5ciGL2P0QyY5F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Real a,b sono radici di x2+ax+b=0; trovare a−b*
+
+> Lasciate che $a$ e $b$ siano numeri reali non zero in modo tale che l'equazione $x^2 + ax + b = 0$ abbia $a$ e $b$ come soluzioni. Determinare < MSK5/>.
+
+[[src_obm_2011_n2_f2__Q01]]

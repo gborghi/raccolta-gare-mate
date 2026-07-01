@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Student (15 marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_student__Q29
 parent: src_kangourou_2001_student
 competition: Kangourou 2001 - Student (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di pesci catturati dallo zio Marco*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of fish caught by Uncle Marco*
+
+> Uncle Marco caught some fish. He gives his dog the three largest, reducing the total weight of his fishing by 35 percent. He then gives the three smallest fish to his cat, reducing the remaining total weight by 5/13. The family eats the remaining fish for dinner. How many fish did Uncle Marco catch?
+>
+> - **(A)** 8
+> - **(B)** 9
+> - **(C)** 10
+> - **(D)** 11
+> - **(E)** 12.
+
+**Answer:** C
+[[src_kangourou_2001_student__Q29]]

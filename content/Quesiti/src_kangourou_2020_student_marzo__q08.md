@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q08
 parent: src_kangourou_2020_student_marzo
 competition: Kangourou 2020 Student - gara marzo (triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso di un elefante dati cani ed elefanti*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Weight of an elephant given dogs and elephants< MSK1/>
+
+> If D dogs weigh K kilos overall and E elephants weigh as much as M dogs, how many kilos does an elephant weigh? (A) DKEM (B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** D
+[[src_kangourou_2020_student_marzo__Q08]]

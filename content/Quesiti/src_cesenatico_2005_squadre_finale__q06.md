@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q06
 parent: src_cesenatico_2005_squadre_finale
 competition: Gara a Squadre Cesenatico 2005 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero cifre in base 5 di 253^253*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0870
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of digits in base 5 of 253^253*
+
+> The ancient prophecy of the Couranteni people used to count to 5. Their seer one day prophesied that the kingdom of the Courantenes would last as many years as the numbers of their sacred number. To seal the prophecy, he drew a zero, the last digit of the sacred number. The well-known archaeomathematician Polynomial Jones recently discovered that the sacred number for the Courantenians is 253253. How long, according to prophecy, would the Kingdom of the Courantenes last?
+
+**Answer:** 0870
+[[src_cesenatico_2005_squadre_finale__Q06]]

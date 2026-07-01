@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q16
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colore della sfera ? nella piramide di sfere*
 
@@ -85,3 +88,26 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The color of the sphere? in the spherical pyramid*
+
+![[src_kangourou_2021_benjamin__prob16.png]]
+
+> I built a pyramid on a triangular base overlaying 10 spheres of identical size. Each sphere is coloured with only one of the five colours indicated by the letters A, B, C, D and E; two spheres are exactly the same colour. The following image shows three side faces of the pyramid: What color is the sphere with the question point? In B.C. Zoo Porto Park 10 15 12 13 ? 1 3 4 6 6 1 2 4 9 12 18 22 A B C D 6 cm ?
+> 
+> A) A
+> 	
+> B) B
+> 	
+> C) C
+> 	
+> D) D
+> 	
+> E) E
+
+**Answer:** A
+[[src_kangourou_2021_benjamin__Q16]]

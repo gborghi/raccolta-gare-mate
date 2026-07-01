@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q04
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sequenze di partite con vincoli su pareggi e differenza vittorie*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2401
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Match sequences with draw and win difference constraints*
+
+> A game of balance Halbert Conway, the bureaucrat at Planar Express, is a former limbo champion. In this game, each single match may end with the win of one of the players or a draw; however, two subsequent matches may not end with the wins of two different players. Halbert's last challenge with Barbaros Schur was memorable. The challenge ended shortly after the fourth draw, and was very balanced: the difference in absolute value between Halbert's and Barbaros's number of wins never exceeded 3. What are the possible ways (i.e. sequences of results from subsequent matches) in which the challenge may have taken place, based on this information?
+
+**Answer:** 2401
+[[src_squadre_2018_finale__Q04]]

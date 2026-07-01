@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Biennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_biennio__Q14
 parent: src_archimede_2001_biennio
 competition: Giochi di Archimede 2001 - Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Maggiore di due interi con somma -4 e prodotto -21*
 
@@ -40,3 +43,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15IBgfl7GAsJGqi_MCOVW5U5tuBXGW2je/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most of two integers with sum of -4 and product -21< MSK1/>
+
+> Two integers have the sum of −4 and produce −21. How much is the largest of these integers worth?
+>
+> - **(A)** −7
+> - **(B)** −3
+> - **(C)** −1
+> - **(D)** 3
+> - **(E)** 7.
+
+[[src_archimede_2001_biennio__Q14]]

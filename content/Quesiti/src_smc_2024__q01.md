@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2024 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2024__Q01
 parent: src_smc_2024
 competition: Senior Mathematical Challenge 2024
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-fifths of the recurring decimal 0.25 (with 5 recurring)*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due quinti della decimale ricorrente 0,25 (con 5 ricorrenti) *
+
+> Quali sono i due quinti del decimale ricorrente $0.2\overline{5}$?
+>
+> - **(A)** $0.1$
+> - **(B)** $0.01$
+> - **(C)** $0.0\overline{1}$
+> - **(D)** $0.10$
+> - **(E)** $0.\overline{10}$
+
+**Risposta:** E
+[[src_smc_2024__Q01]]

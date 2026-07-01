@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q07
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore della frazione 202,2x2,022/(20,22x2022)*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Fragment value of 202,2x2,022/(20,22x2022) < MSK1/>
+
+> What is the value of the fraction ------------------------ ? 20,22 × 2022 A) 0,01 B) 0,1 C) 1
+>   
+> D) 10 E) 100
+
+**Answer:** A
+[[src_kangourou_2022_junior_gara__Q07]]

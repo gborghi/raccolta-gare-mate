@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2004 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2004__Q03
 parent: src_cn_cmc_2004
 competition: China Mathematical Competition 2004
@@ -31,6 +32,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solution set of inequality with square root and log*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieme di soluzioni di disuguaglianza con radice quadrata e log*
+
+> Il set di soluzioni della disuguaglianza $\sqrt{\log_2 x - 1} + \dfrac{1}{2}\log_{\frac{1}{2}} x^3 + 2 > 0$ è ( ).
+> 
+> (A) $[2,\, 3)$ \quad (B) $(2,\, 3]$ \quad (C) $[2,\, 4)$ \quad (D) $(2,\, 4]$
+
+**Risposta:** C
+[[src_cn_cmc_2004__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q04
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Lap count for slower cyclist when faster completes lap 80*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Lap count per ciclisti più lenti quando completano più velocemente il giro 80< MSK1/>
+
+> In una competizione ciclistica, Carlinho completa un giro completo della pista in $30$ secondi, mentre Paulinho impiega $32$ secondi per completare un giro. Quando Carlinho completerà il numero del giro $80$, Paulinho completerà il numero del giro:
+>
+> - **(A)** $79$
+> - **(B)** $78$
+> - **(C)** $76$
+> - **(D)** $77$
+> - **(E)** $75$
+
+**Risposta:** E
+[[src_obm_1998_n1_f1__Q04]]

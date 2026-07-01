@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2015 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo25mq_honsen__Q02
 parent: src_jmo25mq_honsen
 competition: Japan Mathematical Olympiad 2015 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Checkers on triangulated hexagon: find minimum moves to reach any vertex*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zjofx858zIB9CmusWvun9lZn5siZE_Lr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Controlli sull'esagono triangolato: trovare movimenti minimi per raggiungere qualsiasi vertice*
+
+> $n$ sia un numero intero positivo. Un esagono regolare $ABCDEF$ con lunghezza laterale $n$ è diviso in triangoli equilaterali unitari con linee parallele ai suoi lati. Un controllore è posizionato in un punto $P$ rigorosamente all'interno dell'esagono (non sul confine). Il controllatore può saltare su uno dei 4 vertici del triangolo unitario che contiene $P$. Per ciascun bordo $PQ$ di lunghezza-1 della triangolazione, il controllore può passare da $P$ a $Q$, ma non può passare da $Q$ a $P$. (Qui, $P$ può raggiungere $Q$ in una mossa significa $P$ è un vertice di un triangolo unitario e $Q$ è uno dei 4 vertici consentiti di quel triangolo.) Indipendentemente da come le direzioni di triangolazione sono assegnate, esiste sempre un punto $k$ sulla griglia di triangolazione da cui si può raggiungere qualsiasi altro punto di griglia. Trova il valore minimo di tale $k$.
+
+![[src_jmo25mq_honsen__Q02.png]]
+
+[[src_jmo25mq_honsen__Q02]]

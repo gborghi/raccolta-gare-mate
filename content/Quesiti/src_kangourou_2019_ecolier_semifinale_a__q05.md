@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale_a__Q05
 parent: src_kangourou_2019_ecolier_semifinale_a
 competition: Kangourou Coppa Ecolier squadre 2019 Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Metri residui del gatto quando il cane arriva*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0030
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Cat residue meters when the dog arrives< MSK1/>
+
+> My dog and my cat are in the garden, the first 100 meters from the door, the second 80 meters. I called them, and they rushed to the door. The dog runs twice as fast as the cat. When the dog arrived at the door, how many yards did the cat have to walk?
+
+**Answer:** 0030
+[[src_kangourou_2019_ecolier_semifinale_a__Q05]]

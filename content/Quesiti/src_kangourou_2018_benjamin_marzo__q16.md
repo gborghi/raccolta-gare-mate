@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q16
 parent: src_kangourou_2018_benjamin_marzo
 competition: Kangourou 2018 Benjamin - Gara 15 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi fa il quinto tiro nel gioco della palla*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who gets the fifth shot in the ball game
+
+> Two boys  Enrico and Paolo  and three girls  Alda, Luisa and Valeria  play ball with a strange rule. When a guy gets the ball, he can throw it to another guy or a girl. When a girl gets the ball, she throws it to another girl, but not to whoever threw it. Start Henry and launch to Alda. Who makes the fifth shot? A) Alda B) Henry C) Louise D) Paul E) Valeria
+
+**Answer:** A
+[[src_kangourou_2018_benjamin_marzo__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q26
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di disporre 1..6 con vincolo differenza non 3*
 
@@ -64,3 +67,29 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode of arranging 1.6. with boundary difference not 3*
+
+![[src_kangourou_2006_student_marzo__prob26.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) rectangle (3,3);
+  \draw (0,2) -- (3,2);
+  \draw (1,2) -- (1,3);
+  \draw (2,2) -- (2,3);
+  \draw (2,0) -- (2,2);
+  \draw (2,1) -- (3,1);
+\end{tikzpicture}
+\end{document}
+```
+
+> I want to write the numbers 1, 2, 3, 4, 5, 6 inside the squares that make up the figure (one for each square) so that if two squares are adjacent, the difference (positive) of the numbers written in them is not 3. How many different ways can I do this? (Squares having only one vertex in common are not considered adjacent.) A) 3 x 25 B) 36 C) 63 D) 2 x 35 E) 3 x 52
+
+**Answer:** A
+[[src_kangourou_2006_student_marzo__Q26]]

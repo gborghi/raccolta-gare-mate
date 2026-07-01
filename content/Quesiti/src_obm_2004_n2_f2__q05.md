@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f2__Q05
 parent: src_obm_2004_n2_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count right triangles formed by vertices of a regular 20-gon*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rDWi4aChRBskadFdiGfO9ekGjbo_vFkU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i triangoli rettangolari formati da vertici di un normale 20-gon*
+
+> Un poligono con 20 lati si chiama icosagono. Collegando tre vertici di un icosagono regolare otteniamo triangoli. Quanti di questi triangoli sono triangoli rettangolari?
+
+[[src_obm_2004_n2_f2__Q05]]

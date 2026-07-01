@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q12
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perimeter of hexagon formed by two overlapping equilateral triangles*
 
@@ -51,3 +54,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Perimetro di esagono formato da due triangoli equilaterali che si sovrappongono*
+
+> Due triangoli equilaterali di perimetro $36$ cm sono sovrapposti in modo che la loro intersezione costituisca un esagono con coppie di lati paralleli, come illustrato nel disegno. Qual è il perimetro di questo esagono?
+> 
+> (A) 12 cm \quad (B) 16 cm \quad (C) 18 cm \quad (D) 24 cm \quad (E) 36 cm
+
+![[src_obm_2011_n1_f1__Q12.png]]
+
+**Risposta:** D
+[[src_obm_2011_n1_f1__Q12]]

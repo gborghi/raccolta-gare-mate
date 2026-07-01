@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_2livello__Q04
 parent: src_archimede_2006_2livello
 competition: Archimede Gara 2° livello 2006 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti cavalieri tra Alberto, Bruno, Carlo*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many knights among Albert, Bruno, Charles
+
+> The inhabitants of an island are either crooks or knights: the knights always tell the truth, the crooks always lie. One night at the bar, Alberto says: Bruno is a knight; Bruno says:. . . . . . All three riders (at that moment a truck passes and you don't understand if Bruno saidWe are all. . . We're not all of us. . . ); Charles says: Bruno said that we are not all three knights. How many of them are knights?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** There's no way to tell.
+
+**Answer:** A
+[[src_archimede_2006_2livello__Q04]]

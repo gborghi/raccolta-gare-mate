@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q08
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza linea in grassetto (quadrati di 3 misure)*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fat line length (squares of 3 measurements) *
+
+![[src_kangourou_2009_benjamin_marzo__prob8.png]]
+
+> The large rectangle in the figure is constructed by approximating squares of three different dimensions. The sides of each of the smallest squares measure 20 centimeters. How long is the line highlighted in bold? A) 380 B) 400 C) 420 D) 440 E) 1680
+
+**Answer:** C
+[[src_kangourou_2009_benjamin_marzo__Q08]]

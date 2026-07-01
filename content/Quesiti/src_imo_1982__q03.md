@@ -1,6 +1,7 @@
 ---
 title: IMO 1982 (23rd International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1982__Q03
 parent: src_imo_1982
 competition: IMO 1982 (23rd International Mathematical Olympiad)
@@ -27,6 +28,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Decreasing sequence sums of squared ratios bounded near 4*
 
@@ -43,3 +46,17 @@ tags:
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_telescoping|Somme telescopiche]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Decreasing sequence sums of squared ratios bounded near 4*
+
+> Consider the infinite succession $\{x_n\}$ of positive real numbers with the following properties: $$x_0 = 1, \quad \text{e per ogni } i \geq 0,\ x_{i+1} \leq x_i.$$
+> 
+> (a) Demonstrate that for each such succession there is a $n \geq 1$ such that $$\frac{x_0^2}{x_1} + \frac{x_1^2}{x_2} + \cdots + \frac{x_{n-1}^2}{x_n} \geq 3{,}999.$$
+> 
+> (b) Find such a succession for which < MSK0/>
+
+[[src_imo_1982__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q20
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers k<2013 with integers a,b,c satisfying a^2+b+c=b^2+c+a=c^2+a+b=k*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi positivi k<2013 con numeri interi a,b,c che soddisfano a^2+b+c=b^2+c+a=c^2+a+b=k*
+
+> Per quanti integri positivi $k$ inferiori a $2013$ esistono integri $a$, $b$ e $c$, non necessariamente distinti, che soddisfano $$a^2 + b + c = b^2 + c + a = c^2 + a + b = k\,?$$
+> 
+> (A) $43$ \quad (B) $44$ \quad (C) $87$ \quad (D) $88$ \quad (E) $89$
+
+[[src_obm_2013_n3_f1__Q20]]

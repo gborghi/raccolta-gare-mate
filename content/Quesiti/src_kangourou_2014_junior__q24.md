@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q24
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Variazione percentuale numero totale di rane*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Percentage change in total number of frogs< MSK1/>
+
+> On an island there are only green frogs and blue frogs. Compared to a year ago, the number of blue frogs increased by 60% while the number of green frogs decreased by 60%. Today, the ratio of blue frog numbers to green frog numbers is the same as it was a year ago between green frog numbers and blue frog numbers. What percentage of the total number of frogs on the island has varied from one year ago? A) 0% B) 20% C) 30% D) 40% E) 50%
+
+**Answer:** B
+[[src_kangourou_2014_junior__Q24]]

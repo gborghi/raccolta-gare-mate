@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2006 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2006_r2__Q04
 parent: src_pol_2006_r2
 competition: Olimpiade Matematica Polacca 2006 — Round 2
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For a natural number c, define a sequence by a_1=1 and a_{n+1}=d(a_n)+c, where d(m) is the number of positive divisors of m. Show there is k such that a_k, a_{k+1}, ... is periodic.*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NlYhgScQkf9eCfEZeeiilK96pka9LzT-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per un numero naturale c, definire una sequenza da a_1=1 e a_{n+1}=d(a_n) + c, dove d(m) è il numero di divisori positivi di m. Mostrare c'è k tale che a_k, a_{k+1}, ... è periodico.*
+
+> Dato un numero naturale $c$, definiamo la sequenza $(a_n)$ da $a_1=1$ e $$a_{n+1}=d(a_n)+c \quad \text{for } n=1,2,\ldots,$$ dove $d(m)$ indica il numero di divisori positivi di $m\in\mathbb{N}$. Indicare che esiste un intero positivo $k$ tale che la sequenza $a_k, a_{k+1}, a_{k+2}, \ldots$ sia periodica.
+
+[[src_pol_2006_r2__Q04]]

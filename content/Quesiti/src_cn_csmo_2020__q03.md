@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2020 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2020__Q03
 parent: src_cn_csmo_2020
 competition: China Southeastern Mathematical Olympiad 2020
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Polynomial with coefficients in {-1,0,1}, max number of positive integer roots*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 10
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomio con coefficienti in {-1,0,1}, numero massimo di radici interi positive*
+
+> Che $f(x) = x^{2020} + \sum_{k=0}^{2019} c_k x^k$, $c_k \in \{-1, 0, 1\}$ siano polinomi e $N$ il numero di radici interi positive di $f(x)$ (conteggiate con le loro moltiplicità). Dato che $f(x)$ non ha radici interi negative, trovare il valore massimo di $N$.
+
+**Risposta:** 10
+[[src_cn_csmo_2020__Q03]]

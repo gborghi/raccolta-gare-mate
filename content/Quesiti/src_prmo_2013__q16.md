@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2013__Q16
 parent: src_prmo_2013
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2013
@@ -32,6 +33,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of all b for which two quadratics share a common root*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di tutti i b per i quali due quadratici condividono una radice comune*
+
+> $f(x) = x^2 - 3x + b$ e $g(x) = x^2 + bx - 3$, dove $b$ è un numero reale. Qual è la somma di tutti i valori possibili di $b$ per i quali le equazioni $f(x) = 0$ e $g(x) = 0$ hanno una radice comune?
+
+[[src_prmo_2013__Q16]]

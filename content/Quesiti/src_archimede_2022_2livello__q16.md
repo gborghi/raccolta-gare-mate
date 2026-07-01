@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_2livello__Q16
 parent: src_archimede_2022_2livello
 competition: Archimede Gara di Febbraio 2022 - 2° livello
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo, bisettrice, proiezioni, isoscele ADH*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Triangle, beam, projections, isosceles ADH< MSK1/>
+
+![[src_archimede_2022_2livello__prob16.png]]
+
+> Whether ABC is a triangle, whether r is the inner beam of the acute angle \ BAC and whether K is the projection of B on r, L is the projection of K on AB and D is the symmetrical of B with respect to L. Let's call H the foot of the height of the ABC triangle coming out of B. Demonstrate that: (a) BH = 2LK; (b) KA bisects the angle \ HKD; (c) the triangle ADH is isosceles.
+
+[[src_archimede_2022_2livello__Q16]]

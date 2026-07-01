@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f3__Q01
 parent: src_obm_2009_n2_f3
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive 4-digit integers that are 'abestado'*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LX5lriZmay4faIzZGdpod2kqS8160CrJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri interi a 4 cifre positivi che sono "abestado"*
+
+> Diciamo che un intero positivo $n$ è *abestado* ("bestia") se leggendo i suoi numeri da destra a sinistra dà un numero maggiore di $n$. Ad esempio, $2009$ è abestado perché $9002 > 2009$; d'altra parte, $2010$ non è abestado perché la lettura $2010$ da destra a sinistra dà $0102$, che equivale a $102$, che è inferiore a $2010$; e $3443$ non è abestado perché la lettura da destra a sinistra dà $3443$, che è esattamente uguale all'originale. Quanti numeri interi positivi con esattamente quattro cifre sono abestado?
+
+[[src_obm_2009_n2_f3__Q01]]

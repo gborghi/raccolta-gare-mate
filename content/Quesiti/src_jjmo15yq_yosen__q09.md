@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo15yq_yosen__Q09
 parent: src_jjmo15yq_yosen
 competition: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to choose max lattice points with no equal coordinate differences*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** $2^{2018}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i modi per scegliere i punti massimi della griglia senza differenze di coordinate uguali*
+
+> $n$ sia un numero intero positivo. Supponiamo che i punti $n$ siano scelti dal piano $xy$ e soddisfino le seguenti condizioni. \begin{itemize} \item Ogni punto ha sia le sue $x$- che $y$-coordinate interi tra $0$ e $2017$ incluse. \item Per due punti distinti scelti $(a,b)$ e $(c,d)$, indipendentemente dal modo in cui i due punti sono scelti, $|a-c| \neq |b-d|$ vale. \end{itemize} $N$ sia il valore più grande di $n$ per il quale si può verificare tale situazione. In quanti modi si possono scegliere i punti $N$ dal piano $xy$ che soddisfano le condizioni?
+
+**Risposta:** 2^{2018}
+[[src_jjmo15yq_yosen__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Biennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_biennio__Q02
 parent: src_archimede_2008_biennio
 competition: Giochi di Archimede 2008 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Velocita necessaria per record dopo ritardo iniziale*
 
@@ -47,3 +50,20 @@ tags:
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Required speed for record after initial delay< MSK1/>
+
+> A pilot wants to set a new record on a 50 km route: run it at an average speed of 100 km/h. Due to some technical problems, it takes 40 minutes to travel the first 25 km. At what speed must he travel the rest of the way (going at a constant speed) to succeed in his intent?
+>
+> - **(A)** No speed allows it.
+> - **(B)** 50 km/h,
+> - **(C)** 100 km/h,
+> - **(D)** 150 km/h,
+> - **(E)** 200 km/h.
+
+**Answer:** A
+[[src_archimede_2008_biennio__Q02]]

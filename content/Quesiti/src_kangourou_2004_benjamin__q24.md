@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q24
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti fili sopprimere per la collana*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many threads to remove for the necklace< MSK1/>
+
+![[src_kangourou_2004_benjamin__prob24.png]]
+
+> The figure shows some pearls (represented by circles) connected by strings (represented by segments). How many of these threads does it take to simply cut to get a necklace, made of a single ring, that contains all the pearls? A) 18 B) 19 C) 20 D) 21 E) It is impossible to obtain such a necklace by simply removing wires
+
+**Answer:** B
+[[src_kangourou_2004_benjamin__Q24]]

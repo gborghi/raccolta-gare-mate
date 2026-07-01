@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2013__Q01
 parent: src_prmo_2013
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2013
@@ -32,6 +33,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest k so that k(3^3+4^3+5^3)=a^n, n>1*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La k più piccola in modo che k(3^3+4^3+5^3)=a^n, n>1*
+
+> Qual è il più piccolo intero positivo $k$ tale che $k(3^3 + 4^3 + 5^3) = a^n$ per alcuni interi positivi $a$ e $n$, con $n > 1$?
+
+**Risposta:** 1
+[[src_prmo_2013__Q01]]

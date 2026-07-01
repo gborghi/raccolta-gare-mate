@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q05
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro quartiere rettangolare diviso in quattro blocchi*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1000 m
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular quarter perimeter divided into four blocks*
+
+> The neighbourhood where I live is rectangular in shape and is divided by two streets perpendicular to each other into four blocks of houses, also rectangular. When I go around each of the 4 rectangles that are obtained by bringing together two blocks of contiguous houses (which have a common street), I go 600, 700, 800, 900 m respectively.
+> 
+> What's the perimeter of my neighborhood?
+> 
+> Note: the width of the roads is not taken into account.
+
+**Answer:** 1000 m
+[[src_bocconi_squadre_2010__Q05]]

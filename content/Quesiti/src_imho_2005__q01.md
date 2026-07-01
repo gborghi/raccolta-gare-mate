@@ -1,6 +1,7 @@
 ---
 title: IMO 2005 (XLVI International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2005__Q01
 parent: src_imho_2005
 competition: IMO 2005 (XLVI International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Points on equilateral triangle sides form convex hexagon with concurrent diagonals*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1vgyI0AcVdml3o7K4kvIflQDG_gB6z_42/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Points on equilateral triangle sides form convex hexagon with concurrent diagonals*
+
+> Six points are chosen on the sides of an equilateral triangle $ABC$: $A_1$, $A_2$ on $BC$; $B_1$, $B_2$ on $CA$; and $C_1$, $C_2$ on $AB$, such that they are the vertices of a convex hexagon $A_1A_2B_1B_2C_1C_2$ with equal side lengths. Prove that the lines $A_1B_2$, $B_1C_2$ and $C_1A_2$ are concurrent.
+
+[[src_imho_2005__Q01]]

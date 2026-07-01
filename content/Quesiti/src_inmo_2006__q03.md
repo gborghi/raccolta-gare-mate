@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2006 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2006__Q03
 parent: src_inmo_2006
 competition: Indian National Mathematical Olympiad 2006
@@ -32,6 +33,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer triples (a,b,c) with functional equation f(f(a,b,c))=(a,b,c)*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fL6CHwtNRPMnX4gkiManxyf5xqdd58fL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i tripli interi (a,b,c) con l'equazione funzionale f((a,b,c))=(a,b,c) *
+
+> $X$ indichi l'insieme di tutti i triples $(a, b, c)$ di numeri interi. Definire una funzione $f : X \to X$ da $$f(a, b, c) = (a + b + c,\; ab + bc + ca,\; abc).$$ Trovare tutti i triples $(a, b, c)$ in $X$ in modo tale che $f(f(a, b, c)) = (a, b, c)$.
+
+[[src_inmo_2006__Q03]]

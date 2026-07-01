@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2023 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2023_printemps__Q04
 parent: src_canimath_2023_printemps
 competition: Coupe Animath Printemps 2023
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a pentagon ABCDE with all sides equal, with angles BCD and CDE right angles and A not inside quadrilateral BCDE, P the intersection of lines (AC) and (BD); prove AP = PD.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un pentagono ABCDE con tutti i lati uguali, con angoli BCD e CDE angoli rettangolari e A non all'interno di BCDE quadrilaterale, P l'intersezione di linee (AC) e (BD); dimostrare AP = PD.*
+
+> Che $ABCDE$ sia un pentagono i cui lati hanno la stessa lunghezza, in modo tale che gli angoli $\widehat{BCD}$ e $\widehat{CDE}$ siano angoli rettangolari, e in modo tale che il punto $A$ non si trovi all'interno del quadrilaterale $BCDE$. Il punto di intersezione delle linee $(AC)$ e $(BD)$ è $P$. Mostra che $AP = PD$.
+
+[[src_canimath_2023_printemps__Q04]]

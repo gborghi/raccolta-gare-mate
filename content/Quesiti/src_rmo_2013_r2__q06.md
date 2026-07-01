@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r2__Q06
 parent: src_rmo_2013_r2
 competition: Regional Mathematical Olympiad 2013
@@ -33,6 +34,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Weighing balance placements counting inequality T(100)>T(99)*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uqSSojdtAvGG1PLqgEhOlUA-N31qYiRK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Posizioni di bilanci ponderate contando le disuguaglianze T(100)>T(99) *
+
+> $n \ge 3$ sia un numero naturale, $T(n)$ indichi il numero di modi in cui possiamo posizionare $n$ oggetti di pesi $1, 2, \ldots, n$ su un equilibrio in modo tale che la somma dei pesi in ogni pannello sia uguale. Prove che $T(100) > T(99)$.
+
+[[src_rmo_2013_r2__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q05
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum value of cryptarithm fraction (MATEM)/(ATJCA)*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta massima della frazione di criptaritmo (MATEM)/(ATJCA) *
+
+> Nell'espressione $\dfrac{M \times A \times T \times E \times M}{A \times T \times J \times C \times A}$, le lettere diverse rappresentano cifre diverse e le lettere uguali rappresentano cifre uguali. Qual è il valore più grande possibile di questa espressione?
+> 
+> A) 38 \quad B) 96 \quad C) 159 \quad D) 358 \quad E) 648
+
+[[src_obm_2012_n2_f1__Q05]]

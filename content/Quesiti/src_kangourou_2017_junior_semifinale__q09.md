@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Semifinale individuale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q09
 parent: src_kangourou_2017_junior_semifinale
 competition: Kangourou 2017 Junior - Semifinale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo partite giocate da Carlo*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wcjQloPFR27i6zyeHrMFz2T13JxlzXfM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum games played by Carlo*
+
+> Arthur, Bruno, and Carlo play cards. Two of them start playing a game; the winner then plays a game with the partner who is watching, and so they continue for some time: the game is such that no game can end in a draw. When they stop, it turns out Arturo played 17 games and Bruno played 23. What's the minimum number of games Carlo must have played?
+>
+> - **(A)** 12
+> - **(B)** 14
+> - **(C)** 16
+> - **(D)** 18
+> - **(E)** 20 Questions Answered
+
+**Answer:** B
+[[src_kangourou_2017_junior_semifinale__Q09]]

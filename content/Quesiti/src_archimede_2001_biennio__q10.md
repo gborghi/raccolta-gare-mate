@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Biennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_biennio__Q10
 parent: src_archimede_2001_biennio
 competition: Giochi di Archimede 2001 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Caselle riempibili dato dilemma cavalieri e furfanti*
 
@@ -50,3 +53,19 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15IBgfl7GAsJGqi_MCOVW5U5tuBXGW2je/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Filling cases given the knights and crooks dilemma*
+
+> The employee of the census on the island of Cavalieri and Furfanti must determine the type (Cavalieri or Furfanti) and the title of study of the inhabitants (the Furfanti always lie, while the Cavalieri always tell the truth). In an apartment inhabited by two spouses, you get only these answers: Husband: we're both graduates. Wife: We're both cunning. How many boxes can an employee safely fill?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 4.
+
+[[src_archimede_2001_biennio__Q10]]

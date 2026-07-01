@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f1__Q10
 parent: src_obm_2010_n1_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perimeter of figure formed by two overlapping squares*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Perimetro della figura formata da due quadrati che si sovrappongono*
+
+> La figura mostra due quadrati sovrapposti: uno con lato $5\,\text{cm}$ e uno con lato $6\,\text{cm}$. Qual è il perimetro della figura risultante (il contorno spessore), in centimetri?
+> 
+> (A) $31$ \quad (B) $34$ \quad (C) $36$ \quad (D) $38$ \quad (E) $41$
+
+![[src_obm_2010_n1_f1__Q10.png]]
+
+**Risposta:** C
+[[src_obm_2010_n1_f1__Q10]]

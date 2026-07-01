@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q10
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezza autobus in galleria semicircolare*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Height of bus in semicircular tunnel*
+
+> A tunnel has a semicircular section with a diameter of 10 meters. The roof (flat) of a bus comes into contact with the tunnel's valve if its right wheels (wheel-drive) are two metres from the right edge of the tunnel. What is the height of the bus in meters? A) 2,70 B) 3,20 C) 3,60 D) 4,00 E) 4,50 The questions from N. 11 al N. Twenty is worth four points.
+
+**Answer:** D
+[[src_kangourou_2006_student_marzo__Q10]]

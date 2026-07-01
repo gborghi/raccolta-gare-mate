@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q04
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *f(x)=cos x+log_2 x with f(a)=f(2a); find f(2a)-f(4a).*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*f(x)=cos x+log_2 x con f(a)=f(2a); trovare f(2a)-f(4a).*
+
+> [Test paper A, problema 4] Supponiamo < MSK0/>. Se un numero reale positivo $a$ soddisfa $f(a)=f(2a)$, il valore di $f(2a)-f(4a)$ è ______.
+
+**Risposta:** -3 \text{ or } -1
+[[src_cn_cmc-first-round_2021__Q04]]

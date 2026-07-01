@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f2__Q08
 parent: src_obm_2015_n3_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Parallelogram ABCD (AB=8, BC=4); circle through A,C, midpoint M of BC, tangent to AD, meets CD at P; find MP*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Parallelogramma ABCD (AB=8, BC=4); cerchio attraverso A,C, punto medio M di BC, tangente a AD, incontra CD a P; trovare MP*
+
+> (Parte B) Che $ABCD$ sia un parallelo con $AB = 8$ e $BC = 4$. Il cerchio $\Gamma$ passa attraverso $A$, $C$ e attraverso il punto medio $M$ di $BC$, e taglia il lato $CD$ al punto $P \ne C$. È noto che < MSK10/> è tangente a < MSK11/>. Calcolare la misura del segmento $MP$.
+
+[[src_obm_2015_n3_f2__Q08]]

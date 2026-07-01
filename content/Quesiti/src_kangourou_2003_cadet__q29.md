@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Cadet (20 marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet__Q29
 parent: src_kangourou_2003_cadet
 competition: Kangourou 2003 Cadet (20 marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max segmenti attraversati da una retta (10 punti)*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1eygrPRLv8IqHr90bPrLsox-FA6V93kRL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Max segments crossed by a straight line (10 points) *
+
+> 10 distinct points are drawn on a sheet, so that no line of the plane has more than two. Each pair of points is connected by a segment. Let's draw a straight line that doesn't pass through any of these points: what is the maximum number of segments that the straight line can cross? A) 20 B) 25 C) 30 D) 35 E) 45
+
+**Answer:** B
+[[src_kangourou_2003_cadet__Q29]]

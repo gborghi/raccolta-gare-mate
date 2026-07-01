@@ -1,6 +1,7 @@
 ---
 title: IX Gara Nazionale Classi Prime 2024 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2024__Q06
 parent: src_garaprime_2024
 competition: IX Gara Nazionale Classi Prime 2024
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza PB in triangolo rettangolo con angoli 30-60*
 
@@ -70,3 +73,40 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length PB in rectangular triangle with angles of 30-60*
+
+![[src_garaprime_2024__prob6.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (B) at (0,0);
+  \coordinate (A) at (5.196,0);
+  \coordinate (C) at (0,3);
+  \coordinate (P) at (1.732,0);
+  \draw (A) -- (B) -- (C) -- cycle;
+  \draw (C) -- (P);
+  \draw (0,0.3) -- (0.3,0.3) -- (0.3,0);
+  \fill (A) circle (2pt);
+  \fill (B) circle (2pt);
+  \fill (C) circle (2pt);
+  \fill (P) circle (2pt);
+  \node[below right] at (A) {$A$};
+  \node[below left] at (B) {$B$};
+  \node[above left] at (C) {$C$};
+  \node[below] at (P) {$P$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Whether ABC is a triangle with B̂ = 90°, Â = 30°, and whether P is a point of AB such that the angle CP̂B is equal to 60°. If AP is 30 cm, how long is PB in cm? A) 10 B) 15 C) 20 D) 25 E) 30
+> 
+> The correct answer is B. Consider the APC triangle. It is isosceles on the basis of AC as Â = 30° for assumptions, AP̂C= 180° −60° = 120° and therefore AĈP= 30°. The BPC triangle is the half of an equilateral triangle, with PC=30 cm and PB, being the opposite side to BĈP= 30°, is equal to half hypotenuse, i.e. 15 cm.
+
+**Answer:** B
+[[src_garaprime_2024__Q06]]

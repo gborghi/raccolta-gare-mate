@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q05
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Neighborhood map: count houses reachable traversing each street at most once*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mapa del quartiere: contare le case raggiungibili attraversando ogni strada almeno una volta*
+
+> La figura mostra una mappa del quartiere; i punti $A$, $B$, $C$, $D$ sono case e i segmenti sono strade. Da quante case è possibile partire e passare per ogni strada al massimo una volta?
+> 
+> **(A)** $0$ $\quad$ **(B)** $1$ $\quad$ **(C)** $2$ $\quad$ **(D)** $3$ $\quad$ **(E)** $4$
+
+![[src_obm_2009_n2_f1__Q05.png]]
+
+**Risposta:** C
+[[src_obm_2009_n2_f1__Q05]]

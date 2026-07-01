@@ -1,6 +1,7 @@
 ---
 title: XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007__Q03
 parent: src_cesenatico_2007
 competition: XXIII Olimpiade Italiana Cesenatico 2007
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quadrilatero ciclico sse BA=BE*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** dimostrato
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1f34U527qzfJNiSRUXGF8n4qcd2jD3ko5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> cyclic quadrilateral and BA=BE< MSK1/>
+
+![[src_cesenatico_2007__prob3.png]]
+
+> Let ABC be a triangle with a baricenter G. Both D = A point on the AG line such that AG = GD, and E = B point on the GB line such that GB = GE. Let M be the mean of AB. Demonstrate that the quadrilateral BMCD is inscribed in a circumference if and only if BA = BE.
+
+**Answer:** dimostrato
+[[src_cesenatico_2007__Q03]]

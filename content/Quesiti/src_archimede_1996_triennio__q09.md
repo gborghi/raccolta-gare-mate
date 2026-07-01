@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Triennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_triennio__Q09
 parent: src_archimede_1996_triennio
 competition: Giochi di Archimede 1996 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorno di nascita in anno con 53 sabati e domeniche*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* Birthday in a year with 53 Saturdays and Sundays*
+
+> Antonio was born in March of a year that had 53 Saturdays and 53 Sundays. What day of the week was he born?
+>
+> - **(A)** Monday
+> - **(B)** Wednesday
+> - **(C)** Friday
+> - **(D)** On a different day from the previous ones
+> - **(E)** It is not possible to determine with certainty.
+
+**Answer:** B
+[[src_archimede_1996_triennio__Q09]]

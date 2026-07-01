@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f3__Q02
 parent: src_obm_2005_n3_f3
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest constant C in symmetric power inequality for five variables*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La minima costante C nell'inequità di potenza simmetrica per cinque variabili*
+
+> Trova il numero reale più piccolo $C$ per il quale l'ineguaglianza $$C\!\left(x_1^{2005}+x_2^{2005}+x_3^{2005}+x_4^{2005}+x_5^{2005}\right)\ge x_1 x_2 x_3 x_4 x_5\left(x_1^{125}+x_2^{125}+x_3^{125}+x_4^{125}+x_5^{125}\right)^{16}$$ si applica a tutti i numeri reali positivi $x_1, x_2, x_3, x_4, x_5$.
+
+[[src_obm_2005_n3_f3__Q02]]

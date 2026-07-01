@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2004 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2004__Q06
 parent: src_rmo_2004
 competition: Regional Mathematical Olympiad 2004
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prime sequence p_{n+1} = largest prime factor of product+1; prove p_n ≠ 5*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PH5-bvLqESBobr80FptiJm1tzcFEiAQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza primaria p_{n+1} = fattore primario più grande del prodotto+1; prova p_n ≠ 5*
+
+> Che $(p_1, p_2, p_3, \cdots)$ sia una sequenza di numeri primi definita da $p_1 = 2$ e per $n \ge 1$, $p_{n+1}$ è il più grande fattore primo di $p_1 p_2 p_3 \cdots p_n + 1$. Prove che $p_n \ne 5$ per qualsiasi $n$.
+
+[[src_rmo_2004__Q06]]

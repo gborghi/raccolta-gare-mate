@@ -1,6 +1,7 @@
 ---
 title: IMO 1968 (Tenth International Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1968_all__Q05
 parent: src_imo_1968_all
 competition: IMO 1968 (Tenth International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prove functional equation implies f periodic; give example*
 
@@ -39,3 +42,17 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Prove functional equation implies f periodic; give example*
+
+> Let $f$ be a real-valued function defined for all real numbers $x$ such that, for some positive constant $a$, the equation $$f(x + a) = \frac{1}{2} + \sqrt{f(x) - [f(x)]^2}$$ holds for all $x$.
+> 
+> (a) Prove that the function $f$ is periodic (i.e., there exists a positive number $b$ such that $f(x + b) = f(x)$ for all $x$).
+> 
+> For $a = 1$, give an example of a non-constant function with the required properties.
+
+[[src_imo_1968_all__Q05]]

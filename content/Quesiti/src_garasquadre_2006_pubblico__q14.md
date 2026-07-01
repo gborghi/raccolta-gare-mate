@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q14
 parent: src_garasquadre_2006_pubblico
 competition: VII Gara Nazionale a Squadre 2006 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Resto della divisione di 4*7^23+3^11 per 101*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0000
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Remaining of the division of 4 < MSK1/>7^23+3^11 by 101 < MSK2/>
+
+> The second test [50] For the competitors in the Triangle Tournament who survived the first test, it is now time to address the second question. They must determine the remainder of the whole division between 4·723 +311 and 101. What is it?
+
+**Answer:** 0000
+[[src_garasquadre_2006_pubblico__Q14]]

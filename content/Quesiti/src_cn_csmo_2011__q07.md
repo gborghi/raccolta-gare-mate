@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2011 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2011__Q07
 parent: src_cn_csmo_2011
 competition: China Southeastern Mathematical Olympiad 2011
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence defined by recurrence; prove a_n + 2a_{n+2} is always a perfect square*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza definita da ricorrenza; dimostrare a_n + 2a_{n+2} è sempre un quadrato perfetto*
+
+> Supponiamo che la sequenza $\{a_n\}$ sia definita da $a_1 = a_2 = 1$, $a_n = 7a_{n-1} - a_{n-2} + n$ per $n \geq 3$. Prova che $a_n + 2a_{n+2}$ è un quadrato perfetto per qualsiasi intero positivo $n$. (posta da Tao Pingsheng)
+
+[[src_cn_csmo_2011__Q07]]

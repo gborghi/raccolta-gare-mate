@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q25
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ragazzi che danno la mano sinistra a una ragazza in cerchio*
 
@@ -50,3 +53,19 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Boys giving left hand to a girl in a circle
+
+> 40 boys and 28 girls stand in a circle, hand in hand, all facing inside the circle. Boys who give a girl their right hand are 18. How many guys give their left hand to a girl? A) 18 B) 9
+>      	
+> C) 28 D) 14
+>           	
+> E) 20 Charles Paul
+>
+
+**Answer:** A
+[[src_kangourou_2013_benjamin__Q25]]

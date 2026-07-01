@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2018__Q07
 parent: src_selection_camp_2018
 competition: Japan IMO Selection Camp 2018 — Selection Camp
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-player game on {0,...,p-1} building a base-10 number: first player has winning strategy mod p*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jASM40MHMk6NMhN2bMvDto4r4rOWEBtP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco a due giocatori su {0,...,p-1} costruendo un numero base-10: il primo giocatore ha la strategia vincente mod p*
+
+> Lasciate che $p$ sia un primo. Due giocatori eseguono alternativamente la seguente azione:
+> 
+> Azione: scegli un numero $i$ da $\{0, 1, \ldots, p-1\}$ che non è stato scelto prima, quindi scegli un numero intero tra $0$ e $9$ (inclusivo) per assegnare a $i$.
+> 
+> Il gioco termina quando tutti gli elementi di $\{0, 1, \ldots, p-1\}$ sono stati scelti. $a_i$ sia il numero intero assegnato a $i$ e imposta $M = a_0 + a_1 \cdot 10 + \cdots + a_{p-1} \cdot 10^{p-1}$. Se $M$ è divisibile per $p$, vince il primo giocatore; altrimenti vince il secondo giocatore. Prove che il primo giocatore ha una strategia vincente.
+
+[[src_selection_camp_2018__Q07]]

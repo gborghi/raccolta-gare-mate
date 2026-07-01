@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Student — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_semif__Q17
 parent: src_kangourou_2018_student_semif
 competition: Kangourou 2018 Semifinale Student
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di lati n dell orto-poligono vicino a 2019*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 2016
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of n sides of the garden near 2019*
+
+> (Points 7) An ortho-polygon in the plane is an unwoven polygon such that each pair of consecutive sides consists of sides perpendicular to each other. A n-sided ortho-polygon is known that, by numbering its sides from 1 in one of the two possible vertices, the length of each side corresponds to the number assigned to the side itself; it is also known that n is the whole as close as possible to 2019. How much is n ?
+
+**Answer:** 2016
+[[src_kangourou_2018_student_semif__Q17]]

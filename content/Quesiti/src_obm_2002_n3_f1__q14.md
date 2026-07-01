@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q14
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count the total number of letters of the incorrect answers across all questions of this test*
 
@@ -52,3 +55,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare il numero totale di lettere delle risposte errate su tutte le domande di questa prova*
+
+> Qual è il numero totale di lettere delle risposte (alternative) che sono risposte errate di questo test? (A) Quarantotto. (B) Quaranta-neuve. (C) Cinquanta. (D) Cinquanta uno. E) Cinquanta due.
+
+**Risposta:** D
+[[src_obm_2002_n3_f1__Q14]]

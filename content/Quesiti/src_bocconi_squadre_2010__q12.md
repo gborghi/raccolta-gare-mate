@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q12
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare combinazione di 5 cifre dalla lista di 10 numeri*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 47228
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find a 5-digit combination from the 10-digit list*
+
+> Only the company's CEO, Renato, knows the five-digit combination that allows the safe to be opened. All 10 employees know about a fake number. In each of these, however, one, and only one, figure is placed in the right place. The 10 numbers are: $$07344 - 14098 - 27356 - 36429 - 45374 - 52207 - 63822 - 70558 - 85237 - 97665$$
+> 
+> What's the right combination?
+
+**Answer:** 47228
+[[src_bocconi_squadre_2010__Q12]]

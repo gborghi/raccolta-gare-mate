@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q07
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Larger root minus smaller root of given quadratic*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Retro più grande meno radice più piccola di un dato quadratico*
+
+> La differenza tra la radice più grande e la radice più piccola dell'equazione $(2x - 45)^2 - (x - 21)^2 = 0$ è:
+> 
+> A) 2 \quad B) 3 \quad C) 4 \quad D) 5 \quad E) 6
+
+**Risposta:** A
+[[src_obm_1999_n3_f1__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q29
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli del dodecagono con almeno un angolo di 45 gradi*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangles of the dodecahedron with an angle of at least 45 degrees*
+
+> Consider a regular dodecagon. How many triangles, the vertices of which are vertices of the dodecahedron, have at least an angle of 45 degrees? A) 48
+> 	
+> B) 60
+> 	
+> C) 72
+> 	
+> D) 84
+> 	
+> E) 96
+
+**Answer:** D
+[[src_kangourou_2024_student__Q29]]

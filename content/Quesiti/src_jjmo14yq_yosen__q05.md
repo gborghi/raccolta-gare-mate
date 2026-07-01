@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo14yq_yosen__Q05
 parent: src_jjmo14yq_yosen
 competition: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find DF with cevians trisecting angle A into three 45-degree parts*
 
@@ -45,3 +48,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca DF con ceviani che triseggono angolo A in tre parti a 45 gradi*
+
+> Sul lato $BC$ del triangolo $ABC$ ci sono punti $D,E$, con $B,D,E,C$ in questo ordine, in modo che $\angle BAD = \angle DAE = \angle EAC = 45^\circ$. $F$ sia il punto di intersezione del circoncircolo del triangolo $ABE$ con la linea $AC$, diverso da $A$. Date $AC = 3$ e $AD = 1$, si trova la lunghezza del segmento $DF$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Risposta:** \dfrac{5}{4}
+[[src_jjmo14yq_yosen__Q05]]

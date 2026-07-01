@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Junior — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q12
 parent: src_kangourou_2015_marzo_junior
 competition: Kangourou 2015 gara 19 marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *percorso minimo*
 
@@ -61,3 +64,28 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lv8vPzK3uXmG94tNsM2uWmmnksIo2fLI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>minimum route< MSK1/>
+
+![[src_kangourou_2015_marzo_junior__prob12.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  % 8 unit squares in a 4x2 grid
+  \draw[thick] (0,0) grid (4,2);
+  % Mark the two opposite vertices (top-left and bottom-right)
+  \filldraw (0,2) circle (3pt);
+  \filldraw (4,0) circle (3pt);
+\end{tikzpicture}
+\end{document}
+```
+
+> The rectangle in the figure is obtained by approximating 8 squares all on side 1. In a rectangle you can only move along the sides or diagonals of the individual squares. With this constraint, how long is the shortest path connecting two opposite vertices of the rectangle (e.g. those marked)? A) 2√5 B) √10 + √2 C) 2 + 2√2 D) 4√2 E) 6
+
+**Answer:** C
+[[src_kangourou_2015_marzo_junior__Q12]]

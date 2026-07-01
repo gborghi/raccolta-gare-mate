@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Junior — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_junior__Q22
 parent: src_kangourou_2013_junior
 competition: Kangourou 2013 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Figura che non può essere ottenuta col tappeto*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Figure that cannot be obtained with carpet*
+
+![[src_kangourou_2013_junior__prob22.png]]
+
+> A floor covered with square tiles is partially covered by a round carpet. In the following figures, the shaded tiles represent only tiles that have more than one point covered by the carpet. What figure cannot be obtained? A) B) C) D) E)
+
+**Answer:** E
+[[src_kangourou_2013_junior__Q22]]

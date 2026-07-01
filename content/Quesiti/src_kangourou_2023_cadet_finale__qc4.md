@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Finale (risposta aperta) — Quesito C4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet_finale__QC4
 parent: src_kangourou_2023_cadet_finale
 competition: Kangourou 2023 Cadet — Finale (risposta aperta)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *parola di senso compiuto*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** TRE
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bJuiCbcoel8J7cfRIkcf2rQAovPdj2GI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>word of the full meaning< MSK1/>
+
+> To form a secret code, the 21 letters of the Italian alphabet (therefore without the letters K, J, X, Y, W), written in alphabetical order, were progressively numbered starting from a letter that is not necessarily the A and starting again with the A after the Z (for example, if the letter E was the number 1, the F would be the number 2, the Z the number 17 and the A the number 18 until reaching the D, the number 21). The sum of the numbers assigned to the letters P, R, T is 24. The code $(3, 1, 11)$ corresponds to a word of complete meaning, i.e. present in the Italian vocabulary: which?
+
+**Answer:** TRE
+[[src_kangourou_2023_cadet_finale__QC4]]

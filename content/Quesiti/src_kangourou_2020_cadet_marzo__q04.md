@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q04
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo AEF nella griglia*
 
@@ -62,3 +65,35 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the AEF triangle in the grid*
+
+![[src_kangourou_2020_cadet_marzo__prob4.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \draw[thin, gray!60] (0,0) grid (3,3);
+  \draw[thick] (0,0) -- (3,2) -- (1,3) -- cycle;
+  \filldraw (0,0) circle (2pt) node[below left] {$A$};
+  \filldraw (3,0) circle (1.5pt) node[below right] {$B$};
+  \filldraw (3,3) circle (1.5pt) node[above right] {$C$};
+  \filldraw (0,3) circle (1.5pt) node[above left] {$D$};
+  \filldraw (3,2) circle (2pt) node[right] {$E$};
+  \filldraw (1,3) circle (2pt) node[above] {$F$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Look at the figure: each of the squares whose union gives the large square has side 1. What is the area of the AEF triangle? A) 6
+> 	
+> B) 9
+> 	
+> C) 2,5 D) 4,5 E) 3
+
+**Answer:** C
+[[src_kangourou_2020_cadet_marzo__Q04]]

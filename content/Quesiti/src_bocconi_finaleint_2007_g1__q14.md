@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 1) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g1__Q14
 parent: src_bocconi_finaleint_2007_g1
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pari e dispari: risultato della moltiplicazione con simboli che valgono cifre pari (triangolo) e dispari (quadrato)*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7520
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pairs and odd: result of multiplication by symbols equal to numbers (triangle) and odd numbers (square) *
+
+> Each $\blacktriangle$ represents an equal number. Each $\blacksquare$ is an odd number. What is the result of this multiplication: $\blacktriangle\blacktriangle\blacksquare \times \blacksquare = \blacktriangle\blacksquare\blacktriangle\blacktriangle$?
+
+![[src_bocconi_finaleint_2007_g1__Q14.png]]
+
+**Answer:** 7520
+[[src_bocconi_finaleint_2007_g1__Q14]]

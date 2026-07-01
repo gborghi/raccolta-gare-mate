@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2010 - Gara a squadre — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2010_squadre__Q08
 parent: src_gs_2010_squadre
 competition: Coppa Fermat 2010 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma resti uguale al resto su 2310 piatti*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2309
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total remainder equal to the remainder on 2310 plates*
+
+> **The chicken soup** (point 30)
+> 
+> Slim is very good at making chicken soup. He buys the chickens and then divides them into two plates, so that there's exactly the same number. He gives those who advance (and only those) to his parrot Fuzz. Then he divides all the chickens he's kept equally into six plates, and as before those who advance Fuzz eats them. At this point, repeat the same operation with 30 plates, then 210 plates, and then 2310 plates. Considering that today he wants to buy them so that the parrot can eat as many as possible, but not spending more than necessary, how many chicks does he have to buy?
+
+**Answer:** 2309
+[[src_gs_2010_squadre__Q08]]

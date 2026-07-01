@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1998 — Matematica — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1998__Q05
 parent: src_cgen_1998
 competition: Concours Général des Lycées 1998 — Matematica
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove existence of a 2n-5 point set piercing all triangles from an n-point set*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove l'esistenza di un insieme di punti 2n-5 che attraversa tutti i triangoli da un insieme di punti n*
+
+> $n$ deve essere un numero intero superiore o uguale a $3$. Considera un insieme $A$ di punti $n$ nel piano in modo tale che non ci siano tre punti $A$ collineari.
+> 
+> Mostrare che nel piano esiste un insieme $S$ di punti $2n - 5$ in modo tale che per ogni triangolo le cui vertici sono punti $A$, esista almeno un punto $S$ che si trova rigorosamente all'interno.
+
+[[src_cgen_1998__Q05]]

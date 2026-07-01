@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1981-82 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1981-82_round2__Q01
 parent: src_bmo_1981-82_round2
 competition: British Mathematical Olympiad 1981-82 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle bisectors meet circumcircle; prove sum inequality*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e8i3xZYTs6OhsVopzbRKd7oUXgpnp9WB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I bisettori angolari incontrano il circoncircolo; dimostrare l'ineguaglianza della somma*
+
+> $ABC$ è un triangolo. Il bisettore interno dell'angolo $A$ incontra nuovamente il circoncircolo a $P$. $Q$ e $R$ sono definiti in modo simile.
+> 
+> Prove che $AP + BQ + CR > AB + BC + CA$.
+
+[[src_bmo_1981-82_round2__Q01]]

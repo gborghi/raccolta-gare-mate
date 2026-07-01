@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f1__Q08
 parent: src_obm_2012_n3_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate expression given x^2 = 2x + 1*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare espressione data x^2 = 2x + 1*
+
+> Se $x^2 = 2x + 1$, allora $(x + 1)^{-1}$ è uguale a
+> 
+> **A)** $x + 2$ $\quad$ **B)** $x - 3$ $\quad$ **C)** $x - 1$ $\quad$ **D)** $2x + 5$ $\quad$ **E)** $3x + 5$
+
+[[src_obm_2012_n3_f1__Q08]]

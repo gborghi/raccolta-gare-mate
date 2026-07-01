@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (finale nazionale) — Quesito B5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin_finale__QB5
 parent: src_kangourou_2006_benjamin_finale
 competition: Kangourou 2006 - Benjamin (finale nazionale)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di colori per gli spicchi del cerchio*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1SgavtoqL9VQ-oYTP6QSn5-u44sFmrisW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of colours for spikes of the circle*
+
+![[src_kangourou_2006_benjamin_finale__probB5.png]]
+
+> *(18 points) * A circle has been divided into a number of points (at least 4), for example as shown in Figure 1. You've been asked to color the inside of each spike so that between two spikes of the same color there are always at least two of different color, but you don't know the number of spikes in the circle (in the figure there are 5, just an example). What is the smallest number of colors that guarantees you'll succeed regardless of the number of spots? (see figure)
+
+**Answer:** 5
+[[src_kangourou_2006_benjamin_finale__QB5]]

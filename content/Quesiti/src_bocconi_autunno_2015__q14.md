@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2015 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2015__Q14
 parent: src_bocconi_autunno_2015
 competition: Giochi d'Autunno 2015
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della corona circolare tra cerchio e quadrato*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $2016$ $\text{cm}^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eK88JMTv896JXMMmFL1S8lYcD_i95Nzi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the circular crown between circle and square*
+
+> The crown is circular. Clear wrote a circle in a square (each side of each other) in a circle that, in the figure, you see white. Then he inscribed that white circle in a square which, in turn, was inscribed in a dark circle. The white circle has an area of $2016$ $\text{cm}^2$. What is the area of the circular crown?
+
+![[src_bocconi_autunno_2015__Q14.png]]
+
+**Answer:** $2016$ $\text{cm}^2$
+[[src_bocconi_autunno_2015__Q14]]

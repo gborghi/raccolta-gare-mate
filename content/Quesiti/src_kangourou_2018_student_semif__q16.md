@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Student — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_semif__Q16
 parent: src_kangourou_2018_student_semif
 competition: Kangourou 2018 Semifinale Student
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante terne ordinate (a,b,c) interi con a*b*c=45000*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3600
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many whole ternes (a,b,c) are ordered with a*b*c=45000*
+
+> (Points 7) For how many ordered ternes (a, b, c) of relative integers does a < MSK0/> b < MSK1/> c = 45,000 occur?
+
+**Answer:** 3600
+[[src_kangourou_2018_student_semif__Q16]]

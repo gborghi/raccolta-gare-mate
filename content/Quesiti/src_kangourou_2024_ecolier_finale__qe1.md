@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Ecolier 2024 — Quesito E1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_finale__QE1
 parent: src_kangourou_2024_ecolier_finale
 competition: Kangourou Finale Ecolier 2024
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale risultato ottiene Marco (sempre 1089)*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1089
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1w21FKv9v3Gf8h_K0skpT381-6hGBkHto/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What is the result of Marco (always 1089) *
+
+> Mark tries to perform the following operations: he chooses a number of three digits all different from each other, writes the number he gets by reversing the order of the digits and calculates the difference between the greater and the lesser of the two numbers. If this difference has only two digits, press the digit 0, otherwise it leaves it unchanged. Finally, it adds to the number thus obtained the number it gets by reversing the order of its digits. What is the result?
+
+**Answer:** 1089
+[[src_kangourou_2024_ecolier_finale__QE1]]

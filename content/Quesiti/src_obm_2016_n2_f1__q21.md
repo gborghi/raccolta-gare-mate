@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f1__Q21
 parent: src_obm_2016_n2_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ratio of areas [CHAM]/[AEFG] with a square of side 6*
 
@@ -43,3 +46,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ratio di superfici [CHAM]/[AEFG] con quadrato di lato 6*
+
+> Con lato quadrato $6$, $DM=MC=CE=3$. I triangoli $CEH$ e $DEA$ sono simili, quindi $\frac{CH}{DA}=\frac{CE}{DE}=\frac{3}{9}=\frac13$, dando $CH=2$ e $HB=CB-CH=4$. L'area $[CHAM]=[ACH]+[ACM]=\frac{3\cdot 6}{2}+\frac{2\cdot 6}{2}=15$. Per il teorema di Pitagore in triangolo $ADE$, $[AEFG]=AE^2=AD^2+DE^2=117$. Di conseguenza < MSK10/>. Qual è questo rapporto? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+
+**Risposta:** A
+[[src_obm_2016_n2_f1__Q21]]

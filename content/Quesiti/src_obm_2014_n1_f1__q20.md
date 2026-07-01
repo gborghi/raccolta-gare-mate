@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f1__Q20
 parent: src_obm_2014_n1_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangular block of 6 black and 6 white cubes; identify the view from behind*
 
@@ -51,3 +54,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Blocco rettangolare di 6 cubi neri e 6 bianchi; identificare la vista da dietro*
+
+> La figura a destra mostra un blocco rettangolare assemblato con sei piccoli cubetti neri e sei piccoli cubetti bianchi, tutti della stessa dimensione. Quale delle figure di seguito mostra lo stesso blocco visto da dietro?
+> 
+> A) Quad (B) Quad (C) Quad (D) Quad (E)
+
+![[src_obm_2014_n1_f1__Q20.png]]
+
+[[src_obm_2014_n1_f1__Q20]]

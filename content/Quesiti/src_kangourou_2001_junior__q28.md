@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Junior (15 marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_junior__Q28
 parent: src_kangourou_2001_junior
 competition: Kangourou 2001 - Junior (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore A-B con quadrato e semicerchi*
 
@@ -44,3 +47,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A-B value with square and semicircles*
+
+![[src_kangourou_2001_junior__prob28.png]]
+
+> If A is the area of the square (on side 4) and B is the total area of the six semicircles as shown in the figure, then the value of A  B is
+>
+> - **(A)** 8
+> - **(B)** 16 – 3π
+> - **(C)** 16 – 4π
+> - **(D)** 16 – 8π + 2√5 π
+> - **(E)** 16 – 4π + √5 π.
+
+**Answer:** D
+[[src_kangourou_2001_junior__Q28]]

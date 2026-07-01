@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_preecolier_marzo__Q18
 parent: src_kangourou_2017_preecolier_marzo
 competition: Kangourou 2017 Pre-Ecolier - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante mucche per raddoppiare il rapporto animali*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many cows to double the animal ratio< MSK1/>
+
+> There's a horse, two cows and three pigs on Gino's old farm. How many more cows does Gino have to buy if he wants the number of all the animals on the farm to be twice the number of cows?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 4
+
+**Answer:** C
+[[src_kangourou_2017_preecolier_marzo__Q18]]

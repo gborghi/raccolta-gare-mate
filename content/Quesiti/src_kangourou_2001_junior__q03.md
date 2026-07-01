@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Junior (15 marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_junior__Q03
 parent: src_kangourou_2001_junior
 competition: Kangourou 2001 - Junior (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza diagonale d del poligono*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Diagonal length d of the polygon*
+
+> One of the diagonal d divides a polygon of 31 cm perimeter into two polygons of 21 cm and 30 cm perimeter respectively. So the length of d is
+>
+> - **(A)** 5 cm
+> - **(B)** 10 cm
+> - **(C)** 15 cm
+> - **(D)** 20 cm
+> - **(E)** cannot be determined without further information.
+
+**Answer:** B
+[[src_kangourou_2001_junior__Q03]]

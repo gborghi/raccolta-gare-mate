@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2013 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_classiprime__Q11
 parent: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Monomi da aggiungere a x^8+x^4 per ottenere quadrato di binomio*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Money to be added to x^8+x^4 to obtain binomial square*
+
+> To the polynomial x8 + x4 you want to add a monomial (of degree different from 4 and 8) so that the trinomial you get is the square of a binomial. How many different ways can this be done? A 4 B 1 C 2 D 3 E 5 F more than 5
+
+**Answer:** A
+[[src_archimede_2013_classiprime__Q11]]

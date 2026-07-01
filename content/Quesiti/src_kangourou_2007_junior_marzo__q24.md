@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q24
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max abitanti della citta (numero capelli)*
 
@@ -58,3 +61,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max population of the city (number of hairs) < MSK1/>
+
+> In a city, there are no two people with the same number of hairs, and no one has exactly 9999 hairs. The number of inhabitants of the city is greater than the number of hairs of the person who has more. How many people can that town be? A) 1 B) 9997 C) 9998 D) 9999 E) 10000 1 2
+>  
+> The Commission has decided to extend the scope of this Regulation to the following areas:
+> 
+> I'm going to pay. I'm going to pay. 27 27 Kang 2007 Kang
+
+**Answer:** D
+[[src_kangourou_2007_junior_marzo__Q24]]

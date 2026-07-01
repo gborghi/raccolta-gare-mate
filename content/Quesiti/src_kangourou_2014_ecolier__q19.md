@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Ecolier — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier__Q19
 parent: src_kangourou_2014_ecolier
 competition: Kangourou 2014 marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo scambi per comporre la parola SEGMENTO*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum exchanges to compose the word SEGEMENT*
+
+![[src_kangourou_2014_ecolier__prob19.png]]
+
+> Anna has lined up some cards, each with a letter on it, as you can see in the picture. Making a move on these cards means swapping two of them. What is the minimum number of moves that allows you to compose the word SEGMENT? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** B
+[[src_kangourou_2014_ecolier__Q19]]

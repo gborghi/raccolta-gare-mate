@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2022__Q04
 parent: src_tfjm_2022
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A memoryless gold-seeker uses three tools with limited lifetimes that goblins can repair overnight; he forgets everything daily, so find a strategy minimizing total cost c_n while never losing nuggets, then generalize to k tools, lucky charms, and rescuers.*
 
@@ -77,3 +80,35 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C7JOrKkoZ1206MAEq0GAwv-ifvn_yjCd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Un cercatore d'oro senza memoria utilizza tre strumenti con vite limitate che i goblin possono riparare durante la notte; dimentica tutto ogni giorno, quindi trova una strategia per ridurre al minimo il costo totale senza perdere mai le nugget, quindi generalizzalo a k strumenti, incantesimi di fortuna e salvatori.*
+
+> Nano senza memoria.
+> 
+> Il nano Alaric è un cercatore di oro. Va ogni giorno alla miniera a trovare delle nugget lì.
+> 
+> Ogni giorno ci sono tre attrezzi: un pugnale, un casco e una lampada. Ogni strumento, utilizzato con una certa forza, ha una durata limitata: una picca, un casco e una lampada servono rispettivamente per 2, 3 e 3 giorni, dopo i quali cessano di funzionare. Alaric ha la possibilità di lasciare alcuni strumenti ai goblin la sera quando esce dalla miniera, in modo che gli vengano restituiti come nuovi la mattina dopo.
+> 
+> Tuttavia, Alaric è vittima di una maledizione: al risveglio, la mattina dopo, ha dimenticato tutto ciò che avrebbe potuto fare i giorni precedenti. E' anche incapace di osservare l'usura dei suoi strumenti. Così, ogni sera, nel momento in cui sceglie quali strumenti lasciare ai goblin, non è in grado di sapere quanto sono indossati, o quale gli appartiene. Domani mattina prenderà uno strumento che non è né troppo vecchio né; gli strumenti che prenderà tra quelli che troverà. Se cerca di usare uno strumento che non funziona più, allora non può scavare né raccogliere nuggets quel giorno.
+> 
+> L'obiettivo del nano è quello di trovare una strategia per spendere il minimo denaro possibile assicurandosi di non perdere le nugget: il primo giorno, i goblin gli forniscono tutti i suoi strumenti nuovi, ma la mattina dopo non saprà se è il primo giorno. Uno indica con $c_n$ la quantità più piccola possibile che il nano spenderà fino al $n$-th giorno, assicurandosi di non perdere nuggets fino al $n$-th giorno.
+> 
+> 1. Inserire < MSK0/> con la massima precisione possibile. La stessa domanda se la lampada può servire fino a 4 giorni invece di 3.
+> 
+> 2. Il nano ora ha gli strumenti. Uno indica $v_1, \ldots, v_k \ge 1$ le loro vite e $c_n(v_1, \ldots, v_k)$ la quantità minima che il nano spenderà fino al $n$-th giorno assicurandosi di non perdere nuggets fino al $n$-th giorno. Estimare $c_n(v_1, \ldots, v_k)$, essendo interessato principalmente nei casi $n > 2^k$, per a) $k = 2$ e $v_1, v_2 \ge 1$ arbitrario. b) < MSK9/> per tutti < MSK10/>. c) $v_i > k$ per tutti $i \in [\![1, k]\!]$. d) $v_i = i$ per tutti $i \in [\![1, k]\!]$. e) $v_i = 2^i$ per tutti $i \in [\![1, k]\!]$. f) < MSK17/> arbitrario. Potrebbe interessare altri valori particolari di < MSK18/>.
+> 
+> 3. Si dispone sempre di $c_n(v_1, \ldots, v_{k+1}) \ge c_n(v_1, \ldots, v_k)$ per tutti $n, k, v_1, \ldots, v_k, v_{k+1} \ge 1$? Se non è così, date dei contro-esempi.
+> 
+> 4. In questa domanda, Alaric può comprare un fascino di fortuna dai goblin, che costa una moneta e ha una vita infinita. La mattina, quando si sveglia, se ha un fascino fortunato, può decidere la sera di buttarlo via o tenerlo, e se non ne ha uno, può decidere la sera di comprarlo o no. a) Ripetere le domande precedenti in questo contesto. In particolare, esistono strumenti per i quali la presenza del fascino di fortuna riduce il costo minimo? Se sì, descriverli. b) La stessa domanda se i goblin propongono diversi incantesimi di fortuna contemporaneamente.
+> 
+> 5. Ora, se il nano rompe uno dei suoi strumenti nella miniera, può chiamare aiuto in modo che un team di soccorritori venga a prenderlo, ma questo gli costerà monete. Deve poi lasciare i suoi strumenti rotti ai goblin, e non può comunicare alcuna informazione a loro (dal momento che non parlano la lingua nanna). Ripetere le domande da 1 a 4 in questo contesto. In particolare, esistono strumenti per i quali la presenza dei soccorritori riduce il costo? Se sì, descriverli.
+> 
+> 6. Proporre e studiare altre direzioni di ricerca.
+
+![[src_tfjm_2022__Q04.png]]
+
+[[src_tfjm_2022__Q04]]

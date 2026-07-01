@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_2livello__Q06
 parent: src_archimede_2006_2livello
 competition: Archimede Gara 2° livello 2006 (biennio/triennio)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero triangoli nel poligono F10 della tassellazione*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of triangles in the F10 polygon of the fastener*
+
+> Consider the plane marked with equilateral triangles, and whether F0 is any one of them. A sequence of increasingly larger figures is constructed in this way: F1 is the polygon obtained by adding to F0 the frame formed by all the triangles of the fastening that touch F0 (for one side or for one vertex), F2 is the polygon obtained by adding to F1 the frame formed by the triangles that touch F1, and similarly the subsequent ones up to F10 are constructed. How many triangles of the axle is this last polygon composed of?
+>
+> - **(A)** 541
+> - **(B)** 661
+> - **(C)** 691
+> - **(D)** 721
+> - **(E)** 841.
+
+**Answer:** B
+[[src_archimede_2006_2livello__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q18
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A subset of {1,...,20} is 'superpar' when any two of its elements have an even product; find the maximum number of elements.*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un sottoinsieme di {1,...,20} è 'superpar' quando due dei suoi elementi hanno un prodotto pari; trovare il numero massimo di elementi.*
+
+> Un sottoinsieme di $\{1, 2, 3, \dots, 20\}$ è \textit{superpar} quando due dei suoi elementi hanno un prodotto pari. Il maggior numero di elementi di un sottoinsieme superpar è: (A) $3$ (B) $4$ (C) $6$ (D) $7$ (E) $11$
+
+[[src_obm_2009_n3_f1__Q18]]

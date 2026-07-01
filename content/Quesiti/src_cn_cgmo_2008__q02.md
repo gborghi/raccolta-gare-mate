@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2008 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2008__Q02
 parent: src_cn_cgmo_2008
 competition: China Girls' Mathematical Olympiad 2008
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cubic with three positive roots: prove coefficient inequality*
 
@@ -47,3 +50,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Cubico con tre radici positive: prova la disuguaglianza dei coefficienti < MSK1/>
+
+> Il polinomio reale $\varphi(x) = ax^3 + bx^2 + cx + d$ ha tre radici positive e $\varphi(0) < 0$. Prove che $$2b^3 + 9a^2 d - 7abc \le 0.$$ (Posato da Zhu Huawei)
+
+[[src_cn_cgmo_2008__Q02]]

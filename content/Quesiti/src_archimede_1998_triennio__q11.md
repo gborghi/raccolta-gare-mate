@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Triennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_triennio__Q11
 parent: src_archimede_1998_triennio
 competition: Giochi di Archimede 1998 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Negazione di tutti i numeri perfetti sono pari*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Negation of all perfect numbers is equal*
+
+> What is the negation of all perfect numbers are equal? (You don't have to know what a perfect number is.)
+>
+> - **(A)** All perfect numbers are odd.
+> - **(B)** There's at least one odd perfect number.
+> - **(C)** There is at least one even number that is not perfect.
+> - **(D)** No odd number is perfect.
+> - **(E)** No number is perfect.
+
+**Answer:** B
+[[src_archimede_1998_triennio__Q11]]

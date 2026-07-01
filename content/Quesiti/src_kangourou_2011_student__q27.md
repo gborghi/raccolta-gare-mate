@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q27
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti punteggi complessivi distinti con 3 frecce*
 
@@ -64,3 +67,31 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many distinct overall scores with 3 arrows*
+
+![[src_kangourou_2011_student__prob27.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) circle (4);
+  \draw (0,0) circle (3);
+  \draw (0,0) circle (2);
+  \draw (0,0) circle (1);
+  \node at (-3.5, 0) {1};
+  \node at (-2.5, 0) {3};
+  \node at (-1.5, 0) {7};
+  \node at (0, 0) {12};
+\end{tikzpicture}
+\end{document}
+```
+
+> Robin Hood threw three arrows at a target and, of course, always centered it, earning points each time according to the pattern illustrated in the figure. How many different overall scores could he have scored? A) 13 B) 17 C) 19 D) 20 E) 21
+
+**Answer:** C
+[[src_kangourou_2011_student__Q27]]

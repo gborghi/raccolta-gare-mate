@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2008 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2008__Q09
 parent: src_bocconi_semifinale_2008
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2008
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume del parallelepipedo non cubo con area 448*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $512 \text{ cm}^3$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of non-cubic parallel-piped with area 448*
+
+> Surely you have considered two equal rectangular parallel pipes, each with a total area of < MSK0/>. A rectangular (non-cubic) parallelepiped with a total area of < MSK1/> can also be obtained. What would be the volume of this cube?
+
+**Answer:** $512 \text{ cm}^3$
+[[src_bocconi_semifinale_2008__Q09]]

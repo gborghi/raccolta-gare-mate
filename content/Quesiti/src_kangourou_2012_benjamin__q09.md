@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q09
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti chili pesa il canestro del pallone*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How much weight does the basket of the ball weigh< MSK1/>
+
+> A balloon can lift a basket if it contains material weighing no more than 80 kilograms. Two balloons attached to the same basket can lift it if it contains material weighing no more than 180 kilograms. How many kilos does the basket weigh? A) 10 B) 20 C) 30 D) 40 E) 50
+
+**Answer:** B
+[[src_kangourou_2012_benjamin__Q09]]

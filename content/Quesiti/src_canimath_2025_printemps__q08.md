@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2025 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_printemps__Q08
 parent: src_canimath_2025_printemps
 competition: Coupe Animath Printemps 2025
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute nested radical expression involving square roots*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Espressione radicale incastonata di calcolo che coinvolge radici quadrate*
+
+> Calcolare $$\sqrt{\sqrt{27} \cdot \sqrt{75} + \sqrt{3} \cdot \sqrt{8} \cdot \sqrt{54}}.$$ Qui si prevede una risposta numerica semplificata.
+
+[[src_canimath_2025_printemps__Q08]]

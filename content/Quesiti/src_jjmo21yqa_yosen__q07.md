@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo21yqa_yosen__Q07
 parent: src_jjmo21yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max countries outscoring country J's team*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 33
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11kigjl_Wt-al8ocndA12n0n3x8dtw2E3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Maximi paesi che superano il team del paese J< MSK1/>
+
+> In una competizione con i paesi $100$ compresi i paesi J, i giocatori $3$ di ciascun paese (un totale di giocatori $300$) fanno un test e tutti $300$ ottengono punteggi di numeri interi distinti non negativi. I tre giocatori di Country J ottengono i punteggi classificati $1$st, $10$th e $100$th più alti tra tutti i giocatori $300$. Trovare il numero massimo possibile di paesi, tra i restanti $99$, che soddisfino la seguente condizione: la somma dei punteggi dei tre giocatori di quel paese è superiore alla somma dei punteggi dei tre giocatori del paese J.
+
+**Risposta:** 33
+[[src_jjmo21yqa_yosen__Q07]]

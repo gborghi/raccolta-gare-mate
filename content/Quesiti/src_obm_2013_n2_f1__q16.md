@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q16
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest common divisor of all 9-digit pandigital numbers (digits 1-9)*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più grande divisore comune di tutti i numeri a 9 cifre (cifre 1-9) *
+
+> Determina il più grande divisore comune a tutti i numeri a 9 cifre formati utilizzando ciascuno dei numeri $1, 2, 3, 4, 5, 6, 7, 8, 9$ esattamente una volta.
+> 
+> (A) 3 \quad (B) 9 \quad (C) 18 \quad (D) 27 \quad (E) 123456789
+
+**Risposta:** B
+[[src_obm_2013_n2_f1__Q16]]

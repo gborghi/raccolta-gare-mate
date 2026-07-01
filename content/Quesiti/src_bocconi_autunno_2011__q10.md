@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2011 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2011__Q10
 parent: src_bocconi_autunno_2011
 competition: Giochi d'Autunno 2011
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare i tredici numeri cancellati nel rettangolo magico 3×7*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Riga 1: 10, 21, 9, 16, 5, 14, 2; Riga 2: 3, 4, 7, 11, 15, 18, 19; Riga 3: 20, 8, 17, 6, 13, 1, 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find the 13 deleted numbers in the magic rectangle 3×7*
+
+> The rectangle of the figure contains all integers from 1 to 21. The rectangle is "magical" because the sum of the numbers written on the various lines is always the same and that the sums of the numbers in the same columns are also between them. Find the 13 deleted numbers.
+
+![[src_bocconi_autunno_2011__Q10.png]]
+
+**Answer:** Riga 1: 10, 21, 9, 16, 5, 14, 2; Riga 2: 3, 4, 7, 11, 15, 18, 19; Riga 3: 20, 8, 17, 6, 13, 1, 12
+[[src_bocconi_autunno_2011__Q10]]

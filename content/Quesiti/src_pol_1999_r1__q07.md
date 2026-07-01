@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r1__Q07
 parent: src_pol_1999_r1
 competition: Olimpiade Matematica Polacca 1999 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all degree-n polynomials with exactly n real roots not exceeding -1 satisfying a_0^2+a_1 a_n=a_n^2+a_0 a_{n-1}.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i polinomi di grado n con esattamente n radici reali non superiori a -1 soddisfacendo a_0^2+a_1 a_n=a_n^2+a_0 a_{n-1}.*
+
+> $n \ge 2$ sia un numero intero. Trova tutti i polinomi $P(x) = a_0 + a_1 x + \cdots + a_n x^n$ con radici reali $n$ non superiori a $-1$ e soddisfacente $$a_0^2 + a_1 a_n = a_n^2 + a_0 a_{n-1}.$$
+
+[[src_pol_1999_r1__Q07]]

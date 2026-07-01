@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2010 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2010__Q03
 parent: src_cn_cmo_2010
 competition: China Mathematical Olympiad 2010
@@ -32,6 +33,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Complex polynomial bounded on unit disk, find maximum of middle coefficient*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomio complesso dilimitato sul disco unitario, trovare il coefficiente medio massimo*
+
+> $a$, $b$, $c$ siano numeri complessi in modo tale che $|az^2 + bz + c| \le 1$ per tutti i numeri complessi $z$ con $|z| \le 1$. Trova il valore massimo di $|b|$. (Posizione di Li Weigui)
+
+[[src_cn_cmo_2010__Q03]]

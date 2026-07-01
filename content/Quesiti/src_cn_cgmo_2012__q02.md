@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2012 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2012__Q02
 parent: src_cn_cgmo_2012
 competition: China Girls' Mathematical Olympiad 2012
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove ratio and angle equalities for two externally tangent circles*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove le equazioni di angolo e di rapporto per due cerchi tangenti esternamente*
+
+> Come mostrato nella figura, i cerchi $\Gamma_1$ e $\Gamma_2$ sono tangenti esternamente al punto $T$. I punti $A$ e $E$ sono sul cerchio $\Gamma_1$, le linee $AB$ e $DE$ sono tangenti al cerchio $\Gamma_2$ rispettivamente sui punti $B$ e $D$. Le linee $AE$ e $BD$ si incontrano al punto $P$. Provare che (1) $\dfrac{AB}{AT} = \dfrac{ED}{ET}$; (2) $\angle ATP + \angle ETP = 180^\circ$. (Posizionato da Xiong Bin)
+
+![[src_cn_cgmo_b11_w209__Q02.png]]
+
+[[src_cn_cgmo_2012__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (finale nazionale) — Quesito J5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior_finale__QJ5
 parent: src_kangourou_2005_junior_finale
 competition: Kangourou 2005 - Junior (finale nazionale)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto dei fattoriali non quadrato ma lo e diviso 50!*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** dimostrazione
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DN9SkcNnbA6zI_cH2lP8x9OGdjtWTlV1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> Product of factories not squared but divided by 50! < MSK1/>
+
+> For each positive integer $n$, "factor of $n$"  is said and the symbol $n!$  indicates the product of all integers from $1$ to $n$ included, each considered once and only once (so you have $1! = 1$, $2! = 2$, $3! = 6$, $4! = 24$ and so on). It shows that the $$1! \times 2! \times \cdots \times 99! \times 100!$$ product of the factors of the first positive $100$ integers is not a perfect square, but its quotient with $50!$ is.
+
+**Answer:** dimostrazione
+[[src_kangourou_2005_junior_finale__QJ5]]

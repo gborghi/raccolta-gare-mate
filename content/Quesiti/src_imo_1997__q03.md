@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1997 (38th IMO, Mar del Plata) — Quesito 3'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1997__Q03
 parent: src_imo_1997
 competition: 'IMO 1997 (38th IMO, Mar del Plata)'
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Permutation making weighted sum small under coefficient bounds*
 
@@ -47,3 +50,27 @@ tags:
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g-riBxA5RS3xIizqUBYrgemajJKWaBw5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Permutation making weighted sum small under coefficient bounds*
+
+> Let x1, x2, . . . , xn be real numbers satisfying the conditions
+> |x1 + x2 + · · + xn| = 1
+> and
+> |xi| ≤n + 1
+> 2
+> i = 1, 2, . . . , n.
+> Show that there exists a permutation y1, y2, . . . , yn of x1, x2, . . . , xn such that
+> |y1 + 2y2 + · · + nyn| ≤n + 1
+> 2
+> .
+> 
+> 38th International Mathematical Olympiad
+> Mar del Plata, Argentina
+> Day II
+> July 25, 1997
+
+[[src_imo_1997__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2013 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo23mq_honsen__Q01
 parent: src_jmo23mq_honsen
 competition: Japan Mathematical Olympiad 2013 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distribute candies to grouped people under conditions*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PB6QVfFVyF4M6--riIsWoTuMBhLU_5t7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Distribuire caramelle a gruppi di persone in condizioni< MSK1/>
+
+> $n,k$ siano integri positivi con $n \ge k$. Ci sono persone $n$, e ciascuna persona appartiene esattamente a uno dei gruppi $1, \ldots, k$. Inoltre, ogni gruppo contiene almeno una persona. Dimostrare che, in queste condizioni, è possibile distribuire le caramelle $n^2$ tra le persone $n$ in modo che siano soddisfatte tutte le seguenti condizioni:
+> 
+> - Ogni persona riceve almeno < MSK0/> dolci. - Ogni persona appartenente al gruppo < MSK1/> riceve esattamente < MSK2/> dolci < MSK3/>. - Se < MSK4/>, allora < MSK5/>.
+
+[[src_jmo23mq_honsen__Q01]]

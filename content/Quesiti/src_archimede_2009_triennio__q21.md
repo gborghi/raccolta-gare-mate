@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Triennio — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_triennio__Q21
 parent: src_archimede_2009_triennio
 competition: Giochi di Archimede 2009 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri n con n e (n-6)^2+1 entrambi primi*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers n with n and (n-6)^2+1 both prime*
+
+> For how many natural numbers n, are both n and (n −6) 2 + 1 prime?
+>
+> - **(A)** 1,
+> - **(B)** 3,
+> - **(C)** 4,
+> - **(D)** 7,
+> - **(E)** more than eight.
+
+**Answer:** B
+[[src_archimede_2009_triennio__Q21]]

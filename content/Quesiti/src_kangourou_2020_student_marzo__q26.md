@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q26
 parent: src_kangourou_2020_student_marzo
 competition: Kangourou 2020 Student - gara marzo (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di biglie che restano nella scatola*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of seeds remaining in the box< MSK1/>
+
+> Antonio has a box with 71 balls. The rules of the game allow him, with each move, to remove exactly 30 cards or to re-enter the box exactly 18 of the cards removed in the previous moves. If Antonio can remove or re-put the seeds in the box as many times as he wants, what is the minimum number of seeds that will remain in the box anyway? A) 1
+> 	
+> B) 3
+> 	
+> C) 5
+> 	
+> D) 7
+> 	
+> E) 11
+
+**Answer:** C
+[[src_kangourou_2020_student_marzo__Q26]]

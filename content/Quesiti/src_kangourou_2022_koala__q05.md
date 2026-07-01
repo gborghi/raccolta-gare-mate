@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Koala — Gioco Koala — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_koala__Q05
 parent: src_kangourou_2022_koala
 competition: Kangourou 2022 Koala — Gioco Koala
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pezzo strappato dalla mappa del tesoro*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nyec1GxOQ3f28I_D0c1kacejlV99W-GD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Weight ripped from the treasure map < MSK1/>
+
+![[src_kangourou_2022_koala__prob5.png]]
+
+> Which of the following pieces could be the piece that was torn off this treasure map? (see figure)
+
+**Answer:** B
+[[src_kangourou_2022_koala__Q05]]

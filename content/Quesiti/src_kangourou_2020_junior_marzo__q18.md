@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q18
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo formato da due quadrati in triangolo equilatero*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Angle formed by two squares in an equilateral triangle*
+
+![[src_kangourou_2020_junior_marzo__prob18.png]]
+
+> The figure shows an equilateral triangle containing two squares: one side of one of the two and a vertex of the other are contained on two sides of the triangle, and the degree of one of the angles that have been formed is indicated. What is the degree measurement of the angle indicated by the point of application? A) 25
+> 	
+> B) 30
+> 	
+> C) 35
+> 	
+> D) 45
+> 	
+> E) 50
+
+**Answer:** E
+[[src_kangourou_2020_junior_marzo__Q18]]

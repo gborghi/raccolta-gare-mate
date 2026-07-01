@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo31yq_yosen__Q11
 parent: src_jmo31yq_yosen
 competition: Japan Mathematical Olympiad 2021 — Yosen (Preliminary)
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum maxima/minima of three pairings over all tuples; divisors of M-m*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 20412
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa massima/minima di tre abbinamenti su tutti i tuppi; divisori di M-m*
+
+> Su tutti i tuppi $(x,y,z,w)$ di numeri interi ognuno almeno $1$ e al massimo $1000$, $M$ sia la somma dei valori massimi di $xy+zw$, $zx+yw$, $xw+yz$ (cioè per ogni tuple sommare il più grande di questi tre quantitativi). Allo stesso modo, su tutti tali tupli $(x,y,z,w)$, $m$ sia la somma dei valori minimi di $xy+zw$, $zx+yw$, $xw+yz$. Trova il numero dei divisori positivi di $M-m$.
+
+**Risposta:** 20412
+[[src_jmo31yq_yosen__Q11]]

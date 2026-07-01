@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Semifinale individuale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet_semifinale__Q12
 parent: src_kangourou_2023_cadet_semifinale
 competition: Kangourou 2023 Cadet — Semifinale individuale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *n sia 23*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1M9sXIkUDY4rP1rr4DHPF0VSPHt_-LbxS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>n is 23< MSK1/>
+
+> (Points 5) How many positive integers are n such that the rest of division 2023: n is 23?
+
+[[src_kangourou_2023_cadet_semifinale__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Finale Nazionale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_finale__Q11
 parent: src_squadre_2024_finale
 competition: Gara a Squadre 2024 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sequenze di 4 lanci dado per tornare alla casella 1*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0028
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sequences of 4 dice to return to box 1*
+
+> The Ring of Riddles On the open terrace there is a ring path made up of 20 boxes numbered in the order of 1 to 20. Fredmath wants to play and places himself on box 1, throws a classic giant 6-sided dice and advances the indicated; he is given a riddle, if he answers correctly he starts a new turn by throwing the dice, if he makes a mistake, instead, he returns back 2 boxes and then starts a new turn by throwing the dice. He can do whatever shifts he wants. It's just a challenge to himself. Knowing that all the riddles are easy for him and he answers all correctly except box 6, how many sequences of four dice rolls are possible for Fredmath to return to box 1 exactly?
+
+**Answer:** 0028
+[[src_squadre_2024_finale__Q11]]

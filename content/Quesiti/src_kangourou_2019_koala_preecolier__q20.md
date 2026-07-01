@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q20
 parent: src_kangourou_2019_koala_preecolier
 competition: Kangourou 2019 Koala n.6 Pre-Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante noci ha lo scoiattolo con piu noci (7 noci, 3 diversi)*
 
@@ -41,3 +44,21 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many nuts does the squirrel have with more nuts (7 nuts, 3 different)
+
+![[src_kangourou_2019_koala_preecolier__prob20.png]]
+
+> Three squirrels together found seven nuts. Each found a different number of nuts than the others, and they all found at least one. How many walnuts did the squirrel find?
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6
+
+[[src_kangourou_2019_koala_preecolier__Q20]]

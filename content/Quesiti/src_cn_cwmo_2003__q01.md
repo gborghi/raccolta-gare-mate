@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2003 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2003__Q01
 parent: src_cn_cwmo_2003
 competition: China Western Mathematical Olympiad 2003
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min sum of 4 numbers on a cube face*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 16
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Min somma di 4 numeri su una faccia cubica*
+
+> Mettere i numeri $1, 2, 3, 4, 5, 6, 7$ e $8$ alle vertici di un cubo, in modo che la somma di tutti e tre i numeri su qualsiasi faccia non sia inferiore a $10$. Trova la somma minima dei quattro numeri su una faccia.
+
+![[src_cn_cwmo_2003__Q01.png]]
+
+**Risposta:** 16
+[[src_cn_cwmo_2003__Q01]]

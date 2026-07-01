@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q03
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Recover input number from a sequence of operations*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricuperare il numero di input da una sequenza di operazioni*
+
+> Renata ha digitato un numero sulla sua calcolatrice, lo ha moltiplicato per $3$, aggiunto $12$, diviso il risultato per $7$ e ottenuto il numero $15$. Il numero che ha digitato era:
+>
+> - **(A)** $31$
+> - **(B)** $7$
+> - **(C)** $39$
+> - **(D)** $279$
+> - **(E)** $27$
+
+**Risposta:** A
+[[src_obm_1998_n1_f1__Q03]]

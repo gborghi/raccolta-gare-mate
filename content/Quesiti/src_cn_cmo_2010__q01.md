@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2010 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2010__Q01
 parent: src_cn_cmo_2010
 competition: China Mathematical Olympiad 2010
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two intersecting circles, line CF meets circles at P Q, midpoints of arcs, prove concyclic*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi incrociati, la linea CF incontra i cerchi a P Q, punti di mezzo di archi, prova conciclica*
+
+> Come mostrato di seguito, due cerchi $\Gamma_1$, $\Gamma_2$ si incrociano nei punti $A$, $B$. Una linea che attraversa $B$ incrocia $\Gamma_1$, $\Gamma_2$ nei punti $C$, $D$; un'altra linea che attraversa $B$ incrocia $\Gamma_1$, $\Gamma_2$ nei punti $E$, $F$; e la linea $CF$ incrocia $\Gamma_1$, $\Gamma_2$ nei punti $P$ e $Q$, rispettivamente. I punti medi $M$ e $N$ siano rispettivamente $\widehat{PB}$ (su $\Gamma_1$) e $\widehat{QB}$ (su $\Gamma_2$). Disegnare le linee $CM$ e $FN$. Provare che < MSK27/>, < MSK28/>, < MSK29/>, < MSK30/> sono conciclici. (Posato da Xiong Bin)
+
+![[src_cn_cmo_2010__Q01.png]]
+
+[[src_cn_cmo_2010__Q01]]

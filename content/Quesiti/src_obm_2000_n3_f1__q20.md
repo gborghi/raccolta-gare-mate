@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q20
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Position of glued flag on the rightmost gear in a meshing chain*
 
@@ -53,3 +56,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Posizione della bandiera incollata sull'attrezzatura più a destra di una catena di magliatura*
+
+> Juliano incollava una piccola bandiera grigia su ciascun equipaggiamento, come mostra la figura seguente. Le engranaggi sono tutte uguali e, quando il cambio sulla sinistra girò un po', la sua piccola bandiera occupava la posizione indicata dalla piccola bandiera puntata in bianco. In questa situazione, possiamo affermare che la posizione della piccola bandiera sull'attrezzatura a destra è:
+
+![[src_obm_2000_n3_f1__Q20.png]]
+
+**Risposta:** A
+[[src_obm_2000_n3_f1__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2002 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2002__Q07
 parent: src_rmo_2002
 competition: Regional Mathematical Olympiad 2002
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integers a,b,c,d satisfying two conditions*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_m3GjaVBEfcL0ShA4FjgFrQjp3KoeJKA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli integri a,b,c,d che soddisfano due condizioni*
+
+> Trova tutti gli enti $a, b, c, d$ che soddisfano le seguenti relazioni: (i) $1 \le a \le b \le c \le d$; (ii) $ab + cd = a + b + c + d + 3$.
+
+[[src_rmo_2002__Q07]]

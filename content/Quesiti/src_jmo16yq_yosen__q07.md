@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo16yq_yosen__Q07
 parent: src_jmo16yq_yosen
 competition: Japan Mathematical Olympiad 2006 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count triples of mutually coprime 2-digit integers sharing digit-equality conditions*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i triplici di numeri interi a 2 cifre reciprocamente coprimari condividendo condizioni di uguaglianza digitali*
+
+> Che $x, y, z$ siano reciprocamente coprime interi positivi a due cifre in modo tale che la decina di $x$ sia pari alla decina di $y$, la decina di unità di $y$ sia pari alla decina di unità di $z$, e la decina di $z$ sia pari alla decina di unità di $x$. Quanti treplici $(x, y, z)$ esistono, contando treplici con lo stesso insieme di valori ma ordinamenti diversi come distinti?
+
+[[src_jmo16yq_yosen__Q07]]

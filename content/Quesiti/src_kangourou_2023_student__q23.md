@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q23
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Configurazione di 625,626,627 in una spirale numerica*
 
@@ -50,3 +53,23 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Configuration of 625,626,627 in a numbered spiral< MSK1/>
+
+![[src_kangourou_2023_student__prob23.png]]
+
+> The integers starting from 1 are arranged in a spiral sequence, as shown in the figure. In which of the following configurations are numbers 625, 626 and 627? A)
+> 	
+> 	
+> B) C) D)
+> 	
+> 	
+> 	
+> E)
+
+**Answer:** B
+[[src_kangourou_2023_student__Q23]]

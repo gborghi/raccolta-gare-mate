@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2013 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2013_printemps__Q03
 parent: src_canimath_2013_printemps
 competition: Coupe Animath Printemps 2013
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rhombus with special point K on CD, prove A, K, P collinear*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rhombus con punto speciale K su CD, prova A, K, P collineare*
+
+> Lascia che il $ABCD$ sia un rombo. Il punto $K$ deve essere un punto della riga $(CD)$, diverso da $C$ e $D$, in modo tale che $AD = BK$. Il punto di intersezione della linea $(BD)$ con il bisettore perpendicolare del segmento $[BC]$ è $P$. Provare che i punti $A$, $K$ e $P$ sono collineari.
+
+[[src_canimath_2013_printemps__Q03]]

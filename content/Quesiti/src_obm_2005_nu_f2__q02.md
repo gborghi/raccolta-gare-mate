@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 2 —
   Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_nu_f2__Q02
 parent: src_obm_2005_nu_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a sequence of integrals is increasing and divergent*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B-VoDPg_AHX_VA8woSsj9mylOr9Jg297/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che una sequenza di integrali è crescente e divergente*
+
+> Lasciate che $f$ e $g$ siano funzioni continue distinte da $[0,1]$ a $(0,+\infty)$ in modo tale che $\int_0^1 f(x)\,dx = \int_0^1 g(x)\,dx$. Per $n \ge 0$, definire $$y_n = \int_0^1 \frac{f(x)^{n+1}}{g(x)^n}\,dx.$$ Prove che la sequenza $(y_n)_{n \ge 0}$ è in aumento e divergente.
+
+[[src_obm_2005_nu_f2__Q02]]

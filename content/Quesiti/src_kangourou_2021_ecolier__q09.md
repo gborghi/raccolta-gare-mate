@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - gara marzo — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier__Q09
 parent: src_kangourou_2021_ecolier
 competition: Kangourou 2021 Ecolier - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Foglie rimaste sui tre rami di eucalipto*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Flows remaining on the three branches of the eucalyptus*
+
+> A koala ate some leaves from three branches of eucalyptus. Each branch had 20 leaves: the koala from the first branch ate some and from the second branch ate as many leaves as were left on the first. Finally, he ate two leaves from the third branch. How many leaves in all are left on the three branches? A) 20
+> 	
+> B) 22
+> 	
+> C) 28
+> 	
+> D) 32
+> 	
+> E) 38
+
+**Answer:** E
+[[src_kangourou_2021_ecolier__Q09]]

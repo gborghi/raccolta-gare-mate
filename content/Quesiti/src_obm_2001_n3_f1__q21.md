@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f1__Q21
 parent: src_obm_2001_n3_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of real x with x^2+x+1 = 156/(x^2+x)*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di x reale con x^2+x+1 = 156/(x^2+x) *
+
+> La somma dei valori reali di $x$ tale che $x^2 + x + 1 = 156/(x^2 + x)$ è:
+> 
+> **A)** 13 $\quad$ **B)** 6 $\quad$ **C)** $-1$ $\quad$ **D)** $-2$ $\quad$ **E)** $-6$
+
+**Risposta:** C
+[[src_obm_2001_n3_f1__Q21]]

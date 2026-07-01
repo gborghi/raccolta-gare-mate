@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q09
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-digit number reversed gives odd; difference equals cube*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un numero a due cifre invertito dà odd; la differenza è uguale a cubo*
+
+> Un certo numero a due cifre $N$ è il quadrato di un numero naturale. Invertendo le cifre di quel numero, si ottiene un numero impar. La differenza tra i due numeri è il cubo di un numero naturale. Possiamo affermare che la somma delle cifre di $N$ è:
+> 
+> (A) $7$ \quad (B) $10$ \quad (C) $13$ \quad (D) $9$ \quad (E) $11$
+
+**Risposta:** E
+[[src_obm_2000_n1_f1__Q09]]

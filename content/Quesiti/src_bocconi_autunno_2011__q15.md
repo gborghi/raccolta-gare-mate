@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2011 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2011__Q15
 parent: src_bocconi_autunno_2011
 competition: Giochi d'Autunno 2011
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero intero positivo il cui quadrato ha quattro cifre tutte pari*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 68 oppure 78 oppure 80 oppure 92
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Positive integer whose square has four digits all equal*
+
+> Give an example of a positive integer whose square has four digits, all equal.
+
+**Answer:** 68 oppure 78 oppure 80 oppure 92
+[[src_bocconi_autunno_2011__Q15]]

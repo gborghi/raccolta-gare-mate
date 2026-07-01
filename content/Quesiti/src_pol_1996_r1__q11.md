@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1996 — Round 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1996_r1__Q11
 parent: src_pol_1996_r1
 competition: Olimpiade Matematica Polacca 1996 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *65-contestant ski jump in random order; prove probability of exactly one leader change exceeds 1/16*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*65-competitor ski jump in ordine casuale; dimostrare che la probabilità di esattamente un cambio di leader supera 1/16*
+
+> In una competizione di salto sciistico $65$ i concorrenti saltano in un ordine predeterminato, ognuno di loro esattamente una volta. Supponiamo che i loro risultati siano tutti diversi e che tutte le possibili classifiche finali siano ugualmente probabili. In ogni momento della competizione chiamiamo leader la persona con il miglior punteggio (in quel momento). Che la probabilità di $p$ sia quella che durante l'intero concorso ci sia stato esattamente un solo cambio di leader. Prove che $p > 1/16$.
+
+[[src_pol_1996_r1__Q11]]

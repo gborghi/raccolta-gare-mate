@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_finale__Q24
 parent: src_cesenatico_2011_finale
 competition: Gara a Squadre Cesenatico 2011 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre di p(1000) per prodotto (1+x^2i)*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1024
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Summary of p(1000) per product (1+x^2i) < MSK1/>
+
+> The third and final task imposed on the Gauls by Cleopatra consists in solving the enigma of the venerable Mountain sage. The prodigy Abelix courageously submits to this test as well. The old man bends it carefully, takes the polynomial p(x) = ∏10 i=1(1+x2i) and burns it up and asks how much the sum of the digits in base 10 of p(1000 is worth. How should Abelix respond?
+> 
+> This year's event is the 12th National Final Team event. The problem
+
+**Answer:** 1024
+[[src_cesenatico_2011_finale__Q24]]

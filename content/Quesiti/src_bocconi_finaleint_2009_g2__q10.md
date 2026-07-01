@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 2) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g2__Q10
 parent: src_bocconi_finaleint_2009_g2
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di turni nel gioco dei gettoni tra tre giocatori*
 
@@ -50,3 +53,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_LRZ35lngxx9JZL11y14CrDyt5FTBU28/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of rounds in the game of chips between three players*
+
+> Playing three. Before playing, Alain, Bernard and Camille have $99$, $100$ and $101$ tokens respectively. In each turn, the player with the most points gives one to each of the other two players, which brings him to the last place. How many shifts will there be?
+
+**Answer:** 295
+[[src_bocconi_finaleint_2009_g2__Q10]]

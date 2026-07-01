@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet_finale__QC6
 parent: src_kangourou_2003_cadet_finale
 competition: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi di 7 cifre divisibili per 2003*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4493
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Seven digit integers divisible by 2003*
+
+> What are the positive integers of $7$ digits divisible by $2003$?
+
+**Answer:** 4493
+[[src_kangourou_2003_cadet_finale__QC6]]

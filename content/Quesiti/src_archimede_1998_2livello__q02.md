@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1998 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_2livello__Q02
 parent: src_archimede_1998_2livello
 competition: Archimede Gara 2º livello 1998
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Forma del dominio definito da somma di valori assoluti*
 
@@ -47,3 +50,26 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Form of domain defined as sum of absolute values*
+
+![[src_archimede_1998_2livello__prob2.png]]
+
+> $D$ is the Cartesian plane domain consisting of $(x,\, y)$ points which:
+>
+> $$|x| + |y| + |x+y| + |x-y| \leq 3.$$
+>
+> The shape of the domain $D$ is (see figure).
+>
+> - **(A)** A square with sides parallel to the axes
+> - **(B)** A rotating square of 45° (rump)
+> - **(C)** A regular octagon
+> - **(D)** A quadrilateral with oblique sides
+> - **(E)** None of the previous ones.
+
+**Answer:** C
+[[src_archimede_1998_2livello__Q02]]

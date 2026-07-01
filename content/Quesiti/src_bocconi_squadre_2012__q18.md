@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2012 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2012__Q18
 parent: src_bocconi_squadre_2012
 competition: Gara a Squadre 2012
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Radice quadrata di numero con blocchi ripetuti di cifre 4 e 5*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 6 ripetuto 2006 volte
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Square root of a number with repeated blocks of digits 4 and 5*
+
+> Can you calculate the square roots?
+> 
+> Find the square root of the number $444\ldots44111\ldots11 - 555\ldots55$ where in the first "block" the number $"4"$ is repeated $2006$ times and the same is then done for the numbers $"1"$ and $"5"$.
+> 
+> **Find the square root of the number $444\ldots44111\ldots11 - 555\ldots55$.**
+
+**Answer:** 6 ripetuto 2006 volte
+[[src_bocconi_squadre_2012__Q18]]

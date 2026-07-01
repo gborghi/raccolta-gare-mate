@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q22
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pezzi distinti con tre colori su cinque*
 
@@ -61,3 +64,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distinct pieces with three out of five colours*
+
+> A game consists of pieces in the shape of an equilateral triangle, each divided into three equal parts, each colored with different colors (see. Figure, where three pieces are present and where equal numbers correspond to equal colours). If there are 5 colours available and the game contains all possible combinations of these colours, how many distinct pieces must the game consist of? Watch your step. The pieces may be rotated: therefore two pieces using the colours 1, 2, 3 such as those indicated in the figure with (*) and (**) shall be considered equal, but different from the piece indicated with (***).
+>  
+> A. 20         B. 125          C. 60          D. 30          E. 3 5 3 .
+
+**Answer:** A
+[[src_kangourou_2002_cadet__Q22]]

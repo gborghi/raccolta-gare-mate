@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q20
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cammini minimi da A a B evitando ostacoli*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum routes from A to B avoiding obstacles*
+
+> The figure shows a square divided into 25 squares, each of which is marked with the centre; 3 obstacles are most often marked. We want to go from A to B by going from one center to another only by vertical and/or horizontal lines, avoiding obstacles and the shortest path. How many routes from A to B meet all these conditions? A) 6 B) 8 C) 9 D) 11 E) 12 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** E
+[[src_kangourou_2006_cadet__Q20]]

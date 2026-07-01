@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_semifinale_a__Q12
 parent: src_cesenatico_2013_semifinale_a
 competition: Gara a Squadre Cesenatico 2013 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore p(a+b+c) con a,b,c radici del cubico*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2762
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value p(a+b+c) with a,b,c root of the cube*
+
+> Roots for Roots Roots arrives on a battlefield, where the Jaguar and the Ronzino are challenging each other, fortunately only with a few questions! As he approaches, he hears the Ronzino pose this problem: They are a,b,c the roots of the polynomial p(x) = 2x3 +11x2 −427x +414. How much is a+b+c?
+
+**Answer:** 2762
+[[src_cesenatico_2013_semifinale_a__Q12]]

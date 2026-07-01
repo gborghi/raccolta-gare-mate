@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q16
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Possible total number of pieces after three tears into n pieces*
 
@@ -53,3 +56,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Possibile numero totale di pezzi dopo tre parti in n pezzi*
+
+> Esmeralda strappò un foglio di carta in pezzi $n$ e poi prese una di tali parti e lo strappò anche in pezzi $n$. Non soddisfatta, prese uno di questi ultimi pezzi e lo strappò anche in parti $n$. Quale dei numeri qui sotto potrebbe essere la quantità totale di pezzi ottenuti da Esmeralda?
+> 
+> (A) 15 \quad (B) 18 \quad (C) 24 \quad (D) 26 \quad (E) 28
+
+**Risposta:** E
+[[src_obm_2011_n1_f1__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q25
 parent: src_kangourou_2015_marzo_benjamin
 competition: Kangourou 2015 gara 19 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *max BD-AC*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1AiqamuCK6oQtEOLFArlQVHEyWohLlfzH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the maximum BD-AC < MSK1/>
+
+> ABCD is a 4-digit number; the digits A, B, C and D are in increasing order from left to right. Consider the two numbers BD and AC: what is the maximum possible value of the difference BD-AC ? A) 86
+> 	
+> B) 61
+> 	
+> C) 56
+> 	
+> D) 50
+> 	
+> E) 16
+
+**Answer:** B
+[[src_kangourou_2015_marzo_benjamin__Q25]]

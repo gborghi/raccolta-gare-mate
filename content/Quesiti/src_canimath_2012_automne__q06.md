@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2012 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2012_automne__Q06
 parent: src_canimath_2012_automne
 competition: Coupe Animath Automne 2012
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle x in a regular five-pointed star*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $36^\circ$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova angolo x in una stella a cinque punte regolare*
+
+> Considerate una stella a cinque punte (vedi figura). Determinare l'angolo $x$ indicato nella figura.
+
+![[src_canimath_2012_automne__Q06.png]]
+
+**Risposta:** 36^\circ
+[[src_canimath_2012_automne__Q06]]

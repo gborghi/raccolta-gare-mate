@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Cadet — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q16
 parent: src_kangourou_2019_cadet_marzo
 competition: Kangourou 2019 Gara di Marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti dei ritagli sono quadrati dopo piegature e tagli*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many cuts are squared after folding and cutting< MSK1/>
+
+![[src_kangourou_2019_cadet_marzo__prob16.png]]
+
+> 16. Catherine folded a square sheet of paper exactly in half twice, then made two half-cuts of the folded sheet as shown in the drawing. How many of these figures are squared? A) 3 B) 4 C) 5 D) 6 E) 8
+
+**Answer:** C
+[[src_kangourou_2019_cadet_marzo__Q16]]

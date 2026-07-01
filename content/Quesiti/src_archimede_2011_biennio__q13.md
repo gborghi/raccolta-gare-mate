@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Biennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_biennio__Q13
 parent: src_archimede_2011_biennio
 competition: Giochi di Archimede 2011 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione vera su capitano con un solo veritiero*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*True statement on captain with only one truth*
+
+> Marta wrote an even integer on the board. For 12 times Marta replaces the number written on the board with her square increased by 5. With what digits can the number found written on the board at the end of Martha's calculations end?
+>
+> - **(A)** 0 or 4,
+> - **(B)** 0, 4 or 6,
+> - **(C)** 0 or 6,
+> - **(D)** 4 or 6,
+> - **(E)** It can end in any number.
+
+**Answer:** A
+[[src_archimede_2011_biennio__Q13]]

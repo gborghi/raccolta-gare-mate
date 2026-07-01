@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2022 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_printemps__Q01
 parent: src_canimath_2022_printemps
 competition: Coupe Animath Printemps 2022
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute a nested radical*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Calcolare un radicale annidato< MSK1/>
+
+> Calcolare < MSK0/>
+> 
+> Qui si aspetta solo una risposta numerica.
+
+**Risposta:** 16
+[[src_canimath_2022_printemps__Q01]]

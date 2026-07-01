@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo27yq_yosen__Q04
 parent: src_jmo27yq_yosen
 competition: Japan Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length EF in tangent-circle configuration*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $6$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pjGraeHG4yF3Hf3bQovok6OpLhKRwh23/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza EF in configurazione di cerchio tangente*
+
+> Tre punti distinti $D$, $B$ e $C$ sono collineari con $DB=BC=2$. Il punto $A$ soddisfa $AB=AC$. Supponiamo che esista un cerchio $\Gamma$ tangente alla linea $AC$ a $A$ e tangente alla linea $DC$ a $D$. $E$ sia l'intersezione di $\Gamma$ e della linea $AB$ diversa da $A$, e $F$ sia l'intersezione di $CE$ e $\Gamma$ diversa da $E$. Trova la lunghezza del segmento $EF$. (Se la risposta contiene un radicale < MSK20/>, indicare il valore < MSK21/> sotto il radicale.)
+
+![[src_jmo27yq_yosen__Q04.png]]
+
+**Risposta:** $6$
+[[src_jmo27yq_yosen__Q04]]

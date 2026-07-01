@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo31yq_yosen__Q06
 parent: src_jmo31yq_yosen
 competition: Japan Mathematical Olympiad 2021 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distinct values of f among f(1)..f(10^10)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 11
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i valori distinti di f tra f  1)..f  10^10) *
+
+> Per un intero positivo $n$, $f(n)$ indichi il numero di interi positivi $m$ in modo tale che $m$ e $n$ siano reciprocamente copriemi e $m+1$ e $n+1$ siano reciprocamente copriemi, dove $m$ va oltre $1,2,\dots,n$. Tra $f(1),f(2),\dots,f(10^{10})$, quanti numeri interi positivi distinti appaiono?
+
+**Risposta:** 11
+[[src_jmo31yq_yosen__Q06]]

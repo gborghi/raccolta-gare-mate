@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q17
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo segmenti del tratto comune di due fili*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most common segment of two strands < MSK1/>
+
+![[src_kangourou_2005_junior__prob17.png]]
+
+> Two pieces of iron wire are shown in the figure. Each is made up of segments each 10 cm long. One of the two pieces is partially superimposed on the other so that they have a feature in common. What is the maximum number of segments that make up this feature? A) 7 B) 5 C) 4 D) 3 E) 1
+
+**Answer:** B
+[[src_kangourou_2005_junior__Q17]]

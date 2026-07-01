@@ -1,6 +1,7 @@
 ---
 title: IMO 1989 (XXX International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1989__Q01
 parent: src_imho_1989
 competition: IMO 1989 (XXX International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Partition {1,...,1989} into 117 equal-sum 17-element subsets*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Partition {1,...,1989} into 117 equal-sum 17-element subsets*
+
+> Prove that the set $\{1, 2, \ldots, 1989\}$ can be expressed as the disjoint union of subsets $A_i$ ($i = 1, 2, \ldots, 117$) such that:
+> 
+> (i) Each $A_i$ contains 17 elements;
+> 
+> (ii) The sum of all the elements in each < MSK0/> is the same.
+
+[[src_imho_1989__Q01]]

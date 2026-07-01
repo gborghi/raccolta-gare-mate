@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2013 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2013__Q02
 parent: src_inmo_2013
 competition: Indian National Mathematical Olympiad 2013
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers m, n and primes p ≥ 5 satisfying equation*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gmbaqp-kDcxUyvAlPf7W-ahq0MnrHajW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli integri positivi m, n e numeri primi p ≥ 5 che soddisfano l'equazione*
+
+> Trova tutti gli integri positivi $m$, $n$ e i numeri primi $p \ge 5$ in modo tale che $$m(4m^2 + 12m + 3) = 3(p^n - 1).$$
+
+[[src_inmo_2013__Q02]]

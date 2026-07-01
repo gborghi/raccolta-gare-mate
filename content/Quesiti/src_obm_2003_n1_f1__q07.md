@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q07
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle divided into 7 squares; area of smallest given area of whole*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo diviso in 7 quadrati; superficie della superficie data più piccola di tutto*
+
+> Il rettangolo nella figura è diviso in 7 quadrati. Se la superficie del più piccolo quadrato è 1, la superficie del rettangolo è:
+> 
+> (A) 42 \quad (B) 44 \quad (C) 45 \quad (D) 48 \quad (E) 49
+
+![[src_obm_2003_n1_f1__Q07.png]]
+
+**Risposta:** C
+[[src_obm_2003_n1_f1__Q07]]

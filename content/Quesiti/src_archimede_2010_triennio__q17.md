@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Triennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_triennio__Q17
 parent: src_archimede_2010_triennio
 competition: Giochi di Archimede 2010 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area EFGH con triangoli equilateri sui lati del quadrato*
 
@@ -41,7 +44,7 @@ tags:
 > - **(B)** 1 4 m2,
 > - **(C)** (2 − √ 3) m2,
 > - **(D)** (3 √ 3 −5) m2,
-> - **(E)** 1 3 m2. C D F G H E A B
+> - **(E)** 1 3 m2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*EFGH area with equilateral triangles on the sides of the square*
+
+![[src_archimede_2010_triennio__prob17.png]]
+
+> In the figure below, the square ABCD has a side of 1 m and the triangles ABG, BCH, CDE and DAF are equilateral. How much is the EFGH area?
+>
+> - **(A)** 1 6 m2,
+> - **(B)** 1 4 m2,
+> - **(C)** (2 − √ 3) m2,
+> - **(D)** (3 √ 3 −5) m2,
+> - **(E)** 1 3 m2.
+
+**Answer:** C
+[[src_archimede_2010_triennio__Q17]]

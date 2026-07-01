@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier gara individuale — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q20
 parent: src_kangourou_2022_ecolier_gara
 competition: Kangourou 2022 Ecolier gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali tasselli puo usare Alba per i collegamenti*
 
@@ -54,3 +57,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which axles can Alba use for connections< MSK1/>
+
+![[src_kangourou_2022_ecolier_gara__prob20.png]]
+
+> There's a road out of each of the house in the puzzle. Alba wants to insert one of the cranes shown on the right, D, in the center to ensure that there is a road from A to B and one from A to E, but to rule out that you can go from A to D. Dawn can turn the five cranes. What kind of tails can he use? A) Both 1 and 2.
+>   
+> B) Both 2 and 3.
+>   
+> C) Both 1 and 4.
+>   
+> D) Both 4 and 5.
+>   
+> E) Both 1 and 5.
+
+**Answer:** E
+[[src_kangourou_2022_ecolier_gara__Q20]]

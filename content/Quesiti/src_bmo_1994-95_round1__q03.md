@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1994-95 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1994-95_round1__Q03
 parent: src_bmo_1994-95_round1
 competition: British Mathematical Olympiad 1994-95 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find max and min of cyclic expression over unit cube*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RaBTRBD2IyZTMyVLq4DCAC3b07YiIr1f/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il massimo e il minimo di espressione ciclica su cubo unitario*
+
+> (a) Trovare il valore massimo dell'espressione $x^2 y + y^2 z + z^2 x$ quando $0 \le x \le 1$, $0 \le y \le 1$, $0 \le z \le 1$.
+> 
+> b) Trova il valore minimo dell'espressione $x^2 y + y^2 z + z^2 x$ quando $0 \le x \le 1$, $0 \le y \le 1$, $0 \le z \le 1$.
+
+[[src_bmo_1994-95_round1__Q03]]

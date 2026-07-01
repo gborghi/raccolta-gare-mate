@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q12
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -36,6 +37,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five-digit $\overline{abcab}$ divisible by $\overline{ab}$ but not 13; largest digit sum*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cinque cifre $\overline{abcab}$ divisibili per $\overline{ab}$ ma non 13; somma di più grandi cifre*
+
+> Considera gli integri positivi a cinque cifre della forma $\overline{abcab}$ divisibili dal numero a due cifre $\overline{ab}$ ma non divisibili per 13. Qual è la somma più grande possibile dei numeri di un tale numero?
+
+[[src_ioqm_2025_sep07__Q12]]

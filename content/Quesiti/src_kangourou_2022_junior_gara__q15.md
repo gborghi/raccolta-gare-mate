@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q15
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta della nonna dalle stime errate di 1,2,4*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Grandmother's age with wrong estimates of 1.2,4< MSK1/>
+
+> Three grandchildren tried to guess their grandmother's age: one said 75 years, another 78 and the third 81. One of the answers is wrong by 1 year, another by 2 and the remaining by 4 (not necessarily in the order in which they were listed). How old is Grandma? A) 76
+>   
+> B) 77
+>   
+> C) 79 D) 80 E) The information is insufficient to answer.
+
+**Answer:** E
+[[src_kangourou_2022_junior_gara__Q15]]

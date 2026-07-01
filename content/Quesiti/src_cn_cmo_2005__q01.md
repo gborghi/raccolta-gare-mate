@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2005 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2005__Q01
 parent: src_cn_cmo_2005
 competition: China Mathematical Olympiad 2005
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trig inequalities: simultaneous x exists iff sum condition*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trig disuguaglianze: simultaneo x esiste se la condizione somma*
+
+> Il modulo di misurazione deve essere il modulo di misurazione del modulo di misurazione. Dimostrare l'esistenza di $x \in \mathbb{R}$ in modo tale che le due disuguaglianze $$\cos^2\theta_1 \cos^2\theta_2 - (\sin\theta_1 \sin\theta_2 - x)^2 \geq 0,$$ $$\cos^2\theta_3 \cos^2\theta_4 - (\sin\theta_3 \sin\theta_4 - x)^2 \geq 0$$ si verifichino contemporaneamente se e solo se $$\sum_{i=1}^{4} \sin^2\theta_i \leq 2\left(1 + \prod_{i=1}^{4} \sin\theta_i + \prod_{i=1}^{4} \cos\theta_i\right).$$ (Posizionato da Li Shenghong)
+
+[[src_cn_cmo_2005__Q01]]

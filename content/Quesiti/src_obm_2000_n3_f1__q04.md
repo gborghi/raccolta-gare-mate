@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q04
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max numbers kept so none is the difference of two others*
 
@@ -56,3 +59,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Max numeri conservati in modo che nessuno sia la differenza di altri due*
+
+> Scriviamo i numeri interi da 1 a 30 inclusivi. Poi cancelliamo alcuni di questi numeri in modo che, tra quelli rimasti, nessun numero sia la differenza di altri due nella lista. Qual è la quantità massima di numeri interi che possono rimanere nell'elenco?
+>
+> - **(A)** 15
+> - **(B)** 18
+> - **(C)** 19
+> - **(D)** 20
+> - **(E)** 21
+
+**Risposta:** C
+[[src_obm_2000_n3_f1__Q04]]

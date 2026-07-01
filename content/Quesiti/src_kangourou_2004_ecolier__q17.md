@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Ecolier (18 marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_ecolier__Q17
 parent: src_kangourou_2004_ecolier
 competition: Kangourou 2004 Ecolier (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale figura non costruibile con due pezzi*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which figure cannot be constructed with two pieces*
+
+![[src_kangourou_2004_ecolier__prob17.png]]
+
+> Figures A, B, D are constructed by approximating 7 cubes (equal to each other), C by approximating 8. Which of these figures cannot be constructed using two different pieces from those shown next to each other ? A) A B) B C) C D) D E) None, all figures can be constructed in this way
+
+**Answer:** E
+[[src_kangourou_2004_ecolier__Q17]]

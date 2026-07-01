@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2014-15 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2014-15_round2__Q01
 parent: src_bmo_2014-15_round2
 competition: British Mathematical Olympiad 2014-15 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find 2015th term of recursively defined sequence starting at 2014.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1utI1wT_4pLVSoKHgAyJP391IsxcE0Q0y/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova il 2015° termine di sequenza definita ricorrentemente a partire dal 2014.*
+
+> Il primo termine $x_1$ di una sequenza è $2014$. Ogni termine successivo della sequenza è definito in termini di termine precedente. La formula iterativa è $$x_{n+1} = \frac{(\sqrt{2}+1)x_n - 1}{(\sqrt{2}+1) + x_n}.$$ Trova il $2015$th termine $x_{2015}$.
+
+[[src_bmo_2014-15_round2__Q01]]

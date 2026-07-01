@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo19yq_yosen__Q03
 parent: src_jmo19yq_yosen
 competition: Japan Mathematical Olympiad 2009 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integer triples solving two equations*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triplici interi positivi risolvendo due equazioni*
+
+> Trova tutti i triples $(a,b,c)$ di numeri interi positivi che soddisfano $$\begin{cases} ab+c=13 \\ a+bc=23 \end{cases}$$ Qui i triples che differiscono solo nell'ordine dei tre numeri sono considerati distinti.
+
+[[src_jmo19yq_yosen__Q03]]

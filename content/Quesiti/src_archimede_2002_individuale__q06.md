@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_individuale__Q06
 parent: src_archimede_2002_individuale
 competition: Archimede 2002 - Gara Nazionale Individuale (Cesenatico)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *colorare caselle con condizioni sugli adiacenti*
 
@@ -44,3 +47,21 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Al72TmtFeqXMapJ1ay6jjUJE3H76wCPm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*coloring boxes with conditions on adjacent boxes*
+
+> Let's have a chessboard of 100 rows and 100 columns with all the white boxes.
+> 
+> **(a) ** Is it possible to colour an odd number of boxes so that each coloured box has an odd number of adjacent coloured boxes?
+> 
+> **(b) ** Can you color some boxes so that an odd number of them have exactly 4 colored adjacent boxes and all other colored boxes have exactly 2 colored adjacent boxes?
+> 
+> Can you color some boxes so that an odd number of them have exactly 2 colored adjacent boxes and all other colored boxes have exactly 4 colored adjacent boxes?
+> 
+> **Note:** Two boxes are considered adjacent if they have one side in common.
+
+[[src_archimede_2002_individuale__Q06]]

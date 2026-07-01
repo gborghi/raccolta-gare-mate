@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r2__Q01
 parent: src_pol_2004_r2
 competition: Olimpiade Matematica Polacca 2004 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive reals with cyclic triple-sum power equalities imply all equal*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qs-4pQENG-aSe6lLcgW99_sE-sF3wP__/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Reali positivi con ugualità di potenza della triplice somma ciclica implicano tutti uguali*
+
+> I numeri positivi $a, b, c, d$ soddisfano le equazioni $$a^2 + b^2 + c^2 = a^4$$ $$b^2 + c^2 + d^2 = b^4$$ $$c^2 + d^2 + a^2 = c^4$$ $$d^2 + a^2 + b^2 = d^4.$$ Prove che $a = b = c = d$.
+
+[[src_pol_2004_r2__Q01]]

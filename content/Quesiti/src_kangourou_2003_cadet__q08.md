@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Cadet (20 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet__Q08
 parent: src_kangourou_2003_cadet
 competition: Kangourou 2003 Cadet (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero impossibile di intersezioni di 4 segmenti*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eygrPRLv8IqHr90bPrLsox-FA6V93kRL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Impossible number of intersections of 4 segments*
+
+> Four segments cannot have exactly A) 2 B) 3 C) 5 D) 6 E) 7 intersection points (i.e. points where at least two of them intersect).
+
+**Answer:** E
+[[src_kangourou_2003_cadet__Q08]]

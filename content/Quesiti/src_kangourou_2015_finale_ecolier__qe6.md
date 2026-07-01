@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 finale nazionale Ecolier — Quesito E6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_finale_ecolier__QE6
 parent: src_kangourou_2015_finale_ecolier
 competition: Kangourou 2015 finale nazionale Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quante volte gracchia l'ultima in un'ora*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1O-xFIX4zZ-qz0k9i1ez_-HZRIJcc3aP1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many times does the last one crack in an hour< MSK1/>
+
+> 51 corners are lined up on a suspended electrical cable. And when one of them crawls, its neighbour on the right and its neighbour on the left (or only one of the two, if the crankshaft is at one end of the two) take flight and after a minute they return to their place and crawle in turn. Start scratching the first horn in the line. After exactly one hour of this first crack, how many times will the last crack be?
+
+**Answer:** 6
+[[src_kangourou_2015_finale_ecolier__QE6]]

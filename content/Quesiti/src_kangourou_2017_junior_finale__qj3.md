@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Finale nazionale Cervia — Quesito J3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_finale__QJ3
 parent: src_kangourou_2017_junior_finale
 competition: Kangourou 2017 Junior - Finale nazionale Cervia
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo di volo con vento andata e ritorno*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** tempo maggiore
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r2LdWQerO2z3EUJjVaVOKVRtkiJBrV2g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Flight time with winds going back and forth< MSK1/>
+
+> (**11 points**) A scheduled aircraft flies daily from an airport $A$ to an airport $B$ and returns from $B$ to $A$ along the same straight route, always keeping the engines at maximum power. Yesterday there was no wind at all, but today there was a steady wind from $A$ to $B$ throughout the day. Overall, did both flights take the same amount of time today as yesterday? Less time? More time? Justify your answer as you see fit.
+
+**Answer:** tempo maggiore
+[[src_kangourou_2017_junior_finale__QJ3]]

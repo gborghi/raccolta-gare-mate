@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q10
 parent: src_cesenatico_2006_squadre_finale
 competition: Gara a Squadre Cesenatico 2006 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro unione di 6 cerchi su esagono (coeff. di pi)*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0400
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Six circles on a hexagon (coefficient of adhesion) perimeter di pi)*
+
+> The plant of the castle The plant of the castle of Hortona, seat of the Higher Mathematical School, consists of the union of 6 circles of radius equal to 100, the centers of which are arranged on the vertices of a regular hexagon of side 100. What is the perimeter of the castle? The result is less than π (in other words, if for example the result is 10π, then the answer is 0010).
+
+**Answer:** 0400
+[[src_cesenatico_2006_squadre_finale__Q10]]

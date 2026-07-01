@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1987-88 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1987-88_round2__Q04
 parent: src_bmo_1987-88_round2
 competition: British Mathematical Olympiad 1987-88 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer solutions of 1/x + 1/y - 1/z = 1*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1saRGuH3Bwi42EqoEIhAENB9ZwUjztngB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le soluzioni integrali positive di 1/x + 1/y - 1/z = 1*
+
+> Trova, con prova, tutte le soluzioni di $$\frac{1}{x} + \frac{1}{y} - \frac{1}{z} = 1$$ dove $x$, $y$, $z$ sono integri positivi.
+
+[[src_bmo_1987-88_round2__Q04]]

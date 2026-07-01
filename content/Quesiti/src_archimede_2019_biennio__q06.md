@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2019 - Biennio (T1) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_biennio__Q06
 parent: src_archimede_2019_biennio
 competition: Giochi di Archimede 2019 - Biennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Monete di due uomini da due condizioni di scambio*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Two men's currency with two terms of exchange< MSK1/>
+
+> Two men have coins. If the first one takes 2 out of the second, then he'll have as many as the second one. But if the second takes 1 from the first, then it's going to have three times as much as the first. How many coins do the two men have in total?
+>
+> - **(A)** 14
+> - **(B)** 16
+> - **(C)** 12
+> - **(D)** 18
+> - **(E)** 13
+
+**Answer:** C
+[[src_archimede_2019_biennio__Q06]]

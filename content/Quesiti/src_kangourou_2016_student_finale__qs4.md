@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (finale Cervia) — Quesito S4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_finale__QS4
 parent: src_kangourou_2016_student_finale
 competition: Kangourou 2016 Student (finale Cervia)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma degli inversi dei prodotti su tutti i sottoinsiemi*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2016
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aUKk1biwLcg0St2UFy-7j4t3JVsISp8p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of product reverses on all subset *
+
+> Consider the set of the first $2016$ positive integers: to each of its non-empty subsets the inverse of the product of the numbers composing it is associated (e.g. if the subsets is $\{99, 105, 2001\}$ it associates $\dfrac{1}{99 \cdot 105 \cdot 2001}$). What is the sum of all the numbers you get by varying all the possible non-empty subsets?
+
+**Answer:** 2016
+[[src_kangourou_2016_student_finale__QS4]]

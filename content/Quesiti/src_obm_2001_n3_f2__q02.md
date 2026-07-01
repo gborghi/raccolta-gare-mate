@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f2__Q02
 parent: src_obm_2001_n3_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle divided into 9 squares; find side of square I given side of A is 1*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo diviso in 9 quadrati; trovare lato di quadrato I dato lato di A è 1*
+
+> Un rettangolo è diviso in 9 quadrati $A, B, C, D, E, F, G, H$ e $I$. Il quadrato $A$ ha lunghezza laterale $1$. Qual è la lunghezza laterale del quadrato $I$?
+
+![[src_obm_2001_n3_f2__Q02.png]]
+
+[[src_obm_2001_n3_f2__Q02]]

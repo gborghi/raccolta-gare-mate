@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q09
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (a,b) interi positivi con a/5=7/b*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Positive integer pairs (a,b) with a/5=7/b< MSK1/>
+
+> How many pairs (a, b) of positive integers satisfies the equality a/5 = 7/b? A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 3
+> 	
+> E) 4
+
+**Answer:** E
+[[src_kangourou_2023_junior__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet__Q18
 parent: src_kangourou_2005_cadet
 competition: Kangourou 2005 - Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma possibile di due numeri con differenza 987*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible sum of two numbers with difference 987*
+
+> Clemente chose two integers, one three-digit and one two-digit. Their difference is 987. Which of the following numbers can be their sum? A) 1005          B) 1008 C) 1009 D) 1010 E) 1013
+
+**Answer:** C
+[[src_kangourou_2005_cadet__Q18]]

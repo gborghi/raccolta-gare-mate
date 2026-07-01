@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f1__Q19
 parent: src_obm_1999_n1_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *VCR records 150-min film on single tape switching from EP (6h) to SP (2h); find elapsed minutes at switch.*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*VCR registra film di 150 minuti su nastro singolo passando da EP (6h) a SP (2h); trova i minuti trascorsi al interruttore.*
+
+> Alexandre, consultando il programma del film, ha deciso di registrare il "Contato", la cui durata è di 150 minuti. Per registrare l'intero film su un singolo nastro, ha iniziato a registrare a una velocità più lenta (modo EP, che consente 6 ore di registrazione) e a un certo punto è passato a una velocità più veloce (modo SP, che consente 2 ore di registrazione). Il nastro finì esattamente alla fine del film. Quanti minuti sono trascorsi dall'inizio del film fino al momento in cui è stato cambiato il modo di registrazione?
+> 
+> (A) 60 \quad (B) 30 \quad (C) 15 \quad (D) 45 \quad (E) 105
+
+**Risposta:** D
+[[src_obm_1999_n1_f1__Q19]]

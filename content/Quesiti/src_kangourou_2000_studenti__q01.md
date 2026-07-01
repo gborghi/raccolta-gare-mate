@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q01
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ragazze in classe di 29 con 3 in piu*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Girls in class 29 with 3 more < MSK1/>
+
+> There are 29 students in a class, girls are three more than boys. How many girls are there? A) 6 B) 13 C) 16 D) 19 E) 29
+
+**Answer:** C
+[[src_kangourou_2000_studenti__Q01]]

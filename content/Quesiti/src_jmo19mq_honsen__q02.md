@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2009 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo19mq_honsen__Q02
 parent: src_jmo19mq_honsen
 competition: Japan Mathematical Olympiad 2009 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Blackboard integers with even sum: prove circle-cross labeling equates partial sums*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkWAtYCNms8aPB0csO1ya8AFPjXe2OlU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tanti interi della lavagna con somma pari: dimostra che l'etichettatura a croce circolare equivale a somme parziali*
+
+> $N$ sia un numero intero positivo. Su una lavagna, finitamente molti numeri interi sono scritti soddisfacendo le seguenti tre condizioni: \begin{itemize} \item Ogni numero scritto è almeno $1$ e al massimo $N$. \item Per ogni numero intero $m$ con $1 \le m \le N$, è scritta almeno una copia di $m$. \item La somma di tutti i numeri scritti è pari. \end{itemize} Prova che si può etichettare ogni numero scritto con $\bigcirc$ o $\times$ in modo che la somma dei numeri etichettati $\bigcirc$ sia uguale alla somma dei numeri etichettati $\times$.
+
+[[src_jmo19mq_honsen__Q02]]

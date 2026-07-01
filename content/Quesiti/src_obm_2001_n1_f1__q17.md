@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f1__Q17
 parent: src_obm_2001_n1_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of boys in a class given remainders mod 4 and mod 5, with 15 girls and girls outnumbering boys*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Nomero di ragazzi in una classe data il resto mod 4 e mod 5, con 15 ragazze e ragazze che superano in numero i ragazzi< MSK1/>
+
+> Il conteggio degli studenti di una classe $4$ in un momento lascia $2$ e il conteggio $5$ in un momento lascia $1$. Sapendo che gli studenti sono ragazze e che in questa classe il numero di ragazze è maggiore del numero di ragazzi, il numero di ragazzi in questa classe è:
+> 
+> (A) $7$ \quad (B) $8$ \quad (C) $9$ \quad (D) $10$ \quad (E) $11$
+
+**Risposta:** E
+[[src_obm_2001_n1_f1__Q17]]

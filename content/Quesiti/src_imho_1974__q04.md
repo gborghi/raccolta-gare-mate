@@ -1,6 +1,7 @@
 ---
 title: IMO 1974 (XVI International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1974__Q04
 parent: src_imho_1974
 competition: IMO 1974 (XVI International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chessboard decomposition into rectangles, maximum white squares*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Chessboard decomposition into rectangles, maximum white squares
+
+> Consider decompositions of an $8 \times 8$ chessboard into $p$ non-overlapping rectangles subject to the following conditions: (i) Each rectangle has as many white squares as black squares. If $a_i$ is the number of white squares in the $i$-th rectangle, then $a_1 < a_2 < \cdots < a_p$. Find the maximum value of $p$ for which such a decomposition is possible. For this value of $p$, determine all possible sequences $a_1, a_2, \ldots, a_p$.
+
+[[src_imho_1974__Q04]]

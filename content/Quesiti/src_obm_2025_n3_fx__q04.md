@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2025 — Nível 3 — Fase x — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2025_n3_fx__Q04
 parent: src_obm_2025_n3_fx
 competition: Olimpíada Brasileira de Matemática 2025 — Nível 3 — Fase x
@@ -39,6 +40,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers k such that f(n)=nk has a positive integer solution n*
 
@@ -54,3 +57,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFf1OuT8cLJGAETsQx_9-GJOvIDVonCr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli integri positivi k in modo che f(n) =nk abbia una soluzione di integri positivi n*
+
+> Per ogni intero positivo $n$, definire $$f(n) = \lfloor \sqrt{1} \rfloor + \lfloor \sqrt{2} \rfloor + \cdots + \lfloor \sqrt{n} \rfloor.$$
+> 
+> *Osservazione: per un numero reale $x$, $\lfloor x \rfloor$ è definito come il numero intero più grande inferiore o uguale a $x$. Ad esempio, $\lfloor \sqrt{1} \rfloor = 1$, $\lfloor \sqrt{2} \rfloor = 1$, $\lfloor \sqrt{14} \rfloor = 3$.*
+> 
+> Determinare tutti gli integri positivi $k$ in modo tale che esista un intero positivo $n$ soddisfacente $f(n) = nk$.
+
+[[src_obm_2025_n3_fx__Q04]]

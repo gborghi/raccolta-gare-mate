@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1988-89 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1988-89_round2__Q01
 parent: src_bmo_1988-89_round2
 competition: British Mathematical Olympiad 1988-89 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest positive integer a for quadratic with roots in (0,1)*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qspPfEgz7c_HYcRXHmsp-ZYeMDxBdFsP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova il più piccolo intero positivo a per quadratici con radici in (0,1)*
+
+> Trova il numero intero positivo più piccolo $a$ con la proprietà:
+> 
+> Esistono numeri interi $b, c$ in modo che l'equazione $$ax^2 - bx + c = 0$$ abbia due radici distinte nell'intervallo $0 < x < 1$.
+
+**Risposta:** 5
+[[src_bmo_1988-89_round2__Q01]]

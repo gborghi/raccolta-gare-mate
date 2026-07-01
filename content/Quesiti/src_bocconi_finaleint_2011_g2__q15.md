@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 2) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g2__Q15
 parent: src_bocconi_finaleint_2011_g2
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero magico minimo di Leonardo*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $0{,}618$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the first time I've seen this.
+
+> Leonardo wrote a magic number on a board. Then he asked Teresa: (i) to draw on the board a non-isosceles and non-flat triangle; (ii) to calculate the six ratios between the lengths of its three sides taken two by two; (iii) to observe which one is closest to 1 (it is possible that Teresa obtained it in two different ways). Then Leonardo says, "I knew this ratio would be less than 1". And Teresa: "Is that all there is?" And Leonardo said, "No. I also knew it would be greater than the magic number". What is this magic number, at most? Rounded to the decimal place with three digits after the comma that would have been greater than 1,414 for $\sqrt{2}$, 1,732 for $\sqrt{3}$, and 2,236 for $\sqrt{5}$.
+
+**Answer:** $0{,}618$
+[[src_bocconi_finaleint_2011_g2__Q15]]

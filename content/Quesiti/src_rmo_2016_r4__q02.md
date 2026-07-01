@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2016 — Region 4 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2016_r4__Q02
 parent: src_rmo_2016_r4
 competition: Regional Mathematical Olympiad 2016
@@ -33,6 +34,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality for positive reals satisfying a cyclic sum condition*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nLwmoR34Kvy_obEKxxqlzF7zGjUJNCHa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove l'ineguaglianza per i reali positivi che soddisfano una condizione di somma ciclica*
+
+> Che $a, b, c$ siano numeri reali positivi tali che $$\frac{ab}{1+bc} + \frac{bc}{1+ca} + \frac{ca}{1+ab} = 1.$$ dimostri che $$\frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2} \ge 6\sqrt{2}.$$
+
+[[src_rmo_2016_r4__Q02]]

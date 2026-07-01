@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Triennio — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_triennio__Q21
 parent: src_archimede_2010_triennio
 competition: Giochi di Archimede 2010 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Studenti che hanno sbadigliato dopo 57 secondi*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Students who fainted after 57 seconds*
+
+> At Fairy Tales University, where students are endless and blinking is very contagious, every time a student blinkes, 2 other students blink after 5 seconds (one who has already blinked doesn't do it anymore). Yesterday the Sleeping Beauty (a student) was there and, being very tired, fainted first! How many (including Sleeping Beauty) had fainted after 57 seconds?
+>
+> - **(A)** 2047,
+> - **(B)** 3024,
+> - **(C)** 3625,
+> - **(D)** 4095,
+> - **(E)** 8192.
+
+**Answer:** D
+[[src_archimede_2010_triennio__Q21]]

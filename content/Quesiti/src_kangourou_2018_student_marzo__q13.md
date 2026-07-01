@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q13
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Forma del vaso dato il grafico livello-tempo*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*shape of the vessel given the time-level chart*
+
+![[src_kangourou_2018_student_marzo__prob13.png]]
+
+> We pour water into a jar in constant quantities over time until it is filled. The graph below shows, depending on time t, the water level h in the vessel. Of the following, what can the shape of the vessel be? A) B) C) D) E)
+
+**Answer:** D
+[[src_kangourou_2018_student_marzo__Q13]]

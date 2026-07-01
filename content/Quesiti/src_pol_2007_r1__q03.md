@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r1__Q03
 parent: src_pol_2007_r1
 competition: Olimpiade Matematica Polacca 2007 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a convex quadrilateral with AB=CD that is not a parallelogram, the projections of AB and CD onto line MN (M,N midpoints of diagonals) both equal MN.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un quadrilaterale convex con AB=CD che non è un parallelo, le proiezioni di AB e CD sulla linea MN (M,N punti di mezzo di diagonali) sono entrambe uguali a MN.*
+
+> $ABCD$ sia un quadrilaterale convex con $AB=CD$ che non è un parallelo. I punti $M$ e $N$ sono i punti medi delle diagonali $AC$ e $BD$ rispettivamente. Prova che le proiezioni ortogonali dei segmenti $AB$ e $CD$ sulla linea $MN$ hanno entrambe lunghezza pari a $MN$.
+
+[[src_pol_2007_r1__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo21yqa_yosen__Q08
 parent: src_jjmo21yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max area of cyclic quadrilateral with given data*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8/3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11kigjl_Wt-al8ocndA12n0n3x8dtw2E3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area massima del quadrilatero ciclico con dati dati*
+
+> Un quadrilaterale ciclico $ABCD$ soddisfa $AB = 1$, $CD = 3$ e $AC : BD = 1 : 2$. Trovare la superficie massima possibile di tale quadrilaterale $ABCD$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** 8/3
+[[src_jjmo21yqa_yosen__Q08]]

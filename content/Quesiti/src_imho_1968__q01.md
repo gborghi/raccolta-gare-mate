@@ -1,6 +1,7 @@
 ---
 title: IMO 1968 (X International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1968__Q01
 parent: src_imho_1968
 competition: IMO 1968 (X International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Unique triangle with consecutive integer sides, one angle double another*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Unique triangle with consecutive integer sides, one angle double another
+
+> Prove that there is one and only one triangle whose side lengths are consecutive integers, and one of whose angles is twice as large as another.
+
+[[src_imho_1968__Q01]]

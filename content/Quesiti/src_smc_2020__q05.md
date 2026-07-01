@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2020 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2020__Q05
 parent: src_smc_2020
 competition: Senior Mathematical Challenge 2020
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the square root of 123454321*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la radice quadrata di 123454321*
+
+> Che cos' è < MSK0/>?
+>
+> - **(A)** $1111111$
+> - **(B)** $111111$
+> - **(C)** $11111$
+> - **(D)** $1111$
+> - **(E)** $111$
+
+**Risposta:** C
+[[src_smc_2020__Q05]]

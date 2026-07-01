@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin gara individuale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q08
 parent: src_kangourou_2022_benjamin_gara
 competition: Kangourou 2022 Benjamin gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di spezzoni mai ottenibile dividendo per tre*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of pieces never to be obtained by dividing by three*
+
+> Julia has a very long tape. He cuts it into three pieces; then he takes each piece one after another and divides it back into three and repeats this operation several times. In the course of his work every now and then, as soon as he has finished dividing some pieces into three, he stops and counts the number of pieces he has obtained: which of the following numbers can he never get? A) 13
+>   
+> B) 17
+>   
+> C) 20 D) 23 E) 25
+
+**Answer:** C
+[[src_kangourou_2022_benjamin_gara__Q08]]

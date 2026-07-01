@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2011 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2011_automne__Q04
 parent: src_canimath_2011_automne
 competition: Coupe Animath Automne 2011
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all f from R* to R* with x f(x/2) - f(2/x) = 1*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le f da R * a R * con x f(x/2) - f(2/x) = 1*
+
+> Trova tutte le funzioni $f : \mathbb{R}^* \to \mathbb{R}^*$ che soddisfano $x f\left(\frac{x}{2}\right) - f\left(\frac{2}{x}\right) = 1$ per ogni numero reale non zero $x$.
+
+[[src_canimath_2011_automne__Q04]]

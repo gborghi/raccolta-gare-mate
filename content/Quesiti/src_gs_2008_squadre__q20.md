@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q20
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero massimo di megaliti su lunghezza data*
 
@@ -42,3 +45,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 4808
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of megaliths per given length*
+
+![[src_gs_2008_squadre__prob20.png]]
+
+> In the large plain south of Tadfield, two parallel white lines, at a distance of $240\,\text{cm}$, are drawn in plaster to form a long strip of land $20\,\text{km}$. Within the strip are laid megaliths (large stones) all of which are equal and are said to have been left by the Knights of the Apocalypse as a warning. All the megaliths have the same straight prism shape, each $3\,\text{m}$ high. Each base is in the shape of a rectangular trapezoid: the parallel sides are $58\,\text{cm}$ and $128\,\text{cm}$, the perpendicular side to these is $240\,\text{cm}$. The megaliths are laid so that the major bases of the trapezium are all aligned on one of the two white lines and the oblique sides of the trapezium are parallel to each other. A megalite fell, spinning on the oblique side of the base and now, on the ground, the nearby megalite barely slips. In fact, there's always enough distance between two megaliths so that if a megalith falls spinning on the oblique side, it doesn't touch the nearby megalith.
+> 
+> What is the maximum possible number of megaliths on the strip in the great plain?
+
+**Answer:** 4808
+[[src_gs_2008_squadre__Q20]]

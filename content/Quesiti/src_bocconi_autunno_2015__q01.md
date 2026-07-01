@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2015 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2015__Q01
 parent: src_bocconi_autunno_2015
 competition: Giochi d'Autunno 2015
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quattro frecce: trovare i quattro punteggi*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5, 9, 9, 12 (l'ordine non interessa)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eK88JMTv896JXMMmFL1S8lYcD_i95Nzi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Four arrows: Find the four scores*
+
+> Jacopo scored 35 points by throwing four arrows. Indicate the four scores obtained.
+
+![[src_bocconi_autunno_2015__Q01.png]]
+
+**Answer:** 5, 9, 9, 12 (l'ordine non interessa)
+[[src_bocconi_autunno_2015__Q01]]

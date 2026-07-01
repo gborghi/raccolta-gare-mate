@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2001 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2001__Q07
 parent: src_rmo_2001
 competition: Regional Mathematical Olympiad 2001
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Product of first 200 even integers minus product of first 200 odd integers is divisible by 401*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15Y14HVMjGftkYhnfutHqAb_lpxEScIwl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il prodotto dei primi 200 interi pari meno il prodotto dei primi 200 interi unici è divisibile per 401*
+
+> Prove che il prodotto dei primi $200$ pari interi positivi differisce dal prodotto dei primi $200$ integri unici positivi per un multiple di $401$.
+
+[[src_rmo_2001__Q07]]

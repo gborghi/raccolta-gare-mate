@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Junior Finale 1 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_squadre__Q13
 parent: src_kangourou_2022_junior_squadre
 competition: Kangourou Squadre 2022 Junior Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma palindromi 3 cifre, prime 4 cifre*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4950
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of three-digit palindromes, first four digits *
+
+> Palindromes Calculate the sum of all positive integers three-digit palindromes (if greater than 100), and write the first four digits (left) of the result you get. (A number is said to be palindrome if it matches what you get by reading its digits in opposite order, from right to left; for example 454 is palindrome.)
+
+**Answer:** 4950
+[[src_kangourou_2022_junior_squadre__Q13]]

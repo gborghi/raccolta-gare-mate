@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (gara marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q22
 parent: src_kangourou_2016_ecolier_marzo
 competition: Kangourou 2016 Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dove mettere il piatto Z in ordine di peso*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Where to place the Z plate in order of weight< MSK1/>
+
+![[src_kangourou_2016_ecolier_marzo__prob22.png]]
+
+> Livia wants to put five plates on the table, in order of increasing weight. He has already arranged the plates Q, R, S and T in the desired order: T weighs the most. Where do you want to put plate Z? A) To the left of plate Q.
+> 	
+> B) Between plate Q and plate R. C) Between plate R and plate S.
+> 	
+> D) Between plate S and plate T.
+> 	
+> E) To the right of plate T.
+
+**Answer:** B
+[[src_kangourou_2016_ecolier_marzo__Q22]]

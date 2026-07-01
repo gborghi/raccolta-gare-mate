@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q02
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sostituzione lettere con cifre 1–9 in schema esagonale*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $a=6,\ b=1,\ c=8,\ d=2,\ e=3,\ f=4,\ g=5,\ h=7,\ i=9$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Replacement of letters with digits 19 in hexagonal pattern*
+
+> Replace the natural numbers 1 to 9 (written once and only) with the letters (from $a$ to $i$) so that:
+> 
+> - the sum of the numbers relating to the vertices of square A is equal to the sum of the numbers relating to the vertices of square B multiplied by the sum of the numbers of square C; - the results $a < c$; $d < e \le f \le g$; $h \le i$; - ... a small aid: $h$ is an odd number.
+
+![[src_bocconi_squadre_2010__Q02.png]]
+
+**Answer:** $a=6,\ b=1,\ c=8,\ d=2,\ e=3,\ f=4,\ g=5,\ h=7,\ i=9$
+[[src_bocconi_squadre_2010__Q02]]

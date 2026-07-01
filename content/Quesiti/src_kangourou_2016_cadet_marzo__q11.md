@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q11
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *perimetro quadrato*
 
@@ -50,3 +53,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*square perimeter *
+
+![[src_kangourou_2016_cadet_marzo__prob11.png]]
+
+> The figure shows four identical rectangles in a square. The perimeter of each rectangle is 16 cm. How many centimeters does the perimeter of the square measure? A) 16
+> 	
+> B) 20
+> 	
+> C) 24
+> 	
+> D) 28
+> 	
+> E) 32
+
+**Answer:** E
+[[src_kangourou_2016_cadet_marzo__Q11]]

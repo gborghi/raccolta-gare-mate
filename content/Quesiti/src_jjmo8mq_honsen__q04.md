@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2010 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo8mq_honsen__Q04
 parent: src_jjmo8mq_honsen
 competition: Japan Junior Mathematical Olympiad 2010 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Concyclicity of A, incenter I, and two circle points P, Q*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p2F4y-eHA_uMQrouWBYL9ACgMCFOr7Tx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conciclicità di A, incentro I e due punti di cerchio P, Q*
+
+> Considerate un triangolo $ABC$. Un cerchio $O$ che attraversa i punti $B$ e $C$ incontra i segmenti $AB$ e $AC$ (esclusi i loro punti terminali) rispettivamente ai punti $D$ e $E$, e $AD + AE = BC$ si ferma. Il punto $I$ deve essere l'incentro del triangolo $ABC$ e le linee $BI$ e $CI$ devono incontrare rispettivamente il cerchio $O$ nei punti $P$ e $Q$ (diversi da $B$ e $C$). Indicare che < MSK18/>, < MSK19/>, < MSK20/>, < MSK21/> si trovano su un singolo cerchio.
+> 
+> Qui $XY$ indica la lunghezza del segmento $XY$.
+
+[[src_jjmo8mq_honsen__Q04]]

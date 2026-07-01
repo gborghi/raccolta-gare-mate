@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Triennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_triennio__Q14
 parent: src_archimede_2024_triennio
 competition: Giochi di Archimede 2024 - Gara Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di dadi a 14 facce distinti per rotazione*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 26880
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of 14-sided dice per spin*
+
+> Sara wants to take a walk along the edge of a square-shaped park, whose sides measure one kilometer each. Starting from a vertex V, with a coin toss, you randomly choose which direction to go in and walk across an entire side of the square. Every time he reaches a peak, he makes a new coin toss to choose the direction. If the walk is four kilometers, what is the probability that it will end at the very summit V from which it started?
+>
+> - **(A)** 5/16
+> - **(B)** 1/8
+> - **(C)** 1/2
+> - **(D)** 1/4
+> - **(E)** 3/8
+
+**Answer:** 26880
+[[src_archimede_2024_triennio__Q14]]

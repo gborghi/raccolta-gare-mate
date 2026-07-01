@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1984 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1984_r3__Q05
 parent: src_pol_1984_r3
 competition: Olimpiade Matematica Polacca 1984 — Round 3
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A regular hexagon of side 1 is covered by six unit disks; prove no vertex is covered by two or more disks.*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uJbOajHDsVJS_W8N_b349B1gwV3vlEpC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un esagono regolare del lato 1 è coperto da sei dischi unitari; dimostrare che nessun vertice è coperto da due o più dischi.*
+
+> Un esagono regolare di lato $1$ è coperto da sei dischi unitari. Prova che nessuno dei vertici dell'esagono è coperto da due (o più) dischi.
+
+[[src_pol_1984_r3__Q05]]

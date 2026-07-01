@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q06
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Alice-Bob gcd/lcm game on blackboard; find min M Alice can guarantee*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(p_1 p_2 \cdots p_r)^{\lfloor n/2 \rfloor}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Gioco Alice-Bob su tavolo nero; trova il minimo che Alice possa garantire
+
+> Date le cifre integri positive $n$, $r$ e numeri primi distinti $p_1, p_2, \ldots, p_r$. Inizialmente, i numeri $n+1$ $(p_1 p_2 \cdots p_r)^0, (p_1 p_2 \cdots p_r)^1, \ldots, (p_1 p_2 \cdots p_r)^n$ sono scritti sulla lavagna. Alice e Bob si alternano (Alice va prima) per fare le seguenti mosse, fino a quando non rimane solo un numero sulla lavagna: \begin{itemize} \item Ogni volta, Alice cancella due numeri (può essere identico) e scrive il loro più grande divisore comune sulla lavagna; \item Ogni volta, Bob cancella due numeri (può essere identico) e scrive il loro più piccolo multiplo comune sulla lavagna. \end{itemize} Trova il numero intero minimo $M$, in modo che Alice possa garantire che il numero rimanente non superi $M$.
+
+**Risposta:** (p_1 p_2 \cdots p_r)^{\lfloor n/2 \rfloor}
+[[src_cn_ctst_2021__Q06]]

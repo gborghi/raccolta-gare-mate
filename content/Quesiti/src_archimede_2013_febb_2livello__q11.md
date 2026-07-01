@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q11
 parent: src_archimede_2013_febb_2livello
 competition: Archimede Gara di Febbraio 2013 - 2 livello
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di arrivare a 5 pari a biliardino*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of reaching 5 in billiards< MSK1/>
+
+> Agnese and Bruno challenge Viviana and Zenone at pool; the teams are very balanced, so for every ball played both teams have a 1/2 chance of scoring a goal. What's the probability of getting 5 even?
+>
+> - **(A)** 1 512
+> - **(B)** 252 1024
+> - **(C)** 252 512
+> - **(D)** 169 512
+> - **(E)** 169 1024
+
+**Answer:** B
+[[src_archimede_2013_febb_2livello__Q11]]

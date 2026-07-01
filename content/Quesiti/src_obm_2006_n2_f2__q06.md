@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f2__Q06
 parent: src_obm_2006_n2_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum houses mayor must demolish for equal street-side digit sums*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il sindaco deve demolire le case minime per le stesse somme di cifre sul lato della strada.
+
+> Sulla strada Gengibre ci sono $n$ case numerate da 1 a $n$ ($n \in \mathbb{N}$). Le case a numero pari sono da un lato della strada, e le case a numero odd sono dall'altro lato. Il sindaco Ludmilson Amottarim decide di demolire alcune case in modo che la somma dei numeri delle case su ciascun lato diventi uguale alla somma dei numeri sull'altro lato. Per raggiungere il suo obiettivo, qual è il numero minimo di case che il sindaco deve demolire se: a) la strada ha $n = 15$ case? b) la strada ha case < MSK4/>? c) la strada ha case < MSK5/>?
+
+[[src_obm_2006_n2_f2__Q06]]

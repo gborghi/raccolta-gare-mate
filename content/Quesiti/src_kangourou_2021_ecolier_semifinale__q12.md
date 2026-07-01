@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - semifinale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_semifinale__Q12
 parent: src_kangourou_2021_ecolier_semifinale
 competition: Kangourou 2021 Ecolier - semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Partite vinte da Edoardo nel gioco di carte*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1d4KIlUoujYfd3Cc7JpT28ssbmAgsp2A5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Matches won by Edward in the card game*
+
+> (6 points) Edward, Susanna and Teresa play cards. At the end of each match, there are no equal points: the winner earns 3 points, the second-placed 1 point while the third-placed does not earn points. After four games, Susanna has four points and Teresa has three. How many games has Edward won?
+
+**Answer:** 3
+[[src_kangourou_2021_ecolier_semifinale__Q12]]

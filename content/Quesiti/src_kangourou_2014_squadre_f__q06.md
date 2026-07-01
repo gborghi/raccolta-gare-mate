@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Finale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_f__Q06
 parent: src_kangourou_2014_squadre_f
 competition: Kangourou Coppa Squadre 2014 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi 1-10000 non divisibili ne per 2 ne per 5*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Integral numbers 1-10000 not divisible by 2 or by 5 < MSK1/>
+
+> What are the integers between 1 and 10,000 (included) that are not divisible by 2 or by 5?
+
+**Answer:** 4000
+[[src_kangourou_2014_squadre_f__Q06]]

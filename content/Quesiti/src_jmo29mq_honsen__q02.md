@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2019 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo29mq_honsen__Q02
 parent: src_jmo29mq_honsen
 competition: Japan Mathematical Olympiad 2019 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Grid-writing game maximizing row/column multiple-of-n score*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d-Z0DI9iKKJVTFxoX0Fz2qworASxs0iM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di scrittura a griglia che massimizza il punteggio multiplo di n di riga/colonna*
+
+> $n$ sia un numero intero parente con $n\ge 3$. Si gioca una partita su una griglia di celle $n\times n$. Il gioco è composto da giri $n^2$, e a ogni turno vengono eseguite le seguenti operazioni in ordine: \begin{itemize} \item Scegli una cella in cui non è stato ancora scritto un intero, e scrivete in essa un intero tra $1$ e $n^2$ inclusivo. Durante tutto il gioco, ogni numero intero può essere scritto una volta al massimo. \item Per ciascuna riga e colonna che contengono quella cella, se la somma dei numeri interi scritti in essa è un multiple di $n$, allora $1$ punto viene guadagnato (se entrambi sono multipli di $n$, allora $2$ punti vengono guadagnati). \end{itemize} Trova il massimo valore possibile del numero totale di punti che possono essere guadagnati al termine della partita.
+
+[[src_jmo29mq_honsen__Q02]]

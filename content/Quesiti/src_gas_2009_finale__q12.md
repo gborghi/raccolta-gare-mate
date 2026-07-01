@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q12
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Inseguimento con velocita a tratti, distanza al raggiungimento*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4320
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Track speed, distance to reach < MSK1/>
+
+> The Orcs kidnapped Morry and Polino at 3 p.m. yesterday afternoon and set off at full speed to Isengraf, 234 miles away. Areagorn, Legalois and Gim-Lie discovered the traces of the abduction only this morning at 9am and immediately began their pursuit, starting from the same spot. Orcs have a very irregular gait, which depends on the sun and their fatigue. At 15 they leave at full speed, at 3 miles per hour and manage to keep this pace for 6 hours; then they slow down to 1.8 mi/h for the next 6 hours; then again they descend to 1.2 mi/h for the 6 hours
+> 
+> Team competition 2009  National final  Problem texts  Pag. 3 out of 4 follow and finally stop trying to rest for another 6 hours, starting again at the end of the cycle. Our heroes, on the other hand, run at a regular pace of 2 mph for 24 hours, at the end of which they slow down marching at 1.5 mph for the next 24 hours to rest a bit, then be ready to start running again, and so on. Knowing that there are 80 chains in a mile, how many chains from Isengraf do our people finally reach the orcs? (Answer 0000 if they don't make it in time.)
+
+**Answer:** 4320
+[[src_gas_2009_finale__Q12]]

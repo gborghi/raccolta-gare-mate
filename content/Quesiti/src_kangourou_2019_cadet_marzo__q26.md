@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Cadet — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q26
 parent: src_kangourou_2019_cadet_marzo
 competition: Kangourou 2019 Gara di Marzo Cadet
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Passeggeri nelle due carrozze centrali (blocchi di 5)*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Passengers in the two central carriages (blocks of 5) *
+
+> On a train that consists of 18 carriages, 700 passengers travel. In each block of five carriages in a row there are a total of 199 passengers. How many passengers are there in the two central carriages of the train? A) 70
+> 	
+> B) 77
+> 	
+> C) 78
+> 	
+> D) 96
+> 	
+> E) 103
+
+**Answer:** D
+[[src_kangourou_2019_cadet_marzo__Q26]]

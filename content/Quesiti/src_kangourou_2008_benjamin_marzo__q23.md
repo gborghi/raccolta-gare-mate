@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q23
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Da dove partire per visitare ogni casella*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Where to start to visit each box< MSK1/>
+
+![[src_kangourou_2008_benjamin_marzo__prob23.png]]
+
+> 23. Answer D) We see that, as you can only move horizontally or vertically, when you move from one box to the next, the color of the box changes. So I can't cover the whole path if I start from a white box, because the white boxes are less than grey. Starting instead from a grey box you can complete the path as required: if it is dangle I can complete horizontally the line to which it belongs, move vertically to the adjacent line, complete this horizontally, go vertically to the last line and complete this; from the central grey box you can cover all the boxes only once if you move into a box
+
+**Answer:** D
+[[src_kangourou_2008_benjamin_marzo__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q03
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ways to cover a 24-square grid with 4-square L-pieces*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I modi per coprire una griglia di 24 quadrati con 4 pezzi L quadrati*
+
+> Luisa ha sei pezzi identici formati ciascuno da quattro unità quadrate di area 1. Vuole inserire tutti e sei i pezzi in un quadrilaterale formato da 24 unità quadrate di area 1. Ha già posto alcuni pezzi come mostrato nella figura. In quanti modi può finire di coprire il quadrilaterale?
+> 
+> (A) 2 \quad (B) 3 \quad (C) 4 \quad (D) 5 \quad (E) 6
+
+![[src_obm_2013_n2_f1__Q03.png]]
+
+**Risposta:** B
+[[src_obm_2013_n2_f1__Q03]]

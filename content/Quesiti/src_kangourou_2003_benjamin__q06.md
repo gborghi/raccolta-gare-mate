@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q06
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Semplificazione della frazione con 2003*
 
@@ -58,3 +61,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Simplification of the fraction with 2003*
+
+> 2003 + 2003 + 2003 + 2003 + 2003 = ? 2003 + 2003 A) 2003 B) 1/3 C) 3 D) 5/2 E) 6009 9 9 X 8 7 13 2 Y 14 11
+> 
+> I'm going to pay. I'm going to pay. 11 11 Kang 2003 Kang
+
+**Answer:** D
+[[src_kangourou_2003_benjamin__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Triennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_triennio__Q10
 parent: src_archimede_2005_triennio
 competition: Giochi di Archimede 2005 - Gara Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori di a con 2a^4-4ab+b^2+2=0*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Values of a with 2a^4-4ab+b^2+2=0 < MSK1/>
+
+> a and b are two real numbers such that 2a4 −4ab + b2 + 2 = 0 . How many distinct values can you assume at?
+>
+> - **(A)** 1,
+> - **(B)** 2,
+> - **(C)** 3,
+> - **(D)** 4,
+> - **(E)** there is no pair (a, b) that verifies the condition.
+
+**Answer:** B
+[[src_archimede_2005_triennio__Q10]]

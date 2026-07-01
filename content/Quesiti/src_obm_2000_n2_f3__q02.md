@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f3__Q02
 parent: src_obm_2000_n2_f3
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two decks of 50 double-sided cards each showing 1-100; show all 100 cards can be placed so the up faces show every number from 1 to 100.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qM5BxKaKRIxirRctyOuDYrS51LXljnyw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due mazzi di 50 carte a doppio lato che mostrano ciascuno 1-100; mostrano che tutte le 100 carte possono essere posizionate in modo che le facce verso l'alto mostrino ogni numero da 1 a 100. *
+
+> Isabel ha due mazzi, ognuno con carte $50$. Su ciascun mazzo sono scritti i numeri da $1$ a $100$ (su ogni carta sono scritti due numeri, uno su ogni faccia della carta). A causa di un difetto di fabbricazione, la distribuzione dei numeri delle schede non è uguale nei due mazzi (ad esempio, in uno dei mazzi la $1$ appare sulla stessa scheda della $2$; nell'altro, la $1$ appare con la $76$). Indicare come Isabel deve procedere in modo che, quando si collocano le carte $100$ su un tavolo, le facce rivolte verso l'alto mostrino tutti i numeri da $1$ a $100$.
+
+[[src_obm_2000_n2_f3__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Pre-Ecolier — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_preecolier__Q01
 parent: src_kangourou_2013_preecolier
 competition: Kangourou 2013 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali cifre sono state dimenticate*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykejBpK7Wiwv-x_5BvjdytAue5Y_N6nU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which figures have been forgotten< MSK1/>
+
+![[src_kangourou_2013_preecolier__prob1.png]]
+
+> What numbers have been forgotten? A) 3 e 5 B) 4 e 8 C) 2 e 0 D) 6 e 9 E) 7 e 1
+
+**Answer:** D
+[[src_kangourou_2013_preecolier__Q01]]

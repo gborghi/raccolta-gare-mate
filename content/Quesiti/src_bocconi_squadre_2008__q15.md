@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q15
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare la stringa con segni aritmetici per ottenere 2008*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 153 X 12 [·] 9 - 17729 = 2008, con X = moltiplicazione e [·] appropriato (vedi griglia)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete the string with arithmetic marks to get 2008*
+
+> In the above string, however, not the one marked "="  so as to obtain a correct equality, as in the example below: $$1 \; 5 \; 3 \; 6 \; \mathbf{X} \; 1 \; 2 \; \Box \; 9 \; - \; 1 \; 7 \; 7 \; 2 \; 9 \; = \; 2 \; 0 \; 0 \; 8$$ The original string is: $1 \; 5 \; 3 \; 6 \; 1 \; 2 \; + \; 9 \; - \; 1 \; 7 \; 7 \; 2 \; 9 \; = \; 2 \; 0 \; 0 \; 8$
+
+**Answer:** 153 X 12 [·] 9 - 17729 = 2008, con X = moltiplicazione e [·] appropriato (vedi griglia)
+[[src_bocconi_squadre_2008__Q15]]

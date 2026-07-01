@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2022-23 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2022-23_round2__Q01
 parent: src_bmo_2022-23_round2
 competition: British Mathematical Olympiad 2022-23 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral from incircle circle intersections*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e2oUeqTGmt_ulqgfDb7FbG8t9EeuhUdM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Quadrilaterali ciclici da intersezioni di cerchi incircoli< MSK1/>
+
+> Il $ABC$ deve essere un triangolo con un angolo ottuso $A$ e incentro $I$. I cerchi $ABI$ e $ACI$ incrociano di nuovo il cerchio $ABC$ rispettivamente a $X$ e $Y$. Le linee $AX$ e $BI$ si incontrano a $P$, e le linee $AY$ e $CI$ si incontrano a $Q$. Provare che $BCQP$ è ciclico.
+
+[[src_bmo_2022-23_round2__Q01]]

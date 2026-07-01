@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2011 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2011__Q05
 parent: src_inmo_2011
 competition: Indian National Mathematical Olympiad 2011
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral with AC·BD=EG·FH implies four lines concurrent*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UMyBd55umRxUDtQdsg_pK-d1SkeZ2kq4/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilatero ciclico con AC·BD=EG·FH implica quattro linee simultanee*
+
+> $ABCD$ sia un quadrilaterale inciso in un cerchio $\Gamma$. I punti intermedi $E$, $F$, $G$, $H$ siano rispettivamente i punti intermedi $AB$, $BC$, $CD$ e $DA$ degli archi $\Gamma$. Supponiamo < MSK11/>. Prove che $AC$, $BD$, $EG$, $FH$ sono simultanei.
+
+[[src_inmo_2011__Q05]]

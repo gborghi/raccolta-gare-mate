@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet gara individuale — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q30
 parent: src_kangourou_2022_cadet_gara
 competition: Kangourou 2022 Cadet gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti koala vivono nei 7 parchi*
 
@@ -49,3 +52,17 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many koalas live in the 7 parks
+
+> 2022 kangaroos and some koalas live in 7 parks. In each park, the number of kangaroos is equal to the total number of koalas living in all other parks. How many koalas in all live in the seven parks? A) 288 B) 337 C) 576 D) 674 E) 2022
+>  
+> A B C D E
+>
+
+**Answer:** B
+[[src_kangourou_2022_cadet_gara__Q30]]

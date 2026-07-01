@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2008 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2008__Q03
 parent: src_cn_csmo_2008
 competition: China Southeastern Mathematical Olympiad 2008
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove O, H, E, M concyclic in triangle with angle bisector construction*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove conciclica O, H, E, M in triangolo con costruzione bisettore angolare*
+
+> In $\triangle ABC$, $BC > AB$, $BD$ divide $\angle ABC$ e incrocia $AC$ a $D$. Come mostrato nella figura, $CP \perp BD$ con $P$ come piede perpendicolare e $AQ \perp BP$ con $Q$ come piede perpendicolare. I punti $M$ e $E$ sono rispettivamente i punti intermedi di $AC$ e $BC$. Il cerchio circoscritto $O$ di $\triangle PQM$ interseca $AC$ al punto $H$. Provare che $O$, $H$, $E$, $M$ sono conciclici.
+
+![[src_cn_b07_w182__Q03.png]]
+
+[[src_cn_csmo_2008__Q03]]

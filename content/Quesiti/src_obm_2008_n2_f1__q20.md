@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f1__Q20
 parent: src_obm_2008_n2_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle IAO between incenter and circumcenter directions*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo IAO tra le direzioni incentro e circoncentro*
+
+> In un triangolo $ABC$, $\angle A=20^\circ$ e $\angle B=110^\circ$. Se $I$ è l'incentro (centro del cerchio inciso) e $O$ è il circumcentro (centro del cerchio circoscritto) del triangolo $ABC$, qual è la misura dell'angolo $\angle IAO$? (A) $20^\circ$ \quad (B) $25^\circ$ \quad (C) $30^\circ$ \quad (D) $40^\circ$ \quad (E) $35^\circ$
+
+[[src_obm_2008_n2_f1__Q20]]

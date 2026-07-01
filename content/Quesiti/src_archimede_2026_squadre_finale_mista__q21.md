@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q21
 parent: src_archimede_2026_squadre_finale_mista
 competition: Gara a Squadre Nazionale 2026 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo somma 4 interi consecutivi stesso numero divisori*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0974
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of 4 consecutive integers of the same number of divisors*
+
+> 21. Goodbye Filippo Falqui Cao The legend says that when the earth trembles or spits out lava, it is the dragons that remind us that they still exist..., Hilcup thinks, observing for one last time the swarm of dragons moving away in the sky. The world believes that there are no four consecutive positive integers with the same number of divisors, but we Berkhoffians know that this is not the case, and we will keep this secret until the time comes when dragons can return in peace. What is the minimum possible value of the sum of these four integers? The solution. Both d the number of divisors of the four consecutive integers required. Let's note that ched can't be odd because there aren't four squares.
+
+**Answer:** 0974
+[[src_archimede_2026_squadre_finale_mista__Q21]]

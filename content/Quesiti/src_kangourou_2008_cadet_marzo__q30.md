@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q30
 parent: src_kangourou_2008_cadet_marzo
 competition: Kangourou 2008 - Cadet (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione falsa su M (area 1)*
 
@@ -67,3 +70,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>False claim on M (area 1) < MSK1/>
+
+> We denote with M the product of the perimeter of a triangle for the sum of the three heights of the same triangle. Which of the following is false if the area of the triangle is 1? A) M can be greater than 1000. B) M is always greater than 6. C) M can be equal to 18. D) If the triangle is rectangular, then M>16. E) M may be less than 12. m . I am not going to say anything about this, but I am going to tell you something.
+> 
+>  
+>  
+> 1
+>  
+> Cadet category For third year students of primary secondary school or first year of secondary school
+>  
+> Solutions
+
+**Answer:** E
+[[src_kangourou_2008_cadet_marzo__Q30]]

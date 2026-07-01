@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_b__Q19
 parent: src_prmo_2015_b
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -32,6 +33,8 @@ tags:
   - regione/b
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four consecutive decreasing digits; sum of remainders mod 37*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 217
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Quattro cifre decrescenti consecutive; somma dei rimanenti mod 37< MSK1/>
+
+> Le cifre di un intero positivo $n$ sono quattro numeri interi consecutivi in ordine decrescente quando vengono letti da sinistra a destra. Qual è la somma dei possibili rimanenti quando $n$ è diviso per 37?
+
+**Risposta:** 217
+[[src_prmo_2015_b__Q19]]

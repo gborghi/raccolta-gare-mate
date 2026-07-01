@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2006 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2006__Q06
 parent: src_cn_cgmo_2006
 competition: China Girls' Mathematical Olympiad 2006
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Nonneg reals summing to 1: prove inequality with square roots*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nonneg reals sommando a 1: dimostrare la disuguaglianza con radici quadrate*
+
+> Per i numeri reali non negativi $a$, $b$, $c$ con $a + b + c = 1$, dimostrare che $$\sqrt{a + \frac{(b-c)^2}{4}} + \sqrt{b} + \sqrt{c} \le \sqrt{3}.$$
+
+[[src_cn_cgmo_2006__Q06]]

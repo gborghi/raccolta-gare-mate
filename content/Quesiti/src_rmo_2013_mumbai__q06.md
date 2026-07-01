@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Mumbai — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_mumbai__Q06
 parent: src_rmo_2013_mumbai
 competition: Regional Mathematical Olympiad 2013
@@ -32,6 +33,8 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find common divisor of P(2013!+1) and Q(2013!+1) for given polynomials*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QqpKhO6gD1FP1kEEypefYh_ByeYd4RtW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il divisore comune di P(2013!+1) e Q(2013!+1) per i polinomi dati*
+
+> $a, b$ siano numeri reali e $P(x) = x^3 + ax^2 + b$ e $Q(x) = x^3 + bx + a$. Supponiamo che le radici dell'equazione $P(x) = 0$ siano le reciprocità delle radici dell'equazione $Q(x) = 0$. Trova il divisore comune di $P(2013! + 1)$ e $Q(2013! + 1)$.
+
+[[src_rmo_2013_mumbai__Q06]]

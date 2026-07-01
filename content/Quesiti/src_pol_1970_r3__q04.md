@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1970 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1970_r3__Q04
 parent: src_pol_1970_r3
 competition: Olimpiade Matematica Polacca 1970 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pairwise intersecting axis-aligned rectangles all share a common point*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NxvTqHB2h85LaOtFK6TUdaJR3QiuBzRI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I rettangoli allineati all'asse che si intersecano in coppia condividono tutti un punto comune*
+
+> Nel piano sono indicate due linee reciprocamente perpendicolari e $n$ rettangoli con lati paralleli alle due linee. Mostrare che se ogni due rettangoli hanno un punto comune, allora tutti i rettangoli hanno un punto comune.
+
+[[src_pol_1970_r3__Q04]]

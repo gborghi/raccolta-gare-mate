@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Biennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_biennio__Q11
 parent: src_archimede_2008_biennio
 competition: Giochi di Archimede 2008 - Biennio
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Terne interi positivi soluzioni equazione quadratica*
 
@@ -51,3 +54,20 @@ tags:
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Term positive integers solutions to the quadratic equation*
+
+> How many distinct ordered sets (x, y, z) are formed of positive integers (strictly greater than zero) such that x2 + 2xy + y2 −z2 = 9 ?
+>
+> - **(A)** None of them.
+> - **(B)** two,
+> - **(C)** three,
+> - **(D)** four,
+> - **(E)** More than six.
+
+**Answer:** D
+[[src_archimede_2008_biennio__Q11]]

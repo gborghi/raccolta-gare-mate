@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q04
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorsi su scacchiera 6x6 con mosse verso angolo alto-destra*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1683
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Six-by-six chessboard routes with movements in the upper right corner< MSK1/>
+
+> While on the run, Fry swaps a suicide booth for an old phone booth and gets in line, meeting Beuler, a robot who works as an employee. To pass the time, Beuler is solving a game reported on an advertising manifesto: given a 6 6  chessboard with a pedal placed on the bottom left box, how many paths exist that lead the pedal into the upper right corner and can only make moves that move the pedal from the box in which it is located to one of the three adjacent boxes with the one starting in its top up right?
+
+**Answer:** 1683
+[[src_squadre_2018_femminile__Q04]]

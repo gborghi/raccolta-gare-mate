@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q05
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -35,6 +36,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Coefficient of x^2025 in product; remainder mod 100*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Coefficiente di x^2025 in prodotto; restante mod 100 < MSK1/>
+
+> Che $N$ sia il coefficiente di $x^{2025}$ nell'espansione di $$(x+1)(x^2+3)(x^4+5)(x^8+7)\cdots(x^{1024}+21).$$ Qual è il rimanente quando $N$ è diviso per 100?
+
+[[src_ioqm_2025_sep28__Q05]]

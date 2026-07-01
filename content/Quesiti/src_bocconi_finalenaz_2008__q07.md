@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2008 — Quesito
   7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2008__Q07
 parent: src_bocconi_finalenaz_2008
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2008
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero totale di monete da 5 cent dato che ciascuno paga 60 cent con sei monete tutte diverse.*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7 monete da 5 centesimi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total number of 5 cent coins given that each pays 60 cents with six different coins.*
+
+> Piercarlo, Piergiorgio, Pierluca, Piermarco and Pierpaolo each have 60 cents of Euro in their wallet, made up of six coins. To their surprise, they realize that the cents in their wallets are all different. They take a moment to think and find that there is no other way to get 60 cents with six coins. At this point, they put all their coins together. How many five-cent coins do they have all over our pier? Note: the euro coins in use (below 1 euro) are 1, 2, 5, 10, 20 and 50 cents.
+
+**Answer:** 7 monete da 5 centesimi
+[[src_bocconi_finalenaz_2008__Q07]]

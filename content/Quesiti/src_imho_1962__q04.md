@@ -1,6 +1,7 @@
 ---
 title: IMO 1962 (IV International Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1962__Q04
 parent: src_imho_1962
 competition: IMO 1962 (IV International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risolvere cos^2 x + cos^2 2x + cos^2 3x = 1*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BlLkE_efsxSP5T1vvAcLZHNj-SGm8Pco/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Solve cos^2 x + cos^2 2x + cos^2 3x = 1
+
+> Solve the equation $\cos^2 x + \cos^2 2x + \cos^2 3x = 1$.
+
+[[src_imho_1962__Q04]]

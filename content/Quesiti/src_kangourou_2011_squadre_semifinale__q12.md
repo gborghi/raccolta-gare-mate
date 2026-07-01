@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre semifinale turno A — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q12
 parent: src_kangourou_2011_squadre_semifinale
 competition: Kangourou 2011 squadre semifinale turno A
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora incontro ciclista e podista (60 km)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1340
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Now meeting cyclist and podium runner (60 km) *
+
+> The cyclist and the podium runner Stephen's house is 60 km from Andrea's. Every Saturday Stefano, a keen cyclist, goes to see Andrea on his bike, leaving at noon, cycling at a steady pace and taking two hours. Today, however, Andrew, who is a good walker, has no time to wait for him. So he decides to go on foot to meet him, leaving at noon. Andrea's speed is also constant and it's 6 km/h. What time will they meet? (Write the time using the digits of a digital clock with no other signs, for example write 1539 to indicate 3 and 39 p.m.)
+
+**Answer:** 1340
+[[src_kangourou_2011_squadre_semifinale__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q01
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero piu vicino a 17x0,3x20,16/999*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number closest to 17x0,3x20,16/999< MSK1/>
+
+> In two of them is inscribed a circle. What is the distance between the two circumferences? A) 2 √ 2 – 1 B) 2 √ 2 + 1 C) 2 √ 2 D) 2
+> 	
+> E) 3
+
+**Answer:** B
+[[src_kangourou_2016_junior_marzo__Q01]]

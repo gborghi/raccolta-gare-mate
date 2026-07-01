@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Benjamin — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q09
 parent: src_kangourou_2019_benjamin_semif
 competition: Kangourou 2019 Semifinale Benjamin
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti diversi decori di esagoni con triangolini colorati*
 
@@ -71,3 +74,40 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many different hexagonal decoration with coloured triangles*
+
+![[src_kangourou_2019_benjamin_semif__prob9.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \fill[gray!60] (2.500,4.344) -- (2.511,1.500) -- (0.000,0.014) -- cycle;
+  \fill[gray!60] (5.000,0.000) -- (2.511,1.487) -- (2.500,4.330) -- cycle;
+  \draw (0.000,0.014) -- (5.000,0.000) -- (2.500,4.344) -- cycle;
+  \draw (2.500,4.344) -- (2.511,1.494);
+  \draw (0.000,0.014) -- (2.511,1.494);
+  \draw (5.000,0.000) -- (2.511,1.494);
+\end{tikzpicture}
+\end{document}
+```
+
+> (Points 6) Approaching six equilateral triangles equals a regular hexagon. Assume that the starting equilateral triangles are each divided into three triangles (equal) with one vertex in the center of the equilateral triangle, of which two are grey and one is white (see figure). Suppose that they are brought together so that along each of the conjunction sides of the equilateral triangles there are always triangles of equal colour. How many different hexagonal decorations could you get? A) 6
+> 	
+> B) 5
+> 	
+> C) 4
+> 	
+> D) 3
+> 	
+> E) 2
+> 	
+> 	
+> Open-ended questions
+
+**Answer:** B
+[[src_kangourou_2019_benjamin_semif__Q09]]

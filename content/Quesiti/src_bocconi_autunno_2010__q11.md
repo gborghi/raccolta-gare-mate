@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2010 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2010__Q11
 parent: src_bocconi_autunno_2010
 competition: Giochi d'Autunno 2010
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora esatta dai due orologi che vanno avanti di 8 e 6 minuti all'ora*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 18 h 05 min
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Excise time from two clocks going forward by 8 and 6 minutes per hour< MSK1/>
+
+> Two clocks were charged and started at the same time today. But the first goes on for eight minutes every hour, the second for six. What time is it exactly when, still today, the first clock indicates 7:09 p.m. and the second 6:53 p.m.?
+
+**Answer:** 18 h 05 min
+[[src_bocconi_autunno_2010__Q11]]

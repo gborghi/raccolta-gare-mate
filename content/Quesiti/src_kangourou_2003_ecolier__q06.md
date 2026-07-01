@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q06
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza BC da AC, BD, AD*
 
@@ -65,3 +68,30 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance BC from AC, BD, AD*
+
+![[src_kangourou_2003_ecolier__prob6.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) -- (6,0);
+  \foreach \x/\lbl in {0/A, 2.2/B, 3.1/C, 6/D} {
+    \fill (\x,0) circle (2pt);
+    \node[above] at (\x,0) {$\lbl$};
+  }
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure the distances are: AC=10m, BD=15m, AD=22m. Find the BC distance. A) 1m;    B) 2m;   C) 3m;      D) 4m;    E) 5m A B C D 20 16 13 11 ?
+> 
+> I'm going to pay. I'm going to pay. 6 Kang 2003 Kang
+
+**Answer:** C
+[[src_kangourou_2003_ecolier__Q06]]

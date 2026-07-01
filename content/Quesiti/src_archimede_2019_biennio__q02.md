@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2019 - Biennio (T1) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_biennio__Q02
 parent: src_archimede_2019_biennio
 competition: Giochi di Archimede 2019 - Biennio (T1)
@@ -23,6 +24,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordinare i lati dalle altezze di un triangolo*
 
@@ -39,3 +42,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ordering the sides from the heights of a triangle*
+
+> In the DEF triangle, the heights (known, respectively, from the vertices D, E and F) measure, in the order, 81, 82 and 79 meters. Indicating with d, and f, the lengths of the sides EF, FD, DE, respectively, which of these inequalities is correct?
+>
+> - **(A)** e < d < f
+> - **(B)** d < e < f
+> - **(C)** f < d < e
+> - **(D)** e < f < d
+> - **(E)** f < e < d
+
+**Answer:** A
+[[src_archimede_2019_biennio__Q02]]

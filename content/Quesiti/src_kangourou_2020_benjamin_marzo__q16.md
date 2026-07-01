@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q16
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo mosse per portare 9 gettoni allo stesso colore (gira 3)*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum moves to carry 9 tokens of the same colour (slide 3) *
+
+> Nine tokens are black on one face and white on the other. At first everyone is set with their black face facing up. You have to spin three tokens every move. What's the minimum number of moves you can take to get all the tokens to the same color? It's mandatory to make at least one move. A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 5
+
+**Answer:** B
+[[src_kangourou_2020_benjamin_marzo__Q16]]

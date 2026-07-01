@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2021 Finale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q12
 parent: src_kangourou_2021_squadre_finale
 competition: Kangourou Coppa squadre 2021 Finale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime quattro cifre del piu grande numero forte*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>The last four digits of the largest strongest number < MSK1/>
+
+> Numbers  strong Let's say a number is  strong if every pair of its consecutive digits is a number that is power, at least second degree, of a positive integer. For example, 325 is a strong number because 32 and 25 are powers of integers. What are the last four digits of the largest strongest number? Write the number of thousands, the number of hundreds, etc. in the order.
+
+[[src_kangourou_2021_squadre_finale__Q12]]

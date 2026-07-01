@@ -1,6 +1,7 @@
 ---
 title: IMO 1961 (III International Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1961__Q05
 parent: src_imho_1961
 competition: IMO 1961 (III International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Costruire triangolo dati b, c e angolo AMB con condizione*
 
@@ -35,3 +38,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19oKHAdph4sJuaxtpEyXIRuF3vBNV2I4p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Build data triangle b, c and AMB with condition*
+
+> Construct triangle $ABC$ if $AC = b$, $AB = c$ and $\angle AMB = \omega$, where $M$ is the midpoint of segment $BC$ and $\omega < 90^\circ$. Prove that a solution exists if and only if $$b \tan\frac{\omega}{2} \leq c < b.$$ In what case does equality hold?
+
+[[src_imho_1961__Q05]]

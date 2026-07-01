@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_biennio__Q06
 parent: src_archimede_2010_biennio
 competition: Giochi di Archimede 2010 - Biennio
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione vera su tre numeri con somme coppie non negative*
 
@@ -49,3 +52,20 @@ tags:
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 **Anche in triennio:** [apri PDF p.5](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*True statement on three numbers with non-negative pair sums*
+
+> a, b and c are real numbers such that if you choose two, their sum is greater than or equal to zero. Which of the following is certainly true?
+>
+> - **(A)** a · b · c ≥0,
+> - **(B)** At least one of the three numbers is zero.
+> - **(C)** At least one of the three numbers is strictly less than zero.
+> - **(D)** a, b and c are all greater than or equal to zero,
+> - **(E)** a + b + c ≥0.
+
+**Answer:** E
+[[src_archimede_2010_biennio__Q06]]

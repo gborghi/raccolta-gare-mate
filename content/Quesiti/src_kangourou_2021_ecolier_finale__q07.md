@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - finale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q07
 parent: src_kangourou_2021_ecolier_finale
 competition: Kangourou 2021 Ecolier - finale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti paletti (due numerazioni rossa e verde)*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0111
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many pallets (two red and green numbers) *
+
+> You have to add up some of the eight natural numbers from 1 to 8 so that you get 30. If each number cannot be used more than once, how many different ways can you meet the request? (The addition of the same additives in a different order should not be considered as a different way).
+>
+> - **(A)** 4
+> - **(B)** 6
+> - **(C)** 8
+> - **(D)** 10
+> - **(E)** 12
+
+**Answer:** 0111
+[[src_kangourou_2021_ecolier_finale__Q07]]

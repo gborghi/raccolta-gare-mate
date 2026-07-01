@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q13
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra del quadrato nell'addizione criptata*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Square code in the encrypted addition*
+
+![[src_kangourou_2004_benjamin__prob13.png]]
+
+> To equal symbols correspond equal numbers, to different symbols correspond different numbers. In the displayed addition, what figure corresponds to the square? A) 9 B) 8 C) 7 D) 6 E) 5
+
+**Answer:** D
+[[src_kangourou_2004_benjamin__Q13]]

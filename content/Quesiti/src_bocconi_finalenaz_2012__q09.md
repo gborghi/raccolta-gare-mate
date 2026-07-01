@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2012 — Quesito
   9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2012__Q09
 parent: src_bocconi_finalenaz_2012
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2012
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Primo fattore nella moltiplicazione con simboli diversi*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First factor in multiplication by different symbols*
+
+> In this multiplication, each symbol always represents the same number and two different symbols are representing two different numbers. < MSK0/> What is the first factor?
+
+![[src_bocconi_finalenaz_2012__Q09.png]]
+
+**Answer:** 1831
+[[src_bocconi_finalenaz_2012__Q09]]

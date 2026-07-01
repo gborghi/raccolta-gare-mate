@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q11
 parent: src_archimede_2014_febb_2livello
 competition: Archimede Gara di Febbraio 2014 - 2 livello
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punteggi diversi a podio con 10,8,5 punti in 16 gare*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Different podium scores with 10.8,5 points in 16 races*
+
+> A sprinter has played a good championship this year, reaching the podium 16 times. In each race, the first-placed player scores 10 points, the second eight and the third five, while the fourth-placed player is not awarded points. How many different scores did he have to finish the championship with?
+>
+> - **(A)** 153
+> - **(B)** 80
+> - **(C)** 78
+> - **(D)** 75
+> - **(E)** None of the above.
+
+**Answer:** D
+[[src_archimede_2014_febb_2livello__Q11]]

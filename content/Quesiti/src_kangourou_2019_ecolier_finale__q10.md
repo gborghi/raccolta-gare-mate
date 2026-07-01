@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q10
 parent: src_kangourou_2019_ecolier_finale
 competition: Kangourou 2019 Finale Nazionale Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti anni meravigliosi nel 21-esimo secolo*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0006
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many wonderful years in the 21st century
+
+> Six strips of paper are woven and glued onto a transparent glass; Franca and Guido observe them from opposite sides of the glass. The figure shows you what Franca sees. What does Guido see?
+>
+> - **(A)**
+> - **(B)**
+> - **(C)**
+> - **(D)**
+> - **(E)** (see figure)
+
+**Answer:** 0006
+[[src_kangourou_2019_ecolier_finale__Q10]]

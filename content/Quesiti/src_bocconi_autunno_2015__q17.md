@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2015 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2015__Q17
 parent: src_bocconi_autunno_2015
 competition: Giochi d'Autunno 2015
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punto di convergenza del percorso della formica*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $\left(\frac{4}{5},\ \frac{2}{5}\right)$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eK88JMTv896JXMMmFL1S8lYcD_i95Nzi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Convergence point of the path of the ant*
+
+> A melodic ant. An ant moves in a square plane always following the same pattern: it starts from the source $(0,0)$, advances a unit to the right, $\frac{1}{8}$ to the left, $\frac{1}{8}$ to the bottom and $\frac{1}{16}$ back to the right. It continues as follows, rotating $90^\circ$ clockwise after each shift and running each time a distance that is half that of the previous stretch. What's the point of convergence of its path?
+
+**Answer:** $\left(\frac{4}{5},\ \frac{2}{5}\right)$
+[[src_bocconi_autunno_2015__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2018 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo28mq_honsen__Q01
 parent: src_jmo28mq_honsen
 competition: Japan Mathematical Olympiad 2018 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *gcd operation on blackboard, final number not a square*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FbU0XqFYeQTbhZOAOggiqJ27nJzT3Ibf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*gcd operazione sulla lavagna, numero finale non quadrato*
+
+> Su una lavagna sono scritti i numeri interi da $1$ a $100$, ognuno esattamente una volta. Ripettivamente eseguiamo la seguente operazione: scegliamo due integri $a, b$ scritti sulla lavagna, li cancelliamo e scriviamo il più grande divisore comune di $a^2 b^2 + 3$ e $a^2 + b^2 + 2$. Mostrate che quando rimane solo un intero sulla lavagna, quel intero non è un quadrato perfetto.
+
+[[src_jmo28mq_honsen__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Benjamin — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin__Q14
 parent: src_kangourou_2014_benjamin
 competition: Kangourou 2014 marzo Benjamin
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo rettangoli non quadrati interi in quadrato 7*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum non-square whole rectangles in square 7*
+
+> What is the maximum number of non-square rectangles, whose sides measure an integer number of centimetres, that can be inserted without overlapping into a square of 7 centimetres on the side? A) 14
+> 	
+> B) 18
+> 	
+> C) 20
+> 	
+> D) 21
+> 	
+> E) 24
+
+**Answer:** E
+[[src_kangourou_2014_benjamin__Q14]]

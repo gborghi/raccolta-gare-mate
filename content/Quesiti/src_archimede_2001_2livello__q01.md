@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2001 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_2livello__Q01
 parent: src_archimede_2001_2livello
 competition: Archimede Gara 2º livello 2001
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Viaggi uguali per due autocarri a trasportare la sabbia*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Equal journeys for two sand-carrying lorries*
+
+> A pile of sand can be transported in 4 journeys by loading up to one bus or, alternatively, in 12 journeys by loading up to another smaller one. If we can use both trucks at full load, and we want both to make the same number of trips, how many trips will each truck have to make to carry all the sand?
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** The data is insufficient.
+
+**Answer:** C
+[[src_archimede_2001_2livello__Q01]]

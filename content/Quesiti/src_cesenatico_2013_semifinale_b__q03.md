@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_semifinale_b__Q03
 parent: src_cesenatico_2013_semifinale_b
 competition: Gara a Squadre Cesenatico 2013 - Semifinale B
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rimbalzi palla in stanza che raddoppia*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0022
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ripped ball in room doubling *
+
+> What's going on? Root is now located in the A corner of an ABCD square room on the side 4161cm, and rolls a very small ball onto the floor so that it reaches the point on the side BC that is 1cm from B. Every time it hits a wall, not only does the ball bounce back perfectly, but at the same time the room grows larger: the wall opposite the one hit by the ball moves away from the one hit instantly so that their distance doubles. The other two walls remain at the same distance. How many bounces will the ball make before it ends up on top of the room again?
+
+**Answer:** 0022
+[[src_cesenatico_2013_semifinale_b__Q03]]

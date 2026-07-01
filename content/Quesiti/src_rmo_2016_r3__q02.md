@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2016 — Region 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2016_r3__Q02
 parent: src_rmo_2016_r3
 competition: Regional Mathematical Olympiad 2016
@@ -33,6 +34,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality with three distinct positive reals abc*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BaQ45FF4xT_9XnNK7XN2HDAIBbyW2GyF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rimostra la disuguaglianza con tre differenti valori positivi abc*
+
+> $a, b, c$ siano tre numeri reali positivi distinti, come $abc = 1$. Provare che < MSK0/>
+
+[[src_rmo_2016_r3__Q02]]

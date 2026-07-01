@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f1__Q13
 parent: src_obm_2005_n3_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length CD in triangle ABC with D on BC, AB=AD=2, BD=1, angle bisector condition*
 
@@ -45,3 +48,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza del CD in triangolo ABC con D su BC, AB=AD=2, BD=1, condizione del bisettore angolare*
+
+> $D$ è un punto appartenente al lato $BC$ del triangolo $ABC$. Sapendo che $AB = AD = 2$, $BD = 1$ e gli angoli $B\hat{A}D$ e $C\hat{A}D$ sono congruenti, la misura del segmento $CD$ è: (A) $\dfrac{3}{2}$ (B) $\dfrac{4}{3}$ (C) $\dfrac{5}{4}$ (D) $\dfrac{6}{5}$ (E) $\dfrac{7}{6}$
+
+[[src_obm_2005_n3_f1__Q13]]

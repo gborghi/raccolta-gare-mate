@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1991-92 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1991-92_round2__Q01
 parent: src_bmo_1991-92_round2
 competition: British Mathematical Olympiad 1991-92 — Round 2
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Odd prime p: unique positive integers x,y with x^2=y(y+p)*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WQUmzhzILjWwym4_9QHJMWN1-c9lfbmQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Odd prime p: numeri interi positivi unici x,y con x^2=y(y+p) *
+
+> $p$ sia un numero primo impar. Prove che esistono unici integri positivi $x, y$ come $x^2 = y(y+p)$, e fornisca le formule per $x$ e $y$ in termini di $p$.
+
+[[src_bmo_1991-92_round2__Q01]]

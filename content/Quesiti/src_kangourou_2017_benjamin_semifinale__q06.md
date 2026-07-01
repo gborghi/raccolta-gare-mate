@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q06
 parent: src_kangourou_2017_benjamin_semifinale
 competition: Kangourou 2017 Benjamin (semifinale individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di inserire 1..5 con catena di disuguaglianze*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uSb-8ZS0ZxgQE-rDkGuF4RrLMjBY_qKl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode of inserting 1.5. with chain of inequalities*
+
+> (Points 4) You want to insert in each of the spaces marked by the dots one of the numbers 1, 2, 3, 4, 5 so that each number is used only once and that the inequalities: ... < ... > ... < ... < .... They're all true. How many ways can you do that?
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 6
+> - **(D)** 9
+> - **(E)** 15
+
+**Answer:** D
+[[src_kangourou_2017_benjamin_semifinale__Q06]]

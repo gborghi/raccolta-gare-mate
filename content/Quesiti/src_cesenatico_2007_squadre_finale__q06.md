@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q06
 parent: src_cesenatico_2007_squadre_finale
 competition: Gara a Squadre Cesenatico 2007 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di dividere 4 maschi e 8 femmine in squadre miste da 3*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How to divide 4 males and 8 females into 3 mixed teams
+
+> A mix of mixed teams The mateninjutsu class is attended by 4 young male mateninji and 8 young female mateninji. How many ways can these be divided into three-match teams so that each team is mixed, that is, has matches of both sexes?
+
+[[src_cesenatico_2007_squadre_finale__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2015 - Biennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_biennio__Q10
 parent: src_archimede_2015_biennio
 competition: Giochi di Archimede 2015 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei cinque piu piccoli divisori di 40! oltre 40*
 
@@ -43,3 +46,19 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1prvgjdAFaK6FEUhTIz1KxL8s22sIjytL/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Sum of the five smallest divisors of 40! of a width of not more than 50 mm
+
+> Let's put it in forty! The number obtained by multiplying all integers from 1 to 40, that is, 40! = 1 · 2 · 3 · 4 · ... · 38 · 39 · 40. Among the integers greater than 40 that are divisors of 40!, find the five smallest ones and indicate their sum.
+>
+> - **(A)** 225
+> - **(B)** 215
+> - **(C)** 219
+> - **(D)** 217
+> - **(E)** 223
+
+[[src_archimede_2015_biennio__Q10]]

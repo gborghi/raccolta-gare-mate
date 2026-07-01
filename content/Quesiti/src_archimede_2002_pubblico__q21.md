@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_pubblico__Q21
 parent: src_archimede_2002_pubblico
 competition: Archimede 2002 - Gara del Pubblico (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *conteggio combinatorio*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0017
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*combination count*
+
+> **The mysteries of democracy** (50 points)
+> 
+> Professor Abacus is a candidate for president of the Society of Mathematicians. The committee electing the President is composed of nine people and chooses from among the three presidential candidates as follows: each voter writes the names of the three candidates in preferential order, assigning 3 points to the first, 2 to the second and 1 to the third. The points earned by each candidate are then added and the final ranking is drawn up. At the end of the election, each candidate received a different score and unfortunately Professor Abacus came third. As if it were not enough to observe that if the election had taken place in the usual way (i.e. if each voter had awarded a single point to the preferred candidate) the ranking would have been exactly the opposite! Write down Professor Abacus's score.
+
+**Answer:** 0017
+[[src_archimede_2002_pubblico__Q21]]

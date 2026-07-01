@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Finale Nazionale — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_finale__Q16
 parent: src_squadre_2023_finale
 competition: Gara a Squadre 2023 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza Bob-Kelvin con bisettrice e altezze*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0066
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Bob-Kelvin distance with beam and height< MSK1/>
+
+> The Army of Minions is building the rocket that will allow Krull to steal the moon. Meanwhile, the minions Stewart, Kelvin and Bob keep the three girls busy. Maria, Gaetana and Agnese are preparing to play the tea ceremony. They are located on the vertices of a triangle of sides AB = 165 cm, BC = 220 cm and AC = 275 cm. The Stewart and Kelvin minions are respectively in S, the foot of the bishop coming out of A, and in K, the foot of height relative to B. Bob arrives a little late, sitting at the foot of the S-height of the ACS triangle; finally everyone can start sipping tea! How far are Bob and Kelvin in centimeters?
+
+**Answer:** 0066
+[[src_squadre_2023_finale__Q16]]

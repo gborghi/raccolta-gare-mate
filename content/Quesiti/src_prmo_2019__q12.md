@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q12
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of n for which f(n+5)/f(n) is integer, good numbers*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di n per il quale f(n+5)/f(n) è un numero intero, numeri buoni*
+
+> Un numero naturale $k > 1$ è chiamato buono se esistono numeri naturali $a_1 < a_2 < \cdots < a_k$ in modo tale che $$\frac{1}{\sqrt{a_1}} + \frac{1}{\sqrt{a_2}} + \ldots + \frac{1}{\sqrt{a_k}} = 1.$$ $f(n)$ sia la somma dei primi numeri buoni $n$, $n \ge 1$. Trova la somma di tutti i valori di $n$ per i quali $f(n+5)/f(n)$ è un numero intero.
+
+[[src_prmo_2019__Q12]]

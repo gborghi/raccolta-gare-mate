@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q09
 parent: src_kangourou_2024_ecolier_semifinale
 competition: Kangourou Semifinale individuale Ecolier 2024
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi ha mentito tra i quattro nipotini*
 
@@ -92,3 +95,48 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who lied among the four grandchildren?
+
+> (Points 6) The grandmother prepares some candy; she advises her grandchildren to wait to eat it, and she goes away for a few minutes. A grandson disobeys and eats a candy. The grandmother returns, discovers that a dessert is missing, and asks the grandchildren, "Who was it?" Bruno replies: "It was Charles". Donato answers: "It was Bruno". Carlo replies, "Donato has lied". Only one of them lied. Who's that? A) Angelo B) Bruno C) Carlo D) Donato E) He may have lied to Bruno or Donato, but it is not possible to establish with certainty. Answer: D) Sun. If Angelo had been the disobedient one, Bruno and Donato would have lied. If it was Bruno, Carlo would lie to him. If it was Donato, besides him, Bruno would be lying. So it was Carlo, and it was Donato who lied. • • • • •
+>  
+>  
+>  
+> •
+>  
+>  
+>  
+> •
+>  
+>  
+>  
+> •
+>  
+>  
+>  
+> •
+>  
+>  
+>  
+> •
+>  
+>  
+>  
+> •
+>  
+>  
+>  
+> •
+>  
+>  
+>  
+> • • • •
+> 
+> Open-ended questions
+
+**Answer:** D
+[[src_kangourou_2024_ecolier_semifinale__Q09]]

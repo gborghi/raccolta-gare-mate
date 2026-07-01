@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Finale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q01
 parent: src_kangourou_2015_squadre_f
 competition: Kangourou Coppa Squadre 2015 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale di cui B supera A*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 20
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11h_SgvOFzLa5MkyUk9nA_Lj1BTGkSTzB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage of which B exceeds A*
+
+> The percentage A number is 25% (compared to itself) exceeded by a number B. By what percentage does number B (compared to itself) exceed number A?
+
+**Answer:** 20
+[[src_kangourou_2015_squadre_f__Q01]]

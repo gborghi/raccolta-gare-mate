@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q21
 parent: src_kangourou_2019_koala_preecolier
 competition: Kangourou 2019 Koala n.6 Pre-Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanto e alto il mucchio di sabbia (asta bandiera)*
 
@@ -43,3 +46,23 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How high is the pile of sand (flag auction) *
+
+![[src_kangourou_2019_koala_preecolier__prob21.png]]
+
+> While playing on the beach, Tim and Tom formed a pile of sand and planted a flag on top of it. Exactly half the flag's tail is stuck in the sand; from the top of the tail to the base of the sand pile there are 80 centimeters, from the base of the tail to the base of the pile there are 20 centimeters. How high is the pile of sand?
+>
+> (see figure)
+>
+> - **(A)** 40 cm
+> - **(B)** 45 cm
+> - **(C)** 50 cm
+> - **(D)** 55 cm
+> - **(E)** 60 cm
+
+[[src_kangourou_2019_koala_preecolier__Q21]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q24
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integers 0≤x≤y≤z≤u≤v≤t with w=2(x+y+z), t=u+v+2, w=9; find t*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integri 0≤x≤y≤z≤u≤v≤t con w=2(x+y+z), t=u+v+2, w=9; trovare t*
+
+> I numeri interi $0 \le x \le y \le z \le u \le v \le t$ soddisfano $w = 2(x + y + z)$ e $t = u + v + 2$. Se $w = 9$, allora $t$ è uguale a:
+> 
+> **(A)** $45$ $\quad$ **(B)** $54$ $\quad$ **(C)** $63$ $\quad$ **(D)** $72$ $\quad$ **(E)** $81$
+
+**Risposta:** C
+[[src_obm_2009_n2_f1__Q24]]

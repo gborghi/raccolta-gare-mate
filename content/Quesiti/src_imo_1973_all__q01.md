@@ -1,6 +1,7 @@
 ---
 title: IMO 1973 (Fifteenth International Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1973_all__Q01
 parent: src_imo_1973_all
 competition: IMO 1973 (Fifteenth International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *sum length >=1*
 
@@ -35,3 +38,13 @@ tags:
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_yg5ytepW4kPtXzf2MZzjG__z3aJ2dcR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum length >=1*
+
+> The $O$ point lies on the straight $g$; $\overrightarrow{OP_1}, \overrightarrow{OP_2}, \ldots, \overrightarrow{OP_n}$ are unit vectors such that the $P_1, P_2, \ldots, P_n$ points lie all in a plane containing $g$ and on one side of $g$. Show that if $n$ is odd, then $$\left|\overrightarrow{OP_1} + \overrightarrow{OP_2} + \cdots + \overrightarrow{OP_n}\right| \geq 1.$$ Here $\left|\overrightarrow{OM}\right|$ denotes the length of the $\overrightarrow{OM}$ vector.
+
+[[src_imo_1973_all__Q01]]

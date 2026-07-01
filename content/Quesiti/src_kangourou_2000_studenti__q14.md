@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q14
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Siepe piu lunga tra cinque giardini*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The longest gap between five gardens
+
+![[src_kangourou_2000_studenti__prob14.png]]
+
+> Five neighbors have identical rectangular terrain. Each of them planted a hedge (shown in the figure with a continuous stretch) on its soil to protect the flowering part of the garden. Who used a longer hedge? A) Mr. Al B) Mr. Ben C) Mr. (c) Mr. Mr E. Other
+
+**Answer:** C
+[[src_kangourou_2000_studenti__Q14]]

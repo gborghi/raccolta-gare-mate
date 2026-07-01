@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q19
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Units digit of alternating sum of a 2x_{n+1}+x_n recurrence*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Unità di cifra di somma alternata di una ricorrenza 2x_{n+1}+x_n*
+
+> Una sequenza $x_n$ ha come primi termini $x_0 = x_1 = 2$ e gli altri termini definiti da $x_{n+2} = 2x_{n+1} + x_n$. Qual è la cifra di unità di $x_0 - x_1 + x_2 - x_3 + \cdots - x_{2013} + x_{2014}$? (A) $0$ (B) $2$ (C) $4$ (D) $6$ (E) $8$
+
+[[src_obm_2014_n3_f1__Q19]]

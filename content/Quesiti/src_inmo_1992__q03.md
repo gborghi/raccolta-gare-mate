@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1992 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1992__Q03
 parent: src_inmo_1992
 competition: Indian National Mathematical Olympiad 1992
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Remainder of 19^92 upon division by 92*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EOEsZB8HaiI0YQM_jwUKgpq-22uACryj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Restante di 19^92 dopo divisione per 92< MSK1/>
+
+> Determinare il residuo di $19^{92}$ diviso per $92$.
+
+[[src_inmo_1992__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Benjamin 2024 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin__Q02
 parent: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quale quadrato Mia atterra solo sul piede destro*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+In which square Mia lands only on the right foot
+
+![[src_kangourou_2024_benjamin__prob2.png]]
+
+> 2. A long strip of equal squares is drawn on the courtyard floor. Mine plays jumping from one to the other, landing alternately on two feet or on one foot. In the figure (from the bottom to the top) you can see the prints of his first jump. Every four squares repeat the jump sequence. In which of the following squares will Mia land only on her right foot? (a) The tenth. B) The 15th. C) The 20th. D) The twenty-second. E) The 23rd.
+
+**Answer:** C
+[[src_kangourou_2024_benjamin__Q02]]

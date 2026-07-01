@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2014 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo12mq_honsen__Q03
 parent: src_jjmo12mq_honsen
 competition: Japan Junior Mathematical Olympiad 2014 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In triangle with ∠BAC=60°, reflection of A over PQ lies on BC*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18594kVzlMkSq0K9TdtkKDDLR5gHNyYtr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nel triangolo con BAC=60°, la riflessione di A su PQ si trova su BC*
+
+> Che $ABC$ sia un triangolo con $\angle BAC = 60^\circ$. Il $P$ è l'intersezione del bisettore angolare di $\angle ABC$ con il lato $AC$ e il $Q$ è l'intersezione del bisettore angolare di $\angle ACB$ con il lato $AB$. Prova che il riflesso di $A$ sulla linea $PQ$ si trova sulla linea $BC$.
+
+[[src_jjmo12mq_honsen__Q03]]

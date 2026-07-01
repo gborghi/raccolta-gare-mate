@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 finale nazionale Benjamin — Quesito B5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_finale_benjamin__QB5
 parent: src_kangourou_2016_finale_benjamin
 competition: Kangourou 2016 finale nazionale Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parco circolare rete 2016m, pianta ogni 8m, stesso tipo ogni 64m*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1hKl3-m8efCrVdgDmp4AKfiZmOp4Irx2d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* 2016m network circular park, plant every 8m, same type every 64m*
+
+> A circular park is surrounded by a network of < MSK0/> meters. Each $8$ meter of network has a plant and each $64$ meter the plants are of the same type. How many different types of plants can be on the network at most?
+
+**Answer:** 4
+[[src_kangourou_2016_finale_benjamin__QB5]]

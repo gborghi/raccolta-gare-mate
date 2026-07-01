@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo11yq_yosen__Q11
 parent: src_jmo11yq_yosen
 competition: Japan Mathematical Olympiad 2001 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-digit n with S(6n) >= 12 S(n)*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare n a 3 cifre con S(6n) >= 12 S(n) *
+
+> Per un intero positivo $n$, $S(n)$ indica la somma dei divisori positivi di $n$. Quanti numeri interi positivi a tre cifre $n$ soddisfano $S(6n) \ge 12\,S(n)$?
+
+[[src_jmo11yq_yosen__Q11]]

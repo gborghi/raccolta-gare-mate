@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q19
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di suddividere 96 ragazzi in gruppi*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to divide 96 children into groups*
+
+> 96 children at a summer camp were divided into groups, so that each group was made up of the same number of children. How many different ways can this division be achieved if each group must contain more than 5 and less than 20 children? A) 10 B) 8 C) 5 D) 4 E) 2
+
+**Answer:** D
+[[src_kangourou_2000_studenti__Q19]]

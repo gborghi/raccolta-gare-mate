@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q29
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo alla base di 4 triangoli isosceli uguali*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Angle at the base of 4 equal isosceles triangles*
+
+![[src_kangourou_2020_junior_marzo__prob29.png]]
+
+> 29. Look at the figure. A zigzag line starts at the end A of a semicircle diameter and ends at the end B after exactly four peaks on the semicircle. The four triangles that the line forms with the diameter are all isosceles. If, unlike B A as shown in the figure, all their angles at the base were the same size, how much would that size be in degrees? A) 60 B) 72 C) 75 D) 80 E) None of the above is the correct value.
+
+**Answer:** B
+[[src_kangourou_2020_junior_marzo__Q29]]

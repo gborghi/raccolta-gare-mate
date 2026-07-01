@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2025 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2025__Q04
 parent: src_inmo_2025
 competition: Indian National Mathematical Olympiad 2025
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the largest real t_n such that a symmetric max inequality holds*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gffQQL4VecZGe0gDiKrBISppVkk_kB-P/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il più grande t_n reale tale che una disuguaglianza massima simmetrica tenga *
+
+> $n \ge 3$ sia un numero intero positivo. Trovare il più grande numero reale $t_n$, come funzione di $n$, in modo tale che l'ineguaglianza $$\max(|a_1 + a_2|, |a_2 + a_3|, \ldots, |a_{n-1} + a_n|, |a_n + a_1|) \ge t_n \cdot \max(|a_1|, |a_2|, \ldots, |a_n|)$$ sia valida per tutti i numeri reali $a_1, a_2, \ldots, a_n$.
+
+[[src_inmo_2025__Q04]]

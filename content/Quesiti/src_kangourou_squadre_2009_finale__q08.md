@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2009_finale__Q08
 parent: src_kangourou_squadre_2009_finale
 competition: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *rettangolo 36x81 ricomposto in quadrato*
 
@@ -58,3 +61,29 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0027
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>rectangle 36x81 squared < MSK1/>
+
+![[src_kangourou_squadre_2009_finale__prob8.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.06]
+  \draw (0,0) rectangle (81,36);
+  \draw (0,36) -- (27,0);
+  \draw (27,36) -- (81,0);
+  \draw[<->] (0,39) -- (27,39) node[midway,above] {x};
+  \node[left] at (0,18) {36};
+  \node[below] at (40.5,0) {81};
+\end{tikzpicture}
+\end{document}
+```
+
+> The rectangle becomes a square The figure shows the lines along which Mark cut a cardboard rectangle, the sides of which measured 36 and 81 centimeters, obtaining two triangles and a pentagon. By timely joining the three pieces, Marco was able to make a square. How many centimeters is the length of the segment indicated by x?
+
+**Answer:** 0027
+[[src_kangourou_squadre_2009_finale__Q08]]

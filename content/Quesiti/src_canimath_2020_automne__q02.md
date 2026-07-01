@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2020 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_automne__Q02
 parent: src_canimath_2020_automne
 competition: Coupe Animath Automne 2020
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the number of floors of two buildings given total bathrooms and bedrooms*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il numero di piani di due edifici dato il numero totale di bagni e camere da letto*
+
+> Alexie e Baptiste possiedono entrambi un edificio. Ogni piano dell'edificio di Alexie ha bagni e camere da letto. Baptiste, per quanto riguarda lui, dispone di $4$ bagni e $3$ camere da letto per piano. In totale (cioè nei due edifici) ci sono bagni $25$ e camere da letto $18$. Trova il numero di piani degli edifici di Alexie e Baptiste.
+> 
+> *Solo una risposta numerica è prevista qui.*
+
+[[src_canimath_2020_automne__Q02]]

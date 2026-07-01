@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q18
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of two consecutive two-digit perfect-square numbered chairs*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di due sedie consecutive a due cifre di quadrato perfetto numerate*
+
+> Le sedie $10$ di un tavolo rotondo erano numerate con numeri di due cifre consecutive, tra cui ci sono esattamente due quadrati perfetti. Carlos si sedette sulla sedia con il maggior numero e Janaína, la sua fidanzata, si sedette sulla sedia con il numero più piccolo. Qual è la somma dei numeri di queste due sedie?
+> 
+> A) $29$ \quad B) $36$ \quad C) $37$ \quad D) $41$ \quad E) $64$
+
+**Risposta:** D
+[[src_obm_2005_n1_f1__Q18]]

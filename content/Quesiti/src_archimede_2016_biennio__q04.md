@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Biennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_biennio__Q04
 parent: src_archimede_2016_biennio
 competition: Giochi di Archimede 2016 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dismutazioni di 4 portachiavi*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1w98Us2ogDSfVMh4NQofZesTOzitRRSQB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Disambiguations of 4 keypads< MSK1/>
+
+> Four friends have grown tired of their keys and decide to redistribute them, so that each of them has one different from the one he had before. How many different ways can keys be exchanged?
+>
+> - **(A)** 6
+> - **(B)** 9
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 10
+
+**Answer:** B
+[[src_archimede_2016_biennio__Q04]]

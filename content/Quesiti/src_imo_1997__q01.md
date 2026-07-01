@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1997 (38th IMO, Mar del Plata) — Quesito 1'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1997__Q01
 parent: src_imo_1997
 competition: 'IMO 1997 (38th IMO, Mar del Plata)'
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chessboard triangle black-white area difference function f(m,n)*
 
@@ -51,3 +54,13 @@ tags:
 **Metodo:** [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione / parita]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g-riBxA5RS3xIizqUBYrgemajJKWaBw5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Chessboard triangle black-white area difference function f(m,n)
+
+> In the plane the points with integers are the vertices of unit squares. The squares are alternately colored black and white (as on a chessboard). For any pair of positive integers m and n, consider a right-angled triangle whose vertices have integer coordinates and whose legs, of lengths m and n, lie along edges of the squares. Let S1 be the total area of the black part of the triangle and S2 be the total area of the white part. Let f, m, n = S1 − S2 be the same. (a) Calculate f ((m, n) for all positive integers m and n which are either even or both odd. (b) Prove that f (m, n) ≤1 2 max{m, n} for all m and n. (c) Show that there is no constant C such that f ((m, n) < C for all m and n.
+
+[[src_imo_1997__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q01
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parallelepipedo componibile con sei mattoni*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Parallel piped composed of six bricks< MSK1/>
+
+![[src_kangourou_2021_benjamin__prob1.png]]
+
+> Which of the parallel pipes shown in the answers can be composed using these six identical-sized bricks? A) B) C) D) E)
+
+**Answer:** D
+[[src_kangourou_2021_benjamin__Q01]]

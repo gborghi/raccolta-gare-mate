@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q25
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find area of triangle AEF given areas of triangles in rectangle ABCD*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ritrovare l'area del triangolo AEF dati aree dei triangoli nel rettangolo ABCD*
+
+> Che $ABCD$ sia un rettangolo e che $E$ e $F$ siano punti rispettivamente su $CD$ e $BC$ in modo tale che $\text{area}(AEF) = 9$, $\text{area}(CEF) = 9$ e $\text{area}(ABF) = 25$. Qual è l'area del triangolo $AEF$?
+
+[[src_prmo_2017__Q25]]

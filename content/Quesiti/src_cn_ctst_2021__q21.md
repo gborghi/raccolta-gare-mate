@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q21
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Digit sum constraint for subset sums; find valid n and rational beta*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ristrito di somma digitali per le somme del sottoinsieme; trovare n validi e beta razionale*
+
+> $S(k)$ indichi la somma di tutti i numeri di $k$ nella base 10. Trovare tutti gli integri $n \ge 2$ e i numeri razionali $\beta \in (0, 1)$, in modo che esistano $n$ diversi integri positivi $a_1, a_2, \ldots, a_n$ che soddisfano: per qualsiasi sottoinsieme $I \subseteq \{1, 2, \ldots, n\}$ con $|I| \ge 2$, $$S\!\left(\sum_{i \in I} a_i\right) = \beta \sum_{i \in I} S(a_i).$$
+
+[[src_cn_ctst_2021__Q21]]

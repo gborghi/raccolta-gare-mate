@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale B — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_b__Q04
 parent: src_gas_2009_semifinale_b
 competition: Gara a Squadre 2009 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Successione con media variazioni, valore termine 1000*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2008
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Succession with average variations, term value 1000
+
+> Soldier plus, soldier minus The King Theorem barracks are full of soldiers who are moved from one location to another year on an annual basis as needed. The particularity is that from last year to this year the average change in the number of soldiers in the n and n+1 barracks was n for each n < MSK0/>1. Knowing that the 2009 barracks had 1,000 more soldiers, how many more soldiers did the 1,000 barracks have?
+
+**Answer:** 2008
+[[src_gas_2009_semifinale_b__Q04]]

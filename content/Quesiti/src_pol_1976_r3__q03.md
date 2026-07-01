@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1976 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1976_r3__Q03
 parent: src_pol_1976_r3
 competition: Olimpiade Matematica Polacca 1976 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For any tetrahedron, the three products of pairs of opposite edges are sides of a triangle.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PxGC28sBLT0pD-IOjDgoTvfc9tTCy6v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per qualsiasi tetraedro, i tre prodotti di coppie di bordi opposti sono lati di un triangolo.*
+
+> Prova che per ogni tetraedro, i tre prodotti di coppie di bordi opposti sono lati di un triangolo.
+
+[[src_pol_1976_r3__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q17
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (x,y) con x divide y+1 e y divide x+1*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Couples (x,y) where x divides y+1 and y divides x+1*
+
+> How many pairs (orders) (x, y) of positive integers are such that x divides y + 1 and y divides x + 1? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 5
+
+**Answer:** E
+[[src_kangourou_2014_junior__Q17]]

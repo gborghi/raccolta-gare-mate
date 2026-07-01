@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin gara individuale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q09
 parent: src_kangourou_2022_benjamin_gara
 competition: Kangourou 2022 Benjamin gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della stella grigia nel quadrato di area 100*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the grey star in the square of area 100*
+
+![[src_kangourou_2022_benjamin_gara__prob9.png]]
+
+> The square in the figure has an area of 100 cm2. How many square centimeters does the area of the grey star measure? A) 20 B) 25 C) 30 D) 35 E) 40
+
+**Answer:** B
+[[src_kangourou_2022_benjamin_gara__Q09]]

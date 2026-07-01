@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q02
 parent: src_kangourou_2017_squadre_a
 competition: Kangourou Coppa Squadre 2017 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Con quante monete Luisa e uscita di casa (tre spese)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 191
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many coins Luisa and leaving home (three expenses) *
+
+> When she left the house, Luisa had only one-euro coins in her purse. She went into three stores and spent half of what she had in her purse when she went in plus 50 cents. She has always paid the exact amount requested without receiving a balance and, after the three purchases, she has 23 euros left. How many coins did Luisa leave home with?
+
+**Answer:** 191
+[[src_kangourou_2017_squadre_a__Q02]]

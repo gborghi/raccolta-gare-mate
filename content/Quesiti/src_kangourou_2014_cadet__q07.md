@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q07
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Capacità del secchio (mezzo poi tre quarti)*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Bucket capacity (half and then three quarters) < MSK1/>
+
+> A bucket was half full. I added two gallons of water and it's now three-quarters full. What is the capacity (in litres) of the bucket? A) 10 B) 8
+> 	
+> C) 6
+> 	
+> D) 4
+> 	
+> E) 2
+
+**Answer:** B
+[[src_kangourou_2014_cadet__Q07]]

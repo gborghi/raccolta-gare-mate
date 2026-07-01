@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Gara del Pubblico — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_pubblico__Q02
 parent: src_gas_2010_pubblico
 competition: Gara a Squadre 2010 - Gara del Pubblico
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che almeno 2 punti fissi in rotazione del cubo*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0024
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability that at least 2 fixed points in the cube rotation*
+
+> Eight men and a box of rum [40] At the end of a tasty dinner, 8 π-rates decide to split the bill like this: they take a box of cubic rum and each one chooses one of the 8 vertices and glues the box of his meal to it. Then they randomly pick one of the 24 rotations of the box, and each pirate pays the counter that is on its top after the rotation. What are the odds that at least two pirates will pay for the food they ate themselves? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
+
+**Answer:** 0024
+[[src_gas_2010_pubblico__Q02]]

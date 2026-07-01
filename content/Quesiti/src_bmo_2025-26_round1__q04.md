@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2025-26 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2025-26_round1__Q04
 parent: src_bmo_2025-26_round1
 competition: British Mathematical Olympiad 2025-26 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle with midpoint circle tangencies: prove MA·MD = MB·MC*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto con tangenze di cerchio di punto medio: dimostrare MA·MD = MB·MC*
+
+> Il $ABC$ deve essere un triangolo acuto con $AB > AC$. $M$ sia il punto medio di $BC$. Il cerchio che attraversa $M$ che è tangente a $AB$ a $B$ e il cerchio che attraversa $M$ che è tangente a $AC$ a $C$ si intersecano di nuovo a $D$.
+> 
+> Prove che $MA \times MD = MB \times MC$.
+
+[[src_bmo_2025-26_round1__Q04]]

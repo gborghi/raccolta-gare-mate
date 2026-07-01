@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q20
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma ascisse intersezioni rette parallele con parabola*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>sum of parallel straight intersections with parabola < MSK1/>
+
+> At the end of an algebra lesson, the equation parabola y = x2 and 2012 lines parallel to the equation line y = x remain on the board, each of which intersects the parabola in two points. The sum of the axes of the intersection points of the lines with the parabola is A) 0. B) 1. C) 1006. D) 2012. E) a different number. The questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** D
+[[src_kangourou_2012_student__Q20]]

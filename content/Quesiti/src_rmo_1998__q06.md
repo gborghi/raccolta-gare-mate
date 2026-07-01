@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1998 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1998__Q06
 parent: src_rmo_1998
 competition: Regional Mathematical Olympiad 1998
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find a collection of 3-element subsets of 7-element set covering each pair exactly once*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15-hOAv0psynRUhAjOfCXMcOkrAiY-0eX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova una raccolta di sottoinsiemi di 3 elementi di set di 7 elementi che coprono ogni coppia esattamente una volta*
+
+> Data la serie $7$ di elementi $A = \{a, b, c, d, e, f, g\}$, trovare una raccolta $T$ di $3$ di sottoinsiemi di $A$ in modo tale che ogni coppia di elementi di $A$ si trovi esattamente in uno dei sottoinsiemi di $T$.
+
+[[src_rmo_1998__Q06]]

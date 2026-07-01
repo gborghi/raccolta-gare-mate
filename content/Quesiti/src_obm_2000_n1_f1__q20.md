@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q20
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Net of a cube: identify correct assembled cube*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Net di un cubo: identificare il cubo assemblato corretto*
+
+> La figura qui sotto è disegnata su cartone e piegata per formare un cubo.
+> 
+> Quale delle alternative mostra il cubo assemblato correttamente?
+> 
+> (A) [immagine A] \quad (B) [immagine B] \quad (C) [immagine C] \quad (D) [immagine D] \quad (E) [immagine E]
+
+![[src_obm_2000_n1_f1__Q20.png]]
+
+**Risposta:** B
+[[src_obm_2000_n1_f1__Q20]]

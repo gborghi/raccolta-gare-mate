@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Cadet — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_finale__Q06
 parent: src_kangourou_2019_cadet_finale
 competition: Kangourou 2019 Finale Nazionale Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza dello spigolo VD della piramide a base rettangolare*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 60
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1smvCpL_hdFhIZi16iX73KtjPyMEZu5zx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of the VD beam of the rectangular base pyramid*
+
+![[src_kangourou_2019_cadet_finale__prob6.png]]
+
+> A rectangular-based pyramid is known for the lengths of three of the four oblique vertices connecting its vertex $V$ with the vertices $A$, $B$, $C$, $D$ of the base: $$VA = 90 \text{ m}, \quad VB = 70 \text{ m}, \quad VC = 20 \text{ m}.$$ Can the length of the vertex $VD$ be determined? If yes, it determines that length; if not, it identifies the measurements of two pyramids that meet the problem data where the length of the $VD$ beam is different.
+
+**Answer:** 60
+[[src_kangourou_2019_cadet_finale__Q06]]

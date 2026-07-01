@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet finale nazionale — Quesito C3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet_finale__QC3
 parent: src_kangourou_2004_cadet_finale
 competition: Kangourou 2004 Cadet finale nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Esiste sempre squadra dominante nel girone*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** si (punteggio max)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qutKfUoHQoWcRhpaUbm6vw6FQyOCRizB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+There's always a dominant team in the ring.
+
+> At the end of a volleyball tournament with only one round in Italian (where each team meets only once all the others), is there always at least one team $A$ that in the matches with each other $B$ or has won or defeated a team that has defeated $B$? Reason for the answer. (N.B. In volleyball, no match ends in a draw.
+
+**Answer:** si (punteggio max)
+[[src_kangourou_2004_cadet_finale__QC3]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q23
 parent: src_kangourou_2008_ecolier_marzo
 competition: Kangourou 2008 - Ecolier (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Almeno quante persone con la stessa eta*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Y2PPk0y8EAPu9XdVwcxKDHQ2tA4fBFmN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>At least as many people as the same age< MSK1/>
+
+> In a square, 2008 people gathered. None of them are over 50. What is the largest number for which the following is true: Are we sure that there are at least that number of people in the square who are the same age? A) 39 B) 40 C) 41 D) 42 E) None of the above.
+
+**Answer:** B
+[[src_kangourou_2008_ecolier_marzo__Q23]]

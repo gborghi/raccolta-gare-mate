@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier__Q13
 parent: src_kangourou_2023_ecolier
 competition: Kangourou 2023 Ecolier — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quante con 2*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bDY_Y5qtxjaNx_dh5X8llzlndfmVtNwJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> when with 2< MSK1/>
+
+> Eight cars are in line at the port to board a ferry. Every car has two or three people. In total, these people are 19. How many cars exactly have two people in them? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** D
+[[src_kangourou_2023_ecolier__Q13]]

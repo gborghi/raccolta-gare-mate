@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Region 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_r1__Q02
 parent: src_rmo_2012_r1
 competition: Regional Mathematical Olympiad 2012
@@ -34,6 +35,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divisibility chain implies abc divides (a+b+c)^13*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11aRbfC9yQJVoIGFG_WNtegA0QeoTMsx3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Catenata di divisione implica divisioni di abc (a+b+c)^13*
+
+> $a, b, c$ siano integri positivi in modo tale che $a$ divida $b^3$, $b$ divida $c^3$ e $c$ divida $a^3$. Indicare che $abc$ divide $(a + b + c)^{13}$.
+
+[[src_rmo_2012_r1__Q02]]

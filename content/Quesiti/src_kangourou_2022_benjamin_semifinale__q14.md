@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin semifinale individuale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q14
 parent: src_kangourou_2022_benjamin_semifinale
 competition: Kangourou 2022 Benjamin semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura dell'angolo a+b dalla figura*
 
@@ -60,3 +63,38 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0048
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measurement of the angle a+b from the figure*
+
+![[src_kangourou_2022_benjamin_semifinale__prob14.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.5]
+  \draw[thick] (0,-1.5) -- (0,1.5);
+  \draw[thick] (-1.5,0) -- (1.5,0);
+  \draw[thick] (0,0) -- ({1.4*cos(72)},{1.4*sin(72)});
+  \draw[thick] (0,0) -- ({1.4*cos(54)},{1.4*sin(54)});
+  \draw[thick] (0,0) -- ({1.4*cos(36)},{1.4*sin(36)});
+  \draw[thick] (0,0) -- ({1.4*cos(330)},{1.4*sin(330)});
+  \draw[thick] (0,0) -- ({1.4*cos(210)},{1.4*sin(210)});
+  \node at ({0.7*cos(81)},{0.7*sin(81)}) {$a$};
+  \node at ({0.7*cos(63)},{0.7*sin(63)}) {$a$};
+  \node at ({0.7*cos(45)},{0.7*sin(45)}) {$a$};
+  \node at ({0.9*cos(18)},{0.9*sin(18)}) {$2a$};
+  \node at ({0.8*cos(345)},{0.8*sin(345)}) {$b$};
+  \node at ({0.8*cos(300)},{0.8*sin(300)}) {$2b$};
+  \node at ({0.8*cos(240)},{0.8*sin(240)}) {$2b$};
+  \node at ({0.7*cos(150)},{0.7*sin(150)}) {$4b$};
+\end{tikzpicture}
+\end{document}
+```
+
+> (6 points) The figure shows some angles and their measurements in degrees. How many degrees does the angle a + b measure?
+
+**Answer:** 0048
+[[src_kangourou_2022_benjamin_semifinale__Q14]]

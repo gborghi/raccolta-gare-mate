@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f3__Q01
 parent: src_obm_2000_n1_f3
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 3
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three touching dice on table: find sum of three hidden faces*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csqbUn65E6HGiTeTIKmM4uG05E1nqqH2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Tre dadi toccanti sul tavolo: trovare la somma di tre volti nascoste
+
+> Paulo ha tre dadi con le stesse marcature, in modo che su ogni dado la somma dei numeri su facce opposte sia sempre $7$. Colla i dadi insieme in modo che ogni coppia di volti che si toccano abbia lo stesso numero, e poi li pone su un tavolo trasparente come mostrato nella figura. La somma di tutti i numeri sulle undici facce visibili è $36$. Qual è la somma dei numeri sulle tre facce che sono in contatto con la tavola?
+
+![[src_obm_2000_n1_f3__Q01.png]]
+
+[[src_obm_2000_n1_f3__Q01]]

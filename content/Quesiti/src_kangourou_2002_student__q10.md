@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q10
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parola alla 537-esima posizione*
 
@@ -57,3 +60,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Word at 537th position*
+
+> The alphabet of the Martian people of the Berals consists of the six letters A, B, E, L, R, S taken in this order. The words in their language are exactly the alphabetically ordered sequences of these six letters, where each letter is used only once. What is the word in the 537th position of their dictionary?
+>  
+> A. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. I 'm not sure . The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+>  
+> E. Other articles
+>  
+>  
+>  
+> 60°
+> 
+> Student of the year 2002. This item is not intended to be used. 3 Questions from N. 11 al N. Twenty is worth four points.
+
+**Answer:** A
+[[src_kangourou_2002_student__Q10]]

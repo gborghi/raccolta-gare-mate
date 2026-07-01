@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin gara individuale — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q28
 parent: src_kangourou_2022_benjamin_gara
 competition: Kangourou 2022 Benjamin gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dove sorge la scuola minimizzando le distanze*
 
@@ -53,3 +56,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Where the school is located minimizing distances
+
+> Four countries A, B, C and D are aligned in this order along the road linking them, each country at a constant distance of 10 km from the next. There are 10 students in country A, 20 in country B, 30 in country C and 40 in country D. The authorities built the school so that the sum of the distances traveled by the various students to school was as small as possible. Where is the school? A) In A.
+>   
+> B) In B . C) Exactly halfway between B and C. D) In C.
+>   
+> E) In D.
+
+**Answer:** D
+[[src_kangourou_2022_benjamin_gara__Q28]]

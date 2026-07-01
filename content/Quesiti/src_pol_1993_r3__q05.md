@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r3__Q05
 parent: src_pol_1993_r3
 competition: Olimpiade Matematica Polacca 1993 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real functions satisfying three functional equations.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ozjMAbDlKBC3LLKmoYwAq8Nm_A0MkSaK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni reali che soddisfano tre equazioni funzionali.*
+
+> Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano le seguenti condizioni: $$f(-x) = -f(x) \quad \text{and} \quad f(x+1) = f(x) + 1 \quad \text{for } x \in \mathbb{R};$$ $$f\!\left(\frac{1}{x}\right) = \frac{f(x)}{x^2} \quad \text{for } x \neq 0.$$
+
+[[src_pol_1993_r3__Q05]]

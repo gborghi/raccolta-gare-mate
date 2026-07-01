@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f3__Q06
 parent: src_obm_2006_n2_f3
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove tournament with no k-cycle has a winner and a loser*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YkJDppLT4ZSZbNPF1voiSzcsCHYMYSgG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il torneo di prova senza k-cycle ha un vincitore e un perdente
+
+> In un torneo di tennis da tavolo (in cui nessuna partita termina in pareggio), ciascuno dei partecipanti $n$ gioca esattamente una volta contro ciascuno degli altri. È noto che per tutti i $k > 2$ non esistono $k$ giocatori $J_1, J_2, \ldots, J_k$ in modo che $J_1$ batta $J_2$, $J_2$ batta $J_3$, $J_3$ batta $J_4$, $\ldots$, $J_{k-1}$ batta $J_k$ e $J_k$ batta $J_1$.
+> 
+> Prove che esiste un giocatore che ha battuto tutti gli altri e esiste un giocatore che ha perso agli altri.
+
+[[src_obm_2006_n2_f3__Q06]]

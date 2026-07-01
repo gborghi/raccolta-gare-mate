@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2020 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_printemps__Q05
 parent: src_canimath_2020_printemps
 competition: Coupe Animath Printemps 2020
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle: D foot of altitude from A, E reflection of D across line AC; prove FBC isosceles at B*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto: D piede di altitudine da A, E riflessione di D attraverso la linea AC; dimostrare gli isosceli di FBC a B*
+
+> Lasciate che $ABC$ sia un triangolo i cui angoli sono tutti acuti. $D$ sia il piede dell'altitudine dal vertice $A$. Il punto $E$ deve essere il riflesso del punto $D$ rispetto alla riga $(AC)$. La perpendicolare alla linea $(AE)$ che attraversa $B$ incontra la linea $(AC)$ in un punto indicato $F$. Indicare che il triangolo $FBC$ è uguale a $B$.
+
+[[src_canimath_2020_printemps__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo7yq_yosen__Q09
 parent: src_jjmo7yq_yosen
 competition: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Volume of tetrahedron O-ABC with given distances and equal angles from interior point X*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JSUMowa9JI8Y3BaqBeZ4gyyU1TBF9Jpp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Volume di tetraedro O-ABC con determinate distanze e angoli uguali dal punto interno X*
+
+> Nel tetraedro $O$-$ABC$, $X$ deve essere un punto nella faccia di base $ABC$ tale che $OA = 2$, $OB = 3$, $OC = 4$, $\angle AOB = \angle BOC = \angle COA$ e $\angle AOX = \angle BOX = \angle COX = 30^\circ$. Trova il volume del tetraedro < MSK9/>- < MSK10/>. (Qui $PQ$ indica la lunghezza del segmento $PQ$.)
+
+[[src_jjmo7yq_yosen__Q09]]

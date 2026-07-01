@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 finale nazionale Student — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student_finale__Q05
 parent: src_kangourou_2012_student_finale
 competition: Kangourou 2012 finale nazionale Student
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sottoinsieme con somma multiplo di n tra n interi*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sub-totals with multiple sums of n between n integers < MSK1/>
+
+> Demonstrate that, however positive integers are assigned $n \geq 1$, some of them can always be chosen so that their sum is a multiple of $n$.
+
+[[src_kangourou_2012_student_finale__Q05]]

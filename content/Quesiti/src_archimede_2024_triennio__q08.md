@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Triennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_triennio__Q08
 parent: src_archimede_2024_triennio
 competition: Giochi di Archimede 2024 - Gara Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo b con forma quadratica a/x^2+b/xy+c/y^2 non negativa*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum b with square shape a/x^2+b/xy+c/y^2 not negative*
+
+> How many of the whole numbers from 1 to 2024 are simultaneously multiples of both 21 and 28, but not multiples of 15?
+>
+> - **(A)** 20
+> - **(B)** 23
+> - **(C)** 24
+> - **(D)** 21
+> - **(E)** 19
+
+**Answer:** C
+[[src_archimede_2024_triennio__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1998 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1998_r2__Q03
 parent: src_pol_1998_r2
 competition: Olimpiade Matematica Polacca 1998 — Round 2
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inequality for six positive numbers with sum 1 given a lower bound on ace+bdf, plus equality case*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NWtmk2jyNO5I-Zt-c1qVK7ASBrDFtJkS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ineguaglianza per sei numeri positivi con somma 1 data un limite inferiore su ace+bdf, più caso di uguaglianza*
+
+> (a) Se $a, b, c, d, e, f$ sono numeri positivi con la somma 1 e $ace + bdf \ge \dfrac{1}{108}$, mostrare che $$abc + bcd + cde + def + efa + fab \le \dfrac{1}{36}.$$ (b) Esistono diversi numeri positivi $a, b, c, d, e, f$ con la somma 1 per i quali le due disuguaglianze di cui sopra diventano uguaglianze?
+
+[[src_pol_1998_r2__Q03]]

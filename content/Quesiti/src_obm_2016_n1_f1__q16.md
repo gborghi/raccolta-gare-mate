@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f1__Q16
 parent: src_obm_2016_n1_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Booklet pagination: relate page numbers on the front/back of a sheet.*
 
@@ -48,3 +51,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Paginazione del libretto: collegare i numeri delle pagine nella parte anteriore/retro di un foglio.*
+
+> In un opuscolo, indicare il numero della pagina richiesta (s) su un foglio.
+> 
+> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: la pagina $1$ ha la pagina $2$ sul retro e le pagine $59$ e $60$ sull'altra parte. Quindi la pagina $7$ (che è $1+6$) ha sulla sua pagina posteriore $8$ (che è $2+6$) e le pagine $53$ ($=59-6$) e $54$ ($=60-6$) dall'altra parte.]
+
+**Risposta:** E
+[[src_obm_2016_n1_f1__Q16]]

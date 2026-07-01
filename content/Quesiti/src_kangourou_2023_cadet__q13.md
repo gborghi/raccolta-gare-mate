@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q13
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spigoli rossi del cubo perché ogni faccia ne abbia uno*
 
@@ -62,3 +65,23 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Red cube mirrors so that each face has one *
+
+> You want to color some of the grains of a cube red, so that each face of the cube has at least one red grain. What's the minimum number of buds that you can color red? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6 A B C D 4 3 8 12 12 22 16 22
+>
+
+**Answer:** B
+[[src_kangourou_2023_cadet__Q13]]

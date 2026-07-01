@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q21
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Logica con bugiardi sui colori delle biglie*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Logic with lies about the colours of the beans
+
+> Andrea, Bruno and Carlo never tell the truth. Each of them has a red or green spleen. Andrea says: "My vagina and Bruno's are the same color. Bruno says: "My and Carlo's tiles are the same color. Carlo says: "Two of us have a red card, the other one has a green card". Which of the following statements is true? A) Andrea 's beak is green .
+>            
+> B) Bruno's ball is green.
+>     
+> C) Carlo's beak is red. D) Andrew's and Charles' balls are of a different colour. E) None of the above statements are true.
+
+**Answer:** A
+[[src_kangourou_2013_benjamin__Q21]]

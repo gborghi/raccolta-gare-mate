@@ -1,6 +1,7 @@
 ---
 title: IMO 1967 (IX International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1967__Q01
 parent: src_imho_1967
 competition: IMO 1967 (IX International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parallelogram with four unit circles covering it*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1U5rz4wEepU-SfkFdqcEOsSXqBT-xtIsB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Parallelogram with four unit circles covering it*
+
+> Let $ABCD$ be a parallelogram with side lengths $AB = a$, $AD = 1$, and $\angle BAD = \alpha$. If $\triangle ABD$ is acute, prove that the four circles of radius 1 with centers $A$, $B$, $C$, $D$ cover the parallelogram if and only if $$a \le \cos\alpha + \sqrt{3}\sin\alpha.$$
+
+[[src_imho_1967__Q01]]

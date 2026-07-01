@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2013 — Quesito
   10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2013__Q10
 parent: src_bocconi_finalenaz_2013
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2013
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero divisibile per 11 e per 13 scelto da Debora*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 121 e 264
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number divisible by 11 and 13 chosen by Debora*
+
+> The positive number chosen by Deborah is divisible by 11; the number chosen by Liliana is divisible by 13. Their sum is equal to 316.
+> 
+> How much is Deborah's number worth?
+
+**Answer:** 121 e 264
+[[src_bocconi_finalenaz_2013__Q10]]

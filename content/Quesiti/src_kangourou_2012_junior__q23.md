@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Junior (gara marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior__Q23
 parent: src_kangourou_2012_junior
 competition: Kangourou 2012 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del pentagono ABNMD’ dopo la piega*
 
@@ -76,3 +79,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the pentagon ABNMD after the bend*
+
+![[src_kangourou_2012_junior__prob23.png]]
+
+> Look at the figure. An ABCD rectangle of 4 cm × 16 cm shall be folded over itself along a MN straight line so that the C-top overlaps with the A-top. What is the area of the ABNMD pentagon in square centimetres? A) 17 B) 27 C) 37 D) 47 E) 57 2 4 2 3 3 6 1 A B C D M N D′ D N B A N M D C D C
+> 
+> I'm going to pay. I'm going to pay. 26 26 Kang 2012 Kang 2012
+
+**Answer:** D
+[[src_kangourou_2012_junior__Q23]]

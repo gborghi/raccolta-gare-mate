@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale A — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_a__Q01
 parent: src_gas_2009_semifinale_a
 competition: Gara a Squadre 2009 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area cortile triangolare in quadrato di lato 100*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2500
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Wx24coOZuHD5lnXnMkNRwAuUmiEDrRDK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangular courtyard area in square side 100*
+
+> A central summit The summit of the leaders of the free peoples of Middle-earth takes place at El-Romb Mezzelfo's home in Riemandell. The garden of the house is a large square ABCD side 100 meters. Two fine fountains rise on M and N the midpoints of AB and CD. El-Romb speaks from point V, right in the middle of MBCN, to an audience that's all inside the courtyard formed by the AVN triangle. What is the yard area in square meters?
+
+**Answer:** 2500
+[[src_gas_2009_semifinale_a__Q01]]

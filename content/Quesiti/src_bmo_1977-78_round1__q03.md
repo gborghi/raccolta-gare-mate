@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1977-78 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1977-78_round1__Q03
 parent: src_bmo_1977-78_round1
 competition: British Mathematical Olympiad 1977-78 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show sequence u_n has one and only one solution with u_1 < u_2*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra che la sequenza u_n ha una sola soluzione con u_1 < u_2*
+
+> Mostrare che esiste una sola e unica sequenza $\{u_n\}$ di integri come $u_1 < u_2$ e $$u_n^2 + 1 = u_{n-1} \cdot u_{n+1} \quad \text{for all } n > 1.$$
+
+[[src_bmo_1977-78_round1__Q03]]

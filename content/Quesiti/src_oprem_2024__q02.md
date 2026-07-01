@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2024 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2024__Q02
 parent: src_oprem_2024
 competition: Olympiades Nationales de Mathématiques (Première) 2024
@@ -50,6 +51,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exercise 2 (general track, maths speciality): STD sets (all subset sums distinct) — examples/counterexamples, a recursive sequence shown to be geometric, and lower bounds for STD sequences using a probabilistic (variance) argument.*
 
@@ -132,3 +135,79 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zCUBghOB28ZpdNrjC68r0u1mIzIpp_46/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esercizio 2 (traccia generale, specialità matematica): set di STD (tutti i sottosetti sommano distinte)  esempi/contresempi, una sequenza ricorsiva dimostrata geometrica, e limiti inferiori per le sequenze di STD utilizzando un argomento probabilistico (varianza).*
+
+> **Esercizio 2 (candidati della pista generale seguendo l'opzione  spé maths ) **
+> 
+> < MSK0/>Summiamo tutti i numeri distinti (Nous sommes toutes distinctes). < MSK1/>
+> 
+> In questo esercizio, il simbolo $n$ indica un intero naturale con $n\ge 1$; tutti gli insiemi considerati sono non vuoti, finiti e costituiti da numeri reali distinti; inoltre, ogni insieme finito $A=\{a_1,a_2,\ldots,a_n\}$ di $n$ elementi reali distinti verrà scritto con i suoi elementi ordinati come $a_1<a_2<\cdots<a_n$. Dato un tale insieme, scriviamo $S(A)$ per la somma dei suoi elementi, cioè $S(A)=a_1+\cdots+a_n$. In particolare, quando $n=1$ e $A=\{a_1\}$ è un singleton, $S(A)=a_1$.
+> 
+> Diciamo che l'insieme $A$ è **STD** (à sommes toutes distinctes, cioè tutte le somme del sottoinsieme distinte) quando, per tutti i sottoinsiemi non vuoti $Y$ e $Z$ di $A$ con $Y\neq Z$, si ha $S(Y)\neq S(Z)$. Allo stesso modo, le somme $2^n-1$ che si possono formare con gli elementi di $A$ sono tutte distinte.
+> 
+> Ad esempio, $A=\{1,2,5\}$ è STD poiché i numeri $1,2,5,\ 1+2=3,\ 2+5=7,\ 1+5=6,\ 1+2+5=8$ sono tutti distinti. Al contrario, < MSK2/> non è STD perché, assumendo < MSK3/> e < MSK4/>, si ha < MSK5/>, anche se < MSK6/>.
+> 
+> ---
+> 
+> **Parte 1  Esempi e semplici contro-esempi**
+> 
+> **1.** Spiega perché il numero di somme da considerare per studiare il carattere STD di $A$ è $2^n-1$.
+> 
+> **2.** Indicare che il set $\{1,3,5\}$ è STD ma che il set $\{4,6,7,9\}$ non lo è.
+> 
+> Quale set di $A$ contenente $0$ è (sono) STD?
+> 
+> **4.** $A$ e $B$ siano due insieme finiti non vuoti di reali distinti, con $A\subset B$ (cioè $A$ è un sottoinsieme di $B$).
+> 
+> **a.** Se $B$ è STD, giustificare che $A$ è anche STD.
+> 
+> **b.** Il set $B$ può essere STD se $A$ non lo è?
+> 
+> **5.** $A$ sia un insieme finito non vuoto di $n$ reali distinte. Supponiamo che $A$ sia ** non ** costituito da integri e che sia STD. giustificare che $A\cup\{\frac{1}{2}\}$, quindi $A\cup\{\frac{1}{2},\sqrt{2}\}$, siano anche malattie sessualmente trasmissibili.
+> 
+> ---
+> 
+> **Parte 2  Costruzione di una sequenza**
+> 
+> Consideriamo la sequenza $(u_n)$ definita da $u_1=1$ e la relazione di ricorrenza, valida per tutti $n\ge 1$: $$u_{n+1}=u_1+\cdots+u_n+1.$$
+> 
+> < MSK3/>6. < MSK4/> Verificare che < MSK0/> e < MSK1/>. Calcolare $u_5$.
+> 
+> **7.** Scrivi sulla tua copia un programma nel linguaggio Python che restituisca $u_{100}$ (che in realtà non calcoleremo).
+> 
+> < MSK1/>8. < MSK2/> Studiare la direzione di variazione (monotonicità) della sequenza < MSK0/>.
+> 
+> **9.** Mostra che, per tutti $n\ge 1$, l'insieme $\{u_1,\ldots,u_n\}$ è STD.
+> 
+> **10.** Mostra che $(u_n)$ è in realtà una sequenza geometrica, che determinerai.
+> 
+> ---
+> 
+> **Parte 3  Sequenze di STD**
+> 
+> Una sequenza $(u_n)$ si dice STD quando è in aumento rigoroso, composta da integri rigorosamente positivi, e tale che per tutti $n\ge 1$ l'insieme $\{u_1,\ldots,u_n\}$ sia STD. Per esempio, la sequenza studiata nella Parte 2 è una sequenza di malattie sessualmente trasmissibili.
+> 
+> **11.** $(u_n)$ sia una sequenza di STD arbitraria.
+> 
+> **a.** Indicare che per tutti i $n\ge 1$: $$u_1+\cdots+u_n\ge 2^n-1.$$
+> 
+> **b.** Deduce che per tutti $n\ge 2$: $$u_n\ge \frac{2^n}{n}.$$
+> 
+> L'obiettivo di questa domanda è quello di perfezionare il limite inferiore ottenuto nella domanda precedente. Per fare questo, useremo la probabilità, e diremo che una variabile casuale $X$ che prende valori in un insieme reale finito non vuoto $A=\{a_1,\ldots,a_n\}$ di $n$ elementi distinti segue la legge uniforme quando tutti i valori che può prendere sono equiprobabili. Quindi, $P(X=a_1)=P(X=a_2)=\cdots=P(X=a_n)=\frac{1}{n}$.
+> 
+> **a.** $(u_n)$ sia una sequenza di STD arbitraria. Per $n\ge 2$, considera le variabili casuali indipendenti $X_1,\ldots,X_n$ che seguono la legge uniforme sull'insieme $\{-1,1\}$; quindi, per ogni indice $i$, $P(X_i=1)=P(X_i=-1)=\frac{1}{2}$. Set $X=u_1X_1+\cdots+u_nX_n$. Ammettiamo che $E(X)=u_1E(X_1)+\cdots+u_nE(X_n)$ e che $V(X)=u_1^2V(X_1)+\cdots+u_n^2V(X_n)$. Dopo aver giustificato $E(X_1)=0$ e $V(X_1)=1$, calcolare l'aspettativa $E(X)$ ed esprimere la varianza $V(X)$ in termini di $u_1,u_2,\ldots,u_n$.
+> 
+> **b.** Indicare che $X$ segue una legge uniforme su un insieme di integri relativi $2^n$, simmetrici rispetto a $0$, i cui elementi non sono zero e della stessa parità.
+> 
+> **c.** Deduci che per tutti $n\ge 1$: $$u_n^2\ge \frac{1}{n}\,\frac{1}{2^{n-1}}\left(1^2+3^2+5^2+\cdots+(2^n-1)^2\right).$$
+> 
+> **d.** Proporre un valore di $n\ge 2$ per il quale questa disuguaglianza fornisce un limite inferiore maggiore di quello della domanda **11.b**.
+
+![[src_oprem_2024__Q02.png]]
+
+[[src_oprem_2024__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2016 — Selection Camp — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2016__Q04
 parent: src_selection_camp_2016
 competition: Japan IMO Selection Camp 2016 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Product of fractions minus 1 divisible by an odd prime*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prodotto di frazioni min 1 divisibili da un primo odd*
+
+> $m, n$ siano integri positivi che soddisfino $m > n$. Per $k = 1, 2, \ldots, n+1$, definire $x_k = \dfrac{m+k}{n+k}$. Supponiamo che $x_1, x_2, \ldots, x_{n+1}$ siano tutti numeri interi. Prove che $x_1 x_2 \cdots x_{n+1} - 1$ è divisibile da qualche primo pari.
+
+[[src_selection_camp_2016__Q04]]

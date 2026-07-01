@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2026 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2026__Q10
 parent: src_oprem_2026
 competition: Olympiades Nationales de Mathématiques (Première) 2026
@@ -26,6 +27,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exercise 2, Q4: prove pi_n <= n and find equality cases*
 
@@ -37,3 +40,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LLPTi5ufMEDVFp1I29WzXWLiM0F8_rKH/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esercizio 2, Q4: dimostrare pi_n <= n e trovare casi di uguaglianza*
+
+> Esercizio 2 - (4) Dimostra che per ogni intero naturale $n$, $\pi_n \le n$. Per quale numero intero ((s) $n$ si dispone di $\pi_n = n$?
+
+[[src_oprem_2026__Q10]]

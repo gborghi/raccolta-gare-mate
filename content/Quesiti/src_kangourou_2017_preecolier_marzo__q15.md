@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_preecolier_marzo__Q15
 parent: src_kangourou_2017_preecolier_marzo
 competition: Kangourou 2017 Pre-Ecolier - Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Che ora segnava due ore e mezza fa*
 
@@ -39,3 +42,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.15](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+That's the time it was two and a half hours ago.
+
+> The clock is one and a half. What time was it two and a half hours ago?
+> 
+> (A) (B) (C) (D) (E)
+> 
+> (see figure)
+
+**Answer:** B
+[[src_kangourou_2017_preecolier_marzo__Q15]]

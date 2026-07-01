@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2015 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2015_automne__Q05
 parent: src_canimath_2015_automne
 competition: Coupe Animath Automne 2015
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For n>=2 numbers a_i in [-1/2,1/2], removing any single one leaves an integer sum; prove all equal when n even, and ask whether forced when n odd.*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per n>=2 numeri a_i in [-1/2,1/2], rimuovendo qualsiasi singolo lascia una somma interiore; dimostrare tutti uguali quando n è pari, e chiedere se forzato quando n è pari.*
+
+> Fissamo un intero $n \ge 2$ e consideriamo i numeri $a_1, \ldots, a_n$ tali che $-\frac{1}{2} \le a_i \le \frac{1}{2}$ per tutti $1 \le i \le n$. Supponiamo che si possa rimuovere uno di questi numeri, la somma dell'altro $n-1$ è sempre un numero intero relativo.
+> 
+> (1) Se $n$ è pari, indicare che $a_1 = a_2 = \cdots = a_n$.
+> 
+> (2) Se $n$ è strano, si ha sempre $a_1 = a_2 = \cdots = a_n$?
+
+[[src_canimath_2015_automne__Q05]]

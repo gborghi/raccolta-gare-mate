@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f2__Q05
 parent: src_obm_2005_n1_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to paint equal cubes with orange faces, no two identical*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i modi per dipingere cubetti uguali con facce arancione, non due identici*
+
+> Lara ha cubi uguali e vuole dipingere in modi diversi, usando il colore arancione per dipingere ciascuno dei 6 volti. Per due cubi che non possono essere confusi (cioè uno non può essere rotato per apparire identico all'altro), ad esempio, c'è solo un modo per dipingere un cubo con una faccia arancione. Quanti cubetti dipinti diversamente può ottenere?
+
+[[src_obm_2005_n1_f2__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo17yq_yosen__Q04
 parent: src_jjmo17yq_yosen
 competition: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count of 1..999 divisible by 2 more times than by 5*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 444
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YyPhdRC8ta06c--Y1mxGSGuS4yujWAKb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conte di 1,999 divisibili per 2 volte più di 5*
+
+> Tra i numeri interi da $1$ a $999$ inclusi, quanti sono tali che il numero di volte che sono divisibili da $2$ sia maggiore del numero di volte che sono divisibili da $5$? (Per un primo $p$, il "numero di volte divisibili per $p$" di un intero $n$ è il più grande $k$ con $p^k \mid n$.)
+
+**Risposta:** 444
+[[src_jjmo17yq_yosen__Q04]]

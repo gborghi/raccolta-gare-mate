@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q22
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Per quali a l equazione 2-|x|=ax ha due soluzioni*
 
@@ -50,3 +53,21 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*For which the equation has two solutions
+
+> Equation 2     x  = ax has exactly two distinct solutions if and only if A is ≤ 1.
+> 	
+> B) –1 < a < 1.
+> 	
+> C) a ≥ 1. D) a = 0.
+> 	
+> E) a = 1 or a = 1. a + b -------- c
+>
+
+**Answer:** B
+[[src_kangourou_2019_student_marzo__Q22]]

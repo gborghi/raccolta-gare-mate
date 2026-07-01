@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q09
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato non ottenibile moltiplicando per 6 o 10*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Outcome not obtained by multiplying by 6 or 10*
+
+> Suppose you play like this. Starting with a number, you draw a coin. If you hit it, multiply that number by 6, if you cross it, multiply that number by 10. If you start from number 1 and apply this rule to every result you get, you'll never get any of the results listed below. What kind? A) 2100 × 320 × 580 B) 290 × 320 × 580 C) 290 × 320 × 570 D) 2110 × 380 × 530 E) 250 × 550
+
+**Answer:** B
+[[src_kangourou_2024_student__Q09]]

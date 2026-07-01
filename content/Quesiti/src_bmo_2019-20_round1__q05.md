@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2019-20 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2019-20_round1__Q05
 parent: src_bmo_2019-20_round1
 competition: British Mathematical Olympiad 2019-20 — Round 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Children with sweets around a table; find initial arrangements that can be made perfect*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Bambini con dolci intorno a un tavolo; trovare accordi iniziali che possano essere resi perfetti< MSK1/>
+
+> Sei bambini sono spaziati uniformemente attorno a un tavolo circolare. Inizialmente, uno ha un mucchio di dolci davanti a sé, mentre gli altri non hanno nulla. Se un bambino ha davanti a sé almeno quattro dolci, può fare la seguente mossa: mangiare un dolce e dare un dolce a ciascuno dei suoi vicini immediati e al bambino direttamente di fronte. Una disposizione è chiamata *perfetta* se vi è una sequenza di mosse che comporta che ogni bambino abbia davanti a sé lo stesso numero di dolci. Per quali valori di $n$ è perfetta la disposizione iniziale?
+
+[[src_bmo_2019-20_round1__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2018 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo28mq_honsen__Q02
 parent: src_jmo28mq_honsen
 competition: Japan Mathematical Olympiad 2018 — Honsen (Final)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *lines BX and CY meet on circumcircle of ADE*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FbU0XqFYeQTbhZOAOggiqJ27nJzT3Ibf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*le linee BX e CY si incontrano sul circolo di ADE*
+
+> Che $ABC$ sia un triangolo con $AB < AC$. I punti $D$ e $E$ si trovano rispettivamente sui lati $AB$ e $AC$ (non nei punti finali) e soddisfano $CA = CD$ e $BA = BE$. $\omega$ sia il circoncircolo del triangolo $ADE$, e $P$ sia il riflesso di $A$ attraverso la linea $BC$. Il $X$ è l'intersezione della linea $PD$ con $\omega$ diversa da $D$ e il $Y$ è l'intersezione della linea $PE$ con $\omega$ diversa da $E$. Indicare che le linee $BX$ e $CY$ si incontrano in un punto di $\omega$. (Qui $ST$ indica la lunghezza del segmento $ST$.)
+
+[[src_jmo28mq_honsen__Q02]]

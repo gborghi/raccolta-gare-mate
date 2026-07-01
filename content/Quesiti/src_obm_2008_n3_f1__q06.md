@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q06
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Runners on a regular n-gon track meet at vertices; find n*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I corridori su una pista regolare n-gon si incontrano a vertici; trovare n*
+
+> Su una pista di corsa, la cui forma è un poligono regolare con vertici $n$, numerati da $1$ a $n$ nella direzione contraria al senso orario, ci sono tre persone: Nelly, Sônia e Penha, tutte inizialmente allo stesso vertice. A un certo punto iniziano a camminare lungo i lati del poligono. Nelly cammina nella direzione contraria al senso dell'orologio, mentre Sônia e Penha camminano nella direzione opposta. Nelly incontra Sônia per la prima volta ad un vertice, e incontra Penha due vertici avanti. La velocità di Nelly è il doppio della velocità di Sônia, e la velocità di Sônia è il doppio della velocità di Penha. Quanti vertici ha il poligono?
+> 
+> (A) $30$ (B) $60$ (C) $15$ (D) $10$ (E) $6$
+
+[[src_obm_2008_n3_f1__Q06]]

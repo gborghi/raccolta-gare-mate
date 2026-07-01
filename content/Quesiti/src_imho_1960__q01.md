@@ -1,6 +1,7 @@
 ---
 title: IMO 1960 (II International Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1960__Q01
 parent: src_imho_1960
 competition: IMO 1960 (II International Olympiad)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di tre cifre divisibili per 11 con N/11 somma quadrati cifre*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KV_5TZmWn2knHcJ1bIN1arXTCbLCraQd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three-digit numbers divisible by 11 with N/11 sum to square digits*
+
+> Determine all three digit numbers $N$ such that $N$ is divisible by 11 and $N/11$ is equal to the sum of the squares of the digits $N$.
+
+[[src_imho_1960__Q01]]

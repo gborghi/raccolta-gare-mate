@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f2__Q07
 parent: src_obm_2004_n1_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Card game: count cards used and minimum draws to guarantee two blue*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di carte: carte utilizzate e sorte minime per garantire due blu*
+
+> Jade scrisse tutti i numeri a 3 cifre sulle carte gialle, uno per carta, e tutti i numeri a 4 cifre sulle carte blu, uno per carta. Tutte le carte sono della stessa taglia.
+> 
+> (a) In totale, quante carte sono state usate? Si noti che, ad esempio, 037 è un numero a 3 cifre.
+> 
+> (b) Tutte le carte sono poste faccia a faccia nella stessa pila e mescolate. Jade disegna le carte una per una, senza guardare quello che sta disegnando. Quante carte deve disegnare Jade per essere sicuro che tra quelle disegnate ci siano almeno due carte blu?
+
+[[src_obm_2004_n1_f2__Q07]]

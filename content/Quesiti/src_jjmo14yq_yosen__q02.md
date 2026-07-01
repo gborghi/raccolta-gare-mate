@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo14yq_yosen__Q02
 parent: src_jjmo14yq_yosen
 competition: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max length of segment PQ for points seeing AB at 60 and 120 degrees*
 
@@ -43,3 +46,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza massima del segmento PQ per i punti che vedono AB a 60 e 120 gradi*
+
+> Nel piano c'è un segmento $AB$ di lunghezza $10$. Due punti $P,Q$ si muovono nel piano soggetto a $\angle APB = 60^\circ$ e $\angle AQB = 120^\circ$. Trova il valore massimo possibile della lunghezza del segmento $PQ$.
+
+**Risposta:** \dfrac{20\sqrt{3}}{3}
+[[src_jjmo14yq_yosen__Q02]]

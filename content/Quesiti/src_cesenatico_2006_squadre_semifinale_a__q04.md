@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_a__Q04
 parent: src_cesenatico_2006_squadre_semifinale_a
 competition: Gara a Squadre Cesenatico 2006 - Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma anni N in [476,1492] con x^4-y^4=N risolvibile*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8383
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Sum of years N in [476,1492] with x^4-y^4=N solvable*
+
+> For a strange, mathematical coincidence, in the Middle Ages the director of the Higher Mathematical School was appointed only in the years with the following peculiar property: it was all the years N between 476 and 1492 for which the equation x4 −y4 = N has solution in positive integers. What's the sum of these years?
+
+**Answer:** 8383
+[[src_cesenatico_2006_squadre_semifinale_a__Q04]]

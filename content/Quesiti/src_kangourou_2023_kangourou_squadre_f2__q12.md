@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre_f2__Q12
 parent: src_kangourou_2023_kangourou_squadre_f2
 competition: Kangourou Squadre 2023 Kangourou Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Costo corona più piccola proporzionale diametro*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 1445
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cost crown smaller proportional diameter*
+
+![[src_kangourou_2023_kangourou_squadre_f2__prob12.png]]
+
+> To manufacture precision machinery, cylindrical crowns of very expensive material are required, all of the same thickness and homogeneity, all with an internal cylinder of 4 cm in diameter, but with an external cylinder of variable diameter. For the larger ones, the outer diameter is 28 cm; the smaller ones weigh half the larger ones. The cost of the crowns is directly proportional to the measurement of the outer diameter; that of one of the largest is 2023 euros. How much does one of the smaller ones cost?
+
+**Answer:** 1445
+[[src_kangourou_2023_kangourou_squadre_f2__Q12]]

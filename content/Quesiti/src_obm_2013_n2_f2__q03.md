@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f2__Q03
 parent: src_obm_2013_n2_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 'power-hour' minutes between 00:00 and 02:59*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jz8AX5epqRi_4AzCthzju1jrj_ZupO7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggiare i minuti "ora di potenza" tra le 00:00 e le 02:59*
+
+> Una \textit{hora potência} (ora di potenza) è un'ora il cui formato rappresenta una potenza perfetta di un intero positivo con esponente maggiore di $1$; cioè qualcosa nel formato $a^b$ dove $a$ e $b$ sono interi positivi e $b > 1$. Ad esempio, $03{:}43$ è un'ora di potenza perché $343 = 7^3$, ma $01{:}10$ non è un'ora di potenza perché $110$ non è una potenza perfetta. Inoltre, $02{:}89$ non è un'ora di potenza perché non c'è tempo $02{:}89$. Quanti minuti di orario di potenza ci sono da $00{:}00$ a $02{:}59$?
+
+[[src_obm_2013_n2_f2__Q03]]

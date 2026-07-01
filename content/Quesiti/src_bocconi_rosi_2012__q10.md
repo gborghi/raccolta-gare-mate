@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2012 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2012__Q10
 parent: src_bocconi_rosi_2012
 competition: Giochi di Rosi 2012
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Contare i rettangoli in figura*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 18 rettangoli
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1du4nM_pjVseEMRiX1hz7hrTEkEIg-ZC2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Count the rectangles in Figure *
+
+> **How many rectangles can you see in the figure? **
+
+![[src_bocconi_rosi_2012__Q10.png]]
+
+**Answer:** 18 rettangoli
+[[src_bocconi_rosi_2012__Q10]]

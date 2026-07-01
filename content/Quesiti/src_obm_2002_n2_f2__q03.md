@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f2__Q03
 parent: src_obm_2002_n2_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *8×8 table with neighbor-difference 1, entries 17 and 3 present; find sum of main diagonals*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*8×8 tabella con vicinanza-differenza 1, voci 17 e 3 presenti; trovare la somma delle diagonali principali*
+
+> Nelle celle di una tabella $8 \times 8$, i numeri interi positivi sono scritti in modo tale che la differenza tra i numeri scritti nelle celle vicine (cellule che condividono un lato comune) è $1$. È noto che in una delle celle è scritto il numero $17$ e in un'altra è scritto il numero $3$. Calcolare la somma di tutti i numeri scritti sulle due diagonali principali della tabella.
+
+[[src_obm_2002_n2_f2__Q03]]

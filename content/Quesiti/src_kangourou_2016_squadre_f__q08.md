@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2016 Finale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_f__Q08
 parent: src_kangourou_2016_squadre_f
 competition: Kangourou Coppa Squadre 2016 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero totale sorpassi tra i tre pattinatori*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 19
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Uih0VpIOW40GBf8mxXkEFst7nixVBxJu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total number of overtakes between the three skaters*
+
+> Skaters Aldo, Bruno and Carlo enjoy skating on a circular track. They start at the same moment from the same point and in the same direction; each skates at a constant speed: Bruno goes faster than Carlo, but less fast than Aldo. They stop as soon as they find themselves all three together. When they stop, Aldo has overtaken Carlo 10 times. How many overlaps between the three of them took place before that time? (Write [9999] if you think the situation described is impossible.)
+
+**Answer:** 19
+[[src_kangourou_2016_squadre_f__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Biennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_biennio__Q13
 parent: src_archimede_2017_biennio
 competition: Giochi di Archimede 2017 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sostituzione di bibita per ottenere 50% succo*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/112mFupkYpsCYPbpzDQ0mOl_VW0wTFJK_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Replacement of beverage to obtain 50% juice< MSK1/>
+
+> A bottle of 1 litre of orange drink is 80% water and 20% orange juice. Gianni wants to replace some of the beverage in this bottle with orange juice, so as to get a new beverage that is 50% orange juice. How many ml of Gianni's initial drink should he replace with orange juice?
+>
+> - **(A)** 300
+> - **(B)** 400
+> - **(C)** 375
+> - **(D)** 320
+> - **(E)** 350
+
+**Answer:** C
+[[src_archimede_2017_biennio__Q13]]

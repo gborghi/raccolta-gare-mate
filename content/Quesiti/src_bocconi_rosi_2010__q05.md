@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2010 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2010__Q05
 parent: src_bocconi_rosi_2010
 competition: Giochi di Rosi 2010
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Secondi per suonare le 9 al campanile*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8 secondi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pwjn1M0F1YSZ60SMZmZPXENHZGd98Xmt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Seconds to play at 9 o'clock at the bell tower*
+
+> At 3, the bell clock takes $2$ seconds to play the three strokes.
+> 
+> How many seconds will it take to play 9?
+
+**Answer:** 8 secondi
+[[src_bocconi_rosi_2010__Q05]]

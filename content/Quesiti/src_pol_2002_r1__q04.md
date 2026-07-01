@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2002 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2002_r1__Q04
 parent: src_pol_2002_r1
 competition: Olimpiade Matematica Polacca 2002 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a polynomial graph of degree >1 has a symmetry axis iff it factors as F(G) with deg G = 2.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che un grafico polinomial di grado >1 ha un asse di simmetria se fattori come F(G) con deg G = 2.*
+
+> Prova che il grafico del polinomio $W(x)$ con $\deg W > 1$ possiede un asse di simmetria se e solo se esistono polinomi $F(x), G(x)$ come $W(x) = F(G(x))$ e $\deg G = 2$.
+
+[[src_pol_2002_r1__Q04]]

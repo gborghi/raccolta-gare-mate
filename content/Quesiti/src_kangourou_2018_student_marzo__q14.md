@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q14
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante coppie (m,n) con |sqrt17-m|+sqrt(17+n)=20*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many pairs (m,n) with squared17-m squared17+n) = 20
+
+> How many ordered pairs (m, n) of strictly positive integers solve the equation? A) 0
+> 	
+> B) 10
+> 	
+> C) 15
+> 	
+> D) 19
+> 	
+> E) 20
+
+**Answer:** C
+[[src_kangourou_2018_student_marzo__Q14]]

@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2025 — Nível Universitário — Fase x —
   Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2025_nu_fx__Q03
 parent: src_obm_2025_nu_fx
 competition: Olimpíada Brasileira de Matemática 2025 — Nível Universitário — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum-modulus elements under invertible linear maps on R^2*
 
@@ -56,3 +59,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13bcEYRAi-4qTqqDPM-7tUBCWHbYLc-du/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Elementi di modulo minimo sotto mappe lineari invertibili su R^2*
+
+> Dato un insieme non vuoto $X \subset \mathbb{R}^k$, $k \in \{2, 3\}$, diciamo che $q$ è di ** modulo minimo ** in $X$ se $q \in X$ e $|q| \le |p|$ per tutti $p \in X$.
+> 
+> (a) Che $A : \mathbb{R}^2 \to \mathbb{R}^2$ sia una trasformazione lineare invertibile, e che $$\Lambda = A(\mathbb{Z}^2) = \{A(x,y) \mid x, y \in \mathbb{Z}\}.$$ Supponga che $u$ abbia modulo minimo in $\Lambda \setminus \{(0,0)\}$ e $v$ abbia modulo minimo in $\Lambda \setminus \{tu \mid t \in \mathbb{R}\}$. Prove che $\Lambda = \{ku + mv \mid k, m \in \mathbb{Z}\}$.
+> 
+> b) Che $B : \mathbb{R}^2 \to \mathbb{R}^2$ sia una trasformazione lineare invertibile, e che $$\Gamma = B(\mathbb{Z}^3) = \{B(x,y,z) \mid x, y, z \in \mathbb{Z}\}.$$ Supponga che $u$ abbia un modulo minimo in $\Gamma \setminus \{(0,0)\}$, $v$ abbia un modulo minimo in $\Gamma \setminus \{tu \mid t \in \mathbb{R}\}$ e $w$ abbia un modulo minimo in $\Gamma \setminus \{tu + sv \mid t, s \in \mathbb{R}\}$. Prove che $\Gamma = \{ku + mv + nw \mid k, m, n \in \mathbb{Z}\}$.
+
+[[src_obm_2025_nu_fx__Q03]]

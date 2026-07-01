@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1992 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1992__Q04
 parent: src_inmo_1992
 competition: Indian National Mathematical Olympiad 1992
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Permutations of 1,...,k not extendable; find number of such permutations*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EOEsZB8HaiI0YQM_jwUKgpq-22uACryj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Permutazioni di 1,...,k non estensibili; trovare numero di tali permutazioni*
+
+> Trova il numero di permutazioni $(p_1, p_2, \ldots, p_6)$ di $1, 2, \ldots, 6$ in modo tale che per qualsiasi $k$, $1 \le k \le 5$, $(p_1, p_2, \ldots, p_k)$ non costituisca una permutazione di $1, 2, \ldots, k$.
+
+[[src_inmo_1992__Q04]]

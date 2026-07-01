@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q19
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli equilateri iterati, misura PC con AB=3556*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2352
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Iterated equilateral triangles, measuring PC with AB=3556*
+
+> Frege, Escher and Bach's Lolomorfo is a musical instrument capable of projecting complex four-dimensional scenes. Philip J. Frege, who enjoys this instrument, drew an ABC equilateral triangle on a plane in mid-air. Named M the middle point of BC, he constructed with a swivel the outer point D at ABC such that BMD is an equilateral triangle. He then repeated the construction and melody on a sharper octave, calling N the midpoint of MD and choosing P external to BMD such that PND is an equilateral triangle. Knowing that AB is 3556, how big is PC?
+
+**Answer:** 2352
+[[src_squadre_2018_finale__Q19]]

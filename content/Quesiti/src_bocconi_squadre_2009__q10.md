@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2009__Q10
 parent: src_bocconi_squadre_2009
 competition: Gara a Squadre 2009
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età del figlio più piccolo di Enrico dati i prodotti delle età*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Age of the youngest child of Henry given the age products< MSK1/>
+
+> Henry has five children. The big four are only one year apart. If you multiply their age and their age, they get product 1. How old is the youngest of Henry's children?
+
+**Answer:** 1
+[[src_bocconi_squadre_2009__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1997 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1997__Q05
 parent: src_inmo_1997
 competition: Indian National Mathematical Olympiad 1997
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 4x4 arrays from {0,1,2,3} with row and column sums divisible by 4*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SA7DeUVRAagzjUC6Q6y2b9m6tHkKLIIy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le matrici 4x4 da {0,1,2,3} con le somme di righe e colonne divisibili per 4*
+
+> Trovare il numero di matrici $4 \times 4$ le cui voci provengono dal set $\{0, 1, 2, 3\}$ in modo tale che la somma dei numeri in ciascuna delle quattro righe e in ciascuna delle quattro colonne sia divisibile da $4$.
+
+[[src_inmo_1997__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1990 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1990__Q03
 parent: src_inmo_1990
 competition: Indian National Mathematical Olympiad 1990
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all values of f(1990) for function with given functional properties*
 
@@ -48,3 +51,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G8lDoodsQyIXm-tyEu5jDUtV7TjXp552/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i valori di f(1990) per una funzione con determinate proprietà funzionali*
+
+> $f : \mathbb{N}_0 \to \mathbb{N}_0$ sia una funzione che soddisfi:
+> 
+> (i) $x - f(x) = 19\left\lfloor \frac{x}{19} \right\rfloor - 90\left\lfloor \frac{x}{90} \right\rfloor$ per tutti gli integri non negativi $x$;
+> 
+> (ii) $1900 < f(1990) < 2000$.
+> 
+> Trova tutti i valori possibili che $f(1990)$ può assumere.
+
+[[src_inmo_1990__Q03]]

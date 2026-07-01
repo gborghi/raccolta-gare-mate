@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r1__Q06
 parent: src_pol_2004_r1
 competition: Olimpiade Matematica Polacca 2004 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For real $c$ giving $P$ five real roots, find the sum of absolute values of the coefficients of $Q$.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per $c$ reale che dà $P$ cinque radici reali, trovare la somma dei valori assoluti dei coefficienti di $Q$.*
+
+> Supponiamo che $c$ sia un numero reale tale che il polinomio $P(x)=x^5-5x^3+4x-c$ abbia cinque zeri reali $x_1,x_2,x_3,x_4,x_5$. Calcolare in $c$ la somma dei valori assoluti dei coefficienti del polinomio $$Q(x)=(x-x_1^2)(x-x_2^2)(x-x_3^2)(x-x_4^2)(x-x_5^2).$$
+
+[[src_pol_2004_r1__Q06]]

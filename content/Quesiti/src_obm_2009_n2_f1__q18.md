@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q18
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -39,6 +40,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *18 students, 6 questions; each gets 4 right; each question correct same times; find m*
 
@@ -60,3 +63,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*18 studenti, 6 domande; ognuno ottiene 4 corrette; ogni domanda corregge le stesse volte; trova m*
+
+> Il professor Piraldo ha dato un test di domande $6$ di valore $0$ o $1$ punti ciascuno, senza credito parziale, agli studenti $18$. Dopo il test, Piraldo fece una tabella in cui ogni riga rappresenta uno studente e ogni colonna rappresenta una domanda. La tabella (che mostra 3 degli 18 studenti) è:
+> 
+> Studente Q1 Q2 Q3 Q4 Q5 Q6 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+> 
+> Piraldo ha notato che ogni studente ha ricevuto esattamente le domande $4$ correttamente e ogni domanda è stata risolta correttamente lo stesso numero di volte. Qual è il valore di $m$ (il numero di volte in cui ogni domanda è stata risolta correttamente)?
+> 
+> **(A)** $8$ $\quad$ **(B)** $9$ $\quad$ **(C)** $10$ $\quad$ **(D)** $12$ $\quad$ **(E)** $14$
+
+**Risposta:** C
+[[src_obm_2009_n2_f1__Q18]]

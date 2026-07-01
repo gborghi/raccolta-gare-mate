@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2009 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2009__Q07
 parent: src_cn_cwmo_2009
 competition: China Western Mathematical Olympiad 2009
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest number of students s>12 ensuring 3 share 4 identical correct answers*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 911
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il minor numero di studenti s>12 assicurando che 3 condividano 4 risposte corrette identiche*
+
+> Ci sono studenti $s$ ($s > 12$) che partecipano a un concorso di matematica. Il documento di esame è composto da 15 domande complete. Per ogni domanda, il punteggio di una risposta corretta è di 1 punto e nessun punto verrà assegnato se la risposta è errata o lasciata in bianco. Dopo aver analizzato tutti i possibili casi di distribuzione dei punteggi di questi studenti $s$, si scopre che se la somma dei punteggi totali di qualsiasi 12 studenti non è inferiore a 16 punti, allora ci sono almeno 3 studenti tra questi studenti $s$ che rispondono correttamente ad almeno 4 domande identiche. Determinare il minimo valore possibile di $s$.
+
+**Risposta:** 911
+[[src_cn_cwmo_2009__Q07]]

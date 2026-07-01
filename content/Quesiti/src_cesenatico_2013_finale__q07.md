@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q07
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezza piano dei 3 punti alti (4 sfere tangenti)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8605
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Flat height of the 3 high points (4 tangent spheres) *
+
+> To better understand where it has ended, Root relies on the sage Brucarythmus. The rounded fungus of the Brucaritmus is made up of four spheres, all tangent to each other. A sphere resting on the ground, with a radius of 2000 palmipedons, forms its base; three larger spheres, with a radius of 3000 palmipedons, are resting on it so that their three most distant points from the ground form a plane parallel to the ground. How many palms is this floor from the ground?
+
+**Answer:** 8605
+[[src_cesenatico_2013_finale__Q07]]

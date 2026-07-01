@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_kangourou_squadre__Q10
 parent: src_kangourou_2024_kangourou_squadre
 competition: Kangourou Squadre 2024 Kangourou Finale 1
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione ombreggiata tre cerchi concentrici*
 
@@ -82,3 +85,56 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1417
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1H4evp3ENM3JXuKHssVIkxKmXh6l0-t0_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shaded region area three concentric circles*
+
+![[src_kangourou_2024_kangourou_squadre__prob10.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \def\ri{1}
+  \def\rm{1.667}
+  \def\ro{2}
+  \fill[white] (-2.4,-2.4) rectangle (2.4,2.4);
+  \begin{scope}
+    \clip (0,0) -- (\ro,0) arc(0:90:\ro) -- cycle;
+    \fill[gray!40] (0,0) circle (\ro);
+    \fill[white] (0,0) circle (\rm);
+  \end{scope}
+  \begin{scope}
+    \clip (0,0) -- (-\ro,0) arc(180:270:\ro) -- cycle;
+    \fill[gray!40] (0,0) circle (\ro);
+    \fill[white] (0,0) circle (\rm);
+  \end{scope}
+  \begin{scope}
+    \clip (0,0) -- (0,\rm) arc(90:180:\rm) -- cycle;
+    \fill[gray!40] (0,0) circle (\rm);
+    \fill[white] (0,0) circle (\ri);
+  \end{scope}
+  \begin{scope}
+    \clip (0,0) -- (0,-\rm) arc(270:360:\rm) -- cycle;
+    \fill[gray!40] (0,0) circle (\rm);
+    \fill[white] (0,0) circle (\ri);
+  \end{scope}
+  \draw (0,0) circle (\ri);
+  \draw (0,0) circle (\rm);
+  \draw (0,0) circle (\ro);
+  \draw (-\ro,0) -- (\ro,0);
+  \draw (0,-\ro) -- (0,\ro);
+  \node[above left] at ({-\ro*0.707},{\ro*0.707}) {$R$};
+  \node[above left] at ({-\rm*0.707},{\rm*0.707}) {$Q$};
+  \node[above left] at ({-\ri*0.707},{\ri*0.707}) {$P$};
+  \node[below right] at (0.05,-0.05) {$O$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The shaded region The figure shows three concentric circles of center O on which two diameters are drawn perpendicular to each other; RO, QO and PO are the radii of the three circles. The RQ segment is half the length of the QP segment which in turn is 2/3 of the PO segment. The largest area of the circle is 1962 m2. How many square meters is the area of the shaded region?
+
+**Answer:** 1417
+[[src_kangourou_2024_kangourou_squadre__Q10]]

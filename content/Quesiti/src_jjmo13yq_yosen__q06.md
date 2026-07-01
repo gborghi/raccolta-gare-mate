@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo13yq_yosen__Q06
 parent: src_jjmo13yq_yosen
 competition: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Color 2015 boxes red/blue/white; odd boxes not white, adjacent boxes differ*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $2\cdot 3^{1007}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Colour 2015 boxes red/blue/white; odd boxes non white, adiacenti boxes differiscono*
+
+> Le caselle $2015$ sono disposte in fila. In ciascuna scatola mettiamo esattamente una palla, che è rossa, blu o bianca. Inoltre, nelle scatole in posizioni dispari che contano da sinistra non si colloca una palla bianca, e nelle scatole adiacenti non devono contenere palle dello stesso colore. Quanti modi ci sono per mettere le palle?
+
+**Risposta:** 2\cdot 3^{1007}
+[[src_jjmo13yq_yosen__Q06]]

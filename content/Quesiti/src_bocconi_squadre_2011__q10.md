@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2011 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2011__Q10
 parent: src_bocconi_squadre_2011
 competition: Gara a Squadre 2011
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza bisettrice angolo retto in triangolo 3-4-5*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{12}{7}\sqrt{2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csoOdxkAD8Fd4QvzRpEPzVVVOCkJ8l1C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of the right angle beam in triangle 3-4-5*
+
+> What is the length of the segment of the rectangular vertex (top to hypotenuse) of a right triangle whose sides measure 3 cm, 4 cm, 5 cm?
+
+**Answer:** $\frac{12}{7}\sqrt{2}$
+[[src_bocconi_squadre_2011__Q10]]

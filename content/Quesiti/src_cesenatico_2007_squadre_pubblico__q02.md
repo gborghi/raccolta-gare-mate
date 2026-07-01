@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q02
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima somma raggi di due cerchi tangenti in rettangolo*
 
@@ -57,3 +60,27 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum sum of the radii of two tangent circles in a rectangle*
+
+![[src_cesenatico_2007_squadre_pubblico__prob2.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.5]
+  \draw (0,0) rectangle (10,10);
+  \draw (2.5,7.5) circle (2.5);
+  \fill (2.5,7.5) circle (1.5pt);
+  \draw (6.642,3.358) circle (3.358);
+  \fill (6.642,3.358) circle (1.5pt);
+\end{tikzpicture}
+\end{document}
+```
+
+> In the open field [10] Numeruto and Sekante finally face each other, face to face, on a plateau. The plane is shaped like a rectangle 2940×3000, and two tangent circumferences must be drawn externally, and each of the two tangents on two consecutive sides of the rectangle, so that all sides are touched by a single circumference. Determine the maximum value of the sum of the rays.
+
+[[src_cesenatico_2007_squadre_pubblico__Q02]]

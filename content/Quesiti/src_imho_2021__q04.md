@@ -1,6 +1,7 @@
 ---
 title: IMO 2021 (LXII International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2021__Q04
 parent: src_imho_2021
 competition: IMO 2021 (LXII International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Circle tangent to convex quadrilateral sides yields equal sum*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VTMF3_4FUjshC9L1h1JDLd2a_dFGHkhF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Circle tangent to convex quadrilateral sides yields equal sum*
+
+> Let $\Gamma$ be a circle with center $I$, and $ABCD$ a convex quadrilateral such that each of the segments $AB$, $BC$, $CD$ and $DA$ is tangent to $\Gamma$. Let $\Omega$ be the circumcircle of the triangle $AIC$. The extension of $BA$ beyond $A$ meets $\Omega$ at $X$, and the extension of $BC$ beyond $C$ meets $\Omega$ at $Z$. The extension of $AD$ beyond $D$ meets $\Omega$ at $Y$, and the extension of $CD$ beyond $D$ meets $\Omega$ at $T$. Prove that $$AD + DT + TX + XA = CD + DY + YZ + ZC.$$
+
+[[src_imho_2021__Q04]]

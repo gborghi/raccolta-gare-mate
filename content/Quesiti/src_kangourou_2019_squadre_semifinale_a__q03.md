@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q03
 parent: src_kangourou_2019_squadre_semifinale_a
 competition: Kangourou Coppa squadre 2019 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo n con n^2+100 divisibile per n-5*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0130
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum n with n^2+100 divisible by n-5*
+
+> Plus 100 What is the largest positive integer n such that n2 + 100 is divisible by n  5?
+
+**Answer:** 0130
+[[src_kangourou_2019_squadre_semifinale_a__Q03]]

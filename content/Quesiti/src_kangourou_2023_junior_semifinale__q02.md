@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Junior 2023 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_semifinale__Q02
 parent: src_kangourou_2023_junior_semifinale
 competition: Kangourou Semifinale individuale Junior 2023
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione colorata di una finestra con semicerchi e quarti di cerchio*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rq1gJ31P8DKnidln7hHYAxiIyAQN3F0c/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Colored fraction of a window with semicircles and quarter circles*
+
+![[src_kangourou_2023_junior_semifinale__prob2.png]]
+
+> (Points 3) In the figure you see a decorated window. Half-circles and quarter-circles that you see are all colorless and all have the same radius. From the surface of the entire window, what fraction has been coloured? (Consider the dividing lines and edges as having no area.) A) π/4 B) (π  3)/4 C) 1  π/4 D) (3π/4)  1 E) (4  π)/2
+
+[[src_kangourou_2023_junior_semifinale__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q30
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti cubetti intersecati dal piano per il centro del cubo*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of cubes intersected from the plane to the center of the cube*
+
+> 30. A 3x3x3 cube is obtained by bringing 27 identical cubes together. Let's consider a plane perpendicular to one of the diagonal sides of the cube and it goes through the center of the cube. How many of the cubes are intersected by the floor? The Commission has therefore considered that the Commission's decision to grant the aid is compatible with the internal market in accordance with Article 107 (1) TFEU. 32 32 Kang 201
+
+**Answer:** C
+[[src_kangourou_2011_student__Q30]]

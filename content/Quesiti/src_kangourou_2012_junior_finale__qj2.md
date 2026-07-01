@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Finale Junior (Mirabilandia) — Quesito J2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior_finale__QJ2
 parent: src_kangourou_2012_junior_finale
 competition: Kangourou 2012 Finale Junior (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante sfere per tre punti non allineati e raggio minimo*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** infinite
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1oKHOSWPLPAyvSCzjXHxhRGKMVyrbdN1S/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many spheres for three non-aligned points and minimum radius*
+
+> Assigned three non-aligned points in space, how many spheres pass through these three points? If more than one can pass, how can the radius of the smaller be determined?
+
+**Answer:** infinite
+[[src_kangourou_2012_junior_finale__QJ2]]

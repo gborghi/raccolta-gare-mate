@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Cadet (15 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_cadet__Q08
 parent: src_kangourou_2001_cadet
 competition: Kangourou 2001 - Cadet (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo per la famiglia di koala insieme*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Time for the koala family together< MSK1/>
+
+> 8. A small koala eats the leaves of an entire eucalyptus tree in 10 hours. Both his father and mother eat twice as fast as he does. How long will the three members of the family together manage to eat all the leaves of the same tree? (A) two hours (B) three hours (C) four hours (D) five hours (E) six hours. Kangourou 15 March 2001, category Cadet. This item is not intended to be used.
+
+**Answer:** A
+[[src_kangourou_2001_cadet__Q08]]

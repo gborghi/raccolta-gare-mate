@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f2__Q02
 parent: src_obm_2014_n3_f2
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Last two digits of odd-part of 2014*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XkAXjIN4Wy75ir0QX-HQaiyTPxhLBK2C/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le ultime due cifre della parte impar del 2014*
+
+> La parte impar di $n$ è definita come il prodotto di tutti i numeri naturali impar meno o uguali a $n$. Quali sono le ultime due cifre della parte impar di $2014$?
+
+[[src_obm_2014_n3_f2__Q02]]

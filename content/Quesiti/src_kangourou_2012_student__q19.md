@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q19
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza tra 1 e 2 su orologio rettangolare*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance between 1 and 2 on a rectangular clock*
+
+![[src_kangourou_2012_student__prob19.png]]
+
+> The clock in the figure is rectangular in shape; as used, the hands move at a constant angular speed. What is the distance between 1 and 2 measured on the dial in centimetres if the distance between 8 and 10 is 12 centimetres? A) 3 B) 2 C) 4 D) 2 + E) 12 - 3
+
+**Answer:** C
+[[src_kangourou_2012_student__Q19]]

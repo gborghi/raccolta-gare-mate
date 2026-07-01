@@ -1,6 +1,7 @@
 ---
 title: X Gara Nazionale Classi Prime 2025 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2025__Q06
 parent: src_garaprime_2025
 competition: X Gara Nazionale Classi Prime 2025
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo punti in cerchio a distanza almeno 1*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum points in a circle at a distance of at least 1*
+
+> How many points can be drawn, at most, within a circle of area 4π cm2 (the edge can also be used) so that each point is at least 1 cm away from each other?
+>
+> - **(A)** 7
+> - **(B)** 10
+> - **(C)** 12
+> - **(D)** 16
+> - **(E)** 19
+
+**Answer:** E
+[[src_garaprime_2025__Q06]]

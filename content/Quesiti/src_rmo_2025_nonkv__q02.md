@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2025 — Non-KV — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2025_nonkv__Q02
 parent: src_rmo_2025_nonkv
 competition: Regional Mathematical Olympiad 2025
@@ -32,6 +33,8 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find value of expression given three nonzero reals satisfying a system*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ik3u0dWCcvW1PmcS_C8SRI2gnccFRgZA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il valore dell'espressione data a tre valori reali non zero che soddisfano un sistema*
+
+> Che $a, b, c$ siano numeri reali non zero distinti che soddisfano $$a + \frac{2}{b} = b + \frac{2}{c} = c + \frac{2}{a}.$$ Determina il valore di $|a^2 b + b^2 c + c^2 a|$.
+
+[[src_rmo_2025_nonkv__Q02]]

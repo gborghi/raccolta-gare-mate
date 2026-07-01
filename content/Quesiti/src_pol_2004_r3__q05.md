@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r3__Q05
 parent: src_pol_2004_r3
 competition: Olimpiade Matematica Polacca 2004 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Greatest number of equiangular lines through a point in space*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xVPNuxhSgv3eEtgJe42pRAq5eC6MhKAl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il maggior numero di linee equivalenti attraverso un punto nello spazio*
+
+> Trova il maggior numero possibile di linee che attraversano un singolo punto nello spazio in modo tale che l'angolo tra due di esse sia lo stesso.
+
+[[src_pol_2004_r3__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Triennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_triennio__Q05
 parent: src_archimede_2017_triennio
 competition: Giochi di Archimede 2017 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area quadrilatero FGEH con triangoli equilateri*
 
@@ -64,10 +67,55 @@ tags:
 > - **(B)** 2 √ 3 3
 > - **(C)** 8 √ 3 3 −4
 > - **(D)** 2 √ 3 3 −1
-> - **(E)** 1 2 A B C D E F G H
+> - **(E)** 1 2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WbKYlCGmnvn3EnNy8PHpDbjgy_2zTYne/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*FGEH quadrilateral area with equilateral triangles*
+
+![[src_archimede_2017_triennio__prob5.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=2]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (2,0);
+  \coordinate (C) at (2,2);
+  \coordinate (D) at (0,2);
+  \coordinate (E) at (1,1.732);
+  \coordinate (F) at (1,0.268);
+  \draw (A)--(B)--(C)--(D)--cycle;
+  \draw (A)--(C);
+  \draw (B)--(D);
+  \draw (A)--(E)--(B);
+  \draw (C)--(F)--(D);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above right] at (C) {$C$};
+  \node[above left] at (D) {$D$};
+  \node[above] at (E) {$E$};
+  \node[below] at (F) {$F$};
+  \node[left] at (0.634,1) {$H$};
+  \node[right] at (1.366,1) {$G$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure next to this, ABCD is a side square equal to 2 cm and the triangles ABE and CDF are equilateral. How many cm2 is the area of the FGEH quadrilateral?
+>
+> - **(A)** 8 √ 3 4
+> - **(B)** 2 √ 3 3
+> - **(C)** 8 √ 3 3 −4
+> - **(D)** 2 √ 3 3 −1
+> - **(E)** 1 2
+
+**Answer:** C
+[[src_archimede_2017_triennio__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2011 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2011__Q02
 parent: src_cn_cgmo_2011
 competition: China Girls' Mathematical Olympiad 2011
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quadrilateral with diagonal intersection and perpendicular bisectors, prove FP = FQ*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterale con intersezione diagonale e bisettieri perpendicolari, prova FP = FQ*
+
+> Come mostrato nella figura. 2.1, le diagonali $AC$, $BD$ del quadrilaterale $ABCD$ si intersecano al punto $E$, le perpendicolari medie di $AB$ e $CD$ si intersecano al punto $F$, e la linea $EF$ si interseca con $BC$ e $AD$ rispettivamente ai punti $P$ e $Q$. Prove che $FP = FQ$.
+
+![[src_cn_cgmo_b11_w193__Q02.png]]
+
+[[src_cn_cgmo_2011__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2003 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2003__Q05
 parent: src_rmo_2003
 competition: Regional Mathematical Olympiad 2003
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Interior point P with equal ratios of vertex-to-side distances; find common value*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14_140H2POZbGtUVbO-snI4nHRD_OSqhe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto interno P con uguali rapporti di distanze vertex-side; trovare valore comune*
+
+> Supponiamo che $P$ sia un punto interno di un triangolo $ABC$ tale che i rapporti $$\frac{d(A,BC)}{d(P,BC)}, \quad \frac{d(B,CA)}{d(P,CA)}, \quad \frac{d(C,AB)}{d(P,AB)}$$ siano tutti uguali. Trova il valore comune di questi rapporti. [Qui $d(X, YZ)$ indica la distanza perpendicolare da un punto $X$ alla linea $YZ$.]
+
+[[src_rmo_2003__Q05]]

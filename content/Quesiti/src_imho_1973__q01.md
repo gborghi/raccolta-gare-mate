@@ -1,6 +1,7 @@
 ---
 title: IMO 1973 (XV International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1973__Q01
 parent: src_imho_1973
 competition: IMO 1973 (XV International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Unit vectors from O: sum of lengths condition with parity*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_yg5ytepW4kPtXzf2MZzjG__z3aJ2dcR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Unit vectors from O: sum of lengths condition with parity
+
+> Point $O$ lies on line $g$. $\overrightarrow{OP_1}$, $\overrightarrow{OP_2}$, $\ldots$, $\overrightarrow{OP_n}$ are unit vectors such that points $P_1, P_2, \ldots, P_n$ all lie in a plane containing $g$. Prove that if $n$ is odd, $$|\overrightarrow{OP_1} + \overrightarrow{OP_2} + \cdots + \overrightarrow{OP_n}| \geq 1.$$ Here $|\overrightarrow{OM}|$ denotes the length of vector $\overrightarrow{OM}$.
+
+[[src_imho_1973__Q01]]

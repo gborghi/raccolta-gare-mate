@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q19
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC with X,Y,Z on sides at ratio 2; ratio of area XYZ to triangle of medians.*
 
@@ -55,3 +58,21 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC con X,Y,Z sui lati a rapporto 2; rapporto tra superficie XYZ e triangolo di media.*
+
+> Il $ABC$ è un triangolo e $X$, $Y$, $Z$ puntano sui lati $BC$, $CA$, $AB$ in modo tale che $\frac{CX}{XB}=\frac{AY}{YC}=\frac{BZ}{ZA}=2$. Qual è il rapporto tra l'area del triangolo $XYZ$ e l'area del triangolo i cui lati sono congruenti alle medie di $ABC$? (Nota: i media di un triangolo sono i segmenti che uniscono i vertici ai punti medi dei lati opposti.)
+>
+> - **(A)** $\frac{2}{3}$
+> - **(B)** $\frac{1}{2}$
+> - **(C)** $\frac{4}{9}$
+> - **(D)** $\frac{1}{3}$
+> - **(E)** $\frac{1}{4}$
+
+![[src_obm_2010_n3_f1__Q19.png]]
+
+[[src_obm_2010_n3_f1__Q19]]

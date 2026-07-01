@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Junior Finale 1 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_squadre__Q02
 parent: src_kangourou_2024_junior_squadre
 competition: Kangourou Squadre 2024 Junior Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma coefficienti polinomio dato funzionale*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2030
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19twDyCIYYYLPZm2ICyi_V91n9zEgBbys/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of coefficients of the given functional polynomial*
+
+> A polynomial A polynomial P is such that P(x + 2020) = 2024  2x + 2P(2024) for every real value of x. What's the sum of the coefficients of P?
+
+**Answer:** 2030
+[[src_kangourou_2024_junior_squadre__Q02]]

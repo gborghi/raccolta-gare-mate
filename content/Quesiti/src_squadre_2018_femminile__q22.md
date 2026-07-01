@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q22
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume tetraedro con sviluppo triangolo 60-50-50*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1984
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of tetrahedron with triangle development 60-50-50*
+
+![[src_squadre_2018_femminile__prob22.png]]
+
+> The container of a Decapod 10 food supply is shaped like a tetrahedron. To protect it from space travel, Amy made a triangle whose sides measure 60 m, 50 m and 50 m which is exactly the development of the total surface area of the container. What 's the volume in 3 meters ?
+
+**Answer:** 1984
+[[src_squadre_2018_femminile__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2008__Q02
 parent: src_cesenatico_2008
 competition: XXIV Olimpiade Italiana Cesenatico 2008
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero colorazioni*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2^(n+1)-2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1o6Dc8ajv2EraLtby07SiyqyPmc6MZ9Su/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>number of colours< MSK1/>
+
+> Let n < MSK0/>2 be an integer. We color all the boxes on a chessboard n × n in red or blue so that every square 2 × 2 contained in the chessboard has exactly two red and two blue boxes. How many colors are possible? NOTE: Two colours obtained from each other by rotation or symmetry of the chessboard are considered to be distinct.
+
+**Answer:** 2^(n+1)-2
+[[src_cesenatico_2008__Q02]]

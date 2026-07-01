@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2025 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2025__Q06
 parent: src_inmo_2025
 competition: Indian National Mathematical Olympiad 2025
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove infinitely many payable numbers exist for notes with b-1 copies*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gffQQL4VecZGe0gDiKrBISppVkk_kB-P/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che esistono infiniti numeri da pagare per le banconote con copie b-1*
+
+> $b \ge 2$ sia un numero intero positivo. Anu ha una raccolta infinita di note con esattamente $b - 1$ copie di una nota con valore $b^k$ per ogni numero intero $k \ge 1$. Un intero positivo $n$ è chiamato pagabile se Anu può pagare esattamente $n^2 + 1$ rupie utilizzando una raccolta delle sue banconote. Prova che se c'è un numero da pagare, allora ci sono infiniti numeri da pagare.
+
+[[src_inmo_2025__Q06]]

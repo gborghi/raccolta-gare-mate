@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1994 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1994__Q04
 parent: src_inmo_1994
 competition: Indian National Mathematical Olympiad 1994
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count non-degenerate triangles with vertices in integer-coordinate set*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13t8gO6PkdwPwLC5CkXjN35Yq6olVnxjx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i triangoli non degenerati con vertici nell'insieme di coordinate interi*
+
+> Trova il numero di triangoli (non generati) le cui vertici si trovano nell'insieme dei punti $(s, t)$ nel piano con $s, t \in \{0, 1, 2, 3, 4\}$.
+
+[[src_inmo_1994__Q04]]

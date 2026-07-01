@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2000 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2000__Q02
 parent: src_rmo_2000
 competition: Regional Mathematical Olympiad 2000
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve y^3 = x^3 + 8x^2 - 6x + 8 in positive integers*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12rUdRsFDdXuqpCuHRpFpmWSAWCuy3oU3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Risolvi y^3 = x^3 + 8x^2 - 6x + 8 in numeri interi positivi*
+
+> Risolvere l'equazione $y^3 = x^3 + 8x^2 - 6x + 8$, per gli integri positivi $x$ e $y$.
+
+[[src_rmo_2000__Q02]]

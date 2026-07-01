@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_2livello__Q05
 parent: src_archimede_2006_2livello
 competition: Archimede Gara 2° livello 2006 (biennio/triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *2005 o 2006*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*2005 o 2006*
+
+> Silvia has 2006 identical equilateral triangle-shaped tiles and wants to put them all on the table without overlaps and so that each has exactly two sides in common with two other tiles. Can he succeed in his intent? Could he have done it last year, when he had 2005 tickets?
+>
+> - **(A)** It's impossible in both cases.
+> - **(B)** It's possible with 2005 cards, but not 2006.
+> - **(C)** It's possible with 2006 cards, but not with 2005.
+> - **(D)** In these two cases it is possible, but there is at least one number greater than 12 for which it is not possible.
+> - **(E)** It is possible for all card numbers greater than 12.
+
+**Answer:** C
+[[src_archimede_2006_2livello__Q05]]

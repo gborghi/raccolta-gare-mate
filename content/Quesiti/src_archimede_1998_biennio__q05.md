@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Biennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_biennio__Q05
 parent: src_archimede_1998_biennio
 competition: Giochi di Archimede 1998 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato di esagono inscritto in cerchio inscritto in quadrato*
 
@@ -55,3 +58,32 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kWwcoo-eeUmeGNwnlbaf7KaRcCi2NLyS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Side of hexagon inscribed in a circle inscribed in a square*
+
+![[src_archimede_1998_biennio__prob5.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=4]
+  \draw (-0.5,-0.5) rectangle (0.5,0.5);
+  \draw (0,0) circle (0.5);
+  \draw (0.4830,0.1294)--(0.1294,0.4830)--(-0.3536,0.3536)--(-0.4830,-0.1294)--(-0.1294,-0.4830)--(0.3536,-0.3536)--cycle;
+\end{tikzpicture}
+\end{document}
+```
+
+> Consider a unitary side square; insert a circumference inside it and, within it, a regular hexagon. What is the size of the side of the hexagon?
+>
+> - **(A)** 1/2
+> - **(B)** √ 3/2
+> - **(C)** √ 3/3
+> - **(D)** (4 √ 2 −2)/7
+> - **(E)** π/6.
+
+**Answer:** A
+[[src_archimede_1998_biennio__Q05]]

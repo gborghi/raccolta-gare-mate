@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_ecolier__Q04
 parent: src_kangourou_2001_ecolier
 competition: Kangourou 2001 - Ecolier (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero X nel triangolo di Tartaglia*
 
@@ -63,3 +66,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number X in the triangle of Tartaglia*
+
+> The number to be placed in the place of "X" in Table 1 1 1 1 2 1 1 3 3 1 1 4 X 4 1 1 5 10 10 5 1 is
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 7
+> - **(E)** 8 Kangourou 15 March 2001, category Ecolier. This item is not intended to be used. 3
+
+**Answer:** C
+[[src_kangourou_2001_ecolier__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f3__Q06
 parent: src_obm_2015_n3_f3
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcircles of BXZ and CXY meet at P on circle with diameter through H and G*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I cerchi di BXZ e CXY si incontrano a P su un cerchio di diametro attraverso H e G*
+
+> Il $ABC$ deve essere un triangolo di scalene e $X$, $Y$, $Z$ punti sulle linee $BC$, $CA$, $AB$, rispettivamente, in modo tale che $\angle AXB = \angle BYC = \angle CZA$. I circoncircoli di $BXZ$ e $CXY$ si intersecano in un punto $P \neq X$. Prova che $P$ si trova sul cerchio il cui diametro ha punti terminali all'ortocentro $H$ e al centroide $G$ di $ABC$.
+
+[[src_obm_2015_n3_f3__Q06]]

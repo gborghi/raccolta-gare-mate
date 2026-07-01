@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Cadet — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_finale__Q01
 parent: src_kangourou_2019_cadet_finale
 competition: Kangourou 2019 Finale Nazionale Cadet
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Segno della differenza A-B tra i due prodotti*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** nulla
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1smvCpL_hdFhIZi16iX73KtjPyMEZu5zx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Table A-B of difference between the two products*
+
+> Does the difference between the two numbers $$A = 201920192019 \times 20202020 \quad \text{e} \quad B = 202020202020 \times 20192019.$$ $A - B$ be positive, zero or negative?
+
+**Answer:** nulla
+[[src_kangourou_2019_cadet_finale__Q01]]

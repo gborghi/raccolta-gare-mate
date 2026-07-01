@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q03
 parent: src_kangourou_2019_junior_semifinale_a
 competition: Kangourou Coppa Junior squadre 2019 Semifinale A
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di assegnare interi all'ottagono con somme diagonali*
 
@@ -75,3 +78,44 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1152
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qvyGTt8fMV3U7A9REDKvAdJtpkkgdYbx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode of allocating integers to the octagon with diagonal sums*
+
+![[src_kangourou_2019_junior_semifinale_a__prob3.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (-0.765, 1.848);
+  \coordinate (B) at ( 0.765, 1.848);
+  \coordinate (C) at ( 1.848, 0.765);
+  \coordinate (D) at ( 1.848,-0.765);
+  \coordinate (E) at ( 0.765,-1.848);
+  \coordinate (F) at (-0.765,-1.848);
+  \coordinate (G) at (-1.848,-0.765);
+  \coordinate (H) at (-1.848, 0.765);
+  \coordinate (J) at (0,0);
+  \draw[thick] (A)--(B)--(C)--(D)--(E)--(F)--(G)--(H)--cycle;
+  \foreach \pt in {A,B,C,D,E,F,G,H} { \fill (\pt) circle (2pt); }
+  \fill (J) circle (2pt);
+  \node[above]      at (A) {$A$};
+  \node[above]      at (B) {$B$};
+  \node[right]      at (C) {$C$};
+  \node[right]      at (D) {$D$};
+  \node[below]      at (E) {$E$};
+  \node[below]      at (F) {$F$};
+  \node[left]       at (G) {$G$};
+  \node[left]       at (H) {$H$};
+  \node[right]      at (J) {$J$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Between 1 and 9 the vertices and the centre of the regular octagon in the figure have been given a name. In how many different ways can each of the points, vertices and center, be assigned an integer between 1 and 9 so that different points receive different numbers but, for each fixed assignment, the sum of the three numbers affecting the individual diagonal passing through the center is always the same when the diagonal varies?
+
+**Answer:** 1152
+[[src_kangourou_2019_junior_semifinale_a__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q05
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale espressione è anch'essa dispari*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>which expression is also odd< MSK1/>
+
+> Positive integers m and n are both odd. Which of the following integers is also odd? A) m × (n + 1)
+> 	
+> B) (m + 1) × (n + 1)
+> 	
+> C) m + n + 2 D) m × n + 2
+>  	
+> E) m + n
+
+**Answer:** D
+[[src_kangourou_2023_cadet__Q05]]

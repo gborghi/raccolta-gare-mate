@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre__Q10
 parent: src_kangourou_2022_kangourou_squadre
 competition: Kangourou Squadre 2022 Kangourou Finale 1
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti di Bruno tra tre velocità*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0040
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kPr4pxe9JLW6PscULmAS1patprSg1xRs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minutes of Bruno between three speeds< MSK1/>
+
+> Three friends, Ada is riding her bike, Bruno is running, Carla is walking. Ada's speed is twice that of Bruno who, in turn, is twice that of Carla. If they leave together to make the same journey and Carla arrives an hour after Ada, how many minutes does it take Bruno to cover the entire journey?
+
+**Answer:** 0040
+[[src_kangourou_2022_kangourou_squadre__Q10]]

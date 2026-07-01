@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2008 — Quesito
   5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2008__Q05
 parent: src_bocconi_finalenaz_2008
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2008
@@ -36,6 +37,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di cioccolatini di Matteo dato un sistema di disuguaglianze sul triplo e sul doppio.*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 14 cioccolatini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of Matteo's chocolates given a system of inequalities on the triple and the double.*
+
+> Matteo and Rossella are both greedy and argue over the chocolates they have. Matteo counts his people. "If I had three times as many, I would have more than 31", he tells Rossella, "but if I had twice as many, I would have less than 31!" Then he takes a chocolate from Rossella and confesses: "Even now, if I had twice as much, I would always have less than 31!" At this point, it's Rossella getting four chocolates from Matteo - she likes them too much! - and then he says, "Don't complain! Even now, if you had three times as many chocolates as you have, you would have more than 31!" How many chocolates did Matteo have before this heated argument?
+
+**Answer:** 14 cioccolatini
+[[src_bocconi_finalenaz_2008__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier finale individuale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__Q07
 parent: src_kangourou_2022_ecolier_finale
 competition: Kangourou 2022 Ecolier finale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti quadrati diversi nella figura*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0018
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many different squares in Figure *
+
+> There's no antithesis in Michele's postcard. On Chiara's postcard, the sun is visible. There's exactly two animals on Paola's card. The animals that appear in Luke and Nicholas' cards don't fly. What is Michele's card? (see figure)
+> 
+> (A) (Figure A) (B) (Figure B) (C) (Figure C) (D) (E) (Figure E)
+
+**Answer:** 0018
+[[src_kangourou_2022_ecolier_finale__Q07]]

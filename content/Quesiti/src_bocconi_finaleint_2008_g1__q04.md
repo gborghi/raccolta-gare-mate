@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q04
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di autobus da aggiungere su un percorso circolare per ridurre l'intervallo.*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2 bus
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of buses to be added on a circular route to reduce the interval.*
+
+> Four buses run a circular route. The interval between them is < MSK0/> minutes. If you want to reduce this interval to $16$ minutes, how many buses do you need to add on the route?
+
+**Answer:** 2 bus
+[[src_bocconi_finaleint_2008_g1__Q04]]

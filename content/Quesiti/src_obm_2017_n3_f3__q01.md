@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n3_f3__Q01
 parent: src_obm_2017_n3_f3
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Decimal digits of two rationals combined into an irrational; index-counting bound*
 
@@ -52,3 +55,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cifri decimali di due numeri razionali combinati in un limite di conteggio dell'indice irrazionale*
+
+> Per ogni numero reale $r$ tra $0$ e $1$ possiamo rappresentare $r$ con la decima infinita $r = 0{,}r_1 r_2 r_3 \ldots$ con $0 \le r_i \le 9$. Ad esempio, $\frac{1}{4} = 0{,}25000\ldots$, $\frac{1}{3} = 0{,}333\ldots$ e $\frac{1}{\sqrt{2}} = 0{,}707106\ldots$
+> 
+> a) Mostrare che possiamo scegliere due razionali $p$ e $q$ tra $0$ e $1$ in modo che, partendo dalle loro rappresentazioni decimali $p = 0{,}p_1 p_2 p_3 \ldots$ e $q = 0{,}q_1 q_2 q_3 \ldots$, sia possibile costruire un numero irrazionale $\alpha = 0{,}a_1 a_2 a_3 \ldots$ tale che per ogni $i = 1, 2, 3, \ldots$ abbiamo $a_i = p_i$ o $a_i = q_i$.
+> 
+> b) dimostrare che esiste un $s = 0{,}s_1 s_2 s_3 \ldots$ razionale e un $\beta = 0{,}b_1 b_2 b_3 \ldots$ irrazionale tale che per tutti $N \ge 2017$ il numero degli indici $1 \le i \le N$ per i quali $s_i \ne b_i$ è inferiore o uguale a $\frac{N}{2017}$.
+
+[[src_obm_2017_n3_f3__Q01]]

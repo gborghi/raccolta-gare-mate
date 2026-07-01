@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q12
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo lucchetti da aprire per 50 monete*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum locks to be opened for 50 coins
+
+> There are five suitcases in a trunk, each containing three drawers, each containing 10 gold coins. The trunks, suitcases and drawers are all locked. What's the minimum number of locks you need to open to get 50 gold coins? A) 5 B) 6 C) 7 D) 8 E) 9
+
+**Answer:** D
+[[src_kangourou_2005_benjamin__Q12]]

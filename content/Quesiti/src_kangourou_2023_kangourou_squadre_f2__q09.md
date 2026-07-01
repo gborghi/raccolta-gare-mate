@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre_f2__Q09
 parent: src_kangourou_2023_kangourou_squadre_f2
 competition: Kangourou Squadre 2023 Kangourou Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo k con 193k+9 quadrato perfetto*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0187
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum k with 193k+9 perfect square*
+
+> What is the smallest positive integer k such that the number 193 × k + 9 is a perfect square?
+
+**Answer:** 0187
+[[src_kangourou_2023_kangourou_squadre_f2__Q09]]

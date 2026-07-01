@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f3__Q01
 parent: src_obm_2001_n3_f3
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove an inequality between a product and a geometric-mean term for three positive reals*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i9yemBLDI7hxIseefnK_GZclyK4JXHSC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rimostra una disuguaglianza tra un prodotto e un termine geometrico-medio per tre valori reali positivi*
+
+> Prova che $(a+b)(a+c) \ge 2\sqrt{abc(a+b+c)}$ per qualsiasi numero reale positivo $a$, $b$ e $c$.
+
+[[src_obm_2001_n3_f3__Q01]]

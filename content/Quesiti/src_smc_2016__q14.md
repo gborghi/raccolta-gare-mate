@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2016 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2016__Q14
 parent: src_smc_2016
 competition: Senior Mathematical Challenge 2016
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which positive integer n is a counterexample to: 'if n is not prime then n − 2 is not prime'?*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quale numero intero positivo n è un controesempio di: 'se n non è primo allora n − 2 non è primo'?*
+
+> Quale dei seguenti valori del numero intero positivo $n$ è un contrasemplare dell'affermazione: "Se $n$ non è primo, allora $n - 2$ non è primo"?
+>
+> - **(A)** 6
+> - **(B)** 11
+> - **(C)** 27
+> - **(D)** 33
+> - **(E)** 51
+
+**Risposta:** D
+[[src_smc_2016__Q14]]

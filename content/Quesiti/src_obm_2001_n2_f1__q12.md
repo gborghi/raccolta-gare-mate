@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q12
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which statement is true for a 6-row 9-column board with 32 occupied cells*
 
@@ -55,3 +58,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Che dichiarazione è vera per una tabella a 9 colonne di 6 righe con 32 celle occupate*
+
+> Su una tabella rettangolare con righe $6$ e colonne $9$ sono occupate celle $32$. Possiamo affermare che:
+>
+> - **(A)** Tutte le colonne hanno almeno < MSK0/> cellule occupate.
+> - **(B)** Nessuna colonna ha più di $3$ cellule occupate.
+> - **(C)** Una colonna non ha cellule occupate.
+> - **(D)** Alcune righe hanno cellule occupate almeno $6$.
+> - **(E)** Tutte le righe hanno cellule occupate < MSK0/>.
+
+**Risposta:** D
+[[src_obm_2001_n2_f1__Q12]]

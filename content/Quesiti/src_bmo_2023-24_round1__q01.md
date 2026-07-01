@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2023-24 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2023-24_round1__Q01
 parent: src_bmo_2023-24_round1
 competition: British Mathematical Olympiad 2023-24 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count spellings of OLYMPIADS from unreliable typist*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Conteggio delle ortografie di OLYMPIADS da tipografo poco affidabile< MSK1/>
+
+> Un tipografo poco affidabile può garantire che quando cerca di digitare una parola con lettere diverse, ogni lettera della parola apparirà esattamente una volta in quello che digitano, e ogni lettera si verificherà al massimo una lettera in ritardo (anche se può verificarsi più di una lettera in anticipo). Pertanto, quando si tenta di digitare MATHS, il typista può digitare MATHS, MTAHS o TMASH, ma non ATMSH.
+> 
+> Determinare, con la prova, il numero di possibili ortografie di OLYMPIADS che potrebbero essere digitate.
+
+[[src_bmo_2023-24_round1__Q01]]

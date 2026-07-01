@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2010 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2010__Q02
 parent: src_bocconi_rosi_2010
 competition: Giochi di Rosi 2010
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tre batteristi suonano insieme ogni periodo diverso*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Tra 12 secondi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pwjn1M0F1YSZ60SMZmZPXENHZGd98Xmt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three drummers play together every different time*
+
+> The three drummers of the musical complex are playing their instruments simultaneously at this time.
+> 
+> In how many seconds do we hear them again at the same time for the first time, knowing that the first musician beats his drum every second, the second every second, and the third every second?
+
+**Answer:** Tra 12 secondi
+[[src_bocconi_rosi_2010__Q02]]

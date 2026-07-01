@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q05
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *percentuale ombreggiata*
 
@@ -70,3 +73,17 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>shaded percentage< MSK1/>
+
+![[src_kangourou_2023_junior__prob5.png]]
+
+> The Quadrupol company logo is the one in the figure, where each side of a square is parallel to one side of the other. The side of the large square measures 10, the side of the small square measures 4. What percentage of the logo is shaded? A) 35,5 % B) 38 % C) 40 % D) 42 % E) 45 % 1 2 3 4 5 6 7 8 9 10 11 12 1 5 t v t v t v t v t v
+>
+
+**Answer:** D
+[[src_kangourou_2023_junior__Q05]]

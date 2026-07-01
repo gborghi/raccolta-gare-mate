@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q26
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti usano la strada indicata*
 
@@ -65,3 +68,21 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*who use the road indicated*
+
+![[src_kangourou_2023_cadet__prob26.png]]
+
+> Some mice live in three adjacent houses connected by two-to-two roads. Last night, each mouse left its home and went to one of the other two, always taking the shortest route. The figures in the design show how many mice there were yesterday and how many there are today in each house. How many mice have taken the path indicated by the arrow? A) 11
+> 	
+> B) 12
+> 	
+> C) 13 D) 14 E) 15 15 cm/min 5 cm/min 20 cm/min 8 7 5 6 10 4 yesterday today
+>
+
+**Answer:** A
+[[src_kangourou_2023_cadet__Q26]]

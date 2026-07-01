@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1994 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1994__Q07
 parent: src_rmo_1994
 competition: Regional Mathematical Olympiad 1994
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count rationals m/n with 0 < m/n < 1, gcd(m,n)=1, mn = 25!*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i razionali m/n con 0 < m/n < 1, gcd(m,n) = 1, mn = 25!*
+
+> Trova il numero di tutti i numeri razionali $m/n$ in modo tale che (a) $0 < m/n < 1$, (b) $m$ e $n$ siano relativamente primi, (c) $mn = 25!$.
+
+[[src_rmo_1994__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_ecolier__Q14
 parent: src_kangourou_2001_ecolier
 competition: Kangourou 2001 - Ecolier (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti francobolli ha Arturo in piu*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many more stamps does Arthur have?
+
+> Adam and Arthur collect stamps. At some point they have the same number of stamps. Then Adam gives Arthur half his collection for his birthday. At this point, Arthur has more stamps than Adam. Exactly, how much more?
+>
+> - **(A)** The double
+> - **(B)** the triple
+> - **(C)** the quadruple
+> - **(D)** the fifth
+> - **(E)** It depends on the number of stamps each holds.
+
+**Answer:** B
+[[src_kangourou_2001_ecolier__Q14]]

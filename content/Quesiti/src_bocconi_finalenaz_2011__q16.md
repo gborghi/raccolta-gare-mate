@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2011 — Quesito
   16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2011__Q16
 parent: src_bocconi_finalenaz_2011
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2011
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età del professor Renato dalla successione di Fibonacci*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Il prof. Renato ha 88 anni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Professor Renato's age from the Fibonacci sequence
+
+> Professor Renato has children and grandchildren and to colleagues invited to the party for his birthday he specified: The age of my children and grandchildren, among whom there are no parental relations, belongs to the Fibonacci sequence: $1, 2, 3, 5, 8, 13, \ldots$ starting from the third term, each term is the sum of the previous two. Furthermore, my age is equal to the sum of the ages of my children and grandchildren.
+> 
+> Similarly, Nardo, who knew Professor Renato's age but not that of his family members, then intervenes to declare: Then I already fed our grandchildren!
+> 
+> How old is Professor Renato?
+
+**Answer:** Il prof. Renato ha 88 anni
+[[src_bocconi_finalenaz_2011__Q16]]

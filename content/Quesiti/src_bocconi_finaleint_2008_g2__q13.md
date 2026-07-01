@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 2) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g2__Q13
 parent: src_bocconi_finaleint_2008_g2
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di cifre del numero di previdenza sociale con coppie consecutive diverse, mai prime né quadrati.*
 
@@ -52,3 +55,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 18 cifre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of digits of the social security number with different consecutive pairs, never prime or square.*
+
+> Math-Pays Social Security wants to give Sissi a number. It is the largest possible number such that the numbers consisting of two consecutive digits: $\bullet$ are all different from each other; $\bullet$ never form prime numbers or squares. Remember the prime numbers and the two-digit squares: $11,\ 13,\ 16,\ 17,\ 19,\ 23,\ 25,\ 29,\ 31,\ 36,\ 37,\ 41,\ 43,\ 47,\ 49,\ 53,\ 59,\ 61,\ 64,\ 67,\ 71,\ 73,\ 79,\ 81,\ 83,\ 89$ and $97$. What's the number of digits in the number?
+
+**Answer:** 18 cifre
+[[src_bocconi_finaleint_2008_g2__Q13]]

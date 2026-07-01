@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q27
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio laser in triangolo equilatero, distanza PA*
 
@@ -55,3 +58,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Laser beam in an equilateral triangle, distance PA< MSK1/>
+
+![[src_kangourou_2022_student__prob27.png]]
+
+> The ABC triangle in the figure is equilateral on side 60. A laser beam enters from a hole in the point R on the AC side, 20 distant from the top of A, with an inclination such as follows: the beam meets the side AB at the point P, reflects itself in accordance with the law of reflection on the point Q of the side BC and, always by reflection, exits the triangle by passing back from the point R, from where B Q C entered. How far is P from A ? A) 21
+>   
+> B) 24
+>   
+> C) 25 D) 27 E) 28
+
+**Answer:** C
+[[src_kangourou_2022_student__Q27]]

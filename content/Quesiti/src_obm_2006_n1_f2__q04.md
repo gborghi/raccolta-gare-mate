@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f2__Q04
 parent: src_obm_2006_n1_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perimeter of original cardboard before diagonal cuts yielding perimeter 129*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1srmyb0DAUnIq9SKYuIOrk5cCPzS2K6he/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Perimetro del cartone originale prima dei tagli diagonali con il perimetro 129*
+
+> Un foglio di cartone rettangolare è tagliato lungo la sua diagonale. Dai pezzi rimanenti, due triangoli rettangolari sono formati da tagli paralleli ai lati più brevi di ciascun triangolo. Alla fine rimane un rettangolo con perimetro $129\,\text{cm}$. La figura seguente mostra la sequenza dei tagli.
+> 
+> In centimetri, qual è il perimetro del foglio originale prima dei tagli?
+
+![[src_obm_2006_n1_f2__Q04.png]]
+
+[[src_obm_2006_n1_f2__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Ecolier (gara marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier__Q09
 parent: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale figura ha l'area piu grande*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which figure has the largest area*
+
+![[src_kangourou_2011_ecolier__prob9.png]]
+
+> Which of the following figures has the largest area?
+
+**Answer:** C
+[[src_kangourou_2011_ecolier__Q09]]

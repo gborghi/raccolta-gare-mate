@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2023 - VI Finale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_femminile__Q11
 parent: src_squadre_2023_femminile
 competition: Gara a Squadre Femminile 2023 - VI Finale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di riempire schema con disuguaglianze 6 numeri 1-9*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0336
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode of filling out the schema with inequalities 6 numbers 1-9*
+
+![[src_squadre_2023_femminile__prob11.png]]
+
+> Since Krull does not read the story of the good night, Gaetana writes on the board the squares of the natural numbers n from 10 to 2023 (so he writes 100,121,...,4092529). Later, Agnes deletes the last three digits (units, tens, and hundreds) of each written number. So Mary rolls over their covers and looking at the numbers that are left, she wonders, how many natural numbers between 1 and 4092 are missing on the board? Part Two: Implementation
+
+**Answer:** 0336
+[[src_squadre_2023_femminile__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior finale individuale — Quesito J2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_finale__QJ2
 parent: src_kangourou_2022_junior_finale
 competition: Kangourou 2022 Junior finale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio del cerchio interno alle tre circonferenze*
 
@@ -51,3 +54,27 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1 - 1/raddt3
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nc-josfBQrvIVQaZGTW6I82lQMtWKEjA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rage of the inner circle at three circumferences*
+
+![[src_kangourou_2022_junior_finale__probJ2.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) circle (1);
+  \draw (2,0) circle (1);
+  \draw (1,1.732) circle (1);
+  \draw (1,0.5774) circle (0.1547);
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure you can see three radius circles < MSK0/>, each passing through the centre of the other two, and a smaller circle contained in each of the three and tangent to them internally. How much is the radius of the latter? (see figure)
+
+**Answer:** 1 - 1/raddt3
+[[src_kangourou_2022_junior_finale__QJ2]]

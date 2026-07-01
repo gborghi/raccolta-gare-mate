@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2021__Q05
 parent: src_tfjm_2021
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021
@@ -41,6 +42,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Feudal lords own castles in a kingdom; influence zones via nearest-point regions; sworn enemies and Machiavellian lords; analyze configurations across segment/disc/square kingdoms*
 
@@ -87,3 +90,47 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_SfCnSHm4hFbj_TGxa2GoahJiFYpdibk/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I signori feudali possedono castelli in un regno; zone d'influenza attraverso le regioni più vicine; nemici giurati e signori machiavelli; analizzano le configurazioni tra regni segmento/disco/quadrato*
+
+> Nel Medioevo, i signori condividevano il controllo su alcuni regni.
+> 
+> Il regno del Cile è rappresentato da un segmento di lunghezza $1$, e ogni signore $s$ ha un castello che è un punto $c_s$ di questo segmento. Due signori non possono avere il loro castello nello stesso punto. La zona d'influenza del signore $s$ è composta da tutti i punti $x$ del regno che sono strettamente più vicini a $c_s$ che a qualsiasi altro castello. La potenza $p_s$ di un signore è la lunghezza della sua zona di influenza.
+> 
+> La figura 5 illustra una possibile distribuzione dei signori $4$ nel regno del Cile. La zona d'influenza di lord $s_1$ è il segmento blu.
+> 
+> Lasciate che sia un signore. Per un altro signore $s$, scrivete $a(t,s)$ per il potere che $t$ avrebbe se il signore $s$ fosse rimosso dal regno. Noi diciamo che MSK5/> è un nemico giurato di MSK6/> se, per ogni altro signore $s'$, $a(t,s) \ge a(t,s')$. Un signore può avere diversi nemici giurati.
+> 
+> Ad esempio, nella distribuzione illustrata nella figura 5, il signore $s_1$ ha giurato nemico $s_2$, $s_2$ ha giurato nemico $s_1$, $s_3$ ha giurato nemico $s_2$ e $s_4$ ha giurato nemico $s_3$.
+> 
+> Si dice che un signore sia machiavelliano se ha il più grande potere tra tutti i signori, ma senza essere un nemico giurato di nessun signore.
+> 
+> Quali sono tutti gli integri $n \ge 2$ in modo che, con i signori $n$ nel regno del Cile, ci possa essere un signore machiavelliano?
+> 
+> Non lontano dal regno del Cile, altri due regni sono condivisi allo stesso modo: il regno dell'Uruguay, sotto forma di disco, e il regno del Suriname, sotto forma di quadrato. In questi due regni (a parte il Cile), la zona di influenza di un signore $s$ con castello al punto $c_s$ è l'insieme di tutti i punti $x$ che sono strettamente più vicini a $c_s$ che a qualsiasi altro castello. La potenza $p_s$ di un signore è l'area della sua zona di influenza. La nozione di signore machiavelliano è definita nello stesso modo in questo contesto.
+> 
+> La figura 6 illustra la possibile distribuzione dei signori nei regni. La zona d'influenza di lord $s$ è, in ogni caso, la zona blu.
+> 
+> Quali sono tutti gli enti $n$ in modo che, con $n$ signori nel regno dell'Uruguay, ci possa essere un signore machiavelliano? E nel regno del Surinam?
+> 
+> Si dice che un signore sia un vassallo se è un nemico giurato di tutti gli altri signori.
+> 
+> Per ciascuno dei tre regni, quali sono tutti i numeri interi $n \ge 2$ in modo che possa esserci una configurazione di $n$ machiavelli?
+> 
+> Diciamo che una configurazione di signori in un regno è $k$-equilibrata se ogni signore ha esattamente $k$ nemici giurati, e ogni signore è il nemico giurato di esattamente $k$ signori.
+> 
+> **(5) ** Per ciascuno dei tre regni, quali sono i numeri interi $k \ge 1$ in modo che esista una configurazione $k$-equilibrata?
+> 
+> Per ciascuno dei tre regni, quali sono i numeri interi $n \ge 2$ in modo tale che esista una configurazione di signori $n$ in cui nessun paio di signori sono nemici giurati l'uno dell'altro?
+> 
+> **(7) ** Fissa il numero $n \ge 2$ di signori e, per ogni signore $s$, un insieme $E_s$ di altri signori. Per ciascuno dei tre regni, determinare per quali assegnazioni $E_s$ esiste una configurazione per la quale i nemici giurati di $s$ sono esattamente gli elementi di $E_s$.
+> 
+> **(8) ** Proporre e esplorare altre direzioni di ricerca; può essere utile, ad esempio, continuare a studiare questi tre regni, o determinare se esistono altri regni con proprietà interessanti rispetto alle domande precedenti.
+
+![[src_tfjm_2021__Q05.png]]
+
+[[src_tfjm_2021__Q05]]

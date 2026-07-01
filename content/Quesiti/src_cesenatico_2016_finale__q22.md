@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q22
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *p(p(x))=p(x)^40+x^80+q(x)*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0042
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*p(p(x))=p(x)^40+x^80+q(x)*
+
+> Starkilling Station is ready to cut down the Resistance base on DHaar into a thousand pieces. The fire procedure was initiated well in advance to avoid last minute inconvenience, such as a surprise attack that exploits the station's weak point. When he gives the order, however, General Hooke realizes that the confirmation code was saved on the computer destroyed by Maklo Rin at a later time. Fortunately, remember how to calculate it: this code is equal to the minimum possible degree of a polynomial q(x) so there is a polynomial p(x) that satisfies the relation p(p(x)) = p(x) 40 +x80 +q(x; both polynomials must be non-zero and have real coefficients. What's the confirmation code?
+> 
+> 4/5 Team competition 2016  National final  Problem texts
+
+**Answer:** 0042
+[[src_cesenatico_2016_finale__Q22]]

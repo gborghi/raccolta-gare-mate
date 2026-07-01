@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q16
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Difference in initial amounts of Paulo and Cezar ending both with R\$18*
 
@@ -49,3 +52,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Differenza di importi iniziali di Paulo e Cezar che terminano entrambi con R\$18*
+
+> Paulo e Cezar hanno dei soldi. Paulo dà a Cezar 18 dollari. La differenza tra gli importi che ciascuna aveva inizialmente è:
+> 
+> (A) R\$$7{,}00$ \quad (B) R\$$8{,}00$ \quad (C) R\$$9{,}00$ \quad (D) R\$$10{,}00$ \quad (E) R\$$11{,}00$
+
+**Risposta:** B
+[[src_obm_2001_n2_f1__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q04
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma terne eta <=25 non coprime a due a due*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0560
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Term sum <=25 not covered by two to two*
+
+> Wet top, you unlucky mouse! Sadly, Root's disaster came to a head: First she grew too big and started crying, then she became tiny, losing her ampoule and her pill. Swimming in the lake formed by his own tears, he encounters a Logical Top. To start a conversation, Root starts telling him about his adorable little Diny. He'd never done that! In fact, the three brothers of the Logical Top were killed by a cat. The Logical Top is so upset that he can only remember that when they died they were not more than 25 years old and that their ages, taken from two to two, were not covered, but considered all three together were. Root, then, to ask forgiveness, writes all the possible (unordered) age trunks on a sheet. What is the sum of all the numbers written by Root? Two integers are called covers if they have no common divisors greater than 1.
+
+**Answer:** 0560
+[[src_cesenatico_2013_finale__Q04]]

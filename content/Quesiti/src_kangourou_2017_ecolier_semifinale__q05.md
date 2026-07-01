@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q05
 parent: src_kangourou_2017_ecolier_semifinale
 competition: Kangourou 2017 Ecolier - Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Maggior differenza tra due tiri di freccette*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most difference between two arrows< MSK1/>
+
+> Five girls play arrows: each arrows two arrows at the same target composed of ten regions of different values, from 1 to 10. Every shot hits the target and an arrow falls in every region. By the end of the game, Ada has a total of 11 points, Bea has 4, Camilla has 7, Doris has 16, and Eva has 17. Which of the five made the two shots with the most points difference? I 'm going to tell you something .
+
+**Answer:** D
+[[src_kangourou_2017_ecolier_semifinale__Q05]]

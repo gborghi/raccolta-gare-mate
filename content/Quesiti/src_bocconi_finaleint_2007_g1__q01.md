@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 1) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g1__Q01
 parent: src_bocconi_finaleint_2007_g1
 competition: >-
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Indovinello logico: animale piu vecchio tra cane, criceto e gatto*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Il mio gatto
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Logical riddle: the oldest animal of dogs, crickets and cats
+
+> My dog is older than my hamster, and my hamster is younger than my cat, who is in turn older than my dog. Which animal is the oldest?
+
+**Answer:** Il mio gatto
+[[src_bocconi_finaleint_2007_g1__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1974-75 — Round 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1974-75_round1__Q08
 parent: src_bmo_1974-75_round1
 competition: British Mathematical Olympiad 1974-75 — Round 1
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fraction of conical wine glass occupied by water when tilted*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDmSu0Uk3UVcyIxeAuO2e7yunqEoXRZY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Fraczione di vetro di vino conico occupato dall'acqua quando inclinato< MSK1/>
+
+> L'interno di un bicchiere di vino è un cono a destra circolare. Il bicchiere è a metà riempito di acqua e poi lentamente inclinato in modo che l'acqua inizi e continui a scorrere da un punto $P$ sul bordo. Quale frazione dell'intero interno conico è occupata dall'acqua quando il piano orizzontale del livello dell'acqua divide il generatore del cono più lontano da $P$?
+
+[[src_bmo_1974-75_round1__Q08]]

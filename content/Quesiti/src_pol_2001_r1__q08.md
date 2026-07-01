@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2001 — Round 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2001_r1__Q08
 parent: src_pol_2001_r1
 competition: Olimpiade Matematica Polacca 2001 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For which m,n can an m x n rectangle be cut into congruent copies of a given L-piece.*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w-_EBjDoXaaXOhizK74B8btnGAV4E9MM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per il quale m,n può essere tagliato un rettangolo m x n in copie congruenti di un dato pezzo L.*
+
+> Per quali integri positivi $m, n$ il rettangolo $m \times n$ può essere tagliato in pezzi congruenti al pezzo mostrato nella figura?
+
+![[src_pol_2001_r1__Q08.png]]
+
+[[src_pol_2001_r1__Q08]]

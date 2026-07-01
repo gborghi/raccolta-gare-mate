@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q13
 parent: src_kangourou_2020_student_marzo
 competition: Kangourou 2020 Student - gara marzo (triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Litri di vernice per la struttura di parallelepipedi*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Litrate of paint for the structure of parallel pipes*
+
+![[src_kangourou_2020_student_marzo__prob13.png]]
+
+> Four identical parallel pipes are glued together to get the structure you see in the figure. To paint the entire exterior of a single parallel piped would require 1 litre of paint. How many litres of paint are needed to paint the entire exterior of the structure? A) 2,5 B) 3
+> 	
+> C) 3,25 D) 3,5 E) 4
+
+**Answer:** B
+[[src_kangourou_2020_student_marzo__Q13]]

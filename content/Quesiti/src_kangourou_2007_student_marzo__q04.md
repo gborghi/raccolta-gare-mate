@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Student (marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q04
 parent: src_kangourou_2007_student_marzo
 competition: Kangourou 2007 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti divisori distinti ha 10^n*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many separate dividers has 10^n < MSK1/>
+
+> How many distinct divisors does 10n have, if you also count 1 and 10n itself? A) n2 + 2n + 1 B) n2 + n + 1 C) n2 - 2n + 1 D) n2 + n E) n2 + 2n
+
+**Answer:** A
+[[src_kangourou_2007_student_marzo__Q04]]

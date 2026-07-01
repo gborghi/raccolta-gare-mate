@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_n2_fx__Q05
 parent: src_obm_2024_n2_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Esmeralda's iterated quadratic equations with distinct positive integer roots*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IF2AhS-oyKoh7_VN0FmjTtVwiNv_ZbJT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazioni quadratiche iterate di Esmeralda con radici di numeri interi positivi distinti*
+
+> Esmeralda sceglie due numeri interi positivi distinti $a$ e $b$, con $a > b$, e scrive l'equazione $x^2 - ax + b = 0$ sulla lavagna. Se l'equazione ha radici di numeri interi positivi distinte $c$ e $d$, con $c > d$, scrive poi l'equazione $x^2 - cx + d = 0$ sulla lavagna. Essa ripete questa procedura finché continua a ottenere radici di numeri interi positivi distinte. Se scrive un'equazione per la quale questo non accade, si ferma.
+> 
+> (a) Mostrare che Esmeralda può scegliere $a$ e $b$ in modo tale da scrivere esattamente $2024$ equazioni sulla lavagna.
+> 
+> b) Qual è il maggior numero di equazioni che può scrivere sapendo che uno dei numeri che ha inizialmente scelto è $2024$?
+
+[[src_obm_2024_n2_fx__Q05]]

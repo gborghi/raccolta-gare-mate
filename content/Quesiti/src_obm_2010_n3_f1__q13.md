@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q13
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC with angle BAC=140; M midpoint of BC, P on AC with MP perpendicular to AC; find an angle.*
 
@@ -51,3 +54,21 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC con angolo BAC=140; M punto medio di BC, P su AC con MP perpendicolare a AC; trovare un angolo.*
+
+> In triangolo $ABC$, $m(B\hat{A}C)=140^\circ$. Con $M$ il punto medio di $BC$ e $P$ un punto sul lato $AC$ tale che $MP$ sia perpendicolare a $AC$, qual è la misura dell'angolo $N\hat{M}P$?
+>
+> - **(A)** $40^\circ$
+> - **(B)** $50^\circ$
+> - **(C)** $70^\circ$
+> - **(D)** $90^\circ$
+> - **(E)** $100^\circ$
+
+![[src_obm_2010_n3_f1__Q13.png]]
+
+[[src_obm_2010_n3_f1__Q13]]

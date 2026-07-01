@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_2livello__Q06
 parent: src_archimede_2018_2livello
 competition: Archimede Gara di Febbraio 2018 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cavalieri e furfanti in fila, parità affermazioni*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Knights and thieves in line, equal claims*
+
+> In the village of Asip all the inhabitants belong to one of the following two groups: the Knights, who always tell the truth, and the Sphinx, who always lie. Today, for the annual census, the Great Notary has arrived from the capital and all the inhabitants line up in front of him. Each of them declares: The number of those who do not belong to my group and are in line before me is equal. In addition to this, the first three inhabitants in the line affirm, in order, the following: In the village there are 999 inhabitants, The Knights are exactly 666, There are at least three Snatchers in Asip. How many knights are there in Asip?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 501
+> - **(D)** 666
+> - **(E)** 997
+
+**Answer:** E
+[[src_archimede_2018_2livello__Q06]]

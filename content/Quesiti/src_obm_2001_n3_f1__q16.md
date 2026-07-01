@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f1__Q16
 parent: src_obm_2001_n3_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangular table (2a < b) pushed through a right-angle corridor; minimum corridor width*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tavola rettangolare (2a < b) spinta attraverso un corridoio angolare rettangolare; larghezza minima del corridoio*
+
+> Un tavolo rettangolare, i cui piedi hanno ruote, deve essere spinto attraverso un corridoio di larghezza costante che forma un angolo retto. Se le dimensioni del tavolo sono $a$ e $b$ (con $2a < b$), quale deve essere la larghezza minima del corridoio in modo che il tavolo possa essere spinto attraverso di esso?
+> 
+> **A)** $a + b$ $\quad$ **B)** $(a + b)\,\dfrac{\sqrt{2}}{2}$ $\quad$ **C)** $(a + b)\,\dfrac{\sqrt{2}}{4}$ $\quad$ **D)** $(2a + b)\,\dfrac{\sqrt{2}}{4}$ $\quad$ **E)** $(a + 2b)\,\dfrac{\sqrt{2}}{4}$
+
+![[src_obm_2001_n3_f1__Q16.png]]
+
+**Risposta:** D
+[[src_obm_2001_n3_f1__Q16]]

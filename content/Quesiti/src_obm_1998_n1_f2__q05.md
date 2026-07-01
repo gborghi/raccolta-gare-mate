@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f2__Q05
 parent: src_obm_1998_n1_f2
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Game with 20 balls on table: which player wins?*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** The first player wins.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Gioco con 20 palle sul tavolo: quale giocatore vince?
+
+> Ci sono 20 palle su un tavolo e due bambini si alternano a mangiarle, un bambino alla volta. In ogni turno, un bambino deve mangiare almeno una palla ma è vietato mangiare più della metà delle palle attualmente sul tavolo. In questo gioco, il bambino che è costretto a mangiare l'ultima palla perde. Determinare quale bambino vinca il primo o il secondo e descrivere una strategia vincente.
+
+**Risposta:** The first player wins.
+[[src_obm_1998_n1_f2__Q05]]

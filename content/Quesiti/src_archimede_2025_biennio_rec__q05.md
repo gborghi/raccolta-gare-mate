@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_biennio_rec__Q05
 parent: src_archimede_2025_biennio_rec
 competition: Giochi di Archimede 2025 - Biennio (prova di riserva)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale espressione è certamente dispari*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which expression is certainly odd*
+
+> If n is any integer, which of the following is certainly odd?
+>
+> - **(A)** 7n3+34
+> - **(B)** 5n4+35
+> - **(C)** 7n3+45
+> - **(D)** 5n4+84
+> - **(E)** 8n3+75
+
+**Answer:** E
+[[src_archimede_2025_biennio_rec__Q05]]

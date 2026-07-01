@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2007 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2007__Q05
 parent: src_cn_csmo_2007
 competition: China Southeastern Mathematical Olympiad 2007
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate a sum of floor values of a minimized expression over k*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare la somma dei valori del pavimento di un'espressione minimizzata su k*
+
+> Supponiamo $a_n = \min\left\{k + \frac{n+1}{k} \mid k \in \mathbb{N}^*\right\}$, troviamo il valore di $S_{n^2} = [a_1] + [a_2] + \cdots + [a_{n^2}]$, dove $n \ge 2$, e $[x]$ denota il numero intero più grande inferiore o uguale a $x$.
+
+**Risposta:** $S_{n^2} = 4m^2 + 3m + 1$
+[[src_cn_csmo_2007__Q05]]

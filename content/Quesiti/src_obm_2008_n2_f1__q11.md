@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f1__Q11
 parent: src_obm_2008_n2_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length MN from feet of perpendiculars, orthic triangle perimeter 10*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza MN a partire da piedi perpendicolari, perimetro triangolo ortico 10*
+
+> Nel triangolo $ABC$ si disegna l'altitudine $AH$. I punti $M$ e $N$ siano ponti sui lati $AB$ e $AC$, rispettivamente, in modo tale che $HM$ sia perpendicolare a $AB$ e $HN$ sia perpendicolare a $AC$. Trova $MN$, sapendo che il perimetro del triangolo ortico del triangolo $ABC$ è uguale a $10$.
+> 
+> \textit{Osservazione:} Il triangolo ortico di un triangolo è il triangolo le cui vertici sono le intersezioni delle altitudini del triangolo con i rispettivi lati. Si può dimostrare che le altitudini di qualsiasi triangolo sono sempre i bisettori del suo triangolo ortico (l'ortocentro è il punto di incontro delle altitudini del triangolo originale). (A) $5$ \quad (B) $6$ \quad (C) $7$ \quad (D) $8$ \quad (E) $9$
+
+[[src_obm_2008_n2_f1__Q11]]

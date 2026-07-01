@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q18
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count of axis-parallel squares in a 4x2012 grid generalizing 4x4 case*
 
@@ -50,3 +53,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conto dei quadrati paralleli all'asse in una griglia 4x2012 che generalizza il caso 4x4*
+
+> Renan disegnò una tavola $4 \times 4$, come mostrato nella figura di seguito, e contò tutti i quadrati con lati paralleli ai lati della tavola, con vertici scelti tra i vertici dei piccoli quadrati della tavola, e ottenne i quadrati $30$. Che numero avrebbe ottenuto Renan se avesse fatto lo stesso con una lavagna $4 \times 2012$?
+> 
+> A) 30180 \quad B) 32175 \quad C) 20110 \quad D) 25190 \quad E) 8048
+
+[[src_obm_2012_n2_f1__Q18]]

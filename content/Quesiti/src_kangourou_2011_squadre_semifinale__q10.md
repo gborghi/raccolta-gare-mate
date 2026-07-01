@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre semifinale turno A — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q10
 parent: src_kangourou_2011_squadre_semifinale
 competition: Kangourou 2011 squadre semifinale turno A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero al posto 2009 in unione due progressioni*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5220
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in place 2009 in two successions together*
+
+> Two progressions Consider the sets of positive integers A ={0, 3, 6, 9, ...} (arithmetic progression of reason 3 starting from 0) and B = {0, 13, 26, 39, ...} (arithmetic progression of reason 13 starting from 0). Consider now the set A ∪ B and arrange its elements in ascending order (i.e. A ∪ B = {0, 3, 6, 9, 12, 13, 15, ...}. What number occupies the 2009 position in A ∪ B?
+
+**Answer:** 5220
+[[src_kangourou_2011_squadre_semifinale__Q10]]

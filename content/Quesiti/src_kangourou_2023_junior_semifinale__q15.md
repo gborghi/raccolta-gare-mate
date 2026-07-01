@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Junior 2023 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_semifinale__Q15
 parent: src_kangourou_2023_junior_semifinale
 competition: Kangourou Semifinale individuale Junior 2023
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di A-B con somme di quadrati e prodotti consecutivi*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rq1gJ31P8DKnidln7hHYAxiIyAQN3F0c/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A-B value with sums of squares and consecutive products*
+
+> (Points 6) Whether A is the sum of the squares of all positive integers from 1 to 2,023 included and whether B = (1 < MSK0/> 3) + (2 < MSK1/> 4) + (3 < MSK2/> 5) + ... + (2.022 < MSK3/> 2.024). How much is A  B?
+
+[[src_kangourou_2023_junior_semifinale__Q15]]

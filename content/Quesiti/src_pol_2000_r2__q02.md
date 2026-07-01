@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2000 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2000_r2__Q02
 parent: src_pol_2000_r2
 competition: Olimpiade Matematica Polacca 2000 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In triangle ABC the bisector of angle BAC meets the circumcircle at D; K and L are projections of B and C onto line AC; show AD >= BK+CL.*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1M8ROmEjFOc71e2VL3ctjR70wj7gR0qKt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nel triangolo ABC il bisettore dell'angolo BAC incontra il circoncircolo a D; K e L sono proiezioni di B e C sulla linea AC; mostrare AD >= BK+CL.*
+
+> Nel triangolo $ABC$ il bisettore dell'angolo $\angle BAC$ incontra il circoncircolo di $\triangle ABC$ al punto $D \neq A$. Se $K$ e $L$ sono rispettivamente le proiezioni di $B$ e $C$ sulla linea $AC$, indicare che $AD \ge BK + CL$.
+
+[[src_pol_2000_r2__Q02]]

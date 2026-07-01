@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q22
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -35,6 +36,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three girls, four stories; count valid like arrangements; find sum of squares of digits of n*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre ragazze, quattro piani; contare validi come accordi; trovare la somma dei quadrati di numeri di n*
+
+> Tre ragazze $G_1, G_2, G_3$, ognuna legge quattro storie $S_1, S_2, S_3, S_4$ e discute quali le piacciono. Nessuna storia piace a tutti e tre. Per ciascuna delle tre coppie di ragazze, c'è almeno una storia che piace alla coppia e non piace alla terza. $n$ sia il numero di modi in cui questo è possibile. Trova la somma dei quadrati delle cifre di $n$.
+
+[[src_ioqm_2025_sep28__Q22]]

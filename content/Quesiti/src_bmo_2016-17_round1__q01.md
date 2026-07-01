@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2016-17 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2016-17_round1__Q01
 parent: src_bmo_2016-17_round1
 competition: British Mathematical Olympiad 2016-17 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count odd digits in integers 1 to 2016*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Iu7Go4fJuQ3wicwoPBKyARAoXj-MZj3T/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare cifre odd nei numeri interi da 1 a 2016*
+
+> I numeri interi $1, 2, 3, \ldots, 2016$ sono scritti su una lavagna, ognuna apparendo esattamente una volta. Ciascuna delle cifre da $0$ a $9$ appare molte volte nell'elenco. Quante cifre della lista sono strane?
+
+[[src_bmo_2016-17_round1__Q01]]

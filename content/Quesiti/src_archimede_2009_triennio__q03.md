@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Triennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_triennio__Q03
 parent: src_archimede_2009_triennio
 competition: Giochi di Archimede 2009 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anno in cui somma eta figli Greta supera quella di Eva*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Year in which Greta's total of children exceeds that of Eva
+
+> On Venus, in the Venusian year 33, Eva and Greta meet in the gardens. Eve says to Greta, "I only have 153 children, but at the end of this year their ages will be more than 100 years older than your children's ages, which are also 180!" During what Venusian year will the sum of the ages of Greta's children exceed that of Eve's children?
+>
+> - **(A)** 37,
+> - **(B)** 38,
+> - **(C)** 39,
+> - **(D)** 40,
+> - **(E)** 41.
+
+**Answer:** A
+[[src_archimede_2009_triennio__Q03]]

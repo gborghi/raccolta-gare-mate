@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2025 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_printemps__Q15
 parent: src_canimath_2025_printemps
 competition: Coupe Animath Printemps 2025
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min spies on 2025x2025 grid to identify any 1025x1025 sub-square*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Min spioni sulla griglia 2025x2025 per identificare eventuali sub-quadrati 1025x1025*
+
+> Martin colloca gli spioni in alcune cellule di una griglia $2025 \times 2025$ (che ha cellule $2025^2$). Aurélien sceglie un quadrato $1025 \times 1025$ all'interno della griglia (composto da cellule $1025^2$) e dice a Martin esattamente quali spie sono nella quadrata che ha scelto.
+> 
+> Qual è il numero minimo di spie che Martin deve mettere per poter sempre determinare quale quadrato Aurélien ha scelto?
+
+[[src_canimath_2025_printemps__Q15]]

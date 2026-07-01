@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f1__Q07
 parent: src_obm_2000_n2_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Shaded area inside rectangle of area 12*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area oscurata all'interno del rettangolo dell'area 12*
+
+> Se l'area del rettangolo mostrato è $12$, quale è l'area della figura ombrata?
+> 
+> A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $8$
+
+![[src_obm_2000_n2_f1__Q07.png]]
+
+**Risposta:** D
+[[src_obm_2000_n2_f1__Q07]]

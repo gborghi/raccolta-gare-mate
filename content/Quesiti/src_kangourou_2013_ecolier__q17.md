@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q17
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadrati piccoli per ricoprire il quadrato (annullato)*
 
@@ -45,3 +48,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Small squares to cover the square (cancelled) *
+
+> Draw a square, and then join the midpoints of its sides with straight lines. You get a smaller square in the center. Repeat the operation on this smaller square: you get an even smaller square in the center. You want to cover the square you first drew with squares identical to this last smaller square: how many squares do you need? A) 5
+>         	
+> B) 16
+>   	
+> C) 10 D) 8
+>     	
+> E) 32
+
+[[src_kangourou_2013_ecolier__Q17]]

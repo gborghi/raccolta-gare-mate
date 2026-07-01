@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f1__Q11
 parent: src_obm_2005_n3_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum number of edges of a polyhedron having a regular hexagon face*
 
@@ -46,3 +49,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero minimo di bordi di un poliedro con faccia esagonale regolare*
+
+> Una delle facce di un poliedro è un esagono regolare. Qual è la quantità minima di bordi che questo poliedro può avere? (A) $7$ (B) $9$ (C) $12$ (D) $15$ (E) $18$
+
+[[src_obm_2005_n3_f1__Q11]]

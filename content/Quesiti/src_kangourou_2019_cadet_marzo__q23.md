@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Cadet — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q23
 parent: src_kangourou_2019_cadet_marzo
 competition: Kangourou 2019 Gara di Marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di cannucce verdi nella griglia 3x3*
 
@@ -62,3 +65,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of green cane in the 3x3 grid< MSK1/>
+
+![[src_kangourou_2019_cadet_marzo__prob23.png]]
+
+> Lia has many canes, all of the same length but of four different colors, including green. With them, he wants to build a 3x3 grid like the one next to it, so that each cell is bounded by four different colored straws, but the green straws are the least possible. What's the smallest number of green strawberries you can use? A) 3
+> 	
+> B) 4
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 7 2 1 0 3 2 0 3
+>
+
+**Answer:** C
+[[src_kangourou_2019_cadet_marzo__Q23]]

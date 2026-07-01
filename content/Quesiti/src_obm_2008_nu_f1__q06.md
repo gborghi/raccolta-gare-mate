@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 1 —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_nu_f1__Q06
 parent: src_obm_2008_nu_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute limit of P_n P_{n+1}/n for a trigonometric sum sequence*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Limito di calcolo di P_n P_{n+1}/n per una sequenza di somma trigonometrica*
+
+> Let < MSK0/>. Calcolare $\displaystyle\lim_{n \to \infty} \frac{P_n P_{n+1}}{n}$.
+
+[[src_obm_2008_nu_f1__Q06]]

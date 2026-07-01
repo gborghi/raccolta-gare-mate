@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q03
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti soci PRISTEM praticano tutti e tre gli sport?*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many PRISTEM members practice all three sports?
+
+> The PRISTEM sports section has 50 members. Of these, 17 play volleyball, 23 play soccer, and 29 play tennis. However, eight of the members play tennis and volleyball at the same time, seven volleyball and soccer, six soccer and tennis.
+> 
+> How many members of the PRISTEM sports section do all three sports?
+
+**Answer:** 2
+[[src_bocconi_squadre_2010__Q03]]

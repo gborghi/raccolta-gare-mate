@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2002-03 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2002-03_round2__Q03
 parent: src_bmo_2002-03_round2
 competition: British Mathematical Olympiad 2002-03 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Permutation of positive integers and monotone arithmetic progressions*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p1kiV15r8QgVBORXkDGsuMLqEddZbRnF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Permutazione dei numeri interi positivi e delle progressioni aritmetiche monotone*
+
+> $f$ sia una permutazione dell'insieme $\mathbb{N}$ di tutti i numeri interi positivi.
+> 
+> (i) Mostra che vi è una progressione aritmetica di integri positivi $a, a+d, a+2d$ (dove $d > 0$) tale che $$f(a) < f(a+d) < f(a+2d).$$ (ii) Deve esserci una progressione aritmetica $a, a+d, a+2d, \ldots, a+2003d$ (dove $d > 0$) tale che $$f(a) < f(a+d) < f(a+2d) < \cdots < f(a+2003d)?$$
+
+[[src_bmo_2002-03_round2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2005-06 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2005-06_round1__Q04
 parent: src_bmo_2005-06_round1
 competition: British Mathematical Olympiad 2005-06 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Longest non-repeating cell route in triangulated equilateral triangle*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La più lunga rotta cellulare non ripetuta nel triangolo equilaterale triangolato*
+
+> Il triangolo equilaterale $ABC$ ha lati di lunghezza interi $N$. Il triangolo è completamente diviso (disegnando linee parallele ai lati del triangolo) in celle triangolari equilaterali di lunghezza laterale $1$.
+> 
+> Si sceglie un percorso continuo, che inizia all'interno della cella con vertice $A$ e attraversa sempre da una cella all'altra attraverso un bordo condiviso dalle due celle. Nessuna cellula viene visitata più di una volta. Trova, con la prova, il maggior numero di celle che possono essere visitate.
+
+[[src_bmo_2005-06_round1__Q04]]

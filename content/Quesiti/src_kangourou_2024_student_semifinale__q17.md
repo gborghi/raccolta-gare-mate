@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student semifinale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q17
 parent: src_kangourou_2024_student_semifinale
 competition: Kangourou 2024 Student semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo interi consecutivi la cui somma di cubi e 2024*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 11
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum consecutive integers whose cube sum and 2024*
+
+> (Points 7) Adding the cubes of some consecutive integers gives us a result of 2024. How many of these integers can be at most? The answer is 0011. The solution. A well-known theorem states that for every positive integer n, the sum of the cubes of the first positive integers coincides with the square of the sum of these first n integers. The sum of the first n positive integers is n  n + 1)/2: quickly finds then that 452 = 2025 is the sum of the cubes of the integers from 1 to 9. So 2024 is the sum of the cubes of integers 2 through 9, but also the cubes of integers 1 through 9. It is easy to see that this sequence of consecutive integers cannot be extended.
+
+**Answer:** 11
+[[src_kangourou_2024_student_semifinale__Q17]]

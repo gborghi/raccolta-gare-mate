@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q06
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate infinite sum of Fibonacci numbers divided by powers of 2*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare la somma infinita dei numeri di Fibonacci diviso per potenze di 2*
+
+> Nella sequenza di Fibonacci $1, 1, 2, 3, 5, 8, 13, 21, 34, 55, \ldots$, ogni termine dal terzo in poi è uguale alla somma dei due termini precedenti. Qual è il valore della somma infinita $$S = \frac{1}{2} + \frac{1}{4} + \frac{2}{8} + \frac{3}{16} + \frac{5}{32} + \frac{8}{64} + \frac{13}{128} + \frac{21}{256} + \frac{34}{512} + \frac{55}{1024} + \cdots,$$ dove il $n$-th termine è il $n$-th numero di Fibonacci diviso da $2^n$?
+> 
+> A) $3/2$ \quad B) $2$ \quad C) $5/2$ \quad D) $3$ \quad E) $\dfrac{1+\sqrt{5}}{2}$
+
+**Risposta:** B
+[[src_obm_2003_n3_f1__Q06]]

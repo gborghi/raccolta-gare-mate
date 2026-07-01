@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f2__Q03
 parent: src_obm_2010_n1_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ways to view a cube with three painted faces from visible sides*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Modi per visualizzare un cubo con tre facce dipinte dai lati visibili*
+
+> Soninha dipinse sei facce di un cubo nel modo seguente: una faccia preta (nera) e la faccia opposta vermelha (rosso), una faccia amarela (giallo) e la faccia opposta azzurra (blu), una faccia branca (bianca) e la faccia opposta verde (verde). Guardando il cubo in modo da vedere tre volti contemporaneamente, e considerando solo l'insieme di colori dei tre volti visibili, in quanti modi diversi si può vedere questo cubo?
+
+![[src_obm_2010_n1_f2__Q03.png]]
+
+**Risposta:** 4
+[[src_obm_2010_n1_f2__Q03]]

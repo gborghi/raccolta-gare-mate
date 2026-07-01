@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q01
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale rappresentazione*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* which representation*
+
+![[src_kangourou_2015_marzo_cadet__prob1.png]]
+
+> Looking at my umbrella from above, as shown in the figure next to it, you read the word KANGAROO. Which of the following figures may represent my umbrella?
+>      
+> A)
+>        	
+> B) C) D) E)
+
+**Answer:** B
+[[src_kangourou_2015_marzo_cadet__Q01]]

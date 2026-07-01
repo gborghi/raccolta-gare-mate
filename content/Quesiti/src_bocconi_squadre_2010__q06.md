@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q06
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di allineare 5 ragazzi con Alessandra e Ingrid non vicine*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 72
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How to align 5 boys with Alessandra and Ingrid not close
+
+> The group is made up of 5 boys: Alessandra, Donato, Giovanni, Ingrid and Michele.
+> 
+> How many ways can the five boys line up, sitting on a bench (right) so that Alessandra and Ingrid never get close?
+
+**Answer:** 72
+[[src_bocconi_squadre_2010__Q06]]

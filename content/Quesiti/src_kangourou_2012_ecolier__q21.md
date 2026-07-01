@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Ecolier (gara marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_ecolier__Q21
 parent: src_kangourou_2012_ecolier
 competition: Kangourou 2012 Ecolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale figura ritrae l’orologio alle 8 e 11*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What figure shows the clock at 8 and 11*
+
+![[src_kangourou_2012_ecolier__prob21.png]]
+
+> A clock has three different hands: it works properly, but we have not been told which hands indicate hours, minutes or seconds. The figure shows the clock at noon, 55 minutes and 30 seconds. What figure does the clock draw at 8 and 11 minutes? A) B) C) D) E)
+
+**Answer:** A
+[[src_kangourou_2012_ecolier__Q21]]

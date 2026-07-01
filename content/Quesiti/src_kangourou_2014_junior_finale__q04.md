@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale Junior — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior_finale__Q04
 parent: src_kangourou_2014_junior_finale
 competition: Kangourou 2014 finale Junior
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Strategie vincenti nel gioco delle due pile*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gsyU7EVfAmWfdKlyvCj0UIdYJSndEpVE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Winning strategies in the game of two batteries*
+
+> Consider the following game for two players playing in turns, drawing the first player. He leaves with two piles of coins. The player who is called to play discards one and breaks the remainder into two new piles (of at least one coin each). He loses who can't play anymore. Discuss the existence of winning strategies.
+
+[[src_kangourou_2014_junior_finale__Q04]]

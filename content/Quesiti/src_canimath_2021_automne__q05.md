@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2021 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_automne__Q05
 parent: src_canimath_2021_automne
 competition: Coupe Animath Automne 2021
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n has divisors a<b with n=a³+b; show n has a divisor d with a<d<b*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*n ha divisori a<b con n=a3+b; mostra n ha un divisore d con a<d<b*
+
+> Un intero positivo $n > 8$ ha due divisioni positive distinte $a$ e $b$, come $a < b$ e $n = a^3 + b$. Indicare che $n$ ha almeno un divisore $d$ tale da $a < d < b$.
+
+[[src_canimath_2021_automne__Q05]]

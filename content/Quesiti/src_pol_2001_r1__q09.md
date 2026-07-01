@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2001 — Round 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2001_r1__Q09
 parent: src_pol_2001_r1
 competition: Olimpiade Matematica Polacca 2001 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Among any 12 consecutive integers one cannot be written as a sum of ten fourth powers.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w-_EBjDoXaaXOhizK74B8btnGAV4E9MM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tra tutti i 12 numeri interi consecutivi uno non può essere scritto come la somma di dieci potenze quattordici.*
+
+> Prova che tra tutti i numeri interi $12$ consecutivi c'è uno che non può essere scritto come la somma di dieci potenze quattordici.
+
+[[src_pol_2001_r1__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Biennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_biennio__Q03
 parent: src_archimede_2010_biennio
 competition: Giochi di Archimede 2010 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza in linea retta cuccia-bar con angoli dati*
 
@@ -45,7 +48,7 @@ tags:
 > - **(B)** 100 √ 3 m,
 > - **(C)** 200 m,
 > - **(D)** 330 m,
-> - **(E)** 200 √ 3 m. A B C D
+> - **(E)** 200 √ 3 m.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance in a straight line between cage and bar with data angles*
+
+![[src_archimede_2010_biennio__prob3.png]]
+
+> The figure next to it represents Pluto's journey to his nest, placed in A, to the bar, placed in D. The three segments AB, BC and CD are 100 meters long each. If the angle d ABC (within the triangle ABC) is 120° and the angle d BCD (within the triangle BCD) is 60°, how far in a straight line is the bar from the puppy?
+>
+> - **(A)** 100 m,
+> - **(B)** 100 √ 3 m,
+> - **(C)** 200 m,
+> - **(D)** 330 m,
+> - **(E)** 200 √ 3 m.
+
+**Answer:** C
+[[src_archimede_2010_biennio__Q03]]

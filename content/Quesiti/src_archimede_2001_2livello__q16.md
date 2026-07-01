@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2001 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_2livello__Q16
 parent: src_archimede_2001_2livello
 competition: Archimede Gara 2º livello 2001
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dimostrare che il triangolo HMK è equilatero (angolo 60°)*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Demonstrate that the HMK triangle is equilateral (angle 60°) *
+
+> Whether ABC is a triangle such that the angle of ACB = < MSK0/>. Both M the midpoint of side AB and H and K are the feet of heights starting from B and A respectively. Prove that the HMK triangle is equilateral.
+
+[[src_archimede_2001_2livello__Q16]]

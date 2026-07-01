@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2009 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2009__Q13
 parent: src_bocconi_primavera_2009
 competition: Semifinale di Primavera 2009
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Separare le cifre di 987654321 per ottenere 100*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Il quesito ammette diverse risposte. Ad esempio: $98 - 76 + 54 + 3 + 21$ ma anche (sempre ad esempio) $9 + 8 + 76 + 5 - 4 + 3 + 2 + 1$.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14prakvd6EDcEQSfmnn_-6oGG4wcPui_K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Separate the numbers 987654321 to get 100*
+
+> If you properly separate the numbers of number 123456789 with some addition and subtraction marks, you can get the number 100. For example, it's 123-45-67 plus 89 is 100.
+> 
+> Can you do the same with the numbers 987654321?
+
+**Answer:** Il quesito ammette diverse risposte. Ad esempio: $98 - 76 + 54 + 3 + 21$ ma anche (sempre ad esempio) $9 + 8 + 76 + 5 - 4 + 3 + 2 + 1$.
+[[src_bocconi_primavera_2009__Q13]]

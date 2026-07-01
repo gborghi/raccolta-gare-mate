@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Junior Finale 2 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_squadre_f2__Q10
 parent: src_kangourou_2023_junior_squadre_f2
 competition: Kangourou Squadre 2023 Junior Finale 2
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minore di 6 consecutivi, prodotto forma data*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0074
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Fewer than 6 consecutive products in the given form< MSK1/>
+
+> Six consecutive integers The product of six consecutive positive integers is a 12-digit number of the form abb cdd cdd abb, where the digits a, b, c and d are, in appropriate order, consecutive digits. Which is the smallest of the six consecutive integers?
+
+**Answer:** 0074
+[[src_kangourou_2023_junior_squadre_f2__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2015 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2015_printemps__Q07
 parent: src_canimath_2015_printemps
 competition: Coupe Animath Printemps 2015
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n points on circle diameter n/pi; show no arc strictly longer than its enclosed point count*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*n punti sul diametro del cerchio n/pi; non mostrano arco strettamente più lungo del suo numero di punti chiusi*
+
+> I punti $n$ sono posizionati su un cerchio di diametro $n/\pi$ (così la circonferenza $n$). Supponiamo che la lunghezza di ogni arco tra due punti consecutivi (senza contare i punti finali) sia rigorosamente superiore al numero di punti rigorosamente all'interno di tale arco. Prova che è possibile trovare archi $n$ che contengono ciascuno esattamente un punto, dividendo il cerchio.
+
+[[src_canimath_2015_printemps__Q07]]

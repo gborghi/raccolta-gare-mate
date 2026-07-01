@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2017-18 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2017-18_round1__Q02
 parent: src_bmo_2017-18_round1
 competition: British Mathematical Olympiad 2017-18 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max and min number of days at least five of six friends swim*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Maximo e minimo numero di giorni in cui almeno cinque dei sei amici nuotano< MSK1/>
+
+> In un periodo di $100$ giorni, ciascuno dei sei amici va a nuotare esattamente $75$ giorni. Ci sono < MSK2/> giorni in cui almeno cinque degli amici nuotano. Quali sono i valori più grandi e più piccoli possibili di $n$?
+
+[[src_bmo_2017-18_round1__Q02]]

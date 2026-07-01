@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2009__Q02
 parent: src_bocconi_squadre_2009
 competition: Gara a Squadre 2009
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri naturali a 4 cifre distinte non zero con somma cifre 12*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 48
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Natural numbers with four distinct non-zero digits with a sum of 12 digits *
+
+> How many are the natural numbers of 4 digits (all different from each other and all different from 0) so the sum of their digits is 12?
+
+**Answer:** 48
+[[src_bocconi_squadre_2009__Q02]]

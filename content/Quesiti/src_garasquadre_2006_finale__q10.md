@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_finale__Q10
 parent: src_garasquadre_2006_finale
 competition: VII Gara Nazionale a Squadre 2006 - Finale
@@ -23,6 +24,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *unione di 6 cerchi su esagono regolare*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0400
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gZSw1a8n1M4j9DvH6wTbhtIqnyyqml42/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>union of 6 circles on a regular hexagon< MSK1/>
+
+> The plant of the castle The plant of the castle of Hortona, seat of the Higher Mathematical School, consists of the union of 6 circles of radius equal to 100, the centers of which are arranged on the vertices of a regular hexagon of side 100. What is the perimeter of the castle? The result is less than π (in other words, if for example the result is 10π, then the answer is 0010).
+
+**Answer:** 0400
+[[src_garasquadre_2006_finale__Q10]]

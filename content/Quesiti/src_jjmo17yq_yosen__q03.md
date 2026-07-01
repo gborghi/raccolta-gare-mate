@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo17yq_yosen__Q03
 parent: src_jjmo17yq_yosen
 competition: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle AEB given two rectangles sharing a line with BE=CF*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $33^\circ$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YyPhdRC8ta06c--Y1mxGSGuS4yujWAKb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo AEB dato due rettangoli che condividono una linea con BE=CF*
+
+> I quadrilaterali $ABCD$ e i quadrilaterali $DEFG$ sono entrambi rettangoli. I tre punti $A, D, E$ si trovano su una linea retta in questo ordine, e i tre punti $C, D, G$ si trovano su una linea retta in questo ordine. Considerando che $\angle GAD = 36^\circ$, $\angle GCF = 15^\circ$ e $BE = CF$ si trovano, si trova la misura di $\angle AEB$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+![[src_jjmo17yq_yosen__Q03.png]]
+
+**Risposta:** 33^\circ
+[[src_jjmo17yq_yosen__Q03]]

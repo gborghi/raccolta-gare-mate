@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q19
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante superfici rettangolari con 2009 piastrelle*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many rectangular surfaces with 2009 tiles*
+
+> Henry has 2009 square tiles, all of them equal. Using them all at once, how many different rectangular surfaces can you tick? (Two surfaces shall be considered different only if the length of at least one of the two sides is different.)
+
+**Answer:** C
+[[src_kangourou_2009_benjamin_marzo__Q19]]

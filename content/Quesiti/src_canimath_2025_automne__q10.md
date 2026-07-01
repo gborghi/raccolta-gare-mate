@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2025 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_automne__Q10
 parent: src_canimath_2025_automne
 competition: Coupe Animath Automne 2025
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three distinct integers making x+n, x+m, x+l a geometric progression forces x rational*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre numeri interi distinti che rendono x+n, x+m, x+l una progressione geometrica forze x razionale*
+
+> Hadriel ha scelto un numero reale $x$. Ha trovato tre integri positivi distinti in coppia $n$, $m$ e $l$ in modo tale che i numeri $x+n$, $x+m$ e $x+l$ siano in progressione geometrica. Mostrare che $x$ è un numero razionale, cioè che è scritto nella forma $\frac{a}{b}$ dove $a$ e $b$ sono interi con $b \neq 0$.
+> 
+> Diciamo che i numeri reali $a$, $b$, $c$ sono in progressione geometrica se esiste un numero reale non zero $k$ tale che $c = kb = k^2 a$.*
+
+[[src_canimath_2025_automne__Q10]]

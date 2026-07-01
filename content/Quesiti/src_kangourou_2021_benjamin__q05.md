@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q05
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero in corrispondenza della tacca sul cilindro*
 
@@ -48,3 +51,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number corresponding to the height on the cylinder*
+
+![[src_kangourou_2021_benjamin__prob5.png]]
+
+> A tape meter is wrapped around a cylinder as shown in the figure. What number corresponds to the height indicated by the point in question? A) 53
+> 	
+> B) 60
+> 	
+> C) 69
+> 	
+> D) 77
+> 	
+> E) 81
+
+**Answer:** C
+[[src_kangourou_2021_benjamin__Q05]]

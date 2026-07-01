@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q18
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo rettangolo di dadi con vincoli facce*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum rectangle of dice with facial constraints*
+
+![[src_gs_2013_squadre__prob18.png]]
+
+> Bran Stark plays the usual six-sided dice, a lot. It adjoins them to each other on the table (without stacking them or leaving any space), so that they form rectangles of various sizes. It follows a precise rule: the numbers on the faces with which two dice are joined must be summed to 6. In each dice, the sum of the opposite faces is 7. How many dice, at most, can one use to form one of the above-mentioned rectangles?
+
+**Answer:** 0016
+[[src_gs_2013_squadre__Q18]]

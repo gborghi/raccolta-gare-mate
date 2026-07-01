@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_biennio_rec__Q11
 parent: src_archimede_2024_biennio_rec
 competition: Giochi di Archimede 2024 - Gara Biennio (riserva)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Foglietti minimi per coppia con somma 22*
 
@@ -44,3 +47,19 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sheets per pair with sum of 22*
+
+> A box contains 20 sheets, numbered 1 to 20. Darius extracts a few at once. How many of them does he have to extract, at least, to make sure he finds at least one pair of numbers whose sum is 22?
+>
+> - **(A)** 9
+> - **(B)** 11
+> - **(C)** 12
+> - **(D)** 13
+> - **(E)** 10
+
+[[src_archimede_2024_biennio_rec__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q14
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of boys in a class given division remainders and 15 girls*
 
@@ -52,3 +55,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Numero di ragazzi in una classe data restanti di divisione e 15 ragazze< MSK1/>
+
+> Contare gli studenti di una classe $4$ con $4$ lascia un residuo di $2$, e contare $5$ con $5$ lascia un residuo di $1$. Sapendo che < MSK6/> degli studenti sono ragazze e che il numero di ragazze è maggiore del numero di ragazzi, il numero di ragazzi in questa classe è:
+> 
+> (A) $7$ \quad (B) $8$ \quad (C) $9$ \quad (D) $10$ \quad (E) $11$
+
+**Risposta:** E
+[[src_obm_2001_n2_f1__Q14]]

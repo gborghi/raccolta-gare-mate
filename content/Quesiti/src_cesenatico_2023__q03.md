@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2023__Q03
 parent: src_cesenatico_2023
 competition: Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Esistenza a,b distinti con 2023a+s(a)=... e a+2023s(a)=...*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** si in entrambi i casi
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K2tSI9y0Z1EOzNjwEfT72n8wgtnVThOH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Existence of a,b distinct from 2023a+s(a) =... e a+2023s(a)=...*
+
+> For each positive integer n, we indicate with s(n) the sum of the digits of n (in the normal representation at base 10). So, for example, s(8) = 8, s(2023) = 7, s(573) = 15. (a) Determine whether there are two distinct positive integers a and b such that 2023 · a + s(a) = 2023 · b + s(b). (b) Determine whether there are two distinct positive integers a and b such that a + 2023 · s(a) = b + 2023 · s(b).
+
+**Answer:** si in entrambi i casi
+[[src_cesenatico_2023__Q03]]

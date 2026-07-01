@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q27
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei 96 numeri sulla circonferenza*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of 96 numbers on the circumference*
+
+> So we pick three different points on a circumference and we assign them, one for each of them, the numbers 1, 2, 3. Within each of the three arcs identified by the three points, we choose a random point and assign the sum of the numbers already assigned to the extremes. So far, we've selected six points in total and assigned them the six numbers 1, 3, 2, 5, 3, 4. By following the same criteria, we perform the operation four more times: at the end we will have selected a total of 96 points and assigned 96 numbers to them. How much is the sum of all these numbers? A) 486           B) 2187          C) 1458            D) 4374          E) 378.
+
+**Answer:** C
+[[src_kangourou_2006_junior_marzo__Q27]]

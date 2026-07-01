@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1984-85 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1984-85_round1__Q02
 parent: src_bmo_1984-85_round1
 competition: British Mathematical Olympiad 1984-85 — Round 1
@@ -28,6 +29,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For a,b,c in (0,1), not all of a(1-b),b(1-c),c(1-a) exceed 1/4*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per a,b,c in (0,1), non tutte le a(1-b),b(1-c),c(1-a) superano 1/4*
+
+> $a, b, c$, sono ogni numero tra $0$ e $1$. Prova che non tutte le $a(1-b)$, $b(1-c)$, $c(1-a)$ possono essere superiori a $\frac{1}{4}$.
+
+[[src_bmo_1984-85_round1__Q02]]

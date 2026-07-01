@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Finale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q01
 parent: src_kangourou_2013_squadre_f
 competition: Kangourou Coppa Squadre 2013 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti addendi nella somma 1-3+5-7+... = 2013*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2013
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many additions to the sum of 1 to 3 plus 5 to 7 plus... = 2013*
+
+> The sum of this year The sum of 1  3 + 5  7 + 9  ... is 2013. How many addons are there?
+
+**Answer:** 2013
+[[src_kangourou_2013_squadre_f__Q01]]

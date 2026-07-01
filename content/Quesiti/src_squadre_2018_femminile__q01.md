@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q01
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -23,6 +24,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anno di nascita con somma cifre uguale all'eta nel 2017*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0023
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Year of birth with sum of figures equal to age in 2017*
+
+> IBERNOT Philip J. Frege, for friends Fry, is a guy who works as a pizza delivery boy in New York. On New Year's Eve 1999, he was ordered to deliver pizzas to the cryogenics lab. Arriving there, he finds no one, but he sees a note saying that Dr. Hercule Zoup's son in 2017 will celebrate a number of years that will coincide with the sum of the figures for his year of birth. Fry, curious, wonders how old Hercules' son will be, but falling into a capsule he stays hibernated for 1000 years before he can solve the mystery.
+
+**Answer:** 0023
+[[src_squadre_2018_femminile__Q01]]

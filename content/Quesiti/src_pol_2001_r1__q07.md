@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2001 — Round 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2001_r1__Q07
 parent: src_pol_2001_r1
 competition: Olimpiade Matematica Polacca 2001 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Points D,E on the hypotenuse with angle DAE=45 deg; circumcircle of ADE meets the legs at P,Q; prove BP+CQ=PQ.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w-_EBjDoXaaXOhizK74B8btnGAV4E9MM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punti D,E sull'ipotenusa con angolo DAE=45°; circolo di ADE incontra le gambe a P,Q; prova BP+CQ=PQ.*
+
+> I punti $D$ e $E$ si trovano sull'ipotenusa $BC$ di un triangolo rettangolo $ABC$ di uguale taglia in modo tale che $\angle DAE = 45^\circ$. Il circoncircolo del triangolo $ADE$ incontra di nuovo i lati $AB$ e $AC$ rispettivamente a $P$ e $Q$. Prova che < MSK10/>.
+
+[[src_pol_2001_r1__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q22
 parent: src_garasquadre_2006_pubblico
 competition: VII Gara Nazionale a Squadre 2006 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *conteggio*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0502
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>counting < MSK1/>
+
+> A condemnation to be avoided [10] The followers of He-who-can-not-be-proven, fierce supporters of dark and contradictory mathematics, are on the verge! Even simple questions can reveal their distorted mathematical knowledge. For example, the judge asked how many positive integers strictly greater than 9 whose digits on base 10 are strictly increasing from left to right. What is the answer to avoid condemnation?
+
+**Answer:** 0502
+[[src_garasquadre_2006_pubblico__Q22]]

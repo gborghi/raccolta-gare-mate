@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2005-06 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2005-06_round1__Q01
 parent: src_bmo_2005-06_round1
 competition: British Mathematical Olympiad 2005-06 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Twin primes around n force divisibility by 720*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Twin primes attorno a n divisibilità della forza per 720*
+
+> Se $n$ è un numero intero maggiore di $6$. Prova che se $n-1$ e $n+1$ sono entrambi primi, allora $n^2(n^2+16)$ è divisibile da $720$. È vero il contrario?
+
+[[src_bmo_2005-06_round1__Q01]]

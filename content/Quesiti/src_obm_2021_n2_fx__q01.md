@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2021 — Nível 2 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2021_n2_fx__Q01
 parent: src_obm_2021_n2_fx
 competition: Olimpíada Brasileira de Matemática 2021 — Nível 2 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length (lonjura) defined by iterating the divisor-count operation until reaching 2; count numbers of length 2 and the maximal length in 3..1000*
 
@@ -53,3 +56,19 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza (lonjura) definita iterando l'operazione di conteggio divisore fino a raggiungere 2; numeri di conteggio di lunghezza 2 e la lunghezza massima in 3..1000*
+
+> Un matematico si diverte con i numeri naturali e i loro divisori positivi. Per ogni intero positivo $n$, esegue la seguente sequenza di operazioni: calcola il numero di divisori positivi di $n$, quindi, dal numero ottenuto, calcola di nuovo il suo numero di divisori positivi, e così via successivamente, fino a ottenere finalmente il numero $2$, punto in cui si ferma. Il *lonjura* di $n$ è definito come il numero di operazioni necessarie per ottenere il numero $2$. Si noti che uno finisce sempre a $2$.
+> 
+> Ad esempio, la lonjura di $12$ è $4$, poiché $12$ ha $6$ divisori positivi $\{1,2,3,4,6,12\}$, $6$ ha $4$ divisori $\{1,2,3,6\}$, $4$ ha $3$ divisori $\{1,2,4\}$, e $3$ ha $2$ divisori $\{1,3\}$. Si noti inoltre che $6$ ha lonjura $3$, $4$ ha lonjura $2$ e $3$ ha lonjura $1$.
+> 
+> (a) Quanti numeri da $3$ a $1000$ hanno lonjura $2$?
+> 
+> b) Qual è la maggiore lonjura possibile tra i numeri da $3$ a $1000$?
+
+[[src_obm_2021_n2_fx__Q01]]

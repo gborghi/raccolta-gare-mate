@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2007 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2007__Q04
 parent: src_bocconi_squadre_2007
 competition: Gara a Squadre 2007
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto tra area trapezio ABCD e triangolo ACE*
 
@@ -43,3 +46,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio between trapezoidal area ABCD and triangle ACE*
+
+> Both $S$ the area of the trapezoid $ABCD$ and $y$ the area of the triangle $ACE$ (in figure $BD$ is parallel to $CE$).
+> 
+> Determine the value of the $S/y$ ratio.
+
+![[src_bocconi_squadre_2007__Q04.png]]
+
+[[src_bocconi_squadre_2007__Q04]]

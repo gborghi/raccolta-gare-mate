@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2019 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo17mq_honsen__Q03
 parent: src_jjmo17mq_honsen
 competition: Japan Junior Mathematical Olympiad 2019 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *GCD-min inequality and equality cases for positive integers*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IaWplQ8K7hgcVjCHhzivSPLVXTjD5aWO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*GCD-min casi di disuguaglianza e di uguaglianza per i numeri interi positivi*
+
+> Lasciate che $a, b$ siano numeri interi positivi. Qui $\gcd(x, y)$ indica il più grande divisore comune di $x$ e $y$, e $\min(x, y)$ indica il più piccolo di $x$ e $y$.
+> 
+> (1) Indicare che la disuguaglianza $$\min\bigl(\gcd(a,\, b+1),\; \gcd(a+1,\, b)\bigr) \le \frac{\sqrt{4a+5}-1}{2}$$ è valida.
+> 
+> (2) Trovare tutte le coppie di integri positivi $(a, b)$ per le quali l'uguaglianza vale nell'ineguaglianza di cui sopra.
+
+[[src_jjmo17mq_honsen__Q03]]

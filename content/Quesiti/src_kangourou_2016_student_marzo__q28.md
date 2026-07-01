@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q28
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *primo divide la somma 1..n ma non gli addendi*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*first divides the sum of 1..n but does not add to it*
+
+> Anna chose a positive integer n and wrote the sum of all positive integers from 1 to n. A certain prime number p divides that sum, but does not divide any of the addends. Which of the following values can be n + p ? A) 217 B) 221 C) 229 D) 245 E) 269
+
+**Answer:** A
+[[src_kangourou_2016_student_marzo__Q28]]

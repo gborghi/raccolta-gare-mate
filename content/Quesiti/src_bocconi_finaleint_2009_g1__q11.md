@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 1) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g1__Q11
 parent: src_bocconi_finaleint_2009_g1
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza minima totale del taglio per ricomporre un quadrato a lato intero da un rettangolo tagliato in due pezzi.*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 31 cm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total minimum length of cut to reconstitute a whole side square from a rectangle cut into two pieces.*
+
+> 11 - FROM RETHANGEL TO SQUADER (coefficient 11) Cut the rectangle along the seven points. All segments of the cut have length integers of centimeters. By sliding the two pieces thus obtained, without flipping them over, one can reconstruct, without holes or overlapping, a square whose side measures an integer of centimeters. What is the total length of the cut, at least in cm? Note: the figure does not respect the proportions.
+
+![[src_bocconi_finaleint_2009_g1__Q11.png]]
+
+**Answer:** 31 cm
+[[src_bocconi_finaleint_2009_g1__Q11]]

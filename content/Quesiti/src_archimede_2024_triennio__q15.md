@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_triennio__Q15
 parent: src_archimede_2024_triennio
 competition: Giochi di Archimede 2024 - Gara Triennio
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *a|b e a+1|b+1, dimostrazione*
 
@@ -46,3 +49,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*a and a+b of the sample *
+
+> Alberto and Barbara make an iron-armed race this way: at the beginning they both have 1 point; at each challenge, the winner earns as many points as the opponent has at the time, while the loser maintains the score they had. After a number of challenges, Barbara has 9,000 points. Which of the following could be Alberto's score?
+>
+> - **(A)** 5005
+> - **(B)** 4114
+> - **(C)** 3130
+> - **(D)** 3003
+> - **(E)** 7117
+
+[[src_archimede_2024_triennio__Q15]]

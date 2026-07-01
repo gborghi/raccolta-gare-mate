@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1 —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_nu_f1__Q01
 parent: src_obm_2006_nu_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute an improper integral involving exponential*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-zF5q38838Z7BnrHtVLRS1IJQQPHcA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolare un'integrale impropria con esponenziale *
+
+> Calcolo < MSK0/>
+
+[[src_obm_2006_nu_f1__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2022_squadre__Q14
 parent: src_gsm_2022_squadre
 competition: Gara a Squadre GSM (locale Genova) 2022
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di scrivere 2022 come somma con differenza al piu 1*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2021
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode of writing 2022 as sum with difference at most 1*
+
+> In how many ways can the number $2022$ be written as the sum of two or more positive integers in non-decreasing order and so that the difference between the last and the first term is at most $1$?
+
+**Answer:** 2021
+[[src_gsm_2022_squadre__Q14]]

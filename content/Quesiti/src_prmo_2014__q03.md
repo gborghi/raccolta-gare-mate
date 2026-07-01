@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2014__Q03
 parent: src_prmo_2014
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2014
@@ -32,6 +33,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of DA in convex quadrilateral ABCD with perpendicular diagonals*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 60
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valore di DA in ABCD quadrilaterale convexa con diagonali perpendicolari*
+
+> Il $ABCD$ deve essere un quadrilaterale converso con diagonali perpendicolari. Se $AB = 20$, $BC = 70$ e $CD = 90$, qual è il valore di $DA$?
+
+**Risposta:** 60
+[[src_prmo_2014__Q03]]

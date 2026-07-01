@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1975-76 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1975-76_round1__Q01
 parent: src_bmo_1975-76_round1
 competition: British Mathematical Olympiad 1975-76 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Shortest straight line bisecting triangle area; show non-straight is shorter*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area del triangolo di intersezione della linea retta più corta; mostra che la linea non retta è più corta*
+
+> Trova, con prova, la lunghezza $d$ della linea retta più corta che divide l'area di un triangolo arbitrariamente dato. Esprimere $d$ in termini di superficie $A$ del triangolo e di uno dei suoi angoli.
+> 
+> Mostra che esiste una linea più breve (non retta) che divide l'area del triangolo dato.
+
+[[src_bmo_1975-76_round1__Q01]]

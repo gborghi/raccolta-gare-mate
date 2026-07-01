@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2011 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2011__Q01
 parent: src_bocconi_semifinale_2011
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2011
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare un quadrato 4x4 con uno 0, due 1 e un 2 per riga e colonna.*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\begin{array}{|c|c|c|c|}\hline 2&0&1&1\\\hline 0&1&1&2\\\hline 1&1&2&0\\\hline 1&2&0&1\\\hline\end{array}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete a 4x4 square with a 0, two 1 and a 2 per row and column.*
+
+> Complete the square so that each row and column contains a "0", two "1" and a "2".
+
+![[src_bocconi_semifinale_2011__Q01.png]]
+
+**Answer:** $\begin{array}{|c|c|c|c|}\hline 2&0&1&1\\\hline 0&1&1&2\\\hline 1&1&2&0\\\hline 1&2&0&1\\\hline\end{array}$
+[[src_bocconi_semifinale_2011__Q01]]

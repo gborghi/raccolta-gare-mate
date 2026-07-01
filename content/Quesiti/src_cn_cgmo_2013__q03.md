@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2013 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2013__Q03
 parent: src_cn_cgmo_2013
 competition: China Girls' Mathematical Olympiad 2013
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a bipartite-like group, bound boy-girl acquaintance pairs*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>In un gruppo bipartito, coppie di conoscenze tra ragazzi e ragazze legate< MSK1/>
+
+> In un gruppo di ragazze $n$ e di ragazzi $n$, entrambi si conoscono o non si conoscono. Per ogni due ragazzi e due ragazze, almeno un ragazzo e una ragazza non si conoscono. Prova che il numero di coppie di ragazzi e ragazze che si conoscono è massimo $\dfrac{n(n-1)}{2}$.
+
+[[src_cn_cgmo_2013__Q03]]

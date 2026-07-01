@@ -1,6 +1,7 @@
 ---
 title: IMO 1975 (Seventeenth International Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1975_all__Q01
 parent: src_imo_1975_all
 competition: IMO 1975 (Seventeenth International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *sorted matching minimizes sum of squared diffs*
 
@@ -36,3 +39,13 @@ tags:
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TP79v6F2u-0eqTiBw6yUOXst22fnJsC9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sorted matching minimizes sum of squared diffs*
+
+> Let $x_i, y_i$ ($i = 1, 2, \ldots, n$) be real numbers such that $$x_1 \geq x_2 \geq \cdots \geq x_n \quad \text{e} \quad y_1 \geq y_2 \geq \cdots \geq y_n.$$ Show that if $z_1, z_2, \ldots, z_n$ is any permutation of $y_1, y_2, \ldots, y_n$, then $$\sum_{i=1}^{n}(x_i - y_i)^2 \leq \sum_{i=1}^{n}(x_i - z_i)^2.$$
+
+[[src_imo_1975_all__Q01]]

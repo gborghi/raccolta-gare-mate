@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2007 - Gara Triennio — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_triennio__Q22
 parent: src_archimede_2007_triennio
 competition: Giochi di Archimede 2007 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Implicazione logica vera secondo Francesco*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*True logical implication according to Francis*
+
+> After school Francis invites his friends to his home to study and make snacks and says: "If we are few we will study well; if we are many we will eat little". Which of the following claims is certainly true according to Francis?
+>
+> - **(A)** If you're few, you eat a lot.
+> - **(B)** To study well, it is necessary to be few.
+> - **(C)** If you study poorly, you're not few.
+> - **(D)** If you eat a little, you're necessarily eating a lot.
+> - **(E)** If you're in a lot of people, you're studying badly.
+
+**Answer:** C
+[[src_archimede_2007_triennio__Q22]]

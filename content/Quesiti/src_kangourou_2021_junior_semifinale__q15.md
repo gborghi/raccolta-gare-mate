@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior Semifinale individuale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_semifinale__Q15
 parent: src_kangourou_2021_junior_semifinale
 competition: Kangourou 2021 Junior Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime quattro cifre allineamento 0/1 senza blocchi ripetuti*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1001
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last four digits 0/1 alignment without repeated blocks*
+
+> (6 points) Using only the digits 0 and 1, Thomas constructs an alignment of more than five digits starting with 1001 and satisfying the following conditions:
+>  
+> (a) there are no two identical blocks of five consecutive digits, disjoint or partially overlapping; (b) the alignment ends when neither of the two digits can be added without breaching condition (a). What are the last four digits of Thomas's alignment? Please dial 9999 if you believe they are not uniquely determined.
+
+**Answer:** 1001
+[[src_kangourou_2021_junior_semifinale__Q15]]

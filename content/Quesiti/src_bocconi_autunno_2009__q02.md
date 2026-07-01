@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2009 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2009__Q02
 parent: src_bocconi_autunno_2009
 competition: Giochi d'Autunno 2009
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età di Luca dato sistema di relazioni familiari*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Luke's age given the family relationship system*
+
+> Mr. Teerema has three children: Carla, Milena and Luca. The average age of the two girls is 10 years while the sum of the ages of the three boys is 33 years. How old is Luca?
+
+**Answer:** 13
+[[src_bocconi_autunno_2009__Q02]]

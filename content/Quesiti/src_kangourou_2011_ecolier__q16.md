@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Ecolier (gara marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier__Q16
 parent: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti erano gli invitati alla festa con due torte*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many people were invited to the party with two cakes?
+
+> Two cakes were brought to a party. Each was divided into four parts and three pieces were obtained from each of these parts. Each guest had exactly one slice and three slices went forward. How many guests were there? A) 24 B) 21 C) 18 D) 27 E) 13 Questions from N. 17 al N. Twenty-four is worth five points each.
+
+**Answer:** B
+[[src_kangourou_2011_ecolier__Q16]]

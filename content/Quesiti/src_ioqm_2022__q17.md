@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q17
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *f(n)=n minus largest prime divisor of n, find floor(sqrt(N)) where f(f(f(N)))=97*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 09
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*f(n) = n meno il più grande divisore primo di n, trovare piano(sqrt(N)) dove f(f(N)))=97*
+
+> Per un intero positivo $n > 1$, $g(n)$ indichi il più grande divisore primo di $n$ e $f(n) = n - g(n)$. Ad esempio, $g(10) = 5$, $f(10) = 5$ e $g(13) = 1$, $f(13) = 1$. $N$ sia il numero intero positivo più piccolo tale che $f(f(f(N))) = 97$. Trova il numero intero più grande non superiore a $\sqrt{N}$.
+
+**Risposta:** 09
+[[src_ioqm_2022__Q17]]

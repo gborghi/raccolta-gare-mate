@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (gara marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q18
 parent: src_kangourou_2017_benjamin_marzo
 competition: Kangourou 2017 Benjamin (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione vera su lettere/numeri con somme riga-colonna*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*True statement on letters/numbers with row-column sums*
+
+![[src_kangourou_2017_benjamin_marzo__prob18.png]]
+
+> The letters in the figure represent integers greater than or equal to zero. Adding the numbers represented in each row and in each column gives the results shown in the figure. Which of the following is true? A) b is equal to c. B) a is less than d. C) a is greater than d. D) c is greater than b. E) None of the above.
+
+**Answer:** B
+[[src_kangourou_2017_benjamin_marzo__Q18]]

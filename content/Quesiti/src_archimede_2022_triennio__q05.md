@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2022 - Gara Triennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_triennio__Q05
 parent: src_archimede_2022_triennio
 competition: Giochi di Archimede 2022 - Gara Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di cubetto con due facce dipinte*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of a cube with two painted faces*
+
+> Laura paints the entire surface of a wooden cube in blue, then cuts it into 63 = 216 equal cubes. By mixing the cubes and pulling one out at random, what are the odds that Laura will find one that has exactly two blue faces?
+>
+> - **(A)** 8/27
+> - **(B)** 1/6
+> - **(C)** 1/4
+> - **(D)** 4/9
+> - **(E)** 2/9
+
+**Answer:** E
+[[src_archimede_2022_triennio__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_semifinale_c__Q06
 parent: src_cesenatico_2012_semifinale_c
 competition: Gara a Squadre Cesenatico 2012 - Semifinale C
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max oro nelle due statue (pesi e vincoli)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0507
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Max gold in the two statues (weights and bonds) *
+
+> It's written as predicted in the terrible book Necronomicon by the mad Arab Abdul Alhazred, when for man the Last Day will come, he will rise from the bottom Bernardus, monster with n heads and m tails (both positive integers) such that 1 95 + 1 n = 1 m. What's the minimum number of heads Bernardus can have?
+
+**Answer:** 0507
+[[src_cesenatico_2012_semifinale_c__Q06]]

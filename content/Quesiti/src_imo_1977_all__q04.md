@@ -1,6 +1,7 @@
 ---
 title: IMO 1977 (Nineteenth International Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1977_all__Q04
 parent: src_imo_1977_all
 competition: IMO 1977 (Nineteenth International Olympiad)
@@ -27,6 +28,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *f(theta)>=0 implies a^2+b^2<=2 and A^2+B^2<=1*
 
@@ -39,3 +42,13 @@ tags:
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_trigonometria|Tecniche trigonometriche]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*f(theta)>=0 implies a^2+b^2<=2 and A^2+B^2<=1*
+
+> Show that if $f(\theta) \geq 0$ for every real $\theta$, then $$a^2 + b^2 \leq 2 \quad \text{e} \quad A^2 + B^2 \leq 1.$$
+
+[[src_imo_1977_all__Q04]]

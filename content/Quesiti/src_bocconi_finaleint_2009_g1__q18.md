@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 1) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g1__Q18
 parent: src_bocconi_finaleint_2009_g1
 competition: >-
@@ -40,6 +41,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Disporre i numeri da 2 a 16 nei dischi del triangolo con somma uguale sulle 9 linee e vertici a<b<c.*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2 soluzioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*To arrange the numbers from 2 to 16 in the triangle discs with the same sum on the 9 lines and vertices a<b<c.*
+
+> 18 - DA 2 A 16 (coefficient 18) Place all the numbers from 2 to 16, because only one per disk. The sum of the numbers on each of the nine lines drawn must always be the same. At the vertices of the triangle, the numbers must be placed so that $a < b < c$.
+
+![[src_bocconi_finaleint_2009_g1__Q18.png]]
+
+**Answer:** 2 soluzioni
+[[src_bocconi_finaleint_2009_g1__Q18]]

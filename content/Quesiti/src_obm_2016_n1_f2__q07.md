@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f2__Q07
 parent: src_obm_2016_n1_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Color 7×7 table red/blue/brown so blue dominates each row and column; min red and min brown cells*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Colore 7×7 tabella rosso/blu/bronzo in modo che il blu domini ogni riga e colonna; min cellule rosse e min cellule marrone*
+
+> [Parte B] Janaína vuole dipingere le celle di una tabella $7 \times 7$ con tre colori  rosso, blu e marrone  in questo modo: in ogni riga e in ogni colonna, il numero di celle blu deve essere maggiore o uguale al numero di celle rosse e il numero di celle blu deve anche essere maggiore o uguale al numero di celle marrone. Tutte le righe e le colonne devono contenere cellule di tutti e tre i colori. a) Qual è il numero minimo di cellule da dipingere in rosso? b) Qual è il numero minimo di cellule da dipingere in marrone?
+
+[[src_obm_2016_n1_f2__Q07]]

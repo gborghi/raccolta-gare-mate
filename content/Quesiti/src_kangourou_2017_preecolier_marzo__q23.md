@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_preecolier_marzo__Q23
 parent: src_kangourou_2017_preecolier_marzo
 competition: Kangourou 2017 Pre-Ecolier - Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale giocattolo nello scomparto grigio*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What toy in the gray compartment*
+
+> Anna placed six toys on a compartment shelf like this (a grid $2 \times 3$, with the upper right compartment gray). Looking at the shelf, I see that in the central compartment of the shelf where the blue monster and the chicken are standing is the bear. - The chicken is right above the colorful train. The doll is on the left of the colorful train and on the right of the green train.
+>
+> What toy is in the gray compartment?
+>
+> - **(A)** the green train
+> - **(B)** the chicken
+> - **(C)** The doll
+> - **(D)** The coloured train
+> - **(E)** the blue monster (see figure)
+
+**Answer:** E
+[[src_kangourou_2017_preecolier_marzo__Q23]]

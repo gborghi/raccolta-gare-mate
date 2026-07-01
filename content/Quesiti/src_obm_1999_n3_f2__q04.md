@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f2__Q04
 parent: src_obm_1999_n3_f2
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers n for which a 9×10 rectangle can be tiled by 1×n pieces*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D3JkG3FwszG4Cj9u9XDmjhQiLYRED5MN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Neri interi positivi per i quali un rettangolo 9×10 può essere cartigliato da 1×n pezzi*
+
+> Determinare tutti i numeri interi positivi $n$ per i quali è possibile tessere un rettangolo $9 \times 10$ usando pezzi $1 \times n$.
+
+[[src_obm_1999_n3_f2__Q04]]

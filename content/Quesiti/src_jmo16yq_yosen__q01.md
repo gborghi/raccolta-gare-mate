@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo16yq_yosen__Q01
 parent: src_jmo16yq_yosen
 competition: Japan Mathematical Olympiad 2006 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max value of n-m for 3-digit number with digit sum condition*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 792
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valore massimo di n-m per un numero a 3 cifre con condizione somma di cifre*
+
+> Che $n$ sia un intero positivo che non è un multiple di $10$ e la cui cifra di centinaia non è $0$. Quando si scambiano la cifra centinaia e la cifra unità di $n$, il numero intero risultante deve essere $m$. Trova il valore massimo di $n - m$.
+
+**Risposta:** 792
+[[src_jmo16yq_yosen__Q01]]

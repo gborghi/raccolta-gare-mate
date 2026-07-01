@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q24
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find xyz where x, y, z are given by expressions involving nested square roots of 7 and 3*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova xyz dove x, y, z sono dati da espressioni che coinvolgono radici quadrate nidificate di 7 e 3*
+
+> I numeri $x$, $y$ e $z$ sono indicati da $x = \sqrt{12 - 3\sqrt{7}} - \sqrt{12 + 3\sqrt{7}}$, $y = \sqrt{7 + 4\sqrt{3}} - \sqrt{7 - 4\sqrt{3}}$ e $z = \sqrt{7} + \sqrt{3}$.
+> 
+> Qual è il valore di < MSK0/>?
+>
+> - **(A)** 1
+> - **(B)** $-6$
+> - **(C)** $-8$
+> - **(D)** 8
+> - **(E)** 12
+
+**Risposta:** E
+[[src_smc_2019__Q24]]

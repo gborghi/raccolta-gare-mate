@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2007 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2007__Q05
 parent: src_cn_cwmo_2007
 competition: China Western Mathematical Olympiad 2007
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of triangle with integer sides: shortest side 2007, largest angle twice smallest*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** No
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di triangolo con lati interi: lato più corto 2007, angolo più grande doppio più piccolo*
+
+> C'è un triangolo con lati di lunghezza integrale, in modo che la lunghezza del lato più corto sia $2007$ e l'angolo più grande sia il doppio più piccolo?
+
+**Risposta:** No
+[[src_cn_cwmo_2007__Q05]]

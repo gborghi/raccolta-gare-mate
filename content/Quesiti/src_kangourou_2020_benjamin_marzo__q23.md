@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q23
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti anni perche i cangurini battano il padre ai voti*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many years since the kangaroos beat their father in the polls?
+
+> A kangaroo father lives with his three children: all four were born on the same day of the year. Each issue is decided by a vote, and each family member has a number of votes equal to their age in years. Today the father is 36 years old and the children are 13, 6 and 4 years old, so the father wins every vote. How many years do the kangaroos have to wait for it to happen that, if they agree, they can beat their father on the ballot? A) 5
+> 	
+> B) 6
+> 	
+> C) 7
+> 	
+> D) 13
+> 	
+> E) 14
+
+**Answer:** C
+[[src_kangourou_2020_benjamin_marzo__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2019-20 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2019-20_round1__Q06
 parent: src_bmo_2019-20_round1
 competition: British Mathematical Olympiad 2019-20 — Round 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all functions f assigning integers to pairs of integers satisfying a given functional equation*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni f che assegnano integri a coppie di integri che soddisfano una determinata equazione funzionale*
+
+> Una funzione $f$ si chiama *good* se assegna un valore intero $f(m,n)$ a ogni coppia ordinata di integri $(m,n)$ in modo tale che per ogni coppia di integri $(m,n)$ abbiamo: $$2f(m,n) = f(m-n, n-m) + m + n = f(m+1,n) + f(m,n+1) - 1.$$
+> 
+> Trova tutte le buone funzioni.
+
+[[src_bmo_2019-20_round1__Q06]]

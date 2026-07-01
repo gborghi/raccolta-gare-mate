@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q08
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fraction of shaded area in figure made of equal squares*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fraczione di superficie ombrata in forma di quadrati uguali*
+
+> Sono costruiti e ombrati dodici quadrati identici come mostrato nella figura. Quale frazione della superficie totale è ombrata?
+> 
+> (A) $\dfrac{7}{18}$ \quad (B) $\dfrac{4}{9}$ \quad (C) $\dfrac{1}{3}$ \quad (D) $\dfrac{5}{9}$ \quad (E) $\dfrac{1}{2}$
+
+![[src_obm_2004_n1_f1__Q08.png]]
+
+**Risposta:** B
+[[src_obm_2004_n1_f1__Q08]]

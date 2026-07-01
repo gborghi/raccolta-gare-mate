@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1974-75 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1974-75_round2__Q04
 parent: src_bmo_1974-75_round2
 competition: British Mathematical Olympiad 1974-75 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *12 equal circles on a sphere: three groups touching 3, 4, or 5 others*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Db2YDJJe3HTlXlSJ6KbEzgmGqDFFe8HU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*12 cerchi uguali su una sfera: tre gruppi che toccano altri 3, 4 o 5*
+
+> Il diagramma illustra una configurazione di 12 cerchi. L'insieme $S$ di 12 cerchi contiene tre sottoinsiemi $S_3$, $S_4$, $S_5$, ognuno di cui ha 4 cerchi e in modo tale che ciascuno dei 4 cerchi di $S_r$ tocchi $r$ cerchi di $S$.
+> 
+> Prova che una tale configurazione di 12 cerchi esiste sulla superficie di una sfera con tutti i 12 cerchi con uguali raggi.
+
+![[src_bmo_1974-75_round2__Q04.png]]
+
+[[src_bmo_1974-75_round2__Q04]]

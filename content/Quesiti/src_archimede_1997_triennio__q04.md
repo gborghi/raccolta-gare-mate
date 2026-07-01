@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Triennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_triennio__Q04
 parent: src_archimede_1997_triennio
 competition: Giochi di Archimede 1997 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero massimo ottenibile in 8 mosse raddoppio o quadrato*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number to be achieved in 8 moves double or square*
+
+> On the board is number one. The only move allowed is to erase the number written on the board and replace it with either its double or its square. What's the biggest number you can get in eight moves?
+>
+> - **(A)** 28
+> - **(B)** 47
+> - **(C)** 88
+> - **(D)** 264
+> - **(E)** 2128.
+
+**Answer:** E
+[[src_archimede_1997_triennio__Q04]]

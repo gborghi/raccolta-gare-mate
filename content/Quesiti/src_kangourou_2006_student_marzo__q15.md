@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q15
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo foglietti per due cifre uguali (pigeonhole)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sheets for two equal digits (pigeonhole) *
+
+> Consider all the positive 9-digit integers you can construct using each of the 9 digits 1,2,...,9. Suppose that each of those numbers is written on a piece of paper (one number on each piece of paper) and that the pieces of paper are deposited in an urn. What is the minimum number of sheets that you can extract from the oven if you want to be sure that, among the numbers shown on the extract sheets, there are at least two that, in some position, have the same number? A) 20160          B) 40320          C) 72            D) 10                E) 9
+
+**Answer:** D
+[[src_kangourou_2006_student_marzo__Q15]]

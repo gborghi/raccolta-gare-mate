@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q20
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali posizioni occupate dalla stessa faccia del cubo*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What positions are occupied on the same side of the cube*
+
+![[src_kangourou_2012_cadet__prob20.png]]
+
+> A cube rolls on the floor, spinning around its shoulders. The plane adherent face passes in the order through the positions 1, 2, 3, 4, 5, 6 and 7 shown in the figure. Only two of these positions are occupied on the same side of the cube: which? A) 1 and 7 B) 1 and 6 C) 1 and 5 D) 2 and 7 E) 2 and 6 The questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** B
+[[src_kangourou_2012_cadet__Q20]]

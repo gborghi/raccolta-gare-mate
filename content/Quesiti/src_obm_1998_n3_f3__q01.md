@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f3__Q01
 parent: src_obm_1998_n3_f3
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *15 pairwise-coprime integers in (1,1998); show one is prime*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*15 integri copri­mi in copri­mi in (1,1998); mostrare uno è primo*
+
+> Sono dati quindici numeri naturali superiori a $1$ e inferiori a $1998$ in modo tale che due di essi siano relativamente primi. Mostrare che almeno uno di questi quindici numeri è primo.
+
+[[src_obm_1998_n3_f3__Q01]]

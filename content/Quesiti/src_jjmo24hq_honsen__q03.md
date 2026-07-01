@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2026 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo24hq_honsen__Q03
 parent: src_jjmo24hq_honsen
 competition: Japan Junior Mathematical Olympiad 2026 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Arrange all divisors so consecutive sums are powers of two*
 
@@ -44,3 +47,17 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I0LRY7GCUGrK3CaQym2-0VxiENqQdLFa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Arrangere tutti i divisori in modo che le somme consecutive siano potenze di due*
+
+> $n$ sia un numero intero positivo con almeno $3$ divisori positivi, e $k$ indichi il numero di divisori positivi di $n$. Trovare tutti i valori possibili di $n$ per i quali esiste una sequenza $d_1, d_2, \dots, d_k$ in cui tutti i divisori positivi di $n$ appaiono esattamente una volta ciascuno, soddisfacendo la seguente condizione:
+> 
+> Per ogni numero intero $i$ con $1 \le i \le k-1$, la somma $d_i + d_{i+1}$ è una potenza di due.
+> 
+> Qui, una potenza di due significa un intero espressibile nella forma $2^m$ utilizzando un intero non negativo $m$. Inoltre, < MSK2/>.
+
+[[src_jjmo24hq_honsen__Q03]]

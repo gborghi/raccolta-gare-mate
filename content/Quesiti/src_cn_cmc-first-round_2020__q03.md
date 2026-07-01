@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2020 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2020__Q03
 parent: src_cn_cmc-first-round_2020
 competition: China Mathematical Competition (First Round) 2020
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count subsets of {1,...,20} with at least 2 consecutive integers*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 190
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio di sottoinsiemi di {1,...,20} con almeno 2 integri consecutivi*
+
+> (Paper B, parte I Q3) Supponiamo $X = \{1, 2, \ldots, 20\}$. $A$ è un sottoinsieme di $X$. Il numero di elementi di $A$ è almeno $2$ e tutti gli elementi di $A$ possono essere organizzati come integri positivi consecutivi. Poi il numero di tali set $A$ è $\underline{\qquad}$.
+
+**Risposta:** 190
+[[src_cn_cmc-first-round_2020__Q03]]

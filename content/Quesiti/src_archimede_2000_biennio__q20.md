@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Biennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_biennio__Q20
 parent: src_archimede_2000_biennio
 competition: Giochi di Archimede 2000 - Biennio
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione necessariamente vera su percentuali studenti*
 
@@ -50,3 +53,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A statement necessarily true on student percentages*
+
+> In one school, 60% of the students are male, 90% are minors, and 60% have brown hair. Which of the following claims is necessarily true?
+>
+> - **(A)** There's at least one older girl.
+> - **(B)** There's at least one girl with brown hair.
+> - **(C)** There's at least one young, brown boy.
+> - **(D)** There are no grown-ups and brown kids.
+> - **(E)** There's at least one blond guy.
+
+**Answer:** C
+[[src_archimede_2000_biennio__Q20]]

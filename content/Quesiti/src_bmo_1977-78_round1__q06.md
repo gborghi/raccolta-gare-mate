@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1977-78 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1977-78_round1__Q06
 parent: src_bmo_1977-78_round1
 competition: British Mathematical Olympiad 1977-78 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show 2cosθ is polynomial in 2cos(θ/n); prove rationality or irrationality*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra che 2cosθ è polinomio in 2cos(θ/n); prova la razionalità o l'irrazionalità*
+
+> Mostra che se $k$ è un intero non zero, $2\cos k\theta$ è un polinomio in $2\cos\theta$ di grado $k$ in $2\cos\theta$.
+> 
+> Quindi o altrimenti dimostrare che se $k$ è razionale allora $2\cos k\theta$ è uguale a uno dei numeri $0, \pm 1, \pm 2$, o è irrazionale.
+
+[[src_bmo_1977-78_round1__Q06]]

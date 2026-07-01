@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre_f2__Q11
 parent: src_kangourou_2023_ecolier_squadre_f2
 competition: Kangourou Squadre 2023 Ecolier Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima differenza tra due numeri somma 9999*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0099
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum difference between two numbers sum 9999*
+
+> The difference Cristina wrote a four-digit integer (i.e. not less than 1,000). Aldo also wrote an integer number of four digits: the digits of Aldo's number are the same as those used by Cristina (in a different order), Aldo's number is larger than Cristina's, the sum of the numbers written by Aldo and Cristina is 9999 and the difference between Aldo's number and Cristina's number is the smallest possible in this situation. How much is this difference worth?
+
+**Answer:** 0099
+[[src_kangourou_2023_ecolier_squadre_f2__Q11]]

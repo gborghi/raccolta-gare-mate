@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1992 (33rd IMO, Moscow) — Quesito 3'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1992__Q03
 parent: src_imo_1992
 competition: 'IMO 1992 (33rd IMO, Moscow)'
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Smallest n of colored edges forcing monochromatic triangle*
 
@@ -43,3 +46,13 @@ tags:
 **Metodo:** [[method_estremalita|Principio di estremalita]], [[method_grafi|Teoria dei grafi]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Smallest n of colored edges forcing monochromatic triangle< MSK1/>
+
+> Consider nine points in space, no four of which are coplanar. Each pair of points is joined by an edge (that is, a line segment) and each edge is either colored blue or red or left uncolored. Find the smallest value of n such that whenever exactly n edges are colored, the set of colored edges necessarily contains a triangle all of whose edges have the same color. 33rd International Mathematical Olympiad Second Day - Moscow - July 15, 1992 Time limit: 41 2 hours
+
+[[src_imo_1992__Q03]]

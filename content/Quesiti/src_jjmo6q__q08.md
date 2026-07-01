@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2008 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo6q__Q08
 parent: src_jjmo6q
 competition: Japan Junior Mathematical Olympiad 2008
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find class sizes given tulip-planting constraints and counts 52, 64*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ricerca le dimensioni delle classi date le restrizioni e i numeri di coltivazione di tulipani 52, 64< MSK1/>
+
+> Una scuola media decise di far piantare i tulipani agli studenti. Ogni studente pianta almeno una lampadina. Gli studenti della stessa classe piantano lo stesso numero di lampadine, e ogni studente pianta lo stesso numero di lampadine come gli studenti di altre classi. Il numero totale di lampadine che possono essere piantate è massimo $100$; il numero di lampadine il cui totale è inferiore a $100$ è $6$, e i due numeri più piccoli sono $52$ e $64$.
+> 
+> Trovare tutte le possibili combinazioni del numero di studenti in ciascuno dei gradi 1, 2 e 3 (cioè anni di scuola media 1, 2, 3).
+
+[[src_jjmo6q__Q08]]

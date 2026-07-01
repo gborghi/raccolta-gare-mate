@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Triennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_triennio__Q03
 parent: src_archimede_2011_triennio
 competition: Giochi di Archimede 2011 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma numeri vertici piramide ottagonale con facce div per 3*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of vertex numbers of octagonal pyramid with div faces for 3*
+
+> On each vertex of an octagonal base pyramid a number is written, which can be 1, 2 or 3, so that for each face (including the base) the sum of the numbers written on its vertices is divisible by three. Knowing that not all numbers are equal to 3, what is the sum of all numbers written on the vertices worth?
+>
+> - **(A)** 12,
+> - **(B)** 14,
+> - **(C)** 15,
+> - **(D)** 18,
+> - **(E)** 21.
+
+**Answer:** C
+[[src_archimede_2011_triennio__Q03]]

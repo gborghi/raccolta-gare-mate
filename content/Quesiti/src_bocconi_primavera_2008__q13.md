@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q13
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato massimo con cifre 1,7,8,9 e operazioni*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(1+7) \times 8 \times 9 = 576$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum result with digits 1,7,8,9 and operations *
+
+> What is the greatest result you can get by adding, subtracting, multiplying or dividing the numbers 1, 7, 8, 9 all used once?
+
+**Answer:** $(1+7) \times 8 \times 9 = 576$
+[[src_bocconi_primavera_2008__Q13]]

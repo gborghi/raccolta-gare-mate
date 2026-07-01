@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2018-19 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2018-19_round2__Q03
 parent: src_bmo_2018-19_round2
 competition: British Mathematical Olympiad 2018-19 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count non-empty subsets of {1,...,p-1} with sum divisible by p*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** \dfrac{2^{p-1} + p - 2}{p}
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jUZmLCHSs55rdCMtkd0VDjc9FE08zlaC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i sottogruppi non vuoti di {1,...,p-1} con somma divisibile per p*
+
+> Lasciate che $p$ sia un primo parziale. Quanti sottoinsiemi non vuoti di $$\{1, 2, 3, \ldots, p-2, p-1\}$$ hanno una somma divisibile per $p$?
+
+**Risposta:** \dfrac{2^{p-1} + p - 2}{p}
+[[src_bmo_2018-19_round2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q23
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *4-digit numbers using digits 1-4 once each, first two digit sum equals last two*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*numeri a 4 cifre che usano cifre 1-4 una volta ogni volta, la somma delle prime due cifre è uguale alle ultime due*
+
+> Jo~ao ha scritto tutti i numeri a 4 cifre in cui ciascuno dei numeri $1, 2, 3, 4$ appare esattamente una volta. In quanti di questi numeri la somma delle prime due cifre è uguale alla somma delle ultime due cifre?
+> 
+> (A) 8 \quad (B) 12 \quad (C) 4 \quad (D) 16 \quad (E) 2
+
+**Risposta:** A
+[[src_obm_2013_n2_f1__Q23]]

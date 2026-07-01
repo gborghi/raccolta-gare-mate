@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f1__Q15
 parent: src_obm_2007_n1_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Barcode of black/white bars with three widths; count codes for thin/medium/thick separated by thin whites*
 
@@ -51,3 +54,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Codice a barre di barre in bianco e nero con tre larghezze; codici di conteggio per quelle sottili/mediche/spesse separate da sottili bianchi*
+
+> Un codice a barre è formato da barre nere verticali di tre larghezze diverse. Due barre nere sono sempre separate da una barra bianca, anche di tre larghezze diverse. Il codice inizia e termina con una barra nera, come nell'esempio di seguito. Considerando il codice $S$, formato da una sottile barra nera, una media e una spessa, separata da sottili barre bianche, quanti codici $S$ possono essere formati?
+> 
+> (A) 4 \quad (B) 6 \quad (C) 12 \quad (D) 24 \quad (E) 36
+
+![[src_obm_2007_n1_f1__Q15.png]]
+
+[[src_obm_2007_n1_f1__Q15]]

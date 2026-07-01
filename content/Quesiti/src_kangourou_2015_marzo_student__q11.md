@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q11
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore radice di espressione con 2015*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total value of the underlying asset.
+
+> What is the value of < MSK0/> (2015 + 2015) + (2015 - 2015) + (2015 x 2015) + (2015 : 2015) ? A) √ 2015 B) 2015 C) 2016 D) 2017 E) 4030
+
+**Answer:** C
+[[src_kangourou_2015_marzo_student__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2025_squadre__Q04
 parent: src_gsm_2025_squadre
 competition: Gara a Squadre Miste GSM (locale Genova) 2025
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio triangoli in una costruzione su un rettangolo*
 
@@ -62,3 +65,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting triangles in a construction on a rectangle*
+
+![[src_gsm_2025_squadre__prob4.png]]
+
+> Triangles and rectangles Giuseppe Rosolini Taking a rectangle ABCD with a length of 30 cm and a length of 12 cm BC, he traces the two diagonal ACe Bde of the two segments connecting the middle points of opposite sides: the EFe segment connecting the middle point Edi ABe the middle point Fdi CD; the GHe segment connecting the middle point Gdi BCe the middle point Hdi DA. Then divide each side of the rectangle into six equal parts: mark on the side ABi segments AP1 = P1P2 = P2E = EP3 = P3P4 = P4B; do the same for the side by covering the points Q1, Q2, Q3 and Q4, as well as for the other two sides BCe DA, using the four points R1, R2, R3 and R4, and the four points S1, S2, S3 and S4 respectively. Finally, trace from each of these 16 points the segment perpendicular to the side on which it stands and which connects it to the nearest diagonal of the rectangle. How many triangles have you drawn? : 0016
+
+**Answer:** 0016
+[[src_gsm_2025_squadre__Q04]]

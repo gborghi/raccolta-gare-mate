@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f2__Q01
 parent: src_obm_1998_n1_f2
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Book page sum parity: show total pages cannot equal 1998*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Parità della somma delle pagine del libro: mostra il totale delle pagine non può essere uguale a 1998*
+
+> João comprò un libro e notò che aveva 200 pagine. Suo fratello minore strappò poi fuori circa 25 foglie, sommando i numeri delle pagine di quelle 25 pagine ai numeri delle 50 pagine. Spiegate perché la somma dei numeri delle pagine di tali 25 foglie non può essere uguale al 1998.
+> 
+> Nota: ogni foglia ha due pagine. Il primo foglio ha pagine 1 e 2, il secondo ha pagine 3 e 4, e così via.
+
+[[src_obm_1998_n1_f2__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Cadet — Quesito C5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_finale__QC5
 parent: src_kangourou_2020_cadet_finale
 competition: Kangourou 2020 Finale nazionale Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu poligoni convessi che contengono p o che non lo contengono*
 
@@ -49,3 +52,28 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** piu p
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1USVAWxQY6y2E_COFv5RMawnN3IdAjH49/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Pious convex polygons containing p or not containing p< MSK1/>
+
+![[src_kangourou_2020_cadet_finale__probC5.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) circle (2cm);
+  \foreach \a in {90, 54, 18, -18, -54, -90, -126, -162, 162, 126} {
+    \fill (\a:2cm) circle (2pt);
+  }
+  \node at (18:2.35cm) {$p$};
+\end{tikzpicture}
+\end{document}
+```
+
+> On a circumference, 10 points two to two apart are marked. All possible convex polygons (i.e. non-woven polygons having all the inner angles less than $180°$) whose vertices are some of the marked points shall be considered. Whether $p$ any of the points marked. Are there more polygons containing $p$ or those not containing it, or are they in the same number? (see figure)
+
+**Answer:** piu p
+[[src_kangourou_2020_cadet_finale__QC5]]

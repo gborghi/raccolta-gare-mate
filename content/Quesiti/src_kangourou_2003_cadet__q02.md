@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Cadet (20 marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet__Q02
 parent: src_kangourou_2003_cadet
 competition: Kangourou 2003 Cadet (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max caselle 4x4 intersecate da una retta*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eygrPRLv8IqHr90bPrLsox-FA6V93kRL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max 4x4 boxes intersected by a straight line< MSK1/>
+
+> A straight slices a 4x4 chessboard without going over the top of any box. What is the largest number of boxes (squares 1x1) that a straight line can intersect? A) 3 B) 4 C) 6 D) 7 E) 8
+
+**Answer:** D
+[[src_kangourou_2003_cadet__Q02]]

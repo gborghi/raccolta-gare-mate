@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q17
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Oggetti C che bilanciano un B*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Objects C balancing a B*
+
+![[src_kangourou_2002_student__prob17.png]]
+
+> Some objects of four types, A, B, C, D, arranged on three scales, as shown in the figure, balance them. How many C-type objects do a B-type object weigh ?
+>  
+>  
+>  
+> A. 2
+>  
+> B. 3 C. 5 D. 6 E. 7
+
+**Answer:** C
+[[src_kangourou_2002_student__Q17]]

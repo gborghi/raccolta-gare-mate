@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q15
 parent: src_kangourou_2017_squadre_a
 competition: Kangourou Coppa Squadre 2017 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppia (x,y) con x^2+y^2-16y=2017*
 
@@ -58,3 +61,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2049
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Couple (x,y) with x^2+y^2-16y=2017*
+
+> The solution pair Determine the ordered pair (x,y) of positive integers with x < y that satisfies the equation x2 + y2  16y  2017. In the answer, the values of x and y are given in the order. A B C D E F G H
+> 
+> Kangourou of Mathematics 2017 Kangourou Cup to teams Semifinal round A Cervia, 6 May 2017
+>  
+> Questions and developments
+
+**Answer:** 2049
+[[src_kangourou_2017_squadre_a__Q15]]

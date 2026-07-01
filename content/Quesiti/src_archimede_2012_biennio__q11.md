@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Biennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_biennio__Q11
 parent: src_archimede_2012_biennio
 competition: Giochi di Archimede 2012 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di disporre frutti senza pera tra due mele*
 
@@ -47,3 +50,20 @@ tags:
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13kesAdPzQ8k4YwW-asUVUoQ5RPW1gOnt/view)
 **Anche in triennio:** [apri PDF p.5](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How to place pearless fruit between two apples< MSK1/>
+
+> Charles has six apples and six pears: how many ways can he line up 6 fruits so that between two apples there is never any pear?
+>
+> - **(A)** 16
+> - **(B)** 22
+> - **(C)** 32
+> - **(D)** 35
+> - **(E)** 39
+
+**Answer:** B
+[[src_archimede_2012_biennio__Q11]]

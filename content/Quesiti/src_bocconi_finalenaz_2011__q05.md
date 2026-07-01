@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2011 — Quesito
   5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2011__Q05
 parent: src_bocconi_finalenaz_2011
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2011
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti cubetti inutilizzati per costruire la piramide*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Non verranno utilizzati 20 cubetti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many unused cubes were used to build the pyramid*
+
+> With 111 cubes equal to each other, Desiderio wants to create a square-based pyramid where each cubet, starting from the second level from the bottom, rests on four cubes of the lower level (as in the figure). How many buckets will be left unused?
+
+![[src_bocconi_finalenaz_2011__Q05.png]]
+
+**Answer:** Non verranno utilizzati 20 cubetti
+[[src_bocconi_finalenaz_2011__Q05]]

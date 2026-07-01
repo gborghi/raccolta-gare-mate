@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q13
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo copie da pesare per la precisione voluta*
 
@@ -49,3 +52,23 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum copies to be weighed for the desired precision*
+
+> Philip wants to know the weight of a book less than half a gram (i.e. he accepts a measurement that differs from the real one by a maximum of half a gram). However, it has at its disposal a scale which provides a measure with an error of not more than 10 grams. What is the smallest number of identical copies of that book that Philip has to weigh together to be sure he has the desired accuracy? A) 5
+> 	
+> B) 10
+> 	
+> C) 15
+> 	
+> D) 20
+> 	
+> E) 50
+>
+
+**Answer:** D
+[[src_kangourou_2018_cadet_marzo__Q13]]

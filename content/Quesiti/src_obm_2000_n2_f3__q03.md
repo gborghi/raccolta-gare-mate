@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f3__Q03
 parent: src_obm_2000_n2_f3
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Paper-folding trisection of an angle; prove lines AA' and AB' divide angle alpha into three equal parts.*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qM5BxKaKRIxirRctyOuDYrS51LXljnyw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trissezione di un angolo piegato in carta; prova che le linee AA' e AB' dividono l'angolo alfa in tre parti uguali.*
+
+> Su un foglio di carta una linea $r$ attraversa l'angolo $A$ del foglio e forma un angolo $\alpha$ con il bordo orizzontale, come nella figura 1. Per dividere questo angolo $\alpha$ in tre parti uguali realizziamo le seguenti costruzioni: a) inizialmente, segnichiamo due punti $B$ e $C$ sul confine verticale in modo che $AB = BC$; attraverso il punto $B$ disegniamo la linea $s$ parallela al confine (figura 2); b) poi, piegiamo la carta, ajustandola in modo che il punto $C$ coincida con un punto $C'$ sulla linea $r$ e il punto $A$ coincida con un punto $A'$ sulla linea $s$ (figura 3); chiamiamo $B'$ il punto con cui $B$ coincide.
+> 
+> Indicare che le linee $AA'$ e $AB'$ dividono l'angolo $\alpha$ in tre parti uguali.
+
+![[src_obm_2000_n2_f3__Q03.png]]
+
+[[src_obm_2000_n2_f3__Q03]]

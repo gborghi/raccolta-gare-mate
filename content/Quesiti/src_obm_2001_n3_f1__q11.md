@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f1__Q11
 parent: src_obm_2001_n3_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Papa-Leguas (Road Runner) 100-lap race; first lap at 200 km/h; bound the average speed*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Papa-Leguas (Road Runner) corsa a 100 giri; primo giro a 200 km/h; limite di velocità media*
+
+> Papa-Leguas (Road Runner) ha partecipato a una gara (insieme a Ligeirinho e Flash), che consisteva nel fare 100 giri intorno a un circuito. Come sempre, il Coyote voleva catturare Papa-Leguas e mise un mucchio di semi d'uccello nel mezzo della pista. Naturalmente il Coyote non riuscì a catturare Papa-Leguas, ma fece sì che la velocità media di Papa-Leguas nel primo giro fosse di soli 200 km/h. Sapendo questo, la velocità media di Papa-Leguas in gara:
+> 
+> **A) ** Non supera i 200 km/h. $\quad$ **B) ** Non supera i 250 km/h, ma può superare i 200 km/h. $\quad$ **C) ** Non supera i 2000 km/h, ma può superare i 250 km/h. $\quad$ **D) ** Non supera i 20000 km/h, ma può superare i 2000 km/h. $\quad$ **E) ** Può superare i 20000 km/h.
+
+**Risposta:** D
+[[src_obm_2001_n3_f1__Q11]]

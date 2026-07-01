@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q16
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Non-negative reals a, b with a^3 + a < b - b^3; deduce the ordering.*
 
@@ -54,3 +57,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Reali non negativi a, b con a^3 + a < b - b^3; dedurre l'ordine.*
+
+> I numeri $a$ e $b$ sono reali non negativi, come $a^3+a<b-b^3$. Allora...
+>
+> - **(A)** $b<a<1$
+> - **(B)** $a=b=1$
+> - **(C)** $a<1<b$
+> - **(D)** $a<b<1$
+> - **(E)** $1<a<b$
+
+**Risposta:** D
+[[src_obm_2010_n3_f1__Q16]]

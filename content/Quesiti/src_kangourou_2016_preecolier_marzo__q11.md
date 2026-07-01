@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_preecolier_marzo__Q11
 parent: src_kangourou_2016_preecolier_marzo
 competition: Kangourou 2016 Pre-Écolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di porte da A a B nella casa delle bambole*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum number of doors from A to B in the doll house
+
+> The figure represents a doll house seen from above (after removing the roof) with rooms and doors opening in each room: you can go from each room to any other room. Emma's doll has to go from room A to room B. What's the smallest number of doors she'll have to go through? (see figure)
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 7
+
+**Answer:** B
+[[src_kangourou_2016_preecolier_marzo__Q11]]

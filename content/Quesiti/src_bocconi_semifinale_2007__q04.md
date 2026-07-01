@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2007 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2007__Q04
 parent: src_bocconi_semifinale_2007
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2007
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza massima percorsa da formica su spigoli di cubo*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7 dm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum distance travelled by an ant on cube shafts*
+
+> An ant moves on the tips of a wire cube from the point indicated by "start" to the point indicated by "arrival" without ever passing twice from the same point.
+> 
+> How far did the ant travel, at most?
+
+![[src_bocconi_semifinale_2007__Q04.png]]
+
+**Answer:** 7 dm
+[[src_bocconi_semifinale_2007__Q04]]

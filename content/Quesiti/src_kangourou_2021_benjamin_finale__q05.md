@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin_finale__Q05
 parent: src_kangourou_2021_benjamin_finale
 competition: Kangourou 2021 Benjamin - finale
@@ -28,6 +29,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rendere uguali 7 numeri aggiungendo 1 a coppie adiacenti*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lcBpucjMyPn19QcdY4x_lBRtIl3fOAD2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*To make 7 numbers equal by adding 1 to adjacent pairs*
+
+> The numbers 1 to 7 are arranged in a clockwise direction on a circumference. You can change them as many times as you want, but each time just by adding 1 to two numbers that are in adjacent positions. Explain how it is possible, by following this rule, to get seven numbers that are all the same.
+
+[[src_kangourou_2021_benjamin_finale__Q05]]

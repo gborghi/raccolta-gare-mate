@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2010 squadre semifinale turno A — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2010_squadre_semifinale__Q12
 parent: src_kangourou_2010_squadre_semifinale
 competition: Kangourou 2010 squadre semifinale turno A
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Unico numero 4 cifre quadrato e cubo perfetto*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4096
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Single number 4 square digits and perfect cube
+
+> What is the only four-digit number that is both a square and a perfect cube?
+
+**Answer:** 4096
+[[src_kangourou_2010_squadre_semifinale__Q12]]

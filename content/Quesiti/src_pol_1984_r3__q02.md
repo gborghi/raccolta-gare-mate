@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1984 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1984_r3__Q02
 parent: src_pol_1984_r3
 competition: Olimpiade Matematica Polacca 1984 — Round 3
@@ -39,6 +40,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a lower bound of n/2 for a sum of absolute partial-sums under any permutation of a special matrix.*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uJbOajHDsVJS_W8N_b349B1gwV3vlEpC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove un limite inferiore di n/2 per una somma di somme parziali assolute sotto qualsiasi permutazione di una matrice speciale.*
+
+> $n$ sia un numero intero positivo. Per tutti i $i,j\in\{1,2,\ldots,n\}$ definire $a_{j,i}=1$ se $j=i$ e $a_{j,i}=0$ altrimenti. Inoltre, per $i=n+1,\ldots,2n$ definire $a_{j,i}=-\frac{1}{n}$. Prove che per qualsiasi permutazione $p$ del set $\{1,2,\ldots,2n\}$ si verifica la seguente disuguaglianza: $$\sum_{j=1}^{n}\left|\sum_{k=1}^{n}a_{j,p(k)}\right|\ge\frac{n}{2}.$$
+
+[[src_pol_1984_r3__Q02]]

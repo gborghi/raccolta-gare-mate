@@ -1,6 +1,7 @@
 ---
 title: IMO 2016 papers — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2016__Q06
 parent: src_imo_2016
 competition: IMO 2016 papers
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rane su segmenti senza collisioni se n dispari*
 
@@ -43,3 +46,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DJN1I1nyXv23EBAYsmuEqh4UN-f1qoI1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Fredges on non-collision segments if n occurs< MSK1/>
+
+> There are $n \geq 2$ segments in the plane such that every two segments intersect and no three segments meet at one point. Geoff must choose one end of each segment and place a frog on it, facing the other end. Then he'll hit his hands $n-1$ times. Every time it claps its hands, each frog will immediately jump forward to the next intersection point on its segment. Frogs never change the direction of their jumps. Geoff wants to place the frogs so that no pair of frogs ever occupies the same intersection at the same time.
+> 
+> (a) Demonstrate that Geoff can always grant his wish if he is odd.
+> 
+> (b) Demonstrate that Geoff can never fulfill his wish if $n$ is equal.
+
+[[src_imo_2016__Q06]]

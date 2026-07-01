@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Junior — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_junior__Q14
 parent: src_kangourou_2013_junior
 competition: Kangourou 2013 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale di ragazze da incremento medie*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Percentage of girls with average increments< MSK1/>
+
+> In a classroom, where there are both boys and girls, a test was carried out. If each of the boys had scored three more points in their test, the average class score would have increased by 1.2 points. What percentage of the students in that class are girls? A) 75% B) 60% C) 50% D) 40% E) 25%
+
+**Answer:** B
+[[src_kangourou_2013_junior__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Finale Nazionale Junior — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q14
 parent: src_kangourou_2018_junior_finale
 competition: Kangourou 2018 Finale Nazionale Junior
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo k per gioco infinito sui gettoni 50x50*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7301
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum k for infinite play on 50x50 tokens *
+
+> On a certain day $40$ trains traveled between two of the cities $S$, $T$, $U$, $V$ and $Z$.
+>
+> - Ten trains travelled either from or to MSK0/. - Ten trains travelled either to or from MSK1/. - Ten trains travelled either to or from MSK2/. - Ten trains travelled either from or to MSK3/.
+>
+> How many trains have traveled either to or from < MSK0/>?
+>
+> - **(A)** $0$
+> - **(B)** $10$
+> - **(C)** $20$
+> - **(D)** $30$
+> - **(E)** $40$
+
+**Answer:** 7301
+[[src_kangourou_2018_junior_finale__Q14]]

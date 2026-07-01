@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2020 Finale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q11
 parent: src_kangourou_2020_squadre_finale
 competition: Kangourou Coppa squadre 2020 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore a^3+b^3 dato a^3-b^3=485*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0539
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ouvUikm9jtg5T9XqFtDuhZcgJZXEsFwU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Value of a^3+b^3 given that a^3-b^3=485< MSK1/>
+
+> Sum of cubes Two positive integers a and b are such that a3  b3 = 485. How much is a3 + b3 ?
+
+**Answer:** 0539
+[[src_kangourou_2020_squadre_finale__Q11]]

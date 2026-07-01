@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2020 - 2° livello — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_2livello__Q01
 parent: src_archimede_2020_2livello
 competition: Archimede Gara di Febbraio 2020 - 2° livello
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Foglio 'contemporaneo' tagliato in 2020 parti simili*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Contemporary leaf cut in 2020 similar parts*
+
+> If you cut an A4 sheet precisely in half along a straight line parallel to the shorter side, you create two sheets that have the same shape as the original one, that is, you get from it through a rotation and a reduction in scale. This year we're going to say that a rectangular sheet is contemporary if, by cutting it in 2020 into equal parts obtained with parallel cuts on its shorter side, you get 2020 rectangles that have the same shape as the original one. If the short side of a contemporary sheet is 1, how long is the other side?
+>
+> - **(A)** √ 2020
+> - **(B)** 20203/2
+> - **(C)** 2021 2
+> - **(D)** 2020
+> - **(E)** None of the above
+
+**Answer:** A
+[[src_archimede_2020_2livello__Q01]]

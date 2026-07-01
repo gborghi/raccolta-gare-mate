@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Biennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_biennio__Q07
 parent: src_archimede_2026_biennio
 competition: Giochi di Archimede 2026 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di dividere 16 caramelle con vincolo amici uguali*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Mode of dividing 16 candies with equal friends < MSK1/>
+
+> Marco has a bag of 16 mint candies, which he wants to share with three friends and his cousin. Each of them, including Mark himself, will have to receive at least one candy; moreover, in order not to create a scandal, Mark's three friends will have to receive the same number of candy. How many ways will Marco be able to make the split?
+>
+> - **(A)** 27
+> - **(B)** 32
+> - **(C)** 26
+> - **(D)** 30
+> - **(E)** 28
+
+**Answer:** D
+[[src_archimede_2026_biennio__Q07]]

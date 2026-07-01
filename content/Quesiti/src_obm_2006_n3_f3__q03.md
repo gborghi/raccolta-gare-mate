@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f3__Q03
 parent: src_obm_2006_n3_f3
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all f:R->R satisfying functional equation*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZCKsxgxArFWOqQ-EkYy1PtXgXiuJ90nh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le equazioni funzionali soddisfacenti f:R->R*
+
+> Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ in modo tale che $$f\bigl(x f(y) + f(x)\bigr) = 2f(x) + xy$$ per tutte le $x, y$ reali.
+
+[[src_obm_2006_n3_f3__Q03]]

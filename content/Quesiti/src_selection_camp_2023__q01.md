@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2023 — Selection Camp — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2023__Q01
 parent: src_selection_camp_2023
 competition: Japan IMO Selection Camp 2023 — Selection Camp
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest n with distinct-gcd arithmetic progression of divisors*
 
@@ -43,3 +46,17 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N più piccolo con progressione aritmetica di divisori distinta-gcd*
+
+> Che $n$ sia un intero positivo con almeno $4$ divisori positivi. $d(n)$ indica il numero di divisori positivi di $n$. Trova tutti i $n$ per i quali esistono $d(n)-1$ integri positivi $a_1, a_2, \dots, a_{d(n)-1}$ che formano una progressione aritmetica e soddisfano la seguente condizione:
+> 
+> Per tutti gli integri $i, j$ con $1 \le i < j \le d(n)-1$, abbiamo $\gcd(a_i, n) \ne \gcd(a_j, n)$.
+> 
+> Qui, per i numeri interi positivi $x, y$, $\gcd(x, y)$ indica il più grande divisore comune di $x$ e $y$.
+
+[[src_selection_camp_2023__Q01]]

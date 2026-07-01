@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2019_n1_fx__Q03
 parent: src_obm_2019_n1_fx
 competition: Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x
@@ -39,6 +40,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Spiral-filled large grid; find last number of third layer and triangle distances*
 
@@ -61,3 +64,25 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pakMGdmqn3t7vFmFJmF7aCi7jvCUTIEX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Grande griglia piena di spirale; trovare l'ultimo numero di distanze del terzo strato e del triangolo*
+
+> La figura seguente rappresenta una tabella molto grande composta da celle quadrate $1\,\text{cm}$, in cui i numeri interi positivi sono riempiti in ordine crescente, partendo da $1$ e formando "strati" attorno a essa. Il primo strato è formato dai numeri $2$ attraverso $9$; il secondo strato è formato dai numeri $2$ attraverso $9$, e immediatamente dopo aver completato il secondo strato, inizia il terzo strato con il numero $10$ nella cella a sinistra di $9$.
+> 
+> (Vedi la figura: la spirale si riempie verso l'esterno, strato dopo strato. Un triangolo può essere formato utilizzando un lato orizzontale e un lato verticale della griglia, con l'ipotenusa che collega i loro punti terminali.)
+> 
+> Per calcolare la distanza dal quadrato $1$ al quadrato $N$ (non sulla stessa riga o colonna), possiamo formare un triangolo con una gamba orizzontale, una gamba verticale e l'ipotenusa che collega i centri dei quadrati $1$ e $N$. Per esempio, nella figura il triangolo che potrebbe essere utilizzato per calcolare la distanza da quadrato $1$ a quadrato $12$ ha la gamba orizzontale $2\,\text{cm}$ e la gamba verticale $2\,\text{cm}$.
+> 
+> a) Qual è l'ultimo numero del terzo strato?
+> 
+> b) Determinare le zampe orizzontali e verticali del triangolo che potrebbero essere utilizzate per calcolare la distanza da quadrato $1$ a quadrato $33$.
+> 
+> c) Determinare le gambe del triangolo che potrebbero essere utilizzate per calcolare la distanza da quadrato $1$ a quadrato $2019$.
+
+![[src_obm_2019_n1_fx__Q03.png]]
+
+[[src_obm_2019_n1_fx__Q03]]

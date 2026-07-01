@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2019 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_automne__Q13
 parent: src_canimath_2019_automne
 competition: Coupe Animath Automne 2019
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer with exactly 300 ones, no zeros, and perfect square (lycée version)*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integra con esattamente 300 unità, senza zeri, e quadrato perfetto (versione liceale) *
+
+> Esiste un numero intero la cui rappresentazione decimale contiene esattamente 300 cifre uguali a $1$, nessun numero uguale a $0$, e che è un quadrato perfetto? Ad esempio, $9 = 3 \times 3$ è un quadrato perfetto ma $2$ non lo è.
+
+[[src_canimath_2019_automne__Q13]]

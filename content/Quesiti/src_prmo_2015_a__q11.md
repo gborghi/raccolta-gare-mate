@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_a__Q11
 parent: src_prmo_2015_a
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -33,6 +34,8 @@ tags:
   - regione/a
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of inradii of three triangles formed by point $P$ on side of rectangle*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa degli inradi di tre triangoli formati dal punto $P$ sul lato del rettangolo*
+
+> In rettangolo $ABCD$, $AB = 8$ e $BC = 20$. $P$ sia un punto su $AD$ tale che $\angle BPC = 90^\circ$. Se $r_1$, $r_2$, $r_3$ sono i raggi degli incircoli dei triangoli $APB$, $BPC$ e $CPD$, qual è il valore di $r_1 + r_2 + r_3$?
+
+**Risposta:** 8
+[[src_prmo_2015_a__Q11]]

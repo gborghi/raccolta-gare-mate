@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2005 — Round 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2005_r1__Q11
 parent: src_pol_2005_r1
 competition: Olimpiade Matematica Polacca 2005 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inscribed circle in a convex quadrilateral; perpendicular through diagonals' intersection gives equal segments.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo inserito in un quadrilaterale convexo; perpendicolare attraverso l'intersezione di diagonali dà segmenti uguali.*
+
+> Un cerchio con il centro $I$ è inserito in un quadrilaterale converso $ABCD$, dove $I$ non si trova su $AC$. Le diagonali $AC$ e $BD$ si intersecano a $E$. La linea attraverso $E$ perpendicolare a $BD$ incontra rispettivamente le linee $AI$ e $CI$ a $P$ e $Q$. Prove che < MSK13/>.
+
+[[src_pol_2005_r1__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q15
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two two-digit numbers whose sum is twice the product of their digits*
 
@@ -56,3 +59,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due numeri a due cifre la cui somma è il doppio dei loro numeri *
+
+> Quanti numeri a due cifre ci sono che sono uguali al doppio del prodotto delle loro cifre?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 4
+
+**Risposta:** B
+[[src_obm_2000_n3_f1__Q15]]

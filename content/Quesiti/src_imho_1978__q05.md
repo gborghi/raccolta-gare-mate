@@ -1,6 +1,7 @@
 ---
 title: IMO 1978 (XX International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1978__Q05
 parent: src_imho_1978
 competition: IMO 1978 (XX International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sequence of distinct positive integers; sum inequality*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sequence of distinct positive integers; sum inequality*
+
+> Let $\{a_k\}$ $(k = 1, 2, 3, \ldots, n, \ldots)$ be a sequence of distinct positive integers. Prove that for all natural numbers
+
+[[src_imho_1978__Q05]]

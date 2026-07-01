@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Finale Nazionale Junior — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q13
 parent: src_kangourou_2018_junior_finale
 competition: Kangourou 2018 Finale Nazionale Junior
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di m^3+n^5 dato m^5+n^3=7901*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3341
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Value of m^3+n^5 given m^5+n^3=7901< MSK1/>
+
+> Observe the figure: in a side square < MSK0/> < MSK1/> semicirculars all of the same radius have been drawn and some of the regions enclosed between them and the sides of the square have been shaded. What's the area of the unshaded part of the square? (see figure)
+>
+> - **(A)** $2\pi$
+> - **(B)** $8$
+> - **(C)** $6 + \pi$
+> - **(D)** $3\pi - 2$
+> - **(E)** $12$
+
+**Answer:** 3341
+[[src_kangourou_2018_junior_finale__Q13]]

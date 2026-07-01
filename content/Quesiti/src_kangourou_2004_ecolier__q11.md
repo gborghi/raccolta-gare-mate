@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Ecolier (18 marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_ecolier__Q11
 parent: src_kangourou_2004_ecolier
 competition: Kangourou 2004 Ecolier (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale parte della frutta rimane nel cesto*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>What part of the fruit remains in the basket< MSK1/>
+
+> Elizabeth brings Clement a basket of apples and oranges. Clemente eats half the apples and a third of the oranges. What part of the fruit remains in the basket? (a) half of all fruit B) more than half of all fruit C) two fifths of all fruit D) less than one third of all fruit E) one third of all fruit
+
+**Answer:** B
+[[src_kangourou_2004_ecolier__Q11]]

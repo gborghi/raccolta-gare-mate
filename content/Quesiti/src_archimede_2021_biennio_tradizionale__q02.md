@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_biennio_tradizionale__Q02
 parent: src_archimede_2021_biennio_tradizionale
 competition: Giochi di Archimede 2021 - Gara Biennio (tradizionale)
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo valore di 3-2x dato (5-4x)(5x-4)=0*
 
@@ -39,3 +42,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum value of 3-2x given (5-4x) ((5x-4)=0< MSK1/>
+
+> Knowing that (5 −4x) ((5x −4) = 0, what can be the maximum value of 3 −2x?
+>
+> - **(A)** 7/5
+> - **(B)** 1/2
+> - **(C)** 5/7
+> - **(D)** 3/4
+> - **(E)** 4/7
+
+[[src_archimede_2021_biennio_tradizionale__Q02]]

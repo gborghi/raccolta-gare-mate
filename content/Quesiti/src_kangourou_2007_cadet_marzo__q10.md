@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q10
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo quadratini per asse di simmetria*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum squares per axis of symmetry*
+
+![[src_kangourou_2007_cadet_marzo__prob10.png]]
+
+> We want to make sure that the figure next to it has an axis of symmetry. What's the smallest number of squares that you can blacken to get the goal? A) 4 B) 6 C) 5 D) 2 E) 3 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** E
+[[src_kangourou_2007_cadet_marzo__Q10]]

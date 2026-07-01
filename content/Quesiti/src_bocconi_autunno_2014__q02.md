@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2014 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2014__Q02
 parent: src_bocconi_autunno_2014
 competition: Giochi d'Autunno 2014
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di pagare esattamente 2,70 euro con monete*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PloiPSpf4_9YADREFtliPjnhVrdcFhjI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to pay exactly €2.70 in coins*
+
+> Clear has bought a notebook that costs < MSK0/> Euros. In his purse, he has $6$ pieces of $0{,}50$ Euro and $12$ pieces of $20$ cents. You have to be careful how you pay because the wallet has no money left to give you. How many different ways can you pay the exact amount of < MSK5/> Euro?
+
+**Answer:** 3
+[[src_bocconi_autunno_2014__Q02]]

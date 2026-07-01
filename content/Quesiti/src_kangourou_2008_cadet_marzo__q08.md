@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q08
 parent: src_kangourou_2008_cadet_marzo
 competition: Kangourou 2008 - Cadet (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo grigio tra tre rette concorrenti*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Gray angle between three competing lines*
+
+![[src_kangourou_2008_cadet_marzo__prob8.png]]
+
+> In the figure three straight lines a, b, c are represented which intersect at a point, forming angles the width of which (in degrees) is indicated in the figure. How many degrees does the angle painted in gray measure? A) 52 B) 53 C) 54 D) 55 E) 56
+
+**Answer:** A
+[[src_kangourou_2008_cadet_marzo__Q08]]

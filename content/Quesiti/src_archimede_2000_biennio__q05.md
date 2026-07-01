@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Biennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_biennio__Q05
 parent: src_archimede_2000_biennio
 competition: Giochi di Archimede 2000 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Aumento percentuale area rettangolo con base e altezza*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage increase in rectangular area with base and height*
+
+> If we increase the length of the base of a rectangle by 30% and that of the height by 50%, the area increases by
+>
+> - **(A)** 195%
+> - **(B)** 115%
+> - **(C)** 150%
+> - **(D)** 95%
+> - **(E)** 80%.
+
+**Answer:** D
+[[src_archimede_2000_biennio__Q05]]

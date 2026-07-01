@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Ecolier (marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_ecolier__Q19
 parent: src_kangourou_2005_ecolier
 competition: Kangourou 2005 - Ecolier (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante partite ha vinto Edoardo a carte*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many games did Edward win by cards?
+
+> Edward, Susanna and Teresa are playing cards. At the end of each match, the winner gains 3 points, the second-placed 1 point while the third-placed does not gain points. After four games, Susanna has four points and Teresa has three. How many games has Edward won? A) 1 B) 2 C) 3 D) all 4 E) it is not possible to know.
+
+**Answer:** C
+[[src_kangourou_2005_ecolier__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - gara marzo — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier__Q11
 parent: src_kangourou_2021_ecolier
 competition: Kangourou 2021 Ecolier - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Allineamento che impedisce a Gina di raggruppare*
 
@@ -55,3 +58,26 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Alignment that prevents Gina from grouping
+
+![[src_kangourou_2021_ecolier__prob11.png]]
+
+> Every card in a strange deck of cards brings back one of the figures on the right. Nina and Gina play like this: one line up five cards of the deck on the table and the other tries to match all the cards containing the same figure by making only one exchange between two cards. Which of the following alignments must Nina choose if she wants to prevent Gina from achieving her goal? A)
+> 	
+> B)
+>  	
+> C)
+> 	
+> 	
+> D)
+> 	
+> 	
+> E)
+
+**Answer:** D
+[[src_kangourou_2021_ecolier__Q11]]

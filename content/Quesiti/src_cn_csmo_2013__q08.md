@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2013 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2013__Q08
 parent: src_cn_csmo_2013
 competition: China Southeastern Mathematical Olympiad 2013
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Grasshopper jumping between adjacent points on a line; parity of number of ways in 2012 steps.*
 
@@ -47,3 +50,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Grasshopper saltando tra punti adiacenti su una linea; parità del numero di vie nei passaggi del 2012.*
+
+> Che $m$ sia un intero positivo, $n = 2^m - 1$, e $P_n = \{1, 2, \ldots, n\}$ sia l'insieme dei punti $n$ su un asse numerico. Un agaro salta tra i punti adiacenti su $P_n$. Trovare il numero massimo di $m$ in modo tale che per qualsiasi $x, y \in P_n$, il numero di modi in cui un salto da $x$ a $y$ da $2012$ passi è pari (passando $x$ o $y$ in viaggio è consentito).
+
+**Risposta:** m = 10
+[[src_cn_csmo_2013__Q08]]

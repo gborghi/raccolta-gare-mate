@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q01
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Data errata del Giorno Kangourou (terzo giovedi marzo)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Errored date of Kangourou Day (third Thursday of March) < MSK1/>
+
+> Kangourou Day is celebrated every year on the third Thursday of March. The following are the dates of Kangourou Day for the next five years. Four are right, but one is wrong. What kind? This appropriation is intended to cover the expenditure incurred by the Member States in connection with the implementation of the budget of the European Union.
+
+**Answer:** C
+[[src_kangourou_2021_junior_marzo__Q01]]

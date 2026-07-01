@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2019 — Selection Camp — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2019__Q02
 parent: src_selection_camp_2019
 competition: Japan IMO Selection Camp 2019 — Selection Camp
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max of a_2018 - a_2017 for an averaging recurrence*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Max di a_2018 - a_2017 per una ricorrenza media*
+
+> Che $a_0, a_1, a_2, \ldots$ sia una sequenza reale che soddisfi $a_0 = 0$ e $a_1 = 1$. Supponiamo che per ogni intero $n$ con $n \ge 2$ esista un intero $k$ con $1 \le k \le n$ tale che $$a_n = \frac{a_{n-1} + a_{n-2} + \cdots + a_{n-k}}{k}.$$ Trova il valore massimo possibile di $a_{2018} - a_{2017}$.
+
+[[src_selection_camp_2019__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo15yq_yosen__Q02
 parent: src_jjmo15yq_yosen
 competition: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest integer not exceeding sqrt(123456789)*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 11111
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'intero più grande non superiore a 123456789) *
+
+> Trova il numero intero più grande che è al massimo $\sqrt{123456789}$.
+
+**Risposta:** 11111
+[[src_jjmo15yq_yosen__Q02]]

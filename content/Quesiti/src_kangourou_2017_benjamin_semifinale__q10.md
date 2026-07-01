@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q10
 parent: src_kangourou_2017_benjamin_semifinale
 competition: Kangourou 2017 Benjamin (semifinale individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Biglietto venduto insieme al numero 374 (650 biglietti)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 277
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uSb-8ZS0ZxgQE-rDkGuF4RrLMjBY_qKl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Tickets sold together with number 374 (650 tickets)
+
+> Charles decided to sell the lottery tickets to a charity. It has 650 tickets numbered from 1 to 650 and sells the first ticket (the one with the number 1) together with the last one (the one with the number 650), the second one with the penultimate one and so on. What's the number of the ticket that Carlo sells along with the number 374 ticket?
+
+**Answer:** 277
+[[src_kangourou_2017_benjamin_semifinale__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q16
 parent: src_kangourou_2021_preecolier_koala
 competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Foglie totali rimaste sui due ramoscelli*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total leaves remaining on the two branches*
+
+> A kangaroo had cut off two branches for breakfast. There were 10 leaves on each branch. The kangaroo ate only a few leaves from the first branch; from the second branch he ate as many leaves as were left on the first. How many leaves, in total, did the two twigs have?
+>
+> - **(A)** 15
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 8
+> - **(E)** 10
+
+**Answer:** D
+[[src_kangourou_2021_preecolier_koala__Q16]]

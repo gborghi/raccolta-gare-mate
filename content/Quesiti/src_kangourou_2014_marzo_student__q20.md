@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q20
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *valore a*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>value at < MSK1/>
+
+> a and b are two real numbers. The function f defined by f (x) = ax + b satisfies the equations f (f (f (1))) = 29 and f (f (f (0))) = 2. How much is it worth ? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> (e) 5 Questions from n. 21 al n. 30 is worth 5 points each.
+
+**Answer:** C
+[[src_kangourou_2014_marzo_student__Q20]]

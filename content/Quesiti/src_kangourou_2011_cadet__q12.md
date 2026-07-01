@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q12
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max punti comuni a piu di una di 4 circonferenze a due a due tangenti*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max common points at more than one of four two-to-two tangent circumferences< MSK1/>
+
+> On the board, I want to draw four circles so that, no matter how you choose two, they have one and only one point in common. What is the largest number of points in the plane that can belong to more than one circumference? A) 1 B) 4 C) 5 D) 6 E) 8
+
+**Answer:** D
+[[src_kangourou_2011_cadet__Q12]]

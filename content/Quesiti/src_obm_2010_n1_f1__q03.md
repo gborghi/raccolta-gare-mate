@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f1__Q03
 parent: src_obm_2010_n1_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2% increase of integer equals successor; find their sum*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2% aumento dei numeri interi uguali al successore; trovare la loro somma *
+
+> Aumentare un intero positivo di $2\%$ di se stesso produce il suo successore (il prossimo intero). Qual è la somma di questi due numeri?
+> 
+> (A) $43$ \quad (B) $53$ \quad (C) $97$ \quad (D) $101$ \quad (E) $115$
+
+**Risposta:** D
+[[src_obm_2010_n1_f1__Q03]]

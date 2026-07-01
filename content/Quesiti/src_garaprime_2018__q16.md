@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2018 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2018__Q16
 parent: src_garaprime_2018
 competition: Gara Nazionale Classi Prime 2018
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima lunghezza percorso del verme per dimezzare la mela*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XzoWDlSETOE6ynBaPWQsIvAiUafgaOrc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum worm path length to halve the apple< MSK1/>
+
+![[src_garaprime_2018__prob16.png]]
+
+> A small worm enters a large spherical apple with a radius of 10 cm and leaves after having traveled within it a path (not necessarily straight) of length d. Find the maximum lattice length that, whatever the shape of the worm's path, if d < l l l l l l l l l l l l s still manage to cut the apple (with a flat cut) into two equal parts, one of which is completely healthy. A ℓ= 20 cm B ℓ= 10 cm C ℓ= 10π cm D ℓ= 5π cm E ℓ= 10π 3 cm F ℓ= 20π 3 cm
+
+**Answer:** A
+[[src_garaprime_2018__Q16]]

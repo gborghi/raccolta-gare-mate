@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2021_squadre__Q05
 parent: src_gsm_2021_squadre
 competition: Gara a Squadre GSM (locale Genova) 2021
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *dedurre numero pensato*
 
@@ -55,3 +58,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2000
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>to deduce the number thought< MSK1/>
+
+> Villa Feltrinelli Lorenzo Mazza Carlo (Sitting by the lake in the garden of the villa) I propose a game while we wait for the ferry to Riva. Each of you is thinking of a positive integer. Emilia, tell me what number you thought of. (Emilia whispers to Carlo so that Silvio doesn't hear.) (Silvio plays Emilia) Now I write on this sheet the sum of the two numbers, on this other sheet the product of the two numbers. Then I pick one at random and show it to you. Who can tell me what numbers you've been thinking about? Silvio C is 4000. I don't know what number Emilia thought. Emilia I can't even tell what number Silvio thought. What number did Emilia think of?
+
+**Answer:** 2000
+[[src_gsm_2021_squadre__Q05]]

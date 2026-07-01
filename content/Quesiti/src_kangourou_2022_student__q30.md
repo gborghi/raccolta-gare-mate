@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q30
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *min posti*
 
@@ -89,3 +92,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The following table shows the number of items in the table:
+
+> A football match between the Kang North and Kang South teams is played in a stadium that has a grandstand with seats for spectators arranged rectangularly. In each horizontal row of seats there are exactly 11 North Kang fans, while in each vertical row of seats there are exactly 14 South Kang fans. The seats not occupied by the fans are exactly 17. How many seats can the grandstand have? A) 500 B) 660 C) 690 D) 840 E) 994
+>  
+> 0 1 1 1 2 1 3 1 4 1 5 1 6 1 7 1 8 1 9 2 0 2 1 2 2 2 3 2 4 2 5 2 6 2 7 2 8 2 9 3 0
+
+**Answer:** B
+[[src_kangourou_2022_student__Q30]]

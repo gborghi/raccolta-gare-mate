@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 1) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g1__Q17
 parent: src_bocconi_finaleint_2007_g1
 competition: >-
@@ -39,6 +40,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Oasi: distanza Mira-Jeu - Coco intera, angolo Ananas-Mira-Jeu-Banane di 135 gradi, Mira-Jeu a 1 km da Ananas*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3 km, 17 km, 99 km
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Oasis: Mira-Jeu - whole coconut, Ananas-Mira-Jeu-Banane angle of 135 degrees, Mira-Jeu 1 km from Ananas
+
+> Pineapples, Banana, Coconut and Orange are villages located on the four peaks of a square desert. Mira-Jeu is an oasis whose distances from Ananas, Bananas and Coco are integers, not nulls and less than < MSK0/> kilometres. From Mira-Jeu you can see pineapples and bananas at an angle of < MSK1/>. Mira-Jeu is in fact located < MSK2/> kilometre from Ananas. What is the distance, expressed in kilometres, from Mira-Jeu to Coco?
+
+![[src_bocconi_finaleint_2007_g1__Q17.png]]
+
+**Answer:** 3 km, 17 km, 99 km
+[[src_bocconi_finaleint_2007_g1__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2017__Q03
 parent: src_cesenatico_2017
 competition: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti mazzetti girati*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 112
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JISzedSazgC79gEUAMWBmfIAmPO-Z1X9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many spins < MSK1/>
+
+> Magician has a deck of 52 cards, stacked in piles, with the back up. Magogo separates the seven-card deck at the top of the pile, flips it over, and puts it under the pile. Now all the cards are back in the pile, but not all of them have their backs up yet: the bottom seven have turned upside down. Magno repeats the previous operation until it happens again that all the cards have their backs up. In total, how many seven-card deals did Magog make?
+
+**Answer:** 112
+[[src_cesenatico_2017__Q03]]

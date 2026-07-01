@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1990 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1990__Q03
 parent: src_rmo_1990
 competition: Regional Mathematical Olympiad 1990
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square paper folded so B hits midpoint M of CD; crease divides BC 3:5*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ogcf4pFWupc25G2ZRadOfWoHaUpTy0zm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Papero quadrato piegato in modo che B raggiunga il punto medio M del CD; piega divide BC 3:5*
+
+> Un foglio quadrato di carta $ABCD$ è piegato in modo tale che $B$ ricade sul punto medio $M$ di $CD$. Prove che la piega dividerà $BC$ nel rapporto $5:3$.
+
+[[src_rmo_1990__Q03]]

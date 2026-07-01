@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo34yqa_yosen__Q11
 parent: src_jmo34yqa_yosen
 competition: Japan Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum sum f(100)+...+f(199) for function satisfying triangle side conditions*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 102050
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BLiurO6ycVxBaRhIQ4VIeU3sYe6dethe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa minima f(100)+...+f(199) per la funzione che soddisfa le condizioni laterali del triangolo*
+
+> Una funzione $f$ definita sui numeri interi positivi assume valori interi positivi, soddisfa $f(34) = 2024$, e ha la proprietà che per tutti i numeri interi positivi $a, b, c$, esiste un triangolo con lunghezze laterali $a + f(b)$, $b + f(c)$, $c + f(a)$ (dove tre punti collineari non formano un triangolo). Trova il valore minimo possibile di $f(100) + f(101) + \cdots + f(199)$.
+
+**Risposta:** 102050
+[[src_jmo34yqa_yosen__Q11]]

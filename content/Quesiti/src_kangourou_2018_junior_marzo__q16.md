@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q16
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Costo del libro dato schema di contributi familiari*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cost of the book given family contribution scheme*
+
+> Peter had no money, but he wanted to buy a book. With the help of his father and his two brothers, he bought it. His father gave him half the sum his brothers collectively gave him. The older brother gave him a third of what the others gave him. His younger brother gave him 10 euros. How many euros did the book cost? A) 24
+> 	
+> B) 26
+> 	
+> C) 28
+> 	
+> D) 30
+> 	
+> E) 32
+
+**Answer:** A
+[[src_kangourou_2018_junior_marzo__Q16]]

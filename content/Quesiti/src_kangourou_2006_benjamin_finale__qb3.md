@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (finale nazionale) — Quesito B3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin_finale__QB3
 parent: src_kangourou_2006_benjamin_finale
 competition: Kangourou 2006 - Benjamin (finale nazionale)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura angolo NYC tra CM e BN nel quadrato*
 
@@ -62,3 +65,41 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 90 gradi
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1SgavtoqL9VQ-oYTP6QSn5-u44sFmrisW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measuring the angle NYC between CM and BN in square*
+
+![[src_kangourou_2006_benjamin_finale__probB3.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=2]
+  \coordinate (A) at (0,2);
+  \coordinate (D) at (2,2);
+  \coordinate (C) at (2,0);
+  \coordinate (B) at (0,0);
+  \coordinate (M) at (0,1);
+  \coordinate (N) at (1,2);
+  \draw (A) -- (D) -- (C) -- (B) -- cycle;
+  \draw (C) -- (M);
+  \draw (B) -- (N);
+  \node[above left] at (A) {$A$};
+  \node[above right] at (D) {$D$};
+  \node[below right] at (C) {$C$};
+  \node[below left] at (B) {$B$};
+  \node[left] at (M) {$M$};
+  \node[above] at (N) {$N$};
+  \coordinate (Y) at (0.4,0.8);
+  \node[right] at (Y) {$Y$};
+  \fill (Y) circle (1pt);
+\end{tikzpicture}
+\end{document}
+```
+
+> *(11 points) * Note the figure: $ABCD$ is a square, $M$ is the mean point of $AB$ and $N$ is the mean point of $BC$. The segments $AN$ and $BM$ cross in $Y$. What is the angle $NYC$? (see figure)
+
+**Answer:** 90 gradi
+[[src_kangourou_2006_benjamin_finale__QB3]]

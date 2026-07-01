@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo9yq_yosen__Q06
 parent: src_jjmo9yq_yosen
 competition: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all 4-card sets with distinct 1-digit integers giving 4 distinct sums and 3 distinct products*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qMJjxU0l_DxfEY-9HMozDgyKBaM5GpnZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli insiemi di carte a 4 con numeri interi a 1 cifra distinti che danno 4 somme distinte e 3 prodotti distinti*
+
+> Ci sono 4 carte, ognuna con un numero intero positivo singolo-cifrato scritto su di essa. Quando si scelgono due delle quattro carte e si aggiungono i loro numeri, possono essere ottenute somme distinte esattamente < MSK0/> in totale. Quando si scelgono due delle quattro carte e si moltiplicano i loro numeri, si possono ottenere esattamente $3$ prodotti distinti in totale. Trova tutte le possibili serie di 4 enti che potrebbero essere scritte sulle carte.
+
+[[src_jjmo9yq_yosen__Q06]]

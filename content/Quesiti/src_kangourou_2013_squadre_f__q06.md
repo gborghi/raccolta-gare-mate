@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Finale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q06
 parent: src_kangourou_2013_squadre_f
 competition: Kangourou Coppa Squadre 2013 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero ABCD con 4*ABCD = DCBA*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2178
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*ABCD number with 4*ABCD = DCBA*
+
+> Read on the contrary What is the number of four significant digits ABCD (therefore with the number A of thousands other than 0) such that 4 × ABCD = DCBA?
+
+**Answer:** 2178
+[[src_kangourou_2013_squadre_f__Q06]]

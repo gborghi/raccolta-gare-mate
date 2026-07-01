@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2009 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2009_printemps__Q02
 parent: src_canimath_2009_printemps
 competition: Coupe Animath Printemps 2009
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find width of ribbon wrapped diagonally around rectangular box*
 
@@ -45,3 +48,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ricerca larghezza del nastro avvolto diagonalmente intorno alla scatola rettangolare< MSK1/>
+
+> Un nastro è esteso su una scatola rettangolare come mostrato nella figura seguente. La scatola ha dimensioni $5 \times 3$ (lunga e altezza visibili), con una striscia diagonale di larghezza $x$ e un segmento di lunghezza $4.2$ indicato.
+> 
+> Calcolare la larghezza < MSK0/> del nastro.
+
+![[src_canimath_2009_printemps__Q02.png]]
+
+[[src_canimath_2009_printemps__Q02]]

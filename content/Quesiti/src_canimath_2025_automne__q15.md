@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2025 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_automne__Q15
 parent: src_canimath_2025_automne
 competition: Coupe Animath Automne 2025
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest and smallest a-b for positive reals with running averages between 0 and 1*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A-b più grande e più piccola per i reali positivi con medie correnti comprese tra 0 e 1*
+
+> $n \ge 2$ sia un numero intero fisso. Gaëtan sceglie i numeri reali $x_1, x_2, \ldots, x_n$ in modo tale che tra i numeri $n$ $$\frac{x_1}{1},\ \frac{x_1 + x_2}{2},\ \frac{x_1 + x_2 + x_3}{3},\ \ldots,\ \frac{x_1 + \cdots + x_n}{n},$$ il valore più grande preso sia $1$ e il valore più piccolo preso sia $0$. Tra i numeri $x_1, x_2, \ldots, x_n$, indichiamo con $a$ il più grande e con $b$ il più piccolo. Gaëtan calcola $a - b$ e scrive questa differenza sulla lavagna. Qual è il numero più grande che Gaëtan può scrivere sulla lavagna? Qual è il più piccolo?
+
+[[src_canimath_2025_automne__Q15]]

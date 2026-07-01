@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q29
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tornata in cui D incontra F nel torneo*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Turn where D meets F in the tournament
+
+![[src_kangourou_2021_cadet__prob29.png]]
+
+> In a tournament, each of the six participating teams must meet each other exactly once. Each day the three meetings take place simultaneously: see in the picture which meeting will be broadcast each day by a television news channel. What turn will Team D meet Team F ? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 5
+
+**Answer:** A
+[[src_kangourou_2021_cadet__Q29]]

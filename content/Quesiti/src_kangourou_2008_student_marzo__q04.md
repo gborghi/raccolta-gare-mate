@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q04
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti primi p tali che p^4+1 sia primo*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many prime p such that p^4+1 is prime *
+
+> How many prime numbers p have the property that p4+1 is also prime? (Remember that 1 is not a prime number.) A) None B) 1 C) 2 D) 3 E) Infinite
+
+**Answer:** B
+[[src_kangourou_2008_student_marzo__Q04]]

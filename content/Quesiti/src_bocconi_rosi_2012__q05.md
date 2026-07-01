@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2012 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2012__Q05
 parent: src_bocconi_rosi_2012
 competition: Giochi di Rosi 2012
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare una data palindroma del 2012*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Un esempio: 30-12-2103. Possono essere scritte molte altre date palindrome
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1du4nM_pjVseEMRiX1hz7hrTEkEIg-ZC2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Finding a palindrome date from 2012< MSK1/>
+
+> A number is called a palindrome when it is read the same way from left to right. For example, palindrome is number 353. The date of 21 February 2012 is a palindrome because it is written as 21.02.2012 (and reading it from the left, or from the right, expresses the same day).
+> 
+> Can you find another palindrome date?
+
+**Answer:** Un esempio: 30-12-2103. Possono essere scritte molte altre date palindrome
+[[src_bocconi_rosi_2012__Q05]]

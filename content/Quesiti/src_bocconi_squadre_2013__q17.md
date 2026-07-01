@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q17
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza minima da percorrere per andare da A a D*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $2 + 2\sqrt{3} + \frac{\pi}{3}$ km
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum distance to travel from A to D < MSK1/>
+
+> Four oil wells are located in four points of the desert: A, B, C, D, aligned in this order (left to right) and each 2 km apart. When wells in B and C are set on fire, a safety zone is created around them for which it is forbidden to be less than 1 km from B and C.
+> 
+> So what is the minimum distance to go from A to D?
+
+**Answer:** $2 + 2\sqrt{3} + \frac{\pi}{3}$ km
+[[src_bocconi_squadre_2013__Q17]]

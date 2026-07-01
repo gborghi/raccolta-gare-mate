@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r1__Q02
 parent: src_pol_1993_r1
 competition: Olimpiade Matematica Polacca 1993 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve a cyclic system of n equations involving tangent and cotangent.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi un sistema ciclico di n equazioni che coinvolgono tangente e cotangente.*
+
+> $n\ge 3$ sia un numero intero. Risolvere il sistema di equazioni: $$\begin{aligned}\tan x_1+3\cot x_1&=2\tan x_2,\\\tan x_2+3\cot x_2&=2\tan x_3,\\&\;\;\vdots\\\tan x_n+3\cot x_n&=2\tan x_1.\end{aligned}$$
+
+[[src_pol_1993_r1__Q02]]

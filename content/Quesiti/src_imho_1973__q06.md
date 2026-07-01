@@ -1,6 +1,7 @@
 ---
 title: IMO 1973 (XV International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1973__Q06
 parent: src_imho_1973
 competition: IMO 1973 (XV International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Construct n numbers b_k satisfying bounds relative to given a_k and q*
 
@@ -49,3 +52,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_yg5ytepW4kPtXzf2MZzjG__z3aJ2dcR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Construct n numbers b_k satisfying bounds relative to given a_k and q*
+
+> Let $a_1, a_2, \ldots, a_n$ be $n$ positive numbers, and let $q$ be a given real number such that $0 < q < 1$. Find $n$ numbers $b_1, b_2, \ldots, b_n$ for which
+> 
+> (a) $a_k < b_k$ for $k = 1, 2, \cdots, n$,
+> 
+> (b) $q < \dfrac{b_{k+1}}{b_k} < \dfrac{1}{q}$ for $k = 1, 2, \ldots, n-1$,
+> 
+> (c) $b_1 + b_2 + \cdots + b_n < \dfrac{1+q}{1-q}(a_1 + a_2 + \cdots + a_n)$.
+
+[[src_imho_1973__Q06]]

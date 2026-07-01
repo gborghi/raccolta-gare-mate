@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2011 - soluzioni — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011__Q06
 parent: src_cesenatico_2011
 competition: Olimpiade Italiana (Cesenatico) 2011 - soluzioni
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *4 colori bastano, 3 no*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZgCq2k5aOrXSuhhzvdkr8guHFAKG9sju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*4 colours are enough, 3 no*
+
+> If X is equal to {1, 2, 3, 4, 5, 6, 7, 8}. We want to colour, using k colors, all the subset of 3 elements of X so that, however you choose two disjoint elements, they have distinct colors. Demonstrate that: (a) 4 colours are sufficient; (b) 3 colours are not sufficient.
+
+[[src_cesenatico_2011__Q06]]

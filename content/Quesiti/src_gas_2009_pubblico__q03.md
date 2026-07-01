@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_pubblico__Q03
 parent: src_gas_2009_pubblico
 competition: Gara a Squadre 2009 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime 4 cifre minimo numero con cifre 2,3 divisibile per 2^2009*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3232
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last 4 digits minimum number with 2.3 digits divisible by 2^2009*
+
+> Ancient Battles [20] A major battle of ancient times took place in the Year N of the first era. Knowing that N is the smallest number that, based on ten, is written with the numbers 2 and 3 and is divisible by 22009, find the last 4 digits of N.
+
+**Answer:** 3232
+[[src_gas_2009_pubblico__Q03]]

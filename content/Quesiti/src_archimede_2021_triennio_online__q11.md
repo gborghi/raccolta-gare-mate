@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_triennio_online__Q11
 parent: src_archimede_2021_triennio_online
 competition: Giochi di Archimede 2021 - Gara Triennio (online)
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Funzione con due simmetrie, somma di valori*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mirXxT9-Hv1KYgVTqPSQsnkdU7SPLtJP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Function with two symmetries, sum of values*
+
+> The real-valued function f satisfies the equations f(x) = f(2021 −x) and f(x + 10) = f(2010 −x), for any real number x. If we know that f(2) + f(3) + f(4) = 4, what is the value of f(16) + f(17) + f(18) + f(19) ?
+>
+> - **(A)** It is not possible to establish
+> - **(B)** 19
+> - **(C)** 15/4
+> - **(D)** 9/2
+> - **(E)** 16/3
+
+**Answer:** E
+[[src_archimede_2021_triennio_online__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q12
 parent: src_kangourou_2015_squadre_a
 competition: Kangourou Coppa Squadre 2015 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume max parallelepipedo con due facce 24 e 30*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 720
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume max parallel piped with two faces 24 and 30*
+
+> The lengths of the sides of a rectangular parallelepiped are expressed by integer numbers of centimeters. The areas of two faces are 24 and 30 square centimeters. How many cubic centimeters can the volume of the parallelepiped be worth at most?
+
+**Answer:** 720
+[[src_kangourou_2015_squadre_a__Q12]]

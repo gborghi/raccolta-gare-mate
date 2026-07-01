@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2018 Semifinale A — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_a__Q12
 parent: src_kangourou_2018_squadre_a
 competition: Kangourou Coppa Squadre 2018 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro rettangolo dopo piegature del telo*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 350
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular perimeter after folding of the canvas*
+
+> The canvas A canvas is a rectangle of three meters by two. By folding it repeatedly a few times, always along the straight line passing through the center and parallel to the side that is shorter at the time of folding, a rectangle with an area of 7,500 cm2 is obtained. How many centimetres does the perimeter of this last rectangle measure?
+
+**Answer:** 350
+[[src_kangourou_2018_squadre_a__Q12]]

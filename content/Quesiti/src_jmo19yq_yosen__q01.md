@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo19yq_yosen__Q01
 parent: src_jmo19yq_yosen
 competition: Japan Mathematical Olympiad 2009 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of n^2+4n closest to 10000*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9996
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta di n^2+4n più vicina a 10000*
+
+> Tra i numeri espressi come $n^2+4n$ per un intero positivo $n$, trova quello la cui differenza assoluta da $10000$ è più piccola.
+
+**Risposta:** 9996
+[[src_jmo19yq_yosen__Q01]]

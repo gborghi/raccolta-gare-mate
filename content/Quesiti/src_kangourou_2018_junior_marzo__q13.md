@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q13
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area non ombreggiata in quadrato con 8 semicirconferenze*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Unshaded area in square with 8 semicircumferences< MSK1/>
+
+![[src_kangourou_2018_junior_marzo__prob13.png]]
+
+> Observe the figure: in a square on side 4 eight semicircles of the same radius have been drawn and some of the regions enclosed between them and the sides of the square have been shaded. What is the area of the unshaded part of the square? A) 2π
+> 	
+> B) 8
+> 	
+> C) 6+ π D) 3π – 2 E) 12
+
+**Answer:** B
+[[src_kangourou_2018_junior_marzo__Q13]]

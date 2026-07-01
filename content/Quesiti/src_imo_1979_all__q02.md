@@ -1,6 +1,7 @@
 ---
 title: IMO 1979 (Twenty-first International Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1979_all__Q02
 parent: src_imo_1979_all
 competition: IMO 1979 (Twenty-first International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *top and bottom edges all same color*
 
@@ -36,3 +39,13 @@ tags:
 **Metodo:** [[method_colorazione|Colorazione / parita]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zEPuPBU2bBcA_YKZy9BbfgTGEtgtWSpu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*top and bottom edges all the same colour*
+
+> Notes. A path of n jumps is a sequence of vertices (P0, ..., Pn) such that (i) P0 = A, Pn = E; (ii) for every i, 0 ≤i ≤n −1, Pi is distinct from E; (iii) for every i, 0 ≤i ≤n −1, Pi and Pi+1 are adjacent.
+
+[[src_imo_1979_all__Q02]]

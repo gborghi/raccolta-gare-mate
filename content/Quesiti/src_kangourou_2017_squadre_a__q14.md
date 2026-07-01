@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q14
 parent: src_kangourou_2017_squadre_a
 competition: Kangourou Coppa Squadre 2017 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Possibili accoppiate primo-secondo nel menu*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 56
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible first-second pairs in the menu*
+
+> The menu The restaurant of a hotel, open only in the evening, offers a choice of some first and some second dishes, the latter in greater quantity than the former. Last April, a couple of tourists ate dinner at the hotel every night and always wanted to order a different pair of first- and second-hand dishes. In this way all possible pairs were ordered, some even more than once but, during the first week, neither of them ordered the same dish twice. How many possible pairs of firsts and seconds can be obtained from the dishes in the menu?
+
+**Answer:** 56
+[[src_kangourou_2017_squadre_a__Q14]]

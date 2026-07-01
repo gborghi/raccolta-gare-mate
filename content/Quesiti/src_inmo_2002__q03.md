@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2002 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2002__Q03
 parent: src_inmo_2002
 competition: Indian National Mathematical Olympiad 2002
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove $x^2y^2(x^2+y^2)\le 2$ for positive reals with $x+y=2$*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/123ExWCM4Wogb72Q-10yYiq_o3oHySsJU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove $x^2y^2(x^2+y^2)\le 2$ per i risultati positivi con $x+y=2$*
+
+> Che $x, y$ siano valori reali positivi tali che $x + y = 2$. Provare che < MSK0/>
+
+[[src_inmo_2002__Q03]]

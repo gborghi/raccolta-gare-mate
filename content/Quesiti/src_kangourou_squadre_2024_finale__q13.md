@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2024_finale__Q13
 parent: src_kangourou_squadre_2024_finale
 competition: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato incontro A-D in torneo di calcio a 4 squadre*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0201
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Result of match A-D in four-team football tournament*
+
+![[src_kangourou_squadre_2024_finale__prob13.png]]
+
+> The tournament A football tournament involves four teams A, B, C, D. Each meets each of the other three once and only once. The final ranking (3 points for victory, 1 for tie, 0 for defeat) is what you see in the figure. A and C only collected one network each, B and C only scored one network each, A scored three networks. What is the result of the meeting between A and D? If the meeting ends m for A and n for D (e.g. 1 to 0), write [0m0n] (in the case of the example [0100]).
+
+**Answer:** 0201
+[[src_kangourou_squadre_2024_finale__Q13]]

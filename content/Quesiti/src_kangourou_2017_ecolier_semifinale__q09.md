@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q09
 parent: src_kangourou_2017_ecolier_semifinale
 competition: Kangourou 2017 Ecolier - Semifinale individuale
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Partite di Tris gia concluse su griglia avvolta*
 
@@ -52,3 +55,20 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Tris matches already completed on wrapped grid < MSK1/>
+
+![[src_kangourou_2017_ecolier_semifinale__prob9.png]]
+
+> (Points 6) The game of Tris is played in alternate moves and the first of the two players who manages to line up, on a grid of 3×3, three equal symbols in horizontal, vertical or diagonal, wins. Eight players are involved in four matches and in each match one of the players made 3 moves and the other 2: in the drawing you see the photo of the four grids. We now wrap each of the four grids on a tube (as shown in the other figure) so that its opposite vertical sides join. If the rules remain the same, how many of the four matches with the grid wrapped around the tube are already over?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3 (E) 4 Open-ended questions
+
+[[src_kangourou_2017_ecolier_semifinale__Q09]]

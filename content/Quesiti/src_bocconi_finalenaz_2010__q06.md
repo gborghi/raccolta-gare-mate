@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2010 — Quesito
   6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2010__Q06
 parent: src_bocconi_finalenaz_2010
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2010
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre 2, 0, 1, 0: quanti altri numeri di 2, 3, 4 cifre?*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 15
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers 2, 0, 1, 0: how many other numbers of 2, 3, 4 digits? *
+
+> Sergio owns the four tokens that appear in the figure, with which he formed the number 2010. By arranging them differently, it can naturally form other numbers.
+> 
+> **How many other numbers of 2, 3 and 4 digits can it make together? **
+> 
+> Note: A number of 2, 3 or 4 digits cannot start with 0.
+
+![[src_bocconi_finalenaz_2010__Q06.png]]
+
+**Answer:** 15
+[[src_bocconi_finalenaz_2010__Q06]]

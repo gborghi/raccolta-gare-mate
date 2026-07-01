@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2026 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2026__Q05
 parent: src_inmo_2026
 competition: Indian National Mathematical Olympiad 2026
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For an interior point P of an acute triangle T with successive reflections in its sides, prove the six triple-reflection images are concyclic iff P is the orthocentre.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ffwcPTmw5kJZuKkanVDFlqLhvUS6FxGr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per un punto interno P di un triangolo acuto T con riflessi successivi nei suoi lati, dimostrare che le sei immagini a triplice riflessione sono concicliche se P è l'ortocentro.*
+
+> Tre linee $t_1, t_2, t_3$ formano un triangolo acuto angolato $\mathcal{T}$ nel piano. Il punto $P$ si trova all'interno di $\mathcal{T}$. Il $r_i$ indica la trasformazione del piano in modo tale che l'immagine $r_i(X)$ di qualsiasi punto $X$ nel piano sia il riflesso di $X$ in $t_i$, per ogni $i \in \{1, 2, 3\}$. Indicare con $P_{ijk}$ il punto $r_k(r_j(r_i(P)))$ per ogni permutazione $(i, j, k)$ di $(1, 2, 3)$. Prova che $P_{123}, P_{132}, P_{213}, P_{231}, P_{312}, P_{321}$ sono conciclici se e solo se $P$ coincide con l'ortocentro di $\mathcal{T}$.
+
+[[src_inmo_2026__Q05]]

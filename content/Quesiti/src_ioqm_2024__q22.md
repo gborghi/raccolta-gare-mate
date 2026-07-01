@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q22
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find m+n+p for ratio AC/AB in right triangle with given BD ratio*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova m+n+p per il rapporto AC/AB nel triangolo rettangolo con un dato rapporto BD*
+
+> In un triangolo $ABC$, $\angle BAC = 90^\circ$. $D$ sia il punto di $BC$ in modo tale che $AB + BD = AC + CD$. Supponiamo < MSK5/>. Se $\frac{AC}{AB} = \frac{m + \sqrt{p}}{n}$, dove $m, n$ sono numeri interi positivi relativamente primi e $p$ è un numero primo, determinare il valore di $m + n + p$.
+
+[[src_ioqm_2024__Q22]]

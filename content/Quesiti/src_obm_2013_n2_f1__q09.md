@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q09
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three-door problem: deduce which door hides the car from porter statements*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Problema a tre porte: dedurre quale porta nasconde l'auto dalle dichiarazioni dei portieri*
+
+> Il programma $O$ divenne famoso negli Stati Uniti. Il programma originale: un partecipante sceglie una delle tre porte; dietro una c'è un'auto, dietro le altre capre. L'ospite (che sa dove si trova l'auto) apre una delle porte non scelte che rivela una capra. Nella nuova versione del programma, ciascuna delle tre porte ha un portiere che fa una dichiarazione. Il partecipante sceglie poi una porta. I tre portatori affermano:
+> 
+> - L'auto non e' dietro la mia porta. - L'auto e' dietro la mia porta. - Porter 3: l'auto e' dietro la mia porta.
+> 
+> È noto che almeno una affermazione è vera e almeno una falsa. Di dietro a quale porta c'è l'auto?
+> 
+> (A) Porta 1 \quad (B) Porta 2 \quad (C) Porta 3 \quad (D) Non è possibile determinare. Non è possibile in nessuna di esse.
+
+**Risposta:** A
+[[src_obm_2013_n2_f1__Q09]]

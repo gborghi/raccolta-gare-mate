@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f3__Q01
 parent: src_obm_2003_n2_f3
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 2x2 grids with integers 1–9 under ordering constraints*
 
@@ -52,3 +55,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uhVXECvta8Ycz4kch8C6GF4_k1qhNTYm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le griglie 2x2 con numeri interi 19 sotto restrizioni di ordine*
+
+> In una tabella $2 \times 2$, come mostrato di seguito, scriviamo numeri interi da $1$ a $9$ obbedendo alla seguente regola: $A > B$, $C > D$, $A > C$ e $B > D$.
+> 
+> $$\begin{array}{|c|c|}\hline A & B \\ \hline C & D \\ \hline\end{array}$$
+> 
+> a) Quante tabelle diverse esistono in modo tale che < MSK0/>?
+> 
+> b) Quante tabelle diverse esistono in totale?
+
+[[src_obm_2003_n2_f3__Q01]]

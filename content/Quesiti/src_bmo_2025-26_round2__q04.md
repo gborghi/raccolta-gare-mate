@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2025-26 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2025-26_round2__Q04
 parent: src_bmo_2025-26_round2
 competition: British Mathematical Olympiad 2025-26 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Infinite sequence from partial sums: finitely many positive or finitely many negative terms?*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ufYaIEDeZvv4lfnrA4qM8dub1wR1JKc3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Sequenza infinita da somme parziali: finitamente molti termini positivi o finitamente molti termini negativi?
+
+> Che $N$ sia un intero positivo e che $(k_n)_{n \geq 1}$ sia una sequenza di interi positivi con tutti i termini al massimo $N$. Annabel inizia scegliendo i numeri interi $x_1, x_2, \ldots, x_N$. Poi lo estende a una sequenza infinita $(x_n)_{n \geq 1}$ di numeri interi definendo $$x_n = \sum_{i=n-k_{n-1}}^{n-1} x_i$$ per ogni $n > N$.
+> 
+> Mostrare che ci sono finitamente molti termini strettamente positivi o finitamente molti termini strettamente negativi nella sequenza infinita $(x_n)$.
+
+[[src_bmo_2025-26_round2__Q04]]

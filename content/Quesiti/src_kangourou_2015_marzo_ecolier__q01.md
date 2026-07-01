@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q01
 parent: src_kangourou_2015_marzo_ecolier
 competition: Kangourou 2015 gara 19 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero finale*
 
@@ -47,3 +50,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The following information is provided by the manufacturer:
+
+![[src_kangourou_2015_marzo_ecolier__prob1.png]]
+
+> Perform the operations above each arrow in order. What number should be written in the last cloud? A) 6
+> 	
+> B) 7
+> 	
+> C) 8
+> 	
+> D) 10
+> 	
+> E) 15
+
+**Answer:** E
+[[src_kangourou_2015_marzo_ecolier__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2009 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo19mq_honsen__Q04
 parent: src_jmo19mq_honsen
 competition: Japan Mathematical Olympiad 2009 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle tangent to BC and circumcircle: prove angle bisector property at A*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkWAtYCNms8aPB0csO1ya8AFPjXe2OlU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo tangente a BC e circoncircolo: prova la proprietà del bisettore angolare a A*
+
+> $\Gamma$ sia il circoncircolo del triangolo $ABC$. Il $\omega$ deve essere un cerchio centrato a $O$ che sia tangente internamente a $\Gamma$ e tangente lateralmente a $BC$ al punto $P$. Il $Q$ deve essere il punto sull'arco $BC$ di $\Gamma$ non contenente $A$. Dato che $\angle BAO = \angle CAO$ (cioè $AO$ bisecta $\angle BAC$), dimostrare che $\angle PAO = \angle QAO$.
+
+[[src_jmo19mq_honsen__Q04]]

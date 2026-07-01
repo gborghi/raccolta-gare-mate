@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1998 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1998_r1__Q03
 parent: src_pol_1998_r1
 competition: Olimpiade Matematica Polacca 1998 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three sequences defined by recurrences; prove one is bounded*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre sequenze definite da ricorrenze; dimostrare che una è limitata*
+
+> Le sequenze $(a_n)$, $(b_n)$, $(x_n)$ sono indicate da $a_1 = 4$ e per $n \ge 1$, $$a_{n+1} = a_n(a_n - 1), \quad 2^{b_n} = a_n, \quad 2^{x_n - x_{n-1}} = b_n.$$ Provare che la sequenza $(x_n)$ è delimitata.
+
+[[src_pol_1998_r1__Q03]]

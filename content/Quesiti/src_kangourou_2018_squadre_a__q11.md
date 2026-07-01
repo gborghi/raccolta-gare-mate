@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2018 Semifinale A — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_a__Q11
 parent: src_kangourou_2018_squadre_a
 competition: Kangourou Coppa Squadre 2018 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *uno e 36 piu della media degli altri due*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 95
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>one and 36 more than the average of the other two < MSK1/>
+
+> Angles The degree measures of the angles of a triangle are all integers (positive). One of the angles is 36 degrees wider than the average of the other two. How many degrees can the widest of the three angles be measured at most?
+
+**Answer:** 95
+[[src_kangourou_2018_squadre_a__Q11]]

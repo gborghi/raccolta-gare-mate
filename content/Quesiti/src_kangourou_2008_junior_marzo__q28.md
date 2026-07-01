@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q28
 parent: src_kangourou_2008_junior_marzo
 competition: Kangourou 2008 - Junior (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo diagonali senza punti in comune (4x4)*
 
@@ -56,3 +59,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum diagonal without points in common (4x4)*
+
+![[src_kangourou_2008_junior_marzo__prob28.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+\draw[step=1] (0,0) grid (4,4);
+\end{tikzpicture}
+\end{document}
+```
+
+> Look at the figure. A square 4x4 is broken down into 16 squares 1x1. What is the maximum number of diagonals of the individual 1x1 squares that can be plotted, if you want different diagonals to have no points in common (not even the points at the ends)? A) 8 B) 9 C) 10 D) 11 E) 12
+
+**Answer:** C
+[[src_kangourou_2008_junior_marzo__Q28]]

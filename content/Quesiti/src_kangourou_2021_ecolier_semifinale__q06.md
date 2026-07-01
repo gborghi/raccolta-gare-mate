@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - semifinale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_semifinale__Q06
 parent: src_kangourou_2021_ecolier_semifinale
 competition: Kangourou 2021 Ecolier - semifinale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti conigli mangiano carote oggi*
 
@@ -53,3 +56,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1d4KIlUoujYfd3Cc7JpT28ssbmAgsp2A5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many rabbits eat carrots today?
+
+> (4 points) Bianca has 20 rabbits: 9 of them eat carrots every day, the others only one day yes and one no, not necessarily all on the same day. They ate 16 rabbits yesterday. How many rabbits will eat carrots today? A) 9 B) 13 C) 14 D) 15 E) The information is insufficient.
+>  
+>  
+>  
+> 3 2 8
+
+**Answer:** B
+[[src_kangourou_2021_ecolier_semifinale__Q06]]

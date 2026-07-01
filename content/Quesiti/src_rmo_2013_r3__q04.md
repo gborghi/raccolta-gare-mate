@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r3__Q04
 parent: src_rmo_2013_r3
 competition: Regional Mathematical Olympiad 2013
@@ -31,6 +32,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove f(x)+2x is not a Fermat polynomial when f(0)=1000*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LyJj9lZ6d9wJTkSmciSZe9Gn8yrb6GdD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che f(x) +2x non è un polinomio di Fermat quando f(0)=1000*
+
+> Un polinomio è chiamato \textit{polinomio Fermat} se può essere scritto come la somma dei quadrati di due polinomi con coefficienti interi. Supponiamo che $f(x)$ sia un polinomio di Fermat tale che $f(0) = 1000$. Prova che $f(x) + 2x$ non è un polinomio di Fermat.
+
+[[src_rmo_2013_r3__Q04]]

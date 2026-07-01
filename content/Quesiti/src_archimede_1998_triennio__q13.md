@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Triennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_triennio__Q13
 parent: src_archimede_1998_triennio
 competition: Giochi di Archimede 1998 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita somma di tre dadi minore o uguale a 5*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability sum of three dice less than or equal to 5*
+
+> What is the probability that by throwing a dice three times the sum of the values obtained is less than or equal to 5?
+>
+> - **(A)** Less than 3%
+> - **(B)** between 3% and 5%
+> - **(C)** between 5% and 7%
+> - **(D)** between 7% and 9%
+> - **(E)** more than 9%.
+
+**Answer:** B
+[[src_archimede_1998_triennio__Q13]]

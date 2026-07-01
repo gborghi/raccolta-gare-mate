@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q07
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ordered pairs (a,b) in {10,...,30} with GCD(a,b)=LCM(a,b)-a-b*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 35
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le coppie ordinate (a,b) in {10,...,30} con GCD(a,b)=LCM(a,b)-a-b*
+
+> Trova il numero di coppie ordinate $(a, b)$ in modo tale che $a, b \in \{10, 11, \ldots, 29, 30\}$ e $\gcd(a, b) = \text{lcm}(a, b) - a - b$.
+
+**Risposta:** 35
+[[src_ioqm_2022__Q07]]

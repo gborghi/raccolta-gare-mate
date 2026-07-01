@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Finale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_f__Q13
 parent: src_kangourou_2017_squadre_f
 competition: Kangourou Coppa Squadre 2017 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Resto della divisione per 9 del grande numero*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Remaining partition by 9 of the large number*
+
+> The rest of you find the rest in the division 9 of 122,333,444,455,555,666,666,777,788,888,999,999.
+
+**Answer:** 6
+[[src_kangourou_2017_squadre_f__Q13]]

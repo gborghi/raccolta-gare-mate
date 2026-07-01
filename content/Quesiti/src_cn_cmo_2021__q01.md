@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2021 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2021__Q01
 parent: src_cn_cmo_2021
 competition: China Mathematical Olympiad 2021
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trajectory of incircle center of a tangential convex quadrilateral*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trettoria del centro incircolare di un quadrilaterale convex tangenziale*
+
+> Dato il numero positivo $a$, $b$ e il segmento $AB$ di lunghezza $a$ in un piano, supponiamo che due punti in movimento $C$, $D$ in questo piano soddisfino il fatto che $ABCD$ sia un quadrilaterale converso non degenerato con $BC = CD = b$, $DA = a$. È facile vedere che esiste un cerchio $I$ tangente a tutti e quattro i lati del quadrilaterale $ABCD$. Trova la traiettoria del centro $I$.
+
+[[src_cn_cmo_2021__Q01]]

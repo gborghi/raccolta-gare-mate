@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q09
 parent: src_cesenatico_2006_squadre_finale
 competition: Gara a Squadre Cesenatico 2006 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di colorare prisma base quadrata con 6 colori*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 9030
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode of colouring square base prism with 6 colours*
+
+> 9. In the lesson of geomatics, Hardy, Hermita and Ron have a group task: they have 6 different colours available and want to paint a prism on a square base (which has a height greater than the base frame) so that each colour is used for one and only one face.
+
+**Answer:** 9030
+[[src_cesenatico_2006_squadre_finale__Q09]]

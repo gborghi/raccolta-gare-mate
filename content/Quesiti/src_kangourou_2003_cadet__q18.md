@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Cadet (20 marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet__Q18
 parent: src_kangourou_2003_cadet
 competition: Kangourou 2003 Cadet (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Relazione tra segmenti su una retta*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1eygrPRLv8IqHr90bPrLsox-FA6V93kRL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Relation between segments on a straight line*
+
+> On a straight line, the six points A, B, C, D, E, F are marked from left to right in the order we have listed them. If AD = CF and BD = DF, it must necessarily happen that A) AB = BC B) BC = DE C) BD = EF D) AB = CD E) CD = EF
+> 
+> I'm going to pay. I'm going to pay. 19 19 Kang 2003 Kang
+
+**Answer:** D
+[[src_kangourou_2003_cadet__Q18]]

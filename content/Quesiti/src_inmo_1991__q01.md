@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1991 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1991__Q01
 parent: src_inmo_1991
 competition: Indian National Mathematical Olympiad 1991
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers n with n<=1991 and n^2+3n+2 divisible by 6*
 
@@ -45,3 +48,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi positivi n con n <=1991 e n^2+3n+2 divisibili per 6*
+
+> Trova il numero di interi positivi $n$ in modo tale che
+> 
+> (i) $n \le 1991$,
+> 
+> (ii) $n^2 + 3n + 2$ è un multiple di 6.
+
+[[src_inmo_1991__Q01]]

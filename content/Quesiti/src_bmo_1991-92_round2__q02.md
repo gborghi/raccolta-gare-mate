@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1991-92 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1991-92_round2__Q02
 parent: src_bmo_1991-92_round2
 competition: British Mathematical Olympiad 1991-92 — Round 2
@@ -28,6 +29,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive reals a,b,c,d: prove double inequality for six pairwise-sum fractions*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WQUmzhzILjWwym4_9QHJMWN1-c9lfbmQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Reali positivi a, b, c, d: dimostrare la doppia disuguaglianza per sei frazioni di somma pari< MSK1/>
+
+> Lasciate che $a, b, c, d$ siano numeri reali positivi. Provare che < MSK0/>
+
+[[src_bmo_1991-92_round2__Q02]]

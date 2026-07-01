@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q03
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colore del 27-simo canguro (ciclo di 5)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Color of the 27th kangaroo (cycle 5) < MSK1/>
+
+> Sofia draws kangaroos, coloring them in this order: one blue, then one green, then one red, then one black, then one yellow, then again one blue, one green, one red, one black and so on... What color will the 27th kangaroo be? A) blue B) yellow C) red D) black E) green
+
+**Answer:** E
+[[src_kangourou_2003_ecolier__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2007 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2007__Q02
 parent: src_bocconi_primavera_2007
 competition: Semifinale di Primavera 2007
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri maggiori di 1720 e minori di 2300 con cubi*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2134 e 2143
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers greater than 1720 and less than 2300 with cubes*
+
+> Angelo is learning to count. To familiarize himself with the numbers, his mother gave him four wooden cubes, each of which has a digit: $1$, $2$, $3$ or $4$. Angelo then enjoys placing his four cubes in a row, one next to the other, and reading each time the formatted number.
+> 
+> **What are the numbers greater than $1720$, but less than $2300$, that Angelo can form?**
+
+**Answer:** 2134 e 2143
+[[src_bocconi_primavera_2007__Q02]]

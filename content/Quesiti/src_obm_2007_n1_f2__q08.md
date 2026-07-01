@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f2__Q08
 parent: src_obm_2007_n1_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Esmeralda has one mass each of 1..6; count how many distinct totals she can form.*
 
@@ -52,3 +55,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c1KSYB2Si60KoloY7duhcwVwRnP2K6BN/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Esmeralda ha una massa di 1,6; contare quanti totali distinti può formare.
+
+> Esmeralda ha masse di < MSK0/> e < MSK1/> (una di ciascuna). Combinando uno o più di essi, può aggiungere $1,2,4,\dots$ ottenendo tutti i pesi da $1$ fino al totale $1+2+3+4+5+6=21$. Determinare quanti pesi totali (masse) Esmeralda può ottenere (può ottenere $21$ diverse masse).
+
+**Risposta:** 21
+[[src_obm_2007_n1_f2__Q08]]

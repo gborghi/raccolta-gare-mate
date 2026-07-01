@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2025_femminile__Q01
 parent: src_squadre_2025_femminile
 competition: Gara a Squadre Femminile 2025 - VIII Finale
@@ -23,6 +24,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore k per cui polinomio divisibile per 57x-1*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 228
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value k for which the polynomial is divisible by 57x-1*
+
+> Ferb hasn't finished his vacation homework yet. He just lacks to find the value of k for which the polynomial 3 2 167 54 1 kx x x   is divisible by 57 1 x . Phineas decided to wait for Ferb to decide what to do today. Needless to say, after a few seconds, Ferb had the solution. What value did you find?
+
+**Answer:** 228
+[[src_squadre_2025_femminile__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2018 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2018__Q05
 parent: src_garaprime_2018
 competition: Gara Nazionale Classi Prime 2018
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordinare radice di 8, radice cubica di 26 e 2,9*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XzoWDlSETOE6ynBaPWQsIvAiUafgaOrc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Ordinate roots of 8, cubic roots of 26 and 2.9< MSK1/>
+
+> Given the 3 numbers a = √ 8, b = 3 √ 26 and c = 2, 9 then we have: A a < c < b B a < b < c C b < a < c D b < c < a E c < a < b F c < b < a
+
+**Answer:** A
+[[src_garaprime_2018__Q05]]

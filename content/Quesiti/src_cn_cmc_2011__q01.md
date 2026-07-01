@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2011 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2011__Q01
 parent: src_cn_cmc_2011
 competition: China Mathematical Competition 2011
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find set A given sums of ternary subsets*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** ${-3, 0, 2, 6}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca set A somma data di sottoinsiemi terzi*
+
+> Let < MSK0/>. Supponiamo che l'insieme delle somme di tutti gli elementi di ogni sottoinsieme ternario di $A$ sia $B = \{-1, 3, 5, 8\}$. Poi $A =$ ________.
+
+**Risposta:** {-3, 0, 2, 6}
+[[src_cn_cmc_2011__Q01]]

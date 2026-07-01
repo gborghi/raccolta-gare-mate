@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2012__Q16
 parent: src_prmo_2012
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2012
@@ -34,6 +35,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of f(k) for k=1 to 20 given multiplicative-type function*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 210
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di f(k) per k=1 a 20 data funzione di tipo moltiplicativo*
+
+> $N$ sia l'insieme dei numeri naturali. Supponiamo che $f : N \to N$ sia una funzione che soddisfa le seguenti condizioni: a) $f(mn) = f(m)f(n)$; b) $f(m) < f(n)$ se $m < n$; c) $f(2) = 2$. Qual è il valore di < MSK6/>?
+
+**Risposta:** 210
+[[src_prmo_2012__Q16]]

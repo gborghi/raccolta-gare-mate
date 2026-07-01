@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q02
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max tower height stacking 55 cubes of three colors, no two same-color adjacent*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Altezza massima della torre impilata 55 cubetti di tre colori, senza due adiacenti dello stesso colore*
+
+> Fabiana ha 55 cubetti della stessa taglia: 10 rossi, 15 blu e 30 verdi. Vuole costruire una torre impiandone questi cubetti in modo che non ci siano due cubetti adiacenti dello stesso colore. Quanti cubetti può mettere a piombo?
+> 
+> (A) 39 \quad (B) 51 \quad (C) 52 \quad (D) 54 \quad (E) 55
+
+**Risposta:** B
+[[src_obm_2015_n3_f1__Q02]]

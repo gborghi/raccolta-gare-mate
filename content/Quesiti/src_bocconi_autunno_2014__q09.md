@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2014 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2014__Q09
 parent: src_bocconi_autunno_2014
 competition: Giochi d'Autunno 2014
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale affermazione sull'artista è vera*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** L'affermazione vera è la 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PloiPSpf4_9YADREFtliPjnhVrdcFhjI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which statement about the artist is true*
+
+> Liliana drew an exotic fish by drawing, within a square, a quarter of a circumference whose radius is < MSK0/> cm and two semicirculars which both have a radius of < MSK1/> cm. Which of the following statements is true? 1) The area of Part A is larger than the area of Part B. 2) The area of Part A is less than the area of Part B. 3) Areas A and B are equal. 4) The information given does not allow us to give an answer (comparison between areas A and B).
+
+![[src_bocconi_autunno_2014__Q09.png]]
+
+**Answer:** L'affermazione vera è la 3
+[[src_bocconi_autunno_2014__Q09]]

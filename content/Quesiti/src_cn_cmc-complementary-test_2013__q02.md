@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2013 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2013__Q02
 parent: src_cn_cmc-complementary-test_2013
 competition: China Mathematical Competition (Complementary Test) 2013
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence defined by binary-index recurrence; infinitely many partial sums are perfect squares*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza definita da ricorrenza dell'indice binario; infinite somme parziali sono quadrati perfetti*
+
+> (40 marchi) Per i numeri interi positivi $u$, $v$, la sequenza $\{a_n\}$ è definita come: $a_1 = u + v$, e per $m \ge 1$, $$\begin{cases} a_{2m} = a_m + u, \\ a_{2m+1} = a_m + v. \end{cases}$$ Denoto $S_m = a_1 + a_2 + \cdots + a_m$ ($m = 1, 2, \ldots$). Prova che ci sono termini infiniti nella sequenza $\{S_n\}$ che sono numeri quadrati.
+
+[[src_cn_cmc-complementary-test_2013__Q02]]

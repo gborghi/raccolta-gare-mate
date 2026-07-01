@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q20
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count four-digit multiples of 99 with all distinct digits*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i multipli a quattro cifre di 99 con tutti i cifre distinti*
+
+> Quanti multipli di 99 hanno esattamente quattro cifre distinte? (I numeri a quattro cifre non possono iniziare con lo zero; ad esempio, $0123 = 123$ ha solo tre cifre.)
+> 
+> (A) 9 \quad (B) 27 \quad (C) 45 \quad (D) 72 \quad (E) 90
+
+**Risposta:** C
+[[src_obm_2015_n3_f1__Q20]]

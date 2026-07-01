@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1983-84 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1983-84_round2__Q02
 parent: src_bmo_1983-84_round2
 competition: British Mathematical Olympiad 1983-84 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tetrahedron with equal edges; minimise area of cross-section quadrilateral*
 
@@ -44,3 +47,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18oguQ4XfS33xmfIqthYty5_Jy5-1pMJ0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tetraedro con bordi uguali; ridurre al minimo l'area del quadrilaterale di sezione trasversale*
+
+> $ABCD$ è un tetraedro con $DA = DB = DC = d$ e $AB = BC = CA = e$. $M$ e $N$ sono i punti di mezzo di $AB$ e $CD$ rispettivamente. Un piano $p$ passa attraverso $MN$ e taglia $AD$ rispettivamente a $P$ e $BC$ a $Q$.
+> 
+> (i) Provare che $AP/AD = BQ/BC$ (= $t$, per esempio).
+> 
+> ii) Determinare con prova il valore di $t$, espresso in termini di $d$ e $e$, che riduce al minimo l'area del quadrilaterale $MQNP$.
+
+[[src_bmo_1983-84_round2__Q02]]

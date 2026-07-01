@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Region 5 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_r5__Q03
 parent: src_rmo_2014_r5
 competition: Regional Mathematical Olympiad 2014
@@ -32,6 +33,8 @@ tags:
   - regione/r5
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle bisectors from perpendicular bisectors in acute triangle; prove BO perp to DE*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mRBKVIA0pCiNVttsOkp2tVNwtQ-X0vyv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Bissettori angolari da bisettori perpendicolari in triangolo acuto; dimostrare BO perp a DE< MSK1/>
+
+> Il $ABC$ è un triangolo acuto angolato in cui $\angle ABC$ è l'angolo più grande. Che il $O$ sia il suo circoncentro. I bisettori perpendicolari di $BC$ e $AC$ incontrano $AB$ e $BC$ rispettivamente a $X$ e $Y$. I bisettori interni di $\angle AXB$ e $\angle BYC$ si incontrano rispettivamente a $AC$ e $E$. Prova che $BO$ è perpendicolare a $DE$.
+
+[[src_rmo_2014_r5__Q03]]

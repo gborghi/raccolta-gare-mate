@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2023 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo21hq_honsen__Q02
 parent: src_jjmo21hq_honsen
 competition: Japan Junior Mathematical Olympiad 2023 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find maximum k distinct values of xy/(x+y)^2 from 2023 reals*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1efdSphrAk6aeIsu8HcCF4eiUkFyOMt6a/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i valori distinti massimi di k di xy/(x+y)^2 dal valore reale del 2023*
+
+> Su una lavagna sono scritti i numeri reali positivi del 2023. Per ogni coppia $x, y$ scelta da questi numeri, calcolare $\dfrac{xy}{(x+y)^2}$. Il numero di valori distinti ottenuti è esattamente $k$. Trova il valore massimo possibile di $k$.
+
+[[src_jjmo21hq_honsen__Q02]]

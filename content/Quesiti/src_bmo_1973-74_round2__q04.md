@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1973-74 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1973-74_round2__Q04
 parent: src_bmo_1973-74_round2
 competition: British Mathematical Olympiad 1973-74 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cube roots of distinct primes not in AP; or find x²+y²+z² given sum and sum of cubes*
 
@@ -50,3 +53,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rwes33Lj8ZPet5UN-WP0QaEOUv3l6tl-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rede cubiche di numeri primi distinti non in AP; o trovare x2+y2+z2 data somma e somma di cubes*
+
+> ETHER
+> 
+> (a) Mostrare che le radici cubiche di tre numeri primi distinti non possono essere tre termini (non necessariamente consecutivi) di una progressione aritmetica. (USA)
+> 
+> OR
+> 
+> (b) $x + y + z = 3$, $x^3 + y^3 + z^3 = 15$. Dato che $x^2 + y^2 + z^2$ è inferiore a 10, si trova $x^2 + y^2 + z^2$. (CZR, modificato)
+
+[[src_bmo_1973-74_round2__Q04]]

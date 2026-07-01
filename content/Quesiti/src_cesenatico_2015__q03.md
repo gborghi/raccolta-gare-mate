@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2015 - testi — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2015__Q03
 parent: src_cesenatico_2015
 competition: Olimpiade Italiana (Cesenatico) 2015 - testi
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *ciclicita iff parallelismo*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nO2b1F6AEYrhPPoVBX25loaX3XP-PHPX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>cycled if parallelism< MSK1/>
+
+> Either ABC is a triangle, either K is the foot of the bisector relative to BC and either J is the foot of the tri-sector relative to BC nearest to the AC side (i.e. J is the point on BC such that 3 · CAJ = CAB). Then C′ and B′ are two points on the straight AJ, on the side of J with respect to A, such that AC′ = AC and AB = AB′. Demonstrate that the quadrilateral ABB′C can be inscribed in a circumference if and only if the lines C′K and B′B are parallel.
+
+[[src_cesenatico_2015__Q03]]

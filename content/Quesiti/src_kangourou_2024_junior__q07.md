@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q07
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima area del rettangolo con perimetro 40 e lati primi*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum area of rectangle with perimeter 40 and front sides*
+
+> The perimeter of a rectangle is 40 metres and the measurements in metres of its sides are expressed as prime integers. How many square meters can its area be at most? A) 99
+> 	
+> B) 96
+> 	
+> C) 91
+> 	
+> D) 84
+> 	
+> E) 51
+
+**Answer:** C
+[[src_kangourou_2024_junior__Q07]]

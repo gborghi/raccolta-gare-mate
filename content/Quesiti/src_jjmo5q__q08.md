@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2007 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo5q__Q08
 parent: src_jjmo5q
 competition: Japan Junior Mathematical Olympiad 2007
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *4-digit number: product of top-2 and bottom-2 digit parts divides n*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*numero a 4 cifre: prodotto delle parti a 2 cifre superiori e inferiori divide n*
+
+> Che $n$ sia un intero positivo a 4 cifre la cui cifra decimale non è $0$. Scrivi $n$ in decimale; lasciamo che $a$ sia il numero intero a 2 cifre formato dalla cifra di centinaia e migliaia di cifre di $n$ (le due cifre superiori), e lasciamo che $b$ sia il numero intero a 2 cifre formato dalla cifra di decina e dalla cifra di unità di $n$ (le due cifre inferiori). Se il prodotto $a \times b$ è un divisore di $n$, trovare tutti tali $n$.
+
+[[src_jjmo5q__Q08]]

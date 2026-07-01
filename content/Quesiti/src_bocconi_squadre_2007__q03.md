@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2007 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2007__Q03
 parent: src_bocconi_squadre_2007
 competition: Gara a Squadre 2007
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Francobolli bianchi, rossi e verdi: quantità minima sufficiente*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>White, red and green carnations: sufficient minimum quantity< MSK1/>
+
+> Angelo owns three types of stamps: the white 1 Euro, the red and finally the green ones (the value of both is given by an integer of Euro, but the value of the greens is less than that of the red stamps). Angelo also notes that for letters and packages which require a stamp from any whole number of Euro not exceeding 15, three stamps (maximum) are sufficient.
+> 
+> What are the values of a red and green stamp?
+
+[[src_bocconi_squadre_2007__Q03]]

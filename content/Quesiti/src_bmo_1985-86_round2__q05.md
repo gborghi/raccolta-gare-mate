@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1985-86 — Round 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1985-86_round2__Q05
 parent: src_bmo_1985-86_round2
 competition: British Mathematical Olympiad 1985-86 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Locus of midpoint of $P_1P_2$ for parallel chords of two circles*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mG_z1yGslDZWUJ7U6HvxDw6ixvIjUXu2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Locus del punto medio di $P_1P_2$ per accordi paralleli di due cerchi*
+
+> $C_1$ e $C_2$ sono due cerchi; $A_1$ e $A_2$ sono rispettivamente i loro centri. $A_1P_1$, $A_2P_2$ sono accordi paralleli rispettivamente di $C_1$ e $C_2$. Trova il locus del punto medio di $P_1 P_2$.
+
+[[src_bmo_1985-86_round2__Q05]]

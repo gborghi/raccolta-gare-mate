@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_biennio_rec__Q07
 parent: src_archimede_2025_biennio_rec
 competition: Giochi di Archimede 2025 - Biennio (prova di riserva)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max intersezioni tra 3 circonferenze e 3 rette*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Max intersections between 3 circumferences and 3 lines*
+
+> Mary draws 3 different circles and 3 different straight lines. Overall, how many intersection points can there be, at most, between the various lines you have drawn?
+>
+> - **(A)** 24
+> - **(B)** 18
+> - **(C)** 27
+> - **(D)** 22
+> - **(E)** 21
+
+**Answer:** C
+[[src_archimede_2025_biennio_rec__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_pubblico__Q02
 parent: src_archimede_2001_pubblico
 competition: Archimede 2001 - Gara del Pubblico (Cesenatico)
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizione del pianeta (15,30) nella numerazione a coppie*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1065
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The position of the planet (15.30) in the pair numbering
+
+> The confederation's planets are identified by a pair of natural numbers. The capital (the planet of origin of civilization) is $(0, 0)$ and the first colonized planet is identified by the pair $(1, 0)$, the second by $(0, 1)$, the third by $(2, 0)$, the fourth by $(1, 1)$ and so on. What position does the planet $(15, 30)$ occupy in the history of the Imo-colonized planets?
+> 
+> (NB: More formally $(a, b)$ comes before $(c, d)$ if and only if: $a + b < c + d$ or $a + b = c + d$ and $a > c$.)
+
+**Answer:** 1065
+[[src_archimede_2001_pubblico__Q02]]

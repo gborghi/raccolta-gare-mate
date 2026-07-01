@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q24
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find KL where three equal parallel cevians through interior point of triangle with sides 26,65,78*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca KL dove tre ceviani paralleli uguali attraversano il punto interno del triangolo con lati 26,65,78*
+
+> $P$ sia un punto interno del triangolo $ABC$ le cui lunghezze laterali sono 26, 65, 78. La linea attraverso $P$ parallela a $BC$ incontra $AB$ in $K$ e $AC$ in $L$. La linea attraverso $P$ parallela a $AB$ incontra $CA$ in $S$ e $CB$ in $T$. La linea attraverso $P$ parallela a $CA$ incontra $BC$ in $M$ e $BA$ in $N$. Se < MSK20/>, trovare < MSK21/>.
+
+[[src_prmo_2017__Q24]]

@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1993 — Matematica — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1993__Q05
 parent: src_cgen_1993
 competition: Concours Général des Lycées 1993 — Matematica
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Optimal triangles MAB by area/perimeter; maximize V/L^3 for a tetrahedron*
 
@@ -55,3 +58,23 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangoli ottimali MAB per area/perimetro; massimizzazione di V/L^3 per un tetraedro*
+
+> Lasciate che $A$ e $B$ siano due punti distinti nello spazio.
+> 
+> **1.** $M$ sia un punto nello spazio.
+> 
+> Tra tutti i triangoli $MAB$ con una determinata area, che hanno un perimetro minimo?
+> 
+> Tra tutti i triangoli $MAB$ con un determinato perimetro, che hanno superficie massima?
+> 
+> **2.** In un tetraedro di volume $V$, $a, b, c, d$ deve avere quattro bordi in modo che ognuno di essi sia non coplanare e $L = a + b + c + d$.
+> 
+> Determinare il valore massimo del quotiente $\dfrac{V}{L^3}$.
+
+[[src_cgen_1993__Q05]]

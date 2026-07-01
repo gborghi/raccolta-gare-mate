@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q01
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum cubes to complete a solid cube from 11 glued cubes*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di cubetti per completare un cubo solido da 11 cubetti incollati*
+
+> Undici cubetti, tutti della stessa lunghezza del bordo, sono incollati insieme come mostrato nella figura. Il numero minimo di cubetti unitari, pari a quelli già utilizzati, che deve essere aggiunto al solido formato dai undici cubetti per ottenere un solido cubetto è:
+> 
+> (A) 48 \quad (B) 49 \quad (C) 52 \quad (D) 53 \quad (E) 56
+
+![[src_obm_2003_n1_f1__Q01.png]]
+
+**Risposta:** D
+[[src_obm_2003_n1_f1__Q01]]

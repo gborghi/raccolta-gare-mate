@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 2 —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_nu_f2__Q01
 parent: src_obm_2008_nu_f2
 competition: Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integral equation implying two equal-derivative points*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zIWUXA6Yj_C2VT4GI2D1j5bIQWRZ6D6F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione integrale che implica due punti derivati uguali*
+
+> Lasciate che il < MSK0/> sia crescente, differenziabile e invertibile.
+> 
+> Se $\displaystyle\int_0^1 f(x)\,dx = \int_0^1 f^{-1}(x)\,dx$, dimostrare che esistono due valori reali distinti $a,b$ con $0\le a < b \le 1$ tali che $f'(a)=f'(b)=1$.
+> 
+> (Nota: $f^{-1}$ indica la funzione inversa di $f$.)
+
+[[src_obm_2008_nu_f2__Q01]]

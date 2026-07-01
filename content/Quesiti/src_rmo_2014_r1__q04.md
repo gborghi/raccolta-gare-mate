@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Region 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_r1__Q04
 parent: src_rmo_2014_r1
 competition: Regional Mathematical Olympiad 2014
@@ -35,6 +36,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *4x4 grid with numbers; 2x2 sub-grids products not all divisible by 16*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gebds3GWDOcaRUuyUCK_TW2oDlckyr2-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*griglia 4x4 con numeri; prodotti delle sottogriglie 2x2 non tutti divisibili per 16*
+
+> È possibile scrivere i numeri $17, 18, 19, \ldots, 32$ in una griglia di quadrati unitari $4 \times 4$, con un numero in ogni quadrato, in modo che il prodotto dei numeri in ciascuna sottogriglia $2 \times 2$ $AMRG$, $GRND$, $MBHR$ e $RHCN$ sia divisibile da $16$?
+
+![[src_rmo_2014_r1__Q04.png]]
+
+[[src_rmo_2014_r1__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q11
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma piu piccola tagliando 5021972970 in tre*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0> Smaller sum by cutting 5021972970 into three< MSK1/>
+
+> Giulio wrote the number 5021972970 on a strip of paper; then he cut the strip into two dots; thus he got three numbers that he then went to add up. What's the smallest sum that Julius could have gotten? A) 3244 B) 3444 C) 5172 D) 5217 E) 5444
+
+**Answer:** B
+[[src_kangourou_2021_benjamin__Q11]]

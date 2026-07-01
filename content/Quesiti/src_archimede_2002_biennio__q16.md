@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2002 - Biennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_biennio__Q16
 parent: src_archimede_2002_biennio
 competition: Giochi di Archimede 2002 - Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Confronto aree tratteggiate divise da tre linee*
 
@@ -42,3 +45,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Comparison of three-line drawn areas*
+
+![[src_archimede_2002_biennio__prob16.png]]
+
+> The three lines drawn divide the whole figure into two equal parts. Areas A and B shall be considered. Which of the following statements is true?
+>
+> - **(A)** area(A) > area(B)
+> - **(B)** area(A) = area(B)
+> - **(C)** area(A) < area(B)
+> - **(D)** The figure is impossible.
+> - **(E)** There is no conclusion to be drawn. A B
+
+[[src_archimede_2002_biennio__Q16]]

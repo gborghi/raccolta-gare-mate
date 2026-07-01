@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_triennio_online__Q12
 parent: src_archimede_2021_triennio_online
 competition: Giochi di Archimede 2021 - Gara Triennio (online)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori di k con polinomio avente radice doppia dell'altra*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mirXxT9-Hv1KYgVTqPSQsnkdU7SPLtJP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Values of k with a polynomial with double root of the other *
+
+> Consider real k such that the polynomial p(x) = x2 −(k + 1)x + (k + 2) has a root that is double the other. Indicate the sum of all these values k.
+>
+> - **(A)** 1/2
+> - **(B)** 7/4
+> - **(C)** 5/2
+> - **(D)** 23/2
+> - **(E)** I'm not going to be able to do this.
+
+**Answer:** C
+[[src_archimede_2021_triennio_online__Q12]]

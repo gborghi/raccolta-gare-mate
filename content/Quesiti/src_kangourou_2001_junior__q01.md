@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Junior (15 marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_junior__Q01
 parent: src_kangourou_2001_junior
 competition: Kangourou 2001 - Junior (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori possibili della somma di 3 dadi*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible values of the sum of 3 dice*
+
+> I'm simultaneously throwing three dice and adding up the dots on their upper faces. What are the different possible values of that sum?
+>
+> - **(A)** 18
+> - **(B)** 17
+> - **(C)** 16
+> - **(D)** 15
+> - **(E)** 14.
+
+**Answer:** C
+[[src_kangourou_2001_junior__Q01]]

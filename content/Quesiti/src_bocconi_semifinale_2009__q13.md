@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2009 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2009__Q13
 parent: src_bocconi_semifinale_2009
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2009
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area grigia del disco colorato con corda divisa in tre*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $157 \ \text{cm}^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Gray area of the colored disc with three-stringed *
+
+> Deborah colored (in gray) a disc and decided to color the colored part in gray. The points on the circumference are equidistant from each other. Calculate the area of the gray part, knowing that the total area of the disk is $314 \ \text{cm}^2$ (If necessary: take $3{,}14$ for $\pi$).
+
+![[src_bocconi_semifinale_2009__Q13.png]]
+
+**Answer:** $157 \ \text{cm}^2$
+[[src_bocconi_semifinale_2009__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q11
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Settimane del periodo con 15 lezioni di differenza*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Weeks of the period with 15 lessons difference*
+
+> For a period of time, James took piano lessons twice a week and Anna once every two weeks. By the end of the period, James had taken 15 lessons more than Anna. How many weeks was the period considered? A) 30
+> 	
+> B) 25
+> 	
+> C) 20
+> 	
+> D) 15
+> 	
+> E) 10
+
+**Answer:** E
+[[src_kangourou_2014_cadet__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Japan EGMO Selection / Girls MO 2024 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jegmo13q__Q03
 parent: src_jegmo13q
 competition: Japan EGMO Selection / Girls MO 2024
@@ -30,6 +31,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real-valued functions satisfying a given functional equation*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i4QZZutoi2mFnBZ3lbxvw8r4EoB_TIth/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni a valore reale che soddisfano una determinata equazione funzionale*
+
+> Trovare tutte le funzioni $f$ definite sui numeri reali e prendere valori reali in modo che per tutti i numeri reali $x, y$, $$f(f(x) + xy) = f(x)f(x + y).$$
+
+[[src_jegmo13q__Q03]]

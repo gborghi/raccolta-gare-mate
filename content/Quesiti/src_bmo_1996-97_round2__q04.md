@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1996-97 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1996-97_round2__Q04
 parent: src_bmo_1996-97_round2
 competition: British Mathematical Olympiad 1996-97 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximal arithmetic progressions of unit-fraction reciprocals*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16oC7AaiZrRoqDodnHu4P3UrxIRp2B4_E/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Progressioni aritmetiche massime delle reciprocità frazione-unità*
+
+> L'insieme $S = \{1/r : r = 1, 2, 3, \ldots\}$ di reciprocità dei numeri interi positivi contiene progressioni aritmetiche di varie lunghezze. Ad esempio, $1/20, 1/8, 1/5$ è una tale progressione, di lunghezza $3$ (e differenza comune $3/40$). Inoltre, si tratta di un $\textit{maximal progression}$ in $S$ di lunghezza $3$ poiché non può essere esteso a sinistra o a destra all'interno di $S$ ($-1/40$ e $11/40$ non essendo membri di $S$). (i) Trovare una progressione massima in < MSK11/> di lunghezza < MSK12/>. (ii) C'è una progressione massima in < MSK13/> di lunghezza < MSK14/>?
+
+[[src_bmo_1996-97_round2__Q04]]

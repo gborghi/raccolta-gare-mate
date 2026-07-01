@@ -1,6 +1,7 @@
 ---
 title: IMO 1966 (VIII International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1966__Q03
 parent: src_imho_1966
 competition: IMO 1966 (VIII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distances from tetrahedron vertices to circumsphere center inequality*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Distance from tetrahedron vertices to circumsphere center inequality
+
+> Prove that the sum of the distances of the vertices of a regular tetrahedron from the center of its circumscribed sphere is less than the sum of the distances of these vertices from any other point in space.
+
+[[src_imho_1966__Q03]]

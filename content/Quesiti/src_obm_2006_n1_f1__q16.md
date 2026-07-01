@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q16
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integer: sum of digits of remainder-3 and remainder-5 divisors*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Numero intero positivo: somma delle cifre dei divisori restante-3 e restante-5
+
+> Un certo numero intero positivo, diviso per 15, ha il rimanente 7. Qual è la somma dei rimanenti di questo numero diviso per 3 e per 5?
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6
+
+**Risposta:** E
+[[src_obm_2006_n1_f1__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Junior (gara marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_junior__Q26
 parent: src_kangourou_2011_junior
 competition: Kangourou 2011 Junior (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante quaterne di spigoli del cubo senza vertici comuni*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1AJCl_AfEoFXnuVsI8nXmEWfRHRXKCZ3O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many cubic feet of cube shaft without common vertices< MSK1/>
+
+> How many squares of a cube are such that if two squares are chosen in the square, they have no vertices in common? (If two squares do not coincide but are obtained from each other by rotation of the cube, they shall be considered different.)
+
+**Answer:** A
+[[src_kangourou_2011_junior__Q26]]

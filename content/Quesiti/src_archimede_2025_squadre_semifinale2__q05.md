@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_semifinale2__Q05
 parent: src_archimede_2025_squadre_semifinale2
 competition: Gara a Squadre Nazionale 2025 - Semifinale 2
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pentagono con quadrato e triangolo isoscele, trovare AE*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0013
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pentagon with square and triangle isosceles, find AE*
+
+> James Bound sometimes makes use of the collaboration of French secret agent René Mathieu. The first time was when together they solved the following question: How many ways can two numbers between 1 and 100 be chosen that, divided by each number between 2 and 100, always give distinct remains?
+
+**Answer:** 0013
+[[src_archimede_2025_squadre_semifinale2__Q05]]

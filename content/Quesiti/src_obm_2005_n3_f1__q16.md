@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f1__Q16
 parent: src_obm_2005_n3_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Condition for addition to distribute over multiplication: a+(bc)=(a+b)(a+c)*
 
@@ -45,3 +48,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Condizione per l'aggiunta per la distribuzione per moltiplicazione: a+(bc)=(a+b)(a+c)*
+
+> $a$, $b$ e $c$ siano numeri reali. Per la proprietà distributiva della moltiplicazione sull'addizione, è vero che $a \times (b + c) = (a \times b) + (a \times c)$. La distributività dell'addizione sulla moltiplicazione, cioè $a + (b \times c) = (a + b) \times (a + c)$, non è sempre vera, ma si verifica, cioè si verifica, se e solo se: (A) $a = b = c$ o $a + \tfrac{1}{3} = 0$ (B) $a = b = c$ (C) l'uguaglianza non si verifica mai (D) $a + b + c = 1$ o $a = 0$ (E) $a = b = c = 0$
+
+[[src_obm_2005_n3_f1__Q16]]

@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1 —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_nu_f1__Q05
 parent: src_obm_2005_nu_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all alpha making a cosine matrix have zero determinant*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1t1VifBoLdIYTQCp9KTilPVmufvuvo00a/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le alfa che fanno una matrice cosina hanno determinante zero*
+
+> Determinare tutti i valori di $\alpha$ per i quali la matrice $A = (a_{ij})_{n \times n}$, definita da $$a_{ij} = \cos((i-1)\cdot j\alpha),$$ per $1 \le i,\, j \le n$, ha determinante uguale a zero.
+
+[[src_obm_2005_nu_f1__Q05]]

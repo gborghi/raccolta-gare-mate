@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (finale Cervia) — Quesito C2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_finale__QC2
 parent: src_kangourou_2017_cadet_finale
 competition: Kangourou 2017 Cadet (finale Cervia)
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conviene scegliere 9 o 10 nel gioco dei dadi*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fMRZkFu7bLdUiC11xBpSrprxlKebqYVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+It's okay to choose 9 or 10 in the dice game.
+
+> A friend invites you to play dice like this. You and he repeatedly roll two identical unmade dice, with the faces numbered as usual, from $1$ to $6$, and calculate the sum of the points. If the sum is $9$ one of you wins, if the sum is $10$ the other wins, if the sum is different from $9$ and $10$ neither wins. He lets you choose between MSK6 and MSK7 the amount that makes you win, keeping to himself that of the two you didn't. Which one is best for you, and why?
+
+**Answer:** 9
+[[src_kangourou_2017_cadet_finale__QC2]]

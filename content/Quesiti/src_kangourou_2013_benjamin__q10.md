@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q10
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante figure hanno lo stesso perimetro del foglio quadrato*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many figures have the same perimeter as the square sheet*
+
+> Cristina has many stitches identical to the one in the figure on the left. He wants to insert as many as possible into the rectangle 5×4 as you see in the figure on the right, made up of squares of the same size as the ones that form the brackets. The trays shall not overlap, even partially. How many can you put in? A) 2 B) 3 C) 4 D) 5 E) 6 Departure
+> 
+> The questions from N. 11 al N. 20 is worth 4 points each.
+
+[[src_kangourou_2013_benjamin__Q10]]

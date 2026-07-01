@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale A — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_a__Q11
 parent: src_gas_2010_semifinale_a
 competition: Gara a Squadre 2010 - Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima velocita inseguitore con rotta alternata a due direzioni*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 0742
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum speed pursuer with two-way alternating course*
+
+> The True Pearl is caught by Cramer, the terrible sea monster set off by Davy Jensen, and is trying to reach land ahead of him. The nearest island is a point that lies exactly 10 miles north of the ship. Since the wind is not windward but slightly lateral, Captain Disparrow imposes a route that alternates continuously in two different directions: to the northeast (30 degrees relative to the north) the ship goes at 6 m/s, while to the northwest (60 degrees relative to the north) the ship goes at 4 m/s. The Cramer starts at a point 10 miles south of the ship and moves north at constant speed. What's the maximum speed of the Cramer that allows the Pearl to reach the island first? Answer in cm/s.
+
+**Answer:** 0742
+[[src_gas_2010_semifinale_a__Q11]]

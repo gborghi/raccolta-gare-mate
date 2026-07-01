@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2022 — Nível 1 — Fase x — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2022_n1_fx__Q04
 parent: src_obm_2022_n1_fx
 competition: Olimpíada Brasileira de Matemática 2022 — Nível 1 — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Football tournament points: prove/find min victories and score constraints*
 
@@ -54,3 +57,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MFIuQqmYfoyQM2SB3u2n2Xe18_dDyh5n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punti di torneo di calcio: prove/trova vincite min e vincoli di punteggio*
+
+> Otto squadre di calcio giocano un torneo in cui ciascuna squadra gioca esattamente una volta contro ciascuna delle altre squadre. Ogni vittoria vale $3$ punti, ogni perdita vale $0$ punti, e in caso di pareggio, ogni squadra guadagna $1$ punti.
+> 
+> a) dimostrare che non è possibile che una squadra abbia vincite $3$ e che tutte le altre squadre abbiano vincite $4$ o più.
+> 
+> b) dimostrare che è possibile che, alla fine del torneo, la squadra con più punti abbia vinto meno di ciascuna delle altre squadre.
+> 
+> (c) Supponiamo che una delle squadre abbia ottenuto più punti di tutte le altre combinate e meno vincite di tutte le altre. Qual è il numero minimo di vittorie che la squadra può avere?
+
+[[src_obm_2022_n1_fx__Q04]]

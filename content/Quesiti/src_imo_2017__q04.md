@@ -1,6 +1,7 @@
 ---
 title: IMO 2017 papers — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2017__Q04
 parent: src_imo_2017
 competition: IMO 2017 papers
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *KT tangente a Gamma (punti su cerchio)*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1f-FfFFSte2Xcf0IS6inIxe8_MiXPlKgB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>KT tangent to the Gamma (points on a circle) < MSK1/>
+
+> If $R$ and $S$ are two distinct points on a circumference $\Omega$ such that $RS$ is not a diameter. If $\ell$ is the tangent line to $\Omega$ in $R$. The $T$ point is such that $S$ is the middle point of the $RT$ segment. The $J$ point is selected on the $RS$ minor arc of $\Omega$ so that the circumference circumscribed $\Gamma$ to the $JST$ triangle intersects $\ell$ at two distinct points. Either $A$ the common point of $\Gamma$ and $\ell$ nearest to $R$. The $AJ$ line is again $\Omega$ in $K$. Demonstrate that the straight $KT$ is tangent to $\Gamma$.
+
+[[src_imo_2017__Q04]]

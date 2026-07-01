@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q24
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Total digits when writing 2^1999 and 5^1999 side by side*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Total di cifre quando si scrivono 2^1999 e 5^1999 fianco a fianco*
+
+> Le rappresentazioni decimali di $2^{1999}$ e $5^{1999}$ sono scritte fianco a fianco. Il numero totale di cifre scritte è:
+> 
+> A) 1999 B) 2000 C) 2001 D) 3998 E) 3999
+
+**Risposta:** B
+[[src_obm_1999_n3_f1__Q24]]

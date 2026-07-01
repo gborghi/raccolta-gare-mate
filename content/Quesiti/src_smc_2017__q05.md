@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2017 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2017__Q05
 parent: src_smc_2017
 competition: Senior Mathematical Challenge 2017
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *One light-year is ~6×10^12 miles; a galaxy is 13.4 thousand million light-years away. Roughly how many miles away is the galaxy?*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Un anno luce è ~6×10^12 miglia; una galassia è a 13,4 miliardi di anni luce di distanza. Quanti chilometri circa è lontana la galassia?
+
+> Un anno luce è quasi $6 \times 10^{12}$ miglia. Nel 2016, il telescopio spaziale Hubble ha stabilito un nuovo record cosmico, osservando una galassia $13.4$ a mille milioni di anni luce di distanza.
+> 
+> Quanti chilometri circa?
+>
+> - **(A)** $8 \times 10^{20}$
+> - **(B)** $8 \times 10^{21}$
+> - **(C)** $8 \times 10^{22}$
+> - **(D)** $8 \times 10^{23}$
+> - **(E)** $8 \times 10^{24}$
+
+**Risposta:** C
+[[src_smc_2017__Q05]]

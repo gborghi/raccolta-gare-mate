@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1998 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1998__Q02
 parent: src_cgen_1998
 competition: Concours Général des Lycées 1998 — Matematica
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real sequence with floor recurrence; prove periodicity*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Reale sequenza con ricorrenza del pavimento; prova di periodicità*
+
+> Che $(u_n)_{n \in \mathbb{N}}$ sia una sequenza reale che soddisfi, per ogni numero intero $n$, la relazione: $$u_{n+2} = \lfloor u_{n+1} \rfloor - u_n,$$ dove $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$.
+> 
+> Mostra che esiste un numero intero non zero $p$ tale che la relazione $u_n = u_{n+p}$ si applique a ogni numero naturale $n$.
+
+[[src_cgen_1998__Q02]]

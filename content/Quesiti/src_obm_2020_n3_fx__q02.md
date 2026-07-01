@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2020 — Nível 3 — Fase x — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2020_n3_fx__Q02
 parent: src_obm_2020_n3_fx
 competition: Olimpíada Brasileira de Matemática 2020 — Nível 3 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fibonacci-like integer sequence: infinitely many integers are non-fibonacciano*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b__JDOphfOKJwjRdW1rKhY9YKOrtSicC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di numeri interi simili a Fibonacci: infinitamente molti numeri interi non sono Fibonacciano*
+
+> Per un intero positivo $n$, definire $F^{(0)}_n = n$, $F^{(1)}_n = n$ e, per $p > 2$: $$F^{(p)}_n = F^{(p-1)}_n + F^{(p-1)}_{n+1}.$$ Un intero positivo $a$ si chiama *fibonacciano* se $F^{(p)}_a = a$ per un intero positivo $p$ e per un certo $n > 3$. Prove che esistono infiniti interi positivi che non sono fibonacciani.
+
+[[src_obm_2020_n3_fx__Q02]]

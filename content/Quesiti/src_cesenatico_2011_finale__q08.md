@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_finale__Q08
 parent: src_cesenatico_2011_finale
 competition: Gara a Squadre Cesenatico 2011 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita somma 7 dadi > 24*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5000
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability sum of 7 dice > 24< MSK1/>
+
+> An assuranceturing bardo, because he can't sing in public without ending up tied up like a salami, locks himself in his cabin playing dice. If he throws 7 Roman dice (common dice with 6 faces numbered from 1 to 6), what is the probability that the sum of the outcome values is strictly greater than 24? As a response, provide the first four digits after the comma.
+
+**Answer:** 5000
+[[src_cesenatico_2011_finale__Q08]]

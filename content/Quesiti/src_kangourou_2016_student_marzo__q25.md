@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q25
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma impossibile di tre numeri di tre cifre con 1..9*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Impossible sum of three three-digit numbers with 1.9*
+
+> Using one and only one time all the digits from 1 to 9 were written three numbers of three digits each. Which of the following numbers cannot be the sum of the three numbers? A) 1500 B) 1503 C) 1512 D) 1521 E) 1575
+
+**Answer:** A
+[[src_kangourou_2016_student_marzo__Q25]]

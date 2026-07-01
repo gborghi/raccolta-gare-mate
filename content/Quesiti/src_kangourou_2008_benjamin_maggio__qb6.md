@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 Benjamin finale (maggio) — Quesito B6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_maggio__QB6
 parent: src_kangourou_2008_benjamin_maggio
 competition: Kangourou 2008 Benjamin finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri LIETI <1000 (quadrato divisibile per 7,8,9,10)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 420 e 840
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DNjnx9iD0UBjVEKt4lZ5Oz66n6a8DEr7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*LIETI numbers <1000 (square divided by 7,8,9,10) *
+
+> Let's say an integer greater than zero is LIETO if its square (i.e. the product of the number itself) is divisible by each of the following numbers: $7$, $8$, $9$, $10$. Find all LIETI numbers less than $1000$.
+
+**Answer:** 420 e 840
+[[src_kangourou_2008_benjamin_maggio__QB6]]

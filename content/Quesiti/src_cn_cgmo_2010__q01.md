@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2010 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2010__Q01
 parent: src_cn_cgmo_2010
 competition: China Girls' Mathematical Olympiad 2010
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum value of sum of intersection ratios over cyclic subsets*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** n
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta massima della somma dei rapporti di intersezione su sottoinsiemi ciclici*
+
+> Che $n$ sia un numero intero superiore a due, e che $A_1, A_2, \ldots, A_{2n}$ sia in coppia un sottoinsieme non vuoto di $\{1, 2, \ldots, n\}$. Determinare il valore massimo di $\sum_{i=1}^{2n} \dfrac{|A_i \cap A_{i+1}|}{|A_i| \cdot |A_{i+1}|}$. (Qui, abbiamo impostato $A_{2n+1} = A_1$. Per un insieme $X$, $|X|$ indica il numero di elementi in $X$.)
+
+**Risposta:** n
+[[src_cn_cgmo_2010__Q01]]

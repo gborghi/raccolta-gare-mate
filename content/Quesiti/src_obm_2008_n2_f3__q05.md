@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f3__Q05
 parent: src_obm_2008_n2_f3
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ant turning 60 degrees each step: return after 2008 or 2009 steps?*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mPFxeuedSzPeVHyGa5uTEm_ubRSK1ROx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ante che girano 60 gradi ogni passo: ritorno dopo i passi del 2008 o del 2009?< MSK1/>
+
+> Una formica cammina nel piano in questo modo: inizialmente cammina $1\,\text{cm}$ in qualsiasi direzione. Dopo ogni passo, cambia la direzione della sua traiettoria di $60^\circ$ a sinistra o a destra e cammina $1\,\text{cm}$ in quella nuova direzione. È possibile che la formica ritorni al suo punto di partenza in (a) $2008$? b) le fasi < MSK4/>?
+
+![[src_obm_2008_n2_f3__Q05.png]]
+
+[[src_obm_2008_n2_f3__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q19
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integers 10-1000 with strictly increasing digits*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi 10-1000 con cifre rigorosamente in aumento*
+
+> Quanti numeri interi tra 10 e 1000 hanno le loro cifre in ordine rigorosamente crescente? (Per esempio, 47 e 126 sono di questo tipo; 52 e 566 non lo sono.)
+> 
+> A) 90 \quad B) 98 \quad C) 112 \quad D) 118 \quad E) 120
+
+**Risposta:** E
+[[src_obm_1999_n3_f1__Q19]]

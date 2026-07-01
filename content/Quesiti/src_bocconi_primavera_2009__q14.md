@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2009 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2009__Q14
 parent: src_bocconi_primavera_2009
 competition: Semifinale di Primavera 2009
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare un'addizione inserendo le cifre date*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** L'addizione è: $120473 + 163504 = 283977$.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14prakvd6EDcEQSfmnn_-6oGG4wcPui_K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete an addition by entering the numbers given *
+
+> Complete the following addition by entering the numbers 0 - 2- 3 - 4 - 8 - 9 instead of the dots (once and only).
+> 
+> $$\begin{array}{c} 1\ .\ 0\ .\ 7\ 3\ + \\ 1\ 6\ .\ 5\ .\ 4\ = \\ \hline 2\ .\ 3\ .\ 7\ 7 \end{array}$$
+
+**Answer:** L'addizione è: $120473 + 163504 = 283977$.
+[[src_bocconi_primavera_2009__Q14]]

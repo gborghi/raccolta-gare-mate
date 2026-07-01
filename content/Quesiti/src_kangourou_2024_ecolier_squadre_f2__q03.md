@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre_f2__Q03
 parent: src_kangourou_2024_ecolier_squadre_f2
 competition: Kangourou Squadre 2024 Ecolier Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri da blocchi divisibili per 5*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6070
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many block numbers are divisible by 5*
+
+> 2024 times 2024 Consider the alignment of figures 202420242024...20242024 where the fourth order 2024 appears 2.024 times. Any block formed by any number of consecutive digits in this alignment and not beginning with 0, identifies an integer (e.g. block 4202420, which starts with the fourth digit and ends with the tenth or the eighth and ends with the fourteenth, and so on, identifies the number 4.202.420). How many whole numbers, all different from each other, determined by allowable blocks, are divisible by 5? The answer is 6070.
+
+**Answer:** 6070
+[[src_kangourou_2024_ecolier_squadre_f2__Q03]]

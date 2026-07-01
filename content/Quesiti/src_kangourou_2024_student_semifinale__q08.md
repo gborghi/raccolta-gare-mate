@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student semifinale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q08
 parent: src_kangourou_2024_student_semifinale
 competition: Kangourou 2024 Student semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante strisce ottenibili cambiando colore a 4 quadrati*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many strips can be obtained by changing colour in 4 squares< MSK1/>
+
+![[src_kangourou_2024_student_semifinale__prob8.png]]
+
+> (Points 5) A strip consists of eight aligned squares, each of which may be white or gray. One move consists of changing the color from white to gray or vice versa for each of four consecutive squares. If you start from a strip where the squares are all white, how many of the following four strips can be obtained after an appropriate number of moves, even variable from strip to strip? A) 0 (no) B) 1 C) 2 D) 3 E) 4 (all) Answer A).
+
+**Answer:** A
+[[src_kangourou_2024_student_semifinale__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q08
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of shape formed by three arcs of circles of radius 1; P is centre of arc BQ and Q is centre of arc PR.*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di forma formata da tre archi di cerchi di raggio 1; P è il centro dell'arco BQ e Q è il centro dell'arco PR.*
+
+> Il diagramma mostra tre archi di cerchi di raggio 1. $P$ è il centro del cerchio di cui $BQ$ è un arco e $Q$ è il centro del cerchio di cui $PR$ è un arco. Qual è l'area di questa forma?
+>
+> - **(A)** - Sì, certo. - Sì.
+> - **(B)** - Sì, certo.
+> - **(C)** - Sì, certo.
+> - **(D)** - Sì, certo.
+> - **(E)** - Sì, certo.
+
+![[src_smc_2025__Q08.png]]
+
+**Risposta:** B
+[[src_smc_2025__Q08]]

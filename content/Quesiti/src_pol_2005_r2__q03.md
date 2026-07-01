@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2005 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2005_r2__Q03
 parent: src_pol_2005_r2
 competition: Olimpiade Matematica Polacca 2005 — Round 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *With n>=2 points no four coplanar, K segments (K>1) drawn and T triangles formed, prove 9T^2 < 2K^3.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1TdHFWiGU9cO5g7t9suf-adbCUDeE_k7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Con n>=2 punti senza quattro coplanari, segmenti K (K>1) disegnati e triangoli T formati, dimostrare 9T^2 < 2K^3.*
+
+> In spazio sono dati $n \ge 2$ punti, di cui non quattro sono coplanari. Alcuni di questi punti sono collegati da segmenti. $K$ è il numero di segmenti ($K > 1$) e $T$ è il numero di triangoli formati. Prove che $9T^2 < 2K^3$.
+
+[[src_pol_2005_r2__Q03]]

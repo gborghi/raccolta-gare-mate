@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f2__Q01
 parent: src_obm_2007_n2_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find Ludmilson's age x given (x-55)(x+55) is a prime cube.*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 66
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare l'età di Ludmilson x data (x-55) ((x+55) è un cubo primo.*
+
+> Lasciate che < MSK0/> sia l'età di Ludmilson. È noto che $(x-55)(x+55)=p^3$, dove $p$ è un numero primo. Determina l'età di Ludmilson. [Fonte: scheda ufficiale delle soluzioni (gabarito); dichiarazione ricostruita dalla soluzione. I fattori della soluzione sono i casi $\{x-55=1,\ x+55=p^3\}$ e $\{x-55=p,\ x+55=p^2\}$, dando $p^2-p=110$, $p=11$, $x=66$.]
+
+**Risposta:** 66
+[[src_obm_2007_n2_f2__Q01]]

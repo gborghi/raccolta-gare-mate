@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo26yq_yosen__Q08
 parent: src_jmo26yq_yosen
 competition: Japan Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length XD from incircle chord with given ratios*
 
@@ -43,3 +46,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza XD da un'accordazione incircolare con dati relativi*
+
+> $\omega$ sia l'incircolo del triangolo $ABC$. $D$ sia il punto in cui il lato $BC$ tocca $\omega$, e $X$ sia il secondo incrocio della linea $AD$ con $\omega$ (diversi da $D$). Dato che $AX : XD : BC = 1 : 3 : 16$ e che il raggio di $\omega$ è $1$, si trova la lunghezza del segmento $XD$.
+
+**Risposta:** \dfrac{3\sqrt{10}}{5}
+[[src_jmo26yq_yosen__Q08]]

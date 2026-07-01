@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q05
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle ABCD divided into four smaller rectangles, find area*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo ABCD diviso in quattro rettangoli più piccoli, area *
+
+> Un rettangolo $ABCD$ è diviso in quattro rettangoli più piccoli come mostrato nella figura. Le aree di tre di esse sono mostrate. Qual è l'area del rettangolo $ABCD$?
+> 
+> A) 80 \quad B) 84 \quad C) 86 \quad D) 88 \quad E) 91
+
+![[src_obm_1999_n3_f1__Q05.png]]
+
+**Risposta:** C
+[[src_obm_1999_n3_f1__Q05]]

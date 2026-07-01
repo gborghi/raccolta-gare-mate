@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Junior (15 marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_junior__Q24
 parent: src_kangourou_2001_junior
 competition: Kangourou 2001 - Junior (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle unita della somma di potenze*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of units of the sum of powers*
+
+> This is the same as in the case of a = 1997 1998 + 1998 1999 + 1999 2000 + 2000 2001. The number of units of a is
+>
+> - **(A)** 0
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5.
+
+**Answer:** B
+[[src_kangourou_2001_junior__Q24]]

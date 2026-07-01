@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Pre - gara marzo — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q21
 parent: src_kangourou_2020_pre_marzo
 competition: Kangourou 2020 Pre - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante mele gialle nel cestino*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many yellow apples are in the basket< MSK1/>
+
+![[src_kangourou_2020_pre_marzo__prob21.png]]
+
+> In a basket there are some apples and pears. Every fruit is either yellow or green. The number of apples exceeds the total number of green fruits by < MSK1/>. There are yellow pears. How many yellow apples are in the basket?
+>
+> - **(A)** $4$
+> - **(B)** $5$
+> - **(C)** $6$
+> - **(D)** $7$
+> - **(E)** $8$
+
+**Answer:** B
+[[src_kangourou_2020_pre_marzo__Q21]]

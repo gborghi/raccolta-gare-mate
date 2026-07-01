@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2009 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2009__Q04
 parent: src_cn_cmc_2009
 competition: China Mathematical Competition 2009
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find least positive integer a satisfying a harmonic-type inequality*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2009
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il numero intero positivo minimo a soddisfacente una disuguaglianza di tipo armonico*
+
+> La disuguaglianza $$\frac{1}{a+1} + \frac{1}{a+2} + \cdots + \frac{1}{2a+1} \le a - 2007\tfrac{1}{2}$$ vale per ogni intero positivo $a$. Quindi il numero intero meno positivo $a$ che soddisfa l'ineguaglianza è \_\_\_\__.
+
+**Risposta:** 2009
+[[src_cn_cmc_2009__Q04]]

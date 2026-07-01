@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2010 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2010__Q12
 parent: src_bocconi_rosi_2010
 competition: Giochi di Rosi 2010
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età di Luca sapendo relazione con età propria passata*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Luca ha 25 anni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pwjn1M0F1YSZ60SMZmZPXENHZGd98Xmt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Luke's age knowing the relationship to his own past age< MSK1/>
+
+> I've got MSK0/> times the age that Luke was when I was the age of Luke now.
+> 
+> What is Luke's age now, if I'm MSK0?
+
+**Answer:** Luca ha 25 anni
+[[src_bocconi_rosi_2010__Q12]]

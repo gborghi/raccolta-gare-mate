@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2011 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2011__Q19
 parent: src_bocconi_squadre_2011
 competition: Gara a Squadre 2011
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di insetti isolati alla sera del 31 dicembre*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csoOdxkAD8Fd4QvzRpEPzVVVOCkJ8l1C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of insects isolated on the evening of 31 December*
+
+> The insect population we're studying had an impressive growth rate in 2010. As of January 1, it had 2010 units. By 2 January the number had risen to 4021 (double +1). On 3 January it was 12064 (three times the previous number +1). In January, the insect population grew according to the law: the number of individuals the day before, multiplied by the number of days, and increased by 1. The same law was also maintained in February (with an increase of 2). The population on 1 February was increased by 2 on 31 January; the population on 2 February was double the previous one (the one on 1 February) increased by 2, and so on. The law describing insect population growth remains the same even in the following months, with the difference that in March, every day, it is increased by 3 and not one as in January and not even by 2 as in February; in April it is increased by 4; in May it is increased by 5 and so on until December when it is increased by 12. Our insect population, in addition to growing so swiftly, has another feature. Insects are in the habit of flying in formations of 13 units; when their number is not a multiple of 13, they are arranged in such a way that the number of isolated insects (which are not in a 13-unit formation) is as small as possible. How many insects will be isolated on the evening of December 31?
+
+**Answer:** 12
+[[src_bocconi_squadre_2011__Q19]]

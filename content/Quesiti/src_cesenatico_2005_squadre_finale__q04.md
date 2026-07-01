@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q04
 parent: src_cesenatico_2005_squadre_finale
 competition: Gara a Squadre Cesenatico 2005 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero travasi per equidistribuire 2005 borracce*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2004
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number drawn to equally distribute 2005 beverages*
+
+> Lost in the Desert The famous archaeologist Polynomial Jones lost, with his expedition, in the middle of the desert. A quick verification reveals that the shipment has 2005 beverages still containing water. Jones's polynomial then decides to equally distribute water within the droplets and for this he makes a series of transitions: a transition consists of taking a certain amount of water from one droplets and moving it to another. With each transition, however, Polynomial Jones risks wasting water, so he wants to complete the work with as few transitions as possible. What's the minimum number? 2005 Team competition  National final  Problem texts  Pag. 1 di 4
+> 
+> 2005 Team competition  National final  Problem texts  Pag. 2 di 4
+
+**Answer:** 2004
+[[src_cesenatico_2005_squadre_finale__Q04]]

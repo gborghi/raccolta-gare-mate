@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f2__Q08
 parent: src_obm_2010_n3_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve integer system x+y+z=77, xy+yz+2x+xyz=946 with x≤y≤z non-negative*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi sistema di numeri interi x+y+z=77, xy+yz+2x+xyz=946 con x≤y≤z non negativo*
+
+> Risolvere il sistema $$\begin{cases} x + y + z = 77 \\ xy + yz + 2x + xyz = 946 \end{cases}$$ dove $x \le y \le z$ sono integri non negativi.
+
+[[src_obm_2010_n3_f2__Q08]]

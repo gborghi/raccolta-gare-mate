@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2012 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2012_automne__Q11
 parent: src_canimath_2012_automne
 competition: Coupe Animath Automne 2012
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Round table 2013 people: tall vs short, two sub-questions*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Testa rotonda 2013 persone: alte contro piccole, due sotto-questioni*
+
+> Circa lo stesso tavolo si siedono persone di altezza diversa. Diciamo che una persona è *grande* (alta) se è più alta dei suoi due vicini, e *petite* (quota) se è più bassa dei suoi due vicini.
+> 
+> a) Prove che, qualunque sia l'arrangimento scelto intorno al tavolo, ci sono persone alte come persone basse.
+> 
+> b) Quali sono i numeri interi $n$ per i quali si può trovare una disposizione delle persone contenente esattamente $n$ persone alte?
+
+[[src_canimath_2012_automne__Q11]]

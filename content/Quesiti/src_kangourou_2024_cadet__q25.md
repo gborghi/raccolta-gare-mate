@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q25
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti modi scegliere n nel diagramma di prodotti (720)*
 
@@ -71,3 +74,38 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many ways to choose n in the product diagram (720) *
+
+![[src_kangourou_2024_cadet__prob25.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.8]
+  \draw (1,2) rectangle (2,3); \node at (1.5,2.5) {720};
+  \draw (0.5,1) rectangle (1.5,2);
+  \draw (1.5,1) rectangle (2.5,2);
+  \draw (0,0) rectangle (1,1);
+  \draw (1,0) rectangle (2,1); \node at (1.5,0.5) {$n$};
+  \draw (2,0) rectangle (3,1);
+\end{tikzpicture}
+\end{document}
+```
+
+> Note the figure: under each box A of the first and second row (from above) there are two boxes, B and C. Daniel wants to insert a number in each box of the diagram so that each box A contains the product of the numbers contained in the corresponding boxes B and C. In particular, you want the box in the first row to contain 720. How many different ways can you choose the number n ? A) 1
+>  
+> B) 4
+>  
+> C) 5
+>  
+> D) 6
+>  
+> E) 8 n 720
+>
+
+**Answer:** D
+[[src_kangourou_2024_cadet__Q25]]

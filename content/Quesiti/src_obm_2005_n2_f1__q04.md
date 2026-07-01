@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q04
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Difference between a billion as a million-of-millions vs a thousand-of-millions*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+La differenza tra un miliardo di milioni e mille di milioni
+
+> Alla domanda, Arnaldo dice che $1$ miliardi è uguale a un milione di milioni. Il professor Piraldo lo ha corretto e ha detto che $1$ miliardo è lo stesso di mille milioni. Qual è la differenza tra queste due risposte? A) $1\,000$ \quad B) $999\,000$ \quad C) $1\,000\,000$ \quad D) $999\,000\,000$ \quad E) $999\,000\,000\,000$
+
+**Risposta:** E
+[[src_obm_2005_n2_f1__Q04]]

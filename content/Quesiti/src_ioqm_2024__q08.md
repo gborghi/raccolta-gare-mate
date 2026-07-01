@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q08
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *First two digits of smallest n with digit-sum conditions on n and n+1*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le prime due cifre della n più piccola con condizioni di somma di cifre su n e n+1*
+
+> $n$ sia il numero intero più piccolo tale che la somma delle cifre di $n$ sia divisibile da $5$ e la somma delle cifre di $(n+1)$ sia divisibile da $5$. Quali sono le prime due cifre di $n$ nello stesso ordine?
+
+[[src_ioqm_2024__Q08]]

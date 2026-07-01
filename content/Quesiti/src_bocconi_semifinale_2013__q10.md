@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2013 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2013__Q10
 parent: src_bocconi_semifinale_2013
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2013
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio del cerchio particolare con area uguale al perimetro*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ray of the particular circle with an area equal to the perimeter*
+
+> This circle is special because the number expressing its area (in cm$^2$) is equal to the length (in cm) of the circumference of the circle.
+> 
+> What is the radius of this particular circle?
+
+**Answer:** 2
+[[src_bocconi_semifinale_2013__Q10]]

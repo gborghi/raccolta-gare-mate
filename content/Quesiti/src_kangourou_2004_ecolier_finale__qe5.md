@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Ecolier finale nazionale — Quesito E5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_ecolier_finale__QE5
 parent: src_kangourou_2004_ecolier_finale
 competition: Kangourou 2004 Ecolier finale nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spazi bianchi sull'ultima riga (numeri 1..150)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 73
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G2cU6gqsfkcIkAJRkZw-THMtabRgrAjY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*White spaces on the last line (numbers 1.150) *
+
+> My computer screen allows me to write $80$ characters (letters, numbers or white spaces) on each line. If there is not enough space for a word or a number at the end of the line, the word or number is entirely moved to the next line. I write the numbers from $1$ to $150$ (in digits) and I leave a blank space between each number and its next. How many white spaces are left on the last line after the last zero?
+
+**Answer:** 73
+[[src_kangourou_2004_ecolier_finale__QE5]]

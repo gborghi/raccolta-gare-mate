@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2020 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2020__Q19
 parent: src_smc_2020
 competition: Senior Mathematical Challenge 2020
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count possible values of t where p, q, r, s, t are distinct single-digit positive integers with p - q = r - s + t*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i possibili valori di t dove p, q, r, s, t sono diversi interi positivi a un solo digitolo con p - q = r - s + t*
+
+> Le lettere $p$, $q$, $r$, $s$ e $t$ rappresentano diversi numeri positivi a singola cifra, quali $p - q = r - s + t$. Quanti valori diversi potrebbe avere $t$?
+>
+> - **(A)** $6$
+> - **(B)** $5$
+> - **(C)** $4$
+> - **(D)** $3$
+> - **(E)** $2$
+
+**Risposta:** A
+[[src_smc_2020__Q19]]

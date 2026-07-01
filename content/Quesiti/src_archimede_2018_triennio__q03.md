@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Triennio (T1) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_triennio__Q03
 parent: src_archimede_2018_triennio
 competition: Giochi di Archimede 2018 - Triennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti con almeno una faccia dipinta in cubo 10x10x10*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cubs with at least one face painted in a 10x10x10 cube*
+
+> Piero builds a cube by gluing 1000 small cubes all equal (with 10 cubes along each stem). So he paints all the faces of the cube he's built green. How many of the initial cubes will have at least a green face?
+>
+> - **(A)** 600
+> - **(B)** 384
+> - **(C)** 504
+> - **(D)** 488
+> - **(E)** 592
+
+**Answer:** D
+[[src_archimede_2018_triennio__Q03]]

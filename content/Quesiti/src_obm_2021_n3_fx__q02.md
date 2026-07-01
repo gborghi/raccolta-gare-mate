@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2021_n3_fx__Q02
 parent: src_obm_2021_n3_fx
 competition: Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max marked cells in 2×3n board with adjacency constraint; count configurations*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17H-vwLFAdIazq1JXS3IN18t1GGmAcKXp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Max cellule marcate in tabella 2×3n con restrizione di adiacenza; configurazioni di conteggio*
+
+> $n$ sia un numero intero positivo. Su una tabella $2 \times 3n$, segniamo alcune celle in modo che ogni cella (segnalata o meno) sia adiacente ad un massimo di altre due celle segnalate distinte. Due cellule sono *adiacenti* quando sono distinte e condividono almeno un vertice in comune (cioè sono vicine orizzontalmente, verticalmente o diagonalmente); una cellula non è adiacente a se stessa.
+> 
+> a) Qual è il numero massimo possibile di cellule contrassegnate?
+> 
+> (b) Per questo massimo, in quanti modi possiamo contrassegnare le cellule? Le configurazioni distinte che possono essere ottenute l'una dall'altra mediante rotazione o riflessione sono considerate le stesse.
+
+[[src_obm_2021_n3_fx__Q02]]

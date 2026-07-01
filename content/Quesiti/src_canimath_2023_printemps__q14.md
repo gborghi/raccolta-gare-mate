@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2023 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2023_printemps__Q14
 parent: src_canimath_2023_printemps
 competition: Coupe Animath Printemps 2023
@@ -37,6 +38,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For which positive integers n can Aline write 2n real numbers, not all equal, such that for every choice of n of them the sum of the chosen n equals the product of the other n?*
 
@@ -53,3 +56,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Per quali integri positivi n Aline può scrivere 2n numeri reali, non tutti uguali, in modo tale che per ogni scelta di n di essi la somma della n scelta è uguale al prodotto dell'altro n?
+
+> $n$ sia un numero intero rigorosamente positivo. Aline vuole scrivere $2n$ numeri reali sulla lavagna in modo tale che:
+> 
+> $\triangleright$ i numeri $2n$ scritti non sono tutti uguali;
+> 
+> $\triangleright$ se Aline circonda $n$ dei numeri scritti sulla lavagna, allora, qualunque sia la scelta di Aline, la somma dei numeri circondati $n$ è pari al prodotto dei numeri $n$ non circondati.
+> 
+> Per quali valori di $n$ Aline può realizzare il suo desiderio?
+
+[[src_canimath_2023_printemps__Q14]]

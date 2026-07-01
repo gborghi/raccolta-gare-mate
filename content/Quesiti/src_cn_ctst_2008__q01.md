@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2008 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2008__Q01
 parent: src_cn_ctst_2008
 competition: China National Team Selection Test 2008
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove CF = FG in triangle with incircle configuration*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove CF = FG in triangolo con configurazione incircolare*
+
+> Nel triangolo $ABC$, abbiamo $AB > AC$. L'incircolo $\omega$ tocca $BC$ a $E$ e $AE$ si interseca con $\omega$ a $D$. Selezionare un punto $F$ su $AE$ ($F$ è diverso da $E$), in modo tale che $CE = CF$. Il punto di intersezione di $CF$ e $BD$ è $G$. Prova che < MSK16/>.
+
+[[src_cn_ctst_2008__Q01]]

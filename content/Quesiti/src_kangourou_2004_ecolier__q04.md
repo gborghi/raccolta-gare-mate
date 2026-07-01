@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Ecolier (18 marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_ecolier__Q04
 parent: src_kangourou_2004_ecolier
 competition: Kangourou 2004 Ecolier (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri nel rettangolo e cerchio ma non triangolo*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers in rectangle and circle but not triangle*
+
+![[src_kangourou_2004_ecolier__prob4.png]]
+
+> What numbers are written inside the rectangle and the circle but not inside the triangle? A) 5 e 11 B) 1 e 10     C) 13 D) 3 e 9      E) 6, 7 e 4
+
+**Answer:** B
+[[src_kangourou_2004_ecolier__Q04]]

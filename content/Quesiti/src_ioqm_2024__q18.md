@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q18
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Last two digits of largest r printed under given conditions on p,q*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le ultime due cifre di r più grande stampate in determinate condizioni su p,q*
+
+> $p, q$ siano numeri a due cifre, nessuno dei quali dividibile da $10$. Il numero $r$ deve essere di quattro cifre inserendo le cifre di $p$ seguite dalle cifre di $q$ (in ordine). Poiché $p, q$ varia, un computer stampa $r$ sullo schermo se $\gcd(p,q) = 1$ e $p + q$ dividono $r$. Supponiamo che il numero più grande stampato dal computer sia $N$. Determinare il numero formato dalle ultime due cifre di $N$ (nel medesimo ordine).
+
+[[src_ioqm_2024__Q18]]

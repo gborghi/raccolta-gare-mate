@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q30
 parent: src_kangourou_2008_junior_marzo
 competition: Kangourou 2008 - Junior (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza segmento PQ (archi nel quadrato)*
 
@@ -66,3 +69,19 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*PQ segment length (squared arcs) *
+
+![[src_kangourou_2008_junior_marzo__prob30.png]]
+
+> In the figure, ABCD is a square on side 1 and the arc of circumference is centered each at one of the vertices of the square with extremes at adjacent vertices. How long is the PQ segment? The Commission has decided to extend the scope of this Regulation to the following areas:
+> 
+>  
+> 1 Kangourou of Mathematics 2008 Junior category For secondary or tertiary secondary school students
+
+**Answer:** E
+[[src_kangourou_2008_junior_marzo__Q30]]

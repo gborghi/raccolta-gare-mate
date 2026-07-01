@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q29
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di b nei numeri civici con somma 912*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of b in civil numbers with sum of 912*
+
+> The civil numbers of three friends' houses can be written using only three digits altogether: the major is abc, the second is bc and the third is c. The sum of the three numbers is 912. How much is b ? A) 5 B) 6 C) 7 D) 8 E) 0
+
+**Answer:** A
+[[src_kangourou_2012_benjamin__Q29]]

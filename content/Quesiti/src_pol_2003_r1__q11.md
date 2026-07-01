@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2003 — Round 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2003_r1__Q11
 parent: src_pol_2003_r1
 competition: Olimpiade Matematica Polacca 2003 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex ABCD; P on BC, Q on CD with angle BAP = angle DAQ. Triangles ABP and ADQ have equal area iff their orthocenters lie on a line perpendicular to AC.*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/> ABCD convexa; P su BC, Q su CD con angolo BAP = angolo DAQ. I triangoli ABP e ADQ hanno superficie uguale se i loro ortocentri si trovano su una linea perpendicolare all'AC.*
+
+> Si dà un quadrilaterale convex $ABCD$. I punti $P$ e $Q$ diversi dai suoi vertici si trovano rispettivamente sui segmenti $BC$ e $CD$ e soddisfano la condizione $\angle BAP=\angle DAQ$. Indicare che i triangoli $ABP$ e $ADQ$ hanno la stessa superficie se e solo se i loro ortocentri si trovano su una linea perpendicolare a $AC$.
+
+[[src_pol_2003_r1__Q11]]

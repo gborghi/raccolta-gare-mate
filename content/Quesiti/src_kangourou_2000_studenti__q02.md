@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q02
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Topolini nelle tasche del gigante*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Topoles in the pockets of the giant*
+
+> In a giant's jacket there are 585 pockets, in each pocket live 3 mice, and each mouse is accompanied by 5 little mice. How many mice live in that giant's jacket? A) (585:3):5      B) (585×3):5     C) (585×5):3    D) 585×3×5      E) 585×(5+3)
+
+**Answer:** D
+[[src_kangourou_2000_studenti__Q02]]

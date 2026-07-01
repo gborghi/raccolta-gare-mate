@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n2_f2__Q02
 parent: src_obm_1999_n2_f2
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2
@@ -40,6 +41,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three integers on a board; each move erases two and writes their sum minus one; can starting from 2,2,2 or 3,3,3 yield 17,75,91?*
 
@@ -54,3 +57,17 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1psURjkFuMxj9RH-TjdKiYCVL0r6_oiLW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre numeri interi su una lavagna; ogni movimento cancella due e scrive la loro somma meno uno; può partire da 2,2,2 o 3,3,3 rendere 17,75,91?*
+
+> Su una lavagna sono scritte tre numeri interi. Poi viene eseguita una sequenza di mosse in cui, ad ogni passo, uno ne cancella due e scrive al loro posto un numero uguale alla somma delle due mosse cancellate diminuita di un'unità. Dopo numerose mosse si ottengono sulla lavagna i numeri $17$, $75$ e $91$. È possibile che i numeri scritti all'inizio fossero:
+> 
+> a) $2, 2, 2$ ?
+> 
+> b) $3, 3, 3$ ?
+
+[[src_obm_1999_n2_f2__Q02]]

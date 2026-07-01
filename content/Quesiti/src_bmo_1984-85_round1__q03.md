@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1984-85 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1984-85_round1__Q03
 parent: src_bmo_1984-85_round1
 competition: British Mathematical Olympiad 1984-85 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a binomial coefficient summation identity*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove l'identità di somma dei coefficienti binomiali*
+
+> $n$ e $m$ sono integri non negativi. Prove che $$\binom{n}{m} + 2\binom{n-1}{m} + 3\binom{n-2}{m} + \cdots + (n+1-m)\binom{m}{m} = \binom{n+2}{m+2}$$ dove $\binom{r}{s}$ è il coefficiente binomio $r(r-1)(r-2)\cdots(r-s+1)/s!$.
+
+[[src_bmo_1984-85_round1__Q03]]

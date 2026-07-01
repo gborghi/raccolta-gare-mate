@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n1_f1__Q05
 parent: src_obm_2009_n1_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circulant 4x4 determinant equals f(1)f(i)f(-1)f(-i)*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gfklUu8Lw7e-icOu2QgoKvp09d7Hdigd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Determinante 4x4 di circolante = f(1) f(i) f(-1) f(-i) *
+
+> Dati i numeri reali $a,b,c,d$, considera la matrice $$A=\begin{pmatrix}a&b&c&d\\d&a&b&c\\c&d&a&b\\b&c&d&a\end{pmatrix}.$$ Se $f(x)=a+bx+cx^2+dx^3$, prova che $$\det A=f(1)\,f(i)\,f(-1)\,f(-i).$$ (Qui $i$ indica l'unità immaginaria.)
+
+[[src_obm_2009_n1_f1__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q12
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione ombreggiata nel triangolo*
 
@@ -58,3 +61,26 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area region shaded in the triangle*
+
+![[src_kangourou_2002_junior__prob12.png]]
+
+> The ABC triangle in the figure has area 1. The points P and Q on the AC side are arranged so that the segments AP, PQ and QC have the same length; the points R and S on the BC side so that the segments BR, RS and SC have the same length. What's the area of the shaded region?
+>  
+> A. 1 / 4
+>  
+> B. 1 / 3
+>  
+> C. 1 / 2
+>  
+> D. 2 / 3
+>  
+> E. 3 / 4
+
+**Answer:** B
+[[src_kangourou_2002_junior__Q12]]

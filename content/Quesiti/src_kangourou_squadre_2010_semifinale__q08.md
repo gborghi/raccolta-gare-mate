@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2010_semifinale__Q08
 parent: src_kangourou_squadre_2010_semifinale
 competition: Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Membri dell'associazione con A doppio di B e 64%*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0075
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Members of the association with double A of B and 64%
+
+> The rectangle becomes a square The figure shows the lines along which Mark cut a cardboard rectangle, the sides of which measured 36 and 81 centimeters, producing two triangles and a pentagon. By timely joining the three pieces, Marco was able to make a square. How many centimeters is the length of the segment indicated by x?
+
+**Answer:** 0075
+[[src_kangourou_squadre_2010_semifinale__Q08]]

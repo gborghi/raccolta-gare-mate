@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q27
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura dell’angolo TBP (tangente e bisettrice)*
 
@@ -72,3 +75,37 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measure of the angle TBP (tangent and biset) *
+
+![[src_kangourou_2014_junior__prob27.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.7]
+  \draw (0,0) circle (2);
+  \draw (-2,0) -- (5,0);
+  \draw (5,0) -- (0.8,1.833);
+  \draw (5,0) -- (-2.2,1.76);
+  \draw[fill=black] (0,0) circle (1.5pt);
+  \draw[fill=black] (0.8,1.833) circle (1.5pt);
+  \draw[fill=black] (-1.474,1.351) circle (1.5pt);
+  \draw[fill=black] (-2,0) circle (1.5pt);
+  \draw[fill=black] (5,0) circle (1.5pt);
+  \node[above right] at (0.8,1.833) {$T$};
+  \node[above left] at (-1.474,1.351) {$B$};
+  \node[left] at (-2,0) {$A$};
+  \node[below] at (0,0) {$O$};
+  \node[right] at (5,0) {$P$};
+\end{tikzpicture}
+\end{document}
+```
+
+> A circle with centre O appears in the figure. The point P is external to it, the straight PT is tangent to it at point T and the straight PB is the receiver of the TPA angle. What is the measurement in degrees of the angle TBP ? (A) 30° B) 45° C) 60° D) 75° E) Depends on the location of the point P.
+
+**Answer:** B
+[[src_kangourou_2014_junior__Q27]]

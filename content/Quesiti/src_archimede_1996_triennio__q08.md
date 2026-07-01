@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Triennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_triennio__Q08
 parent: src_archimede_1996_triennio
 competition: Giochi di Archimede 1996 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale volume non ottenibile con recipienti da 15 e 21*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which volume cannot be obtained with containers of 15 and 21*
+
+> Next to a spring there is a tank with a capacity of more than 30 hectolitres, initially empty. Only two calibrated containers are available, one 15 litre and one 21 litre, with which water can be added and removed from the tank. Which of the following volumes of water can I not put exactly in the tank?
+>
+> - **(A)** 3 litres
+> - **(B)** 5 litres
+> - **(C)** 6 litres
+> - **(D)** 645 litres
+> - **(E)** I can get all the precedents.
+
+**Answer:** B
+[[src_archimede_1996_triennio__Q08]]

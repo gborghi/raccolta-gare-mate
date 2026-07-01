@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q19
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale proposizione è vera tra affermazioni di Renato e Amerigo*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C è vera
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which statement is true between Renato and Amerigo's statements*
+
+> Renato makes three relevant statements: 1) of the three propositions A, B, C only one is true; 2) of the propositions B, C, D only one is true; 3) between A and B, only one is true. His friend Amerigo reiterates to him equally strongly: 1) of A, B, C only one proposition is true; 2) of B, C, D only one proposition is true; 3) of A, C, D only one proposition is true. Keep in mind that one of the two friends lies at least once, while the other always tells the truth. What is (or are) the true proposition?
+
+**Answer:** C è vera
+[[src_bocconi_primavera_2008__Q19]]

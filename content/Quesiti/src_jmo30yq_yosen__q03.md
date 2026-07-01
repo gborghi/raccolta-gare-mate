@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo30yq_yosen__Q03
 parent: src_jmo30yq_yosen
 competition: Japan Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count arrangements of 1-6 in 2x3 grid with adjacent cells differing*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggi di conteggio di 1-6 in griglia 2x3 con celle adiacenti diverse*
+
+> Riempire ogni cella di una griglia $2 \times 3$ con i numeri interi $1, 2, 3, 4, 5, 6$ (ciascuno utilizzato esattamente una volta) in modo che due celle che condividono un bordo contengano numeri diversi. Quante sono queste disposizioni? Due accordi che coincidono dopo la rotazione o la riflessione sono ancora considerati come distinti.
+
+**Risposta:** 16
+[[src_jmo30yq_yosen__Q03]]

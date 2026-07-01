@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin semifinale individuale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q15
 parent: src_kangourou_2022_benjamin_semifinale
 competition: Kangourou 2022 Benjamin semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante ciliegie ha mangiato Donatella in tutto*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0189
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many cherries did Donatella eat in total
+
+> (6 points) Donatella bought 756 cherries and made several bags of them all containing the same number of cherries, without advancing any. One kept it for himself and the others gave it to his friends. Donatella ate all her cherries right away. Then three of her friends gave her, each, exactly one-quarter the number of cherries they had in their bag. After eating these too, Donatella ate more than 150 cherries altogether - exactly how many?
+
+**Answer:** 0189
+[[src_kangourou_2022_benjamin_semifinale__Q15]]

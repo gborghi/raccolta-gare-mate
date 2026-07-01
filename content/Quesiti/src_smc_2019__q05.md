@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q05
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum colours to colour diagram of circles so each circle has exactly one same-colour neighbour*
 
@@ -56,3 +59,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di colori per il diagramma di colori di cerchi in modo che ogni cerchio abbia esattamente un vicino dello stesso colore*
+
+> Olive Green desidera colorare tutti i cerchi del diagramma in modo che, per ogni cerchio, ci sia esattamente un cerchio dello stesso colore.
+> 
+> Qual è il numero minimo di colori di cui Olive ha bisogno per completare questo compito?
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5
+
+![[src_smc_2019__Q05.png]]
+
+**Risposta:** B
+[[src_smc_2019__Q05]]

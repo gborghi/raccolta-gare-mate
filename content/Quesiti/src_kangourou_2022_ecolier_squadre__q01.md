@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_squadre__Q01
 parent: src_kangourou_2022_ecolier_squadre
 competition: Kangourou Squadre 2022 Ecolier Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri di 4 cifre ABAB con A≠B*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0081
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many 4-digit ABAB numbers with A≠B*
+
+> ABAB Numbers How many four-digit numbers are ABAB-shaped, with the digit A different from the digit B?
+
+**Answer:** 0081
+[[src_kangourou_2022_ecolier_squadre__Q01]]

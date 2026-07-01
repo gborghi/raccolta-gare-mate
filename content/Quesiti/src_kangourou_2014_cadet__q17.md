@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q17
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora minima per finire i due bagni con tempi dati*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum time to finish the two baths with data times< MSK1/>
+
+> Six children share an apartment with two bathrooms, which they use every morning from 7:00 a.m. onwards. They use the bathrooms one at a time, each the first bathroom they find free, but they each stay there regularly for a different time: 8, 10, 12, 17, 21 and 22 minutes. If they organize themselves properly, at what time, at the earliest, will they be able to finish using the toilets? A) 7:45 B) 7:46 C) 7:47 D) 7:48 E) 7:50
+
+**Answer:** B
+[[src_kangourou_2014_cadet__Q17]]

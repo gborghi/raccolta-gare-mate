@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q14
 parent: src_cesenatico_2005_squadre_finale
 competition: Gara a Squadre Cesenatico 2005 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di tutti gli interi couranteni (riflessione cifre)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0156
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Summary of all the integers (figure reflection) < MSK1/>
+
+> Numbers in the mirror Ancient people of the Couranteni used to write numbers with the digits ordered both right to left and left to right. Jones polynomial discovered that an integer courantene is a positive integer k such that for every positive integer n divisible by k, the integer obtained from n by inverting the order of the digits is also divisible by k. What's the sum of all the whole currents?
+
+**Answer:** 0156
+[[src_cesenatico_2005_squadre_finale__Q14]]

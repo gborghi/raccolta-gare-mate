@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q12
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of numbers in white squares under parity and max-odd-sum constraints*
 
@@ -52,3 +55,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di numeri nei quadrati bianchi sotto restrizioni di parità e somma massima di probabilità *
+
+> Violeta vuole scrivere i numeri da 1 a 9 nei quadrati della lavagna di sotto, in modo tale che la somma di due numeri nei quadrati vicini sia sempre strana. Inoltre, vuole che la somma dei numeri scritti nei quadrati grigi sia il più grande numero impar. Qual è la somma dei numeri scritti nei quadrati bianchi?
+> 
+> (A) 15 (B) 16 (C) 22 (D) 29 (E) 30
+
+![[src_obm_2015_n2_f1__Q12.png]]
+
+[[src_obm_2015_n2_f1__Q12]]

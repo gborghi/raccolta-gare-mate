@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Junior — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q06
 parent: src_kangourou_2018_junior_semif
 competition: Kangourou 2018 Semifinale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra A in A111...11 di 2019 cifre divisibile per 7*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17csch1-7f-cVvjGdqKXJQd6PNOelNdNG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A figure in A111...11 of 2019 digits divisible by 7*
+
+> (Points 4) The number of 2019 digits (in decimal notation) A111...11, where A is a digit and the remaining 2018 digits are all 1, is divisible by 7. What's the number A? A) 2
+> 	
+> B) 3              C) 4
+> 	
+> D) 5
+> 	
+> E) 9
+
+**Answer:** D
+[[src_kangourou_2018_junior_semif__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2020 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_printemps__Q01
 parent: src_canimath_2020_printemps
 competition: Coupe Animath Printemps 2020
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute the alternating sum 0-1+2-3+...-49+50*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 25
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolare la somma alternata 0-1+2-3+...-49+50*
+
+> Indicare il valore di < MSK0/>.
+> 
+> *Solo una risposta numerica è prevista qui.*
+
+**Risposta:** 25
+[[src_canimath_2020_printemps__Q01]]

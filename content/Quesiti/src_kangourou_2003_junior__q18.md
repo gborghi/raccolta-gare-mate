@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior (20 marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior__Q18
 parent: src_kangourou_2003_junior
 competition: Kangourou 2003 Junior (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di tutti i numeri da cifre di 2003*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of all 2003 numerical numbers*
+
+> Let's consider all the four-digit integers we can get by using each of the four digits of the 2003 number. Putting all these numbers together, what number do you get? A)   5005 B)  5555 C)  16665        D)  1110          E)  15555
+
+**Answer:** E
+[[src_kangourou_2003_junior__Q18]]

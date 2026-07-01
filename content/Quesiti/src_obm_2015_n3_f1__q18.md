@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q18
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many digits does the smallest m with digit-sum function f(m)=2015 have*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quante cifre ha il più piccolo m con funzione somma di numeri f(m) = 2015 *
+
+> La funzione di pavimento $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$. Per esempio, $\lfloor 3.45 \rfloor = 3$ e $\lfloor 41 \rfloor = 41$. Considera la funzione $f$ definita su interi non negativi da $f(0) = 0$ e $$f(n) = f\!\left(\left\lfloor \frac{n}{10} \right\rfloor\right) + n - 10\left\lfloor \frac{n}{10} \right\rfloor$$ per tutti gli interi positivi $n$. Quante cifre ha il più piccolo intero positivo $m$ con $f(m) = 2015$?
+> 
+> (A) 201 \quad (B) 202 \quad (C) 222 \quad (D) 223 \quad (E) 224
+
+**Risposta:** E
+[[src_obm_2015_n3_f1__Q18]]

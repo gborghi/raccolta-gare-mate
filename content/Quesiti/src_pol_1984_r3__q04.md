@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1984 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1984_r3__Q04
 parent: src_pol_1984_r3
 competition: Olimpiade Matematica Polacca 1984 — Round 3
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A coin tossed n times; partial sums with toss values 1 or 2; express the probability that the partial sums hit n recursively.*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uJbOajHDsVJS_W8N_b349B1gwV3vlEpC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Una moneta lanciata n volte; somme parziali con valori di lancio 1 o 2; esprimere la probabilità che le somme parziali colpiscano n in modo ricorrente.*
+
+> Una moneta viene lanciata $n$ volte, e il risultato è scritto nella forma $(a_1,a_2,\ldots,a_n)$, dove $a_i=1$ o $2$ a seconda che il risultato del tiro $i$-th sia la testa o la coda, rispettivamente. Impostare $b_j=a_1+a_2+\cdots+a_j$ per $j=1,2,\ldots,n$, e lasciare $p(n)$ la probabilità che la sequenza $b_1,b_2,\ldots,b_n$ contiene il numero $n$. Esprimere $p(n)$ in termini di $p(n-1)$ e $p(n-2)$.
+
+[[src_pol_1984_r3__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2020 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2020__Q06
 parent: src_garaprime_2020
 competition: Gara Nazionale Classi Prime 2020
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di una frazione complessa con potenze di 5*
 
@@ -60,3 +63,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RcjMtWkWdcfagBZF3LMfq3IMn7aMwmGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of a complex fraction with powers of 5*
+
+> The expression 1 52 + 1 5 + 1 + 5 + 52 1 53 + 1 52 + 2 5 + 2 + 2 · 5 + 52 + 53 is A 5 26 B 5 24 C 25 126 D 25 124 E 25 121 F 25 129
+
+**Answer:** A
+[[src_garaprime_2020__Q06]]

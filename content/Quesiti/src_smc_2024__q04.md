@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2024 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2024__Q04
 parent: src_smc_2024
 competition: Senior Mathematical Challenge 2024
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with angles x°, 7x°, x²° — find the largest angle*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con angoli x°, 7x°, x2°  trovare l'angolo più grande*
+
+> Le dimensioni dei tre angoli in un triangolo, in gradi, sono $x$, $7x$ e $x^2$. Qual è la dimensione dell'angolo più grande?
+>
+> - **(A)** $10^\circ$
+> - **(B)** $18^\circ$
+> - **(C)** $100^\circ$
+> - **(D)** $120^\circ$
+> - **(E)** $121^\circ$
+
+**Risposta:** C
+[[src_smc_2024__Q04]]

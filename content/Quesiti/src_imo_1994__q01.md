@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1994 (35th IMO, Hong Kong) — Quesito 1'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1994__Q01
 parent: src_imo_1994
 competition: 'IMO 1994 (35th IMO, Hong Kong)'
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sum-closed subset average is at least (n+1)/2*
 
@@ -34,3 +37,13 @@ tags:
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uEhsmiYhsGIpd8-npjJnscoeuH2AmioB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum-closed subset average is at least (n+1)/2*
+
+> M is the midpoint of BC and O is the point on the line AM such that OB is perpendicular to AB;
+
+[[src_imo_1994__Q01]]

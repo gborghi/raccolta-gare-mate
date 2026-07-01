@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f1__Q11
 parent: src_obm_2014_n1_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle split by three concurrent segments; given areas 24, 18, 8; find total area*
 
@@ -48,3 +51,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo diviso in tre segmenti simultanei; date le aree 24, 18, 8; area totale*
+
+> Il rettangolo della figura è stato diviso in diverse regioni tramite tre segmenti simultanei, uno dei quali è una diagonale del rettangolo e gli altri paralleli ai lati. I numeri indicano le superfici, in $\text{m}^2$, di alcune regioni; i valori indicati sono $24$, $18$ e $8$. Qual è l'area del rettangolo originale?
+> 
+> (A) $40\text{ m}^2$ \quad (B) $65\text{ m}^2$ \quad (C) $75\text{ m}^2$ \quad (D) $80\text{ m}^2$ \quad (E) $100\text{ m}^2$
+
+![[src_obm_2014_n1_f1__Q11.png]]
+
+[[src_obm_2014_n1_f1__Q11]]

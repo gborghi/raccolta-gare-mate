@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2013 - Biennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_biennio__Q09
 parent: src_archimede_2013_biennio
 competition: Giochi di Archimede 2013 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Divisori di n^2 se n ha 6 divisori*
 
@@ -45,3 +48,20 @@ tags:
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>N2 dividers if n has 6 dividers< MSK1/>
+
+> If n is a natural number with 6 positive integers, how many positive integers does n have? N.B.: Among the divisors of a number, we also count 1 and the number itself.
+>
+> - **(A)** 11
+> - **(B)** 12
+> - **(C)** 15
+> - **(D)** 36
+> - **(E)** The answer depends on n
+
+**Answer:** E
+[[src_archimede_2013_biennio__Q09]]

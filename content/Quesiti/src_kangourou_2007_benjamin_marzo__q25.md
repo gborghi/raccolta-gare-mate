@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q25
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza perimetri figura B e A (strisce)*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Differential perimeter figures B and A (stripe) *
+
+![[src_kangourou_2007_benjamin_marzo__prob25.png]]
+
+> In Figure A you can see 4 strips of paper attached, each of which (starting from the second) is more than 25 centimetres longer than the one on the left. The strips are restored as shown in Figure B. How many centimetres is the perimeter of Figure B longer than the perimeter of Figure A? A) 0 B) 25 C) 40 D) 50 E) 75
+
+**Answer:** D
+[[src_kangourou_2007_benjamin_marzo__Q25]]

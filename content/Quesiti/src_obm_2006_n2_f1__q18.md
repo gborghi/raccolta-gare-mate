@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q18
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integer solutions to system a+b=c^2, a+b+c=30*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare soluzioni a numeri interi positivi per il sistema a+b=c^2, a+b+c=30*
+
+> Il numero di soluzioni a numeri interi positivi del sistema $$\begin{cases} a + b = c^2 \\ a + b + c = 30 \end{cases}$$ è:
+> 
+> **A) ** 45 \quad **B) ** 23 \quad **C) ** 24 \quad **D) ** 25 \quad **E) ** 72
+
+**Risposta:** C
+[[src_obm_2006_n2_f1__Q18]]

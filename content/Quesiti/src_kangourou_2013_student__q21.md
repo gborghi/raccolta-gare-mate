@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q21
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (x,y) con x<=y e xy=5(x+y)*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Couples (x,y) with x<=y and xy=5(x+y) *
+
+> For how many pairs (x, y) of integers such that x < MSK0/> y, is xy = 5 (x + y) ? A) 4
+> 	
+> B) 5
+> 	
+> C) 6
+> 	
+> D) 7
+> 	
+> E) 8
+
+**Answer:** A
+[[src_kangourou_2013_student__Q21]]

@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2008 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2008__Q07
 parent: src_cn_cgmo_2008
 competition: China Girls' Mathematical Olympiad 2008
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count harmonic 2008x2008 chessboards filled with four letters*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio armonico 2008x2008 scacchi pieni di quattro lettere*
+
+> Per una scacchiera delle dimensioni $2008 \times 2008$, in ogni caso (tutti hanno colori diversi) scrivere una delle lettere $C$, $G$, $M$, $O$. Se ogni quadrato $2 \times 2$ contiene tutte queste quattro lettere, lo chiamiamo una scacchiera armonica. (Posato da Zuming Feng)
+
+**Risposta:** $12 \times 2^{2008} - 24$
+[[src_cn_cgmo_2008__Q07]]

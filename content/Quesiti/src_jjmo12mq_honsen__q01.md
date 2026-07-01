@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2014 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo12mq_honsen__Q01
 parent: src_jjmo12mq_honsen
 competition: Japan Junior Mathematical Olympiad 2014 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integers n≥2 whose small divisors satisfy d² | n*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18594kVzlMkSq0K9TdtkKDDLR5gHNyYtr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutti gli enti n ≥2 i cui piccoli divisori soddisfano d2 n *
+
+> Trova tutti gli enti $n \geq 2$ che soddisfano la seguente condizione.
+> 
+> \textit{Condition:} Per ogni divisore positivo $d$ di $n$ con $d \leq \sqrt{n}$, $d^2$ divide $n$.
+
+[[src_jjmo12mq_honsen__Q01]]

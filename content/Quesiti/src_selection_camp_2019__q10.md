@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2019 — Selection Camp — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2019__Q10
 parent: src_selection_camp_2019
 competition: Japan IMO Selection Camp 2019 — Selection Camp
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles ABC, PA parallel BC; angle condition gives A,P,X,Y concyclic*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Isoceles ABC, PA parallelo BC; condizione angolare dà A,P,X,Y conciclica< MSK1/>
+
+> $ABC$ sia un triangolo con $AB = AC$, e $M$ sia il punto medio di $BC$. Prendiamo un punto $P$ tale che $PA$ sia parallelo a $BC$ e $PB < PC$. sulle linee $PB$ e $PC$ prendere i punti $X$ e $Y$ rispettivamente, in modo che $P$, $B$, $X$ si trovino in questo ordine e $P$, $C$, $Y$ si trovino in questo ordine. Supponiamo che $\angle PXM = \angle PYM$ sia valido. Provare che i quattro punti $A$, $P$, $X$, $Y$ si trovano su un cerchio comune.
+
+[[src_selection_camp_2019__Q10]]

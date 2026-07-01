@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2026_semifinale_cd__Q09
 parent: src_squadre_2026_semifinale_cd
 competition: Gara a Squadre 2026 - Semifinale 2 (nazionale)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ampiezza angolo AED con bisettrici*
 
@@ -95,3 +98,54 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0039
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AED angle amplifier with hinges*
+
+![[src_squadre_2026_semifinale_cd__prob9.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=4]
+  \coordinate (A) at (0.4444, 0.3472);
+  \coordinate (B) at (0, 0);
+  \coordinate (C) at (1, 0);
+  \coordinate (D) at (0.6447, 0.2220);
+  \coordinate (E) at (0.3706, 0);
+  \draw (A) -- (B) -- (C) -- cycle;
+  \draw (A) -- (E);
+  \draw[dashed] (B) -- (D);
+  \draw (B) ++(45:0.12) arc (45:79:0.12);
+  \draw (B) ++(79:0.12) arc (79:115:0.12);
+  \fill[green!30,opacity=0.5] (A) -- ++(-40:0.12) arc(-40:-110:0.12) -- cycle;
+  \draw (A) ++(-40:0.12) arc (-40:-110:0.12);
+  \draw[dashed] (E) ++(50:0.10) arc (50:128:0.10);
+  \fill[gray!30] (C) -- ++(180:0.10) arc (180:148:0.10) -- cycle;
+  \draw (C) ++(180:0.10) arc (180:148:0.10);
+  \node[above right] at (A) {A};
+  \node[below left] at (B) {B};
+  \node[below right] at (C) {C};
+  \node[above right] at (D) {D};
+  \node[below] at (E) {E};
+  \node at (0.06,0.06) {$19^\circ$};
+  \node at (0.02,0.13) {$19^\circ$};
+  \node[right] at (0.48,0.32) {$70^\circ$};
+  \node at (0.47,0.25) {$70^\circ$};
+  \node at (0.40,0.07) {$78^\circ$};
+  \node at (0.91,0.05) {$32^\circ$};
+  \fill (A) circle(0.6pt);
+  \fill (B) circle(0.6pt);
+  \fill (C) circle(0.6pt);
+  \fill (D) circle(0.6pt);
+  \fill (E) circle(0.6pt);
+\end{tikzpicture}
+\end{document}
+```
+
+> Question of points of view [⋆] Leonardo Franchi 19° 19° 70° 70° 78° 32° A B C D E The pub hall Three topological arms has the triangle shape of the plant ABC with angles ˆA = 110°, ˆB = 38°, ˆC = 32°. The counter shall be placed at point E above BC such that \ AEB = 102°. Since D is the AC point that is the foot of the receiver from B, the bartender knows that she can monitor the entrance from the AED angle. What is the width of the latter (in degrees)?
+
+**Answer:** 0039
+[[src_squadre_2026_semifinale_cd__Q09]]

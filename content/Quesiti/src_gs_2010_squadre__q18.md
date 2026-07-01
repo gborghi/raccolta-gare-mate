@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2010 - Gara a squadre — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2010_squadre__Q18
 parent: src_gs_2010_squadre
 competition: Coppa Fermat 2010 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordine arrivo con un bugiardo (codifica)*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4102
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Order arrival with a liar (code) *
+
+> The race, II** (50 points)
+> 
+> Maybe Elwood was wrong about the liar in the race between Alan, Bob, Claire, and Duncan. Knowing only that exactly one of the four is a liar, but the winner isn't lying, the statements are:
+> 
+> - Alan: Bob isn't close to Duncan (in finish position). - Bob: Alan isn't last. - Claire: I'm not right after Bob (in finish position). - Duncan: Neither I nor Bob have won.
+> 
+> Say: 1. who has certainly not won; 2. who is certainly not the last one; 3. who is immediately following Bob (in the arrival position); 4. who is certainly not a liar.
+> 
+> Write the answer at each point in the homonymous box, using $1$ to indicate Alan, $2$ to indicate Bob, $3$ to indicate Claire, $4$ to indicate Duncan, and $0$ to indicate that the request does not have a single answer.
+
+**Answer:** 4102
+[[src_gs_2010_squadre__Q18]]

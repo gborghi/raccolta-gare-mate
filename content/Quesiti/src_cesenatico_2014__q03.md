@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2014__Q03
 parent: src_cesenatico_2014
 competition: Olimpiade Italiana (Cesenatico) 2014 - testi
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *MCD di a^n+(a+1)^n+(a+2)^n e' potenza di 3*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1gIgeQmvtAR3P4hh46pVwAUEVyz0qxkyZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*MCD of a^n+(a+1)^n+(a+2)^n is power of 3*
+
+> For every positive integer n, be Dn the maximum common divisor of all numbers of the form an + (a + 1)n + (a + 2)n as a varies between all positive integers. (a) Demonstrate that for every n, Dn is 3k for some whole k ≥0. (b) Demonstrate that for every k < MSK1/>0, there exists an integer n such that Dn = 3k.
+
+[[src_cesenatico_2014__Q03]]

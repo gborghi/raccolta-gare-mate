@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Pre - gara marzo — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q02
 parent: src_kangourou_2020_pre_marzo
 competition: Kangourou 2020 Pre - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale foto del palloncino davanti al castello*
 
@@ -45,3 +48,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What picture of the balloon in front of the castle?
+
+![[src_kangourou_2020_pre_marzo__prob2.png]]
+
+> Tommy's balloon was photographed outside this castle. Which of the following images can match Tommy's photograph?
+>
+> (see figure)
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
+
+**Answer:** E
+[[src_kangourou_2020_pre_marzo__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q22
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *First decimal digit of 1/5^12*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prima cifra decimale di 1/5^12*
+
+> Qual è la prima cifra dopo il punto decimale nella rappresentazione decimale della frazione $\dfrac{1}{5^{12}}$?
+> 
+> (A) $1$ \quad (B) $2$ \quad (C) $4$ \quad (D) $5$ \quad (E) $7$
+
+[[src_obm_2011_n2_f1__Q22]]

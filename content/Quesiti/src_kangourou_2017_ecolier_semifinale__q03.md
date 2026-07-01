@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q03
 parent: src_kangourou_2017_ecolier_semifinale
 competition: Kangourou 2017 Ecolier - Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Palloncini di Francesca da somme parziali*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+French balloons of partial sums
+
+> Three points: Five children stand in line, each holding several colored balloons in his left hand - 37 in all. To Andrew's right there are 14 balloons; to Catherine's right there are 32; to Eva's right there are 20 and to Daniel's right there are 8. How many balloons does Francesca have?
+>
+> - **(A)** 4
+> - **(B)** 6
+> - **(C)** 8
+> - **(D)** 10
+> - **(E)** 12
+
+**Answer:** C
+[[src_kangourou_2017_ecolier_semifinale__Q03]]

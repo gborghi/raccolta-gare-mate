@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_2livello__Q02
 parent: src_archimede_2010_2livello
 competition: Archimede Gara 2° livello 2010 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area comune ai triangoli ABC e DEF (simmetrici di O)*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area common to triangles ABC and DEF (O symmetrical) *
+
+> Whether ABC is an equilateral triangle of center O and area 1. Let D, E, F be the symmetrical points of O with respect to the three sides of the triangle. How much is the area shared by the ABC and DEF triangles?
+>
+> - **(A)** 1 3
+> - **(B)** 2 √ 3 9
+> - **(C)** √ 2 3
+> - **(D)** √ 3 3
+> - **(E)** 2
+
+**Answer:** E
+[[src_archimede_2010_2livello__Q02]]

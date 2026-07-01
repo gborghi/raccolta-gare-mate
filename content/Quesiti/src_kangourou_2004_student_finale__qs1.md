@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Student finale nazionale — Quesito S1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student_finale__QS1
 parent: src_kangourou_2004_student_finale
 competition: Kangourou 2004 Student finale nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie intere con |x^2-3y^2+2xy|=1*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (1,0),(-1,0)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YDB8i8P8ObCcVZVHoKNettQ8gKf-sGTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Full pairs with ∙ x^2-3y^2 + k2xy is equal to 1 ∙
+
+> For which pairs of $(x, y)$ relative integers is $|x^2 - 3y^2 + 2xy| = 1$ true?
+
+**Answer:** (1,0),(-1,0)
+[[src_kangourou_2004_student_finale__QS1]]

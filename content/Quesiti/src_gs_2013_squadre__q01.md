@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q01
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie di affermazioni uguali false (logica)*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0010
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Types of false equal statements (logic) *
+
+> The seven deities of the Andals meet to predict who will emerge victorious from the war between the five kings that is about to develop. At every meeting of the seven gods, exactly one of them says the truth, the other six say the lie.
+> 
+> The first, the Father, says: He will defeat King Ceelvyer Lannister. The second, the Mother, says: He will defeat King Lewyj Stark. The third, the Fabbro, says: He will defeat King Beapys Baratheon. The fourth, the Old Woman, says: He will defeat King Ceelvyer Lannister. The fifth, the Virgin, says: He will defeat King Munry Baratheon. The sixth, the Warrior, says: He will defeat King Beapys Baratheon. The seventh, the Stranger, says: He will defeat King Munry Baratheon.
+> 
+> None of the seven mentions the fifth King Unton Greyjoy. What is the total number of letters of the winner's name and surname?
+
+**Answer:** 0010
+[[src_gs_2013_squadre__Q01]]

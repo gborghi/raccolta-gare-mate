@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Finale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q14
 parent: src_kangourou_2019_squadre_finale
 competition: Kangourou Coppa squadre 2019 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Per quanti n sia n-2019 sia n+6000 quadrati*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0007
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*For quantities n being n-2019 and n+6000 squares*
+
+> Perfect squares For how many positive integers n happens that both n  2019 and n + 6000 are perfect squares?
+
+**Answer:** 0007
+[[src_kangourou_2019_squadre_finale__Q14]]

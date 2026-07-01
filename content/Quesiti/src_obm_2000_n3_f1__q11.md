@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q11
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangular reading of odd numbers in white cells; find 2000th term*
 
@@ -59,3 +62,22 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Legge triangolare dei numeri odd nelle celle bianche; trovare il termine 2000*
+
+> Si inseriscono in ordine crescente i numeri dispari nelle celle bianche di una tavola seguendo l'ordine indicato (i numeri in parentesi indicano le linee). Quindi, per esempio, il nono numero della nostra lista è 14. Qual è il 2000° numero della nostra lista?
+>
+> - **(A)** 3931
+> - **(B)** 3933
+> - **(C)** 3935
+> - **(D)** 3937
+> - **(E)** 3939
+
+![[src_obm_2000_n3_f1__Q11.png]]
+
+**Risposta:** C
+[[src_obm_2000_n3_f1__Q11]]

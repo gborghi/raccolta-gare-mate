@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 34
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q34
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -27,6 +28,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *B-1: arithmetic sequence d≠0, a_2021=a_20+a_21; find a_1/d.*
 
@@ -39,3 +42,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*B-1: sequenza aritmetica d≠0, a_2021=a_20+a_21; trovare a_1/d.*
+
+> [Paper di prova B, problema 1] Data la sequenza aritmetica $\{a_n\}$ con differenza comune $d\ne 0$ e $a_{2021}=a_{20}+a_{21}$, il valore di $\dfrac{a_1}{d}$ è ______.
+
+**Risposta:** 1981
+[[src_cn_cmc-first-round_2021__Q34]]

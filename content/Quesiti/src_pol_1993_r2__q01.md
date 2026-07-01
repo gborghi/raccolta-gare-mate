@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r2__Q01
 parent: src_pol_1993_r2
 competition: Olimpiade Matematica Polacca 1993 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove an inequality for positive reals x,y,u,v.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NgcL0QAd2CG62bFmgawlLI7Z2DvH7hOH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Demontrare una disuguaglianza per i reali positivi x,y,u,v.*
+
+> Se $x,y,u,v$ sono numeri reali positivi, dimostrare la disuguaglianza $$\frac{xu+xv+yu+yv}{x+y+u+v} \ge \frac{xy}{x+y}+\frac{uv}{u+v}.$$
+
+[[src_pol_1993_r2__Q01]]

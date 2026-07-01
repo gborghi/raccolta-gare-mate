@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Triennio — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_triennio__Q22
 parent: src_archimede_1997_triennio
 competition: Giochi di Archimede 1997 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che il 13 sia estratto in una sola citta*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The probability of 13 being mined in one city
+
+> The extraction of the lot is carried out independently in various cities. In each city, 5 distinct numbers are extracted from all numbers between 1 and 90. Considering the extractions involving the three cities of Milan, Rome and Naples, what is the probability that the number 13 will be extracted in one and only one of these three cities?
+>
+> - **(A)** p < 1 18
+> - **(B)** 1 18 ≤p < 1 9
+> - **(C)** 1 9 ≤p < 1 6
+> - **(D)** 1 6 ≤p < 1 4
+> - **(E)** p ≥1 4.
+
+**Answer:** C
+[[src_archimede_1997_triennio__Q22]]

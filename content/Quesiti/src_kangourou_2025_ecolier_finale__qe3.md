@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2025 Ecolier finale — Quesito E3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2025_ecolier_finale__QE3
 parent: src_kangourou_2025_ecolier_finale
 competition: Kangourou 2025 Ecolier finale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo intero con somma cifre 30*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3999
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1EyuX-CGpqanxcrAEhrv2lXfkmU9jNjKg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Little whole number with sum of 30 < MSK1/>
+
+> Write the smallest integer greater than 0 whose sum is 30. Explain how you determined it.
+
+**Answer:** 3999
+[[src_kangourou_2025_ecolier_finale__QE3]]

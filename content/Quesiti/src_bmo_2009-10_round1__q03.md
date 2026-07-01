@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2009-10 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2009-10_round1__Q03
 parent: src_bmo_2009-10_round1
 competition: British Mathematical Olympiad 2009-10 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count non-increasing sequences of six integer marks from 0–10*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le sequenze non in aumento di sei segni interi da 010*
+
+> Isaac prova tutte e sei le domande su un articolo di Olimpiade. Non punta mai più in una domanda successiva che in una domanda precedente. Ogni domanda ottiene un punteggio intero da $0$ a $10$. Il suo punteggio è di almeno $1$ sulla domanda 1. Quante diverse sequenze possibili di sei segni può ottenere?
+
+[[src_bmo_2009-10_round1__Q03]]

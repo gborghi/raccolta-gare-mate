@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q13
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punti totali di Roberto sui cinque problemi*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total points from Roberto on the five problems*
+
+> Five problems are proposed in a mathematical contest. The scores assigned to them are all different from each other and are all positive integers. Roberto solved all five problems correctly, scoring a total of 10 points for the two problems with the lowest scores and 18 points for the two problems with the highest scores. How many points did Roberto get in total for the five problems? A) 30 B) 32 C) 34 D) 35 E) 40
+
+**Answer:** D
+[[src_kangourou_2008_student_marzo__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q03
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di elfi tra prigionieri sinceri/bugiardi*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6004
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of Elves among honest/ foolish prisoners
+
+> Elven honesty to Him they exalt noble creatures and they flee from falsehood and deceit: they always speak the truth. Humans, on the other hand, are a less austere people and have no regrets if they need to lie: they can tell the truth or the lie. When the Orcs conquer a human stronghold, they capture 9999 prisoners. They are interviewed in order; early 2009s claim to be elves. Starting with 2010°, the n-eighth states There are at least n −2009 humans among us. How many elves can there be?
+
+**Answer:** 6004
+[[src_gas_2009_finale__Q03]]

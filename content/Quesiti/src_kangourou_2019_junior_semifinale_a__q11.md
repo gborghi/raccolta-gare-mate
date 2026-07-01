@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q11
 parent: src_kangourou_2019_junior_semifinale_a
 competition: Kangourou Coppa Junior squadre 2019 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che ABC+AB+A sia divisibile per 3*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1327
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qvyGTt8fMV3U7A9REDKvAdJtpkkgdYbx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The probability that ABC+AB+A is divisible by 3*
+
+> Divisable by 3 Choosing at random three positive integers (not necessarily distinct) A, B, C less than or equal to 2019, what is the probability that the number A × B × C + A × B + A is divisible by 3? (Write down below the numerator and denominator of the fraction reduced to minimum terms; for example, if the answer is 4/31, write [0431].)
+
+**Answer:** 1327
+[[src_kangourou_2019_junior_semifinale_a__Q11]]

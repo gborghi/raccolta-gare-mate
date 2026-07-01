@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Pre-Ecolier — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_preecolier__Q15
 parent: src_kangourou_2013_preecolier
 competition: Kangourou 2013 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi è il più vecchio dei cinque figli*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ykejBpK7Wiwv-x_5BvjdytAue5Y_N6nU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who is the eldest of five children?
+
+> There are five children in a family. Daniela is 2 years older than Betta, but 2 years younger than Caterina. Edward is three years older than Anna. Betta and Anna are twins. Who is the oldest of the five children? (A) Anna
+> 	
+> B) Betta
+> 	
+> C) Catherine
+> 	
+> (d) the Commission
+> 	
+> (e) Edward
+
+**Answer:** C
+[[src_kangourou_2013_preecolier__Q15]]

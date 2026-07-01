@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2025 Benjamin finale — Quesito B2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2025_benjamin_finale__QB2
 parent: src_kangourou_2025_benjamin_finale
 competition: Kangourou 2025 Benjamin finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Su quale dito cade il conteggio 999*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** medio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hvCMhKmXAjUOFEJWwvFFJ29ZPfkhmm4P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which finger is counted as 999*
+
+> On the fingers of one hand, Silvia counted as follows: $1$ thumb, $2$ index, $3$ middle, $4$ ring, $5$ short; then she turned back: $6$ ring, $7$ middle, $8$ index, $9$ thumb. Then it divides up: $10$ index, $11$ medium and so on, until it gets to $999$. What finger?
+
+**Answer:** medio
+[[src_kangourou_2025_benjamin_finale__QB2]]

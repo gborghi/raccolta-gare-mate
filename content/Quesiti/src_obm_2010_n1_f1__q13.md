@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f1__Q13
 parent: src_obm_2010_n1_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find goals suffered by Esmeralda FC from incomplete championship table*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i gol che ha colpito l'Esmeralda FC da una tabella di campionato incompleta*
+
+> Un giornale pubblicò le classifiche di un campionato di calcio con quattro squadre, mostrando i gol segnati e i gol subiti da ciascuna squadra. A causa di un errore di stampa, mancano alcune voci (indicate come $***$):
+> 
+> Il gruppo di team ha segnato i gol e il team ha segnato i gol e il team ha segnato i gol.
+> 
+> È noto che l'Esmeralda FC ha colpito due gol in più di EC Boleiros. Quanti gol ha colpito Esmeralda FC?
+> 
+> (A) $2$ \quad (B) $3$ \quad (C) $4$ \quad (D) $5$ \quad (E) $6$
+
+**Risposta:** E
+[[src_obm_2010_n1_f1__Q13]]

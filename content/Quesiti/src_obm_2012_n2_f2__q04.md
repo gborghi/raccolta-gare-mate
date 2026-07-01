@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f2__Q04
 parent: src_obm_2012_n2_f2
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n for polygon interior angle sum greater than 2012 degrees*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eh3-XUlx8DQIfyrafQYPn3K5T8QkbX4r/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La minima n per la somma dell'angolo interno del poligono superiore a 2012 gradi*
+
+> Qual è il valore più piccolo di $n$ per il quale un poligono con lati $n$ ha la somma dei suoi angoli interni più grandi di $2012^\circ$?
+
+[[src_obm_2012_n2_f2__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q01
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore espressione 4x4+4+4+4+4+4x4*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Expression value 4x4+4+4+4+4+4+4+4x4*
+
+> 4 x 4 + 4 + 4 + 4 + 4 + 4 x 4=? A) 96 B) 48 C) 100 D) 32 E) 384
+
+**Answer:** B
+[[src_kangourou_2007_cadet_marzo__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q01
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Operazione col risultato maggiore*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Operation with the highest result< MSK1/>
+
+> Which of the following operations produces the greatest result? A) 2 + 0 + 0 + 3 B) 2 x 0 x 0 x 3 C) (2 +0) x (0 + 3) D) 20 x 0 x 3 E) (2 x 0) + (0 x 3)
+
+**Answer:** C
+[[src_kangourou_2003_benjamin__Q01]]

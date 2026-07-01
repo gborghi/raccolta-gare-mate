@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Ecolier — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q04
 parent: src_kangourou_2018_ecolier_semif
 competition: Kangourou 2018 Semifinale Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Secondi in cui due lampadine sono accese insieme*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12RJbo4WQyFx3m4vMHKRiOwlOuiEa6SZd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Seconds when two lamps are lit together< MSK1/>
+
+> (Points 4) A light bulb stays on for 3 seconds, then turns off for 2 seconds, then turns on for 3 seconds, then turns off for 2 seconds and so on. Another light bulb behaves like the previous one, but stays on for 6 seconds and off for 4. At this moment the two lamps are both on. For how many seconds of the next minute, measured from this moment on, will the two bulbs turn on simultaneously? A) 3
+> 	
+> B) 4
+> 	
+> C) 7
+> 	
+> D) 18 E) 24
+
+**Answer:** E
+[[src_kangourou_2018_ecolier_semif__Q04]]

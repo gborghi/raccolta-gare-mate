@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2012__Q20
 parent: src_prmo_2012
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2012
@@ -31,6 +32,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of region bounded by two semicircles*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\pi - 2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di regione delimitata da due semicircoli*
+
+> $PS$ è un segmento di linea di lunghezza 4 e $O$ è il punto medio di $PS$. Un arco semicircolare è disegnato con $PS$ diametro. Che $X$ sia il punto medio di questo arco. $Q$ e $R$ sono punti sull'arco $PXS$ in modo tale che $QR$ sia parallelo a $PS$ e l'arco semicircolare disegnato con $QR$ come diametro sia tangente a $PS$. Qual è l'area della regione $QXROQ$ delimitata dai due archi semicircolari?
+
+**Risposta:** \pi - 2
+[[src_prmo_2012__Q20]]

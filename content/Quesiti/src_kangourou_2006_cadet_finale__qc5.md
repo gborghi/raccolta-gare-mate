@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (finale nazionale) — Quesito C5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet_finale__QC5
 parent: src_kangourou_2006_cadet_finale
 competition: Kangourou 2006 - Cadet (finale nazionale)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato della somma ORE+ORE+ORE=VIVE*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2625
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oNnFL23n9WfxOc8CMwyvvJmHD7pBCd5S/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Result of the sum of ORE+ORE+ORE=VIVE*
+
+![[src_kangourou_2006_cadet_finale__probC5.png]]
+
+> In the operation indicated, each letter represents a digit: equal letters represent equal numbers and different letters represent different numbers; furthermore, no letter represents the $0$ digit. How much is the result worth?
+> 
+> $$\begin{array}{r} \text{ORE} \\ \text{ORE} \\ +\; \text{ORE} \\ \hline \text{VIVE} \end{array}$$
+
+**Answer:** 2625
+[[src_kangourou_2006_cadet_finale__QC5]]

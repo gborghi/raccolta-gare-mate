@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q01
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest expression for positive reals x,y*
 
@@ -55,3 +58,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'espressione più grande per i valori reali positivi x,y*
+
+> Se $x$ e $y$ sono numeri reali positivi, quale dei seguenti numeri è il più grande?
+>
+> - **(A)** $xy$
+> - **(B)** $x^2+y^2$
+> - **(C)** $(x+y)^2$
+> - **(D)** $x^2+y(x+y)$
+> - **(E)** $\dfrac{x^3+y^3}{x+y}$
+
+**Risposta:** C
+[[src_obm_2000_n3_f1__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f2__Q07
 parent: src_obm_2005_n3_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cross-section of right prism with equilateral triangle base cut by plane*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sezione trasversale del prisma retto con base triangolare equilaterale tagliata a piano*
+
+> Un prisma è retto e ha un triangolo equilaterale come base. Un piano taglia il prisma ma non taglia nessuna delle sue basi, determinando una sezione trasversale triangolare con lati $a$, $b$ e $c$. Trova il lato della base del prisma come funzione di $a$, $b$ e $c$.
+
+[[src_obm_2005_n3_f2__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2008 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2008__Q04
 parent: src_cn_cmo_2008
 competition: China Mathematical Olympiad 2008
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all prime triples (p,q,n) with divisibility condition*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(3, 3, n)$ for $n = 2, 3, \ldots$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i tripli primi (p,q,n) con condizione di divisibilità*
+
+> Trova tutti i triples $(p, q, n)$ in modo tale che $p^{n+1}q^{n+1} \mid p^{2n+1} + q^{2n+1} - 3^{2n+1}$, dove $p$, $q$ sono prime e $n$ è un intero positivo.
+
+**Risposta:** $(3, 3, n)$ for $n = 2, 3, \ldots$
+[[src_cn_cmo_2008__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q03
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza del percorso della formica sul cilindro*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of the path of the ant on the cylinder*
+
+![[src_kangourou_2022_junior_gara__prob3.png]]
+
+> The figure sketches the path of an ant from point A to point B of a cylinder 20 cm high, the base of which has a diameter of 10 cm. The path is highlighted in black on the front (visible) side of the cylinder and in gray on the rear (non-visible). How long is it? A) 15π + 20 B) 20π + 20 C) 10π + 20 E) None of the previous numbers is correct.
+
+**Answer:** B
+[[src_kangourou_2022_junior_gara__Q03]]

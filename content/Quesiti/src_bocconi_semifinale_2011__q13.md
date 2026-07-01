@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2011 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2011__Q13
 parent: src_bocconi_semifinale_2011
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2011
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo lato del cubo il cui sviluppo laterale sta in un quadrato di 120 cm.*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 34 cm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Top side of the cube whose lateral development is 120 cm square.*
+
+> Amerigo developed the lateral surface of a cube by leaning it on the plane, within a square of 120 cm by side (the development of the lateral surface of the cube is "a single piece" consisting of 6 squares). What is the maximum size of the side of Amerigo's cube? (Replace $1{,}414$ with $\sqrt{2}$ and round the result to the nearest cm).
+
+**Answer:** 34 cm
+[[src_bocconi_semifinale_2011__Q13]]

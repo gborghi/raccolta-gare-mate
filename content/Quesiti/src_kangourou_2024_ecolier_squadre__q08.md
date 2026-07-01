@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre__Q08
 parent: src_kangourou_2024_ecolier_squadre
 competition: Kangourou Squadre 2024 Ecolier Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti dall’ultima ora con stesse cifre permutate*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0962
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minutes from the last hour with the same figures exchanged< MSK1/>
+
+![[src_kangourou_2024_ecolier_squadre__prob8.png]]
+
+> Clock The clock of a waiting room indicates hours and minutes and is updated every minute. Now it's just updated and looks like the figure. How many minutes have passed since the last time the clock was updated and showed an hour of writing by changing only the position of the figures in the figure? The answer is 0962.
+
+**Answer:** 0962
+[[src_kangourou_2024_ecolier_squadre__Q08]]

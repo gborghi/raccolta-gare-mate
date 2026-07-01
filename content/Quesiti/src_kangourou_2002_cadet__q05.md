@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q05
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione ombreggiata del rettangolo*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shaded fraction of the rectangle*
+
+> Look at the figure. K, L, M, N are the mean points of the rectangle ABCD; similarly O, P, R, S are the mean points of the sides of the KLMN quadrilateral. What fraction of the area of the ABCD rectangle is shaded?
+>                                      
+> A. 5 3         B. 3 2     C. 6 5        D. 4 3          E. 7 5 .
+
+**Answer:** D
+[[src_kangourou_2002_cadet__Q05]]

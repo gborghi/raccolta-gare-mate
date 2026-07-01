@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo34yqa_yosen__Q05
 parent: src_jmo34yqa_yosen
 competition: Japan Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest integer n >= 10 with product of floor(n/k) equal to C(n,10)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2519
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BLiurO6ycVxBaRhIQ4VIeU3sYe6dethe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più piccolo numero intero n >= 10 con prodotto del piano n/k) uguale a C(n,10) *
+
+> Trova il numero intero più piccolo $n \ge 10$ soddisfacente $$\left\lfloor \frac{n}{1} \right\rfloor \left\lfloor \frac{n}{2} \right\rfloor \cdots \left\lfloor \frac{n}{10} \right\rfloor = \binom{n}{10}.$$ Qui $[r]$ indica il numero intero più grande non superiore al numero reale $r$ (cioè $[3.14] = 3$, $[5] = 5$).
+
+**Risposta:** 2519
+[[src_jmo34yqa_yosen__Q05]]

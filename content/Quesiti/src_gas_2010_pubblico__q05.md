@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Gara del Pubblico — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_pubblico__Q05
 parent: src_gas_2010_pubblico
 competition: Gara a Squadre 2010 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima cardinalita insieme chiuso per (m+n)/MCD(m,n)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0001
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum combined cardinality closed for (m+n)/MCD(m,n)*
+
+> The Survivors [25] After the battle Jack asks Master Gibbs, "How many men are left, apart from us two?" The answer is true π-rate: The number, Captain Disparrow, is the maximum cardinality of a finite subset A of positive integers, such that if m and n are in A, then m+n MCD(m,n) is in A. Jack rejoices, but how many would be?
+
+**Answer:** 0001
+[[src_gas_2010_pubblico__Q05]]

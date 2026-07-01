@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q01
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punti non visibili su due dadi*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 29
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Non-visible points on two dice*
+
+> On the faces of a dice, the points corresponding to the natural numbers 1 to 6 appear. The faces shown in the figure show a total of 13 points. < MSK0/>How many dots are not visible? < MSK1/>
+
+![[src_bocconi_primavera_2008__Q01.png]]
+
+**Answer:** 29
+[[src_bocconi_primavera_2008__Q01]]

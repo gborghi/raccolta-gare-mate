@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q30
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nella cella centrale della griglia 3x3 con prodotti*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the centre cell of the 3x3 grid with products*
+
+> In each cell of a 3x3 grid a positive number has been inserted so that O for each row and for each column, the product of the numbers contained (in the row or column) is 1 and O for each 2x2 square grid obtained by adjoining cells of the 3x3 grid, the product of the numbers contained in the grid is 2. What number is in the central cell? A) 16 B) 8 C) 4 D) 1/4 E) 1/8
+> 
+> The Commission has not yet taken any further action.
+
+**Answer:** A
+[[src_kangourou_2012_cadet__Q30]]

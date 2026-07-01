@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q18
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di x con rettangoli di aree P=2Q*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of x with rectangles of areas P=2Q*
+
+![[src_kangourou_2021_cadet__prob18.png]]
+
+> A rectangular strip of paper whose sides measure 4 and 13 is folded as shown in the drawing: two rectangles of areas P and Q are formed, with P = 2Q. How much is x? A) 5
+> 	
+> B) 5,5
+> 	
+> C) 6
+> 	
+> D) 6,5 E) 4√2
+
+**Answer:** C
+[[src_kangourou_2021_cadet__Q18]]

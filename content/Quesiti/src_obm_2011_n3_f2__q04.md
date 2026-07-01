@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f2__Q04
 parent: src_obm_2011_n3_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest possible gcd of two distinct numbers in {1,...,2011}*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gcd più piccolo possibile di due numeri distinti in {1,...,2011}*
+
+> Qual è il più grande valore possibile del più grande divisore comune di due numeri distinti appartenenti all'insieme $\{1, 2, 3, \ldots, 2011\}$?
+
+[[src_obm_2011_n3_f2__Q04]]

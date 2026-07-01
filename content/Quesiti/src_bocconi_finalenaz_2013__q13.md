@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2013 — Quesito
   13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2013__Q13
 parent: src_bocconi_finalenaz_2013
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2013
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero misterioso positivo minore di 2013 con tre condizioni*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1513
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Mysterious positive number less than 2013 with three conditions
+
+> A positive integer less than 2013 is such that: - if 7 is subtracted, the result is divisible by 6; - if 8 is subtracted, the result is divisible by 7; - if 9 is subtracted, the result is divisible by 8; - if 10 is subtracted, the result is divisible by 9.
+> 
+> What number is this?
+
+**Answer:** 1513
+[[src_bocconi_finalenaz_2013__Q13]]

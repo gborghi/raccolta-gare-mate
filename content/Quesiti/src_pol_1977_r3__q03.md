@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1977 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1977_r3__Q03
 parent: src_pol_1977_r3
 competition: Olimpiade Matematica Polacca 1977 — Round 3
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bit-complement function on binary integers; AP input gives non-increasing output*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ihJu65X9h_5nFSLWEBnWr2rsJ1UTiKwI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Funzione di complemento bit su numeri interi binari; input AP dà output non in aumento*
+
+> Considerate l'insieme $A = \{0, 1, 2, \ldots, 2^n - 1\}$. Una funzione $f: A \to A$ viene data da $$f(x_0 + 2x_1 + 2^2 x_2 + \cdots + 2^{n-1} x_{n-1}) = (1 - x_0) + 2(1 - x_1) + 2^2(1 - x_2) + \cdots + 2^{n-1}(1 - x_{n-1})$$ per ogni sequenza $0$-$1$ $(x_0, x_1, \ldots, x_{n-1})$. Mostrare che se $a_1, a_2, \ldots, a_m$ sono termini consecutivi di una progressione aritmetica, la sequenza $f(a_1), f(a_2), \ldots, f(a_m)$ non aumenta.
+
+[[src_pol_1977_r3__Q03]]

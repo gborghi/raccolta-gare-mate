@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale nazionale Student — Quesito S4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_finale_student__QS4
 parent: src_kangourou_2014_finale_student
 competition: Kangourou 2014 finale nazionale Student
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *per quanti n|m*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 336
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J0eVc0n4KMj_riY1S4VFaIQwejE9Ln6P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> for n quantities of m< MSK1/>
+
+> A natural number $n$ is broken down into $2014$ prime factors (not necessarily all distinct from each other). Each prime factor is added to $1$ and the new $2014$ numbers obtained are multiplied by each other, resulting in a $m$ number. Is it possible that for some natural number $n$, $n$ divides the number $m$ thus obtained? If the answer is no, provide an appropriate justification. If yes, specify for how many natural numbers $n$ $n$ divides $m$.
+
+**Answer:** 336
+[[src_kangourou_2014_finale_student__QS4]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_ecolier__Q18
 parent: src_kangourou_2001_ecolier
 competition: Kangourou 2001 - Ecolier (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Paia di scarpe rimaste dopo i millepiedi*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shoes remaining after the mile*
+
+![[src_kangourou_2001_ecolier__prob18.png]]
+
+> In the pet shoe supermarket, there are 12 pairs of shoes on each of the 10 shelves. The first customers at the store were 5,000 square feet. Three of them bought 30 pairs of shoes each; the other two only bought 5 pairs each. How many pairs of shoes are left on the shelves after the 5,000-foot visit?
+>
+> - **(A)** 10
+> - **(B)** 15
+> - **(C)** 20
+> - **(D)** 25
+> - **(E)** 30.
+
+**Answer:** C
+[[src_kangourou_2001_ecolier__Q18]]

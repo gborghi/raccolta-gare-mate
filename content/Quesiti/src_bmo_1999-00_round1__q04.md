@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1999-00 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1999-00_round1__Q04
 parent: src_bmo_1999-00_round1
 competition: British Mathematical Olympiad 1999-00 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Collatz-like sequence; find all k for which 2000 appears*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jXrypnD0VZ-T2J0x_R-FJ1Z-nveBfTYT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza simile a Collatz; trovare tutti i k per i quali appare 2000*
+
+> Per ogni numero intero positivo $n$ definire $a_n$ come segue: $a_1 = k$, e per $n \geq 1$ $$a_{n+1} = \begin{cases} \dfrac{a_n}{2} & \text{if } a_n \text{ is even,} \\ 3a_n + 1 & \text{if } a_n \text{ is odd.} \end{cases}$$ determinare tutti i valori di $k$ per i quali 2000 è un termine della sequenza $(a_n)_{n \geq 1}$.
+
+[[src_bmo_1999-00_round1__Q04]]

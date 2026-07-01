@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2016 — Selection Camp — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2016__Q06
 parent: src_selection_camp_2016
 competition: Japan IMO Selection Camp 2016 — Selection Camp
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum handshakes to guarantee infection of all 2015 people*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Minimum di strette di mano per garantire l'infezione di tutte le persone del 2015< MSK1/>
+
+> Ci sono persone $2015$. Inizialmente, esattamente la persona < MSK1/> è infetta dalla febbre IMO, ma non è noto chi sia. Quando due persone si stringono la mano, se uno di loro è infetto, l'altro diventa infetto. Qual è il numero minimo di strette di mano che deve verificarsi per garantire che tutte le persone < MSK2/> siano infette, indipendentemente da chi sia la persona infetta iniziale?
+
+[[src_selection_camp_2016__Q06]]

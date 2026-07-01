@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f2__Q05
 parent: src_obm_2001_n1_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *All positive integers less than 1000 with exactly three divisors*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4, 9, 25, 49, 121, 169, 289, 361, 529, 841, 961
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OU_kkwljknqnKJvISMf5e6JcgwurbdgC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tutti gli integri positivi inferiori a 1000 con esattamente tre divisori*
+
+> Elenca tutti gli enti positivi inferiori a 1000 che hanno esattamente tre divisori positivi. Ad esempio, il numero 4 ha esattamente tre divisori positivi: 1, 2 e 4.
+
+**Risposta:** 4, 9, 25, 49, 121, 169, 289, 361, 529, 841, 961
+[[src_obm_2001_n1_f2__Q05]]

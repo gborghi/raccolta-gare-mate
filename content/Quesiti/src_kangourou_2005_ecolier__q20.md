@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Ecolier (marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_ecolier__Q20
 parent: src_kangourou_2005_ecolier
 competition: Kangourou 2005 - Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro di ogni aiuola in giardino 24x28*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of each yard flooring 24x28*
+
+![[src_kangourou_2005_ecolier__prob20.png]]
+
+> The figure on the side shows a rectangular garden measuring 24 by 28 meters. The gardener has made six rectangular oak trees of identical size (colored in gray in the figure). What is the perimeter of each owl? A) 28 m               B) 30 m              C) 32 m D) 34 m               E) 36 m
+
+**Answer:** C
+[[src_kangourou_2005_ecolier__Q20]]

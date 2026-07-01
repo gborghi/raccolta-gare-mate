@@ -1,6 +1,7 @@
 ---
 title: Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2025_nazionale__Q03
 parent: src_cesenatico_2025_nazionale
 competition: Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Infinite coppie consecutive con stessa parita di p(n)*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1qB7eL3B9ur3wfVhNrlYiTjMkleeW6oDL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Infinite consecutive pairs with the same parity of p(n) *
+
+> Given a positive integer n, be pn the number of distinct primes dividing n. For example, p ((12) = 2 and p ((120) = 3. An integer n is said to be balanced if p(n) is even, and imbalanced if p(n) is odd. Demonstrate that there are infinite pairs of consecutive positive integers that are both balanced or both unbalanced.
+
+[[src_cesenatico_2025_nazionale__Q03]]

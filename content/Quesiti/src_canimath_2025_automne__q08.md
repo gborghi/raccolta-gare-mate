@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2025 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_automne__Q08
 parent: src_canimath_2025_automne
 competition: Coupe Animath Automne 2025
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate a nested product of radicals*
 
@@ -38,3 +41,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Evaluare un prodotto di radicali annidati< MSK1/>
+
+> Calcolare < MSK0/>
+> 
+> *Solo una risposta numerica è prevista qui.*
+
+[[src_canimath_2025_automne__Q08]]

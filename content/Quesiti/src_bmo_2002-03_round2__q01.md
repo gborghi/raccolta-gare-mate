@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2002-03 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2002-03_round2__Q01
 parent: src_bmo_2002-03_round2
 competition: British Mathematical Olympiad 2002-03 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest prime factor triples in arithmetic progression*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p1kiV15r8QgVBORXkDGsuMLqEddZbRnF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più piccolo fattore primo si triplica nella progressione aritmetica*
+
+> Per ogni numero intero $n > 1$, $p(n)$ indica il più grande fattore primo di $n$. Determinare tutti i triples $(x, y, z)$ di numeri interi positivi distinti che soddisfano: (i) $x, y, z$ sono in progressione aritmetica e (ii) $p(x), p(y), p(z)$ sono in progressione aritmetica.
+
+[[src_bmo_2002-03_round2__Q01]]

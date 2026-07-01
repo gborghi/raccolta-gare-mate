@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2002 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2002__Q05
 parent: src_rmo_2002
 competition: Regional Mathematical Olympiad 2002
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle divided by convex quadrilateral arcs; prove ABCD cyclic*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_m3GjaVBEfcL0ShA4FjgFrQjp3KoeJKA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo diviso da archi quadrilaterali convexi; prova ABCD ciclico*
+
+> La circonferenza di un cerchio è divisa in otto archi da un quadrilaterale convex $ABCD$, con quattro archi all'interno del quadrilaterale e i quattro rimanenti all'esterno. Le lunghezze degli archi all'interno del quadrilaterale sono indicate da $p, q, r, s$ in direzione contraria al senso dell'orologio partendo da un certo arco. Supponiamo $p + r = q + s$. Provare che $ABCD$ è un quadrilaterale ciclico.
+
+![[src_rmo_2002__Q05.png]]
+
+[[src_rmo_2002__Q05]]

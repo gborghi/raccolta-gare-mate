@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2007 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2007__Q01
 parent: src_bocconi_semifinale_2007
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2007
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di 4 cifre visto riflesso sulla tuta astronauta*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2965
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Number of four digits as reflected on the astronaut suit
+
+> This night, Luca dreamed of being an astronaut. On his space suit was a four-digit number. Standing in front of the spacecraft's metal laptop, Luke saw the number printed on his suit reflected.
+> 
+> What number is this?
+
+![[src_bocconi_semifinale_2007__Q01.png]]
+
+**Answer:** 2965
+[[src_bocconi_semifinale_2007__Q01]]

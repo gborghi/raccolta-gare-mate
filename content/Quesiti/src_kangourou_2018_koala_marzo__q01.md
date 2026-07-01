@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q01
 parent: src_kangourou_2018_koala_marzo
 competition: Kangourou 2018 Gioco Koala (Marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Disegno coi colori scambiati (giallo/nero)*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AGwjurQUucDfrq-UuV0KeOG7NZtWOZs2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Design with the colours exchanged (yellow/black) *
+
+![[src_kangourou_2018_koala_marzo__prob1.png]]
+
+> Luke drew a drawing (see figure). What drawing would you see if Luke had changed colors, that is, if he had painted yellow what is black in the first drawing and vice versa?
+
+**Answer:** E
+[[src_kangourou_2018_koala_marzo__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2012 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2012_printemps__Q04
 parent: src_canimath_2012_printemps
 competition: Coupe Animath Printemps 2012
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Who is right about the 'additivity of fractions' identity a/b+c/d=(a+c)/(b+d)*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IRG0jZR48d6q9a8ZHA4_SCuVSjBVAbwt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Chi ha ragione sull'identità di "additività delle frazioni" a/b+c/d=(a+c)/(b+d) *
+
+> Lasciate che $b$ e $d$ siano numeri reali non zero in modo tale che $b+d$ sia anche non zero. Mathias sostiene che l'identità $\dfrac{a}{b}+\dfrac{c}{d}=\dfrac{a+c}{b+d}$ è vera per tutti i numeri reali $a$ e $c$: lo chiama "l'addizione delle frazioni". Mathilde ritiene che questa additività di frazioni sia corretta se e solo se esiste un numero reale $m$ tale che $a=mb^2$ e $c=-md^2$. Il loro professore ricorda che si possono aggiungere frazioni come propone Mathias se e solo se hanno lo stesso denominatore, cioè $b=d$. Un ispettore sostiene che questa "addizione di frazioni" è sempre falsa. Chi ha ragione: Mathias, Mathilde, il professore, l'ispettore, o nessuno dei quattro? Giustifica la tua risposta attentamente.
+
+[[src_canimath_2012_printemps__Q04]]

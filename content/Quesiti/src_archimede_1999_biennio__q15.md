@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1999 - Biennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_biennio__Q15
 parent: src_archimede_1999_biennio
 competition: Giochi di Archimede 1999 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore a+b+c in un quadrato magico*
 
@@ -47,3 +50,22 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value a+b+c in a magic square*
+
+![[src_archimede_1999_biennio__prob15.png]]
+
+> In a magic square, the sum of the numbers of each row, each column, and the two diagonals is constant. In the magic square next to it, how much is a + b + c?
+>
+> - **(A)** 20
+> - **(B)** 22
+> - **(C)** 26
+> - **(D)** 44
+> - **(E)** 48. 16 2 a c 10 d b e 4
+
+**Answer:** C
+[[src_archimede_1999_biennio__Q15]]

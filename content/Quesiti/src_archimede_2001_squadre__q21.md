@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_squadre__Q21
 parent: src_archimede_2001_squadre
 competition: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *conto quintuplicato in 20 anni, ultime 4 cifre dopo 40020*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3125
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BmICgzhXXszLqAUxg8mhu_z1YXo7y9a6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*count fivefold in 20 years, the last 4 digits after 40020*
+
+> < MSK0/>Generous banks< MSK1/> (25 points)
+> 
+> The Imese economy is subject to a strong devaluation and therefore interest rates are very high. In particular, at current rates of the BCIs after 20 years, the amount of a current account account is multiplied by five. Assuming that Ocnarf deposits a shield today and the rates remain the same, what will be the last four digits of the statement that Ocnarf's heirs will be able to read in 40020 years?
+
+**Answer:** 3125
+[[src_archimede_2001_squadre__Q21]]

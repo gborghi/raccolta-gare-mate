@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2010 squadre finale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2010_squadre_finale__Q06
 parent: src_kangourou_2010_squadre_finale
 competition: Kangourou 2010 squadre finale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume del cubottaedro da cubo di lato 6*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 180
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Volume of the side cube 6 < MSK1/>
+
+![[src_kangourou_2010_squadre_finale__prob6.png]]
+
+> We have a six-centimeter cube on the side. Fixed a vertex, let's consider the plane that passes through the midpoints of each of the three opposing vertices: this plane divides the cube into two solids, one of which is a pyramid with a vertex in that vertex. For each vertex of the cube, we eliminate the pyramid obtained this way: it remains a solid convex with faces that are squares or triangles (called a cubehedron). How many cubic centimeters does its volume measure?
+
+**Answer:** 180
+[[src_kangourou_2010_squadre_finale__Q06]]

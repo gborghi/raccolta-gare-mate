@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q19
 parent: src_kangourou_2019_junior_marzo
 competition: Kangourou 2019 Gara marzo Junior (biennio)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di scatole con mele uguali e pere distinte*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of boxes with identical apples and separate pears
+
+> Some boxes contain apples and pears: the number of apples is the same for all boxes, while there are no two boxes that contain the same number of pears. Apples are 60 and pears are 60. How many can the boxes be at most? A) 20
+> 	
+> B) 15
+> 	
+> C) 12
+> 	
+> D) 10
+> 	
+> E) 6
+
+**Answer:** D
+[[src_kangourou_2019_junior_marzo__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_biennio_rec__Q03
 parent: src_archimede_2024_biennio_rec
 competition: Giochi di Archimede 2024 - Gara Biennio (riserva)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo D in quadrilatero con relazioni tra lati*
 
@@ -50,3 +53,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular angle D with relations between the sides*
+
+![[src_archimede_2024_biennio_rec__prob3.png]]
+
+> In the convex quadrilateral ABCD, the amplitudes of the interior angles bA = 70° and bB = 109° are known. There is also a point E on the DA side such that AB = AE, BC = BE, EC = ED. What is the width of the angle bD ? A E B C D
+>
+> - **(A)** 61°
+> - **(B)** 60°
+> - **(C)** 59°
+> - **(D)** 62°
+> - **(E)** 58°
+
+[[src_archimede_2024_biennio_rec__Q03]]

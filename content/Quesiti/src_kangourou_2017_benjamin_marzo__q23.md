@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (gara marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q23
 parent: src_kangourou_2017_benjamin_marzo
 competition: Kangourou 2017 Benjamin (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Immagine del canguro nel triangolo grigio per simmetrie*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Image of the kangaroo in the grey triangle by symmetry*
+
+![[src_kangourou_2017_benjamin_marzo__prob23.png]]
+
+> In the first left triangle a kangaroo was drawn. The kangaroo in the second triangle is the first's symmetry to the common side of the first and second triangles. The kangaroo in the third triangle is symmetrical to the second relative to the side common to the second and third triangles. If the same is done, which of the two sections is the image shown in the grey triangle? A) B) C) D) E)
+
+**Answer:** E
+[[src_kangourou_2017_benjamin_marzo__Q23]]

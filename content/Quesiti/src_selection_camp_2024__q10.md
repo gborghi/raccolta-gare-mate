@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2024 — Selection Camp — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2024__Q10
 parent: src_selection_camp_2024
 competition: Japan IMO Selection Camp 2024 — Selection Camp
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of increasing sequence with divisibility and prime-divisor density*
 
@@ -51,3 +54,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PL_Bn-4WncGMxFABFvS--QrLAcF9eVC7/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di sequenza in aumento con divisibilità e densità di primo divisore*
+
+> Lasciate che $a_1, a_2, \ldots$ siano numeri interi positivi. Determinare se esiste una sequenza che soddisfa entrambe le seguenti condizioni: \begin{itemize} \item Per ogni intero positivo $k$, $a_k < a_{k+1}$, e $a_{k+1}$ divide $2(a_1 + a_2 + \cdots + a_k)$. \item Esiste un primo $p$ tale che infinitamente molti dei termini $a_1, a_2, \ldots$ sono divisibili da $p$. \end{itemize} Determinare l'esistenza di tale sequenza $a_1, a_2, \ldots$.
+
+[[src_selection_camp_2024__Q10]]

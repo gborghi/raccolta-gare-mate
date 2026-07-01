@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2023 - Gara Biennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_biennio__Q08
 parent: src_archimede_2023_biennio
 competition: Giochi di Archimede 2023 - Gara Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazioni della striscia con multipli di 3 blu*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cdaCakhnUhZtz4LlgOmVvJJRpalObqKb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Trip colours with multiples of 3 blue< MSK1/>
+
+> Martina has a square strip of paper, with side squares of 1 centimeter, length 2023 cm. He wants to mark every inch height, from 0 to 2023, with one of his three colored pinheads (red, yellow and blue). It'll make sure that the multiples of 3, including 0, are all marked in blue and that there are no nearby tiles of the same color. How many different ways will Martina be able to achieve the coloring?
+>
+> - **(A)** 21349
+> - **(B)** 32023
+> - **(C)** 2675
+> - **(D)** 32024
+> - **(E)** 2674
+
+**Answer:** C
+[[src_archimede_2023_biennio__Q08]]

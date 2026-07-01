@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Ecolier — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier__Q05
 parent: src_kangourou_2014_ecolier
 competition: Kangourou 2014 marzo Ecolier
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale forma unendo i punti delle risposte 0-5*
 
@@ -59,3 +62,14 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What shape by joining the points of the answers 0-5*
+
+> Adam has less candy than Martino, but more than Susanna. Lucia has more candy than both Adam and Martin. Diana has more candy than Adam, but less than Lucia. Which one of them has more candy than the others? (A) Martin B) Adam C) Susanna D) Diana E) Lucia A) B) C) D) E) 2  2 8  6 13  9 6  5 11  8 17  12 A) B) C) D) E)
+>
+
+[[src_kangourou_2014_ecolier__Q05]]

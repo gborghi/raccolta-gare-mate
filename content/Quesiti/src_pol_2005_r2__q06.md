@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2005 — Round 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2005_r2__Q06
 parent: src_pol_2005_r2
 competition: Olimpiade Matematica Polacca 2005 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For real a,b,c in [0,1], prove a/(bc+1)+b/(ca+1)+c/(ab+1) <= 2.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1TdHFWiGU9cO5g7t9suf-adbCUDeE_k7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per la vera a,b,c in [0,1], provare a/(bc+1)+b/(ca+1)+c/(ab+1) <= 2.*
+
+> Prova che se i numeri reali $a, b, c$ si trovano nell'intervallo $[0,1]$, allora $$\frac{a}{bc+1} + \frac{b}{ca+1} + \frac{c}{ab+1} \le 2.$$
+
+[[src_pol_2005_r2__Q06]]

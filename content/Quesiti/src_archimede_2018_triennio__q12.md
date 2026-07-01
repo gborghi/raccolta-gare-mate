@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Triennio (T1) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_triennio__Q12
 parent: src_archimede_2018_triennio
 competition: Giochi di Archimede 2018 - Triennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Divisore certo di un numero di due cifre ripetuto tre volte*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Certain divider of a two-digit number repeated three times*
+
+> Anna rewrote a two-digit integer three times in a row, thus obtaining a six-digit S number. The number S is definitely divisible by...
+>
+> - **(A)** 1111
+> - **(B)** 101
+> - **(C)** 11
+> - **(D)** 111
+> - **(E)** 1001
+
+**Answer:** D
+[[src_archimede_2018_triennio__Q12]]

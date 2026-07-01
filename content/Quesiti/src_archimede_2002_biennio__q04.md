@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2002 - Biennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_biennio__Q04
 parent: src_archimede_2002_biennio
 competition: Giochi di Archimede 2002 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto perimetro figura ad archi su perimetro quadrato*
 
@@ -58,3 +61,34 @@ tags:
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter report is shown in arcs on square perimeter*
+
+![[src_archimede_2002_biennio__prob4.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \fill[gray!60] (2,0) arc (0:90:2) arc (270:360:2) arc (180:270:2) arc (90:180:2) -- cycle;
+  \draw[thick] (0,0) rectangle (4,4);
+  \draw[thick] (2,0) arc (0:90:2);
+  \draw[thick] (4,2) arc (90:180:2);
+  \draw[thick] (2,4) arc (180:270:2);
+  \draw[thick] (0,2) arc (270:360:2);
+\end{tikzpicture}
+\end{document}
+```
+
+> In the side-square, the arcs are all quarter circles and have, two by two, the extremes in common. The ratio of the perimeter of the grey figure to the perimeter of the square
+>
+> - **(A)** è 1 4
+> - **(B)** è 1 π
+> - **(C)** è π 4
+> - **(D)** è 1 2
+> - **(E)** cannot be determined by the information given.
+
+[[src_archimede_2002_biennio__Q04]]

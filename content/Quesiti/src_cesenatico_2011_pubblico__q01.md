@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q01
 parent: src_cesenatico_2011_pubblico
 competition: Gara a Squadre Cesenatico 2011 - Gara del pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita somma 9 dadi <= 31*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability sum of 9 dice <= 31< MSK1/>
+
+> Concerto in D minor [15] The bardo Assuranceturing, as he cannot sing in public without ending up tied up like a salami, is locked in his hut to play dice. If he throws 9 Roman dice (common dice with 6 faces numbered 1 to 6), what is the probability that the sum of the outcome values is less than or equal to 31? As a response, provide the first four digits after the comma.
+
+**Answer:** 5000
+[[src_cesenatico_2011_pubblico__Q01]]

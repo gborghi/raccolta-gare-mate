@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_semifinale_b__Q08
 parent: src_cesenatico_2013_semifinale_b
 competition: Gara a Squadre Cesenatico 2013 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita somma 2 carte >=14 (mazzo)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0377
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability sum of 2 cards >=14 (scorched) < MSK1/>
+
+> Oysters' shovel The Triseco and the Cartantiere have collected many oysters; they would like to have them in a row by 2, but their number is not divisible by 2. Disappointed, they reluctantly decide to eat two. They try to line up the remaining ones by 3, but their number is not divisible by 3, so they eat 3. They go on like this, every time they eat n because the number of leftovers is not divisible by n. When Root meets them, they're in tears: they're now lined up for 71, and they're not done yet! How many oysters were there at least at the beginning of the feast?
+
+**Answer:** 0377
+[[src_cesenatico_2013_semifinale_b__Q08]]

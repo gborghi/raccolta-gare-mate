@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q11
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of x^2+6xy+y^2 given x+y=8 and xy=15*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta di x^2+6xy+y^2 data x+y=8 e xy=15*
+
+> Se $x + y = 8$ e $xy = 15$, qual è il valore di $x^2 + 6xy + y^2$?
+> 
+> **A)** $64$ $\quad$ **B)** $109$ $\quad$ **C)** $120$ $\quad$ **D)** $124$ $\quad$ **E)** $154$
+
+**Risposta:** D
+[[src_obm_2004_n2_f1__Q11]]

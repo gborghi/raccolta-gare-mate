@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2022 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2022__Q08
 parent: src_smc_2022
 competition: Senior Mathematical Challenge 2022
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular outer hexagon of area 216 with an inner pattern; find the area of the shaded region.*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sessangolo esterno regolare della zona 216 con un modello interno; trovare la superficie della regione ombreggiata.*
+
+> Nel diagramma, l'esogono esterno è regolare e ha un'area di 216. Qual è l'area dell'area ombrosa?
+>
+> - **(A)** 108
+> - **(B)** 96
+> - **(C)** 90
+> - **(D)** 84
+> - **(E)** 72
+
+![[src_smc_2022__Q08.png]]
+
+**Risposta:** E
+[[src_smc_2022__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2008 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2008_r3__Q02
 parent: src_pol_2008_r3
 competition: Olimpiade Matematica Polacca 2008 — Round 3
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A symmetric three-variable functional equation summing cyclically over five variables to their sum; prove the analogous cyclic identity for any n>=5 reals.*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fNP5XBamldvAMai-xDjSDLVp0ag-433Q/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un'equazione funzionale simmetrica a tre variabili che somma ciclicamente oltre cinque variabili alla loro somma; dimostrare l'identità ciclica analoga per qualsiasi n>=5 reali.*
+
+> Una funzione $f$ in tre variabili reali soddisfa per qualsiasi $a, b, c, d, e$ l'uguaglianza $$f(a,b,c) + f(b,c,d) + f(c,d,e) + f(d,e,a) + f(e,a,b) = a + b + c + d + e.$$ Prove che per qualsiasi numero reale $x_1, \ldots, x_n$ ($n \ge 5$) si ritiene che $$f(x_1,x_2,x_3) + f(x_2,x_3,x_4) + \cdots + f(x_n,x_1,x_2) = x_1 + x_2 + \cdots + x_n.$$
+
+[[src_pol_2008_r3__Q02]]

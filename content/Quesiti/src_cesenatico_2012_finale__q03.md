@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_finale__Q03
 parent: src_cesenatico_2012_finale
 competition: Gara a Squadre Cesenatico 2012 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coeff b di p(x)=x^3+ax^2+bx-2012 con radici intere*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2016
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Coef b of p(x)=x^3+ax^2+bx-2012 with whole roots*
+
+> What's the distance between this question and the first question with answer 4?
+
+**Answer:** 2016
+[[src_cesenatico_2012_finale__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_2livello__Q15
 parent: src_archimede_2007_2livello
 competition: Archimede Gara 2° livello 2007 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Salti di Lorenza sul poligono 2007 lati per superare vertice 1*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 405
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lorence leaps on the 2007 polygon side to overcome summit 1*
+
+> Lorenza is located on a track shaped like a regular polygon with 2007 sides, the vertices of which are numbered from 1 to 2007 clockwise. Lorenza, starting from peak 6, jumps 4 vertices each time and falls on the fifth further forward (e.g., from 20 to 25), but jumps back 2 vertices when it falls on a peak identified by a power of 2 (e.g., after a possible jump from 27 to 32, it must jump back to 30). After how many jumps will Lorenza have crossed summit 1 for the first time?
+
+**Answer:** 405
+[[src_archimede_2007_2livello__Q15]]

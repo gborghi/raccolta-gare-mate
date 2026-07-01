@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2013 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2013__Q04
 parent: src_cn_cmo_2013
 competition: China Mathematical Olympiad 2013
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum total size of n sets with symmetric-difference condition*
 
@@ -44,3 +47,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la dimensione totale minima di n set con condizione di differenza simmetrica*
+
+> Dato un intero $n \geq 2$, supponiamo che $A_1, A_2, \ldots, A_n$ siano $n$ insieme finiti non vuoti che soddisfano $|A_i \Delta A_j| = |i - j|$ per tutti $i, j \in \{1, 2, \ldots, n\}$.
+> 
+> Trova il valore minimo di $|A_1| + |A_2| + \cdots + |A_n|$.
+> 
+> (Qui $|X|$ indica il numero di elementi di un insieme finito $X$ e $X \Delta Y = \{a \mid a \in X,\, a \notin Y\} \cup \{a \mid a \in Y,\, a \notin X\}$ per qualsiasi insieme $X$ e $Y$.)
+
+[[src_cn_cmo_2013__Q04]]

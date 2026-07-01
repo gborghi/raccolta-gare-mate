@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2007-08 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2007-08_round1__Q05
 parent: src_bmo_2007-08_round1
 competition: British Mathematical Olympiad 2007-08 — Round 1
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Interior point of triangle; prove a sine-ratio equality*
 
@@ -48,3 +51,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RB1RkGzKd2r9NM4xaNaiRaoP15anlQ-K/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto interno del triangolo; dimostrare un'uguaglianza sinusoide*
+
+> $P$ sia un punto interno del triangolo $ABC$ e $\alpha$, $\beta$, $\gamma$ siano definiti da $$\alpha = \angle BPC - \angle BAC,$$ $$\beta = \angle CPA - \angle CBA,$$ $$\gamma = \angle APB - \angle ACB.$$ Dimostra che $$PA \cdot \frac{\sin \angle BAC}{\sin \alpha} = PB \cdot \frac{\sin \angle CBA}{\sin \beta} = PC \cdot \frac{\sin \angle ACB}{\sin \gamma}.$$
+
+[[src_bmo_2007-08_round1__Q05]]

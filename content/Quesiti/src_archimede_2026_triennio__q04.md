@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Triennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_triennio__Q04
 parent: src_archimede_2026_triennio
 competition: Giochi di Archimede 2026 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza CQ dato un quadrato e aree di poligoni*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*CQ length given a square and polygon areas*
+
+> Giulia has a bag of 17 mint candies, which she wants to share with three friends and her cousin Claudia. Each of them, including Julia herself, must receive at least one candy; in addition, in order not to cause any misunderstandings, Julia's three friends must receive the same number of candy. How many ways will Julia be able to make the cut?
+>
+> - **(A)** 33
+> - **(B)** 36
+> - **(C)** 32
+> - **(D)** 30
+> - **(E)** 35
+
+**Answer:** B
+[[src_archimede_2026_triennio__Q04]]

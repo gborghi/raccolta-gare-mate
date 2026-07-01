@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q05
 parent: src_kangourou_2019_benjamin_marzo
 competition: Kangourou 2019 Gara di Marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti modi scegliere un quadrato 2x2 nella figura*
 
@@ -45,3 +48,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mCVu8mcZWozh4A9IixxiUAmKQbLsElwm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many ways to choose a 2x2 square in the figure*
+
+![[src_kangourou_2019_benjamin_marzo__prob5.png]]
+
+> You want to choose a square 2 x 2 like this from the ones that appear in the figure on the left. How many different ways can you do that? A) 5 B) 6	      C) 7	      D) 8	      E) 9
+>
+
+**Answer:** D
+[[src_kangourou_2019_benjamin_marzo__Q05]]

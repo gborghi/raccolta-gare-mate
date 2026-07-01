@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2009__Q05
 parent: src_bocconi_squadre_2009
 competition: Gara a Squadre 2009
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di tre cifre il cui rapporto con la somma delle cifre è 10*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 109, 119, 129, 139, 149, 159, 169, 179, 189, 199
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three-digit numbers whose ratio to the sum of the digits is 10*
+
+> If you divide a three-digit number by the sum of its digits, the result is 10 \ldots with some remainder. What number are you talking about? (At least one of them is easy to find. The problem is finding all of them.)
+
+**Answer:** 109, 119, 129, 139, 149, 159, 169, 179, 189, 199
+[[src_bocconi_squadre_2009__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q05
 parent: src_kangourou_2019_squadre_semifinale_a
 competition: Kangourou Coppa squadre 2019 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lati di celle con almeno un punto interno 25x30*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 1445
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lats of cells with at least an internal point of 25x30*
+
+> At least one inner point In a grid of 25 square cells, how many sides of cells have at least one inner point in the grid?
+
+**Answer:** 1445
+[[src_kangourou_2019_squadre_semifinale_a__Q05]]

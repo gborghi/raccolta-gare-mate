@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2007 - Gara Biennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_biennio__Q18
 parent: src_archimede_2007_biennio
 competition: Giochi di Archimede 2007 - Gara Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area quadrato ABCD da quadrato e rombo bianchi*
 
@@ -43,7 +46,7 @@ tags:
 > - **(B)** 24 m2,
 > - **(C)** 25 m2,
 > - **(D)** 32 m2,
-> - **(E)** 36 m2. A B C D
+> - **(E)** 36 m2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -51,3 +54,22 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A square area ABCD from square and white rhombus*
+
+![[src_archimede_2007_biennio__prob18.png]]
+
+> With four rectangular triangles identical to the figure on the left the area of the white square is 17 m2. Instead, by arranging them as in the figure to the right, the area of the white rhombus is 8 m2. How much is the area of the square ABCD?
+>
+> - **(A)** 19 m2,
+> - **(B)** 24 m2,
+> - **(C)** 25 m2,
+> - **(D)** 32 m2,
+> - **(E)** 36 m2.
+
+**Answer:** C
+[[src_archimede_2007_biennio__Q18]]

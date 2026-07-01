@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f2__Q07
 parent: src_obm_2010_n1_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of gray square in 4th and 5th figures in a sequence of five 27cm squares*
 
@@ -54,3 +57,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di quadrato grigio nelle figure 4 e 5 in una sequenza di cinque quadrati di 27 cm*
+
+> Usando cinque quadrati con lato $27\,\text{cm}$, formiamo una sequenza di figure, le prime quattro delle quali sono:
+> 
+> (Vedi la figura a pagina 2 per vedere il modello dei quadrati grigi nidificati.)
+> 
+> a) Nella figura $4$, quale è l'area del quadrato grigio?
+> 
+> b) Nella figura $5$, quale è l'area del quadrato grigio?
+
+![[src_obm_2010_n1_f2__Q07.png]]
+
+[[src_obm_2010_n1_f2__Q07]]

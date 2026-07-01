@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Cesenatico 1997 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_1997__Q05
 parent: src_cesenatico_1997
 competition: Gara Nazionale Cesenatico 1997
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo MCD d_n permutando cifre di n*
 
@@ -43,3 +46,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gAfFy7kRpmbdkAKC-cVZKQZi9nJPgz2s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum MCD d_n by converting digits of n*
+
+> Whether $X$ is the set of natural numbers or based on ten is not written with a single number repeated several times. For each $n \in X$ we define $A_n$ as the set of numbers obtained by permuting in all possible ways the digits of $n$ and $d_n$ being the maximum common divisor of all numbers of $A_n$. For example, if $n = 1230$,
+> 
+> $$A_{1230} = \{1230,\, 1203,\, 1320,\, 1302,\, 1023,\, 1032,\, 2130,\, 2103,\, 2310,\, 2301,\, 2013,\, 2031,\ldots\}$$
+> 
+> and $d_{1230} = 3$ ($1$ and $3$ are first among them).
+> 
+> The maximum possible value of $d_n$ shall be determined.
+
+[[src_cesenatico_1997__Q05]]

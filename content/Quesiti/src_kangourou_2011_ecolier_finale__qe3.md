@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Finale Ecolier (Mirabilandia) — Quesito E3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier_finale__QE3
 parent: src_kangourou_2011_ecolier_finale
 competition: Kangourou 2011 Finale Ecolier (Mirabilandia)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero al posto di x perche somma agli estremi costante*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_PB03afvO4l0fSH5c-T6VZlHwPWDnEt1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number instead of x because it adds up to the constant extremes*
+
+> Next to each $\bullet$ point in the figure a number must be written so that the sum of the numbers written at the ends of each segment is always the same regardless of the segment. Two numbers have already been written. What number should be written instead of $x$ and why? (see figure)
+
+**Answer:** 1
+[[src_kangourou_2011_ecolier_finale__QE3]]

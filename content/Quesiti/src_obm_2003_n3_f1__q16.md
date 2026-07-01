@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q16
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find area of triangle BFG inside square ABCD with equilateral triangle BEF of side 1*
 
@@ -55,3 +58,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'area del triangolo BFG all'interno del quadrato ABCD con triangolo equilaterale BEF del lato 1*
+
+> La figura seguente mostra un quadrato $ABCD$ e un triangolo equilaterale $BEF$, entrambi con lunghezza laterale $1\,\text{cm}$. I punti $A$, $B$, $E$ sono collineari, così come i punti $A$, $G$, $F$.
+> 
+> L'area del triangolo $BFG$, in $\text{cm}^2$, è:
+> 
+> A) $\dfrac{1}{4}$ \quad B) $\dfrac{1}{4}$ \quad C) $\dfrac{\sqrt{3}}{4}$ \quad D) $\dfrac{\sqrt{3}}{12}$ \quad E) $\dfrac{3}{10}$
+
+![[src_obm_2003_n3_f1__Q16.png]]
+
+**Risposta:** D
+[[src_obm_2003_n3_f1__Q16]]

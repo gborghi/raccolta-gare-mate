@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2013 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2013__Q09
 parent: src_bocconi_autunno_2013
 competition: Giochi d'Autunno 2013
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte la sveglia mostra quattro cifre consecutive?*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 30
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many times does the alarm clock display four consecutive digits? < MSK1/>
+
+> When Angelo wakes you can read, illuminate, every hour and minute of the day. At certain times, such as at 02h and 31 minutes or 21h and 34 minutes, four consecutive digits appear on the alarm screen: in the first of the two preceding examples, the digits $0$-$1$-$2$-$3$; in the second, the digits $1$-$2$-$3$-$4$.
+> 
+> How many times in a day (from 00h and 00 minutes to 23h and 59 minutes) does Angelo's wake up display four consecutive digits?
+
+**Answer:** 30
+[[src_bocconi_autunno_2013__Q09]]

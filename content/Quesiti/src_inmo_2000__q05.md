@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2000 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2000__Q05
 parent: src_inmo_2000
 competition: Indian National Mathematical Olympiad 2000
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cubic root with 1≤a≤b≤c≥0: |λ|≤1*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19gclPYoes6dSVvxjkTBtcJvWFswaMdDg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rota cubica con 1 ≤a ≤b ≤c ≥0: 0: 0
+
+> $a, b, c$ siano tre numeri reali come $1 \le a \le b \le c \ge 0$. Prove che se $\lambda$ è una radice dell'equazione cubica $x^3 + ax^2 + bx + c = 0$ (reale o complessa), allora $|\lambda| \le 1$.
+
+[[src_inmo_2000__Q05]]

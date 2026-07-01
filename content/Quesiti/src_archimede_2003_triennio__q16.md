@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2003 - Triennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_triennio__Q16
 parent: src_archimede_2003_triennio
 competition: Giochi di Archimede 2003 - Triennio
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *dimostrare condizioni geometriche*
 
@@ -41,3 +44,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*to demonstrate the geometric conditions*
+
+> Determine the polygon area obtained as a union of two squares both having sides of length 1, having the same centre and rotating < MSK0/> with respect to each other.
+>
+> - **(A)** 4 −2 √ 2
+> - **(B)** 9 8
+> - **(C)** 2 − √ 3 2
+> - **(D)** 5 4
+> - **(E)** The previous answers are wrong.
+
+[[src_archimede_2003_triennio__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q28
 parent: src_kangourou_2020_student_marzo
 competition: Kangourou 2020 Student - gara marzo (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spigolo del cubo dato il 90% sommerso e parti visibili*
 
@@ -54,3 +57,17 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Spin of the cube given 90% submerged and visible parts*
+
+> An iceberg is shaped like a cube. The volume of the part that remains hidden beneath the surface of the water is exactly 90% of the volume of the iceberg. Above the surface of the water only three spikes are partially visible, the visible parts of which measure 24 m, 25 m and 27 m. How long is the cube's tail? A) 30 B) 33
+> 	
+> C) 34 D) 35 E) 39 7----- 10 3----- 5 √2 ----- 2
+>
+
+**Answer:** A
+[[src_kangourou_2020_student_marzo__Q28]]

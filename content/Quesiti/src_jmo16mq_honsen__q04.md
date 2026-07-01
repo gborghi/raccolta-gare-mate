@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2006 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo16mq_honsen__Q04
 parent: src_jmo16mq_honsen
 competition: Japan Mathematical Olympiad 2006 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count lattice path crossing configurations; find all valid tuples*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bl8cg_2YQ8omBOceEpKIPRLxJoCe7Zlw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le configurazioni di incrocio del percorso della rete; trovare tutti i tupli validi*
+
+> Lasciate che gli integri $m, n$ soddisfino $2 \le m \le n$. Considerate una griglia di strade $m \times n$: ci sono $m$ strade orizzontali che vanno da est a ovest e $n$ strade verticali che vanno da nord a sud. Un sentiero è un percorso che percorre solo l'est lungo strade orizzontali. La griglia ha una regione rettangolare. Diciamo che una coppia $(a, a')$ con $a \neq a'$ e una coppia $(b, b')$ con $b \neq b'$ soddisfano la condizione se: a partire dall'estremità occidentale della strada orizzontale $a$ (resp.\ $a'$), tra tutte le intersezioni nord/sud, i punti di attraversamento del percorso da strada $a$ e dal percorso da strada $a'$ con strade nord/sud $b$ e $b'$ (respectivamente) sono tali che, contando dall'inizio (compreso l'inizio) alla fine, ogni punto di attraversamento viene visitato esattamente una volta. Trova tutti i tuppi $(m, n, a, b, a', b')$ di numeri interi positivi che soddisfano questa condizione.
+
+[[src_jmo16mq_honsen__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2015 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2015__Q16
 parent: src_bocconi_autunno_2015
 competition: Giochi d'Autunno 2015
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del rettangolo formato da vertici di quadrati*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $400$ $\text{cm}^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eK88JMTv896JXMMmFL1S8lYcD_i95Nzi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the rectangle formed by square vertices*
+
+> The rectangle. In the square of the figure two vertices with two sides of the data have been reached. Then, by tracing the perpendiculars, we built the dark rectangle. How much is its area worth, knowing that that of the square is worth $1000$ $\text{cm}^2$?
+
+![[src_bocconi_autunno_2015__Q16.png]]
+
+**Answer:** $400$ $\text{cm}^2$
+[[src_bocconi_autunno_2015__Q16]]

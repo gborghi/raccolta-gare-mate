@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Triennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_triennio__Q12
 parent: src_archimede_1997_triennio
 competition: Giochi di Archimede 1997 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area di una figura tratteggiata fra circonferenze*
 
@@ -44,3 +47,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of a figure drawn between circles*
+
+![[src_archimede_1997_triennio__prob12.png]]
+
+> Determine the area of the drawn figure, knowing that each circumference has a radius of 1 cm.
+>
+> - **(A)** π cm2
+> - **(B)** (π −2) cm2
+> - **(C)** 2(π −1) cm2
+> - **(D)** 2(π −2) cm2
+> - **(E)** 4(π −1) cm2.
+
+**Answer:** D
+[[src_archimede_1997_triennio__Q12]]

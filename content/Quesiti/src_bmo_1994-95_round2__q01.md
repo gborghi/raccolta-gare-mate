@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1994-95 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1994-95_round2__Q01
 parent: src_bmo_1994-95_round2
 competition: British Mathematical Olympiad 1994-95 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer triples satisfying a product-equals-2 equation*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LnyjaTQ_tXLADpavIS5gxDmq-C79XE65/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i tripli interi positivi che soddisfano un'equazione prodotto-uguagli-2*
+
+> Trovare tutti i triples di numeri interi positivi $(a, b, c)$ in modo tale che $$\left(1 + \frac{1}{a}\right)\left(1 + \frac{1}{b}\right)\left(1 + \frac{1}{c}\right) = 2.$$
+
+[[src_bmo_1994-95_round2__Q01]]

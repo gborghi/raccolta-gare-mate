@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2025_n1_fx__Q02
 parent: src_obm_2025_n1_fx
 competition: Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square of side x with diagonal 2 cm decomposed into four triangles; then area of quadrilateral IJKL formed by squares built inside a regular octagon.*
 
@@ -52,3 +55,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BAsW5wUtp8e4eUtIjSrr-GeYtmuXz4Ok/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrato del lato x con diagonale di 2 cm decomposto in quattro triangoli; quindi area di IJKL quadrilaterale formata da quadrati costruiti all'interno di un ottagono regolare.*
+
+> (a) La figura seguente mostra un quadrato laterale $x$ con diagonale $2$ cm. Ottieniamo un'equazione per $x$ in due modi: direttamente attraverso l'area del quadrato, o sommando le quattro aree dei triangoli formati dai lati e dai diagonali. Trova questa equazione e calcola il valore di $x$.
+> 
+> b) La figura seguente mostra un ottagono regolare < MSK0/> di lato < MSK1/> cm. Ogni angolo interno di un ottagono regolare misura $135^\circ$. Nell'interno dell'ottangolo, i quadrati $ABIJ$ e $EFKL$ sono stati costruiti sui lati $AB$ e $EF$, rispettivamente. Qual è la superficie del quadrilaterale $IJKL$?
+
+![[src_obm_2025_n1_fx__Q02.png]]
+
+[[src_obm_2025_n1_fx__Q02]]

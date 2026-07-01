@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Pre-Ecolier — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_preecolier__Q16
 parent: src_kangourou_2013_preecolier
 competition: Kangourou 2013 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Successiva posizione della lettera A*
 
@@ -48,3 +51,26 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ykejBpK7Wiwv-x_5BvjdytAue5Y_N6nU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Subsequent location of the letter A*
+
+![[src_kangourou_2013_preecolier__prob16.png]]
+
+> Look at the figure that represents a sequence of positions of the letter A. What's next? A)
+>            	
+> B)
+>           	
+> C)
+>         	
+> D)
+> 	
+> E)
+> 
+> Problems from N. 17 al N. Twenty-four is worth five points.
+
+**Answer:** A
+[[src_kangourou_2013_preecolier__Q16]]

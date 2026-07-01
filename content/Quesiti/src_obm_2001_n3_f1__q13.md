@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f1__Q13
 parent: src_obm_2001_n3_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Raffle of 30 balls, first ball lost on floor; probability second drawn ball is Pedro's*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Raffle di 30 palle, prima palla perduta sul pavimento; probabilità secondo palla tirata è la palla di Pedro
+
+> Fu organizzata una lotteria tra i 30 studenti della classe di Pedro. Per questo, 30 palle numerate da 1 a 30 furono messe in un'urna. Uno di loro fu poi disegnato. Tuttavia, la palla cadde sul pavimento e fu persa, e una seconda palla dovette essere tirata tra le restanti 29. Qual è la probabilità che il numero tirato la seconda volta fosse di Pedro?
+> 
+> **A)** $\dfrac{1}{29}$ $\quad$ **B)** $\dfrac{1}{30}$ $\quad$ **C)** $\dfrac{1}{31}$ $\quad$ **D)** $\dfrac{1}{60}$ $\quad$ **E)** $\dfrac{2}{31}$
+
+**Risposta:** B
+[[src_obm_2001_n3_f1__Q13]]

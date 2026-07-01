@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2008 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2008__Q02
 parent: src_cn_csmo_2008
 competition: China Southeastern Mathematical Olympiad 2008
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find general term of recurrence a_{n+1}=2a_n+n(1+2^n)*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova termine generale di ricorrenza a_{n+1}=2a_n+n(1+2^n)*
+
+> È data la sequenza $\{a_n\}$: $a_1 = 1$, $$a_{n+1} = 2a_n + n \cdot (1 + 2^n), \quad n = 1, 2, 3, \cdots.$$ Trova il termine generale $a_n$.
+
+[[src_cn_csmo_2008__Q02]]

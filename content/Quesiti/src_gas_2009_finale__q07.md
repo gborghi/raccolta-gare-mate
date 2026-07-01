@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q07
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero coefficienti possibili termine cubico, radici intere*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0021
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of possible cubic term coefficients, whole roots*
+
+> Emptiness of memory A traveler recalled a trip to the mines of Toria, where he was walking, and he mentioned a rock wall on which something special was written: it was a polynomial, where the highest degree term was x4 and the known term 12. He couldn't remember anything else about that engraving, but he knew all his roots were intact. How many different coefficients could the third degree term have?
+
+**Answer:** 0021
+[[src_gas_2009_finale__Q07]]

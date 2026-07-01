@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q17
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area pentagono dopo piegatura di un rettangolo*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area pentagon after folding a rectangle*
+
+![[src_kangourou_2012_student__prob17.png]]
+
+> Look at the figure. A rectangle of ABCD paper measuring 4 cm × 16 cm shall be folded over itself along a MN straight line so that the C-top overlaps with the A-top. What is the area of the ABNMD pentagon in square centimetres? A) 17 B) 27 C) 37 D) 47 E) 57
+
+**Answer:** D
+[[src_kangourou_2012_student__Q17]]

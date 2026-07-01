@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q05
 parent: src_archimede_2014_febb_2livello
 competition: Archimede Gara di Febbraio 2014 - 2 livello
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazioni vere/false, quanti valori puo assumere n*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*True/false statements, how many values can be assumed n*
+
+> Alexander, Daniel and Manuela discuss a two-digit natural number n. Each of them makes two statements, but since they're all a little short on math, each of them makes a true statement and a false one. Alexander says n is equal. Also, it's a multiple of 3.; Daniel replies: Yes, n is a multiple of 3. Furthermore, the number of units of n is 5.; Manuela says, finally: n is multiple of 5. The sum of its digits is 12. How many values can n assume? (A) There is no such number. (B) 1 (C) 2 (D) 3 (E) 4
+
+**Answer:** D
+[[src_archimede_2014_febb_2livello__Q05]]

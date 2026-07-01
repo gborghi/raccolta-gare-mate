@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q18
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with integer vertices and one interior m-integral point has bounded area*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un triangolo con vertici interi e un punto interno m-integrale ha una superficie delimitata*
+
+> $m$ sia un numero intero positivo. Un punto $(x, y)$ nel piano è chiamato punto integrale $m$ se $m \mid x$ e $m \mid y$. Prova che per qualsiasi triangolo $ABC$ con coordinate di vertici interi che abbia esattamente un punto integrale interno $m$, la sua superficie $S_{\triangle ABC}$ soddisfa $S_{\triangle ABC} \le 2m^2(m+2)$.
+
+[[src_cn_ctst_2021__Q18]]

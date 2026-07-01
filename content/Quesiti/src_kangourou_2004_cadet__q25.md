@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q25
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma a+b con a*b=10000 e non div 10*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum a+b with a*b=10000 and not divided by 10*
+
+> If a and b are strictly positive integers, none of which is divisible by 10 and if a x b = 10000, then the sum of a + b is A) 1024 B) 641 C) 1258 D) 2401 E) 1000
+
+**Answer:** B
+[[src_kangourou_2004_cadet__Q25]]

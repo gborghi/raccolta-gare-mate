@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_b__Q14
 parent: src_cesenatico_2006_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2006 - Semifinale B
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazioni m/n ridotte con m*n=18!*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0064
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Reduced fractions m/n with m< MSK1/>n=18!< MSK2/>
+
+> Distractions Henri and Smale Perelman, Ron's two older brothers, rarely attend classes and instead dedicate themselves to inventing new games. Today they are playing to the first to guess the following question: how many fractions m n , reduced to minimum terms, such that 0 < m n < 1 and so m·n = 18!.
+
+**Answer:** 0064
+[[src_cesenatico_2006_squadre_semifinale_b__Q14]]

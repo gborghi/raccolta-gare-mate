@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2012 — Quesito
   10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2012__Q10
 parent: src_bocconi_finalenaz_2012
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2012
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dividere superficie a gradini in due parti uguali*
 
@@ -48,3 +51,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*To divide the surface in steps into two equal parts*
+
+> You want to divide the surface you see in the figure into two parts that have the same area, completing with a segment that does not leave the surface: two of the points on its border indicated in the figure with a "ball". How do you do that? (Pull the section in question in the reply sheet)
+
+![[src_bocconi_finalenaz_2012__Q10.png]]
+
+**Answer:** (figura con soluzione nella soluzione)
+[[src_bocconi_finalenaz_2012__Q10]]

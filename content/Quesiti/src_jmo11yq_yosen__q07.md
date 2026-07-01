@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo11yq_yosen__Q07
 parent: src_jmo11yq_yosen
 competition: Japan Mathematical Olympiad 2001 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 4x4 Latin squares with 2x2 block condition*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 288
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare quadrati latini 4x4 con condizione di blocco 2x2*
+
+> Fare una griglia di celle $4 \times 4$ e scrivere in cifre da $1$ a $4$, quattro di ciascuna (una cifra per cella), fatte salve le seguenti tre condizioni: (i) In ogni riga, $1, 2, 3, 4$ appaiono ciascuna esattamente una volta. (ii) In ogni colonna, $1, 2, 3, 4$ appaiono esattamente una volta. (iii) Quando l'intera griglia è divisa in quattro parti con le linee in grasso come illustrato nella figura seguente (i quattro blocchi $2 \times 2$), ciascuna parte contiene $1, 2, 3, 4$ esattamente una volta. Quanti sono questi modi di scrivere in cifre?
+
+![[src_jmo11yq_yosen__Q07.png]]
+
+**Risposta:** 288
+[[src_jmo11yq_yosen__Q07]]

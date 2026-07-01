@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n1_f2__Q02
 parent: src_obm_2017_n1_f2
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find common prime divisors of all terms of sequence a·2017^n + b·2016^n*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iwmdzVC1anDxEvSBue1NcwFMI43Xg_Zx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova i divisori primi comuni di tutti i termini della sequenza a·2017^n + b·2016^n*
+
+> Fissare i numeri interi positivi $a$ e $b$. Trova l'insieme di tutti i divisori primi che sono comuni a tutti i termini della sequenza $$a_n = a \cdot 2017^n + b \cdot 2016^n.$$
+
+[[src_obm_2017_n1_f2__Q02]]

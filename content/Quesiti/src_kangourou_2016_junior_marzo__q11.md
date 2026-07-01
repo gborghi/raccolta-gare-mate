@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q11
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Maggiore tra a,b,c,d dato sistema di uguaglianze*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Major between a,b,c,d given system of equality*
+
+> 11. Four real numbers a, b, c, d prove these equality: a + 5 = $b^{2}$  1 = $c^{2}$ + 3 = d  4. Which of them is greater? (a) (b) (c) (d) (e) It is impossible to establish.
+
+**Answer:** D
+[[src_kangourou_2016_junior_marzo__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q13
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza angoli in secondi tra due triangoli isosceli*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0000
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Different angles in seconds between two isosceles triangles< MSK1/>
+
+> Puntor peaks The profile of Puntor peaks consists of two isosceles triangles ABV1 and BCV2 of base AB, BC, with B mean point AC. We know that AC is 4572 meters long and that V1 and V2 are 8001 and 3429 meters from AC respectively. What is the absolute value of the difference \ V2AV1 −[ BV2C? (Remember that a second arc is an angle equal to 1/3600 degrees.)
+
+**Answer:** 0000
+[[src_gas_2009_finale__Q13]]

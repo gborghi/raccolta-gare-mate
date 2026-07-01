@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q23
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colori magliette scimmie (III) conteggio*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 440
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>T-shirts for monkeys (III) counting < MSK1/>
+
+> In how many ways could the monkeys Albert, Berto, Sure, Derto and Erto have worn the shirts that Sylvier had bought if they had no aversion to any color?
+
+**Answer:** 440
+[[src_gs_2008_squadre__Q23]]

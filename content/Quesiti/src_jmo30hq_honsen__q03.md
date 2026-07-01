@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2020 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo30hq_honsen__Q03
 parent: src_jmo30hq_honsen
 competition: Japan Mathematical Olympiad 2020 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all functions where a given inequality holds for all integers*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tg5YtucGZLa1e_kRtCsAE8LrOFyPUE4s/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni in cui una determinata disuguaglianza si applica a tutti gli integri*
+
+> Trova tutte le funzioni $f$ definite sui numeri interi positivi che assumono valori di numeri interi positivi in modo tale che per qualsiasi numero intero $m, n \ge 1$, $$m^2 + f(n)^2 + (m - f(n))^3 \ge f(m)^2 + n^2$$ sia contenuto.
+
+[[src_jmo30hq_honsen__Q03]]

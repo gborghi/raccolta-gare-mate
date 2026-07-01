@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2024 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_automne__Q15
 parent: src_canimath_2024_automne
 competition: Coupe Animath Automne 2024
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find largest α such that for all x_1,...,x_2024 some index i gives sum of fractional parts ≤ α*
 
@@ -53,3 +56,17 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la più grande α tale che per tutte le x_1,...,x_2024 qualche indice i dia la somma delle parti frazionarie ≤ α*
+
+> Determinare il numero reale più grande $\alpha$ che ha la seguente proprietà:
+> 
+> Per tutti i numeri reali $x_1, \ldots, x_{2024}$, esiste sempre un indice $i$ con $1 \le i \le 2024$ tale che $$\{x_i - x_1\} + \{x_i - x_2\} + \{x_i - x_3\} + \cdots + \{x_i - x_{2024}\} \le \alpha.$$
+> 
+> Ricordiamo che $\{x\}$ indica la parte frazionaria del numero reale $x$, cioè $\{x\} = x - \lfloor x \rfloor$ dove $\lfloor x \rfloor$ è la parte integrale di $x$ (il numero intero più grande inferiore o uguale a $x$). Per esempio, $\{1.2\} = 0.2$, $\{3\} = 0$ e $\{-2.4\} = 0.6$.
+
+[[src_canimath_2024_automne__Q15]]

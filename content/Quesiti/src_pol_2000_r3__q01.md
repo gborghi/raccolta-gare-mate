@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2000 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2000_r3__Q01
 parent: src_pol_2000_r3
 competition: Olimpiade Matematica Polacca 2000 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of nonnegative real solutions of a cyclic quadratic system*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nDWoQAPfWDLllzYEGHcK_5w05h4brUh9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di soluzioni reali non negative di un sistema quadratico ciclico*
+
+> Per un dato numero intero $n \geq 2$, trovare il numero di soluzioni reali non negative del sistema di sistemazione delle equazioni: $$\begin{cases} x_2 + x_1^2 = 4x_1 \\ x_3 + x_2^2 = 4x_2 \\ \cdots\cdots \\ x_1 + x_n^2 = 4x_n. \end{cases}$$
+
+[[src_pol_2000_r3__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Ecolier (marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q09
 parent: src_kangourou_2006_ecolier_marzo
 competition: Kangourou 2006 Ecolier (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma petali con resto 2 nella divisione per 6*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pKY5ouqmagp75LpVMmZ7-wegTuPPO_ZD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of petals with remainder 2 in division by 6*
+
+![[src_kangourou_2006_ecolier_marzo__prob9.png]]
+
+> In the figure on the side you can see a "numbered flower". Mary separates all the petals with numbers that, divided by 6, give 2 remaining. How much is the sum of the numbers on the petals that Mary pulled off? A) 46 B) 66 C) 84 D) 86 E) 114
+
+**Answer:** A
+[[src_kangourou_2006_ecolier_marzo__Q09]]

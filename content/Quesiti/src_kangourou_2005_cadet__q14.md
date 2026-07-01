@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet__Q14
 parent: src_kangourou_2005_cadet
 competition: Kangourou 2005 - Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorni lavorativi del guardiano fino a domenica riposo*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Work days of the guardian until Sunday rest*
+
+> A guard works four days straight and rests the fifth. Today is a day of rest and it is Sunday: what is the number of working days (for the keeper) that run from today to the first Sunday which will again be a day of rest for the keeper? A) 35 B) 30 C) 28 D) 24 E) 7
+
+**Answer:** C
+[[src_kangourou_2005_cadet__Q14]]

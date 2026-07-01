@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Semifinale A — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_semifinalea__Q07
 parent: src_squadre_2018_semifinalea
 competition: Gara a Squadre 2018 - Semifinale A
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie di polinomi grado 4 con un coefficiente dispari nel prodotto*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 8975
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pairs of degree 4 polynomials with a coefficient of oddness in the product*
+
+> In 1955 Matryx receives a letter from the old West, which reads: "There are many mines, each indicated by a whole. The DeuLerean is found in the number of unordered pairs of polynomials p(x,q(x) with strictly positive integer coefficients, of degree 4, such that p(1)+q(1) = 26 and that the polynomial (p(x)q(x))7 has exactly an odd coefficient. What mine is this?
+
+**Answer:** 8975
+[[src_squadre_2018_semifinalea__Q07]]

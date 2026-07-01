@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q18
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest integer k whose square k^2 is a factor of 10!*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più grande intero k il cui quadrato k^2 è un fattore di 10!*
+
+> Qual è il numero intero più grande $k$ il cui quadrato $k^2$ è un fattore di $10!$?
+>
+> - **(A)** $6$
+> - **(B)** $256$
+> - **(C)** $360$
+> - **(D)** $720$
+> - **(E)** $5040$
+
+**Risposta:** D
+[[src_smc_2015__Q18]]

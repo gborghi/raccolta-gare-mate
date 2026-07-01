@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q09
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Complex recurrence z_{n+1}=conj(z_n)(1+z_n i), z_1=√3/2; find z_2021.*
 
@@ -45,3 +48,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricorrenza complessa z_{n+1}=conj(z_n)(1+z_n i), z_1=√3/2; trovare z_2021.*
+
+> [Test Paper A, Problem 9] (16 punti) Lasciate che la sequenza complessa $\{z_n\}$ soddisfi $$z_1=\frac{\sqrt{3}}{2},\quad z_{n+1}=\overline{z_n}(1+z_n\mathrm{i})\quad(n=1,2,\ldots),$$ dove $\mathrm{i}$ è l'unità immaginaria. Trova il valore di $z_{2021}$.
+
+**Risposta:** z_{2021}=\dfrac{\sqrt{3}}{2}+\left(\dfrac{1}{2}+\dfrac{1}{2^{2^{2020}}}\right)\mathrm{i}
+[[src_cn_cmc-first-round_2021__Q09]]

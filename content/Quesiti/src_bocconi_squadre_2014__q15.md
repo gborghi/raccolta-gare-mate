@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2014 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2014__Q15
 parent: src_bocconi_squadre_2014
 competition: Gara a Squadre 2014
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero iniziale di cioccolatini in ciascun vassoio dopo scambi tra Chiara, Carla e Jacopo*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 11
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Initial number of chocolates in each tray after exchanges between Chiara, Carla and Jacopo< MSK1/>
+
+> In Clara's room, there are three trays containing the same number of chocolates. Carla takes one out of one of the three trays and puts it back in one of the other two. Milena, in turn, takes two chocolates from one of the three trays and (resisting the temptation to eat them) puts them back in one of the other two. It's Jacopo's turn. He takes four chocolates from one of the three trays and puts them back in one of the other two. At this point, one of the three trays contains twice the number of chocolates in a second tray and three times the number of chocolates in a third tray. How many chocolates did each tray initially contain?
+
+**Answer:** 11
+[[src_bocconi_squadre_2014__Q15]]

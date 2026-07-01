@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2011 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2011__Q01
 parent: src_cn_cgmo_2011
 competition: China Girls' Mathematical Olympiad 2011
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers z so that 1/x + 1/y = 1/z has exactly 2011 solutions*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $z = p^{4021}$ for any prime $p$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutti gli integri positivi z in modo che 1/x + 1/y = 1/z abbia esattamente le soluzioni 2011*
+
+> Trovare tutti gli integri positivi $z$ in modo che l'equazione $\frac{1}{x} + \frac{1}{y} = \frac{1}{z}$ abbia esattamente $2011$ soluzioni di integri positivi $(x, y)$ con $x \leq y$.
+
+**Risposta:** $z = p^{4021}$ for any prime $p$
+[[src_cn_cgmo_2011__Q01]]

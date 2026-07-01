@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f1__Q01
 parent: src_obm_2007_n2_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of digits of 101 times a repunit with 2007 ones*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di numeri di 101 volte un ripunito con quelli del 2007*
+
+> Osservare le seguenti moltiplicazioni: $$101 \times 11 = 1111$$ $$101 \times 111 = 11211$$ $$101 \times 1111 = 112211$$ $$101 \times 11111 = 1122211$$ Qual è la somma delle cifre del numero ottenuto quando si moltiplica $101$ per il numero $\underbrace{11111\ldots11}_{2007 \text{ ones}}$?
+> 
+> (A) 1001 $\quad$ (B) 2007 $\quad$ (C) 2009 $\quad$ (D) 4008 $\quad$ (E) 4014
+
+**Risposta:** E
+[[src_obm_2007_n2_f1__Q01]]

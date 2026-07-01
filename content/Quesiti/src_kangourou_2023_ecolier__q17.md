@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier__Q17
 parent: src_kangourou_2023_ecolier
 competition: Kangourou 2023 Ecolier — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero canguro*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bDY_Y5qtxjaNx_dh5X8llzlndfmVtNwJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The following table shows the number of species of kangaroos:
+
+![[src_kangourou_2023_ecolier__prob17.png]]
+
+> Six koalas and two kangaroos are standing in line and each of them has been given a number, as you can see in the figure. Every three animals that have consecutive numbers, exactly one is a kangaroo. Which of the following is the number of one of the two kangaroos? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 7
+
+**Answer:** B
+[[src_kangourou_2023_ecolier__Q17]]

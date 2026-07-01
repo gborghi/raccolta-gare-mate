@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Triennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_triennio__Q06
 parent: src_archimede_1997_triennio
 competition: Giochi di Archimede 1997 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti per formare una catena aperta di 10 anelli*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minutes to form an open chain of 10 rings*
+
+> Cutting a chain ring takes one minute, and welding it again takes five minutes. With 10 rings connected in pairs, how many minutes (at least) does it take to form an open chain of 10 rings?
+>
+> - **(A)** 30
+> - **(B)** 26
+> - **(C)** 24
+> - **(D)** 18
+> - **(E)** 12.
+
+**Answer:** D
+[[src_archimede_1997_triennio__Q06]]

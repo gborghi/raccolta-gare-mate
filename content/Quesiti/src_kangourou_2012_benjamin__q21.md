@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q21
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Forma del foglio ottagonale dispiegato dopo i tagli*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Form of octagonal sheet unfolded after cutting*
+
+![[src_kangourou_2012_benjamin__prob21.png]]
+
+> Note the figure: a regular octagon-shaped sheet is folded in half on itself three times until a triangle is obtained (for each of these times the folding line is indicated). From the triangle a rectangular triangle is then cut, cutting along the indicated line. If the sheet is unfolded at this point, what is its shape? A) B) C) D) E)
+
+**Answer:** C
+[[src_kangourou_2012_benjamin__Q21]]

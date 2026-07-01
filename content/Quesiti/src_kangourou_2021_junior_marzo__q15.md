@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q15
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura dell'angolo alpha nel semicerchio*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measurement of the alpha angle in the semicircle*
+
+![[src_kangourou_2021_junior_marzo__prob15.png]]
+
+> The figure shows a semicircle centered in O. The measurements of two of the angles that make up the angle are given. What is the degree of the angle α? A) 18 B) 11 C) 17,5 D) 9
+>  	
+> E) 16
+
+**Answer:** D
+[[src_kangourou_2021_junior_marzo__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2021 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2021__Q03
 parent: src_cn_csmo_2021
 competition: China Southeastern Mathematical Olympiad 2021
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer sequence with prime-weighted binomial sums; prove all terms zero*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza integrale con somme binomiali ponderate in primo; dimostrare tutti i termini zero*
+
+> Se si dà un primo pari $p$ e una sequenza di numeri interi $\{a_n\}$, $n \ge 0$. Definire la sequenza $$v_n = \sum_{i=0}^n \binom{n}{i} p^i a_i, \quad n \ge 1.$$ Prova: se ci sono infiniti valori di $n$ come $v_n = 0$, allora $v_n = 0$ per tutti $n \ge 0$.
+
+[[src_cn_csmo_2021__Q03]]

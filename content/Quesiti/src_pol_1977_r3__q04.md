@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1977 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1977_r3__Q04
 parent: src_pol_1977_r3
 competition: Olimpiade Matematica Polacca 1977 — Round 3
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation h(a+x)=h(a)h(x); prove h(x)=c^x*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ihJu65X9h_5nFSLWEBnWr2rsJ1UTiKwI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale h(a+x) = h(a) h(x); prova h(x) = c^x*
+
+> Una funzione $h: \mathbb{R} \to \mathbb{R}$ è differenziabile e soddisfa $h(a + x) = h(a) \cdot h(x)$ per tutte le $x$, dove $a$ e $b$ sono dati numeri reali positivi e $b \ne 1$. Supponiamo che $h'(0) > 0$ e la funzione $h'$ sia continua a $x = 0$. Prova che $a = b$ e che esiste un numero reale $c$ tale da $h(x) = c^x$ per tutti $x$.
+
+[[src_pol_1977_r3__Q04]]

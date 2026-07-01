@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2008 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2008__Q11
 parent: src_cn_cmc_2008
 competition: China Mathematical Competition 2008
@@ -32,6 +33,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find f(2008) given f(0)=2008 and two functional inequalities*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $2^{2008} + 2007$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca f(2008) data f(0)=2008 e due disuguaglianze funzionali*
+
+> Supponiamo che $f(x)$ sia definito su $\mathbf{R}$, soddisfacendo $f(0) = 2008$, e per qualsiasi $x \in \mathbf{R}$: $$f(x+2) - f(x) \le 3 \times 2^x,$$ $$f(x+6) - f(x) \ge 63 \times 2^x.$$ Poi $f(2008) = $ ________.
+
+**Risposta:** $2^{2008} + 2007$
+[[src_cn_cmc_2008__Q11]]

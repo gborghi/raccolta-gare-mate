@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q26
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dimensioni del rettangolo data l'area della colomba*
 
@@ -54,3 +57,17 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular dimensions given the area of the dove*
+
+![[src_kangourou_2018_cadet_marzo__prob26.png]]
+
+> By connecting a few knots of a square mesh grid with segments and arcs of circumference, Federica drew the stylized dove you see in the figure and then colored the dove and the rectangular background differently. If the area of the part of the drawing occupied by the dove is 192 cm2, what are the dimensions in centimetres of the two sides of the rectangle? A) 6 × 4 B) 12 × 8 C) 20 × 12 D) 24 × 16 E) 30 × 20 26 cm 7 cm 10 cm x 50 m ?
+>
+
+**Answer:** D
+[[src_kangourou_2018_cadet_marzo__Q26]]

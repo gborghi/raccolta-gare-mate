@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2022 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2022__Q09
 parent: src_cn_ctst_2022
 competition: China National Team Selection Test 2022
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pairwise non-divisible positive integers: prove sum is at least 1.4n²−2n*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieme positive non divisibili in coppia: prova che la somma è almeno 1,4n2−2n*
+
+> Che $a_1, a_2, \ldots, a_n$ siano integri positivi in modo tale che nessuno divida l'altro, vale a dire $a_i \nmid a_j$ per tutti $i \ne j$. Prova che $$a_1 + a_2 + \cdots + a_n \ge 1.4n^2 - 2n.$$ (Nota: può essere dato un credito parziale per dimostrare la disuguaglianza per tutti i $n$ sufficientemente grandi.)
+
+[[src_cn_ctst_2022__Q09]]

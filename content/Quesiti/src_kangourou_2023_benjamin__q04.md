@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin__Q04
 parent: src_kangourou_2023_benjamin
 competition: Kangourou 2023 Benjamin — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale cubo si ottiene*
 
@@ -47,3 +50,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>which cube is obtained< MSK1/>
+
+![[src_kangourou_2023_benjamin__prob4.png]]
+
+> Rosalia has a card with the shape and designs shown in the figure. If he folds it, which of the following cubes can he get? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** B
+[[src_kangourou_2023_benjamin__Q04]]

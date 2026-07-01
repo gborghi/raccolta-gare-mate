@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Student - Gara 16 marzo — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q27
 parent: src_kangourou_2017_student_marzo
 competition: Kangourou 2017 Student - Gara 16 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero centrale in griglia 3x3 con somma 500*
 
@@ -51,3 +54,25 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Central 3x3 grid number with sum of 500*
+
+![[src_kangourou_2017_student_marzo__prob27.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) grid (3,3);
+  \node at (1.5,1.5) {?};
+\end{tikzpicture}
+\end{document}
+```
+
+> 27. In each cell of a grid 3 × 3 an integer is written such that the sum of the nine numbers is 500 and that numbers located in adjacent cells (i.e. cells with a common side) differ by 1. What is the number in the middle cell? A) 50 B) 54 C) 55 D) 56 E) 57
+
+**Answer:** D
+[[src_kangourou_2017_student_marzo__Q27]]

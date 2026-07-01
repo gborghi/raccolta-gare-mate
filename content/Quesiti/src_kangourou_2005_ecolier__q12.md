@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Ecolier (marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_ecolier__Q12
 parent: src_kangourou_2005_ecolier
 competition: Kangourou 2005 - Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale puo essere la terza parte del quadrato tagliato*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*which can be the third part of the cut square*
+
+![[src_kangourou_2005_ecolier__prob12.png]]
+
+> A square sheet of paper was cut into three parts. Two of these are on the right. Which of the following can be the third? A)            B)          C)              D)                 E)
+
+**Answer:** B
+[[src_kangourou_2005_ecolier__Q12]]

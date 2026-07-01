@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Benjamin 2024 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin__Q14
 parent: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Nome della scatola X dai cioccolatini rimasti*
 
@@ -97,3 +100,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Name of box X from the remaining chocolates< MSK1/>
+
+![[src_kangourou_2024_benjamin__prob14.png]]
+
+> Julius had five boxes of chocolates, designated in the figure by the letters A, B, C, D, and E. The number you see above each chocolate chip, represented by a circle, denotes its taste. Giulio ate almost all the chocolates, leaving one for each box as the second figure. What's the name of the box marked with X? A) A
+> 	
+> B) B
+> 	
+> C) C
+> 	
+> D) D
+> 	
+> E) E 1 6 2 3 1 2 3 4 5 A 2 3 4 5 6 B 3 4 5 6 7 C 4 5 6 7 8 D 5 6 7 8 9 E 5 X 4 3 2 1
+>
+
+**Answer:** E
+[[src_kangourou_2024_benjamin__Q14]]

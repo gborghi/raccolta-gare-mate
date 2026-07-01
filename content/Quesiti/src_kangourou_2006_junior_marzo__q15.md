@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q15
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale risposta corretta (autoreferenza logica)*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What is the correct answer (logical self-reference) *
+
+> 15. You're trying to answer a question from Kangourou and you've come to the following conclusions:
+
+**Answer:** C
+[[src_kangourou_2006_junior_marzo__Q15]]

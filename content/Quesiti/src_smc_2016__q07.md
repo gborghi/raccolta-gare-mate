@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2016 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2016__Q07
 parent: src_smc_2016
 competition: Senior Mathematical Challenge 2016
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which of 2016^(−1), 2016^(−1/2), 2016^0, 2016^(1/2), 2016^1 has the smallest value?*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Quale di 2016^(−1), 2016^(−1/2), 2016^0, 2016^(1/2), 2016^1 ha il valore più piccolo?
+
+> Quale di queste ha il valore più basso?
+>
+> - **(A)** $2016^{-1}$
+> - **(B)** $2016^{-1/2}$
+> - **(C)** $2016^{0}$
+> - **(D)** $2016^{1/2}$
+> - **(E)** $2016^{1}$
+
+**Risposta:** A
+[[src_smc_2016__Q07]]

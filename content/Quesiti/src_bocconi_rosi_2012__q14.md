@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2012 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2012__Q14
 parent: src_bocconi_rosi_2012
 competition: Giochi di Rosi 2012
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tasti minimi per ottenere 2000 con calcolatrice guasta*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 39
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1du4nM_pjVseEMRiX1hz7hrTEkEIg-ZC2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum keys to obtain 2000 with malfunctioning calculator< MSK1/>
+
+> Jacopo found an old calculator in the attic, a little malfunctioning. Only the "1" button, the "+" button and the "=" button work.
+> 
+> **How many keys, at least, does poor Jacopo have to beat to get 2000? **
+
+**Answer:** 39
+[[src_bocconi_rosi_2012__Q14]]

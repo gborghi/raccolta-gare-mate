@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 2) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g2__Q01
 parent: src_bocconi_finaleint_2007_g2
 competition: >-
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di ordini di arrivo possibili per quattro allievi in corsa*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 24
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of possible arrival orders for four pupils on the run*
+
+> Four students in the same class decide to take a walk during the telethon. They each wear a breastplate: Pierre wears the breastplate n<°1, Marie the n°2, Élodie the n°3 and Eric the n°4.
+> 
+> How many different arrival orders are possible?
+
+**Answer:** 24
+[[src_bocconi_finaleint_2007_g2__Q01]]

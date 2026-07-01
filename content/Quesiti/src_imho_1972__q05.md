@@ -1,6 +1,7 @@
 ---
 title: IMO 1972 (XIV International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1972__Q05
 parent: src_imho_1972
 competition: IMO 1972 (XIV International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Functional equation f(x+y)+f(x-y)=2f(x)g(y) with bounds*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Functional equation f(x+y)+f(x-y)=2f(x)g(y) with bounds*
+
+> Let $f$ and $g$ be real-valued functions defined for all real values of $x$ and $y$, and satisfying the equation $$f(x + y) + f(x - y) = 2f(x)g(y)$$ for all $x, y$. Prove that if $f(x)$ is not identically zero, and if $|f(x)| \le 1$ for all $x$, then $|g(y)| \le 1$ for all $y$.
+
+[[src_imho_1972__Q05]]

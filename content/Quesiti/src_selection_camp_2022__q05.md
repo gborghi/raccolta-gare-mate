@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2022 — Selection Camp — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2022__Q05
 parent: src_selection_camp_2022
 competition: Japan IMO Selection Camp 2022 — Selection Camp
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bead-moving game on a line with ratio r; find r allowing red bead to reach B in at most 2021 moves*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IbxW-7wHAbocY02LPUXVJ2fiAgki09kb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di movimentazione di perle su una linea con rapporto r; trovare r che consente alla perla rossa di raggiungere B in almeno 2021 mosse*
+
+> Che $r > 1$ sia un numero razionale, e che $B$ e $R$ siano due punti distinti su una linea. Inizialmente, una perla blu è collocata a $B$ e una perla rossa a $R$. Taro esegue ripetutamente la seguente operazione:
+> 
+> > Selezionare un numero intero $k$ e un punto $X$ in cui si colloca una delle perle. Il punto in cui si colloca l'altra perla è $Y$. Sul raggio $YX$, scegliere il punto $X'$ in modo tale che $YX' = r^k \cdot YX$. Poi spostare la perla a $X$ a $X'$.
+> 
+> Trovare tutti i valori di $r$ in modo tale che Taro possa spostare il marchio rosso a $B$ in un massimo di $2021$ operazioni. Qui $PQ$ indica la lunghezza del segmento $PQ$.
+
+[[src_selection_camp_2022__Q05]]

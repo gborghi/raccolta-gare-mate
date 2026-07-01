@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 1 —
   Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_nu_f1__Q02
 parent: src_obm_2008_nu_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count lines meeting four given parametric lines simultaneously*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Line di conteggio che riuniscono contemporaneamente quattro determinate linee parametriche*
+
+> Considerate le linee indicate dalle equazioni parametriche $$\begin{cases}(x,y,z)=(0,0,1)\cdot t\end{cases},\quad \begin{cases}(x,y,z)=(1,2,0)+(1,0,0)\cdot t\end{cases},$$ $$\begin{cases}(x,y,z)=(1,1,0)+(0,1,0)\cdot t\end{cases},\quad \begin{cases}(x,y,z)=(1,0,0)+(1,1,1)\cdot t\end{cases}.$$ Quante linee intersecano tutte e quattro contemporaneamente?
+
+[[src_obm_2008_nu_f1__Q02]]

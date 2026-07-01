@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Biennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_biennio__Q10
 parent: src_archimede_2025_biennio
 competition: Giochi di Archimede 2025 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pin di 5 cifre con 4 uguali e 1 diversa*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18_HJOvj5XdZGR_vwwSmhkGXfDLuHPlIX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Five-digit pins with four equal and one different *
+
+> Silvia must reset her credit card pin, which consists of 5 digits (each of which can be any number from 0 to 9). To remember it easily, it will make sure that there are 4 digits that are equal to each other and a number that is different from the other 4. How many pins do you think meet these requirements?
+>
+> - **(A)** 90
+> - **(B)** 500
+> - **(C)** 450
+> - **(D)** 45
+> - **(E)** 400
+
+**Answer:** C
+[[src_archimede_2025_biennio__Q10]]

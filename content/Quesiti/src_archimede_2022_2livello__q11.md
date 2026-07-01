@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_2livello__Q11
 parent: src_archimede_2022_2livello
 competition: Archimede Gara di Febbraio 2022 - 2° livello
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Famiglie di πcchi, possibilità totale dopo 7 nidiate*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK1/>Families of < MSK0/> chicks, total possibility after 7 nesting < MSK2/>
+
+> MSK0/> chi are animals that live in families of 1, 2 or 3 individuals. A family of 3 < MSK1/> chi were originally imported into Italy. A family of n < MSK2/> which reproduces by growing by 2n −2 new individuals, forming a total of 3n −2, and dividing into new families (not necessarily two families with the same number of individuals divide equally). All families reproduce simultaneously at each nest. For example, after the first nest there are necessarily seven < MSK3/> chi, which could be divided into three families of two and one of one, or into one of three and two of two, or into seven of one, etc. What are the chances for the total number of < MSK4/> chi after the seventh nesting?
+>
+> - **(A)** 129
+> - **(B)** 253
+> - **(C)** 27
+> - **(D)** 27+37+1 2
+> - **(E)** 37
+
+**Answer:** B
+[[src_archimede_2022_2livello__Q11]]

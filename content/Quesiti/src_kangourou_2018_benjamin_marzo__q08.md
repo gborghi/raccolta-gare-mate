@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q08
 parent: src_kangourou_2018_benjamin_marzo
 competition: Kangourou 2018 Benjamin - Gara 15 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo cerchietti da toccare per renderli rossi*
 
@@ -56,3 +59,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum rings to be touched to make them red< MSK1/>
+
+![[src_kangourou_2018_benjamin_marzo__prob8.png]]
+
+> On the screen of my tablet, there's this figure: all the circles are transparent. If I touch a circle, it and all the circles that are near it (i.e. connected to it by a single segment) turn red. What is the minimum number of circles that I can touch to turn all the circles red? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** A
+[[src_kangourou_2018_benjamin_marzo__Q08]]

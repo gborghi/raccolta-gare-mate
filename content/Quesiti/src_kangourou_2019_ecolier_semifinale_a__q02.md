@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale_a__Q02
 parent: src_kangourou_2019_ecolier_semifinale_a
 competition: Kangourou Coppa Ecolier squadre 2019 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo M-N tra sacchetti di caramelle*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0031
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum M-N between bags of candy< MSK1/>
+
+> Four bags contain a total of 100 candies. They are lined up (left to right) from the most full to the most empty; the one on the left contains 42 candies, the one on the right contains 7 and no bag contains the same number of candies as another. If M is the number of candies in the second left-hand bag and N is the number of candies in the second right-hand bag, how much can M  N be worth at most?
+
+**Answer:** 0031
+[[src_kangourou_2019_ecolier_semifinale_a__Q02]]

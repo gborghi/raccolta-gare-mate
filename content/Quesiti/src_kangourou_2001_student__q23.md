@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Student (15 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_student__Q23
 parent: src_kangourou_2001_student
 competition: Kangourou 2001 - Student (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore w(2001^2001) somma cifre iterata*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Value w(2001^2001) sum of the numbers iterated< MSK1/>
+
+> For each positive integer n we calculate the sum of its digits (in decimal representation), then the sum of the digits of the number obtained and so on, until we get a single-digit number that is denoted by w(n). The number w (2001 2001) is equal to
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 5
+> - **(D)** 7
+> - **(E)** 9.
+
+**Answer:** E
+[[src_kangourou_2001_student__Q23]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 2) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g2__Q04
 parent: src_bocconi_finaleint_2009_g2
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Contare i quadrati della figura privi di celle grigie*
 
@@ -52,3 +55,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_LRZ35lngxx9JZL11y14CrDyt5FTBU28/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting the squares of the figure without grey cells*
+
+> White squares. How many squares entirely drawn in the figure do not contain any gray boxes? Note: A square may consist of either a single box or multiple boxes combined.
+
+![[src_bocconi_finaleint_2009_g2__Q04.png]]
+
+**Answer:** 48
+[[src_bocconi_finaleint_2009_g2__Q04]]

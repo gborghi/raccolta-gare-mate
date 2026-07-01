@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Junior (gara marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_junior__Q30
 parent: src_kangourou_2011_junior
 competition: Kangourou 2011 Junior (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ampiezza h della striscia per spirali uguali sul cilindro*
 
@@ -69,3 +72,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1AJCl_AfEoFXnuVsI8nXmEWfRHRXKCZ3O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Trip length h for the same spiral on the cylinder*
+
+![[src_kangourou_2011_junior__prob30.png]]
+
+> A rectangular cylinder with the base of radius 2, painted white, is placed on a rectangular strip of red cloth of width h, tilted 45 degrees from the strip as shown in the figure. The strip is wrapped around the cylinder, keeping it in tension. Looking at the cylinder now, you see a red spiral given by the strip and a white spiral given by the part of the cylinder not covered by the strip. How much should the width h of the red strip be worth if we want the two spirals to have the same width? A) B) π C) 4 D) 2 π E) A value different from the previous √2 h 45° Texts_11Mat.qxp 19-05-2011 21:25 Page 26
+> 
+>  
+>  
+> 1
+>  
+> 2011 Junior category
+
+**Answer:** E
+[[src_kangourou_2011_junior__Q30]]

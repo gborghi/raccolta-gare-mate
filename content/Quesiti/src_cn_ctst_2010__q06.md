@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2010 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2010__Q06
 parent: src_cn_ctst_2010
 competition: China National Team Selection Test 2010
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real sequence in [0,1) with prescribed absolute differences and zero endpoints*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Reale sequenza in [0,1) con differenze assolute prescritte e punti di fine zero*
+
+> Date le cifre interi $n \ge 2$ e reali $r_1, r_2, \ldots, r_n$ nell'intervallo $[0, 1)$, dimostrare che esistono numeri reali $a_1, a_2, \ldots, a_n$ che soddisfano contemporaneamente le seguenti condizioni: (1) $a_0 = a_n = 0$; (2) $|a_i| \le 1$ per ogni $i = 0, 1, \ldots, n$; (3) $|a_i - a_{i-1}| = r_i$ per ogni $i = 1, 2, \ldots, n$.
+
+[[src_cn_ctst_2010__Q06]]

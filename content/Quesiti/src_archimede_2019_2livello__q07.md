@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2019 - 2° livello — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_2livello__Q07
 parent: src_archimede_2019_2livello
 competition: Archimede Gara di Febbraio 2019 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trapezio inscritto, diagonali perpendicolari, rapporto aree*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Inscribed trapezoid, perpendicular diagonals, area ratio*
+
+> Either ABCD a trapezoid of bases AB and CD inscribed in a circumference Γ such that the diagonal AC and BD are perpendicular. Given that P is the meeting point of the AC and BD diagonals, what is the ratio of the area of Γ to the sum of the areas of the APB and CPD triangles?
+>
+> - **(A)** 1
+> - **(B)** π/2
+> - **(C)** π
+> - **(D)** 2π
+> - **(E)** The data are not sufficient to determine this
+
+**Answer:** C
+[[src_archimede_2019_2livello__Q07]]

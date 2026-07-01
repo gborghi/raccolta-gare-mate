@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2007 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2007__Q04
 parent: src_bocconi_primavera_2007
 competition: Semifinale di Primavera 2007
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti pacchi gialli mette in macchina Marco?*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4 pacchi gialli
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many yellow packs does Marco put in the car?
+
+> Marco's machine weighs exactly $25$ Kg. The fact is that Marco has to carry gift packages (for his friend Luca Maria): yellow, blue and green. Each yellow pack weighs $3$ Kg while a blue pack and a green pack weigh $5$ and $8$ Kg respectively. Marco also wants all the colours to be represented in the car.
+> 
+> How many yellow packs will Marco put in the car?
+
+**Answer:** 4 pacchi gialli
+[[src_bocconi_primavera_2007__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2022 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2022__Q20
 parent: src_smc_2022
 competition: Senior Mathematical Challenge 2022
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the area of a square inscribed inside a quadrant of a circle of radius 10.*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'area di un quadrato inserito all'interno di un quadrante di un cerchio di raggio 10.*
+
+> Un quadrato è inscritto all'interno di un quadrante di un cerchio. Il cerchio ha un raggio di 10. Qual è l'area della piazza?
+>
+> - **(A)** $25\sqrt{2}$
+> - **(B)** 36
+> - **(C)** $12\sqrt{2}$
+> - **(D)** 40
+> - **(E)** $10\sqrt{2}$
+
+![[src_smc_2022__Q20.png]]
+
+**Risposta:** D
+[[src_smc_2022__Q20]]

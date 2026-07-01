@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q29
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo n di rette con intersezioni assegnate*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Little number of lines with assigned intersections< MSK1/>
+
+> We know that there are different lines in the plane and that one of them intersects exactly five lines, another one intersects exactly nine lines, and a third one intersects exactly 11. Which of the following is the smallest possible value for n ? A) 11
+> 	
+> B) 12
+> 	
+> C) 13
+> 	
+> D) 14
+> 	
+> E) 15
+
+**Answer:** B
+[[src_kangourou_2024_junior__Q29]]

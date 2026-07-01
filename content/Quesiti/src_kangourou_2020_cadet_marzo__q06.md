@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q06
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo triangoli da aggiungere per formare un esagono*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum triangles to be added to form a hexagon*
+
+![[src_kangourou_2020_cadet_marzo__prob6.png]]
+
+> The figure shows a shape composed of 36 small identical equilateral triangles. What is the smallest number of such triangles that, when added to the shape, make it possible to turn it into a hexagon? A) 10
+> 	
+> B) 12
+> 	
+> C) 15
+> 	
+> D) 18
+> 	
+> E) 24
+
+**Answer:** D
+[[src_kangourou_2020_cadet_marzo__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q16
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante lastre triangolari per la stanza*
 
@@ -59,3 +62,26 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many triangular plates per room*
+
+![[src_kangourou_2003_ecolier__prob16.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) -- (4,0) -- (2,3.464) -- cycle;
+\end{tikzpicture}
+\end{document}
+```
+
+> We have a triangular room each of whose sides measure six meters and some triangular marble slabs each of whose sides measure one meter. How many of these plates do you need to floor the room? A) 6 B) 36 C) 120 D) 35 E) 18
+> 
+> I'm going to pay. I'm going to pay. 8 Kang 2003 Kang 2003 Questions from N. 17 al N. Twenty-four is worth five points each.
+
+**Answer:** B
+[[src_kangourou_2003_ecolier__Q16]]

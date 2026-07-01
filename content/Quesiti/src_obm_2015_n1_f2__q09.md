@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f2__Q09
 parent: src_obm_2015_n1_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Unit cubes assembled into larger cube then painted; count faces by visibility*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cubbi di unità assemblati in cubetti più grandi e poi dipinti; contare le facce per visibilità*
+
+> Esmeralda incolla i cubetti bianchi per costruire cubetti più grandi. Dopo aver riunito i cubetti più grandi, dipinge alcune delle facce visibili dei piccoli cubetti in verde o giallo.
+> 
+> a) Dopo aver assemblato un grande cubo laterale $3$ (fatto di $27$ piccoli cubetti), Esmeralda dipinge di verde le facce di piccoli cubetti che hanno esattamente $3$ facce visibili e di giallo le facce di piccoli cubetti che hanno esattamente $2$ facce visibili. Dopo la vernice, le facce < MSK4/> sono gialle. Quanti volti sono rimasti non dipinti sui piccoli cubetti?
+> 
+> b) Dopo aver assemblato un grande cubo di $9$ piccoli cubetti, Esmeralda dipinse $3$ le facce del grande cubo verde e $1$ la faccia gialla. Al massimo, quanti piccoli cubetti avrebbero potuto avere esattamente $2$ volti verdi e $1$ volti gialli?
+
+[[src_obm_2015_n1_f2__Q09]]

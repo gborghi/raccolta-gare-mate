@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q23
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorno della settimana del 20 del mese*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Day of the week of the 20th of the month< MSK1/>
+
+> In the same month, three Sundays fell into equal days. What day of the week was the 20th of that month?
+>  
+> A. Monday B. Tuesday C. Wednesday D. Thursday E. I'm going to be there on Saturday.
+
+**Answer:** D
+[[src_kangourou_2002_cadet__Q23]]

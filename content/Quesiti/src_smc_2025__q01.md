@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q01
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest perfect cube at most 100 built from 100 small cubes; how many are left over.*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più grande cubo perfetto al massimo 100 costruito da 100 piccoli cubetti; quanti sono rimasti.*
+
+> Pablo ha 100 piccoli cubetti identici. Usa alcuni di loro per costruire il più grande cubo solido possibile. Quanti dei piccoli cubetti sono rimasti?
+>
+> - **(A)** 16
+> - **(B)** 27
+> - **(C)** 36
+> - **(D)** 73
+> - **(E)** 92
+
+**Risposta:** C
+[[src_smc_2025__Q01]]

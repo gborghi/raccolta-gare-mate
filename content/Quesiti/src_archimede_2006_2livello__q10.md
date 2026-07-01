@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_2livello__Q10
 parent: src_archimede_2006_2livello
 competition: Archimede Gara 2° livello 2006 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di radice cubica di 2+√5 più radice cubica di 2-√5*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cubric root value of 2+√5 plus cubic root of 2-√5*
+
+> What is 3p 2 + < MSK0/> 5 + 3p 2 − < MSK1/> 5 ?
+>
+> - **(A)** 3p 9 −4 √ 5
+> - **(B)** 1
+> - **(C)** 3 2
+> - **(D)** 3√ 4
+> - **(E)** 2 3√ 2. Problems with a numerical answer  8 points
+
+**Answer:** B
+[[src_archimede_2006_2livello__Q10]]

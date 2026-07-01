@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q22
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parti massime di una sfera con n tagli*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0044
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum parts of a sphere with n cuts*
+
+> To convince Snow White to eat the apple (which appears suspicious because perfectly spherical after bathing in the magic potion), the witch cuts it to pieces, so that each cut passes through the center. How many apples can you get after seven cuts?
+
+**Answer:** 0044
+[[src_gs_2012_squadre__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1973-74 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1973-74_round1__Q01
 parent: src_bmo_1973-74_round1
 competition: British Mathematical Olympiad 1973-74 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three curves where B bisects area between A and C; find equation of C*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre curve in cui B divide l'area tra A e C; trovare l'equazione di C*
+
+> Le curve $A$, $B$ e $C$ sono correlate in modo tale che $B$ "bisetti" l'area tra $A$ e $C$, cioè l'area della regione $V$ è uguale all'area della regione $W$ in tutti i punti della curva $B$. Trova l'equazione della curva $C$ dato che l'equazione della curva $A$ è $y = \frac{x}{x_0}$ e che l'equazione della curva $B$ è $y = \frac{x}{x_0^2}$.
+
+![[src_bmo_1973-74_round1__Q01.png]]
+
+[[src_bmo_1973-74_round1__Q01]]

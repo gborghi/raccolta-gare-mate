@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Junior 2017 Finale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_junior_f__Q04
 parent: src_kangourou_2017_squadre_junior_f
 competition: Kangourou Coppa Squadre Junior 2017 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *parallelogrammi sulla tastiera*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 176
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*parallelograms on the keyboard*
+
+![[src_kangourou_2017_squadre_junior_f__prob4.png]]
+
+> Unlock your cell phone! Paul has an old cell phone with a keyboard: next to it you can see the layout of the keyboard. Paul had forgotten the pattern of pressing the keys to unlock it. Just remember that the keys were the vertices of a parallelogram and were struck clockwise or counterclockwise. What is the maximum number of attempts Paul will have to make to unlock his cell phone? (Note that for each parallelogram that can be detected on the keyboard, the code changes depending on the starting point.)
+
+**Answer:** 176
+[[src_kangourou_2017_squadre_junior_f__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q05
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *p(128) per polinomio grado 5 con p(2^k)=1/(1-2^k)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 6513
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*p(128) for a polynomial of degree 5 with p(2^k) =1/(1-2^k) *
+
+> Young Banachin, a student of Obi-Van, must hone several skills to become a differential geometer; one of them is to perceive the values of certain polynomials using Force. To train his student, one day Obi-Van thinks of a polynomial p(x) of grade 5 and asks Banachin to determine p(128). The young PDE-wan is not yet skilled enough to discover it directly, but he can sense that p(2k) = 1 1−2k for k = 1, 2, . . . , 6. What's the answer to Obi-Van's question?
+
+**Answer:** 6513
+[[src_cesenatico_2016_finale__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Finale (risposta aperta) — Quesito J3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_finale__QJ3
 parent: src_kangourou_2023_junior_finale
 competition: Kangourou 2023 Junior — Finale (risposta aperta)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *max mentitori*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZqUD0phTjD1vGI9FmGiQjE0m_DFPuY6r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the maximum amount of lying.
+
+![[src_kangourou_2023_junior_finale__probJ3.png]]
+
+> One island is divided into 15 regions as shown in the figure. In every region there is one and only one inhabitant who either always tells the truth or always lies. Each resident says, "There is at least one person in my neighborhood who lies all the time". How many people can be at most lying all the time? (Two inhabitants mean neighbours when their regions share a segment of their edge, not necessarily an entire side of either one.) (see figure)
+
+**Answer:** 6
+[[src_kangourou_2023_junior_finale__QJ3]]

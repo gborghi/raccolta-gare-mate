@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2025 Junior finale — Quesito J6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2025_junior_finale__QJ6
 parent: src_kangourou_2025_junior_finale
 competition: Kangourou 2025 Junior finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *n interi distinti ciascuno divide somma altri n-1*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** vera
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yaW5s2uqbSzbhTrfez8BLdVGZTxAKedo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>n distinct integers each divided by the sum of other n-1< MSK1/>
+
+> Proves or refutes the following statement: For each whole $n \geq 3$ there exist $n$ whole numbers all different from each other such that each of them divides the sum of the remaining $n - 1$.
+
+**Answer:** vera
+[[src_kangourou_2025_junior_finale__QJ6]]

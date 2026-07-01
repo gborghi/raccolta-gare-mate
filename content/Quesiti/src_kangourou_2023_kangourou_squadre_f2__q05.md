@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre_f2__Q05
 parent: src_kangourou_2023_kangourou_squadre_f2
 competition: Kangourou Squadre 2023 Kangourou Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Più grande dei sei numeri minimo, somma 2023*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0340
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*greater than six minimum numbers, sum of 2023*
+
+> The sum of Anna Anna wrote six positive integers all different from each other, summed them up and got 2,023. The largest of the numbers Anna wrote is the smallest one that, under the constraint laid down, allows for such a sum. What's the number?
+
+**Answer:** 0340
+[[src_kangourou_2023_kangourou_squadre_f2__Q05]]

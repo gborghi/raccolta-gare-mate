@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q07
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *probabilita di una giacca blu*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0070
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>probability of a blue jacket< MSK1/>
+
+> Other meetings on the tram
+> 
+> Professor Abacus and a colleague board a tram with 10 people on board. Professor Abacus notes that, among the passengers already present, there are exactly 3 people with blond hair and his colleague notes that, among the passengers already present, there are exactly 3 people wearing a blue jacket. What are the odds that there's at least one person wearing a blue jacket? (Calculate the probability as a percentage assuming that the two events "having blonde hair" or "wearing a blue jacket" are independent, and report the entire part of the result)
+
+**Answer:** 0070
+[[src_archimede_2002_squadre__Q07]]

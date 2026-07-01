@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f3__Q05
 parent: src_obm_1998_n3_f3
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all f: N->N with f(2f(x)) = x + 1998*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le f: N->N con f(2f(x)) = x + 1998*
+
+> Determinare tutte le funzioni $f : \mathbb{N} \to \mathbb{N}$ che soddisfano $f(2f(x)) = x + 1998$ per ogni $x \in \mathbb{N} = \{0, 1, 2, \ldots\}$.
+
+[[src_obm_1998_n3_f3__Q05]]

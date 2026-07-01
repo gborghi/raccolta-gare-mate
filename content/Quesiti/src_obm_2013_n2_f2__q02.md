@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f2__Q02
 parent: src_obm_2013_n2_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest safe combination satisfying three clues*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jz8AX5epqRi_4AzCthzju1jrj_ZupO7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Trova la combinazione più piccola e sicura che soddisfi tre indizi< MSK1/>
+
+> Abel tiene i suoi risparmi in una cassaforte. Per non dimenticare la combinazione della cassaforte, decide di memorizzare i seguenti indizi:
+> 
+> - è un numero maggiore di $3001$; - ha divisori $6$; - è un multiple di $5$.
+> 
+> Abel sa che la sua combinazione e' il numero piu' piccolo che soddisfi tutti gli indizi. Qual è la combinazione sicura di Abele?
+
+[[src_obm_2013_n2_f2__Q02]]

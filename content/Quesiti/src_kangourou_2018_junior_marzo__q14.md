@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q14
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti treni da o per Z tra 40 treni e 5 citta*
 
@@ -58,3 +61,30 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many trains to or from Z between 40 trains and 5 cities
+
+> In one day, 40 trains traveled between two of the cities S, T, U, V, and Z.
+> 	
+> Ten trains travelled either to or from S.
+> 	
+> Ten trains have traveled either to or from T.
+> 	
+> Ten trains have traveled either to or from U.
+> 	
+> Ten trains have traveled either to or from V. How many trains have traveled to or from Z ? A) 0
+> 	
+> B) 10
+> 	
+> C) 20
+> 	
+> D) 30
+> 	
+> E) 40
+
+**Answer:** E
+[[src_kangourou_2018_junior_marzo__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_biennio__Q16
 parent: src_archimede_2014_biennio
 competition: Giochi di Archimede 2014 - Biennio (Testo 1)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area seminata con corda fissata ad angolo della casa*
 
@@ -65,3 +68,16 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Oz_wj_o5ytBhbhCTfVi7OLptFspmtFPH/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area sown by rope fixed to the corner of the house*
+
+![[src_archimede_2014_biennio__prob16.png]]
+
+> Francesco wants to sow an area of his house's garden, which has the shape shown in the figure (grey house and white garden all around). To do this, attach a 2 m rope to the A corner of the house, the curtain and, moving the end, draw the perimeter of the area to be sown. How many square meters will Francesco plant? (A) 2π + √ 3, (B) 15 4 π − √ 3 2 , (C) 31 12π + √ 3 2 , (D) 9 4π, (E) 4π − √ 3 2 −1. 1 m 1 m 2 m 3 m A
+
+**Answer:** C
+[[src_archimede_2014_biennio__Q16]]

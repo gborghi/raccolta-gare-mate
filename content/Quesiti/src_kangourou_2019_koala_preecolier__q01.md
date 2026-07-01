@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q01
 parent: src_kangourou_2019_koala_preecolier
 competition: Kangourou 2019 Koala n.6 Pre-Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale rettangolo contiene solo numeri minori di 7*
 
@@ -36,3 +39,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which rectangle contains only numbers less than 7*
+
+![[src_kangourou_2019_koala_preecolier__prob1.png]]
+
+> Students themselves fill out their own answer cards: in this case, teachers may allow them to fill in the part on the identification data requested in advance.
+
+[[src_kangourou_2019_koala_preecolier__Q01]]

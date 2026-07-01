@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q21
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count pairs (x,y) of positive integers with x^2-y^2=2^2010*
 
@@ -49,3 +52,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare coppie (x,y) di integri positivi con x^2-y^2=2^2010*
+
+> Quante sono le coppie $(x, y)$ di integri positivi come $x^2 - y^2 = 2^{2010}$?
+>
+> - **(A)** $1000$
+> - **(B)** $1001$
+> - **(C)** $1002$
+> - **(D)** $1003$
+> - **(E)** $1004$
+
+[[src_obm_2010_n2_f1__Q21]]

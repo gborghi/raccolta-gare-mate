@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Ecolier (gara marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_ecolier__Q11
 parent: src_kangourou_2012_ecolier
 competition: Kangourou 2012 Ecolier (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero totale di auto nel parcheggio*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total number of cars in the parking lot*
+
+> In a parking lot, there's only white, red and green cars. You know, white cars are 3 or 5, red cars are 4 or 6, green cars are 5 or 7. One of the following is the total number of cars in the parking lot. What kind? A) 13 B) 16 C) 17 D) 19 E) 20
+
+**Answer:** B
+[[src_kangourou_2012_ecolier__Q11]]

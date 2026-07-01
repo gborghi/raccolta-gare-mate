@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2022 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_printemps__Q07
 parent: src_canimath_2022_printemps
 competition: Coupe Animath Printemps 2022
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three-colored plane with all colors present; prove a right triangle with three different-colored vertices*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Piano a tre colori con tutti i colori presenti; dimostrare un triangolo rettangolo con tre vertici di colori diversi*
+
+> Ogni punto del piano è colorato con uno dei tre colori blu, verde o rosso. Per ogni colore, supponiamo che ci sia almeno un punto del piano colorato con quel colore. Mostrare che esiste un triangolo rettangolo le cui tre vertici sono di coppie di colori diversi.
+
+[[src_canimath_2022_printemps__Q07]]

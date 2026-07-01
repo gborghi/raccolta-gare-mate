@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f2__Q04
 parent: src_obm_1999_n1_f2
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 2
@@ -39,6 +40,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distribute coins in boxes so any amount 1–127 reais can be paid with exact boxes*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1, 2, 4, 8, 16, 32, 64
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sVRS4YG1oL_KhveTUD5PLD8vlbfPaSxf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Distribuire le monete in scatole in modo che qualsiasi importo di 1127 reais possa essere pagato con scatole esatte
+
+> Pedro distribuì 127 monete di 1 rea in sette scatole e mise una etichetta su ciascuna di esse indicando il numero di monete in quella scatola. Questa distribuzione è stata effettuata in modo tale che qualsiasi importo da $\$1.00$ to $\$127.00$ possa essere versato tramite la consegna di alcune scatole (senza modifica). Come ha fatto Pedro?
+
+**Risposta:** 1, 2, 4, 8, 16, 32, 64
+[[src_obm_1999_n1_f2__Q04]]

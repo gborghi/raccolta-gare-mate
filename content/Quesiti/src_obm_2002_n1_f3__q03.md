@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f3__Q03
 parent: src_obm_2002_n1_f3
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3
@@ -40,6 +41,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A quadrilateral-shaped park with several gates; label its points so that the numbers along each side add up to the same total T; give an example numbering achieving one possible value of T*
 
@@ -54,3 +57,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15lQ7pjQw33CmRKlTG9zAbRyQY3NZVoW3/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un parco quadrilaterale con più porte; etichettare i suoi punti in modo che i numeri lungo ogni lato si sommano allo stesso totale di T; dare un esempio di numerazione che raggiunga un possibile valore di T*
+
+> Il parco di sotto ha la forma di un quadrilaterale e possiede diversi cancelli (ingressi): uno ad ogni vertice del quadrilaterale e uno su ogni lato. I cancelli devono essere numerati, quattro per quattro, in modo che su ogni lato la somma $T$ dei numeri sia la stessa. Numerare i punti in modo che la somma sia sempre lo stesso numero, pari a $T$. Presenta qui di seguito un esempio di numerazione dei punti che fornisce uno dei possibili valori di $T$.
+
+![[src_obm_2002_n1_f3__Q03.png]]
+
+[[src_obm_2002_n1_f3__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q24
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Characterize all real functions satisfying f(x)(f(x)-x)=0 for all x*
 
@@ -56,3 +59,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Caricare tutte le funzioni reali che soddisfano f(x)(f(x) -x) = 0 per tutte le x*
+
+> Se $f : \mathbb{R} \to \mathbb{R}$ è una funzione tale che, per tutti $x \in \mathbb{R}$, $$f(x)\bigl(f(x) - x\bigr) = 0,$$:
+> 
+> A) $f$ è la funzione zero. B) $f$ è la funzione di identità, cioè $f(x) = x$ per tutte le $x$ reali. C) $f$ è la funzione zero o la funzione identità. D) Esistono esattamente $4$ funzioni possibili $f$. E) Ci sono infinite funzioni $f$.
+
+**Risposta:** E
+[[src_obm_2003_n3_f1__Q24]]

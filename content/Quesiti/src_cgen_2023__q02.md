@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2023 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2023__Q02
 parent: src_cgen_2023
 competition: Concours Général des Lycées 2023 — Matematica
@@ -41,6 +42,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sympathetic polynomials: study existence/uniqueness of strictly positive roots of equations x^d + (1/n)x - 1 = 0 and their limits, then classify polynomials as initially/falsely/truly sympathetic and study convergence of the positive roots of a convergent sequence of such polynomials.*
 
@@ -123,3 +126,51 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UEmDklBRoLwyCF47wsu7dNuzbiS9gQhj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomi simpatici: studiare l'esistenza/unicità di radici rigorosamente positive di equazioni x^d + (1/n)x - 1 = 0 e i loro limiti, quindi classificare i polinomi come inizialmente/falso/vero simpatici e studiare la convergenza delle radici positive di una sequenza convergente di tali polinomi.*
+
+> Problema 2: limite di sintesi.
+> 
+> 2.1 Alcuni esempi.
+> 
+> 1. Per ogni numero intero $n \ge 1$, considera l'equazione (nel sconosciuto $x$) $$x^2 + \frac{1}{n}x - 1 = 0.$$ a. Mostrare che questa equazione ammette una soluzione reale strettamente positiva unica; indicarla $x_n$ ed esprimere $x_n$ come funzione di $n$. b. Indicare che la sequenza $(x_n)_{n \ge 1}$ converge e calcolare il suo limite. c. Indicare che il limite trovato è una soluzione dell'equazione $x^2 - 1 = 0$.
+> 
+> 2. Per ogni numero intero $n \ge 1$, considera l'equazione (nel sconosciuto $y$) $$\frac{1}{n}y^2 - y - 1 = 0.$$ a. Mostrare che questa equazione ammette una soluzione reale strettamente positiva unica; indicarla $y_n$. b. Indicare che la sequenza $(y_n)_{n \ge 1}$ diverge.
+> 
+> 3. Per ogni numero intero $n \ge 1$, considera l'equazione (nel sconosciuto $z$) $$z^3 + \frac{1}{n}z - 1 = 0.$$ a. Mostrare che questa equazione ammette una soluzione reale strettamente positiva unica; indicarla $z_n$. b. i. Studiare le variazioni della funzione $z \mapsto z^3 + \frac{1}{n}z - 1$ nell'intervallo $[0, +\infty)$. ii. Deduzione che l'equazione ammetta una soluzione reale strettamente positiva unica, situata nell'intervallo $[0, 1]$. c. Indicare che la sequenza $(z_n)_{n \ge 1}$ converge. d. Indicare che il limite $z_\infty$ della sequenza $(z_n)_{n \ge 1}$ è una soluzione dell'equazione $z^3 - 1 = 0$.
+> 
+> 4. Per ogni numero intero $n \ge 1$, considera l'equazione (nel sconosciuto $t$) $$\frac{1}{n}t^3 - t^2 - 1 = 0.$$ a. Mostrare che questa equazione ammette una soluzione reale strettamente positiva unica; indicarla $t_n$. b. La sequenza $(t_n)_{n \ge 1}$ è convergente? Se sì, qual è il suo limite?
+> 
+> 2.2 Polinomi simpatici.
+> 
+> In quanto segue, si fissa un intero $d \ge 1$. La funzione $P$ è un polinomio di grado al massimo $d$ se esistono reali $a_0, a_1, \dots, a_d$ in modo tale che, per ogni reale $x$, $$P(x) = a_d x^d + a_{d-1} x^{d-1} + \cdots + a_2 x^2 + a_1 x + a_0.$$ $P : x \mapsto a_d x^d + a_{d-1} x^{d-1} + \cdots + a_2 x^2 + a_1 x + a_0$ sia tale polinomio. Si dice che: - $P$ è inizialmente simpatico se $a_0 = -1$ e $a_k \le 0$ per ogni intero $k$ con $1 \le k \le d$; - $P$ è falsamente simpatico se $a_0 = -1$ e $a_k < 0$ per ogni intero $k$ con $1 \le k \le d$; - $P$ è veramente simpatico se $a_0 = -1$ e esiste un intero <K19/> con $1 \le k \le d-1$ tale che $a_1 \le 0, \dots, a_k \le 0$ e $a_{k+1} \ge 0, \dots, a_d \ge 0$, con $a_d \ne 0$. Infine, si dice che $P$ è comprensivo se è inizialmente comprensivo, falsamente comprensivo o veramente comprensivo. [Nota: le condizioni esatte del segno di queste quattro definizioni sono parzialmente illeggibili nella fonte e la lettura di cui sopra è incerta.]
+> 
+> 5. Tra i polinomi dati (in fonte), quali sono falsamente simpatici e inizialmente simpatici?
+> 
+> 6. Mostrare che qualsiasi polinomio falsamente simpatico è: a. strettamente negativo nell'intervallo $[0, +\infty)$; b. diminuzione nell'intervallo < MSK1/>.
+> 
+> 7. Mostrare che qualsiasi polinomio $P$ che è falsamente simpatico e inizialmente simpatico soddisfa: $P$ diminuisce su un intervallo $[0, r]$, $P$ aumenta rigorosamente su $[r, +\infty)$, $P$ è rigorosamente negativo su $[0, r]$, e l'equazione $P(x) = 0$ ammette una soluzione unica su $[r, +\infty)$.
+> 
+> 8. Lasciate che $P$ sia un polinomio veramente simpatico. a. Mostrare che esiste un reale $b > 0$, un intero $\ell \ge 0$ e un polinomio veramente simpatico $Q$ tale che $P'(x) = b\, x^{\ell}\, Q(x)$ per ogni reale $x$. b. Mostrare che esiste una $r > 0$ reale tale che $P$ soddisfi le stesse proprietà della domanda 7.
+> 
+> 9. Per quali polinomi simpatici $P$ l'equazione $P(x) = 0$ ammette una soluzione unica strettamente positiva? Indicare, sotto forma di tabella di segni, il segno di $P$ nell'intervallo $[r, +\infty)$.
+> 
+> 2.3 Torniamo alle idee.
+> 
+> Da ora in poi, consideriamo i polinomi veramente simpatetici $P_1, P_2, \dots$ di grado al massimo $d$. Si scrive ogni polinomio $P_n$ nella forma $$P_n : x \mapsto a_{d,n} x^d + a_{d-1,n} x^{d-1} + \cdots + a_{1,n} x + a_{0,n}.$$ Si suppone inoltre che, per ogni numero intero $k$ con $0 \le k \le d$, la sequenza $(a_{k,n})_{n \ge 1}$ converge; $a_k$ denota il suo limite. Considera il polinomio $P_\infty$ definito da $$P_\infty : x \mapsto a_d x^d + a_{d-1} x^{d-1} + \cdots + a_1 x + a_0.$$ Per ogni reale $r$, indicare con $x_n$ la soluzione unica strettamente positiva dell'equazione $P_n(x) = 0$. Si studia la possibile convergenza della sequenza < MSK13/>.
+> 
+> 10. Lasciate che $t$ sia un reale fisso. Indicare che la sequenza $(P_n(t))_{n \ge 1}$ converge a $P_\infty(t)$.
+> 
+> 11. Mostra che il polinomio $P_\infty$ è simpatico.
+> 
+> 12. Supponiamo in questa domanda che il polinomio $P_\infty$ sia veramente simpatico, e lasciamo che $x_\infty$ sia la soluzione unica strettamente positiva dell'equazione $P_\infty(x) = 0$. a. $x, x'$ siano reali con $0 < x < x_\infty < x'$. Mostrare che esiste un intero $M_{x,x'}$ tale che $P_n(x) < 0 < P_n(x')$ per ogni intero $n \ge M_{x,x'}$. b. Indicare che la sequenza $(x_n)_{n \ge 1}$ converge a $x_\infty$.
+> 
+> 13. Supponiamo in questa domanda che il polinomio $P_\infty$ sia falsamente simpatico. Indicare che $(x_n)_{n \ge 1}$ diverge da $+\infty$.
+> 
+> 14. Riprendi i risultati della prima parte.
+
+[[src_cgen_2023__Q02]]

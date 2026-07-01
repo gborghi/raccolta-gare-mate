@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_2livello__Q11
 parent: src_archimede_2008_2livello
 competition: Archimede Gara 2° livello 2008 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale lampadina resta accesa (quadrati perfetti, divisori dispari)*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which lamp remains on (perfect squares, odd dividers) *
+
+> There are 10,000 bulbs numbered from 1 onwards, each of which is switched on and off with a normal switch. At the beginning all the lamps are turned off; then all the switches of the lamps marked by multiples of 1 are pressed once (hence all the lamps are turned on), then the switches of all those of equal position (i.e. multiples of 2), then those marked with multiples of 3, then those of the multiples of 4 and so on, are pressed once, until the multiples of 10000. Which of the following light bulbs remains on at the end of operations?
+>
+> - **(A)** Number 9405
+> - **(B)** the number 9406
+> - **(C)** the number 9407
+> - **(D)** the number 9408
+> - **(E)** The number is 9409.
+
+**Answer:** E
+[[src_archimede_2008_2livello__Q11]]

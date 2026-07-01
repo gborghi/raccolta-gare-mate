@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Ecolier finale (maggio) — Quesito E4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_ecolier_maggio__QE4
 parent: src_kangourou_2007_ecolier_maggio
 competition: Kangourou 2007 Ecolier finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero allievi (65 strette di mano)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 18
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fZINTJ5guIb2ezsX6JthVc7FkvQfrpis/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of pupils (65 handshakes) < MSK1/>
+
+> In a classroom where there are at least two males and two females, each boy shakes each girl's hand once. A total of 65 handshakes were made. How many students (without discriminating between males and females) are in that class?
+
+**Answer:** 18
+[[src_kangourou_2007_ecolier_maggio__QE4]]

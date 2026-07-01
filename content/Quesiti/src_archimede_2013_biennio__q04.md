@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2013 - Biennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_biennio__Q04
 parent: src_archimede_2013_biennio
 competition: Giochi di Archimede 2013 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Crittaritmetica TRE+TRE=SEI, proprieta delle cifre*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rhythmic criterion TRE+TRE=SEI, property of the digits *
+
+> Andrea writes the sum of two three-digit numbers with the corresponding result. He then replaces each digit with a letter, matching the same letter to the same digit and using different letters for different digits. This way you get: TRE + TRE = SEI. So, what?
+>
+> - **(A)** the letter E must correspond to an equal number
+> - **(B)** The letter S is necessarily an equal number.
+> - **(C)** the letter E necessarily corresponds to a odd number greater than 4
+> - **(D)** the letter E necessarily corresponds to a number less than 5
+> - **(E)** None of the above statements are true
+
+**Answer:** E
+[[src_archimede_2013_biennio__Q04]]

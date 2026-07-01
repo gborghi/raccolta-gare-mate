@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2008 — Quesito
   11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2008__Q11
 parent: src_bocconi_finalenaz_2008
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2008
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante buche Desiderio ha fatto in 3 tiri, dati 18 buche (par 2 o 3), totale 45 tiri, una sola buca in un tiro.*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6, 7 o 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many holes did Desiderio make in 3 rounds, given 18 holes (for 2 or 3), total 45 rounds, one hole in one shot.
+
+> The "par" of a minigolf hole is the average number of shots a good player takes to get the ball into that hole. Math City's mini-golf has 18 holes: nine have a "pair" of 2 and nine a "pair" of 3. Desiderio has just finished the 18-hole course. For none, the number of shots he fired was equal to the hole pair. He still made as many shots as a good player would make: 45. Only for one hole, Desiderio managed to make a single shot. How many holes did Desiderio have to shoot three times ?
+
+**Answer:** 6, 7 o 8
+[[src_bocconi_finalenaz_2008__Q11]]

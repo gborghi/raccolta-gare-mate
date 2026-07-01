@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2005 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2005__Q01
 parent: src_rmo_2005
 competition: Regional Mathematical Olympiad 2005
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral with equilateral triangles from midpoints is a rhombus*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14uHfQGAx1Ql7Gxjfhz36KBTCxECJwRQt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un quadrilaterale converso con triangoli equilaterali dai punti medi è un rombo*
+
+> Che $ABCD$ sia un quadrilaterale convexo; $P$, $Q$, $R$, $S$ siano i punti di mezzo di $AB$, $BC$, $CD$, $DA$ rispettivamente in modo tale che i triangoli $AQR$ e $CSP$ siano equilaterali. Provare che < MSK11/> è un rombo. Determina le sue angolazioni.
+
+![[src_rmo_2005__Q01.png]]
+
+[[src_rmo_2005__Q01]]

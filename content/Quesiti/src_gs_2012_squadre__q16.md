@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q16
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di pali con allineamenti*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0144
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of poles with alignments*
+
+> In a square field of 200 m on the side, vertical poles were planted, cylindrical in shape, all of them equal to each other. Two of each shall be at least two metres apart. The Queen's three guards enter the camp and position themselves at three distinct points. From their point of view, looking in all directions, each of the guards says they see exactly three poles, all the others remain hidden. How many poles are there on the field?
+
+**Answer:** 0144
+[[src_gs_2012_squadre__Q16]]

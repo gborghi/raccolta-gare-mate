@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1994 — Matematica — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1994__Q05
 parent: src_cgen_1994
 competition: Concours Général des Lycées 1994 — Matematica
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation f(m^2+n^2)=[f(m)]^2+[f(n)]^2 on natural numbers*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale f ((m^2+n^2)=[f(m)]^2+[f(n)]^2 sui numeri naturali*
+
+> Che $f$ sia un'applicazione da $\mathbb{N}$ a $\mathbb{N}$ tale che $f(1) > 0$, e per tutti gli integri naturali $m$ e $n$: $$f(m^2 + n^2) = [f(m)]^2 + [f(n)]^2.$$
+> 
+> 1. Calcolare $f(k)$ per $0 \le k \le 12$. 2. Calcolare $f(n)$, dove $n$ è un intero arbitrario.
+
+[[src_cgen_1994__Q05]]

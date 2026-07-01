@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2011 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2011__Q04
 parent: src_rmo_2011
 competition: Regional Mathematical Olympiad 2011
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count admissible triples of vertices in a 20-sided convex polygon*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11naePAaLu3tt8jkxesNT0s0aRYNpRilH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i triplice di vertici ammissibili in un poligono converso a 20 lati*
+
+> Considera un poligono convex a 20 lati $K$, con vertici $A_1, A_2, \ldots, A_{20}$ in tale ordine. Trovare il numero di modi in cui tre lati di $K$ possono essere scelti in modo che ogni coppia tra loro abbia almeno due lati di $K$ tra loro. (ad esempio $(A_1 A_2, A_4 A_5, A_{11} A_{12})$ è un triplo ammissibile mentre $(A_1 A_2, A_4 A_5, A_{19} A_{20})$ non lo è.)
+
+![[src_rmo_2011__Q04.png]]
+
+[[src_rmo_2011__Q04]]

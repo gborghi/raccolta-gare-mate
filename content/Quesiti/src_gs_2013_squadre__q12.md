@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q12
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli pitagorici, giorno con area data*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0019
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pythagorean triangles, day with given area*
+
+> At Dragon's Rock, where the days of the months are numbered from 3 to 33, King Beapys Baratheon has a magical triangle that changes shape and size depending on the day of the month, but it is always rectangular and the lengths of its sides are whole numbers. If the number of days is not prime, the triangle remains unchanged, whereas if the number of days is prime, the minor triangle has a length equal to the number of days.
+> 
+> On what date, every month, does its area become greater than 1,500 for the first time?
+
+**Answer:** 0019
+[[src_gs_2013_squadre__Q12]]

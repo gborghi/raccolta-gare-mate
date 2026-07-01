@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q11
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *dividere n sassolini in mucchi*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0027
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>divide n rocks into heaps< MSK1/>
+
+> The rocks of Carla
+> 
+> In the garden of Professor Abacus' villa, Carla is playing with rocks. Right now it's got a bunch of 1 rock, then 2 rock. Carla then moves that she has then grouped the pebbles from one side and a little from the other so that the number of pebbles found on one side is equal to the number of pebbles found on the other side; moreover, if she moves a certain pebble from one side to the other, the one with more pebbles has exactly $4/3$ of the other. Carla, who already lives in these things and is already very good at math, wants the two observations to move: if you did it with $m > n$ the thing could not have happened. How much is MSK3/?
+
+**Answer:** 0027
+[[src_archimede_2002_squadre__Q11]]

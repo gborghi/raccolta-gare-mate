@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2024 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2024__Q06
 parent: src_smc_2024
 competition: Senior Mathematical Challenge 2024
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest number of edges of a solid polyhedron with one octagonal face*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Meno numero di bordi di un poliedro solido con una faccia ottagonale*
+
+> Una faccia di un poliedro solido è un ottagono. Qual è il più piccolo numero possibile di bordi che il solido possa avere?
+>
+> - **(A)** $9$
+> - **(B)** $10$
+> - **(C)** $12$
+> - **(D)** $16$
+> - **(E)** $24$
+
+![[src_smc_2024__Q06.png]]
+
+**Risposta:** D
+[[src_smc_2024__Q06]]

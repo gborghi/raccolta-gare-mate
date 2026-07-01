@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_femminile__Q11
 parent: src_squadre_2024_femminile
 competition: Gara a Squadre Femminile 2024 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Possibili prodotti di n interi con cifra aggiunta a sinistra*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Possible products of n integers with the left-hand number added< MSK1/>
+
+> Perverse game [⋆] Mongearty captured poor Wolfram and placed him in the center of a regular polygon of 2024 peaks. To mock SherLog Hodge, Mongearty plays a perverse game: he randomly chooses a subset C of 100 vertices such that there are no two opposites to the center of the polygon. Then he builds all the possible triangles with vertices in C: if Wolfram is outside all these triangles he'll save his life. SherLog has already calculated the fraction f, reduced to the minimum, corresponding to the probability that Wolfram will survive. How much is the f-number?
+
+[[src_squadre_2024_femminile__Q11]]

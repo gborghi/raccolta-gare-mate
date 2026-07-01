@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1999 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1999__Q04
 parent: src_rmo_1999
 competition: Regional Mathematical Olympiad 1999
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Roots of cubic with special form imply $p=q=r$*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aVueqGzgTBFm2YWPkdVpaNOhDYF_ZzH8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rede di cubo con forma speciale implicano $p=q=r$*
+
+> Se $p, q, r$ sono le radici dell'equazione cubica $x^3 - 3px^2 + 3q^2x - r^3 = 0$, indicare che $p = q = r$.
+
+[[src_rmo_1999__Q04]]

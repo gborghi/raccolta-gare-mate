@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f2__Q09
 parent: src_obm_2015_n2_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Measure of angle EOF in right triangle ABC with altitudes and circumcenter*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wtMtyPWLae_AdePjQMTVUzlH24sGYDuO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Meditazione dell'angolo EOF nel triangolo rettangolo ABC con altitudini e circoncentro*
+
+> In un triangolo rettangolo $ABC$, l'angolo di $A$ è $45^\circ$. Le altitudini $BE$ e $CF$ siano le altitudini da $B$ e $C$ ai lati $AC$ e $AB$ rispettivamente, $E$ su $AC$ e $F$ su $AB$, e $O$ sia il centro circostante del triangolo $ABC$ (cioè il centro del cerchio che attraversa $A$, $B$ e $C$). Calcolare la misura dell'angolo $EOF$.
+
+[[src_obm_2015_n2_f2__Q09]]

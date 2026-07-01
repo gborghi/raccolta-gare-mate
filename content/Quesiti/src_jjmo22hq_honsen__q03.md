@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2024 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo22hq_honsen__Q03
 parent: src_jjmo22hq_honsen
 competition: Japan Junior Mathematical Olympiad 2024 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers n,x,y,z and prime p satisfying a product equation*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bmmJByRMGYGsoLlsU-vCwBSdySo_6rjl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli integri positivi n,x,y,z e prime p che soddisfano un'equazione di prodotto*
+
+> Trova tutti gli integri positivi $n$, $x$, $y$, $z$ e i numeri primi $p$ in modo tale che $$(x^2 + y^2)(y^2 + z^2)(z^2 + x^2) = p^n.$$
+
+[[src_jjmo22hq_honsen__Q03]]

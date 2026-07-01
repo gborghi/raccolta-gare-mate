@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2026_semifinale_cd__Q06
 parent: src_squadre_2026_semifinale_cd
 competition: Gara a Squadre 2026 - Semifinale 2 (nazionale)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza PS in dodecagono regolare*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0346
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*PS distance in the regular dodecagon*
+
+![[src_squadre_2026_semifinale_cd__prob6.png]]
+
+> Quamditch Scheme Leonardo Franchi The Quamditch field has the shape of a regular dodecagon. Captain of the Reporter's team, Katherine Race to Teams 2026  Semifinal 2  Problem texts  2/6
+> 
+> Johnson wants to test a pattern: A,B,C,D,E five consecutive vertices of the dodecahedron, puts Henri Perelman at point P, intersection of AC and BD lines, and his twin Smale at point S, intersection of BD and CE lines. He tells Hardy, the team's Demonstrator, that P and C are 200 yards apart, and asks him to calculate the distance (in yards) between Perelman and Smale. Hardy's not wrong. What does Hardy say?
+
+**Answer:** 0346
+[[src_squadre_2026_semifinale_cd__Q06]]

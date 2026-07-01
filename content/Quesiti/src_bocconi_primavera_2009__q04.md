@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2009 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2009__Q04
 parent: src_bocconi_primavera_2009
 competition: Semifinale di Primavera 2009
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti usati per costruire il cubo più grande possibile*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** Luca utilizzerà 216 cubetti.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14prakvd6EDcEQSfmnn_-6oGG4wcPui_K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cubs used to build the largest possible cube*
+
+> In a box, Luke keeps his 220 wooden cubes. The size of each cube is 1 cm. With his cubes, Luke wants to build a big cube, the biggest one possible.
+> 
+> **How many cubes will you use to build it? **
+
+**Answer:** Luca utilizzerà 216 cubetti.
+[[src_bocconi_primavera_2009__Q04]]

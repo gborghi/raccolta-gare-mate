@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q14
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordine finale dei cinque canguri che saltano*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Final order of the five jumping kangaroos*
+
+> Five kangaroos K, L, M, N, and O have five large square tiles in front of them, aligned as shown in the figure. Each kangaroo starts from the position indicated with Parttenza, jumps towards the arrow and at each jump lands on the first free tile it finds. They start in the order that we've listed them for you: K first jumps three times, then L second jumps three times, then M third jumps two times, then N fourth jumps two times, and finally O jumps one time. When O also arrived, in what order are the five kangaroos? (a) the number of persons who have been identified in the report; (b) the number of persons who have been identified;
+
+**Answer:** E
+[[src_kangourou_2013_ecolier__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r1__Q04
 parent: src_pol_2004_r1
 competition: Olimpiade Matematica Polacca 2004 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For all equilateral triangles circumscribed about an acute triangle, their centers lie on one circle.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per tutti i triangoli equilaterali circondati da un triangolo acuto, i loro centri si trovano su un cerchio.*
+
+> Si dà un triangolo a angolo acuto $ABC$. Considerare tutti i triangoli equilaterali $XYZ$ in questo piano in modo che i punti $A,B,C$ si trovino sui segmenti $YZ,ZX,XY$, rispettivamente. Prova che i centri dei triangoli $XYZ$ si trovano su un singolo cerchio.
+
+[[src_pol_2004_r1__Q04]]

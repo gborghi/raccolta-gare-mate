@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 1 —
   Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_nu_f1__Q02
 parent: src_obm_2004_nu_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate an improper integral with arctan-like integrand*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rns90hvVWwghYkYiNKyUvjjjPu-_eNED/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare un'integrale impropria con un'integrazione arctana*
+
+> Valutare l'integrale $\displaystyle\int_{1}^{+\infty} \frac{x^{2004}}{1+x^{2004}}\,dx$.
+
+[[src_obm_2004_nu_f1__Q02]]

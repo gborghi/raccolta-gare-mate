@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2011 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2011__Q03
 parent: src_bocconi_semifinale_2011
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2011
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di mosse per spostare la torre di due cubi sul piedistallo C.*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8 mosse
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of moves to move the two-cube tower on pedestal C.*
+
+> With each move, Anna moves a cube, from the pedestal where it is located, to the one nearby (to her right or to her left). Never, however, at any stage of the game, can the "2" cube be above the "1" cube. How many moves does it take for Anna, at least, to rebuild the tower on pedestal C?
+
+![[src_bocconi_semifinale_2011__Q03.png]]
+
+**Answer:** 8 mosse
+[[src_bocconi_semifinale_2011__Q03]]

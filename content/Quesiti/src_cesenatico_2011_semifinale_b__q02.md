@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_b__Q02
 parent: src_cesenatico_2011_semifinale_b
 competition: Gara a Squadre Cesenatico 2011 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quaterne a,b,c,d con abcd=40! e ab=n!*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7424
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+A, b, c, d with abcd = 40! e ab=n!*
+
+> The Roman scientist Novotonus, who traveled with Julius Caesar's troops, wants to steal some cards with revolutionary mathematical ideas from his rival, Leibnix, who has put them in a safe deposit box. This is opened by inserting four positive integers a, b, c, d, such that a/b and c/d are two irreducible fractions with abcd = 40! e ab = n! where 15 < n < 25. Whether N is the number of four orders that satisfy the conditions, how much does N/1024 do?
+
+**Answer:** 7424
+[[src_cesenatico_2011_semifinale_b__Q02]]

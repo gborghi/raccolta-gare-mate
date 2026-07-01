@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2019 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2019__Q03
 parent: src_garaprime_2019
 competition: Gara Nazionale Classi Prime 2019
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale parola ha il maggior numero di anagrammi*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GTzdagqUQpCUSYBLrYJmJaKl7DQUIbtK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which word has the most anagrams*
+
+> Which of the following words has the most anagrams? (Consider all the anagrams, even the nonsensical ones) A CANNE B CANNE C CENE D CANNE and NANNE F NANNA
+
+**Answer:** A
+[[src_garaprime_2019__Q03]]

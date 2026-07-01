@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2005 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2005__Q03
 parent: src_cn_cgmo_2005
 competition: China Girls' Mathematical Olympiad 2005
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine if a convex polyhedron with specified edge-face incidence exists*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** Yes
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Determine se esiste un poliedro convexo con specificata incidenza sul bordo della faccia< MSK1/>
+
+> Determinare se esiste un poliedro convex tale che (1) abbia 12 bordi, 6 facce e 8 vertici; (2) abbia 4 facce, ciascuna coppia di cui condivide un bordo comune del poliedro.
+
+![[src_cn_cgmo_2005__Q03.png]]
+
+**Risposta:** Yes
+[[src_cn_cgmo_2005__Q03]]

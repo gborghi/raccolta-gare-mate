@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f2__Q09
 parent: src_obm_2009_n2_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 2
@@ -40,6 +41,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Chess tournament 8 players 7 rounds: score possibilities and minimum leader score*
 
@@ -54,3 +57,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zVn-Ppg1US_m2JGCiteYblV0ZNkIrUMX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Torneo a scacchi 8 giocatori 7 round: possibilità di punteggio e punteggio minimo del leader
+
+> Un campionato di scacchi ha 7 round. In ogni round, ogni giocatore fa un punto per una vittoria, mezzo punto per un pareggio e nessun punto per una sconfitta. Ci sono otto partecipanti, e ogni coppia di giocatori si affronterà esattamente una volta.
+> 
+> (a) Dopo il terzo round, è possibile che tutti i giocatori abbiano punteggi distinti? Giustifica la tua risposta.
+> 
+> b) Al termine del campionato, qual è il numero minimo di punti che il giocatore di primo posto avrebbe potuto ottenere? Giustifica la tua risposta.
+
+[[src_obm_2009_n2_f2__Q09]]

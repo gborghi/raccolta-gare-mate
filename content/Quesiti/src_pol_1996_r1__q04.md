@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1996 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1996_r1__Q04
 parent: src_pol_1996_r1
 competition: Olimpiade Matematica Polacca 1996 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A tangent to the incircle of an equilateral triangle meets AB, AC at D, E; prove AD/DB + AE/EC = 1*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Una tangente all'incircolo di un triangolo equilaterale incontra AB, AC a D, E; prova AD/DB + AE/EC = 1*
+
+> Una linea tangente all'incircolo di un triangolo equilaterale $ABC$ si interseca rispettivamente a $AB$ e $AC$ a $D$ e $E$. Prove che $\frac{AD}{DB} + \frac{AE}{EC} = 1$.
+
+[[src_pol_1996_r1__Q04]]

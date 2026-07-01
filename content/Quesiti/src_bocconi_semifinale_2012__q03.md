@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2012 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2012__Q03
 parent: src_bocconi_semifinale_2012
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2012
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Determinare i cellulari venduti a dicembre a partire da dati su vendite di giorni specifici.*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 200
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Determining cell phones sold in December based on data on sales on specific days.*
+
+> Go-go phones
+> 
+> Marco and Michele have a cell phone store. On Thursday, December 29, 2011, at mid-morning, Marco checks and sees that the Wednesday before the store sold 13 phones and only 1 that Thursday morning. The same calculations are made by Michele the next day, Friday, at the end of the morning, just before the year-end closure: the previous Thursday they had sold 15 phones, 4 that same Friday. The total number of phones sold in December was 218.
+> 
+> How many cell phones did they sell in December, before Marco paid his bills?
+
+**Answer:** 200
+[[src_bocconi_semifinale_2012__Q03]]

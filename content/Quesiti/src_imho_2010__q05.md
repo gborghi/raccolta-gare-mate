@@ -1,6 +1,7 @@
 ---
 title: IMO 2010 (LI International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2010__Q05
 parent: src_imho_2010
 competition: IMO 2010 (LI International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coin operations on six boxes, finiteness of sequence reaching 2010^(2010^2010)*
 
@@ -50,3 +53,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P9d2XUiUwFj4g4vYgMP-cLSy51RUJj9w/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Coin operations on six boxes, finiteness of sequence reaching 2010^(2010^2010) *
+
+> In each of six boxes $B_1, B_2, B_3, B_4, B_5, B_6$ there is initially one coin. There are two types of operation allowed:
+> 
+> \textit{Type 1}: Choose a nonempty box $B_j$ with $1 \le j \le 5$. Remove one coin from $B_j$ and add two coins to $B_{j+1}$.
+> 
+> \textit{Type 2}: Choose a nonempty box $B_k$ with $1 \le k \le 4$. Remove one coin from $B_k$ and exchange the contents of (possibly empty) boxes $B_{k+1}$ and $B_{k+2}$.
+> 
+> Determine whether there is a finite sequence of such operations that results in boxes $B_1, B_2, B_3, B_4, B_5$ being empty and box $B_6$ containing exactly $2010^{2010^{2010}}$ coins. (Note that $a^{b^c} = a^{(b^c)}$.)
+
+[[src_imho_2010__Q05]]

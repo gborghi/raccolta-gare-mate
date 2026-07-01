@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n1_f3__Q02
 parent: src_obm_2017_n1_f3
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 3
@@ -39,6 +40,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count the ways to build a 27 cm^3 and a 64 cm^3 cube from cubes of side 1, 2, 3 cm*
 
@@ -55,3 +58,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i modi per costruire un cubo di 27 cm3 e un cubo di 64 cm3 da cubetti di lato 1, 2, 3 cm*
+
+> Jacira ha molti piccoli cubetti i cui lati misurano $1\text{ cm}$, $2\text{ cm}$ o $3\text{ cm}$. Quindi, ad esempio, ha due modi diversi per ottenere un cubo il cui volume è $8\text{ cm}^3$: uno di loro è quello di costruire un cubo con $8$ cubetti di lato $1\text{ cm}$ e l'altro è semplicemente quello di prendere un cubo di lato $2\text{ cm}$, come mostrato nella figura. Si noti che due cubes dello stesso volume vengono ottenuti in modi diversi se, e solo se, sono assemblati con diversi numeri di cubes.
+> 
+> a) In quanti modi diversi può ottenere un cubo con volume < MSK0/>?
+> 
+> b) In quanti modi diversi può ottenere un cubo di volume < MSK0/>?
+
+![[src_obm_2017_n1_f3__Q02.png]]
+
+[[src_obm_2017_n1_f3__Q02]]

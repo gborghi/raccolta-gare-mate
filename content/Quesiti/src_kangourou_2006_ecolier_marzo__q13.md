@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Ecolier (marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q13
 parent: src_kangourou_2006_ecolier_marzo
 competition: Kangourou 2006 Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale figura non e usata nel puzzle*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1pKY5ouqmagp75LpVMmZ7-wegTuPPO_ZD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which figure is not used in the puzzle*
+
+![[src_kangourou_2006_ecolier_marzo__prob13.png]]
+
+> The figure shows a puzzle obtained by joining various cards; some of them have the shape of four of the five figures shown below. Compared to the figures represented, the cards may be rotated or drawn, but not overturned. Which figure wasn't used to compose the puzzle?
+
+**Answer:** C
+[[src_kangourou_2006_ecolier_marzo__Q13]]

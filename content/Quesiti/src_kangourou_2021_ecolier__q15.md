@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - gara marzo — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier__Q15
 parent: src_kangourou_2021_ecolier
 competition: Kangourou 2021 Ecolier - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza della scala antincendio restante*
 
@@ -50,3 +53,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of the remaining fire ladder*
+
+![[src_kangourou_2021_ecolier__prob15.png]]
+
+> On a very high building there are 4 fire stairs, as shown in the figure. For three of the stairs, the corresponding heights in metres are indicated at the top. How long is the remaining ladder? A) 12
+> 	
+> B) 14
+> 	
+> C) 16
+> 	
+> D) 20
+> 	
+> E) 22
+
+**Answer:** D
+[[src_kangourou_2021_ecolier__Q15]]

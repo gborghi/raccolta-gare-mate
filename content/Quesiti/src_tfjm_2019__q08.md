@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2019__Q08
 parent: src_tfjm_2019
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tiling a quartier of an infinite equilateral-triangle grid (Los Angeles) with rhombi (losanges)*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tinging un quartiere di una griglia triangolare equilaterale infinita (Los Angeles) con rhombi (losangi)*
+
+> La città di Los Angeles si fonda su una griglia triangolare infinita in cui ogni triangolo equilaterale di lato $1$ è un edificio (\emph{immeuble}), come nella Figura 14. Un quartiere di questa città è un insieme finito di edifici. Si dice che due edifici che hanno un lato in comune siano vicini. Vuole dividere i quartieri della sua città in coproprietà, che sono losanges (rhombi) formati da due edifici vicini. Tale divisione di un quartiere $Q$ è chiamata "losangizzazione". Il numero di perdite possibili di un quartiere $Q$ è indicato come $\mathrm{Los}(Q)$. Per esempio, per la figura 14 si ha $\mathrm{Los}(Q) = 0$ perché è impossibile sanguinare il quartiere blu. Per la figura 15 si trova $\mathrm{Los}(Q) = 1$ perché esiste un modo unico per sanguinare il quartiere arancione. In quel caso, quante perdite di sangue sono possibili? In caso contrario, quante coproprietà può formare un individuo al massimo? a) Un triangolo equilaterale laterale < MSK7/>. b) Una perdita di lato < MSK8/>. c) Una perdita laterale < MSK9/> da cui sono stati rimossi due edifici. In quest'ultimo caso, adattare la risposta in base alla posizione degli edifici rimossi. Per sapere se è possibile una perdita di sangue, Lamia chiede ulteriori informazioni sui quartieri della città. Si dice che due edifici dello stesso quartiere $Q$ siano dello stesso tipo se sono orientati nella stessa direzione e se i loro vicini nel quartiere $Q$ sono sullo stesso lato. Ad esempio, nella figura 16, gli edifici $1$ e $6$ sono dello stesso tipo, così come gli edifici $2$ e $4$. Tutti gli altri edifici sono unici. In un quartiere che lei non conosce, Lamia conosce il numero di edifici di ogni tipo. Questa informazione è indicata come < MSK17/>. Ad esempio, nella Figura 16 sa che ci sono esattamente due edifici del tipo "indicando verso l'alto, con un solo vicino in alto a destra", nessun edificio del tipo "indicando verso l'alto, senza vicino", ecc. Cercate condizioni sufficienti. È possibile trovare condizioni necessarie e sufficienti su $I$?\n\n\textbf{3.} Deduzione dai limiti $I$ il più preciso possibile su $\mathrm{Los}(Q)$.\n\nLa valenza di un edificio è il numero di vicini di questo edificio che si trovano nello stesso quartiere. Per $0 \le i \le 3$ si indica con $V_i(Q)$ il numero di edifici di valenza $i$ in $Q$.\n\n\textbf{4.} Quali sono i quadrupletti $(V_0(Q), V_1(Q), V_2(Q), V_3(Q))$ possibili nel caso in cui: (a) $Q$ sia un quartiere arbitrario? (b) $Q$ è un quartiere perduibile?\n\n\textbf{5.} Proporre e studiare altre vie di ricerca.
+
+![[src_tfjm_2019__Q08.png]]
+
+[[src_tfjm_2019__Q08]]

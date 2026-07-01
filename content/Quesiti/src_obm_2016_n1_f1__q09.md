@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f1__Q09
 parent: src_obm_2016_n1_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1
@@ -40,6 +41,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle of integer sides with perimeter 58 and square area; find side of square.*
 
@@ -55,3 +58,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo di lati interi con perimetro 58 e superficie quadrata; trovare lato di quadrato.*
+
+> Un rettangolo ha dimensioni interi $x$ e $y$ e la sua superficie è uguale a quella di un quadrato laterale $n$. Trova < MSK3/>.
+> 
+> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: $2x+2y = 58$ quindi $x+y = 29$; le possibili coppie $(x,y)$ sono $(1,28),(2,27),(3,26),\dots,(14,15)$. Di questi, solo $(4,25)$ dà un prodotto che è un quadrato perfetto, $4\cdot 25 = 100$, quindi $n = \sqrt{4\cdot 25} = \sqrt{100} = 10$.]
+
+**Risposta:** C
+[[src_obm_2016_n1_f1__Q09]]

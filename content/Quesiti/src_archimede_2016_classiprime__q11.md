@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2016 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_classiprime__Q11
 parent: src_archimede_2016_classiprime
 competition: Gara Nazionale Classi Prime 2016
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Divisori comuni di n e m (MCD e suoi divisori)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11_tVYKZUBusCSJwiRULQD9nPIEI-cYvl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Common n and m dividers (MCD and its dividers) < MSK1/>
+
+> They are n = 11.112.222 and m = 11.118.888. How many positive integers exactly divide both m and n? A 16 B 8 C 2 D 4 E 24 F 6
+
+**Answer:** A
+[[src_archimede_2016_classiprime__Q11]]

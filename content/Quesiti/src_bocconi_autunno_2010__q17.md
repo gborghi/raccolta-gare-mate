@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2010 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2010__Q17
 parent: src_bocconi_autunno_2010
 competition: Giochi d'Autunno 2010
@@ -31,6 +32,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo maggiore di un triangolo con lati 8, 25,6 e 30,4 cm*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $120^\circ$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Major angle of a triangle with sides of 8, 25,6 and 30,4 cm*
+
+> The Desiderio Triangle is intersected by a triangle whose sides measure 8 cm; 25.6 cm; 30.4 cm respectively . What is the size (in degrees) of the largest of the angles of the triangle?
+
+**Answer:** 120^\circ
+[[src_bocconi_autunno_2010__Q17]]

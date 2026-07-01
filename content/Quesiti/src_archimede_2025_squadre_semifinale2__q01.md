@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_semifinale2__Q01
 parent: src_archimede_2025_squadre_semifinale2
 competition: Gara a Squadre Nazionale 2025 - Semifinale 2
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conta interi a 3 cifre con scambio cifre differenza 9*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0162
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tri-digit integer with exchange of 9 digits difference *
+
+> Secret agent James Bound has just brilliantly completed his last assignment. In it he had to count the number of positive integers of exactly three digits such that, exchanging between them the second and third digits counted from the left, the difference (in absolute value) between the starting number and the number obtained by the exchange is 18. How many did you count? For example, 331 and 313 are good because ∙331−313 is equal to 18 and should be counted as distinct.
+
+**Answer:** 0162
+[[src_archimede_2025_squadre_semifinale2__Q01]]

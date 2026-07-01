@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q30
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorni alla prossima data divisibile 10001*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Days to the next divisible date 10001< MSK1/>
+
+> 2003 is a prime number. Today is 20-03-2003: by removing the dashes that separate the day from the month from the year (and the spaces in relation to it), we would write 2003-2003, and this number is divisible by 10001. How many days will pass before the next date, which, following the same criteria, would be represented by a number still divisible by 10001? A) 365 B) 366 C) 396 D) 397 E) none of the above answers
+> 
+> Comments on the level of Benjamin I and II average
+
+**Answer:** D
+[[src_kangourou_2003_benjamin__Q30]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2002 - Biennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_biennio__Q03
 parent: src_archimede_2002_biennio
 competition: Giochi di Archimede 2002 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo fogli calendario per il terzo millennio*
 
@@ -45,3 +48,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum calendar sheets for the third millennium
+
+> Maximo wants to save on calendars. Then he printed a lot of paper with the number of days and next to each number on the day of the week. Each month, Maximo chooses the appropriate sheet and places a label (removable) with the month's name on it. How many sheets must he have printed at least if he wants the calendar to be used for the entire third millennium?
+>
+> - **(A)** 12
+> - **(B)** 24
+> - **(C)** 28
+> - **(D)** 30
+> - **(E)** 32.
+
+[[src_archimede_2002_biennio__Q03]]

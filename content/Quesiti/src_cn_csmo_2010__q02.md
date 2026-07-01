@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2010 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2010__Q02
 parent: src_cn_csmo_2010
 competition: China Southeastern Mathematical Olympiad 2010
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of products of all 99-element subsets of {1,...,2010} is divisible by 2011*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La somma dei prodotti di tutti i sottoinsiemi di 99 elementi di {1,...,2010} è divisibile per 2011*
+
+> Per ogni sottoinsieme di 99 elementi $A = \{a_1, a_2, \ldots, a_{99}\}$ di $\{1, 2, \ldots, 2010\}$, indicare $P(A) = a_1 \cdot a_2 \cdots a_{99}$. $A_1, A_2, \ldots, A_n$ siano tutti i sottoinsiemi di 99 elementi di $\{1, 2, \ldots, 2010\}$, $n = \binom{2010}{99}$. Prove che $2011 \mid \sum_{i=1}^{n} P(A_i)$.
+
+[[src_cn_csmo_2010__Q02]]

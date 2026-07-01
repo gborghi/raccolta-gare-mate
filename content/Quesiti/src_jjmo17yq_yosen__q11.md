@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo17yq_yosen__Q11
 parent: src_jjmo17yq_yosen
 competition: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumradius given incenter, orthocenter, AI=5, AH=6, angle AIH=90*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{75}{7}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YyPhdRC8ta06c--Y1mxGSGuS4yujWAKb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Circumradius dato incentro, ortocentro, AI=5, AH=6, angolo AIH=90< MSK1/>
+
+> Che $I$ sia il centro e $H$ l'ortocentro del triangolo $ABC$. Poiché $AI = 5$, $AH = 6$ e $\angle AIH = 90^\circ$ si tengono, si trova la lunghezza del raggio del circolo circumscritto del triangolo $ABC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** \frac{75}{7}
+[[src_jjmo17yq_yosen__Q11]]

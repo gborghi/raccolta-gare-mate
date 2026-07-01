@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2010 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo20mq_honsen__Q05
 parent: src_jmo20mq_honsen
 competition: Japan Mathematical Olympiad 2010 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max self-intersections of closed diagonal tour of convex 2010-gon*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5fGMf22vQ1jtaAwviwMBT_2MQ0Xy9uz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Maximi intersezioni di rotta diagonale chiusa di convex 2010-gon< MSK1/>
+
+> Si dà un convex $2010$-gon in cui non ci sono tre diagonali che abbiano un punto comune diverso dai vertici. Considera una linea chiusa rotta che è costituita da diagonali $2010$ (i lati del poligono non sono ammessi) e attraversa ogni vertice esattamente una volta. Trova il numero massimo possibile di intersezioni di una linea rotta chiusa.
+> 
+> (Per una linea rotta $P_1 P_2 \cdots P_n P_{n+1}$ con $P_1 = P_{n+1}$, la chiamiamo una linea rotta chiusa.)
+
+[[src_jmo20mq_honsen__Q05]]

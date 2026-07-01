@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Triennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_triennio__Q04
 parent: src_archimede_2025_triennio
 competition: Giochi di Archimede 2025 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi m di tre cifre con f(m)=f(m-1)+25, somma e prodotto cifre*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Tri-digit integers m with f(m) = f(m-1) +25, sum and product of digits< MSK1/>
+
+> In the isosceles triangle DEF, where DE = EF, the angle  E is 32°. The height from D and the beam from F intersect at point I. What is the width of the convex angle  DIF ?
+>
+> - **(A)** 129°
+> - **(B)** 126°
+> - **(C)** 128°
+> - **(D)** 127°
+> - **(E)** 130°
+
+**Answer:** D
+[[src_archimede_2025_triennio__Q04]]

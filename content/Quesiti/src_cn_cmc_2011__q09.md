@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2011 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2011__Q09
 parent: src_cn_cmc_2011
 competition: China Mathematical Competition 2011
@@ -31,6 +32,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find a, b given conditions on f(x)=|lg(x+1)|*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $a = -\dfrac{2}{5}$, $b = -\dfrac{1}{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca a, b le condizioni indicate su f(x)=dichiarazione(x+1)
+
+> Supponiamo che $f(x) = |\lg(x + 1)|$ e i numeri reali $a$, $b$ ($a < b$) soddisfino $f(a) = f\!\left(-\dfrac{b+1}{b+2}\right)$, $f(10a + 6b + 21) = 4\lg 2$. Trova i valori di $a$, $b$.
+
+**Risposta:** $a = -\dfrac{2}{5}$, $b = -\dfrac{1}{3}$
+[[src_cn_cmc_2011__Q09]]

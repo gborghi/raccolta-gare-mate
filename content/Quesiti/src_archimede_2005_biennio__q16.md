@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Biennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_biennio__Q16
 parent: src_archimede_2005_biennio
 competition: Giochi di Archimede 2005 - Gara Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante cifre per scrivere i numeri da 1 a 2005*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many digits to write numbers from 1 to 2005*
+
+> Andrea did not do the homework and as punishment the teacher assigned him the task of writing all the numbers between 1 and 2005, including extreme numbers (each number must be written only once). How many digits will Andrea have to write in the whole thing?
+>
+> - **(A)** 6900,
+> - **(B)** 6903,
+> - **(C)** 6910,
+> - **(D)** 6913,
+> - **(E)** 6923.
+
+**Answer:** D
+[[src_archimede_2005_biennio__Q16]]

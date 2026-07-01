@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q13
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante regioni grigie hanno stesso perimetro del foglio*
 
@@ -48,3 +51,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many grey regions have the same perimeter as the sheet*
+
+![[src_kangourou_2013_benjamin__prob13.png]]
+
+> In the figure, you see six square sheets. Each contains a region, highlighted in dark gray, which leaves some rectangular (possibly square) portions of paper free. How many regions highlighted in dark gray have the same perimeter as the square foil that houses them? A) 2
+>         	
+> B) 3
+>  	
+> C) 4
+>          	
+> D) 5
+>    	
+> E) 6
+
+**Answer:** C
+[[src_kangourou_2013_benjamin__Q13]]

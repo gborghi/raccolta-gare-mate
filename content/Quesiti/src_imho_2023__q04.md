@@ -1,6 +1,7 @@
 ---
 title: IMO 2023 (LXIV International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2023__Q04
 parent: src_imho_2023
 competition: IMO 2023 (LXIV International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sum involving reciprocals is always an integer*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Sum involving reciprocals is always an integer
+
+> Let $x_1, x_2, \ldots, x_{2023}$ be pairwise different positive real numbers such that $$a_n = \sqrt{(x_1 + x_2 + \cdots + x_n)\left(\frac{1}{x_1} + \frac{1}{x_2} + \cdots + \frac{1}{x_n}\right)}$$ is an integer for every $n = 1, 2, \ldots, 2023$. Prove that $a_{2023} \ge 3034$.
+
+[[src_imho_2023__Q04]]

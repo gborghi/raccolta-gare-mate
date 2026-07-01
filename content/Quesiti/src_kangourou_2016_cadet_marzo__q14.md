@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q14
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *chi ha disputato la finale*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*who played the final*
+
+> Mauro transcribes the results of the quarter-finals, semi-finals and the final of a knockout tournament. The results, in an order that does not necessarily reflect that of the matches, are: Bruno beats Alex, Carlo beats Dino, Gianni beats Luigi, Gianni beats Carlo, Carlo beats Bruno, Enrico beats Franco and Gianni beats Enrico. Which pair of players played the final? A) Gianni and Luigi B) Gianni and Carlo C) Carlo and Bruno D) Gianni and Enrico E) Carlo and Dino
+
+**Answer:** B
+[[src_kangourou_2016_cadet_marzo__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale_a__Q09
 parent: src_kangourou_2019_ecolier_semifinale_a
 competition: Kangourou Coppa Ecolier squadre 2019 Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chilometri totali percorsi da Mario (salita discesa)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0018
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total kilometres travelled by Mario (descent jump) *
+
+> In three hours Mario went up to a shelter and without stopping he went down the valley. It went up to an average speed of 4 km/h and down to 12 km/h. How many miles has Mario walked back and forth?
+
+**Answer:** 0018
+[[src_kangourou_2019_ecolier_semifinale_a__Q09]]

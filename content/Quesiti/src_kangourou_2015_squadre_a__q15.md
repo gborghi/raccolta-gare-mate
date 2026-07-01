@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q15
 parent: src_kangourou_2015_squadre_a
 competition: Kangourou Coppa Squadre 2015 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Resto della divisione di N^11 per 2015, N=2 mod 2015*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 33
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Remaining of the N^11 division for 2015, N=2 mod 2015< MSK1/>
+
+> The division for 2015 A number divided by 2015 gives the remainder 2. What's the rest of Division 11 for 2015?
+>  
+>  
+>  
+> 
+> Kangourou of Mathematics 2015 Kangourou Team Cup Semifinal round at Cervia, 9 May 2015
+>  
+>  
+> Questions and solutions
+
+**Answer:** 33
+[[src_kangourou_2015_squadre_a__Q15]]

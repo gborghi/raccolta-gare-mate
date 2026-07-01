@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet finale individuale — Quesito C5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_finale__QC5
 parent: src_kangourou_2022_cadet_finale
 competition: Kangourou 2022 Cadet finale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo partite perche ognuno sia compagno di tutti*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wbo9K2jytgSW3Apd8Ui4HwgiuetWkwYM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum matches so that everyone is a partner of everyone*
+
+> To train, the 12 players of a basketball team each day are divided into two teams, each of six players, who play a game against each other. What is the minimum number of matches that allows each player to play at least one match in the same team with each other?
+
+**Answer:** 3
+[[src_kangourou_2022_cadet_finale__QC5]]

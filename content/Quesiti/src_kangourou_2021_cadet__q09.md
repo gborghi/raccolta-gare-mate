@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q09
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Combinazione corretta ruotando le ghiere di 180*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Correct combination by rotating the gears of 180*
+
+![[src_kangourou_2021_cadet__prob9.png]]
+
+> A combination lock is made up of four bars, each of which is given in the order of 0 to 9. To obtain the correct combination, you need to turn each gear shown in the figure next to 180°. Which of the following is the correct combination of the lock? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** B
+[[src_kangourou_2021_cadet__Q09]]

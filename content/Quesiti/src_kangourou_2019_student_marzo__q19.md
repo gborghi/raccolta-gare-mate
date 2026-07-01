@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q19
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo intero minore della radice nidificata di 20*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum whole less the nested root of 20< MSK1/>
+
+> The largest integer smaller than √ 20 + √ 20 + √ 20 + √ 20 + √ 20 is A) 4.
+> 	
+> B) 5.
+> 	
+> C) 6.
+> 	
+> D) 20. E) 25
+
+**Answer:** A
+[[src_kangourou_2019_student_marzo__Q19]]

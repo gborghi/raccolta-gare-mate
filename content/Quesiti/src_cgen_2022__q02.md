@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2022 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2022__Q02
 parent: src_cgen_2022
 competition: Concours Général des Lycées 2022 — Matematica
@@ -40,6 +41,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Lattice path M_k with steps i or j; alignment of three or more points; Stern-Brocot / Farey-style tight fractions, naive mediants, principal intervals, and pigeonhole to force n aligned points*
 
@@ -108,3 +111,41 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CDKdOobrMp7gzmKvpT87_FjVRxny9v1t/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Costruzione del percorso lattice M_k con passi i o j; allineamento di tre o più punti; frazioni strette di stile Stern-Brocot/Farey, medianti ingenui, intervalli principali e forze di buco di piccione per forzare n punti allineati*
+
+> Il problema 2: mantenere il corso.
+> 
+> Lasciate che $(O, \vec{\imath}, \vec{\jmath})$ sia una cornice ortonormale del piano. Per questo problema, consideriamo un intero fisso $n \ge 2$ nonché una famiglia di punti $(M_k)_{k \ge 0}$, dove $M_0 = O$ e, per ogni intero $k \ge 0$, il vettore $\overrightarrow{M_k M_{k+1}}$ è uguale a $\vec{\imath}$ o a $\vec{\jmath}$. L'obiettivo del problema è quello di studiare se si possa trovare un allineamento di tre o più punti tra i punti $M_k$.
+> 
+> Nota: nel resto dell'esercizio, se viene data una frazione $\frac{p}{q}$, essa verrà anche indicata $p/q$.
+> 
+> 2.1 Studi di piccoli valori < MSK0/>. 1. Indicare che la sequenza $(M_k)_{k \ge 0}$ contiene sempre tre punti allineati. 2. Indicare che la sequenza $(M_k)_{k \ge 0}$ contiene sempre quattro punti allineati.
+> 
+> 2.2 Preliminarie. 3. Mostrare che esiste una sequenza $(u_k)_{k \ge 0}$ tale che, per ogni numero intero $k \ge 0$: - il vettore $\overrightarrow{M_k M_{k+1}}$ è uguale a $\vec{\imath} - (k - u_k)\,\vec{\jmath}$; - il termine $u_{k+1}$ è uguale a $u_k$ o a $1 + u_k$. 4. Indicare che, se esistono due integri naturali $s$ e $t$ tali che $u_k = sk + t$ per $n$ integri $k$, la sequenza $(M_k)_{k \ge 0}$ contiene $n$ punti allineati.
+> 
+> Nel resto del problema, per ogni intero $k \ge 1$, impostamo $v_k = u_k / k$. 5. Indicare che, per ogni numero intero $k \ge 1$, $v_k$ è un numero situato tra $0$ e $1$.
+> 
+> Nel corso del problema useremo spesso la nozione di parte integrale; chiamiamo il risultato seguente il principio del buco di piccione ed è oggetto della domanda seguente. 6. $k$ e $\ell$ siano due numeri interi, con $k$ non zero. Se si distribuiscono gli oggetti $k\ell$ (cassette) in cassetti $\ell$ (tiroirs), dimostrare che almeno uno dei cassetti $\ell$ contiene almeno $k$ oggetti.
+> 
+> 2.3 Barriere razionali. In questa parte, consideriamo una frazione irriducibile $a/b$ che si trova tra $0$ e $1$ ($a$ e $b$ naturali con $0 \le a \le b$ e $b \ge 1$). 7. $k \ge 1$ sia un numero intero tale che $v_k = a/b$ e $v_{k+1} = a/b \ne v_k$. Indicare che: $$a - b \le b\,u_k - a\,k \le a.$$ 8. Se esiste un numero intero $k$ tale da $v_k = a/b \le v_{k+1}$ o $v_{k+1} = a/b$, la sequenza contiene $n$ punti allineati.
+> 
+> 2.4 Coppie strette, mezzi ingenui e sovrapposizioni di intervalli principali. Lasciate che $a/b$ e $c/d$ siano due frazioni irriducibili, con $a/b$ strettamente positive; si dice che la coppia sia stretta (serra) se $bc - ad = 1$. In questo caso, chiamiamo intermediario ingenuo (mediante ingenuo) del principale delle frazioni $a/b$ e $c/d$ la frazione $(a+c)/(b+d)$. Infine, chiamiamo l'intervallo principale delle frazioni $a/b$ e $c/d$ l'intervallo $[a/b; c/d]$, e il inferiore di questa frazione $e/f$. 9. Mostra che, se $a/b$ e $c/d$ sono due frazioni irriducibili la cui coppia è stretta, allora la coppia che coinvolge $(a+c)/(b+d)$ è anche stretta. 10. Lasciate $(a/b; c/d)$ essere un paio di frazioni strette. a. Mostra che < MSK15/>. b. Che $x/y$ sia una media ingenua (mediante) tra le due frazioni $a/b$ e $c/d$. Indicare che < MSK19/> è maggiore di < MSK20/> e inferiore a < MSK21/>. 11. Mostrare che, essendo $a/b$, $c/d$ e $e/f$ frazioni irriducibili in modo tale che le coppie $(a/b; c/d)$ e $(c/d; e/f)$ siano strette, il mezzo ingenuo si trova nell'intervallo principale inferiore della frazione $e/f$.
+> 
+> Ora consideriamo la seguente costruzione con i primi naturali. L'elenco inizia con le due frazioni irriducibili $0/1$ e $1/1$. Poi, finché si possono prendere due frazioni consecutive $a/b$ e $c/d$ in modo tale che $b < d < 2n$, uno inserisce tra queste due frazioni il loro mediante ingenuo $(a+c)/(b+d)$. 12. Mostrare che questo processo termina necessariamente e che l'elenco ottenuto contiene al massimo $4n^2$ frazioni, di cui ogni coppia di frazioni consecutive è una coppia stretta.
+> 
+> $0/1 = q_1 < q_2 < \cdots < q_\ell = 1/1$ siano le frazioni $\ell$ ottenute alla fine del processo di cui sopra. Per ogni numero intero $k$ con $1 \le k \le \ell - 1$, indichiamo con $r_k$ il mediante ingenuo delle frazioni $q_k$ e $q_{k+1}$. 13. Indicare che i denominatori delle frazioni $r_k$ appartengono tutti all'intervallo $[2n; 4n - 1]$. 14. Indicare che, per ogni numero intero $k$ con $1 \le k \le \ell - 1$, ciascuno degli intervalli $[q_k; r_k]$ e $[r_k; q_{k+1}]$ è incluso in un intervallo principale.
+> 
+> 2.5 Coincidenza in un intervallo principale. Che la $a/b$ sia una frazione irriducibile. Supponiamo che esista un intero $\ell \ge 1$ tale che ciascuno dei termini $v_{\ell n}, v_{\ell n + 1}, \ldots, v_{2\ell n - 1}$ appartenga all'intervallo $[\frac{a}{b}; \frac{c}{d}]$. 15. Indicare che $0 \le b\,u_k - a\,k < f$ per ogni numero intero $k$ tale che $\ell n \le k \le 2\ell n - 1$. 16. Riduzione che la sequenza $(M_k)_{k \ge 0}$ contiene $n$ punti allineati.
+> 
+> Ora supponiamo che esista un intero $\ell > 1$ tale che ciascuno dei termini $v_{\ell n}, v_{\ell n + 1}, \ldots, v_{2\ell n - 1}$ appartiene all'intervallo $[\frac{a}{b}; \frac{c}{d}]$. 17. Sosteni, in base a queste nuove ipotesi, che la sequenza $(M_k)_{k \ge 0}$ contiene $n$ punti allineati.
+> 
+> 2.6 Conclusione. 18.a. Indicare che la sequenza $(M_k)_{k \ge 0}$ contiene necessariamente $n$ punti allineati. b. Indicare che i primi punti $n \times 2^{32 n^2}$ della sequenza $(M_k)_{k \ge 0}$ contengono punti allineati $n$. (Qualsiasi risposta che porti a un valore finito diverso da $n \times 2^{32 n^2}$ sarà presa in considerazione e attribuita secondo il valore proposto.)
+> 
+> 2.7 verso l'infinito e oltre! 19. La sequenza $(M_k)_{k \ge 0}$ contiene necessariamente un infinito di punti allineati?
+
+[[src_cgen_2022__Q02]]

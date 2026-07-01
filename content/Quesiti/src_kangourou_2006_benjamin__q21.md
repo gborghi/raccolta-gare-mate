@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q21
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro di ogni triangolo da parallelogramma e rombo*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of each triangle from parallelogram and rhombus*
+
+![[src_kangourou_2006_benjamin__prob21.png]]
+
+> In Figures 1 and 2 two quadrilaterals are represented, each constructed by approaching the same two equal isosceles triangles: the first is a parallelogram, the second a rombo. The perimeter of the parallelogram is 3 centimeters longer than the perimeter of each triangle; instead, the perimeter of the rim is 7 centimeters longer than that of each triangle. So the perimeter of each triangle is in centimeters, A) 3 B) 7 C) 11 D) 13 E) 16
+
+**Answer:** D
+[[src_kangourou_2006_benjamin__Q21]]

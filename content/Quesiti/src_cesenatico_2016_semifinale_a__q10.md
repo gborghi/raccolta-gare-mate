@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_semifinale_a__Q10
 parent: src_cesenatico_2016_semifinale_a
 competition: Gara a Squadre Cesenatico 2016 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore AB*CF+BC*AD+AC*BE (ortocentro)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1152
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total value of the assets under management of the institution.
+
+> Bogon bureaucracy The Bogons have captured Trillion! Arthur can release her with a presidential release order signed by Jacob, but first she must undergo another Bogon geometry session. Whether ABC is an H orthogonal triangle with AB = 84, AC = 32 √ 3 and \ BAC = 60°. If D is a point on the AH segment such that 7AD = AH, and a point on the BH segment such that 7BE = BH, F is a point on the CH segment such that 7CF = CH. What is AB ·CF +BC ·AD +AC ·BE worth?
+
+**Answer:** 1152
+[[src_cesenatico_2016_semifinale_a__Q10]]

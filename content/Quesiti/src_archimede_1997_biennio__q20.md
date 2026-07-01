@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Biennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_biennio__Q20
 parent: src_archimede_1997_biennio
 competition: Giochi di Archimede 1997 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che un ragazzo resti senza giocattoli*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TBCBxk41PfhfCNwF0me53U4VCY16S0qo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The likelihood that a boy will run out of toys
+
+> At a birthday party, four toys are drawn among the three boys present. The drawings are independent, meaning that all the boys participate in all the drawings. What is the probability that there is at least one boy left without toys?
+>
+> - **(A)** p = 4 9
+> - **(B)** 4 9 < p < 1 2
+> - **(C)** p = 1 2
+> - **(D)** 1 2 < p < 5 9
+> - **(E)** p = 5 9.
+
+**Answer:** E
+[[src_archimede_1997_biennio__Q20]]

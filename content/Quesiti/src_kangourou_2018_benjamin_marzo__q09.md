@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q09
 parent: src_kangourou_2018_benjamin_marzo
 competition: Kangourou 2018 Benjamin - Gara 15 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punti realizzati al terzo turno di freccette*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Points made on the third arrow round*
+
+![[src_kangourou_2018_benjamin_marzo__prob9.png]]
+
+> In the first round, Diana scored 14 points with three arrows on the back of the net; in the second round, she scored 16. How many points did you score in the third round? A) 17
+> 	
+> B) 18
+> 	
+> C) 19
+> 	
+> D) 20 E) The information is insufficient to answer.
+
+**Answer:** B
+[[src_kangourou_2018_benjamin_marzo__Q09]]

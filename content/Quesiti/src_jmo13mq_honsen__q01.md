@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2003 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo13mq_honsen__Q01
 parent: src_jmo13mq_honsen
 competition: Japan Mathematical Olympiad 2003 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle BRC in triangle ABC with equal-length conditions*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10-DDRKMteTHYfjsW5yYE7XwybI34H8OB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova l'angolo BRC nel triangolo ABC con condizioni di lunghezza uguale*
+
+> Il punto $P$ deve essere un punto all'interno del triangolo $ABC$. Il $Q$ è l'intersezione della linea $BP$ con il lato $AC$ e il $R$ è l'intersezione della linea $CP$ con il lato $AB$. Supponiamo che $$AR = RB = CP \quad \text{and} \quad CQ = PQ.$$ Trova la misura di $\angle BRC$.
+> 
+> (Qui, per due punti $X$ e $Y$, la lunghezza del segmento $XY$ è indicata da $XY$.)
+
+[[src_jmo13mq_honsen__Q01]]

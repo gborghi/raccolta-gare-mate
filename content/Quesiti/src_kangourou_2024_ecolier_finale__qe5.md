@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Ecolier 2024 — Quesito E5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_finale__QE5
 parent: src_kangourou_2024_ecolier_finale
 competition: Kangourou Finale Ecolier 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali numeri puo aver scritto Bruno (somma massima)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 86,85,84,76,75,74
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1w21FKv9v3Gf8h_K0skpT381-6hGBkHto/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What numbers could Bruno have written (maximum sum)
+
+> Alice wrote a three-digit integer (if greater than 99), Bruno wrote a two-digit integer (if greater than 9) and Carla a one-digit integer. The case decided that the six digits that make up the three numbers should all be different from each other and that the sum of the three numbers should be as large as possible under these conditions. What are the numbers that Bruno could have written?
+
+**Answer:** 86,85,84,76,75,74
+[[src_kangourou_2024_ecolier_finale__QE5]]

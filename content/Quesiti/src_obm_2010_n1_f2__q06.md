@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f2__Q06
 parent: src_obm_2010_n1_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2
@@ -39,6 +40,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum candidates scoring highest in a 10-question contest with given scoring rules*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 14
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Candidati massimi che hanno ottenuto il punteggio più alto in un concorso di 10 domande con regole di punteggio indicate*
+
+> Un concorso ha domande $10$; ogni risposta corretta punta $3$ punti, ogni risposta sbagliata punta $-1$ punti e ogni domanda senza risposta punta $0$ punti. Nessun candidato ha dato le stesse risposte, e le correzioni sono state fatte con lo stesso foglio di punteggio. Quanti candidati al massimo avrebbero potuto ottenere il punteggio più alto in questo concorso?
+
+**Risposta:** 14
+[[src_obm_2010_n1_f2__Q06]]

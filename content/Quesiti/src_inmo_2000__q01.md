@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2000 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2000__Q01
 parent: src_inmo_2000
 competition: Indian National Mathematical Olympiad 2000
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Incircle touch points; line PQ bisects two sides*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19gclPYoes6dSVvxjkTBtcJvWFswaMdDg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punti di contatto in cerchio; la linea PQ divide due lati*
+
+> Il cerchio del triangolo $ABC$ tocca rispettivamente i lati $BC$, $CA$ e $AB$ di $K$, $L$ e $M$. La linea attraverso $A$ e parallela a $LK$ incontra $MK$ in $P$ e la linea attraverso $A$ e parallela a $MK$ incontra $LK$ in $Q$. Indicare che la linea $PQ$ divide i lati $AB$ e $AC$ del triangolo $ABC$.
+
+[[src_inmo_2000__Q01]]

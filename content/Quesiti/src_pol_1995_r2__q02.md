@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1995 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1995_r2__Q02
 parent: src_pol_1995_r2
 competition: Olimpiade Matematica Polacca 1995 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex hexagon ABCDEF with AB=BC, CD=DE, EF=FA: perpendiculars from C,E,A to BD,DF,FB are concurrent.*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IUdNsY6k3NBvCtz5O5bsfPYRhNuq3LFN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCDEF esagonale converso con AB=BC, CD=DE, EF=FA: le perpendicolari da C,E,A a BD,DF,FB sono simultanee.*
+
+> Il $ABCDEF$ deve essere un esagono converso con $AB = BC$, $CD = DE$ e $EF = FA$. Prove che le linee attraverso $C, E, A$ perpendicolari a $BD, DF, FB$ sono simultanee.
+
+[[src_pol_1995_r2__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2022 — Nível 1 — Fase x — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2022_n1_fx__Q02
 parent: src_obm_2022_n1_fx
 competition: Olimpíada Brasileira de Matemática 2022 — Nível 1 — Fase x
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Copeiro numbers: sum of squares of digits equals a power of 4*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MFIuQqmYfoyQM2SB3u2n2Xe18_dDyh5n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri di coppie: la somma dei quadrati di cifre è uguale a una potenza di 4*
+
+> Un intero positivo è chiamato *copeiro* se la somma dei quadrati delle sue cifre in rappresentazione decimale è uguale a una potenza di $4$. Ad esempio, $32111$ è un numero di copeiro di 5 cifre, dal momento che $3^2 + 2^2 + 1^2 + 1^2 + 1^2 = 16 = 2^4$.
+> 
+> (a) Esiste un numero a tre cifre tale che la somma dei quadrati delle sue cifre sia uguale a $4^4$? Non dimenticare che devi giustificare la tua risposta.
+> 
+> b) Quali sono i due numeri più grandi di 3 cifre?
+
+[[src_obm_2022_n1_fx__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2008 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2008__Q05
 parent: src_inmo_2008
 competition: Indian National Mathematical Olympiad 2008
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Line OI passes through centre of circle tangent to three equal inscribed circles*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IoNn49qAJMt9lqRO6Y5I9UMFKZPua460/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La linea OI passa attraverso il centro del cerchio tangente a tre cerchi con iscrizioni uguali*
+
+> Che $ABC$ sia un triangolo; $\Gamma_A$, $\Gamma_B$, $\Gamma_C$ siano tre cerchi uguali e disconnessi all'interno di $ABC$ in modo tale che $\Gamma_A$ tocchi $AB$ e $AC$; $\Gamma_B$ tocchi $AB$ e $BC$; e $\Gamma_C$ tocchi $BC$ e $CA$. Il $\Gamma$ deve essere un cerchio che tocchi i cerchi $\Gamma_A$, $\Gamma_B$, $\Gamma_C$ all'esterno. Prova che la linea che unisce il centro circostante $O$ e il centro interno $I$ del triangolo $ABC$ passa attraverso il centro di $\Gamma$.
+
+[[src_inmo_2008__Q05]]

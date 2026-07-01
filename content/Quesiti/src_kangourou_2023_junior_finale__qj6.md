@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Finale (risposta aperta) — Quesito J6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_finale__QJ6
 parent: src_kangourou_2023_junior_finale
 competition: Kangourou 2023 Junior — Finale (risposta aperta)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *coppie a distanza massima ≤ n*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** al più n, può essere n
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZqUD0phTjD1vGI9FmGiQjE0m_DFPuY6r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*pairs at maximum distance ≤ n*
+
+> $n$ distinct points are assigned in the plan ($n \geq 2$). It shows that, when $n$ varies, the number of pairs of such points reaching the maximum possible distance is at most $n$ and may be $n$.
+
+**Answer:** al più n, può essere n
+[[src_kangourou_2023_junior_finale__QJ6]]

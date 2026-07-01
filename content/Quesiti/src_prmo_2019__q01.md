@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q01
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area removed from square to form regular octagon*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area rimossa dal quadrato per formare un ottagono regolare*
+
+> Da un quadrato con lati di lunghezza 5, vengono rimossi pezzi triangolari dai quattro angoli per formare un ottagono regolare. Trovare l'area rimossa al numero intero più vicino?
+
+[[src_prmo_2019__Q01]]

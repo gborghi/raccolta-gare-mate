@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q15
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza di CD dati AB e aree dei rettangoli*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*CD length data AB and rectangular areas*
+
+![[src_kangourou_2021_benjamin__prob15.png]]
+
+> Three rectangles of the same height are joined together as shown in the figure. The numbers written within the rectangles indicate their areas in square centimetres. If the AB segment is 6 cm long, how many centimeters is the CD segment? A) 7
+> 	
+> B) 7,5 C) 8
+> 	
+> D) 8,2 E) 8,5
+
+**Answer:** C
+[[src_kangourou_2021_benjamin__Q15]]

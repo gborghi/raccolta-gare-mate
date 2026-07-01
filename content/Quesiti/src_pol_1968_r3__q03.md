@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1968 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1968_r3__Q03
 parent: src_pol_1968_r3
 competition: Olimpiade Matematica Polacca 1968 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n distinct numbers: minimize or maximize number of distinct pairwise sums*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10k54qccFrtN6TlMsohHjGXdPXzsXwNZY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*n numeri distinti: ridurre al minimo o massimizzare il numero di somme differenti in coppia*
+
+> Dato un numero intero $n \ge 2$, dare un esempio di un insieme di numeri $n$ reciprocamente diversi $a_1, \ldots, a_n$ per i quali l'insieme delle loro somme in coppia $a_i + a_j$ ($i \ne j$) contiene il minor numero possibile di numeri diversi; dare anche un esempio di un insieme di numeri diversi $n$ $b_1, \ldots, b_n$ per i quali l'insieme delle somme in coppia $b_i + b_j$ ($i \ne j$) contiene il maggior numero possibile di numeri diversi.
+
+[[src_pol_1968_r3__Q03]]

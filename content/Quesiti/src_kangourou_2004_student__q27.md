@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q27
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra c da somma 1554 delle permutazioni*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number c of sum of 1554 of the permutations< MSK1/>
+
+> a, b, c are three digits such that 0 < a < b < c. The sum of all the three-digit integers that can be formed by exchanging these three digits is 1554. What 's c ? A) 3 B) 4 C) 5 D) 6 E) 7
+
+**Answer:** B
+[[src_kangourou_2004_student__Q27]]

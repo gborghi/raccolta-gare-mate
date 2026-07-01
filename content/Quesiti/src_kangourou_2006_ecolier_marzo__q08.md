@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Ecolier (marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q08
 parent: src_kangourou_2006_ecolier_marzo
 competition: Kangourou 2006 Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo numero di 10 cifre coi foglietti*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pKY5ouqmagp75LpVMmZ7-wegTuPPO_ZD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Small number of 10 digits with sheets < MSK1/>
+
+![[src_kangourou_2006_ecolier_marzo__prob8.png]]
+
+> Look at the figure: six numbers are written on as many sheets. By holding all six sheets together, you can form ten-digit numbers. Which is the smallest? (a) 3094157682 (b) 2309541687 (c) 3097568241 (d) 2309415687 (e) 2309415678 (i) Questions from N. 9 al N. 16 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2006_ecolier_marzo__Q08]]

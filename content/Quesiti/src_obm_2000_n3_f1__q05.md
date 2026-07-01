@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q05
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Comparison of (a+1)/(b+1) with a/b when a/b<1*
 
@@ -54,3 +57,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Comparizione di (a+1)/(b+1) con a/b quando a/b<1*
+
+> $a$ e $b$ siano numeri positivi con $\dfrac{a}{b}<1$. Poi $\dfrac{a+1}{b+1}$:
+>
+> - **(A)** è uguale a < MSK0/>.
+> - **(B)** è uguale a < MSK0/>.
+> - **(C)** è inferiore a < MSK0/>.
+> - **(D)** è superiore a $\dfrac{a}{b}$ ma inferiore a 1.
+> - **(E)** può essere maggiore di 1.
+
+**Risposta:** D
+[[src_obm_2000_n3_f1__Q05]]

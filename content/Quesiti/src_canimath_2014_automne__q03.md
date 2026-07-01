@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2014 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2014_automne__Q03
 parent: src_canimath_2014_automne
 competition: Coupe Animath Automne 2014
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divisibility by 81 of 2016, of 20162016, and of '2016' repeated 2016 times*
 
@@ -46,3 +49,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15vtKOtQa9ehL1Qp64ICOkTx6pQqg0n_e/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Divisibilità entro il 81 del 2016, del 20162016 e del 2016 ripetute nel 2016*
+
+> a) Il numero intero $2016$ è divisibile da $81$? Il numero intero $20162016$ è divisibile da $81$?
+> 
+> b) Indicare che il numero intero $N = 2016\cdots 2016$ ("$2016$" scritto $2016$ volte) è divisibile da $81$.
+
+[[src_canimath_2014_automne__Q03]]

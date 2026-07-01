@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2021 — Nível 1 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2021_n1_fx__Q01
 parent: src_obm_2021_n1_fx
 competition: Olimpíada Brasileira de Matemática 2021 — Nível 1 — Fase x
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Squared numbers: digit sum is a perfect square*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10RcAE6sTt-lvUTcmg157vdVd4ZjysYzW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri quadrati: la somma di cifre è un quadrato perfetto*
+
+> Diciamo che un intero positivo è *quadradoso* (quadrato) quando la somma delle sue cifre è un quadrato perfetto. Ad esempio, i numeri 211 e 10 sono quadrati, perché $2+1+1=2^2$ e $1+0=1^2$.
+> 
+> a) Qual è il numero quadrato più piccolo maggiore del 2021?
+> 
+> b) Qual è il numero quadrato più grande senza numeri ripetuti?
+
+[[src_obm_2021_n1_fx__Q01]]

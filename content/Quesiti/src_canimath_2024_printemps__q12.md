@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2024 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_printemps__Q12
 parent: src_canimath_2024_printemps
 competition: Coupe Animath Printemps 2024
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all primes p such that 1..p can be partitioned into groups of equal consecutive sums*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le prime p in modo che 1..p possa essere suddivisa in gruppi di uguali somme consecutive*
+
+> Determinare tutti i numeri primi $p$ che soddisfano la seguente proprietà: se si scrivono i numeri interi da $1$ a $p$ su una tavola, si possono separare in diversi gruppi in cui la somma dei numeri interi in ogni gruppo è la stessa, e all'interno di ciascun gruppo i numeri interi formano un insieme di numeri interi consecutivi.
+
+[[src_canimath_2024_printemps__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Junior (gara marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_junior__Q02
 parent: src_kangourou_2011_junior
 competition: Kangourou 2011 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del trapezio dato rettangolo ombreggiato 13*
 
@@ -63,3 +66,36 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AJCl_AfEoFXnuVsI8nXmEWfRHRXKCZ3O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the trapezoid given the shaded rectangle 13*
+
+![[src_kangourou_2011_junior__prob2.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.5]
+  \coordinate (BL) at (0, 0);
+  \coordinate (BR) at (5, 0);
+  \coordinate (TR) at (4, 1.5);
+  \coordinate (TL) at (1.5, 1.5);
+  \coordinate (A) at (0.75, 0.75);
+  \coordinate (B) at (4.5, 0.75);
+  \fill[gray!40] (0.75, 0) rectangle (4.5, 0.75);
+  \draw (0.75, 0) rectangle (4.5, 0.75);
+  \draw[thick] (BL) -- (BR) -- (TR) -- (TL) -- cycle;
+  \filldraw (A) circle (1.5pt);
+  \filldraw (B) circle (1.5pt);
+  \node[above left] at (A) {$A$};
+  \node[above right] at (B) {$B$};
+\end{tikzpicture}
+\end{document}
+```
+
+> You see a trapezoid in the figure. A and B are the median points of the oblique sides and the area of the shaded rectangle is 13 cm2. How many square centimetres is the area of the trapezoid? A) 24 B) 25 C) 26 D) 27 E) 28
+
+**Answer:** C
+[[src_kangourou_2011_junior__Q02]]

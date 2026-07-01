@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q14
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti allievi (3/5 nuoto, 3/5 danza, 5 entrambi)*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many pupils (3/5 swimming, 3/5 dancing, 5 both)
+
+> In a classroom, each student practices swimming or dancing or both: 3/5 of the students practice swimming, 3/5 dance and 5 both. How many students are in that class? A) 15
+> 	
+> B) 20
+> 	
+> C) 25
+> 	
+> D) 30
+> 	
+> E) 35
+
+**Answer:** C
+[[src_kangourou_2020_cadet_marzo__Q14]]

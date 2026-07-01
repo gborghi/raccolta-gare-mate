@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q05
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale dei numeri non e intero*
 
@@ -60,3 +63,23 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which of the numbers is not an integer*
+
+> Which of the following numbers is not an integer? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E) 2011 -------- 1 2012 -------- 2 2013 -------- 3 2014 -------- 4 2015 -------- 5
+>
+
+**Answer:** D
+[[src_kangourou_2015_marzo_cadet__Q05]]

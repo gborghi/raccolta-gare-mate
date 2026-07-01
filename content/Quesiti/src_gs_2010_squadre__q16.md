@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2010 - Gara a squadre — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2010_squadre__Q16
 parent: src_gs_2010_squadre
 competition: Coppa Fermat 2010 - Gara a squadre
@@ -24,6 +25,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Estrazioni perche probabilita superi 1/2*
 
@@ -35,3 +38,15 @@ tags:
 **Abilita:** [[skill_stima|Stima e approssimazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Extractions because the probability exceeds 1/2< MSK1/>
+
+> **A game of cards** (50 points)
+> 
+> A gambling game is played with a bag containing 2010 pockets, 2 reds, all the other black. You win if you extract all the red (no matter how many black) seeds, one after the other. A player, before starting the draw sequence, must pay $1 for each draw he intends to make. How much does Jake have to pay to have a greater than MSK0 chance of winning?
+
+[[src_gs_2010_squadre__Q16]]

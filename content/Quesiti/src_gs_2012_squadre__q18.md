@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q18
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero circonferenze inscritte sotto soglia*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 0007
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of circumferences entered under threshold*
+
+> Practicing the cutting of diamonds, Brontolo draws, on a small square sheet of two centimeters, a tangent circumference on the sides of the sheet. He then draws a second circumference, external to the first and tangent to it and to two sides of the sheet; then he draws a third, external to the first two, but tangent to the second and to two sides of the sheet, and so on. Brontolo stops when drawing the first circumference with a radius less than one thousandth of a millimeter; how many circles are drawn on the paper?
+
+**Answer:** 0007
+[[src_gs_2012_squadre__Q18]]

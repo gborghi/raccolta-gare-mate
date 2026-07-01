@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q11
 parent: src_kangourou_2019_ecolier_finale
 competition: Kangourou 2019 Finale Nazionale Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo intero 4 cifre distinte divisibile per ogni cifra*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9864
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum integer 4 distinct digits divisible by each digit*
+
+> Look at the balance sheets in the figure where three identical dogs and two weights appear, one of < MSK0/> and the other of < MSK1/> pounds. The weight in kilograms of each of the dogs is expressed by an integer. What kind?
+>
+> - **(A)** $7$
+> - **(B)** $8$
+> - **(C)** $9$
+> - **(D)** $10$
+> - **(E)** The following table shows the results of the evaluation:
+
+**Answer:** 9864
+[[src_kangourou_2019_ecolier_finale__Q11]]

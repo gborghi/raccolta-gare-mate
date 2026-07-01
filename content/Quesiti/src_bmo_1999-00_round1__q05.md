@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1999-00 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1999-00_round1__Q05
 parent: src_bmo_1999-00_round1
 competition: British Mathematical Olympiad 1999-00 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count team formations for eight people into four unequal teams*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jXrypnD0VZ-T2J0x_R-FJ1Z-nveBfTYT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggi di squadre per otto persone in quattro squadre ineguaglie*
+
+> Le sette nane decidono di formare quattro squadre per competere nel Millennium Quiz. Naturalmente, le dimensioni delle squadre non saranno uguali. Ad esempio, una squadra di Dopey da sola, una di Sleepy, Happy e Grumpy, e una di Bashful e Sneezy, e una di Doc (l'ordine delle squadre non importa, ma ogni nano deve essere esattamente in una squadra).
+> 
+> Supponiamo che anche Biancaneve abbia accettato di partecipare. In quanti modi potevano allora essere formate le quattro squadre?
+
+[[src_bmo_1999-00_round1__Q05]]

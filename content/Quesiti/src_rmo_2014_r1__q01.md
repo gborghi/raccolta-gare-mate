@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Region 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_r1__Q01
 parent: src_rmo_2014_r1
 competition: Regional Mathematical Olympiad 2014
@@ -31,6 +32,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with perpendicular foot and equal area regions implies BD=DC*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gebds3GWDOcaRUuyUCK_TW2oDlckyr2-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con piede perpendicolare e regioni di superficie uguali implica BD=DC*
+
+> Lasciate che $ABC$ sia un triangolo e che $AD$ sia la perpendicolare da $A$ a $BC$. I punti $K$, $L$, $M$ siano punti su $AD$ in modo tale che $AK = KL = LM = MD$. Se la somma delle superfici delle regioni ombreggiate è pari alla somma delle superfici delle regioni non ombreggiate, dimostrare che $BD = DC$.
+
+![[src_rmo_2014_r1__Q01.png]]
+
+[[src_rmo_2014_r1__Q01]]

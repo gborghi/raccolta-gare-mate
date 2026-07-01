@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Cadet 2024 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet_semifinale__Q05
 parent: src_kangourou_2024_cadet_semifinale
 competition: Kangourou Semifinale individuale Cadet 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale parola e divisibile per 11 (KANGAROO)*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YuKlYOQSjLPYC0cQWHZFjw49wPVl8dfH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which word is divisible by 11 (KANGAROO) *
+
+> In the word KANGAROO, each letter represents a number: equal letters, equal numbers, different letters, different numbers. The eight-digit number represented is divisible by 11. Preserving the same law of representation, which of the following words certainly represents a number also divisible by 11? (a) RANG B) NGAR C) KANGO D) RKGN E) RKNG C M N B A
+> 
+> Answer D. The solution. The criterion of divisibility by 11 requires that the difference between the sum of the even and odd place numbers is divisible by 11. So we have K + N + A + O  (A + G + R + O) is divisible by 11, so also K + N  (G + R) is divisible by 11. So it's RKGN, whereas the numbers represented by the other words might not be.
+
+**Answer:** D
+[[src_kangourou_2024_cadet_semifinale__Q05]]

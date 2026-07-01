@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2001-02 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2001-02_round1__Q04
 parent: src_bmo_2001-02_round1
 competition: British Mathematical Olympiad 2001-02 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count simultaneous handshake arrangements for 12 people at circular table*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SAj-0uYYOy870pd-gXcOffwjmTfQSrtn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggiate le modalità di stretta di mano simultanea per 12 persone al tavolo circolare*
+
+> Dodici persone sono sedute attorno a un tavolo circolare. In quanti modi sei coppie di persone possono stringersi la mano contemporaneamente, in modo che non ci siano due coppie di persone che stringeranno la mano sedute vicine l'una all'altra al tavolo? (A nessuno è permesso stringersi la mano di più di una persona contemporaneamente.)
+
+[[src_bmo_2001-02_round1__Q04]]

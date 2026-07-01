@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Student — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q15
 parent: src_kangourou_2019_student_semifinale
 competition: Kangourou 2019 Semifinale Student
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma raggi cerchi inscritti in T, P, Q (triangolo rettangolo)*
 
@@ -34,3 +37,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of circle rays inscribed in T, P, Q (rectangular triangle) *
+
+> (Points 6) The catheters of a right triangle T are 30 and 40. The height relative to the hypotenuse divides T into two triangles P and Q. What is the sum of the radii of the circles inscribed in T, P and Q?
+
+[[src_kangourou_2019_student_semifinale__Q15]]

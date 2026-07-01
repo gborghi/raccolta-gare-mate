@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 29
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q29
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A2-7: subsets A of S={1..10} with A∩{1,2,3}≠∅ and A∪{4,5,6}≠S; count.*
 
@@ -45,3 +48,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A2-7: sottoinsiemi A di S={1..10} con A∩{1,2,3}≠ e A∪{4,5,6}≠S; conteggio.*
+
+> [Test Paper A2, Problema 7] Supponiamo che l'insieme $S=\{1,2,3,\ldots,10\}$ e il sottogruppo $A$ di $S$ soddisfi $$A\cap\{1,2,3\}\ne\varnothing,\quad A\cup\{4,5,6\}\ne S.$$ Il numero di tali sottogruppi è di ______.
+
+**Risposta:** 888
+[[src_cn_cmc-first-round_2021__Q29]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q18
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorso piu breve sulla superficie del cilindro*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 6000
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Shorter course on the cylinder surface< MSK1/>
+
+![[src_gs_2008_squadre__prob18.png]]
+
+> An ant is in the center of the circle at the top of the MSK0/>L** in front of the Ell lab. Another is in the center of the other circle on **L**.
+> 
+> How long in millimeters is the shortest path that allows one ant to reach the other?
+> 
+> (see figure)
+
+**Answer:** 6000
+[[src_gs_2008_squadre__Q18]]

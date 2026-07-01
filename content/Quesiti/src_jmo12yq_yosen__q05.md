@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo12yq_yosen__Q05
 parent: src_jmo12yq_yosen
 competition: Japan Mathematical Olympiad 2002 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find m where (m-2)^2 and m^2-1 are digit-swap pairs*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova m dove (m-2) ^2 e m^2-1 sono coppie di cambio di numeri*
+
+> $m$ sia un numero naturale. Sia $(m-2)^2$ che $m^2-1$ sono numeri naturali a 3 cifre, e scambiando la cifra di centinaia e la cifra di unità di uno di essi si ottiene l'altro. Trova tutti i valori possibili di $m$.
+
+[[src_jmo12yq_yosen__Q05]]

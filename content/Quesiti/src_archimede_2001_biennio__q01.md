@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Biennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_biennio__Q01
 parent: src_archimede_2001_biennio
 competition: Giochi di Archimede 2001 - Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordinamento di tre frazioni a,b,c*
 
@@ -43,3 +46,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15IBgfl7GAsJGqi_MCOVW5U5tuBXGW2je/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ordering of three fractions a,b,c*
+
+> If a = 0, 1 0, 5, b = 0, 5 1 , c = 1 0, 5, then
+>
+> - **(A)** a > b > c
+> - **(B)** b > a > c
+> - **(C)** c > a > b
+> - **(D)** a > c > b
+> - **(E)** c > b > a.
+
+[[src_archimede_2001_biennio__Q01]]

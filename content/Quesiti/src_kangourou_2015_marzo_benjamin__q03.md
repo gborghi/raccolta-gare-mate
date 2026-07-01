@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q03
 parent: src_kangourou_2015_marzo_benjamin
 competition: Kangourou 2015 gara 19 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Min quadratini da riverniciare (no adiacenti uguali)*
 
@@ -65,3 +68,36 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AiqamuCK6oQtEOLFArlQVHEyWohLlfzH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Min squares to be repainted (not adjacent to each other) < MSK1/>
+
+![[src_kangourou_2015_marzo_benjamin__prob3.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \def\cell#1#2#3{
+    \fill[#3] (#1,#2) rectangle (#1+1,#2+1);
+    \draw (#1,#2) rectangle (#1+1,#2+1);
+  }
+  \cell{0}{0}{white}
+  \cell{1}{0}{black}
+  \cell{2}{0}{black}
+  \cell{0}{1}{gray!50}
+  \cell{1}{1}{black}
+  \cell{2}{1}{white}
+  \cell{0}{2}{white}
+  \cell{1}{2}{gray!50}
+  \cell{2}{2}{gray!50}
+\end{tikzpicture}
+\end{document}
+```
+
+> Samuel painted the nine squares into which the large square is divided by white, gray and black paint as you can see in the picture. He then decided to repaint some of them so that two squares painted the same way do not have sides in common. What's the minimum number of squares he can repaint? A) 2          B) 3            C) 4           D) 5               E) 6
+
+**Answer:** A
+[[src_kangourou_2015_marzo_benjamin__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q29
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi siede all'estremita destra della panchina*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sitting at the right end of the bench*
+
+> Dora, Lara, Mara, Sara and Vera are sitting on a bench. Mara doesn't sit at the right end and Dora doesn't sit at the left end. Sara doesn't sit on either end. Vera is not sitting next to Sara and Sara is not sitting next to Dora. Lara is sitting to Dora's right, but not necessarily beside her. Which of the five girls is sitting on the right end of the bench? (A) cannot be established (B) True (C) Sara (D) Lara (E) Dora
+
+**Answer:** D
+[[src_kangourou_2005_benjamin__Q29]]

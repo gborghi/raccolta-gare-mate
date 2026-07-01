@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1999 - Biennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_biennio__Q03
 parent: src_archimede_1999_biennio
 competition: Giochi di Archimede 1999 - Biennio
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro di un frutteto rettangolare con 35 alberi*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of a rectangular fruit tree with 35 trees*
+
+![[src_archimede_1999_biennio__prob3.png]]
+
+> In a rectangular orchard there is a tree every 4 meters (as shown in the figure). Knowing that there are 35 trees, what is the perimeter of the rectangle that has the points where the trees A, B, C, D are perpendicular to the vertices?
+>
+> - **(A)** 70
+> - **(B)** 80
+> - **(C)** 96
+> - **(D)** 140
+> - **(E)** It cannot be determined uniquely. b A b b b b b B b b b b b b b b b b b b b b b b D b b C b b b
+
+**Answer:** B
+[[src_archimede_1999_biennio__Q03]]

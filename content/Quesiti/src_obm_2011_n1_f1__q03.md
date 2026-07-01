@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q03
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Reading a food-price variation graph*
 
@@ -54,3 +57,22 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Leggizione di un grafico di variazione dei prezzi alimentari*
+
+> Il grafico mostra una variazione dei prezzi di alcuni prodotti alimentari nel primo semestre di un determinato anno. In base al grafico, quale alternativa può essere affermata con certezza?
+>
+> - **(A)** Il mais era sempre più economico del riso o dei fagioli.
+> - **(B)** il prezzo dei fagioli è diminuito solo durante il periodo
+> - **(C)** I fagioli erano sempre più costosi del caffè.
+> - **(D)** Nessun prodotto ha mai avuto lo stesso prezzo.
+> - **(E)** il prodotto con la minore variazione dei prezzi è stato il fagiolo
+
+![[src_obm_2011_n1_f1__Q03.png]]
+
+**Risposta:** A
+[[src_obm_2011_n1_f1__Q03]]

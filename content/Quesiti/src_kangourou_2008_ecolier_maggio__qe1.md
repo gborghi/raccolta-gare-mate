@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Ecolier finale nazionale (Mirabilandia) — Quesito E1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_ecolier_maggio__QE1
 parent: src_kangourou_2008_ecolier_maggio
 competition: Kangourou 2008 - Ecolier finale nazionale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanto tempo fa le stesse 4 cifre sull'orologio*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 11h48m
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sMORIlt9lkjMX5maUC57kkdR79FHjTrM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How long does the same 4 digits on the watch *
+
+> There's always four digits on my digital watch. It's now 8:08. How long ago did the same four digits last appear before now on my watch (not necessarily in the same order)?
+
+**Answer:** 11h48m
+[[src_kangourou_2008_ecolier_maggio__QE1]]

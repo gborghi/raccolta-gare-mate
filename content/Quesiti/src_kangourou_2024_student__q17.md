@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q17
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale espressione tra p e q (p<q) e la maggiore*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What is the expression between p and q (p<q) and the major*
+
+> Two positive numbers p and q are given, with p < q. Which of the following expressions gives the largest number? A) (p + 3q) / 4
+> 	
+> B) (p + 2q) / 3
+> 	
+> C) (p + q) / 2 D) (2p + q) / 3
+> 	
+> E) (3p + q) / 4
+
+**Answer:** A
+[[src_kangourou_2024_student__Q17]]

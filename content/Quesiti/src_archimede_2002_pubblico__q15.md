@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_pubblico__Q15
 parent: src_archimede_2002_pubblico
 competition: Archimede 2002 - Gara del Pubblico (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *30 punti*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0076
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total amount of the loan.
+
+> **Matelandia public tender ** (30 points)
+> 
+> Professor Abacus organizes the Matelandia public competition every year. This year there are 25 questions and a single audience team can score 0, 3 or 0 points in each question. What is the minimum number of teams from the public that must participate in order for there to be two teams of equal merit?
+
+**Answer:** 0076
+[[src_archimede_2002_pubblico__Q15]]

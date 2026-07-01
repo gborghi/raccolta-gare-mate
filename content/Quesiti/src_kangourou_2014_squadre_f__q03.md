@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Finale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_f__Q03
 parent: src_kangourou_2014_squadre_f
 competition: Kangourou Coppa Squadre 2014 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione ombreggiata cerchio inscritto in quadrato*
 
@@ -56,3 +59,32 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 27
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area region shaded circle inscribed in square*
+
+![[src_kangourou_2014_squadre_f__prob3.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) rectangle (4,4);
+  \draw (2,2) circle (2);
+  \begin{scope}
+    \clip (0,0) rectangle (4,4);
+    \fill[gray!50] (2,2) circle (2);
+    \fill[white] (0,4) -- (4,4) -- (0,0) -- cycle;
+  \end{scope}
+  \draw (0,0) rectangle (4,4);
+  \draw (2,2) circle (2);
+\end{tikzpicture}
+\end{document}
+```
+
+> Circle and square Look at the figure. A circle is inscribed in a square of 8 meters. What is the area, in square meters, of the shaded region? (Write the whole number nearest to the exact result.)
+
+**Answer:** 27
+[[src_kangourou_2014_squadre_f__Q03]]

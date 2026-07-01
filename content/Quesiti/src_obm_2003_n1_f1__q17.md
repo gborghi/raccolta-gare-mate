@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q17
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest number obtainable from calculator tree diagram with keys A and B*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il numero più grande ottenuto dal diagramma di un albero di calcolatore con le chiavi A e B*
+
+> Una determinata macchina ha un display che mostra un intero positivo $x$ e due tasti A e B. Quando viene premuto il tasto A, il numero del display viene sostituito da $2x + 1$. Quando viene premuto il tasto B, il numero sul display viene sostituito da $x - 1$. Se la visualizzazione mostra inizialmente 5 e premere il tasto A (il numero diventa $2 \times 5 + 1 = 11$), quindi premere il tasto B lo sostituisce con $x - 1$. Il diagramma degli alberi dei risultati che possono essere ottenuti è mostrato nella figura. Il maggior numero di due cifre che si può ottenere è:
+> 
+> (A) 85 \quad (B) 87 \quad (C) 92 \quad (D) 95 \quad (E) 96
+
+![[src_obm_2003_n1_f1__Q17.png]]
+
+**Risposta:** D
+[[src_obm_2003_n1_f1__Q17]]

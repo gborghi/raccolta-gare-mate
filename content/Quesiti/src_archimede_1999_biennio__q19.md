@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1999 - Biennio — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_biennio__Q19
 parent: src_archimede_1999_biennio
 competition: Giochi di Archimede 1999 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume della parte piu piccola tagliando un cubo*
 
@@ -47,3 +50,22 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of the smallest part by cutting a cube*
+
+![[src_archimede_1999_biennio__prob19.png]]
+
+> Given the cube in the figure, with the first-sided beads, it is cut along the ABC plane. What is the volume of the smallest part thus obtained?
+>
+> - **(A)** 1 3
+> - **(B)** 1 4
+> - **(C)** 1 6
+> - **(D)** 1 8
+> - **(E)** 1 12. b B bA b C
+
+**Answer:** C
+[[src_archimede_1999_biennio__Q19]]

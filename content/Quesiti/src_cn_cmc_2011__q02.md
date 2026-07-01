@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2011 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2011__Q02
 parent: src_cn_cmc_2011
 competition: China Mathematical Competition 2011
@@ -29,6 +30,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find tan A / tan B given a cos B minus b cos A equals 3c/5*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca A/tan B dato un cos B meno b cos A è uguale a 3c/5*
+
+> Supponiamo che $\triangle ABC$ con angoli $A$, $B$ e $C$, e i lati corrispondenti $a$, $b$ e $c$ soddisfi l'equazione $a\cos B - b\cos A = \frac{3}{5}c$. Il valore di $\frac{\tan A}{\tan B}$ è quindi __________.
+
+**Risposta:** 4
+[[src_cn_cmc_2011__Q02]]

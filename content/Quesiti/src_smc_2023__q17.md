@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2023 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2023__Q17
 parent: src_smc_2023
 competition: Senior Mathematical Challenge 2023
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *5th and 6th digits of largest pandigital number with non-prime consecutive pairs*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+* quinta e sesta cifre del più grande numero pandigitale con coppie consecutive non prime*
+
+> Il numero $M=124563987$ è il numero più piccolo che utilizza tutte le cifre non zero una volta ogni volta e che ha la proprietà che nessuna delle coppie delle sue cifre consecutive rende un numero primo. Ad esempio, i 5° e 6° cifre di $M$ rendono il numero $63$ che non è primo. $N$ è il numero più grande che utilizza tutte le cifre non zero una volta ogni volta e che ha la proprietà che nessuna delle coppie delle sue cifre consecutive rende un numero primo. Quali sono i 5° e 6° cifre di $N$?
+>
+> - **(A)** < MSK0/> e < MSK1/>
+> - **(B)** < MSK0/> e < MSK1/>
+> - **(C)** < MSK0/> e < MSK1/>
+> - **(D)** < MSK0/> e < MSK1/>
+> - **(E)** < MSK0/> e < MSK1/>
+
+**Risposta:** E
+[[src_smc_2023__Q17]]

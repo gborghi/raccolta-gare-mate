@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_finale__Q18
 parent: src_cesenatico_2012_finale
 competition: Gara a Squadre Cesenatico 2012 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma prodotti sfera-distretto (mod 11)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0162
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of products in the sphere-district (mod 11) *
+
+> The seven dragon spheres of planet Earth each have a different number from 1 to 7. After the dragon's last call, they've been scattered around the world in 10 districts, numbered 1 to 10. The dragon radar reveals that the spheres are arranged in a particular way: in each district there is at most one and for each of them, if you make the product between the number of the sphere and that of the district where it ends and then divide by 11, you always get the same remainder. We also know that the 3-star sphere is not in the first two districts, and that District 8 contains no sphere. With this little information, the brilliant Bourba reconstructed the position of all the spheres. Determine the products between the number of each sphere and that of the district in which it is located, and provide the sum.
+
+**Answer:** 0162
+[[src_cesenatico_2012_finale__Q18]]

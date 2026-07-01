@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n1_f2__Q01
 parent: src_obm_2009_n1_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cards needed to build a 5-tier house of cards given tiers 1,2,3 use 2,7,15 cards*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le carte necessarie per costruire una casa di carte a 5 livelli dato i livelli 1,2,3 utilizzare 2,7,15 carte*
+
+> La figura accanto mostra le case di carte di livello $1$, $2$ e $3$. Per costruire queste case di carte sono state utilizzate rispettivamente le carte $2$, $7$ e $15$. Quante carte saranno necessarie per costruire una casa di carte di < MSK6/> livelli?
+
+![[src_obm_2009_n1_f2__Q01.png]]
+
+[[src_obm_2009_n1_f2__Q01]]

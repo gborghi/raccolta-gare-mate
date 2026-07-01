@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2007 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2007__Q15
 parent: src_bocconi_autunno_2007
 competition: Giochi d'Autunno 2007
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prossimi tre anni consecutivi quadratodivisibili*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2023, 2024, 2025
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Next three consecutive years squared*
+
+> The years 2007, 2008 and 2009 are three consecutive years squareddivisible: each of the three numbers is divisible by the square of an integer greater than 1 (2007 is divisible by 9, 2008 by 4 and 2009 by 49). What will be the next three consecutive years squared?
+
+**Answer:** 2023, 2024, 2025
+[[src_bocconi_autunno_2007__Q15]]

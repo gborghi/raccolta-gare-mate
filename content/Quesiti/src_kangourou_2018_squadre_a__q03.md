@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2018 Semifinale A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_a__Q03
 parent: src_kangourou_2018_squadre_a
 competition: Kangourou Coppa Squadre 2018 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Allineamenti possibili 1-14 con condizione max/min*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8192
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible alignments 1 to 14 with condition max/min*
+
+> Laura's sequences Laura wants to write in sequence all integers from 1 to 14 inclusive so that, for each number in the sequence, it happens to be greater or less than all the numbers that follow it. How many possible alignments can you choose?
+
+**Answer:** 8192
+[[src_kangourou_2018_squadre_a__Q03]]

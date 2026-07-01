@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q23
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo di f(a,b,c,d) con vincolo quadratico (interi positivi)*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum of f ((a,b,c,d) with square bound (positive integers) < MSK1/>
+
+> Question of measures [70] The amount of life force Numeruto needs for its superior multiplication technique must be carefully calibrated, so that the technique fails. Numbered must find the maximum of the function f(a,b,c,d) = 2bd −d2 −b2 +100a−100c+280, when a,b,c,d varies between the positive integers that occur (a+b)2 +2a+b = (c+d)2 +2c+d. How much is it worth?
+
+[[src_cesenatico_2007_squadre_pubblico__Q23]]

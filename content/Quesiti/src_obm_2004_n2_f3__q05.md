@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f3__Q05
 parent: src_obm_2004_n2_f3
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Midpoint of hypotenuse; circumcenters of sub-triangles; tangency*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kyVB4TIFReMV148PiDwXpCdF7gL7rBzq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto medio dell'ipotenusa; circoncenti di sotto triangoli; tangenza*
+
+> Il punto medio della ipotenusa $AB$ di un triangolo rettangolo $ABC$ (con angolo retto a $C$) è $D$. $O_1$ e $O_2$ siano rispettivamente i circoncentri dei triangoli $ADC$ e $DBC$.
+> 
+> a) Indicare che < MSK0/>.
+> 
+> b) Indicare che $AB$ è tangente al cerchio di diametro $O_1 O_2$.
+
+[[src_obm_2004_n2_f3__Q05]]

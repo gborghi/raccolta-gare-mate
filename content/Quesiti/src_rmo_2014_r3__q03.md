@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Region 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_r3__Q03
 parent: src_rmo_2014_r3
 competition: Regional Mathematical Olympiad 2014
@@ -33,6 +34,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *No positive integer n<2310 with 2310 | n(2310-n)*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13_r8SR8Qx6OYP_4_ONgiazaLStX1681S/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Nessun numero intero positivo n <2310 con 2310 n 2310-n
+
+> Prova che non esiste un intero positivo $n < 2310$ tale che $n(2310 - n)$ sia un multiple di $2310$.
+
+[[src_rmo_2014_r3__Q03]]

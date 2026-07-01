@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo12yq_yosen__Q12
 parent: src_jjmo12yq_yosen
 competition: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumradius of triangle ADY in terms of a,b,c*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{abc}{c^2-b^2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Radio di circolo del triangolo ADY in termini di a,b,c*
+
+> C'è un triangolo $ABC$ con $AB > AC$. Il $D$ deve essere l'intersezione del bisettore di $\angle BAC$ con il lato $BC$. Inoltre, $E$ e $F$ siano le intersezioni del bisettore perpendicolare del segmento $AD$ con i lati $AB$ e $AC$ rispettivamente, e prendere un punto $X$ sul lato $BC$ tale che $BX : XC = BE : CF$. Inoltre, $Y$ è l'intersezione del circoncircolo del triangolo $ABC$ con la linea $AX$ diversa da $A$, e imposta $BC=a$, $CA=b$, $AB=c$. Esprimere il raggio del circoncircolo del triangolo $ADY$ in termini di $a$, $b$, $c$. Qui $ZW$ indica la lunghezza del segmento $ZW$.
+
+**Risposta:** $\frac{abc}{c^2-b^2}$
+[[src_jjmo12yq_yosen__Q12]]

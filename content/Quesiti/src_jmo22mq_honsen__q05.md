@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2012 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo22mq_honsen__Q05
 parent: src_jmo22mq_honsen
 competition: Japan Mathematical Olympiad 2012 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Grid game: find all k for which A wins in finitely many moves*
 
@@ -48,3 +51,19 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SJ0WulkahJ1owyeufg6sr3eDO1pnnUeb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di griglia: trovare tutti i k per i quali A vince in infinite mosse*
+
+> $k$ sia un numero intero positivo. I giocatori $A$ e $B$ giocano a un gioco. Inizialmente, un pezzo viene posto all'origine $(0,0)$ del piano $xy$. Con $A$ in primo piano, i due giocatori si alternano a turno secondo le seguenti regole:
+> 
+> **Movimento del giocatore $A$:** Scegli un punto della griglia che non ha ancora un timbro e metti un timbro su di esso. (Non si possono scegliere nuovamente punti di lamella con francobolli).
+> 
+> Movimento del giocatore $B$: ** Spostare il pezzo dalla sua posizione attuale $(x,y)$ a $(x+1,y)$ o $(x,y+1)$, e ripeterlo tra $1$ e $k$ volte totale in turno. Tuttavia, il pezzo non può essere spostato in un punto della griglia che ha già un timbro.
+> 
+> Se $B$ non è in grado di spostare il pezzo (tutti i punti della rete vicini raggiungibili da $B$ sono stampati o $B$ non ha mossa valida), allora $A$ vince. Trova tutti gli enti positivi $k$ per i quali $A$ può garantire una vittoria in un numero finito di giri.
+
+[[src_jmo22mq_honsen__Q05]]

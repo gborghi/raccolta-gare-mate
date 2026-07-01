@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q26
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma E(1)+...+E(99) delle cifre dispari*
 
@@ -53,3 +56,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum E(1)+...+E(99) of odd numbers*
+
+> Denotes with E(n) the sum of the odd digits of the number n. For example E(7)=7, E(2)=0 and E(3245)=8. How much is E(1)+E(2)+E(3)+...+E(99)? A) 300 B) 400 C) 450 D) 500 E) 550
+
+**Answer:** D
+[[src_kangourou_2006_cadet__Q26]]

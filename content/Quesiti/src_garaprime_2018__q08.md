@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2018 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2018__Q08
 parent: src_garaprime_2018
 competition: Gara Nazionale Classi Prime 2018
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Termine di grado 6 nel prodotto di due polinomi*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XzoWDlSETOE6ynBaPWQsIvAiUafgaOrc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Grade 6 term in the product of two polynomials< MSK1/>
+
+> They are p(x) = x20+x19+. . .+x2+x+1 e q(x) = x10+x9+. . .+x2+x+1. What is the term of degree 6 of p(x) · q(x) after adding together all similar terms? A 7x6 B 2x6 C 36x6 D 3x6 E 49x6 F 37x6
+
+**Answer:** A
+[[src_garaprime_2018__Q08]]

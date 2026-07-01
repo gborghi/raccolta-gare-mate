@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n3_f3__Q02
 parent: src_obm_2017_n3_f3
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3
@@ -39,6 +40,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Set of n positive integers whose pairwise GCDs form a set of exactly k elements*
 
@@ -51,3 +54,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieme di n integri positivi i cui GCD in coppia formano un insieme di elementi esattamente k*
+
+> $n \ge 3$ sia un numero intero. Prova che per ogni intero $k$ con $1 \le k \le \binom{n}{2}$ esiste un insieme $A$ di $n$ diversi interi positivi in modo tale che l'insieme $$B = \{\gcd(x,y) : x, y \in A,\; x \ne y\}$$ (ottenuto dai più grandi divisori comuni di tutte le coppie di elementi distinti di $A$) contiene esattamente $k$ elementi distinti.
+
+[[src_obm_2017_n3_f3__Q02]]

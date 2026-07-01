@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_semifinale_a__Q09
 parent: src_cesenatico_2013_semifinale_a
 competition: Gara a Squadre Cesenatico 2013 - Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perle su triangolo equilatero suddiviso*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 1491
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Pearls on a divided equilateral triangle< MSK1/>
+
+> The Queen's pearls After an unadorned oyster scarf, Triseco and Cartantiere arranged the pearls they found in this way. It divides, with parallel lines on the sides, an equilateral triangle on side 60 into many triangles on side 3. Then pearls are placed on each point that is a vertex of these triangles, as well as two pearls on each of their sides, so that each pearl is at a distance of 1 from its nearest neighbor. How many pearls did they use to compose the figure?
+
+**Answer:** 1491
+[[src_cesenatico_2013_semifinale_a__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1996 (37th IMO, Mumbai) — Quesito 1'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1996__Q01
 parent: src_imo_1996
 competition: 'IMO 1996 (37th IMO, Mumbai)'
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Knight-like moves of distance sqrt(r) across board corners*
 
@@ -45,3 +48,13 @@ tags:
 **Metodo:** [[method_colorazione|Colorazione / parita]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Knight-like moves of distance sqrt(r) across board corners*
+
+> We are given a positive integer r and a rectangular board ABCD with dimensions =AB = 20, The rectangle is divided into a grid of 20 × 12 unit squares. The following moves are allowed on the board: one can move from one square to another only if the distance between the centers of the two squares is √r. The task is to find a sequence of moves leading from the square with A as a vertex to the square with B as a vertex. (a) Show that the task cannot be done if r is divisible by 2 or 3. (b) Prove that the task is possible when r = 73. (c) Can the task be done when r = 97?
+
+[[src_imo_1996__Q01]]

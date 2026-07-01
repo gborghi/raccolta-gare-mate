@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q25
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore A+B-C (somme righe e colonne)*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A+B-C value (sum of rows and columns) *
+
+![[src_kangourou_2009_benjamin_marzo__prob25.png]]
+
+> Look at the figure. The three letters A, B and C represent the same number whose sums, for rows and columns, are those indicated (right for rows and bottom for columns). How much is A + B - C ? A) 5 B) 6 C) 7 D) 8 E) 9
+
+**Answer:** B
+[[src_kangourou_2009_benjamin_marzo__Q25]]

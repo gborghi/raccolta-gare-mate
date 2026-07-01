@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Junior Finale 1 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_squadre__Q05
 parent: src_kangourou_2024_junior_squadre
 competition: Kangourou Squadre 2024 Junior Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza aree triangoli rettangoli cateto 18*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0504
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19twDyCIYYYLPZm2ICyi_V91n9zEgBbys/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Differential area of rectangular triangles rectangle 18*
+
+> Rectangular triangles Consider all rectangular triangles whose smallest diameter is 18 cm and the other sides are an integer of centimetres. Consider the areas (in square centimeters) of these triangles: what is the difference, in square centimeters, between the largest and the smallest of them?
+
+**Answer:** 0504
+[[src_kangourou_2024_junior_squadre__Q05]]

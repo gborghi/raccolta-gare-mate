@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n1_f1__Q03
 parent: src_obm_2017_n1_f1
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ellipse semi-diameters at right angles: invariant and envelope*
 
@@ -53,3 +56,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a3U1xwLG4Liq_aZSUCGfvqkTHMuELPzq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Semi-diametri dell'ellisse ad angolo retto: invariante e involucro*
+
+> Considera l'ellisse con l'equazione $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$. Un semidiametro dell'ellisse è un segmento $OM$, dove $O = (0,0)$ è il centro dell'ellisse. Un angolo retto formato da due semidiametri $OM$ e $ON$ dell'ellisse ruota intorno al punto $O$.
+> 
+> a) Indicare che < MSK0/> è costante.
+> 
+> b) Trova l'envelope della famiglia di accordi $MN$.
+> 
+> **Obs.:** L'envelope di una famiglia di curve è una curva chiusa che è tangente a ogni curva della famiglia.
+
+[[src_obm_2017_n1_f1__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2004 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2004__Q08
 parent: src_cn_cmc_2004
 competition: China Mathematical Competition 2004
@@ -31,6 +32,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find f(x) from functional equation f(x)-f(y)=f(x-y)+2*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $x + 1$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca f(x) dall'equazione funzionale f(x) -f(y) = f(x-y) +2*
+
+> $f: \mathbf{R} \to \mathbf{R}$ deve essere una funzione tale che $f(0) = 1$ e per qualsiasi $x$, $y \in \mathbf{R}$, $$f(x) - f(y) = f(x - y) + 2$$ sia contenuta. Poi $f(x) = $ ___.
+
+**Risposta:** $x + 1$
+[[src_cn_cmc_2004__Q08]]

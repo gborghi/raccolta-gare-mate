@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_semifinale1__Q09
 parent: src_archimede_2025_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2025 - Semifinale 1
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità solitario figurine bloccato su griglia 2x3*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0064
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Lonely probability of figures locked on a 2x3 grid< MSK1/>
+
+> The leader of the SPECTRAL THEOREM plays a loner with his white cat on his legs. He must insert in each box of a grid 2×3, initially empty, a figure representing him at the head of the world (the figures are all the same). The first figure is placed randomly; from the second the leader randomly chooses a box that has at least one vertex in common with the box in which he placed the previous figure. After inserting a few figures, but not all, the leader realizes that there are no boxes adjacent to that choice right away. He's upset, the cat's leaving. What was the probability that the cat would leave? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+
+**Answer:** 0064
+[[src_archimede_2025_squadre_semifinale1__Q09]]

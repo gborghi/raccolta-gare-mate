@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q12
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo punti da rimuovere per nessuna terna allineata*
 
@@ -58,3 +61,26 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum points to be removed for any aligned terns*
+
+![[src_kangourou_2009_cadet_marzo__prob12.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \foreach \x in {0,1,2}
+    \foreach \y in {0,1,2}
+      \fill (\x,\y) circle (3pt);
+\end{tikzpicture}
+\end{document}
+```
+
+> What is the smallest number of points that you can remove from the figure so that there are no three points in the line? A) 1 B) 2 C) 3 D) 4 E) 7
+
+**Answer:** C
+[[src_kangourou_2009_cadet_marzo__Q12]]

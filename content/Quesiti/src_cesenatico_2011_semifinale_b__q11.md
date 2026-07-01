@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_b__Q11
 parent: src_cesenatico_2011_semifinale_b
 competition: Gara a Squadre Cesenatico 2011 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma interi con diff quadrati = quadrato di primo*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7428
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Integres with different squares = square of first*
+
+> To prepare a new potion, the druid Parabolix must mix with the other ingredients a number of grams of druid beard equal to the sum of all n integers between 2011 and 3011 so that the difference between the square of the next n and the square of n is a perfect square of a prime number. How many grams of beard does he have to add?
+
+**Answer:** 7428
+[[src_cesenatico_2011_semifinale_b__Q11]]

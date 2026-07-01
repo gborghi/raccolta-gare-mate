@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo24yqa_yosen__Q12
 parent: src_jjmo24yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square ABCD in circle; parallel lines through B and C intersect; find EQ*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{22}{5}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrato ABCD in cerchio; linee parallele attraverso B e C si intersecano; trovare EQ*
+
+> Il quadrato $ABCD$ con lunghezza laterale $AB = 4$ è inciso in un cerchio. La linea attraverso $B$ parallela alla diagonale $AD$ incontra il segmento $AC$ al punto $E$, con $BE = 5$. La linea attraverso $C$ parallela alla diagonale $AD$ incontra le linee $AB$ e $BC$ rispettivamente nei punti $P$ e $Q$, con $BP = BQ = 6$. Trova la lunghezza del segmento $EQ$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** \frac{22}{5}
+[[src_jjmo24yqa_yosen__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2001 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_2livello__Q06
 parent: src_archimede_2001_2livello
 competition: Archimede Gara 2º livello 2001
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma A+B+C+D con AC×BC=DDD*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the sum of A+B+C+D with AC×BC=DDD*
+
+> If A, B, C, D are distinct digits and, using the usual decimal writing, you have AC × BC = DDD, what is the sum A + B + C + D?
+>
+> - **(A)** 9
+> - **(B)** 13
+> - **(C)** 18
+> - **(D)** 19
+> - **(E)** 21.
+
+**Answer:** E
+[[src_archimede_2001_2livello__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: X Gara Nazionale Classi Prime 2025 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2025__Q09
 parent: src_garaprime_2025
 competition: X Gara Nazionale Classi Prime 2025
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di tre cifre con la cifra 3 ma non la 4*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three-digit numbers with the digit 3 but not the digit 4*
+
+> How many three-digit integers (between 100 and 999) contain the number 3 but not the number 4?
+>
+> - **(A)** 162
+> - **(B)** 200
+> - **(C)** 216
+> - **(D)** 243
+> - **(E)** 450
+
+**Answer:** B
+[[src_garaprime_2025__Q09]]

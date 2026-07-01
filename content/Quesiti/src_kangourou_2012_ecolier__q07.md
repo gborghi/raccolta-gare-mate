@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Ecolier (gara marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_ecolier__Q07
 parent: src_kangourou_2012_ecolier
 competition: Kangourou 2012 Ecolier (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante piastrelle grigie sono cadute*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many gray tiles have fallen< MSK1/>
+
+![[src_kangourou_2012_ecolier__prob7.png]]
+
+> A wall was tiled with square tiles, all of the same size, but alternating two different types: white streaks and grays. Some of the tiles, some of the tiles inside the wall, have fallen and the figure shows you the ones left. How many gray tiles have fallen? A) 9 B) 8 C) 7 D) 6 E) 5
+
+**Answer:** B
+[[src_kangourou_2012_ecolier__Q07]]

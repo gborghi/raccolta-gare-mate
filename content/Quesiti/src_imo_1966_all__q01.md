@@ -1,6 +1,7 @@
 ---
 title: IMO 1966 (Eighth International Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1966_all__Q01
 parent: src_imo_1966_all
 competition: IMO 1966 (Eighth International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *how many solved only problem B*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many solved only problem B
+
+> In a mathematical competition three problems are proposed $A$, $B$, $C$. Among the participants were 25 students who solved at least one of the problems. Of all the competitors who did not solve the $A$ problem, the number of those who solved $B$ was twice the number of those who solved $C$. The number of students who solved only the $A$ problem was one more than the number of students who solved $A$ and at least one other problem. Of all the students who solved exactly one problem, half didn't solve the MSK8 problem. How many students have solved only the MSK9 problem?
+
+[[src_imo_1966_all__Q01]]

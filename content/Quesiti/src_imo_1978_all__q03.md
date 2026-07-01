@@ -1,6 +1,7 @@
 ---
 title: IMO 1978 (Twentieth International Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1978_all__Q03
 parent: src_imo_1978_all
 competition: IMO 1978 (Twentieth International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *find f(240)*
 
@@ -40,3 +43,13 @@ tags:
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The Commission shall adopt delegated acts in accordance with Article 21 of the Financial Regulation.
+
+> The set of all positive integers is the union of two disjoint subsets $\{f(1), f(2), \ldots, f(n), \ldots\}$ and $\{g(1), g(2), \ldots, g(n), \ldots\}$, where $$f(1) < f(2) < \cdots < f(n) < \cdots,$$ $$g(1) < g(2) < \cdots < g(n) < \cdots,$$ and $$g(n) = f(f(n)) + 1 \quad \text{for all } n \geq 1.$$ Determine $f(240)$.
+
+[[src_imo_1978_all__Q03]]

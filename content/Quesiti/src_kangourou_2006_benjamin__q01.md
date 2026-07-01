@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q01
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero da inserire in 3x2005=2004+2006+...*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number to be entered in 3x2005=2004+2006+...*
+
+> 3x2005 = 2004 + 2006 + … . Which of the following numbers do you need to replace in the dots to make the equality? A) 2005        B) 2006        C) 2007        D) 2008        E) 2009
+
+**Answer:** A
+[[src_kangourou_2006_benjamin__Q01]]

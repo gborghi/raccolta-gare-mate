@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2022 — Nível 2 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2022_n2_fx__Q01
 parent: src_obm_2022_n2_fx
 competition: Olimpíada Brasileira de Matemática 2022 — Nível 2 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Stone-pile game: sequences, table, invariant of single-stone piles*
 
@@ -59,3 +62,25 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yFIgKBuQEpUjEcOEwjrnJOD221-_Znel/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco con pile di pietra: sequenze, tabella, invariante di pile di pietra singola*
+
+> Un gioco per un singolo giocatore ha le seguenti regole: inizialmente ci sono dieci pile di pietre, rispettivamente $1, 2, 3, \ldots, 10$ pietre. In ogni turno il giocatore può eseguire una delle seguenti operazioni:
+> 
+> (i) scegliere due pile, ciascuna con almeno due pietre, fonderele e poi aggiungere altre due pietre alla nuova pila;
+> 
+> (ii) Scegliere una pila con almeno $4$ pietre, rimuovere da essa $4$ pietre e dividere le pietre rimanenti in due pile di qualsiasi numero positivo di pietre scelto dal giocatore.
+> 
+> Il gioco continua fino a quando non si può eseguire alcuna operazione.
+> 
+> (a) Fornire un esempio di una sequenza di mosse che porta alla fine del gioco.
+> 
+> b) Fare una tabella che indichi il numero totale di pietre e il numero di pile all'inizio e dopo ciascuna delle prime operazioni $5$ nell'esempio di cui sopra.
+> 
+> (c) Mostrare che il numero di pile con esattamente una pietra alla fine della partita è sempre lo stesso, indipendentemente dal modo in cui le mosse sono fatte.
+
+[[src_obm_2022_n2_fx__Q01]]

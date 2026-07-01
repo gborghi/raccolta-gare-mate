@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2001-02 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2001-02_round2__Q04
 parent: src_bmo_2001-02_round2
 competition: British Mathematical Olympiad 2001-02 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Product of tangent lengths from point to unit spheres bounded by distances to centres*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LpuwuHoIJIBIDP0Y40GXoBYpt9HAeS6D/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Produzione di lunghezze tangenti da punto a sfera unitaria delimitate da distanze verso i centri*
+
+> $B_1, B_2, \ldots, B_n$ sono sfere di raggio unitario disposte nello spazio. Il punto $P$ è un punto e per ogni $i$ ($1 \le i \le n$) la lunghezza della tangente da $P$ alla sfera $B_i$ è indicata da $t_i$. Prova che il prodotto della $t_i$ non è più del prodotto delle distanze $PC_i$, dove $C_i$ è il centro di $B_i$.
+
+[[src_bmo_2001-02_round2__Q04]]

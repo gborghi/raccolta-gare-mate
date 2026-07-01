@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1994 (35th IMO, Hong Kong) — Quesito 5'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1994__Q05
 parent: src_imo_1994
 competition: 'IMO 1994 (35th IMO, Hong Kong)'
@@ -24,6 +25,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all f on (-1,inf) with functional and monotonicity conditions*
 
@@ -35,3 +38,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uEhsmiYhsGIpd8-npjJnscoeuH2AmioB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find all f on (-1,inf) with functional and monotonicity conditions
+
+> Let S be the set of real numbers strictly greater than −1. Find all functions f : S →S satisfying the two conditions:
+
+[[src_imo_1994__Q05]]

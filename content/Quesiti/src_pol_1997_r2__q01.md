@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r2__Q01
 parent: src_pol_1997_r2
 competition: Olimpiade Matematica Polacca 1997 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ordered triples satisfying a symmetric real system*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fDY_chv3u9rsyb6LgvZXDNkbEcZAAdED/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i triples ordinati che soddisfano un sistema reale simmetrico*
+
+> Per qualsiasi numero reale $a$ si trova il numero di triples ordinati $(x, y, z)$ di numeri reali che soddisfano $$x + y^2 + z^2 = a, \quad x^2 + y + z^2 = a, \quad x^2 + y^2 + z = a.$$
+
+[[src_pol_1997_r2__Q01]]

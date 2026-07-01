@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f3__Q06
 parent: src_obm_2013_n3_f3
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Incircle of ABC touches sides; reflections of intersection point lie on line through incenter and circumcenter*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/196iotHwSAcZNCxZblUXBqibkyRsVNzdN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'incircolo dell'ABC tocca i lati; i riflessi del punto di intersezione si trovano in linea attraverso l'incentro e il circoncentro*
+
+> L'incircolo del triangolo $ABC$ tocca i lati $BC$, $CA$ e $AB$ rispettivamente nei punti $D$, $E$ e $F$. Il punto di intersezione delle linee $AD$ e $BE$ è $P$. I riflessi di $P$ rispetto alle linee $EF$, $FD$ e $DE$ sono rispettivamente $X$, $Y$ e $Z$. Prove che le linee $AX$, $BY$ e $CZ$ hanno un punto comune sulla linea $IO$, dove $I$ è il centro e $O$ è il centro circostante del triangolo $ABC$.
+
+[[src_obm_2013_n3_f3__Q06]]

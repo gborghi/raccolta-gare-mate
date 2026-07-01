@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - gara marzo — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier__Q03
 parent: src_kangourou_2021_ecolier
 competition: Kangourou 2021 Ecolier - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato dell'addizione nel puzzle a tessere*
 
@@ -47,3 +50,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Result of the addition to the card puzzle*
+
+![[src_kangourou_2021_ecolier__prob3.png]]
+
+> By embedding the four cards in the puzzle correctly, you get a rectangle in which you read an addition. What is the result? A) 6
+> 	
+> B) 15
+> 	
+> C) 18
+> 	
+> D) 24
+> 	
+> E) 33
+
+**Answer:** B
+[[src_kangourou_2021_ecolier__Q03]]

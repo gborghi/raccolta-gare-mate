@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo21yq_yosen__Q04
 parent: src_jmo21yq_yosen
 competition: Japan Mathematical Olympiad 2011 — Yosen (Preliminary)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find radius of circular sector OAB from chord segments*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il raggio del settore circolare OAB da segmenti di accordi*
+
+> Nella figura seguente, $O$ è il centro (apex) del settore $OAB$. Abbiamo $AQ = 5$, $BQ = 6$, $OQ = PQ$. Trova la lunghezza del raggio del settore. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+![[src_jmo21yq_yosen__Q04.png]]
+
+[[src_jmo21yq_yosen__Q04]]

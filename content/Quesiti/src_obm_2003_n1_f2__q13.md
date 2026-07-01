@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f2__Q13
 parent: src_obm_2003_n1_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all powerful numbers less than 100*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i numeri potenti inferiori a 100*
+
+> Considera il prodotto di tutti i divisori positivi di un intero positivo $N$, diverso da $N$ stesso. Diciamo $N$ è \emph{potente} se il prodotto di questi divisori è uguale al quadrato di $N$. Ad esempio, $12$ è potente, poiché i suoi divisori positivi diversi da $12$ sono $1, 2, 3, 4, 6$ e $1 \cdot 2 \cdot 3 \cdot 4 \cdot 6 = 144 = 12^2$. Trova tutti i numeri potenti inferiori a $100$.
+
+[[src_obm_2003_n1_f2__Q13]]

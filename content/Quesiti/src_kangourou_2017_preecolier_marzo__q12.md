@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_preecolier_marzo__Q12
 parent: src_kangourou_2017_preecolier_marzo
 competition: Kangourou 2017 Pre-Ecolier - Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizione della figura a C dopo sei rotazioni*
 
@@ -39,3 +42,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Position of the figure at C after six rotations*
+
+> Alfredo has carved out of a square sheet the C-shaped figure you see in the drawing and now rotates it on the table plane: in the drawing you see the position of the figure after each of the first three rotations. In total, the figure makes six rotations, each of a quarter of a turn.
+> 
+> (A) (B) (C) (D) (E)
+> 
+> (see figure)
+
+**Answer:** D
+[[src_kangourou_2017_preecolier_marzo__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Gara del Pubblico — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_pubblico__Q13
 parent: src_gas_2010_pubblico
 competition: Gara a Squadre 2010 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di vincita con bastoncini di Fibonacci*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0006
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of winning with Fibonacci rods*
+
+> Filibunacci's staffs Will, Elizabeth, Captain Disparrow and Captain Bourbakossa are unable to agree on the route to be followed and decide to entrust the choice to the lot. The young Filibunacci makes 7 sticks 1, 2, 3, 5, 8, 13 and 21 cm long. Captain Disparrow wins if he extracts the shortest stick of all the extracts or if the sum between the length of his stick and Elizabeth's is greater than the sum of the other two extracted sticks. What are the odds of Captain Disparrow winning? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
+
+**Answer:** 0006
+[[src_gas_2010_pubblico__Q13]]

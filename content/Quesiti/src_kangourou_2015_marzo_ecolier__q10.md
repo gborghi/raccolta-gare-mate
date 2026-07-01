@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q10
 parent: src_kangourou_2015_marzo_ecolier
 competition: Kangourou 2015 gara 19 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quante banane date*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many bananas are given< MSK1/>
+
+> Carlo had seven apples and two bananas. He gave Gianni two apples, and he gave him some bananas. Now the number of apples and the number of bananas that Charles has are the same. How many bananas did Gianni give Carlo? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 7
+
+**Answer:** B
+[[src_kangourou_2015_marzo_ecolier__Q10]]

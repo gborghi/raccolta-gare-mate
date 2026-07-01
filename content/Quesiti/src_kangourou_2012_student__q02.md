@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q02
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ore con livello dell'acqua sopra 30 cm dal grafico*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Gold with water level above 30 cm from the chart*
+
+> The number is equal to A) 1. B)       . C)     . D)       . E) 2.
+
+[[src_kangourou_2012_student__Q02]]

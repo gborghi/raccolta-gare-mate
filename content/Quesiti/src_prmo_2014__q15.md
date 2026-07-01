@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2014__Q15
 parent: src_prmo_2014
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2014
@@ -32,6 +33,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length XY in triangle XOY with angle=90, midpoints M,N on legs, XN=YM=22*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 26
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza XY in triangolo XOY con angolo=90, punti medi M, N sulle gambe, XN=YM=22*
+
+> Che $XOY$ sia un triangolo con $\angle XOY = 90^\circ$. I punti intermedi $M$ e $N$ siano rispettivamente i punti intermedi $OX$ e $OY$ delle gambe. Supponiamo che $XN = 19$ e $YM = 22$. Che cos'è < MSK8/>?
+
+**Risposta:** 26
+[[src_prmo_2014__Q15]]

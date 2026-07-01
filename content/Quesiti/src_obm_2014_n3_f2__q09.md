@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f2__Q09
 parent: src_obm_2014_n3_f2
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length SU in quadrilateral with inscribed circle, given tangent lengths*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XkAXjIN4Wy75ir0QX-HQaiyTPxhLBK2C/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza SU in quadrilatore con un cerchio inciso, date le lunghezze tangenti*
+
+> Un cerchio è tangente ai quattro lati del quadrilaterale $ABCD$. I punti di tangenza sono $R$ su $AB$, $S$ su $BC$, $T$ su $CD$ e $U$ su $DA$. Dato che $AU = 1$, $DU = 2$, $BS = 2$ e $CS = 4$, si trova la lunghezza $SU$.
+
+[[src_obm_2014_n3_f2__Q09]]

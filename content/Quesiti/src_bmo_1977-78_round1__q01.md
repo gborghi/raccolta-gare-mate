@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1977-78 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1977-78_round1__Q01
 parent: src_bmo_1977-78_round1
 competition: British Mathematical Olympiad 1977-78 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find point P inside triangle maximising product of distances to sides*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8BoKSdnP6g4c0hQo4qANDF8IggscL4M/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare il punto P all'interno del triangolo massimizzando il prodotto delle distanze verso i lati*
+
+> Determinare il punto $P$ all'interno di un triangolo $ABC$ per il quale il prodotto $PL \cdot PM \cdot PN$ è un massimo, dove $L$, $M$, $N$ sono i piedi delle perpendicolari da $P$ a $BC$, $CA$ e $AB$ rispettivamente.
+
+[[src_bmo_1977-78_round1__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q01
 parent: src_kangourou_2024_ecolier_semifinale
 competition: Kangourou Semifinale individuale Ecolier 2024
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di cioccolatini regalati a tre figli*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of chocolates given to three children< MSK1/>
+
+> The mother gave her three children the same number of chocolates. When they each ate six, they realized that, overall, the chocolates left were as many as they each received from their mother. What's the total number of chocolates your mom gave you? A) 27 B) 48 C) 36 D) 21 E) 22 Answer: A). The solution. The number sought must be such that subtracting 18 gives one third of the same number.
+
+**Answer:** A
+[[src_kangourou_2024_ecolier_semifinale__Q01]]

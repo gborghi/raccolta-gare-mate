@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q11
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Mirror image of clock showing 2h23min*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Immagine speculare dell'orologio che mostra 2h23min*
+
+> L'orologio del professor Piraldo è preciso ma diverso: le sue mani si muovono in senso contrario. Se guardate l'orologio in uno specchio quando mostra $2{:}23$, quale delle seguenti immagini vedreste?
+> 
+> A) B) C) D) E)
+
+![[src_obm_2005_n1_f1__Q11.png]]
+
+**Risposta:** B
+[[src_obm_2005_n1_f1__Q11]]

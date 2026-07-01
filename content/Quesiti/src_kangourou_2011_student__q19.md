@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q19
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di palline con divisibilita per 6,7,42*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of balls with divisibility by 6.7.42< MSK1/>
+
+> Each ball in a lottery day has a positive integer. On exactly 30 balls, there's a number divisible by 6, on exactly 20 a number divisible by 7 and on exactly 10 a number divisible by 42. How many balls should there be in the urna at least? A) 30 B) 40 C) 53 D) 54 E) 60
+
+**Answer:** B
+[[src_kangourou_2011_student__Q19]]

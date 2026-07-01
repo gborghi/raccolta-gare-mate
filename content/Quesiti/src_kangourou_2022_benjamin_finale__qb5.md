@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin finale individuale — Quesito B5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_finale__QB5
 parent: src_kangourou_2022_benjamin_finale
 competition: Kangourou 2022 Benjamin finale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti triangoli equilateri congiungendo vertici di un cubo*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 8
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14QgfusYqtaxWZ9wvngN_12GroIjBw4DZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of equilateral triangles joining vertices of a cube< MSK1/>
+
+> Of the triangles obtained by joining three vertices of the same cube, how many are equilaterals?
+
+**Answer:** 8
+[[src_kangourou_2022_benjamin_finale__QB5]]

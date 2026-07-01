@@ -1,6 +1,7 @@
 ---
 title: IMO 1981 (XXII International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1981__Q04
 parent: src_imho_1981
 competition: IMO 1981 (XXII International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Largest number in set divides LCM of remaining n-1*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J1b7EGoN_5JsjzdgRDEDkEXvbhWyzsge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Largest number in set divides LCM of remaining n-1*
+
+> (a) For which values of $n > 2$ is there a set of $n$ consecutive positive integers such that the largest number in the set is a divisor of the least common multiple of the remaining $n - 1$ numbers?
+> 
+> (b) For which values of $n > 2$ is there exactly one such set having the stated property?
+
+[[src_imho_1981__Q04]]

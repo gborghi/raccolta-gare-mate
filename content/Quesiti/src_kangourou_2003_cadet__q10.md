@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Cadet (20 marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet__Q10
 parent: src_kangourou_2003_cadet
 competition: Kangourou 2003 Cadet (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Alberi senza nastro dopo conteggi andata/ritorno*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eygrPRLv8IqHr90bPrLsox-FA6V93kRL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Table-free trees after round-trip counts*
+
+> There are 100 trees along the road from Louis' house to the pool. Going from home to the pool and returning, Luigi marked some trees with a red ribbon as follows. Allandata marked the first tree and then the second of each pair of trees she encountered; on her return she marked the first tree and then the third of each trunk of trees she encountered. After that, how many trees don't have the red ribbon? A) 40 B) 33 C) 50 D) 25 E) 19 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** B
+[[src_kangourou_2003_cadet__Q10]]

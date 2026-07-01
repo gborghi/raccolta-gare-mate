@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_n2_fx__Q01
 parent: src_obm_2024_n2_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence formed by repeated prime-factorization operation; three sub-parts*
 
@@ -53,3 +56,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IF2AhS-oyKoh7_VN0FmjTtVwiNv_ZbJT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza costituita da ripetute operazioni di fattorizzazione dei primi; tre sottoparti*
+
+> Considera una sequenza il cui primo termine è un dato intero positivo $N > 1$. Dato un termine $N$ della sequenza, se $N$ è una potenza di un singolo primo, la sequenza termina a $N$. In caso contrario, il termine successivo viene ottenuto prendendo il più grande fattore primo $p$ di $N$ e sostituendo $p$ con $p+1$ nella fattorizzazione primaria; se il numero risultante non è una potenza di un primo, il processo viene ripetuto sul nuovo numero, dando origine al termine successivo; e così via. Ad esempio, se il primo termine della sequenza è $N = 300 = 2^2 \cdot 3 \cdot 5^2$, poiché il suo fattore primo più grande è $p = 5$, il secondo termine è $2^2 \cdot 3 \cdot (5+1)^2 = 2^4 \cdot 3^3$. Dal momento che $p = 3$ e quindi il terzo termine è $2^4 \cdot (3+1)^3 = 2^{10}$. Abbiamo ottenuto una potenza di $2$, quindi la sequenza termina. Ad esempio, la sequenza $2^2 \cdot 3 \cdot 5^2, \; 2^4 \cdot 3^3, \; 2^{10}$ ha termini $3$.
+> 
+> (a) Quanti termini ha la sequenza il cui primo termine è $N = 2 \cdot 3 \cdot 5 \cdot 7 \cdot 11 \cdot 13 \cdot 17 \cdot 19 \cdot 23$?
+> 
+> b) Mostra che se un primo $p$ lascia il rimanente $1$ sulla divisione di $3$, allora $\frac{p+1}{2}$ è anche un intero che lascia il rimanente $1$ sulla divisione di $3$.
+> 
+> (c) Trovare un valore iniziale $N$ inferiore a $1{,}000{,}000$ (un milione) tale che la sequenza a partire da $N$ abbia esattamente $11$ termini.
+
+[[src_obm_2024_n2_fx__Q01]]

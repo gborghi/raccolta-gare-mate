@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2013 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2013__Q03
 parent: src_inmo_2013
 competition: Indian National Mathematical Olympiad 2013
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers a,b,c,d; prove polynomial has no integer solution*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gmbaqp-kDcxUyvAlPf7W-ahq0MnrHajW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieri interi positivi a,b,c,d; dimostrare che il polinomio non ha soluzione di numeri interi*
+
+> $a, b, c, d$ siano integri positivi come $a \ge b \ge c \ge d$. Prove che l'equazione $x^4 - ax^3 - bx^2 - cx - d = 0$ non ha una soluzione integrale.
+
+[[src_inmo_2013__Q03]]

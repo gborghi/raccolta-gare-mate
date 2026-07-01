@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_triennio__Q16
 parent: src_archimede_2014_triennio
 competition: Giochi di Archimede 2014 - Triennio (Testo 1)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio circonferenza ex-inscritta in triangolo rettangolo*
 
@@ -62,3 +65,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rage ex-circumference inscribed in a rectangular triangle*
+
+![[src_archimede_2014_triennio__prob16.png]]
+
+> Whether ABC is a right triangle whose cathetes measure AC =2m and BC =1m. Consider the tangent circumference of the hypotenuse and the lines containing AC and BC, outside the triangle ABC: how much is its radius r in m? (A) 1+ √ 5 2 , (B) √ 5, (C) 3+ √ 5 2 , (D) 5, (E) 2+ √ 5 2 . A r B C
+
+**Answer:** C
+[[src_archimede_2014_triennio__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1970 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1970_r3__Q03
 parent: src_pol_1970_r3
 competition: Olimpiade Matematica Polacca 1970 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n>1 is prime iff n divides all intermediate binomial coefficients*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NxvTqHB2h85LaOtFK6TUdaJR3QiuBzRI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*n>1 è primo se n divide tutti i coefficienti binomiali intermedi*
+
+> Prova che un intero $n > 1$ è un numero primo se e solo se, per ogni intero $k$ con $1 \le k \le n-1$, il coefficiente binomio $\binom{n}{k}$ è divisibile da $n$.
+
+[[src_pol_1970_r3__Q03]]

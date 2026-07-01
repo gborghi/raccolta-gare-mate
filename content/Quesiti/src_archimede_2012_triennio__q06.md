@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Triennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_triennio__Q06
 parent: src_archimede_2012_triennio
 competition: Giochi di Archimede 2012 - Triennio
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area quadrato inscritto con similitudine in triangolo*
 
@@ -58,3 +61,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Square area inscribed with triangular similarities*
+
+> The answer is C. We're going to use O to show the center of the square, K to show the top of the square that belongs to the AC side, and 2x the length in meters of the square's diagonal. For the similarity of the AHC and KOC triangles, we have CH AH = OC KO = 2 −x x. Ma CH AH = 2 m 0,5 m = 4 . From here we get x = 2.5 m and then HK = 2 √ 2.5 m. The area of the square is then 8 25 m2. [Problem proposed by Mr U. Bindini and A. I'm going to have to go with you.
+
+**Answer:** C
+[[src_archimede_2012_triennio__Q06]]

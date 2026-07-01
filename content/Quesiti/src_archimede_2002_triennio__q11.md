@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2002 - Triennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_triennio__Q11
 parent: src_archimede_2002_triennio
 competition: Giochi di Archimede 2002 - Triennio
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Per quali interi a/b + c/d = (a+c)/(b+d)*
 
@@ -47,3 +50,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*For which integers a/b + c/d = (a+c)/(b+d) *
+
+> For which positive integers a, b, c, d can we have a b + c d = a + c b + d?
+>
+> - **(A)** When a b = c d
+> - **(B)** where a2 = cb2
+> - **(C)** when b · d = b + d
+> - **(D)** Never
+> - **(E)** I always do.
+
+[[src_archimede_2002_triennio__Q11]]

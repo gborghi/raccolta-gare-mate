@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Semifinale 1 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_semifinale1__Q03
 parent: src_squadre_2024_semifinale1
 competition: Gara a Squadre 2024 - Semifinale 1
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (x,y) con |y|<=4000 e relazione con potenze di 2*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0012
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0>Pairs (x,y) with ≠ 4000 and relationship to powers of 2 < MSK1/>
+
+> Noted yellow book writer Jessica Fourier likes to put some math questions in her novels. In its last effort, it asks the reader how many pairs (x,y) of integers with \\\displaystyle \\\mathbb {MSK0/>4000} are so there exists a positive integer k that satisfies the relation x2 +y2 +22k−1 +2kx−2ky = 0. What's the answer?
+
+**Answer:** 0012
+[[src_squadre_2024_semifinale1__Q03]]

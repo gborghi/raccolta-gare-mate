@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f2__Q06
 parent: src_obm_2007_n2_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right triangle ABC with a point O (AO=BO=CO); prove angle ACB = 30 degrees.*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 30
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo retto ABC con punto O (AO=BO=CO); prova angolo ACB = 30 gradi.*
+
+> (Parte B, Problema 1.) Lasciate che $ABC$ sia un triangolo rettangolo, e lasciate che $O$ sia un punto con $AO=BO=CO$ (così $O$ è il punto medio dell'ipotenusa / circumcentro). Un punto $I$ soddisfa $\angle BAI=\angle OAI=45^\circ$. Poiché il triangolo $ABC$ è rettangolare, si ha $AO=BO=CO$, e da $\angle BAI=\angle OAI=45^\circ$ insieme al lato comune $AI$ i triangoli $ABI$ e $AOI$ sono congruenti (ASA), dando $AB=BO$; con $AB=BO=AO$ il triangolo $ABO$ è equilaterale. Concludere la misura di $\angle ACB$. [Fonte: foglio delle soluzioni; dichiarazione ricostruita dalla soluzione, che conclude $\angle ACB=30^\circ$.]
+
+![[src_obm_2007_n2_f2__Q06.png]]
+
+**Risposta:** 30
+[[src_obm_2007_n2_f2__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1996 — Round 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1996_r2__Q05
 parent: src_pol_1996_r2
 competition: Olimpiade Matematica Polacca 1996 — Round 2
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integers x,y with x^2(y-1)+y^2(x-1)=1*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15CNz3kFk7PIwx8NxujVN7hqidN5tvos-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli enti x,y con x^2(y-1) + y^2(x-1)=1*
+
+> Trova tutti gli integri $x$, $y$ tali da $x^2(y - 1) + y^2(x - 1) = 1$.
+
+[[src_pol_1996_r2__Q05]]

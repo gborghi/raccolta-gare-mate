@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q01
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -27,6 +28,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Arithmetic sequence with two linear conditions; find first term.*
 
@@ -39,3 +42,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza aritmetica con due condizioni lineari; trovare il primo termine.*
+
+> [Test paper A, problema 1] Supponiamo che la sequenza aritmetica $\{a_n\}$ soddisfi $a_{2021}=a_{20}+a_{21}=1$. Quindi il primo termine $a_1$ è ______.
+
+**Risposta:** a_1=\dfrac{1981}{4001}
+[[src_cn_cmc-first-round_2021__Q01]]

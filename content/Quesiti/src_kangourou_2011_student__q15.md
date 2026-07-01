@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q15
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo tra tergicristallo e bordo, area pulita*
 
@@ -79,3 +82,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Angle between floor and edge, clean area*
+
+![[src_kangourou_2011_student__prob15.png]]
+
+> The rear windscreen of a car is constructed so that the windscreen brush w and the r-link arm are of equal length and are rigidly connected to form an angle measuring α radiants . The windshield rotates on the C-side of the arm and cleans the surface as shown in the figure. How much radiant does it measure the angle β formed by the right edge of the cleaned surface and the tangent to its upper curved side at the point of contact between the curved side and the right edge? (a) (b) (c) (d) (c) (d) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e) (e)
+> 
+> I'm going to pay. I'm going to pay. 30 30 Kang 201 Kang 2011
+
+[[src_kangourou_2011_student__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1978 (Twentieth International Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1978_all__Q05
 parent: src_imo_1978_all
 competition: IMO 1978 (Twentieth International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *sum a_k/k^2 >= sum 1/k*
 
@@ -34,3 +37,13 @@ tags:
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>sum a_k/k^2 >= sum 1/k< MSK1/>
+
+> Let $\{a_k\}$ ($k = 1, 2, 3, \ldots$) be a sequence of distinct positive integers. Prove that for all natural numbers
+
+[[src_imo_1978_all__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2023__Q01
 parent: src_tfjm_2023
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023
@@ -36,6 +37,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest axis-aligned square stamp that fits inside a package of given shape, then total area with two disjoint stamps*
 
@@ -50,3 +53,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Zgbgw16aZEai2bo8kAUFHAI-ffQz7IA5/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più grande timbro quadrato allineato all'asse che si inserisce all'interno di un pacchetto di una determinata forma, quindi superficie totale con due timbri disgiunti*
+
+> Pilatamente. Roman non è un collezionista di francobolli abbastanza ordinario: non raccoglie francobolli, ma francobolli di inchiostro (tamponi). Quando viene dato un pacchetto di una certa forma, cerca il più grande timbro di inchiostro per applicarlo. Il pacchetto è piatto con un orientamento fisso e i timbri di inchiostro sono quadrati i cui lati sono paralleli agli assi di un quadro di coordinate ortogonali fissi.\n\n1. Qual è il più grande timbro possibile se il pacchetto è:\n - Un rettangolo di lati $a$ e $b$ (con $a \\neq b$), i cui lati sono paralleli agli assi?\n - Un disco di raggio $r$?\n - Un triangolo rettangolo di uguali stelle le cui gambe (i lati dell'angolo giusto), di lunghezza $a$, sono paralleli agli assi?\n\n2. Supponiamo ora che il pacchetto sia un poligono converso, cioè un poligono il cui angolo interno misura rigorosamente tra $0^\\circ$ e $180^\\circ$. Roman analizza il numero di modi (potenzialmente infiniti) per posizionare il timbro di inchiostro di dimensioni massime sul confezionamento. Dopo la riflessione, Roman si dice che un pacchetto porterebbe più francobolli di inchiostro se potesse mettere due francobolli di inchiostro invece di uno; poi cerca di massimizzare la loro dimensione totale. I due timbri di inchiostro devono essere inseriti all'interno dell'imballaggio, devono essere quadrati allineati all'asse e non devono sovrapporre­si (potranno comunque toccarsi, avendo solo punti in comune). Nota con $A_p$ la superficie più grande che Roman può ottenere se prima applica un timbro di inchiostro di dimensioni massime, poi un secondo nello spazio che rimane; e con $A_{\\text{dis}}$ la superficie totale più grande che può ottenere se può posizionare i due timbri di inchiostro come desidera, a condizione che siano disconnessi.\n\n3. Abbiamo sempre $A_p = A_{\\text{dis}}$? Se no, quale può essere il rapporto $A_{\\text{dis}}/A_p$?\n\n4. Qual è il valore di $A_{\\text{dis}}$ se il pacchetto è:\n - Un rettangolo di lati $a$ e $b$ (con $a \\neq b$), i cui lati sono paralleli agli assi?\n - Un disco di raggio $r$?\n - Un triangolo rettangolare di uguali pollice le cui gambe, di lunghezza $a$, sono parallele agli assi?\n\n5. Supponiamo ora che il pacchetto sia un poligono convex. Trova, in funzione del numero di lati del poligono, i valori possibili per il rapporto $A_{\\text{dis}}/A_p$.\n\n6. Ora ci rendiamo conto che i francobolli di inchiostro non si riproducono bene se si toccano, quindi Roman impone ora che l'unione di due francobolli di inchiostro di dimensioni arbitrarie, quando li colloca, non deve essere sovrapponibile (i due francobolli di inchiostro non contano più come lo stesso mescolamento, cioè non devono sovrapporre o toccare un segmento). Qual è il valore di $A_{\\text{dis}}$ se il pacchetto è:\n - Un rettangolo di lati $a$ e $b$ (con $a \\neq b$), i cui lati sono paralleli agli assi?\n - Un disco di raggio $r$?\n - Un triangolo rettangolare di uguali braccia le cui gambe, di lunghezza $a$, sono parallele agli assi?\n\n7. Risolvi il problema se non è più possibile richiedere che i timbri di inchiostro siano allineati all'asse. In particolare, trovare le forme di confezione che consentono Roman di posizionare 2 timbri di inchiostro la cui superficie totale aumenta il più possibile.\n\n8. Proporre e studiare altre linee di ricerca.
+
+![[src_tfjm_2023__Q01.png]]
+
+[[src_tfjm_2023__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q08
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale non puo essere area di triangolo con lati 6 e 8*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which cannot be an area of triangle with sides 6 and 8*
+
+> Which of the following numbers cannot be the area, in square metres, of a triangle whose two sides are 6 and 8 metres long? A) 20 B) 24 C) 19,1 D) 25 E) 5
+
+**Answer:** D
+[[src_kangourou_2011_cadet__Q08]]

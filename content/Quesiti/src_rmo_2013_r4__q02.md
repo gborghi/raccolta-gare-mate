@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 4 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r4__Q02
 parent: src_rmo_2013_r4
 competition: Regional Mathematical Olympiad 2013
@@ -35,6 +36,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest five-digit number with digits in strictly increasing order not divisible by 11*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A3xPqFuv-0CPhkgiaHaPOWIfaJVs8RuK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero a cinque cifre minore con cifre in ordine rigorosamente in aumento non divisibili per 11*
+
+> Determinare il primo più piccolo che non divide un numero a cinque cifre il cui numero è in ordine rigorosamente crescente.
+
+[[src_rmo_2013_r4__Q02]]

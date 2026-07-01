@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_semifinale_b__Q09
 parent: src_cesenatico_2013_semifinale_b
 competition: Gara a Squadre Cesenatico 2013 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Min ostriche iniziali (resti per n=2..71)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4095
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Min initial oysters (residues for n=2.71) < MSK1/>
+
+> The Queen's pearls After an unadorned oyster shroud, Triseco and Cartantiere arranged the pearls they found in this way. It divides, with parallel lines on the sides, an equilateral triangle on side 60 into many triangles on side 3. Then pearls are placed on each point that is a vertex of these triangles, as well as two pearls on each of their sides, so that each pearl is at a distance of 1 from its nearest neighbor. How many pearls did they use to compose the figure?
+
+**Answer:** 4095
+[[src_cesenatico_2013_semifinale_b__Q09]]

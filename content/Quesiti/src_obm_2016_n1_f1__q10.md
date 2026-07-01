@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f1__Q10
 parent: src_obm_2016_n1_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Erase points from a 12-point figure so no four remaining points form a forbidden configuration.*
 
@@ -56,3 +59,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sborra i punti da una figura di 12 punti in modo che non siano rimasti quattro punti che formino una configurazione proibita.*
+
+> Nella figura dei punti $12$, decidere quanti punti devono essere cancellati.
+> 
+> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: si cancella alcuni punti del $12$, lasciando $4$. Esaminando i segmenti, ogni gruppo di punti uniti da un segmento si trova su una configurazione quadrata; eliminando un punto di ciascuna di tali coppie rimuove esattamente $8$ punti. Ragionando attraverso le voci, la risposta è $12$.]
+
+![[src_obm_2016_n1_f1__Q10.png]]
+
+**Risposta:** D
+[[src_obm_2016_n1_f1__Q10]]

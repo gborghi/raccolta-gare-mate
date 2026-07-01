@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Triennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_triennio__Q06
 parent: src_archimede_2009_triennio
 competition: Giochi di Archimede 2009 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero studenti scuola da diplomati, trasferiti e iscritti*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of school pupils graduated, transferred and enrolled*
+
+> 6) At the end of last year, 18% of pupils in the whole school graduated from one school and another 3% of pupils moved to other schools. This year 84 new pupils have enrolled in the school and the number of pupils is now the same as last year. How many students does the school have?
+>
+> - **(A)** 324,
+> - **(B)** 400,
+> - **(C)** 500,
+> - **(D)** 525,
+> - **(E)** 600.
+
+**Answer:** B
+[[src_archimede_2009_triennio__Q06]]

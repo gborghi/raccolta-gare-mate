@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2020 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_printemps__Q02
 parent: src_canimath_2020_printemps
 competition: Coupe Animath Printemps 2020
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 5-card hands containing four cards of the same value*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta le mani a 5 carte contenenti quattro carte dello stesso valore*
+
+> Ci viene dato un mazzo contenente carte $52$. Ogni carta contiene un *valore* tra "$1, 2, 3, 4, 5, 6, 7, 8, 9, 10$, jack, queen, king" e un *colore* (abito) tra "corazzo, diamante, spade, club", in modo tale che, per ogni valore e per ogni colore, il mazzo contiene una carta unica con tale valore e con tale colore. Una mano * di carte $5$* è una scelta di carte $5$ da questo mazzo, senza preoccuparsi dell'ordine in cui le carte sono scelte. Quante mani di carte $5$ ci sono che contengono quattro carte con lo stesso valore?
+> 
+> *Solo una risposta numerica è prevista qui.*
+
+[[src_canimath_2020_printemps__Q02]]

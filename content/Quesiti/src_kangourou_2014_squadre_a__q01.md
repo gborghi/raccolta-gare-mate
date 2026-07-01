@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q01
 parent: src_kangourou_2014_squadre_a
 competition: Kangourou Coppa Squadre 2014 Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale di sconto totale sul prezzo iniziale*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 44
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage of total discount on the starting price*
+
+> To celebrate the anniversary of its opening, a bakery today offers a 30% discount on all items sold. Moreover, on the most representative cake of its production, the bakery offers an additional 20% discount on the discounted price. For this cake, what's the discount rate on the starting price?
+
+**Answer:** 44
+[[src_kangourou_2014_squadre_a__Q01]]

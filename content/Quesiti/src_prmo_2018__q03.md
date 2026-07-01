@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q03
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 6-digit numbers of form abccba with b odd and divisible by 7*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 70
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri a 6 cifre della forma abccba con b pari e divisibile per 7*
+
+> Considerare tutti i numeri a 6 cifre del modulo $abccba$, dove $b$ è pari. Determinare il numero di tutti i numeri a 6 cifre divisibili per 7.
+
+**Risposta:** 70
+[[src_prmo_2018__Q03]]

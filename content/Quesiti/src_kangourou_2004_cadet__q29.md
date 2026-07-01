@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q29
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri di 4 cifre divisibili 12 con somma 6*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers of 4 digits divisible by 12 with sum of 6*
+
+> The 2004 number is divisible by 12 and the sum of its digits is equal to 6. How many exactly four-digit numbers have these two properties? A) 10           B) 12          C) 13          D) 15          E) 18
+
+**Answer:** E
+[[src_kangourou_2004_cadet__Q29]]

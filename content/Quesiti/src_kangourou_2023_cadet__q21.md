@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q21
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *massimo numero di canguri*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>maximum number of kangaroos< MSK1/>
+
+> Some koalas and some kangaroos are arranged in a circle. There are three koalas in total, and none of them have another koala by their side. There are exactly three kangaroos with another kangaroo next to them. How many kangaroos are there? A) 4
+> 	
+> B) 5
+> 	
+> C) 6
+> 	
+> D) 7
+> 	
+> E) 8
+
+**Answer:** B
+[[src_kangourou_2023_cadet__Q21]]

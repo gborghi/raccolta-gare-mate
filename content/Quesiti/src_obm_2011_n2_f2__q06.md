@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f2__Q06
 parent: src_obm_2011_n2_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Computer screen: starting from 5, reach 19 or 2011 via a−b operations*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rTFVytZ0r4ui2fCSYnm5ciGL2P0QyY5F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Screen del computer: a partire dal 5, raggiungendo il 19 o il 2011 tramite operazioni a−b*
+
+> Inizialmente, il numero $5$ viene visualizzato su uno schermo del computer. In qualsiasi momento, il numero sullo schermo può essere sostituito da qualsiasi numero del modulo $a - b$, dove $a$ e $b$ sono integri positivi come $a + b = n$, con $n$ il numero corrente sullo schermo.
+> 
+> a) Indicare come ottenere il numero $19$ eseguendo tali operazioni.
+> 
+> b) È possibile ottenere il numero $2011$? Non dimenticate di giustificare la vostra risposta.
+
+[[src_obm_2011_n2_f2__Q06]]

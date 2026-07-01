@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - finale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q12
 parent: src_kangourou_2021_junior_finale
 competition: Kangourou 2021 Junior - finale
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza del ponte (Aldo e Carlo)*
 
@@ -39,3 +42,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of the bridge (Aldo and Carlo) *
+
+> Amedeus walks an eight-stage wooden ladder climbing one or two steps at a time. The < MSK0/> step is rotten, so to avoid danger you must skip it. How many different ways can Amedeo reach the highest degree?
+> 
+> A) 6 B) 7 C) 8 D) 9 E) 10
+
+[[src_kangourou_2021_junior_finale__Q12]]

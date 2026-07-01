@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1 —
   Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_nu_f1__Q02
 parent: src_obm_2012_nu_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Properties of f(x)=(e^x−1)^(1/x) for x>0*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VJG3lcmttXkoTtSX_ZbVy5feO9Uy-VFe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Proprietà di f(x)=(e^x−1)^(1/x) per x>0*
+
+> Considera la funzione $f(x) = \left(e^x - 1\right)^{1/x}$, definita per $x > 0$.
+> 
+> < MSK1/>a) < MSK2/> Mostra che < MSK0/> sta aumentando rigorosamente.
+> 
+> **b) ** $V(y)$ deve essere definito da $V(y) = x$ se e solo se $f(x) = y$. Dato $0 < a < b < c$, numeri reali, si considera l'equazione $a^b + b^a = c^c$. Esprimere $x$ in termini di $a$, $b$ e $c$ utilizzando funzioni elementari e $V$.
+
+[[src_obm_2012_nu_f1__Q02]]

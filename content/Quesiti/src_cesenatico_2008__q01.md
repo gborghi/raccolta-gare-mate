@@ -1,6 +1,7 @@
 ---
 title: XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2008__Q01
 parent: src_cesenatico_2008
 competition: XXIV Olimpiade Italiana Cesenatico 2008
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dodecagono regolare, intersezione diagonali e circonferenza S*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** dimostrato (traslazione)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1o6Dc8ajv2EraLtby07SiyqyPmc6MZ9Su/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Regular decagon, diagonal intersection and circumference S*
+
+![[src_cesenatico_2008__prob1.png]]
+
+> It's either ABCDEFGHILMN or a regular dodecagon. P is the intersection point of the AF and DH diagonals. Whether S is the circumference passing through A and H, congruent to that circumscribed to the dodecagon and distinct from it. Demonstrate that: (a) P belongs to S; (b) the center of S belongs to the HN diagonal; (c) the length of PE is equal to the side of the dodecahedron.
+
+**Answer:** dimostrato (traslazione)
+[[src_cesenatico_2008__Q01]]

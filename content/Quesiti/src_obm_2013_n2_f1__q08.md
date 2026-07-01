@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q08
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count natural numbers 1-9 divisible by 5 not 9, or 9 not 5; max also divisible by 7*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri naturali 1-9 divisibili per 5 non 9, o 9 non 5; massimo anche divisibili per 7*
+
+> Tra i numeri naturali da 1 a 9, quanti sono divisibili da 5 ma non da 9, o divisibili da 9 ma non da 5? Qual è il numero massimo di numeri naturali fino a qualche limite che sono divisibili per 5 ma non per 9 (o viceversa) e allo stesso tempo divisibili per 7? Al massimo quanti dei numeri nell'intervallo sono divisibili per 7?
+> 
+> (A) 4 \quad (B) 5 \quad (C) 6 \quad (D) 7 \quad (E) 8
+
+**Risposta:** A
+[[src_obm_2013_n2_f1__Q08]]

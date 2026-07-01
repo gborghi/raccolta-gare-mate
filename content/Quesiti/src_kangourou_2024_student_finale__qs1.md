@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student finale — Quesito S1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student_finale__QS1
 parent: src_kangourou_2024_student_finale
 competition: Kangourou 2024 Student finale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Due triangoli con due lati e un'altezza uguali sono congruenti?*
 
@@ -55,3 +58,34 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** no
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pVmLuJsgtVZ0iaNk5NbfEj5LKn6f8UgH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Two triangles with two sides of equal height are congruent?*
+
+![[src_kangourou_2024_student_finale__probS1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (B) at (0,0);
+  \coordinate (D) at (4,0);
+  \coordinate (A) at (1.5,3);
+  \coordinate (C) at (1.8,0);
+  \fill[blue!40] (A) -- (C) -- (D) -- cycle;
+  \draw (A) -- (B) -- (C) -- cycle;
+  \draw (A) -- (C) -- (D) -- cycle;
+  \node[above] at (A) {$A$};
+  \node[below left] at (B) {$B$};
+  \node[below] at (C) {$C$};
+  \node[below right] at (D) {$D$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Two triangles are given. The lengths of two sides of the one coincide with the lengths of two sides of the other and the height relative to the third side of one coincides with that relative to the third side of the other. Are the two triangles necessarily congruent?
+
+**Answer:** no
+[[src_kangourou_2024_student_finale__QS1]]

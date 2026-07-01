@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q20
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which figure is the net of a cube showing its intersection with a plane*
 
@@ -49,3 +52,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Qual è la rete di un cubo che mostra la sua intersezione con un piano*
+
+> Solo una delle seguenti figure rappresenta la rete (pianificazione) di un cubo su cui è evidenziata la sua intersezione con un piano. - Quale?
+
+![[src_obm_2001_n2_f1__Q20.png]]
+
+**Risposta:** B
+[[src_obm_2001_n2_f1__Q20]]

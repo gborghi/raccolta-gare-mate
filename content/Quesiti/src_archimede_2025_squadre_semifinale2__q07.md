@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_semifinale2__Q07
 parent: src_archimede_2025_squadre_semifinale2
 competition: Gara a Squadre Nazionale 2025 - Semifinale 2
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Regioni in un quadrato con perpendicolari da 30 punti*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0961
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Regions in a square with perpendiculars of 30 points*
+
+> For business reasons, James Bound often goes to the math casino. The game you're watching right now starts with k2 dollars on the bench, with k positive. At each turn, k dollars are added to the bank (for example, after the first round there are k2 + k dollars). What's the minimum number of shifts after which there's exactly $6,384 on the bench?
+
+**Answer:** 0961
+[[src_archimede_2025_squadre_semifinale2__Q07]]

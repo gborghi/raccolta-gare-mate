@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q17
 parent: src_archimede_2026_squadre_finale_femminile
 competition: Gara a Squadre Femminile 2026 - IX Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area sezione quadrilatero di piramide esagonale*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 210
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area quadrilateral section of hexagonal pyramid*
+
+> With Dentato locked in a cage on the bow of Stoick's ship, watching the dragon's reactions in the fog, the Vikings arrive at the dragon's nest island. The top of the hill in front of them is a straight pyramid which has as its base a regular hexagon of side 14 m and side shaft equal to 25 m . Stoick orders us to hit her with our catapults. The pyramid breaks along a plane parallel to one of the side faces of the pyramid and passes through the center of the base, leaving a quadrilateral-shaped opening from which thousands of dragons escape without fighting. Suddenly, from the opening, the Red Death appears, leaving no escape for the warriors. How many feet is the area of the quadrilateral that allowed the dragons to escape? (the thickness of the rocks is neglected)
+
+**Answer:** 210
+[[src_archimede_2026_squadre_finale_femminile__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_individuale__Q06
 parent: src_archimede_2001_individuale
 competition: Archimede 2001 - Gara Nazionale Individuale (Cesenatico)
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *configurazioni per accenderle tutte*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 10x10: da qualsiasi configurazione; 9x9: condizione di parita per righe/colonne
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> settings to turn them all on< MSK1/>
+
+> A panel contains $100$ lamps arranged to form a square of $10$ rows and $10$ columns. Some of them are on, some of them are off. The electrical system is such that when pressing the button corresponding to any of the lamps, all the lamps on its column and all those on its line (including the lamp corresponding to the pressed switch) change status (i.e. they turn on or off).
+> 
+> (a) From what configurations, if appropriate, can all lamps be turned on?
+> 
+> (b) What is the answer to the previous question if the lamps are $81$, arranged to form a panel of $9$ rows and $9$ columns?
+
+**Answer:** 10x10: da qualsiasi configurazione; 9x9: condizione di parita per righe/colonne
+[[src_archimede_2001_individuale__Q06]]

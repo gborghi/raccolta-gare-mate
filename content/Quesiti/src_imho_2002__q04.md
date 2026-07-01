@@ -1,6 +1,7 @@
 ---
 title: IMO 2002 (XLIII International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2002__Q04
 parent: src_imho_2002
 competition: IMO 2002 (XLIII International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Positive divisors of n>1 in sequence with divisibility condition*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ObZM7DSfR5iF7JGM97BCPn0sruvx6Y7m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Positive divisors of n>1 in sequence with divisibility condition*
+
+> The positive divisors of an integer $n > 1$ are $d_1 < d_2 < \cdots < d_k$, so that $d_1 = 1$, $d_k = n$. Let $d = d_1 d_2 + d_2 d_3 + \cdots + d_{k-1} d_k$. Show that $d < n^2$ and find the $n$ for which $d$ divides $n^2$.
+
+[[src_imho_2002__Q04]]

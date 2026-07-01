@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Finale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q03
 parent: src_kangourou_2013_squadre_f
 competition: Kangourou Coppa Squadre 2013 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo ABC con quadrilatero ABCO rombo inscritto*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 120
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Angle ABC with square ABCO row inscribed *
+
+> A triangle ABC is inscribed in a centre circumference O such that the quadrilateral ABCO (its vertices are listed here in the anti-clockwise direction) is a triangle. How many degrees does the angle ABC measure?
+
+**Answer:** 120
+[[src_kangourou_2013_squadre_f__Q03]]

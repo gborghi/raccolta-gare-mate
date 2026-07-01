@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q20
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-digit numbers that stay valid when calculator rotated 180 degrees*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri a 3 cifre che restano validi quando la calcolatrice è girata a 180 gradi*
+
+> A Juquinha piace giocare con la sua calcolatrice. Le cifre della calcolatrice vengono visualizzate su un display a 7 segmenti. Ha definito i numeri chiamati \emph{interessante invertito} come numeri che, quando la calcolatrice è girata $180^\circ$, visualizzano ancora un numero valido (le cifre 0, 1, 2, 5, 6, 8, 9 rimangono valide quando ruotate; nota che i numeri rotati $0\to 0$, $1\to 1$, $2\to 2$, $5\to 5$, $6\to 9$, $8\to 8$, $9\to 6$). Ad esempio, 25 invertito dà 52, che è un numero valido. Ma 3 non è interessante invertito perché ruotare dà una forma che non è una cifra. Quanti numeri inversi interessanti a 3 cifre ci sono? (Le sequenze con uno zero a sinistra non sono numeri validi.)
+> 
+> (A) 150 \quad (B) 216 \quad (C) 125 \quad (D) 80 \quad (E) 120
+
+**Risposta:** A
+[[src_obm_2013_n2_f1__Q20]]

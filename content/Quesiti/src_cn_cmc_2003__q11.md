@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2003 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2003__Q11
 parent: src_cn_cmc_2003
 competition: China Mathematical Competition 2003
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the height of a cylinder packed with 8 unit balls in two layers of 4.*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ricerca l'altezza di un cilindro con 8 palle unità in due strati di 4.< MSK1/>
+
+> 8 palle di raggio 1 sono collocate in un cilindro in due strati, con ciascun strato contenente 4 palle. Ogni palla è in contatto con 2 palle nello stesso strato, 2 palle nell'altro strato, una base e la superficie laterale del cilindro. Allora l'altezza del cilindro è ___.
+
+**Risposta:** $\sqrt[4]{8} + 2$
+[[src_cn_cmc_2003__Q11]]

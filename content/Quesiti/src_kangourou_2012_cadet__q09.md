@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q09
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale forma non si ottiene con due tagli su foglio piegato*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>What shape does not come with two cuts on folded sheet< MSK1/>
+
+![[src_kangourou_2012_cadet__prob9.png]]
+
+> William folds a sheet of paper in half as shown in the figure. If he makes two straight cuts with the scissors and then reopens the sheet, he certainly cannot get one of the following shapes. What kind? A) B) C) D) E)
+
+**Answer:** D
+[[src_kangourou_2012_cadet__Q09]]

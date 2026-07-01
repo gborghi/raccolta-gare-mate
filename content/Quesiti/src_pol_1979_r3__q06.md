@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1979 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1979_r3__Q06
 parent: src_pol_1979_r3
 competition: Olimpiade Matematica Polacca 1979 — Round 3
@@ -36,6 +37,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Polynomial of degree n>1 with n distinct roots: sum of reciprocal derivative values is zero*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mFSc82UPOl-hsqJK3SMN5XvfV4dcKK2I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomio di grado n>1 con n radici distinte: la somma dei valori derivati reciproci è zero*
+
+> Un polinomio $w$ di grado $n > 1$ ha $n$ radici distinte $x_1, x_2, \ldots, x_n$. Provare che: $$\frac{1}{w'(x_1)} + \frac{1}{w'(x_2)} + \cdots + \frac{1}{w'(x_n)} = 0.$$
+
+[[src_pol_1979_r3__Q06]]

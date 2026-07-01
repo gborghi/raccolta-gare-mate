@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q14
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Complex numbers with three symmetric sum equations, find m+n for x/yz+y/zx+z/xy=m/n*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri complessi con tre equazioni di somma simmetriche, trovare m+n per x/yz+y/zx+z/xy=m/n*
+
+> Se $x, y, z$ sono numeri interi non zeri con $\gcd(m, n) = 1$, trovi $m + n$.
+
+**Risposta:** 16
+[[src_ioqm_2022__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f2__Q05
 parent: src_obm_2015_n3_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Recursively defined functions f,g on nonnegative integers; count n in [0,2015] with f(n)=0*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Funzioni definite ricorrentemente f,g su enti interi non negativi; contare n in [0,2015] con f(n) = 0*
+
+> (Parte A) Lasciate che $f$ e $g$ siano funzioni dai numeri interi non negativi ai numeri interi non negativi in modo tale che $f(0) = g(0) = 0$, e (equazioni funzionali relative a $f(2x+1)$, $g(2x)$, $f(x)$, $g(2x+1)$, e $x$) siano valide per ogni numero intero non negativo $x$. Quanti valori di < MSK9/> con < MSK10/> soddisfano < MSK11/>?
+
+[[src_obm_2015_n3_f2__Q05]]

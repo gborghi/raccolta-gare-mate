@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1974 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1974_r3__Q04
 parent: src_pol_1974_r3
 competition: Olimpiade Matematica Polacca 1974 — Round 3
@@ -36,6 +37,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For every natural n and reals a_1,...,a_n, prove there exists a natural k such that the absolute difference of the first-k sum and the rest is at most the maximum absolute value.*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/146Qo-QecRjmtBFNNyXEbraYf0kKTmyRy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per ogni n naturale e reals a_1,...,a_n, dimostrare l'esistenza di un k naturale tale che la differenza assoluta della prima somma-k e del resto sia al massimo il valore assoluto massimo.*
+
+> Prova che per ogni numero naturale $n$ e una sequenza di numeri reali $a_1, a_2, \ldots, a_n$ esiste un numero naturale $k$ che soddisfa $$\left| \sum_{i=1}^{k} a_i - \sum_{i=k+1}^{n} a_i \right| \le \max_{1 \le i \le n} |a_i|.$$
+
+[[src_pol_1974_r3__Q04]]

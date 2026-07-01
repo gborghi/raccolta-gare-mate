@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q06
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo tempo corsa andata-ritorno con velocita diverse*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1800
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum round trip time with different speeds< MSK1/>
+
+> Before he became a formidable rat, amateur swordsman and gunner Will Turing trained himself every day from his shop in the uptown downtown to the pier, 5km away, then back down the same road. Will explains to Elizabeth that on the plane the average speed of his race was 20 km/h; on the downhill he jumped to an average of 30 km/h, while on the climb (pant...pant...) he could only do the 15 km/h average. Will challenged Elizabeth to guess how long it took her to run her race every day. At most, how many seconds could it be?
+
+**Answer:** 1800
+[[src_gas_2010_finale__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q04
 parent: src_kangourou_2008_junior_marzo
 competition: Kangourou 2008 - Junior (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti tra A..E sono diversi da 6*
 
@@ -73,3 +76,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quantities between A..E are different from 6*
+
+> The numbers A, B, C, D, E are defined as follows A = 2−(−4), B = (−2)(−3), C = 2−8, D = 0−(−6) and E = (−12):(−2) How many of them are different from 6 ? A) 0 B) 1 C) 2 D) 4 E) 5 I and I U and I O O O O O O O O O O O O O O O O O
+> 
+> I'm going to pay. I'm going to pay. 23 23 Kang 2008 Kang 2008
+
+**Answer:** B
+[[src_kangourou_2008_junior_marzo__Q04]]

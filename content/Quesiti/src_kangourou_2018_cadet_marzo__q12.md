@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q12
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti quadrati non colorati nel rettangolo*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of uncolored squares in the rectangle< MSK1/>
+
+> A rectangle is divided into 40 identical squares. The rectangle contains more than one row of squares. Andrea found the center line of squares and colored it. How many squares have you not painted? A) 20
+> 	
+> B) 30
+> 	
+> C) 32
+> 	
+> D) 35
+> 	
+> E) 36
+
+**Answer:** C
+[[src_kangourou_2018_cadet_marzo__Q12]]

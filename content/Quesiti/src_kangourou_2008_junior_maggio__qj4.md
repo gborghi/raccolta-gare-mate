@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Junior finale nazionale (Mirabilandia) — Quesito J4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_junior_maggio__QJ4
 parent: src_kangourou_2008_junior_maggio
 competition: Kangourou 2008 - Junior finale nazionale (Mirabilandia)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo rette per tutti gli angoli 10..90 gradi*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uXc8-ZmBP-ZtvKTQDU0i6ugKKpgckWrF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum straight for all angles of 10.90 degrees< MSK1/>
+
+> They want to be drawn in a plane of lines so that between them they are sure to form angles of each of the following measures: $10^\circ$, $20^\circ$, $30^\circ$, $40^\circ$, $50^\circ$, $60^\circ$, $70^\circ$, $80^\circ$, $90^\circ$. What is the smallest number of lines that fulfill this requirement?
+
+**Answer:** 5
+[[src_kangourou_2008_junior_maggio__QJ4]]

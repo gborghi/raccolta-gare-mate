@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Ecolier (gara marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier__Q06
 parent: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanto ha pagato Sandro per gelato e torta*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How much did Sandro pay for ice cream and cake?
+
+> Anna, Mario and Sandro went to the bakery. Anna paid €1.50 for three ice cream balls, Mario paid €2.40 for two slices of cake. How much did Sandro pay for an ice cream ball and a slice of cake? A) 1 € and 70 cents B) 1 € and 90 cents C) 2 € and 20 cents D) 2 € and 70 cents E) 3 € and 90 cents
+
+**Answer:** A
+[[src_kangourou_2011_ecolier__Q06]]

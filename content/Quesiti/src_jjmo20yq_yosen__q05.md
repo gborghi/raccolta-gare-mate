@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo20yq_yosen__Q05
 parent: src_jjmo20yq_yosen
 competition: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *45x45 grid, 2022 cells black; max n guaranteeing all-black n×n subgrid*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 22
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*45x45 griglia, 2022 cellule nere; massimo n garantendo tutto nero n×n sottogriglia*
+
+> C'è una griglia $45 \times 45$ di quadrati unitari. Esattamente le cellule $2022$ devono essere colorate di nero. Trova il numero intero massimo $n$ in modo tale che, indipendentemente dal modo in cui le celle $2022$ sono scelte, esista sempre una sottogrida contiguale $n \times n$ (formata da righe consecutive $n$ e colonne consecutive $n$ della griglia originale) in cui ogni cella è colorata in nero.
+
+**Risposta:** 22
+[[src_jjmo20yq_yosen__Q05]]

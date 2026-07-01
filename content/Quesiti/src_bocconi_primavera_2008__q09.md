@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q09
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del rettangolo centrale in figura*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6 cm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of the central rectangle in Figure *
+
+> The perimeter of the large rectangle is 34 cm. The same rectangle was then divided into 9 smaller rectangles, as shown in the figure. Also in the figure, the perimeter of some of these rectangles is shown. **What is the perimeter (in cm) of the central rectangle ?**
+
+![[src_bocconi_primavera_2008__Q09.png]]
+
+**Answer:** 6 cm
+[[src_bocconi_primavera_2008__Q09]]

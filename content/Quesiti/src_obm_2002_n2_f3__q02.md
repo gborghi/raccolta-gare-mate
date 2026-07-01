@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f3__Q02
 parent: src_obm_2002_n2_f3
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Among eighteen consecutive three-digit integers one is divisible by its digit sum*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nXOkuveTEgG-AREkbRruZntjlbpxTLWP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tra diciotto numeri interi a tre cifre consecutive uno è divisibile dalla sua somma di cifre*
+
+> Mostrate che, tra diciotto numeri interi a tre cifre consecutive, esiste sempre uno che è divisibile dalla somma delle sue cifre.
+
+[[src_obm_2002_n2_f3__Q02]]

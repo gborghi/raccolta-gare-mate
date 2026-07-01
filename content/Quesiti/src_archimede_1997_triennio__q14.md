@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Triennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_triennio__Q14
 parent: src_archimede_1997_triennio
 competition: Giochi di Archimede 1997 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta media di una classe data la composizione*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The average age of a class given the composition*
+
+> In a first, there's three boys for every two girls. The average age of the boys is 14 years and 2 months, the average age of the girls is 13 years and 4 months. What is the average class age?
+>
+> - **(A)** 13 years and 6 months
+> - **(B)** 13 years and 8 months
+> - **(C)** 13 years and 10 months
+> - **(D)** 14 years
+> - **(E)** The result depends on the number of pupils in the class.
+
+**Answer:** C
+[[src_archimede_1997_triennio__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 Benjamin finale (maggio) — Quesito B5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_maggio__QB5
 parent: src_kangourou_2008_benjamin_maggio
 competition: Kangourou 2008 Benjamin finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max gusti per 12 pacchetti diversi (10 gusti)*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8 gusti
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DNjnx9iD0UBjVEKt4lZ5Oz66n6a8DEr7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max tastes for 12 different packs (10 tastes) < MSK1/>
+
+> The confectionery shop has candies of different tastes; I want to pack candy packages so that: - the number of tastes present in each package is the same; - different packages differ by at least one taste.
+> 
+> What is the maximum number of flavors that can be present in packages?
+
+**Answer:** 8 gusti
+[[src_kangourou_2008_benjamin_maggio__QB5]]

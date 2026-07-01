@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q01
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which option is a divisor of 3^5*4^4*5^3*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Che opzione è un divisore di 3^5*4^4*5^3*
+
+> Quale delle alternative è un divisore di $3^5 \cdot 4^4 \cdot 5^3$?
+>
+> - **(A)** $42$
+> - **(B)** $45$
+> - **(C)** $52$
+> - **(D)** $85$
+> - **(E)** $105$
+
+**Risposta:** B
+[[src_obm_2010_n2_f1__Q01]]

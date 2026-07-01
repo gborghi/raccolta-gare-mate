@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Triennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_triennio__Q20
 parent: src_archimede_1998_triennio
 competition: Giochi di Archimede 1998 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta di Sara dalla somma delle cifre delle eta*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sara's age from the sum of the age figures < MSK1/>
+
+> Two mathematicians, Andrea and Sara, meet one evening. Andrea says the sum of the numbers of my age is equal to the sum of the numbers of your age, and Sarah answers but next year my sum will be four times your, to which Andrea replies yes, but in two years our sums will be equal again. Considering that neither of them has yet reached their 100th birthday, how old is Sara?
+>
+> - **(A)** Less than 20
+> - **(B)** between 21 and 30
+> - **(C)** between 31 and 40
+> - **(D)** more than 40
+> - **(E)** It is not possible to establish it uniquely.
+
+**Answer:** C
+[[src_archimede_1998_triennio__Q20]]

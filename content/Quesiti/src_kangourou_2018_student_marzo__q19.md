@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q19
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Immagine quando il pentagono ruotato di 21 gradi coincide*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Image when the pentagon rotating by 21 degrees coincides*
+
+![[src_kangourou_2018_student_marzo__prob19.png]]
+
+> 19. From a strip of paper, we cut a regular pentagon. We rotate it 21 degrees clockwise, with the center as a pin, showing the position of the pentagon after the first rotation. What image will we see when, for the first time, the pentagon overlaps exactly with the shaft? A) B) C) D) E)
+
+**Answer:** B
+[[src_kangourou_2018_student_marzo__Q19]]

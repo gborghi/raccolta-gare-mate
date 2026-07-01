@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2002 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_2livello__Q08
 parent: src_archimede_2002_2livello
 competition: Archimede Gara 2º livello 2002
@@ -23,6 +24,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore del polinomio r(2002) con r(2000)=2000, r(2001)=2001*
 
@@ -34,3 +37,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Value of the polynomial r(2002) with r(2000) = 2000, r(2001) = 2001< MSK1/>
+
+> Andrea, traveling on a train, meets Maldab who is walking down the same road in the opposite direction. After 10 seconds, the train passed Maldab. Knowing that Andrew's walking speed is twice that of Maldab and one fifth that of the train, how many seconds has it taken Andrew to reach Maldab since they met?
+> 
+> (A) 60 and so on; (B) 70 and so on; (C) 90 and so on; (D) 110 and so on; (E) 120
+
+**Answer:** B
+[[src_archimede_2002_2livello__Q08]]

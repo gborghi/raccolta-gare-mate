@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1983-84 — Round 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1983-84_round1__Q07
 parent: src_bmo_1983-84_round1
 competition: British Mathematical Olympiad 1983-84 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For quadrilateral with inscribed circle, four associated quantities are equal*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per un quadrilaterale con un cerchio inciso, quattro quantità associate sono uguali*
+
+> $ABCD$ è un quadrilaterale che ha un cerchio inciso. Con il lato $AB$ è associato $$u_{AB} = p_1 \sin\widehat{DAB} + p_2 \sin\widehat{ABC}$$ dove $p_1$, $p_2$ sono le perpendicolari da $A$, $B$ rispettivamente al lato opposto $CD$. Definire anche $u_{BC}$, $u_{CD}$, $u_{DA}$, utilizzando in ogni caso le perpendicolari verso il lato opposto. Indicare che < MSK1/>
+
+[[src_bmo_1983-84_round1__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Benjamin — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q12
 parent: src_kangourou_2019_benjamin_semif
 competition: Kangourou 2019 Semifinale Benjamin
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei numeri nei vertici della faccia inferiore del cubo*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 18
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of numbers at the vertices of the lower face of the cube*
+
+> Luisa wrote some numbers on the tips of a cube. If you count the sum of the numbers that are in the vertices of the face you see on the right, you get 14, if you count the numbers that are in the vertices of the face you see on the left, you get 22; if you count the numbers that are in the vertices of the top face, you get 18. What's the sum of the numbers at the top of the bottom face?
+
+**Answer:** 18
+[[src_kangourou_2019_benjamin_semif__Q12]]

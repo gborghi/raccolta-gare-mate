@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1 —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_nu_f1__Q06
 parent: src_obm_2012_nu_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1
@@ -39,6 +40,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Values of a for which parabola-sequence region has infinite area*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VJG3lcmttXkoTtSX_ZbVy5feO9Uy-VFe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valori di a per i quali la regione della sequenza di parabole ha una superficie infinita*
+
+> Considera la parabola formata dai punti $(x, x^2)$, $x \in \mathbb{R}$ e la sequenza $(x_n)_{n \ge 0}$ data da $x_n = n^\alpha$, dove $\alpha > 0$ è una costante reale fissa. Si consideri la regione formata dai punti che si trovano a destra dell'asse verticale ($x = 0$), sotto la parabola e sopra le linee tangenti alla parabola nei punti $(x_n, x_n^2)$, $n \ge 0$. Per quali valori di $\alpha$ questa regione ha una superficie infinita?
+
+[[src_obm_2012_nu_f1__Q06]]

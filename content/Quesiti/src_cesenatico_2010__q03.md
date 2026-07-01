@@ -1,6 +1,7 @@
 ---
 title: XXVI Olimpiade Italiana Cesenatico 2010 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2010__Q03
 parent: src_cesenatico_2010
 competition: XXVI Olimpiade Italiana Cesenatico 2010
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *BCM = DBA*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** dimostrato
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jvO86zea0xNNLnuyY0Trw1eMPf_hKR9u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total amount of the loan.
+
+![[src_cesenatico_2010__prob3.png]]
+
+> Whether ABCD is a convex quadrilateral such that \ CAB = \ CDA and \ BCA = \ ACD. That M the mean of AB shows that \ BCM = \ DBA.
+
+**Answer:** dimostrato
+[[src_cesenatico_2010__Q03]]

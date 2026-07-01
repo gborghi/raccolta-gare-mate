@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2013 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_classiprime__Q18
 parent: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area trapezio dato aree triangoli formati dalle diagonali*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Trapezoidal area given triangular areas formed by diagonals*
+
+![[src_archimede_2013_classiprime__prob18.png]]
+
+> A rectangular trapezoid is divided by the diagonals into 4 triangles: the smallest has an area of 396 cm2 and the largest has an area of 539 cm2. What's the area of the trapezoid? A 1859 cm2 B 1757 cm2 C 1911 cm2 D 2013 cm2 E 1835 cm2 F there are not enough data to establish it
+
+**Answer:** A
+[[src_archimede_2013_classiprime__Q18]]

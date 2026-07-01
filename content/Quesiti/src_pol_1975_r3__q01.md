@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1975 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1975_r3__Q01
 parent: src_pol_1975_r3
 competition: Olimpiade Matematica Polacca 1975 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence whose first n terms sum to zero and which is periodic with period n; prove some starting index N makes all partial sums from N nonnegative*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZj1pubsPzjyaS0gZ1wXauU_3x3XwBGJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza la cui prima n termini somma a zero e che è periodica con il periodo n; dimostrare che qualche indice iniziale N rende tutte le somme parziali da N non negative*
+
+> Una sequenza $(a_k)_{k=1}^{\infty}$ ha la proprietà che esiste un numero naturale $n$ tale che $a_1 + a_2 + \cdots + a_n = 0$ e $a_{n+k} = a_k$ per tutti $k$. Prova che esiste un numero naturale $N$ tale che $$\sum_{i=N}^{N+k} a_i \ge 0 \quad \text{for } k = 0, 1, 2, \ldots.$$
+
+[[src_pol_1975_r3__Q01]]

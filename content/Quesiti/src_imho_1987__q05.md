@@ -1,6 +1,7 @@
 ---
 title: IMO 1987 (XXVIII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1987__Q05
 parent: src_imho_1987
 competition: IMO 1987 (XXVIII International Mathematical Olympiad)
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *n points with all pairwise distances irrational but every triple rational-area triangle*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*n points with all pairwise distances irrational but every triple rational-area triangle*
+
+> Let $n$ be an integer greater than or equal to $3$. Prove that there is a set of $n$ points in the plane such that the distance between any two points is irrational and each set of three points determines a non-degenerate triangle with rational area.
+
+[[src_imho_1987__Q05]]

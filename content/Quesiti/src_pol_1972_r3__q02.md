@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1972 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1972_r3__Q02
 parent: src_pol_1972_r3
 competition: Olimpiade Matematica Polacca 1972 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Among all closed polygonal lines through n given points (no three collinear), a minimum-length one is non-self-intersecting.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u10PZn1Xtd_4pvaqg5qH_EntPwiPBjmg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tra tutte le linee poligonali chiuse attraverso n punti dati (nessun tre collineari), una di lunghezza minima non si interseca.*
+
+> Sul piano sono indicati i punti $n > 2$, di cui non tre sono collineari. Prove che tra tutte le linee poligonali chiuse che attraversano questi punti, qualsiasi con la lunghezza minima non è autointersezione.
+
+[[src_pol_1972_r3__Q02]]

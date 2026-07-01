@@ -1,6 +1,7 @@
 ---
 title: Archimede 2003 - Gara del Pubblico (Cesenatico) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_pubblico__Q02
 parent: src_archimede_2003_pubblico
 competition: Archimede 2003 - Gara del Pubblico (Cesenatico)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *problema 2*
 
@@ -39,3 +42,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the first time I have seen this.
+
+![[src_archimede_2003_pubblico__prob2.png]]
+
+> The town hall of Matelandia is very small: there are only 10 seats against the walls on three sides of the room (the entrance is on the fourth side) and a table in the center.
+> 
+> At the beginning of each meeting the mayor enters first and the nine councillors enter strictly by age: from the oldest to the youngest.
+> 
+> The mayor chooses where to sit, while each councillor, due to the restrictions of the place, has to sit next to someone who has already settled down. How many different ways can the council be disposed of? (see figure)
+
+[[src_archimede_2003_pubblico__Q02]]

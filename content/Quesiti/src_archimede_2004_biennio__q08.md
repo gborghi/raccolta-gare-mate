@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2004 - Gara Biennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2004_biennio__Q08
 parent: src_archimede_2004_biennio
 competition: Giochi di Archimede 2004 - Gara Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *valore N*
 
@@ -39,3 +42,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The value of the input data shall be the sum of the values of the input data.
+
+> The number 1 is initially written on the board. Then ten students take turns deleting the number they find on the board and replacing it with its double. What's the number left on the board at the end?
+>
+> - **(A)** $2^{10} - 1$
+> - **(B)** $2^{10} + 1$
+> - **(C)** $2^{11} - 1$
+> - **(D)** $3^{10}$
+> - **(E)** $2^{10}$
+
+[[src_archimede_2004_biennio__Q08]]

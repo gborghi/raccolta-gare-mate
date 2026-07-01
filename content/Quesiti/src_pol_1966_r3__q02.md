@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1966 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1966_r3__Q02
 parent: src_pol_1966_r3
 competition: Olimpiade Matematica Polacca 1966 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve in integers $x^4 + 4y^4 = 2(z^4 + 4u^4)$*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cdDIGmzl1s3W08zQNcKL0HCsVXJ-v1sZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK1/>Soluzione in numeri interi < MSK0/> < MSK2/>
+
+> Risolvere in numeri interi l'equazione $x^4 + 4y^4 = 2(z^4 + 4u^4)$.
+
+[[src_pol_1966_r3__Q02]]

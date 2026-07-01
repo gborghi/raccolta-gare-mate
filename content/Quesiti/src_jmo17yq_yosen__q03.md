@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo17yq_yosen__Q03
 parent: src_jmo17yq_yosen
 competition: Japan Mathematical Olympiad 2007 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum product AP times BP for a point P at distance 3 from segment AB*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $\dfrac{85}{4}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Produzione minima AP volte BP per un punto P a distanza 3 dal segmento AB*
+
+> Un segmento $AB$ di lunghezza $7$ si trova su un piano. Il $P$ deve essere un punto del piano tale che la distanza da $P$ alla linea $AB$ sia $3$. Trova il valore minimo di $AP \times BP$.
+
+**Risposta:** $\dfrac{85}{4}$
+[[src_jmo17yq_yosen__Q03]]

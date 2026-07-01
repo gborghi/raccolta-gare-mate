@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q05
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *la piu corta*
 
@@ -39,3 +42,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>shorter < MSK1/>
+
+![[src_kangourou_2015_marzo_preecolier__prob5.png]]
+
+> Henry has 10 stripes of metal equal to each other. It joins them in pairs to form longer stripes. What's the shortest? (see figure)
+> 
+> (A) (B) (C) (D) (E)
+
+**Answer:** B
+[[src_kangourou_2015_marzo_preecolier__Q05]]

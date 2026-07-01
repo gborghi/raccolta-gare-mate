@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q19
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di alberi per bilanciare i tre sentieri*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of trees to balance the three paths*
+
+![[src_kangourou_2022_junior_gara__prob19.png]]
+
+> The picture is a map of a small park; the three lines connecting each of the two opposite sides of the square represent as many trails. A tree has already been planted in the middle of the park. What is the minimum number of trees, properly planted which, each of the three paths would have the same number of trees on both sides of it? Of course, trees must be planted off the trails. A) 1
+>   
+> B) 2
+>   
+> C) 3
+>   
+> D) 4
+>   
+> E) 5
+
+**Answer:** C
+[[src_kangourou_2022_junior_gara__Q19]]

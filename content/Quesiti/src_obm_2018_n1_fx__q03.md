@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2018 — Nível 1 — Fase x — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2018_n1_fx__Q03
 parent: src_obm_2018_n1_fx
 competition: Olimpíada Brasileira de Matemática 2018 — Nível 1 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pablo pays innkeeper daily using chain of 7 gold links*
 
@@ -57,3 +60,23 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KCJHUo1nCGlEeSCXILo_64DHKdkW717s/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Pablo paga l'albergo ogni giorno utilizzando una catena di 7 collegamenti d'oro < MSK1/>
+
+> Pablo era in viaggio per una mina lontana e arrivò in un ostello dove voleva rimanere per una settimana. Non aveva soldi con sé, ma aveva una catena con 7 anelli d'oro che offriva al padrone dell'ospedale come pagamento per alloggio e cibo. Al proprietario dell'ostella piaceva l'offerta e disse che avrebbe addebitato un collegamento al giorno. Pablo pensò per un po' e disse che se riuscisse a tagliare alcuni anelli della catena, sarebbe stato in grado di effettuare il pagamento giornaliero e alla fine di 7 giorni, l'albergo sarebbe stato in grado di riassemblare l'intera catena.
+> 
+> (Immagina una catena di anelli d'oro come mostrato nella figura.)
+> 
+> a) dimostrare che Pablo poteva effettuare il pagamento di un collegamento al giorno tagliando solo un collegamento della catena. Si noti che può dare al proprietario degli alloggi alcuni link e il proprietario degli alloggi può restituirgli i cambi utilizzando i link precedentemente ricevuti.
+> 
+> Anni dopo Pablo tornò nella stessa locanda, ma ora non aveva più soldi. Questa volta, invece di sette legami, aveva una catena con 21 legami d'oro. La negoziazione con l'albergo si svolse nello stesso modo e Pablo dovette pagare 1 collegamento al giorno; al termine di 3 settimane (21 giorni), l'albergo poteva riassemblare l'intera catena.
+> 
+> b) Qual è il numero minimo di collegamenti che Pablo deve tagliare per effettuare il pagamento giornaliero?
+
+![[src_obm_2018_n1_fx__Q03.png]]
+
+[[src_obm_2018_n1_fx__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2025_femminile__Q17
 parent: src_squadre_2025_femminile
 competition: Gara a Squadre Femminile 2025 - VIII Finale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza tangente comune PQ a due semicirconferenze*
 
@@ -56,3 +59,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 120
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Common tangent length PQ at two semicircumferences*
+
+> Candace breaks the cell phone for the second time and Phineas builds him a new one in a special shape. It takes an ABC triangle with sharp angles in B and C , with 10.6 cm AB  and 20.6 cm AC  . It traces the semicircular  of diameter AB that meets the side BC in D and measures that 7 cm BD  . Then trace the semicircular diameter of AC that intersects . It takes the tangent common to the two semicirculars which touches them at points P and Q and places the antenna directly on PQ. The built-in cell phone also has the teleportation function, which will definitely lead Candace to stir up some trouble. How long is the antenna of Candace' s mobile phone in mm?
+
+**Answer:** 120
+[[src_squadre_2025_femminile__Q17]]

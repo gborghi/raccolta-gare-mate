@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2005 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2005__Q07
 parent: src_rmo_2005
 competition: Regional Mathematical Olympiad 2005
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive reals summing to 1; minimum of cubic expressions gives real roots*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14uHfQGAx1Ql7Gxjfhz36KBTCxECJwRQt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Reali positivi sommati a 1; espressioni cubiche minime danno radici reali*
+
+> $a$, $b$, $c$ siano tre numeri reali positivi come $a + b + c = 1$. Provare che le radici dell'equazione $x^2 + x + 4\lambda = 0$ sono reali.
+
+[[src_rmo_2005__Q07]]

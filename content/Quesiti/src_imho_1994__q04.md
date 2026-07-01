@@ -1,6 +1,7 @@
 ---
 title: IMO 1994 (XXXV International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1994__Q04
 parent: src_imho_1994
 competition: IMO 1994 (XXXV International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all ordered pairs (m,n) of positive integers with (n^3+1)/(mn-1) integer*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uEhsmiYhsGIpd8-npjJnscoeuH2AmioB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find the ordered pairs (m,n) of positive integers with (n^3+1)/(mn-1) integer*
+
+> Determine to ordered pairs $(m, n)$ of positive integers such that $$\frac{n^3 + 1}{mn - 1}$$ is an integer.
+
+[[src_imho_1994__Q04]]

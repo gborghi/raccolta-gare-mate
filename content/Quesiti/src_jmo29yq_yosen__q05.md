@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo29yq_yosen__Q05
 parent: src_jmo29yq_yosen
 competition: Japan Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest positive integer with remainders 32,33,34 mod 97,100,103*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 333033
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Il più piccolo intero positivo con i rimanenti 32,33,34 mod 97,100,103< MSK1/>
+
+> Trova il numero intero positivo più piccolo che lascia i rimanenti $32$, $33$, $34$ quando diviso rispettivamente da $97$, $100$, $103$.
+
+**Risposta:** 333033
+[[src_jmo29yq_yosen__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin finale (maggio) — Quesito B5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_maggio__QB5
 parent: src_kangourou_2007_benjamin_maggio
 competition: Kangourou 2007 Benjamin finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli di perimetro 27 con lati interi distinti*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 12
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wbmAAkHVqbo7EOEVBYt8x1-cdr8_snEU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangles of perimeter 27 with distinct whole sides*
+
+> The professor of technical education asked to build a perimeter triangle with the following requirements: - the sides must measure an integer number of centimetres, - the dimensions of the sides must be three numbers all different from each other.
+> 
+> How many different triangles can his pupils give him, if you consider two triangles equal when for each side of one of the two there is a side of the other that has the same size?
+
+**Answer:** 12
+[[src_kangourou_2007_benjamin_maggio__QB5]]

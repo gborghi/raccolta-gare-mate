@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2005 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2005_r1__Q02
 parent: src_pol_2005_r1
 competition: Olimpiade Matematica Polacca 2005 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all n>1 for which a sum of squares is a power of a prime.*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutti n>1 per i quali la somma dei quadrati è una potenza di un primo.*
+
+> Trova tutti gli enti $n > 1$ per i quali $2^2 + 3^2 + \cdots + n^2$ è una potenza di un primo.
+
+[[src_pol_2005_r1__Q02]]

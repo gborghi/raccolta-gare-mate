@@ -1,6 +1,7 @@
 ---
 title: IMO 1979 (Twenty-first International Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1979_all__Q04
 parent: src_imo_1979_all
 competition: IMO 1979 (Twenty-first International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find points R maximizing ratio (QP+PA)/QR in plane*
 
@@ -33,3 +36,13 @@ tags:
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zEPuPBU2bBcA_YKZy9BbfgTGEtgtWSpu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find points R maximizing ratio (QP+PA)/QR in plane
+
+> Given a straight (plane) $\pi$, a point $P$ in this plane and a point $Q$ not in $\pi$, find all points $R$ in $\pi$ such that the ratio $\dfrac{QP + PA}{QR}$ is maximum.
+
+[[src_imo_1979_all__Q04]]

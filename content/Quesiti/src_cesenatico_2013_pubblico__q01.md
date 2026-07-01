@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_pubblico__Q01
 parent: src_cesenatico_2013_pubblico
 competition: Gara a Squadre Cesenatico 2013 - Gara del pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma 12 aree di intersezioni triangoli (p+q)*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 6719
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total 12 areas of triangular intersections (p+q) *
+
+> Mad Chess Roots teaches his Emmy kitten a new game. On an infinite chessboard (although, yes, there are infinite chessboards in their house as well!), he placed two pedals, aligned vertically on the same column, with exactly two empty boxes between the two. The two players move their pedal in turn, with Rootce starting by moving the lower one. The purpose of Root is to capture Emmy's foot, reaching her same box at the end of a move; to do so, at each turn she can choose whether to take exactly 4 steps or 5, but with these rules: moving from a box to the top or right costs 1 step, moving down or left costs 2 steps. For example, at its first turn it can move upwards by 4 boxes, thus overtaking Emmy's foot, or a box to the right, one to the left and one down (total 5 steps), but it cannot move only from a box upwards and then one downwards, because in that case it would only take 3 steps. Instead, Emmy moves her pedal from one box per shift, in one of the four directions, being careful not to end up on the same box as Root's pedal. Emmy, who is an alert kitten, quickly learned what the best strategy is to keep the game going for as long as possible, despite Root's efforts. After how many moves will the game be over?
+
+**Answer:** 6719
+[[src_cesenatico_2013_pubblico__Q01]]

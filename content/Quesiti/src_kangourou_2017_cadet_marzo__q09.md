@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q09
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Regione ombreggiata di quattro cuori sovrapposti*
 
@@ -48,3 +51,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Shaded region of four overlapping hearts< MSK1/>
+
+![[src_kangourou_2017_cadet_marzo__prob9.png]]
+
+> The drawing shows four overlapping hearts. The heart surfaces are 1 cm2, 4 cm2, 9 cm2 and 16 cm2. How many square inches is the visible shaded region? A) 9
+> 	
+> B) 10
+> 	
+> C) 11
+> 	
+> D) 12
+> 	
+> E) 13
+
+**Answer:** B
+[[src_kangourou_2017_cadet_marzo__Q09]]

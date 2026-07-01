@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q30
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sesto divisore di N con 6 divisori, prodotto di cinque 648*
 
@@ -86,3 +89,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sixth N divider with six divisors, product of five 648*
+
+> The positive integer N has exactly 6 distinct (positive) divisors, including 1 and N itself. The product of five of them is 648. Which of the following numbers is the sixth divisor of N ? A) 4
+> 	
+> B) 8
+> 	
+> C) 9
+> 	
+> D) 12
+> 	
+> E) 24
+> 
+> A category X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+
+**Answer:** C
+[[src_kangourou_2016_student_marzo__Q30]]

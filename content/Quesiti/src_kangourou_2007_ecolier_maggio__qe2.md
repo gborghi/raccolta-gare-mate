@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Ecolier finale (maggio) — Quesito E2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_ecolier_maggio__QE2
 parent: src_kangourou_2007_ecolier_maggio
 competition: Kangourou 2007 Ecolier finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del tappeto quadrato di sbieco*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fZINTJ5guIb2ezsX6JthVc7FkvQfrpis/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Square carpet area of the slurry< MSK1/>
+
+![[src_kangourou_2007_ecolier_maggio__probE2.png]]
+
+> 2) Can you stay with just one token? How (or, if not, why not)?
+
+**Answer:** 5
+[[src_kangourou_2007_ecolier_maggio__QE2]]

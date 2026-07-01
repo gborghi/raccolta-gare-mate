@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f2__Q03
 parent: src_obm_2012_n1_f2
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of equilateral triangle with same perimeter as regular hexagon of area 240*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GopwL_0fgb7iEbs-bG1HNdfWHmDyf8B2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di triangolo equilaterale con lo stesso perimetro dell'esagono regolare di area 240*
+
+> Un triangolo equilaterale ha lo stesso perimetro di un esagono regolare la cui superficie è $240 \text{ cm}^2$. Qual è l'area del triangolo, in $\text{cm}^2$?
+
+[[src_obm_2012_n1_f2__Q03]]

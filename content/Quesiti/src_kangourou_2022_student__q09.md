@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q09
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *affermazione certamente vera*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>affirmation is certainly true< MSK1/>
+
+> Let a, b, c be numbers other than 0 such that the two numbers −2a4b c and 3a b c have the same sign. Which of the following is certainly true? A) ab > 0 B) b < 0 C) c > 0 D) bc > 0
+
+**Answer:** E
+[[src_kangourou_2022_student__Q09]]

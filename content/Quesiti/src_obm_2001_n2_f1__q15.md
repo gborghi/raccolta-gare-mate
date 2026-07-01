@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q15
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum number of regions of a circle divided by 2n+1 radii and one line*
 
@@ -52,3 +55,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero massimo di regioni di un cerchio diviso da 2n+1 raggi e una linea*
+
+> Un cerchio è diviso dai radii $2n + 1$ in settori congruenti $2n + 1$. Il numero massimo di regioni del cerchio determinate da questi raggi e da una linea retta è:
+> 
+> (A) $3n$ \quad (B) $3n+1$ \quad (C) $3n+2$ \quad (D) $3n+3$ \quad (E) $4n$
+
+**Risposta:** D
+[[src_obm_2001_n2_f1__Q15]]

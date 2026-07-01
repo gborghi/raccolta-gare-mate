@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q14
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Riempire una griglia 5x5 con cifre 1-5 (quadrato latino) coerente con i ranghi indicati ai bordi.*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2 soluzioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fill a 5x5 grid with digits 1-5 (Latin square) consistent with the rows shown at the edges.*
+
+> Each box contains a number and a single number. Each row and column contains all the digits from $1$ to $5$. The five-digit numbers obtained by reading the rows from left to right and the columns from top to bottom are all different. Their ranks are given in increasing order outside the grid. Fill the grid.
+
+![[src_bocconi_finaleint_2008_g1__Q14.png]]
+
+**Answer:** 2 soluzioni
+[[src_bocconi_finaleint_2008_g1__Q14]]

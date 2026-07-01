@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2014 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2014_automne__Q02
 parent: src_canimath_2014_automne
 competition: Coupe Animath Automne 2014
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square ABCD, E on AD and F on BC with BE=EF=FD=1; find the area*
 
@@ -43,3 +46,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15vtKOtQa9ehL1Qp64ICOkTx6pQqg0n_e/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrato ABCD, E su AD e F su BC con BE=EF=FD=1; trovare l'area*
+
+> Lasciate che $ABCD$ sia quadrato. Supponiamo che esista un punto $E$ sul segmento $[AD]$ e un punto $F$ sul segmento $[BC]$ tale che $BE = EF = FD = 1$. Quanto è l'area della piazza?
+
+[[src_canimath_2014_automne__Q02]]

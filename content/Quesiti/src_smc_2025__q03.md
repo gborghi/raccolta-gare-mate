@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q03
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate 25^2 - 24^2 - 23^2 + 22^2 using difference of squares factorisation.*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare 25^2 - 24^2 - 23^2 + 22^2 utilizzando la differenza di fattorizzazione dei quadrati.*
+
+> Che cos' è < MSK0/>?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 4
+
+**Risposta:** E
+[[src_smc_2025__Q03]]

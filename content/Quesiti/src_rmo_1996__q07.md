@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1996 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1996__Q07
 parent: src_rmo_1996
 competition: Regional Mathematical Olympiad 1996
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *50-element subset of {1,...,100} with no two elements summing to 100 contains a square*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19J2mf5R1cDnrRILwWwEUjnzN7cMwK4cG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un sottogruppo di 50 elementi di {1,...,100} senza due elementi che sommano a 100 contiene un quadrato*
+
+> Se $A$ è un sottoinsieme di cinquanta elementi del set $\{1, 2, 3, \ldots, 100\}$ in modo tale che non ci siano due numeri da $A$ sommati fino a 100, indicare che $A$ contiene un quadrato.
+
+[[src_rmo_1996__Q07]]

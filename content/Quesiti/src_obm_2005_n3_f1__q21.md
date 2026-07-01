@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f1__Q21
 parent: src_obm_2005_n3_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Order three large/exotic powers A, B, C by size*
 
@@ -48,3 +51,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ordina tre grandi/esotiche potenze A, B, C per dimensioni*
+
+> Per esempio, $A = 10^{(16/2005)^2}$, $B = 2005^2$ e $C = 2^{\sqrt{2005}}$. Poi: (A) $A < B < C$ (B) $A < C < B$ (C) $B < A < C$ (D) $B < C < A$ (E) $C < A < B$
+
+[[src_obm_2005_n3_f1__Q21]]

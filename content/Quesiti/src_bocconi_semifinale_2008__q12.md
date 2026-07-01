@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2008 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2008__Q12
 parent: src_bocconi_semifinale_2008
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2008
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Divisori positivi del numero ottenuto inserendo zero tra due cifre*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 58
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Positive divisors of the number obtained by inserting zero between two digits*
+
+> Let's start with a two-digit number. If we put a zero between its two digits, we get a three digit number. Now let's subtract the initial two-digit number from the three-digit number. The result is divisible by a positive number. How many different values can this positive number take (including $\text{``}1\text{''}$)?
+
+**Answer:** 58
+[[src_bocconi_semifinale_2008__Q12]]

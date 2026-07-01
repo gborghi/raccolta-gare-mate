@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q07
 parent: src_garasquadre_2006_pubblico
 competition: VII Gara Nazionale a Squadre 2006 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *lunghezza intera della circonferenza*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0118
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*full length of the circumference*
+
+> Quamditch training [20] In a Quamditch training, leggywoman Hermita Lagrange is studying a very difficult figure: she wants to go back slowly to a propeller (i.e. taking height regularly while spinning along the lateral surface of an imaginary cylinder), so that her scope travels a total distance of 2006 meters in exactly 15 laps, rising in all by an integer number of meters. In addition, the cylinder's circumference is to be a whole number of meters long. How much can this number be worth (if any)?
+
+**Answer:** 0118
+[[src_garasquadre_2006_pubblico__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Triennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_triennio__Q09
 parent: src_archimede_2008_triennio
 competition: Giochi di Archimede 2008 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio circonferenza da quadrilatero con diagonali perpendicolari*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Reed of circumference from a quadrilateral with perpendicular diagonal *
+
+> A quadrilateral ABCD has the diagonal perpendicular to each other and is inscribed in a circumference c of AC diameter. The area and perimeter of the quadrilateral are 48 cm2 and 28 cm respectively. What is the radius of the circumference c?
+>
+> - **(A)** 4 cm,
+> - **(B)** 5 cm,
+> - **(C)** 6 cm,
+> - **(D)** 7 cm,
+> - **(E)** 8 cm.
+
+**Answer:** B
+[[src_archimede_2008_triennio__Q09]]

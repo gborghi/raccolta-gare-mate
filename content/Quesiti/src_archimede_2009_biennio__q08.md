@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Biennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_biennio__Q08
 parent: src_archimede_2009_biennio
 competition: Giochi di Archimede 2009 - Biennio
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazioni vertici pentagono senza asse di simmetria*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Vertical pentagon colours without axis of symmetry*
+
+> Cyrus has a sheet of paper in front of him with a regular ABCDE pentagon and two different-colored pencils. He wants to color all the vertices of the pentagon using only the two pincers he has, so that the final coloring has no axis of symmetry. How many different ways can you do that?
+>
+> - **(A)** One of them.
+> - **(B)** two,
+> - **(C)** four,
+> - **(D)** five,
+> - **(E)** I don't know.
+
+**Answer:** E
+[[src_archimede_2009_biennio__Q08]]

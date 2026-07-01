@@ -1,6 +1,7 @@
 ---
 title: IMO 1998 (XXXIX International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1998__Q06
 parent: src_imho_1998
 competition: IMO 1998 (XXXIX International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Functional equation on positive integers; find least f(1998)*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wkgXqV9hwy2vlF5wQ5GPmLdn3HNUtFqc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Functional equation on positive integers; find at least f(1998) *
+
+> Consider the functions $f$ from the set $N$ of all positive integers in itself satisfying $f(t^2 f(s)) = s(f(t))^2$ for all $s$ and $t$ in $N$. Determine the least possible value of $f(1998)$.
+
+[[src_imho_1998__Q06]]

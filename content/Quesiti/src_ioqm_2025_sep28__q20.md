@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q20
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -35,6 +36,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four-digit numbers with non-zero digits: a+c=bd and b+d=ac; count*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri a quattro cifre con cifre non zero: a+c=bd e b+d=ac; conteggio*
+
+> Quanti numeri a quattro cifre $\overline{abcd}$, con cifre non zero $a, b, c, d$ nella base 10, sono tali da $a + c = bd$ e $b + d = ac$?
+
+[[src_ioqm_2025_sep28__Q20]]

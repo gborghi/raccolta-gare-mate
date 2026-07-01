@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q18
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Circonferenza di A in sistema di tre pulegge*
 
@@ -58,3 +61,25 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A-circuit in three-point system*
+
+![[src_kangourou_2017_junior_marzo__prob18.png]]
+
+> A three-point system has the configuration you see in the figure. The straps are tight and the three discs A, B and C rotate without slipping. Every 5 rounds of A, B makes 4, every 7 rounds of C, B makes 6. The circumference of C is 30 cm. How many inches is A 's ? A) 27
+> 	
+> B) 28
+> 	
+> C) 29
+> 	
+> D) 30
+> 	
+> E) 31 A B C D E
+>
+
+**Answer:** B
+[[src_kangourou_2017_junior_marzo__Q18]]

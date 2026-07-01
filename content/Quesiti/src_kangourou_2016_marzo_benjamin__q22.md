@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q22
 parent: src_kangourou_2016_marzo_benjamin
 competition: Kangourou 2016 gara 17 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1nld6l3RD6emhTglIXueL7F2OJGTBOKRG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many < MSK1/>
+
+> Richard writes all the numbers that have the following properties: the first digit is 1, each of the digits that follow is not less than the one that precedes it and the sum of its digits is 5. How many numbers does Richard write? A) 4
+> 	
+> B) 5
+> 	
+> C) 6
+> 	
+> D) 7
+> 	
+> E) 8
+
+**Answer:** B
+[[src_kangourou_2016_marzo_benjamin__Q22]]

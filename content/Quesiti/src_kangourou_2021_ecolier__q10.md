@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - gara marzo — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier__Q10
 parent: src_kangourou_2021_ecolier
 competition: Kangourou 2021 Ecolier - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Euro in cassa all'apertura dato l'incasso gelati*
 
@@ -61,3 +64,23 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Euro in cash at the opening given the freezing charge*
+
+> This morning, when he opened the store, the ice cream maker Mario had a certain amount of money in his safe. After selling six ice cream, he had 70 euros in his pocket. Now that he's sold a total of 16 ice cream, he's got 120 euros in his pocket. All the ice cream sold were the same price: how many euros did Mario have in his safe when he opened the store? A) 20
+> 	
+> B) 30
+> 	
+> C) 40
+> 	
+> D) 50
+> 	
+> E) 60 10 9 8 7 10 9 8 7 10 9 8 7 10 9 8 7 10 9 8 7 6 kg 14 kg 10 kg
+>
+
+**Answer:** C
+[[src_kangourou_2021_ecolier__Q10]]

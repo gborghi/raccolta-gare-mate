@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q10
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles chains from common vertex; find angle beta given alpha=18°*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gli isosceles da vertice comune; trovare angolo beta dato alfa=18°*
+
+> Nella figura seguente, $\alpha = 18^{\circ}$ e $AB = AC = AD = AE$. Il valore dell'angolo $\beta$ è:
+> 
+> **(A)** $18^{\circ}$ $\quad$ **(B)** $36^{\circ}$ $\quad$ **(C)** $15^{\circ}$ $\quad$ **(D)** $20^{\circ}$ $\quad$ **(E)** $30^{\circ}$
+
+![[src_obm_2009_n2_f1__Q10.png]]
+
+**Risposta:** B
+[[src_obm_2009_n2_f1__Q10]]

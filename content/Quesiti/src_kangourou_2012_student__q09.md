@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q09
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Vincoli su x reale con x^3<64<x^2*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Winks on real x with x^3<64<x^2< MSK1/>
+
+> A real number x satisfies the inequalities x3 < 64 < x2. Which of the following statements on x is correct? A) 0 < x < 64 B) -8 < x < 4 C) x > 8 D) -4 < x < 8 E) x < -8
+
+**Answer:** E
+[[src_kangourou_2012_student__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f1__Q12
 parent: src_obm_2007_n2_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum value of a(b+c)-b(a+c) for digits-bounded integers*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valore massimo di a(b+c) -b(a+c) per gli integri a numeri limitati*
+
+> Qual è il valore massimo che il numero $a(b+c) - b(a+c)$ può assumere se $a, b$ e $c$ sono numeri interi che soddisfano $1 \le a \le 10$, $1 \le b \le 10$ e $1 \le c \le 10$?
+> 
+> (A) 80 $\quad$ (B) 81 $\quad$ (C) 84 $\quad$ (D) 90 $\quad$ (E) 100
+
+**Risposta:** B
+[[src_obm_2007_n2_f1__Q12]]

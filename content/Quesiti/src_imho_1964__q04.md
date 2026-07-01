@@ -1,6 +1,7 @@
 ---
 title: IMO 1964 (VI International Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1964__Q04
 parent: src_imho_1964
 competition: IMO 1964 (VI International Olympiad)
@@ -28,6 +29,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *tre con stesso argomento (Ramsey)*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ORlM97VoFLPBl_owxakVijHALbp-pCFq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*three with the same argument (Ramsey) *
+
+> Seventeen people correspond by mail with each other. Their letters only discuss three different topics. Each pair of correspondents deals with only one subject. Demonstrate that there are at least three people who write all three on the same subject.
+
+[[src_imho_1964__Q04]]

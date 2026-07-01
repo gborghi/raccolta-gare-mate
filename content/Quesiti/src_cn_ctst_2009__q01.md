@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2009 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2009__Q01
 parent: src_cn_ctst_2009
 competition: China National Team Selection Test 2009
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove CM perpendicular to AO in circle-and-triangle configuration*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove CM perpendicolare all'AO in configurazione a cerchio e triangolo*
+
+> Il punto $D$ deve essere un punto sul lato $BC$ del triangolo $ABC$ tale che $\angle CAD = \angle CBA$. Un cerchio con centro $O$ passa attraverso $B$, $D$ e incontra segmenti $AB$, $AD$ rispettivamente a $E$ e $F$. Le linee $BF$ e $DE$ si incontrano al punto $G$. $M$ è il punto medio di $AG$. Prova che < MSK16/>.
+
+![[src_cn_ctst_2009__Q01.png]]
+
+[[src_cn_ctst_2009__Q01]]

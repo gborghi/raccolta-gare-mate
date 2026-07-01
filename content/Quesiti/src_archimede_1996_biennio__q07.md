@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Biennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_biennio__Q07
 parent: src_archimede_1996_biennio
 competition: Giochi di Archimede 1996 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale frase logica e compatibile con i fatti dati*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ARzIV3wHmzpV455NSIYGulflPgheKY6p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which sentence is logical and consistent with the facts*
+
+> Yesterday I didn't have breakfast and went to school, while the other day I had breakfast and went to school. Which of the following phrases can I say without lying?
+>
+> - **(A)** When I eat breakfast I never go to school
+> - **(B)** Every time I go to school I don't eat breakfast.
+> - **(C)** Every time I go to school I eat breakfast
+> - **(D)** Sometimes I go to school without breakfast.
+> - **(E)** When I don't have breakfast, I never go to school.
+
+**Answer:** D
+[[src_archimede_1996_biennio__Q07]]

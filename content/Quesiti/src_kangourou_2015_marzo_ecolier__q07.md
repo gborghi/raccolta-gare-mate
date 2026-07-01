@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q07
 parent: src_kangourou_2015_marzo_ecolier
 competition: Kangourou 2015 gara 19 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quante stanno sull'isola*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* when they are on the island *
+
+![[src_kangourou_2015_marzo_ecolier__prob7.png]]
+
+> The figure shows a very fractured island and 10 frogs. Some frogs are in the water. How many are on the island? A) 5              B) 6              C) 7              D) 8                 E) 9
+
+**Answer:** B
+[[src_kangourou_2015_marzo_ecolier__Q07]]

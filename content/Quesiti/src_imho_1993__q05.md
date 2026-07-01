@@ -1,6 +1,7 @@
 ---
 title: IMO 1993 (XXXIV International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1993__Q05
 parent: src_imho_1993
 competition: IMO 1993 (XXXIV International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all functions f: N→N with two given conditions*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Go0gpsCj9HK8rw7A_MFaoiSJsC9e1hL9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find all functions f: N→N with two given conditions*
+
+> Does there exist a function $f : \mathbf{N} \to \mathbf{N}$ such that $f(1) = 2$, $f(f(n)) = f(n) + n$ for all $n \in \mathbf{N}$, and $f(n) < f(n+1)$ for all $n \in \mathbf{N}$?
+
+[[src_imho_1993__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q14
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number Sara writes in table of multiples of 4 at position U*
 
@@ -58,3 +61,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero Sara scrive nella tabella dei multipli di 4 alla posizione U*
+
+> Sara stava scrivendo nelle scatole di una tabella i multipli positivi di 4, in ordine crescente, come mostrato di seguito: $$\begin{array}{ccccccc} 4 & 8 & 12 & 16 & 20 & \cdots & 376 & 380 \\ 760 & 756 & 752 & 748 & 744 & \cdots & 388 & 384 \\ 764 & \to & \to & \to & \to & \cdots & \to & \to \\ \leftarrow & \leftarrow & \leftarrow & \leftarrow & \leftarrow & \cdots & \leftarrow & \leftarrow \end{array}$$ Il numero che Sara ha scritto nella scatola alla posizione $U$ è:
+>
+> - **(A)** 35192
+> - **(B)** 35196
+> - **(C)** 36100
+> - **(D)** 36104
+> - **(E)** 36108
+
+![[src_obm_2006_n1_f1__Q14.png]]
+
+**Risposta:** C
+[[src_obm_2006_n1_f1__Q14]]

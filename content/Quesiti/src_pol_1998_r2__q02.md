@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1998 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1998_r2__Q02
 parent: src_pol_1998_r2
 competition: Olimpiade Matematica Polacca 1998 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with obtuse angle C and A=2B; line through B perpendicular to BC meets AC at D; M midpoint of AB; prove angle AMC = angle BMD*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NWtmk2jyNO5I-Zt-c1qVK7ASBrDFtJkS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con angolo obtuso C e A=2B; linea attraverso B perpendicolare a BC incontra AC a D; M punto medio di AB; prova angolo AMC = angolo BMD*
+
+> Il $ABC$ deve essere un triangolo con un angolo obtuso $\angle C$ e $\angle A = 2\angle B$. La linea attraverso $B$ perpendicolare a $BC$ interseca la linea $AC$ a $D$. Se $M$ è il punto medio di $AB$, provare che $\angle AMC = \angle BMD$.
+
+[[src_pol_1998_r2__Q02]]

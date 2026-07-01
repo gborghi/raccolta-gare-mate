@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2022 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2022__Q07
 parent: src_cn_ctst_2022
 competition: China National Team Selection Test 2022
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *m×n grid with optional diagonals forming an Eulerian cycle: find all valid (m,n)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** All pairs $(m, n)$ with $m = n$.
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*m×n griglia con diagonali opzionali che formano un ciclo euleriano: trovare tutte le valenti (m,n) *
+
+> In una griglia $m \times n$ (con linee orizzontali $m + 1$ e linee verticali $n + 1$), si può aggiungere al massimo una diagonale per ogni quadrato unitario. Il grafico risultante (vertici in tutti i punti della griglia, bordi sono i segmenti della griglia e le diagonali aggiunte) dovrebbe essere un ciclo euleriano, vale a dire, esiste un percorso chiuso che visita ogni borda esattamente una volta. Trova tutte le coppie $(m, n)$ di integri positivi per le quali questo è possibile.
+
+**Risposta:** All pairs $(m, n)$ with $m = n$.
+[[src_cn_ctst_2022__Q07]]

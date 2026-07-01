@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2005-06 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2005-06_round1__Q02
 parent: src_bmo_2005-06_round1
 competition: British Mathematical Olympiad 2005-06 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Split six pairs of twins into teams with no pair together*
 
@@ -43,3 +46,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Spartire sei coppie di gemelli in squadre senza coppia insieme*
+
+> Adrian insegna una classe di sei coppie di gemelli. Vuole organizzare squadre per un quiz, ma vuole evitare di mettere due gemelli nella stessa squadra. Subordinazione a questa condizione:
+> 
+> i) In quanti modi può dividerli in due squadre di sei persone?
+> 
+> ii) In quanti modi può dividerli in tre squadre di quattro?
+
+[[src_bmo_2005-06_round1__Q02]]

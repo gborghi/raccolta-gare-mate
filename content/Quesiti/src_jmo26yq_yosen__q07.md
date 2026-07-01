@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo26yq_yosen__Q07
 parent: src_jmo26yq_yosen
 competition: Japan Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum of sum of squares under three product equations*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum della somma dei quadrati sotto tre equazioni di prodotto*
+
+> Numeri reali $a, b, c, d$ soddisfano $$\begin{cases}(a+b)(c+d) = 2,\\ (a+c)(b+d) = 3,\\ (a+d)(b+c) = 4.\end{cases}$$ Trovare il valore minimo possibile di $a^2 + b^2 + c^2 + d^2$.
+
+**Risposta:** 7
+[[src_jmo26yq_yosen__Q07]]

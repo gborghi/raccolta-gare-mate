@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2024 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_automne__Q07
 parent: src_canimath_2024_automne
 competition: Coupe Animath Automne 2024
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Reals a,b,c>0 with pairwise sum ≥ product; show a+b+c ≥ (3/4)abc*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Reali a,b,c>0 con il prodotto di somma in coppia ≥; mostrare a+b+c ≥ (3/4) abc*
+
+> Che $a$, $b$ e $c$ siano numeri reali rigorosamente positivi in modo tale che $$a + b \ge ab, \quad b + c \ge bc, \quad c + a \ge ca.$$ Mostri che $a + b + c \ge \dfrac{3}{4}\,abc$.
+
+[[src_canimath_2024_automne__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_finale__Q13
 parent: src_garasquadre_2006_finale
 competition: VII Gara Nazionale a Squadre 2006 - Finale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *massimo a 4 cifre*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9768
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1gZSw1a8n1M4j9DvH6wTbhtIqnyyqml42/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*maximum of four digits*
+
+> At the divination lesson poor Ron was blindfolded and the divination teacher wrote a formula on the board. Knowing that in the expression only 2 digits and multiplication marks appear, and that the result has four digits and is the maximum possible, what should Ron answer?
+
+**Answer:** 9768
+[[src_garasquadre_2006_finale__Q13]]

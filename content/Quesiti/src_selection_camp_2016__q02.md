@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2016 — Selection Camp — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2016__Q02
 parent: src_selection_camp_2016
 competition: Japan IMO Selection Camp 2016 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum n for set with exactly 2015 good partitions*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova n minimo per set con partizioni buone esattamente 2015*
+
+> $A$ sia un insieme composto da $n$ diversi interi positivi. Una coppia di sottogruppi $(A_1, A_2)$ è chiamata **buona partizione ** se soddisfa le seguenti condizioni: - $A_1 \neq \emptyset$, $A_2 \neq \emptyset$. - $A_1 \cap A_2 = \emptyset$, $A_1 \cup A_2 = A$. - Il più piccolo multiplo comune di tutti gli elementi di $A_1$ è uguale al più grande divisore comune di tutti gli elementi di $A_2$.
+> 
+> Trova il valore più piccolo di $n$ in modo che esista un insieme $A$ con esattamente $2015$ buone partizioni. (Qui $\emptyset$ indica l'insieme vuoto.)
+
+[[src_selection_camp_2016__Q02]]

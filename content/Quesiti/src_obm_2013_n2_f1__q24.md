@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q24
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum board length to prop a cylinder of radius 1 in a corner*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza minima della lavagna per sostenere un cilindro di raggio 1 in un angolo*
+
+> Un cilindro di raggio $R = 1$ deve essere posizionato nell'angolo di una stanza (l'angolo tra le due pareti è $90^\circ$). Una lavagna di lunghezza $L$ è appoggiata al muro in modo che si appoggi su di esso e tocchi entrambe le pareti, come mostrato nella figura. Qual è la lunghezza minima $L$ della lavagna necessaria per sostenere le due pareti?
+> 
+> (A) $2 + 2\sqrt{2}$ \quad (B) $1 + 2\sqrt{2}$ \quad (C) $1 + \sqrt{2}$ \quad (D) $1 + \sqrt{2}$ \quad (E) $2\sqrt{2}$
+
+![[src_obm_2013_n2_f1__Q24.png]]
+
+**Risposta:** A
+[[src_obm_2013_n2_f1__Q24]]

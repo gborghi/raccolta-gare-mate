@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2002 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2002_r1__Q05
 parent: src_pol_2002_r1
 competition: Olimpiade Matematica Polacca 2002 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove that for each k there is a positive integer m so that m, 2m, …, m! have exactly k nonzero digits in their binomial expansion.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dimostrare che per ogni k c'è un intero positivo m in modo che m, 2m, ..., m! hanno esattamente k numeri non zero nella loro espansione binomial.*
+
+> Prova che per ogni intero positivo $k$ esiste un intero positivo $m$ tale che per i numeri $m, 2m, 3m, \ldots, m!$ ci siano esattamente $k$ cifre non zero nell'espansione binomial.
+
+[[src_pol_2002_r1__Q05]]

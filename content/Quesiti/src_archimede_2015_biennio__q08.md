@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2015 - Biennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_biennio__Q08
 parent: src_archimede_2015_biennio
 competition: Giochi di Archimede 2015 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *2015a cifra decimale di 3/7*
 
@@ -44,3 +47,19 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1prvgjdAFaK6FEUhTIz1KxL8s22sIjytL/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*2015 decimal place of 3/7*
+
+> What's the 2015th digit after the decimal comma of 3/7?
+>
+> - **(A)** 7
+> - **(B)** 1
+> - **(C)** 5
+> - **(D)** 2
+> - **(E)** 4
+
+[[src_archimede_2015_biennio__Q08]]

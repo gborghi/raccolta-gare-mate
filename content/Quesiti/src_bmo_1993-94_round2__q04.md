@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1993-94 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1993-94_round2__Q04
 parent: src_bmo_1993-94_round2
 competition: British Mathematical Olympiad 1993-94 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count perfect squares modulo 2^n*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BVQrmCslxiyxp1Rg64CsxnMuP4Y7oEdJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i quadrati perfetti modulo 2^n*
+
+> Quanti quadrati perfetti ci sono (mod $2^n$)?
+
+[[src_bmo_1993-94_round2__Q04]]

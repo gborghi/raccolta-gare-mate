@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - gara marzo — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier__Q21
 parent: src_kangourou_2021_ecolier
 competition: Kangourou 2021 Ecolier - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di dolci divisibili per 2,3,4 con resto 6 su 7*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of sweets divisible by 2,3,4 with remainder 6 out of 7*
+
+> There's less than 50 candies in a box, all the same. The contents of the box can be divided evenly between two, three, or four children; if we wanted to divide it evenly between seven children, they would need exactly six more candies. How many candies are in the box? A) 12
+> 	
+> B) 24
+> 	
+> C) 30
+> 	
+> D) 36
+> 	
+> E) 48
+
+**Answer:** D
+[[src_kangourou_2021_ecolier__Q21]]

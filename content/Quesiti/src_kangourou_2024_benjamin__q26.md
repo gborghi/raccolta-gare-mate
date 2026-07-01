@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Benjamin 2024 — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin__Q26
 parent: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nell'etichetta col punto interrogativo (somma facce cubo)*
 
@@ -54,3 +57,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number on the question mark label (sum of cubic faces) *
+
+![[src_kangourou_2024_benjamin__prob26.png]]
+
+> Maria drew a cube with round labels in the vertices. In each of these labels, he wants to write a natural number between 1 and 8 (included), without repetition and on the condition that the sum of the numbers at the vertices of each face is always the same. As you can see, he's already written numbers 6, 7 and 8. What number should you write on the label with the question mark? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 5
+
+**Answer:** C
+[[src_kangourou_2024_benjamin__Q26]]

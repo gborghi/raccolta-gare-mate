@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q09
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many times digit 7 repeats in a sequence to form smallest multiple of 77*
 
@@ -50,3 +53,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quante volte la cifra 7 si ripete in una sequenza per formare il più piccolo multiple di 77*
+
+> Fernando scrive una sequenza di numeri $1234561234561234566\ldots$ Quante volte al massimo la cifra $7$ si ripete in $123456$ in modo che il numero che otteniamo sia il più piccolo multiple di $77$?
+> 
+> A) 7 \quad B) 11 \quad C) 18 \quad D) 49 \quad E) 77
+
+[[src_obm_2012_n2_f1__Q09]]

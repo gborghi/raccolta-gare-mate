@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q28
 parent: src_kangourou_2016_marzo_benjamin
 competition: Kangourou 2016 gara 17 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *cifra A*
 
@@ -49,3 +52,23 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1nld6l3RD6emhTglIXueL7F2OJGTBOKRG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The following table shows the number of samples of the samples:
+
+> The letters A, B, C represent three different digits. Adding the digits of the three-digit ABA number gives the two-digit BC number. Adding the figures of this last number gives the number (one digit) B. What is the number represented by the letter A ? A) 4
+> 	
+> B) 5
+> 	
+> C) 6
+> 	
+> D) 8
+> 	
+> E) 9
+>
+
+**Answer:** E
+[[src_kangourou_2016_marzo_benjamin__Q28]]

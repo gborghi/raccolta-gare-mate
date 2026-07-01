@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q04
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square A'B'C'D' from a 25-degree clockwise rotation of ABCD about midpoint of AB; acute angle between AC and B'D'.*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A'B'C'D' quadrato da una rotazione di 25 gradi in senso orario di ABCD circa il punto medio di AB; angolo acuto tra AC e B'D'.*
+
+> Nella figura, il quadrato $A'B'C'D'$ è stato ottenuto da una rotazione in senso orario del quadrato $ABCD$ di $25$ gradi circa il punto medio di $AB$. Qual è l'angolo acuto, in gradi, tra le linee $AC$ e $B'D'$? (A) $5$ (B) $25$ (C) $45$ (D) $65$ (E) $85$
+
+![[src_obm_2009_n3_f1__Q04.png]]
+
+[[src_obm_2009_n3_f1__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q08
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Diagramma dei tempi dopo aver dimezzato due materie*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Times chart after halving two subjects*
+
+![[src_kangourou_2022_junior_gara__prob8.png]]
+
+> Nadia is studying four subjects. The diagram you see shows how much time Nadia spent last week studying each subject. This week Nadia has halved the time spent studying two of the subjects, while she has devoted the same time to the other two as last week. Which of these can be the chart for this week? A)
+>   
+> B)
+>   
+> C)
+>   
+> D)
+>   
+> E)
+
+**Answer:** C
+[[src_kangourou_2022_junior_gara__Q08]]

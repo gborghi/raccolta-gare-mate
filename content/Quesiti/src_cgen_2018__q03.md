@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2018 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2018__Q03
 parent: src_cgen_2018
 competition: Concours Général des Lycées 2018 — Matematica
@@ -39,6 +40,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Golden-number (base-phi) representations: equivalence rule 011<->100, every natural number is golden, pure golden representations (no two consecutive 1s), golden content, bounds, existence/uniqueness, and an algorithm applied to 2018.*
 
@@ -83,3 +86,21 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ndY2rTBhYsNW1k5eeouIHRqR2THD_a96/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Representazioni di numeri d'oro (base-phi): regola di equivalenza 011<->100, ogni numero naturale è oro, rappresentazioni d'oro puro (nessun 1 consecutivo), contenuto d'oro, confini, esistenza/unicità e un algoritmo applicato al 2018.*
+
+> Problema 3: i numeri d'oro.
+> 
+> Indichiamo con $\varphi$ la radice reale più grande dell'equazione $x^2=x+1$. Il numero $\varphi$, conosciuto fin dall'antichità, è chiamato numero d'oro. Un $x$ reale si dice essere un numero dorato ('nombre en or') se esiste: - due numeri naturali $p$ e $q$ - numeri interi $a_p,a_{p-1},\cdots,a_0,\ldots,a_{-q}$ che assumono solo i valori $0$ o $1$ in modo tale che: $$x=a_p\varphi^p+a_{p-1}\varphi^{p-1}+\ldots+a_1\varphi+a_0+a_{-1}\varphi^{-1}+\cdots+a_{-q}\varphi^{-q}$$ In questo caso scriveremo $x\triangleright a_p\,a_{p-1}\cdots a_0,a_{-1}\cdots a_{-q}$. Per esempio, se $x=\varphi^3+\varphi^2+1+\frac{1}{\varphi}+\frac{1}{\varphi^4}$, scriveremo $x\triangleright 1101,1001$. Diciamo quindi che $1101,1001$ è una rappresentazione dorata di $x$. È chiaro che si possono aggiungere, all'inizio o alla fine della rappresentazione, quante < MSK15/> si desiderano. Una sequenza di una rappresentazione è una stringa di $0$s e $1$s che appare nella rappresentazione. Nel precedente esempio, $10110$ è una sequenza della rappresentazione $1101,1001$.
+> 
+> Parte 3.1 - Tutti i numeri naturali sono d'oro. 1. Mostrare che, nella rappresentazione dorata di un reale $x$, si può sostituire qualsiasi sequenza $011$ da $100$ e viceversa, al fine di ottenere un'altra rappresentazione dorata di $x$. Ad esempio il reale la cui rappresentazione dorata è $1101,1001$ ammette anche $1110,0001$ e $1101,0111$ come rappresentazioni dorate. Si dirà che le due sequenze $011$ e $100$ sono equivalenti. 2. Più in generale, si deve indicare una sequenza in cui non ci sono mai due $1$ consecutivi ed è equivalente a $011\cdots 1$ in cui ci sono $n$ episodi del numero $1$. 3. Indicare che i numeri interi $2$ e $3$ sono numeri d'oro e darne una rappresentazione d'oro. 4. Mostrare che ogni numero naturale ammette una rappresentazione dorata.
+> 
+> Parte 3.2 - Rappresentazione dorata e pura. Diciamo che una rappresentazione $x\triangleright a_p a_{p-1}\cdots a_0,a_{-1}\cdots a_{-q}$ di un numero $x$ è di puro oro ('en o pur') se per tutti $i$, $$a_i\,a_{i+1}=0$$ In altre parole, una rappresentazione di $x$ è di puro oro se e solo se non contiene mai due $1$ consecutivi. Se $x$ è un reale non-zero, se $x\triangleright a_p a_{p-1}\cdots a_0,a_{-1}\cdots a_{-q}$, si definisce il contenuto dorato ("teneur en or") della rappresentazione come uguale all'esponente della potenza più grande di $\varphi$ il cui coefficiente è uguale a $1$, nell'uguaglianza $x=a_p\varphi^p+\ldots+a_{-q}\varphi^{-q}$. Ad esempio, il contenuto dorato della rappresentazione $1101,1001$ è uguale a $3$ e quello di $0,0010$ è uguale a $-3$. 1. Indicare una rappresentazione in oro puro degli integri $2$, $3$, $4$ e $5$. 2. Il $x$ deve essere un reale che abbia una rappresentazione di oro puro del contenuto dorato pari a $n$. a. Mostra che < MSK21/>. b. Mostrate che la pura rappresentazione d'oro di un reale, se esiste, è unica. 3. Lasciate che $x$ sia un reale non-zero con una rappresentazione di oro puro. a. Esprimere il contenuto dorato della rappresentazione dorata pura di $x$ con l'aiuto del logaritmo naturale e delle funzioni di parte integrale. b. Scrivi un algoritmo che permetta di determinare questa rappresentazione. c. Applicare l'algoritmo per $x=2018$. 4. Mostrate che una reale d'oro ha necessariamente una rappresentazione d'oro puro. 5. Mostrate che esistono realtà strettamente positive che non sono d'oro.
+
+![[src_cgen_2018__Q03.png]]
+
+[[src_cgen_2018__Q03]]

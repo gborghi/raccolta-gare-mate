@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f1__Q14
 parent: src_obm_2016_n3_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of distinct products P=S*E*I*Z in a SEIPZ-type cryptarithm with nonzero digits*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di prodotti distinti P=S*E*I*Z in un criptaritmo di tipo SEIPZ con cifre non zero*
+
+> Tutte le lettere digitali non sono nulo. L'annullamento di termini ripetuti dà < MSK0/>. Poiché $Z$ è una cifra singola, $I^2=4$ o $I^2=9$; il secondo caso è impossibile (forzerebbe $5\cdot I=1$), quindi le uniche possibilità sono $(S,I)=(1,2),(1,3)$ o $(2,1)$. Se $E$ è diverso da $I$ e $S$, ci sono opzioni $7$ per $E$ in ogni caso. Costruendo una tabella di possibili prodotti $P=S\times E\times I\times Z$ e escludendo le combinazioni che danno $Z$ uguale a una lettera già scelta, i valori possibili distinti di $P$ sono $6,10,12,14,15,16,18,20,21,24,28$ e $36$, cioè $12$ valori distinti. Quanti valori distinti può contenere < MSK18/>? [Valore della chiave di risposta: $12$.]
+
+**Risposta:** A
+[[src_obm_2016_n3_f1__Q14]]

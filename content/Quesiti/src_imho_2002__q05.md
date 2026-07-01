@@ -1,6 +1,7 @@
 ---
 title: IMO 2002 (XLIII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2002__Q05
 parent: src_imho_2002
 competition: IMO 2002 (XLIII International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Real functions satisfying (f(x)+f(y))(f(u)+f(v))=f(xu-yv)+f(xv+yu)*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ObZM7DSfR5iF7JGM97BCPn0sruvx6Y7m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total number of functions that are satisfying (f(x) +f(y))
+
+> Find all real-valued functions on the reals such that $(f(x) + f(y))(f(u) + f(v)) = f(xu - yv) + f(xv + yu)$ for all $x, y, u, v$.
+
+[[src_imho_2002__Q05]]

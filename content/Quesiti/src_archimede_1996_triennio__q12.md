@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Triennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_triennio__Q12
 parent: src_archimede_1996_triennio
 competition: Giochi di Archimede 1996 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area di un dominio definito da disequazioni di cerchi*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of a domain defined by circle dissections*
+
+> Either D the Cartesian plane dominance determined by the system of side-squares. What's the area of D?
+>
+> - **(A)** √ 2π
+> - **(B)** π 2
+> - **(C)** 2
+> - **(D)** √ 2
+> - **(E)** 4 −π.      x2 + y2 ≤1 (x −1)2 + (y −1)2 ≥1 (x + 1)2 + (y + 1)2 ≥1
+
+**Answer:** C
+[[src_archimede_1996_triennio__Q12]]

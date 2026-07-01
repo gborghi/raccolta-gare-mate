@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Semifinale individuale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q15
 parent: src_kangourou_2022_student_semifinale
 competition: Kangourou 2022 Student — Semifinale individuale
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *somma S(T)*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The amount of the sum of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the
+
+> (6 points) For an ordered set of integers T = {a, b, c} put S(T) = a + b + c. By variation of all the ordered sets of integers T = {a, b, c} such that
+>  
+> a4 + b4 = 28 + 2bc e 2ab = 7 + c4,
+>  
+> What is the sum of all the numbers S(T?
+
+**Answer:** 0
+[[src_kangourou_2022_student_semifinale__Q15]]

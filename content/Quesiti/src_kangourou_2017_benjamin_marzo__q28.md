@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (gara marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q28
 parent: src_kangourou_2017_benjamin_marzo
 competition: Kangourou 2017 Benjamin (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordine in cui le tre ragazze prendono le biglie*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The order in which the three girls take the balls
+
+> Alice loves even numbers, Bianca loves numbers divisible by 3, Clelia loves numbers divisible by 5. A basket contains eight balls, each with a number written on it: each of the three girls passes in front of you at different times and, among the balls still present, takes all those with the numbers she loves. Finally Alice collected the beans with numbers 32 and 52, White the beans with numbers 24, 33 and 45, and Clelia the beans with numbers 20, 25 and 35. In what order did the three girls come through the trash? (a) Alice, Clelia, White B) Clelia, White C) White Alice, Clelia D) White, Clelia, Alice
+> 	
+> E) Clelia, Alice and Bianca
+
+**Answer:** D
+[[src_kangourou_2017_benjamin_marzo__Q28]]

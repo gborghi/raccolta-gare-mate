@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - finale settembre — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_settembre__Q01
 parent: src_kangourou_2020_junior_settembre
 competition: Kangourou 2020 Junior - finale settembre
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tragitto minimo tra due punti toccando l'asse y*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2020
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Y0Gi-Uy881pNn6RNQhqSGYn7AyhCKbJx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum distance between two points touching the y axis *
+
+> In the Cartesian plane, how long is the shortest path linking the $(808, 808)$ point to the $(404, -808)$ point by touching the $y$ axis at least once?
+
+**Answer:** 2020
+[[src_kangourou_2020_junior_settembre__Q01]]

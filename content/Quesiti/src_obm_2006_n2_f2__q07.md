@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f2__Q07
 parent: src_obm_2006_n2_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle alpha in isosceles triangle where bisectors meet at I and H*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova l'angolo alfa nel triangolo di paricele dove i bisettori si incontrano a I e H*
+
+> Nel triangolo con uguali dimensioni $ABC$, $I$ è l'intersezione dei bisettori angolari e $H$ è l'intersezione delle altitudini. È noto che < MSK3/>. Determinare l'angolo $\alpha$.
+
+![[src_obm_2006_n2_f2__Q07.png]]
+
+[[src_obm_2006_n2_f2__Q07]]

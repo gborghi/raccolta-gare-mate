@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q13
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Radius of external circle in logo of tangent circles, inner r=1*
 
@@ -55,3 +58,22 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Radius del cerchio esterno nel logo dei cerchi tangenti, interno r=1*
+
+> La figura seguente mostra il logo di un'azienda, costituita da due cerchi concentrici e quattro piccoli cerchi interni, ognuno dei quali è tangente ad altri due e ai due cerchi concentrici. Il raggio del cerchio interno misura 1 cm. Poi il raggio del cerchio esterno deve misurare, in cm:
+>
+> - **(A)** $2\sqrt{2}+3$
+> - **(B)** $\sqrt{2}+2$
+> - **(C)** $4\sqrt{2}+1$
+> - **(D)** $3\sqrt{2}$
+> - **(E)** $\sqrt{2}+1$
+
+![[src_obm_2000_n3_f1__Q13.png]]
+
+**Risposta:** A
+[[src_obm_2000_n3_f1__Q13]]

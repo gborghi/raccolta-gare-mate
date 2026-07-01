@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2011 - Gara a squadre — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2011_squadre__Q04
 parent: src_gs_2011_squadre
 competition: Coppa Fermat 2011 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto raggi circonferenze circoscritte quadrato/triangolo*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8437
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rate of radii circumscribed circles square/triangle*
+
+> = 63 1024 = 0, 0615234375.
+
+**Answer:** 8437
+[[src_gs_2011_squadre__Q04]]

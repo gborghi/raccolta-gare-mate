@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Student 2023 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student_semifinale__Q11
 parent: src_kangourou_2023_student_semifinale
 competition: Kangourou Semifinale individuale Student 2023
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo primo p>2 con p^3+7p^2 quadrato perfetto*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Little first person p>2 with p^3+7p^2 perfect square*
+
+> (Points 5) What is the smallest prime integer p > 2 such that the number p3 + 7p2 is a square per square?
+
+[[src_kangourou_2023_student_semifinale__Q11]]

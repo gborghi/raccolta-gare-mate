@@ -1,6 +1,7 @@
 ---
 title: IMO 1993 (34th IMO) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1993__Q02
 parent: src_imo_1993
 competition: IMO 1993 (34th IMO)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Compute ratio and prove tangents perpendicular for interior D*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Go0gpsCj9HK8rw7A_MFaoiSJsC9e1hL9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Compute ratio and prove tangents perpendicular to interior D*
+
+> Let D be a point inside acute triangle ABC such that  ADB =  ACB + π/2 and AC · BD = AD · BC. (a) Calculate the ratio (AB · CD)/(AC · BD). (b) Prove that the tangents at C to the circumcircles of △ACD and △BCD are perpendicular.
+
+[[src_imo_1993__Q02]]

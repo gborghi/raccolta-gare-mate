@@ -1,6 +1,7 @@
 ---
 title: IMO 2017 (LVIII International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2017__Q02
 parent: src_imho_2017
 competition: IMO 2017 (LVIII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Functional equation f(f(x)f(y)) = f(x+y) over the reals*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f-FfFFSte2Xcf0IS6inIxe8_MiXPlKgB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Functional equation f(f(x) f(y)) = f(x+y) over the reals*
+
+> Let $\mathbb{R}$ be the set of real numbers. Determine all functions $f : \mathbb{R} \to \mathbb{R}$ such that, for all real numbers $x$ and $y$, $$f(f(x)f(y)) = f(x + y).$$
+
+[[src_imho_2017__Q02]]

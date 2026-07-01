@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2017 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2017_automne__Q06
 parent: src_canimath_2017_automne
 competition: Coupe Animath Automne 2017
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all values of xyz given x+2y=z and x^2-4y^2+z^2=310*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i valori di xyz dati x+2y=z e x^2-4y^2+z^2=310*
+
+> I numeri interi rigorosamente positivi $x$, $y$ e $z$ soddisfano le due equazioni seguenti: $x + 2y = z$ e $x^2 - 4y^2 + z^2 = 310$. Trova tutti i valori che il prodotto $xyz$ può assumere.
+
+[[src_canimath_2017_automne__Q06]]

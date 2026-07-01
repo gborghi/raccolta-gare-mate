@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q02
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale parola ha la stessa simmetria di MAMMA*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which word has the same symmetry as MAMMA*
+
+> If the word MAMMA is written vertically, as shown in the figure, you can see that the word feels a symmetry with respect to a vertical line. Which of the following words, written vertically, has the same kind of symmetry? (A) Box B) Grandfather C) Mother D) Milk E) Emptiness
+
+**Answer:** E
+[[src_kangourou_2018_cadet_marzo__Q02]]

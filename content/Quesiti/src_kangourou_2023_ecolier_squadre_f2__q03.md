@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre_f2__Q03
 parent: src_kangourou_2023_ecolier_squadre_f2
 competition: Kangourou Squadre 2023 Ecolier Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi 2..2023 divisibili solo per pari*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0010
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Interies 2..2023 only divisible by pairs < MSK1/>
+
+> Divideable only by even quantities are the integers between 2 and 2023 included that, in addition to 1, are divisible only by numbers that are even?
+
+**Answer:** 0010
+[[src_kangourou_2023_ecolier_squadre_f2__Q03]]

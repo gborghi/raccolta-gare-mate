@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale A — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_a__Q04
 parent: src_gas_2009_semifinale_a
 competition: Gara a Squadre 2009 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto (alpha-1)(beta-1) radici di un polinomio quadratico*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0190
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Wx24coOZuHD5lnXnMkNRwAuUmiEDrRDK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Product (alpha-1) ((beta-1) roots of a square polynomial< MSK1/>
+
+> A hidden shortcut In the mines of Toria the company of heroes led by the wizard Gaussdalf the Grey stumbles upon a secret door. By opening it they could access an important shortcut, but to do so you need to know the product (α −1)(β −1), where α and β are the roots of the polynomial 37x2 +9002x−2009. Name the product. . . and come in.
+
+**Answer:** 0190
+[[src_gas_2009_semifinale_a__Q04]]

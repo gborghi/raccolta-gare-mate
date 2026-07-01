@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre_f2__Q04
 parent: src_kangourou_2022_kangourou_squadre_f2
 competition: Kangourou Squadre 2022 Kangourou Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero con resti dati per 3..7*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0418
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number with data residues for 3.7*
+
+> What's the smallest positive integer that divided by 3 gives rest 1, divided by 4 gives rest 2, divided by 5 gives rest 3, divided by 6 gives rest 4 and divided by 7 gives rest 5?
+
+**Answer:** 0418
+[[src_kangourou_2022_kangourou_squadre_f2__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 4 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r4__Q05
 parent: src_rmo_2015_r4
 competition: Regional Mathematical Olympiad 2015
@@ -29,6 +30,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *CA=CD implies centre of Sigma lies on Gamma*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x0axIPaHu87ZTGOGDG8_dBEUX9gWmh5k/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*CA=CD implica che il centro di Sigma si trova su Gamma*
+
+> Due cerchi $\Gamma$ e $\Sigma$ si intersecano in due punti distinti $A$ e $B$. Una linea che attraversa $B$ incrocia $\Gamma$ di nuovo a $C$ e $\Sigma$ di nuovo a $D$, rispettivamente. Supponiamo che $CA = CD$. Indicare che il centro di < MSK10/> si trova su < MSK11/>.
+
+![[src_rmo_2015_r4__Q05.png]]
+
+[[src_rmo_2015_r4__Q05]]

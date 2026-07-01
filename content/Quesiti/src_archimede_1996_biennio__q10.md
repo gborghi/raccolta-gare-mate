@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Biennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_biennio__Q10
 parent: src_archimede_1996_biennio
 competition: Giochi di Archimede 1996 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato dell'ottagono regolare ottenuto da un quadrato*
 
@@ -57,3 +60,34 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ARzIV3wHmzpV455NSIYGulflPgheKY6p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Side of the regular octagon obtained from a square*
+
+![[src_archimede_1996_biennio__prob10.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \draw[dashed] (0,0) rectangle (4,4);
+  \def\a{1.1715}
+  \draw[thick]
+    (\a,0) -- (4-\a,0) -- (4,\a) -- (4,4-\a) --
+    (4-\a,4) -- (\a,4) -- (0,4-\a) -- (0,\a) -- cycle;
+\end{tikzpicture}
+\end{document}
+```
+
+> Cut the four corners of a 10 cm side square to obtain a regular octagon. The side of the octagon is long.
+>
+> - **(A)** 4 cm
+> - **(B)** 10 · ( √ 2 −1) cm
+> - **(C)** 3 √ 2 cm
+> - **(D)** 5 cm
+> - **(E)** The previous answers are all wrong.
+
+**Answer:** B
+[[src_archimede_1996_biennio__Q10]]

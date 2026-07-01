@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2008 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2008__Q07
 parent: src_bocconi_semifinale_2008
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2008
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro rettangolo con 200 quadrati uguali di area 4*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 120
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular perimeter with 200 squares equal to area 4*
+
+> The base of a rectangle is twice its height. We can divide this rectangle into $200$ equal squares each having an area of $4 \text{ cm}^2$. What is the perimeter of the rectangle?
+
+**Answer:** 120
+[[src_bocconi_semifinale_2008__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2010 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2010__Q03
 parent: src_cgen_2010
 competition: Concours Général des Lycées 2010 — Matematica
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probabilistic/recursive model of three cell species evolving over generations: compatibility probability bound, and convergence of proportion sequences under two scenarios*
 
@@ -95,3 +98,53 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1un5c72q0Dhvv-U-lXEfjcCDMxsLeoLaa/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Modello probabilistico/recursivo di tre specie cellulari che si evolvono nel corso delle generazioni: limite di probabilità di compatibilità e convergenza delle sequenze proporzionali in due scenari*
+
+> Problema 3: sulla vita su Marte!
+> 
+> (Introduzione narrativa, parafrasata dalla fonte: un biologo, dopo aver saputo di una scoperta dell'Università dell'Unione italiana, è riuscito ad osservare ciò che nessuno aveva mai potuto osservare prima, le cellule del "Bouquet Royal". Si tratta di una forma di vita primitiva; gli organismi misurano non più di un milionesimo di millimetro, il che fa parte della difficoltà di osservarli. Con solo informazioni parziali, gli scienziati cercano di osservare i seguenti fatti.)
+> 
+> Con solo informazioni parziali, gli scienziati cercano di osservare i seguenti fatti:
+> 
+> - Esistono tre specie di cellule, denominate < MSK0/>, < MSK1/> e < MSK2/>. - La riproduzione delle cellule comporta la partecipazione di tre cellule "padri". - La riproduzione avviene solo se i tre genitori sono "compatibili", cioè se più di uno di essi sono della stessa specie (almeno due dei tre genitori appartengono alla stessa specie).
+> 
+> 1. Si osservano le rispettive proporzioni $a$, $b$, $c$ delle cellule delle diverse specie, con $a + b + c = 1$.
+> 
+> a. Qual è la probabilità $p$ che tre cellule prese a caso siano compatibili?
+> 
+> b. Mostra che < MSK0/>. Si può prima stabilire un limite inferiore fisso $a \ge \ldots$.
+> 
+> Quando i tre genitori non sono tutti della stessa specie, le proporzioni delle specie possono variare da una generazione all'altra, in particolare quando una specie è minoritaria $\beta$. Gli scienziati esitano tra due modelli:
+> 
+> - Modello 1: il discendente è del tipo della specie maggioritaria < MSK0/>. - Modello 2: il discendente è del tipo della specie minoritaria < MSK1/>.
+> 
+> Per valutare questi modelli, si indicano con $a_n$, $b_n$, $c_n$ le proporzioni delle diverse specie alla generazione $n$, con $a_n \ge b_n \ge c_n$.
+> 
+> 2. Studiare il primo scenario. In questa domanda si suppone che la genetica delle cellule segua il primo scenario.
+> 
+> a. Verificare che: < MSK0/>
+> 
+> b. In questa e nelle seguenti domande si ricorda che $a_n \ge b_n \ge c_n$. Mostrare che per tutti $n$ uno ha $a_{n+1} > a_n > b_n > c_n$. Riduzione di < MSK3/>.
+> 
+> c. Verificare che le sequenze $(a_n - b_n)_{n \in \mathbb{N}}$ e $(b_n - c_n)_{n \in \mathbb{N}}$ aumentino.
+> 
+> d. Provare che $(a_n)_{n \in \mathbb{N}}$, $(b_n)_{n \in \mathbb{N}}$ e $(c_n)_{n \in \mathbb{N}}$ convergono e determinare i loro limiti.
+> 
+> 3. Studio del secondo scenario. Si suppone ora che si tratti del secondo scenario favorito.
+> 
+> a. Determinare $a_{n+1}$, $b_{n+1}$, $c_{n+1}$ come funzioni di $a_n$, $b_n$, $c_n$.
+> 
+> b. Da ora in poi si suppone che $1 > a_0 > b_0 > c_0 > 0$. Mostrare che per tutti $n$ uno ha $1 > a_n > b_n > c_n > 0$.
+> 
+> c. Un insieme $f(c) = \frac{3}{2} - 3c + \frac{5}{2}c^2$ e $g(c) = 1 - 6c^2 + 12c^3$. Verificare che $\frac{c_{n+1}}{c_n} \ge \frac{f(c_n)}{g(c_n)}$.
+> 
+> d. Determinare i limiti di $(a_n)$, $(b_n)$, $(c_n)$.
+> 
+> e. Quale scenario ti sembra più pertinente?
+
+[[src_cgen_2010__Q03]]

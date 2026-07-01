@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2005 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2005_r2__Q02
 parent: src_pol_2005_r2
 competition: Olimpiade Matematica Polacca 2005 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In convex quadrilateral ABCD, M is the midpoint of diagonal AC; prove that if angle BAD = angle BMC = angle CMD then a circle can be inscribed in ABCD.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1TdHFWiGU9cO5g7t9suf-adbCUDeE_k7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In ABCD convex quadrilaterale, M è il punto medio di AC diagonale; dimostrare che se angolo BAD = angolo BMC = angolo CMD allora un cerchio può essere inscritto in ABCD.*
+
+> In un quadrilaterale converso $ABCD$, il punto $M$ è il punto medio della diagonale $AC$. Prova che se $\angle BAD = \angle BMC = \angle CMD$, allora un cerchio può essere inserito in quadrilaterale $ABCD$.
+
+[[src_pol_2005_r2__Q02]]

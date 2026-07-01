@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2007 — Quesito
   10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2007__Q10
 parent: src_bocconi_finalenaz_2007
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2007
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri, diminuiti della somma delle loro cifre, sono uguali a 2007?*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many numbers, less the sum of their numbers, are equal to 2007? *
+
+> It's 2007 again! How many numbers, minus the sum of their numbers, are equal to 2007?
+
+**Answer:** 10
+[[src_bocconi_finalenaz_2007__Q10]]

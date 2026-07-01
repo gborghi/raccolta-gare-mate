@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_riserva_biennio__Q10
 parent: src_archimede_2020_riserva_biennio
 competition: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01)
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Secondi per riempire vasca con due rubinetti insieme*
 
@@ -40,3 +43,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1FHovVvjzoFx5DPSwVsD8IjrWzxEYNRZ6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Seconds to fill the tank with two faucets together< MSK1/>
+
+> In a fountain tank there are two different faucets, A and B, connected by independent pipes. It takes six minutes to fill the tub, leaving everything open. Opening the B tap, which brought in the minor, takes nine minutes. In how many seconds do you fill the tub and leave both taps open simultaneously?
+>
+> - **(A)** 252
+> - **(B)** 288
+> - **(C)** 175
+> - **(D)** 216
+> - **(E)** 273
+
+[[src_archimede_2020_riserva_biennio__Q10]]

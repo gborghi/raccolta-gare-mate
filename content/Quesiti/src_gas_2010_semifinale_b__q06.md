@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale B — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_b__Q06
 parent: src_gas_2010_semifinale_b
 competition: Gara a Squadre 2010 - Semifinale B
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio righe dispari nel triangolo di Tartaglia (1600-1726)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2059
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting of odd lines in the Triangle of Tartaglia (1600-1726) *
+
+> 6. The Tortuga Triangle on the Tortuga Island has a great importance a commemorative plaque called the Tortuga Triangle. It is apparently identical to the Tartaglia triangle, but each of its lines is dedicated to a year from 1600 to 1726 and the numbers reported represent the number of π-rates boarded for each of the π-rates ships that sank in that year. For example, in 1600 (1) only one ship with a single MSK2/>-rate was sunk, in 1601 (1),
+
+**Answer:** 2059
+[[src_gas_2010_semifinale_b__Q06]]

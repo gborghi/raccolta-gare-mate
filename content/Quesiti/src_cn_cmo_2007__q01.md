@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2007 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2007__Q01
 parent: src_cn_cmo_2007
 competition: China Mathematical Olympiad 2007
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove max of two complex moduli is at least mn/sqrt(m^2+n^2)*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La prova massima di due moduli complessi è almeno mn/sqrt(m^2+n^2)*
+
+> Date le cifre complesse $a$, $b$, $c$, lasciamo $|a + b| = m$, $|a - b| = n$, e supponiamo $mn \neq 0$. Provare che < MSK0/>
+
+[[src_cn_cmo_2007__Q01]]

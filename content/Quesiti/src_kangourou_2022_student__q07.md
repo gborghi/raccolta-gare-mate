@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q07
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soluzioni reali di (x-2)²+(x+2)²=0*
 
@@ -44,3 +47,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Real solutions of (x-2) 2+(x+2) 2=0*
+
+> How many real solutions does the equation (x − 2) 2 + (x + 2) 2 = 0 have ? A) 0
+>   
+> B) 1
+>   
+> C) 2
+>   
+> D) 3
+>   
+> E) 4
+
+**Answer:** A
+[[src_kangourou_2022_student__Q07]]

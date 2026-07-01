@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Triennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_triennio__Q14
 parent: src_archimede_2026_triennio
 competition: Giochi di Archimede 2026 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Terne (x,y,z) con x+y+z+MCD(x,y,z)=24*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 298
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Terns (x,y,z) with x+y+z+MCD(x,y,z) = 24*
+
+> A square of 4 cm side contains three circles, tangent to each other and tangent to the sides of the square, as in the figure next to it. The circles α and β have the same radius. How many centimetres does the radius of γ measure ? α β γ
+>
+> - **(A)** 7/6
+> - **(B)** 1
+> - **(C)** 5/4
+> - **(D)** 9/8
+> - **(E)** 10/9
+
+**Answer:** 298
+[[src_archimede_2026_triennio__Q14]]

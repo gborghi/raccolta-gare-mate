@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q22
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count good positive integers k that partition {1,...,20} into subsets each summing to k*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare buoni interi positivi k che la partizione {1,...,20} in sottoinsiemi ogni sommare a k*
+
+> Un intero positivo $k$ si dice essere \textit{good} se esiste una partizione di $\{1, 2, 3, \ldots, 20\}$ per disgiungere i propri sottoinsiemi in modo tale che la somma dei numeri in ogni sottoinsieme della partizione sia $k$. Quanti numeri ci sono?
+
+**Risposta:** 6
+[[src_prmo_2018__Q22]]

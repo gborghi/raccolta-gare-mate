@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Benjamin 2024 — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin__Q23
 parent: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di colori per le sette linee metropolitane*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of colours for the seven metro lines*
+
+![[src_kangourou_2024_benjamin__prob23.png]]
+
+> The figure shows a map of a town's seven metropolitan lines. The circles indicate the stations. Martino wants to colour the lines so that if two lines pass through the same station, they have different colours. What is the smallest number of colours that Martino can use? A) 3
+>      	
+> B) 4
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 7
+
+**Answer:** A
+[[src_kangourou_2024_benjamin__Q23]]

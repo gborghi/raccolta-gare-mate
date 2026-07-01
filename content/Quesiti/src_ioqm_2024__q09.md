@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q09
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count knight-move pairs in 5x5 integer grid*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le coppie di movimenti di cavalieri in griglia di numeri interi 5x5*
+
+> Considera la griglia dei punti $X = \{(m,n) \mid 0 \le m, n \le 4\}$. Diciamo che una coppia di punti $\{(a,b),(c,d)\}$ in $X$ è una coppia di cavallo-movimento se ($c = a \pm 2$ e $d = b \pm 1$) o ($c = a \pm 1$ e $d = b \pm 2$). Il numero di coppie di movimenti di cavallo in $X$ è:
+
+[[src_ioqm_2024__Q09]]

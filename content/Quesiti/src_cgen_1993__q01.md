@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1993 — Matematica — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1993__Q01
 parent: src_cgen_1993
 competition: Concours Général des Lycées 1993 — Matematica
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perfect weight box: characterize and count by factorization, total mass 1993g*
 
@@ -62,3 +65,23 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Cassa per il peso perfetto: caratterizzare e contare per fattorizzazione, massa totale 1993g
+
+> Chiamiamo una scatola di pesi **** qualsiasi insieme finito di pesi composto da: $$x_1 \text{ weights of } d_1 \text{ grams each,}$$ $$x_2 \text{ weights of } d_2 \text{ grams each,}$$ $$\vdots$$ $$x_k \text{ weights of } d_k \text{ grams each.}$$ $$x_k \text{ weights of } d_k \text{ grams each.}$$ I numeri $x_i$ e $d_i$ (per $1 \le i \le k$) sono numeri naturali non zero come $$1 \le d_1 < d_2 < \cdots < d_k.$$ Settiamo $n = x_1 d_1 + x_2 d_2 + \cdots + x_k d_k$ e diciamo che la massa totale della scatola è $n$ grammi.
+> 
+> Una scatola di pesi è chiamata **perfetta** se consente di ottenere, in modo unico, ogni massa $m$ da $\{0, 1, \ldots, n\}$: cioè, per ogni intero $m$ in $\{0, 1, \ldots, n\}$, esistono enti unici $y_1, y_2, \ldots, y_k$ in modo tale che per ogni indice $i$, $1 \le i \le k$, si abbia $0 \le y_i \le x_i$ e $m = y_1 d_1 + y_2 d_2 + \cdots + y_k d_k$.
+> 
+> **1.** Determinare tutte le scatole di pesi di massa totale $5$ grammi. Quale di queste è perfetta?
+> 
+> **2.** Indicare che per una casella perfetta di pesi di massa totale $n$ grammi, si ha, con la notazione del preambolo: $$(1 + x_1)(1 + x_2) \cdots (1 + x_k) = n + 1.$$
+> 
+> **3.** Invece, dati $k$ numeri interi rigorosamente positivi $x_1, x_2, \ldots, x_k$ ($k$ non zero) in modo che $$n + 1 = (1 + x_1)(1 + x_2) \cdots (1 + x_k),$$ dimostri che esistono numeri interi $d_1, d_2, \ldots, d_k$ con $1 \le d_1 < d_2 < \cdots < d_k$ in modo che la scatola di pesi composta da pesi $x_1$ di grammi $d_1$, pesi $x_2$ di grammi $d_2$, pesi $\ldots$ di grammi $x_k$ sia perfetta.
+> 
+> < MSK1/>4.< MSK2/> Determina tutte le scatole perfette di pesi di massa totale < MSK0/> grammi.
+
+[[src_cgen_1993__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Biennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_biennio__Q07
 parent: src_archimede_2005_biennio
 competition: Giochi di Archimede 2005 - Gara Biennio
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante terne (v,n,p) con v=n+p in un campionato*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many ternes (v,n,p) with v=n+p in a sample*
+
+> At the end of a 20-team football championship (in which each team plays every other team exactly two games) the Mathematicians won 19 games, drew 12 and lost 7. The coach notes that you have 19=12+7. For a general championship team we indicate with (v, n, p) the number of wins, draws and losses, respectively, obtained in the championship. How many distinct times can it happen that v = n + p? (Note: the terns are ordered, so, for example, (19, 12, 7) and (19, 7, 12) are to be considered distinct).
+>
+> - **(A)** 19,
+> - **(B)** 20,
+> - **(C)** 38,
+> - **(D)** 40,
+> - **(E)** None of the previous ones.
+
+**Answer:** B
+[[src_archimede_2005_biennio__Q07]]

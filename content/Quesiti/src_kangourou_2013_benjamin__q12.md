@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q12
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pezzo che copre più punti nella griglia*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Weight covering more than one point in the grid*
+
+![[src_kangourou_2013_benjamin__prob12.png]]
+
+> In the figure, you can see a square grid formed by squared cells; at the center of some of them are points. Which of the items in the answers, if properly inserted into the grid, can cover the most of these points? (Each piece is constructed in such a way that, properly placed inside the grid, each of its knots can cover the centre of some box.) A)
+>       	
+> B) C) D)
+>       	
+> E)
+
+**Answer:** C
+[[src_kangourou_2013_benjamin__Q12]]

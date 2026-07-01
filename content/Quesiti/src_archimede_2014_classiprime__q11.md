@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2014 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_classiprime__Q11
 parent: src_archimede_2014_classiprime
 competition: Gara Nazionale Classi Prime 2014
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto aree dividendo trapezio coi punti medi dei lati*
 
@@ -74,3 +77,40 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio of areas dividing trapezoid by the midpoints of the sides*
+
+![[src_archimede_2014_classiprime__prob11.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.1]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (6,0);
+  \coordinate (C) at (4.5,2);
+  \coordinate (D) at (1.5,2);
+  \coordinate (P) at (0.75,1);
+  \coordinate (Q) at (5.25,1);
+  \fill[black!22] (A)--(B)--(Q)--(P)--cycle;
+  \fill[black!8] (P)--(Q)--(C)--(D)--cycle;
+  \draw (A)--(B)--(C)--(D)--cycle;
+  \draw (P)--(Q);
+  \foreach \pt in {A,B,C,D,P,Q} \fill (\pt) circle (1.8pt);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above right] at (C) {$C$};
+  \node[above left] at (D) {$D$};
+  \node[left] at (P) {$P$};
+  \node[right] at (Q) {$Q$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the trapezoid ABCD the major base AB is twice the minor base CD. By joining the midpoints of the oblique sides, the trapezoid remains divided into two parts of area α and β (α is the smallest and β the largest). What's the relationship between α and β? A 5 7 B 1 2 C 2 3 D 3 4 E 7 9 F cannot be determined by the data provided alone
+
+**Answer:** A
+[[src_archimede_2014_classiprime__Q11]]

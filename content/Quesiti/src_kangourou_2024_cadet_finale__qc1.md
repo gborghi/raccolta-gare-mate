@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Cadet 2024 — Quesito C1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet_finale__QC1
 parent: src_kangourou_2024_cadet_finale
 competition: Kangourou Finale Cadet 2024
@@ -24,6 +25,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Si puo dedurre il significato di KAB dalla risposta*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>The meaning of KAB can be deduced from the answer< MSK1/>
+
+> In the strange Kanglandic language, the words "yes" and "no" translate to "KAB" and "BAK", but not necessarily in this order. You meet a person you can trust, who knows both the Italian and the Kangal language, and you ask them: Is it true that KAB means "yes"? The person answers, "KAB". Can you tell if "KAB" means "yes" or "no"?
+
+[[src_kangourou_2024_cadet_finale__QC1]]

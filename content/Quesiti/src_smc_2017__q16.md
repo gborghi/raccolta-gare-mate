@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2017 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2017__Q16
 parent: src_smc_2017
 competition: Senior Mathematical Challenge 2017
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two right-angled triangles inside a square; perpendicular sides of larger triangle are 15 and 20; find area of shaded quadrilateral.*
 
@@ -50,3 +53,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due triangoli rettangolari all'interno di un quadrato; i lati perpendicolari di un triangolo più grande sono 15 e 20; trovare area di quadrilaterali ombrati.*
+
+> Il diagramma mostra due triangoli rettangolari all'interno di un quadrato. I lati perpendicolari del triangolo più grande hanno lunghezze $15$ e $20$.
+> 
+> Qual è l'area del quadrilaterale ombrato?
+>
+> - **(A)** $142$
+> - **(B)** $146$
+> - **(C)** $150$
+> - **(D)** $154$
+> - **(E)** $160$
+
+![[src_smc_2017__Q16.png]]
+
+**Risposta:** D
+[[src_smc_2017__Q16]]

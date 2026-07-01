@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f1__Q05
 parent: src_obm_2002_n2_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pedro and João race; 2 João steps = 3 Pedro steps; João has 60-step head start; how many steps for Pedro to catch up*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Pedro e João gara; 2 João passi = 3 Pedro passi; João ha un vantaggio di 60 passi; quanti passi per Pedro per recuperare*
+
+> Due fratelli, Pedro e João, decisero di giocare a una gara. Poiché Pedro è più vecchio, ogni passo $2$ di João copre la stessa distanza di quello di Pedro. Per iniziare la gara, a João viene dato un vantaggio di $60$-passaggio prima che inizi Pedro. Dopo quante tappe Pedro raggiunge João?
+>
+> - **(A)** passi < MSK0/>
+> - **(B)** passi < MSK0/>
+> - **(C)** passi < MSK0/>
+> - **(D)** passi < MSK0/>
+> - **(E)** passi < MSK0/>
+
+**Risposta:** E
+[[src_obm_2002_n2_f1__Q05]]

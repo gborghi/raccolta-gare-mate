@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_biennio_rec__Q02
 parent: src_archimede_2025_biennio_rec
 competition: Giochi di Archimede 2025 - Biennio (prova di riserva)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Euro persi minimi pagando scarpe con buoni*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum losses by paying for shoes with vouchers< MSK1/>
+
+> Mario wants to buy a pair of shoes that cost 117 and, having at his disposal a voucher for 50 and, five vouchers for 20 and, eight for 5 and and one for 1 and. If the value of the vouchers exceeds the price of the product, the difference shall not be refunded. How much of the value of the vouchers will be lost, at least, to pay for the shoes entirely with your vouchers?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 4
+> - **(D)** 3
+> - **(E)** 2
+
+**Answer:** D
+[[src_archimede_2025_biennio_rec__Q02]]

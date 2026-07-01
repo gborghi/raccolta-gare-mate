@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q03
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count composite numbers in the set {1, 101, 1001, ..., 1000000000001}*
 
@@ -50,3 +53,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri composti nell'insieme {1, 101, 1001, ..., 1000000000001}*
+
+> Nell'insieme $\{1,\ 101,\ 1001,\ \ldots,\ 1\,000\,000\,000\,001\}$ ogni elemento è un numero formato dalla cifra $1$ alle estremità e dalle cifre $0$ tra di loro. Alcuni di questi elementi sono numeri primi e altri composti. Per quanto riguarda la quantità di numeri composti possiamo affermare che:
+> 
+> (A) è uguale a $1$ \quad (B) è uguale a $4$ \quad (C) è inferiore a $3$ \quad (D) è maggiore di $4$ e inferiore a $11$ \quad (E) è $3$
+
+**Risposta:** D
+[[src_obm_2001_n2_f1__Q03]]

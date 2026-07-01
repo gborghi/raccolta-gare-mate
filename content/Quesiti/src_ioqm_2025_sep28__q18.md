@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q18
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -34,6 +35,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Grid paths from (0,0) to (7,12) avoiding points with both coordinates odd*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cosci di griglia da (0,0) a (7,12) evitando punti con entrambe le coordinate odd*
+
+> Nel piano, la fine positiva dell'asse $x$ deve essere diretta verso est e la fine positiva dell'asse $y$ deve essere diretta verso nord. Supponiamo che tu sia a $(0, 0)$ e che tu voglia andare a $(7, 12)$. Ad ogni mossa è consentito spostare la lunghezza unità verso est o la lunghezza unità verso nord dalla posizione attuale, ma non è consentito visitare alcun punto $(h, k)$ in cui entrambe le $h, k$ sono odd. Trova il numero di tali percorsi $n$.
+
+[[src_ioqm_2025_sep28__Q18]]

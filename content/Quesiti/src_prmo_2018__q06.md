@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q06
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integers a,b,c with a+b-c=1 and a^2+b^2-c^2=-1, find sum of all possible values of a^2+b^2+c^2*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 18
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integri a,b,c con a+b-c=1 e a^2+b^2-c^2=-1, trovi la somma di tutti i valori possibili di a^2+b^2+c^2*
+
+> Gli integri $a, b, c$ soddisfano $a + b - c = 1$ e $a^2 + b^2 - c^2 = -1$. Qual è la somma di tutti i possibili valori di $a^2 + b^2 + c^2$?
+
+**Risposta:** 18
+[[src_prmo_2018__Q06]]

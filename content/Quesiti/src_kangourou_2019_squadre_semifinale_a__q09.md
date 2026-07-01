@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q09
 parent: src_kangourou_2019_squadre_semifinale_a
 competition: Kangourou Coppa squadre 2019 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lati del poligono con probabilita diagonale 0,8*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0011
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lats of the polygon with diagonal probability of 0,8*
+
+> Convex polygon Choosing at random two vertices of a convex polygon, the probability that they are vertices of a diagonal is 0.8. How many sides does the polygon have?
+
+**Answer:** 0011
+[[src_kangourou_2019_squadre_semifinale_a__Q09]]

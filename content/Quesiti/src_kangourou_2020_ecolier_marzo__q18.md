@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Ecolier — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q18
 parent: src_kangourou_2020_ecolier_marzo
 competition: Kangourou 2020 Gara marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale combinazione gelato-decorazione NON e possibile*
 
@@ -77,3 +80,19 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which combination of ice cream and decoration is NOT possible< MSK1/>
+
+![[src_kangourou_2020_ecolier_marzo__prob18.png]]
+
+> Six friends order a ball of ice cream each. They order three vanilla balls, two chocolate balls and a lemon ball. On top of each ice cream is a decoration chosen from a box containing 3 cherries, 2 wafers and 1 chocolate and the choice is made so that each ice cream, once decorated, can be distinguished from each other. Which of the following combinations is NOT possible? A) Chocolate ice cream with cherry. B) Vanilla ice cream with cherry. C) Lemon ice cream with wafers.
+> 	
+> D) Chocolate ice cream with wafers. E) Vanilla ice cream with chocolate. 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 1 2 3 4 5 X   
+>
+
+**Answer:** C
+[[src_kangourou_2020_ecolier_marzo__Q18]]

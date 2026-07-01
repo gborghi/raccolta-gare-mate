@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo11yq_yosen__Q01
 parent: src_jmo11yq_yosen
 competition: Japan Mathematical Olympiad 2001 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest divisor giving remainder 114*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 629
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il divisore più piccolo che dà il rimanente 114*
+
+> Quando $2001$ è diviso da un certo intero positivo $n$, il rimanente è $114$. Tra tali $n$, trova il più piccolo. Si noti che $n > 114$.
+
+**Risposta:** 629
+[[src_jmo11yq_yosen__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_pubblico__Q18
 parent: src_archimede_2002_pubblico
 competition: Archimede 2002 - Gara del Pubblico (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *posizione dei passeggeri*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0196
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>position of the passengers< MSK1/>
+
+> Professor Abacus in the tram (fifteen points)
+> 
+> Professor Abacus takes the tram 32 to go to work at the university. However, this morning he's late and he's forced to take the 28 tram. "Buffo"  thinks Abacus  "the smallest perfect square that is multiple of 28 is the civic number of my house". What is the civic number of the building where the professor lives?
+
+**Answer:** 0196
+[[src_archimede_2002_pubblico__Q18]]

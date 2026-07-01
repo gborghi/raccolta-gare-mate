@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q04
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo da trapezio con similitudini*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0192
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Trapezium triangle area with similarities*
+
+> = 51.
+
+**Answer:** 0192
+[[src_gs_2013_squadre__Q04]]

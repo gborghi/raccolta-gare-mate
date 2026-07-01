@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2002 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2002_r2__Q01
 parent: src_pol_2002_r2
 competition: Olimpiade Matematica Polacca 2002 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove all functions f:R->R satisfying f(x)=f(2x)=f(1-x) for all x are periodic.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jU9r-WBc_lrQ5IY9m00_E7KFGVcR9W3o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove tutte le funzioni f:R->R che soddisfano f(x)=f(2x)=f(1-x) per tutte le x sono periodiche.*
+
+> Provare che tutte le funzioni $f:\mathbb{R}\to\mathbb{R}$ che soddisfano $$\forall x\in\mathbb{R}\ \ f(x)=f(2x)=f(1-x)$$ sono periodiche.
+
+[[src_pol_2002_r2__Q01]]

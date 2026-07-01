@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q09
 parent: src_kangourou_2018_cadet_semifinale
 competition: Kangourou 2018 Cadet - Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Immagine laterale del monumento di cilindri*
 
@@ -53,3 +56,28 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kVLsfgriHzHWeJPk7c69FlUrtxeTTMzS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Side image of the cylinder monument*
+
+![[src_kangourou_2018_cadet_semifinale__prob9.png]]
+
+> (Points 6) A monument is obtained by overlapping 4 straight circular cylinders of the same height. The volume of each cylinder (except the base) is half the volume of the cylinder on which it rests. Which of the following can be a lateral image of the monument? A)
+> 	
+> 	
+> B)
+>  	
+> 	
+> C)
+> 	
+> 	
+> D)
+> 	
+> 	
+> (e) Open-ended questions
+
+**Answer:** B
+[[src_kangourou_2018_cadet_semifinale__Q09]]

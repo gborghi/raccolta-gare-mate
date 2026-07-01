@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q16
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora quando somma Ghiro supera 2012/2013*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0012
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Now when the sum Ghiro exceeds 2012/2013*
+
+> After a robust dose of butter and a generous teaspoon, the K-oil clock finally started working again. Now mark midnight and a minute. The following test shall be carried out to verify its accuracy. Whenever she shoots an exact hour (the hour is an integer number between 1 and 24), the Diophantine Hare takes the number of the hour, multiplies it by its next and tells the result out loud. The K-ellaio Matto, at that point, says out loud the number obtained by adding 1 to the triple of the number spoken by the hare. The Ghiρ, therefore, says
+> 
+> Team competition 2013  National Finals  Problem texts 3/4 sleeping the number you get by dividing the number said by K -ellaio by the cube of the number said by the Hare. Finally, Root is tasked with calculating the sum of all the numbers given up to that point by Ghiρ. What time will the K-lock indicate when this sum will be greater than 2012-2013 for the first time? (Let the calculations made and the words spoken by the characters be considered instantaneous)
+
+**Answer:** 0012
+[[src_cesenatico_2013_finale__Q16]]

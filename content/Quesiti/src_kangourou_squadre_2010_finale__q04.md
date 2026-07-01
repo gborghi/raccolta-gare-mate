@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2010_finale__Q04
 parent: src_kangourou_squadre_2010_finale
 competition: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di cammini a zig-zag su caselle bianche*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0296
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of zigzag paths on white boxes*
+
+> Last year, 32 players participated in a direct knockout tennis tournament. In the first stage each player faced another (there were 16 matches played in total) and the loser was eliminated. In the second stage each of the 16 winners faced another (there were a total of 8 matches played) and the loser was eliminated. So it went on until the fifth stage (the final). All matches (except, of course, the last one) were drawn. This year, there were many more requests for participation, all of which were accepted: look at 2009. The organising committee decided to draw a number of players, as few as possible, to be admitted directly to the second stage and to make the mechanism described above (number of players halfway through each stage) applicable from the second stage. How many games were played in total this year in that tournament?
+
+**Answer:** 0296
+[[src_kangourou_squadre_2010_finale__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q04
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di pietre con vincolo sui pesi*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 199
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of stones subject to weight restrictions*
+
+> Ligur, the head of the underground quarry, must transport < MSK0/> of stones, each weighing less than < MSK1/>, from the quarry to a storage facility. Only one truck with a maximum capacity of < MSK2/> is available. The truck always travels without further loading, in the sense that, for each trip, no stone can be added without exceeding the maximum range.
+> 
+> What is the maximum number of trips from the quarry to the warehouse that the truck will have to make to transport all the stones?
+
+**Answer:** 199
+[[src_gs_2008_squadre__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_a__Q15
 parent: src_cesenatico_2006_squadre_semifinale_a
 competition: Gara a Squadre Cesenatico 2006 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma quadrati delle radici di x^3-46x^2+55x-7*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2006
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of the square roots of x^3-46x^2+55x-7*
+
+> The end of the Triangle Tournament is near, and soon the name of the supreme mathematician will be known, the one who will be remembered for ages to come. Only one test separates Hardy from the deserved triumph: determining how much the sum of the squares of the roots of the polynomial x3 −46x2 +55x−7 is worth.
+> 
+> Cesenatico Competition in teams 2 6 VII NATIONAL GARA A Semifinal Team A  Solution  5 May 2006 Nr. The problem
+
+**Answer:** 2006
+[[src_cesenatico_2006_squadre_semifinale_a__Q15]]

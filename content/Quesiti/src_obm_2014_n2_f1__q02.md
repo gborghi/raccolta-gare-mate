@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f1__Q02
 parent: src_obm_2014_n2_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Carnival cards 1–2014 painted yellow/green/black in cycle; parity claims*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Carnival cards 12014 dipinte in giallo/verde/nero in ciclo; pretese di parità*
+
+> Ana ha le carte di carnaval del 2014 numerate da 1 a 2014. Poi le dipinge, partendo dal primo, con colori gialli, verdi e neri, uno di ogni colore, sempre in questo ordine. Cosa si può dire di queste carte?
+>
+> - **(A)** Il numero di carte gialle è uguale al numero di carte verdi.
+> - **(B)** Ci sono più carte gialle a numero impar rispetto alle carte verdi a numero impar.
+> - **(C)** Ci sono più carte nere a numero impar rispetto alle carte gialle a numero impar.
+> - **(D)** Ci sono più carte verdi che carte gialle.
+> - **(E)** Ci sono più carte nere a numeri odd che carte verdi a numeri odd.
+
+**Risposta:** E
+[[src_obm_2014_n2_f1__Q02]]

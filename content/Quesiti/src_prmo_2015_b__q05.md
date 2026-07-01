@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_b__Q05
 parent: src_prmo_2015_b
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -34,6 +35,8 @@ tags:
   - regione/b
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Non-zero integer-coefficient polynomial divisible by n for all positive n; find P(0)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomio a coefficiente intero non zero divisibile per n per tutte le n positive; trovare P(0)*
+
+> $P(x)$ sia un polinomio non zero con coefficienti interi. Se $P(n)$ è divisibile per $n$ per ogni intero positivo $n$, qual è il valore di $P(0)$?
+
+**Risposta:** 0
+[[src_prmo_2015_b__Q05]]

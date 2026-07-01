@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2023__Q06
 parent: src_tfjm_2023
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023
@@ -37,6 +38,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Hierarchies as oriented social-bond graphs; emeutes (riots) that flip and add bonds; stability, reachability, revolutions on complete/coherent/arbitrary tribes*
 
@@ -51,3 +54,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Zgbgw16aZEai2bo8kAUFHAI-ffQz7IA5/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ierarchie come grafici di legami sociali orientati; emeute (rivolti) che girano e aggiungono legami; stabilità, accessibilità, rivoluzioni sulle tribù complete/coerenti/arbitrali*
+
+> Tribù gerarchici (Tribus hierarchiques). In un arcipelago lontano da tutti, le tribù hanno un ordine sociale ben consolidato. Due individui sono collegati socialmente se uno è socialmente superiore all'altro. Una gerarchia è un insieme di collegamenti che vanno da un individuo all'altro. Per due individui $A$ e $B$, scriviamo $A \\to B$ se $A$ è socialmente (ierarchicamente) superiore a $B$. Supponiamo che ci siano almeno due persone. La superiorità gerarchica non è transitiva: se $A \\to B$ e $B \\to C$, allora non necessariamente $A \\to C$.\n\nSulla Tournoasis Isle una tribù si organizza in una completa gerarchia: per qualsiasi coppia di individui $A$ e $B$, si ha o $A \\to B$ o $B \\to A$.\n\nDue persone insoddisfatte possono dichiarare un émeute (rivolto). Una rivolta provocata da $A \\to B$ trasforma la gerarchia in tre fasi:\n a) Per ogni collegamento sociale $C \\to A$ e $B \\to D$ con $C$ e $D$ diversi, si aggiunge un collegamento sociale $C \\to D$ (in questa fase si possono avere più collegamenti sociali tra due persone).\n b) Si inverte il collegamento $A \\to B$ in $B \\to A$.\n c) Se, tra due persone $X$ e $Y$, ci sono più collegamenti sociali, si sostituiscono con il collegamento sociale di maggioranza, o con un singolo collegamento sociale in caso di legame. Così $X \\rightrightarrows Y$ diventa $X \\to Y$, e un tie $X \\rightrightarrows Y$ lascia $X$ e $Y$ non collegati.\n\nCome la gerarchia deve rimanere completa su Tournoasis, se il risultato finale lascia una coppia di persone senza legame sociale, allora l'émeute non può avvenire.\n\nLa figura 7 mostra tre esempi di émeutes tra $A$ e $B$. La situazione iniziale è a sinistra e il risultato finale a destra. Su Tournoasis, non può avvenire l'emeute tra $C$ e $D$ nell'esempio di destra.\n\n1. Esistono gerarchie stabili, in cui non può scoppiare alcuna rivolta? In tal caso, per quali numeri di individui?\n\nPer due gerarchie $H_1$ e $H_2$, scriviamo $H_1 \\to H_2$ se c'è una sequenza finita di émeutes che trasforma $H_1$ in $H_2$.\n\n2. E' vero che se $H_1 \\to H_2$, allora anche $H_2 \\to H_1$?\n\nUna rivoluzione è una sequenza di émeutes tale che il risultato finale ha invertito tutte le frecce.\n\n3. Caratterizzare le gerarchie per le quali una rivoluzione è possibile. Per quali gerarchie complesse $H_1$ e $H_2$ esiste una sequenza di émeutes che porta $H_1 \\to H_2$? Se non sempre, dare le condizioni necessarie e sufficienti per avere $H_1 \\to H_2$.\n\nNella vicina isola, Courtoasis, vive una tribù simile. Qui, le gerarchie non sono necessariamente complete, ma devono essere coerenti, il che significa che non ci sono individui $A_1, A_2, \\dots, A_n$ ($n > 1$) con $A_1 \\to A_2 \\to \\dots \\to A_n \\to A_1$. Se una rivolta rendesse la gerarchia non coerente, allora non può avvenire. Rendiamo le domande precedenti in questo quadro. In una terza isola, Carquoisis, vive una tribù con una gerarchia meno rigorosa, non necessariamente completa né coerente. Una rivolta può quindi avvenire sempre. Redo le domande 2, 3 e 4 in questo quadro. Proporre e studiare altre linee di ricerca.
+
+![[src_tfjm_2023__Q06.png]]
+
+[[src_tfjm_2023__Q06]]

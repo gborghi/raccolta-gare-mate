@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q06
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadrilatero con condizioni angolari, misura BC*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0056
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quadrilateral with angular conditions, measurement of BC*
+
+> General Brouwergan has decided to carpet bomb a certain area of planet Even 7, which is shaped like an ABCD quadrilateral. His deputy Kief Kroneker provides the necessary information to complete the operation: the equations BAD + CBD = BCA + 2ADB = 90° and BCD = 2BAD are valid. Also, say X the intersection point of the diagonals, you have that CX = 33, AX = 65. How big is BC?
+
+**Answer:** 0056
+[[src_squadre_2018_finale__Q06]]

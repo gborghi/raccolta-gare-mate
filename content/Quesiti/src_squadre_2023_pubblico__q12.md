@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Gara del pubblico — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_pubblico__Q12
 parent: src_squadre_2023_pubblico
 competition: Gara a Squadre 2023 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *f(11) con f ottenuta da (x-1)^9 modificando i termini*
 
@@ -77,3 +80,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4191
 **Fonte:** [apri PDF p.30](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*f(11) with f obtained from (x-1)^9 by modifying the terms*
+
+> Did you read that in the cities of MathVillain and EastPonente this year, the syn(use) was stronger than usual? Goemetrikon: Yes, you are. The proportion of patients in MathVillain as a whole was 8%, while in EstPonente it was 10%. Jig∈N: In addition, the proportion of patients under 50 in MathVillain was twice as high as in EastPonente, and the same proportion was also found in the over-50 group. Goemetrikon: How is this possible? Is there a contradiction? Jig∈N: No. Knowing that both cities are young, i.e. the under-50s are at least as many as the over-50s, what is the minimum ratio between the under-50s and the total population of MathVillain? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms. 13. To design the perfect shot, you have to know the place perfectly. Lupin/3, Jig∈N and Goemetrikon study the map of the museum room from which they will make a famous statue disappear. The room is an ABC isosceles triangle of base AB. The three doors of the room are in M, the middle point of BC, in F, the foot of height relative to B and in E, point on AB such that EB ∼= BM. They also know that B,E,F,M passes a circumference. To avoid video surveillance, it is important to know the width of the ABC angles. How much it 's worth ! The ACB? 14. The most common combination [⋆] Goemetrikon: Here's the safe! The code that opens it is the maximum common divisor of all numbers of the form 1n +2n +3n +··+999n where n is a positive integer. . . ». Jig∈N: Damn, we don't have time to calculate endless numbers!. Lupin 3 is sleeping. What's the code? 15. Inspector Zenonigata is convinced he can catch all three thieves. He's in the center of the GJL triangle formed by the three thieves. Goemetrikon and Jig∈N are 79 metres apart, while Goemetrikon and Lupin/3 are 119 metres apart. Goemetrikon jumps like only samaterai can do and lands in the symmetrical, relative to Zenonigata, of its starting point. He realizes that he is (still) on the circumscribed circumference at GJL; he calculates the distance between Lupin and Jig and saves his friends. How many meters do you measure the distance between Lupin and Jig? 16. A game dinner Both Lupin 3 and Fujit love to bet. Now they play each other: if Lupin wins/3, they'll go out to dinner; if Fujito wins, he'll have to give her the huge diamond he just stole. They've got 2023 matches in front of them. Initially Fujit ̄o chooses a positive integer n. Lupin/3 in its turns removes a number of matches between 1 and n extremes included; instead, Fujit ̄o in each turn removes a number of matches between n+1 and 2n extremes included. Start moving Lupin/3. Those who cannot make a move at the start of their shift have lost. Give as a response the sum of the n values that Fujito can choose to be sure of winning. 2023 Team Competition  Semifinal 1  Problem Tests  2/2
+> 
+> Ministry of Education and Merit XXIV National Semifinal Team Competition 1  Friday 5 May 2023 Solutions Nr. The problem
+
+**Answer:** 4191
+[[src_squadre_2023_pubblico__Q12]]

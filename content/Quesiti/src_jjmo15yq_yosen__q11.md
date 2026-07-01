@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo15yq_yosen__Q11
 parent: src_jjmo15yq_yosen
 competition: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integer 4-tuples satisfying (a^2+b^2)(c^2+d^2)=4abcd+106*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 128
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggiamo un numero intero 4 volte soddisfacente (a^2+b^2) ((c^2+d^2)=4abcd+106*
+
+> Quanti tuppi di numeri interi $(a, b, c, d)$ soddisfano l'equazione $$(a^2 + b^2)(c^2 + d^2) = 4abcd + 106\,?$$
+
+**Risposta:** 128
+[[src_jjmo15yq_yosen__Q11]]

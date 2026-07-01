@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2009 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2009__Q05
 parent: src_cn_cwmo_2009
 competition: China Western Mathematical Olympiad 2009
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Last two digits of x_2009 in sequence with x_0 in {5,7}*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 07, 25, 43
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le ultime due cifre di x_2009 in sequenza con x_0 in {5,7}*
+
+> Se $x_n$ è una sequenza tale da $x_0 \in \{5, 7\}$ e $x_{n+1} \in \left\{\frac{1}{2}x_n,\ 7x_n\right\}$ per $n = 1, 2, \ldots$. Determinare tutti i possibili casi delle ultime due cifre di $x_{2009}$.
+
+**Risposta:** 07, 25, 43
+[[src_cn_cwmo_2009__Q05]]

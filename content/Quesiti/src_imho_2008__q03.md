@@ -1,6 +1,7 @@
 ---
 title: IMO 2008 (XLIX International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2008__Q03
 parent: src_imho_2008
 competition: IMO 2008 (XLIX International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Infinitely many n with n²+1 having a prime divisor > 2n+√(2n)*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14Wdwk9eLYN2D6Kkkf0dzw1N64rAZts1h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Infinitely many n with n2+1 having a prime divisor > 2n+√(2n)*
+
+> Prove that there exist infinitely many positive integers $n$ such that $n^2 + 1$ has a prime divisor which is greater than $2n + \sqrt{2n}$.
+
+[[src_imho_2008__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_2livello__Q15
 parent: src_archimede_2008_2livello
 competition: Archimede Gara 2° livello 2008 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie reali (x,y) con 4/(x+y) = 1/x + 1/y*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** y=x con (0,0) escluso
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Real pairs (x,y) with 4/(x+y) = 1/x + 1/y*
+
+> Demonstrative Exercise Determine all pairs (x, y) of real numbers that prove the equation 4 x + y = 1 x + 1 y.
+
+**Answer:** y=x con (0,0) escluso
+[[src_archimede_2008_2livello__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q07
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Deduzione logica su extraterrestri verdi/rossi Marte/Venere*
 
@@ -50,3 +53,25 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Logical deduction on green/red extraterrestrials Mars/Venus*
+
+> The following two statements about the inhabitants of Mars and Venus are both true: some extraterrestrials are green, others are red; green extraterrestrials live on Mars. Which of the following statements can be deduced from them?
+> 	
+> A) All aliens live on Mars.
+> 	
+> B) Only green extraterrestrials live on Mars.
+> 	
+> C) Some red extraterrestrials live on Venus.
+> 	
+> D) All the red extraterrestrials live on Venus.
+>  
+> 	
+> E) There are no green extraterrestrials living on Venus.
+
+**Answer:** E
+[[src_kangourou_2018_student_marzo__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q30
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nell angolo in alto a destra del quadrato latino*
 
@@ -61,3 +64,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the upper right corner of the Latin square*
+
+![[src_kangourou_2019_student_marzo__prob30.png]]
+
+> Each box of the square in the figure must contain a number (and only one) so that each row and column contains one and only once each of the numbers 1, 2, 3, 4 and 5 and that the sum of the numbers in each of the three regions in which the square is divided by the polygons in bold is always the same. What number should be entered in the box in the upper right corner? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 5 2 ?
+>
+
+**Answer:** C
+[[src_kangourou_2019_student_marzo__Q30]]

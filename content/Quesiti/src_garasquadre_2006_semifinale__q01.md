@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_semifinale__Q01
 parent: src_garasquadre_2006_semifinale
 competition: VII Gara Nazionale a Squadre 2006 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *2006-esimo termine*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2060
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This appropriation is intended to cover expenditure relating to:
+
+> At the divination lesson, Hardy and Ron were again bitten to chat during the boring divination lesson. For punishment they must perform an exercise: given sequence 2, 3, 5, 6, 7, 10, 11, .. . , composed of all positive integers other than n squares and n cubes of other integers, for the 2006th term.
+
+**Answer:** 2060
+[[src_garasquadre_2006_semifinale__Q01]]

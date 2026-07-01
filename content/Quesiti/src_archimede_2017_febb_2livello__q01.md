@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2017 - 2 livello — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_febb_2livello__Q01
 parent: src_archimede_2017_febb_2livello
 competition: Archimede Gara di Febbraio 2017 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma delle facce nascoste dei 27 dadi incollati a cubo*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of the hidden faces of the 27 cubically glued dice*
+
+> Andrea glues 27 normal 6-faced dice together to form a large cube. The dice are oriented so that the sums of the read values on each side of the cube are, in some order, 14, 22, 30, 38, 46, 54. What is the sum of all the faces of the dice that, being glued together, are no longer read?
+>
+> - **(A)** 189
+> - **(B)** 204
+> - **(C)** 261
+> - **(D)** 333
+> - **(E)** 363
+
+**Answer:** E
+[[src_archimede_2017_febb_2livello__Q01]]

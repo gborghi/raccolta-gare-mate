@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q20
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Euro di Cristina divisi in parti*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The amount to be paid in the form of dividends shall be the sum of the following:
+
+> During their holidays, Alberto, Brenda and Cristina earned 280 euros together. Alberto worked twice as long as Brenda and four times as long as Cristina. They decide to share their earnings fairly. How many euros does Cristina have?
+>
+> - **(A)** 30
+> - **(B)** 40
+> - **(C)** 50
+> - **(D)** 60
+> - **(E)** 70. The questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** B
+[[src_kangourou_2001_benjamin__Q20]]

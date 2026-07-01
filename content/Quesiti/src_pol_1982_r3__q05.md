@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1982 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1982_r3__Q05
 parent: src_pol_1982_r3
 competition: Olimpiade Matematica Polacca 1982 — Round 3
@@ -39,6 +40,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic integer sequence with sign condition: prove a difference of sums is divisible by 4*
 
@@ -51,3 +54,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qBPh1W7EiylRWktVfDLoEOsdrnYFDxsy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di numeri interi ciclica con condizione di segno: dimostrare che una differenza di somme è divisibile per 4*
+
+> Gli integri $x_0, x_1, \ldots, x_{n-1}, x_n = x_0, x_{n+1} = x_1$ soddisfano la disuguaglianza $(-1)^k x_{k-1} x_{k+1} > 0$ per $k = 1, 2, \ldots, n$. Prova che la differenza $$\sum_{k=0}^{n-1} x_k - \sum_{k=0}^{n-1} |x_k|$$ è divisibile per $4$.
+
+[[src_pol_1982_r3__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1976-77 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1976-77_round2__Q04
 parent: src_bmo_1976-77_round2
 competition: British Mathematical Olympiad 1976-77 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Construct necklace of 2n beads in 2n colours covering all colour pairs*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PfHyGgG6orc2O_4a738MuIYaBULKOH3v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Construire un colletto di 2 perle in 2 colori che coprono tutte le coppie di colori< MSK1/>
+
+> Prove che per ogni numero intero $n \geq 1$ è possibile costruire un collare con perle $2n$ in tutto, essendo di $2n$ diversi colori, in modo tale che per ogni coppia di colori diversi vi sia almeno un paio di perle adiacenti di questi due colori. È possibile fare lo stesso utilizzando perle $2n^2 - 1$ in tutto? Datemi una ragione per la vostra risposta. (Un "colletto" è un'impostazione circolare di perle, senza alcun attaccamento; si presume che sia disponibile un ampio approvvigionamento di perle di tutti i colori.)
+
+[[src_bmo_1976-77_round2__Q04]]

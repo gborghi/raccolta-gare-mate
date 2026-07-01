@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2009 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2009__Q02
 parent: src_cn_ctst_2009
 competition: China National Team Selection Test 2009
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find largest lambda(n) for sum-squared vs sum-of-squares inequality*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\frac{n(n+1)^2}{4}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il più grande lambda(n) per la somma quadrata vs. la somma quadrata di squadre
+
+> Con un numero intero $n \geq 2$, trovare il più grande $\lambda(n)$ con la seguente proprietà: se una sequenza di numeri reali $a_0, a_1, a_2, \ldots, a_n$ soddisfa $$0 = a_0 \leq a_1 \leq a_2 \leq \cdots \leq a_n,$$ $$a_i \geq \frac{1}{2}(a_{i+1} + a_{i-1}), \quad i = 1, 2, \ldots, n-1,$$, allora $$\left(\sum_{i=1}^{n} a_i\right)^2 \geq \lambda(n) \sum_{i=1}^{n} a_i^2.$$
+
+**Risposta:** \frac{n(n+1)^2}{4}
+[[src_cn_ctst_2009__Q02]]

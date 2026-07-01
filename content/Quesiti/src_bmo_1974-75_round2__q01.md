@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1974-75 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1974-75_round2__Q01
 parent: src_bmo_1974-75_round2
 competition: British Mathematical Olympiad 1974-75 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real function with f(x-y)=f(x)-f(y)+bxy; continuity and differentiability*
 
@@ -54,3 +57,21 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Db2YDJJe3HTlXlSJ6KbEzgmGqDFFe8HU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Funzione reale con f(x-y)=f(x)-f(y) + bxy; continuità e differenziabilità*
+
+> In questa domanda una "funzione reale" significa una funzione $f$ tale che $f(x)$ esista ed è reale per tutti i numeri reali $x$.
+> 
+> (i) Indicare che esiste solo un valore della costante $b$ per la quale esiste una funzione reale $f$ con la proprietà che, per tutte le realtà $x$ e $y$, $$f(x-y) = f(x) - f(y) + bxy$$ dove $b$ è una costante.
+> 
+> (ii) Una funzione reale $f$ ha la proprietà che per tutte le funzioni reali $x$ e $y$ $$f(x-y) = f(x) - f(y) + cxy$$ dove $c$ è una costante.
+> 
+> (a) dimostrare che se $f$ è continuo a $x = 0$ allora è continuo ovunque.
+> 
+> b) dimostrare che se $f$ è differenziabile ovunque, e trovare il $f$ più generale in questo caso.
+
+[[src_bmo_1974-75_round2__Q01]]

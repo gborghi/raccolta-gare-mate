@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f3__Q06
 parent: src_obm_2012_n3_f3
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all surjective functions f: R+ → R+ satisfying a functional equation*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni soggettive f: R+ → R+ che soddisfa un'equazione funzionale*
+
+> Trovare tutte le funzioni surgetive $f$ dai reali positivi ai reali positivi in modo tale che $$2x \cdot f(f(x)) = (f(f(x)) + x) \cdot f(x)$$ per ogni reale positivo $x$.
+> 
+> (*Nota:* Una funzione $f$ da $A$ a $B$ è *sorgettivo* se l'immagine di $f$ è tutta $B$, cioè per ogni $y \in B$ esiste $x \in A$ tale che $f(x) = y$.)
+
+[[src_obm_2012_n3_f3__Q06]]

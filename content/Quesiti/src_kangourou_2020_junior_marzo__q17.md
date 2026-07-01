@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q17
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura di ingombro della quarta figura di rettangoli*
 
@@ -60,3 +63,26 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measurement of the inclination of the fourth rectangular figure*
+
+![[src_kangourou_2020_junior_marzo__prob17.png]]
+
+> The four figures you see on the right can be formed by approaching the two different rectangles you see below. For the first three, one of the size measurements in centimetres is given. How many centimetres is the measurement of the fourth angle, indicated by the point of application? A) 50
+> 	
+> B) 52
+> 	
+> C) 54
+>     
+> D) 72
+> 	
+> E) 58 40 cm 32 cm 18 cm ? cm
+> 
+> 70° ?
+
+**Answer:** C
+[[src_kangourou_2020_junior_marzo__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q20
 parent: src_kangourou_2009_ecolier_marzo
 competition: Kangourou 2009 - Ecolier (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale codice (somma cifre pari = dispari)*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What code (sum of even numbers = odd) *
+
+> A secret code is made up of 6 digits; the sum of the even digits is equal to the sum of the odd digits. The code certainly corresponds to one of the following, where the figures indicated with * are unreadable. What kind? A) 81**61 B) 7*727* C) 4*4141 D) 12*9*8    E) 181*2*
+
+**Answer:** D
+[[src_kangourou_2009_ecolier_marzo__Q20]]

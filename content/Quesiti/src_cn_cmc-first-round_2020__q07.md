@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2020 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2020__Q07
 parent: src_cn_cmc-first-round_2020
 competition: China Mathematical Competition (First Round) 2020
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral with vector condition on point P, find area ratio*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $\frac{1}{2021}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilatore convex con condizione vettoriale sul punto P, trovare rapporto di superficie*
+
+> (Paper B, parte I Q7) In quadrilaterale convex $ABCD$, $\overrightarrow{BC} = 2\overrightarrow{AD}$. Il punto $P$ si trova sul piano quadrilaterale $ABCD$, soddisfacendo $\overrightarrow{PA} + 2020\overrightarrow{PB} + \overrightarrow{PC} + 2020\overrightarrow{PD} = \overrightarrow{0}$. Le aree $s$ e $t$ siano rispettivamente quadrilaterali $ABCD$ e $\triangle PAB$. Il valore di $\dfrac{t}{s}$ è $\underline{\qquad}$.
+
+**Risposta:** \frac{1}{2021}
+[[src_cn_cmc-first-round_2020__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1991 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1991__Q05
 parent: src_inmo_1991
 competition: Indian National Mathematical Olympiad 1991
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with incenter I, points X,Y on AB,AC: collinearity and angle*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con incentro I, punti X,Y su AB,AC: collinearietà e angolo*
+
+> In un triangolo $ABC$ con incentro $I$, i punti $X$, $Y$ sono presi sui segmenti $AB$, $AC$ rispettivamente in modo tale che $BX \cdot AB = IB^2$ e $CY \cdot AC = IC^2$. Dato che i punti $X$, $I$, $Y$ sono collineari, trovare i possibili valori di $\angle A$.
+
+[[src_inmo_1991__Q05]]

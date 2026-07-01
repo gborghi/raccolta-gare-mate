@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q04
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Orario di partenza contemporanea di quattro treni*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 14:00
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Time of simultaneous departure of four trains*
+
+> From the Math City station at noon, four trains depart simultaneously to Milan, Rome, Bari and Venice. Those to Milan then leave every 40 minutes; those to Rome every 20 minutes; those to Bari every 15 minutes; those to Venice, finally, every 30 minutes. What time (after noon) will the four trains start again simultaneously for the first time?
+
+**Answer:** 14:00
+[[src_bocconi_primavera_2008__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q13
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *area del trapezio ombreggiato*
 
@@ -60,3 +63,19 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> area of shaded trapezoid< MSK1/>
+
+![[src_kangourou_2023_junior__prob13.png]]
+
+> In the figure you can see three adjacent squares; the sides of each square are 3, 5 and 8. How much is the area of the shaded trapezoid in square centimetres? A) 13
+> 	
+> B) 55/4 C) 61/4 D) 65/4 E) 69/4 A B C D 58° 52° x 3 cm 5 cm 8 cm
+>
+
+**Answer:** B
+[[src_kangourou_2023_junior__Q13]]

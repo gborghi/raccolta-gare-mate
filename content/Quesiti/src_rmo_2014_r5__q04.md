@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Region 5 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_r5__Q04
 parent: src_rmo_2014_r5
 competition: Regional Mathematical Olympiad 2014
@@ -34,6 +35,8 @@ tags:
   - regione/r5
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distinct paths from (0,0) to (8,8) with exactly three rightward steps*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mRBKVIA0pCiNVttsOkp2tVNwtQ-X0vyv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare percorsi distinti da (0,0) a (8,8) con esattamente tre passi a destra*
+
+> Una persona si muove nel piano $x$-$y$ che si muove lungo punti con coordinate interi $x$ e $y$ solo. Quando si trova al punto $(x, y)$, fa un passo in base alle seguenti regole: a) se $x + y$ è anche si sposta a $(x+1, y)$ o a $(x-1, y+1)$; b) se $x + y$ è pari si sposta a $(x+1, y)$ o a $(x+1, y+1)$. Quanti percorsi distinti può percorrere per passare da MSK11/> a MSK12/> dato che ha fatto esattamente tre passi a destra?
+
+[[src_rmo_2014_r5__Q04]]

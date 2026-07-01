@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q04
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *50% in piu delle errate su 30*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>50% more than errors on 30 < MSK1/>
+
+> 4. The Kangourou contest involves 30 questions in which each answer is either right or wrong. Last year Rossana took part, answering all questions and her correct answers were 50% more than those wrong. How many correct answers did Rossana give ? A) 10 B) 12 C) 15 D) 18 E) 20
+
+**Answer:** D
+[[src_kangourou_2016_junior_marzo__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Triennio (T1) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_triennio__Q08
 parent: src_archimede_2018_triennio
 competition: Giochi di Archimede 2018 - Triennio (T1)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre di (10^2018+2018)^2*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the sum of the amounts of the following items: < MSK0/>
+
+> Writing the whole number (102018 + 2018)2 by extension uses 4037 digits. What is the sum of all these numbers?
+>
+> - **(A)** 36
+> - **(B)** 31
+> - **(C)** 42
+> - **(D)** 51
+> - **(E)** 43
+
+**Answer:** A
+[[src_archimede_2018_triennio__Q08]]

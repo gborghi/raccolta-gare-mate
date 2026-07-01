@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2016 — Selection Camp — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2016__Q12
 parent: src_selection_camp_2016
 competition: Japan IMO Selection Camp 2016 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quadrilateral with inscribed circles on four sub-quadrilaterals: three lines concurrent or parallel*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterali con cerchi incisi su quattro sottoquadrilaterali: tre linee simultanee o parallele*
+
+> $ABCD$ sia un quadrilaterale convexo e $P, Q, R, S$ punti sui lati $AB, BC, CD, DA$ rispettivamente. Il segmento $O$ deve essere l'intersezione tra $PR$ e $QS$. Supponiamo che ciascuno dei quadrilaterali $APOS$, $BQOP$, $CROQ$ e $DSOR$ abbia un cerchio inciso. Prove che le tre linee $AC$, $PQ$ e $RS$ si incontrano in un unico punto o sono reciprocamente parallele.
+
+[[src_selection_camp_2016__Q12]]

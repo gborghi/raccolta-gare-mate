@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Biennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_biennio__Q15
 parent: src_archimede_1998_biennio
 competition: Giochi di Archimede 1998 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero termina con piu zeri*
 
@@ -46,3 +49,20 @@ tags:
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kWwcoo-eeUmeGNwnlbaf7KaRcCi2NLyS/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which number ends with more zeros*
+
+> Which of the following numbers ends with the most zeros?
+>
+> - **(A)** 22 · 33 · 55
+> - **(B)** 23 · 35 · 52
+> - **(C)** 25 · 53 · 32
+> - **(D)** 44 · 56 · 64
+> - **(E)** 46 · 65 · 54.
+
+**Answer:** D
+[[src_archimede_1998_biennio__Q15]]

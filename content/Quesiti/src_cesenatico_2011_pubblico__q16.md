@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q16
 parent: src_cesenatico_2011_pubblico
 competition: Gara a Squadre Cesenatico 2011 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza barba druido (calendario giuliano)*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1167
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Druid beard length (Julian calendar) < MSK1/>
+
+> Pelose coincidences [70] Parabolix discovered a singular coincidence between the growth of a druid's beard and the new calendar promulgated by Julius Caesar, in which one year every four is bisestile, without exception. At the age of 18, a druid's beard is exactly 2 meters long and from that time on grows regularly according to the following rule: every year it grows by a measure of L (in centimeters) equal to the entire part of the quozient days of the year/age of the druid in that year. Today Abelix and Borelix participate in the birthday of the druid Parabolix which marks the end of the year in which the beard grew for the last time. Knowing that the year before Parabolix's 18th birthday it was a bisestile, how many centimeters is a beard today?
+> 
+> This year's event is the 12th national team competition. Problem Points
+
+**Answer:** 1167
+[[src_cesenatico_2011_pubblico__Q16]]

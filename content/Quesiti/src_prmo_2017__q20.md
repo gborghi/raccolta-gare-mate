@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q20
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count triples (a,b,c) of positive integers with a<b<c<10 and (b-a) divides c*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i tripli (a,b,c) di numeri interi positivi con a<b<c<10 e (b-a) divide c*
+
+> Qual è il numero di triples $(a, b, c)$ di numeri interi positivi in modo che (i) $a < b < c < 10$ e (ii) $a, b, c$ siano in progressione aritmetica e $b - a$ divida $c$?
+
+[[src_prmo_2017__Q20]]

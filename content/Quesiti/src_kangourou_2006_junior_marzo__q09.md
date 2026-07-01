@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q09
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero spigoli possibile di un prisma*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of possible beams of a prism*
+
+> 9. Only one of those we're proposing can be the number of prism interpretations. What kind? A) 100 B) 200 C) 2005 D) 2006 E) 2007
+
+**Answer:** E
+[[src_kangourou_2006_junior_marzo__Q09]]

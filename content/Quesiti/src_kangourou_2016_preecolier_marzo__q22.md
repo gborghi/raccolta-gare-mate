@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_preecolier_marzo__Q22
 parent: src_kangourou_2016_preecolier_marzo
 competition: Kangourou 2016 Pre-Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Disegno ottenibile sovrapponendo cartoncini colorati*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.22](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Design obtained by overlapping colored cardboard*
+
+> Gloria has the five colored (non-transparent) cards you see in the picture. Which of the five drawings shown below can be obtained by overlapping the cardboard, perhaps in whole or in part, but without cutting it? (see figure)
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
+
+**Answer:** D
+[[src_kangourou_2016_preecolier_marzo__Q22]]

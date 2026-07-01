@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q06
 parent: src_kangourou_2024_ecolier_semifinale
 competition: Kangourou Semifinale individuale Ecolier 2024
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Fra quante fermate i passeggeri si dimezzano*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The number of stops passengers make is halved*
+
+> There are 56 people on a subway train, and many stops are still missing to the capital. At the next stop, one more person will come down than they climb, the next two more people will come down than they climb, the third three more people will come down than they climb, and so on. How many stops will the train leave with half the number of passengers from the start? A) 7 B) 8 C) 9 D) 10 E) 12 Answer: A). The solution. You will have to lose 56: 2 = 28 passengers and at each stop you will lose one more than at the previous stop: you have 28 = 1 + 2 + ... + 7.
+
+**Answer:** A
+[[src_kangourou_2024_ecolier_semifinale__Q06]]

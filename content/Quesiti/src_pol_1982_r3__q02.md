@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1982 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1982_r3__Q02
 parent: src_pol_1982_r3
 competition: Olimpiade Matematica Polacca 1982 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral: line through midpoint of AB and diagonal intersection perpendicular to CD*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qBPh1W7EiylRWktVfDLoEOsdrnYFDxsy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterale ciclico: linea attraverso il punto medio di AB e intersezione diagonale perpendicolare al CD*
+
+> In un quadrilaterale ciclico $ABCD$ la linea che attraversa il punto medio di $AB$ e il punto di intersezione dei diagonali è perpendicolare a $CD$. Prova che i lati $AB$ e $CD$ sono paralleli o che i diagonali sono perpendicolari.
+
+[[src_pol_1982_r3__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Finale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q09
 parent: src_kangourou_2013_squadre_f
 competition: Kangourou Coppa Squadre 2013 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo ACB da due triangoli isosceli sul lato AB*
 
@@ -64,3 +67,38 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 98
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*ACB angle from two isosceles triangles on the AB side*
+
+![[src_kangourou_2013_squadre_f__prob9.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.5]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (4,0);
+  \coordinate (C) at (2.2,3.2);
+  \coordinate (M) at (0.33,0);
+  \coordinate (N) at (3.88,0);
+  \draw (A) -- (B) -- (C) -- cycle;
+  \draw (C) -- (M);
+  \draw (C) -- (N);
+  \draw (2.2,3.2) ++(220:0.3) arc[start angle=220, end angle=290, radius=0.3];
+  \node[below left] at (A) {A};
+  \node[below right] at (B) {B};
+  \node[above] at (C) {C};
+  \node[below] at (M) {M};
+  \node[below] at (N) {N};
+  \node at (2.6,2.6) {$41^\circ$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The angle In the triangle ABC shown in the figure, the points M and on the side AB are determined so that the segment A is as long as the segment AC and the segment BM is as long as the segment BC. The MC angle is 41 degrees. How many degrees does the ACB angle measure?
+
+**Answer:** 98
+[[src_kangourou_2013_squadre_f__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Semifinale individuale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_semifinale__Q10
 parent: src_kangourou_2018_benjamin_semifinale
 competition: Kangourou 2018 Benjamin - Semifinale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo piastrelle quadrate nell'anticamera*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0024
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mpGDkZU0ITLxgA_gblbwITgtcOOWYDSU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most square tiles in the anti-chamber*
+
+![[src_kangourou_2018_benjamin_semifinale__prob10.png]]
+
+> I tiled the floor of my antique with square tiles all equal to each other, without cutting any. The result is what you see in the figure. What's the maximum number of tiles I can use?
+
+**Answer:** 0024
+[[src_kangourou_2018_benjamin_semifinale__Q10]]

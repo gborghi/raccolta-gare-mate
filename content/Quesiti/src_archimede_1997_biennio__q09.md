@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Biennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_biennio__Q09
 parent: src_archimede_1997_biennio
 competition: Giochi di Archimede 1997 - Biennio
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colla per costruire un cubo 5x5x5 da cubetti unitari*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TBCBxk41PfhfCNwF0me53U4VCY16S0qo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Colla to build a 5x5x5 cube from unit cubes*
+
+> To glue the faces of two unit cubes together, 0.25 grams of glue are needed. How much glue does it take to build a cube 5 < MSK0/> 5 < MSK1/> 5 from 125 unit cubes? (N.B. To ensure greater strength, all contact facial pairs are glued.)
+>
+> - **(A)** 180 g
+> - **(B)** 150 g
+> - **(C)** 90 g
+> - **(D)** 75 g
+> - **(E)** 125 g.
+
+**Answer:** D
+[[src_archimede_1997_biennio__Q09]]

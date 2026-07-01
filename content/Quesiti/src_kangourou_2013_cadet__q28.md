@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q28
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Relazione tra numero quadrati e cubi perfetti fino a 2013^6*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Relation between perfect square and perfect cube numbers up to 2013^6*
+
+> Consider all integers from 1 to 20136 (extremes included): among them some numbers are perfect squares, others are perfect cubes. Denotes with Q the number of perfect squares and with C the number of perfect cubes from 1 to 20136: then A) Q = C. B) 2Q = 3C.
+> 	
+> C) 3Q = 2C.
+> 	
+> D) Q 3 = C 2. E) None of the previous reports is correct.
+
+**Answer:** E
+[[src_kangourou_2013_cadet__Q28]]

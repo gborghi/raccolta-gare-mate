@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2018 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2018__Q13
 parent: src_garaprime_2018
 competition: Gara Nazionale Classi Prime 2018
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Divisori di 999^9 che sono quadrati o cubi perfetti*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XzoWDlSETOE6ynBaPWQsIvAiUafgaOrc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>999^9 dividers which are perfect squares or cubes< MSK1/>
+
+> How many positive divisors of 999 are perfect squares or perfect cubes? A 70 B 55 C 90 D 99 E 36 F 120
+
+**Answer:** A
+[[src_garaprime_2018__Q13]]

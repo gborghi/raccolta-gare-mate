@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo36yqa_yosen__Q04
 parent: src_jmo36yqa_yosen
 competition: Japan Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum area of rectangle ABCD cut into sub-rectangles with distinct integer sides at most 9*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 729
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area massima del rettangolo ABCD tagliata in sotto rettangoli con diversi lati interi non più di 9*
+
+> C'è un rettangolo $ABCD$ le cui lunghezze laterali sono numeri interi positivi. Una linea di taglio **** è definita come una delle linee rette seguenti: - una linea che attraversa un punto laterale $AB$ (escluse le estremità) e che è parallela a $BC$, - una linea che attraversa un punto laterale $BC$ (escluse le estremità) e che è parallela a $AB$.
+> 
+> Scegliamo alcune linee tagliate e le usiamo per tagliare completamente il rettangolo $ABCD$ in rettangoli più piccoli. Si è scoperto che ogni rettangolo più piccolo ha tutte le lunghezze laterali interi positivi al massimo $9$. Inoltre, non esistono due rettangoli più piccoli che abbiano la stessa lunghezza laterale. Trova la superficie massima possibile di rettangolo $ABCD$.
+
+**Risposta:** 729
+[[src_jmo36yqa_yosen__Q04]]

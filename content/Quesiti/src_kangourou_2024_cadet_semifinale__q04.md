@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Cadet 2024 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet_semifinale__Q04
 parent: src_kangourou_2024_cadet_semifinale
 competition: Kangourou Semifinale individuale Cadet 2024
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei due numeri di Sofia da 5x+y=106*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YuKlYOQSjLPYC0cQWHZFjw49wPVl8dfH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the two Sofia numbers from 5x+y=106*
+
+> Sofia has in mind two positive integers less than 20 that differ by more than 2. Multiply one by 5, add the other to the product obtained and double the result, thus getting 212. What was the sum of the two numbers he had in mind? A) 26 B) 27 C) 28 D) 29 E) 30 Answer: E). I'm not alone. If x and y are the two numbers, it's got to be 5x + y = 106. Let's see that x and y cannot exceed 19. If x = 19, then y = 11 is acceptable; instead x = 18 would result in y = 16, not acceptable. Obviously if x  17 the value of y becomes not less than 21 and therefore the result is unacceptable.
+
+**Answer:** E
+[[src_kangourou_2024_cadet_semifinale__Q04]]

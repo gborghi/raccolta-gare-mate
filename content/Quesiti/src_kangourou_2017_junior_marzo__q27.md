@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q27
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numeri dispari in piramide di somme*
 
@@ -56,3 +59,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most odd numbers in the sum pyramid< MSK1/>
+
+![[src_kangourou_2017_junior_marzo__prob27.png]]
+
+> Sarah wants to write a positive integer in each grid box in the figure so that each number above the bottom line is the sum of the two numbers in the boxes immediately below it. How many odd numbers can Sara write at most? A) 13
+> 	
+> B) 14
+> 	
+> C) 15
+> 	
+> D) 16
+> 	
+> E) 17
+
+**Answer:** B
+[[src_kangourou_2017_junior_marzo__Q27]]

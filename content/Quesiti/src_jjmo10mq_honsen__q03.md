@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2012 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo10mq_honsen__Q03
 parent: src_jjmo10mq_honsen
 competition: Japan Junior Mathematical Olympiad 2012 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Grid stamping operation; find minimum a,b given N initial coins*
 
@@ -45,3 +48,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p8xf5NbDh83EXoQV1B0aUTwIqZMewoWT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*operazione di stampaggio della griglia; trovare il minimo a,b dato N monete iniziali*
+
+> Lasciate che $a, b$ siano numeri interi positivi. Considera una griglia di celle $a \times b$, con celle $N$ che contengono inizialmente una moneta. La seguente operazione può essere eseguita in qualsiasi numero di volte:
+> 
+> **Operazione:** Scegli qualsiasi riga; se in quella riga esattamente la cella $1$ non ha una moneta, inserisci una moneta in quella cella.
+> 
+> Trovare, in termini di $N$, il valore minimo di $a$ (con appropriato $b$) in modo tale che, per alcuni posizionamenti iniziali di monete $N$, si possa infine inserire una moneta in ogni cella applicando ripetutamente l'operazione.
+
+[[src_jjmo10mq_honsen__Q03]]

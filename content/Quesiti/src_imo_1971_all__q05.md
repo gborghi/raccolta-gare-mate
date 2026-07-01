@@ -1,6 +1,7 @@
 ---
 title: IMO 1971 (Thirteenth International Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1971_all__Q05
 parent: src_imo_1971_all
 competition: IMO 1971 (Thirteenth International Olympiad)
@@ -22,6 +23,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Point set where every point has m points at unit distance*
 
@@ -30,3 +33,13 @@ tags:
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Point set where every point has m points at unit distance*
+
+> Prove that for every natural number $m$, there exists a finite set $S$ of points in a plane with the following property: For every point $A$ in $S$, there are exactly $m$ points in $S$ which are at unit distance from $A$.
+
+[[src_imo_1971_all__Q05]]

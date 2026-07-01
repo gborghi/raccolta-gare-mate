@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_biennio_online__Q11
 parent: src_archimede_2021_biennio_online
 competition: Giochi di Archimede 2021 - Gara Biennio (online)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorsi su cornice di tabellone 10x8 in 16 mosse*
 
@@ -62,3 +65,33 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Zo7WSUv5KN16W_nTPuywBaG12u7UYl5I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Routes on a 10x8 board frame in 16 movements< MSK1/>
+
+![[src_archimede_2021_biennio_online__prob11.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.5]
+  \fill[gray!60] (2,2) rectangle (8,6);
+  \draw[step=1] (0,0) grid (10,8);
+  \node at (0.5,0.5) {$A$};
+  \node at (9.5,7.5) {$B$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In a table 10×8, a pedal (initially in box A) may be moved through the side common to two adjacent boxes at each move. Federica wants to take it to box B in 16 moves, without stepping on the central rectangle 6 × 4 (the pedal must always remain on the frame with a thickness of 2 boxes). How many routes are there? A B
+>
+> - **(A)** 98
+> - **(B)** 128
+> - **(C)** 104
+> - **(D)** 96
+> - **(E)** 114
+
+**Answer:** B
+[[src_archimede_2021_biennio_online__Q11]]

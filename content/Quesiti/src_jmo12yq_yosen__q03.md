@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo12yq_yosen__Q03
 parent: src_jmo12yq_yosen
 competition: Japan Mathematical Olympiad 2002 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *5-digit numbers with digits in {1,2,3} divisible by 3*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 81
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*numeri a 5 cifre con cifre di {1,2,3} divisibili per 3*
+
+> Considerate i numeri naturali a 5 cifre in cui ogni cifra è uno di $1, 2, 3$. Tra questi numeri naturali, quanti in totale sono divisibili per $3$?
+
+**Risposta:** 81
+[[src_jmo12yq_yosen__Q03]]

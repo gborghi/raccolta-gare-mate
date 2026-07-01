@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2009 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo7mq_honsen__Q04
 parent: src_jjmo7mq_honsen
 competition: Japan Junior Mathematical Olympiad 2009 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Double inequality for cyclic expression in positive reals a,b,c*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VL4zACP5rwfmItjWBLiPE5BRD-B6psdw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Doppia disuguaglianza per l'espressione ciclica nei reali positivi a,b,c*
+
+> Per i numeri reali positivi $a, b, c$, dimostrare che $$\frac{3}{2} < \frac{4a+b}{a+4b} + \frac{4b+c}{b+4c} + \frac{4c+a}{c+4a} < 9.$$
+
+[[src_jjmo7mq_honsen__Q04]]

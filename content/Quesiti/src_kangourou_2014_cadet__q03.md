@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q03
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *2014-2014*
 
@@ -42,3 +45,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*2014-2014*
+
+> What is the result of 2014 < MSK0/> 2014: 2014  2014 ? A) 0
+> 	
+> B) 1
+> 	
+> C) 2013 D) 2014 E) 4028
+
+**Answer:** A
+[[src_kangourou_2014_cadet__Q03]]

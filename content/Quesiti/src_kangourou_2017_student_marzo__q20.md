@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Student - Gara 16 marzo — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q20
 parent: src_kangourou_2017_student_marzo
 competition: Kangourou 2017 Student - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre del numero pensato da Titti*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of figures from the number conceived by Titti*
+
+> 20. Tits would like to be a good kangaroo, but lying to him is too much fun: so he makes sure that, in every line of his claims, two are true and one is false. His friend Pietro wants to guess the two-digit number that Titti thought up. Titti made the following statements in order: One of the digits is a 2. E greater than 50. E equal. E less than 30. E divisible by 3.  One of the digits is 7. STUDENT What is the sum of the digits of the number Titti thought? A) 9 B) 12 C) 13 D) 15 E) 17 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** D
+[[src_kangourou_2017_student_marzo__Q20]]

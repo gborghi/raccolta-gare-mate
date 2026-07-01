@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Triennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_triennio__Q20
 parent: src_archimede_1997_triennio
 competition: Giochi di Archimede 1997 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante soluzioni intere positive di x quadro meno y quadro = 60*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many positive integer solutions of x squared minus y squared = 60*
+
+> How many positive integers does the equation x2 −y2 = 60 have?
+>
+> - **(A)** One of them.
+> - **(B)** two
+> - **(C)** four
+> - **(D)** You are .
+> - **(E)** I'm not going to end it.
+
+**Answer:** B
+[[src_archimede_1997_triennio__Q20]]

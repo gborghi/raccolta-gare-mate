@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q10
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Date today under Julian calendar given Gregorian reform of October 1582*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Data di oggi secondo il calendario giuliano data la riforma gregoriana di ottobre 1582*
+
+> In Portogallo, ottobre $4$, $1582$ è stato l'ultimo giorno del calendario giuliano, che è stato sostituito dal calendario attualmente adottato, il calendario gregoriano. Il giorno successivo è stato definito come ottobre $15$, $1582$, cioè i giorni da ottobre $5$ a $14$, $1582$ non esistevano. L'unica differenza tra i calendari è che, nel calendario giuliano, tutti gli anni multipli di $4$ erano anni bissai; nel calendario gregoriano, gli anni che sono multipli di $100$, ma non di $400$, non sono anni bissai. Pertanto, $1900$ sarebbe un anno bisuale nel calendario giuliano, ma non nel calendario gregoriano. Che giorno sarebbe oggi, giugno, se non avessimo cambiato il calendario? (A) 20 maggio 2014 (B) 21 maggio 2014 (C) 22 maggio 2014 (D) 16 giugno 2014 (E) 17 giugno 2014
+
+[[src_obm_2014_n3_f1__Q10]]

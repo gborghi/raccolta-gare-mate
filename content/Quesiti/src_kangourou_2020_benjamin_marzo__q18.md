@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q18
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti etti di vernice per il solido di quattro scatole*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Quantity of paints per four-box solid< MSK1/>
+
+![[src_kangourou_2020_benjamin_marzo__prob18.png]]
+
+> Four identical, rectangular parallel-piped boxes are glued together to form the solid you see in the figure. One set of paint is needed to paint the entire outer surface of each box. How many paints are needed to paint the entire outer surface of the solid in the figure? A) 2,5 B) 3
+> 	
+> C) 3,25 D) 3,5 E) 4
+
+**Answer:** B
+[[src_kangourou_2020_benjamin_marzo__Q18]]

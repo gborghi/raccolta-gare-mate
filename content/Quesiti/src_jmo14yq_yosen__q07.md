@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo14yq_yosen__Q07
 parent: src_jmo14yq_yosen
 competition: Japan Mathematical Olympiad 2004 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area outside triangle ABC (sides 16, 5√5, 9) within distance 6 from both B and C.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area al di fuori del triangolo ABC (laterali 16, 5√5, 9) all'interno della distanza 6 sia da B che da C.*
+
+> Nel piano, il triangolo $ABC$ soddisfa $AB = 16$, $BC = 5\sqrt{5}$, $CA = 9$. Trova l'area della regione che si trova al di fuori del triangolo $ABC$ e la cui distanza da $B$ e distanza da $C$ sono entrambi al massimo $6$.
+
+[[src_jmo14yq_yosen__Q07]]

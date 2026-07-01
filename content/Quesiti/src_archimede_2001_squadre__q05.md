@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_squadre__Q05
 parent: src_archimede_2001_squadre
 competition: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *misura DC*
 
@@ -56,3 +59,35 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0020
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BmICgzhXXszLqAUxg8mhu_z1YXo7y9a6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The measurement shall be carried out in accordance with the following conditions:
+
+![[src_archimede_2001_squadre__prob5.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (5,0);
+  \coordinate (C) at (0,6);
+  \coordinate (D) at (2,3.6);
+  \draw (A)--(B)--(C)--cycle;
+  \draw (A)--(D);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above left] at (C) {$C$};
+  \node[right] at (D) {$D$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The park** (40 points)
+> 
+> In the park in front of the Parliament there is a rectangular triangle-shaped awning cut in two by the road leading to the entrance to the Senate (see figure). The sides of the hood, the road section $AD$ and the sides $BD$ and $DC$ are of full length and $BC$ measures 40 mm. How many imometers measure $DC$ (write 0 if the data is insufficient to solve the problem)? (see figure)
+
+**Answer:** 0020
+[[src_archimede_2001_squadre__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q26
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Canguro di cui Bruno non indovina il colore*
 
@@ -57,3 +60,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Crab that Bruno can't tell the color of
+
+> 2021 kangaroos are in Indian queue and are numbered, according to their position in the queue, from 1 to 2021. Each kangaroo is either red or gray or blue and you pick three consecutive kangaroos in any stretch of the row and there's always one for each color. Bruno tries to guess the color of five kangaroos without seeing the line. These are his statements: kanguro 2 is gray; kanguro 20 is blue; kanguro 202 is red; kanguro 1002 is blue; kanguro 2021 is gray. Only one of the statements is wrong. What's the number of the kangaroo Bruno didn't guess the color of? A) 2
+> 	
+> B) 20
+> 	
+> C) 202 D) 1002 E) 2021
+
+**Answer:** B
+[[src_kangourou_2021_cadet__Q26]]

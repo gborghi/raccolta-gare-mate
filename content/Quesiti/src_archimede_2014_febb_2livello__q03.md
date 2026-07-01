@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q03
 parent: src_archimede_2014_febb_2livello
 competition: Archimede Gara di Febbraio 2014 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo lato l affinche tre pizze stiano sul tavolo*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum side l so that three pizzas are on the table< MSK1/>
+
+> Three friends enter Giorgio's pizzeria and sit each on one side of a rectangular table; the first sits on one side 70 cm long, the second and the third sit facing each other, on sides length l. The pizzas have a diameter of 30 cm; Giorgio serves the pizza of the first adventurer so that it is tangent to his side of the table at the middle point and the pizzas of the other two so that they are tangent to their respective sides of the table and to the first pizza. What is the minimum value of l (in centimeters) for the three pizzas to sit entirely on the table?
+>
+> - **(A)** 10 √ 5
+> - **(B)** 20 + 5 √ 5
+> - **(C)** 15 + 10 √ 5
+> - **(D)** 30 + 10 √ 5
+> - **(E)** 60
+
+**Answer:** D
+[[src_archimede_2014_febb_2livello__Q03]]

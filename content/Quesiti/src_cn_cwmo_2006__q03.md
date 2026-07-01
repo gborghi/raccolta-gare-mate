@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2006 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2006__Q03
 parent: src_cn_cwmo_2006
 competition: China Western Mathematical Olympiad 2006
@@ -31,6 +32,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Geometry: angle bisector and tan value in circumcircle configuration*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\tan\alpha = \dfrac{6+\sqrt{3}}{11}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Geometria: angolo bisector e valore di bronzaggio nella configurazione di circolo*
+
+> In $\triangle ABC$, $\angle ABC = 60^\circ$. La tangenza al punto $P$ al circoncircolo di $\triangle ABC$ incontra la linea $CB$ estesa a $A$. Let < MSK6/>. I punti $D$ e $E$ si trovano rispettivamente sul segmento di linea $PA$ e sul circoncircolo, in modo tale che $\angle DBE = 90^\circ$ e $PD = PE$. Il $F$ deve essere l'incrocio di $BE$ e $PC$. È dato che le linee $AF$, $BP$ e $CD$ sono simultanee. (1) Provare che $BF$ è il bisettore di $\angle PBC$. (2) Trova il valore di < MSK20/>.
+
+![[src_cn_b07_w150__Q03.png]]
+
+**Risposta:** $\tan\alpha = \dfrac{6+\sqrt{3}}{11}$
+[[src_cn_cwmo_2006__Q03]]

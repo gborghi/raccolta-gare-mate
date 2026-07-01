@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_b__Q14
 parent: src_prmo_2015_b
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -34,6 +35,8 @@ tags:
   - regione/b
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *3^x+2^x=985 and 3^y-2^y=473; find xy*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 48
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*3^x+2^x=985 e 3^y-2^y=473; trovare xy*
+
+> Se $3^x + 2^x = 985$ e $3^y - 2^y = 473$, qual è il valore di $xy$?
+
+**Risposta:** 48
+[[src_prmo_2015_b__Q14]]

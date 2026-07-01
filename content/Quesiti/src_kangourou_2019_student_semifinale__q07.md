@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Student — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q07
 parent: src_kangourou_2019_student_semifinale
 competition: Kangourou 2019 Semifinale Student
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante somme distinte con addendi 3 e 5 (vincoli)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Separate sums with additions 3 and 5 (link) *
+
+> How many sums of all the different ones can be obtained by adding up at least two integers and at most nine integers, each of which is either 3 or 5, if you want there to be no more than six additions equal to 3 and no more than three additions equal to 5? A) 23 B) 25 C) 28 D) 26 E) 27
+
+**Answer:** A
+[[src_kangourou_2019_student_semifinale__Q07]]

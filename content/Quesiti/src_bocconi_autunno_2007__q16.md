@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2007 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2007__Q16
 parent: src_bocconi_autunno_2007
 competition: Giochi d'Autunno 2007
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Metri percorsi prima di raggiungere il mare che sale*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2015 metri circa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Meter of path before reaching the rising sea*
+
+> I'm on a beach, at $2.269$ meters from the sea and $5$ meters above sea level. The beach slopes down to the sea with a steady slope. I'm advancing towards the sea at $3,6$ km/h while the vertical sea level rises by 1 cm/s. How many meters will I have walked when I reach the sea? (If possible, round up to the nearest subway).
+
+![[src_bocconi_autunno_2007__Q16.png]]
+
+**Answer:** 2015 metri circa
+[[src_bocconi_autunno_2007__Q16]]

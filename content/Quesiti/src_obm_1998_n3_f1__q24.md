@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f1__Q24
 parent: src_obm_1998_n3_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the sum of the real roots of x^3 + 3x^2 + 3x - 1 = 0.*
 
@@ -54,3 +57,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare la somma delle radici reali di x^3 + 3x^2 + 3x - 1 = 0.*
+
+> La somma delle radici reali di $x^3 + 3x^2 + 3x - 1 = 0$ è:
+> 
+> A) $-3$
+> 
+> B) $1 - \sqrt[3]{2}$
+> 
+> C) $1$
+> 
+> D) $\sqrt[3]{2} - 1$
+> 
+> E) $3$
+
+**Risposta:** D
+[[src_obm_1998_n3_f1__Q24]]

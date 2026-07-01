@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2020 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2020__Q11
 parent: src_smc_2020
 competition: Senior Mathematical Challenge 2020
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perimeter of an octagon formed by fitting two congruent pentagons together*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Perimetro di un ottagono formato da due pentagoni congruenti uniti*
+
+> Due pentagoni congruenti sono formati ciascuno rimuovendo un triangolo a rettangolo di isosceles da un quadrato di lunghezza laterale 1. I due pentagoni vengono quindi montati insieme come mostrato. Qual è il perimetro dell'ottagono formato?
+>
+> - **(A)** $4$
+> - **(B)** $4 + 2\sqrt{2}$
+> - **(C)** $5$
+> - **(D)** $4 - 2\sqrt{2}$
+> - **(E)** $6$
+
+![[src_smc_2020__Q11.png]]
+
+**Risposta:** E
+[[src_smc_2020__Q11]]

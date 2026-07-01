@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f2__Q05
 parent: src_obm_1998_n3_f2
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find f(1998) for a function satisfying a given functional equation*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $\dfrac{1}{1999}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nuYoFCi09PHCxKrrXgBXv2NK1rRfD75Z/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare f(1998) per una funzione che soddisfa una determinata equazione funzionale*
+
+> Let $f: \mathbb{N} \to \mathbb{R}$ essere una funzione tale che $f(1) = 999$ e $$f(1) + f(2) + \cdots + f(n) = n^2 f(n)$$ per ogni intero positivo $n$. Determinare il valore di $f(1998)$.
+
+**Risposta:** $\dfrac{1}{1999}$
+[[src_obm_1998_n3_f2__Q05]]

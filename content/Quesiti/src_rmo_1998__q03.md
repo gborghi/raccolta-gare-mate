@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1998 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1998__Q03
 parent: src_rmo_1998
 competition: Regional Mathematical Olympiad 1998
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inequality between odd and even reciprocal sums*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15-hOAv0psynRUhAjOfCXMcOkrAiY-0eX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ineguaglianza fra somme parie e pari reciproche*
+
+> Provare la seguente disuguaglianza per ogni numero naturale $n$: $$\frac{1}{n+1}\left(1 + \frac{1}{3} + \frac{1}{5} + \cdots + \frac{1}{2n-1}\right) > \frac{1}{n}\left(\frac{1}{2} + \frac{1}{4} + \frac{1}{6} + \cdots + \frac{1}{2n}\right).$$
+
+[[src_rmo_1998__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2019-20 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2019-20_round2__Q01
 parent: src_bmo_2019-20_round2
 competition: British Mathematical Olympiad 2019-20 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence recurrence: find a1 so all terms are odd integers*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T-GV4Q03Vt1FYIXg022mhWTn6UUh6dcK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Recurrenza della sequenza: trovare a1 in modo che tutti i termini siano numeri interi odd*
+
+> Una sequenza $a_1, a_2, a_3, \ldots$ ha $a_1 > 2$ e soddisfa $$a_{n+1} = \frac{a_n(a_n - 1)}{a_n + 1}$$ per tutti gli integri positivi $n$. Per quali valori di $a_1$ tutti i termini della sequenza sono numeri interi pari?
+
+[[src_bmo_2019-20_round2__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet__Q30
 parent: src_kangourou_2005_cadet
 competition: Kangourou 2005 - Cadet (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tentativi massimi per lucchetto a combinazione*
 
@@ -78,3 +81,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum attempts for combination lock
+
+> Piero has a three-digit combination lock. He forgot the code, but he knows that the three digits are all different from each other and that the first is the square of the ratio of the second and third digits. How many attempts will Piero have to make to open the lock? A) 1 B) 2 C) 3 D) 4 E) 8 π −2 3 4 π + 2 3 4 π + 3 2 π − 3 2 π − 3 4 0 1 2 3 x 1 2 3 y Cadet_05_D.qxp 21/02/2005 16.10
+
+**Answer:** D
+[[src_kangourou_2005_cadet__Q30]]

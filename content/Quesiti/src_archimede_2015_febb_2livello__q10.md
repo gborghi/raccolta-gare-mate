@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q10
 parent: src_archimede_2015_febb_2livello
 competition: Archimede Gara di Febbraio 2015 - 2 livello
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Gradini speciali verdi dopo i salti dei canguri*
 
@@ -54,3 +57,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/147OSJf1wSBJHNEWKDKPVWMIP2TLevkAt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Special green grass after the kangaroo jumps< MSK1/>
+
+> Caboyara, a famous Australian circus performer, is performing again this year in a big make-up. It 's a spectacular scale with N = p1 · p2 · . . . · p2015 steps, where p1, p2, . . . , p2015 are distinct prime numbers; the steps corresponding to N divisors (including the first and lN-eighth step) are special and are initially illuminated in green. During the show, 2015 mastered kangaroos climb the ladder one after the other; for i = 1, 2, . . . , 2015, the eighth kangaroo jumps steps at a time, starting at the foot of the ladder (jumps step pi, then step 2pi, and so on until it reaches step N). Every time a kangaroo jumps on a special ladder, it changes color: green to red, green to red. How many special steps will be lit up in green at the end of the exhibition?
+>
+> - **(A)** 22015 −21008
+> - **(B)** 22014
+> - **(C)** 22014 −21007
+> - **(D)** 22013
+> - **(E)** 2015 · 21008
+
+**Answer:** B
+[[src_archimede_2015_febb_2livello__Q10]]

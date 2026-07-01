@@ -1,6 +1,7 @@
 ---
 title: XXI Olimpiade Italiana Cesenatico 2005 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005__Q06
 parent: src_cesenatico_2005
 competition: XXI Olimpiade Italiana Cesenatico 2005
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Due circonferenze, arco EF bisecato dalla retta CD*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** dimostrato (D incentro di CEF)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Two circumferences, EF arc bisected by the straight CD*
+
+![[src_cesenatico_2005__prob6.png]]
+
+> In the plane two circumferences γ1 and γ2 of centers A and B are given, respectively, and intersected at two points C and D. Assume that the passing circumference for A, B and C further intersects γ1 and γ2 in E and F respectively, and that the non-C EF arc lies outside the two circles bounded by γ1 and γ2. Demonstrate that the non-C EF arc is bisected by the straight CD.
+
+**Answer:** dimostrato (D incentro di CEF)
+[[src_cesenatico_2005__Q06]]

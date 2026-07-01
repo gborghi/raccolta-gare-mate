@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Ecolier finale nazionale — Quesito E2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_ecolier_finale__QE2
 parent: src_kangourou_2004_ecolier_finale
 competition: Kangourou 2004 Ecolier finale nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max cubetti visibili del cubo 11x11x11*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 331
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G2cU6gqsfkcIkAJRkZw-THMtabRgrAjY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Max visible cubes of the cube 11x11x11*
+
+> A wood cube of $11$ cm, obtained by gluing together $11 \times 11 \times 11$ side cubes of $1$ cm, shall be rested on a table. What is the maximum number of unit cubes I can see at least one face of, if I can choose the position from which to observe the large cube, but once the choice is made I can't move anymore?
+
+**Answer:** 331
+[[src_kangourou_2004_ecolier_finale__QE2]]

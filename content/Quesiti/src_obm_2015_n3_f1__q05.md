@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q05
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Next year after 2015 with identical calendar (same day-of-week for every date)*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Anno successivo dopo il 2015 con calendario identico (lo stesso giorno della settimana per ogni data) *
+
+> Diciamo che due anni hanno lo stesso calendario se hanno lo stesso numero di giorni e i giorni della settimana coincidono in ogni data. L'anno 2015 coincide con il 2009. Sapendo che gli anni che sono multipli di 4 nel 21 ° secolo (ad eccezione del 2100) sono anni biscotti con 366 giorni, e tutti gli altri hanno 365 giorni, qual è il prossimo anno dopo il 2015 che ha lo stesso calendario del 2015?
+> 
+> (A) 2021 \quad (B) 2022 \quad (C) 2023 \quad (D) 2025 \quad (E) 2026
+
+**Risposta:** E
+[[src_obm_2015_n3_f1__Q05]]

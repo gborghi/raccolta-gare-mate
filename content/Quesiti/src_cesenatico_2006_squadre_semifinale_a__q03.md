@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_a__Q03
 parent: src_cesenatico_2006_squadre_semifinale_a
 competition: Gara a Squadre Cesenatico 2006 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza BC dati due lati e mediana da A*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2088
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length BC given by two sides and median by A*
+
+> The only way to make visible what has been written about the construction of the malander is to solve a geometric problem: in an ABC triangle the lengths of the sides coming out of A are 1358 and 2006, and the median coming out of A is 1358. What's the length of BC?
+
+**Answer:** 2088
+[[src_cesenatico_2006_squadre_semifinale_a__Q03]]

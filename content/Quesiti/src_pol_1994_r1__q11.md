@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1994 — Round 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1994_r1__Q11
 parent: src_pol_1994_r1
 competition: Olimpiade Matematica Polacca 1994 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle perimeter 2p, circumradius R, inradius r: show p < 2(R+r)*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Perimetro triangolare 2p, radio circundante R, radio ininterrato r: mostra p < 2(R+r) < MSK1/>
+
+> Il $R$ e il $r$ siano rispettivamente il circondario e l'inradio di un triangolo di perimetro $2p$. Mostra che $p < 2(R + r)$.
+
+[[src_pol_1994_r1__Q11]]

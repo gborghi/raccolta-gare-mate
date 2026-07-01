@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q14
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale sviluppo piano non forma un cubo*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which plane development does not form a cube*
+
+![[src_kangourou_2013_cadet__prob14.png]]
+
+> One and only one of the following development planes cannot be folded to form a cube. What kind? A) B)
+>          	
+> C) D)
+> 	
+> E)
+
+**Answer:** C
+[[src_kangourou_2013_cadet__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q21
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezza della torre impilando i cinque cubi*
 
@@ -58,3 +61,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Height of the tower by rolling the five cubes*
+
+> Paolo has five cubes. When you align them from the smallest to the largest, the height difference of two consecutive cubes is always 2 cm. The height of the major cube coincides with the height of the tower which is formed by overlapping the two smaller cubes. How tall is the tower formed by stacking all five cubes? A) 6 B) 14 C) 22 D) 44 E) 50 1 2 3 4 5 6 7
+> 
+> I'm going to pay. I'm going to pay. 20 20 Kang 2012 Kang 2012
+
+**Answer:** E
+[[src_kangourou_2012_cadet__Q21]]

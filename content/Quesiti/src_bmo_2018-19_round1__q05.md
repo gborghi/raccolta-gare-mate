@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2018-19 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2018-19_round1__Q05
 parent: src_bmo_2018-19_round1
 competition: British Mathematical Olympiad 2018-19 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all possible dimensions of two similar cylinders with height sum 1 and volume sum 8pi*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13TymyXW8f0WJOfcP7X3v5LIa1mrqdBop/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le dimensioni possibili di due cilindri simili con altezza somma 1 e volume somma 8pi*
+
+> Due cilindri solidi sono matematicamente simili. La somma delle loro altezze è < MSK0/>. La somma dei loro volumi è < MSK1/>. Trova tutte le possibilità per le dimensioni di ciascun cilindro.
+
+[[src_bmo_2018-19_round1__Q05]]

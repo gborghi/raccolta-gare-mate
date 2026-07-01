@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q11
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cioccolatini ricevuti da Carla nella seconda distribuzione*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2 cioccolatini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Chocolates received from Carla in the second distribution< MSK1/>
+
+> Deborah, Jacob, and Luke went to visit their cousins Carla and Milena. Uncle Desiderio, to celebrate the meeting, distributed some chocolates to everyone: Deborah had 7, Jacob 3, Luke 2, Carla 8 and Milena 9. At this point, Desiderio had 21 chocolates left to distribute and wants to do so so that after this second distribution, all cousins have the same number of chocolates. How many chocolates has Carla (in the second order) received?
+
+**Answer:** 2 cioccolatini
+[[src_bocconi_rosi_2011__Q11]]

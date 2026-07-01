@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q21
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest prime in partition of set E = {5,6,7,8,9}*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Primo più piccolo nella partizione del set E = {5,6,7,8,9}*
+
+> Considera l'insieme < MSK0/>. Per qualsiasi partizione $\{A, B\}$ di $E$, con sia $A$ che $B$ non vuoti, si deve considerare il numero ottenuto aggiungendo il prodotto degli elementi di $A$ al prodotto degli elementi di $B$. Che $N$ sia il numero primo più grande tra questi numeri. Trova la somma delle cifre di $N$.
+
+[[src_prmo_2019__Q21]]

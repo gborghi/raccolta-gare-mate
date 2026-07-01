@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_riserva_biennio__Q04
 parent: src_archimede_2020_riserva_biennio
 competition: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01)
@@ -22,6 +23,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti multipli di 79 tra 15000 e 36000*
 
@@ -36,3 +39,19 @@ tags:
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1FHovVvjzoFx5DPSwVsD8IjrWzxEYNRZ6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Multipleths of 79 between 15000 and 36000*
+
+> How many times 79 is between 15,000 and 36,000?
+>
+> - **(A)** 270
+> - **(B)** 279
+> - **(C)** 261
+> - **(D)** 266
+> - **(E)** 268
+
+[[src_archimede_2020_riserva_biennio__Q04]]

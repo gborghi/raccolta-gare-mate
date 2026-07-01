@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2016 — Region 4 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2016_r4__Q01
 parent: src_rmo_2016_r4
 competition: Regional Mathematical Olympiad 2016
@@ -31,6 +32,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle, circumcircle, line through D parallel to AC, AE:EB=2:1*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nLwmoR34Kvy_obEKxxqlzF7zGjUJNCHa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles, circoncircolo, linea attraverso D parallela ad AC, AE:EB=2:1*
+
+> Che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$. La circoscrizione di $\Gamma$ sia la sua circonferenza e la circoscrizione di $O$ sia il centro di $\Gamma$. In $D$ $CO$ si deve incontrare $\Gamma$. Tracciare una linea parallela a $AC$ attraverso $D$. Lasciate che < MSK10/> si intersechi a < MSK11/>. $AE : EB = 2 : 1$. Prova che $ABC$ è un triangolo equilaterale.
+
+[[src_rmo_2016_r4__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q18
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza EF (quadrilatero ciclico, bisettrici, PF/PE)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2015
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*EF distance (cyclic quadrilateral, bisetters, PF/PE) *
+
+> The Millennium Problem hunter Bobo Fett is chasing Han Singleton's ambitious ship, the Millennium Problem, for which the Empire has pledged a million Galactic Credits. On the on-board computer screen, the location of the vessels is indicated from an ABCD quadrilateral inscribed in a circumference. The Millennium Problem is at point E, intersection of the AB and CD extensions, while Bobo's ship is at point F, intersection of the BC and AD extensions. The computer records the distances of the two ships from the meeting point P of the angles AEC and AFC: PF = 1612 and PE = 1209. What's the distance between the two ships?
+
+**Answer:** 2015
+[[src_cesenatico_2016_finale__Q18]]

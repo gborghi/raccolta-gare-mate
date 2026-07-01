@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q07
 parent: src_archimede_2013_febb_2livello
 competition: Archimede Gara di Febbraio 2013 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto aree dividendo angolo retto del quadrato in tre*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio of areas dividing the right angle of the square by three*
+
+> Either ABCD a square within which two segments are plotted dividing the angle in A into three equal angles and the square into two equal triangles and a quadrilateral. What is the relationship between the area of the quadrilateral and that of one of the two triangles?
+>
+> - **(A)** √ 3 − 1 √ 3
+> - **(B)** 2 √ 3 −1
+> - **(C)** 3 2
+> - **(D)** 2
+> - **(E)** 2 √ 3 −2
+
+**Answer:** E
+[[src_archimede_2013_febb_2livello__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Finale Nazionale — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_finale__Q16
 parent: src_squadre_2024_finale
 competition: Gara a Squadre 2024 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spettro del polinomio (x-2)(x+2)(x^2+x+1)(x^2-x+1)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2530
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Spectre of the polynomial (x-2)
+
+> Vennma thinks: BarbaAlberta is hiding something: I can't have seen World War I planes fly over us. Then check with Dafnne undercover until you find the combination lock in BarbaAlberta's cabin, bearing the inscription the spectrum of (x−2)(x+2)(x2 +x+1)(x2 −x+1). Heat, the spectrum of a polynomial with integer coefficients for a ghost pirate! exclaims Dafnne. Vennma reflects: I am sure that the spectrum is an integer number and, adding up the spectra of all polynomials of a polynomial p, you get exactly the value of the polynomial p calculated in its degree! Then Dafnne points out: Certainly! And the polynomials that are children of p(x) are those that have whole coefficients that divide the polynomial and whose degree divides the degree of p(x). Surprisingly, each monic polynomial is a child of its own. What is the combination of the BarbaAlberta cabin lock?
+
+**Answer:** 2530
+[[src_squadre_2024_finale__Q16]]

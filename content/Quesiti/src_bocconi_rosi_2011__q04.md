@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q04
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di tre cifre (con ripetizione) con 1,2,3,4,5*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 125
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three-digit numbers (repeated) with 1,2,3,4,5*
+
+> **How many three-digit numbers can be formed with the digits $1, 2, 3, 4, 5$?**
+
+**Answer:** 125
+[[src_bocconi_rosi_2011__Q04]]

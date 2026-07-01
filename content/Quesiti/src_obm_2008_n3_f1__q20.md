@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q20
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 4-digit 'paladino' numbers: multiples of 9 with no zero digit*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri "paladino" a 4 cifre: multipli di 9 senza cifre zero*
+
+> Un numero a quattro cifre è chiamato *paladino* se è un multiple di $9$ e nessuna delle sue cifre è zero. Quanti numeri paladino esistono?
+> 
+> (A) $1284$ (B) $1024$ (C) $849$ (D) $1109$ (E) $729$
+
+[[src_obm_2008_n3_f1__Q20]]

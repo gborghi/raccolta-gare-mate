@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2024 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2024__Q07
 parent: src_smc_2024
 competition: Senior Mathematical Challenge 2024
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest prime factor of 3⁵ − 1*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Fattore primo più basso di 35 − 1 < MSK1/>
+
+> Qual è il più grande fattore primo di $3^5 - 1$?
+>
+> - **(A)** $41$
+> - **(B)** $37$
+> - **(C)** $31$
+> - **(D)** $29$
+> - **(E)** $23$
+
+**Risposta:** A
+[[src_smc_2024__Q07]]

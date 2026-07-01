@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2008 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo18yq_yosen__Q05
 parent: src_jmo18yq_yosen
 competition: Japan Mathematical Olympiad 2008 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability each i-th card is at least i in a random row*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Probabilità che ogni i-th carta sia almeno i in una riga casuale*
+
+> Cinque carte con i numeri $2, 3, 4, 5, 6$ (un numero per carta, cinque carte in totale) sono disposte in fila a caso. Trova la probabilità che, per ogni $i = 1, 2, 3, 4, 5$, il numero scritto sulla carta $i$-da sinistra sia almeno $i$.
+
+[[src_jmo18yq_yosen__Q05]]

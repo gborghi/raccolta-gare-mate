@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2011 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2011__Q03
 parent: src_cn_csmo_2011
 competition: China Southeastern Mathematical Olympiad 2011
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all n so every 35-element subset of {1,...,50} contains a,b with a+b=n or a-b=n*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le n in modo che ogni sottoinsieme di 35 elementi di {1,...,50} contenga a,b con a+b=n o a-b=n*
+
+> Indicare < MSK0/>. Trova tutti gli integri positivi $n$ in modo che ci siano almeno due elementi diversi $a$ e $b$ in qualsiasi sottoinsieme con 35 elementi di $M$, come $a + b = n$ o $a - b = n$. (Posizionato da Li Shenghong)
+
+[[src_cn_csmo_2011__Q03]]

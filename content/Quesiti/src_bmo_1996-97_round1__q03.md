@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1996-97 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1996-97_round1__Q03
 parent: src_bmo_1996-97_round1
 competition: British Mathematical Olympiad 1996-97 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to pay 1997 Pippins with decimal coins*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13D96daRiyLTrSNR6oAEhxWJQqmw0irae/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i modi di pagamento 1997 Pippin con monete decimali*
+
+> I Nani della Terra sotto la Montagna hanno appena adottato un sistema di valuta decimale completamente basato sul Pippin. Le monete disponibili valgono 1 Pippin, 10 Pippin, 100 Pippin e 1000 Pippin.
+> 
+> In quanti modi è possibile per un Nano pagare, in moneta esatta, una bolletta di Pippin del 1997?
+
+[[src_bmo_1996-97_round1__Q03]]

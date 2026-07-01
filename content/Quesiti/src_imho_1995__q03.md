@@ -1,6 +1,7 @@
 ---
 title: IMO 1995 (XXXVI International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1995__Q03
 parent: src_imho_1995
 competition: IMO 1995 (XXXVI International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Determine all n>3 for which n points allow equal triangle perimeters*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pz-4eMo5rOEQfEuxsHP_U9uNUklh6WtJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Determine all n>3 for which n points allow equal triangle perimeters*
+
+> Determine all integers $n > 3$ for which there exist $n$ points $A_1, \ldots, A_n$ in the plane, no three collinear, and real numbers $r_1, \ldots, r_n$ such that for $1 \le i < j < k \le n$, the area of $\triangle A_i A_j A_k$ is $r_i + r_j + r_k$.
+
+[[src_imho_1995__Q03]]

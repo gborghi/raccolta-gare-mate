@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q23
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di giudici per media 5.625*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of judges on average 5.625*
+
+> In a dance competition, all the judges cast their vote for the candidates with full votes. The average of all scores for a candidate was 5,625. What is the minimum number of judges for this to be possible? A) 2 B) 6 C) 8 D) 10 E) 12
+
+**Answer:** C
+[[src_kangourou_2000_studenti__Q23]]

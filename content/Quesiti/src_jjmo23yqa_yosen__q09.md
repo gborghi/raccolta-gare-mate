@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo23yqa_yosen__Q09
 parent: src_jjmo23yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find CD in cyclic quadrilateral with diagonal intersection and collinear points*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{63}{8}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il CD in quadrilaterali ciclici con intersezione diagonale e punti collineari*
+
+> Il quadrilaterale $ABCD$ è inserito in un cerchio con $AB = 7$ e $BC = 6$. Il $E$ deve essere l'intersezione delle diagonali $AC$ e $BD$. La linea $BE$ incontra nuovamente il cerchio al punto $F$. I tre punti $A$, $D$, $F$ sono collineari e $AF = 11$, $DF = 7$. Trova la lunghezza del segmento $CD$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** \frac{63}{8}
+[[src_jjmo23yqa_yosen__Q09]]

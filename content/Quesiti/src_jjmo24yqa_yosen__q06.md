@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo24yqa_yosen__Q06
 parent: src_jjmo24yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle, BD=DE=EC on BC, parallel cevians, equal angles; find AC*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 23
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo, BD=DE=EC su BC, ceviani paralleli, angoli uguali; trovare AC*
+
+> Sul lato $BC$ del triangolo $ABC$ (esclusi i punti finali), ci sono due punti distinti $D$ e $E$ che soddisfano $BD = DE = EC$. I punti $P$ sul lato $AB$ e $Q$ sul lato $AC$ (entrambi esclusi i punti finali) sono scelti in modo che le linee $DP$ e $EQ$ siano entrambe parallele. Inoltre, < MSK11/>. Dato che $AP = 5$ e $PB = 14$, trovare la lunghezza di $AC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** 23
+[[src_jjmo24yqa_yosen__Q06]]

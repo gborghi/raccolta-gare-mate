@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2018__Q03
 parent: src_selection_camp_2018
 competition: Japan IMO Selection Camp 2018 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all prime pairs (p,q) with p>q such that a given expression is an integer*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jASM40MHMk6NMhN2bMvDto4r4rOWEBtP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie prime (p,q) con p>q in modo tale che un'espressione data sia un intero*
+
+> Trova tutte le coppie di prime $(p, q)$ con $p > q$ in modo tale che $$\frac{(p+q)^{p+q}(p-q)^{p-q} - 1}{(p+q)^{p-q}(p-q)^{p+q} - 1}$$ sia un numero intero.
+
+[[src_selection_camp_2018__Q03]]

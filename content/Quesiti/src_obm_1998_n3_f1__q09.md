@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f1__Q09
 parent: src_obm_1998_n3_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Arithmetic mean of six numbers is 4; after adding a seventh number the mean becomes 5. Find the added number.*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La media aritmetica di sei numeri è 4; dopo l'aggiunta di un settimo numero la media diventa 5. Trova il numero aggiunto.*
+
+> La media aritmetica di sei numeri è $4$. Quando aggiungiamo un settimo numero, la nuova media è $5$. Il numero che è stato aggiunto è:
+> 
+> A) 5
+> 
+> B) 6
+> 
+> C) 8
+> 
+> D) 10
+> 
+> E) 11
+
+**Risposta:** E
+[[src_obm_1998_n3_f1__Q09]]

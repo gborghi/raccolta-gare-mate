@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2005 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2005__Q04
 parent: src_cn_cgmo_2005
 competition: China Girls' Mathematical Olympiad 2005
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive reals a for which a valid partition of the integers exists*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** $0 < a < 2$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i reali positivi a per i quali esiste una partizione valida degli integri*
+
+> Determinare tutti i numeri reali positivi $a$ in modo tale che esista un intero positivo $n$ e set $A_1, A_2, \cdots, A_n$ che soddisfino le seguenti condizioni: (1) ogni set $A_i$ ha finitamente molti elementi; (2) ogni coppia di set $A_i$ e $A_j$ distinte non condivide alcun elemento comune; (3) l'unione di set $A_1, A_2, \cdots, A_n$ è l'insieme di tutti gli enti; (4) per ogni set $A_i$, la differenza positiva di qualsiasi coppia di elementi in $A_i$ è almeno $a^i$.
+
+**Risposta:** $0 < a < 2$
+[[src_cn_cgmo_2005__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q07
 parent: src_archimede_2012_febb_2livello
 competition: Archimede Gara Febbraio 2012 (8 feb) - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo isoscele ABC con D medio e BCD isoscele*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area isosceles triangle ABC with mean D and isosceles BCD*
+
+> Either ABC is an isosceles triangle with base BC, or D the midpoint of AC. Knowing that BCD is in turn isosceles with CD base and that BC = 2, how much does the area of ABC measure?
+>
+> - **(A)** 2
+> - **(B)** √ 5
+> - **(C)** √ 6
+> - **(D)** √ 7
+> - **(E)** 3.
+
+**Answer:** D
+[[src_archimede_2012_febb_2livello__Q07]]

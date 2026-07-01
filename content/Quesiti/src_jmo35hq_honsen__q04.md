@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2025 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo35hq_honsen__Q04
 parent: src_jmo35hq_honsen
 competition: Japan Mathematical Olympiad 2025 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer-valued functions with f(n)>0 and f(n) divides n^{f(n)}-1*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GuPXGAl_7m7YyhnChIywbUec7G9_S963/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni a valore intero con f(n)>0 e f(n) divisi n^{f(n)}-1*
+
+> Trova tutte le funzioni $f$ definite su enti $n \ge 2$ che assumono valori interi positivi in modo tale che entrambe le seguenti condizioni si applichino a tutti gli enti $n \ge 2$: \begin{itemize} \item $f(n) > 0$, \item $f(n) \mid n^{f(n)} - 1$. # Finire #
+
+[[src_jmo35hq_honsen__Q04]]

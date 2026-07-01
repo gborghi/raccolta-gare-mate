@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f1__Q15
 parent: src_obm_1998_n3_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pizza price is proportional to area; a 20cm-diameter pizza costs R\$3.60. Find the price of a 30cm-diameter pizza.*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il prezzo della pizza è proporzionale all'area; una pizza di 20 cm di diametro costa R\$3,60. Trova il prezzo di una pizza di 30 cm di diametro.*
+
+> Entrate in un ristorante per mangiare pizza e vi aspettate di pagare un importo proporzionale alla quantità di cibo ordinato. Se una pizza di $20\,\text{cm}$ diametro costa R\$ $3{,}60$, how much should you expect to pay for another one of the same flavor with $30\,\text{cm}$ diametro?
+> 
+> A) R\$ $5{,}40$
+> 
+> B) R\$ $5{,}80$
+> 
+> C) R\$ $6{,}60$
+> 
+> D) R\$ $7{,}50$
+> 
+> E) R\$ $8{,}10$
+
+**Risposta:** E
+[[src_obm_1998_n3_f1__Q15]]

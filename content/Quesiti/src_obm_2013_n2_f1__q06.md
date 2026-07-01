@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q06
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Incorrect multiples-of-7 count using digit-sum rule below 100*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio incorreto dei moltipli di 7 utilizzando la regola della somma digitali inferiore a 100*
+
+> Lo studente $D$ (utilizzando questo nome di codice per proteggere la sua identità) non ha prestato attenzione in classe, e quando gli è stato chiesto di verificare se un numero è un moltiplo di 7, ha deciso di utilizzare la regola della somma digitali (la regola per 3): somma tutte le cifre e verifica se il risultato è un moltiplo di 7. Ad esempio, per 100: $1+0+0=1$, che non è un multiple di 7, quindi identifica correttamente 100 come non un multiple di 7. Questo metodo scorretto indica che un numero è un multiple di 7 ogni volta che la somma digitali è un multiple di 7. Quanti numeri interi positivi inferiori a 100 indicheranno questo metodo errato come multipli di 7 (cioè, il metodo dice che è un multiple di 7 ma in realtà non lo è)?
+> 
+> (A) 0 \quad (B) 1 \quad (C) 2 \quad (D) 3 \quad (E) 4
+
+**Risposta:** C
+[[src_obm_2013_n2_f1__Q06]]

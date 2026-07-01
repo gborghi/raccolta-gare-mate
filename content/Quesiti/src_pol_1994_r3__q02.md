@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1994 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1994_r3__Q02
 parent: src_pol_1994_r3
 competition: Olimpiade Matematica Polacca 1994 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tangents from point on line to circle, midpoint line has fixed point*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19eAtDFACSz1VPPylPXfkbfEFZ2SE4e3i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tangenti da punto su linea a cerchio, linea di punto medio ha punto fisso*
+
+> Si devono indicare due linee parallele $k$ e $l$ e un cerchio non incrociato $k$. Due tangenti da un punto variabile $A \in k$ al cerchio intersecano la linea $l$ a $B$ e $C$. $m$ è la linea che attraversa $A$ e il punto medio di $BC$. Prova che tutte le linee $m$ (come $A$ varia) hanno un punto comune.
+
+[[src_pol_1994_r3__Q02]]

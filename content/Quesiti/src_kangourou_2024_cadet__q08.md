@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q08
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *20*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*20*
+
+![[src_kangourou_2024_cadet__prob8.png]]
+
+> The clock in the figure marks exactly 10:20. What is the width of the convex angle formed by the hour and minute intervals? A) 162°30’ B) 165° C) 167°30’ D) 170° E) 172°15’
+
+**Answer:** D
+[[src_kangourou_2024_cadet__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo13yq_yosen__Q05
 parent: src_jjmo13yq_yosen
 competition: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Common chords of big circle tangent to two inner circles; find p^2-q^2*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 384
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Accordi comuni di grande cerchio tangenti a due cerchi interni; trovare p^2-q^2*
+
+> In un piano ci sono tre cerchi $A$, $B$, $O$ (chiamati dai loro centri). Il raggio di $A$ è $12$ e il raggio di $B$ è $8$. Inoltre $A$ e $B$ sono reciprocamente esteri (ciascuno è all'esterno dell'altro), e entrambi sono all'interno di $O$. Il centro di $O$ è il punto medio del segmento che unisce il centro di $A$ e il centro di $B$. (Ciascuno di $A$ e $B$ è tangente internamente a $O$.) Considera gli accordi di $O$ che sono tangenti a $A$ e $B$; le loro lunghezze assumono valori $2$. Indicando $p$ e $q$ con $p > q$, si trova $p^2 - q^2$.
+
+![[src_jjmo13yq_yosen__Q05.png]]
+
+**Risposta:** 384
+[[src_jjmo13yq_yosen__Q05]]

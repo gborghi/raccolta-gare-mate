@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin__Q11
 parent: src_kangourou_2023_benjamin
 competition: Kangourou 2023 Benjamin — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *lunghezza del serpente*
 
@@ -69,3 +72,17 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* length of snake*
+
+![[src_kangourou_2023_benjamin__prob11.png]]
+
+> The floor of a balcony is tiled with square tiles of three different sizes, arranged as shown in the figure. The length of the perimeter of the smallest squares is 80 cm. More often than not, the figure depicts a serpent that has been drawn on the floor. How long is the snake? A) 380 B) 400 C) 420 D) 440 E) 1680 1 2 3 4 1 2 3 4 5 6 7 8 9 10 11 12 1 5 7 ? 9 cm
+>
+
+**Answer:** C
+[[src_kangourou_2023_benjamin__Q11]]

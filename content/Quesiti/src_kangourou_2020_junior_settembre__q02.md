@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - finale settembre — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_settembre__Q02
 parent: src_kangourou_2020_junior_settembre
 competition: Kangourou 2020 Junior - finale settembre
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle unita del minimo n con 7n di 2021 cifre*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Y0Gi-Uy881pNn6RNQhqSGYn7AyhCKbJx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of units of minimum n with 7n of 2021 digits*
+
+> Be $n$ the smallest positive integer such that the number $7 \times n$ has $2021$ digits. What is the unit number of $n$?
+
+**Answer:** 9
+[[src_kangourou_2020_junior_settembre__Q02]]

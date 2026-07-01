@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q14
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -36,6 +37,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation f(mn+1)=f(m)f(n)-f(n)-m+2, f(0)=1; largest N with sum f(k)<100*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale f(mn+1)=f(m) f(n)-f(n)-m+2, f(0)=1; più grande N con la somma f(k)<100*
+
+> Una funzione $f$ è definita sull'insieme di integri in modo tale che per due integri $m$ e $n$, $$f(mn + 1) = f(m)f(n) - f(n) - m + 2$$ è mantenuta e $f(0) = 1$. Determinare il più grande intero positivo $N$ tale che $\displaystyle\sum_{k=1}^{N} f(k) < 100$.
+
+[[src_ioqm_2025_sep07__Q14]]

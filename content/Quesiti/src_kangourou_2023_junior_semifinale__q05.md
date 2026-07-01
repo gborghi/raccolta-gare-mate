@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Junior 2023 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_semifinale__Q05
 parent: src_kangourou_2023_junior_semifinale
 competition: Kangourou Semifinale individuale Junior 2023
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima somma di tre numeri TAP, BAT, CAD con cifre distinte*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rq1gJ31P8DKnidln7hHYAxiIyAQN3F0c/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of three numbers TAP, BAT, CAD with distinct digits*
+
+> (Points 4) Three whole numbers are given each of three digits (i.e. the first digit of each cannot be 0) which we denote with TAP, BAT and CAD where each letter represents a number, different letters are different digits. What's the smallest possible value for the sum of these three numbers? A) 600           B) 610           C) 615          D) 730           E) 732
+
+[[src_kangourou_2023_junior_semifinale__Q05]]

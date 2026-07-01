@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q20
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma raggi due circonferenze nel quadrato*
 
@@ -59,3 +62,26 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sum of radii of two circumferences in the square< MSK1/>
+
+![[src_kangourou_2007_junior_marzo__prob20.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=4]
+  \draw[line width=1pt] (0,0) rectangle (1,1);
+  \draw[line width=1pt] (0.371,0.371) circle (0.371);
+  \draw[line width=1pt] (0.784,0.784) circle (0.216);
+\end{tikzpicture}
+\end{document}
+```
+
+> Look at the figure: two circumferences have the center on the same diagonal as a square, they are tangent to each other and tangent to the square internally. The side of the square is 1 meter long. What is the sum of the lengths, in meters, of the radii of the two circumferences? A) B) C) D) E) The information is not sufficient. The questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** D
+[[src_kangourou_2007_junior_marzo__Q20]]

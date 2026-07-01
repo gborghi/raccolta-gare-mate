@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2017 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo27mq_honsen__Q05
 parent: src_jmo27mq_honsen
 competition: Japan Mathematical Olympiad 2017 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *power sums divisible by 2017 force every term divisible*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZZX6VzFmZDx55lXzMt3R4wZfWz3QnWc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*somme di potenza divisibile per 2017 forza ogni termine divisibile*
+
+> Lasciate che $x_1, x_2, \ldots, x_{1000}$ siano integri in modo tale che per ogni intero positivo $k$ con $k \le 672$, la somma $\displaystyle\sum_{i=1}^{1000} x_i^k$ sia un multiple di $2017$. Mostrare che $x_1, x_2, \ldots, x_{1000}$ sono tutti multipli di $2017$. (Nota: $2017$ è primo.)
+
+[[src_jmo27mq_honsen__Q05]]

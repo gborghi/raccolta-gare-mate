@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2023-24 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2023-24_round1__Q03
 parent: src_bmo_2023-24_round1
 competition: British Mathematical Olympiad 2023-24 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove BZ perpendicular to AC in circle geometry problem*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove BZ perpendicolare all'AC nel problema di geometria circolare*
+
+> Che $ABC$ sia un triangolo con $\angle ACB < 90^\circ$. Il punto $X$ e il punto $Y$ devono essere ponti rispettivamente su $AC$ e sul cerchio $ABC$ in modo tale che $XY \ne A$ e $BX = BY = BA$. La linea $XY$ incrocia nuovamente il cerchio $ABC$ a $Z$.
+> 
+> Prova che $BZ$ è perpendicolare a $AC$.
+
+[[src_bmo_2023-24_round1__Q03]]

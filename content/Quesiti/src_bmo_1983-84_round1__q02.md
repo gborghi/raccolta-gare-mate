@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1983-84 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1983-84_round1__Q02
 parent: src_bmo_1983-84_round1
 competition: British Mathematical Olympiad 1983-84 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Binomial coefficients mod 3: remainders 1 exceed remainders 2*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Coefficienti binomiali mod 3: i rimanenti 1 superano i rimanenti 2*
+
+> Che $a_n$ sia il numero dei coefficienti binomiali $\binom{n}{r}$ ($0 \le r \le n$) che lasciano il rimanente $1$ alla divisione da $3$, e che $b_n$ sia il numero che lascia il rimanente $2$. Prove che $a_n > b_n$ per tutti i numeri interi positivi $n$.
+
+[[src_bmo_1983-84_round1__Q02]]

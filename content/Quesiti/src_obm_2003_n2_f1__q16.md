@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f1__Q16
 parent: src_obm_2003_n2_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of pentagon ABCDE in dot grid (1 cm spacing)*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area del pentagono ABCDE nella griglia a punti (1 cm di spaziamento) *
+
+> Nella disposizione rettangolare dei punti riportata di seguito, la distanza tra i punti adiacenti della stessa riga o colonna è di 1 cm.
+> 
+> La superficie del pentagono $ABCDE$, in cm$^2$, è:
+> 
+> (A) 9 \quad (B) $\dfrac{19}{2}$ \quad (C) 10 \quad (D) $\dfrac{21}{2}$ \quad (E) 11
+
+![[src_obm_2003_n2_f1__Q16.png]]
+
+**Risposta:** B
+[[src_obm_2003_n2_f1__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo24yq_yosen__Q02
 parent: src_jmo24yq_yosen
 competition: Japan Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular octagon vertices labelled 1–8; count arrangements avoiding consecutive-value neighbors*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 576
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*vertici di ottagoni regolari etichettati 18; ordini di conteggio che evitano vicini di valore consecutivo*
+
+> Un ottagono regolare ha i suoi vertici $8$ ognuno etichettato con un numero intero distinto scelto da $1$ a $8$ (ogni numero intero usato esattamente una volta). Contare il numero di tali etichette che soddisfano entrambe le seguenti condizioni. (Le etichette che differiscono solo per rotazione o riflessione sono ancora contate come distinte.) \begin{itemize} \item I numeri interi scritti in due vertici adiacenti (connessi da un lato) non sono mai numeri interi consecutivi. \item I numeri interi scritti in due vertici collegati da una diagonale breve non sono mai numeri interi consecutivi. # Finire #
+
+**Risposta:** 576
+[[src_jmo24yq_yosen__Q02]]

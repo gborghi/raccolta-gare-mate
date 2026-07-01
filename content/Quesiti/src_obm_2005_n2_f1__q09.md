@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q09
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Thirteen nonzero reals, more positive than negative; 22 of the 78 pairwise products are negative; how many are negative*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Treici reali non-zero, più positivi che negativi; 22 dei 78 prodotti in coppia sono negativi; quanti sono negativi*
+
+> Tra i tredici reali non-zero ci sono più numeri positivi di quelli negativi. Tra i prodotti $\dfrac{13\times 12}{2}=78$ di due dei tredici numeri, $22$ sono negativi. Quanti dei tredici numeri dati sono negativi? A) $2$ \quad B) $7$ \quad C) $8$ \quad D) $9$ \quad E) $10$
+
+**Risposta:** A
+[[src_obm_2005_n2_f1__Q09]]

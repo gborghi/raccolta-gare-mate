@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Biennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_biennio__Q12
 parent: src_archimede_2026_biennio
 competition: Giochi di Archimede 2026 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti cavalieri nella classe (cavalieri e furfanti)*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many knights in the class (knights and swordsmen) *
+
+> On the island of knights and crooks, every inhabitant is either a knight (who always tells the truth) or a crook (who always lies). Luigi's class is made up of 21 students in total. His fellow banker Mario declares: "In our class there are precisely 12 knights". Another 9 companions then say: Luigi is a knight, the other 10 say instead: Luigi is a cunning. Luigi prefers not to lose his balance and remains silent. How many knights are in the class?
+>
+> - **(A)** It is not possible to establish
+> - **(B)** 9
+> - **(C)** 12
+> - **(D)** 10
+> - **(E)** 11
+
+**Answer:** D
+[[src_archimede_2026_biennio__Q12]]

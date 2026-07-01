@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo35yqa_yosen__Q06
 parent: src_jmo35yqa_yosen
 competition: Japan Mathematical Olympiad 2025 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two positive-integer sequences with coupled halving recurrence; count starting pairs (a1,b1) both at most 40*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1064
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Due sequenze di numeri interi positivi con ricorrenza a metà accoppiata; contare le coppie iniziali (a1,b1) entrambe al massimo 40< MSK1/>
+
+> Ci sono due sequenze di interi positivi $a_1, a_2, \ldots$ e $b_1, b_2, \ldots$ in modo che per ogni intero positivo $n$, una delle seguenti sostengono: $$(a_{n+1}, b_{n+1}) = \left(\frac{a_n}{2},\, b_n + \frac{a_n}{2}\right) \quad \text{or} \quad (a_{n+1}, b_{n+1}) = \left(a_n + \frac{b_n}{2},\, \frac{b_n}{2}\right).$$ A questo punto, quante coppie $(a_1, b_1)$ di interi positivi, ciascuna al massimo $40$, possono verificarsi come coppia di partenza (cioè: in modo che entrambe le sequenze siano interamente composte da numeri interi positivi)?
+
+**Risposta:** 1064
+[[src_jmo35yqa_yosen__Q06]]

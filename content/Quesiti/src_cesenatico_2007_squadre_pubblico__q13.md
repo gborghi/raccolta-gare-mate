@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q13
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma valori N con N=sum i/a_i, a_i crescenti positivi*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of N values with N=sum i/a_i, at positive increases*
+
+> A curious coincidence [40] A curious coincidence has recently been noted. All of the greatest moreninjas in the history of the village of Retta have had a life force positive integer N such that there are a1, a2, . . . , a2007 positive integers for which a1 < a2 < ... < a2007 e N = 1 a1 + 2 a2 + 3 a3 +··+ 2007 a2007. Find the sum of all life force N values (indicate the last 4 digits of that sum if the result is greater than 9999).
+
+[[src_cesenatico_2007_squadre_pubblico__Q13]]

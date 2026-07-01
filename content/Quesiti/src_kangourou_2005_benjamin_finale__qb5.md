@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (finale nazionale) — Quesito B5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin_finale__QB5
 parent: src_kangourou_2005_benjamin_finale
 competition: Kangourou 2005 - Benjamin (finale nazionale)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo estrazioni per svuotare urna (variazioni +/-1)*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kBPZIGFs3CfWtIRUJNAqXxrN8NLVFnWk/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum extractions to empty urns (variations +/-1) < MSK1/>
+
+> There are balls in an urn. We count subsequent extractions following strictly this procedure: - at the first extraction a ball is taken; - at each subsequent extraction (including the last) one more or one less ball is taken than the previous extraction.
+> 
+> What is the minimum number of extractions sufficient for the urn to remain empty? Reason for the answer.
+
+**Answer:** 9
+[[src_kangourou_2005_benjamin_finale__QB5]]

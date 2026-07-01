@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q25
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Divisori di n+2 (n primo, n+1 con 3 divisori)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*N+2 dividers (n first, n+1 with 3 dividers) *
+
+> Including between the divisors of a number the number itself and the unit, a positive integer n has two divisors while n + 1 has three. How many divisors of n + 2 are there? (a) 2 (b) 3 (c) 4 (d) 5 (e) depends on n
+
+**Answer:** A
+[[src_kangourou_2007_cadet_marzo__Q25]]

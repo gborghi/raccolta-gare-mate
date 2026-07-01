@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q02
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distinct sums when three dice are thrown*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare somme distinte quando vengono lanciati tre dadi*
+
+> Un ragazzo lancia tre dadi e aggiunge i numeri che appaiono sulle facce superiori. Il numero di risultati possibili diversi di questa somma è:
+>
+> - **(A)** $112$
+> - **(B)** $18$
+> - **(C)** $216$
+> - **(D)** $16$
+> - **(E)** $15$
+
+**Risposta:** D
+[[src_obm_1998_n1_f1__Q02]]

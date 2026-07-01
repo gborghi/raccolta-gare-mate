@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Student (15 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_student__Q13
 parent: src_kangourou_2001_student
 competition: Kangourou 2001 - Student (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Centesimi per pacchetto di gomma*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Cents per packet of rubber< MSK1/>
+
+> In New York City, 16 packs of chewing gum cost as many dollars as you can buy with a dollar. How many cents does a package cost? One dollar is 100 cents .
+>
+> - **(A)** 4
+> - **(B)** 8
+> - **(C)** 12
+> - **(D)** 16
+> - **(E)** 25. . In the case of the Commission, the Commission considers that it is appropriate to take the necessary measures in order to ensure that the measures are implemented in accordance with the principle of proportionality. Class of students. This item is not intended to be used. 4
+
+**Answer:** E
+[[src_kangourou_2001_student__Q13]]

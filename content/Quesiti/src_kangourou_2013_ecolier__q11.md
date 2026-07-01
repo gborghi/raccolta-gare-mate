@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q11
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti fratelli non puo avere dividendo 36 caramelle*
 
@@ -45,3 +48,22 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many siblings can you have by dividing 36 candy
+
+> A fruit shop sells oranges only in bags: there are bags of 5, 9, and 10 oranges. Paul has to buy exactly 48 oranges. What's the least number of bags you can buy? A) 5
+>      	
+> B) 7
+>           	
+> C) 6
+>   	
+> D) 8
+>          	
+> E) 4
+>
+
+[[src_kangourou_2013_ecolier__Q11]]

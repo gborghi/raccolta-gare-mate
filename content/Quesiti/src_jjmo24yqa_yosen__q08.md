@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo24yqa_yosen__Q08
 parent: src_jjmo24yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle cevians; circumcircles of corner triangles through incenter of inner triangle; find AB/AC*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{44}{31}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ceviani triangolari; circoncircoli di triangoli angolari attraverso l'incentro del triangolo interno; trovare AB/AC*
+
+> Nel triangolo $ABC$, $P$, $Q$, $R$ siano rispettivamente punti sui lati $BC$, $CA$, $AB$ (esclusi i punti finali), con $$BP : PC = 6 : 1, \quad CQ : QA = 5 : 2, \quad AR : RB = 4 : 3.$$ Supponiamo che il circoncircolo di ciascuno dei triangoli $ARQ$, $BPR$ e $CQP$ passi attraverso l'incentro del triangolo $PQR$. Trova il valore di $\dfrac{AB}{AC}$.
+
+**Risposta:** \frac{44}{31}
+[[src_jjmo24yqa_yosen__Q08]]

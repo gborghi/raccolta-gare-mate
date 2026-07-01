@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2007 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2007__Q12
 parent: src_bocconi_semifinale_2007
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2007
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punto d'incontro tra Carla e Milena con velocità diverse in salita e discesa*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 24 km dalla casa di Carla
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Meeting point between Carla and Milena with different speeds up and down
+
+> Carla and Milena live in two separate houses on a steep road. When they decide to see each other, they leave home at the same time. Carla moves from her home to Milena's at a constant speed of 35 km/h (in descent ...). Milena makes the reverse route at a constant speed of 35 km/h (in descent ...).
+> 
+> How far from Carla's house will they meet?
+
+**Answer:** 24 km dalla casa di Carla
+[[src_bocconi_semifinale_2007__Q12]]

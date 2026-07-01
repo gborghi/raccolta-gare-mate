@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2012 — Quesito
   15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2012__Q15
 parent: src_bocconi_finalenaz_2012
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2012
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza tra Arithmeville e Geometry su mappa a quadrato*
 
@@ -50,3 +53,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance between Arithmeville and Geometry on a square map*
+
+> The cities of Mathpolis, Analys, Geometry and Logix are situated on the summits of a square whose side measures 60 km. Then there are the cities of Arithmeville and Algebra, aligned with Logix and Geometry. Now, knowing that the distance between Mathpolis and Algebra is 150 miles, what is the distance between Arithmeville and Geometry?
+
+![[src_bocconi_finalenaz_2012__Q15.png]]
+
+**Answer:** 35
+[[src_bocconi_finalenaz_2012__Q15]]

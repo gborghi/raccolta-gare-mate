@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2008 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2008__Q11
 parent: src_bocconi_autunno_2008
 competition: Giochi d'Autunno 2008
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare tabella con operazioni incrociate usando cifre date*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $666 - 191 = 475$; $18 \times 13 = 234$; $37 + 204 = 241$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete table with cross operations using data figures*
+
+> Complete the table so that all the operations indicated are accurate. The first row begins with $6$, $6$, $6$ and the $-$ sign; the second row contains a multiplication by the $3$ factor; the columns and rows must be consistent with the data signs.
+
+![[src_bocconi_autunno_2008__Q11.png]]
+
+**Answer:** $666 - 191 = 475$; $18 \times 13 = 234$; $37 + 204 = 241$
+[[src_bocconi_autunno_2008__Q11]]

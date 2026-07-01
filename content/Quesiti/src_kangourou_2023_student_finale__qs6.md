@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Student 2023 — Quesito S6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student_finale__QS6
 parent: src_kangourou_2023_student_finale
 competition: Kangourou Finale Student 2023
@@ -26,6 +27,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Disuguaglianza fra somme di quadrati con sequenze non crescenti*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Ee_ERD-poJJkEKdZ7-sxycryMbsAtpP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Inequality between sums of squares with non-increasing sequences*
+
+> Whether $n$ a fixed positive integer and $\{a_1, a_2, \ldots, a_n\}$, $\{b_1, b_2, \ldots, b_n\}$ two non-negative number sequences such as $a_1 + a_2 + \cdots + a_k \geq b_1 + b_2 + \cdots + b_k$ for each $k$ between $1$ and $n$ included. To show that it is not said to have $$a_1^2 + a_2^2 + \cdots + a_n^2 \geq b_1^2 + b_2^2 + \cdots + b_n^2,$$ but that this second inequality is certainly valid if both sequences are non-growing.
+
+[[src_kangourou_2023_student_finale__QS6]]

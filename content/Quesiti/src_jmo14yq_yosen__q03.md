@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo14yq_yosen__Q03
 parent: src_jmo14yq_yosen
 competition: Japan Mathematical Olympiad 2004 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Random coins thrown on desk; probability all removed within 4 operations.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Monete casuali gettate sulla scrivania; probabilità tutte rimosse entro 4 operazioni.
+
+> Alcune monete vengono gettate contemporaneamente su una scrivania. Considerate la seguente operazione: vista dall'alto, rimuovete tutte le monete che sono visibili dall'alto (quele che non sono coperte da altre monete). Pensando a una situazione in cui le monete sono impilate, ripeti questa operazione partendo da un qualche accordo iniziale, fino a quando tutte le monete sono state rimosse. L'operazione viene eseguita ripetutamente. Trova la probabilità che tutte le monete vengano rimosse in un massimo di 4 operazioni.
+
+[[src_jmo14yq_yosen__Q03]]

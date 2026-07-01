@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_semifinale_a__Q11
 parent: src_cesenatico_2016_semifinale_a
 competition: Gara a Squadre Cesenatico 2016 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita nessun ufficio rifiuti (1/k^2, p+q)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0047
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Probably no office for waste (1/k^2, p+q)
+
+> The bureaucracy never ends After passing the first Bogon office, Jacob must visit 30 more, numbered 2 to 31. For every k, the office with the number k has a 1 k2 probability, regardless of the others, of rejecting the presidential order. What are the chances that none of the remaining 30 offices will reject the form? Answer by indicating the sum of numerator and denominator reduced to minimum terms.
+
+**Answer:** 0047
+[[src_cesenatico_2016_semifinale_a__Q11]]

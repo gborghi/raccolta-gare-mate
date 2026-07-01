@@ -1,6 +1,7 @@
 ---
 title: IMO 1991 (XXXII International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1991__Q04
 parent: src_imho_1991
 competition: IMO 1991 (XXXII International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Label edges of connected graph so gcd at each vertex equals 1*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Label edges of connected graph so gcd at each vertex equals 1< MSK1/>
+
+> Suppose $G$ is a connected graph with $k$ edges. Prove that it is possible to label the edges $1, 2, \ldots, k$ in such a way that at each vertex which belongs to two or more edges, the greatest common divisor of the integers labeling those edges is equal to $1$.
+> 
+> [A graph consists of a set of points, called vertices, together with a set of edges joining certain pairs of distinct vertices. Each pair of distinct vertices $u$, $v$ belongs to at most one edge. The graph $G$ is connected if for each pair of distinct vertices $x$, $y$ there is some sequence of vertices $x = v_0, v_1, v_2, \ldots, v_m = y$ such that each pair $v_i, v_{i+1}$ $(0 \le i < m)$ is joined by an edge of $G$.]
+
+[[src_imho_1991__Q04]]

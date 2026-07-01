@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2016 — Region 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2016_r3__Q03
 parent: src_rmo_2016_r3
 competition: Regional Mathematical Olympiad 2016
@@ -33,6 +34,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers satisfy ratio conditions, prove d >= b + f*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BaQ45FF4xT_9XnNK7XN2HDAIBbyW2GyF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I numeri interi positivi soddisfano le condizioni del rapporto, dimostrano d >= b + f *
+
+> $a, b, c, d, e, f$ siano integri positivi in modo tale che $$\frac{a}{b} < \frac{c}{d} < \frac{e}{f}.$$ Supponiamo $af - be = -1$. Mostra che $d \ge b + f$.
+
+[[src_rmo_2016_r3__Q03]]

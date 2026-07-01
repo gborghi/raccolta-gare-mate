@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Biennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_biennio__Q05
 parent: src_archimede_2012_biennio
 competition: Giochi di Archimede 2012 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *1*
 
@@ -49,3 +52,22 @@ tags:
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13kesAdPzQ8k4YwW-asUVUoQ5RPW1gOnt/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*1*
+
+![[src_archimede_2012_biennio__prob5.png]]
+
+> Knowing that the rectangle in the figure is divided by the slanted line into two parts of areas one quadruple the other, calculate the ratio between the dimensions of segments a and b.
+>
+> - **(A)** 2/3
+> - **(B)** 1/4
+> - **(C)** 1/5
+> - **(D)** 1/2
+> - **(E)** 2/5 a b
+
+**Answer:** A
+[[src_archimede_2012_biennio__Q05]]

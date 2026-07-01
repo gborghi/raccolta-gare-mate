@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2004 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2004__Q04
 parent: src_inmo_2004
 competition: Indian National Mathematical Olympiad 2004
@@ -30,6 +31,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with 2R ≤ r_a; prove inequalities on sides and exradii*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_ogop_H9aN7DDnSasFsJqkXiQTv0yKue/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con 2R ≤ r_a; dimostrare disuguaglianze laterali ed esradii*
+
+> $R$ indichi il circondario di un triangolo $ABC$; $a$, $b$, $c$, i suoi lati $BC$, $CA$, $AB$; e $r_a$, $r_b$, $r_c$, rispettivamente, i suoi esradi opposti a $A$, $B$ e $C$. Se $2R \le r_a$, dimostrare che (i) $a > b$ e $a > c$; (ii) $2R > r_b$ e $2R > r_c$.
+
+[[src_inmo_2004__Q04]]

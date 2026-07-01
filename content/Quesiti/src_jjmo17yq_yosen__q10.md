@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo17yq_yosen__Q10
 parent: src_jjmo17yq_yosen
 competition: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max direct routes added to 100-port network under Hamiltonian-path condition*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4850
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YyPhdRC8ta06c--Y1mxGSGuS4yujWAKb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maxime rotte dirette aggiunte alla rete di 100 porti in condizioni di percorso di Hamilton*
+
+> Un determinato paese dispone di porti $100$ e JJMO Shipping opera rotte dirette bidirezionali tra alcune coppie di porti distinti. JJMO Shipping decide di aggiungere un nuovo percorso diretto bidirezionale per ogni coppia di porti $A, B$ che soddisfi la seguente condizione: si può lasciare il porto $A$, passare attraverso ogni porto esattamente una volta e arrivare al porto $B$, ma non esiste un percorso diretto tra i porti $A$ e $B$. Le rotte dirette sono aggiunte una dopo l'altra fino a quando non rimangono due porti distinti che soddisfino la condizione. Trovare il maggior numero possibile di rotte dirette che possono essere create (aggiunte).
+
+**Risposta:** 4850
+[[src_jjmo17yq_yosen__Q10]]

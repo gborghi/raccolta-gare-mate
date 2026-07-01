@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q20
 parent: src_cesenatico_2006_squadre_finale
 competition: Gara a Squadre Cesenatico 2006 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo AED con punti medi archi nel circoscritto*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0011
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AED angle with arcing midpoints in the enclosure*
+
+> Unveiled impostors People often wonder how a mathematician can be recognized by a mateban, that is, someone who is fasting mathematics. The method is very simple! Try asking a mattress the following question. Whether ABC is a triangle, with d ABC = 75° and d ACB = 53°. Drawing the circumference circumscribed to ABC, be E the middle point of the BC arc not containing A, and D the middle point of the BC arc containing A. How much is the angle?
+> 
+> Cesenatico Competition in teams 2 6 VII GARA NATIONAL A SQUADER National Final  SOLUTIONS  6 May 2006 No. The problem
+
+**Answer:** 0011
+[[src_cesenatico_2006_squadre_finale__Q20]]

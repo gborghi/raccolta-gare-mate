@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2009 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2009__Q01
 parent: src_cn_cmc_2009
 competition: China Mathematical Competition 2009
@@ -32,6 +33,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute iterated composition f^(99)(1) for f(x)=x/sqrt(1+x^2)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\dfrac{1}{10}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcola la composizione iterata f^(99)(1) per f(x) = x/sqrt(1+x^2)*
+
+> Supponiamo che $f(x) = \dfrac{x}{\sqrt{1+x^2}}$ e $f^{(99)}(x) = f[f[\cdots f(x)\cdots]]$ (99 composizioni). Poi $f^{(99)}(1) = $ \_\_\_\__.
+
+**Risposta:** \dfrac{1}{10}
+[[src_cn_cmc_2009__Q01]]

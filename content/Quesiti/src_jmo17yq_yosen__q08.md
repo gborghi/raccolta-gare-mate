@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo17yq_yosen__Q08
 parent: src_jmo17yq_yosen
 competition: Japan Mathematical Olympiad 2007 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count triangulations of a cube into tetrahedra using only cube vertices*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le triangolazioni di un cubo in tetraedri utilizzando solo vertici di cubo*
+
+> Lasciate che $S$ sia un cubo. In quanti modi $S$ può essere suddiviso in una raccolta di tetraedri $\{T_1, \ldots, T_k\}$ che soddisfano le seguenti due condizioni? \begin{itemize} \item[(1)] I vertici di ogni tetraedro $T_i$ sono tutti vertici di $S$. \item[(2)] Per qualsiasi $i \neq j$, se $T_i$ e $T_j$ condividono una parte comune, allora quella parte comune è una faccia comune, un bordo comune o un vertice comune di $T_i$ e $T_j$. # Finire #
+
+[[src_jmo17yq_yosen__Q08]]

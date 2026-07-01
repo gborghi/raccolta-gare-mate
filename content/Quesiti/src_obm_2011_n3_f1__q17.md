@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f1__Q17
 parent: src_obm_2011_n3_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest n such that (2011)! is divisible by (n!)^3*
 
@@ -50,3 +53,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il più grande di questi (2011)! è divisibile da (n!)^3*
+
+> Il più grande intero positivo $n$ tale che $(2011)!$ sia divisibile per $(n!)^{3}$ è:
+> 
+> (A) 3 (B) 4 (C) 5 (D) 6 (E) 7
+
+[[src_obm_2011_n3_f1__Q17]]

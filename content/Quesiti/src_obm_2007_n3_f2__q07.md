@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f2__Q07
 parent: src_obm_2007_n3_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all six-digit numbers of the form AABBB that are one less than a perfect square*
 
@@ -51,3 +54,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zX7z5wzrS24GDIg6SjMeYYN4pu7op9WA/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i numeri a sei cifre del modulo AABBB che sono uno meno di un quadrato perfetto*
+
+> Determinare tutti i numeri a sei cifre $n$ della forma $\overline{AABBB}$ (le prime due cifre sono entrambe uguali a $A$ e le ultime tre cifre sono entrambe uguali a $B$, con $A \neq B$) in modo tale che $n + 1$ sia un quadrato perfetto; vale a dire, trovare tutti $n = \overline{AABBB}$ per i quali esiste un intero positivo $k$ con $k^2 = n + 1$.
+
+**Risposta:** $111555$ and $444888$
+[[src_obm_2007_n3_f2__Q07]]

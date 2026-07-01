@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_femminile__Q09
 parent: src_squadre_2024_femminile
 competition: Gara a Squadre Femminile 2024 - Finale Nazionale
@@ -24,6 +25,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime 4 cifre di c_2024 con tre successioni concatenate*
 
@@ -39,3 +42,13 @@ tags:
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The last four digits of c_2024 with three consecutive concatenations*
+
+> The design by Fuzzy [⋆] Inspector Giuseppe Fuzzy, MontyHallbano's collaborator, draws an isosceles ABC triangle in A. It then takes the D and E points respectively on the AC and AB sides such that DE is parallel to BC. The intersection between the BD and EC segments shows that \ BPC = < MSK0/>. It is also known that the circumferences in the quadrilateral ADPE and the triangle BPC have congruent radii and that the height of the triangle ABC relative to the vertex A is 1200. He then asks Commissioner MontyHallbano: How big is the AC side?
+
+[[src_squadre_2024_femminile__Q09]]

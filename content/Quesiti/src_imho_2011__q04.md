@@ -1,6 +1,7 @@
 ---
 title: IMO 2011 (LII International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2011__Q04
 parent: src_imho_2011
 competition: IMO 2011 (LII International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Count ways to place weights on balance without right pan heavier*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AgPUw9EsnOZUa380gcARqgMoP3LAb6KQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Count ways to place weights on balance without right pan heavier
+
+> Let < MSK0/> be an integer. We are given a balance and $n$ weights of weight $2^0, 2^1, \ldots, 2^{n-1}$. We are to place each of the weights on the balance, one after the other, so that the right pan is never heavier than the left pan. At each step we choose one of the weights that has not yet been placed on the balance, and place it on either the left pan or the right pan, until all of the weights have been placed. Determine the number of ways this can be done.
+
+[[src_imho_2011__Q04]]

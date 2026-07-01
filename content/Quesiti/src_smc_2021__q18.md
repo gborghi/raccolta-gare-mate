@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2021 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2021__Q18
 parent: src_smc_2021
 competition: Senior Mathematical Challenge 2021
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Write 840 = p!/q! with p, q positive integers less than 10; find p + q.*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Scrivi 840 = p!/q! con p, q interi positivi inferiori a 10; trovare p + q.*
+
+> Il numero $840$ può essere scritto come $\dfrac{p!}{q!}$, dove $p$ e $q$ sono numeri interi positivi inferiori a $10$. Qual è il valore di < MSK5/>? Si noti che $n! = 1 \times 2 \times 3 \times \cdots \times (n-1) \times n$.
+>
+> - **(A)** 8
+> - **(B)** 9
+> - **(C)** 10
+> - **(D)** 12
+> - **(E)** 15
+
+**Risposta:** C
+[[src_smc_2021__Q18]]

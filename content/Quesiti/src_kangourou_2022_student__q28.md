@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q28
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *valore di a2*
 
@@ -46,3 +49,17 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>value of a2< MSK1/>
+
+> The first term a1 of a sequence of real numbers is between 0 and 1. For all n ≥ 1, a2n = a2 × an + 1 and a2n + 1 2 n What is the value of a2? A) Equal to a1. B) 2
+>  
+>  
+> C) 3
+
+**Answer:** D
+[[src_kangourou_2022_student__Q28]]

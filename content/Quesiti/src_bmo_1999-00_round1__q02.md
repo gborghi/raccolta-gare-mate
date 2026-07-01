@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1999-00 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1999-00_round1__Q02
 parent: src_bmo_1999-00_round1
 competition: British Mathematical Olympiad 1999-00 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a certain expression in n is divisible by 2000*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jXrypnD0VZ-T2J0x_R-FJ1Z-nveBfTYT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che una certa espressione in n è divisibile per 2000*
+
+> Mostra che per ogni intero positivo $n$, $$121^n - 25^n + 1900^n - (-4)^n$$ è divisibile per 2000.
+
+[[src_bmo_1999-00_round1__Q02]]

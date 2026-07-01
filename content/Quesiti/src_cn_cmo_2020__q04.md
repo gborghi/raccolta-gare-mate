@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2020 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2020__Q04
 parent: src_cn_cmo_2020
 competition: China Mathematical Olympiad 2020
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle inscribed in a circle; line through center parallel to AM; prove an equality of angle sums*
 
@@ -45,3 +48,15 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto inserito in un cerchio; linea attraverso il centro parallela a AM; dimostrare l'uguaglianza delle somme di angoli*
+
+> Come mostrato nella figura. 4.1, inserire il < MSK1/> acuto al cerchio < MSK2/>, < MSK3/>. $M$ è il punto medio dell'arco minore $\widehat{BC}$ del cerchio $\omega$ e $K$ è il punto antipodal del punto $A$ sul cerchio $\omega$. Costruire una linea parallela di $AM$ attraverso il centro $O$ del cerchio $\omega$, il segmento di intersezione $AB$ al punto $D$ e l'estensione di $CA$ al punto $E$. Supponiamo che la linea $BM$ si intersechi $CK$ al punto $P$ e la linea $CM$ si intersechi $BK$ al punto $Q$. Provare che < MSK0/>
+
+![[src_cn_cmo_2020__Q04.png]]
+
+[[src_cn_cmo_2020__Q04]]

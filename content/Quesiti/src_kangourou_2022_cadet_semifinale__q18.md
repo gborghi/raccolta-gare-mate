@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet semifinale individuale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q18
 parent: src_kangourou_2022_cadet_semifinale
 competition: Kangourou 2022 Cadet semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *probabilita che vinca Anna *100*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 80
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The probability of Anna winning
+
+> (8 points) Anna and Ernesto play as follows. On the table, there are six cards, numbered from 1 to 6. Anna turns one and then Ernesto turns another. The resulting numbers are then multiplied: if the product is an even number Anna wins, if it is an odd number Ernesto wins. Determine the probability of Anna winning with p/100: how much is p worth?
+>  
+> 12 25 189 15 16 3 9 3 80
+
+**Answer:** 80
+[[src_kangourou_2022_cadet_semifinale__Q18]]

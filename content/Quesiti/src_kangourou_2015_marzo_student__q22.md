@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q22
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale retta e l'asse y*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*which is straight and the y-axis *
+
+![[src_kangourou_2015_marzo_student__prob22.png]]
+
+> The curve in the figure is described by the equation (x2 + y2 - 2x) 2 = 2 (x2 + y2). Then four lines are drawn, indicated by a, b, c, d. Which of these represents the y-axis? A) a
+> 	
+> B) b
+> 	
+> C) c
+> 	
+> D) d
+> 	
+> E) None of the above.
+
+**Answer:** A
+[[src_kangourou_2015_marzo_student__Q22]]

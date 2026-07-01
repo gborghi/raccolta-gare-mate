@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Student (marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q22
 parent: src_kangourou_2007_student_marzo
 competition: Kangourou 2007 Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero non e x(x+1) per x intero*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which number is not x(x+1) for whole x*
+
+> Which of the following numbers can't be written as x? A) 870 B) 110 C) 90 D) 60 E) 30
+
+**Answer:** D
+[[src_kangourou_2007_student_marzo__Q22]]

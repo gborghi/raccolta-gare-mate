@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_2livello__Q12
 parent: src_archimede_2023_2livello
 competition: Archimede Gara di Febbraio 2023 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Assegnazioni ballerine/ballerini, 13 segmenti non incrocianti*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Dancer/dancer assignments, 13 non-crossing segments*
+
+> A complicated choreography involves a row of 7 dancers equipsed on a stage plane; in front of that of the dancers there is an identical line, parallel, of as many dancers. The choreographer wants to assign some dancers to each dancer so that, by tracing on stage the segment that unites the position of each dancer to that of the dancers assigned to her, there are no segments that intersect except at the ends. It also wants the total number of segments traced to be 13. How many possible ways of making allocations that satisfy these properties?
+>
+> - **(A)** 128
+> - **(B)** 343
+> - **(C)** 486
+> - **(D)** 924
+> - **(E)** 1716 Problems with numerical answers  5 points
+
+**Answer:** D
+[[src_archimede_2023_2livello__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2025 Benjamin finale — Quesito B5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2025_benjamin_finale__QB5
 parent: src_kangourou_2025_benjamin_finale
 competition: Kangourou 2025 Benjamin finale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numeri rossi somma di verde e blu (1-9)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hvCMhKmXAjUOFEJWwvFFJ29ZPfkhmm4P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum red numbers sum of green and blue (1-9)
+
+> Each integer between $1$ and $9$ included is assigned one and only one of the colors red, blue, green so that each red number is the sum of a green number and a blue number. How many red numbers can be at most?
+
+**Answer:** 4
+[[src_kangourou_2025_benjamin_finale__QB5]]

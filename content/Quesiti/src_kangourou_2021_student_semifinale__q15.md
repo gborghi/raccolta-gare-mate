@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student semifinale individuale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q15
 parent: src_kangourou_2021_student_semifinale
 competition: Kangourou 2021 Student semifinale individuale
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti primi della forma (m^2+m+1)/n*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9999
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers of prime of the form (m^2+m+1)/n*
+
+> (6 points) What are the prime numbers of the form
+> 
+>  
+> 
+> where m and n are positive integers? (Write 9999 if you believe they are infinite).
+
+**Answer:** 9999
+[[src_kangourou_2021_student_semifinale__Q15]]

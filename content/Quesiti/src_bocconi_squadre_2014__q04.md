@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2014 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2014__Q04
 parent: src_bocconi_squadre_2014
 competition: Gara a Squadre 2014
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Radice quadrata del numero 444...44111...11 - 555...55*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $\underbrace{666\,\ldots\,6}_{2006\text{ volte la cifra }6}$ (2006 volte la cifra 6)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The square root of the number 444...44111...11 - 555...55*
+
+> Calculate the square root of the number: $$\underbrace{444\,\ldots\,44}_{\text{2006 volte la cifra }4}\underbrace{111\,\ldots\,11}_{\text{2006 volte la cifra }1} - \underbrace{555\,\ldots\,55}_{\text{2006 volte la cifra }5}$$ (the first addition is $4$ repeated $2006$ times followed by the number $1$ repeated also $2006$ times; the second addition is $5$ repeated $2006$ times).
+
+**Answer:** $\underbrace{666\,\ldots\,6}_{2006\text{ volte la cifra }6}$ (2006 volte la cifra 6)
+[[src_bocconi_squadre_2014__Q04]]

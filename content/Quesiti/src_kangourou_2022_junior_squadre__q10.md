@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Junior Finale 1 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_squadre__Q10
 parent: src_kangourou_2022_junior_squadre
 competition: Kangourou Squadre 2022 Junior Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie di sottoinsiemi disgiunti non vuoti*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0090
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pairs of unbroken disjoint subset *
+
+> Couples Consider the non-empty subsets of a set of 5 elements and any couples of disjoint subsets that can be formed with them. How many different couples are there?
+
+**Answer:** 0090
+[[src_kangourou_2022_junior_squadre__Q10]]

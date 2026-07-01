@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2023 — Non-KV — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2023_nonkv__Q01
 parent: src_rmo_2023_nonkv
 competition: Regional Mathematical Olympiad 2023
@@ -36,6 +37,8 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find largest positive integer m so that abcd divides all (a,b,c,d) in S*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o7iLlUQAhl19zj3fiRO4A18L1eOLmVoI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il più grande intero positivo m in modo che abcd divida tutti (a,b,c,d) in S*
+
+> $\mathbb{N}$ sia l'insieme di tutti gli integri positivi e $S = \{(a, b, c, d) \in \mathbb{N}^4 : a^2 + b^2 + c^2 = d^2\}$. Trova il più grande intero positivo $m$ in modo che $m$ divida $abcd$ per tutti $(a, b, c, d) \in S$.
+
+[[src_rmo_2023_nonkv__Q01]]

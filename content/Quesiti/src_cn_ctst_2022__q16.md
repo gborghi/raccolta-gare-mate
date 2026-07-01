@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2022 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2022__Q16
 parent: src_cn_ctst_2022
 competition: China National Team Selection Test 2022
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangulation of integer-side square with integer-centroid triangles: find all valid side lengths*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolazione di quadrato lato intero con triangoli centroide intero: trovare tutte le lunghezze laterali valide*
+
+> Nel sistema di coordinate rettangolare, esistono finitamente molti triangoli tali che: i loro centriodi sono tutti punti interi (punti reticolari); l'intersezione di due triangoli è vuota, un vertice comune o un bordo comune; e l'unione di tutti i triangoli è un quadrato con lunghezza laterale integrale $k$ (le vertici del quadrato non devono essere punti reticolari, e i lati non devono essere paralleli agli assi). Trovare tutti gli integri positivi $k$ per i quali esiste una tale configurazione.
+
+[[src_cn_ctst_2022__Q16]]

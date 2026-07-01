@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2025 — KV/JNV — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2025_kv__Q01
 parent: src_rmo_2025_kv
 competition: Regional Mathematical Olympiad 2025
@@ -36,6 +37,8 @@ tags:
   - regione/kv
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *System of cyclic product equations in nonneg integers, a_i≠1*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MrMQ5sdyNiJZHOwWDmELMBbGQJwXcICc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sistema di equazioni di prodotto ciclico in numeri interi non negativi, a_i≠1*
+
+> Risolvere il seguente sistema di equazioni in numeri interi non negativi $a_1, a_2, \ldots, a_8$ dove $a_i \neq 1$ per $i = 1, \ldots, 8$: $$a_1 a_2 = a_3 + a_4,$$ $$a_3 a_4 = a_5 + a_6,$$ $$a_5 a_6 = a_7 + a_8,$$ $$a_7 a_8 = a_1 + a_2.$$
+
+[[src_rmo_2025_kv__Q01]]

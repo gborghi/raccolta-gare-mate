@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo31yq_yosen__Q08
 parent: src_jmo31yq_yosen
 competition: Japan Mathematical Olympiad 2021 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 17-tuples with two power towers both 1 mod 17*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $2042\cdot 19^{14}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta 17 doppi con due torri di alimentazione entrambe 1 mod 17*
+
+> Trova il numero di tuppi $(a_1,a_2,\dots,a_{17})$ di numeri interi, ciascuno almeno $2$ e al massimo $20$, in modo tale che $$a_1^{a_2^{\cdot^{\cdot^{a_{17}}}}}\equiv a_2^{a_3^{\cdot^{\cdot^{a_{17}}}}}\equiv 1\pmod{17}.$$ Qui ogni esponente è la torre di potenza formata dai due (e ulteriori) numeri scritti in alto a destra.
+
+**Risposta:** 2042\cdot 19^{14}
+[[src_jmo31yq_yosen__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q15
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto area esagono e triangolo equilatero*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio of hexagon area and equilateral triangle*
+
+![[src_kangourou_2017_junior_marzo__prob15.png]]
+
+> Look at the figure. From the middle point on each side of an equilateral triangle the two perpendiculars to the opposite sides are drawn, thus identifying a regular hexagon. What is the relationship between the area of the hexagon and the area of the equilateral triangle? A) 1 / 3 B) 2 / 5 C) 4 / 9 D) 1 / 2 E) 2 / 3
+
+**Answer:** D
+[[src_kangourou_2017_junior_marzo__Q15]]

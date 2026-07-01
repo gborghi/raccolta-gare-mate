@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2013 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2013__Q06
 parent: src_inmo_2013
 competition: Indian National Mathematical Olympiad 2013
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive reals a,b,c,x,y,z; a+b+c=x+y+z=xyz; prove a=x,b=y,c=z*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gmbaqp-kDcxUyvAlPf7W-ahq0MnrHajW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Reali positivi a,b,c,x,y,z; a+b+c=x+y+z=xyz; dimostrare a=x,b=y,c=z*
+
+> $a, b, c, x, y, z$ siano numeri reali positivi come $a + b + c = x + y + z = xyz$. Inoltre, supponiamo che $a \le x < y \le b < c \le z$ e $a < b < c$. Prove che $a = x$, $b = y$ e $c = z$.
+
+[[src_inmo_2013__Q06]]

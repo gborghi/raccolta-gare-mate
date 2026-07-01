@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2013 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2013__Q02
 parent: src_cn_cgmo_2013
 competition: China Girls' Mathematical Olympiad 2013
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trapezoid with two inscribed circles, prove three lines concurrent*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Trapezoide con due cerchi incisi, dimostrare tre linee simultanee< MSK1/>
+
+> Come mostrato nella figura. 2.1, in un trapezoide $ABCD$, $AB \parallel CD$, $\odot O_1$ è tangente ai segmenti $DA$, $AB$, $BC$, $\odot O_2$ è tangente ai segmenti $BC$, $CD$, $DA$. Il $P$ è il punto tangente di $\odot O_1$ con $AB$ e $Q$ è il punto tangente di $\odot O_2$ con $CD$. Provare che < MSK16/>, < MSK17/>, < MSK18/> sono simultanei.
+
+![[src_cn_cgmo_b11_w225__Q02.png]]
+
+[[src_cn_cgmo_2013__Q02]]

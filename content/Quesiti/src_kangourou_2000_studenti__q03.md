@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q03
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Maggiore di 5 consecutivi con somma 2000*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*More than 5 consecutive years with sum of 2000*
+
+> The sum of five consecutive numbers is 2000. The largest of these numbers is: A) 490 B) 475 C) 471 D) 423 E) 402
+
+**Answer:** E
+[[src_kangourou_2000_studenti__Q03]]

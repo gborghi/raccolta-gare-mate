@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q22
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Indovinare professioni dei tre amici*
 
@@ -65,3 +68,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Guessing the professions of the three friends*
+
+> A doctor, an engineer and a musician are friends. Their names, not necessarily in order, are: George, Mark, and Nicholas. The doctor has no sisters or even brothers and is the youngest of the three. Nicola is older than the engineer and is married to George's sister. What are the names of the doctor, engineer and musician? The Commission has decided to extend the scope of this Regulation to the following areas:
+> 
+> I'm going to pay. I'm going to pay. 14 14 Kang 2008 Kang 2008 A) George, Mark, Nicholas B) Nicholas, George, Mark C) Marcus, George, Nicholas D) Marcus, Nicholas, George E) George, Nicholas, Mark 23.Here next to you is a chessboard: you must visit each box without ever going back from a previously visited one, but you can only move horizontally or vertically, not diagonally. Where can you start? A) Only from the central box. B) Only from a box to the top. C) From a white box. D) From any grey box. E) From any box.
+
+**Answer:** C
+[[src_kangourou_2008_benjamin_marzo__Q22]]

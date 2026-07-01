@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 finale nazionale Student — Quesito S3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_finale_student__QS3
 parent: src_kangourou_2015_finale_student
 competition: Kangourou 2015 finale nazionale Student
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di realizzare N+1 kang > modi per N kang*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** dimostrazione
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Z_cR8nCAXBpRsQKgwOr6WJi09KR66jxC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode of making N+1 kang >Mode for N kang*
+
+> In Kangland, the currency in use is the kang and there are only $1$, $2$ or $3$ kang coins. Obviously, with coins like these, you can make any amount of an integer kang. It shows that, for each positive integer $N$, the different possible ways to realize the amount of $N+1$ kang are in strictly higher numbers than the different possible ways to realize the amount of $N$ kang.
+> 
+> Note: to obtain, for example, $4$ kang, the $1+1+2$ mode must be considered the same as the $1+2+1$ mode (but not the $2+2$ mode).
+
+**Answer:** dimostrazione
+[[src_kangourou_2015_finale_student__QS3]]

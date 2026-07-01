@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q06
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum minutes to join ten three-link chains into a single 30-link chain*
 
@@ -53,3 +56,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di minuti per unire dieci catene a tre connessioni in una singola catena a 30 connessioni*
+
+> Un serratore ha $10$ pezzi di catena di $3$ collegamenti ciascuno, mostrati di seguito. Vuole fare una singola catena di collegamenti MSK2/. Per aprire e quindi saldare un collegamento il serratore richiede < MSK3/> minuti. Quanti minuti ci vorrà almeno per fare la catena?
+> 
+> (A) $30$ \quad (B) $35$ \quad (C) $40$ \quad (D) $45$ \quad (E) $50$
+
+![[src_obm_2001_n2_f1__Q06.png]]
+
+**Risposta:** B
+[[src_obm_2001_n2_f1__Q06]]

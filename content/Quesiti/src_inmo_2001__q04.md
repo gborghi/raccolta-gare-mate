@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2001 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2001__Q04
 parent: src_inmo_2001
 competition: Indian National Mathematical Olympiad 2001
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *From nine integers choose four with a+b-c-d divisible by 20; eight integers insufficient*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Van8ZbsC23pGnfRdmefmg28k68xgx-NG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Da nove numeri interi scegliete quattro con a+b-c-d divisibile per 20; otto numeri interi insufficienti*
+
+> Date nove numeri interi, mostrare che è possibile scegliere, tra loro, quattro numeri interi $a, b, c, d$ in modo tale che $a + b - c - d$ sia divisibile da $20$. Inoltre mostrano che una tale selezione non è possibile se iniziamo con otto numeri interi invece di nove.
+
+[[src_inmo_2001__Q04]]

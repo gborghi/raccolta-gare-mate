@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q03
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -33,6 +34,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers n ≤ 100 with no prime factor other than 2 or 3*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi positivi n ≤ 100 senza fattore primo diverso da 2 o 3*
+
+> Trova il numero di integri positivi $n$ inferiore o uguale a 100 in modo tale che $n$ non sia divisibile da nessun numero primo diverso da 2 o 3.
+
+[[src_ioqm_2025_sep28__Q03]]

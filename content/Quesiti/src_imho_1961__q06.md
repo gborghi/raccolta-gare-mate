@@ -1,6 +1,7 @@
 ---
 title: IMO 1961 (III International Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1961__Q06
 parent: src_imho_1961
 competition: IMO 1961 (III International Olympiad)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Luogo del baricentro G dei medi al variare di A',B',C'*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/19oKHAdph4sJuaxtpEyXIRuF3vBNV2I4p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Place of the G-barycentre of the media at A',B',C'*
+
+> Consider a plane $\varepsilon$ and three non-collinear points $A$, $B$, $C$ on the same side of $\varepsilon$; assume the plane determined by these three points is not parallel to $\varepsilon$. In plane $\varepsilon$ take three arbitrary points $A'$, $B'$, $C'$. Let $L$, $M$, $N$ be the midpoints of segments $AA'$, $BB'$, $CC'$; let $G$ be the centroid of triangle $LMN$. (We will not consider positions of the points $A'$, $B'$, $C'$ such that the points $L$, $M$, $N$ do not form a triangle.)
+
+[[src_imho_1961__Q06]]

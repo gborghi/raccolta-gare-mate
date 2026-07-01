@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2004 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2004__Q05
 parent: src_cn_cwmo_2004
 competition: China Western Mathematical Olympiad 2004
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find a_{2004} for the recurrence a_{n+2}=(a_n+1)/a_{n+1} with a_1=a_2=1*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova a_{2004} per la ricorrenza a_{n+2}=(a_n+1)/a_{n+1} con a_1=a_2=1*
+
+> La sequenza $\{a_n\}$ soddisfa $a_1 = a_2 = 1$ e $a_{n+2} = \dfrac{a_n + 1}{a_{n+1}}$, $n = 1, 2, \ldots$. Trova < MSK4/>.
+
+[[src_cn_cwmo_2004__Q05]]

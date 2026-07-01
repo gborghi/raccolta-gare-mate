@@ -1,6 +1,7 @@
 ---
 title: IMO 1959 (I International Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1959__Q06
 parent: src_imho_1959
 competition: IMO 1959 (I International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Costruire trapezio isoscele circoscrittibile tra due piani*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ihObuxTMxHEVmwyJ8gW9FigcAcTqfGob/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Build a circular isosceles trapezoid between two planes*
+
+> Two planes, $P$ and $Q$, intersect along the straight $p$. The point $A$ is given in the plane $P$ and the point $C$ in the plane $Q$; neither of these points lies on the straight $p$. Build an isosceles trapezoid $ABCD$ (with $AB$ parallel to $CD$) into which a circle can be inscribed, with the vertices $B$ and $D$ lying in the planes $P$ and $Q$ respectively.
+
+[[src_imho_1959__Q06]]

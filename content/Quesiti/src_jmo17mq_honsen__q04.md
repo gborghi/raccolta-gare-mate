@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2007 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo17mq_honsen__Q04
 parent: src_jmo17mq_honsen
 competition: Japan Mathematical Olympiad 2007 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Band of width sqrt(2) covering four given points in the plane*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17fIqEqlKYYACz4yck5j653JkI5UjCss0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Band di larghezza sqrt(2) che copre quattro punti del piano*
+
+> Nel piano, definire l'insieme di tutti i punti la cui distanza da una data linea è al massimo $\frac{d}{2}$ una "banda di larghezza $d$". Se i punti $A$, $B$, $C$, $D$ sono quattro punti del piano. Supponiamo che per qualsiasi scelta di tre di questi quattro punti, esista una fascia di larghezza $1$ che contiene tutti e tre. Prove che esiste una banda di larghezza $\sqrt{2}$ che contiene tutti e quattro i punti.
+
+[[src_jmo17mq_honsen__Q04]]

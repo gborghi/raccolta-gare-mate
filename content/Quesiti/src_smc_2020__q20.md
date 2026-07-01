@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2020 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2020__Q20
 parent: src_smc_2020
 competition: Senior Mathematical Challenge 2020
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find 5^(x+y) given two exponential equations in x and y*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca 5^(x+y) dato due equazioni esponenziali in x e y*
+
+> I numeri reali $x$ e $y$ soddisfano le equazioni $4^y = \dfrac{1}{8(\sqrt{2})^{x+2}}$ e $9^x \times 3^y = 3\sqrt{3}$. Qual è il valore di < MSK4/>?
+>
+> - **(A)** $5\sqrt{5}$
+> - **(B)** $5$
+> - **(C)** $\sqrt{5}$
+> - **(D)** $\dfrac{1}{5}$
+> - **(E)** $\dfrac{1}{\sqrt{5}}$
+
+**Risposta:** E
+[[src_smc_2020__Q20]]

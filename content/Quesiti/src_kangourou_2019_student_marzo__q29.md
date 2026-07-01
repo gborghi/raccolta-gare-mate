@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q29
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che uno dei tre sia media degli altri due*
 
@@ -55,3 +58,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of one of the three being the average of the other two< MSK1/>
+
+> In the set {1, 2, 3, ..., 10} three numbers are chosen at random, two to two distinct. What is the probability that one of them is the arithmetic mean of the other two? A) 1/10 B) 1/6
+> 	
+> C) 1/4 D) 1/3 E) 1/2 A B C D E F 5 1 2
+>
+
+**Answer:** B
+[[src_kangourou_2019_student_marzo__Q29]]

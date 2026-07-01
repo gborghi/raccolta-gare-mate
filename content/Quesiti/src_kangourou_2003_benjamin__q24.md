@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q24
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Draghi rossi nel fossato*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Red dragons in the trench
+
+> In a ditch there are completely red dragons and completely green dragons. Each red dragon has six heads, eight legs and two tails. Every green dragon has eight heads, six legs and four tails. Of all the dragons, there are 44 tails. The number of green legs is 6 less than the number of red heads. How many red dragons are in that ditch? A) 6 B) 7 C) 8 D) 9 E) 10
+
+**Answer:** C
+[[src_kangourou_2003_benjamin__Q24]]

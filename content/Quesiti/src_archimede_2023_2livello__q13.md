@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_2livello__Q13
 parent: src_archimede_2023_2livello
 competition: Archimede Gara di Febbraio 2023 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soggiorno rettangolare, presa a distanza 5m, area massima*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 25
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular living room, taken from a distance of 5m, maximum area*
+
+> Philip's living room is rectangular. Filippo noted that if he attaches the vacuum cleaner to the socket near the entrance door he can clean the entire floor: this means that all the floor points are less than 5m away from the wall where the socket is located. What is the maximum value of the living area (in m2)?
+
+**Answer:** 25
+[[src_archimede_2023_2livello__Q13]]

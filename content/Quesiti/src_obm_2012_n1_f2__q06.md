@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f2__Q06
 parent: src_obm_2012_n1_f2
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count girls at Esmeralda school after 10%/20% enrollment increase*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GopwL_0fgb7iEbs-bG1HNdfWHmDyf8B2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Contare le ragazze alla scuola di Esmeralda dopo un aumento dell'iscrizione del 10%/20%< MSK1/>
+
+> Nella scuola di Esmeralda, quest'anno il numero di ragazzi è aumentato di < MSK0/> e il numero di ragazze è aumentato di < MSK1/> rispetto all'anno scorso. Attualmente ci sono studenti < MSK2/>, esattamente < MSK3/> in più rispetto all'anno scorso. Quante ragazze ci sono a scuola?
+
+[[src_obm_2012_n1_f2__Q06]]

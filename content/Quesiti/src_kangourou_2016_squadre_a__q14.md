@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2016 Semifinale A — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_a__Q14
 parent: src_kangourou_2016_squadre_a
 competition: Kangourou Coppa Squadre 2016 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma celle ombreggiate nella griglia magica 1-9*
 
@@ -56,3 +59,29 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 22
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of shaded cells in the magic grid 1-9*
+
+![[src_kangourou_2016_squadre_a__prob14.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.0]
+  \fill[gray!40] (0,2) rectangle (1,3);
+  \fill[gray!40] (1,2) rectangle (2,3);
+  \fill[gray!40] (0,0) rectangle (1,1);
+  \fill[gray!40] (1,0) rectangle (2,1);
+  \draw (0,0) grid (3,3);
+  \node at (2.5,1.5) {7};
+\end{tikzpicture}
+\end{document}
+```
+
+> The grid You want to insert the numbers 1, 2, 3, 4, 5, 6, 8, 9 into the still empty cells of the grid in the figure so that you always get the same number whether you add the numbers in a column or add those in a row. How much is the sum of the numbers in the shaded cells?
+
+**Answer:** 22
+[[src_kangourou_2016_squadre_a__Q14]]

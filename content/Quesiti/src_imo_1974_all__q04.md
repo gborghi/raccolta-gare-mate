@@ -1,6 +1,7 @@
 ---
 title: IMO 1974 (Sixteenth International Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1974_all__Q04
 parent: src_imo_1974_all
 competition: IMO 1974 (Sixteenth International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max rectangles partitioning chessboard with balanced colors*
 
@@ -42,3 +45,19 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Max rectangles partitioning chessboard with balanced colors*
+
+> Decompositions of a $8 \times 8$ chessboard into $p$ non-overlapping rectangles shall be considered subject to the following conditions:
+> 
+> (i) Each rectangle has as many white squares as black squares.
+> 
+> (ii) If $a_i$ is the number of white squares in the $i$-eighth rectangle, then $a_1 < a_2 < \cdots < a_p$.
+> 
+> Find the maximum value of $p$ for which such decomposition is possible. For this value of $p$, determine all possible successions $a_1, a_2, \ldots, a_p$.
+
+[[src_imo_1974_all__Q04]]

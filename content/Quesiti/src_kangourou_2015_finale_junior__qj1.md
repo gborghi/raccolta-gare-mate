@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 finale nazionale Junior — Quesito J1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_finale_junior__QJ1
 parent: src_kangourou_2015_finale_junior
 competition: Kangourou 2015 finale nazionale Junior
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *condizioni per incrocio treni*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** max 13 carrozze
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ylw9Axt3o-px4Hc7cLKCrBJqpxAwiuVv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*train crossing conditions*
+
+![[src_kangourou_2015_finale_junior__probJ1.png]]
+
+> Kang is a station on a single track line. In the figure, you can see the Kang track pattern, each of which has a length: the running track is the top track, while the bottom track starts and ends with two "dead" logs. All trains running on the line are made up of a locomotive, which is at the head, and some carriages: the length of each locomotive and carriage is 19 meters. What are the least restrictive conditions to be imposed on the composition of two trains in order to cross at Kang? Please note that all types of maneuvers (especially trains may retrograde) and signalling compatible with the station layout are allowed, including the breaking of trains into carriage groups. (see figure)
+
+**Answer:** max 13 carrozze
+[[src_kangourou_2015_finale_junior__QJ1]]

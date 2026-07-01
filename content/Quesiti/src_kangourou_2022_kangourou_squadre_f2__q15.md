@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre_f2__Q15
 parent: src_kangourou_2022_kangourou_squadre_f2
 competition: Kangourou Squadre 2022 Kangourou Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minore di 5 consecutivi, uno per 10, somma 10000*
 
@@ -94,3 +97,35 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0711
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Less than 5 consecutive, one for 10, sum of 10000*
+
+> The smallest number. I wrote 5 consecutive natural numbers, then I multiplied one by 10 and then, modified, I added it to the other 4, and I got 10,000. What is the smallest of the first five numbers?
+>  
+> 3.626 4.662 6.290 A D F G H and C B No column No row
+>  
+> 1 2 3 4 5 … 1 1 2 6 7 … 2 3 5 8 …
+>  
+>  
+> 3 4 9 …
+>  
+>  
+>  
+> 4 10 …
+>  
+>  
+>  
+>  
+> 5 … …
+> 
+> 3
+>  
+>  
+> Questions and solutions
+
+**Answer:** 0711
+[[src_kangourou_2022_kangourou_squadre_f2__Q15]]

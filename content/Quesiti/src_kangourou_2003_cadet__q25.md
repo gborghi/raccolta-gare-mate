@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Cadet (20 marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet__Q25
 parent: src_kangourou_2003_cadet
 competition: Kangourou 2003 Cadet (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale conclusione sui libri puo essere falsa*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1eygrPRLv8IqHr90bPrLsox-FA6V93kRL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What conclusions about books can be false*
+
+> All 50 books on a bookshelf in a library are mathematics or physics. We know that there are no two physics books next to each other, and that every math book has another math book next to it. Which of these conclusions can be false? A) There are three consecutive mathematics books, that is, not interspersed with physics books. B) The number of mathematics books is at least 32. (c) The number of physics books is not more than 17. D) If the number of physics books is 17, then one of them is in the first or last place on the shelf. E) I took nine books in a row, at least six of which are mathematical.
+
+**Answer:** A
+[[src_kangourou_2003_cadet__Q25]]

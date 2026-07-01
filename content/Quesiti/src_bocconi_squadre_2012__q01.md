@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2012 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2012__Q01
 parent: src_bocconi_squadre_2012
 competition: Gara a Squadre 2012
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordine di arrivo corsa campestre*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** FAUSTA, ANNA, CARLA, DEBORA, MILENA
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Order of arrival for the rural race*
+
+> Carla, Milena, Anna, Fausta, and Debora took part in their class' country race. Carla and Anna didn't win. Milena is the last one. Anna, on the other hand, is in the top two. Carla got here right before Deborah.
+> 
+> Write down the arrival order of the country race.
+
+**Answer:** FAUSTA, ANNA, CARLA, DEBORA, MILENA
+[[src_bocconi_squadre_2012__Q01]]

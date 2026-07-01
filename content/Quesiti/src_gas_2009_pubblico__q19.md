@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_pubblico__Q19
 parent: src_gas_2009_pubblico
 competition: Gara a Squadre 2009 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultimo numero triangolo di somme di quadrati*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4574
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last number of triangles of sums of squares*
+
+> The book gives the numbers [75] To decorate the book that recounts his adventures, Bobo decided to write on the first line of the last page the numbers 1,22,32,...,20092. Moving to the bottom line, below each pair of numbers in the top line he writes their sum, then moves to the next line proceeding the same way and continues that way until he gets a single number. What's the last number? (If the required quantity is an integer n = pa1 1 ... pak k, with p1,..., pk prime distinct, giving the resulting number p1a1 +··+ pkak.)
+
+**Answer:** 4574
+[[src_gas_2009_pubblico__Q19]]

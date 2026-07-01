@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q12
 parent: src_kangourou_2018_cadet_semifinale
 competition: Kangourou 2018 Cadet - Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo mele per cesti uguali dopo baratti*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0023
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kVLsfgriHzHWeJPk7c69FlUrtxeTTMzS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum apples for equal baskets after barley< MSK1/>
+
+> The following rule applies: 4 apples are worth 3 oranges or 2 bananas. Of course, the fruit cannot be broken. Anna has only apples and wants to give each of her five friends the same gift: a basket containing the same number of apples, oranges and bananas (at least one fruit per type). What is the minimum number of apples that, after proper market trading, allows you to carry out your plan?
+
+**Answer:** 0023
+[[src_kangourou_2018_cadet_semifinale__Q12]]

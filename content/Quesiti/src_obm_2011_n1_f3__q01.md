@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f3__Q01
 parent: src_obm_2011_n1_f3
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Erase even numbers from 1 to 2011; count remaining and count those written only with digits 0 and 1.*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GU1DCqwGiQ-ufXg0UgJf2hRpS3A6ZEuR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sbarazzare i numeri pari da 1 a 2011; contare i restanti e contare quelli scritti solo con i numeri 0 e 1.*
+
+> Esmeralda scrisse sulla lavagna la sequenza di tutti gli enti da $1$ a $2011$. Poi ha cancellato tutti i numeri pari della lista.
+> 
+> a) Quanti numeri sono rimasti?
+> 
+> b) Tra i numeri rimanenti, quanti sono stati scritti utilizzando solo i numeri $0$ e $1$?
+
+[[src_obm_2011_n1_f3__Q01]]

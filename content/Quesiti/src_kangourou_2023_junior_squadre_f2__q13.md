@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Junior Finale 2 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_squadre_f2__Q13
 parent: src_kangourou_2023_junior_squadre_f2
 competition: Kangourou Squadre 2023 Junior Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorsi minimi pedina su scacchiera 8x8*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3432
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum footpaths on a 8x8 chessboard< MSK1/>
+
+> A pawn is placed in the first upper left-hand box of a chessboard 8 < MSK0/> 8 (box (1, 1)) and must reach the last lower right-hand box of the chessboard (box (8, 8)). Each move involves moving the pedal from each box in which it is in an adjacent box, that is, sharing a side with it. How many different routes require as few moves as possible?
+
+**Answer:** 3432
+[[src_kangourou_2023_junior_squadre_f2__Q13]]

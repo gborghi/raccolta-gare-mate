@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f3__Q05
 parent: src_obm_2016_n1_f3
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3
@@ -40,6 +41,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Polynomial sequence from recurrence; prove negative value for all n, then count such integers*
 
@@ -54,3 +57,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FTPhBzZbiZWvXsDRSCaClgLp-YMTQevY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza polinomica da ricorrenza; dimostrare valore negativo per tutte le n, quindi contare tali interi*
+
+> Considera il polinomio $P_1(x) = 4x^2 + 12x - 3015$ di grado-$2$. Definire la sequenza dei polinomi per $P_{n+1}(x) = \frac{P_n(x)^2}{2016}$ per ogni intero $n \ge 1$.
+> 
+> a) Prove che esiste un numero reale $r$ tale da $P_n(r) < 0$ per ogni intero positivo $n$.
+> 
+> b) Determinare il numero di integri $m$ tale che $P_n(m) < 0$ per infiniti integri positivi $n$.
+
+[[src_obm_2016_n1_f3__Q05]]

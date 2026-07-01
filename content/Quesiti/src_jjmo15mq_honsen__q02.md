@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2017 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo15mq_honsen__Q02
 parent: src_jjmo15mq_honsen
 competition: Japan Junior Mathematical Olympiad 2017 — Honsen (Final)
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integers on blackboard closed under pairwise sums; find max value expressible as sum of two*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ho2le-gwPvbBiq_sWgDwI8cp--nm23DX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integrazioni su tavolo nero chiuse in coppie; trovare valore massimo espressibile come somma di due*
+
+> Diversi numeri interi distinti non negativi sono scritti su una lavagna, e la somma di due numeri distinti sulla lavagna appare anche sulla lavagna. Tra tutti i numeri della lavagna, $n$ è il valore più grande che può essere espresso come la somma di due numeri distinti sulla lavagna. Trova il valore massimo possibile di $n$, dato che $n$ è un intero non negativo che non può essere espresso nella forma $2^k$ per qualsiasi intero non negativo $k$.
+
+[[src_jjmo15mq_honsen__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2013 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_classiprime__Q06
 parent: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti unicorni da teste/gambe/corna*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*how many unicorns from head/leg/horn*
+
+> In a enclosure there are ostriches, bulls and unicorns ( unicorns are animals with 4 legs and only one horn on the head). We know that there are 100 heads, 364 legs and 141 horns. How many unicorns are there? A 23 B 31 C 29 D 45 E 19 F There is not enough data to establish this
+
+**Answer:** A
+[[src_archimede_2013_classiprime__Q06]]

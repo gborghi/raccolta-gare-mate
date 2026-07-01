@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r2__Q04
 parent: src_rmo_2013_r2
 competition: Regional Mathematical Olympiad 2013
@@ -33,6 +34,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Kite triangle with 90-degree angle, angle bisector property*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uqSSojdtAvGG1PLqgEhOlUA-N31qYiRK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo di kit con angolo di 90 gradi, proprietà del bisettore angolare*
+
+> Il $ABC$ deve essere un triangolo con $\angle A = 90^\circ$ e $AB = AC$. Il punto $D$ e il punto $E$ devono essere punti del segmento $BC$ in modo tale che $BD : DE : EC = 1 : 2 : \sqrt{3}$. Dimostra che $\angle DAE = 45^\circ$.
+
+[[src_rmo_2013_r2__Q04]]

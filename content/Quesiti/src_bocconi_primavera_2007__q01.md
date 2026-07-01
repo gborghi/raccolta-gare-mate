@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2007 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2007__Q01
 parent: src_bocconi_primavera_2007
 competition: Semifinale di Primavera 2007
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Figurine: quante ne ha vinto ogni ragazzo?*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Anna 2, Jacob 6, Luca 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Figures: How many boys have each won?
+
+> Anna, Jacob, and Luke play with the figurines, challenging their classmates. By the end of the race, they'd won 20 pieces together. Luke won twice as much as Jacob and Anna won less than Jacob.
+> 
+> How many cards did each boy win?
+
+**Answer:** Anna 2, Jacob 6, Luca 12
+[[src_bocconi_primavera_2007__Q01]]

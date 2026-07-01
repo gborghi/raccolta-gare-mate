@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - gara marzo — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier__Q13
 parent: src_kangourou_2021_ecolier
 competition: Kangourou 2021 Ecolier - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato finale combinando i gettoni con frecce*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Final result by combining arrow tokens *
+
+![[src_kangourou_2021_ecolier__prob13.png]]
+
+> Look at the figure: in each of the five tokens there's a number overlaid by an arrow. If the arrows in two adjacent tokens have opposite sides, we replace these two tokens with a new token where the number is the sum of the two numbers and the arrow is oriented as it was on the larger number, as shown in this example. If we follow this rule, what is the end result? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** C
+[[src_kangourou_2021_ecolier__Q13]]

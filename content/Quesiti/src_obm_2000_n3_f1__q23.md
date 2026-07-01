@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q23
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Average speed over a 60 km trip with a slow traffic-jam stretch*
 
@@ -52,3 +55,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Velocità media su un viaggio di 60 km con un tratto lento di traffico *
+
+> Itacimirim è una città sulla costa di Coco, situata a 60 km da Salvador. Di questi, a 15 km da Salvador, c'è un incidente che causa un ingorghio. Nella restante parte dell'autostrada la velocità è di 60 km/h, ad eccezione della zona di jam, dove la velocità è di 6 km/h. Qual è la velocità media, in km/h?
+>
+> - **(A)** 10h47min
+> - **(B)** 10h17min
+> - **(C)** 9h00min
+> - **(D)** 10h53min
+> - **(E)** 11h01min
+
+**Risposta:** A
+[[src_obm_2000_n3_f1__Q23]]

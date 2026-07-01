@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2012 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2012__Q13
 parent: src_bocconi_semifinale_2012
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2012
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Superficie minima del quadrato dato il triangolo grigio sui punti medi con lati di misura intera.*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 20
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum area of the square given the grey triangle on the midpoints with full-size sides.*
+
+> Triangles and squares
+> 
+> The black points in the figure are located in the middle points on two consecutive sides of the square. It is also known that the dimensions of the sides of the grey triangle are expressed by an integer number of centimeters.
+> 
+> What is the minimum area of the square (in cm$^2$)?
+
+![[src_bocconi_semifinale_2012__Q13.png]]
+
+**Answer:** 20
+[[src_bocconi_semifinale_2012__Q13]]

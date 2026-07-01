@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q02
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato del quadrato con perimetro uguale al triangolo*
 
@@ -41,3 +44,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Side of the square with perimeter equal to the triangle*
+
+> The perimeter of a square coincides with that of an equilateral triangle on side 12. How big is the side of the square? A) 9
+>   
+> B) 12
+>   
+> C) 16
+
+**Answer:** A
+[[src_kangourou_2022_junior_gara__Q02]]

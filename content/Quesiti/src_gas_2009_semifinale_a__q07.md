@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale A — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_a__Q07
 parent: src_gas_2009_semifinale_a
 competition: Gara a Squadre 2009 - Semifinale A
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime 4 cifre numeratore frazione minima con ab=43!*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1331
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Wx24coOZuHD5lnXnMkNRwAuUmiEDrRDK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last 4 digits minimum fraction number with ab=43!*
+
+> Gobbit games Morry bets with Polino that the latter will fail to find the last 4 digits of the numerator of the smallest rational number of the form a/b (reduced to minimum terms) with ab = 43! And so b is not a multiple of 143. What number will Polino have to guess to win the bet? Team competition 2009  Semifinal A  Problem texts  Pag. 1 di 2
+> 
+> I'm going to pay. 2 out of 2  Team competition 2009  Semifinal A  Problem texts
+
+**Answer:** 1331
+[[src_gas_2009_semifinale_a__Q07]]

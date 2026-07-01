@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Ecolier (marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q15
 parent: src_kangourou_2007_ecolier_marzo
 competition: Kangourou 2007 Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti sedili nella giostra*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many seats in the gauge*
+
+> The seats of a wheelchair are equipspaced (i.e. the distance of a seat from the one following it is always the same) and numbered in order 1, 2, 3, ... . In this procession Peter is seated on seat number 11, exactly on the other side of Mary occupying seat number 4. How many seats are there on that ride? A) 13 B) 14 C) 16 D) 17 E) 22
+
+**Answer:** B
+[[src_kangourou_2007_ecolier_marzo__Q15]]

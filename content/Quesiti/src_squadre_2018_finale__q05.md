@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q05
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cammini di robot con passi diritti e diagonali fino all'ingresso*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8989
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Robot paths with straight and diagonal steps to the input*
+
+> The robot Beuler, again, has been drinking a little too much. It is located in front of the huge wall of the robo-apartment complex in which he lives, twelve metres away from it. With each of its long steps, the robot can move in three different directions: either two meters straight toward the wall perpendicular to it, or one meter straight toward the wall and at the same time one to the right or left. With Team Race 3018  National Finals  Problem Tests  1/3
+> 
+> Six straight steps would reach the entrance, for example, or with two steps to the left, four straight, and then two right. How many possible routes lead to the entrance?
+
+**Answer:** 8989
+[[src_squadre_2018_finale__Q05]]

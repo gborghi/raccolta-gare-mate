@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q11
 parent: src_kangourou_2017_squadre_a
 competition: Kangourou Coppa Squadre 2017 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Libri ricevuti da B e D tra quattro scuole*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3435
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Books received from B and D between four schools*
+
+> Books Four schools have received a total of 144 books as gifts. In absolute terms, the difference between  the number of books received from school A and those received from school B is 4  the number of books received from school B and those received from school C is 3  the number of books received from school C and those received from school D is 2 How many books did school B and school D receive? (Read the number of books received by B further to the left).
+
+**Answer:** 3435
+[[src_kangourou_2017_squadre_a__Q11]]

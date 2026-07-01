@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q23
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest n for Cauchy-Schwarz-type inequality with denominators b/29+c/31 etc.*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 14
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La più grande n per le disuguaglianze di tipo Cauchy-Schwarz con i denominatori b/29+c/31 ecc..*
+
+> Qual è il numero intero positivo più grande $n$ tale che $$\frac{a^2}{\dfrac{b}{29}+\dfrac{c}{31}} + \frac{b^2}{\dfrac{c}{29}+\dfrac{a}{31}} + \frac{c^2}{\dfrac{a}{29}+\dfrac{b}{31}} \ge n(a+b+c)$$ tenga per tutti i numeri reali positivi $a, b, c$?
+
+**Risposta:** 14
+[[src_prmo_2018__Q23]]

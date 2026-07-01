@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2003 - Biennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_biennio__Q16
 parent: src_archimede_2003_biennio
 competition: Giochi di Archimede 2003 - Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quando vale p+(qr)=(p+q)(p+r)*
 
@@ -40,3 +43,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+If the value of the input data is p+(qr) = ((p+q)
+
+> If p, q, r are three real numbers, p × (q + r) = (p × q) + (p × r) is always true. In which cases is p + (q < MSK3/> r) = (p + q) < MSK4/> (p + r)?
+>
+> - **(A)** If and only if p = q = r = 1 3 or p = 0
+> - **(B)** if and only if p = q = r
+> - **(C)** Never
+> - **(D)** if and only if p + q + r = 1 or p = 0
+> - **(E)** if and only if p = q = r = 0.
+
+[[src_archimede_2003_biennio__Q16]]

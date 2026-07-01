@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo22yqa_yosen__Q06
 parent: src_jjmo22yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 6-tuples of positive integers with gcd 1 such that six specified ratios are all integers*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 15876
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MpOoffmNfAlSJnrNvYxGLF27kPgwbEmW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare 6 doppi di numeri interi positivi con gcd 1 in modo tale che sei rapporti specificati siano tutti numeri interi*
+
+> Trova il numero di 6 doppi $(a_1, a_2, a_3, a_4, a_5, a_6)$ di numeri interi positivi con $\gcd(a_1, a_2, a_3, a_4, a_5, a_6) = 1$ in modo tale che tutte le sei quantità $$\frac{a_1}{a_2},\quad \frac{2a_2}{a_3},\quad \frac{3a_3}{a_4},\quad \frac{4a_4}{a_5},\quad \frac{5a_5}{a_6},\quad \frac{6a_6}{a_1}$$ siano numeri interi.
+
+**Risposta:** 15876
+[[src_jjmo22yqa_yosen__Q06]]

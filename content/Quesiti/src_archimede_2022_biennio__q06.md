@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2022 - Gara Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_biennio__Q06
 parent: src_archimede_2022_biennio
 competition: Giochi di Archimede 2022 - Gara Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima somma di due numeri con mcm uguale a 240*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Daq06A5cNKvPAO0E8Ym-xGnc7AcmRZ_w/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of two numbers with mcm equal to 240*
+
+> Knowing that the least common multiple between two natural numbers is equal to 240, what is the smallest possible value of their sum?
+>
+> - **(A)** 34
+> - **(B)** 32
+> - **(C)** 31
+> - **(D)** 30
+> - **(E)** 38
+
+**Answer:** C
+[[src_archimede_2022_biennio__Q06]]

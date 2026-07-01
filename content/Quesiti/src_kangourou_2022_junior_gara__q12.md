@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q12
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti percorsi della formica da X a Y tra esagoni*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of paths of the ant from X to Y between hexagons*
+
+![[src_kangourou_2022_junior_gara__prob12.png]]
+
+> Look at the figure. An ant leaves the axis indicated by X to reach the axis indicated by Y. On the route he must visit an X and only once every other hexagon and can leave a hexagon only to take himself to an adjacent one (i.e. one side in common with it). How many routes are there? A) 2
+>   
+> B) 3
+>   
+> C) 4 D) 5
+>   
+> E) 6
+
+**Answer:** D
+[[src_kangourou_2022_junior_gara__Q12]]

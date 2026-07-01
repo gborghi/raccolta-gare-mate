@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q23
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore somma f(2)/f(1)+...+f(2021)/f(2020) con f moltiplicativa*
 
@@ -96,3 +99,17 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total value of the product (s) of the product concerned.
+
+> The function f is such that for every x, y, f (x + y) = f (x) ∙ f (y); also f (1) = 2. What is the value of + + ... +                   ? A) B) 2 C) 22021 – 1 D) 2020
+>      
+> E) None of the other answers are correct. x y x y 1 1 x y 1 1 x y 1 1 x y 1 1 x y 1 1 O 1 2 3 4 5 –1 –2 –3 –4 –5 1 2 3 4 5 –1 –2 –3 f (2) -------- f (1) f (3) -------- f (2) f (2021) -------------- f (2020) 1---- 2
+>
+
+**Answer:** E
+[[src_kangourou_2021_student_gara__Q23]]

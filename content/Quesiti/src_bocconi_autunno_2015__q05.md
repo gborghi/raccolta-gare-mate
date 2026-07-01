@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2015 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2015__Q05
 parent: src_bocconi_autunno_2015
 competition: Giochi d'Autunno 2015
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre della seconda riga della griglia quadrata*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6, 8, 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eK88JMTv896JXMMmFL1S8lYcD_i95Nzi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of the second row of the square grid*
+
+> The mystery of the square grid. The six white boxes must be completed with different digits, so that the sum indicated is correct and that in each column, from top to bottom, the grid numbers are written from smallest to largest. In particular, write the numbers in the second line.
+
+![[src_bocconi_autunno_2015__Q05.png]]
+
+**Answer:** 6, 8, 2
+[[src_bocconi_autunno_2015__Q05]]

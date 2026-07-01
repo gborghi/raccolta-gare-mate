@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Junior finale nazionale (Mirabilandia) — Quesito J3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_junior_maggio__QJ3
 parent: src_kangourou_2009_junior_maggio
 competition: Kangourou 2009 - Junior finale nazionale (Mirabilandia)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali fogli restano nella stessa posizione*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xGZ7OkZ2vv3yACmUJOy44TwOsFXpar5C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which sheets remain in the same position*
+
+> *(11 points) * It considers an ordered stack of 5998 sheets numbered from 1 (i.e. the first sheet at the top returns the number 1). Now build a new stack like this: take the first sheet, put the second over the first and the third under the first; then repeat the process: the fourth sheet will go over the second and the fifth under the third, and so on. Once the operation is complete, will there be sheets that, in the new stack, will be in the same position as they were in the old one? If yes, which ones?
+
+**Answer:** 2000
+[[src_kangourou_2009_junior_maggio__QJ3]]

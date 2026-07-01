@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2010 squadre finale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2010_squadre_finale__Q04
 parent: src_kangourou_2010_squadre_finale
 competition: Kangourou 2010 squadre finale
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cammini a zig-zag di 8 caselle bianche scacchiera*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 296
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+8 white chessboard zigzag roads
+
+> The chessboard In an ordinary chessboard 8 × 8 (32 white boxes and 32 alternating vertical and horizontal black boxes), we call walk to zig-zag a set of 8 white boxes, one for each row, such that, for each row from the second row to the 8th, the box in that row has in common a vertex with the one in the previous row. How many different zigzag paths can you find?
+
+**Answer:** 296
+[[src_kangourou_2010_squadre_finale__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2011 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2011_automne__Q05
 parent: src_canimath_2011_automne
 competition: Coupe Animath Automne 2011
@@ -33,6 +34,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right triangle, midpoint, perpendiculars; triangles AEM and MCA similar iff angle ABC=60*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Triangolo retto, punto medio, perpendicolari; triangoli AEM e MCA simili se angolo ABC=60< MSK1/>
+
+> Il $ABC$ deve essere un triangolo rettangolo a $A$ con $AB < AC$, $M$ il punto medio di $[BC]$, $D$ l'intersezione di $(AC)$ con il perpendicolare a $(BC)$ che attraversa $M$, e $E$ il punto di intersezione della linea parallela a $(AC)$ che attraversa $M$ con il perpendicolare a $(BD)$ che attraversa $B$. Indicare che i triangoli $AEM$ e $MCA$ sono simili se e solo se $\angle ABC = 60^\circ$.
+
+[[src_canimath_2011_automne__Q05]]

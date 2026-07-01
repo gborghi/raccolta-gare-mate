@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 1 —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_nu_f1__Q06
 parent: src_obm_2007_nu_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 1
@@ -40,6 +41,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Power-series ODE: order of vanishing of y-1 and value of a limit*
 
@@ -55,3 +58,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lOJCEY5_AKOF2CG2hkgyD8fhqvhk5Tjs/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ODE della serie di potenza: ordine di scomparsa di y-1 e valore di un limite*
+
+> Lasciate che $y(t) = a_0 + a_1 t + a_2 t^2 + \cdots$ soddisfi il dato ODE e espandete le funzioni $y$, $e^{t} = 1 + t + \tfrac{t^2}{2} + \cdots$ e $2\sin t + \tan t = c_0 + c_1 t + c_2 t^2 + \cdots$ nelle serie di potenza. Substituendo la serie nell'ODE si ottiene la ricorrenza $$a_{n+2} = \dfrac{1}{(n+1)(n+2)}\big(c_n - b_0 a_n - 2b_1 a_{n-1} - \cdots - (n+1)b_0 a_{n+1} - 3a_{n+1}\big),$$ dove i dati iniziali sono $a_N \neq 0$ e $a_m = 0$ per $0 < m < N$. Trovare il più piccolo di tali $\widetilde{N}$ e il valore di $\displaystyle\lim_{t \to 0}\dfrac{t\,y'}{y - 1}$. (Soluzione ufficiale: utilizzando $2\sin t + \tan t = 3t + \dfrac{3t^3}{20} + \cdots$ si trova $\widetilde{N} = 5$, da cui $\displaystyle\lim_{t \to 0}\dfrac{t\,y'}{y - 1} = 7$.) Dichiarazione ricostruita dalla soluzione ufficiale; diversi termini intermedi sono parzialmente illeggibili nella fonte.
+
+**Risposta:** limit = 7 (with N = 5)
+[[src_obm_2007_nu_f1__Q06]]

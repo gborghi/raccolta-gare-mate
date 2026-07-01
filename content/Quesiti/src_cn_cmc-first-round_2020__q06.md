@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2020 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2020__Q06
 parent: src_cn_cmc-first-round_2020
 competition: China Mathematical Competition (First Round) 2020
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular tetrahedron, sphere cross-section area through edge midpoints*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{\pi}{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tetraedro regolare, area di sezione trasversale di sfera attraverso i punti di mezzo del bordo*
+
+> (Paper A, parte I Q6) Supponiamo che tutti i bordi della piramide triangolare regolare $P$-$ABC$ abbiano lunghezza $1$ e $L$, $M$, $N$ siano i punti medi dei bordi $PA$, $PB$ e $PC$, rispettivamente. L'area della sezione trasversale della sfera circoscritta di questa piramide triangolare regolare intercettata dal piano $LMN$ è $\underline{\qquad}$.
+
+**Risposta:** \frac{\pi}{3}
+[[src_cn_cmc-first-round_2020__Q06]]

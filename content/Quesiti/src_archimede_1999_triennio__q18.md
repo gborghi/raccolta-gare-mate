@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1999 - Triennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_triennio__Q18
 parent: src_archimede_1999_triennio
 competition: Giochi di Archimede 1999 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale affermazione su poligoni e corretta*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which statement on polygons is correct*
+
+> Which of the following is correct?
+>
+> - **(A)** If a quadrilateral has all the same sides, then it also has all the same angles.
+> - **(B)** If a quadrilateral has all the same angles, then it also has all the same sides.
+> - **(C)** If a quadrilateral has two equal angles, then it also has two equal sides.
+> - **(D)** There's a triangle with all the same angles, but not all the sides are the same.
+> - **(E)** There's a pentagon with all the same angles, but not all the sides are the same.
+
+**Answer:** E
+[[src_archimede_1999_triennio__Q18]]

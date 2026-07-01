@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Student — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_semif__Q15
 parent: src_kangourou_2018_student_semif
 competition: Kangourou 2018 Semifinale Student
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo ABP con tangenti perpendicolari*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the ABP triangle with perpendicular tangents*
+
+> (Points 6) Two centers α and β of centers A and B have radii of 10 and 20 respectively and the two centers are 10√2. P is a point on β such that the α tangent semicircles from P are perpendicular to each other. How much is the area of the ABP triangle?
+
+**Answer:** 100
+[[src_kangourou_2018_student_semif__Q15]]

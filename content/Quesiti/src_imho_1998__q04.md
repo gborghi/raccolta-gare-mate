@@ -1,6 +1,7 @@
 ---
 title: IMO 1998 (XXXIX International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1998__Q04
 parent: src_imho_1998
 competition: IMO 1998 (XXXIX International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all pairs (a,b) of positive integers with given divisibility*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wkgXqV9hwy2vlF5wQ5GPmLdn3HNUtFqc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find all pairs (a,b) of positive integers with given divisibility*
+
+> Determine the pairs $(a, b)$ of positive integers such that $ab^2 + b + 7$ divides $a^2 b + a + b$.
+
+[[src_imho_1998__Q04]]

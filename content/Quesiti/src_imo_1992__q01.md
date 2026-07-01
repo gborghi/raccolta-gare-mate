@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1992 (33rd IMO, Moscow) — Quesito 1'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1992__Q01
 parent: src_imo_1992
 competition: 'IMO 1992 (33rd IMO, Moscow)'
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find a,b,c with (a-1)(b-1)(c-1) dividing abc-1*
 
@@ -36,3 +39,13 @@ tags:
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find a,b,c with (a-1) (b-1) (c-1) dividing abc-1
+
+> Find all integers a, b, c with 1 < a < b < c such that (a −1)(b −1)(c −1) is a divisor of abc −1.
+
+[[src_imo_1992__Q01]]

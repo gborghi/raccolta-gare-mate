@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r1__Q12
 parent: src_pol_1999_r1
 competition: Olimpiade Matematica Polacca 1999 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *All vertices of a cube of edge a lie on the surface of a regular tetrahedron of edge 1; find all possible a.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tutti i vertici di un cubo di bordo si trovano sulla superficie di un tetraedro regolare di bordo 1; trovare tutte le possibili a.*
+
+> Tutti i vertici di un cubo di bordo $a$ si trovano sulla superficie di un tetraedro regolare di bordo $1$. Trova tutti i valori possibili di $a$.
+
+[[src_pol_1999_r1__Q12]]

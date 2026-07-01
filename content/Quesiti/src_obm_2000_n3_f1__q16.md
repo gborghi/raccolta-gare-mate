@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q16
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two swimmers crossing a pool; count passings in 12 minutes*
 
@@ -56,3 +59,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due nuotatori che attraversano una piscina; contano i passaggi in 12 minuti*
+
+> Due nuotatori, inizialmente a fianco opposto di una piscina, iniziano a nuotare contemporaneamente l'uno verso l'altro. Uno nuota a velocità uniforme da un lato della piscina all'altro in 45 secondi, e l'altro in 30 secondi. Ogni volta che raggiungono un lato si voltano indietro, mantenendo la stessa velocità, senza perdere tempo nelle curve. Numerose volte si passano l'una l'altra (sia nella stessa direzione che in direzioni opposte); contando come passaggio anche quando raggiungono un lato contemporaneamente. Quante volte si passano l'una dall'altra, nella stessa direzione o in direzioni opposte, nei primi 12 minuti?
+>
+> - **(A)** 10
+> - **(B)** 12
+> - **(C)** 15
+> - **(D)** 18
+> - **(E)** 20
+
+**Risposta:** E
+[[src_obm_2000_n3_f1__Q16]]

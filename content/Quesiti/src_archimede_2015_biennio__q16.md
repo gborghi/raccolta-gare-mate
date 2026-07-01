@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2015 - Biennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_biennio__Q16
 parent: src_archimede_2015_biennio
 competition: Giochi di Archimede 2015 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo colori per palline con stesso colore dei multipli*
 
@@ -45,3 +48,19 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1prvgjdAFaK6FEUhTIz1KxL8s22sIjytL/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum colours for balls with the same colour as the multipliers*
+
+> Gianni has 60 balls, numbered 1 to 60. One day, after realizing that he lost the ball n<°1, he decides to color the remaining 59, following this rule: each number must have the same color as all its multiples. Maximum, how many different colors can Gianni use to color the 59 balls?
+>
+> - **(A)** 2
+> - **(B)** 10
+> - **(C)** 8
+> - **(D)** 17
+> - **(E)** 12 T2 Italian Mathematical Union PROJECT OLIMPIADI OF MATHEMATICS Ministry of Education, University and Research Higher Normal School The Games of Archimedes - Gara Biennio 25 November 2015 • The test consists of 16 questions; each question is followed by five answers indicated by the letters (A), (B), (C), (D) and (E). • Only one of these answers is correct, the other four are wrong. Every correct answer is worth 5 points, every wrong answer is worth 0 points, every problem left unanswered is worth 1 point. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. The time you have to do the test is two hours. Good work and good fun! Name of the class: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+
+[[src_archimede_2015_biennio__Q16]]

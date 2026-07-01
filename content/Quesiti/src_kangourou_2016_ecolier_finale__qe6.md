@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (finale Cervia) — Quesito E6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_finale__QE6
 parent: src_kangourou_2016_ecolier_finale
 competition: Kangourou 2016 Écolier (finale Cervia)
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Busta A o B piu conveniente rispondendo a caso*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** la busta A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17WfUAkrXUQQ692jH5sAM_Bsr9ebUFZPI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Bust A or B more convenient by answering randomly< MSK1/>
+
+> To be promoted, a Fox student must take a closed-answer test, answering all questions correctly. You can choose between two envelopes: - envelope A containing $5$ questions, each with $2$ answers, - envelope B containing $2$ questions, each with $6$ answers.
+> 
+> Fox is unprepared and thinks he's answering questions at random. To try to get promoted, should he choose envelope A or envelope B?
+
+**Answer:** la busta A
+[[src_kangourou_2016_ecolier_finale__QE6]]

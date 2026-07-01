@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2008 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2008__Q06
 parent: src_cn_cwmo_2008
 competition: China Western Mathematical Olympiad 2008
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximize xyz subject to a symmetric radical constraint with x,y,z in (0,1)*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximizzare xyz soggetto a una limitazione radicale simmetrica con x,y,z in (0,1)*
+
+> Se $x$, $y$, $z \in (0, 1)$ soddisfa $\sqrt{\frac{1-x}{yz}} + \sqrt{\frac{1-y}{zx}} + \sqrt{\frac{1-z}{xy}} = 2$, si trova il valore massimo di $xyz$. (Posato da Tang Lihua)
+
+**Risposta:** $\frac{27}{64}$
+[[src_cn_cwmo_2008__Q06]]

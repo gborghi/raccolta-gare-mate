@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q09
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer expression not representing 24*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*espressione integrale non rappresentante 24*
+
+> Lasciate che $a$, $b$, $c$ siano numeri interi positivi. Tra le opzioni, l'espressione che **non può ** rappresentare il numero $24$ è:
+> 
+> **A) ** $ab^3$ \quad **B) ** $a^3b$ \quad **C) ** $a^4b^3$ \quad **D) ** $ab^2c^3$ \quad **E) ** $a^4b^3c^4$
+
+**Risposta:** C
+[[src_obm_2006_n2_f1__Q09]]

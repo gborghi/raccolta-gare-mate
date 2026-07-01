@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q22
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura degli angoli maggiori del quadrilatero piegato*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measurement of the major angles of the folded quadrilateral*
+
+![[src_kangourou_2020_cadet_marzo__prob22.png]]
+
+> Alice took a square sheet of paper and folded it so as to bring two of its sides to lie on a diagonal, as shown in the figure. What is the size of each of the two major angles of the quadrilateral thus obtained? A) 112°30’ B) 120° C) 127°30’ D) 135° E) 150°
+
+**Answer:** A
+[[src_kangourou_2020_cadet_marzo__Q22]]

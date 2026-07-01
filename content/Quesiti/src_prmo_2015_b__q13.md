@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_b__Q13
 parent: src_prmo_2015_b
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -32,6 +33,8 @@ tags:
   - regione/b
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Each man danced with 4 women, each woman with 3 men; 9 men; count women*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Ogni uomo ballava con 4 donne, ogni donna con 3 uomini; 9 uomini; contare donne*
+
+> In una festa, ogni uomo ballava con esattamente quattro donne e ogni donna ballava con esattamente tre uomini. Nove uomini hanno partecipato alla festa. Quante donne hanno partecipato alla festa?
+
+**Risposta:** 12
+[[src_prmo_2015_b__Q13]]

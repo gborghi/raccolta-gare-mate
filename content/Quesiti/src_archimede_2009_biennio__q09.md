@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Biennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_biennio__Q09
 parent: src_archimede_2009_biennio
 competition: Giochi di Archimede 2009 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo ADC in triangolo isoscele con bisettrice*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AAC angle in an isosceles triangle with a beam*
+
+> ABC is an isosceles triangle with AB = AC. D is a point on the AB side such that CD is the angle of the ACB angle. Knowing that CB = CD, what is the angle of ADC?
+>
+> - **(A)** 90°,
+> - **(B)** 108°,
+> - **(C)** 120°,
+> - **(D)** 144°,
+> - **(E)** 155°.
+
+**Answer:** B
+[[src_archimede_2009_biennio__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo36yqa_yosen__Q11
 parent: src_jmo36yqa_yosen
 competition: Japan Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count sequences (a_1,...,a_26) in [1,20] satisfying a partial-sum balance condition for all pairs*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $9980 \cdot 19^{23}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenze di conteggio (a_1,...,a_26) in [1,20] che soddisfano una condizione di equilibrio parziale per tutte le coppie*
+
+> Trova il numero di sequenze $(a_1, a_2, \ldots, a_{26})$ di numeri interi con $1 \le a_i \le 20$ che soddisfano la seguente condizione: per qualsiasi coppia di indici $(i, j)$ con $1 \le i < j \le 26$, esiste un indice $t$ con $i \le t \le j$ tale che $$a_1 + a_2 + \cdots + a_t = a_{t+1} + a_{t+2} + \cdots + a_{26}.$$
+
+**Risposta:** 9980 \cdot 19^{23}
+[[src_jmo36yqa_yosen__Q11]]

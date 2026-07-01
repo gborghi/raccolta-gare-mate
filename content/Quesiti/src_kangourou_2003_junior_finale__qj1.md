@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior finale nazionale — Quesito J1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior_finale__QJ1
 parent: src_kangourou_2003_junior_finale
 competition: Kangourou 2003 Junior finale nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali parole denotano tre interi consecutivi*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** ete, exs
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DYCQm1nF2PohR5Hfzk5zl6q-PHPzDsMy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which words denote three consecutive integers*
+
+> We indicate with: - $s$ any positive integer divisible by 6; - $e$ any positive integer equal to not divisible by 6; - $t$ any positive integer divisible by 3 that has not already been indicated with $s$ or with $e$; - $x$ any positive integer of the remaining ones.
+> 
+> Which of the following six words $$\text{ese} \quad \text{ete} \quad \text{exe} \quad \text{ets} \quad \text{exs} \quad \text{ext}$$ can correspond to three consecutive integers?
+
+**Answer:** ete, exs
+[[src_kangourou_2003_junior_finale__QJ1]]

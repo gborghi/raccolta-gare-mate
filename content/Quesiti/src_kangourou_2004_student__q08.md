@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q08
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto possibile di cinque numeri scelti tra 1,2,4*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible product of five numbers chosen from 1,2,4*
+
+> Five people choose a number from these three: 1, 2, 4. The five numbers chosen are multiplied by them. Only one of the following numbers could be the product obtained: which? A) 100        B) 256        C) 768       D) 2048      E) 4096
+
+**Answer:** B
+[[src_kangourou_2004_student__Q08]]

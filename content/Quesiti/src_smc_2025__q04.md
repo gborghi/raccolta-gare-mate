@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q04
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three 2-digit numbers: one prime, one perfect square, one even; they sum to 46; find the even number.*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre numeri a 2 cifre: un primo, un quadrato perfetto, uno pari; si sommano a 46; trovare il numero pari.*
+
+> Sonia scrive tre numeri a due cifre. Il primo numero è primo, il secondo è un quadrato perfetto e il terzo è pari. La somma dei tre numeri è 46. Qual è il numero pari?
+>
+> - **(A)** 10
+> - **(B)** 12
+> - **(C)** 14
+> - **(D)** 16
+> - **(E)** 18
+
+**Risposta:** A
+[[src_smc_2025__Q04]]

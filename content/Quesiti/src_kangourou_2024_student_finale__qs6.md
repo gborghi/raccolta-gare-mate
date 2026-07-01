@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student finale — Quesito S6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student_finale__QS6
 parent: src_kangourou_2024_student_finale
 competition: Kangourou 2024 Student finale
@@ -26,6 +27,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero dipendenti che massimizza giornate lavorative*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 364 o 365
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1pVmLuJsgtVZ0iaNk5NbfEj5LKn6f8UgH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of employees maximising working days*
+
+> There are no fixed holidays in the Kanglandia calendar, but under a trade union agreement, a company is obliged to declare a "holiday for all" every day that is a birthday for at least one employee. The date of birth of an employee shall not be taken into account when he is hired. Suppose that the years are all < MSK0/> days and that the Kangland births are evenly distributed throughout the year. A company wants to maximize the total number of working days of its employees over the course of a year, but it must determine in advance the number of employees to be hired. How many employees should you hire? (Note: the annual total working days with $1$ employee would be $364$, with $2$ would be $2 \times 363$ if birthdays fell on different days, $2 \times 364$ if they fell on the same day.)
+
+**Answer:** 364 o 365
+[[src_kangourou_2024_student_finale__QS6]]

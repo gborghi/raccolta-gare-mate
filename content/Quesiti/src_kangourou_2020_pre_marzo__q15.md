@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Pre - gara marzo — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q15
 parent: src_kangourou_2020_pre_marzo
 competition: Kangourou 2020 Pre - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Aspetto della carta dopo due capovolgimenti*
 
@@ -45,3 +48,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.15](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>The appearance of the paper after two turns< MSK1/>
+
+![[src_kangourou_2020_pre_marzo__prob15.png]]
+
+> There's this paper on the table. It is flipped along its upper side and then along its left side, as shown in the drawing. Which of these looks like paper after the two moves?
+>
+> (see figure)
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
+
+**Answer:** B
+[[src_kangourou_2020_pre_marzo__Q15]]

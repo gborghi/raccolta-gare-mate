@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q27
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *terzo vertice in ordine*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*third summit in order*
+
+![[src_kangourou_2016_cadet_marzo__prob27.png]]
+
+> Aldo drew the pentagon of vertices A, B, C, D, and E as you see in the figure. He then drew five circles, each centered on a vertex, so that if two circles center on adjacent vertices, they are tangent externally. Finally, he listed the vertices in increasing order of length of the circles in which they are centered. What is the third summit on that list? A) A
+> 	
+> B) B
+> 	
+> C) C
+> 	
+> D) D
+> 	
+> E) E
+
+**Answer:** B
+[[src_kangourou_2016_cadet_marzo__Q27]]

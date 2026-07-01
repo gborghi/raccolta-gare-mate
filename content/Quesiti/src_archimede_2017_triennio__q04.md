@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Triennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_triennio__Q04
 parent: src_archimede_2017_triennio
 competition: Giochi di Archimede 2017 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero cavalieri*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WbKYlCGmnvn3EnNy8PHpDbjgy_2zTYne/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>number of knights< MSK1/>
+
+> Around a round table are six people, each of whom can be either a knight (who always tells the truth) or a cunning man (who always lies). Each of the people present says: Considering my two neighbors and the person sitting right in front of me, exactly two of these three people are cunning. How many knights are there at the table?
+>
+> - **(A)** No one
+> - **(B)** 1
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** the information provided is insufficient to establish it;
+
+**Answer:** A
+[[src_archimede_2017_triennio__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q15
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime tre cifre di r_2013 (ricorrenza mod 1000)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0043
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last three digits of r_2013 (recurrence mod 1000) *
+
+> As I said, to spend time at the Wall, the Night's Watch do very long calculations. Jon, starting with number 2013, subtracts 1 and multiplies the result by 1, then subtracts 2 to the product result and multiplies by 2 what he gets, and continues until he subtracts 2013 and multiplies by 2013. What are the last three digits of the number you get?
+
+**Answer:** 0043
+[[src_gs_2013_squadre__Q15]]

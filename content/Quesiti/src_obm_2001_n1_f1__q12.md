@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f1__Q12
 parent: src_obm_2001_n1_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Last digit of the sum of 70 consecutive positive integers*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'ultima cifra della somma di 70 integri positivi consecutivi*
+
+> Qual è l'ultima cifra della somma dei numeri interi positivi consecutivi $70$?
+> 
+> (A) $4$ \quad (B) $0$ \quad (C) $7$ \quad (D) $5$ \quad (E) Mancano dati
+
+**Risposta:** B
+[[src_obm_2001_n1_f1__Q12]]

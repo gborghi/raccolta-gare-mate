@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q25
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numeri distinti <=100 con prodotto non divisibile per 18*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum distinct numbers <=100 with product not divisible by 18*
+
+> Enrico wrote some positive integers, all of which are not more than 100 and all of which are distinct. Their product is not divisible by 18. How many numbers can he have written, at most? A) 5
+> 	
+> B) 17
+> 	
+> C) 68
+> 	
+> D) 69
+> 	
+> E) 90
+
+**Answer:** C
+[[src_kangourou_2014_junior__Q25]]

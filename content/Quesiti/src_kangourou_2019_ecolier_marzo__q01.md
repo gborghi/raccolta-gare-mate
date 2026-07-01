@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q01
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale figura vale 17 (pallini e barre)*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which figure is 17 (bullets and bars) *
+
+![[src_kangourou_2019_ecolier_marzo__prob1.png]]
+
+> In the figures you see, each ball is worth 1 and each bar is worth 5, so, for example, the figure on the side is worth 8. Which of the following figures is 17? A)                        B) C) D) E)
+
+**Answer:** D
+[[src_kangourou_2019_ecolier_marzo__Q01]]

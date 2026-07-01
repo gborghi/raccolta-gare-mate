@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Junior Finale 2 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_squadre_f2__Q15
 parent: src_kangourou_2023_junior_squadre_f2
 competition: Kangourou Squadre 2023 Junior Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti amici ha il sindaco*
 
@@ -47,3 +50,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1011
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many friends does the mayor have?
+
+> There are 2,023 people living in a village, and one of them is the mayor. However two residents other than the mayor are chosen, they have a different number of friends among the villagers (it is understood that, among the friends of a resident, he himself must be excluded and that, if A is a friend of B, B is a friend of A). How many friends does the mayor have? (Write 9999 if you believe the answer is not uniquely determined.)
+> 
+>  
+> Questions and solutions
+
+**Answer:** 1011
+[[src_kangourou_2023_junior_squadre_f2__Q15]]

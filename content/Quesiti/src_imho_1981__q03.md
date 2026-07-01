@@ -1,6 +1,7 @@
 ---
 title: IMO 1981 (XXII International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1981__Q03
 parent: src_imho_1981
 competition: IMO 1981 (XXII International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Maximum value of m^n + n^m with integer constraint*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J1b7EGoN_5JsjzdgRDEDkEXvbhWyzsge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum value of m^n + n^m with integer constraint
+
+> Determine the maximum value of $m^n + n^m$, where $m$ and $n$ are integers satisfying $m, n \in \{1, 2, \ldots, 1981\}$ and $(n^2 - mn - m^2)^2 = 1$.
+
+[[src_imho_1981__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Pre - gara marzo — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q12
 parent: src_kangourou_2020_pre_marzo
 competition: Kangourou 2020 Pre - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero sul petalo nascosto con somme uguali*
 
@@ -45,3 +48,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number on the hidden petal with equal sums*
+
+![[src_kangourou_2020_pre_marzo__prob12.png]]
+
+> We wrote a number on each petal of two flowers, both of five petals. The sums of the numbers written on the two flowers are equal. What number is written on the hidden petal?
+>
+> (see figure)
+>
+> - **(A)** $0$
+> - **(B)** $3$
+> - **(C)** $5$
+> - **(D)** $7$
+> - **(E)** $1$
+
+**Answer:** C
+[[src_kangourou_2020_pre_marzo__Q12]]

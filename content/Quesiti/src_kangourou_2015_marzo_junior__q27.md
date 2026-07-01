@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Junior — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q27
 parent: src_kangourou_2015_marzo_junior
 competition: Kangourou 2015 gara 19 marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero eliminato*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lv8vPzK3uXmG94tNsM2uWmmnksIo2fLI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>number deleted< MSK1/>
+
+> For a positive integer n, after eliminating one of the numbers 1, 2, 3, ..., n - 1, n, the arithmetic mean of the remaining numbers is 4.75. What number was deleted? A) 5
+> 	
+> B) 7
+> 	
+> C) 8
+> 	
+> D) 9 E) The data are insufficient to answer
+
+**Answer:** B
+[[src_kangourou_2015_marzo_junior__Q27]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Semifinale A — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_a__Q04
 parent: src_kangourou_2013_squadre_a
 competition: Kangourou Coppa Squadre 2013 Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume acqua nella clessidra a due cubi*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 6912
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Volume of water in two-cubic clessid < MSK1/>
+
+> How much water? The figure shows you a water wheel made using two identical cubes. The clessidra has water to run continuously for 4 minutes; when all the water is in one of the two cubes, that cube is exactly half full. If water falls for 20 seconds without interruption, the water level in the bottom cube rises exactly 1 centimeter. What is the volume of water in the hydraulic fluid in cubic centimetres?
+
+**Answer:** 6912
+[[src_kangourou_2013_squadre_a__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q05
 parent: src_cesenatico_2011_pubblico
 competition: Gara a Squadre Cesenatico 2011 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita pesce completamente giallo*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of wholly yellow fish< MSK1/>
+
+> Coincidence at the rock [25] The fishing village of Lessicografix received a particularly poor batch of fish from Lutezia, so much so that these fish are red, yellow, blue, green... But often they are one color on one side and another on the other (while the individual sides are monochrome). The village children made fun of him, stealing 24 fish to hide them: 4 red and green, 3 green and blue, 5 yellow and blue, 5 yellow and red, 4 yellow and green and 3 completely yellow. Lessicografix, looking for his fish, sees the yellow side of a fish emerge from a bush not far away: what is the probability that the fish is completely yellow? As a response, provide the first four digits after the comma.
+
+**Answer:** 3000
+[[src_cesenatico_2011_pubblico__Q05]]

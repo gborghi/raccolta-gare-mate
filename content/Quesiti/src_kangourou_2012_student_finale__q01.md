@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 finale nazionale Student — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student_finale__Q01
 parent: src_kangourou_2012_student_finale
 competition: Kangourou 2012 finale nazionale Student
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sfere passanti per tre punti non allineati nello spazio*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Spheres passing through three non-aligned points in space*
+
+> Assigned three non-aligned points in space, how many spheres pass through these three points? If more than one can pass, how can the radius of the smaller be determined?
+
+[[src_kangourou_2012_student_finale__Q01]]

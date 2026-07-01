@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Semifinale A — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_a__Q10
 parent: src_kangourou_2013_squadre_a
 competition: Kangourou Coppa Squadre 2013 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero alberi sul perimetro del parco quadrato*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 56
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of trees on the perimeter of the square park*
+
+![[src_kangourou_2013_squadre_a__prob10.png]]
+
+> The figure suggests the pattern of a square park. On its sides are planted trees equidistant, the same number of trees on all sides, and at each vertex there is a tree. The park is crossed by two avenues; the edges of each avenue are parallel: one ends at a vertex of the square, the other against a tree adjacent to the opposite vertex. The two avenues intersect in a small square, indicated in gray, whose area is 1/365 of the area of the square. How many trees are along the entire perimeter of the park? (The number of trees in the figure does not correspond to the actual number.)
+
+**Answer:** 56
+[[src_kangourou_2013_squadre_a__Q10]]

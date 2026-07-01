@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 2) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g2__Q03
 parent: src_bocconi_finaleint_2007_g2
 competition: >-
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti bottoni mancano alla commande*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many buttons are missing from the command< MSK1/>
+
+> Mathine's mother is a merchant. Mathine likes to look at button boxes of all colors. In a button box there are $12$, and in a cardboard box, there are $12$ button boxes. Mathine's mom is coming to get her order for MSK2 button cards. Mathine counted the $2007$ buttons.
+> 
+> How many buttons are missing on the command?
+
+[[src_bocconi_finaleint_2007_g2__Q03]]

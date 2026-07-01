@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_semifinale_a__Q06
 parent: src_cesenatico_2013_semifinale_a
 competition: Gara a Squadre Cesenatico 2013 - Semifinale A
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorsi Torre 6 mosse svoltando a sinistra*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0784
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tower 6 paths move to the left *
+
+> A left tower From a distance, Root sees a lawn with so many hedges that divide it into squares, like the boxes of a chessboard 8. The Red Queen orders the Tower to move from a corner box to the opposite corner box. The Queen explains that it will take exactly six steps to reach her. In addition, he orders that with each move he change direction by turning to the left of 90°. If there are no other pieces on the chessboard besides the Tower, how many possible paths can it take? The Tower may pass on the same box several times; in particular, it may touch the destination box even before the sixth move. A Tower move involves moving any number of whole boxes (from 1 to 8) horizontally or vertically.
+
+**Answer:** 0784
+[[src_cesenatico_2013_semifinale_a__Q06]]

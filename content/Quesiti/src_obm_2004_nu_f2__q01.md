@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2 —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_nu_f2__Q01
 parent: src_obm_2004_nu_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find f(3) for differentiable function satisfying tangent midpoint condition*
 
@@ -52,3 +55,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WVgS-I5YT_klW86nflai_QTNcRLnc5kh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca f(3) per la funzione differenziabile che soddisfa la condizione di punto medio tangente*
+
+> La funzione differenziabile $f:\mathbb{R}\to\mathbb{R}$ ha le seguenti proprietà:
+> 
+> a) $f(0)=0$ e $f(2)=2$.
+> 
+> b) Per ogni $a\in\mathbb{R}\setminus\{0\}$, la linea tangente al grafico di $f$ al punto $P=(a,f(a))$ taglia l'asse $x$ a un punto $A$ e l'asse $y$ a un punto $B$ in modo tale che $A$ sia il punto medio del segmento $BP$.
+> 
+> Calcolare < MSK0/>.
+
+[[src_obm_2004_nu_f2__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1993 (XXXIV International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1993__Q01
 parent: src_imho_1993
 competition: IMO 1993 (XXXIV International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prove f(x) not product of two nonconstant integer polynomials*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Go0gpsCj9HK8rw7A_MFaoiSJsC9e1hL9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Prove f(x) not product of two nonconstant integer polynomials*
+
+> Let $f(x) = x^n + 5x^{n-1} + 3$, where $n > 1$ is an integer. Prove that $f(x)$ cannot be expressed as the product of two nonconstant polynomials with integer coefficients.
+
+[[src_imho_1993__Q01]]

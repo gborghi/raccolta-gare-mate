@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q01
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Iterated function application 2004 times from a table.*
 
@@ -55,3 +58,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Applicazione di funzione iterata 2004 volte da una tabella.*
+
+> La funzione $f$ è indicata nella tabella seguente.
+> 
+> | $x$ | 1 | 2 | 3 | 4 | 5 | |---|---|---|---|---|---| | $f(x)$ | 4 | 1 | 3 | 5 | 2 |
+> 
+> Per esempio, $f(2)=1$. Quanto è < MSK1/>?
+> 
+> (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
+
+[[src_obm_2004_n3_f1__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q10
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *distanza tra punti medi di AB e CD*
 
@@ -73,3 +76,34 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* distance between median points AB and CD*
+
+![[src_kangourou_2022_student__prob10.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw[thick, gray] (0,0) -- (10,0);
+  \filldraw (1,0) circle (3pt) node[above=2pt] {$A$};
+  \filldraw (3,0) circle (3pt) node[above=2pt] {$B$};
+  \filldraw (6.5,0) circle (3pt) node[above=2pt] {$C$};
+  \filldraw (10,0) circle (3pt) node[above=2pt] {$D$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Michela marked points A, B, C and D on a straight line in the order shown in the figure.
+>  
+> 3 2 3 5 −4 E)  a < 0 A B C D E
+> 
+> Page 28 The distance between A and C is 12 cm and that between B and D is 18 cm. How many centimeters is the distance between the median point of AB and the median point of CD ? A) 15 B) 12 C) 18 D) 6
+>   
+> E) 9 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** A
+[[src_kangourou_2022_student__Q10]]

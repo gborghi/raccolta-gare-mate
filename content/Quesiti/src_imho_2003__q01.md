@@ -1,6 +1,7 @@
 ---
 title: IMO 2003 (XLIV International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2003__Q01
 parent: src_imho_2003
 competition: IMO 2003 (XLIV International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Disjoint translated subsets from a 101-element subset of S*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AH0yViVdXFQ9Y_GJejaNbOzxPiHzQl9i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Disjoint translated subsets from a 101-element subset of S*
+
+> $S$ is the set $\{1, 2, 3, \ldots, 1000000\}$. Show that for any subset $A$ of $S$ with $101$ elements we can find $100$ distinct elements $x_i$ of $S$, such that the sets $\{a + x_i \mid a \in A\}$ are all pairwise disjoint.
+
+[[src_imho_2003__Q01]]

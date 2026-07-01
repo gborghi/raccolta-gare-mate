@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q04
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate expression involving powers of 2 times 2006*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare l'espressione con poteri di 2 volte 2006*
+
+> Valutando le operazioni indicate nell'espressione $$\left(\frac{2^{2007}+2^{2005}}{2^{2006}+2^{2004}}\right)\times 2006$$ otteniamo la somma delle cifre di tale numero. Qual è la somma?
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 7
+> - **(E)** 8
+
+**Risposta:** B
+[[src_obm_2006_n1_f1__Q04]]

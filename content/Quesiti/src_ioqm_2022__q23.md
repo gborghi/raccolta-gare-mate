@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q23
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -34,6 +35,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC, median AD divides angle BAC in ratio 1:2, EB perp AB, BE=3, BA=4, find nearest integer to BC*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 29
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC, media AD divide angolo BAC in rapporto 1:2, EB perp AB, BE=3, BA=4, trovare il numero intero più vicino a BC*
+
+> In un triangolo $ABC$, la media $AD$ divide $\angle BAC$ nel rapporto $1 : 2$. Estendere il $AD$ a $E$ in modo tale che $EB$ sia perpendicolare a $AB$. Dato che $BE = 3$, $BA = 4$, trovare il numero intero più vicino a $BC$.
+
+**Risposta:** 29
+[[src_ioqm_2022__Q23]]

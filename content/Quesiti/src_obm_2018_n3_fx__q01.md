@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2018 — Nível 3 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2018_n3_fx__Q01
 parent: src_obm_2018_n3_fx
 competition: Olimpíada Brasileira de Matemática 2018 — Nível 3 — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Unit-cube coloring/numbering in n×n×n cube; count by day number*
 
@@ -56,3 +59,23 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n-tmzEBlNIungaQ43-LsU9CzJBumtIxE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Colorazione/numerazione di cubo unitario in n×n×n cubo; conteggio per numero giornaliero*
+
+> Un cubo $n \times n \times n$ è formato da cubi unitari $n^3$. Inizialmente, un cubo di unità rosso viene posizionato su uno dei vertici. Ogni giorno la regione rossa si estende a cubetti di unità adiacenti alla faccia, e ogni nuovo cubo rosso è numerato con il giorno in cui è diventato rosso (il cubo iniziale è numerato al giorno 1).
+> 
+> Ad esempio, nel cubo $2 \times 2 \times 2$: il giorno 1 c'è un cubo rosso (numero 1); il giorno 2 ci sono quattro cubi rossi (uno numerato 1, tre numerati 2); il giorno 3 ci sono sette (uno con 1, tre con 2, tre con 3); il giorno 4 tutti e otto sono rossi.
+> 
+> a) Nella figura abbiamo i quattro strati del cubo $4 \times 4 \times 4$, con i cubetti unitari numerati 1 e 2 già riempiti. Copia queste quattro tabelle sulla scheda delle risposte e compila il numero per ogni cubo unitario.
+> 
+> b) In un cubo $10 \times 10 \times 10$, quanti cubetti unitari sono numerati $7$? E quante sono numerate $13$?
+> 
+> c) Nel cubo $n \times n \times n$ con $n = 2018$, quale numero appare più spesso nella numerazione dei cubetti unitari? (Se c'è più di un numero che appare il numero massimo di volte, elenca tutti.)
+
+![[src_obm_2018_n3_fx__Q01.png]]
+
+[[src_obm_2018_n3_fx__Q01]]

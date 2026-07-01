@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q14
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto ragazzi/ragazze da medie dei voti*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Girls/boys average grade ratio*
+
+> School scores in Slovakia are awarded by five grades, from 1 (best) to 5. One test didn't go well and the average grade was 4. The boys scored slightly higher than the girls, with an average score of 3.6 against 4.2 of the girls. Which of the following statements about that class is correct? A) Boys are twice as many as girls B) Boys are four times as many as girls C) Girls are twice as many as boys D) Girls are four times as many as boys E) Boys are as many as girls
+
+**Answer:** C
+[[src_kangourou_2012_student__Q14]]

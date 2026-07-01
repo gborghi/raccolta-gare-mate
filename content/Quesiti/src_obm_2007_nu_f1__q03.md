@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 1 —
   Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_nu_f1__Q03
 parent: src_obm_2007_nu_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 1
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Volume of a solid built from an elliptic paraboloid and an ellipsoid cap*
 
@@ -58,3 +61,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lOJCEY5_AKOF2CG2hkgyD8fhqvhk5Tjs/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Volume di un solido costruito da un paraboloide ellittico e da un tappo ellissoide*
+
+> La superficie dell'ellisse è $3x^2 + 2y^2 \le a$. I suoi semiacci sono $\sqrt{\dfrac{a}{3}}$ e $\sqrt{\dfrac{a}{2}}$, quindi $A(a) = \dfrac{\pi a}{\sqrt{6}}$. Il solido del problema può essere descritto come l'unione disgiunta di $$\{(x,y,z) : 3x^2 + 2y^2 \le z \le 0\}\ \text{ with }\ z \le b,\ b = \dfrac{\sqrt{21}-1}{10},$$ e $$\{(x,y,z) : 3x^2 + 2y^2 \le 1 - 5z^2\}\ \text{ with }\ z \le \dfrac{1}{\sqrt{5}}.$$ Calcolare il suo volume $$v = \int_{0}^{b} A(z)\,dz + \int_{b}^{1/\sqrt{5}} A(1 - 5z^2)\,dz = \int_{0}^{b}\dfrac{\pi z}{\sqrt{6}}\,dz + \int_{b}^{1/\sqrt{5}}\dfrac{\pi}{\sqrt{6}}(1 - 5z^2)\,dz.$$ (Dichiarazione ricostruita dalla soluzione ufficiale; alcuni dettagli che descrivono il solido sono parzialmente illeggibili nella fonte. Il valore ottenuto è $v = \dfrac{\pi}{\sqrt{6}}\left(\dfrac{31}{300} + \dfrac{2\sqrt{5}}{15} - \dfrac{7\sqrt{21}}{100}\right)$.)
+
+**Risposta:** v = (pi/sqrt(6))(31/300 + 2*sqrt(5)/15 - 7*sqrt(21)/100)
+[[src_obm_2007_nu_f1__Q03]]

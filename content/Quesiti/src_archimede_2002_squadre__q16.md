@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q16
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *area coltivabile*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>cultivable area< MSK1/>
+
+> < MSK0/>With breath on the neck< MSK1/>  45 points
+> 
+> As you already know, Professor Abacus organizes the Matelandia team competition every year. As usual, this year too, he is in a delay: he has yet to enter three problems to complete the race. Therefore, desperate, he begins to search the web for problems that he can modify for the race. Professor Abacus himself has estimated that for every problem he finds only $1/4$ of probability that it is suitable for team competition. He still has an hour left. Assuming it takes ten minutes to examine a problem, how likely is he to complete the race text in time? (Calculate the probability as a percentage assuming that the probability of a particular problem going well is independent of the goodness of the previous problems, and give the whole part of the result in the answer)
+
+**Answer:** 0016
+[[src_archimede_2002_squadre__Q16]]

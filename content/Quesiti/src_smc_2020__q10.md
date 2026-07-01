@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2020 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2020__Q10
 parent: src_smc_2020
 competition: Senior Mathematical Challenge 2020
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count people standing between Tara and Uma in a line of six friends*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Contare le persone che stanno tra Tara e Uma in una fila di sei amici
+
+> Sei amici Pat, Qasim, Roman, Sam, Tara e Uma sono in fila per una fotografia. Ci sono tre persone tra Pat e Qasim, due tra Qasim e Roman, e una tra Roman e Sam. Sam non e' a nessuna fine della linea. Quante persone sono tra Tara e Uma?
+>
+> - **(A)** $4$
+> - **(B)** $3$
+> - **(C)** $2$
+> - **(D)** $1$
+> - **(E)** $0$
+
+**Risposta:** C
+[[src_smc_2020__Q10]]

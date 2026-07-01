@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q14
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dietro quale porta il leone con un solo cartello vero*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Behind which leads the lion with only one true sign
+
+> Behind three closed doors there are three rooms: in one there is a lion hidden. A sign on the first door says: The lion is here; a sign on the second door says: The lion is not here; a sign on the third door says: 2 + 3 = 2 × 3. If only one of the signs is telling the truth, which door is the lion hiding behind? A) The first.
+> 	
+> B) The second.
+> 	
+> C) The third. D) The data on the problem are contradictory. E) There is not enough information to answer.
+
+**Answer:** C
+[[src_kangourou_2018_cadet_marzo__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1989 (XXX International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1989__Q03
 parent: src_imho_1989
 competition: IMO 1989 (XXX International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Point set with equidistance condition implies k < 1/2 + sqrt(2n)*
 
@@ -51,3 +54,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Point set with equidistance condition implies k < 1/2 + sqrt(2n) *
+
+> Let $n$ and $k$ be positive integers and let $S$ be a set of $n$ points in the plane such that
+> 
+> (i) No three points of $S$ are collinear, and
+> 
+> (ii) For any point $P$ of $S$ there are at least $k$ points of $S$ equidistant from $P$.
+> 
+> Prove that: $$k < \frac{1}{2} + \sqrt{2n}.$$
+
+[[src_imho_1989__Q03]]

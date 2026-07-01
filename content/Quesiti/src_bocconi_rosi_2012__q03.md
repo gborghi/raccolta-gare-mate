@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2012 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2012__Q03
 parent: src_bocconi_rosi_2012
 competition: Giochi di Rosi 2012
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero dispari maggiore di 1000 con proprietà sulla metà*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1999
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1du4nM_pjVseEMRiX1hz7hrTEkEIg-ZC2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Unusual number greater than 1000 with properties on the half*
+
+> Find **a odd number ** (greater than 1,000) that satisfies this property: subtracting 1,000 from it, you get the integer immediately before its half.
+
+**Answer:** 1999
+[[src_bocconi_rosi_2012__Q03]]

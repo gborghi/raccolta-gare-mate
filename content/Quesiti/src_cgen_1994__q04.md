@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1994 — Matematica — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1994__Q04
 parent: src_cgen_1994
 competition: Concours Général des Lycées 1994 — Matematica
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimize sum of squared distances from point P to triangle vertices via projections*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimizzare la somma delle distanze quadrate dal punto P ai vertici del triangolo attraverso proiezioni*
+
+> Lasciate che $ABC$ sia un triangolo. Che il $P$ sia un punto del suo piano. Nota con $L$, $M$, $N$ le proiezioni ortogonali di $P$ sulle linee $(BC)$, $(CA)$ e $(AB)$ rispettivamente.
+> 
+> Determinare il punto $P$ per il quale la quantità $$BL^2 + CM^2 + AN^2$$ è minima.
+
+[[src_cgen_1994__Q04]]

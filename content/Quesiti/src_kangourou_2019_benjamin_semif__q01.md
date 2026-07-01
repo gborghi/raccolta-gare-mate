@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Benjamin — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q01
 parent: src_kangourou_2019_benjamin_semif
 competition: Kangourou 2019 Semifinale Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti quadrati perfetti < 100 sono anche cubi perfetti*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many perfect squares < 100 are also perfect cubes*
+
+> (Points 2) How many positive integers that are perfect squares of a number less than 100 are also perfect cubes? A) 4
+> 	
+> B) 3
+> 	
+> C) 2
+> 	
+> D) 1
+> 	
+> E) 0
+
+**Answer:** A
+[[src_kangourou_2019_benjamin_semif__Q01]]

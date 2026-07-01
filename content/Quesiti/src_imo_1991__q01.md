@@ -1,6 +1,7 @@
 ---
 title: IMO 1991 (32nd IMO) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1991__Q01
 parent: src_imo_1991
 competition: IMO 1991 (32nd IMO)
@@ -26,6 +27,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Bound product of incenter-vertex over bisector ratios*
 
@@ -43,3 +46,13 @@ tags:
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Bound product of incenter-vertex over bisector ratios
+
+> Given a triangle ABC, let me be the center of its inscribed circle. The internal bisectors of the angles A, B, C meet the opposite sides in A′, B′, C′ respectively. Prove that 1 4 < AI · BI · CI AA < MSK3/> · BB < MSK4/> · CC < MSK5/> < MSK6/> 8 27.
+
+[[src_imo_1991__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2021 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2021__Q02
 parent: src_cgen_2021
 competition: Concours Général des Lycées 2021 — Matematica
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tetrahedra: properties of a tetrahedron ABCD; existence of the centroid G and of the circumscribed sphere; concurrency of altitudes (in O, in G, necessarily) and characterisation of regular tetrahedra; a criterion for concurrency of altitudes via dot products of unit direction vectors.*
 
@@ -65,3 +68,21 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mpuoT_Bn4czxgorxXLmkmdqsNnb4j2Av/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tetraedri: proprietà di un tetraedro ABCD; esistenza del centroide G e della sfera circoscritta; concomitanza di altitudini (in O, in G, necessariamente) e caratterizzazione di tetraedri regolari; un criterio per la concomitanza di altitudini tramite prodotti dotati di vettori di direzione unità.*
+
+> Problemi 2: "Tetraedres" (Tetraedra). Si chiama tetraedro i dati, nello spazio, di quattro punti non coplanari $A$, $B$, $C$, $D$. I bordi del tetraedro sono i segmenti $[AB]$, $[AC]$, $[AD]$, $[BC]$, $[BD]$, $[CD]$. Nella domanda da 3 a 3, $ABCD$ indica un tetraedro.
+> 
+> 1.a. Indicare che esiste un punto unico $G$ tale che $\overrightarrow{GA}+\overrightarrow{GB}+\overrightarrow{GC}+\overrightarrow{GD}=\vec{0}$. b. Uno definisce la media emessa da $A$ la linea che unisce $A$ al centroide del triangolo $BCD$, e uno definisce in modo analogo le altre tre media emesse da $B$, $C$ e $D$. Indicare che i mediani sono simultanei al punto $G$.
+> 
+> 2. Mostrare che esiste una sfera unica che attraversa $A$, $B$, $C$, $D$. Uno lo chiama la sfera circoscritta al tetraedro $ABCD$ e uno nota $O$ il suo centro.
+> 
+> 3. Un'altitudine viene chiamata da $A$ la linea che passa attraverso $A$ ortogonale al piano $BCD$. Si definiscono in modo analogo le altre tre altitudini, emesse da $B$, $C$ e $D$. Si dice che un tetraedro di spazio sia regolare se tutti i suoi bordi sono della stessa lunghezza. a. È vero che le altitudini sono simultanee a $O$ se e solo se il tetraedro è regolare? b. Le altitudini sono necessariamente contemporanee? c. È vero che le altitudini sono simultanee a $G$ se e solo se il tetraedro è regolare?
+> 
+> 4. In quanto segue, il prodotto del punto di due vettori $\vec{v}$ e $\vec{w}$ è indicato $\vec{v}\cdot\vec{w}$. Le linee $\Delta_1,\ldots,\Delta_4$ devono essere quattro linee non coplanarie distinte, che sono simultanee in un punto $H$. Per $1\le i\le4$ si sceglie un vettore di direzione unitaria $\vec{u}_i$ di $\Delta_i$ e, per $1\le i,j\le4$, una nota $c_{ij}=\vec{u}_i\cdot\vec{u}_j$. a. Si suppone che esista un tetraedro $A_1A_2A_3A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j\in\Delta_j$ per tutti $j\in\{1,2,3,4\}$. Mostrare che $c_{12}c_{34}=c_{13}c_{24}=c_{14}c_{23}$. b. Al contrario, se $c_{12}c_{34}=c_{13}c_{24}=c_{14}c_{23}\ne0$, dimostrare che esiste un tetraedro $A_1A_2A_3A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j\in\Delta_j$ per tutti $j\in\{1,2,3,4\}$.
+
+[[src_cgen_2021__Q02]]

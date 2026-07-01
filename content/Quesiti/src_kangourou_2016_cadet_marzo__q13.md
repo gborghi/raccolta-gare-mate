@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q13
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale frazione piu prossima a 1/2*
 
@@ -44,3 +47,15 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which fraction is closest to 1/2< MSK1/>
+
+> Which of the following fractions has a value closer to 1/2 ? A) 25/79 B) 27/59 C) 29/57 D) 52/79 E) 57/92
+>
+
+**Answer:** B
+[[src_kangourou_2016_cadet_marzo__Q13]]

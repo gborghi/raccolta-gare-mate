@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_a__Q07
 parent: src_prmo_2015_a
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -35,6 +36,8 @@ tags:
   - regione/a
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-digit $N$ whose digit-sum with its reversal is a perfect square*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cifre $N$ la cui cifra-somma con la sua inversione è un quadrato perfetto*
+
+> Quanti numeri interi positivi a due cifre $N$ hanno la proprietà che la somma di $N$ e il numero ottenuto invertendo l'ordine dei numeri di $N$ è un quadrato perfetto?
+
+**Risposta:** 8
+[[src_prmo_2015_a__Q07]]

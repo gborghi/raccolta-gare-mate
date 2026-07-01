@@ -1,6 +1,7 @@
 ---
 title: IMO 1974 (XVI International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1974__Q05
 parent: src_imho_1974
 competition: IMO 1974 (XVI International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all possible values of a cyclic sum of four fractions*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find all possible values of a cyclic sum of four fractions
+
+> Determine all possible values of $$S = \frac{a}{a+b+d} + \frac{b}{a+b+c} + \frac{c}{b+c+d} + \frac{d}{a+c+d}$$ where $a, b, c, d$ are arbitrary positive numbers.
+
+[[src_imho_1974__Q05]]

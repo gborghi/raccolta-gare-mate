@@ -1,6 +1,7 @@
 ---
 title: IMO 1997 (XXXVIII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1997__Q05
 parent: src_imho_1997
 competition: IMO 1997 (XXXVIII International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all integer pairs (a,b) with a,b≥1 satisfying a^(b²)=b^a*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g-riBxA5RS3xIizqUBYrgemajJKWaBw5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find the integer pairs (a,b) with a,b≥1 satisfying a^(b2)=b^a*
+
+> Find all pairs $(a, b)$ of integers $a, b \ge 1$ that satisfy the equation $$a^{b^2} = b^a.$$
+
+[[src_imho_1997__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Junior 2024 — Quesito J1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_finale__QJ1
 parent: src_kangourou_2024_junior_finale
 competition: Kangourou Finale Junior 2024
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sono di piu le frazioni riducibili o irriducibili (1..12)*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Y-tp_mTp0sC1jmwY30azSLfiSncH3a5p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>More are reducing or non-reducing fractions (1..12) < MSK1/>
+
+> Consider all possible fractions of less than 1 in which both the numerator and denominator are integers between 1 and 12 included. Are these more reducing fractions or irreducible fractions?
+
+[[src_kangourou_2024_junior_finale__QJ1]]

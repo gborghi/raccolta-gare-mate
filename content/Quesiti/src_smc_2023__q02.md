@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2023 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2023__Q02
 parent: src_smc_2023
 competition: Senior Mathematical Challenge 2023
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Difference between one-third and 0.333*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Differenza tra un terzo e 0,333< MSK1/>
+
+> Qual è la differenza tra un terzo e < MSK0/>?
+>
+> - **(A)** $0$
+> - **(B)** $\dfrac{3}{1000}$
+> - **(C)** $\dfrac{1}{3000}$
+> - **(D)** $\dfrac{3}{10000}$
+> - **(E)** $\dfrac{1}{30000}$
+
+**Risposta:** C
+[[src_smc_2023__Q02]]

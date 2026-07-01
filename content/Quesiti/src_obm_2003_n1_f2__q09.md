@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f2__Q09
 parent: src_obm_2003_n1_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five different positive integers with mean 11; maximize the largest*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 45
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cinque diversi interi positivi con media 11; massimizzare il più grande*
+
+> La media di cinque diversi interi positivi è $11$. Determinare il valore massimo possibile del più grande dei cinque integri.
+
+**Risposta:** 45
+[[src_obm_2003_n1_f2__Q09]]

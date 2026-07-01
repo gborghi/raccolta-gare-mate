@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q06
 parent: src_kangourou_2019_squadre_semifinale_a
 competition: Kangourou Coppa squadre 2019 Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione tra due ottagoni simili*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 5600
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area region between two similar octagons*
+
+![[src_kangourou_2019_squadre_semifinale_a__prob6.png]]
+
+> The tiled wall A wall is tiled with square tiles of 30 cm side, which have such a decoration that, when 9 of them are approached, two similar (non-regular) octagons are seen. How many square centimeters does the region between the two octagons measure?
+
+**Answer:** 5600
+[[src_kangourou_2019_squadre_semifinale_a__Q06]]

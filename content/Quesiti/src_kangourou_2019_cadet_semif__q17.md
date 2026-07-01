@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Cadet — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q17
 parent: src_kangourou_2019_cadet_semif
 competition: Kangourou 2019 Semifinale Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti allievi presenti date le differenze di eta media*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1phCvtzZl50ji_jVJDivksDRKk73y1EvN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many pupils are present given the differences in middle age*
+
+> (Points 7) A teacher is in a classroom with some of his pupils. The average age of the teacher is 24 years above the average age of his pupils and 20 years above the average age of all present, teachers and pupils. How many students are there?
+
+**Answer:** 5
+[[src_kangourou_2019_cadet_semif__Q17]]

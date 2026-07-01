@@ -1,6 +1,7 @@
 ---
 title: IMO 1971 (Thirteenth International Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1971_all__Q04
 parent: src_imo_1971_all
 competition: IMO 1971 (Thirteenth International Olympiad)
@@ -22,6 +23,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimal closed polygonal path on tetrahedron edges*
 
@@ -34,3 +37,17 @@ tags:
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimal closed polygonal path on tetrahedron edges< MSK1/>
+
+> All the faces of tetrahedron $ABCD$ are acute-angled triangles. We consider all closed polygonal paths of the form $XYZTX$ defined as follows: $X$ is a point on edge $AB$ distinct from $A$ and $B$; similarly, $Y$, $Z$, $T$ are interior points of edges $BC$, $CD$, $DA$, respectively. Proofs:
+> 
+> (a) If $\angle DAB + \angle BCD \neq \angle ABC + \angle CDA$, then among the polygonal paths, there are none of minimum length.
+> 
+> (b) If $\angle DAB + \angle BCD = \angle ABC + \angle CDA$, then there are infinitely many shortest polygonal paths, their common length being $2 AC \sin(\alpha/2)$, where $\alpha = \angle BAC + \angle CAD + \angle ADB$.
+
+[[src_imo_1971_all__Q04]]

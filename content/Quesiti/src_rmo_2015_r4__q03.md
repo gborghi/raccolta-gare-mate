@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 4 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r4__Q03
 parent: src_rmo_2015_r4
 competition: Regional Mathematical Olympiad 2015
@@ -35,6 +36,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer triples with a²=bc+4 and b²=ca+4*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x0axIPaHu87ZTGOGDG8_dBEUX9gWmh5k/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i tripli interi con a2=bc+4 e b2=ca+4*
+
+> Trova tutti gli integri $a, b, c$ in modo che $$a^2 = bc + 4, \quad b^2 = ca + 4.$$
+
+[[src_rmo_2015_r4__Q03]]

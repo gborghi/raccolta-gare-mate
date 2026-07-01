@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q10
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo cassette di prugne*
 
@@ -44,3 +47,17 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of plums
+
+> A box of apples costs 2 euros, a box of pears costs 3 euros and a box of plums costs 4 euros. If eight boxes of fruit cost 23 euros, how many of them, at most, can contain plums? A. 1          B. 2          C. 3          D. 4          E. 5.
+>  
+>  
+> The questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** C
+[[src_kangourou_2002_cadet__Q10]]

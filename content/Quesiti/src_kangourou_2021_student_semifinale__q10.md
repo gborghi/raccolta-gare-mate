@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student semifinale individuale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q10
 parent: src_kangourou_2021_student_semifinale
 competition: Kangourou 2021 Student semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Avanzamento del punto P del cingolo*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0040
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Forwarding of the P-point of the groove*
+
+![[src_kangourou_2021_student_semifinale__prob10.png]]
+
+> (4 points) The figure sketches the rim of a half-circle whose wheels have a radius of 1/π meters with a distance from the centers of 3 meters. The lower part of the ring is in contact with a regular flat ground and P denotes the point halfway up the current upper part of the ring. If the middle moves 20 centimeters, how many centimeters does the point P move, relative to the ground?
+
+**Answer:** 0040
+[[src_kangourou_2021_student_semifinale__Q10]]

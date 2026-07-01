@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q07
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorso piu lungo da A a B senza ripetere vialetti*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Longer route from A to B without repeating sidewalks< MSK1/>
+
+![[src_kangourou_2012_cadet__prob7.png]]
+
+> In the public gardens there are 9 avenues arranged as shown in the figure. Every alley is 50 meters long. Anna wants to go from A to B without going down the same alleyway more than once. How many meters is the longest path you can choose to follow? A) 450 B) 400 C) 350 D) 300 E) 200
+
+**Answer:** C
+[[src_kangourou_2012_cadet__Q07]]

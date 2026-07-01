@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2019-20 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2019-20_round2__Q04
 parent: src_bmo_2019-20_round2
 competition: British Mathematical Olympiad 2019-20 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence recurrence: boundedness and unboundedness results*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T-GV4Q03Vt1FYIXg022mhWTn6UUh6dcK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ricorrenza della sequenza: risultati di limitazione e di non limitazione< MSK1/>
+
+> Una sequenza $b_1, b_2, b_3, \ldots$ di numeri reali non zero ha la proprietà che $$b_{n+1} = \frac{b_n^2 - 1}{b_n}$$ per tutti gli enti interi positivi $n$. Supponiamo che $b_1 = 1$ e $b_7 = k$ dove $1 < k < 2$. Indicare che esiste una costante $B$, a seconda di $k$, tale che $-B \le b_n \le B$ per tutti $n$. Indicare inoltre che, per alcuni $1 < k < 2$, esiste un valore di $n$ tale che $b_n > 2020$.
+
+[[src_bmo_2019-20_round2__Q04]]

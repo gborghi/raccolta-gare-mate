@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q01
 parent: src_kangourou_2016_marzo_benjamin
 competition: Kangourou 2016 gara 17 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *parte di ciascuna fettina*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nld6l3RD6emhTglIXueL7F2OJGTBOKRG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>part of each slice< MSK1/>
+
+> Michael cuts a pizza into four equal slices. Then cut each of these four slices into three equal slices. What part of the total is each resulting slice? A) One third
+> 	
+> (b) A quarter
+> 	
+> C) One seventh D) One eighth
+> 	
+> E) One twelfth
+
+**Answer:** E
+[[src_kangourou_2016_marzo_benjamin__Q01]]

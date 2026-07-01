@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_preecolier_marzo__Q16
 parent: src_kangourou_2017_preecolier_marzo
 competition: Kangourou 2017 Pre-Ecolier - Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo fogli per fare tre corone*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum sheets to make three crowns< MSK1/>
+
+> Lisa is drawing crowns like the one next to her using stickers with these shapes: a cross ($+$), a circle ($\bullet$), a horizontal strip ($-$). The adhesives can be separated from separate sheets which have these two compositions: sheet 1 contains 2 strips and 1 circle and 1 cross; sheet 2 contains 4 circles, 2 crosses and 2 crosses. What's the minimum number of sheets Lisa will have to use if she wants to make 3 crowns?
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 7 (see figure)
+
+**Answer:** B
+[[src_kangourou_2017_preecolier_marzo__Q16]]

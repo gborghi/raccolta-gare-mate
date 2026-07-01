@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student finale (maggio) — Quesito S3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_maggio__QS3
 parent: src_kangourou_2006_student_maggio
 competition: Kangourou 2006 Student finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza diagonali piu lunghe e piu corte nel 9-gono*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1 cm
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ianQsLYKRWCoToqRQQItfRaLtb1Nj0Gq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Longer and shorter diagonal difference in the 9-zone
+
+![[src_kangourou_2006_student_maggio__probS3.png]]
+
+> Consider, in a regular polygon of 9 sides, the lengths of the longest and the shortest diagonals. If the side of the polygon is 1 centimeter, how much is the difference between these two lengths?
+
+**Answer:** 1 cm
+[[src_kangourou_2006_student_maggio__QS3]]

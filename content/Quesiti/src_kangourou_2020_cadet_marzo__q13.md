@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q13
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale diagramma mostra il traliccio visto dall alto*
 
@@ -57,3 +60,23 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which diagram shows the trajectory as seen from above*
+
+![[src_kangourou_2020_cadet_marzo__prob13.png]]
+
+> Which of the following diagrams shows what you would see by looking from above at the trachea in the figure? A)
+> 	
+> B)
+> 	
+> C) D)
+> 	
+> E) 27 20 ? 24 26 40 Atown 2 km 4 km Atown 7 km Betown Betown
+>
+
+**Answer:** B
+[[src_kangourou_2020_cadet_marzo__Q13]]

@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2024 — Nível Universitário — Fase x —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_nu_fx__Q01
 parent: src_obm_2024_nu_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível Universitário — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inequality on sums over primes for perfect numbers*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ASMMz2DYTBieu4G0G3yj2BJioNfgOgua/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ineguaglianza delle somme sui numeri primi per i numeri perfetti*
+
+> Un intero positivo $n$ si chiama *perfetto* se la somma dei suoi divisori positivi $\sigma(n)$ è uguale al doppio $n$, cioè\ $\sigma(n) = 2n$. Ad esempio, $6$ è un numero perfetto, poiché la somma dei suoi divisori positivi è $1+2+3+6=12$, che è il doppio di $6$. Prova che se $n$ è un intero perfetto positivo, allora $$\sum_{\substack{p \mid n \\ p \text{ prime}}} \frac{1}{p+1} < \ln 2 < \sum_{\substack{p \mid n \\ p \text{ prime}}} \frac{1}{p-1}.$$
+
+[[src_obm_2024_nu_fx__Q01]]

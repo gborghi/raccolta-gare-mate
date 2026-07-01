@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2009 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2009__Q05
 parent: src_cn_ctst_2009
 competition: China National Team Selection Test 2009
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum of max column sum in constrained integer array*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** $(2l+1)m - l^2$ where $l = \lfloor (n-1)/2 \rfloor$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il minimo della somma massima delle colonne in array di numeri interi con vincoli*
+
+> Che $m$ sia un numero intero maggiore di $1$, e che $n$ sia un numero odd con $3 \leq n \leq 2m$. Per ogni $1 \leq j \leq n$: $a_{1j}, a_{2j}, \ldots, a_{mj}$ è una permutazione di $1, 2, \ldots, m$; (2) $|a_{i,j} - a_{i,j+1}| \leq 1$ per ogni $1 \leq i \leq m$, $1 \leq j \leq n-1$.
+> 
+> Trova il valore minimo possibile di $M = \max_{j} \sum_{i=1}^{m} a_{ij}$.
+
+**Risposta:** $(2l+1)m - l^2$ where $l = \lfloor (n-1)/2 \rfloor$
+[[src_cn_ctst_2009__Q05]]

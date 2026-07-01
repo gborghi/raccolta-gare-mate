@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f2__Q07
 parent: src_obm_2015_n1_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2
@@ -39,6 +40,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *10-digit numbers where each new digit equals sum of all previous (or last digit of that sum); find smallest, largest, possible last digits*
 
@@ -59,3 +62,23 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*numeri a 10 cifre in cui ogni nuova cifra è pari alla somma di tutte le precedenti (o ultime cifre di tale somma); trovare le cifre più piccole, più grandi e possibili *
+
+> Janaina ama scrivere $10$ numeri a cifre come segue:
+> 
+> (i) Scrive ogni cifra da sinistra a destra, senza mai usare un primo zero (la prima cifra non è zero);
+> 
+> (ii) Ogni nuova cifra deve essere uguale alla somma di tutte le cifre scritte finora, O deve essere uguale all'ultima cifra di tale somma. Ad esempio, può scrivere $5\,386\,248\,624$, perché $8 = 5 + 3$, $6$ è l'ultima cifra di $5 + 3 + 8 = 16$, $2$ è l'ultima cifra di $5 + 3 + 8 + 6 = 22$, e così via. Un altro esempio è $4\,600\,000\,000$.
+> 
+> a) Qual è il numero più piccolo che possa scrivere?
+> 
+> b) Qual è il numero più grande che possa scrivere?
+> 
+> c) Quali cifre possono apparire come ultima (decima) cifra?
+
+[[src_obm_2015_n1_f2__Q07]]

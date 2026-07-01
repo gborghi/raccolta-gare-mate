@@ -1,6 +1,7 @@
 ---
 title: IMO 1985 (XXVI International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1985__Q03
 parent: src_imho_1985
 competition: IMO 1985 (XXVI International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Polynomial with integer coefficients: odd-indexed partial sums are integers*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cg1NYtm4dPh2yDOiQw5AK-zPMbUVJynC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Polynomial with integer coefficients: odd-indexed partial sums are integers*
+
+> For any polynomial $P(x) = a_0 + a_1 x + \cdots + a_k x^k$ with integer coefficients, the number of coefficients which are odd is denoted by $w(P)$. For $i = 0, 1, \ldots$, let $Q_i(x) = (1 + x)^i$. Prove that if $i_1, i_2, \ldots, i_n$ are integers such that $0 \le i_1 < i_2 < \cdots < i_n$, then $$w(Q_{i_1} + Q_{i_2} + \cdots + Q_{i_n}) \ge w(Q_{i_n}).$$
+
+[[src_imho_1985__Q03]]

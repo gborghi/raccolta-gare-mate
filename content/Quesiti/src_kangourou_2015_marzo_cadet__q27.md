@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q27
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quella mancante*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>the missing one< MSK1/>
+
+> 27. Alberto drew five points on a straight line and now, for each pair of points, the distance between them. Of the ten different numbers you get, nine are (listed in ascending order): 2, 5, 6, 8, 9, 15, 17, 20, and 22. The missing one is under 22. What is it? A)10 B) 11 C) 12 D) 13 E) 14
+
+**Answer:** E
+[[src_kangourou_2015_marzo_cadet__Q27]]

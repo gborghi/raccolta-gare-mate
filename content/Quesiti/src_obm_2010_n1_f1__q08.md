@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f1__Q08
 parent: src_obm_2010_n1_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which total cannot be a sum of visible faces of two tetrahedral dice joined at one face?*
 
@@ -53,3 +56,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Quale totale non può essere la somma delle facce visibili di due dadi tetraedrali uniti a una faccia?
+
+> Le quattro facce di un dado sono triangoli equilaterali, numerati $1$ a $4$, come mostrato nella figura. Rotoliamo due dadi identici e li posizioniamo in modo che due volti coincidano (mostrando gli stessi o diversi numeri). Quale dei seguenti numeri NON può essere la somma di tutti i numeri visibili?
+> 
+> (A) $12$ \quad (B) $14$ \quad (C) $17$ \quad (D) $18$ \quad (E) $19$
+
+![[src_obm_2010_n1_f1__Q08.png]]
+
+**Risposta:** C
+[[src_obm_2010_n1_f1__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q11
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Data 2003 minuti dopo le 20.03*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Date 2003 minutes after 20.03 < MSK1/>
+
+> What date is 2003 minutes after 8:03 p.m. on March 20, 2003? A) 21-03-2003 B) 22-03-2003 C) 23-03-2003 D) 21-04-2003 E) 22-04-2003
+
+**Answer:** B
+[[src_kangourou_2003_benjamin__Q11]]

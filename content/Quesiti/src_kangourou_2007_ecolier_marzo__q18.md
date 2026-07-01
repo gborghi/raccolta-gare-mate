@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Ecolier (marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q18
 parent: src_kangourou_2007_ecolier_marzo
 competition: Kangourou 2007 Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi aspetta chi e per quanto (orologi)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Who waits for who and for how long (watches) *
+
+> Chiara and Donatella have an appointment at 7:05. When she arrives, Donatella thinks she's 15 minutes early, but her watch is 7 minutes behind; Chiara thinks she's 10 minutes late, but her watch is 7 minutes ahead. Which of the two friends has to wait for the other and for how long? A) Donatella waits for 5 minutes B) Donatella waits for 14 minutes C) Donatella waits for 11 minutes D) Donatella waits for 5 minutes E) Donatella waits for 11 minutes
+
+**Answer:** C
+[[src_kangourou_2007_ecolier_marzo__Q18]]

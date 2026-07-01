@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Triennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_triennio__Q16
 parent: src_archimede_2006_triennio
 competition: Giochi di Archimede 2006 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Compagni di classe da prezzi di caramelle*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Candy price class companies*
+
+> Andrea enters a store with the exact amount of money to buy a candy for each of her classmates, at the price of thirteen cents a month. But the candy price dropped to ten cents a month, and Andrea bought six more candies than expected, running out of money. How many of Andrew's classmates are there?
+>
+> - **(A)** 18,
+> - **(B)** 20,
+> - **(C)** 21,
+> - **(D)** 23,
+> - **(E)** 24.
+
+**Answer:** B
+[[src_archimede_2006_triennio__Q16]]

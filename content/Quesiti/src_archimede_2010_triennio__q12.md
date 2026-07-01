@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Triennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_triennio__Q12
 parent: src_archimede_2010_triennio
 competition: Giochi di Archimede 2010 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori n con radici intere distinte di 3x^2+2nx+3*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*N values with distinct integer roots of 3x^2+2nx+3*
+
+> For how many distinct values of the natural number n does the equation 3x2 + 2nx + 3 = 0 have two distinct real solutions, and these are both integers?
+>
+> - **(A)** No one.
+> - **(B)** 1,
+> - **(C)** 2,
+> - **(D)** 4,
+> - **(E)** more than five.
+
+**Answer:** A
+[[src_archimede_2010_triennio__Q12]]

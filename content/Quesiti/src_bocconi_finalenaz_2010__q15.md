@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2010 — Quesito
   15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2010__Q15
 parent: src_bocconi_finalenaz_2010
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2010
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Salvadanai: valori singoli dalle somme a coppie annotate*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 13, 27, 35, 65, 65
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Salvadanai: single values from sums in pairs marked*
+
+> Paul has a number of salvadanai, each containing an entire Euro. He then entertains himself by calculating the sum of the Euros contained in each pair of his salvadanai and on a notebook he notes the results obtained: 40, 48, 62, 75, 82, 100, 130 (some of these numbers have been annotated twice because obtained twice).
+> 
+> **In increasing order, the quantities of Euro contained in the various Salvadanian currency units.**
+
+**Answer:** 13, 27, 35, 65, 65
+[[src_bocconi_finalenaz_2010__Q15]]

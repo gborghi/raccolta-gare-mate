@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f1__Q08
 parent: src_obm_2014_n1_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Climbing an 18-step staircase by 2s then by 1s, descending; minimum steps stepped on*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Campare una scala di 18 gradini per 2 secondi e poi per 1 secondi, scendere; passi minimi da calcare*
+
+> Ana sale una scala con scalini $18$. Si arrampicano due gradini alla volta, saltando ogni volta un passo; poi si arrampicano uno dopo l'altro. Scendiando, scende gli stessi gradini. Considerando le condizioni descritte, qual è il minimo numero di gradini che Ana deve percorrere per arrivare all'ultimo gradino di scala?
+> 
+> (A) $3$ \quad (B) $4$ \quad (C) $5$ \quad (D) $6$ \quad (E) $12$
+
+[[src_obm_2014_n1_f1__Q08]]

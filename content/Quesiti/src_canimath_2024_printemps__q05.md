@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2024 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_printemps__Q05
 parent: src_canimath_2024_printemps
 competition: Coupe Animath Printemps 2024
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Graph connectivity: between any two cities, path via concrete roads with at most 2 intermediates*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Connectività grafica: tra due città, percorso su strade di cemento con al massimo 2 intermedi*
+
+> Nel campo di Animath ci sono almeno quattro città. Le due città sono collegate sia da una strada di cemento che da un sentiero di terra (ma non entrambe contemporaneamente). Lei non vuole usare alcun sentiero di terra. Si accorge che per viaggiare dalla sua città natale in un'altra città, utilizzando solo strade di cemento, deve sempre attraversare almeno due città intermedi.
+> 
+> Mostrare che tra due città è sempre possibile viaggiare da una ad un'altra utilizzando solo strade di cemento e passando per un massimo di due città intermedi.
+
+[[src_canimath_2024_printemps__Q05]]

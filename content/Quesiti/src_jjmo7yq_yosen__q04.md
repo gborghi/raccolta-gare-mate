@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo7yq_yosen__Q04
 parent: src_jjmo7yq_yosen
 competition: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all units digits of products of two 3-digit numbers both ending in 9*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JSUMowa9JI8Y3BaqBeZ4gyyU1TBF9Jpp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le cifre di unità dei prodotti di due numeri a 3 cifre che terminano entrambi in 9*
+
+> Ci sono due integri positivi $3$-cifre, entrambi finiti nella cifra $9$. Trova tutti i valori possibili della cifra unità del prodotto di questi due numeri.
+
+**Risposta:** 1
+[[src_jjmo7yq_yosen__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2009 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2009__Q03
 parent: src_cn_cmc_2009
 competition: China Mathematical Competition 2009
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Common area of two plane regions as function of parameter t*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $f(t) = -t^2 + t + \dfrac{1}{2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area comune di due regioni piane in funzione del parametro t*
+
+> In un piano di coordinate ci sono due regioni $M$ e $N$. La regione $M$ è limitata da $\begin{cases} y \ge 0 \\ y \le x \end{cases}$ e la regione $N$ è determinata dalle disuguaglianze $t \le x \le t + 1$, $0 \le t \le 1$. Poi la dimensione della superficie comune di $M$ e $N$ viene data da $f(t) = $ \_\_\_\__.
+
+![[src_cn_cmc_2009__Q03.png]]
+
+**Risposta:** f(t) = -t^2 + t + \dfrac{1}{2}
+[[src_cn_cmc_2009__Q03]]

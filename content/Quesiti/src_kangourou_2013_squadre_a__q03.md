@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Semifinale A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_a__Q03
 parent: src_kangourou_2013_squadre_a
 competition: Kangourou Coppa Squadre 2013 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo valore inserendo parentesi nella sequenza segni*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 45
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum value by entering parentheses in the sign sequence*
+
+> You put the brackets in the sequence of operations.
+>  
+> 1 – 2 + 3 – 4 + 5 – 6 + 7 – 8 + 9 – 10
+>  
+> You are free to insert all the parentheses you want (even more types, one internally to the other) in the positions you want, as long as you do not get multiplication between the contents of two pairs of parentheses: for example you can write [1  (2 + 3  4)] + ..., but not (1  2 + 3)(  4 + 5  6) +... . In accordance with this rule, what is the highest number you can get as a result of the expression?
+
+**Answer:** 45
+[[src_kangourou_2013_squadre_a__Q03]]

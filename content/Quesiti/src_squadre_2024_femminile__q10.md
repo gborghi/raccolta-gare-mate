@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2024 - Finale Nazionale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_femminile__Q10
 parent: src_squadre_2024_femminile
 competition: Gara a Squadre Femminile 2024 - Finale Nazionale
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero triangoli da terne di travi tra 10 punti su cerchio*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of beam triangles between 10 points per circle*
+
+> Lieutenant Coulomb has already figured out who the culprit is, so he's playing psychology to get him to confess. The question that Coulomb asks, and which brings down the suspect, is this: how many of the nonempty subsets of {1,2,...,12} does the product of the elements have zero as the number of units?
+
+[[src_squadre_2024_femminile__Q10]]

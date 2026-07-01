@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q29
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti pari ottenuti sommando N e somma cifre*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quantities of even numbers obtained by adding N and sum of digits*
+
+> Lucia transforms the numbers from 1 to 100 by following this rule: for each number, N replaces the number that is obtained by adding to N the sum of its digits. Of the numbers so obtained, how many are equal? A) 49
+> 	
+> B) 50
+> 	
+> C) 51
+> 	
+> D) 45
+> 	
+> E) 55
+
+**Answer:** A
+[[src_kangourou_2021_benjamin__Q29]]

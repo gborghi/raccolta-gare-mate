@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q15
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Studenti con fratello e sorella (inclusione-esclusione)*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Students with brother and sister (inclusion-exclusion) < MSK1/>
+
+> There are 29 students in a class. Students who have at least one sister are 12, those who have at least one brother are 18. Tina, Roberto, and Anna are the only children. How many students in that class have both a brother and a sister? (A) None (B) 1 (C) 3 (D) 4 (E) 6
+
+**Answer:** D
+[[src_kangourou_2003_ecolier__Q15]]

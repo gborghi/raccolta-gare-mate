@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2025_n1_fx__Q05
 parent: src_obm_2025_n1_fx
 competition: Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x
@@ -40,6 +41,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *The 'arrumadinho' game on a 2xn board: each first-row number must reappear in an adjacent second-row column, and no left prefix of the second row equals {1,...,k} except k=n. Give an example for n=8 and count the 2x2025 cards.*
 
@@ -65,3 +68,25 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BAsW5wUtp8e4eUtIjSrr-GeYtmuXz4Ok/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il gioco "arrumadinho" su una tavola 2xn: ogni numero di prima riga deve riemergere in una colonna adiacente di seconda riga, e nessun prefisso sinistro della seconda riga equivale a {1,...,k} tranne k=n. Date un esempio di n=8 e contate le carte 2x2025.*
+
+> Una carta del gioco *arrumadinho* (tidy) è una tabella $2\times n$ che deve soddisfare le seguenti regole:
+> 
+> (I) Ogni numero scritto nella prima riga deve apparire nella seconda riga in una delle due colonne più vicine a quella che occupa nella prima riga. Si noti che lo stesso numero può apparire nella stessa colonna nelle due righe, cioè la colonna può contenere due numeri uguali.
+> 
+> (II) L'insieme di numeri iscritto nelle prime celle consecutive $k$ della seconda riga, contando da sinistra a destra, non è mai uguale all'insieme $\{1,2,3,\ldots,k\}$, tranne per $k=n$.
+> 
+> Ad esempio, nella figura, le tabelle $1$ a $4$ non sono carte: la tabella $1$ non soddisfa la regola (I); la tabella $2$ non soddisfa la regola (II) (nella seconda riga l'insieme dei primi numeri che raggiungono la colonna $4$ è uguale a $\{1,2,3,4\}$); la tabella $3$ non soddisfa la regola (I) (una regola (I) è violata due volte); la tabella $4$ non soddisfa né la regola (I) né la regola (II).
+> 
+> (a) Copia la carta qui sotto sul tuo foglio di soluzione e da un esempio di riempimento in modo che diventi parte del gioco. $$\begin{array}{|c|c|c|c|c|c|c|c|}\hline 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 \\ \hline \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} & \phantom{0} \\ \hline\end{array}$$
+> 
+> b) Qual è il numero delle carte < MSK0/> di questo gioco?
+
+![[src_obm_2025_n1_fx__Q05.png]]
+
+[[src_obm_2025_n1_fx__Q05]]

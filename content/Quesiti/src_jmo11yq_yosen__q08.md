@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo11yq_yosen__Q08
 parent: src_jmo11yq_yosen
 competition: Japan Mathematical Olympiad 2001 — Yosen (Preliminary)
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Common real roots of two polynomial equations*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rede reali comuni di due equazioni polinomiche*
+
+> Trova tutti i numeri reali $x$ che soddisfano contemporaneamente entrambe le seguenti equazioni: $$x^5 + 2x^4 - x^3 - 5x^2 - 10x + 5 = 0$$ $$x^6 + 4x^5 + 3x^4 - 6x^3 - 20x^2 - 15x + 5 = 0$$
+
+[[src_jmo11yq_yosen__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo36yqa_yosen__Q10
 parent: src_jmo36yqa_yosen
 competition: Japan Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n for existence of convex 101-gon with grid vertices sharing consecutive coordinates*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 650
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La minima n per l'esistenza di un convex 101-gon con vertici della griglia che condividono coordinate consecutive*
+
+> $n$ sia un numero intero positivo. Nel piano $xy$, chiamare un punto **good** se sia la sua coordinata $x$ che la sua coordinata $y$ sono integri in $\{0, 1, \ldots, n\}$. Diciamo che una convexa $101$-gon $P_1 P_2 \cdots P_{101}$ soddisfa le condizioni se: - Ogni vertice $P_i$ è un buon punto. - Per ogni $1 \le i \le 101$, le vertici successive $P_i$ e $P_{i+1}$ condividono la stessa $x$-coordinata o la stessa $y$-coordinata (indici modulo $101$, con $P_{102} = P_1$).
+> 
+> Un convex $101$-gon è un non-auto-intersezione $101$-gon il cui angolo interno è inferiore a $180^\circ$. Trovare il valore più piccolo di $n$ per il quale esiste un tale convex $101$-gon.
+
+**Risposta:** 650
+[[src_jmo36yqa_yosen__Q10]]

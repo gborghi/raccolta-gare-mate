@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Finale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q14
 parent: src_kangourou_2015_squadre_f
 competition: Kangourou Coppa Squadre 2015 Finale
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri 2015-sbilanciati di 7 cifre*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 72
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h_SgvOFzLa5MkyUk9nA_Lj1BTGkSTzB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quantity of 2015-balanced 7-digit numbers*
+
+> ,2015-balanced numbers A positive integer of 7 digits is called 2015-balanced if the product of its first four digits is 20 and the product of its last four digits is 15. How many 2015 balanced numbers are there?
+
+**Answer:** 72
+[[src_kangourou_2015_squadre_f__Q14]]

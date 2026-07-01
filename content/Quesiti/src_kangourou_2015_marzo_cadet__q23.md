@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q23
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *segmento piu lungo*
 
@@ -55,3 +58,27 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>longer segment< MSK1/>
+
+![[src_kangourou_2015_marzo_cadet__prob23.png]]
+
+> A square of 30 cm2 is divided in half by a diagonal and then into triangles, as shown in the figure, where the areas of some of the triangles are also marked. Which of the five segments of the diagonal is the longest? A) a
+> 	
+> B) b
+> 	
+> C) c
+> 	
+> D) d
+> 	
+> E) e
+>  
+> −4 2 ?
+>
+
+**Answer:** D
+[[src_kangourou_2015_marzo_cadet__Q23]]

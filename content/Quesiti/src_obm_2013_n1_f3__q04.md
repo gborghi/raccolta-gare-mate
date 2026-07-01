@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f3__Q04
 parent: src_obm_2013_n1_f3
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence by concatenating consecutive integers; units digit of 10th term and first appearance of 2013*
 
@@ -52,3 +55,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bt-9OIl79wBeMLuqJhtDISes6K5CelBd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza mediante concatenamento di numeri interi consecutivi; cifra unitaria del decimo termine e prima comparsa del 2013*
+
+> Considera la sequenza $1,\ 23,\ 456,\ 78910,\ 1112131415,\ \ldots$, costruita con i numeri utilizzati per scrivere i numeri interi positivi a partire da $1$. Il primo termine è il primo intero positivo scritto; il secondo termine è formato dalle cifre dei due numeri interi consecutivi successivi; il terzo termine è formato dalle cifre dei tre numeri interi consecutivi successivi; e così via, ogni termine successivo utilizza un numero intero in più rispetto al precedente.
+> 
+> a) Qual è il numero di unità del decimo termine di questa sequenza? Non dimenticate di giustificare la vostra risposta.
+> 
+> b) In quale termine di questa sequenza appare per la prima volta la stringa di numeri $2013$ (in ordine)? Per esempio, la stringa $121$ appare per la prima volta nel quinto termine, $11\mathbf{121}31415$.
+
+[[src_obm_2013_n1_f3__Q04]]

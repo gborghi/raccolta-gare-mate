@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q18
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti modi*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many ways< MSK1/>
+
+> A kangaroo can jump from a position to an adjacent one connected to a segment. He's not allowed to go through the same position twice. If it starts from $S$, how many different ways can it reach $F$ by jumping exactly $4$? (see figure)
+> 
+> (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
+
+**Answer:** D
+[[src_kangourou_2015_marzo_preecolier__Q18]]

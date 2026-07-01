@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2010 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2010__Q14
 parent: src_bocconi_autunno_2010
 competition: Giochi d'Autunno 2010
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ampiezza dell'angolo tra le lancette dell'orologio alle 14.45*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $172^\circ 30'$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Angle width between clock hands at 14.45*
+
+> What is the angle, less than a flat angle, formed by the hands of the clock at 2:45 p.m.? (The two handles are assimilated to semirettes and are assumed to move continuously).
+
+**Answer:** 172^\circ 30'
+[[src_bocconi_autunno_2010__Q14]]

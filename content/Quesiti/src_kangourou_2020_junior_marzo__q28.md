@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q28
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi ha perso il secondo giorno a braccio di ferro*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Whoever lost the second day on the iron arm
+
+> 28. Aldo, Bruno and Carlo are challenging each other for several days in a row. Each day two of them meet while the third rests, waiting to face the winner the next day. The challenge lasts for several days and, at its end, it turns out that Aldo played 10 times, Bruno 15 and Carlo 17. Who lost the second day? A) Certainly Aldo. B) Certainly Bruno. C) Certainly Charles. D) They may have lost both Aldo and Bruno. E) They could have lost both Bruno and Carlo. This is a list of the countries of the European Union.
+
+**Answer:** A
+[[src_kangourou_2020_junior_marzo__Q28]]

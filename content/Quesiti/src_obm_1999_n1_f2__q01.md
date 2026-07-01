@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f2__Q01
 parent: src_obm_1999_n1_f2
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Remove 10 digits from a long number to maximize the remaining value*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5512345512345
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sVRS4YG1oL_KhveTUD5PLD8vlbfPaSxf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rimuovere 10 cifre da un numero lungo per massimizzare il valore rimanente*
+
+> Rimuovere 10 cifre dal numero $12345123451234512345$ in modo che il numero rimanente sia il più grande possibile.
+
+**Risposta:** 5512345512345
+[[src_obm_1999_n1_f2__Q01]]

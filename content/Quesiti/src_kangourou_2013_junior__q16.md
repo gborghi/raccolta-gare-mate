@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Junior — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_junior__Q16
 parent: src_kangourou_2013_junior
 competition: Kangourou 2013 marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anno di nascita di mamma Enrica con prodotto età 2013*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Year of birth of mother Enrica with product age 2013< MSK1/>
+
+> It's Mother Enrica's birthday today. Multiplying his age by that of his only son gets 2013. What year was Mother Enrica born? A) 1981 B) 1982 C) 1953 D) 1952 E) None of the above.
+
+**Answer:** D
+[[src_kangourou_2013_junior__Q16]]

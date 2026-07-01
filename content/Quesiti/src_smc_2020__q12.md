@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2020 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2020__Q12
 parent: src_smc_2020
 competition: Senior Mathematical Challenge 2020
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the cost of a three-piece suit given two equations about jacket, trousers, waistcoat prices*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ricerca il costo di un completo a tre pezzi data due equazioni sui prezzi di giacca, pantaloni, giubbotto< MSK1/>
+
+> Un vestito a tre pezzi è costituito da una giacca, un paio di pantaloni e una cintura. Due giacche e tre coppie di pantaloni costano 380 sterline. Un paio di pantaloni costa lo stesso che due giubbotti. Quanto costa un vestito a tre pezzi?
+>
+> - **(A)** 150 chili.
+> - **(B)** £190
+> - **(C)** 200 chili.
+> - **(D)** 228 chili.
+> - **(E)** ulteriori informazioni necessarie
+
+**Risposta:** B
+[[src_smc_2020__Q12]]

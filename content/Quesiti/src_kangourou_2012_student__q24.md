@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q24
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza cammino vertice di triangolo che ruota attorno a quadrato*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of path of vertex of triangle rotating around square*
+
+![[src_kangourou_2012_student__prob24.png]]
+
+> An equilateral triangle rotates around a square on side 1 starting from the position indicated by the figure and as shown in it. How long is the path taken from the top of the triangle that is marked in bold, when both the triangle and the point meet for the first time in the initial position? A) 4π B) 28π/3              C) 8π D)14π/3                E)3π
+
+**Answer:** B
+[[src_kangourou_2012_student__Q24]]

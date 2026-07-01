@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin gara individuale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q17
 parent: src_kangourou_2022_benjamin_gara
 competition: Kangourou 2022 Benjamin gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta minima della tartaruga Eva alla fine del 2022*
 
@@ -49,3 +52,21 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum age of Eva turtle by end of 2022< MSK1/>
+
+> The year 2022 is a special year as the figure 2 appears three times. It's the third time the turtle Eva has seen a year with three digits equal. How old will Eva be at the end of 2022? A) 18
+>   
+> B) 20
+>   
+> C) 22 D) 23
+>  
+>   
+> E) 134
+
+**Answer:** D
+[[src_kangourou_2022_benjamin_gara__Q17]]

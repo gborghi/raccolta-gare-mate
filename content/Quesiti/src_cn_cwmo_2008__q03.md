@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2008 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2008__Q03
 parent: src_cn_cwmo_2008
 competition: China Western Mathematical Olympiad 2008
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For m given positive integers, prove infinitely many n make a weighted power sum composite*
 
@@ -44,3 +47,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per m dati numeri interi positivi, dimostrare infinitamente molti n fare una potenza ponderata somma composta*
+
+> Date un intero $m \geqslant 2$ e un intero positivo $m$ $a_1, a_2, \ldots, a_m$, dimostrate che esistono infinitamente molti interi positivi $n$ in modo tale che $a_1 \cdot 1^n + a_2 \cdot 2^n + \cdots + a_m \cdot m^n$ sia composto. (Posato da Chen Yonggao)
+
+[[src_cn_cwmo_2008__Q03]]

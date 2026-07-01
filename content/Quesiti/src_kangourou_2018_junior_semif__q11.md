@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Junior — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q11
 parent: src_kangourou_2018_junior_semif
 competition: Kangourou 2018 Semifinale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *M-N tra somma dispari e somma pari minori di 1000*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 500
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17csch1-7f-cVvjGdqKXJQd6PNOelNdNG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*M-N between odd sum and even sum less than 1000*
+
+> (Points 5) M is the sum of the odd positive integers less than 1000 and N is the sum of the positive integers strictly less than 1000. How much is M-N ?
+
+**Answer:** 500
+[[src_kangourou_2018_junior_semif__Q11]]

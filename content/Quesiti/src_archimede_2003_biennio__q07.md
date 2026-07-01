@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2003 - Biennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_biennio__Q07
 parent: src_archimede_2003_biennio
 competition: Giochi di Archimede 2003 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle decine di una potenza, polinomio in n*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of decimal places, polynomial in n*
+
+> Each year, at the time of payment of taxes, the user makes a declaration for the current year. If the statement is true, you must pay taxes; if it is false, you do not pay taxes. A young mathematician, who believes the system is unfair, finds a way to block it, with one of the following statements: Which?
+>
+> - **(A)** Fish live in water
+> - **(B)** I live in water.
+> - **(C)** Fish do not pay taxes
+> - **(D)** I don't pay the taxes.
+> - **(E)** I pay the taxes.
+
+**Answer:** B
+[[src_archimede_2003_biennio__Q07]]

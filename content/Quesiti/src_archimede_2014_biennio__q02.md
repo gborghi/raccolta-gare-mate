@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_biennio__Q02
 parent: src_archimede_2014_biennio
 competition: Giochi di Archimede 2014 - Biennio (Testo 1)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto di numeri periodici (1,3)·(0,3)*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Oz_wj_o5ytBhbhCTfVi7OLptFspmtFPH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Products of periodic numbers (1,3)·(0,3) *
+
+> How much is (1, ̄3) · (0, ̄3)?
+>
+> - **(A)** 0, 4
+> - **(B)** 0, 4¯3
+> - **(C)** 0, ¯4
+> - **(D)** 13 33
+> - **(E)** None of the above.
+
+**Answer:** C
+[[src_archimede_2014_biennio__Q02]]

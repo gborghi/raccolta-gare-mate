@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2009 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2009__Q02
 parent: src_bocconi_semifinale_2009
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2009
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorso nel labirinto con stanze e corridoi*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (percorso mostrato nella soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Travel through the maze with rooms and corridors*
+
+> Francis enters the labyrinth (pictured) at the top left. After visiting all the rooms, you'll exit from the upper right. On his way, he will use the corridors connecting the rooms but he will not be able to go back or pass the same room twice.
+> 
+> Draw the route for Francis.
+
+![[src_bocconi_semifinale_2009__Q02.png]]
+
+**Answer:** (percorso mostrato nella soluzione)
+[[src_bocconi_semifinale_2009__Q02]]

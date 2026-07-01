@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_2livello__Q15
 parent: src_archimede_2006_2livello
 competition: Archimede Gara 2° livello 2006 (biennio/triennio)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di 5 cifre senza zeri multipli di 12*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4374
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Five-digit numbers without multiples of 12 *
+
+> How many five-digit numbers (i.e. between 10000 and 99999) do not contain zeros and are multiples of 12?
+
+**Answer:** 4374
+[[src_archimede_2006_2livello__Q15]]

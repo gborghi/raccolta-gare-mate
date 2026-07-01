@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f3__Q04
 parent: src_obm_1998_n3_f3
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-player quadratic-coefficient game using two integers and 1998; first player forces two distinct rational roots*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco quadratico-coefficiente per due giocatori utilizzando due enti e 1998; il primo giocatore forza due radici razionali distinte*
+
+> Due ragazzi giocano il seguente gioco. Il primo sceglie due diversi enti non zeri e il secondo scrive un'equazione di secondo grado utilizzando come coefficienti i due numeri scelti dal primo giocatore insieme a $1998$, in qualsiasi ordine desideri (ad esempio, con $a$ e $b$ può scrivere l'equazione $1998x^2 + ax + b = 0$, o $bx^2 + 1998x + a = 0$, ecc.). Il primo giocatore è considerato vincitore se l'equazione ha due radici razionali distinte. Dimostra che il primo giocatore può sempre vincere.
+
+[[src_obm_1998_n3_f3__Q04]]

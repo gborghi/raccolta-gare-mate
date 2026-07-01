@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q09
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *in quanti modi*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> in how many ways< MSK1/>
+
+> Anna has five discs of different sizes. He wants to build a tower over three discs so that each disc (except the first from below) is smaller than the disc on which it rests. How many ways can you do that? A) 5
+> 	
+> B) 6
+> 	
+> C) 8
+> 	
+> D) 10
+> 	
+> E) 15
+
+**Answer:** D
+[[src_kangourou_2023_cadet__Q09]]

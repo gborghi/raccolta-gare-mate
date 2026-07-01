@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2013__Q03
 parent: src_prmo_2013
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2013
@@ -33,6 +34,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of all integer values of a making x^2+ax+20=0 have integer roots*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La somma di tutti i valori interi di un rendendo x^2+ax+20=0 hanno radici interi*
+
+> È dato che l'equazione $x^2 + ax + 20 = 0$ ha radici interi. Qual è la somma di tutti i valori possibili di $a$?
+
+**Risposta:** 0
+[[src_prmo_2013__Q03]]

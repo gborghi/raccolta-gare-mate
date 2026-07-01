@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q11
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equation f(f(f(n)))=16 with piecewise f, count solutions*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione f(f(n)))=16 con soluzioni pieziose f, conteggiamento *
+
+> Per ogni numero naturale $n$ definiamo la funzione $f$ da: $$f(n) = \begin{cases} \dfrac{n}{2} & \text{if } n \text{ is even,} \\ 3n+1 & \text{if } n \text{ is odd.} \end{cases}$$ Il numero di soluzioni dell'equazione $f(f(f(n))) = 16$ è:
+> 
+> A) 2 \quad B) 3 \quad C) 4 \quad D) 5 \quad E) 6
+
+**Risposta:** C
+[[src_obm_1999_n3_f1__Q11]]

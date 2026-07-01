@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2021 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2021__Q13
 parent: src_smc_2021
 competition: Senior Mathematical Challenge 2021
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which of the five surds √2, √18, √200, √32, √8 is the mean of the other four?*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Qual è la media degli altri quattro? *
+
+> Quale di queste è la media delle altre quattro?
+>
+> - **(A)** $\sqrt{2}$
+> - **(B)** $\sqrt{18}$
+> - **(C)** $\sqrt{200}$
+> - **(D)** $\sqrt{32}$
+> - **(E)** $\sqrt{8}$
+
+**Risposta:** D
+[[src_smc_2021__Q13]]

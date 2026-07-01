@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r2__Q04
 parent: src_pol_1997_r2
 competition: Olimpiade Matematica Polacca 1997 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer triples where pairwise products leave remainder 1*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fDY_chv3u9rsyb6LgvZXDNkbEcZAAdED/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i triples interi positivi dove i prodotti in coppia lasciano il rimanente 1*
+
+> Trova tutti i trippi di numeri interi positivi con la proprietà che il prodotto di due di loro dà il rimanente 1 dopo la divisione del terzo numero.
+
+[[src_pol_1997_r2__Q04]]

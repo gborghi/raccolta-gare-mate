@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q08
 parent: src_cesenatico_2011_pubblico
 competition: Gara a Squadre Cesenatico 2011 - Gara del pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita non scoprire sabotatori*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0039
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of not detecting saboteurs< MSK1/>
+
+> Building investigations [35] Five Roman spies and five saboteurs infiltrated the construction site of Numerotris. Abelix has heard of the 5 spies (though he doesn't know who they are) but not the saboteurs and starts questioning all 55 workers at the construction site in random order. If he finds a spy or a saboteur, he'll find out for sure, but once you find all five of them, he stops questioning. What's the probability that he won't find out any of the saboteurs? As a response, provide the first four digits after the comma. Team competition 2011  Public competition  Problem texts  1/2
+> 
+> 2/2 Team competition 2011  Public competition  Problem texts
+
+**Answer:** 0039
+[[src_cesenatico_2011_pubblico__Q08]]

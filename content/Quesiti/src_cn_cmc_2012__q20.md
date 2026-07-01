@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2012 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2012__Q20
 parent: src_cn_cmc_2012
 competition: China Mathematical Competition 2012
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ellipse point constructions: find relationship between QR and b*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $QR = b$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Construzioni di punti di elipso: trovare relazione tra QR e b*
+
+> (20 punti) Se si considera che l'equazione di ellisse $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$ ($a > b > 0$) in un sistema di coordinate rettangolare piano $xOy$, $A_1$, $A_2$ siano i suoi punti di fine sinistra e destra, $F_1$, $F_2$ siano i suoi foci sinistra e destra e $P$ sia qualsiasi punto dell'ellisse diverso da $A_1$, $A_2$. Supponiamo che ci siano punti $Q$, $R$ che soddisfano $\overrightarrow{A_1 Q} = \overrightarrow{P A_1}$, $\overrightarrow{Q A_2} = \overrightarrow{A_2 P}$, $\overrightarrow{P A_1} = \overrightarrow{R F_1}$, $\overrightarrow{P F_2} = \overrightarrow{F_2 R}$. Trova e prova la relazione tra la lunghezza del segmento $QR$ e $b$.
+
+**Risposta:** $QR = b$
+[[src_cn_cmc_2012__Q20]]

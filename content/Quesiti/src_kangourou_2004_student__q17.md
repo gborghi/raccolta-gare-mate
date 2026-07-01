@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q17
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli rettangoli da vertici di un 14-gono*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Rectangular triangles with vertices of a 14-zone < MSK1/>
+
+> How many rectangular triangles have three of the 14 vertices of a regular 14? A) 72 B) 82 C) 84 D) 88 E) other answer
+
+**Answer:** C
+[[src_kangourou_2004_student__Q17]]

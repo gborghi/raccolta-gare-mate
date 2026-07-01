@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre_f2__Q06
 parent: src_kangourou_2024_ecolier_squadre_f2
 competition: Kangourou Squadre 2024 Ecolier Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Fra quanti numeri deve indovinare la somma Elsa*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4045
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Of how many numbers does Elsa have to guess the sum*
+
+> Clotilde wrote all the whole numbers from 1 to 2,024, including each one on a different note. Then he had Sandro extract one of the 2,024 tickets and Chiara one of the 2,023 remaining tickets. Finally, she added the two numbers on the extracted tickets and asked Elsa to guess the amount she got. How many numbers do you have to guess Elsa out of? Answer: 4045.
+
+**Answer:** 4045
+[[src_kangourou_2024_ecolier_squadre_f2__Q06]]

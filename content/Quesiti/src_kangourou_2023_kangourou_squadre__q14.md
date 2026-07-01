@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre__Q14
 parent: src_kangourou_2023_kangourou_squadre
 competition: Kangourou Squadre 2023 Kangourou Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto cifre di n con 3n=ABCDE1*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2240
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Product of n digits with 3n=ABCDE1*
+
+> The triple of n Sia n is a six digit integer 1ABCDE. If the number 3 × n is ABCDE1, what is the product of the numbers of n?
+
+**Answer:** 2240
+[[src_kangourou_2023_kangourou_squadre__Q14]]

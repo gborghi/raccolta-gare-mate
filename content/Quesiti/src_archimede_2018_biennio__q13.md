@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_biennio__Q13
 parent: src_archimede_2018_biennio
 competition: Giochi di Archimede 2018 - Biennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *invariante parita di teste*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>invariant pair of heads< MSK1/>
+
+> Clara has eight coins in a row. Some show the face with the head, others with the cross, in this sequence: TTTTTCCC. He plays this game: with each move, he picks two consecutive coins and flips both. Clearly, with some moves of this kind, you would like to get a row of coins arranged in the CCCCCCTT sequence. What can be concluded?
+>
+> - **(A)** He can do it with a minimum of three moves.
+> - **(B)** He can do it with a minimum of five moves.
+> - **(C)** He can do it with a minimum of seven moves.
+> - **(D)** He can do it with an even number of moves.
+> - **(E)** He can't do that.
+
+**Answer:** E
+[[src_archimede_2018_biennio__Q13]]

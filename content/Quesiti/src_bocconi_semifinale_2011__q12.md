@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2011 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2011__Q12
 parent: src_bocconi_semifinale_2011
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2011
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri palindromi di tre cifre che sono anche quadrati perfetti.*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Tre soluzioni: 121 – 484 – 676
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three-digit palindrome numbers which are also perfect squares.*
+
+> It's called a palindrome, a number that reads the same way from left to right and right to left. For example, 252 is a palindrome number. Marco is all happy because he found some three-digit palindromes that are also the square of an integer. What are the numbers Marco found?
+
+**Answer:** Tre soluzioni: 121 – 484 – 676
+[[src_bocconi_semifinale_2011__Q12]]

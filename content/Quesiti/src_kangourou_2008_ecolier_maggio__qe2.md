@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Ecolier finale nazionale (Mirabilandia) — Quesito E2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_ecolier_maggio__QE2
 parent: src_kangourou_2008_ecolier_maggio
 competition: Kangourou 2008 - Ecolier finale nazionale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eliminare due caselle per uguaglianza vera*
 
@@ -41,3 +44,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** uguaglianza
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sMORIlt9lkjMX5maUC57kkdR79FHjTrM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Remove two boxes for true equality*
+
+![[src_kangourou_2008_ecolier_maggio__probE2.png]]
+
+> In the underlying grid the $=$ symbol cannot be removed, but two boxes can be removed so that the resulting equality is verified. Write that equation.
+> 
+> The grid shall contain the following sequence boxes: $2$, $\times$, $7$, $+$, $8$, $=$, $7$, $1$, $\times$, $5$.
+
+**Answer:** uguaglianza
+[[src_kangourou_2008_ecolier_maggio__QE2]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1993 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1993__Q01
 parent: src_inmo_1993
 competition: Indian National Mathematical Olympiad 1993
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Diagonals of cyclic quadrilateral; circumcentre and orthocentre collinear*
 
@@ -35,3 +38,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YUUjSkPwVGDNNzFb4tb7lnpGfqMd6wTC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Diagonali di quadrilaterali ciclici; circoncentro e collineare ortocentro< MSK1/>
+
+> Le diagonali $AC$ e $BD$ di un quadrilaterale ciclico $ABCD$ si intersecano al punto $P$. Che $O$ sia il circoncentro del triangolo $APB$ e $H$ sia l'ortocentro del triangolo $CPD$. Indicare che i punti $H$, $P$ e $O$ si trovano su una linea.
+
+[[src_inmo_1993__Q01]]

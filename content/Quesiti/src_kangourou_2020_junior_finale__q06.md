@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2020 Finale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_finale__Q06
 parent: src_kangourou_2020_junior_finale
 competition: Kangourou Coppa Junior squadre 2020 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anno di nascita dell'avo (sistema diofanteo)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1522
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1FHlXv6XSZu8CigCMt0qnx7UwdUaiE9UP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Year of birth of the chicken (diophantine system) < MSK1/>
+
+> My grandfather My grandfather's birth year number has the following peculiarity: it is divisible by 2, by 3 if you take 1, by 5 if you take 2, by 7 if you take 3, and by 11 if you take 4. What year was my grandfather born, knowing that he was always a good Christian?
+
+**Answer:** 1522
+[[src_kangourou_2020_junior_finale__Q06]]

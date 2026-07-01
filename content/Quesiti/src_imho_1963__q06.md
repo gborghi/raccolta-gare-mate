@@ -1,6 +1,7 @@
 ---
 title: IMO 1963 (V International Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1963__Q06
 parent: src_imho_1963
 competition: IMO 1963 (V International Olympiad)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Determinare l'ordine di arrivo dei cinque studenti*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jEsSiQhMHXCUUGLKyyw7FLzx9w1-rAC8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Determining the order of arrival of the five students*
+
+> Five students, $A$, $B$, $C$, $D$, $E$, took part in a contest. One prediction was that the contestants would finish in the order $ABCDE$. This prediction was very poor. In fact no contestant finished in the position predicted, and no two contestants predicted to finish consecutively actually did so. A second prediction had the contestants finishing in the order $DAECB$. This prediction was better. Exactly two of the contestants finished in the places predicted, and two disjoint pairs of students predicted to finish consecutively actually did so. Determine the order in which the contestants finished.
+
+[[src_imho_1963__Q06]]

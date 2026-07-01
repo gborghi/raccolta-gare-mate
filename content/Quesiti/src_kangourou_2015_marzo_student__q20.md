@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q20
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *faccia indicata*
 
@@ -55,3 +58,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>face indicated< MSK1/>
+
+![[src_kangourou_2015_marzo_student__prob20.png]]
+
+> A traditional dice has numbers on opposite sides whose sum is 7. Two identical dice were drawn as shown in the figure. What number can appear on the right face indicated by the arrow, not visible in the figure? A) Only five.
+> 	
+> (B) Only two. C) 2 or 5.
+> 	
+> D) 1, 2, 3 o 5.
+> 	
+> E) 2, 3 o 5. The questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** A
+[[src_kangourou_2015_marzo_student__Q20]]

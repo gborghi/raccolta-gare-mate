@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Biennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_biennio__Q12
 parent: src_archimede_2000_biennio
 competition: Giochi di Archimede 2000 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza lato tra due depositi cubici dato volume*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Late difference between two cubic deposits given volume*
+
+> Tullio's bookstore is a cubic room with a side of 5 m and in recent times has become too small to contain all the storage compartments. So Tullio bought a new one, always cubic in shape, which, replacing the previous one, allowed him to gain 218 square meters of space. How many feet is the side of the new depot longer than the old one?
+>
+> - **(A)** 1 m
+> - **(B)** 2 m
+> - **(C)** 3 m
+> - **(D)** 4 m
+> - **(E)** 5 m.
+
+**Answer:** B
+[[src_archimede_2000_biennio__Q12]]

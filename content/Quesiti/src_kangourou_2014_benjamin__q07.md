@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Benjamin — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin__Q07
 parent: src_kangourou_2014_benjamin
 competition: Kangourou 2014 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Fiammiferi per lato del quadrato con 62 totali*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Flammiferi per square side with 62 total*
+
+> Catherine has 62 matches, all of them equal. Using all of them, without breaking them, he arranged them so as to form some (one or more) equilateral triangles and a square, which have no points in common. He used six matches on each side of a triangle. How many did you use for each side of the square? A) 2
+> 	
+> B) 6
+> 	
+> C) 7
+> 	
+> D) 11
+>    
+> E) You cannot answer without knowing the number of triangles.
+
+**Answer:** E
+[[src_kangourou_2014_benjamin__Q07]]

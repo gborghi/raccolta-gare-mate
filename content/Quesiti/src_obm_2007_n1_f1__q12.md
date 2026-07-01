@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f1__Q12
 parent: src_obm_2007_n1_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Queue: 7 people separate them, 6 behind Esmeralda, 2 enter between; find Esmeralda's position*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Queue: 7 people separate them, 6 behind Esmeralda, 2 enter between; find Esmeralda's position*
+
+> Esmeralda and Perola are in a queue. Perola notices that $7$ people separate them and that there are $6$ people behind Esmeralda. Two extra people then enter the queue between Esmeralda and Perola. The numbers below could be Esmeralda's position counting from the front of the queue, except:
+> 
+> (A) 9 \quad (B) 11 \quad (C) 13 \quad (D) 14 \quad (E) 15
+
+[[src_obm_2007_n1_f1__Q12]]

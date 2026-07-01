@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2021 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_printemps__Q01
 parent: src_canimath_2021_printemps
 competition: Coupe Animath Printemps 2021
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute a factorial-based fraction*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 25
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolare una frazione basata su fattori*
+
+> Calcolo < MSK0/>
+> 
+> *Solo una risposta numerica è prevista qui.*
+
+**Risposta:** 25
+[[src_canimath_2021_printemps__Q01]]

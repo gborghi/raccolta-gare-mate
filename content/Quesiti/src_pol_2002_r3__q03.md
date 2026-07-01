@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2002 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2002_r3__Q03
 parent: src_pol_2002_r3
 competition: Olimpiade Matematica Polacca 2002 — Round 3
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Replace two of three blackboard integers by sum and absolute difference; reach two zeros*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Z3g6eT52wK20LS2ktHnl8h3UqBRM46o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sostituire due dei tre enti della scheda nera con la somma e la differenza assoluta; raggiungere due zero*
+
+> Su una lavagna sono scritte tre numeri interi non negativi. Di questi numeri due $k, m$ sono scelti e sostituiti dai numeri $k + m$ e $|k - m|$. Il terzo numero rimane invariato. Con questi tre nuovi numeri procedono in modo simile. L'obiettivo è quello di ottenere almeno due numeri uguali a $0$. Scopri se è possibile.
+
+[[src_pol_2002_r3__Q03]]

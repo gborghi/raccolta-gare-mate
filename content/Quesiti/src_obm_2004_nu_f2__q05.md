@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2 —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_nu_f2__Q05
 parent: src_obm_2004_nu_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute limit of ratio of winning positions in floor-division game*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WVgS-I5YT_klW86nflai_QTNcRLnc5kh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Limite di calcolo del rapporto di posizioni vincenti in gioco di divisione a pavimento*
+
+> $m\ge 2$ sia un numero intero. Arnaldo e Bernaldo giocano la seguente partita: ogni giocatore, a turno, riceve un intero positivo $N_i$ e passa all'altro giocatore o $N_{i+1}=N_i-1$ o $N_{i+1}=\left\lfloor N_i/m\right\rfloor$. Chi riceve un numero intero positivo $N_0$ e passa lo zero vince la partita.
+> 
+> Lasciate che < MSK0/> (resp. $B_m$) è l'insieme dei valori di $N_0$, $N_0<n$, per il quale Arnaldo (resp. Bernaldo) ha una strategia vincente.
+> 
+> Calcolare $\displaystyle\lim_{n\to\infty}\frac{|A_m|}{|B_m|}$ come funzione di $m$.
+
+[[src_obm_2004_nu_f2__Q05]]

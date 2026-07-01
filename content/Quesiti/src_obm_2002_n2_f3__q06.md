@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f3__Q06
 parent: src_obm_2002_n2_f3
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 3
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Euler totient phi: prove that for every m there exists n with phi(n) = m!*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nXOkuveTEgG-AREkbRruZntjlbpxTLWP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Euler totient phi: dimostrare che per ogni m esiste n con phi(n) = m!*
+
+> $n$ sia un numero intero positivo. Definitiamo $\varphi(n) = \left(1 - \dfrac{1}{p_1}\right) \cdot \left(1 - \dfrac{1}{p_2}\right) \cdot \ldots \cdot \left(1 - \dfrac{1}{p_k}\right) \cdot n$, dove $p_1, p_2, \ldots, p_k$ sono i fattori primi distinti di $n$. Prova che per ogni $m \ge 1$ esiste $n$ tale che $\varphi(n) = m!$.
+> 
+> Nota: $m! = 1 \cdot 2 \cdot \ldots \cdot m$.
+
+[[src_obm_2002_n2_f3__Q06]]

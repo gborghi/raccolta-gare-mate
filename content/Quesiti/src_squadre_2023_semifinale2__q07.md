@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Semifinale 2 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_semifinale2__Q07
 parent: src_squadre_2023_semifinale2
 competition: Gara a Squadre 2023 - Semifinale 2
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto aree diamante con punti a 1/4 dei lati*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0026
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rate of diamond areas with 1/4-sided dots*
+
+> Lupin/3 falls in love Lupin/3 is in love with the beautiful Fujit ̄o, a thief who has taken him by answering almost instantly to the following question: how much is the sum mcm(1,8)+mcm(2,8)+...+mcm(136,8)?
+
+**Answer:** 0026
+[[src_squadre_2023_semifinale2__Q07]]

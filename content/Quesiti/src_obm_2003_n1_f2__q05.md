@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f2__Q05
 parent: src_obm_2003_n1_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ferris wheel with 25 cabins; how many cabins total*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 34
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rota di traghetto con 25 cabine; quante cabine totali*
+
+> La grande attrazione di OBM Park è una gigantesca ruota di Ferris (la figura mostra una gigantesca ruota di Ferris, ma con un numero minore di cabine). Le cabine sono numerate $1, 2, 3, \ldots$ in ordine orario. Quando la cabina $25$ si trova nella posizione più bassa della ruota del Ferris, la cabina $8$ si trova nella posizione più alta. Quante cabine ha la ruota del Ferris?
+
+![[src_obm_2003_n1_f2__Q05.png]]
+
+**Risposta:** 34
+[[src_obm_2003_n1_f2__Q05]]

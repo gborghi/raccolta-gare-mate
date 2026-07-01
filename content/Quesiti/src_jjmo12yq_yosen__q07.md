@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo12yq_yosen__Q07
 parent: src_jjmo12yq_yosen
 competition: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count placements of six 1x2 boards with two covered cells per row/column*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 540
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio di sei tabelle 1x2 con due celle coperte per riga/colonna*
+
+> C'è una griglia $6 \times 6$. Sono disposte sei tavole rettangolari di dimensioni $1 \times 2$, ciascuna coprendo esattamente le celle $2$, in modo che non si sovrappongano, in modo tale che in ogni riga e in ogni colonna le celle $2$ siano coperte esattamente da tavole. In quanti modi si può farlo? Qui, le sei tavole sono indistinguibili e le posizioni che coincidono sotto una rotazione o riflessione della griglia $6 \times 6$ vengono contate come diverse.
+
+**Risposta:** 540
+[[src_jjmo12yq_yosen__Q07]]

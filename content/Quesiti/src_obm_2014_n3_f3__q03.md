@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f3__Q03
 parent: src_obm_2014_n3_f3
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Combinatorial stone-pile game: determine winner for each N*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco combinatorio di pile di pietra: determinare il vincitore per ogni N*
+
+> $N$ deve essere un numero intero superiore a 2. Arnaldo e Bernaldo giocano il seguente gioco: ci sono $N$ pietre in una pila. Nella prima mossa, fatta da Arnaldo, deve rimuovere una quantità $k$ di pietre dalla pila con $1 \le k \le N$. Quindi Bernaldo deve rimuovere una quantità di pietre dalla pila con $1 \le m \le 2k$, e così via; ogni giocatore, alternativamente, rimuove una quantità di pietre dalla pila tra $1$ e il doppio della quantità che l'avversario ha rimosso, inclusa. Il giocatore che prende l'ultima pietra vince.
+> 
+> Per ogni valore di $N$, determinare quale giocatore è garantito una vittoria indipendentemente dal modo in cui gli altri giocano e spiegare quale sia la strategia vincente per ogni caso.
+
+[[src_obm_2014_n3_f3__Q03]]

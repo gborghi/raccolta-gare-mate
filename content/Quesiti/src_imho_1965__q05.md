@@ -1,6 +1,7 @@
 ---
 title: IMO 1965 (VII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1965__Q05
 parent: src_imho_1965
 competition: IMO 1965 (VII International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Locus of orthocenter foot as point ranges over triangle region*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tk-D3Xruwl2WK5FPEf9VF-YTvWxYxD4K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Locus of orthocenter foot as point ranges over triangle region*
+
+> Consider $\triangle OAB$ with acute angle $AOB$. Through a point $M \ne O$ perpendiculars are drawn to $OA$ and $OB$, the feet of which are $P$ and $Q$ respectively. The point of intersection of the altitudes of $\triangle OPQ$ is $H$. What is the locus of $H$ if $M$ is allowed to range over (a) the side $AB$, (b) the interior of $\triangle OAB$?
+
+[[src_imho_1965__Q05]]

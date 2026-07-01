@@ -1,6 +1,7 @@
 ---
 title: IMO 2007 (XLVIII International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2007__Q03
 parent: src_imho_2007
 competition: IMO 2007 (XLVIII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Clique sizes in two-room partition of friendship graph*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18zBoJL6BL0Qzw_Nb0n79SKzFnL3kZGiT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Click sizes in two-room partition of friendship graph
+
+> In a mathematical competition some competitors are friends. Friendship is always mutual. Call a group of competitors a clique if each of them are friends. The number of members of a clique is called its size.
+> 
+> Given that, in this competition, the largest size of a clique is even, prove that the competitors can be arranged in two rooms such that the largest size of a clique contained in one room is the same as the largest size of a clique contained in the other room.
+
+[[src_imho_2007__Q03]]

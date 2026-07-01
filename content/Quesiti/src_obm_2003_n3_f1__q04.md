@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q04
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count arrangements of 35 people in a line with Arnaldo first among his 5 friends*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Contiamo 35 persone in fila con Arnaldo tra i suoi 5 amici.
+
+> Cinque amici  Arnaldo, Bernaldo, Cornaldo, Dernaldo e Ernaldo  devono formare una linea insieme ad altre 30 persone (35 persone in totale). In quanti modi possiamo formare questa linea in modo che Arnaldo sia prima di ciascuno degli altri quattro amici? (Nota: gli amici non devono essere in posizione consecutiva.)
+> 
+> A) $35!$ \quad B) $\dfrac{35!}{5!}$ \quad C) $\dfrac{35!}{5}$ \quad D) $\left(\dfrac{35}{5}\right)! \cdot 5!$ \quad E) $e^{\sqrt{10}}$
+
+**Risposta:** B
+[[src_obm_2003_n3_f1__Q04]]

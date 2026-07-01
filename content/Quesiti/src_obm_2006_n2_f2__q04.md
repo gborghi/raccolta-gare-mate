@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f2__Q04
 parent: src_obm_2006_n2_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum number of rectangles in an 8×8 chessboard decomposition*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero massimo di rettangoli in una decomposizione di scacchi da 8×8*
+
+> Una scacchiera $8 \times 8$ si decompone in rettangoli che soddisfano tutte le seguenti proprietà contemporaneamente: (i) ogni rettangolo contiene un numero intero di quadrati; (ii) i vari rettangoli contengono numeri di quadrati separati in coppia; (iii) ogni rettangolo contiene lo stesso numero di quadrati bianchi e quadrati neri. Qual è il numero massimo di rettangoli in cui la tavola può essere decomposta?
+
+[[src_obm_2006_n2_f2__Q04]]

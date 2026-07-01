@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2023 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2023__Q03
 parent: src_cgen_2023
 competition: Concours Général des Lycées 2023 — Matematica
@@ -45,6 +46,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In an orthonormal frame, study polynomials whose graph passes through all vertices of a regular k-gon centered at O: case of equilateral triangles, squares centered at O, the lower bound d >= k-1, and the sufficiency of every d >= k-1 (via Chebyshev polynomials).*
 
@@ -114,3 +117,47 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UEmDklBRoLwyCF47wsu7dNuzbiS9gQhj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un quadro ortonormale, studiare polinomi il cui grafico passa attraverso tutti i vertici di un k-gon regolare centrato a O: caso di triangoli equilaterali, quadrati centrati a O, il limite inferiore d >= k-1, e la sufficienza di ogni d >= k-1 (via polinomi di Chebyshev).*
+
+> Problema 3: Polinomi e poligoni regolari.
+> 
+> L'aereo è dotato di una cornice ortonormale $\mathcal{R} = (O; I, J)$. $k$ sia un numero intero con $k \ge 3$. I punti $M_1, M_2, \dots, M_k$ sono i vertici di un poligono regolare con centro $O$ in modo tale che: le loro abscisse siano a coppia distinte; i punti appaiono in ordine trigonometrico (in senso contrario all'orologio intorno a $O$); e $M_1 M_2 = M_2 M_3 = \cdots = M_{k-1} M_k = M_k M_1$ (è un poligono regolare; per $k = 4$ è un quadrato).
+> 
+> Si dice che una funzione $P$ è un polinomio di grado $d$ se esistono reali $a_0, a_1, \dots, a_d$ con $a_d \ne 0$ in modo tale che $P(x) = a_d x^d + a_{d-1} x^{d-1} + \cdots + a_2 x^2 + a_1 x + a_0$ per ogni reale $x$. Si dice anche che un tale polinomio $P$ non ha più di $d$ soluzioni reali. La funzione $P : x \mapsto 0$ è chiamata polinomio zero. Infine, dato un polinomio $P$ (zero o meno), si indica con $\mathscr{C}_P$ il grafico (curva rappresentativa) di $P$ nel quadro $\mathcal{R}$.
+> 
+> 3.1 Triangoli equilaterali.
+> 
+> 1. Che $P$ sia un polinomio di grado 1. Esiste un triangolo equilaterale le cui vertici appartengono a $\mathscr{C}_P$?
+> 
+> 2. Considerare i punti $$A\!\left(1; \frac{\sqrt{3}}{3}\right), \quad B\!\left(-1; \frac{\sqrt{3}}{3}\right) \quad \text{and} \quad C\!\left(0; -\frac{2\sqrt{3}}{3}\right).$$ a. Indicare che $A$, $B$, $C$ formano un triangolo equilaterale con centro $O$. b. Indicare che $A$, $B$, $C$ appartengono al grafico del polinomio $Q : x \mapsto \frac{\sqrt{3}}{3}\left(3x^2 - 2\right)$. c. Indicare che $A$, $B$, $C$ appartengono al grafico del polinomio $R : x \mapsto \frac{\sqrt{3}}{3}\left(3x^2 - 2\right) + x\left(x^2 - 1\right)$. d. Mostra che per ogni intero $d \ge 2$ esiste un polinomio di grado $d$ il cui grafico contiene i punti $A$, $B$, $C$.
+> 
+> 3.2 Quadrati con centro $O$.
+> 
+> In quanto segue, consideriamo un polinomio $P$ e un quadrato $ABCD$ con centro $O$ le cui quattro vertici appartengono a $\mathscr{C}_P$.
+> 
+> 3. a. Esprimere le coordinate dei punti $B$, $C$, $D$ come funzioni di quelle di $A$. Mostrare che le abscisse di $A$, $B$, $C$, $D$ sono separate in coppia. b. Indicare che $P$ non è zero e che il suo grado è almeno 2.
+> 
+> 4. Supponiamo in questa domanda che esistano reali $a$, $b$, $c$ tali che $P : x \mapsto x^3 + a x^2 + b x + c$. a. Indicare che $a = 0$ e $c = 0$. b. Indicare che le rispettive abscisse di $A$, $B$, $C$, $D$ sono soluzioni dell'equazione $P(P(x)) + x = 0$. c. Mostrare che il polinomio $Q : x \mapsto x^9 + 3b x^7 + 3b^2 x^5 + b(b^2 + 1)x^3 + b^2 x + b^2 + 1$ ammette almeno due radici reali rigorosamente positive distinte. d. Mostra che < MSK12/>. e. Supponiamo che esistano i valori $\alpha$ e $\beta$ con $\alpha < \beta$ in modo tale che $Q(x) = (x - \alpha)^2 (x - \beta)^2$ per ogni $x$ reale. Indicare quindi $b = -\sqrt{8}$ e determinare i valori di $\alpha$ e $\beta$. [Nota: la forma esatta della fatturazione e della costante sono parzialmente illeggibili; questa lettura è incerta.]
+> 
+> 5. a. Mostra che esiste un polinomio $P$ di grado 3 e un quadrato $ABCD$ con centro $O$ le cui vertici appartengono a $\mathscr{C}_P$. b. Per quali integri $d$ esiste un polinomio di grado $d$ il cui grafico contiene i punti $A$, $B$, $C$, $D$ come nella domanda 5.a?
+> 
+> 3.3 Quando si dimostra che < MSK0/>.
+> 
+> $M_1, \dots, M_k$ siano i vertici di un poligono regolare con centro $O$. Supponiamo in questa domanda che esista un polinomio $P$, di grado $d$, il cui grafico contiene i vertici $M_1, \dots, M_k$. Si desidera dimostrare che $d \ge k - 1$. Per ogni $i$, $(x_i; y_i)$ sono le coordinate di $M_i$ nel quadro $\mathcal{R}$.
+> 
+> 6. a. Perché si può presumere che l'abcissa $x_1$ sia inferiore o uguale a $x_2, x_3, \dots, x_k$ e che $y_i$ non siano zero? b. Indicare che le abscisse $x_i$ sono in coppia distinte e che le ordinate $y_i$ non sono zero. c. Indicare che nell'intervallo $[0, \pi/4)$ esistono un $R > 0$ reale e un $\theta$ reale in modo tale che $x_1 = -R\cos(\theta)$ e $y_1 = -R\sin(\theta)$. d. Mostra che < MSK10/>. [Nota: la catena di ordinazione precisa è parzialmente illeggibile.] e. Indicare che $P$ ammette una radice su ciascuno degli intervalli $k - 1$ $[x_1, x_2], [x_2, x_3], \dots, [x_{k-1}, x_k]$. [Nota: l'elenco preciso degli intervalli è parzialmente illeggibile; questa lettura è incerta.] f. Concludere che $d \ge k - 1$.
+> 
+> 3.4 Dove si dimostra che ogni $d \ge k - 1$ funziona.
+> 
+> Supponiamo in questa domanda che le abscisse $x_i$ siano in coppia distinte, e si voglia dimostrare che, per ogni numero intero $d \ge k - 1$, esiste un polinomio di grado $d$ il cui grafico contiene i punti $M_1, M_2, \dots, M_k$.
+> 
+> 7. Che $a$ e $b$ siano due valori reali. Nel quadro $\mathcal{R}$, considerate i punti $A(\cos(a), \sin(a))$, $B(\cos(a+b), \sin(a+b))$ e $C(-\sin(a), \cos(a))$. a. Indicare che il telaio $\mathcal{R}' = (O; \overrightarrow{OA}, \overrightarrow{OC})$ è ortonormale. b. Quali sono le coordinate del punto $B$ nel quadro $\mathcal{R}'$? c. Riduzione di < MSK9/> e < MSK10/>.
+> 
+> 8. Considera la sequenza di polinomi definiti da $T_0 : x \mapsto 1$, $T_1 : x \mapsto x$ e $T_{n+2} : x \mapsto 2x\, T_{n+1}(x) - T_n(x)$ per ogni intero $n \ge 0$. a. Indicare che $T_n(\cos(\theta)) = \cos(n\theta)$ per ogni numero intero $n \ge 0$ e ogni reale $\theta$. b. Lasciate che $\theta$ sia reale, e lasciate che $\ell$ e $j$ siano due numeri interi. Mostra che < MSK10/>. [Nota: questa identità è parzialmente illeggibile nella fonte; la lettura è incerta.] c. Mostra che per ogni intero $d \ge k - 1$ esiste un polinomio di grado $d$ il cui grafico contiene i punti $M_1, M_2, \dots, M_k$.
+
+[[src_cgen_2023__Q03]]

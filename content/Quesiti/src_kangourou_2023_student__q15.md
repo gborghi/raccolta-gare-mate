@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q15
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie di interi con |2m-2023|+|2n-m|<=1*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Couples of integers with 2m-2023 dictionary
+
+> How many pairs of integers m and n satisfy the inequality? A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 3 E) 4
+
+**Answer:** B
+[[src_kangourou_2023_student__Q15]]

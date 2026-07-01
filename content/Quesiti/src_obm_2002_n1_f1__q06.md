@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f1__Q06
 parent: src_obm_2002_n1_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Monthly production from sales split among three shops*
 
@@ -48,3 +51,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NviJwQmbmihSaakvq3DJSWhViadj6Z5P/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Produczione mensile derivante dalla divisione delle vendite tra tre negozi*
+
+> L'intera produzione mensile di lattine di bevande soda di una certa fabbrica veniva venduta a tre negozi. Per la fabbrica A sono state vendute $\dfrac{2}{5}$ della produzione; per la fabbrica B sono state vendute $\dfrac{2}{5}$ della produzione e per la fabbrica C sono state vendute $2500$ unità. Qual era la produzione mensile di questa fabbrica?
+> 
+> (A) $4166$ lattine (B) $10000$ lattine (C) $20000$ lattine (D) $25000$ lattine (E) $30000$
+
+**Risposta:** D
+[[src_obm_2002_n1_f1__Q06]]

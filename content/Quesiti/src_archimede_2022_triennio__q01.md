@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2022 - Gara Triennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_triennio__Q01
 parent: src_archimede_2022_triennio
 competition: Giochi di Archimede 2022 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero differisce meno da ((n+3)/2)^2*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which number differs less than ((n+3)/2)^2*
+
+> Given a positive integer n, which of the following numbers differs less from n + 3 2 2?
+>
+> - **(A)** (n + 2)2
+> - **(B)** (n + 1)2
+> - **(C)** (n + 1)(n + 2)
+> - **(D)** n2 + 2
+> - **(E)** n2 + 9 4
+
+**Answer:** C
+[[src_archimede_2022_triennio__Q01]]

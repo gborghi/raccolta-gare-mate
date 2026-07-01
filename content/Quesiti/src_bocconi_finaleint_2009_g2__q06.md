@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 2) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g2__Q06
 parent: src_bocconi_finaleint_2009_g2
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di rose da piantare lungo il bordo del giardino rettangolare*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_LRZ35lngxx9JZL11y14CrDyt5FTBU28/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of roses to be planted along the edge of the rectangular garden*
+
+> The Rose Garden. Rose's garden comprises five identical rectangles depicted in the figure. She wants to plant roses along the edge, regularly spaced. How many roses do you have to plant?
+
+![[src_bocconi_finaleint_2009_g2__Q06.png]]
+
+**Answer:** 70
+[[src_bocconi_finaleint_2009_g2__Q06]]

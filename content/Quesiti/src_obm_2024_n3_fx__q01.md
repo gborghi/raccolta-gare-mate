@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2024 — Nível 3 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_n3_fx__Q01
 parent: src_obm_2024_n3_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível 3 — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Infinite integer sequence with zero sums and nonzero terms*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di numeri interi infiniti con somme zero e termini non zero*
+
+> Visualizzare una sequenza infinita $a_1, a_2, \ldots$ di numeri interi con entrambe le seguenti proprietà:
+> 
+> - $a_i \neq 0$ per ogni intero positivo $i$; cioè nessun termine della sequenza è uguale a zero; - per ogni intero positivo $i$, $a_i + a_{i+1} + \cdots + a_{i+2024} = 0$.
+> 
+> Per ottenere punteggi completi, devi giustificare il motivo per cui la tua sequenza ha entrambe le proprietà sopra.
+
+[[src_obm_2024_n3_fx__Q01]]

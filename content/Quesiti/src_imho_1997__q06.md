@@ -1,6 +1,7 @@
 ---
 title: IMO 1997 (XXXVIII International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1997__Q06
 parent: src_imho_1997
 competition: IMO 1997 (XXXVIII International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Count representations of n as sum of powers of 2; prove bounds on f(2^n)*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g-riBxA5RS3xIizqUBYrgemajJKWaBw5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Count representations of n as sum of powers of 2; prove bounds on f(2^n) < MSK1/>
+
+> For each positive integer $n$, let $f(n)$ denote the number of ways of representing $n$ as a sum of powers of $2$ with nonnegative integer exponents. Representations which differ only in the ordering of their summands are considered to be the same. For example, $f(4) = 4$, because the number $4$ can be represented in the following four ways: $$4;\; 2+2;\; 2+1+1;\; 1+1+1+1.$$ Prove that, for any integer $n \ge 3$, $$2^{n^2/4} < f(2^n) < 2^{n^2/2}.$$
+
+[[src_imho_1997__Q06]]

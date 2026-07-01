@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Biennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_biennio__Q01
 parent: src_archimede_1998_biennio
 competition: Giochi di Archimede 1998 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di 0,3 al cubo*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kWwcoo-eeUmeGNwnlbaf7KaRcCi2NLyS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Value of 0,3 per cube< MSK1/>
+
+> 0, 3 × 0, 3 × 0, 3 is equal to
+>
+> - **(A)** 0,9
+> - **(B)** 0,27
+> - **(C)** 0,027
+> - **(D)** 0,009
+> - **(E)** 0,0027.
+
+**Answer:** C
+[[src_archimede_1998_biennio__Q01]]

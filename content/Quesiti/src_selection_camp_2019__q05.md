@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2019 — Selection Camp — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2019__Q05
 parent: src_selection_camp_2019
 competition: Japan IMO Selection Camp 2019 — Selection Camp
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Good numbers 2^n+2^{floor(n/2)}: sums and non-sums of distinct good numbers*
 
@@ -45,3 +48,17 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Buoni numeri 2^n+2^{piano(n/2)}: somme e non somme di numeri buoni distinti< MSK1/>
+
+> Chiamare un intero un \textit{buono numero} se può essere scritto, utilizzando un intero non negativo $n$, nella forma $2^n + 2^{\lfloor n/2 \rfloor}$. (Qui $\lfloor r \rfloor$ indica il più grande numero intero non superiore al numero reale $r$.)
+> 
+> (1) Prove che ci sono infiniti numeri buoni che possono essere espressi come la somma di due o più numeri buoni distinti.
+> 
+> (2) Prove che esistono infiniti numeri buoni che non possono essere espressi come una somma di due o più numeri buoni distinti.
+
+[[src_selection_camp_2019__Q05]]

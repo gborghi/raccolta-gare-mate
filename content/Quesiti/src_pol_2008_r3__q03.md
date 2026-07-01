@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2008 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2008_r3__Q03
 parent: src_pol_2008_r3
 competition: Olimpiade Matematica Polacca 2008 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a convex pentagon ABCDE with given equal side and angle conditions, prove that BCDE is a parallelogram.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fNP5XBamldvAMai-xDjSDLVp0ag-433Q/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un ABCDE pentagonale convexo con condizioni di lato e angolo uguali, dimostrare che BCDE è un parallelo.*
+
+> Un pentagono convexo $ABCDE$ è tale che $BC = DE$, $\angle ABE = \angle CAB = \angle AED - 90^\circ$ e $\angle ACB = \angle ADE$. Provare che $BCDE$ è un parallelo.
+
+[[src_pol_2008_r3__Q03]]

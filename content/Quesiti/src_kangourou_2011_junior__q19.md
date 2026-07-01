@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Junior (gara marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_junior__Q19
 parent: src_kangourou_2011_junior
 competition: Kangourou 2011 Junior (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale amica abita in via Curva (non rettilinea)*
 
@@ -73,3 +76,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1AJCl_AfEoFXnuVsI8nXmEWfRHRXKCZ3O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which friend lives on Curva Street (not straight) < MSK1/>
+
+![[src_kangourou_2011_junior__prob19.png]]
+
+> During a road trip by car on a rough road, Michela drew the sketch you see in the picture: it shows the houses of her four friends, the streets where they live, and the intersections between these streets. In reality, however, the streets of Arccia, Righello and Chiodo are all straight. Fourth Avenue is Curva Street. Which one of the four friends lives on Curva Street? A) Angela B) White C) Clear D) Donated E) Can not be deduced from the sketch available 1 0 2 4 3 2 0 1 1 2 0 1 Clear Donated White Angela Testi_11Mat.qxp 19-05-2011 21:25 Page 24
+> 
+> I'm going to pay. I'm going to pay. 25 25 Kang 201 Kang 2011
+
+**Answer:** C
+[[src_kangourou_2011_junior__Q19]]

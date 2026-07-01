@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo10yq_yosen__Q02
 parent: src_jjmo10yq_yosen
 competition: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count palindromes at most 2012 with reversed-order equal original*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 119
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare palindromi al massimo 2012 con ordine inverso uguale all'originale*
+
+> Un intero positivo è chiamato palindromo se i suoi numeri letti in ordine inverso danno lo stesso numero (senza zeri di primo piano). Ad esempio, $1234$ non è un palindromo poiché la lettura inversa dà $4321$, che non è uguale a $1234$. Quanti palindromi ci sono che sono al massimo < MSK3/>?
+
+**Risposta:** 119
+[[src_jjmo10yq_yosen__Q02]]

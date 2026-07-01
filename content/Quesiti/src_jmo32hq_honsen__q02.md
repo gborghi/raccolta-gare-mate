@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2022 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo32hq_honsen__Q02
 parent: src_jmo32hq_honsen
 competition: Japan Mathematical Olympiad 2022 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all strictly increasing f with f^100(m)+mn=f(m)f(n)*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1N8QRZh_HoqqCTuVlMkwjvlkn9JqK43Wo/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le f stringentemente in aumento con f^100(m) +mn=f(m) f(n) *
+
+> Lasciate che $f$ sia una funzione strettamente in aumento dai numeri interi positivi ai numeri interi positivi. Trovare tutti tali $f$ in modo che $$f^{100}(m) + mn = f(m)f(n)$$ si tenga per ogni coppia di integri positivi $m, n$. Qui $f^{100}(n)$ indica $f(f(\cdots f(n)\cdots))$ con $f$ applicato $100$ volte.
+
+[[src_jmo32hq_honsen__Q02]]

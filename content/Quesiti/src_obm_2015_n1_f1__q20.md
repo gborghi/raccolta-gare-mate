@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q20
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum balls moved to green urn under divisor rule*
 
@@ -60,3 +63,25 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Massime palle spostate in urna verde secondo la regola del divisore*
+
+> Una urna rossa contiene 20 palle, numerate da 1 a 20, e una urna verde è vuota.
+>
+> i) Maria prende una palla, ne mostra il numero a João e la mette nell'urna verde.
+>
+> ii) João prende dall'urna rossa tutte le palle i cui numeri sono divisori del numero indicato da Maria e le colloca nell'urna verde.
+>
+> Le fasi i) e ii) sono ripetute successivamente fino al momento in cui la fase ii) non può più essere eseguita. Quante palle possono essere messe nella urna verde?
+>
+> - **(A)** 12
+> - **(B)** 14
+> - **(C)** 15
+> - **(D)** 16
+> - **(E)** 17
+
+[[src_obm_2015_n1_f1__Q20]]

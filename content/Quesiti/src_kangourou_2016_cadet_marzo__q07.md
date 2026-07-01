@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q07
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti usano auto*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>who use a car< MSK1/>
+
+> In my school, only 12 percent of teachers come to school by car, while 60 percent, or 45 people, use public transport. How many teachers use the car to get to school? A) 4
+> 	
+> B) 6
+> 	
+> C) 9
+> 	
+> D) 10
+> 	
+> E) 12
+
+**Answer:** C
+[[src_kangourou_2016_cadet_marzo__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Student — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_semif__Q18
 parent: src_kangourou_2018_student_semif
 competition: Kangourou 2018 Semifinale Student
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo n per cui due interi hanno somma/diff div per 100*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 52
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum n for which two integers have sum/diff div for 100*
+
+> (Points 8) It is to be ensured that, whatever positive integers are chosen, at least two of them have a sum or a difference of which is divisible by 100. What's the smallest value of n that allows us to have this certainty?
+> 
+> 0005 9000 2019 0669 1102 0100 3600 2016 0052
+
+**Answer:** 52
+[[src_kangourou_2018_student_semif__Q18]]

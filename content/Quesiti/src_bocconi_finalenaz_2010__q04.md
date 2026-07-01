@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2010 — Quesito
   4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2010__Q04
 parent: src_bocconi_finalenaz_2010
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2010
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Il consueto découpage: tagliare figura in due parti uguali*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The usual decoupage: cut the figure into two equal parts*
+
+> **Show some of the lines drawn so as to divide the figure into two equal parts.**
+> 
+> (Two parts are considered equal if they can be overlapped, possibly by rotating or flipping them.)
+
+![[src_bocconi_finalenaz_2010__Q04.png]]
+
+[[src_bocconi_finalenaz_2010__Q04]]

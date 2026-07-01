@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2021__Q09
 parent: src_ioqm_2021
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2021
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence P_n defined by linear recurrence; area of pentagon P0,P2,P4,P6,P8*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza P_n definita da ricorrenza lineare; area del pentagono P0, P2, P4, P6, P8*
+
+> Indicare $P_0 = (3, 1)$ e definire $P_{n+1} = (x_{n+1}, y_{n+1})$ per $n \ge 0$ con $$x_{n+1} = \frac{3x_n - y_n}{2}, \quad y_{n+1} = \frac{x_n + y_n}{2}$$ Indicare l'area del quadrilaterale formato dai punti $P_0, P_2, P_4, P_6, P_8$.
+
+[[src_ioqm_2021__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Biennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_biennio__Q04
 parent: src_archimede_2010_biennio
 competition: Giochi di Archimede 2010 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordinamento corretto di radici 2rad2, rad10, rad5+rad3*
 
@@ -43,3 +46,20 @@ tags:
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 **Anche in triennio:** [apri PDF p.5](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Right ordering of roots 2rad2, rad10, rad5+rad3*
+
+> Which of these inequalities is correct?
+>
+> - **(A)** 2 √ 2 < √ 10 < √ 5 + √ 3,
+> - **(B)** √ 5 + √ 3 < 2 √ 2 < √ 10,
+> - **(C)** 2 √ 2 < √ 5 + √ 3 < √ 10,
+> - **(D)** √ 10 < 2 √ 2 < √ 5 + √ 3,
+> - **(E)** √ 5 + √ 3 < √ 10 < 2 √ 2.
+
+**Answer:** A
+[[src_archimede_2010_biennio__Q04]]

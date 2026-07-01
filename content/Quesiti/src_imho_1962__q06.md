@@ -1,6 +1,7 @@
 ---
 title: IMO 1962 (IV International Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1962__Q06
 parent: src_imho_1962
 competition: IMO 1962 (IV International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Provare d=sqrt(r(r-2rho)) (formula di Eulero)*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BlLkE_efsxSP5T1vvAcLZHNj-SGm8Pco/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Try d=sqrt(r(r-2rho)) (Euler formula) *
+
+> Consider yourself an isosceles triangle. either $r$ the radius of its circumscribed circle and $\rho$ the radius of its inscribed circle. Show that the $d$ distance between the centers of these two circles is $d = \sqrt{r(r - 2\rho)}$.
+
+[[src_imho_1962__Q06]]

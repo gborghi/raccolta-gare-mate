@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f2__Q08
 parent: src_obm_2003_n1_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Multiplication 45 times a3 equals 3bcd; find b+c+d*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 15
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Multiplicazione 45 per a3 = 3bcd; trovare b+c+d*
+
+> Nella seguente moltiplicazione, $a$, $b$, $c$ e $d$ sono cifre: $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$ Calcolare $b + c + d$.
+
+**Risposta:** 15
+[[src_obm_2003_n1_f2__Q08]]

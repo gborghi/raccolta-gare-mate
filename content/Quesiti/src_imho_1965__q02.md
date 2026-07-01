@@ -1,6 +1,7 @@
 ---
 title: IMO 1965 (VII International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1965__Q02
 parent: src_imho_1965
 competition: IMO 1965 (VII International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prove a homogeneous linear system has only the trivial solution*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tk-D3Xruwl2WK5FPEf9VF-YTvWxYxD4K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Prove a homogeneous linear system has only the trivial solution*
+
+> Consider the system of equations $$a_{11}x_1 + a_{12}x_2 + a_{13}x_3 = 0$$ $$a_{21}x_1 + a_{22}x_2 + a_{23}x_3 = 0$$ $$a_{31}x_1 + a_{32}x_2 + a_{33}x_3 = 0$$ with unknowns $x_1, x_2, x_3$. The coefficients satisfy the conditions: (a) $a_{11}, a_{22}, a_{33}$ are positive numbers; (b) the remaining coefficients are negative numbers; (c) in each equation, the sum of the coefficients is positive. Prove that the given system has only the solution $x_1 = x_2 = x_3 = 0$.
+
+[[src_imho_1965__Q02]]

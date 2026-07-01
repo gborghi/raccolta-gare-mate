@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student finale individuale — Quesito S1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_finale__QS1
 parent: src_kangourou_2021_student_finale
 competition: Kangourou 2021 Student finale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto dei volumi di due sfere viste della stessa grandezza*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1000000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17UN1PocIwUt6K6J10ScIHKnTcOSXCsY5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio of volumes of two spheres of the same size *
+
+> (**5 points**) When you look at two different spheres of rays from a distance, they appear to you of the same size (as, for example, might happen to the sun and the moon). However, the distance of the largest from you is 100 times the distance of the smallest (assume that the distances are estimated between you and the centers of the spheres). What is the ratio of the volume of the largest to the volume of the smallest?
+
+**Answer:** 1000000
+[[src_kangourou_2021_student_finale__QS1]]

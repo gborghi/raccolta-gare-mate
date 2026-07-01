@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q11
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *no due nati stesso giorno/mese: numero allievi*
 
@@ -55,3 +58,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>not two born on the same day/month: number of pupils< MSK1/>
+
+> In a classroom, there are no two boys born on the same day of the week or two girls born in the same month. If another boy or girl were added to the class, at least one of the two conditions would no longer be true. How many students is the class? A) 18 B) 19
+> 	
+> C) 20 D) 24 E) 25 P Q R S T U V W X Y
+>
+
+**Answer:** B
+[[src_kangourou_2015_marzo_cadet__Q11]]

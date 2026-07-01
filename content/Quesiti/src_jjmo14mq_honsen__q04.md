@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2016 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo14mq_honsen__Q04
 parent: src_jjmo14mq_honsen
 competition: Japan Junior Mathematical Olympiad 2016 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcenter, orthocenter, parallel to BC, equal angles*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNe77mqSS5KaVCDyNI-U80o5ArYTZuAL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circumcenter, orthocenter, parallelo a BC, angolazioni uguali*
+
+> Il $ABC$ deve essere un triangolo acuto con il circoncentro $O$ e l'ortocentro $H$. Lascia che la linea che attraversa $O$ parallela a $BC$ incontra le linee $AB$ e $AC$ rispettivamente a $P$ e $Q$. Il < MSK9/> deve essere il punto medio di < MSK10/>. Prova che < MSK11/>.
+
+[[src_jjmo14mq_honsen__Q04]]

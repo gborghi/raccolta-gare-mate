@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2021 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_automne__Q13
 parent: src_canimath_2021_automne
 competition: Coupe Animath Automne 2021
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *100-digit number N; product of 100×99 pairwise digit sums equals N?*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*numero di 100 cifre N; prodotto di 100×99 somme di cifre in coppia pari a N?*
+
+> Anna scrive un numero $N$ di 100 cifre sulla tavola, dove la prima cifra non è zero. Queste 100 cifre formano $100 \times 99$ coppie ordinate, e Anna calcola la somma delle due cifre in ciascuna coppia. Infine, calcola il prodotto di tutte le somme $100 \times 99$ così ottenute. È possibile che questo prodotto sia uguale al numero $N$ con cui ha iniziato?
+
+[[src_canimath_2021_automne__Q13]]

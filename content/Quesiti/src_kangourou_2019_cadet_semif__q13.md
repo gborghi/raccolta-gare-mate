@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Cadet — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q13
 parent: src_kangourou_2019_cadet_semif
 competition: Kangourou 2019 Semifinale Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del rettangolo R diviso in 4 rettangoli*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 30
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1phCvtzZl50ji_jVJDivksDRKk73y1EvN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of rectangle R divided by 4 rectangles*
+
+> (Points 6) A rectangle R is divided by two lines into 4 rectangles. It is known that three of the perimeter of these rectangles are 11 cm, 16 cm and 19 cm and that the perimeter of the fourth is neither the smallest nor the largest. How many centimeters does the perimeter of the R rectangle measure ?
+
+**Answer:** 30
+[[src_kangourou_2019_cadet_semif__Q13]]

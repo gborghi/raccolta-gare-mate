@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q09
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A square is cut into two squares, four trapezoids and two triangles; an octagon is reassembled, find fraction of area eliminated*
 
@@ -47,3 +50,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un quadrato è tagliato in due quadrati, quattro trapezoi e due triangoli; un ottagono è riassemblato, trovare una frazione di superficie eliminata*
+
+> Tracciando segmenti di linea, possiamo dividere un quadrato in due quadrati congruenti, quattro trapeziosi congruenti e due triangoli congruenti, come indicato nel disegno di seguito, a sinistra. Eliminando alcune di queste parti, possiamo assemblare l'ottagono rappresentato a destra. Quale frazione della superficie della piazza è stata eliminata?
+
+![[src_obm_2002_n3_f1__Q09.png]]
+
+**Risposta:** B
+[[src_obm_2002_n3_f1__Q09]]

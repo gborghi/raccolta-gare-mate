@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_triennio__Q15
 parent: src_archimede_1998_triennio
 competition: Giochi di Archimede 1998 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale affermazione e sicuramente falsa dato xy<x*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which statement is definitely false given xy<x*
+
+> Let x and y be real numbers such that xy < x. Which of the following claims is definitely false?
+>
+> - **(A)** x2y > x2
+> - **(B)** y ≥1
+> - **(C)** xy2 > xy + 3
+> - **(D)** xy2 = xy
+> - **(E)** x2 + y2 ≤4(y −1).
+
+**Answer:** E
+[[src_archimede_1998_triennio__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2007 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2007__Q14
 parent: src_bocconi_primavera_2007
 competition: Semifinale di Primavera 2007
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti anni abbiamo insieme io ed Erica?*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 84 anni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many years have Erica and I been together?
+
+> I'm twice your age when I was your age. When you're my age, together, we'll be MSK0/> years old. How old are Erica and I today?
+> 
+> How many years have we been together?
+
+**Answer:** 84 anni
+[[src_bocconi_primavera_2007__Q14]]

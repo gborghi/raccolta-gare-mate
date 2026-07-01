@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q23
 parent: src_cesenatico_2006_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi pari in [4000,7000] con tutte cifre diverse*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0728
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interies equal to [4000,7000] with all other digits *
+
+> Graduates of the Higher Mathematical School are assigned to their home country according to their mathematical attitudes. This year, for example, in order to enter the house of Inclusion, it was necessary to know how many integers are equal, including between 4000 and 7000, all of which have different digits. What's the right answer?
+
+**Answer:** 0728
+[[src_cesenatico_2006_squadre_pubblico__Q23]]

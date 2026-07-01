@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2020 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_printemps__Q14
 parent: src_canimath_2020_printemps
 competition: Coupe Animath Printemps 2020
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find m,n,k where intermediate divisors of n are one more than those of m (lycee)*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca m,n,k dove i divisori intermedi di n sono uno in più di quelli di m (lycee) *
+
+> Determinare i numeri interi $m \ge 2$, $n \ge 2$ e $k \ge 3$ che hanno la seguente proprietà: $m$ e $n$ hanno ognuno dei divisori positivi $k$, e se $d_1 < \ldots < d_k$ sono i divisori positivi di $m$ (con $d_1 = 1$ e $d_k = m$) e $d_1' < \ldots < d_k'$ sono i divisori positivi di $n$ (con $d_1' = 1$ e $d_k' = n$), allora $d_i' = d_i + 1$ per ogni numero intero $i$ tale che $2 \le i \le k - 1$.
+
+[[src_canimath_2020_printemps__Q14]]

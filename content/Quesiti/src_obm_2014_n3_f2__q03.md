@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f2__Q03
 parent: src_obm_2014_n3_f2
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer closest to a_{2014} in a recursive sequence*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XkAXjIN4Wy75ir0QX-HQaiyTPxhLBK2C/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integra più vicina a a_{2014} in una sequenza ricorsiva*
+
+> La sequenza $a_1, a_2, a_3, \ldots$ soddisfa $a_1 = 1$ e $a_n = \left\lceil \sqrt{a_{n-1}^2 + n} \right\rceil$. Qual è il numero intero più vicino a $a_{2014}$?
+
+[[src_obm_2014_n3_f2__Q03]]

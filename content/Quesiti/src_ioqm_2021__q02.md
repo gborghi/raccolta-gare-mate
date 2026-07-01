@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2021__Q02
 parent: src_ioqm_2021
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2021
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Numbers 1 to 101 written in red/blue; count red numbers given constraints*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri da 1 a 101 scritti in rosso/blu; contare i numeri rossi con vincoli*
+
+> Ria scrive i numeri $1, 2, \ldots, 101$ in penne rosse e blu. Il numero blu più grande è pari al numero di numeri scritti in blu e il numero rosso più piccolo è pari alla metà del numero di numeri scritti in rosso. Quanti numeri ha scritto Ria con la penna rossa?
+
+[[src_ioqm_2021__Q02]]

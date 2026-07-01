@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q01
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trapezium ABCD, AB=3CD, E midpoint of BD; find n where [ABCD]=n[CDE]*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trapezio ABCD, AB=3CD, E punto medio di BD; trovare n dove [ABCD]=n[CDE]*
+
+> Il $ABCD$ deve essere un trapezio in cui $AB \parallel CD$ e $AB = 3CD$. Il punto medio della diagonale $BD$ è $E$. Se $[ABCD] = n \times [CDE]$, qual è il valore di $n$? (Qui $[\Gamma]$ indica l'area della figura geometrica $\Gamma$.)
+
+**Risposta:** 6
+[[src_ioqm_2020__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2022 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo32hq_honsen__Q01
 parent: src_jmo32hq_honsen
 competition: Japan Mathematical Olympiad 2022 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Game on 2022-square row; find max squares A can guarantee*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1N8QRZh_HoqqCTuVlMkwjvlkn9JqK43Wo/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioca su fila quadrata 2022; trova i quadrati massimi A può garantire*
+
+> Si utilizza una fila di quadrati 2022; i giocatori A e B giocano a un gioco. Inizialmente, i quadrati in posizioni odd (da sinistra) hanno il nome di A scritto in loro, e i quadrati in posizioni pari hanno il nome di B scritto in loro. A partire da A, i giocatori si alternano eseguendo la seguente operazione:
+> 
+> Scegliete 2 quadrati che sono adiacenti (vicinanti) e i cui vicini immediatile quadrate che li accompagnanonon sono entrambi occupati dal nome dello stesso giocatore; più precisamente, scegliete 2 quadrati consecutivi in modo che i quadrati adiacenti a quei 2 quadrati scelti abbiano il nome dell'altro giocatore, quindi sostituite i nomi nei 2 quadrati scelti con il nome dell'altro giocatore.
+> 
+> Quando un giocatore non può eseguire l'operazione, il gioco finisce. Trova il numero intero massimo $m$ in modo che A possa sempre garantire che il suo nome compare in almeno $m$ quadrati quando il gioco termina, indipendentemente dalla strategia di B.
+
+[[src_jmo32hq_honsen__Q01]]

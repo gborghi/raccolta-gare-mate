@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_finale__Q10
 parent: src_kangourou_2018_ecolier_finale
 competition: Kangourou Coppa Ecolier squadre 2018 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro giardino quadrato con cinque aiuole*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0040
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Square garden area with five floors*
+
+![[src_kangourou_2018_ecolier_finale__prob10.png]]
+
+> The garden A square garden contains five square floors (of which four are equal to each other) arranged as shown by the gray squares in the figure (the vertices of each flower are exactly on the horizontal and vertical lines). If the total area of the orchards is 25 square meters, how many meters does the perimeter of the garden measure?
+
+**Answer:** 0040
+[[src_kangourou_2018_ecolier_finale__Q10]]

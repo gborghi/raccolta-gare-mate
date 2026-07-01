@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 2) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g2__Q11
 parent: src_bocconi_finaleint_2007_g2
 competition: >-
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Il più grande dei due numeri di tre cifre uno doppio dell'altro*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 534 ; 546 ; 654
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The larger of the two three-digit numbers one double the other*
+
+> Numérix loves the numbers. With the digits $2 - 3 - 4 - 5 - 6 - 7$ it forms two digits of $3$ digits, each digit having been used exactly once. One is twice the other.
+> 
+> **What is the larger of these two numbers? **
+
+**Answer:** 534 ; 546 ; 654
+[[src_bocconi_finaleint_2007_g2__Q11]]

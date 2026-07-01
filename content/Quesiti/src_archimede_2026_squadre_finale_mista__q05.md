@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q05
 parent: src_archimede_2026_squadre_finale_mista
 competition: Gara a Squadre Nazionale 2026 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma max e min terne autodivisibili cifre 1-9*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2754
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Summation of max and min self-divisible digits 1-9 < MSK1/>
+
+> The Horrifying Bijection Giuseppe Mascellani Moduloso and Nashtrid are training their ability to do multiple things simultaneously in the arena. In defeating the Predator Dragon, they also have to use all the digits from 1 to 9 once to make up three self-dividing three-digit numbers. A number is said to be self-divisible if it is multiple of each of its own digits explains Scalarchio. Among all possible solutions, Nashtrid finds the set of numbers with maximum sum S, while Moduloso finds the one with minimum sum s. How much is S+s worth?
+
+**Answer:** 2754
+[[src_archimede_2026_squadre_finale_mista__Q05]]

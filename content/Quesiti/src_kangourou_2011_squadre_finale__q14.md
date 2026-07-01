@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre finale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q14
 parent: src_kangourou_2011_squadre_finale
 competition: Kangourou 2011 squadre finale
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita due su tre nate stesso giorno settimana*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3877
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13507kQgtd5A0hh0IwUZH9QyAEafhU_bz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of two out of three births on the same day of the week< MSK1/>
+
+> Birthdays Choosing three different people at random, what is the probability that at least two of them were born on the same day of the week (no matter which)? The result is a number between 0 and 1: write, in order, only its first four decimal digits (i.e. the first four to the right of the comma).
+
+**Answer:** 3877
+[[src_kangourou_2011_squadre_finale__Q14]]

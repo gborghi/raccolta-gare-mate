@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q22
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri primi distinti che dividono m (mescolate vincenti)*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0015
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Separate prime numbers dividing m (winning mixtures) *
+
+> The Faint on trial An unexpected news reaches Roots. Crown Prince F of hearts is called to court, accused of cheating in the card game Don't lose your mind. This is how the game works: one of the players acts as a dealer and mixes a deck of 52 cards numbered from 1 to 52. Afterwards, starting from the dealer's right in the counterclockwise direction, each player in turn takes a card, keeping it covered, and the dealer then takes the last card. The cards are all shown together and the lowest card gets out. By decapitation. Fished cards are then discarded and the game continues as before, with the remaining players, using the advanced cards in the deck. Win, or rather survive, the last player in the race. F of Hearts won a game with 9 players (including himself) as a dealer, having mixed the cards for about three hours. If m is the number of different ways you could mix the deck to be sure you won, by how many distinct prime numbers is m divisible? Remember, 1 is not a prime.
+
+**Answer:** 0015
+[[src_cesenatico_2013_finale__Q22]]

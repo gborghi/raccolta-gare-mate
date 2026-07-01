@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2024 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo22hq_honsen__Q02
 parent: src_jjmo22hq_honsen
 competition: Japan Junior Mathematical Olympiad 2024 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Reflection of midpoint over line DN lies inside triangle, AM' perp BC*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bmmJByRMGYGsoLlsU-vCwBSdySo_6rjl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il riflesso del punto medio sulla linea DN si trova all'interno del triangolo, AM' perp BC*
+
+> Nel triangolo $ABC$ con $AB < AC$, $M$ sia il punto medio del lato $BC$. Il $N$ deve essere il punto medio dell'arco $BC$ non contenente $A$ sul circoncircolo del triangolo $ABC$. Il $D$ deve essere l'intersezione del bisettore angolare di $\angle BAC$ con il lato $BC$. Il $M'$ deve essere il riflesso di $M$ sulla linea $DN$. Prova che $M'$ si trova all'interno del triangolo $ABC$ (non al suo confine) e che la linea $AM'$ è perpendicolare alla linea $BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+[[src_jjmo22hq_honsen__Q02]]

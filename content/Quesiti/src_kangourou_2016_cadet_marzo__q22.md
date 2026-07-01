@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q22
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *che ora pensa Paolo*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What does Paul think?
+
+> Peter's watch is 10 minutes behind, but he thinks it's 5 minutes ahead. Paul's watch is 5 minutes ahead, but he thinks it's 10 minutes behind. Both look at their watch at the same time: Peter thinks it's 12:00. What time do you think it's Paul? A) 11:30 B) 11:45 C) 12:00 D) 12:30 E) 12:45
+
+**Answer:** E
+[[src_kangourou_2016_cadet_marzo__Q22]]

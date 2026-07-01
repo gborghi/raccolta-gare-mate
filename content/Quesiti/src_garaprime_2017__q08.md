@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2017 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2017__Q08
 parent: src_garaprime_2017
 competition: Gara Nazionale Classi Prime 2017
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cammino minimo riflesso verso la riva del mare*
 
@@ -52,3 +55,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum reflected path to the seashore*
+
+> On the island of Kenoncè, RivaDritta's beach is famous because the line separating the land from the sea remains perfectly straight for many kilometres. Luca lit a fire on the beach just six feet from the shore and then fell asleep while Claudia went to look for more wood. At some point, while exactly 39 meters in the airline from the fire and 21 meters from the shore, Claudia sees that the fire could burn Luke and then decides to run to a C point on the shore, get some water and run to put out the fire. What is the length of the route Claudia runs, if she chooses C so that it is minimal? A 45 m B 48 m C 42 m D 44 m E 50 m F 49 m
+
+**Answer:** A
+[[src_garaprime_2017__Q08]]

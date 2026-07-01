@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2004 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2004__Q05
 parent: src_cn_cmc_2004
 competition: China Mathematical Competition 2004
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-digit integers whose digits form an isosceles triangle*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi a 3 cifre i cui numeri formano un triangolo di pari taglia*
+
+> $\sigma = \overline{abc}$ sia un numero a 3 cifre. Se si può costruire un triangolo di parice (compreso un triangolo equilaterale) con $a$, $b$ e $c$ come lunghezze dei lati, il numero di tali integri a 3 cifre è ( ).
+> 
+> (A) $45$ \quad (B) $81$ \quad (C) $165$ \quad (D) $216$
+
+**Risposta:** C
+[[src_cn_cmc_2004__Q05]]

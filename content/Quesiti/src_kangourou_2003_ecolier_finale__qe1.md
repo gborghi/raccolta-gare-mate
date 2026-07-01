@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier finale nazionale — Quesito E1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier_finale__QE1
 parent: src_kangourou_2003_ecolier_finale
 competition: Kangourou 2003 Ecolier finale nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante mele da confezioni con 9 arance totali*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 11 mele
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K82beAyOpLONvc5G6hM8HqH2YHqU6t2R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many apples from packages with 9 total oranges< MSK1/>
+
+> In one store, fruit packages of two types are on sale: packages of 2 oranges and 4 apples each and packages of 5 oranges and 3 apples each. After I bought some packages at that store, I find myself with nine oranges in all. How many apples have I bought in total?
+
+**Answer:** 11 mele
+[[src_kangourou_2003_ecolier_finale__QE1]]

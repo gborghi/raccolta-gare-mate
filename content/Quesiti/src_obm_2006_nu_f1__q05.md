@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1 —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_nu_f1__Q05
 parent: src_obm_2006_nu_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find a particular solution of a linear ODE with zero initial data*
 
@@ -53,3 +56,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-zF5q38838Z7BnrHtVLRS1IJQQPHcA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova una soluzione particolare di un ODE lineare con dati iniziali zero*
+
+> Le funzioni $y_1(t) = (1 + t^2)\,e^{t}$, $y_2(t) = (1 + t^2)\,e^{-t}$ e $y_3(t) = (-1 + t^2)\,e^{-t}$ sono soluzioni dell'equazione differenziale $$y''(t) + a(t)\,y'(t) + b(t)\,y(t) = c(t),$$ dove $a(t)$, $b(t)$, $c(t)$ sono funzioni doppiamente differenziabili.
+> 
+> Trova una funzione $y(t)$ tale da $$y''(t) + a(t)\,y'(t) + b(t)\,y(t) = c(t), \quad y(0) = 0, \quad y'(0) = 0.$$
+
+[[src_obm_2006_nu_f1__Q05]]

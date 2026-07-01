@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2018 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2018__Q04
 parent: src_garaprime_2018
 competition: Gara Nazionale Classi Prime 2018
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area di T0 da triangoli medi iterati fino a T6*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XzoWDlSETOE6ynBaPWQsIvAiUafgaOrc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*T0 area from iterated median triangles up to T6*
+
+> Starting from a T0 triangle, I build the T1 triangle that has the midpoints of the sides of T0 as vertices. So I'm building T2 from T1. I kept going the same way until I got to T6. If T6 has an area of 1 cm2 and we indicate with s the area of T0 expressed in cm2, then: A 1000 < s < MSK0/>5000 B s < MSK1/>40 C 40 < s < MSK2/>200 D 200 < s < MSK3/>1000 E s > 5000 F cannot be determined solely by the data provided, as it depends on the shape of the triangle
+
+**Answer:** A
+[[src_garaprime_2018__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Ecolier — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier__Q23
 parent: src_kangourou_2014_ecolier
 competition: Kangourou 2014 marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra nella casella grigia dell’addizione con 0..6*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the grey box of the addition with 0..6*
+
+![[src_kangourou_2014_ecolier__prob23.png]]
+
+> Putting in each box one and only one of the digits 0, 1, 2, 3, 4, 5, 6 and using them all, you get a correct addition. What number should you put in the grey box? A) 2
+> 	
+> B) 3
+> 	
+> C) 4 D) 5
+> 	
+> E) 6
+
+**Answer:** D
+[[src_kangourou_2014_ecolier__Q23]]

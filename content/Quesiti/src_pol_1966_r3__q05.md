@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1966 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1966_r3__Q05
 parent: src_pol_1966_r3
 competition: Olimpiade Matematica Polacca 1966 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Diagonals $AD$, $BE$, $CF$ bisecting area of convex hexagon are concurrent*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cdDIGmzl1s3W08zQNcKL0HCsVXJ-v1sZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK3/>Le diagonali < MSK0/>, < MSK1/>, < MSK2/> area di divisione dell'esagono converso sono simultanee< MSK4/>
+
+> Ogni diagonale $AD$, $BE$, $CF$ di un esagono converso $ABCDEF$ divide l'area dell'esagono. Prova che queste tre diagonali passano attraverso lo stesso punto.
+
+[[src_pol_1966_r3__Q05]]

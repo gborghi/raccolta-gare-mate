@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f2__Q01
 parent: src_obm_2015_n2_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest positive integer leaving five distinct remainders when divided by 2,3,4,5,6*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wtMtyPWLae_AdePjQMTVUzlH24sGYDuO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'intero più piccolo positivo che lascia cinque rimanenti distinti quando diviso per 2,3,4,5,6*
+
+> Qual è il numero intero positivo più piccolo che lascia cinque rimanenti diversi quando diviso da $2$, $3$, $4$, $5$ e $6$?
+
+[[src_obm_2015_n2_f2__Q01]]

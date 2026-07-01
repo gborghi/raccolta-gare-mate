@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Triennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_triennio__Q17
 parent: src_archimede_2017_triennio
 competition: Giochi di Archimede 2017 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra in posizione 2017 sequenza dei pari*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WbKYlCGmnvn3EnNy8PHpDbjgy_2zTYne/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sequence of peers in position 2017 *
+
+> Carolina begins to write all positive integers even, one after the other: 246810121416... What figure will occupy the 2017th position?
+>
+> - **(A)** 8
+> - **(B)** 7
+> - **(C)** 2
+> - **(D)** 5
+> - **(E)** 1
+
+**Answer:** E
+[[src_archimede_2017_triennio__Q17]]

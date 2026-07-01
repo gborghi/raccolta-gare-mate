@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - semifinale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q11
 parent: src_kangourou_2021_benjamin_semifinale
 competition: Kangourou 2021 Benjamin - semifinale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max lanci per essere certi che un numero esca 3 volte*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 13
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ZoOsj72QmushXUD5rVHJ0W3fyHvEdq-b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Max tosses to make sure a number goes out 3 times
+
+> (5 points) How many times at most might it be necessary to roll a dice to make sure that at least one number comes out 3 times?
+
+**Answer:** 13
+[[src_kangourou_2021_benjamin_semifinale__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q18
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Comparing averages after moving last-place student*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Comparare le medie dopo il trasferimento degli studenti in ultima posizione< MSK1/>
+
+> Gli studenti < MSK0/> approvati in un concorso, i cui punteggi erano tutti diversi, sono stati suddivisi in due gruppi: gli studenti < MSK1/> con il miglior punteggio nel gruppo < MSK2/> e i < MSK3/> successivi nel gruppo < MSK4/>. Sono state calcolate le medie di entrambi i gruppi. In seguito è stato deciso di spostare l'allievo ultimo nel gruppo $A$ al gruppo $B$. Con questo:
+> 
+> (A) La media del gruppo < MSK0/> è migliorata, ma quella del gruppo < MSK1/> è peggiorata. \quad (B) La media del gruppo < MSK2/> è peggiorata, ma quella del gruppo < MSK3/> è migliorata. \quad (C) Le medie di entrambi i gruppi sono migliorate. \quad (D) Le medie di entrambi i gruppi sono peggiorate. \quad (E) Le medie di entrambi i gruppi possono migliorare o peggiorare, a seconda dei voti dei candidati.
+
+**Risposta:** C
+[[src_obm_2000_n1_f1__Q18]]

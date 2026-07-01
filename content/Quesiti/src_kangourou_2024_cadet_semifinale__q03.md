@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Cadet 2024 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet_semifinale__Q03
 parent: src_kangourou_2024_cadet_semifinale
 competition: Kangourou Semifinale individuale Cadet 2024
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale uguaglianza tra aree e certamente vera (parco)*
 
@@ -54,3 +57,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YuKlYOQSjLPYC0cQWHZFjw49wPVl8dfH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What equality between areas and certainly true (park) *
+
+![[src_kangourou_2024_cadet_semifinale__prob3.png]]
+
+> The two pictures show the same park divided into 5 zones; the letters in three of the zones indicate the area. The park is home to two kangaroos: one is usually pasture in the clearest part of the first image, the other in the clearest part of the second. The two sides overlap partially. In this way, both kangaroos have at their disposal exactly half the area of the park. Which of the following equations is certainly true? A) A = C B) B = A + C
+>  
+> C) B = (A + C) / 2 D) B = 2 (A + C) / 3 E) B = 3 (A + C) / 5 Answer B). I'm not alone. The areas for which no letters are indicated must be B + D = A + E + C = B + E (each kangaroo has half of the park available). From the second equation it follows that it is still true B). It is trivial to find examples in which A) is false.
+
+**Answer:** B
+[[src_kangourou_2024_cadet_semifinale__Q03]]

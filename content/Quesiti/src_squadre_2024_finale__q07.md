@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Finale Nazionale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_finale__Q07
 parent: src_squadre_2024_finale
 competition: Gara a Squadre 2024 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero 4 cifre con n=a^a+b^b+c^c+d^d*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3435
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number 4 digits with n = a^a+b^b+c^c+d^d*
+
+> For a swim in the pool! Fredmath doesn't see the time to unpack and put on his suitcase, but when he gets to the room he discovers that to enter he has to type a combination: a number n of exactly 4 digits, all different from zero, such that n = aa +bb +cc +dd where a,b,c,d are the digits of the thousands, the hundreds, the tens and the units of n respectively. What's the right combination?
+
+**Answer:** 3435
+[[src_squadre_2024_finale__Q07]]

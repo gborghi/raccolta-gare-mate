@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (finale nazionale) — Quesito C2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet_finale__QC2
 parent: src_kangourou_2005_cadet_finale
 competition: Kangourou 2005 - Cadet (finale nazionale)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Croce greca su scacchiera 7x7 somma totale negativa*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xu5y5JpzGNUIyhivHcF8Vczu7vpaLZFN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Greek cross on chessboard 7x7 negative total sum*
+
+> Consider a chessboard $7 \times 7$ and call a Greek cross each configuration of 5 of its cross-arranged boxes so that each box has at least one side in common with another box of the cross (so each cross has 4 equal arms each consisting of a box). You can have 49 integers, not necessarily all of them equal to each other, on the 49 boxes, one per box, so that the total sum of these integers is negative, but the sum of the numbers corresponding to the boxes covered by any Greek cross is positive?
+
+**Answer:** Si
+[[src_kangourou_2005_cadet_finale__QC2]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student (20 marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student__Q06
 parent: src_kangourou_2003_student
 competition: Kangourou 2003 Student (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Studenti promossi nel 2003 da medie*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Students promoted in 2003 from secondary education*
+
+> The average number of students promoted by a particular school in the four years 1999 to 2002 was 325 students per year, while in the five years 1999 to 2003 the average was more than 20%. How many students were promoted from the school in 2003? A)  650 B)  600 C)  455 D)  390 E)  345
+
+**Answer:** A
+[[src_kangourou_2003_student__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2025_squadre__Q20
 parent: src_gsm_2025_squadre
 competition: Gara a Squadre Miste GSM (locale Genova) 2025
@@ -30,6 +31,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che il dado coperto valga 6*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1682
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of the covered die being 6< MSK1/>
+
+> Six on the dice Sandro Campigotto Andrea throws a dice and gets a six, then walks away from the room. Barbara throws two more dice on the same table, fails to look at the result and leaves the room. Carlo walks into the room and covers a random dice. The two remaining dice on the table both show face 6. What's the probability that the covered dice has a value of 6? [Give the answer the probability multiplied by 10000.]: 0625
+
+**Answer:** 1682
+[[src_gsm_2025_squadre__Q20]]

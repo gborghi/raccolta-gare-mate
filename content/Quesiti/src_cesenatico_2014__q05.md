@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2014__Q05
 parent: src_cesenatico_2014
 competition: Olimpiade Italiana (Cesenatico) 2014 - testi
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Intero come somma di 2015 potenze 2014-esime in due modi*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1gIgeQmvtAR3P4hh46pVwAUEVyz0qxkyZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Intero as a sum of 2015 2014 two-way powers*
+
+> Demonstrate that there exists a positive integer that can be written as the sum of 2015 distinct positive integers x1 < x2 < · · < x2015 in at least two ways.
+
+[[src_cesenatico_2014__Q05]]

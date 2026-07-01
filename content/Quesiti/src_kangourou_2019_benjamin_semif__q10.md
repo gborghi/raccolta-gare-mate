@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Benjamin — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q10
 parent: src_kangourou_2019_benjamin_semif
 competition: Kangourou 2019 Semifinale Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra al 2019-esimo posto della sequenza 20189102...*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 63
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total number of units of measurement for each unit of measurement.
+
+> (Points 4) Alternatively approaching the numbers 2018 and 9102 you can get a sequence of numbers as long as you want: 20189102201891022018910220189102201891022018910220189102201201201220189102201... What is the figure that is at the 2019-th place of this sequence (if you start with 2018)?
+
+**Answer:** 63
+[[src_kangourou_2019_benjamin_semif__Q10]]

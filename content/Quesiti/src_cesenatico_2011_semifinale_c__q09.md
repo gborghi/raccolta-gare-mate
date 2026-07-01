@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_c__Q09
 parent: src_cesenatico_2011_semifinale_c
 competition: Gara a Squadre Cesenatico 2011 - Semifinale C
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *viaggi rimanenti*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0088
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Other travel < MSK1/>
+
+> The three Borelix towers must overcome one of the twelve tasks imposed by Julius Caesar, for this purpose it transports a pile of 7 heavy stone discs from a pedana in the temple of Julius Caesar to an identical one in that of Cleopatra. The discs are of 7 different sizes, must be carried one at a time and can only be placed on a larger disc or on a free pedal. Initially, the discs are stacked in order from the largest (located on the pedal) to the smallest (top). Borelix has the impression that there is no
+
+**Answer:** 0088
+[[src_cesenatico_2011_semifinale_c__Q09]]

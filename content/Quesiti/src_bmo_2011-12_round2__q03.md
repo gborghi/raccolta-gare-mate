@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2011-12 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2011-12_round2__Q03
 parent: src_bmo_2011-12_round2
 competition: British Mathematical Olympiad 2011-12 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Reals split into two subsets: find close elements in same subset*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/101xOLerYbSbN43TPnIwIpRwpKE2owKy-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Reals suddivisi in due sottogruppi: trovare elementi vicini nello stesso sottogruppo*
+
+> L'insieme dei numeri reali è diviso in due sottinsiemi non vuoti. Prova che per ogni coppia $(m, n)$ di integri positivi, ci sono $x < y$ nello stesso sottoinsieme in modo tale che $m(y - x) < n$.
+
+[[src_bmo_2011-12_round2__Q03]]

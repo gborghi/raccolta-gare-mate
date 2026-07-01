@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2017 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2017__Q25
 parent: src_smc_2017
 competition: Senior Mathematical Challenge 2017
@@ -34,6 +35,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular nonagon N; at each vertex a perpendicular line segment produces smaller nonagon S (shaded). Find area(S)/area(N).*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N nonagone regolare; ad ogni vertice un segmento di linea perpendicolare produce un nonagone S più piccolo (ombra). Trova area(S)/area(N).*
+
+> Il diagramma mostra un nonagon regolare $N$. Muovendosi in senso orario, ad ogni vertice un segmento di linea è disegnato perpendicolare al bordo precedente. Ciò produce un nonagon regolare più piccolo < MSK1/>, mostrato in ombra.
+> 
+> Quale frazione della superficie di $N$ è la superficie di $S$?
+>
+> - **(A)** $\dfrac{1 - \cos 40^\circ}{1 + \cos 40^\circ}$
+> - **(B)** $\dfrac{\cos 40^\circ}{1 + \cos 40^\circ}$
+> - **(C)** $\dfrac{\sin 40^\circ}{1 + \sin 40^\circ}$
+> - **(D)** $\dfrac{1 - \sin 40^\circ}{1 + \sin 40^\circ}$
+> - **(E)** $\dfrac{1}{9}$
+
+![[src_smc_2017__Q25.png]]
+
+**Risposta:** A
+[[src_smc_2017__Q25]]

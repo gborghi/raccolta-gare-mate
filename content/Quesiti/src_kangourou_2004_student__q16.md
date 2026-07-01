@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q16
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Natura di una espressione numerica con radicali*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Nature of a numerical expression with radicals*
+
+> The number is A) negative B) equal to zero C) the fourth power of a non-zero integer D) equal to 11 E) a positive integer divisible by 5
+
+**Answer:** C
+[[src_kangourou_2004_student__Q16]]

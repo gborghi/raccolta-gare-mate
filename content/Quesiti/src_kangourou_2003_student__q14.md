@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student (20 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student__Q14
 parent: src_kangourou_2003_student
 competition: Kangourou 2003 Student (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo acutangolo da 12,13,15*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Acute triangle area of 12,13,15< MSK1/>
+
+> 12, 13 and 15 are the lengths (not necessarily in this order) of two sides of an acutangle triangle and the height relative to the third side. Determine the area of the triangle. (a) 168 (b) 80 (c) 84 (d) 6 (e) the area is not uniquely determined
+
+**Answer:** C
+[[src_kangourou_2003_student__Q14]]

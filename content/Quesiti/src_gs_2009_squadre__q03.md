@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2009 - Gara a squadre — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2009_squadre__Q03
 parent: src_gs_2009_squadre
 competition: Coppa Fermat 2009 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distribuzione tempi su tre sportelli, minimo*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 74
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Time distribution over three gates, minimum *
+
+> At a hypergalactic station near Arcturus, travelers form a single queue to access the ticket office gates and it is always the one in front of the queue that turns to one of the available gates. Nine travelers are in line, with three gateways in operation; they spend different times, once in front of the gate, to buy their tickets: 4, 6, 9, 11, 15, 36, 38, 40 and 45 minutes. The time taken to complete the purchases was as short as possible under the conditions described. What was the time it took?
+
+**Answer:** 74
+[[src_gs_2009_squadre__Q03]]

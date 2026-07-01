@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q19
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma mancante nella tabella 3x3 con interi 1-9*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Less sum in table 3x3 with integers 1-9 < MSK1/>
+
+> James wrote in each box of a table 3 a different integer from 1 to 9. Then he calculated the sum of the integers in each row and column of the table. Five of the six results (in unspecified order) are 12, 13, 15, 16 and 17. What's the missing sum? A) 17
+> 	
+> B) 16
+> 	
+> C) 15
+> 	
+> D) 14
+> 	
+> E) 13
+
+**Answer:** A
+[[src_kangourou_2018_cadet_marzo__Q19]]

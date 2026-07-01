@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_c__Q15
 parent: src_cesenatico_2011_semifinale_c
 competition: Gara a Squadre Cesenatico 2011 - Semifinale C
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero con resto 1 mod 2..10 e poi divisibile*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0593
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number with remainder 1 mod 2.10 and then divisible*
+
+> Invincible Cohorts The centurion Gruppus Abelianus was commissioned to prepare a legionary cohort for the next attack on the village of the Gauls. Its task is to arrange all the legionaries in a tight rectangle, composed of rows all equal and of the minimum possible length (but greater than 1). After a few hours of unsuccessful work, Abelianus goes to Julius Caesar and complains: "We are Julius Caesar, I tried to arrange the soldiers in line for 2, for 3, for 4, for 5 and so on until I arranged them in line for 10, but in all cases a legionary always advanced. How can I do? Julius Caesar answers without delay:Centurion Abelianus, the number of legionaries to be deployed in each row must certainly be greater than 10, and Julius Caesar is sure  Julius Caesar always speaks of himself in the third person  that it is possible to deploy legionaries so that he does not add any. Knowing that the legionaries in total are more than 10000 but less than 11000, in how many rows will they be deployed?
+
+**Answer:** 0593
+[[src_cesenatico_2011_semifinale_c__Q15]]

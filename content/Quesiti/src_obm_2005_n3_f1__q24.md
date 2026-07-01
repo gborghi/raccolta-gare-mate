@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f1__Q24
 parent: src_obm_2005_n3_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count/timing of overlaps of clock hands within a day (statement garbled)*
 
@@ -48,3 +51,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio/timamento delle sovrapposizioni di mani di orologio entro un giorno (dichiarazione distorta) *
+
+> Un orologio ha le mani per ore, minuti e secondi. Considerando i momenti tra $12$ ore e $1$ seconde e $23$ ore, $59$ minuti e $59$ secondi durante i quali alcune mani si sovrappongono, la risposta è: (A) $1430$ (B) $1438$ (C) $1440$ (D) $1446$ (E) $1452$
+
+[[src_obm_2005_n3_f1__Q24]]

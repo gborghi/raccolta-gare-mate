@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2006 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2006_r1__Q03
 parent: src_pol_2006_r1
 competition: Olimpiade Matematica Polacca 2006 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle inscribed in circle center O; D projection of C onto AB, E,F projections of D onto AC,BC; prove area EOFC equals half area ABC.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto inserito nel centro del cerchio O; D proiezione di C su AB, E, F proiezioni di D su AC,BC; prova area EOFC pari a metà area ABC.*
+
+> Un triangolo a angolo acuto $ABC$ è inserito in un cerchio con il centro $O$. Il punto $D$ è la proiezione di $C$ su $AB$, e i punti $E$ e $F$ sono le proiezioni del punto $D$ su $AC$ e $BC$, rispettivamente. Prove che l'area del quadrilaterale $EOFC$ è pari alla metà dell'area del triangolo $ABC$.
+
+[[src_pol_2006_r1__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2013 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_classiprime__Q15
 parent: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sottoinsiemi rettangolari in scacchiera 8x8*
 
@@ -56,3 +59,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular under sets in 8x8 chessboard*
+
+![[src_archimede_2013_classiprime__prob15.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.6]
+  \fill[gray!40] (2,4) rectangle (7,7);
+  \draw[step=1] (0,0) grid (8,8);
+\end{tikzpicture}
+\end{document}
+```
+
+> How many ways, in a chessboard 8 × 8, can I choose a non-empty subset of rectangular boxes? A 1296 B 1440 C 1024 D 1600 E 1225 F 1156
+
+**Answer:** A
+[[src_archimede_2013_classiprime__Q15]]

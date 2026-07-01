@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre__Q08
 parent: src_kangourou_2023_kangourou_squadre
 competition: Kangourou Squadre 2023 Kangourou Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo studenti corretti tre domande*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0036
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum students correct three questions*
+
+> The three questions A number of students were asked the same three questions. 1260 of them answered the first question correctly, representing exactly 70% of the total. The percentage of students who answered correctly to the second is 79%, the percentage of students who answered correctly to the third is 53%. The students who answered all three questions correctly are the least compatible with these percentages. How many are there?
+
+**Answer:** 0036
+[[src_kangourou_2023_kangourou_squadre__Q08]]

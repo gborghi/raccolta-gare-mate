@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q01
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione ombreggiata in triangolo equilatero suddiviso*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area region shaded in divided equilateral triangle*
+
+![[src_kangourou_2013_cadet__prob1.png]]
+
+> The large triangle in the figure is equilateral and has an area of 9. The segments traced within it are parallel to the sides and each side is divided into three equal parts by their ends. What is the area of the shaded region? A) 1
+> 	
+> B) 4
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 7
+
+**Answer:** D
+[[src_kangourou_2013_cadet__Q01]]

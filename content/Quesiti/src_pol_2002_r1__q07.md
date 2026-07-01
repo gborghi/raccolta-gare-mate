@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2002 — Round 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2002_r1__Q07
 parent: src_pol_2002_r1
 competition: Olimpiade Matematica Polacca 2002 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a group of n>=3 people where each has an even number of acquaintances, prove three members have the same number of acquaintances.*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un gruppo di n>=3 persone in cui ciascuno ha un numero pari di conoscenti, dimostrare che tre membri hanno lo stesso numero di conoscenti.*
+
+> In un gruppo di persone $n \ge 3$ ogni membro del gruppo ha un numero pari (possibilmente zero) di conoscenti nel gruppo. Provare che esistono tre membri del gruppo che ha lo stesso numero di conoscenti in questo gruppo.
+> 
+> \textit{Remark.} Supponiamo che nessuno si inserisca nel gruppo dei suoi conoscenti e che $A$ conosca $B$ se e solo se $B$ conosce $A$.
+
+[[src_pol_2002_r1__Q07]]

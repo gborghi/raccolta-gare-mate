@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q18
 parent: src_kangourou_2015_marzo_ecolier
 competition: Kangourou 2015 gara 19 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *max quadratini neri*
 
@@ -51,3 +54,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>max black squares< MSK1/>
+
+![[src_kangourou_2015_marzo_ecolier__prob18.png]]
+
+> In the figure you can see three transparent square sheets, each divided into 9 squares and on each one some of the squares are annexed. The three sheets must be superimposed so that they appear as a single square: they can be rotated as desired, but not reversed. You want as many squares that look black as possible when they're overlapped. What's this number? A) 5            B) 6           C) 7             D) 8              E) 9 1 2 3 4 5 6 7
+>
+
+**Answer:** D
+[[src_kangourou_2015_marzo_ecolier__Q18]]

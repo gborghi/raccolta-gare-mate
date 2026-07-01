@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Semifinale A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_semifinalea__Q03
 parent: src_squadre_2018_semifinalea
 competition: Gara a Squadre 2018 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di somme b+c di 100 interi, Nmax-2Nmin*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4652
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of sums b+c of 100 integers, Nmax-2Nmin*
+
+> What a paradox! On the \ DOC board is written a set A of 100 distinct integers. Among his notes to build the time machine, he notes there are exactly N different integers that can be written as b+c, where b,c ∈A. Matryx, however, went back in time and changed some of these numbers, changing the space-time continuum. As a result, even the value of N has changed! If Nmax and Nmin are, respectively, the maximum and minimum values of N obtained in this way, how much is Nmax −2Nmin? Note: b and c can also be the same number.
+
+**Answer:** 4652
+[[src_squadre_2018_semifinalea__Q03]]

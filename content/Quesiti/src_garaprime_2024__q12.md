@@ -1,6 +1,7 @@
 ---
 title: IX Gara Nazionale Classi Prime 2024 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2024__Q12
 parent: src_garaprime_2024
 competition: IX Gara Nazionale Classi Prime 2024
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadrato perfetto successivo a n*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perfect square after n*
+
+> If the positive integer n is a perfect square, what is the next perfect square? A) n+ 1 B) n+ √n C) n+ √n+ 1 D) n+ 2√n E) n+ 2√n+ 1 The correct answer is E If n is a perfect square, then the base of that square is √n, its next is √n+ 1 where the perfect square following (√n) 2 = n is (√n+ 1) 2 = n+ 2√n+ 1.
+
+**Answer:** E
+[[src_garaprime_2024__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student semifinale individuale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q09
 parent: src_kangourou_2021_student_semifinale
 competition: Kangourou 2021 Student semifinale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo L del rettangolo 1xL ripartito con vincoli di area*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum L of the 1xL rectangle divided by area constraints*
+
+> (6 points) A rectangle of dimension 1×L is divided into four rectangles by two segments parallel to each side. Of these four rectangles, one has area at least 2 and each of the others has area at least 1. What's the smallest possible value for L? A) 5 B) 6 C) 3√3 + 1 D) 4√3 E) A value different from the previous ones
+>  
+>  
+>  
+> Open-ended questions
+
+**Answer:** E
+[[src_kangourou_2021_student_semifinale__Q09]]

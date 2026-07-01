@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet semifinale individuale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q13
 parent: src_kangourou_2022_cadet_semifinale
 competition: Kangourou 2022 Cadet semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura dell'angolo ABC tra due esagoni regolari*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 15
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measurement of the ABC angle between two regular hexagons*
+
+![[src_kangourou_2022_cadet_semifinale__prob13.png]]
+
+> (6 points) The figure shows two congruent regular hexagons that have only one vertex in common. Two of the sides that converge at that summit are perpendicular. How many degrees does the indicated angle ABC measure?
+
+**Answer:** 15
+[[src_kangourou_2022_cadet_semifinale__Q13]]

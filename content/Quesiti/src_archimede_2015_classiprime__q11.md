@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2015 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_classiprime__Q11
 parent: src_archimede_2015_classiprime
 competition: Gara Nazionale Classi Prime 2015
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scomposizione del polinomio di sesto grado in fattori interi*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Composition of the sixth degree polynomial into integers*
+
+> When the polynomial p(x) = x6+3x5+3x4+9x3+24x2+24x+8 is broken down as the product of polynomials with lower integer coefficients, not further broken down, we get: A 4 polynomials of 1°grade and one of 2°grade B 6 polynomials of 1°grade C 3 polynomials of 1°grade and one of 3°grade D 2 polynomials of 1°grade and 2 of 2°grade E 2 polynomials of 1°grade and one of 4°grade F none of the other answers is accurate
+
+**Answer:** A
+[[src_archimede_2015_classiprime__Q11]]

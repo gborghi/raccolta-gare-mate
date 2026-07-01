@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2023 - Gara Biennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_biennio__Q13
 parent: src_archimede_2023_biennio
 competition: Giochi di Archimede 2023 - Gara Biennio
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli isosceli con vertici di poligono regolare 25-gono*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cdaCakhnUhZtz4LlgOmVvJJRpalObqKb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Isosceles triangles with regular 25-zone polygon vertices*
+
+> Considering a regular polygon P of 25 sides, determine how many isosceles triangles can be constructed using three vertices of the polygon P.
+>
+> - **(A)** 285
+> - **(B)** 275
+> - **(C)** 250
+> - **(D)** 225
+> - **(E)** 300
+
+**Answer:** E
+[[src_archimede_2023_biennio__Q13]]

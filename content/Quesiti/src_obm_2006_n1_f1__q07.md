@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q07
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangles with vertices of regular pentagon*
 
@@ -55,3 +58,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trianguli a pari stella con vertici di pentagono regolare*
+
+> Quanti triangoli a uguale forma hanno i loro vertici tra i vertici del pentagono regolare tracciati lateralmente?
+>
+> - **(A)** 5
+> - **(B)** 10
+> - **(C)** 15
+> - **(D)** 20
+> - **(E)** 25
+
+![[src_obm_2006_n1_f1__Q07.png]]
+
+**Risposta:** B
+[[src_obm_2006_n1_f1__Q07]]

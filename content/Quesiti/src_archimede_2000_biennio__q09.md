@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Biennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_biennio__Q09
 parent: src_archimede_2000_biennio
 competition: Giochi di Archimede 2000 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora di risveglio dato intervallo di insonnia*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Wake-up time given insomnia< MSK1/>
+
+> Emanuel is suffering from insomnia. One day at 11:11 a.m., he says: "I haven't slept for 53 hours and 53 minutes". What time did you last wake up?
+>
+> - **(A)** 5:04
+> - **(B)** 5:18
+> - **(C)** 5:58
+> - **(D)** 6:04
+> - **(E)** 6:18.
+
+**Answer:** B
+[[src_archimede_2000_biennio__Q09]]

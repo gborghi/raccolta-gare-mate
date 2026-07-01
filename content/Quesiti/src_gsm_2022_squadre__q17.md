@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2022_squadre__Q17
 parent: src_gsm_2022_squadre
 competition: Gara a Squadre GSM (locale Genova) 2022
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del quadrato su AK in una costruzione nel quadrato*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0340
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the square on AK in a building in the square*
+
+![[src_gsm_2022_squadre__prob17.png]]
+
+> In a square $ABCD$ side $2$ cm, the inscribed circumference is plotted. Whether $M$ the middle point of the $BC$ side. The $MD$ segment intersects the circumference at an additional point $K$ beyond the point $M$. What is the area of the square constructed on $AK$ in $\text{mm}^2$?
+
+**Answer:** 0340
+[[src_gsm_2022_squadre__Q17]]

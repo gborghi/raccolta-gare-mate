@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2012 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2012_automne__Q10
 parent: src_canimath_2012_automne
 competition: Coupe Animath Automne 2012
@@ -34,6 +35,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle ABC given incircle center I, AI=BC and angle ICA=2 angle IAC*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca angolo ABC dato centro incircolo I, AI=BC e angolo ICA=2 angolo IAC*
+
+> Che $ABC$ sia un triangolo e $I$ il centro del suo cerchio inciso. Supponiamo che $AI = BC$ e che $\widehat{ICA} = 2\,\widehat{IAC}$. Qual è il valore di < MSK4/>?
+
+[[src_canimath_2012_automne__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Finale (risposta aperta) — Quesito S1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student_finale__QS1
 parent: src_kangourou_2022_student_finale
 competition: Kangourou 2022 Student — Finale (risposta aperta)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tessere 2×1 al massimo su regione di 36 quadratini*
 
@@ -60,3 +63,34 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 15
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xkM8usCvbEkYYISsMrLicq6kvtHNww5g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Table 2×1 at most on a 36-square region*
+
+![[src_kangourou_2022_student_finale__probS1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.5]
+  % Staircase pyramid: 6 rows (1,3,5,7,9,11 squares top to bottom) = 36 total
+  \foreach \i in {0,...,10} { \draw (\i,0) rectangle (\i+1,1); }
+  \foreach \i in {1,...,9}  { \draw (\i,1) rectangle (\i+1,2); }
+  \foreach \i in {2,...,8}  { \draw (\i,2) rectangle (\i+1,3); }
+  \foreach \i in {3,...,7}  { \draw (\i,3) rectangle (\i+1,4); }
+  \foreach \i in {4,...,6}  { \draw (\i,4) rectangle (\i+1,5); }
+  \draw (5,5) rectangle (6,6);
+  % 2x1 tile legend
+  \draw (8.5,5) rectangle (9.5,6);
+  \draw (9.5,5) rectangle (10.5,6);
+  \node at (9.5,4.5) {\small $2{\times}1$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure, you see a region of the plane obtained by joining 36 squares all equal to each other and a card obtained by joining two squares identical to those of the region. How many tiles of this type can you have at most in the region so that each one covers exactly two squares of the region and does not overlap (even partially)? You can use the figure to indicate how to arrange the cards, but remember that you also have to justify why you can't place a larger number. (see figure)
+
+**Answer:** 15
+[[src_kangourou_2022_student_finale__QS1]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_biennio__Q10
 parent: src_archimede_2014_biennio
 competition: Giochi di Archimede 2014 - Biennio (Testo 1)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di incontri in torneo di biliardino a coppie*
 
@@ -41,3 +44,14 @@ tags:
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Oz_wj_o5ytBhbhCTfVi7OLptFspmtFPH/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of matches in the pool tournament in pairs*
+
+> Eight players, four of whom are defenders and four are attackers, organize a pool tournament. Each possible attacking-defensive pair plays once and only once against every other possible attacking-defensive pair. How many meetings will they have in all? (A) 24, (B) 36, (C) 48, (D) 72, (E) 144.
+
+**Answer:** D
+[[src_archimede_2014_biennio__Q10]]

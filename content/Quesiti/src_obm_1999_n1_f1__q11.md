@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f1__Q11
 parent: src_obm_1999_n1_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distinct figures formed by joining three congruent rhombuses side to side.*
 
@@ -53,3 +56,18 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta le figure distinte formate dalla connessione di tre rombole congruenti fianco a fianco.*
+
+> Unendo tre quadrati congruenti che fanno coincidere i loro lati, possiamo formare due figure diverse, come mostra l'esempio accanto. Ora prenderemo tre rombole congruenti (parallellogrammi con tutti i lati uguali) e li uniremo facendo coincidere i loro lati. Quante cifre differenti possiamo formare con i tre rombosi? (Due cifre sono considerate uguali se una può essere ottenuta dall'altra mediante rotazione, traduzione o riflessione.)
+> 
+> (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 5 \quad (E) 9
+
+![[src_obm_1999_n1_f1__Q11.png]]
+
+**Risposta:** E
+[[src_obm_1999_n1_f1__Q11]]

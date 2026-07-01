@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q15
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Characterize possible sizes of a perfect finite set of real numbers*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Caricare le dimensioni possibili di un insieme finito perfetto di numeri reali*
+
+> Un insieme finito $A$ di numeri reali è chiamato \emph{perfetto} se ha almeno due elementi e, per ogni $b \in A$, il insieme $\{ab \mid a \in A,\, a \neq b\}$ è uguale a $A$. Ad esempio, $\left\{1, 2, \tfrac{1}{2}\right\}$ è perfetto. Tuttavia, $\{1,2,3\}$ non è perfetto. Quanti elementi può avere un insieme perfetto?
+> 
+> (A) Solo 3 o 4 \quad (B) Qualsiasi quantità congruente a 3 o 4 modulo 4 \\ (C) Qualsiasi quantità imparata \quad (D) Qualsiasi quantità primaria \\ (E) Qualsiasi quantità superiore a 2
+
+**Risposta:** E
+[[src_obm_2015_n3_f1__Q15]]

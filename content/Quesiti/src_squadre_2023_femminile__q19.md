@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2023 - VI Finale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_femminile__Q19
 parent: src_squadre_2023_femminile
 competition: Gara a Squadre Femminile 2023 - VI Finale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma numeri 3 cifre con media permutazioni uguale a se stesso*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2220
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of three-digit numbers with average permutations equal to itself*
+
+> After recovering the moon, Krull realizes that it may still be time for the ballet of Maria, Gaetana and Agnese. Then try to enter the return code p(10), where p(x) is the polynomial (x−1)9. However, in a hurry it is confused and considers instead f(x), the function obtained by copying the expression of p(x) and replacing each term of the type anxn with annx. How much is f(10), the number actually entered by Krull? Give each other the first four digits of the result.
+
+**Answer:** 2220
+[[src_squadre_2023_femminile__Q19]]

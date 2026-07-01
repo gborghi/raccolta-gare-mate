@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo23yq_yosen__Q03
 parent: src_jmo23yq_yosen
 competition: Japan Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Star inscribed in unit circle; area of inner pentagon*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\dfrac{\sqrt{3}}{6}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dMCin6mfKEWYPJJU3SDEXt5-U6UwypUB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Stella inscrita nel cerchio unitario; area del pentagono interno*
+
+> Su un cerchio $O$ di raggio $1$, i punti $A_1, A_2, A_3, A_4, A_5$ si trovano in questo ordine in modo che $\angle A_5 A_2 A_4 = \angle A_1 A_3 A_5 = \angle A_2 A_4 A_1 = \angle A_3 A_5 A_2 = \angle A_4 A_1 A_3 = 30^\circ$. Che $B_1$ sia l'intersezione di $A_2 A_4$ e $A_3 A_5$, $B_2$ l'intersezione di $A_3 A_5$ e $A_4 A_1$, $B_3$ l'intersezione di $A_4 A_1$ e $A_5 A_2$, $B_4$ l'intersezione di $A_5 A_2$ e $A_1 A_3$, e $B_5$ l'intersezione di $A_1 A_3$ e $A_2 A_4$. Trova l'area del pentagono $B_1 B_2 B_3 B_4 B_5$.
+
+![[src_jmo23yq_yosen__Q03.png]]
+
+**Risposta:** $\dfrac{\sqrt{3}}{6}$
+[[src_jmo23yq_yosen__Q03]]

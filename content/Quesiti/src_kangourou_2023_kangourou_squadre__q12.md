@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre__Q12
 parent: src_kangourou_2023_kangourou_squadre
 competition: Kangourou Squadre 2023 Kangourou Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo di 100 numeri in cerchio, media adiacenti*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2023
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum of 100 numbers in a circle, adjacent mean*
+
+> One hundred numbers in a circle On a circle are written 100 numbers, each of which is the arithmetic mean of the two adjacent to it. One of them is 2,023, and there are no more. How much is the smallest?
+
+**Answer:** 2023
+[[src_kangourou_2023_kangourou_squadre__Q12]]

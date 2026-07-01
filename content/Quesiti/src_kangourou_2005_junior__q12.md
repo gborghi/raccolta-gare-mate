@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q12
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo palline estratte per somma 18*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum balls extracted by sum of 18< MSK1/>
+
+> In a day there are 17 balls numbered 1 to 17. You have the option to extract a single number of balls of your choice. If you want to be sure that among the balls you extracted, there are at least two whose sum is 18, how many do you need to extract? A) 8 B) 10 C) 11 D) 12 E) 17
+
+**Answer:** B
+[[src_kangourou_2005_junior__Q12]]

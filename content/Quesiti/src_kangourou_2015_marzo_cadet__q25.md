@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q25
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *min pezzi per traliccio cubico*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>min pieces per cubic inch < MSK1/>
+
+![[src_kangourou_2015_marzo_cadet__prob25.png]]
+
+> Charles has seven pieces of iron wire each 1 cm, 2 cm, 3 cm, 4 cm, 5 cm, 6 cm and 7 cm long. He wants to use some of them to build, without cutting them or overlaying them (not even partially), a cubic lattice with long spines
+
+**Answer:** D
+[[src_kangourou_2015_marzo_cadet__Q25]]

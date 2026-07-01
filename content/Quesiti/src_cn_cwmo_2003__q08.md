@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2003 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2003__Q08
 parent: src_cn_cwmo_2003
 competition: China Western Mathematical Olympiad 2003
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bound on number of boy students in seating arrangement*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Rimedio sul numero di ragazzi in seduta< MSK1/>
+
+> Organizzare gli studenti $1650$ nelle righe $22$ per colonne $75$. È noto che per due colonne il numero di volte in cui due studenti della stessa riga sono dello stesso sesso non supera $11$. Dimostrare che il numero di ragazzi non supera < MSK4/>.
+
+[[src_cn_cwmo_2003__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2012 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2012__Q06
 parent: src_inmo_2012
 competition: Indian National Mathematical Olympiad 2012
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation on integers: find all f values and set where f(n)≠0*
 
@@ -52,3 +55,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Yo2mg-kxvVgZBQrmg9vQdyiD2EizSWJt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale sui numeri interi: trovare tutti i valori di f e impostare dove f(n) ≠0*
+
+> Che $f : \mathbb{Z} \to \mathbb{Z}$ sia una funzione che soddisfi $f(0) \neq 0$, $f(1) = 0$ e \begin{itemize} \item[(i)] $f(xy) + f(x)f(y) = f(x) + f(y)$; \item[(ii) $(f(x-y) - f(0))f(x)f(y) = 0$, \end{itemize} per tutti $x, y \in \mathbb{Z}$, contemporaneamente. \begin{enumerate} \item[(a)] Trova l'insieme di tutti i valori possibili della funzione $f$. \item[(b) Se $f(0) \neq 0$ e $f(2) = 0$, trovare l'insieme di tutti gli integri $n$ tale da $f(n) \neq 0$. \end{enumere}
+
+[[src_inmo_2012__Q06]]

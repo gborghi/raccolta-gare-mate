@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q06
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale immagine ruotata coincide con quella data*
 
@@ -39,3 +42,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which image rotated matches that date*
+
+![[src_kangourou_2015_marzo_preecolier__prob6.png]]
+
+> Which of the following images can be rotated so that it matches the image shown here on the right? (see figure)
+> 
+> (A) (B) (C) (D) (E)
+
+**Answer:** E
+[[src_kangourou_2015_marzo_preecolier__Q06]]

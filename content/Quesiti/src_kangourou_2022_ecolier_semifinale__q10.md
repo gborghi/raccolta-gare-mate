@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier semifinale individuale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_semifinale__Q10
 parent: src_kangourou_2022_ecolier_semifinale
 competition: Kangourou 2022 Ecolier semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Superficie dell'insegna esagonale con sei cellette*
 
@@ -61,3 +64,35 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 324
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Surface of the hexagonal sign with six cells*
+
+![[src_kangourou_2022_ecolier_semifinale__prob10.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \newcommand{\hexagon}[3]{
+    \fill[orange!20] (#1+#3,#2) -- (#1+#3*0.5,#2+#3*0.866) -- (#1-#3*0.5,#2+#3*0.866) -- (#1-#3,#2) -- (#1-#3*0.5,#2-#3*0.866) -- (#1+#3*0.5,#2-#3*0.866) -- cycle;
+    \draw[thick] (#1+#3,#2) -- (#1+#3*0.5,#2+#3*0.866) -- (#1-#3*0.5,#2+#3*0.866) -- (#1-#3,#2) -- (#1-#3*0.5,#2-#3*0.866) -- (#1+#3*0.5,#2-#3*0.866) -- cycle;
+  }
+  \hexagon{-0.9526}{-0.825}{0.55}
+  \hexagon{0}{-0.825}{0.55}
+  \hexagon{0.9526}{-0.825}{0.55}
+  \hexagon{-0.4763}{0}{0.55}
+  \hexagon{0.4763}{0}{0.55}
+  \hexagon{0}{0.825}{0.55}
+  \draw[very thick]
+    (0,1.73) -- (1.498,0.865) -- (1.498,-0.865) -- (0,-1.73) -- (-1.498,-0.865) -- (-1.498,0.865) -- cycle;
+\end{tikzpicture}
+\end{document}
+```
+
+> (4 points) The figure shows the sign displayed by a beekeeper outside his shop. The sign is in the shape of a regular hexagon in which six equal cells in the shape of a regular hexagon are drawn, each of which shares 4 of its sides or with other cells or with the edges of the hexagon. If the area of each cell is 36 square centimetres, how many square centimetres is the area of the sign?
+
+**Answer:** 324
+[[src_kangourou_2022_ecolier_semifinale__Q10]]

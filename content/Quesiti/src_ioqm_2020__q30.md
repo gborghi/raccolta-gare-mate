@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 30
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q30
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count pairs (a,b) of natural numbers where a+1 divides b-1 and b divides a^2+2*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare coppie (a,b) di numeri naturali in cui a+1 divide b-1 e b divide a^2+2*
+
+> Trova il numero di coppie $(a, b)$ di numeri naturali in modo tale che $a + 1$ divida $b - 1$ e $b$ divida $a^2 + 2$.
+
+[[src_ioqm_2020__Q30]]

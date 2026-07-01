@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q25
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Divisore del numero ABABAB*
 
@@ -48,3 +51,23 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*ABABAB number divider*
+
+> However you choose the two digits A and B, the six-digit number ABABAB is divisible by A) 2.
+> 	
+> B) 5.
+> 	
+> C) 7.
+> 	
+> D) 9.
+> 	
+> E) 11.
+>
+
+**Answer:** C
+[[src_kangourou_2017_junior_marzo__Q25]]

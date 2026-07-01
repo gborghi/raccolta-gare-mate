@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q06
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Calcolo del 2005% di 200*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*2005% of 200* calculated
+
+> The 2005% of 200 is A) 401200 B) 401000 C) 4210 D) 4010 B A Benjamin_05_D.qxp 21/02/2005 16.04 Page 10
+> 
+> I'm going to pay. I'm going to pay. 11 11 Kang 2005 Kang 2005 E) You cannot calculate 2005% of a number, you can calculate 100% at most.
+
+**Answer:** D
+[[src_kangourou_2005_benjamin__Q06]]

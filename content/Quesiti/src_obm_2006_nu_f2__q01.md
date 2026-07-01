@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2 —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_nu_f2__Q01
 parent: src_obm_2006_nu_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove integral inequality for increasing integrable function*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18lHsUkA6TjiVCKvRGHHFZ98nGkOcKHvM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza integrale per aumentare la funzione integrabile*
+
+> Che la funzione $f : \mathbb{R} \to \mathbb{R}$ sia integrabile e in aumento. Provare che < MSK0/>
+
+[[src_obm_2006_nu_f2__Q01]]

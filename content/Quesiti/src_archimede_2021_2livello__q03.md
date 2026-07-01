@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2021 - 2° livello — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_2livello__Q03
 parent: src_archimede_2021_2livello
 competition: Archimede Gara di Febbraio 2021 - 2° livello
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre di 2021+(10^2021+21)^2*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the sum of the amounts reported in the report.
+
+> What is the sum of the digits of the number 2021 + (102021 + 21)2?
+>
+> - **(A)** 21
+> - **(B)** 30
+> - **(C)** 37
+> - **(D)** 42
+> - **(E)** A number greater than 100.
+
+**Answer:** D
+[[src_archimede_2021_2livello__Q03]]

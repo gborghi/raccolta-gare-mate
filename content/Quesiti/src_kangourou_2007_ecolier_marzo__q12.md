@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Ecolier (marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q12
 parent: src_kangourou_2007_ecolier_marzo
 competition: Kangourou 2007 Ecolier (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sequenza di macchine per ottenere il risultato*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sequence of machines to obtain the result*
+
+![[src_kangourou_2007_ecolier_marzo__prob12.png]]
+
+> The carpenter's laboratory has two machines A and B, the operation of which is shown in the figure. What is the correct sequence in the use of machines to obtain ? (a) BBA B) ABB C) BAB D) BA E) BABBB
+
+**Answer:** B
+[[src_kangourou_2007_ecolier_marzo__Q12]]

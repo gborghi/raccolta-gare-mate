@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Semifinale individuale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_semifinale__Q12
 parent: src_kangourou_2018_benjamin_semifinale
 competition: Kangourou 2018 Benjamin - Semifinale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti canguri attorno al tavolo rotondo*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0010
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mpGDkZU0ITLxgA_gblbwITgtcOOWYDSU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many kangaroos around the round table*
+
+> Twenty-two kangaroos and koalas sit around a round table. Kangaroos seem to tell the truth, koalas always lie. Ten of these animals say, "He who is seated at my right hand is of my own species". The other 12 say, "He who is seated at my right hand is of a different species". How many kangaroos are around the table?
+
+**Answer:** 0010
+[[src_kangourou_2018_benjamin_semifinale__Q12]]

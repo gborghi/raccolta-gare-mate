@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q10
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tables and chairs needed for a school refectory with 3 sectors*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tabelle e sedie necessarie per un refectorio scolastico con 3 settori*
+
+> Una scuola deve comprare tavoli e sedie per il suo nuovo refettorio. Il refectorio è distribuito in tre settori. In ciascun settore, le tabelle sono disposte in 8 righe e ciascuna riga ha 14 tabelle. Ogni tavolo ospita 4 sedie. Quante tavoli e sedie si dovrebbero comprare?
+>
+> - **(A)** 112 tavoli e 448 sedie
+> - **(B)** 112 tavoli e 1344 sedie
+> - **(C)** 336 tavoli e 448 sedie
+> - **(D)** 336 tavoli e 896 sedie
+> - **(E)** 336 tavoli e 1344 sedie
+
+**Risposta:** E
+[[src_obm_2003_n1_f1__Q10]]

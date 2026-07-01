@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q27
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nella cella grigia con somme uguali*
 
@@ -55,3 +58,34 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the grey cell with equal sums*
+
+![[src_kangourou_2020_junior_marzo__prob27.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.0]
+  \fill[gray!40] (0,0) rectangle (1,1);
+  \draw (0,0) grid (4,4);
+  \node at (0.5,3.5) {1};
+  \node at (2.5,3.5) {6};
+  \node at (3.5,3.5) {3};
+  \node at (1.5,2.5) {2};
+  \node at (2.5,2.5) {2};
+  \node at (3.5,2.5) {8};
+  \node at (1.5,1.5) {7};
+  \node at (3.5,1.5) {4};
+  \node at (2.5,0.5) {7};
+\end{tikzpicture}
+\end{document}
+```
+
+> 27. In each of the cells of the square grid in the figure a number must be inserted so that, when the rows and the 2 2 8 columns vary, the sum of the numbers that appear in the grid is always the same. Some numbers have already been entered. What number should you put in the gray cell? 7 A) 5 B) 6 C) 7 D) 8 E) 9
+
+**Answer:** C
+[[src_kangourou_2020_junior_marzo__Q27]]

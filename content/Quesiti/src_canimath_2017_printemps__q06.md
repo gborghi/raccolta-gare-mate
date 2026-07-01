@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2017 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2017_printemps__Q06
 parent: src_canimath_2017_printemps
 competition: Coupe Animath Printemps 2017
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integers n≥2 where d|n implies (d-1)|(n-1) for all d≥2*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WRDBVKTu2eO-0ruMO9lo0GjGJQSpzivB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli integri n≥2 dove d'innuncia (d-1) di n- 1) per tutti d≥2*
+
+> Determinare tutti gli enti $n \ge 2$ in modo tale che per ogni intero $d \ge 2$, se $d$ è un divisore di $n$, allora $d - 1$ è un divisore di $n - 1$.
+
+[[src_canimath_2017_printemps__Q06]]

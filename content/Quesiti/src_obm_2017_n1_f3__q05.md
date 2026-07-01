@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n1_f3__Q05
 parent: src_obm_2017_n1_f3
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 3
@@ -40,6 +41,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Phone unlock patterns as digit sequences on a 3x3 grid: identify a password and count patterns*
 
@@ -68,3 +71,31 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Modelli di sblocco del telefono come sequenze digitali su una griglia 3x3: identificare una password e modelli di conteggio*
+
+> Vediamo, nelle figure 1 e 2 di seguito, esempi del blocco dello schermo di un cellulare che funziona solo con una password che non viene digitata ma disegnata con segmenti di linea. Questi segmenti formano una linea poligonale con vertici su una griglia. Quando si disegna il modello corrispondente alla password, il dito deve continuare a toccare lo schermo per tutto il tempo. L'intera linea poligonale corrisponde a una sequenza di cifre, e questa sequenza è, infatti, la password. Il tracciamento delle linee poligonali è conforme alle seguenti regole:
+> 
+> i. Il tracciamento inizia ad uno dei punti evidenziati, che corrispondono ai numeri $1$ a $9$ (figura 3).
+> 
+> ii. Ogni segmento del modello deve avere come uno dei suoi punti finali (quello al quale finiamo di tracciare il segmento) un punto che non è ancora stato utilizzato.
+> 
+> iii. Se un segmento unisce due punti e contiene un terzo (il suo punto medio), allora la cifra corrispondente a tale terzo punto è inclusa nella password. Questo non avviene quando tale punto/cifre è già stato utilizzato.
+> 
+> iv. Ogni password ha almeno quattro cifre.
+> 
+> Pertanto, ogni linea poligonale è associata a una sequenza di quattro o più cifre, che appaiono nella password nello stesso ordine in cui vengono visitate. Nella figura 1 sopra, ad esempio, la password è $218369$, nel caso in cui il primo punto visitato fosse il $2$. Si noti che il segmento che unisce i punti associati ai numeri $3$ e $9$ include il punto associato al numero $6$. Se il primo punto visitato fosse il $9$, la password sarebbe $963812$. Se il primo punto visitato fosse il $6$, la password sarebbe $693812$. Si noti che la $6$ sarebbe saltata, poiché non poteva ripetersi.
+> 
+> a) Perché la riga della figura 2 corrisponde a una singola password? Qual è la password?
+> 
+> b) Quante password sono associate esattamente a tre lati consecutivi di un quadrato?
+> 
+> c) Quante diverse password di quattro cifre hanno due segmenti collineari (segmenti che si trovano sulla stessa linea)?
+
+![[src_obm_2017_n1_f3__Q05.png]]
+
+[[src_obm_2017_n1_f3__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Biennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_biennio__Q12
 parent: src_archimede_1996_biennio
 competition: Giochi di Archimede 1996 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato di un rombo date area e rapporto fra diagonali*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ARzIV3wHmzpV455NSIYGulflPgheKY6p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Side of a rim given area and diagonal ratio*
+
+> In an area of 80 cm2, one diagonal is twice as long as the other. How long is the side of the rim?
+>
+> - **(A)** 8 cm
+> - **(B)** √ 80 cm
+> - **(C)** 10 cm
+> - **(D)** 20 cm
+> - **(E)** It's impossible to determine.
+
+**Answer:** C
+[[src_archimede_1996_biennio__Q12]]

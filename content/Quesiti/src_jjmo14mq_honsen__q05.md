@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2016 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo14mq_honsen__Q05
 parent: src_jjmo14mq_honsen
 competition: Japan Junior Mathematical Olympiad 2016 — Honsen (Final)
@@ -35,6 +36,8 @@ tags:
   - topic/grafi
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Airlines X and Y on n cities, travel m flights avoiding Y-after-X*
 
@@ -54,3 +57,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNe77mqSS5KaVCDyNI-U80o5ArYTZuAL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le compagnie aeree X e Y in n città, viaggiano in m voli evitando Y-after-X*
+
+> $m$ e $n$ siano integri positivi che soddisfino $\dfrac{m(m+1)}{2} < n$. In un determinato paese ci sono città $n$ e due compagnie aeree $X$ e $Y$. Ogni compagnia aerea opera alcuni voli diretti (non-stop) tra coppie di città. Per ogni città $C$, è impossibile tornare a $C$ effettuando solo voli diretti della stessa compagnia aerea, partendo e terminando a $C$ (cioè nessuna compagnia aerea ha un ciclo attraverso $C$ utilizzando solo i propri voli). Per ogni due città distinte, si può viaggiare da una città all'altra utilizzando solo voli diretti di una compagnia aerea (non necessariamente la stessa compagnia aerea per entrambe le direzioni). Nota: se esiste un volo diretto da città $C$ a città $D$, non esiste necessariamente un volo diretto da $D$ a $C$.
+> 
+> dimostrare che esiste una città da cui è possibile partire e effettuare esattamente $m$ voli diretti in successione, in modo che sia soddisfatta la seguente condizione:
+> 
+> \textit{Condizione: un volo $X$ non viene mai immediatamente seguito da un volo $Y$.}
+
+[[src_jjmo14mq_honsen__Q05]]

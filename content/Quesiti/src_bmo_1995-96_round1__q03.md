@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1995-96 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1995-96_round1__Q03
 parent: src_bmo_1995-96_round1
 competition: British Mathematical Olympiad 1995-96 — Round 1
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove CO perpendicular to PQ using circle through A, O, B*
 
@@ -39,3 +42,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AeYwKueSuhFg80SHdY-WJiRjur5w9yrj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove CO perpendicolare al PQ utilizzando un cerchio attraverso A, O, B*
+
+> Lasciate che $ABC$ sia un triangolo a angolo acuto, e lasciate che $O$ sia il suo circoncentro. Il cerchio attraverso $A$, $O$ e $B$ si chiama $S$. Le linee $CA$ e $CB$ incontrano di nuovo il cerchio $S$ rispettivamente a $P$ e $Q$. Prova che le linee $CO$ e $PQ$ sono perpendicolari.
+> 
+> (Dato qualsiasi triangolo $XYZ$, il suo circoncentro è il centro del cerchio che attraversa i tre vertici $X$, $Y$ e $Z$.)
+
+[[src_bmo_1995-96_round1__Q03]]

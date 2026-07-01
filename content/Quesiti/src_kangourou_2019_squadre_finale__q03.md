@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Finale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q03
 parent: src_kangourou_2019_squadre_finale
 competition: Kangourou Coppa squadre 2019 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Codice del lucchetto dalle indicazioni*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6471
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lock code with the entries *
+
+> The lock The code for opening a lock is made up of four different digits. Compared to that code, each of the following four numbers 6427 4271 6412 2671 has two digits in the correct position, one in the incorrect position and one not present. What's the code?
+
+**Answer:** 6471
+[[src_kangourou_2019_squadre_finale__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q02
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length EF of two points on a semicircle whose feet on the diameter are at distances 1 and 8 from A.*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza EF di due punti su un semicircolo i cui piedi sul diametro si trovano a distanze 1 e 8 da A.*
+
+> Il $AB$ deve essere un segmento di lunghezza 26, e $C$ e $D$ devono essere punti sul segmento $AB$ in modo tale che $AC=1$ e $AD=8$. I punti $E$ e $F$ siano punti su un semicircolo di diametro $AB$, con $EC$ e $FD$ perpendicolari a $AB$. Quanto è < MSK12/>?
+> 
+> (A) 5 (B) $5\sqrt{2}$ (C) 7 (D) $7\sqrt{2}$ (E) 12
+
+[[src_obm_2004_n3_f1__Q02]]

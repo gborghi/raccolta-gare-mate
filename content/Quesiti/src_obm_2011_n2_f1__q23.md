@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q23
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of ways to arrange 2011 bullets in equal rows leaving 2 over*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di modi per organizzare i proiettili 2011 in righe uguali lasciando 2 sopra*
+
+> Esmeralda ha $2011$ proiettili (caramelle) e vuole organizzarli in righe, ciascuna fila con la stessa quantità di proiettili, in modo che il numero di righe sia un altro rispetto alla quantità di proiettili in ogni riga, lasciando tra di loro $2$ proiettili. Quante possibilita' ci sono? (Vedi avvertenze: questa affermazione è parzialmente distorta nella fonte.)
+> 
+> (A) $1$ \quad (B) $2$ \quad (C) $5$ \quad (D) $7$ \quad (E) $11$
+
+[[src_obm_2011_n2_f1__Q23]]

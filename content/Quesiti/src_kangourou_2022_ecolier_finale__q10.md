@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier finale individuale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__Q10
 parent: src_kangourou_2022_ecolier_finale
 competition: Kangourou 2022 Ecolier finale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei prodotti delle cifre dei numeri 2 cifre*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2025
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of the products of the 2-digit numbers *
+
+> Every cell in the grid here on the side contains one of the numbers 1, 2, 3, 4, 5. The numbers entered so far comply with the following rule: if two cells have a side in common, they do not contain the same number. Which of the following pieces, inserted into the grid, allows you to continue to comply with the rule? (see figure)
+> 
+> (a) (part A) (b) (part B) (c) (part C) (d) (d) (e) (e)
+
+**Answer:** 2025
+[[src_kangourou_2022_ecolier_finale__Q10]]

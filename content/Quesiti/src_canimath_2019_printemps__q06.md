@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2019 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_printemps__Q06
 parent: src_canimath_2019_printemps
 competition: Coupe Animath Printemps 2019
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Parallelogram; CP=CB; midpoints M of AP, N of CD; show BP perpendicular to MN*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Parallelogramma; CP=CB; punti medi M di AP, N di CD; mostrare la BP perpendicolare a MN*
+
+> $ABCD$ sia un parallelo, e $P$ sia un punto all'interno di $ABCD$ tale da $CP = CB$. $M$ e $N$ siano rispettivamente i punti intermedi di $[AP]$ e $[CD]$.
+> 
+> Indicare che le linee $(BP)$ e $(MN)$ sono perpendicolari.
+
+[[src_canimath_2019_printemps__Q06]]

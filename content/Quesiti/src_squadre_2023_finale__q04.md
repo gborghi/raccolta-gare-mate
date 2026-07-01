@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Finale Nazionale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_finale__Q04
 parent: src_squadre_2023_finale
 competition: Gara a Squadre 2023 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma quadrati perfetti con tutte le cifre 4 tranne la prima*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1652
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of perfect squares with all 4 digits except the first*
+
+> After discovering that someone managed to steal Cheope's pyramid, Krull decides it's finally time to steal the moon! But to do so, he needs a loan from the criminal bank. To test the qualities of a super-criminal, the guard at the entrance to the bank asks: "What is the sum of all perfect squares, with at least two digits, such that all the digits except the first one on the left are four?" What does Krull have to answer to get in and talk to the principal?
+
+**Answer:** 1652
+[[src_squadre_2023_finale__Q04]]

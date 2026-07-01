@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q04
 parent: src_archimede_2015_febb_2livello
 competition: Archimede Gara di Febbraio 2015 - 2 livello
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Formica sul tastierino, quante affermazioni su n sono vere*
 
@@ -60,3 +63,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/147OSJf1wSBJHNEWKDKPVWMIP2TLevkAt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Form on the keyboard, how many statements on n are true< MSK1/>
+
+![[src_archimede_2015_febb_2livello__prob4.png]]
+
+> An ant walks on a cell phone's numeric keyboard, made up of 10 buttons arranged as shown in the figure. The ant always moves from the button on which it is at an adjacent button horizontally or vertically; it starts from the button 1 and walks for a while on the keyboard, finally stopping on the button 0, which it had never visited before. Consider the number n obtained by concatenating the numbers of the keys on which the ant passed, in the order in which it visited them (for example, the path in the figure would correspond to the number 12580). Say how many of the following four statements are certainly true: - n is not a multiple of 3; - n is not a multiple of 8; - n is composed of an odd number of digits; - n is not a square.
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 4
+
+**Answer:** D
+[[src_archimede_2015_febb_2livello__Q04]]

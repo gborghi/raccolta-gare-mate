@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_mumbai__Q05
 parent: src_rmo_2014_mumbai
 competition: Regional Mathematical Olympiad 2014
@@ -34,6 +35,8 @@ tags:
   - regione/r5
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove (1+a^2)(1+b^2)(1+c^2) >= 125 given reciprocal sum at most 1*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xhSfT_YS9hyqePqUnTAQeZVYK635GxN9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove (1+a^2)(1+b^2)(1+c^2) >= 125 dati somma reciproca massima 1*
+
+> Che $a, b, c$ siano numeri positivi tali che $$\frac{1}{1+a} + \frac{1}{1+b} + \frac{1}{1+c} \le 1.$$ dimostri che $(1 + a^2)(1 + b^2)(1 + c^2) \ge 125$. Quando la parità dura?
+
+*Apparizioni nelle regioni: Mumbai, Regione 5.*
+
+[[src_rmo_2014_mumbai__Q05]]

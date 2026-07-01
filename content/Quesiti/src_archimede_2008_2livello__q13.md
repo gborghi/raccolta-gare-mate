@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_2livello__Q13
 parent: src_archimede_2008_2livello
 competition: Archimede Gara 2° livello 2008 (biennio/triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Più grande primo di due cifre con varie condizioni di primalità*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 71
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most prime of two digits with different priority conditions*
+
+> Determine the greatest number of two digits such that: (a) it is a prime number; (b) the two digits are replaced by a prime number; (c) the product of the two digits is a prime number.
+
+**Answer:** 71
+[[src_archimede_2008_2livello__Q13]]

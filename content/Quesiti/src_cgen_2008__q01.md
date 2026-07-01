@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2008 — Matematica — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2008__Q01
 parent: src_cgen_2008
 competition: Concours Général des Lycées 2008 — Matematica
@@ -38,6 +39,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Study of the parabola $y=x^2/3-3/2$ and circles tangent to it: nature of the curve, the squared-distance function and its derivatives, characterising tangency by $g'_U(a)=0$, counting tangent circles, and bitangent circles.*
 
@@ -69,3 +72,23 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IEBXapc8Xti2FnyfVXhsQrfrBf7j3lVa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Studio della parabola $y=x^2/3-3/2$ e dei cerchi tangenti a essa: natura della curva, funzione quadrata-distanza e sue derivate, caratterizzando la tangenza da $g'_U(a)=0$, conteggiando i cerchi tangenti e i cerchi bitangenti.*
+
+> Lavoriamo nel piano afino euclideo $\mathscr{P}$ con un quadro ortonormale $(O,\vec{i},\vec{j})$. $S$ sia la curva dell'equazione: $$y=\frac{x^2}{3}-\frac{3}{2}.$$
+> 
+> 1. Qual è la natura geometrica di $S$?
+> 
+> 2. Per ogni coppia $(u,v)$ di numeri reali indichiamo con $U$ il punto delle coordinate $(u,v)$, e per $x$ in $\mathbb{R}$ indichiamo con $M(x)$ il punto di $S$ con abscissa $x$. Abbiamo impostato: $$f_U(x)=UM(x),\qquad g_U(x)=\left[f_U(x)\right]^2$$ a. Calcolare $g_U$, $g'_U$ e $g''_U$. Risolvi l'equazione $g''_U(x)=0$. b. Indicare la tabella delle variazioni di $f_U$ (non si cerca di calcolare esplicitamente i numeri reali $x$ per i quali $f_U$ ammette un estremum relativo).
+> 
+> 3. Diciamo che un cerchio $C$ con centro $U$ e raggio $UM$ è tangente a $M$ a $S$ se $M$ è un punto di $S$ e le tangenti a $M$ a $C$ e a $S$ coincidono. Il $U$ deve essere un punto del piano non appartenente a $S$ e $a$ deve essere in $\mathbb{R}$. Indicare che il cerchio con centro $U$ e raggio $UM(a)$ è tangente a $M(a)$ a $S$ se e solo se $g'_U(a)=0$.
+> 
+> 4. a. Indicare che ogni punto $U$ non appartenente a $S$ è il centro di almeno un e non più di 3 cerchi tangenti a $S$. b. Per $U$ non appartenenti a $S$, indichiamo con $n(U)$ il numero di valori $x$ per i quali il cerchio con centro $U$ e raggio $UM(x)$ è tangente a $M(x)$ a $S$. Per $1\le i\le 3$, caratterizzare con uguaglianza o semplice disuguaglianza l'insieme dei punti $U$ non appartenenti a $S$ in modo tale che $n(U)=i$. Si può chiedere di discutere secondo il segno di $81u^2-16v^3$. Fare uno schizzo che rappresenti $S$ e i set trovati.
+> 
+> 5. a. Il valore < MSK0/> deve essere < MSK1/>. Indichiamo con $D(a)$ la tangente a $M(a)$ a $S$. Indicare un'equazione di $D(a)$. b. Indichiamo di nuovo con $U$ il punto di $\mathscr{P}$ con le coordinate $(u,v)$. Discutere, come funzione di $u$ e $v$, il numero di soluzioni $a$ dell'equazione $U\in D(a)$. c. Supponiamo che l'equazione $U\in D(a)$ ammetta due soluzioni distinte $a_1$ e $a_2$. Indicare che se $UM(a_1)=UM(a_2)$, allora $u=0$. d. Supponiamo < MSK18/>. Ora supponiamo che esista un cerchio con il centro $U$ tangente a $S$ a due punti distinti $M$ e $N$ di $S$. Mostrare che le tangenti di $S$ a $M$ e $N$ sono simultanee, e che se indichiamo con $V$ il loro punto di intersezione allora $VM=VN$. e. Determinare l'insieme di punti $U$ non appartenenti a $S$ per i quali esiste un cerchio con centro $U$ tangente a $S$ in due punti distinti di $S$.
+
+[[src_cgen_2008__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q08
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count the number of ways to fold 8-square net (6 shaded) into a cube*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare il numero di modi per piegare la rete a 8 quadrati (6 ombrati) in un cubo*
+
+> Il diagramma mostra otto piccoli quadrati. Sei di questi quadrati devono essere ombrati in modo che i quadrati ombrati formino la rete di un cubo. In quanti modi diversi si può fare questo?
+>
+> - **(A)** $10$
+> - **(B)** $8$
+> - **(C)** $7$
+> - **(D)** $6$
+> - **(E)** $4$
+
+![[src_smc_2015__Q08.png]]
+
+**Risposta:** D
+[[src_smc_2015__Q08]]

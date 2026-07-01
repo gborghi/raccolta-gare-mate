@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q23
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di f2011(2011) nella successione di funzioni*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of f2011(2011) in the sequence of functions*
+
+> The sequence of numerical functions f1(x), f2(x), ... satisfies the following two conditions: (1) f1(x) = x (2) fn +1(x) = (1 −fn (x))-1 for each positive integer n. What is the value of f2011(2011) ? A) 2011 B) − C) D) 1 E) −2011
+
+**Answer:** A
+[[src_kangourou_2011_student__Q23]]

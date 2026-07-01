@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2004 — Matematica — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2004__Q04
 parent: src_cgen_2004
 competition: Concours Général des Lycées 2004 — Matematica
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Study of condition (C_1): translating it via p=2n-1, q=2k-1 into p^2-q^2=16a^2 and characterizing solutions through sums of two squares*
 
@@ -54,3 +57,21 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Studio della condizione (C_1): la traduzione via p=2n-1, q=2k-1 in p^2-q^2=16a^2 e la caratterizzazione delle soluzioni attraverso somme di due quadrati*
+
+> Studio della condizione < MSK0/>.
+> 
+> Consideriamo due integri $n$ e $k$ come $1 \le k \le n-1$.
+> 
+> 1. Un insieme $p = 2n-1$ e $q = 2k-1$. Mostrare che la coppia $(n,k)$ verifica la condizione $(C_1)$ se, e solo se, $(p,q)$ sono un paio di integri naturali dispari come $q < p$, verificando la seguente condizione $(C_2)$: $(C_2)$: esiste $a \in \mathbb{N}$ come $p^2 - q^2 = 16a^2$.
+> 
+> 2. Lasciate che $(p,q)$ siano un paio di integri naturali, in modo che esistano integri $u > 0$ e $v > 0$, di parità diverse, per cui $p = u^2 + v^2$ e $q = u^2 - v^2$. Mostrare che $(p,q)$ è un paio di integri naturali dispari come $q < p$ verificando la condizione $(C_2)$.
+> 
+> 3. Consideriamo un paio di $(p,q)$ di integri naturali dispari, coprimo, come $q < p$ e verificando la condizione $(C_2)$. Mostrare che esistono due integri naturali $u$ e $v$ di parità diverse come $p = u^2 + v^2$ e $q = u^2 - v^2$. Calcolare quindi, come funzione di $u$ e $v$, il valore dell'intero numero $a$ che interviene nella condizione $(C_2)$.
+
+[[src_cgen_2004__Q04]]

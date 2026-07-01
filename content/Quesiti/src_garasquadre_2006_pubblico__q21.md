@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q21
 parent: src_garasquadre_2006_pubblico
 competition: VII Gara Nazionale a Squadre 2006 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma razionali positivi forma a/30 minori di 10*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0400
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Positive rational sums form a/30 less than 10< MSK1/>
+
+> Ambitious students [20] Higher Mathematics School students are assigned to their home country according to their mathematical attitudes. This year, in order to enter the House of Rapporteur, it was necessary to find the sum of all the positive rations which, reduced to the minimum terms, have the form of 30, and which are less than 10. What was the response of the student body?
+
+**Answer:** 0400
+[[src_garasquadre_2006_pubblico__Q21]]

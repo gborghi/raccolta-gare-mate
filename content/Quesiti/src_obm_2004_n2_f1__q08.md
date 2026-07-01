@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q08
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of a rectangle with perimeter 100 and diagonal x*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di un rettangolo con perimetro 100 e diagonale x*
+
+> Il perimetro di un rettangolo è di 100 e le sue misure diagonali sono $x$. Qual è l'area del rettangolo?
+> 
+> **A)** $625 - x^2$ $\quad$ **B)** $625 - \dfrac{x^2}{2}$ $\quad$ **C)** $1250 - \dfrac{x^2}{2}$ $\quad$ **D)** $250 - \dfrac{x^2}{2}$ $\quad$ **E)** $2500 - \dfrac{x^2}{2}$
+
+**Risposta:** B
+[[src_obm_2004_n2_f1__Q08]]

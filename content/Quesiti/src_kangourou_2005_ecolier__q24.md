@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Ecolier (marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_ecolier__Q24
 parent: src_kangourou_2005_ecolier
 competition: Kangourou 2005 - Ecolier (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima somma di 100 interi con prodotto 100*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of 100 whole with product 100*
+
+> The product of 100 integers greater than zero is equal to 100. What is the minimum value that the sum of these numbers can have? A) 100 B) 110 C) 118 D) 127 E) 199 5 1 4 3 2 1 2 3 4 5 Ecolier_05_D.qxp 21/02/2005 15.54 Page 9
+
+**Answer:** B
+[[src_kangourou_2005_ecolier__Q24]]

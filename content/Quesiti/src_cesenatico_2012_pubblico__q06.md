@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_pubblico__Q06
 parent: src_cesenatico_2012_pubblico
 competition: Gara a Squadre Cesenatico 2012 - Gara del pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza minima su superficie 12 piramidi*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 9472
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum distance on the surface of 12 pyramids*
+
+> It's written as predicted in the terrible book Necronomicon by the mad Arab Abdul Alhazred, when for man the Last Day will come, he will rise from the bottom Bernardus, monster with n heads and m tails (both positive integers) such that 1 95 + 1 n = 1 m. What's the minimum number of heads Bernardus can have?
+
+**Answer:** 9472
+[[src_cesenatico_2012_pubblico__Q06]]

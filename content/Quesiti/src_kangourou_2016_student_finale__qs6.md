@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (finale Cervia) — Quesito S6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_finale__QS6
 parent: src_kangourou_2016_student_finale
 competition: Kangourou 2016 Student (finale Cervia)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazioni su piastrellamenti del piano (convesse)*
 
@@ -52,3 +55,26 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 1a falsa, 1b vera, 2 falsa
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aUKk1biwLcg0St2UFy-7j4t3JVsISp8p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Statements on plan tiles (conveyance) *
+
+![[src_kangourou_2016_student_finale__probS6.png]]
+
+> For ** plane tiles ** we mean a family of convex figures (possibly different from each other in shape and size), each comprising its own edge, contained in some circle and containing some circle, such that each point of the plane belongs to some figure, but different figures have in common only points of their edges at most. The figures are called **tiles**.
+> 
+> 1) A polygonal tiles of the plane (i.e. each tiles is a polygon) are assigned. Proves or refutes each of the following statements.
+> 
+> (a) If each circle with a centre at a point $P$ intersects infinite tiles, then $P$ belongs to infinite tiles.
+> 
+> (b) If each tile contains a circle of radius $1$ and a positive number $M$ exists such that each tile is contained in a circle of radius $M$, then each point belongs to a finite number of tiles.
+> 
+> 2) A generic plan tiles are now assigned. Demonstrate or refute the following statement: if each circle centered at a point $P$ intersects infinite tiles, there exists a straight $r$ passing through $P$ such that each segment of $r$ containing $P$ within it intersects infinite tiles.
+> 
+> *N.B. To provide some answers, you can simply trace sufficiently explanatory figures.*
+
+**Answer:** 1a falsa, 1b vera, 2 falsa
+[[src_kangourou_2016_student_finale__QS6]]

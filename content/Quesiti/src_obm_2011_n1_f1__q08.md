@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q08
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of rectangle divided into 10 squares with smallest integer sides*
 
@@ -54,3 +57,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di rettangolo divisa in 10 quadrati con i lati più piccoli dei numeri interi*
+
+> Il rettangolo nella figura di seguito è diviso in 10 quadrati. Le misure dei lati di tutti i quadrati sono numeri interi positivi e sono i valori più piccoli possibili. L'area di questo rettangolo è:
+> 
+> (A) 180 \quad (B) 240 \quad (C) 300 \quad (D) 360 \quad (E) 450
+
+![[src_obm_2011_n1_f1__Q08.png]]
+
+**Risposta:** C
+[[src_obm_2011_n1_f1__Q08]]

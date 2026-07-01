@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q02
 parent: src_archimede_2025_squadre_finale
 competition: Gara a Squadre Nazionale 2025 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo spigoli percorso euleriano su icosaedro*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0025
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum eulerian path widths on icosahedron< MSK1/>
+
+> Russian mountains φ-neas: Hey Ferbmat, I know what we're going to do today: we're going to build Russian mountains! (Ferbmat approves silently). φ-neas: The tracks are placed on the stalks of an icosahedron. The car will start from a summit and must follow a route that never crosses the same ridge twice, reaching a summit that is not necessarily the one from which it started. How many people, at most, can you get through the car?
+
+**Answer:** 0025
+[[src_archimede_2025_squadre_finale__Q02]]

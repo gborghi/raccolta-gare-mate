@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f2__Q01
 parent: src_obm_2013_n1_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Six-number sequence with equal consecutive-triple sums; find product of two blanked numbers*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 35
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Secenza di sei numeri con pari triplice consecutive; trovare il prodotto di due numeri privi di contenuto *
+
+> Raquel stava completando un puzzle che consisteva nel scrivere sei numeri in fila, uno per scatola, in modo che la somma di tutti e tre numeri consecutivi fosse sempre la stessa. Dopo aver completato la sequenza scrivendo i sei numeri, ha versato inchiostro sulla rivista, cancellando quattro numeri, come mostrato nella figura. Ricorda che uno dei due numeri che aveva scritto (cioè uno dei due numeri visibili) era un sette. Qual è il prodotto dei due numeri che ha scritto?
+> 
+> (La figura mostra le sei caselle con la prima casella contenente $1$ e l'ultima casella contenente $5$ visibili; le quattro caselle medie sono cancellate. Uno dei due valori non cancellati scritti da Raquel era $7$.)
+
+![[src_obm_2013_n1_f2__Q01.png]]
+
+**Risposta:** 35
+[[src_obm_2013_n1_f2__Q01]]

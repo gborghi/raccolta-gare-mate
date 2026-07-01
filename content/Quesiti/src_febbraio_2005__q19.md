@@ -1,6 +1,7 @@
 ---
 title: Coppa/Gara di febbraio 2005 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_febbraio_2005__Q19
 parent: src_febbraio_2005
 competition: Coppa/Gara di febbraio 2005
@@ -21,6 +22,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quesito febbraio 2005 n.19*
 
@@ -29,3 +32,13 @@ tags:
 **Topic:** [[topic_algebra|Algebra]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Question No 19 of the Committee on Budgets
+
+> [problem not present in the document]
+
+[[src_febbraio_2005__Q19]]

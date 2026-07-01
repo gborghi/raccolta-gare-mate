@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q11
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tea cups: ways to select 2 without handle and 3 with handle equals 1200, max total cups*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 29
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tazze da tè: modi per selezionare 2 senza maniglia e 3 con maniglia = 1200, massimo totale tazze*
+
+> Ci sono diverse tazze di tè in cucina, alcune con maniglie e le altre senza maniglie. Il numero di modi per scegliere due tazze senza manipo e tre con manipo è esattamente 1200. Qual è il numero massimo possibile di tazze in cucina?
+
+**Risposta:** 29
+[[src_prmo_2018__Q11]]

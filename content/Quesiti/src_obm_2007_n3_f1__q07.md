@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f1__Q07
 parent: src_obm_2007_n3_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence 27,207,2007,...; which listed integer is a multiple of 81*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza 27,207,2007,...; il cui numero intero elencato è un multiple di 81*
+
+> Considera la seguente sequenza: $$27=3\times3\times3,\quad 207=3\times3\times23,\quad 2007=3\times3\times223,\quad 20007=3\times3\times2223,\ \ldots$$ Quale dei seguenti numeri interi è un multiple di $81$?
+> 
+> (A) $200.007$ \quad (B) $20.000.007$ \quad (C) $2.000.000.007$ \quad (D) $200.000.000.007$ \quad (E) $20.000.000.000.007$
+
+**Risposta:** E
+[[src_obm_2007_n3_f1__Q07]]

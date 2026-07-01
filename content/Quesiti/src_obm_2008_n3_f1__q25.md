@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q25
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five positive integers >1 with cyclic product conditions; find a+b+c+d+e*
 
@@ -53,3 +56,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cinque integri positivi >1 con condizioni di prodotto cicliche; trovare a+b+c+d+e*
+
+> Cinque integri positivi $a, b, c, d, e$, tutti più grandi di uno, soddisfano le seguenti condizioni: $$a(b + c + d + e) = 128$$ $$b(a + c + d + e) = 155$$ $$c(a + b + d + e) = 203$$ $$d(a + b + c + e) = 243$$ $$e(a + b + c + d) = 275$$ Qual è il valore di $a + b + c + d + e$?
+> 
+> (A) $9$ (B) $16$ (C) $25$ (D) $36$ (E) $49$
+
+[[src_obm_2008_n3_f1__Q25]]

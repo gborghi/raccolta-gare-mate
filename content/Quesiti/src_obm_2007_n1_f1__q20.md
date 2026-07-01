@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f1__Q20
 parent: src_obm_2007_n1_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Units digit of 13^1+13^2+...+13^2007*
 
@@ -47,3 +50,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Unità di 13^1+13^2+...+13^2007*
+
+> Quando si esegue la somma $13^1 + 13^2 + 13^3 + \cdots + 13^{2006} + 13^{2007}$ si ottiene un numero intero. Qual è la cifra di unità di questo numero?
+> 
+> (A) 1 \quad (B) 3 \quad (C) 5 \quad (D) 7 \quad (E) 9
+
+[[src_obm_2007_n1_f1__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2025 — Selection Camp — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2025__Q12
 parent: src_selection_camp_2025
 competition: Japan IMO Selection Camp 2025 — Selection Camp
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence with max-min spread 1 over any p+1 and any q+1 consecutive terms*
 
@@ -46,3 +49,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_hAtW-_q2-uMzqzRMHgBP6hcqovxL3Oj/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza con uno spread massimo di 1 su qualsiasi p+1 e qualsiasi termine consecutivo q+1*
+
+> $p$ e $q$ siano numeri interi positivi reciprocamente coprimi. Determinare tutte le sequenze di interi positivi $a_1, a_2, \ldots$ che soddisfano entrambe le seguenti condizioni: (i) per ogni intero positivo $n$, la differenza tra il più grande e il più piccolo di $a_n, a_{n+1}, \ldots, a_{n+p}$ è uguale a $1$; (ii) per ogni intero positivo $n$, la differenza tra il più grande e il più piccolo di $a_n, a_{n+1}, \ldots, a_{n+q}$ è uguale a $1$.
+
+[[src_selection_camp_2025__Q12]]

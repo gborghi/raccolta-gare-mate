@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2013 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2013__Q04
 parent: src_cn_csmo_2013
 competition: China Southeastern Mathematical Olympiad 2013
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Counting distinct 'towers' formed by 12 acrobats in two circles with a label-sum condition.*
 
@@ -49,3 +52,16 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contando le "torre" distinte formate da 12 acrobati in due cerchi con condizione di etichetta-somma.*
+
+> Supponiamo che 12 acrobati etichettati $1$-$12$ siano divisi in due cerchi $A$ e $B$, con sei persone in ciascuno. Ogni acrobata di $B$ deve stare sulle spalle di due acrobati adiacenti di $A$. Lo chiamiamo una torre se l'etichetta di ogni acrobata di $B$ è uguale alla somma delle etichette degli acrobati sotto i suoi piedi. Quante torri possono costruire? (Ricorda. Trattiamo due torri come uguali se una può essere ottenuta per rotazione o riflessione dell'altra.)
+
+![[src_cn_csmo_b11_w309__Q04.png]]
+
+**Risposta:** 6
+[[src_cn_csmo_2013__Q04]]

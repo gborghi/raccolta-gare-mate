@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2025 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo35hq_honsen__Q01
 parent: src_jmo35hq_honsen
 competition: Japan Mathematical Olympiad 2025 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum of cyclic sum of squared differences under gap constraints*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GuPXGAl_7m7YyhnChIywbUec7G9_S963/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum della somma ciclica delle differenze quadrate sotto vincoli di distanza*
+
+> $n \ge 2$ sia un numero intero. I numeri reali $a_1, a_2, \ldots, a_{2n}$ soddisfano $$|a_k - a_{n+k}| \ge 1$$ per ogni numero intero $k$ con $1 \le k \le n$. Trova il valore minimo di $$(a_1 - a_2)^2 + (a_2 - a_3)^2 + \cdots + (a_{2n-1} - a_{2n})^2 + (a_{2n} - a_1)^2.$$
+
+[[src_jmo35hq_honsen__Q01]]

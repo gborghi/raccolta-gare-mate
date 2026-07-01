@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1984-85 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1984-85_round1__Q04
 parent: src_bmo_1984-85_round1
 competition: British Mathematical Olympiad 1984-85 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Recurrence sequence: prove f_k f_{k+1} equals some term*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16JkUXMpEmQ452VMl-fxUVTQMfa5XTcqR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di ricorrenza: dimostra che f_k f_{k+1} è uguale a qualche termine*
+
+> La sequenza $f_n$ è definita da $f_0 = 1$, $f_1 = c$, dove $c$ è un numero intero positivo, e per tutti $n > 1$, $$f_n = 2f_{n-1} - f_{n-2} + 2.$$ dimostra che per ogni $k \ge 0$ esiste $h$ tale che $f_k f_{k+1} = f_h$.
+
+[[src_bmo_1984-85_round1__Q04]]

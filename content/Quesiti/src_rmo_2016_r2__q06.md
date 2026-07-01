@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2016 — Region 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2016_r2__Q06
 parent: src_rmo_2016_r2
 competition: Regional Mathematical Olympiad 2016
@@ -35,6 +36,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *AP {1,4,7,...} has infinitely many 3-term HP subsequences with ratio condition*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cLh55MQ0c8qEjsnuwrJEj-kLk6kRe8sD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*AP {1,4,7,...} ha infinite subsequenze HP a 3 termini con condizione di rapporto*
+
+> Mostrare che la progressione aritmetica infinita $\{1, 4, 7, 10, \ldots\}$ ha infinite successioni a 3 termini nella progressione armonica in modo tale che per due triples $(a_1, a_2, a_3)$ e $(b_1, b_2, b_3)$ in progressione armonica, uno ha $$\frac{a_1}{b_1} = \frac{a_2}{b_2}.$$
+
+[[src_rmo_2016_r2__Q06]]

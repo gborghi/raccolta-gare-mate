@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f2__Q08
 parent: src_obm_2005_n3_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ordered sequences of Flamengo results with 20 points, no defeat*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Sequenze ordinate di Flamengo con 20 punti, nessuna sconfitta
+
+> In un campionato di calcio, ogni vittoria vale tre punti, ogni pareggio vale un punto e ogni sconfitta vale zero punti. È noto che il Flamengo non ha subito alcuna sconfitta e ha finito con $20$ punti, ma il numero di partite giocate è sconosciuto. Rappresentando una vittoria da $V$, un pareggio da $E$ e una sconfitta da $D$, due possibilità sono $(V,\,E,\,V,\,E,\,V)$ e $(E,\,V,\,V,\,V,\,E,\,V)$. Quante sequenze ordinate di risultati ha ottenuto Flamengo?
+
+[[src_obm_2005_n3_f2__Q08]]

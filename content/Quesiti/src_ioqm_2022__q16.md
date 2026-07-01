@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q16
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Reals a,b,c satisfying three equations, abc takes two rational values, find r+s+t+u*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 18
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Reals a,b,c soddisfa tre equazioni, abc prende due valori razionali, trova r+s+t+u*
+
+> Lasciate che $a, b, c$ siano reali che soddisfino $$3ab + 2 = 6b, \quad 3bc + 2 = 5c, \quad 3ca + 2 = 4a.$$ Lasciate che $\mathbb{Q}$ denotino l'insieme di tutti i numeri razionali. Poiché il prodotto $abc$ può assumere due valori $\frac{r}{s} \in \mathbb{Q}$ e $\frac{t}{u} \in \mathbb{Q}$, nella forma più bassa, trova $r + s + t + u$.
+
+**Risposta:** 18
+[[src_ioqm_2022__Q16]]

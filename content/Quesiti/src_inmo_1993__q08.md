@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1993 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1993__Q08
 parent: src_inmo_1993
 competition: Indian National Mathematical Olympiad 1993
@@ -32,6 +33,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bijection from {1,...,n} to itself iterated M times equals identity*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YUUjSkPwVGDNNzFb4tb7lnpGfqMd6wTC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Bijezione da {1,...,n} a se stessa iterata M volte è uguale all'identità*
+
+> Lasciate che $f$ sia una funzione bijectiva da $A = \{1, 2, \ldots, n\}$ a se stessa. Prove che esiste un intero positivo $M$ tale che $f^M(i) = i$ per ogni $i \in A$, dove $f^M = f \circ f \circ \cdots \circ f$ ($M$ volte).
+
+[[src_inmo_1993__Q08]]

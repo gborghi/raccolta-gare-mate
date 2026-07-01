@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q06
 parent: src_kangourou_2017_cadet_semifinale
 competition: Kangourou 2017 Cadet (semifinale individuale)
@@ -29,6 +30,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del cortile ottagonale di triangoli equi/isosceli*
 
@@ -78,3 +81,49 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the octagonal court of equilateral triangles*
+
+![[src_kangourou_2017_cadet_semifinale__prob6.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=2]
+  \coordinate (V1) at (0.000, 1.000);
+  \coordinate (V2) at (0.707, 0.707);
+  \coordinate (V3) at (1.000, 0.000);
+  \coordinate (V4) at (0.707, -0.707);
+  \coordinate (V5) at (0.000, -1.000);
+  \coordinate (V6) at (-0.707, -0.707);
+  \coordinate (V7) at (-1.000, 0.000);
+  \coordinate (V8) at (-0.707, 0.707);
+  \coordinate (O) at (0, 0);
+  \draw (V1) -- (V2) -- (V3) -- (V4) -- (V5) -- (V6) -- (V7) -- (V8) -- cycle;
+  \draw[dashed] (O) -- (V1);
+  \draw[dashed] (O) -- (V2);
+  \draw[dashed] (O) -- (V3);
+  \draw[dashed] (O) -- (V4);
+  \draw[dashed] (O) -- (V5);
+  \draw[dashed] (O) -- (V6);
+  \draw[dashed] (O) -- (V7);
+  \draw[dashed] (O) -- (V8);
+  \node[right] at (0.4, 0.2) {10 m};
+  \fill (O) circle (0.02);
+\end{tikzpicture}
+\end{document}
+```
+
+> The school's courtyard is octagonal: it consists of 4 equilateral triangles and 4 non-equilateral isosceles, as shown in the figure. The distance from the centre of each of the peaks is 10 meters. What is the yard area in square metres?
+>
+> - **(A)** 100 (√2 + 1)
+> - **(B)** 125 (√3 + 1)
+> - **(C)** 100 (√3 + 1)
+> - **(D)** 125 (√2 + √3)
+> - **(E)** 100 (√2 + √3)
+
+**Answer:** C
+[[src_kangourou_2017_cadet_semifinale__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo28yq_yosen__Q11
 parent: src_jmo28yq_yosen
 competition: Japan Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integers equal to sum of base-7 single-digit-deletions*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 42
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio di enti interi pari alla somma delle delezioni a 7 cifre di base*
+
+> Quanti integri positivi $n$ soddisfano la seguente condizione? Condizione: Scrivere $n$ in base $7$ (con cifre di primo piano non zero) e lasciare $k$ essere il suo numero di cifre; richiedere $k \ge 2$. Dopo aver scritto $n$ nella base $7$, per ogni $i = 1, 2, \ldots, k-1$ togliere la $i$-esima cifra da destra (in basso), ottenendo un $(k-1)$-digito base-$7$ intero $n_i$. Poi < MSK0/>
+
+**Risposta:** 42
+[[src_jmo28yq_yosen__Q11]]

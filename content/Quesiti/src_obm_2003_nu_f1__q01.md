@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1 —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_nu_f1__Q01
 parent: src_obm_2003_nu_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Volume of convex polyhedron with integer vertices on sphere radius sqrt(2)*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkHYs-oRGCC1ZYJ_cT5E1wAW1AqoZ7ND/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Volume di poliedro converso con vertici interi sul raggio di sfera sqrt(2) *
+
+> Il $X \subseteq \mathbb{R}^3$ deve essere il poliedro convexo le cui vertici sono tutti i punti $(x, y, z) \in \mathbb{Z}^3$ con $x^2 + y^2 + z^2 = 2$. Calcolare il volume di $X$.
+
+![[src_obm_2003_nu_f1__Q01.png]]
+
+[[src_obm_2003_nu_f1__Q01]]

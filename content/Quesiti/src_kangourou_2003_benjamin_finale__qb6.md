@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin_finale__QB6
 parent: src_kangourou_2003_benjamin_finale
 competition: Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Insieme di 200 interi senza un numero e il doppio*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** costruzione
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijL_j1ayb9z-cN_tMBQcCh2XLu4_Wkxh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A combination of 200 integers without a number and the double *
+
+> Indicate how a set of $200$ integers between $1$ and $300$ (extremes included) can be identified so that the following clause is respected: if a number is present in the set, then its double is not present.
+
+**Answer:** costruzione
+[[src_kangourou_2003_benjamin_finale__QB6]]

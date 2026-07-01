@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale Ecolier — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier_finale__Q03
 parent: src_kangourou_2014_ecolier_finale
 competition: Kangourou 2014 finale Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Turni minimi perché ogni ragazzo balli con ogni ragazza*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eeR5ULKkoZEBoRxzdiK9J7w9p-cjXAx-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum shifts for every boy to dance with every girl
+
+> AT BU CV DZ
+
+**Answer:** 6
+[[src_kangourou_2014_ecolier_finale__Q03]]

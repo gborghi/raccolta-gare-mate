@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q03
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma N con sequenza tale che N^a0=somma di N^ai*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3034
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sum of N with such sequence that N^a0=sum of N^ai< MSK1/>
+
+> Beuler gives the numbers [⋆] The Beuler robot went into tilt because of a magnet, and it literally started to give the numbers! The Professor. Fredholm observes that the numbers listed by Beuler are all and only positive integers N for which there is a sequence of nonnegative integers a0,a1,...,a2019 such that Na0 = Na1 +Na2 +··+Na2019 What is the sum of all numbers listed by Beuler?
+
+**Answer:** 3034
+[[src_squadre_2018_finale__Q03]]

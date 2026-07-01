@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2021-22 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2021-22_round2__Q03
 parent: src_bmo_2021-22_round2
 competition: British Mathematical Olympiad 2021-22 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show boxes can be split into two non-empty regular piles*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16y4Ne9fLIQNcbli54a5IbNlDbIPQeawo/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le caselle di visualizzazione possono essere suddivise in due pile regolari non vuote*
+
+> Le carte provenienti da mazzi di carte identiche $s$ vengono messe in scatole. Ogni mazzo contiene 50 schede, etichettate da $1$ a $50$. Ogni scatola può contenere al massimo carte $2022$. Una pila di scatole è chiamata *regular* se quella pila contiene uguali numeri di carte con ogni etichetta. Mostrare che esiste un certo $N$ in modo che se $n \ge N$, le scatole possano essere suddivise in due pile regolari non vuote.
+
+[[src_bmo_2021-22_round2__Q03]]

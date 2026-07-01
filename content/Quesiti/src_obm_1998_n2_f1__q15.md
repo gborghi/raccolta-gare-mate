@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f1__Q15
 parent: src_obm_1998_n2_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count boxes used given two types with fixed quantities*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadro di conteggio utilizzato per due tipi con quantità fisse*
+
+> Un produttore di giocattoli imballa le palle di ping-pong in due tipi di scatole: una ha 10 palle e l'altra 24 palle. Un certo giorno ha messo 198 palle con non più di 10 scatole. Quante scatole sono state usate quel giorno?
+> 
+> A) 14 B) 16 C) 15 D) 17 E) 11
+
+**Risposta:** D
+[[src_obm_1998_n2_f1__Q15]]

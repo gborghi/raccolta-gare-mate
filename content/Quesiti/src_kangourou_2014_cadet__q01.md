@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q01
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultima data di marzo per il terzo giovedì*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last date of March for the third Thursday*
+
+> The Kangourou Mathematics Competition takes place every year on the third Thursday of March. Over the years, what is the last date in March when a mathematics competition can fall? A) 14
+> 	
+> B) 15
+> 	
+> C) 20
+> 	
+> D) 21
+> 	
+> E) 22
+
+**Answer:** D
+[[src_kangourou_2014_cadet__Q01]]

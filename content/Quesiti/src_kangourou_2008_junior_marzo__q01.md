@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q01
 parent: src_kangourou_2008_junior_marzo
 competition: Kangourou 2008 - Junior (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale vocale resta nel riquadro 2*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which vowel remains in box 2*
+
+![[src_kangourou_2008_junior_marzo__prob1.png]]
+
+> There are 5 frames (numbered 1 to 5), each containing some vowels as shown in the figure. By appropriately removing some vowels from some frames, it is possible to make sure that each frame contains only one voice, and that different frames contain different vowels. What's the vocal left in box number two? A) A B) E C) I D) O E) U
+
+**Answer:** D
+[[src_kangourou_2008_junior_marzo__Q01]]

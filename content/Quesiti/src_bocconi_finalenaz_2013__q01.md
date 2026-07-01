@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2013 — Quesito
   1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2013__Q01
 parent: src_bocconi_finalenaz_2013
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2013
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Disporre numeri 2,3,4,6 in caselle consecutive*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1-2-4-3-6-5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*To have numbers 2,3,4,6 in consecutive boxes*
+
+> Put the numbers 2, 3, 4, 6 in the four empty boxes of the strip. Note: Two consecutive numbers (including 1 and 5) in two adjacent boxes must be consecutive numbers (e.g. 4 and 3 or 5 and 6) or one must be twice the other.
+> 
+> What is the result (taking into account the conditions)?
+
+![[src_bocconi_finalenaz_2013__Q01.png]]
+
+**Answer:** 1-2-4-3-6-5
+[[src_bocconi_finalenaz_2013__Q01]]

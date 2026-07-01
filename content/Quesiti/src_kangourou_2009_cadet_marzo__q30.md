@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q30
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza BC-AB (bisettrice lunga 2)*
 
@@ -53,3 +56,17 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Differential BC-AB (long biset 2) < MSK1/>
+
+> In an ABC triangle the angle in B measures 20 degrees and the angle in C measures 40 degrees. The length of the beam of the angle in A is 2. What is the difference between the length of BC and the length of AB? A) 4 B) 2 C) 1,5 D) 1 E) A different value Tests_09.qxp 15-04-2009 20:26
+> 
+>  
+> 1 2009 Cadet Category For third-year students of primary secondary school or first-year students of secondary school
+
+**Answer:** B
+[[src_kangourou_2009_cadet_marzo__Q30]]

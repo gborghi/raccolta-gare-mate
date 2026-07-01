@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale B — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_b__Q06
 parent: src_gas_2009_semifinale_b
 competition: Gara a Squadre 2009 - Semifinale B
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime 4 cifre numeratore frazione minima con ab=28!*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2401
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last four digits minimum fraction numbering with ab=28!*
+
+> A calculated risk Morry bets with Polino that the latter will fail to find the last 4 digits of the numerator of the smallest rational number of the form a/b (reduced to minimum terms) with ab = 28! And so b is not a multiple of 35. What number will Polino have to guess to win the bet?
+
+**Answer:** 2401
+[[src_gas_2009_semifinale_b__Q06]]

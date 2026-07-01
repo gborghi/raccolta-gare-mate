@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f3__Q04
 parent: src_obm_2008_n3_f3
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral: OP perpendicular to CD via angle bisector reflections*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Xdlk10kOctV84Jj1WlZYi4mgeMhHN8nP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterale ciclico: OP perpendicolare al CD attraverso riflessi di angolo bisector*
+
+> Che $ABCD$ sia un quadrilaterale ciclico, e che $r$ e $s$ siano i riflessi della linea $AB$ attraverso i bisettori interni degli angoli $\angle CAD$ e $\angle CBD$, rispettivamente. Il $P$ è l'intersezione di $r$ e $s$, e il $O$ è il circoncentro di $ABCD$. Provare che $OP$ è perpendicolare a $CD$.
+
+[[src_obm_2008_n3_f3__Q04]]

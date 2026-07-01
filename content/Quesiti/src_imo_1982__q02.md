@@ -1,6 +1,7 @@
 ---
 title: IMO 1982 (23rd International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1982__Q02
 parent: src_imo_1982
 competition: IMO 1982 (23rd International Mathematical Olympiad)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prove three lines through midpoints and reflected touch-points concurrent*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Prove three lines through midpoints and reflected touch-points concurrent
+
+> A non-isosceles triangle $A_1A_2A_3$ with sides $a_1, a_2, a_3$ (where $a_i$ is the opposite side to $A_i$) is given. For each $i = 1, 2, 3$, $M_i$ is the middle point of the $a_i$ side and $T_i$ is the point where the inscribed circle touches the $a_i$ side. The reflection of $T_i$ with respect to the inner beam of the angle $A_i$ shall be indicated by $S_i$. Demonstrate that the directions $M_1S_1$, $M_2S_2$ and $M_3S_3$ are competitors.
+
+[[src_imo_1982__Q02]]

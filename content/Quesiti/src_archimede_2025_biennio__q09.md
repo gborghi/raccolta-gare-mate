@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Biennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_biennio__Q09
 parent: src_archimede_2025_biennio
 competition: Giochi di Archimede 2025 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo ROT in triangolo isoscele con altezza e bisettrice*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18_HJOvj5XdZGR_vwwSmhkGXfDLuHPlIX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*ROT angle in isosceles triangle with height and width*
+
+> In the isosceles triangle RST, where RS = ST, the angle bS is 24°. The output height from R and the output beam from T intersect at point O. What is the width of the convex angle [ ROT ] ?
+>
+> - **(A)** 129°
+> - **(B)** 126°
+> - **(C)** 125°
+> - **(D)** 128°
+> - **(E)** 127°
+
+**Answer:** A
+[[src_archimede_2025_biennio__Q09]]

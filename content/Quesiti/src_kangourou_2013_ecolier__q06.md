@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q06
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero di amici non divide 36*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What number of friends does not divide 36*
+
+> Daniel split 36 chocolates among his friends. He managed to give each friend the same amount, but this way he didn't even have a chocolate. Which of the following cannot be Daniel's number of friends? A) 2
+>      	
+> B) 3
+>           	
+> C) 4
+>  	
+> D) 5
+>        	
+> E) 6
+
+**Answer:** D
+[[src_kangourou_2013_ecolier__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q13
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di tre cifre con somma dei primi n numeri naturali*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 666
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tri-digit number with sum of the first n natural numbers*
+
+> Find a three-digit number, all equal to each other, which is the sum of the first natural numbers (for a certain $n$).
+
+**Answer:** 666
+[[src_bocconi_squadre_2013__Q13]]

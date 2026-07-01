@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1998 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1998__Q01
 parent: src_inmo_1998
 competition: Indian National Mathematical Olympiad 1998
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Chord, midpoint, tangent circle, and distance relation*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uAxelJ4GAxypZpM2ox-8kZZSTZuFphZT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cordo, punto medio, cerchio tangente e rapporto di distanza*
+
+> Che $AB$ sia un cordone di un cerchio $\mathscr{C}_1$ che non è diametro e $M$ sia il punto medio di $AB$. Il $T$ deve essere un punto sul cerchio $\mathscr{C}_2$ con $OM$ come diametro. La tangente di $\mathscr{C}_2$ a $T$ incontra $\mathscr{C}_1$ a $P$. Indicare che < MSK0/>
+
+[[src_inmo_1998__Q01]]

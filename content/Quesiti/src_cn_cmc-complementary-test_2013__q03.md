@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2013 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2013__Q03
 parent: src_cn_cmc-complementary-test_2013
 competition: China Mathematical Competition (Complementary Test) 2013
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exam scoring rule; maximize sum of highest and lowest total marks*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** $m(n-1)$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Regola per il punteggio degli esami; massimizzazione della somma dei punteggi totali più alti e più bassi*
+
+> (50 punti) Supponiamo che ci siano domande $m$ in un esame frequentato da studenti $n$, in cui $m$, $n \ge 7$ vengono dati numeri naturali. La regola di punteggio per ciascuna domanda è la seguente: se ci sono esattamente $x$ studenti che non rispondono correttamente alla domanda, allora ognuno di loro otterrà $0$ voti, e quelli che rispondono correttamente otterranno $x$ voti. I voti complessivi di uno studente sono la somma dei voti ottenuti dalle domande < MSK7/>. Ora classificare i voti totali degli studenti $n$ come $p_1 \ge p_2 \ge \cdots \ge p_n$. Trova il valore massimo possibile di < MSK10/>.
+
+**Risposta:** $m(n-1)$
+[[src_cn_cmc-complementary-test_2013__Q03]]

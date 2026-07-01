@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 1) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g1__Q04
 parent: src_bocconi_finaleint_2007_g1
 competition: >-
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Collocare le cifre 1-2-3-4-5 nelle caselle di una moltiplicazione esatta*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $13 \times 4 = 52$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Put the digits 1-2-3-4-5 in the boxes of an exact multiplication*
+
+> It helps Barnabe to place the < MSK0/> numbers in boxes (one digit per box) to get an exact multiplication.
+
+![[src_bocconi_finaleint_2007_g1__Q04.png]]
+
+**Answer:** $13 \times 4 = 52$
+[[src_bocconi_finaleint_2007_g1__Q04]]

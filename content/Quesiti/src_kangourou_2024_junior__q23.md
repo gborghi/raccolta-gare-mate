@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q23
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore minimo di S con S tripla della somma cifre di N+1*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum value of S with S three times the sum of the digits of N+1*
+
+> 23. The sum S of the digits of a positive integer N is triple the sum of the digits of the number N + 1. What 's the minimum possible value for S ? A) 9 B) 12 C) 15 D) 18 E) 27
+
+**Answer:** B
+[[src_kangourou_2024_junior__Q23]]

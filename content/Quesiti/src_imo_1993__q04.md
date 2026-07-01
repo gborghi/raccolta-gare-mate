@@ -1,6 +1,7 @@
 ---
 title: IMO 1993 (34th IMO) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1993__Q04
 parent: src_imo_1993
 competition: IMO 1993 (34th IMO)
@@ -28,6 +29,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimum-altitude function triangle inequality for four points*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Go0gpsCj9HK8rw7A_MFaoiSJsC9e1hL9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum-altitude function triangle inequality for four points*
+
+> For three points $P$, $Q$, $R$ in the plane, the minimum length of the three heights of the triangle $\triangle PQR$ shall be $m(PQR)$. (If the points are hilly, we put $m(PQR) = 0$.)
+> 
+> Demonstrate that for $A$, $B$, $C$, $X$ points in the plane: $$m(ABC) \leq m(ABX) + m(AXC) + m(XBC).$$
+
+[[src_imo_1993__Q04]]

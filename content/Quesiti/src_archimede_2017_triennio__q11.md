@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Triennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_triennio__Q11
 parent: src_archimede_2017_triennio
 competition: Giochi di Archimede 2017 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che Silvia vinca dopo 5 a 4-1*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WbKYlCGmnvn3EnNy8PHpDbjgy_2zTYne/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The odds of Silvia winning after 5 to 4-1
+
+> Silvia and Luigi challenge each other by throwing a dice several times. Every time an even number comes out, Silvia makes a point, every time an odd number comes out, she makes a point. The first player to score five points wins the game. After five pitches, Silvia has a 4-1 lead. What are the odds of Silvia winning the game?
+>
+> - **(A)** 4/5
+> - **(B)** 5/6
+> - **(C)** 7/8
+> - **(D)** 3/4
+> - **(E)** 15/16
+
+**Answer:** E
+[[src_archimede_2017_triennio__Q11]]

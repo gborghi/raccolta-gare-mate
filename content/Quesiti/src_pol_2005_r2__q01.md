@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2005 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2005_r2__Q01
 parent: src_pol_2005_r2
 competition: Olimpiade Matematica Polacca 2005 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers n making n^n+1 and (2n)^{2n}+1 both prime.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1TdHFWiGU9cO5g7t9suf-adbCUDeE_k7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli integri positivi n che rendono n^n+1 e (2n)^{2n}+1 entrambi primi.*
+
+> Trova tutti gli integri positivi $n$ per i quali $n^n + 1$ e $(2n)^{2n} + 1$ sono numeri primi.
+
+[[src_pol_2005_r2__Q01]]

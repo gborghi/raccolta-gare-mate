@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2008 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2008__Q01
 parent: src_cn_cwmo_2008
 competition: China Western Mathematical Olympiad 2008
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a product-sum identity for a recursively defined sequence*
 
@@ -44,3 +47,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove l'identità del prodotto-somma di una sequenza definita ricorrentemente*
+
+> Una sequenza di numeri reali $a_1, a_2, \ldots$ è definita da $a_1 \neq 0, 1$, $a_2 = 1 - a_1$, $a_{n+1} = 1 - a_n(a_{n-1} \cdots a_1)$, $n = 1, 2, \ldots$. Prove che per qualsiasi numero intero positivo $n$, $a_1 a_2 \cdots a_n \left(\frac{1}{a_1} + \frac{1}{a_1 a_2} + \cdots + \frac{1}{a_1 a_2 \cdots a_n}\right) = 1.$ (posato da Li Shenghong)
+
+[[src_cn_cwmo_2008__Q01]]

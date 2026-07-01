@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2013 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_classiprime__Q12
 parent: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri buoni di 6 cifre con cifre 1-4 e proprieta di minimo*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Good 6-digit numbers with digits 1-4 and minimum property*
+
+> A positive integer is said to be good if it satisfies both of the following properties: (a) it contains only the digits 1, 2, 3 and 4, each at least once; (b) by permuting its digits one can never get a smaller number. How many are the six-digit numbers? A 10 B 25 C 12 D 6 E 24 F 32
+
+**Answer:** A
+[[src_archimede_2013_classiprime__Q12]]

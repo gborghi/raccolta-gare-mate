@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f1__Q15
 parent: src_obm_2000_n2_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compare a/b and (a+1)/(b+1) given 0 < a/b < 1*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Compari a/b e (a+1)/(b+1) dati 0 < a/b < 1*
+
+> $a$ e $b$ siano numeri reali positivi come $\dfrac{a}{b} < 1$. Allora:
+> 
+> A) $\dfrac{a+1}{b+1}$ = $\dfrac{a}{b}$. B) $\dfrac{a+1}{b+1}$ è uguale a $\dfrac{a}{b} + 1$. C) $\dfrac{a+1}{b+1}$ è inferiore a $\dfrac{a}{b}$. D) $\dfrac{a+1}{b+1}$ è maggiore di $\dfrac{a}{b}$ ma inferiore a $1$. E) < MSK9/> può essere inferiore a < MSK10/>.
+
+**Risposta:** D
+[[src_obm_2000_n2_f1__Q15]]

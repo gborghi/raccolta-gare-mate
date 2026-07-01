@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q21
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conversione doblone-ducato-tallero*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Conversion of double-double-double-double-taller < MSK1/>
+
+> 800 doubles are worth 100 dukes. 100 doubles are equal to 250 tallies. How many duchies have the same value as 100 tallies? A) 2 B) 5 C) 10 D) 25 E) 50
+
+**Answer:** B
+[[src_kangourou_2000_studenti__Q21]]

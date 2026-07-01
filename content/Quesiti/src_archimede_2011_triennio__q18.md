@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Triennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_triennio__Q18
 parent: src_archimede_2011_triennio
 competition: Giochi di Archimede 2011 - Triennio
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di colorare facce e vertici di un dado*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode of colouring the faces and vertices of a dice*
+
+> Gabriella has a large six-sided dice completely white, except for the numbers written on the faces, and she wants to color all the faces and all the vertices of the dice, using red, blue, green, and yellow, so that there are no two adjacent faces (i.e. with one side in common) with the same color and each vertex has a different color from all the faces to which it belongs. How many different ways can you do that?
+>
+> - **(A)** 24
+> - **(B)** 48,
+> - **(C)** 96,
+> - **(D)** 264,
+> - **(E)** 46.
+
+**Answer:** C
+[[src_archimede_2011_triennio__Q18]]

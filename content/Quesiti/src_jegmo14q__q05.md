@@ -1,6 +1,7 @@
 ---
 title: Japan EGMO Selection / Girls MO 2025 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jegmo14q__Q05
 parent: src_jegmo14q
 competition: Japan EGMO Selection / Girls MO 2025
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation involving the floor function*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16-NqAuK58hCzJs_f8zhLcVk4UkEgeo1H/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale che coinvolge la funzione del pavimento*
+
+> Trovare tutte le funzioni $f$ definite sui numeri reali e prendere valori reali in modo tale che per tutti i numeri reali $x, y$, $$f(x)\,f\big(f(x) + y\big) = f(x)^2 + [x][y]$$ sia valido. Qui, per un numero reale $r$, $[r]$ indica il numero intero più grande inferiore o uguale a $r$; ad esempio $[3.14] = 3$, $[5] = 5$, $[-2.71] = -3$.
+
+[[src_jegmo14q__Q05]]

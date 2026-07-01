@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q09
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min cards drawn from 100-999 to guarantee three equal digit sums*
 
@@ -56,3 +59,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Carte min tratte da 100-999 per garantire somme di tre cifre uguali*
+
+> Una scatola contiene 900 carte numerate da 100 a 999. Le carte vengono prese a caso, senza sostituzione, e la somma delle loro cifre viene notata. Qual è il minimo numero di carte da scaricare per garantire che almeno tre di queste somme siano uguali?
+>
+> - **(A)** 51
+> - **(B)** 52
+> - **(C)** 53
+> - **(D)** 54
+> - **(E)** 55
+
+**Risposta:** E
+[[src_obm_2000_n3_f1__Q09]]

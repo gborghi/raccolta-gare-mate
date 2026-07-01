@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale A — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_a__Q09
 parent: src_gas_2010_semifinale_a
 competition: Gara a Squadre 2010 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Velocita nave da calo stimato di 1 minuto ogni 7 miglia*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 3570
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ship's speed of descent estimated at 1 minute every 7 miles*
+
+> The Tom2 pirate's compass, besides always indicating the direction of the treasure, also provides the estimated time of arrival by assuming that the ship travels directly to the destination at a constant speed of 12 knots (a speed knot corresponds to 1 mile per hour). The Dutchman Secante, the vessel on which Tom2 is boarded, is heading straight for the treasure at its maximum speed. Knowing that the compass's estimated time of arrival drops by 1 minute every 7 miles traveled, at how many knots of speed does the ship go? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
+
+**Answer:** 3570
+[[src_gas_2010_semifinale_a__Q09]]

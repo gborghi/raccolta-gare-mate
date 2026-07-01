@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior finale nazionale — Quesito J3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior_finale__QJ3
 parent: src_kangourou_2004_junior_finale
 competition: Kangourou 2004 Junior finale nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cinque numeri dalle somme a due a due*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3,11,14,17,25
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zhN_ZIEqgp2HEtGPhjwQn1kisd4lL2x7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Five numbers from sums of two to two*
+
+> I wrote as many positive integers on five sheets. Adding them to two by two in every possible way, I get the following ten results: $17, 20, 28, 14, 36, 28, 25, 31, 39$ and $42$. What numbers did I write?
+
+**Answer:** 3,11,14,17,25
+[[src_kangourou_2004_junior_finale__QJ3]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2025_femminile__Q12
 parent: src_squadre_2025_femminile
 competition: Gara a Squadre Femminile 2025 - VIII Finale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo mucche al pascolo per sempre, erba che cresce*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 74
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of cows in the pasture forever, grass growing
+
+> Nearby grass (Sandro Campigotto) Phineas proposes to turn the grass behind the house into a pasture. After two quick calculations, Ferb concluded that the present grass, plus the one growing daily, would be enough for 100 cows, who could eat for 40 days before all the grass runs out. Phineas then re-calculates and discovers that 90 cows could graze for 65 days. Assuming that each cow eats at the same constant rate and that the grass grows at the same constant rate, what is the maximum number of cows that could graze forever without ever running out of grass?
+
+**Answer:** 74
+[[src_squadre_2025_femminile__Q12]]

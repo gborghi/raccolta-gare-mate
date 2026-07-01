@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q04
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma interi uguali al quadrato della somma delle proprie cifre*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0082
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total of integers equal to the square of the sum of their digits*
+
+> Some rats have been imprisoned by cannibals in a cage that hangs in the middle of a cage and is tied to a long rope. To escape, they have to swing the rope to the wall of the canyon. Elizabeth calculates that the number of oscillations needed is the sum of the positive integers that are equal to the square of the sum of their digits. How many oscillations will he have to make if his calculations are correct?
+
+**Answer:** 0082
+[[src_gas_2010_finale__Q04]]

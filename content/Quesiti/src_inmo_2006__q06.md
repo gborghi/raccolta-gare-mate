@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2006 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2006__Q06
 parent: src_inmo_2006
 competition: Indian National Mathematical Olympiad 2006
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find integer l with n < l^2 < (1+1/2005)n for n >= 4011^2*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fL6CHwtNRPMnX4gkiManxyf5xqdd58fL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova l'intero numero con n < l^2 < (1+1/2005)n per n >= 4011^2*
+
+> (a) Prova che se $n$ è un intero positivo tale che $n \ge 4011^2$, allora esiste un intero $l$ tale che $$n < l^2 < \left(1 + \frac{1}{2005}\right)n.$$
+> 
+> (b) Trovare il numero intero positivo $M$ più piccolo per il quale ogni volta che un numero intero $n$ è tale che $n \ge M$, esiste un numero intero $l$ tale che $$n < l^2 < \left(1 + \frac{1}{2005}\right)n.$$
+
+[[src_inmo_2006__Q06]]

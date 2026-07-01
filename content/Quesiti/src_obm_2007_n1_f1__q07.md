@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f1__Q07
 parent: src_obm_2007_n1_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fraction a/b between 0 and 1/7 from number line position; find possible a+b*
 
@@ -49,3 +52,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fraczione a/b tra 0 e 1/7 dalla posizione della linea di numero; trovare possibile a+b*
+
+> La frazione $\dfrac{a}{b}$, in cui $a$ e $b$ sono numeri interi positivi, rappresenta un numero tra $0$ e $\dfrac{1}{7}$, nella posizione mostrata nel diagramma accanto. Qual è il valore possibile della somma $a + b$?
+> 
+> (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
+
+![[src_obm_2007_n1_f1__Q07.png]]
+
+[[src_obm_2007_n1_f1__Q07]]

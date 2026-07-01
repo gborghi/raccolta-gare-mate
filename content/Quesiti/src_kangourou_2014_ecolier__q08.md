@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Ecolier — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier__Q08
 parent: src_kangourou_2014_ecolier
 competition: Kangourou 2014 marzo Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale quadrato rende uguali area bianca e nera*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which square equals the black and white area*
+
+> Maria sits at the table with her mother Enrica, her father Roberto and her uncle Carlo, who is Roberto's brother. Who is the youngest of the four? A) Enrica B) Maria C) Carlo D) Roberto E) It is not possible to reply without further information. Questions from n. 9 al n. 16 is worth 4 points each.
+
+[[src_kangourou_2014_ecolier__Q08]]

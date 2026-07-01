@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q15
 parent: src_kangourou_2024_ecolier_semifinale
 competition: Kangourou Semifinale individuale Ecolier 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto di 9 numeri 2 o 3 tra 600 e 1000*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0768
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Product of 9 numbers 2 or 3 between 600 and 1000
+
+> (Points 8) I've multiplied 9 numbers between them: each of them is 2 or 3. The result of this operation is a number between 600 and 1,000: what is this number? The answer is 0768. The solution. You have 29 = 512 < 600, so at least one of the factors must be 3. On the other hand, if at least two factors were 3, the product would be greater than or equal to 9 < MSK0/> 27 > 1000. So 8 factors is 2 and only one is 3, with 768 as the result of the operation.
+
+**Answer:** 0768
+[[src_kangourou_2024_ecolier_semifinale__Q15]]

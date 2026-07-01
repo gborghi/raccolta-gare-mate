@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale B — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_b__Q04
 parent: src_gas_2010_semifinale_b
 competition: Gara a Squadre 2010 - Semifinale B
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Velocita nave da calo stimato di 1 minuto ogni 8 miglia*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2080
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ship's speed of descent estimated at 1 minute every 8 miles*
+
+> 4. The pirate's compass $Tom^{2}$, besides always indicating the direction of the treasure, also provides the estimated time of arrival by assuming that the ship travels directly to the destination at a constant speed of 12 knots (a speed knot corresponds to 1 mile per hour). The Dutchman Secante, the vessel on which he is embarking $Tom^{2}$, is heading straight for the treasure at its maximum speed. Knowing that the compass's estimated time of arrival drops by 1 minute every 8 miles traveled, at how many knots of speed does the ship go? [As a result, the product of the numerator and denominator of the reduced fraction is provided to the minimum terms] Team competition 2010  Semifinal B  Problem tests  1/3
+
+**Answer:** 2080
+[[src_gas_2010_semifinale_b__Q04]]

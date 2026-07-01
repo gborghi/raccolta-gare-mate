@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2018 — Nível 1 — Fase x — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2018_n1_fx__Q05
 parent: src_obm_2018_n1_fx
 competition: Olimpíada Brasileira de Matemática 2018 — Nível 1 — Fase x
@@ -40,6 +41,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n×n×n cube of unit cubes: red spreading daily from vertex; numbering*
 
@@ -59,3 +62,21 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KCJHUo1nCGlEeSCXILo_64DHKdkW717s/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK2/>n < MSK0/>n < MSK1/>n cubo di unità di cubetti: rosso che si diffonde quotidianamente dal vertice; numerazione < MSK3/>
+
+> Un cubo $n \times n \times n$ è formato da cubetti unitari e ha, inizialmente, un cubo unitario rosso ad esattamente uno dei suoi vertici. Ogni giorno a partire dal giorno 2, i cubetti unitari che sono vicini (comparta una faccia) dei cubetti rossi diventano anche rossi e sono numerati con il numero del giorno. Ad esempio, il cubo $2 \times 2 \times 2$: il giorno 1, ha un cubo rosso (numerato 1); il giorno 2, ha quattro cubbi rossi (numerati 1 e tre numerati 2); il giorno 3, ha sette cubbi (uno numerato 1, tre numerati 2, tre numerati 3); il giorno 4, tutti e otto i cubbi sono rossi e numerati. Per rappresentare la numerazione finale possiamo usare le griglie $n$ ciascuna rappresentando uno strato del cubo. Per il cubo $2 \times 2 \times 2$ sopra gli strati sono: $$\begin{array}{|c|c|}\hline 1 & 2 \\ \hline 2 & 3 \\ \hline\end{array} \qquad \begin{array}{|c|c|}\hline 2 & 3 \\ \hline 3 & 4 \\ \hline\end{array}$$
+> 
+> a) Nella figura che segue, abbiamo i quattro strati del cubo $4 \times 4 \times 4$ e i cubi numerati 1 e 2 sono indicati. Copia queste 4 griglie nel tuo libretto di risposte e compila il numero di ciascun cubo unitario.
+> 
+> b) In un cubo $10 \times 10 \times 10$, quanti cubetti unitari del lato 1 sono numerati 7? E quanti sono i 13?
+> 
+> c) In un cubo $n \times n \times n$, quale numero appare più spesso nella numerazione dei cubetti unitari? (La risposta può dipendere da < MSK1/>.)
+
+![[src_obm_2018_n1_fx__Q05.png]]
+
+[[src_obm_2018_n1_fx__Q05]]

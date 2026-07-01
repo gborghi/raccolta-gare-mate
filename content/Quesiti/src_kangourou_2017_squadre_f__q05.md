@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_f__Q05
 parent: src_kangourou_2017_squadre_f
 competition: Kangourou Coppa Squadre 2017 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti tappi blu data probabilita 9/11*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 225
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many blue dots given the probability of 9/11*
+
+> Blue caps In a box, in addition to blue caps, there are 20 red and 30 white. You know the odds of blindly catching a blue cap are 9/11. How many blue caps are in the box?
+
+**Answer:** 225
+[[src_kangourou_2017_squadre_f__Q05]]

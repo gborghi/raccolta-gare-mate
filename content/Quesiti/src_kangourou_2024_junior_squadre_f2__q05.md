@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Junior Finale 2 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_squadre_f2__Q05
 parent: src_kangourou_2024_junior_squadre_f2
 competition: Kangourou Squadre 2024 Junior Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo punteggio sottogriglie 10x10*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3410
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most subgrids score 10x10*
+
+> The grid A competitor has a grid square 10 < MSK0/> 10. It earns two points for each square subgrid (original grid included) it can identify and one point for each non-square rectangular subgrid it can identify. What's the maximum score you can get?
+
+**Answer:** 3410
+[[src_kangourou_2024_junior_squadre_f2__Q05]]

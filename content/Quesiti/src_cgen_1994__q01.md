@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1994 — Matematica — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1994__Q01
 parent: src_cgen_1994
 competition: Concours Général des Lycées 1994 — Matematica
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integers p with 50^p < 7^n < 50^(p+1)*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi p con 50^p < 7^n < 50^(p+1) *
+
+> Per ogni integro naturale $n$, indicare con $I_n$ il numero di integri $p$ tale che $$50^p < 7^n < 50^{p+1}.$$ 1. Mostrare che per ogni numero intero $n$, $I_n$ è uguale a 2 o 3. 2. Mostrare che esistono infinitamente molti enti $n$ per i quali $I_n = 3$, e trovare il più piccolo.
+
+[[src_cgen_1994__Q01]]

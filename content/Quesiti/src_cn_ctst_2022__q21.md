@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2022 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2022__Q21
 parent: src_cn_ctst_2022
 competition: China National Team Selection Test 2022
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation: multisets {f(xf(y)+1),f(yf(x)-1)} equal {xf(f(y))-1,yf(f(x))+1}*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $f(x) = x$ or $f(x) = -x$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale: multiinsiemi {f(xf(y) +1), f(yf(x) -1)} uguale a {xf(f(y))-1,yf(f(x)) +1}*
+
+> Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ in modo tale che per qualsiasi numero reale $x$ e $y$, i seguenti multiset siano identici: $$\{f(xf(y) + 1),\, f(yf(x) - 1)\} = \{xf(f(y)) - 1,\, yf(f(x)) + 1\}.$$ (Nota: due multiset $\{a, b\}$ e $\{c, d\}$ sono identici se e solo se $a = c,\, b = d$, o $a = d,\, b = c$.)
+
+**Risposta:** $f(x) = x$ or $f(x) = -x$
+[[src_cn_ctst_2022__Q21]]

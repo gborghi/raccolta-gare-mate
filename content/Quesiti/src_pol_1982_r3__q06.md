@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1982 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1982_r3__Q06
 parent: src_pol_1982_r3
 competition: Olimpiade Matematica Polacca 1982 — Round 3
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of dihedral angles in an arbitrary tetrahedron exceeds 2pi*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qBPh1W7EiylRWktVfDLoEOsdrnYFDxsy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La somma degli angoli diedrali in un tetraedro arbitrario è superiore a 2pi*
+
+> Prova che la somma degli angoli diedrali in un tetraedro arbitrario è maggiore di $2\pi$.
+
+[[src_pol_1982_r3__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 26
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q26
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of floor(x) for real x satisfying 16+15x+15x^2=floor(x)^3*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Suma del pavimento(x) per x reale soddisfacente 16+15x+15x^2=pavimento(x)^3*
+
+> La somma di $\lfloor x \rfloor$ per tutti i numeri reali $x$ che soddisfano l'equazione $16 + 15x + 15x^2 = \lfloor x \rfloor^3$ è:
+
+[[src_ioqm_2024__Q26]]

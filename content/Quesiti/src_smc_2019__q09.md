@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q09
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square paper folded in half four times then corner removed — which unfolded shape is possible?*
 
@@ -54,3 +57,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Papero quadrato piegato in quattro volte e poi rimosso da angolo  quale forma di ripiegamento è possibile?*
+
+> Un quadrato di carta viene piegato in quattro volte per ottenere un quadrato più piccolo. Poi viene rimosso un angolo come mostrato.
+> 
+> Quale dei seguenti potrebbe essere la carta dopo che si è svolta?
+>
+> - **(A)** A
+> - **(B)** B
+> - **(C)** C
+> - **(D)** D
+> - **(E)** E
+
+![[src_smc_2019__Q09.png]]
+
+**Risposta:** D
+[[src_smc_2019__Q09]]

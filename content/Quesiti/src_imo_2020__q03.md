@@ -1,6 +1,7 @@
 ---
 title: IMO 2020 papers — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2020__Q03
 parent: src_imo_2020
 competition: IMO 2020 papers
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *4n sassi colorati in due mucchi bilanciati*
 
@@ -39,3 +42,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lHIqSWrqlVCOmcFjndDhEYM3gZRYMB5g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*4n coloured rocks in two balanced heaps*
+
+> There are $4n$ rocks of $1, 2, 3, \ldots, 4n$ weight. Each stone is colored in one of $n$ colors and there are four stones of each color. It shows that we can arrange the rocks in two piles so that both of the following conditions are met:
+> 
+> - The total weight of both batteries is the same. - Each pile contains two stones of each color.
+
+[[src_imo_2020__Q03]]

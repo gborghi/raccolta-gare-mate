@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q08
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero tavolate di 5 quadrati con 12 posti a meno di rotazioni*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of 5 square tables with 12 seats without rotation*
+
+> Sargassi Osteria The π-rates of Perla Vera are dining at the Sargassi Osteria; they want to combine 5 square tables (making them match sides) so that they have a single table with 12 seats. (A place corresponds to a free side of a square). How many tables meet the requirements, considering as distinct two tables that are not rotational (but not symmetrical)?
+
+**Answer:** 0016
+[[src_gas_2010_finale__Q08]]

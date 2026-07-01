@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2014__Q11
 parent: src_prmo_2014
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2014
@@ -36,6 +37,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of pairs (x,y) with z=gcd satisfying 2xy + y(z,y) = (x+y)^2*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di coppie (x,y) con z=gcd soddisfacente 2xy + y(z,y) = (x+y) ^2*
+
+> Per i numeri naturali $x$ e $y$, $(x, y)$ indichi il più grande divisore comune di $x$ e $y$. Quante coppie di numeri naturali $x$ e $y$ con $x \le y$ soddisfano l'equazione $xy + y(x, y) = (x + y)^2$?
+
+**Risposta:** 3
+[[src_prmo_2014__Q11]]

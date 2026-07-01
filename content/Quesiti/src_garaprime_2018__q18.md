@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2018 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2018__Q18
 parent: src_garaprime_2018
 competition: Gara Nazionale Classi Prime 2018
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area massima dividendo un quadrato in 6 quadrati*
 
@@ -55,3 +58,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XzoWDlSETOE6ynBaPWQsIvAiUafgaOrc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum area by dividing a square by 6 squares*
+
+![[src_garaprime_2018__prob18.png]]
+
+> A square cardboard area of 36 cm2 is cut into 6 pieces with scissors. We know that each of the six pieces is shaped like a square. What is the maximum area of the piece in cm2? A 16 B 12 C 18 D 31 E is impossible for all 6 pieces to be squares F the information is insufficient because there are more ways to divide the allocated square into 6 squares 1
+> 
+> Solutions Below you will find the solutions in written form. Some of the solutions in the form of videos will later be published on the YouTube channel: problemisolti.it
+
+**Answer:** A
+[[src_garaprime_2018__Q18]]

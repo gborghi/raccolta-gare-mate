@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2016 Finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_f__Q05
 parent: src_kangourou_2016_squadre_f
 competition: Kangourou Coppa Squadre 2016 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre del minimo multiplo di 35 con cifre uguali*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 30
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uih0VpIOW40GBf8mxXkEFst7nixVBxJu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of digits of the minimum multiple of 35 with equal digits*
+
+> For 35 M it is the smallest multiple (positive integer) of 35 whose digits are all equal to each other. What's the sum of the digits of M?
+
+**Answer:** 30
+[[src_kangourou_2016_squadre_f__Q05]]

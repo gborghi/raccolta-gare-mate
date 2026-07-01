@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1972-73 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1972-73_round1__Q02
 parent: src_bmo_1972-73_round1
 competition: British Mathematical Olympiad 1972-73 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *9 points in unit square; triangle of area at most 1/8*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*9 punti in unità quadrata; triangolo di superficie non superiore a 1/8*
+
+> I punti $9$ sono indicati all'interno del quadrato unitario.
+> 
+> Prove che esiste un triangolo di superficie $\le \frac{1}{8}$ la cui verticale sono tre dei punti.
+
+[[src_bmo_1972-73_round1__Q02]]

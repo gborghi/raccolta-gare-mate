@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2003 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo1q__Q04
 parent: src_jjmo1q
 competition: Japan Junior Mathematical Olympiad 2003
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count closed walks on regular tetrahedron returning to start after visiting all vertices*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le camminate chiuse sul tetraedro regolare che ritornano all'inizio dopo aver visitato tutti i vertici*
+
+> In un tetraedro regolare $ABCD$, partendo dal vertice $A$, attraversiamo i bordi uno alla volta, ogni volta che ci muoviamo verso uno degli altri tre vertici. Vogliamo tornare a $A$ dopo aver visitato le tre vertici rimanenti $B$, $C$, $D$ ciascuna esattamente una volta (per cui il percorso ha esattamente $4$ movimenti). Quanti sono questi sentieri?
+
+![[src_jjmo1q__Q04.png]]
+
+[[src_jjmo1q__Q04]]

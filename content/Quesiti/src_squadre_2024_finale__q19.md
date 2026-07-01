@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Finale Nazionale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_finale__Q19
 parent: src_squadre_2024_finale
 competition: Gara a Squadre 2024 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area proiezione intersezione di due coni*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0062
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Intersection of two cones projection area*
+
+> Captain Barba Alberta explains to his crew that to dominate the seven unchallenged seas they must open a portal to the past. The passage from the present to the past is a cone with a base radius of 10 m that descends into the abyss; the passage from the past to the present is an identical but reversed cone such that its axis is parallel to that of the first, whose top is at the base of the first cone at a distance of 6 m from the center of the base. Given the intersection of the two cones and its projection on the plane containing the base of the first, the portal is activated only by finding the area of the plane region contained in the curve obtained by the projection. Which number will activate the portal?
+
+**Answer:** 0062
+[[src_squadre_2024_finale__Q19]]

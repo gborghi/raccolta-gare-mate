@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo23yqa_yosen__Q05
 parent: src_jjmo23yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary)
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count non-empty boxes remaining after 50^25 split operations starting from one box*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $10 \cdot 50^{12} - 1$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le caselle non vuote rimanenti dopo operazioni di divisione 50^25 a partire da una casella*
+
+> C'è una scatola contenente pietre < MSK0/>. Si ripete la seguente operazione: scegliere una scatola non vuota, rimuovere le sue pietre una per una, inserendo ciascuna pietra in una scatola (vuota) appena creata; quindi scartare la scatola originale (ora vuota). Dopo aver eseguito l'operazione $50^{25}$ in totale, quante scatole non vuote rimangono?
+
+**Risposta:** 10 \cdot 50^{12} - 1
+[[src_jjmo23yqa_yosen__Q05]]

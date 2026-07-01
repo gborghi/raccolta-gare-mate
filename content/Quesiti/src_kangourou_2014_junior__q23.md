@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q23
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo cubetti neri da due viste del cubo*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum black cubes from two cube views*
+
+![[src_kangourou_2014_junior__prob23.png]]
+
+> The figure shows the same cube seen from two different points. The cube is formed by approaching 27 cubes, some black and some white. How many of the 27 cubes can be black at most? A) 5
+> 	
+> B) 7
+> 	
+> C) 8
+> 	
+> D) 9
+> 	
+> E) 10
+
+**Answer:** D
+[[src_kangourou_2014_junior__Q23]]

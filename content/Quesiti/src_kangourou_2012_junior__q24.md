@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Junior (gara marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior__Q24
 parent: src_kangourou_2012_junior
 competition: Kangourou 2012 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cosa si dice sulle lunghezze dei due treni*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What is said about the lengths of the two trains?
+
+> Two G and H trains travel each at a constant speed. G takes 8 seconds to pass under a runway; shortly thereafter it meets H and the two trains are at least partially side by side for 9 seconds; finally H takes 12 seconds to pass under the same runway. What can be said about the length of the two trains? (A) G is twice the length of H (B) G and H are the same length C) H is one and a half times long G D) H is twice the length of G E) Information is insufficient to answer
+
+**Answer:** A
+[[src_kangourou_2012_junior__Q24]]

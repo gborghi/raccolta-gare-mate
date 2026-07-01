@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r1__Q02
 parent: src_rmo_2013_r1
 competition: Regional Mathematical Olympiad 2013
@@ -31,6 +32,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find a^2013 + b^2013 + c^2013 given polynomial root conditions*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kzoUvCWGpDy_1Yry02V2lM4u5xLLwPb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova a^2013 + b^2013 + c^2013 date le condizioni radicali polinomiche*
+
+> $f(x) = x^3 + ax^2 + bx + c$ e $g(x) = x^3 + bx^2 + cx + a$, dove $a, b, c$ sono integri con $c \neq 0$. Supponiamo che siano valide le seguenti condizioni: a) $f(1) = 0$; b) le radici di $g(x)$ sono quadrati delle radici di $f(x)$. Trova il valore di $a^{2013} + b^{2013} + c^{2013}$.
+
+[[src_rmo_2013_r1__Q02]]

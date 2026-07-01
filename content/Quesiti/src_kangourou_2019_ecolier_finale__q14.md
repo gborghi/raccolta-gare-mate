@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q14
 parent: src_kangourou_2019_ecolier_finale
 competition: Kangourou 2019 Finale Nazionale Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti da aggiungere per inscatolare il cubo*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0098
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cubs to be added to box the cube*
+
+> A full glass of water weighs < MSK0/> grams. The same empty glass weighs < MSK1/> grams. How many grams does a glass of half-filled water weigh?
+>
+> - **(A)** $150$
+> - **(B)** $200$
+> - **(C)** $225$
+> - **(D)** $300$
+> - **(E)** A different number from the previous ones (see figure)
+
+**Answer:** 0098
+[[src_kangourou_2019_ecolier_finale__Q14]]

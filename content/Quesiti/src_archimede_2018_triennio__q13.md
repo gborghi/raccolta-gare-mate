@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Triennio (T1) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_triennio__Q13
 parent: src_archimede_2018_triennio
 competition: Giochi di Archimede 2018 - Triennio (T1)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio r di cerchi tangenti con tangenti comuni*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rage of tangent circles with common tangents*
+
+> The circumference β is centered at point B and radius 40. The circumferences α and γ, of centers A and C respectively, have the same radius r and are both tangent externally to β. The three centers A, B, C are aligned. Knowing that lines passing through A and tangents to β are also tangents to γ, what can be said about the radius r?
+>
+> - **(A)** r < 72
+> - **(B)** 72 ≤r < 75
+> - **(C)** 75 ≤r < 78
+> - **(D)** 78 ≤r < 81
+> - **(E)** r ≥81
+
+**Answer:** D
+[[src_archimede_2018_triennio__Q13]]

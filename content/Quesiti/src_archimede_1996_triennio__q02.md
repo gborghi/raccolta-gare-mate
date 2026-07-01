@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Triennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_triennio__Q02
 parent: src_archimede_1996_triennio
 competition: Giochi di Archimede 1996 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dove il cane raggiunge la lepre date le falcate*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Where the dog reaches the hare given the hawks< MSK1/>
+
+> A dog standing at point A is chasing a hare that is, at the beginning, 30 m ahead of A. The dog gallops with a 2-meter hawk, while the hare runs away completing 1-meter hawk. For every two hacks of a dog, the hare makes three. Where will the dog reach the hare?
+>
+> - **(A)** 30 m from point A
+> - **(B)** 60 m from point A
+> - **(C)** 120 m from point A
+> - **(D)** at 600 m from point A
+> - **(E)** The dog will never reach the hare.
+
+**Answer:** C
+[[src_archimede_1996_triennio__Q02]]

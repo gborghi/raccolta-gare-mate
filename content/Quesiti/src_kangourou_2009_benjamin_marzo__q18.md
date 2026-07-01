@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q18
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi ha vinto la gara (somma piazzamenti)*
 
@@ -58,3 +61,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who won the contest (sum of placements)
+
+> Alessia, Bruno, Celestina and Davide placed (not in this order) in the top four places of a race. The sum of the numbers of placements obtained by Alessia, Bruno and Davide is 6. The sum of the numbers of places obtained by Bruno and Celestina is also 6. Who won the race? A) Alessia or David, but the information does not allow us to determine which of the two. B) Bruno or Celestina, but the information does not allow us to determine which of the two. This is the first time I have seen this.
+> 
+> I'm going to pay. I'm going to pay. 13 13 Kang 2009 Kang
+
+**Answer:** A
+[[src_kangourou_2009_benjamin_marzo__Q18]]

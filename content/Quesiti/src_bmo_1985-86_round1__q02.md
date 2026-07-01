@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1985-86 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1985-86_round1__Q02
 parent: src_bmo_1985-86_round1
 competition: British Mathematical Olympiad 1985-86 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Radius of a circle from two externally tangent circles between parallel tangents*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lLrqivQ3O-Z7kbBj5SWrC104ePjmgMFw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Radius di un cerchio da due cerchi tangenti esternamente tra tangenti paralleli*
+
+> Un cerchio $S$ di raggio $R$ ha due tangenti paralleli $\tau_1$ e $\tau_2$. Un cerchio $S_1$ di raggio $r_1$ tocca $S$ e $\tau_1$; un cerchio $S_2$ di raggio $r_2$ tocca $S$ e $\tau_2$, nonché il cerchio $S_1$. Tutti i contatti del cerchio sono esterni. Calcolare $R$ in termini di $r_1$ e $r_2$.
+
+[[src_bmo_1985-86_round1__Q02]]

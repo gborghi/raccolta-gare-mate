@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - semifinale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_semifinale__Q09
 parent: src_kangourou_2021_ecolier_semifinale
 competition: Kangourou 2021 Ecolier - semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione sicuramente falsa (euro di Lisa)*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1d4KIlUoujYfd3Cc7JpT28ssbmAgsp2A5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Certainly false claim (Lisa's euro) < MSK1/>
+
+> (6 points) If of the following three statements a) Lisa has more than 2021 euros b) Lisa has less than 2021 euros c) Lisa has at least 1 euro one and only one is true, which of the following statements is definitely false? A) Lisa has 2021 euros.
+>  
+> B) Lisa has no euro.
+>  
+> C) Lisa has a thousand euros. (D) Claim (c) is false. E) The statement c) is true.
+>  
+> Open-ended questions
+
+**Answer:** C
+[[src_kangourou_2021_ecolier_semifinale__Q09]]

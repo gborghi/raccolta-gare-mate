@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q07
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma impossibile lanciando due dadi con dispari negativi*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Impossible sum by throwing two dice with negative odds*
+
+> 7. I have odd dice. On each of their faces there's a number from 1 to 6, but every odd number has the minus sign pressed on it, so the corresponding number is negative. By rolling two of these dice and adding up the numbers on the upper faces, which of the following numbers can never be obtained? A) 3 B) 4 C) 5 D) 7 E) 8
+
+**Answer:** D
+[[src_kangourou_2016_junior_marzo__Q07]]

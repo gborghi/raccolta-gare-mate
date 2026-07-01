@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q09
 parent: src_kangourou_2019_junior_semifinale_a
 competition: Kangourou Coppa Junior squadre 2019 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto delle soluzioni di f(n)=n*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0003
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qvyGTt8fMV3U7A9REDKvAdJtpkkgdYbx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Produced from solutions of f(n)=n< MSK1/>
+
+> For every positive integer n be f(n) = (n2  3n + 3)2  3(n2  3n + 3) + 3. What is the product of all (real) solutions to the equation f (n) = n ? (Answer [0000] if the equation has no solutions, [9999] if it has infinitesimal solutions.)
+
+**Answer:** 0003
+[[src_kangourou_2019_junior_semifinale_a__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_n2_fx__Q06
 parent: src_obm_2024_n2_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perpendicularity result in isosceles triangle with special cevian configuration*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IF2AhS-oyKoh7_VN0FmjTtVwiNv_ZbJT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Perpendicolarità che si traduce in triangolo di isosceles con configurazione ceviana speciale*
+
+> Che $ABC$ sia un triangolo di uguali dimensioni con $AB = BC$. Il $D$ deve essere un punto sul segmento $AB$, $E$ un punto sul segmento $BC$ e $P$ un punto sul segmento $DE$ in modo tale che $AD = DP$ e $CE = PE$. < MSK10/> deve essere il punto medio di < MSK11/>. La linea parallela a $AB$ attraverso $M$ si interseca a $AC$ a $X$, e la linea parallela a $BC$ attraverso $M$ si interseca a $Y$. Le linee $DX$ e $EY$ si incrociano a $F$. Prove che $FP$ è perpendicolare a $DE$.
+
+[[src_obm_2024_n2_fx__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Biennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_biennio__Q04
 parent: src_archimede_2005_biennio
 competition: Giochi di Archimede 2005 - Gara Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distribuzione di 120 ciliege proporzionale all'eta*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Distribution of 120 cherries in proportion to age
+
+> Grandma Lucia brought a basket of 120 cherries to her three grandchildren, 4-year-old Jacopo, 7-year-old Martino and 9-year-old Duccio. The grandmother distributes all the cherries to the grandchildren according to this criterion: she gives each grandchild a number of cherries obtained by multiplying the age of the grandchild by a certain factor, and this factor is the same for all three grandchildren. How many cherries are given to Jacopo?
+>
+> - **(A)** 20,
+> - **(B)** 21,
+> - **(C)** 22,
+> - **(D)** 23,
+> - **(E)** 24.
+
+**Answer:** E
+[[src_archimede_2005_biennio__Q04]]

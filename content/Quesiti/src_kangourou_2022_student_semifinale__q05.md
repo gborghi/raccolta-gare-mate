@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Semifinale individuale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q05
 parent: src_kangourou_2022_student_semifinale
 competition: Kangourou 2022 Student — Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *lunghezza bordo esterno*
 
@@ -58,3 +61,32 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*external edge length*
+
+![[src_kangourou_2022_student_semifinale__prob5.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[line width=1pt]
+  \draw (1,0) circle (1);
+  \draw (-1,0) circle (1);
+  \draw (0,1) circle (1);
+  \draw (0,-1) circle (1);
+  \node at (0.15,-0.2) {$K$};
+\end{tikzpicture}
+\end{document}
+```
+
+> (4 points) The figure shows four radii 1 circumferences with exactly one point in common with all of them. How long is the outer edge of the figure highlighted by the black striped arches? A) 3π
+>  
+> B) 3π/2 C) 8π/3
+>  
+> D) 4π E) 11π/5
+
+**Answer:** D
+[[src_kangourou_2022_student_semifinale__Q05]]

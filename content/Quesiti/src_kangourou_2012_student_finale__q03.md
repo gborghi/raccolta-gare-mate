@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 finale nazionale Student — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student_finale__Q03
 parent: src_kangourou_2012_student_finale
 competition: Kangourou 2012 finale nazionale Student
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazioni di 20 tessere con regola di somma*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Colors of 20 sheets with sum rule*
+
+> Twenty cards are numbered with integers from $1$ to $20$. We want to colour each card of a single color, white or black, so that the following rule is observed: if two (different) cards of numbers $m$ and $n$ have the same color and $m + n < 21$, then the number card $m + n$ must also have that color. How many different ways can we assign colors?
+
+[[src_kangourou_2012_student_finale__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f2__Q05
 parent: src_obm_2007_n2_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Kaprekar-type iteration stabilizing at 6174.*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6174
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Iteration di tipo Kaprekar stabilizzata a 6174.*
+
+> Considerate il processo iterativo applicato a un numero a quattro cifre (la routine di Kaprekar). Determinare il valore al quale la sequenza risultante diventa alla fine costante. [Fonte è la scheda delle soluzioni; l'unico testo stampato è "Dal settimo termine in poi, tutti sono uguali a 6174". L'esatta dichiarazione originale NON è presente. Risposta per il gabarito: 6174.]
+
+**Risposta:** 6174
+[[src_obm_2007_n2_f2__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q01
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Gli altri due valori delle somme righe/colonne tabella 2x2*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The other two values of the row/column sums of Table 2x2*
+
+> The numbers 1, 2, 3 and 4 are written one for each cell in a 2x2 table. If the sums of the numbers written in each row and those of the numbers written in each column are calculated, two of the values obtained are 4 and 5. What are the other two? A) 6 e 6 B) 3 e 5 C) 4 e 5 D) 4 e 6 E) 5 e 6
+
+**Answer:** E
+[[src_kangourou_2019_student_marzo__Q01]]

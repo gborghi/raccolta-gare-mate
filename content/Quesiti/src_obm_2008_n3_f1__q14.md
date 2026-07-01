@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q14
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability Bernaldo has no spades given Arnaldo has none*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Probabilità Bernaldo non ha picche dato che Arnaldo non ne ha< MSK1/>
+
+> Arnaldo, Bernaldo, Cernaldo e Dernaldo mescolano le carte $52$ di un mazzo e distribuiscono le carte $13$ a ciascuna. Arnaldo, sorpreso, dice: "Cos'è strano, non ho una carta di spade". Qual è la probabilità che anche Bernaldo non abbia una carta di spade?
+> 
+> (A) $\dfrac{39!}{26!\,52!}$ (B) $\dfrac{26!}{13!\,39!}$ (C) $\dfrac{39!\,39!}{26!\,52!}$ (D) $\dfrac{26!\,26!}{13!\,39!}$ (E) $\dfrac{39!\,13!}{52!}$
+
+[[src_obm_2008_n3_f1__Q14]]

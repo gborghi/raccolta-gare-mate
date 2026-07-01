@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Triennio (T1) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_triennio__Q20
 parent: src_archimede_2018_triennio
 competition: Giochi di Archimede 2018 - Triennio (T1)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soldatini rimasti dopo eliminazioni ripetute delle posizioni quadrate*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Soldiers remaining after repeated elimination of square positions< MSK1/>
+
+> Cleopatra is playing with a row of n2 soldiers (where n is an integer greater than 30). First, Cleopatra removes from the line all soldiers whose position corresponds to a square (i.e. the 1°soldier, 4°, 9°, and so on). After completing this procedure, Cleopatra forms a new line with the remaining soldiers and repeats it again removing all the soldiers whose position in the new line corresponds to a square. It goes on this way, always with the same procedure. How many soldiers could have remained when Cleopatra, after completing the aforementioned procedure several times, became tired and stopped playing?
+>
+> - **(A)** 126
+> - **(B)** 132
+> - **(C)** 125
+> - **(D)** 140
+> - **(E)** 120 T2 Italian Mathematical Union PROJECT OLIMPIADES OF MATHEMATICS Ministry of Education, University and Research The Games of Archimedes - Triennio Competition 22 November 2018 • The test consists of 20 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). One of these answers is correct, the other four are wrong. • Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. You have 110 minutes to run the test. Good work and good fun! Name of the applicant and date of birth: e-mail (optional): 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+**Answer:** B
+[[src_archimede_2018_triennio__Q20]]

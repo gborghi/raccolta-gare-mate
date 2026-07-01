@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre_f2__Q07
 parent: src_kangourou_2023_ecolier_squadre_f2
 competition: Kangourou Squadre 2023 Ecolier Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di Andrea con 2 a destra e sinistra*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0026
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Andrea's number with 2 on the right and left *
+
+> To the right and to the left Andrea wrote a two-digit integer, Beatrice wrote the three-digit number you get from Andrea's by placing a 2 to her right, Cecilia wrote the three-digit number you get from Andrea's by placing a 2 to her left. Adding 36 to Cecilia's number, you get the number of Beatrice. What number did Andrea write?
+
+**Answer:** 0026
+[[src_kangourou_2023_ecolier_squadre_f2__Q07]]

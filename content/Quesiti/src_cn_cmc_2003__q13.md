@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2003 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2003__Q13
 parent: src_cn_cmc_2003
 competition: China Mathematical Competition 2003
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a sum of three square roots is bounded above by a constant.*
 
@@ -43,3 +46,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che una somma di tre radici quadrate è delimitata sopra da una costante.*
+
+> Supponiamo < MSK0/>. Prove che $2\sqrt{x+1} + \sqrt{2x-3} + \sqrt{15-3x} < 2\sqrt{19}$.
+
+[[src_cn_cmc_2003__Q13]]

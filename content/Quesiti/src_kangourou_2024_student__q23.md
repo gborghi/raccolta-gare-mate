@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q23
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima distanza tra X e Y su nastro ripiegato*
 
@@ -61,3 +64,21 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum distance between X and Y on folded tape*
+
+![[src_kangourou_2024_student__prob23.png]]
+
+> The figure shows a tape 12 cm wide and 2 cm high, folded into two perpendicular pieces. If the position of the bend varies as described, how many centimetres is the minimum distance between the two points X and Y? A) 6 √2 B) 7 √2 C) 10 D) 8
+> 	
+> E) 6 + √2
+>       
+> + + − − − = ... X Y 45°
+>
+
+**Answer:** B
+[[src_kangourou_2024_student__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Cadet — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q06
 parent: src_kangourou_2019_cadet_marzo
 competition: Kangourou 2019 Gara di Marzo Cadet
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di pagine se la cifra 4 compare 16 volte*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of pages if the figure 4 appears 16 times*
+
+> 6. Giulia wrote a thesis numbering the pages from 1. Overall, in page numbering, the number 4 appears exactly 16 times. Which of the following can be the page number of the thesis? A) 84 B) 58 C) 64 D) 52 E) 48
+
+**Answer:** B
+[[src_kangourou_2019_cadet_marzo__Q06]]

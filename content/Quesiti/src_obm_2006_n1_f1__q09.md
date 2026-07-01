@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q09
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two cyclists on opposite sides of a 45 km loop, find meeting time*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due ciclisti su lati opposti di un circuito di 45 km, trovano l'ora di incontro*
+
+> Intorno a un grande lago c'è una pista ciclabile di 45 chilometri di lunghezza, che ritorna sempre al punto di partenza dopo essere stata percorsa in una direzione. Due amici partirono dallo stesso punto con velocità costanti di 20 km/h e 25 km/h rispettivamente, in direzioni opposte. Quando si incontrano per la prima volta, uno correva a 20 km/h e aumentava a 25 km/h, mentre quello che era a 25 km/h diminuì a 20 km/h. Quanto tempo deve aspettare l'amico che arriva per primo al punto di partenza?
+>
+> - **(A)** nessuna
+> - **(B)** 10 minuti
+> - **(C)** 12 minuti
+> - **(D)** 15 minuti
+> - **(E)** 18 minuti
+
+**Risposta:** C
+[[src_obm_2006_n1_f1__Q09]]

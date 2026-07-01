@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 1) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g1__Q05
 parent: src_bocconi_finaleint_2007_g1
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pesi: numero di masse tra 1 g e 25 g equilibrabili con cinque masse marcate*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 23
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Weight: number of masses between 1 g and 25 g balanced with five marked masses*
+
+> Mathilde loves to explore her grandparents' sunshine. He found five marked masses. How many masses between $1$ g and $25$ g (these two values included) can Mathilde balance by placing one or more of these five masses on the same plate of balance?
+
+![[src_bocconi_finaleint_2007_g1__Q05.png]]
+
+**Answer:** 23
+[[src_bocconi_finaleint_2007_g1__Q05]]

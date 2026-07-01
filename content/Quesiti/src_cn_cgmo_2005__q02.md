@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2005 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2005__Q02
 parent: src_cn_cgmo_2005
 competition: China Girls' Mathematical Olympiad 2005
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real triples satisfying a system with coefficients 12 and 13*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\left(\tfrac{1}{5}, \tfrac{2}{3}, 1\right)$ and $\left(-\tfrac{1}{5}, \tfrac{2}{3}, 1\right)$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i tripli veri che soddisfano un sistema con i coefficienti 12 e 13*
+
+> Trovare tutti i triples $(x, y, z)$ dei numeri reali in modo tale che $$\left\{\begin{array}{l} \left(x + \tfrac{1}{2}\right)^2 = 12\left(y + \tfrac{1}{2}\right),\\[4pt] \left(y + \tfrac{1}{2}\right)^2 = 13\left(z + \tfrac{1}{2}\right),\\[4pt] xy + yz + zx = 1. \end{array}\right.$$
+
+**Risposta:** $\left(\tfrac{1}{5}, \tfrac{2}{3}, 1\right)$ and $\left(-\tfrac{1}{5}, \tfrac{2}{3}, 1\right)$
+[[src_cn_cgmo_2005__Q02]]

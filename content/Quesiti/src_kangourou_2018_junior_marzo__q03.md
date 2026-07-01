@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q03
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezza del tavolo dati due dislivelli tra gatti*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Table height two cat gaps *
+
+![[src_kangourou_2018_junior_marzo__prob3.png]]
+
+> Look at the figure. The distance between the back of the cat sleeping on the floor and the ear of the cat sitting on the table is 115 cm. The distance between the ear of the cat sitting on the floor and the back of the sleeping cat on the table is 75 cm. How tall is the table? A) 80
+> 	
+> B) 85
+> 	
+> C) 90 D) 95
+> 	
+> E) 100
+
+**Answer:** D
+[[src_kangourou_2018_junior_marzo__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1979 (XXI International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1979__Q04
 parent: src_imho_1979
 competition: IMO 1979 (XXI International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *All real numbers in pi make distances equal to fixed point*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zEPuPBU2bBcA_YKZy9BbfgTGEtgtWSpu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>All real numbers in pi make distances equal to fixed point< MSK1/>
+
+> Given a plane $\pi$, a point $P$ in this plane and a point $Q$ not in $\pi$. Find all points $R$ in $\pi$ such that $\frac{QP + PR}{QR}$ is a maximum.
+
+[[src_imho_1979__Q04]]

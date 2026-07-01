@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale B — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_b__Q09
 parent: src_gas_2010_semifinale_b
 competition: Gara a Squadre 2010 - Semifinale B
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Media scalini tra piani con rampe crescenti su 222 piani*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8251
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Medium staircase between floors with ramps rising over 222 floors*
+
+> Hard escape Jack Disparrow with Will's help has escaped from his cell which is on the lower floor of the prison tower and wants to climb to the top floor, from where he hopes to escape. The prison consists of 222 floors, numbered from 1 to 222 and connected by a number of stair ramps. From the 1st to the 2nd floor there is only 1 staircase ramp with only 1 step. From floors 2 to 3 there are 2 ramps with 1 and 2 steps respectively; from floors 3 to 4, there are 3 ramps with 1, 2 and 3 steps; and so on. How many stairs are there, on average, between one floor and the other?
+
+**Answer:** 8251
+[[src_gas_2010_semifinale_b__Q09]]

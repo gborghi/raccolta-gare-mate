@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo25yq_yosen__Q07
 parent: src_jmo25yq_yosen
 competition: Japan Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count lines through lattice points in 20×15 grid with at most one interior lattice point on segment from origin*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 212
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1puWzUo8OLdW2kCIHzGHhZaVauCRdH9Ya/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le linee attraverso i punti della griglia nella griglia 20 ×15 con al massimo un punto della griglia interna sul segmento di origine*
+
+> Considerare i punti della griglia $(m, n)$ con $m = 1, 2, \ldots, 20$ e $n = 1, 2, \ldots, 15$. Per ciascun punto, si considera il segmento di linea dall'origine $O = (0, 0)$ a $(m, n)$. Chiamare tale segmento \emph{good} se il segmento aperto da $O$ a $(m,n)$ contiene al massimo un punto della griglia (cioè\ un punto con entrambe le coordinate interi positivi). Quanti buoni segmenti ci sono? (Qui un punto di laminazione è un punto le cui coordinate sono enteri; i segmenti paralleli agli assi di coordinate sono esclusi.)
+
+**Risposta:** 212
+[[src_jmo25yq_yosen__Q07]]

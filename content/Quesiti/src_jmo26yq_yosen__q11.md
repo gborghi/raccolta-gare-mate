@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo26yq_yosen__Q11
 parent: src_jmo26yq_yosen
 competition: Japan Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count permutations of 1..1000 with step a or b condition*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggi permutazioni di 1..1000 con condizione di fase a o b*
+
+> Quante coppie di integri $(a, b)$ con $a, b \ge 2$ esistono tali che esista una sequenza $x_1, x_2, \ldots, x_{1000}$ che soddisfa entrambe le seguenti condizioni? (i) $x_1, x_2, \ldots, x_{1000}$ è una riorganizzazione di $1, 2, \ldots, 1000$. (ii) Per ogni numero intero $i$ con $1 \le i \le 1000$ (indici presi ciclicamente), $x_{i+1} = x_i + a$ o $x_{i+1} = x_i - b$ è tenuto.
+
+**Risposta:** 2940
+[[src_jmo26yq_yosen__Q11]]

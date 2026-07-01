@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q15
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Logic puzzle: who paid museum entry*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il puzzle logico: chi ha pagato l'ingresso al museo
+
+> Quattro amici vogliono visitare un museo e uno di loro decide di pagare l'entrata per tutti. Un funzionario delle tasse che vuole sapere chi ha pagato l'ingresso li interroga:
+> 
+> - "Non sono stato io", dice Benjamim.  "È stato Carlos", dice Mário. - "E' stato Pedro", dice Carlos. "Mário ha torto, è stato Pedro", dice Pedro.
+> 
+> Solo uno di loro sta mentendo. Chi NON ha pagato l'ingresso al museo?
+> 
+> (A) Mário \quad (B) Pedro \quad (C) Benjamim \quad (D) Carlos \quad (E) dati insufficienti
+
+**Risposta:** A
+[[src_obm_2000_n1_f1__Q15]]

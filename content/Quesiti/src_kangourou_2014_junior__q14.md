@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q14
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza del coccodrillo testa e coda comprese*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Head and tail crocodile length including < MSK1/>
+
+> A crocodile's tail is one-third of its total length. The head is 93 cm long, exactly like a quarter of the crocodile's length if you don't count the tail. How long is the crocodile, including head and tail? A) 558 B) 496 C) 490 D) 372 E) 186
+
+**Answer:** A
+[[src_kangourou_2014_junior__Q14]]

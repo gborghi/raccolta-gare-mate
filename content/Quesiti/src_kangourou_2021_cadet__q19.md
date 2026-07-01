@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q19
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione vera dividendo mele e pere*
 
@@ -58,3 +61,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>True claim by division of apples and pears< MSK1/>
+
+> In a box there are apples and pears: the number of apples is twice the number of pears. Cristina and Liliana divide the fruits so that Cristina has twice the number of fruits as Liliana. Which of the following is true? 11 ----- 2 h 1 P Q x 45°
+> 
+> A) Cristina took at least one pear. B) Cristina took twice as many apples as the number of pears. C) Cristina took twice as many apples as Liliana. D) Cristina took as many apples as Liliana took pears. E) Cristina took as many pears as Liliana took.
+
+**Answer:** E
+[[src_kangourou_2021_cadet__Q19]]

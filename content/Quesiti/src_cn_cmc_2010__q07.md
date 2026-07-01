@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2010 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2010__Q07
 parent: src_cn_cmc_2010
 competition: China Mathematical Competition 2010
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sine of a dihedral angle in a regular triangular prism with all edges equal*
 
@@ -48,3 +51,16 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Signo di un angolo diedrico in un prisma triangolare regolare con tutti i bordi uguali*
+
+> Le lunghezze dei nove bordi del prisma triangolare regolare $ABC$-$A_1B_1C_1$ sono uguali, $P$ è il punto medio di $CC_1$ e l'angolo diedro $B$-$A_1P$-$B_1 = \alpha$. Poi $\sin\alpha = $ ________.
+
+![[src_cn_cmc_b11_w26__Q07.png]]
+
+**Risposta:** $\frac{\sqrt{10}}{4}$
+[[src_cn_cmc_2010__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo14yq_yosen__Q11
 parent: src_jmo14yq_yosen
 competition: Japan Mathematical Olympiad 2004 — Yosen (Preliminary)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral ABCD with AD=CD, BD=BC and given angles; find angle BAD.*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrilaterale convexa con AD=CD, BD=BC e angoli dati; trovare angolo BAD.*
+
+> Nel quadrilaterale convex $ABCD$, abbiamo $AD = CD$, $BD = BC$, $\angle ADC = 168^\circ$ e $\angle ABC = 66^\circ$. Trova < MSK5/>.
+
+[[src_jmo14yq_yosen__Q11]]

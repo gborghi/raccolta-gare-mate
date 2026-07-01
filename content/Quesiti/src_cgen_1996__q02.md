@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1996 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1996__Q02
 parent: src_cgen_1996
 competition: Concours Général des Lycées 1996 — Matematica
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Periodic real sequence defined by piecewise recurrence*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17EWEElTie5u7XVQmqQ-04NIFHkPo7Bvo/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza reale periodica definita da ricorrenza a pezzi*
+
+> $a$ sia un intero positivo e $b$ un intero strettamente positivo. Considera la sequenza reale $(u_n)_{n \in \mathbb{N}}$ definita come segue: $$\begin{cases} u_0 = b \\ u_{n+1} = \dfrac{1}{2} u_n & \text{if } u_n \text{ is an even integer,} \\ u_{n+1} = a + u_n & \text{otherwise.} \end{cases}$$
+> 
+> 1. Mostrare che si può trovare un intero positivo $n$ tale che $u_n \le a$. 2. Mostrare che la sequenza è alla fine periodica.
+
+[[src_cgen_1996__Q02]]

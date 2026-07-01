@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1992-93 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1992-93_round2__Q03
 parent: src_bmo_1992-93_round2
 competition: British Mathematical Olympiad 1992-93 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Internal point P of triangle; prove PA sin∠BAC/sin α = PB sin∠CBA/sin β = PC sin∠ACB/sin γ*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aFT9G_ZKn1J7Wpj9P28kBqV5xurU7n--/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto interno del triangolo; prova PA sinBAC/sin α = PB sinCBA/sin β = PC sinACB/sin γ*
+
+> Che $P$ sia un punto interno del triangolo $ABC$ e che $\alpha, \beta, \gamma$ sia definito da $$\alpha = \angle BPC - \angle BAC, \quad \beta = \angle CPA - \angle CBA, \quad \gamma = \angle APB - \angle ACB.$$ Provi che $$PA \frac{\sin \angle BAC}{\sin \alpha} = PB \frac{\sin \angle CBA}{\sin \beta} = PC \frac{\sin \angle ACB}{\sin \gamma}.$$
+
+[[src_bmo_1992-93_round2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r2__Q05
 parent: src_pol_2004_r2
 competition: Olimpiade Matematica Polacca 2004 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equal ratio PQ/AD = PR/BE for cevians meeting and angle bisector*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qs-4pQENG-aSe6lLcgW99_sE-sF3wP__/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*PQ/AD = PR/BE per il bisettore di incontro e angolo dei ceviani*
+
+> I punti $D$ e $E$ sono presi rispettivamente sui lati $BC$ e $CA$ di un triangolo $ABC$ in modo tale che $BD = AE$. I segmenti $AD$ e $BE$ si incontrano a $P$. Il bisettore di $\angle ACB$ interseca i segmenti $AD$ e $BE$ rispettivamente a $Q$ e $R$. Prove che $\frac{PQ}{AD} = \frac{PR}{BE}$.
+
+[[src_pol_2004_r2__Q05]]

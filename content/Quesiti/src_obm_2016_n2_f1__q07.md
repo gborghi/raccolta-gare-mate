@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f1__Q07
 parent: src_obm_2016_n2_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which value cannot be the variable side of triangles ABC and ABD*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il quale non può essere il lato variabile dei triangoli ABC e ABD*
+
+> Per la disuguaglianza del triangolo applicata ai triangoli $ABC$ e $ABD$, rispettivamente $x<4+3=7$ e $8+x>10$, si intende $2<x<7$. In linea di principio i valori possibili di $x$ sono $3$, $4$, $5$ o $6$. Con l'inverso della disuguaglianza del triangolo, tre numeri positivi sono lunghezze laterali di un triangolo solo se il più grande è inferiore alla somma degli altri due; i quattro valori trovati soddisfano le condizioni. Quale valore di $x$ non è ammissibile? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+
+**Risposta:** C
+[[src_obm_2016_n2_f1__Q07]]

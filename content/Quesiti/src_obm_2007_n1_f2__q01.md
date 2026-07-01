@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f2__Q01
 parent: src_obm_2007_n1_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count the total number of digits of a number built from repeated blocks 10100.*
 
@@ -49,3 +52,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c1KSYB2Si60KoloY7duhcwVwRnP2K6BN/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare il numero totale di cifre di un numero costruito da blocchi ripetuti 10100.*
+
+> Un numero $N$ è formato da blocchi uguali, ognuno della forma "$10100$". Sapendo che il numero $N$ ha cifre $101$, esso è formato da blocchi completi $20$ più una cifra principale in più, e la somma delle cifre di ogni blocco è uguale a $1+0+1+0+0=2$. Determinare il valore del numero totale di cifre di $N$ (la quantità richiesta è uguale a $20\times 2+1=41$).
+
+**Risposta:** 41
+[[src_obm_2007_n1_f2__Q01]]

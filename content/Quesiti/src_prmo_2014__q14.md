@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2014__Q14
 parent: src_prmo_2014
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2014
@@ -35,6 +36,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of people in Manjul's family given coffee/milk mixture problem*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Nombre di persone nella famiglia di Manjul che hanno avuto problemi con la miscela di caffè/ latte< MSK1/>
+
+> Una mattina, ogni membro della famiglia di Manjul bevette un misto di circa 10 grammi di caffè e latte. Le quantità di caffè e latte variavano da tazza a tazza, ma non erano mai zero. Manjul ha bevuto < MSK0/>-th della quantità totale di latte e < MSK1/>-th della quantità totale di caffè. Quante persone ci sono nella famiglia di Manjul?
+
+**Risposta:** 8
+[[src_prmo_2014__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f1__Q19
 parent: src_obm_2007_n1_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bar chart: percent correct over 60 tests, 50 questions; find average wrong questions*
 
@@ -53,3 +56,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Grafico a barre: percentuale di correttezza su 60 test, 50 domande; trovare domande sbagliate medie*
+
+> Il grafico accanto mostra la percentuale di risposte corrette sui test $60$ presi dai candidati finalisti in un concorso. Sapendo che il test conteneva domande $50$, quale era il numero medio di domande sbagliate tra questi candidati in questo test?
+> 
+> (A) 14 \quad (B) 24 \quad (C) 30 \quad (D) 32 \quad (E) 40
+
+![[src_obm_2007_n1_f1__Q19.png]]
+
+[[src_obm_2007_n1_f1__Q19]]

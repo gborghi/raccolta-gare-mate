@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q15
 parent: src_kangourou_2017_cadet_semifinale
 competition: Kangourou 2017 Cadet (semifinale individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti divisori di N, prodotto terzo e settimo uguale N*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of N dividers, third and seventh product equal to N*
+
+> (Points 6) I have listed all the divisors of a natural number N, including 1 and N, in ascending order. The product of the third and seventh divisors is N. Is it possible to determine how many divisors are listed? Write 9999 if the answer is no, the number of divisors if not.
+
+**Answer:** 9
+[[src_kangourou_2017_cadet_semifinale__Q15]]

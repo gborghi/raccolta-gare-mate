@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q09
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ways to make R\$10.00 with 10-cent and 25-cent coins, at least one of each*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Medi per fare R\$10.00 con monete da 10 cent e 25 cent, almeno una di ciascuna*
+
+> In quanti modi possiamo dare cambio per R\$ $10{,}00$ using coins of $10$ cents and $25$ centesimi, se deve essere utilizzata almeno una moneta di ogni tipo?
+> 
+> (A) $15$ (B) $16$ (C) $17$ (D) $18$ (E) $19$
+
+[[src_obm_2008_n3_f1__Q09]]

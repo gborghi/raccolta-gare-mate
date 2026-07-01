@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2021-22 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2021-22_round2__Q04
 parent: src_bmo_2021-22_round2
 competition: British Mathematical Olympiad 2021-22 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove Q on BC and line AT passes through Q*
 
@@ -44,3 +47,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16y4Ne9fLIQNcbli54a5IbNlDbIPQeawo/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove Q su BC e la linea AT passa attraverso Q*
+
+> Il $ABC$ deve essere un triangolo angolato acuto con circoncircolo $\Gamma$. Le linee $l_B$ e $l_C$ siano perpendicolari a $BC$ che attraversano rispettivamente $B$ e $C$. Un punto $T$ si trova sull'arco minore $BC$. La tangente di $\Gamma$ a $T$ incontra rispettivamente $l_B$ a $P_B$ e $l_C$ a $P_C$. La linea attraverso $P_B$ perpendicolare a $AC$ e la linea attraverso $P_C$ perpendicolare a $AB$ si incontrano in un punto $Q$.
+> 
+> (Un *arco minore * di un cerchio è il più breve dei due archi con dati punti di fine.)
+> 
+> Prova che $Q$ si trova su $BC$ e prova che la riga $AT$ passa attraverso $Q$.
+
+[[src_bmo_2021-22_round2__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Triennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_triennio__Q11
 parent: src_archimede_1996_triennio
 competition: Giochi di Archimede 1996 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle unita di una somma di quadrati*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of units of a sum of squares*
+
+> What 's the unit number of 12 + 22 + 32 + . . . + 19962?
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 4
+> - **(D)** 6
+> - **(E)** 8.
+
+**Answer:** D
+[[src_archimede_1996_triennio__Q11]]

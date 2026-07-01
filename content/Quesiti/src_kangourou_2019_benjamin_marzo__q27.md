@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q27
 parent: src_kangourou_2019_benjamin_marzo
 competition: Kangourou 2019 Gara di Marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti punti ha totalizzato Alberto (piramidi di lattine)*
 
@@ -56,3 +59,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1mCVu8mcZWozh4A9IixxiUAmKQbLsElwm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many points did Alberto score (bottle pyramids) < MSK1/>
+
+![[src_kangourou_2019_benjamin_marzo__prob27.png]]
+
+> There are two pyramids constructed of milk, each of which has a score. The pyramids are identical, including in scores and arrangement. Gianna raised 6 cans for a total of 25 points, Alberto raised to 4 cans: the figures show you what was left of the pyramids after each of the two operations. How many points did Alberto score? A) 22
+> 	
+> B) 23
+> 	
+> C) 25
+> 	
+> D) 26 E) 28
+
+**Answer:** D
+[[src_kangourou_2019_benjamin_marzo__Q27]]

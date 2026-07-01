@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q22
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Mosse di scambio di dieci canguri che si guardano*
 
@@ -54,3 +57,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Exchange moves of ten kangaroos watching *
+
+![[src_kangourou_2017_cadet_marzo__prob22.png]]
+
+> A video game starts with ten kangaroos lined up as shown in the figure: At each move, Angelo can switch places between two neighboring kangaroos, but only if these two kangaroos look each other in the face. The game goes on until Angelo can make no more trades. How many moves will Angelo make? A) 15
+> 	
+> B) 16
+> 	
+> C) 18
+> 	
+> D) 20
+> 	
+> E) 21
+
+**Answer:** C
+[[src_kangourou_2017_cadet_marzo__Q22]]

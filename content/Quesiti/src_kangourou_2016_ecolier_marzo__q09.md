@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (gara marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q09
 parent: src_kangourou_2016_ecolier_marzo
 competition: Kangourou 2016 Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione corretta su numero di cerchi/quadrati/triangoli*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Correct statement on the number of circles/squares/triangles*
+
+![[src_kangourou_2016_ecolier_marzo__prob9.png]]
+
+> Which of the following statements on the figure is correct? A) The number of circles is equal to the square. B) There are fewer circles than triangles. C) The number of circles is twice that of triangles. D) There are more squares than triangles. E) The number of triangles is twice that of circles.
+
+**Answer:** C
+[[src_kangourou_2016_ecolier_marzo__Q09]]

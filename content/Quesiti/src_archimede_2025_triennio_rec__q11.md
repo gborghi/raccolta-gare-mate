@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_triennio_rec__Q11
 parent: src_archimede_2025_triennio_rec
 competition: Giochi di Archimede 2025 - Triennio (prova di riserva)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura PC' da distanze di P dai lati*
 
@@ -57,3 +60,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Measurement PC' from distances of P from the sides< MSK1/>
+
+![[src_archimede_2025_triennio_rec__prob11.png]]
+
+> In the triangle ABC the sides AB and BC measure 17 dm, the CA side measures 16 dm. Taking a point P within the triangle, the segments PA′, PB′ and PC′, perpendicular to the sides, are plotted from P. The lengths (in dm) of PA′ and PB′ are, in the order, 3 and 13/2. How many dm does PC< MSK5/> measure? A B C P A′ B′ C′
+>
+> - **(A)** 5
+> - **(B)** 75/17
+> - **(C)** 21/4
+> - **(D)** 4
+> - **(E)** 9/2
+
+**Answer:** A
+[[src_archimede_2025_triennio_rec__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2023 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo33hq_honsen__Q05
 parent: src_jmo33hq_honsen
 competition: Japan Mathematical Olympiad 2023 — Honsen (Final)
@@ -38,6 +39,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *S={1,...,3000}; find max X such that for any bijection f, some bijection g makes sum >= X*
 
@@ -53,3 +56,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VHuJXp0L8AAwmYvzBeWsGkyY-LQ1btx2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*S={1,...,3000}; trovare il massimo X in modo che per qualsiasi bijezione f, qualche bijezione g faccia la somma >= X*
+
+> Let < MSK0/>. Trova il numero intero massimo $X$ in modo tale che la seguente condizione sia valida:
+> 
+> Per qualsiasi bizione $f : S \to S$, esiste una bizione $g : S \to S$ tale che $$\sum_{k=1}^{3000} \Bigl(\max\{f(f(k)),\, f(g(k)),\, g(f(k)),\, g(g(k))\} - \min\{f(f(k)),\, f(g(k)),\, g(f(k)),\, g(g(k))\}\Bigr) \ge X.$$
+> 
+> Qui, una bijezione da $S$ a $S$ è una funzione $f : S \to S$ tale che per ogni elemento $y \in S$ esiste esattamente un elemento $x \in S$ con $f(x) = y$. Per i numeri interi positivi $x_1, x_2, x_3, x_4$, $\max\{x_1, x_2, x_3, x_4\}$ e $\min\{x_1, x_2, x_3, x_4\}$ indicano rispettivamente il loro massimo e il loro minimo.
+
+[[src_jmo33hq_honsen__Q05]]

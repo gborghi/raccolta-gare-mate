@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2007 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2007__Q03
 parent: src_inmo_2007
 competition: Indian National Mathematical Olympiad 2007
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer roots iff floor expression is a perfect square*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GDB9h1f2j9Id2KXkRQkP-aK4nL-Se5hG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rede integrali se l'espressione del pavimento è un quadrato perfetto*
+
+> Lasciate che $m$ e $n$ siano integri positivi in modo tale che l'equazione $x^2 - mx + n = 0$ abbia radici reali $\alpha$ e $\beta$. Prova che $\alpha$ e $\beta$ sono numeri interi se e solo se $[m\alpha] + [m\beta]$ è il quadrato di un numero intero. (Qui $[x]$ indica il più grande numero intero non superiore a $x$.)
+
+[[src_inmo_2007__Q03]]

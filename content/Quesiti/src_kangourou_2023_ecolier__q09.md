@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier__Q09
 parent: src_kangourou_2023_ecolier
 competition: Kangourou 2023 Ecolier — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale copre il puntino*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bDY_Y5qtxjaNx_dh5X8llzlndfmVtNwJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*which covers the dot*
+
+![[src_kangourou_2023_ecolier__prob9.png]]
+
+> Piera wants to cover the shape drawn here on the side with the five shapes that appear in the answers. What shape will cover the point pointed arrow? A) B) C)
+> 	
+> D) E)
+
+**Answer:** A
+[[src_kangourou_2023_ecolier__Q09]]

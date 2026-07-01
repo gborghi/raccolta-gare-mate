@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q12
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Esmeralda's 5 books are re-shelved with exactly two in their original place and the rest displaced; count the ways.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+I 5 libri di Esmeralda sono riempiti con esattamente due al loro posto originale e il resto spostato; contare i modi.*
+
+> Esmeralda ha cinque libri sull'eraldia su uno scaffale. Il fine settimana, pulì lo scaffale e, dopo aver sostituito i libri, ne mise due nel posto in cui erano prima e gli altri in luoghi diversi da dove erano. In quanti modi avrebbe potuto farlo? (A) $20$ (B) $25$ (C) $30$ (D) $34$ (E) $45$
+
+[[src_obm_2009_n3_f1__Q12]]

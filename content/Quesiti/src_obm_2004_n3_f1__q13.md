@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q13
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Total path length of a light ray reflecting between two mirrors at 30 degrees.*
 
@@ -52,3 +55,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza totale del percorso di un raggio luminoso che riflette tra due specchi a 30 gradi.*
+
+> Due specchi formano un angolo di $30^\circ$ al punto $V$. Un raggio luminoso proveniente da una fonte $S$ viene emesso parallelo a uno degli specchi e riflettuto dall'altro al punto $A$, come mostrato nella figura. Dopo un certo numero di riflessi, il raggio torna a $S$. Se $SA=AV=1$ metri, la distanza percorsa dal raggio luminoso, in metri, è
+> 
+> (A) 2 (B) $2+\sqrt{3}$ (C) $1+\sqrt{2}+\sqrt{3}$ (D) $\sqrt{2}\left(1+\sqrt{3}\right)$ (E) $5\sqrt{3}$
+
+![[src_obm_2004_n3_f1__Q13.png]]
+
+[[src_obm_2004_n3_f1__Q13]]

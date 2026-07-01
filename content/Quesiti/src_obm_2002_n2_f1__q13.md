@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f1__Q13
 parent: src_obm_2002_n2_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Carwash promotion: two prices, total R\$176; minimum number of customers*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Promozione del lavaggio: due prezzi, totale di R$176; numero minimo di clienti
+
+> Il lavandino auto "Lave Bem" ha una promozione: un semplice lavandino costa R$\$5,00$ and a complete wash costs R$$7.00$. Il giorno della promozione, il fatturato totale è stato di R$\$176,00$. Qual è il numero minimo possibile di clienti che sono stati serviti?
+>
+> - **(A)** $23$
+> - **(B)** $24$
+> - **(C)** $26$
+> - **(D)** $28$
+> - **(E)** $30$
+
+**Risposta:** C
+[[src_obm_2002_n2_f1__Q13]]

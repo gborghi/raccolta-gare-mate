@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2010 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo8mq_honsen__Q05
 parent: src_jjmo8mq_honsen
 competition: Japan Junior Mathematical Olympiad 2010 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Draw 2n white-black segments forming one tour with few crossings*
 
@@ -48,3 +51,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p2F4y-eHA_uMQrouWBYL9ACgMCFOr7Tx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Disegnare 2 segmenti bianchi e neri che formano un giro con poche traversate*
+
+> $n$ sia un numero intero con $n \ge 2$. Su un cerchio ci sono punti bianchi $n$ e punti neri $n$, punti $2n$ in totale. Per questi punti, considerare il disegno di segmenti $2n$ in modo da soddisfare le seguenti condizioni.
+> 
+> (1) Ogni segmento ha un punto bianco e un punto nero come punti di fine.
+> 
+> (2) Seguendo questi segmenti in ordine, si può attraversare ogni punto esattamente una volta e fare un ciclo completo (cioè i segmenti formano un singolo ciclo chiuso attraverso tutti i punti).
+> 
+> Mostrare che, per qualsiasi disposizione dei punti, i segmenti possono essere disegnati in modo tale che il numero di intersezioni tra i segmenti sia massimo $n-1$. Qui, un punto di fine di un segmento non è considerato un incrocio.
+
+[[src_jjmo8mq_honsen__Q05]]

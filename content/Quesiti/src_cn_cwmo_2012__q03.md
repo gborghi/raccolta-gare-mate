@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2012 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2012__Q03
 parent: src_cn_cwmo_2012
 competition: China Western Mathematical Olympiad 2012
@@ -35,6 +36,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max number of subsets of an n-element set with pairwise intersection or containment*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 2n-1
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nombre massimo di sottoinsiemi di un insieme di n elementi con intersezione o contenimento in coppia*
+
+> $E$ sia un insieme dato con elementi $n$. Supponiamo che $A_1, A_2, \ldots, A_k$ siano $k$ sudinsiemi non vuoti distinti di $E$, con la proprietà che: per qualsiasi $1 \le i < j \le k$, sia $A_i \cap A_j = \emptyset$ che uno include l'altro (cioè $A_i \subseteq A_j$, o $A_j \subseteq A_i$). Trova il valore massimo di $k$. (Posizionato da Lang Guangqiong)
+
+**Risposta:** 2n-1
+[[src_cn_cwmo_2012__Q03]]

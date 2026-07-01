@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f1__Q11
 parent: src_obm_2016_n2_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum video-game distance from centre to a corner of the screen*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Distanza massima del videogioco dal centro all'angolo dello schermo*
+
+> Dividere lo schermo del videogioco in quattro rettangoli uguali $A$, $B$, $C$, $D$, e considerare il rettangolo $R$ formato dai centri di questi quattro rettangoli. La distanza tra videogiochi è sempre inferiore o uguale alla distanza euclidica usuale sullo schermo, e lo scambio delle posizioni di due di questi rettangoli che condividono un lato comune non cambia la distanza tra gli altri (una figura rotata mantiene la sua distanza euclidica). Si può supporre che ci siano due punti la cui distanza è uguale alla diagonale di un rettangolo di videogioco. Poiché la distanza più grande in $R$ è la sua diagonale, misurando $\frac{\sqrt{2^2+4^2}}{2}=2.5$, nessuna distanza minima del videogioco supera $2.5$; inoltre la distanza del videogioco tra il centro dello schermo e qualsiasi angolo è $2.5$. Qual e' questa distanza? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+
+![[src_obm_2016_n2_f1__Q11.png]]
+
+**Risposta:** B
+[[src_obm_2016_n2_f1__Q11]]

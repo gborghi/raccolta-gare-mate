@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q07
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Primo termine della ricorrenza a=7a+1 divisibile per 30*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0012
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First term of recurrence a=7a+1 divisible by 30*
+
+> Dynasties According to ancient tradition, all kings of Franquie bear the name of Herrovaccio and are distinguished by a number. The first king carried the number a1 = 1, and then, by way, to each subsequent king was assigned a number, obtained from the previous one, according to the rule an+1 = 7an + 1. Who was the first king of the dynasty to bring a number divisible by 30?
+
+**Answer:** 0012
+[[src_cesenatico_2004_squadre__Q07]]

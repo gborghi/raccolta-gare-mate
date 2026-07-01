@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q18
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *posizione dei passeggeri*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0324
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>position of the passengers< MSK1/>
+
+> Professor Abacus in the tram
+> 
+> Professor Abacus usually takes the tram 32 to go to work at the university. However, this morning he's late and has to take the 54 tram. "Buffo"  thinks Abacus  "the smallest perfect square that is multiple of 54 gives the civic number of my house". What is the civic number of the building where the professor lives?
+
+**Answer:** 0324
+[[src_archimede_2002_squadre__Q18]]

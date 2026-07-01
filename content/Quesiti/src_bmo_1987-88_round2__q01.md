@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1987-88 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1987-88_round2__Q01
 parent: src_bmo_1987-88_round2
 competition: British Mathematical Olympiad 1987-88 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equilateral triangle with inscribed circles; prove ratio AP/AC = 4/5 and find AQ/AC*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1saRGuH3Bwi42EqoEIhAENB9ZwUjztngB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo equilaterale con cerchi incisi; prova il rapporto AP/AC = 4/5 e trova AQ/AC*
+
+> $ABC$ è un triangolo equilaterale. Il cerchio $\Gamma_1$ ha centro $A$ e raggio $AB$. $\Gamma_2$ è il cerchio su $AC$ come diametro. Il cerchio con il centro $P$ su $AC$ tocca $\Gamma_1$ internamente a $C$ e $\Gamma_2$ esternamente a $Q$.
+> 
+> Indicare che $AP/AC = 4/5$ e calcolare il rapporto $AQ/AC$.
+
+[[src_bmo_1987-88_round2__Q01]]

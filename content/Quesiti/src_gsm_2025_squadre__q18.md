@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2025_squadre__Q18
 parent: src_gsm_2025_squadre
 competition: Gara a Squadre Miste GSM (locale Genova) 2025
@@ -31,6 +32,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che compaia 2026 in una successione di operazioni*
 
@@ -61,3 +64,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1351
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability to occur in 2026 in a succession of operations< MSK1/>
+
+> Simón Muselli operations To generate sequences, first a positive number is chosen randomly and then operations are applied in sequence, randomly chosen each time between the following three: add the addition 3; multiply by the factor 4; raise to the power 5. For example, we can generate the sequence 2 25 = 32 32⋅4 = 144 144 + 3 = 147 147 + 3 = 150 ... What is the probability that the number 2026 will occur in the sequence knowing that we have used the  operation multiply for the factor 4 no more than once? [Give the number of divisors of the denominator of the fraction reduced to the minimum terms as the answer.]: 0003
+
+**Answer:** 1351
+[[src_gsm_2025_squadre__Q18]]

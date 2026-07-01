@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q01
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number 1–9 in 3×3 grid: odd neighbor sums, maximize white-square sum*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero 19 in 3 ×3 griglia: somma pari dei vicini, massimizzazione della somma quadrata bianca *
+
+> Violeta vuole numerare i quadrati di una lavagna $3 \times 3$ da 1 a 9, in modo che in ogni riga il numero di quadrati la cui somma con tutti i loro vicini (quadrati che condividono un lato) è pari è il massimo possibile. Inoltre, vuole che la somma dei numeri scritti nei quadrati bianchi sia il più grande possibile. Qual è la somma dei numeri scritti nei quadrati bianchi?
+> 
+> (A) 15 \quad (B) 16 \quad (C) 22 \quad (D) 29 \quad (E) 30
+
+![[src_obm_2015_n3_f1__Q01.png]]
+
+**Risposta:** C
+[[src_obm_2015_n3_f1__Q01]]

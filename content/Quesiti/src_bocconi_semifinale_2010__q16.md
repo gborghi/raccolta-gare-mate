@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2010 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2010__Q16
 parent: src_bocconi_semifinale_2010
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2010
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima sicurezza: numero minimo di chiavi per cassaforte*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 504 chiavi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum security: minimum number of safe keys*
+
+> The evidence of a high-level Mathematics course is kept in a super-secure safe with multiple locks. The competition jury consists of nine commissioners and each of them has the key to some locks. Knowing that: - at least 6 members of the jury must be present in order to open the safe; - 6 commissioners any one can open the safe; how many locks, at least, does the safe have? (Each key opens a single lock and of course the safe only opens when all the locks are open.)
+
+**Answer:** 504 chiavi
+[[src_bocconi_semifinale_2010__Q16]]

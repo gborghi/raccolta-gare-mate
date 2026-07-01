@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_triennio_rec__Q16
 parent: src_archimede_2025_triennio_rec
 competition: Giochi di Archimede 2025 - Triennio (prova di riserva)
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità di due divisori di 18000 coprimi*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of two splitters of 18000 coatings< MSK1/>
+
+> Luca and Giulia wrote, in 60 different notes, the list of all natural numbers that are divisors of 18000 (one for each note). Luke randomly draws one, then puts it back together with the others, and Julia then runs a new draw. What is the probability that the extracted numbers are prime?
+>
+> - **(A)** 9/100
+> - **(B)** 5/54
+> - **(C)** 1/12
+> - **(D)** 1/10
+> - **(E)** 7/80 511
+
+**Answer:** E
+[[src_archimede_2025_triennio_rec__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Student finale (maggio) — Quesito S4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_student_maggio__QS4
 parent: src_kangourou_2007_student_maggio
 competition: Kangourou 2007 Student finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma prime 21 cifre decimali di 2^2007/7*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 88
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HUfAMVLA7IpFMgDDc-PE2DVK0jJ_IXLH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Sum of the first 21 decimal places of 2^2007/7*
+
+> What is the sum of the first twenty-one digits after the comma of division by $7$ of $2^{2007}$?
+
+**Answer:** 88
+[[src_kangourou_2007_student_maggio__QS4]]

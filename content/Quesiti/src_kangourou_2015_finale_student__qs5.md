@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 finale nazionale Student — Quesito S5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_finale_student__QS5
 parent: src_kangourou_2015_finale_student
 competition: Kangourou 2015 finale nazionale Student
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di rette parallele ai lati per 100 regioni*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 16
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Z_cR8nCAXBpRsQKgwOr6WJi09KR66jxC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of parallel lines on the sides per 100 regions*
+
+> Given a triangle, what is the minimum number of lines parallel to the sides that need to be drawn to divide it into exactly < MSK0/> regions?
+
+**Answer:** 16
+[[src_kangourou_2015_finale_student__QS5]]

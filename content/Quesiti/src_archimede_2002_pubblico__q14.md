@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_pubblico__Q14
 parent: src_archimede_2002_pubblico
 competition: Archimede 2002 - Gara del Pubblico (Cesenatico)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero di biglie di ciascun colore*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*number of beads of each colour*
+
+> The balls of Carla < MSK1/> (60 points)
+> 
+> This time Carla's playing with some colorful cards. He just divided them into a number of heaps, which we'll call MSK0/, all containing at least two balls. Then he looks at them gently as he reads the newspaper, fixes the $A_i$ heap and distractively calculates the $c_i$ number of all the pairs of balls that both belong to $A_i$. You then notice that the sum of all the $c_i$ is 28 and that the same thing happens when you look at the dice. Can you tell me how many balls Carla has?
+
+**Answer:** 0016
+[[src_archimede_2002_pubblico__Q14]]

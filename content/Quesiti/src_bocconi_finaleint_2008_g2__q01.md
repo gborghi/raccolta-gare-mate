@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 2) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g2__Q01
 parent: src_bocconi_finaleint_2008_g2
 competition: >-
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordine di 7 carte sovrapposte.*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** GEFADCB
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Order of 7 overlapping cards
+
+> Matilde put seven cards on each other. In what order did you place them?
+
+**Answer:** GEFADCB
+[[src_bocconi_finaleint_2008_g2__Q01]]

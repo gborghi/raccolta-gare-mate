@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q04
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Choose 3 of 8 polyomino pieces to assemble a 3x3 square*
 
@@ -53,3 +56,21 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Scelta 3 tra 8 pezzi di poliomino per assemblare un quadrato 3x3*
+
+> Cecilia prese un foglio di cartolina e tagliò fuori i pezzi $8$ mostrati a destra, formati da piccoli quadrati della stessa dimensione. In quanti modi diversi può scegliere $3$ di questi pezzi per assemblare il quadrato $3 \times 3$ sulla sinistra?
+>
+> - **(A)** $3$
+> - **(B)** $4$
+> - **(C)** $5$
+> - **(D)** $6$
+> - **(E)** $7$
+
+![[src_obm_2010_n2_f1__Q04.png]]
+
+[[src_obm_2010_n2_f1__Q04]]

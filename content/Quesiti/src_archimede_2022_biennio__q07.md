@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2022 - Gara Biennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_biennio__Q07
 parent: src_archimede_2022_biennio
 competition: Giochi di Archimede 2022 - Gara Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro parallelogramma da perimetri di sotto-parallelogrammi*
 
@@ -95,3 +98,54 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Daq06A5cNKvPAO0E8Ym-xGnc7AcmRZ_w/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Parallelogram perimeter from subparallelogram perimeter *
+
+![[src_archimede_2022_biennio__prob7.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (3,0);
+  \coordinate (C) at (4,3);
+  \coordinate (D) at (1,3);
+  \coordinate (P) at (2.0,1.2);
+  \draw (A)--(B)--(C)--(D)--cycle;
+  \coordinate (Ap) at (1.6,0);
+  \coordinate (Cp) at (2.6,3);
+  \coordinate (Dp) at (0.4,1.2);
+  \coordinate (Bp) at (3.4,1.2);
+  \draw (Ap)--(Cp);
+  \draw (Dp)--(Bp);
+  \fill (P) circle (1.2pt);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above right] at (C) {$C$};
+  \node[above left] at (D) {$D$};
+  \node[below] at (Ap) {$A'$};
+  \node[above] at (Cp) {$C'$};
+  \node[left] at (Dp) {$D'$};
+  \node[right] at (Bp) {$B'$};
+  \node[above right] at (P) {$P$};
+  \node at (1.0,0.6) {$29$};
+  \node at (1.5,2.1) {$47$};
+  \node at (3.0,2.1) {$38$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Considered an ABCD parallelogram, the lines parallel to the sides passing through an inner point P intersect the sides in A′, B′, C′ and D′, as shown in Figure 1. The perimeters (in metres) of the parallelograms D′AA′P, C′DD′P and B′CC′P are as shown in Figure 1. How many metres does the perimeter of the ABCD parallelogram measure? A B C D P A′ B′ C′ D′ 29 47 38
+>
+> - **(A)** 78
+> - **(B)** 63
+> - **(C)** 72
+> - **(D)** 114
+> - **(E)** 67
+
+**Answer:** E
+[[src_archimede_2022_biennio__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f1__Q02
 parent: src_obm_1999_n1_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Calculator keys D (duplicate units digit) and T (erase units digit); find result for 1999.*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tasti di calcolatore D (numero di unità duplicate) e T (numero di unità di cancellazione); trovare il risultato per 1999.*
+
+> La calcolatrice di Juliana è piuttosto insolita. Ha una chiave $\mathbf{T}$ che cancella la cifra di unità del numero sul display, e una chiave $\mathbf{D}$ che duplica la cifra di unità del numero sul display. Per esempio, se 123 è sul display e premere $\mathbf{D}$ otteniamo 1233; premere $\mathbf{T}$ dà 123; premere $\mathbf{D}$ di nuovo dà 1233; premere $\mathbf{D}$ di nuovo dà 12333. Supponiamo che il 1999 sia in mostra. Se premete in ordine $\mathbf{D}$, $\mathbf{D}$, $\mathbf{T}$, $\mathbf{D}$, il numero mostrato sarà:
+> 
+> (A) 96 Quad (B) 98 Quad (C) 123 Quad (D) 79 Quad (E) 99
+
+**Risposta:** D
+[[src_obm_1999_n1_f1__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q16
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Scalene triangle with sides x,y satisfying area condition; x=60, y=63; find largest side*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo di scala con lati x,y che soddisfano la condizione di superficie; x=60, y=63; trovare il lato più grande*
+
+> I lati $x$ e $y$ di un triangolo scaleno soddisfano $x + \dfrac{2\Delta}{x} = y + \dfrac{2\Delta}{y}$, dove $\Delta$ è l'area del triangolo. Se $x = 60$, $y = 63$, qual è la lunghezza del lato più grande del triangolo?
+
+[[src_ioqm_2020__Q16]]

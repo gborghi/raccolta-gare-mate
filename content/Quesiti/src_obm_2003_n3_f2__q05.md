@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f2__Q05
 parent: src_obm_2003_n3_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability that a 3x3 coloring contains a monochromatic 2x2 square*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\dfrac{95}{256}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pVKqURzPw84tCEK8gfD_OWrWrg3t7l7s/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Probabilità che un colorante 3x3 contenga un quadrato monocromatico 2x2*
+
+> Un quadrato di lato $3$ è diviso in quadrati di unità $9$ che formano una griglia $3 \times 3$. Ogni quadrato unitario è dipinto blu o rosso, ogni colore scelto con probabilità $\frac{1}{2}$, indipendentemente dagli altri. Qual è la probabilità che, dopo aver colorato tutti i quadrati unitari, almeno un quadrato $2 \times 2$ (allineato con la griglia) sia interamente di un colore?
+
+**Risposta:** \dfrac{95}{256}
+[[src_obm_2003_n3_f2__Q05]]

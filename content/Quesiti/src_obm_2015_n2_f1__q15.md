@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q15
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max cubes stackable in a tower so neighbors differ in color*
 
@@ -48,3 +51,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Max cubes stackable in una torre in modo che i vicini differiscono di colore*
+
+> Fabiana ha 55 cubes della stessa taglia, 10 rossi, 15 blu e 30 verdi. Lei vuole costruire una singola torre che impichi questi cubetti in modo tale che due cubetti vicini abbiano sempre colori diversi. Quanti cubetti può mettere a piombo?
+> 
+> (A) 39 (B) 51 (C) 52 (D) 54 (E) 55
+
+[[src_obm_2015_n2_f1__Q15]]

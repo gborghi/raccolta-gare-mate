@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2023 - VI Finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_femminile__Q05
 parent: src_squadre_2023_femminile
 competition: Gara a Squadre Femminile 2023 - VI Finale
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore f_2023(2023) con f0=1/(1-x) iterata*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4045
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Value f_2023(2023) with f0=1/(1-x) iterated< MSK1/>
+
+> In the waiting room, Krull meets Vector, who managed to steal the pyramid. Curious, he asks him how he did it. Tronfio, Vector replies: "You must imagine two circumferences Γ1 and Γ2 of rays 7 and 41, respectively, tangent externally at point P. Then you take r a tangent line at both circumferences and Q is the tangent point of r with Γ2 (which is different from P). Given that R is the P-distinguished intersection between the PQ straight and Γ1, consider the tangent line at Γ1 in R. You'd know how I did it if you knew how far the straight s is from the center of Γ2!" "Hey, what? And how would it help me understand?" Answer by the distance of s from the center of Γ2.
+
+**Answer:** 4045
+[[src_squadre_2023_femminile__Q05]]

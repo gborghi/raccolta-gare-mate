@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q11
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute parking fee for a given time interval*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fee di parcheggio per un determinato intervallo di tempo*
+
+> Un parcheggio impone < MSK0/> reali per la prima ora e < MSK1/> centavos per ogni ora successiva o frazione di essa. André ha parcheggiato la sua auto a $11$h\\$20$min e se ne è andato a $15$h\$40$min. Quanti reais deve pagare per il parcheggio?
+>
+> - **(A)** $2.50$
+> - **(B)** $4.00$
+> - **(C)** $5.00$
+> - **(D)** $4.75$
+> - **(E)** $3.75$
+
+**Risposta:** B
+[[src_obm_1998_n1_f1__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q22
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chilometri camminati da Alfredo (salita/discesa)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Kilometres walked by Alfredo (up and down) *
+
+> Alfredo goes for a walk: the first stretch of road is flat, the second up. It's back the same way and takes two hours overall. Its speed is 4 km/h on flat land, 3 km/h up and 6 km/h down. How many miles has Alfredo walked? A) You cannot answer, because it depends on the length of the road in the plane. B) 6 C) 7.5 D) 8 E) 10
+
+**Answer:** D
+[[src_kangourou_2007_cadet_marzo__Q22]]

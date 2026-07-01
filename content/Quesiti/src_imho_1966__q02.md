@@ -1,6 +1,7 @@
 ---
 title: IMO 1966 (VIII International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1966__Q02
 parent: src_imho_1966
 competition: IMO 1966 (VIII International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prove triangle is isosceles given a trigonometric side condition*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Prove triangle is isosceles given a trigonometric side condition*
+
+> Let $a$, $b$, $c$ be the lengths of the sides of a triangle, and $\alpha$, $\beta$, $\gamma$, respectively, the angles opposite these sides. Prove that if the triangle is isosceles.
+
+[[src_imho_1966__Q02]]

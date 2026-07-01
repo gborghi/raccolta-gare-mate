@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f3__Q03
 parent: src_obm_2011_n2_f3
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Game: Jade recovers product of Esmeralda's 2011-number list*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FQup9_FXEn3vNvvzDk-gCVzfK-BezMBX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Gioco: Jade recupera il prodotto della lista numero 2011 di Esmeralda
+
+> Esmeralda e Jade giocano a un gioco. Esmeralda fa un elenco di numeri interi positivi $2011$, ma non lo mostra a Jade. Jade può porre a Esmeralda qualsiasi domanda del modulo: "Qual è il GCD o l'LCM di qualsiasi sottoinsieme dei numeri dell'elenco con più di un elemento?" (ad esempio, "Qual è il GCD dei numeri $1$st, $2$nd, e $2000$th dell'elenco?", o "Qual è il LCM di tutti i numeri $2011$ dell'elenco?"). Jade può porre quante domande vuole, ottenendo risposte corrette da Esmeralda (Esmeralda è generosa e dice anche a Jade l'LCM di ogni sottoinsieme dei suoi numeri). Jade può quindi applicare una qualsiasi delle quattro operazioni aritmetiche di base (addizione, sottrazione, moltiplicazione, divisione) ai numeri ottenuti da Esmeralda. Jade può sempre trovare una strategia per determinare il prodotto di tutti i numeri $2011$ della lista di Esmeralda? Giustifica la tua risposta.
+
+[[src_obm_2011_n2_f3__Q03]]

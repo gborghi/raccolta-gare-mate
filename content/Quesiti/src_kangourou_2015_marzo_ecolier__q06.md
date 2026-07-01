@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q06
 parent: src_kangourou_2015_marzo_ecolier
 competition: Kangourou 2015 gara 19 marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *percorso*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total number of vehicles registered in the Union.
+
+![[src_kangourou_2015_marzo_ecolier__prob6.png]]
+
+> On a circumference, nine points are marked and numbered. Starting from point 1, James has drawn the segment linking him to point 3, then he has drawn the segment linking point 3 to point 5: the figure shows you what James has done so far. Now James intends to continue in this way in tracing the segments, skipping a point each time, and stopping when he returns again to point 1. Which of the following routes will James have to trace?
+>      
+> A) B) C) D) E)
+
+**Answer:** E
+[[src_kangourou_2015_marzo_ecolier__Q06]]

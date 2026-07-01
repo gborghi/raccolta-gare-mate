@@ -1,6 +1,7 @@
 ---
 title: XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007__Q04
 parent: src_cesenatico_2007
 competition: XXIII Olimpiade Italiana Cesenatico 2007
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *massimo euro garantiti*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 32 euro
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1f34U527qzfJNiSRUXGF8n4qcd2jD3ko5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*maximum guaranteed euro *
+
+> Alberto, to celebrate Barbara's birthday, proposes to play the following game: given the sum of the numbers 0, 1, . . . , 1024, Barbara removes 29 numbers from this total. In the next step, Alberto removes the remaining 28 numbers. You play Barbara again, who removes 27 and so on, until there are only 2 numbers a and b. Alberto at this point has to pay Barbara a-a-b thousand euros. Determine the maximum amount of euro Barbara is sure to be able to collect, regardless of the strategy adopted by Alberto.
+
+**Answer:** 32 euro
+[[src_cesenatico_2007__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q05
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio nomi PDOR con partizioni di 4*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8519
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting PDOR names with partitions of 4*
+
+> Ceelvyer, who is part of the very wealthy House of Lannister, evaluates personal names in a slightly unusual way. It classifies the 21 capital letters of the Italian alphabet according to their topological character: the number of holes in their printed writing. The letter B is 2, the letters A, D, O, P, Q, R are 1 each, all the others are 0. Then evaluate the value of a name as the sum of the values of the component letters. After careful analysis, she decides to name her fourth child PDOR after considering all four-letter lists (even with only consonants) and with the same value. How many four-letter lists with the same PDOR value that Ceelvyer Lannister excluded?
+
+**Answer:** 8519
+[[src_gs_2013_squadre__Q05]]

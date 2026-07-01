@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q01
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of 2^6+2^6+2^6+2^6-4^4*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Valore di 2^6+2^6+2^6+2^6-4^4
+
+> Che cos' è < MSK0/>?
+> 
+> **A)** $0$ $\quad$ **B)** $2$ $\quad$ **C)** $4$ $\quad$ **D)** $4^2$ $\quad$ **E)** $4^4$
+
+**Risposta:** A
+[[src_obm_2004_n2_f1__Q01]]

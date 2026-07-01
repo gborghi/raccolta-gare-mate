@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q16
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quadrilateral ABCD with given angles; find angle DBC*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrilaterale con angoli dati; angolo di ricerca DBC*
+
+> Dato il quadrilaterale $ABCD$ tale che $\angle CAD = 25^\circ$, $\angle ACD = 45^\circ$ e $\angle BAC = \angle BCA = 20^\circ$, qual è il valore dell'angolo $\angle DBC$?
+> 
+> (A) $40^\circ$ (B) $45^\circ$ (C) $50^\circ$ (D) $55^\circ$ (E) $60^\circ$
+
+[[src_obm_2008_n3_f1__Q16]]

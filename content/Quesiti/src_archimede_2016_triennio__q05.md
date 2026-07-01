@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Triennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_triennio__Q05
 parent: src_archimede_2016_triennio
 competition: Giochi di Archimede 2016 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tre coppie con maglie di colore diverso*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Three pairs of different coloured knitted or crocheted fabrics< MSK1/>
+
+> Six people (two in a red shirt, two in a blue shirt, two in a yellow shirt), to play briscola, want to divide themselves into three teams of two people each. In how many ways can they divide, so that the two in each team have different colored jerseys?
+>
+> - **(A)** 24
+> - **(B)** 8
+> - **(C)** 11
+> - **(D)** 4
+> - **(E)** 15
+
+**Answer:** B
+[[src_archimede_2016_triennio__Q05]]

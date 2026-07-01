@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_2livello__Q14
 parent: src_archimede_2007_2livello
 competition: Archimede Gara 2° livello 2007 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Per quanti a il sistema simmetrico ha soluzioni intere*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 19
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*For those in the symmetric system with whole solutions *
+
+> If a is a positive integer less than 100, for how many values of a system x2 = y + a y2 = x + a does it have whole solutions?
+
+**Answer:** 19
+[[src_archimede_2007_2livello__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Cadet (15 marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_cadet__Q27
 parent: src_kangourou_2001_cadet
 competition: Kangourou 2001 - Cadet (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Esagoni del pallone da calcio*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Hexagons of the football *
+
+> A soccer ball is sewn with pieces of leather shaped like a regular pentagon or regular hexagon. Each pentagon is surrounded by five hexagons and each hexagon is surrounded by three pentagons and three hexagons. The ball has 12 pentagons. How many hexagons does he have?
+>
+> - **(A)** 60
+> - **(B)** 30
+> - **(C)** 20
+> - **(D)** 15
+> - **(E)** 10.
+
+**Answer:** C
+[[src_kangourou_2001_cadet__Q27]]

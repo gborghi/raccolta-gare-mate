@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f1__Q02
 parent: src_obm_2016_n2_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Position of Josias in a line given people before and after*
 
@@ -45,3 +48,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Posizione di Josias in una linea data alle persone prima e dopo*
+
+> Lasciate che la posizione di Josias in una riga sia $x$. Poi arrivarono persone prima di lui e persone dopo. Determinare < MSK3/>. (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+
+**Risposta:** C
+[[src_obm_2016_n2_f1__Q02]]

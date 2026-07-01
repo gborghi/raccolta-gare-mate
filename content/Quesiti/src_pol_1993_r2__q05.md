@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r2__Q05
 parent: src_pol_1993_r2
 competition: Olimpiade Matematica Polacca 1993 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Points D,E,F on sides of triangle ABC give three corner triangles with equal inradii r1; prove r1+r2=r where r2,r are inradii of DEF and ABC.*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NgcL0QAd2CG62bFmgawlLI7Z2DvH7hOH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I punti D,E,F sui lati del triangolo ABC danno tre triangoli angolari con radii uguali a r1; dimostrare r1+r2=r dove r2,r sono radii di DEF e ABC.*
+
+> $D,E,F$ siano punti sui lati $BC,CA,AB$ di un triangolo $ABC$, rispettivamente. Supponiamo che le inradii dei triangoli $AEF, BFD, CDE$ siano tutte uguali a $r_1$. Se $r_2$ e $r$ sono rispettivamente gli inradii dei triangoli $DEF$ e $ABC$, dimostrare che $r_1+r_2=r$.
+
+[[src_pol_1993_r2__Q05]]

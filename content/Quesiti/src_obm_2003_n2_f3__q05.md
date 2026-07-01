@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f3__Q05
 parent: src_obm_2003_n2_f3
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find points on circle maximising quadrilateral area given interior point*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uhVXECvta8Ycz4kch8C6GF4_k1qhNTYm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare punti su un cerchio che massimizzi l'area quadrilaterale dato punto interno*
+
+> Data una cerchia $K$ e un punto interno fisso $A$ distinto dal centro, determinare i punti $B$, $C$ e $D$ su $K$ in modo tale che l'area del quadrilaterale $ABCD$ sia il più ampia possibile.
+
+[[src_obm_2003_n2_f3__Q05]]

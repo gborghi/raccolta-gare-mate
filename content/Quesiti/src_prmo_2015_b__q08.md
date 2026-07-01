@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_b__Q08
 parent: src_prmo_2015_b
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -32,6 +33,8 @@ tags:
   - regione/b
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circular plate broken piece; midpoint of chord and arc; find radius*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 15
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Parte rotta di piastra circolare; punto medio di corda e arco; radio < MSK1/>
+
+> La figura seguente mostra un pezzo rotto di una piastra circolare di vetro. $C$ è il punto medio di $AB$ e $D$ è il punto medio di arco $AB$. Dato che $AB = 24$ cm e $CD = 6$ cm, quale è il raggio della piastra in centimetri? (La cifra non è indicata in scala.)
+
+![[src_prmo_2015_b__Q08.png]]
+
+**Risposta:** 15
+[[src_prmo_2015_b__Q08]]

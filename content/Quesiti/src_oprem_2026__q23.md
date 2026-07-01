@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2026 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2026__Q23
 parent: src_oprem_2026
 competition: Olympiades Nationales de Mathématiques (Première) 2026
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exercise 3, Q4: manual works, cutting/reflecting a 2x16 band into a garland of triominoes*
 
@@ -47,3 +50,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LLPTi5ufMEDVFp1I29WzXWLiM0F8_rKH/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esercizio 3, Q4: lavori manuali, taglio/riflessione di una banda 2x16 in una ghirlanda di triomani*
+
+> Esercizio 3 - Lavoro manuale. Nelle bande $2 \times 16$ mostrate di fronte, una simmetria di un triomino disegnata in nero rispetto all'asse $\Delta_1$ ha dato il triomino tintato di luce all'altra estremità. Per simmetria di questo nuovo triomino rispetto all'asse $\Delta_2$, poi del nuovo nuovo triomino rispetto al $\Delta_3$, e così via. (4a) Disegnare la copia in scala $1/2$ della banda 1) della dichiarazione, quindi sostituire ogni simmetria con un piano leggero, assicurandosi che i triomino rimangano visibili. Finalmente tagliati i tuoi tratti. Si ottiene una ghirlanda di $8$ triomini identici. - Perché? - Perché? La seconda fascia ne fornisce anche $8$. (4b) Scopri la bande (con la domanda sulla banda $2 \times 16$) seguendo le relative parti complementari.
+
+![[src_oprem_2026__Q23.png]]
+
+[[src_oprem_2026__Q23]]

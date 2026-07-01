@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q20
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *65 punti, geometria solida*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4000
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>65 points, solid geometry < MSK1/>
+
+> < MSK0/>Abacus sculptor< MSK1/>  65 points
+> 
+> In his spare time, Professor Abacus enjoys abstract sculpture. From a 20-centimeter-long wooden cube he draws a sculpture that is given by the union of two tetrahedra. The first has as vertices two vertices of the cube that are on the same face and two vertices that are on the diagonal of the cube; the second is obtained by rotating the first 90 degrees around the center of the cube. What is the volume of the sculpture in MSK0/?
+
+**Answer:** 4000
+[[src_archimede_2002_squadre__Q20]]

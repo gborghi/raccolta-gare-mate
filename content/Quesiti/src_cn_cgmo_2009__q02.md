@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2009 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2009__Q02
 parent: src_cn_cgmo_2009
 competition: China Girls' Mathematical Olympiad 2009
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right triangle inscribed in circle, point E on arc, point F on ray EC, BF meets circle at D, circumcenter O of DEF; prove A,C,O collinear.*
 
@@ -45,3 +48,15 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo retto inciso in cerchio, punto E in arco, punto F nel raggio EC, BF incontra il cerchio a D, circondamento O del centro di DEF; dimostrare A,C,O collineare.*
+
+> Un triangolo rettangolo $ABC$, con $\angle BAC = 90^\circ$, è inserito nel cerchio $\Gamma$. Il punto $E$ si trova all'interno dell'arco $\overarc{BC}$ (non contenente $A$), con $EA > EC$. Il punto $F$ si trova sul raggio $EC$ con $\angle EAC = \angle CAF$. Il segmento $BF$ incontra di nuovo $\Gamma$ a $D$ (diverso da $B$). $O$ indichi il centro circondario del triangolo $DEF$. Provare che i punti $A$, $C$, $O$ sono collineari. (Possibile da Bian Hongping)
+
+![[src_cn_cgmo_2009__Q02.png]]
+
+[[src_cn_cgmo_2009__Q02]]

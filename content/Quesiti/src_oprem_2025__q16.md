@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2025 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2025__Q16
 parent: src_oprem_2025
 competition: Olympiades Nationales de Mathématiques (Première) 2025
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Python: write liste_equilibres(n) returning the list of balanced numbers <= n, using sqrt()*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Python: scrivere liste_equilibres(n) restituire l'elenco dei numeri bilanciati <= n, utilizzando sqrt()*
+
+> **Esercizio 3 - Per i candidati del flusso generale NON che seguono la specialità "spe mathematics", e TUTTI i candidati del flusso tecnologico**
+> 
+> **6. Generare i numeri bilanciati nel linguaggio Python.** Scrivere una funzione `liste_equilibres(n)` prendendo come argomento un intero $n$ almeno uguale a 2 e restituendo l'elenco dei numeri bilanciati inferiori o uguali a $n$. Ricorda che `[]` è la lista vuota e che, data una lista `L` e un numero intero `i`, il comando `L.append(i)` aggiunge l'elemento `i` alla lista `L` inserendolo alla fine. Si utilizzerà l'istruzione `sqrt() ` per codificare la funzione di radice quadrata.
+
+[[src_oprem_2025__Q16]]

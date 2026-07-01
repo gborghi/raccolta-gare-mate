@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo18yq_yosen__Q10
 parent: src_jjmo18yq_yosen
 competition: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum perimeter of integer-sided triangle ABC with circle through D and E tangent to AB and AC*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 66
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Perimetro minimo del triangolo a lato intero ABC con un cerchio attraverso D ed E tangente a AB e AC*
+
+> Il triangolo $ABC$ ha lunghezze laterali interi. I punti $B$, $D$, $E$, $C$ si trovano in questo ordine sul lato $BC$, con $BD = 4$ e $EC = 7$. Un cerchio passa attraverso $D$ e $E$ ed è tangente a lato $AB$ e lato $AC$. Trova il valore minimo possibile del perimetro $AB + BC + CA$ del triangolo $ABC$.
+
+**Risposta:** 66
+[[src_jjmo18yq_yosen__Q10]]

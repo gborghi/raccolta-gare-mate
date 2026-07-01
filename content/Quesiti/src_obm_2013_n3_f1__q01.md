@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q01
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Next year after 2013 whose digits are again 0,1,2,3 in some order*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'anno successivo dopo il 2013 i cui numeri sono di nuovo 0,1,2,3 in qualche ordine*
+
+> Le cifre di quest'anno, 2013, sono $0$, $1$, $2$ e $3$, ovviamente non in questo ordine. Da ora in poi, in quanti anni si verificerà l'anno successivo i cui numeri sono $0$, $1$, $2$ e $3$ di nuovo?
+> 
+> (A) $2$ \quad (B) $9$ \quad (C) $18$ \quad (D) $90$ \quad (E) $1800$
+
+**Risposta:** C
+[[src_obm_2013_n3_f1__Q01]]

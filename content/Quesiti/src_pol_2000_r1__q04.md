@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2000 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2000_r1__Q04
 parent: src_pol_2000_r1
 competition: Olimpiade Matematica Polacca 2000 — Round 1
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle points painted in three colors; prove three same-color points form an isosceles triangle.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punti di cerchio dipinti in tre colori; dimostrare che tre punti dello stesso colore formano un triangolo di uguali osceles.*
+
+> Ogni punto di un cerchio è dipinto con uno dei tre colori. Prove che esistono tre punti dello stesso colore sul cerchio che sono vertici di un triangolo di uguale taglia.
+
+[[src_pol_2000_r1__Q04]]

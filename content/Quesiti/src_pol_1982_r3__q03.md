@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1982 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1982_r3__Q03
 parent: src_pol_1982_r3
 competition: Olimpiade Matematica Polacca 1982 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive pairs (x,y) satisfying x^2+y^2=a^2+b^2 and x^3+y^3=a^3+b^3*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qBPh1W7EiylRWktVfDLoEOsdrnYFDxsy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie positive (x,y) che soddisfano x^2+y^2=a^2+b^2 e x^3+y^3=a^3+b^3*
+
+> Trova tutte le coppie di numeri positivi $(x, y)$ che soddisfano il sistema di equazioni $$x^2 + y^2 = a^2 + b^2,$$ $$x^3 + y^3 = a^3 + b^3,$$ dove $a$ e $b$ sono dati numeri positivi.
+
+[[src_pol_1982_r3__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2013 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2013__Q05
 parent: src_cn_cmo_2013
 competition: China Mathematical Olympiad 2013
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove divisibility of binary-coefficient polynomials transfers to all bases*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prova la divisibilità dei trasferimenti di polinomi con coefficiente binario a tutte le basi*
+
+> Per ogni intero positivo $n$ e per ogni intero $i$ $(0 \leq i \leq n)$, $C_n^i \equiv c(n, i) \pmod{2}$, dove $c(n, i) \in \{0, 1\}$, e definire $$f(n, q) = \sum_{i=0}^{n} c(n, i)\,q^i.$$, $m$, $n$ e $q$ siano interi positivi con $q + 1$ non una potenza di $2$. Supponiamo che $f(m, q) \mid f(n, q)$. Prova che $f(m, r) \mid f(n, r)$ per ogni intero positivo $r$.
+
+[[src_cn_cmo_2013__Q05]]

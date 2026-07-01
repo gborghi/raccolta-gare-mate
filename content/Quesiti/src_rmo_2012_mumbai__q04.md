@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Mumbai — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_mumbai__Q04
 parent: src_rmo_2012_mumbai
 competition: Regional Mathematical Olympiad 2012
@@ -31,6 +32,8 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a product relation among segments using a right angle and a perpendicular*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove un rapporto di prodotto tra i segmenti utilizzando un angolo retto e un angolo perpendicolare*
+
+> Il $AEB$ deve essere tale che $\angle AEB = 90^\circ$ e il $ED$ deve essere perpendicolare a $AB$. Prove che $AD \cdot DB = HD \cdot CD$, cioè che $\dfrac{AD}{CD} = \dfrac{HD}{DB}$, dove i punti $C$, $E$, $H$, $D$ sono come nella figura di accompagnamento (con $\angle DAH = \angle BCD$ e $\angle DAH = \angle CDB$ in modo che i triangoli $ADH$ e $CDB$ siano simili).
+
+![[src_rmo_2012_mumbai__Q04.png]]
+
+[[src_rmo_2012_mumbai__Q04]]

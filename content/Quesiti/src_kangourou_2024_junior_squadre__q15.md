@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Junior Finale 1 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_squadre__Q15
 parent: src_kangourou_2024_junior_squadre
 competition: Kangourou Squadre 2024 Junior Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero 3 cifre con condizioni e fattori distinti*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0781
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/19twDyCIYYYLPZm2ICyi_V91n9zEgBbys/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of 3 digits with distinct conditions and factors*
+
+> Three digits Of a positive integer we know that it has three digits, that the sum of the digits of the units with that of the hundreds coincides with the number of the tens, that its factorization at first sees factors all different from each other and that it is the largest compatible with these constraints. What's the number?
+> 
+> Kangourou of Mathematics 2024 Junior Cup to teams Final 1 Cervia, 5 May 2024
+>  
+> Securities and replies
+
+**Answer:** 0781
+[[src_kangourou_2024_junior_squadre__Q15]]

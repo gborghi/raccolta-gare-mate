@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q10
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Bugiardi e sinceri in fila con risposte a pattern, massimo bugiardi*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1009
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Liars and truthful in line with pattern responses, maximum liars*
+
+> In the president's room of the Museum of Heads in New York City, there are 2017 heads in a row: however, some presidents always lie, others always tell the truth. To uncover the liars, Liela asks each of them (except the last one) if the next president is sincere. As answers, in order, you get a yes, then a yes and a no, then a yes and two no, then a yes and three no, and so on until 2016. How many liars are there at most?
+
+**Answer:** 1009
+[[src_squadre_2018_finale__Q10]]

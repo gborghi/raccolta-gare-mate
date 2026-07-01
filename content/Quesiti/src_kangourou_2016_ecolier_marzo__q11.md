@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (gara marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q11
 parent: src_kangourou_2016_ecolier_marzo
 competition: Kangourou 2016 Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Nuova somma sostituendo 201 con 102*
 
@@ -42,3 +45,15 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*New sum by replacing 201 with 102*
+
+> Nino sums up seven numbers and gets 2016. One of the numbers that adds up is 201. If I wrote 102 instead of 201, what would you get? A) 1815 B) 1914 C) 1917 D) 2115 E) 2118
+>
+
+**Answer:** C
+[[src_kangourou_2016_ecolier_marzo__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1971-72 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1971-72_round2__Q01
 parent: src_bmo_1971-72_round2
 competition: British Mathematical Olympiad 1971-72 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Label regular n²-gon vertices with digits 1,2 satisfying four conditions*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1k2yo3ejkX0AY0rDb7QgQWMTuPK1MocPt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Etichettatura di vertici regolari n2-gon con cifre 1,2 che soddisfano quattro condizioni< MSK1/>
+
+> Mostra come assegnare ai vertici di un poligono regolare con vertici $n^2$ numeri tali che: (i) vengono utilizzate solo le cifre $1$ e $2$; (ii) vengono utilizzate solo le cifre $n$; (iii) ogni vertice ha un numero diverso; e (iv) i vertici vicini hanno numeri diversi in un solo e solo luogo di una cifra.
+
+[[src_bmo_1971-72_round2__Q01]]

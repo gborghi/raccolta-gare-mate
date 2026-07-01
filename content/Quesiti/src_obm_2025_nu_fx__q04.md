@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2025 — Nível Universitário — Fase x —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2025_nu_fx__Q04
 parent: src_obm_2025_nu_fx
 competition: Olimpíada Brasileira de Matemática 2025 — Nível Universitário — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Matrices satisfying AB=P(A) imply A invertible and AB=BA*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13bcEYRAi-4qTqqDPM-7tUBCWHbYLc-du/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Matrici che soddisfano AB=P(A) implicano A invertibile e AB=BA*
+
+> Lasciate che $A, B \in M(n, \mathbb{C})$, cioè $A, B$ siano matrici $n \times n$ con voci in $\mathbb{C}$, e lasciate che $P \in \mathbb{C}[X]$ sia un polinomio non costante tale che $P(0) \ne 0$ e $AB = P(A)$. Prova che la matrice $A$ è invertibile e che $A$ e $B$ viaggiano (cioè $AB = BA$).
+
+[[src_obm_2025_nu_fx__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 2001 (XLII International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2001__Q06
 parent: src_imho_2001
 competition: IMO 2001 (XLII International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Integers a>b>c>d>0 with a product condition; ab+cd is not prime*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qMACSEbbsGH_u046vbY-UauBhiht0ZaG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Integers a>b>c>d>0 with a product condition; ab+cd is not prime*
+
+> Let $a$, $b$, $c$, $d$ be integers with $a > b > c > d > 0$. Suppose that $$ac + bd = (b + d + a - c)(b + d - a + c).$$ Prove that $ab + cd$ is not prime.
+
+[[src_imho_2001__Q06]]

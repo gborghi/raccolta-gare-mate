@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q17
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppia di pile non realizzabile a turni*
 
@@ -54,3 +57,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pair of batteries not to be carried out in turns*
+
+![[src_kangourou_2021_benjamin__prob17.png]]
+
+> Roberto has four white tokens and Vittorio has four grays. They in turn display one of their tokens to form two equal height piles. Roberto starts the game. Which of the five pairs of batteries you see below can't be made? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** E
+[[src_kangourou_2021_benjamin__Q17]]

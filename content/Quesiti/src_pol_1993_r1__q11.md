@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r1__Q11
 parent: src_pol_1993_r1
 competition: Olimpiade Matematica Polacca 1993 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the limit of n times the probability that two of six randomly placed pawns share a row or column.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il limite di n volte la probabilità che due dei sei pedoni posizionati in modo casuale condividano una riga o una colonna.*
+
+> Sei pedoni vengono posizionati a caso su una scacchiera $n\times n$. La probabilità che almeno due dei pedoni si trovino nella stessa riga o colonna è $p_n$. Trova < MSK2/>.
+
+[[src_pol_1993_r1__Q11]]

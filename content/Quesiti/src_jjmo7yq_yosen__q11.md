@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo7yq_yosen__Q11
 parent: src_jjmo7yq_yosen
 competition: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count selections of balls labeled 1–9 satisfying a box-difference condition*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JSUMowa9JI8Y3BaqBeZ4gyyU1TBF9Jpp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggiamo le selezioni di palle etichettate 19 che soddisfano la condizione di differenziazione fra caselle*
+
+> Ci sono sfere $9$, etichettate con i numeri interi $1$ fino a $9$ (un intero per sfera). Scegli un po' di queste palle. La regola è: inserire le palle scelte in una scatola rossa e le palle rimanenti in una scatola blu, in modo che per due palle nella stessa scatola la differenza assoluta delle etichette sia almeno $3$. Trova il numero di modi per scegliere le palle che soddisfano questa condizione. (La scelta di nessuna palla conta come modo $1$.)
+
+[[src_jjmo7yq_yosen__Q11]]

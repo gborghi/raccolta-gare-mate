@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q19
 parent: src_cesenatico_2005_squadre_finale
 competition: Gara a Squadre Cesenatico 2005 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza aree triangoli equilateri inscritti in quadrato*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0311
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Different areas of equilateral triangles inscribed in square*
+
+> Old memories Polynomial Jones found an old photo in the attic from his school days, which depicts himself, his girlfriend Claire Petiblanc and Von Kernel, once his friend. Their favourite game was to set up on the edge of the school square, a square of 100m, so that all three were at the same distance from each other. Calculate the difference between the areas of the two triangles, that of maximum area and that of minimum area, of vertices of the three companions.
+
+**Answer:** 0311
+[[src_cesenatico_2005_squadre_finale__Q19]]

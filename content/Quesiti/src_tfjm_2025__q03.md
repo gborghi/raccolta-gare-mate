@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2025__Q03
 parent: src_tfjm_2025
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025
@@ -39,6 +40,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Different families of marking schemes graduate a circular pie plate so that it can be cut into convex pieces of equal size; compare numbers of graduations needed.*
 
@@ -81,3 +84,39 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lHouVzMpsDZ0eOZtTQ2RMXik8VTIniH-/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Diverse famiglie di schemi di marcatura graduano una piastra circolare in modo che possa essere tagliata in pezzi convexi di uguale dimensione; confrontare i numeri di graduation necessari.*
+
+> Il problema 3 - piatti di torta graduati.
+> 
+> Durante un torneo di torte, famiglie diverse vogliono dividere le loro torte in tagli uguali. Ciascuna famiglia fabbrica il suo modello in modo che sulla targa possa indicare i graduati corrispondenti ai tagli; i graduati sono posizionati sul bordo (un cerchio) della targa, e un taglio tra due graduati deve dare pezzi convexi. Indichiamo $N \ge 2$ il numero di divisioni-numeri distinti che una famiglia desidera laureare. (Cfr. figura 5: in blu, il bordo della tarta e le sue graduazioni; in nero, i punti in cui si deve tagliare a seconda del numero di pezzi; in arancione, i normali < MSK1/>-gons utilizzati per posizionare le graduazioni. In questo esempio ci sono < MSK2/> laureati.)
+> 
+> 1. Vogliamo laureati $N = 2$, cioè $S = \{a, b\}$ con $a, b \in \mathbb{N}^*$ distinto. Qual è il numero minimo di graduazioni sulla tarta per poter tagliare la tarta in parti uguali $a$ o $b$?
+> 
+> 2. Vogliamo laureati $N = 3$, cioè $S = \{a, b, c\}$ con $a, b, c \in \mathbb{N}^*$ separati in coppia. Qual è il numero minimo di graduazioni per poter tagliare la torta in parti uguali $a$, $b$ o $c$?
+> 
+> D'ora in poi, quattro famiglie diverse si affrontano. Ogni famiglia deve scegliere $N$ valori distinti per la laurea, $S = \{u_1, \ldots, u_N\}$: - La famiglia Prime sceglie di laurea i primi numeri primi $N$, $S_N^P = \{p_1, p_2, \ldots, p_N\}$. - La famiglia Geometrica sceglie un numero intero $a \ge 2$ e gradua le potenze di $a$, $S_N^G = \{1, a, a^2, \ldots, a^{N-1}\}$. - La famiglia Complete sceglie di graduare i primi numeri naturali < MSK7/>, < MSK8/>. - La famiglia Dividita sceglie il numero intero più piccolo $\alpha_N$ ammettendo esattamente $N$ divisori $d_{1,\alpha_N}, \ldots, d_{N,\alpha_N}$, e si graduano questi divisori $N$, $S_N^D = \{d_{1,\alpha_N}, \ldots, d_{N,\alpha_N}\}$.
+> 
+> Per esempio, se $N = 6$: $S_6^P = \{2, 3, 5, 7, 11, 13\}$; $S_6^G = \{1, 2, 4, 8, 16, 32\}$ per $a = 2$; $S_6^C = \{1, 2, 3, 4, 5, 6\}$; $S_6^D = \{1, 2, 3, 4, 6, 12\}$ per $\alpha_6 = 12$.
+> 
+> 3. Il primo ministro (resp. La famiglia Geometrica, Completa, Divisa conta il numero di laureati < MSK0/> (resp. $G_N^G$, $G_N^C$, $G_N^D$) che devono apparire sul bordo della tarta. Determinare: a) $G_N^P$ per la famiglia Prime; b) $G_N^G$ per la famiglia Geometric; c) $G_N^C$ per la famiglia Completa; d) $G_N^D$ per la famiglia Dividita. Indicare un valore esatto o una stima (il più preciso possibile) di questi valori per le quattro famiglie.
+> 
+> Le famiglie vogliono mettere il minor numero possibile di laureati sul piatto. Non richiedono che tutte le laurea siano partite dalla stessa origine e possono essere inserite in modo efficiente.
+> 
+> 4. Possiamo dare un esempio di famiglia in cui è possibile inserire meno laurea quando non tutte le laurea iniziano nello stesso punto? a) if $N = 3$? b) if $N = 4$? c) per un altro valore di < MSK3/>?
+> 
+> 5. Quando si raggiunge questo minimo, per ciascuna delle quattro famiglie sopra descritte, quante laureati si metterebbero almeno nello stesso cerchio?
+> 
+> 6. Esiste un valore $N$ tale che per tutte le $n > N$ l'ordine di ottimalità delle laurea poste dalle quattro famiglie $G_N^P, G_N^G, G_N^C, G_N^D$ finisce sempre per essere lo stesso? Se sì, qual è il valore?
+> 
+> 7. Esiste una sequenza $(u_n)_{n \in \mathbb{N}^*}$ tale che per tutte le $N \in \mathbb{N}^*$, $G_N^C \le \min(G_N^P, G_N^G, G_N^C, G_N^D)$?
+> 
+> 8. Proporre e esplorare altre linee di ricerca.
+
+![[src_tfjm_2025__Q03.png]]
+
+[[src_tfjm_2025__Q03]]

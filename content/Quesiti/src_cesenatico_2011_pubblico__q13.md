@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q13
 parent: src_cesenatico_2011_pubblico
 competition: Gara a Squadre Cesenatico 2011 - Gara del pubblico
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita tornare all'ufficio 73 (permutazione)*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+It's likely to return to office 73 (shift)
+
+> With no way out [50] Abelix has to get past one of the Facies imposed by Cleopatra, he has to get a pass A-38 issued from office 73, at the palace of the Roman prefect, where the mad bureaucracy forces him to turn from one to the other of the 100 offices there (numbered 1 to 100). In fact, the prefect had previously prepared a day with tickets numbered from 1 to 100 and had one drawn from each office. Whenever Abelix asks an office for a document, the employees explain that he needs another document first, to be obtained at another office whose number they read from the ticket. Abelix regularly starts by asking for the A-38 passport at the 73 office and for a while follows the instructions, but after 900 times he is discouraged and decides to go to the tough manners with the employees of the office in front of him. What are the odds that I'll end up getting into trouble with the very employees of office 73? As a response, provide the first four digits after the comma.
+
+**Answer:** 2100
+[[src_cesenatico_2011_pubblico__Q13]]

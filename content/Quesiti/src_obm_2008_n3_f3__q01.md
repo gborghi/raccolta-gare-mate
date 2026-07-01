@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f3__Q01
 parent: src_obm_2008_n3_f3
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove every positive integer is 'gaudy' (has multiple starting with 2008)*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Xdlk10kOctV84Jj1WlZYi4mgeMhHN8nP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che ogni intero positivo è 'gaudy' (ha multipli a partire dal 2008) *
+
+> Chiamiamo un intero positivo *gaudy* se ha un multiple le cui prime quattro cifre decimali sono $2008$. Ad esempio, $7$ è gaudy perché $200858$ è un multiple di $7$ e inizia con $2008$ (nota che $200858 = 28694 \times 7$). Prove che ogni intero positivo è goody.
+
+[[src_obm_2008_n3_f3__Q01]]

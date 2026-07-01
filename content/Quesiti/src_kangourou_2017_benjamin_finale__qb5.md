@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (finale Cervia) — Quesito B5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_finale__QB5
 parent: src_kangourou_2017_benjamin_finale
 competition: Kangourou 2017 Benjamin (finale Cervia)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo dei due voli con vento costante da A verso B*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** un tempo maggiore
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10o3_Kq9VXpAG6jJgjn7UgIrlMfXVipvA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Time of two flights with constant wind from A to B*
+
+> A line aircraft shall fly daily from an airport $A$ to an airport $B$ and return from $B$ to $A$ along the same straight route, always keeping the engines at maximum power. Yesterday there was no wind, but today there was a steady wind from $A$ to $B$ throughout the day. Overall, did both flights take the same amount of time today as yesterday? Less time? More time? Justify your answer as you see fit.
+
+**Answer:** un tempo maggiore
+[[src_kangourou_2017_benjamin_finale__QB5]]

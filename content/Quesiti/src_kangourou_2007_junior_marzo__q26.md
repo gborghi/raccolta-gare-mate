@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q26
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Divisori di k (10k quadrato, 6k cubo)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>K dividers (10k squared, 6k cubic) < MSK1/>
+
+> k is the smallest positive integer with this property: 10k is a perfect square and 6k is a perfect cube. How many positive divisors does the number k have ? A) 30                B) 40                C) 54                D) 72                E) 96
+
+**Answer:** D
+[[src_kangourou_2007_junior_marzo__Q26]]

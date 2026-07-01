@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2021_n3_fx__Q06
 parent: src_obm_2021_n3_fx
 competition: Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bicentric n-gon: circle tangent to circumcircles of semicircle-intersection triangles*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17H-vwLFAdIazq1JXS3IN18t1GGmAcKXp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N-gon bicentrico: cerchio tangente ai circoncircoli dei triangoli di intersezione semicircolare*
+
+> $n \ge 5$ sia un numero intero. Il poligono $P = A_1 A_2 \cdots A_n$ è *bicentrico*, cioè ha sia un cerchio inciso che un cerchio circonscritto. Definire $A_{i+n} = A_i$ per tutti $i$ (tutti gli indici sono presi modulo $n$). Supponiamo che per ogni $i$, $1 \le i \le n$, i semicircoli sui segmenti $A_{i-1}A_i$ e $A_i A_{i+1}$ (come diametri, disegnati sullo stesso lato) si incontrino al punto $B_i$. $\omega_i$ sia il circoncircolo del triangolo $B_i A_i A_{i+1}$. Prova che esiste un cerchio tangente contemporaneamente a tutti i cerchi $n$ $\omega_i$, $1 \le i \le n$.
+
+[[src_obm_2021_n3_fx__Q06]]

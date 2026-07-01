@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Finale (risposta aperta) — Quesito J1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_finale__QJ1
 parent: src_kangourou_2023_junior_finale
 competition: Kangourou 2023 Junior — Finale (risposta aperta)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *media*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZqUD0phTjD1vGI9FmGiQjE0m_DFPuY6r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The following information shall be provided:
+
+> I have at my disposal a large number of items of each of the following weights: 1, 2, 3, 4 and 5 kilos. With these I have composed a set containing objects of at least three different weights: the average weight of objects of MSK1/> is an integer number of kilograms. However, the average weight of $S$ objects would remain an integer number of kilograms if you replaced each $S$ object weighing 2, 3 or 4 kilograms, respectively, with an object weighing 1, 2 or 3 kilograms, without making any further substitutions. What is the average weight of < MSK4/> objects?
+
+**Answer:** 3
+[[src_kangourou_2023_junior_finale__QJ1]]

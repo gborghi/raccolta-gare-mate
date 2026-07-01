@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1987 (28th IMO, Havana) — Quesito 1'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1987__Q01
 parent: src_imo_1987
 competition: 'IMO 1987 (28th IMO, Havana)'
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sum of k times permutations with k fixed points equals n!*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of k times permutations with k fixed points equals n!*
+
+> Let pn(k) be the number of permutations of the set {1, . . . , n}, n ≥1, which have exactly k fixed points. Prove that n x k=0 k · pn(k) = n!. (Note: A permutation f of a set S is a one-to-one mapping of S onto itself. An element i in S is called a fixed point of the permutation f if f(i) = i.)
+
+[[src_imo_1987__Q01]]

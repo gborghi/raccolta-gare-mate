@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre semifinale turno A — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q04
 parent: src_kangourou_2011_squadre_semifinale
 competition: Kangourou 2011 squadre semifinale turno A
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale problemi risolti da Gigi*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 80
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+% of problems solved by Gigi< MSK1/>
+
+> Carlo and Gigi were assigned some math problems as vacation assignments. The number of problems assigned to Carlo is four times the number of problems assigned to Gigi. When they meet again after the holidays, they find that they have solved the same number of problems, but the percentage of problems solved by Carlo is equal to the percentage of problems not solved by Gigi. What's the percentage of problems Gigi solved?
+
+**Answer:** 80
+[[src_kangourou_2011_squadre_semifinale__Q04]]

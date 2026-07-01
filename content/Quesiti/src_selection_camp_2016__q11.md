@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2016 — Selection Camp — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2016__Q11
 parent: src_selection_camp_2016
 competition: Japan IMO Selection Camp 2016 — Selection Camp
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequences defined by gcd and lcm recurrence eventually become periodic*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Le sequenze definite dalla ricorrenza gcd e lcm diventano infine periodiche< MSK1/>
+
+> Che $a_0, a_1, \ldots$ e $b_0, b_1, \ldots$ siano sequenze di integri positivi che soddisfino $a_0, b_0 \ge 2$ e, per ogni intero non negativo $n$, $$a_{n+1} = \gcd(a_n, b_n) + 1, \quad b_{n+1} = \operatorname{lcm}(a_n, b_n) - 1.$$ dimostri che esiste un intero non negativo $N$ e un intero positivo $t$ tale che $a_{n+t} = a_n$ sia valido per ogni intero $n \ge N$. (Qui $\gcd(x, y)$ e $\operatorname{lcm}(x, y)$ indicano rispettivamente il più grande divisore comune e il più piccolo multiplo comune degli integri positivi $x$ e $y$.)
+
+[[src_selection_camp_2016__Q11]]

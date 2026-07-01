@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q21
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *termine al posto 2023*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This appropriation is intended to cover expenditure relating to:
+
+> A sequence of integers is constructed as follows: the first 4 are in the order 2, 0, 2, 3; from the fifth onwards, each term of the sequence is the smallest nonnegative integer other than the previous four. What's the number in place of the 2023 sequence? A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 3
+> 	
+> E) 4
+
+**Answer:** B
+[[src_kangourou_2023_junior__Q21]]

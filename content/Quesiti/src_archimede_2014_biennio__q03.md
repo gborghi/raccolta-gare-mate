@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_biennio__Q03
 parent: src_archimede_2014_biennio
 competition: Giochi di Archimede 2014 - Biennio (Testo 1)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora di ritorno con fuso orario tra due citta*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Oz_wj_o5ytBhbhCTfVi7OLptFspmtFPH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Return time with time zone between two cities
+
+> Paperopolis is four hours' drive from Topolinia. Paperino leaves Paperopoli at 4 a.m., local time, and, due to the time zone, arrives in Topolinia at noon. What time does he get back to Paperopoli if he leaves two hours later? (A) 12 noon; (B) 2 pm; (C) 3 pm; (D) 4 pm; (E) depends on the time of lunch in Topolinia.
+
+**Answer:** B
+[[src_archimede_2014_biennio__Q03]]

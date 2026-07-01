@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q07
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione vera sulle altezze a catena*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>True claim on chain heights< MSK1/>
+
+> Bianca is 5 cm taller than Ada, but 10 cm shorter than Carla. Diana is 10 cm taller than Carla but 5 cm shorter than Enza. Which of the following statements is true? A) Bianca is 30 cm shorter than Enza. B) Enza is 15 cm taller than Diana. C) Carla is 20 cm shorter than Enza. D) Diana is 20 cm taller than Ada. E) Ada is 30 cm shorter than Enza.
+
+**Answer:** E
+[[src_kangourou_2021_cadet__Q07]]

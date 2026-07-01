@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f3__Q02
 parent: src_obm_2014_n1_f3
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of square and trapezoidal plastic cards; minimum square to tile them*
 
@@ -54,3 +57,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>L'area delle schede di plastica quadrate e trapezziali; quadrato minimo per le tessere < MSK1/>
+
+> Janaina ha molte carte di plastica, alcune in forma di quadrati uguali e altre in forma di trapezzi, come mostra la figura. La carta quadrata ha lato $10\,\text{cm}$; la carta trapezoidale ha lati paralleli $10\,\text{cm}$ e $20\,\text{cm}$, e altezza $10\,\text{cm}$.
+> 
+> a) Qual è l'area di ciascuna carta quadrata e di ciascuna carta trapezoidale?
+> 
+> b) Utilizzando una carta di ogni tipo, Jade assembla un quadrato. Qual è l'area del più piccolo quadrato che può assemblare in queste condizioni?
+> 
+> c) Desidera assemblare un quadrato con superficie $3600\,\text{cm}^2$, utilizzando il minor numero possibile di carte, uguali o meno. Quante carte sono queste?
+
+![[src_obm_2014_n1_f3__Q02.png]]
+
+[[src_obm_2014_n1_f3__Q02]]

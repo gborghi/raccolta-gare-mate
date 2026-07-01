@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_preecolier_marzo__Q04
 parent: src_kangourou_2017_preecolier_marzo
 competition: Kangourou 2017 Pre-Ecolier - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quante parti la forbice taglia il filo*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many parts the scissor cuts the wire < MSK1/>
+
+![[src_kangourou_2017_preecolier_marzo__prob4.png]]
+
+> If it follows the drawn line, how many parts will the scissor cut the wire?
+>
+> - **(A)** 6
+> - **(B)** 8
+> - **(C)** 9
+> - **(D)** 7
+> - **(E)** 5 (see figure)
+
+**Answer:** E
+[[src_kangourou_2017_preecolier_marzo__Q04]]

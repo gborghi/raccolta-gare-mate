@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r2__Q06
 parent: src_rmo_2015_r2
 competition: Regional Mathematical Olympiad 2015
@@ -35,6 +36,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find real a with 4<a<5 such that a(a-3{a}) is integer*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pE5C6xJJWRVrxBj2NXZ57hsymLDTV43n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca una reale con 4<a<5 tale che a(a-3{a}) sia un intero*
+
+> Trova tutti i numeri reali $a$ in modo tale che $4 < a < 5$ e $a(a - 3\{a\})$ siano un intero. (Qui $\{a\}$ indica la parte frazionaria di $a$. Per esempio $\{1.5\} = 0.5$; $\{-3.4\} = 0.6$.)
+
+[[src_rmo_2015_r2__Q06]]

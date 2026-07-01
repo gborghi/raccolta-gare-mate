@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q14
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A1-3: tan A, tan B roots of x^2-10x+6=0; find cos C.*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>A1-3: radici di A, B di x^2-10x+6=0; trovare cos C.< MSK1/>
+
+> [Test Paper A1, Problem 3] In $\triangle ABC$, $\tan A$ e $\tan B$ sono le due radici dell'equazione $x^2-10x+6=0$. Il valore di $\cos C$ è quindi ______.
+
+**Risposta:** \dfrac{\sqrt{5}}{5}
+[[src_cn_cmc-first-round_2021__Q14]]

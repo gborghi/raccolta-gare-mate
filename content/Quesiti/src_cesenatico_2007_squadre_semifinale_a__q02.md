@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Semifinale A — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_a__Q02
 parent: src_cesenatico_2007_squadre_semifinale_a
 competition: Gara a Squadre Cesenatico 2007 - Semifinale A
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero 4 cifre multiplo 25 con condizione cifre centrali*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number 4 multiple digits 25 with condition of central digits*
+
+> Too many graduates The morning prode Numeruto is better off on the field than on the bench. Today there is the task of history and the first question asks the exact number of Grandin's morning diplomats from the village's founding to the present day and he has no idea what the answer is. Fortunately, he manages to intercept a coded suggestion from the beautiful Otenusa directed to his rival Sekante: It is a four-digit number, multiple of 25 which, divided by 25, gives a two-digit number that, exchanged, are the central digits of the same number (such as 54 and 2450, only that 54×25 = 2450). What's the answer?
+
+[[src_cesenatico_2007_squadre_semifinale_a__Q02]]

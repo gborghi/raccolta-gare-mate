@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2013 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2013__Q03
 parent: src_cn_cmc_2013
 competition: China Mathematical Competition 2013
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find tan A given trigonometric identities in triangle*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 11
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca un'identità trigonometrica data nel triangolo*
+
+> Supponiamo che in $\triangle ABC$ abbiamo $\sin A = 10\sin B\sin C$, $\cos A = 10\cos B\cos C$. Poi < MSK3/>.
+
+**Risposta:** 11
+[[src_cn_cmc_2013__Q03]]

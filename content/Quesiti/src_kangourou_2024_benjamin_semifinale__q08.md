@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q08
 parent: src_kangourou_2024_benjamin_semifinale
 competition: Kangourou Semifinale individuale Benjamin 2024
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei due numeri di Sofia da 2(5x+y)=212*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the two numbers of Sofia from 2(5x+y) =212*
+
+> Sofia has in mind two positive integers less than 20 that differ by more than 2. Multiply one by five, add the other to the resulting product and double the result: 212. What was the sum of the two numbers he had in mind? A) 26 B) 27 C) 28 D) 29 E) 30 Answer E). I'm not alone. If x and y are the two numbers, it must be (5x + y) × 2 = 10x + 2y = 212. Since 2y can be at most 38, 10x must be at least 174, which for us means at least 180 and, of course, no more than 190. x = 18 would result in y = 16, unacceptable. So x is 19 and y is 11.
+
+**Answer:** E
+[[src_kangourou_2024_benjamin_semifinale__Q08]]

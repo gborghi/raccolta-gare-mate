@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q06
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Famiglia numerosa: relazioni tra fratelli e sorelle.*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 13 figli
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Large family: relations between brothers and sisters.*
+
+> William has twice as many brothers as he has sisters. Her sister Florence has three times as many brothers as sisters. How many children is this family made up of?
+
+**Answer:** 13 figli
+[[src_bocconi_finaleint_2008_g1__Q06]]

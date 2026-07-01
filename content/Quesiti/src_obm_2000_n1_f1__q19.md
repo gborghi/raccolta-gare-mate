@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q19
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *100th term of sequence: multiples of 7 or 8 in order*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*100° termine di sequenza: moltipli di 7 o 8 nell'ordine*
+
+> I numeri interi positivi che sono multipli di $7$ o $8$ (o entrambi) sono scritti in ordine crescente: $7, 8, 14, 16, \ldots$ Il numero $100^\text{th}$ scritto è:
+> 
+> (A) $406$ \quad (B) $376$ \quad (C) $392$ \quad (D) $384$ \quad (E) $400$
+
+**Risposta:** E
+[[src_obm_2000_n1_f1__Q19]]

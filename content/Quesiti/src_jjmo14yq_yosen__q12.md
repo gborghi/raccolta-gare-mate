@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo14yq_yosen__Q12
 parent: src_jjmo14yq_yosen
 competition: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max number N of arrow-placement configurations agreeing on targets*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero massimo N di configurazioni di posizionamento delle frecce che concordano sugli obiettivi*
+
+> Sul piano delle coordinate $xy$, da ogni punto della griglia $(x,y)$ viene tracciata una freccia che punta verso $(x+1,y)$ o $(x,y+1)$. Ora si consideri di posizionare $2016$ persone, una a ciascuno, su $2016$ punti di reticola distinte che soddisfano $x \ge 0$, $y \ge 0$, $x+y \le 62$. Per un modo fisso di disegnare le frecce, supponiamo che siano state provate diverse posizioni $N$, e che sia stata soddisfatta la seguente condizione: per ogni persona, il punto della griglia che la freccia porta dal punto di quella persona è, attraverso tutte le posizioni $N$, o occupata dalla stessa persona in tutte le $N$ di esse, o non occupata da nessuno in tutte le $N$ di esse. Trova il valore massimo possibile di < MSK13/>. Qui un punto reticolo è un punto il cui coordinato $x$ e $y$ sono entrambi numeri interi.
+
+**Risposta:** 32!\,16!\,8!\,4!\,2!\,1!
+[[src_jjmo14yq_yosen__Q12]]

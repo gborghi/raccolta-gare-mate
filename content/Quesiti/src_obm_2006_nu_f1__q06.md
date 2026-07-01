@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1 —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_nu_f1__Q06
 parent: src_obm_2006_nu_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1
@@ -39,6 +40,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability that minimum pairwise distance exceeds m*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-zF5q38838Z7BnrHtVLRS1IJQQPHcA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Probabilità che la distanza minima in coppia superi m*
+
+> Scegliere tre punti $x_1, x_2, x_3$ a caso, indipendentemente e con distribuzione uniforme su $[0, 1]$. Determinare, in funzione del numero positivo $m$, la probabilità che $$\min\{\,|x_1 - x_2|,\; |x_1 - x_3|,\; |x_2 - x_3|\,\} > m.$$
+
+[[src_obm_2006_nu_f1__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f1__Q19
 parent: src_obm_2000_n2_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Travel time from Iracimimirm to Salvador with moving traffic jam*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tempo di viaggio da Iracimimirm a Salvador con ingorghi in movimento*
+
+> Dall'Iracimimirm al Salvador lungo la Strada di Coconut è $60\text{ km}$. A $11{:}00$, un incidente provoca un ingorghi che si estende $15\text{ km}$ in direzione di Salvador e si muove a $4\text{ km/h}$. Lasciamo Iracimimirm a < MSK4/>, viaggiando a < MSK5/>; nella zona di jam la nostra velocità scende a < MSK6/>. A che ora arriviamo a Salvador?
+> 
+> A) $10\text{h}43\text{min}$ \quad B) $10\text{h}17\text{min}$ \quad C) $10\text{h}48\text{min}$ \quad D) $10\text{h}53\text{min}$ \quad E) $11\text{h}01\text{min}$
+
+**Risposta:** A
+[[src_obm_2000_n2_f1__Q19]]

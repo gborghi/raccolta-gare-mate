@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1994-95 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1994-95_round1__Q05
 parent: src_bmo_1994-95_round1
 competition: British Mathematical Olympiad 1994-95 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Seven dwarfs queue by height rule; count valid queues with and without Snow White*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RaBTRBD2IyZTMyVLq4DCAC3b07YiIr1f/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sette nane in coda secondo la regola dell'altezza; contare le code valide con e senza Biancaneve*
+
+> Le sette nane decidono di fare la fila. Insistono sulla coda in modo che, in ogni gruppo di nane consecutive nella coda, la nana più alta di quel gruppo sia in prima linea. Quante coda' sono possibili?
+> 
+> E se anche Biancaneve viene sempre?
+
+[[src_bmo_1994-95_round1__Q05]]

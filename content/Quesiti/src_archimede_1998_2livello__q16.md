@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1998 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_2livello__Q16
 parent: src_archimede_1998_2livello
 competition: Archimede Gara 2º livello 1998
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dimostrare che il raggio del circoscritto ad ABC è HM*
 
@@ -38,3 +41,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Show that the radius of the enclosure at ABC is HM*
+
+> This is the first step towards the development of a new approach.
+> 
+> Given the $ABC$ triangle with $\widehat{CAB} = \widehat{ABC} = 90°$  or with $C\hat{A}B - A\hat{B}C = 90°$  said $M$ the mean point of $AB$ and $H$ the foot of the height relative to $AB$, prove that the radius of circumference surrounded by $ABC$ is equal to $HM$.
+
+[[src_archimede_1998_2livello__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q18
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Starting from (2048,1024), operation (a,b)->((3a+b)/4,(a+3b)/4); among five listed pairs which are obtainable.*
 
@@ -61,3 +64,21 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A partire da (2048,1024), operazione (a,b) ->((3a+b)/4,(a+3b)/4); tra le cinque coppie elencate che sono disponibili.*
+
+> Partendo dalla coppia $(2048, 1024)$, possiamo applicare, quante volte vogliamo, l'operazione che trasforma la coppia $(a, b)$ nella coppia $\left(\dfrac{3a+b}{4}, \dfrac{a+3b}{4}\right)$; quindi, tra le seguenti coppie:
+>
+> 1) $(1664, 1408)$ 2) $(1540, 1532)$ 3) $(1792, 1282)$ 4) $(1537, 1535)$ 5) $(1546, 1526)$
+>
+> - **(A)** Si possono ottenere solo le coppie 1 e 2.
+> - **(B)** Solo la coppia 4 non può essere ottenuta.
+> - **(C)** Non è possibile ottenere solo la coppia 3.
+> - **(D)** Si possono ottenere solo le coppie 4 e 5.
+> - **(E)** Esistono più di due coppie che non si possono ottenere.
+
+[[src_obm_2006_n3_f1__Q18]]

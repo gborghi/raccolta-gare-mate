@@ -1,6 +1,7 @@
 ---
 title: IMO 1990 (XXXI International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1990__Q05
 parent: src_imho_1990
 competition: IMO 1990 (XXXI International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Two-player integer sequence game; determine winning strategies*
 
@@ -53,3 +56,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Nm9GUxDj1LQ81dyXFSu02uDt1RWquol/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Two player integer sequence game; determine winning strategies
+
+> Given an initial integer $n_0 > 1$, two players $\mathcal{A}$ and $\mathcal{B}$ choose integers $n_1$, $n_2$, $n_3$, $\ldots$ alternately according to the following rules: Knowing $n_{2k}$, $\mathcal{A}$ chooses any integer $n_{2k+1}$ such that $$n_{2k} \le n_{2k+1} \le n_{2k}^2.$$ Knowing $n_{2k+1}$, $\mathcal{B}$ chooses any integer $n_{2k+2}$ such that $$\frac{n_{2k+1}}{n_{2k+2}}$$ is a prime raised to a positive integer power. Player $\mathcal{A}$ wins the game by choosing the number 1990; player $\mathcal{B}$ wins by choosing the number 1. For which $n_0$ does: (a) $\mathcal{A}$ have a winning strategy? (b) $\mathcal{B}$ have a winning strategy? (c) Neither player has a winning strategy?
+
+[[src_imho_1990__Q05]]

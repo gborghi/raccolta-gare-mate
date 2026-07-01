@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet finale individuale — Quesito C3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_finale__QC3
 parent: src_kangourou_2022_cadet_finale
 competition: Kangourou 2022 Cadet finale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti triangoli equilateri congiungendo vertici di un cubo*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 8
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wbo9K2jytgSW3Apd8Ui4HwgiuetWkwYM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of equilateral triangles joining vertices of a cube< MSK1/>
+
+> Of the triangles obtained by joining three vertices of the same cube, how many are equilaterals?
+
+**Answer:** 8
+[[src_kangourou_2022_cadet_finale__QC3]]

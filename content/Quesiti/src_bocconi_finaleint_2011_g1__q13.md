@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 1) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g1__Q13
 parent: src_bocconi_finaleint_2011_g1
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dividere figura in 5 parti con sovrapposizione*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sharing is shown in 5 parts with overlay*
+
+> Divide this figure into five overlapping parts according to the lines of squaring. The overlap of two parts may require one of the two to be overturned.
+
+![[src_bocconi_finaleint_2011_g1__Q13.png]]
+
+[[src_bocconi_finaleint_2011_g1__Q13]]

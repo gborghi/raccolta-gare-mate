@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo32ya_yosen__Q06
 parent: src_jmo32ya_yosen
 competition: Japan Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Colorings of triangular-tile board with balanced-color condition at each vertex*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 68
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Colori di tavola a tessuto triangolare con condizione di colore equilibrata a ciascun vertex*
+
+> Una tavola è costituita da piastrelle triangolari equilaterali $36$ disposte in una griglia triangolare con vertici interni contrassegnati $30$. Colora ogni piastrella di colore rosso o blu in modo che a ogni vertice segnato, il numero di piastrelle rosse che condividono quel vertice sia uguale al numero di piastrelle blu che condividono quel vertice. Quante sono queste colorazioni?
+
+**Risposta:** 68
+[[src_jmo32ya_yosen__Q06]]

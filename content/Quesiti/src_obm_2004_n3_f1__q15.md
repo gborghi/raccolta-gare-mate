@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q15
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Measure (in radians) of angle BXC for a square built externally on a side of a regular heptagon.*
 
@@ -45,3 +48,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Misura (in radiani) dell'angolo BXC per un quadrato costruito esternamente su un lato di un setttagone regolare.*
+
+> Sul lato $AB$ dell'eptagone regolare $ABCDEFG$ è costruito un quadrato $ABXY$, esterno all'eptagone. La misura dell'angolo $B\hat{X}C$ in radiani è
+> 
+> (A) $\frac{\pi}{7}$ (B) $\frac{3\pi}{14}$ (C) $\frac{\pi}{14}$ (D) $\frac{3\pi}{7}$ (E) $\frac{3\pi}{28}$
+
+[[src_obm_2004_n3_f1__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Finale (risposta aperta) — Quesito J2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_finale__QJ2
 parent: src_kangourou_2023_junior_finale
 competition: Kangourou 2023 Junior — Finale (risposta aperta)
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *gioco equo o no*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Giulio favorito
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZqUD0phTjD1vGI9FmGiQjE0m_DFPuY6r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*fair play or not *
+
+> Andrea and Julius play dice as follows. Together they throw six dice (traditional, equals): if he throws 3 out of at least one dice, Andrew earns a euro from Julius; otherwise, Julius earns two euros from Andrew. Is it a fair game or is it advantageous for either of us? In this second case, for whom?
+
+**Answer:** Giulio favorito
+[[src_kangourou_2023_junior_finale__QJ2]]

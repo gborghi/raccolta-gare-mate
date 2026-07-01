@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q19
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Larghezza vialetto da differenza perimetri*
 
@@ -48,3 +51,27 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lightness of the road by perimeter difference*
+
+![[src_kangourou_2005_benjamin__prob19.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \fill[gray!50] (0,0) rectangle (5,3);
+  \fill[white] (0.6,0.6) rectangle (4.4,2.4);
+  \draw[thick] (0,0) rectangle (5,3);
+  \draw[thick] (0.6,0.6) rectangle (4.4,2.4);
+\end{tikzpicture}
+\end{document}
+```
+
+> 19. (B) The difference in length between each outer side and the corresponding inner side is 4 m, so the outer side at each side and the narrowness is 2 m from the inner side; this is the width of the sidewalk.
+
+**Answer:** B
+[[src_kangourou_2005_benjamin__Q19]]

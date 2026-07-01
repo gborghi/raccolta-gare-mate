@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Ecolier — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q14
 parent: src_kangourou_2018_ecolier_semif
 competition: Kangourou 2018 Semifinale Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punti vertici di 4 quadrati in rettangolo 100x60*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 5841
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12RJbo4WQyFx3m4vMHKRiOwlOuiEa6SZd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Top points of 4 squares in the rectangle 100x60*
+
+> (Documents 8) Approaching, without overlapping, 6,000 squares all equal to each other can yield a rectangle whose base consists of 100 squares. How many points of this rectangle are simultaneously vertices of 4 of the 6,000 squares that make up it?
+
+**Answer:** 5841
+[[src_kangourou_2018_ecolier_semif__Q14]]

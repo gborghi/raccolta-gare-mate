@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1979 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1979_r3__Q05
 parent: src_pol_1979_r3
 competition: Olimpiade Matematica Polacca 1979 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Product of quadrilateral sides inscribed in unit circle does not exceed 4*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mFSc82UPOl-hsqJK3SMN5XvfV4dcKK2I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il prodotto dei lati quadrilaterali inseriti nel cerchio unitario non supera 4*
+
+> Provare che il prodotto dei lati di un quadrilaterale inserito in un cerchio di raggio 1 non supera il 4.
+
+[[src_pol_1979_r3__Q05]]

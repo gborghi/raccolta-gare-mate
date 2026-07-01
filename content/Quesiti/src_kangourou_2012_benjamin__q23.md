@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q23
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Media delle eta dei dodici ragazzi*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Mean age of twelve boys< MSK1/>
+
+> At a birthday party, there are twelve kids, and there's at least one for each of the six to 10-year-olds. Four of them are 6 years old and the most common age is 8. What is the average age of the twelve boys? A) 6,5 B) 7,5 C) 8,5 D) 9 E) 10
+
+**Answer:** B
+[[src_kangourou_2012_benjamin__Q23]]

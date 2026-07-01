@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f1__Q14
 parent: src_obm_1998_n3_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *If x men make x bundles in x seconds, how many seconds do y men take to make y bundles?*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Se x uomini fanno x bundles in x secondi, quanti secondi ci vogliono y uomini per fare y bundles?*
+
+> Se gli uomini < MSK0/> fanno < MSK1/> bundles in < MSK2/> secondi, in quanti secondi gli uomini < MSK3/> faranno < MSK4/> bundles?
+> 
+> A) $y$
+> 
+> B) $x$
+> 
+> C) $\dfrac{x^2}{y}$
+> 
+> D) $\dfrac{y^2}{x}$
+> 
+> E) $\dfrac{y}{x}$
+
+**Risposta:** B
+[[src_obm_1998_n3_f1__Q14]]

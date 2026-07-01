@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior Semifinale individuale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_semifinale__Q09
 parent: src_kangourou_2021_junior_semifinale
 competition: Kangourou 2021 Junior Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *somma diametri impossibile*
 
@@ -54,3 +57,26 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>sum of diameters impossible< MSK1/>
+
+> (6 points) Using high-precision tools, a single square of 10 cm on the side can be cut into circles such that, when their diameters are added together in centimetres, they are obtained. j)  15. h)  10 π.
+>  
+> k)  2021. Which of the foregoing claims is false? A) La i).
+>  
+> B) La j).
+>  
+> C) La h).
+>  
+> D) La k). E) None of them.
+>  
+>  
+>  
+> Open-ended questions
+
+**Answer:** E
+[[src_kangourou_2021_junior_semifinale__Q09]]

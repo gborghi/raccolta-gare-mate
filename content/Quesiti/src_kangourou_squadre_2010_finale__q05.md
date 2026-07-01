@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2010_finale__Q05
 parent: src_kangourou_squadre_2010_finale
 competition: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma numeri sulle facce del cubo dato 70 sui vertici*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0014
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of numbers on the faces of the cube given 70 on the vertices*
+
+> Special subsets Consider the sum of the first 151 integers greater than zero. From all its sub-sets, you want to choose some so that the intersection between any two of those you have chosen is either a single number or a sequence of consecutive numbers (condition satisfied, for example, by both pairs of sub-sets ({1, 2}, {2, 3}) and ({1, 2, 3}, {2, 3, 4}), but not by pairs ({1, 2}, {3, 4}) or ({1, 2, 4}, {2, 3, 4})). How many sub-sets can you pick at most?
+
+**Answer:** 0014
+[[src_kangourou_squadre_2010_finale__Q05]]

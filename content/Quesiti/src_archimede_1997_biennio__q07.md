@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Biennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_biennio__Q07
 parent: src_archimede_1997_biennio
 competition: Giochi di Archimede 1997 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti n positivi con n+30 maggiore di n quadrato*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TBCBxk41PfhfCNwF0me53U4VCY16S0qo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Positive n with n+30 greater than n squared< MSK1/>
+
+> How many positive numbers are n such that n + 30 > n2?
+>
+> - **(A)** infinitesimal
+> - **(B)** 30
+> - **(C)** 6
+> - **(D)** 5
+> - **(E)** None of the above answers are correct.
+
+**Answer:** D
+[[src_archimede_1997_biennio__Q07]]

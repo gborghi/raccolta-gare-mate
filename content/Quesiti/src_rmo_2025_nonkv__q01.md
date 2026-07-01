@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2025 — Non-KV — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2025_nonkv__Q01
 parent: src_rmo_2025_nonkv
 competition: Regional Mathematical Olympiad 2025
@@ -35,6 +36,8 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count configurations of n lines with prescribed intersection points*
 
@@ -51,3 +54,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ik3u0dWCcvW1PmcS_C8SRI2gnccFRgZA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta le configurazioni di n linee con punti di intersezione prescritti*
+
+> (a) Il $n \ge 3$ deve essere un numero intero. Trova una configurazione di linee $n$ nel piano che ha esattamente
+> 
+> - i) < MSK0/> punti di intersezione distinti;
+> 
+> (ii) $n$ punti di intersezione distinti.
+> 
+> b) Indicare le configurazioni delle linee $n$ che hanno esattamente $n+1$ punti di intersezione distinti per (i) $n = 8$ e (ii) $n = 9$.
+
+[[src_rmo_2025_nonkv__Q01]]

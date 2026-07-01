@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_b__Q16
 parent: src_cesenatico_2011_semifinale_b
 competition: Gara a Squadre Cesenatico 2011 - Semifinale B
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Mattonelle triangolari per ricoprire piramide*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1152
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Other, of a kind used in the manufacture of bicycles and bicycles
+
+> In future memory Egyptian architect Numerotris built a square-base pyramid with a volume of 6912 cubic cleopasses. The height of the pyramid is half the height of the triangles that make up the side faces of the pyramid. The side walls of the pyramid must be covered with triangular bricks, which have a major diameter of 2 cleopasses and which are similar to one or the other of the two rectangular triangles in which each face of the pyramid is divided by its apotheosis. How many bricks does Borelix have to carry so Numerotris can cover the four side faces of the pyramid?
+> 
+> This year's event is the 12th National Team A Semifinal B. The problem
+
+**Answer:** 1152
+[[src_cesenatico_2011_semifinale_b__Q16]]

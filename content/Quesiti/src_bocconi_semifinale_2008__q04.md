@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2008 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2008__Q04
 parent: src_bocconi_semifinale_2008
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2008
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tasti premuti su calcolatrice per ottenere 2008*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Keys pressed on the calculator to obtain 2008*
+
+> This calculator has only two keys: the $\text{``-1''}$ key (minus 1) and the $\text{``3''}$ key (section 3). When switched on, the number $2008$ appears on the screen. How many times do you have to press the $\text{``-1''}$ and $\text{``3''}$ keys to read the $\text{``1''}$ result on the screen?
+
+**Answer:** 13
+[[src_bocconi_semifinale_2008__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2017 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2017_automne__Q05
 parent: src_canimath_2017_automne
 competition: Coupe Animath Automne 2017
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle, line (d) perpendicular to (BC) through C, parallelogram AEDB; prove M is midpoint of [AE]*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles, linea (d) perpendicolare a (BC) attraverso C, parallelo AEDB; prova M è il punto medio di [AE]*
+
+> Si costruisce la seguente figura: disegna un triangolo $ABC$ a uguali dimensioni $A$, quindi la linea $(d)$ perpendicolare a $(BC)$ che passa attraverso $C$. Si sceglie un punto $D$ su $(d)$. Un posto $E$ in modo che $AEDB$ sia un parallelo. Infine, $M$ è il punto di intersezione di $(AE)$ e $(d)$. Prova che $M$ è il punto medio di $[AE]$.
+
+[[src_canimath_2017_automne__Q05]]

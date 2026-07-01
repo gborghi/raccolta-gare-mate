@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_c__Q04
 parent: src_cesenatico_2011_semifinale_c
 competition: Gara a Squadre Cesenatico 2011 - Semifinale C
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma primi 3 numeri primi troncabili a sinistra*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7065
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total of the first 3 digits to the left*
+
+> Potion first Parabolix while preparing the magic potion reveals to Borelix that this time to defeat the Romans will suffice a quantity (in milliliters) equal to the sum of the first three numeric numbers of four digits with the property that the number formed by the first digit is first, that formed by the first two digits is first, and so on (e.g. 3797 being 3, 37, 379 and 3797 prime). How many milliliters of potion does Parabolix prepare?
+
+**Answer:** 7065
+[[src_cesenatico_2011_semifinale_c__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q05
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale affermazione vera su P1 e P2 (parallelogramma)*
 
@@ -59,3 +62,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What is true on P1 and P2 (parallelogram) *
+
+![[src_kangourou_2007_benjamin_marzo__prob5.png]]
+
+> A parallelogram is divided into two parts P1 and P2, as shown in the figure. What statement is true? A) P1 and P2 have the same area. B) P1 and P2 have the same perimeter. C) P2 has an area less than P1. D) P2 has a perimeter greater than P1. E) None of the above. P1 P2
+>  
+> A) B) C) D) E) arrival of the text
+> 
+> I'm going to pay. I'm going to pay. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+
+**Answer:** B
+[[src_kangourou_2007_benjamin_marzo__Q05]]

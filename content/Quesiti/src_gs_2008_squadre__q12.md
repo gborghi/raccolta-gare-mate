@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q12
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Esponente n che rende potenza di 2 un quadrato*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5188
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Exponent n which makes power of 2 a square*
+
+> Brian is looking for some whole numbers so that the sum of them is a perfect square.
+> 
+> What's the largest integer that Brian can find?
+
+**Answer:** 5188
+[[src_gs_2008_squadre__Q12]]

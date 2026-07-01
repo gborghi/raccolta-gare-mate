@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_2livello__Q07
 parent: src_archimede_2010_2livello
 competition: Archimede Gara 2° livello 2010 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Seconda cifra del prodotto (10^16+1)...(10+1)*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Second figure of the product (10^16+1)...
+
+> What is the second digit (from left) of the number (1016+1)(108+1)(104+1)(102+1)(10+1)?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 4.
+
+**Answer:** B
+[[src_archimede_2010_2livello__Q07]]

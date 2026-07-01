@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_2livello__Q06
 parent: src_archimede_2022_2livello
 competition: Archimede Gara di Febbraio 2022 - 2° livello
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo isoscele, due altezze, area*
 
@@ -44,3 +47,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Isosceles triangle, two heights, area*
+
+![[src_archimede_2022_2livello__prob6.png]]
+
+> So ABC is an isosceles triangle with AB = AC. The height out of A is 15 and the height out of B is 24. How much is the ABC area?
+>
+> - **(A)** 180
+> - **(B)** 300
+> - **(C)** 240 √ 2
+> - **(D)** 200 √ 3
+> - **(E)** 320
+
+**Answer:** B
+[[src_archimede_2022_2livello__Q06]]

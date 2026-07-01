@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2017__Q01
 parent: src_cesenatico_2017
 competition: Olimpiade Italiana (Cesenatico) 2017 - testi e soluzioni
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *due circonferenze stesso raggio*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JISzedSazgC79gEUAMWBmfIAmPO-Z1X9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*two circumferences of the same radius*
+
+> Let a and b be two positive real numbers. Let's consider a regular hexagon on side a, and build on its sides six rectangles of sides a and b, arranged externally to the hexagon. The twelve new peaks lie on a circumference. We repeat the previous operation, but exchanging the values of a and b: that is, we start from a regular hexagon on side b and build on it, always externally to the hexagon, six rectangles of sides a and b. We get that the twelve new vertices lie on a second circumference. Demonstrate that the two circumferences have the same radius.
+
+[[src_cesenatico_2017__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1969 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1969_r3__Q01
 parent: src_pol_1969_r3
 competition: Olimpiade Matematica Polacca 1969 — Round 3
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real numbers satisfy equality implying quadratic has root in (0,1)*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RbcyYOsjDo8XEM7n0JSDDu_IhTzLThy_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I numeri reali soddisfano l'uguaglianza che implica che il quadratico ha radice in (0,1) *
+
+> Prova che se i numeri reali $a, b, c$ soddisfano l'uguaglianza $$\frac{a}{m+2} + \frac{b}{m+1} + \frac{c}{m} = 0$$ per un certo numero positivo $m$, allora l'equazione $ax^2 + bx + c = 0$ ha una radice tra 0 e 1.
+
+[[src_pol_1969_r3__Q01]]

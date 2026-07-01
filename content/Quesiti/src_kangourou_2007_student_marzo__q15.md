@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Student (marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q15
 parent: src_kangourou_2007_student_marzo
 competition: Kangourou 2007 Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione ombreggiata (due semicerchi)*
 
@@ -66,3 +69,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shaded region area (two semicircles) *
+
+![[src_kangourou_2007_student_marzo__prob15.png]]
+
+> Consider yourself two semicircles drawn as in the figure. The length of the 4 CD string is parallel to the diameter AB of the larger semicircle and tangent to the smaller semicircle. The area of the shaded plane region in the figure is A) π B) 1,5 π C) 2 π D) 3 π E) the information is not sufficient to determine it. Which is the largest of these eight numbers? A) 4 B) 8 C) 9 D) 11 E) none of the values indicated x 9 5 5 17 A B C D Texts_07.qxp 16-04-2007 12:07 Page 30
+> 
+> I'm going to pay. I'm going to pay. 31 31 Kang 2007 Kang
+
+**Answer:** C
+[[src_kangourou_2007_student_marzo__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2023 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2023__Q10
 parent: src_smc_2023
 competition: Senior Mathematical Challenge 2023
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many of 6,7,8,9,10 divide a sum of powers of two*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quanti di 6,7,8,9,10 dividono la somma delle potenze di due*
+
+> Quanti dei numeri $6, 7, 8, 9, 10$ sono fattori della somma $2^{2024}+2^{2023}+2^{2022}$?
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $4$
+> - **(E)** $5$
+
+**Risposta:** B
+[[src_smc_2023__Q10]]

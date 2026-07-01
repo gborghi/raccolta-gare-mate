@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f2__Q02
 parent: src_obm_2005_n1_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Arithmetic sequence: find the 2005th term*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza aritmetica: trovare il termine 2005*
+
+> Nella sequenza di numeri $1, a, 2, b, c, d, \ldots$ il primo termine è $1$, il secondo termine è $a$, il terzo termine è $2$, il quarto termine è $b$, e così via. È noto che questa sequenza ha termini del 2005 e che ogni termine, dal terzo in poi, è la media aritmetica dei due termini precedenti. Qual è l'ultimo termine (2005) di questa sequenza?
+
+[[src_obm_2005_n1_f2__Q02]]

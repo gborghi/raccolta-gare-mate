@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2016 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2016__Q09
 parent: src_smc_2016
 competition: Senior Mathematical Challenge 2016
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A square has vertices at (0,0),(1,0),(1,1),(0,1). How many of the five listed graphs pass through exactly two vertices of the square?*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un quadrato ha vertici a (0,0),(1,0),(1,1),(0,1). Quanti dei cinque grafici elencati attraversano esattamente due vertici del quadrato?
+
+> Un quadrato ha vertici $(0,0)$, $(1,0)$, $(1,1)$ e $(0,1)$. I grafici delle seguenti equazioni sono disegnati sullo stesso insieme di assi come il quadrato: $x^2 + y^2 = 1$, $y = x + 1$, $y = -x^2 + 1$, $y = x$, $y = \dfrac{1}{x}$. Quanti dei grafici passano esattamente attraverso due vertici del quadrato?
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5
+
+![[src_smc_2016__Q09.png]]
+
+**Risposta:** C
+[[src_smc_2016__Q09]]

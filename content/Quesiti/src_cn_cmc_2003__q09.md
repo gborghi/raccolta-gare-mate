@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2003 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2003__Q09
 parent: src_cn_cmc_2003
 competition: China Mathematical Competition 2003
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the range of a parameter so that one solution set is contained in another.*
 
@@ -47,3 +50,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'intervallo di un parametro in modo che un insieme di soluzioni sia contenuto in un altro.*
+
+> Per esempio, < MSK0/>, < MSK1/>. Se $A \subseteq B$, allora l'intervallo del numero reale $a$ è ___.
+
+**Risposta:** $-4 \le a \le -1$
+[[src_cn_cmc_2003__Q09]]

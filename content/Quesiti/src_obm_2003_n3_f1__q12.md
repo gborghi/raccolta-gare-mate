@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q12
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find position of first non-prime in sequence of numbers 2 less than two largest successors*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la posizione del primo non primo in sequenza di numeri 2 meno di due successivi più grandi*
+
+> Tra tutti i numeri naturali superiori a $10$, considera i due numeri più grandi che vengono sottratti da $2$ dai loro successori. Questi formano la sequenza $5, 11, 19, \ldots$ Qual è il primo elemento di questa sequenza che NON è un numero primo?
+> 
+> A) quarto \quad B) quinto \quad C) sesto \quad D) nessuno \quad E) settimo
+
+**Risposta:** C
+[[src_obm_2003_n3_f1__Q12]]

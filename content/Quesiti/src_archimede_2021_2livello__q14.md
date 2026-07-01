@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2021 - 2° livello — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_2livello__Q14
 parent: src_archimede_2021_2livello
 competition: Archimede Gara di Febbraio 2021 - 2° livello
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cavalletta su griglia, valori possibili di n*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kA5FbxiBR06cdt_rifEF96wXnJ6t7pTT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Grided cabbage, possible values of n*
+
+> A slide moves on the plane and from the coordinate point (x,y) it can jump at its choice either over (x + y,y) or over (x,x + y). Started from a coordinate point (n.9) with positive integer n, but does not recall the value of n. He just knows that after a number of moves it came in (2021, 2050). What are the possible values of n?
+
+**Answer:** 3
+[[src_archimede_2021_2livello__Q14]]

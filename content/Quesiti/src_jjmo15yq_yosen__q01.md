@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo15yq_yosen__Q01
 parent: src_jjmo15yq_yosen
 competition: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest integer of distinct nonzero digits, every adjacent pair a multiple of 7*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 98421
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Più grande numero intero di cifre distinte non zero, ogni coppia adiacente un multiple di 7*
+
+> Considerate i numeri interi positivi i cui numeri sono tutti distinti e non zero, in modo che qualunque coppia di numeri adiacenti venga estratta, il numero di due cifre risultante è un multiple di $7$. (Per esempio, da $123$ si possono togliere le coppie adiacenti $12$ e $23$, dando $2$ tali numeri a due cifre.) Tra tutti questi enti, trovare il più grande.
+
+**Risposta:** 98421
+[[src_jjmo15yq_yosen__Q01]]

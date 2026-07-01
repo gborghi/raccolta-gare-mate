@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q18
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero naturale n tale che 2n+3 divida 6n+43*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** $n = 7$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Natural number n such that 2n+3 divides 6n+43*
+
+> Find a natural number $n$ for which $2n+3$ is a divisor of $6n+43$.
+
+**Answer:** $n = 7$
+[[src_bocconi_squadre_2013__Q18]]

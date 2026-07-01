@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre__Q07
 parent: src_kangourou_2023_ecolier_squadre
 competition: Kangourou Squadre 2023 Ecolier Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cioccolatini per scatola con vincoli*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0044
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Bonded box chocolate < MSK1/>
+
+> Luisa's chocolates have four boxes, all containing the same number of chocolates. Overall, the chocolates are less than 180, but three boxes of any of the four contain more than 130. How many chocolates does each box contain?
+
+**Answer:** 0044
+[[src_kangourou_2023_ecolier_squadre__Q07]]

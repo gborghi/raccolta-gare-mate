@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q28
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Zanzare nella quarta notte (progressione)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Dancing on the fourth night (progress) < MSK1/>
+
+> A bat ate a total of 1,050 mosquitoes in four consecutive nights. Every night (starting at 2 a.m.) that bat ate 25 more mosquitoes than the night before. How many mosquitoes did you eat on the fourth night? A) 200       B) 225        C) 250        D) 275       E) 300
+
+**Answer:** E
+[[src_kangourou_2004_benjamin__Q28]]

@@ -1,6 +1,7 @@
 ---
 title: IX Gara Nazionale Classi Prime 2024 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2024__Q15
 parent: src_garaprime_2024
 competition: IX Gara Nazionale Classi Prime 2024
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di suddividere 6 ragazze in 3 squadre da 2*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How to divide 6 girls into 3 teams by 2
+
+> How many ways can Simona divide six girls into three two-person teams? Keep in mind that two subdivisions are identical if and only if each girl has the same teammate. A) 30 B) 60 C) 15 D) 20 E) 18 The correct answer is C The number of ways of dividing a set of 4 people into two teams of 2 is equal to the number of ways in which one of the four girls can choose the team mate from the remaining 3, i.e. 3 ways. If there are 6 people, let us distinguish 5 cases (the 5 ways in which one of the 6 girls is fixed, she can choose her partner) and in each of those cases the remaining 4 girls can be divided into 3 ways into teams of 2 as mentioned above. So the different subdivisions are 5 ∙3 = 15.
+
+**Answer:** C
+[[src_garaprime_2024__Q15]]

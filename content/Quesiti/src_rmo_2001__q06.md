@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2001 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2001__Q06
 parent: src_rmo_2001
 competition: Regional Mathematical Olympiad 2001
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For triangle sides x,y,z prove |x²(y−z)+y²(z−x)+z²(x−y)| < xyz*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15Y14HVMjGftkYhnfutHqAb_lpxEScIwl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per i lati del triangolo x,y,z \ \ provex2\y−z) +y2\z−x) +z2\x−y)
+
+> Se $x, y, z$ sono i lati di un triangolo, dimostrare che $$\left| x^2(y - z) + y^2(z - x) + z^2(x - y) \right| < xyz.$$
+
+[[src_rmo_2001__Q06]]

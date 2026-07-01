@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q14
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Last digit of the product 1×3×5×…×97×99*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK5/>L'ultima cifra del prodotto 1< MSK0/>3< MSK1/>5< MSK2/>...< MSK3/>97< MSK4/>99< MSK6/>
+
+> Qual è la cifra di unità del numero $1 \times 3 \times 5 \times \cdots \times 97 \times 99$?
+> 
+> (A) $1$ \quad (B) $3$ \quad (C) $5$ \quad (D) $7$ \quad (E) $9$
+
+**Risposta:** C
+[[src_obm_2004_n1_f1__Q14]]

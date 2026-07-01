@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n1_f2__Q06
 parent: src_obm_2009_n1_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Family of numbers that all share at least one common digit; find the largest possible number of members*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Famiglia di numeri che condividono tutti almeno una cifra comune; trovare il maggior numero possibile di membri*
+
+> Diciamo che due o più numeri appartengono alla stessa famiglia quando tutti hanno almeno una cifra in comune. Ad esempio, i numeri $72$, $32$, $25$ e $22$ appartengono alla stessa famiglia, poiché tutti possiedono la cifra $2$, mentre i numeri $123$, $245$ e $568$ non appartengono alla stessa famiglia, poiché non esiste una cifra che compare in tutti e tre questi numeri. Determinare il maggior numero di membri di una famiglia i cui elementi hanno almeno una cifra in comune.
+
+[[src_obm_2009_n1_f2__Q06]]

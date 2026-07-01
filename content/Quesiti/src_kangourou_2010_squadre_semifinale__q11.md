@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2010 squadre semifinale turno A — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2010_squadre_semifinale__Q11
 parent: src_kangourou_2010_squadre_semifinale
 competition: Kangourou 2010 squadre semifinale turno A
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma interi non ottenibili come somma di 5 e 7*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 114
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Integer sum not available as sum of 5 and 7*
+
+> Binded sums Many positive integers, but not all, can be obtained as sums of additions each of which is 5 or 7. Write the sum of all the positive integers that cannot be obtained in this way; write [0000] in case these numbers are infinite.
+
+**Answer:** 114
+[[src_kangourou_2010_squadre_semifinale__Q11]]

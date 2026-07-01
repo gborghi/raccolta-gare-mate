@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q10
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione del bastone tra formica e coccinella*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fraction of the rod between ant and cook *
+
+![[src_kangourou_2017_cadet_marzo__prob10.png]]
+
+> Federica the ant started from the left end of the stick depicted in the figure and walked 2/3 of its length. Ornella the little one started from the right end of the same stick and walked about 3/4 of its length. What fraction of the length of the stick now separates Federica from Ornella? A) 3/8 B) 1/12 C) 5/7 D) 1/2 E) 5/12 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** E
+[[src_kangourou_2017_cadet_marzo__Q10]]

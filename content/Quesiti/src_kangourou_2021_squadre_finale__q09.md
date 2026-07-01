@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2021 Finale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q09
 parent: src_kangourou_2021_squadre_finale
 competition: Kangourou Coppa squadre 2021 Finale
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti vertici (angoli in progressione aritmetica)*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quantity of vertices (angles in arithmetic progression) *
+
+> How many peaks? The interior angles of a convex polygon are measured in arithmetic progression: the smallest measures 106 degrees, the largest measures 194. How many vertices does the polygon have?
+
+[[src_kangourou_2021_squadre_finale__Q09]]

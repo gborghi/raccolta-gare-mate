@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q01
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Maggiore dei due incogniti nella tabella 2x2*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most of the two unknowns in Table 2x2*
+
+> In the cells of a 2 x 2 table, the numbers 3 and 4 and two unknown numbers are written (one per cell). You know the sum of the numbers in one row is 5, the sum of the numbers in the other row is 10, and the sum of the numbers in one column is 9. Which is the larger of the two unknown numbers? A) 5 B) 6 C) 7 D) 8 E) 3
+
+**Answer:** B
+[[src_kangourou_2008_student_marzo__Q01]]

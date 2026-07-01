@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q03
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo x reale con x^2-2004<0*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum real x with x^2-2004< 0< MSK1/>
+
+> The smallest real number x that results in inequality x2 −2004 < 0 is: A) −2004 B) 2004 C) 0 D) E) −
+
+**Answer:** E
+[[src_kangourou_2004_student__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier semifinale individuale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_semifinale__Q01
 parent: src_kangourou_2022_ecolier_semifinale
 competition: Kangourou 2022 Ecolier semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Caselle del bordo con un solo lato verniciato di rosso*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Edge edges with only one side painted red*
+
+> (2 points) Silvia painted the edge of a square chessboard 8×8 red. How many of the 64 boxes have one side painted red and no more than one? A) 16
+>  
+> B) 20 C) 24 D) 28 E) 32
+
+**Answer:** C
+[[src_kangourou_2022_ecolier_semifinale__Q01]]

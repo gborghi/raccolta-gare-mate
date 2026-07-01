@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo22yq_yosen__Q01
 parent: src_jmo22yq_yosen
 competition: Japan Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square ABCD with two perpendicular transversals; find side length*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrato con due trasversali perpendicolari; trovare lunghezza laterale*
+
+> Nel quadrato $ABCD$, i punti $P$, $Q$, $R$, $S$ si trovano rispettivamente sui lati $AB$, $BC$, $CD$ e $DA$. La linea $PR$ è parallela a $BC$ e la linea $SQ$ è parallela a $AB$. Il $Z$ deve essere l'incrocio di $PR$ e $SQ$. Date $BP = 7$, $BQ = 6$, $DZ = 5$, si trova la lunghezza laterale del quadrato $ABCD$.
+> 
+> (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+![[src_jmo22yq_yosen__Q01.png]]
+
+**Risposta:** 10
+[[src_jmo22yq_yosen__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q04
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che solo uno non riceva il regalo*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The probability that only one person will not receive the gift
+
+> Cristina bought four books to give to four friends, one each. He chose them by distributing each book to a precise friend, but then packed four completely identical gift packages. If he randomly delivers packages to his friends, what is the probability that only one of them will not receive the gift that was intended for him? A) 1/24 B) 1/8
+> 	
+> C) 1/4 D) 1/2 E) None of the above answers are correct.
+
+**Answer:** E
+[[src_kangourou_2017_junior_marzo__Q04]]

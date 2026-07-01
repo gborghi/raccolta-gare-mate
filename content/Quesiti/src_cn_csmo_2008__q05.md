@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2008 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2008__Q05
 parent: src_cn_csmo_2008
 competition: China Southeastern Mathematical Olympiad 2008
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find largest lambda with |lambda*xy+yz| <= sqrt(5)/2 on unit sphere*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Find largest lambda with |lambda*xy+yz| <= sqrt(5)/2 on unit sphere*
+
+> Find the largest positive number $\lambda$ such that
+> $$|\lambda xy + yz| \le \frac{\sqrt{5}}{2},$$
+> where $x^2 + y^2 + z^2 = 1$.
+
+**Risposta:** 2
+[[src_cn_csmo_2008__Q05]]

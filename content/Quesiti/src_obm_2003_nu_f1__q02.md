@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1 —
   Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_nu_f1__Q02
 parent: src_obm_2003_nu_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to schedule rest days with no three consecutive training days*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkHYs-oRGCC1ZYJ_cT5E1wAW1AqoZ7ND/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Contare i modi per pianificare i giorni di riposo senza tre giorni di formazione consecutivi< MSK1/>
+
+> Un giocatore di tennis ha 30 giorni per prepararsi a un torneo. Se si allenano 3 giorni consecutivi, i giorni successivi soffre di stanchezza muscolare. Decide che durante quei 30 giorni si allenerà esattamente 20 giorni, non si allenerà mai per 3 giorni consecutivi, e riposa i restanti 10 giorni. In quanti modi diversi può scegliere i 10 giorni di riposo?
+
+[[src_obm_2003_nu_f1__Q02]]

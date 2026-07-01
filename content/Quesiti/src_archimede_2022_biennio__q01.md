@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2022 - Gara Biennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_biennio__Q01
 parent: src_archimede_2022_biennio
 competition: Giochi di Archimede 2022 - Gara Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle unita di 2023^(2022^2021)*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Daq06A5cNKvPAO0E8Ym-xGnc7AcmRZ_w/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total number of units in the Union.
+
+> What is the number of units of the number 2023(20222021)?
+>
+> - **(A)** 3
+> - **(B)** 9
+> - **(C)** 7
+> - **(D)** 1
+> - **(E)** 5
+
+**Answer:** D
+[[src_archimede_2022_biennio__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Student - Gara 16 marzo — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q26
 parent: src_kangourou_2017_student_marzo
 competition: Kangourou 2017 Student - Gara 16 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distribuzione palline per massima probabilita di vincere*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distributed balls for maximum probability of winning*
+
+> 26. You have to have five black balls and five white balls in five boxes with the only constraint that each box contains at least one ball. Your opponent must, without looking, STUDENT catch a ball from a box of his choice: if the ball is white he wins, if it is black you win. How do you distribute the balls in the boxes to get the best chance of winning? A) Put a white and a black ball in each box. B) Put all the black balls in three boxes and all the white balls in the other two. C) Put all the black balls in four boxes and all the white balls in the remaining box. D) Put a black ball in each box and add all the white balls in one of the boxes. E) Put a white ball in each box and add all the black balls in one of the boxes.
+
+**Answer:** D
+[[src_kangourou_2017_student_marzo__Q26]]

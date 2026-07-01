@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f1__Q04
 parent: src_obm_2002_n1_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Place 1 to 9 in a propeller so blade sums are equal and maximal*
 
@@ -54,3 +57,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NviJwQmbmihSaakvq3DJSWhViadj6Z5P/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Posizionare da 1 a 9 in un'elica in modo che le somme delle lame siano uguali e massime*
+
+> Scrivere i numeri interi da $1$ a $9$ nei nove piccoli quadrati, in modo tale che le somme di ciascuna delle lame della "propeller" siano uguali e il valore più grande possibile. Questo valore è:
+> 
+> (A) $23$ (B) $22$ (C) $21$ (D) $20$ (E) $19$
+
+![[src_obm_2002_n1_f1__Q04.png]]
+
+**Risposta:** B
+[[src_obm_2002_n1_f1__Q04]]

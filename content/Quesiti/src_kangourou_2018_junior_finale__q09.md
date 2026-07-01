@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Finale Nazionale Junior — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q09
 parent: src_kangourou_2018_junior_finale
 competition: Kangourou 2018 Finale Nazionale Junior
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Per quanti secondi funziona il contatore del treno*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0126
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*For how many seconds the train counter is running*
+
+> Suppose the earth is a perfect sphere and you imagine you're stretching a string, the same length as the equator, so that you cover the equator exactly. Now extend the wire by 10 meters and imagine that it can be placed around the equator so that it has a uniform distance from it, that is, so that all the points of the wire have the same distance from the equator $d$ (measured in meters). So you have:
+>
+> - **(A)** $d < 0{,}001$
+> - **(B)** $0{,}001 \leq d < 0{,}01$
+> - **(C)** $0{,}01 \leq d < 0{,}1$
+> - **(D)** $0{,}1 \leq d \leq 1$
+> - **(E)** $d > 1$
+
+**Answer:** 0126
+[[src_kangourou_2018_junior_finale__Q09]]

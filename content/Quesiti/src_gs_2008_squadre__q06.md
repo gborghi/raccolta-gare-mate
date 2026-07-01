@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q06
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colori magliette scimmie allo zoo (I)*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>T-shirts for monkeys at the zoo (I) < MSK1/>
+
+> If they're B and D, the rest you can't complete 8-9. If they're B (or D) and E, the rest is completed in 1 way 10-11. If they are A and B (or D), the rest is completed in 1 mode 3.
+> 
+> The total is 2 + 1 × 2 + 2 × 3 + 3 + 0 + 2 × 1 + 2 × 1 = 17
+
+[[src_gs_2008_squadre__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Junior (gara marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior__Q20
 parent: src_kangourou_2012_junior
 competition: Kangourou 2012 Junior (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultima cifra diversa da 0 del numero 2^59 3^4 5^53*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last digit other than 0 of the number 2^59 3^4 5^53*
+
+> What is the last digit other than 0 of the number 259 < MSK0/> 34 < MSK1/> 553 ? A) 1 B) 2 C) 4 D) 6 E) 9 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** C
+[[src_kangourou_2012_junior__Q20]]

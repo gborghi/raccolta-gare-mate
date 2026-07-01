@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r1__Q02
 parent: src_pol_2007_r1
 competition: Olimpiade Matematica Polacca 2007 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive integer pairs making both k^2+4m and m^2+5k perfect squares.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca coppie di numeri interi positivi che rendano k^2+4m e m^2+5k quadrati perfetti.*
+
+> Trova tutte le coppie $(k,m)$ di enti interi positivi per le quali $k^2+4m$ e $m^2+5k$ sono entrambi quadrati perfetti.
+
+[[src_pol_2007_r1__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f3__Q05
 parent: src_obm_2008_n3_f3
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of f: Z+→Z+ satisfying f(a·f(n))=b·n for all n*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Xdlk10kOctV84Jj1WlZYi4mgeMhHN8nP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di f: Z+→Z+ che soddisfa f(a·f(n))=b·n per tutte le n*
+
+> Prova che per tutti gli enti $a > 1$ e $b > 1$ esiste una funzione $f$ dai numeri interi positivi ai numeri interi positivi in modo tale che $f(a \cdot f(n)) = b \cdot n$ per ogni intero positivo $n$.
+
+[[src_obm_2008_n3_f3__Q05]]

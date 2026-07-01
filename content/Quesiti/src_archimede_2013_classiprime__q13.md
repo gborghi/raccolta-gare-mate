@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2013 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_classiprime__Q13
 parent: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo abitanti isola fanti/cavalieri con frase a tavola rotonda*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum inhabitants of the island knight/fanter with round table phrase*
+
+> Kenoncè Island has no less than 2013 inhabitants and each of them can be either a Fante or a Knight. The Fairies always lie while the Knights always tell the truth. In the evening, they all sit together at a huge round table with exactly as many seats as the inhabitants, sitting so that they can all say the following sentence together: The first 5 people on my right are all Fanti What is the minimum number of inhabitants the island can have? A 2016 B 2013 C 2014 D 2015 E 2017 F 2018
+
+**Answer:** A
+[[src_archimede_2013_classiprime__Q13]]

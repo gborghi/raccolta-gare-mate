@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2020 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2020__Q17
 parent: src_garaprime_2020
 competition: Gara Nazionale Classi Prime 2020
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza aree max-min quadrato in un ottagono*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RcjMtWkWdcfagBZF3LMfq3IMn7aMwmGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Differential area max-min squared in an octagon*
+
+![[src_garaprime_2020__prob17.png]]
+
+> Given the regular octagon P of area 1440, consider the largest square containing P and the smallest square containing P. What's the difference between the areas of the two squares? A 720 B 840 C 576 D 480 E 600 F 640
+
+**Answer:** A
+[[src_garaprime_2020__Q17]]

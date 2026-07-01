@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q16
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo ABC tra punti medi del cubo*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*ABC angle between midpoints of the cube*
+
+![[src_kangourou_2002_student__prob16.png]]
+
+> How much does the angle formed by segments AB and BC measure, knowing that A, B and C are the midpoints of the cubes?
+>  
+> A. 90°
+>  
+> B. 100° C. 110° D. 120°
+>  
+> E. 135°
+
+**Answer:** D
+[[src_kangourou_2002_student__Q16]]

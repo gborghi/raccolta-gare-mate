@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q21
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Height of a cone whose base is the equator of a radius-1 sphere through generatrix midpoints*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Altezza di un cono la cui base è l'equatore di una sfera di raggio 1 attraverso i punti medi della generatrice*
+
+> Una sfera di raggio $1$ ha come ecuatore la base di un cono e passa attraverso i punti medi dei suoi generatori. Qual è l'altezza del cono? (A) $1$ (B) $\sqrt{1.5}$ (C) $\sqrt{2}$ (D) $\sqrt{3}$ (E) $2$
+
+[[src_obm_2014_n3_f1__Q21]]

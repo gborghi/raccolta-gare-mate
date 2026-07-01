@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1996 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1996__Q06
 parent: src_inmo_1996
 competition: Indian National Mathematical Olympiad 1996
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2n×2n binary array with 5n zeros; delete n rows and n columns to remove all zeros*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1blo_RiJBjiZXTOpkMkcVJPX-cPRJ8p_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2n×2n array binario con 5n zero; rimuovere n righe e n colonne per rimuovere tutti i zero*
+
+> Data una serie di 0 e 1 $2n \times 2n$ contenenti esattamente 0 $5n$, mostrare che è possibile rimuovere tutti gli zero eliminando alcune righe $n$ e colonne $n$.
+
+[[src_inmo_1996__Q06]]

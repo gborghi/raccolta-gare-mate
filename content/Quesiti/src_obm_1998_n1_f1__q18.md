@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q18
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Deduce maximum number of cars from total legs and wheels on planet Z*
 
@@ -54,3 +57,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ridurre il numero massimo di auto dal totale di gambe e ruote sul pianeta Z < MSK1/>
+
+> Sul pianeta Z, ogni abitante ha $3$ gambe e ogni macchina ha $5$ ruote. In una piccola città di questo pianeta, ci sono in totale $97$ gambe e ruote. Possiamo quindi affermare:
+>
+> - **(A)** È possibile che ci siano macchine in questa città.
+> - **(B)** Ci sono al massimo $16$ auto in questa città
+> - **(C)** Questa città ha $9$ abitanti e $14$ auto
+> - **(D)** Ci sono al massimo $17$ auto in questa città
+> - **(E)** In questa città ci sono più auto che persone .
+
+**Risposta:** D
+[[src_obm_1998_n1_f1__Q18]]

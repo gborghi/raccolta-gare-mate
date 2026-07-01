@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q13
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi è la più vecchia da date di nascita*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Who is the oldest person by date of birth< MSK1/>
+
+> Ada, Bruna, Cecilia and Dora were born in the same year. Their birthdays are, by date but not by name, on 20 February, 12 April, 12 May and 25 May. Bruna and Ada were born in the same month. Ada and Cecilia were born on the same day in different months. Who's the oldest? A) Ada B) Bruna C) Cecilia D) Dora E) It is not possible to establish it.
+
+**Answer:** D
+[[src_kangourou_2013_ecolier__Q13]]

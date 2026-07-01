@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2011 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2011__Q05
 parent: src_cn_cgmo_2011
 competition: China Girls' Mathematical Olympiad 2011
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum lambda for complex number inequality with parameter s*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** $\lambda(s) = \max(s, 1)$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il lambda minimo per la disuguaglianza dei numeri complessi con il parametro s*
+
+> Data una cifra reale $s$, si prega di trovare la cifra reale minima $\lambda = \lambda(s)$, in modo che per qualsiasi numero complesso $z_1$, $z_2$, $z$, se $|z_1| \le s|z - z_1|$, allora $|z_1 - z_2| \le \lambda |z - z_2|$. (Posizionato da Li Shenghong)
+
+![[src_cn_cgmo_b11_w201__Q05.png]]
+
+**Risposta:** $\lambda(s) = \max(s, 1)$
+[[src_cn_cgmo_2011__Q05]]

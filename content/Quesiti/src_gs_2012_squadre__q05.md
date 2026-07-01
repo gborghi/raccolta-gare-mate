@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q05
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro poligono di archi di circonferenza*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0160
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Polyphony perimeter of arc circumference*
+
+> In a regular polygon of 30 sides, Pisolo counts all vertices from 1 to 30. It then supports 15 circular discs of equal radius to the side of the polygon with the centers on the vertices numbered with an odd number. Each disc has a circumference of 20 cm. What is the outer perimeter of the figure?
+
+**Answer:** 0160
+[[src_gs_2012_squadre__Q05]]

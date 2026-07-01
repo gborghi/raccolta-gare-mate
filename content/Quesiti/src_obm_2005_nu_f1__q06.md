@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1 —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_nu_f1__Q06
 parent: src_obm_2005_nu_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1
@@ -42,6 +43,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove fewer than 2005 distinct 27th powers with n digits exist for any digit permutation*
 
@@ -52,3 +55,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1t1VifBoLdIYTQCp9KTilPVmufvuvo00a/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che per qualsiasi permutazione di cifre esistono meno di 27 potenze distinte del 2005 con n cifre*
+
+> Prove che esistono meno di 27 potenze distinte del 2005 (cioè numeri della forma $n^{27}$, dove $n$ è un numero intero positivo), tutti con lo stesso numero di cifre, in modo che uno di essi possa essere ottenuto da qualsiasi altro mediante una permutazione delle sue cifre.
+
+[[src_obm_2005_nu_f1__Q06]]

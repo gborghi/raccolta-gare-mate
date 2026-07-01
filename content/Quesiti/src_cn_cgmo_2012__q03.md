@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2012 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2012__Q03
 parent: src_cn_cgmo_2012
 competition: China Girls' Mathematical Olympiad 2012
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer pairs (a,b) with common divisor condition*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di numeri interi (a,b) con condizione di divisore comune*
+
+> Trova tutte le coppie di integri $(a, b)$ che soddisfano la seguente condizione: esiste un intero $d \ge 2$ tale che $a^n + b^n + 1$ sia divisibile da $d$ per qualsiasi intero positivo $n$. (Possibile da Chen Yonggao)
+
+[[src_cn_cgmo_2012__Q03]]

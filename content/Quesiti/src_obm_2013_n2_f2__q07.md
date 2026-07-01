@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f2__Q07
 parent: src_obm_2013_n2_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ordered quadruples of positive integers with product 2013*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jz8AX5epqRi_4AzCthzju1jrj_ZupO7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggi quadrupli ordinati di numeri interi positivi con il prodotto 2013*
+
+> Determinare il numero di quadrupli ordinati di enti interi $(x, y, z, w)$ che soddisfano $$x \cdot y \cdot z \cdot w = 2013.$$
+
+[[src_obm_2013_n2_f2__Q07]]

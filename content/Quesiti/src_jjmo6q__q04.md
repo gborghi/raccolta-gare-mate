@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2008 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo6q__Q04
 parent: src_jjmo6q
 competition: Japan Junior Mathematical Olympiad 2008
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count prices payable with 1000, 100, 10, 1 yen coins minimizing change*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Prezzi da pagare con monete di 1000, 100, 10, 1 yen minimizzando la variazione< MSK1/>
+
+> Taro ha una banconota di 1000 yen, una moneta di 100 yen, una moneta di 10 yen e una moneta di 1 yen, e le usa tutte e quattro per acquistare un oggetto. Quanti prezzi possibili può avere l'oggetto?
+> 
+> La condizione è che il pagamento di Taro non abbia alcun importo in comune (come monete/monete) con il cambio che riceve; tra tutti i metodi di pagamento che soddisfano questa condizione, sceglie uno che riduca al minimo il numero di monete/monete che detiene dopo la transazione (cioè riduce al minimo il numero totale delle sue monete/monete rimanenti dopo aver ricevuto il cambio). Inoltre, il cambio viene sempre dato con il numero minimo di monete/monete, ed è anche possibile che il cambio sia di 0 yen.
+
+[[src_jjmo6q__Q04]]

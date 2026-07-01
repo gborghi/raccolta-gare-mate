@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q12
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale tra 2^k+1 e divisibile per 5*
 
@@ -47,3 +50,21 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which is 2^k+1 and divisible by 5*
+
+> Which of the following numbers is divisible by 5? A) 2100 + 1
+> 	
+> B) 2101 + 1
+> 	
+> C) 2102 + 1 D) 2103 + 1
+> 	
+> E) 2104 + 1
+>
+
+**Answer:** C
+[[src_kangourou_2014_marzo_student__Q12]]

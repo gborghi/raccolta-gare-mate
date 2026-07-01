@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q05
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -23,6 +24,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma quadrati diagonali facce di un romboedro*
 
@@ -52,3 +55,29 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 7776
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of diagonal squares of the faces of a rhombohedron*
+
+![[src_squadre_2018_femminile__prob5.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \draw (2,0) -- (0,1.2) -- (-2,0) -- (0,-1.2) -- cycle;
+  \draw[dashed] (-2,0) -- (2,0);
+  \draw[dashed] (0,1.2) -- (0,-1.2);
+  \node[above left] at (1,0.6) {$x$};
+  \node[right] at (0.1,0.5) {$b$};
+  \node[above] at (-0.9,0) {$a$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Beuler claims to hate humans, but Fry likes him and decides to help him by proposing to move in with him. Beuler's apartment is a rombohedron, i.e. a parallelepiped whose six faces are all rhombohedrons. To prevent law enforcement from detecting Fry (provided with the identification chip), Beuler must place a metal bar on all the diagonals of the faces of the rogues that form his apartment. If the spikes of your house measure 18 m, what is the sum of the squares of lengths in m of all the necessary metal bars?
+
+**Answer:** 7776
+[[src_squadre_2018_femminile__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q16
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ragazze originarie nel gruppo*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Girls originating in the group< MSK1/>
+
+> From a group of boys and girls, 15 girls leave. At this point, for every girl who stays, there are exactly two boys. After a while 45 boys leave the group: now for each boy who remains there are 5 girls. How many girls were originally in the group?
+>  
+> A. 20 B. 25 C. 35 D. 40 E. 75
+
+**Answer:** D
+[[src_kangourou_2002_junior__Q16]]

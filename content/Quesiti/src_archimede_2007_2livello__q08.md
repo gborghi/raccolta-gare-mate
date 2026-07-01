@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_2livello__Q08
 parent: src_archimede_2007_2livello
 competition: Archimede Gara 2° livello 2007 (biennio/triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della falce di luna ritagliata con compasso raggio r√2*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the crescent shaft cut with compass radius r√2*
+
+> Priscilla was commissioned to prepare the sets for her school's performance. It needs a crescent shaft, and it has a r-ray cardboard circle at its disposal in which to cut it; then it points the compass at the edge of the circle, draws an arc of radius r √ 2 and cuts along the traced line. How much is the area of the crescent moon you get?
+>
+> - **(A)** r2
+> - **(B)** √ 2 2 πr2
+> - **(C)** 1 3πr2
+> - **(D)** π 4 + 1 2  r2
+> - **(E)** π 4 + 1  r2
+
+**Answer:** A
+[[src_archimede_2007_2livello__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q28
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di maturare 5-4 sempre in vantaggio*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Mode of maturing 5-4 always to the advantage< MSK1/>
+
+![[src_kangourou_2006_junior_marzo__prob28.png]]
+
+> The final result of a football match is 5-4 in favour of the home team that scored first and, since then, has always been ahead. How many different ways can the final score be matured? (i.e. in how many different orders can the networks have been marked?) A) 17 B) 13 C) 20 D) 14 E) 9
+
+**Answer:** D
+[[src_kangourou_2006_junior_marzo__Q28]]

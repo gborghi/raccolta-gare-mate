@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo35yqa_yosen__Q04
 parent: src_jmo35yqa_yosen
 competition: Japan Mathematical Olympiad 2025 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integers 1..1000 whose remainders mod 2,3,4,5,6 are pairwise distinct*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 49
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Contare i numeri interi 1..1000 i cui restanti mod 2,3,4,5,6 sono separati in coppia< MSK1/>
+
+> Quanti integri $n$ con $1 \le n \le 1000$ hanno la proprietà che i rimanenti ottenuti quando $n$ è diviso da $2$, $3$, $4$, $5$, $6$ rispettivamente sono pareggiamente distinti (nessuno di due è uguale)?
+
+**Risposta:** 49
+[[src_jmo35yqa_yosen__Q04]]

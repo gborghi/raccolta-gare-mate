@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q08
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *due rane sui vialetti, numero di salti*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0005
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*two frogs on the sidewalks, number of jumps*
+
+> **Fraggle jumps**  20 points
+> 
+> There are two frogs in Professor Abacus' house. Right now they're in one of the alleys around the pool and they're trying to reach a water well. The frog $A$ is 20 centimetres from the well, while the $B$ is behind the $A$ one metre from the well. The $B$ at each jump covers half the distance, the second covers a third, the third covers a quarter and so on. After how many jumps does MSK4/ exceed MSK5/, knowing that frogs always jump at the same time?
+
+**Answer:** 0005
+[[src_archimede_2002_squadre__Q08]]

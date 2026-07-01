@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Junior — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_junior__Q27
 parent: src_kangourou_2013_junior
 competition: Kangourou 2013 marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo del minimo delle somme dei vicini su circonferenza*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum of sums of neighbours on circumference*
+
+> Each of the integers from 1 to 10 is written on a circumference, in a completely random order (therefore not necessarily following a rotating line). Then, to each of the numbers written, the two numbers adjacent to it are added, thus obtaining ten new numbers. What is the greatest possible value for the smallest of these numbers? A) 14
+> 	
+> B) 15
+> 	
+> C) 16
+> 	
+> D) 17
+> 	
+> E) 18
+
+**Answer:** B
+[[src_kangourou_2013_junior__Q27]]

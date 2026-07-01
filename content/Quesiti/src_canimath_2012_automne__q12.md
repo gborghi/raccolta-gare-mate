@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2012 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2012_automne__Q12
 parent: src_canimath_2012_automne
 competition: Coupe Animath Automne 2012
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality 5x^2+y^2+4 >= 4x+4xy for all reals, find equality cases*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza 5x^2+y^2+4 >= 4x+4xy per tutti i reali, trova casi di uguaglianza*
+
+> Prova che, per tutti i valori reali $x$ e $y$, $$5x^2 + y^2 + 4 \ge 4x + 4xy.$$ Per quali valori di $x$ e $y$ vale l'uguaglianza?
+
+[[src_canimath_2012_automne__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q17
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -31,6 +32,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation for f,g: R->R involving 2021st power; find all solutions*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $f \equiv 0 \text{ (with any } g\text{) or } f(x)=x,\, g(x)=x^{2021}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale per f,g: R->R che coinvolge potenza 2021st; trovare tutte le soluzioni*
+
+> Trova tutte le funzioni $f:\mathbb{R} \to \mathbb{R}$ e $g:\mathbb{R} \to \mathbb{R}$ in modo tale che per tutte le $x, y \in \mathbb{R}$, $$f(g(x) + y) = (f(x))^{2021} + f(y).$$
+
+**Risposta:** f \equiv 0 \text{ (with any } g\text{) or } f(x)=x,\, g(x)=x^{2021}
+[[src_cn_ctst_2021__Q17]]

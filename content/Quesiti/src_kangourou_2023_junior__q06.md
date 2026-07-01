@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q06
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo n0 tale che (n+1)! ha una cifra in più di n!*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum n0 such that (n+1)! has a digit greater than n!*
+
+> For every positive integer n, the factorial of n is defined as n! = n × (n – 1) × … × 2 × 1. What is the smallest integer n0 such that, for every n < MSK4/> n0, the decimal expression of the number (n + 1)? It contains at least one digit more than n. ? A) 3
+> 	
+> B) 2
+> 	
+> C) 6
+> 	
+> D) 9
+> 	
+> E) 10
+
+**Answer:** C
+[[src_kangourou_2023_junior__Q06]]

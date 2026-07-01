@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2024__Q02
 parent: src_cesenatico_2024
 competition: Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *insieme dei punti mediani*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** due segmenti e quattro archi
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14A3kypX3yL3mm83T1BPC_ELqWeT1zP6s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>set of the median points< MSK1/>
+
+![[src_cesenatico_2024__prob2.png]]
+
+> Let's have a square of the unit side in the plane. A point M of the median plane says if there are two points P and Q, belonging to the edge of the square, such that • the segment PQ has unit length, • M is the middle point of PQ. Determine the whole of all the median points.
+
+**Answer:** due segmenti e quattro archi
+[[src_cesenatico_2024__Q02]]

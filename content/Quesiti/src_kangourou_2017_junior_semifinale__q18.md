@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Semifinale individuale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q18
 parent: src_kangourou_2017_junior_semifinale
 competition: Kangourou 2017 Junior - Semifinale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita derangement di 5 cappelli*
 
@@ -84,3 +87,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1130
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wcjQloPFR27i6zyeHrMFz2T13JxlzXfM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of 5 cap disorders< MSK1/>
+
+> (Points 18) The wardrobe returns 5 hats to the 5 gentlemen who had deposited them at the entrance. What are the odds that no one gets their hat? Write first the numerator and then the denominator of the fraction reduced to the minimum terms expressing the probability: e.g. If it's 7/12, write 0712. A B P C M N A D C B
+> 
+> Question No. This appropriation is intended to cover the expenditure incurred in connection with the implementation of the budget of the European Union.
+
+**Answer:** 1130
+[[src_kangourou_2017_junior_semifinale__Q18]]

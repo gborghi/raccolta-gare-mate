@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier finale nazionale (Mirabilandia) — Quesito E4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_maggio__QE4
 parent: src_kangourou_2009_ecolier_maggio
 competition: Kangourou 2009 - Ecolier finale nazionale (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pesi delle etichette ancora da preparare*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 810,540
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f1h1TJscOH5tK9jr84T2t5qStr4PB-2H/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Weight of labels yet to be prepared*
+
+> (*14 points*) One company produces chocolates all of the same weight and wants to sell them in packs of 36, 28, 24 or 16. Each pack must bear a label indicating the net weight of the contents; labels indicating 630 grams and other indicating 360 grams have already been prepared. What weights will the labels still have to indicate?
+
+**Answer:** 810,540
+[[src_kangourou_2009_ecolier_maggio__QE4]]

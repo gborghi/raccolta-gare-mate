@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2003 — Round 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2003_r2__Q06
 parent: src_pol_2003_r2
 competition: Olimpiade Matematica Polacca 2003 — Round 2
@@ -41,6 +42,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A function f on pairs of nonnegative integers satisfies given recurrences; given f(a,b)=n, find the number of integral solutions x of f(a,x)+f(b,x)=n.*
 
@@ -54,3 +57,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T5f-GdULVCFRGtXR_q1Pm3L7eGRW39tE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Una funzione f su coppie di integri non negativi soddisfa determinate ricorrenze; data f(a,b)=n, trova il numero di soluzioni integrali x di f(a,x) + f(b,x)=n.*
+
+> Una funzione $f$ dalle coppie di integri non negativi ai numeri reali soddisfa le seguenti condizioni: $$f(0,0) = 0, \qquad f(2x,2y) = f(2x+1,2y+1) = f(x,y),$$ $$f(2x+1,2y) = f(2x,2y+1) = f(x,y) + 1$$ per tutti gli integri non negativi $x, y$. $n$ e $a, b$ siano integri non negativi come $f(a,b) = n$. Trova il numero di soluzioni integrali $x$ dell'equazione $f(a,x) + f(b,x) = n$.
+
+[[src_pol_2003_r2__Q06]]

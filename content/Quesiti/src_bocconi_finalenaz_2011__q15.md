@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2011 — Quesito
   15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2011__Q15
 parent: src_bocconi_finalenaz_2011
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2011
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza BC nel triangolo con mediane uguali*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** La distanza $BC$ è 10 cm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance BC in the triangle with equal medians*
+
+> In the $ABC$ triangle, the medians traced by $B$ and $C$ are equal, respectively. It also applies $AB^2 + AC^2 = 500$. Calculate the distance < MSK4/> in cm.
+
+**Answer:** La distanza $BC$ è 10 cm
+[[src_bocconi_finalenaz_2011__Q15]]

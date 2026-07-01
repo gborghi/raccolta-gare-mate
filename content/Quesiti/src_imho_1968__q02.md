@@ -1,6 +1,7 @@
 ---
 title: IMO 1968 (X International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1968__Q02
 parent: src_imho_1968
 competition: IMO 1968 (X International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all real x where digit product equals x^2 - 10x - 22*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find the real x where digit product equals x^2 - 10x - 22
+
+> Find all natural numbers $x$ such that the product of their digits (in decimal notation) is equal to $x^2 - 10x - 22$.
+
+[[src_imho_1968__Q02]]

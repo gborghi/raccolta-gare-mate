@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2021 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2021__Q05
 parent: src_cn_csmo_2021
 competition: China Southeastern Mathematical Olympiad 2021
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Arrange 2021 integers on a line/circle with consecutive-43 divisibility; count valid sequences*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Arrangere i numeri interi 2021 su una linea/circolo con divisibilità consecutiva-43; contare le sequenze valide*
+
+> Per celebrare il 43° anniversario del ripristino delle competizioni matematiche, un amante della matematica organizza i primi interi $2021$ positivi $1, 2, \ldots, 2021$ in una sequenza $\{a_n\}$, in modo tale che qualsiasi numero consecutivo $43$ si somma a un multiple di $43$. (1) Prova che se le due estremità di $\{a_n\}$ sono unite per formare un cerchio, allora tutti i numeri consecutivi $43$ sul cerchio si sommano anche a un multiple di $43$. (2) Determinare il numero di tutte queste sequenze $\{a_n\}$.
+
+[[src_cn_csmo_2021__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2018-19 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2018-19_round2__Q04
 parent: src_bmo_2018-19_round2
 competition: British Mathematical Olympiad 2018-19 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all functions satisfying a monotonicity condition and functional equation*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** f(x) = x
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jUZmLCHSs55rdCMtkd0VDjc9FE08zlaC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni che soddisfano una condizione di monotonicità ed equazione funzionale*
+
+> Trova tutte le funzioni $f$ dai numeri reali positivi ai numeri reali positivi per i quali $f(x) \le f(y)$ ogni volta $x \le y$ e $$f(x^3) + f(x^2) + f(x) + f(1) = x^4 + x^2 + x + 1$$ per tutti $x > 0$.
+
+**Risposta:** f(x) = x
+[[src_bmo_2018-19_round2__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2015 - Biennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_biennio__Q01
 parent: src_archimede_2015_biennio
 competition: Giochi di Archimede 2015 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori possibili della somma di 200 dadi 2/5*
 
@@ -47,3 +50,19 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1prvgjdAFaK6FEUhTIz1KxL8s22sIjytL/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible values of the sum of 200 dice 2/5*
+
+> Laura was given 200 dice as a gift, of a very special kind: each dice has four faces with the number 2 and two faces with the number 5. Laura's gonna roll the 200 dice all together, then she's gonna sum the 200 numbers that came out. How many possible values can this sum assume?
+>
+> - **(A)** 201
+> - **(B)** 1000
+> - **(C)** 601
+> - **(D)** 600
+> - **(E)** 1001
+
+[[src_archimede_2015_biennio__Q01]]

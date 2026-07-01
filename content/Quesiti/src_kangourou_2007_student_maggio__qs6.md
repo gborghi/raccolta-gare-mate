@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Student finale (maggio) — Quesito S6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_student_maggio__QS6
 parent: src_kangourou_2007_student_maggio
 competition: Kangourou 2007 Student finale (maggio)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare il sacchetto falso con tre pesate*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** strategia 3 pesate
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HUfAMVLA7IpFMgDDc-PE2DVK0jJ_IXLH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Finding the fake bag with three weights
+
+> $2007$ numbered bags shall each contain at least $3000$ coins. The coins in each single bag are all equal in weight and shape and are marked with the bag number. Except for one bag containing counterfeit coins, all the others contain official coins. Official coins all have the same weight, different from the weight of counterfeit coins: the two weights are unknown. You have an electronic balance sheet. Find a strategy to determine by three weights what the bag containing counterfeit coins is, showing its effectiveness.
+
+**Answer:** strategia 3 pesate
+[[src_kangourou_2007_student_maggio__QS6]]

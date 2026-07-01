@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Junior Finale 2 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_squadre_f2__Q13
 parent: src_kangourou_2024_junior_squadre_f2
 competition: Kangourou Squadre 2024 Junior Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coordinate vertice cubo con prima coord 0*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0047
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Coordinates of cube vertices with first coordinates 0*
+
+> The vertex Compared to a system of orthogonal (monometric) Cartesian axes fixed for space, the three points (4, 0, 3), (6, 4, 1) and (2, 8, 5) represent three of the vertices of a cube. Only one of the remaining 5 vertices has as its first coordinate 0: what are its coordinates in order? (The coordinates required are all integers not less than 10, so the answer must be [00AB].)
+
+**Answer:** 0047
+[[src_kangourou_2024_junior_squadre_f2__Q13]]

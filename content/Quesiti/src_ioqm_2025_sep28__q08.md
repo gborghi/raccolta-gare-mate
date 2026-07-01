@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q08
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -34,6 +35,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill 2×3 grid with 1–6 so adjacent cells are coprime; count ways*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fill 2×3 grid con 16 in modo che le celle adiacenti siano coprime; contare modi*
+
+> Considerate un rettangolo $2 \times 3$ costituito da 6 unità quadrate. In quanti modi possiamo riempire le sei celle utilizzando i numeri $1, 2, 3, 4, 5, 6$, uno in ogni cella, in modo che qualsiasi numero in celle adiacenti (cioè in celle che condividono un lato comune) sia coprimo l'uno dell'altro?
+
+[[src_ioqm_2025_sep28__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q24
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita segnaposto in A dopo 10 lanci (cubo)*
 
@@ -42,3 +45,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4921
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of A after 10 launches (cube) < MSK1/>
+
+![[src_gs_2012_squadre__prob24.png]]
+
+> Snow White, the Seven Dwarfs and the Blue Prince leave it up to the Queen to decide her fate. They take a cube, mark the three sides of the cube that pass through the same vertex $A$ with 0, 1 and 2. They then mark all the remaining sides with the number already written on a parallel side. Then, in $A$, they enter a 'post'. The Queen has to throw a six-sided dice unmade. If the result of the dice roll is $n$, divide $n$ by 3. If the remainder is 0, move the mark from $A$ along side 0 to reach the other vertex; similarly, if the remainder is 1 or 2, move the mark along side 1 or 2. With each subsequent roll of the dice, the placeholder moves with the same criterion. If, after a total of 10 throws, the mark is in $A$, the Queen shall wear two rounded iron shoes. What are the odds that the Queen will wear red shoes?
+> 
+> It shall be answered by the fraction reduced to the minimum terms expressing that probability.
+
+**Answer:** 4921
+[[src_gs_2012_squadre__Q24]]

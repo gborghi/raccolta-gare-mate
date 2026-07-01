@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 2) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g2__Q08
 parent: src_bocconi_finaleint_2009_g2
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare lo sviluppo di un cubo aperto (senza coperchio)*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_LRZ35lngxx9JZL11y14CrDyt5FTBU28/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete the development of an open cube (without lid) *
+
+> The pattern of the unfinished cube. Some faces are already drawn (in gray) on a grid: the patron (plane development) of an open cube, consisting of the bottom (the base) and a single other face (the lid), is desired. There are more grey boxes on the grid than there are white boxes. Search all possible white boxes that complete the development.
+
+![[src_bocconi_finaleint_2009_g2__Q08.png]]
+
+[[src_bocconi_finaleint_2009_g2__Q08]]

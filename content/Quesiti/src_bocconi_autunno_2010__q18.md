@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2010 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2010__Q18
 parent: src_bocconi_autunno_2010
 competition: Giochi d'Autunno 2010
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore della somma alternata di prodotti di dispari consecutivi*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2 024 067
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of the alternate sum of consecutive odd products*
+
+> But Amerigo is struggling with a calculation. Help him calculate the value of this expression: $1 \times 3 - 5 \times 7 + 9 \times 11 - 13 \times 15 + \ldots - 2005 \times 2007 + 2009 \times 2011$
+
+**Answer:** 2 024 067
+[[src_bocconi_autunno_2010__Q18]]

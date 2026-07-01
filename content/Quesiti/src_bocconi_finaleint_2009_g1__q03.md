@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 1) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g1__Q03
 parent: src_bocconi_finaleint_2009_g1
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *37esimo numero della successione ottenuta sommando le cifre e moltiplicando per 7.*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 119
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*37th succession number obtained by adding the digits and multiplying by 7.*
+
+> 3 - MATHILDE's ETA (coefficient 3) Mathilde is 11 years old today, her younger brother is 7 and her mother 37. Mathilde writes her age: 11. Add the digits to this number, then multiply the result by 7 and write the result of the multiplication: 14. Then it starts again from the last number written: add the digits of this number, then multiply the result by 7 and write the result of the multiplication: 35. The first three numbers written are 11, 14, and 35. What number would Mathilde write?
+
+**Answer:** 119
+[[src_bocconi_finaleint_2009_g1__Q03]]

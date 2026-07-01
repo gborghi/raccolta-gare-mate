@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1988 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1988_r3__Q06
 parent: src_pol_1988_r3
 competition: Olimpiade Matematica Polacca 1988 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest volume tetrahedron inscribed in hemisphere of radius 1*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Wbv_RAAU8fv1-DKP1_7EzhBkm88ItD3h/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Tetraedro di maggior volume inserito nell'emisfero del raggio 1< MSK1/>
+
+> Determinare il più grande volume possibile di un tetraedro situato all'interno di un emisfero di raggio $1$.
+
+[[src_pol_1988_r3__Q06]]

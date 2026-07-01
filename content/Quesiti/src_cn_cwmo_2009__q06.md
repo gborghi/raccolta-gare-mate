@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2009 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2009__Q06
 parent: src_cn_cwmo_2009
 competition: China Western Mathematical Olympiad 2009
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *AMN~ABC iff AD passes through circumcenter, via perpendiculars from A*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*AMN~ABC se l'AD passa attraverso il circondario, attraverso le perpendicolari da A*
+
+> Il $D$ deve essere un punto sul lato $BC$ di un triangolo acuto $ABC$. Il cerchio di diametro $BD$ incontra rispettivamente le linee $AB$ e $AD$ nei punti $Y$ e $Q$, differenti dai punti $B$ e $D$. Il cerchio di diametro $CD$ incontra rispettivamente le linee $AC$ e $AD$ nei punti $P$ e $X$, differenti dai punti $C$ e $D$. Attraverso il punto $A$ disegnare due linee perpendicolari a $PX$ e $QY$ con i piedi perpendicolari $M$ e $N$ rispettivamente. Prove che $\triangle AMN \odot \triangle ABC$ se e solo se $AD$ passa attraverso il circondario di $\triangle ABC$.
+
+![[src_cn_cwmo_2009__Q06.png]]
+
+[[src_cn_cwmo_2009__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q29
 parent: src_kangourou_2019_benjamin_marzo
 competition: Kangourou 2019 Gara di Marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cosa vedro tra 3 ore e 45 minuti (segmenti spenti)*
 
@@ -54,3 +57,25 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1mCVu8mcZWozh4A9IixxiUAmKQbLsElwm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What I see in 3 hours to 45 minutes (off segments) *
+
+![[src_kangourou_2019_benjamin_marzo__prob29.png]]
+
+> To make every digit of my digital watch appear, I need to illuminate seven segments at most. Unfortunately, in each of the four positions (hours and minutes) there are two segments that never light up, the same two for all positions. So this is what I'm seeing on my watch now: what am I going to see in three hours and 45 minutes? A)
+> 	
+> 	
+> B)
+>  	
+> C)
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** A
+[[src_kangourou_2019_benjamin_marzo__Q29]]

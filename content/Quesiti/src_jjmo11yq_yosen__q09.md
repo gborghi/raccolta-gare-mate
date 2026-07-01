@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo11yq_yosen__Q09
 parent: src_jjmo11yq_yosen
 competition: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count triples summing to 2013 each coprime to 2013*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 318600
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KqvofIIXgEWPDHUAZMRGkscvso3ZVrK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta triplici sommando al 2013 ogni coprimo fino al 2013*
+
+> Quanti triples $(a,b,c)$ di numeri interi positivi sono tali che $a+b+c=2013$ e ciascuno di $a,b,c$ sia coprimo a $2013$?
+
+**Risposta:** 318600
+[[src_jjmo11yq_yosen__Q09]]

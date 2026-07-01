@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1998 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_2livello__Q03
 parent: src_archimede_1998_2livello
 competition: Archimede Gara 2º livello 1998
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo perché il raggio del nastro raddoppi di nuovo*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Time for the tape beam to double again< MSK1/>
+
+> The ribbon part of a recorder wrapped in a coil forms a circular crown. Knowing that after 20 minutes of operation the radius of the circular crown has doubled, how long will the recorder have to continue to operate for the radius to double again? The tape is flowing at a constant speed.
+>
+> - **(A)** 20 minutes .
+> - **(B)** 40 minutes
+> - **(C)** an hour
+> - **(D)** One hour and twenty minutes
+> - **(E)** depends on the inner radius of the circular crown.
+
+**Answer:** D
+[[src_archimede_1998_2livello__Q03]]

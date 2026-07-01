@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r1__Q04
 parent: src_rmo_2013_r1
 competition: Regional Mathematical Olympiad 2013
@@ -34,6 +35,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 10-tuples of integers with bounded entries and sum-of-products condition*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kzoUvCWGpDy_1Yry02V2lM4u5xLLwPb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare 10 triples di numeri interi con voci limitate e condizione somma di prodotti*
+
+> Trova il numero di 10 tupli $(a_1, a_2, \ldots, a_{10})$ di numeri interi come $|a_i| \leq 1$ e $$a_1^2 + a_2^2 + a_3^2 + \cdots + a_{10}^2 - a_1 a_2 - a_2 a_3 - a_3 a_4 - \cdots - a_9 a_{10} - a_{10} a_1 = 2.$$
+
+[[src_rmo_2013_r1__Q04]]

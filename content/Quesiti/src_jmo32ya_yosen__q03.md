@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo32ya_yosen__Q03
 parent: src_jmo32ya_yosen
 competition: Japan Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Hamiltonian circuits on regular hexagon with adjacent-or-opposite moves*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circuiti di Hamilton su esagoni regolari con mosse adiacenti o opposte*
+
+> Etichettare le vertici di un esagono regolare $A, B, C, D, E, F$ in ordine. Da qualsiasi vertice, si può spostare verso un vertice adiacente o verso il vertice diametralmente opposto. Quanti percorsi chiusi esistono che iniziano a $A$, visitano ciascuno degli altri cinque vertici esattamente una volta (senza tornare a $A$ fino alla fine), e poi ritornano a $A$?
+
+**Risposta:** 12
+[[src_jmo32ya_yosen__Q03]]

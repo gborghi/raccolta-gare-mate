@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier finale individuale — Quesito E4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__QE4
 parent: src_kangourou_2022_ecolier_finale
 competition: Kangourou 2022 Ecolier finale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali cassette contengono banane dai pesi*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** la 1 e la 4
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Tasks containing bananas by weight < MSK1/>
+
+![[src_kangourou_2022_ecolier_finale__probE4.png]]
+
+> A fruit vendor only sells apples, bananas and oranges. He was ordered to compose five cassettes, none of which contained either apples or bananas. He used a total of four oranges, each weighing two and a half hectares; the total weight of the apples he used was three times that of the bananas he used. Here's the weight of the contents of the five boxes: box 1:8 kg, box 2:5 kg, box 3:6 kg, box 4:2 kg, box 5:16 kg. Which or which cassette contains bananas?
+
+**Answer:** la 1 e la 4
+[[src_kangourou_2022_ecolier_finale__QE4]]

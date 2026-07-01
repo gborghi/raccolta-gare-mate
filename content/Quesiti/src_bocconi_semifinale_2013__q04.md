@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2013 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2013__Q04
 parent: src_bocconi_semifinale_2013
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2013
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorni belli nel 2013*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Nice days in 2013
+
+> March 12, 2013 is a "beautiful" day because only the digit "4"  is written to complete the following writing, replacing appropriate digits instead of the $*$ symbol: it is written as $12.03.2013$ using the digit "0", twice the digit "1", twice the digit "2" and twice the digit "3".
+> 
+> How many "beautiful" days are there in 2013, from January 1 to December 31, including March 12?
+
+**Answer:** 7
+[[src_bocconi_semifinale_2013__Q04]]

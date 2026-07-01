@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q29
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Metri del secondo tra due incontri sulla pista circolare*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Meter of the second between two encounters on the circular track*
+
+> Two friends are training on a 720-meter-long circular track. They run in opposite directions, both at constant speed. The first takes four minutes to complete a lap, the second takes five. How many yards does the second run between two consecutive meetings with his friend? A) 355 B) 350 C) 340 D) 330 E) 320
+
+**Answer:** E
+[[src_kangourou_2017_cadet_marzo__Q29]]

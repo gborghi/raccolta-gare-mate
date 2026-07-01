@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_b__Q11
 parent: src_prmo_2015_b
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -32,6 +33,8 @@ tags:
   - regione/b
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two linear equations in a,b,c; find a²-b²+c²*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due equazioni lineari in a,b,c; trovare a2-b2+c2*
+
+> $a$, $b$, $c$ siano numeri reali come $a - 7b + 8c = 4$ e $8a + 4b - c = 7$. Qual è il valore di < MSK5/>?
+
+**Risposta:** 1
+[[src_prmo_2015_b__Q11]]

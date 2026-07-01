@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q20
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti veri*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many true < MSK1/>
+
+> Irene asked five of her students how many of them had studied yesterday. Aldo answered no one, Bianca answered only one, Clelia answered exactly two, Diana answered exactly three, Henry answered exactly four. Irene knows that students who didn't study lied and those who studied told the truth. How many of these students studied yesterday? A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 3
+> 	
+> E) 4 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** B
+[[src_kangourou_2015_marzo_cadet__Q20]]

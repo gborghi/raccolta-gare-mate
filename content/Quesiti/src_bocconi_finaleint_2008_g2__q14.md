@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 2) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g2__Q14
 parent: src_bocconi_finaleint_2008_g2
 competition: >-
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tagliare la griglia in cinque pezzi di ugual area e perimetro.*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cutting the grid into five pieces of equal area and perimeter.*
+
+> Cut the grid into five square pieces of paper each containing the same area and perimeter. Note: the unit length is the side of a small square of the square, and the unit area is that of a small square.
+
+![[src_bocconi_finaleint_2008_g2__Q14.png]]
+
+[[src_bocconi_finaleint_2008_g2__Q14]]

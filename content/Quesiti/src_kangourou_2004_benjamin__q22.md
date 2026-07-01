@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q22
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti funghi ha raccolto Stefania*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many mushrooms did Stefania collect?
+
+> Stefania and Simonetta went to mushrooms and collected a total of 70. 5/9 of the mushrooms Stefania collects are pigs and 2/17 of the mushrooms Simonetta collects are eggs. How many mushrooms did Stefania collect? A)  27 B)  36 C)  45 D)  54        E)  9
+
+**Answer:** B
+[[src_kangourou_2004_benjamin__Q22]]

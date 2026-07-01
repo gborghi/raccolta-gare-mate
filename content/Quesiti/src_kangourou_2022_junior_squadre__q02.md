@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Junior Finale 1 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_squadre__Q02
 parent: src_kangourou_2022_junior_squadre
 competition: Kangourou Squadre 2022 Junior Finale 1
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora in cui balena veloce inverte la rotta*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1039
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Time when the fast whale reverses course*
+
+> The whales Two whales swim side by side in a straight line at a speed of 6 km/h. At a certain moment one of the two accelerates at 10 km/h, travels a certain stretch then reverses the route and returns, always at 10 km/h, until meeting the other which instead has continued always at 6 km/h. If the whales separated at 9:15 a.m. and met at 11:00 a.m., what time did the fast whale reverse course? (Write the time without the two points, for example for 9:15 write 0915.)
+
+**Answer:** 1039
+[[src_kangourou_2022_junior_squadre__Q02]]

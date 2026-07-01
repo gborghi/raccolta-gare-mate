@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f1__Q14
 parent: src_obm_2014_n1_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rosa distributes among nephews; 10 left over, then 22, finally distributes 240; amount each got*
 
@@ -50,3 +53,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Rosa distribuisce tra i nipoti; 10 restano, poi 22, distribuisce infine 240; quantità ottenute ciascuno
+
+> Rosa decise di distribuire $250$ reais tra i suoi nipoti, dando la stessa quantità intera (senza centavos) a ciascuno, ma vide che $10$ reais sarebbero rimasti. Poi ha deciso di dare una quantità maggiore a ciascuno, ma allora $22$ reais sarebbe rimasto. Pertanto ha deciso di distribuire solo < MSK3/> reais. Quanto guadagnava ogni nipote?
+> 
+> (A) $5$ reais \quad (B) $10$ reais \quad (C) $12$ reais \quad (D) $15$ reais \quad (E) $20$ reais
+
+[[src_obm_2014_n1_f1__Q14]]

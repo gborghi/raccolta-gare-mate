@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1990-91 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1990-91_round1__Q06
 parent: src_bmo_1990-91_round1
 competition: British Mathematical Olympiad 1990-91 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show x is a perfect square if x²+y²−x is divisible by 2xy*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RHKdSRDAew3qzVnew5inH0HcPIaeY4qf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra x è un quadrato perfetto se x2+y2−x è divisibile da 2xy*
+
+> Mostrare che se $x$ e $y$ sono numeri interi positivi in modo tale che $x^2 + y^2 - x$ sia divisibile da $2xy$ allora $x$ è un quadrato perfetto.
+
+[[src_bmo_1990-91_round1__Q06]]

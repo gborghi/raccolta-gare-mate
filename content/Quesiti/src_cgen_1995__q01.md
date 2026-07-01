@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1995 — Matematica — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1995__Q01
 parent: src_cgen_1995
 competition: Concours Général des Lycées 1995 — Matematica
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isobarycenter locus as line varies in plane triangle*
 
@@ -51,3 +54,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Locus isobarycenter come linea varia nel triangolo piatto*
+
+> In un piano $P$, abbiamo un triangolo $ABC$. Per ciascuna linea $D$, parallela a nessuna delle laterali, si associa il punto $G_D$, l'isobariocentro dei tre piedi delle perpendicolari da $A$, $B$, $C$ a $D$ e alle linee $(AB)$, $(BC)$ e $(CA)$. L'obiettivo di questo esercizio è determinare l'insieme $\mathcal{F}$ dei punti $G_D$ in quanto $D$ varia.
+> 
+> 1. Indicare che quando $D$ si muove mentre rimane parallelo a una linea $\Delta$, il punto $G_D$ traccia una linea $\Delta_0$.
+> 
+> 2. Supponiamo, solo in questa sotto-questione, che il triangolo $ABC$ sia equilaterale. Mostrare che quando $D$ varia, le linee $\Delta_0$ sono tutte tangenti a un cerchio comune e determinare il set $\mathcal{F}$ in questo caso.
+> 
+> 3. Torniamo al caso generale. Mostrare che si può trovare un triangolo equilaterale $A'B'C'$ nello spazio la cui proiezione ortogonale sul piano $P$ è il triangolo $ABC$, e dedurre l'insieme $\mathcal{F}$.
+
+[[src_cgen_1995__Q01]]

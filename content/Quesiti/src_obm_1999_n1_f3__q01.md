@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f3__Q01
 parent: src_obm_1999_n1_f3
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divide a cube into 1999 small cubes*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IF5oIN7pSMmXLD_JUuT4LeOoSufQgncA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Dividere un cubo in piccoli cubetti del 1999
+
+> Spiega come dividere un cubo in piccoli cubetti $1999$. La figura mostra un modo per dividere un cubo in $15$ piccoli cubetti.
+
+![[src_obm_1999_n1_f3__Q01.png]]
+
+[[src_obm_1999_n1_f3__Q01]]

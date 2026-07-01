@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 2) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g2__Q17
 parent: src_bocconi_finaleint_2008_g2
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare la password AB di otto cifre con condizioni su A, B e una successione di Fibonacci.*
 
@@ -52,3 +55,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6764 5819
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find the eight-digit AB password with conditions on A, B and a Fibonacci sequence.*
+
+> Hector's computer password is a number of the form AB (the digits of the numbers A and B are written consecutively). Hector knows that even if he forgets it, he can find his password again, but he only knows that: $\bullet$ A and B are two four-digit numbers (not starting with zero); $\bullet$ A is greater than B; $\bullet$ A and B have no common divisor other than 1; $\bullet$ the number of four digits AB is a succession term whose first term is A, the second term is B and each subsequent term is the sum of the two terms that precede it. What's Hector's password?
+
+**Answer:** 6764 5819
+[[src_bocconi_finaleint_2008_g2__Q17]]

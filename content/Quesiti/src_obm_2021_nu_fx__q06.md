@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2021_nu_fx__Q06
 parent: src_obm_2021_nu_fx
 competition: Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Recursively defined bacana word pairs; prove (α,β) bacana iff αβ is palindrome*
 
@@ -54,3 +57,19 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MgR4bVfP7Fq55ZFrheOqs-UCf6k35qyg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Parli di parole bacana definiti ricorrentemente; prove (α,β) bacana se αβ è palindromo< MSK1/>
+
+> Difiniamo ricorrentemente **bacana** coppie di parole $(\alpha, \beta)$ sull'alfabeto $\{a, b\}$ come segue: $(\alpha, \beta)$ è una coppia di bacana se e solo se esiste una coppia di bacana $(u, w)$ tale che $(\alpha, \beta) = (u, w)$ o $(\alpha, \beta) = (w, u)$; oppure esiste $c_i \in \{a, b\}$ per tutti $i$, e un intero positivo $n$, tale che $\alpha = c_1 c_2 \ldots c_n$ con $c_{n+1-j} = c_j$ per tutti $1 \le j \le n$.
+> 
+> Diciamo che una parola $c_1 c_2 \ldots c_n$ con $c_i \in \{a, b\}$ è un **palindromo** se $c_{n+1-j} = c_j$ per tutti $1 \le j \le n$.
+> 
+> Prova che $(\alpha, \beta)$ è una coppia di bacana se e solo se la concatenamento $\alpha\beta$ è un palindromo.
+> 
+> *Ricordo: * Siamo d'accordo che la parola vuota (con lettere $0$) è un palindromo. Se le parole $u = a_1 a_2 \ldots a_i$ e $v = b_1 b_2 \ldots b_j$ sono indicate, il simbolo $uv$ indica la loro concatenamento $a_1 a_2 \ldots a_i b_1 b_2 \ldots b_j$.
+
+[[src_obm_2021_nu_fx__Q06]]

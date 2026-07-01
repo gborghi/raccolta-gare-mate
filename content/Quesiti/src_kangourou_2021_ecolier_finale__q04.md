@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - finale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q04
 parent: src_kangourou_2021_ecolier_finale
 competition: Kangourou 2021 Ecolier - finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Correggere 25x2=211 con +1/-1 sulle cifre*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 34x3=102
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Correct 25x2=211 with +1/-1 on the digits< MSK1/>
+
+> How many different four-digit numbers can be obtained from $337337$ by deleting two digits?
+>
+> - **(A)** 6
+> - **(B)** 7
+> - **(C)** 8
+> - **(D)** 9
+> - **(E)** 10
+
+**Answer:** 34x3=102
+[[src_kangourou_2021_ecolier_finale__Q04]]

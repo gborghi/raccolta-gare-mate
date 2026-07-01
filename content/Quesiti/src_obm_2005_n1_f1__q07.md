@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q07
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Population sum three years ago given current growth data*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Summa della popolazione tre anni fa data l'attuale crescita < MSK1/>
+
+> Tre anni fa, la popolazione di Pirajussara era uguale a quella di Tucupira oggi. Da allora, la popolazione di Pirajussara non è cambiata, mentre la popolazione di Tucupira è cresciuta di < MSK0/>. Attualmente, entrambe le città insieme hanno < MSK1/> abitanti. Qual era la somma della popolazione delle due città tre anni fa?
+> 
+> A) $3{,}600$ \quad B) $4{,}500$ \quad C) $5{,}000$ \quad D) $6{,}000$ \quad E) $7{,}500$
+
+**Risposta:** D
+[[src_obm_2005_n1_f1__Q07]]

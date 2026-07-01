@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q12
 parent: src_kangourou_2015_marzo_benjamin
 competition: Kangourou 2015 gara 19 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima somma cifre data gg/mm dell'anno*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1AiqamuCK6oQtEOLFArlQVHEyWohLlfzH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number given g/mm for the year*
+
+> Every evening Mary writes the date of the day (without the year) in numbers and then calculates the sum of the numbers written. For example, on March 19, write 19/03 and calculate 1 + 9 + 0 + 3 = 13. What is the largest number that can write this way during the year? A) 7
+> 	
+> B) 13
+> 	
+> C) 14
+> 	
+> D) 16
+> 	
+> E) 20
+
+**Answer:** E
+[[src_kangourou_2015_marzo_benjamin__Q12]]

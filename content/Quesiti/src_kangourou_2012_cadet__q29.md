@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q29
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale lunghezza non puo avere lo spago piegato e tagliato*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which length cannot have the folded and cut barrel< MSK1/>
+
+> A spago was folded in half, and then again in half, and then again in half. Eventually, the folded sponge was cut once and formed into several pieces. One is 9 cm long, the other 4 cm. Then the length in centimetres of the entire length A) cannot be 52. B) It cannot be 68. (c) it cannot be 72. D) it cannot be 88. (e) it may be any of the measures proposed.
+
+**Answer:** C
+[[src_kangourou_2012_cadet__Q29]]

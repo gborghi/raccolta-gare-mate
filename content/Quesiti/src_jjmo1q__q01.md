@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2003 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo1q__Q01
 parent: src_jjmo1q
 competition: Japan Junior Mathematical Olympiad 2003
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute a decimal arithmetic expression*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolare un'espressione aritmetica decimale*
+
+> Calcolare la seguente espressione: $$18.6 \div 31 - 2.604 \div 3.1 - 0.8556 \div 0.31$$
+
+[[src_jjmo1q__Q01]]

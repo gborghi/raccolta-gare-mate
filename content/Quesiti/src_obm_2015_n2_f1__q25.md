@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q25
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count of ways to write 2015 as a sum of three numbers (a parcel repeated)*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta dei modi per scrivere il 2015 come somma di tre numeri (un pacchetto ripetuto) *
+
+> A Julieta piace scrivere il numero 2015 come la somma di tre numeri. Non sempre lo scrive come la somma di tre diversi numeri; ad esempio, $2015=670+671+674$ e $175+920+920=2015$. Si noti che nel secondo esempio il numero 920 appare due volte nella stessa somma. In questo modo, in quanti modi possibili due numeri sembrano uguali come lo stesso pacchetto?
+> 
+> (A) 50 (B) 100 (C) 450 (D) 858 (E) 907
+
+[[src_obm_2015_n2_f1__Q25]]

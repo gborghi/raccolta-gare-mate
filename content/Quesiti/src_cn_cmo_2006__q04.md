@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2006 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2006__Q04
 parent: src_cn_cmo_2006
 competition: China Mathematical Olympiad 2006
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove AE + AP = PD in right triangle with incircle*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove AE + AP = PD in triangolo rettangolo con incircolo*
+
+> $\triangle ABC$ sia un triangolo rettangolare con $\angle ACB = 90^\circ$. Il cerchio $\odot$ di $\triangle ABC$ è tangente a $BC$, $CA$, $AB$ rispettivamente a $D$, $E$ e $F$. < MSK10/> si interseca con < MSK11/> a < MSK12/>. $\angle BPC = 90^\circ$. Prove che $AE + AP = PD$.
+
+[[src_cn_cmo_2006__Q04]]

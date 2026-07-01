@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Benjamin — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin__Q26
 parent: src_kangourou_2014_benjamin
 competition: Kangourou 2014 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale immagine non si ottiene appiattendo il cubo*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What image is not obtained by flattening the cube*
+
+![[src_kangourou_2014_benjamin__prob26.png]]
+
+> Look at the figure. On a transparent plastic cube a decorative line is drawn, retracting some of the beads and some of the diagonals of some faces. For each of its faces, imagine flattening the cube by squeezing it perpendicular to that face (thus, of the five moving faces, only the opposite face will remain intact, while the other four will be compressed, each on one side of that face). Any of the following images can then be obtained, except one. What kind? A) B) C) D) E)
+
+**Answer:** D
+[[src_kangourou_2014_benjamin__Q26]]

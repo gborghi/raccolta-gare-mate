@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior Semifinale individuale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_semifinale__Q07
 parent: src_kangourou_2021_junior_semifinale
 competition: Kangourou 2021 Junior Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza aree corone circolari poligoni regolari n lati*
 
@@ -54,3 +57,21 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Difference between regular circular polygon crown areas n sides*
+
+> (5 points) We denote with an area of the circular crown bounded by two inscribed and circumscribed circumferences to a regular polygon of n sides, each of length 1. What is the difference between A2021 − A2020? A)   B)  
+>  
+> C)  
+>  
+>  
+> D)  
+>  
+> E) 0
+
+**Answer:** E
+[[src_kangourou_2021_junior_semifinale__Q07]]

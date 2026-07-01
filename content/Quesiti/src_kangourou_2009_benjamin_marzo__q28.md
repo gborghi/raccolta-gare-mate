@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q28
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -30,6 +31,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma numeri prima riga (tabella somma/differenza)*
 
@@ -66,3 +69,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary first row numbers (sum/difference table) *
+
+![[src_kangourou_2009_benjamin_marzo__prob28.png]]
+
+> In a 4 x 2 table, two different positive integers are placed in the first row. Each subsequent row contains the sum and difference (major minus minor) of the two numbers written in the previous row: respectively, below the minor the sum is written and below the major the difference. In an 11 x 2 table constructed in the same way, the numbers in the last row are 64 and 96. What is the sum of the numbers in the first line? A) 4 B) 5 C) 10 D) 40 E) 80 29.In the village of Piedistrani each inhabitant has the longest left foot than the right foot: men longer than two numbers and women longer than one. The shops, however, are like the rest of the world: they sell paired shoes, a right shoe and a left shoe of the same number. To save money, some of Piedistrani's friends, including an X acquaintance of ours who we know about the sex and shoe numbers, decide to associate and buy the shoes together, and then pair them together in the way that suits them. In doing so, each of you takes two shoes and one of the number 36 and one of the number 45 remain unused. We want to determine the maximum number of friends who might have agreed. This number A) is 8 if X is a male, is 9 if X is a female. (b) depends on both sex and number of right shoe of X. (c) depends only on the right shoe number of X. D) is 5 anyway. E) is 9 anyway.
+
+**Answer:** B
+[[src_kangourou_2009_benjamin_marzo__Q28]]

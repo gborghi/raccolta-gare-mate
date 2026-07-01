@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2006 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2006__Q06
 parent: src_cn_cmc_2006
 competition: China Mathematical Competition 2006
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 2007-digit decimal integers with no digit equal to 9*
 
@@ -48,3 +51,19 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi decimali a 2007 cifre senza cifra uguale a 9*
+
+> $S$ sia l'insieme di tutti gli enti decimali del 2007 $\overline{a_1 a_2 a_3 \cdots a_{2006}}$ che non contengono alcuna cifra del valore '9' in ogni sequenza $a_1, a_2, a_3, \cdots, a_{2006}$. Il numero cardinale di $S$ è
+>
+> - **(A)** $\dfrac{1}{2}(10^{2006} + 8^{2006})$
+> - **(B)** $\dfrac{1}{2}(10^{2006} - 8^{2006})$
+> - **(C)** $10^{2006} + 8^{2006}$
+> - **(D)** $10^{2006} - 8^{2006}$
+
+**Risposta:** B
+[[src_cn_cmc_2006__Q06]]

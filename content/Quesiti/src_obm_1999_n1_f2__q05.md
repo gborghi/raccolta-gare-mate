@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f2__Q05
 parent: src_obm_1999_n1_f2
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 2
@@ -40,6 +41,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Building with 1000 floors: find floors served by all four elevators, and by exactly four*
 
@@ -60,3 +63,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sVRS4YG1oL_KhveTUD5PLD8vlbfPaSxf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Costruzione con 1000 piani: trovare i piani serviti da tutti e quattro gli ascensori, e esattamente da quattro*
+
+> Un edificio molto alto ha < MSK0/> piani, senza contare il piano terra. Dal piano terra partono cinque ascensori:
+> 
+> - L'ascensore si ferma ad ogni piano. - Sosta di ascensore $B$ a piani multipli di $5$: $0, 5, 10, 15, \ldots$ - Sosta di ascensore $C$ a piani multipli di $7$: $0, 7, 14, 21, \ldots$ - Sosta di ascensore $D$ a piani multipli di $17$: $0, 17, 34, 51, \ldots$ - Sosta di ascensore $E$ a piani multipli di $23$: $0, 23, 46, 69, \ldots$
+> 
+> a) dimostrare che, escludendo il piano terra, non vi è piano in cui si fermano tutti e cinque gli ascensori.
+> 
+> b) Determinare il numero di piani in cui si fermano esattamente quattro ascensori.
+
+[[src_obm_1999_n1_f2__Q05]]

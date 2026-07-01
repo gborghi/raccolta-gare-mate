@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_finale__Q19
 parent: src_garasquadre_2006_finale
 competition: VII Gara Nazionale a Squadre 2006 - Finale
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *probabilita nessuno davanti*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0029
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1gZSw1a8n1M4j9DvH6wTbhtIqnyyqml42/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*probability no one in front of *
+
+> Hardy, Hermita and Ron are going to class with Fracto Malpoysto. The four are randomly arranged in two rows of five seats each. Calculate the probability that everyone sees well, that is, that nobody has anyone else in front of them. Express the result as the sum of the numerator and denominator of the fraction reduced to minimum terms.
+> 
+> I'm going to pay. 4 out of 4  Team competition 2006  National final  Problem texts
+
+**Answer:** 0029
+[[src_garasquadre_2006_finale__Q19]]

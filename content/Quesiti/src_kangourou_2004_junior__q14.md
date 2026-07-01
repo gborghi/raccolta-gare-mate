@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior (18 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior__Q14
 parent: src_kangourou_2004_junior
 competition: Kangourou 2004 Junior (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezza acqua nella tanica II immersa*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Height of water in submerged tank II< MSK1/>
+
+![[src_kangourou_2004_junior__prob14.png]]
+
+> Look at the figure. In TANIC I, the base of which has an area of 2 square centimetres, the water reaches a height of 5 centimetres. The 7 cm high and 1 cm2 square of the base of the tank II is immersed, empty, in the bottom of the tank I until it is anchored. At this point a portion of the water flows into TANK II. How high does the water reach in TANK II? A) 1 cm B) 2 cm C) 3 cm D) 4 cm E) 5 cm
+
+**Answer:** C
+[[src_kangourou_2004_junior__Q14]]

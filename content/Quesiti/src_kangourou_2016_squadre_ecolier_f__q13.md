@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q13
 parent: src_kangourou_2016_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2016 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Fila e posto al concerto da vincoli su posti e file*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1106
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AmqdvgZVEwczaExdEeD0t4IQIsBaAuB7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*File and place at the concert from seating and file constraints*
+
+> In a concert hall there are 20 rows, each with 16 seats, numbered from left to right, for the viewer. The number of seats on my right is equal to the number of files in front of me and it's double the seats on my left. What row and where am I sitting? Write the result by first indicating the row number and then the seat number, in both cases using two digits (possibly 01 to indicate 1, etc.).
+
+**Answer:** 1106
+[[src_kangourou_2016_squadre_ecolier_f__Q13]]

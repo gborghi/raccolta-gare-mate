@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2008-09 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2008-09_round1__Q04
 parent: src_bmo_2008-09_round1
 competition: British Mathematical Olympiad 2008-09 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive integers n with n+2008 | n²+2008 and n+2009 | n²+2009*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXGOMG__rn1G2sSN7-cdseEPQ7g9ONRS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova i numeri interi positivi n con n+2008
+
+> Trova tutti gli integri positivi $n$ in modo tale che entrambi $n + 2008$ dividano $n^2 + 2008$ e $n + 2009$ dividono $n^2 + 2009$.
+
+[[src_bmo_2008-09_round1__Q04]]

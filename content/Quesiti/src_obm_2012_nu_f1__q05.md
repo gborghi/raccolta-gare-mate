@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1 —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_nu_f1__Q05
 parent: src_obm_2012_nu_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count matrices M_i with A^4 = M_i among three given matrices*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VJG3lcmttXkoTtSX_ZbVy5feO9Uy-VFe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare matrici M_i con A^4 = M_i tra tre matrici date*
+
+> In questo caso, si deve indicare il valore di < MSK0/>, < MSK1/>, < MSK2/>. Per ciascuna delle matrici $M_i$ ($i = 1, 2, 3$), determinare quante matrici $A$ esistono in modo tale che $A^4 = M_i$.
+
+[[src_obm_2012_nu_f1__Q05]]

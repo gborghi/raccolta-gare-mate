@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2007 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2007__Q02
 parent: src_bocconi_squadre_2007
 competition: Gara a Squadre 2007
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi per formare 1 Euro con monete da 5, 10, 20 centesimi*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to form 1 Euro with coins of 5, 10, 20 cents*
+
+> How many different ways can one form 1 Euro with coins of 5, 10 and 20 cents?
+
+[[src_bocconi_squadre_2007__Q02]]

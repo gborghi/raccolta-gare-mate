@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q05
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza di due interi con prodotto 36 e somma 37*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Difference of two integers with product 36 and sum 37< MSK1/>
+
+> The product of two integers is 36 whereas their sum is 37. What's the difference? A) 1
+> 	
+> B) 4
+> 	
+> C) 10
+> 	
+> D) 26
+> 	
+> E) 35
+
+**Answer:** E
+[[src_kangourou_2014_cadet__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_biennio__Q06
 parent: src_archimede_2017_biennio
 competition: Giochi di Archimede 2017 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *ultimo rimasto*
 
@@ -52,3 +55,20 @@ tags:
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/112mFupkYpsCYPbpzDQ0mOl_VW0wTFJK_/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1WbKYlCGmnvn3EnNy8PHpDbjgy_2zTYne/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>last remaining< MSK1/>
+
+> Mark writes in a row the integers from 1 to 64 (included). Then you start deleting some of them, like this: delete the number 1, leave the 2, delete the 3, leave the 4, etc. At the bottom of the line, it goes backwards, deleting the first number it finds among the remaining ones, leaving the second, etc. He then continues to cross the line alternately in both directions, deleting each time a yes number and a no number, until only one number remains on the board. What's the last number left?
+>
+> - **(A)** 22
+> - **(B)** 14
+> - **(C)** 6
+> - **(D)** 54
+> - **(E)** 38
+
+**Answer:** A
+[[src_archimede_2017_biennio__Q06]]

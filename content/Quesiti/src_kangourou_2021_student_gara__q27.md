@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q27
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo ABC suddiviso con aree 1,3,3*
 
@@ -83,3 +86,21 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of triangle ABC divided by areas 1,3,3*
+
+![[src_kangourou_2021_student_gara__prob27.png]]
+
+> An ABC triangle is divided into four parts by two segments, as shown in the figure. The areas of the three triangles thus obtained measure 1, 3 and 3. What is the area of the ABC triangle? A) 12
+> 	
+> B) 12,5 C) 13
+> 	
+> D) 13,5 E) 14 A v B s C t D u E z A t B z C v D s E u 5 5 1 1 –1 –1 B C A 1 3 3
+>
+
+**Answer:** A
+[[src_kangourou_2021_student_gara__Q27]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q03
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordine di tre trasformazioni di un numero*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Order of three transformations of a number*
+
+> Iole, Lidia, Nadia and Pina are playing numbers. Lidia said 3 and the others each intervened once and only once and the last one said 14. You know Iole multiplied by 3, Nadia subtracted 1 and Pina added 2. In what order did the three girls after Lydia intervene? (a) IPN (b) PIN (c) INP (d) NIP (e) PNI
+
+**Answer:** B
+[[src_kangourou_2008_benjamin_marzo__Q03]]

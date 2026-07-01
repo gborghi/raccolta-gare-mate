@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q09
 parent: src_kangourou_2019_ecolier_finale
 competition: Kangourou 2019 Finale Nazionale Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del poligono ortogonale di area 200*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0080
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of the orthogonal polygon of area 200*
+
+> In the figure you can see an obstacle course: the obstacles are the gray squares representing so many water wells. To reach the last box, the one indicated with $X$, the Jump kangaroo must make leaps forward: when landing on a box, it must jump again with as many boxes as are indicated in the box from which it starts (e.g.: $1$ means it must land on the next box, $2$ means it must jump a box, and so on). How many boxes does it have to be along its first jump if it wants to land in MSK3 avoiding all the water wells?
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $5$
+> - **(E)** He can't avoid all the wells. (see figure)
+
+**Answer:** 0080
+[[src_kangourou_2019_ecolier_finale__Q09]]

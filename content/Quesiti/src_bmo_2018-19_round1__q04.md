@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2018-19 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2018-19_round1__Q04
 parent: src_bmo_2018-19_round1
 competition: British Mathematical Olympiad 2018-19 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove angle equality involving tangent lines to a semicircle*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13TymyXW8f0WJOfcP7X3v5LIa1mrqdBop/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove l'eguaglianza angolare che coinvolge linee tangenti a un semicircolo*
+
+> Il $\Gamma$ deve essere un semicircolo di diametro $AB$. Il punto $C$ si trova sul diametro $AB$ e i punti $D$ e $E$ si trovano sull'arco $BA$, con $E$ tra $B$ e $D$. Lasciate che le tangenti di $\Gamma$ a $D$ e $E$ si incontrino a $F$.
+> 
+> Prove che $\angle EFD = \angle ACD + \angle ECB$.
+
+[[src_bmo_2018-19_round1__Q04]]

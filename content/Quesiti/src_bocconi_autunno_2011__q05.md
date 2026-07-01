@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2011 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2011__Q05
 parent: src_bocconi_autunno_2011
 competition: Giochi d'Autunno 2011
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di quadratini grigi accerchiabili con 20 bianchi*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of grey squares rounded with 20 whites
+
+> With 14 white squares along the perimeter of a rectangle, 4 or 6 grey squares can be "circled" (as shown in the figure). Now Liliana, of white squares to be arranged along the perimeter of a right-angled rectangle of appropriate size, has as many as 20. How many grey squares can you "circle" at most?
+
+![[src_bocconi_autunno_2011__Q05.png]]
+
+**Answer:** 16
+[[src_bocconi_autunno_2011__Q05]]

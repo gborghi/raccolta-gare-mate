@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1980-81 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1980-81_round1__Q05
 parent: src_bmo_1980-81_round1
 competition: British Mathematical Olympiad 1980-81 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of a_i^k / P_i over distinct nonzero integers is an integer*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvC2qvBdYveDQTv4wMFuVVfLHwCOEMvY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La somma di a_i^k / P_i su diversi interi non-zero è un intero*
+
+> $a_1, a_2, a_3, \ldots, a_n$ sono diversi numeri interi non zero. $P_k$ è il prodotto dei fattori $(n-1)$ $$(a_1 - a_k),\ (a_2 - a_k),\ \ldots,\ (a_{k-1} - a_k),\ (a_{k+1} - a_k),\ \ldots,\ (a_n - a_k),$$ che escludono il fattore zero $(a_k - a_k)$.
+> 
+> Prova che se $k$ è un intero non negativo, $$\sum_{i=1}^{n} \frac{a_i^k}{P_i}$$ è un intero.
+
+[[src_bmo_1980-81_round1__Q05]]

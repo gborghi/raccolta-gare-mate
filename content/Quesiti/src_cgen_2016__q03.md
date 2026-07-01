@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2016 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2016__Q03
 parent: src_cgen_2016
 competition: Concours Général des Lycées 2016 — Matematica
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Going into C: with j = e^{2i pi/3} and dice-based variables Z_k = j^{F_k}, study the probability p_n that S_n = Z_1+...+Z_n = 0, derive a closed form via binomials, and analyse the counting variable X_n of indices with S_k = 0.*
 
@@ -103,3 +106,65 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8k3BWxLPQrKuemqOCqKmgPkVkBfx4Ea/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Andando in C: con j = e^{2i pi/3} e variabili a base di dadi Z_k = j^{F_k}, studiare la probabilità p_n che S_n = Z_1+...+Z_n = 0, derivare una forma chiusa tramite binomi, e analizzare la variabile di conteggio X_n degli indici con S_k = 0.*
+
+> Problema 3: Entrare in < MSK0/>.
+> 
+> In tutto questo problema, $j$ indica il numero complesso $e^{2i\pi/3}$. La probabilità di un evento $A$ è indicata come $P(A)$.
+> 
+> - Sì, certo. a.} Verificare che $j^3 = 1$ e $1 + j + j^2 = 0$.
+> 
+> Che cosa si può dire del triangolo le cui vertici sono i tre punti con affissi $1$, $j$, $j^2$?
+> 
+> \textbf{c.} Mostra che, $a$, $b$, $c$ sono tre reali non zero, $a + bj + cj^2 = 0$ se e solo se $a = b = c$.
+> 
+> Da ora in poi $j$ designa il numero complesso sopra. Si lancia un dado equilibrato (con facce numerate $1$ a $6$) e si denota con $Z$ la variabile casuale uguale a $j^F$, dove $F$ è il risultato ottenuto [la dichiarazione è parzialmente illeggibile].
+> 
+> \textbf{2.} Mostra che $Z$ assume i valori $1$, $j$, $j^2$ e che $P(Z = 1) = P(Z = j) = P(Z = j^2)$.
+> 
+> Consideriamo un intero $n \ge 1$ e lanciamo il dado $n$ volte (lanci indipendenti). Indichiamo con $F_k$ il risultato del $k$-th lancio, per $k \in \{1, \dots, n\}$. $Z_k = j^{F_k}$ deve essere la variabile risultante al $k$-th throw, per $k \in \{1, \dots, n\}$, e impostare $S_n = Z_1 + \cdots + Z_n$ e $p_n = P(S_n = 0)$. Indichiamo con $U_n$ la variabile che dà il numero di integri $k \in \{1, \dots, n\}$ tale che $Z_k = 1$, con $V_n$ quella che dà il numero di integri $k \in \{1, \dots, n\}$ tale che $Z_k = j$, e con $W_n$ quella che dà il numero di integri $k \in \{1, \dots, n\}$ tale che $Z_k = j^2$.
+> 
+> - Sì, signore. a.} Determinare < MSK0/>.
+> 
+> \textbf{b.} Indicare che $S_n = (U_n - V_n) j^0 + (V_n - W_n) j$ [gruppo esatto parzialmente illeggibile; $S_n$ espresso attraverso le differenze $U_n - V_n$ e $V_n - W_n$].
+> 
+> \textbf{c.} Mostra che $S_n = 0$ se e solo se $U_n = V_n = W_n$.
+> 
+> \textbf{d.} Deduci che se $n$ non è un multiple di $3$, allora $p_n = 0$.
+> 
+> \textbf{4.} Supponiamo ora che esista un intero $m$ tale che $n = 3m$.
+> 
+> \textbf{a.} Mostra che la variabile $U_n$ segue una legge binomial, i cui parametri si precisano.
+> 
+> \textbf{b.} Deduce che $P(U_n = m) = \dbinom{3m}{m}\dfrac{2^{2m}}{3^{3m}}$.
+> 
+> \textbf{c.} Mostra che $P_{(U_n = m)}(V_n = m) = 2^{-2m}\dbinom{2m}{m}$.
+> 
+> Deduci questo $p_{3m} = 3^{-3m}\dbinom{3m}{m}\dbinom{2m}{m}$.
+> 
+> La domanda precedente, combinata con un'espressione classica dei coefficienti binomiali, consente di dimostrare che $p_{3m+3}$ e $p_{3m}$ soddisfano la seguente relazione, che non si chiede di dimostrare: $$\frac{p_{3m+3}}{p_{3m}} = \frac{(3m+2)(3m+1)}{9(m+1)^2}.$$
+> 
+> \textbf{5.} Per ogni numero intero $m \ge 1$, mostrare che $\dfrac{m}{m+1} \le \dfrac{p_{3m+3}}{p_{3m}}$ e dedurre che $p_{3m} \ge \dfrac{p_3}{2m}$.
+> 
+> $X_n$ sia la variabile casuale che dà il numero di integri $k \in \{1, \dots, n\}$ tale che $S_k = 0$.
+> 
+> - Sì, signore. a.} Determinare le variabili di Bernoulli $Y_k$, con $1 \le k \le n$, in modo tale che $X_n = Y_1 + \cdots + Y_n$.
+> 
+> \textbf{b.} Indicando con $E(X_n)$, $E(Y_1), \dots, E(Y_n)$ le aspettative di $X_n$, $Y_1, \dots, Y_n$, stabilisci che $E(X_n) = E(Y_1) + \cdots + E(Y_n)$, e che $E(X_n) = p_1 + \cdots + p_n$.
+> 
+> Deduci questo $\lim_{n \to +\infty} E(X_n) = +\infty$.
+> 
+> - Sì, signore. a.} Indicare che $\dfrac{p_{3k+3}}{p_{3k}}$ converge verso un reale $q$ e che $q_k \le q \le 1$ per tutti $n$ [notazione parzialmente illeggibile].
+> 
+> \textbf{b.} Per $r$, $n$ integri naturali non zero, mostrare che $P(X_n \ge r) \le q^r$.
+> 
+> \textbf{c.} Deduci, per ogni numero intero $n \ge 1$, che $E(X_n) \le q + q^2 + \cdots + q^n$.
+> 
+> Conclusione.
+
+[[src_cgen_2016__Q03]]

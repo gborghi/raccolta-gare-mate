@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q19
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di tre punti collineari*
 
@@ -60,3 +63,28 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of three hill points*
+
+![[src_kangourou_2008_student_marzo__prob19.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \foreach \x in {0,1,2,3} {
+    \foreach \y in {0,1,2} {
+      \fill (\x, \y) circle (3pt);
+    }
+  }
+\end{tikzpicture}
+\end{document}
+```
+
+> Three points are chosen at random from the grid to the side. What are the odds that they're hilly? A) B) C) D) E)
+
+**Answer:** B
+[[src_kangourou_2008_student_marzo__Q19]]

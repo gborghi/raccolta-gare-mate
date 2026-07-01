@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q30
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di streghe data la somma 36*
 
@@ -58,3 +61,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum number of witches given the sum of 36*
+
+> A group of 10 witches and fairies attend a party: each of them is given a card with a number from 1 to 10 printed on it and there are no two participants with the same number. It is well known that fairies always tell the truth, while witches can also lie. Each of them is asked to give the number printed on their ticket and each of them answers with a number between 1 and 10. The sum of the numbers pronounced is 36. What's the minimum number of witches at the party? A) 1
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 7
+> 
+> Answered by Benjamin
+>
+
+**Answer:** B
+[[src_kangourou_2021_benjamin__Q30]]

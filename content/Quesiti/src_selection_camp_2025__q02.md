@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2025 — Selection Camp — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2025__Q02
 parent: src_selection_camp_2025
 competition: Japan IMO Selection Camp 2025 — Selection Camp
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle, incircle tangency construction; prove two lines parallel*
 
@@ -42,3 +45,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_hAtW-_q2-uMzqzRMHgBP6hcqovxL3Oj/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo, costruzione di tangenza incircolare; dimostrare due linee parallele*
+
+> $ABC$ sia un triangolo con incircolo $\omega$. I punti $D$ e $E$ si trovano rispettivamente sui lati $AB$ e $AC$ (non nei punti finali), e $\omega$ è anche tangente alla linea $DE$, toccandola in un punto $P$. Il $M$ deve essere il punto medio dell'arco $BC$ del circoncircolo e il $Q$ deve essere il secondo incrocio della linea $MP$ con $\omega$. Se $B'$ è la seconda intersezione della linea $DM$ con $\omega$ e $C'$ è la seconda intersezione della linea $EM$ con $\omega$, con $B' \ne C'$, e supponiamo che $A$ e $Q$ si trovino sullo stesso lato della linea $BC$. Let $O$ essere il centro del triangolo $DEM$, e let $Q'$ essere il punto su $\omega$ con $B'Q' : C'Q' = BQ : CQ$. Prova che la riga $MO$ è parallela alla riga $QQ'$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+[[src_selection_camp_2025__Q02]]

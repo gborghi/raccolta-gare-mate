@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n1_f1__Q02
 parent: src_obm_2008_n1_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Expression for change when buying olive oil and juice*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jS9AjIezsp0MUxDiEgVpS7k3MJ9uT3_v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Espressione per il cambiamento quando si acquista olio d'oliva e succo < MSK1/>
+
+> Esmeralda compra cinque scatole di olio d'oliva a quattro reais e settanta centoville ciascuno, cinque scatole di succo a tre reais e dodici centoville ciascuno e tre scatole di succo a ottanta centoville ciascuno. Lei paga con un biglietto di cinquanta soldi reali e vuole sapere quanta cambio riceverà. Quale delle seguenti espressioni aritmetiche rappresenta la soluzione a questo problema?
+> 
+> A) $50 - 5 \times (4{,}70 + 3{,}12) + 3 \times 6 \times 0{,}80$
+> 
+> B) $5 \times 4{,}70 + 5 \times 3{,}12 + 3 \times 6 \times 0{,}80 - 50$
+> 
+> C) $-\left[5 \times (4{,}70 + 3{,}12) + 3 \times 6 \times 0{,}80\right] + 50$
+> 
+> D) $50 - \left[5 \times (4{,}70 + 3{,}12) + 3 \times 6 \times 0{,}80\right]$
+> 
+> E) $50 - \left[5 \times (4{,}70 + 3{,}12) + 6{,}80\right]$
+
+**Risposta:** D
+[[src_obm_2008_n1_f1__Q02]]

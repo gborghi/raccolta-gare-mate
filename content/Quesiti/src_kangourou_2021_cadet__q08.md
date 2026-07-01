@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q08
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parte dei cubetti grigi del cubo 3x3x3*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Part of the grey cubes of the 3x3x3 cube
+
+![[src_kangourou_2021_cadet__prob8.png]]
+
+> A cube of 3 cm was obtained at the cost of white, gray and black cubes of 1 cm, as shown in the first figure. The other two pages show the two parts consisting of only white cubes and only black cubes. Which of the following figures could illustrate the part consisting of only grey cubes? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** E
+[[src_kangourou_2021_cadet__Q08]]

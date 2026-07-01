@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Region 4 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_r4__Q02
 parent: src_rmo_2012_r4
 competition: Regional Mathematical Olympiad 2012
@@ -34,6 +35,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show that abc divides (a+b+c)^7 given the divisibility conditions a|b^2, b|c^2, c|a^2*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RynHYch6pmp09Vp_PVUFTCMGvoAuqZ22/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra che abc divide (a+b+c)^7 date le condizioni di divisibilità a b b b b b b b c c c c c c c a 2*
+
+> $a, b, c$ siano integri positivi in modo tale che $a$ divida $b^2$, $b$ divida $c^2$ e $c$ divida $a^2$. Provare che $abc$ divide $(a + b + c)^7$.
+
+[[src_rmo_2012_r4__Q02]]

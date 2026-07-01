@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1993 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1993__Q03
 parent: src_rmo_1993
 competition: Regional Mathematical Olympiad 1993
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Non-isosceles triangles from vertices of 20-gon*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kadMp-CRN3MjuB-TEm5ptxaScgegf-GQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Triangoli non isocelli da vertici di 20 g< MSK1/>
+
+> Supponiamo che $A_1 A_2 \ldots A_{20}$ sia un poligono regolare laterale $20$. Quanti triangoli non isoscelli (scaleni) possono essere formati le cui vertici sono tra le vertici del poligono?
+
+[[src_rmo_1993__Q03]]

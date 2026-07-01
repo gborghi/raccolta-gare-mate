@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2002 — Round 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2002_r2__Q05
 parent: src_pol_2002_r2
 competition: Olimpiade Matematica Polacca 2002 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC with angle BAC=90 is the base of pyramid ABCD with AD=BD and AB=CD; prove angle ACD>=30.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jU9r-WBc_lrQ5IY9m00_E7KFGVcR9W3o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il triangolo ABC con angolo BAC=90 è la base della piramide ABCD con AD=BD e AB=CD; prova angolo ACD>=30.*
+
+> Il triangolo $ABC$ con $\angle BAC = 90^\circ$ è la base della piramide $ABCD$. Inoltre contiene $$AD=BD \quad \text{and} \quad AB=CD.$$ Prove che $\angle ACD \ge 30^\circ$.
+
+[[src_pol_2002_r2__Q05]]

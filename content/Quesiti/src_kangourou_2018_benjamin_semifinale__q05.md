@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Semifinale individuale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_semifinale__Q05
 parent: src_kangourou_2018_benjamin_semifinale
 competition: Kangourou 2018 Benjamin - Semifinale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Importo minimo con i quattro tagliandi*
 
@@ -54,3 +57,21 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mpGDkZU0ITLxgA_gblbwITgtcOOWYDSU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum amount with four notes*
+
+> (Points 4) A shop delivers four notes to each customer who enters: the customer can use some or all of them, at his choice, in succession and in the order he prefers to buy an item. On the first cut it reads: Pay N euro, if the price in euro is N×N. On the second it says: You have a discount of 2 euros. On the third it says: Pay 1 euro more than the price. On the fourth it reads: Pay half the price if this is an entire euro. You come in to buy an item that costs 15 euros. What's the lowest amount you can get by paying? (a) two euros.
+> 	
+> B) Less than 2 but more than 1 euro.
+> 	
+> (c) 1 euro. D) 0 euro (you can have it for free).
+> 	
+> 	
+> E) Less than 1 euro but not 0.
+
+**Answer:** D
+[[src_kangourou_2018_benjamin_semifinale__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2007 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2007__Q14
 parent: src_bocconi_squadre_2007
 competition: Gara a Squadre 2007
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di ragazze alla festa di 20 persone*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of girls at the party of 20 people*
+
+> A total of 20 people attended the party, which was organized by Paolo to celebrate the end of the school year. Carla danced with seven guys, Milena with eight, Linda with nine, and so on, until Liliana danced with all the guys in the room.
+> 
+> How many girls were at the party?
+
+[[src_bocconi_squadre_2007__Q14]]

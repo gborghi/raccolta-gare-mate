@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1995 (36th IMO, Toronto) — Quesito 1'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1995__Q01
 parent: src_imo_1995
 competition: 'IMO 1995 (36th IMO, Toronto)'
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prove AM, DN, XY concurrent in two-diameter-circles config*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pz-4eMo5rOEQfEuxsHP_U9uNUklh6WtJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Prove AM, DN, XY concurrent in two-diameter-circles config*
+
+> Let A, B, C, D be four distinct points on a line, in that order. The circles with diameters AC and BD intersect at X and Y . The line XY meets BC at Z. Let P be a point on the line XY other than Z. The line CP intersects the circle with diameter AC at C and M, and the line BP intersects the circle with diameter BD at B and N. Prove that the lines AM, DN, XY are concurrent.
+
+[[src_imo_1995__Q01]]

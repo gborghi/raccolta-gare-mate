@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_ecolier_f__Q09
 parent: src_kangourou_2015_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2015 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Torte con 13 gusti su 15 senza limone e pistacchio insieme*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 27
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iZrTBi-soab93JlVJUtlAaAcp-N69n0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Turtles with 13 flavors out of 15 without lemon and pistachio together*
+
+> The ice cream cake To celebrate Roberta's birthday, Mom asked the ice cream maker to pack an ice cream cake with as many flavors as possible. The ice cream maker, who has 15 flavors, including lemon and pistachio, told her that she can put up to 13 of them in her cake. Roberta's mom doesn't want the lemon and pistachio flavours in the cake. How many different cakes with 13 flavors can each choose Roberta's mom? (Two cakes are different if one has at least one taste that is not in the other.)
+
+**Answer:** 27
+[[src_kangourou_2015_squadre_ecolier_f__Q09]]

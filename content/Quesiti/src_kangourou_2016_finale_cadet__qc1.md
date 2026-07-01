@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 finale nazionale Cadet — Quesito C1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_finale_cadet__QC1
 parent: src_kangourou_2016_finale_cadet
 competition: Kangourou 2016 finale nazionale Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *lato del triangolo piu grande*
 
@@ -52,3 +55,31 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 19
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oqrEh6WLA1jn7meM9kqx809sdukOIBbT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>side of the largest triangle < MSK1/>
+
+![[src_kangourou_2016_finale_cadet__probC1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \fill[gray!40] (2,3.464) -- (1,1.732) -- (3,1.732) -- cycle;
+  \fill[gray!40] (0,0) -- (2,0) -- (1,1.732) -- cycle;
+  \fill[gray!40] (2,0) -- (4,0) -- (3,1.732) -- cycle;
+  \fill[black] (1,1.732) -- (2,0) -- (3,1.732) -- cycle;
+  \draw[thick] (0,0) -- (4,0) -- (2,3.464) -- cycle;
+  \draw (1,1.732) -- (3,1.732);
+  \draw (0,0) -- (3,1.732);
+  \draw (4,0) -- (1,1.732);
+\end{tikzpicture}
+\end{document}
+```
+
+> Look at the figure. All the triangles you can see are equilateral: the sides of the black one (the smallest one) are $2$ cm long, the sides of the gray ones are all $5$ cm long. How long are the sides of the largest triangle (the one that contains them all)? As the figure suggests, the sides of the grey and black triangles that have common vertices are on the same straight. (see figure)
+
+**Answer:** 19
+[[src_kangourou_2016_finale_cadet__QC1]]

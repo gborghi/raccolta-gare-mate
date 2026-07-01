@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2010 — Quesito
   12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2010__Q12
 parent: src_bocconi_finalenaz_2010
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2010
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma+differenza+prodotto+quoziente di due interi = 450*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** (2, 100) oppure (4, 72) oppure (14, 28)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum+difference+product+coefficient of two integers = 450*
+
+> Add the sum, difference (positive), product and quotient of two positive integers.
+> 
+> **If you get 450, what are these two numbers (in ascending order)?**
+
+**Answer:** (2, 100) oppure (4, 72) oppure (14, 28)
+[[src_bocconi_finalenaz_2010__Q12]]

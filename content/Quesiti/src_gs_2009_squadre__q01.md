@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2009 - Gara a squadre — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2009_squadre__Q01
 parent: src_gs_2009_squadre
 competition: Coppa Fermat 2009 - Gara a squadre
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Calcolo combinazione lineare luce sulla cima*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1564
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Calculate linear combination of light at the top*
+
+> The paranoid robot Marvin is on the edge of the tower A cornice of Megadodo Publications, the publishing house of the 78-meter-high Galactic Guide to Auto Stoppers (G2AS), has just finished the existential discussion with the Frogstar Robot Tank and looks toward the top of the only hill of Ursa Minor B. In fact, you're looking at the light at the top of the antenna on the top of the hill, and to do that, you raise your head 30 degrees. Knowing that the hill is 856 meters high, the antenna is 6 meters high and Marvin's eyes are 2 meters from the cornice, what is the distance in meters between Marvin's eyes and the top of the antenna?
+
+**Answer:** 1564
+[[src_gs_2009_squadre__Q01]]

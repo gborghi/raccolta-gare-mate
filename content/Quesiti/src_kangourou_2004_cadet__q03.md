@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q03
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di partenza nella sequenza di operazioni*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Starting number in the operation sequence*
+
+![[src_kangourou_2004_cadet__prob3.png]]
+
+> The figure illustrates a sequence of operations that results in 50. What number did we start from? A) 18 B) 24          C) 30 D) 40         E) 42
+
+**Answer:** E
+[[src_kangourou_2004_cadet__Q03]]

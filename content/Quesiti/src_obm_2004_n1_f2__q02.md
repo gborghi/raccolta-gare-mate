@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f2__Q02
 parent: src_obm_2004_n1_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Weight before a diet: fat mass changes by 20% then 40%*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 92
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Peso prima di una dieta: variazioni della massa grassa del 20% e poi del 40%< MSK1/>
+
+> La massa grassa di una determinata persona corrisponde al 20% della sua massa corporea totale. Questa persona, che pesava 100 kg, ha fatto una dieta e ha perso il 40% del grasso, mantenendo gli altri indicatori uguali. Quanti chili ha pesato alla fine della dieta?
+
+**Risposta:** 92
+[[src_obm_2004_n1_f2__Q02]]

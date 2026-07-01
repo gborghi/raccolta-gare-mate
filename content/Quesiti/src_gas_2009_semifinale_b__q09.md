@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale B — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_b__Q09
 parent: src_gas_2009_semifinale_b
 competition: Gara a Squadre 2009 - Semifinale B
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spigoli minimi cancellati per cammino euleriano su icosaedro*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0005
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum cleared eulerian path mirrors on icosahedron< MSK1/>
+
+> The visions of Divisor I Polyedril, or visionary stones, are magical crystals that allow you to see remote things in time and space. Tauron called the Dark Lord of Middle-earth, or simply the Enemy, sabotaged King Divisor's Polyedril, which now only shows scary images and reality shows. The polyhedron has the shape of an icosahedron but Tauron magically erased some of the solid's stalks. It is now possible to travel the entire skeleton formed by the remaining spines by passing once and only once for each of them. How many lashes did you wipe at least?
+
+**Answer:** 0005
+[[src_gas_2009_semifinale_b__Q09]]

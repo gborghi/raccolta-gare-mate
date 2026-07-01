@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q21
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo di funzione con valori assoluti*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum function with absolute values*
+
+> What is the smallest value that the function A) 1 B) 1/2 C) 1/4 D) 1/503 E) 1/2012 can assume
+
+**Answer:** C
+[[src_kangourou_2012_student__Q21]]

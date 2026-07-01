@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q09
 parent: src_kangourou_2015_marzo_benjamin
 competition: Kangourou 2015 gara 19 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quante piante*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AiqamuCK6oQtEOLFArlQVHEyWohLlfzH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many plants< MSK1/>
+
+> In John's garden there are only two types of plants: those of one type have 5 leaves, the other 2 leaves and 1 flower. Giovanni discovered that there are 32 leaves and 6 flowers in all. How many are all over the plants? A) 10             B) 12            C) 13             D) 15                E) 16
+
+**Answer:** A
+[[src_kangourou_2015_marzo_benjamin__Q09]]

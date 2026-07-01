@@ -1,6 +1,7 @@
 ---
 title: IMO 2015 papers — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2015__Q02
 parent: src_imo_2015
 competition: IMO 2015 papers
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triple (a,b,c) con ab-c,bc-a,ca-b potenze di 2*
 
@@ -39,3 +42,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triple (a,b,c) with ab-c,bc-a,ca-b powers of 2*
+
+> Determine the triples $(a, b, c)$ of positive integers such that each of the numbers $ab - c$, $bc - a$, $ca - b$ is a power of $2$.
+> 
+> (A **power of 2** is an integer of the form $2^n$, where $n$ is a non-negative integer.)
+
+[[src_imo_2015__Q02]]

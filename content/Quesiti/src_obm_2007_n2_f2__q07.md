@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f2__Q07
 parent: src_obm_2007_n2_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of reciprocals of three quadratic values built from roots alpha,beta equals 0.*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La somma delle reciprocità di tre valori quadratici costruiti dalle radici alfa,beta è uguale a 0.*
+
+> (Parte B, problema 2.) Una ha l'identità $(x-2)(x-3)+(x-3)(x+1)+(x+1)(x-2)=3(x-\alpha)(x-\beta)$, dove $\alpha,\beta$ sono le sue radici. Substituendo < MSK2/> si ottiene < MSK3/>, < MSK4/> e < MSK5/>. Calcolare $\dfrac{1}{(\alpha+1)(\beta+1)}+\dfrac{1}{(\alpha-2)(\beta-2)}+\dfrac{1}{(\alpha-3)(\beta-3)}$. [Fonte: foglio delle soluzioni; dichiarazione ricostruita dalla soluzione, che dà $\frac{1}{4}-1+\frac{3}{4}=0$.]
+
+**Risposta:** 0
+[[src_obm_2007_n2_f2__Q07]]

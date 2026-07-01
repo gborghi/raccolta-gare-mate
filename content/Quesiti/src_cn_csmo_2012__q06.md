@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2012 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2012__Q06
 parent: src_cn_csmo_2012
 competition: China Southeastern Mathematical Olympiad 2012
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum positive integer n satisfying a nested radical inequality*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4023
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca un numero intero positivo minimo n che soddisfi una disuguaglianza radicale annidata*
+
+> Trova il numero intero positivo minimo $n$ tale da $$\sqrt{\frac{n-2011}{n+2012}} < \sqrt{\frac{n-2012}{n+2013}}$$ (posato da Liu Guimei)
+
+**Risposta:** 4023
+[[src_cn_csmo_2012__Q06]]

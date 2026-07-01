@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q17
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *A quale numero sommare 1 per minimizzare il prodotto*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*To which number to add 1 to minimize the product*
+
+> Four positive numbers a, b, c, d are such that a < b < c < d. You have to add 1 to one of them so that, multiplying between them the three remaining unchanged numbers and the one increased by 1, the result is as small as possible. Which of the four numbers do you have to add 1 to? (a) (b) (c) (d) (e) (b) or (c)
+
+**Answer:** D
+[[src_kangourou_2011_cadet__Q17]]

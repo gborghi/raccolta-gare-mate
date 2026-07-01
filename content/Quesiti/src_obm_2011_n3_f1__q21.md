@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f1__Q21
 parent: src_obm_2011_n3_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of triangle AMN in a triangle ABC of area 60 with cevians and midpoint*
 
@@ -50,3 +53,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area del triangolo AMN in un triangolo ABC di area 60 con ceviani e punto medio*
+
+> Lasciate che $ABC$ sia un triangolo. Il punto $D$ appartiene al lato $AC$ ed è tale che $BD = CD$. $E$ sia il punto in cui $BC$ incontra ... e $M$ sia il punto medio di $AB$ e $N$ l'intersezione di $AM$ e $BD$. Se la superficie di $AM$... è la superficie di $ABC$ ... Qual è, in gradi, l'angolo $\widehat{BCA}$?
+> 
+> (A) 15 (B) 22,5 (C) 30 (D) 37,5 (E) 45
+
+![[src_obm_2011_n3_f1__Q21.png]]
+
+[[src_obm_2011_n3_f1__Q21]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2024 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2024__Q10
 parent: src_smc_2024
 competition: Senior Mathematical Challenge 2024
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of two-digit factors of 2024 (= 2³ × 11 × 23)*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di fattori a due cifre del 2024 (= 23 × 11 × 23) *
+
+> La fattorizzazione primaria del 2024 è $2^3 \times 11 \times 23$. Quanti numeri a due cifre sono fattori del 2024?
+>
+> - **(A)** $2$
+> - **(B)** $4$
+> - **(C)** $6$
+> - **(D)** $7$
+> - **(E)** $8$
+
+**Risposta:** D
+[[src_smc_2024__Q10]]

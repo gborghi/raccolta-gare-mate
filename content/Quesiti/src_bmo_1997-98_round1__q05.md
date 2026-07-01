@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1997-98 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1997-98_round1__Q05
 parent: src_bmo_1997-98_round1
 competition: British Mathematical Olympiad 1997-98 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with midpoint and trisection point; find angle BAC*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UZ524YDE6UQUHs3-dWJ9PRw0y50Efe-X/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con punto medio e punto trisezione; trovare angolo BAC*
+
+> Nel triangolo $ABC$, $D$ è il punto medio di $AB$ e $E$ è il punto di trisezione di $BC$ più vicino a $C$. Dato che $\angle ADC = \angle BAE$ trova $\angle BAC$.
+
+[[src_bmo_1997-98_round1__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q21
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular hexagon PQRSTU inscribed in circle of radius 5; X on circumference; find XP^2 + XQ^2 + XR^2 + XS^2 + XT^2 + XU^2.*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*PQRSTU esagono regolare inciso in un cerchio di raggio 5; X sulla circonferenza; trovare XP^2 + XQ^2 + XR^2 + XS^2 + XT^2 + XU^2.*
+
+> Un esagono regolare $PQRSTU$ è inserito in un cerchio di raggio 5. Un punto $X$ si trova sulla circonferenza del cerchio ed è collegato alle vertici dell'esagono per formare sei accordi $XP$, $XQ$, $XR$, $XS$, $XT$ e $XU$. Qual è il valore di $XP^2 + XQ^2 + XR^2 + XS^2 + XT^2 + XU^2$?
+>
+> - **(A)** 150
+> - **(B)** 216
+> - **(C)** 256
+> - **(D)** 300
+> - **(E)** 360
+
+![[src_smc_2025__Q21.png]]
+
+**Risposta:** D
+[[src_smc_2025__Q21]]

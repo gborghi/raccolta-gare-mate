@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2009 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo7mq_honsen__Q03
 parent: src_jjmo7mq_honsen
 competition: Japan Junior Mathematical Olympiad 2009 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Assign 1 to 2n to vertices of 2n-gon; adjacent difference bounds*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VL4zACP5rwfmItjWBLiPE5BRD-B6psdw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Atribuire da 1 a 2n ai vertici di 2n-gon; confini di differenza adiacenti*
+
+> $n \geq 2$ sia un numero intero. Assegnare i numeri interi $1, 2, \ldots, 2n$ ai vertici di un normale $2n$-gon, un intero per ogni vertice, ogni intero utilizzato esattamente una volta.
+> 
+> (1) Indicare che esiste un'assegnazione tale che la differenza assoluta dei numeri interi assegnati a due vertici adiacenti sia almeno $n - 1$.
+> 
+> (2) Indicare che non esiste una assegnazione tale che la differenza assoluta dei numeri interi assegnati a due vertici adiacenti sia almeno $n$.
+
+[[src_jjmo7mq_honsen__Q03]]

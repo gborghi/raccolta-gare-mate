@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q12
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero totale studenti dato +20% e -20%*
 
@@ -48,3 +51,23 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total number of students given +20% and -20%*
+
+> In my class this year, the number of boys has increased by exactly 20%, while the number of girls has decreased by exactly 20%, and overall there is now one person more than last year. Which of the following is currently the total number of students (boys and girls) in my class? A) 22
+> 	
+> B) 26
+> 	
+> C) 29
+> 	
+> D) 31
+> 	
+> E) 34
+>
+
+**Answer:** B
+[[src_kangourou_2019_student_marzo__Q12]]

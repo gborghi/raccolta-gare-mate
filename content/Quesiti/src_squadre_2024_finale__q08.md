@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Finale Nazionale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_finale__Q08
 parent: src_squadre_2024_finale
 competition: Gara a Squadre 2024 - Finale Nazionale
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *1000*BC con circonferenza per D,E,S tangente a BC*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2236
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*1000*BC with circumference for D,E,S tangent to BC*
+
+> Looking for trouble, Vennma arrives near the pool to meet Fredmath, but is distracted by noticing that there are a few people chatting about the drain. He can peek at a sheet where he reads: Given ABC a triangle with AB = 1 and AC = 2, both Γ its circumscribed circumference, of center O. The intersections of height from A and AO extension with Γ are D and S respectively. In addition, AO intersects the BC straight into E. Knowing that the circumference passing through D,E,S is the straight line BC, determine 1000 BC". Vennma approaches the group and exclaims "Beh, but it's easy, the
+
+**Answer:** 2236
+[[src_squadre_2024_finale__Q08]]

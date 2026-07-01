@@ -1,6 +1,7 @@
 ---
 title: Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2026_nazionale__Q02
 parent: src_cesenatico_2026_nazionale
 competition: Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza VK vertice cono-sfera maggiore di 5 cm*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_rvhIF7SAr6FvY1fH9Z0-jjjZzX_YdII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*VK distance of top cone sphere greater than 5 cm*
+
+![[src_cesenatico_2026_nazionale__prob2.png]]
+
+> A straight cone and a crunching chalk cable is 10 cm high. A sphere of ice is inserted, centered at a point O of the cone axis and tangent to the lateral surface of the cone along the circumference of the base. Whether V is the top of the cone and K is the intersection point of the VO segment with the surface of the sphere. Show that the VK distance between the top of the cone and the sphere is greater than 5 cm.
+
+[[src_cesenatico_2026_nazionale__Q02]]

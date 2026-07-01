@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior — Semifinale individuale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_semifinale__Q06
 parent: src_kangourou_2022_junior_semifinale
 competition: Kangourou 2022 Junior — Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale perimetro impossibile*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1q4eeCpaS_1aSTIYHi1bK45-1x3orSnEw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*which perimeter is impossible*
+
+> (4 points) The dimensions of four rectangles are a × b, b × c, c × d and d × a, where all numbers a, b, c and d are positive integers and express lengths in metres. Their total area is 105 square meters. Which of the following numbers is certainly not the sum of their perimeter in meters? A) 88 B) 104 C) 124 D) 152 E) None, all could be.
+
+**Answer:** C
+[[src_kangourou_2022_junior_semifinale__Q06]]

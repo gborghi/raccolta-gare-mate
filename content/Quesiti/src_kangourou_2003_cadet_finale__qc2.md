@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet_finale__QC2
 parent: src_kangourou_2003_cadet_finale
 competition: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo palle per 15 dello stesso colore*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 75
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum balls by 15 of the same colour< MSK1/>
+
+> A box contains < MSK0/> coloured balls. Of these, $28$ are red, $20$ green, $12$ yellow, $20$ blue, $10$ white and $10$ black. What is the minimum number of balls that must be extracted to be sure that they have at least < MSK7/> of the same colour?
+
+**Answer:** 75
+[[src_kangourou_2003_cadet_finale__QC2]]

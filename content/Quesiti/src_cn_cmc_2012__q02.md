@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2012 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2012__Q02
 parent: src_cn_cmc_2012
 competition: China Mathematical Competition 2012
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find tan A / tan B given a side-angle relation in a triangle*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il colore A/tan B dato un rapporto angolare laterale in un triangolo*
+
+> Supponiamo che $\triangle ABC$ con gli angoli $A$, $B$ e $C$, e i lati corrispondenti $a$, $b$ e $c$ soddisfi l'equazione $a \cos B - b \cos A = \dfrac{3}{5}c$. Quindi il valore di $\dfrac{\tan A}{\tan B}$ è \underline{\hspace{2cm}}.
+
+[[src_cn_cmc_2012__Q02]]

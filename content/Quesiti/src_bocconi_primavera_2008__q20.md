@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q20
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Braccia, gambe e occhi di un marziano secondo Ignobel*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6 braccia, 4 gambe e 2 occhi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Arm, legs and eyes of a Martian according to Ignobel
+
+> A recent study, winner of the prestigious Ignobel Prize, showed that Martians exist and also specified how many arms, legs and eyes they have. To find the number of the arms and legs of each Martian, you just add these two numbers together, and then you add their product to the result: you get 34. The same goes for the number of legs and eyes: adding these two numbers and adding their product again, you get 14. How many arms, legs and eyes does each Martian have?
+
+**Answer:** 6 braccia, 4 gambe e 2 occhi
+[[src_bocconi_primavera_2008__Q20]]

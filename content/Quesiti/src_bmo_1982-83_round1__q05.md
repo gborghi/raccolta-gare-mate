@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1982-83 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1982-83_round1__Q05
 parent: src_bmo_1982-83_round1
 competition: British Mathematical Olympiad 1982-83 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *10 points in circle of diameter 5"; prove two within 2" of each other*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*10 punti in un cerchio di diametro 5"; provare due entro 2" l'uno dell'altro*
+
+> Se i punti $10$ sono all'interno di un cerchio di diametro $5''$, dimostrare che la distanza tra alcuni $2$ dei punti è inferiore a $2''$.
+
+[[src_bmo_1982-83_round1__Q05]]

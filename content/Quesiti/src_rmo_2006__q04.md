@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2006 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2006__Q04
 parent: src_rmo_2006
 competition: Regional Mathematical Olympiad 2006
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *6×6 square dissected into 9 rectangles; always two congruent*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*6×6 quadrato dissezionato in 9 rettangoli; sempre due congruenti*
+
+> Un quadrato $6 \times 6$ è dissezionato in 9 rettangoli con linee parallele ai suoi lati in modo che tutti questi rettangoli abbiano lati interi. Prova che ci sono sempre due rettangoli congruenti.
+
+[[src_rmo_2006__Q04]]

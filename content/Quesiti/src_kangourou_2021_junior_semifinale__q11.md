@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior Semifinale individuale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_semifinale__Q11
 parent: src_kangourou_2021_junior_semifinale
 competition: Kangourou 2021 Junior Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza striscia di carta ripiegata su triangolo equilatero*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0033
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of strip of paper folded over an equilateral triangle*
+
+![[src_kangourou_2021_junior_semifinale__prob11.png]]
+
+> (5 points) A rectangular strip of paper is folded to form the hexagonal shape in the figure, which surrounds an equilateral triangle of 8 cm side (staying attached); the short sides of the strip are welded at the point shown. The short side of the strip measures < MSK0/> 3 cm. How long is the strip?
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+> Welding < MSK0/> 3 cm
+
+**Answer:** 0033
+[[src_kangourou_2021_junior_semifinale__Q11]]

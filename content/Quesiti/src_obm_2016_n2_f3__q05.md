@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f3__Q05
 parent: src_obm_2016_n2_f3
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 3
@@ -40,6 +41,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-player coprime-halving number game; determine the winner for given N*
 
@@ -66,3 +69,27 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pFIjmivzjoZv5XiNmeuw7FxzBsl4gRIj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco a due giocatori di coprime-halving numero; determinare il vincitore per un dato N*
+
+> $N$ sia un numero intero, $N \ge 2$.
+> 
+> Il gioco OBM ha la partecipazione di due giocatori $A$ e $B$ e inizia con il giocatore $A$ che riceve il numero $N$. Deve quindi scegliere un nuovo numero $m$, con coprimo $m$ e $N$ e $m$ maggiore o uguale alla metà di $N$ e inferiore a $N$. Questo numero viene trasmesso al giocatore $B$.
+> 
+> Il giocatore $B$ riceve quindi il numero $n$ e deve scegliere un nuovo numero, vale a dire un numero $p$, con coprimo $p$ e $n$ e $p$ maggiore o uguale alla metà di $n$ e inferiore a $n$. Poi passa al suo avversario il numero $p$. Il processo si ripete fino a quando uno dei due giocatori può scegliere solo il numero $1$. Quel giocatore è il vincitore!
+> 
+> Per esempio, per $N = 9$, il giocatore $A$ può scegliere il numero $5$ (nota che le scelte sono $5$, $7$ o $8$); se $B$ sceglie il numero $3$, $A$ è costretto a scegliere il numero $2$ (questo è l'unica opzione rispetto alle regole del gioco), e quindi $B$ sceglie $1$ e vince.
+> 
+> Determinare, per ogni valore $N$ di seguito, quale giocatore ha una strategia vincente, ovvero riesce a vincere indipendentemente dalle mosse del suo avversario.
+> 
+> a) $N = 7$.
+> 
+> b) $N = 2016$.
+> 
+> Nota: diciamo che due numeri sono copriemi se non hanno un divisore comune maggiore o uguale a $2$ (più grande di $1$). Ad esempio, $9$ e $4$ sono coprime, poiché $1$ è il loro unico divisore comune.
+
+[[src_obm_2016_n2_f3__Q05]]

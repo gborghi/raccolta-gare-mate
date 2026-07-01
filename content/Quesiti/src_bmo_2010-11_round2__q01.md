@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2010-11 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2010-11_round2__Q01
 parent: src_bmo_2010-11_round2
 competition: British Mathematical Olympiad 2010-11 — Round 2
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show equal angles from interior point using cevian construction*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14seLXr6DJIlaqxnLOHlZ_AKgh-xYbFYR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra angoli uguali dal punto interno utilizzando la costruzione ceviana*
+
+> Che $ABC$ sia un triangolo e $X$ un punto all'interno del triangolo. Le linee $AX$, $BX$ e $CX$ incontrano i lati opposti rispettivamente a $P$, $Q$ e $R$. Selezionare un punto $U$ su $XP$ che sia tra $X$ e $P$. La linea attraverso $B$ e $U$ incontra $XC$ a $V$ e la linea attraverso $C$ e $U$ incontra $XB$ a $W$. Mostra che < MSK20/>.
+
+[[src_bmo_2010-11_round2__Q01]]

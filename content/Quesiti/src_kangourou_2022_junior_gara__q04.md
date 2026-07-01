@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q04
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti tavoli per una postazione di lato 9*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many tables for a side post 9*
+
+![[src_kangourou_2022_junior_gara__prob4.png]]
+
+> By attaching rectangular tables, all of which are 2 × 1, two meeting rooms have been set up, creating square stands as shown in the figure. Following the same pattern, how many tables do you need to set up a position on side 9? A) 10
+>   
+> B) 11
+>   
+> C) 12 3 5 9 D) 14
+>   
+> E) 16
+
+**Answer:** E
+[[src_kangourou_2022_junior_gara__Q04]]

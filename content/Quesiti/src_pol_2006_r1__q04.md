@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2006 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2006_r1__Q04
 parent: src_pol_2006_r1
 competition: Olimpiade Matematica Polacca 2006 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Six problems each scored 6,5,2 or 0; for every two participants there are two problems on each of which they got different scores; find max participants.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sei problemi hanno ottenuto ciascuno 6,5,2 o 0; per ogni due partecipanti ci sono due problemi su ciascuno dei quali hanno ottenuto punteggi diversi; trovare il massimo dei partecipanti.*
+
+> I partecipanti a un concorso di matematica stavano risolvendo sei problemi. Ogni problema era segnato con 6, 5, 2 o 0 punti. Si è scoperto che per ogni due partecipanti $A$ e $B$ ci sono due problemi, in modo tale che su ciascuno di essi $A$ e $B$ si sono ottenuti punteggi diversi. Trovare il maggior numero possibile di partecipanti per i quali questo sia possibile.
+
+[[src_pol_2006_r1__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_biennio__Q09
 parent: src_archimede_2018_biennio
 competition: Giochi di Archimede 2018 - Biennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del rettangolo esterno di una cornice*
 
@@ -57,3 +60,32 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the outer rectangle of a frame*
+
+![[src_archimede_2018_biennio__prob9.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) rectangle (5,4);
+  \fill[gray!60] (1,1) rectangle (4,3);
+  \draw (1,1) rectangle (4,3);
+\end{tikzpicture}
+\end{document}
+```
+
+> The larger side of the frame of a picture is 5/4 of the smaller side. The frame is the same thickness on all four sides. In the picture inside the frame (represented by a gray rectangle), the upper side measures 32 cm and the lower side 24. How many cm2 is the area of the rectangle bounded by the outer edge of the frame?
+>
+> - **(A)** 1440
+> - **(B)** 1200
+> - **(C)** 1280
+> - **(D)** 1600
+> - **(E)** 1500
+
+**Answer:** C
+[[src_archimede_2018_biennio__Q09]]

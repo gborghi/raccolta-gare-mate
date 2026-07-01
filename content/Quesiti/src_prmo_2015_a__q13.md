@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_a__Q13
 parent: src_prmo_2015_a
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -35,6 +36,8 @@ tags:
   - regione/a
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest product of 3 distinct primes $x$, $y$, $10x+y$; sum of digits*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più grande prodotto di 3 primmi distinti $x$, $y$, $10x+y$; somma di cifre*
+
+> $n$ sia il numero intero più grande che è il prodotto di esattamente 3 numeri primi distinti, $x$, $y$ e $10x + y$, dove $x$ e $y$ sono cifre. Qual è la somma delle cifre di $n$?
+
+**Risposta:** 12
+[[src_prmo_2015_a__Q13]]

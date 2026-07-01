@@ -1,6 +1,7 @@
 ---
 title: IMO 2015 papers — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2015__Q01
 parent: src_imo_2015
 competition: IMO 2015 papers
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Insiemi bilanciati e centre-free di n punti*
 
@@ -43,3 +46,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Balanced and centre-free sets of n points *
+
+> We say that a finite set $\mathcal{S}$ of points in the plane is **balanced** if, for any two different points $A$ and $B$ in $\mathcal{S}$, there is a point $C$ in $\mathcal{S}$ such that $AC = BC$. We say that $\mathcal{S}$ is **centre-free** if for any three different points $A$, $B$ and $C$ in $\mathcal{S}$, there is no point of $\mathcal{S}$ equidistant from all three.
+> 
+> (a) Show that for all integers $n \geq 3$, there exists a balanced set having $n$ points.
+> 
+> (b) Determine all integers $n \geq 3$ for which there exists a balanced centre-free set having $n$ points.
+
+[[src_imo_2015__Q01]]

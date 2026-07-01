@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2 —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_nu_f2__Q04
 parent: src_obm_2004_nu_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Construct integer polynomial vanishing at P_j but not divisible by p at Q*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WVgS-I5YT_klW86nflai_QTNcRLnc5kh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Construire un polinomio intero che scompare a P_j ma non è divisibile da p a Q*
+
+> Let < MSK1/>. Che $p$ sia un primo, $k$ un intero positivo, e $P_1,P_2,\ldots,P_n, Q\in\mathbb{Z}^k$ tale che per tutti $j$, $1\le j\le k$, $$\frac{P_j-Q}{p}\in\mathbb{Z}^k.$$
+> 
+> Prova che esiste un polinomio $f(x_1,\ldots,x_k)$ con coefficienti interi come $f(P_j)=0$ per tutti $j$, $1\le j\le k$ e $\dfrac{f(Q)}{p}\notin\mathbb{Z}$.
+
+[[src_obm_2004_nu_f2__Q04]]

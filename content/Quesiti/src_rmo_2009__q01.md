@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2009 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2009__Q01
 parent: src_rmo_2009
 competition: Regional Mathematical Olympiad 2009
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle BAC in isosceles triangle with incenter condition*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1et9IO1xuP1ryseoogrNkDB_LaxO70ZCd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare l'angolo BAC in triangolo a stelle uguali con condizione di incentro*
+
+> Che $ABC$ sia un triangolo nel quale $AB = AC$ e che $I$ sia il suo centro. Supponiamo $BC = AB + AI$. Trova < MSK4/>.
+
+[[src_rmo_2009__Q01]]

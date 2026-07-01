@@ -1,6 +1,7 @@
 ---
 title: IMO 2024 (LXV International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2024__Q04
 parent: src_imho_2024
 competition: IMO 2024 (LXV International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangle incircle tangent lines, angle sum equals 180 degrees*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZrP0tUhDI-NRI5nmXI07Lc5voATX3Y5x/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangle incircle tangent lines, angle sum equal to 180 degrees*
+
+> Let $ABC$ be a triangle with $AB < AC < BC$. Let the incentre and incircle of triangle $ABC$ be $I$ and $\omega$, respectively. Let $X$ be the point on line $BC$ different from $C$ such that the line through $X$ parallel to $AC$ is tangent to $\omega$. Similarly, let $Y$ be the point on line $BC$ different from $B$ such that the line through $Y$ parallel to $AB$ is tangent to $\omega$. Let $AI$ meet the circumcircle of triangle $ABC$ at $P \neq A$. Let $K$ and $L$ be the midpoints of $AC$ and $AB$, respectively.
+> 
+> Prove that $\angle KIL + \angle YPX = 180^\circ$.
+
+[[src_imho_2024__Q04]]

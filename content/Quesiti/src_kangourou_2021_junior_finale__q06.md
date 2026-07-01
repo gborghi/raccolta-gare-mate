@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - finale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q06
 parent: src_kangourou_2021_junior_finale
 competition: Kangourou 2021 Junior - finale
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dimostrare c1+..+cn>=n se prodotto ci=1 (AM-GM)*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Demonstrate c1+..+cn>=n if product ci=1 (AM-GM) *
+
+> It shows that for any $n$-upple $c_1, c_2, \ldots, c_n$ of positive numbers the product of which is $1$, $$c_1 + c_2 + \cdots + c_n \geq n.$$
+
+[[src_kangourou_2021_junior_finale__Q06]]

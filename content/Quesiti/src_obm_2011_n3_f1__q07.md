@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f1__Q07
 parent: src_obm_2011_n3_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Greatest value of ab/(a+b) for reals with 0<a<=1 and 0<b<=1*
 
@@ -50,3 +53,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Migliore valore di ab/(a+b) per i reali con 0<a<=1 e 0<b<=1*
+
+> Essendo $a$ e $b$ reali tali che $0 < a \le 1$ e $0 < b \le 1$, il valore più grande che $\dfrac{ab}{a+b}$ può assumere è
+> 
+> (A) 0 (B) $\dfrac{1}{4}$ (C) $\dfrac{1}{3}$ (D) $\dfrac{1}{2}$ (E) 1
+
+[[src_obm_2011_n3_f1__Q07]]

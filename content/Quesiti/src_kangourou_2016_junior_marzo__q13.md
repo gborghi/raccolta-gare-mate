@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q13
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato mancante del torneo di tennis*
 
@@ -52,3 +55,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Missing result of the tennis tournament< MSK1/>
+
+> A direct elimination tennis tournament is over. The results of six of the seven final matches (quarter-finals, semi-finals and final) were (not necessarily in this order): Bianca beats Anna, Carla beats Daniela, Gina beats Hether, Gina beats Carla, Carla beats Bianca and Emma beats Franca. What's the missing result?
+> 	
+> A) Gina beats white .
+> 	
+> B) Carla beats up Anna
+> 	
+> C) Emma beats up Carla
+> 	
+> D) White beats Hether
+> 	
+> Gina is beating Emma.
+>
+
+**Answer:** E
+[[src_kangourou_2016_junior_marzo__Q13]]

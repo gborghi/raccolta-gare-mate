@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q21
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza CD in quadrilatero ciclico con AC diametro*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cyclic quadrilateral CD length with AC diameter*
+
+> Trapped [65] Numeruto is surrounded by four moreninja from the village of Binomio. The four opposing moreninja are at the vertices of a non-degenerating quadrilateral ABCD inscribed in a circumference. The AC diagonal is a diameter and is 2 mat-cho long. Furthermore, if the intersection point between the diagonal is indicated by P, the PC segment is known to be 2 5 long. Knowing that AB is BD, determining the length of CD. Give as a solution the fraction numerator to the minimum terms.
+
+[[src_cesenatico_2007_squadre_pubblico__Q21]]

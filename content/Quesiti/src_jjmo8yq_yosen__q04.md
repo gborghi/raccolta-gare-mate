@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo8yq_yosen__Q04
 parent: src_jjmo8yq_yosen
 competition: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three-digit m, n differing in one digit, n multiple of m*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*M a tre cifre, n differente in una cifra, n multiple di m*
+
+> Esistono numeri interi positivi a tre cifre $m, n$ in modo tale che $m$ e $n$ differiscono esattamente in una cifra (nella stessa posizione). Inoltre, $n$ è un multiple di $m$. Quante coppie < MSK5/> sono possibili?
+
+[[src_jjmo8yq_yosen__Q04]]

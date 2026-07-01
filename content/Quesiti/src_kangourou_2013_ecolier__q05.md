@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q05
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi ha sbagliato fra le affermazioni sul numero 325*
 
@@ -48,3 +51,22 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who made the wrong statement on the number 325?
+
+> At the last Olympic Games, the United States of America was the nation that won the most medals: 46 gold, 29 silver and 29 bronze. The second nation was China with 38 gold, 27 silver and 23 bronze. Overall, how many more medals than China has the United States won? A) 6
+>      	
+> B) 14
+> 	
+> C) 16
+>        	
+> D) 24
+>  	
+> E) 26
+>
+
+[[src_kangourou_2013_ecolier__Q05]]

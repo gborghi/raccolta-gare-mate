@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f1__Q20
 parent: src_obm_2002_n2_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given xy=2 and x²+y²+x²y²=5, find x²/y²+2+y²/x²*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dato che xy=2 e x2+y2+x2y2=5, trovi x2/y2+2+y2/x2*
+
+> Se $xy = 2$ e $x^2 + y^2 + x^2 y^2 = 5$, allora $\dfrac{x^2}{y^2} + 2 + \dfrac{y^2}{x^2}$ è uguale a:
+>
+> - **(A)** $\dfrac{5}{2}$
+> - **(B)** $\dfrac{25}{4}$
+> - **(C)** $\dfrac{5}{4}$
+> - **(D)** $\dfrac{1}{4}$
+> - **(E)** $1$
+
+**Risposta:** B
+[[src_obm_2002_n2_f1__Q20]]

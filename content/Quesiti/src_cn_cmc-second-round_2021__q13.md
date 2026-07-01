@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Second Round) 2021 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-second-round_2021__Q13
 parent: src_cn_cmc-second-round_2021
 competition: China Mathematical Competition (Second Round) 2021
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *If m>1, n>1 not perfect square, m divides n^2+n+1, prove |m-n| > sqrt(3n)-2*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Se m>1, n>1 non è il quadrato perfetto, m divide n^2+n+1, provare │m-n │ > sqrt(3n)-2*
+
+> (Test Paper B1, Problem 3) Lasciate che $m$, $n$ siano numeri interi superiori a $1$, e $n$ non è un quadrato perfetto. Se $n^2 + n + 1$ è divisibile per $m$, dimostrare che $$|m - n| > \sqrt{3n} - 2.$$
+
+[[src_cn_cmc-second-round_2021__Q13]]

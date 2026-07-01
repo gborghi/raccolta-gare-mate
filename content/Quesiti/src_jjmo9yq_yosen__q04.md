@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo9yq_yosen__Q04
 parent: src_jjmo9yq_yosen
 competition: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find area of triangle ADE given areas of quadrilaterals DMNE and MBCN*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qMJjxU0l_DxfEY-9HMozDgyKBaM5GpnZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'area del triangolo ADE con le aree dei quadrilaterali DMNE e MBCN*
+
+> Nel triangolo $ABC$, $D$ sia un punto sul lato $AB$ e $E$ un punto sul lato $AC$ in modo tale che la linea $DE$ sia parallela a $BC$. Il $M$ deve essere il punto medio di $BD$ e $N$ il punto medio di $CE$. Poiché l'area del quadrilaterale $DMNE$ è $1$ e l'area del quadrilaterale $MBCN$ è $2$, trovare l'area del triangolo $ADE$.
+
+![[src_jjmo9yq_yosen__Q04.png]]
+
+[[src_jjmo9yq_yosen__Q04]]

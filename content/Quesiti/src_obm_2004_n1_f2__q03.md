@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f2__Q03
 parent: src_obm_2004_n1_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count two-digit numbers whose digit sum is a perfect square*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 14
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri a due cifre la cui somma di cifre è un quadrato perfetto*
+
+> Quanti numeri a due cifre hanno una somma di una cifra uguale a un quadrato perfetto? Si noti che, ad esempio, 09 è un numero a due cifre e $853$ è un numero a tre cifre.
+
+**Risposta:** 14
+[[src_obm_2004_n1_f2__Q03]]

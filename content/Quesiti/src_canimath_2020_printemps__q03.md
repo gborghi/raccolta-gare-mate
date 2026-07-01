@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2020 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_printemps__Q03
 parent: src_canimath_2020_printemps
 competition: Coupe Animath Printemps 2020
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle, bisector of angle B meets AC at D with BD=DA; find the angles*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles, bisetto dell'angolo B incontra l'AC a D con BD=DA; trova gli angoli*
+
+> $ABC$ sia un triangolo a uguale scala a $A$. Il bisettore dell'angolo $\widehat{ABC}$ incontra il lato $[AC]$ a $D$. Supponiamo che $BD = DA$. Determinare gli angoli del triangolo.
+
+[[src_canimath_2020_printemps__Q03]]

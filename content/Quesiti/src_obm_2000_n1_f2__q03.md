@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f2__Q03
 parent: src_obm_2000_n1_f2
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Red/blue 100 points on a line; determine colour of rightmost point*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** red
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qZOH-LlPfV09ybTQlFoTrTk4Wq25FjPn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rossa/blu 100 punti su una linea; determinare il colore del punto più a destra*
+
+> Pingiamo $100$ punti su una linea in rosso o blu. Se due punti vicini sono entrambi rossi, dipingiamo il segmento tra di loro rosso. Se due punti vicini sono entrambi blu, dipingiamo il segmento tra loro in blu. Se due punti vicini hanno colori diversi, dipingiamo il segmento tra di loro in verde. Dopo aver fatto questo, ci sono esattamente $20$ segmenti verdi.
+> 
+> È possibile determinare a partire da questi dati il colore del punto sul lato destro? In tal caso, di che colore è il punto?
+
+**Risposta:** red
+[[src_obm_2000_n1_f2__Q03]]

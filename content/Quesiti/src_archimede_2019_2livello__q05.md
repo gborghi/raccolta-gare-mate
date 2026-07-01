@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2019 - 2° livello — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_2livello__Q05
 parent: src_archimede_2019_2livello
 competition: Archimede Gara di Febbraio 2019 - 2° livello
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Studenti a tavolo rotondo, quattro tipi, somma*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Round table students, four types, sum of MSK1/>
+
+> In the Normal School, this year's students in the Science class are of four types: Mathematicians, Physicists, Chemists and Biologists. At the dining room they are all sitting together around a round table; each of them has exactly one person sitting in front of him, and furthermore for each student the whole made up of himself, his right neighbour, his left neighbour and the student sitting in front includes all four types of students. How many students can be enrolled in the sciences class, appropriately divided between the four types, knowing that they are between 30 and 50 (extreme included)? The result is the sum of all possible answers.
+>
+> - **(A)** 40
+> - **(B)** 80
+> - **(C)** 120
+> - **(D)** 200
+> - **(E)** 440
+
+**Answer:** B
+[[src_archimede_2019_2livello__Q05]]

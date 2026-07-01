@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r3__Q06
 parent: src_pol_2007_r3
 competition: Olimpiade Matematica Polacca 2007 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Recursively defined real sequence via a weighted sum equation starting at a0=-1; prove all later terms positive.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I32ii3yrB1ZaVkUP0-xSzka1GIQRg6kF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza reale definita ricursivamente attraverso un'equazione di somma ponderata a partire da a0=-1; dimostrare tutti i termini successivi positivi.*
+
+> La sequenza dei numeri reali $a_0, a_1, a_2, \ldots$ è definita da $a_0 = -1$ e $$a_n + \frac{a_{n-1}}{2} + \frac{a_{n-2}}{3} + \cdots + \frac{a_1}{n} + \frac{a_0}{n+1} = 0 \quad \text{for } n \ge 1.$$ Mostra che $a_n > 0$ per $n \ge 1$.
+
+[[src_pol_2007_r3__Q06]]

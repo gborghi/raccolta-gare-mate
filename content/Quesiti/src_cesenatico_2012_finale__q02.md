@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_finale__Q02
 parent: src_cesenatico_2012_finale
 competition: Gara a Squadre Cesenatico 2012 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza percorsa nella piazza (triangolo isoscele)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4178
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance travelled in the square (isosceles triangle) *
+
+> How many of these questions have a prime number?
+
+**Answer:** 4178
+[[src_cesenatico_2012_finale__Q02]]

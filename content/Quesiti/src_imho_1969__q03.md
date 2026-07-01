@@ -1,6 +1,7 @@
 ---
 title: IMO 1969 (XI International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1969__Q03
 parent: src_imho_1969
 competition: IMO 1969 (XI International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Necessary and sufficient conditions for tetrahedron with k equal edges*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12FvNr0jk5CMfk7r3Xncci7U9Z2FtRov9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Necessary and sufficient conditions for tetrahedron with k equal edges*
+
+> For each value of $k = 1, 2, 3, 4, 5$, find necessary and sufficient conditions on the number $a > 0$ so that there exists a tetrahedron with $k$ edges of length $a$ and the remaining $6 - k$ edges of length 1.
+
+[[src_imho_1969__Q03]]

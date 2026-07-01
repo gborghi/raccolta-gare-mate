@@ -1,6 +1,7 @@
 ---
 title: IMO 1997 (XXXVIII International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1997__Q02
 parent: src_imho_1997
 competition: IMO 1997 (XXXVIII International Mathematical Olympiad)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangle angle bisectors meet circumcircle; prove AU = TB + TC*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g-riBxA5RS3xIizqUBYrgemajJKWaBw5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangle angle bisectors meet circumcircle; tests AU = TB + TC*
+
+> The angle at $A$ is the smallest angle of triangle $ABC$. The points $B$ and $C$ divide the circumcircle of the triangle into two arcs. Let $U$ be an interior point of the arc between $B$ and $C$ which does not contain $A$. The perpendicular bisectors of $AB$ and $AC$ meet the line $AU$ at $V$ and $W$, respectively. The lines $BV$ and $CW$ meet at $T$. Show that $$AU = TB + TC.$$
+
+[[src_imho_1997__Q02]]

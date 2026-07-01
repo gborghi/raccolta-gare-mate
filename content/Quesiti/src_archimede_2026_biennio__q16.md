@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Biennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_biennio__Q16
 parent: src_archimede_2026_biennio
 competition: Giochi di Archimede 2026 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area poligono ombreggiato in parallelogramma*
 
@@ -61,3 +64,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of parallel polygon shaded *
+
+![[src_archimede_2026_biennio__prob16.png]]
+
+> In parallelogram ABCD, whose area is 72 cm2, consider the point N of the CD side where DN = 2 NC. Then either I the point of the BN segment for which you have BI = 2 IN and T the point of the AN segment for which you have NT = 2 TA. How many cm2 does the area of the ABCINTD polygon (the shaded surface in the figure) measure? A B C D N I T
+>
+> - **(A)** 48
+> - **(B)** 45
+> - **(C)** 52
+> - **(D)** 54
+> - **(E)** 42 211
+
+**Answer:** C
+[[src_archimede_2026_biennio__Q16]]

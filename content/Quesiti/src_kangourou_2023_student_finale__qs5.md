@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Student 2023 — Quesito S5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student_finale__QS5
 parent: src_kangourou_2023_student_finale
 competition: Kangourou Finale Student 2023
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero coppie di punti a distanza massima fra n punti*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Ee_ERD-poJJkEKdZ7-sxycryMbsAtpP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of pairs of points between n points*
+
+![[src_kangourou_2023_student_finale__probS5.png]]
+
+> Assigned $n$ distinct points in the plane ($n \geq 2$), what can be said, when $n$ varies, about the number of pairs of such points that reach the maximum possible distance?
+
+[[src_kangourou_2023_student_finale__QS5]]

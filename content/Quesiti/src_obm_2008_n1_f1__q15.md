@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n1_f1__Q15
 parent: src_obm_2008_n1_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Digit-replacement multiplication by 7 gives 6157; find sum of replaced digits*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jS9AjIezsp0MUxDiEgVpS7k3MJ9uT3_v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*moltiplicazione del numero sostitutivo per 7 dà 6157; trovare la somma dei numeri sostituiti*
+
+> Nella moltiplicazione di seguito, alcuni numeri sono stati sostituiti dal simbolo $*$. Qual è la somma delle cifre sostituite da $*$?
+> 
+> $$\begin{array}{r} * * * \\ \times \quad 7 \\ \hline * * * * \\ \hline 6 \; 1 \; 5 \; 7 \end{array}$$
+> 
+> A) 17 $\quad$ B) 27 $\quad$ C) 37 $\quad$ D) 47 $\quad$ E) 57
+
+**Risposta:** D
+[[src_obm_2008_n1_f1__Q15]]

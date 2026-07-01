@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q10
 parent: src_archimede_2026_squadre_finale_mista
 competition: Gara a Squadre Nazionale 2026 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Isole (n,n) raggiungibili con passi k crescenti*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Islands (n,n) reachable by increasing steps *
+
+> In flight, Marco Targia Nashtrid has discovered Stellato's hideout! To convince her that he's a friendly dragon, Hilcup takes her on a flight with him. The two, however, do not realize that Stellato is heading towards the archipelago of which Dragon Island is also a part. Its route can be represented on the Cartesian plane: it starts at point (0,0), while the 1501 islands of the archipelago are located at points (n,n) with 1500 ≤n ≤3000. The dragon can only move in directions parallel to the Cartesian axis to the right or up, and not diagonally... It's a dragon. In addition, at k-eighth beat dali travels exactly k units of length: the first shift is length 1, the second 2, the third 3, and so on (Stellato moves between points at full coordinates). Which islands of the archipelago can you reach in this way? Tell me how many there are.
+
+**Answer:** 0016
+[[src_archimede_2026_squadre_finale_mista__Q10]]

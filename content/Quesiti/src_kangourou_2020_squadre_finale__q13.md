@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2020 Finale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q13
 parent: src_kangourou_2020_squadre_finale
 competition: Kangourou Coppa squadre 2020 Finale
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo bigliettini distinti (5 quadrati 4 colori rotazione)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0544
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ouvUikm9jtg5T9XqFtDuhZcgJZXEsFwU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of distinct tickets (5 squares 4 colours rotating) *
+
+> Tickets Rectangular tickets are used to identify each participant in a competition. One face is gray, equal for all; the other is divided into 5 aligned squares (congruents) which can be coloured with 4 different colours available; these colours can be used in any position, even partially (e.g. it is possible that only one colour is used in a ticket). There's no other marks on the tickets. How many participants can be admitted at most?
+
+**Answer:** 0544
+[[src_kangourou_2020_squadre_finale__Q13]]

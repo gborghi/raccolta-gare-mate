@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q02
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione bianca del triangolo isoscele a strisce*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>White fraction of the striped isosceles triangle< MSK1/>
+
+![[src_kangourou_2017_cadet_marzo__prob2.png]]
+
+> In the drawing you see an isosceles triangle decorated with stripes, all of the same height. What fraction of the surface of this triangle is white? A) 1/2 B) 1/3
+> 	
+> C) 2/3 D) 3/4 E) 2/5
+
+**Answer:** A
+[[src_kangourou_2017_cadet_marzo__Q02]]

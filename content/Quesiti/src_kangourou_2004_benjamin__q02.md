@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q02
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Carta da mettere nello schema (latin square)*
 
@@ -64,3 +67,32 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Latin square sheet
+
+![[src_kangourou_2004_benjamin__prob2.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \def\w{0.8}
+  \draw (0,0) grid[step=\w] (4*\w, 4*\w);
+  \node[font=\bfseries] at (0.5*\w, 3.5*\w) {P};
+  \node[font=\bfseries] at (2.5*\w, 3.5*\w) {?};
+  \node[font=\bfseries] at (3.5*\w, 3.5*\w) {C};
+  \node[font=\bfseries] at (0.5*\w, 2.5*\w) {F};
+  \node[font=\bfseries] at (1.5*\w, 2.5*\w) {P};
+  \node[font=\bfseries] at (1.5*\w, 1.5*\w) {Q};
+  \node[font=\bfseries] at (1.5*\w, 0.5*\w) {C};
+\end{tikzpicture}
+\end{document}
+```
+
+> You 've got 16 cards: 4 spikes (P ), 4 flowers (F ), 4 cards (Q ), and 4 hearts (C). You have to place them in the pattern shown in the figure, one per square, so that in each row and in each column there is a card for each sign. You've already begun the work as shown in the figure. What paper do you have to put in the square where the question mark appears? A) P B) F C) Q D) C E) more than one choice is possible
+
+**Answer:** C
+[[src_kangourou_2004_benjamin__Q02]]

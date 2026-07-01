@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q04
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anelli completi formati da righe di una camicia*
 
@@ -50,3 +53,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Full rings formed by stripes of a shirt*
+
+![[src_kangourou_2020_junior_marzo__prob4.png]]
+
+> There are seven horizontal lines on Henry's shirt. When you tie it properly, these lines close in seven rings around its chest, as shown in the figure to the left. This morning Henry, in a hurry, tied his shirt wrong and now his front looks is what appears in the figure to the right. How many complete rings are now formed by the lines? A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 3
+> 	
+> E) 6
+
+**Answer:** A
+[[src_kangourou_2020_junior_marzo__Q04]]

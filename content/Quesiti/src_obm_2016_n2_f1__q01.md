@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f1__Q01
 parent: src_obm_2016_n2_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of numbers at vertices of a tetrahedron given face sums with 2 and 7*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di numeri alle vertici di un tetraedro dati sommi facciali con 2 e 7*
+
+> I numeri sono scritti ai vertici di un tetraedro. Si ritiene che su alcuni bordi/facce appaiano i numeri $2$ e $7$ (come mostrato nella figura), e che i volti contenenti il numero $2$ soddisfino $2+x+7=2+7+y=x+2+7$, il che costringe $x=y=7$, quindi la somma dei numeri alle vertici di ciascuna faccia è uguale $2+7+7=16$, e il numero al vertice inferiore è $2$. Qual è la somma dei numeri scritti a tutti i vertici del tetraedro? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+
+![[src_obm_2016_n2_f1__Q01.png]]
+
+**Risposta:** C
+[[src_obm_2016_n2_f1__Q01]]

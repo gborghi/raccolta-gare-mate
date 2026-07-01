@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q09
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Gambe iniziali di pecore e pastori*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Original legs of sheep and shepherds*
+
+> In one pasture there were 15 sheep and some shepherds. After half the shepherds and a third of the sheep have moved away from the pasture, there are a total of 50 legs. How many legs were they initially? A) 60 B) 72 C) 80 D) 90         E) 100
+
+**Answer:** C
+[[src_kangourou_2004_student__Q09]]

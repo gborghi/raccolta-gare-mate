@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q29
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie casella bianca-nera non in riga/colonna*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pairs of non-line/column black and white box*
+
+![[src_kangourou_2005_junior__prob29.png]]
+
+> How many ways can you choose, on a traditional 8x8 chessboard, a pair of boxes, a white and a black, so that those boxes don't lie on the same line or on the same column? A) 56      B) 5040     C) 720 D) 672         E) 768
+
+**Answer:** E
+[[src_kangourou_2005_junior__Q29]]

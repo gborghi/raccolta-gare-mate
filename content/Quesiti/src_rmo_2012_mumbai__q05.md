@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Mumbai — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_mumbai__Q05
 parent: src_rmo_2012_mumbai
 competition: Regional Mathematical Olympiad 2012
@@ -35,6 +36,8 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all triples with a prime and a reciprocal equation*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(a,b,c)\in\{(2,5,30),(2,6,18),(2,7,14),(2,8,12),(2,10,10),(3,4,18),(3,6,9)\}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i tripli con una prima e un'equazione reciproca*
+
+> Trovare tutti i triples $(a, b, c)$ di numeri interi positivi in modo che $a$ sia un primo, $1 \le a \le b \le c$, e $$\frac{1}{a} + \frac{2}{b} + \frac{3}{c} = 1.$$
+
+**Risposta:** $(a,b,c)\in\{(2,5,30),(2,6,18),(2,7,14),(2,8,12),(2,10,10),(3,4,18),(3,6,9)\}$
+[[src_rmo_2012_mumbai__Q05]]

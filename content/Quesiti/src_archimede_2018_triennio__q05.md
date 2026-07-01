@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Triennio (T1) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_triennio__Q05
 parent: src_archimede_2018_triennio
 competition: Giochi di Archimede 2018 - Triennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti d'uso cellulare durante ricarica (40% consumato)*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minutes of cell phone use while charging (40% consumed) < MSK1/>
+
+> A fully charged cell phone must remain charged for 2 hours to fully charge if it is not in use in the meantime. On the other hand, if it is used during charging, 40% of the energy introduced is consumed immediately and only the remaining part is stored in the battery. Knowing that it took two and a half hours to charge the battery from zero, it is necessary to determine how many minutes the cell phone was used during the charging (whether or not the phone is used, the energy stored in a time interval is assumed to be proportional to its duration).
+>
+> - **(A)** 72
+> - **(B)** 90
+> - **(C)** 60
+> - **(D)** 87
+> - **(E)** 75
+
+**Answer:** E
+[[src_archimede_2018_triennio__Q05]]

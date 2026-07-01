@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre finale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q03
 parent: src_kangourou_2011_squadre_finale
 competition: Kangourou 2011 squadre finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero PAPA nella somma cifrata A+AP+APP=PQA*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5454
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13507kQgtd5A0hh0IwUZH9QyAEafhU_bz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*PAPA number in the digit sum A+AP+APP=PQA*
+
+> The sum encrypted In the sum encrypted A + AP + APP = PQA, the letters A, P and Q each indicate one digit; different letters indicate different digits. What's your dad's number?
+
+**Answer:** 5454
+[[src_kangourou_2011_squadre_finale__Q03]]

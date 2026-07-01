@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f1__Q17
 parent: src_obm_2007_n2_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Years without accident needed for insurer A to be worthwhile*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Anni senza incidente necessari per rendere utile l'assicuratore A< MSK1/>
+
+> Le compagnie di assicurazione automobilistica A e B addebitano un valore annuale (premia) più un valore che l'utente deve pagare in caso di incidente (deduttibile, franquia). Jean vuole assicurare la sua auto e ha ricevuto dalle assicuratrici le seguenti proposte: Assicuratore A: Premia annuale di R\$ 1500.00 and deductible of R\$ 1400.00 Assicuratore B: Premia annuale di R\$ 1700.00 and deductible of R\$ 700.00 Per far valere la pena che Jean assumi Assicuratore A, non deve avere un incidente con la macchina per almeno $N$ anni. Il valore di $N$ è:
+> 
+> (A) 2 $\quad$ (B) 3 $\quad$ (C) 4 $\quad$ (D) 5 $\quad$ (E) 6
+
+**Risposta:** C
+[[src_obm_2007_n2_f1__Q17]]

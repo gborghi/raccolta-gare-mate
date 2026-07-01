@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale nazionale Student — Quesito S1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_finale_student__QS1
 parent: src_kangourou_2014_finale_student
 competition: Kangourou 2014 finale nazionale Student
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *misura angolo NMB*
 
@@ -66,3 +69,45 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 75
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J0eVc0n4KMj_riY1S4VFaIQwejE9Ln6P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*angle measurement NMB*
+
+![[src_kangourou_2014_finale_student__probS1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=2]
+  \draw (0,0) circle (1);
+  \coordinate (A) at (0.342, 0.940);
+  \coordinate (B) at (0.985, -0.174);
+  \coordinate (C) at (-0.906, -0.423);
+  \coordinate (D) at (-0.848, 0.530);
+  \coordinate (M) at (0.664, 0.383);
+  \coordinate (N) at (0.040, -0.299);
+  \coordinate (K) at (-0.877, 0.054);
+  \draw (A)--(B);
+  \draw (B)--(C);
+  \draw (C)--(D);
+  \draw (C)--(M);
+  \draw (K)--(B);
+  \draw[thin] (K)++(30:0.09) arc (30:100:0.09);
+  \draw[thin] (M)++(-155:0.09) arc (-155:-80:0.09);
+  \node[above] at (0.342, 0.940) {A};
+  \node[right] at (0.985, -0.174) {B};
+  \node[left] at (-0.906, -0.423) {C};
+  \node[above left] at (-0.848, 0.530) {D};
+  \node[above left] at (-0.877, 0.054) {K};
+  \node[right] at (0.664, 0.383) {M};
+  \node[below] at (0.040, -0.299) {N};
+\end{tikzpicture}
+\end{document}
+```
+
+> The figure shows a circumference of which the segments $AB$, $BC$ and $CD$ are three strings. The $M$, $N$ and $K$ points are their respective mean points. The angle $CKN$ is $75°$. How many degrees does the angle $NMB$ measure? (see figure)
+
+**Answer:** 75
+[[src_kangourou_2014_finale_student__QS1]]

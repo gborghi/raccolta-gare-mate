@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Ecolier (marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q20
 parent: src_kangourou_2007_ecolier_marzo
 competition: Kangourou 2007 Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale figura non ottenibile piegando e tagliando*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which figure cannot be obtained by folding and cutting*
+
+> A square sheet of paper is folded twice so that the result is still a square. This square is cut into a corner. Which of the following figures cannot be obtained by this procedure? (a) (b) (c) (d) (e) no payment. I'm going to pay. This is the main reason why the Commission has decided to extend its powers to the Member States.
+> 
+> I'm going to pay. I'm going to pay. 9 Kang 2007 Kang 2007
+
+**Answer:** E
+[[src_kangourou_2007_ecolier_marzo__Q20]]

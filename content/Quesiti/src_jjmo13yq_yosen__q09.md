@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo13yq_yosen__Q09
 parent: src_jjmo13yq_yosen
 competition: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle PAC in isosceles triangle with interior point P*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{35}{2}^\circ$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Indicare l'angolo PAC in triangolo a stelle uguali con punto interno P*
+
+> Lasciate che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$, e lasciate che $P$ sia un punto all'interno di esso. Poiché $\angle BAC = 70^\circ$, $\angle PBC = 30^\circ$ e $\angle APC = 150^\circ$, si trova la misura di $\angle PAC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Risposta:** \frac{35}{2}^\circ
+[[src_jjmo13yq_yosen__Q09]]

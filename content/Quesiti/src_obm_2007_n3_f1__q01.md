@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f1__Q01
 parent: src_obm_2007_n3_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two overlapping squares; find x+y in degrees*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due quadrati che si sovrappongono; trovare x + y in gradi*
+
+> La figura mostra due quadrati sovrapposti. Qual è il valore di $x+y$, in gradi?
+> 
+> (A) $270$ \quad (B) $300$ \quad (C) $330$ \quad (D) $360$ \quad (E) $390$
+
+![[src_obm_2007_n3_f1__Q01.png]]
+
+**Risposta:** D
+[[src_obm_2007_n3_f1__Q01]]

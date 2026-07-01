@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q23
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza quadrati aree triangoli da polinomi delle lunghezze*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 0666
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Differential square triangle areas by length polynomials*
+
+> The polynomial triangular flag The polynomial triangular flag V1, made by Gaussdalf to protect the kingdom of humans, depicts a triangle T1 with sides of length 440, 444, 448, the monic polynomial of third degree P1(x), which has as its roots the lengths of the sides of T1, and the magic number q1, equal to the square of the area of T1. The enemy flag V2, made by the evil Tauron, has the same characteristics, but instead of P1(x) the polynomial P2(x) = P1(x) +1 associated with the tetra triangle T2 appears. How much is q2 minus q1?
+
+**Answer:** 0666
+[[src_gas_2009_finale__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2026 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo36hq_honsen__Q04
 parent: src_jmo36hq_honsen
 competition: Japan Mathematical Olympiad 2026 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real functions with f(x^2+f(y)^2)+2f(x)y=f(x+f(y))^2*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oqGtdGx8swPoRbJnrYEkEjUg3BLmmGVE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni reali con f(x^2+f(y) ^2) +2f(x) y=f(x+f(y)) ^2*
+
+> Trovare tutte le funzioni $f$ definite sui numeri reali e prendere valori reali in modo tale che, per tutti i numeri reali $x, y$, $$f\!\left(x^2 + f(y)^2\right) + 2f(x)\,y = f\!\left(x + f(y)\right)^2$$ si trova.
+
+[[src_jmo36hq_honsen__Q04]]

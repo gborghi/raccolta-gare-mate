@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 29
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q29
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -36,6 +37,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular n-gon colourful iff 6 colours allow every 5 consecutive vertices different; largest non-colourful n*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Regular n-gon colorato se 6 colori consentono ogni 5 vertici consecutivi di differire; più grande n non colorato < MSK1/>
+
+> Si dice che un poligono regolare con vertici $n \ge 5$ sia colorato se è possibile colorare i vertici utilizzando al massimo 6 colori in modo tale che ogni vertice sia colorato esattamente con un colore e in modo tale che ogni 5 vertici consecutivi abbiano colori diversi. Trova il numero più grande $n$ per il quale un poligono regolare con vertici $n$ è \textbf{not} colorato.
+
+[[src_ioqm_2025_sep07__Q29]]

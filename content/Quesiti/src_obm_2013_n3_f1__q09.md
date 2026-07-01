@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q09
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of ways to choose three pairwise-skew edges of a cube*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di modi per scegliere tre bordi di sciacquatura in coppia di un cubo*
+
+> Diciamo che due linee o segmenti di linee sono \emph{skew} (inverse) quando non c'è piano che contiene entrambe le linee o segmenti. In quanti modi possiamo scegliere tre bordi di un cubo in modo che due di questi bordi siano pregiudicati?
+> 
+> (A) $6$ \quad (B) $8$ \quad (C) $12$ \quad (D) $24$ \quad (E) $36$
+
+**Risposta:** B
+[[src_obm_2013_n3_f1__Q09]]

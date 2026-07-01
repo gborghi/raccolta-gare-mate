@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f3__Q05
 parent: src_obm_2014_n1_f3
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Coin-removal game: winning strategy for 11 and 15 coins on table*
 
@@ -58,3 +61,23 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di rimozione delle monete: strategia vincente per 11 e 15 monete sul tavolo*
+
+> Ana e Beatriz hanno molte monete. Li mettono su un tavolo e giocano secondo le seguenti regole:
+> 
+> i. Il primo giocatore deve togliere almeno una moneta, ma non tutte;
+> 
+> ii. Il giocatore successivo deve rimuovere almeno una moneta e al massimo il doppio del numero di monete rimuovute dal giocatore precedente;
+> 
+> iii. Il giocatore che toglie l'ultima moneta vince.
+> 
+> a) Supponiamo che mettano monete < MSK0/> sul tavolo. Se Ana gioca prima e toglie due monete, mostra come Beatriz può vincere la partita (indipendentemente dalle mosse rimanenti di Ana).
+> 
+> b) Ora supponiamo che mettano monete $15$ sul tavolo. Mostrare che il primo giocatore può sempre vincere (indipendentemente dalle mosse del secondo giocatore).
+
+[[src_obm_2014_n1_f3__Q05]]

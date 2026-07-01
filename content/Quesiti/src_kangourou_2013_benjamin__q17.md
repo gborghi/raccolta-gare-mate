@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q17
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie di numeri di due cifre con differenza 50*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pairs of two-digit numbers with a difference of 50*
+
+> Consider all pairs of positive integers, each of two digits, such that the difference between the largest and the smallest of the two numbers is 50. How many are there? A) 40 B) 30
+>        	
+> C) 50
+>   	
+> D) 60 E) 10
+
+**Answer:** A
+[[src_kangourou_2013_benjamin__Q17]]

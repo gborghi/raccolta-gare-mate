@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2023 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2023__Q06
 parent: src_smc_2023
 competition: Senior Mathematical Challenge 2023
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Lines of three adjacent cells summing to a multiple of three in a 4x4 grid*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Line di tre celle adiacenti che sommano a un multiple di tre in una griglia 4x4*
+
+> Quante linee di tre celle adiacenti possono essere scelte da questa griglia, orizzontale, verticale o diagonale, in modo tale che la somma dei numeri nelle tre celle sia un multiple di tre? La griglia contiene i numeri $1$ a $16$ disposti in quattro righe: $1,2,3,4$; $5,6,7,8$; $9,10,11,12$; $13,14,15,16$.
+>
+> - **(A)** $30$
+> - **(B)** $24$
+> - **(C)** $18$
+> - **(D)** $12$
+> - **(E)** $6$
+
+![[src_smc_2023__Q06.png]]
+
+**Risposta:** B
+[[src_smc_2023__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2025_squadre__Q01
 parent: src_gsm_2025_squadre
 competition: Gara a Squadre Miste GSM (locale Genova) 2025
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di accendere la luce con otto interruttori*
 
@@ -56,3 +59,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0135
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of lighting with eight switches*
+
+> In one room there are eight switches that control the same lamp. The lamp shall be switched on only if all eight switches are in the ON position. There's nothing written on the switches, so it's impossible to tell which are on and which are off. A person walks into the room and knows that four switches are on and four on, but they don't know what they are. To turn on the light the person proceeds in this way: he chooses four switches at random and changes their status. What's the probability that the light will turn on on the first attempt? [Give the answer the probability multiplied by 10000.] : 0007
+
+**Answer:** 0135
+[[src_gsm_2025_squadre__Q01]]

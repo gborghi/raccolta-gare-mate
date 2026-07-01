@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Ecolier — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q15
 parent: src_kangourou_2019_ecolier_semifinale
 competition: Kangourou 2019 Semifinale Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante forme di formaggio iniziali date due giornate di topi*
 
@@ -61,3 +64,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 14
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tNc5SZ7vm6wp3SYyibXhYqSBPWtNBocw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many initial forms of cheese are given to mice over two days< MSK1/>
+
+> A cellar contains some whole forms of cheese. One day 36 mice invade the cellar and devour a total of 12 whole forms of cheese, all eating the same amount of cheese. The next day, 12 of those mice return to the cellar and, each eating half of what they ate the day before, deplete the remaining forms. How many whole forms of cheese were there in the basement? a b h d c g f e
+> 	
+> a 4 0 b  -
+> 	
+> 5 c d 6  = ---------------
+> 	
+> 2 0 1 9
+> 
+> 0005 0010 0024 0014 0010 0014
+
+**Answer:** 14
+[[src_kangourou_2019_ecolier_semifinale__Q15]]

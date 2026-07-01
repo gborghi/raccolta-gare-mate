@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo24yqa_yosen__Q09
 parent: src_jjmo24yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count permutations of 1..30 where every index has at least 2 indices giving an inversion*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 113
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggi permutazioni di 1,30 in cui ogni indice ha almeno 2 indici che danno un'inversione*
+
+> Quante permutazioni $a_1, a_2, \ldots, a_{30}$ di $1, 2, \ldots, 30$ soddisfano la seguente condizione?
+> 
+> Per ogni intero $i$ con $1 \le i \le 30$, esistono almeno $2$ interi $j$ con $1 \le j \le 30$ tali che $(i - j)(a_i - a_j) < 0$.
+
+**Risposta:** 113
+[[src_jjmo24yqa_yosen__Q09]]

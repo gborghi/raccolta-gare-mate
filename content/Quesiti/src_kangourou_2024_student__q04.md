@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q04
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Retta y=x+1 in assi con orientamento invertito*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Right y=x+1 in axes with inverted orientation*
+
+![[src_kangourou_2024_student__prob4.png]]
+
+> When using an orthogonal Cartesian axis system, Pamela has her own way of doing this: reversing the orientation of both axes. In Pamela's system, which of the following is the line of equation y = x + 1? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D) E)
+
+**Answer:** D
+[[src_kangourou_2024_student__Q04]]

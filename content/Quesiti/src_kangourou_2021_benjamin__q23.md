@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q23
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizione dei denti neri dopo un giro della ruota piccola*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Position of black teeth after a small wheel turn< MSK1/>
+
+![[src_kangourou_2021_benjamin__prob23.png]]
+
+> The figure shows a gear consisting of three toothed wheels, each with a black tooth. Which of the figures in the answers shows the correct position of the black teeth after the small wheel has made an entire turn clockwise? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D) E)
+
+**Answer:** A
+[[src_kangourou_2021_benjamin__Q23]]

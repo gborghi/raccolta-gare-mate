@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Triennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_triennio__Q04
 parent: src_archimede_2024_triennio
 competition: Giochi di Archimede 2024 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo rettangolo, circonferenza circoscritta, misura PA*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular triangle, circumscribed circumference, measurement of PA*
+
+> In the isosceles triangle DEF, where DE = EF, the angle  E is 32°. The height from D and the beam from F intersect at point I. What is the width of the convex angle  DIF ?
+>
+> - **(A)** 129°
+> - **(B)** 126°
+> - **(C)** 128°
+> - **(D)** 127°
+> - **(E)** 130°
+
+**Answer:** C
+[[src_archimede_2024_triennio__Q04]]

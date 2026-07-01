@@ -1,6 +1,7 @@
 ---
 title: IMO 1965 (VII International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1965__Q04
 parent: src_imho_1965
 competition: IMO 1965 (VII International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all sets of four real numbers with pairwise-product sums equal to 2*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tk-D3Xruwl2WK5FPEf9VF-YTvWxYxD4K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find all sets of four real numbers with pairwise-product sums equal to 2
+
+> Find all sets of four real numbers $x_1, x_2, x_3, x_4$ such that the sum of any one and the product of the other three is equal to $2$.
+
+[[src_imho_1965__Q04]]

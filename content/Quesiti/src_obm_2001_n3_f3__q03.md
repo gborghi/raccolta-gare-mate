@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f3__Q03
 parent: src_obm_2001_n3_f3
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with side AB trisected and two perpendicularity conditions; find ratio DB/DC*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i9yemBLDI7hxIseefnK_GZclyK4JXHSC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con lato AB triseccato e due condizioni di perpendicularità; trovare rapporto DB/DC*
+
+> $E$ e $F$ sono punti sul lato $AB$ del triangolo $ABC$, in modo tale che $AE = EF = FB$. $D$ è un punto della linea $BC$ tale che $BC$ sia perpendicolare a $ED$ e $AD$ sia perpendicolare a $CF$. Gli angoli $\angle BDF$ e $\angle CFA$ misurano rispettivamente $x$ e $3x$. Calcolare il rapporto $\frac{DB}{DC}$.
+
+[[src_obm_2001_n3_f3__Q03]]

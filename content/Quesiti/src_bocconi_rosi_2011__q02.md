@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q02
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Contare triangoli nella figura*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Count triangles in the figure*
+
+> **How many triangles do you see in the figure? **
+
+![[src_bocconi_rosi_2011__Q02.png]]
+
+**Answer:** 16
+[[src_bocconi_rosi_2011__Q02]]

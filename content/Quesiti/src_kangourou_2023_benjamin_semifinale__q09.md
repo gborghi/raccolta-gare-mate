@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Semifinale individuale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin_semifinale__Q09
 parent: src_kangourou_2023_benjamin_semifinale
 competition: Kangourou 2023 Benjamin — Semifinale individuale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri <40 con somma dei quadrati delle cifre quadrato*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mF2rVbrNP5wIK8iQldHBHcyFNDzq0vZz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers <40 with sum of squares of the square digits*
+
+> (Points 6) How many positive integers less than 40 have the property that the sum of the squares of their two digits is itself a perfect square? (Numbers must be thought of as two digits anyway, for example 4 must be thought of as 04.) A) 1 B) 9 C) 12 D) 13 E) 14 Open-ended questions
+
+[[src_kangourou_2023_benjamin_semifinale__Q09]]

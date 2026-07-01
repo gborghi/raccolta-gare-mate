@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2011 — Quesito
   2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2011__Q02
 parent: src_bocconi_finalenaz_2011
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2011
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quattro regine che non si minacciano nella mini-scacchiera*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (vedi figura soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Four queens who don't threaten each other in the mini chessboard.
+
+> In the game of chess, the queen can move horizontally, vertically or diagonally of any number of boxes, provided she finds no other piece along her path. So, the queen placed in the mini-chessboard of the figure on the right can move into all the grey boxes.
+> 
+> Instead of four boxes of the mini-chessboard in the figure on the right where you place four queens so that none of them can move in the box marked with X with one move.
+
+![[src_bocconi_finalenaz_2011__Q02.png]]
+
+**Answer:** (vedi figura soluzione)
+[[src_bocconi_finalenaz_2011__Q02]]

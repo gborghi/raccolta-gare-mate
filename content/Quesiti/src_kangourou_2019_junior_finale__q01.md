@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale nazionale Junior — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q01
 parent: src_kangourou_2019_junior_finale
 competition: Kangourou 2019 Finale nazionale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punti interi nel cerchio raggio 10 centrato origine*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0317
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Integer points in the radius 10 centered circle of origin*
+
+> year N: in the following 4 years, days are added according to the scheme: 1+1+1+2,
+
+**Answer:** 0317
+[[src_kangourou_2019_junior_finale__Q01]]

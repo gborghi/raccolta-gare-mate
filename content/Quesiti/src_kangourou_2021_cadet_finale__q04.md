@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - finale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet_finale__Q04
 parent: src_kangourou_2021_cadet_finale
 competition: Kangourou 2021 Cadet - finale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo da togliere da 2..2021 senza prodotti rimasti*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 43
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum to be removed from 2..2021 without residual products*
+
+> Consider the set of integers from $2$ to $2021$ included. You want to take some of them away so none of the remaining ones can be expressed as a product of two of the remaining ones. How many do you want to take away?
+
+**Answer:** 43
+[[src_kangourou_2021_cadet_finale__Q04]]

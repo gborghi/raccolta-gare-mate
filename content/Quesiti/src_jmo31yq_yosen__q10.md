@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo31yq_yosen__Q10
 parent: src_jmo31yq_yosen
 competition: Japan Mathematical Olympiad 2021 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Concyclic D,B,C,E with interior point P and equal angles; find BP/CP*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{\sqrt{33}}{11}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conciclica D,B,C,E con punto interno P e angoli uguali; trovare BP/CP*
+
+> Nei lati $AB$ e $AC$ del triangolo $ABC$ ci sono i punti $D$ e $E$ rispettivamente, e i quattro punti $D$, $B$, $C$ e $E$ si trovano su un cerchio. Inoltre, $P$ è un punto all'interno del quadrilaterale $DBCE$ che soddisfa $\angle BDP=\angle BPC=\angle PEC$. Date $AB=9$, $AC=11$, $DP=1$, $EP=3$, si trova il valore di $\dfrac{BP}{CP}$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Risposta:** \frac{\sqrt{33}}{11}
+[[src_jmo31yq_yosen__Q10]]

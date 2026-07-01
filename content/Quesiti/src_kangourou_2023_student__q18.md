@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q18
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Da quanti numeri si parte per ottenere 10 sommando parte decimale*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*From how many numbers do you start to get 10 by adding the decimal part*
+
+> When a positive number appears on a computer screen (in decimal notation), pressing an appropriate button adds its decimal part to that number: for example, the number 1,3 is transformed into 1.6. How many different numbers can you start from if you want the result to be exactly 10 by pressing the button no more than four times? A) 3
+> 	
+> B) 7
+> 	
+> C) 8
+> 	
+> D) 12
+> 	
+> E) 16
+
+**Answer:** E
+[[src_kangourou_2023_student__Q18]]

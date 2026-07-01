@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f1__Q18
 parent: src_obm_2014_n1_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Gray region as union of equal rectangles with no gaps/overlaps; find gray area*
 
@@ -46,3 +49,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Regione grigia come unione di rettangolari uguali senza lacune/sovrapposizioni; trovare zona grigia*
+
+> La regione grigia nella figura è l'unione di rettangoli uguali, senza lacune né sovrapposizioni. La linea tracciata è indicata nella figura. Qual è l'area della regione grigia?
+> 
+> (A) $6\text{ cm}^2$ \quad (B) $6{,}5\text{ cm}^2$ \quad (C) $7\text{ cm}^2$ \quad (D) $7{,}5\text{ cm}^2$ \quad (E) $8\text{ cm}^2$
+
+![[src_obm_2014_n1_f1__Q18.png]]
+
+[[src_obm_2014_n1_f1__Q18]]

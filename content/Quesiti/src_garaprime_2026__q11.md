@@ -1,6 +1,7 @@
 ---
 title: XI Gara Nazionale Classi Prime 2026 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2026__Q11
 parent: src_garaprime_2026
 competition: XI Gara Nazionale Classi Prime 2026
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo del piu grande di quattro interi con media 2026*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1F8eBxLs4bDWlyZJGhjIxQLaCXc18EKrk/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum of the largest of four integers with mean 2026 < MSK1/>
+
+> If the arithmetic mean of four distinct positive integers is 2026, what is the maximum possible value of the largest of these numbers?
+>
+> - **(A)** 8078
+> - **(B)** 8104
+> - **(C)** 8098
+> - **(D)** 7592
+> - **(E)** 8101
+
+**Answer:** C
+[[src_garaprime_2026__Q11]]

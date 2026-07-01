@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q06
 parent: src_kangourou_2009_ecolier_marzo
 competition: Kangourou 2009 - Ecolier (gara 19 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza linea unendo centri dei foglietti*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Line length joining the centers of the leaflets*
+
+![[src_kangourou_2009_ecolier_marzo__prob6.png]]
+
+> Antonio glued 10 rectangular sheets on the table, all of them equal in size, as shown in the figure; the sides of the sheets are 4 and 6 inches. On them Antonio drew the line marked in grease, constructed by connecting the centers of the sheets by means of straight lines. How many centimeters is the line traced by Antonio? A) 24 B) 40 C) 46 D) 50 E) 56
+
+**Answer:** C
+[[src_kangourou_2009_ecolier_marzo__Q06]]

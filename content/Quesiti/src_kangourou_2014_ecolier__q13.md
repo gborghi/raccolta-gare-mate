@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Ecolier — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier__Q13
 parent: src_kangourou_2014_ecolier
 competition: Kangourou 2014 marzo Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quale disegno copre esattamente la forma coi 4 pezzi*
 
@@ -46,3 +49,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which drawing exactly covers the shape with the four pieces*
+
+![[src_kangourou_2014_ecolier__prob13.png]]
+
+> Initially Fulvia had white, gray and black discs in equal quantity. After he arranged a few of them as you see in the figure, he's got five left. In the figure you can see all the discs used by Fulvia. How many discs did you have at the beginning for each color? A) 5
+> 	
+> B) 6
+> 	
+> C) 7 D) 15
+> 	
+> E) 18
+
+[[src_kangourou_2014_ecolier__Q13]]

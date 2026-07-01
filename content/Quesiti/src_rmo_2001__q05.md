@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2001 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2001__Q05
 parent: src_rmo_2001
 competition: Regional Mathematical Olympiad 2001
@@ -31,6 +32,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC with angle bisector AD, angle B=2C, CD=AB implies angle A=72°*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15Y14HVMjGftkYhnfutHqAb_lpxEScIwl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC con angolo bisector AD, angolo B=2C, CD=AB implica angolo A=72°*
+
+> In un triangolo $ABC$, $D$ deve essere un punto su $BC$ tale che $AD$ sia il bisettore interno di $\angle A$. Supponiamo $\angle B = 2\angle C$ e $CD = AB$. Dimostra che $\angle A = 72^\circ$.
+
+![[src_rmo_2001__Q05.png]]
+
+[[src_rmo_2001__Q05]]

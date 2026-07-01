@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo8yq_yosen__Q09
 parent: src_jjmo8yq_yosen
 competition: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count n<=999 with digit sum of 9n equal to 27*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta n<=999 con somma di 9n uguale a 27*
+
+> Per un intero positivo $n$, $S(n)$ indica la somma delle cifre di $n$. Trova il numero di integri positivi $n$ al massimo $999$ che soddisfano $S(9n) = 27$.
+
+[[src_jjmo8yq_yosen__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2008 — Round 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2008_r2__Q06
 parent: src_pol_2008_r2
 competition: Olimpiade Matematica Polacca 2008 — Round 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For n not divisible by 3, show there is a positive integer m such that every integer >= m is the digit sum of some multiple of n.*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBqpAesfIgvgnT5yAsrIJN7zQovSRGdZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per n non divisibile per 3, mostrare che c'è un intero positivo m tale che ogni intero >= m è la somma digitali di qualche moltiplo di n.*
+
+> Se $n$ è un intero positivo non divisibile da $3$, indicare che esiste un intero positivo $m$ in modo tale che ogni intero non inferiore a $m$ sia la somma di cifre di qualche multiplo di $n$.
+
+[[src_pol_2008_r2__Q06]]

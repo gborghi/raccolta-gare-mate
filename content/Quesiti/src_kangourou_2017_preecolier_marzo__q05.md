@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_preecolier_marzo__Q05
 parent: src_kangourou_2017_preecolier_marzo
 competition: Kangourou 2017 Pre-Ecolier - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale disegno della farfalla con gli adesivi*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What is the design of the butterfly with the stickers*
+
+![[src_kangourou_2017_preecolier_marzo__prob5.png]]
+
+> Elena wants to decorate this butterfly with these adhesives: 2 blue circles (large), 2 black circles (small), 2 pink circles (large). What drawing can he get?
+> 
+> (A) (B) (C) (D) (E)
+> 
+> (see figure)
+
+**Answer:** A
+[[src_kangourou_2017_preecolier_marzo__Q05]]

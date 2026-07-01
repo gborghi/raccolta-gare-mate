@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student semifinale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q09
 parent: src_kangourou_2024_student_semifinale
 competition: Kangourou 2024 Student semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di telecamere ridondanti su strada 1000m*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of redundant cameras on the road 1000m
+
+> (Points 6) A 1,000-meter straight road is monitored by n cameras, each covering exactly 10 meters to its left and 10 meters to its right, extremes included, but not covering any point off the road. The cameras are more than necessary, but they are arranged in such a way that even if one of them does not work, some stretches of the road will be discovered. What's the maximum possible value for n? A) 49 B) 50 C) 51 D) 74 E) 98 Answer: E). The solution. Let's count the cameras gradually along the way starting with 1. If the section covered by the k-exima intersects the section covered by the (k+2)-exima, the (k+1)-exima would be useless: then the sections covered by cameras with odd numbers are disjoint, so they cannot be more than 49. It must be n < 99 because otherwise there would be at least 50 odd tracts. It can be n = 98. It is sufficient to distribute the 98 cameras so that they are evenly spaced with the first and last at 10 meters from the end of the corresponding street: the distance between the k-eighth and the (k+2)-eighth camera is then 2 × 980 / 97 meters which, being greater than 20 meters, can only be covered by the (k+1)-eighth camera (analog reasoning to the ends).
+>  
+> Open-ended questions
+
+**Answer:** E
+[[src_kangourou_2024_student_semifinale__Q09]]

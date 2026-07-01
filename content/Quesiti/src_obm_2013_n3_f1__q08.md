@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q08
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle of odd integers in rows of increasing length; which row contains 2013*
 
@@ -55,3 +58,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo di numeri interi dispari in righe di lunghezza crescente; che riga contiene 2013*
+
+> Il triangolo aritmetico di Fibonacci è formato dai numeri interi positivi dispari, disposti in righe di lunghezza crescente e saltando alla riga successiva, a partire da $1$. La riga $n$ ha esattamente i numeri $n$. Guarda le prime quattro righe:
+> 
+> Righe 1: $1$ Righe 2: $3\ 5$ Righe 3: $7\ 9\ 11$ Righe 4: $13\ 15\ 17\ 19$
+> 
+> In quale riga apparirà $2013$?
+> 
+> (A) $45$ \quad (B) $46$ \quad (C) $62$ \quad (D) $63$ \quad (E) $64$
+
+**Risposta:** A
+[[src_obm_2013_n3_f1__Q08]]

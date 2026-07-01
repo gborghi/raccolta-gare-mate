@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2012-13 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2012-13_round2__Q02
 parent: src_bmo_2012-13_round2
 competition: British Mathematical Olympiad 2012-13 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove angle QAB = angle CAP given PBQC parallelogram and equal angles*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6MLouVC9Fv33gZl2XU4wc2GFJ11WgBk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove angle QAB = angle CAP data PBQC parallelogramma e angoli uguali*
+
+> Il punto $P$ si trova all'interno del triangolo $ABC$ in modo che $\angle ABP = \angle PCA$. Il punto $Q$ è tale che $PBQC$ sia un parallelo. Prove che $\angle QAB = \angle CAP$.
+
+[[src_bmo_2012-13_round2__Q02]]

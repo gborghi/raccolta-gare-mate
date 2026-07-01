@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q19
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -34,6 +35,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right triangle ABC, square DEFG with F on AC, G on circle centred at A; find area of DEFG*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo retto ABC, DEFG quadrato con F su AC, G su un cerchio incentrato su A; trovare superficie di DEFG*
+
+> In triangolo $ABC$, $\angle B = 90^\circ$, $AB = 1$ e $BC = 2$. Sul lato $BC$ ci sono due punti $D$ e $E$ in modo tale che $E$ si trova tra $C$ e $D$ e $DEFG$ è un quadrato, dove $F$ si trova su $AC$ e $G$ si trova sul cerchio attraverso $B$ con il centro $A$. Se l'area di $DEFG$ è $\dfrac{m}{n}$, dove $m$ e $n$ sono integri positivi con $\gcd(m, n) = 1$, qual è il valore di $m + n$?
+
+[[src_ioqm_2025_sep07__Q19]]

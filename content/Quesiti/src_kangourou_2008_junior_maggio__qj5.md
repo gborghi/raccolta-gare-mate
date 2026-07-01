@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Junior finale nazionale (Mirabilandia) — Quesito J5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_junior_maggio__QJ5
 parent: src_kangourou_2008_junior_maggio
 competition: Kangourou 2008 - Junior finale nazionale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Esistono tre punti col cerchio vuoto all'interno*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uXc8-ZmBP-ZtvKTQDU0i6ugKKpgckWrF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*There are three points with an empty circle inside*
+
+> In a plane, some non-hilly points (i.e. not all lying on the same line) are assigned in finite numbers greater than or equal to three. Is it true that there are necessarily three such points among them that the circle bounded by the circumference passing through these three does not contain any of the remaining points?
+
+**Answer:** si
+[[src_kangourou_2008_junior_maggio__QJ5]]

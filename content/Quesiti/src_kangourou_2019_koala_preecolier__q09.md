@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q09
 parent: src_kangourou_2019_koala_preecolier
 competition: Kangourou 2019 Koala n.6 Pre-Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali due porte chiudere per fermare il topo*
 
@@ -43,3 +46,23 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which two doors to close to stop the mouse*
+
+![[src_kangourou_2019_koala_preecolier__prob9.png]]
+
+> If you want to keep the mouse from reaching the cheese, you just have to close two doors. What kind?
+>
+> (see figure)
+>
+> - **(A)** 1 e 2
+> - **(B)** 2 e 3
+> - **(C)** 3 e 4
+> - **(D)** 4 e 5
+> - **(E)** 3 e 5
+
+[[src_kangourou_2019_koala_preecolier__Q09]]

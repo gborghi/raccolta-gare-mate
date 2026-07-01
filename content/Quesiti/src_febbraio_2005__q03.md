@@ -1,6 +1,7 @@
 ---
 title: Coppa/Gara di febbraio 2005 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_febbraio_2005__Q03
 parent: src_febbraio_2005
 competition: Coppa/Gara di febbraio 2005
@@ -21,6 +22,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tre interi a,b,c misure dei lati di un triangolo non degenere*
 
@@ -42,3 +45,17 @@ tags:
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three integers a,b,c measuring the sides of a non-degenerating triangle*
+
+> Five friends each make the following statements: "Even if you choose one of us, the other four lie". "Even if you choose one of us, the other four are telling the truth". - "No matter who you choose, there's someone else who tells the truth". - "There's one of us like everyone else is telling the truth". - "One of us is like everyone else".
+> 
+> Which of the following can be inferred from the foregoing?
+> 
+> **(A) ** Exactly 1 is telling the truth. **(B) ** Exactly 2 are telling the truth. Exactly 3 are telling the truth. Exactly four are telling the truth. **(E) ** It is not possible to determine the number of people who are telling the truth.
+
+[[src_febbraio_2005__Q03]]

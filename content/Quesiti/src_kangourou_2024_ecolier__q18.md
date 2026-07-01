@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Ecolier 2024 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier__Q18
 parent: src_kangourou_2024_ecolier
 competition: Kangourou Categoria Ecolier 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma delle tre cifre mancanti (somma di tre numeri = 782)*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the three missing digits (sum of three digits = 782) *
+
+![[src_kangourou_2024_ecolier__prob18.png]]
+
+> The sum of three numbers, each of three digits, is 782. As you can see in the figure, one digit has been removed from each number. What is the sum of the three missing digits? A) 8
+> 	
+> B) 9
+> 	
+> C) 10
+> 	
+> D) 11
+> 	
+> E) 12
+
+**Answer:** D
+[[src_kangourou_2024_ecolier__Q18]]

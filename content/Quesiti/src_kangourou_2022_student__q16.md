@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q16
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *somma aree superfici*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>sum of surface areas< MSK1/>
+
+![[src_kangourou_2022_student__prob16.png]]
+
+> Look at the figure. A rectangular parallel-piped whose surface has area S has been cut by six planes, so that each face of the parallel-piped appears parallel to two of these planes. In this way, the parallelepiped is broken into 27 smaller parallelepiped. The distance of each plane from its parallel faces is not specified. What is, in terms of S, the sum of the surface areas of all 27 parallel pipes? A) 2 S B) (5/2) S
+>   
+> C) 3 S D) 4 S E) None of the other answers are correct.
+
+**Answer:** C
+[[src_kangourou_2022_student__Q16]]

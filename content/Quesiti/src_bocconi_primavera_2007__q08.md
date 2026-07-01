@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2007 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2007__Q08
 parent: src_bocconi_primavera_2007
 competition: Semifinale di Primavera 2007
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso complessivo dei tre sacchi*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 96 Kg
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total weight of the three bags*
+
+> I'd like to have three bags of biscuits, candy and dried fruit transported. The weight of the first bag  that of the biscuits  is < MSK0/> Kg. We also know that the bag of dried fruit weighs as much as the bag of cookies plus the bag of candy, while the bag weighs as much as the bag of cookies plus half the weight of the bag of dried fruit.
+> 
+> < MSK0/>What is the total weight of the three bags? < MSK1/>
+
+**Answer:** 96 Kg
+[[src_bocconi_primavera_2007__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q29
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero dell'ultimo*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>number of the last < MSK1/>
+
+> 96 members of a mathematics club stand in circles and start counting. One starts by saying 1, your neighbor says 2, the next 3 and so on, continuing along the circle always in the same direction. Every person who says an even number leaves the circle, and the ones left start the second round starting from 97, of course. They keep going until there's only one person left. What's the number that this person said in the first round? A) 1
+> 	
+> B) 17
+> 	
+> C) 33
+> 	
+> D) 65
+> 	
+> E) 95
+
+**Answer:** D
+[[src_kangourou_2015_marzo_student__Q29]]

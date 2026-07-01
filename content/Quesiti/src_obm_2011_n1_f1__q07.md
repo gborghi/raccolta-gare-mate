@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q07
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three natural numbers with product 105 and largest possible sum*
 
@@ -50,3 +53,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre numeri naturali con prodotto 105 e la somma più grande possibile*
+
+> Il prodotto di tre numeri naturali è $105$ e la loro somma è la più grande possibile. Qual è questa somma?
+> 
+> (A) 15 \quad (B) 23 \quad (C) 27 \quad (D) 39 \quad (E) 107
+
+**Risposta:** E
+[[src_obm_2011_n1_f1__Q07]]

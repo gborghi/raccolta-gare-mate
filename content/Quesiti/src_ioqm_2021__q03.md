@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2021__Q03
 parent: src_ioqm_2021
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2021
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with distinct prime sides in AP; find a/L for least perimeter*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con lati primari distinti in AP; trovare a/L per il perimetro minimo*
+
+> Considerate l'insieme $\mathcal{T}$ di tutti i triangoli i cui lati sono numeri primi distinti che sono anche in progressione aritmetica. $\triangle \in \mathcal{T}$ sia il triangolo con il minimo perimetro. Se $a^\circ$ è l'angolo più grande di $\triangle$ e $L$ è il suo perimetro, determinare il valore di $\dfrac{a}{L}$.
+
+[[src_ioqm_2021__Q03]]

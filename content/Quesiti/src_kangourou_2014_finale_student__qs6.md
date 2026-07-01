@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale nazionale Student — Quesito S6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_finale_student__QS6
 parent: src_kangourou_2014_finale_student
 competition: Kangourou 2014 finale nazionale Student
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Disporre successione con infiniti 1 e non-1 in matrice infinita*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** si possibile
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J0eVc0n4KMj_riY1S4VFaIQwejE9Ln6P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*To have succession with infinites 1 and non-1 in an infinite matrix*
+
+> Consider a sequence of $\{a_n\}$, $n = 1, 2, \ldots$ integers such that $a_n = 1$ for infinite indexes $n$ and $a_n \neq 1$ for infinite indexes $n$ are obtained. Establish whether it is always possible to arrange (all and only) the terms of the $\{a_n\}$ succession into an "infinite matrix" $[a_{i,j}]$, $i = 1, 2, 3, \ldots$, $j = 1, 2, 3, \ldots$ so that: - for each $i$ $a_{i,j} = 1$ is obtained if and only if $j \geq i$; - for each $i$, $j$ and $k$ with $j < k$, even in the original succession the position occupied by the term $a_{i,j}$ precedes that occupied by the term $a_{i,k}$ (as is now the case in the $i$ row of the matrix).
+
+**Answer:** si possibile
+[[src_kangourou_2014_finale_student__QS6]]

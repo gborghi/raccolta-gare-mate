@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q17
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo giorni per due giornate di sole consecutive*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum days for two consecutive days of sunshine< MSK1/>
+
+> The advertisement for a hotel on an island in the Caribbean reads: 350 days of sunshine a year! If the advertisement's claim is true, how many days at least is it enough for Gianni Scottato to stay at the hotel in 2018, if he wants to be sure he has two consecutive days of sunshine? A) 17
+> 	
+> B) 21
+> 	
+> C) 31
+> 	
+> D) 32
+> 	
+> E) 35
+
+**Answer:** D
+[[src_kangourou_2018_cadet_marzo__Q17]]

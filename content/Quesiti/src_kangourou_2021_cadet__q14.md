@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q14
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza della sovrapposizione tra assi*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of overlap between axes*
+
+![[src_kangourou_2021_cadet__prob14.png]]
+
+> Jacopo builds a new station in his garden, using 25 wooden axes, each 30 cm wide. It approaches them so that there is always the same slight overlap between the two axes of each pair of adjacent axes, as the figure showing a part of the station from above suggests: The total length of the new Jacopo station is 6.9 metres. What is the length in centimetres of the overlap between two adjacent axes? A) 2,4 B) 2,5
+> 	
+> C) 3
+> 	
+> D) 4,8 E) 5
+
+**Answer:** B
+[[src_kangourou_2021_cadet__Q14]]

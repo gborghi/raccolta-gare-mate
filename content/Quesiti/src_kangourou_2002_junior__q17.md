@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q17
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza segmento EF con triangoli simili*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of EF segment with similar triangles*
+
+![[src_kangourou_2002_junior__prob17.png]]
+
+> Look at the figure: OEF is a right triangle, ABCD is a square, segment OA is 48 and segment OB is 36. How long is the EF segment ?
+>  
+> A. 185 B. 180 C. 176 D. 190 E. 188
+
+**Answer:** A
+[[src_kangourou_2002_junior__Q17]]

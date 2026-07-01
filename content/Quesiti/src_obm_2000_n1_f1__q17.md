@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q17
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers below 1 000 000 whose cubes end in 1*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare numeri interi positivi inferiori a 1 000 000 i cui cubetti terminano in 1*
+
+> Quanti integri positivi e quanti integri negativi inferiori a $1\,000\,000$ hanno i loro cubi che terminano in $1$?
+> 
+> (A) $1\,000$ \quad (B) $10\,000$ \quad (C) $50\,000$ \quad (D) $100\,000$ \quad (E) $500\,000$
+
+**Risposta:** B
+[[src_obm_2000_n1_f1__Q17]]

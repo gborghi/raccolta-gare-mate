@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo18yq_yosen__Q02
 parent: src_jjmo18yq_yosen
 competition: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pairs (a,b) of positive integers whose consecutive sum equals 2020, minimizing a*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** $(31,\,70)$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Coppie (a,b) di integri positivi la cui somma consecutiva è uguale al 2020, riducendo al minimo a*
+
+> Lasciate che $a, b$ siano numeri interi positivi. Tra tutte le coppie $(a, b)$ in modo tale che la somma di tutti gli integri da $a$ a $b$ (inclusivo) sia uguale a $2020$, si trovano tutte le coppie $(a, b)$ per le quali $a$ è il più piccolo possibile.
+
+**Risposta:** (31,\,70)
+[[src_jjmo18yq_yosen__Q02]]

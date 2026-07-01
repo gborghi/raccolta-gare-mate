@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1998 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_2livello__Q04
 parent: src_archimede_1998_2livello
 competition: Archimede Gara 2º livello 1998
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quantità di liquore in bicchiere conico con ciliegina*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Quantities of liquor in conical glass with cherry < MSK1/>
+
+![[src_archimede_1998_2livello__prob4.png]]
+
+> In a cone-shaped cocktail glass there is a spherical cherry and the liquor that exactly covers the cherry, as in the figure. Knowing that the radius of the cherry is 1 cm and the height of the liqueur is 6 cm, calculate the amount of liquor.
+> 
+> (A) $\dfrac{2}{3}\pi$ cm$^3$ \quad (B) $\pi$ cm$^3$ \quad (C) $\dfrac{5}{3}\pi$ cm$^3$ \quad (D) $2\pi$ cm$^3$ (E) The data are insufficient.
+> 
+> (see figure)
+
+**Answer:** C
+[[src_archimede_1998_2livello__Q04]]

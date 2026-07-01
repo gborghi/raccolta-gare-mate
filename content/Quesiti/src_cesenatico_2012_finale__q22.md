@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_finale__Q22
 parent: src_cesenatico_2012_finale
 competition: Gara a Squadre Cesenatico 2012 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma numeri 0-999 con cifra 3 o 6 (fusion)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0729
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of numbers 0 to 999 with digits 3 or 6 (fusion) *
+
+> 22. Fusion dance Gonioku first saw fusion dance by two inhabitants of the planet Metamor. Normally, it's necessary that the two warriors who join together have the same aura, but in that case, he succeeded even if he didn't. In particular, the aura of one of the two warriors was equal to the sum of all integers between 0 and 999 containing at least a digit 3, and that of the second was equal to the sum of all integers between 0 and 999 containing at least a digit 6. The warrior who emerged had an aura equal to the sum of the two. How much was this number worth?
+
+**Answer:** 0729
+[[src_cesenatico_2012_finale__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q02
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of ratio of two consecutive-integer-sum expressions*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valore del rapporto di due espressioni consecutive di somma integrale*
+
+> Se $m$ e $n$ sono integri non negativi con $m < n$, definiamo $m \nabla n$ come la somma degli integri tra $m$ e $n$, compresi $m$ e $n$. Per esempio, $5 \nabla 8 = 5 + 6 + 7 + 8 = 26$.
+> 
+> Il valore numerico di $\dfrac{22 \nabla 26}{4 \nabla 6}$ è:
+> 
+> **A)** $4$ $\quad$ **B)** $6$ $\quad$ **C)** $8$ $\quad$ **D)** $10$ $\quad$ **E)** $12$
+
+**Risposta:** C
+[[src_obm_2004_n2_f1__Q02]]

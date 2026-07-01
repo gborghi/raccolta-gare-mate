@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Ecolier (gara marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_ecolier__Q20
 parent: src_kangourou_2012_ecolier
 competition: Kangourou 2012 Ecolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti modi si dispongono Laura Maria Nadia Oreste*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many ways are Laura Maria Nadia Oreste
+
+> Laura, Maria, Nadia and Oreste want to be photographed sitting on a bench. Laura and Maria want to be close because they're very close friends; Oreste wants to be close to Laura. How many different ways can they be disposed of? A) 2 B) 4 C) 5 D) 6 E) 7
+
+**Answer:** D
+[[src_kangourou_2012_ecolier__Q20]]

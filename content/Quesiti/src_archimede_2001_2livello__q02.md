@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2001 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_2livello__Q02
 parent: src_archimede_2001_2livello
 competition: Archimede Gara 2º livello 2001
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo n di giri per misurare il circuito con errore <30 m*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum n turns to measure the circuit by error <30 m*
+
+> You want to measure the length of an automobile circuit using a car that has the initially zero meter and that only measures kilometers and not hundreds of meters. What is the minimum such that, by looking only at how much the meter marks at the end of the eighth lap, the rider can know the length of the circuit with an error of less than 30 metres?
+>
+> - **(A)** 0 < n ≤10
+> - **(B)** 10 < n ≤20
+> - **(C)** 20 < n ≤30
+> - **(D)** 30 < n ≤40
+> - **(E)** 40 < n ≤50.
+
+**Answer:** B
+[[src_archimede_2001_2livello__Q02]]

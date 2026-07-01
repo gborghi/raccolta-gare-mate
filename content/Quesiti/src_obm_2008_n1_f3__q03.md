@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n1_f3__Q03
 parent: src_obm_2008_n1_f3
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to tile a 3×n board with 3×1 pieces; specific values and n=15*
 
@@ -54,3 +57,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKJxLoPzHG0E9OT_6xBX96AR1NIt8NuD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i modi di tessitura di una scheda 3×n con 3×1 pezzi; valori specifici e n=15*
+
+> Il giardo ha pezzi $n$ di dimensioni $3 \times 1$ e vuole usarli per coprire una lavagna $3 \times n$. Per esempio, per $n = 4$ può coprire la lavagna come segue:
+> 
+> [Si mostra una lavagna $3 \times 4$ coperta da quattro pezzi $3 \times 1$.]
+> 
+> a) Determinare in quanti modi il giardo può produrre un rivestimento per < MSK0/>. b) In quanti modi il giardo può coprire la lavagna per < MSK1/>?
+
+![[src_obm_2008_n1_f3__Q03.png]]
+
+[[src_obm_2008_n1_f3__Q03]]

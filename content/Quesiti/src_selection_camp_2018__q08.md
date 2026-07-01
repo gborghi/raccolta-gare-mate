@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2018__Q08
 parent: src_selection_camp_2018
 competition: Japan IMO Selection Camp 2018 — Selection Camp
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral with incircle; incenters of two triangles and common external tangent point are concyclic with I*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jASM40MHMk6NMhN2bMvDto4r4rOWEBtP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilatero converso con incircolo; gli incentri di due triangoli e il punto tangente esterno comune sono conciclici con I*
+
+> $ABCD$ sia un quadrilaterale convex che abbia un cerchio inciso con il centro $I$. I centri di incendio dei triangoli $I_a$ e $I_c$ siano rispettivamente $DAB$ e $BCD$. Supponiamo che la tangente esterna comune (diversi dai lati del quadrilaterale) dei circoncircoli dei triangoli $BI_aI_c$ e $DI_aI_c$ si incontrino a un punto $X$. Prova che i quattro punti $X$, $I$, $I_a$, $I_c$ sono conciclici.
+
+[[src_selection_camp_2018__Q08]]

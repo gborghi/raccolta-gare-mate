@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_individuale__Q01
 parent: src_archimede_2002_individuale
 competition: Archimede 2002 - Gara Nazionale Individuale (Cesenatico)
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *determinarle*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Al72TmtFeqXMapJ1ay6jjUJE3H76wCPm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> to determine them< MSK1/>
+
+> Determine all the positive integers of three digits that are equal to 34 times the sum of their digits.
+
+[[src_archimede_2002_individuale__Q01]]

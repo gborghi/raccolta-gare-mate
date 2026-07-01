@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2 —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_nu_f2__Q04
 parent: src_obm_2006_nu_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Irreducible polynomial over Q with product-1 roots has even degree*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18lHsUkA6TjiVCKvRGHHFZ98nGkOcKHvM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il polinomio irriducibile su Q con radici del prodotto-1 ha grado pari*
+
+> Che $p$ sia un polinomio irriducibile in $\mathbb{Q}[x]$ con coefficienti razionali e grado superiore a $1$. Prova che se $p$ ha due radici $r$ e $s$ il cui prodotto è $1$ (cioè $rs = 1$), allora il grado di $p$ è pari.
+
+[[src_obm_2006_nu_f2__Q04]]

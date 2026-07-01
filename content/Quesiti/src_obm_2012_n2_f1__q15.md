@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q15
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of distinct distances between points in a 4x4 grid*
 
@@ -54,3 +57,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di distanze distinte tra punti in una griglia 4x4*
+
+> Quante distanze distinte sono possibili tra due punti distinti della griglia $4 \times 4$ mostrata di seguito? I punti sono distribuiti in righe e colonne spaziate tra loro per un'unità.
+> 
+> A) 4 \quad B) 6 \quad C) 9 \quad D) 11 \quad E) 16
+
+![[src_obm_2012_n2_f1__Q15.png]]
+
+**Risposta:** C
+[[src_obm_2012_n2_f1__Q15]]

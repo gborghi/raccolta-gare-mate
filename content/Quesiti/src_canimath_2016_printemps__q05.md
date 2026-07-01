@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2016 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2016_printemps__Q05
 parent: src_canimath_2016_printemps
 competition: Coupe Animath Printemps 2016
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five reals a<b<c<d<e; three smallest pairwise sums are 32,36,37 and two largest are 48,51; find all possible e.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cinque reales a<b<c<d<e; tre somme in coppia più piccole sono 32,36,37 e due più grandi sono 48,51; trovare tutte le e possibili.*
+
+> Lasciate che $a < b < c < d < e$ siano numeri reali. Calcoliamo tutte le somme possibili di due numeri distinti tra questi cinque numeri. I tre più piccoli sono uguali a $32$, $36$ e $37$, mentre i due più grandi sono uguali a $48$ e $51$. Trova tutti i valori possibili di $e$.
+
+[[src_canimath_2016_printemps__Q05]]

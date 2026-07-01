@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo17yq_yosen__Q02
 parent: src_jmo17yq_yosen
 competition: Japan Mathematical Olympiad 2007 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Units digit of a power tower 11^(12^13)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Unità di numero di una torre elettrica 11^(12^13) *
+
+> Trova la cifra di unità di $11^{12^{13}}$. Qui $11^{12^{13}}$ indica $11$ sollevato alla potenza $12^{13}$ (non $(11^{12}) \cdot 13$), e $11^{12}$ indica $11$ sollevato alla potenza $12^{13}$, non il $13$th multiplo di $11^{12}$.
+
+**Risposta:** 1
+[[src_jmo17yq_yosen__Q02]]

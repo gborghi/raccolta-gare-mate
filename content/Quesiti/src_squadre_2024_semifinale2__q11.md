@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Semifinale 2 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_semifinale2__Q11
 parent: src_squadre_2024_semifinale2
 competition: Gara a Squadre 2024 - Semifinale 2
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di raggiungere 12 blu 10 rosse 4 verdi con mosse minime*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6006
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How to reach 12 blue 10 red 4 green with minimal moves< MSK1/>
+
+> Perverse game [⋆] Mongearty captured poor Wolfram and placed him in the center of a regular polygon of 2024 peaks. To mock SherLog Hodge, Mongearty plays a perverse game: he randomly chooses a subset C of 100 vertices such that there are no two opposites to the center of the polygon. Then he builds all the possible triangles with vertices in C: if Wolfram is outside all these triangles he'll save his life. SherLog has already calculated the fraction f, reduced to the minimum, corresponding to the probability that Wolfram will survive. How much is the f-number?
+
+**Answer:** 6006
+[[src_squadre_2024_semifinale2__Q11]]

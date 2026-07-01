@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q04
 parent: src_archimede_2013_febb_2livello
 competition: Archimede Gara di Febbraio 2013 - 2 livello
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area grigia stemma formata da semicirconferenze*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A grey area of the coat of arms formed by semicircles*
+
+![[src_archimede_2013_febb_2livello__prob4.png]]
+
+> Ker draws the coat of arms of his town, Mathlandia, on a square sheet with squares on side 1, obtaining the figure side by side. Knowing that the curved tracts are all semi-circulars, what is the size of the grey area?
+>
+> - **(A)** 12π
+> - **(B)** 8π + 2
+> - **(C)** 12
+> - **(D)** 8
+> - **(E)** None of the above.
+
+**Answer:** D
+[[src_archimede_2013_febb_2livello__Q04]]

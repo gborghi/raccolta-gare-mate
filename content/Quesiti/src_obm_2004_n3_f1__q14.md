@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q14
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find n from the prime factorization of n!.*
 
@@ -48,3 +51,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca n dalla fattorizzazione primaria di n!.*
+
+> Per un intero positivo $n$, definiamo $n!$ (leggi "$n$ fattoriale") come il prodotto di tutti gli integri positivi inferiori o uguali a $n$. Per esempio, $5!=1\cdot 2\cdot 3\cdot 4\cdot 5$. Se $n!=2^{15}\cdot 3^6\cdot 5^3\cdot 7^2\cdot 11\cdot 13$, allora $n$ è uguale
+> 
+> (A) 13 (B) 14 (C) 15 (D) 16 (E) 17
+
+[[src_obm_2004_n3_f1__Q14]]

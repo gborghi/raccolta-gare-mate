@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q01
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Extend multiplication pattern to find missing multiplier*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Estendere il modello di moltiplicazione per trovare il moltiplicatore mancante*
+
+> Osservare le seguenti moltiplicazioni: $$12\,345\,679 \times 18 = 222\,222\,222$$ $$12\,345\,679 \times 27 = 333\,333\,333$$ $$12\,345\,679 \times 36 = 444\,444\,444$$ Per ottenere $999\,999\,999$ dobbiamo moltiplicare $12\,345\,679$ per:
+> 
+> (A) $29$ \quad (B) $99$ \quad (C) $72$ \quad (D) $41$ \quad (E) $81$
+
+**Risposta:** E
+[[src_obm_2000_n1_f1__Q01]]

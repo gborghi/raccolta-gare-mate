@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Biennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_biennio__Q04
 parent: src_archimede_2012_biennio
 competition: Giochi di Archimede 2012 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Nuova media dopo aver diminuito ogni numero di 10*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13kesAdPzQ8k4YwW-asUVUoQ5RPW1gOnt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>New mean after decreasing each number by 10< MSK1/>
+
+> The arithmetic mean of 11 numbers is 4850. If each of the 11 numbers is decreased by 10, their mean becomes:
+>
+> - **(A)** 4740
+> - **(B)** 4840
+> - **(C)** 4830
+> - **(D)** 4850
+> - **(E)** The data on the problem are not sufficient to determine it
+
+**Answer:** B
+[[src_archimede_2012_biennio__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2017 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2017__Q02
 parent: src_rmo_2017
 competition: Regional Mathematical Olympiad 2017
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show the polynomial sum has no integer solutions in a, b*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aTvWjjCyaztnP6zBTHomfMlYOKdjp_YI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra che la somma polinomica non ha soluzioni integrali in a, b*
+
+> Mostrare che $$a^2 + (a+1)^2 + (a+2)^2 + (a+3)^2 + (a+4)^2 + (a+5)^2 + (a+6)^2 = b^2 + (b+1)^2$$ non ha soluzioni nei numeri interi $a$, $b$.
+
+[[src_rmo_2017__Q02]]

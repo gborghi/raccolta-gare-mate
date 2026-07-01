@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2015 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2015_printemps__Q04
 parent: src_canimath_2015_printemps
 competition: Coupe Animath Printemps 2015
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC, midpoint M, perpendiculars meet at I; prove angles IPA and INC equal*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC, punto medio M, perpendicolari che si incontrano a I; provare angoli IPA e INC uguali*
+
+> Lasciate che $ABC$ sia un triangolo. Selezionare $M$ sul lato $[BC]$, $N$ sul lato $[CA]$ e $P$ sul lato $[AB]$. La linea $D_B$ deve essere la linea attraverso $B$ perpendicolare a $[MP]$ e $D_C$ la linea attraverso $C$ perpendicolare a $[MN]$. Supponiamo che le linee $D_B$ e $D_C$ si incontrino in un punto $I$. Prova che gli angoli $\widehat{IPA}$ e $\widehat{INC}$ sono uguali.
+
+[[src_canimath_2015_printemps__Q04]]

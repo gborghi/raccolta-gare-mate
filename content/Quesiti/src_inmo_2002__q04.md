@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2002 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2002__Q04
 parent: src_inmo_2002
 competition: Indian National Mathematical Olympiad 2002
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of 100 lines with exactly 2002 intersection points*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/123ExWCM4Wogb72Q-10yYiq_o3oHySsJU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di 100 linee con punti di intersezione esatti 2002*
+
+> Esistono 100 linee nel piano, nessuna delle tre contemporaneamente, in modo che si incrociano esattamente nei punti del 2002?
+
+[[src_inmo_2002__Q04]]

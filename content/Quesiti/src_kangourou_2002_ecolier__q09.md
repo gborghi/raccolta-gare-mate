@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_ecolier__Q09
 parent: src_kangourou_2002_ecolier
 competition: Kangourou 2002 - Ecolier (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte la cifra 2 da 1 a 24*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many times the number 2 from 1 to 24*
+
+> Cristina lives on a short street whose houses are numbered from 1 to 24. How many times is the number 2 used to write the numbers of all the houses on that street?
+>  
+> A. 4 B. 7 C. 8 D. 10 E. 16
+
+**Answer:** C
+[[src_kangourou_2002_ecolier__Q09]]

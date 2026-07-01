@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Triennio (T1) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_triennio__Q11
 parent: src_archimede_2018_triennio
 competition: Giochi di Archimede 2018 - Triennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione ombreggiata in rettangolo diviso in due quadrati*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area region shaded in a rectangle divided into two squares*
+
+![[src_archimede_2018_triennio__prob11.png]]
+
+> In the figure right next to this, it's a rectangle divided into two equal squares. The sides of each of the two squares are equal to 6 cm. How many cm2 is the total area of the shaded region?
+>
+> - **(A)** 33
+> - **(B)** 30
+> - **(C)** 24
+> - **(D)** 27
+> - **(E)** 21
+
+**Answer:** C
+[[src_archimede_2018_triennio__Q11]]

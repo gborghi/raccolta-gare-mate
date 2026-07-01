@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2013 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2013__Q05
 parent: src_cn_csmo_2013
 competition: China Southeastern Mathematical Olympiad 2013
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count good numbers n where f(x)=n has a real solution*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 587
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri buoni n dove f(x)=n ha una soluzione reale*
+
+> Let $f(x) = \left[\frac{x}{1!}\right] + \left[\frac{x}{2!}\right] + \cdots + \left[\frac{x}{2013!}\right]$, dove $[x]$ è il numero intero più grande non superiore a $x$. Chiamare un numero intero $n$ un *buono numero* se l'equazione $f(x) = n$ ha una soluzione reale $x$. Trova il numero dei numeri buoni nell'insieme $\{1, 3, 5, \ldots, 2013\}$.
+
+**Risposta:** 587
+[[src_cn_csmo_2013__Q05]]

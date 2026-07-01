@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2026 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo36hq_honsen__Q01
 parent: src_jmo36hq_honsen
 competition: Japan Mathematical Olympiad 2026 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle, circumcenter, points on ray DO; find angle BAC*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oqGtdGx8swPoRbJnrYEkEjUg3BLmmGVE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Triangolo acuto, circoncentro, punti sul raggio DO; trovare angolo BAC< MSK1/>
+
+> Che $ABC$ sia un triangolo acuto con $AB < AC$, che $O$ sia il suo centro circundante, e che $D$ sia il punto di intersezione del bisettore di $\angle BAC$ con il lato $BC$. Sul raggio $DO$ prendere due punti distinti $P, Q$, entrambi situati sul lato opposto della linea $AC$ da $B$ e sullo stesso lato della linea $AB$ come $C$, in modo che i tre punti $D, P, Q$ si trovino in questo ordine. Inoltre, $AB = BP$, $AC = CQ$ e $\angle ABP = \angle ACQ$ sono tenuti. Trova il valore di < MSK16/>. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+[[src_jmo36hq_honsen__Q01]]

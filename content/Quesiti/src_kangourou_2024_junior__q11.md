@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q11
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di carte da muovere per rendere corretta l'uguaglianza*
 
@@ -56,3 +59,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of cards to move to correct equality*
+
+> The figure shows six cards on each of which one of the integers 1, 2, 3 is shown. Between the second and the third paper there is a product mark, and so also between the fourth and fifth. The number on the paper higher than the others should be interpreted as an exponent for the number on the paper preceding it: thus, at present, the operation indicated would be 23 × 11 × 23 = 2024, so the equality would be incorrect. You can move each paper hole only vertically, base to exponent or vice versa. What is the minimum number of cards you can move to correct the equality? A) 1
+>   	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 5
+
+**Answer:** B
+[[src_kangourou_2024_junior__Q11]]

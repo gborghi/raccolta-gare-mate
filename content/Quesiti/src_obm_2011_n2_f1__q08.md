@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q08
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of ways to give 37 centavos change with 1,5,10,25 coins*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di modi per dare 37 centesimi di cambio con 1,5,10,25 monete*
+
+> Luca ha comprato un gibi (libro fumetti) per R\$4.63 and paid with a R\$ 5,00 banconota. In quanti modi può ricevere il suo cambio di R\$0.37 in coins of $1$, $5$, $10$ and $25$ centavos? Supponiamo che abbia quante monete di ciascun tipo siano necessarie.
+> 
+> (A) $10$ \quad (B) $12$ \quad (C) $15$ \quad (D) $24$ \quad (E) $25$
+
+[[src_obm_2011_n2_f1__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1995-96 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1995-96_round2__Q04
 parent: src_bmo_1995-96_round2
 competition: British Mathematical Olympiad 1995-96 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive reals a,b,c,d satisfying two symmetric equations*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15bAn8-PNIuHV2R8H9ICgpwakwcaODD42/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i reali positivi a,b,c,d che soddisfano due equazioni simmetriche*
+
+> Che $a, b, c, d$ siano numeri reali positivi in modo tale che $$a + b + c + d = ab + bc + cd + da$$ e $$abcd = 27.$$ Trovino tutti i possibili valori di $a$, $b$, $c$, $d$.
+
+[[src_bmo_1995-96_round2__Q04]]

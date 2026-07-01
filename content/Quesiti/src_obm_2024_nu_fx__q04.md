@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2024 — Nível Universitário — Fase x —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_nu_fx__Q04
 parent: src_obm_2024_nu_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível Universitário — Fase x
@@ -39,6 +40,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Morphically impar functions and parity polynomial characterisation*
 
@@ -53,3 +56,17 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ASMMz2DYTBieu4G0G3yj2BJioNfgOgua/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Funzioni morficamente impar e caratterizzazione polinomica di parità< MSK1/>
+
+> Diciamo che una funzione $f : \mathbb{R} \to \mathbb{R}$ è *morfisticamente odd* (moralmente ímpar) se il suo grafico è simmetrico rispetto a qualche punto, cioè esiste $(x_0, y_0) \in \mathbb{R}^2$ tale che $(2x_0 - x, 2y_0 - f(x)) \in \{(x, f(x)) : x \in \mathbb{R}\}$ per tutti $x \in \mathbb{R}$. D'altra parte, $f$ è chiamato *morficamente pari* (moralmente par) se il suo grafico è simmetrico rispetto a una linea (non necessariamente verticale o orizzontale). Se $f$ è morficamente pari, allora $f$ è anche morficamente impar.
+> 
+> (a) Che $S \subseteq \mathbb{R}$ sia un insieme limitato e $f : S \to \mathbb{R}$ una funzione arbitraria. Prove che esiste un $g : \mathbb{R} \to \mathbb{R}$ morfisticamente impar tale che $g(x) = f(x)$ per tutti $x \in S$.
+> 
+> (b) Trova tutti i polinomi $P$ con coefficienti reali in modo tale che la funzione polinomica corrispondente $P : \mathbb{R} \to \mathbb{R}$ sia morficamente pari.
+
+[[src_obm_2024_nu_fx__Q04]]

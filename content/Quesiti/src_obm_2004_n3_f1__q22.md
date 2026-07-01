@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q22
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Logic puzzle: determine which box holds the coin from left/right positional clues.*
 
@@ -58,3 +61,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Puzzle logico: determinare quale scatola contiene la moneta da indizi di posizione sinistra/destra.*
+
+> Su un tavolo ci sono tre scatole, ognuna con un oggetto di colore diverso: una moneta, un cartone e una banda di gomma. Lo sappiamo .
+> 
+> - la scatola blu è a sinistra della scatola verde; - la scatola rossa è a sinistra della scatola blu; - la scatola verde è a destra della fascia di gomma; - la fascia di gomma è a destra della scatola rossa.
+> 
+> In quale scatola c'è la moneta?
+> 
+> (A) Nella scatola rossa. (B) Nella scatola verde. (C) Nella scatola blu. D) Le informazioni fornite sono insufficienti per dare una risposta. (E) Le informazioni fornite sono contraddittorie.
+
+[[src_obm_2004_n3_f1__Q22]]

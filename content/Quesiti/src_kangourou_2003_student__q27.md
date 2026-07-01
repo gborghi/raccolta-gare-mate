@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student (20 marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student__Q27
 parent: src_kangourou_2003_student
 competition: Kangourou 2003 Student (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo ACF nel rettangolo*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*ACF triangle area in the rectangle*
+
+![[src_kangourou_2003_student__prob27.png]]
+
+> ABCD is a rectangle, where AB = 16, BC = 12. ACE is a right triangle with a right angle in C and CE = 15. If F is the intersection point of AE and CD, then the area of the ACF triangle is A) 75 B) 80 C) 96 D) 72 E) 48
+
+**Answer:** A
+[[src_kangourou_2003_student__Q27]]

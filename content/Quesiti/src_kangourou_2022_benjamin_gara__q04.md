@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin gara individuale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q04
 parent: src_kangourou_2022_benjamin_gara
 competition: Kangourou 2022 Benjamin gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo veicoli da spostare per far uscire l'auto nera*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum number of vehicles to move to get the black car out
+
+![[src_kangourou_2022_benjamin_gara__prob4.png]]
+
+> In the garage shown in the figure, vehicles can only move forward or backward, but they cannot turn. What is the minimum number of vehicles a black car can move out of the garage? A) 2
+>   
+> B) 3
+>   
+> C) 4
+>   
+> D) 5
+>   
+> E) 6
+
+**Answer:** C
+[[src_kangourou_2022_benjamin_gara__Q04]]

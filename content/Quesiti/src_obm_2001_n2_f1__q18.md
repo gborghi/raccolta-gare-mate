@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q18
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of all numbers from 1 to 999 in which the digit 1 appears exactly twice*
 
@@ -52,3 +55,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di tutti i numeri da 1 a 999 in cui il numero 1 appare esattamente due volte*
+
+> Tutti i numeri da $1$ a $999$ in cui la cifra $1$ appare esattamente $2$ volte (come $11$, $121$, $411$, ecc.) vengono annotati. La somma di tutti questi numeri è:
+> 
+> (A) $6882$ \quad (B) $5994$ \quad (C) $4668$ \quad (D) $7224$ \quad (E) $3448$
+
+**Risposta:** A
+[[src_obm_2001_n2_f1__Q18]]

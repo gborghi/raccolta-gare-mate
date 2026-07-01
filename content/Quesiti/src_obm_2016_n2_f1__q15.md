@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f1__Q15
 parent: src_obm_2016_n2_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Extra meetings of the hands of Esmeralda's clock vs a normal clock*
 
@@ -48,3 +51,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Ulteriori incontri delle mani dell'orologio di Esmeralda contro un orologio normale
+
+> Il punto in cui le mani di un orologio si incontrano ruota più velocemente della mano dell'ora. Per l'orologio di Esmeralda, in cui la mano oraria fa una rotazione completa più veloce, gli incontri si verificano in momenti corrispondenti a spostamenti orari delle dimensioni $\tfrac{l}{13},\tfrac{2l}{13},\dots,\tfrac{12l}{13}$. Per un orologio normale il prossimo incontro si verifica quando $12k-k=l$, cioè $k=\tfrac{l}{11}$, che indica incontri a $\tfrac{l}{11},\tfrac{2l}{11},\dots,\tfrac{10l}{11}$. Pertanto, in ore < MSK4/> si verificano < MSK5/> più incontri nell'orologio di Esmeralda rispetto a quello normale, e durante un'intera giornata < MSK6/>. Determinare la relazione tra il numero di incontri. (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+
+**Risposta:** D
+[[src_obm_2016_n2_f1__Q15]]

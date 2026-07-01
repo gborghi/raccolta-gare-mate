@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Region 4 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_r4__Q04
 parent: src_rmo_2012_r4
 competition: Regional Mathematical Olympiad 2012
@@ -36,6 +37,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count pairs {A,B} of subsets of {1,...,11} with A != B and a given intersection*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RynHYch6pmp09Vp_PVUFTCMGvoAuqZ22/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggiare coppie {A,B} di sottoinsiemi di {1,...,11} con A != B e una data intersezione*
+
+> Let < MSK0/>. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{4, 5, 7, 8, 9, 10\}$.
+
+[[src_rmo_2012_r4__Q04]]

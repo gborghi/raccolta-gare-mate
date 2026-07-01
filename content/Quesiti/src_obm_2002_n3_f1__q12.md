@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q12
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *System of three reciprocal-sum equations; find value of x+3y+2z*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sistema di tre equazioni di somma reciproca; trovare il valore di x+3y+2z*
+
+> I valori di $x$, $y$ e $z$ che soddisfano le equazioni $x+\dfrac{1}{y}=5$, $y+\dfrac{1}{z}=1$ e $z+\dfrac{1}{x}=2$ sono tali che $x+3y+2z$ è uguale a: (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
+
+**Risposta:** B
+[[src_obm_2002_n3_f1__Q12]]

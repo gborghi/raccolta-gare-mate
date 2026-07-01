@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q12
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio della circonferenza dati punti piu vicino e lontano*
 
@@ -74,3 +77,15 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Rage of circumference data nearest and farthest points < MSK1/>
+
+> In the plane a point P and a circumference γ are given. The point of γ closest to P is 20 cm from P, the farthest is 24. Then the measurement in centimetres of the radius of the circumference A) must be 2. B) must be 4. C) must be 12. D) must be 22. E) It could be either 2, or 22. 6 8 4 12 12 6 3 9 1 2 4 5 8 7 11 10 2 2 1 2 2 1 3 1 1 2 3 1 2 1 1 3 2 1 0 1 2 1 2 2 2 2 2 3
+>
+
+**Answer:** E
+[[src_kangourou_2024_cadet__Q12]]

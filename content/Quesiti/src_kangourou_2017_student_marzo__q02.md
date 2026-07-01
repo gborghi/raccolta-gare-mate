@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Student - Gara 16 marzo — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q02
 parent: src_kangourou_2017_student_marzo
 competition: Kangourou 2017 Student - Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *87*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*87*
+
+> Luke likes to play with miniature trains, and he uses those on the H0 scale, that is, with a ratio of 1:87. Respecting the same ladder, he built a model, two centimeters tall, representing his brother. What's your brother's real height? A) 1,74 m B) 1,62 m C) 1,86 m D) 1,94 m E) 1,70 m
+
+**Answer:** A
+[[src_kangourou_2017_student_marzo__Q02]]

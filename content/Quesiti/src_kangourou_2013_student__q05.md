@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q05
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti anni prima del 2013 con quattro cifre consecutive*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many years before 2013 with four consecutive digits*
+
+> In 2013, it has the property that the number that identifies it is made up of four consecutive digits. How many years have passed since the last time a year enjoyed this same property? A) 467 B) 527 C) 581 D) 693 E) 990
+
+[[src_kangourou_2013_student__Q05]]

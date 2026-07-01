@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Cadet (20 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet__Q23
 parent: src_kangourou_2003_cadet
 competition: Kangourou 2003 Cadet (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Min figure da 3 quadrati per scomporre*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1eygrPRLv8IqHr90bPrLsox-FA6V93kRL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Min figures of 3 squares to be broken down*
+
+![[src_kangourou_2003_cadet__prob23.png]]
+
+> Carlo attempts to break down the figure on the left in the drawing into smaller figures (without overlapping), having the shape of those shown on the right of the drawing, composed of one of 3 and the other of 4 squares. What's the smallest number of three-square figures you can get? A) 1 B) 2 C) 3 D) 4 E) Charles cannot do this
+
+**Answer:** B
+[[src_kangourou_2003_cadet__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q28
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo valore di M con divisibilità per 2 e 13*
 
@@ -48,3 +51,15 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum value of M with divisible by 2 and 13*
+
+> On the board were written some positive integers all different from each other. Exactly two of them are divisible by 2 and exactly 13 of them are divisible by 13. If M is the largest of these numbers, what is the smallest value that M can sum? A) 143 B) 260 C) 273 D) 299 E) 325
+>
+
+**Answer:** C
+[[src_kangourou_2014_cadet__Q28]]

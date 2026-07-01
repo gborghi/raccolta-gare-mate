@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q09
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto adulti su giovani dai rapporti dati*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Adult to youth ratio from data reports< MSK1/>
+
+> In one village the ratio of the number of adult males to the number of adult females is 2:3, while the ratio of the number of adult females to the number of young females is 8:1. What is the relationship between the number of adults (men and women) and the number of young people? A) 5:1 B) 10:3 C) 13:1 D) 12:1 E) 40:3
+
+**Answer:** E
+[[src_kangourou_2014_junior__Q09]]

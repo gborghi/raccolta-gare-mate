@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_a__Q08
 parent: src_prmo_2015_a
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -32,6 +33,8 @@ tags:
   - regione/a
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Radius of circular plate given chord length and sagitta*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 15
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Radio della piastra circolare data lunghezza e sagitta dell'accordo < MSK1/>
+
+> La figura seguente mostra un pezzo rotto di una piastra circolare di vetro. $C$ è il punto medio di $AB$ e $D$ è il punto medio di arco $AB$. Dato che $AB = 24$ cm e $CD = 6$ cm, quale è il raggio della piastra in centimetri? (La cifra non è indicata in scala.)
+
+![[src_prmo_2015_a__Q08.png]]
+
+**Risposta:** 15
+[[src_prmo_2015_a__Q08]]

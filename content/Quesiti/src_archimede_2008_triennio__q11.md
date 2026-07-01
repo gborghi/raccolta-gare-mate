@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Triennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_triennio__Q11
 parent: src_archimede_2008_triennio
 competition: Giochi di Archimede 2008 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *m+n da radice cubica di 45+29radice2*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>m+n cubic root of 45+29 roots2< MSK1/>
+
+> n and m are two positive integers for which: 3p 45 + 29 √ 2 = m + n √ 2. How much is m + n?
+>
+> - **(A)** 3,
+> - **(B)** 4,
+> - **(C)** 5,
+> - **(D)** 6,
+> - **(E)** 7.
+
+**Answer:** B
+[[src_archimede_2008_triennio__Q11]]

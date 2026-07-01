@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2021 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2021__Q04
 parent: src_cn_csmo_2021
 competition: China Southeastern Mathematical Olympiad 2021
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Permutations on circle with descending-chain deletion; find average number of chains*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Permutazioni sul cerchio con cancellazione della catena discendente; trovare numero medio di catene*
+
+> Ci sono punti $n \ge 5$, etichettati $1, 2, \ldots, n$, disposti arbitrariamente su un cerchio. Chiamiamo tale disposizione una permutazione $S$. Per una permutazione $S$, una "catena discendente" è una sequenza in senso orario di punti consecutivi (almeno due) con etichette discendenti che non è una sottocatena di alcuna successione più lunga; il "pivot" di una catena discendente è il punto con la più grande etichetta, e tutti gli altri punti sono "non pivot". Ad esempio, la permutazione nel senso orario $5, 2, 4, 1, 3$ contiene due catene discendenti $5, 2$ e $4, 1$, dove $5, 4$ sono pivot e $2, 1$ non pivot. Applicare le seguenti operazioni su $S$: prima, trovare tutte le catene discendenti di $S$ e cancellare tutte le catene non pivotanti; poi, se rimane più di un punto, ripetere la ricerca delle catene discendenti e la cancellazione delle catene non pivotanti, e così via, finché non rimane nessuna catena discendente. $G(S)$ sia il numero totale di catene discendenti apparse in tutto il processo, e $A(n)$ sia la media di $G(S)$ su tutte le permutazioni $S$ di $1, 2, \ldots, n$. (1) Trova < MSK16/>. (2) Per $n \ge 6$, dimostrare che $\frac{83}{120} + \frac{n-1}{2} \le A(n) \le \frac{101}{120} + \frac{n-1}{2}$.
+
+[[src_cn_csmo_2021__Q04]]

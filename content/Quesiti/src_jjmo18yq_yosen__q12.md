@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo18yq_yosen__Q12
 parent: src_jjmo18yq_yosen
 competition: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *All quadruples (a,b,c,d) from 1-9 where every non-empty subset sum avoids multiples of 24*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(1,2,3,8),\;(1,3,8,9),\;(2,4,6,9)$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tutti i quadrupli (a,b,c,d) da 1-9 in cui ogni somma non vuota del sottoinsieme evita moltipli di 24*
+
+> Trova tutti i quadrupli $(a, b, c, d)$ di numeri interi positivi che soddisfano $1 \le a < b < c < d \le 9$ in modo tale che nessuna delle somme del sottoinsieme $\binom{4}{1} + \binom{4}{2} + \binom{4}{3} + \binom{4}{4} = 15$ formate scegliendo gli elementi $1$, $2$, $3$ o $4$ da $\{a, b, c, d\}$ sia un multiple di $24$.
+
+**Risposta:** (1,2,3,8),\;(1,3,8,9),\;(2,4,6,9)
+[[src_jjmo18yq_yosen__Q12]]

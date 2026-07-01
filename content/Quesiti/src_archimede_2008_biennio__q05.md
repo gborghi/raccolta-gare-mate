@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Biennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_biennio__Q05
 parent: src_archimede_2008_biennio
 competition: Giochi di Archimede 2008 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Variazione spesa stipendi con cambi percentuali*
 
@@ -44,3 +47,20 @@ tags:
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Variation of salary expenditure with percentage changes< MSK1/>
+
+> On Mars, the Martian High Commissioner for Education said that the number of schoolteachers will be reduced by 30% next school year and that salaries for those who remain will be increased by 35%. The total expenditure on teachers' salaries therefore:
+>
+> - **(A)** It will be reduced by 5.5%.
+> - **(B)** It will be reduced by 5%,
+> - **(C)** will increase by 5%,
+> - **(D)** It will remain unchanged.
+> - **(E)** It will increase by 7%.
+
+**Answer:** A
+[[src_archimede_2008_biennio__Q05]]

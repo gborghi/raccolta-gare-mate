@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2007 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2007__Q01
 parent: src_cn_cmc_2007
 competition: China Mathematical Competition 2007
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Dihedral angle cosine in right square pyramid*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cosino di angolo diidride nella piramide quadrata destra*
+
+> Data una piramide quadrata destra $P$-$ABCD$ con $\angle APC = 60^\circ$, come mostrato nella figura, il cosino dell'angolo diedro $A$-$PB$-$C$ è $($\quad$)$.
+> 
+> (A) $-\dfrac{1}{2}$ $\quad$ (B) $-\dfrac{1}{3}$ $\quad$ (C) $\dfrac{1}{3}$ $\quad$ (D) $\dfrac{1}{2}$
+
+![[src_cn_b07_w38__Q01.png]]
+
+**Risposta:** B
+[[src_cn_cmc_2007__Q01]]

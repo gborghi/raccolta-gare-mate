@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1996 — Round 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1996_r1__Q09
 parent: src_pol_1996_r1
 competition: Olimpiade Matematica Polacca 1996 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer-coefficient polynomial with remainder 990x - 889 modulo x^2-12x+11; prove no integer roots*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*polinomio a coefficiente intero con rimanente 990x - 889 modulo x^2-12x+11; dimostrazione di assenza di radici interi*
+
+> Un polinomio con coefficienti interi, quando diviso da $x^2 - 12x + 11$, dà il rimanente $990x - 889$. Prova che questo polinomio non ha radici interi.
+
+[[src_pol_1996_r1__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q23
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Faggi per ossigeno a 34 studenti*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Oxygen phases for 34 students*
+
+> A 100-year-old beech produces 1.7 kg of oxygen in an hour. How much of this kind of work is needed to supply 34 students with oxygen for an hour, knowing that each student consumes 0.7 kg of oxygen in an hour?
+>
+> - **(A)** 10
+> - **(B)** 12
+> - **(C)** 14
+> - **(D)** 15
+> - **(E)** 21.
+
+**Answer:** C
+[[src_kangourou_2001_benjamin__Q23]]

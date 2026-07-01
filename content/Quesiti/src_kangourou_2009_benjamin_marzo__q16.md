@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q16
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di cubi per riempire la scatola*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of cubes to fill the box< MSK1/>
+
+> We have a box shaped like a rectangular parallel-piped with dimensions, in centimeters, 24 x 24 x 60. We want to fill it completely with indeformable cubes all equal, which we can choose the size of. What's the smallest number of cubes that's enough to accomplish the goal? A) 8 B) 20 C) 60 D) 720 E) 1440
+
+**Answer:** B
+[[src_kangourou_2009_benjamin_marzo__Q16]]

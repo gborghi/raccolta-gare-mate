@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2020 Finale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q07
 parent: src_kangourou_2020_squadre_finale
 competition: Kangourou Coppa squadre 2020 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato del triangolo piu grande con 2020 cm di filo*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0036
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ouvUikm9jtg5T9XqFtDuhZcgJZXEsFwU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Late of the largest triangle with 2020 cm of wire*
+
+> The largest triangle You can get an equilateral triangle of 3 cm side by approaching 9 equilateral triangles of 1 cm each side. By approximating a larger number of equilateral triangles, each on side 1, with the same criterion, larger equilateral triangles can be obtained. You want to cover with a rigid thread all the segments that appear in the figure obtained, but you only have 2020 cm of thread (which, if necessary, can be cut). How many centimeters is the length of the side of the largest triangle on which you can do this operation?
+
+**Answer:** 0036
+[[src_kangourou_2020_squadre_finale__Q07]]

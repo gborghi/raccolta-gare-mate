@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Benjamin 2024 — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin__Q25
 parent: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri di 4 cifre con proprieta tipo 2024*
 
@@ -74,3 +77,23 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers of 4 digits with a property of type 2024*
+
+> The four-digit number 2024 has three properties: it contains three distinct digits, all its digits are equal and the last digit is equal to the sum of the first three. How many four-digit numbers (including 2024) have all these properties? A) 2
+> 	
+> B) 4
+> 	
+> C) 6
+>  	
+> D) 7
+> 	
+> E) 8 40 cm2 48 cm2 45 cm2 ? 16 cm 13 cm 5 cm 1 1 2 2 3 3 4 4 5 5 6 6 7 7
+>
+
+**Answer:** D
+[[src_kangourou_2024_benjamin__Q25]]

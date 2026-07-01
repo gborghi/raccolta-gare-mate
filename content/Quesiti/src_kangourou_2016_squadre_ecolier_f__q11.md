@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q11
 parent: src_kangourou_2016_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2016 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di 7 cifre con esattamente sei 9*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 62
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AmqdvgZVEwczaExdEeD0t4IQIsBaAuB7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Seven-digit numbers with exactly six 9*
+
+> I've listed all the seven-digit numbers (i.e. from 1,000,000 to 9,999 999 included) where there are exactly six 9. How many numbers are on my list?
+
+**Answer:** 62
+[[src_kangourou_2016_squadre_ecolier_f__Q11]]

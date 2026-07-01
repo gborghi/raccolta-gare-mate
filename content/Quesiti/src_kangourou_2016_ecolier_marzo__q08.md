@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (gara marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q08
 parent: src_kangourou_2016_ecolier_marzo
 competition: Kangourou 2016 Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Primo anno dopo 2016 con somma cifre 9*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First year after 2016 with sum of 9 figures*
+
+> The sum of the figures for 2016 is 9. What will be the first year after 2016 when the sum of the digits will still be 9? The Commission has therefore decided to take the necessary measures to ensure that the measures are implemented in accordance with Article 107 (1) TFEU. 9 al N. 16 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2016_ecolier_marzo__Q08]]

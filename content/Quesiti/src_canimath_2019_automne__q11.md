@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2019 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_automne__Q11
 parent: src_canimath_2019_automne
 competition: Coupe Animath Automne 2019
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of quadrilateral IXJY inside rectangle ABCD of area 4 (lycée version)*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area quadrilaterale IXJY all'interno del rettangolo ABCD dell'area 4 (versione liceale) *
+
+> Il $ABCD$ deve essere un rettangolo di area 4. Il $I$ deve essere il punto medio di $[AD]$ e $J$ il punto medio di $[BC]$. Il punto di intersezione di $(AJ)$ e $(BI)$ è $X$ e il punto di intersezione di $(DJ)$ e $(CI)$ è $Y$. Qual è la superficie del quadrilaterale < MSK11/>?
+
+[[src_canimath_2019_automne__Q11]]

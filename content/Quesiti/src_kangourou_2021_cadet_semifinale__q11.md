@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - semifinale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet_semifinale__Q11
 parent: src_kangourou_2021_cadet_semifinale
 competition: Kangourou 2021 Cadet - semifinale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anni dall ultimo anno = due interi consecutivi accostati*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 101
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Years since the last year = two consecutive integers approximated*
+
+> (5 points) The 2021 number is formed by joining two consecutive integers in increasing order. How many years have passed since the last time this happened?
+
+**Answer:** 101
+[[src_kangourou_2021_cadet_semifinale__Q11]]

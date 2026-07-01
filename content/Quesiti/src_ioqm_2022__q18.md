@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q18
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Natural numbers m,n with m+3n-5=2LCM(m,n)-11GCD(m,n), find maximum m+n*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 70
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Numeri naturali m,n con m+3n-5=2LCM(m,n)-11GCD(m,n), trovare il massimo m+n*
+
+> $m, n$ siano numeri naturali in modo tale che $$m + 3n - 5 = 2\,\text{lcm}(m, n) - 11\,\gcd(m, n).$$ trovi il valore massimo possibile di $m + n$.
+
+**Risposta:** 70
+[[src_ioqm_2022__Q18]]

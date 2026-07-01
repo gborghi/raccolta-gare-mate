@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Junior — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q10
 parent: src_kangourou_2015_marzo_junior
 competition: Kangourou 2015 gara 19 marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *lista valori*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lv8vPzK3uXmG94tNsM2uWmmnksIo2fLI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The following table shows the values of the values of the values of the values of the values:
+
+> If n is the number of right angles of a general convex pentagon, which of the following is the complete list of values that n can assume? (A polygon is said to contain all of the segments that contain two points.) A) 1, 2, 3. B) 0, 1, 2, 3, 4. C) 0, 1, 2, 3. D) 0, 1, 2. E) 1, 2. The questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** C
+[[src_kangourou_2015_marzo_junior__Q10]]

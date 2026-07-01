@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1995 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1995_r3__Q04
 parent: src_pol_1995_r3
 competition: Olimpiade Matematica Polacca 1995 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive reals with harmonic mean 1; minimize sum of reciprocals expression*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/150sL_nAa7PPTRBn0nE8dUnuEVC2dD-qB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Reali positivi con media armonica 1; minimizzare la somma delle espressioni reciproche*
+
+> $x_1, x_2, \ldots, x_n$ siano numeri positivi con media armonica pari a $1$. Trova il minimo valore possibile di $$x_1 + \frac{x_2^2}{2} + \frac{x_3^3}{3} + \cdots + \frac{x_n^n}{n}.$$
+
+[[src_pol_1995_r3__Q04]]

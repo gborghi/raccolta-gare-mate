@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student (20 marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student__Q11
 parent: src_kangourou_2003_student
 competition: Kangourou 2003 Student (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di 5e+12f+13g (distanze ai lati)*
 
@@ -58,3 +61,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of 5e+12f+13g (sided distances) *
+
+![[src_kangourou_2003_student__prob11.png]]
+
+> Both ABC a triangle and D a point inside the triangle, having distances and, f , g from the sides as in the figure (which highlights the dimensions of the sides). What is the value of the expression 5e + 12f + 13g? A) 120 B) 90 C) 60 D) 30 E) It is not possible to determine the value without further information on the position of D. X Y X x Y
+> 
+> I'm going to pay. I'm going to pay. 30 30 Kang 2003 Kang
+
+**Answer:** C
+[[src_kangourou_2003_student__Q11]]

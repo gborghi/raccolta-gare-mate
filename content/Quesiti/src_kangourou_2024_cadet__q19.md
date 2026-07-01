@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q19
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante mattonelle triangolari servono con 3000 esagonali*
 
@@ -57,3 +60,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many triangular bricks are needed with 3000 hexagons< MSK1/>
+
+![[src_kangourou_2024_cadet__prob19.png]]
+
+> Tiziana plans to cover a large rectangular floor with bricks arranged according to a repeated pattern. It will use hexagonal and triangular bricks, which are held together as shown in the figure. For the work Tiziana plans to use 3000 hexagonal bricks. Approximately, how many triangular bricks will you need? A) 1000 B) 1500 C) 3000 D) 6000 E) 9000 A B 10 m ? 16 18 24
+>
+
+**Answer:** D
+[[src_kangourou_2024_cadet__Q19]]

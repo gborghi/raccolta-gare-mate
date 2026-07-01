@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2023-24 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2023-24_round2__Q03
 parent: src_bmo_2023-24_round2
 competition: British Mathematical Olympiad 2023-24 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove quadrilateral AXPY is cyclic in acute triangle configuration*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qirmXk6tq7Hx6xI5cofs-qU6mUOTNEF2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che l'AXPY quadrilaterale è ciclico in configurazione triangolare acuta*
+
+> Il $ABC$ deve essere un triangolo acuto con $AB > AC$. $P$ è l'intersezione delle tangenti al circoncircolo di $ABC$ a $B$ e $C$. La linea che attraversa i punti medi dei segmenti $PB$ e $PC$ incontra rispettivamente le linee $AB$ e $AC$ a $X$ e $Y$.
+> 
+> Provare che il quadrilaterale $AXPY$ è ciclico.
+
+[[src_bmo_2023-24_round2__Q03]]

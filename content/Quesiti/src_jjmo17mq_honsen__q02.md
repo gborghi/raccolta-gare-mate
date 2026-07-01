@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2019 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo17mq_honsen__Q02
 parent: src_jjmo17mq_honsen
 competition: Japan Junior Mathematical Olympiad 2019 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum n boxes with 10-color balls and equal color sums*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IaWplQ8K7hgcVjCHhzivSPLVXTjD5aWO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum n scatole con palle di 10 colori e quantità di colori uguali*
+
+> Ci sono scatole $n$, ciascuna contenente una palla dipinta in un colore. Le palle usano esattamente $10$ colori in totale, e le palle adiacenti (nelle scatole vicine) hanno colori diversi. Ogni palla ha un numero intero scritto su di essa. È noto che per ogni coppia di colori, la somma dei numeri interi su tutte le palle di quei due colori è uguale (cioè, la somma dei numeri interi su palle di ogni colore è la stessa per tutti i colori $10$). Trova il valore minimo possibile di $n$.
+
+[[src_jjmo17mq_honsen__Q02]]

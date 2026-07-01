@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q09
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Media aritmetica di due decimali periodici*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Arithmetic mean of two periodic decimals*
+
+> What is the arithmetic mean of the periodic decimal numbers 2,00(4) and 2,00(5)? A) 2,0045 B) 2,00(45) C) 2,005      D) 2,0054 E) 2,00(54)
+
+**Answer:** C
+[[src_kangourou_2005_junior__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2023 — Selection Camp — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2023__Q03
 parent: src_selection_camp_2023
 competition: Japan IMO Selection Camp 2023 — Selection Camp
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest n with real sequence whose differences realize powers of r*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N più grande con sequenza reale le cui differenze realizzano potenze di r*
+
+> $n$ sia un numero intero con $n \ge 2$. Trova il valore più grande possibile di $n$ per il quale esistono $n$ numeri reali $a_1, a_2, \dots, a_n$ e un numero reale positivo $r \ne 1$ che soddisfa la seguente condizione:
+> 
+> Per ogni intero $k$ con $1 \le k \le \dfrac{n(n-1)}{2}$, esistono interi $i, j$ con $1 \le i < j \le n$ tali che $a_j - a_i = r^k$.
+
+[[src_selection_camp_2023__Q03]]

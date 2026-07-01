@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo32ya_yosen__Q12
 parent: src_jmo32ya_yosen
 competition: Japan Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find BC in acute triangle given orthocenter, midpoint, and angle condition*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $2\sqrt{21}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ricerca BC in un triangolo acuto dato il centro, il punto medio e l'angolo condizione< MSK1/>
+
+> In triangolo acuto $ABC$, $AB = 11$ e $AC = 10$. $H$ sia il centro ortografico e $M$ il punto medio di $BC$. Un punto $P$ all'interno del triangolo $ABC$ si trova sul circoncircolo del triangolo $BHC$ e soddisfa $\angle ABP = \angle CPM$ e $PM = 3$. Trova la lunghezza del lato < MSK11/>.
+
+**Risposta:** 2\sqrt{21}
+[[src_jmo32ya_yosen__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Biennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_biennio__Q02
 parent: src_archimede_1996_biennio
 competition: Giochi di Archimede 1996 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale di matematici dato un rapporto su abitanti*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ARzIV3wHmzpV455NSIYGulflPgheKY6p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Proportion of mathematicians given a population ratio*
+
+> If there's one mathematician in a city for every 320 people, what's the percentage of mathematicians?
+>
+> - **(A)** 3,2%
+> - **(B)** 0,32%
+> - **(C)** 3,125%
+> - **(D)** 0,3125%
+> - **(E)** None of the previous ones.
+
+**Answer:** D
+[[src_archimede_1996_biennio__Q02]]

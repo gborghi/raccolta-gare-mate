@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q17
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Fiorini persi per ogni rosa (icosaedro+raso)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8094
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Flowers lost for each rose (icosahedron+race) *
+
+> There is also a crisis in the Matteviglie Camp The Two, the Five and the Seven Peaks, soldiers of the hearted Q, have decided to make their experience work by opening a factory of fake red roses. They do this: the flower's soul consists of a regular polystyrene icosahedron with a length of one centimeter; around it is a dense layer of shell that occupies all available space up to a distance of 2 centimeters from the icosahedron. As a last step, the outside of the rose is painted red. They can get free polystyrene and razor, while red paint costs them a thousand florins for every square inch of surface to color. The selling price, on the other hand, is set at one thousand Fiorini for each cubic centimetre of razor (polystyrene and paint are not taken into account). They realize, horribly, that the expenses are greater than the proceeds of the sale. And in the Matteviglie Field, the penalty for unpaid debts is beheaded! How many flowers do they lose for each rose?
+
+**Answer:** 8094
+[[src_cesenatico_2013_finale__Q17]]

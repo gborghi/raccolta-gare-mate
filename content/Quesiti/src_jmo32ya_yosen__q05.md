@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo32ya_yosen__Q05
 parent: src_jmo32ya_yosen
 competition: Japan Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count pairs (m,n) satisfying an unbounded common-divisor condition*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 44
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Coppie di conteggio (m,n) che soddisfano una condizione di divisore comune illimitata*
+
+> Trovare il numero di coppie $(m, n)$ di integri positivi con $1 \le m, n \le 2022$ in modo tale che: per ogni integro positivo $N$, esiste un intero non negativo $k$ e un intero $d > N$ in modo tale che $d$ divida sia $m - k^2$ che $n + 2k$.
+
+**Risposta:** 44
+[[src_jmo32ya_yosen__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1985-86 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1985-86_round2__Q02
 parent: src_bmo_1985-86_round2
 competition: British Mathematical Olympiad 1985-86 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Greatest value of $x^2y + y^2z + z^2x$ subject to two constraints*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mG_z1yGslDZWUJ7U6HvxDw6ixvIjUXu2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK1/>Il valore massimo di < MSK0/> soggetto a due restrizioni< MSK2/>
+
+> Trovare, con prova, il valore massimo di $x^2 y + y^2 z + z^2 x$ dove $x, y, z$ sono numeri reali che soddisfano le condizioni $$x + y + z = 0, \quad x^2 + y^2 + z^2 = 1.$$
+
+[[src_bmo_1985-86_round2__Q02]]

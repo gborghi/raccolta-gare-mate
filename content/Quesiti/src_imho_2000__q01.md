@@ -1,6 +1,7 @@
 ---
 title: IMO 2000 (XLI International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2000__Q01
 parent: src_imho_2000
 competition: IMO 2000 (XLI International Mathematical Olympiad)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tangent line meets chords and rays in equal segments*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1SxIaq8osFL-pFpQf_5H4v7VWykrNDr0_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tangent line meets chords and rays in equal segments*
+
+> $AB$ is tangent to the circles $CAMN$ and $NMBD$. $M$ lies between $C$ and $D$ on the line $CD$, and $CD$ is parallel to $AB$. The chords $NA$ and $CM$ meet at $P$; the chords $NB$ and $DM$ meet at $Q$. The rays $CA$ and $DB$ meet at $E$. Prove that MSK18/.
+
+[[src_imho_2000__Q01]]

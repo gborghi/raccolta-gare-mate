@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q22
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC, perpendiculars from A to angle bisectors of B and C; find area given PQ=7, QR=6, RS=8*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 84
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC, perpendicolari da A a bisettori angolari di B e C; trovare superficie data PQ=7, QR=6, RS=8*
+
+> Nel triangolo $ABC$, $P$ e $R$ siano i piedi delle perpendicolari da $A$ ai bisettici esterni e interni di $\angle ABC$, rispettivamente; e $Q$ e $S$ siano i piedi delle perpendicolari da $A$ ai bisettici interni ed esterni di $\angle ACB$, rispettivamente. Se $PQ = 7$, $QR = 6$ e $RS = 8$, qual è la superficie del triangolo $ABC$?
+
+**Risposta:** 84
+[[src_ioqm_2020__Q22]]

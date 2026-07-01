@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q03
 parent: src_archimede_2025_squadre_finale
 competition: Gara a Squadre Nazionale 2025 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre di n con 2025n cifre scritte da 1 a n*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2043
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of n digits with 2025n digits written from 1 to n*
+
+> While φ-neas and Ferbmat build the Russian mountains, tan(dace) is on the phone with Stauchy, who tries to convince her to write a romantic message for Jermain. tan(dace) then decides to write all integers from 1 to a certain integer n. To make the whole thing even more special, he wants to have exactly 2025 digits in total used at the end of the writing of number n. How much is the sum of the digits of n?
+
+**Answer:** 2043
+[[src_archimede_2025_squadre_finale__Q03]]

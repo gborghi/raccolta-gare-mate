@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2004 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2004__Q01
 parent: src_inmo_2004
 competition: Indian National Mathematical Olympiad 2004
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral ABCD with midpoints; prove it is a square*
 
@@ -45,3 +48,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_ogop_H9aN7DDnSasFsJqkXiQTv0yKue/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrilaterale convex con punti di mezzo; dimostra che è quadrato*
+
+> Si consideri un quadrilaterale convex $ABCD$, in cui $K$, $L$, $M$, $N$ sono i punti medi dei lati $AB$, $BC$, $CD$ e $DA$ rispettivamente. Supponiamo che (a) $BD$ divisa $KM$ a $Q$; (b) $QA = QB = QC = QD$; e (c) $LK/LM = CD/CB$.
+> 
+> Prova che $ABCD$ è un quadrato.
+
+![[src_inmo_2004__Q01.png]]
+
+[[src_inmo_2004__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q26
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero n di rette intersecate da c*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of lines intersected by c*
+
+> There were a few lines drawn in the plan. The straight a intersects exactly three lines (different from itself) and the straight b intersects exactly four lines. The exact number n of lines intersected by line c is neither three nor four. Which of the following is number n ? A) 2
+> 	
+> B) 5
+> 	
+> C) 6
+> 	
+> D) 7
+> 	
+> E) No one.
+
+**Answer:** B
+[[src_kangourou_2013_cadet__Q26]]

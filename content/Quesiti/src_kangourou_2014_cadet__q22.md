@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q22
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Oggetto più pesante dalle pesate (bilancia difettosa)*
 
@@ -56,3 +59,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> heavier than weights (defective balance) < MSK1/>
+
+> An old scale does not work well: if an object weighs less than 1000 g, the scale indicates the correct weight, but if the object weighs 1000 g or more, the scale indicates any number, but in any case greater than 1000 g. We have five objects A, B, C, D and E, each weighing less than 1,000 grams. We denote their weights in grams, respectively, with their names (ad. es. Weighing in at grams. If we weigh the objects in pairs, the scale indicates the following weights: B + D = 1200, C + E = 2100, B + E = 800, B + C = 900, A + E = 700. What's the heaviest object? A) A
+> 	
+> B) B
+> 	
+> C) C
+> 	
+> D) D
+> 	
+> E) E
+
+**Answer:** D
+[[src_kangourou_2014_cadet__Q22]]

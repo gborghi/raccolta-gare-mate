@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q08
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -34,6 +35,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Colour 4 vertices of quadrilateral with 4 colours; sides and diagonal AC get different-coloured endpoints*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Colore 4 vertici di quadrilaterali con 4 colori; lati e diagonali AC ottengono punti terminali di colore diverso< MSK1/>
+
+> Un quadrilaterale ha quattro vertici $A, B, C, D$. Vogliamo colorare ogni vertice in uno dei quattro colori rosso, blu, verde o giallo, in modo che ogni lato del quadrilaterale e la diagonale $AC$ abbiano punti terminali di diversi colori. In quanti modi possiamo farlo?
+
+[[src_ioqm_2025_sep07__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1998 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1998__Q04
 parent: src_rmo_1998
 competition: Regional Mathematical Olympiad 1998
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Reflections of vertices of isosceles triangle form equilateral triangle*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15-hOAv0psynRUhAjOfCXMcOkrAiY-0eX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I riflessi delle vertici del triangolo di uguali pollici formano un triangolo equilaterale*
+
+> Il $ABC$ deve essere un triangolo con $AB = BC$ e $\angle BAC = 30^\circ$. Il $A'$ deve essere il riflesso di $A$ nella riga $BC$; $B'$ deve essere il riflesso di $B$ nella riga $CA$; $C'$ deve essere il riflesso di $C$ nella riga $AB$. Indicare che $A'$, $B'$, $C'$ formano le vertici di un triangolo equilaterale.
+
+[[src_rmo_1998__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f2__Q05
 parent: src_obm_2002_n1_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pick-up sticks: score exactly 40 points; count distinct numbers of sticks that suffice*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13KyJPv4dE-PcRKKVGz9NFA82iD0E6DH_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Stick di raccolta: punteggiate esattamente 40 punti; contate un numero distinto di bastoni sufficienti < MSK1/>
+
+> Nel gioco di pega-varetas, i bastoni verdi valgono 5 punti ciascuno, i bastoni blu valgono 10 punti, i bastoni gialli valgono 15 punti e i bastoni rossi valgono 20. Ci sono 5 bastoni di ogni colore. Carlinhos è riuscito a segnare 40 punti in un giro. Considerando solo il numero di bastoni di ogni colore, in quanti modi diversi avrebbe potuto ottenere questo punteggio, supponendo che fosse sempre possibile scegliere bastoni di qualsiasi colore?
+
+[[src_obm_2002_n1_f2__Q05]]

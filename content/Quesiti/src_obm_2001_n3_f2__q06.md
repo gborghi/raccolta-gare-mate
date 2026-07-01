@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f2__Q06
 parent: src_obm_2001_n3_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle elimination procedure on n students; find chosen student position*
 
@@ -52,3 +55,17 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Procedura di eliminazione del cerchio su n studenti; trovare la posizione degli studenti scelti*
+
+> Per il sorteo di una lotteria tra gli studenti di una scuola (MSK0/>) viene adottata la seguente procedura. Gli studenti sono collocati in un cerchio e un conteggio inizia con uno studente nella forma: "uno, due, uno, due, $\ldots$". Ogni volta che si dice TWO, lo studente corrispondente viene eliminato e il conteggio riprende con il prossimo studente rimanente. Il conteggio continua fino a quando non rimane solo uno studente, e quel studente è quello scelto.
+> 
+> a) Per quali valori di $n$ è scelto il primo studente nel cerchio (colui che inizia il conteggio)?
+> 
+> b) Se nel cerchio iniziale ci sono studenti $192$, qual è la posizione nel cerchio dello studente scelto?
+
+[[src_obm_2001_n3_f2__Q06]]

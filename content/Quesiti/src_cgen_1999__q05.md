@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1999 — Matematica — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1999__Q05
 parent: src_cgen_1999
 competition: Concours Général des Lycées 1999 — Matematica
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Symmetrics of a triangle vertex wrt opposite side are collinear iff orthocentre equals circumdiameter*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le simmetrie di un triangolo vertice sul lato opposto sono collineari se l'ortocentro è uguale al diametro circostante*
+
+> Mostrare che le simmetrie di ciascun vertice di un triangolo rispetto al lato opposto sono collineari se, e solo se, la distanza dall'ortocentro al centro del cerchio circoscritto è uguale al diametro di quel cerchio.
+
+[[src_cgen_1999__Q05]]

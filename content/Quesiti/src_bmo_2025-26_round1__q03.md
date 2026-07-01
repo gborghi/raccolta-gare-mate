@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2025-26 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2025-26_round1__Q03
 parent: src_bmo_2025-26_round1
 competition: British Mathematical Olympiad 2025-26 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Reassemble 11×11 grid cut into L-shaped pieces, single square in row 3 col 3*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rimassaggio 11×11 grid tagliato in pezzi a forma di L, quadrato unico nella riga 3 col 3*
+
+> Una griglia $11 \times 11$ è dissecata in 11 pezzi come segue. A ogni passo, rimuovere la riga superiore e la colonna più sinistra della griglia rimanente come singolo pezzo. Pertanto, i pezzi ottenuti sono a forma di L con dimensioni $19, 17, \ldots, 3$, insieme ad un singolo quadrato.
+> 
+> I pezzi sono riordinati per riassemblare una griglia $11 \times 11$, con rotazioni consentite (ma i pezzi non possono essere girati) in modo che il singolo quadrato occupi la cella nella terza riga e nella terza colonna (contando dall'alto a sinistra).
+> 
+> Quanti modi si possono fare?
+
+[[src_bmo_2025-26_round1__Q03]]

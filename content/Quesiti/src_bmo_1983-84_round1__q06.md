@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1983-84 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1983-84_round1__Q06
 parent: src_bmo_1983-84_round1
 competition: British Mathematical Olympiad 1983-84 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divisibility condition implies existence of integer y with two divisibility properties*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Condizione di divisibilità implica l'esistenza di un numero intero y con due proprietà di divisibilità*
+
+> Lasciate che $a$, $m$ siano numeri interi positivi. Prova che se esiste un intero $x$ tale che $a^2x - a$ sia divisibile da $m$, allora esiste un intero $y$ tale che sia $a^2y - a$ che $ay^2 - y$ siano divisibili da $m$.
+
+[[src_bmo_1983-84_round1__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1995 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1995__Q04
 parent: src_inmo_1995
 competition: Indian National Mathematical Olympiad 1995
@@ -31,6 +32,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ratio of radii of mixtilinear circle to incircle equals tan^2((B-C)/4)*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-pje9yn5-Oz-tcMTgQ38tNi0Sa3TrKyD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ratio di radii di cerchio mistilineare a cerchio incircolo = tan^2((B-C)/4) *
+
+> Il $\Gamma$ deve essere il cerchio situato all'interno di un triangolo $ABC$ e che tocca i lati $AB$ e $AC$ e l'incircolo $\Gamma'$ del triangolo esternamente. Indicare che il rapporto tra i raggi di $\Gamma$ e $\Gamma'$ è uguale a $\tan^2\!\dfrac{B-C}{4}$.
+
+[[src_inmo_1995__Q04]]

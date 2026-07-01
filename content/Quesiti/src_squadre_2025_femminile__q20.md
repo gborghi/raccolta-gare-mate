@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2025_femminile__Q20
 parent: src_squadre_2025_femminile
 competition: Gara a Squadre Femminile 2025 - VIII Finale
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di Catalan, modi di dividere triangolo in 10 pezzi*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4862
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Catalan numbers, ways to divide a triangle into 10 pieces*
+
+> Candace wants to become a supermodel at all costs, but she doesn't know that in the meantime her brothers are creating a line of clothing titled It's always summer. The kids draw beach pairs, starting with a piece of fabric shaped like a triangle rectangle isosceles. They then draw some heights with the following strategy: they first plot the height relative to the base of the great triangle, then they draw one of the heights (always relative to the base) of any of the isosceles triangles in the figure and proceed in this way until they divide the initial triangle into exactly 10 isosceles. The idea is immediately copied by a famous designer and becomes a hit. How many different garments constructed in this way can be made?
+
+**Answer:** 4862
+[[src_squadre_2025_femminile__Q20]]

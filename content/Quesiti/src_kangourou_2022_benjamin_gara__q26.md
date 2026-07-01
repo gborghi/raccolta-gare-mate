@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin gara individuale — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q26
 parent: src_kangourou_2022_benjamin_gara
 competition: Kangourou 2022 Benjamin gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei tre numeri nei vertici del triangolo ombreggiato*
 
@@ -81,3 +84,49 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the three numbers in the vertices of the shaded triangle*
+
+![[src_kangourou_2022_benjamin_gara__prob26.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[every node/.style={draw,circle,minimum size=8mm,inner sep=0}]
+\node (top) at (0,2) {};
+\node (left) at (-1.5,0) {};
+\node (cen) at (0,0) {};
+\node (right) at (1.5,0) {};
+\node (bot) at (0,-2) {};
+\draw (top) -- (left);
+\draw (top) -- (right);
+\draw (top) -- (cen);
+\draw (left) -- (cen);
+\draw (right) -- (cen);
+\draw (bot) -- (left);
+\draw (bot) -- (right);
+\draw (bot) -- (cen);
+\fill[gray!40] (0,0) -- (1.5,0) -- (0,-2) -- cycle;
+\draw (0,0) -- (1.5,0) -- (0,-2) -- cycle;
+\node[draw=none,fill=white,inner sep=1pt] at (-0.85,1.1) {\small 105};
+\node[draw=none,fill=white,inner sep=1pt] at (0.85,1.1) {\small 84};
+\node[draw=none,fill=white,inner sep=1pt] at (-0.55,-1.1) {\small 210};
+\foreach \p in {top,left,cen,right,bot}
+  \draw (\p.center) circle (4mm);
+\end{tikzpicture}
+\end{document}
+```
+
+> Enter the numbers 3, 4, 5, 6, and 7 in the five circles in the figure so that the number written inside each triangle is the product of the numbers written in its vertices. What is the sum of the three numbers to be inserted into the vertices of the shaded triangle? A) 12
+>   
+> B) 14
+>   
+> C) 15 D) 17
+>   
+> E) 18
+
+**Answer:** D
+[[src_kangourou_2022_benjamin_gara__Q26]]

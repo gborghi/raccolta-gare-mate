@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q21
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di tutti i numeri sui vertici del solido*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of all numbers on the vertices of the solid*
+
+![[src_kangourou_2009_benjamin_marzo__prob21.png]]
+
+> The solid in the figure has six faces, all triangular. Each of its vertices is associated with a number so that the sum of the numbers associated with the three vertices of each face is the same for all faces. The figure shows the numbers associated with two of the vertices. What is the sum of all the numbers used? A) 9 B) 12 C) 17 D) 18 E) 24
+
+**Answer:** C
+[[src_kangourou_2009_benjamin_marzo__Q21]]

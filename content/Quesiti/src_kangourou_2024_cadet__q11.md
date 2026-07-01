@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q11
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale tassello completa il quadrato magico 4x4*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which table completes the magic square 4x4*
+
+![[src_kangourou_2024_cadet__prob11.png]]
+
+> Sergio has four square-shaped boxes, each containing a number: the figure shows you three. He can draw them together to form a square 4 where, for each row and column, the sum of the numbers each contains is always the same. Which of the following is the fourth box? A)
+>  
+> B)
+>  
+> C)
+>  
+> D)
+>  
+> E)
+
+**Answer:** A
+[[src_kangourou_2024_cadet__Q11]]

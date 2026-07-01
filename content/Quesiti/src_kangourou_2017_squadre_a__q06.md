@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q06
 parent: src_kangourou_2017_squadre_a
 competition: Kangourou Coppa Squadre 2017 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma valori RETI in AMO+AMO+AMO=RETI (max e min)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3816
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Summary of RETI values in AMO+AMO+AMO=RETI (max and min) < MSK1/>
+
+> The RETI Peter replaces each letter of the expression AMO + AMO + AMO = RETI with a digit, replacing different letters with different digits, so as to obtain a correct equality. Andrew does the same thing, but Peter gets the greatest possible value for RETI and Andrew the smallest compatible with the fact that the number has four significant digits. What is the sum of the values obtained for RETI by Andrew and Peter?
+
+**Answer:** 3816
+[[src_kangourou_2017_squadre_a__Q06]]

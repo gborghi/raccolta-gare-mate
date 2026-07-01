@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2024 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2024__Q06
 parent: src_inmo_2024
 competition: Indian National Mathematical Olympiad 2024
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequences A_n and B_n of nested radicals; find positive integers with equal floor values*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D0Zw8xFmfCMQngEWwZiI2BY1LTiLM4r7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenze A_n e B_n di radicali nidificati; trovare interi positivi con valori di pavimento uguali*
+
+> Per ogni numero intero positivo $n \ge 3$, definire $A_n$ e $B_n$ come $$A_n = \sqrt{n^2+1} + \sqrt{n^2+2} + \cdots + \sqrt{n^2+2n-1},$$ $$B_n = \sqrt{n^2+2} + \sqrt{n^2+4} + \cdots + \sqrt{n^2+2n}.$$ Determinare tutti i numeri interi positivi $n \ge 3$ per i quali $\lfloor A_n \rfloor = \lfloor B_n \rfloor$.
+> 
+> Per qualsiasi numero reale $x$, $\lfloor x \rfloor$ indica il numero intero più grande $N$ tale che $N \le x$.
+
+[[src_inmo_2024__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q07
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Vista dall'alto di una torre a base rotonda*
 
@@ -39,3 +42,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*View from the top of a round tower*
+
+![[src_kangourou_2015_marzo_preecolier__prob7.png]]
+
+> What do we see when we look up at the round tower? (see figure)
+> 
+> (A) (B) (C) (D) (E)
+
+**Answer:** B
+[[src_kangourou_2015_marzo_preecolier__Q07]]

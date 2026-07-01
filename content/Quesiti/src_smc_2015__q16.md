@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q16
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of ways to line up six Fnargs (one of each pair: red/blue, 2/3/4 heads) left to right*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di modi per allineare sei Fnargs (una di ciascuna coppia: rosso/blu, 2/3/4 di teste) da sinistra a destra*
+
+> I Fnarg sono rossi o blu e hanno 2, 3 o 4 teste. Un gruppo di sei Fnargs costituito da una forma possibile è allineato in modo tale che non ci siano due vicini immediati dello stesso colore e non abbiano lo stesso numero di teste. Quanti modi ci sono per metterli in fila da sinistra a destra?
+>
+> - **(A)** $12$
+> - **(B)** $24$
+> - **(C)** $60$
+> - **(D)** $120$
+> - **(E)** $720$
+
+**Risposta:** A
+[[src_smc_2015__Q16]]

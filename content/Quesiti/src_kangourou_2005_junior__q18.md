@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q18
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero KANGOUROU con codice a campana*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum KANGOUROU number with bell code *
+
+> The 7 letter sequence AGONKRU is associated with a sequence of 7 digits all different from each other, arranged in ascending order up to the figure corresponding to the letter N and decreasing from there onwards. Each chosen sequence is a code respecting which a number is associated with the word KANGOUROU. What is the maximum number that can be obtained for the word KANGOUROU by changing the eligible codes? A) 859763473 B) 987654354 C) 569784384 D) 859673473 E) 569783483
+
+**Answer:** D
+[[src_kangourou_2005_junior__Q18]]

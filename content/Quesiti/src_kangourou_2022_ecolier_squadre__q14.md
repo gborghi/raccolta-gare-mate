@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_squadre__Q14
 parent: src_kangourou_2022_ecolier_squadre
 competition: Kangourou Squadre 2022 Ecolier Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo monete nel terzo di 6 sacchetti*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0110
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum coin in the third of 6 bags< MSK1/>
+
+> 1,000 coins for 6 bags 1,000 coins are distributed in 6 bags. Each bag contains at least one coin. The first contains three times the coins of the second which in turn contains twice the coins of the third. How many coins can there be in the third bag at most?
+
+**Answer:** 0110
+[[src_kangourou_2022_ecolier_squadre__Q14]]

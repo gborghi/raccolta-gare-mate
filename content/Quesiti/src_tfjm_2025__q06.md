@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2025__Q06
 parent: src_tfjm_2025
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025
@@ -39,6 +40,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Optimizing bus stop spacing on a line where bus speed decreases with passenger count V_k = V_0/(1+ln(k+1)); minimize bunching and travel time with holding/skip-stop strategies.*
 
@@ -73,3 +76,35 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lHouVzMpsDZ0eOZtTQ2RMXik8VTIniH-/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Optimizzare l'intervallo tra le fermate degli autobus su una linea in cui la velocità dell'autobus diminuisce con il numero di passeggeri V_k = V_0/(1+ln(k+1)); ridurre al minimo il tempo di aggregazione e di viaggio con le strategie di tenuta/scappa-stop.*
+
+> Problema 6 - Il incubo della linea 20-25.
+> 
+> In un paese lontano, le condizioni del traffico sono notevolmente degradate sulla linea di autobus 20-25, che collega un importante cancello ferroviario al campus universitario, a grande disgusto degli studenti. In particolare si assistono a spettacolari scene in cui un autobus è così affollato che rallenta e si ferma, solo per essere catturato dal bus che lo segue, a volte con tre autobus consecutivi in coda uno dietro l'altro. Di fronte a questo problema, la società di trasporto TRAIP ha incaricato Antoine di effettuare un'analisi dell'efficienza e di proporre miglioramenti. Essendo la situazione piuttosto complessa, Antoine decide di lavorare su un modello semplificato. Egli considera la linea 20-25 come una linea retta, con il deposito situato a $0$, quindi un stop a ogni numero intero $n \ge 1$ (il deposito non è quindi considerato un stop). Dopo alcune osservazioni, gli appare che gli autobus si muovono a una velocità media iniziale $V_0$, ma che la loro velocità media diminuisce con il carico dei passeggeri. Antoine osserva che la velocità media di un autobus contenente < MSK3/> passeggeri (il conducente non conta come passeggero) è data dalla formula
+> 
+> $(1) \quad V_k = \frac{V_0}{1 + \ln(k + 1)}.$
+> 
+> (Antoine ritiene che gli autobus si muovano costantemente alla loro velocità media, e il tempo trascorso nelle fermate è incluso in questa velocità media. In altre parole, si comporta come se gli autobus si muovessero costantemente a velocità $V_k$, e quando raggiungono una fermata imbarcano tutti i passeggeri lì e cambiano velocità istantaneamente.)
+> 
+> Gli autobus non possono superare; quando un autobus raggiunge un predecessore, lo segue alla stessa velocità (anche se questo significa viaggiare più lentamente della sua velocità media), e all'arrivo alla fermata, i passeggeri sono distribuiti in modo equo tra gli autobus (se ci fossero più autobus dei passeggeri, supponiamo di riempire prima l'autobus che è arrivato prima). Inoltre, supponiamo che gli autobus abbiano una capacità di trasporto infinita.
+> 
+> 1. Innanzitutto, Antoine si interessa di quello che accade nelle ore di punta. Egli ritiene che ci siano $N$ passeggeri in ogni fermata. Due autobus usciranno dal deposito, il primo all'orario < MSK1/>, il secondo partendo quando il primo raggiungerà la prima fermata. Si incastrano a vicenda?
+> 
+> 2. Antoine si chiede cosa succede quando inizia la giornata e gli autobus lasciano il deposito vuoto. a) I due autobus si raggiungono? b) Che cosa succede nel caso in cui gli autobus partono in un blocco, il primo al tempo < MSK0/>, ogni autobus successivo partendo quando quello che è partito prima di raggiungere la prima fermata?
+> 
+> 3. Antoine, ben consapevole del fatto che il modello precedente non tiene conto di piccoli pericoli stradali o di un'inattesa ondata di passeggeri, desidera ora includerli. Egli considera le seguenti varianti. a) All'ora < MSK0/>, l'autobus principale è immobilizzato per un intervallo di tempo < MSK1/> a causa di un ingorghi, prima di riprendere la velocità normale. b) Al momento $t = T$, una quantità $q$ di passeggeri arriva alla fermata situata a $n = 10$, oltre al normale riempimento. Sempre nel caso dei due autobus separati da un'unità di tempo, valutare l'impatto delle due perturbazioni di cui sopra sul resto del loro viaggio. (Discutere i risultati come funzione di $T$ e $q$.)
+> 
+> 4. Antoine ora desidera progettare una strategia per trattenere gli autobus alle fermate all'ora di punta, per evitare che si raggiungano. Ora supponiamo che, quando arrivano alle fermate (e solo allora), gli autobus possano fermarsi e aspettare un tempo arbitrario prima di riprendere la loro velocità normale. Una strategia è una funzione che, conoscendo la posizione di tutti gli autobus, il numero di passeggeri che trasportano e il numero di passeggeri a ogni fermata, indica a ogni autobus l'ora di attesa quando arriva alla fermata. Per aggiungere più realismo, Antoine ritiene che la linea finisca alla fermata $n = 20$, considerata come il deposito alla fine della linea; non ci sono passeggeri a questa fermata. Quando un autobus si ferma a $n = 20$, scende tutti i suoi passeggeri e parte nell'altra direzione, raccogliendo tutti i passeggeri che lo desiderano. Supponiamo che le fermate continuino a riempire a un ritmo costante di < MSK2/> passeggeri per unità di tempo. Supponiamo che due autobus circolino sulla linea, entrambi lasciano il deposito a $n = 0$, il primo a tempo $t = 0$, il secondo quando il predecessore raggiunge la prima fermata. a) Esiste una strategia per trattenere gli autobus alle fermate in modo da evitare che si attraversino? b) Che succede nel caso degli autobus $m$, ogni autobus dopo la prima partenza quando il predecessore ha raggiunto la prima fermata?
+> 
+> 5. Antoine vuole esplorare un'ultima idea per migliorare il tempo di viaggio dei passeggeri. Ci riportiamo nel quadro della domanda 2, con due autobus in circolazione, dove le fermate sono inizialmente vuote e si riempiono progressivamente. Supponiamo che ci sia un insieme contabile infinito di fermate indicizzate dai numeri naturali. Antoine suppone che il primo autobus serva solo le fermate rare, e il secondo solo le fermate pari. a) Questa strategia presenta un guadagno in termini di tempo di viaggio dei passeggeri? Quantificalo il più precisamente possibile. b) Per far proseguire la sua idea, Antoine suppone ora che un autobus partisca a ogni orario intero $t$, e che gli autobus servano le fermate in passi di $k$. Più precisamente, il primo autobus serve i multipli di $k$, il successivo serve i multipli di $k$ più $1$, e così via. Dopo gli autobus $k$, lo schema si ripete: il bus $(k+1)$-th serve i multipli di $k$, il $(k+2)$-th serve i multipli di $k$ più $1$, e così via. Quantificare l'eventuale guadagno nel tempo di viaggio dei passeggeri e esaminare ciò che accade come $k \to +\infty$. c) Antoine decide di spingere ancora di più la sua idea, aggiungendo più fermate per diffondere i passeggeri su più fermate. Egli suppone che ci sia ora una fermata a $\frac{n}{k}$ per ogni numero intero $n \ge 1$, e che i viaggiatori arrivano alle fermate a un tasso di $\frac{\rho}{k}$ passeggeri per unità di tempo. Consideriamo sempre che un autobus lascia il deposito a ogni unità di tempo. Siamo particolarmente interessati a ciò che accade nel limite di $k \to +\infty$.
+> 
+> 6. Proporre e studiare altre linee di ricerca.
+
+![[src_tfjm_2025__Q06.png]]
+
+[[src_tfjm_2025__Q06]]

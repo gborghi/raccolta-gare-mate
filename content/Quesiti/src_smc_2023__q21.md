@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2023 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2023__Q21
 parent: src_smc_2023
 competition: Senior Mathematical Challenge 2023
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length QX with a semicircle inscribed in an equilateral triangle*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza QX con un semicircolo inserito in un triangolo equilaterale*
+
+> Il triangolo $PQR$ è equilaterale. Un semicircolo con centro $O$ è disegnato con il suo diametro su $PR$ in modo che una estremità sia a $P$ e il bordo curvo tocchi $QR$ a $X$. Il raggio del semicircolo è $\sqrt{3}$. Qual è la lunghezza di < MSK7/>?
+>
+> - **(A)** $\sqrt{3}$
+> - **(B)** $2-\sqrt{3}$
+> - **(C)** $2\sqrt{3}-1$
+> - **(D)** $1+\sqrt{3}$
+> - **(E)** $2\sqrt{3}$
+
+![[src_smc_2023__Q21.png]]
+
+**Risposta:** D
+[[src_smc_2023__Q21]]

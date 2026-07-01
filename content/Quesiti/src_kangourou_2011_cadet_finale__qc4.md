@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Finale Cadet (Mirabilandia) — Quesito C4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet_finale__QC4
 parent: src_kangourou_2011_cadet_finale
 competition: Kangourou 2011 Finale Cadet (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi salta un circuito con fossato senza cadere e perche*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Bruna
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1CSbNPNjOuK69g0kstyR_wlz5kbo88MzC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who skips a pit circuit without falling and why
+
+> Ada, Bruna, and Carla jump on their own jumper whose base is practically a point. Each of them always jumps the same length; the lengths are 70, 80 and 85 cm respectively. They all follow, starting at the same point and moving in the same direction, a 400-meter-long circular circuit, which is traversed by a 73-cm-wide moat. It happens that only one of them can make two complete laps of the circuit without falling into the ditch: who and why? (The lengths of the jumps and the width of the trench are to be measured on circuit arcs, not on ropes.)
+
+**Answer:** Bruna
+[[src_kangourou_2011_cadet_finale__QC4]]

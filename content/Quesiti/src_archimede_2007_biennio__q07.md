@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2007 - Gara Biennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_biennio__Q07
 parent: src_archimede_2007_biennio
 competition: Giochi di Archimede 2007 - Gara Biennio
@@ -23,6 +24,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Aumento area aumentando base 20% e altezza 50%*
 
@@ -39,3 +42,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Enhanced area by increasing base by 20% and height by 50%< MSK1/>
+
+> By increasing the base of a rectangle by 20% and its height by 50%, how much does it increase its area?
+>
+> - **(A)** Of 70%,
+> - **(B)** of 72%,
+> - **(C)** of 75%,
+> - **(D)** of 78%,
+> - **(E)** The Commission's proposal for a directive on the protection of workers' rights
+
+**Answer:** E
+[[src_archimede_2007_biennio__Q07]]

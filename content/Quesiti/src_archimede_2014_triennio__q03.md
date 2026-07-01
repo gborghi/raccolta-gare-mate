@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_triennio__Q03
 parent: src_archimede_2014_triennio
 competition: Giochi di Archimede 2014 - Triennio (Testo 1)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo acuto di parallelogramma con perimetro e area*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Acute parallelogram angle with perimeter and area*
+
+> A parallelogram with a perimeter of P = 8 cm has an area of A = 4 < MSK3/> 2 cm2. What's your sharp angle? (A) 30°, (B) 45°, (C) 60°, (D) such a parallelogram does not exist, (E) the angle cannot be uniquely determined from the data provided.
+
+**Answer:** D
+[[src_archimede_2014_triennio__Q03]]

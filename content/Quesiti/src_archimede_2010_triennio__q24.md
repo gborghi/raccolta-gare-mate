@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Triennio — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_triennio__Q24
 parent: src_archimede_2010_triennio
 competition: Giochi di Archimede 2010 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume cono tagliato a un quarto dell'altezza*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of cone cut to a quarter of the height*
+
+> A rectangular circular cone has a volume of 1 m3. The cone shall be cut parallel to the base, at a distance from the top of the cone equal to a quarter of the height of the cone. So you get a new cone; what's its volume?
+>
+> - **(A)** 1 64 m3,
+> - **(B)** 3 64 m3,
+> - **(C)** 27 64 m3,
+> - **(D)** 48 64 m3,
+> - **(E)** 63 64 m3.
+
+**Answer:** A
+[[src_archimede_2010_triennio__Q24]]

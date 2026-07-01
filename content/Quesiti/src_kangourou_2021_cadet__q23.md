@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q23
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colore del pallone al centro della quarta faccia*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Color of the ball at the centre of the fourth face*
+
+![[src_kangourou_2021_cadet__prob23.png]]
+
+> The figure shows a pyramid with a triangular base constructed with 20 pallets of equal size. Each ball is colored with only one of the five colors that we denote with the letters A, B, C, D, E; they have exactly the same color 4 different balls. The following figures show three of the faces of the pyramid. What's the color of the ball at the center of the fourth face? A) A
+> 	
+> B) B
+> 	
+> C) C
+> 	
+> D) D
+> 	
+> E) E
+
+**Answer:** D
+[[src_kangourou_2021_cadet__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q16
 parent: src_cesenatico_2005_squadre_finale
 competition: Gara a Squadre Cesenatico 2005 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti dopo Polinomia partono Von Kernel (problema cinematico)*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0168
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minutes after Polynomial, Von Kernel leaves (movie problem)
+
+> The Jones Polynomial pursuit must transport the Oseen gem from Atyiahsinger Temple, where it was found, to the base camp. Polynomial leaves the temple and reaches base camp in four hours. As soon as you arrive, deposit the gem and return to the temple in three hours. His girlfriend, Claire Petiblanc, accompanies Polynomius for the first hour of his journey, then returns slowly to the temple, where she arrives at the same time as Polynomius returns. Al Jabr, Polynomial's loyal assistant, leaves the temple at the same time as the couple, but much slower. Al Jabr reaches the Friendly Polynomial when he is only one hour away from his return to the temple and accompanies him to the arrival. Dr. Von Kernel, the archaic historian of Polynomial, wants to take over the gem. Led by a band of predators, he leaves the temple some time after Polynomial and, traveling faster, arrives simultaneously at him at base camp. Unusually, along their streets, Claire Petiblanc, Al Jabr and Von Kernel find themselves all in the same place at the same time. Knowing that every person has traveled every single stretch of road at a constant speed, how many minutes after Polynomial did Von Kernel and the prey gang leave?
+
+**Answer:** 0168
+[[src_cesenatico_2005_squadre_finale__Q16]]

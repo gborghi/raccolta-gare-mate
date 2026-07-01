@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f1__Q11
 parent: src_obm_2012_n3_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute f(2012) from recursive base-3 functional equations*
 
@@ -55,3 +58,23 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolo f(2012) dalle equazioni funzionali ricorsive di base-3*
+
+> Consideriamo $N = \{0, 1, 2, \ldots\}$ e consideriamo la funzione $f \colon N \to N$ tale che $f(0) = 1$, $f(1) = 2$, $f(2) = 0$, e per ogni $n \ge 1$ naturale soddisfi le seguenti condizioni:
+> 
+> i) $f(3n) = 3f(n) + 1$;
+> 
+> ii) $f(3n + 1) = 3f(n) + 2$;
+> 
+> iii) < MSK0/>.
+> 
+> Quindi $f(2012)$ è uguale a
+> 
+> **A)** 101 $\quad$ **B)** 102 $\quad$ **C)** 103 $\quad$ **D)** 104 $\quad$ **E)** 105
+
+[[src_obm_2012_n3_f1__Q11]]

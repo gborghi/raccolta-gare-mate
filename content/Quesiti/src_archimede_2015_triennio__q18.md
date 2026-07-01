@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2015 - Triennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_triennio__Q18
 parent: src_archimede_2015_triennio
 competition: Giochi di Archimede 2015 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Griglia 3x3 con somme uguali su righe e colonne*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*3x3 grid with equal sums on rows and columns*
+
+![[src_archimede_2015_triennio__prob18.png]]
+
+> Thomas, to pass the time, enjoys filling a square grid of 3 using all the numbers from 1 to 9, so that the sum of the numbers on each row and on each column is always the same. How many ways can Thomas fill the grid?
+>
+> - **(A)** 72
+> - **(B)** 69
+> - **(C)** 64
+> - **(D)** 70
+> - **(E)** 75
+
+**Answer:** A
+[[src_archimede_2015_triennio__Q18]]

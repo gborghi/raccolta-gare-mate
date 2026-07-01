@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2021 — Nível 1 — Fase x — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2021_n1_fx__Q03
 parent: src_obm_2021_n1_fx
 competition: Olimpíada Brasileira de Matemática 2021 — Nível 1 — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two adjacent lots: perimeters, lawn area, equal-area passage*
 
@@ -54,3 +57,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10RcAE6sTt-lvUTcmg157vdVd4ZjysYzW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due lotti adiacenti: perimetri, area di prato, passaggio di superficie uguale*
+
+> Pedro ha due lotti adiacenti  uno rettangolare e uno quadrato  entrambi rivolti verso una strada. Ogni lotto ha una superficie di $400\,\text{m}^2$. Costruì un muro lungo la parte anteriore di entrambi i lotti, lungo 36 m in totale (la linea più spessa nella figura).
+> 
+> a) Quali sono i perimetri (cioè la somma delle lunghezze laterali) di ciascun lotto?
+> 
+> b) Pedro realizzò un prato di 2 metri di larghezza, che corse lungo il muro e il lato del terreno quadrato, come mostrato nella figura. Qual è la superficie totale di questo prato?
+> 
+> c) Pedro vuole dare il lotto ai suoi due figli, José e João. Poiché José non vuole il prato, ma João vuole un passaggio di larghezza $x$ attraverso il terreno di José, come indicato nella figura, lasciando il resto del prato a João. Pedro costruirà una recinzione, calcolando $x$ in modo tale che le superfici dei due lotti rimangano uguali. Qual è il valore di $x$?
+
+![[src_obm_2021_n1_fx__Q03.png]]
+
+[[src_obm_2021_n1_fx__Q03]]

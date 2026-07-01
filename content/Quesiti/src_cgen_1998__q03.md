@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1998 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1998__Q03
 parent: src_cgen_1998
 competition: Concours Général des Lycées 1998 — Matematica
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the range of a function defined by a nested-radical floor expression*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'intervallo di una funzione definita da un'espressione del pavimento radicale-nido*
+
+> Per ogni $x$ reale, $E(x)$ indica il numero intero più grande inferiore o uguale a $x$. Il $k$ deve essere un numero intero fisso superiore o uguale a $2$. Considera la funzione $f$ da $\mathbb{N}$ a $\mathbb{N}$ definita da: $$f(n) = n + E\!\left(\sqrt[k]{n + \sqrt{n}}\right).$$
+> 
+> Determinare l'insieme dei valori presi dalla funzione $f$.
+
+[[src_cgen_1998__Q03]]

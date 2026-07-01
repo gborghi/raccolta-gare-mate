@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q07
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pezzo mancante dello specchio rotto*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Full weight of the broken mirror< MSK1/>
+
+> A rectangular mirror is broken: the figure shows you how it is cracked and where a piece is missing. Which of the following is missing? A) B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** B
+[[src_kangourou_2013_ecolier__Q07]]

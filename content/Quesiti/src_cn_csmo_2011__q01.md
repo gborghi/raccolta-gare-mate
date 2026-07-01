@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2011 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2011__Q01
 parent: src_cn_csmo_2011
 competition: China Southeastern Mathematical Olympiad 2011
@@ -32,6 +33,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find range of b and value of a given a minimum of a rational function equals 3*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'intervallo di b e il valore di un dato minimo di una funzione razionale pari a 3*
+
+> Se < MSK0/>, trovare
+> 
+> (1) l'intervallo di $b$;
+> 
+> (2) il valore di $a$ per un dato $b$. (Posizionato da Lu Xingjiang)
+
+[[src_cn_csmo_2011__Q01]]

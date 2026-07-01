@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Student - Gara 16 marzo — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q18
 parent: src_kangourou_2017_student_marzo
 competition: Kangourou 2017 Student - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo cifre con due consecutivi somma cifre multipla di 7*
 
@@ -50,3 +53,23 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum numbers with two consecutive multiples of 7*
+
+> Two consecutive positive integers are such that the sum of the digits of each of them is a multiple of 7. What is the minimum number of digits that the smaller of the two can have? A) 3
+> 	
+> B) 4
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 7
+>
+
+**Answer:** C
+[[src_kangourou_2017_student_marzo__Q18]]

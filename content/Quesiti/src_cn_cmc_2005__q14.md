@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2005 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2005__Q14
 parent: src_cn_cmc_2005
 competition: China Mathematical Competition 2005
@@ -36,6 +37,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Nine balls on circle, find probability that sum of absolute differences of neighbors is minimized*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\frac{1}{315}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nove palle su un cerchio, trovare la probabilità che la somma delle differenze assolute dei vicini è ridotta al minimo*
+
+> Nove palle, numerate $1, 2, \ldots, 9$, sono posizionate a caso in $9$ punti spaziati ugualmente su un cerchio, una palla per punto. $S$ sia la somma dei valori assoluti delle differenze dei numeri su tutte le coppie di palle vicine. Trova la probabilità che $S$ raggiunga il suo valore minimo. (Nota: se una disposizione può essere ottenuta da un'altra mediante rotazione o riflessione, le due disposizioni sono considerate uguali.)
+
+**Risposta:** \frac{1}{315}
+[[src_cn_cmc_2005__Q14]]

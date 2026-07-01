@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f1__Q04
 parent: src_obm_2014_n2_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which word has more letters than the number it names?*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Quale parola ha più lettere del numero che chiama?
+
+> Quale delle seguenti alternative contiene una parola con più lettere del numero indicato da quella parola?
+> 
+> A) Uno $\quad$ B) Tre $\quad$ C) Quattro $\quad$ D) Cinque $\quad$ E) Sei
+> 
+> (In portoghese: Um, Três, Quatro, Cinco, Seis.)
+
+**Risposta:** C
+[[src_obm_2014_n2_f1__Q04]]

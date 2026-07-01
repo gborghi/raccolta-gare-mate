@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q23
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-digit perfect square N whose digits doubled give a four-digit perfect square; sum of digits of N.*
 
@@ -50,3 +53,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrato perfetto a due cifre N i cui numeri raddoppiati danno un quadrato perfetto a quattro cifre; somma di numeri di N.*
+
+> Esmeralda, il tipografo, voleva scrivere un numero $N$ di due cifre che è un quadrato perfetto. Per una grande coincidenza, ha digitato ogni cifra due volte e il numero ottenuto è anche un quadrato perfetto! Qual è la somma delle cifre di $N$?
+> 
+> (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
+
+[[src_obm_2004_n3_f1__Q23]]

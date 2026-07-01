@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 2) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g2__Q07
 parent: src_bocconi_finaleint_2010_g2
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Indovinello logico Oui-Oui/Non-Non: completare i tre nomi mancanti nelle dichiarazioni.*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Alice: Camille; Camille: Alice; Daniel: Bob
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Logical guess Oui-Oui/Non-No: complete the three missing names in the declarations.*
+
+> There are two types of people in LogicLand, the Oui-Oui who always tell the truth and the Non-No who never tell the truth. Two Oui-Oui and two No-No each make a statement about one of the other three. I'm going to tell you something. and a Oui-Oui. Bob: Daniel and a Oui-Oui. Camille:  ... and a Oui-Oui. Daniel:  ... and a Oui-Oui. Complete the three missing names.
+
+**Answer:** Alice: Camille; Camille: Alice; Daniel: Bob
+[[src_bocconi_finaleint_2010_g2__Q07]]

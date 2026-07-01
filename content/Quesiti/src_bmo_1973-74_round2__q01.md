@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1973-74 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1973-74_round2__Q01
 parent: src_bmo_1973-74_round2
 competition: British Mathematical Olympiad 1973-74 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right-angled triangle from trig identity; circumcentre–centroid distance formula*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rwes33Lj8ZPet5UN-WP0QaEOUv3l6tl-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo rettangolare dall'identità trigonometrica; formula per la distanza di circoncentrocentroide*
+
+> (i) In $\triangle ABC$, $\sin^2 A + \sin^2 B + \sin^2 C = 2$. Prove che $\triangle ABC$ è rettangolare. (Ungheria, modificato)
+> 
+> (ii) $O$ è il circoncentro e $G$ è il centroide di $\triangle ABC$. Prove che $9OG^2 = R^2(1 - 8\cos A \cos B \cos C)$. (Bulgaria, modificato)
+
+[[src_bmo_1973-74_round2__Q01]]

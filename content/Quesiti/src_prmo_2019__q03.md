@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q03
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence defined by recursive product; sum of digits of largest prime factor*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza definita da prodotto ricorsivo; somma di numeri del fattore primo più grande*
+
+> Che $x_1$ sia un numero reale positivo e per ogni intero $n \ge 1$ che $x_{n+1} = 1 + x_1 x_2 \cdots x_n$. Se $x_5 = 13$, qual è la somma delle cifre del più grande fattore primo di $x_5$?
+
+**Risposta:** 4
+[[src_prmo_2019__Q03]]

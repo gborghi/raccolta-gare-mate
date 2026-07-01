@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre semifinale turno A — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q09
 parent: src_kangourou_2012_squadre_semifinale
 competition: Kangourou 2012 squadre semifinale turno A
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli rettangoli con vertici del cubo*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 48
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular triangles with vertices of the cube*
+
+> Cube and triangles Assigned a cube, how many different rectangular triangles can be identified that have as vertices three of the vertices of the cube?
+
+**Answer:** 48
+[[src_kangourou_2012_squadre_semifinale__Q09]]

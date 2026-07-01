@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_a__Q15
 parent: src_prmo_2015_a
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -35,6 +36,8 @@ tags:
   - regione/a
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find $xy$ given $3^x + 2^y = 985$ and $3^{2x} - 2^{2y} = 473$*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 48
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova $xy$ con $3^x + 2^y = 985$ e $3^{2x} - 2^{2y} = 473$*
+
+> Se $3^x + 2^y = 985$ e $3^{2x} - 2^{2y} = 473$, qual è il valore di $xy$?
+
+**Risposta:** 48
+[[src_prmo_2015_a__Q15]]

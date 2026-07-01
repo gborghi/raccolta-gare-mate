@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Gara del pubblico — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_pubblico__Q04
 parent: src_squadre_2023_pubblico
 competition: Gara a Squadre 2023 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma f(2023) per polinomi con f(x^2)=f(2x-1)+f(x)^2*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2022
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum f(2023) for polynomials with f(x^2) = f(2x-1) + f(x) ^2*
+
+> The bank security boxes that Lupin/3 is robbing are arranged like a chessboard 9 (MSK0/>9) from which all the boxes have been removed tightly above the diagonal that goes from top left to bottom right. Lupin knows that each box contains an integer number of millions of dollars between 1 and 9, extremes included; furthermore, each number appears a different number of times and so that each box contains a number strictly greater than the box underneath (if there is a box) and greater or equal to the box to its left (if there is). How many ways can money be disposed of?
+
+**Answer:** 2022
+[[src_squadre_2023_pubblico__Q04]]

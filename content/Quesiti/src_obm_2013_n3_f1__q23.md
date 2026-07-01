@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q23
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find y where x,y positive integers and x(x+2+4+6+...+4024)=2013^y*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova y dove x,y sono interi positivi e x(x+2+4+6+...+4024)=2013^y*
+
+> Se $x$ e $y$ sono integri positivi come $x(x + 2 + 4 + 6 + \cdots + 4024) = 2013^y$, qual è il valore di $y$?
+> 
+> (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
+
+**Risposta:** C
+[[src_obm_2013_n3_f1__Q23]]

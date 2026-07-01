@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - semifinale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet_semifinale__Q03
 parent: src_kangourou_2021_cadet_semifinale
 competition: Kangourou 2021 Cadet - semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nella cella X del quadrato magico 4x4*
 
@@ -69,3 +72,40 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in cell X of the magic square 4x4*
+
+![[src_kangourou_2021_cadet_semifinale__prob3.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.0]
+  \draw (0,0) grid (4,4);
+  \node at (0.5,3.5) {$X$};
+  \node at (3.5,3.5) {\textbf{13}};
+  \node at (0.5,2.5) {\textbf{5}};
+  \node at (2.5,2.5) {\textbf{10}};
+  \node at (1.5,1.5) {\textbf{7}};
+  \node at (3.5,1.5) {\textbf{12}};
+  \node at (0.5,0.5) {\textbf{4}};
+  \node at (3.5,0.5) {\textbf{1}};
+\end{tikzpicture}
+\end{document}
+```
+
+> (3 points) Note the figure: a whole number has been entered in some cells of a table 4×4. We want to insert integers into the remaining cells too so that it becomes a magic square, that is, the sums of the numbers in each row, the sums of the numbers in each column, and the sums of the numbers in each of the two diagonals are all equal to each other. What number do we have to put in the cell marked with X? A) 11
+>  
+> B) 14
+>  
+> C) 15
+>  
+> D) 16
+>  
+> E) 1
+
+**Answer:** D
+[[src_kangourou_2021_cadet_semifinale__Q03]]

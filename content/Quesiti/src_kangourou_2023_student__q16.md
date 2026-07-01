@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q16
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di koala con ogni animale vicino a un canguro*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of koalas with each animal near a kangaroo
+
+> 23 animals, all kangaroos or koalas, are lined up in a row. Each of them has at least one neighbor who is a kangaroo. What is the maximum number of koalas compatible with this provision? A) 7
+> 	
+> B) 8
+> 	
+> C) 10 D) 11
+> 	
+> E) 12
+
+**Answer:** D
+[[src_kangourou_2023_student__Q16]]

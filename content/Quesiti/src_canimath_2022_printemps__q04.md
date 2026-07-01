@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2022 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_printemps__Q04
 parent: src_canimath_2022_printemps
 competition: Coupe Animath Printemps 2022
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with two equal-length points on the longest side, prove an angle identity*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con due punti di lunghezza uguale sul lato più lungo, dimostrare un'identità angolare*
+
+> Si deve $ABC$ essere un triangolo in cui $BC > AB$ e $BC > AC$. Il punto $P$ deve essere il punto del segmento $[BC]$ in modo tale che $AB = BP$, e il punto $Q$ deve essere il punto del segmento $[BC]$ in modo tale che $AC = CQ$. Indicare che < MSK0/>
+
+[[src_canimath_2022_printemps__Q04]]

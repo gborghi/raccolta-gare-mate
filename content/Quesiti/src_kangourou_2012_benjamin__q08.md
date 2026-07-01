@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q08
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Configurazione dei canguri dopo la rotazione della moneta*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Configuration of the kangaroos after the coin's rotation*
+
+![[src_kangourou_2012_benjamin__prob8.png]]
+
+> Look at the figure. Starting from the position indicated for both currencies, the upper currency spins without slipping around the lower currency until it is in the new position indicated. What is the configuration of the two kangaroos? A) B) C) D) E) Depends on the speed of rotation
+
+**Answer:** A
+[[src_kangourou_2012_benjamin__Q08]]

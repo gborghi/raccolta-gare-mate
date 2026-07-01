@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2013 - Biennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_biennio__Q05
 parent: src_archimede_2013_biennio
 competition: Giochi di Archimede 2013 - Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Diminuzione percentuale androidi dopo aumento popolazione*
 
@@ -54,3 +57,20 @@ tags:
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Reduction in the percentage of androids after population increase< MSK1/>
+
+> Until 2013, in the Zoranel penal colony the population was 60% androids, of which 5% were supervised; say q the percentage of supervised androids over the total population in that year. In 2014 the population increased by 10% due to the arrival of N human exiles. How much has the percentage of surveillance androids decreased over the total population?
+>
+> - **(A)** He didn 't change .
+> - **(B)** less than one tenth of q
+> - **(C)** more than one tenth of q
+> - **(D)** depends on N
+> - **(E)** It depends on how large the initial population was.
+
+**Answer:** B
+[[src_archimede_2013_biennio__Q05]]

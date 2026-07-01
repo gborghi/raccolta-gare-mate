@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2007 - Gara Biennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_biennio__Q12
 parent: src_archimede_2007_biennio
 competition: Giochi di Archimede 2007 - Gara Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorsi su lati e diagonali di un quadrato*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Side and diagonal paths of a square*
+
+> How many distinct paths, starting from a fixed vertex of a square and moving only along its sides and diagonals, pass through each vertex once and only once?
+>
+> - **(A)** Two, two.
+> - **(B)** three,
+> - **(C)** four,
+> - **(D)** six,
+> - **(E)** I got eight.
+
+**Answer:** D
+[[src_archimede_2007_biennio__Q12]]

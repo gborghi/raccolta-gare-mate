@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2009-10 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2009-10_round1__Q06
 parent: src_bmo_2009-10_round1
 competition: British Mathematical Olympiad 2009-10 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer map (x,y)→(x²+y, x−y) with x+y=p²; count distinct treasure locations*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1awOFH4w30UoodeziKpr1Y2H1zYJ0Te28/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mapa integrale (x,y) →(x2+y, x−y) con x+y=p2; contare le posizioni dei tesori distinti*
+
+> Long John Silverman ha una mappa sulla quale il punto $P$ ha coordinate interi $(x, y)$ con $x > 0$, $y > 0$ e $x + y = p^2$ per alcuni primi $p$. Il punto $(x, y)$ sulla mappa è mappato al punto $(x^2 + y,\, x - y)$, dove $x > y > 0$. Ha indicato sulla mappa che i tre numeri $x + y$, $x^2 + y$ e $x - y$ sono tutti distinti. Scopri quanti posti diversi il tesoro potrebbe essere nascosto.
+
+[[src_bmo_2009-10_round1__Q06]]

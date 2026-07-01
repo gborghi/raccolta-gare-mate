@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f2__Q08
 parent: src_obm_2015_n1_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular hexagon with center O made of 6 equilateral triangles (side 6 cm); find areas of various sub-regions*
 
@@ -56,3 +59,23 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esagono regolare con centro O costituito da 6 triangoli equilaterali (lato 6 cm); trovare aree di varie sottoregioni*
+
+> L'esagono regolare $ABCDEF$ con centro $O$, mostrato lateralmente, è composto da triangoli equilaterali $6$ di lato $6$ cm.
+> 
+> a) Qual è la superficie, in $\text{cm}^2$, del triangolo i cui vertici sono i punti $B$, $F$ e $D$?
+> 
+> b) Qual è la superficie, in < MSK0/>, del quadrilaterale < MSK1/>?
+> 
+> c) I triangoli $ABC$ e $BCD$ si sovrappongono parzialmente. Qual è la superficie, in $\text{cm}^2$, della regione comune a entrambi i triangoli, indicata in grigio nella figura seguente?
+> 
+> d) Qual è l'area, in $\text{cm}^2$, del triangolo le cui vertici sono i punti medi dei lati $AB$, $CD$ e $EF$?
+
+![[src_obm_2015_n1_f2__Q08.png]]
+
+[[src_obm_2015_n1_f2__Q08]]

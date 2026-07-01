@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q18
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quando l'orologio segnera 5 minuti in piu*
 
@@ -60,3 +63,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+When the clock signs 5 more minutes
+
+> The grandmother's clock every day, compared to the correct walk,  between 0:00 and 6:00 goes forward by 15 seconds;  between 6:00 and 12:00 goes back 10 seconds;  between 12:00 and 18:00 goes forward by 15 seconds;  between 18:00 and 24:00 goes back 10 seconds. Today, 15 March, at noon, the clock marks the exact time. If grandma no longer sets the clock, what time of day will her watch mark exactly 5 minutes longer than the exact time? (A) It will never happen (B) At 12:00 on April 14. (c) At 12:00 on 15 April. D) At 12:00 on 13 April. E) At 6:00 on 13 April 4m 6m 10m Texts_07.qxp 16-04-2007 12:06 Page 25
+> 
+> I'm going to pay. I'm going to pay. 26 26 Kang 2007 Kang 2007
+
+**Answer:** E
+[[src_kangourou_2007_junior_marzo__Q18]]

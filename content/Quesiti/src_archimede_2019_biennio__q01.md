@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2019 - Biennio (T1) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_biennio__Q01
 parent: src_archimede_2019_biennio
 competition: Giochi di Archimede 2019 - Biennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti reali x soddisfano 0<=x<=1, 1/x<=1*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many real x satisfy 0<=x<=1, 1/x<=1*
+
+> For how many real numbers x is the chain of inequalities 0 ≤x ≤1 x ≤1?
+>
+> - **(A)** infinitesimal
+> - **(B)** 3
+> - **(C)** No one
+> - **(D)** only 1
+> - **(E)** 2
+
+**Answer:** D
+[[src_archimede_2019_biennio__Q01]]

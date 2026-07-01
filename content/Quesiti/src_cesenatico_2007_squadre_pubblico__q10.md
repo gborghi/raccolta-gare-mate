@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q10
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma N di tre cifre con ultime tre cifre di N^3 = 888*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*N sum of three digits with the last three digits of N^3 = 888*
+
+> A demanding client [35] A new difficult mission was commissioned at the village of Retta. The grand council must select all mateninja whose vital force is a three-digit number N for which the last three digits of N3 are 888. Find the sum of all these values.
+
+[[src_cesenatico_2007_squadre_pubblico__Q10]]

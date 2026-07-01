@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f1__Q18
 parent: src_obm_2005_n3_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many of 13 nonzero reals are negative given 22 negative pairwise products and more positives*
 
@@ -51,3 +54,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quanti dei 13 reali non-zero sono negativi dati 22 prodotti in coppia negativa e più positivi*
+
+> Tra i tredici numeri reali non zero ci sono più numeri positivi di quelli negativi. Tra i prodotti $\dfrac{13 \times 12}{2} = 78$ di coppie di 13 numeri, $22$ sono negativi. Quanti dei tredici numeri dati sono negativi? (A) $2$ (B) $7$ (C) $8$ (D) $9$ (E) $10$
+
+[[src_obm_2005_n3_f1__Q18]]

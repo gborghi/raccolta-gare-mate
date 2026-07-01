@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2014__Q01
 parent: src_prmo_2014
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2014
@@ -32,6 +33,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest prime factor of k given k^2 < 2014 < (k+1)^2*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 11
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fattore primo più piccolo di k dato k^2 < 2014 < (k+1)^2*
+
+> Un numero naturale $k$ è tale che $k^2 < 2014 < (k+1)^2$. Qual è il più grande fattore primo di $k$?
+
+**Risposta:** 11
+[[src_prmo_2014__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q21
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -34,6 +35,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *List (a+1)n², m², a(n+1)² is three consecutive integers; largest m²*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lista (a+1)n2, m2, a(n+1)2 è di tre integri consecutivi; più grande m2*
+
+> Per alcuni numeri reali $m$, $n$ e un intero positivo $a$, l'elenco $(a+1)n^2, m^2, a(n+1)^2$ è composto da tre numeri interi consecutivi scritti in ordine crescente. Qual è il valore più grande possibile di $m^2$?
+
+[[src_ioqm_2025_sep07__Q21]]

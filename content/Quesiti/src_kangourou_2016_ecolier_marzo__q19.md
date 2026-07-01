@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (gara marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q19
 parent: src_kangourou_2016_ecolier_marzo
 competition: Kangourou 2016 Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante pere se ci sono 25 mele sugli alberi*
 
@@ -48,3 +51,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many pears if there are 25 apples on the trees
+
+![[src_kangourou_2016_ecolier_marzo__prob19.png]]
+
+> In an enchanted garden there are strange trees: each produces 6 pears and 3 apples or 8 pears and 4 apples. On the trees in the garden there are a total of 25 apples: how many pears are there? A) 35
+> 	
+> B) 40
+> 	
+> C) 45
+> 	
+> D) 50
+> 	
+> E) 56
+
+**Answer:** D
+[[src_kangourou_2016_ecolier_marzo__Q19]]

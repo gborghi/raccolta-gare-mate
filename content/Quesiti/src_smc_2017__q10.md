@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2017 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2017__Q10
 parent: src_smc_2017
 competition: Senior Mathematical Challenge 2017
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle divided into three congruent smaller rectangles each similar to the large one; find ratio of longer to shorter side.*
 
@@ -54,3 +57,26 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo diviso in tre rettangoli più piccoli congruenti, ciascuno simile a quello grande; trovare il rapporto di lato più lungo a lato più breve.*
+
+> Un rettangolo è diviso in tre rettangoli congruenti più piccoli come mostrato.
+> 
+> Ogni rettangolo più piccolo è simile al grande rettangolo.
+> 
+> In ciascuno dei quattro rettangoli, qual è il rapporto tra la lunghezza di un lato più lungo e quella di un lato più corto?
+>
+> - **(A)** $2\sqrt{3} : 1$
+> - **(B)** $3 : 1$
+> - **(C)** $2 : 1$
+> - **(D)** $\sqrt{3} : 1$
+> - **(E)** $\sqrt{2} : 1$
+
+![[src_smc_2017__Q10.png]]
+
+**Risposta:** D
+[[src_smc_2017__Q10]]

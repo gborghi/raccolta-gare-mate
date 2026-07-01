@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q05
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three circles of radii 1, 2, 3 shown in a diagram; find ratio of shaded area to area of largest circle.*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre cerchi di raggio 1, 2, 3 mostrati in un diagramma; trovare il rapporto tra superficie ombrata e superficie del cerchio più grande.*
+
+> Il diagramma mostra tre cerchi con radii 1, 2 e 3. Qual è il rapporto tra l'area ombrata e l'area del cerchio più grande?
+>
+> - **(A)** 1:3
+> - **(B)** 1:2
+> - **(C)** $\sqrt{2}:\sqrt{3}$
+> - **(D)** 2:3
+> - **(E)** 4:9
+
+![[src_smc_2025__Q05.png]]
+
+**Risposta:** A
+[[src_smc_2025__Q05]]

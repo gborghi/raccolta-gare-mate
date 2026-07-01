@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2024__Q07
 parent: src_tfjm_2024
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024
@@ -39,6 +40,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Funny cookies: dough deposited along segments, each point P filling a disk of radius R(P); characterize which planar shapes (disk, rectangle, triangle, annulus) are cookies / r-cookies, the dough quantity needed, and which contours bound r-cookies.*
 
@@ -91,3 +94,49 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cookies divertenti: pasta depositata lungo i segmenti, ogni punto P riempendo un disco di raggio R(P); caratterizzare quali forme piane (disco, rettangolo, triangolo, annulo) sono cookie / r-cookies, la quantità di pasta necessaria, e quali contorni di r-cookies legati.*
+
+> Fabrice ha deciso di produrre biscotti con forme matematiche per gli snack dei < MSK0/>. Ha un sacchetto che gli permette di depositare la pasta dei biscotti nell'aereo seguendo un modello preciso. La pasta depositata in un determinato istante si trova lungo un segmento di linea retta (un punto che viene accettato come limite di un segmento di lunghezza $0$). A ciascun punto $P$ di uno di questi segmenti, il sacchetto di tubazione consente a Fabrice di depositare una quantità più o meno grande $R(P) \ge 0$ di pasta.
+> 
+> Quando viene posta, la pasta si diffonde e riempie il disco di raggio $R(P)$ incentrato su $P$ per ogni punto $P$ in cui Fabrice mette la pasta. La pasta di Fabrice non si respinge da sola. Ad esempio, se il disco del centro $P$ e del raggio $R(P)$ è contenuto nel disco del centro $P'$ e del raggio $R(P')$, la pasta si diffonde in un biscotto di forma solo il disco del centro $P'$ e del raggio $R(P')$. La forma del biscotto dopo la cottura è quindi l'unione dei dischi del centro $P$ e del raggio $R(P)$, dove $P$ va oltre l'insieme dei punti in cui Fabrice mette la pasta.
+> 
+> Si chiama $\textbf{cookie of the plane}$ una regione ottenuta seguendo questa procedura.
+> 
+> La figura $10$ rappresenta due esempi di cookie. Il biscotto arancione viene ottenuto distribuendo una pasta di raggio costante pari a $1$ su un segmento di lunghezza $1$. Il biscotto blu è ottenuto da un segmento di pasta di raggio variabile e da un altro punto di pasta.
+> 
+> Fabrice desidera in particolare realizzare le seguenti forme di biscotto: a) un disco di raggio $R$; b) un rettangolo completo con lati di lunghezza $a$ e $b$; c) un triangolo completo con lati di lunghezza $a$, $b$ e $c$; d) un annulo di raggio interno $R_1$ e di raggio esterno $R_2$ (con $R_2 > R_1$), i due cerchi che formano il confine dell'annulo che sono inclusi nel biscotto.
+> 
+> < MSK0/> La forma a) è un biscotto? La stessa domanda per ciascuna delle forme b), c) e d).
+> 
+> Il $\textbf{quantity of dough}$ utilizzato per la preparazione di un biscotto è la somma delle lunghezze dei segmenti in cui Fabrice mette la pasta.
+> 
+> Per ciascuna delle forme della domanda precedente che sono biscotti, con quali quantità di pasta può Fabrice farla?
+> 
+> Poiché la precisione della borsa di tubi di Fabrice è limitata, la quantità di pasta che deposita a < MSK0/> non può essere troppo piccola. Per un $r \ge 0$ fisso, si dice che lo strumento di Fabrice ha precisione $r$ quando $R(P) \ge r$ per ogni punto $P$ posizionato da Fabrice. Uno chiama $r$-$\textbf{cookie of the plane}$, più semplicemente $r$-cookie, un cookie che Fabrice può fare con uno strumento di precisione $r$. Le risposte alle seguenti domande dipenderanno quindi da $r$.
+> 
+> In particolare, i cookie $0$ sono esattamente i cookie e ogni cookie $r$ è un cookie.
+> 
+> $\textbf{3.}$ Ripetere le domande precedenti nel caso dei cookie $r$, come funzione di $r$.
+> 
+> $\textbf{4.}$ Supponiamo in questa domanda che Fabrice faccia un cookie $r$ senza utilizzare alcun segmento di lunghezza $0$ e che sia impossibile ottenere la stessa forma utilizzando strettamente meno pasta. È possibile che una ripartizione diversa della pasta produca lo stesso $r$-cookie, senza ancora un segmento di lunghezza $0$?
+> 
+> Fabrice è ora interessato alla forma del confine dei suoi cookie $r$. Il contorno di un biscotto è definito come segue. Si suppone che si abbiano due funzioni continue $x : \mathbb{R} \to \mathbb{R}$ e $y : \mathbb{R} \to \mathbb{R}$ che verificano le seguenti proprietà:  sono $1$-periodiche, cioè $x(t+1) = x(t)$ e $y(t+1) = y(t)$ per tutti i valori reali $t$;  per tutti i valori di $t$ e $t'$, si ha simultaneamente $x(t) = x(t')$ e $y(t) = y(t')$ se e solo se la differenza $t - t'$ è un numero intero.
+> 
+> Fabrice disegna nel piano l'insieme $\Gamma$ di punti di coordinate $(x(t), y(t))$, denominato $\textbf{contour}$. La regione del piano che il contorno delimita (che si suppone sia ben definita) può o non può essere un cookie $r$.
+> 
+> $\textbf{5.}$ Esiste un contorno per il quale $x$ e $y$ sono continui, ma per il quale la regione delimitata non è un cookie $r$? In tal caso, è possibile con $x$ e $y$ differenziabili? Due volte differenziabile? Tre volte differenziabile?
+> 
+> $\textbf{6.}$ Esiste un contorno per il quale $x$ e $y$ sono continui, che è un cookie, ma che non è un $r$-cookie per qualsiasi $r > 0$? In tal caso, è possibile con $x$ e $y$ differenziabili? Due volte differenziabile? Tre volte differenziabile?
+> 
+> $\textbf{7.}$ Trovare altre condizioni su una forma per essere un cookie $r$.
+> 
+> $\textbf{8.}$ Proporre e esplorare altre vie di ricerca, ad esempio nella dimensione $3$.
+
+![[src_tfjm_2024__Q07.png]]
+
+[[src_tfjm_2024__Q07]]

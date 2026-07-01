@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q10
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers m making 2004/(m^2-2) a positive integer*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri interi positivi m che rendono 2004/(m^2-2) un intero positivo*
+
+> Per quanti integri positivi $m$ il numero $\dfrac{2004}{m^2 - 2}$ è un intero positivo?
+> 
+> **A) ** uno $\quad$ **B) ** due $\quad$ **C) ** tre $\quad$ **D) ** quattro $\quad$ **E) ** più di quattro
+
+**Risposta:** B
+[[src_obm_2004_n2_f1__Q10]]

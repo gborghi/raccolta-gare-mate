@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo15yq_yosen__Q09
 parent: src_jmo15yq_yosen
 competition: Japan Mathematical Olympiad 2005 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle PAC with point P inside regular pentagon satisfying given angle conditions*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $24^\circ$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca un PAC ad angolo con punto P all'interno di un pentagono regolare che soddisfa determinate condizioni di angolo*
+
+> $P$ deve essere un punto all'interno di un pentagono regolare $ABCDE$ tale che $\angle ABP = 6^\circ$ e $\angle AEP = 12^\circ$. Trova la misura di $\angle PAC$.
+
+**Risposta:** 24^\circ
+[[src_jmo15yq_yosen__Q09]]

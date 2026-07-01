@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q06
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti topi ha preso Felix il terzo giorno*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many mice did Felix take on the third day?
+
+> Cat Felix caught 14 mice in three days. Every day after that, the first one caught more mice than the day before. On the third day he caught less than the previous two combined. How many mice did Felix take on the third day? The Commission has not yet decided whether to proceed with the implementation of this Regulation.
+> 
+> I'm going to pay. I'm going to pay. This is a list of official languages of the United Kingdom.
+
+**Answer:** B
+[[src_kangourou_2011_cadet__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Koala — Gioco Koala — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_koala__Q10
 parent: src_kangourou_2022_koala
 competition: Kangourou 2022 Koala — Gioco Koala
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Canguro verso koala evitando macchie azzurre*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Nyec1GxOQ3f28I_D0c1kacejlV99W-GD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Cangaroo to koala by avoiding blue spots< MSK1/>
+
+![[src_kangourou_2022_koala__prob10.png]]
+
+> The kangaroo you see in the drawing can move: - only horizontally or vertically - only one square at a time - only without crossing blue-spotted squares. If you want to reach the koala, what's the longest route? The arrows in the answers indicate the direction of the kangaroo's steps. (see figure)
+
+**Answer:** A
+[[src_kangourou_2022_koala__Q10]]

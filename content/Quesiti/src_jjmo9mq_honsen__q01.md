@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2011 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo9mq_honsen__Q01
 parent: src_jjmo9mq_honsen
 competition: Japan Junior Mathematical Olympiad 2011 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic hexagon with three pairs of parallel sides; prove fourth pair also parallel*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQFXoo9rN8C_YkZobTc_GDXqyqB1KsjQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esagono ciclico con tre coppie di lati paralleli; dimostrare che anche la quarta coppia è parallela*
+
+> Un esagono $ABCDEF$ è inserito in un cerchio. Supponiamo che $AB \parallel DE$, $BC \parallel EF$ e $CD \parallel FA$. Prove che $AB \parallel CD$.
+
+[[src_jjmo9mq_honsen__Q01]]

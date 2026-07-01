@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2025 — Selection Camp — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2025__Q07
 parent: src_selection_camp_2025
 competition: Japan IMO Selection Camp 2025 — Selection Camp
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence: each new term is mean of above-average terms; prove eventual constancy*
 
@@ -48,3 +51,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_hAtW-_q2-uMzqzRMHgBP6hcqovxL3Oj/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza: ogni nuovo termine è la media di termini superiori alla media; dimostrare la costanza finale*
+
+> Una sequenza di integri positivi $a_1, a_2, \ldots$ soddisfa la seguente condizione per ogni numero intero $n$ con $n \ge 2024$: $a_{n+1}$ è uguale alla media di quegli termini tra $a_1, a_2, \ldots, a_n$ che sono superiori o uguali alla media $\dfrac{a_1 + a_2 + \cdots + a_n}{n}$. Prova che per ogni intero $n$ con $n > 2024$, abbiamo $a_n = a_{2025}$.
+
+[[src_selection_camp_2025__Q07]]

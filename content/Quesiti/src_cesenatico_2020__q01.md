@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2020 - testi — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2020__Q01
 parent: src_cesenatico_2020
 competition: Olimpiade Italiana (Cesenatico) 2020 - testi
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *AC||DE e AE=CD*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gylN-2GSxpemPcbzJfcfMtzLwdIYnXYe/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AC||DE e AE=CD*
+
+> On a circumference we consider in the order five points A, B, C, D, E. Suppose that the lines BC and DE intersect at a point F, that F and A are on opposite sides to the BE line, and that the circumference circumscribed to the BFE triangle is tangent (in E) to the AE line. (a) Demonstrate that the AC and DE lines are parallel. (b) Demonstrate that AE = CD.
+
+[[src_cesenatico_2020__Q01]]

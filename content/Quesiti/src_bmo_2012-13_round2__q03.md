@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2012-13 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2012-13_round2__Q03
 parent: src_bmo_2012-13_round2
 competition: British Mathematical Olympiad 2012-13 — Round 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove n+s has more 0s than 1s in binary, for 2013-digit integers with more 0s*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6MLouVC9Fv33gZl2XU4wc2GFJ11WgBk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove n+s ha più 0s di 1s in binario, per i numeri interi a 2013 con più 0s*
+
+> Considerate l'insieme di interi positivi che, quando scritti in binario, hanno esattamente $2013$ cifre e più $0$s di $1$s. $n$ sia il numero di tali integri e $s$ sia la loro somma. Prova che, quando scritto in binario, $n + s$ ha più $0$s di $1$s.
+
+[[src_bmo_2012-13_round2__Q03]]

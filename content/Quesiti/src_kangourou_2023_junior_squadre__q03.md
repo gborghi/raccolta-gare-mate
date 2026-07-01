@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Junior Finale 1 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_squadre__Q03
 parent: src_kangourou_2023_junior_squadre
 competition: Kangourou Squadre 2023 Junior Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma numeri MEDI di tre cifre*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7992
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of three-digit MEDI numbers*
+
+> Average Number For each 3-digit integer (therefore with the number of hundreds other than 0), consider the five numbers that are obtained by exchanging its digits (for example, for the number 120, the five numbers to be considered are: 102, 210, 201, 012 and 021; instead for the number 121 are: 211, 211, 121, 112 and 112, in this case not all distinct and one equal to the number considered). The number in question shall be said to be half if it is the average of the other five. How much is the sum of all the MID numbers?
+
+**Answer:** 7992
+[[src_kangourou_2023_junior_squadre__Q03]]

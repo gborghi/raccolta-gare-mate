@@ -1,6 +1,7 @@
 ---
 title: XXIV Olimpiade Italiana Cesenatico 2008 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2008__Q03
 parent: src_cesenatico_2008
 competition: XXIV Olimpiade Italiana Cesenatico 2008
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Funzioni Z->R crescenti con differenze nell'immagine*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** f(n)=(n-n0)a con a reale positivo
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1o6Dc8ajv2EraLtby07SiyqyPmc6MZ9Su/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Growing Z->R functions with differences in image*
+
+> Determine all the functions f, defined on the set Z of the relative integers and values in the set R of the real numbers, which satisfy simultaneously the following properties: • for each pair of integers (m, n) with m < n we have f(m) < f(n); • for each pair of integers (m, n) there exists an integer k such that f(m) −f(n) = f(k.
+
+**Answer:** f(n)=(n-n0)a con a reale positivo
+[[src_cesenatico_2008__Q03]]

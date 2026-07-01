@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q20
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione ombreggiata (quadrato e perpendicolari)*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shaded region area (square and perpendicular) *
+
+![[src_kangourou_2007_cadet_marzo__prob20.png]]
+
+> In the figure next to O is the centre of the KLMN square and the points on each side of the KLMN are chosen with the only constraint that the OA segment is perpendicular to the OD segment and the OB segment is perpendicular to the OC segment. If the side of the square is 2, what is the area of the shaded region? A) 1 B) 2 C) 2,5 D) 2,25 E) It is not possible to answer because it depends on the choice of points A and B. The questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** B
+[[src_kangourou_2007_cadet_marzo__Q20]]

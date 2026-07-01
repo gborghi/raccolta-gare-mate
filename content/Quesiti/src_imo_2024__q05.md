@@ -1,6 +1,7 @@
 ---
 title: IMO 2024 papers — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2024__Q05
 parent: src_imo_2024
 competition: IMO 2024 papers
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Turbo la lumaca, minimo n attacchi garantiti*
 
@@ -43,3 +46,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ZrP0tUhDI-NRI5nmXI07Lc5voATX3Y5x/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Turbo the snail, minimum n guaranteed attacks< MSK1/>
+
+> Turbo the snail plays a game on a board with rows and columns. There are hidden monsters in the cells. Initially, Turbo doesn't know where any of the monsters are, but he knows that there is exactly one monster in each row except the first row and the last row, and that each column contains at most one monster.
+> 
+> Turbo makes a series of attempts to go from the first row to the last row. On each attempt, he chooses to start on any cell in the first row, then repeatedly moves to an adjacent cell sharing a common side. If he reaches a cell with a monster, his attempt ends and he is transported back to the first row to start a new attempt. The monsters don't move, and Turbo remembers whether or not every cell he has visited contains a monster. If he reaches any cell in the last row, his attempt ends and the game is over.
+> 
+> Determine the minimum value of $n$ for which Turbo has a strategy that guarantees reaching the last row on the $n$-th attempt or earlier, regardless of the locations of the monsters.
+
+[[src_imo_2024__Q05]]

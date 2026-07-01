@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q19
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Side lengths of smallest square in a configuration of three squares with bases on a line*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza laterale del più piccolo quadrato in una configurazione di tre quadrati con basi su una linea*
+
+> Tre quadrati sono disposti come mostrato in modo che le loro basi si trovino su una linea retta. Inoltre, gli angoli $Q$ e $R$ si trovano su una linea retta. Il quadrato medio ha lati che sono 1 cm più lunghi dei lati del più piccolo quadrato. Il quadrato più grande ha lati di 50 cm. Quali dei seguenti valori sono possibili per la lunghezza (in cm) dei lati del più piccolo quadrato?
+>
+> - **(A)** $2, 32$
+> - **(B)** $4, 42$
+> - **(C)** $4, 34$
+> - **(D)** $32, 40$
+> - **(E)** $34, 42$
+
+![[src_smc_2015__Q19.png]]
+
+**Risposta:** A
+[[src_smc_2015__Q19]]

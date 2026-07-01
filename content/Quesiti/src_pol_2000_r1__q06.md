@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2000 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2000_r1__Q06
 parent: src_pol_2000_r1
 competition: Olimpiade Matematica Polacca 2000 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *X inside right triangle (angle C = 90), P,Q,R projections onto BC,CA,AB; prove AR*RB = BP*PC + AQ*QC iff X on AB.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*X all'interno del triangolo rettangolo (angolo C = 90), proiezioni P,Q,R su BC,CA,AB; dimostrare AR*RB = BP*PC + AQ*QC se X su AB.*
+
+> Un punto $X$ si trova all'interno o sul confine del triangolo $ABC$ con $\angle C = 90^\circ$. I punti $P, Q, R$ sono le proiezioni di $X$ rispettivamente su $BC$, $CA$ e $AB$. Prova che l'uguaglianza $AR \cdot RB = BP \cdot PC + AQ \cdot QC$ è valida se e solo se $X$ si trova sul lato $AB$.
+
+[[src_pol_2000_r1__Q06]]

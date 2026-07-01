@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2020__Q01
 parent: src_tfjm_2020
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020
@@ -34,6 +35,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Domino puzzle tiling completion on k×n grids*
 
@@ -68,3 +71,35 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J8zHKpO1Q-BosuE3UiWvjA4Arny60DJ4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Completamento di piastrelle per puzzle doministiche su k×n reti*
+
+> Laetitia è un'esperta di giochi a griglia. Per cambiare da Sudoku, crea enigmi.
+> 
+> Si considera una griglia $k \times n$ le cui righe sono numerate da $1$ a $k$ e le cui colonne sono numerate da $1$ a $n$, con $k \ge 2$. Si inseriscono (orizzontalmente o verticalmente) dominosi rettangolari di dimensioni $k \times 1$. I domino non devono sovrapporre e non devono superare le colonne $1$ a $n$. Nella figura 1, il domino arancione rappresenta una posizione valida della griglia, e i domino blu e verdi si sovrappongono.
+> 
+> Il giocatore deve poi provare a completare la griglia, sempre con $k \times 1$ dominò e rispettando le stesse regole.
+> 
+> La figura 2 mostra un esempio di una griglia valida con $k=3$, $n=9$ in cui Laetitia ha posizionato due domino. Questa griglia può essere completata in tre modi diversi; uno di essi è mostrato con linee puntate.
+> 
+> Laetitia decide di lasciare almeno un quadrato libero e di organizzare le cose in modo da poter completare la griglia. Quali sono le posizioni possibili di questo quadrato nella griglia, e quali sono i modi possibili per completare la griglia? In tal caso, per quali valori di $n$ e $k$ può esistere solo una via?
+> 
+> **2.** $k$ e $n$ siano due integri fissi. Qual è il numero minimo di domino che Laetitia deve mettere in modo che il giocatore non possa completare la griglia in almeno due modi diversi?
+> 
+> **3.** $k$ e $n$ siano due integri positivi. Qual è il numero massimo di posizioni che un domino può occupare? Studiare i casi in cui < MSK2/> e < MSK3/> si dividono.
+> 
+> **4.** Da ora la griglia ha dimensioni $n \times n$, e $k \ge 2$ è un divisore di $n$. Rivisitare le domande precedenti in questo caso.
+> 
+> **5.** Laetitia colora le celle della griglia le cui entrambe le coordinate sono multipli di $k$. Lei impone che un'estremità di un domino atterri su una di queste celle colorate, come illustrato dalla Figura 3. Per quali valori di $n$ e $k$ può organizzare le cose in modo che ci sia almeno un modo per completare la griglia? C'e' almeno uno?
+> 
+> Laetitia ora colora le stesse cellule anche sui suoi domino, ma questa volta non richiede che sia l'estremità che copre la cellula colorata. Per quali valori di $n$ e $k$ può organizzare le cose in modo che ci sia almeno un modo per completare la griglia?
+> 
+> **7.** Proporre e studiare altre vie di ricerca.
+
+![[src_tfjm_2020__Q01.png]]
+
+[[src_tfjm_2020__Q01]]

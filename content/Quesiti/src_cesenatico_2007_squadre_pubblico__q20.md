@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q20
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero turni del gioco della palla (permutazioni)*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of turns of the ball game (switches) *
+
+> Recreation [60] Morning school is tough, but fortunately, there are times when you relax. Today, 31 young students of mateninjutsu play ball with the following rules. Each player chooses another player, different from himself, so that no person is chosen more than once. Each is then given a ball with his or her name written on it. At this point, the game begins and each student passes the ball to the partner he chooses. The game ends when every morning the ball comes back with its own name. How many shifts does the game take?
+
+[[src_cesenatico_2007_squadre_pubblico__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2019 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_automne__Q17
 parent: src_canimath_2019_automne
 competition: Coupe Animath Automne 2019
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of sequence of strictly positive integers satisfying a_{n+2} = a_{n+1} + sqrt(a_n + a_{n+1})*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di una sequenza di interi rigorosamente positivi che soddisfano a_{n+2} = a_{n+1} + sqrt(a_n + a_{n+1}) *
+
+> Esiste una sequenza di integri rigorosamente positivi $a_0, a_1, \ldots$ tale che $$a_{n+2} = a_{n+1} + \sqrt{a_n + a_{n+1}}$$ per tutti gli integri $n \ge 0$?
+
+[[src_canimath_2019_automne__Q17]]

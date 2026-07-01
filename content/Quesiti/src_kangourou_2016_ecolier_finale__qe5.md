@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (finale Cervia) — Quesito E5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_finale__QE5
 parent: src_kangourou_2016_ecolier_finale
 competition: Kangourou 2016 Écolier (finale Cervia)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di confronti per verificare i 5 piu pesanti*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 99
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17WfUAkrXUQQ692jH5sAM_Bsr9ebUFZPI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of comparisons to check the 5 heaviest < MSK1/>
+
+> On the table there are $100$ objects of very close weight (some may even have the same weight): they told me that the heaviest objects, listed in descending weight order, are A, B, C, D and E. I want to check the statement, but I only have a two-plate balance and there can only be one object on each plate, so I can only compare the weights of two objects at a time. What is the minimum number of comparisons that allows me to check the statement?
+
+**Answer:** 99
+[[src_kangourou_2016_ecolier_finale__QE5]]

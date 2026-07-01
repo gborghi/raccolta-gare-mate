@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2011 - Gara a squadre — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2011_squadre__Q01
 parent: src_gs_2011_squadre
 competition: Coppa Fermat 2011 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione del guardiano falsa*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2010
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*False claim by the guardian*
+
+> James Bond is in action on the island of Bunscerol in French Guiana, inhabited only by SPECTRE members since 2011. Fortunately, every bunserolo (= inhabitant of Bunscerol) has the characteristic of always telling the truth or always telling the lie. He hears a watchman murmur: "The thieves who tell the truth are as many as the bunserals who tell the lies". How many at most are always telling the truth?
+
+**Answer:** 2010
+[[src_gs_2011_squadre__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Ecolier (finale nazionale) — Quesito E4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_finale__QE4
 parent: src_kangourou_2006_ecolier_finale
 competition: Kangourou 2006 - Ecolier (finale nazionale)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione che sincero e bugiardo possono dire*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Io dico la verita
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ENJjl4aQcW623JJ5_e3uB1g4bMks6Vti/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Claim that the truthful and the liar can say
+
+> Arturo always tells the truth, while Bernardo always lies. Find a statement that both of you can make.
+
+**Answer:** Io dico la verita
+[[src_kangourou_2006_ecolier_finale__QE4]]

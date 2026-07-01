@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f3__Q05
 parent: src_obm_2015_n1_f3
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle areas with midpoint, squares built on sides, and nested squares figure*
 
@@ -52,3 +55,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A4n9VY8yk1SWcaPg0PlLbiBARNe-p_1v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Zoni triangolari con punto medio, quadrati costruiti su lati e quadrati incastonati *
+
+> a) Il punto $M$ appartiene al lato $BC$ del triangolo $ABC$ in modo tale che $BM = MC$. Se l'area del triangolo $AMC$ è uguale a $5\text{ cm}^2$, qual è l'area del triangolo $ABC$?
+> 
+> b) Su ciascun lato di un triangolo di superficie $10\text{ cm}^2$, è stato costruito un quadrato utilizzando un vertice del triangolo e due vertici dei quadrati, come mostrato alla Figura 1. Poi i quadrati sono stati rimossi e ciascuno dei triangoli costruiti utilizzando un lato del triangolo iniziale e due vertici dei quadrati sono stati ruotati $180^\circ$ circa il punto medio del lato corrispondente, per coincidere con quel lato del triangolo iniziale, come mostrato nella Figura 2. Qual è l'area della figura formata dai quattro triangoli?
+> 
+> c) Nella figura seguente, ci sono quadrati $ABCD$, $EFGH$, $CHIJ$, $LDJM$ e $JGON$. È noto che < MSK5/> cm, < MSK6/> cm, < MSK7/> cm e < MSK8/> cm. Qual è l'area del triangolo $MNJ$?
+
+![[src_obm_2015_n1_f3__Q05.png]]
+
+[[src_obm_2015_n1_f3__Q05]]

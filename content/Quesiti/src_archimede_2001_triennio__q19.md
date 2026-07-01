@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Triennio — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_triennio__Q19
 parent: src_archimede_2001_triennio
 competition: Giochi di Archimede 2001 - Triennio
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo equilatero dato perimetro parallelogramma*
 
@@ -57,9 +60,48 @@ tags:
 > - **(B)** √ 3
 > - **(C)** 4
 > - **(D)** 6
-> - **(E)** 2 √ 3. A B C F E D
+> - **(E)** 2 √ 3.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Equilateral triangle area given parallelogram perimeter*
+
+![[src_archimede_2001_triennio__prob19.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (4,0);
+  \coordinate (C) at (2,3.4641);
+  \coordinate (F) at (2,0);
+  \coordinate (D) at (1,1.7321);
+  \coordinate (E) at (3,1.7321);
+  \draw (A)--(B)--(C)--cycle;
+  \draw (D)--(F)--(E);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above] at (C) {$C$};
+  \node[below] at (F) {$F$};
+  \node[left] at (D) {$D$};
+  \node[right] at (E) {$E$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Since the perimeter of the FECD parallelogram is 4, the area of the ABC equilateral triangle is equal to:
+>
+> - **(A)** 8
+> - **(B)** √ 3
+> - **(C)** 4
+> - **(D)** 6
+> - **(E)** 2 √ 3.
+
+[[src_archimede_2001_triennio__Q19]]

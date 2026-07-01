@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2012 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2012__Q04
 parent: src_cn_cmo_2012
 competition: China Mathematical Olympiad 2012
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For f(x)=(x+a)(x+b) and nonnegative x_i summing to 1, maximize the sum over pairs of min{f(x_i),f(x_j)}.*
 
@@ -48,3 +51,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per f(x)=(x+a)(x+b) e x_i non negativi sommati a 1, massimizzare la somma su coppie di min{f(x_i),f(x_j)}.*
+
+> Se $f(x) = (x+a)(x+b)$ viene dato un numero reale positivo $a, b$, $n \ge 2$ è un intero dato. Per i numeri reali non negativi $x_1, x_2, \ldots, x_n$ che soddisfano $x_1 + x_2 + \cdots + x_n = 1$, trovare il massimo di $F = \sum_{1 \le i < j \le n} \min\{f(x_i), f(x_j)\}$.
+
+**Risposta:** $\dfrac{n-1}{2}\left(\dfrac{1}{n}+a+b+nab\right)$
+[[src_cn_cmo_2012__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1995 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1995__Q03
 parent: src_rmo_1995
 competition: Regional Mathematical Olympiad 1995
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Among any 18 consecutive 3-digit numbers, one is divisible by sum of its digits*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18d_A9jRTrt0hHchaSE4JEb6g0MGjIeh6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tra tutti i 18 numeri a 3 cifre consecutivi, uno è divisibile per la somma delle sue cifre*
+
+> Prove che tra tutti i numeri $18$ di $3$ ci sono almeno un numero divisibile dalla somma delle sue cifre.
+
+[[src_rmo_1995__Q03]]

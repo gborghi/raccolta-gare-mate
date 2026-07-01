@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2022 — Nível 3 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2022_n3_fx__Q01
 parent: src_obm_2022_n3_fx
 competition: Olimpíada Brasileira de Matemática 2022 — Nível 3 — Fase x
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Stone-pile game: prove final pile count is invariant*
 
@@ -49,3 +52,19 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zz_BBn8K4_LsZ6QfCiVpK3gqOIlQZ9ly/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di pile di pietra: dimostra che il numero finale di pile è invariante*
+
+> Un gioco per una persona ha le seguenti regole: inizialmente ci sono dieci pile di pietre, rispettivamente $1, 2, 3, \ldots, 10$ pietre. Una mossa consiste nell'esecuzione di una delle due operazioni seguenti:
+> 
+> (i) Scegliere due pile, ciascuna con almeno due pietre, fonderele e poi aggiungere altre due pietre alla nuova pila.
+> 
+> (ii) Scegliere una pila con almeno 4 pietre, prenderne due e dividerla in due pile, con il numero di pietre nelle due nuove pile scelte dal giocatore.
+> 
+> La partita finisce quando non si può fare nessuna mossa. Mostrare che il numero di pile con esattamente una pietra alla fine del gioco è sempre lo stesso, indipendentemente dal modo in cui le mosse sono fatte.
+
+[[src_obm_2022_n3_fx__Q01]]

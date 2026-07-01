@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q26
 parent: src_kangourou_2016_marzo_benjamin
 competition: Kangourou 2016 gara 17 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *la sesta*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1nld6l3RD6emhTglIXueL7F2OJGTBOKRG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>the sixth< MSK1/>
+
+![[src_kangourou_2016_marzo_benjamin__prob26.png]]
+
+> A cube was composed by adjoining 8 cubes of equal sides, some white and some black. Five of the faces of the cube are shown in the figure. Which of the following is the sixth?
+>  
+> A) B)
+> 	
+> C) D) E)
+
+**Answer:** D
+[[src_kangourou_2016_marzo_benjamin__Q26]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q01
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del quadrilatero formato da sentinelle su triangoli equilateri*
 
@@ -65,3 +68,36 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 5971
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the quadrilateral formed by sentinels on equilateral triangles*
+
+![[src_cesenatico_2004_squadre__prob1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (2,0);
+  \coordinate (C) at (2,2);
+  \coordinate (D) at (0,2);
+  \coordinate (Tb) at (1,-1.732);
+  \coordinate (Tr) at (3.732,1);
+  \coordinate (Tt) at (1,3.732);
+  \coordinate (Tl) at (-1.732,1);
+  \draw (A)--(B)--(C)--(D)--cycle;
+  \draw (A)--(Tb)--(B);
+  \draw (B)--(Tr)--(C);
+  \draw (C)--(Tt)--(D);
+  \draw (D)--(Tl)--(A);
+\end{tikzpicture}
+\end{document}
+```
+
+> The palace of Herrovaccio, king of Franquvia, has a square plan covering an area of 1600 square miles. Four sentinels each guard one side of the palace, arranged as in the figure (the sentinels form four equilateral triangles with the sides of the palace). What is the area (in square miles) of the quadrilateral topped by the four sentinels?
+
+**Answer:** 5971
+[[src_cesenatico_2004_squadre__Q01]]

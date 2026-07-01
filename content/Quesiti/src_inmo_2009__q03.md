@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2009 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2009__Q03
 parent: src_inmo_2009
 competition: Indian National Mathematical Olympiad 2009
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real x satisfying [x^2+2x]=[x]^2+2[x]*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YPNtVo-CAi9FgLmbWRMzeSPRIJy9mPVu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le x reali che soddisfano [x^2+2x]=[x]^2+2[x]*
+
+> Trova tutti i numeri reali $x$ in modo tale che $$[x^2 + 2x] = [x]^2 + 2[x].$$ (Qui $[x]$ indica il più grande numero intero non superiore a $x$.)
+
+[[src_inmo_2009__Q03]]

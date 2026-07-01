@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q11
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti mentitori fra i 12 (dichiarazioni)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many liars out of 12 (statements) *
+
+> The inhabitants of an island are divided into liars (people who always lie) or truthful (people who always tell the truth). One day, 12 residents, both honest and lying, gather together and make some statements. Two of them say:  Exactly two of us 12 are liars The other four say, "Exactly four of us 12 are liars". The remaining six say, "Exactly six of us 12 are liars". How many liars are there among those 12? A) 2                 B) 4                  C) 6                D) 8                 E) 10
+
+**Answer:** C
+[[src_kangourou_2007_junior_marzo__Q11]]

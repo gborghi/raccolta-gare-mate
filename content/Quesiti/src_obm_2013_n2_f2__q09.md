@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f2__Q09
 parent: src_obm_2013_n2_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find largest angle of triangle given midpoint and angle conditions*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jz8AX5epqRi_4AzCthzju1jrj_ZupO7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'angolo più grande del triangolo dato il punto medio e le condizioni di angolo*
+
+> $M$ sia il punto medio del segmento $AC$ nel triangolo $ABC$. Se $\angle ABM = 2\,\angle BAM$ e $BC = 2 \cdot BM$, determinare la misura dell'angolo più grande del triangolo $ABC$.
+
+[[src_obm_2013_n2_f2__Q09]]

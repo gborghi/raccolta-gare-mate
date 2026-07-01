@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - semifinale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet_semifinale__Q07
 parent: src_kangourou_2021_cadet_semifinale
 competition: Kangourou 2021 Cadet - semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma 2+5+8+...+2021*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total amount of the loan.
+
+> (5 points) What is the sum of 2 + 5 + 8 + ... + 2021? A) 681750 B) 681751
+>  
+> C) 681752
+>  
+> D) 681753
+>      
+> E) 681754
+
+**Answer:** B
+[[src_kangourou_2021_cadet_semifinale__Q07]]

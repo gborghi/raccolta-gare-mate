@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f1__Q12
 parent: src_obm_2000_n2_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum cards to remove to guarantee three equal smallest digit-sums*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di carte da rimuovere per garantire tre uguali numeri più piccoli*
+
+> Una casella contiene carte $900$ numerate da $100$ a $999$. Le carte vengono tirate a caso (senza sostituzione) e la somma delle loro cifre viene registrata. Qual è il numero minimo di carte che deve essere rimosso dalla scatola per garantire che le tre carte sorte abbiano le stesse somme digitali?
+> 
+> A) $51$ \quad B) $52$ \quad C) $53$ \quad D) $54$ \quad E) $55$
+
+**Risposta:** C
+[[src_obm_2000_n2_f1__Q12]]

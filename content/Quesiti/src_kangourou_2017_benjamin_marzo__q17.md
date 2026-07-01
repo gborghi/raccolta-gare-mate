@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (gara marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q17
 parent: src_kangourou_2017_benjamin_marzo
 competition: Kangourou 2017 Benjamin (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Km percorsi giovedi, 2 km in piu al giorno, totale 70*
 
@@ -63,3 +66,23 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Km routes on Thursday, 2 km more per day, total 70*
+
+> Paul left on Monday for a 5-day mountain trip. Every day from Monday to Friday he walked two kilometers more than the previous day, running a total of 70 kilometers. How many miles did you walk on Thursday? A) 12
+> 	
+> B) 13
+> 	
+> C) 14
+> 	
+> D) 15
+> 	
+> E) 16 couch with 3 seats Couch with 2 seats Seat 220 cm 160 cm ? What is this ? 812 184
+>
+
+**Answer:** E
+[[src_kangourou_2017_benjamin_marzo__Q17]]

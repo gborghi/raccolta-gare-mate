@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2020-21 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2020-21_round2__Q02
 parent: src_bmo_2020-21_round2
 competition: British Mathematical Olympiad 2020-21 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tiling a square with two types of square tiles*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SEh6e0SuVOxbNt7sTRtb3XK9cGPbAmL5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tagliare un quadrato con due tipi di piastrelle quadrate*
+
+> Eliza ha una grande collezione di piastrelle $a \times a$ e $b \times b$ in cui $a$ e $b$ sono integri positivi. Lei organizza alcune di queste piastrelle, senza sovrapposizioni, per formare un quadrato di lunghezza laterale $n$. Provare che può coprire un altro quadrato di lunghezza laterale $n$ utilizzando solo uno dei suoi due tipi di piastrelle.
+
+[[src_bmo_2020-21_round2__Q02]]

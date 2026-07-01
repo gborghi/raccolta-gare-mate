@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_semifinale_c__Q04
 parent: src_cesenatico_2012_semifinale_c
 competition: Gara a Squadre Cesenatico 2012 - Semifinale C
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altra radice di x^2-bx+c=0 (b dispari, b|c)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0997
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Other roots of x^2-bx+c=0 (b is odd, b is odd) < MSK1/>
+
+> The Matrix actually the world as we know it has been over for a while. According to Zion's archives, in the actual year 2004, many generations ago, a computer network called Skynet became self-aware and enslaved mankind. Skynet was made up of 63 servers, numbered 1 to 63, each of which ran a number of virtual machines equal to the maximum exponent of a power of 2 dividing the factor of the number that marks it. How many virtual machines are there on Skynet?
+
+**Answer:** 0997
+[[src_cesenatico_2012_semifinale_c__Q04]]

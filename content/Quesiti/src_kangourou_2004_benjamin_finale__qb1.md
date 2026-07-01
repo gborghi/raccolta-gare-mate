@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin finale nazionale — Quesito B1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin_finale__QB1
 parent: src_kangourou_2004_benjamin_finale
 competition: Kangourou 2004 Benjamin finale nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Concludere famiglia dei pirati Martedi/Mercoledi*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Martedi sincero
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DTuTa9-8gf07gHbV5tJLp1dknhFcY163/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The family of the pirates ends Tuesday/Wednesday.
+
+> You are shipwrecked on the beach of Mirabilandia which is inhabited by two pirate families: that of the Sincere (who always tell the truth) and that of the Liars (who always lie). You meet two pirates by the name of Tuesday and Wednesday and you'd like to know for each of them which family they belong to. On Tuesday he says "we belong to two different families", but on Wednesday he says "it's not true!" What's your conclusion?
+
+**Answer:** Martedi sincero
+[[src_kangourou_2004_benjamin_finale__QB1]]

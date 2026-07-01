@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo24yq_yosen__Q08
 parent: src_jmo24yq_yosen
 competition: Japan Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For each n≤1000, count m≤1000 with floor(m/n) odd; find maximum count over all n*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 939
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per ogni n≤1000, contare m≤1000 con pavimento(m/n) odd; trovare il conteggio massimo su tutte le n*
+
+> Per gli integri positivi $m$ e $n$, $\left\lfloor \dfrac{m}{n} \right\rfloor$ indica il piano di $\dfrac{m}{n}$. Per un intero positivo fisso $n \le 1000$, $f(n)$ è il numero di interi positivi $m \le 1000$ per i quali $\left\lfloor \dfrac{m}{n} \right\rfloor$ è pari. Trova il valore massimo di $f(n)$ su tutti gli integri positivi $n \le 1000$.
+
+**Risposta:** 939
+[[src_jmo24yq_yosen__Q08]]

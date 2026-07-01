@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f1__Q25
 parent: src_obm_2012_n3_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Product of all entries in a 100x100 table of gcd(i,j) values*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Produzione di tutte le voci in una tabella di 100x100 di valori gcd(i,j) *
+
+> Esmeralda disegnò una tabella con 100 righe e 100 colonne e scrisse, nella riga $i$ e nella colonna $j$ della tabella, $\gcd(i, j)$. Ad esempio, ha scritto $\gcd(4, 6) = 2$ nella riga 4, colonna 6, e ha scritto $\gcd(15, 10) = 5$ nella riga 15, colonna 10. Qual è il prodotto di tutti i numeri della tabella?
+> 
+> **A)** $100!^{99}$ $\quad$ **B)** $100!^{100}$ $\quad$ **C)** $100!^{101}$ $\quad$ **D)** $\text{mmc}(1,2,3,\ldots,100)^{99}$ $\quad$ **E)** $\text{mdc}(1,2,3,\ldots,100)^{99}$
+
+[[src_obm_2012_n3_f1__Q25]]

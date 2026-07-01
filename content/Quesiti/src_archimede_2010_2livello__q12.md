@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_2livello__Q12
 parent: src_archimede_2010_2livello
 competition: Archimede Gara 2° livello 2010 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo grado di p(x-1)-3p(x)+3p(x+1)-p(x+2)*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most degree of p(x-1)-3p(x)+3p(x+1)-p(x+2)*
+
+> Whether p(x) is a polynomial of degree 2010. What is the maximum degree that the polynomial p(x −1) −3p(x) + 3p(x + 1) −p(x + 2) can have?
+>
+> - **(A)** It's always the zero polynomial.
+> - **(B)** 0
+> - **(C)** 1
+> - **(D)** 2007
+> - **(E)** 2010 Problems with a numerical answer  5 points
+
+**Answer:** D
+[[src_archimede_2010_2livello__Q12]]

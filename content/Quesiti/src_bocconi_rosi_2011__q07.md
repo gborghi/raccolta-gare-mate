@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q07
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto area quadrato scuro su quadrato grande*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{5}{9}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rate of area dark square to large square*
+
+> **Express with a fraction the ratio of the area of the dark square to that of the whole square.**
+
+![[src_bocconi_rosi_2011__Q07.png]]
+
+**Answer:** $\frac{5}{9}$
+[[src_bocconi_rosi_2011__Q07]]

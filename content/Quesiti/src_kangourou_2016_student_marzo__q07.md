@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q07
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo interi diversi con somme uguali sugli otto triangoli*
 
@@ -54,3 +57,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of integers with equal sums over eight triangles*
+
+![[src_kangourou_2016_student_marzo__prob7.png]]
+
+> Diana wants to write an integer in each of the nine circles of the diagram in the figure so that, for each of the eight smaller triangles formed by the diagram segments, the sum of the three numbers that appear in the vertices is always the same. What's the maximum number of different integers that Diana can use? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 5
+> 	
+> E) 8
+
+**Answer:** C
+[[src_kangourou_2016_student_marzo__Q07]]

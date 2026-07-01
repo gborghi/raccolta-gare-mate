@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q10
 parent: src_kangourou_2019_junior_semifinale_a
 competition: Kangourou Coppa Junior squadre 2019 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di scegliere n con media maggiore di n*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1009
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qvyGTt8fMV3U7A9REDKvAdJtpkkgdYbx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode to choose n with an average greater than n*
+
+> In a single day there are 2019 cards, each of which has a different positive integer from 1 to 2019. We want to add a cardboard on which a positive integer n is written so that the arithmetic mean of the numbers written on the cards now in the cardboard is greater than n. How many different ways can we choose n?
+
+**Answer:** 1009
+[[src_kangourou_2019_junior_semifinale_a__Q10]]

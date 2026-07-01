@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Biennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_biennio__Q15
 parent: src_archimede_2010_biennio
 competition: Giochi di Archimede 2010 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero cifre di 112233445566778899 diviso 11*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The number of digits 112233445566778899 divided by 11*
+
+> How many digits does the number (112233445566778899)/11 have?
+>
+> - **(A)** 9,
+> - **(B)** 13,
+> - **(C)** 17,
+> - **(D)** 19,
+> - **(E)** 23.
+
+**Answer:** C
+[[src_archimede_2010_biennio__Q15]]

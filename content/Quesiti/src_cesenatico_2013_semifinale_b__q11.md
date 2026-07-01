@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_semifinale_b__Q11
 parent: src_cesenatico_2013_semifinale_b
 competition: Gara a Squadre Cesenatico 2013 - Semifinale B
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Riassegnare nomi poligoni 3-9 senza punti fissi*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5849
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Reassign polygon names 3-9 without fixed points*
+
+> HardyDardy's vocabulary When Root meets that old head of HardyDardy, he says spooky: The octagon has twice the sides of the square. The hexagon has more sides than the hexagon, which in turn has more than the pentagon. The number of sides of the hexagon is the average between that of the triangle and that of the ennagone. Root immediately agrees, but a moment later HardyDardy explains that he swapped the names of the polygons from 3 to 9 sides so that no polygon matches his real name. Help Roots figure out how HardyDardy changed the words. The number of sides of a triangle, pentagon, hexagon, anagon is given as a sequential answer.
+
+**Answer:** 5849
+[[src_cesenatico_2013_semifinale_b__Q11]]

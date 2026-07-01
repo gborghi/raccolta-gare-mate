@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2019 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_printemps__Q08
 parent: src_canimath_2019_printemps
 competition: Coupe Animath Printemps 2019
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *m x n blue/red grid; maximize rows with blue majority plus columns with red majority*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*m x n griglia blu/rosso; massimizzare le righe con maggioranza blu più le colonne con maggioranza rossa*
+
+> $m$ e $n$ siano integri con $m \geq 3$. In una griglia $m \times n$, ogni quadrato unitario è di colore blu o rosso. $A$ è il numero di righe in cui i quadrati blu sono in maggioranza, e $B$ il numero di colonne in cui i quadrati rossi sono in maggioranza.
+> 
+> Qual è il valore più grande possibile di $A + B$?
+
+[[src_canimath_2019_printemps__Q08]]

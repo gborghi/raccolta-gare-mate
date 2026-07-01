@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q20
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -35,6 +36,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *f(n)=remainder of n^n divided by 7; smallest period T*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 42
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*f(n) = rimanente di n^n diviso per 7; periodo più piccolo T*
+
+> $f$ sia la funzione definita da $$f(n) = \text{remainder when } n^n \text{ is divided by } 7,$$ per tutti gli integri positivi $n$. Trova il numero intero positivo $T$ più piccolo tale che $f(n + T) = f(n)$ per tutti i numeri interi positivi $n$.
+
+**Risposta:** 42
+[[src_ioqm_2025_sep07__Q20]]

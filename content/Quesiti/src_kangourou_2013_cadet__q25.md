@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q25
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi distinti uscita di quattro auto dalla rotonda*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distinct modes of exit of four cars from the roundabout*
+
+![[src_kangourou_2013_cadet__prob25.png]]
+
+> Four cars enter a roundabout at the same time, each from different entrances, as shown in the figure. Each car makes less than a full lap around the round and each car comes out of a different exit from each other. How many different ways can this happen? A) 9           B) 12          C) 15          D) 24           E) 81
+
+**Answer:** A
+[[src_kangourou_2013_cadet__Q25]]

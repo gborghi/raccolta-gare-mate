@@ -1,6 +1,7 @@
 ---
 title: IMO 2023 (LXIV International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2023__Q03
 parent: src_imho_2023
 competition: IMO 2023 (LXIV International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Infinite sequences of positive integers admitting a polynomial recurrence*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Infinite sequences of positive integers admitting a polynomial recurrence*
+
+> For each integer $k \ge 2$, determine the infinite sequences of positive integers $a_1, a_2, \ldots$ for which there exists a polynomial $P$ of the form $P(x) = x^k + c_{k-1}x^{k-1} + \cdots + c_1 x + c_0$, where $c_0, c_1, \ldots, c_{k-1}$ are non-negative integers, such that $$P(a_n) = a_{n+1} a_{n+2} \cdots a_{n+k}$$ for each integer $n \ge 1$.
+
+[[src_imho_2023__Q03]]

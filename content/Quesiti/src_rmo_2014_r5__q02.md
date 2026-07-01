@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Region 5 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_r5__Q02
 parent: src_rmo_2014_r5
 competition: Regional Mathematical Olympiad 2014
@@ -36,6 +37,8 @@ tags:
   - regione/r5
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive integer values a and b given AP and GP conditions on roots*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mRBKVIA0pCiNVttsOkp2tVNwtQ-X0vyv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i valori interi positivi a e b con le condizioni AP e GP sulle radici*
+
+> Le radici dell'equazione $$x^3 - 3ax^2 + bx + 18c = 0$$ formano una progressione aritmetica non costante e le radici dell'equazione $$x^3 + bx^2 + x - c^2 = 0$$ formano una progressione geometrica non costante. Dato che $a$, $b$, $c$ sono numeri reali, trovare tutti i valori integrali positivi $a$ e $b$.
+
+[[src_rmo_2014_r5__Q02]]

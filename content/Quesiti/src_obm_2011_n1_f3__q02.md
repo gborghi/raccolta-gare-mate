@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f3__Q02
 parent: src_obm_2011_n1_f3
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum number of equal small cubes to add to a 2 cm red cube to obtain a cube of volume (12/5)^3.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GU1DCqwGiQ-ufXg0UgJf2hRpS3A6ZEuR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di piccoli cubetti uguali da aggiungere a un cubo rosso di 2 cm per ottenere un cubo di volume (12/5)^3.*
+
+> Abbiamo un cubo rosso con bordo $2$ cm. Qual è il numero minimo di piccoli cubetti uguali che dobbiamo unire a quello rosso per ottenere un cubo di volume $\left(\frac{12}{5}\right)^3$ cm$^3$?
+
+[[src_obm_2011_n1_f3__Q02]]

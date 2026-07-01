@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2004 - Gara Biennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2004_biennio__Q10
 parent: src_archimede_2004_biennio
 competition: Giochi di Archimede 2004 - Gara Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Costruzione/inscrizione su circonferenza, raggi a,b*
 
@@ -61,3 +64,41 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Construction/inscription on circumference, beams a,b*
+
+![[src_archimede_2004_biennio__prob10.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.8]
+  \def\R{2.5}
+  \def\r{2.0}
+  \def\yy{-1.7}
+  \draw (0,0) circle (\R);
+  \draw (0,0) circle (\r);
+  \fill (0,0) circle (1.2pt); \node[above] at (0,0.05) {$O$};
+  \pgfmathsetmacro\xa{sqrt(\R*\R-\yy*\yy)}
+  \pgfmathsetmacro\xc{sqrt(\r*\r-\yy*\yy)}
+  \draw (-\xa,\yy) -- (\xa,\yy);
+  \fill (-\xa,\yy) circle (1.2pt); \node[below] at (-\xa,\yy) {$B$};
+  \fill (\xa,\yy) circle (1.2pt);  \node[below] at (\xa,\yy) {$A$};
+  \fill (-\xc,\yy) circle (1.2pt); \node[below] at (-\xc,\yy) {$D$};
+  \fill (\xc,\yy) circle (1.2pt);  \node[below] at (\xc,\yy) {$C$};
+\end{tikzpicture}
+\end{document}
+```
+
+> How long is the rope knowing that the radii of the two concentric circles are 5 meters and 4 meters? (see figure)
+>
+> - **(A)** $2\sqrt{2}$ m
+> - **(B)** $2\sqrt{3}$ m
+> - **(C)** $3\sqrt{3}$ m
+> - **(D)** $4\sqrt{3}$ m
+> - **(E)** depends on the slope of the rope
+
+[[src_archimede_2004_biennio__Q10]]

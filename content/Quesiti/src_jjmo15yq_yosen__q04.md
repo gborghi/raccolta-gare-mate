@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo15yq_yosen__Q04
 parent: src_jjmo15yq_yosen
 competition: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Line through P on AB bisecting both a square's and a triangle's area; find AP*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $3-\sqrt{5}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Linea attraverso P su AB che divide sia l'area di un quadrato che di un triangolo; trovare AP*
+
+> Let $ABCD$ essere un quadrato di lunghezza laterale $2$, e let $E$ essere il punto simmetrico a $B$ rispetto a $C$ (in modo che $C$ sia il punto medio del segmento $BE$). Una linea $l$ interseca il lato $AB$ al punto $P$. Quando la linea $l$ suddivide l'area del quadrato $ABCD$ e suddivide anche l'area del triangolo $CDE$, si trova la lunghezza del segmento $AP$.
+
+**Risposta:** 3-\sqrt{5}
+[[src_jjmo15yq_yosen__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f1__Q10
 parent: src_obm_2007_n2_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of ways to write 2007 as sum of consecutive positive integers*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di modi per scrivere il 2007 come somma di numeri interi positivi consecutivi*
+
+> In quanti modi possiamo scrivere il numero $2007$ come somma di due o più numeri interi positivi consecutivi?
+> 
+> (A) 1 $\quad$ (B) 2 $\quad$ (C) 3 $\quad$ (D) 4 $\quad$ (E) 5
+
+**Risposta:** C
+[[src_obm_2007_n2_f1__Q10]]

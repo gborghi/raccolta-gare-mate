@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre semifinale turno A — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q12
 parent: src_kangourou_2012_squadre_semifinale
 competition: Kangourou 2012 squadre semifinale turno A
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Visitatori dopo Paolo per numero a cifre distinte*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 38
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Visitors after Paul by number of digits *
+
+> A very visited park At the entrance to a park there is a turntable that counts the entrances, since its foundation. After Paul's entrance, the turret marks 31879564, which is a number made up of numbers all different from each other: the next time the number of entrances will still be made up of numbers all different from each other, how many visitors will have entered after Paul?
+
+**Answer:** 38
+[[src_kangourou_2012_squadre_semifinale__Q12]]

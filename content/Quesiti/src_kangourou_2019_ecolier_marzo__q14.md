@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q14
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso di un bicchiere riempito a meta d acqua*
 
@@ -55,3 +58,17 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Weight of a glass filled with water < MSK1/>
+
+![[src_kangourou_2019_ecolier_marzo__prob14.png]]
+
+> A full glass of water weighs 400 grams. The same empty glass weighs 100 grams. How many grams does a glass of half-filled water weigh? A) 150 B) 200 C) 225 D) 300 E) A number different from the previous 12 kg 20 kg + ? 400 g 100 g ?
+>
+
+**Answer:** E
+[[src_kangourou_2019_ecolier_marzo__Q14]]

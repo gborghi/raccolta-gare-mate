@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre__Q04
 parent: src_kangourou_2022_kangourou_squadre
 competition: Kangourou Squadre 2022 Kangourou Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezza scatola dato nastro regalo*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 0105
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kPr4pxe9JLW6PscULmAS1patprSg1xRs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Height of box given gift tape< MSK1/>
+
+![[src_kangourou_2022_kangourou_squadre__prob4.png]]
+
+> The gift in the picture shows a gift package tied with a ribbon. The box is in the shape of a rectangular parallel-piped: the length and width of the base differ by 5.5 cm, the height is shorter by 5 cm than the smaller of the two dimensions of the base. The part of the tape used for the knot and filament is a total length of 47 cm and the total length of the tape is 162 cm. What is the height of the box in millimetres?
+
+**Answer:** 0105
+[[src_kangourou_2022_kangourou_squadre__Q04]]

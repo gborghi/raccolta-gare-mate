@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q14
 parent: src_kangourou_2008_cadet_marzo
 competition: Kangourou 2008 - Cadet (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro rettangolo iniziale (tagli Tom/Jerry)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Initial rectangular perimeter (sizes Tom/Jerry) *
+
+> Tom and Jerry each have a rectangle. The two rectangles are the same. Everyone cuts their own. Tom gets two rectangles each of which has a perimeter of 40 cm, while Jerry gets two rectangles each of which has a perimeter of 50 cm. What was the perimeter of each of the initial rectangles? A) 40 cm B) 50 cm C) 60 cm D) 80 cm       E) 90 cm
+
+**Answer:** C
+[[src_kangourou_2008_cadet_marzo__Q14]]

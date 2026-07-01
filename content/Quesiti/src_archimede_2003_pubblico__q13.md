@@ -1,6 +1,7 @@
 ---
 title: Archimede 2003 - Gara del Pubblico (Cesenatico) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_pubblico__Q13
 parent: src_archimede_2003_pubblico
 competition: Archimede 2003 - Gara del Pubblico (Cesenatico)
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *problema 13*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the main reason for the change in the price of the product.
+
+> Determine the telephone prefix of the city of Matelandia, knowing that it is the maximum natural number of 4 digits (in decimal form) having the following properties: a) The sum of this number and its palindrome is 7216 b) The sum of the digits of this number is 17 c) The numbers at the ends differ by more than 4.
+
+[[src_archimede_2003_pubblico__Q13]]

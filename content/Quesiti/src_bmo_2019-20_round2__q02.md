@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2019-20 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2019-20_round2__Q02
 parent: src_bmo_2019-20_round2
 competition: British Mathematical Olympiad 2019-20 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Characterise point sets where every triangle has equal circumradius*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T-GV4Q03Vt1FYIXg022mhWTn6UUh6dcK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sett di punti di caratterizzazione in cui ogni triangolo ha uguale radius di circonferenza*
+
+> Descrivere tutte le collezioni $S$ di almeno quattro punti del piano in modo tale che non ci siano tre punti collineari e in modo tale che ogni triangolo formato da tre punti di $S$ abbia lo stesso raggio di circonda.
+> 
+> (Il circonradio di un triangolo è il raggio del cerchio che attraversa tutti e tre i suoi vertici.)
+
+[[src_bmo_2019-20_round2__Q02]]

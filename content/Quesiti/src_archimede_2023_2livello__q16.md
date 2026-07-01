@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_2livello__Q16
 parent: src_archimede_2023_2livello
 competition: Archimede Gara di Febbraio 2023 - 2° livello
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri doppiamente reversibili, tipi 2 e 3*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Doubly reversible numbers, types 2 and 3*
+
+> A positive integer n is said to be twice reversible of type l if there are two consecutive bases b and b + 1 such that n is represented by numeric palindromes on both base b and base b + 1. For example, 104 is double reversible type 3 because 10410 = 4045 = 2526. (a) Demonstrate that there are no double reversible type 2 numbers. (b) Demonstrate that there are infinitely many double reversibles of type 3.
+
+[[src_archimede_2023_2livello__Q16]]

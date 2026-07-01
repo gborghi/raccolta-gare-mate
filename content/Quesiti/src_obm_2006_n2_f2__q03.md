@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f2__Q03
 parent: src_obm_2006_n2_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of quadrilateral XYBC from right triangle ABC with special points*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di XYBC quadrilaterale dal triangolo rettangolo ABC con punti speciali*
+
+> $ABC$ sia un triangolo rettangolo con angolo retto a $A$. Considerare i punti $M$ e $N$ sull'ipotenusa $BC$ in modo tale che $CN = NM = MB$. I punti $X$ e $Y$ sono tali da $XA = AM$ e $YA = AN$. Determinare la superficie del quadrilaterale $XYBC$, dato che il triangolo $ABC$ ha una superficie $12\text{ cm}^2$.
+
+![[src_obm_2006_n2_f2__Q03.png]]
+
+[[src_obm_2006_n2_f2__Q03]]

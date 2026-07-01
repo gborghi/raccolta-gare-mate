@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q10
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura angolo QPR (triangoli isosceli)*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*QPR angle measurement (isosceles triangles) *
+
+![[src_kangourou_2009_cadet_marzo__prob10.png]]
+
+> The Q, R and S points shown in the figure are aligned, the QPS angle is 12 degrees and the PQ, PS and RS segments are the same length. How many degrees does the QPR angle measure? A) 60 B) 54 C) 42 D) 84 E) 36 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** B
+[[src_kangourou_2009_cadet_marzo__Q10]]

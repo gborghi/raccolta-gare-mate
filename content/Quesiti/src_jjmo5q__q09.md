@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2007 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo5q__Q09
 parent: src_jjmo5q
 competition: Japan Junior Mathematical Olympiad 2007
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *19×19 grid: min n so any 9 removed cells leave ≤n good rectangles*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*19×19 griglia: min n in modo che ogni 9 cellule rimosse lasci ≤n buoni rettangoli*
+
+> C'è una griglia $19 \times 19$ di quadrati unitari. Chiamare un rettangolo i cui quattro lati si trovano lungo le linee della griglia un "buono rettangolo". Trova il numero intero positivo più piccolo $n$ che soddisfa la seguente condizione:
+> 
+> \textbf{Condition:} Non importa quali $9$ unità quadrati vengono rimossi dalla griglia, la regione rimanente può sempre essere suddivisa in almeno $n$ buoni rettangoli.
+
+[[src_jjmo5q__Q09]]

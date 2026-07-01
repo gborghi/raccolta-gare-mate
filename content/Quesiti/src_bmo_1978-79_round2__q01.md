@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1978-79 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1978-79_round2__Q01
 parent: src_bmo_1978-79_round2
 competition: British Mathematical Olympiad 1978-79 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality for four distinct positive reals with interleaving condition*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U8W5jKJlcOf3kTSHVPTJynkD6IKK2Jg5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rimprovare la disuguaglianza di quattro reali positivi distinti con condizione di interlascio*
+
+> $a$, $b$, $c$, $d$ sono diversi numeri reali positivi. Prove che se almeno uno dei numeri $a$ e $b$ si trova tra i numeri $c$ e $d$, o almeno uno dei numeri $c$ e $d$ si trova tra i numeri $a$ e $b$, allora $$(*) \quad \sqrt{(a+b)(c+d)} > \sqrt{ac} + \sqrt{bd}.$$ dimostra altrimenti che i quattro numeri possono essere scelti in modo tale che $(*)$ sia falso.
+
+[[src_bmo_1978-79_round2__Q01]]

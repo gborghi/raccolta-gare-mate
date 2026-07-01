@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q13
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *distanza dal centro, somma dei quadrati*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1024
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* distance from the centre, sum of squares*
+
+> **The octagonal square **  45 points
+> 
+> The square in front of Professor Abacus' house is a regular octagon. Knowing that the distance between the centre of the square and any of the vertices is 10 metres, the first four digits of the product of the measurements (in metres) of the segments connecting $A$ with all the other vertices are calculated.
+
+**Answer:** 1024
+[[src_archimede_2002_squadre__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1990 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1990_r3__Q01
 parent: src_pol_1990_r3
 competition: Olimpiade Matematica Polacca 1990 — Round 3
@@ -30,6 +31,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all functions f:R->R satisfying a given functional equation.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SP_o4XBA9t_Mr20tlsjjsNkpPD2auONv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le funzioni f:R->R che soddisfano una determinata equazione funzionale.*
+
+> Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano $$(x - y)f(x + y) - (x + y)f(x - y) = 4xy(x^2 - y^2).$$
+
+[[src_pol_1990_r3__Q01]]

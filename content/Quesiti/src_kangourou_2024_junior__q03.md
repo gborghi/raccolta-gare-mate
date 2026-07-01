@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q03
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale vertice del dado ha il valore piu alto*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which of the vertices of the dice has the highest value*
+
+![[src_kangourou_2024_junior__prob3.png]]
+
+> The figure shows a regular dice: all scores from 1 to 6 appear, one per face, and the sum of the scores on opposite faces is always 7. For each vertex of the cube, let's say its value is the sum of the points that appear on the three faces that compete with it: for example, the value of the vertex P is 1 + 2 + 3 = 6. Of the values of the Q, R and S vertices indicated, which is the highest? A) 7
+> 	
+> B) 9
+> 	
+> C) 10
+> 	
+> D) 11
+> 	
+> E)12
+
+**Answer:** D
+[[src_kangourou_2024_junior__Q03]]

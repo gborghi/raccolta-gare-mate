@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q12
 parent: src_archimede_2025_squadre_finale
 competition: Gara a Squadre Nazionale 2025 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma medie 2025,abcd minimali con 10000 giudici*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2000
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mean sum of 2025,abcd minimum with 10000 judges*
+
+> Time-traveling fools, φ-neas and Ferbmat decide to build an entire beach... In the garden! And with a beach available, what's better than a surfing race? The φ-neas surfing test is evaluated by 10,000 judges, each of whom expresses a vote that is a positive integer. The arithmetic mean of the grades obtained is M = 2025,abcd where a, b, c, d are, in this order, the only decimal digits of M after the comma. φ-neas observes that if the judges had been fewer than 10000, the average could not have been equal to M. Both S the sum of all possible values of M and φ-neas could have obtained. How much is S worth? Part two: Oh, there you are, Perryodic!
+
+**Answer:** 2000
+[[src_archimede_2025_squadre_finale__Q12]]

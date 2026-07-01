@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_triennio__Q15
 parent: src_archimede_2011_triennio
 competition: Giochi di Archimede 2011 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo bugiardi tra quattro amici con dichiarazioni*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Most liars among four friends with statements
+
+> Each of our four friends, Anna, Erica, Lorenzo, and Joseph, always lies or always tells the truth. Anna says: Erica always lies; Erica says: Joseph always speaks the truth; Joseph says: Anna always thinks; finally Lorenzo says: Anna, Erica and Joseph always lie. How many, at most, lie all the time?
+>
+> - **(A)** 1,
+> - **(B)** 2,
+> - **(C)** 3,
+> - **(D)** 4,
+> - **(E)** None of the previous ones.
+
+**Answer:** C
+[[src_archimede_2011_triennio__Q15]]

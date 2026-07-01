@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2022 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_automne__Q07
 parent: src_canimath_2022_automne
 competition: Coupe Animath Automne 2022
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic sum of n positive reals strictly between 1 and n-1*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hAlr5oS_VPXWtAhgZvHeNt9W7CHb_zHz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa ciclica di n valori reali positivi strettamente compresi tra 1 e n-1*
+
+> $n \ge 3$ sia un numero intero rigorosamente positivo. Mostrare che per tutti i valori rigorosamente positivi $x_1, x_2, \ldots, x_n$, si ha la disuguaglianza: $$1 < \frac{x_1}{x_1 + x_2} + \frac{x_2}{x_2 + x_3} + \cdots + \frac{x_{n-1}}{x_{n-1} + x_n} + \frac{x_n}{x_n + x_1} < n - 1$$
+
+[[src_canimath_2022_automne__Q07]]

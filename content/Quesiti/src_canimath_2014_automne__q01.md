@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2014 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2014_automne__Q01
 parent: src_canimath_2014_automne
 competition: Coupe Animath Automne 2014
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest number of main dishes so every dinner in 2014 is distinct*
 
@@ -48,3 +51,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15vtKOtQa9ehL1Qp64ICOkTx6pQqg0n_e/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il minor numero di piatti principali quindi ogni cena nel 2014 è distinta*
+
+> Un ristorante offre tre dessert, e esattamente il doppio dei piatti iniziali rispetto ai piatti principali. Una cena consiste in un piatto iniziale, un piatto principale e un dessert. Qual è il numero minimo di piatti principali che il ristorante deve offrire affinché un cliente possa mangiare una cena diversa ogni sera del 2014?
+
+**Risposta:** 10
+[[src_canimath_2014_automne__Q01]]

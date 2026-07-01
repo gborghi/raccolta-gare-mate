@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2009__Q14
 parent: src_bocconi_squadre_2009
 competition: Gara a Squadre 2009
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Carte da girare per verificare l'affermazione 1↔A di Sergio*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Sara deve girare le carte 1-A-2-Z
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Turn card to verify claim 1↔A by Sergio*
+
+> Each of these cards bears a letter written on one side and a number on the other. Sergio tells his sister Sara that if a card has a 1 on one side, it necessarily has a A on the other and vice versa. Sara doesn't believe it and decides to check it out for herself. What cards does Sara have to play to make sure Sergio's statement is true?
+
+**Answer:** Sara deve girare le carte 1-A-2-Z
+[[src_bocconi_squadre_2009__Q14]]

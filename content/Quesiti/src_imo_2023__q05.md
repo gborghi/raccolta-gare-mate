@@ -1,6 +1,7 @@
 ---
 title: IMO 2023 papers — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2023__Q05
 parent: src_imo_2023
 competition: IMO 2023 papers
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo giapponese, max k cerchi rossi su ninja path*
 
@@ -40,3 +43,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Japanese triangle, max k red circles on ninja path
+
+![[src_imo_2023__prob5.png]]
+
+> It should be a positive integer. A Japanese *triangle* is composed of $1 + 2 + \cdots + n$ circles arranged in an equilateral triangular shape, so that for each $i = 1, 2, \ldots, n$, the $i$-eighth row contains exactly $i$ circles, exactly one of which is colored red. A *ninja path* in a Japanese triangle is a sequence of $n$ circles obtained starting from the top line, then descending repeatedly from a circle to one of the two circles immediately below it, and ending in the bottom line.
+> 
+> For $n$, find the largest integer $k$ such that in every Japanese triangle there is a ninja path containing at least $k$ red circles.
+
+[[src_imo_2023__Q05]]

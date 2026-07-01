@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q19
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante partite gioca ogni studente (doppi)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many games each student plays (doubles) *
+
+> Two schools challenge each other in tennis only in doubles. Each school is represented by five pupils: all possible pairs of pupils from the same school are formed and each pair from each school faces each other once. How many games does each student have to play? A) 10                B) 20                 C) 30                  D) 40                   E) 50
+
+**Answer:** D
+[[src_kangourou_2007_junior_marzo__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q22
 parent: src_kangourou_2019_benjamin_marzo
 competition: Kangourou 2019 Gara di Marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti grammi pesano le nove biglie (bilance)*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1mCVu8mcZWozh4A9IixxiUAmKQbLsElwm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many grams weigh the nine bags (balance sheet) < MSK1/>
+
+![[src_kangourou_2019_benjamin_marzo__prob22.png]]
+
+> The two figures show you two balances that are balanced by two weights, one of 6 and the other of 30 grams, added to the plates on the right. The black bulbs all have the same weight, and so do the three white bulbs (obviously different from the black bulbs). How many grams do all nine balls weigh together? A) 100 B) 99
+> 	
+> C) 96 D) 94
+> 	
+> E) 90
+
+**Answer:** E
+[[src_kangourou_2019_benjamin_marzo__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q17
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo n con intervallo contenente almeno 4 interi*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Little n with an interval containing at least 4 integers< MSK1/>
+
+> What is the smallest nonnegative integer n such that the interval of extremes (n + 8)/2 and (2n + 14)/3, extremes included, contains at least four integers? A) 19
+> 	
+> B) 18
+> 	
+> C) 17
+> 	
+> D) 16 E) None of the above.
+
+**Answer:** E
+[[src_kangourou_2023_student__Q17]]

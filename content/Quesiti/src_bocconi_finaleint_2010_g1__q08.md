@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 1) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g1__Q08
 parent: src_bocconi_finaleint_2010_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Riempire i sei dischi della stella con i numeri da 1 a 6 dati i totali dei collegamenti.*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** figura: dischi 1, 2, 4, 5, 6, 3 (somme 11, 11, 17, 8, 9, 15)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fill the six disks of the star with the numbers 1 to 6 giving the total of the links.*
+
+> The six disks of this star contain the six numbers from $1$ to $6$. Next to each disk is written the sum of the numbers connected directly to that disk by a segment. Complete the star by writing the numbers on the disks. The sums indicated are $11$, $11$, $17$, $8$, $9$, $15$.
+
+![[src_bocconi_finaleint_2010_g1__Q08.png]]
+
+**Answer:** figura: dischi 1, 2, 4, 5, 6, 3 (somme 11, 11, 17, 8, 9, 15)
+[[src_bocconi_finaleint_2010_g1__Q08]]

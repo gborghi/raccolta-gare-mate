@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2023 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2023__Q03
 parent: src_inmo_2023
 competition: Indian National Mathematical Olympiad 2023
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all c >= 1 for which a function f: N -> N satisfies two conditions*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kW6GgduaArtuZwxLT_Wd61CJZas0evUz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le c >= 1 per le quali una funzione f: N -> N soddisfa due condizioni*
+
+> $\mathbb{N}$ indichi l'insieme di tutti gli integri positivi. Trova tutti i numeri reali $c \geq 1$ per i quali esiste una funzione $f : \mathbb{N} \to \mathbb{N}$ che soddisfa: (a) per qualsiasi $x, n \in \mathbb{N}$, la quantità $\dfrac{f(x+n) - f(x)}{n^c}$ è un numero intero se e solo se $n = 1$; (b) per tutti $x \in \mathbb{N}$, $|f(x+1) - f(x)| < 2023$.
+
+[[src_inmo_2023__Q03]]

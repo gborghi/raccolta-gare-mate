@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_triennio_online__Q03
 parent: src_archimede_2021_triennio_online
 competition: Giochi di Archimede 2021 - Gara Triennio (online)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo valore di 4-3/x con prodotto di fattori nullo*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mirXxT9-Hv1KYgVTqPSQsnkdU7SPLtJP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum value of 4-3/x with zero factor product*
+
+> Knowing that (4x + 5) ((7x + 4) ((4x −5) = 0, what is the maximum value of 4 −3 x?
+>
+> - **(A)** 37/4
+> - **(B)** 19/2
+> - **(C)** 32/5
+> - **(D)** 8/5
+> - **(E)** 44/5
+
+**Answer:** A
+[[src_archimede_2021_triennio_online__Q03]]

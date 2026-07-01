@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q05
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Come appaiono le due lettere F riflesse*
 
@@ -59,3 +62,25 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What the two letters F look like reflected*
+
+![[src_kangourou_2020_benjamin_marzo__prob5.png]]
+
+> Flora reflects the letter F relative to the two segments you see in the figure on the side. What will the two reflected letters look like? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> (e) Atown 2 km Betown 9 km Atown 3 km Betown 8 km Atown 5 km Betown 6 km Atown 8 km Betown 3 km Atown 9 km Betown 4 km
+>
+
+**Answer:** E
+[[src_kangourou_2020_benjamin_marzo__Q05]]

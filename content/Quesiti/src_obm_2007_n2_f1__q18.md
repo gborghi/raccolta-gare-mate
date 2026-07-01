@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f1__Q18
 parent: src_obm_2007_n2_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Die with opposite faces summing to 7, direction of face 1 after moves*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Mare con facce opposte che sommano a 7, direzione della faccia 1 dopo i movimenti< MSK1/>
+
+> Il disegno seguente mostra un dado comune la cui somma dei punti su facce opposte è sempre uguale a $7$. Si colloca su un tavolo orizzontale con la faccia ``1' rivolta verso est. Il dado viene poi spostato quattro volte. Un movimento consiste in una rotazione di $90^\circ$ rispetto a un bordo. Dopo il primo movimento il volto in contatto con il tavolo diventa ``1', poi ``2', poi ``3' e, infine, il volto ``5'. In quale direzione è girato il volto ``1' dopo questa sequenza di movimenti?
+> 
+> A) Occidente $\quad$ B) Est $\quad$ C) Nord $\quad$ D) Sud $\quad$ E) Su
+
+![[src_obm_2007_n2_f1__Q18.png]]
+
+[[src_obm_2007_n2_f1__Q18]]

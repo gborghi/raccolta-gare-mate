@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2002 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2002__Q02
 parent: src_cgen_2002
 competition: Concours Général des Lycées 2002 — Matematica
@@ -40,6 +41,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Deuxieme partie: equivalent conditions for a pseudo-rectangle triangle, rational/integer side triples, and related Diophantine equations.*
 
@@ -77,3 +80,29 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lVQd2O4k5TRxqRMW1VeIqgQiGW7QRGQs/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Deuxieme partie: condizioni equivalenti per un triangolo pseudo rettangolare, tripli laterali razionali/inti e le relative equazioni diofantine.*
+
+> In tutta questa parte, $a$, $b$, $c$ sono valori rigorosamente positivi.
+> 
+> < MSK14/>1. < MSK15/> < MSK0/> deve essere il triplo dei valori rigorosamente positivi. stabilire l'equivalenza delle seguenti condizioni: i. esiste un triangolo $ABC$ pseudo rettangolo a $A$ e un triangolo obtuso a $B$ in modo tale che $AB = c$, $BC = a$ e $CA = b$; < MSK7/>; iii. esistono due valori reali $\rho > 0$ e $\theta$ con $0 < \theta < \dfrac{\pi}{4}$, quali $a = \rho\cos 2\theta$, $b = \rho\cos\theta$ e $c = \rho\sin\theta$.
+> 
+> Se queste condizioni sono soddisfatte, si dimostra che $\theta$ misura uno degli angoli del triangolo $ABC$. Come si può interpretare $\rho$ geometricamente?
+> 
+> **2.** $ABC$ sia un triangolo pseudo rettangolo a $A$, obtuso a $B$, le cui lunghezze laterali sono numeri razionali; $\rho$ e $\theta$ siano i due reali definiti a **1.iii.** In questa domanda si possono usare senza giustificazione le seguenti formule trigonometriche, valide per ogni reale $\varphi$ per il quale $\tan\varphi$ è definito: $$\cos 2\varphi = \frac{1 - \tan^2\varphi}{1 + \tan^2\varphi}, \qquad \sin 2\varphi = \frac{2\tan\varphi}{1 + \tan^2\varphi}.$$ a. Mostrare che $\rho$ è razionale e dedurre che $\tan\dfrac{\theta}{2}$ è razionale. $p$ e $q$ siano gli integri copriemi rigorosamente positivi, come $\tan\dfrac{\theta}{2} = \dfrac{p}{q}$. b. Verificare che $0 < p < q(\sqrt{2} - 1)$ e stabilire l'esistenza di un $r$ razionale strettamente positivo tale che: $$a = r\,(p^4 - 6p^2q^2 + q^4)$$ $$b = r\,(q^4 - p^4)$$ $$c = 2\,p\,q\,r\,(p^2 + q^2).$$
+> 
+> **3.** Mostra invece che le formule di **2.b.** definiscono le lunghezze laterali di un triangolo pseudo rettangolo a $A$, obtuso a $B$, le cui lunghezze laterali sono razionali.
+> 
+> **4.** a. Che $p$ e $q$ siano due integri coprimi rigorosamente positivi. Determinare il più grande divisore comune dei tre integri $p^4 - 6p^2q^2 + q^4$, $q^4 - p^4$, $2pq(p^2 + q^2)$ (si discuterà in base alla parità di $p$ e $q$). b. Descrivere i triples di numeri interi $(a,b,c)$ in modo tale che esista un triangolo $ABC$, un pseudo rettangolo a $A$, obtuso a $B$, in modo tale che $AB = c$, $BC = a$ e $CA = b$.
+> 
+> **5.** Risolvi in $\mathbb{N}^*$ l'equazione $x^2\,(y^2 + z^2) = (y^2 - z^2)^2$.
+> 
+> **6.** Risolvere in $\mathbb{Q}^*$ l'equazione $x^2\,(y^2 + z^2) = (y^2 - z^2)^2$.
+> 
+> **7.** Risolvi in $\mathbb{N}^*$ l'equazione $x^2\,(y^2 - z^2)^2 = (y^2 + z^2)^3$.
+
+[[src_cgen_2002__Q02]]

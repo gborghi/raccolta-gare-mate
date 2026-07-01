@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2005 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo3q__Q06
 parent: src_jjmo3q
 competition: Japan Junior Mathematical Olympiad 2005
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count triangles from a 3x3 grid of points*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i triangoli da una griglia di punti 3x3*
+
+> Considerare i punti $9$ disposti come nella figura seguente, spaziati ugualmente sia orizzontalmente che verticalmente (un array $3 \times 3$ di punti). Tra questi, quanti triangoli si possono ottenere unendo $3$ dei punti? Ad esempio, come mostrato in basso a sinistra, scegliere i punti $3$ e collegarli dà un triangolo; tuttavia, come mostrato in basso a destra, scegliere i punti $3$ che si trovano su una singola linea retta non dà un triangolo. Si noti che i numeri che coincidono sotto traduzione o riflessione sono contati come triangoli distinti.
+
+![[src_jjmo3q__Q06.png]]
+
+[[src_jjmo3q__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q07
 parent: src_cesenatico_2005_squadre_finale
 competition: Gara a Squadre Cesenatico 2005 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero cripte unitarie tangenti a cerchio raggio 2005*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 6302
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of single crypts tangent to radius circle 2005
+
+> Recently, the well-known archaeologist Polinomia Jones has discovered a Couranteni burial citadel. The citadel has a circular shape with a radius of 2005 meters and, externally to it, crypts are located. Each crypt has a circular shape with a radius of 1 meter and is tangent to the citadel. What's the largest number of crypts that the Couranteni could have built?
+
+**Answer:** 6302
+[[src_cesenatico_2005_squadre_finale__Q07]]

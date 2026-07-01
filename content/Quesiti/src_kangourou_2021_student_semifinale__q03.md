@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student semifinale individuale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q03
 parent: src_kangourou_2021_student_semifinale
 competition: Kangourou 2021 Student semifinale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sottoinsiemi consecutivi con somma quadrato perfetto*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sequential sub-sets with perfect square sum*
+
+> Consider the set S = {1, 2, 3, ..., 29, 30}. Denotes with K a subset {a, b, c} of three different elements of S. How many K subsets of S are such that a + b + c is a perfect square, you have b = a + 1 and you have c = b + 1? A) 0
+>  
+> B) 1
+>  
+> C) 2
+>  
+> D) 3
+>  
+> E) 4
+
+**Answer:** D
+[[src_kangourou_2021_student_semifinale__Q03]]

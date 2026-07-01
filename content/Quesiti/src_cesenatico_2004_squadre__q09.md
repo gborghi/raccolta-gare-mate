@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q09
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo numero di 3 cifre distinte pari alla media delle permutazioni*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0370
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Little number of 3 distinct digits equal to the mean of permutations< MSK1/>
+
+> The torture chamber Each secret cell of the palace is numbered with a number of exactly three digits. The royal carpenter notices that the torture cell has the smallest of the three-digit numbers all distinct, which is equal to the arithmetic mean of the six numbers obtained by exchanging their numbers. What's this number?
+
+**Answer:** 0370
+[[src_cesenatico_2004_squadre__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Finale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_f__Q13
 parent: src_kangourou_2014_squadre_f
 competition: Kangourou Coppa Squadre 2014 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma minima griglia 3x3 con sei somme tutte diverse*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 17
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum sum of grid 3x3 with six sums all different< MSK1/>
+
+> The grid In each cell of a grid 3 × 3 a positive integer must be entered (different cells can host the same number) so that, by adding the numbers entered for both rows and columns, six different results are obtained. What is the lowest possible value for the sum of all the numbers entered?
+
+**Answer:** 17
+[[src_kangourou_2014_squadre_f__Q13]]

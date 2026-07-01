@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2012 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2012_automne__Q05
 parent: src_canimath_2012_automne
 competition: Coupe Animath Automne 2012
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove 10^2011 + 10^2012 + 10^2013 divisible by 37*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove 10^2011 + 10^2012 + 10^2013 divisibile per 37*
+
+> Provare che il numero $10^{2011} + 10^{2012} + 10^{2013}$ è divisibile da $37$.
+
+[[src_canimath_2012_automne__Q05]]

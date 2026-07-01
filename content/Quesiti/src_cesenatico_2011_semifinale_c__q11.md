@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_c__Q11
 parent: src_cesenatico_2011_semifinale_c
 competition: Gara a Squadre Cesenatico 2011 - Semifinale C
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *f(10)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1171
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*f(10)*
+
+> Parabolix suspects that, once again, some Romans disguised themselves as Gauls and infiltrated the village. Knowing the superiority of the Gauls over the Romans in mathematics (not at all was he to teach it to the village), to identify them tried to submit to all the following question. If f is a function such that f(x) + f(1 1−x) = x, x =0.1. Determine the f ((10). Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+
+**Answer:** 1171
+[[src_cesenatico_2011_semifinale_c__Q11]]

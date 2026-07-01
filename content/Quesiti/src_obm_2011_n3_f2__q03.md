@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f2__Q03
 parent: src_obm_2011_n3_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle, foot of altitude from A; distances to B and orthocenter equal 10; approximate area*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto, piede d'altitudine da A; distanze da B e centro orto pari a 10; superficie approssimativa*
+
+> L'angolo interno alla vertica $A$ di un triangolo acuto $ABC$ misura $75$ gradi. L'altitudine relativa al vertice $A$ tocca il lato $BC$ al punto $D$. Le distanze da $D$ alla verticale $B$ e all'ortocentro del triangolo sono uguali a $10$ cm. Qual è l'area del triangolo $ABC$, approssimato al numero intero più vicino? Se necessario, utilizzare < MSK10/>.
+
+[[src_obm_2011_n3_f2__Q03]]

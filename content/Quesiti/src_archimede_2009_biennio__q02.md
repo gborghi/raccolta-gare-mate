@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Biennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_biennio__Q02
 parent: src_archimede_2009_biennio
 competition: Giochi di Archimede 2009 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giri ruota posteriore data ruota anteriore e raggi*
 
@@ -49,3 +52,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rear wheel gears given front wheel and beams*
+
+> The front wheel of Chiara's bicycle has a radius of 28 cm, while the rear wheel has a radius of 16 cm. At the end of a bicycle ride, the front wheel has made 10,000 laps; how many have the rear wheel made in the same ride?
+>
+> - **(A)** 12000,
+> - **(B)** 14500,
+> - **(C)** 17500,
+> - **(D)** 19000,
+> - **(E)** 21000.
+
+**Answer:** C
+[[src_archimede_2009_biennio__Q02]]

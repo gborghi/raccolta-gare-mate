@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - semifinale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet_semifinale__Q12
 parent: src_kangourou_2021_cadet_semifinale
 competition: Kangourou 2021 Cadet - semifinale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max numero 4 cifre divisibile per 6 con cifre crescenti*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4578
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Max number 4 digits divisible by 6 with increasing digits*
+
+> (5 points) What is the greatest number of 4 digits divisible by 6 whose digits are in (strictly) increasing order from left to right?
+
+**Answer:** 4578
+[[src_kangourou_2021_cadet_semifinale__Q12]]

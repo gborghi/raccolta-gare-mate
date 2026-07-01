@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2004 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2004__Q03
 parent: src_rmo_2004
 competition: Regional Mathematical Olympiad 2004
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Recurrence from quadratic roots; prove integer values and gcd = 1*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PH5-bvLqESBobr80FptiJm1tzcFEiAQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricorrenza da radici quadratiche; dimostrare valori interi e gcd = 1*
+
+> Lasciate che $\alpha$ e $\beta$ siano le radici dell'equazione quadrata $x^2 + mx - 1 = 0$, dove $m$ è un numero intero impar. Let $\lambda_n = \alpha^n + \beta^n$, per $n \ge 0$. Prove questo .
+> 
+> a) $\lambda_n$ è un numero intero; e
+> 
+> (b) $\gcd(\lambda_n, \lambda_{n+1}) = 1$.
+
+[[src_rmo_2004__Q03]]

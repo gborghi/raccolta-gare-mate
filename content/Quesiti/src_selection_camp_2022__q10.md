@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2022 — Selection Camp — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2022__Q10
 parent: src_selection_camp_2022
 competition: Japan IMO Selection Camp 2022 — Selection Camp
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all n such that divisors can be arranged with all partial sums perfect squares*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IbxW-7wHAbocY02LPUXVJ2fiAgki09kb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le n in modo che i divisori possano essere disposti con tutte le somme parziali squadrati perfetti*
+
+> $n$ sia un intero positivo e $d(n)$ indichi il numero di divisori positivi di $n$. Trova tutti gli integri positivi $n$ per i quali esiste una sequenza $a_1, a_2, \ldots, a_{d(n)}$ composta da tutti i divisiori positivi distinti di $n$ in modo tale che per ogni intero positivo $i \le d(n)$, $a_1 + a_2 + \cdots + a_i$ sia un quadrato perfetto.
+
+[[src_selection_camp_2022__Q10]]

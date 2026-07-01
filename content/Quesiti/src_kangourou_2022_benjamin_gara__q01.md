@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin gara individuale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q01
 parent: src_kangourou_2022_benjamin_gara
 competition: Kangourou 2022 Benjamin gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quesito 1 (testo non disponibile nel sidecar)*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Question 1 (text not available in the sidecar) < MSK1/>
+
+> Six points are numbered as shown in the figure. Cristina obtains two triangles: one with vertices marked by even numbers, the other with vertices marked by odd numbers. Which of the five figures shows the two triangles obtained by Cristina? (see figure)
+
+**Answer:** E
+[[src_kangourou_2022_benjamin_gara__Q01]]

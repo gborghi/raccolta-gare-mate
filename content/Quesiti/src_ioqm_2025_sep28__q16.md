@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q16
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -34,6 +35,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Continued fraction equation; find sum of x_1+...+x_7*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione di frazione continua; trovare la somma di x_1+...+x_7*
+
+> Se $$1 - \cfrac{1}{2+\cfrac{1}{3+\cfrac{1}{4+\cfrac{1}{5+\cfrac{1}{6+\frac{1}{7}}}}}} = \cfrac{1}{x_1+\cfrac{1}{x_2+\cfrac{1}{x_3+\cfrac{1}{x_4+\cfrac{1}{x_5+\cfrac{1}{x_6+\frac{1}{x_7}}}}}}}$$ dove $x_1, x_2, \ldots, x_7$ sono numeri interi positivi, trovare $x_1 + x_2 + x_3 + x_4 + x_5 + x_6 + x_7$.
+
+[[src_ioqm_2025_sep28__Q16]]

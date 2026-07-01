@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2015 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2015__Q12
 parent: src_bocconi_autunno_2015
 competition: Giochi d'Autunno 2015
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Occhio all'11: massimo prodotto con due cifre*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1024
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eK88JMTv896JXMMmFL1S8lYcD_i95Nzi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Eye to 11: maximum output with two digits < MSK1/>
+
+> Watch out for the 11! $10 \times 11 = 1 \times 1$. Then, with two digits $a$ and $b$, we find that also $\overline{ab}$ and $\overline{ba}$ (where $\overline{ab}$ is the number whose value is $10a + b$, and $\overline{ba}$ is the number you read the same way) must satisfy $\overline{ab} \times \overline{ba} = a \cdot b \cdot \overline{ab} \cdot \overline{ba}$ by reading $\overline{bb}$ the same way. Find the maximum product value of the two members of the previous equation.
+
+**Answer:** 1024
+[[src_bocconi_autunno_2015__Q12]]

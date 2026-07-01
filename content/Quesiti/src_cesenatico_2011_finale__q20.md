@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_finale__Q20
 parent: src_cesenatico_2011_finale
 competition: Gara a Squadre Cesenatico 2011 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita tornare all'ufficio 73 (permutazione)*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1100
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+It's likely to return to office 73 (shift)
+
+> La II Fatica, the house that drives Abelix crazy to overcome one of the Fatica imposed by Cleopatra, must get an A-38 passport issued from office 73, at the palace of the Roman prefect, where the mad bureaucracy forces him to turn from one to the other of the 100 offices there (numbered 1 to 100). In fact, the prefect had previously prepared a day with tickets numbered from 1 to 100 and had one drawn from each office. Whenever Abelix asks an office for a document, the employees explain that he needs another document first, to be obtained at another office whose number they read from the ticket. Abelix regularly starts from asking for the A-38 passport at the 73 office and for a while follows the instructions, but after 1000 times he is discouraged and decides to go to the tough manners with the employees of the office in front of him. What are the odds that I'll end up getting into trouble with the very employees of office 73? As a response, provide the first four digits after the comma.
+
+**Answer:** 1100
+[[src_cesenatico_2011_finale__Q20]]

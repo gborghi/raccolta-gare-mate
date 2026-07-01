@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2003 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2003__Q04
 parent: src_cn_cmo_2003
 competition: China Mathematical Olympiad 2003
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer triples (a,m,n) with a^n+203 divisible by a^m+1*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i tripli interi (a,m,n) con a^n+203 divisibile da a^m+1*
+
+> Trovare tutti i gruppi di interi interi positivi ternali $(a, m, n)$ soddisfacendo $a \ge 2$ e $m \ge 2$ in modo tale che $a^n + 203$ sia un multiple di $a^m + 1$. (Possibile da Chen Yonggao)
+
+[[src_cn_cmo_2003__Q04]]

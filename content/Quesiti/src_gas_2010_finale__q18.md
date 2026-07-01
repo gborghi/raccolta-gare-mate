@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q18
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo rettangolo da area esagono coi quadrati esterni*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0132
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area triangle rectangle from area hexagon with outer squares*
+
+> Jack Disparrow's compass The magical compass that Jack Disparrow owns was created by Tria Geome, using strict Geomatics criteria. The shape of the compass is a hexagon obtained as follows: it starts from a rectangular triangle with catets measuring an integer number of mm; the three squares (external) are built on its sides; the vertices of the squares not on the triangle are finally joined to two by two, in order to obtain a convex hexagon. Knowing that the area of the hexagon is 1922 mm2, determine the area of the starting triangle.
+
+**Answer:** 0132
+[[src_gas_2010_finale__Q18]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q30
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume del tetraedro regolare (distanza spigoli)*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of the regular tetrahedron (spindle distance) *
+
+> In a regular tetrahedron, the distance between two untouched spikes is 6 centimeters. What is the volume of the tetrahedron in cubic centimeters? A) 18 B) 36 C) 48 D) 72 E) 14 Texts_07.qxp
+> 
+> 1 Kangourou of Mathematics 2007 Junior category For secondary or tertiary secondary school students
+
+**Answer:** D
+[[src_kangourou_2007_junior_marzo__Q30]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f2__Q06
 parent: src_obm_2013_n3_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square ABCD inscribed in circle of radius 30; chord AM meets diagonal BD at P; AM=50, find AP*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrato inciso in un cerchio di raggio 30; acordo AM incontra la diagonale BD a P; AM=50, trovare AP*
+
+> Il quadrato $ABCD$ è inserito in un cerchio di raggio $30$. L'accordo $AM$ taglia la diagonale $BD$ al punto $P$. Se $AM = 50$, trovare il valore di $AP$.
+
+[[src_obm_2013_n3_f2__Q06]]

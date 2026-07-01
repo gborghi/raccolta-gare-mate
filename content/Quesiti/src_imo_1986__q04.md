@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1986 (27th IMO, Warsaw) — Quesito 4'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1986__Q04
 parent: src_imo_1986
 competition: 'IMO 1986 (27th IMO, Warsaw)'
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find locus of X as congruent triangle moves around n-gon*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Q7vmoRjHZBnLVOcJfGhRBYvwVepRUaQE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find the locus of X as congruent triangle moves around n-gon
+
+> Let A, B be adjacent vertices of a regular n-gon (n ≥5) in the plane having center at O. A triangle XY Z, which is congruent to and initially conincides with OAB, moves in the plane in such a way that Y and Z each trace out the entire boundary of the polygon, X remaining inside the polygon. Find the locus of X.
+
+[[src_imo_1986__Q04]]

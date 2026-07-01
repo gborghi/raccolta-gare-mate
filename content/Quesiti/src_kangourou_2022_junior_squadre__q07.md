@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Junior Finale 1 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_squadre__Q07
 parent: src_kangourou_2022_junior_squadre
 competition: Kangourou Squadre 2022 Junior Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo n per due numeri primi fra loro*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1012
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum n for two prime numbers between them*
+
+> First among them Consider the set A of integers between 2 and 2022 included. You want to make sure that, by extracting random numbers from A, there are at least two prime numbers among these. What's the minimum possible value for n?
+
+**Answer:** 1012
+[[src_kangourou_2022_junior_squadre__Q07]]

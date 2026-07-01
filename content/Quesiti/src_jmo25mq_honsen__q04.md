@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2015 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo25mq_honsen__Q04
 parent: src_jmo25mq_honsen
 competition: Japan Mathematical Olympiad 2015 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four concyclic points from incircle and circumcircle constructions on triangle ABC*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zjofx858zIB9CmusWvun9lZn5siZE_Lr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro punti conciclici dalle costruzioni incircolare e circoncircolare sul triangolo ABC*
+
+> Il $ABC$ deve essere un triangolo scaleno (non isosceles), $\Gamma$ il suo circoncircolo e $I$ il suo incentro. Lascia che l'incircolo dei lati $\triangle ABC$ tocchi $AB$ e $AC$ rispettivamente a $D$ e $E$. Il $P$ deve essere la seconda intersezione (diversi da $B$) del circoncircolo di $\triangle BEI$ con $\Gamma$. Il $Q$ deve essere la seconda intersezione (diversi da $C$) del circoncircolo di $\triangle CDI$ con $\Gamma$. Provare che i quattro punti $D$, $E$, $P$, $Q$ sono conciclici.
+
+[[src_jmo25mq_honsen__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q13
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto tra corona nera in fig1 e regione nera in fig2*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Relation between black crown in Fig1 and black region in Fig2*
+
+> A white circle is superimposed on a gray circle which in turn is superimposed on a black circle as shown in Figure 1. In Figure 2 the same three figures appear tangent to each other, grey and white externally, and both internally black. The area of the black circular crown shown in Figure 1 is 7 times the area of the white circle. What is the relationship between the area of the black circular crown in Figure 1 and the area of the black region in Figure 2? A) 3 : 1 B) 4 : 3 C) 6 : 5 D) 7 : 6 E) 9 : 7
+
+**Answer:** D
+[[src_kangourou_2024_junior__Q13]]

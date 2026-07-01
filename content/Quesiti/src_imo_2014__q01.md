@@ -1,6 +1,7 @@
 ---
 title: IMO 2014 (shortlist/papers) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2014__Q01
 parent: src_imo_2014
 competition: IMO 2014 (shortlist/papers)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Esiste unico n con an<media prefissi<=an+1*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*There is a single n with an <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+> Whether $a_0 < a_1 < a_2 < \cdots$ is an infinite sequence of positive integers. Demonstrate that there is a single integer $n \geq 1$ such that $$a_n < \frac{a_0 + a_1 + \cdots + a_n}{n} \leq a_{n+1}.$$
+
+[[src_imo_2014__Q01]]

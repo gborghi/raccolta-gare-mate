@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q15
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *immagine mai vista*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is a list of the official languages of the European Union.
+
+![[src_kangourou_2016_cadet_marzo__prob15.png]]
+
+> Anna glued some cubes together and obtained the solid shown in the figure. It rotates so you can see it from different angles. Which of the following images will you never see? A) B) C) E)
+
+**Answer:** D
+[[src_kangourou_2016_cadet_marzo__Q15]]

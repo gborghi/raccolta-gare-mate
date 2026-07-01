@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q21
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count functions f(x)=cx/(2x+3) with f(f(x))=x for all x*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggi funzioni f(x)=cx/(2x+3) con f(f(x))=x per tutte le x*
+
+> Considera la funzione $f$, definita sull'insieme dei numeri reali e soddisfacente $f(x) = \dfrac{cx}{2x+3}$, per tutti $x \neq -\dfrac{3}{2}$. Determinare il numero di tali funzioni $f$ per le quali $f(f(x)) = x$, per tutte le $x$ per le quali $f(f(x))$ è ben definito.
+> 
+> (A) $0$ (B) $1$ (C) $2$ (D) $4$
+
+[[src_obm_2008_n3_f1__Q21]]

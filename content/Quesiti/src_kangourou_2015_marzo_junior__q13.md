@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Junior — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q13
 parent: src_kangourou_2015_marzo_junior
 competition: Kangourou 2015 gara 19 marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *orecchie di Trimi*
 
@@ -51,3 +54,23 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lv8vPzK3uXmG94tNsM2uWmmnksIo2fLI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>ears of Trimi< MSK1/>
+
+> Every inhabitant of a strange planet has some (possibly even more than two) ears. Three inhabitants, Imi, Dimi and Trimi, meet; no one else is present. He says, "I can see for eight hours". Tell me, I can see seven. Trimi says, "How strange! I can only see five. None of them can see their own ears, all of them see the ears of others, and all of them speak the truth. How many ears does Trimi have? A) 2
+> 	
+> B) 4
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 7
+>
+
+**Answer:** C
+[[src_kangourou_2015_marzo_junior__Q13]]

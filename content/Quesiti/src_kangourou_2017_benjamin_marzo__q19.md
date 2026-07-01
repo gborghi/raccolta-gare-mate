@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (gara marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q19
 parent: src_kangourou_2017_benjamin_marzo
 competition: Kangourou 2017 Benjamin (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordine bacchette A,T,R per massima somma di denaro*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Orders of A,T,R sticks for maximum amount of money*
+
+> Adriano has a sum of money and 3 magic sticks: • the A stick adds 1 euro to the sum; • the T stick takes 1 euro from the sum; • the R stick doubles the sum. You have to use them all, one at a time. In what order should you use them to get as much money as possible? A) R, A, T B) A, T, R C) R, T, A D) A, R, T E) T, A, R
+
+**Answer:** D
+[[src_kangourou_2017_benjamin_marzo__Q19]]

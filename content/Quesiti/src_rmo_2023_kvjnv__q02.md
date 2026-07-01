@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2023 — KV/JNV — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2023_kvjnv__Q02
 parent: src_rmo_2023_kvjnv
 competition: Regional Mathematical Olympiad 2023
@@ -34,6 +35,8 @@ tags:
   - regione/kvjnv
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prime p with 2p equal to sum of squares of four consecutive positives, prove p-7 divisible by 36*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1O-mEwq-hxsjqhreSHfn8FWGxy_mcCOEX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Primo p con 2p uguale alla somma dei quadrati di quattro positivi consecutivi, dimostra p-7 divisorio per 36*
+
+> Dato un numero primo $p$ tale che il numero $2p$ sia uguale alla somma dei quadrati di circa quattro numeri interi positivi consecutivi. Prova che $p - 7$ è divisibile per $36$.
+
+[[src_rmo_2023_kvjnv__Q02]]

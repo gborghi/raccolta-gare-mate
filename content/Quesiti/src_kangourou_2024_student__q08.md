@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q08
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo mosse per girare 6 carte capovolgendone 4*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum moves to turn 6 cards by flipping 4< MSK1/>
+
+> Six playing cards are lined up on a table, and none of them shows the back. One move consists of flipping exactly four cards (not necessarily consecutive). What's the minimum number of moves enough to make all the cards turn? A) 3
+> 	
+> B) 4
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 7
+
+**Answer:** A
+[[src_kangourou_2024_student__Q08]]

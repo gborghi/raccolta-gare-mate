@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Cadet (20 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet__Q05
 parent: src_kangourou_2003_cadet
 competition: Kangourou 2003 Cadet (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Equivalenze tra recipienti (boccale/bicchieri)*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eygrPRLv8IqHr90bPrLsox-FA6V93kRL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Equivalence between containers (cups/glass) < MSK1/>
+
+> In the Kangoo pub, all the same type of containers are the same. A bottle and a glass together contain as much as a carafe. A bottle contains as much as a glass and a spoon. Three mouths contain as much as two carafes. So a cup contains as much as A: 3 glasses B: 4 glasses C: 5 glasses D: 6 glasses E: 7 glasses
+> 
+> I'm going to pay. I'm going to pay. 17 17 Kang 2003 Kang
+
+**Answer:** B
+[[src_kangourou_2003_cadet__Q05]]

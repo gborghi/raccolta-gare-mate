@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2003 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo1q__Q06
 parent: src_jjmo1q
 competition: Japan Junior Mathematical Olympiad 2003
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find area of triangle DBC given incircle-related point and distances on cevian*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'area del triangolo DBC dato punto e distanze correlate all'incircolo sul ceviano*
+
+> Il triangolo $ABC$ deve soddisfare $AB = AC = 5$ e $BC = 6$. All'interno del triangolo, prendere un punto $D$ sul circolo del triangolo $ABC$. Il segmento $AD$ deve incontrare lato $AB$ a $E$ e lato $AC$ a $F$ (così $E$ si trova su $AB$ e $F$ si trova su $AC$, con $D$ tra $E$ e $F$). Date $DE = 1$ e $DF = 2$, si trova l'area del triangolo $DBC$.
+
+[[src_jjmo1q__Q06]]

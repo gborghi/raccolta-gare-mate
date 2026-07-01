@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2006 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo4q__Q08
 parent: src_jjmo4q
 competition: Japan Junior Mathematical Olympiad 2006
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find triples of mutually coprime positive integers where two of any two are perfect squares, with minimum sum*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ritrovare triples di integri positivi reciprocamente coprimi dove due di entrambi sono quadrati perfetti, con somma minima *
+
+> Tra i set di tre integri positivi reciprocamente coprimi in modo tale che la somma di due di essi sia un quadrato perfetto, trovare tutti tali set con la somma più piccola possibile dei tre numeri. Qui, le serie $\{1, 2, 3\}$ e $\{3, 2, 1\}$ sono considerate uguali, mentre $\{1, 2, 3\}$ e $\{3, 1, 2\}$ sono anche uguali.
+
+[[src_jjmo4q__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Cadet (15 marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_cadet__Q16
 parent: src_kangourou_2001_cadet
 competition: Kangourou 2001 - Cadet (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso del cammello Desiree assetato*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Weight of the thirsty Desiree camel< MSK1/>
+
+> Whenever the Desirée camel is thirsty, 84 percent of its body is made up of water. After drinking, its weight reaches 800 kg and water makes up 85 percent of its weight. What's the weight of the Desirée camel when it's thirsty?
+>
+> - **(A)** 672 kg
+> - **(B)** 680 kg
+> - **(C)** 715 kg
+> - **(D)** 720 kg
+> - **(E)** 750 kg.
+
+**Answer:** E
+[[src_kangourou_2001_cadet__Q16]]

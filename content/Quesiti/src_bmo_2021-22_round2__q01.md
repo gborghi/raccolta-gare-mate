@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2021-22 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2021-22_round2__Q01
 parent: src_bmo_2021-22_round2
 competition: British Mathematical Olympiad 2021-22 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all k with infinitely many k-numbers*
 
@@ -48,3 +51,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16y4Ne9fLIQNcbli54a5IbNlDbIPQeawo/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i k con infiniti k-numeri*
+
+> Per un dato numero intero positivo $k$, chiamiamo un numero intero $n$ un numero $k$ se sono soddisfatte entrambe le seguenti condizioni:
+> 
+> (i) Il numero intero $n$ è il prodotto di due numeri interi positivi che differiscono di $k$.
+> 
+> (ii) Il numero intero $n$ è inferiore a un numero quadrato.
+> 
+> Trova tutti $k$ in modo che ci siano infinitamente molti $k$-numeri.
+
+[[src_bmo_2021-22_round2__Q01]]

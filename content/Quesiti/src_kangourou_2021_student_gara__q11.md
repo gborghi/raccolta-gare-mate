@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q11
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione di divisori dispari di 7!*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Fraction of odd divisors by 7!< MSK1/>
+
+> What a fraction of the sum of the divisors of 7! It's made up of odd numbers? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** D
+[[src_kangourou_2021_student_gara__Q11]]

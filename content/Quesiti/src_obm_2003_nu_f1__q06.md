@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1 —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_nu_f1__Q06
 parent: src_obm_2003_nu_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Limits involving log log of a recursive sequence a_{n+1}=a_n^2-2*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkHYs-oRGCC1ZYJ_cT5E1wAW1AqoZ7ND/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Limiti che coinvolgono il log log di una sequenza ricorsiva a_{n+1}=a_n^2-2*
+
+> Definire $a_1 = 3$ e $a_{n+1} = a_n^2 - 2$. Prove che $$\lim_{n \to \infty} \frac{\log \log a_n}{n} = \log 2$$ e calcola $\displaystyle\lim_{n \to \infty} (\log \log a_n - n \log 2)$. (Tutti i logaritmi sono in base $e$.)
+
+[[src_obm_2003_nu_f1__Q06]]

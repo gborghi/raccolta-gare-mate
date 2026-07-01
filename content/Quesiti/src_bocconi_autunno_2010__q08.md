@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2010 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2010__Q08
 parent: src_bocconi_autunno_2010
 competition: Giochi d'Autunno 2010
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età attuale di Angelo dato il rapporto con l'età della madre*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Age of Angelo given the relationship to age of mother< MSK1/>
+
+> Today, Angelo is a quarter of his mother's age. When he turns 18, his mother will be three times his age. How old is Angelo now?
+
+**Answer:** 12
+[[src_bocconi_autunno_2010__Q08]]

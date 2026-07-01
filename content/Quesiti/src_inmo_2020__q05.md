@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2020 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2020__Q05
 parent: src_inmo_2020
 competition: Indian National Mathematical Olympiad 2020
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Characterise which regular polygon vertex counts are frameable on parallel lines*
 
@@ -50,3 +53,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zGms2MQj8QKRPizstjU-44-Fnpo52wDY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Caratterizzare quali numeri regolari di vertici poligonistici possono essere incorniciati su linee parallele*
+
+> Infinitamente molte linee parallele equidistanti sono tracciate nel piano. Un intero positivo $n \geq 3$ è chiamato \emph{frameable} se è possibile disegnare un poligono regolare con i lati $n$ i cui vertici si trovano tutte su queste linee e nessuna linea contiene più di un vertice del poligono.
+> 
+> (a) dimostrare che $3, 4, 6$ sono incornicibili.
+> 
+> b) dimostrare che ogni < MSK0/> non è incornicibile.
+> 
+> c) Determinare se $5$ è incornicibile.
+
+[[src_inmo_2020__Q05]]

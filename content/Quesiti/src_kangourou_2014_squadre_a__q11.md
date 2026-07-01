@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q11
 parent: src_kangourou_2014_squadre_a
 competition: Kangourou Coppa Squadre 2014 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma coordinate dei possibili quarti vertici parallelogramma*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Coordinate sum of the possible parallelogram vertices *
+
+> The fourth vertex In the plane referred to the usual system of orthogonal Cartesian axes the points (1,-1), (-1,0) and (0,1) are three of the vertices of a parallelogram. Consider all the points that can make up the fourth vertex and add up all their coordinates. What is the result?
+
+**Answer:** 0
+[[src_kangourou_2014_squadre_a__Q11]]

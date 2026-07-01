@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q17
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ordered pairs (x,y) of positive integers with x^2 - y^2 = 2^2010.*
 
@@ -54,3 +57,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le coppie ordinate (x,y) di integri positivi con x^2 - y^2 = 2^2010.*
+
+> Quante coppie $(x,y)$ di integri positivi sono tali da $x^2-y^2=2^{2010}$?
+>
+> - **(A)** $1000$
+> - **(B)** $1001$
+> - **(C)** $1002$
+> - **(D)** $1003$
+> - **(E)** $1004$
+
+[[src_obm_2010_n3_f1__Q17]]

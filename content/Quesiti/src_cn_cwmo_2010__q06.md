@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2010 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2010__Q06
 parent: src_cn_cwmo_2010
 competition: China Western Mathematical Olympiad 2010
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove GE = GH in right triangle with inscribed circle tangent configuration*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove GE = GH in triangolo rettangolo con configurazione tangente a cerchio inscritta*
+
+> Come mostrato nella figura. 6.1, $\triangle ABC$ è un triangolo rettangolare, $\angle C = 90^\circ$. Disegnare un cerchio centrato a $B$ con raggio $BC$. Il $D$ deve essere un punto sul lato $AC$ e $DE$ deve essere tangente al cerchio a $E$. La linea attraverso $C$ perpendicolare a $AB$ incontra la linea $DE$ estesa al punto $F$. La linea $AF$ incontra $DE$ al punto $G$. La linea attraverso $A$ parallela a $BG$ incontra $DE$ (estesa) a $H$. Provare che < MSK19/>.
+
+![[src_cn_cwmo_b11_w236__Q06.png]]
+
+[[src_cn_cwmo_2010__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q05
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Seating arrangements on circular table with badge condition*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Disposizioni di sedute su tavolo circolare con condizione distintiva*
+
+> 5 persone con distintivi con i numeri 1, 2, 3, 4, 5 si siedono su 5 sedie attorno a un tavolo circolare. In quanti modi possono essere sedute in modo che non siano sedute a fianco di due persone i cui distintivi abbiano numeri consecutivi? (Due disposizioni ottenute per rotazione intorno alla tavola sono considerate diverse.)
+
+[[src_prmo_2019__Q05]]

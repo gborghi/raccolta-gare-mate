@@ -1,6 +1,7 @@
 ---
 title: IMO 1981 (XXII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1981__Q05
 parent: src_imho_1981
 competition: IMO 1981 (XXII International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Three congruent circles inscribed in triangle, circumcenter collinear*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J1b7EGoN_5JsjzdgRDEDkEXvbhWyzsge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three congruent circles inscribed in a triangle, circumcenter hill *
+
+> Three congruent circles have a common point $O$ and lie inside a given triangle. Each circle touches a pair of sides of the triangle. Prove that the incenter and the circumcenter of the triangle and the point $O$ are hilly.
+
+[[src_imho_1981__Q05]]

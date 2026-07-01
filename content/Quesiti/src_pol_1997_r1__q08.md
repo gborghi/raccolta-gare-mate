@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r1__Q08
 parent: src_pol_1997_r1
 competition: Olimpiade Matematica Polacca 1997 — Round 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Counting subsets by sum-remainder mod 7 and by product-remainder mod 7; find the ratio a_n/b_n.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J1ktv1YQ9-pGG7jFVVATHBI82SdVVsMb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i sottoinsiemi per somma rimanente mod 7 e per prodotto rimanente mod 7; trovare il rapporto a_n/b_n.*
+
+> $a_n$ indica il numero di tutti i sottogruppi non vuoti di $\{1, 2, \ldots, 6n\}$ la cui somma di elementi dà il rimanente $5$ diviso per $7$. Inoltre, $b_n$ è il numero di tutti i sottogruppi non vuoti di $\{1, 2, \ldots, 7n\}$ il cui prodotto degli elementi dà il rimanente $5$ diviso per $7$. Trova < MSK8/>.
+
+[[src_pol_1997_r1__Q08]]

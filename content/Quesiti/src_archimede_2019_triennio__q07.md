@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2019 - Triennio (T1) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_triennio__Q07
 parent: src_archimede_2019_triennio
 competition: Giochi di Archimede 2019 - Triennio (T1)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lati di poligono regolare contenente triangolo con angolo 54*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sides of regular polygon containing triangle with angle 54*
+
+> The three vertices of a right triangle having an angle of 54° are also vertices of a regular polygon having...
+>
+> - **(A)** 12 sides
+> - **(B)** 25 sides
+> - **(C)** 30 sides
+> - **(D)** 24 sides
+> - **(E)** 16 sides
+
+**Answer:** C
+[[src_archimede_2019_triennio__Q07]]

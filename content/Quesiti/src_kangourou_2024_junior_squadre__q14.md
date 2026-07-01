@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Junior Finale 1 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_squadre__Q14
 parent: src_kangourou_2024_junior_squadre
 competition: Kangourou Squadre 2024 Junior Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Estrazioni ordinate per togliere 12 biglie*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2048
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/19twDyCIYYYLPZm2ICyi_V91n9zEgBbys/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Extractions ordered to remove 12 bags< MSK1/>
+
+> One bag contains 12 indistinguishable bags. Gaetano wants to take them all, not necessarily one at a time, but sometimes taking more than one at a time (e.g. he could take three together, then one, then again one, then seven, or even all twelve in a single shot). Taking into account the order in which Gaetano can incorporate the grains by extracting them, how many extractions are possible? Note: the order is important, e.g. (3, 1, 1, 7) is an extraction different from (1, 3, 1, 7).
+
+**Answer:** 2048
+[[src_kangourou_2024_junior_squadre__Q14]]

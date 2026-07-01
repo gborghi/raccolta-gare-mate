@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q24
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ripartizione possibile dei simboli sul cubo 2x2x2*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible distribution of symbols on the cube 2x2x2*
+
+![[src_kangourou_2022_junior_gara__prob24.png]]
+
+> The four squares that make up each face of a cube 2 × 2 × 2 must each contain one and only one of the following symbols: a square, a circle, an X. Two squares that have one side in common (even if they lie on a spike) must host different symbols. The figure shows the three visible faces of a cube that obeys these rules. Which of the following three symbol distributions is possible for a cube that complies with these rules? A) 6 circles, 8 squares, 10 X.
+>   
+> B) 7 circles, 8 squares, 9 X. C) 5 circles, 8 squares 11 X.
+>   
+> D) 7 circles, 7 squares, 10 X. E) None of them.
+
+**Answer:** E
+[[src_kangourou_2022_junior_gara__Q24]]

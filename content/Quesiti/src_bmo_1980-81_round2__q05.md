@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1980-81 — Round 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1980-81_round2__Q05
 parent: src_bmo_1980-81_round2
 competition: British Mathematical Olympiad 1980-81 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence u_0=2, u_1=5 with u_{n+1}u_{n-1}-u_n^2=6^{n-1}; prove u_n integer*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza u_0=2, u_1=5 con u_{n+1}u_{n-1}-u_n^2=6^{n-1}; provare u_n intero*
+
+> La sequenza $\{u_n\}$ dei numeri reali è definita per $n \geq 0$ da $$u_0 = 2, \quad u_1 = 5$$ e $$u_{n+1}\,u_{n-1} - u_n^2 = 6^{n-1} \quad \text{when } n \geq 1.$$ Prova che ogni $u_n$ è un intero.
+
+[[src_bmo_1980-81_round2__Q05]]

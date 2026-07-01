@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2006 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2006_r1__Q02
 parent: src_pol_2006_r1
 competition: Olimpiade Matematica Polacca 2006 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve sqrt[5]{x} = ceil(sqrt[5]{3x}) in nonnegative reals.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi sqrt[5]{x} = soffitto(sqrt[5]{3x}) nei reali non negativi.*
+
+> Risolvere l'equazione $\sqrt[5]{x} = \left\lceil \sqrt[5]{3x} \right\rceil$ in numeri reali non negativi.
+
+[[src_pol_2006_r1__Q02]]

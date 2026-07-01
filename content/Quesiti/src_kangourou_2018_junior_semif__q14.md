@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Junior — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q14
 parent: src_kangourou_2018_junior_semif
 competition: Kangourou 2018 Semifinale Junior
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante coppie (a,b) interi in [-2018,2018] con 2a+b+6=0*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2019
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17csch1-7f-cVvjGdqKXJQd6PNOelNdNG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many whole pairs (a,b) in [2018,2018] with 2a+b+6=0*
+
+> (Points 6) For how many different pairs (a, b) of relative integers between - 2018 and 2018, extremes included, is 2a + b + 6 = 0?
+
+**Answer:** 2019
+[[src_kangourou_2018_junior_semif__Q14]]

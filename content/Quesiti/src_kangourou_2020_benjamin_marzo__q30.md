@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q30
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quale direzione muoversi per visitare ogni isola una volta*
 
@@ -67,3 +70,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which way to go to visit each island once*
+
+![[src_kangourou_2020_benjamin_marzo__prob30.png]]
+
+> In the figure, you can see a map showing some islands and how they are connected by bridges. A postman wants to visit every island exactly once. It started from the island marked with P and would like to end on the island marked with A. He just reached the black island in the center of the map. Which way does it have to go to complete its round? A) To the north.
+> 	
+> B) To the east.
+> 	
+> (c) To the south.
+> 	
+> D) To the west. E) There is no path to fulfill the postman's wish. 1 a b c A W S E N P
+> 
+> Answers
+
+**Answer:** B
+[[src_kangourou_2020_benjamin_marzo__Q30]]

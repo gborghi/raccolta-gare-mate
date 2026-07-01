@@ -1,6 +1,7 @@
 ---
 title: Coppa/Gara di febbraio 2005 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_febbraio_2005__Q05
 parent: src_febbraio_2005
 competition: Coppa/Gara di febbraio 2005
@@ -21,6 +22,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *supremo del parametro*
 
@@ -31,3 +34,15 @@ tags:
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* above the parameter *
+
+> $\overline{AB}$ and $\overline{CD}$ are two segments, both long 4, having the mean point $M$ in common and $\widehat{BMD} = 60°$. We indicate with $X$ the sum of all but the points that are more than 1 away from at least one of the two segments. What is the surface area of $X$?
+> 
+> **(A)** $8 - \dfrac{4}{3}\sqrt{3}$ **(B)** $16 - \dfrac{8}{3}\sqrt{3}$ **(C)** $16 - \dfrac{4}{3}\sqrt{3} + \pi$ **(D)** $16 - \dfrac{8}{3}\sqrt{3} + 2\pi$ **(E)** $8 + 2\pi$.
+
+[[src_febbraio_2005__Q05]]

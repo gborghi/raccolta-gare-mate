@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2013 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2013__Q08
 parent: src_cn_cgmo_2013
 competition: China Girls' Mathematical Olympiad 2013
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular n-gon with labeled vertices, parity of positive edges and crossings differ*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N-gon regolare con vertici etichettati, parità di bordi e incroci positivi differiscono*
+
+> $n \ge 4$ sia un numero pari. Al vertice di un normale $n$-gon scriviamo in modo arbitrario $n$ numeri reali distinti. Partendo da un bordo, chiamiamo tutti i bordi in senso orario con $e_1, e_2, \ldots, e_n$. Un bordo è chiamato \textit{positivo} se la differenza dei numeri al suo punto di fine e al suo punto di partenza è positiva. Un insieme di due bordi $\{e_i, e_j\}$ ($1 \le i < j \le n$) viene chiamato \textit{crossing} se $j - i$ è strano, i due bordi non hanno un vertice comune, e le quattro vertici di $e_i$ e $e_j$ si alternano intorno al poligono. Prove che il numero di incroci tra i bordi positivi e il numero di bordi positivi hanno parità diversa.
+
+[[src_cn_cgmo_2013__Q08]]

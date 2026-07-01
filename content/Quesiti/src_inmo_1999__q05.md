@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1999 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1999__Q05
 parent: src_inmo_1999
 competition: Indian National Mathematical Olympiad 1999
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four distinct positive integers A, B, C with three quadratics all having real or all non-real roots*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hgD_u8X82WEkCyMKo3vqKvNfYTKTm396/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro diversi interi positivi A, B, C con tre quadratici tutti con radici reali o non reali*
+
+> Mostrare che tra qualsiasi numero positivo distinto si possono scegliere tre, ad esempio $A$, $B$, $C$, in modo tale che le tre equazioni quadratiche $$Bx^2 + x + C = 0$$ $$Cx^2 + x + A = 0$$ $$Ax^2 + x + B = 0$$ abbiano tutte radici reali o tutte radici non reali.
+
+[[src_inmo_1999__Q05]]

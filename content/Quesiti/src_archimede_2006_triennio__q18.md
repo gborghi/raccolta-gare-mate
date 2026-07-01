@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Triennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_triennio__Q18
 parent: src_archimede_2006_triennio
 competition: Giochi di Archimede 2006 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordinare ISOLA senza due consonanti consecutive*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ordering ISOLA without two consecutive consonants*
+
+> How many distinct ways can the letters I, S, O, L, A be arranged so that there are no two consecutive consonants?
+>
+> - **(A)** 60,
+> - **(B)** 72,
+> - **(C)** 84,
+> - **(D)** 96,
+> - **(E)** 120.
+
+**Answer:** B
+[[src_archimede_2006_triennio__Q18]]

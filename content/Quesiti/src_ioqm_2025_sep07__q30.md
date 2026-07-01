@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 30
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q30
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -35,6 +36,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle S radius 10; S1 and S2 touch S internally and meet each other at two points A,B; angle OAB=90°; sum of radii*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Radio S del cerchio 10; S1 e S2 toccano S internamente e si incontrano a due punti A, B; angolo OAB=90°; somma dei raggi*
+
+> Il $S$ deve essere un cerchio di raggio 10 con il centro $O$. Supponiamo che $S_1$ e $S_2$ siano due cerchi che toccano $S$ internamente e si incrociano a due punti distinti $A$ e $B$. Se $\angle OAB = 90^\circ$, qual è la somma dei raggi di $S_1$ e $S_2$?
+
+**Risposta:** 10
+[[src_ioqm_2025_sep07__Q30]]

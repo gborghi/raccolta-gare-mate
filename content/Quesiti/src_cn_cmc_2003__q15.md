@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2003 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2003__Q15
 parent: src_cn_cmc_2003
 competition: China Mathematical Competition 2003
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the locus of all crease lines formed by folding a circle to fit a boundary point onto an interior point.*
 
@@ -45,3 +48,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare il locus di tutte le linee di piega formate piegando un cerchio per adattare un punto di confine a un punto interno.*
+
+> Un cerchio con centro $O$ e raggio $R$ è disegnato su carta e $A$ è un dato punto del cerchio con $OA = a$. Piegare la carta per rendere un punto $A'$ sulla circonferenza coincidente con il punto $A$, quindi si lascia una linea di piega sulla carta. Trova l'insieme di tutti i punti su tali linee di piega, quando $A'$ attraversa ogni punto della circonferenza.
+
+[[src_cn_cmc_2003__Q15]]

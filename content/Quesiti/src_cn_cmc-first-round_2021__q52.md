@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 52
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q52
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *B1-8: count permutations of 1..21 with |a_i-a_21| nondecreasing condition.*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*B1-8: contare le permutazioni di 1.21 con a_i_a_21 non diminuendo condizione.*
+
+> [Test Paper B1, Problema 8] Che $a_1,a_2,\ldots,a_{21}$ sia una permutazione di $1,2,\ldots,21$, soddisfacendo $$|a_{20}-a_{21}|\ge|a_{19}-a_{21}|\ge|a_{18}-a_{21}|\ge\cdots\ge|a_1-a_{21}|.$$ Il numero di tali permutazioni è ______.
+
+**Risposta:** 3070
+[[src_cn_cmc-first-round_2021__Q52]]

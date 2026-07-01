@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2021 Finale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q10
 parent: src_kangourou_2021_squadre_finale
 competition: Kangourou Coppa squadre 2021 Finale
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti interi da 1 a 2021 senza la cifra 6*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Integres from 1 to 2021 without the digit 6*
+
+> Without six John writes all integers from 1 to 2021 except those containing the number 6. How many numbers does he write?
+
+[[src_kangourou_2021_squadre_finale__Q10]]

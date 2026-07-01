@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2007 — Quesito
   2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2007__Q02
 parent: src_bocconi_finalenaz_2007
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2007
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare lo schema collegato in modo che ogni rettangolo sia somma dei due numeri collegati*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** Schema completato (vedere figura della soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete the connected pattern so that each rectangle is the sum of the two connected numbers*
+
+> DA 1 A 2007 Write the numbers 2; 2002; 2003; 2004; 2005 and 2006 in the boxes in the figure so that each number written in a rectangle is the sum of the two numbers to which it is directly linked.
+
+![[src_bocconi_finalenaz_2007__Q02.png]]
+
+**Answer:** Schema completato (vedere figura della soluzione)
+[[src_bocconi_finalenaz_2007__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre__Q05
 parent: src_kangourou_2022_kangourou_squadre
 competition: Kangourou Squadre 2022 Kangourou Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo n con tre divisioni per 7 resto 1 poi 0*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9661
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kPr4pxe9JLW6PscULmAS1patprSg1xRs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum n with three divisions for 7 remaining 1 then 0*
+
+> Divide 7 Anna divides a positive integer n by four digits by 7 and gets the remainder 1. Then divide the coefficient by 7 and you get the remainder of 1. Divide this new quotient by 7 and the rest is still 1. Now divide this last quotient by 7 and you get the remaining 0. What is the largest whole n that Anna could have started from?
+
+**Answer:** 9661
+[[src_kangourou_2022_kangourou_squadre__Q05]]

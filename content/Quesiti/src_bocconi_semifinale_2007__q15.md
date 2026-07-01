@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2007 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2007__Q15
 parent: src_bocconi_semifinale_2007
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2007
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione irriducibile corrispondente al numero 121212121212*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $\dfrac{4}{33}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Irreducible fraction corresponding to number 121212121212< MSK1/>
+
+> The number $121212121212$ (with alternating digits 1 and 2, for a total of 12 digits) is equal to an irreducible fraction of the form $\frac{4}{\square}$.
+> 
+> What is this fraction? (To reply irreducibly)
+
+**Answer:** $\dfrac{4}{33}$
+[[src_bocconi_semifinale_2007__Q15]]

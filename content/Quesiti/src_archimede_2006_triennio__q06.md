@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Triennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_triennio__Q06
 parent: src_archimede_2006_triennio
 competition: Giochi di Archimede 2006 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prezzo televisore con due sconti successivi*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>TV price with two successive discounts< MSK1/>
+
+> Francesco is interested in a TV model that is sold in the Landscape supermarket for 800 Euro. It is also noted that in Ipersfera stores they sell the same model at 15% less and practice a 10% discount to all customers named Francesco. How much do you spend buying a TV at the hypersphere stores?
+>
+> - **(A)** EUR 600,
+> - **(B)** EUR 612
+> - **(C)** EUR 680
+> - **(D)** EUR 720,
+> - **(E)** 790 Euros.
+
+**Answer:** B
+[[src_archimede_2006_triennio__Q06]]

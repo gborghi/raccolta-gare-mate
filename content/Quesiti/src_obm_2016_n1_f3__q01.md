@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f3__Q01
 parent: src_obm_2016_n1_f3
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle bisectors, parallel conditions; prove AB=AC from collinearity*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FTPhBzZbiZWvXsDRSCaClgLp-YMTQevY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Bissettori d'angolo, condizioni parallele; dimostrare AB=AC dalla collinearità*
+
+> Lasciate che $ABC$ sia un triangolo. Le linee $r$ e $s$ sono rispettivamente i bisettori interni di $\angle ABC$ e $\angle BCA$. I punti $E$ su $r$ e $D$ su $s$ sono tali da $AD \parallel BE$ e $AE \parallel CD$. Le linee $BD$ e $CE$ si incontrano a $F$. Indicare che se i punti $A$, $F$, $E$ sono collineari, allora $AB = AC$.
+
+[[src_obm_2016_n1_f3__Q01]]

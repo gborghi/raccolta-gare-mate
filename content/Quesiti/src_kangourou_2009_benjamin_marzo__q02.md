@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q02
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo quadratini coperti dal quadrato ABCD*
 
@@ -59,3 +62,29 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum squares covered by the ABCD square*
+
+![[src_kangourou_2009_benjamin_marzo__prob2.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \draw (0,0) grid (3,3);
+  \draw[thick] (1,3) -- (3,2) -- (2,0) -- (0,1) -- cycle;
+  \node[above] at (1,3) {$A$};
+  \node[right] at (3,2) {$B$};
+  \node[below] at (2,0) {$C$};
+  \node[left]  at (0,1) {$D$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The largest square in the figure, obtained by approximating 9 squares, contains the ABCD square in the given position. This, in turn, covers only one of the nine squares, the central one. What is the maximum number of squares that can be covered by the ABCD square if properly disposed of? A) 1 B) 2 C) 3 D) 4 E) 5
+
+**Answer:** D
+[[src_kangourou_2009_benjamin_marzo__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Triennio — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_triennio__Q22
 parent: src_archimede_2000_triennio
 competition: Giochi di Archimede 2000 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita tre lanci dado formino triangolo rettangolo*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of three triangular rectangular dice throws*
+
+> A common dice with faces numbered 1 to 6 is thrown three times and each time a stick of length equal to the result of the throw is taken. What is the probability that the three rods form the sides of a right triangle?
+>
+> - **(A)** 1 6
+> - **(B)** 1 36
+> - **(C)** 1 216
+> - **(D)** 5 18
+> - **(E)** 1 72.
+
+**Answer:** B
+[[src_archimede_2000_triennio__Q22]]

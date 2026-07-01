@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q19
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Parallelogram ABCD, E and F midpoints of AB and BC; lines EC and FD intersect at P; find max triangle area*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Parallelogramma ABCD, E e F punti di mezzo di AB e BC; linee EC e FD si incrociano a P; trovare superficie triangolare massima*
+
+> $ABCD$ sia un parallelo. $E$ e $F$ siano rispettivamente i punti intermedi di $AB$ e $BC$. Le linee $EC$ e $FD$ si incrociano a $P$ e formano quattro triangoli $APB$, $BPC$, $CPD$ e $DPA$. Se l'area del parallelo è di 100 sq. unità, qual è la superficie massima in sq. unità di un triangolo tra questi quattro triangoli?
+
+[[src_ioqm_2020__Q19]]

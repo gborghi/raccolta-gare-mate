@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f3__Q02
 parent: src_obm_2007_n3_f3
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integers c in [-2007,2007] for which x^2+c is a multiple of 2^2007 for some integer x*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hV2QFPABOEgEquJp5pRBUUMfLKtQpl8d/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri interi c nel [-2007,2007] per i quali x^2+c è un multiple di 2^2007 per alcuni numeri interi x*
+
+> Per quanti integri $c$, con $-2007 \le c \le 2007$, esiste un intero $x$ tale che $x^2 + c$ sia un multiple di $2^{2007}$?
+
+[[src_obm_2007_n3_f3__Q02]]

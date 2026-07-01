@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Biennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_biennio__Q03
 parent: src_archimede_2026_biennio
 competition: Giochi di Archimede 2026 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Biglie gialle minime per superare il 20%*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum yellow bags to exceed 20%< MSK1/>
+
+> One box contains 30 red balls. Laura adds more eggs to the box, yellow. How many yellow balls does he have to add, at least, because yellow balls are more than 20% of the total?
+>
+> - **(A)** 10
+> - **(B)** 9
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 6
+
+**Answer:** D
+[[src_archimede_2026_biennio__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2011 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2011__Q05
 parent: src_cn_cwmo_2011
 competition: China Western Mathematical Olympiad 2011
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine if odd n≥3 and n distinct primes exist with all consecutive products perfect squares*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** No
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Determine se esistono prime odd n ≥3 e n distinte con tutti i prodotti consecutivi a quadrati perfetti*
+
+> Determinare se ci sono numeri interi unici $n \ge 3$ e $n$ distinti prime $p_1, p_2, \ldots, p_n$, in modo che tutti $p_i \cdot p_{i+1}$ ($1 \le i \le n$ e $p_{n+1} = p_1$) siano quadrati perfetti.
+
+**Risposta:** No
+[[src_cn_cwmo_2011__Q05]]

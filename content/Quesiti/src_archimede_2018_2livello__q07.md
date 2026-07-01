@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_2livello__Q07
 parent: src_archimede_2018_2livello
 competition: Archimede Gara di Febbraio 2018 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area poligono da quadrati esterni a trapezio isoscele*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*External square polygon area with isosceles trapezoid *
+
+![[src_archimede_2018_2livello__prob7.png]]
+
+> ABCD is an isosceles trapezoid with sides of lengths AB = 15, BC = DA = 5, CD = 7. On the sides of ABCD, externally to ABCD, four squares are constructed. With reference to the figure, what is the area of the polygon A1A2B1B2C1C2D1D2?
+>
+> - **(A)** 297 + 35 √ 5
+> - **(B)** 396
+> - **(C)** 423
+> - **(D)** 105 + 144 √ 5
+> - **(E)** 200 √ 5 A B C D D2 A1 C2 D1 B2 C1 A2 B1
+
+**Answer:** C
+[[src_archimede_2018_2livello__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2020 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2020__Q03
 parent: src_cn_cmo_2020
 competition: China Mathematical Olympiad 2020
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n with 36 prime factors; counts of integers coprime to n in five equal subintervals; lower bound on sum of squared differences*
 
@@ -49,3 +52,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*n con 36 fattori primi; conteggio di numeri interi copri a n in cinque subintervalli uguali; limite inferiore sulla somma delle differenze quadrate*
+
+> Supponiamo che un intero positivo $n$ possa essere divisibile esattamente $36$ diversi numeri primi. Per $k = 1, 2, \ldots, 5$, $c_k$ è il numero di integri sull'intervallo $\left[\frac{(k-1)n}{5}, \frac{kn}{5}\right]$ che sono copriemi con $n$. È noto che $c_1, c_2, \ldots, c_5$ non sono tutti uguali. Provare che < MSK0/>
+
+[[src_cn_cmo_2020__Q03]]

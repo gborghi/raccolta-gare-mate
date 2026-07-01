@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_febb29_2livello__Q13
 parent: src_archimede_2012_febb29_2livello
 competition: Archimede Gara Febbraio 2012 (29 feb) - 2 livello
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza primo, prodotto quadrato perfetto, massimo primo p*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 19
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>First difference, perfect square product, maximum first p< MSK1/>
+
+> The difference of two positive integers a and b is a prime number p and their product is a perfect square not exceeding 10,000. What is the maximum value that p can assume?
+
+**Answer:** 19
+[[src_archimede_2012_febb29_2livello__Q13]]

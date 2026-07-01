@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_pubblico__Q20
 parent: src_archimede_2001_pubblico
 competition: Archimede 2001 - Gara del Pubblico (Cesenatico)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *raggio terza*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>third radius < MSK1/>
+
+> There is a square next to the parliament building with three circular fountains. Two of them have a radius of $64$ imometres, are tangent externally and tangent to a tree-lined avenue. The third is tangent externally to the first two and the avenue. How many imometers is its radius?
+
+**Answer:** 0016
+[[src_archimede_2001_pubblico__Q20]]

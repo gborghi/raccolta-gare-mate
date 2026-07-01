@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Semifinale individuale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet_semifinale__Q18
 parent: src_kangourou_2023_cadet_semifinale
 competition: Kangourou 2023 Cadet — Semifinale individuale
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *valore di A-B*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1M9sXIkUDY4rP1rr4DHPF0VSPHt_-LbxS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>value of A-B< MSK1/>
+
+> (Points 8) Whether A is the sum of the squares of all positive integers from 1 to 2,023 included and whether B = (1 × 3) + (2 × 4) + (3 × 5) + ... + (2.022 × 2.024). How much is A  B? 1 5 2 3 4
+
+[[src_kangourou_2023_cadet_semifinale__Q18]]

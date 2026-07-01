@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f2__Q06
 parent: src_obm_2013_n2_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pattern in two-column table: find 10th row and sum on row 21*
 
@@ -61,3 +64,19 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jz8AX5epqRi_4AzCthzju1jrj_ZupO7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Modello nella tabella a due colonne: trovare la decima riga e somma nella riga 21*
+
+> Nella tabella mostrata, a partire dalla seconda riga, il numero scritto nella colonna $X$ è uguale al prodotto dei numeri della riga precedente e il numero scritto nella colonna $Y$ è uguale al quotiente del valore $X$ diviso dal valore $Y$ della riga precedente.
+> 
+> $$\begin{array}{c|c|c} \text{Row} & X & Y \\ \hline 1^\circ & & 1 \\ 2^\circ & 2 & 2 \\ 3^\circ & 4 & 1 \\ \hline \cdots & \cdots & \cdots \end{array}$$
+> 
+> a) Quale numero figura nella colonna $X$ della decima riga?
+> 
+> b) Qual è la somma dei numeri che figurano nella riga $21$?
+
+[[src_obm_2013_n2_f2__Q06]]

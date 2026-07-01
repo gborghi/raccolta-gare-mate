@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo13yq_yosen__Q04
 parent: src_jmo13yq_yosen
 competition: Japan Mathematical Olympiad 2003 — Yosen (Preliminary)
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find x^3+y^3+z^3 given three symmetric power-sum equations*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova x^3+y^3+z^3 data tre equazioni simmetriche potenza-somma*
+
+> Tre numeri reali $x, y, z$ soddisfano $$\begin{cases} x + y + z = 0, \\ x^2 + y^2 + z^2 = 3, \\ x^5 + y^5 + z^5 = 15. \end{cases}$$ Trova il valore di $x^3 + y^3 + z^3$.
+
+[[src_jmo13yq_yosen__Q04]]

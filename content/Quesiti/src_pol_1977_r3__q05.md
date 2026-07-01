@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1977 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1977_r3__Q05
 parent: src_pol_1977_r3
 competition: Olimpiade Matematica Polacca 1977 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex polygon has a circumscribed circle through three consecutive vertices containing the polygon*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ihJu65X9h_5nFSLWEBnWr2rsJ1UTiKwI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il poligono converso ha un cerchio circoscritto attraverso tre vertici consecutivi che contengono il poligono*
+
+> Mostrare che per ogni poligono convex c'è un cerchio che attraversa tre vertici consecutivi del poligono e contiene l'intero poligono.
+
+[[src_pol_1977_r3__Q05]]

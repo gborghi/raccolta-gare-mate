@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q24
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of wolves among five animals where dogs tell truth and wolves lie*
 
@@ -49,3 +52,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Numero di lupi tra i cinque animali in cui i cani dicono la verità e i lupi mentono
+
+> Cinque animali < MSK0/>, < MSK1/>, < MSK2/>, < MSK3/> e < MSK4/> sono cani o lupi. I cani dicono sempre la verità e i lupi mentono sempre. $A$ dice che $B$ è un cane. Il MSK7 dice che il MSK8 è un lupo. $C$ dice che $D$ è un lupo. < MSK11/> dice che < MSK12/> e < MSK13/> sono animali di specie diverse. < MSK14/> dice che < MSK15/> è un cane. Quanti lupi ci sono tra i cinque animali?
+> 
+> (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
+
+**Risposta:** D
+[[src_obm_2001_n2_f1__Q24]]

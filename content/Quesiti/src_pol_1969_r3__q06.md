@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1969 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1969_r3__Q06
 parent: src_pol_1969_r3
 competition: Olimpiade Matematica Polacca 1969 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine which n allow a polyhedron with exactly n edges*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RbcyYOsjDo8XEM7n0JSDDu_IhTzLThy_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Determine quale n permette un poliedro con esattamente n bordi*
+
+> Per quali valori di $n$ esiste un poliedro con bordi $n$?
+
+[[src_pol_1969_r3__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2002 - Biennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_biennio__Q15
 parent: src_archimede_2002_biennio
 competition: Giochi di Archimede 2002 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Regioni in cui le facce prolungate dividono lo spazio*
 
@@ -45,3 +48,19 @@ tags:
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Regions where elongated faces divide space*
+
+> If we extend all the faces of a cube, how many regions are all the space divided into (including the inside of the cube)?
+>
+> - **(A)** 9
+> - **(B)** 16
+> - **(C)** 24
+> - **(D)** 27
+> - **(E)** 32.
+
+[[src_archimede_2002_biennio__Q15]]

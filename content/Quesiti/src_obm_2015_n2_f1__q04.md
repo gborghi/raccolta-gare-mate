@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q04
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Possible date of Marta's birthday given Mother's Day constraint*
 
@@ -48,3 +51,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Possibile data del compleanno di Marta data la limitazione del Giorno della Madre< MSK1/>
+
+> Joao è un uomo molto premuroso e ha deciso di festeggiare, in un solo giorno, il giorno della Madre e il compleanno di sua moglie Marta. Sapendo che in un determinato anno le due date coincidono e che il giorno dopo la celebrazione non coinciderà più (il giorno della madre viene celebrato la seconda domenica di maggio), quale delle opzioni rappresenta una possibile data per il compleanno di Marta?
+> 
+> (A) 04 maggio (B) 05 maggio (C) 06 maggio (D) 07 maggio (E) 08 maggio
+
+[[src_obm_2015_n2_f1__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f1__Q12
 parent: src_obm_2007_n3_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right-triangle road network; detour 24% longer; bound tan of smallest angle*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rete stradale a triangolo retto; deviazione del 24% più lunga; bronzatura con angolo più piccolo *
+
+> Le città di A'opolis, Be'opolis e Ce'opolis sono collegate da strade rette. È noto che la strada che collega A'opolis e Be'opolis è perpendicolare alla strada che collega A'opolis e Ce'opolis. Rubens vive a Be'opolis e ha un impegno a Ce'opolis. Tuttavia, la strada che collega Be'opolis a Ce'opolis è chiusa, quindi deve percorrere la rotta Be'opolis-A'opolis-Ce'opolis. Per raggiungere l'impegno in tempo, Rubens viaggia a una velocità < MSK0/> superiore a quella che avrebbe usato sulla strada chiusa.
+> 
+> Se $\alpha$ è l'angolo più piccolo del triangolo determinato dalle tre strade, allora:
+> 
+> (A) $0<\tan\alpha<\dfrac{1}{6}$ \quad (B) $\dfrac{1}{6}<\tan\alpha<\dfrac{1}{5}$ \quad (C) $\dfrac{1}{5}<\tan\alpha<\dfrac{1}{4}$ \quad (D) $\dfrac{1}{4}<\tan\alpha<\dfrac{1}{3}$ \quad (E) $\dfrac{1}{3}<\tan\alpha<1$
+
+**Risposta:** D
+[[src_obm_2007_n3_f1__Q12]]

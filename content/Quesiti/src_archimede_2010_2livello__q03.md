@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_2livello__Q03
 parent: src_archimede_2010_2livello
 competition: Archimede Gara 2° livello 2010 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti cavalieri tra quattro abitanti con affermazioni date*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many knights among four inhabitants with given statements*
+
+> 3. On an island there are two kinds of people: the knights, who always tell the truth, and the cunning ones, who always lie. We met on this island a group of four inhabitants who, when asked about their identity, replied: A: There is at least one cheater among us. B: There are at most two cheaters among us. C: There are at least three cheaters among us. D: There are no cheaters among us. How many cheaters are there in this set of four inhabitants?
+>
+> - **(A)** No one .
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** I mean, everybody.
+
+**Answer:** C
+[[src_archimede_2010_2livello__Q03]]

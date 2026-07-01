@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f1__Q16
 parent: src_obm_2010_n1_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Students liking both Math and Portuguese in class of 56*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Gli studenti che amano sia la matematica che il portoghese nella classe 56
+
+> In una classe di grado $6^{\text{th}}$, ogni studente ama almeno una delle due materie seguenti: matematica o portoghese. Meno di < MSK1/> degli studenti come la matematica e < MSK2/> degli studenti come il portoghese. La classe ha studenti < MSK3/>. Quanti studenti amano entrambi i soggetti allo stesso tempo?
+> 
+> (A) $8$ \quad (B) $13$ \quad (C) $24$ \quad (D) $26$
+
+**Risposta:** B
+[[src_obm_2010_n1_f1__Q16]]

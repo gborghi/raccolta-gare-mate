@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale nazionale Junior — Quesito J3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_finale__QJ3
 parent: src_kangourou_2019_junior_finale
 competition: Kangourou 2019 Finale nazionale Junior
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Possono Bruno e Carlo avere un giorno di riposo comune (programmi sportivi)*
 
@@ -35,3 +38,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Bruno and Carlo can have a day of rest together (sports programmes) *
+
+> Bruno and Carlo practice three sports: soccer, volleyball, and swimming, no more than one a day. A day of football must be followed by two days of rest, a day of volleyball by one day of rest, a day of swimming does not require days of rest and may replace a day of rest. Each person has a training programme that is repeated periodically: in each period each person practices each sport the same number of times and the minimum interval of time between two consecutive times in which one of them practices the same sport is the same for all sports. The programme also provides for the reduction of rest days to the minimum possible. Bruno and Carlo each started their own program on the same day. They're doing different sports today and they'd like to go out and have fun on the first day of rest for both of them. Can they be sure that they will succeed in their endeavor?
+
+[[src_kangourou_2019_junior_finale__QJ3]]

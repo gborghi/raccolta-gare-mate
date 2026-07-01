@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f1__Q01
 parent: src_obm_2016_n3_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which of the letters O, B, M can occupy a given (gray) cell of a 3x3 grid*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quale delle lettere O, B, M può occupare una data cella (grige) di una griglia 3x3*
+
+> In una griglia $3\times 3$ si riempiono le celle con le lettere O, B, M (soggetto alle regole del problema). Gli esempi di seguito mostrano che una delle lettere può apparire nella cella evidenziata (grigio). Quali lettere possono occupare quella cella? [Ricostruito a partire dalla chiave di risposta; l'elenco originale delle opzioni non è riprodotto nella fonte. Le chiavi di risposta indicano: O, B e M.]
+
+![[src_obm_2016_n3_f1__Q01.png]]
+
+**Risposta:** E
+[[src_obm_2016_n3_f1__Q01]]

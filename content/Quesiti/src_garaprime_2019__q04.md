@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2019 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2019__Q04
 parent: src_garaprime_2019
 competition: Gara Nazionale Classi Prime 2019
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima distanza tra anagrammi di MAMMMMME*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GTzdagqUQpCUSYBLrYJmJaKl7DQUIbtK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most distance between anagrams of MAMMMMME*
+
+> The distance between two anagrams of the same word is the minimum number of consecutive letter exchanges I have to make to turn one of the two into the other. For example, ACTA has distance 1 from ATCA and distance 2 from ATAC. What is the maximum distance that MAMMMMME can be from one of its anagrams? A 12 B 14 C 11 D 10 E 6 F 9
+
+**Answer:** A
+[[src_garaprime_2019__Q04]]

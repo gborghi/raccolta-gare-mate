@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2006 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo4q__Q11
 parent: src_jjmo4q
 competition: Japan Junior Mathematical Olympiad 2006
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count colorings of 3×3 grid with 3 or 4 colors; adjacent cells different colors*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare colori di 3 ×3 griglie con 3 o 4 colori; celle adiacenti di colori diversi*
+
+> (1) Colorare ciascuna cellula di una griglia $3 \times 3$ con uno dei tre colori: blu, giallo o rosso, in modo che le cellule adiacenti (che condividono un bordo) siano di colori diversi. Quante sono queste colorazioni? (I colori che sono uguali fino alla rotazione o alla riflessione sono comunque considerati diversi. Tuttavia, i colori che differiscono solo per rotazione o riflessione vengono contati come diversi.)
+> 
+> (2) Nella situazione di (1), se i tre colori sono blu, giallo, rosso e verde (quattro colori in totale), quanti colori ci sono?
+
+[[src_jjmo4q__Q11]]

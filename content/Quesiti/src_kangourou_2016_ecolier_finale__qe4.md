@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (finale Cervia) — Quesito E4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_finale__QE4
 parent: src_kangourou_2016_ecolier_finale
 competition: Kangourou 2016 Écolier (finale Cervia)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *posso restare senza denaro*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** No, resto con 1 centesimo
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17WfUAkrXUQQ692jH5sAM_Bsr9ebUFZPI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+I can run out of money.
+
+> The currency of Kangland is the kang. Eurokang exchange rate works like this: you get $1$ kang by paying $2$ euro, you get $1$ euro by paying $1$ kang and proportionally if you change lower value coins. In both currencies, the minimum value coin is the one-cent coin; any amount of money can be changed and the result of the change, if not expressed by an integer number of cents, is rounded to a cent for excess. If at first I change the euro into kang, then I change the kang made into euro, then I change the kang made into euro and I do this, can I run out of money?
+
+**Answer:** No, resto con 1 centesimo
+[[src_kangourou_2016_ecolier_finale__QE4]]

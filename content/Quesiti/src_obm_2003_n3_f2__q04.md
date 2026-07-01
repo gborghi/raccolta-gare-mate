@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f2__Q04
 parent: src_obm_2003_n3_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Point on perimeter of right triangle minimizing sum of distances*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pVKqURzPw84tCEK8gfD_OWrWrg3t7l7s/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto sul perimetro del triangolo rettangolo minimizzando la somma delle distanze*
+
+> Il triangolo $ABC$ è angolato a destra a $A$. Tra tutti i punti $P$ sul perimetro del triangolo, trova quello che riduce al minimo $AP + BP + CP$.
+
+[[src_obm_2003_n3_f2__Q04]]

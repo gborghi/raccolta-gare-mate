@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2008 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2008__Q06
 parent: src_bocconi_semifinale_2008
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2008
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso del cubo bucato ricavato da cubo 4x4x4*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 440
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Weight of washed cube obtained from 4x4x4 cube*
+
+> This large cube is made up of $4 \times 4 \times 4$ cubes glued together. Starting from the three faces visible, we crossed the cube from one side to the other, lifting entire rows of cubes (in the direction indicated by the arrows). If this wash cube weighs < MSK1/> grams, what is the weight of the 'wash cube' (i.e. the remaining cubes)?
+
+![[src_bocconi_semifinale_2008__Q06.png]]
+
+**Answer:** 440
+[[src_bocconi_semifinale_2008__Q06]]

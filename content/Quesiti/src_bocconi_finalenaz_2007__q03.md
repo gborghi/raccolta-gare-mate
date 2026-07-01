@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2007 — Quesito
   3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2007__Q03
 parent: src_bocconi_finalenaz_2007
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2007
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante stelle ha visto Luca dopo la caduta?*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 28 stelle
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many stars did Luke see after the fall?
+
+> As he was passing the new wheeled plates, Luke fell and got a nice kick! Unfortunately, he did see the stars. The French, in these cases, say they always see 36. Luke, on the other hand, kneeling, thinks, "If I subtract from the number of stars I've seen half of those that are missing to 36, I'll get 24". How many stars has Luca seen?
+
+**Answer:** 28 stelle
+[[src_bocconi_finalenaz_2007__Q03]]

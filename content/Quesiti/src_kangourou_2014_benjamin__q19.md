@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Benjamin — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin__Q19
 parent: src_kangourou_2014_benjamin
 competition: Kangourou 2014 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo cioccolatini da aggiungere (resto 2 mod 3 e 5)*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum chocolates to be added (remaining 2 mod 3 and 5) < MSK1/>
+
+> Miriam has some chocolates. Whether you group them into groups of 3 or you group them into groups of 5, you always have 2. How many more must you take to a minimum if you want them to be grouped into groups of three or grouped into groups of five and no one is left with them? A) 3
+> 	
+> B) 1
+> 	
+> C) 4
+> 	
+> D) 10
+> 	
+> E) 13
+
+**Answer:** E
+[[src_kangourou_2014_benjamin__Q19]]

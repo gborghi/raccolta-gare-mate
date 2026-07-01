@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2007 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2007__Q17
 parent: src_bocconi_semifinale_2007
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2007
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto AX/XY in triangolo con punto su ceviana*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\dfrac{AX}{XY} = \dfrac{12}{49}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AX/XY ratio in a triangle with a point on the cevial*
+
+> At the recent Festival of Mathematics in Rome, the famous painter Mathart exhibited his work in triangular form (see figure, which does not respect proportions). The young man $X$ visited her and, curious, asked him why the ratio between the sides $AX$ and $XY$. Mathart merely replied that the point $X$ was on the figure so that the ratio $\frac{AX}{XY}$ was equal to 12 to 49.
+> 
+> How much is the MSK0/?
+
+![[src_bocconi_semifinale_2007__Q17.png]]
+
+**Answer:** $\dfrac{AX}{XY} = \dfrac{12}{49}$
+[[src_bocconi_semifinale_2007__Q17]]

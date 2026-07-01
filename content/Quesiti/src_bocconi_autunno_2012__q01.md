@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2012 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2012__Q01
 parent: src_bocconi_autunno_2012
 competition: Giochi d'Autunno 2012
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Più piccolo numero intero positivo di 4 cifre pari e diverse*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2046
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NV-k_HLPNGANyAIvy1osIKx3v70VuvCV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lesser positive integer of 4 equal and different digits*
+
+> What is the smallest (positive integer) of four digits, all equal and all different from each other? Note: 0 is considered an even number and no number starts with 0.
+
+**Answer:** 2046
+[[src_bocconi_autunno_2012__Q01]]

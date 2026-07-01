@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q25
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante persone stavano danzando in quell'istante*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many people were dancing at that moment?
+
+> Tango is danced in pairs of a man and a woman. No more than 50 people attended a dance party. At some point, three-quarters of the men were dancing with four-fifths of the women. How many people were dancing at that moment? A) 20 B) 24 C) 30 D) 32 E) 46
+
+**Answer:** B
+[[src_kangourou_2012_cadet__Q25]]

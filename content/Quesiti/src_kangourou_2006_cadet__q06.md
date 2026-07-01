@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q06
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Centilitri rimasti nella bottiglietta dopo aver versato*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Centiliters left in the bottle after pouring< MSK1/>
+
+> A 1/3-liter bottle is 3/4 full. How many centimetres of liquid will it contain after pouring 20 centimetres into a glass? A) 24.5 B) 7.5 C) 5 D) 13 E) 0 (i.e. it will be empty) Pag. I'm going to pay. The Commission has not yet decided whether to proceed with the adoption of a decision on the application of this Regulation.
+> 
+> I'm going to pay. I'm going to pay. 18 18 Kang 2006 Kang
+
+**Answer:** C
+[[src_kangourou_2006_cadet__Q06]]

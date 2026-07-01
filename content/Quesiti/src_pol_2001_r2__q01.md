@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2001 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2001_r2__Q01
 parent: src_pol_2001_r2
 competition: Olimpiade Matematica Polacca 2001 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divisibility of a difference of binomial coefficients by a prime p=2k-1, and then by its square.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dO7OqqHjPcVUusxRxcY7zUJe_pdXhL9d/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Divisibilità di una differenza di coefficienti binomiali da un primo p=2k-1, e quindi dal suo quadrato.*
+
+> $k,n>1$ siano numeri interi in modo tale che il numero $p=2k-1$ sia primo. Prova che, se il numero $\binom{n}{2}-\binom{k}{2}$ è divisibile da $p$, allora è divisibile da $p^2$.
+
+[[src_pol_2001_r2__Q01]]

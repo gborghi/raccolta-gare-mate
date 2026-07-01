@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f1__Q05
 parent: src_obm_2002_n1_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Self-referential question about letters in the incorrect answers*
 
@@ -49,3 +52,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NviJwQmbmihSaakvq3DJSWhViadj6Z5P/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Questione autoreferenziale sulle lettere nelle risposte errate*
+
+> Qual è il numero totale di lettere di tutte le risposte errate a questa domanda?
+> 
+> (A) Quarantotto. (B) Quarantove nove. (C) Cinquanta. (D) Cinquanta e uno. (E) Cinquantaquattro.
+
+**Risposta:** D
+[[src_obm_2002_n1_f1__Q05]]

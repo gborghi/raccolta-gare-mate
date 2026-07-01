@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2000 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_2livello__Q04
 parent: src_archimede_2000_2livello
 competition: Archimede Gara 2º livello 2000
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Carte minime per 50% di pescare almeno un cuori*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum 50% card for fishing at least one heart*
+
+> What is the minimum number of cards you need to fish from an ordinary deck of 52 to have at least a 50% chance of extracting one or more card hearts?
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6.
+
+**Answer:** B
+[[src_archimede_2000_2livello__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Semifinale 2 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_semifinale2__Q15
 parent: src_squadre_2023_semifinale2
 competition: Gara a Squadre 2023 - Semifinale 2
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo CAB in triangolo isoscele con conciclici*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0072
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*CAB angle in an isosceles triangle with conicles*
+
+> Inspector Zenonigata is convinced he can catch all three thieves. He's in the center of the GJL triangle formed by the three thieves. Goemetrikon and Jig are 79 metres apart, while Goemetrikon and Lupin/3 are 119 metres apart. Goemetrikon jumps like only samaterai can do and lands in the symmetrical, relative to Zenonigata, of its starting point. He realizes that he is (still) on the circumscribed circumference at GJL; he calculates the distance between Lupin and Jig and saves his friends. How many meters do you measure the distance between Lupin and Jig?
+
+**Answer:** 0072
+[[src_squadre_2023_semifinale2__Q15]]

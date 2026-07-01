@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q11
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della regione ombreggiata con cerchi grandi e piccoli*
 
@@ -92,3 +95,58 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of shaded region with large and small circles*
+
+![[src_kangourou_2022_junior_gara__prob11.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+% 3 big circles (radius 2) each containing 2 small circles (radius 1); all centers collinear
+% Small circles radius 1 at x=0,2,4,6,8,10; big circles radius 2 centered at x=1,5,9
+% Shaded: inside big circle, outside its two small circles
+\begin{scope}
+  \clip (1,0) circle (2);
+  \fill[gray!40] (1,0) circle (2);
+  \fill[white] (0,0) circle (1);
+  \fill[white] (2,0) circle (1);
+\end{scope}
+\begin{scope}
+  \clip (5,0) circle (2);
+  \fill[gray!40] (5,0) circle (2);
+  \fill[white] (4,0) circle (1);
+  \fill[white] (6,0) circle (1);
+\end{scope}
+\begin{scope}
+  \clip (9,0) circle (2);
+  \fill[gray!40] (9,0) circle (2);
+  \fill[white] (8,0) circle (1);
+  \fill[white] (10,0) circle (1);
+\end{scope}
+\draw (1,0) circle (2);
+\draw (5,0) circle (2);
+\draw (9,0) circle (2);
+\draw (0,0) circle (1);
+\draw (2,0) circle (1);
+\draw (4,0) circle (1);
+\draw (6,0) circle (1);
+\draw (8,0) circle (1);
+\draw (10,0) circle (1);
+\end{tikzpicture}
+\end{document}
+```
+
+> The figure shows three large circles and four small ones. Each large circle contains exactly two small circles; the centers of all the circles and all the tangent points between the circumscriptions that delimit them are aligned on the same straight line. The radius of each small circle measures 1. How much is the shaded area worth? A) π
+>   
+> B) 2π
+>   
+> C) 3π D) 4π E) 6π 22 3 8 ?
+>
+
+**Answer:** B
+[[src_kangourou_2022_junior_gara__Q11]]

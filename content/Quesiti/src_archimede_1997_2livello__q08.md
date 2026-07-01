@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1997 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_2livello__Q08
 parent: src_archimede_1997_2livello
 competition: Archimede Gara 2º livello 1997
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizione finale dopo 1997 passi su foglio a quadretti*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Final position after 1997 steps on square sheet< MSK1/>
+
+![[src_archimede_1997_2livello__prob8.png]]
+
+> Let us place a point O at the intersection of two yines of a square sheet and indicate the four directions parallel to the lines as North, South, East, West (North up). Let's move from O to a square to the east, then two to the north, three to the west, four to the south, five to the east, and so on. After the 1997 steps, where are we from the starting point O?
+>
+> - **(A)** 1996 squares north of O
+> - **(B)** 998 squares south and 999 squares east of O
+> - **(C)** 999 squares west and 998 squares north of O
+> - **(D)** 999 squares north and 999 squares west of O
+> - **(E)** 998 squares east and 998 squares south of O
+
+**Answer:** B
+[[src_archimede_1997_2livello__Q08]]

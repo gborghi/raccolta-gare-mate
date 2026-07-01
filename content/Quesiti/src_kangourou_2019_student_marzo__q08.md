@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q08
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale immagine del dado non posso vedere (probabilita date)*
 
@@ -48,3 +51,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which image of the dice I can't see (probability dates) *
+
+![[src_kangourou_2019_student_marzo__prob8.png]]
+
+> The faces of an unusual dice contain only 1, 2 or 3 points; we know that the probability of a draw 1 is 1/2 and the probability of a draw 2 is 1/3. Which of the following images can I not see looking at this dice? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** C
+[[src_kangourou_2019_student_marzo__Q08]]

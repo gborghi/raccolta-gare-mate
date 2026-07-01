@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1998 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1998_r3__Q06
 parent: src_pol_1998_r3
 competition: Olimpiade Matematica Polacca 1998 — Round 3
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Chessboard in circle: change signs in rows/columns/diagonals; reach –1 in exactly one square?*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HNzsYtp4f53ox4csFAmBEErk9uGCnNXP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tavola d' scacchi in cerchio: cambia i segni nelle righe/colonne/diagonali; raggiunge 1 in esattamente un quadrato?*
+
+> Considerate i quadrati di unità nel piano le cui vertici hanno coordinate interi. Che $S$ sia la scacchiera costituita da tutti i quadrati unitari che si trovano interamente all'interno del cerchio $x^2 + y^2 \le 1998^2$. In ogni quadrato della scacchiera $S$ è scritto un numero. In ogni mossa, possiamo cambiare il segno di tutti i numeri in una riga, colonna o diagonale di $S$ (una diagonale è costituita da tutti i quadrati unitari che si trovano su una linea che forma un angolo di $45^\circ$ con gli assi). È possibile avere $-1$ in esattamente un'unità quadrata di $S$ dopo infinite mosse?
+
+[[src_pol_1998_r3__Q06]]

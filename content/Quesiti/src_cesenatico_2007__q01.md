@@ -1,6 +1,7 @@
 ---
 title: XXIII Olimpiade Italiana Cesenatico 2007 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007__Q01
 parent: src_cesenatico_2007
 competition: XXIII Olimpiade Italiana Cesenatico 2007
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *punti con somma distanze da rette/vertici minima*
 
@@ -70,3 +73,41 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (a) interno/bordo esagono; (b) il centro
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f34U527qzfJNiSRUXGF8n4qcd2jD3ko5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*points with sum of minimum vertical/straight distances*
+
+![[src_cesenatico_2007__prob1a.png]]
+![[src_cesenatico_2007__prob1b.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (-1,-1.732);
+  \coordinate (B) at (1,-1.732);
+  \coordinate (C) at (2,0);
+  \coordinate (D) at (1,1.732);
+  \coordinate (E) at (-1,1.732);
+  \coordinate (F) at (-2,0);
+  \coordinate (P) at (0,0);
+  \draw (A)--(B)--(C)--(D)--(E)--(F)--cycle;
+  \draw (A)--(D); \draw (B)--(E); \draw (C)--(F);
+  \fill (P) circle (1.5pt);
+  \node[below] at (A) {$A$};
+  \node[below] at (B) {$B$};
+  \node[right] at (C) {$C$};
+  \node[above] at (D) {$D$};
+  \node[above] at (E) {$E$};
+  \node[left] at (F) {$F$};
+  \node[below right] at (P) {$P$};
+\end{tikzpicture}
+\end{document}
+```
+
+> A regular hexagon is given in the plan. For each point P of the plane, we call P the sum of the six distances between P and the lines on which the sides of the hexagon lie, and v(P) the sum of the six distances of P from the vertices of the hexagon. (a) For which P points of the plan is the minimum P? (b) For which points P of the plan v(P) is the minimum?
+
+**Answer:** (a) interno/bordo esagono; (b) il centro
+[[src_cesenatico_2007__Q01]]

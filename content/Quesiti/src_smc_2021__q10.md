@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2021 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2021__Q10
 parent: src_smc_2021
 competition: Senior Mathematical Challenge 2021
@@ -32,6 +33,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pie chart of favourite fruit pies with exact angles: apple 140°, cherry 108°, plum 40°, rhubarb 72°; find minimum people surveyed.*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Grafico delle torte di frutta preferite con angolazioni esatte: mela, ciliegio, prugna, rabarba, ricerca di persone minime.
+
+> In un sondaggio è stato chiesto alle persone di nominare la loro torta di frutta preferita. Il grafico della torta mostra il risultato. Gli angoli mostrati sono esatti senza arrotondamento. Qual è il numero minimo di persone che avrebbero potuto essere intervistate?
+>
+> - **(A)** 45
+> - **(B)** 60
+> - **(C)** 80
+> - **(D)** 90
+> - **(E)** 180
+
+![[src_smc_2021__Q10.png]]
+
+**Risposta:** D
+[[src_smc_2021__Q10]]

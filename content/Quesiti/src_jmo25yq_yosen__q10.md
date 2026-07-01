@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo25yq_yosen__Q10
 parent: src_jmo25yq_yosen
 competition: Japan Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count how many times 25^2015 appears in orbit of the digit-operation starting from 25^2015*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1puWzUo8OLdW2kCIHzGHhZaVauCRdH9Ya/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare quante volte 25^2015 appare in orbita dell'operazione digitali a partire dal 25^2015*
+
+> Considerare la seguente operazione sui numeri interi positivi: rimuovere la cifra unità $d$ del numero e aggiungere $4d$ al numero rimanente (cioè, se $n = 10q + d$ con $0 \le d \le 9$, sostituire $n$ con $q + 4d$). Ad esempio, $7 \mapsto 0 + 4 \times 7 = 28$ e $139 \mapsto 13 + 4 \times 9 = 49$. A partire da $25^{2015}$, applicare successivamente questa operazione $10000$ volte. Tra i numeri $10001$ della sequenza (compreso il valore di partenza $25^{2015}$), quanti sono uguali $25^{2015}$?
+
+**Risposta:** 4
+[[src_jmo25yq_yosen__Q10]]

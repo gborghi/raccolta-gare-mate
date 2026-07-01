@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2026 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2026__Q18
 parent: src_oprem_2026
 competition: Olympiades Nationales de Mathématiques (Première) 2026
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exercise 2, Q12: show N/pi(N) >= M for N large enough*
 
@@ -43,3 +46,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LLPTi5ufMEDVFp1I29WzXWLiM0F8_rKH/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esercizio 2, Q12: mostra N/pi(N) >= M per N sufficientemente grande*
+
+> Esercizio 2 - (12) Infine dimostri che per $N$ sufficientemente grande, $\frac{N}{\pi(N)} \ge M$.
+
+[[src_oprem_2026__Q18]]

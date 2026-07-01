@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1984 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1984_r3__Q01
 parent: src_pol_1984_r3
 competition: Olimpiade Matematica Polacca 1984 — Round 3
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count functions on an n-element set whose (n-1)-th iterate is constant but (n-2)-th iterate is not.*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uJbOajHDsVJS_W8N_b349B1gwV3vlEpC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le funzioni su un insieme di n elementi la cui (n-1) -th iterate è costante ma (n-2) -th iterate non è.*
+
+> Trova il numero di tutte le funzioni reali $f$ che mappano la somma degli elementi $n$ nella somma delle loro immagini, in modo che $f^{n-1}$ sia una funzione costante e $f^{n-2}$ non lo sia. Qui $f^0(x)=x$ e $f^k=f\circ f^{k-1}$ per $k\ge 1$.
+
+[[src_pol_1984_r3__Q01]]

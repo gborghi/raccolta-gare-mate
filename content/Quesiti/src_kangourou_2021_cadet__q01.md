@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q01
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Segno zodiacale con un asse di simmetria*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Zodiac sign with an axis of symmetry*
+
+![[src_kangourou_2021_cadet__prob1.png]]
+
+> The following symbols represent some of the zodiac signs. Which one of them has an axis of symmetry? A) Cancer B) Scorpio C) Lion
+> 	
+> D) Sagittarius
+> 	
+> E) Capricorn
+
+**Answer:** D
+[[src_kangourou_2021_cadet__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa/Gara di febbraio 2005 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_febbraio_2005__Q13
 parent: src_febbraio_2005
 competition: Coppa/Gara di febbraio 2005
@@ -21,6 +22,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *diagonale e ordinamento*
 
@@ -29,3 +32,13 @@ tags:
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*diagonal and ordering*
+
+> On a chessboard $75 \times 75$ the rows and columns are numbered from 1 to 75. Clear wants to put a pad in every box that has an equal coordinate and the other multiple of 3. How many pawns will he have on the chessboard?
+
+[[src_febbraio_2005__Q13]]

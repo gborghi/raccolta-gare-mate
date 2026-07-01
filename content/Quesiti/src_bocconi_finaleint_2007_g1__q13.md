@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 1) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g1__Q13
 parent: src_bocconi_finaleint_2007_g1
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Terreno di Pere Icles: area del pentagono con angoli di 45, 90, 225 gradi e diagonale AB=152 m*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $11\,552\ \mathrm{m}^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Terrain of Pere Icles: area of the pentagon with angles of 45, 90, 225 degrees and diagonal AB=152 m*
+
+> The Pere Icles has a pentagon-shaped land. As indicated in the figure, the two smallest sides of this pentagon are of the same length and the inner angles all measure $45^\circ$, $90^\circ$ or $225^\circ$. When Pere Icles is asked the area of his land, he simply answers: \"The AB diagonal measures exactly $152$ meters. You know enough to calculate the land area!" What is the area of the pre d'Icles (in < MSK4/>)?
+
+![[src_bocconi_finaleint_2007_g1__Q13.png]]
+
+**Answer:** $11\,552\ \mathrm{m}^2$
+[[src_bocconi_finaleint_2007_g1__Q13]]

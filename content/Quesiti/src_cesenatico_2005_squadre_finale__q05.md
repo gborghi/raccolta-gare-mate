@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q05
 parent: src_cesenatico_2005_squadre_finale
 competition: Gara a Squadre Cesenatico 2005 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio cerchio inscritto da condizioni su circocentro e mediane*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0112
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Circle beam inscribed from circumcenter and median conditions< MSK1/>
+
+> The Polynomial Jones road and his expedition are lost in the desert. His colleague and friend Al Jabr, with a stick, sketches the map on the sand. Al Jabr draws a triangle of ABC vertices, marks the circus O of the triangle and the midpoints M of AB and N of BC. The OM distance is 210km, the ON distance is 176km and OM2 +ON2 = (AC 2 )2. How much is the radius of the circle inscribed in ABC?
+
+**Answer:** 0112
+[[src_cesenatico_2005_squadre_finale__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Finale (risposta aperta) — Quesito S6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student_finale__QS6
 parent: src_kangourou_2022_student_finale
 competition: Kangourou 2022 Student — Finale (risposta aperta)
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi non negativi come unione di traslati disgiunti di A0*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** dimostrazione
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1xkM8usCvbEkYYISsMrLicq6kvtHNww5g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Non-negative integers as a union of disjoint transfers of A0*
+
+> It shows that it is possible to express the set of non-negative integers as a union $\bigcup_{n=0}^{\infty} A_n$, where the $A_n$ are two-to-two disjoint subsets, each consisting of infinite elements, and such that, for each $n \geq 1$, $A_n$ is obtained by adding the same constant, dependent on $n$, to each element of $A_0$.
+
+**Answer:** dimostrazione
+[[src_kangourou_2022_student_finale__QS6]]

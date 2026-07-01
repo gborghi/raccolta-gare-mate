@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_triennio__Q01
 parent: src_archimede_2021_triennio
 competition: Giochi di Archimede 2021 - Gara Triennio (tradizionale)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli con due vertici dello stesso colore su circonferenza*
 
@@ -44,3 +47,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangles with two vertices of the same colour on the circumference*
+
+> Along a circumference are marked four red dots, three green dots, two yellow dots, one blue dots. How many triangles can be obtained by choosing two vertices of the same color and a third of a different color?
+>
+> - **(A)** 56
+> - **(B)** 60
+> - **(C)** 72
+> - **(D)** 65
+> - **(E)** 54
+
+[[src_archimede_2021_triennio__Q01]]

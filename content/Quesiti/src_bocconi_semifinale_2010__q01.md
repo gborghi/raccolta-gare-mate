@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2010 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2010__Q01
 parent: src_bocconi_semifinale_2010
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2010
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Addizione con fiammiferi: trovare cifre da eliminare*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Eliminare i fiammiferi che trasformano l'addizione in $8 + 6 = 16$ (rimuovendo due segmenti specifici)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Addition with matches: find digits to be deleted*
+
+> Remove two matches from the figure so that the addition is accurate. (On the answer sheet, place a crochet on the two match to be removed)
+
+![[src_bocconi_semifinale_2010__Q01.png]]
+
+**Answer:** Eliminare i fiammiferi che trasformano l'addizione in $8 + 6 = 16$ (rimuovendo due segmenti specifici)
+[[src_bocconi_semifinale_2010__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2016 Finale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_f__Q01
 parent: src_kangourou_2016_squadre_f
 competition: Kangourou Coppa Squadre 2016 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma m+M numeri di due cifre con vincoli su somma cifre*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 109
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uih0VpIOW40GBf8mxXkEFst7nixVBxJu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum m+M two-digit numbers with constraints on sum of digits*
+
+> Summums Call m the smallest two-digit number whose sum is still a two-digit number. Call M the largest two-digit number whose sum is a single-digit number. How much is m + m?
+
+**Answer:** 109
+[[src_kangourou_2016_squadre_f__Q01]]

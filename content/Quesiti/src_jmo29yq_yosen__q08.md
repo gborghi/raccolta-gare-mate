@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo29yq_yosen__Q08
 parent: src_jmo29yq_yosen
 competition: Japan Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle AB>AC, points at 1:8 on sides, incenter forms unit equilateral; find AB*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{81+9\sqrt{13}}{16}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo AB>AC, punti a 1:8 sui lati, incentro forma unità equilaterale; trovare AB*
+
+> Che $ABC$ sia un triangolo con $AB > AC$, e che $I$ sia il suo incentro. I punti $D$ e $E$ siano i punti che dividono rispettivamente i lati $AB$ e $AC$ nel rapporto $1:8$ (così $AD:DB = AE:EC = 1:8$). Dato che il triangolo $DIE$ è un triangolo equilaterale di lunghezza laterale $1$, trovare la lunghezza del segmento $AB$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Risposta:** \frac{81+9\sqrt{13}}{16}
+[[src_jmo29yq_yosen__Q08]]

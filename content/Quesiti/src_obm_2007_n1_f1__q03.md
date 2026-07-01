@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f1__Q03
 parent: src_obm_2007_n1_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square (two unit squares give perimeter 18) then 144 in a row; find perimeter*
 
@@ -46,3 +49,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrato (due unità di quadrato danno perimetro 18) quindi 144 in fila; trovare perimetro*
+
+> Unendo due quadrati uguali fianco a fianco, si forma un rettangolo il cui perimetro è $18$ cm. Ora, unendo $144$ di questi quadrati fianco a fianco, in una singola riga, formiamo un rettangolo con larghezza e lunghezza diverse. Qual è il perimetro di questo ultimo rettangolo, in cm?
+> 
+> (A) 1300 \quad (B) 1308 \quad (C) 1400 \quad (D) 1500 \quad (E) 1512
+
+[[src_obm_2007_n1_f1__Q03]]

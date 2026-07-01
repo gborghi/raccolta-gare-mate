@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Ecolier (marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q24
 parent: src_kangourou_2006_ecolier_marzo
 competition: Kangourou 2006 Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso del pendaglio circolare (equilibrio mobile)*
 
@@ -56,3 +59,19 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1pKY5ouqmagp75LpVMmZ7-wegTuPPO_ZD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Weight of the circular suspension (mobile balance) *
+
+![[src_kangourou_2006_ecolier_marzo__prob24.png]]
+
+> Miriam hung the mobile game you see in the picture on the ceiling of her room. The same weight of bars and hangers, and the whole structure is in perfect balance. Each square hanger weighs 30 grams. What's the weight of each circle hanging? A) 10 B) 20 C) 30 D) 40 E) 50 1 ceiling 30 ? The Commission has also adopted a number of proposals for a directive on the protection of workers' rights.
+> 
+>  
+> 1 Ecolier Category For fourth or fifth graders
+
+**Answer:** B
+[[src_kangourou_2006_ecolier_marzo__Q24]]

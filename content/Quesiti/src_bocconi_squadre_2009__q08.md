@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2009__Q08
 parent: src_bocconi_squadre_2009
 competition: Gara a Squadre 2009
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto uomini/donne in gruppo con medie età 35, 50, totale 40*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Men/women ratio in group with mean age of 35, 50, total age of 40*
+
+> The average age of a group of people (which includes both men and women) is 40 years. If the average age of men is 35 and that of women is 50, what is the ratio of the number of men and women in the group?
+
+**Answer:** 2
+[[src_bocconi_squadre_2009__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q19
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di cifre del prodotto 7^7 · 4^{11} · 5^{11}*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 34
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of figures for the product 7^7 · 4^{11} · 5^{11}< MSK1/>
+
+> What is the product number < MSK0/>?
+
+**Answer:** 34
+[[src_bocconi_squadre_2008__Q19]]

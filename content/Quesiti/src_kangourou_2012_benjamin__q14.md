@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q14
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante strade mancano nella mappa delle sette citta*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many roads are missing on the seven-city map
+
+![[src_kangourou_2012_benjamin__prob14.png]]
+
+> There are seven cities in Wonderland. However, if two are chosen, they are connected by a direct road, that is, one that does not pass through other cities. On the map we show you, cities are symbolized by dots and streets by segments that have them as extremes. Unfortunately, whoever drew the map forgot to map some of the roads. How many are missing? A) 8 B) 11 C) 21 D) 10 E) 9
+
+**Answer:** D
+[[src_kangourou_2012_benjamin__Q14]]

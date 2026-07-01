@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2009-10 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2009-10_round2__Q01
 parent: src_bmo_2009-10_round2
 competition: British Mathematical Olympiad 2009-10 — Round 2
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Line up children so each is beside at most two of their friends*
 
@@ -43,3 +46,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z0AxOacaUmiq8Nh603s8l69kewEVc8n7/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Alineare i bambini in modo che ciascuno sia accanto al massimo a due dei loro amici*
+
+> Ci sono bambini in un campo di matematica. Ciascuno ha al massimo tre amici nel campo, e $A$ è amico di $B$ se e solo se $B$ è amico di $A$. Il capo del campo vorrebbe mettere in fila i bambini in modo che ogni bambino sia vicino a un massimo di due bambini tra qualsiasi coppia di amici. E' sempre possibile farlo?
+
+[[src_bmo_2009-10_round2__Q01]]

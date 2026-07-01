@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo20yq_yosen__Q12
 parent: src_jmo20yq_yosen
 competition: Japan Mathematical Olympiad 2010 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max new routes opened after closing one bridge in a 2010-node tree network*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maxime nuove rotte aperte dopo la chiusura di un ponte in una rete di alberi di nodo 2010*
+
+> Ci sono aeroporti $2010$. Alcune coppie di aeroporti sono collegate da voli diretti bidirezionali, che soddisfano le seguenti due condizioni: 1) Per due aeroporti $A$ e $B$, si può viaggiare da $A$ a $B$ utilizzando uno o più voli diretti. Le nuove rotte dirette (che differiscono da quelle chiuse, e ciascuna è un volo bidirezionale) vengono quindi aperte una per una in modo da soddisfare di nuovo le condizioni (1) e (2). Trovare il numero massimo possibile di nuove rotte da aprire.\n\nNota: Un volo diretto da aeroporto $X$ a aeroporto $Y$ serve anche come volo diretto da $Y$ a $X$.
+
+[[src_jmo20yq_yosen__Q12]]

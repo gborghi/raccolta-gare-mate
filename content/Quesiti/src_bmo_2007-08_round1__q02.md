@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2007-08 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2007-08_round1__Q02
 parent: src_bmo_2007-08_round1
 competition: British Mathematical Olympiad 2007-08 — Round 1
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive integer solutions of two simultaneous equations*
 
@@ -46,3 +49,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RB1RkGzKd2r9NM4xaNaiRaoP15anlQ-K/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca soluzioni a numeri interi positivi di due equazioni simultanee*
+
+> Trova tutte le soluzioni in numeri interi positivi $x$, $y$, $z$ alle equazioni simultanee $$x + y - z = 12,$$ $$x^2 + y^2 - z^2 = 12.$$
+
+[[src_bmo_2007-08_round1__Q02]]

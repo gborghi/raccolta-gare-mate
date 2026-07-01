@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2005 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2005__Q01
 parent: src_cn_cgmo_2005
 competition: China Girls' Mathematical Olympiad 2005
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove CE/BF = AJ/AK using circumcircle and perpendicular bisectors*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove CE/BF = AJ/AK utilizzando bisettori circoncircolari e perpendicolari*
+
+> Come mostrato nella figura seguente, il punto $P$ si trova sul circoncircolo del triangolo $ABC$. Le linee $AB$ e $CP$ si incontrano a $E$ e le linee $AC$ e $BP$ si incontrano a $F$. Il bisettore perpendicolare del segmento di linea $AB$ incontra il segmento di linea $AC$ a $K$, e il bisettore perpendicolare del segmento di linea $AC$ incontra il segmento di linea $AB$ a $J$. Provare che < MSK0/>
+
+![[src_cn_cgmo_2005__Q01.png]]
+
+[[src_cn_cgmo_2005__Q01]]

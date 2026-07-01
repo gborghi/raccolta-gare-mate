@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2014 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_classiprime__Q17
 parent: src_archimede_2014_classiprime
 competition: Gara Nazionale Classi Prime 2014
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo lato n con sottotabelle quadrate 2 bianche 2 nere ai vertici*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Major side n with square sub-tables 2 white 2 black at the vertices*
+
+![[src_archimede_2014_classiprime__prob17.png]]
+
+> Each box in a square table on the n-side is colored white or black so that it has the following property: however you take a square sub-table, this one has the four top boxes which are 2 white and 2 black. What is the maximum value that the n-side of the chessboard can have? A 4 B 3 C 5 D 6 And the maximum is an integer greater than 6 F. There is no maximum because, no matter how big the chessboard is, it is always possible to find a colour that satisfies the required properties.
+
+**Answer:** A
+[[src_archimede_2014_classiprime__Q17]]

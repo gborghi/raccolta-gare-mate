@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2014 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2014__Q02
 parent: src_inmo_2014
 competition: Indian National Mathematical Olympiad 2014
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of floor(n/k) plus floor(sqrt(n)) is always even*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10Z-9bRHrg98_B491eEp9PX2WiyL_iPbr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La somma del pavimento(n/k) più pavimento(sqrt(n)) è sempre pari*
+
+> $n$ sia un numero naturale. Provare che $$\left\lfloor \frac{n}{1} \right\rfloor + \left\lfloor \frac{n}{2} \right\rfloor + \left\lfloor \frac{n}{3} \right\rfloor + \cdots + \left\lfloor \frac{n}{n} \right\rfloor + \lfloor \sqrt{n} \rfloor$$ è pari. (Qui $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$.)
+
+[[src_inmo_2014__Q02]]

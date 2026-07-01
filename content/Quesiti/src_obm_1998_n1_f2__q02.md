@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f2__Q02
 parent: src_obm_1998_n1_f2
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Remove fractions from sum so remaining sum equals 1*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $\frac{1}{8}$ and $\frac{1}{10}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rimuovere frazioni dalla somma in modo che la somma rimanente sia uguale a 1*
+
+> Quali frazioni devono essere rimosse dalla somma $$\frac{1}{2}+\frac{1}{4}+\frac{1}{6}+\frac{1}{8}+\frac{1}{10}+\frac{1}{12}$$ in modo che la somma delle frazioni rimanenti sia uguale a $1$?
+
+**Risposta:** $\frac{1}{8}$ and $\frac{1}{10}$
+[[src_obm_1998_n1_f2__Q02]]

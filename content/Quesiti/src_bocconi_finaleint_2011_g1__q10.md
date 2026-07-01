@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 1) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g1__Q10
 parent: src_bocconi_finaleint_2011_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri che Apollonia può leggere partendo da 323*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1230
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers that Apollonia can read from 323*
+
+> Apollonia is playing a math game. He writes a number, on the side of it he can read the same numbers in different possible order, and so on until he writes $'1'$. For example, it starts by writing $'323'$, then writes $'5'$ on the side, because in $'323'$ it reads the following different numbers: $2$, $30$, $32$, and $323$ (but not $33$, as it is necessary that the digits that make up the reading number are placed next to each other). Then it starts again with $'5'$, in which it can read only the number $5$, then on the side of it it writes $'1'$, and stops. She then wrote three numbers below: $'323'$, $'5'$, $'1'$. Today, playing her game, Apollonia wrote $4$ numbers. < MSK17/>What is the smallest number from which it can be started? < MSK18/>
+
+**Answer:** 1230
+[[src_bocconi_finaleint_2011_g1__Q10]]

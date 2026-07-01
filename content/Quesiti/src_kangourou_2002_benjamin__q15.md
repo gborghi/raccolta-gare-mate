@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_benjamin__Q15
 parent: src_kangourou_2002_benjamin
 competition: Kangourou 2002 - Benjamin (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Relazione tra aree colorate Q,T,S,P*
 
@@ -59,3 +62,28 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Relation between coloured areas Q,T,S,P*
+
+![[src_kangourou_2002_benjamin__prob15.png]]
+
+> There are 4 equal squares; the midpoints of the sides are shown in the figure with black balls. A certain portion of each square has been painted. The areas of the coloured portions have been designated as Q, T, S, P (see figure). Which of the following reports is true?
+>  
+> A. S < P < Q = T
+>  
+> B. S < Q = T = P C. S < Q = P < T
+>  
+> D. S < P < Q < T E. P < S < Q < T.
+>  
+>  
+>  
+> Q T S P
+> 
+> I'm not going to lie to you. This item is not intended to be used. 4
+
+**Answer:** B
+[[src_kangourou_2002_benjamin__Q15]]

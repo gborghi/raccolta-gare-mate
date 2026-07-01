@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Junior (gara marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior__Q26
 parent: src_kangourou_2012_junior
 competition: Kangourou 2012 Junior (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cosa concludere su a e b dalle condizioni*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What to conclude on a and b from conditions*
+
+> For two real numbers a and b we ask that both conditions a3 < b3 and a5 > b6 be verified. So we can conclude that A) a > 1 and b > 1. B) a > 1  e  0 < b < 1. C) 0 < a < 1  e  b > 1. D) 0 < a < 1  e  0 < b < 1. (e) the two requests are incompatible.
+
+**Answer:** D
+[[src_kangourou_2012_junior__Q26]]

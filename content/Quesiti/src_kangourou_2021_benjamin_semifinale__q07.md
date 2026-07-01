@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - semifinale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q07
 parent: src_kangourou_2021_benjamin_semifinale
 competition: Kangourou 2021 Benjamin - semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione sicuramente falsa (euro di Lisa)*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ZoOsj72QmushXUD5rVHJ0W3fyHvEdq-b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Certainly false claim (Lisa's euro) < MSK1/>
+
+> (5 points) If of the following three statements a) Lisa has more than 2021 euros b) Lisa has less than 2021 euros c) Lisa has at least 1 euro one and only one is true, which of the following statements is definitely false? A) Lisa has 2021 euros.
+>   
+> B) Lisa has no euro.
+>   
+> C) Lisa has a thousand euros.
+>  
+> (D) Claim (c) is false. E) The statement c) is true.
+
+**Answer:** C
+[[src_kangourou_2021_benjamin_semifinale__Q07]]

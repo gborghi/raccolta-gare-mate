@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2013 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2013__Q01
 parent: src_cn_csmo_2013
 competition: China Southeastern Mathematical Olympiad 2013
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimize a rational expression in a,b given a cubic with only real roots.*
 
@@ -42,3 +45,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimizzare un'espressione razionale in a,b data un cubo con solo radici reali.*
+
+> Lasciate che $a$, $b$ siano numeri reali in modo tale che l'equazione $x^3 - ax^2 + bx - a = 0$ abbia solo radici reali. Trova il minimo di $\dfrac{2a^3 - 3ab + 3a}{b + 1}$.
+
+[[src_cn_csmo_2013__Q01]]

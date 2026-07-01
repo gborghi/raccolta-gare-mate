@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f2__Q05
 parent: src_obm_2013_n1_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *100 correct out of 128 questions; find minimum N consecutive correct*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*100 corrette su 128 domande; trovare almeno N corrette consecutive*
+
+> In una prova a scelta multipla, Julia ha risposto correttamente a < MSK0/> di < MSK1/> domande possibili. Ha verificato che il maggior numero di domande consecutive a cui ha risposto correttamente è $N$. Qual è il valore minimo possibile di $N$?
+
+[[src_obm_2013_n1_f2__Q05]]

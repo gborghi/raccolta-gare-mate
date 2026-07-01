@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q01
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equivalent percentage discount of a buy-one-get-one-half-price offer*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sconto percentuale equivalente di un'offerta di acquisto a prezzo uno-ottenere uno-mezza-prezzo*
+
+> Un negozio di saponi fa una promozione con lo slogan "Coscrivi uno e prendi un altro a metà prezzo". Un'altra promozione che il negozio potrebbe fare offrendo lo stesso sconto percentuale è: A) "Prenditi due e paga uno" B) "Prenditi tre e paga uno" C) "Prenditi tre e paga due" D) "Prenditi quattro e paga tre" E) "Prenditi cinque e paga quattro"
+
+**Risposta:** D
+[[src_obm_2005_n2_f1__Q01]]

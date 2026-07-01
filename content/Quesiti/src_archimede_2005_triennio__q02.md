@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Triennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_triennio__Q02
 parent: src_archimede_2005_triennio
 competition: Giochi di Archimede 2005 - Gara Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi n con n^3+2n^2+n quadrato perfetto*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Interies n with n^3+2n^2+n perfect square< MSK1/>
+
+> How many positive integers are n such that n3+2n2+n is a perfect square?
+>
+> - **(A)** No one.
+> - **(B)** at least 1, but not more than 4,
+> - **(C)** at least 5, but not more than 9,
+> - **(D)** at least 10 but not more than 20,
+> - **(E)** None of the previous ones.
+
+**Answer:** E
+[[src_archimede_2005_triennio__Q02]]

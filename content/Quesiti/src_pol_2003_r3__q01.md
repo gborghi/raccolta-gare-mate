@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2003 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2003_r3__Q01
 parent: src_pol_2003_r3
 competition: Olimpiade Matematica Polacca 2003 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Altitude and midpoint line in acute triangle; prove SD = SM where S is circumcenter of CKL.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YJsU0Az6dGhVVIiXqks47NARYBNId3kT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Linea di altitudine e punto medio in triangolo acuto; dimostrare SD = SM dove S è il centro circostante di CKL.*
+
+> In un triangolo a angolo acuto $ABC$, $CD$ è l'altitudine. Una linea attraverso il punto medio $M$ del lato $AB$ incontra i raggi $CA$ e $CB$ rispettivamente a $K$ e $L$ in modo tale che $CK = CL$. Il punto $S$ è il centro circundante del triangolo $CKL$. Prova che < MSK11/>.
+
+[[src_pol_2003_r3__Q01]]

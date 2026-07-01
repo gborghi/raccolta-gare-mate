@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo24yq_yosen__Q01
 parent: src_jmo24yq_yosen
 competition: Japan Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two internally tangent circles; PQ=QR, radius 9; find PQ*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi interamente tangenti; PQ=QR, raggio 9; trovare PQ*
+
+> Circolo $C_1$ contiene circolo $C_2$ internamente, con i due cerchi tangenti internamente. Il $O$ deve essere il centro di $C_2$. Il punto di tangenza interna di $C_1$ e $C_2$ è $A$. Il punto $P$ deve essere un punto su $C_1$. Il raggio da $O$ a $P$ incontra $C_2$ al punto $Q$ (così $Q$ si trova tra $O$ e $P$). La tangente di $C_1$ a $A$ risponde alla linea $OP$ estesa oltre $P$ al punto $R$. Dato che $PQ = QR$ e che il raggio di $C_2$ è $9$, si trova la lunghezza del segmento $PQ$. (Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.)
+
+![[src_jmo24yq_yosen__Q01.png]]
+
+**Risposta:** 3
+[[src_jmo24yq_yosen__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre finale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q09
 parent: src_kangourou_2011_squadre_finale
 competition: Kangourou 2011 squadre finale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti in piu di Felice rispetto a Marco*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 30
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13507kQgtd5A0hh0IwUZH9QyAEafhU_bz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minutes more than happy than Marco*
+
+> The two runners Two runners, Marco and Felice, must make a common route: Marco from point A to point B, Felice from point B to point A. They start at the same moment and each keeps their speed constant. When Mark is halfway through, Felix has an hour and a half to get there; when Felix is halfway through, Mark has three-quarters of an hour to get there. How many more minutes does it take Felice than Marco to complete the journey?
+
+**Answer:** 30
+[[src_kangourou_2011_squadre_finale__Q09]]

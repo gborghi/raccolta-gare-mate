@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q30
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra A in ABCD = AA+BB+CC+DD*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total value of the securities issued by the issuer.
+
+> The positive integer of four digits ABCD (A ≠ 0), not necessarily distinct, is the result of the sum of AA + BB + CC + DD. What 's A ? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+> 
+> 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+
+**Answer:** B
+[[src_kangourou_2024_student__Q30]]

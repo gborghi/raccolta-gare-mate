@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f2__Q03
 parent: src_obm_2012_n2_f2
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Reducing 1 to 100 by iterated operations; find last remaining number*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eh3-XUlx8DQIfyrafQYPn3K5T8QkbX4r/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Riduzione da 1 a 100 con operazioni iterate; trovare l'ultimo numero rimanente*
+
+> Zoroastro ha scritto i numeri $1, 2, \ldots, 100$ in una scatola nera. Eseguirà operazioni per ridurre la quantità di numeri finché non rimarrà solo uno. La prima operazione consiste nel scegliere da questa casella due numeri $a$ e $b$ e sostituirli con $a + b - 1$. La seconda operazione consiste nel scegliere due numeri $a$ e $b$ e sostituirli con $a + b - 2$. In generale, dopo le operazioni $k$ la nuova operazione è: scegliere due numeri $a$ e $b$ e sostituirli da $a + b - (k+1)$. Determina quale numero rimarrà alla fine.
+
+[[src_obm_2012_n2_f2__Q03]]

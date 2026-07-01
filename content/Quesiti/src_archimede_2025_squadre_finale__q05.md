@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q05
 parent: src_archimede_2025_squadre_finale
 competition: Gara a Squadre Nazionale 2025 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area minima esagono su reticolo con vincoli su lati*
 
@@ -73,3 +76,37 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0078
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum exaggeration area on the lattice with side-boundary constraints*
+
+![[src_archimede_2025_squadre_finale__prob5.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.5]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (8,0);
+  \coordinate (C) at (12,3);
+  \coordinate (D) at (12,9);
+  \coordinate (E) at (8,9);
+  \coordinate (F) at (0,3);
+  \draw[fill=gray!30] (A) -- (B) -- (C) -- (D) -- (E) -- (F) -- cycle;
+  \foreach \p in {A,B,C,D,E,F} \fill (\p) circle (3pt);
+  \node[below left] at (A) {$A=(0,0)$};
+  \node[below] at (B) {$B=(8,0)$};
+  \node[right] at (C) {$C=(12,3)$};
+  \node[right] at (D) {$D=(12,9)$};
+  \node[above] at (E) {$E=(8,9)$};
+  \node[left] at (F) {$F=(0,3)$};
+\end{tikzpicture}
+\end{document}
+```
+
+> After building the Russian Mountains, φ-neas and Ferbmat put themselves to the test by creating a portal that allows time travel! They drew up the design of their latest creation on a sheet of paper. On the sheet is drawn the portal, which is a convex hexagon ABCDEF, with the following annotations: The vertices of the hexagon are in points of full coordinates (in meters). The sides of the hexagon have entire lengths (in meters), all different from each other. The opposite sides of the hexagon are parallel. The angle A is straight. Three consecutive sides of the axis measure, in this order, 3m, 8m and 5m. In order to avoid time paradoxes, the portal must be in the form of a minimum area hexagon that satisfies all these conditions. How many m2 is the area of the portal?
+
+**Answer:** 0078
+[[src_archimede_2025_squadre_finale__Q05]]

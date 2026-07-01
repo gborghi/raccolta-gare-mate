@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2009 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2009__Q11
 parent: src_bocconi_semifinale_2009
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2009
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero giocatori torneo scacchi round-robin con una patta*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of players in a round-robin chess tournament with a deal*
+
+> During the chess tournament organised by PRISTEM, each participant played a match against each of the other players. No one's finished the same. Three players won $4$ matches, the others won $3$ and all the others lost only one match.
+> 
+> How many players took part in the tournament?
+
+**Answer:** 9
+[[src_bocconi_semifinale_2009__Q11]]

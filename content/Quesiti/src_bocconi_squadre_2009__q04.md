@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2009__Q04
 parent: src_bocconi_squadre_2009
 competition: Gara a Squadre 2009
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età della mamma dedotta da gioco di cifre con il figlio*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 41
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Age of the mother deduced from figure play with the child
+
+> A young mother (\ldots is under 70!) says to her son: Our age is expressed in the same two digits and your age today is given by the product of the two digits of age I had when you were born. How old is Mom?
+
+**Answer:** 41
+[[src_bocconi_squadre_2009__Q04]]

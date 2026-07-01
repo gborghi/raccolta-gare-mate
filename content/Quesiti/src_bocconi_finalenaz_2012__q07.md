@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2012 — Quesito
   7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2012__Q07
 parent: src_bocconi_finalenaz_2012
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2012
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di ragazzi nel gruppo con stessa somma*
 
@@ -49,3 +52,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of boys in the group with the same sum
+
+> In the group of friends who meet on the square every Saturday afternoon, each boy added the number of the day of his birthday (from 1 to 31) to that of the month in which he was born, from 1 to 12. None of the boys were born on the same day of the month but all found, as a result of the sum, the same number (greater than 34). How many boys, at most, was the group?
+
+**Answer:** 8
+[[src_bocconi_finalenaz_2012__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2021 — Selection Camp — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2021__Q02
 parent: src_selection_camp_2021
 competition: Japan IMO Selection Camp 2021 — Selection Camp
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimize a/b+b/c+c/d+d/a under (a+c)(b+d)=ac+bd*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimizzare a/b+b/c+c/d+d/a sotto (a+c)(b+d)=ac+bd*
+
+> $a, b, c, d$ siano numeri reali che soddisfino $(a+c)(b+d) = ac + bd$. Trova il valore minimo di $$\frac{a}{b} + \frac{b}{c} + \frac{c}{d} + \frac{d}{a}.$$
+
+[[src_selection_camp_2021__Q02]]

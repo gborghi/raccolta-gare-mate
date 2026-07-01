@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q14
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo CAM in rettangolo con BC meta diagonale*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*CAM angle in a rectangle with BC diagonal end*
+
+> In an ABCD rectangle the length of the side BC is half the length of the diagonal. If M is a point on the CD side such that AM and MC have the same length. What is the size of the CAM angle ? A) 12° 30’ B) 15° C) 27° 30’ D) 42° 30’
+> 	
+> E) None of the above.
+
+**Answer:** E
+[[src_kangourou_2016_student_marzo__Q14]]

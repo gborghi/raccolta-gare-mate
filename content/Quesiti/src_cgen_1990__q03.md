@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1990 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1990__Q03
 parent: src_cgen_1990
 competition: Concours Général des Lycées 1990 — Matematica
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find distinct naturals satisfying two reciprocal-sum identities*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricercare naturali distinti che soddisfino due identità di somma reciproca*
+
+> 1. Trovare tre numeri naturali distinti $a, b, c$ (non necessariamente distinti in valore, ma tre numeri specifici), in modo tale che: $$\frac{1}{4} = \frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2}.$$
+> 
+> 2. Determinare tutti i numeri naturali $n$ $x_1, x_2, \ldots, x_n$, distinti o meno, verificando: $$1 = \frac{1}{x_1^2} + \frac{1}{x_2^2} + \cdots + \frac{1}{x_n^2}.$$
+
+[[src_cgen_1990__Q03]]

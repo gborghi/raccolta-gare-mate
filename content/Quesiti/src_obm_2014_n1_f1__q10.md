@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f1__Q10
 parent: src_obm_2014_n1_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Buying 20 pens and 20 pencils at two shops with promotions; how much can be saved*
 
@@ -50,3 +53,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Acquisto di 20 penne e 20 matite in due negozi con promozioni; quanto si può risparmiare
+
+> Joana, per acquistare penne $20$ e matite $20$, ha confrontato i prezzi in due negozi. Nel negozio A ogni penna costa < MSK2/> reais e ogni matita < MSK3/> reais; nel negozio B ogni penna costa < MSK4/> reais e ogni matita < MSK5/> reais. Ogni negozio ha una promozione. Comprando con la scelta migliore tra comprare solo al negozio A o solo al negozio B, quanto può risparmiare?
+> 
+> (A) nulla (B) R\$\,6{,}00 \quad (C) R\$\,8{,}00 \quad (D) R\$\,10{,}00 \quad (E) R\$\,12{,}00
+
+[[src_obm_2014_n1_f1__Q10]]

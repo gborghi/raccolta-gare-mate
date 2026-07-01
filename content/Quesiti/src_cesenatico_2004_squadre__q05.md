@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q05
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri di tre cifre con somma cifre divisibile per 11*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0082
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three-digit numbers with a digit sum divisible by 11*
+
+> On the occasion of the Queen's funeral, King Herovaccio wishes to perform an act of magnanimity. Since in the secrets of the palace of Franquie each cell is numbered with a number of exactly three digits, he decrees that every prisoner locked in a cell whose number has the sum of the digits divisible by 11 be pardoned. How many prisoners will be pardoned at most?
+
+**Answer:** 0082
+[[src_cesenatico_2004_squadre__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre_f2__Q01
 parent: src_kangourou_2024_ecolier_squadre_f2
 competition: Kangourou Squadre 2024 Ecolier Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età di Adamo con cifre anno invertite*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0075
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Adam's age with reversed year figures< MSK1/>
+
+> Adam's Age Today, May 5, 2024, is Adam's birthday and, by filling out a form in which he was required to indicate his year of birth, Adam mistakenly reversed the last two digits of the year. Thus, it turns out that Adam would be 30 years old. How old is Adam? The answer is 0075.
+
+**Answer:** 0075
+[[src_kangourou_2024_ecolier_squadre_f2__Q01]]

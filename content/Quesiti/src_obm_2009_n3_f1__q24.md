@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q24
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangular notebook sheet with yellow borders of 24 cm and red borders of 36 cm; each point painted the color of its nearest side; find the yellow area.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lappe di notebook rettangolare con confini gialli di 24 cm e confini rossi di 36 cm; ciascun punto dipingue il colore del suo lato più vicino; trova la zona gialla.*
+
+> Un foglio del quaderno di Carlos è un rettangolo con due lati gialli (frontieri) di $24$ cm e due lati rossi (frontieri) di $36$ cm. Carlos dipinge ogni punto del rettangolo nello stesso colore del lato più vicino a quel punto. Qual è l'area della regione dipinta di giallo? (A) $144$ cm$^2$ (B) $288$ cm$^2$ (C) $364$ cm$^2$ (D) $442$ cm$^2$ (E) $524$ cm$^2$
+
+[[src_obm_2009_n3_f1__Q24]]

@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 28
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q28
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distribute 8 distinct chocolates among 3 children, each gets at least one with all different counts, find digit sum of N*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Distribuire 8 cioccolatini distinti tra 3 bambini, ognuno ne ottiene almeno uno con tutti i numeri diversi, trovare la somma digitali di N*
+
+> Il numero di modi di distribuire 8 cioccolatini di diversi marchi tra 3 bambini è quello di $N$ in modo tale che ogni bambino riceva almeno un cioccolatino e che nessun bambino riceva lo stesso numero di cioccolatini. Trova la somma delle cifre di $N$.
+
+**Risposta:** 9
+[[src_prmo_2018__Q28]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q22
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest largest element among distinct positive integers with a divisibility/difference condition.*
 
@@ -56,3 +59,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'elemento più piccolo e più grande tra i numeri interi positivi distinti con condizione di divisibilità/differenza.*
+
+> Tra i diversi integri positivi $a<b<c<d$ che soddisfano una condizione dichiarata relativa alle loro differenze in coppia, quale è il minimo valore possibile del più grande, $d$?
+>
+> - **(A)** $10$
+> - **(B)** $12$
+> - **(C)** $15$
+> - **(D)** $30$
+> - **(E)** $105$
+
+[[src_obm_2010_n3_f1__Q22]]

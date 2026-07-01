@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2008 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2008__Q08
 parent: src_cn_cmc_2008
 competition: China Mathematical Competition 2008
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find parameter a so minimum of trig function equals -1/2*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $-2+\sqrt{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il parametro così minimo della funzione trigonometrica è uguale a -1/2*
+
+> Supponiamo che il minimo di $f(x) = \cos 2x - 4a(1 + \cos x)$ sia $-\dfrac{1}{2}$. Poi $a = $ ________.
+
+**Risposta:** $-2+\sqrt{3}$
+[[src_cn_cmc_2008__Q08]]

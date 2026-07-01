@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q15
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro regione di movimento del cane*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of movement region of the dog*
+
+![[src_kangourou_2007_junior_marzo__prob15.png]]
+
+> Look at the figure. One of the two ends of a 10-metre long rope is attached to a corner of a 4-metre by 6-metre rectangular planted shed, while the other end is tied to a dog (which obviously cannot enter the shed). What is the perimeter of the region within which the dog can move? A) 20 π B) 22 π C) 40 π D) 88 π E) 100 π
+
+**Answer:** A
+[[src_kangourou_2007_junior_marzo__Q15]]

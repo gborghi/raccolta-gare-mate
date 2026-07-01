@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2021 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2021__Q15
 parent: src_smc_2021
 competition: Senior Mathematical Challenge 2021
@@ -35,6 +36,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three coloured dice (red, blue, yellow) each 1–6 rolled once with total 10; count different outcomes.*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre dadi di colore (rosso, blu, giallo) ogni 16 lanciato una volta con un totale di 10; contano risultati diversi.*
+
+> Tre dadi, ognuno con i numeri $1$ a $6$ sono di colore rosso, blu e giallo rispettivamente. Ogni dado viene lanciato una volta. Il totale dei numeri laminati è $10$. In quanti modi diversi può accadere questo?
+>
+> - **(A)** 36
+> - **(B)** 30
+> - **(C)** 27
+> - **(D)** 24
+> - **(E)** 21
+
+**Risposta:** C
+[[src_smc_2021__Q15]]

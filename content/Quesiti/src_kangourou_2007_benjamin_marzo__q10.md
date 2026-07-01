@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q10
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conclusione su sinceri e mentitori (3 abitanti)*
 
@@ -56,3 +59,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Conclusion on truthful and liars (3 inhabitants) *
+
+> On an island, every inhabitant either speaks the truth (and is said to be truthful) or lies (and is said to be a liar). Three of these inhabitants, A, B and C, meet and A and B make this same statement: C is at least one liar among us three. What conclusion can we draw? A) All three are liars. (b) All three are sincere. C) A and C are liars, while B is sincere. D) A and B are sincere, while C is a liar. E) A and B cannot make the same statement. A B Texts_07.qxp 16-04-2007 12:03 Page 11
+> 
+> I'm going to pay. I'm going to pay. 12 12 Kang 2007 Kang 2007 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2007_benjamin_marzo__Q10]]

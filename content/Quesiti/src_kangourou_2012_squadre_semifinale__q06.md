@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre semifinale turno A — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q06
 parent: src_kangourou_2012_squadre_semifinale
 competition: Kangourou 2012 squadre semifinale turno A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dimensioni rettangolo tagliato in 15 quadrati uguali*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 3521
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular dimensions cut into 15 equal squares*
+
+> Rectangles and squares A rectangle of 112 cm perimeter is cut into three parallel strips and each of these strips is cut into five parts: thus, without any excesses, fifteen squares are all equal between them. What are the dimensions (in centimeters) of the rectangle? (Write down below the major followed by the minor.)
+
+**Answer:** 3521
+[[src_kangourou_2012_squadre_semifinale__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1962 (IV International Olympiad) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1962__Q07
 parent: src_imho_1962
 competition: IMO 1962 (IV International Olympiad)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tetraedro con cinque sfere tangenti agli spigoli e regolarita*
 
@@ -34,3 +37,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BlLkE_efsxSP5T1vvAcLZHNj-SGm8Pco/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tetrahedron with five spheres tangent to the spines and regulated*
+
+> The tetrahedron $SABC$ has the following property: there are five spheres, each tangent to the $SA, SB, SC, BC, CA, AB$ beams or their extensions. (a) Demonstrate that the tetrahedron $SABC$ is isosceles, i.e. $SA = BC$, $SB = CA$, $SC = AB$. (b) Demonstrate that the five spheres are congruent.
+
+[[src_imho_1962__Q07]]

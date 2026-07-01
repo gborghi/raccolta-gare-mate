@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q17
 parent: src_kangourou_2015_marzo_ecolier
 competition: Kangourou 2015 gara 19 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale numero eliminare*
 
@@ -68,3 +71,39 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*which number to delete*
+
+![[src_kangourou_2015_marzo_ecolier__prob17.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.8]
+  \def\sq#1#2#3{\draw (#1,#2) rectangle (#1+1,#2+1); \node at (#1+0.5,#2+0.5) {#3};}
+  \sq{0}{3}{1}
+  \sq{0}{2}{2}
+  \sq{1}{2}{4}
+  \sq{2}{2}{7}
+  \sq{1}{1}{5}
+  \sq{0}{0}{3}
+  \sq{1}{0}{6}
+\end{tikzpicture}
+\end{document}
+```
+
+> I want to cover a cube-shaped box with paper without overlapping. So I drew on a piece of paper and cut out the figure you see right next to it (composed of squares all equal to each other and equal to the sides of the box), which I'll then fold along each common side to two squares. But by mistake, I drew 7 squares instead of 6. So I have to eliminate one of them, but I want the paper not to break in two and in particular there is no square connected only by one vertex to another. What's the number of the square that you want to eliminate? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 6
+> 	
+> E) 7
+
+**Answer:** C
+[[src_kangourou_2015_marzo_ecolier__Q17]]

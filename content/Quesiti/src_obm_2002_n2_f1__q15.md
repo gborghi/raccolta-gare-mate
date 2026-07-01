@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f1__Q15
 parent: src_obm_2002_n2_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers less than 900 that are multiples of 7 ending in digit 7*
 
@@ -55,3 +58,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare interi positivi inferiori a 900 che sono multipli di 7 che terminano con la cifra 7*
+
+> Quanti numeri interi positivi inferiori a $900$ sono multipli di $7$ e terminano nella cifra $7$?
+>
+> - **(A)** $10$
+> - **(B)** $11$
+> - **(C)** $12$
+> - **(D)** $13$
+> - **(E)** $14$
+
+**Risposta:** D
+[[src_obm_2002_n2_f1__Q15]]

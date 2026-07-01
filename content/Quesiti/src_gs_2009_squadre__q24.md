@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2009 - Gara a squadre — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2009_squadre__Q24
 parent: src_gs_2009_squadre
 competition: Coppa Fermat 2009 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero squadre dal conteggio partite e coprimalita*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 42
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of teams by match count and co-op*
+
+> Planets participating in the MCD Galactic Championship tournament must register two teams for the tournament; each team plays once and only once against all teams from the other participating planets, but does not play against the other team from its own planet. MCD is a very special game: this year, it predicts that a game will end when the sum of the points scored by the two teams is 2009, but with one important exception. When the sum reaches 2009, if the scores of the two teams have a maximum common divisor other than 1, the lead team's score is zeroed and the game continues. Knowing that all matches ended with different scores (2008-1 and 1-2008 are considered equal scores), how many teams could be at most?
+
+**Answer:** 42
+[[src_gs_2009_squadre__Q24]]

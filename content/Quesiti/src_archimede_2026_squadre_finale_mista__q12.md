@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q12
 parent: src_archimede_2026_squadre_finale_mista
 competition: Gara a Squadre Nazionale 2026 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Permutazioni 9 navi con vincolo multipli di 3*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4560
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*9 ships with multiple bonds of 3 *
+
+> To Dragon Island Eugenio Trovarelli Stochastick, furious at his son's behavior during the final exam, decides to sail to Dragon Island with the intention of eliminating them once and for all. For the expedition, he prepares nine ships, numbered 1 to 9, which will have to proceed in Indian line. To avoid confusion during navigation, however, he imposes a rule: every ship whose number is divisible by 3 must immediately have a ship with a smaller number than its own. How many different ways can ships line up?
+
+**Answer:** 4560
+[[src_archimede_2026_squadre_finale_mista__Q12]]

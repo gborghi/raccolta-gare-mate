@@ -1,6 +1,7 @@
 ---
 title: IMO 1975 (Seventeenth International Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1975_all__Q06
 parent: src_imo_1975_all
 competition: IMO 1975 (Seventeenth International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find homogeneous two-variable polynomials with cyclic condition*
 
@@ -45,3 +48,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TP79v6F2u-0eqTiBw6yUOXst22fnJsC9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find homogeneous two-variable polynomials with cyclic condition*
+
+> Find all $P$ polynomials, in two variables, with the following properties:
+> 
+> (i) for a positive integer $n$ and for all real $t, x, y$ $$P(tx, ty) = t^n P(x, y)$$ (i.e. $P$ is homogeneous in degree $n$),
+> 
+> (ii) for all real $a, b, c$ $$P(b+c,\, a) + P(c+a,\, b) + P(a+b,\, c) = 0,$$
+> 
+> (iii) MSK0/.
+
+[[src_imo_1975_all__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_semifinale_a__Q05
 parent: src_cesenatico_2013_semifinale_a
 competition: Gara a Squadre Cesenatico 2013 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza minima B-D (punti allineati visti)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4472
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum distance B-D (aligned points seen) *
+
+> Minimum distance Root, standing still at one point, sees in the distance the White King moving in a straight line passing through three aligned points B,C,D. Knowing that B and D are 3km from the Roots, while C is only 2km, how many meters away are B and D at least?
+
+**Answer:** 4472
+[[src_cesenatico_2013_semifinale_a__Q05]]

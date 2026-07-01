@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f3__Q04
 parent: src_obm_2008_n2_f3
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 3
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve real system with cyclic reciprocals and xyz=1*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mPFxeuedSzPeVHyGa5uTEm_ubRSK1ROx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi un sistema reale con reciprocità cicliche e xyz=1*
+
+> Risolvere, in numeri reali, il sistema $$x + \frac{1}{y} = y + \frac{1}{z} = z + \frac{1}{x}$$ $$xyz = 1.$$
+
+[[src_obm_2008_n2_f3__Q04]]

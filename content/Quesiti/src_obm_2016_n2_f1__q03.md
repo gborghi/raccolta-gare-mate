@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f1__Q03
 parent: src_obm_2016_n2_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Households not receiving a newspaper, two-digit odd-digit codes*
 
@@ -48,3 +51,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le famiglie che non ricevono un giornale, codici a due cifre a poche cifre*
+
+> Ci sono $5$ numeri unici: $1$, $3$, $5$, $7$, $9$. Pertanto ci sono $5\cdot 5=25$ numeri a due cifre che utilizzano solo queste cifre. Di conseguenza, la maggior parte delle famiglie < MSK7/> non ha ricevuto il giornale. Quante famiglie non hanno ricevuto il giornale? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+
+**Risposta:** D
+[[src_obm_2016_n2_f1__Q03]]

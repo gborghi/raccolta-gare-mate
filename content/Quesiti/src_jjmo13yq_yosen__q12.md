@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo13yq_yosen__Q12
 parent: src_jjmo13yq_yosen
 competition: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sliding-piece puzzle on 2x7 board; minimum moves to displace one coin*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 47
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Puzzle a pezzi scorrevoli su tavola 2x7; movimenti minimi per spostare una moneta*
+
+> C'è una griglia di cellule $2 \times 7$. Nella cella inferiore a sinistra si colloca un pezzo e su ciascuna delle altre celle si colloca una moneta che si distingue per le sue due facce. La seguente operazione viene eseguita $K$ volte, dopo la quale la moneta originariamente nella cella inferiore a destra ha cambiato posizione, mentre ogni altra moneta è nella stessa posizione che all'inizio. Trova il minimo valore possibile di $K$.
+> 
+> Operazione: Scegli una delle celle adiacenti (in alto, in basso, a sinistra o a destra) alla cella che contiene il pezzo e scambia il pezzo con la moneta in quella cella (scambia le loro posizioni).
+
+**Risposta:** 47
+[[src_jjmo13yq_yosen__Q12]]

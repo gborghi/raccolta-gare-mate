@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin finale individuale — Quesito B1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_finale__QB1
 parent: src_kangourou_2022_benjamin_finale
 competition: Kangourou 2022 Benjamin finale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo da A a B nuotando con stessa energia del controcorrente*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2 minuti
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14QgfusYqtaxWZ9wvngN_12GroIjBw4DZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Time from A to B swimming with the same energy as the counter current< MSK1/>
+
+> A river is crossed by a bridge A and a bridge B and the river flows from A to B. Stephen enters the river in correspondence with bridge A and is passively carried by the current to bridge B, which he reaches in 6 minutes; then from bridge B, swimming against the current, he reaches bridge A, again in 6 minutes. If Stefano swam from bridge A to bridge B consuming the same energy used in his countercurrent route, how long would it take to reach bridge B from bridge A?
+
+**Answer:** 2 minuti
+[[src_kangourou_2022_benjamin_finale__QB1]]

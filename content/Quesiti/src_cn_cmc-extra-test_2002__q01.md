@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Extra Test) 2002 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-extra-test_2002__Q01
 parent: src_cn_cmc-extra-test_2002
 competition: China Mathematical Competition (Extra Test) 2002
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcenter, orthocenter, ratio MH+NH over OH*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circumcenter, orthocenter, rapporto MH+NH su OH*
+
+> Come mostrato nel diagramma, in $\triangle ABC$, $\angle A = 60^\circ$, $AB > AC$, il punto $O$ è un circumcentro e $H$ è il punto di intersezione di due altitudini $BE$ e $CF$. I punti $M$ e $N$ si trovano rispettivamente nei segmenti di linea $BH$ e $HF$ e soddisfano $BM = CN$. Determinare il valore di $\dfrac{MH + NH}{OH}$.
+
+![[src_cn_cmc-extra-test_2002__Q01.png]]
+
+**Risposta:** 1
+[[src_cn_cmc-extra-test_2002__Q01]]

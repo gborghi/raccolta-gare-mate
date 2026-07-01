@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q25
 parent: src_kangourou_2016_marzo_benjamin
 competition: Kangourou 2016 gara 17 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *min da aggiungere*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1nld6l3RD6emhTglIXueL7F2OJGTBOKRG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>min to be added< MSK1/>
+
+![[src_kangourou_2016_marzo_benjamin__prob25.png]]
+
+> Using so many identical equilateral triangle-shaped tiles, Clara wants to build a larger equilateral triangle. In the figure, you can see how he arranged the first cards. What is the minimum number of tiles to be added to complete the work? A) 5
+> 	
+> B) 9
+> 	
+> C) 12
+> 	
+> D) 15
+> 	
+> E) 18
+
+**Answer:** B
+[[src_kangourou_2016_marzo_benjamin__Q25]]

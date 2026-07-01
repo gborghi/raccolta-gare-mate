@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1994 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1994_r3__Q05
 parent: src_pol_1994_r3
 competition: Olimpiade Matematica Polacca 1994 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Parallelepiped center, weighted sum of squared distances inequality*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19eAtDFACSz1VPPylPXfkbfEFZ2SE4e3i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Centro parallelepiped, somma ponderata delle distanze quadrate disuguaglianza*
+
+> Si deve $O$ essere il centro di un parallelo $A_1 A_2 \cdots A_8$. Provare che < MSK0/>
+
+[[src_pol_1994_r3__Q05]]

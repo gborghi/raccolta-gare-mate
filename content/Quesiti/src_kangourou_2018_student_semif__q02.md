@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Student — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_semif__Q02
 parent: src_kangourou_2018_student_semif
 competition: Kangourou 2018 Semifinale Student
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che il numero di Alice superi quello di Barbara*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The probability that Alice's number exceeds Barbara's
+
+> (Points 3) Alice and Barbara randomly and separately select an integer between 1 and 2018. The two numbers are then compared. What is the probability that the number Alice chose is greater than the number Barbara chose? This appropriation is intended to cover expenditure relating to the implementation of the programme.
+
+**Answer:** B
+[[src_kangourou_2018_student_semif__Q02]]

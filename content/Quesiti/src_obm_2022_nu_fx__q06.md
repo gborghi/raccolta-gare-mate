@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2022 — Nível Universitário — Fase x —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2022_nu_fx__Q06
 parent: src_obm_2022_nu_fx
 competition: Olimpíada Brasileira de Matemática 2022 — Nível Universitário — Fase x
@@ -41,6 +42,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rational tangent angle, prime p≡3 mod 4, numerator divisible by p*
 
@@ -51,3 +54,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvbw-B2DJRObe_76KIsYb4Kbcb_CZYrb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo tangente razionale, primo p3 mod 4, numeratore divisibile da p*
+
+> Che $p \equiv 3 \pmod{4}$ sia un primo e che $\theta$ sia un angolo tale che $\tan(\theta)$ sia razionale. Prova che $\tan((p+1)\theta)$ è un numero razionale il cui numeratore è un multiple di $p$; cioè $\tan((p+1)\theta) = \dfrac{u}{v}$ con $u, v \in \mathbb{Z}$, $v > 0$, $\gcd(u,v) = 1$ e $u \equiv 0 \pmod{p}$.
+
+[[src_obm_2022_nu_fx__Q06]]

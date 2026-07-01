@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q08
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Come Marco ha piegato il foglio dato il foro*
 
@@ -50,3 +53,25 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How Mark folded the sheet given the hole*
+
+![[src_kangourou_2017_cadet_marzo__prob8.png]]
+
+> Mark folded a sheet of paper in half twice and then drilled a hole in the folded sheet. When I open the sheet, the result is what you see in the figure. In which of the following ways did Mark fold the sheet? A)
+>  	
+> B)
+> 	
+> C)
+>  	
+>  
+> D)
+> 	
+> E)
+
+**Answer:** D
+[[src_kangourou_2017_cadet_marzo__Q08]]

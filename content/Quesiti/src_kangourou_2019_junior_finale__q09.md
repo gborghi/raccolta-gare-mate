@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale nazionale Junior — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q09
 parent: src_kangourou_2019_junior_finale
 competition: Kangourou 2019 Finale nazionale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero iniziale ABC2 da relazione con riordino*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1622
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Initial number ABC2 by correlation with reorder*
+
+> A beverage should be packaged by mixing raspberry syrup with water in the < MSK0/> ratio. A half-liter bottle is full of raspberry syrup. What fraction of the contents of that bottle will be used to pack two liters of beverage?
+>
+> - **(A)** $\dfrac{1}{4}$
+> - **(B)** $\dfrac{1}{2}$
+> - **(C)** $\dfrac{2}{7}$
+> - **(D)** $\dfrac{4}{7}$
+> - **(E)** $1$
+
+**Answer:** 1622
+[[src_kangourou_2019_junior_finale__Q09]]

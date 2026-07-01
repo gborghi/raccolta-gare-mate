@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2001_squadre__Q25
 parent: src_cesenatico_2001_squadre
 competition: Gara Nazionale a Squadre Cesenatico 2001
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio terza fontana tangente a due fontane e al viale*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0013
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Third ray tangent fountain with two fountains and avenue*
+
+> The amount of the loan shall be calculated as follows:
+> 
+> There is a square next to the parliament building with three circular fountains. Two of them have a radius of 52 mm, are tangent externally and tangent to a tree-lined avenue. The third is tangent externally to the first two and the avenue. How many imometers is its radius?
+
+**Answer:** 0013
+[[src_cesenatico_2001_squadre__Q25]]

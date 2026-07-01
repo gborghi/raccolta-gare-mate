@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q23
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tetrahedral die faces 1-4 glued; which sum of visible faces is impossible*
 
@@ -52,3 +55,21 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Facce di morte tetraedrale 1-4 incollate; che somma di facce visibili è impossibile< MSK1/>
+
+> Un dado speciale ha facce triangolari equilaterali, numerate da $1$ a $4$, come nel disegno. Collegando due dadi, facciamo coincidere due volti, con lo stesso numero o meno. Quale dei seguenti numeri non può essere la somma dei volti visibili?
+>
+> - **(A)** $12$
+> - **(B)** $14$
+> - **(C)** $17$
+> - **(D)** $18$
+> - **(E)** $19$
+
+![[src_obm_2010_n2_f1__Q23.png]]
+
+[[src_obm_2010_n2_f1__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Triennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_triennio__Q04
 parent: src_archimede_1998_triennio
 competition: Giochi di Archimede 1998 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Confronto fra due numeri con esponenti irrazionali*
 
@@ -55,3 +58,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Comparison between two numbers with irrational exponents*
+
+> Consider the two numbers x = √ 3 √ 2 √ 2 and y = √ 2 √ 3 √ 3 . You have that
+>
+> - **(A)** x = y
+> - **(B)** x > y
+> - **(C)** x < y
+> - **(D)** x2 −y2 > 1
+> - **(E)** x and y cannot be compared.
+
+**Answer:** B
+[[src_archimede_1998_triennio__Q04]]

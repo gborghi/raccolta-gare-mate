@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2018__Q02
 parent: src_cesenatico_2018
 competition: Olimpiade Italiana (Cesenatico) 2018 - testi
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *GS perpendicolare a BC*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fy9Va9QicHHzBeW4fO7hA8uL1tF3cN1L/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*GS perpendicular to BC*
+
+> Whether ABC is an acutangol triangle, with AB =AC and with barycenter G. Given M the mean point of BC, let's consider the circumference Γ of the center G and the GM radius and denote with N the intersection of Γ with BC other than M. Whether now S is the symmetrical point of A with respect to N, i.e. the point on the AN line such that AN = NS (A  = S). Prove that GS is perpendicular to BC.
+
+[[src_cesenatico_2018__Q02]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 1) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g1__Q15
 parent: src_bocconi_finaleint_2009_g1
 competition: >-
@@ -39,6 +40,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero massimo di cubi diversi tracciando una diagonale su ciascuna delle sei facce.*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of different cubes drawing a diagonal on each of the six faces.*
+
+> 15 - CUBI (coefficient 15) Mathias has a large number of identical white cubes. On each face of each of them draw a diagonal. How many different cubes do you get?
+
+**Answer:** 8
+[[src_bocconi_finaleint_2009_g1__Q15]]

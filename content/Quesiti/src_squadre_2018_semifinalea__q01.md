@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Semifinale A — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_semifinalea__Q01
 parent: src_squadre_2018_semifinalea
 competition: Gara a Squadre 2018 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di cifre della somma di numeri triangolari fino a 1918*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0010
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of digits of the sum of triangular numbers up to 1918*
+
+> The DOC telephone on the Matryx HOMFLY telephone directory has the number \ DOC: it is equal to (1)+(1+2)+··+(1+2+··+1918). How many digits do you have?
+
+**Answer:** 0010
+[[src_squadre_2018_semifinalea__Q01]]

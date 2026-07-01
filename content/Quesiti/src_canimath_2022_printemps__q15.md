@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2022 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_printemps__Q15
 parent: src_canimath_2022_printemps
 competition: Coupe Animath Printemps 2022
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Power-sum dominance for two exponents; prove inequality persists and a refined bound*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Dominanza della potenza-somma per due esponenti; dimostra che la disuguaglianza persiste e un limite raffinato < MSK1/>
+
+> $n$ sia un intero rigorosamente positivo, $x_1, \ldots, x_{n+1}$ rigorosamente positivi reali e $p < q$ due interi rigorosamente positivi. Supponiamo che $$x_{n+1}^p > x_1^p + \ldots + x_n^p.$$
+> 
+> 1) Indicare che < MSK0/>.
+> 
+> 2) Indicare che < MSK0/>
+
+[[src_canimath_2022_printemps__Q15]]

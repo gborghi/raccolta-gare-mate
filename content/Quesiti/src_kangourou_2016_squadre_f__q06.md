@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2016 Finale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_f__Q06
 parent: src_kangourou_2016_squadre_f
 competition: Kangourou Coppa Squadre 2016 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Segmenti per disegnare cubo da 1000 cubetti*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 63
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uih0VpIOW40GBf8mxXkEFst7nixVBxJu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sections for drawing a cube of 1000 cubes< MSK1/>
+
+![[src_kangourou_2016_squadre_f__prob6.png]]
+
+> Drawing cubes Figures show, in perspective, two cubes; the second is obtained by approaching 8 cubes equal to the first. How many segments will it take to draw, with the same kind of perspective, the cube obtained by approaching 1000 cubes equal to the first? To understand what we mean by "section", we'll tell you that to draw the first cube, 9 segments were drawn, to draw the second, 15 were drawn.
+
+**Answer:** 63
+[[src_kangourou_2016_squadre_f__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2021_squadre__Q07
 parent: src_gsm_2021_squadre
 competition: Gara a Squadre GSM (locale Genova) 2021
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di allacciare un laccio attraverso sei asole*
 
@@ -64,3 +67,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1536
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to tie a loop through six hooks*
+
+> In Bari Sandro Campigotto and Giuseppe Rosolini Alessandra enters a boutique in the center and asks the contractor to recommend a sandal for the beautiful season now at the doors. I would recommend this model: it has 3 soles on the right and 3 on the left and you can close it with this tie. Alexandra That's strange: the lace has a blue end and an orange end. They're a combination of colors. Alessandra, are there any instructions on how to fix the lock? Commissar must pass the loop through all the aisles. It can enter an asshole from above or below, and eventually the binding may not be symmetrical. But it must make sure that the two ends of the lattice exit from the higher suns and that the lattice passes directly from one lower sun to the lower sun. Alessandra, you mean without moving first to another asshole on a different level? I like them; I'll take them! How many ways can Alessandra tie one of the sandals according to the clerk's instructions?
+
+**Answer:** 1536
+[[src_gsm_2021_squadre__Q07]]

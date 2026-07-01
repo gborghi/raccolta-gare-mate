@@ -1,6 +1,7 @@
 ---
 title: IMO 2015 (LVI International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2015__Q03
 parent: src_imho_2015
 competition: IMO 2015 (LVI International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Circumcircles of KQH and FKM are tangent to each other*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Circumcircles of KQH and FKM are tangent to each other
+
+> Let $ABC$ be an acute triangle with $AB > AC$. Let $\Gamma$ be its circumcircle, $H$ its orthocentre, and $F$ the foot of the altitude from $A$. Let $M$ be the midpoint of $BC$. Let $Q$ be the point on $\Gamma$ such that $\angle HQA = 90^\circ$, and let $K$ be the point on $\Gamma$ such that $\angle HKQ = 90^\circ$. Assumes that the points $A$, $B$, $C$, $K$ and $Q$ are all different, and lie on $\Gamma$ in this order.
+> 
+> Prove that the circumcircles of triangles $KQH$ and $FKM$ are tangent to each other.
+
+[[src_imho_2015__Q03]]

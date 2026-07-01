@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2023 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2023_printemps__Q08
 parent: src_canimath_2023_printemps
 competition: Coupe Animath Printemps 2023
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count the integers n such that n/3 and 3n are both integers between 1 and 1000 inclusive.*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 111
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri interi n in modo tale che n/3 e 3n siano entrambi numeri interi tra 1 e 1000 inclusi.*
+
+> Quanti integri $n$ esistono tali che $\dfrac{n}{3}$ e $3n$ siano entrambe integri tra $1$ e $1000$ (con $1$ e $1000$ inclusi)?
+> 
+> *Solo una risposta numerica è prevista qui.*
+
+**Risposta:** 111
+[[src_canimath_2023_printemps__Q08]]

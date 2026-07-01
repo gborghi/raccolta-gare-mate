@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2021 — Nível 1 — Fase x — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2021_n1_fx__Q04
 parent: src_obm_2021_n1_fx
 competition: Olimpíada Brasileira de Matemática 2021 — Nível 1 — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Students opening lockers: doublings mod 2021, count open lockers*
 
@@ -56,3 +59,21 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10RcAE6sTt-lvUTcmg157vdVd4ZjysYzW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Studenti che aprono casili: doppio mod 2021, contare i casili aperti*
+
+> In una certa scuola ci sono 2021 armadietti numerati dal 1 al 2021. Un certo giorno, 2021 studenti hanno deciso di giocare a un gioco. Inizialmente, tutti gli armadi erano chiusi. Gli studenti si schierarono in ordine davanti ai armadietti. Lo studente numero 1 è stato chiamato primo, lo studente numero 2 secondo, e così via, fino allo studente 2021.
+> 
+> Quando arriva lo studente $i$, se locker $i$ è chiuso lo apre, e se è aperto lo chiude; quindi registra il numero del locker che ha modificato e ripete il seguente processo: raddoppia il numero dell'ultimo locker modificato; se il risultato è superiore al 2021, sottrae il 2021 dal risultato ottenuto, e apre o chiude il locker il cui numero è il nuovo risultato. Per esempio, lo studente 1 cambia i cacciatorni < MSK2/>. Quando raddoppiamo 1024 otteniamo 2048, e $2048 - 2021 = 27$, quindi successivamente cambia lo scrigno 27. Lo studente prosegue fino al risultato del 2021, momento in cui cambia locker 2021 e termina la sua partecipazione. Quando lo studente 1 raggiunge il 2048 ottiene il 2048 e $2048 - 2021 = 27$, quindi la sequenza è $1, 2, 4, 8, \ldots, 512, 1024, 27, 54, \ldots$ e termina nel 2021. Doppiando raggiungiamo il 2048 in $2048 - 2021 = 27$, e così via, terminando allo studente 2048, concludendo la partecipazione dello studente 1.
+> 
+> a) Dopo il passaggio dello studente 16, quali cassonette numerate da 1 a 16 sono aperte?
+> 
+> b) Scrivere le fatturazioni prime dei numeri elencati nella voce precedente.
+> 
+> c) Dopo che tutti gli studenti del 2021 sono passati, quanti armadietti sono aperti?
+
+[[src_obm_2021_n1_fx__Q04]]

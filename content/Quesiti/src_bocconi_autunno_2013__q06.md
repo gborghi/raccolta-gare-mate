@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2013 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2013__Q06
 parent: src_bocconi_autunno_2013
 competition: Giochi d'Autunno 2013
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anno in cui somma cifre uguale a un terzo dell'età di Matteo.*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2024
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Year in which the sum of figures is equal to one third of Matthew's age.*
+
+> Matteo was born on January 1, 2000. In 2014 she will be 14 years old and the sum of the figures for that year ($2+0+1+4$) will be equal to 7, half her age.
+> 
+> In what year, instead, will the sum of the year's figures be equal to one third of Matthew's age?
+
+**Answer:** 2024
+[[src_bocconi_autunno_2013__Q06]]

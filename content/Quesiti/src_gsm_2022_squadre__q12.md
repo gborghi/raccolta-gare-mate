@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2022_squadre__Q12
 parent: src_gsm_2022_squadre
 competition: Gara a Squadre GSM (locale Genova) 2022
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di consecutivi con prodotto divisibile per 2022*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0337
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of sequences with product divisible by 2022*
+
+> What is the minimum number of consecutive positive integers whose product is always divisible by $2022$?
+
+**Answer:** 0337
+[[src_gsm_2022_squadre__Q12]]

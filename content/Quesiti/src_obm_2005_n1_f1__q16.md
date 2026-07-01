@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q16
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of numbers in white circles with adjacency and square constraints*
 
@@ -54,3 +57,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di numeri in cerchi bianchi con restrizioni adiacenti e quadrate*
+
+> Tra i numeri $1, 2, 3, 4, 5, 6, 7, 8, 9, 10$, scegliene alcuni e posizionarli nei cerchi bianchi in modo che la somma dei due numeri in due cerchi vicini sia sempre un quadrato perfetto. Nota: $2$ è già stato inserito in uno dei cerchi e non è consentito inserire numeri ripetuti; inoltre, i cerchi separati dal rettangolo nero non sono vicini.
+> 
+> Qual è la somma dei numeri inseriti in tutti i cerchi bianchi?
+> 
+> A) $36$ \quad B) $46$ \quad C) $47$ \quad D) $49$ \quad E) $55$
+
+![[src_obm_2005_n1_f1__Q16.png]]
+
+**Risposta:** D
+[[src_obm_2005_n1_f1__Q16]]

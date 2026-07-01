@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1994 — Round 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1994_r1__Q07
 parent: src_pol_1994_r1
 competition: Olimpiade Matematica Polacca 1994 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Similar triangles built outside quadrilateral ABCD; if ABCD parallelogram then PQRS is*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangoli simili costruiti al di fuori dell'ABCD quadrilaterale; se ABCD è parallelo, allora il PQRS è *
+
+> Al di fuori di un quadrilaterale converso $ABCD$, sono costruiti triangoli simili $APB, BQC, CRD, DSA$ in modo che $$\angle PAB = \angle QBC = \angle RCD = \angle SDA, \quad \angle PBA = \angle QCB = \angle RDC = \angle SAD.$$ dimostri che se $ABCD$ è un parallelo, allora lo è anche $PQRS$.
+
+[[src_pol_1994_r1__Q07]]

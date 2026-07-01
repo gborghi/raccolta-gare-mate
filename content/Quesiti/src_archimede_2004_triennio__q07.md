@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2004 - Gara Triennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2004_triennio__Q07
 parent: src_archimede_2004_triennio
 competition: Giochi di Archimede 2004 - Gara Triennio
@@ -24,6 +25,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità di vincita con dado/lista numerata*
 
@@ -35,3 +38,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of winning with dice/numbered list*
+
+> How many multiples of 5 among 4-digit integers do you write without using any other digits other than 0, 1, 2, 3, 4, 5? It is permissible to use the same number several times; 0 cannot be the initial number.
+> 
+> (A) 180, (B) 216, (C) 360, (D) 396, (E) 1080.
+
+[[src_archimede_2004_triennio__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q13
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Come incernierare le due sezioni della porta*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to anchor the two sections of the door*
+
+![[src_kangourou_2007_junior_marzo__prob13.png]]
+
+> Of the four walls that delimit a cone, the two sides (opposite) are vertical while the floor and ceiling are parallel to each other, but not perpendicular to the side walls: consequently the vertical section is not a rectangle, but a parallelogram which, observed from the entrance, presents the lowest part on the right. In the middle of the cone, a barrier door is to be constructed which consists of two sections, upper and lower, open one independently of the other. Looking at the entrance, how are the two sections to be anchored? A) Both on the left side. B) Both on the right side. C) The upper one on the left side and the lower one on the right side. D) The upper one on the right side and the lower one on the left side. E) The project is not feasible.
+
+**Answer:** C
+[[src_kangourou_2007_junior_marzo__Q13]]

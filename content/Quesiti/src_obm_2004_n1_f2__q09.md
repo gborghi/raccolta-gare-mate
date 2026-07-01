@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f2__Q09
 parent: src_obm_2004_n1_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2
@@ -40,6 +41,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Digit-count toy: iterated row description gives sequence; find digits on line 10 and 2006*
 
@@ -54,3 +57,17 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di conteggio di numeri: la descrizione della riga iterata dà la sequenza; trovare i numeri sulla riga 10 e 2006*
+
+> Esmeralda ha inventato un giocattolo. Ha digitato alcuni numeri nella prima riga di un foglio. Poi, la descrizione dei numeri digitati appare sulla seconda riga: presenta le quantità di ogni numero che appare, in ordine crescente del numero. Ad esempio, dopo aver digitato 21035662112, ha digitato $1\,0\;1\,1\;3\,2\;1\,5\;2\,6$, il che significa: uno 0, uno 1, tre 2s, uno 5, due 6s.
+> 
+> (a) Ha iniziato un nuovo foglio con com 1. Quindi, la sua descrizione e' scritta sulla seconda riga. Poi, ha descritto la seconda riga sulla terza riga, e così via. Qual è la cifra scritta sulla riga $10^{\text{th}}$ del primo foglio?
+> 
+> (b) A Esmeralda è piaciuto e ha deciso di ripetere il processo su diversi fogli, a partire dal 01 nella prima riga del primo foglio. Quali sono le prime due cifre a sinistra che ha digitato sulla linea $2006^{\text{th}}$?
+
+[[src_obm_2004_n1_f2__Q09]]

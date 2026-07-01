@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f1__Q05
 parent: src_obm_2003_n2_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Magic square with 14, x, 26, 13; find x*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrato magico con 14, x, 26, 13; trovare x*
+
+> In un quadrato magico, la somma dei numeri in ogni riga, colonna o diagonale è sempre la stessa. Nel quadrato magico di seguito, il valore di $x$ è:
+> 
+> $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hline\end{array}$$
+> 
+> (A) 20 \quad (B) 22 \quad (C) 23 \quad (D) 25 \quad (E) 27
+
+![[src_obm_2003_n2_f1__Q05.png]]
+
+**Risposta:** E
+[[src_obm_2003_n2_f1__Q05]]

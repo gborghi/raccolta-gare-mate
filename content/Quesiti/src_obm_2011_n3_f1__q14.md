@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f1__Q14
 parent: src_obm_2011_n3_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *First nonzero digit after the decimal point of 1/5^10*
 
@@ -47,3 +50,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prima cifra non-zero dopo il punto decimale di 1/5^10*
+
+> Qual è la prima cifra diversa da zero dopo la virgola nella rappresentazione decimale della frazione $\dfrac{1}{5^{10}}$?
+> 
+> (A) 1 (B) 2 (C) 4 (D) 5 (E) 7
+
+[[src_obm_2011_n3_f1__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre finale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q02
 parent: src_kangourou_2011_squadre_finale
 competition: Kangourou 2011 squadre finale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie di rette sghembe tra spigoli di un cubo*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 24
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13507kQgtd5A0hh0IwUZH9QyAEafhU_bz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Pairs of straight lines parallel to the ends of a cube< MSK1/>
+
+> How many pairs of straight sghembe (i.e. not lying on the same plane) can be formed, choosing the straight lines from those on which the spikes of a cube lie?
+
+**Answer:** 24
+[[src_kangourou_2011_squadre_finale__Q02]]

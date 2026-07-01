@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q20
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo al centro per settore 15% del cerchio*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Angle to the centre by sector 15% of the circle*
+
+> What is the angle at the center of a sector whose area is 15% of the area of the entire circle? A) 15° B) 36° C) 54° D) 90° E) 150°
+
+**Answer:** C
+[[src_kangourou_2000_studenti__Q20]]

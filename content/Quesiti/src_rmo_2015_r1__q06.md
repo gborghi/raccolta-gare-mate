@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r1__Q06
 parent: src_rmo_2015_r1
 competition: Regional Mathematical Olympiad 2015
@@ -34,6 +35,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all reals a in (3,4) such that a(3-2f) is an integer*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pM_o_4zD3hAhAdQoohTDksCBpNlBtRQ7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i reali a in (3,4) in modo che a(3-2f) sia un intero*
+
+> Trova tutti i numeri reali $a$ in modo tale che $3 < a < 4$ e $a(3 - 2f)$ siano un numero intero, dove $f = \{a\}$ indica la parte frazionaria di $a$. (Ad esempio $\{1.5\} = 0.5$; $\{-3.4\} = 0.6$.)
+
+[[src_rmo_2015_r1__Q06]]

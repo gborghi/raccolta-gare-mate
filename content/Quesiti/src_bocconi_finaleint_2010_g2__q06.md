@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 2) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g2__Q06
 parent: src_bocconi_finaleint_2010_g2
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cripto-addizione: usare tutte le cifre da 1 a 9 tranne una, in colonna dal piu piccolo al piu grande, somma 2010.*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1842 + 73 + 95 = 2010 ; 1925 + 37 + 48 = 2010
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Crypto-addition: use all digits from 1 to 9 except one, in the column from smallest to largest, sum 2010. *
+
+> Substitute the columns with all digits from $1$ to $9$ except one so that: in each column, the digits of the operation are written from top to bottom from smallest to largest; the addition is accurate. The addition is $\_\,\_\,\_\,\_ + \_\,\_ + \_\,\_ = 2010$.
+
+**Answer:** 1842 + 73 + 95 = 2010 ; 1925 + 37 + 48 = 2010
+[[src_bocconi_finaleint_2010_g2__Q06]]

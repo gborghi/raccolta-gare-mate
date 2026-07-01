@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2018 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2018__Q02
 parent: src_cgen_2018
 competition: Concours Général des Lycées 2018 — Matematica
@@ -39,6 +40,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Discrete Dirichlet problem on a connected graph: assign reals to blue points so each equals the average of its neighbors, with given values at yellow points; existence (monotone iteration) and uniqueness of the solution.*
 
@@ -101,3 +104,35 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ndY2rTBhYsNW1k5eeouIHRqR2THD_a96/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Problema di Dirichlet discreto su un grafico collegato: assegnare reali ai punti blu in modo che ciascuno sia uguale alla media dei suoi vicini, con dati valori a punti gialli; esistenza (iterazione monotona) e unicità della soluzione.*
+
+> Il problema 2: un signor così discreto . Diricletto.
+> 
+> $\mathscr{S}$ sia un insieme finito non vuoto di punti del piano. Alcune coppie di punti di $\mathscr{S}$ sono unite da segmenti, in modo che, seguendo questi segmenti, possibilmente in diversi passaggi, sia sempre possibile passare da un punto di $\mathscr{S}$ a un altro (le possibili intersezioni tra i segmenti non sono prese in considerazione e un punto non viene mai unito a se stesso).
+> 
+> Due punti di $\mathscr{S}$ uniti da un segmento sono chiamati vicini.
+> 
+> Se $M$ è un punto di $\mathscr{S}$, indichiamo con $V(M)$ l'insieme dei vicini di $M$, e indichiamo con $d(M)$ il numero dei vicini di $M$, chiamato il grado di $M$.
+> 
+> Ogni punto di $\mathscr{S}$ è stato colorato blu o giallo e nel set $\mathscr{S}$ c'è almeno un punto giallo. Ad ogni punto giallo, Gustav ha assegnato un numero reale di sua scelta. La matematica Maryam vuole poi assegnare un reale a ogni punto blu (non necessariamente lo stesso numero per un punto blu come un altro) per soddisfare la seguente proprietà $(\mathscr{P})$: $(\mathscr{P})$ Il numero assegnato a qualsiasi punto blu è la media dei numeri assegnati ai suoi vicini.
+> 
+> Parte 2.1 - Alcuni esempi per cominciare. 1. Solo in questa domanda, supponiamo che $\mathscr{S}=\{A,B,C\}$, con $A$ vicino di $B$, si stesso vicino di $C$ come nel disegno di seguito. Inoltre, $A$ è l'unico punto giallo e Gustav gli ha assegnato il vero $a$. Quali numeri Maryam deve quindi assegnare a $B$ e a $C$ per soddisfare la proprietà $(\mathscr{P})$?
+> 
+> 2. Per le tre domande seguenti supponiamo che $\mathscr{S}=\{A,B,C,D,E\}$. I punti $A$ e $E$ sono gli unici punti gialli, ai quali Gustav ha assegnato rispettivamente i valori $a$ e $e$. a. Se i collegamenti sono indicati secondo il seguente schema, quali numeri Maryam deve quindi assegnare a ciascuno dei punti $B$, $C$ e $D$ per soddisfare la proprietà $(\mathscr{P})$? (corso lineare $A-B-C-D-E$) b. La stessa domanda per il seguente schema. c. La stessa domanda per il seguente schema (tipo di grafico completo, cfr. figura).
+> 
+> 3. In questa domanda solo uno generalizza il sistema della domanda 2.c con un numero arbitrario di punti. Supponiamo che $n\ge 1$ sia un intero, che $\mathscr{S}=\{P_0,P_1,P_2,\ldots,P_n,P_{n+1}\}$ e che ogni punto di $\mathscr{S}$ sia un vicino di ogni altro punto di $\mathscr{S}$. Inoltre, $P_0$ e $P_{n+1}$ sono gli unici punti gialli, e Gustav ha assegnato loro rispettivamente i valori $a$ e $b$. Quali numeri Maryam deve quindi assegnare a ciascuno dei punti $P_i$ per $i=1,\ldots,n$ per soddisfare la proprietà $(\mathscr{P})$?
+> 
+> Parte 2.2 - Studio del caso generale. Indichiamo rispettivamente con $\mathscr{J}$ l'insieme dei punti gialli e con $\mathscr{B}$ l'insieme dei punti blu. Quindi $\mathscr{S}=\mathscr{J}\cup\mathscr{B}$. Quando Gustav assegna un reale a ogni punto giallo, ciò equivale a definire una funzione $k$ da $\mathscr{J}$ a $\mathbb{R}$. L'obiettivo di Maryam è quindi quello di costruire una funzione $f:\mathscr{S}\to\mathbb{R}$ tale che: $$f(M)=k(M)\ \text{if }M\text{ is yellow}\quad(1)$$ $$f(M)=\frac{f(P_1)+\ldots+f(P_d)}{d}\ \text{if }M\text{ is blue}\quad(2)$$ dove $d=d(M)$ è il grado di $M$ (che dipende da $M$) e $P_1,\ldots,P_d$ sono i vicini di $M$. Quindi diciamo che $f$ è una soluzione per l'attribuzione $k$. In questa parte, supponiamo che, data tale attribuzione $k$. Indichiamo con $K$ il più grande dei numeri $k(M)$ quando $M$ si estende sul set $\mathscr{J}$.
+> 
+> Parte 2.3 - Esistenza di una soluzione. 1. Supponiamo in questa domanda che $k(M)\ge 0$ per ogni punto $M\in\mathscr{J}$. Quindi, per ricorrenza, costruiamo la seguente sequenza $(f_n)$ di funzioni: impostamo $f_0(M)=k(M)$ se $M$ è giallo, e $f_0(M)=0$ se $M$ è blu. Quindi, per ogni intero $n\ge 0$, impostamo: $$f_{n+1}(M)=k(M)\ \text{if }M\text{ is yellow,}$$ $$f_{n+1}(M)=\frac{f_n(P_1)+\ldots+f_n(P_d)}{d}\ \text{if }M\text{ is blue,}$$ dove $d=d(M)$ è il grado di $M$ e $P_1,\ldots,P_d$ sono i vicini di $M$. a. Prove che per tutti $n\ge 0$ e per ogni punto $M\in\mathscr{S}$ si ha $0\le f_n(M)\le f_{n+1}(M)\le K$. b. Riduzione dell'esistenza di una soluzione per l'attribuzione $k$. 2. Prova che se $f$ è una soluzione per l'attribuzione $k$ e se $\alpha$ è una costante, allora la funzione $f+\alpha$ è anche una soluzione per l'attribuzione $k+\alpha$. 3. Deduci che esiste sempre una soluzione al nostro problema in generale, cioè senza l'ipotesi della domanda 1: $k(M)\ge 0$ per ogni punto $M\in\mathscr{J}$.
+> 
+> Parte 2.4 - Unicità della soluzione. Supponiamo che in questa sottoparte abbiamo una soluzione $f$ per questa attribuzione $k$. 4. Prove che per ogni punto $M\in\mathscr{S}$, uno ha $f(M)\le K$. 5. Supponiamo che $g$ sia anche una soluzione per l'attribuzione $k$. a. giustificare che la funzione $f-g$ soddisfi la condizione (2). b. Che cos'è < MSK7/> su < MSK8/>? c. Riduzione di < MSK9/>. 6. Cosa si può dire di < MSK10/> se c'è solo un punto giallo?
+
+![[src_cgen_2018__Q02.png]]
+
+[[src_cgen_2018__Q02]]

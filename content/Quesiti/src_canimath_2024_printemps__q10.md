@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2024 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_printemps__Q10
 parent: src_canimath_2024_printemps
 competition: Coupe Animath Printemps 2024
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with incenter: show angle BID is at least 90 degrees*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con incentro: angolo di mostra BID è di almeno 90 gradi*
+
+> Lasciate che $ABC$ sia un triangolo non piatto. $I$ sia il centro del suo cerchio inscritto e $D$ il punto di intersezione del bisettore di angolo $\widehat{BAC}$ con il segmento $[BC]$. Mostra che $\widehat{BID} \ge 90^\circ$.
+
+[[src_canimath_2024_printemps__Q10]]

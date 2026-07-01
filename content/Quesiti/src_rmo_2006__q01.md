@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2006 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2006__Q01
 parent: src_rmo_2006
 competition: Regional Mathematical Olympiad 2006
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Feet of altitudes in acute triangle are collinear with intersection*
 
@@ -37,3 +40,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I piedi di altitudine nel triangolo acuto sono collineari con l'intersezione *
+
+> Il $ABC$ deve essere un triangolo acuto angolato e $D$, $E$, $F$ devono essere i piedi delle perpendicolari da $A$, $B$, $C$ rispettivamente a $BC$, $CA$, $AB$. Lasciate che le perpendicolari da $F$ a $CB$, $CA$, $AD$, $BE$ si incontrino rispettivamente in $P$, $Q$, $M$ e $N$. Provare che $P$, $Q$, $M$, $N$ sono collineari.
+
+![[src_rmo_2006__Q01.png]]
+
+[[src_rmo_2006__Q01]]

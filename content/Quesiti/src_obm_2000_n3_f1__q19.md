@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q19
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count rectangles with vertices A,B among 9x9 grid line intersections*
 
@@ -58,3 +61,22 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i rettangoli con vertici A,B tra le intersezioni della linea della griglia 9x9*
+
+> Quanti rettangoli hanno i punti $A$ e $B$ come vertici, e i cui vertici sono tra i punti di intersezione delle 9 linee orizzontali con le 9 linee verticali della figura seguente?
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 7
+> - **(D)** 2
+> - **(E)** 5
+
+![[src_obm_2000_n3_f1__Q19.png]]
+
+**Risposta:** E
+[[src_obm_2000_n3_f1__Q19]]

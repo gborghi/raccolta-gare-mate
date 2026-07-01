@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q01
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find ratio alpha/beta in a figure with four equal segments*
 
@@ -42,3 +45,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il rapporto alfa/beta in una figura con quattro segmenti uguali*
+
+> Nel disegno abbiamo $AE = BE = CE = CD$. Inoltre, $\alpha$ e $\beta$ sono misure di angoli. Qual è il valore del rapporto $\dfrac{\alpha}{\beta}$?
+> 
+> (A) $\dfrac{3}{5}$ (B) $\dfrac{4}{5}$ (C) $1$ (D) $\dfrac{5}{4}$ (E) $\dfrac{5}{3}$
+
+![[src_obm_2008_n3_f1__Q01.png]]
+
+[[src_obm_2008_n3_f1__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Biennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_biennio__Q05
 parent: src_archimede_2005_biennio
 competition: Giochi di Archimede 2005 - Gara Biennio
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima distanza tra capanne in una corona circolare*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum distance between cabins in a circular crown*
+
+> An atoll is shaped like a circular crown bounded by two concentric circles of 1 km and 6 km radius respectively. John and Mark are the only inhabitants of the atoll; after a storm destroyed their huts, they decide to rebuild them as far as possible from each other, but so that there is a straight path that connects them and that lies entirely on the atoll. How far apart will the huts of John and Mark be? (Suppose the two circumferences which delimit the atoll are part of it.)
+>
+> - **(A)** √ 35 2 km,
+> - **(B)** √ 37 2 km,
+> - **(C)** √ 37 km,
+> - **(D)** 2 √ 35 km,
+> - **(E)** 2 √ 37 km.
+
+**Answer:** D
+[[src_archimede_2005_biennio__Q05]]

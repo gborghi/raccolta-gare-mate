@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre__Q13
 parent: src_kangourou_2022_kangourou_squadre
 competition: Kangourou Squadre 2022 Kangourou Finale 1
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza ED in triangolo rettangolo partizionato*
 
@@ -60,3 +63,37 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0048
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kPr4pxe9JLW6PscULmAS1patprSg1xRs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ed length in triangle divided rectangle*
+
+![[src_kangourou_2022_kangourou_squadre__prob13.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.045]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (75,0);
+  \coordinate (C) at (0,100);
+  \coordinate (D) at (48,36);
+  \coordinate (E) at (0,36);
+  \draw[thick] (A) -- (B) -- (C) -- cycle;
+  \draw (E) -- (D);
+  \draw (A) -- (D);
+  \draw (0,4) -- (4,4) -- (4,0);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above left] at (C) {$C$};
+  \node[left] at (E) {$E$};
+  \node[right] at (D) {$D$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Triangles In the figure you see a right triangle ABC divided into three right triangles EDC, EDA and ABD. If AB measures 75 and AC measures 100, how much does ED measure?
+
+**Answer:** 0048
+[[src_kangourou_2022_kangourou_squadre__Q13]]

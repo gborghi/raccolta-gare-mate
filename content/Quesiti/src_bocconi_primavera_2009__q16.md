@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2009 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2009__Q16
 parent: src_bocconi_primavera_2009
 competition: Semifinale di Primavera 2009
@@ -31,6 +32,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali carte girare per verificare "1 implica A"*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** Sara girerà le carte 1 – Z.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14prakvd6EDcEQSfmnn_-6oGG4wcPui_K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which cards to turn to check "1 implies A" *
+
+> Each of these cards bears a letter written on one side and a number on the other. Sergio tells his sister Sara that if a card has a "1" on one side, it necessarily has an "A" on the other. Sara doesn't believe it and decides to check it out for herself.
+> 
+> What cards does Sara have to turn to be sure Sergio's claim is true?
+
+![[src_bocconi_primavera_2009__Q16.png]]
+
+**Answer:** Sara girerà le carte 1 – Z.
+[[src_bocconi_primavera_2009__Q16]]

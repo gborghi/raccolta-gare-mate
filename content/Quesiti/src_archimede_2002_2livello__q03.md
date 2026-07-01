@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2002 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_2livello__Q03
 parent: src_archimede_2002_2livello
 competition: Archimede Gara 2º livello 2002
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Indovinello logico su Marziani e Venusiani (chi mente)*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+A logical riddle about Martian and Venusian (who's thinking)
+
+> On a map of a certain region there are two cities at the top of a regular hexagon; the capitals represent as many cities. There are jobs in the region where each road is open with a probability of < MSK0/> irrespective of the others. What are the odds that the capital is accessible from at least one other city?
+> 
+> (A) between $0{,}25\%$ and $0{,}5\%$ &ensp; (B) between $0{,}5\%$ and $1\%$ &ensp; (C) between $1\%$ and $5\%$ &ensp; (D) between $5\%$ and $20\%$ &ensp; (E) between $20\%$ and $50\%$
+
+**Answer:** E
+[[src_archimede_2002_2livello__Q03]]

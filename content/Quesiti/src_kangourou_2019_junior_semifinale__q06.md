@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Junior — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q06
 parent: src_kangourou_2019_junior_semifinale
 competition: Kangourou 2019 Semifinale Junior
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dove la pallina ricolpisce il bordo sinistro griglia 4x2019*
 
@@ -77,3 +80,38 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Where the ball folds the left edge of the grid 4x2019*
+
+![[src_kangourou_2019_junior_semifinale__prob6.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.55]
+  \draw[thin] (0,0) grid (10,4);
+  \foreach \y in {0,1,2,3,4} {
+    \draw[dashed,thin] (10,\y) -- (13,\y);
+  }
+  \foreach \x in {11,12} {
+    \draw[dashed,thin] (\x,0) -- (\x,4);
+  }
+  \node[left] at (0,4) {$A$};
+  \node[left] at (0,3) {$B$};
+  \node[left] at (0,2) {$C$};
+  \node[left] at (0,1) {$D$};
+  \node[left] at (0,0) {$E$};
+  \draw[->,thick,dashed] (0,0) -- (4,4) -- (8,0) -- (9,1);
+\end{tikzpicture}
+\end{document}
+```
+
+> (Points 4) In Figure A, B, C, D and E, the 5 points of contact between the left vertical edge of a rectangular grid 4×2019 and the horizontal segments delimiting the square cells of that grid are indicated (from the top). A ball (shaped points!) is thrown from the point E towards the inside of the grid at an angle of 45 degrees (as opposed to the sides of the grid) and bounces regularly whenever it hits the edges of the grid: the figure suggests the initial trajectory of the ball. When the ball hits the left edge of the grid for the first time, where does it hit it? A) A B) B
+> 	
+> C) C D) D E) E
+
+**Answer:** C
+[[src_kangourou_2019_junior_semifinale__Q06]]

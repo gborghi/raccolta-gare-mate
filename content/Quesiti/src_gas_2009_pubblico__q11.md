@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_pubblico__Q11
 parent: src_gas_2009_pubblico
 competition: Gara a Squadre 2009 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime 4 cifre del prodotto dei dispari fino a 2009*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0625
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last 4 digits of the odd product until 2009*
+
+> The legendary number [40] There is an inscription at the doors of Puntor that records the legendary number  i.e. the largest number known at the time of the creation of Puntor. We know that number is 1.3.5. 2009. However, the wind has eroded the stone over time and what remains are only the last four digits. What are they?
+
+**Answer:** 0625
+[[src_gas_2009_pubblico__Q11]]

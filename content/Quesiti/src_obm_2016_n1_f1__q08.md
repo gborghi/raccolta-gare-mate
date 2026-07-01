@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f1__Q08
 parent: src_obm_2016_n1_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Josias's position in a queue given a ratio between people before and after him.*
 
@@ -50,3 +53,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La posizione di Josias in fila data la proporzione tra persone prima e dopo di lui.*
+
+> Trova la posizione di Josias $x$ nella coda.
+> 
+> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: $x-1$ persone sono arrivate prima di Josias e $2016-x$ persone sono arrivate dopo di lui, con $\dfrac{2016-x}{4} = 4(x-1)$, cioè $2016-x = 16(x-1)$, con $x = 404$.]
+
+**Risposta:** A
+[[src_obm_2016_n1_f1__Q08]]

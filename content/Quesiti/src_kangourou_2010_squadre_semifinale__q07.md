@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2010 squadre semifinale turno A — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2010_squadre_semifinale__Q07
 parent: src_kangourou_2010_squadre_semifinale
 competition: Kangourou 2010 squadre semifinale turno A
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma interi pari n con -53<2010/(53-n)<53-n*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 302
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interest sum equal to n with -53<2010/(53-n) <53-n*
+
+> A chain of inequalities Find the sum of all positive integers equal to n such that  53 < 2010/(53  n) < 53  n.
+
+**Answer:** 302
+[[src_kangourou_2010_squadre_semifinale__Q07]]

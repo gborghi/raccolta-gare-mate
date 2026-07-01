@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2008 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2008__Q01
 parent: src_cn_csmo_2008
 competition: China Southeastern Mathematical Olympiad 2008
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max subset of {1,...,3n} with no x+y=z*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2n
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sottoinsieme massimo di {1,...,3n} senza x+y=z*
+
+> È dato il set $S = \{1, 2, 3, \cdots, 3n\}$ dove $n$ è un intero positivo. $T$ è un sottoinsieme di $S$ tale che, per qualsiasi $x, y, z \in T$ (dove $x$, $y$, $z$ possono essere uguali), $x + y \neq z$. Trova il valore massimo del numero di elementi in tale insieme.
+
+**Risposta:** 2n
+[[src_cn_csmo_2008__Q01]]

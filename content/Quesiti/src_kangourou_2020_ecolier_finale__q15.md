@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Ecolier — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__Q15
 parent: src_kangourou_2020_ecolier_finale
 competition: Kangourou 2020 Finale nazionale Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Euro di Alfonso prima del primo viaggio (traghetto magico)*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0042
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+€ € € € € € € € € € € € € € € € € € € € € € € € € € €
+
+> Amalia wants to build a crown using copies of the token you see on the right and wants that when two tokens share a side the corresponding numbers match. It has already laid down $3$ tokens with this criterion. What number will be found at the end of the triangle denoted by $X$?
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $4$
+> - **(E)** The following table shows the results of the evaluation:
+
+**Answer:** 0042
+[[src_kangourou_2020_ecolier_finale__Q15]]

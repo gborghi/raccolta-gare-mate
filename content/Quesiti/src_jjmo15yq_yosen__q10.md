@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo15yq_yosen__Q10
 parent: src_jjmo15yq_yosen
 competition: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ways to fill 2x7 grid with 1-14, rows increasing, column gaps non-decreasing*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 350
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Medi per riempire la griglia 2x7 con 1-14, righe in aumento, lacune nelle colonne non in diminuzione*
+
+> Scrivere uno di ciascuno dei numeri interi distinti da $1$ a $14$ nelle celle di una griglia $2\times 7$ come mostrato di seguito. Quanti metodi di scrittura soddisfano le seguenti condizioni? \begin{itemize} \item In ogni riga, i sette numeri interi scritti sono disposti in ordine crescente da sinistra a destra. \item Per ogni numero intero $k$ da $1$ a $6$, la differenza tra i due numeri scritti nella colonna $(k+1)$ da sinistra è maggiore o uguale alla differenza tra i due numeri scritti nella colonna $k$. # Finire #
+
+![[src_jjmo15yq_yosen__Q10.png]]
+
+**Risposta:** 350
+[[src_jjmo15yq_yosen__Q10]]

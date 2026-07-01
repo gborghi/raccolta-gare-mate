@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q06
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-digit numbers whose digit sum is 25*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri a 3 cifre la cui somma digitale è 25*
+
+> Quanti sono i numeri $3$ a cui la somma digitali è uguale a $25$?
+>
+> - **(A)** $2$
+> - **(B)** $4$
+> - **(C)** $6$
+> - **(D)** $8$
+> - **(E)** $10$
+
+**Risposta:** C
+[[src_obm_1998_n1_f1__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2008 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2008__Q08
 parent: src_bocconi_semifinale_2008
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2008
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di tre cifre con proprietà di multipli*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 127
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of three digits with property of multiples*
+
+> The number $55$ has the following properties: if you subtract 1 from it, you get a multiple of 9; if you add 1 to it, you get a multiple of 8. What is the smallest three-digit number that has the same properties?
+
+**Answer:** 127
+[[src_bocconi_semifinale_2008__Q08]]

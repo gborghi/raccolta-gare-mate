@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q15
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colore della regione X in mappa con 4 colori*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Region X colour on a 4 colour map*
+
+![[src_kangourou_2011_cadet__prob15.png]]
+
+> Each region of the map you see in the figure should be colored with one of the following four colors: red (R), green (V), blue (B), yellow (G). Each pair of adjacent regions must be given different colors. Three regions have already been assigned colour. What colour shall be assigned to the region marked with X? A) Only red B) Only blue C) Only green D) Only yellow E) Anything between blue and red
+
+**Answer:** A
+[[src_kangourou_2011_cadet__Q15]]

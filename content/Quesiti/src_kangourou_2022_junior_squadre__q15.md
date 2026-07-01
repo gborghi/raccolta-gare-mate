@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Junior Finale 1 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_squadre__Q15
 parent: src_kangourou_2022_junior_squadre
 competition: Kangourou Squadre 2022 Junior Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri 10..1000 con cifre in ordine crescente*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0210
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers 10..1000 in ascending order*
+
+> In increasing order How many integers are between 10 and 1000 whose digits are arranged in increasing order, but not necessarily strictly increasing?
+> 
+>  
+> 3
+>  
+>  
+> Questions and solutions
+
+**Answer:** 0210
+[[src_kangourou_2022_junior_squadre__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q01
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -33,6 +34,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles trapezoid ABCD in xy-plane; find a^b*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Isosceles trapezoide ABCD in piano xy; trovare a^b< MSK1/>
+
+> Che $ABCD$ sia un quadrilaterale nel piano $xy$ con $AB$ parallelo a $CD$ e $AD = BC$. Supponiamo $A = (0, 0)$, $B = (10, 0)$, $C = (8, 5)$ e $D = (a, b)$. Determinare il valore di $a^b$.
+
+[[src_ioqm_2025_sep28__Q01]]

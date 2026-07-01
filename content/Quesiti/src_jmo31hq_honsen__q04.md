@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2021 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo31hq_honsen__Q04
 parent: src_jmo31hq_honsen
 competition: Japan Mathematical Olympiad 2021 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer sequence with a_{n+2}>a_{n+1}+a_n in [1,2016]; minimize max minus min*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n6EYmyNhJAvI2lQHkYeCAEvVPhs24W4e/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza integrale con a_{n+2}>a_{n+1}+a_n in [1,2016]; minimizzare il massimo meno min*
+
+> Considera una sequenza di enti $a_1, a_2, \ldots, a_{2021}$ in cui ogni termine soddisfa $1 \le a_i \le 2016$, e per tutti gli indici validi $n$ la disuguaglianza $$a_{n+2} > a_{n+1} + a_n$$ è mantenuta. Trova il valore minimo possibile di $$\max(a_1, a_2, \ldots, a_{2021}) - \min(a_1, a_2, \ldots, a_{2021}).$$
+
+[[src_jmo31hq_honsen__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q25
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability a 3x4 rectangular coin lands fully inside a 10x20 rectangular tile*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Probabilità che una moneta rettangolare 3x4 atterri completamente all'interno di una piastrella rettangolare 10x20*
+
+> Per calcolare la probabilità che una moneta di raggio $r$ atterri totalmente all'interno di una piastrella formata da piastrelle quadrate di lato $\ell$, calcoliamo la probabilità che il suo centro atterri all'interno di un quadrato di lato $\ell - 2r$ più piccolo (rilevamo un "frontiera" di dimensione $r$ dai lati del quadrato). Tale probabilità è pari a $\left(\frac{\ell - 2r}{\ell}\right)^2$. In Esmeralandia, le monete sono rettangolari. Qual è la probabilità che una moneta con lati $3$ e $4$ atterri totalmente all'interno di una piastrella formata da rettangoli con lati $10$ e $20$? (A) Meno di < MSK9/>. (B) Esattamente < MSK10/>. (C) Più di $0.375$ e meno di $0.595$. (D) Esattamente < MSK13/>. (E) Più di $0.595$.
+
+[[src_obm_2014_n3_f1__Q25]]

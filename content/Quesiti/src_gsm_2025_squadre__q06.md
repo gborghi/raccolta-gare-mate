@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2025_squadre__Q06
 parent: src_gsm_2025_squadre
 competition: Gara a Squadre Miste GSM (locale Genova) 2025
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massime cifre consecutive di 1/26 con somma 3000*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0335
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum consecutive digits of 1/26 with sum of 3000*
+
+> Periodic sums Lorenzo Mazza What is the maximum number of consecutive digits of the decimal place of 1 26 that all add up to the result 3000? : 0333
+
+**Answer:** 0335
+[[src_gsm_2025_squadre__Q06]]

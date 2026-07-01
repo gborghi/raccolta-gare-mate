@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q02
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di tre eta = 44, prossima con due cifre uguali*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of three stages = 44, next to two digits *
+
+> Carla, Emilia and Giulia are all three years old today. Their combined ages are 44. What will be the sum of their ages the next time it's again a two-digit number? A) 55
+> 	
+> B) 66
+> 	
+> C) 77
+> 	
+> D) 88
+> 	
+> E) 99
+
+**Answer:** C
+[[src_kangourou_2014_marzo_student__Q02]]

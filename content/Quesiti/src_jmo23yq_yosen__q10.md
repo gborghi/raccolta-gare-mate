@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo23yq_yosen__Q10
 parent: src_jmo23yq_yosen
 competition: Japan Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Flip cards via 2013 operations; count face-up cards*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 793
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dMCin6mfKEWYPJJU3SDEXt5-U6UwypUB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Flip card attraverso le operazioni 2013; contare le carte rivolte verso l'alto*
+
+> Ci sono carte $2013$ numerate $0, 1, \ldots, 2012$. A partire da uno stato in cui tutte le carte sono rivolte verso il basso, viene eseguita la seguente operazione per $i = 1, 2, \ldots, 2013$ in questo ordine. Operazione $i$: girare ogni carta il cui numero è $\left\lfloor \dfrac{2013 j}{i} \right\rfloor$ per un certo numero intero $j$ con $0 \le j \le i-1$ (una carta a faccia in giù diventa faccia in su, e una carta a faccia in su diventa faccia in giù). Quando tutte le operazioni sono terminate, quante carte sono rivolte in faccia? Qui, per un numero reale $r$, $\lfloor r \rfloor$ indica il numero intero più grande non superiore a $r$.
+
+**Risposta:** 793
+[[src_jmo23yq_yosen__Q10]]

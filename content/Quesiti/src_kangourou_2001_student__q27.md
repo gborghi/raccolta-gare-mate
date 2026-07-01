@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Student (15 marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_student__Q27
 parent: src_kangourou_2001_student
 competition: Kangourou 2001 - Student (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza corda EF nel rettangolo*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*EF length of rope in the rectangle*
+
+![[src_kangourou_2001_student__prob27.png]]
+
+> If ABCD is a rectangle and k is a circumference centered on A and passing through C, what is the length of the EF string? (see figure).
+
+**Answer:** C
+[[src_kangourou_2001_student__Q27]]

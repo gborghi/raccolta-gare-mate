@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2009 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2009__Q14
 parent: src_bocconi_semifinale_2009
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2009
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scatole per soldatini di Jacob con somma uguale*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2 oppure 5 oppure 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Box for Jacob's soldiers equal to *
+
+> Jacob has 20 soldiers (numbered from $1$ to $20$) and 20 boxes. It wants to arrange its soldiers in certain boxes so that: - all boxes used contain the same number of soldiers; - the sum of the numbers shown on the soldiers in each of the boxes used is always the same.
+> 
+> How many boxes will Jacob use?
+
+**Answer:** 2 oppure 5 oppure 10
+[[src_bocconi_semifinale_2009__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo10yq_yosen__Q01
 parent: src_jjmo10yq_yosen
 competition: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two people climb stairs at different rates; find possible stair counts*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 19, 20, 21, 22
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due persone scalare le scale a velocità diverse; trovare possibili conteggiamenti delle scale*
+
+> La persona $A$ sale $2$ passi alla volta e la persona $B$ sale $3$ passi alla volta. Tuttavia, entrambi possono anche salire < MSK4/> passo alla volta. L'ultimo passo prima della cima deve essere arrampicato da $A$ e $B$ in un solo passo. Quando sono salite le scale, il numero totale di passi compiuti da $A$ e $B$ insieme è stato $16$. Trova tutti i valori possibili per il numero di scale nella scala.
+
+**Risposta:** 19, 20, 21, 22
+[[src_jjmo10yq_yosen__Q01]]

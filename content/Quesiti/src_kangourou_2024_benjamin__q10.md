@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Benjamin 2024 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin__Q10
 parent: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale etichetta collega i due bambini ad aquiloni diversi*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>What label links the two babies to different equines< MSK1/>
+
+![[src_kangourou_2024_benjamin__prob10.png]]
+
+> Which of the following labels completes the drawing here on the side so that the two babies are connected to different squid ? A)
+> 	
+> B)
+> 	
+> C) D)
+> 	
+> E) Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2024_benjamin__Q10]]

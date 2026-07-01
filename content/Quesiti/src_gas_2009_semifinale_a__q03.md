@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_a__Q03
 parent: src_gas_2009_semifinale_a
 competition: Gara a Squadre 2009 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coincidenza di cicli veglia-sonno, settimane e affitto*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1050
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Wx24coOZuHD5lnXnMkNRwAuUmiEDrRDK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Coincidence of sleep-wake cycles, weeks and rent< MSK1/>
+
+> The young Meriandin Escherbach, called Morry, regularly alternates between 10 hours of wakefulness and 15 hours of sleep. The village pastry chef throws his celebrated sweets all over the county every Sunday at noon. Always at noon, every 30 days, Morry's landlord comes to claim the rent. Today, Meriandin woke up exactly as the pastry chef squeezed the broomsticks and the landlord knocked on his door. How many days from now will this happen again?
+
+**Answer:** 1050
+[[src_gas_2009_semifinale_a__Q03]]

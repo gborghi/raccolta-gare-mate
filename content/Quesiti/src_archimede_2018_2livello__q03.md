@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_2livello__Q03
 parent: src_archimede_2018_2livello
 competition: Archimede Gara di Febbraio 2018 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli isosceli simili costruiti sui lati, trovare AB*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Similar isosceles triangles constructed on the sides, find AB*
+
+> So ABC is an isosceles triangle with base BC = 10 and AB = AC. Two other isosceles DAB and EAC are constructed externally on its two oblique sides, both similar to ABC, with DA = DB and EA = EC. Knowing that DE is 45, find the length of AB.
+>
+> - **(A)** 15
+> - **(B)** 20
+> - **(C)** 9 √ 5
+> - **(D)** 22.5
+> - **(E)** It is not possible to determine this on the basis of the data provided.
+
+**Answer:** A
+[[src_archimede_2018_2livello__Q03]]

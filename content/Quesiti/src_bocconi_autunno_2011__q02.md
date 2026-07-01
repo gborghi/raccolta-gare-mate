@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2011 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2011__Q02
 parent: src_bocconi_autunno_2011
 competition: Giochi d'Autunno 2011
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Simbolo con cifra più grande nella sottrazione 2012*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Orologio
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Symbol with the largest number in subtraction 2012*
+
+> In subtracting the figure from each symbol, there is always the same figure, different from those corresponding to the other symbols. What symbol (computer, watch, phone) hides the largest number?
+
+![[src_bocconi_autunno_2011__Q02.png]]
+
+**Answer:** Orologio
+[[src_bocconi_autunno_2011__Q02]]

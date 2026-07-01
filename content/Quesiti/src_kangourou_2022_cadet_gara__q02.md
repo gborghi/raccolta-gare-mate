@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet gara individuale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q02
 parent: src_kangourou_2022_cadet_gara
 competition: Kangourou 2022 Cadet gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Su quale numero atterra il canguro che salta a schema*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which number is the kangaroo landing at *
+
+![[src_kangourou_2022_cadet_gara__prob2.png]]
+
+> Mathematical kangaroo enjoys jumping along the straight line. He makes two long jumps followed by three short jumps, as shown in the figure, and repeats this pattern countless times. He started from 0: which of the following numbers will he land on during his game? A) 82
+> 	
+> B) 83
+> 	
+> C) 84
+> 	
+> D) 85
+> 	
+> E) 86
+
+**Answer:** C
+[[src_kangourou_2022_cadet_gara__Q02]]

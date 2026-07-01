@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q11
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of distinct heights of towers built from blocks of height 4cm, 6cm, or 10cm*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di altezze distinte di torri costruite da blocchi di altezza di 4 cm, 6 cm o 10 cm*
+
+> Rahid ha un gran numero di blocchi di costruzione cubi. Ogni blocco ha lati lunghi 4 cm, 6 cm o 10 cm. Rahid fa piccole torri della stessa altezza mettendo tre dei blocchi uno sopra l'altro. Quante altezza di torre può costruire?
+>
+> - **(A)** $6$
+> - **(B)** $8$
+> - **(C)** $9$
+> - **(D)** $12$
+> - **(E)** $27$
+
+**Risposta:** C
+[[src_smc_2015__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_triennio__Q07
 parent: src_archimede_2014_triennio
 competition: Giochi di Archimede 2014 - Triennio (Testo 1)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto area rossa vicina al baricentro su triangolo*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Red area near the triangular center of radius *
+
+> Consider an equilateral triangle T, and it's called G its barycenter. All points inside the triangle whose distance from G is less than or equal to the distance from any of the three vertices shall be colored red. What is the ratio between the red area and the T area? (A) 1 3, (B) 1 4, (C) 2 3, (D) √ 3 9 , (E) √ 3 3 .
+
+**Answer:** C
+[[src_archimede_2014_triennio__Q07]]

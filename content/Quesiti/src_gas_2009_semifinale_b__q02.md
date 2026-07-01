@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale B — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_b__Q02
 parent: src_gas_2009_semifinale_b
 competition: Gara a Squadre 2009 - Semifinale B
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area cortile triangolare in quadrato di lato 80*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1600
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangular courtyard area in square side 80*
+
+> The El-Romb courtyard The summit of the leaders of the free peoples of Middle-earth takes place at El-Romb's home in Riemandell. The garden of the house is a large square ABCD side 80 meters. Two fine fountains rise on M and N the midpoints of AB and CD. El-Romb speaks from point V, right in the middle of MBCN, to an audience that's all inside the courtyard formed by the AVN triangle. What is the yard area in square meters?
+
+**Answer:** 1600
+[[src_gas_2009_semifinale_b__Q02]]

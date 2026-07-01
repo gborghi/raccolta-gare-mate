@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2021 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2021__Q04
 parent: src_smc_2021
 competition: Senior Mathematical Challenge 2021
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find sum of digits of positive integer k satisfying (k ÷ 12) ÷ (15 ÷ k) = 20.*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la somma dei numeri interi positivi k soddisfacente (k ÷ 12) ÷ (15 ÷ k) = 20. *
+
+> Il numero intero positivo $k$ è una soluzione dell'equazione $(k \div 12) \div (15 \div k) = 20$. Qual è la somma delle cifre di $k$?
+>
+> - **(A)** 15
+> - **(B)** 12
+> - **(C)** 9
+> - **(D)** 6
+> - **(E)** 3
+
+**Risposta:** D
+[[src_smc_2021__Q04]]

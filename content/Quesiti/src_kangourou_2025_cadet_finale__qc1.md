@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2025 Cadet finale — Quesito C1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2025_cadet_finale__QC1
 parent: src_kangourou_2025_cadet_finale
 competition: Kangourou 2025 Cadet finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Su quale dito cade il conteggio 999*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** medio
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PQuJedCWTXWhrFhpDRxzkn1D0caSD99m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which finger is counted as 999*
+
+> On one hand, Silvia counted as follows: 1 inch, 2 index, 3 middle, 4 ring, 5 thumb; then she turned back: 6 ring, 7 middle, 8 index, 9 inches. So it's divided up: 10 indices, 11 mean, and so on, until it gets to 999. What finger?
+
+**Answer:** medio
+[[src_kangourou_2025_cadet_finale__QC1]]

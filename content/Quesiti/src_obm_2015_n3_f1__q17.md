@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q17
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -39,6 +40,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min radius r so every circle of radius 1 centered at a lattice point is cut by a radius-r circle*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Radius r min in modo che ogni cerchio di radius 1 centrato su un punto reticolo sia tagliato da un cerchio di radius-r*
+
+> In ogni punto della griglia (punto con entrambe le coordinate integri), costruiamo un cerchio di raggio $r$. Il valore minimo di $r$ per il quale un cerchio di raggio 1 (centrato in un punto reticolo) è interamente contenuto all'interno di uno dei cerchi di raggio $r$ centrati in un altro punto reticolo è:
+> 
+> (A) $\dfrac{\sqrt{2}}{2} - 1$ \quad (B) $1 - \dfrac{\sqrt{2}}{2}$ \quad (C) $\sqrt{2} - 1$ \quad (D) $\dfrac{1}{2}$ \quad (E) $\dfrac{\sqrt{2}}{2}$
+
+**Risposta:** C
+[[src_obm_2015_n3_f1__Q17]]

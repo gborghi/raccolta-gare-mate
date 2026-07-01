@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Student (marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q28
 parent: src_kangourou_2007_student_marzo
 competition: Kangourou 2007 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max lunghezza sequenza di numeri dispettosi*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max sequence length of odd numbers< MSK1/>
+
+> A positive integer of 5 digits is called a disposable number if it cannot be expressed as the product of two integers of 3 digits each. How long can a sequence of consecutive numbers that are all odd be at most? (a) 11 (b) 49 (c) 51 (d) 101 (e) a value different from the previous one
+
+**Answer:** E
+[[src_kangourou_2007_student_marzo__Q28]]

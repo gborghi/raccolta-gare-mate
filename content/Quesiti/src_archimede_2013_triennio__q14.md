@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2013 - Triennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_triennio__Q14
 parent: src_archimede_2013_triennio
 competition: Giochi di Archimede 2013 - Triennio
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero divide p(169)-p(1) per polinomio intero*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which number divides p(169)-p(1) by integer polynomial *
+
+> The polynomial p(x) has a degree greater than or equal to 2 and its coefficients are all integers. Which of the following numbers certainly divides p(169) −p(1)?
+>
+> - **(A)** 25
+> - **(B)** 32
+> - **(C)** 36
+> - **(D)** 49
+> - **(E)** 56
+
+**Answer:** E
+[[src_archimede_2013_triennio__Q14]]

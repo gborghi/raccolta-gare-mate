@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q28
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura angolo ABC tra due cubi (Pitagora)*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measuring the angle ABC between two cubes (Pitagoras) *
+
+![[src_kangourou_2008_student_marzo__prob28.png]]
+
+> The two cubes in the figure have a face in common. What is the degree of the angle ABC? A) 90 B) 115 C) 120 D) 135 E) 150
+
+**Answer:** A
+[[src_kangourou_2008_student_marzo__Q28]]

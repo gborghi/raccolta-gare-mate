@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q25
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Unit cube cut into four regions by two planes (one through edges AB,CD, other through AE,DF); find volume(s) of the largest region(s).*
 
@@ -48,3 +51,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Unità di cubo tagliata in quattro regioni per due piani (uno attraverso i bordi AB,CD, l'altro attraverso AE,DF); trovare il volume(s) della più grande regione(s).*
+
+> Un cubo di bordo 1 è tagliato in quattro regioni da questi due piani: uno contiene i bordi $AB$ e $CD$, e l'altro contiene i bordi $AE$ e $DF$. Qual è (sono) il volume delle regioni più grandi?
+> 
+> (A) $\dfrac{1}{4}$ \quad (B) $\dfrac{1}{3}$ \quad (C) $\dfrac{\sqrt{2}}{4}$ \quad (D) $\dfrac{3}{8}$ \quad (E) $\dfrac{1}{2}$
+
+![[src_obm_2006_n3_f1__Q25.png]]
+
+[[src_obm_2006_n3_f1__Q25]]

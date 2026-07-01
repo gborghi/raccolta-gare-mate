@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo18yq_yosen__Q01
 parent: src_jjmo18yq_yosen
 competition: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ratio AB/AC in right triangle with inscribed square and three area labels*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\dfrac{3}{5}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ratio AB/AC in triangolo rettangolo con etichette quadrate e di superficie *
+
+> Nel triangolo rettangolo $ABC$, è inserito un quadrato come mostrato nella figura. I tre numeri scritti all'interno della figura rappresentano le aree dei tre triangoli rettangolari formati dai lati del quadrato. Trova < MSK1/>. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+![[src_jjmo18yq_yosen__Q01.png]]
+
+**Risposta:** \dfrac{3}{5}
+[[src_jjmo18yq_yosen__Q01]]

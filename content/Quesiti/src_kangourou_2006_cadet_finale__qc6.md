@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (finale nazionale) — Quesito C6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet_finale__QC6
 parent: src_kangourou_2006_cadet_finale
 competition: Kangourou 2006 - Cadet (finale nazionale)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri con cifre consecutive e numero dispari di divisori*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** due
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oNnFL23n9WfxOc8CMwyvvJmHD7pBCd5S/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers with consecutive digits and odd number of divisors*
+
+> It considers the numbers of $3$ digits whose digits can be rearranged to form sets of consecutive digits (e.g. the digits of $786$ may be rearranged in the row $678$, consisting of consecutive digits). How many of these numbers have a odd number of divisors (different between them)?
+
+**Answer:** due
+[[src_kangourou_2006_cadet_finale__QC6]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q09
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -39,6 +40,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count unit cubes with exactly 2 painted faces after separating a painted rectangular solid*
 
@@ -58,3 +61,22 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i cubetti unitari con esattamente 2 facce verniciate dopo aver separato un solido rettangolare verniciato*
+
+> 16 cubetti unitari (ciascuno con lato $1\,\text{cm}$) sono collocati insieme formando il solido rettangolare (cuboide) mostrato sopra. La superficie del solido fu dipinta di verde; poi i cubetti furono separati. Il numero di cubi che hanno esattamente due facce verdi è:
+>
+> - **(A)** $2$
+> - **(B)** $6$
+> - **(C)** $4$
+> - **(D)** $8$
+> - **(E)** $10$
+
+![[src_obm_1998_n1_f1__Q09.png]]
+
+**Risposta:** D
+[[src_obm_1998_n1_f1__Q09]]

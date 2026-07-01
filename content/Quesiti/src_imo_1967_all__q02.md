@@ -1,6 +1,7 @@
 ---
 title: IMO 1967 (Ninth International Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1967_all__Q02
 parent: src_imo_1967_all
 competition: IMO 1967 (Ninth International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tetrahedron with one edge over 1 has volume at most 1/8*
 
@@ -35,3 +38,13 @@ tags:
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1U5rz4wEepU-SfkFdqcEOsSXqBT-xtIsB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tetrahedron with one edge over 1 has volume at most 1/8*
+
+> Demonstrate that if one and only one vertex of a tetrahedron is greater than $1$, then its volume is $\leq \dfrac{1}{8}$.
+
+[[src_imo_1967_all__Q02]]

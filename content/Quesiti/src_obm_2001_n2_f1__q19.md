@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q19
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum corridor width to push a rectangular table around a right-angle turn*
 
@@ -51,3 +54,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'ampiezza minima del corridoio per spingere una tavola rettangolare attorno a una curva angolare rettangolare*
+
+> Un tavolo rettangolare, i cui piedi hanno ruote, deve essere spinto lungo un corridoio di larghezza costante che forma un angolo retto. Se le dimensioni del tavolo sono $a$ e $b$ (con $2a < b$), quale deve essere la larghezza minima del corridoio in modo che il tavolo possa essere spinto attraverso di esso?
+> 
+> (A) $a + b$ \quad (B) $(a+b)\dfrac{\sqrt{2}}{2}$ \quad (C) $(a+b)\dfrac{\sqrt{2}}{4}$ \quad (D) $(2a+b)\dfrac{\sqrt{2}}{4}$ \quad (E) $(a+2b)\dfrac{\sqrt{2}}{4}$
+
+![[src_obm_2001_n2_f1__Q19.png]]
+
+**Risposta:** D
+[[src_obm_2001_n2_f1__Q19]]

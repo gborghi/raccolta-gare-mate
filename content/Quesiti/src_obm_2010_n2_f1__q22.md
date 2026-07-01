@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q22
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four integers a<b<c<d pairwise gcd>1 but overall gcd 1; min d*
 
@@ -49,3 +52,19 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro integri a<b<c<d in coppia gcd>1 ma in generale gcd 1; min d*
+
+> Quattro integri positivi $a < b < c < d$ sono tali che il gcd tra due di essi sia maggiore di $1$, ma $\mathrm{mdc}(a, b, c, d) = 1$. Qual è il minimo valore possibile per $d$?
+>
+> - **(A)** $10$
+> - **(B)** $12$
+> - **(C)** $15$
+> - **(D)** $30$
+> - **(E)** $105$
+
+[[src_obm_2010_n2_f1__Q22]]

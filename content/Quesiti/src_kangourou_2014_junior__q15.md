@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q15
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero opposto a 14 sul dado con facce prime*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number opposite to 14 on the prime face dice*
+
+![[src_kangourou_2014_junior__prob15.png]]
+
+> The figure shows a dice with unusually numbered faces. However, the sum of the two numbers appearing on opposite faces is always the same. The invisible numbers are all prime numbers. What's the number opposite to 14? A) 11
+> 	
+> B) 13
+> 	
+> C) 17
+> 	
+> D) 19
+> 	
+> E) 23
+
+**Answer:** E
+[[src_kangourou_2014_junior__Q15]]

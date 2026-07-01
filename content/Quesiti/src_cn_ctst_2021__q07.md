@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q07
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral AB=BC=CD; incenters I,J of two subtriangles; prove collinearity on circumcircle*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterale ciclico AB=BC=CD; incentri I, J di due subtriangoli; dimostrare collinearità sul circoncircolo*
+
+> Come mostrato nella figura. 1.1, il quadrilaterale $ABCD$ è inserito nel cerchio $\Gamma$, con $AB = BC = CD$. Che $I$ sia il centro di $\triangle ABC$ e $J$ sia il centro di $\triangle BCD$. Il $K$ deve essere un punto sul circoncircolo di $\triangle BIC$ (diversi da $B$, $I$, $C$), e $E$, $F$ devono essere i punti di contatto degli incircoli di $\triangle ABC$ e $\triangle BCD$ rispettivamente con $BC$. $P$ sia l'intersezione delle linee $CJ$ e $BK$. Prove che $A$, $C$, $P$ sono collineari e che $P$ si trova sul cerchio $\Gamma$.
+
+![[src_cn_ctst_2021__Q07.png]]
+
+[[src_cn_ctst_2021__Q07]]

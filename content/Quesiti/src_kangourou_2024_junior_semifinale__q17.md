@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Junior 2024 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q17
 parent: src_kangourou_2024_junior_semifinale
 competition: Kangourou Semifinale individuale Junior 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto primo e ultimo intero con cubi consecutivi = 2024*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0018
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First and last whole product with consecutive cubes = 2024*
+
+> 17. (Points 7) Adding the cubes of some consecutive positive integers gives us a result of 2024. How much is the product of the first with the last of these integers? The answer is 0018. The solution. A well-known theorem states that, for every positive integer n, the sum of the cubes of the first positive integers coincides with the square of the sum of these first n integers. The sum of the first n positive integers is n(n + 1)/2: quickly finds then that $45^{2}$ = 2025 is the sum of the cubes of the integers from 1 to 9. So 2024 is the sum of the cubes of integers 2 through 9.
+
+**Answer:** 0018
+[[src_kangourou_2024_junior_semifinale__Q17]]

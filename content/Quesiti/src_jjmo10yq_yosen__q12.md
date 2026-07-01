@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo10yq_yosen__Q12
 parent: src_jjmo10yq_yosen
 competition: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle X inscribed in quadrilateral PQRS; find radius of circle X given radii of A,B,C,D*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo X inserito nel PQRS quadrilaterale; trovare il raggio del circolo X dato i raggi di A,B,C,D*
+
+> Il cerchio $X$ è inciso nel quadrilaterale $PQRS$. Inoltre, i cerchi $A$, $B$, $C$, $D$ sono ciascuna tangente a tre delle linee ottenute estendendo i lati del quadrilaterale $PQRS$, come mostrato nella figura. I raggi dei cerchi $A$, $B$, $C$, $X$ sono rispettivamente $2$, $1$, $4$ e $3$. Trova il raggio del cerchio $D$.
+
+![[src_jjmo10yq_yosen__Q12.png]]
+
+**Risposta:** 8
+[[src_jjmo10yq_yosen__Q12]]

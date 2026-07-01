@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_b__Q13
 parent: src_cesenatico_2007_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2007 - Semifinale B
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Importo minimo non pagabile con max 7 monete euro*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum amount not payable with maximum 7 euro coins*
+
+> A sum that cannot be paid The corona, the official currency of the morning, has exactly the same cuts as the euro and is divided in commas as the euro is divided in cents. Of course, the cutting of comma and crown coins is exactly the same as the euro and euro cents. What is the minimum amount, expressed in commas, that you cannot pay with exactly 7 coins or banknotes without receiving any balance?
+
+[[src_cesenatico_2007_squadre_semifinale_b__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - semifinale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_semifinale__Q02
 parent: src_kangourou_2021_ecolier_semifinale
 competition: Kangourou 2021 Ecolier - semifinale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piastrelle gialle nel pavimento con diagonali rosse*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1d4KIlUoujYfd3Cc7JpT28ssbmAgsp2A5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Yellow tiles on the floor with red diagonal *
+
+> (3 points) A square floor is tiled with square tiles all of the same size. The nine tiles along the diagonals are red, the others yellow. How many yellow tiles are there? A) 10
+>  
+> B) 12 C) 14 D) 16 E) 18
+
+**Answer:** D
+[[src_kangourou_2021_ecolier_semifinale__Q02]]

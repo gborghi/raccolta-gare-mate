@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f3__Q06
 parent: src_obm_2009_n3_f3
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 3
@@ -39,6 +40,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all values of cyclic sum x_i/(x_{i-1}+x_i+x_{i+1}) for positive reals, n>3 fixed*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x_zlsRvZxzDXZDJk6xG4Qu1b2n75NpOw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i valori della somma ciclica x_i/(x_{i-1}+x_i+x_{i+1}) per i reali positivi, n>3 fissi*
+
+> Che $n > 3$ sia un numero intero fisso e che $x_1, x_2, \ldots, x_n$ sia un numero reale positivo. Trova, in termini di $n$, tutti i possibili valori reali di $$S = \frac{x_1}{x_n + x_1 + x_2} + \frac{x_2}{x_1 + x_2 + x_3} + \frac{x_3}{x_2 + x_3 + x_4} + \cdots + \frac{x_{n-1}}{x_{n-2} + x_{n-1} + x_n} + \frac{x_n}{x_{n-1} + x_n + x_1}.$$
+
+[[src_obm_2009_n3_f3__Q06]]

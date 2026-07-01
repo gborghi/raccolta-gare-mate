@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2026 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2026__Q03
 parent: src_oprem_2026
 competition: Olympiades Nationales de Mathématiques (Première) 2026
@@ -27,6 +28,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exercise 1, Q3: voting with four fractions, who wins, number of voters*
 
@@ -38,3 +41,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LLPTi5ufMEDVFp1I29WzXWLiM0F8_rKH/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Esercizio 1, Q3: voto con quattro frazioni, chi vince, numero di elettori*
+
+> Esercizio 1 (tutti i candidati) - Informazioni amministrative. Le elezioni di un consiglio sono condotte da persone $4$. Tutti i voti sono validi ed espressi. I risultati ottenuti sono: Johanna ottiene $\frac{1}{4}$ dei voti, Jason $\frac{1}{15}$ dei voti, Jasmine $\frac{3}{20}$ dei voti e Julie $\frac{1}{3}$ dei voti. Chi vince e per quanto si può vincere? Quanti elettori ci possono essere?
+
+[[src_oprem_2026__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1995 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1995__Q03
 parent: src_inmo_1995
 competition: Indian National Mathematical Olympiad 1995
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count three-element subsets of {1,...,65} with a+b+c<95*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-pje9yn5-Oz-tcMTgQ38tNi0Sa3TrKyD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i sottogruppi di tre elementi di {1,...,65} con a+b+c<95*
+
+> Indicare che il numero di sottogruppi di tre elementi $\{a,b,c\}$ di $\{1,2,\ldots,65\}$ con $a+b+c < 95$ è inferiore a quello di quelli con $a+b+c > 95$.
+
+[[src_inmo_1995__Q03]]

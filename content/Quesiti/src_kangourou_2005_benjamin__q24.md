@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q24
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione ombreggiata di triangolini equilateri*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area region shaded by equilateral triangles*
+
+![[src_kangourou_2005_benjamin__prob24.png]]
+
+> The area of each of the small equilateral triangles in the figure is 1 cm2. What is the area in cm2 of the shaded region? A) 20 B) 22,5 C) 23,5 D) 25 E) 32
+
+**Answer:** B
+[[src_kangourou_2005_benjamin__Q24]]

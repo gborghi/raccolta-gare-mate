@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2022 - Gara Biennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_biennio__Q08
 parent: src_archimede_2022_biennio
 competition: Giochi di Archimede 2022 - Gara Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume di mattoncino da tre possibili altezze di pila*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Daq06A5cNKvPAO0E8Ym-xGnc7AcmRZ_w/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of brick from three possible heights of pile*
+
+> On a table there are two identical wooden bricks, shaped like parallel pipes. Clara wants to stack them on top of each other, making the two faces in contact different from each other. Thus, the overall height of the pile can be either 22 cm or 30 cm or 32 cm. How many cubic centimetres is the volume of a brick?
+>
+> - **(A)** 2400
+> - **(B)** 2700
+> - **(C)** 3000
+> - **(D)** 2800
+> - **(E)** 1800
+
+**Answer:** A
+[[src_archimede_2022_biennio__Q08]]

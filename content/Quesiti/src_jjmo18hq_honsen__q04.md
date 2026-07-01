@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2020 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo18hq_honsen__Q04
 parent: src_jjmo18hq_honsen
 competition: Japan Junior Mathematical Olympiad 2020 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum pieces so every cell has 2+ pieces on its diagonals*
 
@@ -45,3 +48,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YxnsV6DvcWOTSGo3XeromxqPWTALPArH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di pezzi in modo che ogni cella abbia 2+ pezzi sulle sue diagonali*
+
+> C'è una griglia $2020 \times 2020$, e al massimo un pezzo è posto su ogni cella. Trovare il minimo valore possibile del numero di pezzi utilizzati quando i pezzi vengono posizionati in modo che sia soddisfatta la seguente condizione:
+> 
+> Per ogni cella, ci sono almeno $2$ pezzi che si trovano sulle linee diagonali attraverso quella cella.
+> 
+> Qui, si dice che un pezzo della cella nella riga $a$-a dall'alto e nella colonna $b$-a da sinistra si trovi su una linea diagonale della cella nella riga $c$-a dall'alto e nella colonna $d$-a da sinistra quando $|a-c| = |b-d|$ si tiene.
+
+[[src_jjmo18hq_honsen__Q04]]

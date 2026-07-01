@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q05
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza del piu breve percorso ripassando i segmenti*
 
@@ -72,3 +75,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of the shortest route by passing segments*
+
+![[src_kangourou_2024_junior__prob5.png]]
+
+> The figure shows the lengths in centimetres of six segments coming out of the same point. You want to cross the drawing with a pen, without ever pulling it off the sheet (so you can cross some segments). How many centimeters must be the shortest possible path of the tip of your pen? A) 14 B) 15 C) 16 D) 17 E) 18 2 x 0.24 -------------- 20 x 2.4 Athlete height Height skipped by the athlete A B C D E P R Q S 1 3 2 1 1 2
+>
+
+**Answer:** B
+[[src_kangourou_2024_junior__Q05]]

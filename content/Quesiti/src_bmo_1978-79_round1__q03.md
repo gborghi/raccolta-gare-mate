@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1978-79 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1978-79_round1__Q03
 parent: src_bmo_1978-79_round1
 competition: British Mathematical Olympiad 1978-79 — Round 1
@@ -37,6 +38,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distinct odd positive integers with distinct pairwise differences; prove sum lower bound*
 
@@ -51,3 +54,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Differenti integri positivi dispari con differenze paritarie distinte; dimostrare la somma del limite inferiore*
+
+> $S$ è un insieme di diversi integri unici positivi $\{a_i\}$, $i = 1$ a $n$. Nessuna differenza $|a_i - a_j|$ è uguale a $1 \le i < j \le n$.
+> 
+> Provare che < MSK0/>
+
+[[src_bmo_1978-79_round1__Q03]]

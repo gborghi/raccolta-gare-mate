@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2023_nu_fx__Q01
 parent: src_obm_2023_nu_fx
 competition: Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of N with p(n)>2 for all n>N, potency function*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di N con p(n)>2 per tutte le n>N, funzione di potenza*
+
+> $p$ è la funzione *potenza* di interi positivi, definita da $p(1)=1$ e $p(n+1)=p(n)$ se $n+1$ è una potenza perfetta, e $p(n+1)=(n+1)\cdot p(n)$ altrimenti. Un intero positivo $n$ è un *potenza perfetta* se esistono integri $a,b\ge 2$ tali da $n=a^b$. Esiste un intero positivo $N$ tale da $p(n)>2^n$ per tutti $n>N$? Prova la tua risposta.
+
+[[src_obm_2023_nu_fx__Q01]]

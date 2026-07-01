@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q04
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two friends cycling a loop in opposite directions, find wait time*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due amici che fanno un ciclo in direzioni opposte, trovano il tempo di attesa*
+
+> In giro per una pista ciclabile circolare lunga $45\,\text{km}$ si ritorna sempre al punto di partenza dopo aver girato una volta la pista in una sola direzione. Due amici partono dallo stesso punto con velocità costanti di $20\,\text{km/h}$ e $25\,\text{km/h}$, viaggiando in direzioni opposte. Quando si incontrarono per la prima volta, uno stava viaggiando a $20\,\text{km/h}$ e l'altro, che stava viaggiando a $25\,\text{km/h}$, era diminuito a $20\,\text{km/h}$ e poi aumentato a $25\,\text{km/h}$. Quanto tempo deve aspettare l'amico che arriva per primo al punto di partenza?
+> 
+> **A) ** none \quad **B) ** 10 min \quad **C) ** 12 min \quad **D) ** 15 min \quad **E) ** 18 min
+
+**Risposta:** C
+[[src_obm_2006_n2_f1__Q04]]

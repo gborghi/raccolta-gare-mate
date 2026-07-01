@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Finale Nazionale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_finale__Q18
 parent: src_squadre_2024_finale
 competition: Gara a Squadre 2024 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro pentagono ciclico lati interi, BAE=120*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0417
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cyclic pentagon perimeter of whole sides, BAE=120*
+
+> As the tide descends, five rocky spots placed at the summits of an ABCDE pentagon inscribed in a radius of 43 √ 3 emerge from the water. AB = BC, DE = EA and all its sides have lengths expressed as integers. In addition \ BAE = < MSK0/>. How much is the perimeter of ABCDE?
+
+**Answer:** 0417
+[[src_squadre_2024_finale__Q18]]

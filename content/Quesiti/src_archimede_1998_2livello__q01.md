@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1998 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_2livello__Q01
 parent: src_archimede_1998_2livello
 competition: Archimede Gara 2º livello 1998
@@ -23,6 +24,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto uomini/donne note le età medie a una festa*
 
@@ -34,3 +37,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rate of middle-aged men/women at a party*
+
+> At a party, the average age is 31, the average age of men is 35, and the average age of women is 25. What is the relationship between the number of men and the number of women?
+> 
+> (A) $\dfrac{5}{7}$ \quad (B) $\dfrac{7}{5}$ \quad (C) $\dfrac{4}{3}$ \quad (D) $\dfrac{3}{2}$ \quad (E) $2$.
+
+**Answer:** D
+[[src_archimede_1998_2livello__Q01]]

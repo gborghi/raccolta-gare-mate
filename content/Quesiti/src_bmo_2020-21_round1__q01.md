@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2020-21 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2020-21_round1__Q01
 parent: src_bmo_2020-21_round1
 competition: British Mathematical Olympiad 2020-21 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find values of a written on blackboard second time*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xg514doHxMaADkn1oQBkdyq62hCSeCSk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i valori di una scheda scritta sulla lavagna per la seconda volta*
+
+> Alice e Bob lo fanno a turno per scrivere numeri su una lavagna. Alice inizia scrivendo un numero intero $a$ tra $-100$ e $100$ inclusivo sulla lavagna. A ogni turno di Bob scrive il doppio del numero che Alice ha scritto l'ultima volta. Su ogni turno successivo di Alice scrive il numero $45$ inferiore al numero che Bob ha scritto l'ultimo. A un certo punto, il numero $a$ viene scritto sulla lavagna per la seconda volta. Trova i valori possibili di $a$.
+
+[[src_bmo_2020-21_round1__Q01]]

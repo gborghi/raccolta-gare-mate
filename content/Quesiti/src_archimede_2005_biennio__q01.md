@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Biennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_biennio__Q01
 parent: src_archimede_2005_biennio
 competition: Giochi di Archimede 2005 - Gara Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante cifre ha il numero 2^3*5^4*10^5*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many digits has the number 2^3*5^4*10^5*
+
+> How many digits does the number 23 54 105 have?
+>
+> - **(A)** You know,
+> - **(B)** seven,
+> - **(C)** eight,
+> - **(D)** nine,
+> - **(E)** None of the previous ones.
+
+**Answer:** D
+[[src_archimede_2005_biennio__Q01]]

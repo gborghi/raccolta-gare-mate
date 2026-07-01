@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q17
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -36,6 +37,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Parallelogram MTAI with area 40/41 and MI=1/MT; least diagonal MA squared equals a/b; find |a-b|*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*MTAI parallelogramma con area 40/41 e MI=1/MT; meno diagonale MA al quadrato è uguale a/b; trovare
+
+> $MTAI$ è un parallelogramma di unità quadrate di superficie $\dfrac{40}{41}$ tale che $MI = 1/MT$. Se $d$ è la lunghezza minima possibile della diagonale $MA$ e $d^2 = \dfrac{a}{b}$, dove $a, b$ sono interi positivi con $\gcd(a, b) = 1$, trovare $|a - b|$.
+
+[[src_ioqm_2025_sep07__Q17]]

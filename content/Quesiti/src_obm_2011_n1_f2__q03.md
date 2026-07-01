@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f2__Q03
 parent: src_obm_2011_n1_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max red-tribe members in circle where 48 of 100 say right neighbor is liar*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il massimo dei membri della tribù rossa in circolo dove 48 su 100 dicono che il vicino giusto è un bugiardo
+
+> Due tribù vivono su un'isola: la tribù verde e la tribù rossa. I membri di una tribù dicono sempre la verità, e i membri dell'altra tribù mentono sempre. Un giorno, le persone si sono radunate in un cerchio e un giornalista ha chiesto a ciascuno: "Il tuo vicino a destra è un bugiardo?" Quante persone della tribù rossa (i bugiardi) potrebbero essere nel cerchio?
+
+[[src_obm_2011_n1_f2__Q03]]

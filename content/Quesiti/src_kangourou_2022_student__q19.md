@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q19
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *perimetro iniziale*
 
@@ -50,3 +53,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The following information shall be provided:
+
+![[src_kangourou_2022_student__prob19.png]]
+
+> A rectangle is divided into 11 rectangles, as shown in the figure. The 11 rectangles are all similar to the starting rectangle, and the orientation of the smaller rectangles is the same as the starting rectangle. The length of the horizontal side of the smaller rectangles is 1. What is the perimeter of the starting rectangle?
+>  
+> B C
+> 
+> A) 20
+>   
+> B) 24
+>   
+> C) 27 D) 30
+
+**Answer:** A
+[[src_kangourou_2022_student__Q19]]

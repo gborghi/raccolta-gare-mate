@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1997 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_2livello__Q17
 parent: src_archimede_1997_2livello
 competition: Archimede Gara 2º livello 1997
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (m,n) naturali con mn = p(m+n), p primo*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (2p,2p), (p²+p,p+1), (p+1,p²+p)
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Natural pairs (m,n) with mn = p(m+n), p prime < MSK1/>
+
+> Given a prime number $p$, determine all ordered pairs of natural numbers $(m, n)$ that verify the equation: $$\frac{1}{m} + \frac{1}{n} = \frac{1}{p}$$
+
+**Answer:** (2p,2p), (p²+p,p+1), (p+1,p²+p)
+[[src_archimede_1997_2livello__Q17]]

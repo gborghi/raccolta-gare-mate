@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q22
 parent: src_kangourou_2019_junior_marzo
 competition: Kangourou 2019 Gara marzo Junior (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza di A dal centro del disco rotante*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance of A from the centre of the rotating disc*
+
+> Two points A and B are marked on a circle rotating at a constant speed. A is more than 3 cm away from the center of the disk than B and rotates at a speed that is two and a half times that of B. How far is A from the center of the disk? A) 10
+> 	
+> B) 9
+> 	
+> C) 8
+> 	
+> D) 6
+> 	
+> E) 5
+
+**Answer:** E
+[[src_kangourou_2019_junior_marzo__Q22]]

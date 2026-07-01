@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2007 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2007__Q02
 parent: src_cn_cmc_2007
 competition: China Mathematical Competition 2007
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Range of a satisfying absolute value inequality for all real x*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Intervallo di una soddisfacente disuguaglianza di valore assoluto per tutte le x reali *
+
+> Supponiamo che il numero reale $a$ soddisfi: per qualsiasi $x \in \mathbb{R}$, $|2x - a| + |3x - 2a| \ge a^2$. Quindi $a$ si trova in $($\quad$)$.
+> 
+> (A) $\left[-\dfrac{1}{3},\, \dfrac{1}{3}\right]$ $\quad$ (B) $\left[-\dfrac{1}{4},\, \dfrac{1}{3}\right]$ $\quad$ (C) $[-3,\, 3]$ $\quad$ (D) $\left(-\dfrac{1}{3},\, \dfrac{1}{3}\right)$
+
+**Risposta:** A
+[[src_cn_cmc_2007__Q02]]

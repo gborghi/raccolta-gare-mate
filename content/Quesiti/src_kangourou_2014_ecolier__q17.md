@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Ecolier — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier__Q17
 parent: src_kangourou_2014_ecolier
 competition: Kangourou 2014 marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pedine che mostrano verde dopo i giri successivi*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Requests showing green after the next rounds< MSK1/>
+
+> Henry has ten legs all the same: each face is red and the other green. He's placing them in a row on the table so they all show their red faces. After a minute, it's all over. After one more minute, only those of equal rank. After another minute, only the third, sixth and ninth turn. After another minute only the fourth and eighth turn and so on until, in the end, only the tenth turn. At this point, how many pedals show the green face? A) 1
+> 	
+> B) 3
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 7
+
+**Answer:** B
+[[src_kangourou_2014_ecolier__Q17]]

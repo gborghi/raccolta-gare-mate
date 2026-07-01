@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q05
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Choosing cheapest transport for a school trip: rented vans vs hired buses, find minimum N children*
 
@@ -52,3 +55,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Scegliere il trasporto più economico per un viaggio scolastico: furgoni noleggiati contro autobus noleggiati, trovare un minimo di N bambini
+
+> Una scuola organizzerà una gita allo zoo. Ci sono due opzioni di trasporto. La prima opzione è quella di noleggiare "van": ogni van può trasportare fino a 6 bambini e il noleggio di ogni van costa R\$ 60,00. The second option is to hire a company that provides buses with a capacity of 48 children and charges R\$ 237,00 per autobus più R\$ 120,00 per il viaggio; questa opzione è utilizzata indipendentemente dal numero di bambini. Per quale numero minimo di bambini N è più vantaggioso utilizzare gli autobus per la gita? Il valore di N è: (A) 28 (B) 31 (C) 32 (D) 33 (E) 36
+
+**Risposta:** B
+[[src_obm_2002_n3_f1__Q05]]

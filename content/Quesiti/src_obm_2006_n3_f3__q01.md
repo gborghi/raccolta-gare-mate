@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f3__Q01
 parent: src_obm_2006_n3_f3
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle bisector foot and incenter give isosceles triangle*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZCKsxgxArFWOqQ-EkYy1PtXgXiuJ90nh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un angolo bisectore piede e incentro danno triangolo isosceles*
+
+> Il $ABC$ deve essere un triangolo, $P$ il piede del bisettore dell'angolo interno da $B$ a lato $AC$, e $I$ l'incentro di $ABC$. Se $AP + AB = CB$, dimostrare che $API$ è un triangolo di uguali dimensioni.
+
+[[src_obm_2006_n3_f3__Q01]]

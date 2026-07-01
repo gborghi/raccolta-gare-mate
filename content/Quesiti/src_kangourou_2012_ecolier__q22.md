@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Ecolier (gara marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_ecolier__Q22
 parent: src_kangourou_2012_ecolier
 competition: Kangourou 2012 Ecolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Da quale numero era partito Michele*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Which number was Michele started from?
+
+> Michele chose a number, multiplied it for himself, added 1 to the product, multiplied the sum obtained by 10, added 3 to the new product, multiplied the new sum by 4 and got as the final result 2012. What number did he start from? A) 11 B) 9 C) 8 D) 5 E) None of the above
+
+**Answer:** E
+[[src_kangourou_2012_ecolier__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q04
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Roots of quadratic: find a-b given product and sum conditions*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Radici di quadratico: trovare a-b dati prodotti e condizioni di somma*
+
+> Data la $a \neq b$, $b \neq 0$, e sapendo che le radici dell'equazione $x^2 + ax + b = 0$ sono esattamente $a$ e $b$, allora $a - b$ è uguale:
+> 
+> A) 0 \quad B) 1 \quad C) 2 \quad D) 3 \quad E) 4
+
+**Risposta:** D
+[[src_obm_1999_n3_f1__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q04
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Among 1..n with given counts of multiples of 5 and 6, max multiples of 7*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tra 1..n con un dato conteggio di multipli di 5 e 6, multipli massimi di 7*
+
+> Tra i numeri naturali da $1$ a $n$, almeno $11$ sono divisibili da $5$ e al massimo $9$ sono divisibili da $6$. Al massimo, quanti di questi numeri sono divisibili per $7$?
+> 
+> (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $7$ \quad (E) $8$
+
+[[src_obm_2013_n3_f1__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2014 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2014__Q18
 parent: src_bocconi_autunno_2014
 competition: Giochi d'Autunno 2014
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante dita deve mostrare Carla per vincere sicuramente*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PloiPSpf4_9YADREFtliPjnhVrdcFhjI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many fingers does Carla have to show to win for sure?
+
+> In turn, Carla and Milena show some fingers of one hand (one or two or three or four or five fingers). The number of fingers indicated shall be added to the previous total but the new sum thus obtained shall be a prime number. For example, if Carla has pointed two fingers, Milena can answer with one finger or three fingers or even five fingers because $2+1=3$, $2+3=5$ and $2+5=7$ are prime numbers. The first (between Carla and Milena) who, with the number of her fingers added to the previous total, fails to get a first number loses. It is Milena who starts the game (at this time the total is $0$). How many fingers does she have to show to be sure of winning, if she plays her best, whatever Carla's next answers are?
+
+**Answer:** 5
+[[src_bocconi_autunno_2014__Q18]]

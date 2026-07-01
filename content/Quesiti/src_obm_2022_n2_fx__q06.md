@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2022 — Nível 2 — Fase x — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2022_n2_fx__Q06
 parent: src_obm_2022_n2_fx
 competition: Olimpíada Brasileira de Matemática 2022 — Nível 2 — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest k so k subsets of size 1011 of {1,...,2023} can be 2-colored with intersecting pairs*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yFIgKBuQEpUjEcOEwjrnJOD221-_Znel/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I più grandi sottoinsiemi di k di dimensioni 1011 di {1,...,2023} possono essere di 2 colori con coppie incrociate*
+
+> Determinare il più grande intero positivo $k$ per il quale è vera la seguente affermazione: data $k$ sottogruppi distinti dell'insieme $\{1, 2, 3, \ldots, 2023\}$, ciascuno con elementi $1011$, è possibile dividere i sottogruppi $k$ in due collezioni in modo tale che due sottogruppi appartenenti alla stessa collezione abbiano almeno un elemento in comune.
+
+[[src_obm_2022_n2_fx__Q06]]

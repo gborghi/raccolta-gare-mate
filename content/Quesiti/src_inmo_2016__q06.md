@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2016 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2016__Q06
 parent: src_inmo_2016
 competition: Indian National Mathematical Olympiad 2016
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Non-constant AP with certain powers also in AP implies all terms are integers*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1woBuE2HYjU-e_MK1TenDn20fm5TAalE-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*AP non costante con determinate potenze anche in AP implica che tutti i termini sono interi*
+
+> Considera una progressione aritmetica non costante $a_1, a_2, \ldots, a_n, \ldots$. Supponiamo che esistano numeri interi positivi relativamente primi $p > 1$ e $q > 1$ in modo tale che $a_1^p$, $a_{q+1}^p$ e $a_{q^2+1}^p$ siano anche i termini della stessa progressione aritmetica. Prova che i termini della progressione aritmetica sono tutti interi.
+
+[[src_inmo_2016__Q06]]

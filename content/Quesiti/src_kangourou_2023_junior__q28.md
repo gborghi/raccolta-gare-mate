@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q28
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *penne da estrarre*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*pen to be extracted*
+
+> Three (non-transparent) boxes contain 10 red pens, 10 green pens, 5 red pens and 5 green pens. There is a label on each box which should indicate its contents, but no label is applied to the box to which it should refer. How many pens do you need to extract to be able to put the correct label on each box? A) 2
+> 	
+> B) 5
+> 	
+> C) 6
+> 	
+> D) 8 E) A number different from the previous one
+
+**Answer:** E
+[[src_kangourou_2023_junior__Q28]]

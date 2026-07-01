@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo12yq_yosen__Q01
 parent: src_jmo12yq_yosen
 competition: Japan Mathematical Olympiad 2002 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *3-digit numbers with equal hundreds and units digit*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 90
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*numeri a 3 cifre uguali a centinaia e unità di cifra*
+
+> Considerate i numeri naturali a 3 cifre da $100$ a $999$. Tra questi, quanti numeri, come $202$ o $999$, hanno la cifra centinaia uguale alla cifra di unità?
+
+**Risposta:** 90
+[[src_jmo12yq_yosen__Q01]]

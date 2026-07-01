@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q07
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *spigolo che coincide con UV*
 
@@ -74,3 +77,47 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> mirror that coincides with UV< MSK1/>
+
+![[src_kangourou_2015_marzo_cadet__prob7.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.0]
+  % Triangular prism net: 3 rectangles in a row + top triangle + bottom triangle
+  \def\rw{1.5}
+  \def\rh{2.0}
+  % Three rectangles
+  \draw[thick] (0,0) rectangle (\rw,\rh);
+  \draw[thick] (\rw,0) rectangle (2*\rw,\rh);
+  \draw[thick] (2*\rw,0) rectangle (3*\rw,\rh);
+  % Top triangle (apex V)
+  \draw[thick] (\rw,\rh) -- (1.5*\rw,\rh+1.2) -- (2*\rw,\rh);
+  % Bottom triangle (apex R)
+  \draw[thick] (\rw,0) -- (1.5*\rw,-1.2) -- (2*\rw,0);
+  % Vertex labels
+  \node[above] at (1.5*\rw,\rh+1.2) {$V$};
+  \node[above left] at (0,\rh) {$Y$};
+  \node[above] at (\rw,\rh) {$X$};
+  \node[above] at (2*\rw,\rh) {$W$};
+  \node[above right] at (3*\rw,\rh) {$U$};
+  \node[below left] at (0,0) {$P$};
+  \node[below] at (\rw,0) {$Q$};
+  \node[below] at (2*\rw,0) {$S$};
+  \node[below right] at (3*\rw,0) {$T$};
+  \node[below] at (1.5*\rw,-1.2) {$R$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The figure shows the plane development of a triangular-based prism. Which beam matches the UV beam when you fold the development to reconstruct the prism? A) WV B) XW C) XY
+> 	
+> D) QR E) RS
+
+**Answer:** C
+[[src_kangourou_2015_marzo_cadet__Q07]]

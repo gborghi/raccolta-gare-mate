@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2013 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2013__Q07
 parent: src_bocconi_semifinale_2013
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2013
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di formare la squadra per i Giochi Matematici*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode of training the team for Mathematical Games*
+
+> To celebrate the "International Mathematical Games Championships", the newspapers this year in their 20th Italian edition, the organizing committee decided to hold a new team competition, called "The Twenty Years' Race". The competition is open to teams of two boys and two girls. Nando can count on Anna, Carla, Clara, Matthew, Peter and Renato.
+> 
+> How many ways can Nando train his team?
+
+**Answer:** 9
+[[src_bocconi_semifinale_2013__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_2livello__Q09
 parent: src_archimede_2007_2livello
 competition: Archimede Gara 2° livello 2007 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità che Barbara non abbia picche dato Alberto*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The probability that Barbara did not peak Alberto
+
+> Alberto, Barbara, Chiara, and Davide mix a deck of 40 cards and then distribute 10 cards to each of them. Alberto looks at her and exclaims: "What a strange thing, I don't have any cards". Given this information, what is the probability that Barbara doesn't even have a peak card? (Note: the peak cards are 10).
+>
+> - **(A)** 30! 20! 40!
+> - **(B)** 20! 10! 30!
+> - **(C)** 30! 30! 20! 40!
+> - **(D)** 20! 20! 10! 30!
+> - **(E)** 30! 10! 40!
+
+**Answer:** D
+[[src_archimede_2007_2livello__Q09]]

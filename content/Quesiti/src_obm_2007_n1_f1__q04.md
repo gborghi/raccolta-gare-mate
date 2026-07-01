@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f1__Q04
 parent: src_obm_2007_n1_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two overlapping squares of area 100 with total perimeter 50; find common area*
 
@@ -46,3 +49,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due quadrati che si sovrappongono di area 100 con perimetro totale 50; trovare area comune*
+
+> La figura accanto è formata da due quadrati, ciascuno di superficie $100\text{ cm}^2$, in parte sovrapposti, in modo tale che il perimetro della figura (la linea spessa) sia uguale a $50$ cm. Qual è l'area della regione comune ai due quadrati, in $\text{cm}^2$?
+> 
+> (A) 20 \quad (B) 25 \quad (C) 30 \quad (D) 40 \quad (E) 50
+
+![[src_obm_2007_n1_f1__Q04.png]]
+
+[[src_obm_2007_n1_f1__Q04]]

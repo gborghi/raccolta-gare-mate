@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q14
 parent: src_kangourou_2015_squadre_a
 competition: Kangourou Coppa Squadre 2015 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro ennagono in triangolo equilatero lato 15*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 39
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of the anagon in an equilateral triangle side 15*
+
+![[src_kangourou_2015_squadre_a__prob14.png]]
+
+> In the figure an anagon is shaded entirely in an equilateral triangle on side 15. Each side of the triangle is parallel to some side of the triangle. As indicated, three of its sides have dimensions 1, 2 and 3 (the figure is not in scale). What is the perimeter of the nest?
+
+**Answer:** 39
+[[src_kangourou_2015_squadre_a__Q14]]

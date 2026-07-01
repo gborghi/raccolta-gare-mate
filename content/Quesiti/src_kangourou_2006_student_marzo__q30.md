@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q30
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punti di intersezione di corde (8 punti)*
 
@@ -78,3 +81,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Intersection points of ropes (8 points) *
+
+> Eight points on a circumference have been selected to maximise the number of distinct points that are at least two of the strings they have identified. What are the intersection points (excluding the 8 points chosen)? A)  48         B) 56               C) 112                D) 140               E) 70 N C B M A D ? 20 3 2 3 A B C X P Q R 4 3 5 − 2 1 3 + 4 3 4 3 2 − 4 3 2 + Student_06.qxp 20/02/2006 23.38 Page 32
+> 
+>  
+> 1 Student category For students in fourth or fifth grades
+
+**Answer:** E
+[[src_kangourou_2006_student_marzo__Q30]]

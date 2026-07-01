@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f1__Q10
 parent: src_obm_2016_n3_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length SR in a circle configuration of chords with equal arcs and similar triangles*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza SR in una configurazione circolare di accordi con archi uguali e triangoli simili*
+
+> I punti si trovano su un cerchio con il centro $O$. Il $I$ è l'intersezione di $AD$ e $BF$. Dal momento che $FA=AB$ e $AY=AX$, gli archi $FX$ e $BX$ sono uguali, quindi $FB\parallel XY$. Quindi i triangoli $RSA$ e $XYA$ sono simili, e $\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\operatorname{sen}\angle ABI)}{1}=\frac12$, poiché $\angle ABI=30^\circ$ e $AB=AO=OB$. Di conseguenza $SR=1$. Trova < MSK15/>. [Valore della chiave di risposta: $SR=1$.]
+
+![[src_obm_2016_n3_f1__Q10.png]]
+
+**Risposta:** A
+[[src_obm_2016_n3_f1__Q10]]

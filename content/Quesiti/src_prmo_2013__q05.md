@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2013__Q05
 parent: src_prmo_2013
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2013
@@ -33,6 +34,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find n given 299 ways to pick two different-colour balls from bag*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova n dati 299 modi per scegliere due palle di colore diverso dal sacchetto*
+
+> Ci sono sfere rosse < MSK0/>, sfere verdi < MSK1/> e sfere blu < MSK2/> in una borsa. Il numero di modi per scegliere due palle dalla borsa che hanno colori diversi è di 299. Qual è il valore di $n$?
+
+**Risposta:** 10
+[[src_prmo_2013__Q05]]

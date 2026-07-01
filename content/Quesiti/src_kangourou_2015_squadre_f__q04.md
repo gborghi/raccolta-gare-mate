@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Finale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q04
 parent: src_kangourou_2015_squadre_f
 competition: Kangourou Coppa Squadre 2015 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero adulti dato eta media gruppi e totale*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 11
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11h_SgvOFzLa5MkyUk9nA_Lj1BTGkSTzB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of adults given middle age groups and total< MSK1/>
+
+> Young people and adults The average age of a group of "young" friends is 25 years; that of a group of "adult" friends is 45 years. Each of the two groups is made up of fewer than 20 people. If the two groups meet, the average age is 36. How many members of the "adult" group?
+
+**Answer:** 11
+[[src_kangourou_2015_squadre_f__Q04]]

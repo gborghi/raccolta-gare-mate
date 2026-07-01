@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2009 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2009__Q02
 parent: src_rmo_2009
 competition: Regional Mathematical Olympiad 2009
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *No integer a makes a²−3a−19 divisible by 289*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1et9IO1xuP1ryseoogrNkDB_LaxO70ZCd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nessun intero a rende a2−3a−19 divisibile per 289*
+
+> Indicare che non esiste un intero $a$ tale che $a^2 - 3a - 19$ sia divisibile da $289$.
+
+[[src_rmo_2009__Q02]]

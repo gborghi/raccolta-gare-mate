@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Junior (15 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_junior__Q23
 parent: src_kangourou_2001_junior
 competition: Kangourou 2001 - Junior (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scatole totali date 102 vuote*
 
@@ -82,3 +85,38 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Total 102 empty boxes given < MSK1/>
+
+> I have 11 large boxes: some of them contain 8 medium boxes each, some of the medium boxes contain 8 small boxes each. If the empty boxes (of varying size) are 102, how many boxes are there in total (regardless of size)? (A) 102 B 64 C 118 D 115 E cannot be answered. .
+>  
+> (E)
+>         
+> 2
+>  
+> (D)
+>          
+> 2
+>  
+> (C)
+>  
+>           
+> 2 (B)
+>  
+>           
+> 2
+>  
+> (A) 2 2 c-p
+>  
+> c p c
+>  
+> c p c p pc c p + + + + +
+> 
+> Kangourou 15 March 2001. Junior class. This item is not intended to be used. 6
+
+**Answer:** D
+[[src_kangourou_2001_junior__Q23]]

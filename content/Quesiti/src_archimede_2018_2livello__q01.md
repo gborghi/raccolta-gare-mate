@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_2livello__Q01
 parent: src_archimede_2018_2livello
 competition: Archimede Gara di Febbraio 2018 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punteggio impossibile in gara a punteggio +5/-1*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Impossible score in a competition with a score of +5/-1*
+
+> A math competition consists of 90 multiple-choice questions. Camilla answered all the questions: which of the following cannot be the total score of Camilla, knowing that a correct answer is worth 5 points and a wrong answer is worth -1 point?
+>
+> - **(A)** −78
+> - **(B)** 116
+> - **(C)** 204
+> - **(D)** 318
+> - **(E)** 402
+
+**Answer:** B
+[[src_archimede_2018_2livello__Q01]]

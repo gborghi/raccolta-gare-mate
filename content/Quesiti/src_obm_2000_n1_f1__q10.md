@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q10
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Gear and flag position after partial rotation*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Posizione dell'engineria e della bandiera dopo rotazione parziale*
+
+> Juliano colora una piccola bandiera in grigio in ciascuna attrezzatura, come mostrato nella figura seguente.
+> 
+> Le marce sono identiche e quando la marcia sinistra gira un po', la sua piccola bandiera si muove; in questa condizione, possiamo affermare che la posizione della piccola bandiera sulla marcia destra è:
+> 
+> (A) [immagine A] \quad (B) [immagine B] \quad (C) [immagine C] \quad (D) [immagine D] \quad (E) [immagine E]
+
+![[src_obm_2000_n1_f1__Q10.png]]
+
+**Risposta:** B
+[[src_obm_2000_n1_f1__Q10]]

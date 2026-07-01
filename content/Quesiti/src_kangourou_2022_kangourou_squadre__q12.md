@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre__Q12
 parent: src_kangourou_2022_kangourou_squadre
 competition: Kangourou Squadre 2022 Kangourou Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri 10..9999 con cifre strettamente crescenti*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0246
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kPr4pxe9JLW6PscULmAS1patprSg1xRs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers 10..9999 with strictly increasing numbers*
+
+> What are the integers between 10 and 9999 whose digits are arranged in a strictly increasing order? (Two-digit numbers are NOT to be thought of as 4-digit numbers whose first two digits are 0, e.g. 23 is acceptable)
+
+**Answer:** 0246
+[[src_kangourou_2022_kangourou_squadre__Q12]]

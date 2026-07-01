@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Semifinale A — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_a__Q04
 parent: src_cesenatico_2007_squadre_semifinale_a
 competition: Gara a Squadre Cesenatico 2007 - Semifinale A
@@ -26,6 +27,8 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo di 252cos t -275sin t +298*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum of 252 cos t -275sin t +298< MSK1/>
+
+> The strength of a frog miraculously overcame the task of history, Numeruto must now face that of theoretical magical arts! The most difficult question is what is the maximum level of life force that a frog sign matinee can develop. Numeruto is the sign of the frog and is sure that its vital force depends on its θ concentration according to the function: 252cosθ−275sinθ+298. What is the greatest life force Numeruto can develop?
+
+[[src_cesenatico_2007_squadre_semifinale_a__Q04]]

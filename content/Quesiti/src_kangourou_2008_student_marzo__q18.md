@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q18
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punto P che minimizza somma distanze (5 punti)*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Point P which minimizes sum of distances (5 points) *
+
+> Five distinct points A1, A2, A3, A4 and A5 are arranged in a straight line. A point P on the same line is chosen so that the sum of the distances PA1 + PA2 + PA3 + PA4 + PA5 is minimal. It can be said that point P is A) Necessarily A1. B) A2 as necessary. C) A3 as necessary. D) Any point between A2 and A4. E) Any point between A1 and A5.
+
+**Answer:** C
+[[src_kangourou_2008_student_marzo__Q18]]

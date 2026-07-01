@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q06
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three-digit number with sum of squares of digits equal to square*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero a tre cifre con la somma dei quadrati di cifre uguali a quadrato*
+
+> $\overline{abc}$ sia un numero a tre cifre con cifre non zero come $a^2 + b^2 = c^2$. Qual è il più grande fattore primo possibile di $\overline{abc}$?
+
+[[src_prmo_2019__Q06]]

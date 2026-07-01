@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo17yq_yosen__Q07
 parent: src_jjmo17yq_yosen
 competition: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n with d(n^2)=d(n^2+7^2019)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $171 \cdot 7^{1008}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YyPhdRC8ta06c--Y1mxGSGuS4yujWAKb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La n più piccola con d(n^2)=d(n^2+7^2019)*
+
+> Per un intero positivo $x$, $d(x)$ indica il numero di divisori positivi di $x$. Trova il numero intero positivo più piccolo $n$ soddisfacente $d(n^2) = d(n^2 + 7^{2019})$.
+
+**Risposta:** 171 \cdot 7^{1008}
+[[src_jjmo17yq_yosen__Q07]]

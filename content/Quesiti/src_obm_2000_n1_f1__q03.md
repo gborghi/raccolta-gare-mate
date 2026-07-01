@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q03
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Digital clock equal digits between 0:00 and 23:59*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'orologio digitale è di cifre uguali tra le 0:00 e le 23:59*
+
+> Su un orologio digitale che mostra i tempi da $0{:}00$ a $23{:}59$, quante volte al giorno il display mostra tutte le cifre uguali?
+> 
+> (A) $10$ \quad (B) $3$ \quad (C) $6$ \quad (D) $7$ \quad (E) $9$
+
+**Risposta:** B
+[[src_obm_2000_n1_f1__Q03]]

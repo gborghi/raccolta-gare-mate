@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2014__Q16
 parent: src_prmo_2014
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2014
@@ -35,6 +36,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of angle QPR in triangle ABC with incenter I and angle BAC=40*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 55
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta dell'angolo QPR nel triangolo ABC con incentro I e angolo BAC=40*
+
+> In un triangolo $ABC$, $I$ indichi l'incentro. Lasciate che le linee $AI$, $BI$ e $CI$ incrociano l'incircolo rispettivamente a $P$, $Q$ e $R$. Se $\angle BAC = 40^\circ$, qual è il valore di $\angle QPR$ in gradi?
+
+**Risposta:** 55
+[[src_prmo_2014__Q16]]

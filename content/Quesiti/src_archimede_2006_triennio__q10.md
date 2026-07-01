@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Triennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_triennio__Q10
 parent: src_archimede_2006_triennio
 competition: Giochi di Archimede 2006 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordinare radici 2*2^(1/6), radice 5, 11^(1/3)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Ordinate roots 2 < MSK1/>2^1/6), roots 5, 11^1/3) < MSK2/>
+
+> Put the three numbers in increasing order 2 6√ 2, √ 5, 3√
+
+**Answer:** A
+[[src_archimede_2006_triennio__Q10]]

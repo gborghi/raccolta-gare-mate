@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2011 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2011__Q09
 parent: src_bocconi_autunno_2011
 competition: Giochi d'Autunno 2011
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sistemare sette pezzi a Y in una griglia senza sovrapposizioni*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Vedere la suddivisione in figura
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Setting up seven Y-pieces in a grid without overlapping *
+
+> Jacub found seven identical pieces of paper, all Y-shaped (as shown on the right). He wants to fix them, rotate them and turn them over, into a grid (as in the figure to the left) itself that overlaps. How do you do that?
+
+![[src_bocconi_autunno_2011__Q09.png]]
+
+**Answer:** Vedere la suddivisione in figura
+[[src_bocconi_autunno_2011__Q09]]

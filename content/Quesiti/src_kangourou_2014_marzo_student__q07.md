@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q07
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante cifre ha (2^22)^5*(5^55)^2*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many digits has (2^22) ^5*(5^55) ^2*
+
+> What is the result of the product (2 22 )5 ∙ (5 55 )2 ? A) 22
+> 	
+> B) 55
+> 	
+> C) 77
+> 	
+> D) 110 E) 111
+
+**Answer:** E
+[[src_kangourou_2014_marzo_student__Q07]]

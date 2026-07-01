@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2010 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2010__Q07
 parent: src_cn_cgmo_2010
 competition: China Girls' Mathematical Olympiad 2010
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Least odd n > 5 expressible as m^2 + k^2 + (k+1)^2 in two ways with distinct terms*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 261
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Meno dispari n > 5 espressibili come m^2 + k^2 + (k+1)^2 in due modi con termini distinti*
+
+> Determinare il numero minimo odd $n > 5$ che soddisfa le seguenti condizioni: ci sono interi positivi $m_1, n_1, m_2, n_2$ in modo che $n = m_1^2 + n_1^2 + (n_1 + 1)^2 = m_2^2 + n_2^2 + (n_2 + 1)^2$ e $m_1, n_1, m_2, n_2$ siano tutti diversi tra loro.
+
+**Risposta:** 261
+[[src_cn_cgmo_2010__Q07]]

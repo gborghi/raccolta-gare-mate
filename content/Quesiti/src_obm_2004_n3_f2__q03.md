@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f2__Q03
 parent: src_obm_2004_n3_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distinct soccer teams formed across a school year*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtQOtkjmRDPxof4u0RsZ6WiFwO0VkE8P/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta le diverse squadre di calcio formate durante l'anno scolastico*
+
+> I dodici studenti di una classe iniziarono a giocare a calcio ogni giorno dopo la scuola, formando due squadre di 6 giocatori ciascuno e giocando tra loro. Ogni giorno formavano squadre diverse da quelle dei due giorni precedenti. Alla fine dell'anno, hanno verificato che ogni 5 studenti avevano giocato insieme nella stessa squadra almeno una volta. Quante diverse squadre sono state formate nel corso dell'anno?
+
+[[src_obm_2004_n3_f2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2016 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo26mq_honsen__Q05
 parent: src_jmo26mq_honsen
 competition: Japan Mathematical Olympiad 2016 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Partition m cities into two groups so each city has at most 1 highway*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/132UNd9VdEb-Dva1Pf5U1Z0Wc_DnRuIHu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Partire le città in due gruppi in modo che ciascuna città abbia al massimo 1 autostrada*
+
+> $m, n$ siano integri positivi con $m \ge 2$ e $n < \dfrac{3}{2}(m-1)$. Un paese ha città $m$ e strade $n$, dove ciascuna strada collega due città distinte (potrebbero esserci più strade tra la stessa coppia di città).
+> 
+> Le città devono essere suddivise in due gruppi $\alpha$ e $\beta$ e ogni strada che collega una città del gruppo $\alpha$ a una città del gruppo $\beta$ è designata autostrada. Dimostrare l'esistenza di una tale partizione che soddisfa entrambe le seguenti condizioni:
+> 
+> - Ogni gruppo contiene almeno una città. - Per ogni città, il numero di incidenti sulle autostrade in quella città è massimo < MSK0/>.
+
+[[src_jmo26mq_honsen__Q05]]

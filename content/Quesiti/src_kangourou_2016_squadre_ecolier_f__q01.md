@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q01
 parent: src_kangourou_2016_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2016 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero uguale al triplo del proprio doppio*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AmqdvgZVEwczaExdEeD0t4IQIsBaAuB7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number equal to three times its own double*
+
+> Who are they? I'm triple my double. What number are they?
+
+**Answer:** 0
+[[src_kangourou_2016_squadre_ecolier_f__Q01]]

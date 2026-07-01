@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2009_finale__Q06
 parent: src_kangourou_squadre_2009_finale
 competition: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione massima <1/3 con somma num+den <=103*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2576
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum fraction < 1/3 with sum of numbers + den <=103*
+
+> Find the fraction The numerator and denominator of a fraction are both integers greater than zero and their sum does not exceed 103; the value of the fraction is as high as possible compatible with the fact that it is strictly less than 1/3. Write in the order first the numerator and then the denominator of the fraction.
+
+**Answer:** 2576
+[[src_kangourou_squadre_2009_finale__Q06]]

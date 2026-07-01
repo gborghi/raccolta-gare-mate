@@ -1,6 +1,7 @@
 ---
 title: IMO 1981 (Twenty-second International Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1981_all__Q03
 parent: src_imo_1981_all
 competition: IMO 1981 (Twenty-second International Olympiad)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max m^3+n^3 with (n^2-mn-m^2)^2=1 up to 1981*
 
@@ -34,3 +37,13 @@ tags:
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_ricorsione|Ricorsione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J1b7EGoN_5JsjzdgRDEDkEXvbhWyzsge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Max m^3+n^3 with (n^2-mn-m^2)^2=1 up to 1981
+
+> Determine the maximum value of $m^3 + n^3$, where $m$ and $n$ are integers with $m, n \in \{1, 2, \ldots, 1981\}$ and $(n^2 - mn - m^2)^2 = 1$.
+
+[[src_imo_1981_all__Q03]]

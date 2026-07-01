@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q25
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *configurazioni dei trenini*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0091
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*train configurations*
+
+> **Carl and trains**  35 points
+> 
+> Carla's playing with electric trains. He's currently handling five tracks of different lengths. Taking all possible pairs of tracks and adding the lengths of the elements of each pair gives the numbers 183, 186, 187, 190, 191, 192, 193, 194, 196 and 200. What's the length of the shortest track?
+
+**Answer:** 0091
+[[src_archimede_2002_squadre__Q25]]

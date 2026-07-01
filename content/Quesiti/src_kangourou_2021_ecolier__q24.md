@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - gara marzo — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier__Q24
 parent: src_kangourou_2021_ecolier
 competition: Kangourou 2021 Ecolier - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Formine da mettere per l'equilibrio della bilancia*
 
@@ -67,3 +70,19 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Forms to be used for balance sheet *
+
+![[src_kangourou_2021_ecolier__prob24.png]]
+
+> As you can see in the figure, Martino has placed on three scales some formulas: some are hexagonal, some are square and some are triangular. What and how many ants must he put on the left plate of the third balance sheet for the balance to be balanced? A) A square. B) Two squares. C) A hexagon. D) A triangular one. E) Two triangles. 3 9 13 14 18 5 2 kg 6 kg 5 kg 7 kg 1 2 3 4 16 kg 7 ? 5
+> 
+> ECOLIER replies
+>
+
+**Answer:** A
+[[src_kangourou_2021_ecolier__Q24]]

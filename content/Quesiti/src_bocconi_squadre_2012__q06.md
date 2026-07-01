@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2012 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2012__Q06
 parent: src_bocconi_squadre_2012
 competition: Gara a Squadre 2012
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultima cifra di numero gigantesco moltiplicato per 7*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7 oppure 0
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last giant number number multiplied by 7*
+
+> If you multiply by $7$ a giant number consisting of $1993$ digits, you get a number that is written using the single digit $9$ with the exception of the last digit.
+> 
+> What is this last figure?
+
+**Answer:** 7 oppure 0
+[[src_bocconi_squadre_2012__Q06]]

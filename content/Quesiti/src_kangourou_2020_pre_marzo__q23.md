@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Pre - gara marzo — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q23
 parent: src_kangourou_2020_pre_marzo
 competition: Kangourou 2020 Pre - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero sulla faccia opposta al 5 su un cubo*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number on the face opposite to 5 on a cube*
+
+![[src_kangourou_2020_pre_marzo__prob23.png]]
+
+> On each of the sides of a cube, six different numbers chosen from the numbers between $1$ and $9$ were written, one number on each side. The sums of the numbers on each pair of opposite faces are equal. Which of the following numbers is inscribed on the face opposite the face with the number $5$?
+>
+> - **(A)** $5$
+> - **(B)** $6$
+> - **(C)** $7$
+> - **(D)** $3$
+> - **(E)** $9$
+
+**Answer:** C
+[[src_kangourou_2020_pre_marzo__Q23]]

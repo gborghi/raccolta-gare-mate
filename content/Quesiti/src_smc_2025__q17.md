@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q17
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five integers placed in circles so any integer 1–21 can be made by summing up to 5 adjacent; find s when 1 is in the shown position.*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cinque integri posizionati in cerchi in modo che qualsiasi numero intero 121 possa essere fatto sommando fino a 5 adiacenti; trovare s quando 1 è nella posizione indicata.*
+
+> I cerchi sono riempiti di cinque numeri interi in modo che qualsiasi numero intero da 1 a 21 possa essere fatto sommando fino a 5 numeri interi adiacenti. Quando 1 è nella posizione indicata, qual è il valore di $s$?
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 7
+> - **(D)** 10
+> - **(E)** 11
+
+![[src_smc_2025__Q17.png]]
+
+**Risposta:** D
+[[src_smc_2025__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2007 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2007__Q18
 parent: src_bocconi_autunno_2007
 competition: Giochi d'Autunno 2007
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza tra i due fari (area del triangolo isoscele del gabbiano)*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $390\sqrt{3}\times 2 \approx 1351$ m
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance between the two headlamps (area of the isosceles triangle of the cage) *
+
+> Between two lighthouses on the coast, the shore is straight. A crab is 340 metres from the shore. Suddenly, it moves 100 meters perpendicular to the shore, then moves another 100 meters toward the first lighthouse and finally 100 meters toward the second. This is exactly where we start. The figure doesn't match the proportions. The isosceles triangle $C_1F_1C_2$, whose equal angles measure $30^\circ$, is equilateral and the distance of C from the shore is $50+340-390$ m. How far apart are the two lighthouses?
+
+![[src_bocconi_autunno_2007__Q18.png]]
+
+**Answer:** $390\sqrt{3}\times 2 \approx 1351$ m
+[[src_bocconi_autunno_2007__Q18]]

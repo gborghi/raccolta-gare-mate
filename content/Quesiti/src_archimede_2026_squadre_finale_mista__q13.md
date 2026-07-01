@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q13
 parent: src_archimede_2026_squadre_finale_mista
 competition: Gara a Squadre Nazionale 2026 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tabellini finali corse tra draghi con vincoli*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0515
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Final tables of dragons raced with constraints*
+
+> After the defeat of the Red Death, Berkhoff came to peace: Vikings and dragons live in harmony and, in their free time, play a sport called dragon racing. In one match, two teams face each other, who challenge each other in five matches. In each round, five sheep are released, and each sheep is captured in flight by one and only one team. The team that collects the most sheep in a match wins the match and receives 1 point. At the end of the 5 matches, the team with the most points wins the game. In today's match, Nashtrid's team won against Moduloso's; however, Moduloso's team collected more sheep overall than Nashtrid's. How many different final tables are possible (by final table means the orderly succession of the results of the 5 matches, each expressed as the number of sheep collected by each of the two teams in that match)?
+
+**Answer:** 0515
+[[src_archimede_2026_squadre_finale_mista__Q13]]

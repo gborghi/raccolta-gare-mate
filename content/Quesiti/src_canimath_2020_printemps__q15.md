@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2020 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_printemps__Q15
 parent: src_canimath_2020_printemps
 competition: Coupe Animath Printemps 2020
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square ABCD with exterior equilateral triangle BCS; N,H,P midpoints; compute angles BPN and NHC*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrato con triangolo equilaterale esterno BCS; punti di mezzo N,H,P; angoli di calcolo BPN e NHC*
+
+> Che $ABCD$ sia un quadrato e che $S$ sia un punto all'esterno del quadrato $ABCD$ in modo tale che il triangolo $BCS$ sia equilaterale. Il $N$ deve essere il punto medio del segmento $[AS]$ e il $H$ il punto medio del segmento $[CD]$. Il segmento $[BS]$ deve essere il punto medio del segmento $P$. 1) Calcolare l'angolo < MSK10/>. 2) Calcolare l'angolo < MSK11/>.
+
+[[src_canimath_2020_printemps__Q15]]

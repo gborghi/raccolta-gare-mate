@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f3__Q03
 parent: src_obm_2004_n2_f3
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Splitting pile of 100 stones; sum of products written in squares*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kyVB4TIFReMV148PiDwXpCdF7gL7rBzq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Massetta di 100 pietre; somma di prodotti scritti in quadrati*
+
+> Esmeralda ha un mucchio di pietre. Divide questa pila in due pile più piccole e poi moltiplica il numero di pietre in queste due nuove pile, scrivendo il prodotto in un quadrato. Sceglie poi l'insieme con la maggior parte delle pietre e ripete la procedura: le quantità di pietre nelle due nuove pile vengono moltiplicate e il prodotto viene scritto nel quadrato successivo. Questa operazione è ripetuta fino a quando non rimangono solo pile di pietra < MSK1/> ciascuna.
+> 
+> Quali sono i valori possibili della somma di tutti i prodotti scritti nei quadrati?
+
+[[src_obm_2004_n2_f3__Q03]]

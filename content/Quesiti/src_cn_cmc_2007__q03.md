@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2007 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2007__Q03
 parent: src_cn_cmc_2007
 competition: China Mathematical Competition 2007
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability that a - 2b + 10 > 0 for balls drawn with replacement*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Probabilità che a - 2b + 10 > 0 per le palle disegnate con sostituzione*
+
+> Nove palle della stessa dimensione e colore, numerate < MSK0/>, sono state messe in un pacchetto. Ora $A$ tira una palla dal pacchetto, nota che è di numero $a$, e la rimette indietro. Poi $B$ trae anche una palla dal pacchetto e nota che è di numero $b$. Quindi la probabilità che l'ineguaglianza $a - 2b + 10 > 0$ sia mantenuta è $($\quad$)$.
+> 
+> (A) $\dfrac{52}{81}$ $\quad$ (B) $\dfrac{59}{81}$ $\quad$ (C) $\dfrac{60}{81}$ $\quad$ (D) $\dfrac{61}{81}$
+
+**Risposta:** D
+[[src_cn_cmc_2007__Q03]]

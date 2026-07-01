@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f3__Q03
 parent: src_obm_2012_n1_f3
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3
@@ -40,6 +41,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *From a pile of 25 cards Doroti takes some and returns the rest to Cristina; using divisibility/coprimality/parity facts about the two counts, find the numbers.*
 
@@ -56,3 +59,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zhcaRFthPAOn7E_8dttKk0jNO8fP8yfZ/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+D'un mucchio di 25 carte Doroti ne prende alcune e restituisce il resto a Cristina; utilizzando i fatti di divisibilità/coprimalità/parità sui due conti, trova i numeri.*
+
+> Cristina mostra a Doroti un mucchio di carte $25$ e chiede alla sua amica Doroti di scegliere alcune di esse e restituire il resto a Cristina. Cristina nota poi il numero di carte che Doroti ha e il numero di carte che ha lei stessa. Ecco le situazioni.
+> 
+> a) Nella prima occasione, la differenza tra i numeri delle carte di Doroti e di Cristina era un multiple di $4$, e questi due numeri erano anche copriemi. Quali erano questi due numeri?
+> 
+> b) Nella seconda occasione, Doroti ha scelto le sue carte in modo tale che, tra i due numeri (le carte di Doroti e quelle di Cristina), uno dei numeri sia divisibile dall'altro, anche se nessuno di essi è pari. Quali sono i due numeri? E qual è il più grande di questi numeri?
+
+[[src_obm_2012_n1_f3__Q03]]

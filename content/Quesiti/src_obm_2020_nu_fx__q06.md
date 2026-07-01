@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2020_nu_fx__Q06
 parent: src_obm_2020_nu_fx
 competition: Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x
@@ -39,6 +40,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count real solutions of iterated f for f(x)=2x^2+x-1*
 
@@ -53,3 +56,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le soluzioni reali di f iterato per f(x)=2x^2+x-1*
+
+> Per tutti i $x$ reali $f(x) = 2x^2 + x - 1$, $f^1(x) = x$ e $f^{n+1}(x) = f(f^n(x))$ e per tutti i $n \geq 0$ (cioè $f^n$ è la $n$-th iterazione di $f$).
+> 
+> (a) (2 punti) Determinare il numero di soluzioni reali distinte dell'equazione $f^2(x) = x$.
+> 
+> b) (8 punti) Determinare, per ogni numero intero $n \geq 0$, il numero di soluzioni reali distinte dell'equazione $f^n(x) = 0$.
+
+[[src_obm_2020_nu_fx__Q06]]

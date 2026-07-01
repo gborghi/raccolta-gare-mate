@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r1__Q03
 parent: src_pol_1999_r1
 competition: Olimpiade Matematica Polacca 1999 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right isosceles triangle, D on BC with BD=2CD, E projection of B onto AD; compute angle CED.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo a destra con uguale occhiaio, D su BC con BD=2CD, E proiezione di B su AD; angolo di calcolo CED.*
+
+> Che $ABC$ sia un triangolo di uguali dimensioni con $\angle A = 90^\circ$. Il punto $D$ è preso sul lato $BC$ in modo tale che $BD = 2CD$, e $E$ è la proiezione di $B$ sulla linea $AD$. Calcolo $\angle CED$.
+
+[[src_pol_1999_r1__Q03]]

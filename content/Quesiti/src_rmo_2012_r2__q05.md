@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Region 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_r2__Q05
 parent: src_rmo_2012_r2
 competition: Regional Mathematical Olympiad 2012
@@ -32,6 +33,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle cevians, find ratio BP/PQ*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1O1FDigJNhO9Zlam3ioTuOXoyYqoOZxhF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ceviani triangolari, rapporto tra BP/PQ < MSK1/>
+
+> Lasciate che $ABC$ sia un triangolo. Se il segmento $D$, $E$ sono punti del segmento $BC$ in modo tale che $BD = DE = EC$. Il $F$ deve essere il punto medio di $AC$. In < MSK9/> < MSK7/> < MSK8/> e in < MSK11/> < MSK10/> si intersecano rispettivamente. Determinare < MSK12/>.
+
+![[src_rmo_2012_r2__Q05.png]]
+
+[[src_rmo_2012_r2__Q05]]

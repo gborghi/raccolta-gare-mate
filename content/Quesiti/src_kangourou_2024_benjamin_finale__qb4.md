@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Benjamin 2024 — Quesito B4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin_finale__QB4
 parent: src_kangourou_2024_benjamin_finale
 competition: Kangourou Finale Benjamin 2024
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sono di piu le frazioni riducibili o le irriducibili (1..6)*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yfwrv2r59EZD9BNqD2rssm5Ubv6rpykv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>It is more the reducible or non-reducible fractions (1..6) < MSK1/>
+
+> Consider all possible fractions of value not greater than $1$, in which both the numerator and denominator are integers between $1$ and $6$ included. Are these more reducing fractions or irreducible fractions?
+
+[[src_kangourou_2024_benjamin_finale__QB4]]

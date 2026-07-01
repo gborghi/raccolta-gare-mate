@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Triennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_triennio__Q17
 parent: src_archimede_2016_triennio
 competition: Giochi di Archimede 2016 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parte di perimetro piu vicina ad A che a C*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Part of the perimeter closer to A than to C
+
+> The sides of an ABC triangle are: AC = BC = 10 cm, AB = 12 cm. How many centimetres does the perimeter part of ABC consist of points for which the distance from A is less than the distance from C?
+>
+> - **(A)** 27/2
+> - **(B)** 16
+> - **(C)** 12
+> - **(D)** 25/2
+> - **(E)** 40/3
+
+**Answer:** E
+[[src_archimede_2016_triennio__Q17]]

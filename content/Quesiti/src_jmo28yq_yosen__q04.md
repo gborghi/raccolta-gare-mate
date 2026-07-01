@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo28yq_yosen__Q04
 parent: src_jmo28yq_yosen
 competition: Japan Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Remainder of 1111^2018 modulo 11111*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 100
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Restante di 1111^2018 modulo 11111< MSK1/>
+
+> Trova il rimanente quando $1111^{2018}$ è diviso da $11111$.
+
+**Risposta:** 100
+[[src_jmo28yq_yosen__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_2livello__Q07
 parent: src_archimede_2023_2livello
 competition: Archimede Gara di Febbraio 2023 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Espressione razionale prima per quattro n, somma*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rational expression first by four n, sum*
+
+> For exactly four integer values of n between 1 and 10, extremes included, the expression n9 + 3n+1n6 + 33n represents a prime number. What is the sum of these four values of n?
+>
+> - **(A)** 12
+> - **(B)** 16
+> - **(C)** 18
+> - **(D)** 22
+> - **(E)** 25
+
+**Answer:** B
+[[src_archimede_2023_2livello__Q07]]

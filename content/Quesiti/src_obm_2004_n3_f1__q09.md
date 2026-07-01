@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q09
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value f(0) of an integer function satisfying f(n)-(n+1)(2-n)=(n+3)^2.*
 
@@ -46,3 +49,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta f(0) di una funzione interiore che soddisfa f(n) - n+1)
+
+> La funzione $f$, definita sui numeri interi, soddisfa $f(n)-(n+1)(2-n)=(n+3)^2$, per ogni numero intero $n$. Quanto è < MSK3/>?
+> 
+> (A) $-17$ (B) 0 (C) 1 (D) 2 (E) 9
+
+[[src_obm_2004_n3_f1__Q09]]

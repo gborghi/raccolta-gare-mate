@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q14
 parent: src_kangourou_2020_student_marzo
 competition: Kangourou 2020 Student - gara marzo (triennio)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale non puo valere (a-b)^2+(b-c)^2+(c-a)^2*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which cannot be (a-b)^2+(b-c)^2+(c-a)^2*
+
+> They're a, b, and c integers. Which of the following numbers is certainly NOT equal to (a  b) 2 + (b  c) 2 + (c  a) 2 ? A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 6
+> 	
+> E) 8
+
+**Answer:** B
+[[src_kangourou_2020_student_marzo__Q14]]

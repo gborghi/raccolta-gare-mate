@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f1__Q05
 parent: src_obm_2014_n1_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four equal 20 cm squares stacked corner-to-center; area of the resulting figure*
 
@@ -51,3 +54,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro quadrati uguali a 20 cm impilati da angolo a centro; superficie della figura risultante*
+
+> Esmeralda ha quattro fogli quadrati uguali di carta, ciascuno con lato < MSK0/> cm. Si incolla un foglio sull'altro in modo che l'uno copra la metà dell'altro, come nelle figure $1$ e $2$. Continua a incollare in questo modo, unendo i quattro fogli, come nelle figure $3$ e $4$. Qual è la superficie della figura $4$?
+> 
+> (A) $1200\text{ cm}^2$ \quad (B) $1300\text{ cm}^2$ \quad (C) $1400\text{ cm}^2$ \quad (D) $1500\text{ cm}^2$ \quad (E) $1600\text{ cm}^2$
+
+![[src_obm_2014_n1_f1__Q05.png]]
+
+[[src_obm_2014_n1_f1__Q05]]

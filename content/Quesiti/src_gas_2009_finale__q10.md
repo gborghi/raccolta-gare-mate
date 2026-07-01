@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q10
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di estrarre esattamente 2 anelli elfici su 3*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0339
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The probability of extracting exactly 2 elliptical rings out of 3*
+
+> Fleeing the Eregion, after the discovery of the betrayal by Tauron, Celebrimbor took three rings at random from the 19 present (3 for elves, 7 for dwarves, 9 for mortal men). Luck helped him, making him recover exactly the three rings of the elves. What was the probability that I took three rings, only two of these belonged to the elves? (As a result, provide the sum of the numerator and denominator of the reduced fraction to the minimum terms.)
+
+**Answer:** 0339
+[[src_gas_2009_finale__Q10]]

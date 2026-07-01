@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q03
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto codici di tipo dato su totale*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2491
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Report of type codes given on total*
+
+> The entrance to the King's Gate is controlled by a five-digit code that changes every day. King Ceelvyer Lannister decided that in order not to strain the brain too much on similar inecies, the code should always be composed using exactly two sequences of two different digits, e.g. $44333$ and $07777$, but not $43334$ or even $77707$. The Hand of the King protests by saying that the $p/q$ fraction obtained by dividing the total number of codes proposed by Ceelvyer Lannister by the number of all possible five-digit codes is minuscule and this will generate unnecessary risks to the security of the city. But Ceelvyer Lannister tells the Hand not to worry and, taking the fraction $p/q$ with $p$ and $q$ first among them, calculates the difference $q - p$ and shows the Hand that it is not small. What number did Ceelvyer Lannister calculate?
+
+**Answer:** 2491
+[[src_gs_2013_squadre__Q03]]

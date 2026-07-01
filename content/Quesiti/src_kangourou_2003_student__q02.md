@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student (20 marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student__Q02
 parent: src_kangourou_2003_student
 competition: Kangourou 2003 Student (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area figura delimitata dall'elastico (3 cerchi)*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Figure area bounded by elastic (3 circles) *
+
+![[src_kangourou_2003_student__prob2.png]]
+
+> The area of the square in Figure 1 is a; we call b the area of each of the circles in Figures 1 and 2. In Figure 2, the three aligned circles are enclosed by a rubber band. If the elastic is shortened so that it is in tension, without changing the position of the three circles, what is the area of the figure bounded by the elastic? A) 3b B) 2a+b C) a+2b D) 3a E) a+b
+
+**Answer:** B
+[[src_kangourou_2003_student__Q02]]

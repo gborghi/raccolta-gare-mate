@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1 —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_nu_f1__Q04
 parent: src_obm_2006_nu_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Locus of midpoints of chords of a hyperbola parallel to a line*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-zF5q38838Z7BnrHtVLRS1IJQQPHcA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Locus dei punti di mezzo degli accordi di un iperbola parallelo a una linea*
+
+> Data un'iperbola e una linea non parallela ad alcuna di queste asintotte, determinare il locus dei punti medi degli accordi dell'iperbola che sono paralleli alla linea data.
+> 
+> **Nota: ** Una corda ** di un iperbola è un segmento i cui punti terminali appartengono entrambi all'iperbola.
+
+[[src_obm_2006_nu_f1__Q04]]

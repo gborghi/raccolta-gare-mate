@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1973-74 — Round 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1973-74_round1__Q10
 parent: src_bmo_1973-74_round1
 competition: British Mathematical Olympiad 1973-74 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Gravitational attraction of truncated cone on unit mass at vertex V*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Attrazione gravitazionale di un cono troncato su una massa unitaria al vertice V
+
+> Un cono circolare dritto la cui vertica è $V$ e il cui angolo semivertico è $\alpha$ ha altezza $h$ e densità uniforme. Tutti i punti del cono le cui distanze da $V$ sono inferiori a $a$ o superiori a $b$, dove $0 < a < b < h$, sono rimossi. Un solido di massa $M$ resta.
+> 
+> Poiché l'attrazione gravitazionale che un punto di massa $m$ a $P$ esercita su massa unità a $O$ è $(Gm/OP^3)\overrightarrow{OP}$, dimostrare che la magnitudine dell'attrazione gravitazionale di questo solido su massa unità a $V$ è $$\tfrac{3}{2}GM(1+\cos\alpha)\,/\,(a^2 + ab + b^2).$$
+
+[[src_bmo_1973-74_round1__Q10]]

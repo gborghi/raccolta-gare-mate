@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1975 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1975_r3__Q06
 parent: src_pol_1975_r3
 competition: Olimpiade Matematica Polacca 1975 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given S(x)=1-x and T(x)=x/2 on [0,1], does a composition f=g1 o ... o gn of these satisfy f(1/2)=1975/2^1975?*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZj1pubsPzjyaS0gZ1wXauU_3x3XwBGJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dato che S(x)=1-x e T(x)=x/2 su [0,1], una composizione f=g1 o ... O gn di questi soddisfa f  1/2)=1975/2^1975?*
+
+> All'intervallo $[0,1]$ vengono indicate le funzioni $S(x) = 1 - x$ e $T(x) = x/2$. Esiste una funzione del modulo $f = g_1 \circ g_2 \circ \cdots \circ g_n$, in cui $n \in \mathbb{N}$ e ciascuna $g_k$ è $S(x)$ o $T(x)$, in modo tale che $$f\left(\frac{1}{2}\right) = \frac{1975}{2^{1975}}?$$
+
+[[src_pol_1975_r3__Q06]]

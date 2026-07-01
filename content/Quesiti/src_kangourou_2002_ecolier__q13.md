@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_ecolier__Q13
 parent: src_kangourou_2002_ecolier
 competition: Kangourou 2002 - Ecolier (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi e nato il 17 maggio*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who was born on 17 May
+
+> The dates of birth of Giovanna, Stefania, Susanna and Elena are (in odd order) March 3, May 17, July 20 and March 20. Stefania and Susanna were born in the same month, while Joan's and Susanna's birthdays fall in days with the same number. Who was born on May 17?
+>  
+> A. Joan B. I 'm not sure . I'm not sure. Elena and E. You can't answer that.
+
+**Answer:** D
+[[src_kangourou_2002_ecolier__Q13]]

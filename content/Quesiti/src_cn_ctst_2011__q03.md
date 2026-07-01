@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2011 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2011__Q03
 parent: src_cn_ctst_2011
 competition: China National Team Selection Test 2011
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum edges of graph with 4n vertices, max degree 4n, diameter at most 3*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Limiti minimi del grafico con vertici 4n, grado massimo 4n, diametro massimo 3*
+
+> $4n$ sia il numero di vertice di un grafico semplice $G$ (insieme $n \ge 2$). Se il grado di ciascun vertice non è superiore a $4n$, esiste almeno un vertice con grado $4n$, e esiste un percorso con una lunghezza non superiore a $3$ tra due vertici. Provare che il numero minimo di bordi di $G$ è $\dfrac{7}{2}n^2 - \dfrac{3}{2}n$.
+> 
+> **Remark.** Un percorso tra due vertici distinti $a$ e $b$ con lunghezza $k$ è una sequenza di vertici $a = v_0, v_1, \ldots, v_k = b$ in cui $v_i$ e $v_{i+1}$ ($i = 0, 1, \ldots, k-1$) sono adiacenti. (Possibile da Leng Gangsong)
+
+[[src_cn_ctst_2011__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2008 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2008__Q05
 parent: src_cn_ctst_2008
 competition: China National Team Selection Test 2008
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find max and min of a symmetric ratio expression in non-negative reals*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** maximum 1, minimum $\frac{m+n}{mn+\min(m,n)}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il massimo e il minimo di un'espressione di rapporto simmetrico nei reali non negativi*
+
+> $m, n \in \mathbb{N}^*$, $m, n > 1$, $a_{ij}$ ($i = 1, 2, \cdots, n$, $j = 1, 2, \cdots, m$) siano numeri reali non negativi (non tutti zero). Trovare i valori massimi e minimi di $$f = \frac{n\sum_{i=1}^{n}\left(\sum_{j=1}^{m} a_{ij}\right)^2 + m\sum_{j=1}^{m}\left(\sum_{i=1}^{n} a_{ij}\right)^2}{\left(\sum_{i=1}^{n}\sum_{j=1}^{m} a_{ij}\right)^2 + mn\sum_{i=1}^{n}\sum_{j=1}^{m} a_{ij}^2}.$$
+
+**Risposta:** maximum 1, minimum $\frac{m+n}{mn+\min(m,n)}$
+[[src_cn_ctst_2008__Q05]]

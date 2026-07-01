@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Biennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_biennio__Q12
 parent: src_archimede_2009_biennio
 competition: Giochi di Archimede 2009 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di disegnare tre triangoli da P senza staccare penna*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode of drawing three triangles from P without removing a pen*
+
+![[src_archimede_2009_biennio__prob12.png]]
+
+> How many distinct ways can I draw the figure side by side starting from P, without ever pulling the pen off the sheet and without passing more than once from any point except the common triangle vertex?
+>
+> - **(A)** 24 3,
+> - **(B)** 23 3,
+> - **(C)** 24,
+> - **(D)** 22 33,
+> - **(E)** 33. P
+
+**Answer:** A
+[[src_archimede_2009_biennio__Q12]]

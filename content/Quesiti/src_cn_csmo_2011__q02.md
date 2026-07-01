@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2011 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2011__Q02
 parent: src_cn_csmo_2011
 competition: China Southeastern Mathematical Olympiad 2011
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all coprime positive integers with mutual cubic-sum divisibility*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(a,b,c)=(1,1,1),(1,2,3),(1,3,2),(2,1,3),(2,3,1),(3,1,2),(3,2,1)$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i numeri interi positivi copriemi con divisibilità reciproca di somma cubica*
+
+> $a$, $b$ e $c$ siano integri positivi copriemi in modo che $a^2 \mid (b^3 + c^3)$, $b^2 \mid (a^3 + c^3)$ e $c^2 \mid (a^3 + b^3)$ siano. Trova i valori di $a$, $b$ e $c$. (postato da Yang Xiaoming)
+
+**Risposta:** $(a,b,c)=(1,1,1),(1,2,3),(1,3,2),(2,1,3),(2,3,1),(3,1,2),(3,2,1)$
+[[src_cn_csmo_2011__Q02]]

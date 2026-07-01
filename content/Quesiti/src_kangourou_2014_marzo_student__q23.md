@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q23
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti oro*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how much gold< MSK1/>
+
+> In a kangaroo tribe there are nine special individuals, called Super Kangaroos, who are the only ones with golden or silver hair. For every random encounter of 3 Supercranes, the probability of none of them being silver is 2/3. How many are the golden supercranks? A) 1
+> 	
+> B) 3
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 8
+
+**Answer:** E
+[[src_kangourou_2014_marzo_student__Q23]]

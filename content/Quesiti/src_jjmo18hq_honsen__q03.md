@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2020 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo18hq_honsen__Q03
 parent: src_jjmo18hq_honsen
 competition: Japan Junior Mathematical Olympiad 2020 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triples with lcm equal to (ab+bc+ca)/4*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YxnsV6DvcWOTSGo3XeromxqPWTALPArH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tripli con lcm uguale a (ab+bc+ca)/4*
+
+> Trovare tutti i triples $(a,b,c)$ di numeri interi positivi in modo tale che il più piccolo multiplo comune di $a$, $b$, $c$ sia uguale a $\dfrac{ab+bc+ca}{4}$.
+
+[[src_jjmo18hq_honsen__Q03]]

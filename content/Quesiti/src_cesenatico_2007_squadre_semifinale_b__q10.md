@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_b__Q10
 parent: src_cesenatico_2007_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2007 - Semifinale B
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti codici palindromi multipli 3 dispari cifre <=7 cifre*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many multiple palindrome codes 3 odd digits <=7 digits*
+
+> Geometric security measures The village council codes and assigns missions to experienced morning workers. Each mission is also assigned a numeric code which, for security reasons, is a positive palindrome integer, multiple of 3, and with an odd number of digits. How many missions can be encoded using 7-digit or less valid codes and all different?
+> 
+> Team competition 2007  Semifinal B Problem texts  Pag. 3 di 4
+
+[[src_cesenatico_2007_squadre_semifinale_b__Q10]]

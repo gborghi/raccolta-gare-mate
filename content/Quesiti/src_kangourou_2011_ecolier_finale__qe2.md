@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Finale Ecolier (Mirabilandia) — Quesito E2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier_finale__QE2
 parent: src_kangourou_2011_ecolier_finale
 competition: Kangourou 2011 Finale Ecolier (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra A se 4A=CB e 4B=A*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_PB03afvO4l0fSH5c-T6VZlHwPWDnEt1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cifra A if 4A=CB and 4B=A*
+
+> The three letters $A$, $B$ and $C$ each represent one digit and different letters represent different digits. You know that MSK3 and that MSK4. What is the figure represented by $A$?
+
+**Answer:** 8
+[[src_kangourou_2011_ecolier_finale__QE2]]

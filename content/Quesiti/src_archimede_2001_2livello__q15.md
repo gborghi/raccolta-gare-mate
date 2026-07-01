@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2001 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_2livello__Q15
 parent: src_archimede_2001_2livello
 competition: Archimede Gara 2º livello 2001
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma algebrica dei coefficienti di un polinomio*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Algebraic sum of the coefficients of a polynomial*
+
+> What is the algebraic sum of the coefficients of the polynomial (x21 + 4x2 −3)2001 −(x21 + 4x2 + 3)667 + x21 + 4x2?
+
+**Answer:** 5
+[[src_archimede_2001_2livello__Q15]]

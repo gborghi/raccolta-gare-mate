@@ -1,6 +1,7 @@
 ---
 title: IMO 1969 (XI International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1969__Q04
 parent: src_imho_1969
 competition: IMO 1969 (XI International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Three tangent circles inscribed in triangle, prove common tangent*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12FvNr0jk5CMfk7r3Xncci7U9Z2FtRov9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three tangent circles inscribed in triangles, common tangent proofs*
+
+> A semicircular arc $\gamma$ is drawn on $AB$ as diameter. $C$ is a point on $\gamma$ other than $A$ and $B$, and $D$ is the foot of the perpendicular from $C$ to $AB$. We consider three circles $\gamma_1, \gamma_2, \gamma_3$, all tangent to the line $AB$. Of these, $\gamma_1$ is inscribed in $\triangle ABC$, while $\gamma_2$ and $\gamma_3$ are both tangent to $CD$ and to $\gamma$, one on each side of $CD$. Prove that MSK18/, and MSK19/ have a second tangent in common.
+
+[[src_imho_1969__Q04]]

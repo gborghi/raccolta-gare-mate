@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2025_squadre__Q07
 parent: src_gsm_2025_squadre
 competition: Gara a Squadre Miste GSM (locale Genova) 2025
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di parallelepipedi distinti con 630 cubetti*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0020
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of distinct parallel pipes with 630 cubes*
+
+> There are 630 identical cubes. By using all of them, you can arrange them to form a parallel piped. How many different parallel pipes can you get? : 0048
+
+**Answer:** 0020
+[[src_gsm_2025_squadre__Q07]]

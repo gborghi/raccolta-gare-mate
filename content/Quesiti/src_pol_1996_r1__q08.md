@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1996 — Round 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1996_r1__Q08
 parent: src_pol_1996_r1
 competition: Olimpiade Matematica Polacca 1996 — Round 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Light ray from center of square reflects off sides and returns to center for the first time; prove odd number of reflections*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il raggio di luce dal centro del quadrato si riflette lateralmente e torna al centro per la prima volta; dimostrare numero impar di riflessi*
+
+> Un raggio di luce parte dal centro di un quadrato e si riflette dai suoi lati (gli angoli di riflessione e di incidenza sono sempre uguali). Il raggio non raggiunge mai il vertice del quadrato e, dopo un po', ritorna al centro per la prima volta. Prove che il raggio si riflette dai lati del quadrato un numero imparato di volte.
+
+[[src_pol_1996_r1__Q08]]

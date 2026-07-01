@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier gara individuale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q08
 parent: src_kangourou_2022_ecolier_gara
 competition: Kangourou 2022 Ecolier gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Immagine della torre vista dall'alto*
 
@@ -46,3 +49,25 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Image of the tower from above*
+
+![[src_kangourou_2022_ecolier_gara__prob8.png]]
+
+> John built this tower:
+>   
+> B)
+>   
+> C)
+>   
+> D)
+>   
+> E)
+>
+
+**Answer:** C
+[[src_kangourou_2022_ecolier_gara__Q08]]

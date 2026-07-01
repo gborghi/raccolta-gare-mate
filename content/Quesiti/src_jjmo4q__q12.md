@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2006 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo4q__Q12
 parent: src_jjmo4q
 competition: Japan Junior Mathematical Olympiad 2006
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill m×n grid with integers: nonzero in ≥1 cell per row-neighborhood, t(S)=0 for each cell*
 
@@ -60,3 +63,27 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Inserire la griglia m×n con numeri interi: non zero in ≥1 cella per vicinato di fila, t(S)=0 per ogni cella*
+
+> $m, n$ siano numeri interi con $m, n \ge 2$. Vogliamo riempire ogni cella di una griglia $m \times n$ con un numero intero, soddisfacendo le seguenti due condizioni:
+> 
+> (i) C'è almeno una cella contenente un numero intero non zero.
+> 
+> (ii) Per ogni cella $S$, se $t(S)$ indica la somma di tutti gli enti scritti nelle celle che condividono un lato con $S$ (cioè i vicini di $S$), allora $t(S) = 0$.
+> 
+> Ad esempio, se $m = 3$, $n = 4$ e tutte le celle contengono $1$, il valore di $t(S)$ per ciascuna cellula è come indicato di seguito (in questo caso la condizione (ii) non è soddisfatta).
+> 
+> Quando i numeri interi possono essere riempiti soddisfacendo entrambe le condizioni, chiamiamo $(m, n)$ una \emph{buona coppia}. Ad esempio, $(2, 2)$ è una buona coppia.
+> 
+> (1) Let < MSK0/>. Trova tutti gli enti $n$ con $n \le 10$ in modo tale che $(3, n)$ sia una buona coppia.
+> 
+> (2) Per le buone coppie $(m, n)$ con $m, n \le 10$, indicare il numero di tali coppie. Si noti che $(9, 6)$ e $(6, 9)$ sono conteggiate come coppie diverse.
+
+![[src_jjmo4q__Q12.png]]
+
+[[src_jjmo4q__Q12]]

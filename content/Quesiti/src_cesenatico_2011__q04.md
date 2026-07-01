@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2011 - soluzioni — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011__Q04
 parent: src_cesenatico_2011
 competition: Olimpiade Italiana (Cesenatico) 2011 - soluzioni
@@ -26,13 +27,15 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *angoli e somme lati*
 
 ![[src_cesenatico_2011__prob4.png]]
 
-> Sia ABCD un quadrilatero convesso. Sia P l’intersezione delle bisettrici esterne di D bAC e D bBC.
-> Dimostrare che A bPD = B bPC se e solo se AD + AC = BC + BD.
+> Sia ABCD un quadrilatero convesso. Sia P l’intersezione delle bisettrici esterne di $\widehat{DAC}$ e $\widehat{DBC}$.
+> Dimostrare che $\widehat{APD}$ = $\widehat{BPC}$ se e solo se AD + AC = BC + BD.
 > [Nota : Si ricorda che la bisettrice esterna ad un angolo è la retta passante per il vertice dell’angolo e perpendicolare alla
 > bisettrice interna (cioè l’usuale bisettrice) dell’angolo stesso.]
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZgCq2k5aOrXSuhhzvdkr8guHFAKG9sju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>angles and sides < MSK1/>
+
+![[src_cesenatico_2011__prob4.png]]
+
+> Let ABCD be a convex quadrilateral. Both P the intersection of the outer blades of < MSK0/> and < MSK1/>. Show that $\widehat{APD}$ = $\widehat{BPC}$ if and only if AD + AC = BC + BD. [Note: Please note that the outer edge of an angle is the straight line passing through the top of the angle and perpendicular to the inner edge (i.e. the usual edge) of the angle itself.]
+
+[[src_cesenatico_2011__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_triennio__Q05
 parent: src_archimede_2021_triennio
 competition: Giochi di Archimede 2021 - Gara Triennio (tradizionale)
@@ -26,6 +27,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che due compagni finiscano nella stessa aula*
 
@@ -43,3 +46,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of two comrades ending up in the same classroom*
+
+> Mira and Dino, fellow gamblers, are enrolled in the Games of Archimedes. The 49 participants are drawn, 35 in one room and 14 in another. What are the odds that Mira and Dino end up in the same room?
+>
+> - **(A)** 9/16
+> - **(B)** 1/2
+> - **(C)** 7/12
+> - **(D)** 8/15
+> - **(E)** 5/8
+
+[[src_archimede_2021_triennio__Q05]]

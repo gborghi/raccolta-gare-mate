@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2015 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_classiprime__Q15
 parent: src_archimede_2015_classiprime
 competition: Gara Nazionale Classi Prime 2015
@@ -26,6 +27,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Studente con maggior probabilita data scelta pagina e somma cifre*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Student most likely given page choice and number sum*
+
+> In a high school on Kenoncè Island, Professor Bocciotutti chooses who to interview from among her 21 pupils. (a) She randomly opens a 288-page book (numbered 1 to 288), chooses one of the two pages on which she opened it and checks the number N. (b) If N < MSK0/>21 takes the student marked with the number N from the register list, otherwise it replaces N with the sum of its digits and repeats operation (b). What is the number of students most likely to be selected? A 10 B 9 C 11 D 8 and 12 F all students are equally likely to be selected
+
+**Answer:** A
+[[src_archimede_2015_classiprime__Q15]]

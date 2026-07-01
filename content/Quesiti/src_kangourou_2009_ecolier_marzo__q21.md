@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q21
 parent: src_kangourou_2009_ecolier_marzo
 competition: Kangourou 2009 - Ecolier (gara 19 marzo)
@@ -30,6 +31,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante figurine aveva nel 2006 (Fibonacci)*
 
@@ -62,3 +65,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many figures did you have in 2006 (Fibonacci) *
+
+> George collects football figures. Each year the number of his figures is the sum of the numbers of his figures in the two years immediately preceding. Last year George had 60 figures and this year he has 96. How many figurines did he have in 2006? (a) 20 (b) 24 (c) 36 (d) 40 (e) 48 pages. I'm going to pay. This is a list of the official languages of the European Union.
+> 
+> I'm going to pay. I'm going to pay. 9 Kang 2009 Kang 2009
+
+**Answer:** B
+[[src_kangourou_2009_ecolier_marzo__Q21]]

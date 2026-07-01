@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q03
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soluzioni intere di equazione con radici quadrate*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Solutions of the whole equation with square roots*
+
+> How many whole solutions does the equation √x2  45 + √50  x2 = x  4 have? A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 3
+> 	
+> E) 4
+
+**Answer:** B
+[[src_kangourou_2023_student__Q03]]

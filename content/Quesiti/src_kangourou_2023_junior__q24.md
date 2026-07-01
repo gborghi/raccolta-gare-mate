@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q24
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *pendenza retta che biseca area*
 
@@ -72,3 +75,17 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>right slope bisecting area< MSK1/>
+
+> In the plane with an orthogonal cartesian system, the rectangle R of vertices (0,0), (100,0), (100,50) and (0,50) was drawn. From R the center circle (75.30) and radius 10 have been removed. What is the slope of the straight line passing through the point (75.30) and dividing the remaining part of the rectangle into two regions of the same area? N.B. The pend of a passing line for the two points (a, b) and (c, d) is the ratio (b  d)/(a  c). A) 1/5 B) 1/3
+> 	
+> C) 1/2 D) 2/5 E) 2/3 88 89 90 1 2 3 4 1 2 3 85 88 89 90 1 1 1 1 A B ?
+>
+
+**Answer:** D
+[[src_kangourou_2023_junior__Q24]]

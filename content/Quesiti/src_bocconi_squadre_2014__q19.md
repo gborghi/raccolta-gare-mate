@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2014 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2014__Q19
 parent: src_bocconi_squadre_2014
 competition: Gara a Squadre 2014
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di confronti con bilancia a due piatti per trovare i due più pesanti tra 128 oggetti*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 133
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of two-plate balanced comparisons to find the two heaviest of 128 objects*
+
+> What is the smallest number of comparisons, two to two, with a two-plate balance, needed to find the two heaviest objects among the $128$ assigned, all of different weight?
+
+**Answer:** 133
+[[src_bocconi_squadre_2014__Q19]]

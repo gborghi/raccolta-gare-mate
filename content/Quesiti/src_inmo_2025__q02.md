@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2025 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2025__Q02
 parent: src_inmo_2025
 competition: Indian National Mathematical Olympiad 2025
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Alice erases numbers on a board to leave one number remaining*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gffQQL4VecZGe0gDiKrBISppVkk_kB-P/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Alice cancella i numeri su una lavagna per lasciare un numero rimasto*
+
+> $n \ge 2$ sia un numero intero positivo. I numeri interi $1, 2, \ldots, n$ sono scritti sulla lavagna. In una mossa, Alice può scegliere due numeri interi scritti sulla lavagna $a \ne b$ in modo tale che $a + b$ sia un numero pari, cancellare sia $a$ che $b$ dalla lavagna e scrivere $\frac{a+b}{2}$ sulla lavagna. Trova tutte le $n$ per cui Alice può fare una sequenza di mosse in modo che finisca con un solo numero rimasto sulla tavola.
+> 
+> **Nota.** Quando $n = 3$, Alice cambia $\{1, 2, 3\}$ a $\{2, 3\}$ e dopo questo Alice non può fare ulteriori mosse.
+
+[[src_inmo_2025__Q02]]

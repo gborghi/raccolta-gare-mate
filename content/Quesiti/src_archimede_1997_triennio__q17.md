@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Triennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_triennio__Q17
 parent: src_archimede_1997_triennio
 competition: Giochi di Archimede 1997 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Intero piu vicino a una espressione con radici*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Interest closer to an expression with roots< MSK1/>
+
+> Which integer is closest to the number √ 5 + 2 √ 5 −2 ?
+>
+> - **(A)** 2
+> - **(B)** 7
+> - **(C)** 14
+> - **(D)** 18
+> - **(E)** 29.
+
+**Answer:** D
+[[src_archimede_1997_triennio__Q17]]

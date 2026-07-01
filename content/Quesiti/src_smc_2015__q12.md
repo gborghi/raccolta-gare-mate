@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q12
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle y in terms of alpha and beta for tangent lines from a point to a circle inscribed in a triangle*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo y in termini di alfa e beta per le linee tangenti da un punto a un cerchio inscritto in un triangolo*
+
+> Un cerchio tocca i lati del triangolo $PQR$ nei punti $S$, $T$ e $U$ come mostrato. Inoltre $\angle PQR = \alpha^\circ$ e $\angle TSU = y^\circ$. Quale delle seguenti indica $y$ in termini di $\alpha$ e $\beta$?
+>
+> - **(A)** $\tfrac{1}{2}(\alpha + \beta)$
+> - **(B)** $180 - \tfrac{1}{2}(\alpha + \beta)$
+> - **(C)** $180 - (\alpha + \beta)$
+> - **(D)** $\alpha + \beta$
+> - **(E)** $\tfrac{1}{4}(\alpha + \beta)$
+
+![[src_smc_2015__Q12.png]]
+
+**Risposta:** A
+[[src_smc_2015__Q12]]

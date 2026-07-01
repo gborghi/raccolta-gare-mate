@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q23
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte la cifra 2 nei numeri delle camere*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many times the number 2 in the room numbers*
+
+> The rooms of a hotel are numbered with three-digit numbers: the first indicates the floor and the remaining two indicate the number of the room on that floor. For example, room 124 is room 24 on the first floor. The hotel has 5 floors numbered from 1 to 5 and each floor has 35 rooms numbered from 01 to 35. How many times has the number 2 been used to count all the rooms? The Commission has decided to extend the scope of this Regulation to the following areas:
+> 
+> I'm going to pay. I'm going to pay. 14 14 Kang 2009 Kang 2009
+
+**Answer:** A
+[[src_kangourou_2009_benjamin_marzo__Q23]]

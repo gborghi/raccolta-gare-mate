@@ -1,6 +1,7 @@
 ---
 title: IMO 2004 (XLV International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2004__Q03
 parent: src_imho_2004
 competition: IMO 2004 (XLV International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Covering m×n rectangles with hook-shaped hexominoes*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1szqn3o_1STn6AS-iMOaHZTa6rpdHG630/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Covering m×n rectangles with hook-shaped hexominoes*
+
+> Defines a "hook" to be a figure made up of six unit squares as shown below in the picture, or any of the figures obtained by applying rotations and reflections to this figure.
+> 
+> Determine all $m \times n$ rectangles that can be covered without gaps and without overlaps with hooks such that \begin{itemize} \item the rectangle is covered without gaps and without overlaps \item no part of a hook covers area outside the rectangle. I'm going to tell you.
+
+![[src_imho_2004__Q03.png]]
+
+[[src_imho_2004__Q03]]

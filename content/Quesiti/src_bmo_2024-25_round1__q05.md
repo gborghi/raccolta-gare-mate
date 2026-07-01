@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2024-25 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2024-25_round1__Q05
 parent: src_bmo_2024-25_round1
 competition: British Mathematical Olympiad 2024-25 — Round 1
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n not dividing p; prove divisibility by p*
 
@@ -42,3 +45,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zc71QU7y2yEdLL5Hv10dv-SMgCrj9jY8/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Meno n non divisibile p; prova divisibilità per p*
+
+> Che $p$ sia un numero primo, e che $n$ sia il numero intero positivo più piccolo, strettamente maggiore di $1$, che non è un divisore di $p - 1$. Prova che $(n+1)^k - 1$ e $(n+1)^k - n$ sono divisibili da $p$ per un intero positivo $k$.
+
+[[src_bmo_2024-25_round1__Q05]]

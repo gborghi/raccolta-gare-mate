@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2019 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_printemps__Q07
 parent: src_canimath_2019_printemps
 competition: Coupe Animath Printemps 2019
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence u_{n+1}=u_n plus its largest proper divisor; show 3^2019 divides u_n eventually*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza u_{n+1}=u_n più il suo più grande divisore proprio; mostrare 3^2019 divide u_n alla fine*
+
+> Che $(u_n)_{n \geq 0}$ sia una sequenza di integri positivi tale che per tutti $n \geq 0$, $u_{n+1}$ sia la somma di $u_n$ e il suo più grande divisore proprio (cioè il suo più grande divisore strettamente inferiore a $u_n$ stesso). Per esempio, se $u_0 = 12$, allora $u_1 = 12 + 6 = 18$.
+> 
+> Indicare che esiste $N$ in modo tale che per tutti $n > N$, il numero intero $u_n$ sia divisibile da $3^{2019}$.
+
+[[src_canimath_2019_printemps__Q07]]

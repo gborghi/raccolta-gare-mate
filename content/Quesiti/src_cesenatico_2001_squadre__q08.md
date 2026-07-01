@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2001_squadre__Q08
 parent: src_cesenatico_2001_squadre
 competition: Gara Nazionale a Squadre Cesenatico 2001
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre decimali del prodotto archi dopo 2001 mosse bisettrici*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4001
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Decimal figures of the product arcs after 2001 biset movements< MSK1/>
+
+> Playing games... (MSK1)
+> 
+> The newspapers are full of articles on loneliness and hobbies. Here's one of them. Starting with three points on a circumference; one move consists of tracing the beams of the triangle detected by the three points and considering the points that those beams intercept on the circumference. Xam begins to play with points that on the circumference identify arcs of length 1, 2 and 3. Xam stops after the 2001 move. How many digits after the comma does the product of the lengths of the three arcs identified by the last points drawn have?
+
+**Answer:** 4001
+[[src_cesenatico_2001_squadre__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1973-74 — Round 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1973-74_round1__Q07
 parent: src_bmo_1973-74_round1
 competition: British Mathematical Olympiad 1973-74 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Roots of cubic expressed via each other; find coefficients p, q, r and reality condition*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rede di cubo espresse tra loro; trovare i coefficienti p, q, r e condizione di realtà*
+
+> Le radici dell'equazione $x^3 = bx + c$ ($bc \neq 0$, $b$ e $c$ reale) sono $\alpha$, $\beta$ e $\gamma$. Determinare $p$, $q$ e $r$ in termini di $b$ e $c$ in modo tale che $$\beta = p\alpha^2 + q\alpha + r, \quad \gamma = p\beta^2 + q\beta + r, \quad \alpha = p\gamma^2 + q\gamma + r$$ e indicare una condizione che garantisca che $p$, $q$ e $r$ siano reali.
+
+[[src_bmo_1973-74_round1__Q07]]

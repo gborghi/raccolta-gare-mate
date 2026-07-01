@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1991 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1991__Q01
 parent: src_rmo_1991
 competition: Regional Mathematical Olympiad 1991
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cevians through interior point, prove ratio sum equals one*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RD8FU5BoTp9QOmMS9Bfvr_F9JpltmZcX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cevians attraverso il punto interno, prova che la somma del rapporto è uguale a uno*
+
+> Che $P$ sia un punto interno di un triangolo $ABC$ e $AP$, $BP$, $CP$ incontrino rispettivamente i lati $BC$, $CA$, $AB$ in $D$, $E$ e $F$. Indicare che < MSK0/>
+
+[[src_rmo_1991__Q01]]

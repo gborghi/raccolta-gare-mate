@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q19
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Alphabetical permutations of BRASIL: position of 361st word*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Permutazioni alfabetiche di BRASIL: posizione della 361a parola*
+
+> Le permutazioni della parola BRASIL erano elencate in ordine alfabetico, come se fossero parole di un dizionario. La 361a parola di questa lista è:
+>
+> - **(A)** BRISAL
+> - **(B)** SIRBAL
+> - **(C)** RASBIL
+> - **(D)** SABRIL
+> - **(E)** LABIRS
+
+**Risposta:** D
+[[src_obm_2006_n1_f1__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f3__Q02
 parent: src_obm_2011_n3_f3
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum m so every distribution of 2011 stickers among 33 friends is incomplete*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lg8sglroGshD0xnLsEEaoJUunh8VJxYI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova m minimo così ogni distribuzione degli adesivi 2011 tra 33 amici è incompleta*
+
+> Un album composto da adesivi del 2011 è stato raccolto da 33 amici. Una distribuzione tra i 33 amici si chiama *incompleto* quando esiste almeno uno dei 33 amici che ha meno di $m$ adesivi. Determinare il valore minimo di $m$ con la seguente proprietà: ogni distribuzione di adesivi tra i 33 amici è tale che, per due amici, entrambi mancano, per ciascuno di loro, almeno $m$ adesivi in comune.
+
+[[src_obm_2011_n3_f3__Q02]]

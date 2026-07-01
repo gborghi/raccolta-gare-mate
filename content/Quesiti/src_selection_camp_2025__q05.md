@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2025 — Selection Camp — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2025__Q05
 parent: src_selection_camp_2025
 competition: Japan IMO Selection Camp 2025 — Selection Camp
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find subsets S of powers of 2 realizable as image of f(a+b)-f(a)-f(b)*
 
@@ -46,3 +49,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_hAtW-_q2-uMzqzRMHgBP6hcqovxL3Oj/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca sottoinsiemi S di potenze di 2 realizzabili come immagine di f(a+b)-f(a)-f(b) *
+
+> Determinare tutti i sottogruppi $\mathcal{S}$ di $\{2^0, 2^1, 2^2, \ldots\}$ con la seguente proprietà: esiste una funzione $f$ dai numeri interi positivi ai numeri interi positivi in modo tale che l'insieme di numeri interi della forma $f(a+b) - f(a) - f(b)$, come $a$ e $b$ si estende su tutti gli enti interi positivi, è uguale a $\mathcal{S}$.
+
+[[src_selection_camp_2025__Q05]]

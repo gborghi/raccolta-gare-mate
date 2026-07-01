@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2009 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2009__Q05
 parent: src_bocconi_autunno_2009
 competition: Giochi d'Autunno 2009
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo intero positivo divisibile per 16 volte la somma delle sue cifre*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 144
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum positive integer divisible by 16 times the sum of its digits< MSK1/>
+
+> Find the smallest integer (positive) equal to 16 times the sum of its digits.
+
+**Answer:** 144
+[[src_bocconi_autunno_2009__Q05]]

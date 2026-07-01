@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Region 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_r1__Q04
 parent: src_rmo_2012_r1
 competition: Regional Mathematical Olympiad 2012
@@ -33,6 +34,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count unordered pairs {A,B} subsets of {1,...,10} with A∩B={2,3,5,7}*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11aRbfC9yQJVoIGFG_WNtegA0QeoTMsx3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le coppie non ordinate {A,B} sottoinsieme di {1,...,10} con A∩B={2,3,5,7}*
+
+> Let < MSK0/>. Trovare il numero di coppie $\{A, B\}$ come $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{2, 3, 5, 7\}$.
+
+[[src_rmo_2012_r1__Q04]]

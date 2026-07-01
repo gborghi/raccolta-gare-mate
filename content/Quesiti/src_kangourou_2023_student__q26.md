@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q26
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza del lato del quadrato da segmenti sugli assi*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of the side of the square by segments on the axes*
+
+![[src_kangourou_2023_student__prob26.png]]
+
+> The axes of the sides of a square divide it into four smaller squares. In the square, a circle tangent to the square is drawn in the middle of one side. The circle determines on the axes of the sides the length segments indicated in the figure. What's the length of the side of the square? A) 18
+> 	
+> B) 20
+> 	
+> C) 24
+> 	
+> D) 28
+> 	
+> E) 30
+
+**Answer:** A
+[[src_kangourou_2023_student__Q26]]

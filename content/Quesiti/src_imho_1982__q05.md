@@ -1,6 +1,7 @@
 ---
 title: IMO 1982 (XXIII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1982__Q05
 parent: src_imho_1982
 competition: IMO 1982 (XXIII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Regular hexagon diagonal ratio and collinearity of B, M, N*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Regular hexagon diagonal ratio and collinearity of B, M, N*
+
+> The diagonals $AC$ and $CE$ of the regular hexagon $ABCDEF$ are divided by the inner points $M$ and $N$ respectively, so that $$\frac{AM}{AC} = \frac{CN}{CE} = r.$$ Determine $r$ if $B$, $M$, $N$ are collinear.
+
+[[src_imho_1982__Q05]]

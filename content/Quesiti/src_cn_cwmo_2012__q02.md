@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2012 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2012__Q02
 parent: src_cn_cwmo_2012
 competition: China Western Mathematical Olympiad 2012
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Among any n vertices of a regular (2n-1)-gon, three form an isosceles triangle*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Tra le n vertici di un gono regolare (2n-1), tre formano un triangolo di pari dimensioni
+
+> Prove che: tra i vertici $n$ di un poligono regolare $2n - 1$ ($n \ge 3$), ci sono tre, che sono i vertici di un triangolo di uguale occhio. (Posizionato da Zou Jin)
+
+[[src_cn_cwmo_2012__Q02]]

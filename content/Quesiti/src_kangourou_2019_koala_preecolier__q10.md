@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q10
 parent: src_kangourou_2019_koala_preecolier
 competition: Kangourou 2019 Koala n.6 Pre-Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti pezzi di carta dopo piega e taglio*
 
@@ -43,3 +46,23 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many pieces of paper after folding and cutting< MSK1/>
+
+![[src_kangourou_2019_koala_preecolier__prob10.png]]
+
+> Patricia had a piece of paper. He folded it one time and then a second time along the stretched segments and finally cut it along the unstretched segment: these three operations are suggested to you in the order from the figure. How many pieces of paper did you get?
+>
+> (see figure)
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6
+
+[[src_kangourou_2019_koala_preecolier__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q24
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione grigia della bandiera a tre strisce*
 
@@ -65,3 +68,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Gray fraction of the three-blade flag*
+
+![[src_kangourou_2006_benjamin__prob24.png]]
+
+> A flag consists of three stripes of equal width, divided into two equal parts, three equal parts and four equal parts, as shown in the figure. What part of the flag's surface is gray? (a) (b) (c) (d) (e) figure 1 figure 2
+>  
+> The Commission has also adopted a number of proposals for a directive on the protection of workers' rights.
+> 
+> I'm going to pay. I'm going to pay. 15 15 Kang 2006 Kang
+
+**Answer:** E
+[[src_kangourou_2006_benjamin__Q24]]

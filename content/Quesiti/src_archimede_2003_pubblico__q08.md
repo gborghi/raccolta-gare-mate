@@ -1,6 +1,7 @@
 ---
 title: Archimede 2003 - Gara del Pubblico (Cesenatico) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_pubblico__Q08
 parent: src_archimede_2003_pubblico
 competition: Archimede 2003 - Gara del Pubblico (Cesenatico)
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *problema 8*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the problem.
+
+> The city's main park is shaped like a trapeze. Its lower base is 90 metres long and the segment connecting the midpoints of the diagonals is 5 metres long. What's the size of the main base?
+
+[[src_archimede_2003_pubblico__Q08]]

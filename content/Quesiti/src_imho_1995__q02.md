@@ -1,6 +1,7 @@
 ---
 title: IMO 1995 (XXXVI International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1995__Q02
 parent: src_imho_1995
 competition: IMO 1995 (XXXVI International Mathematical Olympiad)
@@ -28,6 +29,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Inequality for positive reals with abc=1*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pz-4eMo5rOEQfEuxsHP_U9uNUklh6WtJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Inequality for positive reals with abc=1*
+
+> Let $a$, $b$, $c$ be positive real numbers such that $abc = 1$. Prove that $$\frac{1}{a^3(b+c)} + \frac{1}{b^3(c+a)} + \frac{1}{c^3(a+b)} \ge \frac{3}{2}.$$
+
+[[src_imho_1995__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2014 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2014__Q13
 parent: src_bocconi_autunno_2014
 competition: Giochi d'Autunno 2014
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della stella inscritta in quadrato da 3045 cm²*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $2030 \text{ cm}^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PloiPSpf4_9YADREFtliPjnhVrdcFhjI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the star inscribed in the square of 3045 cm2*
+
+> The large square has an area of $3045 \text{ cm}^2$. Look inside the star (darker): it was built by combining the vertices of the large square with the centers of the smaller squares. What's the area of the star?
+
+![[src_bocconi_autunno_2014__Q13.png]]
+
+**Answer:** $2030 \text{ cm}^2$
+[[src_bocconi_autunno_2014__Q13]]

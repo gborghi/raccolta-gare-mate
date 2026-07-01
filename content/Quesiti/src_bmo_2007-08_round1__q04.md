@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2007-08 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2007-08_round1__Q04
 parent: src_bmo_2007-08_round1
 competition: British Mathematical Olympiad 2007-08 — Round 1
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show a given integer expression is a perfect square*
 
@@ -42,3 +45,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RB1RkGzKd2r9NM4xaNaiRaoP15anlQ-K/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra che un'espressione di un dato numero intero è un quadrato perfetto*
+
+> $n$ sia un numero intero. Mostrare che, se $2 + 2\sqrt{1 + 12n^2}$ è un intero, allora è un quadrato perfetto.
+
+[[src_bmo_2007-08_round1__Q04]]

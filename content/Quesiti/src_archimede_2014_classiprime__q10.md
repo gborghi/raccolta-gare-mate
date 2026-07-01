@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2014 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_classiprime__Q10
 parent: src_archimede_2014_classiprime
 competition: Gara Nazionale Classi Prime 2014
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizione del monomio x^7y^10 in una lista ordinata*
 
@@ -58,3 +61,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Position of the monomy x^7y^10 in an ordered list*
+
+> We arrange all possible monoms (with coefficient 1) in the variables x and y and degree not greater than 20, as follows: x20, x19y, x19, x18y2, x18y, x18, x17y3, x17y2, . . . where, in order to establish the order of the mononyms in the list, the following rules have been used: (a) the one with the highest exponent of x has precedence; (b) at par of exponents of x, the one with the highest exponent of y has precedence. What is the position of x7y10 in the list? A 95a B 214a C 89a D 147a E 144a F 72a
+
+**Answer:** A
+[[src_archimede_2014_classiprime__Q10]]

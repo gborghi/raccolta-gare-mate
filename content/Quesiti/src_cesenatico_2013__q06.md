@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013__Q06
 parent: src_cesenatico_2013
 competition: Olimpiade Italiana (Cesenatico) 2013 - soluzioni
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *per quali n la strategia funziona*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** n potenza di due
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hXVH2IQIT7lpZOFdPWsSlTLlKUKYJdQt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* for which the strategy works*
+
+> Two magicians perform in the following issue. At first, the first magician locks the second magician in a cabin where he can't see or hear anything. To start the game, the first magician invites Daniel, a member of the audience, to put on each box of a chessboard a white or black board at his discretion. Then he asks Daniel to point him to a box C of his choice. At this point, the first magician chooses a box D (not necessarily different from C) and replaces the pedina on D with one of the other color (white with black or black with white). Then the cabin where the second magician was locked is opened. Looking at the chessboard, the second magician can guess what box C is. Which of the two magicians can implement a strategy that their numbers always succeed?
+
+**Answer:** n potenza di due
+[[src_cesenatico_2013__Q06]]

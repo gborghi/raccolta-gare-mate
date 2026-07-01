@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2006 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo4q__Q03
 parent: src_jjmo4q
 competition: Japan Junior Mathematical Olympiad 2006
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fraction with integer numerator and denominator closest to 1, with sum 109*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Frazione con numeratore e denominatore interi più vicini a 1, con somma 109*
+
+> Tra le frazioni il cui numeratore e il cui denominatore sono entrambi numeri interi e la cui somma è $109$, $$\frac{108}{1},\ \frac{107}{2},\ \frac{106}{3},\ \ldots,\ \frac{3}{106},\ \frac{2}{107},\ \frac{1}{108}$$ trova quella che è più vicina a $1$. Qui, "più vicino a $1$" significa quello la cui differenza assoluta da $1$ è minore.
+
+[[src_jjmo4q__Q03]]

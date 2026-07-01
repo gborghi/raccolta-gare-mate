@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2010_semifinale__Q03
 parent: src_kangourou_squadre_2010_semifinale
 competition: Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie di caselle non adiacenti su scacchiera 8x8*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1904
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Pairs of non-adjacent boxes on a chessboard 8x8< MSK1/>
+
+> Is Marco still writing? Mark started writing the sequence of numbers 7, 36, 65, 94, ...where each, from the second on, is the previous one increased by 29. Marco intends to stop as soon as he has written a number whose digits are all equal to nine. Will Mark be able to stop, and if so, how many numbers will he have written when he stops? (Write 0000 if he can't stop.)
+
+**Answer:** 1904
+[[src_kangourou_squadre_2010_semifinale__Q03]]

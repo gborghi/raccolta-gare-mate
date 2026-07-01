@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f2__Q06
 parent: src_obm_2006_n1_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find a^b after correcting one digit in a wrong addition*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1srmyb0DAUnIq9SKYuIOrk5cCPzS2K6he/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca a^b dopo aver corretto una cifra in un'aggiunta sbagliata*
+
+> L'aggiunta seguente non è corretta. Tuttavia, se si sostituisce solo una cifra $a$ ovunque appare con un'altra cifra $b$, l'aggiunta diventa corretta. Qual è il valore di $a^b$? $$\begin{array}{r} 742586 \\ +\;829430 \\ \hline 1212016 \end{array}$$
+
+[[src_obm_2006_n1_f2__Q06]]

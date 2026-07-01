@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2013 - Triennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_triennio__Q20
 parent: src_archimede_2013_triennio
 competition: Giochi di Archimede 2013 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di tessere a Z per coprire griglia 5x5*
 
@@ -54,3 +57,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of Z-sheets to cover a 5x5 grid*
+
+![[src_archimede_2013_triennio__prob20.png]]
+
+> We want to cover a grid of 5x5 squares with z-shaped tiles as shown in the figure, which can be rotated, turned and overlapped, possibly even leaking out of the grid (although every part of the grid that falls inside the grid precisely overlaps to 1, 2, 3 or 4 squares). How many cards do we need, at least?
+>
+> - **(A)** 6
+> - **(B)** 7
+> - **(C)** 8
+> - **(D)** 9
+> - **(E)** 10
+
+**Answer:** D
+[[src_archimede_2013_triennio__Q20]]

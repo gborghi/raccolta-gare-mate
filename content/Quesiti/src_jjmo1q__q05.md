@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2003 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo1q__Q05
 parent: src_jjmo1q
 competition: Japan Junior Mathematical Olympiad 2003
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integers from 1 to 2003 with an even number of positive divisors*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi da 1 a 2003 con un numero pari di divisori positivi*
+
+> Tra gli integri da $1$ a $2003$, quanti hanno un numero pari di divisori positivi? Ad esempio, $6$ ha divisori positivi $1, 2, 3, 6$ (quattro in totale), quindi $6$ soddisfa questa condizione.
+
+[[src_jjmo1q__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2012 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2012__Q16
 parent: src_bocconi_rosi_2012
 competition: Giochi di Rosi 2012
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Contare tutti i numeri tronca-divisibili a due cifre*
 
@@ -49,3 +52,17 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Sono 32: 10,11,12,13,14,15,16,17,18,19, 20,22,24,26,28, 30,33,36,39, 40,44,48, 50,55, 60,66, 70,77, 80,88, 90,99
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1du4nM_pjVseEMRiX1hz7hrTEkEIg-ZC2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Count all the two-digit digits of the trunk-divisible numbers*
+
+> < MSK0/>What are the two-digit "trunk-divisible" numbers? < MSK1/>
+> 
+> (A number is said to be "trunk-divisible" if, after deleting the unit number, the resulting number divides the initial number. For example, 24 is trunk-divisible because $2 \mid 24$.)
+>
+
+**Answer:** Sono 32: 10,11,12,13,14,15,16,17,18,19, 20,22,24,26,28, 30,33,36,39, 40,44,48, 50,55, 60,66, 70,77, 80,88, 90,99
+[[src_bocconi_rosi_2012__Q16]]

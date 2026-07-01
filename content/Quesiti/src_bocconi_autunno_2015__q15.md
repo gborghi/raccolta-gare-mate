@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2015 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2015__Q15
 parent: src_bocconi_autunno_2015
 competition: Giochi d'Autunno 2015
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Vertice opposto del cubo con somma minima*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eK88JMTv896JXMMmFL1S8lYcD_i95Nzi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Overse vertices of the cube with minimum sum*
+
+> It's a magic cube. In the vertices of the cube "books" must be written prime numbers different from each other, so that the sum of the numbers placed in the vertices of the same face is always the same and the smallest possible. What number should be written on the top opposite to the one where number 1 appears?
+
+![[src_bocconi_autunno_2015__Q15.png]]
+
+**Answer:** 3
+[[src_bocconi_autunno_2015__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2019 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2019__Q13
 parent: src_garaprime_2019
 competition: Gara Nazionale Classi Prime 2019
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di tassellazioni 4x4 con vincolo sul segmento*
 
@@ -58,3 +61,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GTzdagqUQpCUSYBLrYJmJaKl7DQUIbtK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of 4x4 stamps with binding on the segment*
+
+![[src_garaprime_2019__prob13.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.8]
+  \draw (0,0) grid (4,4);
+  \draw[line width=2pt] (1,2) -- (3,2);
+\end{tikzpicture}
+\end{document}
+```
+
+> Find out how many different ways it is possible to completely cover the following grid 4 × 4 with a grid of 1 × 2, with the restriction that the grid cannot be placed on the horizontal segment marked in bold. Figure 2 The bearings may be rotated but not overlapped. A 26 B 12 C 32 D 45 E 30 F 36
+
+**Answer:** A
+[[src_garaprime_2019__Q13]]

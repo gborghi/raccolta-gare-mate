@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2004 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2004__Q02
 parent: src_cn_cmo_2004
 competition: China Mathematical Olympiad 2004
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence with floor-function recurrence; find closed form in terms of n and c*
 
@@ -53,3 +56,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza con ricorrenza della funzione a pavimento; trovare forma chiusa in termini di n e c*
+
+> Che $c$ sia un numero intero positivo e che una sequenza di numeri $x_1, x_2, \ldots$ soddisfi $x_1 = c$ e $$x_n = x_{n-1} + \left\lfloor \frac{2(x_{n-1} - 1)}{n} \right\rfloor + 1, \quad n = 2, 3, \ldots,$$ dove $\lfloor x \rfloor$ indica il numero intero più grande non superiore a $x$. Determinare l'espressione di $x_n$ in termini di $n$ e $c$. (Posizionato da Huang Yumin)
+
+**Risposta:** x_n = \frac{c-1}{6}(n+1)(n+2)+1 \text{ for } c\equiv1\pmod3; \ x_n=\frac{c-2}{6}(n+1)(n+2)+n+1 \text{ for } c\equiv2\pmod3; \ x_n=\frac{c-3}{6}(n+1)(n+2)+\left\lfloor\frac{(n+2)^2}{4}\right\rfloor+1 \text{ for } c\equiv0\pmod3
+[[src_cn_cmo_2004__Q02]]

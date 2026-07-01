@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1998 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1998__Q04
 parent: src_inmo_1998
 competition: Indian National Mathematical Olympiad 1998
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral with unit circumradius and equal diagonals is a square*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uAxelJ4GAxypZpM2ox-8kZZSTZuFphZT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilatero ciclico con radius unitario e diagonali uguali è un quadrato*
+
+> Un quadrilaterale convex $ABCD$ è inserito in un cerchio di raggio unitario. Mostra che se $AB \cdot BC \cdot CD \cdot DA \ge 4$, allora $ABCD$ è un quadrato.
+
+[[src_inmo_1998__Q04]]

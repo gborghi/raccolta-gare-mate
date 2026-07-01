@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f2__Q04
 parent: src_obm_2001_n3_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 2
@@ -39,6 +40,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Venusiano football championship; find minimum points for Vulcano FC to guarantee final*
 
@@ -53,3 +56,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Campionato veneziano di calcio: trovare punti minimi per il Vulcano FC per garantire la finale
+
+> Il campionato di calcio Venusiano è contestato da 10 squadre su 10 partite giocate in due round. In ogni round ogni squadra gioca una volta contro ogni altra squadra. Supponiamo che Vulcano FC vinca tutte le partite del primo round. Se non vince la partita del secondo round, Vulcano FC giocherà una partita di tiebreaker contro il vincitore del secondo round. Altrimenti (cioè se vince anche la seconda volta), Vulcano FC va direttamente alla finale. Per ogni round la squadra vincente guadagna 3 punti e la squadra perdente guadagna 0 punti; in caso di pareggio ogni squadra guadagna 1 punto. I punteggi ottenuti durante la partita del tie-breaker non contano per la classifica del campionato. È garantito che la squadra con il maggior numero di punti in ogni round avanza alla finale (non ci sono tie-breakers per i punti).
+> 
+> a) Determinare il minimo $n$ in modo tale che se il Vulcano FC accumula punti \emph{exactly} $n$ nel secondo round, questo garantisca al Vulcano FC un posto nella finale (indipendentemente dal numero di punti accumulati dall'avversario e dai punteggi delle altre squadre).
+> 
+> b) Determinare il minimo $n$ in modo tale che, se il Vulcano FC accumula $n$ punti al secondo turno, questo garantisca al Vulcano FC un posto nella finale (indipendentemente dal numero di punti accumulati dall'avversario e dai punteggi delle altre squadre).
+
+[[src_obm_2001_n3_f2__Q04]]

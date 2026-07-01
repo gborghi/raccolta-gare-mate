@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q22
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazioni di 8 gemme in cerchio con 4 tipi, adiacenti diverse*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6564
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Colorations of 8 gems in a circle with 4 types, adjacent to each other*
+
+> The crown The crown for the prince of Franquie is of circular leaf, with a frontal diadem. There are also eight precious stones arranged at regular intervals around the crown. To decorate the crown, the goldsmith has stones of four different types: diamonds, rubies, amethyst and emeralds. How many different ways can he decorate the crown, so that two any stones framed consecutively are of different types? It also means the stones separated by the diadem.
+
+**Answer:** 6564
+[[src_cesenatico_2004_squadre__Q22]]

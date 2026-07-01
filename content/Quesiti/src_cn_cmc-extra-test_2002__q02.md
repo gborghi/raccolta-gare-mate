@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Extra Test) 2002 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-extra-test_2002__Q02
 parent: src_cn_cmc-extra-test_2002
 competition: China Mathematical Competition (Extra Test) 2002
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cubic with three real roots, maximize given expression*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\frac{3}{2}\sqrt{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cubico con tre radici reali, massimizzare l'espressione data*
+
+> Ci sono numeri reali $a$, $b$ e $c$ e un numero positivo $\lambda$ tale che $f(x) = x^3 + ax^2 + bx + c$ abbia tre radici reali $x_1$, $x_2$ e $x_3$ soddisfacenti: (1) $x_2 - x_1 = \lambda$; (2) $x_3 > \dfrac{1}{2}(x_1 + x_2)$.
+> 
+> Trova il valore massimo di < MSK0/>.
+
+**Risposta:** \frac{3}{2}\sqrt{3}
+[[src_cn_cmc-extra-test_2002__Q02]]

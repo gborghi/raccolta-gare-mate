@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Triennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_triennio__Q14
 parent: src_archimede_2025_triennio
 competition: Giochi di Archimede 2025 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo in A di triangolo isoscele con AD+BD=BC*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 100
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A angle of an isosceles triangle with AD+BD=BC*
+
+> Sara wants to take a walk along the edge of a square-shaped park, whose sides measure one kilometer each. Starting from a vertex V, with a coin toss, you randomly choose which direction to go in and walk across an entire side of the square. Every time he reaches a peak, he makes a new coin toss to choose the direction. If the walk is four kilometers, what is the probability that it will end at the very summit V from which it started?
+>
+> - **(A)** 5/16
+> - **(B)** 1/8
+> - **(C)** 1/2
+> - **(D)** 1/4
+> - **(E)** 3/8
+
+**Answer:** 100
+[[src_archimede_2025_triennio__Q14]]

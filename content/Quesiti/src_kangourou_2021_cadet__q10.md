@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q10
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadretti rimasti dopo le rotture di strisce*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Figures left after strip breaks*
+
+> A rectangular chocolate table is made up of many equal squares. Because it breaks two whole strips of squares and eats the 12 squares. Later, James breaks a whole strip of squares from what is left of the table and eats the 9 squares. How many chocolates are left on the board at the end? A) 72
+> 	
+> B) 63
+> 	
+> C) 54
+> 	
+> D) 45
+> 	
+> E) 36 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2021_cadet__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin__Q20
 parent: src_kangourou_2023_benjamin
 competition: Kangourou 2023 Benjamin — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale disposizione completa*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*which full provision*
+
+![[src_kangourou_2023_benjamin__prob20.png]]
+
+> Martha must build a building by stacking cubes on the square table you see on the right. The number in each box indicates how many cubes she must stack on that box. On the left you can see the part of that building that Marta has already erected. Which of the five cubing arrangements you see in the answers allows you to complete the task? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E) Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** D
+[[src_kangourou_2023_benjamin__Q20]]

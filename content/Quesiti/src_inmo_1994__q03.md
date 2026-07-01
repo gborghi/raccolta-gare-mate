@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1994 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1994__Q03
 parent: src_inmo_1994
 competition: Indian National Mathematical Olympiad 1994
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Among 181 perfect squares, 19 have sum divisible by 19*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13t8gO6PkdwPwLC5CkXjN35Yq6olVnxjx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Tra i 181 quadrati perfetti, 19 hanno la somma divisibile per 19
+
+> Prove che tra i 181 quadrati perfetti ci sono 19 la cui somma è divisibile per 19.
+
+[[src_inmo_1994__Q03]]

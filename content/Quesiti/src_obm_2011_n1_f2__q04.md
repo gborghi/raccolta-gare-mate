@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f2__Q04
 parent: src_obm_2011_n1_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Total mass of a 4x4x4 cube built from small cubes weighted by neighbor count*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Massa totale di un cubo 4x4x4 costruito a partire da piccoli cubi ponderati per conto del vicino*
+
+> Con piccoli cubetti della stessa dimensione, è stato costruito un grande cubo $4 \times 4 \times 4$. I piccoli cubetti sono fatti di materiali diversi: un piccolo cubetto che ha esattamente $3$ vicini facciali (cubi che condividono un volto con esso) pesa $10$ grammi; uno con $4$ vicini facciali pesa $8$ grammi; uno con $5$ vicini facciali pesa $6$ grammi; e uno con $6$ vicini facciali pesa $4$ grammi. Qual è la massa totale del grande cubo, in grammi?
+
+[[src_obm_2011_n1_f2__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2023 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2023__Q20
 parent: src_smc_2023
 competition: Senior Mathematical Challenge 2023
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Express q in terms of p and r for meeting walkers on a right-angled field*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esprimere q in termini di p e r per incontrare i passeggiatori su un campo angolato retto*
+
+> Il triangolo $LMN$ rappresenta un campo rettangolare con $LM=r$, $LX=p$ e $XN=q$. Jenny e Vicky camminano alla stessa velocità in direzioni opposte lungo il bordo del campo, partendo allo stesso tempo da $X$. Il loro primo incontro si svolgerà a $M$. Quali di queste espressioni forniscono $q$ in termini di $p$ e $r$?
+>
+> - **(A)** $\dfrac{p}{2}+r$
+> - **(B)** $\sqrt{p^2+r^2}+\dfrac{p}{2}$
+> - **(C)** $\dfrac{pr}{2p+r}$
+> - **(D)** $\dfrac{p}{2}$
+> - **(E)** $1$
+
+![[src_smc_2023__Q20.png]]
+
+**Risposta:** C
+[[src_smc_2023__Q20]]

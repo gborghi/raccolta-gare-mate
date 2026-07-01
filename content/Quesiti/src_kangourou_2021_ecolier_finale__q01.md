@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - finale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q01
 parent: src_kangourou_2021_ecolier_finale
 competition: Kangourou 2021 Ecolier - finale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di 2 cifre con una pari e una dispari*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0045
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers of 2 digits with an even and an odd *
+
+> In the figure you see a large triangle divided into nine small triangles. Imagine that each small triangle represents a room, and that the bars on its sides represent as many doors as one room to the adjacent ones. Starting from the room upstairs, how many rooms can you visit at most by passing once through each room you visit?
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 7 (see figure)
+
+**Answer:** 0045
+[[src_kangourou_2021_ecolier_finale__Q01]]

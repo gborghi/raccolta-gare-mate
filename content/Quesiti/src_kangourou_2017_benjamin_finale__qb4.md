@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (finale Cervia) — Quesito B4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_finale__QB4
 parent: src_kangourou_2017_benjamin_finale
 competition: Kangourou 2017 Benjamin (finale Cervia)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo amici con terne di caramelle a gusti diversi*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 10
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10o3_Kq9VXpAG6jJgjn7UgIrlMfXVipvA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Best friends with different-tasting candy bars
+
+> Lucilla has several candies: 6 mint, 7 lemon, 8 orange, and 12 strawberry. He wants to give three to each of his friends, but each friend asks to have candy all of their tastes different. Considering the wishes of friends, how many friends can you please, at most?
+
+**Answer:** 10
+[[src_kangourou_2017_benjamin_finale__QB4]]

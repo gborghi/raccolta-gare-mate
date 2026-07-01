@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2022 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo20hq_honsen__Q01
 parent: src_jjmo20hq_honsen
 competition: Japan Junior Mathematical Olympiad 2022 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Primes (p,q) making p^3+3q^3-32 prime*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18o27Iy8yRRzYcEM38g3Yo5C4zbcldLvc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Primi (p,q) che rendono p^3+3q^3-32 primi< MSK1/>
+
+> Trova tutte le coppie di prime $(p,q)$ in modo tale che $p^3 + 3q^3 - 32$ sia primo.
+
+[[src_jjmo20hq_honsen__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1996-97 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1996-97_round2__Q02
 parent: src_bmo_1996-97_round2
 competition: British Mathematical Olympiad 1996-97 — Round 2
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with equal median and altitude is equilateral*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16oC7AaiZrRoqDodnHu4P3UrxIRp2B4_E/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un triangolo con media e altitudine uguali è equilaterale*
+
+> Nel triangolo acuto $ABC$, $CF$ è un'altitudine, con $F$ su $AB$, e $BM$ è una media, con $M$ su $CA$. Dato che $BM = CF$ e $\angle MBC = \angle FCA$ dimostrano che il triangolo $ABC$ è equilaterale.
+
+[[src_bmo_1996-97_round2__Q02]]

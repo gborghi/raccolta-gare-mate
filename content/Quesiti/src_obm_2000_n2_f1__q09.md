@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f1__Q09
 parent: src_obm_2000_n2_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle EAF where DEFG is a square outside regular pentagon ABCDE*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo EAF in cui DEFG è un quadrato al di fuori del pentagono regolare ABCDE*
+
+> $DEFG$ è un quadrato costruito all'esterno del pentagono regolare $ABCDE$. Qual è la misura dell'angolo $\widehat{EAF}$?
+> 
+> A) $9^\circ$ \quad B) $12^\circ$ \quad C) $15^\circ$ \quad D) $18^\circ$ \quad E) $21^\circ$
+
+**Risposta:** A
+[[src_obm_2000_n2_f1__Q09]]

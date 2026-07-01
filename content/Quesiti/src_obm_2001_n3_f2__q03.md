@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f2__Q03
 parent: src_obm_2001_n3_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trapezoid ABCD with AB∥CD; find angle DAB given angle sum condition*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Trapezoide ABCD con ABCD; trovare angolo DAB data condizione somma angolo< MSK1/>
+
+> Il trapezoide < MSK0/> ha basi < MSK1/>. Il lato $DA$ è lungo $x$ e il lato $BC$ è lungo $2x$. La somma degli angoli $\angle DAB + \angle ABC = 120^\circ$. Determinare l'angolo $\angle DAB$.
+
+![[src_obm_2001_n3_f2__Q03.png]]
+
+[[src_obm_2001_n3_f2__Q03]]

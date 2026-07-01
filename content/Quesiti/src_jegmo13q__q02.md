@@ -1,6 +1,7 @@
 ---
 title: Japan EGMO Selection / Girls MO 2024 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jegmo13q__Q02
 parent: src_jegmo13q
 competition: Japan EGMO Selection / Girls MO 2024
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count circle arrangements guaranteeing B wins grid game*
 
@@ -48,3 +51,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i4QZZutoi2mFnBZ3lbxvw8r4EoB_TIth/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Armoni di cerchio di conte che garantiscono la vittoria della partita a griglia B*
+
+> $n \ge 2$ sia un numero intero. C'è una griglia $n \times n$, e cero o più cellule hanno un cerchio scritto in esse. I giocatori A e B giocano con questa griglia. La seguente operazione è ripetuta $n - 1$ volte:
+> 
+> Il giocatore A sceglie una riga che non è stata scelto prima e colora tutte le celle in quella riga in nero. Quindi il giocatore B sceglie una colonna che non è stata scelto prima e colora tutte le celle in quella colonna in nero.
+> 
+> Dopo che tutte le operazioni sono completate, se esiste una cella che non è di colore nero e contiene un cerchio, allora B vince; altrimenti A vince. Trova il numero di modi per posizionare cerchi in modo che B possa garantire una vittoria indipendentemente dalle azioni di A.
+> 
+> Nota: gli arrangiamenti che coincidono per rotazione o riflessione sono considerati come distinti.
+
+[[src_jegmo13q__Q02]]

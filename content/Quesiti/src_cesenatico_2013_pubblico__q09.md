@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_pubblico__Q09
 parent: src_cesenatico_2013_pubblico
 competition: Gara a Squadre Cesenatico 2013 - Gara del pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita Stregauss dalla Lepre (6 dadi, numeratore)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6337
 **Fonte:** [apri PDF p.27](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is a list of all known diseases of the genus Stregauss.
+
+> The Queen's pearls After an unadorned oyster shroud, Triseco and Cartantiere arranged the pearls they found in this way. It divides, with parallel lines on the sides, an equilateral triangle on side 60 into many triangles on side 3. Then pearls are placed on each point that is a vertex of these triangles, as well as two pearls on each of their sides, so that each pearl is at a distance of 1 from its nearest neighbor. How many pearls did they use to compose the figure?
+
+**Answer:** 6337
+[[src_cesenatico_2013_pubblico__Q09]]

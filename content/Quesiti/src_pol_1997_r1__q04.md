@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r1__Q04
 parent: src_pol_1997_r1
 competition: Olimpiade Matematica Polacca 1997 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove that an integer n at least 2 is composite iff certain positive integers a,b,x,y exist.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J1ktv1YQ9-pGG7jFVVATHBI82SdVVsMb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che un intero n di almeno 2 è composto se esistono alcuni interi positivi a,b,x,y.*
+
+> Prova che un intero $n \ge 2$ è composto se e solo se ci sono interi positivi $a, b, x, y$ con $a + b = n$ e $\frac{x}{a} + \frac{y}{b} = 1$.
+
+[[src_pol_1997_r1__Q04]]

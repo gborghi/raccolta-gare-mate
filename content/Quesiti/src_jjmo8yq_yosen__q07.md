@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo8yq_yosen__Q07
 parent: src_jjmo8yq_yosen
 competition: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular heptagon with marked points; find angle PTS*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Eptagone regolare con punti segnati; angolo di ricerca PTS< MSK1/>
+
+> C' è un heptagone regolare < MSK0/> con lunghezza laterale < MSK1/>. I punti $P, Q, R, S$ si trovano rispettivamente sui segmenti $AB, BC, CD, EF$ e soddisfano $BP = CQ = DR = FS = \frac{1}{3}$. Il segmento $T$ è l'intersezione del segmento $PR$ e del segmento $QS$. Trova la misura di $\angle PTS$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+![[src_jjmo8yq_yosen__Q07.png]]
+
+[[src_jjmo8yq_yosen__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q21
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del quadrato R inscritto nel triangolo (P=45)*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the square R inscribed in the triangle (P=45) *
+
+![[src_kangourou_2022_junior_gara__prob21.png]]
+
+> The figure shows two congruent isosceles rectangles, each of which is inscribed with a square. The area of P squared is 45. What is the area of the square R ? A) 35
+>   
+> B) 40
+>   
+> C) 45 D) 50
+>   
+> E) 60
+
+**Answer:** B
+[[src_kangourou_2022_junior_gara__Q21]]

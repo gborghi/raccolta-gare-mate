@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Triennio (T1) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_triennio__Q07
 parent: src_archimede_2018_triennio
 competition: Giochi di Archimede 2018 - Triennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero quesiti raccolta da punteggio Archimede*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1chiVEtKBmEPe3a5UIOw0emvX-F6tCml3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of questions collected from the Archimedes score*
+
+> To prepare for the Archimedes Games, Constance is trying to solve a collection of questions from previous years' competitions. He leaves 14 blank and answers correctly to 2/3 of the remaining answers (the other answers are wrong). It is therefore noted that, by calculating the scores as in the Archimedes Games, he has thus achieved one point less than he would have obtained by answering all the questions and mistaking precisely half of them. About the number of queries in the collection, we can conclude that it is...
+>
+> - **(A)** less than 30
+> - **(B)** between 30 and 33 (included)
+> - **(C)** between 34 and 36 (included)
+> - **(D)** between 37 and 40 (included)
+> - **(E)** More than 40
+
+**Answer:** D
+[[src_archimede_2018_triennio__Q07]]

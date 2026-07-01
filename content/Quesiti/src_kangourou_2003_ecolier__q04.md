@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q04
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Immagine con tre quarti di cuori*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Images with three quarters of hearts< MSK1/>
+
+![[src_kangourou_2003_ecolier__prob4.png]]
+
+> In just one of the following images exactly three quarters of all objects are hearts. What image are we talking about ? A) B) C) D) E)
+
+**Answer:** D
+[[src_kangourou_2003_ecolier__Q04]]

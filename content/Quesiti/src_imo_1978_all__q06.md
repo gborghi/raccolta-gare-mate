@@ -1,6 +1,7 @@
 ---
 title: IMO 1978 (Twentieth International Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1978_all__Q06
 parent: src_imo_1978_all
 competition: IMO 1978 (Twentieth International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Member whose number is sum/double of same-country members*
 
@@ -33,3 +36,13 @@ tags:
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Member whose number is sum/double of same-country members
+
+> An international society has its members from six different countries. The list of members contains 1978 names, numbered $1, 2, \ldots, 1978$. Prove that there is at least one member whose number is the sum of the numbers of two members from his own country, or twice as large as the number of one member from his own country.
+
+[[src_imo_1978_all__Q06]]

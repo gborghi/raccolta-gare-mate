@@ -1,6 +1,7 @@
 ---
 title: Japan EGMO Selection / Girls MO 2024 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jegmo13q__Q05
 parent: src_jegmo13q
 competition: Japan EGMO Selection / Girls MO 2024
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove two perpendiculars meet on circumcircle given concyclicity condition*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i4QZZutoi2mFnBZ3lbxvw8r4EoB_TIth/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che due perpendicolari si incontrano su un circoncircolo data condizione di conciclicità*
+
+> Let $G$ essere il centroide del triangolo $ABC$, e let $M$, $N$ essere i punti medi dei lati $AB$, $AC$, rispettivamente. Supponiamo che i quattro punti $A$, $G$, $M$, $N$ siano conciclici. Prova che la linea attraverso $A$ perpendicolare alla linea $AG$ e la linea attraverso $G$ perpendicolare alla linea $BC$ si incontrano sul circoncircolo del triangolo $ABC$.
+
+[[src_jegmo13q__Q05]]

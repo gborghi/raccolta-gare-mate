@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2025 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo35hq_honsen__Q03
 parent: src_jmo35hq_honsen
 competition: Japan Mathematical Olympiad 2025 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum n so n triples cover all consecutive triples in any 1-to-100 sequence*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GuPXGAl_7m7YyhnChIywbUec7G9_S963/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Minimum n tripli coprono tutti i tripli consecutivi in qualsiasi sequenza da 1 a 100< MSK1/>
+
+> $n$ sia un numero intero positivo. Supponiamo che $n$ tripli di integri $(x_1, y_1, z_1),\,(x_2, y_2, z_2),\,\ldots,\,(x_n, y_n, z_n)$, ciascuno con $1 \le x_j, y_j, z_j \le 100$, soddisfino la seguente condizione:
+> 
+> \textit{Per ogni sequenza infinita $a_1, a_2, \ldots$ di numeri interi con $1 \le a_i \le 100$ per tutti $i \ge 1$, e per ogni intero positivo $i$, esiste un intero $j$ con $1 \le j \le n$ tale che $(a_i, a_{i+1}, a_{i+2}) = (x_j, y_j, z_j)$.}
+> 
+> Trova il valore minimo possibile di $n$.
+
+[[src_jmo35hq_honsen__Q03]]

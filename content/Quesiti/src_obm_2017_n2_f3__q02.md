@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n2_f3__Q02
 parent: src_obm_2017_n2_f3
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 2 — Fase 3
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real equation in x,y,z; prove C=-1 and find solution*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ceJLHxP0cfpLSzd87sTIBuHF5zWsSVdm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione reale in x,y,z; prova C=-1 e trova la soluzione*
+
+> Sappiamo che $C$ è un numero reale e $x$, $y$, $z$ sono diversi numeri reali non zero che soddisfano: $$x + \frac{y}{z} = y + \frac{z}{x} = z + \frac{x}{y} = C.$$
+> 
+> a) Indicare che < MSK0/>.
+> 
+> b) Trova almeno una soluzione $(x, y, z)$ per l'equazione data.
+
+[[src_obm_2017_n2_f3__Q02]]

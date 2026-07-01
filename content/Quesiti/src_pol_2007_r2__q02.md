@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r2__Q02
 parent: src_pol_2007_r2
 competition: Olimpiade Matematica Polacca 2007 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a convex pentagon with given equalities and right angles, prove three segments form a triangle and find its angles given two angles.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LZVQNRmXGjFMUK1nE7-wezK2nSuE5Pma/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un pentagono convexo con le due uguali e gli angoli rettangolari dati, dimostrare che tre segmenti formano un triangolo e trovare i suoi angoli dati due angoli.*
+
+> Considera un pentagono convex $ABCDE$ con $BC=CD$, $DE=EA$ e $\angle BCD=\angle DEA=90^\circ$. Prova che $AC,CE$ e $EB$ sono lati di un triangolo e trova gli angoli di questo triangolo, sapendo che $\angle ACE=\alpha$ e $\angle BEC=\beta$.
+
+[[src_pol_2007_r2__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (finale nazionale) — Quesito B2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin_finale__QB2
 parent: src_kangourou_2005_benjamin_finale
 competition: Kangourou 2005 - Benjamin (finale nazionale)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eccedenza area del terreno mal delimitato*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4011 m2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kBPZIGFs3CfWtIRUJNAqXxrN8NLVFnWk/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Excess area of undefined land*
+
+![[src_kangourou_2005_benjamin_finale__probB2.png]]
+
+> A geometer had to delimit a portion of land so as to obtain a side square $2005$ m. The first bounded side is perpendicular to the second and the second to the third, but, by mistake, they measure in the order $2005$ m, $2006$ m, $2007$ m (i.e. the side measuring $2005$ m is the opposite of the side measuring $2007$ m). If the fourth side of the polygon is plotted by joining the two remaining free vertices, how many square meters is the delimited portion larger than expected?
+
+**Answer:** 4011 m2
+[[src_kangourou_2005_benjamin_finale__QB2]]

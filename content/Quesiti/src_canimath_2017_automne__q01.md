@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2017 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2017_automne__Q01
 parent: src_canimath_2017_automne
 competition: Coupe Animath Automne 2017
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Write 225 as a sum of 5 or 4 consecutive positive integers*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Escrivere 225 come somma di 5 o 4 integri positivi consecutivi*
+
+> Si può scrivere $225$ come la somma di $3$ numeri interi consecutivi: $225 = 74 + 75 + 76$. a) Può essere scritta come somma di < MSK3/> numeri interi consecutivi? b) Può essere scritta come la somma di < MSK4/> numeri interi consecutivi?
+
+[[src_canimath_2017_automne__Q01]]

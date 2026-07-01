@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2022 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_automne__Q03
 parent: src_canimath_2022_automne
 competition: Coupe Animath Automne 2022
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five integers on board; any triple product divisible by 10*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hAlr5oS_VPXWtAhgZvHeNt9W7CHb_zHz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cinque numeri interi a bordo; qualsiasi prodotto triplo divisibile per 10*
+
+> Aline ha scritto cinque numeri interi distinti su una lavagna con la seguente proprietà: qualunque sia la scelta di tre numeri interi distinti tra quelli scritti, il prodotto dei tre numeri scelti è divisibile per 10. Mostrare che uno dei cinque numeri interi scritti sulla tavola è divisibile per 10.
+
+[[src_canimath_2022_automne__Q03]]

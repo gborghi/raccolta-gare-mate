@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale A — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_a__Q15
 parent: src_gas_2010_semifinale_a
 competition: Gara a Squadre 2010 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima area quadrilatero in semicerchio con angoli dati*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0731
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum quadrilateral area in semicircle with data angles*
+
+> 15. The real pearl is in danger of being swallowed up in a vortex! The latter has the shape of an OABC quadrilateral, all contained in a semicircle of centre O and diameter AD. The point B is on the semicircular and the BOA angle is 60 degrees. The Dutch Dryer gives battle from a point E of the semicircle such that EOD measures 30 degrees. The point C belongs to the DE segment or to the EB arc, but unfortunately the viewpoint is not certain. Knowing that AD measures 56 m, how many square meters can it measure, at most, the area of the vortex?
+
+**Answer:** 0731
+[[src_gas_2010_semifinale_a__Q15]]

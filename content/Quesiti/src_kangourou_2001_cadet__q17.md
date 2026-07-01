@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Cadet (15 marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_cadet__Q17
 parent: src_kangourou_2001_cadet
 competition: Kangourou 2001 - Cadet (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giri totali quando si ritrovano*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Total turns when found< MSK1/>
+
+> Eros and Gianni are taking part in a track race. Each one runs at a constant speed: Eros makes 5 laps in 12 minutes; Gianni makes 3 laps in 10 minutes. Knowing that they started together from the starting line, after how many laps do they still cut the starting line together for the first time? It asks the total of the rounds taken by the two.
+>
+> - **(A)** 3
+> - **(B)** 43
+> - **(C)** 86
+> - **(D)** 90
+> - **(E)** 135.
+
+**Answer:** B
+[[src_kangourou_2001_cadet__Q17]]

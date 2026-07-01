@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q02
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di 6 con 5 dadi che totalizzano 19*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of 6 with 5 dice totaling 19*
+
+> Throwing five traditional dice, Giulia scores 19 points. What's the maximum number of 6 you can make? A) 0
+>        	
+> B) 1
+> 	
+> C) 2
+>      	
+> D) 3
+> 	
+> E) 4
+
+**Answer:** C
+[[src_kangourou_2023_student__Q02]]

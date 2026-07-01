@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2010 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2010__Q07
 parent: src_bocconi_autunno_2010
 competition: Giochi d'Autunno 2010
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Individuare la più giovane tra quattro amiche di cui una sola mente*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Milena
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Selecting the youngest of four friends with only one mind
+
+> THE FOUR FRIENDS Here are the statements made by four friends: Anna: "I am the oldest". Carla: "I am neither the oldest nor the youngest". Liliana: "I am not the youngest". Milena: "I am the youngest". Who, of the four friends, is actually the youngest?
+
+**Answer:** Milena
+[[src_bocconi_autunno_2010__Q07]]

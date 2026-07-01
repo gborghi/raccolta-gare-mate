@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f2__Q01
 parent: src_obm_2003_n2_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the area of square BEFG given the areas of squares ABCD and FHIJ*
 
@@ -47,3 +50,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sARgZdHvMaU-7zLZ37YU31RP3OKsBQ1b/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'area del BEFG quadrato data l'area dei quadrati ABCD e FHIJ*
+
+> Nel disegno accanto, il quadrato $ABCD$ ha superficie $30\,\text{cm}^2$ e il quadrato $FHIJ$ ha superficie $20\,\text{cm}^2$. I vertici $A$, $D$, $E$, $H$ e $I$ dei due quadrati si trovano sulla stessa linea retta. Calcolare la superficie del quadrato $BEFG$.
+
+![[src_obm_2003_n2_f2__Q01.png]]
+
+[[src_obm_2003_n2_f2__Q01]]

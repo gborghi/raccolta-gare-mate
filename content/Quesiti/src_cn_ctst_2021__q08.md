@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q08
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *kn-regular graph: find minimum mono-edge fraction c*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\dfrac{k(kn - n + 2)}{2(kn + 1)}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*kn-grafico regolare: trovare la frazione minima di monoreggio c*
+
+> Dato il numero intero positivo $k$ e $n$ ($n \ge 2$), si trova la costante minima $c$ che soddisfa questa affermazione: se $G$ è un semplice grafico $kn$ regolare (il grado di ogni vertice è $kn$) con vertici $m$, allora ogni vertice può essere colorato uno dei colori $n$, in modo tale che il numero di monoreggi (oreggi con entrambi i punti di fine dello stesso colore) sia al massimo $cm$. Qui, un monoreggio è un incidente di bordo a due vertici dello stesso colore.
+
+**Risposta:** \dfrac{k(kn - n + 2)}{2(kn + 1)}
+[[src_cn_ctst_2021__Q08]]

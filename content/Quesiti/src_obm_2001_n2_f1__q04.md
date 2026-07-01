@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q04
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Litres of water evaporated reducing pear water content from 90% to 60%*
 
@@ -48,3 +51,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Litr di acqua evaporata che riduce il contenuto di acqua di pera dal 90% al 60%*
+
+> Una pera ha circa $90\%$ acqua e $10\%$ materia solida. Un produttore mette $100$ chilogrammi di pere a secco fino a che la massa totale è $60\%$ acqua. Quanti litri di acqua evaporeranno? (Ricorda: < MSK4/> litro di acqua ha massa < MSK5/> chilogrammo.)
+> 
+> (A) $15$ litri \quad (B) $45$ litri \quad (C) $75$ litri \quad (D) $80$ litri \quad (E) $30$ litri
+
+**Risposta:** C
+[[src_obm_2001_n2_f1__Q04]]

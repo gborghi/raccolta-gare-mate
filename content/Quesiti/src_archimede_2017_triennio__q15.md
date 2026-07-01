@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_triennio__Q15
 parent: src_archimede_2017_triennio
 competition: Giochi di Archimede 2017 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Primi che restano primi cancellando cifre*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WbKYlCGmnvn3EnNy8PHpDbjgy_2zTYne/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First remaining first by deleting digits*
+
+> How many prime numbers are such that, if you delete from them any group of even non-consecutive digits (without deleting all of them) and you read the remaining digits in the order in which they are located, you still get a prime number? (Remember that 1 is not a prime number.)
+>
+> - **(A)** 8
+> - **(B)** 10
+> - **(C)** 5
+> - **(D)** 7
+> - **(E)** 3
+
+**Answer:** A
+[[src_archimede_2017_triennio__Q15]]

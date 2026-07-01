@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2024 — Selection Camp — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2024__Q11
 parent: src_selection_camp_2024
 competition: Japan IMO Selection Camp 2024 — Selection Camp
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n x n grid filled bijectively under a congruence; maximize adjacent +1 pairs*
 
@@ -48,3 +51,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PL_Bn-4WncGMxFABFvS--QrLAcF9eVC7/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*n x n griglia riempita bietivamente sotto una congruenza; massimizzare le coppie adiacenti +1*
+
+> $n$ sia un numero intero con $n \ge 2$. Ogni cella di una griglia $n \times n$ è riempita di uno dei numeri interi distinti da $1$ a $n^2$, ciascuna utilizzata esattamente una volta. $a_{i,j}$ sia il numero intero scritto nella cella della prima riga $i$ dall'alto e della seconda colonna $j$ dalla sinistra. Supponiamo le seguenti sostanze: $$\text{for all integers } i, j \text{ with } 1 \le i \le n,\ 1 \le j \le n, \quad n \mid a_{i,j} - (i + j - 1).$$ Determinare il numero massimo possibile di coppie $(i, j)$, con $1 \le i \le n$ e $1 \le j \le n-1$, in modo tale che $a_{i,j+1} = a_{i,j} + 1$.
+
+[[src_selection_camp_2024__Q11]]

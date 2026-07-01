@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q01
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di una espressione numerica*
 
@@ -44,3 +47,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of a numerical expression*
+
+> What 's the value of ? A) 1
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E) 49
+
+**Answer:** C
+[[src_kangourou_2023_student__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2011 - Gara a squadre — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2011_squadre__Q17
 parent: src_gs_2011_squadre
 competition: Coppa Fermat 2011 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Implicazioni tra risposte positive (logica)*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0015
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Implications between positive responses (logic) < MSK1/>
+
+![[src_gs_2011_squadre__prob17.png]]
+
+> In front of the Japanese Secret Service ninja, James Bond, an agent of the SIS (Secret Intelligence Service), fails to keep a joke: You are lower than the agents in SIS. Shocked with pride, Tiger, the ninja chief, asks him, "What do you mean? You mean
+> 
+> (1) Is every ninja lower than every SIS agent? (2) Is every ninja lower than some SIS agent? (3) Can the ninja and SIS agents be aligned in two rows, one facing the other, so that each ninja faces a higher SIS agent and each SIS agent faces a ninja? (4) Is the tallest of the SIS officers taller than the tallest of the ninja? (5) Is the lowest SIS agent higher than a higher number of ninjas than the lowest SIS agent higher than a higher number of ninjas? (6) Is the average height of ninja less than the average height of SIS agents?
+> 
+> James doesn't know what to say, but he tries to determine all the pairs of questions $(a, b)$ with $1 \le a \le 6$ and $1 \le b \le 6$ so that the "yes" answer to the first results in the "yes" answer to the second. How many of these couples are there?
+
+**Answer:** 0015
+[[src_gs_2011_squadre__Q17]]

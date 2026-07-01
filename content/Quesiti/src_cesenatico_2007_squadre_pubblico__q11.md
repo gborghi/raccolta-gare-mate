@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q11
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sequenze valide di 12 posizioni zodiaco a partire da tigre*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Valid sequences of 12 zodiac positions starting from tiger*
+
+> Magical positions [40] The signs of the morning zodiac are 12 like ours. Each sign has exactly two friends and one enemy sign. The two friends of one sign are always enemies of the other. A sign and its enemy always have the same two friend signs. Friendship and enmity are symmetrical. Mathematical techniques of mateninja require a rapid sequence of positions to be executed by hand. The different positions in the whole are 12, each called as the corresponding sign of the morning zodiac. In a sequence of valid positions the positions are all different, if a sign appears its enemy does not appear and two friends signs are never consecutive. How many are in all the valid position sequences that start with the tiger's position?
+
+[[src_cesenatico_2007_squadre_pubblico__Q11]]

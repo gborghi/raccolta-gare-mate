@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q19
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *alpha is the largest root of x^2+x-1=0; find alpha^3*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*alfa è la radice più grande di x^2+x-1=0; trovare alpha^3*
+
+> $\alpha$ sia la radice più grande di $x^2+x-1=0$. Il valore di $\alpha^3$ è: (A) $-1$ (B) $-2$ (C) $-3$ (D) 1 (E) 2
+
+**Risposta:** C
+[[src_obm_2002_n3_f1__Q19]]

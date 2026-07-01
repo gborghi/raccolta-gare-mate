@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_biennio__Q15
 parent: src_archimede_2014_biennio
 competition: Giochi di Archimede 2014 - Biennio (Testo 1)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Strada massima dell'ascensore visitando tutti i piani*
 
@@ -43,3 +46,14 @@ tags:
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Oz_wj_o5ytBhbhCTfVi7OLptFspmtFPH/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum elevator route by visiting all floors*
+
+> A traveling student wakes up in the morning and, from his seven-story hotel room (beyond the ground floor), takes the elevator to the ground floor and has breakfast. However, very sleepy, he repeatedly presses the wrong button and visits all the other floors (excluding his own) exactly once, before finally reaching the ground floor. Knowing your room isn't on the ground floor, how far down the elevator is it? (A) 29 floors, (B) 28 floors, (C) 27 floors, (D) 26 floors, (E) 25 floors.
+
+**Answer:** B
+[[src_archimede_2014_biennio__Q15]]

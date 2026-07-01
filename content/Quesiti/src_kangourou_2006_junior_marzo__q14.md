@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q14
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra rappresentata da A (KAN+KAG+KNG=2006)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number represented by A (KAN+KAG+KNG=2006) *
+
+> 14. Each letter represents a digit: the letters equal- + K A G represent the same digits and the letters different digits + K N G different. What number does the letter A represent? ------- A) 4 B) 5 C) 6 D) 7 E) 3 2 0 0 6
+
+**Answer:** B
+[[src_kangourou_2006_junior_marzo__Q14]]

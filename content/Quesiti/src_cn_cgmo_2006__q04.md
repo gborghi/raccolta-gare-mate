@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2006 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2006__Q04
 parent: src_cn_cgmo_2006
 competition: China Girls' Mathematical Olympiad 2006
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Eight persons party: find four mutual acquaintances or cyclic acquaintances*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Festa di otto persone: trovare quattro conoscenti reciproci o conoscenti ciclici*
+
+> Otto persone si uniscono a una festa. (1) Se ci sono tre persone che si conoscono in un gruppo di cinque, dimostri che possiamo trovare quattro persone che si conoscono. (2) Se ci sono tre persone in un gruppo di sei che si conoscono in modo ciclico, possiamo trovare quattro persone che si conoscono in modo ciclico?
+
+[[src_cn_cgmo_2006__Q04]]

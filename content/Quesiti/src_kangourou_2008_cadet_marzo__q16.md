@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q16
 parent: src_kangourou_2008_cadet_marzo
 competition: Kangourou 2008 - Cadet (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spezzate che dividono il quadrato in due aree uguali*
 
@@ -73,3 +76,30 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Squares dividing the square into two equal areas*
+
+![[src_kangourou_2008_cadet_marzo__prob16.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \draw[step=1,gray!60,thin] (0,0) grid (4,4);
+  \draw[thick] (0,0) rectangle (4,4);
+  \foreach \c/\r in {3/0, 1/1, 3/2, 1/3, 3/4}{
+    \fill (\c, 4-\r) circle (5pt);
+  }
+\end{tikzpicture}
+\end{document}
+```
+
+> On this grid, five points are highlighted. Of all the fractions connecting the 5 points formed by 4 consecutive segments, how many are those that divide the square into two regions of equal area? A) 0 B) 1 C) 2 D) 3 E) 4 1 2 3 4 5 Text_08.qxp 9-03-2008 14:56 Page 18
+> 
+> I'm going to pay. I'm going to pay. 19 19 Kang 2008 Kang
+
+**Answer:** D
+[[src_kangourou_2008_cadet_marzo__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q18
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti coefficienti binomiali C(37,k) divisibili per 5*
 
@@ -69,3 +72,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0020
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many binomial coefficients C(37,k) divided by 5*
+
+> The lot of Franquvia To fill the coffers of the kingdom, the Grand Chamberlain decided to launch a new type of lot. Each week two separate issues are drawn. If N is the largest and n the smallest, you have to guess how many of the numbers N 0 N 1 are. . . N k  . . . N N Team competition 2004  National stage  Problem texts  Pag. 3 di 4
+> 
+> are divisible by n. If the numbers 5 and 37 were extracted this week, what number did you have to bet on to win the Franquvia lottery? Remember that the binomial coefficient is the positive integer given by n k = n! k!(n−k)!.
+
+**Answer:** 0020
+[[src_cesenatico_2004_squadre__Q18]]

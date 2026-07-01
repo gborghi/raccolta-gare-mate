@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_pubblico__Q13
 parent: src_archimede_2002_pubblico
 competition: Archimede 2002 - Gara del Pubblico (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *distanza dal centro, somma dei quadrati*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8000
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* distance from the centre, sum of squares*
+
+> **The octagonal square ** (45 points)
+> 
+> The square in front of Professor Abacus' house is a regular octagon. Knowing that the distance between the centre of the square and any of the vertices is 4, calculate the first four digits of the product of the measurements (in meters) of the segments joining $A$ with all the other vertices.
+
+**Answer:** 8000
+[[src_archimede_2002_pubblico__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_semifinale1__Q07
 parent: src_archimede_2026_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2026 - Semifinale 1
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *AG^2 con triangoli equilateri su quadrato*
 
@@ -55,3 +58,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0573
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AG^2 with equilateral triangles on a square*
+
+![[src_archimede_2026_squadre_semifinale1__prob7.png]]
+
+> The decorated square Pietro Scaglioni By completing the task of Geomancy, Hardy draws an ABCD square of side 10 millibacches; Ron constructs two equilateral triangles: ABE inside the square and BCF outside the square. Hermite completes the configuration by adding the equilateral triangle EFG with G on the opposite side of B to EF. The spell will be triggered by declaring the value of AG2 (in square millibatches). What are the three friends supposed to say? A B C D E F G H K J
+
+**Answer:** 0573
+[[src_archimede_2026_squadre_semifinale1__Q07]]

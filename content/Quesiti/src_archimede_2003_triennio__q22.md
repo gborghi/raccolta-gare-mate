@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2003 - Triennio — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_triennio__Q22
 parent: src_archimede_2003_triennio
 competition: Giochi di Archimede 2003 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sottoinsiemi di {1..2003} con somma elementi data*
 
@@ -46,3 +49,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sub-sets of {1.2003} with the sum of the elements given< MSK1/>
+
+> Consider the sum of {1, 2, . . ., 2003}. How many of its subset B are such that the sum of the elements of B is equal to 2 007 000?
+>
+> - **(A)** There are none.
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 1002
+> - **(E)** 2003.
+
+[[src_archimede_2003_triennio__Q22]]

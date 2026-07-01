@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Triennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_triennio__Q12
 parent: src_archimede_2011_triennio
 competition: Giochi di Archimede 2011 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero coppie belle con ab=cd implica a+b=c+d*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of beautiful pairs with ab=cd implies a+b=c+d*
+
+> Let's say a pair of natural numbers (a, b) is nice if you choose a pair of natural numbers (c, d) that ab = cd, so a + b = c + d. How many beautiful couples are there?
+>
+> - **(A)** None of them.
+> - **(B)** One of them.
+> - **(C)** five,
+> - **(D)** seven,
+> - **(E)** More than eight.
+
+**Answer:** E
+[[src_archimede_2011_triennio__Q12]]

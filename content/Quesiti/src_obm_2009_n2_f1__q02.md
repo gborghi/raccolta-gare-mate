@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q02
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular hexagon from toothpicks; hexagon with 4x area needs how many toothpicks*
 
@@ -53,3 +56,18 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Sessagono regolare da picchi di denti; esagono con superficie 4x ha bisogno di quanti picchi di denti< MSK1/>
+
+> Utilizzando i coltelli da dente come corrispondenza, si può costruire un esagono regolare formato da sei triangoli equilaterali, come mostrato nella figura. Se si desidera costruire un altro esagono regolare la cui superficie è quattro volte quella del primo esagono, formato anche da triangoli unitari equilaterali, quante dentiere saranno necessarie?
+> 
+> **(A)** $12$ $\quad$ **(B)** $24$ $\quad$ **(C)** $30$ $\quad$ **(D)** $36$ $\quad$ **(E)** $48$
+
+![[src_obm_2009_n2_f1__Q02.png]]
+
+**Risposta:** D
+[[src_obm_2009_n2_f1__Q02]]

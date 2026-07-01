@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1979-80 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1979-80_round2__Q04
 parent: src_bmo_1979-80_round2
 competition: British Mathematical Olympiad 1979-80 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bridge tournament: each pair are opponents exactly once*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pcE5Ow0d5b65pZ5U_yh5rm_YSGB5k9Ly/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Torneo di ponte: ogni coppia è avversaria esattamente una volta
+
+> Dato un insieme di persone $n$, è desideroso organizzare una serie di giochi di bridge in modo tale che ogni due persone $n$ giocino come avversari in esattamente una partita. Mostrare che questo può essere fatto se e solo se $n$ è di forma $n = 4m+1$, dove $m$ è un intero positivo. (Non vi è alcuna limitazione sul numero di volte, se del caso, in cui due persone giocano come partner.)
+
+[[src_bmo_1979-80_round2__Q04]]

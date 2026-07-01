@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo13yq_yosen__Q03
 parent: src_jmo13yq_yosen
 competition: Japan Mathematical Olympiad 2003 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all primes p for which 2003 has a base-p digit sum of 15*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le prime p per le quali 2003 ha una somma di base-p di 15*
+
+> Che $p$ sia un primo e $m$ un intero positivo. Supponiamo che le cifre $m$ $a_{m-1}, a_{m-2}, \ldots, a_0$ nella base $p$ ( ciascuna soddisfa $0 \le a_i \le p - 1$) soddisfino $$\begin{cases} a_{m-1}\,p^{m-1} + a_{m-2}\,p^{m-2} + \cdots + a_0 = 2003, \\ a_{m-1} + a_{m-2} + \cdots + a_0 = 15. \end{cases}$$ Trovare tutte le prime $p$ per le quali tali cifre esistono.
+
+[[src_jmo13yq_yosen__Q03]]

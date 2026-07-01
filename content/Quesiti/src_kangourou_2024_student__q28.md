@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q28
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei due zeri di f con f(20-x)=f(22+x)*
 
@@ -54,3 +57,19 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the two zeros of f with f(20-x) = f(22+x) *
+
+> A function f, real and defined on the whole real axis, is such that f (20  x) = f (22 + x) for every value of x and is void for exactly two distinct values of x. What is the sum of these two values? A) – 1 B) 20
+> 	
+> C) 21
+> 	
+> D) 22 E) None of the preceding numbers 30 42 36 14 ?
+>
+
+**Answer:** E
+[[src_kangourou_2024_student__Q28]]

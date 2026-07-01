@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q17
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Product of all integers in a list of 2019 consecutive integers that sum to 2019*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Produzione di tutti gli integri in un elenco di numeri interi consecutivi del 2019 che sommano al 2019*
+
+> Jeroen scrive un elenco di $2019$ numeri interi positivi consecutivi. La somma dei suoi enti è $2019$.
+> 
+> Qual è il prodotto di tutti i numeri interi nella lista di Jeroen?
+>
+> - **(A)** $2019^0$
+> - **(B)** $\frac{2019 \times 2020}{2}$
+> - **(C)** $2^{2019}$
+> - **(D)** $2019$
+> - **(E)** $0$
+
+**Risposta:** E
+[[src_smc_2019__Q17]]

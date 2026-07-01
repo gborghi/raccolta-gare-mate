@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2014 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo24mq_honsen__Q02
 parent: src_jmo24mq_honsen
 competition: Japan Mathematical Olympiad 2014 — Honsen (Final)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer solutions of an exponential equation*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1suYUMYpD2iGEGY-rmTJaUSXMpm2mVi_0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le soluzioni a numeri interi positivi di un'equazione esponenziale*
+
+> Trova tutti i triples $(a,b,c)$ di numeri interi positivi che soddisfano $2^a + 3^b + 1 = 6^c$.
+
+[[src_jmo24mq_honsen__Q02]]

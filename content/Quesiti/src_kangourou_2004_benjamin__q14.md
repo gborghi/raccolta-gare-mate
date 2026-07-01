@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q14
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Min numero scatole per palline (MCD)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> Min number of boxes per ball (MCD) < MSK1/>
+
+> You got 108 red balls and 180 green balls. You want to distribute them in boxes, so that each box contains balls all of the same color and the number of balls is the same for each box. What's the minimum number of boxes you can run the operation? A) 288 B) 36 C) 18 D) 8 E) 2
+
+**Answer:** D
+[[src_kangourou_2004_benjamin__Q14]]

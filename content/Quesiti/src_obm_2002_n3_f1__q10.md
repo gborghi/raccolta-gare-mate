@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q10
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given xy=2 and x^2+y^2=5, evaluate x^2/y^2 + y^2/x^2 + 2*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dato che xy=2 e x^2+y^2=5, valutare x^2/y^2 + y^2/x^2 + 2*
+
+> Se $xy=2$ e $x^2+y^2=5$, allora $\dfrac{x^2}{y^2}+\dfrac{y^2}{x^2}+2$ è uguale a: (A) $\dfrac{5}{2}$ (B) $\dfrac{25}{4}$ (C) $\dfrac{5}{4}$ (D) $\dfrac{1}{2}$ (E) 1
+
+**Risposta:** B
+[[src_obm_2002_n3_f1__Q10]]

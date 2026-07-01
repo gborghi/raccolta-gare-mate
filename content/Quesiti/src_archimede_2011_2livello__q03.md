@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_2livello__Q03
 parent: src_archimede_2011_2livello
 competition: Archimede Gara 2° livello 2011 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione sempre vera su quoziente di divisione di polinomi*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Always true assertion on the coefficient of division of polynomials*
+
+> Julius writes a polynomial P1(x) and another polynomial P2(x), a product of first-degree factors, having a strictly higher degree than the previous one. If you divide P2(x) by P1(x), you get leftover 0. When indicating with Q(x) the quotient of this division, which of the following statements is always true?
+>
+> - **(A)** Q(x) can be a constant
+> - **(B)** If P2(a) = 0, then Q(a) = 0
+> - **(C)** There exists a real number such that P2(a) = Q(a) = 0
+> - **(D)** Q(x) certainly has a lower degree than P1(x)
+> - **(E)** If P1(a) is 0, then Q(a) is 0.
+
+**Answer:** C
+[[src_archimede_2011_2livello__Q03]]

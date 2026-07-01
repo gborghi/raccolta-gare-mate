@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1975 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1975_r3__Q03
 parent: src_pol_1975_r3
 competition: Olimpiade Matematica Polacca 1975 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest positive alpha for which some beta>0 gives sqrt(1+x)+sqrt(1-x)<=2-x^alpha/beta on [0,1], and the smallest such beta*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZj1pubsPzjyaS0gZ1wXauU_3x3XwBGJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova il più piccolo alfa positivo per il quale qualche beta>0 dà sqrt(1+x)+sqrt(1-x)<=2-x^alpha/beta su [0,1], e il più piccolo beta*
+
+> Trova il numero positivo $\alpha$ più piccolo per il quale esiste un numero positivo $\beta$ tale che per tutti $0 \le x \le 1$, $$\sqrt{1+x} + \sqrt{1-x} \le 2 - \frac{x^{\alpha}}{\beta}.$$ per ciascuna di tali $\alpha$ si determina il numero $\beta > 0$ più piccolo per il quale si applica questa condizione.
+
+[[src_pol_1975_r3__Q03]]

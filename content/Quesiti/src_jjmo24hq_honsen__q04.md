@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2026 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo24hq_honsen__Q04
 parent: src_jjmo24hq_honsen
 competition: Japan Junior Mathematical Olympiad 2026 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimize ratio of max to min under cyclic product constraint*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I0LRY7GCUGrK3CaQym2-0VxiENqQdLFa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Minimizzare il rapporto max/min sotto restrizione di prodotto ciclica< MSK1/>
+
+> I numeri reali positivi $x_1, x_2, \dots, x_{2026}$ soddisfano $$(x_1 + x_2)(x_2 + x_3) \cdots (x_{2025} + x_{2026})(x_{2026} + x_1) = 3^{2026}\, x_1 x_2 \cdots x_{2026}.$$ $M$ sia il valore massimo tra $x_1, x_2, \dots, x_{2026}$, e $m$ sia il valore minimo. Trova il minimo valore possibile di $\dfrac{M}{m}$.
+
+[[src_jjmo24hq_honsen__Q04]]

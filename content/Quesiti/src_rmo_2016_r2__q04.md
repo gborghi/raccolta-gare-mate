@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2016 — Region 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2016_r2__Q04
 parent: src_rmo_2016_r2
 competition: Regional Mathematical Olympiad 2016
@@ -37,6 +38,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 6-digit numbers with digits 1,2,3 where 3 appears exactly twice and divisible by 9*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cLh55MQ0c8qEjsnuwrJEj-kLk6kRe8sD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri a 6 cifre con cifre 1,2,3 dove 3 appare esattamente due volte e divisibile per 9*
+
+> Quanti numeri naturali a 6 cifre contenenti solo le cifre $1, 2, 3$ in cui $3$ si verifica esattamente due volte e il numero è divisibile da $9$?
+
+[[src_rmo_2016_r2__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_squadre__Q25
 parent: src_archimede_2001_squadre
 competition: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *raggio terza*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0013
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BmICgzhXXszLqAUxg8mhu_z1YXo7y9a6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>third radius < MSK1/>
+
+> The amount of the loan shall be calculated as follows:
+> 
+> There is a square next to the parliament building with three circular fountains. Two of them have a radius of 52 mm, are tangent externally and tangent to a tree-lined avenue. The third is tangent externally to the first two and the avenue. How many imometers is its radius?
+
+**Answer:** 0013
+[[src_archimede_2001_squadre__Q25]]

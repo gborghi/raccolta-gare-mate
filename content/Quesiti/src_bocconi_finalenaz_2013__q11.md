@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2013 — Quesito
   11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2013__Q11
 parent: src_bocconi_finalenaz_2013
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2013
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di gettoni allineati con cifre 1,2,3 diversi due a due*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of tokens aligned with digits 1,2,3 different from two to two*
+
+> Nando owns a large number of tokens; one of the digits $1, 2, 3$ appears on each of them. Aligning some of these tokens, the numbers of two adjacent tokens are always different from each other; the sum of their values is always different from the sum of the values of any other pair of adjacent tokens.
+> 
+> How many tokens did Nando use at most?
+
+**Answer:** 10
+[[src_bocconi_finalenaz_2013__Q11]]

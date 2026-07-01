@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1970 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1970_r3__Q06
 parent: src_pol_1970_r3
 competition: Olimpiade Matematica Polacca 1970 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest A bounding derivative at 0 for bounded quadratics on [0,1]*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NxvTqHB2h85LaOtFK6TUdaJR3QiuBzRI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova la più piccola derivata di confine A a 0 per quadratici di confine su [0,1]*
+
+> Trova il numero reale più piccolo $A$ in modo tale che, per ogni polinomio quadratico $f(x)$ che soddisfa $|f(x)| \le 1$ per $0 \le x \le 1$, tenga $f'(0) \le A$.
+
+[[src_pol_1970_r3__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q08
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del rettangolo ABCD con quadrato 9 cm2*
 
@@ -61,3 +64,34 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of the rectangle ABCD with square 9 cm2*
+
+![[src_kangourou_2021_junior_marzo__prob8.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.0]
+  \draw[thick] (0,0) rectangle (4, 3.5);
+  \draw (0, 2.0) -- (4, 2.0);
+  \draw (1.5, 0) -- (1.5, 3.5);
+  \fill[gray!30] (0, 2.0) rectangle (1.5, 3.5);
+  \node at (0.75, 2.75) {$9\,\mathrm{cm}^2$};
+  \node[below left] at (1.5, 0) {$A$};
+  \node[below right] at (4, 0) {$B$};
+  \node[above right] at (4, 2.0) {$C$};
+  \node[above left] at (1.5, 2.0) {$D$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Look at the figure. A rectangle of 30 cm perimeter is divided into four rectangles, one of which is a square of 9 cm2. How many centimeters does the perimeter of the ABCD rectangle measure ? A) 14 B) 16
+> 	
+> C) 18 D) 21 E) 24
+
+**Answer:** C
+[[src_kangourou_2021_junior_marzo__Q08]]

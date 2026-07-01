@@ -1,6 +1,7 @@
 ---
 title: IMO 1975 (Seventeenth International Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1975_all__Q03
 parent: src_imo_1975_all
 competition: IMO 1975 (Seventeenth International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *prove angle QRP=90 and QR=RP*
 
@@ -33,3 +36,13 @@ tags:
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TP79v6F2u-0eqTiBw6yUOXst22fnJsC9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*proves angle QRP=90 and QR=RP*
+
+> On the sides of an arbitrary $ABC$ triangle, the triangles $ABR$, $BCP$, $CAQ$ with $\angle CBP = \angle CAQ = 45^\circ$, $\angle BCP = \angle ACQ = 30^\circ$, $\angle ABR = \angle BAR = 15^\circ$ are constructed externally. Show that $\angle QRP = 90^\circ$ and $QR = RP$.
+
+[[src_imo_1975_all__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1970 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1970_r3__Q01
 parent: src_pol_1970_r3
 competition: Olimpiade Matematica Polacca 1970 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Choose semicircle point to maximize sum of triangle areas*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NxvTqHB2h85LaOtFK6TUdaJR3QiuBzRI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Scelta il punto di semicircolo per massimizzare la somma delle aree triangolari*
+
+> Il diametro $AB$ divide un cerchio in due semicerchi. I punti $P_1, P_2, \ldots, P_n$ sono indicati su uno dei semicircoli di questo ordine. Come si deve scegliere un punto $C$ sull'altro semicircolo per massimizzare la somma delle superfici dei triangoli $CP_1P_2, CP_2P_3, \ldots, CP_{n-1}P_n$?
+
+[[src_pol_1970_r3__Q01]]

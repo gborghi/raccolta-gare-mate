@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Biennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_biennio__Q10
 parent: src_archimede_2016_biennio
 competition: Giochi di Archimede 2016 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorni liberi comuni di Giulietta e Romeo*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1w98Us2ogDSfVMh4NQofZesTOzitRRSQB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Common days off of Juliet and Romeo
+
+> Giulietta is off work every Sunday (and no other day). Romeo works on a cruise ship: he stays at sea for 9 days, then has one day off before boarding again for another 9 days, and so on. Today, Wednesday, November 23, 2016, Romeo is ashore and will disembark tomorrow. How many days will Juliet and Romeo be able to spend together until November 23, 2017?
+>
+> - **(A)** 8
+> - **(B)** 5
+> - **(C)** 7
+> - **(D)** 6
+> - **(E)** 4
+
+**Answer:** B
+[[src_archimede_2016_biennio__Q10]]

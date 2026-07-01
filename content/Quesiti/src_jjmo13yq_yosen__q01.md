@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo13yq_yosen__Q01
 parent: src_jjmo13yq_yosen
 competition: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of shaded region of six-unit-square figure inscribed in a circle*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{5\pi}{2}-2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area di una regione ombrata di sei unità quadrate incise in un cerchio*
+
+> Una figura fatta di quadrati $6$, ciascuno di lunghezza laterale $1$, è inserita in un cerchio come mostrato. Trovare l'area della regione indicata dall'incubamento (la regione ombrosa). Prendete qui il rapporto tra la circonferenza di un cerchio e il suo diametro a $\pi$.
+
+![[src_jjmo13yq_yosen__Q01.png]]
+
+**Risposta:** \frac{5\pi}{2}-2
+[[src_jjmo13yq_yosen__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2011 — Matematica — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2011__Q01
 parent: src_cgen_2011
 competition: Concours Général des Lycées 2011 — Matematica
@@ -34,6 +35,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A rectangular bar of length 7 and width a is placed diagonally inside a 6 by 5 rectangular box; find which widths a are admissible.*
 
@@ -52,3 +55,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/163UddjoW74HzYM11ncOycs88qAZ5uQV4/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Una barra rettangolare di lunghezza 7 e larghezza a è collocata diagonalmente all'interno di una scatola rettangolare 6 per 5; scoprire quali larghezze a sono ammissibili.*
+
+> **Problema 1: Si inserisce nella scatola.**
+> 
+> La figura mostra una scatola rettangolare, disegnata come rettangolare $GFEH$ con $G$ in alto a sinistra, $F$ in alto a destra, $E$ in basso a destra e $H$ in basso a sinistra. Il lato inferiore $HE$ è lungo $6$ e il lato destro $FE$ è lungo $5$.
+> 
+> All'interno di questa scatola si colloca una barra rettangolare $ABCD$ (un lungo rettangolo sottile di larghezza $a$), inclinata diagonalmente in modo da toccare i lati della scatola: i suoi angoli $A$ e $D$ si trovano vicino all'angolo inferiore sinistro $H$, e i suoi angoli $C$ e $B$ si trovano vicino all'angolo superiore destro $F$. Il lato lungo della barra ha lunghezza $7$ e la sua larghezza è indicata come $a$ (indicato dal cerchio etichettato $a$ che indica il lato corto della barra vicino a $A$ e $D$). Gli angoli del bar sono angoli retti.
+> 
+> Quali valori di $a$ sono ammissibili (ad es. per quali larghezze $a$ la barra si adatta in questo modo)?
+
+![[src_cgen_2011__Q01.png]]
+
+[[src_cgen_2011__Q01]]

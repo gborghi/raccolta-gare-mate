@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2009 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2009__Q05
 parent: src_cn_cgmo_2009
 competition: China Girls' Mathematical Olympiad 2009
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a triple-product inequality for real numbers x,y,z >= 1.*
 
@@ -45,3 +48,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove una disuguaglianza del prodotto triplo per i numeri reali x,y,z >= 1.*
+
+> I numeri $x$, $y$, $z$ siano numeri reali superiori o uguali a $1$. Prove che $$(x^2 - 2x + 2)(y^2 - 2y + 2)(z^2 - 2z + 2) \le (xyz)^2 - 2xyz + 2.$$ (Posato da Xiong Bin)
+
+[[src_cn_cgmo_2009__Q05]]

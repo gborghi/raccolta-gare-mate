@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Cadet — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q15
 parent: src_kangourou_2019_cadet_semif
 competition: Kangourou 2019 Semifinale Cadet
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti modi scegliere n con percentuale rossa intera*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 19
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1phCvtzZl50ji_jVJDivksDRKk73y1EvN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many ways to choose n with whole red percentage*
+
+> (Points 6) Clear wants to colour each square of a grid 6×10 in red or blue. It requires that both colours are present and that the percentage of the surface which will be red after colouring is n%, with n being an integer. How many different ways can you choose n ?
+
+**Answer:** 19
+[[src_kangourou_2019_cadet_semif__Q15]]

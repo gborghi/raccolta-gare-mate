@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Ecolier (marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q08
 parent: src_kangourou_2007_ecolier_marzo
 competition: Kangourou 2007 Ecolier (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di scambiarsi i doni (3 amiche)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How to exchange gifts (3 friends)
+
+> For Christmas, three friends intend to exchange gifts in this way: each makes only one gift (not to herself, of course) and receives one. How many ways can the project be implemented? A) 1 B) 2 C) 3 D) 4 E) 5 Questions from N. 9 al N. 16 is worth 4 points each.
+
+**Answer:** B
+[[src_kangourou_2007_ecolier_marzo__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q11
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Resto di 2006 con stesso divisore (resto 5 su 1001)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>2006 remainder with the same divider (rest 5 out of 1001) < MSK1/>
+
+> If you divide 1001 by an appropriate one-digit number, you get 5. If you divide 2006 by the same number, what do you get? A) 2 B) 3 C) 4 D) 5 E) 6
+
+**Answer:** A
+[[src_kangourou_2006_student_marzo__Q11]]

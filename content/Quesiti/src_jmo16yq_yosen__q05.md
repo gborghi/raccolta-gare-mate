@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo16yq_yosen__Q05
 parent: src_jmo16yq_yosen
 competition: Japan Mathematical Olympiad 2006 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real triples satisfying a system of three equations*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $(1, 2, 3)$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i tripli reali che soddisfano un sistema di tre equazioni*
+
+> Trova tutti i triples dei numeri reali $(x, y, z)$ che soddisfano il seguente sistema di equazioni: $$x^2 - 3y - z = -8$$ $$y^2 - 5x - z = -12$$ $$z^2 - x - y = 6$$
+
+**Risposta:** $(1, 2, 3)$
+[[src_jmo16yq_yosen__Q05]]

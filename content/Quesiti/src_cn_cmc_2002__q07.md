@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2002 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2002__Q07
 parent: src_cn_cmc_2002
 competition: China Mathematical Competition 2002
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find ratio of complex numbers given moduli and angle between their vectors*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** $\dfrac{\sqrt{133}}{7}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il rapporto dei numeri complessi dati con i moduli e l'angolo tra i loro vettori*
+
+> È dato che i numeri complessi $z_1$, $z_2$ soddisfano $|z_1| = 2$ e $|z_2| = 3$. Se l'angolo incluso dei loro corrispondenti vettori è $60^\circ$, allora $\dfrac{z_1 + z_2}{z_1 - z_2} = $ \underline{\quad}.
+
+**Risposta:** $\dfrac{\sqrt{133}}{7}$
+[[src_cn_cmc_2002__Q07]]

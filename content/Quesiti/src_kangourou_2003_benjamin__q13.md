@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q13
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadrati B contenuti nel quadrato A*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*B squares contained in square A*
+
+![[src_kangourou_2003_benjamin__prob13.png]]
+
+> The rectangle in the figure is constructed by approximating 7 squares, some of which indicate the size of the side. The square A is the larger area, while the square B is the smaller area. How many squares like B can be contained, without overlapping, in square A? (a) 16 (b) 25 (c) 36 (d) 49 (e) cannot be answered without further information
+
+**Answer:** B
+[[src_kangourou_2003_benjamin__Q13]]

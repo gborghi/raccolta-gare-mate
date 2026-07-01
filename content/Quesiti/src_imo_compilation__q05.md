@@ -1,6 +1,7 @@
 ---
 title: IMO compilation 1959-2013 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_compilation__Q05
 parent: src_imo_compilation
 competition: IMO compilation 1959-2013
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *IMO 1997 problema 5*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.62](https://drive.google.com/file/d/1k6cpNRHvI9fVtF3vHCIOPLmdeEf70-V4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the case in the Member States.
+
+> Find all functions f, defined on the non-negative real numbers and taking non-negative real values, such that: (i) f(xf(y)) f(y) = f(x + y) for all x, y ≥0, (ii) f(2) = 0, (iii) f(x) = 0 for 0 ≤x < 2.
+
+[[src_imo_compilation__Q05]]

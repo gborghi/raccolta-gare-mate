@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo15yq_yosen__Q04
 parent: src_jmo15yq_yosen
 competition: Japan Mathematical Olympiad 2005 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability cumulative sum of dice equals exactly 6 at some point within 6 rolls*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\frac{1}{3}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Probabilità somma cumulativa di dadi equivale esattamente a 6 a un certo punto all'interno di 6 rulli*
+
+> Un dado equo (con facce numerate da $1$ a $6$) viene laminato ripetutamente. Qual è la probabilità che, ad un certo punto fino al 6° rollo e incluso, il totale di tutti i risultati corrispondenti sia esattamente $6$?
+
+**Risposta:** \frac{1}{3}
+[[src_jmo15yq_yosen__Q04]]

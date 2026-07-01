@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f2__Q08
 parent: src_obm_2010_n2_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-digit numbers equal to their digit-reversal image sum being a perfect square*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10R1d2hHb89ymd5y0yUy3PquhrN5L7XmC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri a due cifre uguali alla loro somma di immagine inversa a cifre essendo un quadrato perfetto*
+
+> Chiamiamo l'immagine di un numero naturale a due cifre il numero ottenuto invertendo l'ordine delle sue cifre. Ad esempio, l'immagine di $34$ è $43$. Quali numeri a due cifre, aggiunti alla loro immagine, danno un quadrato perfetto?
+
+[[src_obm_2010_n2_f2__Q08]]

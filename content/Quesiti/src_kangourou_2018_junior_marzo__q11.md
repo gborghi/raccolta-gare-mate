@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q11
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizione fermata che minimizza percorso totale studenti*
 
@@ -53,3 +56,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Stop position that minimizes total student path*
+
+> On the same road, 250 m apart, two student residences are built. The first building houses 100 students, the second 150 students. Every morning, everyone takes the same bus to class. Where will the bus stop be located if the sum of the journeys taken each morning by students from both residences to reach the bus stop is to be as small as possible?
+> 	
+> A) In front of the first building.
+> 	
+> B) 100 metres from the first building (and 150 metres from the second).
+> 	
+> C) 100 metres from the second building (and 150 metres from the first).
+> 	
+> 	
+> D) In front of the second building.
+> 	
+> E) Anywhere between the two buildings.
+
+**Answer:** D
+[[src_kangourou_2018_junior_marzo__Q11]]

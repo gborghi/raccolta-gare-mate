@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r1__Q01
 parent: src_pol_1999_r1
 competition: Olimpiade Matematica Polacca 1999 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove infinitely many of the numbers 50^n+(50n+1)^50 are composite.*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove infinitamente che molti dei numeri 50^n+(50n+1)^50 sono composti.*
+
+> Prova che tra i numeri $50^n + (50n+1)^{50}$, dove $n \in \mathbb{N}$, ci sono infinitamente molti numeri composti.
+
+[[src_pol_1999_r1__Q01]]

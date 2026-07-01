@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f3__Q02
 parent: src_obm_2015_n3_f3
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 3
@@ -40,6 +41,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest k so every 4n-element subset contains k pairs {a,b} with b multiple of a*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Nb_duiDR_R8LCNTWxc3_89vvpuVDJC1z/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La k più piccola, quindi ogni sottoinsieme di elementi 4n contiene k coppie {a,b} con b multiple di a*
+
+> Per esempio, < MSK0/>, < MSK1/>. Trovare il valore più grande di $k$ per il quale è corretto la seguente affermazione: ogni sottoinsieme $A$ di $S$ con $4n$ elementi ha almeno $k$ sottoinsiemi di due elementi $\{a, b\}$ con $a < b$ e $b$ un multiple di $a$.
+
+[[src_obm_2015_n3_f3__Q02]]

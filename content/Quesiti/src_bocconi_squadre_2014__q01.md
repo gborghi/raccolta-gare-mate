@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2014 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2014__Q01
 parent: src_bocconi_squadre_2014
 competition: Gara a Squadre 2014
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Moltiplicazione ciclica ILANOM × 4 = MILANO*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 410256, 615384, 923076
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK1/>Cyclic multiplication of ILANOM < MSK0/> 4 = MILAN< MSK2/>
+
+> Consider the following multiplication, knowing that equal letters have equal digits and different letters have different digits:
+> 
+> $$\text{ILANOM} \times 4 = \text{MILANO}$$
+> 
+> Write down all the possible numerical solutions for the word MILANO.
+
+**Answer:** 410256, 615384, 923076
+[[src_bocconi_squadre_2014__Q01]]

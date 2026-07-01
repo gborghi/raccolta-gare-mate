@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q20
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti dolcetti grandi comprati*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many large sweets were bought< MSK1/>
+
+> There are three types of candy: large, medium and small. Each large dessert costs 4 euros, each medium 2 euros and each small 1 euro. Clemente buys 10 candies, at least one per type, and pays 16 euros. How many big candies did Clemente buy? A) 3 B) 2 C) 1 D) 0 E) it is not possible to establish
+> 
+> I'm going to pay. I'm going to pay. 9 Kang 2003 Kang
+
+**Answer:** C
+[[src_kangourou_2003_ecolier__Q20]]

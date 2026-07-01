@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q15
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *parti rimaste*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.15](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The manufacturer shall provide the manufacturer with the following information:
+
+> The mother orders two pizzas and divides each into parts for her daughter Vera's birthday. $14$ guests, including Vera, are at the party. How many pizza pieces are left if Vera's mom gives each participant a piece?
+> 
+> (A) $5$ (B) $4$ (C) $3$ (D) $2$ (E) $1$
+
+**Answer:** D
+[[src_kangourou_2015_marzo_preecolier__Q15]]

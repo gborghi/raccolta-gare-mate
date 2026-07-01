@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1992 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1992__Q02
 parent: src_inmo_1992
 competition: Indian National Mathematical Olympiad 1992
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real numbers x,y,z with sum and sum of squares conditions; show x_i in [1/2,2]*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EOEsZB8HaiI0YQM_jwUKgpq-22uACryj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri reali x,y,z con la somma e la somma delle condizioni di quadrati; mostrare x_i in [1/2,2]*
+
+> Se i numeri reali $x, y, z$ soddisfano $x + y + z = 4$ e $x^2 + y^2 + z^2 = 6$, indicare che ciascuno di $x, y, z$ si trova nel segmento $\left[\tfrac{1}{2}, 2\right]$. Può $x$ raggiungere uno dei punti finali del segmento?
+
+[[src_inmo_1992__Q02]]

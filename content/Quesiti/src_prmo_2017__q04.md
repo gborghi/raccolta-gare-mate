@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q04
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest a+b for negative-integer roots of product of two quadratics*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Migliore a+b per le radici di numeri interi negativi del prodotto di due quadratici*
+
+> Lasciate che $a, b$ siano integri in modo tale che tutte le radici dell'equazione $(x^2 + ax + 20)(x^2 + 17x + b) = 0$ siano integri negativi. Qual è il minimo valore possibile di $a + b$?
+
+[[src_prmo_2017__Q04]]

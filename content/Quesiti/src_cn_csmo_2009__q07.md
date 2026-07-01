@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2009 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2009__Q07
 parent: src_cn_csmo_2009
 competition: China Southeastern Mathematical Olympiad 2009
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find max and min of a rational function on the unit simplex*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $f_{\min}=0,\; f_{\max}=\frac{1}{2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il massimo e il minimo di una funzione razionale sull'unità simplex*
+
+> Let $f(x, y, z) = \frac{x(2x - y)}{1 + x + 3y} + \frac{y(2y - z)}{1 - y + 3z} + \frac{z(2z - x)}{1 + z + 3x}$, dove $x, y, z \ge 0$ e $x + y + z = 1$. Trova il valore massimo e il valore minimo di $f(x, y, z)$. (Posato da Liu Shenglong)
+
+**Risposta:** f_{\min}=0,\; f_{\max}=\frac{1}{2}
+[[src_cn_csmo_2009__Q07]]

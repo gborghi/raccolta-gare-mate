@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q12
 parent: src_kangourou_2019_benjamin_marzo
 competition: Kangourou 2019 Gara di Marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale solido richiede piu vernice (superficie maggiore)*
 
@@ -45,3 +48,17 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mCVu8mcZWozh4A9IixxiUAmKQbLsElwm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which solid requires more paint (greater surface area) < MSK1/>
+
+![[src_kangourou_2019_benjamin_marzo__prob12.png]]
+
+> Using a few cubes that are all the same, Michele built the five solids you see in the figures and now he wants to paint them. They all have the base of eight cubes. Which one requires the most paint? A) B) C) D) E)
+>
+
+**Answer:** A
+[[src_kangourou_2019_benjamin_marzo__Q12]]

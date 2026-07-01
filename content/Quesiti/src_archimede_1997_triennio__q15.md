@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_triennio__Q15
 parent: src_archimede_1997_triennio
 competition: Giochi di Archimede 1997 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Semplificazione di una espressione con radicali*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Simplification of an expression with radicals*
+
+> How much is 5p 2 4√ 2?
+>
+> - **(A)** 20√ 2
+> - **(B)** 9√ 2
+> - **(C)** 4√ 2
+> - **(D)** 20√ 29
+> - **(E)** 20√ 4.
+
+**Answer:** C
+[[src_archimede_1997_triennio__Q15]]

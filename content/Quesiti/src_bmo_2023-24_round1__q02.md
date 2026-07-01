@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2023-24 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2023-24_round1__Q02
 parent: src_bmo_2023-24_round1
 competition: British Mathematical Olympiad 2023-24 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a0 and a1 consecutive given a2023 and a2024 consecutive*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HxyyQRZG-uF-_xr4kAim-DRrspCi3jp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove a0 e a1 consecutive date a2023 e a2024 consecutive*
+
+> La sequenza $a_0, a_1, \ldots$ ha la proprietà che per ogni $i \ge 2$, $a_i$ è $2a_{i-1} - a_{i-2}$ o $2a_{i-2} - a_{i-1}$.
+> 
+> Dato che $a_{2023}$ e $a_{2024}$ sono numeri interi consecutivi, dimostrare che $a_0$ e $a_1$ sono numeri interi consecutivi.
+> 
+> (Nota che 6 e 7 sono numeri interi consecutivi, così come 7 e 6.)
+
+[[src_bmo_2023-24_round1__Q02]]

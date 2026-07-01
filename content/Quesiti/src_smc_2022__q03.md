@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2022 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2022__Q03
 parent: src_smc_2022
 competition: Senior Mathematical Challenge 2022
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count the number of parallelograms in a figure of a regular hexagon divided into triangles.*
 
@@ -54,3 +57,22 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare il numero di parallelo in una figura di esagono regolare divisa in triangoli.*
+
+> La figura mostra un esagono regolare. Quanti paralleloogrammi ci sono nella figura?
+>
+> - **(A)** 2
+> - **(B)** 4
+> - **(C)** 6
+> - **(D)** 8
+> - **(E)** più di 8
+
+![[src_smc_2022__Q03.png]]
+
+**Risposta:** C
+[[src_smc_2022__Q03]]

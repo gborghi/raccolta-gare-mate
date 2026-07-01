@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q10
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle unita del prodotto (5^5+1)(5^10+1)(5^15+1)*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of units of the product (5^5+1)
+
+> What is the number of units in the product (55 + 1)(510 + 1)(515 + 1)? A) 1
+>          	
+> B)  2
+>   	
+> C) 4 D)  5
+>     	
+> E) 6 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** E
+[[src_kangourou_2023_student__Q10]]

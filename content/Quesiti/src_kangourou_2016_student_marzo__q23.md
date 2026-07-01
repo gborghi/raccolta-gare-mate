@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q23
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante parabole ad asse verticale per 3 punti anneriti*
 
@@ -67,3 +70,40 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many vertical-axis parabolas for 3 blackened points*
+
+![[src_kangourou_2016_student_marzo__prob23.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw[gray!40, thin] (0,0) grid (4,4);
+  \draw[->] (0,0) -- (4.3,0) node[right] {$x$};
+  \draw[->] (0,0) -- (0,4.3) node[above] {$y$};
+  \node[below left] at (0,0) {$O$};
+  \foreach \i in {1,2,3} {
+    \foreach \j in {1,2,3} {
+      \fill (\i, \j) circle (2pt);
+    }
+  }
+\end{tikzpicture}
+\end{document}
+```
+
+> How many parables with a vertical axis pass through three of the blackened points in the figure? A) 6
+> 	
+> B) 15
+> 	
+> C) 19
+> 	
+> D) 22
+> 	
+> E) 27
+
+**Answer:** D
+[[src_kangourou_2016_student_marzo__Q23]]

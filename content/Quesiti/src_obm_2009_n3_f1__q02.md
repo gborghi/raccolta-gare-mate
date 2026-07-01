@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q02
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers m,n with 15m=20n; mn is necessarily a multiple of which value.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Interi positivi m,n con 15m=20n; mn è necessariamente un multiple di cui il valore.*
+
+> I numeri interi positivi $m$ e $n$ soddisfano $15m = 20n$. Poi è possibile affermare, con certezza, che $mn$ è un multiple di: (A) $5$ (B) $10$ (C) $12$ (D) $15$ (E) $20$
+
+[[src_obm_2009_n3_f1__Q02]]

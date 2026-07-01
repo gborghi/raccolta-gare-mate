@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q07
 parent: src_kangourou_2008_cadet_marzo
 competition: Kangourou 2008 - Cadet (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spigoli del cubo con vertici tagliati*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Cut-top cube mirrors< MSK1/>
+
+![[src_kangourou_2008_cadet_marzo__prob7.png]]
+
+> All of its vertices were cut into a cube, as shown in the figure. How many branches does the new solid thus obtained possess? A) 26 B) 30 C) 36 D) 40 E) 48
+
+**Answer:** C
+[[src_kangourou_2008_cadet_marzo__Q07]]

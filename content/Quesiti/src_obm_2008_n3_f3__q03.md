@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f3__Q03
 parent: src_obm_2008_n3_f3
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum of symmetric rational expression under constraint x+y+z=xy+yz+zx*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Xdlk10kOctV84Jj1WlZYi4mgeMhHN8nP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di espressione razionale simmetrica sotto vincolo x+y+z=xy+yz+zx*
+
+> $x, y, z$ siano numeri reali che soddisfino $x + y + z = xy + yz + zx$. Trova il valore minimo di $$\frac{x}{x^2+1} + \frac{y}{y^2+1} + \frac{z}{z^2+1}.$$
+
+[[src_obm_2008_n3_f3__Q03]]

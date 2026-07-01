@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Semifinale 2 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_semifinale2__Q01
 parent: src_squadre_2024_semifinale2
 competition: Gara a Squadre 2024 - Semifinale 2
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massime strette di mano tra 35 partecipanti in due fazioni*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0306
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum handshakes between 35 participants in two factions< MSK1/>
+
+> Party at SherLog Hodge Castle, the famous detective, covertly watches the 33 party participants. He knows that some are on his side, while others are loyal to his bitter enemy, Mongearty. Some participants shake hands, but only if they didn't know each other before. Knowing that members of the same faction already knew each other, how many handshakes did SherLog observe?
+
+**Answer:** 0306
+[[src_squadre_2024_semifinale2__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q06
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of (a+b)^2/(ab) given (a+2b)/b = (a+b)/a*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta di (a+b)^2/(ab) data (a+2b)/b = (a+b)/a*
+
+> Che $a, b$ siano valori reali positivi tali che $\dfrac{a+2b}{b} = \dfrac{a+b}{a}$. Il valore di $\dfrac{(a+b)^2}{ab}$ è:
+> 
+> (A) $4$ \quad (B) $3+\sqrt{3}$ \quad (C) $2+2\sqrt{2}$ \quad (D) $2+\sqrt{5}$ \quad (E) $5$
+
+**Risposta:** E
+[[src_obm_2013_n3_f1__Q06]]

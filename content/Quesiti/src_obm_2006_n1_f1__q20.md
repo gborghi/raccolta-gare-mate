@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q20
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Planet POT: weeks per month given unusual time units*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*POP planetario: settimane al mese, date unità temporali insolite*
+
+> Sul pianeta POT, il numero di ore al giorno equivale al numero di giorni alla settimana, che equivale al numero di settimane al mese, che equivale al numero di mesi all'anno. Sapendo che in POT ci sono 4096 ore all'anno, quante settimane ci sono in un mese?
+>
+> - **(A)** 8
+> - **(B)** 12
+> - **(C)** 64
+> - **(D)** 128
+> - **(E)** 256
+
+**Risposta:** A
+[[src_obm_2006_n1_f1__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q03
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Football team: wins/draws from 31 matches*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equipe di calcio: vittorie/pareggio da 31 partite*
+
+> Una squadra di calcio ha vinto 8 partite in più di quelle perdute e ha fatto 3 gare in meno di quelle vinte. Quante partite ha vinto, se ha giocato 31 partite in totale?
+>
+> - **(A)** 11
+> - **(B)** 14
+> - **(C)** 15
+> - **(D)** 17
+> - **(E)** 23
+
+**Risposta:** B
+[[src_obm_2006_n1_f1__Q03]]

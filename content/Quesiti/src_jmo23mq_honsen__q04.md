@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2013 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo23mq_honsen__Q04
 parent: src_jmo23mq_honsen
 competition: Japan Mathematical Olympiad 2013 — Honsen (Final)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove KD bisects angle BKC via radical axis foot*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PB6QVfFVyF4M6--riIsWoTuMBhLU_5t7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Prove che KD taglia l'angolo BKC attraverso il piede dell'asse radicale< MSK1/>
+
+> Il $ABC$ deve essere un triangolo acuto con il centro orto $H$. Il cerchio che attraversa i punti $B$ e $C$ e il cerchio con segmento $AH$ come diametro si intersecano a due punti distinti $X, Y$. Il $D$ deve essere il piede della perpendicolare da $A$ alla linea $BC$, e il $K$ deve essere il piede della perpendicolare da $D$ alla linea $XY$. Prove che $\angle BKD = \angle CKD$.
+
+[[src_jmo23mq_honsen__Q04]]

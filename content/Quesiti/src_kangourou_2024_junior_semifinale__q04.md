@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Junior 2024 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q04
 parent: src_kangourou_2024_junior_semifinale
 competition: Kangourou Semifinale individuale Junior 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di spagnoli con 143 strette di mano*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of Spaniards with 143 handshakes
+
+> (Point 4) At a party at the Italian Embassy a number of Spaniards and some Frenchmen were invited, more than one for each nationality and more than one Italianman was also present. Every Italian welcomes every foreign guest once and only once with a handshake and there are no other handshakes: in the end, the handshakes total 143. How many Spaniards could there be at most? A) 7 B) 8 C) 9 D) 10 E) 11 Answer: E). The solution. The number of handshakes is the product of the number of Italians with the sum of the number of Spaniards and the number of Frenchmen. If we want to express 143 as the product of integers, there are only two possibilities: 1 × 143 and 11 × 13. The first is to be ruled out as a hypothesis. So the foreigners could be a maximum of 13 and then the Spanish a maximum of 13  2 = 11.
+
+**Answer:** E
+[[src_kangourou_2024_junior_semifinale__Q04]]

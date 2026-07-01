@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 1) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g1__Q12
 parent: src_bocconi_finaleint_2010_g1
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di lati di un poligono di Pogo decomponibile in triangoli rettangoli 30-60-90.*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of sides of a polygon of Pogo decomposable into rectangular triangles 30-60-90.*
+
+> Pogo's polygons are convex. They can be cut into rectangular triangles whose sharp angles measure $30^\circ$ and $60^\circ$. What is the maximum number of sides of a Pogo polygon?
+
+**Answer:** 12
+[[src_bocconi_finaleint_2010_g1__Q12]]

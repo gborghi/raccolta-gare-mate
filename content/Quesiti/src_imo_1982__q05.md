@@ -1,6 +1,7 @@
 ---
 title: IMO 1982 (23rd International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1982__Q05
 parent: src_imo_1982
 competition: IMO 1982 (23rd International Mathematical Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find ratio r making B, M, N collinear in hexagon*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find ratio r making B, M, N hillinear in hexagon*
+
+> The diagonal $AC$ and $CE$ of the regular hexagon $ABCDEF$ are divided by the interior points $M$ and $N$, respectively, so that $$\frac{AM}{AC} = \frac{CN}{CE} = r.$$ Determine $r$ knowing that $B$, $M$ and $N$ are collinear.
+
+[[src_imo_1982__Q05]]

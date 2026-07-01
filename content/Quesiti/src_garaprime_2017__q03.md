@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2017 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2017__Q03
 parent: src_garaprime_2017
 competition: Gara Nazionale Classi Prime 2017
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area di triangolo equilatero da quattro triangolini interni*
 
@@ -58,3 +61,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Equilateral triangle area with four inner triangles*
+
+![[src_garaprime_2017__prob3.png]]
+
+> The ABC triangle is equilateral. The four grey triangles in the figure are also equilateral and their areas are 1, 4, 9 and 16. What's the area of ABC? A B C 1 16 4 9 H K P Q R S Figure 1 A 121 B 100 C 101 D 144 E 120 F cannot be determined by the data provided alone
+
+**Answer:** A
+[[src_garaprime_2017__Q03]]

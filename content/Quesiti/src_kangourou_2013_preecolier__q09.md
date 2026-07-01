@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Pre-Ecolier — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_preecolier__Q09
 parent: src_kangourou_2013_preecolier
 competition: Kangourou 2013 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Mele che ha ora Michele dopo scambi*
 
@@ -44,3 +47,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ykejBpK7Wiwv-x_5BvjdytAue5Y_N6nU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+More than Michele has now after exchanges
+
+> The father gives five apples to each of his three children. Anna gives three apples to Sonia and then Sonia gives half her apples to Michele. How many apples does Michele have now? A) 4
+> 	
+> B) 5
+> 	
+> C) 7
+> 	
+> D) 8
+> 	
+> E) 9
+
+**Answer:** E
+[[src_kangourou_2013_preecolier__Q09]]

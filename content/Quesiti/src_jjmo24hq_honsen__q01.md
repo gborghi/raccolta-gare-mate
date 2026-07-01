@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2026 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo24hq_honsen__Q01
 parent: src_jjmo24hq_honsen
 competition: Japan Junior Mathematical Olympiad 2026 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Grid integers with adjacency and per-row-pair conditions, find max n*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I0LRY7GCUGrK3CaQym2-0VxiENqQdLFa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integri di griglia con condizioni di adiacenza e di coppia a fila, trovare max n*
+
+> $n$ sia un numero intero con $n \ge 2$. Scriviamo un intero in ogni cella di una griglia con le righe $n$ e le colonne $2026$. La scrittura è fatta in modo che, per due celle adiacenti sinistra-destra, il numero intero scritto nella cella destra sia uguale al numero intero scritto nella cella sinistra o sia esattamente $1$ maggiore. Inoltre, per due integri distinti $i, j$ e $1 \le i, j \le n$, sono soddisfatte entrambe le seguenti due condizioni:
+> 
+> - Esiste un numero intero $k$ con $1 \le k \le 2026$ tale che l'intero scritto nella cella della riga $i$ (da sopra) e della colonna $k$ (da sinistra) differisca dal numero intero scritto nella cella della riga $j$ (da sopra) e dalla colonna $k$ (da sinistra). - Esiste un numero intero $k$ con $1 \le k \le 2026$ tale che l'intero scritto nella cella della riga $i$ (da sopra) e la colonna $k$ (da sinistra) sia uguale all'intero scritto nella cella della riga $j$ (da sopra) e alla colonna $k$ (da sinistra).
+> 
+> Trova il valore più grande che $n$ può assumere.
+
+[[src_jjmo24hq_honsen__Q01]]

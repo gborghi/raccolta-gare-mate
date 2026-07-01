@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q30
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra d nel prodotto di sei interi consecutivi a 12 cifre*
 
@@ -58,3 +61,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number d in the product of six consecutive integers of 12 digits< MSK1/>
+
+> The product of six consecutive integers is a 12-digit number of the form abb cdd cdd abb, where the digits a, b, c and d are, in appropriate order, consecutive digits. What 's the value of the number d ? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 5
+> 
+> C C B D B A D
+
+**Answer:** C
+[[src_kangourou_2023_student__Q30]]

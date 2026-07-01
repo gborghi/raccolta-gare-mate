@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1997 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1997__Q04
 parent: src_inmo_1997
 competition: Indian National Mathematical Olympiad 1997
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *100 rays from square center divide square into 100 equal parts; bound p*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SA7DeUVRAagzjUC6Q6y2b9m6tHkKLIIy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*100 raggi dal centro quadrato dividono il quadrato in 100 parti uguali; p*
+
+> Un centinaio di raggi che emanano dal centro di un quadrato dividono il quadrato in parti $100$, tutte uguali di perimetro $p$. Mostra che $1.4 < p < 1.5$.
+
+[[src_inmo_1997__Q04]]

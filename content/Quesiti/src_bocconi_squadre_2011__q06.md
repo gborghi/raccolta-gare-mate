@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2011 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2011__Q06
 parent: src_bocconi_squadre_2011
 competition: Gara a Squadre 2011
@@ -32,6 +33,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Litri d'acqua versati dalla fontana a sei livelli*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6,4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csoOdxkAD8Fd4QvzRpEPzVVVOCkJ8l1C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Litres of water poured from the fountain at six levels*
+
+> The fountain in the figure is built on six levels. At each level, each basin pours half its water into each of the two basins below it. How many liters of water were initially poured into the one tank on the first level (the upper one) knowing that the white tank (the second one on the left of the lower level) collected one litre of water?
+
+![[src_bocconi_squadre_2011__Q06.png]]
+
+**Answer:** 6,4
+[[src_bocconi_squadre_2011__Q06]]

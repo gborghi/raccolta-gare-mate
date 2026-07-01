@@ -1,6 +1,7 @@
 ---
 title: IMO 1966 (VIII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1966__Q05
 parent: src_imho_1966
 competition: IMO 1966 (VIII International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Solve a symmetric system of four linear equations*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Solves a symmetric system of four linear equations*
+
+> Solve the system of equations $$|a_2 - a_1|\, x_1 + |a_3 - a_1|\, x_2 + |a_4 - a_1|\, x_3 = 1$$ $$|a_1 - a_2|\, x_1 + |a_3 - a_2|\, x_2 + |a_4 - a_2|\, x_3 = 1$$ $$|a_1 - a_3|\, x_1 + |a_2 - a_3|\, x_2 + |a_4 - a_3|\, x_3 = 1$$ $$|a_1 - a_4|\, x_1 + |a_2 - a_4|\, x_2 + |a_3 - a_4|\, x_3 = 1$$ where $a_1, a_2, a_3, a_4$ are four different real numbers.
+
+[[src_imho_1966__Q05]]

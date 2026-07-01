@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1966 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1966_r3__Q03
 parent: src_pol_1966_r3
 competition: Olimpiade Matematica Polacca 1966 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Nonneg reals summing to $\le\frac{1}{2}$: product $(1-x_i)\ge\frac{1}{2}$*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cdDIGmzl1s3W08zQNcKL0HCsVXJ-v1sZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK2/>Nonneg reals sommati a < MSK0/>: prodotto < MSK1/> < MSK3/>
+
+> Se i numeri reali non negativi $x_1, x_2, \ldots, x_n$ soddisfano $x_1 + \cdots + x_n \le \frac{1}{2}$, dimostrare che $$( 1 - x_1)(1 - x_2) \cdots (1 - x_n) \ge \frac{1}{2}.$$
+
+[[src_pol_1966_r3__Q03]]

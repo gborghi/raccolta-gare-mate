@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre finale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q13
 parent: src_kangourou_2012_squadre_finale
 competition: Kangourou 2012 squadre finale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di due cifre la cui riduzione iterata da 0*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 24
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Two-digit numbers whose reduction is iterated by 0*
+
+> Reducing a positive integer greater than or equal to 10 means that we multiply its digits by them. Of course, the reduction operation can be iterated (i.e. repeated on the result obtained): for example, doing it twice consecutively on number 57, you get 15. How many positive integers of two digits are such that, iterating on them the reduction operation, at some point you get 0?
+
+**Answer:** 24
+[[src_kangourou_2012_squadre_finale__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo24yqa_yosen__Q04
 parent: src_jjmo24yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest n with n, n+1, ..., n+7 all semi-integers*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 10046
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova la n più piccola con n, n+1, ..., n+7 tutti i semi-integer*
+
+> Un intero positivo è chiamato **semi-integer** se la sua media digitali (la somma delle sue cifre divisa per il numero di cifre) non è un intero. Ad esempio, $2026$ è un seminteger perché $\frac{2+0+2+6}{4} = \frac{10}{4}$ non è un intero. Trovare il più piccolo intero positivo $n$ in modo tale che ognuno di $n, n+1, n+2, \ldots, n+7$ sia un semi-integer.
+
+**Risposta:** 10046
+[[src_jjmo24yqa_yosen__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2021 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_printemps__Q02
 parent: src_canimath_2021_printemps
 competition: Coupe Animath Printemps 2021
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Card deck ratio: black twice red, then add 4 black to make triple (college)*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Relazione del mazzo di carte: nero due volte rosso, poi aggiungere 4 neri per fare triplice (college) < MSK1/>
+
+> In un mazzo di carte composto solo da carte rosse e carte nere, ci sono $2$ volte più carte nere di quelle rosse. Se si aggiungono carte nere $4$, ci sono poi $3$ volte più carte nere di carte rosse. Quante carte contenevano il mazzo prima che le carte nere < MSK3/> fossero aggiunte?
+> 
+> *Solo una risposta numerica è prevista qui.*
+
+**Risposta:** 12
+[[src_canimath_2021_printemps__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo11yq_yosen__Q05
 parent: src_jjmo11yq_yosen
 competition: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ratio AE:EC in isosceles right triangle with 45-degree angle*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 13:5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KqvofIIXgEWPDHUAZMRGkscvso3ZVrK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ratio AE:EC in triangolo rettangolare con angolo di 45 gradi *
+
+> C'è un triangolo di uguali dimensioni $ABC$ in cui $\angle BAC$ è un angolo retto. C'è un punto $D$ sul lato $BC$ e un punto $E$ sul lato $CA$ con $\angle ADE=45^\circ$. Se $BD:DC=1:5$ viene dato, si trova $AE:EC$. Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.
+
+**Risposta:** 13:5
+[[src_jjmo11yq_yosen__Q05]]

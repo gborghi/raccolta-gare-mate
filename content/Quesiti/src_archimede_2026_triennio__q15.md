@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_triennio__Q15
 parent: src_archimede_2026_triennio
 competition: Giochi di Archimede 2026 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo isoscele con BC=BP, rapporto BC/AB e parallelogramma*
 
@@ -50,3 +53,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Isosceles triangle with BC=BP, ratio BC/AB and parallelogram*
+
+> Emma is busy painting the faces of a large number of cubes. It's available in seven different colors. In each cube, you want to color one face of one color, two other faces of another color and the other three of another color. How many cubes, at most, can you color in different ways? (the colours of two cubes shall be considered the same if, moving them in any way, they do not appear distinguishable from the colours of the faces) 
+>
+> - **(A)** 630
+> - **(B)** 840
+> - **(C)** 420
+> - **(D)** 1050
+> - **(E)** 210
+
+[[src_archimede_2026_triennio__Q15]]

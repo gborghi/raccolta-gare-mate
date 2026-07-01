@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - finale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q03
 parent: src_kangourou_2021_junior_finale
 competition: Kangourou 2021 Junior - finale
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo travasi per ripristinare 10 recipienti*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum time to restore 10 containers< MSK1/>
+
+![[src_kangourou_2021_junior_finale__prob3.png]]
+
+> Ten containers, not necessarily of the same capacity, which we can consider unlimited, each contain water, not necessarily in the same quantity. We make some transitions between the containers; for each container, at each transition, we write down the amount of water that is in or out. For example, mark the containers with A, B, etc. And using the same unit of measurement, we could have an annotation like
+> 
+> This is the first time I've ever seen a person who's been in a relationship with a woman who's been in a relationship with a man who's been in a relationship with a woman who's been in a relationship with a man who's been in a relationship with a woman who's been in a relationship with a man who's been in a relationship with a woman who's been in a relationship with a man who's been in a relationship with a woman who's been in a relationship with a man who's been in a relationship with a woman who's been in a relationship with a man who's been in a relationship with a man who's been in a relationship with a woman who's been in a relationship with a woman who's been in a relationship with a man who's been in a relationship with a man who's been in a relationship with a woman who's been in a relationship with a man who's been in a relationship with a man who's been in a relationship with a relationship with a woman who's been in a relationship with her.
+> 
+> At the end of these operations, the initial amount of water in each container is to be restored, thus minimizing the number of transis. If we adopt a proper strategy, how many frames will be needed, at most?
+
+**Answer:** 9
+[[src_kangourou_2021_junior_finale__Q03]]

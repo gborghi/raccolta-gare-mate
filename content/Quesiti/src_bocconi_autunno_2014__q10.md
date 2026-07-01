@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2014 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2014__Q10
 parent: src_bocconi_autunno_2014
 competition: Giochi d'Autunno 2014
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lettere cifrate: CINQUE corrisponde al valore più grande*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** CINQUE $= 198530$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PloiPSpf4_9YADREFtliPjnhVrdcFhjI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Crypted letters: FIVE corresponds to the largest value*
+
+> Replace the letters of the digits so that the operation: $$\frac{\text{CINQUE} +}{\text{UE} =}$$ $$2015$$ is correct and the word CINQUE corresponds to the largest possible numerical value. (No number can begin with $0$ and, instead of different letters, different digits must be inserted.)
+
+**Answer:** CINQUE $= 198530$
+[[src_bocconi_autunno_2014__Q10]]

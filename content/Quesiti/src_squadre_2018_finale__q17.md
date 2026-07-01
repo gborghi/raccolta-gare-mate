@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q17
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parti massime in cui 20 spezzate a M dividono il piano*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3061
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum parts in which 20 M fractions divide the plane*
+
+> The logo of MuCorp, the most powerful corporation in the universe, is in the shape of a letter M that extends to infinity, that is, an unwoven piece composed of one half, two segments, and one half (in this order). How many sections is the plan divided into by 20 pieces of this type?
+
+**Answer:** 3061
+[[src_squadre_2018_finale__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q10
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di tre interi dai prodotti a coppie 14,10,35*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sum of three integers from coupled products 14,10,35< MSK1/>
+
+> Three positive integers, multiplied by two to two, yield 14, 10, and 35. How much is their sum? A) 10
+> 	
+> B) 12
+> 	
+> C) 14
+> 	
+> D) 16
+> 	
+> (E) 18 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** C
+[[src_kangourou_2013_cadet__Q10]]

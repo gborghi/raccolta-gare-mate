@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1986 (27th IMO, Warsaw) — Quesito 1'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1986__Q01
 parent: src_imo_1986
 competition: 'IMO 1986 (27th IMO, Warsaw)'
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find pair in {2,5,13,d} with ab-1 not perfect square*
 
@@ -35,3 +38,13 @@ tags:
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Q7vmoRjHZBnLVOcJfGhRBYvwVepRUaQE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find pair in {2,5,13,d} with ab-1 not perfect square
+
+> Let d be any positive integer not equal to 2, 5, or 13. Show that one can find distinct a, b in the set {2, 5, 13, d} such that ab −1 is not a perfect square.
+
+[[src_imo_1986__Q01]]

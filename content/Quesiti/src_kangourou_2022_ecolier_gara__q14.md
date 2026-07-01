@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier gara individuale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q14
 parent: src_kangourou_2022_ecolier_gara
 competition: Kangourou 2022 Ecolier gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali numeri bucati piegando il foglio*
 
@@ -143,3 +146,28 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What numbers are torn by folding the sheet*
+
+![[src_kangourou_2022_ecolier_gara__prob14.png]]
+
+> A square grid containing all numbers from 1 to 36 is shown on a sheet. Enza folds the sheet twice, as suggested by the figure. Then he drills the folded sheet in line with the black circle indicated by the arrow. What numbers on the grid are being drilled? 3 2 5 4 2 1 1 4 3 1 3 4 2 5 5 2 1 4 1
+>  
+> 3 3 2 4 2 5 2 4 1 3 1 3 4 4
+>   
+> B) 1
+>   
+> C) 2
+>   
+> D) 2
+>   
+> E) 3 1 2 3 3 4 2 4 1 3 3 1 4 2 1 4 1 7 13 19 25 31 2 8 14 20 26 32 3 9 15 21 27 33 4 10 16 22 28 34 5 11 17 23 29 35 6 12 18 24 30 36
+> 
+> A) 8, 11, 26, 29 B) 14, 17, 20, 23 C) 15, 16, 21, 22 D) 14, 16, 21, 23 E) 15, 17, 20, 22
+
+**Answer:** B
+[[src_kangourou_2022_ecolier_gara__Q14]]

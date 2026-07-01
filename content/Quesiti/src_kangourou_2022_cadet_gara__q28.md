@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet gara individuale — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q28
 parent: src_kangourou_2022_cadet_gara
 competition: Kangourou 2022 Cadet gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punti iniziali sulla retta dopo inserimenti ripetuti*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Initial points on the straight after repeated insertions< MSK1/>
+
+> On a straight line at first a few points are marked. For each pair of consecutive points Lucia marks another point within the segment that has them as extremes. Repeat this operation three more times. In the end, 225 points are scored on the straight. How many dots were initially marked on the straight? A) 10
+> 	
+> B) 12
+> 	
+> C) 15
+> 	
+> D) 16
+> 	
+> E) 25
+
+**Answer:** C
+[[src_kangourou_2022_cadet_gara__Q28]]

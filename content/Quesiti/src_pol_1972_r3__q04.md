@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1972 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1972_r3__Q04
 parent: src_pol_1972_r3
 competition: Olimpiade Matematica Polacca 1972 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangles ABC with AC, BC tangent to a sphere K and fixed A,B on a line: a maximum-perimeter triangle also has maximum area.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u10PZn1Xtd_4pvaqg5qH_EntPwiPBjmg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangoli ABC con AC, BC tangente a una sfera K e fisso A,B su una linea: un triangolo a perimetro massimo ha anche superficie massima.*
+
+> I punti $A$ e $B$ sono indicati su una linea senza punti comuni con una sfera $K$. I piedi $P$ della perpendicolare dal centro di $K$ alla linea $AB$ sono posizionati tra $A$ e $B$, e le lunghezze dei segmenti $AP$ e $BP$ superano entrambi il raggio di $K$. Si consideri l'insieme $Z$ di tutti i triangoli $ABC$ i cui lati $AC$ e $BC$ sono tangenti a $K$. Prova che tra tutti i triangoli di $Z$, un triangolo $T$ con un perimetro massimo ha anche una superficie massima.
+
+[[src_pol_1972_r3__Q04]]

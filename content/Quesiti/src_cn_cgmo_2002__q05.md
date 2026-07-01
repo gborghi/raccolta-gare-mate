@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2002 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2002__Q05
 parent: src_cn_cgmo_2002
 competition: China Girls' Mathematical Olympiad 2002
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Permutation sum inequality: prove lower bound (n-1)/(n+2)*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ineguaglianza della somma di permutazione: dimostra il limite inferiore (n-1)/(n+2) *
+
+> Supponiamo che $P_1, P_2, \ldots, P_n$ ($n \ge 2$) sia una permutazione arbitraria di $1, 2, \ldots, n$. Prove che $$\frac{1}{P_1 + P_2} + \frac{1}{P_2 + P_3} + \cdots + \frac{1}{P_{n-2} + P_{n-1}} + \frac{1}{P_{n-1} + P_n} > \frac{n-1}{n+2}.$$ (posato da Qiu Zonghu)
+
+[[src_cn_cgmo_2002__Q05]]

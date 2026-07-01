@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2001_squadre__Q19
 parent: src_cesenatico_2001_squadre
 competition: Gara Nazionale a Squadre Cesenatico 2001
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Costo dell'auto dato prestito e quote possedute*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0032
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cost of the car borrowed and shares owned*
+
+> Loans between friends MSK1/> (10 points)
+> 
+> Ammac and Olonam would like to buy a limousine, splitting the cost in half, but they currently only have the $\frac{3}{4}$ of the required figure. The generous Ollimac lends to both at zero interest the amount of money each of them needs to complete their share; in particular, he lends 2 million shields to Olonam. Ammac pledges to buy 10 million shields (all of his assets!), plus the amount he borrows from Ollimac. How many million shields does the car cost?
+
+**Answer:** 0032
+[[src_cesenatico_2001_squadre__Q19]]

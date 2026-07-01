@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2025_squadre__Q12
 parent: src_gsm_2025_squadre
 competition: Gara a Squadre Miste GSM (locale Genova) 2025
@@ -30,6 +31,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che un dado sia somma degli altri due*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1390
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of a die being the sum of the other two*
+
+> Three dice Carlo Cassola What is the probability that, by drawing three unmade dice, the number of any one of the three dice is equal to the sum of the other two? [Give the answer the probability multiplied by 10000.]: 0693
+
+**Answer:** 1390
+[[src_gsm_2025_squadre__Q12]]

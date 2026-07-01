@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1983 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1983_r3__Q02
 parent: src_pol_1983_r3
 competition: Olimpiade Matematica Polacca 1983 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given irrational a in (0,1) and positive integer N, find positive integers p,q,r,s with p/q < a < r/s, r/s - p/q < 1/N, and rq - ps = 1.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11T0teEgsTglF6JeBb0ta-iaqOX3phPMX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dato un a irrazionale in (0,1) e un intero positivo N, trovare integri positivi p,q,r,s con p/q < a < r/s, r/s - p/q < 1/N, e rq - ps = 1.*
+
+> Si deve dare un numero irrazionale $a$ nell'intervallo $(0,1)$ e un intero positivo $N$. Prova che esistono integri positivi $p,q,r,s$ in modo tale che $$\frac{p}{q} < a < \frac{r}{s}, \quad \frac{r}{s} - \frac{p}{q} < \frac{1}{N}, \quad \text{and} \quad rq - ps = 1.$$
+
+[[src_pol_1983_r3__Q02]]

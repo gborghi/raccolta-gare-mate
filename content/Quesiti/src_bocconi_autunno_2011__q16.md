@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2011 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2011__Q16
 parent: src_bocconi_autunno_2011
 competition: Giochi d'Autunno 2011
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del quadrilatero BOIS in un parallelogramma foresta*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $608630 \text{ m}^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the BOIS quadrilateral in a forest parallelogram*
+
+> The figure of vertices F, O, I, N is a parallelogram whose base measures 1001 m and whose height measures 2012 m. Point S is located at base NI 905 m from summit I. What's the area of the BOIS quadrilateral?
+
+![[src_bocconi_autunno_2011__Q16.png]]
+
+**Answer:** $608630 \text{ m}^2$
+[[src_bocconi_autunno_2011__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2004 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2004__Q05
 parent: src_cn_cgmo_2004
 competition: China Girls' Mathematical Olympiad 2004
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find maximum lambda with inequality constraint on positive reals*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\sqrt{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il lambda massimo con restrizione di disuguaglianza sui valori positivi *
+
+> Determinare il valore massimo della costante $\lambda$ in modo tale che $u + v + w \ge \lambda$, dove $u$, $v$ e $w$ sono numeri reali positivi che soddisfano $u\sqrt{vw} + v\sqrt{wu} + w\sqrt{uv} \ge 1$.
+
+**Risposta:** \sqrt{3}
+[[src_cn_cgmo_2004__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 2021 papers — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2021__Q04
 parent: src_imo_2021
 competition: IMO 2021 papers
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Uguaglianza somme tangenti AD+DT+TX+XA=...*
 
@@ -34,3 +37,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VTMF3_4FUjshC9L1h1JDLd2a_dFGHkhF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the sum of the tangent equations AD+DT+TX+XA=...
+
+> Both $\Gamma$ a circle with a centre $I$, and $ABCD$ a convex quadrilateral such that each of the segments $AB$, $BC$, $CD$ and $DA$ is tangent to $\Gamma$. If < MSK9/> the circle surrounding the < MSK10/> triangle. The extension of $BA$ beyond $A$ is $\Omega$ in $X$, and the extension of $BC$ beyond $C$ is $\Omega$ in $Z$. The lengths of $AD$ and $CD$ beyond $D$ meet $\Omega$ in $Y$ and $T$ respectively. Show that $$AD + DT + TX + XA = CD + DY + YZ + ZC.$$
+
+[[src_imo_2021__Q04]]

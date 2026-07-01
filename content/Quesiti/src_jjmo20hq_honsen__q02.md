@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2022 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo20hq_honsen__Q02
 parent: src_jjmo20hq_honsen
 competition: Japan Junior Mathematical Olympiad 2022 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Stones on a circle, make a cell with n-1 stones in n-2 moves*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18o27Iy8yRRzYcEM38g3Yo5C4zbcldLvc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Pietra su un cerchio, formare una cella con pietra n-1 in movimenti n-2*
+
+> $n$ sia un numero intero con $n \ge 3$. Ci sono cellule $n$ disposte su un cerchio, e una pietra è posta su ogni cellula. Si esegue la seguente operazione: scegli una cella $A$ che contenga almeno una pietra e un numero intero $k$ con $1 \le k \le n-1$. Poi spostare tutte le pietre sulla cella che è $k$ passi in senso contrario all'orologio da $A$ alla cella che è $k$ passi in senso orologio da $A$. Trovare tutte le $n$ per le quali è possibile, eseguendo questa operazione esattamente $n-2$ volte in modo appropriato, ottenere una cella contenente pietre $n-1$.
+
+[[src_jjmo20hq_honsen__Q02]]

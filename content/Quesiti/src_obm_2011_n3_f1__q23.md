@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f1__Q23
 parent: src_obm_2011_n3_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest a with a<=b<=c positive integers and 1/a+1/b+1/c = 1/2011*
 
@@ -50,3 +53,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La minima a con a<=b<=c numeri interi positivi e 1/a+1/b+1/c = 1/2011*
+
+> Se $a$, $b$ e $c$ sono integri positivi come $a \le b \le c$ e $\dfrac{1}{a} + \dfrac{1}{b} + \dfrac{1}{c} = \dfrac{1}{2011}$, qual è il valore più piccolo possibile di $a$?
+> 
+> (A) 2011 (B) 2012 (C) 2013 (D) 2014 (E) 2011-2012
+
+[[src_obm_2011_n3_f1__Q23]]

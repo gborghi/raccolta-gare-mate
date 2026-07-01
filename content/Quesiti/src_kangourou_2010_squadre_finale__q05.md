@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2010 squadre finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2010_squadre_finale__Q05
 parent: src_kangourou_2010_squadre_finale
 competition: Kangourou 2010 squadre finale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma numeri sulle facce dato somma vertici 70*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 14
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of numbers on faces given sum of vertices 70*
+
+> Faces and vertices On each side of a cube we wrote a strictly positive integer. On each summit we wrote the product of the three numbers written on the faces that compete at that summit. The sum of the numbers written on the vertices is 70. What's the sum of the numbers on the faces?
+
+**Answer:** 14
+[[src_kangourou_2010_squadre_finale__Q05]]

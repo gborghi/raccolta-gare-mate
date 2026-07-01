@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q25
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest positive N where product formula with nearest perfect squares holds; find sum of squares of digits*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La formula del prodotto con i quadrati perfetti più vicini è la più piccola N positiva; trovare la somma dei quadrati di cifre*
+
+> Per un numero intero positivo $n$, $\langle n \rangle$ indica il numero intero quadrato perfetto più vicino a $n$. Ad esempio, $\langle 74 \rangle = 81$, $\langle 18 \rangle = 16$. Se $N$ è il numero intero positivo più piccolo tale che $$\langle 91 \rangle \cdot \langle 120 \rangle \cdot \langle 143 \rangle \cdot \langle 180 \rangle \cdot N = 91 \cdot 120 \cdot 143 \cdot 180 \cdot N,$$ trovi la somma dei quadrati delle cifre di $N$.
+
+[[src_ioqm_2020__Q25]]

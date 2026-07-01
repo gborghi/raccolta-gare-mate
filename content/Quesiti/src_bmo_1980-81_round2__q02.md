@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1980-81 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1980-81_round2__Q02
 parent: src_bmo_1980-81_round2
 competition: British Mathematical Olympiad 1980-81 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count and classify the 13 axes of a cube; state minimum rotation angles*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare e classificare i 13 assi di un cubo; indicare gli angoli minimi di rotazione*
+
+> L'asse di un solido è, ai fini della presente domanda, definito come una linea retta che unisce due punti sulla superficie del solido e tale che il solido, quando ruotato intorno a questa linea attraverso un angolo maggiore di $0^\circ$ e inferiore a $360^\circ$, coincida con se stesso.
+> 
+> Quanti assi ha un cubo? Disegnare tre schemi per mostrare i tre diversi tipi di asse e indicare l'angolo minimo di rotazione per ciascun tipo.
+> 
+> (Non sono richieste prove formali. Ogni diagramma deve mostrare chiaramente l'asse, i vertici del cubo numerati da $1$ a $8$ e un simbolo come $\begin{pmatrix}1&2&3&4&5&6&7&8\\2&5&3&1&4&8&6&7\end{pmatrix}$ che indica che i punti $1,2,3,\ldots,8$ si spostano rispettivamente ai punti $2,5,3,\ldots,7$.)
+
+**Risposta:** 13
+[[src_bmo_1980-81_round2__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q05
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Logo riflesso scambiando coordinate x e y*
 
@@ -72,3 +75,19 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Reflect log by exchanging x and y coordinates*
+
+![[src_kangourou_2016_student_marzo__prob5.png]]
+
+> In the image on the right you can see how I put the Kangourou logo on the xy floor. If for each point in the plane I exchange between them the x and y coordinates, which of the following images do I get for the Kangourou logo?
+>  
+> A) B) C) D) E) 1---- 10 1 ------ 100 1 -------- 1000 3 ------ 111 111 -------- 1110 111 -------- 1000 3 -------- 1000 3 -------- 1110
+>
+
+**Answer:** A
+[[src_kangourou_2016_student_marzo__Q05]]

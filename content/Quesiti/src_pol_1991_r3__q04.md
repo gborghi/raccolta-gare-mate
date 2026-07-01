@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1991 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1991_r3__Q04
 parent: src_pol_1991_r3
 competition: Olimpiade Matematica Polacca 1991 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Characterize functions on vectors with given norm and inner product conditions*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1roje33Ik1bzgcqsL7yxrXsm0APZTffe7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Caracterizzare le funzioni su vettori con determinate norme e condizioni di prodotto interno*
+
+> Nel piano cartesiano si considera l'insieme $V$ di tutti i vettori con coordinate interi. Determinare tutte le funzioni $f : V \to \mathbb{R}$ che soddisfano le condizioni: (i) $f(v) = 1$ per ciascuno dei quattro vettori $v$ di lunghezza unitaria, (ii) $f(u + v) = f(u) + f(v)$ per ogni due vettori perpendicolari $u, v \in V$. (Nota che il vettore zero è perpendicolare a ogni vettore.)
+
+[[src_pol_1991_r3__Q04]]

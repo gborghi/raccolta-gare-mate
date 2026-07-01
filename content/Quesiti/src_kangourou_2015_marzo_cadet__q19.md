@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q19
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *colore x*
 
@@ -74,3 +77,37 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>color x< MSK1/>
+
+![[src_kangourou_2015_marzo_cadet__prob19.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.4, font=\small]
+  % Row of 4 triangles (alternating up/down) forming a band
+  % Outer boundary: parallelogram-like with zigzag interior
+  % Bottom points: (0,0),(1,0),(2,0),(3,0),(4,0)
+  % Top points: (0.5,1),(1.5,1),(2.5,1),(3.5,1)
+  \draw[thick] (0,0) -- (0.5,1) -- (1.5,1) -- (2.5,1) -- (3.5,1) -- (4,0) -- (0,0);
+  \draw[thick] (0.5,1) -- (1,0) -- (1.5,1);
+  \draw[thick] (1.5,1) -- (2,0) -- (2.5,1);
+  \draw[thick] (2.5,1) -- (3,0) -- (3.5,1);
+  \draw[thick] (1,0) -- (3,0);
+  \node[above left] at (0.25,0.5) {verde};
+  \node[above right] at (3.75,0.5) {verde};
+  \node[below] at (0.5,0) {blu};
+  \node[below] at (2,0) {$x$};
+  \node[below] at (3.5,0) {blu};
+\end{tikzpicture}
+\end{document}
+```
+
+> The figure shows how some of the unit segments that delimit the triangles of a drawing have been colored. Luigi wants to colour the remaining unit segments in red or green or blue. Each triangle must have a side of each color. How can you color the x-marked segment? A) Only green. B) Only red. C) Only blue. D) Whether red or blue. E) It cannot carry out the project.
+
+**Answer:** A
+[[src_kangourou_2015_marzo_cadet__Q19]]

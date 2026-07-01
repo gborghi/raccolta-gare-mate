@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2000 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2000_r1__Q01
 parent: src_pol_2000_r1
 competition: Olimpiade Matematica Polacca 2000 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove n divides the sum of cubes of all naturals less than n and coprime to n.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove n divide la somma dei cubi di tutti i naturali inferiori a n e copriamo in n.*
+
+> Prove che per ogni intero $n \ge 3$ la somma dei cubi di tutti i numeri naturali inferiori a $n$ e coprimo con $n$ è divisibile da $n$.
+
+[[src_pol_2000_r1__Q01]]

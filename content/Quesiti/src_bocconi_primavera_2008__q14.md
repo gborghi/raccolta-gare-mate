@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q14
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Francobolli comprati con 100 Euro alla posta di Math City*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1 francobollo da 1 Euro (e 19 da 5 Euro e 80 da 5 centesimi)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Francobolles purchased for 100 Euro at the Math City post office*
+
+> At Math City's post office, they only sell five-euro, one-euro and five-cent stamps. Jacob bought 100 stamps, spending 100 euros. How many Euro stamps did you buy?
+
+**Answer:** 1 francobollo da 1 Euro (e 19 da 5 Euro e 80 da 5 centesimi)
+[[src_bocconi_primavera_2008__Q14]]

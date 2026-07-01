@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2003 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2003__Q14
 parent: src_cn_cmc_2003
 competition: China Mathematical Competition 2003
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a parametric curve in the complex plane meets a midline of a triangle in exactly one point, and find it.*
 
@@ -48,3 +51,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove una curva parametrica nel piano complesso che incontra una linea centrale di un triangolo in un punto esatto, e trovala.*
+
+> Supponiamo che $A, B, C$ siano tre punti non collineari corrispondenti ai numeri complessi $z_0 = a_i + i$, $z_1 = \frac{1}{2} + b_i$, $z_2 = 1 + c_i$ ($a, b$ e $c$ sono rispettivamente numeri reali). Prova che la curva $$z = z_0 \cos^4 t + 2 z_1 \cos^2 t \cdot \sin^2 t + z_2 \sin^4 t \quad (t \in \mathbf{R})$$ condivide un unico punto comune con la linea che divide $AB$ e è parallela a $AC$ in $\triangle ABC$, e trova questo punto.
+
+[[src_cn_cmc_2003__Q14]]

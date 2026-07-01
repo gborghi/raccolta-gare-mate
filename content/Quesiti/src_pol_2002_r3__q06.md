@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2002 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2002_r3__Q06
 parent: src_pol_2002_r3
 competition: Olimpiade Matematica Polacca 2002 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence a_1=k+1, a_{n+1}=a_n²-4a_n+1; show distinct terms are coprime*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Z3g6eT52wK20LS2ktHnl8h3UqBRM46o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza a_1=k+1, a_{n+1}=a_n2-4a_n+1; mostrare termini distinti sono coprime*
+
+> Si dà un intero positivo $k$. La sequenza $(a_n)$ è definita da $$a_1 = k + 1, \quad a_{n+1} = a_n^2 - 4a_n + 1 \quad \text{for } n \ge 1.$$ Mostra che per $m \ne n$ i numeri $a_m, a_n$ sono relativamente primi.
+
+[[src_pol_2002_r3__Q06]]

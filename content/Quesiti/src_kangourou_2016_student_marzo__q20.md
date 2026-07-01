@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q20
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo ABD con cinque angoli uguali tangente-corda*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*ABD angle with five equal tangent-string angles*
+
+![[src_kangourou_2016_student_marzo__prob20.png]]
+
+> James scored 5 points A, B, C, D and E on a circumference and plotted the right tangent to the circumference in A, choosing the points so that all five angles marked in the figure with x are equal. What is the angle of ABD ? (a) 66° B) 70° 30 C) 72° D) 75° E) 77° 30 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** C
+[[src_kangourou_2016_student_marzo__Q20]]

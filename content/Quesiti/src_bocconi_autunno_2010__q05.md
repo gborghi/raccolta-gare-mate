@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2010 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2010__Q05
 parent: src_bocconi_autunno_2010
 competition: Giochi d'Autunno 2010
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rettangolo magico 2×4 con gli interi da 1 a 8*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** riga superiore 1 4 6 7; riga inferiore 8 5 3 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Magic rectangle 2×4 with integers 1 to 8*
+
+> A MAGICAL RETANGLE Write all integers from 1 to 8 in the rectangular boxes so that: • the sum of the two numbers in each column is always the same; • the sum of the four numbers in each row is always the same; • the numbers in the upper row are ordered from minor to major (from left to right).
+
+![[src_bocconi_autunno_2010__Q05.png]]
+
+**Answer:** riga superiore 1 4 6 7; riga inferiore 8 5 3 2
+[[src_bocconi_autunno_2010__Q05]]

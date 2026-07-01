@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2019 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2019__Q10
 parent: src_garaprime_2019
 competition: Gara Nazionale Classi Prime 2019
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Divisori dispari di 8100 multipli di 5*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GTzdagqUQpCUSYBLrYJmJaKl7DQUIbtK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Disparate dividers of 8100 multiples of 5< MSK1/>
+
+> How many odd positive divisors of 8100 are multiples of 5? A 10 B 15 C 9 D 30 E 12 F 18
+
+**Answer:** A
+[[src_garaprime_2019__Q10]]

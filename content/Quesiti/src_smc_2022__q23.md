@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2022 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2022__Q23
 parent: src_smc_2022
 competition: Senior Mathematical Challenge 2022
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three squares (areas 10, 10, 40) with vertices on sides of triangle FIL; find the area of triangle FIL.*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre quadrati (zone 10, 10, 40) con vertici sui lati del triangolo FIL; trovare l'area del triangolo FIL.*
+
+> Tre quadrati $GQOP$, $HJNO$ e $RKMN$ hanno vertici che si trovano sui lati del triangolo $FIL$ come mostrato. I quadrati hanno rispettivamente aree di 10, 10 e 40. Qual è l'area del triangolo $FIL$?
+>
+> - **(A)** 220.5
+> - **(B)** $\frac{11}{2}\sqrt{10}$
+> - **(C)** 252
+> - **(D)** $\frac{11}{2}\sqrt{40}$
+> - **(E)** 441
+
+![[src_smc_2022__Q23.png]]
+
+**Risposta:** A
+[[src_smc_2022__Q23]]

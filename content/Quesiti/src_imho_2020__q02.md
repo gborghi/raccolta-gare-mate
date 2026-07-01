@@ -1,6 +1,7 @@
 ---
 title: IMO 2020 (LXI International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2020__Q02
 parent: src_imho_2020
 competition: IMO 2020 (LXI International Mathematical Olympiad)
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Inequality for reals summing to 1 with a≥b≥c≥d≥0*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lHIqSWrqlVCOmcFjndDhEYM3gZRYMB5g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Inequality for reals summing to 1 with a≥b≥c≥d≥0*
+
+> The real numbers $a, b, c, d$ are such that $a \ge b \ge c \ge d > 0$ and $a + b + c + d = 1$. Prove that $$(a + 2b + 3c + 4d) a^a b^b c^c d^d < 1.$$
+
+[[src_imho_2020__Q02]]

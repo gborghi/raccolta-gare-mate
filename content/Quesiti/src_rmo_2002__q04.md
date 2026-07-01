@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2002 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2002__Q04
 parent: src_rmo_2002
 competition: Regional Mathematical Olympiad 2002
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integers 1..10 split into two collections with partition conditions*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_m3GjaVBEfcL0ShA4FjgFrQjp3KoeJKA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integri 1..10 suddivisi in due collezioni con condizioni di partizione*
+
+> Supponiamo che i numeri interi $1, 2, 3, \ldots, 10$ siano divisi in due collette disjointe $a_1, a_2, a_3, a_4, a_5$ e $b_1, b_2, b_3, b_4, b_5$ in modo tale che $$a_1 < a_2 < a_3 < a_4 < a_5,$$ $$b_1 > b_2 > b_3 > b_4 > b_5.$$ (i) Mostri che il numero più grande in qualsiasi coppia $\{a_j, b_j\}$, $1 \le j \le 5$, è almeno $6$.
+> 
+> (ii) Indicare che $|a_1 - b_1| + |a_2 - b_2| + |a_3 - b_3| + |a_4 - b_4| + |a_5 - b_5| = 25$ per ciascuna di tali partizioni.
+
+[[src_rmo_2002__Q04]]

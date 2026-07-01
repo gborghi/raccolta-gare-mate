@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2010 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2010__Q06
 parent: src_bocconi_semifinale_2010
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2010
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Festa della scuola: minimo di sedie libere*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 20 sedie
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*School party: minimum number of seats available*
+
+> There are square tables in Sara and Sergio's school warehouse. A chair can be placed around each of them, on either side. For the school party, students used 24 of these square tables, forming with them a large rectangular table (without holes). Around this large rectangular table they then placed the chairs, one on each side "free" of the square tables. How many chairs did they put in, minimum?
+
+**Answer:** 20 sedie
+[[src_bocconi_semifinale_2010__Q06]]

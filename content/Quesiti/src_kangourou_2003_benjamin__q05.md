@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q05
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero X negli anelli con somma 55*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number X in rings with sum of 55*
+
+![[src_kangourou_2003_benjamin__prob5.png]]
+
+> The sum of the numbers in each of the two rings in the figure shall be 55. Which number should be replaced with the letter X? A) 9 B) 10 C) 13 D) 16 E) 17
+
+**Answer:** B
+[[src_kangourou_2003_benjamin__Q05]]

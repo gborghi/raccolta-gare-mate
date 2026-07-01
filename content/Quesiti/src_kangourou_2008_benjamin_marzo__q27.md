@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q27
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordine degli scatti girando intorno all aiuola*
 
@@ -65,3 +68,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Order of shots rotating around the shell< MSK1/>
+
+![[src_kangourou_2008_benjamin_marzo__prob27.png]]
+
+> Benedetta turns around the arrow taking photographs: she begins to walk at the point indicated by the arrow and follows its direction. After a full tour, he took these four pictures. In what order were the shots taken? A) 2431 B) 4213 C) 2143 D) 2134 E) 3214 A H G F and D C B 4 3 2 1 Texts_08.qxp 9-03-2008 14:56 Page 14
+> 
+> I'm going to pay. I'm going to pay. 15 15 Kang 2008 Kang 2008
+
+**Answer:** C
+[[src_kangourou_2008_benjamin_marzo__Q27]]

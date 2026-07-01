@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Ecolier — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier__Q07
 parent: src_kangourou_2014_ecolier
 competition: Kangourou 2014 marzo Ecolier
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Come appaiono i fiori visti dall’esterno della vetrina*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>What the flowers look like from the outside of the window< MSK1/>
+
+![[src_kangourou_2014_ecolier__prob7.png]]
+
+> A shopkeeper painted the flowers you see in the figure on the right on the outside of his shop window. The glass is transparent. What does the drawing look like from inside the store?
+
+[[src_kangourou_2014_ecolier__Q07]]

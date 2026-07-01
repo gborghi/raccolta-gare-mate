@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2003 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo13mq_honsen__Q05
 parent: src_jmo13mq_honsen
 competition: Japan Mathematical Olympiad 2003 — Honsen (Final)
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find max N points in plane 3-colored satisfying triangle interior conditions*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10-DDRKMteTHYfjsW5yYE7XwybI34H8OB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i punti N massimi in un triangolo di 3 colori che soddisfa le condizioni interne *
+
+> $N$ sia un numero intero positivo. Ci sono punti $N$ in posizione generale nel piano (nessun tre collineari). Ogni punto è di colore rosso, blu o giallo e tutte le seguenti condizioni sono valide:
+> 
+> - Per ogni tre punti rossi distinti, l'interno del triangolo con quei tre punti come vertici contiene almeno un punto blu. - Per ogni tre punti blu distinti, l'interno del triangolo con quei tre punti come vertici contiene almeno un punto giallo. - Per i tre punti gialli distinti, l'interno del triangolo con questi tre punti come vertici contiene almeno un punto rosso.
+> 
+> Trova il massimo valore possibile di $N$.
+
+[[src_jmo13mq_honsen__Q05]]

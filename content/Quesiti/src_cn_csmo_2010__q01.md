@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2010 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2010__Q01
 parent: src_cn_csmo_2010
 competition: China Southeastern Mathematical Olympiad 2010
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quadratic with digit coefficients has rational root, so three-digit number is composite*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadratico con coefficienti digitali ha radice razionale, quindi il numero a tre cifre è composto*
+
+> In questo caso, si deve indicare il valore di < MSK0/>, < MSK1/>, < MSK2/>. L'equazione quadrata $ax^2 + bx + c = 0$ ha una radice razionale. Prova che il numero a tre cifre $\overline{abc}$ non è un numero primo.
+
+[[src_cn_csmo_2010__Q01]]

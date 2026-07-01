@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_semifinale1__Q10
 parent: src_archimede_2025_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2025 - Semifinale 1
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli rettangoli con area uguale a 5 volte perimetro*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0006
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular triangles with an area equal to 5 times the perimeter*
+
+> Spies in love. Even James Bound has been in love! As a young man, he met Vesper Lynear, a mathematician who conquered him by solving almost instantly the following question: how many non-conforming rectangular triangles are there, with lengths of positive whole catheters and having areas numerically equal to 5 times their perimeter?
+
+**Answer:** 0006
+[[src_archimede_2025_squadre_semifinale1__Q10]]

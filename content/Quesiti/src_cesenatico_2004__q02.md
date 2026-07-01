@@ -1,6 +1,7 @@
 ---
 title: XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004__Q02
 parent: src_cesenatico_2004
 competition: XX Olimpiade Italiana Cesenatico 2004 - individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Luogo dei punti di tangenza di coppie di circonferenze tra due rette*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** unione del segmento PQ e arco circonferenza di diametro PQ
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1SUJ83wt6O3HsePZYy6Y39_rKksLv5Bk-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Location of tangent points of pairs of circumferences between two lines*
+
+![[src_cesenatico_2004__prob2.png]]
+
+> 2. Given in the plane two parallel lines r, s and two points P, Q with P ∈r and Q ∈s, are considered pairs of circumferences (CP, CQ), the first tangent a r in P and the second tangent a s in Q, which are also tangents externally to each other, at a point we call T. Determine the location of these T-points by varying all possible pairs of circumferences. Solution: The location sought is the union of the open segment PQ and the part of the circumference of the diameter PQ that lies outside the strip bounded by r and s. Each circumference can be tangent to its respective straight line in two ways: in one case it intersects the strip S between the two lines, in the other it does not intersect it at all. In both cases the centre of circumference (resp. OP, OQ) is located along the perpendicular
+
+**Answer:** unione del segmento PQ e arco circonferenza di diametro PQ
+[[src_cesenatico_2004__Q02]]

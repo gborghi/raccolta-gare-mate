@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1974-75 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1974-75_round1__Q06
 parent: src_bmo_1974-75_round1
 competition: British Mathematical Olympiad 1974-75 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove an inequality between two rational functions of x and y*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDmSu0Uk3UVcyIxeAuO2e7yunqEoXRZY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove una disuguaglianza tra due funzioni razionali di x e y*
+
+> Prova che se $n$ è un numero intero superiore a $1$ e $x > y > 1$, allora $$\frac{x^{n+1}-1}{x(x^{n-1}-1)} > \frac{y^{n+1}-1}{y(y^{n-1}-1)}.$$
+
+[[src_bmo_1974-75_round1__Q06]]

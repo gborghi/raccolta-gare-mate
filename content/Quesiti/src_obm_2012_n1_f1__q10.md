@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f1__Q10
 parent: src_obm_2012_n1_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find length FP after repositioning dividing line to equalize areas*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la lunghezza FP dopo il riposizionamento della linea di divisione per igualizzare le aree*
+
+> João e Maria hanno ereditato un terreno a forma di poligono $ABCDEF$. Una linea retta originariamente separava la terra in due aree disuguali. Hanno deciso di riposizionare la linea divisoria, mantenendola perpendicolare alla linea $DE$, spostandola in un nuovo punto $P$, in modo che le due aree diventino uguali. Dato che gli angoli di $B$, $D$, $E$ e $F$ sono angoli rettangolari, e utilizzando le misurazioni mostrate nella figura (in metri), si trova la lunghezza $FP$ in metri.
+> 
+> (A) 5 \quad (B) 10 \quad (C) 12 \quad (D) 20 \quad (E) 20
+
+![[src_obm_2012_n1_f1__Q10.png]]
+
+**Risposta:** D
+[[src_obm_2012_n1_f1__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q27
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Centro del cubo dati tre vertici nello spazio*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Center of the data cube three vertices in space*
+
+> In a space with an orthogonal Cartesian reference system Oxyz, three vertices of a cube are the points P (3; 4; 1), Q (5; 2; 9) and R (1; 6; 5). Which of the following points is the center of the cube? A) A ≡(4; 3; 5) B) B ≡(2; 5; 3) C) C ≡(3; 4; 7) D) D ≡(3; 4; 5) E) E ≡(2; 3; 5)
+> 
+> I'm going to pay. I'm going to pay. 32 32 Kang 2012 Kang 2012
+
+**Answer:** A
+[[src_kangourou_2012_student__Q27]]

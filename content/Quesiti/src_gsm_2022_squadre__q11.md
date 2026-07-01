@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2022_squadre__Q11
 parent: src_gsm_2022_squadre
 competition: Gara a Squadre GSM (locale Genova) 2022
@@ -29,6 +30,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che il secondo giocatore vinca col dado e moneta*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of the second player winning with dice and coin*
+
+> A two-player game involves the use of a regular six-sided dice and an unmade coin. In turn, each of the two players must roll the dice: if an even number is drawn, he must roll the dice again; if $1$ is drawn or $5$ is drawn, he passes the dice to the opponent; if $3$ is drawn, he must roll the coin. If the result of the coin toss is head, he wins, otherwise he passes the turn to the opponent.
+> 
+> Every time a player starts his turn, he must always start with the dice.
+> 
+> What is the probability that the player who plays second wins?
+> 
+> [Give the sum of the numerator and denominator of the reduced fraction to the minimum terms as a response.]
+
+**Answer:** 0016
+[[src_gsm_2022_squadre__Q11]]

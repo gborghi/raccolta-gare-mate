@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f1__Q16
 parent: src_obm_2012_n1_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Percentage of families with both cats and dogs given overlap data*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Percentuale di famiglie con cani e gatti dati di sovrapposizione< MSK1/>
+
+> In Cajamirins, il 20% delle famiglie ha gatti (anche se meno hanno anche cani), e il 25% delle famiglie che hanno gatti hanno anche cani. Si sa anche che il 20% delle famiglie non ha un cane. Quante famiglie hanno entrambe le specie come animali domestici?
+> 
+> (A) 5 \quad (B) 10 \quad (C) 20 \quad (D) 25 \quad (E) 50
+
+**Risposta:** A
+[[src_obm_2012_n1_f1__Q16]]

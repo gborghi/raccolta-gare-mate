@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2024 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo22hq_honsen__Q05
 parent: src_jjmo22hq_honsen
 competition: Japan Junior Mathematical Olympiad 2024 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Similarity of triangles B'C'D' and BCD in acute triangle*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bmmJByRMGYGsoLlsU-vCwBSdySo_6rjl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ssimilità dei triangoli B'C'D' e BCD nel triangolo acuto*
+
+> Nel triangolo acuto $ABC$, $D$ deve essere il punto laterale $BC$ che soddisfa $AB : AC = DB : BC$. Che $B'$ sia il riflesso di $B$ sulla linea $AC$, che $C'$ sia il riflesso di $C$ sulla linea $AB$, e che $D'$ sia il riflesso di $D$ sul bisettore perpendicolare di $BC$. Prova che il triangolo $B'C'D'$ è simile al triangolo $BCD$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+[[src_jjmo22hq_honsen__Q05]]

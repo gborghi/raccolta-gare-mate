@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Junior Finale 2 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_squadre_f2__Q01
 parent: src_kangourou_2022_junior_squadre_f2
 competition: Kangourou Squadre 2022 Junior Finale 2
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità pareggio gioco con dadi, num+den*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0061
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The probability of a match with a dice, num+den
+
+> With the dice Alice and Bice each have a traditional dice and play the following game. Everyone throws their own dice. If they get the same number, Alice wins; if they get different numbers, Alice throws her dice again: if now the two numbers coincide, Bice wins, if instead they are still different, the match ends in a draw. Express the probability that the match will end in a draw in the form of a fraction reduced to the minimum deadlines. What is the sum of the numerator and denominator of this fraction?
+
+**Answer:** 0061
+[[src_kangourou_2022_junior_squadre_f2__Q01]]

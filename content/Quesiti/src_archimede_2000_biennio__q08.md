@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Biennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_biennio__Q08
 parent: src_archimede_2000_biennio
 competition: Giochi di Archimede 2000 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione delimitata da quattro semicirconferenze*
 
@@ -46,3 +49,22 @@ tags:
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area region bounded by four semicircles*
+
+![[src_archimede_2000_biennio__prob8.png]]
+
+> How much is the area of the region bounded by the four semicircles of 10 cm diameter shown in the figure?
+>
+> - **(A)** 100 cm2
+> - **(B)** 100π √ 2 cm2
+> - **(C)** 50π cm2
+> - **(D)** 100π cm2
+> - **(E)** 25π cm2.
+
+**Answer:** A
+[[src_archimede_2000_biennio__Q08]]

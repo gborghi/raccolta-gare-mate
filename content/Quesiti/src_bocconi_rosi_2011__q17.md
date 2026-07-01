@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q17
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Velocità della corrente del fiume*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 5 km/h
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rifter current speed*
+
+> Descending down a river, Amerigo took two hours to travel 50 miles [60 km]. To get back to the starting point, going up the river, it took three. **What is the current velocity in km/h (assumed constant)?**
+
+**Answer:** 5 km/h
+[[src_bocconi_rosi_2011__Q17]]

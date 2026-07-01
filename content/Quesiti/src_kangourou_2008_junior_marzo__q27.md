@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q27
 parent: src_kangourou_2008_junior_marzo
 competition: Kangourou 2008 - Junior (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Che figura formano le sfere bianche (8-piramide)*
 
@@ -78,3 +81,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Figure forming the white spheres (8-pyramid) *
+
+![[src_kangourou_2008_junior_marzo__prob27.png]]
+
+> A 3-pyramid is formed by the superposition of the 3 planes of spheres (all equal to each other) shown in the figure. Similarly, for every positive integer n, an n-pyramid can be made. Consider an 8-pyramid and assume that all its outer spheres are painted black and all others are painted white (a sphere is considered external when it is in contact with the regular tetrahedron surrounded by the pyramid). What shape do the white-painted spheres form? A) A 3-pyramid B) A 4-pyramid C) A 5-pyramid D) A 6-pyramid E) A 7-pyramid 2π 3 3π 2 π 2 5π 3 5π 4 2 3 1 ? A B C 5 D 9 3 E Texts_08.qxp 9-03-2008 14:56 Page 26
+> 
+> I'm going to pay. I'm going to pay. 27 27 Kang 2008 Kang 2008
+
+**Answer:** B
+[[src_kangourou_2008_junior_marzo__Q27]]

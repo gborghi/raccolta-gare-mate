@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Ecolier — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier__Q22
 parent: src_kangourou_2014_ecolier
 competition: Kangourou 2014 marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo linee per pareggiare i vagoni nelle stazioni*
 
@@ -77,3 +80,44 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum lines for paring wagons at stations*
+
+![[src_kangourou_2014_ecolier__prob22.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.9, every node/.style={circle, fill=black, inner sep=2pt}]
+  \node[label=above left:{\small 2}] (n2) at (0, 2.2) {};
+  \node[label=below left:{\small 7}] (n7) at (0, 0) {};
+  \node[label=above:{\small 6}] (n6) at (1.1, 1.1) {};
+  \node[label=above:{\small 1}] (n1) at (2.0, 1.1) {};
+  \node[label=right:{\small 4}] (n4) at (3.0, 1.1) {};
+  \draw (n2) -- (n6);
+  \draw (n2) -- (n1);
+  \draw (n2) -- (n4);
+  \draw (n2) -- (n7);
+  \draw (n6) -- (n4);
+  \draw (n7) -- (n6);
+  \draw (n7) -- (n1);
+  \draw (n7) -- (n4);
+\end{tikzpicture}
+\end{document}
+```
+
+> Look at the figure. The five points represent as many stations and the segments connecting them represent railway lines. The number next to each station indicates how many cars are present at that station. A locomotive serves between the various stations: at each station you can leave or pick up some wagons. If you start from a station where there are more cars, what is the least number of lines you can cross to ensure that at the end of your journey, you have the same number of cars at all stations? A) 3
+> 	
+> B) 4
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 7
+
+**Answer:** A
+[[src_kangourou_2014_ecolier__Q22]]

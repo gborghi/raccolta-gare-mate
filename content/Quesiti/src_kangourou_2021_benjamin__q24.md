@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q24
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frutto piu pesante dalle pesate a coppie*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Weighing fruit in pairs < MSK1/>
+
+> Weighs four pairs of fruits. Apples and oranges weigh as much as pears and fish. Apples and pears weigh less than oranges with fish. Pears and oranges weigh less than apples with fish. Which fruit is heavier? A) The apple.
+> 	
+> (b) Orange. (c) Fishing. D) The pear. E) There is insufficient data to establish this.
+
+**Answer:** C
+[[src_kangourou_2021_benjamin__Q24]]

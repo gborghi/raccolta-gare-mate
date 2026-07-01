@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q22
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest power of 2 dividing 2011^2012 - 1*
 
@@ -48,3 +51,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Migliore potenza di 2 divisione 2011^2012 - 1*
+
+> Qual è la maggiore potenza di $2$ che divide $2011^{2012} - 1$?
+> 
+> A) 2 \quad B) 4 \quad C) 8 \quad D) 16 \quad E) 32
+
+[[src_obm_2012_n2_f1__Q22]]

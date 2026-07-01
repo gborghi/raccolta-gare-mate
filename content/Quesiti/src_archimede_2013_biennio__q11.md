@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2013 - Biennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_biennio__Q11
 parent: src_archimede_2013_biennio
 competition: Giochi di Archimede 2013 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorso piu corto per i vertici di un cubo*
 
@@ -44,3 +47,20 @@ tags:
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shorter route for the vertices of a cube*
+
+> How long is the shortest path that passes through all the vertices of a 1 m side cube? N.B. The path can also pass inside the cube.
+>
+> - **(A)** 6 m
+> - **(B)** 7 m
+> - **(C)** (6 + √ 2) m
+> - **(D)** (6 + √ 3) m
+> - **(E)** 8 m
+
+**Answer:** B
+[[src_archimede_2013_biennio__Q11]]

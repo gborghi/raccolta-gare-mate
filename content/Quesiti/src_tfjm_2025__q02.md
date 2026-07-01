@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2025__Q02
 parent: src_tfjm_2025
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025
@@ -37,6 +38,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Water flows down a triangular network of toboggan pipes (types I, X, Z) splitting and merging; determine which inflow/outflow distributions are achievable.*
 
@@ -75,3 +78,37 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lHouVzMpsDZ0eOZtTQ2RMXik8VTIniH-/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'acqua scorre attraverso una rete triangolare di tubi scivoli (tipi I, X, Z) che si dividono e si fondono; determinare quali distribuzioni di ingresso/uscita sono raggiungibili.*
+
+> Il problema 2 e' che le scivoli sono divertenti.
+> 
+> Nel suo tempo libero acquatico, il direttore affidò all'ingegnere Emmy la costruzione di una nuova pipa di toboggan di altezza $H \in \mathbb{N}$ metri. In alto ci sono le voci $N \ge 2$ allineate e numerate da $1$ a $N$, e in basso ci saranno le uscite $N$ allineate e numerate da $1$ a $N$. Per ogni metro, Emmy ha a sua disposizione i seguenti tubi:
+> 
+> - coppie di coppie vicine che attraversano senza incontrarsi e scambiare le loro uscite, chiamate coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppie di coppe di coppe di coppe di coppe di coppe di coppe A ogni metro Emmy mette una fila composta da una combinazione di tali tubi.
+> 
+> Per la mostra, deve inserire nelle voci una quantità totale di < MSK0/> litri di acqua, seguendo una ripartizione fissata in anticipo. Poi l'acqua scende attraverso i toboggan seguendo le regole sopra. Infine, l'acqua esce attraverso i tubi di uscita. Un esempio è riportato nella figura 3. (Figura 3: Tubo di altezza $H = 3$ con voci $N = 5$. Le quantità di acqua in ciascuna fase sono indicate in blu e il tipo di tubo è indicato a destra di ciascun tubo o coppia di tubi.)
+> 
+> Per lo spettacolo, Emmy vorrebbe che uscisse l'acqua da tutte le uscite.
+> 
+> 1. Come funzione di $N$ e $H$, è possibile costruire le slitterie in modo che l'acqua esci da tutte le uscite se: a) l'acqua entra a un singolo ingresso, ma Emmy può scegliere quale; b) l'acqua entra nella stessa quantità a tutti gli ingressi; c) l'acqua entra a ingresso $1$; d) il litro d'acqua entra a ingresso $1$ e il litro d'acqua entra a ingresso $N$.
+> 
+> 2. Emmy vorrebbe che la serie fosse grandiosa: vuole che l'acqua esci nella stessa quantità da tutti i prodotti. Per i quali i valori di $N$ e $H$ è possibile costruire le toboggan in modo che l'acqua esce nella stessa quantità da tutte le uscite se: a) l'acqua entra all'ingresso $1$; b) la ripartizione dell'acqua che entra è arbitraria e la costruzione della toboggan è indipendente dalla ripartizione. Inoltre, Emmy vorrebbe costruire un tubo in modo tale che, per qualsiasi scelta di ripartizione dell'acqua all'ingresso, faccia uscire l'acqua nella stessa quantità da tutte le uscite.
+> 
+> 3. Solo per questa questione, l'arredamento cambia leggermente: quando si attraversa un paio di tubi di tipo $X$, l'acqua rientra nella posizione $K$ in proporzione $P$ e nella posizione $K + 1$ in proporzione $(1 - P)$, con $0 \le P \le 1$. Ripeti la domanda 2 in questo quadro.
+> 
+> 4. Emmy sceglie di lasciare che l'acqua entri solo all'ingresso $1$. Chiamiamo spettacolo l'elenco delle quantità d'acqua $(x_1, \ldots, x_N)$ che escono da ogni uscita. Per esempio, lo spettacolo corrispondente alla figura 3 è $\left(\frac{3}{8}, \frac{3}{16}, \frac{3}{16}, \frac{1}{8}, \frac{1}{8}\right)$. a) Come funzione di $N$ o $H$, quanti diversi spettacoli può realizzare Emmy? b) Emmy realizza uno spettacolo che trova molto bello, e decide di mescolare le voci (l'acqua può entrare da qualsiasi ingresso vogliamo), dopo la costruzione del tubo; è possibile ricostruire un tubo realizzando questo spettacolo, in funzione di $N$ e $H$?
+> 
+> 5. Emmy osserva che, se gli spettatori sono troppo lontani dalle lampadine, non possono distinguere i diversi tubi. Lei vorrebbe sapere se uno spettacolo è realizzabile quando, da lontano, sembra lo stesso: diciamo che uno spettacolo $(y_1, \ldots, y_N)$ che esce effettivamente dalle toboggan verifica $|x_i - y_i| \le \varepsilon$ per tutti $i \in \{1, \ldots, N\}$. Supponiamo sempre che Emmy faccia entrare l'acqua all'input $1$. a) Fissare $\varepsilon > 0$ e $N$: quante occhiali può realizzare Emmy in apparenza? b) La stessa domanda.
+> 
+> 6. La collega di Emmy vuole anche realizzare lo show; qui di nuovo prevede di mescolare le voci prima dello show, ma le voci possono essere parzialmente bloccate. Ha una slitta di tipo $Y$ a sinistra (indicato $\mathcal{Y}$) e a destra (indicato $\mathcal{Y}$), che blocca rispettivamente l'entrata $K$ o l'entrata $K + 1$ (vedi figura 4, parti di tubi con i tubi $\mathcal{Y}$ e $\mathcal{Y}$). Quanti spettacoli può realizzare Emmy (esattamente) come funzione di $N$ e $H$?
+> 
+> 7. Proporre e studiare altre linee di ricerca.
+
+![[src_tfjm_2025__Q02.png]]
+
+[[src_tfjm_2025__Q02]]

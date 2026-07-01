@@ -1,6 +1,7 @@
 ---
 title: IMO 2008 (XLIX International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2008__Q01
 parent: src_imho_2008
 competition: IMO 2008 (XLIX International Mathematical Olympiad)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Orthocenter circle configuration on acute triangle*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14Wdwk9eLYN2D6Kkkf0dzw1N64rAZts1h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Orthocenter circle configuration on acute triangle*
+
+> An acute-angled triangle $ABC$ has orthocentre $H$. The circle passing through $H$ with centre the midpoint of $BC$ intersects the line $BC$ at $A_1$ and $A_2$. Similarly, the circle passing through $H$ with centre the midpoint of $CA$ intersects the line $CA$ at $B_1$ and $B_2$, and the circle passing through $H$ with centre the midpoint of $AB$ intersects the line $AB$ at $C_1$ and $C_2$. Show that $A_1$, $A_2$, $B_1$, $B_2$, $C_1$, $C_2$ lie on a circle.
+
+[[src_imho_2008__Q01]]

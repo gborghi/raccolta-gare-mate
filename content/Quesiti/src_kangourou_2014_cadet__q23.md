@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q23
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del trapezio dai triangoli delle diagonali*
 
@@ -78,3 +81,45 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the trapezoid from the triangles of the diagonals*
+
+![[src_kangourou_2014_cadet__prob23.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.0]
+  \coordinate (A) at (0, 3);
+  \coordinate (B) at (2, 3);
+  \coordinate (C) at (4, 0);
+  \coordinate (D) at (0, 0);
+  \draw[thick] (A) -- (B) -- (C) -- (D) -- cycle;
+  \draw[thin] (A) -- (C);
+  \draw[thin] (B) -- (D);
+  \node[above left] at (A) {$A$};
+  \node[above right] at (B) {$B$};
+  \node[below right] at (C) {$C$};
+  \node[below left] at (D) {$D$};
+  \node[font=\small] at (1.0, 2.6) {$5$};
+  \node[font=\small] at (0.4, 1.5) {$10$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure you see an ABCD rectangular trapezoid. The numbers inserted into two of the triangles determined by the trapezoidal diagonals denote the area in square metres of the respective triangles. What is the area of the ABCD trapezoid in square metres? A) 60
+> 	
+> B) 45
+> 	
+> C) 40
+> 	
+> D) 35
+> 	
+> E) 30 A B C D 5 10
+>
+
+**Answer:** B
+[[src_kangourou_2014_cadet__Q23]]

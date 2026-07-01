@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2022-23 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2022-23_round1__Q03
 parent: src_bmo_2022-23_round1
 competition: British Mathematical Olympiad 2022-23 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove B1, C1, F, G collinear in triangle with right-angle conditions*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove B1, C1, F, G collineari in triangolo con condizioni di angolo rettangolo*
+
+> In un triangolo non isosceles $ABC$, $B_1$ e $C_1$ sono rispettivamente i punti medi di $AC$ e $AB$. Un punto $D$ si trova su $BC$ con $C$ tra $B$ e $D$. Il punto $F$ è tale che $\angle AFC$ sia un angolo retto e $\angle DCF = \angle FCA$. Il punto $G$ è tale che $\angle AGB$ sia un angolo retto e $\angle CBG = \angle GBA$. Prove che $B_1$, $C_1$, $F$ e $G$ sono collineari.
+
+[[src_bmo_2022-23_round1__Q03]]

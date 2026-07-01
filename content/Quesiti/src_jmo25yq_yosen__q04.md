@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo25yq_yosen__Q04
 parent: src_jmo25yq_yosen
 competition: Japan Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3×3 fillings with 1–9 where every row and column sum is divisible by 3*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5184
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1puWzUo8OLdW2kCIHzGHhZaVauCRdH9Ya/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare 3×3 riempimenti con 19 in cui ogni somma di righe e colonne è divisibile per 3*
+
+> In quanti modi possiamo scrivere i numeri interi $1, 2, \ldots, 9$ (ciascuno esattamente una volta) nelle celle di una griglia $3 \times 3$ in modo che la somma dei tre numeri in ogni riga e ogni colonna sia divisibile da $3$? (Le disposizioni relative alla rotazione o alla riflessione si contano come distinte.)
+
+**Risposta:** 5184
+[[src_jmo25yq_yosen__Q04]]

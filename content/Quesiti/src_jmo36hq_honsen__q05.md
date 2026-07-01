@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2026 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo36hq_honsen__Q05
 parent: src_jmo36hq_honsen
 competition: Japan Mathematical Olympiad 2026 — Honsen (Final)
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Point P off the plane with equal products; circumcircles meet plane in triangle similar to T*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oqGtdGx8swPoRbJnrYEkEjUg3BLmmGVE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto P al di fuori del piano con prodotti uguali; i circoncircoli incontrano il piano in un triangolo simile a T*
+
+> Lo spazio tridimensionale ha un piano $\pi$. Sul $\pi$ c'è un triangolo non isosceles $ABC$, e che il suo incentro sia $I$. Prova che esiste un triangolo $\mathcal{T}$ tale che per ogni punto $P$ non situato su $\pi$ soddisfacente $$AP \cdot BC = BP \cdot CA = CP \cdot AB,$$ si verifichi:
+> 
+> $I_A$, $I_B$ e $I_C$ siano rispettivamente gli incentri dei triangoli $BCP$, $CAP$ e $ABP$. Se il circoncircolo del triangolo $II_BI_C$, il circoncircolo del triangolo $II_CI_A$ e il circoncircolo del triangolo $II_AI_B$ incontrano $\pi$ rispettivamente nei punti $X$, $Y$ e $Z$ (ciascuno diverso da $I$), il triangolo $XYZ$ è simile a $\mathcal{T}$.
+> 
+> Qui $UV$ indica la lunghezza del segmento $UV$.
+
+[[src_jmo36hq_honsen__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2011 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2011__Q11
 parent: src_cn_cmc_2011
 competition: China Mathematical Competition 2011
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Line intercepts ellipse; inscribed circle center locus and area*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\dfrac{117\sqrt{3}}{49}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Elisse di intercettazione delle linee; locus e area del centro del cerchio inscritto*
+
+> La linea retta $l$ con pendenza $\dfrac{1}{3}$ intercetta l'ellisse $C\colon \dfrac{x^2}{36} + \dfrac{y^2}{4} = 1$ nei punti $A$, $B$, e il punto $P(3\sqrt{2},\, \sqrt{2})$ si trova nella parte superiore sinistra di $l$ (come mostrato alla figura. 11.1). (1) Provare che il centro del cerchio di $\triangle PAB$ è su una linea data. (2) Quando $\angle APB = 60^\circ$, trovare la superficie di $\triangle PAB$.
+
+![[src_cn_cmc_b11_w42__Q11.png]]
+
+**Risposta:** $\dfrac{117\sqrt{3}}{49}$
+[[src_cn_cmc_2011__Q11]]

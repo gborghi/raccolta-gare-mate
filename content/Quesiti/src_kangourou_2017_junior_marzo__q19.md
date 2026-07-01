@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q19
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti autobus supera l'automobile*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many buses exceed the car*
+
+> Every 3 minutes a bus departs from the airport directly to the city centre. A person can leave the airport at the same time as a bus leaves and travels to the city centre on the same route as the buses. It takes 60 minutes for each bus to get from the airport to the centre and 35 minutes for the car. On her journey to the city centre, how many buses exceed the car, excluding the bus with which she left? A) 8
+> 	
+> B) 9
+> 	
+> C) 10
+> 	
+> D) 11
+> 	
+> E) 13
+
+**Answer:** A
+[[src_kangourou_2017_junior_marzo__Q19]]

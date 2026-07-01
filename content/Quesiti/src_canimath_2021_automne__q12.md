@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2021 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_automne__Q12
 parent: src_canimath_2021_automne
 competition: Coupe Animath Automne 2021
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute isosceles triangle, constructed points S,T,D,E; show CE bisects angle DCB*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto con uguale occhiaio, punti costruiti S,T,D,E; mostrare l'angolo di bisezione CE DCB*
+
+> Che $ABC$ sia un triangolo con tutti gli angoli acuti e tale che $AB = BC$. Il punto $S$ deve essere il punto della metà della linea $[BC)$ in modo tale che $AS = BS$. $T$ deve essere il punto della metà della linea $[BA)$ in modo tale che $BT = BC$. Il $D$ deve essere l'intersezione delle linee $(AS)$ e $(CT)$. Il punto $E$ deve essere il punto del segmento $[BA]$ in modo tale che $BE = CD$. Indicare che la linea $(CE)$ è il bisettore angolare di $\widehat{DCB}$.
+
+[[src_canimath_2021_automne__Q12]]

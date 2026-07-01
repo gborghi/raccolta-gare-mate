@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1980 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1980_r3__Q05
 parent: src_pol_1980_r3
 competition: Olimpiade Matematica Polacca 1980 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tetrahedron with all six midpoint-edge triangles equal in area is regular*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1buHUldz_MXLjWLDDfrCtJVYfHr83vEi2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il tetraedro con tutti e sei i triangoli di bordo medio uguali di superficie è regolare*
+
+> In un tetraedro, i sei triangoli determinati da un bordo del tetraedro e il punto medio del bordo opposto hanno tutte una superficie uguale. Prove che il tetraedro è regolare.
+
+[[src_pol_1980_r3__Q05]]

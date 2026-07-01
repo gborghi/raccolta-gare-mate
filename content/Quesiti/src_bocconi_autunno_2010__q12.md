@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2010 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2010__Q12
 parent: src_bocconi_autunno_2010
 competition: Giochi d'Autunno 2010
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza minima percorsa dal ragno tra gli 8 vertici di una stanza*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 44 m
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum distance traveled by the spider between the 8 vertices of a room*
+
+> IN A parallel-piped room (6 m wide, 8 m long, and 4 m high) a spider has placed itself comfortably on one of the vertices. The other seven peaks have as many flies, trying to stay still (one for each summit). The spider then decides to eat them, one by one, before returning to the starting point, so as to cover the shortest possible distance. What is the minimum distance?
+
+**Answer:** 44 m
+[[src_bocconi_autunno_2010__Q12]]

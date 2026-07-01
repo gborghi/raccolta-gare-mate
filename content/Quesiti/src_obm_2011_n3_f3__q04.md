@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f3__Q04
 parent: src_obm_2011_n3_f3
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Do there exist 2011 positive integers with gcd(a_i,a_j)=a_j-a_i for all i<j?*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lg8sglroGshD0xnLsEEaoJUunh8VJxYI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Esistono numeri interi positivi 2011 con gcd(a_i,a_j) =a_j-a_i per tutti i<j?*
+
+> Esistono numeri interi positivi del 2011 $a_1 < a_2 < \cdots < a_{2011}$ in modo che, per tutti $1 \le i < j \le 2011$, $$\gcd(a_i,\, a_j) = a_j - a_i\,?$$
+
+[[src_obm_2011_n3_f3__Q04]]

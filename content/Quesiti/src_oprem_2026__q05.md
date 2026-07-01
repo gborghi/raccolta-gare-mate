@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2026 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2026__Q05
 parent: src_oprem_2026
 competition: Olympiades Nationales de Mathématiques (Première) 2026
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exercise 1, Q5: triominoes tiling 2^n x 2^n grids, with cells removed*
 
@@ -47,3 +50,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LLPTi5ufMEDVFp1I29WzXWLiM0F8_rKH/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Esercizio 1, Q5: triomini a piastrella 2^n x 2^n griglie, con cellule rimosse< MSK1/>
+
+> Esercizio 1 (tutti i candidati) - Triomini. I seguenti poligoni, costituiti da tre quadrati, sono chiamati triomini. Ci interessano i tessuti per triomino di griglie (o, nelle lettere b) e c), di pezzi di griglie) di formato $a \times b$, dove $a$ indica il loro numero di linee e $b$ il loro numero di colonne. La figura opposta mostra un esempio di tessitura di una griglia in cui si impone $a = 2$ e $b = 6$. Che $n$ sia un intero naturale non zero. (a) È possibile costruire una griglia di formato $2^n \times 2^n$? (b) Si rimuove il quadrato superiore sinistro di tale griglia; è quindi possibile tessere questa griglia così modificata (si parte dalla griglia di dimensioni $n = 1$ e poi $n = 2$ per generalizzare)? c) Indicare che il risultato precedente rimane vero quando si rimuove qualunque delle celle della griglia completa $2^n \times 2^n$ all'inizio.
+
+![[src_oprem_2026__Q05.png]]
+
+[[src_oprem_2026__Q05]]

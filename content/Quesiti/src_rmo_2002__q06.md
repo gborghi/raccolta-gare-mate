@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2002 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2002__Q06
 parent: src_rmo_2002
 competition: Regional Mathematical Olympiad 2002
@@ -30,6 +31,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove double inequality involving harmonic-type sum*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_m3GjaVBEfcL0ShA4FjgFrQjp3KoeJKA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricercare la doppia disuguaglianza con somma di tipo armonico*
+
+> Per qualsiasi numero naturale $n > 1$, dimostrare la disuguaglianza: $$\frac{1}{2} < \frac{1}{n^2+1} + \frac{2}{n^2+2} + \frac{3}{n^2+3} + \cdots + \frac{n}{n^2+n} < \frac{1}{2} + \frac{1}{2n}.$$
+
+[[src_rmo_2002__Q06]]

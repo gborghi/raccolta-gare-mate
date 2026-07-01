@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f2__Q01
 parent: src_obm_2007_n3_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count the divisors less than 2007 of the largest divisor of 123456 below 2007*
 
@@ -49,3 +52,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zX7z5wzrS24GDIg6SjMeYYN4pu7op9WA/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i divisori inferiori al 2007 del più grande divisore di 123456 al di sotto del 2007*
+
+> Considera il numero $123456$, la cui fattorizzazione è $123456 = 2^7 \cdot 3 \cdot 643$. $d$ sia un divisore di $123456$ inferiore a $2007$ (prendi il più grande di tale divisore). Determinare il numero totale di divisori di $d$ inferiori a $2007$.
+
+**Risposta:** 17
+[[src_obm_2007_n3_f2__Q01]]

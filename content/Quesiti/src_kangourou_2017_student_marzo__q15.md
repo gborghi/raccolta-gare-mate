@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Student - Gara 16 marzo — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q15
 parent: src_kangourou_2017_student_marzo
 competition: Kangourou 2017 Student - Gara 16 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di comporre 2017 con quattro tetraedri*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of composing 2017 with four tetrahedra*
+
+> We have four equal dice in the shape of a regular tetrahedron, perfectly balanced, that is, equal, having the numbers 0, 1, 2, 7 on all four faces. If we all throw the dice on a flat surface, what is the probability that we can compose the 2017 number using exactly one of the three faces visible for each dice? A) 1/256 B) 63/64 C) 81/256 D) 3/32 E) 29/32
+
+**Answer:** B
+[[src_kangourou_2017_student_marzo__Q15]]

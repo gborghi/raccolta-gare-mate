@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2013 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2013__Q02
 parent: src_cn_cmc_2013
 competition: China Mathematical Competition 2013
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Product of triangle areas for parabola points with dot product condition*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 2
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Produzione di aree triangolari per punti paraboli con condizione di prodotto dotto*
+
+> In un sistema di coordinate rettangolare piatto $xOy$, i punti $A$, $B$ sono sulla parabola $y^2 = 4x$, soddisfacendo $\overrightarrow{OA} \cdot \overrightarrow{OB} = -4$, e il punto $F$ è il punto focale della parabola. Poi $S_{\triangle OFA} \cdot S_{\triangle OFB} = \underline{\qquad}$.
+
+**Risposta:** 2
+[[src_cn_cmc_2013__Q02]]

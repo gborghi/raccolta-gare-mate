@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo16yq_yosen__Q12
 parent: src_jmo16yq_yosen
 competition: Japan Mathematical Olympiad 2006 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 20-tuples of positive integers satisfying product inequality conditions*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Contare 20 volte dei numeri interi positivi che soddisfano le condizioni di disuguaglianza dei prodotti< MSK1/>
+
+> $(p_1, p_2, \ldots, p_{10}, q_1, q_2, \ldots, q_{10})$ sia un $20$-topo di integri positivi con $p_1 = q_{10} = 1$, e per ogni $i = 1, 2, \ldots, 9$, la condizione $p_i q_i - p_{i+1} q_{i+1} \ge 1$ è valida. Quanti sono tali "MSK5/>-tupli"?
+
+[[src_jmo16yq_yosen__Q12]]

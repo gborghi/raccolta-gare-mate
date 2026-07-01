@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1990 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1990__Q05
 parent: src_rmo_1990
 competition: Regional Mathematical Olympiad 1990
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Point P inside triangle ABC with perimeter 2s: prove s < AP+BP+CP < 2s*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ogcf4pFWupc25G2ZRadOfWoHaUpTy0zm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto P all'interno del triangolo ABC con perimetro 2s: prova s < AP+BP+CP < 2s*
+
+> $P$ è qualsiasi punto all'interno di un triangolo $ABC$. Il perimetro del triangolo $AB + BC + CA = 2s$. Provare che < MSK0/>
+
+[[src_rmo_1990__Q05]]

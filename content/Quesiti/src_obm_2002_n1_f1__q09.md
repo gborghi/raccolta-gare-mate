@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f1__Q09
 parent: src_obm_2002_n1_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Nature of the difference of squares of two consecutive integers*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NviJwQmbmihSaakvq3DJSWhViadj6Z5P/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Natura della differenza dei quadrati di due integri consecutivi*
+
+> La differenza tra i quadrati di due numeri interi positivi consecutivi è sempre:
+> 
+> (A) un numero primo. (B) un multiple di $3$. C) pari alla somma di questi numeri. (D) un numero strano. (E) un quadrato perfetto.
+
+**Risposta:** C
+[[src_obm_2002_n1_f1__Q09]]

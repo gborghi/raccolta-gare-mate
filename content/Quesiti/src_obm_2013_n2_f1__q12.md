@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q12
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Friends travelling along roads: day all stop at city 6*
 
@@ -57,3 +60,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Amici che viaggiano lungo le strade: ogni giorno si fermano alla città 6*
+
+> Un paese ha 11 città collegate da strade uniche. Undici amici decidono di viaggiare, ognuno partendo da una città diversa. Ogni giorno viaggiano esattamente su una strada. La tabella qui sotto mostra da quale città ogni amico parte e a quale città arriva.
+> 
+> Partendo da} & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 & 11 \\ \hline \text{arrivo a} & 6 & 9 & 1 & 2 & 3 & 4 & 1 & 1 & 8 & 5 \end{array}
+> 
+> Quando un amico arriva alla città 6, smette di viaggiare. In quanti giorni tutti gli amici smetteranno di viaggiare?
+> 
+> (A) 2 \quad (B) 3 \quad (C) 6 \quad (D) 9 \quad (E) 12
+
+**Risposta:** B
+[[src_obm_2013_n2_f1__Q12]]

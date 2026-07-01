@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q25
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della regione C nel cerchio*
 
@@ -72,3 +75,25 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of region C in the circle*
+
+![[src_kangourou_2002_student__prob25.png]]
+
+> The circumference of the figure on the side has the centre at the point O and the unit radius. The radiant measurement of each of the angles α, β and γ is less than π. If the area of Region A is 4 1 12 5 − π and the area of Region B is 2 1 4 − π, then the area of Region C is:
+>  
+> A. 4 π B. 3 π C. 3 2π
+>  
+> D. 6 π E. 12 5π
+>  
+>  
+>  
+> 
+> Student of the year 2002. This item is not intended to be used. 6
+
+**Answer:** B
+[[src_kangourou_2002_student__Q25]]

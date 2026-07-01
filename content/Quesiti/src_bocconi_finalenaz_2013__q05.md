@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2013 — Quesito
   5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2013__Q05
 parent: src_bocconi_finalenaz_2013
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2013
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero visto allo specchio su t-shirt con cifre*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 220
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number seen in the mirror on a t-shirt with digits *
+
+> A three-digit number (no zero) is shown on Luke's t-shirt, with the digits drawn as in the figure. Looking in the mirror, Luke sees a number equal to four times what is actually written on his shirt.
+> 
+> What number does Luke see in the mirror? (Please note that t-shirt manufacturers are not very good at math and, by the way, they don't know that a number with more than one digit can't start with a "0".)
+
+![[src_bocconi_finalenaz_2013__Q05.png]]
+
+**Answer:** 220
+[[src_bocconi_finalenaz_2013__Q05]]

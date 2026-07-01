@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q18
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di divisori di 100*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of dividers of 100*
+
+> How many different divisors between them (including 1 and 100) does the number 100 have? A) 3 B) 6 C) 7 D) 8 E) 9 19.All around a rectangular sheet there is an alleyway which is always the same width along the sides (see figure). The outer perimeter of the driveway is 16 m longer than the inner one. How wide is the driveway? (a) 1 m (b) 2 m (c) 4 m (d) 8 m (e) depends on the dimensions of the flooring
+
+**Answer:** E
+[[src_kangourou_2005_benjamin__Q18]]

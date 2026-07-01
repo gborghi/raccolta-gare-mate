@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q21
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo mosse per trasformare la griglia*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum movements to transform the grid*
+
+![[src_kangourou_2006_student_marzo__prob21.png]]
+
+> Figure 1 shows a grid of 4×4 with white and grey cells. On it we are only allowed to make movements of the following type: exchange between two cells on the same line or column. What is the minimum number of moves that allows us to obtain the figure shown in Figure 2? A) We will never be able to achieve it if we only make authorized moves. B) 2                     C) 3                     D) 4                     E) 5
+
+**Answer:** D
+[[src_kangourou_2006_student_marzo__Q21]]

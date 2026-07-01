@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r1__Q08
 parent: src_pol_1993_r1
 competition: Olimpiade Matematica Polacca 1993 — Round 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximize the sum of nine natural numbers subject to a bound on the sum of their fifth powers.*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Massimizzare la somma di nove numeri naturali soggetti a un limite sulla somma delle loro quinte potenze.
+
+> Date un numero intero positivo $n$, determinare il valore massimo possibile della somma dei numeri naturali $k_1,k_2,\ldots,k_9$ che soddisfano $$k_1^5+k_2^5+\cdots+k_9^5\le 7n.$$
+
+[[src_pol_1993_r1__Q08]]

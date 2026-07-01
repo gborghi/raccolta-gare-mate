@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q12
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Maggiore tra A..E con uguaglianze spostate*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Major between A..E with equal displacement< MSK1/>
+
+> If A + 1 = B + 2 = C  3 = D + 4 = E  5 what is the greatest? A) A B) B C) C D) D E) E
+
+**Answer:** E
+[[src_kangourou_2000_studenti__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q06
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di f(2031)-f(2013) per funzione lineare*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*F#2031)-F#2013) value by linear function*
+
+> Whether f is a linear function such that f (2013)  f (2001) = 100. How much is f (2031)  f (2013) ? A) 75
+> 	
+> B) 100 C) 120 D) 150 E) 180
+
+[[src_kangourou_2013_student__Q06]]

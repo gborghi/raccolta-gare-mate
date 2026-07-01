@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2026__Q03
 parent: src_tfjm_2026
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026
@@ -37,6 +38,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Among N barrels, exactly k are contaminated by a lethal dye; using detectors that test mixtures of chosen barrels, find a strategy minimizing the number of detectors $D_{N,k}(S)$ under perfect, threshold-sensitive, probabilistic and dynamic detector models.*
 
@@ -78,3 +81,41 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tra N barili, esattamente k sono contaminati da un colorante letale; utilizzando i rilevatori che testano miscele di barili scelti, si trova una strategia che riduce al minimo il numero di rilevatori $D_{N,k}(S)$ in modelli di rilevatori perfetti, sensibili alla soglia, probabilistici e dinamici.*
+
+> 3. Veneno nelle bevande.
+> 
+> La tintura Funigfle de Jais Mauve et Mauvaise (abbreviata TFJM$^2$) è un colorante fittizio, incolore o colorato, ma mortale anche a concentrazioni infinitesime. Durante un trasporto di merci, quantità infinitesime di TFJM$^2$ sono finite nei barili delle bevande di Nicolas. Cerca di sapere in quali barili si trova il veleno.
+> 
+> I barili sono in numero naturale: supponiamo che Nicolas abbia $N$ barili numerati da $1$ a $N$, e supponiamo esattamente che i barili $k \le N$ siano stati contaminati. Una strategia di rilevamento $S$ consiste nel scegliere, su uno o più barili, di testare (miscelando i barili scelti insieme in un volume unitario) la presenza del veleno. La strategia può avere successo o fallire, a seconda che la configurazione dei test scelta consente o meno di identificare in modo unico i barili contaminati.
+> 
+> Data la strategia $S$, $D_{N,k}(S)$ è il numero di sensori (testi) utilizzati dalla strategia. Cerchiamo la strategia per ridurre al minimo questo numero.
+> 
+> In tutte le domande del problema si può fare un commento per $k \le N$.
+> 
+> 1. In questa domanda, supponiamo che i sensori siano perfetti, cioè che rilevino la presenza di TFJM$^2$ (anche mescolato). Determinare una strategia di rilevamento ottimale $S$ e determinare $D_{N,k}(S)$.
+> 
+> 2. In questa domanda, supponiamo che i sensori non siano sensibili, cioè che rilevino la presenza di veleno se, e solo se, la sua concentrazione nel campione testato è almeno uguale a una certa soglia. Determinare una strategia ottimale di rilevamento $S$ e determinare $D_{N,k}(S)$.
+> 
+> 3. In questa domanda, supponiamo che i rilevatori non siano più deterministi. Indicare $p \in [0,1]$ e $q \in [0,1]$ e supporre che la probabilità che il rilevatore rileva la presenza di veleno sia $p$ e la probabilità di un falso positivo sia $q$, cioè $\mathbb{P}_{\text{poison present}}(\text{positive detection}) = p$ e $\mathbb{P}_{\text{poison absent}}(\text{positive detection}) = q$.
+> 
+> Set < MSK0/>. Diciamo che una strategia $S$ è $\varepsilon$-ottimale se $D_{N,k}(S)$ è la più piccola possibile tra tutte le strategie la cui probabilità di fallimento è inferiore a $\varepsilon$.
+> 
+> a) In questa e nella domanda successiva, supponiamo < MSK0/>. stabilire una strategia di rilevamento la cui probabilità di fallimento è inferiore a $\varepsilon$. b) Determinare una strategia < MSK2/>-ottimale < MSK3/> e determinare < MSK4/>. c) Le stesse domande con $q \ne 0$.
+> 
+> 4. In questa domanda, supponiamo che i rilevatori non siano più deterministici e siano dinamici, cioè la probabilità di rilevamento positivo in presenza di veleno è esattamente uguale alla concentrazione di veleno nel campione testato, e quella di falso positivo è $\varepsilon$. Set $\varepsilon > 0$.
+> 
+> a) stabilire una strategia di rilevamento la cui probabilità di fallimento è inferiore a < MSK0/>. b) Determinare una strategia < MSK1/>-ottimale < MSK2/> e determinare < MSK3/>.
+> 
+> 5. Ripetere le domande 1 e 2 tenendo conto delle strategie $\varepsilon$ ottimali.
+> 
+> 6. Proporre e studiare altre direzioni di ricerca.
+
+![[src_tfjm_2026__Q03.png]]
+
+[[src_tfjm_2026__Q03]]

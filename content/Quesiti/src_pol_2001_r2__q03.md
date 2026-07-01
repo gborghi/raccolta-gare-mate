@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2001 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2001_r2__Q03
 parent: src_pol_2001_r2
 competition: Olimpiade Matematica Polacca 2001 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A monic degree-n polynomial missing the x^{n-1} and x^{n-2} terms, with a nonzero coefficient, cannot have all real roots.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dO7OqqHjPcVUusxRxcY7zUJe_pdXhL9d/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un polinomio monico di grado n che manca dei termini x^{n-1} e x^{n-2}, con un coefficiente non zero, non può avere tutte le radici reali.*
+
+> $n\ge 3$ sia un numero intero positivo. Prova che un polinomio della forma $$x^n+a_{n-3}x^{n-3}+a_{n-4}x^{n-4}+\cdots+a_1x+a_0,$$ in cui almeno uno dei coefficienti reali $a_0,a_1,\ldots,a_{n-3}$ non è zero, non può avere tutte le radici reali.
+
+[[src_pol_2001_r2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q14
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti interi <2021 con resto 5 dividendo per 6,7,8,9*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Integer amounts <2021 with remainder 5 divided by 6,7,8,9*
+
+> If you divide 2021 by 6, 7, 8 or 9, you always get 5 as the rest. For how many positive integers less than 2021, does the same thing happen, i.e. the rest of the four divisions is always 5? A) 4
+> 	
+> B) 3
+> 	
+> C) 2
+> 	
+> D) 1
+> 	
+> (e) no one
+
+**Answer:** A
+[[src_kangourou_2021_junior_marzo__Q14]]

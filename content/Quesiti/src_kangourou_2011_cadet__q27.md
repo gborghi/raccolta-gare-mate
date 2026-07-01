@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q27
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione vera sulle eta di Eva e Rita*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+True statement about the ages of Eva and Rita
+
+> Eva and Rita are two teachers on duty. Seven years ago, Eve's age was a multiple of eight, and eight years from now, she'll be a multiple of seven. Eight years ago Rita's age was a multiple of 7 and in seven years it will be a multiple of 8. Which of the following statements can be true? A) Rita is two years older than Eva B) Rita is one year older than Eva C) Rita and Eva are the same age D) Rita is one year younger than Eva E) Rita is two years younger than Eva
+
+**Answer:** A
+[[src_kangourou_2011_cadet__Q27]]

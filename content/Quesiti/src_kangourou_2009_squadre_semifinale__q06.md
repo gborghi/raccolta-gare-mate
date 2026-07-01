@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 squadre semifinale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q06
 parent: src_kangourou_2009_squadre_semifinale
 competition: Kangourou 2009 squadre semifinale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Notti vissute dalla mamma prima di Martina*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9132
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Nights lived by her mother before Martina.
+
+> Before Martina Martina was born on 9 May last year at noon. His mother was born on May 9, 1983, always at noon. How many nights did Martina's mother live before Martina was born?
+
+**Answer:** 9132
+[[src_kangourou_2009_squadre_semifinale__Q06]]

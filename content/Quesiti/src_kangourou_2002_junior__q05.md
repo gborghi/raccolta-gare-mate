@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q05
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spezzata piu lunga sul quadrato*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Longest piece in square< MSK1/>
+
+> Whether the length of the longest broken line, formed by segments having the ends at the vertices of a square on side 1, which can be traced without ever pulling the pen off the sheet and without twice traversing any segment (it is allowed to pass more than once for some vertices). Which of the following numbers is closest to l?
+>  
+> A. 4        B. 3            C. 5,4      D. 5,8         E. 6,8
+
+**Answer:** D
+[[src_kangourou_2002_junior__Q05]]

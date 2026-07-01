@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2022_squadre__Q02
 parent: src_gsm_2022_squadre
 competition: Gara a Squadre GSM (locale Genova) 2022
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima somma di sequenza dispari con regola maxcifra*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4365
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum odd sequence sum with maximal rule*
+
+> the factor of the integer n is the product of all integers from 1 to n; we write n!for example 1! = 1, 5! = 120, 6! = 720;
+
+**Answer:** 4365
+[[src_gsm_2022_squadre__Q02]]

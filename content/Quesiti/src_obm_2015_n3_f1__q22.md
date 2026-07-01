@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q22
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min obtuse angles among all triangles formed by 5 non-collinear points*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Min angoli obtusosi tra tutti i triangoli formati da 5 punti non collineari*
+
+> Nel piano sono dati cinque punti non collineari. Come minimo, quanti angoli obtusosi (angoli più grandi di $90^\circ$) sono determinati da tre di questi cinque punti (cioè come angoli interni di triangoli formati da tre dei cinque punti)?
+> 
+> (A) 0 \quad (B) 1 \quad (C) 2 \quad (D) 3 \quad (E) 4
+
+**Risposta:** D
+[[src_obm_2015_n3_f1__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 2000 (XLI International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2000__Q04
 parent: src_imho_2000
 competition: IMO 2000 (XLI International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cards in boxes; sum identifies third box*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1SxIaq8osFL-pFpQf_5H4v7VWykrNDr0_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cards in boxes; sum identifies third box*
+
+> 100 cards are numbered 1 to 100 (each card different) and placed in 3 boxes (at least one card in each box). How many ways can this be done so that if two boxes are selected and a card is taken from each, then the knowledge of their sum alone is always sufficient to identify the third box?
+
+[[src_imho_2000__Q04]]

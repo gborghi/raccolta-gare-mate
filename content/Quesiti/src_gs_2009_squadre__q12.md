@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2009 - Gara a squadre — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2009_squadre__Q12
 parent: src_gs_2009_squadre
 competition: Coppa Fermat 2009 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di pratiche, fattorizzazione di 438516x2*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 937
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of practices, factoring of 438516x2*
+
+> On an island in Damogran, there are very contentious peasants. Each of these is in dispute with the others on territorial grounds; for this reason they have turned to a justice of the peace who has opened a practice for each dispute. Knowing that the judge has 438,516 practices in his office, how many farmers are there on the island?
+
+**Answer:** 937
+[[src_gs_2009_squadre__Q12]]

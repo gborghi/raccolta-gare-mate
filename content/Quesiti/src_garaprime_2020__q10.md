@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2020 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2020__Q10
 parent: src_garaprime_2020
 competition: Gara Nazionale Classi Prime 2020
@@ -26,6 +27,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale di seggi del Partito della Pagnotta*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RcjMtWkWdcfagBZF3LMfq3IMn7aMwmGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage of seats in the Pagnotta Party*
+
+> In Kenoncè, it was decided to halve the number of Members of Parliament. The new elections, however, lead to a parliament which, while half of the previous one, is not composed of new people but is a subset of the previous parliament. However, the proportions between the island's only two political parties change: only 18 of the Lasagna Party's MPs are confirmed in office, while the Pagnotta Party sees as many as 3 4 of its MPs confirmed. What is the percentage of seats in the new parliament for the Pagnotta Party? A 90% B 75% C 60% D 50% E 72% F cannot be determined by the data provided alone
+
+**Answer:** A
+[[src_garaprime_2020__Q10]]

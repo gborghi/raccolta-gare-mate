@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2014 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2014__Q03
 parent: src_bocconi_squadre_2014
 competition: Gara a Squadre 2014
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Fiammiferi per ricoprire pavimento 1 m × 1 m con quadratini 5 cm*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 840
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Flames for flooring 1 m × 1 m with 5 cm squares *
+
+> How many matches, < MSK0/> cm long, is the minimum required to cover a square floor (< MSK1/>) with a square lattice of < MSK2/> cm on the side?
+
+**Answer:** 840
+[[src_bocconi_squadre_2014__Q03]]

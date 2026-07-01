@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f2__Q06
 parent: src_obm_2003_n2_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find another four-digit 'biquadrado' number, equal to the sum of squares of its two two-digit halves*
 
@@ -53,3 +56,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sARgZdHvMaU-7zLZ37YU31RP3OKsBQ1b/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca un altro numero biquadrato a quattro cifre, pari alla somma dei quadrati delle sue due metà a due cifre*
+
+> Diciamo che un numero a quattro cifre $N$ è $\textit{biquadrado}$ quando è uguale alla somma dei quadrati dei due numeri formati dalle sue due metà: uno formato dalle prime due cifre di $N$, nell'ordine, e l'altro formato dalle ultime due cifre di $N$, anche nell'ordine in cui appaiono in $N$. Ad esempio, $1233$ è biquadrato da $1233 = 12^2 + 33^2$. Trova un altro numero quadrato.
+> 
+> Nota: ricordate che un numero a quattro cifre non può iniziare con lo zero.
+
+[[src_obm_2003_n2_f2__Q06]]

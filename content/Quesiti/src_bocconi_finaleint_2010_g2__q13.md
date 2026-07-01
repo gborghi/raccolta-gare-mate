@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 2) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g2__Q13
 parent: src_bocconi_finaleint_2010_g2
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto di tre numeri non divisibili per 10 e strettamente minori di 201 uguale a 201000: trova la loro somma.*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 216, 271
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Product of three numbers not divisible by 10 and narrowly less than 201 equal to 201000: find their sum.*
+
+> The product of three numbers not divisible by $10$ and narrowly less than $201$ and equal to $201000$. How much is their sum?
+
+**Answer:** 216, 271
+[[src_bocconi_finaleint_2010_g2__Q13]]

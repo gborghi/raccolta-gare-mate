@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2021 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_printemps__Q16
 parent: src_canimath_2021_printemps
 competition: Coupe Animath Printemps 2021
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Partition {1,...,2021^2} into pairwise disjoint balanced sets*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Partitazione {1,...,2021^2} in gruppi equilibrati disgiunti in coppia< MSK1/>
+
+> Si dice che un insieme di integri non vuoti sia *equilibrato* se il suo numero di elementi è uguale alla media dei suoi elementi. Ad esempio, l'insieme $\{1, 2, 6\}$ è equilibrato, perché ha $3$ elementi la cui media è uguale a $3$, ma l'insieme $\{1, 2, \ldots, n\}$ non è equilibrato quando $n \ge 2$, perché ha $n$ elementi la cui media è uguale a $(n+1)/2$.
+> 
+> È possibile dividere l'insieme $\{1, 2, \ldots, 2021^2\}$ in diversi insiemi bilanciati che sono disgiunti in coppia?
+
+[[src_canimath_2021_printemps__Q16]]

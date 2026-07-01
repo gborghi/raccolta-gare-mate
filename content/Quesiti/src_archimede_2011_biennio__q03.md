@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Biennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_biennio__Q03
 parent: src_archimede_2011_biennio
 competition: Giochi di Archimede 2011 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Proprieta comune dei tre rettangoli su un triangolo*
 
@@ -51,3 +54,22 @@ tags:
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 **Anche in triennio:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Common property of the three rectangles on a triangle*
+
+![[src_archimede_2011_biennio__prob3.png]]
+
+> On each vertex of an octagonal base pyramid is written a number, which can be 1, 2 or 3, so that for each face (including the base) the sum of the numbers written on its vertices is divisible by three. Knowing that not all numbers are equal to 3, what is the sum of all numbers written on the vertices worth?
+>
+> - **(A)** 12,
+> - **(B)** 14,
+> - **(C)** 15,
+> - **(D)** 18,
+> - **(E)** 21.
+
+**Answer:** B
+[[src_archimede_2011_biennio__Q03]]

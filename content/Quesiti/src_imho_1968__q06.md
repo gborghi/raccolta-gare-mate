@@ -1,6 +1,7 @@
 ---
 title: IMO 1968 (X International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1968__Q06
 parent: src_imho_1968
 competition: IMO 1968 (X International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Evaluate infinite sum of floor((n+2^k)/2^(k+1)) for all natural n*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+(MSK0/>Evaluate infinite sums of floor n+2^k)/2^(k+1)) for the natural n*
+
+> For every natural number $n$, evaluate the sum $$\sum_{k=0}^{\infty} \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor = \left\lfloor \frac{n+1}{2} \right\rfloor + \left\lfloor \frac{n+2}{4} \right\rfloor + \cdots + \left\lfloor \frac{n + 2^k}{2^{k+1}} \right\rfloor + \cdots$$ (The symbol $[x]$ denotes the greatest integer not exceeding $x$.)
+
+[[src_imho_1968__Q06]]

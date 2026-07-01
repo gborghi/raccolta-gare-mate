@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Cadet — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q03
 parent: src_kangourou_2019_cadet_marzo
 competition: Kangourou 2019 Gara di Marzo Cadet
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale disegno non e tracciabile senza alzare la matita*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which drawing is not traceable without raising the pencil*
+
+![[src_kangourou_2019_cadet_marzo__prob3.png]]
+
+> 3. Which of the drawings below cannot be drawn without taking the pencil off the sheet or traversing the same segment twice? A) B) C) D) E)
+
+**Answer:** D
+[[src_kangourou_2019_cadet_marzo__Q03]]

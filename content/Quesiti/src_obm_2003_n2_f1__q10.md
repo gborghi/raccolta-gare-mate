@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f1__Q10
 parent: src_obm_2003_n2_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Oscillating sequence 1,2,3,4,5,3,2 with period 7; term 2003*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza oscillante 1,2,3,4,5,3,2 con periodo 7; termine 2003*
+
+> Considera la sequenza oscillante: $1, 2, 3, 4, 5, 3, 2, 1, 2, 3, 4, 5, 3, 2, \ldots$ (ripetendo con il periodo 7).
+> 
+> Il termine nella posizione $2003$ è:
+> 
+> (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
+
+**Risposta:** E
+[[src_obm_2003_n2_f1__Q10]]

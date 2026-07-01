@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2009 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2009__Q06
 parent: src_cn_ctst_2009
 competition: China National Team Selection Test 2009
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *AP of 40 distinct positive integers contains one not of form 2^k+3^l*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>AP di 40 diversi integri positivi contiene uno non di forma 2^k+3^l< MSK1/>
+
+> Prove che in una progressione aritmetica composta da $40$ diversi interi positivi, almeno uno dei numeri non può essere scritto come $2^k + 3^l$, dove $k$, $l$ sono interi non negativi. (Posato da Chen Yonggao)
+
+[[src_cn_ctst_2009__Q06]]

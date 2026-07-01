@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student semifinale individuale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q06
 parent: src_kangourou_2021_student_semifinale
 competition: Kangourou 2021 Student semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soluzione di equazione in (x^3-76) data x=5*
 
@@ -50,3 +53,23 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Solution of the equation in (x^3-76) given x=5*
+
+> (4 points) Knowing that, for a suitable set of real numbers a, b, c, the equation a(x3  76)8 + b(x3  76)4 + c = 0 admits the solution x = 5, which of the following numbers definitely solves the same equation? A) 125
+>  
+> B) – 5
+>  
+> C) – 4
+>  
+> D) 4
+>  
+>  
+> E) 3
+
+**Answer:** E
+[[src_kangourou_2021_student_semifinale__Q06]]

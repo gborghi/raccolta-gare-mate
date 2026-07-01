@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q06
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area bianca con parallelogrammi sovrapposti*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1950
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*White area with overlapping parallelograms*
+
+![[src_gs_2013_squadre__prob6.png]]
+
+> The heraldic coat of arms chosen by Brienne Tarth is hung on a wall: it is a green cross on a white background. The coat of arms is square. The two arms of the cross are parallelograms all contained in the square. Of each parallelogram, two sides lie on the two horizontal sides of the square and two of the four vertices coincide with two vertices diagonally opposite the square. Each side of the square coat of arms shall be $60\text{ cm}$ long. Each horizontal side of the two parallelograms is $15\text{ cm}$ long. What is the white area of the coat of arms in $\text{cm}^2$?
+
+**Answer:** 1950
+[[src_gs_2013_squadre__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo30yq_yosen__Q05
 parent: src_jmo30yq_yosen
 competition: Japan Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest positive n equal to (x1^2-1)(x2^2-2)...(x10^2-10) for integers xi*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 84
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La minore n positiva uguale a (x1^2-1) ((x2^2-2)...(x10^2-10) per gli integri xi*
+
+> Un intero positivo $n$ viene chiamato *scrivibile* se esistono interi $x_1, x_2, \ldots, x_{10}$ in modo tale che $$n = (x_1^2 - 1)(x_2^2 - 2)(x_3^2 - 3) \cdots (x_{10}^2 - 10).$$ Trova il più piccolo intero positivo scrivibile.
+
+**Risposta:** 84
+[[src_jmo30yq_yosen__Q05]]

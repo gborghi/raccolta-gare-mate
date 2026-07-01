@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q17
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del triangolo originale (trapezio)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of the original triangle (trapezoid) *
+
+> A trapezoid is constructed from an equilateral triangle sequencing an angle (i.e. removing from it a suitable smaller triangle having a vertex in common with it). Two copies of this trapezoid are joined together to form a parallelogram whose perimeter is 10 centimeters longer than that of the original triangle. How many centimeters does the perimeter of the original triangle measure? A) 10 B) 30 C) 40 D) 60 E) The data are insufficient.
+
+**Answer:** B
+[[src_kangourou_2007_junior_marzo__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q05
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Simplify a fraction with 2004 in numerator and denominator*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Semplificare una frazione con 2004 in numeratore e denominatore*
+
+> Semplificando la frazione $\dfrac{2004 + 2004}{2004 \times 2004}$, otteniamo:
+> 
+> (A) $2004$ \quad (B) $\dfrac{113}{355}$ \quad (C) $\dfrac{1}{2004}$ \quad (D) $\dfrac{2}{3}$ \quad (E) $\dfrac{7}{7}$
+
+**Risposta:** C
+[[src_obm_2004_n1_f1__Q05]]

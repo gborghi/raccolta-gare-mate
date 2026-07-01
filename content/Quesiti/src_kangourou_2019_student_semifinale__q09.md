@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Student — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q09
 parent: src_kangourou_2019_student_semifinale
 competition: Kangourou 2019 Semifinale Student
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti allineamenti di lunghezza 16 di due lettere (vincoli)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quantity of 16 two-letter length alignments (links) *
+
+> (Points 6) How many different alignments of 16 two-letter lengths are possible if each alignment is to begin and end with the same letter, if the initial letter does not appear twice in a row and the other does not appear three times in a row? A) 28 B) 42 C) 44 D) 46 E) 56 Questions to be answered
+
+**Answer:** E
+[[src_kangourou_2019_student_semifinale__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f3__Q05
 parent: src_obm_1999_n3_f3
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum Sundays for round-robin football championship with n teams*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $n = 2k-1 \text{ if } n=2k, \text{ and } n \text{ if } n \text{ is odd}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17yibfSyhuhmSwDbCsRV7EjaJIGuB8esS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di domenica per il campionato di calcio in round-robin con n squadre*
+
+> In $\textit{Tumbolia}$ ci sono $n$ squadre di calcio. Si organizzerà un campionato round-robin in modo che ciascuna squadra giochi esattamente una volta contro l'altra. Tutte le partite si svolgono la domenica e una squadra non può giocare più di una volta la stessa domenica. Determinare il numero intero positivo minimo $n$ per il quale è possibile tenere un tale campionato nelle domenica $n$.
+
+**Risposta:** n = 2k-1 \text{ if } n=2k, \text{ and } n \text{ if } n \text{ is odd}
+[[src_obm_1999_n3_f3__Q05]]

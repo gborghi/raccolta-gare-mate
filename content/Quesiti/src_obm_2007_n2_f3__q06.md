@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f3__Q06
 parent: src_obm_2007_n2_f3
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Finite set A with |S(A)|≤10^97 and |D(A)|≥10^100*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Finire il set A con \S \D \A) ≤10^97 e \A) ≥10^100*
+
+> $A$ sia un insieme di numeri interi. Definire $S(A)$ come l'insieme di tutte le somme di due elementi di $A$ (non necessariamente distinti) e $D(A)$ come l'insieme di tutte le differenze di due elementi di $A$ (non necessariamente distinti). Per esempio, se $A = \{1, 2, 3, 10\}$, allora $S(A) = \{2, 3, 4, 5, 6, 11, 12, 13, 20\}$ e $D(A) = \{-9, -8, -7, -2, -1, 0, 1, 2, 7, 8, 9\}$.
+> 
+> Indicare che esiste un insieme finito $A$ tale che $S(A)$ abbia al massimo $10^{97}$ elementi e $D(A)$ abbia almeno $10^{100}$ elementi.
+
+[[src_obm_2007_n2_f3__Q06]]

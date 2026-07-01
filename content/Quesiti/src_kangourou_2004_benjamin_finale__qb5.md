@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin finale nazionale — Quesito B5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin_finale__QB5
 parent: src_kangourou_2004_benjamin_finale
 competition: Kangourou 2004 Benjamin finale nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante coppie regolari nell'orologio*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DTuTa9-8gf07gHbV5tJLp1dknhFcY163/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many regular pairs in a watch< MSK1/>
+
+> It is 9.00 on the large clock at the entrance to Mirabilandia Park: I observe that on the dial all the numbers included in the arc between the two hands, proceeding clockwise, are smaller than the numbers $9$ and $12$ that are at both ends. I call **regular pair** any subset formed by two different numbers from the $\{1, 2, 3, \ldots, 12\}$ set that, like $\{9, 12\}$: - delimit at least one arc containing only minor numbers of both numbers in the pair and - do not denote two consecutive hours.
+> 
+> How many regular pairs (if I don't take into account the order in which I write the two numbers)?
+
+**Answer:** 9
+[[src_kangourou_2004_benjamin_finale__QB5]]

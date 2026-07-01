@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2025 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_printemps__Q05
 parent: src_canimath_2025_printemps
 competition: Coupe Animath Printemps 2025
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove PY = QX using incenter and equal-radius circles*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove PY = QX utilizzando cerchi di incentro e di raggio uguale*
+
+> Che $ABC$ sia un triangolo e $I$ il centro del suo cerchio inciso. La linea parallela a $(BI)$ che passa attraverso $C$ incontra la linea $(CI)$ a $Q$. La linea parallela a $(CI)$ che passa attraverso $B$ incontra la linea $(BI)$ a $P$. Il segmento $[PQ]$ incontra il cerchio con il centro $P$ che attraversa $B$ a $X$, e il cerchio con il centro $Q$ che attraversa $C$ a $Y$.
+> 
+> Mostra che < MSK0/>.
+
+[[src_canimath_2025_printemps__Q05]]

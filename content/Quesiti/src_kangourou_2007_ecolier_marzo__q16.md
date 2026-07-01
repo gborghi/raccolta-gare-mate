@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Ecolier (marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q16
 parent: src_kangourou_2007_ecolier_marzo
 competition: Kangourou 2007 Ecolier (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero possibile nella casella ? (latino 3x3)*
 
@@ -57,3 +60,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Could the number be in the box? (Latin 3x3) *
+
+> The numbers 1, 2 and 3 shall be written in the boxes in the table in the figure so that each of the numbers 1, 2 and 3 appears in each row and column. Isabella began to insert some numbers into the table: which number can she write in the box with the question mark? A) only 1 B) only 2 C) only 3 D) 2 or 3 E) 1, 2 or 3 A B This is the main reason why the Commission has decided to extend its powers to the Member States.
+> 
+> The questions from N. 17 al N. Twenty-four is worth five points each.
+
+**Answer:** C
+[[src_kangourou_2007_ecolier_marzo__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2009__Q09
 parent: src_bocconi_squadre_2009
 competition: Gara a Squadre 2009
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza spigolo AE di piramide a base rettangolare*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $AE = 60\text{ m}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ae length of the rectangular base pyramid shaft*
+
+> We measured the spikes of the rectangular-based pyramid you see in the figure (which doesn't match the proportions): $AB = 90\text{ m}$; $AC = 70\text{ m}$; $AD = 20\text{ m}$. Then we got tired. What is the size of the $AE$ beam?
+
+![[src_bocconi_squadre_2009__Q09.png]]
+
+**Answer:** $AE = 60\text{ m}$
+[[src_bocconi_squadre_2009__Q09]]

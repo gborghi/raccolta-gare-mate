@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2019 — Nível 3 — Fase x — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2019_n3_fx__Q05
 parent: src_obm_2019_n3_fx
 competition: Olimpíada Brasileira de Matemática 2019 — Nível 3 — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Partition positive integers into two or three subsets with ratio bounds*
 
@@ -52,3 +55,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CYun80NsCeb63sAWfcOsX2EiPcRcOJMk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Partire interi positivi in due o tre sottoinsiemi con limiti di rapporto*
+
+> a) Prove che le costanti $a, b$ con $1 < a < 2 < b$ non hanno una divisione del set di integri positivi in due sottoinsiemi $A_0, A_1$ in modo tale che: se $j \in \{0,1\}$ e $m, n$ appartengono a $A_j$, allora $n/m < a$ o $n/m > b$.
+> 
+> b) Determinare tutte le coppie di reali $(a, b)$ con $1 < a < 2 < b$ per le quali si applica la seguente proprietà: esiste una divisione dell'insieme di integri positivi in tre sottoinsiemi $A_0, A_1, A_2$ in modo tale che: se $j \in \{0, 1, 2\}$ e $m, n$ appartengono a $A_j$, allora $n/m < a$ o $n/m > b$.
+> 
+> **Nota: ** Una partizione di un insieme significa scrivere che il set è un'unione di sottoinsiemi dissociati in coppia.
+
+[[src_obm_2019_n3_fx__Q05]]

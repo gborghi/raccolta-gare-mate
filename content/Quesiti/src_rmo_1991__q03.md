@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1991 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1991__Q03
 parent: src_rmo_1991
 competition: Regional Mathematical Olympiad 1991
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all four-digit perfect squares with equal digit pairs*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RD8FU5BoTp9QOmMS9Bfvr_F9JpltmZcX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i quadrati perfetti a quattro cifre con coppie di cifre uguali*
+
+> Un numero a quattro cifre ha le seguenti proprietà: (a) è un quadrato perfetto, (b) le sue prime due cifre sono uguali l'una all'altra, (c) le sue ultime due cifre sono uguali l'una all'altra.
+> 
+> Trova tutti quei numeri a quattro cifre.
+
+[[src_rmo_1991__Q03]]

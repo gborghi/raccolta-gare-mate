@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f2__Q06
 parent: src_obm_2005_n2_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find total percentage of correct answers on a three-subject exam*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la percentuale totale di risposte corrette in un esame di tre soggetti*
+
+> Gabriel risolve un esame di matematica contenente domande sull'algebra, la geometria e la logica. Dopo aver verificato il suo risultato, Gabriel osservò che aveva risposto correttamente $50\%$ delle domande di algebra, $70\%$ delle domande di geometria e $80\%$ delle domande di logica. Gabriel notò anche che rispose correttamente esattamente $62\%$ delle domande di algebra e logica combinate, e $74\%$ delle domande di geometria e logica combinate. Quale percentuale di tutte le domande dell'esame di Gabriel ha risposto correttamente?
+> 
+> (Nota: questo è Parte B, Problema 1, vale 10 punti ciascuno.)
+
+[[src_obm_2005_n2_f2__Q06]]

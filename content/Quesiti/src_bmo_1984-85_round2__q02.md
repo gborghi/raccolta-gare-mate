@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1984-85 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1984-85_round2__Q02
 parent: src_bmo_1984-85_round2
 competition: British Mathematical Olympiad 1984-85 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the first 1985 positive evil integers with even binary digit sum*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i primi interi positivi malvagi del 1985 con una somma pari di cifre binarie*
+
+> Un intero positivo è chiamato male se il numero di $1$s nella sua espansione binaria è pari. Per esempio $18 = (10010)_2$ è malefico. Trova la somma dei primi $1985$ numeri interi positivi cattivi.
+
+[[src_bmo_1984-85_round2__Q02]]

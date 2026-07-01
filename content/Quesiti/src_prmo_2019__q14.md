@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q14
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n >= 10 with n+6 prime and 9n+7 perfect square*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La più piccola n >= 10 con n+6 primo e 9n+7 quadrato perfetto*
+
+> Trova il più piccolo intero positivo $n \ge 10$ in modo che $n + 6$ sia un primo e $9n + 7$ sia un quadrato perfetto.
+
+[[src_prmo_2019__Q14]]

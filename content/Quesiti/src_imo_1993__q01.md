@@ -1,6 +1,7 @@
 ---
 title: IMO 1993 (34th IMO) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1993__Q01
 parent: src_imo_1993
 competition: IMO 1993 (34th IMO)
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prove x^n+5x^(n-1)+3 is irreducible over integers*
 
@@ -35,3 +38,13 @@ tags:
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Go0gpsCj9HK8rw7A_MFaoiSJsC9e1hL9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Prove x^n+5x^(n-1) +3 is irreducible over integers< MSK1/>
+
+> Let f(x) = xn + 5xn−1 + 3, where n > 1 is an integer. Prove that f(x) cannot be expressed as the product of two nonconstant polynomials with integer coefficients.
+
+[[src_imo_1993__Q01]]

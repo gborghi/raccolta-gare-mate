@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2003 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2003_r3__Q03
 parent: src_pol_2003_r3
 competition: Olimpiade Matematica Polacca 2003 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer-coefficient polynomials W such that W(n) divides 2^n - 1 for every natural n.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YJsU0Az6dGhVVIiXqks47NARYBNId3kT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i polinomi a coefficiente intero W in modo tale che W(n) divida 2^n - 1 per ogni n naturale.*
+
+> Trova tutti i polinomi $W$ con i coefficienti interi che soddisfano la seguente condizione: per ogni numero naturale $n$, $2^n - 1$ è divisibile da $W(n)$.
+
+[[src_pol_2003_r3__Q03]]

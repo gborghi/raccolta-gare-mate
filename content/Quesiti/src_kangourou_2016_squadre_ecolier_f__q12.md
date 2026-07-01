@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q12
 parent: src_kangourou_2016_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2016 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti euro ha Maria (Lucia, Maria, Nina = 31)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 10
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AmqdvgZVEwczaExdEeD0t4IQIsBaAuB7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How much does Maria have (Lucia, Maria, Nina = 31)
+
+> Lucia, Maria and Nina Lucia, Maria and Nina have a total of 31 euros. Lucia has less than Maria and Maria has less than Nina; but if Nina gives two euros to Lucia, Maria and Nina have the same number of euros and Lucia has more than each of them. How many euros does Maria have?
+
+**Answer:** 10
+[[src_kangourou_2016_squadre_ecolier_f__Q12]]

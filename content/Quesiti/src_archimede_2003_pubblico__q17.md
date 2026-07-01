@@ -1,6 +1,7 @@
 ---
 title: Archimede 2003 - Gara del Pubblico (Cesenatico) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_pubblico__Q17
 parent: src_archimede_2003_pubblico
 competition: Archimede 2003 - Gara del Pubblico (Cesenatico)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *problema 17*
 
@@ -37,3 +40,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the problem.
+
+![[src_archimede_2003_pubblico__prob17.png]]
+
+> A crying architect was called in to design a huge shopping mall on the outskirts of the city. The entire shopping centre shall be built on a square < MSK0/> of 240 metres on the side. The architect's design foresees that the plan of the shopping centre is the intersection of two parallelograms. The first of these has two opposite sides, each 120 metres long, lying respectively on the sides $AD$ and $BC$ of the square, while the second has two opposite sides (always 120 metres long) lying on the sides $AB$ and $CD$.
+> 
+> If you owe $S_{\max}$ the maximum and $S_{\min}$ the minimum possible area of the mall plant, how much is $S_{\max} - S_{\min}$? (see figure)
+
+[[src_archimede_2003_pubblico__Q17]]

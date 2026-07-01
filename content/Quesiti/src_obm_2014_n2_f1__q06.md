@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f1__Q06
 parent: src_obm_2014_n2_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find which number has exactly 2014 positive divisors*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova quale numero ha esattamente i divisori positivi del 2014*
+
+> Per trovare il numero di divisori positivi di un intero positivo $n$, basta prendere la sua fattorizzazione dei primi e calcolare il prodotto degli esponenti dei primi ogni aumento di 1. Ad esempio, $2880 = 2^5 \cdot 3^2 \cdot 5 \cdot 7$ ha divisori $(5+1)(2+1)(1+1)(1+1) = 5 \cdot 3 \cdot 2 \cdot 2 = 36$. Qual è il numero intero meno positivo con divisori positivi esatti del 2014?
+> 
+> (A) $2^{2^3 \cdot 19} \cdot 5^3$ $\quad$ (B) $2^{53} 3^{18} 5^2$ $\quad$ (C) $2^{52} 3^{18} 5$ $\quad$ (D) $2^{18} 5^3$ $\quad$ (E) $2^{27} 5^2$
+
+**Risposta:** B
+[[src_obm_2014_n2_f1__Q06]]

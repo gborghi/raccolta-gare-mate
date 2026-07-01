@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1994 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1994_r3__Q03
 parent: src_pol_1994_r3
 competition: Olimpiade Matematica Polacca 1994 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Mappings on subsets respecting intersection-min, limit of n-th root*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19eAtDFACSz1VPPylPXfkbfEFZ2SE4e3i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mappe su sottoinsiemi riguardanti intersezioni-min, limite di radice n-th*
+
+> Data un numero intero fisso $c \ge 1$, $a(n)$ è il numero di mappamenti $w$ dai sottogruppi di $\{1, 2, \ldots, n\}$ ai numeri interi $1, 2, \ldots, c$ in modo tale che $$w(A \cap B) = \min\{w(A), w(B)\} \quad \text{for any two subsets } A, B \text{ of } \{1, \ldots, n\}.$$ Computa $\lim_{n \to \infty} \sqrt[n]{a(n)}$.
+
+[[src_pol_1994_r3__Q03]]

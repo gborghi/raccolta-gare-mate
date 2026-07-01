@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 28
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q28
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest integer not exceeding r1+r2+r3 for incircle corner triangles*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nel numero intero più grande non superiore a r1+r2+r3 per i triangoli angolari incircoli*
+
+> < MSK0/> sia un triangolo con lati 51, 52, 53. $\Omega$ indichi l'incircolo di $\triangle ABC$. Tracciare tangenti a $\Omega$ paralleli ai lati di $ABC$. Il $r_1, r_2, r_3$ deve essere l'inradii dei tre triangoli angolari così formati. Trova il più grande numero intero non superiore a $r_1 + r_2 + r_3$.
+
+[[src_prmo_2019__Q28]]

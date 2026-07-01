@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_2livello__Q16
 parent: src_archimede_2018_2livello
 competition: Archimede Gara di Febbraio 2018 - 2° livello
@@ -28,6 +29,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Gioco tessere su griglia 1x2018, strategia vincente*
 
@@ -53,3 +56,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Playing cards on a grid 1x2018, winning strategy
+
+> Alice and Barbara invented the following game. They have a grid of 1 × 2018, with boxes numbered from 1 to 2018 from left to right, and 2018 cards numbered from 1 to 2018 too. The game begins with the empty grid, and the two players alternate in making moves; the turn player can choose between: • selecting a card not yet placed on the grid and placing it on a free box, provided that the numbers on the cards placed, if read from left to right, are in increasing order; • selecting a card already placed on the grid and moving it to an adjacent box so that the card approaches the box with the same number as the card, provided that the arrival box is free (example: if the card with number 7 is on box number 12, it can be moved to the left, but not to the right; instead, if a card with its number is already in the box itself, it can no longer be moved). (a) Demonstrate that at each turn, if the cards are not all on the grid, there is a lawful move. (b) If Alice starts and the winner is the one who plays the last card, who has a winning strategy?
+
+[[src_archimede_2018_2livello__Q16]]

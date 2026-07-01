@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r1__Q05
 parent: src_pol_1993_r1
 competition: Olimpiade Matematica Polacca 1993 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove that a line determined by two squares built on a triangle passes through a fixed point.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Prove che una linea determinata da due quadrati costruiti su un triangolo passa attraverso un punto fisso.
+
+> Si deve considerare che $A$ e $C$ siano punti distinti nel piano. Per ogni punto $B$ si costruiscono quadrati $ABKL$ e $BCMN$ al di fuori del triangolo $ABC$. Prove che le linee $LM$ passano attraverso un punto fisso in quanto $B$ varia nello stesso semiplano determinato da $AC$.
+
+[[src_pol_1993_r1__Q05]]

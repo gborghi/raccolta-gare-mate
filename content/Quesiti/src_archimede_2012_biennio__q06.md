@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_biennio__Q06
 parent: src_archimede_2012_biennio
 competition: Giochi di Archimede 2012 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri tre cifre con ogni permutazione divisibile per 4*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13kesAdPzQ8k4YwW-asUVUoQ5RPW1gOnt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three-digit numbers with each permutation divisible by 4*
+
+> How many three-digit numbers are all different from 0, so that they're still permuting their digits the number you get is divisible by four?
+>
+> - **(A)** 8
+> - **(B)** 12
+> - **(C)** 16
+> - **(D)** 24
+> - **(E)** 48
+
+**Answer:** A
+[[src_archimede_2012_biennio__Q06]]

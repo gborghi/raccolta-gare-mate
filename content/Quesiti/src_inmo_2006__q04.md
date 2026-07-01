@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2006 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2006__Q04
 parent: src_inmo_2006
 competition: Indian National Mathematical Olympiad 2006
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *46 red squares on 9x9 board: at least 3 red in every 2x2 block*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fL6CHwtNRPMnX4gkiManxyf5xqdd58fL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*46 quadrati rossi sulla lavagna 9x9: almeno 3 rossi in ogni blocco 2x2*
+
+> Circa 46 quadrati di una lavagna < MSK0/> sono di colore rosso. Indicare che esiste un blocco $2 \times 2$ di 4 quadrati di cui almeno 3 di colore rosso.
+
+![[src_inmo_2006__Q04.png]]
+
+[[src_inmo_2006__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2007 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2007__Q17
 parent: src_bocconi_squadre_2007
 competition: Gara a Squadre 2007
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare la disposizione di gettoni su esagoni con somme uguali a 100*
 
@@ -48,3 +51,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete the layout of tokens on hexagons with sums equal to 100*
+
+> Renato placed numbered tokens on the circles of the four hexagons of the figure. The numbers that appeared on these four hexagons were all different, ranging from 7 to 24, and the sum of the numbers in each hexagon was equal to 100.
+> 
+> At this point, his wife, Erica, takes advantage of a moment of his absence to make a sudden blast of the wind and drops some numbers: $E'$ desperate! Her husband loved her so much, and she only remembers that there were no 9 or 15.
+> 
+> Help her complete the figure so she can find the missing numbers!
+
+![[src_bocconi_squadre_2007__Q17.png]]
+
+[[src_bocconi_squadre_2007__Q17]]

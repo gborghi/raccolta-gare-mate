@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q22
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza dal punto dove la lepre si gira*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Distance from the point where the hare turns< MSK1/>
+
+> The hare and the turtle challenge each other on a five-kilometer straight path. The speed of the hare is five times that of the turtle, and each keeps its speed constant. They start from the same point at the same moment but, by mistake, the hare runs in a direction perpendicular to the path, which the turtle takes in correctly. When the hare notices the error, it turns and runs in a straight line to the point of arrival, which it reaches at the same time as the turtle. How many kilometers from the point of arrival is the point where the hare realized the error? A) 11
+> 	
+> B) 12
+> 	
+> C) 13
+> 	
+> D) 14
+> 	
+> E) 15
+
+**Answer:** C
+[[src_kangourou_2020_junior_marzo__Q22]]

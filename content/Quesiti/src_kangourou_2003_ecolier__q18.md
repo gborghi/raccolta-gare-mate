@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q18
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto prezzi cagnolino/orsacchiotto*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Related price of puppy/bear< MSK1/>
+
+> In a toy store, the price for one puppy and three cubs is the same as for three cubs and two cubs. All puppies are the same price and all bears are the same price. So: a) a puppy is twice as expensive as a teddy bear b) a teddy bear is twice as expensive as a puppy c) puppies and teddy bears have the same price d) a teddy bear is three times more expensive than a teddy bear e) none of the above claims are correct
+
+**Answer:** B
+[[src_kangourou_2003_ecolier__Q18]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo11yq_yosen__Q12
 parent: src_jjmo11yq_yosen
 competition: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perimeter of union of 2013 unit circles*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4*pi - 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KqvofIIXgEWPDHUAZMRGkscvso3ZVrK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Perimetro di unione dei cerchi unitari 2013*
+
+> Nel piano c'è un cerchio di raggio inferiore a $1$. Sulla circonferenza di questo cerchio, si prendono i punti $2013$ reciprocamente distinti e si disegna un cerchio di raggio $1$ centrato su ciascuno di essi. Il confine della regione costituita da tutti i punti contenuti in ciascuno di questi cerchi unitari $2013$ aveva lunghezza $1$. Trova la lunghezza del confine della regione costituita da tutti i punti contenuti in almeno uno di questi cerchi unitari $2013$.
+
+**Risposta:** 4*pi - 1
+[[src_jjmo11yq_yosen__Q12]]

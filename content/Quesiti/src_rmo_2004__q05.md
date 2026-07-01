@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2004 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2004__Q05
 parent: src_rmo_2004
 competition: Regional Mathematical Olympiad 2004
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Midpoints and parallel lines in quadrilateral give four equal-area parts*
 
@@ -44,3 +47,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PH5-bvLqESBobr80FptiJm1tzcFEiAQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I punti di mezzo e le linee parallele in quadrilaterali danno quattro parti di superficie uguale*
+
+> Che $ABCD$ sia un quadrilaterale; $X$ e $Y$ i punti medi di $AC$ e $BD$ rispettivamente e le linee attraverso $X$ e $Y$ rispettivamente parallele a $BD$, $AC$ si incontrano in $O$. I punti intermedi $P$, $Q$, $R$ e $S$ siano rispettivamente $AB$, $BC$, $CD$ e $DA$. Prove questo .
+> 
+> a) i quadrilaterali $APOS$ e $BQOP$ hanno la stessa superficie;
+> 
+> b) le superfici dei quadrilaterali $APOS$, $BQOP$, $CROQ$, $DSOR$ sono tutte uguali.
+
+![[src_rmo_2004__Q05.png]]
+
+[[src_rmo_2004__Q05]]

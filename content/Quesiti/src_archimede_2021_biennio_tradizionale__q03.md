@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_biennio_tradizionale__Q03
 parent: src_archimede_2021_biennio_tradizionale
 competition: Giochi di Archimede 2021 - Gara Biennio (tradizionale)
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri secondi tra 40 e 70*
 
@@ -43,3 +46,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many second numbers between 40 and 70*
+
+> Since 2021 = 43 · 47, product of two different prime numbers, we can say that 2021 is a second number. How many secondary numbers are between 40 and 70 ?
+>
+> - **(A)** 7
+> - **(B)** 6
+> - **(C)** 11
+> - **(D)** 8
+> - **(E)** 10
+
+[[src_archimede_2021_biennio_tradizionale__Q03]]

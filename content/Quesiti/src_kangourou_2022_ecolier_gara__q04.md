@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier gara individuale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q04
 parent: src_kangourou_2022_ecolier_gara
 competition: Kangourou 2022 Ecolier gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale pedina spostare per 2 pedine per riga e colonna*
 
@@ -58,3 +61,27 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which pad to move by 2 pads per row and column*
+
+![[src_kangourou_2022_ecolier_gara__prob4.png]]
+
+> You see a chessboard next to it with some gray balls on it. Rossella wants every row and every column of this chessboard to have 2 and no more than 2 pawns. What kind of pedal should you move on an empty cell? A) A
+>   
+> B) B
+>   
+> C) C
+>   
+> D) D
+>   
+> E) E
+>  
+> A B C D E
+>
+
+**Answer:** C
+[[src_kangourou_2022_ecolier_gara__Q04]]

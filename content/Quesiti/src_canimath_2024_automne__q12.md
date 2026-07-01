@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2024 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_automne__Q12
 parent: src_canimath_2024_automne
 competition: Coupe Animath Automne 2024
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square ABCD, equilateral triangles ABP and DAQ exterior; compute NM/NC*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrato, triangoli equilaterali ABP e DAQ esteriore; calcolo NM/NC*
+
+> $ABCD$ sia quadrato e $P$ e $Q$ puntino l'esterno di $ABCD$ in modo tale che i triangoli $ABP$ e $DAQ$ siano equilaterali. $N$ sia il punto medio di $[PQ]$ e $M$ il punto di intersezione delle linee $(BQ)$ e $(DP)$. Calcolare < MSK11/>.
+
+[[src_canimath_2024_automne__Q12]]

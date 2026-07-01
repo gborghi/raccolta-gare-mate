@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q02
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di espressione con ripunit (11...1)*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Expression value with repunit (11...1) < MSK1/>
+
+> It 's easy to check how much is it worth ? A) 5
+> 	
+> B) 9
+>  	
+> C) 11
+> 	
+> D) 55
+> 	
+> E) 99
+
+**Answer:** D
+[[src_kangourou_2013_cadet__Q02]]

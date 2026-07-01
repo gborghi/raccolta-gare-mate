@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q06
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura angolo ACB (triangolo isoscele con D)*
 
@@ -61,3 +64,33 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measure the ACB angle (isosceles triangle with D) *
+
+![[src_kangourou_2008_student_marzo__prob6.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=2]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (3,0);
+  \coordinate (C) at ({1.854*0.809}, {1.854*0.588});
+  \coordinate (D) at ({1.854}, 0);
+  \draw (A) -- (B) -- (C) -- cycle;
+  \draw (C) -- (D);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above] at (C) {$C$};
+  \node[below] at (D) {$D$};
+\end{tikzpicture}
+\end{document}
+```
+
+> A isosceles triangle ABC (CA = CB) is given. The D-point on side AB is such that AD = AC and DB = DC (see figure). So the measurement of the ACB angle is A) 98° B) 100° C) 104° D) 108° E) 110°
+
+**Answer:** D
+[[src_kangourou_2008_student_marzo__Q06]]

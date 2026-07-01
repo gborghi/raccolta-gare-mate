@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Region 4 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_r4__Q01
 parent: src_rmo_2012_r4
 competition: Regional Mathematical Olympiad 2012
@@ -33,6 +34,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Radius of a circle inscribed in a unit square tangent to two side-centred quadrant arcs and a side*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RynHYch6pmp09Vp_PVUFTCMGvoAuqZ22/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Radio di un cerchio iscritto in un quadrato unitario tangente a due archi quadranti laterali e a un lato*
+
+> Lasciate che $ABCD$ sia un quadrato unitario. Disegnare un quadrante di un cerchio con $A$ come centro e $B$, $D$ come punti finali dell'arco. Allo stesso modo, disegnare un quadrante di un cerchio con $B$ come centro e $A$, $C$ come punti finali dell'arco. Scrivere un cerchio $\Gamma$ che tocchi l'arco $AC$ esternamente, l'arco $BD$ internamente e anche il lato $AD$. Trova il raggio del cerchio < MSK11/>.
+
+![[src_rmo_2012_r4__Q01.png]]
+
+[[src_rmo_2012_r4__Q01]]

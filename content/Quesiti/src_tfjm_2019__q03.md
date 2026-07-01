@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2019__Q03
 parent: src_tfjm_2019
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Scheduling trains onto station tracks (dead-end, one-way, two-way) so an arrival order is admissible*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricordare i treni sui binari delle stazioni (terreno, a senso unico, a senso doppio) in modo che sia ammissibile un ordine di arrivo*
+
+> Julie è stata appena nominata capo della stazione. Lei deve gestire i treni. I treni arrivano ogni giorno in un ordine preciso, l'ordine di arrivo, e devono ritirarsi sulle binarie durante la notte nell'ordine di partenza. La mattina i treni devono essere in grado, nell'ordine di partenza, di accedere direttamente all'uscita senza essere bloccati da un altro treno. Esistono tre tipi di binari: i \emph{impasses} (dead-end), in cui i treni arrivano a sinistra e partono a sinistra al mattino; i \emph{one-way tracks} (voies à sens unique), in cui i treni arrivano a sinistra e partono a destra al mattino; i \emph{two-way tracks} (voies à double sens), in cui i treni possono arrivare da entrambi i lati la sera e partire da entrambi i lati al mattino.\n\nSe Julie riesce a trovare una soluzione che consente di ripartire tutti i treni in ordine con i binari a sua disposizione, si dice che l'ordine di arrivo è \emph{admissible}. Ad esempio, se Julie deve ripartire tre treni e dispone di un solo impasse, l'ordine di arrivo $(3,2,1)$ è ammissibile, ma non $(1,2,3)$. La figura 6 rappresenta un esempio con treni $6$ e una pista di ciascun tipo, con ordine di arrivo $(2,1,6,5,3)$; tale ordine è ammissibile. Si osserva che ci sono diverse possibilità di ripartire i treni su una pista bidirezionale: si può scegliere di entrare a sinistra o a destra. In quali condizioni è ammissibile un ordine di arrivo: a) se la pista è un impasse? b) se la pista è a senso unico? (c) se la pista è bidirezionale?\n\nLascia che un numero intero $p \ge 2$ dividi $p$ $n$. Si suppone che i treni arrivano nell'ordine seguente: $(p, p-1, \ldots, 1, 2p, 2p-1, \ldots, 2p-(p-1), \ldots, n, n-1, \ldots, n-(p-1))$.\n\n\textbf{2.} Qual è il numero minimo di binari necessario per essere ammissibili a tale ordine: (a) se tutte le binari sono impasse? b) se le binarie sono tutte a senso unico? Qual è il numero minimo di binari per i quali tutti gli ordini di arrivo sono ammissibili: a) se tutti i binari sono impassi? b) se le binarie sono tutte a senso unico? (c) se le tracce sono tutte bidirezionali?\n\n\textbf{4.} Si suppone in questa domanda che non ci sia più solo una traccia ed è bidirezionale. D'ora in poi si possiede una macchina che permette di passare un treno sopra un altro. Questa operazione richiede < MSK10/> ora. Poiché il prezzo è elevato, quante volte si deve passare un treno sopra un altro?\n\n\textbf{5.} Prendi la domanda precedente con più binari e alla fine impasse o binari unidirezionali.\n\n\textbf{6.} Proponi e studi altri percorsi di ricerca.
+
+![[src_tfjm_2019__Q03.png]]
+
+[[src_tfjm_2019__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2013 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo23mq_honsen__Q02
 parent: src_jmo23mq_honsen
 competition: Japan Mathematical Olympiad 2013 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer functions satisfying a functional equation*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PB6QVfFVyF4M6--riIsWoTuMBhLU_5t7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni integrali che soddisfano un'equazione funzionale*
+
+> Trovare tutte le funzioni $f$ definite sui numeri interi e prendere valori reali in modo tale che, per tutti gli enti $m,n$, $$f(m) + f(n) = f(mn) + f(m + n + mn)$$ tenga.
+
+[[src_jmo23mq_honsen__Q02]]

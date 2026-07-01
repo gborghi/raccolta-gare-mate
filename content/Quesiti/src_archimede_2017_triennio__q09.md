@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Triennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_triennio__Q09
 parent: src_archimede_2017_triennio
 competition: Giochi di Archimede 2017 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *affermazione falsa*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WbKYlCGmnvn3EnNy8PHpDbjgy_2zTYne/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*false statement*
+
+> So LMN is a triangle and P is a point on the MN side. Let's say you have \ MLP = \ LNP and \ NLP = \ LMP. Which of the following is false?
+>
+> - **(A)** LN > LP
+> - **(B)** MN · LP > LM · LN
+> - **(C)** LP ≤MN 2
+> - **(D)** LM < MN
+> - **(E)** MP · NP = LP 2
+
+**Answer:** B
+[[src_archimede_2017_triennio__Q09]]

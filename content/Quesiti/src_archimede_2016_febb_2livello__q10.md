@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2016 - 2 livello — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_febb_2livello__Q10
 parent: src_archimede_2016_febb_2livello
 competition: Archimede Gara di Febbraio 2016 - 2 livello
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma delle aree di tutti i triangoli su vertici dell'esagono*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WjYsXx25mj1TfZaCRYUsoX4KBtCIbL6j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the areas of all triangles on vertices of the hexagon*
+
+![[src_archimede_2016_febb_2livello__prob10.png]]
+
+> Whether ABCDEF is a regular hexagon of area 1. Consider all the triangles whose vertices belong to the set {A,B,C,D,E,F}: what is the sum of their areas?
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 7
+
+**Answer:** D
+[[src_archimede_2016_febb_2livello__Q10]]

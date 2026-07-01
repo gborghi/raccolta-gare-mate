@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q05
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti 2 e 5 per fare 2000*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Quantities 2 and 5 to make 2000< MSK1/>
+
+> The year 2000: the number 2000 is obtained by multiplying only two and five. How many of each type are needed? (a) two two and five five B) three two and three five C) three two and four five D) four two and three five E) four two and four five
+
+**Answer:** D
+[[src_kangourou_2000_studenti__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2004 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2004__Q06
 parent: src_cn_cmc_2004
 competition: China Mathematical Competition 2004
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length of segment in cone with inscribed configuration*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza del segmento in cono con configurazione scritta*
+
+> La sezione trasversale verticale di un cono circolare con vertice $P$ è un triangolo rettangolare di uguali pollice. Il punto $A$ è sulla circonferenza del cerchio base, il punto $B$ è interno al cerchio base, $O$ è il centro del cerchio base, $AB \perp OB$ e si interseca a $B$, $OB \perp PD$ e si interseca a $H$, $PA = 4$, e $C$ è il punto medio di $PA$. Quindi la lunghezza di $CB$ è ( ).
+> 
+> (A) $\dfrac{\sqrt{5}}{2}$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{2\sqrt{5}}{3}$ \quad (D) $\dfrac{2\sqrt{6}}{3}$
+
+![[src_cn_cmc_2004__Q06.png]]
+
+**Risposta:** D
+[[src_cn_cmc_2004__Q06]]

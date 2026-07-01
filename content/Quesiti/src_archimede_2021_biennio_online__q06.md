@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_biennio_online__Q06
 parent: src_archimede_2021_biennio_online
 competition: Giochi di Archimede 2021 - Gara Biennio (online)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale prodotto di potenze e quadrato di un intero*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Zo7WSUv5KN16W_nTPuywBaG12u7UYl5I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which product of powers and squares of an integer*
+
+> Which of the following is the square of an integer?
+>
+> - **(A)** 334 · 779 · 217
+> - **(B)** 337 · 775 · 2111
+> - **(C)** 334 · 779 · 2116
+> - **(D)** 3316 · 779 · 218
+> - **(E)** 3311 · 7716 · 219
+
+**Answer:** B
+[[src_archimede_2021_biennio_online__Q06]]

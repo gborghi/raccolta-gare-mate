@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q22
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale affermazione Carlo non puo aver fatto (verita a giorni alterni)*
 
@@ -51,3 +54,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which statement Carlo cannot have made (true on other days) *
+
+> On alternate days, Charles tells the truth or lies all day long. In one newspaper, Carlo made exactly four of the following statements. Which one couldn't have done that day?
+> 	
+> A) I lied yesterday and I will lie tomorrow.
+> 	
+> B) I am telling the truth today and I will tell it tomorrow.
+> 	
+> C) 2024 is divisible by 11.
+> 	
+> D) Yesterday was Wednesday.
+> 	
+> E) Tomorrow is Saturday.
+>
+
+**Answer:** C
+[[src_kangourou_2024_junior__Q22]]

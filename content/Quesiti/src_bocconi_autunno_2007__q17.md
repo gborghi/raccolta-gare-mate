@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2007 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2007__Q17
 parent: src_bocconi_autunno_2007
 competition: Giochi d'Autunno 2007
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di tre cifre da indovinare con condizioni sul quadrato*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1552
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of three digits to be guessed on the square conditions*
+
+> Writing a three-digit number uses three different digits $c$, $d$, $u$ ($c$ for hundreds, $d$ for tens and $u$ for units; the number of hundreds is nothing). Let's square this number and then divide it by 2. So we get a five-digit number that's written as MSK6/. What was the starting number?
+
+**Answer:** 1552
+[[src_bocconi_autunno_2007__Q17]]

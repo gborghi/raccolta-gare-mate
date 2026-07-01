@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Triennio — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_triennio__Q23
 parent: src_archimede_1996_triennio
 competition: Giochi di Archimede 1996 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale insieme di frazioni e finito*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which is the sum of fractions and finite *
+
+> Consider fractions with positive numerator and denominator. Which of the following sets is finished?
+>
+> - **(A)** the sum of fractions less than 100 with numerator less than 100
+> - **(B)** the sum of fractions greater than 100 with denominator greater than 100
+> - **(C)** the sum of fractions less than 100 with denominator less than 100
+> - **(D)** the sum of fractions less than 100 with a numerator greater than 100
+> - **(E)** the sum of fractions greater than 100 with denominator less than 100.
+
+**Answer:** C
+[[src_archimede_1996_triennio__Q23]]

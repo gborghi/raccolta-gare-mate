@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2021__Q05
 parent: src_ioqm_2021
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2021
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Parallelogram ABCD with longer side twice shorter; angle bisectors form XYZW; area of ABCD*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Parallelogramma ABCD con lato più lungo due volte più corto; bisectori di angolo formano XYZW; area di ABCD*
+
+> Nel parallelo < MSK0/> il lato più lungo è il doppio del lato più breve. Il $XYZW$ è il quadrilaterale formato dai bisettori interni degli angoli di $ABCD$. Se l'area di $XYZW$ è 10, si trova l'area di $ABCD$.
+
+[[src_ioqm_2021__Q05]]

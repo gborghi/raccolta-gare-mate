@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2018 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo28mq_honsen__Q03
 parent: src_jmo28mq_honsen
 competition: Japan Mathematical Olympiad 2018 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *function on 1..999 with iteration conditions has a fixed point*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FbU0XqFYeQTbhZOAOggiqJ27nJzT3Ibf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+La funzione * su 1,999 con condizioni di iterazione ha un punto fisso*
+
+> Let < MSK1/>. $f$ deve essere una funzione definita su $S$, assumendo valori in $S$, in modo tale che per ogni elemento $n \in S$, $$f^{\,n + f(n) + 1}(n) = f^{\,n f(n)}(n) = n$$ sia valido. Indicare che esiste un elemento $a \in S$ con $f(a) = a$. (Qui $f^{k}(n)$ indica $\underbrace{f(f(\cdots f(n)\cdots))}_{k}$, la composizione a moltiplicazione di $k$ di $f$.)
+
+[[src_jmo28mq_honsen__Q03]]

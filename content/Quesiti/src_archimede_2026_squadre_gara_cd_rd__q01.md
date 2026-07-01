@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2026 - Gara Coordinatori e Responsabili — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_gara_cd_rd__Q01
 parent: src_archimede_2026_squadre_gara_cd_rd
 competition: Gara a Squadre 2026 - Gara Coordinatori e Responsabili
@@ -22,6 +23,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità 1000p con almeno un colpo su 3 tentativi*
 
@@ -30,3 +33,13 @@ tags:
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of 1000p with at least one shot in 3 attempts*
+
+> Ludovico is a good shooter and, with every attempt, has a certain chance of hitting the target. Determine the value of $1000p$, knowing that, in three attempts, the probability that Ludovico hits the target at least once is $0{,}992$.
+
+[[src_archimede_2026_squadre_gara_cd_rd__Q01]]

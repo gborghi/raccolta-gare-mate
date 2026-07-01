@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q24
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *10 people of different heights in a line, decreasing from the tallest to both ends; count arrangements*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*10 persone di altezza diversa in fila, diminuendo dal più alto alle due estremità; sistema di conteggio*
+
+> Considerate le persone $10$, di altezza diversa, che devono stare in fila in modo tale che, partendo dalla persona più alta, le altezze devono diminuire verso entrambi i lati della linea (se la persona più alta è la prima o l'ultima della linea, tutte le persone da lei in avanti devono essere in ordine decrescente di altezza). Obbedendo a queste condizioni, in quanti modi queste persone possono stare in fila?
+> 
+> (A) $256$ (B) $768$ (C) $1260$ (D) $512$ (E) $2560$
+
+[[src_obm_2008_n3_f1__Q24]]

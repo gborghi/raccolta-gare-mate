@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Junior — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q05
 parent: src_kangourou_2018_junior_semif
 competition: Kangourou 2018 Semifinale Junior
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto volume cubo / tetraedro regolare inscritto*
 
@@ -43,3 +46,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17csch1-7f-cVvjGdqKXJQd6PNOelNdNG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Reported cubic volume/regular tetrahedron entered < MSK1/>
+
+> (Points 4) A regular tetrahedron is inscribed in a cube whose edges are diagonal to the sides of the cube. What is the ratio of the volume of the cube to the volume of the tetrahedron? A) 2
+> 	
+> B) 3
+> 	
+> C) 4/3 D) 3/2 E) 5/3
+
+**Answer:** B
+[[src_kangourou_2018_junior_semif__Q05]]

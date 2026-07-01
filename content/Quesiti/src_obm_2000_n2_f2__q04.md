@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f2__Q04
 parent: src_obm_2000_n2_f2
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find side of square I in rectangle divided into 9 squares with square A having side 1*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvr2BmUCi_mUxzOEXueBNpo7nZjXbRHU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il lato del quadrato I in rettangolo diviso in 9 quadrati con quadrato A con lato 1*
+
+> Un rettangolo è diviso in 9 quadrati $A, B, C, D, E, F, G, H, I$ (ordinato come mostrato). Il quadrato $A$ ha lunghezza laterale $1$.
+> 
+> Trova la lunghezza laterale del quadrato $I$.
+
+![[src_obm_2000_n2_f2__Q04.png]]
+
+[[src_obm_2000_n2_f2__Q04]]

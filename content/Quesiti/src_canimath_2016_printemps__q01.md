@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2016 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2016_printemps__Q01
 parent: src_canimath_2016_printemps
 competition: Coupe Animath Printemps 2016
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square ABCD of side 10 cm, X midpoint of AB, isosceles triangle ABY; overlap area with square is 99 cm2, find XY.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrato di lato 10 cm, X punto medio di AB, triangolo isosceles ABY; area di sovrapposizione con quadrato è di 99 cm2, trovare XY.*
+
+> N.B. In questo esercizio, e solo in questo, è richiesta una risposta senza giustificazione. $ABCD$ sia un quadrato di lato $10\,\mathrm{cm}$. $X$ sia il punto medio di $[AB]$. Mettiamo un punto $Y$ in modo che il triangolo $ABY$ sia uguale a $Y$, e la regione che è allo stesso tempo all'interno di $ABY$ e all'interno di $ABCD$ ha un'area di $99\,\mathrm{cm}^2$. Quanto è < MSK10/>?
+
+[[src_canimath_2016_printemps__Q01]]

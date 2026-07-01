@@ -1,6 +1,7 @@
 ---
 title: IMO 2001 (XLII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2001__Q05
 parent: src_imho_2001
 competition: IMO 2001 (XLII International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangle with two angle bisectors and a length condition; find all possible angles*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qMACSEbbsGH_u046vbY-UauBhiht0ZaG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Triangle with two angle bisectors and a length condition; find all possible angles
+
+> In a $ABC$ triangle, let $AP$ bisect $\angle BAC$, with $P$ on $BC$, and let $BQ$ bisect $\angle ABC$, with $Q$ on $CA$.
+> 
+> It is known that $\angle BAC = 60^\circ$ and that $AB + BP = AQ + QB$.
+> 
+> What are the possible angles of triangle $ABC$?
+
+[[src_imho_2001__Q05]]

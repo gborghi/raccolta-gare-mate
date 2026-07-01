@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2024 — Nível Universitário — Fase x —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_nu_fx__Q05
 parent: src_obm_2024_nu_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível Universitário — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Matrix sequence with A^12=I or (A^2-I)^2=O, trace on diagonal*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ASMMz2DYTBieu4G0G3yj2BJioNfgOgua/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*sequenza di matrice con A^12=I o (A^2-I)^2=O, traccia su diagonale*
+
+> La matrice $A$ deve essere una matrice di entrata interi $2 \times 2$ con $\det(A) \ne 0$. La sequenza $(A^n)$, $n = 1, 2, 3, \ldots$, soddisfa $$A^{12} = I \quad \text{or} \quad (A^2 - I)^2 = O.$$ Qui $I$ e $O$ indicano rispettivamente la matrice di identità e la matrice di zero, e $\operatorname{tr}$ indica la traccia della matrice (somma degli elementi diagonali). Indicare che $A$ è limitato (limitato).
+
+[[src_obm_2024_nu_fx__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q12
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Euro di Edoardo con monete in terzi*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Edward's euro with third-party coins*
+
+> Edward has 201 coins. One third of these are 1 euro coins, one third are 5 euro coins and the rest are 10 euro coins. How many euros does Edward own?
+>
+> - **(A)** 1072
+> - **(B)** 201
+> - **(C)** 972
+> - **(D)** 1062
+> - **(E)** 2001. Kangourou 15 March 2001, category Benjamin. This item is not intended to be used. 4
+
+**Answer:** A
+[[src_kangourou_2001_benjamin__Q12]]

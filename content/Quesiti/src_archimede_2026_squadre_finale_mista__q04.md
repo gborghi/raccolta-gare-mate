@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q04
 parent: src_archimede_2026_squadre_finale_mista
 competition: Gara a Squadre Nazionale 2026 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza MN segmento medio trapezio con angoli 55 e 35*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0030
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mn length medium trapezoidal segment with angles 55 and 35*
+
+![[src_archimede_2026_squadre_finale_mista__prob4.png]]
+
+> On the artificial wing Leonardo Franchi Why can't you fly away?, Hilcup wonders looking at the dark Fourier that hit. When drawing a sketch on his notebook, he notices that the dragon lacks a trapezoidal ABCD rear wing, with a major base CD and a minor base AB. Hilcup calculates that AB = 20 dm, CD = 80 dm, and that the angles in C and D measure 55° and 35° respectively. To construct an artificial wing, it must determine the length of MN, where M and N are the midpoints of AB and CD, respectively. How many centimetres does MN measure? 55° 35° A B C D E M N
+
+**Answer:** 0030
+[[src_archimede_2026_squadre_finale_mista__Q04]]

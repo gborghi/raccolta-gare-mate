@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 2) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g2__Q02
 parent: src_bocconi_finaleint_2010_g2
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Riordina quattro carte per ottenere il numero piu grande possibile.*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3 635 220
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Render four cards to get the largest number possible.*
+
+> If the four $\boxed{2}\;\boxed{0}\;\boxed{352}\;\boxed{36}$ cards are drawn next to each other as shown in the drawing, the number $2035236$ is read. What is the largest number that can be formed by arranging these four cards differently?
+
+**Answer:** 3 635 220
+[[src_bocconi_finaleint_2010_g2__Q02]]

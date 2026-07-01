@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Semifinale individuale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q08
 parent: src_kangourou_2017_junior_semifinale
 competition: Kangourou 2017 Junior - Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto aree quadrilatero e triangolo dai punti medi*
 
@@ -73,3 +76,46 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wcjQloPFR27i6zyeHrMFz2T13JxlzXfM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Report of quadrilateral and triangular areas from midpoints*
+
+![[src_kangourou_2017_junior_semifinale__prob8.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (4,4);
+  \coordinate (C) at (4,0);
+  \coordinate (M) at (2,2);
+  \coordinate (N) at (3,1);
+  \coordinate (P) at (4,1.3333);
+  \fill[gray!40] (A) -- (M) -- (N) -- (P) -- cycle;
+  \draw (A) -- (B) -- (C) -- cycle;
+  \draw (M) -- (C);
+  \draw (A) -- (N) -- (B);
+  \draw (M) -- (P);
+  \node[left] at (A) {$A$};
+  \node[above right] at (B) {$B$};
+  \node[right] at (C) {$C$};
+  \node[above left] at (M) {$M$};
+  \node[right] at (N) {$N$};
+  \node[below right] at (P) {$P$};
+\end{tikzpicture}
+\end{document}
+```
+
+> (Points 5) Note the figure: ABC is a triangle, M is the middle point of the AB side and N is the middle point of the MC segment. What is the ratio of the area of the quadrilateral AMNP (grey) to the area of the remaining part of the triangle ABC?
+>
+> - **(A)** 5 : 12
+> - **(B)** 1 : 2
+> - **(C)** 2 : 3
+> - **(D)** 3 : 5
+> - **(E)** 5 : 7
+
+**Answer:** E
+[[src_kangourou_2017_junior_semifinale__Q08]]

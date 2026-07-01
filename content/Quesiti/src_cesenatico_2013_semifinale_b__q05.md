@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_semifinale_b__Q05
 parent: src_cesenatico_2013_semifinale_b
 competition: Gara a Squadre Cesenatico 2013 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorsi Torre 6 mosse svoltando a sinistra*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0784
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tower 6 paths move to the left *
+
+> Minimum distance Root, standing still at one point, sees in the distance the White King moving in a straight line passing through three aligned points B,C,D. Knowing that B and D are 3km from the Roots, while C is only 2km, how many meters away are B and D at least?
+
+**Answer:** 0784
+[[src_cesenatico_2013_semifinale_b__Q05]]

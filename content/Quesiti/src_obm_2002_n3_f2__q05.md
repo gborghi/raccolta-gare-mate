@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f2__Q05
 parent: src_obm_2002_n3_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min cyclic quadrilaterals from 40 points on two intersecting circles*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gF94S0aX4v_2i-OEAFyuTxXKFKl8xKDl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Min quadrilaterali ciclici a partire da 40 punti su due cerchi intersezionati*
+
+> Due cerchi si incrociano a due punti $A$ e $B$. $X$ sia un punto sul segmento $AB$. Dieci linee attraversano $X$, ciascuna tagliando entrambi i cerchi, dando 40 punti di intersezione in totale (quattro per linea).
+> 
+> Qual è il numero minimo di quadrilaterali ciclici le cui quattro vertici sono tra questi quarant'anni?
+> 
+> **Nota:** Un quadrilaterale è ciclico se e solo se esiste un cerchio che attraversa le sue quattro vertici.
+
+[[src_obm_2002_n3_f2__Q05]]

@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2012 — Quesito
   8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2012__Q08
 parent: src_bocconi_finalenaz_2012
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2012
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Grafo con nodi e connessioni tra sei caselle*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Graph with nodes and connections between six boxes*
+
+> (Graph problem) Complete the boxes on the diagram so that each node is connected to the others according to the rules shown in the figure. What's the sum?
+
+![[src_bocconi_finalenaz_2012__Q08.png]]
+
+**Answer:** (figura con grafo nella soluzione)
+[[src_bocconi_finalenaz_2012__Q08]]

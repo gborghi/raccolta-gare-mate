@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q08
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Forma originaria del foglio piegato due volte*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Originally folded sheet < MSK1/>
+
+![[src_kangourou_2021_benjamin__prob8.png]]
+
+> Mary had a sheet of paper. He folded it exactly in half and then folded it in half again and got the figure to the right. Of the P, Q and R shapes you see on the left, which could have been the original paper? A) Only P. B) Only Q. C) Only R. D) Only P or Q. E) Any one of the three forms.
+
+**Answer:** E
+[[src_kangourou_2021_benjamin__Q08]]

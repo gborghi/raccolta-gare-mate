@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_pubblico__Q04
 parent: src_archimede_2001_pubblico
 competition: Archimede 2001 - Gara del Pubblico (Cesenatico)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *misura DC*
 
@@ -54,3 +57,33 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0010
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The measurement shall be carried out in accordance with the following conditions:
+
+![[src_archimede_2001_pubblico__prob4.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (4,0);
+  \coordinate (C) at (0,5);
+  \coordinate (D) at (2,2.5);
+  \draw (A) -- (B) -- (C) -- cycle;
+  \draw (A) -- (D);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above left] at (C) {$C$};
+  \node[right] at (D) {$D$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the park in front of Parliament there is a rectangular triangle-shaped awning cut in two by the road leading to the entrance to the Senate (see figure). The sides of the windscreen, the road section $AD$ and the sides $BD$ and $DC$ have a full length and $BC$ measure $20$ imometers. How many imometers measure $DC$ (write $0$ if the data are insufficient to solve the problem)? (see figure)
+
+**Answer:** 0010
+[[src_archimede_2001_pubblico__Q04]]

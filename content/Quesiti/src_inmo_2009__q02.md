@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2009 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2009__Q02
 parent: src_inmo_2009
 competition: Indian National Mathematical Olympiad 2009
@@ -32,6 +33,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence of 0/1 by parity of divisor count; rational or irrational?*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YPNtVo-CAi9FgLmbWRMzeSPRIJy9mPVu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di 0/1 per parità del numero di divisori; razionale o irrazionale?*
+
+> Definire una sequenza $(a_n)_{n \ge 1}$ come segue: $$a_n = \begin{cases} 0, & \text{if the number of positive divisors of } n \text{ is odd,} \\ 1, & \text{if the number of positive divisors of } n \text{ is even.} \end{cases}$$ (I divisori positivi di $n$ includono $1$ e $n$.) $x = 0.a_1 a_2 a_3 \ldots$ sia il numero reale la cui espansione decimale contiene $a_n$ nel posto di $n$, $n \ge 1$. Determinare, con la prova, se $x$ è razionale o irrazionale.
+
+[[src_inmo_2009__Q02]]

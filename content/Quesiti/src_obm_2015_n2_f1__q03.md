@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q03
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle BAD in a regular dodecagon*
 
@@ -45,3 +48,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>BAD d'angolo in dodicagone regolare< MSK1/>
+
+> La figura accanto rappresenta un dodicagono regolare. Qual è la misura dell'angolo $\angle BAD$?
+> 
+> (A) $15^\circ$ (B) $30^\circ$ (C) $45^\circ$ (D) $60^\circ$ (E) $75^\circ$
+
+![[src_obm_2015_n2_f1__Q03.png]]
+
+[[src_obm_2015_n2_f1__Q03]]

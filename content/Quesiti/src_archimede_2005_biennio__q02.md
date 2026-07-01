@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Biennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_biennio__Q02
 parent: src_archimede_2005_biennio
 competition: Giochi di Archimede 2005 - Gara Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Semplificare la radice di 12 elevato 12*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Simplify the root of 12 high 12*
+
+> √ 1212 is equal to:
+>
+> - **(A)** 66,
+> - **(B)** 122 √ 3,
+> - **(C)** 212 36,
+> - **(D)** 612,
+> - **(E)** None of the previous numbers.
+
+**Answer:** C
+[[src_archimede_2005_biennio__Q02]]

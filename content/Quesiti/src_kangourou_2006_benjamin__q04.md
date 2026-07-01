@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q04
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Costo di un pallone da combinazioni di prezzi*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cost of a ball from price combinations*
+
+![[src_kangourou_2006_benjamin__prob4.png]]
+
+> At a sportswear store in Stockholm, the combinations of items shown have these prices. You can also buy each item individually. How many crowns does one of those footballs cost? A) 100 B) 200 C) 300 D) 400 E) 500
+
+**Answer:** B
+[[src_kangourou_2006_benjamin__Q04]]

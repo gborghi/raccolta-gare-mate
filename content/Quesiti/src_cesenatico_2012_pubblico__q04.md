@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_pubblico__Q04
 parent: src_cesenatico_2012_pubblico
 competition: Gara a Squadre Cesenatico 2012 - Gara del pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti n con mcm(1..n)=mcm(1..n-1)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8719
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Quantities of n with mcm(1..n) = mcm(1..n-1) < MSK1/>
+
+> The Matrix actually the world as we know it has been over for a while. According to Zion's archives, in the actual year 2004, many generations ago, a computer network called Skynet became self-aware and enslaved mankind. Skynet was made up of 63 servers, numbered 1 to 63, each of which ran a number of virtual machines equal to the maximum exponent of a power of 2 dividing the factor of the number that marks it. How many virtual machines are there on Skynet?
+
+**Answer:** 8719
+[[src_cesenatico_2012_pubblico__Q04]]

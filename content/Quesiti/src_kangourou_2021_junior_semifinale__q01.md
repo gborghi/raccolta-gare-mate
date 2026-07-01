@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior Semifinale individuale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_semifinale__Q01
 parent: src_kangourou_2021_junior_semifinale
 competition: Kangourou 2021 Junior Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Attraversamento ponte di notte con una pila, tempo minimo*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cross the bridge at night with a stack, minimum time*
+
+> (2 points) On their return from an excursion, Anna, Bob, Carla and Doris have to cross a river on a Tibetan bridge, on which no more than two people can pass at a time; it is dark and therefore a stack is required for crossing, but they only have one that can accommodate two people and cannot throw it from one side of the river to the other. How many minutes will it take at least to get everyone across if it takes Anna 8 minutes to cross, Bob 7, Carla 5 and Doris 4 and, of course, if two friends cross together, they do it at the slowest speed? A) 24
+>  
+> B) 27
+>  
+> C) 28
+>  
+> D) 29
+>  
+> E) 32
+
+**Answer:** B
+[[src_kangourou_2021_junior_semifinale__Q01]]

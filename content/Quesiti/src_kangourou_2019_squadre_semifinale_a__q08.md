@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q08
 parent: src_kangourou_2019_squadre_semifinale_a
 competition: Kangourou Coppa squadre 2019 Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del foglio con quattro triangoli rettangoli*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0028
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of sheet with four rectangular triangles*
+
+![[src_kangourou_2019_squadre_semifinale_a__prob8.png]]
+
+> Four triangles The figure shows a sheet showing a region consisting of the approximation of 4 isosceles rectangles. The hypotenuse of the smallest is a catheter of the second, the hypotenuse of the second is a catheter of the third and the hypotenuse of the third is a catheter of the fourth. Some measurements in decimeter are given, including the distances of the region from the edges of the sheet. What is the area of the sheet of paper?
+
+**Answer:** 0028
+[[src_kangourou_2019_squadre_semifinale_a__Q08]]

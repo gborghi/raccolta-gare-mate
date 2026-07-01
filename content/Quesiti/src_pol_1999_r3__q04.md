@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r3__Q04
 parent: src_pol_1999_r3
 competition: Olimpiade Matematica Polacca 1999 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all n>=2 for which the cyclic system x_i^2+x_{i+1}^2+50=16x_i+12x_{i+1} has an integer solution.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ROAUIuy9-bXiyz6CZTN9mjOsmZlsxMYt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le n>=2 per le quali il sistema ciclico x_i^2+x_{i+1}^2+50=16x_i+12x_{i+1} ha una soluzione integrale.*
+
+> Trova tutti i numeri interi $n \ge 2$ per i quali il seguente sistema ha una soluzione in numeri interi: $$\begin{aligned} x_1^2 + x_2^2 + 50 &= 16x_1 + 12x_2, \\ x_2^2 + x_3^2 + 50 &= 16x_2 + 12x_3, \\ &\cdots \\ x_n^2 + x_1^2 + 50 &= 16x_n + 12x_1. \end{aligned}$$
+
+[[src_pol_1999_r3__Q04]]

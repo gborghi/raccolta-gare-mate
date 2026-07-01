@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2014 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo12mq_honsen__Q04
 parent: src_jjmo12mq_honsen
 competition: Japan Junior Mathematical Olympiad 2014 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Island-bridge graph: shelter assignment with parity conditions*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18594kVzlMkSq0K9TdtkKDDLR5gHNyYtr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Grafico ponte-isola: assegnazione di rifugi con condizioni di parità*
+
+> $n \geq 2$ sia un numero intero. Ci sono $n$ isole disposte in un grande lago, collegate da alcuni ponti; ogni ponte collega direttamente due isole. Per qualsiasi due isole, o sono collegate da un ponte o no, e ogni ponte collega esattamente due isole distinte. Per prepararci a un disastro, abbiamo deciso di designare, per ogni isola, una delle due isole alle estremità di un ponte collegato a quella isola come suo rifugio designato, a condizione che il ponte che collega un'isola direttamente al suo rifugio debba esistere. Ogni isola deve avere almeno un ponte che la collega ad un'altra isola, e scegliamo l'isola più grande come rifugio.
+> 
+> (1) Provare che se $n$ è strano, allora esiste un'isola che non può essere scelta come rifugio per nessuna isola.
+> 
+> (2) Prova che se $n$ è pari e ci sono più di $\dfrac{n^2}{4}$ ponti, allora esiste un'isola che non può essere scelta come rifugio per nessuna isola.
+
+[[src_jjmo12mq_honsen__Q04]]

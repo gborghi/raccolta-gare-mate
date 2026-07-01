@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q30
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezza acqua nella tanica II immersa*
 
@@ -75,3 +78,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Height of water in submerged tank II< MSK1/>
+
+![[src_kangourou_2004_cadet__prob30.png]]
+
+> Look at the figure. In TANIC I, the base of which has an area of 2 square centimetres, the water reaches a height of 5 centimetres. The 7 cm high and 1 cm2 square of the base of the tank II is immersed, empty, in the I tank until it is anchored to the bottom. At this point a portion of the water flows into TANK II. How high does the water reach in TANK II? A) 1 cm B) 2 cm C) 3 cm D) 4 cm E) 5 cm a b c b + c a + c a + b 1 3 5 999 sec. x y z 1 second. TANIC II 7 5 TANIC I
+> 
+> Cadets 2004 - Pag. This is a list of the countries of the European Economic Area.
+
+**Answer:** C
+[[src_kangourou_2004_cadet__Q30]]

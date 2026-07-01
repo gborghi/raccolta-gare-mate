@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q01
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute the value of a sum of large numbers*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolare il valore di una somma di grandi numeri*
+
+> Calcolare il valore di $1997 + 2004 + 2996 + 4003$.
+> 
+> (A) $10000$ \quad (B) $11000$ \quad (C) $10900$ \quad (D) $12000$ \quad (E) $13000$
+
+**Risposta:** A
+[[src_obm_2004_n1_f1__Q01]]

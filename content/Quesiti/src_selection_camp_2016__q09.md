@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2016 — Selection Camp — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2016__Q09
 parent: src_selection_camp_2016
 competition: Japan IMO Selection Camp 2016 — Selection Camp
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all prime quadruples p<q<r<s with p^s - r^q = 3*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i quadrupli primari p<q<r<s con p^s - r^q = 3*
+
+> Trova tutti i quadrupli di numeri primi $(p, q, r, s)$ con $p < q < r < s$ soddisfacente $$p^s - r^q = 3.$$
+
+[[src_selection_camp_2016__Q09]]

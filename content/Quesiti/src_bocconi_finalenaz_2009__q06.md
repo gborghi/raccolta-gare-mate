@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2009 — Quesito
   6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2009__Q06
 parent: src_bocconi_finalenaz_2009
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2009
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Disporre i numeri da 1 a 16 nella griglia con numeri successivi adiacenti*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Setting the numbers 1 to 16 in the grid with adjacent successive numbers*
+
+> The grid of 16 Numbers Put the integers 1 to 16 in the grid boxes (one number per box). In fact, two have already found their accommodation. Note, however: for each number other than 16, the immediately higher one must be placed in an adjacent box (i.e. it has a side in common with the previous one).
+
+![[src_bocconi_finalenaz_2009__Q06.png]]
+
+[[src_bocconi_finalenaz_2009__Q06]]

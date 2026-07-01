@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Finale nazionale Cervia — Quesito C4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_finale__QC4
 parent: src_kangourou_2018_cadet_finale
 competition: Kangourou 2018 Cadet - Finale nazionale Cervia
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spartizione equa degli 8 euro col problema dei punti*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7 e 1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1awWRc26fxuhAuA2B9ihEhXsIlMGONtXu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Equal distribution of the €8 with the points problem*
+
+> Antonia and Luca play each other's heads or tails the eight-euro coin, throwing an unmade coin. They decide that the number will be stolen by the first of them who has six throws in their favor. When they are on the score of 5 for Antonia and 3 for Luca, however, they are forced to stop the game and discuss how to split the 8 euros (which no one has won so far). What is the fair way to divide them (i.e. the way that takes into account the probability of victory that each of the two has at the time of the interruption)?
+
+**Answer:** 7 e 1
+[[src_kangourou_2018_cadet_finale__QC4]]

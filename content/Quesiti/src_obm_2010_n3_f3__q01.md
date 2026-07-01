@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f3__Q01
 parent: src_obm_2010_n3_f3
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real functions satisfying f(a+b)=f(ab) for irrational a,b*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ovDjSumqrFuklc3ULDZ-ZJmM3q6fwQxX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni reali che soddisfano f(a+b)=f(ab) per a,b* irrazionale
+
+> Trova tutte le funzioni $f:\mathbb{R}\to\mathbb{R}$ in modo tale che $$f(a+b)=f(ab)$$ per tutte le $a,b$ irrazionali.
+
+[[src_obm_2010_n3_f3__Q01]]

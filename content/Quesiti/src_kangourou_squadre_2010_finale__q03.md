@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2010_finale__Q03
 parent: src_kangourou_squadre_2010_finale
 competition: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anni con prime due cifre multiplo delle ultime due*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0017
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Years with the first two digits multiple of the last two*
+
+> Is Marco still writing? Mark started writing the sequence of numbers 7, 36, 65, 94, ...where each, from the second on, is the previous one increased by 29. Marco intends to stop as soon as he has written a number whose digits are all equal to nine. Will Mark be able to stop, and if so, how many numbers will he have written when he stops? (Write 0000 if he can't stop.)
+
+**Answer:** 0017
+[[src_kangourou_squadre_2010_finale__Q03]]

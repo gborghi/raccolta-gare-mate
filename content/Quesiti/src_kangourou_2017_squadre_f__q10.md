@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Finale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_f__Q10
 parent: src_kangourou_2017_squadre_f
 competition: Kangourou Coppa Squadre 2017 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Biglie nella scatola portata via (blu triplo rosse)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Wheat in the removed box (trip blue red) < MSK1/>
+
+> I have five boxes, each containing a single color, red or blue. In the first box there are 112 seeds, in the second 105, in the third 100, in the fourth 115 and in the fifth 128. After Martino took away a box, the remaining 4 boxes have three times the number of blue beads as many red beads. How many balls were in the box that Martino took away?
+
+**Answer:** 100
+[[src_kangourou_2017_squadre_f__Q10]]

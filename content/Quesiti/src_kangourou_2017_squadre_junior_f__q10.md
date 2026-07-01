@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Junior 2017 Finale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_junior_f__Q10
 parent: src_kangourou_2017_squadre_junior_f
 competition: Kangourou Coppa Squadre Junior 2017 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto aree T e P con stesso perimetro*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 907
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rate of areas T and P with the same perimeter*
+
+> The same perimeter An equilateral triangle is divided into two parts, a T triangle and a P trapezoid, by a straight line parallel to one of its sides. If the triangle and the trapezoid thus obtained have the same perimeter, what is the ratio between the area of T and that of P? To formulate the answer, think of the ratio as a fraction reduced to the minimum terms and the numerator and denominator as 2-digit numbers, no matter if they are significant, and write them down below; for example, to indicate the fraction 1/2 write 0102.
+
+**Answer:** 907
+[[src_kangourou_2017_squadre_junior_f__Q10]]

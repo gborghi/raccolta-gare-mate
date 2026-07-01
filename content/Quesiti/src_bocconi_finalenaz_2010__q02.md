@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2010 — Quesito
   2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2010__Q02
 parent: src_bocconi_finalenaz_2010
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2010
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Fiammiferi da togliere per eliminare tutti i quadrati*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Flamme trees to be removed to remove all squares*
+
+> With 12 matches, Lucia built a figure that contains 5 squares: the larger one and 4 smaller ones. If you lift any match, you've got three squares left.
+> 
+> How many matches must he take, at least, because there is none left?
+
+![[src_bocconi_finalenaz_2010__Q02.png]]
+
+**Answer:** 3
+[[src_bocconi_finalenaz_2010__Q02]]

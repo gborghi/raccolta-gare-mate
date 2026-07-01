@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2010 squadre semifinale turno A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2010_squadre_semifinale__Q03
 parent: src_kangourou_2010_squadre_semifinale
 competition: Kangourou 2010 squadre semifinale turno A
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie di caselle non adiacenti su scacchiera 8x8*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1904
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Pairs of non-adjacent boxes on a chessboard 8x8< MSK1/>
+
+> How many pairs of non-adjacent boxes are found on a chessboard 8 < MSK0/> 8? (Two boxes are called adjacent if they are different and have a side in common.)
+
+**Answer:** 1904
+[[src_kangourou_2010_squadre_semifinale__Q03]]

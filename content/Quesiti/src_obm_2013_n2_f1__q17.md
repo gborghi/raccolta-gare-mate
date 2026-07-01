@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q17
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find x+y given x^3+y^3=9 and x^2*y+xy^2=6*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova x+y dato x^3+y^3=9 e x^2*y+xy^2=6*
+
+> Determinare $x + y$, dove $x$ e $y$ sono numeri reali che soddisfano $$x^3 + y^3 = 9 \quad \text{and} \quad x^2 y + x y^2 = 6.$$
+> 
+> (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
+
+**Risposta:** C
+[[src_obm_2013_n2_f1__Q17]]

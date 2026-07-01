@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2022 — Selection Camp — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2022__Q12
 parent: src_selection_camp_2022
 competition: Japan IMO Selection Camp 2022 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Hunter-rabbit game on infinite grid; can rabbit avoid being located?*
 
@@ -51,3 +54,21 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IbxW-7wHAbocY02LPUXVJ2fiAgki09kb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Giocatore di coniglio su una griglia infinita. Il coniglio può evitare di essere localizzato?
+
+> Un cacciatore e un coniglio invisibile giocano a un gioco su una griglia infinita. In primo luogo, il cacciatore sceglie un intero positivo $k$ e assegna un intero da $\{1, 2, \ldots, k\}$ a ogni cella della griglia, quindi informa l'assegnazione al coniglio. Successivamente, il coniglio sceglie una cella in cui nascondersi. In seguito, il coniglio esegue ripetutamente le seguenti azioni:
+> 
+> (i) Il coniglio dice al cacciatore il numero intero assegnato alla cella in cui si trova attualmente.
+> 
+> (ii) Il coniglio si sposta in una cella non visitata che condivide un lato con la sua cella corrente. Se non esiste una cellula non visitata, il gioco finisce.
+> 
+> In qualsiasi momento del gioco, se il cacciatore riesce a identificare in modo unico la cella in cui il coniglio si è nascosto per la prima volta, utilizzando solo i numeri interi segnalati finora, allora il gioco finisce a quel punto.
+> 
+> È possibile che il coniglio scelga la sua cella di partenza e continui a giocare senza che il gioco finisca, indipendentemente dal modo in cui il cacciatore sceglie $k$ e l'assegnazione di numeri interi?
+
+[[src_selection_camp_2022__Q12]]

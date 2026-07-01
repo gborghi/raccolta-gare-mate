@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_pubblico__Q18
 parent: src_archimede_2001_pubblico
 competition: Archimede 2001 - Gara del Pubblico (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *conto quadruplicato in 20 anni, ultime 4 cifre dopo 20000*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0076
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*count quadrupled in 20 years, last 4 digits after 20000*
+
+> The Imese economy is subject to a strong devaluation and therefore interest rates are very high. In particular, at current rates of the BCI after < MSK0/> years, the amount of a current account is quadrupled. Assuming that Ocnarf deposits a shield today and the rates remain the same, what will be the last $4$ figures in the statement that Ocnarf's heirs will be able to read in $20000$ years?
+
+**Answer:** 0076
+[[src_archimede_2001_pubblico__Q18]]

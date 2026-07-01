@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1973-74 — Round 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1973-74_round1__Q08
 parent: src_bmo_1973-74_round1
 competition: British Mathematical Olympiad 1973-74 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Write product of (x+i) as polynomial; prove divisibility; deduce Wilson's and Fermat's theorems*
 
@@ -64,3 +67,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Escrivere il prodotto di (x+i) come polinomio; dimostrare divisibilità; dedurre i teoremi di Wilson e Fermat*
+
+> $n$ sia un numero primo impar. È necessario scrivere il prodotto $$\prod_{i=1}^{n-1}(x+i)$$ come polinomio $$\sum_{j=0}^{n-1} a_j x^j.$$ Considerando il prodotto $\prod_{i=1}^{n}(x+i)$ in due modi, stabilire le relazioni $$a_{n-1} = 1,$$ $$a_{n-2} = n(n-1)/2!,$$ $$2a_{n-3} = n(n-1)(n-2)/3! + a_{n-2}(n-1)(n-2)/2!,$$ $$\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots$$ $$\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots\ldots$$ $$(n-2)a_1 = n + a_{n-2}(n-1) + a_{n-3}(n-2) + \cdots + 3a_2,$$ $$(n-1)a_0 = 1 + a_{n-2} + \cdots + a_1.$$ Prove $n \mid a_j$ ($j = 1, 2, \ldots, n-2$) e che $n \mid (a_0 + 1)$; e dimostrare anche che quando $x$ è un numero intero $$n \mid (x+1)(x+2)\cdots(x+n-1) - x^{n-1} + 1.$$ Da qui dedurre il teorema di Wilson e il teorema di Fermat, vale a dire che quando $n$ è primo e $x$ non è un multiple di $n$: \MSK{itemize} \itemii[((((((((( \end{itemize} ($p \mid q$ significa $p$ divide $q$ senza lasciare alcun rimanente.)
+
+[[src_bmo_1973-74_round1__Q08]]

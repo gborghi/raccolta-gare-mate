@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_semifinale2__Q04
 parent: src_archimede_2025_squadre_semifinale2
 competition: Gara a Squadre Nazionale 2025 - Semifinale 2
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità esattamente due agenti dicono verità con dado*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8677
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Probability of exactly two agents telling the truth with dice
+
+> The last enemy of James Bound, and of humanity, is an organization known as SPECTRAL THEOREM. Its logo is a convex pentagon ABCDE, such that ABCD is a square of side 10 and ADE is an isosceles triangle (based on AD). Knowing that the area of the triangle BDE is equal to 17 32 of the area of ABCDE, how much is AE?
+
+**Answer:** 8677
+[[src_archimede_2025_squadre_semifinale2__Q04]]

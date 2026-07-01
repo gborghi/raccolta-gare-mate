@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 2) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g2__Q05
 parent: src_bocconi_finaleint_2008_g2
 competition: >-
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Autoreferenza: quante delle frasi date sono vere.*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2 frasi vere
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Autoreference: how many of the sentences given are true.*
+
+> This box contains exactly one false phrase. This box contains exactly two false sentences. This box contains exactly three false sentences. This box contains exactly four true sentences. This box contains exactly five true sentences. This box contains exactly six true sentences. This box contains exactly seven false sentences. In the box above, how many sentences are true?
+
+**Answer:** 2 frasi vere
+[[src_bocconi_finaleint_2008_g2__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f2__Q02
 parent: src_obm_2013_n1_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum a+b so that 28a³b and 7a⁴b³ are both perfect squares*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum a+b in modo che 28a3b e 7a4b3 siano entrambi quadrati perfetti*
+
+> Un numero naturale è chiamato quadrato perfetto quando è il quadrato di un altro numero naturale. Ad esempio, $1$ e $25$ sono quadrati perfetti, dal momento che $1 = 1^2$ e $25 = 5^2$. Qual è il valore minimo di $a + b$, con $a$ e $b$ numeri naturali non zero, in modo che i numeri $28a^3b$ e $7a^4b^3$ siano entrambi quadrati perfetti?
+
+[[src_obm_2013_n1_f2__Q02]]

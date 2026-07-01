@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2019 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_automne__Q06
 parent: src_canimath_2019_automne
 competition: Coupe Animath Automne 2019
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max tokens on 8x8 board with at most 4 per row/column; then also at most 4 per large diagonal*
 
@@ -49,3 +52,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Max token su tavola 8x8 con al massimo 4 per riga/colonna; poi anche al massimo 4 per grande diagonale*
+
+> Martin sta giocando. Si collocano i token su una scacchiera $8 \times 8$ in modo che ci sia al massimo un token per quadrato, e ogni colonna e ogni riga contiene al massimo 4 token.
+> 
+> a) Quanti token Martin può mettere al massimo?
+> 
+> b) Se, oltre ai vincoli precedenti, ciascuno dei due grandi diagonali può contenere al massimo 4 token, quante token Martin può posizionare al massimo?
+> 
+> Le grandi diagonali di una scacchiera sono le due diagonali che vanno da un angolo della scacchiera all'angolo opposto.
+
+[[src_canimath_2019_automne__Q06]]

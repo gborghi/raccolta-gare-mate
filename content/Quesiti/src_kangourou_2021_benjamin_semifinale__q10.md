@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - semifinale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q10
 parent: src_kangourou_2021_benjamin_semifinale
 competition: Kangourou 2021 Benjamin - semifinale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Partite vinte da Edoardo nel gioco di carte*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 13
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ZoOsj72QmushXUD5rVHJ0W3fyHvEdq-b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Matches won by Edward in the card game*
+
+> Edward, Susanna and Teresa are playing cards. At the end of each match, there are no equal points: the winner earns 3 points, the second-placed 1 point while the third-placed does not earn points. After four games, Susanna has four points and Teresa has three. How many games has Edward won?
+
+**Answer:** 13
+[[src_kangourou_2021_benjamin_semifinale__Q10]]

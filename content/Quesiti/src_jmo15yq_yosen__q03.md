@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo15yq_yosen__Q03
 parent: src_jmo15yq_yosen
 competition: Japan Mathematical Olympiad 2005 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find value a maximizing angle APB with B midpoint of OA on right triangle*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\sqrt{2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova il valore di un angolo di massimizzazione APB con punto medio B di OA sul triangolo rettangolo*
+
+> Lasciamo $OA = 2$ e $\angle AOP = 90^\circ$, quindi il triangolo $AOP$ è un triangolo rettangolo con l'angolo giusto a $O$. Il punto medio del lato $OA$ è $B$. Let < MSK6/>. Trova il valore di $a$ che massimizza $\angle APB$.
+
+**Risposta:** \sqrt{2}
+[[src_jmo15yq_yosen__Q03]]

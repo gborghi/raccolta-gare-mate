@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_biennio_online__Q04
 parent: src_archimede_2021_biennio_online
 competition: Giochi di Archimede 2021 - Gara Biennio (online)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri secondi tra 20 e 60*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Zo7WSUv5KN16W_nTPuywBaG12u7UYl5I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many second numbers between 20 and 60*
+
+> Since 2021 = 43 · 47, product of two different prime numbers, we can say that 2021 is a second number. How many secondary numbers are between 20 and 60 ?
+>
+> - **(A)** 14
+> - **(B)** 11
+> - **(C)** 12
+> - **(D)** 10
+> - **(E)** 13
+
+**Answer:** E
+[[src_archimede_2021_biennio_online__Q04]]

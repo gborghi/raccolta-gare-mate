@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2019 - Biennio (T1) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_biennio__Q16
 parent: src_archimede_2019_biennio
 competition: Giochi di Archimede 2019 - Biennio (T1)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura KQ in trapezio rettangolo con angoli uguali*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measurement of KQ in a rectangular trapezoid with equal angles*
+
+> A PQRS rectangular trapezoid is assigned, with right angles in P and S, where PQ > RS and PS = RS = 31. Whether K is the point on the PS side such that PK = 14. Knowing that \ SKR = \ PQR, what will be the size of KQ?
+>
+> - **(A)** 45
+> - **(B)** 48
+> - **(C)** 52
+> - **(D)** 49
+> - **(E)** 50 Italian Mathematical Union Olympic Mathematics Project Ministry of Education, University and Research The Games of Archimedes - Competition Biennio 21 November 2019 • The test consists of 16 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). Only one of these answers is correct. • Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded. • For each of the problems, type the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections are not allowed. • Completely list your month of birth, gender, class. Write the other information required in the STANDARD next to the arrows, with the utmost care and precision. The use of calculators or communication tools shall not be permitted. You have 110 minutes. - Good work. Good work. Name < MSK0/> COGNOM < MSK1/> Year of birth < MSK2/> Month of birth GEN FEB MAR APR MAG GIU LUG AGO SEVEN OTT NEW DAY of birth < MSK3/> Gender F M CLASE 1 2 Section < MSK4/> GROUP of respondents T2 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+
+**Answer:** E
+[[src_archimede_2019_biennio__Q16]]

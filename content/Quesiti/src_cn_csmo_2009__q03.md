@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2009 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2009__Q03
 parent: src_cn_csmo_2009
 competition: China Southeastern Mathematical Olympiad 2009
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality involving square roots of expressions in positive reals*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove le disuguaglianze che coinvolgono radici quadrate di espressioni nei reali positivi*
+
+> Se $x$, $y$, $z$ sono numeri positivi, e $\sqrt{a} = x(y-z)^2$, $\sqrt{b} = y(z-x)^2$, $\sqrt{c} = z(x-y)^2$. Prove che $a^{\frac{1}{2}} + b^{\frac{1}{2}} + c^{\frac{1}{2}} \ge 2(ab + bc + ca)$. (Posato da Tang Lihua)
+
+[[src_cn_csmo_2009__Q03]]

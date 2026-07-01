@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1992 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1992__Q07
 parent: src_rmo_1992
 competition: Regional Mathematical Olympiad 1992
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove the inequality 1 < sum of 1/(1001) to 1/(3001) < 4/3.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1E3JJBw_abvMOZ21Bh0CQ7FOsWYT93fGu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza 1 < somma di 1/(1001) a 1/(3001) < 4/3.*
+
+> Provare che < MSK0/>
+
+[[src_rmo_1992__Q07]]

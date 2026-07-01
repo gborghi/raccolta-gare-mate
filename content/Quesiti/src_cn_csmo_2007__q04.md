@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2007 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2007__Q04
 parent: src_cn_csmo_2007
 competition: China Southeastern Mathematical Olympiad 2007
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Semicircle with points C, D, tangent at B meets CD at P; line PO meets CA and AD; prove OE = OF*
 
@@ -42,3 +45,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Semicircolo con punti C, D, tangente a B incontra CD a P; linea PO incontra CA e AD; prova OE = OF*
+
+> Come mostrato nella figura, i punti $C$ e $D$ sono sul semicircolo con $O$ come centro e $AB$ come diametro. La linea tangente al semicircolo al punto $B$ incontra la linea $CD$ al punto $P$. La linea $PO$ incrocia rispettivamente $CA$ e $AD$ nei punti $E$ e $F$. Provare $OE = OF$.
+
+[[src_cn_csmo_2007__Q04]]

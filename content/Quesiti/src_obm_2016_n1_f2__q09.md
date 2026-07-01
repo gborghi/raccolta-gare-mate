@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f2__Q09
 parent: src_obm_2016_n1_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2
@@ -40,6 +41,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Write digits 1–9 in 9 boxes (some gray, some white); count arrangements by digit-parity and sum conditions*
 
@@ -52,3 +55,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Scrivere i numeri 19 in 9 caselle (alcune in grigio, alcune in bianco); contare le disposizioni secondo le condizioni di parità digitali e di somma*
+
+> [Parte B] Ana vuole scrivere le cifre da $1$ a $9$, una in ogni casella del diagramma di seguito (9 caselle consecutive), per formare un numero $9$ a cifre $N$. Le scatole grigie sono le scatole nelle posizioni $1, 3, 5, 7, 9$ (le 5 posizioni indicizzate parie), e le scatole bianche sono quelle nelle posizioni $2, 4, 6, 8$.\n(a) In quanti modi può Ana formare il numero $N$ scrivendo numeri pari nelle scatole grigie?\n(b) In quanti modi può Ana formare il numero $N$ scrivendo solo numeri parie nelle scatole grigie?\n(c) In quanti modi può formare $N$ in modo tale che la somma delle cifre nelle scatole grigie sia pari al doppio della somma delle cifre nelle scatole bianche?
+
+![[src_obm_2016_n1_f2__Q09.png]]
+
+[[src_obm_2016_n1_f2__Q09]]

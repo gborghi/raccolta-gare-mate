@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2005 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2005__Q04
 parent: src_rmo_2005
 competition: Regional Mathematical Olympiad 2005
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 5-digit numbers containing block 15 and divisible by 15*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14uHfQGAx1Ql7Gxjfhz36KBTCxECJwRQt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri a 5 cifre contenenti il blocco 15 e divisibili per 15*
+
+> Trova il numero di tutti i numeri a 5 cifre (in base 10) ognuno dei quali contiene il blocco 15 e è divisibile per 15. (Per esempio, 34545 e 34155 sono due tali numeri.)
+
+[[src_rmo_2005__Q04]]

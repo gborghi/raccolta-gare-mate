@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q12
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma interi n con (n-1)/(401-n) quadrato perfetto*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1277
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interest sum n with (n-1)/(401-n) perfect square*
+
+> The 9999 soldiers of the Royal Guard must agree on who will play the next watch at the palace. Didimo, the clergyman of the court, passing by, hears their conversation and proposes
+
+**Answer:** 1277
+[[src_cesenatico_2004_squadre__Q12]]

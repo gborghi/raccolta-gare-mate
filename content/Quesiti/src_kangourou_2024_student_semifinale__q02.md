@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student semifinale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q02
 parent: src_kangourou_2024_student_semifinale
 competition: Kangourou 2024 Student semifinale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ripartizione eredita inversamente proporzionale alle eta*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Heritage distribution inversely proportional to the ages < MSK1/>
+
+> Yesterday was Monday or Tuesday or Wednesday or Thursday.
+
+**Answer:** A
+[[src_kangourou_2024_student_semifinale__Q02]]

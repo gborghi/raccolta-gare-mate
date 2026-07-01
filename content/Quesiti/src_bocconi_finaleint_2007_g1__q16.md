@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 1) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g1__Q16
 parent: src_bocconi_finaleint_2007_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Testa di tigre: tracciare il ritaglio in due pezzi lungo lati o diagonali a 45 gradi della griglia*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** vedi figura
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tiger head: trace the cut into two pieces along the sides or diagonals at 45 degrees of the grid*
+
+> The figure represents a tiger's head. The colours of the fur break down the head into two distinct pieces. Trace the cut, knowing that it passes only through the sides or diagonal < MSK0/> of the grid boxes. There's only one solution and one request.
+
+![[src_bocconi_finaleint_2007_g1__Q16.png]]
+
+**Answer:** vedi figura
+[[src_bocconi_finaleint_2007_g1__Q16]]

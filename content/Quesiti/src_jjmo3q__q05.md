@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2005 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo3q__Q05
 parent: src_jjmo3q
 competition: Japan Junior Mathematical Olympiad 2005
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Same digit-count in base ten and base five*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gli stessi numeri di cifre nella base dieci e nella base cinque*
+
+> Nella base dieci, $110$ è scritto come $420$ nella base cinque, che è anche un numero a cifre $3$. In questo modo, quanti numeri interi positivi in totale hanno lo stesso numero di cifre quando sono scritti in base dieci come quando sono scritti in base cinque?
+
+[[src_jjmo3q__Q05]]

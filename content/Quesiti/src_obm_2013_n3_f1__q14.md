@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q14
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Least n so the n-fold composition of f equals identity on S={1..9}*
 
@@ -54,3 +57,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Almeno n in modo che la composizione a n volte di f sia uguale all'identità su S={1..9}*
+
+> Let < MSK0/>. Considera una funzione $f : S \to S$ definita nella tabella seguente.
+> 
+> $\begin{array}{|c|c|c|c|c|c|c|c|c|c|} \hline x & 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 \\ \hline f(x) & 8 & 3 & 5 & 7 & 2 & 9 & 6 & 1 & 4 \\ \hline \end{array}$
+> 
+> Qual è il più piccolo intero positivo $n$ per il quale $\underbrace{f(f(\cdots(f(x))\cdots))}_{n\ \text{times}} = x$ per ogni $x \in S$?
+> 
+> (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $12$ \quad (E) $24$
+
+**Risposta:** D
+[[src_obm_2013_n3_f1__Q14]]

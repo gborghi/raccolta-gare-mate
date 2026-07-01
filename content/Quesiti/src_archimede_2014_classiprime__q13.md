@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2014 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_classiprime__Q13
 parent: src_archimede_2014_classiprime
 competition: Gara Nazionale Classi Prime 2014
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero divisori positivi di n=1122^2-121*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of positive divisors of n=1122^2-121< MSK1/>
+
+> To say how many positive divisors of n = 11222 −121 (also counting 1 and n). A 12 B 121 C 30 D 9 E 36 F 6
+
+**Answer:** A
+[[src_archimede_2014_classiprime__Q13]]

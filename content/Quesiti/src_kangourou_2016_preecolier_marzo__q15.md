@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_preecolier_marzo__Q15
 parent: src_kangourou_2016_preecolier_marzo
 competition: Kangourou 2016 Pre-Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma eta di Gino e Gina fra quattro anni*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.15](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Sum of Gino and Gina's age in four years
+
+> Adding up Gino and Gina's ages today makes them twelve. What will be the sum of their ages in four years?
+>
+> - **(A)** 16
+> - **(B)** 17
+> - **(C)** 18
+> - **(D)** 19
+> - **(E)** 20
+
+**Answer:** E
+[[src_kangourou_2016_preecolier_marzo__Q15]]

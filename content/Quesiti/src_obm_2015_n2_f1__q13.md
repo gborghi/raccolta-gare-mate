@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q13
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Price of cinema entrance from a shared-payment situation*
 
@@ -46,3 +49,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prezzo di ingresso al cinema da una situazione di pagamento condiviso*
+
+> Carlos e i suoi cinque amici, Danilo ed Edson, andarono al cinema. Carlos pagò l'ingresso per tutti; Danilo restituì a Carlos la sua parte. In modo che l'importo che ciascuno avrebbe pagato fosse lo stesso quando si divide il costo comune, Danilo ed Edson hanno pagato rispettivamente R\$ 8.00 and R\$ 14.00. Per Carlos, tuttavia, dal momento che il valore totale per testa era R\$ 32,00. Qual è il prezzo dell'ingresso al cinema?
+> 
+> (A) R\$ 10.00 (B) R\$ 12.00 (C) R\$ 15.00 (D) R\$ 18.00 (E) R\$ 20.00
+
+[[src_obm_2015_n2_f1__Q13]]

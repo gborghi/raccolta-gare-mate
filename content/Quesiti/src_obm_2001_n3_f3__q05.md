@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f3__Q05
 parent: src_obm_2001_n3_f3
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral: the four mid-perpendiculars to the sides concur iff it is cyclic*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i9yemBLDI7hxIseefnK_GZclyK4JXHSC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Quadrilaterale convex: le quattro perpendicolari medie ai lati concordano se è ciclico< MSK1/>
+
+> In un quadrilaterale convexo, l'altitudine relativa a un lato è definita come la perpendicolare a quel lato che passa attraverso il punto medio del lato opposto. Prova che le quattro altitudini hanno un punto comune se e solo se il quadrilaterale è iscribile, cioè se e solo se esiste un cerchio che contiene i suoi quattro vertici.
+
+[[src_obm_2001_n3_f3__Q05]]

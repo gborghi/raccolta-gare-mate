@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q26
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo punti da togliere per evitare triangoli equilateri*
 
@@ -66,3 +69,33 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum points to be removed to avoid equilateral triangles< MSK1/>
+
+![[src_kangourou_2006_benjamin__prob26.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.8]
+  \fill (0,0) circle (5pt);
+  \fill (1,0) circle (5pt);
+  \fill (2,0) circle (5pt);
+  \fill (3,0) circle (5pt);
+  \fill (0.5,0.866) circle (5pt);
+  \fill (1.5,0.866) circle (5pt);
+  \fill (2.5,0.866) circle (5pt);
+  \fill (1,1.732) circle (5pt);
+  \fill (2,1.732) circle (5pt);
+  \fill (1.5,2.598) circle (5pt);
+\end{tikzpicture}
+\end{document}
+```
+
+> What is the smallest number of points that you can subtract from the figure shown next to you so that there are not three left that are the vertices of any equilateral triangle? A) 2 B) 3 C) 4 D) 5 E) 6
+
+**Answer:** C
+[[src_kangourou_2006_benjamin__Q26]]

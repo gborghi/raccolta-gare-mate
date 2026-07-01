@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2014 - Triennio (Testo 1) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_triennio__Q17
 parent: src_archimede_2014_triennio
 competition: Giochi di Archimede 2014 - Triennio (Testo 1)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume di un tetraedro regolare di lato 6√2*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gFMJu_Q6VeO8h4j_WyQCIq1jk9c8n-ur/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of a regular side tetrahedron 6√2*
+
+> Simone has a regular tetrahedron-shaped fortune teller, whose faces have sides 6 √ 2 cm long. What is the volume of the tetrahedron in cm3? (A) 36, (B) 36 √ 2, (C) 72, (D) 72 √ 2, (E) 72 √ 3
+
+**Answer:** C
+[[src_archimede_2014_triennio__Q17]]

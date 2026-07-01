@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Biennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_biennio__Q10
 parent: src_archimede_2000_biennio
 competition: Giochi di Archimede 2000 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma lunghezze dei tratti di due esagoni concentrici*
 
@@ -44,3 +47,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary lengths of the tracts of two concentric hexagons*
+
+![[src_archimede_2000_biennio__prob10.png]]
+
+> The side of the smaller hexagon in Figure 1 is 1 and the side of the larger hexagon is 2. What is the sum of the lengths of all the lines drawn?
+>
+> - **(A)** 18
+> - **(B)** 24
+> - **(C)** 30
+> - **(D)** 36
+> - **(E)** None of the previous ones.
+
+**Answer:** C
+[[src_archimede_2000_biennio__Q10]]

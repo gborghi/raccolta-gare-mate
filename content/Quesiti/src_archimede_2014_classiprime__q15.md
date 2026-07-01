@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2014 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_classiprime__Q15
 parent: src_archimede_2014_classiprime
 competition: Gara Nazionale Classi Prime 2014
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazioni di 10 quadrati con vincolo lati comuni diversi*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Colors of 10 squares with different common sides bound*
+
+> A rectangular land with sides of 20 and 50 meters is divided into 10 equal squares, each of which is sown with a crop of choice between carrots, potatoes and rapeseed, but making sure that two squares with a common side are always cultivated differently. How many different ways can you do this? A 486 B 512 C 1024 D 472 E 720 F 392
+
+**Answer:** A
+[[src_archimede_2014_classiprime__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_ecolier_f__Q10
 parent: src_kangourou_2015_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2015 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *prodotto di due primi non consecutivi*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 55
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iZrTBi-soab93JlVJUtlAaAcp-N69n0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*product of two non-consecutive primes*
+
+> How old is the teacher? An integer greater than 1 is said to be prime if it is divisible only by 1 and for itself (e.g., 13 is prime and 15 is not). Two prime numbers are called consecutive if there are no other prime numbers between them (e.g., 31 and 37 are consecutive prime numbers). To Angelo, who asked his age, the teacher replied: "I am over 30 years old and my age is the product of two prime numbers that are not consecutive: in fact, there is exactly one prime number between them that is different from them". Of course, Angelo's teacher is not retired yet. How old is he?
+
+**Answer:** 55
+[[src_kangourou_2015_squadre_ecolier_f__Q10]]

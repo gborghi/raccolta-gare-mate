@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2007 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2007__Q10
 parent: src_bocconi_semifinale_2007
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2007
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Matite colorate rimaste nella scatola di Nando*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 43 matite
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Remaining coloured carpets in the Nando box< MSK1/>
+
+> Nando had a box of 100 colored pencils. After using them for his magnificent drawings, he threw into the trash those that seemed too short. All 'pencil' of less than 4 cm in length, from 4 cm to the specified length, end up in the basket. Your neighbor picks them up and joins the pieces of the same length. The four bars you get are the same length.
+> 
+> How many pencils are left in Nando's box?
+
+**Answer:** 43 matite
+[[src_bocconi_semifinale_2007__Q10]]

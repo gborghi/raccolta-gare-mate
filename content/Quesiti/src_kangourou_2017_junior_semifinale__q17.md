@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Semifinale individuale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q17
 parent: src_kangourou_2017_junior_semifinale
 competition: Kangourou 2017 Junior - Semifinale individuale
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma minima dato MCD 3 e mcm 1800*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0147
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wcjQloPFR27i6zyeHrMFz2T13JxlzXfM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum sum given by MCD 3 and mcm 1800< MSK1/>
+
+> (Points 15) Two positive integers have 3 as their maximum common divisor and 1800 as their minimum common multiple. What is the minimum value that their sum can have?
+
+**Answer:** 0147
+[[src_kangourou_2017_junior_semifinale__Q17]]

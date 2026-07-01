@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f2__Q05
 parent: src_obm_2008_n3_f2
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Product of nonzero coefficients of minimal polynomial of a nested cube-root expression*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prodotto di coefficienti non zero del polinomio minimo di un'espressione di radice cubica incastonata*
+
+> Supponiamo che $\alpha \in \mathbb{R}$ sia una radice di qualche polinomio non zero con coefficienti razionali. Il *minimo polinomio* di $\alpha$ è il polinomio monico $m(x)$ di minore grado in modo che: - $m(\alpha) = 0$, - $m(x)$ sia monico (coefficiente di punta uguale a $1$) e tutti i suoi coefficienti siano razionali.
+> 
+> Ad esempio, il polinomio minimo di $\sqrt{2}$ è $x^2 - 2$. Determinare il prodotto dei coefficienti non zero del polinomio minimo di $$\sqrt[3]{-27 + 5\sqrt{33}} - \sqrt[3]{27 + 5\sqrt{33}}.$$
+
+[[src_obm_2008_n3_f2__Q05]]

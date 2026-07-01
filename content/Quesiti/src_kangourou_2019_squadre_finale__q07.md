@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Finale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q07
 parent: src_kangourou_2019_squadre_finale
 competition: Kangourou Coppa squadre 2019 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita contenuto sacchetti uguale all'iniziale*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0103
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of bags containing the initial < MSK1/>
+
+> Ada and Bice Ada and Bice have two bags of identical content: one bag for each of the five colors A, B, C, D and E. Ada randomly picks a pie from her bag and inserts it into Bice's, immediately after Bice picks a pie randomly from her bag and inserts it into Ada's. Now the two bags have five bags each again. What is the probability that the contents of the bags are equivalent to the original? (Write the probability as a fraction of integers p/q reduced to minimum terms and write in the order p and q; for example, if the answer was 7/9, write [0709].)
+>  
+> α
+
+**Answer:** 0103
+[[src_kangourou_2019_squadre_finale__Q07]]

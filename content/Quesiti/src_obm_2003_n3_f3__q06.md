@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f3__Q06
 parent: src_obm_2003_n3_f3
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum n_0 so n>=n_0 implies no bacana graph exists*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum n_0 quindi n>=n_0 implica che non esiste un grafico bacana*
+
+> Un grafico con un insieme di vertici $V$ che contiene elementi $n$ si chiama *bacana* se esiste un insieme $D \subset N$ e una funzione iniettabile $f: V \to \lfloor 1, n^2/4 \rfloor \cap N$ tale che due vertici $p$ e $q$ siano collegati da un bordo se e solo se $f(p) - f(q) \in D$.
+> 
+> Mostrare che esiste $n_0 \in N$ in modo che per ogni $n \ge n_0$ esistano grafici con vertici $n$ che non sono bacana.
+> 
+> **Osservazione: ** Un grafico con insieme verticale $V$ è una coppia $(V, E)$ dove $E$ è un insieme di sottoinsiemi di $V$, ognuno con esattamente due elementi. Un sottoinsieme $\{p, q\}$ è chiamato *edge*; diciamo che questo bordo collega i vertici $p$ e $q$.
+
+[[src_obm_2003_n3_f3__Q06]]

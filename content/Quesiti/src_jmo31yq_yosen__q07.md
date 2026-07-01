@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo31yq_yosen__Q07
 parent: src_jmo31yq_yosen
 competition: Japan Mathematical Olympiad 2021 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Centroids of ACP and ABQ coincide; find BC*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\sqrt{231}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Centroidi ACP e ABQ coincidono; trovare BC< MSK1/>
+
+> Sul lato $BC$ del triangolo $ABC$, si prendono i punti $P$ e $Q$ e il centroide del triangolo $ACP$ coincide con il centroide del triangolo $ABQ$. Dato $AB=10$, $AC=11$, $BP=5$, $CQ=6$, si trova la lunghezza del lato $BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Risposta:** \sqrt{231}
+[[src_jmo31yq_yosen__Q07]]

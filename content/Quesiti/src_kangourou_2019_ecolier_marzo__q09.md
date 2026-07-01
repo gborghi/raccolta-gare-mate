@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q09
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanto lungo il primo salto per evitare le pozze*
 
@@ -75,3 +78,25 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How long is the first leap to avoid the wells< MSK1/>
+
+![[src_kangourou_2019_ecolier_marzo__prob9.png]]
+
+> In the figure you can see an obstacle course: the obstacles are the gray squares representing as many water wells. In order to reach the last box, the box indicated by X, the Jump kangaroo must make leaps forward: when landing on a saddle, it must jump again with as many boxes as are indicated in the box from which it starts (e.g.: 1 means it must land on the next box, 2 means it must jump a box, etc.). How many boxes does it have to be along its first jump if it wants to land in X avoiding all the water wells? 2 4 1 h 3 3 h 4 1 4 h 3 h 3 1 h X A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 5
+>          
+> E) He can't avoid all the wells.
+>
+
+**Answer:** B
+[[src_kangourou_2019_ecolier_marzo__Q09]]

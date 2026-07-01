@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student semifinale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q01
 parent: src_kangourou_2024_student_semifinale
 competition: Kangourou 2024 Student semifinale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area dell'ottagono regolare con quadrato inscritto di area 2*
 
@@ -58,3 +61,37 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the regular octagon with square inscribed area 2*
+
+![[src_kangourou_2024_student_semifinale__prob1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (V0) at (0,2);
+  \coordinate (V1) at (1.414,1.414);
+  \coordinate (V2) at (2,0);
+  \coordinate (V3) at (1.414,-1.414);
+  \coordinate (V4) at (0,-2);
+  \coordinate (V5) at (-1.414,-1.414);
+  \coordinate (V6) at (-2,0);
+  \coordinate (V7) at (-1.414,1.414);
+  \draw (V0)--(V1)--(V2)--(V3)--(V4)--(V5)--(V6)--(V7)--cycle;
+  \draw (V1)--(V3)--(V5)--(V7)--cycle;
+  \filldraw (V1) circle (2.5pt);
+  \filldraw (V3) circle (2.5pt);
+  \filldraw (V5) circle (2.5pt);
+  \filldraw (V7) circle (2.5pt);
+\end{tikzpicture}
+\end{document}
+```
+
+> I lied yesterday and I will lie tomorrow.
+
+**Answer:** C
+[[src_kangourou_2024_student_semifinale__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2011 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2011__Q05
 parent: src_cn_ctst_2011
 competition: China National Team Selection Test 2011
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Permutation of positive integers: infinite i with lcm(a_i, a_{i+1}) <= 3i/4*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Permutazione dei numeri interi positivi: infinito i con lcm(a_i, a_{i+1}) <= 3i/4*
+
+> Lasciate che $a_1, a_2, \ldots$ sia una permutazione di tutti gli integri positivi. Prove che esistono infinitamente molti interi positivi $i$, come $(a_i, a_{i+1}) \le \dfrac{3}{4}i$. (Possibile da Chen Yonggao)
+
+[[src_cn_ctst_2011__Q05]]

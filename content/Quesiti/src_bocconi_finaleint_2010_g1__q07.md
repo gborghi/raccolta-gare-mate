@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 1) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g1__Q07
 parent: src_bocconi_finaleint_2010_g1
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo risultato finale percorrendo la ruota delle operazioni partendo da un numero tra 1 e 9.*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 72
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum end result on the operation wheel starting from a number between 1 and 9.*
+
+> Mathias chooses a number between $1$ and $9$ ($1$ and $9$ included). Start from any wheel box and apply the operation of this box to the number you have chosen. It then runs the wheel in the direction of the arrow and then performs the other five operations. For example, if you have selected $8$ and the box $+8$, run $8 + 8 = 16$; $16 \times 3 = 48$; $48 : 6 = 8$; $8 \times 5 = 40$; $40 + 9 = 49$; $49 + 2 = 51$. The division by $6$ must necessarily give an integer result in order for the calculation to be valid. What's the greatest end result Mathias can get? The wheel operations are $+9$, $+2$, $+8$, $\times 3$, $: 6$, $\times 5$.
+
+![[src_bocconi_finaleint_2010_g1__Q07.png]]
+
+**Answer:** 72
+[[src_bocconi_finaleint_2010_g1__Q07]]

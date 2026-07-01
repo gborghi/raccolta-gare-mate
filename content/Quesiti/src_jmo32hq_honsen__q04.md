@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2022 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo32hq_honsen__Q04
 parent: src_jmo32hq_honsen
 competition: Japan Mathematical Olympiad 2022 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer pairs with 3^x - 8^y = 2xy+1*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1N8QRZh_HoqqCTuVlMkwjvlkn9JqK43Wo/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di numeri interi positivi con 3^x - 8^y = 2xy+1*
+
+> Trova tutte le coppie di integri positivi $(x, y)$ soddisfacenti $$3^x - 8^y = 2xy + 1.$$
+
+[[src_jmo32hq_honsen__Q04]]

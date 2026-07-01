@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q03
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of an expression with powers of 2015 and 2014*
 
@@ -55,3 +58,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valutazione di un'espressione con poteri del 2015 e del 2014*
+
+> Qual è il valore dell'espressione $2015^2 - 2015 \times 2014 - 2014^2 + 2014 \times 2015$?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2015
+> - **(D)** 2029
+> - **(E)** 4029
+
+**Risposta:** E
+[[src_obm_2015_n1_f1__Q03]]

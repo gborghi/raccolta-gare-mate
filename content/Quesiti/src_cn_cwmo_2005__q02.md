@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2005 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2005__Q02
 parent: src_cn_cwmo_2005
 competition: China Western Mathematical Olympiad 2005
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tangent lines from external point, prove BE=BF*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Line tangenti dal punto esterno, dimostrare BE=BF*
+
+> Come mostrato nel diagramma, $PA$, $PB$ sono due linee tangenti di un cerchio da un punto $P$ al di fuori del cerchio, e $A$, $B$ sono i punti di contatto. $PD$ è una linea secante, che interseca il cerchio a $C$ e $D$. $BF$ è parallelo a $PA$ e risponde rispettivamente alle linee $AC$, $AD$ a $E$ e $F$. Prove che $BF = BE$.
+
+![[src_cn_cwmo_2005__Q02.png]]
+
+[[src_cn_cwmo_2005__Q02]]

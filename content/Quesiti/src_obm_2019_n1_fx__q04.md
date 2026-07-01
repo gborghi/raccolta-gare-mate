@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2019_n1_fx__Q04
 parent: src_obm_2019_n1_fx
 competition: Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Place digits 0–10 in a cross-shaped drawing satisfying sum conditions*
 
@@ -57,3 +60,21 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pakMGdmqn3t7vFmFJmF7aCi7jvCUTIEX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Inserire le cifre 010 in un disegno a forma incrociata che soddisfi le condizioni di somma*
+
+> I numeri $0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10$ devono essere inseriti, uno in ogni cella del disegno di seguito, soddisfacendo le seguenti condizioni:
+> 
+> $$\begin{array}{|c|}\hline 0 \\ \hline x \quad S \\ \hline y \hline \end{array}$$
+> 
+> - Ogni numero appare esattamente una volta. - La somma dei numeri in ciascuna delle tre righe orizzontali di tre celle e la somma dei numeri nella barra verticale di cinque celle devono essere tutte uguali. - I numeri < MSK0/> e < MSK1/> sono già inseriti e non possono essere spostati.
+> 
+> Trovare tutti i valori possibili di $x + y$ e, per ogni valore, fornire un esempio di come compilare tutti i numeri.
+
+![[src_obm_2019_n1_fx__Q04.png]]
+
+[[src_obm_2019_n1_fx__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo16yq_yosen__Q09
 parent: src_jjmo16yq_yosen
 competition: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count colorings of 8 unit cubes (red/yellow faces) satisfying two 2x2x2 assembly conditions*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 55
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kd1TVGSchFgfQoYWGu97jdlpAwS4ecq_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare colori di 8 cubetti unitari (faccia rosse/gialle) che soddisfano due condizioni di assemblaggio 2x2x2*
+
+> Ci sono $8$ cubetti unitari. Ogni volto di ogni cubo è dipinto rosso o giallo. Contare il numero di modi per dipingere tutte le facce (cioè assegnare un colore a ciascuna faccia di ciascuno dei cubi $8$) in modo che sia possibile soddisfare simultaneamente entrambe le seguenti condizioni:\n\n(i) I cubi $8$ possono essere assemblati in un cubo $2 \times 2 \times 2$ in modo tale che il grande cubo risultante abbia esattamente $5$ facce rosse e $1$ facce gialla sulla sua superficie.\n\nii) I cubi $8$ possono essere assemblati (possibilmente in un'arrangiamento diverso) in un cubo $2 \times 2 \times 2$ in modo tale che il grande cubo risultante abbia esattamente $1$ facce rosse e $5$ facce gialle sulla sua superficie.\n\nDue dipinti sono considerati uguali se uno può essere ottenuto da un'altra unità di rotazione dei cubi. Due arrangiamenti di montaggio che differiscono solo per rotazione o riflessione dell'intero cubo $2 \times 2 \times 2$ sono considerati uguali.
+
+**Risposta:** 55
+[[src_jjmo16yq_yosen__Q09]]

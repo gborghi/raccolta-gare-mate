@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2012 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2012__Q10
 parent: src_bocconi_squadre_2012
 competition: Gara a Squadre 2012
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prezzo secondo vestito dato rapporti tra prezzi*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 638 oppure 29
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Price by garment given price ratios*
+
+> Nando finally made up his mind and even bought three clothes. He did not pay any expenses and paid < MSK0/> Euro. What was the price of the second dress, knowing that the price of the third was twice that of the first and that to write the three prices in question (all euro integers) nine different digits are used?
+> 
+> What is the price of the second dress?
+
+**Answer:** 638 oppure 29
+[[src_bocconi_squadre_2012__Q10]]

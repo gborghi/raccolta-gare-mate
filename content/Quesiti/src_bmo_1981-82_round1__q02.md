@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1981-82 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1981-82_round1__Q02
 parent: src_bmo_1981-82_round1
 competition: British Mathematical Olympiad 1981-82 — Round 1
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Multiple of 3 in base 2 with three 1s: digit counts in base 4*
 
@@ -43,3 +46,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iBLrHn-nHBI8ucTONz6bQHo1BughmGgq/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Multiplici di 3 in base 2 con tre 1s: conteggio di cifre in base 4*
+
+> Un multiple di $3$ quando scritto nella scala di $2$ contiene esattamente tre cifre $1$. Prove che contiene almeno sei cifre quando viene scritta nella scala di $4$, e che se contiene esattamente sette cifre in questa scala, allora è pari.
+
+[[src_bmo_1981-82_round1__Q02]]

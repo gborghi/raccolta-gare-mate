@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_ecolier_finale__QE4
 parent: src_kangourou_2012_ecolier_finale
 competition: Kangourou 2012 Finale Ecolier (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra finale del prodotto dei dispari tra 1 e 2012*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1mMJfJPY0vCeg0a0yLvZP0jVa8OM0-CzS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Final product figure of the odd between 1 and 2012*
+
+> If all odd integers between 1 and 2012 are multiplied by each other, what number does the product end with?
+
+**Answer:** 5
+[[src_kangourou_2012_ecolier_finale__QE4]]

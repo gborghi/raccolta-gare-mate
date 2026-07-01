@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2010 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2010__Q01
 parent: src_cn_cmc_2010
 competition: China Mathematical Competition 2010
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Range of a function involving two square roots*
 
@@ -42,3 +45,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rango di una funzione che coinvolge due radici quadrate*
+
+> L'intervallo di $f(x) = \sqrt{x-5} - \sqrt{24-3x}$ è ________.
+
+**Risposta:** $[-3,\sqrt{3}]$
+[[src_cn_cmc_2010__Q01]]

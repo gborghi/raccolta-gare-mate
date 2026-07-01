@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f3__Q02
 parent: src_obm_2003_n1_f3
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Longest sequence ending in 103 where each term plus its digit sum gives the next term*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Fq2BnouPlZNYB4q3xeQVFACfj-3dDnnn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza più lunga che termina con 103 dove ogni termine più la somma digitali dà il termine successivo*
+
+> Considerate le sequenze di numeri interi positivi in modo tale che ogni termine più la somma dei suoi numeri sia uguale al termine seguente. Ad esempio: $6, 12, 15, 21, 24, 30, 33, 39$ è una sequenza in queste condizioni.
+> 
+> Scrivere la sequenza più lunga il cui ultimo termine è $103$ e che soddisfa tali condizioni.
+> 
+> **Nota: ** la sequenza più lunga è quella con il maggior numero di termini.
+
+[[src_obm_2003_n1_f3__Q02]]

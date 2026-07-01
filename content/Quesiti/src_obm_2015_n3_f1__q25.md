@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q25
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate sum of 1/[n²(n+1)²] using the Basel series identity*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare la somma di 1/[n2(n+1)2] utilizzando l'identità della serie di Basilea*
+
+> Sapendo che $$\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{1}{1^2} + \frac{1}{2^2} + \frac{1}{3^2} + \cdots = \frac{\pi^2}{6},$$ il valore di $$\sum_{n=1}^{\infty} \frac{1}{n^2(n+1)^2} = \frac{1}{1^2 \cdot 2^2} + \frac{1}{2^2 \cdot 3^2} + \frac{1}{3^2 \cdot 4^2} + \cdots$$ è pari a:
+> 
+> (A) $\dfrac{\pi^2}{6} - 1$ \quad (B) $\dfrac{\pi^2}{4}\!\left(\dfrac{\pi^2}{6} - 1\right)$ \quad (C) $\dfrac{\pi^2}{3} - 1$ \quad (D) $\dfrac{\pi^2}{3} + 1$ \quad (E) $\dfrac{\pi^2}{6} - 2$
+
+**Risposta:** A
+[[src_obm_2015_n3_f1__Q25]]

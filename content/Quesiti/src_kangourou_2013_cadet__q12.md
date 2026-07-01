@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q12
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *La più giovane tra cinque ragazze da date di nascita*
 
@@ -46,3 +49,15 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The youngest of five girls by birth
+
+> Anna, Betta, Cinzia, Dina and Elisa have given us their dates of birth by mixing them: 20/02/2001, 12/03/2000, 20/03/2001, 12/04/2000 and 23/04/2001. Hannah and Zinthia were born on the same day of different months; and Dinah and Elisha were born on the same day of different months. Which is the youngest of the five girls? (A) Anna B) Betta C) Cinzia D) Dina E) Elisa α β γ δ
+>
+
+**Answer:** B
+[[src_kangourou_2013_cadet__Q12]]

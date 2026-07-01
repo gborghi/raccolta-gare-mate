@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo12yq_yosen__Q12
 parent: src_jmo12yq_yosen
 competition: Japan Mathematical Olympiad 2002 — Yosen (Preliminary)
@@ -26,6 +27,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation over rationals; solve f(x)=2002*
 
@@ -45,3 +48,21 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale sui razionali; risolvere f(x)=2002*
+
+> Una funzione $f(x)$ è definita per ogni numero razionale e assume valori razionali e soddisfa le seguenti condizioni $(1)$, $(2)$, $(3)$.
+> 
+> $(1)$ $f(0) = 2,\ f(1) = 3$.
+> 
+> $(2)$ Per qualsiasi numero razionale $x$ e per qualsiasi numero intero $n$, il seguente vale: $$f(x+n) - f(x) = n\{f(x+1) - f(x)\}.$$
+> 
+> $(3)$ Per qualsiasi numero razionale non zero $x$, il valore seguente è: $$f(x) = f\left(\frac{1}{x}\right).$$
+> 
+> In queste condizioni, trovare tutti i numeri razionali $x$ che soddisfano $f(x) = 2002$.
+
+[[src_jmo12yq_yosen__Q12]]

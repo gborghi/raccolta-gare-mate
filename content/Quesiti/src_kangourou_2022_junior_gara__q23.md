@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q23
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti erano i pirati dato il bottino*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many pirates were given the loot?
+
+> Some pirates shared a loot of 200 gold and 600 silver coins. Each captain had five gold and ten silver coins, each sailor three.
+>  
+> 1
+>  
+> P R
+> 
+> Gold and eight silver coins, one gold and six silver coins each. How many pirates were there? A) 50
+>   
+> B) 60
+>   
+> C) 72 D) 80 E) 90
+
+**Answer:** D
+[[src_kangourou_2022_junior_gara__Q23]]

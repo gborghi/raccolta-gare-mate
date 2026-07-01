@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2020 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2020__Q04
 parent: src_cn_cmc-first-round_2020
 competition: China Mathematical Competition (First Round) 2020
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Complex number ratio real, find minimum modulus shifted*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $\sqrt{5}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ratio numero complesso reale, ritrovare il modulo minimo spostato*
+
+> (Paper A, parte I Q4) Il $z$ deve essere un numero complesso. Se $\dfrac{z - 2}{z - \mathrm{i}}$ è un numero reale ($\mathrm{i}$ è l'unità immaginaria), allora il minimo di $|z + 3|$ è $\underline{\qquad}$.
+
+**Risposta:** \sqrt{5}
+[[src_cn_cmc-first-round_2020__Q04]]

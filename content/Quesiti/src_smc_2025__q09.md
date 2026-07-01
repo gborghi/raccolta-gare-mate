@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q09
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fifty squares in a line; first and last shaded; no two adjacent shaded; no more than three consecutive unshaded; find difference between max and min shaded squares.*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Piccento quadrati in riga; primo e ultimo ombreggiato; non due ombreggiati adiacenti; non più di tre consecutivi non ombreggiati; trovare la differenza tra i quadrati ombreggiati massimo e min.*
+
+> Cinquanta quadrati sono disegnati fianco a fianco in una linea. Il primo e l'ultimo quadrato sono ombrati. Gli altri quadrati della linea devono essere ombrati in modo tale che (a) non siano ombrati due quadrati adiacenti e (b) non vi siano più di tre quadrati non ombrati consecutivi. Qual è la differenza tra il più grande e il più piccolo numero di quadrati che possono essere ombrati?
+>
+> - **(A)** 8
+> - **(B)** 10
+> - **(C)** 11
+> - **(D)** 13
+> - **(E)** 15
+
+**Risposta:** C
+[[src_smc_2025__Q09]]

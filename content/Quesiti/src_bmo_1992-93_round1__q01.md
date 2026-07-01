@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1992-93 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1992-93_round1__Q01
 parent: src_bmo_1992-93_round1
 competition: British Mathematical Olympiad 1992-93 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find six-digit perfect square where last three digits exceed first three by exactly one.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDFbSCKazjMRj8PyuzNgoZkN6uCy6tM7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova un quadrato perfetto di sei cifre in cui le ultime tre cifre superano le prime tre esattamente di uno.*
+
+> Trova, mostrando il tuo metodo, un numero intero a sei cifre $n$ con le seguenti proprietà: (i) $n$ è un quadrato perfetto, (ii) il numero formato dalle ultime tre cifre di $n$ è esattamente uno maggiore del numero formato dalle prime tre cifre di $n$. (In questo modo $n$ potrebbe sembrare $123124$, anche se questo non è un quadrato.)
+
+[[src_bmo_1992-93_round1__Q01]]

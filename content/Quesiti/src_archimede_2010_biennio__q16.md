@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Biennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_biennio__Q16
 parent: src_archimede_2010_biennio
 competition: Giochi di Archimede 2010 - Biennio
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri quattro cifre con unita somma di decine e centinaia*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Four-digit numbers with the combined sum of tens and hundreds*
+
+> How many are the four-digit natural numbers, such that the number of units is the sum of the number of tens and the number of hundreds?
+>
+> - **(A)** 315,
+> - **(B)** 495,
+> - **(C)** 540,
+> - **(D)** 720,
+> - **(E)** 900.
+
+**Answer:** B
+[[src_archimede_2010_biennio__Q16]]

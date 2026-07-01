@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2016 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2016__Q15
 parent: src_smc_2016
 competition: Senior Mathematical Challenge 2016
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three rectangles meet three straight lines at points P, Q, R with exterior angles p°, q°, r°. Find p + q + r.*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre rettangoli incontrano tre linee rette nei punti P, Q, R con angoli esterni p°, q°, r°. Trova p + q + r.*
+
+> Il diagramma mostra tre rettangoli e tre linee rette. Qual è il valore di < MSK0/>?
+>
+> - **(A)** 135
+> - **(B)** 180
+> - **(C)** 210
+> - **(D)** 225
+> - **(E)** 270
+
+![[src_smc_2016__Q15.png]]
+
+**Risposta:** B
+[[src_smc_2016__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f1__Q18
 parent: src_obm_2012_n3_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ways for clown to distribute 21 balls to 5 children under constraints*
 
@@ -53,3 +56,23 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Medi per il clown di distribuire 21 palle a 5 bambini sotto vincoli*
+
+> In una festa per bambini, il clown Macaxeira distribuirà 21 palle a 5 bambini che giocano a un gioco. Macaxeira deve effettuare la distribuzione soddisfacendo le seguenti condizioni:
+> 
+> 1) Ogni bambino può ricevere solo palle intere (nessuna frazione);
+> 
+> 2) ogni bambino deve ricevere almeno una palla;
+> 
+> 3) Il numero di palle ricevute diminuisce a seconda dell'altezza, cioè nessun bambino riceve un numero di palle più grande di un altro bambino più alto.
+> 
+> Supponiamo che tutti i bambini abbiano altezze diverse, in quanti modi si possa fare questa distribuzione?
+> 
+> **A)** 10 $\quad$ **B)** 11 $\quad$ **C)** 12 $\quad$ **D)** 13 $\quad$ **E)** 14
+
+[[src_obm_2012_n3_f1__Q18]]

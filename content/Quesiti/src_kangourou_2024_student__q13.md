@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q13
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato del quadrato grande in funzione di a,b,c*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Side of the square of a function of a,b,c*
+
+![[src_kangourou_2024_student__prob13.png]]
+
+> The three smallest squares of the four shown in the figure have sides of lengths a, b, c. The vertex A of the largest square coincides with a vertex of the square on side a, the opposite vertex C with a vertex of the square on side c. The tip B of the side b square lies on one side of the larger square. Which of the following expressions gives the size of the side of the largest square? A) (a + b + c) / 2 B) √a2 + b2 + c2 C)  √(a + b)2 + c2 D) √(b − a)2 + c2 E) √a2  + ab + b2 + c2
+
+**Answer:** C
+[[src_kangourou_2024_student__Q13]]

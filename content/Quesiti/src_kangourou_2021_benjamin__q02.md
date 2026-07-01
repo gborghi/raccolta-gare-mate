@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q02
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte si stringono due mani sinistre*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many times do you shake two left hands< MSK1/>
+
+![[src_kangourou_2021_benjamin__prob2.png]]
+
+> In this picture, all the children are holding hands. How many times does it happen that both hands that are holding together are left hands? A) 1 B) 2 C) 3 D) 4 E) 5
+
+**Answer:** A
+[[src_kangourou_2021_benjamin__Q02]]

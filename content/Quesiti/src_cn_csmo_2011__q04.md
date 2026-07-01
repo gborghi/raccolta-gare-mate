@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2011 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2011__Q04
 parent: src_cn_csmo_2011
 competition: China Southeastern Mathematical Olympiad 2011
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Line meets circumcircle triangle sides at M, N; E, F midpoints of BN, CM; prove angle EOF = angle A*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La linea incontra i lati del triangolo circoncircolare ai punti intermedi di BN, CM, E, F; prova angolo EOF = angolo A*
+
+> Supponiamo che una linea che attraversa il circoncircolo $O$ di $\triangle ABC$ incroci $AB$ e $AC$ rispettivamente nei punti $M$ e $N$, e $E$ e $F$ siano i punti di mezzo di $BN$ e $CM$, rispettivamente. Prova che < MSK10/>. (Posizionato da Tao Pingheng)
+
+![[src_cn_csmo_b11_w293__Q04.png]]
+
+[[src_cn_csmo_2011__Q04]]

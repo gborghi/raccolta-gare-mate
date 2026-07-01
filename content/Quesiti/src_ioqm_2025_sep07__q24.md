@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q24
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -33,6 +34,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *P(x)=x^2025 divided by Q(x)=x^4+x^3+2x^2+x+1; find R(3)*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*P(x)=x^2025 diviso da Q(x)=x^4+x^3+2x^2+x+1; trovare R(3)*
+
+> Per esempio, < MSK0/>, < MSK1/>. $R(x)$ sia il residuo polinomial quando il polinomial $P(x)$ è diviso dal polinomial $Q(x)$. Trova < MSK5/>.
+
+[[src_ioqm_2025_sep07__Q24]]

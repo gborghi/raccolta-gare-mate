@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin__Q26
 parent: src_kangourou_2023_benjamin
 competition: Kangourou 2023 Benjamin — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quante somme diverse*
 
@@ -82,3 +85,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many different sums < MSK1/>
+
+![[src_kangourou_2023_benjamin__prob26.png]]
+
+> Martino has three cards, each with a number on both faces. The card with 1 on one face returns 4 on the opposite face; the card with 2 on one face returns 5 on the other; the card with 3 on one face returns 6 on the other. By arranging the three cards on the table in every possible way and adding up the three numbers that appear, how many different sums can Martino get? A) 3
+> 	
+> B) 4
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 10 24 m 30 m 66 m 2 2 3 4 49 50 49 50 47 48 1 1 1 4 2 5 3 6 Front Retro Paper 1 Paper 2 Paper 3
+>
+
+**Answer:** C
+[[src_kangourou_2023_benjamin__Q26]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f2__Q01
 parent: src_obm_2000_n1_f2
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count rectangular parallelepipeds from 24 unit cubes*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qZOH-LlPfV09ybTQlFoTrTk4Wq25FjPn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i parallelepiped rettangolari da 24 cubetti unitari*
+
+> In quanti modi diversi possiamo costruire un parallelepiped rettangolare utilizzando esattamente 24 blocchi cubi di dimensioni $1 \times 1 \times 1$?
+> 
+> **Nota:** Blocchi di dimensioni $2 \times 3 \times 4$ e $2 \times 4 \times 3$ sono considerati uguali.
+
+**Risposta:** 6
+[[src_obm_2000_n1_f2__Q01]]

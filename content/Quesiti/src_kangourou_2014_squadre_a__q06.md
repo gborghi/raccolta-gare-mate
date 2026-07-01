@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q06
 parent: src_kangourou_2014_squadre_a
 competition: Kangourou Coppa Squadre 2014 Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo DEF nel parallelogramma per similitudine*
 
@@ -63,3 +66,39 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 240
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*DEF triangle area in parallelogram for similarities*
+
+![[src_kangourou_2014_squadre_a__prob6.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (4,0);
+  \coordinate (C) at (5,2);
+  \coordinate (D) at (1,2);
+  \coordinate (F) at (3.67,2);
+  \coordinate (E) at (2.2,1.2);
+  \draw (A) -- (B) -- (C) -- (D) -- cycle;
+  \draw (A) -- (F);
+  \draw (B) -- (D);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above right] at (C) {$C$};
+  \node[above left] at (D) {$D$};
+  \node[above] at (F) {$F$};
+  \node[right] at (E) {$E$};
+  \fill (E) circle (1.5pt);
+\end{tikzpicture}
+\end{document}
+```
+
+> The parallelogram Note the figure: ABCD is a parallelogram, the area of the AED triangle is 360 m2, while the area of the ABE triangle is 540 m2. What is the area of the DEF triangle in m2?
+
+**Answer:** 240
+[[src_kangourou_2014_squadre_a__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_pubblico__Q15
 parent: src_cesenatico_2012_pubblico
 competition: Gara a Squadre Cesenatico 2012 - Gara del pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area stellina a 5 punte su sfera (archi)*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 3141
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Five-pointed star area on a sphere (s) *
+
+![[src_cesenatico_2012_pubblico__prob15.png]]
+
+> In an ancient Egyptian temple, a regular hexagon-shaped stone slab was found that was used to count years. For every year from an uncertain date between 700 BC and 800 BC until their demise, the Egyptians engraved a circle of 16 mm radius on the slab. The circles were engraved so as not to overlap, and it was calculated that, even by optimizing space, the plate was only placed for the years up to 2012 DC. Apparently, then it would be the Absolute Evil that would end civilization. How many millimetres does the side of the hexagon measure at least?
+
+**Answer:** 3141
+[[src_cesenatico_2012_pubblico__Q15]]

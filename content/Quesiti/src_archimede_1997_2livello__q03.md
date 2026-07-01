@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1997 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_2livello__Q03
 parent: src_archimede_1997_2livello
 competition: Archimede Gara 2º livello 1997
@@ -23,6 +24,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sbarra acciaio-gomma con stesso peso invertendo i materiali*
 
@@ -38,3 +41,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Steel-rubber bar of equal weight by reversing the materials*
+
+> 100 delegates are assembled in the congress. Not everyone wears a tie, but we know that if you choose two, at least one of them will get the door. How many congressmen are in ties?
+>
+> - **(A)** At least two, but less than 50
+> - **(B)** Exactly 50
+> - **(C)** More than 50, but you can't say exactly how many
+> - **(D)** The situation described is impossible.
+> - **(E)** None of the above
+
+**Answer:** C
+[[src_archimede_1997_2livello__Q03]]

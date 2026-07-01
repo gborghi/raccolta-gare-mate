@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q28
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Evento piu probabile (estrazione 3 carte)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The most likely event (extraction of 3 cards)
+
+> For each of four different colors, there are three cards numbered 1 to 3 in a day. You've randomly drawn three cards from the hour. Which of the following is most likely? A) The three extracted cards are of the same colour. B) The three extracted cards, regardless of their colour, bear the numbers 1, 2 and 3. (c) The three extracts are of three different colours. D) The three extracted cards have the same number. E) None: the previous four events all have the same probability of occurring.
+
+**Answer:** C
+[[src_kangourou_2007_junior_marzo__Q28]]

@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2008 — Quesito
   13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2008__Q13
 parent: src_bocconi_finalenaz_2008
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2008
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale intera di variazione dei lati di un rettangolo data la riduzione d'area tra 2% e 3%.*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 15%, 16% e 17%
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Full percentage of change in sides of a rectangle given the area reduction between 2% and 3%.*
+
+> We've reduced the width and increased the length of a rectangle by the same percentage. After this deformation, the area of the rectangle decreased by a percentage between 2% and 3%. What percentage of the original width and length have been changed ?
+
+**Answer:** 15%, 16% e 17%
+[[src_bocconi_finalenaz_2008__Q13]]

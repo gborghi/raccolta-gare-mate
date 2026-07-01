@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q11
 parent: src_archimede_2015_febb_2livello
 competition: Archimede Gara di Febbraio 2015 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di ripassare segmenti del 9-agono con un lato per triangolo*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/147OSJf1wSBJHNEWKDKPVWMIP2TLevkAt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode of passing segments of the 9-agon with one side per triangle*
+
+> John draws a regular 9-axis pencil and connects each of its vertices to the center, drawing a total of 18 segments and thus obtaining nine triangles. It then pencils some of the traced segments, making sure that at the end each of the nine triangles has exactly one penciled side. In how many ways can John choose the whole of the segments to go through? (Note: two sets of segments obtained from each other by rotation or symmetry are to be considered separate.)
+>
+> - **(A)** 49
+> - **(B)** 65
+> - **(C)** 74
+> - **(D)** 76
+> - **(E)** 85
+
+**Answer:** D
+[[src_archimede_2015_febb_2livello__Q11]]

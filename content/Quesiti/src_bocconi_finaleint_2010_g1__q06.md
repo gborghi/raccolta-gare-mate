@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 1) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g1__Q06
 parent: src_bocconi_finaleint_2010_g1
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punteggio massimo formando quadrati e triangoli con 12 fiammiferi.*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 17
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum score by forming squares and triangles with 12 matches.*
+
+> Mathias placed identical matches on his desk to form at least a square and at least a triangle. Count the squares and triangles of all sizes that appear. Each plotted triangle is $2$ points and each plotted square is $5$ points. What's the maximum score Mathias can score? Each end of a match is in contact with the end of another match or with the ends of more than one match, and two matches never cross.
+
+**Answer:** 17
+[[src_bocconi_finaleint_2010_g1__Q06]]

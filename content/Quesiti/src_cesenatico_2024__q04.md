@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2024__Q04
 parent: src_cesenatico_2024
 competition: Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *XS=PS e AX=DQ*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14A3kypX3yL3mm83T1BPC_ELqWeT1zP6s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*XS=PS e AX=DQ*
+
+![[src_cesenatico_2024__prob4.png]]
+
+> Whether ABCD is a rectangle with AB < BC, inscribed in a circumference Γ. They are P on the BC (not containing A) and Q on the CD (not containing A) such that BP = CQ. The circumference of diameter AQ again intersects the straight AP in S. The line for B and perpendicular to AQ intersects the line AP in X. (a) Demonstrate that XS = PS. (b) Demonstrate that AX = DQ. Italian Olympic Games of Mathematics 2024 -- Texts and solutions -- Page 1 of 14
+
+[[src_cesenatico_2024__Q04]]

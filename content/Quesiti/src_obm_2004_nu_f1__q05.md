@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 1 —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_nu_f1__Q05
 parent: src_obm_2004_nu_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Matrix with a_{ij}=m(i-1)+j; find lambda for limit of phi(n)/n^lambda*
 
@@ -52,3 +55,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rns90hvVWwghYkYiNKyUvjjjPu-_eNED/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*matrice con a_{ij}=m(i-1) + j; trovare lambda per il limite di phi(n)/n^lambda*
+
+> Considera una matrice $n \times n$ $A$ definita da $a_{ij} = m(i-1)+j$ per tutte le $1 \le i,j \le n$. La $\varphi(n)$ è la somma dei determinanti di tutte le $k \times k$ sottomatrici di $A$ (sopra tutte le scelte delle righe $k$ e delle colonne $k$ di $A$).
+> 
+> (a) Determinare un numero reale $\lambda$ tale che $\displaystyle\lim_{n\to\infty}\frac{\varphi(n)}{n^{\lambda}}$ esista e non sia zero.
+> 
+> b) Determinare il valore del limite di cui alla lettera a).
+
+[[src_obm_2004_nu_f1__Q05]]

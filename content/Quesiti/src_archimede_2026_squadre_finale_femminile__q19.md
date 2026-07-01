@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q19
 parent: src_archimede_2026_squadre_finale_femminile
 competition: Gara a Squadre Femminile 2026 - IX Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza BC in quadrilatero con angoli 45 e AC=CD*
 
@@ -63,3 +66,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 169
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance BC in quadratic with angles 45 and AC=CD*
+
+> Upon reaching the nest, they discover that the raging battle and Red Death are invincible. The ship where Toothless is held captive sinks and Hiccup jumps to save him risking his life. It's her father Stoick who first saves Hiccup and then ritualises to free Dentato. Even in the heat of battle, Stoick apologizes for everything he said and did. Hiccup and Toothless get into battle drawing the Red Death on them. After an aerial battle, Sdentato is located at point B and Red Death at point C of a convex quadrilateral ABCD where ˆ ˆ 45 ABC CDA   , AC CD , 100 m AB , 260 m BD . At that moment the artificial prosthesis of Sdentato is on fire because of the shots fired by the giant dragon. Before they can precipitate, Dentato, with his plasma shots under the guidance of Hiccup, hits the mouth of the Red Death, setting fire to the gas contained within and making it explode. How much is BC's distance from the shot to the plasma that killed the Red Death?
+
+**Answer:** 169
+[[src_archimede_2026_squadre_finale_femminile__Q19]]

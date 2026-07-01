@@ -1,6 +1,7 @@
 ---
 title: IMO 2018 papers — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2018__Q04
 parent: src_imo_2018
 competition: IMO 2018 papers
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo K pietre rosse di Amy (gioco)*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tvIX0rbY0Jiofkx0Jp_N_tsr4t5dB-fl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum K red stones of Amy (play)
+
+> A site is any point $(x, y)$ in the plane such that $x$ and $y$ are both positive integers less than or equal to $20$. Initially, each of the $400$ sites is unoccupied. Amy and Ben take turns placing stones with Amy going first. On each move, Amy places a new red stone on an unoccupied site such that the distance between any two sites occupied by red stones is not equal to $\sqrt{5}$. On each move, Ben places a new blue stone on any unoccupied site. They stop as soon as someone can't move. Find the greatest $K$ such that Amy can always place at least $K$ red stones, no matter how Ben plays.
+
+[[src_imo_2018__Q04]]

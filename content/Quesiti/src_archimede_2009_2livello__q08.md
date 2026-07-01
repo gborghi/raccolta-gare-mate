@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_2livello__Q08
 parent: src_archimede_2009_2livello
 competition: Archimede Gara 2° livello 2009 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorso minimo del ladro per toccare parete e diamante*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum route of the thief to touch walls and diamonds*
+
+![[src_archimede_2009_2livello__prob8.png]]
+
+> The tiny but precious Dodecahedron Diamond is located two meters from the south wall and three meters from the west wall of a rectangular room whose north and south walls are four meters long and the east and west walls are three meters long. A thief descends from the ceiling inside the room and touches the floor one meter from the south wall and one meter from the west wall. However, you notice that you must immediately disable the alarm system, cutting at least one line running at a constant ground height along the four perimeter walls of the room. How many meters is the shortest path you have to take to first reach any point on one of the walls, and then the Dodecahedron Diamond?
+>
+> - **(A)** 3 + √ 2
+> - **(B)** 2 + √ 5
+> - **(C)** √ 17
+> - **(D)** √ 13
+> - **(E)** 2 √ 2.
+
+**Answer:** D
+[[src_archimede_2009_2livello__Q08]]

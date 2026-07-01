@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_pubblico__Q22
 parent: src_archimede_2002_pubblico
 competition: Archimede 2002 - Gara del Pubblico (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *combinazioni della cassaforte*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0028
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*combinations of safe *
+
+> The following table shows the number of items in the table:
+> 
+> Professor Abacus keeps his money in a safe with a three-digit combination. Unfortunately, you don't remember the combination anymore, but remember that: - there are no zeros; - there was a 6 and an 8 somewhere; - the other two consecutive numbers are never divisible by 3.
+> 
+> How many combinations do you have left to try on the professor?
+
+**Answer:** 0028
+[[src_archimede_2002_pubblico__Q22]]

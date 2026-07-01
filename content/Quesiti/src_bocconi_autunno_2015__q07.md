@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2015 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2015__Q07
 parent: src_bocconi_autunno_2015
 competition: Giochi d'Autunno 2015
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della parte più scura del triangolo isoscele*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $252$ $\text{cm}^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eK88JMTv896JXMMmFL1S8lYcD_i95Nzi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the darkest part of the isosceles triangle*
+
+> Keys and dark. What you see in the figure is an isosceles rectangle with an area of 2016 $\text{cm}^2$. We divided each side of the triangle into four equal parts, so we could then map the segments you see inside the triangle. What's the area of the darkest part of the figure?
+
+![[src_bocconi_autunno_2015__Q07.png]]
+
+**Answer:** $252$ $\text{cm}^2$
+[[src_bocconi_autunno_2015__Q07]]

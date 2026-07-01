@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q10
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Vernice per parte bianca dopo rimozione cubetti*
 
@@ -68,3 +71,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>White part paint after removal of cubes< MSK1/>
+
+![[src_kangourou_2006_benjamin__prob10.png]]
+
+> It takes nine kilograms of paint to paint the entire surface of a cube. Let's remove 8 cubes from the cube, as shown in the figure. How many pounds of paint do you need to paint the white part? The Commission has therefore decided to take the necessary measures to ensure that the Community's financial contribution to the programme is not exceeded by the amount of the appropriations entered in the budget.
+> 
+> I'm going to pay. I'm going to pay. 12 12 Kang 2006 Kang 2006 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** B
+[[src_kangourou_2006_benjamin__Q10]]

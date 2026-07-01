@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2002 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2002__Q02
 parent: src_cn_cwmo_2002
 competition: China Western Mathematical Olympiad 2002
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Parallelogram formed by pedal projections lies inside triangle*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il parallelogramma formato dalle proiezioni a pedale si trova all'interno del triangolo*
+
+> Supponiamo che $O$ sia il centro circostante di un triangolo acuto $\triangle ABC$. $P$ è un punto all'interno di $\triangle AOB$, e $D$, $E$, $F$ sono le proiezioni di $P$ su tre lati $BC$, $CA$ e $AB$ di $\triangle ABC$ rispettivamente. Prova che un parallelo con $FE$ e $FD$ come lati adiacenti si trova all'interno di $\triangle ABC$. (Posizionato da Leng Ganpeng)
+
+![[src_cn_cwmo_2002__Q02.png]]
+
+[[src_cn_cwmo_2002__Q02]]

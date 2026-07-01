@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_finale__Q06
 parent: src_kangourou_2018_ecolier_finale
 competition: Kangourou Coppa Ecolier squadre 2018 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti sinceri nello stadio bugiardi e sinceri*
 
@@ -59,3 +62,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1408
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many honest people in the stage lie and honest people *
+
+> There are 2,817 people in a stadium. Every one is either a liar or a truthful one. At one to one 2816 they leave the stadium saying In the stadium there are more liars than sincere. How many honest people were there in the stadium initially? M M M X A A A T T T E E E A B B + A B B = C D B A
+> 
+> 2
+
+**Answer:** 1408
+[[src_kangourou_2018_ecolier_finale__Q06]]

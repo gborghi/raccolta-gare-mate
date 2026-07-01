@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q03
 parent: src_kangourou_2018_koala_marzo
 competition: Kangourou 2018 Gioco Koala (Marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di stelle a quattro punte usate*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AGwjurQUucDfrq-UuV0KeOG7NZtWOZs2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of four-pointed stars used*
+
+![[src_kangourou_2018_koala_marzo__prob3.png]]
+
+> Alice drew a line by connecting the tips of the drawing according to the number of dots: she started with the tip with a single dot, reached that with two, and then continued in increasing order. Which of the following lines did you draw? (see figure)
+
+**Answer:** D
+[[src_kangourou_2018_koala_marzo__Q03]]

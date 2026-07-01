@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f3__Q03
 parent: src_obm_1999_n3_f3
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max pieces on 10x10 board with no axis-parallel rectangle*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 34
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17yibfSyhuhmSwDbCsRV7EjaJIGuB8esS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Piani massimi su lavagna da 10x10 senza rettangolo parallelo all'asse*
+
+> Abbiamo una tabella quadrata. Desideriamo posizionare pezzi $n$ sulle celle della lavagna in modo tale che nessun pezzo $4$ costituisca le vertici di un rettangolo con lati paralleli ai lati della lavagna. Determinare il valore massimo di $n$ per il quale tale costruzione è possibile.
+
+**Risposta:** 34
+[[src_obm_1999_n3_f3__Q03]]

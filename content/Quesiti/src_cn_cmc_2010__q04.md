@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2010 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2010__Q04
 parent: src_cn_cmc_2010
 competition: China Mathematical Competition 2010
@@ -29,6 +30,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Arithmetic and geometric sequences linked by a logarithmic identity*
 
@@ -41,3 +44,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenze aritmetiche e geometriche legate da un'identità logaritmica*
+
+> È noto che $\{a_n\}$ è una sequenza aritmetica con differenza comune non zero e $\{b_n\}$ una sequenza geometrica, soddisfa $a_1 = 3$, $b_1 = 1$, $a_2 = b_2$, $3a_5 = b_3$; inoltre, ci sono costanti $\alpha$ e $\beta$ tali che per ogni intero positivo $n$, abbiamo $a_n = \log_{\alpha} b_n + \beta$. Poi < MSK10/> ________.
+
+**Risposta:** $3+\sqrt[3]{3}$
+[[src_cn_cmc_2010__Q04]]

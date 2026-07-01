@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo36yqa_yosen__Q02
 parent: src_jmo36yqa_yosen
 competition: Japan Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest positive integer n where floor(sqrt(2026n)) is not divisible by n*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 91
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più piccolo intero positivo n in cui il piano(sqrt(2026n)) non è divisibile da n*
+
+> Trova il più grande intero positivo $n$ in modo che $\lfloor \sqrt{2026n} \rfloor$ non sia divisibile da $n$. Qui, per un numero reale $r$, $\lfloor r \rfloor$ indica il numero intero più grande non superiore a $r$ (ad esempio, $\lfloor 3.14 \rfloor = 3$, $\lfloor 5 \rfloor = 5$).
+
+**Risposta:** 91
+[[src_jmo36yqa_yosen__Q02]]

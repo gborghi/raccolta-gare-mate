@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Benjamin 2024 — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin__Q27
 parent: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di caramelle (20 per sacchetto, 12 avanzate)*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of candies (20 per bag, 12 advanced) < MSK1/>
+
+> Grandma has a lot of candy. He decides to divide them among his grandchildren so that they each receive a bag of candy with the same number. She puts as many candy as possible in each bag: eventually she discovers that there are 20 candy in each bag and 12 candies are given to her. How many candy do you think Grandma had? A) 52
+> 	
+> B) 232 C) 272 D) 411 E) 432
+
+**Answer:** C
+[[src_kangourou_2024_benjamin__Q27]]

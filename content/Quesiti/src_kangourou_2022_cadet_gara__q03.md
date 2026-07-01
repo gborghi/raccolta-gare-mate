@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet gara individuale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q03
 parent: src_kangourou_2022_cadet_gara
 competition: Kangourou 2022 Cadet gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale targa e uguale capovolta*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which plate and equal turnover*
+
+> Pippo's license plate is off the car. Pippo stared at her again in a hurry and didn't realize he had put her upside down. Fortunately, this did not make any difference: which of these can be the plate? A) B) C)
+> 	
+> 	
+> D)
+> 	
+> 	
+> E)
+
+**Answer:** B
+[[src_kangourou_2022_cadet_gara__Q03]]

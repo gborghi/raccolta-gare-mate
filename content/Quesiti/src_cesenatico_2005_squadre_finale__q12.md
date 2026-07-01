@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q12
 parent: src_cesenatico_2005_squadre_finale
 competition: Gara a Squadre Cesenatico 2005 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minime pressioni per determinare n da resti n^k mod k*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0029
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum pressures to determine n from residues n^k mod k< MSK1/>
+
+> The great circus The renowned archaeologist Polynomial Jones and his companion Claire Petiblanc give themselves a day of relaxation between adventures at the circus. One of the attractions is Dr. Smurf's Electronic Brain. The operation is simple: at the beginning of the game, the brain draws a mysterious number between 1 and a billion, which must be guessed. Polynomial Jones pays a dresser to press a big button
+> 
+> 2005 Team competition  National final  Problem texts  Pag. 3 out of 4 red. The first time you press the button, the brain returns the rest of the division of n2 by 2, the second the rest of the division of n3 by 3, the fourth of n4 by 4 and so on. At some point, Jones polynomial is finally confident that it can determine the number. How many times, at least, have you pressed the red button?
+
+**Answer:** 0029
+[[src_cesenatico_2005_squadre_finale__Q12]]

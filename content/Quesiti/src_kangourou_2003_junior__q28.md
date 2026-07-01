@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior (20 marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior__Q28
 parent: src_kangourou_2003_junior
 competition: Kangourou 2003 Junior (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante somme distinte di tre elementi*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many sums of three elements < MSK1/>
+
+> a, b and c are three distinct numbers taken together {1, 4, 7, 10, 13, 16, 19, 22, 25, 28}. How many different sums of a + b + c are possible? A) 19 B) 21 C) 22 D) 30 E) 63
+> 
+> I'm going to pay. I'm going to pay. 27 27 Kang 2003 Kang
+
+**Answer:** C
+[[src_kangourou_2003_junior__Q28]]

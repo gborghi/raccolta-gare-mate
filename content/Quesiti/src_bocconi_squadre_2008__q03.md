@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q03
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero dopo cancellazioni dalla lista 1-1920*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 95617181920
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number after deletions from list 1-1920*
+
+> Write the whole numbers from 1 to 20 one after another: 123...101112...1920. At this point, from the previous list, 20 digits are deleted. What's the largest number you can have left?
+
+**Answer:** 95617181920
+[[src_bocconi_squadre_2008__Q03]]

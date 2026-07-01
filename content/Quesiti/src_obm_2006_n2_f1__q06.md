@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q06
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of three consecutive naturals equals their product; find sum*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La somma di tre naturali consecutivi è pari al loro prodotto; trovare la somma *
+
+> La somma di tre numeri naturali consecutivi è uguale al prodotto di questi tre numeri. La somma di questi numeri è:
+> 
+> **A) ** 14 \quad **B) ** 15 \quad **C) ** 18 \quad **D) ** 24 \quad **E) ** 36
+
+**Risposta:** B
+[[src_obm_2006_n2_f1__Q06]]

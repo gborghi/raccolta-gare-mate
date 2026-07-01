@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q01
 parent: src_kangourou_2019_ecolier_finale
 competition: Kangourou 2019 Finale Nazionale Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti interi con prodotto cifre 33*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Integres with product numbers 33< MSK1/>
+
+> In the drawing you see two squares, each side $3$ cm, joined together for the $C$ vertex. An ant starts from the $A$ point and follows the $ABCDEFCGA$ path along the edge of the figure. The ant repeats the route several times. After travelling a distance of $2019$ cm, the ant gets tired and stops at the top where it is at that moment. What letter denotes it? (see figure)
+
+**Answer:** 0000
+[[src_kangourou_2019_ecolier_finale__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2021_n3_fx__Q03
 parent: src_obm_2021_n3_fx
 competition: Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x
@@ -39,6 +40,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive k and irrational a>1 such that floor(a^n) is perfect square minus k for all large n*
 
@@ -51,3 +54,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17H-vwLFAdIazq1JXS3IN18t1GGmAcKXp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutti i k positivi e irrationali a>1 in modo che il piano a^n) sia il quadrato perfetto meno k per tutti i grandi n*
+
+> Trova tutti gli integri positivi $k$ per i quali esiste un numero irrazionale $a > 1$ e un intero positivo $N$ in modo tale che $\lfloor a^n \rfloor$ sia un quadrato perfetto meno $k$, per ogni intero $n$ con $n > N$.
+> 
+> *Osservazione: * $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$.
+
+[[src_obm_2021_n3_fx__Q03]]

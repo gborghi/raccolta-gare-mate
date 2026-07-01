@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet__Q03
 parent: src_kangourou_2005_cadet
 competition: Kangourou 2005 - Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pezzi di carta dopo cinque tagli in 10*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Papers after five cuts in 10< MSK1/>
+
+> Anna cuts a sheet of paper into 10 pieces. Then he takes one of these pieces and cuts it back into 10 pieces and goes on like this three more times (that's a total of 5 times). How many pieces of paper do you end up with? A) 40 B) 45 C) 46 D) 47 E) 50
+
+**Answer:** C
+[[src_kangourou_2005_cadet__Q03]]

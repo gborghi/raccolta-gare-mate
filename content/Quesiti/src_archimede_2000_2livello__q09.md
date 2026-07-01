@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2000 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_2livello__Q09
 parent: src_archimede_2000_2livello
 competition: Archimede Gara 2º livello 2000
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante terne reali con a²+b²+c²=1 e a³+b³+c³=1*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many real terns with a2+b2+c2=1 and a3+b3+c3=1*
+
+> How many < MSK1/> sets of real numbers verify the following system? $$\begin{cases} a^2 + b^2 + c^2 = 1 \\ a^3 + b^3 + c^3 = 1 \end{cases}$$
+>
+> - **(A)** None of them .
+> - **(B)** 1
+> - **(C)** 3
+> - **(D)** 6
+> - **(E)** I'm not going to end it. Note: $(2, 3, 8)$ is different from $(3, 2, 8)$.
+
+**Answer:** C
+[[src_archimede_2000_2livello__Q09]]

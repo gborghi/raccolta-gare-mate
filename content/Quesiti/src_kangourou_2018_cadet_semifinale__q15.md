@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q15
 parent: src_kangourou_2018_cadet_semifinale
 competition: Kangourou 2018 Cadet - Semifinale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri come somma A (4 cifre) e B (2 cifre)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0007
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kVLsfgriHzHWeJPk7c69FlUrtxeTTMzS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers such as sum A (4 digits) and B (2 digits) *
+
+> (Points 6) The sum of the digits of a four-digit number A is 2. The sum of the digits of a two-digit number B is also 2. How many numbers can be seen as the sum of a number A and a number B with these properties?
+
+**Answer:** 0007
+[[src_kangourou_2018_cadet_semifinale__Q15]]

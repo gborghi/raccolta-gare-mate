@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q18
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorni dalla fondazione (incontri periodici, 487 aperture)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5670
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Days since its foundation (periodic meetings, 487 openings) *
+
+> An exclusive Root circle reaches the Q of hearts to start the game of croquet. The elitary croquet circle like when it rains has only four members: the K, the Q and the F of hearts plus the Banachoniglio. On the day it was founded, all four were present, then the K came every 42 days, the Q every 35, the F every 45 and the Banachoniglio every 28. The club was only open on days when at least one member was needed. The Q of hearts explains to Radice that today would have been the 487th opening day, but in his honour all the members showed up exceptionally. How many days have passed since the founding of the Como when it rains?
+
+**Answer:** 5670
+[[src_cesenatico_2013_finale__Q18]]

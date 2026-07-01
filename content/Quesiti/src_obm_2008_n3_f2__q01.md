@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f2__Q01
 parent: src_obm_2008_n3_f2
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles trapezoid, diagonal 100 m, angle 30°, find S/sqrt(3)*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Isosceles trapezoide, diagonale di 100 m, angolo 30°, trovare S/sqrt(3) *
+
+> Un trapezoide $ABCD$ con i lati paralleli $AB$ e $CD$ è tale che la diagonale $BD$ misura $100\,\text{m}$ e l'angolo $\angle BDC$ misura $30^\circ$. $S$ sia la superficie del trapezoide in $\text{m}^2$. Determinare < MSK9/>.
+
+[[src_obm_2008_n3_f2__Q01]]

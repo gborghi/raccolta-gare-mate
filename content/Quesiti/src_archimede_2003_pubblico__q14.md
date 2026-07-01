@@ -1,6 +1,7 @@
 ---
 title: Archimede 2003 - Gara del Pubblico (Cesenatico) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_pubblico__Q14
 parent: src_archimede_2003_pubblico
 competition: Archimede 2003 - Gara del Pubblico (Cesenatico)
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *problema 14*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the main reason for the change in the price of the product.
+
+> There's only one row of 35 numbered seats in Matelandia's 3D cinema. At the start of the show, 16 people enter, who, to make themselves more comfortable, arrange for none of them to have a person sitting in the nearby seats. How many different arrangements are possible?
+
+[[src_archimede_2003_pubblico__Q14]]

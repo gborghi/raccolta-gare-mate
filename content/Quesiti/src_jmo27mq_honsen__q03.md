@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2017 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo27mq_honsen__Q03
 parent: src_jmo27mq_honsen
 competition: Japan Mathematical Olympiad 2017 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A, midpoint of XY, midpoint of BC are collinear*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZZX6VzFmZDx55lXzMt3R4wZfWz3QnWc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>A, punto medio di XY, punto medio di BC sono collineari< MSK1/>
+
+> $ABC$ sia un triangolo acuto con il centro circundante $O$. Il $D$, $E$, $F$ sono i piedi delle perpendicolari abbassate rispettivamente da $A$, $B$, $C$ ai lati opposti e il $M$ è il punto medio del lato $BC$. Il $X$ deve essere l'intersezione della linea $AD$ e della linea $EF$, e il $Y$ deve essere l'intersezione della linea $AO$ e della linea $BC$. Il segmento $Z$ deve essere il punto medio di $XY$. Indicare che i tre punti $A$, $Z$ e $M$ sono collineari.
+
+[[src_jmo27mq_honsen__Q03]]

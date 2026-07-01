@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f3__Q02
 parent: src_obm_2002_n3_f3
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex cyclic quadrilateral ABCD with point M on CD; triangles ADM and ABCM have equal area and perimeter*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1P0nci9SiA7xXrHnMSEaRv6-dmdjZQyLj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrilaterale convex ciclico con punto M su CD; i triangoli ADM e ABCM hanno superficie e perimetro uguali*
+
+> Il $ABCD$ è un quadrilaterale convex inserito in un cerchio, e il $M$ è un punto laterale $CD$, in modo che il triangolo $ADM$ e il quadrilaterale $ABCM$ abbiano la stessa superficie e lo stesso perimetro. Prove che $ABCD$ ha due lati uguali.
+
+[[src_obm_2002_n3_f3__Q02]]

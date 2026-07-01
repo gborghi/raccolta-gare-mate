@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Écolier (finale Cervia) — Quesito E2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_finale__QE2
 parent: src_kangourou_2017_ecolier_finale
 competition: Kangourou 2017 Écolier (finale Cervia)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadretti racchiusi nel quadrato, 35 colorati*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** impossibile
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4cWNz-yt2vvuJ4KAixPuyYTwNmyTbwX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Square frames, 35 coloured < MSK1/>
+
+> On a square sheet, Anna drew a square with sides on some of the lines that make up the square; then she colored the squares that have two vertices on at least one of the two diagonals of the square. If you colored 35 squares, how many squares are enclosed in the square?
+
+**Answer:** impossibile
+[[src_kangourou_2017_ecolier_finale__QE2]]

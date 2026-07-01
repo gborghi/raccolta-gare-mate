@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2014__Q04
 parent: src_prmo_2014
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2014
@@ -37,6 +38,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Greatest possible perimeter of integer-sided triangle with one side three times another and third side 17*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 49
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più grande perimetro possibile di un triangolo a lato intero con un lato tre volte l'altro e un terzo lato 17*
+
+> In un triangolo con lunghezze laterali interi, un lato è tre volte più lungo di un secondo lato, e il terzo lato è 17. Qual è il più grande perimetro possibile del triangolo?
+
+**Risposta:** 49
+[[src_prmo_2014__Q04]]

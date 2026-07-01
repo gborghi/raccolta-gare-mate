@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q06
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti camminati dal mega-dirigente*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 56 minuti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minutes walking from the mega-director*
+
+> It happened on a Monday last winter. Every morning, the company's driver left the offices to pick up the mega-director at 8 a.m. in his villa outside the city and take him to his mega-office (where he arrived, with timing, always at the same time). That Monday, the mega-manager didn't see his driver coming. Forgetting that during the weekend the legal time had been abolished and wishing to exceed it, at exactly 8 o'clock he sets out on foot on his motorcycle heading to the office. The driver (who had left at the usual time and was moving at the same speed) meets him along the route, takes him up, immediately returns and "deposits" his precious mega-director 8 minutes earlier than usual. How many minutes did the mega-director walk before he was picked up by his driver?
+
+**Answer:** 56 minuti
+[[src_bocconi_squadre_2008__Q06]]

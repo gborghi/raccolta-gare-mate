@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Ecolier — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q01
 parent: src_kangourou_2019_ecolier_semifinale
 competition: Kangourou 2019 Semifinale Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo quadretti da annerire in quadrato 7x7 perche ogni 4x4 ne contenga uno*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tNc5SZ7vm6wp3SYyibXhYqSBPWtNBocw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum squares to blacken in 7x7 squares because every 4x4 contains one
+
+> (Points 2) Imagine isolating, in a square sheet, a square of seven squares on the side. Now you want to blacken some of the squares in the square that you've isolated so that any square of 4 squares on the side contained in it contains at least one of the squares that you blacked out. What's the smallest number of squares you can blacken? A) 5
+> 	
+> B) 2
+> 	
+> C) 4
+> 	
+> D) 1
+> 	
+> E) 3
+
+**Answer:** D
+[[src_kangourou_2019_ecolier_semifinale__Q01]]

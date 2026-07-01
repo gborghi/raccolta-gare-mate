@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Triennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_triennio__Q09
 parent: src_archimede_2006_triennio
 competition: Giochi di Archimede 2006 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro rombo da diagonali in rapporto 3/4*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rope perimeter by diagonal to 3/4 *
+
+> The dimensions of the diagonals of a wheel are one 3 4 of the other and their sum is 56 m. Calculate the perimeter of the rim.
+>
+> - **(A)** 60 m,
+> - **(B)** 80 m,
+> - **(C)** 96 m,
+> - **(D)** 100 m,
+> - **(E)** 108 m.
+
+**Answer:** B
+[[src_archimede_2006_triennio__Q09]]

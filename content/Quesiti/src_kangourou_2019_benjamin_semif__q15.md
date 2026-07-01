@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Benjamin — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q15
 parent: src_kangourou_2019_benjamin_semif
 competition: Kangourou 2019 Semifinale Benjamin
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale carta non e stata pescata (resti mod 3,4,5)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which paper has not been fished (residues mod 3.4,5) < MSK1/>
+
+> From the same deck of seven cards, each numbered with a different number from 1 to 7, Alice, Bianca, and Carla each take two cards. They find that both of Alice's cards give the same remainder when she divides by 3, both of Bianca's cards give the same remainder when she divides by 4, and both of Carla's cards give the same remainder when she divides by 5. What paper hasn't been caught? Give 9999 as an answer if you think it's impossible to establish for sure.
+
+**Answer:** 4
+[[src_kangourou_2019_benjamin_semif__Q15]]

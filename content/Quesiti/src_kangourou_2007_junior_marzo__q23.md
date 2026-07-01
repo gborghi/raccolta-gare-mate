@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q23
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale lettera resta (eliminazioni posti dispari)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What letter remains (elimination occurs oddly) *
+
+> The sequence of letters KANGAROOKANGAROO. . .KANGAROO is constructed by typing the word KANGAROO 20 times in succession. First, remove all the letters that occupy an odd place in the sequence; then put back the remaining letters and delete all the letters that occupy an odd place in the new sequence; repeat the procedure until there is only one letter left. What letter is that? A) K B) A C) N D) G E) O
+
+**Answer:** E
+[[src_kangourou_2007_junior_marzo__Q23]]

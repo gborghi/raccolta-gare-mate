@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q09
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Nuova eta media della squadra*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*New middle age of the team*
+
+> The average age of a football team's players on the pitch (number 11) at the start of a match is 23. At the start of the second half two players, both aged 26, are replaced by a 20-year-old and a 21-year-old. After these replacements, what's the new average age of the team? A) 21,5 B) 21 C) 20 D) 22,5 E) 22
+
+**Answer:** E
+[[src_kangourou_2003_benjamin__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student (20 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student__Q13
 parent: src_kangourou_2003_student
 competition: Kangourou 2003 Student (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore espressione radici nidificate 1+2003*2005*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Nested root expression value 1+2003*2005*
+
+> A) 2000 B) 2001 C) 2002 D) 2003 E) 2004
+
+**Answer:** B
+[[src_kangourou_2003_student__Q13]]

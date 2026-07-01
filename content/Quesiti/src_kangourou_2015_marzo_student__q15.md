@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q15
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *media dei sei*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>average of six< MSK1/>
+
+> The geometric mean of n numbers is defined as the n-th root of the product of n numbers. If the geometric mean of two sets of numbers is 3 and 12, what is the geometric mean of the set formed by all six numbers? A) 4
+> 	
+> B) 6
+> 	
+> C) 15/2 D) 15/6 E) 36
+
+**Answer:** B
+[[src_kangourou_2015_marzo_student__Q15]]

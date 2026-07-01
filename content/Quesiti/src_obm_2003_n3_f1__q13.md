@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q13
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Logic puzzle about truth-telling in foreign language with 'KAB'/'BAK' meaning yes/no*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Puzzle logico sulla narrazione della verità in lingua straniera con "KAB"/"BAK" che significa sì/no*
+
+> Vi trovate in un paese straniero e non conoscete la lingua locale, chiamata LUCIANÊS, ma sapete che le parole "BAK" e "KAB" significano "sì" o "no" (non sapete quale è quale). Incontri una persona che parla portoghese e chiedi: "KAB significa sim?" La persona risponde "KAB". Si può dedurre:
+> 
+> A) KAB significa no. B) La persona ha detto di sì ma ha mentito. C) La persona che ha risposto ha mentito. D) La persona che ha risposto ha detto la verità. E) Non è possibile determinare se la persona ha detto la verità senza un dizionario LUCIANÊS - PORTUGUEZES.
+
+**Risposta:** D
+[[src_obm_2003_n3_f1__Q13]]

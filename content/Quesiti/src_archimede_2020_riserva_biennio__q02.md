@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_riserva_biennio__Q02
 parent: src_archimede_2020_riserva_biennio
 competition: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di comprare due capi di tipo diverso*
 
@@ -44,3 +47,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1FHovVvjzoFx5DPSwVsD8IjrWzxEYNRZ6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to buy two different types of garments*
+
+> Andrea's trying on clothes in a store. He's undecided between four shirts, five sweaters, four sweaters and three pants. In order not to spend too much, you will buy two different types of clothes (not two shirts or two pants, etc.). How many ways will Andrea be able to make her purchases?
+>
+> - **(A)** 95
+> - **(B)** 119
+> - **(C)** 117
+> - **(D)** 127
+> - **(E)** 126
+
+[[src_archimede_2020_riserva_biennio__Q02]]

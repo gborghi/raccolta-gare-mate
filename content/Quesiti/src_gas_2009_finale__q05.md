@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q05
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo quadrato perfetto della forma aabb*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7744
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most perfect square of the form aabb*
+
+> Orcs and squares A battalion of orcs is arranged in square formation. Legalois counts them to know how many arrows to use to knock them down and he notices that their number is the largest perfect square that can be written on a decimal basis, using only two distinct digits, in the shape of aabb. How many orcs does the battalion consist of? Team competition 2009  National final  Problem texts  Pag. 1 di 4
+> 
+> I'm going to pay. 2 out of 4  Team competition 2009  National final  Problem texts
+
+**Answer:** 7744
+[[src_gas_2009_finale__Q05]]

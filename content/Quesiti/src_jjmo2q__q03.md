@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2004 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo2q__Q03
 parent: src_jjmo2q
 competition: Japan Junior Mathematical Olympiad 2004
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area outside unit hexagon within distance 1 of a vertex*
 
@@ -35,3 +38,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area esterna all'esagono dell'unità entro la distanza 1 di un vertice*
+
+> Nel piano c'è un esagono regolare con lunghezza laterale $1$. Considera la regione costituita da tutti i punti la cui distanza da almeno una delle vertici dell'esagono regolare è massima $1$. $S$ sia l'area della parte di questa regione che si trova al di fuori dell'esagono regolare. Se $T$ è l'area di un esagono regolare con lunghezza laterale $1$, si trova $S - T$. Qui, prendere il rapporto della circonferenza di un cerchio al suo diametro a $\pi$.
+
+[[src_jjmo2q__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f2__Q09
 parent: src_obm_2007_n2_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count valid A/V colorings of a board with no two equal in adjacent row/column cells.*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 62
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i colori A/V validi di una lavagna senza due uguali nelle celle adiacenti di riga/colonna.*
+
+> (Parte B, problema 4.) Ogni cella di una scheda $n\times n$ deve essere colorata con una delle lettere $A$ o $V$, in modo che due celle orizzontali o verticalmente consecutive non abbiano la stessa lettera (ogni riga e ogni colonna sono una sequenza alternata). Una volta fissata la prima riga, viene determinato il resto della tavola: dove due lettere consecutive uguali appaiono in una riga, le due celle immediatamente sotto di esse sono costrette all'altra lettera, e così via. Determinare il numero di coloranti validi. [Fonte: scheda delle soluzioni; dichiarazione ricostruita dalla soluzione. Il conteggio generale è $2^{n+1}-2$ in un caso più $2^{n+1}$ nell'altro; per la tabella specifica del problema la risposta è $30+32=62$.]
+
+**Risposta:** 62
+[[src_obm_2007_n2_f2__Q09]]

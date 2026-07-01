@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2015 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2015__Q02
 parent: src_inmo_2015
 competition: Indian National Mathematical Olympiad 2015
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length of non-periodic part of decimal expansion of 1/n*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wCKdKYfdVWhHtGthqrJdhPacrzqEpdcc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza della parte non periodica dell'espansione decimale di 1/n*
+
+> Per qualsiasi numero naturale $n > 1$, scrivete l'espansione decimale infinita di $1/n$ (ad esempio, scriviamo $1/2 = 0.\overline{49}$ come la sua espansione decimale infinita, non $0.5$). Determinare la lunghezza della parte non periodica dell'espansione decimale (infinita) di $1/n$.
+
+[[src_inmo_2015__Q02]]

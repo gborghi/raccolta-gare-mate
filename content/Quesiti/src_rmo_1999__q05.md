@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1999 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1999__Q05
 parent: src_rmo_1999
 competition: Regional Mathematical Olympiad 1999
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle sides inequality with cyclic fractions $\ge 3$*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aVueqGzgTBFm2YWPkdVpaNOhDYF_ZzH8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Side di triangolo disuguaglianza con frazioni cicliche $\ge 3$*
+
+> Se $a, b, c$ sono i lati di un triangolo dimostrano la seguente disuguaglianza: $$\frac{a}{c+a-b} + \frac{b}{a+b-c} + \frac{c}{b+c-a} \ge 3.$$
+
+[[src_rmo_1999__Q05]]

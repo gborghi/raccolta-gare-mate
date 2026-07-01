@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Finale Nazionale Junior — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q01
 parent: src_kangourou_2018_junior_finale
 competition: Kangourou 2018 Finale Nazionale Junior
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri 7 cifre divisibili per 4 con somma cifre 4*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0041
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers 7 digits divisible by 4 with sum of 4 digits *
+
+> Antonia and Luca play each other's heads or tails the eight-euro coin, throwing an unmade coin. They decide that the number will be stolen by the first of them who has six throws in their favor. When they are on the score of 5 for Antonia and 3 for Luca, however, they are forced to stop the game and discuss how to split the 8 euros (which no one has won so far). What is the fair way to divide them (i.e. the way that takes into account the probability of victory that each of the two has at the time of the interruption)?
+
+**Answer:** 0041
+[[src_kangourou_2018_junior_finale__Q01]]

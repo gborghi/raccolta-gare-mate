@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f2__Q01
 parent: src_obm_1998_n3_f2
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max times cards can be removed from a box under a rule*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 15
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nuYoFCi09PHCxKrrXgBXv2NK1rRfD75Z/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le schede max volte possono essere rimosse da una casella secondo una regola*
+
+> Si inseriscono in una scatola cinque carte numerate $3, 4, 5, 6, 7$ rispettivamente. Le carte vengono rimosse dalla scatola una alla volta, ognuna posta su una pila sul tavolo. Se il numero della carta che viene rimossa è inferiore al numero della carta che la precede immediatamente, o inferiore al numero della carta che la segue immediatamente sulla pila, la carta viene riposta immediatamente nella scatola. La procedura continua fino a quando tutte le carte sono sul tavolo. Qual è il numero massimo di volte che le carte possono essere rimosse dalla scatola?
+
+**Risposta:** 15
+[[src_obm_1998_n3_f2__Q01]]

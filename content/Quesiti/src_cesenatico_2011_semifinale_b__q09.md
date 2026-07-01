@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_b__Q09
 parent: src_cesenatico_2011_semifinale_b
 competition: Gara a Squadre Cesenatico 2011 - Semifinale B
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *decodificare numeri*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9703
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*decode numbers*
+
+> An order that cannot be disobeyed. Abelix and Borelix intercepted a message from Julius Caesar himself and intended for one of his lieutenants. The message reads: You must send DYYJY platoons of soldiers, each platoon must be formed by MYJW soldiers to be arranged in a square texture with WJJJ soldiers on the side. Furthermore, I need other NDEYMWJJ soldiers to make me a personal guard. Abelix scrutinizes the message and observes doubtful: The Romans usually use other funny letters instead of numbers, type XVIII, XLIV and stuff like that. That they changed letters? but then immediately exclaims:But of course! Julius Caesar used his usual method and changed the letters simply by moving a fixed number in alphabetical order! How many soldiers did Julius Caesar ask for?
+
+**Answer:** 9703
+[[src_cesenatico_2011_semifinale_b__Q09]]

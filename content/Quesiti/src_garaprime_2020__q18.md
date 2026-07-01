@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2020 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2020__Q18
 parent: src_garaprime_2020
 competition: Gara Nazionale Classi Prime 2020
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei reciproci dei divisori di 6300*
 
@@ -56,3 +59,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RcjMtWkWdcfagBZF3LMfq3IMn7aMwmGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the reciprocities of the 6300 dividers*
+
+> What is the sum of the reciprocals of all the positive divisors of 6300? (Remember that dividers 1 and 6300 must also be considered) A 806 225 B 784 225 C 902 225 D 1024 225 E 976 225 F 1102 225 1
+> 
+> Solutions Below you will find the solutions in written form. Some of the solutions in the form of videos will later be published on the YouTube channel: problemisolti.it
+
+**Answer:** A
+[[src_garaprime_2020__Q18]]

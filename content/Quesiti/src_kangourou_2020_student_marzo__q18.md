@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q18
 parent: src_kangourou_2020_student_marzo
 competition: Kangourou 2020 Student - gara marzo (triennio)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti pari tra i primi 2020 elementi della successione*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quantities equal to the first 2020 items of the succession*
+
+> The sequence fn is defined as follows: f1 = 1, f2 = 3 and fn + 2 = fn + fn + 1 for n ≥ 1. Of the first 2020 items in the succession, how many are equal? A) 673 B) 674 C) 1010 D) 1011 E) 1347
+
+**Answer:** A
+[[src_kangourou_2020_student_marzo__Q18]]

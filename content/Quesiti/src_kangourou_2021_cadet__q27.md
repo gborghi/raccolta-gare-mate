@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q27
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti attraversati dal tunnel diagonale 3x4x5*
 
@@ -56,3 +59,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cubs crossed by diagonal tunnel 3x4x5*
+
+![[src_kangourou_2021_cadet__prob27.png]]
+
+> A parallel piped 3 × 4 × 5 is made up of 60 identical wood cubes, as the figure suggests. A termit digs a tunnel along the diagonal from P to Q that, as can be seen, does not intersect any of the spines of the cubes that are inside the parallelepiped. How many cubes does the thermite tunnel pass through? A) 8
+> 	
+> B) 9
+> 	
+> C) 10
+> 	
+> D) 11
+> 	
+> E) 12
+
+**Answer:** C
+[[src_kangourou_2021_cadet__Q27]]

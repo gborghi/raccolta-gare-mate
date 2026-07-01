@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1979-80 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1979-80_round1__Q05
 parent: src_bmo_1979-80_round1
 competition: British Mathematical Olympiad 1979-80 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Party of 10: any 3 contain 2 strangers; prove 4 mutual strangers exist*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n5B-ELf98YCz5IP34V0d13ErIyoqNLrU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Partito di 10: ogni 3 contiene 2 estranei; dimostra l'esistenza di 4 reciproci estranei*
+
+> In un gruppo di dieci persone, tra tutte e tre persone ci sono almeno due che non si conoscono. Prove che alla festa ci sono quattro persone, nessuna delle quali conosce un'altra delle quattro.
+
+[[src_bmo_1979-80_round1__Q05]]

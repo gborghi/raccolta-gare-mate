@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Triennio — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_triennio__Q24
 parent: src_archimede_2000_triennio
 competition: Giochi di Archimede 2000 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo combinazioni lucchetto 4 cifre con due uguali*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum combination locking four digits with two equal *
+
+> A thief saw Mark tie up his bicycle using a 4-digit combination lock (each digit goes from 0 to 9). He couldn't see the combination, but he found that at least two consecutive digits are the same. What is the maximum number of combinations the thief will have to try to steal Marco's bike?
+>
+> - **(A)** 2160
+> - **(B)** 2530
+> - **(C)** 2710
+> - **(D)** 3000
+> - **(E)** None of the previous ones.
+
+**Answer:** C
+[[src_archimede_2000_triennio__Q24]]

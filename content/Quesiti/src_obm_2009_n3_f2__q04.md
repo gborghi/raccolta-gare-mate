@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f2__Q04
 parent: src_obm_2009_n3_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum probability of winning a car in Toto Bola; find m+n*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rfN7WR1PZ66ueGRXD4K4BGaqDvl8IrBK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Massima probabilità di vincere una vettura in Toto Bola; trovare m+n*
+
+> Nel game show *Toto Bola*, l'host Ciço Magalhães ha due scatole identiche. Un volontario del pubblico è invitato a partecipare al seguente gioco: riceve dieci palle verdi e due palle rosse e le distribuisce tra le due scatole (senza che l'ospite veda), in modo che ciascuna scatola contenga almeno una palla. Poi l'ospite sceglie una delle scatole e disegna una palla. Se la palla è RED, il volontario vince una macchina. Se è VERDE, il volontario vince una banana. La probabilità massima di vincere una vettura è pari a $\dfrac{m}{n}$, dove $m$ e $n$ sono numeri interi positivi con $\gcd(m, n) = 1$. Determinare il valore di $m + n$.
+
+[[src_obm_2009_n3_f2__Q04]]

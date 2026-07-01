@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f2__Q08
 parent: src_obm_2015_n2_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers n<100 making (8n+5)/(5n+8) irreducible*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wtMtyPWLae_AdePjQMTVUzlH24sGYDuO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi positivi n<100 rendendo (8n+5)/(5n+8) irriducibile*
+
+> Determinare il numero di integri positivi $n$ inferiori a $100$ in modo tale che la frazione $\dfrac{8n+5}{5n+8}$ sia irriducibile.
+> 
+> Una frazione è chiamata irriducibile quando il più grande divisore comune (GCD) del suo numeratore e del suo denominatore è uguale a $1$.
+
+[[src_obm_2015_n2_f2__Q08]]

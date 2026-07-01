@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q14
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *e=b, a+b=d, e-d=b: il maggiore*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*e=b, a+b=d, e-d=b: the major*
+
+> These are the five positive integers, different from each other, a, b, c, d, e. We know that c: e = b, a + b = d, and - d = b. Which is the largest of the five integers? A) a
+> 	
+> B) b
+> 	
+> C) c
+> 	
+> D) d
+> 	
+> E) e
+
+**Answer:** C
+[[src_kangourou_2015_marzo_student__Q14]]

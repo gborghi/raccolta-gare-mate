@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_preecolier_marzo__Q07
 parent: src_kangourou_2017_preecolier_marzo
 competition: Kangourou 2017 Pre-Ecolier - Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale collanina ha fatto Lidia*
 
@@ -39,3 +42,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>What collagen did Lydia make< MSK1/>
+
+> With a string and four beads Lydia made this collar: two large (dark) beads and two small (clear) alternating beads. Of the necklaces pictured below, which is the one made by Lydia?
+> 
+> (A) (B) (C) (D) (E)
+> 
+> (see figure)
+
+**Answer:** E
+[[src_kangourou_2017_preecolier_marzo__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_2livello__Q10
 parent: src_archimede_2007_2livello
 competition: Archimede Gara 2° livello 2007 (biennio/triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto b/h dato triangolo equilatero e rettangolo isoperimetrici*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*B/h ratio given equilateral triangle and isoperimetric rectangle*
+
+> An equilateral triangle has the same perimeter as a rectangle of dimensions b and h (with b > h). The area of the triangle is < MSK0/> 3 times the area of the rectangle. How much is b h worth?
+>
+> - **(A)** √ 3
+> - **(B)** 2
+> - **(C)** 3 + √ 3 2
+> - **(D)** 3 + √ 5 2
+> - **(E)** 7 + 3 √ 5 2 .
+
+**Answer:** E
+[[src_archimede_2007_2livello__Q10]]

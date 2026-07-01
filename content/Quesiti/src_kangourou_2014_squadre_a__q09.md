@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q09
 parent: src_kangourou_2014_squadre_a
 competition: Kangourou Coppa Squadre 2014 Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dopo quanti km scambiare gomme per consumo uguale*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1800
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Exchange tyres for equal consumption after several kilometres< MSK1/>
+
+> The rotation of the tyres A car assembles special tyres all the same, rather delicate: if fitted in the front position they must be replaced after 3,000 km, if fitted in the rear position they must be replaced after 4,500 km. Now all the tires are new. In order to ensure that the timing of the replacement is the same for all four tyres, after how many kilometres will the four tyres have to be replaced from front to rear and vice versa?
+
+**Answer:** 1800
+[[src_kangourou_2014_squadre_a__Q09]]

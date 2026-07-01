@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r3__Q01
 parent: src_pol_2004_r3
 competition: Olimpiade Matematica Polacca 2004 — Round 3
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two circles through D tangent at A and B; collinearity of D, E, F*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xVPNuxhSgv3eEtgJe42pRAq5eC6MhKAl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi attraverso la tangente D a A e B; collinearità di D, E, F*
+
+> Un punto $D$ è preso sul lato $AB$ di un triangolo $ABC$. Due cerchi che attraversano $D$ e toccano $AC$ e $BC$ rispettivamente a $A$ e $B$ si incrociano di nuovo a $E$. Il punto $F$ deve essere simmetrico a $C$ rispetto al bisettore perpendicolare di $AB$. Dimostrare che i punti $D$, $E$, $F$ si trovano su una linea.
+
+[[src_pol_2004_r3__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2020 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_printemps__Q13
 parent: src_canimath_2020_printemps
 competition: Coupe Animath Printemps 2020
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all n>=0 with n = 2 s(n), where s(n) is the digit sum*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le n>=0 con n = 2 s(n), dove s(n) è la somma digitali*
+
+> Per ogni numero intero $n \ge 0$, $s(n)$ indica la somma delle cifre di $n$. Determinare tutti gli integri $n$ in modo tale che $n = 2s(n)$.
+
+[[src_canimath_2020_printemps__Q13]]

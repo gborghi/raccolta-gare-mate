@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2011 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2011_printemps__Q06
 parent: src_canimath_2011_printemps
 competition: Coupe Animath Printemps 2011
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quadratic with small-coefficient perturbation and root gap exceeding 10000*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNnGWRaTp9cbAE1_F3Ffkgp-EMyh4GZR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Quadratici con perturbazione a coefficiente piccolo e intervallo radicale superiore a 10000< MSK1/>
+
+> Lasciate che $p$ e $q$ siano due numeri reali in modo tale che l'equazione di grado-$2$ $x^2 + px + q = 0$ abbia due radici reali distinte $u$ e $v$ (con $u > v$). I coefficienti $p$ e $q$ sono modificati di meno di $0.01$: supponiamo che l'equazione $x^2 + p' x + q' = 0$ (dove $|p' - p| < 0.01$ e $|q' - q| < 0.01$) abbia anche due radici reali distinte $u'$ e $v'$ (con $u' > v'$). Esistono valori < MSK16/>, < MSK17/>, < MSK18/>, < MSK19/> per i quali < MSK20/>?
+
+[[src_canimath_2011_printemps__Q06]]

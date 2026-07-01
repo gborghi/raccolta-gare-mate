@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q04
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *totale puntini neri*
 
@@ -39,3 +42,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>total black spots< MSK1/>
+
+![[src_kangourou_2015_marzo_preecolier__prob4.png]]
+
+> Five little pigs live in a bush. How many black spots do they have in total? (see figure)
+> 
+> (A) $17$ (B) $18$ (C) $19$ (D) $20$ (E) $21$
+
+**Answer:** C
+[[src_kangourou_2015_marzo_preecolier__Q04]]

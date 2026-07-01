@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q03
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Height of banknote pile for monthly salary converted to cruzados*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Alto di pile di banconote per salario mensile convertito in cruzados*
+
+> Tra il 1986 e il 1989, un'epoca in cui la maggior parte di voi non era ancora nata, la moneta brasiliana era il cruzado (Cz\$). Con una piccola inflazione mensile, i prezzi aumentavano un po' ogni mese: i prezzi venivano dati in cruzados, poi in cruzeiros, poi in cruzeiros reais e infine in reais. La conversione tra cruzado e real è: $$1 \text{ real} = 2{.}750{.}000{.}000 \text{ cruzados}$$ Immaginate che il valore della moneta reale non fosse mai cambiato e che Jo~ao, che oggi guadagna 640 reais al mese, avesse ricevuto lo stesso stipendio in banconote di 1 cruzado. Se 100 nuove banconote hanno un grosso di 1,5 cm, quanto sarebbe l'altezza dell'accumulo di stipendio di Joao in banconote di 1 cruzado?
+> 
+> **A)** $26.4$ km $\quad$ **B)** $264$ km $\quad$ **C)** $26400$ km $\quad$ **D)** $264000$ km $\quad$ **E)** $2640000$ km
+
+**Risposta:** C
+[[src_obm_2004_n2_f1__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2012 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo22mq_honsen__Q04
 parent: src_jmo22mq_honsen
 competition: Japan Mathematical Olympiad 2012 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two isosceles triangles sharing apex P; midpoints of arcs of two circles*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SJ0WulkahJ1owyeufg6sr3eDO1pnnUeb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due triangoli di uguale occhio che condividono l'apice P; punti di mezzo di archi di due cerchi*
+
+> Nel piano, $PAB$ e $PCD$ siano triangoli con $PA = PB$ e $PC = PD$. Supponiamo che $P$, $A$, $C$ siano collineari (in tale ordine) e $B$, $P$, $D$ siano collineari (in tale ordine). $S_1$ sia il circoncircolo di $\triangle PAC$ (passando per $A$ e $C$) e $S_2$ sia il circoncircolo di $\triangle BPD$ (passando per $B$ e $D$), e supponiamo che $S_1$ e $S_2$ si incontrino in due punti distinti $X$ e $Y$. Il $Z$ deve essere il punto medio dell'arco di $S_1$ che non contiene l'altra intersezione, e il $W$ deve essere il punto medio dell'arco di $S_2$ che non contiene l'altra intersezione (cioè $Z$ e $W$ sono i punti medio di archi $XY$ su $S_1$ e $S_2$ rispettivamente, sui lati che non contengono $P$). Qui $ZW$ indica la lunghezza del segmento $ZW$. Mostra che il triangolo $PXY$ ha il suo circoncircolo centrato nel punto medio di $ZW$.
+
+[[src_jmo22mq_honsen__Q04]]

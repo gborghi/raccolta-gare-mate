@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2009 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2009__Q06
 parent: src_rmo_2009
 competition: Regional Mathematical Olympiad 2009
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pages torn from book 1–100 with remaining page-sum 4949; find torn count*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1et9IO1xuP1ryseoogrNkDB_LaxO70ZCd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Pagine strappate dal libro 1100 con 4949 pagine rimanenti; trovate il conteggio strappato*
+
+> In un libro con pagine numerate da $1$ a $100$, alcune pagine vengono strappate. La somma dei numeri delle pagine restanti è $4949$. Quante pagine sono state strappate?
+
+[[src_rmo_2009__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_2livello__Q03
 parent: src_archimede_2023_2livello
 competition: Archimede Gara di Febbraio 2023 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cuore da due cerchi e tangenti, area ombreggiata*
 
@@ -55,3 +58,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Heart with two circles and tangents, shaded area*
+
+![[src_archimede_2023_2livello__prob3.png]]
+
+> Alice draws a heart on the mathematical notebook as follows: first she draws two circles of radius 1 cm and centers O1, O2, tangent externally. Called r the common tangent to the two circles passing through the contact point, then choose a point P over r so that you have ÿ O1PO2 = 60° and trace the tangents to the two circles passing through P. What is the area of the heart obtained (i.e. the area shaded in the figure) in cm2? O1 O2 P
+>
+> - **(A)** 2 √ 3 + 4 3π
+> - **(B)** √ 3 + π
+> - **(C)** 7 3π
+> - **(D)** 3 2 + 2π
+> - **(E)** None of the above
+
+**Answer:** A
+[[src_archimede_2023_2livello__Q03]]

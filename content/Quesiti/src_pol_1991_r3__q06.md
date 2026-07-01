@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1991 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1991_r3__Q06
 parent: src_pol_1991_r3
 competition: Olimpiade Matematica Polacca 1991 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality for reals with sum of squares equal to 2*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1roje33Ik1bzgcqsL7yxrXsm0APZTffe7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza per i reali con la somma dei quadrati uguale a 2*
+
+> Se $x, y, z$ sono numeri reali che soddisfano $x^2 + y^2 + z^2 = 2$, dimostrare la disuguaglianza $$x + y + z \le 2 + xyz,$$ e trovare le condizioni per la parità.
+
+[[src_pol_1991_r3__Q06]]

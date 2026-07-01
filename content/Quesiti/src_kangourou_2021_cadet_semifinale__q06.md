@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - semifinale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet_semifinale__Q06
 parent: src_kangourou_2021_cadet_semifinale
 competition: Kangourou 2021 Cadet - semifinale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo rapporto velocita Sandro/Carlo senza sorpasso*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum speed ratio between Sandro and Carlo without overtaking< MSK1/>
+
+> (4 points) Carlo likes to run, Sandro likes to ride a bike. They want to train on the same road, 1.5 km long: Sandro leaves at the beginning of the road, Carlo 1 km ahead. They start at the same moment, they go in the same direction, and each one moves at a constant speed. If Sandro doesn't overtake Carlo, how much is the ratio between Sandro's speed and Carlo's speed? A) 3
+>  
+> B) 2
+>  
+> C) 1,75
+>  
+> D) 1,7
+>  
+> E) 1,5
+
+**Answer:** A
+[[src_kangourou_2021_cadet_semifinale__Q06]]

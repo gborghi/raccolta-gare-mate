@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q02
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Settori raggiungibili su scacchiera con costi 2 e 3, 60 palline*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2441
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sectors reachable on a chessboard with costs 2 and 3, 60 balls*
+
+> Right in your box. Fredholm shows Frege a two-dimensional infinite chessboard-shaped map of the universe; each box represents a sector of the galactic plane. He points to the center of the sector corresponding to the Earth, and explains: "Our delivery ship has an engine of my invention that uses dark matter as fuel. With two balls of dark matter, produced by our Mordaglia, it can move from one sector horizontally or vertically; with three it can move from one sector diagonally. Starting from our base on Earth, we can deliver anywhere we can reach with 60 balls of fuel or less. Including the start, of course, he adds with a laugh. How many different sectors can the Planar Express deliver to?
+
+**Answer:** 2441
+[[src_squadre_2018_finale__Q02]]

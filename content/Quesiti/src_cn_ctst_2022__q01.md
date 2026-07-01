@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2022 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2022__Q01
 parent: src_cn_ctst_2022
 competition: China National Team Selection Test 2022
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic hexagon ABCDEF: circumcenters of two triangles and concurrent lines*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Essagono ciclico ABCDEF: circoncenti di due triangoli e linee simultanee*
+
+> Come illustrato in Fig. 1.1, $ABCDEF$ è un esagono ciclico. Le estensioni di $AB$ e $DC$ si incontrano a $G$; le estensioni di $AF$ e $BE$ si incontrano a $H$. $M$ e $N$ siano rispettivamente i circoncentri di $\triangle BCG$ e $\triangle EFH$. Prove che le linee $BE$, $CF$ e $MN$ sono simultanee.
+
+![[src_cn_ctst_2022__Q01.png]]
+
+[[src_cn_ctst_2022__Q01]]

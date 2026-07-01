@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2016 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2016__Q06
 parent: src_smc_2016
 competition: Senior Mathematical Challenge 2016
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square ABCD with BC=3 and right-angled triangle ABE with BE=4. Find the area of the shaded region ABCF.*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrato con BC=3 e triangolo rettangolo ABE con BE=4. Trova l'area della regione ombreggiata ABCF.*
+
+> Il diagramma mostra un quadrato $ABCD$ e un triangolo rettangolare $ABE$. La lunghezza di $BC$ è di 3. La lunghezza di $BE$ è di 4. Qual è l'area della regione ombrosa?
+>
+> - **(A)** $5\tfrac{1}{4}$
+> - **(B)** $5\tfrac{2}{3}$
+> - **(C)** $5\tfrac{3}{4}$
+> - **(D)** $5\tfrac{5}{8}$
+> - **(E)** $5\tfrac{1}{2}$
+
+![[src_smc_2016__Q06.png]]
+
+**Risposta:** D
+[[src_smc_2016__Q06]]

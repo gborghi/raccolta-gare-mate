@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_pubblico__Q20
 parent: src_gas_2009_pubblico
 competition: Gara a Squadre 2009 - Gara del Pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume del solido entro 1.8mm dal perimetro di triangolo equilatero*
 
@@ -111,3 +114,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1205
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of solid within 1.8 mm of the perimeter of the equilateral triangle*
+
+> The Ring of Gaussdalf[80] After the destruction of the One Ring, the other magical rings also lost their powers. Only later did Gaussdalf reveal that he owned one and showed it to Frobbo. Imagine an equilateral triangle with a side of 40 mm; the ring is the solid formed by all points that are at most 1.8 mm away from the perimeter of the triangle. How many cubic millimeters does the volume of the ring measure? With the cooperation of
+> 
+> . . I 'm not . Team competition .2 .9 X NATIONAL GARA A SQUADER Public competition  SOLUTIONS  9 May 2009 No. Problem Pti Solution 1 Question d'honneur 10 5864 2 Pythagorean Rectangle 15 1053 3 Ancient battles 20 3232 4 Birthdays gobbit 20 0041 5 Incisions in the rock 25 0013 6 Lights and Shadows 25 8041 7 Meeting at Riemandell 30 6048 8 The moon of Puntor 30 0370 9 The mines of Toria 35 9240 10 A proof of logic 35 4094 11 The legendary number 40 0625 12 Towers d'assassination 40 2197 13 Maintaining contacts 45 0444 14 Nine to mortal men 50 7200 15 The scatters of Banach Dur 55 0195 16 Radical 60 1743 17 Poliedril forces of Tauron 65 7592 18 Strange Rhineries 709 000 numbers of the book gives the geometry of the numbers 45 75 75 75 20 L'annel Gauss 805 120
+
+**Answer:** 1205
+[[src_gas_2009_pubblico__Q20]]

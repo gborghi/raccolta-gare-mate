@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1973-74 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1973-74_round1__Q05
 parent: src_bmo_1973-74_round1
 competition: British Mathematical Olympiad 1973-74 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability exactly one player has a complete suit in a bridge deal*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Probabilità che esattamente un giocatore abbia un completo in un contratto di ponte*
+
+> Un accordo di bridge è definito come la distribuzione di 52 carte di gioco ordinarie tra quattro giocatori in modo che ciascuno abbia 13 carte. In un accordo di bridge, qual è la probabilità che solo un giocatore abbia un completo? (Lascia la tua risposta nei fattoriali.)
+
+[[src_bmo_1973-74_round1__Q05]]

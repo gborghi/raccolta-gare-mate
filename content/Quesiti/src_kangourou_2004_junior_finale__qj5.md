@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior finale nazionale — Quesito J5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior_finale__QJ5
 parent: src_kangourou_2004_junior_finale
 competition: Kangourou 2004 Junior finale nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Configurazione con somme righe/colonne non negative*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zhN_ZIEqgp2HEtGPhjwQn1kisd4lL2x7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Configuration with sums of non-negative rows/columns*
+
+> Each box in a rectangular table consisting of $m$ rows and $n$ columns contains an integer. The permissible moves are: - change the signs of the elements of an entire row - change the signs of the elements of an entire column.
+> 
+> Is it true that after a number of these moves, each row is made up of elements whose sum is not negative and so is each column? I got a motive.
+
+**Answer:** si
+[[src_kangourou_2004_junior_finale__QJ5]]

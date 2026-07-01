@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f1__Q19
 parent: src_obm_2008_n2_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of distinct cube colorings with 5 colors up to rotation*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di colori a cubo distinti con 5 colori fino alla rotazione*
+
+> Soninha ha carte a forma di cubi, tutte uguali, con un design diverso su ciascuno dei sei volti. Utilizzerà cinque colori (verde, gialle, azzurre, rosso e arancione) per dipingere ogni scheda, in modo tale che due facce della stessa scheda non siano dipinte dello stesso colore. La figura qui sotto, ad esempio, mostra due carte che sono uguali, ma sembrano diverse perché una di loro è stata girata per essere ottenuta dall'altra. Quante carte diverse può produrre Soninha? (A) $16$ \quad (B) $25$ \quad (C) $30$ \quad (D) $60$ \quad (E) $90$
+
+![[src_obm_2008_n2_f1__Q19.png]]
+
+[[src_obm_2008_n2_f1__Q19]]

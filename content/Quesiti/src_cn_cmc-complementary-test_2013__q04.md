@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2013 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2013__Q04
 parent: src_cn_cmc-complementary-test_2013
 competition: China Mathematical Competition (Complementary Test) 2013
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2t integers not divisible by s; any 2-partition has a group with subset sum divisible by s*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2t integri non divisibili da s; ogni partizione di 2 ha un gruppo con somma di sottoinsieme divisibile da s*
+
+> (50 marchi) $s$, $t$ sono numeri interi superiori a $1$ e soddisfano $s < 2^t$. Prova che ci sono $2t$ enti non divisibili da $s$, in modo tale che se li dividiamo in due gruppi, allora deve esistere un gruppo in cui la somma di alcuni enti può essere divisa da $s$.
+
+[[src_cn_cmc-complementary-test_2013__Q04]]

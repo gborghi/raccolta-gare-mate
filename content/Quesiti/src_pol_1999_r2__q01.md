@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r2__Q01
 parent: src_pol_1999_r2
 competition: Olimpiade Matematica Polacca 1999 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show no increasing g,h give f=g-h for a function with f(1/n)=(-1)^n.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QtyD6o9jwMuVGDAxuguLy_l8OL34LF1K/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Non mostrare aumento di g,h dare f=g-h per una funzione con f(1/n)=(-1)^n.*
+
+> Che $f : (0,1) \to \mathbb{R}$ sia una funzione tale che $f(1/n) = (-1)^n$ per tutti $n \in \mathbb{N}$. Provare che non esistono funzioni in aumento $g, h : (0,1) \to \mathbb{R}$ tali da $f = g - h$.
+
+[[src_pol_1999_r2__Q01]]

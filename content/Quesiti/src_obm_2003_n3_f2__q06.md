@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f2__Q06
 parent: src_obm_2003_n3_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Closed form for a telescoping sum involving powers of 3*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $1 - \dfrac{2^{n+1}}{3^{2^{n+1}}-1}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pVKqURzPw84tCEK8gfD_OWrWrg3t7l7s/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Formulara chiusa per una somma telescopica con potenze di 3*
+
+> Calcolare la somma $$\sum_{i=0}^{n} \frac{2^{i+1}}{3^{2^i}+1} = \frac{2}{3^1+1} + \frac{2^2}{3^2+1} + \frac{2^3}{3^{2^2}+1} + \cdots + \frac{2^{n+1}}{3^{2^n}+1}.$$
+
+**Risposta:** 1 - \dfrac{2^{n+1}}{3^{2^{n+1}}-1}
+[[src_obm_2003_n3_f2__Q06]]

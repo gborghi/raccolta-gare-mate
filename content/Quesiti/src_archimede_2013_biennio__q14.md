@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2013 - Biennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_biennio__Q14
 parent: src_archimede_2013_biennio
 competition: Giochi di Archimede 2013 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale porta scegliere per il cammino piu breve*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which port to choose for the shortest route*
+
+![[src_archimede_2013_biennio__prob14.png]]
+
+> Salvo and Maria (S and M in figure) are separated by a long wall, inclined at an angle of α relative to the straight line joining them (where 0 < α < < MSK0/>). In the two points P1 and P2 of the nearest wall to Salvo and Maria there are two doors, distant from each other d > 0; knowing that Salvo and Maria are respectively 10 meters and 8 meters from the door to their nearest, which of the two doors must Salvo cross to reach Mary by taking the shortest path possible?
+>
+> - **(A)** the door P1
+> - **(B)** the P2 door
+> - **(C)** He 's indifferent .
+> - **(D)** depends on the distance d between the doors
+> - **(E)** depends on the slope α of the wall P1 P2 S M d _
+
+**Answer:** B
+[[src_archimede_2013_biennio__Q14]]

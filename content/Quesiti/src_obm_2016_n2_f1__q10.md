@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f1__Q10
 parent: src_obm_2016_n2_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n with n! a multiple of 2016*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>La più piccola n con n! un multiple di 2016*
+
+> Factoring $2016$ in numeri primi dà $2016=2^5\cdot 3^2\cdot 7$. Pertanto $n!$ deve contenere almeno queste potenze prime come divisori. Per far apparire il fattore $7$ abbiamo bisogno di $n\ge 7$; da $7!=5040$ il candidato successivo è $8!=40320=20\cdot 2016$. Pertanto il valore più piccolo è $n=8$. Qual è la minima $n$ tale che $n!$ sia un multiple di $2016$? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+
+**Risposta:** B
+[[src_obm_2016_n2_f1__Q10]]

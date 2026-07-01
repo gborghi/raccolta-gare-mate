@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f1__Q14
 parent: src_obm_2010_n1_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fraction Beatriz still must climb after Ana finishes descending*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Frazione Beatriz deve ancora salire dopo che Ana ha finito di scendere
+
+> Ana inizia a scendere una scala esattamente nello stesso momento in cui Beatriz inizia a salire. Si incrociano quando Ana scende da una scala. Nel momento in cui Ana finisce di scendere, quale frazione della scala deve ancora salire Beatriz?
+> 
+> (A) $\dfrac{1}{4}$ \quad (B) $\dfrac{1}{3}$ \quad (C) $\dfrac{1}{12}$ \quad (D) $\dfrac{5}{12}$ \quad (E) $\dfrac{2}{3}$
+
+**Risposta:** C
+[[src_obm_2010_n1_f1__Q14]]

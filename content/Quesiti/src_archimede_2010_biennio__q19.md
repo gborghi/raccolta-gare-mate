@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Biennio — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_biennio__Q19
 parent: src_archimede_2010_biennio
 competition: Giochi di Archimede 2010 - Biennio
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie interi maggiori di 1 con x^2+y=xy+1*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interest pairs greater than 1 with x^2+y=xy+1*
+
+> How many pairs (x, y), made up of integers strictly greater than 1, are such that: x2 + y = xy + 1?
+>
+> - **(A)** None of them.
+> - **(B)** One of them.
+> - **(C)** two,
+> - **(D)** three,
+> - **(E)** More than four.
+
+**Answer:** E
+[[src_archimede_2010_biennio__Q19]]

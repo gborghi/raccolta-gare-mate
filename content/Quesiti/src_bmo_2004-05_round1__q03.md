@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2004-05 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2004-05_round1__Q03
 parent: src_bmo_2004-05_round1
 competition: British Mathematical Olympiad 2004-05 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Least n so any 2-colouring of {1,...,n} has monochromatic x+y+z=w*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 11
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MAlGqoG5DzSWzk4i2wJiAtFoCn1aiHUU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Almeno n in modo che qualsiasi 2-colore di {1,...,n} abbia monocromatica x+y+z=w*
+
+> Determinare il numero intero meno positivo $n$ in modo tale che il seguente sia:
+> 
+> Indipendentemente da come gli elementi di $\{1, 2, \ldots, n\}$ siano colorati in rosso o in blu, ci sono enti $x$, $y$, $z$, $w$ in $\{1, 2, \ldots, n\}$ (non necessariamente distinti) dello stesso colore, come $x + y + z = w$.
+
+**Risposta:** 11
+[[src_bmo_2004-05_round1__Q03]]

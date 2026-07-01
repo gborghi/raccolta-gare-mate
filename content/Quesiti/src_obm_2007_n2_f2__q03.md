@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f2__Q03
 parent: src_obm_2007_n2_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle chasing through several isosceles triangles to a target angle (174 degrees).*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 174
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Caccia d'angolo attraverso diversi triangoli di uguali occhie fino ad un angolo di destinazione (174 gradi). *
+
+> In una configurazione costruita a partire dai triangoli $PTA$, $ABD$, $BCE$ e $PQC$, con determinati angoli, determinare l'angolo richiesto. [Fonte: foglio delle soluzioni; la dichiarazione completa e la figura NON sono presenti. La soluzione calcola: $\angle STP=108^\circ$, $\angle TPA=\angle PAT=72^\circ$, quindi $\angle TPA=36^\circ$, $\angle BAD=\angle BDA=18^\circ$, $\angle ABD=144^\circ$, $\angle EBC=66^\circ$, $\angle QPC=126^\circ$, $\angle QCP=27^\circ$, $\angle ECB=57^\circ$, e una risposta finale di $174^\circ$.]
+
+**Risposta:** 174
+[[src_obm_2007_n2_f2__Q03]]

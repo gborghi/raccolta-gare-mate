@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1990 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1990__Q07
 parent: src_rmo_1990
 competition: Regional Mathematical Olympiad 1990
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Censuswoman deduces individual ages from two sums of pairs*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ogcf4pFWupc25G2ZRadOfWoHaUpTy0zm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Donna del censimento deduce le età individuali da due somme di coppie< MSK1/>
+
+> Una censista in servizio ha visitato una casa che le donne detenute ha rifiutato di rivelare le loro singole età, ma ha detto  "non ci dispiace darvi la somma delle età di due donne che potete scegliere". La donna del censimento disse: "In tal caso, per favore, dammi la somma delle età di ogni possibile coppia". Ha dato le somme come segue: 30, 33, 41, 58, 66, 69. La donna censista prese queste cifre e se ne andò felice. Come ha calcolato le singole età delle donne a partire da queste cifre?
+
+[[src_rmo_1990__Q07]]

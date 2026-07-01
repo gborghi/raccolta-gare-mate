@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1999 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1999__Q03
 parent: src_rmo_1999
 competition: Regional Mathematical Olympiad 1999
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square $ABCD$, midpoint $R$ of $MN$, show $RP=RQ$*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aVueqGzgTBFm2YWPkdVpaNOhDYF_ZzH8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadro $ABCD$, punto medio $R$ di $MN$, mostra $RP=RQ$*
+
+> Il $ABCD$ deve essere quadrato e $M, N$ punti sui lati $AB, BC$, rispettivamente, in modo tale che $\angle MDN = 45^\circ$. Se $R$ è il punto medio di $MN$, indicare che $RP = RQ$ dove $P, Q$ sono i punti di intersezione di $AC$ con le linee $MD, ND$.
+
+[[src_rmo_1999__Q03]]

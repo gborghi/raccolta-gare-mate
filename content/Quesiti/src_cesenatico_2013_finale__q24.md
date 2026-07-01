@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q24
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi crescita in 6 passi (catena multipli, 12!)*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7536
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Growth modes in 6 steps (multiple chain, 12!)< MSK1/>
+
+> A sudden awakening During the process, Root realizes that it is starting to grow again. However, this is not a gradual growth, but six steps in succession. The Q of hearts is frightened and orders them to cut off their heads, throwing them at all their soldiers, the now tiny cards from the deck. In this turbine of sounds and colors, Root wakes up next to his cat Diny and realizes he's dreamed everything. Just remember that before the first step she was exactly as high as the K of hearts, which at the end of the sixth was 12! (factoral 12) times K and that after each step its height becomes an integer multiple of the previous one. It is also possible that during some steps this multiple was 1, that is, it did not grow at all. If we analyze the six heights at the end of each step, how many different ways can the Root be grown? In the answer, indicate the last four digits of the result obtained.
+> 
+> XIV GARA NATIONAL A FINAL NATIONAL SQUADER  Solution  10 May 2013 Nr. The problem
+
+**Answer:** 7536
+[[src_cesenatico_2013_finale__Q24]]

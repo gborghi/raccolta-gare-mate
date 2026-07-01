@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Triennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_triennio__Q14
 parent: src_archimede_2005_triennio
 competition: Giochi di Archimede 2005 - Gara Triennio
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soluzioni reali di |x-2|-4=1/|x-3|*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The actual solutions of ∆x−2 are −4 = 1/ ∆x−3 ∆x−1
+
+> How many real numbers x solve the equation x −2 bearing −4 ? 1/bearingx −3 bearing
+>
+> - **(A)** No one.
+> - **(B)** 2,
+> - **(C)** 3,
+> - **(D)** 4,
+> - **(E)** More than four.
+
+**Answer:** B
+[[src_archimede_2005_triennio__Q14]]

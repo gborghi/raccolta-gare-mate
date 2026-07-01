@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q10
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre 1 nella numerazione binaria di 1..2016*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0998
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Figure 1 in binary numbering of 1..2016*
+
+> Princess Liea, before being imprisoned, saved in the memory of droid R2 ×D2 all the data on the Black Death in 2016 several files. The droid numbered them on base 2 from 1 to 2016 and encrypted them. The access key is the number of digits 1 that appear in total in the file numbering. What number does the Rebel Alliance have to enter to access Black Death data?
+
+**Answer:** 0998
+[[src_cesenatico_2016_finale__Q10]]

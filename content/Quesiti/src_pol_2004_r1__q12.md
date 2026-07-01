@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r1__Q12
 parent: src_pol_2004_r1
 competition: Olimpiade Matematica Polacca 2004 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the number of real solutions of a cyclic cubic-quartic system in $x_1,\dots,x_n$ for $n\ge 5$.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca nel $x_1,\dots,x_n$ il numero di soluzioni reali di un sistema di quarticche cubiche cicliche per $n\ge 5$.*
+
+> $n\ge 5$ sia un numero intero. Trova il numero di soluzioni in numeri reali $x_1,\dots,x_n$ del sistema $$x_{i-2}^3+x_{i-1}^3+x_i^3=x_i^4+x_{i+1}^3+x_{i+2}^2\quad\text{for }i=1,2,\dots,n,$$ dove $x_{-1}=x_{n-1}$, $x_0=x_n$, $x_1=x_{n+1}$, $x_2=x_{n+2}$.
+
+[[src_pol_2004_r1__Q12]]

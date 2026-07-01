@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n1_f1__Q01
 parent: src_obm_2017_n1_f1
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest rectangle area fitting two squares summing to 2017*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a3U1xwLG4Liq_aZSUCGfvqkTHMuELPzq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area rettangolare più piccola con due quadrati che sommano il 2017*
+
+> Determinare il più piccolo intero positivo $A$ in modo tale che, dati due quadrati le cui aree sommano a $2017$, sia sempre possibile inserire questi due quadrati, senza sovrapposizione, all'interno di un rettangolo di superficie $A$, con i lati dei quadrati paralleli ai lati del rettangolo.
+
+[[src_obm_2017_n1_f1__Q01]]

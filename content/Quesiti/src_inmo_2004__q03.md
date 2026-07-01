@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2004 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2004__Q03
 parent: src_inmo_2004
 competition: Indian National Mathematical Olympiad 2004
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real root of cubic; prove floor of a^3 equals 3*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_ogop_H9aN7DDnSasFsJqkXiQTv0yKue/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rota reale di cubo; prova il piano di a^3 = 3*
+
+> Se $a$ è una radice reale dell'equazione $x^3 - x^2 + x - 2 = 0$, dimostrare che $\lfloor a^3 \rfloor = 3$. (Per qualsiasi numero reale $a$, indichiamo con $\lfloor a \rfloor$ il numero intero più grande non superiore a $a$.)
+
+[[src_inmo_2004__Q03]]

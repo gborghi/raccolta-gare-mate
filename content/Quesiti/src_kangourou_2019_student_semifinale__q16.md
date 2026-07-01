@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Student — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q16
 parent: src_kangourou_2019_student_semifinale
 competition: Kangourou 2019 Semifinale Student
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima somma delle due tacche di rottura del righello*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of the two brake pads of the reel*
+
+> (Points 7) Enrica had a reel with more than five tails, numbered in sequence: accidentally she broke it in two with the breaking point on horseback between the two tails. By chance, the sum of the numbers on both sides is the same. What is the minimum value of the sum of the numbers denoting the two horse-drawn ticks whose reel has been broken?
+
+[[src_kangourou_2019_student_semifinale__Q16]]

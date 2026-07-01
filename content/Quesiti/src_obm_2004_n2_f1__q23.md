@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q23
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Percentage reduction in area of a square corral with 10% less fence*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Riduzione percentuale di superficie di una corrispondenza quadrata con 10% in meno di recinzione*
+
+> Avevo intenzione di costruire un cortile quadrato, con una certa area, usando una certa quantità di recinzione a filo spinato. Ho scoperto, tuttavia, che ho il 10% in meno di quanto mi aspettassi. Per questo motivo, l'area chiusa sarà:
+> 
+> **A) ** $5\%$ meno $\quad$ ** B) ** $10\%$ meno $\quad$ **C) ** $19\%$ meno $\quad$ **D) ** $20\%$ meno $\quad$ **E) ** $25\%$ meno
+
+**Risposta:** C
+[[src_obm_2004_n2_f1__Q23]]

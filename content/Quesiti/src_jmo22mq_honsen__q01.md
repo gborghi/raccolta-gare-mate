@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2012 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo22mq_honsen__Q01
 parent: src_jmo22mq_honsen
 competition: Japan Mathematical Olympiad 2012 — Honsen (Final)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tangent at A meets BC at P; show QR perpendicular to BC*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SJ0WulkahJ1owyeufg6sr3eDO1pnnUeb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tangent a A incontra BC a P; mostrare QR perpendicolare a BC*
+
+> Lasciate che $ABC$ sia un triangolo. La linea tangente al circoncircolo di $\triangle ABC$ al vertice $A$ incontra la linea $BC$ al punto $P$. I piedi $Q$ e $R$ siano i piedi delle perpendicolari da $P$ alle linee $AB$ e $AC$, rispettivamente. Mostra che la riga $BC$ è perpendicolare alla riga $QR$.
+
+[[src_jmo22mq_honsen__Q01]]

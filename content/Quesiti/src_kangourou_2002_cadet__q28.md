@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q28
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di tutti i numeri con cifre 1,2,3,4*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of all numbers with digits 1,2,3,4*
+
+> Consider the sum of all 4-digit integers formed by the digits 1, 2, 3, 4, no repetition. The sum of all the numbers in this set is
+>  
+> A. 55550         B. 99990 C. 66660        D. 100000 E. 98760.
+
+**Answer:** C
+[[src_kangourou_2002_cadet__Q28]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2011 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2011__Q17
 parent: src_bocconi_squadre_2011
 competition: Gara a Squadre 2011
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto aree quadrilatero delle bisettrici e rettangolo 10×15*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{1}{12}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csoOdxkAD8Fd4QvzRpEPzVVVOCkJ8l1C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Report of quadrilateral areas of the beams and rectangle 10×15*
+
+> Consider a rectangle whose sides measure 10 cm and 15 cm. Its four corners, intersecting, form a quadrilateral. Calculate the ratio of the area of the quadrilateral to that of the initial rectangle.
+
+**Answer:** $\frac{1}{12}$
+[[src_bocconi_squadre_2011__Q17]]

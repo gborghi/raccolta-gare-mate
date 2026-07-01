@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2007 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2007__Q05
 parent: src_cn_cmc_2007
 competition: China Mathematical Competition 2007
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Locus of center of circle tangent to two fixed circles*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Locus del centro del cerchio tangente a due cerchi fissi*
+
+> Dato che due cerchi fissi con $O_1$ e $O_2$ rispettivamente come loro centri, un cerchio $P$ si muove in modo tale da essere tangente a entrambi. Quindi il locus del centro di $P$ non può essere $($\quad$)$.
+> 
+> (A), (B), (C), (D) sono quattro curve mostrate nella figura.
+
+![[src_cn_b07_w38__Q05.png]]
+
+**Risposta:** A
+[[src_cn_cmc_2007__Q05]]

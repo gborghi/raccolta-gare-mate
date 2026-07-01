@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1976-77 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1976-77_round1__Q02
 parent: src_bmo_1976-77_round1
 competition: British Mathematical Olympiad 1976-77 — Round 1
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Incircle of triangle: centre lies on midline joining midpoints of BC and AX*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo di triangolo: il centro si trova sulla linea centrale che unisce i punti medi di BC e AX*
+
+> I lati $BC$, $CA$ e $AB$ di un triangolo toccano un cerchio rispettivamente a $X$, $Y$ e $Z$. Prova che il centro del cerchio si trova sulla linea retta attraverso i punti di mezzo di $BC$ e di $AX$.
+
+[[src_bmo_1976-77_round1__Q02]]

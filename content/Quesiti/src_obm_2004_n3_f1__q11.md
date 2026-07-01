@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q11
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of yellow faces on five two-colour cubes given probability 1/2 of exactly two yellow tops.*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di facce gialle su cinque cubetti bicolori data la probabilità di 1/2 di esattamente due cime gialle.*
+
+> Su ciascuno dei loro volti sono dipinti cinque cubetti di legno, con una faccia gialla e l'altra magenta. Quando questi cubetti vengono gettati, la probabilità che due di queste facce siano gialle e le altre tre magenta (non importa in quale ordine appaiano i colori) è $1/2$. Quanti di questi cubi hanno la faccia gialla su un singolo cubo?
+> 
+> (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
+
+[[src_obm_2004_n3_f1__Q11]]

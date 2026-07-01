@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 28
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q28
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -34,6 +35,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive non-square integer a; sqrt(x-sqrt(x+a))=sqrt(a)-y; largest a<100*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Posibile intero non quadrato a; sqrt(x-sqrt(x+a))=sqrt(a)-y; più grande a<100*
+
+> Supponiamo che $a$ sia un intero positivo che non sia un quadrato perfetto. $x, y$ siano integri non negativi come $\sqrt{x - \sqrt{x + a}} = \sqrt{a} - y$. Qual è il più grande valore possibile di $a$ tale che $a < 100$?
+
+[[src_ioqm_2025_sep07__Q28]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_b__Q14
 parent: src_cesenatico_2005_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2005 - Semifinale B
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie ordinate (c,d) che piastrellano stanza 462x390*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0074
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iFfFchZtZKQhrAMA0KsBO1ZR930Z0xA7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ordered pairs (c,d) tiled room 462x390*
+
+> A tile-maker wants to cover a rectangular room $462 \times 390$ with rectangular tiles measuring $c \times d$. For how many pairs (orders) of size $(c, d)$ is this possible?
+
+**Answer:** 0074
+[[src_cesenatico_2005_squadre_semifinale_b__Q14]]

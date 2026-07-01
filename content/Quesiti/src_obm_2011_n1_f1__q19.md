@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q19
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Units digit of the sum 1!+2!+...+2010!+2011!*
 
@@ -50,3 +53,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'unità della somma 1!+2!+...+2010!+2011!*
+
+> Rappresentiamo con $n!$ il prodotto di tutti gli integri positivi da $1$ a $n$. Ad esempio, $5! = 1 \times 2 \times 3 \times 4 \times 5$. Calcolare la somma $1! + 2! + 3! + 4! + \cdots + 2010! + 2011!$, qual è la cifra di unità del risultato ottenuto?
+> 
+> (A) 1 \quad (B) 3 \quad (C) 4 \quad (D) 7 \quad (E) 9
+
+**Risposta:** B
+[[src_obm_2011_n1_f1__Q19]]

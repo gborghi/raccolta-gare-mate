@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2007 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2007__Q06
 parent: src_cn_cmc_2007
 competition: China Mathematical Competition 2007
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum size of union of two disjoint subsets with mapping condition*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Massima dimensione di unione di due sottoinsiemi disconnessi con condizione di mappatura*
+
+> Se il $A$ e il $B$ sono due sottogruppi di $\{1, 2, 3, \ldots, 100\}$, soddisfa $|A| = |B|$ e $A \cap B = \emptyset$. Se $a \in A$ implica sempre $2a + 2 \in B$, il massimo di $|A \cup B|$ è $($\quad$)$.
+> 
+> (A) $62$ $\quad$ (B) $66$ $\quad$ (C) $68$ $\quad$ (D) $74$
+
+**Risposta:** B
+[[src_cn_cmc_2007__Q06]]

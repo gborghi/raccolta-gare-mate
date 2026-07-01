@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2010 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2010__Q03
 parent: src_cn_cmc_2010
 competition: China Mathematical Competition 2010
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count lattice points in region bounded by a hyperbola branch and a vertical line*
 
@@ -49,3 +52,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i punti della griglia nella regione delimitata da un ramo iperbolare e da una linea verticale*
+
+> Il numero di punti integrali (cioè i punti le cui coordinate $x$- e $y$ sono entrambe interi) all'interno dell'area (escluso il confine) chiusa dal ramo destro dell'iperbola $x^2 - y^2 = 1$ e della linea $x = 100$ è ________.
+
+**Risposta:** $9801$
+[[src_cn_cmc_2010__Q03]]

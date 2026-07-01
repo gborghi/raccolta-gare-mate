@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q29
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima somma facce visibili del solido 2x2x1 di cubi*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum number of visible faces of the solid 2x2x1 cubic < MSK1/>
+
+![[src_kangourou_2013_benjamin__prob29.png]]
+
+> Alice has four identical cubes, on each face of which a number is shown. A development of each of the cubes is shown in the upper left figure. Alice glues the four cubes to the solid 2×2×1 shown in the figure to the left below, warning that two faces can only match if the numbers shown on them are equal. Finally, Alice calculates the sum of the numbers on the visible faces of the solid. What's the highest amount you can get? A) 64 B) 56 C) 80 	            D) 70 E) 68
+
+**Answer:** E
+[[src_kangourou_2013_benjamin__Q29]]

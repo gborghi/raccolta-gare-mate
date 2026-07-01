@@ -1,6 +1,7 @@
 ---
 title: IMO 2015 (LVI International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2015__Q02
 parent: src_imho_2015
 competition: IMO 2015 (LVI International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *All triples where ab-c, bc-a, ca-b are powers of 2*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+All triples where ab-c, bc-a, ca-b are powers of 2
+
+> Determine the triples $(a, b, c)$ of positive integers such that each of the numbers $$ab - c, \quad bc - a, \quad ca - b$$ is a power of $2$.
+> 
+> (A power of $2$ is an integer of the form $2^n$, where $n$ is a non-negative integer.)
+
+[[src_imho_2015__Q02]]

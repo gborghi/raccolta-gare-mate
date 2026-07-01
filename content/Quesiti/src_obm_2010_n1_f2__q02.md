@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f2__Q02
 parent: src_obm_2010_n1_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of digits replaced by squares in a multiplication*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 14
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di numeri sostituiti da quadrati in una moltiplicazione*
+
+> Joãozinho vuole fare una moltiplicazione per i compiti, ma ha cancellato alcune cifre dal suo quaderno, che sono rappresentate da $\square$ (ogni cifra cancellata può essere diversa dalle altre). I prodotti parziali e il risultato finale sono come mostrato: $$\begin{array}{r} \square \; 1 \\ \times \; 2 \; 3 \\ \hline 4 \; \square \\ \square \; \square \; 4 \\ \hline 1 \; \square \; \square \; 0 \; 2 \end{array}$$ Qual è la somma dei numeri cancellati?
+
+**Risposta:** 14
+[[src_obm_2010_n1_f2__Q02]]

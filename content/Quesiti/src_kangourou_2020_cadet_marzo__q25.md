@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q25
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei numeri sui lati (prodotti ai vertici somma 15)*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of numbers on the sides (products at sum of sums 15) *
+
+> Samuel writes a positive integer on each side of a square and then on each vertex he writes the product of the numbers he wrote on the two sides that meet at that vertex. The sum of the numbers in the vertices is 15. What is the sum of the numbers written on the four sides of the square? A) 6
+> 	
+> B) 7
+> 	
+> C) 8
+> 	
+> D) 10
+> 	
+> E) 15
+
+**Answer:** C
+[[src_kangourou_2020_cadet_marzo__Q25]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre__Q01
 parent: src_kangourou_2024_ecolier_squadre
 competition: Kangourou Squadre 2024 Ecolier Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Più grande numero da rappresentazione codice cifre*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9876
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most representative number code digits*
+
+> The greatest Sergio believes that he has invented a secret code to identify the integers: if a number is odd, he represents it with a circle, if it is equal to a square; if a number is a multiple of 3, the circle or square that represents it is full, while it is empty otherwise. So Sergio represents the number 3456 with . But Sergio is mistaken: his criterion does not allow us to identify a number with certainty based on his representation. The representation also provides other numbers: which is the largest of them? The answer is 9876.
+
+**Answer:** 9876
+[[src_kangourou_2024_ecolier_squadre__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f2__Q01
 parent: src_obm_2015_n1_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square cut into 3 pieces rearranged into rectangle; find new perimeter*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadro tagliato in 3 pezzi riordinati in rettangolo; trovare un nuovo perimetro*
+
+> In un quadrato di perimetro $48$ cm, $M$ e $N$ sono i punti di mezzo di due lati adiacenti. $O$ è il centro e $A$ è un vertice. Tagliando il quadrato lungo le linee tracciate e riordinando i tre pezzi, si forma un rettangolo con la stessa area del quadrato originale ma un perimetro diverso. Qual e' questo perimetro?
+
+![[src_obm_2015_n1_f2__Q01.png]]
+
+[[src_obm_2015_n1_f2__Q01]]

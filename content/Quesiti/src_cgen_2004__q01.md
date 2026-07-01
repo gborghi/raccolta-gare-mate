@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2004 — Matematica — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2004__Q01
 parent: src_cgen_2004
 competition: Concours Général des Lycées 2004 — Matematica
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A family of equal mutually tangent circles aligned along a half-line; tangent line cuts the circles, chord lengths and a collinearity*
 
@@ -64,3 +67,33 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Una famiglia di cerchi reciprocamente tangenti uguali allineati lungo una semilinea; la linea tangente taglia i cerchi, le lunghezze degli accordi e una collinearità*
+
+> Una famiglia di cerchi tangenti.
+> 
+> Nel piano, $A$ deve essere un punto e $\Delta$ una mezza linea con origine $A$.
+> 
+> 1. Consideriamo tre cerchi $\Gamma_1$, $\Gamma_2$, $\Gamma_3$ dello stesso raggio $r$, con i centri rispettivamente $O_1$, $O_2$, $O_3$, distinti e allineati in questo ordine sulla metà linea $\Delta$. Il cerchio $\Gamma_1$ passa attraverso $A$ e il cerchio $\Gamma_2$ è tangente a $\Gamma_1$ e $\Gamma_3$. I diametri dei cerchi $\Gamma_1$, $\Gamma_2$, $\Gamma_3$ sulla semilinea $\Delta$ sono indicati rispettivamente $[AA_1]$, $[A_1A_2]$ e $[A_2A_3]$.
+> 
+> Attraverso il punto $A$, disegnare una linea $(AD)$ tangente a $D$ al cerchio $\Gamma_3$.
+> 
+> a. Indicare che la linea $(AD)$ taglia il cerchio $\Gamma_2$ in due punti distinti $B$ e $C$. Calcolare la lunghezza $BC$. b. Indicare che le linee $(BA_1)$ e $(CA_2)$ sono secanti; lasciare che $P$ sia il loro punto di intersezione. Indicare inoltre che le linee $(CA_1)$ e $(BA_2)$ sono sezionate; lasciate che $Q$ sia il loro punto di intersezione. Cosa si può dire della direzione della linea $(PQ)$?
+> 
+> 2. Più in generale, consideriamo un numero intero $n$ strettamente più grande di $1$ e $n$ cerchi $\Gamma_1, \Gamma_2, \dots, \Gamma_n$ dello stesso raggio $r$, con centri rispettivamente $O_1, O_2, \dots, O_n$, distinti e allineati in questo ordine sulla semilinea $\Delta$. Il cerchio $\Gamma_1$ passa attraverso $A$ e, per ogni $k$ con $1 \le k \le n-1$, il cerchio $\Gamma_{k+1}$ è tangente al cerchio $\Gamma_k$. I diametri dei cerchi $\Gamma_1, \Gamma_2, \dots, \Gamma_n$ sulla linea $\Delta$ sono indicati rispettivamente $[AA_1], [A_1A_2], \dots, [A_{n-1}A_n]$.
+> 
+> Attraverso il punto $A$, disegnare una linea $(AD)$ tangente a $D$ al cerchio $\Gamma_n$. Indicare che, per ogni $k$ con $1 \le k \le n-1$, questa linea taglia il cerchio $\Gamma_k$ in due punti distinti $B_k$ e $C_k$ (nota che $B_1 = A$).
+> 
+> a. Calcolare la lunghezza $B_k C_k$ come funzione di $n$, $k$ e $r$.
+> 
+> Nel resto del problema, si prende $r = 1$. Un set $L(n,k) = B_k C_k$.
+> 
+> b. Mostrare che, per rendere razionale il $L(n,k)$, è necessario e sufficiente soddisfare la seguente condizione: $(C_1)$: esiste un $a \in \mathbb{N}$ tale che $n(n-1) - k(k-1) = 4a^2$.
+
+![[src_cgen_2004__Q01.png]]
+
+[[src_cgen_2004__Q01]]

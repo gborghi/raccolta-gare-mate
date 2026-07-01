@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f2__Q02
 parent: src_obm_1998_n3_f2
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two children take turns eating balls; strategy for second player to win*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nuYoFCi09PHCxKrrXgBXv2NK1rRfD75Z/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due bambini che si alternano a mangiare palle; strategia per il secondo giocatore a vincere*
+
+> Ci sono 20 palle su un tavolo e due bambini si alternano a mangiarle. A ogni turno, un bambino deve mangiare almeno una palla e al massimo tutte le palle attualmente sul tavolo. In questo gioco vince il bambino che riesce a lasciare esattamente una palla sul tavolo. Quale dei due bambini  il primo o il secondo a giocare  può sempre vincere? Cosa devono fare per vincere?
+
+[[src_obm_1998_n3_f2__Q02]]

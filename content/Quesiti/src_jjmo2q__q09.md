@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2004 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo2q__Q09
 parent: src_jjmo2q
 competition: Japan Junior Mathematical Olympiad 2004
@@ -31,6 +32,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum number of nested factions among 7 politicians*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nombre massimo di fazioni incastonate tra 7 politici*
+
+> Ci sono politici $7$, e ci sono diverse fazioni. Una fazione è un gruppo al quale appartiene almeno un politico. Per quanto riguarda due fazioni, essa sostiene che, se esiste un politico appartenente a entrambe, allora necessariamente una delle due fazioni contiene l'altra. Trova il massimo valore possibile del numero di fazioni. Qui, un gruppo composto solo da persone $1$, e il gruppo composto da tutte le persone $7$, sono considerati anche faczioni.
+
+[[src_jjmo2q__Q09]]

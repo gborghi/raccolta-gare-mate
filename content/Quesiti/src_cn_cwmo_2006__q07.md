@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2006 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2006__Q07
 parent: src_cn_cwmo_2006
 competition: China Western Mathematical Olympiad 2006
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rational cosines propagate: if cos((b-1)θ) and cos(bθ) rational, find larger n*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I cosini razionali si propagano: se cos(((b-1)θ) e cos(bθ) sono razionali, si trovano più grandi n*
+
+> Che $b$ sia un numero intero positivo non inferiore a 3 e $\theta$ sia un numero reale. Dimostra che se entrambi $\cos((b-1)\theta)$ e $\cos(b\theta)$ sono numeri razionali, allora esiste un intero positivo $n > b$, in modo tale che entrambi $\cos((n-1)\theta)$ e $\cos(n\theta)$ sono numeri razionali.
+
+[[src_cn_cwmo_2006__Q07]]

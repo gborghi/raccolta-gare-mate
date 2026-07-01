@@ -1,6 +1,7 @@
 ---
 title: IMO 1993 (34th IMO) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1993__Q05
 parent: src_imo_1993
 competition: IMO 1993 (34th IMO)
@@ -24,6 +25,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Existence of f with f(1)=2, f(f(n))=f(n)+n, increasing*
 
@@ -34,3 +37,13 @@ tags:
 **Metodo:** [[method_ricorsione|Ricorsione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Go0gpsCj9HK8rw7A_MFaoiSJsC9e1hL9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Existence of f with f(1)=2, f(f(n))=f(n)+n, increasing*
+
+> There is a function $f : \mathbf{N} \to \mathbf{N}$ such that $$f(1) = 2, \quad f(f(n)) = f(n) + n \text{ per ogni } n \in \mathbf{N}, \quad f(n) < f(n+1) \text{ per ogni } n \in \mathbf{N}?$$
+
+[[src_imo_1993__Q05]]

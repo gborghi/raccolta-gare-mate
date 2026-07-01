@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_semifinale_b__Q06
 parent: src_cesenatico_2012_semifinale_b
 competition: Gara a Squadre Cesenatico 2012 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *valore di (11*8)+13*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0229
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The value of < MSK0/>11 < MSK1/>8) + 13 < MSK2/>
+
+> It's written as predicted in the terrible book Necronomicon by the mad Arab Abdul Alhazred, when for man the Last Day will come, he will rise from the bottom Bernardus, monster with n heads and m tails (both positive integers) such that 1 95 + 1 n = 1 m. What's the minimum number of heads Bernardus can have?
+
+**Answer:** 0229
+[[src_cesenatico_2012_semifinale_b__Q06]]

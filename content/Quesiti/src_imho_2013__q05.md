@@ -1,6 +1,7 @@
 ---
 title: IMO 2013 (LIV International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2013__Q05
 parent: src_imho_2013
 competition: IMO 2013 (LIV International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Functional equation on positive rationals with f(x)=x*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19gUg0d7Qibr0kGJUI3KJ3ROO0zY1aY2P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Functional equation on positive rationals with f(x)=x*
+
+> Let MSK0/ be the set of positive rational numbers. Let $f : \mathbb{Q}_{>0} \to \mathbb{R}$ be a function satisfying the following three conditions: \begin{itemize} \item[(i) ] for all $x, y \in \mathbb{Q}_{>0}$, we have $f(x) \cdot f(y) \ge f(xy)$; \item[(ii)] for all $x, y \in \mathbb{Q}_{>0}$, we have $f(x + y) \ge f(x) + f(y)$; \item[(iii)] there exists a rational number $a > 1$ such that $f(a) = a$. \end{itemize} Prove that for all $x \in \mathbb{Q}_{>0}$.
+
+[[src_imho_2013__Q05]]

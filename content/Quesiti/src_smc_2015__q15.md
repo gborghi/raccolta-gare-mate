@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q15
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Original depth of water in larger cylindrical vase after smaller vase is pushed down inside it*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>L'originale profondità dell'acqua in un vaso cilindrico più grande dopo che un vaso più piccolo è stato spinto verso il basso all'interno< MSK1/>
+
+> Due vasi hanno forma cilindrica. Il vaso più grande ha un diametro di 20 cm. Il vaso più piccolo ha un diametro di 10 cm e un'altezza di 16 cm. Il vaso più grande è parzialmente riempito di acqua. Poi il vaso vuoto più piccolo, con l'estremità aperta in cima, viene spinto lentamente verso il basso nell'acqua, che scorre sul bordo. Quando il vaso più piccolo viene spinto verso il basso, è mezzo pieno di acqua. Qual era la profondità originale dell'acqua nel vaso più grande?
+>
+> - **(A)** $10$ cm
+> - **(B)** $12$ cm
+> - **(C)** $14$ cm
+> - **(D)** $16$ cm
+> - **(E)** $18$ cm
+
+**Risposta:** C
+[[src_smc_2015__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2009-10 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2009-10_round2__Q03
 parent: src_bmo_2009-10_round2
 competition: British Mathematical Olympiad 2009-10 — Round 2
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find integer n such that n^2+4 divides n^3+n*
 
@@ -46,3 +49,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z0AxOacaUmiq8Nh603s8l69kewEVc8n7/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova un intero n tale che n^2+4 divida n^3+n*
+
+> Trova tutti gli enti $n$ in modo tale che $n^2 + 4$ divida $n^3 + n$, e prova che la tua risposta è completa.
+
+[[src_bmo_2009-10_round2__Q03]]

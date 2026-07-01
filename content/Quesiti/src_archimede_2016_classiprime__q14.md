@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2016 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_classiprime__Q14
 parent: src_archimede_2016_classiprime
 competition: Gara Nazionale Classi Prime 2016
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quarto monomio in successione tipo Fibonacci di monomi*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11_tVYKZUBusCSJwiRULQD9nPIEI-cYvl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fourth successive monomy type Fibonacci of monomers*
+
+> On a sheet is written a list of 6 mononyms: the first is xy2 while the last is x8y6. We also know that each monome, from the third to the next, is the product of the two monomes that precede it. What's the fourth monopoly? A x3y2 B x2y3 C x2y4 D x4y2 E x3y F not determined by the data provided alone
+
+**Answer:** A
+[[src_archimede_2016_classiprime__Q14]]

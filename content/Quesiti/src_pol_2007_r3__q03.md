@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r3__Q03
 parent: src_pol_2007_r3
 competition: Olimpiade Matematica Polacca 2007 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Plane divided into unit squares filled with a bijection from positive integers; decide if each number can divide the sum of its four neighbors.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I32ii3yrB1ZaVkUP0-xSzka1GIQRg6kF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Plano diviso in quadrati unitari riempiti di una biiezione da numeri interi positivi; decidere se ogni numero può dividere la somma dei suoi quattro vicini.*
+
+> Un piano è diviso in unità quadrate. Un intero positivo deve essere scritto in ogni quadrato unitario in modo che ogni intero positivo si verifichi esattamente una volta. Decidi se questo può essere fatto in modo tale che il numero in ogni quadrato divida la somma dei numeri nei quattro quadrati vicini.
+
+[[src_pol_2007_r3__Q03]]

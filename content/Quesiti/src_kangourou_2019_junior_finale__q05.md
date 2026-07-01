@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale nazionale Junior — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q05
 parent: src_kangourou_2019_junior_finale
 competition: Kangourou 2019 Finale nazionale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Allineamenti di sei cifre monotoni non tutti uguali*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9990
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Alignments of six monotonous digits not all equal*
+
+> A room has five doors: from each of them you can either enter or exit. If you want to go in and out of two different doors, how many ways can you do that?
+>
+> - **(A)** 25
+> - **(B)** 20
+> - **(C)** 16
+> - **(D)** 15
+> - **(E)** 10
+
+**Answer:** 9990
+[[src_kangourou_2019_junior_finale__Q05]]

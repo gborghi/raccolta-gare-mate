@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q06
 parent: src_kangourou_2017_ecolier_semifinale
 competition: Kangourou 2017 Ecolier - Semifinale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di quadrati visibili con 12 cannucce*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 8
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of visible squares with 12 reeds*
+
+> (Points 4) Using 12 canes all equal to each other, you can build three squares. If you overlap the three squares in part, how many squares can you see at most? (A) 3         (B) 5 (C) 7 (D) 9 (E) 11
+
+**Answer:** 8
+[[src_kangourou_2017_ecolier_semifinale__Q06]]

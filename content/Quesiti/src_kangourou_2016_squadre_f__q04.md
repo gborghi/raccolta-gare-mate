@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2016 Finale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_f__Q04
 parent: src_kangourou_2016_squadre_f
 competition: Kangourou Coppa Squadre 2016 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Velocita restanti due terzi per media 21 (impossibile)*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 9999
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uih0VpIOW40GBf8mxXkEFst7nixVBxJu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Remaining two thirds speed by average 21 (impossible) < MSK1/>
+
+> Gianni the cyclist Gianni has to make a certain bike ride. Until now, he has covered a third of it at an average speed of 7 km/h. What must be its average speed in the remaining two thirds if it wants its average speed along the entire route to be 21 km/h? (Write [9999] if you think it's impossible for him to get what he wants.)
+
+**Answer:** 9999
+[[src_kangourou_2016_squadre_f__Q04]]

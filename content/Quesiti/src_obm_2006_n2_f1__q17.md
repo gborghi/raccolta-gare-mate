@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q17
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with sides a, b, c summing to 1; determine which inequality holds*
 
@@ -58,3 +61,24 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con lati a, b, c sommati a 1; determinare quale disuguaglianza *
+
+> $a$, $b$, $c$ siano numeri reali positivi con $a + b + c = 1$. Se $a$, $b$, $c$ sono le lunghezze laterali di un triangolo, possiamo concludere che:
+> 
+> **A) ** $0 < |a-b| < \frac{1}{2}$ e $0 < |b-c| < \frac{1}{2}$
+> 
+> **B)** $a < \frac{1}{2}$, $b < \frac{1}{2}$, $c < \frac{1}{2}$
+> 
+> **C) ** $a + b < \frac{1}{2}$ e $c < a + b$
+> 
+> **D)** $a \le \frac{1}{2}$, $b \le \frac{1}{3}$, $c \le \frac{1}{3}$
+> 
+> **E)** $a \ge \frac{1}{3}$, $b \ge \frac{1}{3}$, $c \ge \frac{1}{3}$
+
+**Risposta:** B
+[[src_obm_2006_n2_f1__Q17]]

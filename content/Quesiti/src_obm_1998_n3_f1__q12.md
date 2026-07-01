@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f1__Q12
 parent: src_obm_1998_n3_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *An integer n is 'good' when 4n+1 is a multiple of 5. Count the good numbers between 500 and 1000.*
 
@@ -57,3 +60,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Un numero intero n è "buono" quando 4n+1 è un multiple di 5. Conteggi i numeri buoni tra 500 e 1000.*
+
+> Un intero $n$ è buono quando $4n + 1$ è un multiple di $5$. Quanti numeri buoni ci sono tra $500$ e $1000$?
+> 
+> A) 50
+> 
+> B) 51
+> 
+> C) 100
+> 
+> D) 101
+> 
+> E) 102
+
+**Risposta:** C
+[[src_obm_1998_n3_f1__Q12]]

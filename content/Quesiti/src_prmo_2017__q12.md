@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q12
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Total students given boys:girls = 1:3 and present boys equal square of present girls*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Total di studenti dati a ragazzi: ragazze = 1:3 e ragazzi presenti uguali al quadrato delle ragazze presenti*
+
+> In una classe, il numero totale di ragazzi e ragazze è nel rapporto < MSK0/>. Un giorno si scoprì che 8 ragazzi e 14 ragazze erano assenti dalla classe, e che il numero di ragazzi era il quadrato del numero di ragazze. Qual è il numero totale degli studenti della classe?
+
+[[src_prmo_2017__Q12]]

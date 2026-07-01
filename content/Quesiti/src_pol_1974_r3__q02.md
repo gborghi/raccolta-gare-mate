@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1974 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1974_r3__Q02
 parent: src_pol_1974_r3
 competition: Olimpiade Matematica Polacca 1974 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A salmon passes two waterfalls each minute with independent probabilities p and q; compute the probability it did not pass the first in n minutes given it passed neither in that time.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/146Qo-QecRjmtBFNNyXEbraYf0kKTmyRy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un salmone passa due cascate ogni minuto con probabilità indipendenti p e q; calcola la probabilità che non abbia superato la prima in n minuti dato che non ha superato nessuna in quel tempo.*
+
+> Un salmone in un fiume di montagna deve superare due cascate. Ogni minuto, la probabilità del salmone di superare la prima cascata è $p > 0$, e la probabilità di superare la seconda cascata è $q > 0$. Si presume che questi due eventi siano indipendenti. Calcolare la probabilità che il salmone non abbia superato la prima cascata in < MSK2/> minuti, supponendo che non abbia superato entrambe le cascate in quel periodo.
+
+[[src_pol_1974_r3__Q02]]

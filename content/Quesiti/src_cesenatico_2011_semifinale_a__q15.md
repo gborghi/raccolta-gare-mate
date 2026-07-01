@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_a__Q15
 parent: src_cesenatico_2011_semifinale_a
 competition: Gara a Squadre Cesenatico 2011 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *altezza*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 7425
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>height< MSK1/>
+
+> An embarrassing accident During an adventure in Egypt Borelix unwittingly breaks the nose of the famous Sphinx. The nose, now on the ground, is an irregular ABCD tetrahedron resting on the face of the ABC. Borelix, throwing a Roman, further breaks the nose along a plane parallel to ABD dividing it into two pieces of which the one containing the C vertex has a volume that, once decreased by 66,9%, becomes equal to that of the other piece. Knowing that the height (relative to the ground) of the piece containing top C is 6.75m, how many millimetres would you measure the height of ABCD relative to ABC?
+
+**Answer:** 7425
+[[src_cesenatico_2011_semifinale_a__Q15]]

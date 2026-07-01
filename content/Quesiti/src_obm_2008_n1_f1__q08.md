@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n1_f1__Q08
 parent: src_obm_2008_n1_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cards numbered 1–2008; draw two and sum; count distinct odd sums*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jS9AjIezsp0MUxDiEgVpS7k3MJ9uT3_v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Carte numerate 12008; disegnare due e somma; contare somme odd diverse*
+
+> Una urna contiene carte del 2008. Ogni carta ha un numero diverso, dal 1 al 2008. Due carte vengono tirate a caso e i loro numeri vengono sommati. Quanti diversi numeri dispari si possono ottenere in questo modo?
+> 
+> A) 1004 $\quad$ B) 1005 $\quad$ C) 2007 $\quad$ D) 2008 $\quad$ E) 4016
+
+**Risposta:** C
+[[src_obm_2008_n1_f1__Q08]]

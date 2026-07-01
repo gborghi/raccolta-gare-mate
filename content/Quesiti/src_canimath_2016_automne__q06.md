@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2016 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2016_automne__Q06
 parent: src_canimath_2016_automne
 competition: Coupe Animath Automne 2016
@@ -36,6 +37,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all n≥3 integers placeable on a circle so each equals product of two neighbours*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti n≥3 integri posizionabili su un cerchio in modo che ciascuno sia uguale al prodotto di due vicini*
+
+> Determinare tutti i numeri interi $n \geq 3$ in modo tale che si possano posizionare $n$ numeri reali distinti su un cerchio in modo che ciascuno di questi numeri sia uguale al prodotto dei suoi due vicini.
+
+[[src_canimath_2016_automne__Q06]]

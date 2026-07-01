@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q26
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza del lato FA dell'esagono tangente*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of the FA side of the tangent hexagon*
+
+> The sides AB, BC, CD, DE, EF, FA of a hexagon are all tangent to the same circle. The lengths of the sides AB, BC, CD, DE and EF are 4, 5, 6, 7 and 8 respectively. What's the length of the FA side? A) 9 B) 8 C) 7 D) 6 E) The information is not sufficient to answer
+
+**Answer:** D
+[[src_kangourou_2011_student__Q26]]

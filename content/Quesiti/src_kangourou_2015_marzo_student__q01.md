@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q01
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta di Angela in mesi quando nasce Carlotta*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Angela's age in the months following Carlotta's birth
+
+> Angela was born in 1997, her younger sister Carlotta in 2001. When Carlotta was born, Angela's age, in months, was certainly less than 48.
+> 	
+> B) between 47 and 61. (c) between 35 and 49. D) greater than 48. (e) between 36 and 60.
+
+**Answer:** E
+[[src_kangourou_2015_marzo_student__Q01]]

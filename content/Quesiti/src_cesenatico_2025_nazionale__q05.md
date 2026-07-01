@@ -1,6 +1,7 @@
 ---
 title: Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2025_nazionale__Q05
 parent: src_cesenatico_2025_nazionale
 competition: Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dimostrare GH parallela a BC (bisettrice e asse)*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1qB7eL3B9ur3wfVhNrlYiTjMkleeW6oDL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Demonstrate GH parallel to BC (bisset and axis)*
+
+![[src_cesenatico_2025_nazionale__prob5.png]]
+
+> Both ABC is a triangle and D is the foot of the beetle coming out of A. The axis of the AD segment intersects the circumference circumscribed at ABC in E and F, with E and B being opposite sides to the straight AD. Both G the intersection between BE and DF, and H the intersection between CF and DE. Demonstrate that the GH and BC directions are parallel.
+
+[[src_cesenatico_2025_nazionale__Q05]]

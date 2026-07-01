@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f1__Q09
 parent: src_obm_2014_n2_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum button presses on calculator to display 100*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Presi il pulsante minimo sulla calcolatrice per visualizzare 100*
+
+> È possibile premere solo una cifra alla volta e alcune semplici operazioni: $+$, $-$, $\times$ o $\div$ tra le cifre. Inoltre non è possibile premere due cifre consecutive. La calcolatrice inizia con 0 nel display e la prima stampa deve essere un'operazione; l'operazione viene eseguita immediatamente dopo aver premuto una cifra. Ad esempio, premendo $[+][7][+][7]$ si ottiene $0+7=7$ e poi $7+7=14$; premendo $[-][6]$ si ottiene $14-6=8$. Così è possibile ottenere 29 con 6 presse. Pedro vuole mostrare il numero 100 premendo le operazioni e le cifre alternativamente, iniziando con un'operazione. Qual è il numero minimo di presse di cui ha bisogno Pedro?
+> 
+> (A) 2 $\quad$ (B) 4 $\quad$ (C) 6 $\quad$ (D) 8 $\quad$ (E) 10
+
+**Risposta:** C
+[[src_obm_2014_n2_f1__Q09]]

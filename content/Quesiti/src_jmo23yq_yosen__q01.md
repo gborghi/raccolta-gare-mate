@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo23yq_yosen__Q01
 parent: src_jmo23yq_yosen
 competition: Japan Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimize x+y+z with lcm 2100*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 44
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dMCin6mfKEWYPJJU3SDEXt5-U6UwypUB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimizzare x+y+z con lcm 2100*
+
+> Per tre integri positivi $x, y, z$ il cui più piccolo multiplo comune è $2100$, trovare il minimo valore possibile di $x + y + z$.
+
+**Risposta:** 44
+[[src_jmo23yq_yosen__Q01]]

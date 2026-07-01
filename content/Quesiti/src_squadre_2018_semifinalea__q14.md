@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Semifinale A — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_semifinalea__Q14
 parent: src_squadre_2018_semifinalea
 competition: Gara a Squadre 2018 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Naturali a,b,c con b=a/c e cifre contenute, a massimo*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0819
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Natural a,b,c with b=a/c and numbers contained, not more than *
+
+> To unlock the door of his future home, Jensenfer Paerther must find three natural a,b,c of three, two, and one digit, respectively, with b = a c. In addition, the digits of b are contained in those of a, which is the maximum possible. How much is it worth? The containment of figures is understood by multiplication, i.e. for example 32 is contained in 243 but 33 is not.
+
+**Answer:** 0819
+[[src_squadre_2018_semifinalea__Q14]]

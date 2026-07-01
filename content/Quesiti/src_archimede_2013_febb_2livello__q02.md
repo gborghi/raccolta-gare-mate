@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q02
 parent: src_archimede_2013_febb_2livello
 competition: Archimede Gara di Febbraio 2013 - 2 livello
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cavalieri e furfanti, quanti cavalieri dato totale di Si*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Knights and crooks, total number of knights given Yes *
+
+> In the Cavaliers Island (who always tell the truth) and the Furfanti Island (who always lie) a survey is conducted among 2013 residents, in which there are three questions: Tifiper team A?, Tifiper team B? and Tifiper team C?. We know that each islander answers all three questions and ticks for one and only one of the three teams. If the answers are "yes" to 3000, how many of the islanders are knights?
+>
+> - **(A)** 987
+> - **(B)** 1023
+> - **(C)** 1026
+> - **(D)** 2013
+> - **(E)** It cannot be determined from the data provided.
+
+**Answer:** C
+[[src_archimede_2013_febb_2livello__Q02]]

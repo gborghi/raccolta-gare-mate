@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q12
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *lunghezza del raggio*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*beam length*
+
+![[src_kangourou_2023_cadet__prob12.png]]
+
+> The figure shows five semicircles all of the same radius and with diameters contained in the same line. The numbers on this line indicate the distances between the highlights. How long is the radius of each semicircle? A) 12 B) 16
+> 	
+> C) 18
+> 	
+> D) 22
+> 	
+> E) 36
+
+**Answer:** C
+[[src_kangourou_2023_cadet__Q12]]

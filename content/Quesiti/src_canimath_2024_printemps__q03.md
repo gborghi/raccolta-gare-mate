@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2024 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_printemps__Q03
 parent: src_canimath_2024_printemps
 competition: Coupe Animath Printemps 2024
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n so product of n consecutive positives always divisible by 45*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più piccolo n so prodotto di n positivi consecutivi sempre divisibili per 45*
+
+> Determinare il più piccolo intero positivo $n$ in modo tale che il prodotto di $n$ interi positivi consecutivi sia sempre divisibile per 45.
+
+**Risposta:** 6
+[[src_canimath_2024_printemps__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_c__Q16
 parent: src_cesenatico_2011_semifinale_c
 competition: Gara a Squadre Cesenatico 2011 - Semifinale C
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max punti senza quadrato in reticolo 4x4*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0010
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max square points in a 4x4 grid< MSK1/>
+
+> An astute attack scheme by Julius Caesar explains to the centurion Caius Tatticus how he intends to dispose of his troops in a future confrontation. To do this, it shows them a pattern where there are 16 points arranged in a square grid 4×4. You can draw 20 squares having 4 vertices of these points. Julius Caesar wants to choose n points so that no square has all its vertices between them. What is the maximum value of n?
+> 
+> This year's event is the 12th national semi-final. The problem
+
+**Answer:** 0010
+[[src_cesenatico_2011_semifinale_c__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q15
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divide {2,3,5,7,11,13,17} into groups A,B with A-B=1; find digit sum of A*B*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*dividere {2,3,5,7,11,13,17} nei gruppi A,B con A-B=1; trovare la somma digitali di A*B*
+
+> Dividere i numeri $2, 3, 5, 7, 11, 13$ e $17$ in due gruppi con i prodotti $A$ e $B$, in modo tale che $A - B = 1$. La somma delle cifre di $A \cdot B$ è:
+> 
+> A) $10$ \quad B) $11$ \quad C) $13$ \quad D) $14$ \quad E) $15$
+
+**Risposta:** C
+[[src_obm_2003_n3_f1__Q15]]

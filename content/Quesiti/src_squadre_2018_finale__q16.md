@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q16
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Codici di 2018 cifre 0,1,2 con somma al piu 8, resto mod 2018*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0001
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*2018 codes 0,1,2 digits plus 8, remaining mod 2018*
+
+> Brute force Beuler knows that the code that releases the time sphere that will allow him to travel in time is a sequence of 2018 digits, chosen between 0.1,2, but whose sum is worth the most 8. With his robotic fingers, he's trying to type one at a time all the possible codes that meet these characteristics. How many codes will he type? It is answered by indicating the remainder of the division of this issue for 2018.
+
+**Answer:** 0001
+[[src_squadre_2018_finale__Q16]]

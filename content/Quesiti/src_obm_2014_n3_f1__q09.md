@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q09
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum number of key presses on a restricted operation-first calculator to reach 100*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di pressioni a chiave su una calcolatrice di prima operazione limitata per raggiungere 100*
+
+> In una calcolatrice molto semplice non è possibile premere due cifre senza premere una delle operazioni $+$, $-$, $\times$ o $\div$ tra le cifre stampate. Quando viene premuta una cifra, la calcolatrice esegue immediatamente l'operazione. La calcolatrice inizia con $0$ sul display e il primo tasto premuto deve essere un'operazione. Cioè, prima si premono un'operazione, poi un numero, poi un'operazione, e così via. Ad esempio, un modo per far apparire $29$ sul display è quello di premere $\boxed{+}$ e poi $\boxed{7}$, facendo apparire $0 + 7 = 7$ sul display; quindi premere $\boxed{\times}$ e $\boxed{5}$, ottenendo $7 \times 5 = 35$ sul display, e finire premendo $\boxed{-}$ e $\boxed{6}$, dando come risultato $35 - 6 = 29$. Pertanto, è possibile ottenere $29$ con la pressione $6$. Pedro vuole che il numero $100$ compare sul display. Qual è il numero minimo di tastiere, operazioni di conteggio e numeri che Pedro deve fare sulla calcolatrice? (A) $2$ (B) $4$ (C) $6$ (D) $8$ (E) $10$
+
+[[src_obm_2014_n3_f1__Q09]]

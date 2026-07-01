@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1995 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1995_r3__Q02
 parent: src_pol_1995_r3
 competition: Olimpiade Matematica Polacca 1995 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex polygon cut into pentagon and triangles, largest area*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/150sL_nAa7PPTRBn0nE8dUnuEVC2dD-qB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Poligono converso tagliato in pentagoni e triangoli, superficie più grande< MSK1/>
+
+> Un poligono convexo è tagliato dalle sue diagonali in un pentagono e dieci triangoli. Qual è il maggior numero di triangoli ottenuti che possono avere la stessa area?
+
+[[src_pol_1995_r3__Q02]]

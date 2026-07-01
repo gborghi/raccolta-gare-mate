@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q11
 parent: src_cesenatico_2006_squadre_finale
 competition: Gara a Squadre Cesenatico 2006 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo fogli veritieri tra 10000 in cerchio bugiardi/sinceri*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9998
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum truth sheets in 10000 lying/sincere circles< MSK1/>
+
+> Dangerous games Playing with tricks can be quite dangerous. The 5,000 students of the house of Rapportaureo drank a potion that forced them to tell the truth all the time, while the 5,000 students of the house of Partimmaginaria drank a potion that forced them to always lie. The 10,000 students in the two houses are arranged in a circle and each one writes on a scroll. My right neighbor is from Rapporteur or my right neighbor is from Partimagineria. Of course, everyone knows which houses the neighbors belong to. How many sheets of my right-hand neighbor's reporting can there be, at most?
+> 
+> Team competition 2006  National final  Problem texts  Pag. 3 di 4
+
+**Answer:** 9998
+[[src_cesenatico_2006_squadre_finale__Q11]]

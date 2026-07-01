@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2009 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2009__Q04
 parent: src_rmo_2009
 competition: Regional Mathematical Olympiad 2009
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of all 3-digit numbers with at least one odd and one even digit*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1et9IO1xuP1ryseoogrNkDB_LaxO70ZCd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di tutti i numeri a 3 cifre con almeno una cifra impar e una cifra pari*
+
+> Trova la somma di tutti i numeri naturali a 3 cifre che contengono almeno una cifra strana e almeno una cifra pari.
+
+[[src_rmo_2009__Q04]]

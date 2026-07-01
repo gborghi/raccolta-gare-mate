@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q03
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum sticks to form a 2-metre row of sticks*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di bastoni per formare una fila di bastoni di 2 metri*
+
+> Hai molti bastoni: lunghi circa 6 cm e lunghi circa 7 cm. Per formare una singola fila di bastoni con una lunghezza totale di 2 metri (200 cm), il numero minimo di bastoni da utilizzare è:
+> 
+> (A) 29 \quad (B) 30 \quad (C) 31 \quad (D) 32 \quad (E) 33
+
+**Risposta:** A
+[[src_obm_2003_n1_f1__Q03]]

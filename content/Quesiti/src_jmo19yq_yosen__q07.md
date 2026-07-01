@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo19yq_yosen__Q07
 parent: src_jmo19yq_yosen
 competition: Japan Mathematical Olympiad 2009 — Yosen (Preliminary)
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find x1 from symmetric system of pairwise-product sums*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca x1 dal sistema simmetrico di somme di prodotti in coppia*
+
+> I numeri reali $x_1,x_2,x_3,x_4,x_5$ soddisfano le seguenti cinque equazioni: $$\begin{cases} x_1x_2+x_1x_3+x_1x_4+x_1x_5=-1 \\ x_2x_1+x_2x_3+x_2x_4+x_2x_5=-1 \\ x_3x_1+x_3x_2+x_3x_4+x_3x_5=-1 \\ x_4x_1+x_4x_2+x_4x_3+x_4x_5=-1 \\ x_5x_1+x_5x_2+x_5x_3+x_5x_4=-1 \end{cases}$$ Trova tutti i valori possibili di $x_1$.
+
+[[src_jmo19yq_yosen__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1999 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_2livello__Q03
 parent: src_archimede_1999_2livello
 competition: Archimede Gara 2º livello 1999
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della regione definita da cerchio e striscia*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the region defined by circle and strip*
+
+> Determine the area of the plan part defined by $$\begin{cases} x^2 + y^2 - 4y \leq 0 \\ x^2 - 4x + 3 \geq 0 \end{cases}$$
+>
+> - **(A)** $\dfrac{2\pi}{3} - 2$
+> - **(B)** $\pi - \sqrt{3}$
+> - **(C)** $\dfrac{\pi}{2} - \dfrac{\sqrt{3}}{2}$
+> - **(D)** $\dfrac{4\pi}{3} - \sqrt{3}$
+> - **(E)** None of the previous ones.
+
+**Answer:** D
+[[src_archimede_1999_2livello__Q03]]

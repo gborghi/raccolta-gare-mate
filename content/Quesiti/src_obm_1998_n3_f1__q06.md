@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f1__Q06
 parent: src_obm_1998_n3_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute the square root of the repeating decimal 0.4444...*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolare la radice quadrata del decimale ripetitivo 0,4444...*
+
+> $\sqrt{0{,}4444\ldots} =$
+> 
+> A) $0{,}2222\ldots$
+> 
+> B) $0{,}3333\ldots$
+> 
+> C) $0{,}4444\ldots$
+> 
+> D) $0{,}5555\ldots$
+> 
+> E) $0{,}6666\ldots$
+
+**Risposta:** E
+[[src_obm_1998_n3_f1__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_riserva_triennio__Q04
 parent: src_archimede_2020_riserva_triennio
 competition: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri pari di tre cifre distinte contenenti 0 e 7*
 
@@ -42,3 +45,19 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oJMUKhCeVFFbkLLL48V2VZrR6ye_9VCN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Third-digit numbers equal to 0 and 7 *
+
+> How many numbers are equal to three digits all different from each other, where are both the digit 0 and the digit 7 present?
+>
+> - **(A)** 18
+> - **(B)** 20
+> - **(C)** 22
+> - **(D)** 23
+> - **(E)** 19
+
+[[src_archimede_2020_riserva_triennio__Q04]]

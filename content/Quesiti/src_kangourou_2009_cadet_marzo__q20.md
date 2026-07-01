@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q20
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadratini per il decimo disegno della sequenza*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Squares for the tenth drawing of the sequence*
+
+![[src_kangourou_2009_cadet_marzo__prob20.png]]
+
+> The first three drawings of a sequence are shown in the figure: each of them consists of squares on side 1 surrounding a square hole (gray in the figure). How many squares on side 1 are needed to build the tenth drawing of the sequence? A) 76 B) 80 C) 84 D) 92 E) 100 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** D
+[[src_kangourou_2009_cadet_marzo__Q20]]

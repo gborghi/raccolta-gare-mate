@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2013 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_classiprime__Q09
 parent: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro rettangolo dato incremento d'area di +1 cm sui lati*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular perimeter given an increase in area of +1 cm on the sides*
+
+> Given an ABCD rectangle, increasing both the base and height by 1 cm, the area increases by 187 cm2. What is the perimeter of ABCD? At 372 cm B 187 cm C 186 cm D 748 cm E 558 cm F there are not enough data to establish it
+
+**Answer:** A
+[[src_archimede_2013_classiprime__Q09]]

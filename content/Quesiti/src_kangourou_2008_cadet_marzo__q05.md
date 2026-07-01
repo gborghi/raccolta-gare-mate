@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q05
 parent: src_kangourou_2008_cadet_marzo
 competition: Kangourou 2008 - Cadet (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo isoscele con angolo non acuto*
 
@@ -64,3 +67,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Isosceles triangle with non-acute angle*
+
+![[src_kangourou_2008_cadet_marzo__prob5.png]]
+
+> Pierino believes that if a triangle is isosceles, then all its angles are sharp. Which of the following figures can convince you otherwise? The Commission shall adopt delegated acts in accordance with Article 21 of Regulation (EU) No 1303/2013 laying down detailed rules for the application of this Regulation.
+> 
+> I'm going to pay. I'm going to pay. 17 17 Kang 2008 Kang 2008
+
+**Answer:** D
+[[src_kangourou_2008_cadet_marzo__Q05]]

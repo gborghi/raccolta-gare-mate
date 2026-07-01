@@ -1,6 +1,7 @@
 ---
 title: IMO 1972 (Fourteenth International Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1972_all__Q03
 parent: src_imo_1972_all
 competition: IMO 1972 (Fourteenth International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prove (2m)!(2n)!/(m!n!(m+n)!) is an integer*
 
@@ -37,3 +40,17 @@ tags:
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Prove (2m)!(2n)!/(m!n!(m+n)!) is an integer< MSK1/>
+
+> Let $m$ and $n$ be arbitrary non-negative integers. Prove that
+> 
+> $$\frac{(2m)!(2n)!}{m!\,n!\,(m+n)!}$$
+> 
+> is an integer. ($0! = 1$.)
+
+[[src_imo_1972_all__Q03]]

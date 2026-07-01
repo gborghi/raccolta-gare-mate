@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f1__Q20
 parent: src_obm_2001_n1_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1
@@ -39,6 +40,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *White tiles needed for a square-mosaic sequence using 80 black surrounding tiles*
 
@@ -54,3 +57,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tigli bianchi necessari per una sequenza di mosaico quadrato utilizzando 80 piastrelle nere circostanti*
+
+> Con piastrelle quadrate bianche e nere della stessa dimensione, costruiamo i seguenti mosaici. La regola per la costruzione di questi mosaici è la seguente: inizialmente formiamo un quadrato con $1$ piastrelle bianche circondate da piastrelle nere; poi, un altro quadrato, questo con $4$ piastrelle bianche, circondato anche da piastrelle nere; e così via successivamente. Con le piastrelle nere $80$, quante piastrelle bianche saranno necessarie per fare una sequenza di mosaici come questa?
+> 
+> (A) $55$ \quad (B) $65$ \quad (C) $75$ \quad (D) $85$ \quad (E) $100$
+
+![[src_obm_2001_n1_f1__Q20.png]]
+
+**Risposta:** A
+[[src_obm_2001_n1_f1__Q20]]

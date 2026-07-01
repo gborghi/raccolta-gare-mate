@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q20
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Media dei quattro numeri dalle somme date*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mean of the four numbers from the sums given*
+
+> I had four numbers. I added each of them to the average (arithmetic) of the other three and got the four sums 54, 60, 62, and 76. What was the average of the four numbers I had? A) 31,5 B) 65
+> 	
+> C) 63
+> 	
+> D) 44
+> 	
+> E) 32.5 Questions from n. 21 al n. 30 is worth 5 points each.
+
+**Answer:** A
+[[src_kangourou_2014_cadet__Q20]]

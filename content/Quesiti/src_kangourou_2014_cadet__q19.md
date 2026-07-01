@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q19
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante monete c'erano nel forziere*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many coins were in the fortress
+
+> A pack of pirates caught a forcible man with several gold coins. They divide the loot so that each has the same number of coins. If there were four pirates less, each one would get 10 more coins; whereas if there were 50 coins less, each one would get 5 less coins. How many coins were in the fortress? A) 80
+> 	
+> B) 100 C) 120 D) 150 E) 250
+
+**Answer:** D
+[[src_kangourou_2014_cadet__Q19]]

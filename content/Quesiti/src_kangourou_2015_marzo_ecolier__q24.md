@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q24
 parent: src_kangourou_2015_marzo_ecolier
 competition: Kangourou 2015 gara 19 marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *chi piu il sabato*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who's next on Saturday?
+
+> During the weekend, Saturday and Sunday, five friends cooked cookies: Anna cooked 24, Bruno 25, Caesar 26, David 27, and Elisa 28. When they arrived on Sunday evening, one of them had twice as many biscuits as he had cooked on Saturday night, another three times, another four times, another five times, and another six times. Who else cooked up until Saturday night? A) Anna B) Bruno C) Caesar D) David E) Elisa red red blue x
+> 
+> This appropriation is intended to cover expenditure relating to the implementation of the programme.
+
+**Answer:** C
+[[src_kangourou_2015_marzo_ecolier__Q24]]

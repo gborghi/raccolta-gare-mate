@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f1__Q15
 parent: src_obm_1999_n1_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three ages related by fractions; find their sum.*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre età correlate per frazioni; trovare la loro somma.*
+
+> Rafael è $\dfrac{2}{3}$ dell'età di Roberto ed è 2 anni più giovane di Reinaldo. L'età di Roberto è $\dfrac{4}{3}$ dell'età di Reinaldo. In anni, la somma delle tre epoche è:
+> 
+> (A) 48 \quad (B) 72 \quad (C) 58 \quad (D) 60 \quad (E) 34
+
+**Risposta:** C
+[[src_obm_1999_n1_f1__Q15]]

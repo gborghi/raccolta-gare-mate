@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Finale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q02
 parent: src_kangourou_2019_squadre_finale
 competition: Kangourou Coppa squadre 2019 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo alfa tra listelli equispaziati*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0015
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Alpha angle between the equally spaced lists< MSK1/>
+
+![[src_kangourou_2019_squadre_finale__prob2.png]]
+
+> The lists shown in the figure to the right show a lining of wooden lists, all of the same thickness; 12 of these are moved to one end (symmetrically as the other figure suggests) so that they can be glued to the center of symmetry of the lining, distributing them so that the measurement of the angle between each list and the one following it (clockwise) is constant. How many degrees does the angle denoted by α measure?
+
+**Answer:** 0015
+[[src_kangourou_2019_squadre_finale__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q19
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find PQ in right triangle where altitude PF gives QF=9, RF=5, PR=13*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca PQ nel triangolo rettangolo dove l'altitudine PF dà QF=9, RF=5, PR=13*
+
+> Nel triangolo $PQR$, l'altitudine $PF$ divide il lato $QR$ in due segmenti di misura $QF = 9$ e $RF = 5$. Se $PR = 13$, qual è la misura di $PQ$?
+> 
+> **A)** $5$ $\quad$ **B)** $10$ $\quad$ **C)** $15$ $\quad$ **D)** $20$ $\quad$ **E)** $25$
+
+**Risposta:** C
+[[src_obm_2004_n2_f1__Q19]]

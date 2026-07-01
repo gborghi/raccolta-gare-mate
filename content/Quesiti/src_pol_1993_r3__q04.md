@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r3__Q04
 parent: src_pol_1993_r3
 competition: Olimpiade Matematica Polacca 1993 — Round 3
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangular-faced convex polyhedron, 3-colored vertices; prove rainbow face count is even.*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ozjMAbDlKBC3LLKmoYwAq8Nm_A0MkSaK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polyedro converso a faccia triangolare, vertici a 3 colori; dimostrare che il numero delle facce dell'arcobaleno è pari.*
+
+> Si deve dare un poliedro convexo le cui facce sono tutte triangolari. I vertici del poliedro sono colorati utilizzando tre colori. Prova che il numero di volti con vertici in tutti e tre i colori è pari.
+
+[[src_pol_1993_r3__Q04]]

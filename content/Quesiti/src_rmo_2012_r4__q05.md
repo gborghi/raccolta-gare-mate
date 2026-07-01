@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Region 4 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_r4__Q05
 parent: src_rmo_2012_r4
 competition: Regional Mathematical Olympiad 2012
@@ -33,6 +34,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a triangle with E on BC (BE=2EC) and F midpoint of AC, find BQ/QF where BF meets AE*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RynHYch6pmp09Vp_PVUFTCMGvoAuqZ22/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un triangolo con E su BC (BE=2EC) e F punto medio di AC, trovare BQ/QF dove BF incontra AE*
+
+> Lasciate che $ABC$ sia un triangolo. Il punto $E$ deve essere un punto del segmento $BC$ tale da $BE = 2EC$. $F$ sia il punto medio di $AC$. In $Q$ si interseca $BF$. Determinare < MSK9/>.
+
+![[src_rmo_2012_r4__Q05.png]]
+
+[[src_rmo_2012_r4__Q05]]

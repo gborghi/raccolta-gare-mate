@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2004-05 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2004-05_round1__Q02
 parent: src_bmo_2004-05_round1
 competition: British Mathematical Olympiad 2004-05 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove BP bisects angle EBC using perpendicular feet and semicircle*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MAlGqoG5DzSWzk4i2wJiAtFoCn1aiHUU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che la BP divide l'angolo EBC utilizzando piedi e semicircoli perpendicolari*
+
+> Il $ABC$ sia un triangolo acuto angolato e $D$, $E$ siano i piedi delle perpendicolari da $A$, $B$ a $BC$, $CA$ rispettivamente. $P$ è il punto in cui la linea $AD$ incontra il semicircolo costruito verso l'esterno su $BC$. Provare che $BP$ taglia l'angolo $EBC$.
+
+[[src_bmo_2004-05_round1__Q02]]

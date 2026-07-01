@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2019 - Triennio (T1) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_triennio__Q20
 parent: src_archimede_2019_triennio
 competition: Giochi di Archimede 2019 - Triennio (T1)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo DFE con quadrilatero FEPO ciclico*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*DFE angle with cyclic FEPO quadrilateral*
+
+> Given a DEF triangle, the octahedron in E, is O the center of circumference to it circumscribed. Since P is the point at which the outgoing beam from E intersects the DF side, it is known that the convex quadrilateral FEPO is inscrutable in a circumference. Knowing that \ EDF = 52°, what is the width of the angle \ DFE?
+>
+> - **(A)** 24°
+> - **(B)** 22°
+> - **(C)** 26°
+> - **(D)** 30°
+> - **(E)** 28° Italian Mathematical Union Olympic Project of Mathematics Ministry of Education, University and Research The Archimedean Games - Triennial Competition 21 November 2019 • The test consists of 20 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). Only one of these answers is correct. • Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded. • For each of the problems, type the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections are not allowed. • Completely list your month of birth, gender, class. Write the other information required in the STANDARD next to the arrows, with the utmost care and precision. The use of calculators or communication tools shall not be permitted. You have 110 minutes. - Good work. Good work. Name < MSK1/> COGNOM < MSK2/> Year of birth < MSK3/> Month of birth GEN FEB MAR APR MAG GIU LUG AGO SEVEN OTT NEW DAY of birth < MSK4/> Gender F M Class 3 4 5 Section < MSK5/> GROUP of the respondents T2 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+**Answer:** A
+[[src_archimede_2019_triennio__Q20]]

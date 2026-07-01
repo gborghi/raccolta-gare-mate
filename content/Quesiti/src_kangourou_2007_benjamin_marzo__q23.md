@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q23
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo quadratini per asse di simmetria*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum squares per axis of symmetry*
+
+![[src_kangourou_2007_benjamin_marzo__prob23.png]]
+
+> We want to make sure that the figure next to it has an axis of symmetry. What's the smallest number of squares that you can blacken to get the goal? A) 4 B) 6 C) 5 D) 2 E) 3
+
+**Answer:** E
+[[src_kangourou_2007_benjamin_marzo__Q23]]

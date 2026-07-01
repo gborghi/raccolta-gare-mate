@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2017 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2017__Q09
 parent: src_garaprime_2017
 competition: Gara Nazionale Classi Prime 2017
@@ -28,6 +29,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma minima delle aree accoppiando dieci segmenti*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of areas matching ten segments*
+
+> I have ten segments of lengths, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 respectively, and I want to build five rectangles, each having one of those segments for base and height. If, in the end, I have to have used all ten segments, what is the minimum value I can get for the sum of the areas of the five rectangles? A 110 B 96 C 120 D 119 E 90 F None of the other answers are correct
+
+**Answer:** A
+[[src_garaprime_2017__Q09]]

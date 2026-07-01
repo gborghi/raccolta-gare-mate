@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f1__Q03
 parent: src_obm_2002_n2_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *TV 'with 20 polygons' means 20 along diagonal; count along diagonal for 60-polygon TV*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*TV "con 20 poligoni": 20 lungo la diagonale; contare lungo la diagonale per TV a 60 poligoni*
+
+> Dire che un televisore "ha 20 poligoni" significa che $20$ piccole piastrelle poligonali si adattano lungo la diagonale dello schermo. Quanti poligoni si adattano lungo la diagonale di un televisore che 'ha 60 poligoni', se ogni piastrella ha la stessa dimensione?
+>
+> - **(A)** $9$
+> - **(B)** $10$
+> - **(C)** $18$
+> - **(D)** $20$
+> - **(E)** $30$
+
+**Risposta:** A
+[[src_obm_2002_n2_f1__Q03]]

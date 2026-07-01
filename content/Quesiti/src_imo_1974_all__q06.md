@@ -1,6 +1,7 @@
 ---
 title: IMO 1974 (Sixteenth International Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1974_all__Q06
 parent: src_imo_1974_all
 competition: IMO 1974 (Sixteenth International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Bound n(P)-deg(P)<=2 for P(k)^2=1 integer roots*
 
@@ -35,3 +38,13 @@ tags:
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Bound n(P) -deg(P) <=2 for P(k) ^2=1 integer roots< MSK1/>
+
+> Whether $P$ is a non-constant polynomial with integer coefficients. If $n(P)$ is the number of distinct integers $k$ such as $(P(k))^2 = 1$, prove that $$n(P) - \deg(P) \leq 2,$$ where $\deg(P)$ denotes the degree of the $P$ polynomial.
+
+[[src_imo_1974_all__Q06]]

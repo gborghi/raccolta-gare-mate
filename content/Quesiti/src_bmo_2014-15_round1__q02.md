@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2014-15 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2014-15_round1__Q02
 parent: src_bmo_2014-15_round1
 competition: British Mathematical Olympiad 2014-15 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pythagorean triple with prime; prove divisibility and perfect square*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triplice di Pitagora con primo; dimostra divisibilità e quadrato perfetto*
+
+> Gli integri positivi $p$, $a$ e $b$ soddisfano l'equazione $p^2 + a^2 = b^2$. Prova che se $p$ è un primo maggiore di $3$, allora $a$ è un multiple di $12$ e $2(p + a + 1)$ è un quadrato perfetto.
+
+[[src_bmo_2014-15_round1__Q02]]

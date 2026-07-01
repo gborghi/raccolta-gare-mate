@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f3__Q05
 parent: src_obm_2012_n3_f3
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count colourings of n×n grid with 4 colours, no monochromatic 2×2 square side*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio di coloranti di n ×n griglia con 4 colori, senza monocromatiche 2×2 lato quadrato*
+
+> In quanti modi le celle di una scheda $n \times n$ possono essere colorate con colori $4$ in modo tale che nessuna delle due celle che condividono un lato abbia lo stesso colore, e in ogni quadrato $2 \times 2$ formato da quattro celle in righe e colonne consecutive appaiono tutti e quattro i colori?
+
+[[src_obm_2012_n3_f3__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q12
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Logic puzzle: six friends travelling in pairs by different transports*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il puzzle logico: sei amici che viaggiano in coppia in diversi mezzi *
+
+> Sei amici pianificano di viaggiare in coppia, ciascuna coppia utilizzando un mezzo di trasporto diverso tra i seguenti: aereo, treno e auto. Alexandre accompagna Bento. André viaggia in aereo. Carlos non accompagna Dário. Tomás non usa mai il treno. Quale delle seguenti affermazioni è corretta?
+>
+> - **(A)** Bento va in macchina e Carlos in aereo.
+> - **(B)** Dário va in treno e André in macchina.
+> - **(C)** Tomás va in treno e Bento in aereo.
+> - **(D)** Alexandre va in treno e Tomás in macchina.
+> - **(E)** André va in treno e Alexandre in macchina.
+
+**Risposta:** D
+[[src_obm_2006_n1_f1__Q12]]

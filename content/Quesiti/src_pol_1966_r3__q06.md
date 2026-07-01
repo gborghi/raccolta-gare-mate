@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1966 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1966_r3__Q06
 parent: src_pol_1966_r3
 competition: Olimpiade Matematica Polacca 1966 — Round 3
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Among six points in the plane, ratio of longest to shortest distance $\ge\sqrt{3}$*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cdDIGmzl1s3W08zQNcKL0HCsVXJ-v1sZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tra i sei punti del piano, rapporto tra la distanza più lunga e la distanza più breve $\ge\sqrt{3}$*
+
+> Sul piano si scelgono sei punti. Prova che il rapporto tra la distanza più lunga tra due punti e la distanza più breve è almeno $\sqrt{3}$.
+
+[[src_pol_1966_r3__Q06]]

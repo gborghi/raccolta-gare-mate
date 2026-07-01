@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1984-85 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1984-85_round2__Q01
 parent: src_bmo_1984-85_round2
 competition: British Mathematical Olympiad 1984-85 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tangent lines to circle from midpoints of chord AB*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** \cos\theta = \frac{1}{\sqrt{3}}
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Line tangenti a cerchio dai punti di mezzo dell'accordo AB*
+
+> O è un punto fuori da un cerchio. Due linee OAB, OCD e O si incontrano al cerchio a A, B, C, D con $A$, $C$, rispettivamente i punti di mezzo di $OB$ e $OD$. Inoltre l'angolo acuto $\theta$ tra le linee è uguale all'angolo acuto a cui ciascuna linea taglia il cerchio. Trova $\cos\theta$ e mostra che le tangenti di $A$, $B$ al cerchio si incontrano sulla linea $BC$.
+
+**Risposta:** \cos\theta = \frac{1}{\sqrt{3}}
+[[src_bmo_1984-85_round2__Q01]]

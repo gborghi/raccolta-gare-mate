@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f2__Q02
 parent: src_obm_2004_n2_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to shade one cell per row and column in 4x4 grid*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rDWi4aChRBskadFdiGfO9ekGjbo_vFkU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i modi per ombrare una cella per riga e colonna nella griglia 4x4*
+
+> In quanti modi possiamo ombrare quattro celle di una griglia $4 \times 4$ in modo che ogni riga e ogni colonna contengano esattamente una cellula ombrata?
+
+[[src_obm_2004_n2_f2__Q02]]

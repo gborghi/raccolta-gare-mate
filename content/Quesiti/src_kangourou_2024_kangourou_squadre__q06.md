@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_kangourou_squadre__Q06
 parent: src_kangourou_2024_kangourou_squadre
 competition: Kangourou Squadre 2024 Kangourou Finale 1
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo DKC su semicirconferenza*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0070
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1H4evp3ENM3JXuKHssVIkxKmXh6l0-t0_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Angle DKC on the semicircular < MSK1/>
+
+> The angle On a semicircular diameter AD and center M, points B and C are such that the angle CAD ̂ measures 50 degrees and BM is perpendicular to AC. Let K be the point where AC cuts BD. How many degrees does the angle DKC ̂ measure?
+
+**Answer:** 0070
+[[src_kangourou_2024_kangourou_squadre__Q06]]

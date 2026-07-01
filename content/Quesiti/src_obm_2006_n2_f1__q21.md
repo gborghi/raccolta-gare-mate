@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q21
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Simplify nested radical expression*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Semplificare l'espressione radicale annidata< MSK1/>
+
+> Semplificando l'espressione $$\sqrt{2+\sqrt{3}}\cdot\sqrt{2+\sqrt{2+\sqrt{3}}}\cdot\sqrt{2+\sqrt{2+\sqrt{2+\sqrt{3}}}}\cdot\sqrt{2-\sqrt{2+\sqrt{2+\sqrt{3}}}}$$ otteniamo:
+> 
+> **A) ** $\sqrt{2}$ \quad **B) ** $\sqrt{3}$ \quad **C) ** $1$ \quad **D) ** $2+\sqrt{2}$ \quad **E) ** $2+\sqrt{3}$
+
+**Risposta:** B
+[[src_obm_2006_n2_f1__Q21]]

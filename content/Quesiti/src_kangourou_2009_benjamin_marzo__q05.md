@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q05
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Variazione di perimetro accostando due E*
 
@@ -57,3 +60,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Variation of perimeter approaching two E*
+
+![[src_kangourou_2009_benjamin_marzo__prob5.png]]
+
+> The letter E you see in the figure on the left was obtained by drawing 11 squares of 1 cm on the side. By joining two of these E equals as shown in the figure to the right, you get a new figure. The perimeter of this new figure, compared with that of the letter E, is A) shorter than 4 cm. B) Shorter than 2 cm. (c) equal. D) more than 2 cm long. E) more than 4 cm long. A B C D Texts_09.qxp 15-04-2009 20:25 Page 10
+> 
+> I'm going to pay. I'm going to pay. 11 11 Kang 2009 Kang 2009
+
+**Answer:** A
+[[src_kangourou_2009_benjamin_marzo__Q05]]

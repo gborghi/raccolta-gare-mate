@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo14yq_yosen__Q10
 parent: src_jjmo14yq_yosen
 competition: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of non-convex quadrilateral with reflex angle at D*
 
@@ -48,3 +51,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Area di quadrilaterale non convexa con angolo riflesso a D< MSK1/>
+
+> C'è un quadrilaterale non converso $ABCD$ il cui angolo interno alla verticale $D$ è maggiore di $180^\circ$, con $AB : CD = \sqrt{2} : 1$, $AD = 2$ e $BC = 1$. Il $E$ deve essere l'intersezione della linea $BC$ con la linea $AD$, e il $F$ deve essere l'intersezione della linea $AB$ con la linea $CD$. Supponiamo < MSK12/>. Trova l'area del quadrilaterale $ABCD$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+![[src_jjmo14yq_yosen__Q10.png]]
+
+**Risposta:** \dfrac{3-\sqrt{2}}{2}
+[[src_jjmo14yq_yosen__Q10]]

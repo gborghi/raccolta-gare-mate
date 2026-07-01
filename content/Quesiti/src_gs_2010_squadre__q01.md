@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2010 - Gara a squadre — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2010_squadre__Q01
 parent: src_gs_2010_squadre
 competition: Coppa Fermat 2010 - Gara a squadre
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza percorsa dal cane in tre ore*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 36
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Distance traveled by the dog in three hours< MSK1/>
+
+> The following information shall be provided:
+> 
+> Frank takes the dog for a walk along the east wall of the penitentiary, perfectly straight and 9 km long. They leave the prison gate, right at the beginning of the east wall, side by side, and they start a game: Frank throws the ball, the dog returns it to him, Frank picks it up immediately, and just as instantly the dog leaves behind the ball. For the duration of the game, Frank walks 6 km/h and the dog walks 12 km/h. When they reach the end of the wall, they return and continue to play until the gate. How far can Frank get the dog to go by throwing the ball properly? Give the answer in hm.
+
+**Answer:** 36
+[[src_gs_2010_squadre__Q01]]

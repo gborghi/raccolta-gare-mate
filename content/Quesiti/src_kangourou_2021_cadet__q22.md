@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q22
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Domande senza risposta dato il punteggio 100*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Unanswered questions given the score 100*
+
+> A test consists of 20 questions. Each correct answer is worth 7 points, each wrong answer is worth  4 points and each unanswered question is worth 0 points. Enrico took the test and scored 100 points. How many questions didn't you answer? A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 3
+> 	
+> E) 4
+
+**Answer:** B
+[[src_kangourou_2021_cadet__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_2livello__Q07
 parent: src_archimede_2022_2livello
 competition: Archimede Gara di Febbraio 2022 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giustapposizione di x e y uguale a 7xy, somma x+y*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Setting of x and y equal to 7xy, sum of x+y*
+
+> On the board is written the multiplication x × y, where x and y are three-digit positive integers. Nicolás, a bit sloppy, did not notice the symbol of multiplication and copied on his notebook the six-digit number obtained by juxtaposing x and y. The teacher, passing between the benches, notices Nicolò that the number he writes is equal to 7 times the product xy. How much is the sum of x plus y?
+>
+> - **(A)** 125
+> - **(B)** 286
+> - **(C)** 312
+> - **(D)** 487
+> - **(E)** 513
+
+**Answer:** B
+[[src_archimede_2022_2livello__Q07]]

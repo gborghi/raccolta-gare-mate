@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q13
 parent: src_kangourou_2019_junior_semifinale_a
 competition: Kangourou Coppa Junior squadre 2019 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo archi grafo connesso senza triangoli 99 punti*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2450
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qvyGTt8fMV3U7A9REDKvAdJtpkkgdYbx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most connected graph arcs without triangles 99 points*
+
+> 99 points In space 99 distinct points are assigned so that there are no four planners. Some points are connected by segments so that each of the 99 points is reachable (through the traced segments) from each of the others (i.e. if there is a connected graph), but the traced segments do not form any triangle. What is the maximum number of segments traced (i.e. the number of arcs in the graph)?
+
+**Answer:** 2450
+[[src_kangourou_2019_junior_semifinale_a__Q13]]

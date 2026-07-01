@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2017-18 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2017-18_round1__Q01
 parent: src_bmo_2017-18_round1
 competition: British Mathematical Olympiad 2017-18 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compare sums of remainders of 365 by 1..365 and 366 by 1..366*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Compare le somme dei rimanenti di 365 per 1,365 e 366 per 1,366*
+
+> Helen divide $365$ per ciascuno di $1, 2, 3, \ldots, 365$ a sua volta, scrivendo un elenco dei rimanenti $365$. Quindi Phil divide $366$ per ciascuno di $1, 2, 3, \ldots, 366$ a sua volta, scrivendo un elenco dei rimanenti $366$. Di chi è la lista dei rimanenti che ha la somma maggiore e per quanto?
+
+[[src_bmo_2017-18_round1__Q01]]

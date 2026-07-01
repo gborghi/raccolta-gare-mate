@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Triennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_triennio__Q20
 parent: src_archimede_2000_triennio
 competition: Giochi di Archimede 2000 - Triennio
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie ordinate di interi con mcm uguale a 2000*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total ordered pairs with mcm equal to 2000*
+
+> How many pairs of integers (a, b) with 1 < a < 2000, 1 < b < 2000 are such that the minimum common multiple between a and b is 2000?
+>
+> - **(A)** 14
+> - **(B)** 20
+> - **(C)** 24
+> - **(D)** 40
+> - **(E)** 48.
+
+**Answer:** C
+[[src_archimede_2000_triennio__Q20]]

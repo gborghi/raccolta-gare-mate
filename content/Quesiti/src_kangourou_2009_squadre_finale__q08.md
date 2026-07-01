@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 squadre finale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_squadre_finale__Q08
 parent: src_kangourou_2009_squadre_finale
 competition: Kangourou 2009 squadre finale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Segmento x per trasformare rettangolo in quadrato*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 27
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zcOfkJophEQFaCFEm81eZU0qj5IshQAB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*segment x for converting rectangle into square*
+
+![[src_kangourou_2009_squadre_finale__prob8.png]]
+
+> The rectangle becomes a square The figure shows the lines along which Mark cut a cardboard rectangle, the sides of which measured 36 and 81 centimeters, obtaining two triangles and a pentagon. By timely joining the three pieces, Marco was able to make a square. How many centimeters is the length of the segment indicated by x?
+
+**Answer:** 27
+[[src_kangourou_2009_squadre_finale__Q08]]

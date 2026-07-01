@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f1__Q04
 parent: src_obm_2016_n3_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Whether a pyramid over a regular 2016-gon can have 1008 congruent lateral faces; conclusion it cannot*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Se una piramide sopra un normale 2016-gon può avere 1008 facce laterali congruenti; conclusione non può*
+
+> Che $A_1A_2\dots A_{2016}$ sia un poligono regolare che forma la base di una piramide, e che l'apice sia sulla linea perpendicolare alla base attraverso la diagonale $A_1A_{1009}$, così posizionata che la proiezione ortogonale dell'apice sul piano di base sia distinta dal centro del poligono. La piramide ha facce laterali congruenti o non triangolari $2016$; si chiede se sia possibile scegliere facce laterali $1008$ congruenti in coppia e che non condividano un bordo comune in coppia. La soluzione dimostra che ci sono al massimo $1008$ classi di facce congruenti, e secondo il principio del buco di piccione la configurazione che costringe la proiezione dell'apice ad essere il circosentro è assurda, poiché la piramide non è regolare. È possibile una tale scelta di facce laterali congruenti < MSK5/>? [La chiave di risposta indica la conclusione (opzione B).]
+
+**Risposta:** B
+[[src_obm_2016_n3_f1__Q04]]

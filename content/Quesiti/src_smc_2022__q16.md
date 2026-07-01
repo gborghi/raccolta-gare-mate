@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2022 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2022__Q16
 parent: src_smc_2022
 competition: Senior Mathematical Challenge 2022
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify which of five graphs could be a sketch of the curve sqrt(x) + sqrt(y) = 1.*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare quale dei cinque grafici potrebbe essere uno schema della curva sqrt(x) + sqrt(y) = 1.*
+
+> Quale diagramma potrebbe essere uno schema della curva $\sqrt{x} + \sqrt{y} = 1$?
+>
+> - **(A)** [Diagramma A]
+> - **(B)** [Diagramma B]
+> - **(C)** [Diagramma C]
+> - **(D)** [Diagramma D]
+> - **(E)** [Diagramma E]
+
+![[src_smc_2022__Q16.png]]
+
+**Risposta:** B
+[[src_smc_2022__Q16]]

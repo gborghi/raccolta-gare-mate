@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f1__Q17
 parent: src_obm_2014_n1_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Full class, students claim 24 or other numbers; some lie, some tell truth; total students*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Classe completa, gli studenti rivendicano 24 o altri numeri; alcuni mentono, altri dicono la verità; studenti totali*
+
+> In una classe completa, l'insegnante chiede quanti studenti hanno studiato per l'esame. Molti studenti rispondono. Quelli che hanno studiato dicono la verità; quelli che non hanno studiato mentono. Se MSK0/ dice la verità, quanti studenti ci sono nella stanza?
+> 
+> (A) $38$ \quad (B) $40$ \quad (C) $42$ \quad (D) $44$ \quad (E) $55$
+
+[[src_obm_2014_n1_f1__Q17]]

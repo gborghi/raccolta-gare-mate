@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q20
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of integer solutions of a cyclic system of three quadratics*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di soluzioni integrali di un sistema ciclico di tre quadratici*
+
+> Qual è il numero di soluzioni interi $(x,y,z)$ del sistema $$\begin{cases} x^2 - 6y = 2z - 15 \\ y^2 - 6z = 2x - 15 \\ z^2 - 6x = 2y - 15 \end{cases}$$ (A) $1$ (B) $2$ (C) $4$ (D) $8$ (E) infinito
+
+[[src_obm_2014_n3_f1__Q20]]

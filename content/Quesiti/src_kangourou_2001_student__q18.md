@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Student (15 marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_student__Q18
 parent: src_kangourou_2001_student
 competition: Kangourou 2001 - Student (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero piu piccolo tra le espressioni*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Littleest number among the expressions *
+
+> The hypotenuse of a right triangle is 0.9 cm long while the lengths of the catheters are a cm and b cm. Which is the smallest of the following numbers?
+>
+> - **(A)** a² + b²
+> - **(B)** (a + b)²
+> - **(C)** 0,9
+> - **(D)** a + b
+> - **(E)** ab.
+
+**Answer:** E
+[[src_kangourou_2001_student__Q18]]

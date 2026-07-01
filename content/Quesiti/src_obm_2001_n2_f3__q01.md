@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f3__Q01
 parent: src_obm_2001_n2_f3
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fold a rectangular sheet along its diagonal, then so C meets A; show the crease quadrilateral is a rhombus and find its area*
 
@@ -50,3 +53,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Piegare un foglio rettangolare lungo la sua diagonale, quindi in modo che C incontra A; mostrare il quadrilaterale pieghevole è un rombo e trovare la sua area*
+
+> Un foglio di carta rettangolare $ABCD$, di superficie $1$, viene ripiegato lungo la sua diagonale $AC$ e poi ripiegato; successivamente viene ripiegato in modo che il vertice $C$ coincida con il vertice $A$, e poi ripiegato, lasciando la piega $MN$, come nel disegno di seguito.
+> 
+> < MSK1/>a) < MSK2/> Mostra che il quadrilaterale < MSK0/> è un rombo.
+> 
+> **b) ** Se la diagonale $AC$ è doppia della larghezza $AD$, qual è l'area del rombo $AMCN$?
+
+![[src_obm_2001_n2_f3__Q01.png]]
+
+[[src_obm_2001_n2_f3__Q01]]

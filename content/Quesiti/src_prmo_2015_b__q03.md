@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_b__Q03
 parent: src_prmo_2015_b
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -33,6 +34,8 @@ tags:
   - regione/b
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers a,b with a+b=a/b+b/a; find a²+b²*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieri interi positivi a,b con a+b=a/b+b/a; trovare a2+b2*
+
+> I numeri interi positivi $a$ e $b$ sono tali da $a + b = a/b + b/a$. Qual è il valore di $a^2 + b^2$?
+
+**Risposta:** 2
+[[src_prmo_2015_b__Q03]]

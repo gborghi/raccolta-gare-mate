@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin semifinale individuale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q12
 parent: src_kangourou_2022_benjamin_semifinale
 competition: Kangourou 2022 Benjamin semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chilometri percorribili con la benzina nel serbatoio*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0250
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Detail mileage with petrol in the tank*
+
+![[src_kangourou_2022_benjamin_semifinale__prob12.png]]
+
+> (5 points) In the figure, see the indicator of the amount of gasoline in the tank of a car. When full, the tank contains 60 litres of gasoline and the car consumes 8 litres of gasoline every 100 kilometers. With the gas now in the tank, how many miles can the car go?
+
+**Answer:** 0250
+[[src_kangourou_2022_benjamin_semifinale__Q12]]

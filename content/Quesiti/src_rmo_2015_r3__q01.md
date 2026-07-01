@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r3__Q01
 parent: src_rmo_2015_r3
 competition: Regional Mathematical Olympiad 2015
@@ -29,6 +30,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two circles; midpoint of arc-chord lies on second circle*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HpOXyY027T7yrJIPYwmXafLpB_7tE0uA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi; il punto medio della corda d'arco si trova sul secondo cerchio*
+
+> Due cerchi $\Gamma$ e $\Sigma$, con centri $O$ e $O'$, rispettivamente, sono tali che $O'$ si trova su $\Gamma$. Il $A$ deve essere un punto sul $\Sigma$ e $M$ il punto medio del segmento $AO'$. Se $B$ è un punto su $\Sigma$ diverso da $A$ in modo tale che $AB$ sia parallelo a $OM$, indicare che il punto medio di $AB$ si trova su $\Gamma$.
+
+![[src_rmo_2015_r3__Q01.png]]
+
+[[src_rmo_2015_r3__Q01]]

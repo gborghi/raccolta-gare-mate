@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2021 Finale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q06
 parent: src_kangourou_2021_squadre_finale
 competition: Kangourou Coppa squadre 2021 Finale
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo AEG con due quadrati adiacenti*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AEG triangle area with two adjacent squares*
+
+> The triangle The side of an ABCD square measures 19 cm. On the CD side a G-point is located and, externally to the ABCD square, the 14 cm side GCEF square is constructed. What is the area in square centimetres of the AEG triangle?
+
+[[src_kangourou_2021_squadre_finale__Q06]]

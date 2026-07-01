@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2012 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2012__Q17
 parent: src_bocconi_rosi_2012
 competition: Giochi di Rosi 2012
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di torte che Carla può fare*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1du4nM_pjVseEMRiX1hz7hrTEkEIg-ZC2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of cakes Carla can make
+
+> To make a cake, Carla needs six eggs, 500 grams. of flour, 300 g. of sugar and 150 g. I'm going to get some butter. Today, she found out that she has two packs of 250g of butter in her kitchen. Two kilos each. of flour, one kilogram. Sugar and two dozen eggs.
+> 
+> How many cakes can Carla make at most?
+
+**Answer:** 3
+[[src_bocconi_rosi_2012__Q17]]

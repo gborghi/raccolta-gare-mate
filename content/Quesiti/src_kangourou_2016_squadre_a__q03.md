@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2016 Semifinale A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_a__Q03
 parent: src_kangourou_2016_squadre_a
 competition: Kangourou Coppa Squadre 2016 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di x se numero centrale (9x) di 9 consecutivi*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 499
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of x if the central number (9x) is 9 consecutive*
+
+> The central number The sum of 9 consecutive integers is 31000; the central number is 9x. How much is x ?
+
+**Answer:** 499
+[[src_kangourou_2016_squadre_a__Q03]]

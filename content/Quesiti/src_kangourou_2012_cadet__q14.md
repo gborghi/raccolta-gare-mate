@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q14
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura dell'angolo in A del pentagono stellato*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measure of the angle in A of the starry pentagon*
+
+![[src_kangourou_2012_cadet__prob14.png]]
+
+> The figure shows a stellar pentagon and the degree measurements of some of the angles formed by its sides. How many degrees does the angle in A measure? A) 35 B) 42 C) 51 D) 65 E) 109
+
+**Answer:** C
+[[src_kangourou_2012_cadet__Q14]]

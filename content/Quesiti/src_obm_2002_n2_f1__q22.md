@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f1__Q22
 parent: src_obm_2002_n2_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Alice grows and shrinks successively; net height change after four steps*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Alice cresce e si riduce successivamente; variazione netta di altezza dopo quattro passi*
+
+> Durante un viaggio nel paese delle meraviglie, Alice ha sperimentato i seguenti quattro cambiamenti in successione: prima, è diventata $25\%$ più alta; successivamente, è diventata $10\%$ più corta; poi è diventata $10\%$ più alta; infine, è diventata $25\%$ più corta. Dopo i quattro cambiamenti, possiamo dire che Alice:
+>
+> - **(A)** era più alto di < MSK0/>.
+> - **(B)** era più alto di < MSK0/>.
+> - **(C)** è stato < MSK0/> più breve.
+> - **(D)** è stato < MSK0/> più breve.
+> - **(E)** era più alto di < MSK0/>.
+
+**Risposta:** C
+[[src_obm_2002_n2_f1__Q22]]

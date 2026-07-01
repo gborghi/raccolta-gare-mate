@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q26
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima somma numeri nella griglia di 2018 quadretti*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum sum of numbers in the grid for 2018 squares*
+
+![[src_kangourou_2018_junior_marzo__prob26.png]]
+
+> Look at the picture: Diana drew a rectangular grid of 12 squares on a square sheet, then blacked out some of the squares, and on each remaining white square she wrote down the number of black squares that share a side with it. Now it does the same thing with a rectangular grid of 2018 squares. What is the maximum value you can get if you add up all the numbers in the grid? A) 1262 B) 2017 C) 2018 D) 3025 E) 3027
+
+**Answer:** D
+[[src_kangourou_2018_junior_marzo__Q26]]

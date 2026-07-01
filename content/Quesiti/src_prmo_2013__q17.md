@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2013__Q17
 parent: src_prmo_2013
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2013
@@ -31,6 +32,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Radius of circle S1 given circle configuration with angle YXO=30 and radius of S2=100*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Radius del cerchio S1 data configurazione del cerchio con angolo YXO=30 e raggio S2=100*
+
+> Il $S$ deve essere un cerchio con il centro $O$. Un accordo $AB$, non di diametro, divide $S$ in due regioni $R_1$ e $R_2$ in modo tale che $O$ appartiene a $R_2$. Il $S_1$ deve essere un cerchio con centro in $R_1$, toccando $AB$ a $X$ e $S$ internamente. Il $S_2$ deve essere un cerchio con centro in $R_2$, che tocchi $AB$ a $Y$, il cerchio $S$ internamente e attraversa il centro di $S$. Il punto $X$ si trova sul diametro che attraversa il centro di $S_2$ e $Y$. Se $\angle YXO = 30^\circ$ e il raggio di $S_2$ è di 100, qual è il raggio di $S_1$?
+
+[[src_prmo_2013__Q17]]

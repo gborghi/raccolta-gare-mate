@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q12
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Wooden cube with 3 red and 3 blue faces cut into 27; count cubes with red and blue face*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>cubo di legno con 3 facce rosse e 3 facce blu tagliati in 27; cubbi di conteggio con facce rosse e blu< MSK1/>
+
+> Ho un cubo di legno, con tre facce rosse e tre facce blu, in modo che facce opposte abbiano colori diversi. Il cubo viene tagliato in $3 \times 3 \times 3 = 27$ cubetti più piccoli. Quanti di questi cubetti più piccoli hanno, allo stesso tempo, una faccia rossa e un'altra blu?
+> 
+> (A) $6$ (B) $12$ (C) $13$ (D) $14$ (E) $16$
+
+[[src_obm_2008_n3_f1__Q12]]

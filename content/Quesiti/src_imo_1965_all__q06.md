@@ -1,6 +1,7 @@
 ---
 title: IMO 1965 (Seventh International Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1965_all__Q06
 parent: src_imo_1965_all
 competition: IMO 1965 (Seventh International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prove number of diameters of n-point set is at most n*
 
@@ -35,3 +38,13 @@ tags:
 **Metodo:** [[method_estremalita|Principio di estremalita]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tk-D3Xruwl2WK5FPEf9VF-YTvWxYxD4K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Prove number of diameters of n-point set is at most n*
+
+> A set of $n$ points ($n \geq 3$) is given in a plane. Each pair of points is connected by a segment. Whether $d$ the length of the longest of these segments. The diameter of the assembly of any length $d$ link segment is defined. Demonstrate that the number of diameters of the given set is at most $n$.
+
+[[src_imo_1965_all__Q06]]

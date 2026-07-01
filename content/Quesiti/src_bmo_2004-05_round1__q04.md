@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2004-05 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2004-05_round1__Q04
 parent: src_bmo_2004-05_round1
 competition: British Mathematical Olympiad 2004-05 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Least possible largest term in arithmetic progression of four distinct primes*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 23
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MAlGqoG5DzSWzk4i2wJiAtFoCn1aiHUU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il minimo termine possibile più grande nella progressione aritmetica di quattro numeri primi distinti*
+
+> Determinare il minimo valore possibile del termine più grande in una progressione aritmetica di quattro numeri primi distinti.
+
+**Risposta:** 23
+[[src_bmo_2004-05_round1__Q04]]

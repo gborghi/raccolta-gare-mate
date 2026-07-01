@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_b__Q03
 parent: src_cesenatico_2011_semifinale_b
 competition: Gara a Squadre Cesenatico 2011 - Semifinale B
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Gemme nei punti di incontro di corde in 127-agono*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 7620
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Gems at the 127-acre rope junction points*
+
+> Trivial jewellery Julius Caesar wishes to give a precious jewel to the furious Cleopatra to obtain her forgiveness. The monolith is made by taking the vertices of a regular 127-agon on a circumference and connecting with gold wires the vertices that are 61 vertices apart from each other (two adjacent vertices distant 1). Knowing that at every point within the circumference where these threads meet Julius Caesar wants to lay a precious stone, how many gems will he need?
+
+**Answer:** 7620
+[[src_cesenatico_2011_semifinale_b__Q03]]

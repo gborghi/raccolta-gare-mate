@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1971 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1971_r3__Q01
 parent: src_pol_1971_r3
 competition: Olimpiade Matematica Polacca 1971 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Infinite sequence of distinct integers with no digit 0*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza infinita di numeri interi distinti senza cifra 0*
+
+> Mostrare che se $(a_n)$ è una sequenza infinita di numeri interi positivi distinti, nessuno dei quali contiene la cifra $0$ nell'espansione decimale, allora $$\sum_{i=1}^{\infty} \frac{1}{a_i} < 29.$$
+
+[[src_pol_1971_r3__Q01]]

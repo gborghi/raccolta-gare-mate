@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2006 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2006__Q02
 parent: src_cn_cwmo_2006
 competition: China Western Mathematical Olympiad 2006
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest k so that product of two quadratics has a real root*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La k più piccola in modo che il prodotto di due quadratici abbia una radice reale*
+
+> Trovare il numero positivo $k$ più piccolo in modo che per tutti i quattro dati numeri reali $a$, $b$, $c$ e $d$, ciascuno più grande o uguale a $k$, esiste una permutazione $p$, $q$, $r$ e $s$ di $a$, $b$, $c$, $d$ in modo che l'equazione $$(x^2 + px + q)(x^2 + rx + s) = 0$$ abbia almeno una radice reale.
+
+**Risposta:** 4
+[[src_cn_cwmo_2006__Q02]]

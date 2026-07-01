@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Benjamin 2024 — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin__Q21
 parent: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei numeri sulle facce appoggiate (tre dadi)*
 
@@ -50,3 +53,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of numbers on the faces supported (three dice) *
+
+![[src_kangourou_2024_benjamin__prob21.png]]
+
+> In the figure, you see three identical special dice resting on a table. What is the sum of the numbers on the faces on the table? A) 26
+> 	
+> B) 40
+> 	
+> C) 43
+> 	
+> D) 47
+> 	
+> E) 56
+
+**Answer:** C
+[[src_kangourou_2024_benjamin__Q21]]

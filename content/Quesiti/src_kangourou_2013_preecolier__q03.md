@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Pre-Ecolier — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_preecolier__Q03
 parent: src_kangourou_2013_preecolier
 competition: Kangourou 2013 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Abito con tra 5 e 7 bottoni*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykejBpK7Wiwv-x_5BvjdytAue5Y_N6nU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Working with between 5 and 7 buttons*
+
+![[src_kangourou_2013_preecolier__prob3.png]]
+
+> Which of the following dresses has fewer than seven buttons, but more than five buttons? A) B) C)
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** A
+[[src_kangourou_2013_preecolier__Q03]]

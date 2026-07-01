@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f1__Q01
 parent: src_obm_1999_n1_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Small truck: 50 bags or 400 bricks; how many bricks when 32 bags are loaded?*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+* Piccolo camion: 50 sacchetti o 400 mattoni; quanti mattoni quando sono carichi 32 sacchetti?*
+
+> Un piccolo camion può trasportare 50 sacchi di sabbia o 400 mattoni. Se sul camion erano caricati 32 sacchi di sabbia, quante mattoni può ancora trasportare?
+> 
+> (A) 132 \quad B) 144 \quad C) 146 \quad D) 148 \quad E) 152
+
+**Risposta:** B
+[[src_obm_1999_n1_f1__Q01]]

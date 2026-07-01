@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Semifinale A — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_a__Q02
 parent: src_kangourou_2014_squadre_a
 competition: Kangourou Coppa Squadre 2014 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nella quarta cella griglia 100x100 progressioni*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 892
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13RPbV6jD8L6xyoxCaJ3EBEpfyfUl_RIA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the fourth grid cell 100x100 steps*
+
+![[src_kangourou_2014_squadre_a__prob2.png]]
+
+> Average grid In each of the boxes of a grid 100 < MSK0/> 100 a positive integer has been entered. Each number entered is the arithmetic mean of both the two numbers adjacent to it vertically, and the two numbers adjacent to it horizontally, and the two numbers adjacent to it diagonally (when the two numbers exist). The figure shows you which numbers were entered into three of the top boxes. What number was entered in the fourth?
+
+**Answer:** 892
+[[src_kangourou_2014_squadre_a__Q02]]

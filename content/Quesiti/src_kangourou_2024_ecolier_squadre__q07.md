@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre__Q07
 parent: src_kangourou_2024_ecolier_squadre
 competition: Kangourou Squadre 2024 Ecolier Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima somma cinque interi con vincolo terne*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0035
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of five integers with ternary binding *
+
+> Five numbers Five integers greater than zero are all different from each other. However you choose three of the five numbers, their sum is greater than the sum of the other two. What is the smallest possible value for the sum of these five numbers? The answer is 0035.
+
+**Answer:** 0035
+[[src_kangourou_2024_ecolier_squadre__Q07]]

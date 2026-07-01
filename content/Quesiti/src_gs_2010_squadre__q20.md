@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2010 - Gara a squadre — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2010_squadre__Q20
 parent: src_gs_2010_squadre
 competition: Coppa Fermat 2010 - Gara a squadre
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio coprimi minori di p/2 con Eulero*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 264
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Counting minor p/2 coatings with Eulero< MSK1/>
+
+> **Paper stars, II** (points 60)
+> 
+> Helping Reverend James, instead of scoring 2011 distinct points on the circumference, Jake scored 2010. How many different types of stars can you draw?
+
+**Answer:** 264
+[[src_gs_2010_squadre__Q20]]

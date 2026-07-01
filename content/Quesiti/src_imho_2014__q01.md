@@ -1,6 +1,7 @@
 ---
 title: IMO 2014 (LV International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2014__Q01
 parent: src_imho_2014
 competition: IMO 2014 (LV International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Infinite sequence of positive integers with a ratio bound*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Infinite sequence of positive integers with a ratio bound*
+
+> Let MSK1 be an infinite sequence of positive integers. Prove that there exists a unique integer $n \ge 1$ such that $$a_n < \frac{a_0 + a_1 + \cdots + a_n}{n} \le a_{n+1}.$$
+
+[[src_imho_2014__Q01]]

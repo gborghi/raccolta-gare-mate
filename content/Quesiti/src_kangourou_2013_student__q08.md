@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q08
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di catturati dal quarto eroe*
 
@@ -53,3 +56,22 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number captured by the fourth hero*
+
+> Six superheroes capture 20 villains. The first superhero catches one, the second two, and the third three; the fourth catches more villains than each of his five colleagues. What's the minimum number of villains that must have captured the fourth superhero? A) 7
+> 	
+> B) 6
+> 	
+> C) 5
+> 	
+> D) 4
+> 	
+> E) 3 (33) (33–1) (23) (32) 3 √
+>
+
+[[src_kangourou_2013_student__Q08]]

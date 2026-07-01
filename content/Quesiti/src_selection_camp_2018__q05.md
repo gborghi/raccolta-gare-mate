@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2018__Q05
 parent: src_selection_camp_2018
 competition: Japan IMO Selection Camp 2018 — Selection Camp
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Only finitely many subsets S of {1,...,n} with |S|≥√n+1 and all products xy being perfect powers*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jASM40MHMk6NMhN2bMvDto4r4rOWEBtP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solo finitamente molti sottoinsiemi S di {1,...,n} con S ≥ √n+1 e tutti i prodotti xy sono potenze perfette*
+
+> Prove che ci sono solo finitamente molti interi positivi $n$ per i quali esiste un sottoinsieme $S \subseteq \{1, 2, \ldots, n\}$ che soddisfa le seguenti due condizioni: \begin{itemize} \item Il numero di elementi di $S$ è almeno $[\sqrt{n}] + 1$. \item Per due elementi $x, y \in S$, il prodotto $xy$ è una potenza perfetta, cioè un intero che può essere espresso come $a^b$ per un intero positivo $a$ e un intero $b \ge 2$. \end{itemize} Qui, per un numero reale $r$, $[r]$ indica il numero intero più grande non superiore a $r$.
+
+[[src_selection_camp_2018__Q05]]

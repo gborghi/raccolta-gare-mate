@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2021__Q06
 parent: src_tfjm_2021
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021
@@ -36,6 +37,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distribute N gift bags among two TFJM committees joined in a tree of neighbor relations; each move along an edge costs 1; minimize total transfer cost*
 
@@ -90,3 +93,47 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_SfCnSHm4hFbj_TGxa2GoahJiFYpdibk/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Distribuire N sacchetti regalo tra due comitati TFJM uniti in un albero di relazioni vicine; ogni mossa lungo un bordo costa 1; ridurre al minimo il costo totale di trasferimento*
+
+> Ogni anno il comitato organizzativo del TFJM$^2$ viene parzialmente rinnovato. I volontari del comitato organizzatore dell'anno in corso ricevono borse TFJM$^2$.
+> 
+> Il comitato organizzativo di Louis per l'anno 2020 era composto da volontari $b_1 \ge 4$ numerati $L_1, L_2, L_3, \cdots, L_{b_1}$. Tra questi volontari c'era anche Anais, che è il numero $L_1$. Il comitato organizzativo per l'anno 2021 è composto da volontari $b_2 \ge 4$ $A_1, A_2, A_3, \cdots, A_{b_2}$. Tra questi volontari c'è Louis, che è il numero $A_1$. Oltre a Anais e Louis, gli unici membri di entrambi i comitati sono $L_2 = A_{b_2}$ e $A_2 = L_{b_1}$.
+> 
+> Alcuni volontari sono vicini: - Anais ha $b_2$ vicini che sono membri del suo comitato, cioè $A_1, A_2, \ldots, A_{b_2}$. - Louis ha $b_1$ vicini che sono membri del suo comitato, cioè $L_1, L_2, \ldots, L_{b_1}$. - per < MSK4/>, il volontario < MSK5/> ha < MSK6/> vicini: < MSK7/>, < MSK8/> e Louis. - Per < MSK9/>, il volontario < MSK10/> ha < MSK11/> vicini: < MSK12/>, < MSK13/> e Anais. - Il volontario < MSK14/> ha < MSK15/> vicini: < MSK16/>, < MSK17/>, < MSK18/> e Louis. - Il volontario < MSK19/> ha < MSK20/> vicini: < MSK21/>, < MSK22/>, < MSK23/> e Anais.
+> 
+> Ad esempio, se Louis aveva $b_1=5$ volontari tra cui Anais, e Anais aveva $b_2=4$ volontari tra cui Louis, allora le relazioni sono rappresentate come nella Figura 7.
+> 
+> Quest'anno, il postino ha ricevuto cattive istruzioni e un totale di sacchetti $N$ TFJM$^2$ arrivano agli indirizzi del comitato di Louis secondo la seguente distribuzione: - ogni membro del comitato di Louis, tranne Louis, riceve un pacchetto $1$ fatto di sacchetti $j_1$; - Louis riceve i restanti sacchetti $N - j_1 b_1$.
+> 
+> Vogliono trasmettere le borse al comitato di Anais. Anais desidera che tutti i volontari del suo comitato abbiano esattamente $1$ pacchetto di sacchetti $j_2$ (eccetto lei stessa), e conserverà i rimanenti sacchetti $N - b_2 j_2$ per i partecipanti.
+> 
+> Ogni borsa può essere spostata successivamente tra i volontari vicini, ma ogni mossa comporta un costo di $1$. Quindi il costo totale è il numero totale di volte che una borsa è stata spostata tra due vicini.
+> 
+> La figura 8 illustra un esempio di una scelta di trasferimenti con $j_1=6$, $j_2=7$, $b_1=5$ e $b_2=4$. I numeri delle borse sono inizialmente rappresentati in arancione. Questa scelta di trasferimenti consiste nel effettuare il trasferimento di sacchetti lungo le frecce arancione, poi lungo la freccia blu scuro, e infine nel effettuare il trasferimento di sacchetti lungo le frecce blu chiaro. Il numero di sacchetti spostati ad ogni trasferimento è scritto accanto alla freccia corrispondente. Una volta effettuati i trasferimenti, il numero di borse di ciascun volontario, indicato in blu, è in effetti quello previsto. Il costo totale di tali trasferimenti è $b_1 \times j_1 + N + b_2 \times j_2 = 5\times 6 + 100 + 4\times 7 = 158$.
+> 
+> Louis e Anais, tuttavia, vogliono ridurre al minimo i costi e questa scelta di trasferimenti non sembra essere la migliore. Scriviamo $C_{\min}$ per il minor costo totale possibile scegliendo i trasferimenti effettuati.
+> 
+> **(1) ** Nell'esempio della figura 8, per $N=100$, $b_1=5$, $b_2=4$, $j_1=6$, $j_2=7$, qual è il costo totale minimo possibile $C_{\min}$?
+> 
+> Per il momento, supponiamo che Louis e Anais siano generosi l'uno come l'altro e donino lo stesso numero di sacchetti ai volontari del loro comitato, in modo che $j_1 = j_2 = j$.
+> 
+> **(2) ** Supponiamo in questa domanda che il numero di borse date ai partecipanti sia ogni volta zero, cioè $N \ge 2\max(b_1 j_1, b_2 j_2)$. Per quali valori (s) di $b_1$, $b_2$ e $N$ si può garantire un costo di esattamente $C=N$?
+> 
+> < MSK6/>(3) < MSK7/> Non supponiamo più che < MSK0/>. In termini di $N$, $b_1$, $b_2$ e $j$, quali sono i valori possibili del costo totale $C$?
+> 
+> **(4) ** Infatti, il numero di borse distribuite ai volontari non cambia di anno in anno. Louis aveva quindi dato pacchetti di sacchetti $j_1 = b_2$ a ciascuno dei suoi volontari, e Anais desidera che ciascuno dei suoi volontari abbia sacchetti $j_2 = b_1$. In questo contesto, rivedere la domanda precedente.
+> 
+> Louis e Anais desiderano spendere il meno possibile e avere un bilancio equilibrato, in modo che $C_{\min} = N$ mentre $N \ge 2\max(b_1 j_1, b_2 j_2)$. Per quali valori di $C_{\min}$ è possibile?
+> 
+> L'organizzazione del TFJM crea legami e esistono infatti ulteriori contatti diretti tra i volontari dei due comitati. Per $N \ge 2\max(b_1 j_1, b_2 j_2)$, in termini di $b_1$, $b_2$, $j_1$ e $j_2$, tra quali volontari è più saggio stabilire questi nuovi contatti $k$ in modo che $C_{\min}$ sia il più piccolo possibile? Si può iniziare trattando il caso < MSK9/>.
+> 
+> **(7) ** Proporre e esplorare altre direzioni di ricerca.
+
+![[src_tfjm_2021__Q06.png]]
+
+[[src_tfjm_2021__Q06]]

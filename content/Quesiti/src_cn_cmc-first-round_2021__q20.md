@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q20
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A1-9: f(x)=|2-log_3 x|, a<b<c with f(a)=2f(b)=2f(c); find ac/b.*
 
@@ -45,3 +48,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+MSK0/>A1-9: f(x) = 9:12-log_3 <c_11, a<b<c con f(a) 2f(b) = 2f(c); trovare ac/b.*
+
+> [Paper di prova A1, problema 9] (16 punti) Se si dà la funzione $f(x)=|2-\log_3 x|$, i numeri reali positivi $a,b,c$ soddisfano $a<b<c$ e $f(a)=2f(b)=2f(c)$. Trova il valore di $\dfrac{ac}{b}$.
+
+**Risposta:** 9
+[[src_cn_cmc-first-round_2021__Q20]]

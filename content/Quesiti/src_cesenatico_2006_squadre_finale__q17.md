@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q17
 parent: src_cesenatico_2006_squadre_finale
 competition: Gara a Squadre Cesenatico 2006 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti interi >9 con cifre strettamente crescenti*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0502
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Integres >9 with strictly increasing numbers< MSK1/>
+
+> A condemnation to be avoided The followers of the One-who-can-not-be-proved, fierce proponents of dark and contradictory mathematics, are on the verge! Even simple questions can reveal their distorted mathematical knowledge. For example, the judge asked how many positive integers strictly greater than 9 whose digits on base 10 are strictly increasing from left to right. What is the answer to avoid condemnation?
+
+**Answer:** 0502
+[[src_cesenatico_2006_squadre_finale__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_c__Q08
 parent: src_cesenatico_2011_semifinale_c
 competition: Gara a Squadre Cesenatico 2011 - Semifinale C
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del poligono AFPD nella clessidra triangolare*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1391
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Area of the AFPD polygon in the triangular clexid< MSK1/>
+
+> A particularly valuable object belonging to the Gauls is a curious clessandra, located within a triangle. This triangle, called ABC, was constructed as follows: two points D and E were taken, respectively on AC and BC, such that DE was parallel to AB, and two points F and G on AB such that DG was parallel to BC, EF parallel to AC, and DE = FG. Calling P the intersection between DG and EF, and knowing that AB = 91, that the area of the triangle is 4173 and that the BCA angle measures 45°, would you be able to calculate the area of the AFPD polygon?
+
+**Answer:** 1391
+[[src_cesenatico_2011_semifinale_c__Q08]]

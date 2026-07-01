@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q05
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer operations leading to 220; identify property of x*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Operazioni integrali che portano a 220; identificare la proprietà di x*
+
+> Considerate un intero positivo $x$ e eseguite le seguenti operazioni successive: moltiplicare per 2, poi aggiungere 1, poi moltiplicare per 3, poi sottrarre 5. Se il risultato è 220, allora $x$ è:
+>
+> - **(A)** un numero primo.
+> - **(B)** un numero pari.
+> - **(C)** un numero tra i 40 e i 50.
+> - **(D)** un moltiplo di 3.
+> - **(E)** un numero la cui somma digitali è 9.
+
+**Risposta:** A
+[[src_obm_2003_n1_f1__Q05]]

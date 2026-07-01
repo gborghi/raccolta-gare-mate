@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2008 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2008__Q02
 parent: src_bocconi_autunno_2008
 competition: Giochi d'Autunno 2008
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Puzzle di due pezzi identici: trovare il contorno di divisione*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** Vedere figura nella soluzione
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Puzzle of two identical pieces: find the dividing contour*
+
+> The puzzle you see in the figure is made up of two identical pieces. Highlight the dividing contour between the two pieces (knowing that one has been overturned).
+
+![[src_bocconi_autunno_2008__Q02.png]]
+
+**Answer:** Vedere figura nella soluzione
+[[src_bocconi_autunno_2008__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f1__Q17
 parent: src_obm_2001_n3_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify which cube net shows the highlighted cross-section of the cube with a plane*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare quale rete di cubi mostra la sezione trasversale evidenziata del cubo con un piano*
+
+> Solo una delle figure di seguito rappresenta la rete (sviluppo) di un cubo su cui è evidenziata la sua intersezione con un piano. - Quale?
+> 
+> **A) **, **B) **, **C) **, **D) **, **E) ** [cinque diagrammi di rete cubica mostrati nella figura]
+
+![[src_obm_2001_n3_f1__Q17.png]]
+
+**Risposta:** B
+[[src_obm_2001_n3_f1__Q17]]

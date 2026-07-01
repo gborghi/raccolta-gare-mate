@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2022 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo32hq_honsen__Q05
 parent: src_jmo32hq_honsen
 competition: Japan Mathematical Olympiad 2022 — Honsen (Final)
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *999 circular squares with reals; find minimum m for sequential property*
 
@@ -56,3 +59,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1N8QRZh_HoqqCTuVlMkwjvlkn9JqK43Wo/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*999 quadrati circolari con reali; trovare m minimo per la proprietà sequenziale*
+
+> Trovare il numero intero positivo minimo $m$ per il quale è valida la seguente affermazione:
+> 
+> I numeri reali sono scritti in ognuno dei 999 quadrati disposti in un cerchio. Per ogni quadrato $A$ e per ogni intero positivo $k \le m$, almeno uno dei seguenti valori è: \begin{itemize} \item La differenza tra il numero scritto nel quadrato $k$ passi in senso orario da $A$ e il numero scritto in $A$ equivale a $k$. \item La differenza tra il numero scritto nel quadrato $k$ passi in senso contrario all'orologio da $A$ e il numero scritto in $A$ equivale a $k$. Poi esiste un quadrato $S$ tale che, lasciando $x$ essere il numero reale scritto in $S$, per ogni intero positivo $k$ con $k < 999$, almeno uno dei seguenti contiene: \begin{itemize} \item Il numero scritto nel quadrato $k$ passi in senso orario da $S$ equivale a $x + k$. \item Il numero scritto nel quadrato $k$ passi in senso contrario all'orologio da $S$ equivale a $x + k$. # Finire #
+
+[[src_jmo32hq_honsen__Q05]]

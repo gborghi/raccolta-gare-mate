@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_a__Q02
 parent: src_cesenatico_2011_semifinale_a
 competition: Gara a Squadre Cesenatico 2011 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *chi dice la verita*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2090
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who's telling the truth
+
+> The Emperor's desk is a huge round table, the largest in the world, with a beauty of 3,135 seats. Only once did he happen to see him completely occupied: it is said that that day each of the diners made a comment on the two he had in front of him (the two sitting next to the point of the table diametrically opposite his). In particular, each said that of the two in front only one always told the truth, and the other always lied. Considering that at least one of them was sincere, how many of them were actually telling the truth?
+
+**Answer:** 2090
+[[src_cesenatico_2011_semifinale_a__Q02]]

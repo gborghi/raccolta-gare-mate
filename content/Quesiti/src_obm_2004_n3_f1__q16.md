@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q16
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Set of real roots of an equation with nested square roots.*
 
@@ -47,3 +50,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieme di radici reali di un'equazione con radici quadrate incastonate.*
+
+> L'insieme delle radici reali dell'equazione $\sqrt{x+2\sqrt{x-1}}+\sqrt{x-2\sqrt{x-1}}=2$ è
+> 
+> (A) $\{1\}$ (B) $[1, 2]$ (C) $[1, 2)$ (D) $]1, 2[$ (E) $\{2\}$
+
+[[src_obm_2004_n3_f1__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Finale Cadet (Mirabilandia) — Quesito C4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet_finale__QC4
 parent: src_kangourou_2012_cadet_finale
 competition: Kangourou 2012 Finale Cadet (Mirabilandia)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Si puo ottenere somma 2012 sulle facce esposte dei dadi*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** no
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dAQ2UBRUIZY90-KiQxqdHKt0edOWJpGd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>You can get sum 2012 on the exposed faces of the dice< MSK1/>
+
+![[src_kangourou_2012_cadet_finale__probC4.png]]
+
+> Peter wants to line up a number of traditional dice (the sum of points on opposite faces is always 7), as the figure shows. He joins two faces together only if the number of points on both faces is equal, and he wants to get a row so that the sum of points on all the faces exposed is 2012. Can he do it, and if so, how many dice does he have to use? (see figure)
+
+**Answer:** no
+[[src_kangourou_2012_cadet_finale__QC4]]

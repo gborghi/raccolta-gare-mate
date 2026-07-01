@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q10
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max chips on 5x5 board, counts per row/column multiple of 3*
 
@@ -49,3 +52,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Max chips su tavola 5x5, conteggi per fila/colonna multiplo di 3*
+
+> Qual è il maggior numero di chip che possiamo posizionare su una scheda $5 \times 5$, al massimo uno per ogni cella, in modo che il numero di chip in ogni riga e ogni colonna sia un multiple di $3$?
+>
+> - **(A)** $6$
+> - **(B)** $9$
+> - **(C)** $12$
+> - **(D)** $15$
+> - **(E)** $24$
+
+[[src_obm_2010_n2_f1__Q10]]

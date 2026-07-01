@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2016 Semifinale A — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_a__Q04
 parent: src_kangourou_2016_squadre_a
 competition: Kangourou Coppa Squadre 2016 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *N con 6 divisori, prodotto di 5 = 5000*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 25
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*N with 6 dividers, product of 5 = 5000*
+
+> Exactly 6 The positive integer N has exactly 6 distinct divisors, including 1 and N. The product of five of these is 5000. Which of these five is missing?
+
+**Answer:** 25
+[[src_kangourou_2016_squadre_a__Q04]]

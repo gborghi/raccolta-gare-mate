@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Cadet — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q27
 parent: src_kangourou_2019_cadet_marzo
 competition: Kangourou 2019 Gara di Marzo Cadet
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale coppia di cerchi e necessariamente dello stesso colore*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which pair of circles and necessarily of the same colour*
+
+![[src_kangourou_2019_cadet_marzo__prob27.png]]
+
+> Matthew painted each of the eight circles in the figure with a color chosen from red, yellow, and blue, making sure that no pair of circles directly connected by a segment received the same color. What pair of circles necessarily painted the same color? A) 5 e 8 B) 1 e 6 C) 2 e 7 D) 4 e 5 E) 3 e 6
+
+**Answer:** A
+[[src_kangourou_2019_cadet_marzo__Q27]]

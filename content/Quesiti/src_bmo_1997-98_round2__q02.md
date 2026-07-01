@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1997-98 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1997-98_round2__Q02
 parent: src_bmo_1997-98_round2
 competition: British Mathematical Olympiad 1997-98 — Round 2
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two circumcircles of a configuration touch*
 
@@ -39,3 +42,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BmWcr_kfQLYIf7TTUKc10v2VCU6EcDQW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due circoncircoli di un tocco di configurazione*
+
+> Un triangolo $ABC$ ha $\angle BAC > \angle BCA$. Una linea $AP$ è disegnata in modo che $\angle PAC = \angle BCA$, dove $P$ è all'interno del triangolo. Un punto $Q$ al di fuori del triangolo è costruito in modo che $PQ$ sia parallelo a $AB$ e $BQ$ sia parallelo a $AC$. $R$ è il punto su $BC$ (separato da $Q$ dalla riga $AP$) tale che $\angle PRQ = \angle BCA$.
+> 
+> Dimostrare che il circoncircolo di $ABC$ tocca il circoncircolo di $PQR$.
+
+[[src_bmo_1997-98_round2__Q02]]

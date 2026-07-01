@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1995 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1995__Q04
 parent: src_rmo_1995
 competition: Regional Mathematical Olympiad 1995
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quadratic x^2 + 7x - 14(q^2+1) with integer q has no integer root*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18d_A9jRTrt0hHchaSE4JEb6g0MGjIeh6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadratici x^2 + 7x - 14(q^2+1) con q intero non hanno radice di numero intero*
+
+> Mostra che l'espressione quadrata $$x^2 + 7x - 14(q^2 + 1) = 0,$$ dove $q$ è un intero, non ha radice di numero intero.
+
+[[src_rmo_1995__Q04]]

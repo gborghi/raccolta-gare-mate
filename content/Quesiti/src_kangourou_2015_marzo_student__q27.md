@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q27
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *rapporto aree*
 
@@ -83,3 +86,49 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>report areas< MSK1/>
+
+![[src_kangourou_2015_marzo_student__prob27.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.4]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (3,0);
+  \coordinate (C) at (3,2);
+  \coordinate (D) at (0,2);
+  \coordinate (M1) at (1.5,2);
+  \coordinate (M2) at (0.75,1);
+  \coordinate (M3) at (1.875,0.5);
+  \coordinate (M4) at (2.4375,1.25);
+  \draw[thick] (A) -- (B) -- (C) -- (D) -- cycle;
+  \draw[thin] (A) -- (M1);
+  \draw[thin] (B) -- (M2);
+  \draw[thin] (C) -- (M3);
+  \draw[thick] (M1) -- (M2) -- (M3) -- (M4) -- cycle;
+  \fill (M1) circle (1.5pt);
+  \fill (M2) circle (1.5pt);
+  \fill (M3) circle (1.5pt);
+  \fill (M4) circle (1.5pt);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above right] at (C) {$C$};
+  \node[above left] at (D) {$D$};
+  \node[above] at (M1) {$M_1$};
+  \node[left] at (M2) {$M_2$};
+  \node[below] at (M3) {$M_3$};
+  \node[right] at (M4) {$M_4$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the rectangle ABCD drawn in Figure, M1 is the mean point of DC, M2 is the mean point of AM1, M3 is the mean point of BM2 and M4 is the mean point of CM3. What is the relationship between the area of the quadrilateral M1M2M3M4 and that of the rectangle ABCD? A) 7/16 B) 3/16 C) 7/32 D) 9/32 E) 1/5
+>
+
+**Answer:** C
+[[src_kangourou_2015_marzo_student__Q27]]

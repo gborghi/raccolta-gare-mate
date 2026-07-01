@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q04
 parent: src_kangourou_2024_ecolier_semifinale
 competition: Kangourou Semifinale individuale Ecolier 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima somma di cifre di un numero di 3 cifre divisibile per 4*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum sum of digits of a 3-digit number divisible by 4*
+
+> (Points 4) Among integers that have three digits and are divisible by 4, find one such that the sum of its digits is the highest possible. How much is that? A) 26 B) 25 C) 24 D) 23 E) 22 Answer: B). The solution. The highest possible sum of the digits of a three-digit number is 27 (999); the number (s) 998 is not divisible by 4: it is therefore necessary to decrease it by one unit again, obtaining 988 which is divisible by 4 (while 898 is not).
+
+**Answer:** B
+[[src_kangourou_2024_ecolier_semifinale__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q30
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Per quante coppie (m,n) l'area del triangolo OPQ vale 2024*
 
@@ -74,3 +77,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*For all pairs (m,n) the area of the OPQ triangle is 2024*
+
+> They are m and n positive integers with m < n. As illustrated in the figure, the three points P  (m, n), Q  (n, m) and O  (0, 0) are considered for an orthogonal Cartesian axis system. For how many pairs (m, n) is the area of the OPQ triangle 2024? A) 4
+> 	
+> B) 6
+> 	
+> C) 8
+> 	
+> D) 10
+> 	
+> E) 12 D A B C E F G H K L P(m, n) Q(n, m) O x y
+> 
+> 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 A A D
+
+**Answer:** B
+[[src_kangourou_2024_junior__Q30]]

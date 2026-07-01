@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo23yqa_yosen__Q07
 parent: src_jjmo23yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find BD/DC given four triangle sub-areas formed by two cevians*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{5}{6}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca BD/DC dati quattro sub-area triangolari formate da due ceviani*
+
+> Nel triangolo $ABC$, i punti $D$, $E$, $F$ si trovano rispettivamente sui lati $BC$, $CA$ e $AB$. I cevi $BE$ e $CF$ si intersecano al punto $P$. Le superfici dei triangoli $AFD$, $FPD$, $PED$, $EAD$ sono rispettivamente $10$, $7$, $5$ e $13$. Trova < MSK18/>. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** \frac{5}{6}
+[[src_jjmo23yqa_yosen__Q07]]

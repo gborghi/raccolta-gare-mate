@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f1__Q21
 parent: src_obm_2016_n3_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum number of merge operations to split piles 1,2,...,9,11 into equal piles*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero minimo di operazioni di fusione per dividere le pile 1,2,...,9,11 in pile uguali*
+
+> Esistono pile di pietre contenenti $1,2,3,\dots,9$ e $11$ pietre (nessuna pila di $10$), con totale $1+2+3+\dots+9+11=56$. Per che tutte le pile abbiano la stessa quantità $k$, $k$ deve essere un divisore di $56$. Analizzando i divisori, le possibilità sono $14,28$ o $56$ pietre per pile. Ogni fusione di pile è un'operazione; per creare pile di $28$ occorrono più operazioni, e per ottenere pile $4$ di $14$ occorrono operazioni $6$, realizzate esplicitamente come $(11+3),(9+5),(8+6),(7+4+2+1)$. Qual è il numero minimo di operazioni? [Il valore della chiave di risposta corrisponde all'opzione D.]
+
+**Risposta:** D
+[[src_obm_2016_n3_f1__Q21]]

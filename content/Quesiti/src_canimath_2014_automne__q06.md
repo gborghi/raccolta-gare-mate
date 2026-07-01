@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2014 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2014_automne__Q06
 parent: src_canimath_2014_automne
 competition: Coupe Animath Automne 2014
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equilateral triangle of same perimeter as a square; compare the areas*
 
@@ -43,3 +46,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15vtKOtQa9ehL1Qp64ICOkTx6pQqg0n_e/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo equilaterale dello stesso perimetro di un quadrato; confronta le aree*
+
+> Lasciate che $C$ sia quadrato. Costruciamo un triangolo equilaterale dello stesso perimetro del quadrato. Quanto differiscono l'area del triangolo equilaterale e l'area del quadrato?
+
+[[src_canimath_2014_automne__Q06]]

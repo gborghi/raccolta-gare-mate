@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q04
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi tra 2015x2017 e 2016x2016*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This appropriation is intended to cover expenditure relating to:
+
+> How many integers exist that are narrowly larger than 2015 ∙ 2017 and narrowly smaller than 2016 ∙ 2016? A) 0
+> 	
+> B) 1
+> 	
+> C) 2015 D) 2016 E) 2017
+
+**Answer:** A
+[[src_kangourou_2016_student_marzo__Q04]]

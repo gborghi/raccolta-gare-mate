@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet__Q12
 parent: src_kangourou_2005_cadet
 competition: Kangourou 2005 - Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Contributo per coprire spese gita*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Contribution to cover travel expenses*
+
+> A group of classmates are planning a trip. If each contributed EUR 14 to travel expenses, they would receive EUR 4 less than necessary; if each contributed EUR 16, they would receive EUR 6. What must each person contribute to collect exactly the amount needed for the trip? This appropriation is intended to cover expenditure relating to:
+
+**Answer:** C
+[[src_kangourou_2005_cadet__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q13
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count tiles in wall decoration using black ceramic tiles*
 
@@ -55,3 +58,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggi di piastrelle per la decorazione delle pareti utilizzando piastrelle di ceramica nera*
+
+> Utilizzando piastrelle di ceramica nera a forma di quadrati, una decorazione fu composta su un muro, come mostrato in parte qui sotto. Quante piastrelle sono state utilizzate in tutta la decorazione, dato che l'ultimo pezzo da assemblare ha utilizzato 40 piastrelle?
+>
+> - **(A)** 60
+> - **(B)** 68
+> - **(C)** 81
+> - **(D)** 100
+> - **(E)** 121
+
+![[src_obm_2006_n1_f1__Q13.png]]
+
+**Risposta:** D
+[[src_obm_2006_n1_f1__Q13]]

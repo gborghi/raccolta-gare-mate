@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_triennio_online__Q10
 parent: src_archimede_2021_triennio_online
 competition: Giochi di Archimede 2021 - Gara Triennio (online)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo ADM in parallelogramma con punti conciclici*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mirXxT9-Hv1KYgVTqPSQsnkdU7SPLtJP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Adm angle in parallelogram with conic points*
+
+> In an ABCD parallelogram where bA = 84°, M is a point on the AB side and N is a point on the BC side such that MC = CD and DM = MN. The points C, D, M, N belong to the same circumference. What is the width of the angle \ ADM ?
+>
+> - **(A)** 33°
+> - **(B)** 24°
+> - **(C)** 27°
+> - **(D)** 30°
+> - **(E)** 36°
+
+**Answer:** C
+[[src_archimede_2021_triennio_online__Q10]]

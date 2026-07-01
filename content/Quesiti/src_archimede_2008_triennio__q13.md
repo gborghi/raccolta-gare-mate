@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Triennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_triennio__Q13
 parent: src_archimede_2008_triennio
 competition: Giochi di Archimede 2008 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre del massimo n con disuguaglianza frazionaria*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of maximum n figures with fractional inequality*
+
+> Whether N is the largest of the n natural numbers showing the inequality n n + 1 < 6024 6027 . What's the sum of the digits of N?
+>
+> - **(A)** 6,
+> - **(B)** 7,
+> - **(C)** 8,
+> - **(D)** 9,
+> - **(E)** 10.
+
+**Answer:** D
+[[src_archimede_2008_triennio__Q13]]

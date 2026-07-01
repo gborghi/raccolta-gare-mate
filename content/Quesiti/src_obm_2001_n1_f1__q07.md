@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f1__Q07
 parent: src_obm_2001_n1_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Side length of equilateral triangle formed by 49 unit equilateral triangles*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza laterale di un triangolo equilaterale formato da 49 unità di triangolo equilaterale*
+
+> Il triangolo equilaterale $T$ sulla destra ha lato $1$. Unendo i triangoli congruenti a esso, possiamo formare altri triangoli equilaterali più grandi, come indicato nel disegno di seguito. Qual è il lato del triangolo equilaterale formato dai triangoli $49$ $T$?
+> 
+> (A) $7$ \quad (B) $49$ \quad (C) $13$ \quad (D) $21$ \quad (E) È impossibile formare un triangolo equilaterale con questo numero di triangoli $T$
+
+![[src_obm_2001_n1_f1__Q07.png]]
+
+**Risposta:** A
+[[src_obm_2001_n1_f1__Q07]]

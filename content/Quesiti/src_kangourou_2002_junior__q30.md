@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q30
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi di 4 cifre con condizione sulle cifre*
 
@@ -60,3 +63,21 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Four digit integers subject to the digits*
+
+> How many significant 4-digit integers are such that the sum of the last two digits and the number formed by the first two coincides with the number formed by the last two digits? (A number satisfying the condition described is, for example, 6370: in fact 7 + 0 + 63 = 70.)
+>  
+> A. 10 B. 45 C. 50 D. 80 E. 90
+> 
+> Junior answers 2002. This item is not intended to be used. 1 Kangourou Italy Competition of 21 March 2002 Junior category For secondary and tertiary students Solutions
+>  
+>  
+> The correct answer is indicated in square brackets after the question number.
+
+**Answer:** D
+[[src_kangourou_2002_junior__Q30]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2015 - Biennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_biennio__Q07
 parent: src_archimede_2015_biennio
 competition: Giochi di Archimede 2015 - Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo DEF da punti medi in triangolo ABC*
 
@@ -41,3 +44,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1prvgjdAFaK6FEUhTIz1KxL8s22sIjytL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*DEF triangle area from midpoints in triangle ABC*
+
+> The area of an ABC triangle is 832 cm2. Let's say D is the middle point of the AB side, E is the middle point of BC and F is the middle point of the AE segment. How many cm2 is the area of the DEF triangle?
+>
+> - **(A)** 78
+> - **(B)** 156
+> - **(C)** 104
+> - **(D)** 124
+> - **(E)** There's not enough data to determine that.
+
+[[src_archimede_2015_biennio__Q07]]

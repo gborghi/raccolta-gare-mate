@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q18
 parent: src_cesenatico_2005_squadre_finale
 competition: Gara a Squadre Cesenatico 2005 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero percorsi minimi tra centri facce del cubo*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0240
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of paths between cube face centers*
+
+> Trap 2 Polynomial Jones is still trapped in the cube! The shortest route was useless. Obviously, a polynomial must travel a particular path of minimum length. The only solution is to go through them all. How many possible paths separate our hero from freedom?
+> 
+> 2005 Team competition  National final  Problem texts  Pag. 4 di 4
+
+**Answer:** 0240
+[[src_cesenatico_2005_squadre_finale__Q18]]

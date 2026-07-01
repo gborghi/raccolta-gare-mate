@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2020 - testi — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2020__Q03
 parent: src_cesenatico_2020
 competition: Olimpiade Italiana (Cesenatico) 2020 - testi
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *soluzioni finite*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gylN-2GSxpemPcbzJfcfMtzLwdIYnXYe/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>finished solutions< MSK1/>
+
+> They're a1, a2. . . , a2020 e b1, b2, . . . , b2020 of real numbers, not necessarily distinct. Suppose that the positive integers n for which the equation a1dix −b1dix + a2dix −b2dix + · · · + a2020dix −b2020 = n (1) has exactly two real solutions are finite. Demonstrate that the positive integers n for which equation (1) has at least one real solution are finite.
+
+[[src_cesenatico_2020__Q03]]

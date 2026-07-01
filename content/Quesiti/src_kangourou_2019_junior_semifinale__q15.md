@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Junior — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q15
 parent: src_kangourou_2019_junior_semifinale
 competition: Kangourou 2019 Semifinale Junior
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimi scambi per avere rossi doppi dei bianchi (gettoni)*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum exchanges for reds twice as white (gettons) < MSK1/>
+
+> (Points 6) There are two token-changers: one provides three red tokens for one white, the other five white tokens for one red. I am starting with only 4 white tokens: what is the smallest number of exchanges that allows me to get twice as many red tokens as white tokens?
+
+[[src_kangourou_2019_junior_semifinale__Q15]]

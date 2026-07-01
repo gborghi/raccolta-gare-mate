@@ -1,6 +1,7 @@
 ---
 title: IMO 1971 (XIII International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1971__Q02
 parent: src_imho_1971
 competition: IMO 1971 (XIII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Nine-vertex convex polyhedra sharing a common point*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The value of the underlying assets shall be the sum of the assets of the underlying assets of the underlying assets.
+
+> Consider a convex polyhedron $P_1$ with nine vertices $A_1, A_2, \ldots, A_9$; let $P_i$ be the polyhedron obtained from $P_1$ by a translation that moves vertex $A_1$ to $A_i$ $(i = 2, 3, \ldots, 9)$. Prove that at least two of the polyhedra $P_1, P_2, \ldots, P_9$ have an interior point in common.
+
+[[src_imho_1971__Q02]]

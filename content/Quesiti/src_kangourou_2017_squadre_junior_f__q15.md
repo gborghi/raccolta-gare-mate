@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Junior 2017 Finale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_junior_f__Q15
 parent: src_kangourou_2017_squadre_junior_f
 competition: Kangourou Coppa Squadre Junior 2017 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma caselle di arrivo possibili nella passeggiata*
 
@@ -73,3 +76,28 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 280
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of possible check-in boxes in the walk*
+
+![[src_kangourou_2017_squadre_junior_f__prob15.png]]
+
+> Walk Gianni starts from box P and takes a walk on the table depicted on the side going from a grey box to one adjacent to it (i.e. it has a side in common with it) so that you visit all 20 grey boxes once and only once. What is the sum of the numbers in the possible mailboxes?
+>  
+>  
+>  
+> 12 13 14 15
+>  
+> 22
+>  
+> 25 32 33 35 41 42 43 44 45 51 52 53 54 55 P S1 S2 S3 S4 S5 S6
+> 
+> Kangourou of Mathematics 2017 Junior Cup in teams Final Cervia, 7 May 2017
+>  
+> Questions and developments
+
+**Answer:** 280
+[[src_kangourou_2017_squadre_junior_f__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_kangourou_squadre__Q02
 parent: src_kangourou_2024_kangourou_squadre
 competition: Kangourou Squadre 2024 Kangourou Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Biglie totali iniziali nei due contenitori*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9956
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1H4evp3ENM3JXuKHssVIkxKmXh6l0-t0_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Initial total bags in the two containers*
+
+> One container A was full of red and one container B was full of blue. A device has removed a seed from A and a seed from B in pairs, a number of times, thus removing 2/3 of the seed from A and 3/5 of the seed from B. There are now a total of 3,668 bags left in the two containers. How many bags were there in the two containers at the start?
+
+**Answer:** 9956
+[[src_kangourou_2024_kangourou_squadre__Q02]]

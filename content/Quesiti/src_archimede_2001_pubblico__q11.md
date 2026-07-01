@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_pubblico__Q11
 parent: src_archimede_2001_pubblico
 competition: Archimede 2001 - Gara del Pubblico (Cesenatico)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *lunghezza del segmento minore*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0944
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*length of the minor segment*
+
+> The wall clocks in use in the Confederation are all in the shape of a rectangle with the angle between the $45°$ diagonals. The upper side is parallel to the ground, while the lower side measures $1336$ unpolished. There is only a long handful of hours that moves like ours and after half a day he has made an exact turn. In the capital, a day lasts $20$ hours; at this time it is 1:15 and the bid identifies a point that divides the main side of the rectangle into two segments. What is the length of the lesser of the two segments?
+
+**Answer:** 0944
+[[src_archimede_2001_pubblico__Q11]]

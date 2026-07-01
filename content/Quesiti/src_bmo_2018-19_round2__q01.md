@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2018-19 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2018-19_round2__Q01
 parent: src_bmo_2018-19_round2
 competition: British Mathematical Olympiad 2018-19 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove triangle BPE is isosceles given perpendicular bisector conditions*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jUZmLCHSs55rdCMtkd0VDjc9FE08zlaC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che il triangolo BPE è isosceles in condizioni di bisettore perpendicolare*
+
+> Lasciate che $ABC$ sia un triangolo. Si deve $L$ essere la linea attraverso $B$ perpendicolare a $AB$. La perpendicolare da $A$ a $BC$ incontra $L$ al punto $D$. Il bisettore perpendicolare di $BC$ incontra $L$ al punto $P$. Il $E$ deve essere il piede della perpendicolare da $D$ a $AC$.
+> 
+> Prove che il triangolo $BPE$ è uguale.
+
+[[src_bmo_2018-19_round2__Q01]]

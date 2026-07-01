@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2012 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2012_printemps__Q06
 parent: src_canimath_2012_printemps
 competition: Coupe Animath Printemps 2012
@@ -38,6 +39,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inequality aa'+bb'+cc' <= 2S+R(a+b+c) for acute triangles, and whether it holds for obtuse ones*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IRG0jZR48d6q9a8ZHA4_SCuVSjBVAbwt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ineguaglianza aa'+bb'+cc' <= 2S+R(a+b+c) per i triangoli acuti, e se vale per quelli obtusi*
+
+> Il $ABC$ deve essere un triangolo di superficie $S$. Nota con $a=BC$, $b=CA$, $c=AB$ le lunghezze dei suoi lati e $a'=AA'$, $b'=BB'$, $c'=CC'$ le lunghezze dei suoi mediani, dove $A'$, $B'$, $C'$ sono i rispettivi punti di mezzo di $BC$, $CA$, $AB$. Il $R$ deve essere il raggio del cerchio circoscritto di $ABC$. Indicare che $aa'+bb'+cc'\le 2S+R(a+b+c)$ se $ABC$ è acuta (cioè se tutti gli angoli di $ABC$ sono inferiori a $90^\circ$). Questa disuguaglianza vale anche per tutti i triangoli obtusi (quelli con un angolo maggiore di $90^\circ$)?
+
+[[src_canimath_2012_printemps__Q06]]

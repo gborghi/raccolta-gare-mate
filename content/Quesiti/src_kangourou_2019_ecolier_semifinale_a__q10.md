@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Ecolier squadre 2019 Semifinale A — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale_a__Q10
 parent: src_kangourou_2019_ecolier_semifinale_a
 competition: Kangourou Coppa Ecolier squadre 2019 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma celle C2 C3 D3 nella griglia 2/5/10*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0017
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of cells C2 C3 D3 in the grid 2/5/10*
+
+![[src_kangourou_2019_ecolier_semifinale_a__prob10.png]]
+
+> The grid Insert in each of the empty cells of this grid a number chosen between 2, 5 and 10 so that the sum of the numbers in each row and column is 22. What's the sum of the numbers you put in cells C2, C3 and D3?
+
+**Answer:** 0017
+[[src_kangourou_2019_ecolier_semifinale_a__Q10]]

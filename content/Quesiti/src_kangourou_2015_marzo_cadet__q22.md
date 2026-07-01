@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q22
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero maggiore*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>major number< MSK1/>
+
+> Five positive integers (not necessarily all different) are inscribed on five cards. For each pair of cards, Peter calculates the sum of the numbers written on them. The different totals you get are only three: 57, 70 and 83. What's the biggest number on the cards? A) 35 B) 42
+> 	
+> C) 48 D) 53 E) 82
+
+**Answer:** C
+[[src_kangourou_2015_marzo_cadet__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q14
 parent: src_kangourou_2019_squadre_semifinale_a
 competition: Kangourou Coppa squadre 2019 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punti interi su segmento da (0,0) a (4200,3000)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0599
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Integer points per segment from (0,0) to (4200,3000) *
+
+> In the Cartesian plane, the segment of extremes (0, 0) and (4200, 3000) are considered. How many of your coordinate points are both integers, excluding the extremes?
+
+**Answer:** 0599
+[[src_kangourou_2019_squadre_semifinale_a__Q14]]

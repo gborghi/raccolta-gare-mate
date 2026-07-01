@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n1_f3__Q05
 parent: src_obm_2008_n1_f3
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 3
@@ -40,6 +41,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *'Garbosy' numbers: positive multiples whose first four decimal digits are 2008; show 17 is garbosy and all positives are*
 
@@ -53,3 +56,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKJxLoPzHG0E9OT_6xBX96AR1NIt8NuD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+* Numeri di 'Garbosy': multipli positivi le cui prime quattro cifre decimali sono 2008; mostrare 17 è garbosy e tutti i positivi sono *
+
+> Chiamiamo un intero positivo $n$ *garbosy* se ha un multiple la cui quattro cifre principali della sua rappresentazione decimale sono 2008. Ad esempio, 7 è disgustoso perché 200858 è un moltiplo di 7 e inizia con 2008. Si noti che $200858 = 28694 \times 7$.
+> 
+> a) Mostrare che il 17 e' un'imbarazzo. b) Mostrare che ogni numero intero positivo è un'imbarazzo.
+
+[[src_obm_2008_n1_f3__Q05]]

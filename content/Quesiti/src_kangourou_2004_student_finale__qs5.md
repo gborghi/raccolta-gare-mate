@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Student finale nazionale — Quesito S5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student_finale__QS5
 parent: src_kangourou_2004_student_finale
 competition: Kangourou 2004 Student finale nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sequenza piu lunga di quadrati con differenze prime*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** lunghezza 7
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YDB8i8P8ObCcVZVHoKNettQ8gKf-sGTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Longest sequence of squares with prime differences*
+
+> Suppose you know that (for $n = 1, 2, \ldots$) $a_n$ is the square of a nonzero integer and the difference $a_{n+1} - a_n$ is a prime (positive) or the square of a prime. It shows that all possible sequences $\{a_n\}$ that meet these requirements are finite and determines the longest.
+
+**Answer:** lunghezza 7
+[[src_kangourou_2004_student_finale__QS5]]

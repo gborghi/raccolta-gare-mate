@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q11
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della lettera W con teorema di Pick*
 
@@ -39,3 +42,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 104
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the letter W with Pick's theorem*
+
+![[src_gs_2008_squadre__prob11.png]]
+
+> Wensleydale took a sheet, folded it in half on the long side. He marked three points on the folded sheet: the point $X$ halfway on the fold, and the two points $A$ and $B$ to $2\,\text{cm}$ from the fold on each of the folded sides. He then made two cuts: one along the $XA$ segment, the other from $B$, parallel to the first cut, so as to reach the top. When he unfolded the sheet, he realized he had a V. He made another equal and overlaid them on an isosceles triangle where the side different from the other two is $4\,\text{cm}$ to get a W.
+> 
+> What is the area of W in $\text{cm}^2$?
+
+**Answer:** 104
+[[src_gs_2008_squadre__Q11]]

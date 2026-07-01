@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1999 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_2livello__Q06
 parent: src_archimede_1999_2livello
 competition: Archimede Gara 2º livello 1999
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area ombreggiata con circonferenze di raggio noto*
 
@@ -43,3 +46,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shaded area with known radius circumference*
+
+![[src_archimede_1999_2livello__prob6.png]]
+
+> Determine the area of the shaded part, knowing that the largest circumference is radius 1. (see figure)
+>
+> - **(A)** $(2 + \pi)(1 + \sqrt{2})$
+> - **(B)** $(2 + \pi)(2 - \sqrt{2})$
+> - **(C)** $(1 - \pi)(1 + \sqrt{2})$
+> - **(D)** $(1 - \pi)(3 - 2\sqrt{2})$
+> - **(E)** $(\sqrt{2} + \pi)(1 + 2\sqrt{2})$.
+
+**Answer:** D
+[[src_archimede_1999_2livello__Q06]]

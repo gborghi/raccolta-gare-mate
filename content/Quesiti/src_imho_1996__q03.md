@@ -1,6 +1,7 @@
 ---
 title: IMO 1996 (XXXVII International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1996__Q03
 parent: src_imho_1996
 competition: IMO 1996 (XXXVII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Functional equation on nonneg integers with sum*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Functional equation on nonnegative integers with sum*
+
+> Let $S$ denotes the set of nonnegative integers. Find all functions $f$ from $S$ to itself such that $$f(m + f(n)) = f(f(m)) + f(n) \quad \forall m, n \in S.$$
+
+[[src_imho_1996__Q03]]

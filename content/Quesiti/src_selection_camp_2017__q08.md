@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2017 — Selection Camp — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2017__Q08
 parent: src_selection_camp_2017
 competition: Japan IMO Selection Camp 2017 — Selection Camp
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integer sequence with term exceeding average of next 2016 terms: bounded above*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di numeri interi positivi con termine superiore alla media dei prossimi termini del 2016: dilimitato sopra*
+
+> Che $a_1, a_2, \ldots$ sia una sequenza di interi positivi che soddisfi, per ogni intero positivo $n$, $$a_n > \frac{a_{n+1} + a_{n+2} + \cdots + a_{2n}}{n + 2016}.$$ Prove che esiste una costante reale positiva $C$ tale che $a_n < C$ per tutti gli interi positivi $n$.
+
+[[src_selection_camp_2017__Q08]]

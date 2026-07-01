@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Semifinale individuale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin_semifinale__Q11
 parent: src_kangourou_2023_benjamin_semifinale
 competition: Kangourou 2023 Benjamin — Semifinale individuale
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *altezza e bisettrice, angolo ACB*
 
@@ -37,3 +40,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mF2rVbrNP5wIK8iQldHBHcyFNDzq0vZz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*height and width, angle ACB*
+
+![[src_kangourou_2023_benjamin_semifinale__prob11.png]]
+
+> (Points 5) In the ABC triangle shown in the figure, the EC height of C meets the AD biset of the BAC angle at O. The ABC angle is 60 degrees, the AOE angle is 70. How many degrees does the ACB angle measure?
+
+[[src_kangourou_2023_benjamin_semifinale__Q11]]

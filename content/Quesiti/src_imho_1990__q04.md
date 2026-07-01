@@ -1,6 +1,7 @@
 ---
 title: IMO 1990 (XXXI International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1990__Q04
 parent: src_imho_1990
 competition: IMO 1990 (XXXI International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Construct f: Q+ → Q+ satisfying f(xf(y)) = f(x)/y*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Nm9GUxDj1LQ81dyXFSu02uDt1RWquol/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The following table shows the results of the evaluation of the results of the evaluation:
+
+> Let MSK1 be the set of positive rational numbers. Construct a function $f : \mathbb{Q}^+ \to \mathbb{Q}^+$ such that $$f(x f(y)) = \frac{f(x)}{y}$$ for all $x$, $y$ in $\mathbb{Q}^+$.
+
+[[src_imho_1990__Q04]]

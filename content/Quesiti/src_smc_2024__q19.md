@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2024 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2024__Q19
 parent: src_smc_2024
 competition: Senior Mathematical Challenge 2024
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five friends dealt cards 1–12; deducing which cards each person holds from their scores*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cinque amici hanno distribuito carte 112; dedurre quali carte ciascuna persona detiene dai suoi punteggi*
+
+> A cinque amici vengono distribuite due carte ciascuna da un insieme di dodici carte. Le carte sono numerate da 1 a 12 inclusive. A loro volta, gli amici dichiarano la somma dei valori delle loro due carte. Paolo fa 4, Quinn fa 11, Romy fa 16, Stephen fa 19 e Thomas fa 20. Quale delle seguenti affermazioni è vera?
+>
+> - **(A)** Paolo ha la carta 2
+> - **(B)** Quinn ha la carta 3 .
+> - **(C)** Romy ha la carta 5
+> - **(D)** Thomas ha la carta 11
+> - **(E)** Stephen ha la carta 7
+
+**Risposta:** C
+[[src_smc_2024__Q19]]

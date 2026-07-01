@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2005 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2005__Q02
 parent: src_cgen_2005
 competition: Concours Général des Lycées 2005 — Matematica
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A continuous function on [0;1] with f(0)=f(1)=0 satisfying a translation-displacement condition; prove f(x)=0 has at least seven solutions, then give an example.*
 
@@ -50,3 +53,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rEB9uBD886_GOlWlnaWMbpsJf-6HZvT3/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Una funzione continua su [0;1] con f(0)=f(1)=0 che soddisfa una condizione di spostamento della traduzione; dimostra che f(x)=0 ha almeno sette soluzioni, quindi da un esempio.*
+
+> $f:[0;1]\longrightarrow\mathbb{R}$ deve essere una funzione numerica definita e continua nell'intervallo $[0;1]$. Supponiamo che $f(0)=f(1)=0$ e che per tutti i $x$ reali dell'intervallo $\left[0;\frac{6}{10}\right]$, $f\left(x+\frac{4}{10}\right)\neq f(x)$.
+> 
+> **1.** Mostra che l'equazione $f(x)=0$ ha almeno sette soluzioni su $[0;1]$.
+> 
+> **2.** Date un esempio di una funzione $f$ che verifica le ipotesi; possiamo accontentarci di una rappresentazione grafica chiara.
+
+[[src_cgen_2005__Q02]]

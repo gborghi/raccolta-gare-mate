@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Cesenatico 1998 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_1998__Q05
 parent: src_cesenatico_1998
 competition: Gara Nazionale Cesenatico 1998
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *non esiste n con P(n)=12*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1808Il3eNlCCoCmtYEGf6RgJ9jHdMSKuA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* does not exist n with P(n)=12*
+
+> Let $a_1, a_2, a_3, a_4$ be four distinct integers and let $P(x)$ be a polynomial with integer coefficients such that $$P(a_1) = P(a_2) = P(a_3) = P(a_4) = 1. \quad (\star)$$ (i) Show that there is no integer $n$ such that $P(n) = 12$.
+> 
+> (ii) Is there a polynomial $P(x)$ that satisfies the condition $(\star)$ and an integer $n$ such that $P(n) = 1998$?
+
+[[src_cesenatico_1998__Q05]]

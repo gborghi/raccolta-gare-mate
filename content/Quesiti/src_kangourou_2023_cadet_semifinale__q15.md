@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Semifinale individuale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet_semifinale__Q15
 parent: src_kangourou_2023_cadet_semifinale
 competition: Kangourou 2023 Cadet — Semifinale individuale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *trova n*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1M9sXIkUDY4rP1rr4DHPF0VSPHt_-LbxS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find n < MSK1/>
+
+> Gaia plays like that. He writes an integer n, then he multiplies it randomly or by 5 or by 6. To the product, the random sum is either 5 or 6. At the sum, he randomly subtracts five or six. If the end result is 78, what number is n?
+
+[[src_kangourou_2023_cadet_semifinale__Q15]]

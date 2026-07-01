@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1968 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1968_r3__Q01
 parent: src_pol_1968_r3
 competition: Olimpiade Matematica Polacca 1968 — Round 3
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Polynomial with integer coefficients, value ±1 at three integer points implies no integer zeros*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10k54qccFrtN6TlMsohHjGXdPXzsXwNZY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomio con coefficienti interi, valore ±1 a tre punti interi implica nessun zero interi*
+
+> Dimostra che se un polinomio con coefficienti interi prende un valore pari a 1 in valore assoluto a tre diversi punti interi, allora non ha zero interi.
+
+[[src_pol_1968_r3__Q01]]

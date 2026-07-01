@@ -1,6 +1,7 @@
 ---
 title: IMO 1976 (XVIII International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1976__Q01
 parent: src_imho_1976
 competition: IMO 1976 (XVIII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Convex quadrilateral diagonals and sides sum conditions*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11l0Z3RXDT5mQvc_2OoUC_uxhAD2ME5IA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Convex quadrilateral diagonals and sides sum conditions
+
+> In a convex quadrilateral plane of area 32, the sum of the lengths of two opposite sides and one diagonal is 16. Determine all possible lengths of the other diagonal.
+
+[[src_imho_1976__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo24yqa_yosen__Q02
 parent: src_jjmo24yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximize n(a+b)(a+b+c)(a+b+c+d) equal to a perfect square*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1600
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximizzare n(a+b)(a+b+c)(a+b+c+d) uguale a un quadrato perfetto*
+
+> $a, b, c, d$ siano integri separati in coppia, ciascuno da $1$ a $4$. Per un numero intero positivo $n$ $P = n(a+b)(a+b+c)(a+b+c+d)$. Dato che $P$ è un quadrato perfetto, trovare il valore massimo possibile di $P$.
+
+**Risposta:** 1600
+[[src_jjmo24yqa_yosen__Q02]]

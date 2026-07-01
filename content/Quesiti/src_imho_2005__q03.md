@@ -1,6 +1,7 @@
 ---
 title: IMO 2005 (XLVI International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2005__Q03
 parent: src_imho_2005
 competition: IMO 2005 (XLVI International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Inequality for x,y,z >= 1 involving fractional expressions*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1vgyI0AcVdml3o7K4kvIflQDG_gB6z_42/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Inequality for x,y,z >= 1 involving fractional expressions
+
+> Let $x, y, z$ be real numbers each greater than $1$. Prove that $$\frac{x^5-x^2}{x^5+y^3+z^3}+\frac{y^5-y^2}{y^5+z^3+x^3}+\frac{z^5-z^2}{z^5+x^3+y^3}\ge 0.$$
+
+[[src_imho_2005__Q03]]

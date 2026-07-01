@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q06
 parent: src_kangourou_2018_benjamin_marzo
 competition: Kangourou 2018 Benjamin - Gara 15 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato del quadrato piu grande tra tre quadrati*
 
@@ -47,3 +50,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Side of the largest square of three squares*
+
+![[src_kangourou_2018_benjamin_marzo__prob6.png]]
+
+> In the figure, you see three squares. The smallest side is 6 cm long. How many centimetres is the length of the side of the largest square? A) 8
+> 	
+> B) 10
+> 	
+> C) 12
+> 	
+> D) 14
+> 	
+> E) 16
+
+**Answer:** C
+[[src_kangourou_2018_benjamin_marzo__Q06]]

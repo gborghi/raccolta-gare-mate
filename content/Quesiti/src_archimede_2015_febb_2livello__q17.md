@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q17
 parent: src_archimede_2015_febb_2livello
 competition: Archimede Gara di Febbraio 2015 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *valori di k e di n*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/147OSJf1wSBJHNEWKDKPVWMIP2TLevkAt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>value of k and n < MSK1/>
+
+> Demonstrative Exercise Whether n is a positive integer and whether 1 = d1 < d2 < d3 < . . . < dk = n of its positive divisors, ordered by size. We know that k ≥4 and that d2 3 + d2 4 = 2n + 1. (a) Find all possible values of k. (b) Find all possible values of n.
+
+[[src_archimede_2015_febb_2livello__Q17]]

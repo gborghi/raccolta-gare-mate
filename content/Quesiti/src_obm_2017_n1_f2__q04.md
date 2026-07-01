@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n1_f2__Q04
 parent: src_obm_2017_n1_f2
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Strictly positive sequence with controlled differences converging to 0 satisfies a_n ≥ d/n*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iwmdzVC1anDxEvSBue1NcwFMI43Xg_Zx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza strettamente positiva con differenze controllate convergenti a 0 soddisfa a_n ≥ d/n*
+
+> Che $(a_n)_{n \ge 1}$ sia una sequenza di termini strettamente positivi con $\lim_{n \to \infty} a_n = 0$, in modo tale che per una costante $c > 0$ e per tutte le $n \ge 1$, $$|a_{n+1} - a_n| \le c \cdot a_n^2.$$ dimostri l'esistenza di $d > 0$ in modo tale che $a_n \ge \dfrac{d}{n}$ per tutte le $n \ge 1$.
+
+[[src_obm_2017_n1_f2__Q04]]

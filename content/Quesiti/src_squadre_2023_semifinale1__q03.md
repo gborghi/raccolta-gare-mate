@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Semifinale 1 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_semifinale1__Q03
 parent: src_squadre_2023_semifinale1
 competition: Gara a Squadre 2023 - Semifinale 1
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato quadrato inscritto in circonferenza con quadrato grande*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0220
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Square side inscribed in a circle with a large square*
+
+> To escape from Zenonigata Inspector Zenonigata voted his career to capture Lupin/3. Perhaps this time it did: the Lupin/3 raft (a square on side l) has one side glued to one side of the Zenonigata raft (a larger square, on side 1100). The only possibility for Lupin/3 to escape would be to calculate the length of l, knowing that the circumference circumscribed to the raft of Zenonigata also passes through the two vertices of the raft of Lupin/3 that do not lie on the other raft. Unfortunately for the inspector, Lupin/3 is escaping. How much is it worth?
+
+**Answer:** 0220
+[[src_squadre_2023_semifinale1__Q03]]

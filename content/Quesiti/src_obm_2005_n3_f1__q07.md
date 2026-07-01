@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f1__Q07
 parent: src_obm_2005_n3_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distinct board squares touched by a 1x2x3 block rolled around an 8x8 board*
 
@@ -53,3 +56,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i quadrati distinti della lavagna toccati da un blocco 1x2x3 rotolato attorno a una lavagna 8x8*
+
+> Un blocco di dimensioni $1 \times 2 \times 3$ è posizionato su una lavagna $8 \times 8$, come mostra la figura, con una delle sue facce in contatto con l'angolo inferiore sinistro della lavagna. Rotoliamo il blocco, girandolo intorno ai bordi della lavagna finché non ritorna alla posizione da cui ha iniziato. In questo modo il blocco, che ruota sulle sue facce $X$, $Y$ e $Z$, occupa diversi quadrati della lavagna. Quanti quadrati della lavagna erano in contatto con il blocco? (A) $18$ (B) $19$ (C) $20$ (D) $21$ (E) $22$
+
+![[src_obm_2005_n3_f1__Q07.png]]
+
+[[src_obm_2005_n3_f1__Q07]]

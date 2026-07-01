@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f3__Q04
 parent: src_obm_2009_n2_f3
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given a²(b+c)=b²(c+a)=2010, compute c²(a+b)*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2010
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LX5lriZmay4faIzZGdpod2kqS8160CrJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dato che a2(b+c)=b2(c+a)=2010, calcolare c2(a+b)*
+
+> $a$, $b$ e $c$ siano numeri reali come $a \ne b$ e $a^2(b+c) = b^2(c+a) = 2010$. Calcolare < MSK5/>.
+
+**Risposta:** 2010
+[[src_obm_2009_n2_f3__Q04]]

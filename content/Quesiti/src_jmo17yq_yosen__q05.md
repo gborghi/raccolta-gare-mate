@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo17yq_yosen__Q05
 parent: src_jmo17yq_yosen
 competition: Japan Mathematical Olympiad 2007 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum regions the plane is divided into by 3 axis-aligned rectangles*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Regioni massime in cui il piano è diviso in 3 rettangoli allineati all'asse*
+
+> Tre rettangoli sono posizionati su un piano in modo che due di essi abbiano lati reciprocamente paralleli (cioè, tutti i lati sono paralleli a una delle due direzioni perpendicolari fisse). In quante regioni al massimo questi tre rettangoli possono dividere il piano? L'interno e il confine di ogni rettangolo sono considerati, e una regione non contenuta in alcun rettangolo è anche considerata come una regione. (Per esempio, un singolo rettangolo divide il piano in regioni $2$.)
+
+[[src_jmo17yq_yosen__Q05]]

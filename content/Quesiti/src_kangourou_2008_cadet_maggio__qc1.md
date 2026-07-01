@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_maggio__QC1
 parent: src_kangourou_2008_cadet_maggio
 competition: Kangourou 2008 - Cadet finale nazionale (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affluenza finale alle urne (incremento percentuale)*
 
@@ -39,3 +42,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 84%
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xzcCtKgXNW9sDUlvwxKZKhDmQXZC9iIk/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Final turnout at the polls (increase in percentage) < MSK1/>
+
+> Elections for mayor of Kanguria are held every four years. Voters can exercise their right to vote in a single day.
+> 
+> Four years ago, voter turnout at 1 p.m. was < MSK0/> of the eligible voters, and at the end it was < MSK1/>.
+> 
+> This year the attendance recorded at 1 p.m. was < MSK0/>. What will be the final outcome if the habits of the population have not changed and the people who are comfortable voting in the afternoon can be expected to have the same interest in voting as the people who are comfortable voting in the morning?
+
+**Answer:** 84%
+[[src_kangourou_2008_cadet_maggio__QC1]]

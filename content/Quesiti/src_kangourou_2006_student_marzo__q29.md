@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q29
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo ombreggiato (esagono e quadrati)*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shaded triangle area (hexagon and square) *
+
+![[src_kangourou_2006_student_marzo__prob29.png]]
+
+> In the figure you see a side hexagon; XABC and XPQR are squares. How much is the area of the shaded triangle worth? A)              B)           C)        D)             E)
+
+**Answer:** A
+[[src_kangourou_2006_student_marzo__Q29]]

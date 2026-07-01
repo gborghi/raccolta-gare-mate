@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2017 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2017__Q09
 parent: src_smc_2017
 competition: Senior Mathematical Challenge 2017
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *An n×(n+1) rectangle is tiled by k×(k+1) rectangles for k=1 to 8; find n.*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un rettangolo n×(n+1) è cartigliato da rettangoli k×(k+1) per k=1 a 8; trovare n.*
+
+> Il diagramma mostra un rettangolo $n \times (n+1)$ incollato con rettangoli $k \times (k+1)$, dove $n$ e $k$ sono numeri interi e $k$ prende ogni valore da $1$ a $8$ inclusivo.
+> 
+> Qual è il valore di < MSK0/>?
+>
+> - **(A)** $16$
+> - **(B)** $15$
+> - **(C)** $14$
+> - **(D)** $13$
+> - **(E)** $12$
+
+![[src_smc_2017__Q09.png]]
+
+**Risposta:** A
+[[src_smc_2017__Q09]]

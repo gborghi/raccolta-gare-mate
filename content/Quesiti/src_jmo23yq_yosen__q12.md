@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo23yq_yosen__Q12
 parent: src_jmo23yq_yosen
 competition: Japan Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence with fixed sum of consecutive ratios; minimal constant c*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\dfrac{2}{\sqrt{\,4 - \left(\dfrac{a_2}{a_1} + \dfrac{a_2}{a_3}\right)^2\,}}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dMCin6mfKEWYPJJU3SDEXt5-U6UwypUB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza con somma fissa di rapporti consecutivi; costante minima c*
+
+> Che $a_1, a_2, \ldots$ sia una sequenza infinita di differenti reali non-zero in modo tale che $\dfrac{a_{i+1}}{a_i} + \dfrac{a_{i+1}}{a_{i+2}}$ prenda un unico valore fisso, maggiore di $0$ e inferiore a $2$, per tutti gli integri positivi $i$. Trovare, in termini di $a_1, a_2, a_3$, il valore minimo di un numero reale $c$ per il quale si applica la seguente condizione. Condizione: per tutti gli integri positivi $x, y$ con $x < y$, $$\frac{a_x a_{x+1} + a_{x+1} a_{x+2} + \cdots + a_{y-1} a_y}{a_x a_y} \le c$$ è valido.
+
+**Risposta:** $\dfrac{2}{\sqrt{\,4 - \left(\dfrac{a_2}{a_1} + \dfrac{a_2}{a_3}\right)^2\,}}$
+[[src_jmo23yq_yosen__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r3__Q05
 parent: src_rmo_2013_r3
 competition: Regional Mathematical Olympiad 2013
@@ -38,6 +39,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence of triangles from orthocentre reflections; angle condition implies 60°*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LyJj9lZ6d9wJTkSmciSZe9Gn8yrb6GdD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di triangoli da riflessioni ortocentriche; condizione angolare implica 60°*
+
+> Che $ABC$ sia un triangolo non rettangolare. Definire una sequenza di triangoli $A_i B_i C_i$, con $i \ge 0$, come segue: $A_0 B_0 C_0$ è il triangolo $ABC$, e, per $i \ge 0$, $A_{i+1}, B_{i+1}, C_{i+1}$ sono rispettivamente i riflessi dell'ortocentro del triangolo $A_i B_i C_i$ nei lati $B_i C_i, C_i A_i, A_i B_i$. Supponiamo che $\angle A_m = \angle A_n$ per alcuni numeri naturali $m, n$ con $m \ne n$. Prove che $\angle A = 60^\circ$.
+
+[[src_rmo_2013_r3__Q05]]

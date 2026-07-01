@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q03
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei diametri di cerchio grande e cerchio piccolo*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 23 cm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of diameters of large circle and small circle*
+
+> Modern artists are inspired by geometric shapes. In this table you can see a rectangular triangle whose area is < MSK0/> and whose sides are measured by an integer of cm. What is the sum of the two diameters (the larger circle and the smaller circle)?
+
+![[src_bocconi_squadre_2013__Q03.png]]
+
+**Answer:** 23 cm
+[[src_bocconi_squadre_2013__Q03]]

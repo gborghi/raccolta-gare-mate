@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q10
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età di Nando se invertendo le cifre diventa tre volte il nipote*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 72
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Nando's age if you reverse the numbers becomes three times the grandson*
+
+> Nando is 4 times his grandson's age but, if you reverse the two digits of each age, the new grandson's age becomes 3 times that of Nando.
+> 
+> How old is Nando?
+
+**Answer:** 72
+[[src_bocconi_squadre_2010__Q10]]

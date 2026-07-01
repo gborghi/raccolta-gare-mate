@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q17
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *punti di Lidia*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>points of Lidia< MSK1/>
+
+![[src_kangourou_2023_cadet__prob17.png]]
+
+> Tom, Giulio and Lidia each fired six shots at a different target. The arrows dropped within the same region (circle or circular crown) total the same number of points. Tom scored 46 points and Julius 34. How many did Lydia make? A) 37 B) 38
+> 	
+> C) 39 D) 40 E) 41
+
+**Answer:** D
+[[src_kangourou_2023_cadet__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Triennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_triennio__Q13
 parent: src_archimede_2024_triennio
 competition: Giochi di Archimede 2024 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area dell'unione di due esagoni regolari con diagonali coincidenti*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 29
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/143YPNmeWeZZbsXCwBGxRCZGJVSX0Jrxx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of union of two regular hexagons with parallel diagonals*
+
+> The circumference ω passes through the vertex D of the rectangle ABCD and is tangent to the sides AB and BC at points P and Q. The AP and CQ segments measure, in the order, 3 m and 4 m. How many m2 does the area of the rectangle ABCD measure ? A B C D P Q ω
+>
+> - **(A)** 72
+> - **(B)** 75
+> - **(C)** 80
+> - **(D)** 84
+> - **(E)** 81
+
+**Answer:** 29
+[[src_archimede_2024_triennio__Q13]]

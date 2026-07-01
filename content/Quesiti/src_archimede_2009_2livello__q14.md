@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_2livello__Q14
 parent: src_archimede_2009_2livello
 competition: Archimede Gara 2° livello 2009 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prime tre cifre decimali della somma di potenze di x*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 414
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First three decimal digits of the sum of powers of x*
+
+> Whether x is the smallest of the two solutions to the equation x2 −4x + 2 = 0. What are the first three digits after the comma in the writing (based 10) of the number x + x2 + x3 + · · + x2009?
+
+**Answer:** 414
+[[src_archimede_2009_2livello__Q14]]

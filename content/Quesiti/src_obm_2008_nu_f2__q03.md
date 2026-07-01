@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 2 —
   Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_nu_f2__Q03
 parent: src_obm_2008_nu_f2
 competition: Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 2
@@ -39,6 +40,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence recurrence: bounded subsequence from infinite arithmetic progression*
 
@@ -51,3 +54,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zIWUXA6Yj_C2VT4GI2D1j5bIQWRZ6D6F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Recurrenza della sequenza: subsequenza limitata da progressione aritmetica infinita*
+
+> Date $n,a_1,a_2,\ldots,a_n$ integri positivi, definire $q_0=1$, $q_1=a_1$ e $q_{i+1}=a_{i+1}q_i+q_{i-1}$ per $1\le i\le n-1$.
+> 
+> Prove che per ogni $c>1$ esiste $K>0$ tale che per ogni $M>K$ esiste $n$ un intero positivo e $a_1,a_2,\ldots,a_n$ appartenente a $\{1,2\}$ tale che $M\le q_n < c\cdot M$.
+
+[[src_obm_2008_nu_f2__Q03]]

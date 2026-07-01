@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior (20 marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior__Q03
 parent: src_kangourou_2003_junior
 competition: Kangourou 2003 Junior (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale striscia ha area maggiore*
 
@@ -62,3 +65,34 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which strip has a larger area< MSK1/>
+
+![[src_kangourou_2003_junior__prob3.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.8]
+\draw[thick] (-0.5,2) -- (7.5,2) node[right] {$r$};
+\draw[thick] (-0.5,0) -- (7.5,0) node[right] {$s$};
+\draw[fill=gray!20] (0,0) -- (0,2) -- (1.5,2) -- (1.5,0) -- cycle;
+\node at (0.75,1) {1};
+\draw[<->] (0,2.4) -- (1.5,2.4) node[midway,above] {$a$};
+\draw[fill=gray!20] (2,0) -- (3,2) -- (4.5,2) -- (3.5,0) -- cycle;
+\node at (3.25,1) {2};
+\draw[<->] (3,2.4) -- (4.5,2.4) node[midway,above] {$a$};
+\draw[fill=gray!20] (4.5,0) -- (6,2) -- (7,2) -- (5.5,0) -- cycle;
+\node at (5.75,1) {3};
+\draw[<->] (6,2.4) -- (7,2.4) node[midway,above] {$a$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure three strips are indicated, all having the same horizontal width equal to a. The two lines r and s that delimit these strips are parallel. Which strip has larger area? A) The strips have the same area B) The strip 1 C) The strip 2 D) The strip 3 E) You cannot answer if you do not know a
+
+**Answer:** A
+[[src_kangourou_2003_junior__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1973-74 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1973-74_round1__Q04
 parent: src_bmo_1973-74_round1
 competition: British Mathematical Olympiad 1973-74 — Round 1
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find inverse of 16x16 matrix with 1s on leading diagonal and in 16th row*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'inverso della matrice 16x16 con 1s sulla diagonale di punta e nella sesta riga*
+
+> $M$ è una matrice $16 \times 16$. Ogni elemento nella diagonale principale e ogni elemento nell'ultima riga (la sesta riga) è $1$. Ogni altro elemento della matrice è $0$. Trova l'inverso di $M$.
+
+[[src_bmo_1973-74_round1__Q04]]

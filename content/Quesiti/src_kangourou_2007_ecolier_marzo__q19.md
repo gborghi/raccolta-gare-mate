@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Ecolier (marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q19
 parent: src_kangourou_2007_ecolier_marzo
 competition: Kangourou 2007 Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma punti invisibili di 7 dadi impilati*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of invisible points of 7 stacked dice*
+
+> A dice is a cube whose faces are numbered from 1 to 6. The sum of the numbers on two opposite sides is always 7. Seven dice are stacked as shown in the figure. Imagine that you can observe the piles from every angle. What is the sum of the points that are still invisible, hidden between the dice or under the piles? A) 49 B) 47 C) 46 D) 42 E) 35
+
+**Answer:** C
+[[src_kangourou_2007_ecolier_marzo__Q19]]

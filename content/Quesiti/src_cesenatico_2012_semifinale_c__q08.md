@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_semifinale_c__Q08
 parent: src_cesenatico_2012_semifinale_c
 competition: Gara a Squadre Cesenatico 2012 - Semifinale C
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Acqua nella piscina tetraedro inscritto*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0448
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Water in the tetrahedral pool inscribed*
+
+> The followers of the Great Cthulhu to be ready for the Chaos of the Last Day completely changed the usual rules of calculation on natural numbers. The addition has been replaced by an operation denoted by tale which for each a,b ∈N, has ab = a+b+1, whereas, instead of multiplication, an operation has been adopted, denoted by •, such that 0•0 = 1, and that for each a,b,c ∈N, has a•b = b•a and also that a•bc) = (a•b)(a•c). According to the Necronomicon, only 12•7)17 days remain until Cthulhu wakes up: how many days would that be?
+
+**Answer:** 0448
+[[src_cesenatico_2012_semifinale_c__Q08]]

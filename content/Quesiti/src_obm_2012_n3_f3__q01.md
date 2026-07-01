@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f3__Q01
 parent: src_obm_2012_n3_f3
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Amoeba colour dynamics; count possible states in test tube*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Dinamica del colore Amoeba; contare gli stati possibili nel tubo di prova< MSK1/>
+
+> Quando due amebe rosse si incontrano, si trasformano in una sola ameba blu; quando un ameba rosso incontra un ameba blu, le due si trasformano in tre amebe rosse; quando due amebe blu si incontrano, si trasformano in quattro amebe rosse. Un tubo di prova contiene inizialmente < MSK0/> amoebas blu e < MSK1/> amoebas rosse.
+> 
+> Determinare, in funzione di $a$ e $v$, tutte le possibili quantità di amoeba nel tubo di prova e il numero di amoeba di ogni colore per ciascuna di tali quantità.
+
+[[src_obm_2012_n3_f3__Q01]]

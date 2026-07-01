@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q23
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita vincita iterando prodotto delle cifre da 1 a 10000*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0500
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of winning by iterating product of digits 1 to 10000*
+
+> It's a chicken trap. Based in Tortoise, Master Gibbs makes his living cheating passersby with gambling. The homeless person randomly extracts a number from 1 to 10,000 from a bag. It then iteratively starts to replace it with the product of its digits, and it loses if at any time it drops tightly below 9. Instead, he wins if he can get indefinitely numbers not less than 9. What are the odds of winning? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
+
+**Answer:** 0500
+[[src_gas_2010_finale__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q13
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find AB in rectangle ABCD with E midpoint of AB and two perpendicularity conditions*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca AB nel rettangolo ABCD con punto medio E di AB e due condizioni di perpendicularità*
+
+> In un rettangolo $ABCD$, $E$ è il punto medio di $AB$; $F$ è un punto su $AC$ tale che $BF$ sia perpendicolare a $AC$; e $FE$ sia perpendicolare a $BD$. Supponiamo $BC = 8\sqrt{3}$. Trova < MSK10/>.
+
+[[src_prmo_2017__Q13]]

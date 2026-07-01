@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f2__Q06
 parent: src_obm_1998_n3_f2
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest multiple of 1998 with only digits 0 and 3*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $333333330$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nuYoFCi09PHCxKrrXgBXv2NK1rRfD75Z/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più piccolo multiple del 1998 con solo i numeri 0 e 3*
+
+> Il più piccolo multiple di $1998$ che ha solo le cifre $0$ e $9$ è $9990$. Qual è il più piccolo multiple di $1998$ che ha solo le cifre $0$ e $3$?
+
+**Risposta:** $333333330$
+[[src_obm_1998_n3_f2__Q06]]

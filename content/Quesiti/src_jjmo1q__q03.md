@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2003 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo1q__Q03
 parent: src_jjmo1q
 competition: Japan Junior Mathematical Olympiad 2003
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find ratio DS/SR using two cevians in a parallelogram*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rileva il rapporto DS/SR utilizzando due ceviani in un parallelo*
+
+> Nel parallelo $ABCD$, due punti $P$ e $Q$ sono posizionati sul lato $BC$ in modo tale che $$BP : PQ : QC = 3 : 2 : \sqrt{7}.$$ $R$ sia l'intersezione della linea $AP$ con la linea $CD$, e $S$ sia l'intersezione della linea $AQ$ con la linea $CD$. Trova il valore di < MSK11/>.
+
+![[src_jjmo1q__Q03.png]]
+
+[[src_jjmo1q__Q03]]

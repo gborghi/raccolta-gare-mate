@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f1__Q15
 parent: src_obm_2013_n1_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum class size given winner had 10 votes and others distinct*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZFAopdNjG-Ynm1d9LROcVImmCRs-HuH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>La taglia minima della classe data al vincitore ha avuto 10 voti e altri distinti< MSK1/>
+
+> L'insegnante Marli ha proposto una elezione per rappresentare la classe di sesto anno. Cinque studenti si presentarono come candidati. Tutti gli studenti hanno votato e il vincitore è stato Pedrinho, con voti $10$. Gli altri quattro candidati hanno ricevuto ciascuno un numero diverso di voti. Almeno quanti studenti ci sono in questa classe?
+> 
+> (A) $16$ \quad (B) $30$ \quad (C) $34$ \quad (D) $36$ \quad (E) $40$
+
+[[src_obm_2013_n1_f1__Q15]]

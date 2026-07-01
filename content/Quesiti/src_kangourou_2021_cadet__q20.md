@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q20
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di esagoni dati 12 pentagoni del pallone*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of hexagons given 12 pentagons of the ball*
+
+![[src_kangourou_2021_cadet__prob20.png]]
+
+> Football balls from a few years ago were built with white hexagons and black pentagons next to each other as the figure suggests. There were 12 pentagons in total. How many hexagons were there? (A) 12 (B) 15 (C) 18 (D) 20 (E) 24 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** D
+[[src_kangourou_2021_cadet__Q20]]

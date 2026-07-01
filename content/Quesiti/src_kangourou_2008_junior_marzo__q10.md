@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q10
 parent: src_kangourou_2008_junior_marzo
 competition: Kangourou 2008 - Junior (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti test ancora per media 4/5*
 
@@ -64,3 +67,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many more tests per average 4/5< MSK1/>
+
+> In my classroom, math tests are made up of five questions. In the first test I took, I only answered one of the five questions correctly. If from now on I prepare very well so that I can always answer every question correctly, how many tests do I have to take to get an average of four out of five correct answers? A) 2 B) 3 C) 4 D) 5 E) 6 √5 √5 + √2 √13 B A O K + K O = ------ W O W 1 2 3 4 5 Texts_08.qxp 9-03-2008 14:56 Page 23
+> 
+> I'm going to pay. I'm going to pay. 24 24 Kang 2008 Kang 2008 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** B
+[[src_kangourou_2008_junior_marzo__Q10]]

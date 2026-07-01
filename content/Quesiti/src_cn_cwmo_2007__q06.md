@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2007 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2007__Q06
 parent: src_cn_cwmo_2007
 competition: China Western Mathematical Olympiad 2007
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers x1,...,xs,y satisfying a given system of conditions*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli integri positivi x1,...,xs,y che soddisfano un dato sistema di condizioni*
+
+> Trovare tutti i numeri interi positivi $x_1, x_2, \ldots, x_s, y$ che soddisfano le seguenti condizioni $$\begin{cases} \lfloor x_i + x_j \rfloor = 0, & 1 \le i < j \le s, \\ \lfloor x \rfloor + 1 = x_k y^s. \end{cases}$$
+
+[[src_cn_cwmo_2007__Q06]]

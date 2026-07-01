@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Ecolier (marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q20
 parent: src_kangourou_2006_ecolier_marzo
 competition: Kangourou 2006 Ecolier (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi abita al primo piano (logica)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1pKY5ouqmagp75LpVMmZ7-wegTuPPO_ZD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Who lives on the first floor (logic) *
+
+> Irene, Anna, Clara, Olga, and Elena live in the same building. Two of them live on the first floor, the others on the second. Olga lives on a different floor than Clara and Elena. Anna lives on a different floor than Irene and Clara. Who lives on the first floor? A) Clara and Elena B) Irene and Elena C) Irene and Olga D) Irene and Clara E) Anna and Olga
+
+**Answer:** E
+[[src_kangourou_2006_ecolier_marzo__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2024 — Nível 3 — Fase x — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_n3_fx__Q04
 parent: src_obm_2024_n3_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível 3 — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three distinct reals satisfying cyclic system; prove all lie in (-1,1)*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre realtà distinte che soddisfano il sistema ciclico; dimostrare che tutte si trovano in (-1,1) *
+
+> Che $x, y, z$ siano tre numeri reali distinti in modo tale che $$\begin{cases} x^2 - x = yz \\ y^2 - y = zx \\ z^2 - z = xy \end{cases}$$ dimostri che $-1 < x, y, z < 1$.
+
+[[src_obm_2024_n3_fx__Q04]]

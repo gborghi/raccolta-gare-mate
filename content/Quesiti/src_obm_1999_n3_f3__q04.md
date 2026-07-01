@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f3__Q04
 parent: src_obm_1999_n3_f3
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Antipodal city Kriptonita prices differ by at most 100 Urghs*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17yibfSyhuhmSwDbCsRV7EjaJIGuB8esS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Prezzi di Kriptonita città antipodal differiscono di non più di 100 Urghs< MSK1/>
+
+> Il pianeta $\textit{Zork}$ è sferico e ha molte città. Per ciascuna città esiste una città antipodal (cioè simmetrica rispetto al centro del pianeta). In $\textit{Zork}$ le strade collegano coppie di città $P$ e $Q$; vi è anche una strada che collega le città $P'$ e $Q'$, dove $P'$ è la città antipodal di $P$ e $Q'$ è la città antipodal di $Q$. Inoltre, le strade non si attraversano e tra due città $P$ e $Q$ è sempre possibile viaggiare da $P$ a $Q$ lungo una certa sequenza di strade.
+> 
+> Il prezzo di $\textit{Kriptonita}$ (un minerale planetario) in due città collegate da una strada differisce al massimo di $100$ $\textit{Urghs}$. Provare che esistono due città antipodiche in cui il prezzo di $\textit{Kriptonita}$ differisce esattamente di almeno $100$ $\textit{Urghs}$.
+> 
+> Più precisamente: dimostrare che esistono due città antipodali in cui il prezzo di $\textit{Kriptonita}$ differisce al massimo di $100$ $\textit{Urghs}$.
+
+[[src_obm_1999_n3_f3__Q04]]

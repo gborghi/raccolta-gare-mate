@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo25yq_yosen__Q08
 parent: src_jmo25yq_yosen
 competition: Japan Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find PQ where Q is the second intersection of circumcircles of triangles PAC and PBD*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\dfrac{55\sqrt{7}}{14}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1puWzUo8OLdW2kCIHzGHhZaVauCRdH9Ya/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca PQ dove Q è la seconda intersezione dei circoncircoli dei triangoli PAC e PBD*
+
+> Cinque punti $A, B, C, D, P$ si trovano in un piano, con $A, B, C, D$ collineare in tale ordine. Abbiamo $AB = BC = CD = 6$, $PB = 5$, $PC = 7$. Il $Q$ deve essere l'intersezione tra il circoncircolo di $\triangle PAC$ e il circoncircolo di $\triangle PBD$ diverso da $P$. Trova la lunghezza < MSK9/>.
+> 
+> (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** \dfrac{55\sqrt{7}}{14}
+[[src_jmo25yq_yosen__Q08]]

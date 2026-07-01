@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q05
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle with angle BAD=30 degrees, find angle x*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles con angolo BAD=30 gradi, trovare angolo x*
+
+> Nella figura, $AB = AC$, $AE = AD$ e l'angolo $BAD = 30^\circ$. Poi l'angolo $x$ misura:
+> 
+> **A) ** $10^\circ$ \quad **B) ** $20^\circ$ \quad **C) ** $15^\circ$ \quad **D) ** $30^\circ$ \quad **E) ** $5^\circ$
+
+![[src_obm_2006_n2_f1__Q05.png]]
+
+**Risposta:** C
+[[src_obm_2006_n2_f1__Q05]]

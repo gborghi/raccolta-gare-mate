@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2011 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2011__Q03
 parent: src_bocconi_squadre_2011
 competition: Gara a Squadre 2011
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Gioco con gettoni: numero minimo da togliere per vincere*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csoOdxkAD8Fd4QvzRpEPzVVVOCkJ8l1C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Game with tokens: minimum number to be withdrawn to win*
+
+> Carla and Milena are having fun with twenty-five tokens on the table. The game consists of removing, with each move, 1 or 4 or 7 or 8 tokens (while it is forbidden to remove any other number of tokens from the table). The winner is the one who removes the last or last token on the table. It's Carla, now. How many tokens does she have to take away on her first move to be sure of winning, whatever strategy Milena then adopts? (Answer 0 if you think that, for any initial move by Carla, Milena has a chance to win the game.)
+
+**Answer:** 0
+[[src_bocconi_squadre_2011__Q03]]

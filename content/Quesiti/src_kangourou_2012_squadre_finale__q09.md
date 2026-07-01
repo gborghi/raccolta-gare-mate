@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre finale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q09
 parent: src_kangourou_2012_squadre_finale
 competition: Kangourou 2012 squadre finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pagine restanti dato somma numeri pagine oggi 5106*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 397
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Remaining pages summed up page numbers today 5106*
+
+> Roberto's book to read must read a 630-page book. Yesterday he read a third of it and the sum of the page numbers he will read today is 5106. After today's reading, how many pages of the book will he have left to read?
+
+**Answer:** 397
+[[src_kangourou_2012_squadre_finale__Q09]]

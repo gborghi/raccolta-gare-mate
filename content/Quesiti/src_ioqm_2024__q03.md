@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q03
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Last two digits of $5^{2024}$*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 25
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le ultime due cifre di $5^{2024}$*
+
+> Il numero ottenuto prendendo le ultime due cifre di $5^{2024}$ nello stesso ordine è:
+
+**Risposta:** 25
+[[src_ioqm_2024__Q03]]

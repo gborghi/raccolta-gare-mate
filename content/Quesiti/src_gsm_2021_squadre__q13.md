@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2021_squadre__Q13
 parent: src_gsm_2021_squadre
 competition: Gara a Squadre GSM (locale Genova) 2021
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *somma max e min che dicono il vero*
 
@@ -70,3 +73,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2526
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* sum of max and min that say the real *
+
+> At Villasimius Andrea Giusto Simone (Walking on a long beach in Villasimius) Look at how many people. Mara is 2021. Simone, how do you know? Mara, can't you see? Each of them wrote a sentence on the shirt like n of 2021. They're part of a society where every member either always tells the truth or lies. They are divided into 4 groups: group A, where members with an equal number less than 1011 are located; group B, with members with an odd number less than 1010; group C, which consists of members with an equal number greater than 1011; and finally group D, with members with an odd number greater than 1010. Listen, they're about to talk. Members with a multiple of mine always lie. Members with a multiple of mine always tell the truth. Partnership with the 2020 of 2021 article Partners with an equal number always tell the truth. The partners who say the truth are more numerous than the partners who say the false. Simone Incredible: all the people in the same group made the same statement! What is the sum between the maximum possible number of partners telling the truth and the minimum possible? Team competition 2021  Problem texts  Pag. 3 di 5
+
+**Answer:** 2526
+[[src_gsm_2021_squadre__Q13]]

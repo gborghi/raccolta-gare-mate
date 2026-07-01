@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1997 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1997__Q01
 parent: src_rmo_1997
 competition: Regional Mathematical Olympiad 1997
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle area and quadrilateral area from cevians*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fsneixMr3FqHhay8mNcRHVWgNyyUmpPY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*area triangolare e area quadrilaterale da ceviani*
+
+> Il $P$ deve essere un punto interno di un triangolo $ABC$ e $BP$ e $CP$ devono incontrare $AC$ e $AB$ rispettivamente in $E$ e $F$. Se < MSK8/>, < MSK9/> e < MSK10/>, trovare < MSK11/>. (Qui $[\cdot]$ indica l'area di un triangolo o di un quadrilaterale, a seconda del caso).
+
+[[src_rmo_1997__Q01]]

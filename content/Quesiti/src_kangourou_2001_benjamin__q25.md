@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q25
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo punti sulla torre di dadi*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum points on the dice tower*
+
+![[src_kangourou_2001_benjamin__prob25.png]]
+
+> In a common dice, the sum of the points on the opposite faces always gives seven. Cecilia builds a tower with six identical common dice, gluing the faces as shown in the figure. What is the maximum number of points Cecilia can score by adding up the values obtained on the surface of the tower?
+>
+> - **(A)** 106
+> - **(B)** 91
+> - **(C)** 95
+> - **(D)** 84
+> - **(E)** 96.
+
+**Answer:** E
+[[src_kangourou_2001_benjamin__Q25]]

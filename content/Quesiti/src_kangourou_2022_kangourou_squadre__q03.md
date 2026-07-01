@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre__Q03
 parent: src_kangourou_2022_kangourou_squadre
 competition: Kangourou Squadre 2022 Kangourou Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero 5 cifre con cifra 1 spostata, triplo*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2857
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kPr4pxe9JLW6PscULmAS1patprSg1xRs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number 5 digits with digit 1 shifted, triple*
+
+> The triple C is a single positive five-digit integer that enjoys this property: by placing the digit 1 after its five digits, you get a number that is triple what you get by placing the digit 1 before its five digits. Find this five-digit number and subtract the tens of thousands. What number do you get?
+
+**Answer:** 2857
+[[src_kangourou_2022_kangourou_squadre__Q03]]

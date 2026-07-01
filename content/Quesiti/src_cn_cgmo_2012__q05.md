@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2012 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2012__Q05
 parent: src_cn_cgmo_2012
 competition: China Girls' Mathematical Olympiad 2012
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inscribed circle tangent to sides; prove angle equality*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo inciso tangente ai lati; prova uguaglianza angolare*
+
+> Come mostrato nella figura. 5-1, il cerchio inscritto $O$ di $\triangle ABC$ è tangente ai lati $AB$ e $AC$ rispettivamente ai punti $D$ e $E$. E $O$ è il centro circundante di $\triangle BCE$. Prove che $\angle ODB = \angle OEC$. (postato da Zhu Huawei)
+
+![[src_cn_cgmo_b11_w217__Q05.png]]
+
+[[src_cn_cgmo_2012__Q05]]

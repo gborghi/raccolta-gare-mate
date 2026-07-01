@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 1 —
   Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_nu_f1__Q03
 parent: src_obm_2004_nu_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find tangent line to a curve at two distinct points*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rns90hvVWwghYkYiNKyUvjjjPu-_eNED/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare la linea tangente di una curva a due punti distinti*
+
+> Determinare l'equazione della linea tangente alla curva $y = 3x^2 - 4x^3$ in due punti distinti.
+
+[[src_obm_2004_nu_f1__Q03]]

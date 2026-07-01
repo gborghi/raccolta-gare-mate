@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2020 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2020__Q04
 parent: src_cn_csmo_2020
 competition: China Southeastern Mathematical Olympiad 2020
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inkjet printer on 1×n strip with random adjacent blackening, find expected prints T(n)*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK1/>Printa a getto d'inchiostro su 1 < MSK0/>n striscia con scuro accidentale adiacente, trovare le strisce attese T(n) < MSK2/>
+
+> Una stampante a getto di inchiostro è utilizzata per stampare su una striscia di carta con griglie $1 \times n$. Quando la nozzola stampa sulla griglia $i$th ($1 \le i \le n$), diventa nera; inoltre, ciascuna delle griglie adiacenti, la griglia $(i-1)$th e la griglia $(i+1)$th (se esistono), ha indipendentemente la probabilità che $\dfrac{1}{2}$ diventi nera. Il numero previsto di stampe deve essere il $T(n)$ per rendere tutte le griglie nere, a condizione che sia adottata la strategia ottimale (fare il minor numero possibile di stampe). Trova la formula di $T(n)$.
+
+[[src_cn_csmo_2020__Q04]]

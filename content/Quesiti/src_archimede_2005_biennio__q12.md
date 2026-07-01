@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Biennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_biennio__Q12
 parent: src_archimede_2005_biennio
 competition: Giochi di Archimede 2005 - Gara Biennio
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo con assi e bisettrice concorrenti*
 
@@ -47,3 +50,20 @@ tags:
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangle with competing axes and axes *
+
+> In a triangle, for each pair of consecutive sides, the two axes of the sides and the hinge of the angle formed by the two sides meet at the same point. We can say that:
+>
+> - **(A)** There is no triangle with this property.
+> - **(B)** The triangle is equilateral.
+> - **(C)** the triangle has an angle of 30°,
+> - **(D)** The triangle is rectangle.
+> - **(E)** the triangle has an angle of 45°.
+
+**Answer:** B
+[[src_archimede_2005_biennio__Q12]]

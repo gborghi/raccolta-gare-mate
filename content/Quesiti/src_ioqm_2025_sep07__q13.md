@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q13
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -36,6 +37,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quadrilateral with given sides and angles 30° and 90°; acute angle between diagonals*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterali con lati e angoli dati 30° e 90°; angolo acuto tra le diagonali*
+
+> I tre lati di un quadrilaterale sono $a = 4\sqrt{3}$, $b = 9$ e $c = \sqrt{3}$. I lati $a$ e $b$ contengono un angolo di $30^\circ$, e i lati $b$ e $c$ contengono un angolo di $90^\circ$. Se l'angolo acuto tra le diagonali è $x^\circ$, qual è il valore di $x$?
+
+[[src_ioqm_2025_sep07__Q13]]

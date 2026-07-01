@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1986 (27th IMO, Warsaw) — Quesito 6'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1986__Q06
 parent: src_imo_1986
 competition: 'IMO 1986 (27th IMO, Warsaw)'
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Two-color integer points balancing counts on axis-parallel lines*
 
@@ -38,3 +41,13 @@ tags:
 **Metodo:** [[method_colorazione|Colorazione / parita]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Q7vmoRjHZBnLVOcJfGhRBYvwVepRUaQE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Two-color integer points balancing counts on axis-parallel lines*
+
+> One is given a finite set of points in the plane, each point having integer coordinates. Is it always possible to color some of the points in the set red and the remaining points white in such a way that for any straight line L parallel to either of the coordinate axes the difference (in absolute value) between the numbers of white point and red points on L is not greater than 1?
+
+[[src_imo_1986__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q08
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Chocolate bar divided 2/5, 1/4, remainder 70g; find total weight*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Barella di cioccolato divisa 2/5, 1/4, restante 70 g; trovare peso totale < MSK1/>
+
+> Una barra di cioccolato è divisa tra Nelly, Penha e Sônia. Sapendo che Nelly riceve $\dfrac{2}{5}$ della barra, Penha $\dfrac{1}{4}$ della barra, e Sônia $70$ grammi, il peso della barra, in grammi, è:
+> 
+> **(A)** $160$ $\quad$ **(B)** $200$ $\quad$ **(C)** $240$ $\quad$ **(D)** $280$ $\quad$ **(E)** $400$
+
+**Risposta:** B
+[[src_obm_2009_n2_f1__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2002-03 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2002-03_round1__Q04
 parent: src_bmo_2002-03_round1
 competition: British Mathematical Olympiad 2002-03 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Greatest number of red points on grid with no axis-aligned right triangle*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qbsbqjxO0641BDChyC5CTANb8CFtOG6r/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il maggior numero di punti rossi sulla griglia senza triangolo rettangolo allineato all'asse*
+
+> $n$ sia un numero intero superiore a 1. Considera una griglia rettangolare $n \times n$ di punti nel piano. Alcuni $k$ di questi punti sono colorati in rosso in modo tale che nessun punto rosso sia il vertice di un triangolo rettangolare i cui lati sono paralleli ai lati della griglia. Determinare il valore massimo di $k$.
+
+**Risposta:** 2n
+[[src_bmo_2002-03_round1__Q04]]

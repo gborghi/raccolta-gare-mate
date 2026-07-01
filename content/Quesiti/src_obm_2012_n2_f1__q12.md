@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q12
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count of positive integers equal to 3 times their number of divisors*
 
@@ -47,3 +50,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contato di interi positivi pari a 3 volte il loro numero di divisori*
+
+> Quanti integri positivi sono uguali a $3$ volte il proprio numero di divisori positivi?
+> 
+> A) 1 \quad B) 2 \quad C) 3 \quad D) 9 \quad E) infinitamente molti
+
+[[src_obm_2012_n2_f1__Q12]]

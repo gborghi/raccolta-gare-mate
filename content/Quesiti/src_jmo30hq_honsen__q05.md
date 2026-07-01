@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2020 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo30hq_honsen__Q05
 parent: src_jmo30hq_honsen
 competition: Japan Mathematical Olympiad 2020 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer sequences where gcd condition holds for all m,n*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tg5YtucGZLa1e_kRtCsAE8LrOFyPUE4s/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le sequenze di numeri interi positivi in cui la condizione gcd è valida per tutti m,n*
+
+> Trova tutte le sequenze $a_1, a_2, \ldots$ di interi positivi in modo tale che per tutti gli interi positivi $m, n$, $$\gcd(a_{m+n}, a_m + a_n) > c(m+n)$$ si tenga, dove $c$ è un certo numero reale positivo fisso.
+> 
+> Qui, per i numeri interi positivi $x, y$, $\gcd(x, y)$ indica il più grande divisore comune di $x$ e $y$.
+
+[[src_jmo30hq_honsen__Q05]]

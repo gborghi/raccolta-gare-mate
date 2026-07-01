@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q07
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo intero positivo n con n^200 < 5^300*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum positive integer n with n^200 < 5^300 < MSK1/>
+
+> The maximum positive integer n for which n200 < 5300 is A) 5. B) 6. C) 8. D) 11. (E) 12.
+
+**Answer:** D
+[[src_kangourou_2012_student__Q07]]

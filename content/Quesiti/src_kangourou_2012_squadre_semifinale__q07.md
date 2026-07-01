@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre semifinale turno A — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q07
 parent: src_kangourou_2012_squadre_semifinale
 competition: Kangourou 2012 squadre semifinale turno A
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *00*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2610
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*00*
+
+> The clock A traditional electric clock has a 12-hour dial and the hands, one for hours and the other for minutes, both move at a rate of one degree (degree 0 corresponds to the radius that connects the hands to the point marked with 12). Right now, the bidding was made at 8:00. In how many seconds for the first time the two lancetes will be overlapping?
+
+**Answer:** 2610
+[[src_kangourou_2012_squadre_semifinale__Q07]]

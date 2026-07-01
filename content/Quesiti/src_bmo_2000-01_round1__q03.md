@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2000-01 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2000-01_round1__Q03
 parent: src_bmo_2000-01_round1
 competition: British Mathematical Olympiad 2000-01 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Seven distinct tetrominoes; pack them into a 4×7 rectangle*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK1/>Sette tetromini distinti; imballazione in un rettangolo 4< MSK0/>7< MSK2/>
+
+> Un tetromino è una figura composta da quattro quadrati unitari collegati ai bordi. (i) Se non facciamo distinzione tra le possibili rotazioni di un tetromino all'interno del suo piano, dimostriamo che ci sono sette tetromino distinte. (ii) Provare o respingere l'affermazione: è possibile confezionare tutti e sette tetromini distinti in un rettangolo < MSK0/> senza sovrapposizioni.
+
+[[src_bmo_2000-01_round1__Q03]]

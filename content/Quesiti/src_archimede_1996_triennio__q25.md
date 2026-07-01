@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Triennio — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_triennio__Q25
 parent: src_archimede_1996_triennio
 competition: Giochi di Archimede 1996 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale di cartoncino sprecata tagliando cerchi*
 
@@ -59,3 +62,34 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Percentage of cardboard wasted by cutting circles< MSK1/>
+
+![[src_archimede_1996_triennio__prob25.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.4]
+  \draw (-10,0) -- (10,0);
+  \draw (10,0) arc (0:180:10);
+  \draw (0,5) circle (5);
+  \draw (7.071,2.5) circle (2.5);
+  \draw (-7.071,2.5) circle (2.5);
+\end{tikzpicture}
+\end{document}
+```
+
+> From a half-circle of cardboard of a radius of 10 cm a circle of maximum diameter shall be cut. Two circles of maximum diameter shall be cut from the two remaining trunks. What's the percentage of cardboard wasted?
+>
+> - **(A)** 10%
+> - **(B)** 20%
+> - **(C)** 25%
+> - **(D)** 30%
+> - **(E)** 50%.
+
+**Answer:** C
+[[src_archimede_1996_triennio__Q25]]

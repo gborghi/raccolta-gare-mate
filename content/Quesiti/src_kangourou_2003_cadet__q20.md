@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Cadet (20 marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet__Q20
 parent: src_kangourou_2003_cadet
 competition: Kangourou 2003 Cadet (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Disposizione in cerchio con vicini nominati*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1eygrPRLv8IqHr90bPrLsox-FA6V93kRL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Circular arrangement with named neighbors*
+
+> Bruno, Claudius, Luke, Mark, and Paul sit in a circle, and for each of them, the distance from the neighbor on the left is different from that from the neighbor on the right. The teacher asks each one to say the name of the boy sitting nearest to him. Bruno and Claudio are nominated twice each, Luke only once. Then A) certainly Bruno and Claudius are not close B) certainly Mark and Paul are not close C) Mark and Paul are close D) the situation described is impossible E) none of the answers A) - D) the questions from N are correct. 21 al N. 30 is worth 5 points each.
+
+**Answer:** C
+[[src_kangourou_2003_cadet__Q20]]

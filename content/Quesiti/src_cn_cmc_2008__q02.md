@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2008 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2008__Q02
 parent: src_cn_cmc_2008
 competition: China Mathematical Competition 2008
@@ -32,6 +33,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Range of parameter a so that B is subset of A*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Intervallo di parametro a in modo che B sia un sottoinsieme di A*
+
+> Per esempio, < MSK0/>, < MSK1/>. Se $B \subseteq A$, allora l'intervallo di $a$ è ( ).
+> 
+> (A) $[-1, 2)$ \quad (B) $[1, 2]$ \quad (C) $[0, 3]$ \quad (D) $[0, 3)$
+
+**Risposta:** D
+[[src_cn_cmc_2008__Q02]]

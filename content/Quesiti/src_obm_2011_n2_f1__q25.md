@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q25
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum sum of six pairwise-adjacent sums on a hexagon labelled 1-6*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum somma di sei somme coppie adiacenti su un esagono etichettato 1-6*
+
+> Rosa scrisse i numeri da $1$ a $6$ alle vertici dell'esagono sottostante, uno a ciascuno, poi aggiunse i numeri a ciascuna coppia di vertici adiacenti e scrisse ogni risultato accanto al lato corrispondente. I numeri scritti accanto ai lati erano tutti diversi. Qual è il valore minimo della somma di questi sei numeri ottenuti?
+> 
+> (A) $69$ \quad (B) $58$ \quad (C) $59$ \quad (D) $61$ \quad (E) $57$
+
+![[src_obm_2011_n2_f1__Q25.png]]
+
+[[src_obm_2011_n2_f1__Q25]]

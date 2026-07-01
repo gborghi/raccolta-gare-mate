@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2010 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2010__Q01
 parent: src_bocconi_autunno_2010
 competition: Giochi d'Autunno 2010
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Labirinto: numero di quadratini attraversati dal percorso minimo da A a B*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 18
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Labyrinth: number of squares crossed by the minimum path from A to B*
+
+> THE LABIRINT OF 2011 Francis wants to go from point A to point B of the drawing maze by following the shortest path possible and being able to move only horizontally or vertically. It cannot naturally cross the walls (marked with a larger line in the drawing) and the walls must remain outside. How many squares will he have to go through (not counting those of A and B)?
+
+![[src_bocconi_autunno_2010__Q01.png]]
+
+**Answer:** 18
+[[src_bocconi_autunno_2010__Q01]]

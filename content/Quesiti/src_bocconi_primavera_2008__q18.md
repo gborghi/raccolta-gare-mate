@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q18
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Stelle viste cadendo, sapendo quante mancano a 36*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 28
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Seeing stars falling, knowing how many are missing at 36*
+
+> I saw it fall. - How many ? I don't know, but if I subtract from the number of stars I've seen half of the ones that are missing to get to 36, I get 24. So, how many?
+
+**Answer:** 28
+[[src_bocconi_primavera_2008__Q18]]

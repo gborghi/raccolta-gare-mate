@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_triennio_rec__Q08
 parent: src_archimede_2025_triennio_rec
 competition: Giochi di Archimede 2025 - Triennio (prova di riserva)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza UV tra archi nel segmento dei punti medi*
 
@@ -74,3 +77,40 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*UV length between arcs in the midpoint segment*
+
+![[src_archimede_2025_triennio_rec__prob8.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=3]
+  \coordinate (D) at (0,0);
+  \coordinate (E) at (1,0);
+  \coordinate (F) at (1,1);
+  \coordinate (G) at (0,1);
+  \draw (D)--(E)--(F)--(G)--cycle;
+  \draw (G) arc (90:0:1);
+  \draw (E) arc (270:180:1);
+  \node[below left] at (D) {$D$};
+  \node[below right] at (E) {$E$};
+  \node[above right] at (F) {$F$};
+  \node[above left] at (G) {$G$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Taking a DEFG square of 1 m side, the quarter-circles of centers D and F with extremes at the other two vertices are plotted. The segment connecting the midpoints of the sides DE and FG, which intersects the two arcs at points U and V, is then mapped. How many meters does the length of the UV segment measure ? D E F G U V
+>
+> - **(A)** √ 3−1
+> - **(B)** √ 2 2
+> - **(C)** √ 3 2
+> - **(D)** √ 3 3
+> - **(E)** 3 4
+
+**Answer:** A
+[[src_archimede_2025_triennio_rec__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q13
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma num+den di q(-4/3)/q(-2) (polinomio da radici)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0082
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of q(-4/3)/q(-2) (polynomial of roots) *
+
+> Third degree The fearsome Mond Vander is questioning Princess Liea to obtain the coordinates of the secret rebel base. Finally, the crucial information is omitted: the number of the sector in which the base is located is given by the sum of the numerator and denominator of the fraction q(−4/3)/q(−2) (reduced to the minimum terms). Fortunately, the polynomial q(x) is complicated to construct, and Imperial officials are still trying to figure it out. To obtain it, we must start from the polynomial p(x) = x3 −6x2 +4x+12, call a, b and c its real roots, and consider as a polynomial q(x) that of the third degree having as roots ab + a + b, bc + b + c, ca + c + a and such that q(2015) = 20162017. What's the number the Empire is looking for?
+
+**Answer:** 0082
+[[src_cesenatico_2016_finale__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2013 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2013__Q16
 parent: src_bocconi_semifinale_2013
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2013
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto tra area della stella bianca e area della stella grigia*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $\sqrt{2} - 1$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio between area of white star and area of grey star*
+
+> In the regular 8-pointed star in the design, the sides are all the same length and the angles in the 8-pointed star are all straight. Inside it is another regular 8-pointed star (in white in the drawing) whose sides are the same length as those of the gray star and whose interior angles measure $45^\circ$ or $270^\circ$.
+> 
+> Find the relationship between the area of the white star and the area of the grey star.
+
+![[src_bocconi_semifinale_2013__Q16.png]]
+
+**Answer:** $\sqrt{2} - 1$
+[[src_bocconi_semifinale_2013__Q16]]

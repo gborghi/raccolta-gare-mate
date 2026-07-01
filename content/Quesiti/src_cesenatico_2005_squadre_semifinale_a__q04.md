@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_a__Q04
 parent: src_cesenatico_2005_squadre_semifinale_a
 competition: Gara a Squadre Cesenatico 2005 - Semifinale A
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie ordinate (c,d) che piastrellano stanza 546x330*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0074
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ordered pairs (c,d) tiled room 546x330*
+
+> A tile-maker wants to cover a rectangular room $546 \times 330$ with rectangular tiles measuring $c \times d$. For how many pairs (orders) of size $(c, d)$ is this possible?
+
+**Answer:** 0074
+[[src_cesenatico_2005_squadre_semifinale_a__Q04]]

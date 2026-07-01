@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior (18 marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior__Q18
 parent: src_kangourou_2004_junior
 competition: Kangourou 2004 Junior (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area quadrato col dodecagono equilatero inscritto*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Square area with the equilateral dodecagon inscribed*
+
+![[src_kangourou_2004_junior__prob18.png]]
+
+> The figure shows a square in which an equilateral dodecagon is "inscribed" (the two "arms of the cross" that form the dodecagon are perpendicular to each other). The perimeter of the dodecahedron measures 36 centimetres. What's the square of the area in square centimeters worth? A) 48          B) 72          C) 108        D) 115,2      E) 144
+
+**Answer:** B
+[[src_kangourou_2004_junior__Q18]]

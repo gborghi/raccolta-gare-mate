@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 2) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g2__Q10
 parent: src_bocconi_finaleint_2008_g2
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di triangoli rettangoli formabili con i vertici di un cubo.*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 48 triangoli rettangoli
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of rectangular triangles formed with the vertices of a cube.*
+
+> Luke considers a cube. Count all the rectangular triangles you can form by choosing three vertices of the cube. How many right triangles do you get?
+
+![[src_bocconi_finaleint_2008_g2__Q10.png]]
+
+**Answer:** 48 triangoli rettangoli
+[[src_bocconi_finaleint_2008_g2__Q10]]

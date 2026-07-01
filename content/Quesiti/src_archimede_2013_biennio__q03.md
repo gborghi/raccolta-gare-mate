@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2013 - Biennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_biennio__Q03
 parent: src_archimede_2013_biennio
 competition: Giochi di Archimede 2013 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di testa al lancio successivo di moneta*
 
@@ -44,3 +47,20 @@ tags:
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of head at the next coin toss< MSK1/>
+
+> Leo throws a coin 7 times (unmade) and gets twice the head and five times the cross. If he throws it one more time, what are the odds of getting his head?
+>
+> - **(A)** 1 8
+> - **(B)** 1 7
+> - **(C)** 1 −1 27
+> - **(D)** 35 27
+> - **(E)** 1 2
+
+**Answer:** E
+[[src_archimede_2013_biennio__Q03]]

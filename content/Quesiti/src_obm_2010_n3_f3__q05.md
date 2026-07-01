@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f3__Q05
 parent: src_obm_2010_n3_f3
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 3
@@ -39,6 +40,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all n for which n points (no 3 collinear) can be colored so every triangle has no obtuse angle*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ovDjSumqrFuklc3ULDZ-ZJmM3q6fwQxX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le n per le quali n punti (nessun 3 collineari) possono essere colorati in modo che ogni triangolo non abbia un angolo obtuso*
+
+> Determinare tutti i valori di $n$ per i quali esiste un insieme $S$ di punti $n$, senza tre colineari, che hanno la seguente proprietà: è possibile colorare tutti i punti di $S$ in modo che ogni angolo determinato da tre punti di $S$ , sia che siano tutti e tre dello stesso colore o di tre diversi colori , non sia obtusoso. Il numero di colori disponibili è illimitato.
+
+[[src_obm_2010_n3_f3__Q05]]

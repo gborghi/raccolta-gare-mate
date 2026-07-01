@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q23
 parent: src_kangourou_2016_marzo_benjamin
 competition: Kangourou 2016 gara 17 marzo Benjamin
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max tasselli ritagliabili da quadrato 5x5*
 
@@ -66,3 +69,37 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1nld6l3RD6emhTglIXueL7F2OJGTBOKRG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max 5x5 square cutting shafts < MSK1/>
+
+![[src_kangourou_2016_marzo_benjamin__prob23.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  % 3 squares bottom row + 1 square on top of rightmost
+  \draw (0,0) -- (3,0) -- (3,2) -- (2,2) -- (2,1) -- (0,1) -- cycle;
+  \draw (1,0) -- (1,1);
+  \draw (2,0) -- (2,1);
+  \draw (2,1) -- (3,1);
+\end{tikzpicture}
+\end{document}
+```
+
+> What is the maximum number of slices such as the one in the figure (possibly overturned) that can be cut from a square 5×5? A) 2
+> 	
+> B) 4
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 7
+>
+
+**Answer:** D
+[[src_kangourou_2016_marzo_benjamin__Q23]]

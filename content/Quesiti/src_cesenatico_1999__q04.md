@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Cesenatico 1999 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_1999__Q04
 parent: src_cesenatico_1999
 competition: Gara Nazionale Cesenatico 1999
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Strategia vincente gioco dei cerini*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xiVBBYZkZtqAHB0eYNM1QTJV2D_9fS-1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Winning strategy game of dice*
+
+> Alberto and Barbara play the following game. On a table there are $1999$ dice: in turn each player must remove from the table a number of dice of his choice, provided that it is greater than or equal to one, and less than or equal to half the number of dice that are on the table at that time. The player who leaves one cherry on the table loses. Barbara's the first to play. Determine for which of the two players there is a winning strategy and describe that strategy.
+
+[[src_cesenatico_1999__Q04]]

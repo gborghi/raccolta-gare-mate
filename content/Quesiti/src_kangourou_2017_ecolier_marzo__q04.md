@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Écolier (gara marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q04
 parent: src_kangourou_2017_ecolier_marzo
 competition: Kangourou 2017 Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero coperto dal muso del panda*
 
@@ -58,3 +61,25 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number covered by the panda's nose< MSK1/>
+
+![[src_kangourou_2017_ecolier_marzo__prob4.png]]
+
+> What number is covered by the panda's nose? A) 16
+> 	
+> B) 18
+> 	
+> C) 20
+> 	
+> D) 24
+> 	
+> E) 28 8–3 =2 =5 5–1 =3 4–2 =5 1+2 =4 5–3 =5 1+1 1 5 9 6 7 2 8 3 4 aa
+>
+
+**Answer:** A
+[[src_kangourou_2017_ecolier_marzo__Q04]]

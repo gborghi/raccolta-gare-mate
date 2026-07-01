@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_2livello__Q12
 parent: src_archimede_2009_2livello
 competition: Archimede Gara 2° livello 2009 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di fattori interi di x^16 + x*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of integers of x^16 + x*
+
+> Francis wants to write the polynomial x16 + x as the product of multiple polynomials with integer coefficients, each of at least degree 1. How many factors can you get the most?
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5. Problems with numerical answer  5 points
+
+**Answer:** E
+[[src_archimede_2009_2livello__Q12]]

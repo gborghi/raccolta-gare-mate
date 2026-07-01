@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_finale__Q19
 parent: src_cesenatico_2012_finale
 competition: Gara a Squadre Cesenatico 2012 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max area ombra parallelepipedo (45 gradi)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8925
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max area of parallel-piped shadow (45 degrees) < MSK1/>
+
+> The manor of Mr. Satan Mr. Considered the world's greatest martial arts expert, Satan is building himself a home that shadows every neighbor's home. . . literally. Mr. Satan requested that the building be a rectangular parallel piped of 105 × 77 × 36 metres, but did not specify which of these three measures should be the height: he only wants it to be positioned so as to maximize the area of the shaded area on the ground when sunlight hits the ground from the south. (The ground beneath the building is not considered shaded.)
+
+**Answer:** 8925
+[[src_cesenatico_2012_finale__Q19]]

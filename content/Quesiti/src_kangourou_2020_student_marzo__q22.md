@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q22
 parent: src_kangourou_2020_student_marzo
 competition: Kangourou 2020 Student - gara marzo (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Terna dei rapporti tra aree dei tre triangoli*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Term of the relations between areas of the three triangles*
+
+![[src_kangourou_2020_student_marzo__prob22.png]]
+
+> A young kangaroo draws on a square grid a segment that passes through the node P in the lower left corner of the grid, and then colors three triangles as shown in the figure. Which of the following terns can represent the relationships between the areas of the three triangles? (a) 1 : 2: 3 B) 1: 2: 4 C) 1: 3: 9 D) 1: 4: 8 E) None of the following:
+
+**Answer:** E
+[[src_kangourou_2020_student_marzo__Q22]]

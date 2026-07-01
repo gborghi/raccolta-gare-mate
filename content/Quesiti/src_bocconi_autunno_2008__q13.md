@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2008 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2008__Q13
 parent: src_bocconi_autunno_2008
 competition: Giochi d'Autunno 2008
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dividere figura in due parti identiche con segmenti sui vertici*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** Vedere figura nella soluzione
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*To divide the figure into two identical parts with segments on the vertices*
+
+> Draw a diagram of the segments that connect the vertices of the squares of the figure so as to divide it into two identical parts (the two identical parts can overlap even by rotation).
+
+![[src_bocconi_autunno_2008__Q13.png]]
+
+**Answer:** Vedere figura nella soluzione
+[[src_bocconi_autunno_2008__Q13]]

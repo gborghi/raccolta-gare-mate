@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Junior 2024 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q02
 parent: src_kangourou_2024_junior_semifinale
 competition: Kangourou Semifinale individuale Junior 2024
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area dell'ottagono regolare con quadrato inscritto di area 2*
 
@@ -66,3 +69,37 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the regular octagon with square inscribed area 2*
+
+![[src_kangourou_2024_junior_semifinale__prob2.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=2]
+  \coordinate (A0) at (0.924, 0.383);
+  \coordinate (A1) at (0.383, 0.924);
+  \coordinate (A2) at (-0.383, 0.924);
+  \coordinate (A3) at (-0.924, 0.383);
+  \coordinate (A4) at (-0.924, -0.383);
+  \coordinate (A5) at (-0.383, -0.924);
+  \coordinate (A6) at (0.383, -0.924);
+  \coordinate (A7) at (0.924, -0.383);
+  \draw (A0) -- (A1) -- (A2) -- (A3) -- (A4) -- (A5) -- (A6) -- (A7) -- cycle;
+  \draw (A1) -- (A3) -- (A5) -- (A7) -- cycle;
+  \fill (A1) circle (0.04);
+  \fill (A3) circle (0.04);
+  \fill (A5) circle (0.04);
+  \fill (A7) circle (0.04);
+\end{tikzpicture}
+\end{document}
+```
+
+> (Points 3) The figure shows a regular octagon and a square inscribed in it, whose vertices are four of the vertices of the octagon. The area of the square is 2. How much is the area of the octagon? (A) 1 + √2 B) 5/2 C) 2√2 D) 3 E) 3√2  1 Answer C). The solution. The side of the square measures √2 and its diagonal measures 2. The octagon can be expressed as the union of the eight isosceles triangles that are obtained by joining the vertices with the center, whose congruent sides are half the square's diagonal and so measure 1 and whose height relative to those sides is half the square's side and so is √2/2. The area of each triangle is then √2/4.
+
+**Answer:** C
+[[src_kangourou_2024_junior_semifinale__Q02]]

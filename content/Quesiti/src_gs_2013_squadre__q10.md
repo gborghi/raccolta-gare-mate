@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q10
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Equazione funzionale lineare, valore f(49/2)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0032
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Linear functional equation, value f(49/2) *
+
+> Another of the functions that the Night's Watch commander uses is a rational $f : \mathbb{Q} \to \mathbb{Q}$ rational variable function such that $$f(x + y) = f(x) + f(y)$$ for each $x$ and $y$ rational numbers. The commander knows that $f\!\left(\dfrac{7}{8}\right) = \dfrac{8}{7}$ and calculates $f\!\left(\dfrac{49}{2}\right)$. What is the result?
+
+**Answer:** 0032
+[[src_gs_2013_squadre__Q10]]

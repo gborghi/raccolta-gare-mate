@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Semifinale individuale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet_semifinale__Q01
 parent: src_kangourou_2023_cadet_semifinale
 competition: Kangourou 2023 Cadet — Semifinale individuale
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *min carte da rovesciare*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1M9sXIkUDY4rP1rr4DHPF0VSPHt_-LbxS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>min cards to be rolled over< MSK1/>
+
+> Aldo has five cards: for each of them on one face there is a letter of the alphabet, on the opposite face an integer. The cards are placed on the table and show the following faces: E, G, 4, 7, 8. Aldo declares that, for each card, if on one face there is a vowel, on the opposite face there is an equal number. Marta wants to check if Aldo's telling the truth, but she wants to roll as few cards as possible. How many cards will he have to roll at most? A) 1           B) 2             C) 3            D) 4            E) 5
+
+[[src_kangourou_2023_cadet_semifinale__Q01]]

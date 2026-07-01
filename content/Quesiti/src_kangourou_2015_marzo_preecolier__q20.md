@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q20
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *totale*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total amount of MSK1
+
+> For MSK0/> days Joy's cat goes hunting mice. Each day Joy catches more mice than the previous day. On the third day, he caught twice as many mice as the first day. In total, how many mice did Joy catch during the $3$ days?
+> 
+> (A) $12$ (B) $15$ (C) $18$ (D) $20$ (E) $24$
+
+**Answer:** C
+[[src_kangourou_2015_marzo_preecolier__Q20]]

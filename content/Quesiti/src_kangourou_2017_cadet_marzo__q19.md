@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q19
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di correre due giorni non consecutivi a settimana*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Mode of running two non-consecutive days per week< MSK1/>
+
+> George wants to go running exactly twice a week and always on the same days of the week, but he doesn't want to go running two days in a row. How many different ways can he accomplish his plan? A) 16
+> 	
+> B) 14
+> 	
+> C) 12
+> 	
+> D) 10
+> 	
+> E) 8
+
+**Answer:** B
+[[src_kangourou_2017_cadet_marzo__Q19]]

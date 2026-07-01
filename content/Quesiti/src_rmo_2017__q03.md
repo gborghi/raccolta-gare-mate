@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2017 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2017__Q03
 parent: src_rmo_2017
 competition: Regional Mathematical Olympiad 2017
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real roots of composition P(Q(x)) = 0*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aTvWjjCyaztnP6zBTHomfMlYOKdjp_YI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le radici reali della composizione P(Q(x)) = 0*
+
+> Che $P(x) = x^2 + \frac{1}{2}x + b$ e $Q(x) = x^2 + cx + d$ siano due polinomi con coefficienti reali tali che $P(x)Q(x) = Q(P(x))$ per tutti i $x$ reali. Trova tutte le radici reali di $P(Q(x)) = 0$.
+
+[[src_rmo_2017__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Triennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_triennio__Q20
 parent: src_archimede_2010_triennio
 competition: Giochi di Archimede 2010 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Combinazioni cassaforte cinque cifre con vincoli parita e divisibilita*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Five-digit safe combinations with even and divisibility constraints*
+
+> Valeria must choose the combination of her safe, which must be a five-digit number, all different from zero, divisible by three, and such that of the first four digits (left) two are equal and two are odd. How many chances do you have?
+>
+> - **(A)** 25 · 52,
+> - **(B)** 25 · 52 · 32,
+> - **(C)** 22 · 53 · 32,
+> - **(D)** 52 · 34,
+> - **(E)** 210 · 5 · 3.
+
+**Answer:** B
+[[src_archimede_2010_triennio__Q20]]

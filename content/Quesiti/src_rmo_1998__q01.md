@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1998 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1998__Q01
 parent: src_rmo_1998
 competition: Regional Mathematical Olympiad 1998
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle AEB in convex quadrilateral with given angles*
 
@@ -35,3 +38,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15-hOAv0psynRUhAjOfCXMcOkrAiY-0eX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare angolo AEB in quadrilaterali convexi con angoli dati*
+
+> Il $ABCD$ deve essere un quadrilaterale convexo in cui $\angle BAC = 50^\circ$, $\angle CAD = 60^\circ$, $\angle CBD = 30^\circ$ e $\angle BDC = 25^\circ$. Se $E$ è il punto di intersezione di $AC$ e $BD$, trovare $\angle AEB$.
+
+[[src_rmo_1998__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Cadet — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q20
 parent: src_kangourou_2019_cadet_marzo
 competition: Kangourou 2019 Gara di Marzo Cadet
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di N con diametro per 7 e 23*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*N value with diameter for 7 and 23*
+
+> We divided a circumference into N arcs of equal length. Starting from one of them and going clockwise, we have marked the ends of the arcs with integers from 1 to N (included). The diameter that goes by 7 goes by 23. How much is N ? A) 30
+> 	
+> B) 32
+> 	
+> C) 34
+> 	
+> D) 36
+> 	
+> E) 38 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** B
+[[src_kangourou_2019_cadet_marzo__Q20]]

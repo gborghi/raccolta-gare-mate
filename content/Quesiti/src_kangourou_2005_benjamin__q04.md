@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q04
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lettera iniziale del nome della femmina*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Female name initials*
+
+> In a family there are three children: two boys and one girl. Their names start with the letters A, B and C. Between the letters A and B, one and one is the initial of a male's name and so is between the letters B and C. What letter does a female's name begin with? A) A B) B C) C D) the data are insufficient E) the data contradict each other
+
+**Answer:** B
+[[src_kangourou_2005_benjamin__Q04]]

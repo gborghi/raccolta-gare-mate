@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q10
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale retta puo rappresentare il grafico con la parabola*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which line can be represented by the graph with the parabola *
+
+![[src_kangourou_2021_student_gara__prob10.png]]
+
+> The parabola in the figure is represented by an equation of the form y = ax2 + bx + c with distinct real numbers a, b and c. Which of the following equations can represent the line drawn in the figure? A) y = bx + c B) y = cx + b C) y = ax + b D) y = ax + c E) y = cx + a I questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2021_student_gara__Q10]]

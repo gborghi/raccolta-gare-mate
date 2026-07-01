@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f2__Q04
 parent: src_obm_2010_n3_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2×4 grid painted with 3 colors; count paintings with exactly one cut column*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2×4 griglie dipinte con 3 colori; contare le pitture con esattamente una colonna tagliata*
+
+> Ciascuna delle otto celle di un rettangolo di colonna $2$ riga, $4$ è dipinta con uno dei tre colori. Una colonna si chiama \emph{cut} se le sue due celle sono dello stesso colore. In quanti modi è possibile dipingere il rettangolo in modo che ci sia esattamente un solo taglio?
+
+[[src_obm_2010_n3_f2__Q04]]

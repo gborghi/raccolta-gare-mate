@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre_f2__Q05
 parent: src_kangourou_2023_ecolier_squadre_f2
 competition: Kangourou Squadre 2023 Ecolier Finale 2
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Centesimi costo di ogni uovo di Pasqua*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0980
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>100th cost of each Easter egg< MSK1/>
+
+> Easter egg I gave one Easter egg to each of my 13 friends. At first I had enough money to buy only nine eggs, and I would have advanced 20 cents, then my aunt lent me 40 euros. All eggs are the same price. How much did each egg cost?
+
+**Answer:** 0980
+[[src_kangourou_2023_ecolier_squadre_f2__Q05]]

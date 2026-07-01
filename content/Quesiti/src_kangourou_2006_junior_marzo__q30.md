@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q30
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale somma di aree vale S8 (quadrato suddiviso)*
 
@@ -103,3 +106,53 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What sum of areas is S8 (square divided) *
+
+![[src_kangourou_2006_junior_marzo__prob30.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=2.5]
+  % Square ABCD: A bottom-left, B top-left, C top-right, D bottom-right
+  \draw (0,0) -- (0,1) -- (1,1) -- (1,0) -- cycle;
+  % Points: M on AD (bottom side), N on DC (right side)
+  \coordinate (M) at (0.4,0);
+  \coordinate (N) at (1,0.55);
+  % Lines: M and N connected to B and C forming 8 regions
+  \draw (0,0) -- (M);
+  \draw (M) -- (0,1);
+  \draw (M) -- (1,1);
+  \draw (N) -- (0,0);
+  \draw (N) -- (0,1);
+  % Labels
+  \node[below left] at (0,0) {$A$};
+  \node[above left] at (0,1) {$B$};
+  \node[above right] at (1,1) {$C$};
+  \node[below right] at (1,0) {$D$};
+  \node[below] at (M) {$M$};
+  \node[right] at (N) {$N$};
+  % Region labels
+  \node at (0.55,0.85) {$S_1$};
+  \node at (0.9,0.75) {$S_2$};
+  \node at (0.8,0.58) {$S_3$};
+  \node at (0.72,0.22) {$S_4$};
+  \node at (0.42,0.1) {$S_5$};
+  \node at (0.17,0.08) {$S_6$};
+  \node at (0.1,0.47) {$S_7$};
+  \node at (0.48,0.52) {$S_8$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Note the figure: ABCD is a square; points M and N, chosen at random within the AD and DC sides respectively, are joined to B and C and to A and B respectively. The square is thus divided into eight regions to which are assigned, as indicated, the symbols S1, S2, ..., S8. Which of the following sums is S8? The Commission has decided to adopt a proposal for a Regulation (EC) laying down the rules for the implementation of the common fisheries policy (OJ L 282, 15.7.2006, p. 1).
+> 
+>  
+> 1 Junior category For secondary or tertiary students
+
+**Answer:** A
+[[src_kangourou_2006_junior_marzo__Q30]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f2__Q04
 parent: src_obm_1998_n1_f2
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Houses around a square: find positions of João and Pedro*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 35
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Casa attorno a un quadrato: trovare le posizioni di João e Pedro*
+
+> Ci sono case attorno alla piazza della città. João e Pedro camminano un giro intorno alla piazza, camminando nella stessa direzione e contando le case. Cominciano a contare dalla loro casa. La 5a casa di João è la 30a casa di Pedro, e la 5a casa di Pedro è la 30a casa di João. Quante case ci sono in totale intorno alla piazza?
+
+**Risposta:** 35
+[[src_obm_1998_n1_f2__Q04]]

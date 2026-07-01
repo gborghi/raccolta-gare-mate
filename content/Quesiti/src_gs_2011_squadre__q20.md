@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2011 - Gara a squadre — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2011_squadre__Q20
 parent: src_gs_2011_squadre
 competition: Coppa Fermat 2011 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza diagonali su tastiera quadrata*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3969
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Dialogue of diagonals on the square keyboard*
+
+> James Bond has a huge control panel in front of him with a numbered, square-shaped keyboard with an odd number of keys on each side. A positive integer is written on each key. James immediately notices a strange thing: the numbers on the keyboard are spiral-shaped. On the key in the center is the number $1$, on the key on the left of this is the number $2$, on the key below the latter is the number $3$, on the key on the right of this is the number $4$, and so on, until the largest number appears on the key in the top left.
+> 
+> To be sure to remember the situation, look for another property to characterize the situation and notice that the arrangement of the numbers is such that the absolute value of the difference between the sums of the numbers on the two diagonals is as low as $2011$ as possible.
+> 
+> How many keys are there?
+
+**Answer:** 3969
+[[src_gs_2011_squadre__Q20]]

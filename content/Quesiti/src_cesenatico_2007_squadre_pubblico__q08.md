@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q08
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anni divisibili ordinatamente per k,k-1,... piu lunga del 2007*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Years orderly divided by k, k-1,... more than 2007*
+
+> What is the probability that the copy started a lineage that will never go extinct? Give as a solution the sum of the numerator and denominator of the fraction reduced to the minimum terms. 8. The last favorable moment for the seal closing ritual that imprisons the demon was 2007, as the mathematics is reinforced by the fact that 2007 is divisible by 9, 2008 by 8, 2009 by 7 and 2010 by 6. When a sequence, longer than this, of years with the characteristic of being orderly divisible by positive integers k, k −1, k −2, begins for the first time after 2007. . . ?
+
+[[src_cesenatico_2007_squadre_pubblico__Q08]]

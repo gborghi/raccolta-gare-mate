@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_b__Q08
 parent: src_cesenatico_2007_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2007 - Semifinale B
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Superficie pergamena da prisma esagonale (93 foglietti)*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Hexagonal prism paper surface (93 sheets) < MSK1/>
+
+> The mathematical formulas of the mateninja are written on long rectangular strips of zero-thick parchment (they are also magical!), which are rolled repeatedly around a ninja pencil. Ninja pencils are similar to ours: they have the shape of a prism whose base is a regular hexagon on the 3 side mat-shaku. The slender Numeritus, in handling his new sword, mistakenly strikes the prism on which the precious formula of Itˆo is preserved, cutting it perfectly in two along a plane passing through its axis. As a result, the scroll with the formula is sliced into 93 square sheets. How many mat-shaku2 measured the surface of the scroll?
+
+[[src_cesenatico_2007_squadre_semifinale_b__Q08]]

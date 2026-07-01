@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_ecolier_f__Q07
 parent: src_kangourou_2017_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2017 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Segmenti interni in rettangolo quadrettato 40x30*
 
@@ -63,3 +66,27 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 2330
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Inner segments in square rectangle 40x30*
+
+![[src_kangourou_2017_squadre_ecolier_f__prob7.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.7]
+  \draw[gray!50, step=1] (0,0) grid (6,5);
+  \draw[black, very thick, step=1] (1,1) grid (5,4);
+\end{tikzpicture}
+\end{document}
+```
+
+> The square rectangle On a square sheet I re-traced a rectangle that has a base of 4 units and height of 3 units and the grid of squares to it inside. Among the segments of this grid of 1 unit length, those not on the edge of the rectangle are 17: vertically 9, horizontally 8. If I were to retract a rectangle with a base of 40 units and a height of 30 units in the same way, how many segments of length 1 unit inside the rectangle would I find?
+>  
+> 1 2 3 4 5 2 2 4 6 8 10 3 3 6 9 12 15 4 4 8 12 16 20 5 5 10 15 20 25 3
+
+**Answer:** 2330
+[[src_kangourou_2017_squadre_ecolier_f__Q07]]

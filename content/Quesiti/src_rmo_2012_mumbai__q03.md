@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Mumbai — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_mumbai__Q03
 parent: src_rmo_2012_mumbai
 competition: Regional Mathematical Olympiad 2012
@@ -35,6 +36,8 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve an exponential equation involving floor and fractional parts*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $x = 14/5$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi un'equazione esponenziale che coinvolge parti di pavimento e frazioni*
+
+> Risolvi l'equazione $2^{\lfloor x \rfloor} + \{x\} = \dfrac{5\cdot 2^{2\lfloor x \rfloor}}{2^{2\lfloor x \rfloor} - 11}$, dove $\lfloor x \rfloor$ indica la parte integrale di $x$ e $\{x\}$ indica la sua parte frazionaria.
+
+**Risposta:** $x = 14/5$
+[[src_rmo_2012_mumbai__Q03]]

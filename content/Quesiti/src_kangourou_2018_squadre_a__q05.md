@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2018 Semifinale A — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_a__Q05
 parent: src_kangourou_2018_squadre_a
 competition: Kangourou Coppa Squadre 2018 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie cella bianca/nera non su stessa riga/colonna*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4320
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pairs of white/black cells not on the same line/column*
+
+> White and black I have a 12 MSK/> 12 chessboard, with white or black cells, alternating as in traditional chessboards. How many ways can I choose two cells, one white and one black, so that they're not on the same line or on the same column?
+
+**Answer:** 4320
+[[src_kangourou_2018_squadre_a__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo30yq_yosen__Q11
 parent: src_jmo30yq_yosen
 competition: Japan Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle with 5 points, two tangent circles meet at K, find length CQ*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 11
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo con 5 punti, due cerchi tangenti si incontrano a K, trovare lunghezza CQ*
+
+> Cinque punti $A, B, C, D, P$ si trovano su un cerchio $\Omega$ in questo ordine. Il cerchio che attraversa $P$ e tangente alla linea $AB$ a $A$, e il cerchio che attraversa $P$ e tangente alla linea $CD$ a $D$, si intersecano in un punto $K$ all'interno di $\Omega$. $M$ e $N$ siano rispettivamente i punti medi degli accordi $AB$ e $CD$. Si ritiene che i tre punti $A$, $K$, $N$ siano collineari e i tre punti $D$, $K$, $M$ siano collineari. Dato $AK = 5$, $DK = 3$, $KM = 7$, $Q$ deve essere l'intersezione della linea $PK$ con $\Omega$ diversa da $P$. Trova la lunghezza $CQ$, dove $XY$ indica la lunghezza del segmento $XY$.
+
+**Risposta:** 11
+[[src_jmo30yq_yosen__Q11]]

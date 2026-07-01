@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 1) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g1__Q16
 parent: src_bocconi_finaleint_2009_g1
 competition: >-
@@ -42,6 +43,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che una formica, dopo 7 spostamenti casuali sugli spigoli di un cubo, sia passata per tutti gli 8 vertici.*
 
@@ -54,3 +57,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** $\frac{2}{243}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The probability that an ant, after 7 random movements on the tips of a cube, has passed through all 8 vertices
+
+> 16 - The shape in the cube (coefficient 16) An ant starts from a vertex of a cube. Each shift consists of moving from one vertex to another along a cube's axis. At each vertex, for the next move, the ant chooses one of three possible spikes at random. The subsequent choices are independent of each other. Immediately after the seventh shift, what is the probability that the ant has passed through the eight vertices of the cube (counting the start)? It will respond in the form of an irreducible fraction.
+
+**Answer:** $\frac{2}{243}$
+[[src_bocconi_finaleint_2009_g1__Q16]]

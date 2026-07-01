@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q25
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *posizione*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This item is intended to record the information provided by the manufacturer.
+
+> Martina's in line, and she's got as many people in front of her as she's got behind her. There are also two of his friends, both behind him: one in 19th and the other in 28th place. The number of people in line is a multiple of 3. What is the position of the tail of Martina? A) 14 B) 15
+> 	
+> C) 16 D) 17 E) 18
+
+**Answer:** D
+[[src_kangourou_2023_cadet__Q25]]

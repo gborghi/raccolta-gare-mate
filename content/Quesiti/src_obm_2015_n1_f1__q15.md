@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q15
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Election deduction across two rounds from partial percentages*
 
@@ -70,3 +73,24 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Deduzione elettorale in due round da percentuali parziali*
+
+> Nella tabella seguente si vedono alcuni dei risultati delle elezioni in un determinato paese, in cui le percentuali si riferiscono al numero totale di elettori.
+>
+> \[ \begin{ay} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i} {i}} {i} {i} {i} {i}} {i} {i} {i} {i}} {i} {i} {i}} {i} {i}} {i} {i}} {i} {i}} {i} {i}} {i}} {i}} {i} {i} & ? & 0 & ? - La linea è finita.
+>
+> Nel secondo turno, tutti gli elettori che hanno votato per il partito AA hanno mantenuto i loro voti, e lo stesso è successo con gli elettori del partito BB. Di coloro che hanno votato per il partito CC nel primo turno, $40\%$ ha votato per il partito AA e il resto per il partito BB. Di coloro che avevano votato per altri partiti o hanno dato voti nulli, $60\%$ ha continuato senza votare per AA o BB e il resto ha votato in parte per AA e in parte per BB. Da questo punto di vista, è corretto affermare che:
+>
+> - **(A)** AA ha vinto con più di < MSK0/> dei voti.
+> - **(B)** BB ha vinto con $47\%$ dei voti.
+> - **(C)** AA ha vinto con $51\%$ dei voti.
+> - **(D)** BB ha vinto con più di $43\%$ dei voti.
+> - **(E)** Le affermazioni precedenti non derivano dalle informazioni fornite.
+
+**Risposta:** E
+[[src_obm_2015_n1_f1__Q15]]

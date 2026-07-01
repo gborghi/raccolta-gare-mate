@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Biennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_biennio__Q04
 parent: src_archimede_2026_biennio
 competition: Giochi di Archimede 2026 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre di 10^2025+10^803+3^4+2^5*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>sum of figures of 10^2025+10^803+3^4+2^5< MSK1/>
+
+> Roberta writes for extended the number n = 102025 + 10803 + 34 + 25. What is the sum of all the digits of n?
+>
+> - **(A)** 7
+> - **(B)** 2837
+> - **(C)** 2025
+> - **(D)** 9
+> - **(E)** 115
+
+**Answer:** A
+[[src_archimede_2026_biennio__Q04]]

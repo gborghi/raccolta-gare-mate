@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - finale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q10
 parent: src_kangourou_2021_ecolier_finale
 competition: Kangourou 2021 Ecolier - finale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo di cinque consecutivi con somma 2020*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0406
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum of five consecutive years with sum of 2020*
+
+> The sum of the 2021 figures is 5. In the 21st century (i.e. 2001 to 2100) how many other years have the same property?
+
+**Answer:** 0406
+[[src_kangourou_2021_ecolier_finale__Q10]]

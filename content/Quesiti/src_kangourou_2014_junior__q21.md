@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q21
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soluzioni di N×U×(M+E+R+O)=33 con cifre distinte*
 
@@ -54,3 +57,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Solutions of N×U×(M+E+R+O) =33 with distinct digits*
+
+> Consider the equation N < MSK0/> U < MSK1/> (M + E + R + O) = 33, where each letter represents an unknown. The eligible values for unknowns are only the ten available digits (0, 1, 2, ..., 9) and different unknowns must be assigned different values. How many solutions are eligible under these criteria? (Each solution is an ordered set of digits.)
+> 	
+> B) 24
+> 	
+> C) 30
+> 	
+> D) 48
+> 	
+> E) 60
+
+**Answer:** D
+[[src_kangourou_2014_junior__Q21]]

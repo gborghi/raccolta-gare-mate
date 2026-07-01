@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo24yq_yosen__Q09
 parent: src_jmo24yq_yosen
 competition: Japan Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square ABCD diagonal midpoint O; points P,Q,R,S on sides; OP=3, OQ=OR=4; find XY*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\dfrac{60}{23}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto medio diagonale ABCD quadrato O; punti P,Q,R,S sui lati; OP=3, OQ=OR=4; trovare XY*
+
+> Il quadrato $ABCD$ ha diagonali che si incontrano a $O$. I punti $P, Q, R, S$ si trovano rispettivamente sui lati $AB$, $BC$, $CD$ e $DA$. È dato che $OP = 3$ e $OQ = OR = 4$. La linea attraverso $C$ e $D$ incontra la linea attraverso $Q$ e $R$ in un punto; la linea attraverso $B$ e $C$ incontra la linea attraverso $R$ e $S$ in un altro punto; questi due punti di intersezione sono rispettivamente $X$ e $Y$. Trova la lunghezza del segmento $XY$. (Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** \dfrac{60}{23}
+[[src_jmo24yq_yosen__Q09]]

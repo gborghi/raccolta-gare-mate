@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2005 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2005_r1__Q03
 parent: src_pol_2005_r1
 competition: Olimpiade Matematica Polacca 2005 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In an acute triangle, with a foot of altitude and a further projection, prove two lines perpendicular.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un triangolo acuto, con un piede di altitudine e un'ulteriore proiezione, dimostrare due linee perpendicolari.*
+
+> In un angolo acuto $ABC$ punto $D$ è la proiezione di $C$ su $AB$, e $E$ è la proiezione di $D$ su $BC$. Il punto $F$ è preso sul segmento $DE$ in modo che $EF : FD = AD : DB$. Prove che le linee $CF$ e $AE$ sono perpendicolari.
+
+[[src_pol_2005_r1__Q03]]

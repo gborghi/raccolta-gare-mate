@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2005 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo15mq_honsen__Q02
 parent: src_jmo15mq_honsen
 competition: Japan Mathematical Olympiad 2005 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Lattice points on segments of a periodic integer polynomial orbit are constant*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kJ0RBj04mPEdfmRta9X0N2LOSpB-9biU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I punti di lattice su segmenti di un'orbita polinomica intera periodica sono costanti*
+
+> Lasciate che $P(x,y)$ e $Q(x,y)$ siano polinomi a due variabili con coefficienti interi, e lasciate che $a_0, b_0$ siano interi. Definire le sequenze $a_n, b_n$ da $$a_{n+1}=P(a_n,b_n), \qquad b_{n+1}=Q(a_n,b_n) \qquad (n=0,1,2,\ldots).$$ Supponiamo che $(a_1,b_1)\neq(a_0,b_0)$ ma esiste un intero positivo $k$ con $(a_k,b_k)=(a_0,b_0)$. Dimostrare che il numero di punti del piano che si trovano sul segmento i cui punti terminali sono $(a_n,b_n)$ e $(a_{n+1},b_{n+1})$ e che hanno entrambi i numeri interi $x$ e $y$ non dipende da $n$.
+
+[[src_jmo15mq_honsen__Q02]]

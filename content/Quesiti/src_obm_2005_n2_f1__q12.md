@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q12
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Paulistas/Baianos cross-claims of origin; among all, 20% claim Paulista; find true % of Paulistas*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Dicerture incrociate di origine di Paulistas/Baianos; tra tutte, il 20% afferma di Paulista; trova la percentuale vera di Paulistas< MSK1/>
+
+> In una certa città accade un fatto interessante. Il 10% dei Baianos dice di essere Paulista e il 10% dei Paulista dice di essere Baiano. Tutti gli altri Paulistas e Baianos assumono la loro vera origine. Tra i Paulistas e i Baianos, $20\%$ dicono di essere Paulistas. Che percentuale rappresentano i veri Paulistas tra i Paulistas e i Baianos? A) $12.5\%$ \quad B) $18\%$ \quad C) $20\%$ \quad D) $22\%$ \quad E) $22.5\%$
+
+**Risposta:** A
+[[src_obm_2005_n2_f1__Q12]]

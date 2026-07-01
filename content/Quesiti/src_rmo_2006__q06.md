@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2006 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2006__Q06
 parent: src_rmo_2006
 competition: Regional Mathematical Olympiad 2006
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Infinitely many n with n(n+1) as sum of two squares in two ways*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Infinitamente molti n con n(n+1) come somma di due quadrati in due modi*
+
+> Dimostra che ci sono infiniti interi positivi $n$ in modo tale che $n(n+1)$ possa essere espressa come la somma di due quadrati positivi in almeno due modi diversi. (Qui $a^2 + b^2$ e $b^2 + a^2$ sono considerati come la stessa rappresentazione.)
+
+[[src_rmo_2006__Q06]]

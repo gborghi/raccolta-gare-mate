@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q04
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu grande N 4 cifre con penultima cifra 1 in basi 4,5,6,7*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Biggest N 4 digits with the last digit 1 in bases 4,5,6,7< MSK1/>
+
+> An appropriate agreement [30] As everyone knows, the morning villages of Retta, Root, Monoide and Binomio count on different bases. Find the largest number N of 4 decimal digits whose penultimate digit is 1 when N is written in base 4, 5, 6, 7.
+
+[[src_cesenatico_2007_squadre_pubblico__Q04]]

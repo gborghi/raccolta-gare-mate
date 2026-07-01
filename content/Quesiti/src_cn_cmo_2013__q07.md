@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2013 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2013__Q07
 parent: src_cn_cmo_2013
 competition: China Mathematical Olympiad 2013
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest k so that for every valid self-map of a 100-element set there is B with |B|=k and B union f(B)=X*
 
@@ -51,3 +54,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La minima k in modo che per ogni auto-mappa valida di un insieme di 100 elementi ci sia B con B = k e B unione f(B) = X*
+
+> Dato $X=\{1,2,\ldots,100\}$, consideri le funzioni $f:X\to X$ che soddisfano le seguenti condizioni: (1) $f(x)\ne x$ per tutti $x\in X$; (2) per qualsiasi insieme $A\subseteq X$ con $|A|=40$, abbiamo $A\cap f(A)\ne\varnothing$. Trova il più piccolo intero positivo $k$ in modo che per qualsiasi funzione $f$ esista un insieme $B\subseteq X$ che soddisfa $|B|=k$ e $B\cup f(B)=X$.
+
+**Risposta:** 69
+[[src_cn_cmo_2013__Q07]]

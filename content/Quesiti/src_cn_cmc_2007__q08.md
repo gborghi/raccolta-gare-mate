@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2007 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2007__Q08
 parent: src_cn_cmc_2007
 competition: China Mathematical Competition 2007
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cosine of angle between EF and AC given triangle configuration*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $-\dfrac{1}{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cosine dell'angolo tra EF e AC data configurazione triangolare*
+
+> Date $\triangle ABC$ e $\triangle AEF$ in modo tale che $B$ sia il punto medio di $EF$, $AE = AC$, $AB = \sqrt{6}$, $CA = \sqrt{3}$ e $\overrightarrow{AB} \cdot \overrightarrow{AC} = 2$. Il cosino dell'angolo tra $\overrightarrow{EF}$ e $\overrightarrow{AC}$ è $\underline{\qquad}$.
+
+**Risposta:** $-\dfrac{1}{3}$
+[[src_cn_cmc_2007__Q08]]

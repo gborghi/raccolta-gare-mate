@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q25
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti euro ha speso Adele*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How much did Adele spend?
+
+> Adele, Beatrice and Cecilia went shopping. Beatrice spent only 15% of what Cecilia spent, while Adele spent 60% more than Cecilia. All together they spent 55 euros. How much did Adele spend? A) 3
+> 	
+> B) 20
+> 	
+> C) 25
+> 	
+> D) 26
+> 	
+> E) 32
+
+**Answer:** E
+[[src_kangourou_2018_cadet_marzo__Q25]]

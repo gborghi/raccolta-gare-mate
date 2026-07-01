@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f3__Q03
 parent: src_obm_2009_n2_f3
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Chess-knight game on m×n board; determine winner*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LX5lriZmay4faIzZGdpod2kqS8160CrJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di scacchi-cavaliere su m×n tavola; determinare il vincitore*
+
+> Arnaldo e Bernaldo giocano il seguente gioco su una tavola $m \times n$, $m, n \ge 2$. Arnaldo inizia scegliendo una piazza e mettendo su di essa un cavaliere di scacchi; poi Arnaldo e Bernaldo spostano alternativamente il cavaliere, a partire da Bernaldo, con la restrizione che il cavaliere non può atterrare su una piazza già visitata. Il giocatore che non può muovere il cavaliere perde. Determinare, in termini di $m$ e $n$, quale giocatore abbia una strategia vincente, indipendentemente dalle mosse dell'altro giocatore, e mostrare come dovrebbe giocare per vincere.
+> 
+> *Nota: * Ogni mossa di un cavaliere di scacchi consiste di due quadrati nella direzione verticale o orizzontale seguiti da un quadrato nella direzione perpendicolare.
+
+[[src_obm_2009_n2_f3__Q03]]

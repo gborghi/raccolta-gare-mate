@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1969 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1969_r3__Q05
 parent: src_pol_1969_r3
 competition: Olimpiade Matematica Polacca 1969 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equiangular octagon with rational sides has a center of symmetry*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RbcyYOsjDo8XEM7n0JSDDu_IhTzLThy_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un ottagono equangolare con lati razionali ha un centro di simmetria*
+
+> Prova che un ottagono, i cui angoli sono tutti uguali e tutti i lati hanno una lunghezza razionale, ha un centro di simmetria.
+
+[[src_pol_1969_r3__Q05]]

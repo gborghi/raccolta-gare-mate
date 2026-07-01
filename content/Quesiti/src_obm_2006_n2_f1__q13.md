@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q13
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *GCD of all terms of sequence a_n = n^2 - n*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*GCD di tutti i termini della sequenza a_n = n^2 - n*
+
+> Il più grande divisore comune di tutti i termini della sequenza $a_n = n^2 - n$, per $n = 1, 2, 3, \ldots$, è:
+> 
+> **A) ** 2 \quad **B) ** 3 \quad **C) ** 4 \quad **D) ** 5 \quad **E) ** 6
+
+**Risposta:** A
+[[src_obm_2006_n2_f1__Q13]]

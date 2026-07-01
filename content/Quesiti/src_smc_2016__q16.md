@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2016 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2016__Q16
 parent: src_smc_2016
 competition: Senior Mathematical Challenge 2016
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For which value of k does √2016 + √56 equal 14^k?*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per quale valore di k √2016 + √56 è uguale a 14^k?*
+
+> Per quale valore di $k$ $\sqrt{2016} + \sqrt{56}$ è uguale a $14^k$?
+>
+> - **(A)** $\dfrac{1}{2}$
+> - **(B)** $\dfrac{3}{4}$
+> - **(C)** $\dfrac{4}{3}$
+> - **(D)** $\dfrac{3}{2}$
+> - **(E)** $2$
+
+**Risposta:** D
+[[src_smc_2016__Q16]]

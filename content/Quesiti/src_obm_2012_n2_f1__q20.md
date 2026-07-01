@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q20
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integers in (23456,65432) with odd digit product not a multiple of 7*
 
@@ -50,3 +53,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi in (23456,65432) con prodotto a numeri unici non multiplo di 7*
+
+> Quanti numeri esistono tra $23456$ e $65432$ in modo tale che il prodotto delle loro cifre sia un numero impar che non è un multiple di $7$?
+> 
+> A) 128 \quad B) 256 \quad C) 512 \quad D) 1024 \quad E) 2048
+
+[[src_obm_2012_n2_f1__Q20]]

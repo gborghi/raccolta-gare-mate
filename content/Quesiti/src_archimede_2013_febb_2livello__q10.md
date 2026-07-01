@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q10
 parent: src_archimede_2013_febb_2livello
 competition: Archimede Gara di Febbraio 2013 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area massima di quadrilatero di lati 1,7,5,5*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum area of quadrilateral side 1,7,5,5*
+
+> We have a quadrilateral whose sides measure, in the order, 1,7,5,5. How much is your area worth at most?
+>
+> - **(A)** 12
+> - **(B)** 6 √ 6
+> - **(C)** 16
+> - **(D)** 20
+> - **(E)** There's no such thing as a quadrilateral.
+
+**Answer:** C
+[[src_archimede_2013_febb_2livello__Q10]]

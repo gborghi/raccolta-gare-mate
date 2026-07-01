@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre__Q01
 parent: src_kangourou_2022_kangourou_squadre
 competition: Kangourou Squadre 2022 Kangourou Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero fisso processo differenza max-min cifre*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6174
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kPr4pxe9JLW6PscULmAS1patprSg1xRs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fixed process number difference max-min digits*
+
+> The difference Choose four non-equal digits, form the largest and smallest number (both positive integers) and calculate the difference between the two (for example, if you chose the digits 0, 7, 2 and 1, you should calculate 7.210  127 = 7.083). Repeat the operation with the four digits of the number you have obtained (if it is less than four digits, press the necessary zeros) and proceed as follows. From now on, you'll always get the same number. What kind?
+
+**Answer:** 6174
+[[src_kangourou_2022_kangourou_squadre__Q01]]

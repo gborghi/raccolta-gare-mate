@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q21
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di soluzioni di f(f(x))=0 da un grafico*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of solutions of f(f(x))=0 from a graph*
+
+![[src_kangourou_2021_student_gara__prob21.png]]
+
+> The figure shows the graph of a function f: [5, 5] → R. How many distinct solutions are there to the equation f (f (x)) = 0? A) 2
+> 	
+> B) 4
+> 	
+> C) 6 D) 7
+> 	
+> E) 8
+
+**Answer:** E
+[[src_kangourou_2021_student_gara__Q21]]

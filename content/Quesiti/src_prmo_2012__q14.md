@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2012__Q14
 parent: src_prmo_2012
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2012
@@ -32,6 +33,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle BAC in triangle given circumcenter and incenter positions*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 60
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo BAC in triangolo dato posizioni di circoncentro e incentro*
+
+> $O$ e $I$ sono rispettivamente il circoncentro e l'incentro di $\triangle ABC$. Supponiamo che $O$ si trovi all'interno di $\triangle ABC$ e $I$ si trova sul cerchio che attraversa $B$, $O$ e $C$. Qual è la magnitudine di $\angle BAC$ in gradi?
+
+**Risposta:** 60
+[[src_prmo_2012__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Junior Finale 1 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_squadre__Q13
 parent: src_kangourou_2023_junior_squadre
 competition: Kangourou Squadre 2023 Junior Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tasselli comprati oggi date condizioni sconto*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0045
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tables purchased today at discounted prices*
+
+> On a base price of 50 cents for a box, a hardware store offers a discount of 5% for those who buy less than 36, a discount of 12% for those who buy between 36 and 55 (included), a discount of 20% for those who buy at least 56. Yesterday I bought some of these bags and got a 5% discount; today I bought others and got a 12% discount. If I had bought today's with yesterday's, I would have gotten a 20% discount on 3 euros and 90 cents. How many baskets did I buy today?
+
+**Answer:** 0045
+[[src_kangourou_2023_junior_squadre__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale B — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_b__Q12
 parent: src_gas_2010_semifinale_b
 competition: Gara a Squadre 2010 - Semifinale B
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimi numeri di 5 cifre con cifre 0-9, uno doppio dell'altro*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3485
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum numbers of 5 digits with digits 0 to 9, one double the other*
+
+> The Fraternity of the π-rats is made up of 9 π-rat nobles plus Teague Disparrow, Jack's father. Each member holds one of the cards in a deck of 10 magic tarot decks, numbered from 0 to 9. To capture Cauchypso in human form, π-rates must arrange all the cards so as to form with them 2 5-digit numbers (none of which starts with zero) that are one double the other and so as to be the smallest possible. What are the last four digits of the smaller of the two?
+
+**Answer:** 3485
+[[src_gas_2010_semifinale_b__Q12]]

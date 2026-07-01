@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q16
 parent: src_archimede_2012_febb_2livello
 competition: Archimede Gara Febbraio 2012 (8 feb) - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Debito di sonno settimanale, minimo ore dormite da Davide*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 58
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Debt of weekly sleep, minimum hours of sleep by David< MSK1/>
+
+> Demonstrative Exercise Normally David needs at least eight hours of sleep a night. If one night he sleeps less than he needs to, he finds himself needing more than k hours for the next k nights. Each night, however, he sleeps an entire number of hours less or equal to his needs. For example, if you need eight hours on Monday night, but you sleep seven, you'll need nine on Tuesday. If on Wednesday you need 8 hours, but on Thursday and Friday you need at least 10 hours of sleep; if on Thursday you only need 9 hours, on Friday you will feel the need for 11 hours (8, plus 2 for the hours lost on Wednesday, plus 1 for the one not sleeping on Thursday). On a certain Monday night David would need eight hours of sleep; the same is true on the Monday night of the following week. During the week there were 7 hours in which he needed to sleep but did not: How many hours did David sleep at least in the seven nights from Monday to Sunday?
+
+**Answer:** 58
+[[src_archimede_2012_febb_2livello__Q16]]

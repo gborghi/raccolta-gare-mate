@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f1__Q16
 parent: src_obm_1998_n3_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Function f assigns to each real x the smaller element of {x+1, (15-x)/2}. Find the maximum value of f(x).*
 
@@ -58,3 +61,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+La funzione f assegna a ogni x reale l'elemento più piccolo di {x+1, (15-x)/2}. Trova il valore massimo di f ((x).*
+
+> La funzione $f$ associa a ogni numero reale $x$ il più piccolo elemento del set $\left\{x+1,\ \dfrac{15-x}{2}\right\}$. Il valore massimo di $f(x)$ è:
+> 
+> A) $4$
+> 
+> B) $5$
+> 
+> C) $\dfrac{11}{2}$
+> 
+> D) $\dfrac{16}{3}$
+> 
+> E) $\dfrac{19}{4}$
+
+**Risposta:** D
+[[src_obm_1998_n3_f1__Q16]]

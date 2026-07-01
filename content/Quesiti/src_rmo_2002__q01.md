@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2002 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2002__Q01
 parent: src_rmo_2002
 competition: Regional Mathematical Olympiad 2002
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Feet of cevians are altitudes iff given ratios hold*
 
@@ -39,3 +42,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_m3GjaVBEfcL0ShA4FjgFrQjp3KoeJKA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>I piedi dei ceviani sono le altitudini se i rapporti dati sostengono < MSK1/>
+
+> In un triangolo acuto $ABC$, i punti $D$, $E$, $F$ si trovano rispettivamente sui lati $BC$, $CA$, $AB$ in modo tale che $$\frac{CD}{CE} = \frac{CA}{CB},\quad \frac{AE}{AF} = \frac{AB}{AC},\quad \frac{BF}{BD} = \frac{BC}{BA}.$$ dimostri che $AD$, $BE$, $CF$ sono le altitudini di $ABC$.
+
+![[src_rmo_2002__Q01.png]]
+
+[[src_rmo_2002__Q01]]

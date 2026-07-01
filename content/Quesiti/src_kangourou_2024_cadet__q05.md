@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q05
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti vertici ha il solido dopo aver tolto 4 piramidi*
 
@@ -52,3 +55,25 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many peaks does the solid have after removing 4 pyramids?
+
+![[src_kangourou_2024_cadet__prob5.png]]
+
+> Julius has a regular wooden tetrahedron. From it it removes the four small pyramids shown in the figure in the dark. How many peaks does the solid have left? A) 8
+>  
+> B) 9
+>  
+> C) 11
+>  
+> D) 12
+>  
+> E) 15 1 5 11
+>
+
+**Answer:** D
+[[src_kangourou_2024_cadet__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2021 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2021__Q23
 parent: src_smc_2021
 competition: Senior Mathematical Challenge 2021
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the minimum value of (x² − 4x + 3)(x² + 4x + 3) for real x.*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il valore minimo di (x2 − 4x + 3)(x2 + 4x + 3) per x reale.*
+
+> $x$ sia un numero reale. Qual è il valore minimo di $(x^2 - 4x + 3)(x^2 + 4x + 3)$?
+>
+> - **(A)** $-16$
+> - **(B)** $-9$
+> - **(C)** $0$
+> - **(D)** $9$
+> - **(E)** $16$
+
+**Risposta:** A
+[[src_smc_2021__Q23]]

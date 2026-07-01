@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2009 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2009__Q01
 parent: src_bocconi_primavera_2009
 competition: Semifinale di Primavera 2009
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti per tagliare un tronco in cinque parti*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6 minuti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14prakvd6EDcEQSfmnn_-6oGG4wcPui_K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minutes to cut a log into five parts< MSK1/>
+
+> If it takes one and a half minutes to cut a tree (a trunk of constant diameter) into two parts, how many minutes does it take to cut the same tree into five parts?
+
+**Answer:** 6 minuti
+[[src_bocconi_primavera_2009__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Junior Finale 2 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_squadre_f2__Q09
 parent: src_kangourou_2022_junior_squadre_f2
 competition: Kangourou Squadre 2022 Junior Finale 2
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo ambasciate, grafo senza triangoli*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0450
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most embassies, triangle-free graph < MSK1/>
+
+> Embassies On a distant planet there are exactly 30 nations, rather contentious among themselves: in fact, there are no three nations that have diplomatic relations with each other (each with each of the other two). If A is related to B, then B is also related to A and in A there is an embassy of B and in B there is an embassy of A. How many embassies could there be on that planet?
+
+**Answer:** 0450
+[[src_kangourou_2022_junior_squadre_f2__Q09]]

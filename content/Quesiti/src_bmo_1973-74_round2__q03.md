@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1973-74 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1973-74_round2__Q03
 parent: src_bmo_1973-74_round2
 competition: British Mathematical Olympiad 1973-74 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Locus of centre of circular hoop touching floor and two perpendicular walls*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rwes33Lj8ZPet5UN-WP0QaEOUv3l6tl-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Localisso del centro del pavimento e delle due pareti perpendicolari di un cerchio circolare *
+
+> Un cerchio circolare di raggio 1 è posizionato nell'angolo della stanza. (L'angolo è costituito da un pavimento orizzontale e due pareti verticali perpendicolari e il cerchio tocca tutti e tre i piani). (Francia)
+
+[[src_bmo_1973-74_round2__Q03]]

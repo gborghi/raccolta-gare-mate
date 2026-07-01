@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Biennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_biennio__Q08
 parent: src_archimede_1996_biennio
 competition: Giochi di Archimede 1996 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto AD/AB da similitudine di rettangoli*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ARzIV3wHmzpV455NSIYGulflPgheKY6p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AD/AB ratio from rectangular similarities*
+
+> In the rectangle ABCD (vertices indicated in the anti-clockwise direction), E and F are the midpoints of the major sides AD and BC respectively. Knowing that ABFE is similar to ABCD, how much is AD/AB worth?
+>
+> - **(A)** 7 5
+> - **(B)** 3 2
+> - **(C)** √ 3
+> - **(D)** 2 √ 2
+> - **(E)** The previous answers are all wrong.
+
+**Answer:** E
+[[src_archimede_1996_biennio__Q08]]

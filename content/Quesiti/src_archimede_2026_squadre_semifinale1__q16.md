@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_semifinale1__Q16
 parent: src_archimede_2026_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2026 - Semifinale 1
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *GC+FC con triangoli equilateri e circonferenza Γ*
 
@@ -55,3 +58,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0424
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*GC+FC with equilateral triangles and circumference Γ*
+
+![[src_archimede_2026_squadre_semifinale1__prob16.png]]
+
+> In the Quamditch field two baskets are placed in C and D and then two arbiters in A and B, so that ACD and BCD are equilateral but not coincident. The Rapporteur's team (composed of Hardy, Hermita, Ron and Norris) must score in C. However, to score a regular point the shooter must have a pivot player such that they are aligned with B, form an equilateral triangle with A and the shooter is closer to the basket C of the pivot. Hardy and Hermita (placed in E and G) are ready to score as shooters, with Ron and Norris (placed in F and H) as their pivot respectively. We also know that \ ABE = 45° and that \ ABH = 75°, and E and G are on the same side of C as with straight AB. Knowing that EF measures 300 rods, determine GC +FC (in rods).
+
+**Answer:** 0424
+[[src_archimede_2026_squadre_semifinale1__Q16]]

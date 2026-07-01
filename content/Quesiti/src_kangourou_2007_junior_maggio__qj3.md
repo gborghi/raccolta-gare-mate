@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior finale (maggio) — Quesito J3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_maggio__QJ3
 parent: src_kangourou_2007_junior_maggio
 competition: Kangourou 2007 Junior finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri ab il cui quadrato finisce in ab (automorfi)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** due: 25 e 76
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18MZGLQJUQipZMb6TJ_fvPWOpz_biScUr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers whose ab square ends in ab (automorphic) *
+
+> The square of a 2-digit number $\overline{ab}$ ends with the same digits $\overline{ab}$. How many and what numbers have this property?
+
+**Answer:** due: 25 e 76
+[[src_kangourou_2007_junior_maggio__QJ3]]

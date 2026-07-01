@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2019 - Triennio (T1) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_triennio__Q18
 parent: src_archimede_2019_triennio
 competition: Giochi di Archimede 2019 - Triennio (T1)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del rettangolo che inscrive la figura a cuore*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the rectangle inscribed with the figure to the heart*
+
+![[src_archimede_2019_triennio__prob18.png]]
+
+> The administrators of the Instagram page of the Mathematics Olympics realized that the icon corresponding to the i like received is heart-shaped, consisting of a square and two semicircles built on consecutive sides. The figure can be inscribed in a rectangle with the sides parallel to the diagonals of the square, as here next to it. Since the square has a side of 1 cm, how many cm2 does the area of the rectangle measure?
+>
+> - **(A)** 3 √ 2 −2
+> - **(B)** 3+ √ 2 2
+> - **(C)** 7 8(1 + √ 2)
+> - **(D)** 3+2 √ 2 4
+> - **(E)** 5 4 + √ 2
+
+**Answer:** E
+[[src_archimede_2019_triennio__Q18]]

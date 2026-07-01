@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin gara individuale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q12
 parent: src_kangourou_2022_benjamin_gara
 competition: Kangourou 2022 Benjamin gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero finale seguendo le frecce da 12*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Final number following arrows from 12*
+
+![[src_kangourou_2022_benjamin_gara__prob12.png]]
+
+> Clear starts from 12 and follows the path of the arrows by applying the rules (multiplication or division) shown in the figure to the left. What number does it end with? A) 3
+>   
+> B) 6
+>   
+> C) 12 D) 24
+>   
+> E) 48
+
+**Answer:** B
+[[src_kangourou_2022_benjamin_gara__Q12]]

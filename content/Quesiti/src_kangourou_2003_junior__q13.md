@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior (20 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior__Q13
 parent: src_kangourou_2003_junior
 competition: Kangourou 2003 Junior (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Capacita vaschetta dalle percentuali*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Table capacity by percentages< MSK1/>
+
+> When a tank is filled except that it contains 30% more liters than when it is filled only 30%. How many liters does the tank contain when it's full? A) 60 B) 75 C) 90 D) 100 E) 120
+
+**Answer:** B
+[[src_kangourou_2003_junior__Q13]]

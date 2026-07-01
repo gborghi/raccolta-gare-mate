@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q13
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -26,6 +27,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita compleanni distinti*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of separate birthdays< MSK1/>
+
+> What's the probability that Adam, Pepper, Wensleydale and Brian's birthdays fall on four different days of the week? The sum of the numerator and denominator of the fraction obtained after simplifying all the common factors shall be given as the answer.
+
+[[src_gs_2008_squadre__Q13]]

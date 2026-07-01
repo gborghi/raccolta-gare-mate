@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo8yq_yosen__Q05
 parent: src_jjmo8yq_yosen
 competition: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count pairs with sqrt(2)n < m, given count for m<sqrt(2)n<2m*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio di coppie con sqrt(2)n < m, dato il conteggio per m<sqrt(2)n<2m*
+
+> È noto che il numero di coppie $(m, n)$ di integri positivi al massimo $100$ soddisfa $m < \sqrt{2}\,n < 2m$ è esattamente $2958$. Quante coppie $(m, n)$ di integri positivi al massimo $100$ soddisfano $\sqrt{2}\,n < m$?
+
+[[src_jjmo8yq_yosen__Q05]]

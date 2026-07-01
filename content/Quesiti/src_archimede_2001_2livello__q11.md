@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2001 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_2livello__Q11
 parent: src_archimede_2001_2livello
 competition: Archimede Gara 2º livello 2001
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto volume tetraedro regolare e tetraedro ABPQ*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 9
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Rate of volume of regular tetrahedron and ABPQ tetrahedron< MSK1/>
+
+> In a regular tetrahedron of vertices A, B, C, D, we use P and Q to indicate the centers of the two faces that have the AB joint. What is the ratio of the volume of the initial tetrahedron to that of the tetrahedron whose vertices are points A, B, P and Q?
+
+**Answer:** 9
+[[src_archimede_2001_2livello__Q11]]

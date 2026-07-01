@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - semifinale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet_semifinale__Q08
 parent: src_kangourou_2021_cadet_semifinale
 competition: Kangourou 2021 Cadet - semifinale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante cifre 3 scrivendo 2021 come somma di cinque numeri*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many digits 3 writing 2021 as the sum of five digits*
+
+> (5 points) Julius wants to write 2021 as the sum of five positive integers that have no digits other than 3 and 5. How many digits of 3 are there in all five numbers? A) 2
+>  
+> B) 3
+>  
+> C) 4
+>  
+> D) 5
+>  
+> E) 6
+
+**Answer:** B
+[[src_kangourou_2021_cadet_semifinale__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1984 (XXV International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1984__Q05
 parent: src_imho_1984
 competition: IMO 1984 (XXV International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Diagonal sum vs perimeter double inequality for convex n-gon*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hddGpriFfJ9QXK1JRJNBQA3ykv770Ola/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Diagonal sum vs perimeter double inequality for convex n-gon
+
+> Let $d$ be the sum of the lengths of all the diagonals of a plane convex polygon with $n$ vertices ($n > 3$), and let $p$ be its perimeter. Prove that $$n - 3 < \frac{2d}{p} < \left\lfloor \frac{n}{2} \right\rfloor \cdot \frac{n + 1}{2} - 2,$$ where $\lfloor x \rfloor$ denotes the greatest integer not exceeding $x$.
+
+[[src_imho_1984__Q05]]

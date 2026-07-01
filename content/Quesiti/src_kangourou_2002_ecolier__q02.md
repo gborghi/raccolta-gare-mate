@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_ecolier__Q02
 parent: src_kangourou_2002_ecolier
 competition: Kangourou 2002 - Ecolier (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Calcolo della somma alternata di 2*
 
@@ -42,3 +45,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Calculation of the alternate sum of 2
+
+> Do the following calculation: 2 + 2  2 + 2  2 + 2  2 + 2  2 + 2  2  2 + 2. How much do you get?
+>  
+> A. 0 B. 2 C. 4 D. 12
+>  
+> E. 20
+
+**Answer:** C
+[[src_kangourou_2002_ecolier__Q02]]

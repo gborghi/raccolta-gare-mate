@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2021 — Nível 2 — Fase x — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2021_n2_fx__Q03
 parent: src_obm_2021_n2_fx
 competition: Olimpíada Brasileira de Matemática 2021 — Nível 2 — Fase x
@@ -39,6 +40,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Round-robin with 2021 teams, 3/1/0 scoring; top two play the final, OBM has the tiebreak advantage and won its first match. Find the minimum final score giving a chance at the final*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Round-robin con le squadre del 2021, 3/1/0 segnando; i primi due giocano la finale, l'OBM ha il vantaggio del tiebreak e ha vinto la sua prima partita. Trova il punteggio finale minimo che dà una possibilità alla finale*
+
+> In un campionato di calcio con squadre $2021$, le squadre giocano l'una contro l'altra, tutte giocando esattamente una volta contro ciascuna delle altre. Alla fine di ogni partita, in caso di pareggio, ogni squadra guadagna $1$ punti; altrimenti, il vincitore della partita guadagna $3$ punti e il perdente $0$ punti. Alla fine del campionato, le due squadre con i punteggi più alti disputano la finale. In caso di parità di punti, il risultato della prima partita giocata tra loro decide chi ha il vantaggio; cioè, in qualsiasi parità di punti finali il vincitore testa a testa ha il vantaggio. Il club di calcio OBM ha vinto la sua prima partita, ed è noto che, essendo il campione della precedente edizione, si avvale di qualsiasi pareggio nei punti finali. Qual è il punteggio finale minimo per far sì che l'OBM Football Club abbia qualche possibilità di raggiungere la finale?
+
+[[src_obm_2021_n2_fx__Q03]]

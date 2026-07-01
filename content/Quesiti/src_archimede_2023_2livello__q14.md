@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_2livello__Q14
 parent: src_archimede_2023_2livello
 competition: Archimede Gara di Febbraio 2023 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *2023 persone in fila, affermazioni su furfanti, quanti*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1348
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*2023 people in line, claims on thieves, how many*
+
+> On one island there are 2023 Indian people in line, each of whom is a con man or a knight: the knights always tell the truth, while the con men always lie. If they are odd, the person in the eighth position exclaims: There are at least thieves; if they are even, the person in the eighth position exclaims: There are exactly thieves. How many thieves are there?
+
+**Answer:** 1348
+[[src_archimede_2023_2livello__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q13
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum positive sum of products of pairs from ±1 sequence*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK1/>Minimum somma positiva di prodotti di coppie provenienti da < MSK0/>1 sequenza< MSK2/>
+
+> Ogni numero $x_1, x_2, \ldots, x_{101}$ è $\pm 1$. Qual è il valore positivo più piccolo di $\displaystyle\sum_{1 \le i < j \le 101} x_i x_j$?
+
+[[src_prmo_2019__Q13]]

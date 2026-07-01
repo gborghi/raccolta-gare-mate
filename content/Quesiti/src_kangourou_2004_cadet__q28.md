@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q28
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma numeri sulle facce dato somma vertici*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of numbers on faces given sum of vertices*
+
+> On the sides of a cube are written natural numbers and on each vertex is written the product of the numbers on the three sides that have that vertex in common. The sum of the numbers in the vertices is 70. So the sum of the numbers on the faces is: A) 12 B) 35 C) 14 D) 10 E)
+
+**Answer:** C
+[[src_kangourou_2004_cadet__Q28]]

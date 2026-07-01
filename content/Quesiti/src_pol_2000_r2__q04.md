@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2000 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2000_r2__Q04
 parent: src_pol_2000_r2
 competition: Olimpiade Matematica Polacca 2000 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In triangle ABC with AB != AC, I is the incenter and D, E are where BI and CI meet the opposite sides; find all measures of angle BAC for which DI = EI.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1M8ROmEjFOc71e2VL3ctjR70wj7gR0qKt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nel triangolo ABC con AB != AC, I è l'incentro e D, E sono dove BI e CI incontrano i lati opposti; trovare tutte le misure dell'angolo BAC per il quale DI = EI.*
+
+> In un triangolo $ABC$ con $AB \neq AC$, $I$ è l'incentro e $D$ e $E$ i punti di intersezione di $BI$ e $CI$ con i lati opposti del triangolo, rispettivamente. Trova tutte le possibili misure di $\angle BAC$ per le quali può essere soddisfatta l'uguaglianza $DI = EI$.
+
+[[src_pol_2000_r2__Q04]]

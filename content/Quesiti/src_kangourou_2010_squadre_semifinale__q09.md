@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2010 squadre semifinale turno A — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2010_squadre_semifinale__Q09
 parent: src_kangourou_2010_squadre_semifinale
 competition: Kangourou 2010 squadre semifinale turno A
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo quadrati da colorare per griglia 25x25*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 48
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum squares to be coloured per grid 25x25*
+
+> You have a square grid formed by the approximation of 25 < MSK0/> 25 squares of side 1 and you have fun coloring the edge of the possible squares whose sides are contained in the grid highlighted, wherever they are and of whatever size they are. What is the minimum number of squares that you need to color the edge of if you want all the lines of the grid to be completely red?
+
+**Answer:** 48
+[[src_kangourou_2010_squadre_semifinale__Q09]]

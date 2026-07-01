@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q20
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di uffici nel grattacielo*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0174
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum number of offices in the skyscraper
+
+> Lord Petyr Baelish's palace has 70 floors. Each floor has seven windows facing south. Each of these corresponds to an office, an apartment or a waiting room. The distribution follows the following rules: 1. There can't be more waiting rooms on every floor than offices 2. A room above an apartment is a waiting room 3. If a room directly above an office is adjacent to two other rooms, then these last two rooms must be of the same type.
+> 
+> What is the minimum number of offices in the building?
+
+**Answer:** 0174
+[[src_gs_2013_squadre__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2013 - Biennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_biennio__Q07
 parent: src_archimede_2013_biennio
 competition: Giochi di Archimede 2013 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie in tabella dove la riga 2 e multipla della 1*
 
@@ -47,3 +50,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Table pairs where row 2 and multiples of 1*
+
+> Given a table with 2 rows and 1007 columns, we write all the numbers from 1 to 1007 on the first row in increasing order, and the numbers from 1008 to 2014 on the second, always in increasing order. Now let's look at the table as 1007 pairs of numbers overlapping vertically: how many of them is the number that appears in the second row multiple of what's above it?
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6
+
+**Answer:** C
+[[src_archimede_2013_biennio__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q11
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right triangle, midpoint D of AC, BD=3DC, find hypotenuse*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo retto, punto medio D di AC, BD=3DC, trovare ipotenusa*
+
+> $ABC$ sia un triangolo rettangolo con angolo rettangolo a $A$. $D$ sia il punto medio di $AC$. Dato che $BD = 3DC$ e $AC = 2$, trovare la lunghezza dell'ipotenuza del triangolo $ABC$.
+> 
+> (A) $\sqrt{7}$ \quad (B) $2\sqrt{2}$ \quad (C) $3$ \quad (D) $\sqrt{10}$ \quad (E) $2\sqrt{3}$
+
+**Risposta:** D
+[[src_obm_2013_n2_f1__Q11]]

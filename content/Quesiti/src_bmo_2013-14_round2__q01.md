@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2013-14 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2013-14_round2__Q01
 parent: src_bmo_2013-14_round2
 competition: British Mathematical Olympiad 2013-14 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum colours to colour diagonals of 2014-gon so crossing diagonals differ*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gxTVIckVBIyVVlwqu7d6UulSTigrFAu3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Minimum di colori per le diagonali di colore del 2014-gon in modo che le diagonali di incrocio differiscano< MSK1/>
+
+> Ogni diagonale di un poligono regolare con lati $2014$ è colorata in uno dei colori $n$. Ogni volta che due diagonali si incrociano all'interno, sono di colori diversi. Qual è il valore minimo di $n$ per il quale questo è possibile?
+
+[[src_bmo_2013-14_round2__Q01]]

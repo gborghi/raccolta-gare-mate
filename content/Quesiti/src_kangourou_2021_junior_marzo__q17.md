@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q17
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di punti per i sorpassi nella gara*
 
@@ -70,3 +73,23 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum points for overtaking in the race*
+
+> Five cars took part in a race, starting in the order shown below. Each time one car overtook another, it was awarded a point. Vehicles reached the finish in the following order: It is found that the number of points awarded globally was the minimum compatible with this information. What's this number? A) 10
+> 	
+> B) 9
+> 	
+> C) 8
+> 	
+> D) 7
+> 	
+> E) 6 6 ? The following information shall be provided for the purposes of this Regulation:
+>
+
+**Answer:** E
+[[src_kangourou_2021_junior_marzo__Q17]]

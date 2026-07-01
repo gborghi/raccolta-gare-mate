@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo26yq_yosen__Q06
 parent: src_jmo26yq_yosen
 competition: Japan Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Average score over all ways to circle 100 of 1..200*
 
@@ -45,3 +48,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto medio su tutti i modi per circolare 100 su 1,200*
+
+> I numeri interi da $1$ a $200$ sono scritti esattamente una volta su biglietti di lotteria separati, e esattamente $100$ di essi sono circolati (scelti). Per una tale scelta, il punteggio è definito come la somma dei numeri interi circondati meno la somma dei numeri interi $100$ non circondati. Calcola la media di questo punteggio su tutte le possibili scelte.
+
+**Risposta:** 670000
+[[src_jmo26yq_yosen__Q06]]

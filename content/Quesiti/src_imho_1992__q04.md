@@ -1,6 +1,7 @@
 ---
 title: IMO 1992 (XXXIII International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1992__Q04
 parent: src_imho_1992
 competition: IMO 1992 (XXXIII International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Locus of midpoint on circumscribed circle configuration*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Locus of midpoint on circumscribed circle configuration*
+
+> In the plane let $C$ be a circle, $L$ a line tangent to the circle $C$, and $M$ a point on $L$. Find the locus of all points $P$ with the following property: there exist two points $Q, R$ on $L$ such that $M$ is the midpoint of $QR$ and $C$ is the inscribed circle of triangle $PQR$.
+
+[[src_imho_1992__Q04]]

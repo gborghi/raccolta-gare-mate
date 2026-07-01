@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f2__Q01
 parent: src_obm_2016_n3_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Position 10000 in sequence built by concatenating 1..2^k blocks*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Posizione 10000 in sequenza costruita con la concatenatura di blocchi di 1..2k*
+
+> Considerate la sequenza di numeri $1, 1, 2, 1, 2, 3, 4, 5, 6, 1, 2, \ldots$ in cui scriviamo i numeri da $1$ a $2^1$, poi da $1$ a $2^2$, poi da $1$ a $2^3$, e così via. Si noti che ogni posizione in questa sequenza è occupata da esattamente un numero. Ad esempio, il numero $5$ appare per la prima volta nella posizione $8$. Determinare quale numero occupa la posizione $10000$.
+
+[[src_obm_2016_n3_f2__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior (18 marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior__Q20
 parent: src_kangourou_2004_junior
 competition: Kangourou 2004 Junior (18 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante piastrelle bianche nel mosaico diagonali*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many white tiles in the diagonal mosaic< MSK1/>
+
+![[src_kangourou_2004_junior__prob20.png]]
+
+> A square 2003 side mosaic is obtained by attaching white tiles and gray tiles to side 1. The gray tiles are all only those centered on the diagonals (as in the figure, where the situation is represented by a side square 7). How many white tiles are there? A) 20022 B) 2002 x 2001 C) 20032 D) 2003 x 2004 E) 20042 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** A
+[[src_kangourou_2004_junior__Q20]]

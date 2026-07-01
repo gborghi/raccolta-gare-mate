@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 26
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q26
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -37,6 +38,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence with strictly increasing 4-term averages and strictly decreasing 7-term averages; max length*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Sequenza con medie strettamente in aumento a 4 termini e medie strettamente in diminuzione a 7 termini; lunghezza massima < MSK1/>
+
+> Considerate una sequenza di numeri reali di lunghezza finita. Le medie consecutive di quattro termini di questa sequenza aumentano strettamente, ma le medie di sette termini consecutivi diminuiscono strettamente. Qual è la lunghezza massima possibile di tale sequenza?
+
+[[src_ioqm_2025_sep07__Q26]]

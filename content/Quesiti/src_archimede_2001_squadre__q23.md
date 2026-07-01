@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_squadre__Q23
 parent: src_archimede_2001_squadre
 competition: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *minimo a*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0000
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BmICgzhXXszLqAUxg8mhu_z1YXo7y9a6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>minimum to < MSK1/>
+
+> The following table shows the calculation of the average monthly earnings:
+> 
+> Five operations are taught in primary schools. The fifth, which we will indicate with $\diamond$, is called the sum of imes, and is defined on fractions as follows: $$\frac{a}{b} \diamond \frac{c}{d} = \frac{ac}{ad + bc}$$ Calculate the smallest positive integer $a$ for which there are non-zero integers $b$, $c$ and $d$ such that the sum of imes of $a/b$ and $c/d$ coincides with their ordinary sum. You answer 0 if the sum of the months never coincides with the ordinary when $a$ is a positive integer.
+
+**Answer:** 0000
+[[src_archimede_2001_squadre__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q14
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Function f:Z->Z with f(0)=0, f(1)=1, f(2)=2 and f(x+12)=f(x+21)=f(x); find f(2009).*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Funzione f:Z->Z con f(0)=0, f(1)=1, f(2)=2 e f(x+12)=f(x+21)=f(x; trovare f(2009).*
+
+> $f : \mathbb{Z} \to \mathbb{Z}$ deve essere una funzione tale che $f(0) = 0$, $f(1) = 1$, $f(2) = 2$ e $f(x+12) = f(x+21) = f(x)$ per ogni $x \in \mathbb{Z}$. Poi $f(2009)$ è: (A) $0$ (B) $1$ (C) $2$ (D) $3$
+
+[[src_obm_2009_n3_f1__Q14]]

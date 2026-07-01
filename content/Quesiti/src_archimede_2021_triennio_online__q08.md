@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_triennio_online__Q08
 parent: src_archimede_2021_triennio_online
 competition: Giochi di Archimede 2021 - Gara Triennio (online)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo PQR da aree di sotto-triangoli con ceviane*
 
@@ -77,3 +80,45 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mirXxT9-Hv1KYgVTqPSQsnkdU7SPLtJP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*PQR triangular area from sub-triangular areas with cevial *
+
+![[src_archimede_2021_triennio_online__prob8.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (P) at (0,0);
+  \coordinate (R) at (6,0);
+  \coordinate (Q) at (2.6,3.6);
+  \coordinate (S) at (1.43,1.98);
+  \coordinate (T) at (4.47,1.62);
+  \coordinate (I) at (3.27,1.18);
+  \draw (P)--(Q)--(R)--cycle;
+  \draw (R)--(S);
+  \draw (P)--(T);
+  \fill (I) circle (1.4pt);
+  \node[above] at (Q) {$Q$};
+  \node[left] at (P) {$P$};
+  \node[right] at (R) {$R$};
+  \node[left] at (S) {$S$};
+  \node[right] at (T) {$T$};
+  \node[above left] at (I) {$I$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the PQR triangle, the points S and T belong, in order, to the sides PQ and QR. Given the intersection point of the RS and PT segments, the areas of the PIR, RIT and SIP triangles measure 3 mm2, 5 mm2 and 1 mm2 respectively. What is the area of the PQR triangle? P Q R S T I
+>
+> - **(A)** 18 mm2
+> - **(B)** 27 mm2
+> - **(C)** 24 mm2
+> - **(D)** 21 mm2
+> - **(E)** 20 mm2
+
+**Answer:** C
+[[src_archimede_2021_triennio_online__Q08]]

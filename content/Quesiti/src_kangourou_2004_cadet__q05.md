@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q05
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dopo quante fermate passeggeri vicini a meta*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>After the number of stops of passengers near the destination< MSK1/>
+
+> A train leaves the capitol with 114 people on board. At each stop, 13 passengers descend and six take off. After how many stops is the number of passengers on board as close as possible to half the initial number? A) 6            B) 7            C)  8          D) 9           E) 10
+
+**Answer:** C
+[[src_kangourou_2004_cadet__Q05]]

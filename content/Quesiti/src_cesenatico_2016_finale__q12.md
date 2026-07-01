@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q12
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita 4 pezzi tornino agli angoli dopo 2016 salti*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0010
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Chances are 4 pieces will return to the corners after 2016 jumps
+
+> To spend time on the Millennium Problem, Han Singleton and his co-pilot Chewbashev often play Dejenerik. One day the holographic chessboard 3×3 is left on in the middle of a game, in a configuration where there are exactly four pieces arranged on the four corner boxes. Each minute each of the four pieces jumps randomly onto one of the adjacent boxes (horizontal or vertical, not diagonal); all the destination boxes allowed for a piece have the same probability of being selected. After 2016, jumping pieces stop. Knowing that no pair of pieces have ever met on the same box, determine the probability that eventually the pieces will still occupy the four corners of the chessboard (possibly in a different order from the original one). The sum of the numerator and denominator of the fraction reduced to the minimum terms is given.
+
+**Answer:** 0010
+[[src_cesenatico_2016_finale__Q12]]

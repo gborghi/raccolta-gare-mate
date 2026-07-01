@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet gara individuale — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q22
 parent: src_kangourou_2022_cadet_gara
 competition: Kangourou 2022 Cadet gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto AB/BC del rettangolo diviso in sette*
 
@@ -63,3 +66,36 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AB/BC ratio of the rectangle divided by seven*
+
+![[src_kangourou_2022_cadet_gara__prob22.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) rectangle (12,7);
+  \foreach \x in {0,3,6,9} {
+    \draw (\x,3) rectangle (\x+3,7);
+  }
+  \foreach \x in {0,4,8} {
+    \draw (\x,0) rectangle (\x+4,3);
+  }
+  \node[above left] at (0,7) {$A$};
+  \node[above right] at (12,7) {$B$};
+  \node[below right] at (12,0) {$C$};
+  \node[below left] at (0,0) {$D$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The large rectangle in the figure, ABCD, is divided into seven rectangles all of the same size. What's the ratio between the length of the AB side and that of the BC side? A) 1/2 B) 4/3
+> 	
+> C) 8/5 D) 12/7 E) 7/3
+
+**Answer:** D
+[[src_kangourou_2022_cadet_gara__Q22]]

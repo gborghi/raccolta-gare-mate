@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (finale Cervia) — Quesito C5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_finale__QC5
 parent: src_kangourou_2017_cadet_finale
 competition: Kangourou 2017 Cadet (finale Cervia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sequenze consecutive con somma cifre divisibile per 7*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Si, al massimo due
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fMRZkFu7bLdUiC11xBpSrprxlKebqYVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sequences consecutive with a sum of digits divisible by 7*
+
+> Are there sequences of (at least two) consecutive positive integers such that the sum of the digits of each sequence number is divisible by $7$? If yes, how many numbers can there be at most in one of these sequences?
+
+**Answer:** Si, al massimo due
+[[src_kangourou_2017_cadet_finale__QC5]]

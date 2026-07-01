@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q23
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum alpha so that every unit-area convex polygon fits in an alpha-area symmetric copy*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 2
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Alfa minima in modo che ogni poligono convexo di area unitaria si inserisca in una copia simmetrica di area alfa*
+
+> Trovare il numero reale $\alpha$ meno positivo che soddisfi questa condizione: per qualsiasi poligono convex $P$ dell'area 1, esiste un punto $M$ nel piano tale che l'area dello scafo convex di $P \cup Q$ sia al massimo $\alpha$, dove $Q$ è la figura simmetrica centrale di $P$ circa $M$.
+
+**Risposta:** 2
+[[src_cn_ctst_2021__Q23]]

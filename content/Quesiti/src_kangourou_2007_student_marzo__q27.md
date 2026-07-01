@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Student (marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q27
 parent: src_kangourou_2007_student_marzo
 competition: Kangourou 2007 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra 100 celle sopra (spirale 12345)*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Chapter 100 cells above (spiral 12345) < MSK1/>
+
+![[src_kangourou_2007_student_marzo__prob27.png]]
+
+> The sequence numbers 1234512345123451 ... fill the cells on a sheet with a spiral type law, starting from the cell marked (v. (Figure 1). What figure do you find on the cell that is exactly 100 cells above that shaded one? A) 1 B) 2 C) 3 D) 4 E) 5
+
+**Answer:** A
+[[src_kangourou_2007_student_marzo__Q27]]

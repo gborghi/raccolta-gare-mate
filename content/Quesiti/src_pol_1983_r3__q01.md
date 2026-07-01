@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1983 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1983_r3__Q01
 parent: src_pol_1983_r3
 competition: Olimpiade Matematica Polacca 1983 — Round 3
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex n-gon with interior point Q not on any diagonal; prove the number of triangles P_iP_jP_k containing Q is even when n is even.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11T0teEgsTglF6JeBb0ta-iaqOX3phPMX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Convex n-gon con punto interno Q non su alcuna diagonale; dimostrare che il numero di triangoli P_iP_jP_k contenenti Q è pari quando n è pari.*
+
+> Sul piano sono indicati un convex $n$-gon $P_1P_2\ldots P_n$ e un punto $Q$ all'interno, non situato su nessuna delle sue diagonali. Prova che se $n$ è pari, il numero di triangoli $P_iP_jP_k$ contenenti il punto $Q$ è pari.
+
+[[src_pol_1983_r3__Q01]]

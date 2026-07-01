@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2023-24 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2023-24_round2__Q04
 parent: src_bmo_2023-24_round2
 competition: British Mathematical Olympiad 2023-24 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all (m,n) for which n piles of m objects can be emptied*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qirmXk6tq7Hx6xI5cofs-qU6mUOTNEF2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti (m,n) per i quali n pile di oggetti m possono essere svuotate*
+
+> Lasciate che $m < n$ siano numeri interi positivi. Inizia con pile $n$, ciascuno degli oggetti $m$. eseguire ripetutamente la seguente operazione: scegliere due pile e rimuovere l'insieme degli oggetti $n$ da queste due pile. Per quale $(m, n)$ è possibile svuotare tutte le pile?
+
+[[src_bmo_2023-24_round2__Q04]]

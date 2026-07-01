@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2020 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2020__Q08
 parent: src_cn_cmc-first-round_2020
 competition: China Mathematical Competition (First Round) 2020
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count good placements of cards labeled with pairs in boxes*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 56
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le buone posizioni delle carte etichettate con coppie in scatole*
+
+> (Paper A, Parte I Q8) Ci sono carte $10$, ognuna delle quali ha due numeri, numerati $1$, $2$, $3$, $4$, $5$, scritte su di essa, e i numeri su due carte non sono esattamente identici. Le schede contengono tutte quelle etichettate $1$, $2$, $3$, $4$, $5$, e una scheda con $i$ e $j$ scritte su di essa può essere inserita solo nella casella $i$ o nella casella $j$. Un posizionamento è chiamato "buono" se nella casella $1$ ci sono più carte di ciascuna delle altre caselle. Il numero totale dei posti di lavoro "buoni" è < MSK16/>.
+
+**Risposta:** 56
+[[src_cn_cmc-first-round_2020__Q08]]

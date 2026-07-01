@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2020 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2020__Q05
 parent: src_garaprime_2020
 competition: Gara Nazionale Classi Prime 2020
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte coincidono lancette secondi e minuti*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RcjMtWkWdcfagBZF3LMfq3IMn7aMwmGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many times do seconds and minutes match< MSK1/>
+
+> In the 12-hour time interval from 10:00:05 to 22:00:05 how many times does a clock's second and minute hands point in the same direction? A 708 B 720 C 719 D 660 E 600 F 590
+
+**Answer:** A
+[[src_garaprime_2020__Q05]]

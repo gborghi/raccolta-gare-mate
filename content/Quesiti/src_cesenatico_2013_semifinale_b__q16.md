@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_semifinale_b__Q16
 parent: src_cesenatico_2013_semifinale_b
 competition: Gara a Squadre Cesenatico 2013 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza somme fino a 1300 (quadrato piu vicino)*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6490
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Difference of sums up to 1300 (nearest square) < MSK1/>
+
+> A big banquet is being held in the castle of the new Root Queen. Between the roast and the dessert, the Red Queen suddenly asks Root: Take all the numbers up to 200, and subdivide them between those whose nearest square is odd and those whose nearest square is even. How different are the sums of the numbers in these two sets?
+> 
+> XIV NATIONAL GAR A Semifinal Team A  Solution  10 May 2013 Nr. The problem
+
+**Answer:** 6490
+[[src_cesenatico_2013_semifinale_b__Q16]]

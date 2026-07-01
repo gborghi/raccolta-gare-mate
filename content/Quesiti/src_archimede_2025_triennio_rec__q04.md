@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_triennio_rec__Q04
 parent: src_archimede_2025_triennio_rec
 competition: Giochi di Archimede 2025 - Triennio (prova di riserva)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di espressione con potenze di 3 e 9*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Expression value with powers of 3 and 9*
+
+> Indicate the value of 4 + 1 2 2025 32024 · 2 + 1 4 1013
+>
+> - **(A)** 1
+> - **(B)** None of the other 4
+> - **(C)** 1/9
+> - **(D)** 1/3
+> - **(E)** 2
+
+**Answer:** E
+[[src_archimede_2025_triennio_rec__Q04]]

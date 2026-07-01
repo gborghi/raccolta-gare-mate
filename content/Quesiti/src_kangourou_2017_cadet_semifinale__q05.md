@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q05
 parent: src_kangourou_2017_cadet_semifinale
 competition: Kangourou 2017 Cadet (semifinale individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Immagine del cubo non coerente con le altre*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Image of the cube not consistent with the others< MSK1/>
+
+![[src_kangourou_2017_cadet_semifinale__prob5.png]]
+
+> (Punkts 4) Rita dressed each of the six faces of a cube with cards of very different colours. Which of the images next to it does not agree with the other three and therefore certainly does not represent the cube covered by Rita?
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** None of them .
+
+**Answer:** E
+[[src_kangourou_2017_cadet_semifinale__Q05]]

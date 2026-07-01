@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Finale nazionale Cervia — Quesito B5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_finale__QB5
 parent: src_kangourou_2018_benjamin_finale
 competition: Kangourou 2018 Benjamin - Finale nazionale Cervia
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Auto nei sei gruppi meno numerosi per somma cifre*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 56
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WOGwM7hMulRZ-gZ3Bqwg0wTpNtCoA93i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Auto in the six smallest groups by sum of digits*
+
+> There's exactly a million cars in Kanglandia. Their plates, all different from each other, have six digits: the numbers are therefore between $000000$ and $999999$. For each car the plate numbers are added and the cars are divided into groups so that all the cars in the same group provide the same sum and different groups are related to different sums. How many cars do the six smallest groups have in total?
+
+**Answer:** 56
+[[src_kangourou_2018_benjamin_finale__QB5]]

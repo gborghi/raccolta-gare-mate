@@ -1,6 +1,7 @@
 ---
 title: IMO 2010 (LI International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2010__Q04
 parent: src_imho_2010
 competition: IMO 2010 (LI International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Point inside triangle, circumcircle tangent, SC=SP condition*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P9d2XUiUwFj4g4vYgMP-cLSy51RUJj9w/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Point inside triangle, circumcircle tangent, SC=SP condition*
+
+> Let $P$ be a point inside the triangle $ABC$. The lines $AP$, $BP$ and $CP$ intersect the circumcircle $\Gamma$ of triangle $ABC$ again at the points $K$, $L$ and $M$ respectively. The tangent to $\Gamma$ at $C$ intersects the line $AB$ at $S$. Suppose that $SC = SP$. Prove that $MK = ML$.
+
+[[src_imho_2010__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Semifinale individuale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q15
 parent: src_kangourou_2017_junior_semifinale
 competition: Kangourou 2017 Junior - Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo di x1^2+x2^2 per equazione a radici intere*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0101
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wcjQloPFR27i6zyeHrMFz2T13JxlzXfM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum of x1^2+x2^2 for whole-root equation*
+
+> (Points 12) The equation x2  mx + 10 = 0 has two distinct integer solutions x1 ≠ x2. What is the maximum value that the expression x1 2 + x2 2 can take?
+
+**Answer:** 0101
+[[src_kangourou_2017_junior_semifinale__Q15]]

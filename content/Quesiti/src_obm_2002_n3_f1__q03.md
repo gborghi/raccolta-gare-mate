@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q03
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A merchant sells two articles and computes total gain given percentage profit and loss*
 
@@ -54,3 +57,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Un commerciante vende due articoli e calcola il guadagno totale dato il profitto e la perdita percentuali< MSK1/>
+
+> Un commerciante acquista due articoli per un totale di R\$ 27.000,00. He sold the first one at a profit of $10\%$ and the second one at a loss of $5\%$. The total gain was R\$ 750,00. I due prezzi di acquisto erano rispettivamente:
+>
+> - **(A)** R\$ 10.000,00 and R\$ 17.000,00
+> - **(B)** R\$ 13.000,00 and R\$ 14.000,00
+> - **(C)** R\$ 14.000,00 and R\$ 13.000,00
+> - **(D)** R\$ 15.000,00 and R\$ 12.000,00
+> - **(E)** R\$ 18.000,00 and R\$ 9.000,00
+
+**Risposta:** C
+[[src_obm_2002_n3_f1__Q03]]

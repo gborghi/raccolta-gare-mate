@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Junior 2017 Finale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_junior_f__Q12
 parent: src_kangourou_2017_squadre_junior_f
 competition: Kangourou Coppa Squadre Junior 2017 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Superficie minima incollando cubi 1, 8 e 27*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 72
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ijd-2yBvSFtAjZLHBy1eB7gi1gQlwwfw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum surface area by gluing cubes 1, 8 and 27*
+
+> Three cubes I have glued three cubes of volume 1 cm3, 8 cm3 and 27 cm3 along their faces so that the total surface of the resulting solid is as small as possible. How many square inches does that area measure?
+
+**Answer:** 72
+[[src_kangourou_2017_squadre_junior_f__Q12]]

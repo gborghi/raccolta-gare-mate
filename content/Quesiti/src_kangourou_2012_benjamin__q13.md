@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q13
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale lettera al dado non visibile nel cubo*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which letter in the dice is not visible in the cube*
+
+![[src_kangourou_2012_benjamin__prob13.png]]
+
+> Lucia has eight dice. Each dice is assigned one and only one of the letters A, B, C, D, which is shown on each face of the dice. By approaching these eight dice, he constructed the cube you see in the figure: for every dice that makes it up, except for one, at least one face is visible, so the letter that was assigned to it. Keep in mind that if two dice have a face in common, the letters assigned to them are always different from each other. What letter was assigned to the dice that is not visible? (A) A (B) B (C) C (D) D (E) Can not be answered
+
+**Answer:** B
+[[src_kangourou_2012_benjamin__Q13]]

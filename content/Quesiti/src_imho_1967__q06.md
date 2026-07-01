@@ -1,6 +1,7 @@
 ---
 title: IMO 1967 (IX International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1967__Q06
 parent: src_imho_1967
 competition: IMO 1967 (IX International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Medal distribution over n days with 1/7 rule*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1U5rz4wEepU-SfkFdqcEOsSXqBT-xtIsB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Medal distribution over n days with 1/7 rule
+
+> In a sports competition, there were $m$ medals awarded on $n$ subsequent days ($n > 1$). On the first day, one medal and $1/7$ of the remaining $m - 1$ medals were awarded. On the second day, two medals and $1/7$ of the now remaining medals were awarded; and so on. On the $n$-th and last day, the remaining $n$ medals were awarded. How many days did the contest last, and how many medals were awarded altogether?
+
+[[src_imho_1967__Q06]]

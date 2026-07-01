@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f2__Q07
 parent: src_obm_2007_n1_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a folded square with M the midpoint of CD, prove area relations and find area of triangle ADF.*
 
@@ -51,3 +54,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c1KSYB2Si60KoloY7duhcwVwRnP2K6BN/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un quadrato piegato con M il punto medio del CD, provare le relazioni di area e trovare l'area del triangolo ADF.*
+
+> Let $ABCD$ essere un quadrato di area $300\text{ cm}^2$, let $M$ essere il punto medio del lato $CD$, e let $F$ essere il punto corrispondente della configurazione. Abbiamo $m(F\hat{M}C)=m(A\hat{M}D)$ (angoli verticali), $m(A\hat{D}M)=m(F\hat{C}M)$ (dal momento che $ABCD$ è un quadrato, questi sono angoli rettangolari), e $MC=MD$ (dal momento che $M$ è il punto medio di $CD$); quindi i triangoli $AMD$ e $FMC$ sono congruenti. a) Indicare che $\text{area }\triangle ABF=\text{area }\triangle FMC+\text{area }\triangle ABCM$ e, dal momento che $\text{area }\triangle FMC=\text{area }\triangle AMD$, concludere che $\text{area }\triangle ABF=\text{area }\triangle AMD+\text{area }\triangle ABCM=\text{area } ABCD=300\text{ cm}^2$. b) Poiché $AD=FC$, $CD$ è un lato comune e $\hat{C}$ e $\hat{D}$ sono angoli rettangolari, si conclude che i triangoli $FCD$ e $ADC$ sono congruenti, quindi $\text{area }\triangle FCD=\dfrac{\text{area } ABCD}{2}$, e si dimostra che l'area del triangolo $ADF$ è uguale a $\dfrac{300}{2}=150\text{ cm}^2$.
+
+![[src_obm_2007_n1_f2__Q07.png]]
+
+[[src_obm_2007_n1_f2__Q07]]

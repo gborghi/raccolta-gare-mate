@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2001 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2001__Q03
 parent: src_inmo_2001
 competition: Indian National Mathematical Olympiad 2001
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *If abc=1 with a,b,c positive reals, prove a^(b+c)·b^(c+a)·c^(a+b)≤1*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Van8ZbsC23pGnfRdmefmg28k68xgx-NG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Se abc=1 con a,b,c valori reali positivi, dimostrare a^(b+c)·b^(c+a)·c^(a+b)≤1*
+
+> Se $a, b, c$ sono numeri reali positivi come $abc = 1$, dimostrare che $$a^{b+c} \cdot b^{c+a} \cdot c^{a+b} \le 1.$$
+
+[[src_inmo_2001__Q03]]

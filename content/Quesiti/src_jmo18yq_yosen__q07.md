@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2008 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo18yq_yosen__Q07
 parent: src_jmo18yq_yosen
 competition: Japan Mathematical Olympiad 2008 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of possible leading three-digit blocks of six-digit squares*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di possibili blocchi a tre cifre di quadrato a sei cifre di testa*
+
+> Quanti valori sono possibili complessivamente per le prime tre cifre (il primo blocco a tre cifre) di un quadrato perfetto a sei cifre?
+
+[[src_jmo18yq_yosen__Q07]]

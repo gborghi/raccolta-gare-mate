@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2 —
   Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_nu_f2__Q02
 parent: src_obm_2006_nu_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível Universitário — Fase 2
@@ -39,6 +40,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 2x2 integer matrices with determinant kn+1 mod n*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18lHsUkA6TjiVCKvRGHHFZ98nGkOcKHvM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare matrici interi 2x2 con determinante kn+1 mod n*
+
+> Prova che, per ogni intero $n \ge 2$, il numero di matrici $2 \times 2$ con voci di numeri interi appartenenti al insieme $\{0, 1, 2, \ldots, n-1\}$ il cui determinante ha la forma $kn + 1$ per un certo intero $k$ è uguale a $$n^3 \cdot \prod_{\substack{p \text{ prime} \\ p \mid n}} \left(1 - \frac{1}{p^2}\right).$$
+
+[[src_obm_2006_nu_f2__Q02]]

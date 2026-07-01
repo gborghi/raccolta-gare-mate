@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q15
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultimo numero del triangolo di somme di potenze di 2009*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0000
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last number of the triangle of power sums of 2009*
+
+> To decorate the book that tells of his adventures, Bobo decided to write on the first line of the last page the numbers 20090,20091,20092,...,20092009. Moving to the bottom line, below each pair of numbers in the top line he writes their sum, then moves to the next line proceeding the same way and continues that way until he gets a single number. What's the last number? (If the quantity requested is an integer greater than 9999, please provide the last 4 digits as a result.)
+
+**Answer:** 0000
+[[src_gas_2009_finale__Q15]]

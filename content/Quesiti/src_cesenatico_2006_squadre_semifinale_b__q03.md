@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_b__Q03
 parent: src_cesenatico_2006_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2006 - Semifinale B
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma anni N in [1492,2006] con x^4-y^4=N risolvibile*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3471
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Sum of years N in [1492,2006] with x^4-y^4=N solvable*
+
+> Succession For a strange mathematical coincidence, in the modern age the director of the Higher Mathematical School was appointed only in the years with the following peculiar property: it was all the years N between 1492 and 2006 for which the equation x4 −y4 = N has solution in positive integers. What's the sum of these years?
+
+**Answer:** 3471
+[[src_cesenatico_2006_squadre_semifinale_b__Q03]]

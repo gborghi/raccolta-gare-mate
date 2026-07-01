@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2001 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2001_r2__Q04
 parent: src_pol_2001_r2
 competition: Olimpiade Matematica Polacca 2001 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all n>=3 such that any arithmetic progression of n terms with rational weighted sum contains a rational term.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dO7OqqHjPcVUusxRxcY7zUJe_pdXhL9d/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le n>=3 in modo tale che qualsiasi progressione aritmetica di n termini con somma ponderata razionale contenga un termine razionale.*
+
+> Trova tutti gli enti $n\ge 3$ per i quali è vera la seguente affermazione: Qualsiasi progressione aritmetica $a_1,\ldots,a_n$ con termini $n$ per i quali $a_1+2a_2+\cdots+na_n$ è razionale contiene almeno un termine razionale.
+
+[[src_pol_2001_r2__Q04]]

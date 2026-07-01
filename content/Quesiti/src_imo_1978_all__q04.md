@@ -1,6 +1,7 @@
 ---
 title: IMO 1978 (Twentieth International Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1978_all__Q04
 parent: src_imo_1978_all
 competition: IMO 1978 (Twentieth International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Midpoint of tangency chord PQ is incircle center*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Midpoint of tangency chord PQ is incircle center*
+
+> In the $ABC$ triangle, $AB = AC$. A circle is tangent internally to the circumcircle of triangle $ABC$ and also to sides $AB$, $AC$ at $P$, $Q$, respectively. Prove that the midpoint of segment $PQ$ is the center of the incircle of triangle $ABC$.
+
+[[src_imo_1978_all__Q04]]

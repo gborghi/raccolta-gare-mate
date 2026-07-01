@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Ecolier — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__Q12
 parent: src_kangourou_2020_ecolier_finale
 competition: Kangourou 2020 Finale nazionale Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri 4 cifre con cifra migliaia 1 e tre cifre uguali*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0037
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers of four digits with the digits thousand one and three digits equal*
+
+> Martino builds a stake using poles, each one about a meter long. In the figure you see a length of $4$ meters. How many poles will Martino use to build a meter-long fence?
+>
+> - **(A)** $22$
+> - **(B)** $30$
+> - **(C)** $33$
+> - **(D)** $40$
+> - **(E)** The following table shows the results of the evaluation:
+
+**Answer:** 0037
+[[src_kangourou_2020_ecolier_finale__Q12]]

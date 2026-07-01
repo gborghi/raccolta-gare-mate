@@ -1,6 +1,7 @@
 ---
 title: IMO 2002 (XLIII International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2002__Q02
 parent: src_imho_2002
 competition: IMO 2002 (XLIII International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Geometry: incenter lies on chord of circumcircle*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ObZM7DSfR5iF7JGM97BCPn0sruvx6Y7m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Geometry: incenter lies on chord of circumcircle*
+
+> $BC$ is a diameter of a circle center $O$. $A$ is any point on the circle with $\angle AOC > 60^\circ$. $EF$ is the chord which is the perpendicular bisector of $AO$. $D$ is the midpoint of the minor arc $AB$. The line through $OD$ meets $AC$ at $J$. Show that $J$ is the incenter of triangle $CEF$.
+
+[[src_imho_2002__Q02]]

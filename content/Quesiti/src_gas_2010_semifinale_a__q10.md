@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale A — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_a__Q10
 parent: src_gas_2010_semifinale_a
 competition: Gara a Squadre 2010 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prezzo ottimale spade per massimizzare i guadagni*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 5400
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Optimal price of swords to maximize earnings*
+
+> Will's swords The swords made by young Will Turing are famous for their quality and can be sold for a high price. Will wants to finance his next adventure by selling his swords to Tortuga, but he has to decide how many to make and at what price to sell them. If you ask for a price of 50 doubles or less you're sure that all 10,000 MSK/>-rates in Tortuga will want one. But if he sets a higher price, for every more double he will sell 20 swords less. Knowing that making every sword costs him 10 doubles, assuming he sets a price that maximizes his earnings, how many pirates will buy their sword from Will?
+> 
+> Team competition 2010  Semifinal A  Problem tests 3/3
+
+**Answer:** 5400
+[[src_gas_2010_semifinale_a__Q10]]

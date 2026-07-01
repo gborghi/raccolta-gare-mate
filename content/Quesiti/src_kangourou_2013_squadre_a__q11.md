@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Semifinale A — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_a__Q11
 parent: src_kangourou_2013_squadre_a
 competition: Kangourou Coppa Squadre 2013 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prime quattro cifre del numero piu grande cancellando 20 cifre*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9561
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First four digits of the largest number by deleting 20 digits*
+
+> The largest number Cecilia wrote, one after the other in a row, the first 20 whole numbers getting the sequence
+>  
+> 123456789101112...1920
+>  
+> Now he wants to erase exactly 20 of the numbers written and get a new number by adding the remaining ones (without changing the order). What are the first four digits of the greatest number you can get?
+
+**Answer:** 9561
+[[src_kangourou_2013_squadre_a__Q11]]

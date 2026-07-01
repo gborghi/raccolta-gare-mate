@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q13
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero segmenti unitari che dividono triangolo in area 1/4*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0002
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of unit segments dividing a triangle by area 1/4*
+
+> Market Square The market square of Franquie is in the shape of a triangle with sides measuring 2, 5 and 6 Franquie miles. The merchant guild wants to divide the square by a segment whose ends are on two sides of the triangle, so that the segment is 1 mile long and the smallest portion has an area equal to a quarter of the total area. How many of these segments can be traced?
+
+**Answer:** 0002
+[[src_cesenatico_2004_squadre__Q13]]

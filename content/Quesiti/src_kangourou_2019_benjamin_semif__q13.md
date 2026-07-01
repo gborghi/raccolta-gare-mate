@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Benjamin — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q13
 parent: src_kangourou_2019_benjamin_semif
 competition: Kangourou 2019 Semifinale Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti minuti per riempire il serbatoio con 10 rubinetti*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 48
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many minutes to fill the tank with 10 taps< MSK1/>
+
+> (Points 6) A tank can be filled with 10 taps. One of them can fill it in 1 day; two of the remaining can fill it each in 12 hours, three of the remaining can fill it each in 8 hours and the remaining 4 can fill it each in 6 hours. If all the taps are opened simultaneously, how many minutes (and enough) are needed to fill the tank?
+
+**Answer:** 48
+[[src_kangourou_2019_benjamin_semif__Q13]]

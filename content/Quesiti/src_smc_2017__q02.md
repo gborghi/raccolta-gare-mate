@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2017 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2017__Q02
 parent: src_smc_2017
 competition: Senior Mathematical Challenge 2017
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Earthworm Dave: 40 cm long, 26 g mass. Find mass per unit length in g/cm.*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Vermi terrestri Dave: lunghezza 40 cm, massa 26 g. Trova la massa per unità di lunghezza in g/cm.*
+
+> L'anno scorso, un verme di nome Dave è stato inserito nei libri dei record come il più grande trovato nel Regno Unito. Dave aveva 40 cm di lunghezza e un peso di 26 g.
+> 
+> Qual era la massa di Dave per unità di lunghezza?
+>
+> - **(A)** $0.6$ g/cm
+> - **(B)** $0.65$ g/cm
+> - **(C)** $0.75$ g/cm
+> - **(D)** $1.6$ g/cm
+> - **(E)** $1.75$ g/cm
+
+**Risposta:** B
+[[src_smc_2017__Q02]]

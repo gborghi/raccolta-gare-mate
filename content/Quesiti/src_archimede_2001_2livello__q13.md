@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2001 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_2livello__Q13
 parent: src_archimede_2001_2livello
 competition: Archimede Gara 2º livello 2001
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo BEF con due equilateri esterni al quadrato*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 64
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the BEF triangle with two outer equilaters to the square*
+
+> Consider an ABCD square of 16 meters side. On two consecutive sides AB and BC, the two equilateral triangles ABE and BCF are constructed externally relative to the square. What is the area of the BEF triangle expressed in square metres?
+
+**Answer:** 64
+[[src_archimede_2001_2livello__Q13]]

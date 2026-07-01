@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q12
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale quadro è più vicino al pavimento*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which frame is closest to the floor*
+
+![[src_kangourou_2014_junior__prob12.png]]
+
+> Paul hung five large rectangular paintings on the walls. For each of them he planted a nail 2.5 m from the floor and used a rope 2 m long, hanging the painting as shown in the figure. Which of the following paintings is closest to the floor? (The measurements indicate, in order, the width and height of the frame in centimetres.) A) 60< MSK0/>40
+> 	
+> B) 120×50
+> 	
+> C) 120×90
+>         
+> D) 160×60
+> 	
+> E) 160×100
+
+**Answer:** C
+[[src_kangourou_2014_junior__Q12]]

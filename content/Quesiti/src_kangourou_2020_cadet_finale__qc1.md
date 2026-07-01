@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Cadet — Quesito C1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_finale__QC1
 parent: src_kangourou_2020_cadet_finale
 competition: Kangourou 2020 Finale nazionale Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della regione delimitata da quattro archi uguali*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1USVAWxQY6y2E_COFv5RMawnN3IdAjH49/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the region bounded by four equal arcs*
+
+![[src_kangourou_2020_cadet_finale__probC1.png]]
+
+> The four arches that delimit the shaded region are all the same length, equal to the length of the two stretched arches. This length is a quarter of the length of a radius of 1 cm. How many square inches is the area of the shaded region? (see figure)
+
+**Answer:** 2
+[[src_kangourou_2020_cadet_finale__QC1]]

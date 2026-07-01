@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q15
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio interi esprimibili come [2x]+[4x]+[8x]+[12x]*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6154
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interies expressed as [2x]+[4x]+[8x]+[12x]*
+
+> Like all melancholy captains, Davy Jensen also plays the organ, and has a very special one installed on the Dutch Secante, which has 9999 keys numbered from 1 to 9999. Of these keys all are white and only those whose number can be written as [2x]+[4x]+[8x]+[12x] for some real x. The others are black. How many white keys are there? (Remember that the symbol [·] denotes the whole, so if y is a real number, [y] denotes the largest integer less or equal to y.)
+
+**Answer:** 6154
+[[src_gas_2010_finale__Q15]]

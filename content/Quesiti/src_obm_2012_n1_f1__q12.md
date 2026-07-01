@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f1__Q12
 parent: src_obm_2012_n1_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max pieces of rectangular cake with 7 straight cuts parallel to sides*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximi pezzi di torta rettangolare con 7 tagli dritti paralleli ai lati*
+
+> Suzana ha una torta a forma di rettangolo e vuole tagliarla in pezzi più piccoli facendo 7 tagli dritti, ognuno parallelo a uno dei lati del rettangolo. Separa i pezzi solo dopo che tutti i tagli sono stati fatti. Qual è il numero massimo di pezzi che può ottenere?
+> 
+> (A) 9 \quad (B) 11 \quad (C) 13 \quad (D) 17 \quad (E) 19
+
+**Risposta:** D
+[[src_obm_2012_n1_f1__Q12]]

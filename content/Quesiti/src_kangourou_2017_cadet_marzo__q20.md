@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q20
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di tutti i numeri nella griglia 3x3 (somme uguali)*
 
@@ -66,3 +69,34 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of all numbers in the grid 3x3 (equal sums) *
+
+![[src_kangourou_2017_cadet_marzo__prob20.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw[thick] (0,0) grid (3,3);
+  \node at (0.5,2.5) {2};
+  \node at (2.5,1.5) {3};
+\end{tikzpicture}
+\end{document}
+```
+
+> Emilia wants to write a number in each cell of a grid 3 < MSK0/> 3 so that the sums of the numbers written in two cells that have one side in common are all the same. As the figure shows, he's already written two numbers. What is the sum of all the numbers in the grid? A) 18
+> 	
+> B) 20
+> 	
+> C) 21
+> 	
+> D) 22
+> 	
+> E) 23 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** E
+[[src_kangourou_2017_cadet_marzo__Q20]]

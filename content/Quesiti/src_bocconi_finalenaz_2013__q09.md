@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2013 — Quesito
   9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2013__Q09
 parent: src_bocconi_finalenaz_2013
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2013
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dimensioni di prati quadrati con area totale 222 dam²*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1-5-14, 1-10-11, 2-7-13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Measures of square meadows with total area of 222 dams
+
+> Angelo has three square meadows, the sides of which are measured in decameters. The sum of the areas of the three meadows is 222 < MSK0/>.
+> 
+> How much do the sides of the meadows measure? (On the answer sheet, write the smallest possible answer, if not unique.)
+
+**Answer:** 1-5-14, 1-10-11, 2-7-13
+[[src_bocconi_finalenaz_2013__Q09]]

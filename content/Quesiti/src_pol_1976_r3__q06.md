@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1976 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1976_r3__Q06
 parent: src_pol_1976_r3
 competition: Olimpiade Matematica Polacca 1976 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *An increasing function from N to R that is additive on products of naturals must be a logarithm.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PxGC28sBLT0pD-IOjDgoTvfc9tTCy6v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Una funzione in aumento da N a R che è additiva sui prodotti naturali deve essere un logaritmo.*
+
+> Una funzione in aumento $f:\mathbb{N}\to\mathbb{R}$ soddisfa $$f(kl)=f(k)+f(l)\quad\text{for all }k,l\in\mathbb{N}.$$ Mostra che esiste un numero reale $p>1$ tale che $f(n)=\log_p n$ per tutti $n$.
+
+[[src_pol_1976_r3__Q06]]

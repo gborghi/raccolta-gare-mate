@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo11yq_yosen__Q02
 parent: src_jjmo11yq_yosen
 competition: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find ten distinct integers from 1-20 with given product*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5, 7, 10, 11, 12, 13, 14, 15, 18, 20
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KqvofIIXgEWPDHUAZMRGkscvso3ZVrK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca dieci numeri interi distinti da 1 a 20 con un prodotto dato*
+
+> Tra i numeri interi tra $1$ e $20$ inclusi, sono stati scelti numeri $10$ reciprocamente distinti e il prodotto di tali numeri $10$ è risultato essere $45405360000$. Indicare i numeri scelti $10$. L'ordine dei numeri $10$ non importa.
+
+**Risposta:** 5, 7, 10, 11, 12, 13, 14, 15, 18, 20
+[[src_jjmo11yq_yosen__Q02]]

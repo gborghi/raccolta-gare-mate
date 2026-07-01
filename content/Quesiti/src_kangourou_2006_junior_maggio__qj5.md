@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior finale (maggio) — Quesito J5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_maggio__QJ5
 parent: src_kangourou_2006_junior_maggio
 competition: Kangourou 2006 Junior finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri con cifre consecutive e numero dispari di divisori*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** due
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oKF7UHyuDs_rLmhESoSgAg7wkcXYDjTf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers with consecutive digits and odd number of divisors*
+
+> Consider 3-digit numbers whose digits can be rearranged to form sets of consecutive digits (e.g. The numbers in 786 can be rearranged to number 678, consisting of consecutive digits). How many of these numbers have a odd number of divisors (different between them)?
+
+**Answer:** due
+[[src_kangourou_2006_junior_maggio__QJ5]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Cadet — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q02
 parent: src_kangourou_2019_cadet_marzo
 competition: Kangourou 2019 Gara di Marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante mele in totale (6 cassette vs 5 con +2)*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many apples in total (6 boxes vs 5 with +2) < MSK1/>
+
+> 2. Andrea divided the apples to be sold at the market into six boxes, putting the same number of apples in each box. Bruno notes that five boxes could have been filled with the same apples, each containing two more apples. How many apples do you have to bring to the market? A) 30 B) 45 C) 60 D) 78 E) 120
+
+**Answer:** C
+[[src_kangourou_2019_cadet_marzo__Q02]]

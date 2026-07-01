@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q19
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Velocita media su intero percorso con due velocita*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Average full route speed with two speeds*
+
+> A train travels 2/3 of the way at an average speed of 140 km/h and the remainder of the way at an average speed of 50 km/h. What is its average speed in km/h along the entire route? A) 125
+> 	
+> B) 87,5 C) 90
+> 	
+> D) 190/3 E) 260/3
+
+**Answer:** B
+[[src_kangourou_2018_junior_marzo__Q19]]

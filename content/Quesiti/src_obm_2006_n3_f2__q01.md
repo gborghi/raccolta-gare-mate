@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f2__Q01
 parent: src_obm_2006_n3_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ordered pairs (83;89) called 'century pairs'*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1opr1KnCz4sXqFTqwDJVnexLXTOtfy7Cz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Contare le coppie ordinate (83;89) chiamate "centenarie" < MSK1/>
+
+> Una coppia ordinata $(83; 89)$ è chiamata coppia del secolo ** perché $83 + 8 + 9 = 83 - 8 + 9 + 8 + 3 = 100$; cioè la somma di ogni numero con i numeri dell'altro numero è uguale a 100. Quante coppie di numeri interi positivi ci sono?
+
+[[src_obm_2006_n3_f2__Q01]]

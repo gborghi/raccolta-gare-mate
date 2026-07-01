@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1997 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1997__Q04
 parent: src_rmo_1997
 competition: Regional Mathematical Olympiad 1997
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove two inequalities in parallelogram ABCD with perpendicular diagonals*
 
@@ -45,3 +48,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fsneixMr3FqHhay8mNcRHVWgNyyUmpPY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove due disuguaglianze nel parallelo ABCD con diagonali perpendicolari*
+
+> In un quadrilaterale $ABCD$, è dato che $AB$ è parallelo a $CD$ e che le diagonali $AC$ e $BD$ sono perpendicolari l'una all'altra. Mostralo.
+> 
+> (a) $AD \cdot BC \ge AB \cdot CD$;
+> 
+> (b) $AD + BC \ge AB + CD$.
+
+[[src_rmo_1997__Q04]]

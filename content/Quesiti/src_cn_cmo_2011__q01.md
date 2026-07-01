@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2011 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2011__Q01
 parent: src_cn_cmo_2011
 competition: China Mathematical Olympiad 2011
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove cyclic-sum inequality for real numbers*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza di somma ciclica per i numeri reali*
+
+> $a_1, a_2, \ldots, a_n$ ($n \ge 3$) siano numeri reali. Prove che $$\sum_{i=1}^{n} a_i^2 - \sum_{i=1}^{n} a_i a_{i+1} \le \left[\frac{n}{2}\right](M - m)^2,$$ dove $a_{n+1} = a_1$, $M = \max_{1 \le i \le n} a_i$, $m = \min_{1 \le i \le n} a_i$, $[x]$ è il numero intero più grande non superiore a $x$.
+
+[[src_cn_cmo_2011__Q01]]

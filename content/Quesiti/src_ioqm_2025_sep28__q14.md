@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q14
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -31,6 +32,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square ABCD side 1 as chord of circle; tangent from C has length 2; find d²*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sito ABCD quadrato 1 come corda di cerchio; tangente da C ha lunghezza 2; trovare d2*
+
+> Il lato $AB$ di un quadrato $ABCD$ è 1 ed è anche un cordone di un cerchio $S$. Il lato $CD$ non interseca $S$. La lunghezza della tangente $CK$, tratta da $C$ a $S$ al punto $K$ è di 2. Se $d$ è il diametro di $S$, calcolare $d^2$.
+
+[[src_ioqm_2025_sep28__Q14]]

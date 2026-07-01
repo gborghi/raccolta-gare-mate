@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1992 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1992__Q07
 parent: src_inmo_1992
 competition: Indian National Mathematical Olympiad 1992
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n x n chessboard: count ways to place n^2 numbers in arithmetic progression in each row and column*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EOEsZB8HaiI0YQM_jwUKgpq-22uACryj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*n x n scacchi: contare i modi per posizionare i numeri n^2 in progressione aritmetica in ogni riga e colonna*
+
+> Per ogni numero intero $n \ge 3$, trovare il numero di modi in cui si possono posizionare i numeri $1, 2, \ldots, n^2$ nei quadrati di una scacchiera $n \times n$ (uno in ogni quadrato) in modo che i numeri in ogni riga e in ogni colonna formino una progressione aritmetica.
+
+[[src_inmo_1992__Q07]]

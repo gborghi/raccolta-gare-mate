@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Écolier (gara marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q24
 parent: src_kangourou_2017_ecolier_marzo
 competition: Kangourou 2017 Écolier (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante terze sagome possibili per il rettangolo 12 quadratini*
 
@@ -58,3 +61,19 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many possible third shapes for the rectangle 12 squares*
+
+![[src_kangourou_2017_ecolier_marzo__prob24.png]]
+
+> Sarah has so many cardboard shapes: each shape is made up of four equal squares. By closely matching three of these shapes (but without overlaps) he constructed a rectangle formed by 12 equal squares. Two of the shapes are the same and have the shape you see on the side. How many of the following shapes can be the third shape? A) none B) one C) two D) three
+> 	
+> E) all 3 3 2 2 1
+>
+
+**Answer:** D
+[[src_kangourou_2017_ecolier_marzo__Q24]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q25
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero da scrivere nel vertice A del 18-agono ricorsivo*
 
@@ -63,3 +66,31 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number to be written in the A-spoke of the 18-acre recursive area*
+
+![[src_kangourou_2018_junior_marzo__prob25.png]]
+
+> In the figure you see a regular polygon of 18 sides. In each vertex a number is to be written which is the sum of the numbers written in the two adjacent vertices. Two numbers have already been entered. What number should you write in vertex A? A) 2018 B) 20
+> 	
+> C) 18
+> 	
+> D) 38
+> 	
+> E) - 38 A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 5
+>
+
+**Answer:** D
+[[src_kangourou_2018_junior_marzo__Q25]]

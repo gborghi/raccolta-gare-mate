@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2009 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2009__Q02
 parent: src_cn_cmc_2009
 competition: China Mathematical Competition 2009
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Range of x-coordinate of point on line forming 45-degree angle with circle*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $3 \le a \le 6$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Intervallo delle coordinate x del punto su linea che forma un angolo di 45 gradi con un cerchio*
+
+> Data la linea $L: x + y - 9 = 0$ e il cerchio $M: 2x^2 + 2y^2 - 8x - 8y - 1 = 0$, il punto $A$ si trova su $L$ e i punti $B$, $C$ si trovano sul cerchio $M$. Se $\angle BAC = 45^\circ$ e le linee $AB$, $AC$ sono tangenti al cerchio $M$ dal punto $A$, l'intervallo delle coordinate $x$ del punto $A$ è \_\_\_\__.
+
+**Risposta:** 3 \le a \le 6
+[[src_cn_cmc_2009__Q02]]

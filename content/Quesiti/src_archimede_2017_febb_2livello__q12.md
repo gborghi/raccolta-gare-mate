@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2017 - 2 livello — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_febb_2livello__Q12
 parent: src_archimede_2017_febb_2livello
 competition: Archimede Gara di Febbraio 2017 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra iniziale di 5^n sapendo che 2^n inizia con 7*
 
@@ -45,3 +48,21 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cifra iniziale di 5^n sapendo che 2^n inizia con 7*
+
+> Sia n un intero positivo tale che la rappresentazione decimale di 2n inizia con la cifra 7 (ovvero
+> la cifra non nulla più a sinistra è 7). Con che cifra inizia la rappresentazione decimale di 5n?
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 5
+> - **(D)** 7
+> - **(E)** Dipende da n Problemi a risposta numerica – 5 punti
+
+**Answer:** A
+[[src_archimede_2017_febb_2livello__Q12]]

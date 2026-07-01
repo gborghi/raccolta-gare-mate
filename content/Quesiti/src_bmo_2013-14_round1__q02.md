@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2013-14 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2013-14_round1__Q02
 parent: src_bmo_2013-14_round1
 competition: British Mathematical Olympiad 2013-14 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle CDE in triangle with two altitudes*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 40
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgsYrm3l_qNtt2ZM0eyq3HtunDHw6TCQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova l'angolo CDE in triangolo con due altitudini*
+
+> Nel triangolo $ABC$, $D$ è il piede della perpendicolare da $A$ a $BC$, e $E$ è il piede della perpendicolare da $B$ a $AC$. L'angolo $\angle ABC = 40^\circ$. Qual è l'angolo $\angle CDE$?
+
+**Risposta:** 40
+[[src_bmo_2013-14_round1__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_pubblico__Q13
 parent: src_cesenatico_2013_pubblico
 competition: Gara a Squadre Cesenatico 2013 - Gara del pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo PQR (altezza, bisettrice, mediana)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0015
 **Fonte:** [apri PDF p.27](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*PQR triangle area (height, width, median) *
+
+> After challenging each other on the battlefield, the Jaguar and the Ronzino relax together with Rootze for a cup of tea. Aitka, the chaplain, offers them 94 biscuits, numbered from 1 to 94. The White King orders Root to eat a number of whole a, Jaguaro b, and Ronzino c. Clearly a,b,c ≥0 and a+b+c = 94. Curiousnote Aitkathe number of different ways in which you can divide cookies by obeying the King's orders is multiplied by 3. How many ordered terns (a,b,c) have this property?
+
+**Answer:** 0015
+[[src_cesenatico_2013_pubblico__Q13]]

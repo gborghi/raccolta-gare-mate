@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q30
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori possibili di MB con tangente e differenza 6*
 
@@ -75,3 +78,41 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible values of MB with tangent and difference 6*
+
+![[src_kangourou_2017_junior_marzo__prob30.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (M) at (0,0);
+  \coordinate (A) at (-2,0);
+  \coordinate (B) at (-1,1.7321);
+  \draw (M) circle (2);
+  \draw (-2.8,0) -- (3.5,0);
+  \draw ({-1 - 1.5*1.7321},{1.7321 - 1.5*1}) -- ({-1 + 2.5*1.7321},{1.7321 + 2.5*1});
+  \fill (M) circle (1.5pt) node[below] {$M$};
+  \fill (A) circle (1.5pt) node[left] {$A$};
+  \fill (B) circle (1.5pt) node[above right] {$B$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Look at the figure. A and B are two points of the center circumference M, the line for P and B is tangent to the circumference in B. The PA and MB segments have full length and the difference between the PB and PA length is 6. What are the possible values for the length of the MB segment ? A) 0
+> 	
+> B) 2
+> 	
+> C) 4
+> 	
+> D) 6
+> 	
+> E) 8
+>
+
+**Answer:** D
+[[src_kangourou_2017_junior_marzo__Q30]]

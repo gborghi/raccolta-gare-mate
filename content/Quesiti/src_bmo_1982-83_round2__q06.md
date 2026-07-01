@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1982-83 — Round 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1982-83_round2__Q06
 parent: src_bmo_1982-83_round2
 competition: British Mathematical Olympiad 1982-83 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer pairs (n,k) with (n+1)^k = n! + 1*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDzW0kwKkWyYoARh-HNPu4-qokjVbmtj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di integri positivi (n,k) con (n+1)^k = n! + 1*
+
+> $n$ e $k$ sono integri positivi. Trova tutte le coppie $(n, k)$ soddisfacenti $$(n+1)^k = n! + 1,$$ che dimostrano di avere l'insieme completo delle soluzioni.
+
+[[src_bmo_1982-83_round2__Q06]]

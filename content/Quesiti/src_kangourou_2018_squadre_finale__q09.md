@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2018 Finale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_finale__Q09
 parent: src_kangourou_2018_squadre_finale
 competition: Kangourou Coppa squadre 2018 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale area trapezio occupata dal triangolo AHD*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0021
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage of the trapezoidal area occupied by the AHD triangle*
+
+> The trapezoid An ABCD isosceles trapezoid has bases AB and CD of 7 cm and 3 cm respectively. Its AC and BD diagonals intersect at an H-point. What percentage of the trapezoid area is occupied by the AHD triangle? Please note: % should be used in the answer.
+
+**Answer:** 0021
+[[src_kangourou_2018_squadre_finale__Q09]]

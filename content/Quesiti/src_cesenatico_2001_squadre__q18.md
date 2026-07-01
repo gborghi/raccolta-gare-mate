@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2001_squadre__Q18
 parent: src_cesenatico_2001_squadre
 competition: Gara Nazionale a Squadre Cesenatico 2001
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dimensione del campo di Innaig dato il lavoro condiviso*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1250
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Innaig field size given the shared work*
+
+> This is the total amount of the loan amount.
+> 
+> Oloap and Aerdna, having inherited their field from $10000\ \text{imotavole}^2$, decide to plough it by dividing the work in half. They're going to take eight hours each to work both. Wanting to take less time, they ask for help from Innaig, also the owner of a plough, who works at their own pace and is willing to help them if the help is exactly returned by both. In doing so, each of them works six hours to plough all the fields. How large is the field of Innaig?
+
+**Answer:** 1250
+[[src_cesenatico_2001_squadre__Q18]]

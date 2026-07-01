@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q08
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify which number is a root of a quadratic with odd integer coefficients*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare quale numero sia la radice di un quadratico con coefficienti interi dispari*
+
+> Un numero è chiamato \emph{impar-quadratic} (irrazionale-odd) se è la radice di un'equazione quadratica con coefficienti interi odd. Ad esempio, $\dfrac{1+\sqrt{2}}{2}$ è impar-quadratico, poiché è una radice di $x^2 - x - 1 = 0$. Quale dei seguenti numeri è impar-quadrato?
+> 
+> (A) $\dfrac{1+\sqrt{3}}{2}$ \quad (B) $\dfrac{1+\sqrt{5}}{2}$ \quad (C) $\dfrac{1+\sqrt{6}}{2}$ \quad (D) $\dfrac{1+\sqrt{8}}{2}$ \quad (E) $\dfrac{1+\sqrt{13}}{2}$
+
+**Risposta:** B
+[[src_obm_2015_n3_f1__Q08]]

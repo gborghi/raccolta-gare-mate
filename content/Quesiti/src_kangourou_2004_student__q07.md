@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q07
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area quadrilatero da due triangoli equilateri*
 
@@ -59,3 +62,35 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quadrilateral area by two equilateral triangles*
+
+![[src_kangourou_2004_student__prob7.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (B) at (0,0);
+  \coordinate (C) at (2,0);
+  \coordinate (A) at (1,1.732);
+  \coordinate (D) at (3,0);
+  \coordinate (E) at (2.5,0.866);
+  \draw (A) -- (B) -- (C) -- (A);
+  \draw (E) -- (C) -- (D) -- (E);
+  \node[above] at (A) {A};
+  \node[below left] at (B) {B};
+  \node[below] at (C) {C};
+  \node[right] at (E) {E};
+  \node[below right] at (D) {D};
+\end{tikzpicture}
+\end{document}
+```
+
+> The two equilateral triangles ABC and ECD in the figure have sides of length 2 and 1 respectively. The area of the ABCE quadrilateral is: A) B) C) 3 D) E)
+
+**Answer:** E
+[[src_kangourou_2004_student__Q07]]

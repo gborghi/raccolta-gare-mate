@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q12
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione annerita in rettangolo con quadrato*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area region blackened in rectangle with square*
+
+![[src_kangourou_2017_junior_marzo__prob12.png]]
+
+> Within a rectangle of 3.5 × 7 there is a square of side 1, as shown in the figure. What is the area of the blackened region? A) 3
+> 	
+> B) 6
+> 	
+> (C) 9.5 D) 10.5 E) None of the values indicated.
+
+**Answer:** A
+[[src_kangourou_2017_junior_marzo__Q12]]

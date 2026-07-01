@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f1__Q11
 parent: src_obm_2011_n3_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many positive integers smaller than 30 have exactly four divisors*
 
@@ -48,3 +51,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quanti numeri interi positivi minori di 30 hanno esattamente quattro divisori*
+
+> Quanti integri positivi più piccoli di $30$ hanno esattamente quattro divisori positivi?
+> 
+> (A) 6 (B) 7 (C) 8 (D) 9 (E) 10
+
+[[src_obm_2011_n3_f1__Q11]]

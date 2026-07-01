@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2011 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2011__Q04
 parent: src_bocconi_autunno_2011
 competition: Giochi d'Autunno 2011
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte la sveglia mostra uno 0, un 1 e due 2 in 24 ore*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many times does the alarm clock show a 0, a 1 and two 2 in 24 hours< MSK1/>
+
+> It's an alarm clock that lights up and records every hour and minute from 00:00 until 11:59. How many times in 24 hours, when lit up, does it simultaneously indicate a "0", a "1" and two "2"?
+
+![[src_bocconi_autunno_2011__Q04.png]]
+
+**Answer:** 12
+[[src_bocconi_autunno_2011__Q04]]

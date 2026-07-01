@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin finale nazionale — Quesito B3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin_finale__QB3
 parent: src_kangourou_2004_benjamin_finale
 competition: Kangourou 2004 Benjamin finale nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Inclusioni tra insiemi di quadrilateri*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C in D,B; D in A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DTuTa9-8gf07gHbV5tJLp1dknhFcY163/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Inclusions between sets of quadrilaterals< MSK1/>
+
+> Consider all the possible quadrilaterals in the plan. Name $A$ the set of all quadrilaterals having at least one pair of opposite sides of the same length; $B$ the set of all quadrilaterals having at least one pair of adjacent sides of the same length; $C$ the set of all quadrilaterals having the four sides of the same length; $D$ the set of all quadrilaterals having at least one pair of parallel opposite sides of the same length. Some of these sets contain one or more of the others. For each set it specifies any other sets it contains.
+
+**Answer:** C in D,B; D in A
+[[src_kangourou_2004_benjamin_finale__QB3]]

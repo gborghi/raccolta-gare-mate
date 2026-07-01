@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q16
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n such that n! ends in exactly 2016 trailing zeros*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Nello più piccolo di questo n! finisce esattamente nel 2016 con i zeri tracciati*
+
+> Per un intero positivo $n$, il fattorial è $n! = 1 \cdot 2 \cdot 3 \cdots n$. Non esiste un $n$ per il quale $n!$ finisce esattamente in zero traccianti per il 2015. Trova il minimo $n$ in modo tale che $n!$ finisca esattamente negli zero traccianti del 2016.
+> 
+> (A) 8064 \quad (B) 8065 \quad (C) 8070 \quad (D) 8075 \quad (E) 8080
+
+**Risposta:** C
+[[src_obm_2015_n3_f1__Q16]]

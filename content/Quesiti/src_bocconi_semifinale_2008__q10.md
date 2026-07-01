@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2008 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2008__Q10
 parent: src_bocconi_semifinale_2008
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2008
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Decifrare operazione con simboli al posto di cifre*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\heartsuit=2;\; \clubsuit=9;\; \diamondsuit=1;\; \spadesuit=0$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Decipher an operation with symbols instead of digits*
+
+> What figures are behind the symbols of this equality? $\heartsuit\heartsuit\heartsuit - \clubsuit\clubsuit + \diamondsuit\heartsuit + \spadesuit\clubsuit = 1234$
+
+**Answer:** $\heartsuit=2;\; \clubsuit=9;\; \diamondsuit=1;\; \spadesuit=0$
+[[src_bocconi_semifinale_2008__Q10]]

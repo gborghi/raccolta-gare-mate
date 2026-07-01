@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_pubblico__Q10
 parent: src_gas_2009_pubblico
 competition: Gara a Squadre 2009 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero affermazioni coerenti su 12 argomenti*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4094
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of consistent statements on 12 subjects
+
+> A proof of logic [35] Sarumath is besieged in his Isengraf tower! He wants to try to hold the invaders back as long as possible with empty words: he has 12 arguments to talk about and he wants to find out how many sentences he can, at most, utter to distract the enemies by following the following rules: ⋆Each sentence must be an affirmation of the truth or falsity of some of the arguments at his disposal; ⋆he cannot fall into contradiction, otherwise the Gaussdalf master will notice and awaken from the spell; ⋆he cannot make claims concerning all the arguments, otherwise the Gim-Lie dwarf will be the thread of the discourse and the spell will be turned; ⋆he different statement will be from the previous ones, otherwise Morry will start to get bored and lose spell.
+> 
+> Team competition 2009  Public competition  Problem texts  Pag. How many statements can Sarumath make at most?
+
+**Answer:** 4094
+[[src_gas_2009_pubblico__Q10]]

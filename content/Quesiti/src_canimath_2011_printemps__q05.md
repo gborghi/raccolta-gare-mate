@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2011 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2011_printemps__Q05
 parent: src_canimath_2011_printemps
 competition: Coupe Animath Printemps 2011
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Round-table dinner seatings with two new neighbours each*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNnGWRaTp9cbAE1_F3Ffkgp-EMyh4GZR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sedi per cena a tavola rotonda con due nuovi vicini ciascuno*
+
+> Diciassette persone cenano ogni sabato sera intorno a una tavola rotonda. Quanti sabati è possibile cenare insieme se ognuno desidera avere due nuovi vicini ogni volta? Qual è il risultato per diciotto persone?
+
+[[src_canimath_2011_printemps__Q05]]

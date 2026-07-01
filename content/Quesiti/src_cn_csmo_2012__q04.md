@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2012 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2012__Q04
 parent: src_cn_csmo_2012
 competition: China Southeastern Mathematical Olympiad 2012
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximize a+b-c+d for real numbers with cosine inequality constraint*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 3
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximizzare a+b-c+d per i numeri reali con cosine inconveniente di disuguaglianza*
+
+> Lasciate che i numeri reali $a$, $b$, $c$ e $d$ soddisfino $$f(x) = a\cos x + b\cos 2x + c\cos 3x + d\cos 4x \leq 1$$ per qualsiasi numero reale $x$. Trova i valori di $a$, $b$, $c$ e $d$ in modo tale che $a + b - c + d$ abbia il numero massimo. (Posizionato da Li Shenghong)
+
+**Risposta:** 3
+[[src_cn_csmo_2012__Q04]]

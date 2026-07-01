@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q09
 parent: src_kangourou_2019_junior_marzo
 competition: Kangourou 2019 Gara marzo Junior (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione di sciroppo per confezionare due litri di bevanda*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Fragment of syrup for packing two litres of beverage< MSK1/>
+
+> A beverage should be packaged by mixing raspberry syrup with water in a ratio of 1: 7. A half-liter bottle is full of raspberry syrup. What fraction of the contents of that bottle will be used to pack two liters of beverage? A) 1/4 B) 1/2
+> 	
+> C) 2/7 D) 4/7 E) 1
+
+**Answer:** B
+[[src_kangourou_2019_junior_marzo__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q01
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove product inequality for row-column sums of a nonneg matrix*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza dei prodotti per le somme di colonne di riga di una matrice non negativa*
+
+> Lasciate che $m$, $n$ siano numeri interi positivi, e che $a_{i,j}$ ($1 \le i \le m$, $1 \le j \le n$) siano numeri reali non negativi tali che per qualsiasi $i$, $j$, $$a_{i,1} \ge a_{i,2} \ge \cdots \ge a_{i,n}, \quad a_{1,j} \ge a_{2,j} \ge \cdots \ge a_{m,j}$$ sia tenuto. Per $i = 1, 2, \ldots, m$ e $j = 1, 2, \ldots, n$, definire $$X_{i,j} = a_{1,j} + \cdots + a_{i-1,j} + a_{i,j} + a_{i,j-1} + \cdots + a_{i,1},$$ $$Y_{i,j} = a_{m,j} + \cdots + a_{i+1,j} + a_{i,j} + a_{i,j+1} + \cdots + a_{i,n}.$$ Prova: $$\prod_{i=1}^{m} \prod_{j=1}^{n} X_{i,j} \ge \prod_{i=1}^{m} \prod_{j=1}^{n} Y_{i,j}.$$
+
+[[src_cn_ctst_2021__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q14
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale coppia togliere senza cambiare la media*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>What pair to remove without changing the mean< MSK1/>
+
+> Consider the numbers 17, 13, 5, 10, 14, 9, 12, 16. Which of the following number pairs can you remove from this list without changing the mean (arithmetic)? A) 12 and 17 B) 5 and 17 C) 9 and 16 D) 10 and 12 E) 14 and 10 2011 x 2,011 201,1 x 20,11 Text_11Mat.qxp 19-05-2011 21:24 Page 17
+> 
+> I'm going to pay. I'm going to pay. 18 18 Kang 201 Kang 2011
+
+**Answer:** E
+[[src_kangourou_2011_cadet__Q14]]

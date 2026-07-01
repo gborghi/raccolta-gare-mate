@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q03
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma max 3 cifre mult 4 e min 4 cifre mult 3*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum max 3 digits mult 4 and min 4 digits mult 3*
+
+> What is the sum of the largest three-digit integer that is multiple of 4 and the smallest positive four-digit integer that is multiple of 3? A) 1996 B) 1997 C) 1998 D) 1999 E) 2000
+
+**Answer:** C
+[[src_kangourou_2023_cadet__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2012 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2012__Q04
 parent: src_inmo_2012
 competition: Indian National Mathematical Olympiad 2012
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 'good' interior points of triangle yielding 27 equal-area sub-triangles*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Yo2mg-kxvVgZBQrmg9vQdyiD2EizSWJt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i punti interni "buoni" del triangolo che producono 27 subtriangoli di superficie uguale*
+
+> Lasciate che $ABC$ sia un triangolo. Si dice che un punto interno $P$ di $ABC$ sia **buono** se si possono trovare esattamente 27 raggi che emanano da $P$ che intersecano i lati del triangolo $ABC$ in modo tale che il triangolo sia diviso da questi raggi in 27 triangoli più piccoli di superficie uguale. Determinare il numero di punti **good** per un determinato triangolo $ABC$.
+
+[[src_inmo_2012__Q04]]

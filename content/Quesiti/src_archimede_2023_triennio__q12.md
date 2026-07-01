@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2023 - Gara Triennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_triennio__Q12
 parent: src_archimede_2023_triennio
 competition: Giochi di Archimede 2023 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo ACT con tangente parallela a un lato*
 
@@ -63,3 +66,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*ACT angle with tangent parallel to one side*
+
+![[src_archimede_2023_triennio__prob12.png]]
+
+> In the triangle ABC, the angles have these amplitudes: bA = 52°,  B = 57°,  C = 71°. The straight t, parallel to the side BC, is tangent to the circumference circumscribed to the triangle at a point T of the arc AB. What is the width of the angle  ACT ? B C t T A B C T t
+>
+> - **(A)** 6°
+> - **(B)** 8°
+> - **(C)** 7°
+> - **(D)** 10°
+> - **(E)** 9°
+
+**Answer:** C
+[[src_archimede_2023_triennio__Q12]]

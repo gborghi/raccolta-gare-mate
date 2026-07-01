@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q12
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione coperta dai 5 cerchi sovrapposti*
 
@@ -71,3 +74,31 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area region covered by the 5 overlapping circles*
+
+![[src_kangourou_2014_cadet__prob12.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \foreach \i in {0,1,2,3,4} {
+    \draw[thick] (\i*1.5, 0) circle[radius=0.85];
+  }
+\end{tikzpicture}
+\end{document}
+```
+
+> The area of each circle in the figure is 1 cm2; the area common to two overlapping circles is 1 cm2. What is the area in square centimetres of the region covered by the five circles? A)
+> 	
+> B) 4
+> 	
+> C)  35 ------ 8 D)  39 ------ 8 E)  19 ------ 4 9---- 2 1---- 8
+>
+
+**Answer:** A
+[[src_kangourou_2014_cadet__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo12yq_yosen__Q08
 parent: src_jjmo12yq_yosen
 competition: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trapezoid with two right angles and given EF; find DG*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{7-\sqrt{33}}{8}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trapezoide con due angoli retti e dato EF; trova DG*
+
+> C'è un trapezoide $ABCD$ con $BC \parallel AD$, che soddisfa $AB=1$, $BC=1$, $CD=1$, $DA=2$. Il punto medio del lato $BC$ è $M$. Ci sono due punti $E$, $F$ sul lato $AD$ e un punto $G$ sul lato $CD$ che soddisfano $\angle EMG = \angle FGM = 90^\circ$ e $EF = \frac{3}{2}$. Trova la lunghezza del segmento $DG$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Risposta:** $\frac{7-\sqrt{33}}{8}$
+[[src_jjmo12yq_yosen__Q08]]

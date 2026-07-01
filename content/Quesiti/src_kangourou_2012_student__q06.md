@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q06
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero centrale di una lista da somme di sottogruppi*
 
@@ -70,3 +73,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Central number of a list of sums of subgroups*
+
+> What's the probability that two dice will result in two consecutive numbers? A) 13/90 B) 17/100 C) 5/18 D) 1/3 E) 1/2 80 70 60 50 40 30 20 10 0 -10 -20 -30 -40 Water level (cm) Time (hours) Water level (cm) Time (hours)
+> 
+> I'm going to pay. I'm going to pay. 28 28 Kang 2012 Kang 2012
+
+[[src_kangourou_2012_student__Q06]]

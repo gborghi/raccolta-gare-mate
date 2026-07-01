@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2019 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo29mq_honsen__Q05
 parent: src_jmo29mq_honsen
 competition: Japan Mathematical Olympiad 2019 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Beautiful sets and a uniform bound on non-multiples*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d-Z0DI9iKKJVTFxoX0Fz2qworASxs0iM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Belle serie e una linea uniforme su non multipli*
+
+> Per un insieme $S$ composto da integri positivi, $S$ è chiamato un insieme \emph{beautiful} se, per qualsiasi elemento distinto $x,y,z$ di $S$, almeno uno di essi è un divisore di $x+y+z$. Prova che esiste un intero $N$ che soddisfa la seguente condizione e trova il più piccolo di tali $N$:
+> 
+> Per ogni insieme bello $S$, esiste un intero $n_S$ con $n_S\ge 2$ tale che il numero di elementi di $S$ che non sono moltipli di $n_S$ sia al massimo $N$.
+
+[[src_jmo29mq_honsen__Q05]]

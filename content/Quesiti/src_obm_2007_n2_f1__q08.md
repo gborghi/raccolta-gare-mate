@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f1__Q08
 parent: src_obm_2007_n2_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of possible values of k in cyclic equal-ratio system*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di possibili valori di k nel sistema ciclico di uguali rapporti *
+
+> Lasciate che $a, b, c$ e $k$ siano numeri reali diversi da zero soddisfacendo le relazioni $k = \dfrac{a}{b+c} = \dfrac{b}{c+a} = \dfrac{c}{a+b}$. Quanti valori possibili può assumere $k$?
+> 
+> (A) 0 $\quad$ (B) 1 $\quad$ (C) 2 $\quad$ (D) 3 $\quad$ (E) 4
+
+**Risposta:** C
+[[src_obm_2007_n2_f1__Q08]]

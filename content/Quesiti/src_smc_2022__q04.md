@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2022 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2022__Q04
 parent: src_smc_2022
 competition: Senior Mathematical Challenge 2022
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two symmetrically placed squares of sides 2 and 5; find the ratio of the area of the small square to that of the shaded region.*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due quadrati simmetricamente posizionati dei lati 2 e 5; trovare il rapporto tra l'area del piccolo quadrato e quella della regione ombrata.*
+
+> Il diagramma mostra due quadrati posizionati simmetricamente con lati di lunghezza 2 e 5. Qual è il rapporto tra l'area del piccolo quadrato e quella della regione ombrosa?
+>
+> - **(A)** $7:24$
+> - **(B)** $1:3$
+> - **(C)** $8:25$
+> - **(D)** $8:21$
+> - **(E)** $1:2$
+
+![[src_smc_2022__Q04.png]]
+
+**Risposta:** D
+[[src_smc_2022__Q04]]

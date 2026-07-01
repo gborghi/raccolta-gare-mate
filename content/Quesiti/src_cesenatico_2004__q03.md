@@ -1,6 +1,7 @@
 ---
 title: XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004__Q03
 parent: src_cesenatico_2004
 competition: XX Olimpiade Italiana Cesenatico 2004 - individuale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *20052004 e 20042005 sono somma di due quadrati perfetti positivi?*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (a) si, (b) no
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1SUJ83wt6O3HsePZYy6Y39_rKksLv5Bk-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*20052004 and 20042005 are the sum of two positive perfect squares?*
+
+> 3. (a) Determine whether 20052004 is the sum of two positive perfect squares. (b) Determine whether 20042005 is the sum of two positive perfect squares. Solution: (a) 20052004 and sum of two positive perfect squares. Note that 52 = 32 + 42 and that 20052004 = 52m2, where m = 51001 4011002. Multiplying the first ratio by m2 gives 20052004 = (5m) 2 = (3m) 2 + (4m) 2: (b) 20042005 is not the sum of two positive perfect squares. It should be noted first that 20042005 = 32005 6682005 and is divisible by 3. Looking at the rest of the division by 3 of the square of an integer x, you can see that if x is divisible by 3 it's 0, whereas if it's not, and then x is equal to 3k 1, then x2 is equal to 9k2 6.
+
+**Answer:** (a) si, (b) no
+[[src_cesenatico_2004__Q03]]

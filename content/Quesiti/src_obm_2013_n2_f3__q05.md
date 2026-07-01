@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f3__Q05
 parent: src_obm_2013_n2_f3
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Scalene triangle, median AM, circle of diameter AM meets AB and AC; find angle BAC*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VmF6cRGRwHnU6LZqHAbDQ8RpHge5JFX2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Triangolo di scalene, media AM, cerchio di diametro AM incontra AB e AC; trova angolo BAC< MSK1/>
+
+> Il $ABC$ deve essere un triangolo di scalene e $AM$ la media relativa al lato $BC$. Il cerchio con diametro $AM$ incrocia di nuovo i lati $AB$ e $AC$ rispettivamente nei punti $P$ e $Q$, entrambi diversi da $A$. Supponiamo che $PQ$ sia parallelo a $BC$. Determinare la misura dell'angolo < MSK11/>.
+
+[[src_obm_2013_n2_f3__Q05]]

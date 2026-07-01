@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2000 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2000__Q05
 parent: src_rmo_2000
 competition: Regional Mathematical Olympiad 2000
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle bisector meets circumcircle at D; show BE perpendicular to AD and AO parallel to BD*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12rUdRsFDdXuqpCuHRpFpmWSAWCuy3oU3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il bisettore angolare incontra il circoncircolo a D; mostra BE perpendicolare ad AD e AO parallelo a BD*
+
+> Il bisettore interno dell'angolo $A$ in un triangolo $ABC$ con $AC > AB$ incontra il circoncircolo $\Gamma$ del triangolo in $D$. Unire $D$ al centro $O$ del cerchio $\Gamma$ e supporre che $DO$ incontra $AC$ in $E$, eventualmente se esteso. Indicare che $BE$ è perpendicolare a $AD$, indicare che $AO$ è parallelo a $BD$.
+
+![[src_rmo_2000__Q05.png]]
+
+[[src_rmo_2000__Q05]]

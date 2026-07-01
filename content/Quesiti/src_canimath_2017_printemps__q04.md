@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2017 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2017_printemps__Q04
 parent: src_canimath_2017_printemps
 competition: Coupe Animath Printemps 2017
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify the diagonal among five given lengths of a quadrilateral*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WRDBVKTu2eO-0ruMO9lo0GjGJQSpzivB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare la diagonale tra le cinque lunghezze di un quadrilaterale*
+
+> Cinque numeri sono dati in ordine crescente; sono le lunghezze dei quattro lati di un quadrilaterale (non auto-intersezionato, ma non necessariamente convex, il che significa che una diagonale non è necessariamente all'interno del poligono) e di uno dei suoi diagonali $D$. Questi cinque numeri sono $3$, $5$, $7$, $13$ e $19$. Quale di questi numeri può essere la lunghezza della diagonale $D$?
+
+**Risposta:** 13
+[[src_canimath_2017_printemps__Q04]]

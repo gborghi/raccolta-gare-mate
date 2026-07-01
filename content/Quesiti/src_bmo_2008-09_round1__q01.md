@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2008-09 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2008-09_round1__Q01
 parent: src_bmo_2008-09_round1
 competition: British Mathematical Olympiad 2008-09 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count zig-zag paths of white squares on 8x8 chessboard*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXGOMG__rn1G2sSN7-cdseEPQ7g9ONRS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i percorsi zigzag di quadrati bianchi su scacchi 8x8*
+
+> Si consideri una scacchiera standard $8 \times 8$ costituita da 64 piccoli quadrati colorati nel solito modello, quindi 32 in nero e 32 in bianco. Un percorso in zigzag attraverso il bordo è una raccolta di otto quadrati bianchi, uno in ogni riga, che si incontrano negli angoli. Quanti percorsi zigzag ci sono?
+
+[[src_bmo_2008-09_round1__Q01]]

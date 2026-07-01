@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2002 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2002_r1__Q01
 parent: src_pol_2002_r1
 competition: Olimpiade Matematica Polacca 2002 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve an absolute-value equation in the reals with even-indexed terms on the left and odd-indexed terms on the right.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi un'equazione di valore assoluto nei reali con termini indicizzati pari a sinistra e termini indicizzati dispari a destra.*
+
+> Risolvere la seguente equazione nei numeri reali $$|x| + |x+2| + |x+4| + |x+6| + \cdots + |x+998| =$$ $$= |x+1| + |x+3| + |x+5| + \cdots + |x+7| + \cdots + |x+999|.$$
+
+[[src_pol_2002_r1__Q01]]

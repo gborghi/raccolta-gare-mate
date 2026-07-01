@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior (18 marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior__Q11
 parent: src_kangourou_2004_junior
 competition: Kangourou 2004 Junior (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Possibile prodotto di cinque scelte da 1,2,4*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible product of five choices from 1,2,4*
+
+> Five people choose a number from these three: 1, 2, 4. The five numbers chosen are multiplied by them. Only one of the following numbers could be the product obtained: which? A) 100         B) 256        C) 768       D) 2048      E) 4096
+
+**Answer:** B
+[[src_kangourou_2004_junior__Q11]]

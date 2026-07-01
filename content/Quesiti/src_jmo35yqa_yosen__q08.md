@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo35yqa_yosen__Q08
 parent: src_jmo35yqa_yosen
 competition: Japan Mathematical Olympiad 2025 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Beautiful integer sequences containing 2025 with convexity-like condition; among max length N find min a_N*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2057
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Belle sequenze di numeri interi contenenti 2025 con condizione di convexità; tra la lunghezza massima N trovare min a_N*
+
+> Per un numero intero $n \ge 3$, una sequenza di numeri interi $a_1, a_2, \ldots, a_n$ è chiamata bella se tutte le seguenti condizioni sono valide: - $0 = a_1 < a_2 < \cdots < a_n$; - esiste un numero intero $i$ con $1 \le i \le n$ in modo tale che $a_i = 2025$; - per tutti i numeri interi $i, j, k$ con $i < j < k$, la disuguaglianza $\dfrac{a_i + a_k}{2} \le a_j$ è valida. Lasciate che $N$ sia la lunghezza più grande possibile di una sequenza bella. Tra le belle sequenze $a_1, a_2, \ldots, a_N$ di lunghezza $N$, trova il minimo valore possibile di $a_N$. Qui, la lunghezza di una sequenza $x_1, x_2, \ldots, x_l$ è $l$.
+
+**Risposta:** 2057
+[[src_jmo35yqa_yosen__Q08]]

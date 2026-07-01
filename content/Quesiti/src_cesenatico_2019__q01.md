@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2019__Q01
 parent: src_cesenatico_2019
 competition: Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *AD,BE,CF concorrono*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tALD9ox6PV_bcTM7kKmhdk2njm2QACPl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AD,BE,CF compete*
+
+> Either ABCDEF is a hexagon inscribed in a circumference and such that AB = BC, CD = DE and EF = AF. Demonstrate that segments AD, BE and CF compete (i.e. have one point in common).
+
+[[src_cesenatico_2019__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q23
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle 24×36 cm; each point colored by nearest side; area of yellow region*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo 24×36 cm; ogni punto colorato dal lato più vicino; area di regione gialla*
+
+> Un foglio del quaderno di Carlos è rettangolare di $24$ cm di larghezza e $36$ cm di altezza, con lati lunghi gialli e lati corti rossi. Carlos dipinge ogni punto del rettangolo dello stesso colore del lato più vicino. Qual è l'area della regione gialla?
+> 
+> **(A)** $144\text{ cm}^2$ $\quad$ **(B)** $288\text{ cm}^2$ $\quad$ **(C)** $364\text{ cm}^2$ $\quad$ **(D)** $442\text{ cm}^2$ $\quad$ **(E)** $841\text{ cm}^2$
+
+**Risposta:** B
+[[src_obm_2009_n2_f1__Q23]]

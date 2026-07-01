@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 2) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g2__Q14
 parent: src_bocconi_finaleint_2011_g2
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza massima del tunnel con mucca e treno*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 250 metri
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum length of tunnel with cow and train *
+
+> A cow is inside a narrow railway tunnel, 5 meters from its middle. A train is heading towards the tunnel entrance. When she's three kilometers from the entrance, the cow hears the noise. She knows she's going to this entrance or the exit of the tunnel, she can get out a moment before the train hits her. What is the maximum length of the tunnel in meters? Note: the train travels at constant speed; the cow also moves at constant speed and its speed would be the same in one direction or the other.
+
+**Answer:** 250 metri
+[[src_bocconi_finaleint_2011_g2__Q14]]

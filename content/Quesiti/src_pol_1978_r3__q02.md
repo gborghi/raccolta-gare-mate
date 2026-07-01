@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1978 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1978_r3__Q02
 parent: src_pol_1978_r3
 competition: Olimpiade Matematica Polacca 1978 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Partition lattice points with at least one coordinate not divisible by 4 into unit-distance pairs.*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AGtrG0C8tcQJU36uFC-bh5dGK0KglZ6h/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punti della rete di partizione con almeno una coordinata non divisibile per 4 in coppie unitarie di distanza.*
+
+> In un piano di coordinate, considera l'insieme di punti con coordinate interi, almeno una delle quali non è divisibile per 4. Prova che questi punti possono essere suddivisi in coppie in modo tale che la distanza tra i punti di ciascuna coppia sia uguale a 1.
+> 
+> In altre parole, una scacchiera infinita, le cui cellule con entrambe le coordinate divisibili per 4 sono tagliate fuori, non può essere piastrellato da dominò.
+
+[[src_pol_1978_r3__Q02]]

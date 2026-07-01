@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q12
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali tre pezzi completano il puzzle*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What three pieces complete the puzzle*
+
+![[src_kangourou_2012_benjamin__prob12.png]]
+
+> Look at the figure. The puzzle started on the left can be completed with three of the numbered pieces appearing on the right. What kind? A) 1, 3, 4 B) 1, 3, 6 C) 2, 3, 5 D) 2, 3, 6 E) 2, 5, 6
+
+**Answer:** D
+[[src_kangourou_2012_benjamin__Q12]]

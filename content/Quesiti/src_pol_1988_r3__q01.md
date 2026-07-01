@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1988 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1988_r3__Q01
 parent: src_pol_1988_r3
 competition: Olimpiade Matematica Polacca 1988 — Round 3
@@ -30,6 +31,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real numbers summing to integer with bounded partial sums*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Wbv_RAAU8fv1-DKP1_7EzhBkm88ItD3h/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri reali sommati a un numero intero con somme parziali limitate*
+
+> I numeri reali $x_1, x_2, \ldots, x_n$ dell'intervallo $(0,1)$ soddisfano l'uguaglianza $x_1 + x_2 + \cdots + x_n = m + r$, dove $m$ è un intero e $r \in [0,1)$. Provare che < MSK0/>
+
+[[src_pol_1988_r3__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 2009 (L International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2009__Q06
 parent: src_imho_2009
 competition: IMO 2009 (L International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Grasshopper jumps avoid finite set on positive real axis*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yWPSpe4JzF1XdoCtCDrzGR7th1ybnuJR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Grasshopper jumps avoid finite set on positive real axis< MSK1/>
+
+> Let $a_1, a_2, \ldots, a_n$ be distinct positive integers and let $M$ be a set of $n - 1$ positive integers not containing $s = a_1 + a_2 + \cdots + a_n$. A grasshopper is to jump along the real axis, starting at the point $0$ and making $n$ jumps to the right with lengths $a_1, a_2, \ldots, a_n$ in some order. Prove that the order can be chosen in such a way that the grasshopper never lands on any point in $M$.
+
+[[src_imho_2009__Q06]]

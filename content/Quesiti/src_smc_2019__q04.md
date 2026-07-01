@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q04
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integer values of n for which n^2 + 2n is prime*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i valori interi positivi di n per i quali n^2 + 2n è primo*
+
+> Per quanti valori interi positivi di $n$ $n^2 + 2n$ è primo?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** più di 3
+
+**Risposta:** B
+[[src_smc_2019__Q04]]

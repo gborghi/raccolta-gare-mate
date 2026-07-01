@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2011 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2011_automne__Q01
 parent: src_canimath_2011_automne
 competition: Coupe Animath Automne 2011
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle, point on minor arc, circumcircle of BDE gives parallel lines*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles, punto su arco minore, circoncircolo di BDE dà linee parallele*
+
+> $ABC$ sia un triangolo di uguali dimensioni in cui $AB = AC$. Sul cerchio circonscritto di questo triangolo, prendere un punto $D$ appartenente all'arco più piccolo che unisce $A$ a $B$; infine prendere un punto $E$ appartenente alla linea $(AD)$, al di fuori del segmento $[AD]$, e tale che i punti $A$ e $E$ si trovino nello stesso semiplano delimitato dalla linea $(BC)$. Il cerchio circonscritto del triangolo $BDE$ incontra di nuovo la linea $(AB)$ a $F$; mostra che le linee $(EF)$ e $(BC)$ sono parallele.
+
+[[src_canimath_2011_automne__Q01]]

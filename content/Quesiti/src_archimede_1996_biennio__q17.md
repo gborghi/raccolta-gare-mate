@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Biennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_biennio__Q17
 parent: src_archimede_1996_biennio
 competition: Giochi di Archimede 1996 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di cuciture di un pallone esagoni e pentagoni*
 
@@ -51,3 +54,22 @@ tags:
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ARzIV3wHmzpV455NSIYGulflPgheKY6p/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of seams of a ball hexagons and pentagons*
+
+![[src_archimede_1996_biennio__prob17.png]]
+
+> A leather ball is obtained by sewing 20 hexagonal leather and 12 pentagonal leather. A seam joins the sides of two adjacent pieces. So the total number of seams is
+>
+> - **(A)** 90
+> - **(B)** 172
+> - **(C)** 176
+> - **(D)** 180
+> - **(E)** The data on the problem is insufficient.
+
+**Answer:** A
+[[src_archimede_1996_biennio__Q17]]

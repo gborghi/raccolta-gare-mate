@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q11
 parent: src_garasquadre_2006_pubblico
 competition: VII Gara Nazionale a Squadre 2006 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *minimizzare differenza tra numeri magici*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2143
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*minimize the difference between magic numbers*
+
+> Fracto Malpoysto hates to lose! He then decides to make up a common dice with a spell, which is based on the eight magic numbers of the dice. These are obtained, starting from each of the vertices, by adding up the numbers written on the three faces that compete. Witchcraft consists of placing the numbers 1 to 6 on the sides of the dice so that the difference between the maximum and minimum magic number is as small as possible. Find the layout, and you're going to put in each of the four digits, orderly from left to right, the number that's opposite to 1, the number that's opposite to 2, then 3 and finally 4.
+> 
+> Team competition 2006  Public competition  Problem texts  Pag. 3 di 4
+
+**Answer:** 2143
+[[src_garasquadre_2006_pubblico__Q11]]

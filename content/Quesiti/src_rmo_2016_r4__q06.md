@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2016 — Region 4 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2016_r4__Q06
 parent: src_rmo_2016_r4
 competition: Regional Mathematical Olympiad 2016
@@ -35,6 +36,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *AP of positive integers: cubes appear infinitely or not at all*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nLwmoR34Kvy_obEKxxqlzF7zGjUJNCHa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*AP di numeri interi positivi: i cubi appaiono infinitamente o non appaiono affatto*
+
+> (i) Dimostra che se una sequenza infinita di numeri interi positivi che aumentano strettamente nella progressione aritmetica ha un cubo allora ha infinitamente molti cubi.
+> 
+> (ii) Trovare, con giustificazione, una sequenza infinita di numeri interi positivi rigorosamente in aumento nella progressione aritmetica che non ha alcun cubo.
+
+[[src_rmo_2016_r4__Q06]]

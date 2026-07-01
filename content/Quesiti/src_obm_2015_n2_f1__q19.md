@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q19
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n so mean of n naturals can be strictly between 25.65 and 25.75*
 
@@ -47,3 +50,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La minima n so media di n naturali può essere strettamente compresa tra 25,65 e 25,75*
+
+> La media dei numeri naturali $n$ è superiore a 25,65 e inferiore a 25,75. Qual è il minimo valore possibile per $n$?
+> 
+> (A) 5 (B) 3 (C) 6 (D) 100 (E) 50
+
+[[src_obm_2015_n2_f1__Q19]]

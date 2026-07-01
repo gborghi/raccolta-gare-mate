@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q12
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -34,6 +35,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of a rhombus in which a unit circle touches all four sides and the smaller angles are 60°*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di un rombo in cui un cerchio unitario tocca tutti e quattro i lati e gli angoli più piccoli sono 60°*
+
+> Un cerchio con raggio $1$ tocca i lati di un rombo, come mostrato. Ogni angolo più piccolo tra i lati del rombo è $60^\circ$.
+> 
+> Qual è l'area del rombo?
+>
+> - **(A)** $6$
+> - **(B)** $4$
+> - **(C)** $2\sqrt{3}$
+> - **(D)** $3\sqrt{3}$
+> - **(E)** $\frac{8\sqrt{3}}{3}$
+
+![[src_smc_2019__Q12.png]]
+
+**Risposta:** E
+[[src_smc_2019__Q12]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 1) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g1__Q06
 parent: src_bocconi_finaleint_2011_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quattro operazioni con nove cifre distinte*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Four operations with nine distinct digits*
+
+> Toto had set up four operations, but he stained the result with ink. The first three are right. The fourth is such that the division gives an integer result and the divisor is different from $1$. Enter a digit from 1 to 9 in each box using all nine digits. In each line the figures in each box must be ordered from left to right in descending order.**
+
+![[src_bocconi_finaleint_2011_g1__Q06.png]]
+
+**Answer:** 2
+[[src_bocconi_finaleint_2011_g1__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo16yq_yosen__Q08
 parent: src_jjmo16yq_yosen
 competition: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer values of a for polynomial ax^2-bx+c satisfying P(16)=P(30)=59, P(n)=2018*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** -70, 341
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kd1TVGSchFgfQoYWGu97jdlpAwS4ecq_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ritrovare tutti i valori interi di a per polinomio ax^2-bx+c soddisfacente P(16)=P(30)=59, P(n)=2018*
+
+> Se il numero $a$, $b$, $c$ sono numeri interi. Supponiamo che il polinomio $P(x) = ax^2 - bx + c$ soddisfi $P(16) = 59$, $P(30) = 59$ e $P(n) = 2018$ per un numero intero $n \ge 17$. Trova tutti i valori possibili di $a$.
+
+**Risposta:** -70, 341
+[[src_jjmo16yq_yosen__Q08]]

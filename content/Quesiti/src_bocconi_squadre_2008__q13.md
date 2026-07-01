@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q13
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore numerico della parola EXTRA da schema*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** EXTRA = 13658
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number value of the word EXTRA from schema*
+
+> In this sum, each letter represents a number and different letters represent different numbers. We also know that $R$ $M$ $Z$ $A$ indicates a multiple of 23. What number indicates the word $E$ $X$ $T$ $R$ $A$? $$\begin{array}{cccccc} & R & M & Z & A & \\ + & & & & & \\ E & X & T & R & A & \end{array}$$
+
+**Answer:** EXTRA = 13658
+[[src_bocconi_squadre_2008__Q13]]

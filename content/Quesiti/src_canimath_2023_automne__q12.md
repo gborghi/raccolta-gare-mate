@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2023 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2023_automne__Q12
 parent: src_canimath_2023_automne
 competition: Coupe Animath Automne 2023
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove that if 2^n and 5^n share the same leading digit, that digit is 3 (lycee)*
 
@@ -45,3 +48,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3 (lycee)
+
+> Per ogni numero intero rigorosamente positivo $m$, la \emph{prima cifra} di $m$ indica la cifra più sinistra nella sua scrittura decimale. Il $n$ è un numero intero rigorosamente positivo. Supponiamo che i due numeri interi $2^n$ e $5^n$ abbiano la stessa prima cifra. Mostra che questa prima cifra comune è $3$.
+
+[[src_canimath_2023_automne__Q12]]

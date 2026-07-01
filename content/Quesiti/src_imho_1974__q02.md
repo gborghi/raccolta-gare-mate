@@ -1,6 +1,7 @@
 ---
 title: IMO 1974 (XVI International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1974__Q02
 parent: src_imho_1974
 competition: IMO 1974 (XVI International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Geometric mean condition via sine inequality in triangle ABC*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Geometric mean condition by sine inequality in triangle ABC*
+
+> In the $ABC$ triangle, prove that there is a point $D$ on side $AB$ such that $CD$ is the geometric mean of $AD$ and $DB$ if and only if $$\sin A \sin B \le \sin^2\frac{C}{2}.$$
+
+[[src_imho_1974__Q02]]

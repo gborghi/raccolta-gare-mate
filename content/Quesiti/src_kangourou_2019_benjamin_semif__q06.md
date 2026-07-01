@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Benjamin — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q06
 parent: src_kangourou_2019_benjamin_semif
 competition: Kangourou 2019 Semifinale Benjamin
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima somma dei quattro numeri d angolo nella griglia*
 
@@ -61,3 +64,27 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of the four angular numbers in the grid*
+
+![[src_kangourou_2019_benjamin_semif__prob6.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \fill[gray!60] (1.0,1.0) rectangle (2.0,2.0);
+  \draw (0,0) grid[step=1.0] (3.0,3.0);
+\end{tikzpicture}
+\end{document}
+```
+
+> (Points 4) In each of the unshaded cells of the grid in the figure, one and only one integer from 1 to 8 was written and all these integers were used. The four sums of the numbers in the two rows and in the two columns at the edges of the grid are all equal to each other. What is the minimum possible value for the sum of the four numbers in the corner cells? A) 9
+> 	
+> B) 10 C) 11 D) 12 E) 16
+
+**Answer:** D
+[[src_kangourou_2019_benjamin_semif__Q06]]

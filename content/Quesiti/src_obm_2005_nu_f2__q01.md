@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 2 —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_nu_f2__Q01
 parent: src_obm_2005_nu_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count possible determinant values of matrix satisfying cubic equation*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B-VoDPg_AHX_VA8woSsj9mylOr9Jg297/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare possibili valori determinanti di matrice che soddisfano l'equazione cubica*
+
+> Determinare, come funzione di $n$, il numero di valori possibili per il determinante di $A$, dato che $A$ è una matrice $n \times n$ reale, tale che $A^3 - A^2 - 3A + 2I = 0$, dove $I$ indica la matrice di identità $n \times n$ e $0$ indica la matrice zero $n \times n$.
+
+[[src_obm_2005_nu_f2__Q01]]

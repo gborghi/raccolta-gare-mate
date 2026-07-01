@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo25yq_yosen__Q05
 parent: src_jmo25yq_yosen
 competition: Japan Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Express a telescoping product quotient in the form a+b√2*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $11 + 5\sqrt{2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1puWzUo8OLdW2kCIHzGHhZaVauCRdH9Ya/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esprimere un quotiente del prodotto del telescopio nella forma a+b√2*
+
+> Esprimere la seguente quantità nella forma $a + b\sqrt{2}$, dove $a$ e $b$ sono numeri razionali: $$\frac{(1 \times 4 + \sqrt{2})(2 \times 5 + \sqrt{2}) \cdots (10 \times 13 + \sqrt{2})}{(2 \times 2 - 2)(3 \times 3 - 2) \cdots (11 \times 11 - 2)}.$$
+
+**Risposta:** 11 + 5\sqrt{2}
+[[src_jmo25yq_yosen__Q05]]

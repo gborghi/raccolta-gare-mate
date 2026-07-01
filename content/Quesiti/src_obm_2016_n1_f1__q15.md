@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f1__Q15
 parent: src_obm_2016_n1_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum single-token moves to rearrange a colored-token grid into a target.*
 
@@ -53,3 +56,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di movimenti singoli per riorganizzare una griglia di tokeni colorati in un obiettivo.*
+
+> Trova il numero minimo di mosse necessarie per riordinare i token colorati della griglia nella configurazione di destinazione.
+> 
+> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: una terza colonna ha già la disposizione ripetuta quindi non ha bisogno di movimento; la prima e la seconda colonna hanno bisogno di un movimento ciascuno; un solo movimento non è sufficiente perché due token si trovano in diverse righe. Due mosse sono sufficienti, come illustrato.]
+
+![[src_obm_2016_n1_f1__Q15.png]]
+
+**Risposta:** B
+[[src_obm_2016_n1_f1__Q15]]

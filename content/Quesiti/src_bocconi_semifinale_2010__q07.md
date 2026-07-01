@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2010 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2010__Q07
 parent: src_bocconi_semifinale_2010
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2010
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Voli di corvi e passerotti: quanti uccelli all'inizio*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 14 passerotti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Flights of ravens and sparrows: how many birds at the beginning*
+
+> In Francesco's garden, some crows and some sparrows rest quietly on the long thread where the mother usually lays the laundry. Francesco likes to see them fly away and then, deliberately, he claps his hands very hard: frightened, 8 sparrows fly away but 5 then return. Soon after, Francis' dog barks and 3 crows take off; 2 then return. At this point, on the string, there are 13 birds. How many sparrows were on the line at the beginning of our "story"?
+
+**Answer:** 14 passerotti
+[[src_bocconi_semifinale_2010__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f2__Q08
 parent: src_obm_2002_n3_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute angle between BF and GH in square with equilateral triangles*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gF94S0aX4v_2i-OEAFyuTxXKFKl8xKDl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo acuto tra BF e GH in quadrato con triangoli equilaterali*
+
+> $ABCD$ sia quadrato, $E$ il punto medio del lato $BC$, $F$ il punto medio del lato $CD$. I triangoli equilaterali $ABG$ e $BEH$ sono costruiti in modo che $G$ si trovi all'interno del quadrato e $H$ si trovi al di fuori del quadrato. Determinare l'angolo acuto tra le linee $BF$ e $GH$.
+
+[[src_obm_2002_n3_f2__Q08]]

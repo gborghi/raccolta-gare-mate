@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2013 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_classiprime__Q16
 parent: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di comporre 1 euro con monete da 1,2,5 centesimi*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to make 1 euro with 1.2.5 cent coins*
+
+> How many different ways can I put together the amount of 1 euro using only 1, 2 and 5 cent coins? A 541 B 520 C 495 D 512 E 496 F None of the other answers is correct
+
+**Answer:** A
+[[src_archimede_2013_classiprime__Q16]]

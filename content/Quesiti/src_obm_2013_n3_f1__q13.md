@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q13
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Billiards: minimum speed for Jade's ball to meet a ball hit at 60 km/h, 30 degrees, balls 50 cm apart*
 
@@ -53,3 +56,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Billiard: velocità minima per la palla di Jade per incontrare un colpo di palla a 60 km/h, 30 gradi, palle a 50 cm di distanza *
+
+> Super Esmeralda e Jade Maravilha stanno giocando a biliardo. Super Esmeralda fa un colpo su una palla con una velocità di $60\,\text{km/h}$, ad un angolo di $30^\circ$ con uno dei cuscini, come nella figura. Jade Maravilha deve colpire la palla di Super Esmeralda con un'altra palla. Le due palle lasciano contemporaneamente il cuscino del tavolo e sono a una distanza di $50\,\text{cm}$. Jade Maravilha puo' scegliere qualsiasi angolo per il suo colpo. Qual e' la velocità minima con cui Jade Maravilha puo' farle sparare?
+> 
+> (A) $15\,\text{km/h}$ \quad (B) $30\,\text{km/h}$ \quad (C) $30\sqrt{2}\,\text{km/h}$ \quad (D) $30\sqrt{3}\,\text{km/h}$ \quad (E) $60\,\text{km/h}$
+
+![[src_obm_2013_n3_f1__Q13.png]]
+
+**Risposta:** B
+[[src_obm_2013_n3_f1__Q13]]

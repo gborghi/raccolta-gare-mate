@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q21
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima somma cifre di un numero minore di 208359*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum sum of digits less than 208359< MSK1/>
+
+> The sum of the digits of an integer less than 208359 (and greater than zero) may be at most A) 26 B) 35 C) 45 D) 46 E) 50 Benjamin_05_D.qxp 21/02/2005 16.04 Page 13
+> 
+> I'm going to pay. I'm going to pay. 14 14 Kang 2005 Kang
+
+**Answer:** D
+[[src_kangourou_2005_benjamin__Q21]]

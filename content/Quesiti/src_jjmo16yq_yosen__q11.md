@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo16yq_yosen__Q11
 parent: src_jjmo16yq_yosen
 competition: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of quadrilateral APCQ in square ABCD with two interior points P,Q*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 37/2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kd1TVGSchFgfQoYWGu97jdlpAwS4ecq_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di APCQ quadrilaterale in quadrato ABCD con due punti interni P,Q*
+
+> All'interno del quadrato $ABCD$, ci sono due punti $P$ e $Q$ quali $\angle PAQ = 45^\circ$, $BP \parallel QD$, $AB = 7$, $BP = 3$ e $PQ = 5$. Trova l'area del quadrilaterale $APCQ$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** 37/2
+[[src_jjmo16yq_yosen__Q11]]

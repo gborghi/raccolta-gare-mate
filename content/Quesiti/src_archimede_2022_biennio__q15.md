@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2022 - Gara Biennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_biennio__Q15
 parent: src_archimede_2022_biennio
 competition: Giochi di Archimede 2022 - Gara Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di nessuna tombola dopo 89 estrazioni*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Daq06A5cNKvPAO0E8Ym-xGnc7AcmRZ_w/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of no cavities after 89 extractions< MSK1/>
+
+> Lucia and Carla play against each other in a bowl game (without any other opponents). Each folder has 15 numbers; the two folders have precisely 4 numbers in common. What is the probability that after 89 numbers were extracted, none of the two have ever made it?
+>
+> - **(A)** 2/45
+> - **(B)** 3/89
+> - **(C)** 1/15
+> - **(D)** 1/30
+> - **(E)** 1/90
+
+**Answer:** A
+[[src_archimede_2022_biennio__Q15]]

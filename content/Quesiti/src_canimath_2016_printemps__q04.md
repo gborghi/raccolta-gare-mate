@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2016 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2016_printemps__Q04
 parent: src_canimath_2016_printemps
 competition: Coupe Animath Printemps 2016
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trapezoid ABCD with equal-length diagonals; prove sum of distances from any M to three vertices exceeds distance to the fourth.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trapezoide ABCD con diagonali di lunghezza uguale; dimostrare che la somma delle distanze da qualsiasi M a tre vertici supera la distanza fino al quarto.*
+
+> Nel piano, considerate un trapezoide $ABCD$ le cui diagonali sono della stessa lunghezza. Prova che, per qualsiasi punto $M$ del piano, la somma delle distanze da $M$ a qualsiasi tre vertici del trapezoide è sempre strettamente superiore alla distanza da $M$ al quarto vertice.
+
+[[src_canimath_2016_printemps__Q04]]

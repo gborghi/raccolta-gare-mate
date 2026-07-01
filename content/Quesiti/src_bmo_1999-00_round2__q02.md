@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1999-00 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1999-00_round2__Q02
 parent: src_bmo_1999-00_round2
 competition: British Mathematical Olympiad 1999-00 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum of x^2+4xy+4y^2+2z^2 given xyz=32*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 96
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BEx1MRf0HGALRwfMJ0zD4xZnI7CsxPCd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il minimo di x^2+4xy+4y^2+2z^2 dato xyz=32*
+
+> Poiché $x, y, z$ sono numeri reali positivi che soddisfano $xyz = 32$, trovare il valore minimo di $$x^2 + 4xy + 4y^2 + 2z^2.$$
+
+**Risposta:** 96
+[[src_bmo_1999-00_round2__Q02]]

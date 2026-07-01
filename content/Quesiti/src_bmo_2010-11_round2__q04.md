@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2010-11 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2010-11_round2__Q04
 parent: src_bmo_2010-11_round2
 competition: British Mathematical Olympiad 2010-11 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find largest parallelogram-free subset of 2011×2011 integer grid*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14seLXr6DJIlaqxnLOHlZ_AKgh-xYbFYR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il più grande sottogruppo senza parallelogrammi del 2011×2011 griglia integrale*
+
+> Il $G$ deve essere l'insieme dei punti $(x, y)$ nel piano in modo tale che $x$ e $y$ siano integri nell'intervallo $1 \le x, y \le 2011$. Un sottogruppo $S$ di $G$ è considerato privo di parallelogrammi se non esiste un parallelo corretto con tutti i suoi vertici in $S$. Determinare il più grande sottoinsieme senza parallelogrammi di $G$. Nota: un parallelo corretto è quello in cui non tutti i vertici si trovano sulla stessa linea.
+
+[[src_bmo_2010-11_round2__Q04]]

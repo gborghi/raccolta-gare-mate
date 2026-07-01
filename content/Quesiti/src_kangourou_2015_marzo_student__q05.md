@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q05
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma interi 2001-2031 diviso 31*
 
@@ -42,3 +45,15 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Total sum 2001-2031 divided by 31
+
+> Let's add up the 31 integers from 2001 to 2031 inclusive and divide the sum by 31. What is the result? A) 2012 B) 2013 C) 2015 D) 2016 E) 2496
+>
+
+**Answer:** D
+[[src_kangourou_2015_marzo_student__Q05]]

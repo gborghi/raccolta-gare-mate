@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1 —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_nu_f1__Q01
 parent: src_obm_2005_nu_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find area of triangle formed by tangent lines to cubic*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1t1VifBoLdIYTQCp9KTilPVmufvuvo00a/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'area del triangolo formato da linee tangenti a cubo*
+
+> $f : \mathbb{R} \to \mathbb{R}$ definito da $f(x) = x^3 + ax^2 + bx + c$, dove $a$, $b$, $c$ sono numeri interi. È noto che < MSK5/>. Le linee tangenti al grafico di $f$ nei punti $A = (-1,\,0)$ e $B = (1,\,0)$ si incrociano al punto $C$. Calcolare l'area del triangolo $ABC$, sapendo che quest'area è un numero intero.
+
+[[src_obm_2005_nu_f1__Q01]]

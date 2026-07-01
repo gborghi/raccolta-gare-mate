@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f2__Q03
 parent: src_obm_2014_n1_f2
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill 5x5 grid with distinct positive integers; minimize sum of marked cells*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Riempire la griglia 5x5 con numeri interi positivi distinti; ridurre al minimo la somma delle celle segnate*
+
+> Riempire la tabella con diversi numeri interi positivi, tutti più grandi di zero, in modo che per ciascuno dei cinque quadrati grigi, la somma dei due numeri nella sua riga è uguale alla somma dei due numeri nella sua colonna. Si noti che la somma di una riga non deve essere uguale alla somma di un'altra riga. Trova la somma più piccola possibile dei numeri che possono essere scritti nei tre piccoli quadrati grigi.
+
+![[src_obm_2014_n1_f2__Q03.png]]
+
+[[src_obm_2014_n1_f2__Q03]]

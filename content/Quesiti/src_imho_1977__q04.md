@@ -1,6 +1,7 @@
 ---
 title: IMO 1977 (XIX International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1977__Q04
 parent: src_imho_1977
 competition: IMO 1977 (XIX International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Four real constants; prove $f(\theta)\ge 0$ implies $A^2+B^2\le 1$*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Four real constants; proofs $f(\theta)\ge 0$ implies $A^2+B^2\le 1$*
+
+> Four real constants $a$, $b$, $A$, $B$ are given, and $$f(\theta) = 1 - a\cos\theta - b\sin\theta - A\cos 2\theta - B\sin 2\theta.$$ Prove that if $f(\theta) \ge 0$ for all real $\theta$, then $a^2 + b^2 \le 2$ and $A^2 + B^2 \le 1$.
+
+[[src_imho_1977__Q04]]

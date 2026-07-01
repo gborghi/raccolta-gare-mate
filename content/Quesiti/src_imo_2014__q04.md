@@ -1,6 +1,7 @@
 ---
 title: IMO 2014 (shortlist/papers) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2014__Q04
 parent: src_imo_2014
 competition: IMO 2014 (shortlist/papers)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *BM e CN si incontrano sul circumcircle di ABC*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*BM and CN meet on the circumcircle of ABC*
+
+> The $P$ and $Q$ points lie on the $BC$ side of the $ABC$ acute triangle so that $\angle PAB = \angle BCA$ and $\angle CAQ = \angle ABC$. The points $M$ and $N$ lie on the lines $AP$ and $AQ$ respectively, so that $P$ is the mean point of $AM$ and $Q$ is the mean point of $AN$. Demonstrate that the lines $BM$ and $CN$ intersect on the circumference circumscribed at the triangle $ABC$.
+
+[[src_imo_2014__Q04]]

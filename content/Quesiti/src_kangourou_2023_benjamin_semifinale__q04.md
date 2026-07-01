@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Semifinale individuale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin_semifinale__Q04
 parent: src_kangourou_2023_benjamin_semifinale
 competition: Kangourou 2023 Benjamin — Semifinale individuale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *colonna di 2023*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mF2rVbrNP5wIK8iQldHBHcyFNDzq0vZz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This item is intended to record the information provided for in the Annex to this Regulation.
+
+![[src_kangourou_2023_benjamin_semifinale__prob4.png]]
+
+> (Points 4) The integers 1 to 9,000 were placed in a huge 9-column table according to the criterion shown in the figure. In which column is the number 2.023 entered? A) A           B) D           C) F            D) H           E) I
+
+[[src_kangourou_2023_benjamin_semifinale__Q04]]

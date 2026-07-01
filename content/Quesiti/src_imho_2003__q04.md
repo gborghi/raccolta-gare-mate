@@ -1,6 +1,7 @@
 ---
 title: IMO 2003 (XLIV International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2003__Q04
 parent: src_imho_2003
 competition: IMO 2003 (XLIV International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cyclic quadrilateral: angle bisectors meet on AC iff RP=RQ*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AH0yViVdXFQ9Y_GJejaNbOzxPiHzQl9i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Cyclic quadrilateral: angle bisectors meet on AC iff RP=RQ*
+
+> < MSK0/> is cyclic. The feet of the perpendicular from $D$ to the lines $AB$, $BC$, $CA$ are $P$, $Q$, $R$ respectively. Show that the angle bisectors of $\angle ABC$ and $\angle CDA$ meet on the line $AC$ iff $RP = RQ$.
+
+[[src_imho_2003__Q04]]

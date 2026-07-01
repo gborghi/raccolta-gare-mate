@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2016 - 2 livello — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_febb_2livello__Q08
 parent: src_archimede_2016_febb_2livello
 competition: Archimede Gara di Febbraio 2016 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza HN con piede altezza, medio di BC e medio di AM*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WjYsXx25mj1TfZaCRYUsoX4KBtCIbL6j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*HN length with foot height, mean of BC and mean of AM*
+
+> Given an ABC triangle of sides AB = 13, BC = 14 and AC = 15, both H the foot of height relative to the side BC, M the middle point of BC and N the middle point of AM. How much is the length of HN?
+>
+> - **(A)** 2 + 2 √ 3
+> - **(B)** 6
+> - **(C)** √ 37
+> - **(D)** 4 + √ 7
+> - **(E)** √ 42
+
+**Answer:** C
+[[src_archimede_2016_febb_2livello__Q08]]

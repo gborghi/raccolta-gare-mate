@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Ecolier — Quesito E5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__QE5
 parent: src_kangourou_2020_ecolier_finale
 competition: Kangourou 2020 Finale nazionale Ecolier
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Riempire griglia 6x6 con/senza numero in posizione speciale*
 
@@ -53,3 +56,30 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fill the 6x6 grid with/without special position number*
+
+![[src_kangourou_2020_ecolier_finale__probE5.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) grid (6,6);
+  \draw (7,0) grid (13,6);
+\end{tikzpicture}
+\end{document}
+```
+
+> Here on the side you see two square grids of $6$ rows and $6$ columns each: you can fill them in many different ways by entering, one for each box, all the integers from $1$ to $36$. If, after filling the grid, it happens that one of the numbers you entered is the largest of all those in its row and at the same time the smallest of all those in its column, you'll say that number is in a special position relative to the way you filled the grid.
+> 
+> Fill the first grid so that there is at least one special position number and the second so that there are no special position numbers.
+> 
+> As long as you fill in the grids (searching the number in a special position in the first one), no explanation is required.
+> 
+> (see figure)
+
+[[src_kangourou_2020_ecolier_finale__QE5]]

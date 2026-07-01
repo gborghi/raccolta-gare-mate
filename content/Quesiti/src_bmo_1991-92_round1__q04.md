@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1991-92 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1991-92_round1__Q04
 parent: src_bmo_1991-92_round1
 competition: British Mathematical Olympiad 1991-92 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimize x²+5y²+8z² subject to yz+zx+xy=−1; does a maximum exist?*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qqoRPhq2Mj2agmbGrWyLkoFFksv9tAll/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimizzare x2+5y2+8z2 soggetto a yz+zx+xy=−1; esiste un massimo?*
+
+> Determinare il valore più piccolo di $x^2 + 5y^2 + 8z^2$, dove $x, y, z$ sono numeri reali soggetti alla condizione $yz + zx + xy = -1$.
+> 
+> $x^2 + 5y^2 + 8z^2$ ha un valore maggiore soggetto alla stessa condizione? Giustifica la tua richiesta.
+
+[[src_bmo_1991-92_round1__Q04]]

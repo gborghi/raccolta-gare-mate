@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2004 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo2q__Q08
 parent: src_jjmo2q
 competition: Japan Junior Mathematical Olympiad 2004
@@ -30,6 +31,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with two cevians, equal angles, find BE*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con due ceviani, angoli uguali, trovare BE*
+
+> C'è un triangolo $ABC$ con $BC = 3$, $CA = 2$, $AB = 4$. Prendi due punti $D, E$ sul lato $AB$, come $AD = 1$ e $\angle ACD = \angle BCE$. Trova la lunghezza del segmento $BE$.
+
+[[src_jjmo2q__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_2livello__Q11
 parent: src_archimede_2007_2livello
 competition: Archimede Gara 2° livello 2007 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità gruppo di 6 con due ori, due argenti, due strette*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability group 6 with two holes, two silver, two narrow ones*
+
+> Every year a large number of students participate in the International Mathematical Olympiads. One twelfth of them wins a gold medal, another sixth wins a silver medal, an additional quarter wins a bronze medal and the other half wins a handshake. If we encounter a group of six randomly selected participants, what is the probability that it will consist of two gold medals, two silver medals and two handshake winners?
+>
+> - **(A)** About 40%
+> - **(B)** Approximately 4%
+> - **(C)** Approximately 0.4%
+> - **(D)** Approximately 0.04%
+> - **(E)** About 0.004%.
+
+**Answer:** C
+[[src_archimede_2007_2livello__Q11]]

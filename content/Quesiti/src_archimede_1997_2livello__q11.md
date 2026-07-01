@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1997 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_2livello__Q11
 parent: src_archimede_1997_2livello
 competition: Archimede Gara 2º livello 1997
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della figura tratteggiata con sei cerchi piccoli*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the figure drawn with six small circles*
+
+![[src_archimede_1997_2livello__prob11.png]]
+
+> In the next figure, the radius of the small circles is 1. How much is the area of the drawn figure? (D) (E) None of the above answers
+
+**Answer:** C
+[[src_archimede_1997_2livello__Q11]]

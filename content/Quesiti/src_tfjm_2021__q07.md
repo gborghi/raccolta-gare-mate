@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2021__Q07
 parent: src_tfjm_2021
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021
@@ -39,6 +40,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Frog/water-lily combinatorial game on a graph: Antoine protects a lily and Benoit sinks one each turn (infinitely); Antoine wins if the frog can reach infinitely many surviving lilies; analyze who wins on various ponds*
 
@@ -83,3 +86,43 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_SfCnSHm4hFbj_TGxa2GoahJiFYpdibk/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco combinatorio frog/lilia d'acqua su un grafico: Antoine protegge un lilia e Benoit ne affonda uno a turno (infinitamente); Antoine vince se la rana può raggiungere infinitamente molti lilia sopravvissuti; analizzare chi vince su vari stagni*
+
+> Viva la rana libera!
+> 
+> Una rana salta da lilia a lilia su un lago infinito. Antoine e Benoit giocano su questo stagno.
+> 
+> Le lampadine sono rappresentate da punti blu; la rana può saltare da una lampadina a un'altra lampadina collegata ad essa da una linea.
+> 
+> Le regole del gioco sono le seguenti. Antoine inizia proteggendo un lampadino. Poi Benoit affonda un lampadino diverso da quello protetto da Antoine. Poi Antoine protegge un secondo lirio che non è già stato affondato, poi Benoit affonda un nuovo lirio che non è uno di quelli protetti da Antoine, e così via.
+> 
+> Antoine e Benoit suonano a loro volta un numero infinito di volte, Antoine durante i turni $1,3,5,\ldots$ e Benoit durante i turni $2,4,6,\ldots$ Una volta che ognuno ha suonato un numero infinito di volte, un numero infinito di pad di lilia sono stati affondati, un numero infinito sono stati protetti, e possono rimanere zero, uno, diversi, o un numero infinito di pad di lilia che non sono stati affondati.
+> 
+> Antoine vince se riesce a mettere la rana su un lampadino non affondato da cui la rana può raggiungere un numero infinito di altri lampadini saltando solo su lampadini vicini che non sono stati affondati. Altrimenti Benoit vince.
+> 
+> Una strategia per un giocatore è una regola che, per ogni configurazione del gioco, associa una mossa al gioco. Diciamo che un giocatore ha una strategia vincente se può, giocando con questa strategia, vincere la partita in qualunque modo il giocatore possa giocare.
+> 
+> Un esempio di gioco è illustrato nella figura 9, dove le lampadine di un stesso colore sono unite da una linea. Su una linea retta completa, Benoit vince questa partita perché, qualunque sia la padella di lilia su cui si colloca la rana, può raggiungere solo un numero finito di padelli di lilia, poiché i padelli di lilia protetti sono tutti isolati.
+> 
+> **(1) ** Determina, in termini di $k$, se Antoine o Benoit hanno una strategia vincente nel lago con le righe $k$ illustrate dalla figura 11. Si può iniziare studiando i casi < MSK2/> e < MSK3/>.
+> 
+> **(2) ** Determina, per ciascuno degli stagni illustrati nella figura 12, se Antoine o Benoit hanno una strategia vincente.
+> 
+> Ora supponiamo che, una volta che Antoine e Benoit hanno suonato un numero infinito di volte, tutti i pad di lilia che non sono stati protetti da Antoine sono affondati. Nell'esempio presentato all'inizio sulla linea retta completa, Antoine ha quindi ancora perso poiché le lamelle protette sono tutte isolate. Rivedere le domande (1) e (2) in questo quadro.
+> 
+> Antoine e Benoit decidono di cambiare le regole del gioco: Antoine non colloca più la rana dopo la partita, ma prima del suo primo giro. Supponiamo che il corrispondente lampadino sia automaticamente protetto. - a) Rivisitare le domande (1) e (2) con questa nuova regola, studiando tutte le posizioni iniziali possibili della rana per ciascun stagno. - (b) Rivedere alla domanda (3) nello stesso modo.
+> 
+> C'è un stagno tale che Antoine abbia una strategia vincente per la regola della domanda (2) ma Benoit abbia una strategia vincente per la regola della domanda (3)? E l'inverso? Più in generale, confrontate tra di loro le regole delle domande (2), (3), (4a) e (4b): per ogni sottoinsieme di queste quattro regole, esiste un stagno tale che Antoine abbia una strategia vincente per ogni regola del sottoinsieme, ma Benoit abbia una strategia vincente per ogni regola?
+> 
+> Invece di giocare a turno, Antoine gioca ora le mosse MSK0/, poi Benoit gioca le mosse MSK1/, poi Antoine di nuovo le mosse MSK2/, e così via. Rivedere le domande (1) e (2) con questa nuova regola per i diversi valori di $A$ e $B$.
+> 
+> **(7) ** Studiare altri stagni e trovare criteri e risultati generali per determinare la persona che ha la strategia vincente.
+
+![[src_tfjm_2021__Q07.png]]
+
+[[src_tfjm_2021__Q07]]

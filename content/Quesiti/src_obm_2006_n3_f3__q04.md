@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f3__Q04
 parent: src_obm_2006_n3_f3
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest positive integer that is 'thrown' (arranjado)*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZCKsxgxArFWOqQ-EkYy1PtXgXiuJ90nh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il più piccolo intero positivo che sia 'gettato' (arranjado) *
+
+> Un intero positivo si chiama \emph{thrown} (arrojado) quando ha 8 divisori positivi la cui somma è 3240. Ad esempio, il 2006 viene gettato perché i suoi 8 divisori positivi sono $1, 2, 17, 34, 59, 118, 1003, 2006$, e la loro somma è 3240. Trova il più piccolo intero positivo gettato.
+
+[[src_obm_2006_n3_f3__Q04]]

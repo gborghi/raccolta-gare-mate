@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_a__Q03
 parent: src_cesenatico_2005_squadre_semifinale_a
 competition: Gara a Squadre Cesenatico 2005 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma aree di quattro triangoli in dodecagono regolare*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0314
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of areas of four triangles in a regular dodecagon*
+
+> Consider a regular dodecahedron of vertices $A_1A_2\ldots A_{12}$ and side length $11$. Tracing the segments $A_1A_6$, $A_5A_{10}$ and $A_9A_7$ forms four triangles within the dodecahedron. Calculate the sum of the areas of these four triangles.
+
+**Answer:** 0314
+[[src_cesenatico_2005_squadre_semifinale_a__Q03]]

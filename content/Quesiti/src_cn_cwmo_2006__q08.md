@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2006 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2006__Q08
 parent: src_cn_cwmo_2006
 competition: China Western Mathematical Olympiad 2006
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min size of X so a subset Y of size n hits each 2-element set at most once*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Min dimensione di X in modo che un sottoinsieme Y di dimensione n colpisca ogni set di 2 elementi non più di una volta*
+
+> Date un intero positivo $n \geq 2$, $B_1, B_2, \cdots, B_n$ indichi $n$ sottoinsiemi arbitrari del set $X$, ognuno dei quali contiene esattamente due elementi. Trova il valore minimo di $|X|$ in modo tale che esista un sottoinsieme $Y$ di $X$ che soddisfa: (a) $|Y| = n$; (b) $|Y \cap B_i| \leq 1$ per $i = 1, 2, \cdots, n$.
+
+[[src_cn_cwmo_2006__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f1__Q11
 parent: src_obm_2001_n1_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Express the price of a dozen oranges plus a dozen bananas in watermelons*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Espresso il prezzo di una dozzina di arance più una dozzina di banane in melone *
+
+> I meloni < MSK0/> costano lo stesso che le arance < MSK1/> più le banane < MSK2/>; inoltre, una mezza dozzina di banane costa metà di un melone. Pertanto, il prezzo pagato per una dozzina di arance e una dozzina di banane è pari al prezzo di:
+> 
+> (A) $3$ meloni \quad (B) $4$ meloni \quad (C) $6$ meloni \quad (D) $5$ meloni \quad (E) $2$ meloni
+
+**Risposta:** A
+[[src_obm_2001_n1_f1__Q11]]

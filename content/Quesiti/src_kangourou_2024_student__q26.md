@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q26
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale affermazione su punti razionali e falsa*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Any statement on rational and false points*
+
+> Let's say that a point in the plane, with an orthogonal Cartesian system, is rational if both of its coordinates are rational numbers (i.e. expressible as the quotient of integers). Which of the following claims is false?
+> 	
+> (a) There is a straight line without rational points.
+> 	
+> B) There is a line that contains infinite points of rational thought.
+> 	
+> C) There is a line that contains only one rational point.
+> 	
+> D) There is a line that contains exactly two rational points.
+> 	
+> E) No line contains only rational points.
+
+**Answer:** D
+[[src_kangourou_2024_student__Q26]]

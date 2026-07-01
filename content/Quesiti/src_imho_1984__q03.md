@@ -1,6 +1,7 @@
 ---
 title: IMO 1984 (XXV International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1984__Q03
 parent: src_imho_1984
 competition: IMO 1984 (XXV International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Finitely-colored plane: some color touches every circle C(X)*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hddGpriFfJ9QXK1JRJNBQA3ykv770Ola/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Finely-colored plane: some color touches every circle
+
+> In the plane two different points $O$ and $A$ are given. For each point $X$ of the plane, other than $O$, denoted by $a(X)$ the measure of the angle between $OA$ and $OX$ (counterclockwise from $OA$ to $OX$, $0 \le a(X) < 2\pi$). Let $C(X)$ be the circle with center $O$ and radius of length $OX \cdot a(X) / OX$. Each point of the plane is colored by one of a finite number of colors. Prove that there exists a point $Y$ such that its color appears on the circumference of the circle $C(Y)$.
+
+[[src_imho_1984__Q03]]

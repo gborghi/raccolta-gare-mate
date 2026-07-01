@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q14
 parent: src_kangourou_2019_koala_preecolier
 competition: Kangourou 2019 Koala n.6 Pre-Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale solido di quattro cubi richiede meno vernice*
 
@@ -37,3 +40,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>A solid of four cubes requires less paint< MSK1/>
+
+![[src_kangourou_2019_koala_preecolier__prob14.png]]
+
+> Corrado wants to paste four equal cubes together and then paint the solid he composed, but the little paint he has is enough for only one of the five solids he could compose. What kind?
+> 
+> (see figure)
+
+[[src_kangourou_2019_koala_preecolier__Q14]]

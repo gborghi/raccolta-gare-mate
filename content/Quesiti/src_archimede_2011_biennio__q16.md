@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Biennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_biennio__Q16
 parent: src_archimede_2011_biennio
 competition: Giochi di Archimede 2011 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma righe dispari dopo cambio segno caselle bianche*
 
@@ -47,3 +50,20 @@ tags:
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 **Anche in triennio:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of odd lines after white box mark change*
+
+> ABC is an isosceles triangle, with AB = AC = 10 cm. D and E are two points on AB and AC respectively, both 6 cm from A, and H is the foot of the height of ABC relative to BC. Calculate the ratio between the ABC and DHE areas.
+>
+> - **(A)** 25 9 ,
+> - **(B)** 25 12,
+> - **(C)** 10 6 ,
+> - **(D)** 25 6 ,
+> - **(E)** 9 4.
+
+**Answer:** B
+[[src_archimede_2011_biennio__Q16]]

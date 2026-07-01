@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Triennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_triennio__Q03
 parent: src_archimede_2025_triennio
 competition: Giochi di Archimede 2025 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima distanza tra due punti in piazza quadrata, distanze dai lati*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16ZG5msIm07ttOUzhgedgG24X76im2-w5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum distance between two points in a square, distances from the sides*
+
+> Carla, with a lot of patience, is typing out the number 1000300 + 759. How many digits will he have to write in all?
+>
+> - **(A)** 959
+> - **(B)** 300
+> - **(C)** 30059
+> - **(D)** 3059
+> - **(E)** 901
+
+**Answer:** E
+[[src_archimede_2025_triennio__Q03]]

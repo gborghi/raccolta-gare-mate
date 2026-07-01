@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_a__Q07
 parent: src_cesenatico_2005_squadre_semifinale_a
 competition: Gara a Squadre Cesenatico 2005 - Semifinale A
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime 2 cifre numero modi di dividere 2005 in 401 squadre*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0076
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last 2 digits number ways to divide 2005 into 401 teams*
+
+> $2005$ participants in a basketball tournament want to divide into $401$ teams, of $5$ players each, to play a tournament. Write the last $2$ digits of the number of different ways they can be divided.
+
+**Answer:** 0076
+[[src_cesenatico_2005_squadre_semifinale_a__Q07]]

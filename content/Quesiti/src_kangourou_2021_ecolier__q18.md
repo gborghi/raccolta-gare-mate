@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - gara marzo — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier__Q18
 parent: src_kangourou_2021_ecolier
 competition: Kangourou 2021 Ecolier - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale carta capovolgere per somme uguali*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which paper to fold for equal sums*
+
+![[src_kangourou_2021_ecolier__prob18.png]]
+
+> I have seven cards: each card has two numbers, each one upside down. At this time, the cards are arranged as shown. I want to make sure that the sum of the numbers on the top line is equal to the sum of the numbers on the bottom line. To achieve my purpose, I just have to flip one of the cards. What kind? A) A
+> 	
+> B) C
+> 	
+> C) D
+> 	
+> D) F
+> 	
+> E) G
+
+**Answer:** E
+[[src_kangourou_2021_ecolier__Q18]]

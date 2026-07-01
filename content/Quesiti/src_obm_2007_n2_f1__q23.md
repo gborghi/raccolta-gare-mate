@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f1__Q23
 parent: src_obm_2007_n2_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Billiard ball on 3x6 table, distance from P where it hits PQ*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Palla da biliardo su tavolo 3x6, distanza da P dove raggiunge PQ*
+
+> Un tavolo da biliardo ha dimensioni di $3$ metri per $6$ metri e ha tasche ai suoi quattro angoli $P, Q, R$ e $S$. Quando una palla colpisce il bordo della tavola, la sua traiettoria forma un angolo uguale a quello della traiettoria precedente. Una palla, inizialmente a $1$ metro dalla tasca $P$, viene colpita dal lato $SP$ nella direzione del lato $PQ$, come mostra la figura. A quanti metri da $P$ la palla colpisce il lato $PQ$ se la palla cade nella tasca $S$ dopo due rimbalzi dal bordo del tavolo?
+> 
+> (A) 1 $\quad$ (B) $\dfrac{6}{7}$ $\quad$ (C) $\dfrac{3}{4}$ $\quad$ (D) $\dfrac{2}{3}$ $\quad$ (E) $\dfrac{3}{5}$
+
+![[src_obm_2007_n2_f1__Q23.png]]
+
+[[src_obm_2007_n2_f1__Q23]]

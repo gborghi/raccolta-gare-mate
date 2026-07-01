@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2010 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2010__Q15
 parent: src_bocconi_semifinale_2010
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2010
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sesta potenza di un numero di 9 cifre decrescenti*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $N = 27$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sixth power of a decreasing nine-digit number< MSK1/>
+
+> The sixth power of a positive integer $N$ is a 9-digit number. By arranging these numbers in descending order, you get 987744320. What was the initial number $N$?
+
+**Answer:** $N = 27$
+[[src_bocconi_semifinale_2010__Q15]]

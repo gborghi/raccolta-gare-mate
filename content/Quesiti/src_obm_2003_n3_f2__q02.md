@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f2__Q02
 parent: src_obm_2003_n3_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 4-digit biquadrate numbers*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pVKqURzPw84tCEK8gfD_OWrWrg3t7l7s/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri quadrati a 4 cifre*
+
+> Diciamo che un numero a 4 cifre $N$ è un **biquadrato** se equivale alla somma dei quadrati di due numeri: uno formato dalle prime due cifre di $N$ e l'altro formato dalle ultime due cifre di $N$, nell'ordine in cui appaiono in $N$. Ad esempio, $1233$ è un biquadrato perché $1233 = 12^2 + 33^2$. **Nota:** Un numero a 4 cifre non può iniziare con lo zero. Trova tutti i numeri quadrati.
+
+[[src_obm_2003_n3_f2__Q02]]

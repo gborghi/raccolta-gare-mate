@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_b__Q18
 parent: src_prmo_2015_b
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -33,6 +34,8 @@ tags:
   - regione/b
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Subset of {1,...,100} with no two elements summing to 125; max size*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 62
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sottoinsieme di {1,...,100} senza due elementi sommati a 125; dimensione massima*
+
+> Un sottogruppo $B$ dell'insieme dei primi 100 interi positivi ha la proprietà che non due elementi di $B$ sommano a 125. Qual è il numero massimo possibile di elementi in $B$?
+
+**Risposta:** 62
+[[src_prmo_2015_b__Q18]]

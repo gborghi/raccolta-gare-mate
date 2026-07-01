@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2010 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2010_printemps__Q06
 parent: src_canimath_2010_printemps
 competition: Coupe Animath Printemps 2010
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equilateral triangular billiard table: ball from A toward P returns to hole A after seven reflections*
 
@@ -50,3 +53,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ICeKHFa9AJshYkRGcVmLzHyoHqOKQ5Ay/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Tavola di biliardo triangolare equalaterale: la palla da A verso P ritorna al buco A dopo sette riflessi*
+
+> Il $ABC$ deve essere un tavolo da biliardo triangolare, dotato di cuscini elastici* e di fori nei vertici $A$, $B$, $C$ del triangolo, le cui dimensioni soddisfano: $AB = BC = CA = 200$ cm. Il punto del lato $BC$ deve essere $BP = 160$ cm, $PC = 40$ cm. Un giocatore ruota una palla da $A$ verso $P$. Prova che dopo sette riflessi dai lati del triangolo, la palla cade nel buco $A$.
+> 
+> * supponiamo quindi che ad ogni riflessione (quando la palla tocca un lato) i due angoli mostrati accanto siano uguali.
+> 
+> Domanda complementare (che deve essere affrontata solo se hai risolto tutti gli altri problemi della prova): dimostrare che due punti della tavola di biliardo $ABC$ sono incrociati ogni tre volte dalla palla.
+
+![[src_canimath_2010_printemps__Q06.png]]
+
+[[src_canimath_2010_printemps__Q06]]

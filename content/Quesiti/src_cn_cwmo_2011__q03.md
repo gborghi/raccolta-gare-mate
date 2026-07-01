@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2011 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2011__Q03
 parent: src_cn_cwmo_2011
 competition: China Western Mathematical Olympiad 2011
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Arrange all subsets in a sequence and compute a sum involving subset sums*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 0
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Arrangere tutti i sottoinsiemi in una sequenza e calcolare una somma che coinvolga le somme del sottoinsieme*
+
+> $n \ge 2$ sia un dato numero intero.
+> 
+> (1) Prove che tutti i sottogruppi del set $\{1, 2, \ldots, n\}$ possono essere organizzati come una sequenza di sottogruppi $A_1, A_2, \ldots, A_{2^n}$, come $|A_{i+1}| = |A_i| + 1$ o $|A_{i+1}| = |A_i| - 1$, dove $i = 1, 2, \ldots, 2^n$ e $A_{2^n+1} = A_1$.
+> 
+> (2) Determinare, con la prova, tutti i valori possibili della somma $\displaystyle\sum_{i=1}^{2^n} (-1)^{|S|} S(A_i)$, dove $S(A_i) = \displaystyle\sum_{x \in A_i} x$ e $S(\emptyset) = 0$ per qualsiasi sequenza del sottogruppo $A_1, A_2, \ldots, A_{2^n}$ che soddisfi la condizione di (1).
+
+**Risposta:** 0
+[[src_cn_cwmo_2011__Q03]]

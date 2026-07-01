@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q15
 parent: src_cesenatico_2006_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita possesso palla con dadi (regole date)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0027
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Probability of possession of ball with dice (rules given)
+
+> The Quamditch Final [60] In the Quamditch school final, the teams of Reportaureo and Partimmaginaria meet. To decide the possession of the ball Hardy, the captain of Rapportaureo, and Fracto, the captain of Partimmaginaria, play the following game: they both draw a normal dice. If the number on Hardy's dice is greater than Fracto's, then the ball goes to Rapportaureo. If the numbers are the same, then the ball goes to Partimaginaria. If finally the Fracto number is the largest, then you repeat the game in reverse. Calculate the probability of the ball touching Rapporteur. Express the result as the sum of the numerator and denominator of the fraction reduced to minimum terms.
+
+**Answer:** 0027
+[[src_cesenatico_2006_squadre_pubblico__Q15]]

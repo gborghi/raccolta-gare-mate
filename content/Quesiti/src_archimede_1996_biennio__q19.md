@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Biennio — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_biennio__Q19
 parent: src_archimede_1996_biennio
 competition: Giochi di Archimede 1996 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale sacchetto piu probabile data pallina bianca*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ARzIV3wHmzpV455NSIYGulflPgheKY6p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Which bag is most likely given the white ball
+
+> In a box there are four bags: the first bag contains 4 white and 3 black balls, the second 2 white and 4 black balls, the third 6 white and 9 black balls, the fourth 5 white and 10 black balls. You extract a random bag, and from it, every time, you extract a ball. Knowing that a white ball was extracted, which bag is more likely to have been picked?
+>
+> - **(A)** The first
+> - **(B)** The second
+> - **(C)** the third
+> - **(D)** The fourth
+> - **(E)** All the bags have the same probability of being extracted.
+
+**Answer:** A
+[[src_archimede_1996_biennio__Q19]]

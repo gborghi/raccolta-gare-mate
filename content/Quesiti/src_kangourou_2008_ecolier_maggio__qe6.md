@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Ecolier finale nazionale (Mirabilandia) — Quesito E6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_ecolier_maggio__QE6
 parent: src_kangourou_2008_ecolier_maggio
 competition: Kangourou 2008 - Ecolier finale nazionale (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tagliare e ricomporre la torta (due tagli)*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** costruzione
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sMORIlt9lkjMX5maUC57kkdR79FHjTrM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cutting and reconstituting the cake (two cuts) *
+
+![[src_kangourou_2008_ecolier_maggio__probE6.png]]
+
+> Claudio was commissioned to make a large cake in the shape of a triangle drawn on the square sheet on the right (the side of each square is 5 centimeters). After filling it with cream, Claudio realizes that it is the right size, but the shape drawn on the left. Of course the cake can't be turned upside down! His assistant suggests that in order to satisfy the customer, he should cut two large slices and approach the cake differently from what is left of the cake. If you were Claudio, what would you do? (see figure)
+
+**Answer:** costruzione
+[[src_kangourou_2008_ecolier_maggio__QE6]]

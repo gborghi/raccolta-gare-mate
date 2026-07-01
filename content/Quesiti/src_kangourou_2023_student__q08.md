@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q08
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area dipinta di nero in suddivisione infinita di un quadrato*
 
@@ -74,3 +77,40 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A black-painted area in infinite subdivision of a square*
+
+![[src_kangourou_2023_student__prob8.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) rectangle (4,4);
+  \fill[black] (0,2) rectangle (2,4);
+  \draw (2,0) -- (2,4);
+  \draw (0,2) -- (4,2);
+  \draw (3,0) -- (3,2);
+  \draw (2,1) -- (4,1);
+  \fill[black] (2,1) rectangle (3,2);
+  \draw (3.5,0) -- (3.5,1);
+  \draw (3,0.5) -- (4,0.5);
+  \fill[black] (3,0.5) rectangle (3.5,1);
+  \draw (3.75,0) -- (3.75,0.5);
+  \draw (3.5,0.25) -- (4,0.25);
+  \fill[black] (3.5,0.25) rectangle (3.75,0.5);
+\end{tikzpicture}
+\end{document}
+```
+
+> A square of area 84 is divided into 4 squares and the square in the upper left corner is painted black. The square in the lower right corner is in turn divided into 4 squares, of which the one in the upper left corner is painted black. The process is repeated countless times. In total, what area will the square part that will be painted black have? A) 24 B) 28
+>  	
+> C) 31
+> 	
+> D)  35 E) 42
+
+**Answer:** B
+[[src_kangourou_2023_student__Q08]]

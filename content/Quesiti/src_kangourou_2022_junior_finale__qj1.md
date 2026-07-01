@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior finale individuale — Quesito J1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_finale__QJ1
 parent: src_kangourou_2022_junior_finale
 competition: Kangourou 2022 Junior finale individuale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ogni termine della sequenza 1007,10017,... divisibile per 53*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nc-josfBQrvIVQaZGTW6I82lQMtWKEjA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Each term of the sequence 1007,10017,... Divisible by 53*
+
+> Consider the sequence of integers whose first two terms are, in order, $1007$ and $10017$, and each subsequent term is obtained from the previous one by inserting an additional digit $1$ after the first three digits $100$ (hence $1007, 10017, 100117, 1001117, \ldots$). It shows that each whole of the sequence is divisible by $53$.
+
+[[src_kangourou_2022_junior_finale__QJ1]]

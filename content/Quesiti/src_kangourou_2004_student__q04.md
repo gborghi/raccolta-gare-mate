@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q04
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Vertici poligono con somma angoli un settimo di 16-gono*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Vertical polygons with sum of angles one seventh of 16-gon*
+
+> How many vertices of a regular polygon is the sum of its interior angles equal to one seventh of the sum of the interior angles of a regular 16-zone? A)  3 B) 4 C)  6 D) 7 E) 10
+
+**Answer:** B
+[[src_kangourou_2004_student__Q04]]

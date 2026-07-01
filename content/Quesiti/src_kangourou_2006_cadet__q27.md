@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q27
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte piu in fretta aumentando di 6 m/s*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many times faster by increasing by 6 m/s
+
+> Piero cycles from a point P to a point Q at a constant speed. If it increased its speed by 3 meters per second, it would reach Q three times faster (that is, taking a third of the time). How many times faster would you get to Q if it increased its speed by 20 feet per second? A) 4 B) 5 C) 6 D) 4,5 E) 8
+
+**Answer:** B
+[[src_kangourou_2006_cadet__Q27]]

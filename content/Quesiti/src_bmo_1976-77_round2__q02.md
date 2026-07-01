@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1976-77 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1976-77_round2__Q02
 parent: src_bmo_1976-77_round2
 competition: British Mathematical Olympiad 1976-77 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pyramid with inscribed circles of adjacent faces touching; prove contact points on circle*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PfHyGgG6orc2O_4a738MuIYaBULKOH3v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Piramida con cerchi incisi di facce adiacenti che si toccano; prova i punti di contatto sul cerchio*
+
+> Una piramide si forma unendo le vertici di un quadrilaterale piano $ABCD$, la "base", al punto $T$ al di fuori del suo piano. Si scopre che i cerchi incisi di ciascun paio di facce triangolari adiacenti si toccano. Prove che i punti di contatto dei cerchi incisi con la base della piramide si trovano su un cerchio.
+
+[[src_bmo_1976-77_round2__Q02]]

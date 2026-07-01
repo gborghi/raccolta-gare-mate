@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q18
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte la fissazione di Amerigo succede tra le 14 e 17*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How often does Amerigo fixation occur between 14 and 17 < MSK1/>
+
+> Amerigo has a small "fixation": he uses two digits to indicate the time and another two digits to indicate the minutes. For example, write $08\text{h}\,04$ or $22\text{h}\,41$. Then multiply the two digits of the hours between them and equally multiply the two digits that indicate the minutes. It's all happy when the results of the two multiplication are the same (as in the previous examples where you have $0 \times 8 = 0$ and $0 \times 4 = 0$, or $2 \times 2 = 4$ and $4 \times 1 = 4$). How many times does this happen between MSK6 and MSK7?
+
+**Answer:** 8
+[[src_bocconi_rosi_2011__Q18]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Cadet — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q09
 parent: src_kangourou_2019_cadet_marzo
 competition: Kangourou 2019 Gara di Marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti cioccolatini rimasti dopo l ultimo giorno*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many chocolates are left after the last day< MSK1/>
+
+> 9. Elizabeth received a large box of 60 chocolates as a gift. On Monday he ate a tenth, on Tuesday he ate a ninth of the remaining, on Wednesday he ate an eighth of the remaining and so on until the day he ate half the chocolate left over the day before. How many chocolates are left after that day? A) 3 B) 8 C) 4 D) 2 E) 6
+
+**Answer:** E
+[[src_kangourou_2019_cadet_marzo__Q09]]

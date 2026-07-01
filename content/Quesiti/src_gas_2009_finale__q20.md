@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q20
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume piramide retta quadrata con angolo diedro 120 gradi*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 7776
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of rectangular pyramid with dihedral angle of 120 degrees*
+
+> The Pyramid of Banach-Alaoglu The Pyramid of Banach-Alaoglu, legendary ruler of the Orcs, is a rectangular pyramid with a square base of side 36 meters. Knowing that two adjacent faces of the lateral surface form a 120-degree angle, what is the volume of the pyramid, in cubic meters?
+
+**Answer:** 7776
+[[src_gas_2009_finale__Q20]]

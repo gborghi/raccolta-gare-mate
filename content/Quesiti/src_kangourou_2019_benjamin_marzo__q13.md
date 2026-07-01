@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q13
 parent: src_kangourou_2019_benjamin_marzo
 competition: Kangourou 2019 Gara di Marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma delle due cifre non visibili date somma 826*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1mCVu8mcZWozh4A9IixxiUAmKQbLsElwm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the two non-visible digits given sum 826*
+
+![[src_kangourou_2019_benjamin_marzo__prob13.png]]
+
+> In the figure you can see three partially overlapping labels. On each of them is written a three-digit number: the sum of the three numbers written is 826. Two of the nine digits are not visible. What is their sum? A) 7
+> 	
+> B) 8
+> 	
+> C) 9
+> 	
+> D) 10
+> 	
+> E) 11
+
+**Answer:** C
+[[src_kangourou_2019_benjamin_marzo__Q13]]

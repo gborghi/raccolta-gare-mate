@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f3__Q03
 parent: src_obm_2010_n3_f3
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest shadow (orthogonal projection area) of a unit-edge solid cube*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ovDjSumqrFuklc3ULDZ-ZJmM3q6fwQxX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'ombra più grande (area di proiezione ortogonale) di un cubo solido di bordo unitario*
+
+> Qual è l'ombra più grande che un cubo solido di lunghezza di bordo $1$ può gettare alla luce solare diretta?
+> 
+> *Nota: * "La più grande ombra di una figura nella luce solare diretta aerea" è intesa come la più grande area possibile della proiezione ortogonale della figura su un piano.
+
+[[src_obm_2010_n3_f3__Q03]]

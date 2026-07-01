@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q19
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di figli (eta media famiglia)*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of children (average family age) < MSK1/>
+
+> 19. Answer C. Both n the number of children: adding up the years of all members of the family gets 18(n + 2), adding up the years of all members excluding the father gets 14(n + 1). So it has to be 18 ((n + 2)  14 ((n + 1) = 38, so we get n = 4.
+
+**Answer:** C
+[[src_kangourou_2006_junior_marzo__Q19]]

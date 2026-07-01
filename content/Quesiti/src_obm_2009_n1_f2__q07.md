@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n1_f2__Q07
 parent: src_obm_2009_n1_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Figures built from right triangles with legs 6,8,10 by gluing equal sides; compare perimeters and maximize with three triangles*
 
@@ -51,3 +54,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Figure costruite a partire da triangoli rettangolari con gambe 6,8,10 colgendo lati uguali; confrontare i perimetri e massimizzare con tre triangoli*
+
+> Carlinhos realizza figure di carta a forma di triangoli rettangolari con lati $6$ cm, $8$ cm e $10$ cm. In ogni triangolo, l'angolo segnato con $\circ$ è il più piccolo. Facendo coincidere i lati uguali di questi triangoli su un foglio, senza sovrapposizioni, disegna il contorno di ogni figura ottenuta (linea spessa), come negli esempi accanto. Il perimetro di una figura è la lunghezza del suo contorno.
+> 
+> a) Qual è la differenza tra i perimetri delle cifre $1$ e $2$ dell'esempio?
+> 
+> b) Con le cifre di tre triangoli, quale è il perimetro più grande che si può ottenere?
+
+![[src_obm_2009_n1_f2__Q07.png]]
+
+[[src_obm_2009_n1_f2__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q05
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square PQRS, T midpoint of QR, U foot of perpendicular from Q onto line PT; find TU.*
 
@@ -55,3 +58,21 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*PQRS quadrato, T punto medio di QR, U piede di perpendicolare da Q alla linea PT; trovare TU.*
+
+> Un quadrato $PQRS$ ha lati di misura $x$. $T$ è il punto medio di $QR$ e $U$ è il piede della perpendicolare tratto da $Q$ sulla linea $PT$ (la linea $PT$ che attraversa $T$). Qual è la misura di < MSK9/>?
+>
+> - **(A)** $\frac{x}{2}$
+> - **(B)** $\frac{x}{3}$
+> - **(C)** $\frac{x}{\sqrt{2}}$
+> - **(D)** $\frac{x}{2\sqrt{2}}$
+> - **(E)** $\frac{x}{4}$
+
+![[src_obm_2010_n3_f1__Q05.png]]
+
+[[src_obm_2010_n3_f1__Q05]]

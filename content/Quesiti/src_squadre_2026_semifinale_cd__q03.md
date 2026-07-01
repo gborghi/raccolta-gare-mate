@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2026 - Semifinale 2 (nazionale) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2026_semifinale_cd__Q03
 parent: src_squadre_2026_semifinale_cd
 competition: Gara a Squadre 2026 - Semifinale 2 (nazionale)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma a segni alterni di a/11-(a/11)^2*
 
@@ -78,3 +81,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0133
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Summary of alternate signs of a/11-(a/11)^2< MSK1/>
+
+> Francesco Laganà Hermita never denies this: she was the first to correctly answer the question posed by Professor Vector, professor of Aritmanzia. She asked us to use the number tables to calculate
+>  
+> 1 11 −  1 11 2! −
+>  
+> 2 11 −  2 11 2! +
+>  
+> 3 11 −  3 11 2! −··+
+>  
+> 11 11 − 11 11 2! −
+>  
+> 12 11 − 12 11 2! . What did Hermit replied? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+
+**Answer:** 0133
+[[src_squadre_2026_semifinale_cd__Q03]]

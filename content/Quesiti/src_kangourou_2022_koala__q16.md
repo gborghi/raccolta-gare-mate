@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Koala — Gioco Koala — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_koala__Q16
 parent: src_kangourou_2022_koala
 competition: Kangourou 2022 Koala — Gioco Koala
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quante figure si sovrappongono*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Nyec1GxOQ3f28I_D0c1kacejlV99W-GD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many figures overlap < MSK1/>
+
+![[src_kangourou_2022_koala__prob16.png]]
+
+> On the right you see a square sheet. Some paintings have a figure. If you fold the same sheet along the vertical line, how many of the figures on the right side of the vertical line overlap exactly with the similar figures on the left side? (see figure)
+
+**Answer:** D
+[[src_kangourou_2022_koala__Q16]]

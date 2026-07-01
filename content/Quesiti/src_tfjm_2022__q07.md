@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2022__Q07
 parent: src_tfjm_2022
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_analitica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Dog walk: n dogs each move one unit per second toward the next dog (cyclically); Boule on a leash of length L must avoid breaking leashes whether he stays put or moves; study triangle case, universal leash lengths, and variants where a dog chases a cat on an N-gon or a line.*
 
@@ -81,3 +84,39 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C7JOrKkoZ1206MAEq0GAwv-ifvn_yjCd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Passeggiata di cane: n cani si muovono ogni unità al secondo verso il cane successivo (ciclicamente); Boule su un guinzaglio di lunghezza L deve evitare di rompere guinzaglio se rimane messo o si muove; studiare caso triangolare, lunghezza universale di guinzaglio e varianti in cui un cane insegue un gatto su un N-gon o una linea.*
+
+> Passeggiata per cani (Promenade de chiens).
+> 
+> Boule decide di fare una passeggiata ai suoi cani. Purtroppo per lui, questi ultimi sono molto turbolenti e si corrono l'uno dietro l'altro.
+> 
+> Boule possiede cani < MSK0/>. Per tutti i $1 \le i \le n$, il cane del numero $i$ segue il cane del numero $i + 1$ (si considera che il numero di cane $n + 1$ sia il numero di cane 1). I cani si muovono nel modo seguente: ogni secondo, per $1 \le i \le n$, il cane $i$ si muove una lunghezza 1 nella direzione del cane $i + 1$. Più precisamente, per tutti i $t \in \mathbb{N}$, indicando $C_i(t)$ la posizione del cane $i$ alla fine di $t$ secondi:  se $C_i(t) \ne C_{i+1}(t)$, allora $C_i(t+1)$ è il punto unico in modo che i vettori $\overrightarrow{C_i(t)C_i(t+1)}$ e $\overrightarrow{C_i(t)C_{i+1}(t)}$ abbiano la stessa direzione e senso, e $C_i(t)C_i(t+1) = 1$;  se $C_i(t) = C_{i+1}(t)$, allora $C_i(t+1) = C_i(t)$, in altre parole il cane $i$-th non si muove.
+> 
+> I cani si muovono tutti allo stesso tempo ogni secondo. La figura 8 illustra un esempio con $n = 3$.
+> 
+> Boule ha attaccato un guinzaglio di < MSK0/> al collo di ciascuno dei suoi cani. La guinzaglia si rompe se a un tempo < MSK1/> la distanza tra Boule e uno dei suoi cani è strettamente superiore a < MSK2/>.
+> 
+> 1. Boule è di umore pigro: sceglie un punto all'inizio della passeggiata in funzione delle posizioni iniziali dei cani e non si muove più. a) Supponiamo < MSK0/> e che i tre cani siano posizionati inizialmente alle vertici di un triangolo equilaterale laterale < MSK1/>. Esiste una lunghezza < MSK2/> tale che Boule possa assicurarsi di non rompere la guinzaglia? In tal caso, quale è la lunghezza $L$ più piccola che lo consente, come funzione di $c$? b) Supponiamo ora che $n$ sia arbitrario. E' vero che, qualunque sia la configurazione iniziale, Boule può sempre prevedere una lunghezza di guinzaglio sufficiente? Si può iniziare studiando i casi < MSK6/>.
+> 
+> 2. D'ora in poi Boule decide di muoversi in modo da evitare la rottura dei guinzetti: in ogni istante $t$ può mettersi al punto di sua scelta (corre molto veloce quindi non ha limiti a causa della sua velocità). a) Per $n = 3$ con posizione iniziale arbitraria, è vero che Boule può prevedere una lunghezza di guinzaglio sufficiente affinché la guinzaglia non si rompa mentre si muove con i suoi cani? b) Studiare il caso di cani < MSK2/> in posizione iniziale arbitraria.
+> 
+> Si dice che la lunghezza < MSK0/> sia < MSK1/> per i cani < MSK2/> se, qualunque sia la posizione iniziale dei cani, esiste un tempo < MSK3/> a partire dal quale Boule, che si muove, può sostituire le sue guinzaglie con guinzaglie di lunghezza < MSK4/> senza che nessuna di queste guinzaglie si rompa più.
+> 
+> 3. Per quale < MSK0/> esiste una lunghezza universale per i cani < MSK1/>? Per tale $n$, quale è la lunghezza universale più piccola? Si può iniziare con il trattamento dei casi < MSK3/>.
+> 
+> Mylène, vicina di Boule, possiede un gatto, che si trova al punto $M(t)$ al momento $t$. Si suppone che da ora in poi il numero di cane $n$ non segua più il numero di cane 1 ma il gatto, cioè che ogni secondo fa un passo di lunghezza 1 nella direzione del gatto. Le regole di movimento degli altri cani rimangono invariate.
+> 
+> 4. Il gatto di Mylène si muove sulle vertici di un normale < MSK0/>-gon del lato 1. Ogni istante passa da un vertice al vertice successivo (nel senso diretto). a) Se Boule ha un solo cane e il cane parte al centro del $N$-gon, quale lunghezza di guinzaglio deve prevedere Boule se non si muove? b) La stessa domanda per i cani < MSK2/> che iniziano tutti al centro.
+> 
+> 5. Questa volta il gatto si muove in linea retta, facendo un passo di lunghezza 1 nella stessa direzione ogni istante. Che lunghezza di guinzaglio deve prevedere Boule se può muoversi, in funzione della configurazione iniziale?
+> 
+> 6. Proporre e studiare altre vie di ricerca.
+
+![[src_tfjm_2022__Q07.png]]
+
+[[src_tfjm_2022__Q07]]

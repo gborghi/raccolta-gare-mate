@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2013 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2013__Q04
 parent: src_cn_cwmo_2013
 competition: China Western Mathematical Olympiad 2013
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Label sides and diagonals of regular n-gon with equal triangle sums*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** all $n \geq 4$ with $n \not\equiv 2 \pmod{4}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lingue e diagonali di lato di n-gon regolare con somma triangolare uguale*
+
+> Etichettare i lati di un normale $n$-gon in senso orario con $1, 2, \ldots, n$. Determinare tutti i numeri interi $n$ ($n \geq 4$) che soddisfano le seguenti due condizioni:\n(1) non vengono selezionati entrambi due diagonali incrociati nel $n$-gon, e i diagonali non incrociati selezionati $n - 3$ suddividono il $n$-gon in triangoli non sovrapposti $n - 2$;\n(2) ciascuno dei diagonali selezionati $n - 3$ è etichettato con un numero intero positivo, in modo che non ci siano due diagonali che condividano la stessa etichetta, e la somma dei numeri etichettati sui tre lati di ogni triangolo è uguale al valore. (Posizionato da Zou Jin)
+
+![[src_cn_cwmo_b11_w268__Q04.png]]
+
+**Risposta:** all $n \geq 4$ with $n \not\equiv 2 \pmod{4}$
+[[src_cn_cwmo_2013__Q04]]

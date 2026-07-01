@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_biennio_tradizionale__Q11
 parent: src_archimede_2021_biennio_tradizionale
 competition: Giochi di Archimede 2021 - Gara Biennio (tradizionale)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato CD del trapezio con diagonali perpendicolari*
 
@@ -43,3 +46,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*CD side of the trapezoid with perpendicular diagonals*
+
+> In the ABCD trapezoid, base AB and base CD, the AC and BD diagonals are perpendicular to each other. The segments AB and BD measure, in order, 20 m and 17 m; the area of the triangle ABD is 102 m2. How many feet does the CD side measure?
+>
+> - **(A)** 9/5
+> - **(B)** 4/3
+> - **(C)** 5/4
+> - **(D)** 9/8
+> - **(E)** 8/5
+
+[[src_archimede_2021_biennio_tradizionale__Q11]]

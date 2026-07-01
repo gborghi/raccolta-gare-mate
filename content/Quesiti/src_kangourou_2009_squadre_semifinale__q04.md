@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 squadre semifinale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q04
 parent: src_kangourou_2009_squadre_semifinale
 competition: Kangourou 2009 squadre semifinale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della croce bianca nella bandiera*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 21570
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the white cross in the flag*
+
+![[src_kangourou_2009_squadre_semifinale__prob4.png]]
+
+> 4. The flag without the circle In the figure (which is not in scale) you see a colored rectangular flag of white and gray whose horizontal sides are 240 cm long and whose vertical sides are 150 cm long. A white cross with parallel side arms appears on the flag, the measurements of which are determined as shown in the figure (exactly as in the previous question, but the circle is no longer there). What is the value in square centimetres of the area of the
+
+**Answer:** 21570
+[[src_kangourou_2009_squadre_semifinale__Q04]]

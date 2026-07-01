@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Finale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q13
 parent: src_kangourou_2019_squadre_finale
 competition: Kangourou Coppa squadre 2019 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima media di tre interi consecutivi divisibile 6!*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0009
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum mean of three consecutive integers divisible by 6!*
+
+> Average The product of three consecutive positive integers is divisible by 6! = 6 × 5 × 4 × 3 × 2 × 1. What's the smallest possible average for the three numbers?
+
+**Answer:** 0009
+[[src_kangourou_2019_squadre_finale__Q13]]

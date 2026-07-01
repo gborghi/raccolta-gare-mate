@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2005 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2005__Q06
 parent: src_cn_cwmo_2005
 competition: China Western Mathematical Olympiad 2005
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum of PA*PB+PC for point P on perimeter of isosceles right triangle*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $\frac{\sqrt{2}}{2} + \frac{3\sqrt{2}}{4}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Massimo di PA*PB+PC per il punto P sul perimetro di triangolo rettangolare delle isosceles*
+
+> In un triangolo rettangolare di uguali dimensioni $\triangle ABC$, $CA = CB = 1$ e $P$ è un punto arbitrario sul perimetro di $\triangle ABC$. Trova il valore massimo di $PA \cdot PB + PC$.
+
+![[src_cn_cwmo_2005__Q06.png]]
+
+**Risposta:** $\frac{\sqrt{2}}{2} + \frac{3\sqrt{2}}{4}$
+[[src_cn_cwmo_2005__Q06]]

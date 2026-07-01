@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo28yq_yosen__Q09
 parent: src_jmo28yq_yosen
 competition: Japan Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length DE from incircle and A-excircle tangent-line intersections*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{4\sqrt{2}}{3}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza DE dalle intersezioni di linea tangente incircolare e eccircolare A*
+
+> L'incircolo del triangolo $ABC$ tocca rispettivamente i lati $BC, CA, AB$ nei punti $P, Q, R$ e l'escircolo in angolo $A$ tocca rispettivamente il lato $BC$, la linea $CA$, la linea $AB$ nei punti $S, T, U$. $I$ sia l'incentro del triangolo $ABC$. Il $D$ deve essere l'intersezione della linea $PQ$ e della linea $ST$, e il $E$ deve essere l'intersezione della linea $PR$ e della linea $SU$. Date $AI = 3$, $IP = 1$, $PS = 2$, si trova la lunghezza del segmento $DE$. Qui $XY$ indica la lunghezza del segmento $XY$, e l'escircolo in angolo $A$ del triangolo $ABC$ è il cerchio tangente al lato $BC$, all'estensione del lato $AB$ oltre $B$ e all'estensione del lato $AC$ oltre $C$.
+
+**Risposta:** \frac{4\sqrt{2}}{3}
+[[src_jmo28yq_yosen__Q09]]

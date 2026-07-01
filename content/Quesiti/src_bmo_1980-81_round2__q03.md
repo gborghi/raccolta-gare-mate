@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1980-81 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1980-81_round2__Q03
 parent: src_bmo_1980-81_round2
 competition: British Mathematical Olympiad 1980-81 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve symmetric simultaneous equations x^2y^2+x^2z^2=axyz etc.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Risolvere equazioni simmetriche simultanee x^2y^2+x^2z^2=axyz ecc.
+
+> Risolvi per $x$, $y$, $z$ le equazioni simultanee $$x^2y^2 + x^2z^2 = axyz, \quad y^2z^2 + y^2x^2 = bxyz, \quad z^2x^2 + z^2y^2 = cxyz,$$ dove sono dati numeri $a$, $b$, $c$.
+
+[[src_bmo_1980-81_round2__Q03]]

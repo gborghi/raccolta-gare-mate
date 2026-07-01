@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q10
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nella cella centrale con somme date*
 
@@ -50,3 +53,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the central cell with sums given*
+
+![[src_kangourou_2020_junior_marzo__prob10.png]]
+
+> In each of the nine cells in the figure a number must be inserted so that 40 is the sum of the numbers inserted in the 8 cells arranged on the circumference and 13 is the sum of the numbers inserted in each trunk of aligned cells (a cell is always the central one). What number should be entered in the central cell? A) 3
+> 	
+> B) 5
+> 	
+> C) 8
+> 	
+> D) 10
+> 	
+> (E) 12 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** A
+[[src_kangourou_2020_junior_marzo__Q10]]

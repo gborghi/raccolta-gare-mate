@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Triennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_triennio__Q16
 parent: src_archimede_2011_triennio
 competition: Giochi di Archimede 2011 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto aree ABC e DHE in triangolo isoscele*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rate of areas ABC and DHE in triangle isosceles*
+
+> ABC is an isosceles triangle, with AB = AC = 10 cm. D and E are two points on AB and AC respectively, both 6 cm from A, and H is the foot of the height of ABC relative to BC. Calculate the ratio between the ABC and DHE areas.
+>
+> - **(A)** 25 9 ,
+> - **(B)** 25 12,
+> - **(C)** 10 6 ,
+> - **(D)** 25 6 ,
+> - **(E)** 9 4.
+
+**Answer:** D
+[[src_archimede_2011_triennio__Q16]]

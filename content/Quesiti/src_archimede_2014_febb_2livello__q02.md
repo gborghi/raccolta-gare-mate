@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q02
 parent: src_archimede_2014_febb_2livello
 competition: Archimede Gara di Febbraio 2014 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *frase necessariamente vera*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*phrases which are necessarily true*
+
+> The 60 inhabitants of a village can be of three types: peasants (who always tell the truth), werewolves (who always lie) and black people (who answer as they please). Except for these behaviours, the members of each faction are completely indistinguishable from those of the others. When a visitor arrives, they stand in a circle and each declares that the person to his right is a werewolf. Which of these sentences is necessarily true? (A) There is at least one necromancer. (B) The wolves are at most 20. (C) Farmers are at most 30. (D) Negromants are no more than 40. (E) None of the above.
+
+**Answer:** C
+[[src_archimede_2014_febb_2livello__Q02]]

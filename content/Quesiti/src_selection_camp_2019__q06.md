@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2019 — Selection Camp — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2019__Q06
 parent: src_selection_camp_2019
 competition: Japan IMO Selection Camp 2019 — Selection Camp
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min meal vouchers in a one-match-per-day round robin of 2k players*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Voucher per il pasto min in una rotonda di 2k giocatori per una partita giornaliera < MSK1/>
+
+> $k$ sia un numero intero positivo. L'OIM organizza un torneo di scacchi con giocatori $2k$. Si gioca una partita al giorno, e durante tutto il torneo ogni coppia di giocatori gioca esattamente una partita. Ogni giocatore si trova presso la sede dell'IMO dal giorno della sua prima partita fino al giorno della sua ultima. Ogni giorno, la sede dell'IMO emette un numero di voucher per il pasto pari al numero di giocatori che soggiornano nella sede quel giorno. Trovare il valore minimo possibile del numero totale di buoni di pasto emessi dall'IMO.
+
+[[src_selection_camp_2019__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Cadet (15 marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_cadet__Q09
 parent: src_kangourou_2001_cadet
 competition: Kangourou 2001 - Cadet (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto area esagono e triangolo equilatero*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio of hexagon area and equilateral triangle*
+
+> 9. What is the ratio between the area of a regular hexagon on side 1 and the area of an equilateral triangle on side 3? 2 5 3 ( A ) (B) 2 (C) (D) (E) 1. 3 6 4
+
+**Answer:** A
+[[src_kangourou_2001_cadet__Q09]]

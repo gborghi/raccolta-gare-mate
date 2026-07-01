@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2023 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2023_printemps__Q06
 parent: src_canimath_2023_printemps
 competition: Coupe Animath Printemps 2023
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A pair (x,y) with 1<=y<x is 'joli' if x and y have exactly x-y common positive divisors; with s(n) the number of joli pairs with 1<=y<x<=n, decide whether s(n)=2022 or s(n)=2023 is achievable.*
 
@@ -53,3 +56,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Una coppia (x,y) con 1<=y<x è 'joli' se x e y hanno esattamente divisori positivi comuni x-y; con s(n) il numero di coppie joli con 1<=y<x<=n, decide se s(n)=2022 o s(n)=2023 è raggiungibile.*
+
+> $x, y$ siano integri positivi come $1 \leqslant y < x$. Diciamo che la coppia $(x, y)$ è *joli* se $x$ e $y$ hanno esattamente $x - y$ divisori positivi comuni. Ad esempio, $30$ e $42$ hanno esattamente $4$ divisori comuni: $1, 2, 3$ e $6$. Poiché < MSK11/>, la coppia < MSK12/> non è quindi joli. D'altra parte, la coppia $(8, 6)$ è joli, perché $6$ e $8$ hanno $8 - 6 = 2$ divisori positivi comuni: $1$ e $2$.
+> 
+> Per ogni numero intero $n \geqslant 2$, $s(n)$ indichi il numero di coppie di numeri interi $(x, y)$ in modo tale che $1 \leqslant y < x \leqslant n$ e $(x, y)$ siano joli.
+> 
+> a) Esiste un numero intero $n \geqslant 2$ tale da $s(n) = 2022$?
+> 
+> b) Esiste un numero intero $n \geqslant 2$ tale da $s(n) = 2023$?
+
+[[src_canimath_2023_printemps__Q06]]

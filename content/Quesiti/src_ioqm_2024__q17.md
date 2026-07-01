@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q17
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length of chord PQ parallel to BC through midpoint of altitude foot*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza PQ dell'accordo parallela a BC attraverso il punto medio del piede d'altitudine*
+
+> Considera un triangolo di parice $ABC$ con lati $BC = 30$, $CA = AB = 20$. Il $D$ deve essere il piede della perpendicolare da $A$ a $BC$ e $M$ deve essere il punto medio di $AD$. Che $PQ$ sia un'accordazione del circoncircolo del triangolo $ABC$, in modo tale che $M$ si trovi su $PQ$ e $PQ$ sia parallela a $BC$. La lunghezza di $PQ$ è:
+
+[[src_ioqm_2024__Q17]]

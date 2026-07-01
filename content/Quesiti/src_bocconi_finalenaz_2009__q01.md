@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2009 — Quesito
   1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2009__Q01
 parent: src_bocconi_finalenaz_2009
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2009
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di bambini in ascensore con 10 adulti*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of children in elevators with 10 adults
+
+> The Math-City elevator, you know, is a strange city. For example, all adults weigh the same. All children also weigh the same weight (naturally different from adults). It is also true that the elevator at Math-City can support a maximum of 15 adults or, equivalently, 24 children. How many children can climb an elevator with 10 adults?
+
+**Answer:** 8
+[[src_bocconi_finalenaz_2009__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f3__Q05
 parent: src_obm_2012_n1_f3
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3
@@ -40,6 +41,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Amoebas fuse in pairs (red+red->1 blue, red+blue->2 red, blue+blue->2 red); from 19 blue and 95 red, find the maximum size of the next generation and the number of blue amoebas when the total is 100.*
 
@@ -56,3 +59,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zhcaRFthPAOn7E_8dttKk0jNO8fP8yfZ/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Fuse di amoebas in coppie (rosso+rosso->1 azzurro, rosso+blu->2 rosso, blu+blu->2 rosso); da 19 azzurri e 95 rossi, trovare la dimensione massima della prossima generazione e il numero di amoebas azzurri quando il totale è di 100. < MSK1/>
+
+> Quando due amebe rosse si uniscono, si trasformano in una sola ameba blu; quando una ameba rossa si unisce ad una ameba blu, le due si trasformano in due amebe rosse; e quando due amebe blu si uniscono, si trasformano in due amebe rosse. Fernando osserva un tubo di prova che contiene inizialmente < MSK0/> amoebas blu e < MSK1/> amoebas rosse.
+> 
+> a) osserva che tutti gli amoeba si uniscono in coppie, dando origine agli amoeba della generazione successiva. Quanti amoeba possono avere questa generazione?
+> 
+> b) A partire dalla situazione iniziale, se in un istante ci sono < MSK0/> amoebas, quante saranno blu?
+
+[[src_obm_2012_n1_f3__Q05]]

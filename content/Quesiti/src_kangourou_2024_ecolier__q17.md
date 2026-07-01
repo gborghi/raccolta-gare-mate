@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Ecolier 2024 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier__Q17
 parent: src_kangourou_2024_ecolier
 competition: Kangourou Categoria Ecolier 2024
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale torre vede Ada dopo aver rimosso dischi*
 
@@ -56,3 +59,32 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Which tower Ada sees after removing disks
+
+![[src_kangourou_2024_ecolier__prob17.png]]
+
+> As the figure suggests, Ada built a tower with 8 disks of the same size.
+> 	
+> Then he removed the second disc from the bottom of this tower.
+> 	
+> Then he removed the third disc from the bottom of the tower so obtained.
+> 	
+> Then he removed the fourth disc from the bottom of the new tower.
+> 	
+> Finally, he removed the fifth disc from the bottom of the last tower he got. Which of the following is the tower Ada sees at the end? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** B
+[[src_kangourou_2024_ecolier__Q17]]

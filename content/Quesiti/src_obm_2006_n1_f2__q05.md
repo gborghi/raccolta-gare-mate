@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f2__Q05
 parent: src_obm_2006_n1_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Water height in cubic tank after placing 25 wooden blocks*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1srmyb0DAUnIq9SKYuIOrk5cCPzS2K6he/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Altazza dell'acqua nel serbatoio cubico dopo aver collocato 25 blocchi di legno*
+
+> Un serbatoio cubo ha una lunghezza laterale interna $2\,\text{m}$ e contiene acqua fino alla metà della sua altezza. Nel serbatoio sono inseriti blocchi di legno rettangolari $25$, ciascuno delle quali ha dimensioni $20 \times 50 \times 160\,\text{cm}$. Sapendo che $80\%$ del volume di ciascun blocco rimane immerso nell'acqua, calcolare, in centimetri, l'altezza raggiunta dall'acqua nel serbatoio.
+
+[[src_obm_2006_n1_f2__Q05]]

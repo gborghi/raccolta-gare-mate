@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q15
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Surface area of trophy made of 5 stacked cubes (10, 20, 30, 40, 50 cm)*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>L'area superficiale del trofeo costituita da 5 cubetti impilati (10, 20, 30, 40, 50 cm) < MSK1/>
+
+> Un trofeo è costruito da cinque scatole cubiche con lunghezze laterali di 10 cm, 20 cm, 30 cm, 40 cm e 50 cm, apicate una sopra l'altra. Il cubo più grande si trova in basso, e ogni cubo più piccolo si concentra sulla faccia superiore di quello sotto di esso. In questo modo, ogni cubo viene saldato a quello di lato 10 cm più grande direttamente sotto di esso. L'intera superficie esterna di questo trofeo deve essere coperta da un certo tipo di rivestimento. Quanti metri quadrati di rivestimento sono necessari?
+> 
+> (A) 1,5 \quad (B) 2,5 \quad (C) 2,7 \quad (D) 2,75 \quad (E) 3
+
+![[src_obm_2003_n1_f1__Q15.png]]
+
+**Risposta:** C
+[[src_obm_2003_n1_f1__Q15]]

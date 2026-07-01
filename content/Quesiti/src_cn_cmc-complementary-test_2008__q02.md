@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2008 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2008__Q02
 parent: src_cn_cmc-complementary-test_2008
 competition: China Mathematical Competition (Complementary Test) 2008
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Periodic function with periods T and 1, 0<T<1; show a sub-period 1/p when T rational, and a decreasing sequence of irrational periods when T irrational.*
 
@@ -49,3 +52,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Funzione periodica con periodi T e 1, 0<T<1; mostra un sottoperiodo 1/p quando T è razionale e una sequenza diminuente di periodi irrazionali quando T è irrazionale.*
+
+> (50 punti) $f(x)$ deve essere una funzione periodica con periodi $T$ e $1$, soddisfacente $0 < T < 1$. Prova che: (1) Se $T$ è un numero razionale, esiste un primo $p$ tale che $\frac{1}{p}$ è anche un periodo di $f(x)$. (2) Se $T$ è irrazionale, esiste una sequenza di numeri irrazionali $\{a_n\}$ che soddisfa $1 > a_n > a_{n+1} > 0$ $(n = 1, 2, \ldots)$ e ogni $a_n$ è un periodo di $f(x)$.
+
+[[src_cn_cmc-complementary-test_2008__Q02]]

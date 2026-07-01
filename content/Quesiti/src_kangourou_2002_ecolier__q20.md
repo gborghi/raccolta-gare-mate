@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_ecolier__Q20
 parent: src_kangourou_2002_ecolier
 competition: Kangourou 2002 - Ecolier (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo colori per il reticolo di cannucce*
 
@@ -46,3 +49,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum colours for the straw web< MSK1/>
+
+> Using colored straws (each straw has only one color), you propose to build a lattice like the one in the figure (in which each side of each square is made with only one straw). You don't want any strawberries coming into contact with strawberries of the same color. What's the minimum number of different colors that you can use to make your project?
+>  
+>  
+> A. 2 B. 3       C. 4     D. 5         E. 8
+
+**Answer:** C
+[[src_kangourou_2002_ecolier__Q20]]

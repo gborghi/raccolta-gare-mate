@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013__Q03
 parent: src_cesenatico_2013
 competition: Olimpiade Italiana (Cesenatico) 2013 - soluzioni
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *esiste blocco di 2000 bilanciato*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hXVH2IQIT7lpZOFdPWsSlTLlKUKYJdQt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> there is a balanced 2000 block< MSK1/>
+
+> Each whole number is colored with one of two colors, red or blue. We know that for every finite set A of consecutive integers, the absolute value of the difference between the number of red integers and the number of blue integers in the set A is at most 1000. Demonstrate that there is a set of 2000 consecutive integers among which there are exactly 1000 red numbers and 1000 blue numbers.
+
+[[src_cesenatico_2013__Q03]]

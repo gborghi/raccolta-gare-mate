@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2 —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_nu_f2__Q01
 parent: src_obm_2002_nu_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Line cuts graph of degree-4 polynomial at 4 equally spaced points*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Linea taglia grafico di polinomio di grado-4 a 4 punti spaziati ugualmente*
+
+> Che $y = P(x)$ sia un polinomio di grado 4. Mostrare che se esiste una linea (in $\mathbb{R}^2$) che interseca il grafico di $P$ a 4 punti, allora esiste una linea che interseca il grafico a 4 punti spaziati ugualmente.
+
+[[src_obm_2002_nu_f2__Q01]]

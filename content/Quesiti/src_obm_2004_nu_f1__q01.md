@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 1 —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_nu_f1__Q01
 parent: src_obm_2004_nu_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute A^2004 for a given complex matrix*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rns90hvVWwghYkYiNKyUvjjjPu-_eNED/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolo A^2004 per una determinata matrice complessa*
+
+> Considera la matrice complessa $A = \begin{pmatrix} 1 & 0 & i \\ 0 & 0 & 0 \\ i & 0 & 1 \end{pmatrix}$. Calcolare $A^{2004}$.
+
+[[src_obm_2004_nu_f1__Q01]]

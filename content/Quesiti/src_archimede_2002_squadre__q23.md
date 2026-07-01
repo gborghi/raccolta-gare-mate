@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q23
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *geometria del triangolo*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0615
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*triangle geometry*
+
+> < MSK0/>Anna's triangle < MSK1/>  60 points
+> 
+> Anna just drew a triangle using her reel and made each side an odd number of centimeters. How many triangles of this kind can he draw, considering that his rectangle does not allow for measurements of more than six inches [35]? (NB: Two triangles are considered different only if they are not congruent)
+
+**Answer:** 0615
+[[src_archimede_2002_squadre__Q23]]

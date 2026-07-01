@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2009 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2009__Q06
 parent: src_bocconi_autunno_2009
 competition: Giochi d'Autunno 2009
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare addizione dell'anno 2010 con cifre 1–8*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $432 + 1578 = 2010$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete year 2010 addition with figures 18*
+
+> Complete the addition of the figure by using (once and only) the digits 1,2,3,4,5,7,8. Note: each digit in the first row must be less than the corresponding digit of the second number (the one below it vertically) and the digits of this second number must be ordered from left to right, from smallest to largest. $$- \; - \; + $$ $$- \; - \; - \; = $$ $$2 \; 0 \; 1 \; 0$$
+
+![[src_bocconi_autunno_2009__Q06.png]]
+
+**Answer:** $432 + 1578 = 2010$
+[[src_bocconi_autunno_2009__Q06]]

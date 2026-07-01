@@ -1,6 +1,7 @@
 ---
 title: IMO 1989 (XXX International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1989__Q05
 parent: src_imho_1989
 competition: IMO 1989 (XXX International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *For each n, find n consecutive integers none a prime power*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>For each n, find n consecutive integers none at prime power< MSK1/>
+
+> Prove that for every positive integer $n$ there exist $n$ consecutive positive integers none of which is an integral power of a prime number.
+
+[[src_imho_1989__Q05]]

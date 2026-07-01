@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2010 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2010__Q11
 parent: src_bocconi_rosi_2010
 competition: Giochi di Rosi 2010
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Figli avuti dalla coppia Piano-Sfera a tavola*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5 figli
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pwjn1M0F1YSZ60SMZmZPXENHZGd98Xmt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Children of the Plan-Sphere table pair< MSK1/>
+
+> Mr. Piano and Mrs. Sfera had children from previous marriages. Then they married and had other children together. Today they've gathered the whole family together, them, their children, the children from their previous marriages, to celebrate a birthday.
+> 
+> How many children did Mr. Piano and Mrs. Sfera have from their marriage knowing that at the table, for their birthday, they were in MSK0 and that Mr. Piano was the father of the children present and Mrs. Sfera their mother?
+
+**Answer:** 5 figli
+[[src_bocconi_rosi_2010__Q11]]

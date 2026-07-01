@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q19
 parent: src_garasquadre_2006_pubblico
 competition: VII Gara Nazionale a Squadre 2006 - Gara del pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *massimo a 4 cifre*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9768
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*maximum of four digits*
+
+> At the divination lesson [10] Poor Ron was blindfolded and the divination teacher wrote a formula on the board. Knowing that in the expression there are only 2 digits and multiplication marks, and that the result has four digits and is the maximum possible, what answer should Ron give?
+> 
+> I'm going to pay. 4 out of 4  Team competition 2006  Public competition  Problem texts
+
+**Answer:** 9768
+[[src_garasquadre_2006_pubblico__Q19]]

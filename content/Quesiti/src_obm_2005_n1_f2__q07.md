@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f2__Q07
 parent: src_obm_2005_n1_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Areas of squares IJKL and MNOP from right-triangle arrangement*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area dei quadrati IJKL e MNOP da disposizione triangolare rettangolare*
+
+> Quattro pezzi uguali, ognuno a forma di triangolo rettangolo, erano disposti in due modi diversi, come mostrato nelle figure. I quadrati $ABCD$ e $EFGH$ hanno lati uguali rispettivamente a $3\,\text{cm}$ e $9\,\text{cm}$. Calcolare le superfici dei quadrati $IJKL$ e $MNOP$.
+
+![[src_obm_2005_n1_f2__Q07.png]]
+
+[[src_obm_2005_n1_f2__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2024_finale__Q08
 parent: src_kangourou_squadre_2024_finale
 competition: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Aumento percentuale del volume di un parallelepipedo*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0089
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Percentage increase in the volume of a parallel piped< MSK1/>
+
+> The box A box is shaped like a rectangular parallel-piped. If the length is increased by 50% and the width by 40%, and the height is decreased by 10%, by what percentage does the volume of the box increase? (Answer without the % symbol.)
+
+**Answer:** 0089
+[[src_kangourou_squadre_2024_finale__Q08]]

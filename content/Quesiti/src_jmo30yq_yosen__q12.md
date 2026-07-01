@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo30yq_yosen__Q12
 parent: src_jmo30yq_yosen
 competition: Japan Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max length of good sequence of distinct positive integers at most 30 with divisibility pattern*
 
@@ -52,3 +55,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 23
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza massima di buona sequenza di numeri interi positivi distinti non superiore a 30 con modello di divisibilità*
+
+> Per un intero positivo $k$, una sequenza di $k$ diversi interi positivi $a_1, a_2, \ldots, a_k$ è chiamata *buona sequenza* se soddisfa entrambe le seguenti condizioni: \begin{itemize} item \Tutti i termini sono al massimo $30$. \item Per ogni $i = 1, 2, \ldots, k-1$: se $i$ è pari, allora $a_{i+1}$ è un multiple di $a_i$; se $i$ è pari, allora $a_{i+1}$ è un divisore di $a_i$. Trova la lunghezza massima possibile di una buona sequenza.
+
+**Risposta:** 23
+[[src_jmo30yq_yosen__Q12]]

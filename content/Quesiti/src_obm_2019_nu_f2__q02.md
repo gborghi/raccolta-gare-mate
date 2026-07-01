@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2 —
   Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2019_nu_f2__Q02
 parent: src_obm_2019_nu_f2
 competition: Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2
@@ -39,6 +40,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of a continuous increasing function squeezed between consecutive iterated-exponential growth scales*
 
@@ -57,3 +60,15 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10ZZ53PN51VCIg4v8FeDtpK_VZe_GuZRq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Esistenza di una funzione in continua crescita compressa tra successive scale di crescita esponenziale iterata< MSK1/>
+
+> Diamo $\exp^{[0]} : \mathbb{R} \to \mathbb{R}$ da $\exp^{[0]}(x) = x$, per tutti $x \in \mathbb{R}$, e definiamo recursivamente, per ogni intero positivo $n$, le funzioni $\exp^{[n]} : \mathbb{R} \to \mathbb{R}$ da $$\exp^{[n]}(x) = e^{\exp^{[n-1]}(x)}, \quad \forall x \in \mathbb{R},$$ dove $e$ indica il numero di Euler. Diamo anche $\log^{[0]} : \mathbb{R} \to \mathbb{R}$ da $\log^{[0]}(x) = x$, per tutti $x \in \mathbb{R}$, e definiamo ricorritivamente, per ogni intero positivo $n$, le funzioni $\log^{[n]} : (\exp^{[n-1]}(0), +\infty) \to \mathbb{R}$ da $$\log^{[n]}(x) = \log(\log^{[n-1]}(x)), \quad \forall x \in (\exp^{[n-1]}(0), +\infty),$$ dove $\log$ è il logaritmo naturale. In altre parole, $\exp^{[n]}$ rappresenta la composizione della funzione esponenziale $n$ volte, e $\log^{[n]}$ rappresenta la composizione della funzione logaritmica $n$ volte, quando tale composizione può essere eseguita.
+> 
+> Prove che esiste una funzione continua e crescente $f : (0, +\infty) \to \mathbb{R}$ tale che per ogni $n \in \mathbb{N}$ abbiamo: $$\lim_{x \to +\infty} \frac{f(x)}{\exp^{[n]}(\log^{[n]}(x) + 1)} = +\infty$$ $$\lim_{x \to +\infty} \frac{f(x)}{\exp^{[n+1]}(\log^{[n+1]}(x) - 1)} = 0.$$
+
+[[src_obm_2019_nu_f2__Q02]]

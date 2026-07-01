@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_pubblico__Q03
 parent: src_archimede_2002_pubblico
 competition: Archimede 2002 - Gara del Pubblico (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *successione di interi*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0039
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> succession of integers < MSK1/>
+
+> < MSK0/>Distracted school year< MSK1/> (55 points)
+> 
+> During a boring class hour, Anna plays the following game. He writes on a sheet an integer $a_0$, then writes a sequence of integers $a_i$: each time taking as $a_{i+1}$ or the sum of the digits from the previous number or their product. After a while, you realize that all the numbers you wrote are odd. How many $a_i$ numbers with less than six digits for which at any time Anna stops and still decides to calculate $a_{i+1}$ according to the above rules will she always find and only odd numbers?
+
+**Answer:** 0039
+[[src_archimede_2002_pubblico__Q03]]

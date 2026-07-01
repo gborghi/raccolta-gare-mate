@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Finale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q06
 parent: src_kangourou_2015_squadre_f
 competition: Kangourou Coppa Squadre 2015 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo n con resti decrescenti dividendo per 10..2*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2519
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11h_SgvOFzLa5MkyUk9nA_Lj1BTGkSTzB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum n with decreasing residues divided by 10.2 < MSK1/>
+
+> Remains and Divisions What's the smallest positive integer that divided by 10 gives a remainder of 9, divided by 9 gives a remainder of 8, divided by 8 gives a remainder of 7 and so on until "divided by 2 gives a remainder of 1"?
+
+**Answer:** 2519
+[[src_kangourou_2015_squadre_f__Q06]]

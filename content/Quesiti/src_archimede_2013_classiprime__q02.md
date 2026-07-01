@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2013 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_classiprime__Q02
 parent: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Composizioni di un pasto con vincolo vino rosso/pesce*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Compositions of a meal bound by red wine/fish*
+
+> In the restaurant At the Zoo meals are made up of a second, a contour and a glass of wine. The second dish can be chosen from catfish, fishcake and steak; the outline between toasted potatoes, salad and peppers; the wine from white, red and pink. Whoever orders fish can't drink red wine. How many possible compositions of a meal? A 21 B 27 C 9 D 14 E 24 F 32
+
+**Answer:** A
+[[src_archimede_2013_classiprime__Q02]]

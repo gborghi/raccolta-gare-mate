@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2006 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2006__Q01
 parent: src_cn_cmc-complementary-test_2006
 competition: China Mathematical Competition (Complementary Test) 2006
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ellipse with foci B0,B1 cutting triangle sides; iterated arc construction yields concyclic points*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Elisse con foci B0, B1 lati di taglio triangolare; la costruzione di arco iterata produce punti conciclici*
+
+> Supponiamo un'ellisse con i punti $B_0$ e $B_1$ come i foci intercettano il lato $AB_i$ di $\triangle AB_0B_1$ a $C_i$ ($i = 0, 1$). Prendendo un punto arbitrario $P_0$ sulla linea di estensione di $AB_0$, tracciare un arco $\widehat{P_0Q_0}$ con $B_0$, $B_0P_0$ rispettivamente come centro e raggio, intercettando la linea di estensione di $C_1B_0$ a $Q_0$. Tracciare un arco $\widehat{Q_0P_1}$ con $C_1$, $C_1Q_0$ rispettivamente come centro e raggio, intercettando la linea di estensione di $B_1A$ a $P_1$. Tracciare un arco $\widehat{P_1Q_1}$ con $B_1$, $B_1P_1$ rispettivamente come centro e raggio, intercettando la linea di estensione di $C_0B_1$ a $Q_1$. Tracciare un arco $\widehat{Q_1P_0'}$ con $C_0$, $C_0Q_1$ rispettivamente come centro e raggio, intercettando la linea di estensione di $AB_0$ a $P_0'$. Prove che (1) $P_0'$ e $P_0$ coincidono e che gli archi $\widehat{P_0Q_0}$ e $\widehat{Q_1P_0'}$ sono tangenti tra loro a $P_0$; (2) i punti $P_0$, $Q_0$, $Q_1$, $P_1$ sono conciclici.
+
+![[src_cn_b07_w54__Q01.png]]
+
+[[src_cn_cmc-complementary-test_2006__Q01]]

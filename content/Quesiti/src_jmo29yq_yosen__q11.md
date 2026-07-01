@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo29yq_yosen__Q11
 parent: src_jmo29yq_yosen
 competition: Japan Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distinct values of f(k)=#{m: km mod 2019^3 > m}, k up to 2019^3*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 25
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Vari distinti di f(k)=#{m: km mod 2019^3 > m}, k fino a 2019^3*
+
+> Per $k = 1, 2, \ldots, 2019^3$, $f(k)$ deve essere il numero di integri positivi $m$ in modo tale che il rimanente di $km$ diviso per $2019^3$ sia maggiore di $m$. Quanti valori distinti sono presenti tra $f(1), f(2), \ldots, f(2019^3)$?
+
+**Risposta:** 25
+[[src_jmo29yq_yosen__Q11]]

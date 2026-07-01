@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q13
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra nella casella ? per somma massima con 2,0,1,9*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Number in the box? for a maximum of 2,0,1,9*
+
+![[src_kangourou_2019_ecolier_marzo__prob13.png]]
+
+> Stefano has numbers 2, 0, 1 and 9. In each of the boxes in the figure, you must insert one and use all of them. If you want the sum shown to give the greatest possible result, what figure should you enter in the box shown with the question mark? A) 0 or 1.
+> 	
+> B) 0 or 2.
+> 	
+> C) Necessarily 0. D) Necessarily 1. E) Necessarily 2.
+
+**Answer:** A
+[[src_kangourou_2019_ecolier_marzo__Q13]]

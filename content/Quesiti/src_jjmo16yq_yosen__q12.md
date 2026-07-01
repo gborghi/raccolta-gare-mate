@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo16yq_yosen__Q12
 parent: src_jjmo16yq_yosen
 competition: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum m so any two of 2018 circular stations can be connected within m minutes using local and express trains*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 124
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kd1TVGSchFgfQoYWGu97jdlpAwS4ecq_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum m in modo che due delle stazioni circolari del 2018 possano essere collegate entro m minuti utilizzando treni locali e espressi*
+
+> La ferrovia JJMO ha una linea circolare con stazioni $2018$ disposte in cerchio. Attualmente, i treni locali (sosta a ogni stazione) corrono in entrambe le direzioni intorno al cerchio, e ogni treno viaggia esattamente $1$ minuto tra le stazioni consecutive. Il presidente prevede di introdurre treni espressi che si fermano solo in un sottogruppo designato di stazioni (eleto dal presidente), viaggiando anche $1$ minuto tra fermate espresse consecutive. Trovare il numero intero positivo minimo $m$ in modo che il presidente possa scegliere le fermate espresse in modo che la seguente condizione sia valida:\n\nCondizione: Per due stazioni distinte $A$ e $B$, è possibile viaggiare da $A$ a $B$ in un massimo di $m$ minuti (i trasferimenti sono consentiti un numero qualsiasi di volte; i tempi di attesa e i tempi di trasferimento sono ignorati).
+
+**Risposta:** 124
+[[src_jjmo16yq_yosen__Q12]]

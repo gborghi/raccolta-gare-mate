@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q06
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero con N<N/2, N>2N e N+N^2=0*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number with N<N/2, N>2N and N+N^2=0*
+
+> A number is smaller than its half, larger than its double, and, if you add to its square, the result is 0. What's the number? A) −2 B) −1 C) 0
+>   
+> D) 1
+>   
+> E) 2 202,2 × 2,022
+
+**Answer:** B
+[[src_kangourou_2022_junior_gara__Q06]]

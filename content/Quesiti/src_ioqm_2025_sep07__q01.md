@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q01
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -30,6 +31,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *60% of x is 40; find x% of 60*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 40
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*60% di x è 40; trovare x% di 60*
+
+> Se $60\%$ di un numero $x$ è 40, allora cosa è $x\%$ di 60?
+
+**Risposta:** 40
+[[src_ioqm_2025_sep07__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Pre - gara marzo — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q24
 parent: src_kangourou_2020_pre_marzo
 competition: Kangourou 2020 Pre - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Biglie iniziali di Giovanni dopo due scambi*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Initial bags of John after two exchanges*
+
+![[src_kangourou_2020_pre_marzo__prob24.png]]
+
+> John and Stephen are exchanging balls. First John gives to Stephen as many baskets as he has; then Stephen gives to John as many baskets as John has after the first trade. After these two exchanges both have < MSK0/> bills. How many balls did John have in the beginning?
+>
+> - **(A)** $2$
+> - **(B)** $3$
+> - **(C)** $4$
+> - **(D)** $5$
+> - **(E)** $6$
+
+**Answer:** B
+[[src_kangourou_2020_pre_marzo__Q24]]

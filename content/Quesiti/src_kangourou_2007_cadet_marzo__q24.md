@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q24
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri autodescrittivi di 4 cifre*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many 4-digit self-descriptive numbers *
+
+> The first digit of a four-digit number is equal to the number of digits 0 of that number, the second digit is equal to the number of digits 1, the third digit is equal to the number of digits 2, and the fourth digit is equal to the number of digits 3. How many numbers are with this property? A) 0 B) 2 C) 3 D) 4 E) 5
+
+**Answer:** B
+[[src_kangourou_2007_cadet_marzo__Q24]]

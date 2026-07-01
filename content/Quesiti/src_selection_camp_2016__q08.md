@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2016 — Selection Camp — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2016__Q08
 parent: src_selection_camp_2016
 competition: Japan IMO Selection Camp 2016 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ratio BT/BM when circle through B,M meets sides at P,Q and BPTQ is parallelogram on circumcircle*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ratio BT/BM quando il cerchio attraversa B,M incontra i lati a P,Q e BPTQ è parallelo sul cerchio*
+
+> In un triangolo acuto $ABC$, $M$ deve essere il punto medio del lato $AC$. Un cerchio $\omega$ attraversa $B$ e $M$ e incontra i lati $AB$ e $BC$ rispettivamente nei punti $P$ e $Q$ (con $P \neq B$ e $Q \neq B$). Il punto $T$ deve essere tale che $BPTQ$ sia un parallelo. Se $T$ si trova sul circoncircolo del triangolo $ABC$, si trova il valore di $\dfrac{BT}{BM}$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+[[src_selection_camp_2016__Q08]]

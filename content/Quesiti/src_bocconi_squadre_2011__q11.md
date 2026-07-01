@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2011 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2011__Q11
 parent: src_bocconi_squadre_2011
 competition: Gara a Squadre 2011
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima somma di numeri a due cifre con cifre da 1 a 9*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 396
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csoOdxkAD8Fd4QvzRpEPzVVVOCkJ8l1C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum sum of two-digit numbers with digits from 1 to 9*
+
+> But look at that combination! Between three digits, choosing between those ranging from 1 to 9 (included), you can write six two-digit numbers. Adding these six numbers together, you get a number made up of the same three numbers. What is the maximum value of this sum?
+
+**Answer:** 396
+[[src_bocconi_squadre_2011__Q11]]

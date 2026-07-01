@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo15yq_yosen__Q06
 parent: src_jjmo15yq_yosen
 competition: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two circles tangent to two lines; find TU given PT=1 and a midpoint condition*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\sqrt{3}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi tangenti a due linee; trovare TU data PT=1 e una condizione di punto medio*
+
+> Nel piano ci sono due linee $l$ e $m$ che si incrociano al punto $S$. C'è un punto $P$ sulla linea $m$ distinto da $S$. Due cerchi distinti $\alpha$ e $\beta$ sono ciascuna tangente alla linea $m$ al punto $P$, e sono tangenti alla linea $l$ rispettivamente ai punti $T$ e $U$. Il $Q$ deve essere l'intersezione della linea $PU$ con $\alpha$ diversa da $P$. Quando il segmento $PT$ passa attraverso il punto medio del segmento $SQ$ e la lunghezza del segmento $PT$ è $1$, trovare la lunghezza del segmento $TU$.
+
+**Risposta:** \sqrt{3}
+[[src_jjmo15yq_yosen__Q06]]

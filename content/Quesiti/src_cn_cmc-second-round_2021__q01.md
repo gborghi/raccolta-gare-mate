@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Second Round) 2021 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-second-round_2021__Q01
 parent: src_cn_cmc-second-round_2021
 competition: China Mathematical Competition (Second Round) 2021
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Finitely many integer arrays satisfying weighted factorial sum zero*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Finamente molte matrici di numeri interi che soddisfano la somma fattoriale ponderata zero*
+
+> (Test Paper A, Problema 1) Date le cifre reali positive $k$ ($k \geq 2$) e $k$ non-zero $a_1, a_2, \ldots, a_k$, dimostrare che ci sono al massimo finitamente molte matrici di numeri interi $k$-elemento $(n_1, n_2, \ldots, n_k)$ che soddisfano che $n_1, n_2, \ldots, n_k$ sono parimenti distinte e $$a_1 \cdot n_1! + a_2 \cdot n_2! + \cdots + a_k \cdot n_k! = 0.$$
+
+[[src_cn_cmc-second-round_2021__Q01]]

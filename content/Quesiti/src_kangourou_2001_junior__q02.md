@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Junior (15 marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_junior__Q02
 parent: src_kangourou_2001_junior
 competition: Kangourou 2001 - Junior (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizione di A nella fila*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Position of A in the row*
+
+> Students A, B, C, D, E, and F are in the Indian queue. We know that: 1) D is between E and F; 2) C is between D and E; 3) B is between C and D; 4) A is between B and C. Which of the following statements is true?
+>
+> Kangourou 15 March 2001. Junior class. This item is not intended to be used. 2
+>
+> - **(A)** A is at one end (right or left) of the row
+> - **(B)** A is the second from one of the ends
+> - **(C)** A is the third from one of the ends
+> - **(D)** Such a provision is not possible.
+> - **(E)** This provision is possible, but the position of A cannot be determined uniquely.
+
+**Answer:** C
+[[src_kangourou_2001_junior__Q02]]

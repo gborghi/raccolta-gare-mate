@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2025_femminile__Q14
 parent: src_squadre_2025_femminile
 competition: Gara a Squadre Femminile 2025 - VIII Finale
@@ -26,6 +27,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita polinomio cubico con 3 radici intere distinte*
 
@@ -53,3 +56,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 106
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of a cubic polynomial with 3 distinct whole roots*
+
+> What's the matter, boys? Hit by one of Doofenshmirtz's rays, Phineas and Ferb lose their creativity. Candace tries to make them recover, subjecting them to various creative stimuli. Desperate, she writes the polynomial 3 2 10 x ax bx    and states that a , b can only be distinct integers with absolute value less than or equal to 7. He asks the two brothers to calculate the probability that the polynomial has 3 distinct whole roots. Something awakens in the subconscious of the two brothers who give the correct answer together. What response did they give to their sister? (Give the sum between numerator and denominator of the fraction reduced to minimum terms.)
+
+**Answer:** 106
+[[src_squadre_2025_femminile__Q14]]

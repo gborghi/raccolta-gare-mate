@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2015-16 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2015-16_round1__Q01
 parent: src_bmo_2015-16_round1
 competition: British Mathematical Olympiad 2015-16 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Anna buys books and shelves; count dates where books is multiple of shelves.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Anna acquista libri e scaffali; conta le date in cui i libri sono più scaffali.*
+
+> Giovedì 1 gennaio 2015, Anna compra un libro e uno scaffale. Per i prossimi due anni, compra un libro ogni giorno e uno scaffale ogni giovedì, quindi il prossimo scaffale viene acquistato il 15 gennaio 2015. Su quante date nel periodo Giovedì 1 gennaio 2015 fino al sabato 31 dicembre 2016 inclusi Anna ha un numero di libri che è un esatto moltiplo del numero di scaffali che ha?
+
+[[src_bmo_2015-16_round1__Q01]]

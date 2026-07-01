@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q15
 parent: src_archimede_2012_febb_2livello
 competition: Archimede Gara Febbraio 2012 (8 feb) - 2 livello
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ciclostilato di n multiplo di 9 e di 11*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Cyclostillate of n multiples of 9 and 11< MSK1/>
+
+> Given any positive integer n, we call cyclostilate of n the number that is obtained by concatenating 2012 letters of n (based on 10). For example , the cyclostilate of 314 is 314314314 . . . 314, where the numbers 314 are repeated 2012 times. (a) Determine all positive integers m such that the cyclostilate of m is a multiple of 9. (b) Determine all positive integers m such that the cyclostilate of m is multiple 11.
+
+[[src_archimede_2012_febb_2livello__Q15]]

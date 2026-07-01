@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier gara individuale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q12
 parent: src_kangourou_2022_ecolier_gara
 competition: Kangourou 2022 Ecolier gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante sedie in cortile*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many seats in the yard< MSK1/>
+
+> In the school yard, a few rows of chairs were lined up. Each row contains the same number of seats. There are two rows of chairs in front of the row where Roberto is sitting and a row behind him. There are 3 chairs on your left and 5 on your right in your row. How many chairs have been put in the yard? A) 24
+>   
+> B) 27
+>   
+> C) 32 D) 35 E) 36
+
+**Answer:** E
+[[src_kangourou_2022_ecolier_gara__Q12]]

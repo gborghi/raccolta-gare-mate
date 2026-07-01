@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Region 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_r3__Q06
 parent: src_rmo_2014_r3
 competition: Regional Mathematical Olympiad 2014
@@ -35,6 +36,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-digit numbers n with S(S(n))=2*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13_r8SR8Qx6OYP_4_ONgiazaLStX1681S/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri a 3 cifre n con S(S(n))=2*
+
+> Per qualsiasi numero naturale $n$, $S(n)$ indica la somma delle cifre di $n$. Trova il numero di tutti i numeri a 3 cifre $n$ in modo tale che $S(S(n)) = 2$.
+
+[[src_rmo_2014_r3__Q06]]

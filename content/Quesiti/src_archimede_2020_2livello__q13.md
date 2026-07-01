@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2020 - 2° livello — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_2livello__Q13
 parent: src_archimede_2020_2livello
 competition: Archimede Gara di Febbraio 2020 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Combinazione cassaforte con condizioni divisibilità 11*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 64
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Combination of safe with divisibility conditions 11*
+
+> The burglar Fabio is grappling with a safe guarded by a combination of five digits, each between 1 and 9. Fortunately for him, the poor housewives left a note with some indication: They are a, b, c, d and e, in order, the five digits of the combination. So both ae and abe and abde, read as numbers in base 10, are divisible by 11, but abcde is not. How many attempts will Fabio have to make to be sure he can open the safe?
+
+**Answer:** 64
+[[src_archimede_2020_2livello__Q13]]

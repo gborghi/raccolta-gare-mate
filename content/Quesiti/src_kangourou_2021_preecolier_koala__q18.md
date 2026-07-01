@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q18
 parent: src_kangourou_2021_preecolier_koala
 competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frutti rimasti dopo le trasformazioni della maghetta*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Fruits left after the magnet has been transformed< MSK1/>
+
+![[src_kangourou_2021_preecolier_koala__prob18.png]]
+
+> A maggot enjoys turning fruit. Every time he has three apples, he turns them into one banana. Every time he has three bananas, he turns them into an apple. If you start with 4 apples and 5 bananas, what will you have left when you can no longer transform? (see figure)
+
+**Answer:** A
+[[src_kangourou_2021_preecolier_koala__Q18]]

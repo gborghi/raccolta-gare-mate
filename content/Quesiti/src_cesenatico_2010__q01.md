@@ -1,6 +1,7 @@
 ---
 title: XXVI Olimpiade Italiana Cesenatico 2010 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2010__Q01
 parent: src_cesenatico_2010
 competition: XXVI Olimpiade Italiana Cesenatico 2010
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *medie promossi/bocciati prima e dopo +5*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (a) 12,24,36; (b) nessun N
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jvO86zea0xNNLnuyY0Trw1eMPf_hKR9u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*mediums promoted/received before and after +5*
+
+> N < 40 people take part in a math test. Sufficiency is set at 65. The results of the test are as follows: the average of all participants is 66, that of the promoted 71 and that of the rejected 56. However, due to an error in the formulation of a question, all scores are increased by 5. At this point, the average of the promoted becomes 75 and the average of the unpromoted becomes 59. (a) Find all possible values of N. (b) Find all possible values of N if, after the increase, the average of the promoted had become 79 and that of the non-promoted 47.
+
+**Answer:** (a) 12,24,36; (b) nessun N
+[[src_cesenatico_2010__Q01]]

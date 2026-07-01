@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Junior (gara marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_junior__Q21
 parent: src_kangourou_2011_junior
 competition: Kangourou 2011 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area dorata sulla superficie del cubo decorato*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1AJCl_AfEoFXnuVsI8nXmEWfRHRXKCZ3O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Gold area on the surface of the decorated cube*
+
+![[src_kangourou_2011_junior__prob21.png]]
+
+> Simone has a glass cube a tenth of an inch on the side. Using gold, square-shaped adhesives, all of which are equal, he decorated the surface of the cube as shown in the figure, so that the faces of the cube all have the same decoration. What is the area in square centimetres of the portion of the surface of the cube that appears golden? A) 37,5 B) 150 C) 375 D) 300 E) 225
+
+**Answer:** E
+[[src_kangourou_2011_junior__Q21]]

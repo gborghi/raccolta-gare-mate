@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q18
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro triangolo equilatero dato perimetro quadrato 4*
 
@@ -66,3 +69,32 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of an equilateral triangle given the square perimeter 4*
+
+![[src_kangourou_2016_student_marzo__prob18.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \def\a{0.5774}
+  \def\h{1.866}
+  \draw (0,0) rectangle (1,1);
+  \draw (-\a, 0) -- (0.5, \h) -- (1+\a, 0) -- cycle;
+\end{tikzpicture}
+\end{document}
+```
+
+> The perimeter of the square drawn in Figure 4 is 4; what is the perimeter of the equilateral triangle? A) 4
+> 	
+> B) 3+√3 C) 3
+> 	
+> D) 3+√2 E) 4+√3 xn 23 24 211 216 2768
+>
+
+**Answer:** B
+[[src_kangourou_2016_student_marzo__Q18]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2011-12 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2011-12_round1__Q02
 parent: src_bmo_2011-12_round1
 competition: British Mathematical Olympiad 2011-12 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest t so that 1,2,...,k can be arranged with adjacent divisibility*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11HCcdsiM5Z_EBux5bkPxFtRt_AAHPof5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*T più grande in modo che 1,2,...,k possa essere disposta con divisibilità adiacente*
+
+> Considerate i numeri $1, 2, \ldots, k$. Trova, in termini di $n$, il più grande intero $t$ in modo tale che questi numeri possano essere disposti in una riga in modo che tutti i numeri adiacenti si dividano tra loro.
+
+[[src_bmo_2011-12_round1__Q02]]

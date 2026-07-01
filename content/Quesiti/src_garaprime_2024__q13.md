@@ -1,6 +1,7 @@
 ---
 title: IX Gara Nazionale Classi Prime 2024 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2024__Q13
 parent: src_garaprime_2024
 competition: IX Gara Nazionale Classi Prime 2024
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero non puo essere prodotto dei divisori*
 
@@ -54,3 +57,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which number cannot be produced from the dividers< MSK1/>
+
+> Emanuele calculates the product of all the divisors of a number (including the number itself) and writes the result on a sheet. Which of the following numbers can't he have written? A) 1 B) 100 C) 101 D) 512 E) 1024 The correct answer is D The number that Emmanuel cannot have written is 512. In fact if a number is divisible by 2n, then it is also divisible by 2n−1, 2n−2, ..., 22, 2, 1, whose product is equal to 2n∙2n−1 ∙... ∙22 ∙2 ∙1 = 2n+(n−1) ++2+1 = 2 n∙(n+1) 2 . So it's 512 = 29, and there's no natural n such that n∙(n+1) 2 = 9. All the other numbers are instead the product of the divisors of a number: 1 is the product of the divisors of 1, 100 of 10, 101 of 101 and 1024 of 16.
+
+**Answer:** D
+[[src_garaprime_2024__Q13]]

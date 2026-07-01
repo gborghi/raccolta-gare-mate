@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1996 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1996_r1__Q05
 parent: src_pol_1996_r1
 competition: Olimpiade Matematica Polacca 1996 — Round 1
@@ -38,6 +39,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with obtuse angle CAB; PQ a segment with midpoint A; show BP + CQ >= (alpha/2) BC tangent relation*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con angolo obtuso CAB; PQ un segmento con punto medio A; mostrare BP + CQ >= (alfa/2) BC relazione tangente*
+
+> In un triangolo $ABC$, l'angolo $\angle CAB$ è obtuso. Il segmento $PQ$ deve essere qualsiasi segmento il cui punto medio è $A$. Mostrare che $BP + CQ \ge \tan\frac{\angle CAB}{2}\cdot BC$.
+
+[[src_pol_1996_r1__Q05]]

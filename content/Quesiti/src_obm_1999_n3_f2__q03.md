@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f2__Q03
 parent: src_obm_1999_n3_f2
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest n for rearrangement of (3,6,9,12) making an expression an integer*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D3JkG3FwszG4Cj9u9XDmjhQiLYRED5MN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N più piccolo per la riorganizzazione di (3,6,9,12) che rende un'espressione un numero intero*
+
+> Determinare il numero intero più grande $n$ per il quale esiste una riorganizzazione $(a, b, c, d)$ di $(3, 6, 9, 12)$ tale che $$\sqrt[4]{a\sqrt[3]{b\sqrt{c^{\,d}}}}$$ sia un numero intero. Giustifica la tua risposta.
+
+[[src_obm_1999_n3_f2__Q03]]

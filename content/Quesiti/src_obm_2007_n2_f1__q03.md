@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f1__Q03
 parent: src_obm_2007_n2_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equilateral triangle and square with parallel sides, find angle x*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo e quadrato equilaterali con lati paralleli, trovare angolo x*
+
+> Nella figura, il lato $\overline{AB}$ del triangolo equilaterale $ABC$ è parallelo al lato $\overline{DG}$ del quadrato $DEFG$. Qual è il valore dell'angolo $x$?
+> 
+> (A) $80^\circ$ $\quad$ (B) $90^\circ$ $\quad$ (C) $100^\circ$ $\quad$ (D) $110^\circ$ $\quad$ (E) $120^\circ$
+
+![[src_obm_2007_n2_f1__Q03.png]]
+
+**Risposta:** D
+[[src_obm_2007_n2_f1__Q03]]

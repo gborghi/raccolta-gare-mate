@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q13
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero al posto del ? con somme uguali sulle circonferenze*
 
@@ -54,3 +57,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Number in place of ? with equal sums on the circumferences*
+
+![[src_kangourou_2021_junior_marzo__prob13.png]]
+
+> Note the figure: each point where two circumferences intersect is covered by a circular label. Each label must contain one of the integers 1 to 6 and each of them must be used. Adding the numbers that appear along the individual circumferences must always yield the same result. Number 6 has already been entered. What number should be inserted in the question mark? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 5
+
+**Answer:** A
+[[src_kangourou_2021_junior_marzo__Q13]]

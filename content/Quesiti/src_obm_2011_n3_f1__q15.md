@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f1__Q15
 parent: src_obm_2011_n3_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Logic puzzle: maximum number of ET-nerds Bruberson spoke with among four speakers*
 
@@ -56,3 +59,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il puzzle logico: il numero massimo di ET-nerds con cui Bruberson ha parlato tra i quattro altoparlanti
+
+> Sul pianeta Nerdia esistono tre specie di nerd: nerd ET, nerd UFO e nerd UFO. Il primo dice sempre la verità, il secondo mente sempre, e il terzo a volte mente, a volte dice la verità. Certamente Bruberson, un membro di una di queste specie, incontra quattro nerd e dicono:
+> 
+> $X$: "Oggi è nuvoloso". $Y$: "Il nerd che ha appena finito di parlare sta mentendo". $Z$: "Oggi non è nuvoloso". $W$: "Il primo nerd a parlare o io sono un nerd ET".
+> 
+> Con quanti nerd extraterrestri ha parlato Bruberson, al massimo?
+> 
+> (A) 0 (B) 1 (C) 2 (D) 3 (E) 4
+
+[[src_obm_2011_n3_f1__Q15]]

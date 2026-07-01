@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2008 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2008__Q01
 parent: src_bocconi_autunno_2008
 competition: Giochi d'Autunno 2008
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di due cifre ritrovato dopo operazioni sulle cifre*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 45
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of two digits found after operations on the digits*
+
+> I wrote a two-digit number (which doesn't end with zero). Then I deleted the first number, the number of tens. Finally, I multiplied the remaining number (of a single digit) by 9. Surprise: I find the number I started from! What was that number?
+
+**Answer:** 45
+[[src_bocconi_autunno_2008__Q01]]

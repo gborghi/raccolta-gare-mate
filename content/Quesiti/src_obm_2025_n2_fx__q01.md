@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2025_n2_fx__Q01
 parent: src_obm_2025_n2_fx
 competition: Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum digit-sum of a power of 2 with at least two digits*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CcXWhSqND26SnC8adQX6Fy1P4X3uridO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum-digit-sum di una potenza di 2 con almeno due cifre*
+
+> Determinare il valore minimo possibile per la somma delle cifre di una potenza di $2$ che ha almeno due cifre e giustificare perché non è possibile trovare una potenza di $2$ con una somma di cifre più piccola. Trova una potenza di $2$ la cui somma digitali è uguale alla risposta trovata.
+
+[[src_obm_2025_n2_fx__Q01]]

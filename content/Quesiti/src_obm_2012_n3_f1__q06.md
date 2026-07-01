@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f1__Q06
 parent: src_obm_2012_n3_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-digit numbers ABC with ABC + BCA + CAB = AAA times 10*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri a 3 cifre ABC con ABC + BCA + CAB = AAA × 10*
+
+> Le cifre $A$, $B$, $C$ non sono zero e formano i numeri $\overline{ABC}$, $\overline{BCA}$ e $\overline{CAB}$ in modo tale che $\overline{ABC} + \overline{BCA} + \overline{CAB} = \overline{AAA} \times 10$. Quanti numeri < MSK7/> esistono?
+> 
+> **A) ** 6 $\quad$ **B) ** 8 $\quad$ **C) ** 9 $\quad$ **D) ** 15 $\quad$ **E) ** nessuno
+
+[[src_obm_2012_n3_f1__Q06]]

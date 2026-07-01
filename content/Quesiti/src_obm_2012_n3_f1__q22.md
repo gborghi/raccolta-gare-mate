@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f1__Q22
 parent: src_obm_2012_n3_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Side of Morley triangle of isosceles right triangle with legs 2*
 
@@ -50,3 +53,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Side del triangolo Morley di triangolo rettangolo con gambe 2*
+
+> Il teorema * di Morley* afferma che, disegnando le linee che dividono ogni angolo interno di un triangolo in tre angoli uguali, otteniamo un triangolo equilaterale chiamato il triangolo *Morley di $ABC$*, come evidenziato in dettaglio nella figura seguente.
+> 
+> Qual è la misura del lato del triangolo di Morley di un triangolo rettangolo di uguali pollici le cui gambe misurano 2?
+> 
+> **A)** $2\sqrt{2} - \sqrt{6}$ $\quad$ **B)** $\sqrt{3} - \sqrt{2}$ $\quad$ **C)** $\sqrt{6} - 2$ $\quad$ **D)** $2 - \sqrt{3}$ $\quad$ **E)** $2\sqrt{3} - \sqrt{6}$
+
+![[src_obm_2012_n3_f1__Q22.png]]
+
+[[src_obm_2012_n3_f1__Q22]]

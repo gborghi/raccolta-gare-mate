@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2021 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2021__Q22
 parent: src_smc_2021
 competition: Senior Mathematical Challenge 2021
@@ -34,6 +35,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with angles 60°, 45°, 75° inscribed in a circle of radius 2; find its area.*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un triangolo con angoli 60°, 45°, 75° incisi in un cerchio di raggio 2; trova la sua superficie.*
+
+> Un triangolo con angoli interni $60^{\circ}$, $45^{\circ}$ e $75^{\circ}$ è inserito in un cerchio di raggio $2$. Qual è l'area del triangolo?
+>
+> - **(A)** $2\sqrt{3}$
+> - **(B)** $4$
+> - **(C)** $6 + \sqrt{3}$
+> - **(D)** $6\sqrt{3}$
+> - **(E)** $3 + \sqrt{3}$
+
+![[src_smc_2021__Q22.png]]
+
+**Risposta:** E
+[[src_smc_2021__Q22]]

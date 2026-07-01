@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2014__Q09
 parent: src_prmo_2014
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2014
@@ -33,6 +34,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of all possible values of q given conditions on roots of two quadratics*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di tutti i valori possibili di q di determinate condizioni sulle radici di due quadratici*
+
+> I numeri naturali $p, q, r$ sono tali che $a$ e $b$ sono radici di $x^2 - px + 1 = 0$ e $a + \frac{1}{b}$ e $b + \frac{1}{a}$ sono radici di $x^2 - rx + q = 0$. Qual è la somma di tutti i valori possibili di $q$?
+
+**Risposta:** 10
+[[src_prmo_2014__Q09]]

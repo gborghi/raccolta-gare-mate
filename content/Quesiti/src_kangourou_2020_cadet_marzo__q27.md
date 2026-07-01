@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q27
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante gocce di colla nella piramide di sferette 4x4*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many glue drops in the pyramid of 4x4 spheres < MSK1/>
+
+![[src_kangourou_2020_cadet_marzo__prob27.png]]
+
+> Claudio builds a pyramid using the same metal spheres. The base square is formed by 4×4 spheres, as shown in the figure; the following planes are formed by 3×3 spheres, 2×2 spheres and finally by a sphere. The four squares (projected on the base plane) are concentric, and their sides are parallel. Claudio puts a drop of glue in each point of contact between two spheres. How many drops of glue do you use to build the pyramid? A) 72
+> 	
+> B) 85
+> 	
+> C) 88
+> 	
+> D) 92
+> 	
+> E) 96
+
+**Answer:** E
+[[src_kangourou_2020_cadet_marzo__Q27]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q24
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di a^2 b+b^2 c+c^2 a per radici di x^3-10x^2-25x+125*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of a^2 b+b^2 c+c^2 a for roots of x^3-10x^2-25x+125*
+
+> The polynomial eye [80] An innate ability of Sekante's clan allows for evaluating in an instant any combination of the roots of a polynomial. Today Sekante has discovered that he also possesses this ability. In fact, if a > b > c are the three roots of the polynomial x3 −10x2 −25x+125, he immediately calculated the exact value of a2b+b2c+c2a. What's this value?
+
+[[src_cesenatico_2007_squadre_pubblico__Q24]]

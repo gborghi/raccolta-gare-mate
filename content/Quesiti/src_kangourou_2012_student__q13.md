@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q13
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale minima del gruppo che ha fatto tutti i viaggi*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum percentage of the group that made all trips*
+
+> The set of solutions to the dissection of \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \\\\\\\\\\\\\\\\\\\\\\\\ B) (-3, 3) . C) (-∞, -3). D) (-3, +∞) . (e) the sum of all real numbers. α
+> 
+> I'm going to pay. I'm going to pay. 29 29 Kang 2012 Kang
+
+[[src_kangourou_2012_student__Q13]]

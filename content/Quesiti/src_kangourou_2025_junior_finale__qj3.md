@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2025 Junior finale — Quesito J3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2025_junior_finale__QJ3
 parent: src_kangourou_2025_junior_finale
 competition: Kangourou 2025 Junior finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti modi 270 come somma interi consecutivi*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yaW5s2uqbSzbhTrfez8BLdVGZTxAKedo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>In as many as 270 ways as consecutive integers < MSK1/>
+
+> How many different ways can < MSK0/> be obtained by adding consecutive positive integers?
+
+**Answer:** 7
+[[src_kangourou_2025_junior_finale__QJ3]]

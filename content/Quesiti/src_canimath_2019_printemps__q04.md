@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2019 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_printemps__Q04
 parent: src_canimath_2019_printemps
 competition: Coupe Animath Printemps 2019
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Frogs on 10x10 grid; visible sums hit 10^1,...,10^10; find largest k*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Righe su griglia 10x10; somma visibile raggiunge 10^1,...,10^10; trovare k più grande *
+
+> Considera una grande griglia quadrata di lato $10$, divisa in unità quadrate di lato $1$. Due unità quadrate sono chiamate vicine se condividono un lato. In ogni unità quadrata è scritto un numero reale. Inoltre, le rane $5$ sono posizionate sulla griglia; da un istante all'altro ciascuna rane può spostarsi in un quadrato vicino. A ogni istante ogni rana legge il numero nel suo quadrato corrente.
+> 
+> Supponiamo che la somma dei numeri visibili a tutte e cinque le rane sia $10^1$ all'istante $1$, $10^2$ all'istante $2$, $10^3$ all'istante $3$, e in generale $10^k$ all'istante $k$. Qual è il valore più grande possibile di $k$ per il quale la somma può essere uguale a $10^k$?
+
+[[src_canimath_2019_printemps__Q04]]

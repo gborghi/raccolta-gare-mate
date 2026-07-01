@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f3__Q02
 parent: src_obm_1998_n3_f3
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with D midpoint of AB, E on BC with BE=2EC, equal angles; find angle BAC*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con D punto medio di AB, E su BC con BE=2EC, angoli uguali; trovare angolo BAC*
+
+> Nel triangolo $ABC$, $D$ è il punto medio di $AB$ e $E$ è il punto laterale $BC$ in modo tale che $BE = 2 \cdot EC$. Dato che gli angoli $\widehat{ADC}$ e $\widehat{BAE}$ sono uguali, trovare l'angolo $\widehat{BAC}$.
+
+[[src_obm_1998_n3_f3__Q02]]

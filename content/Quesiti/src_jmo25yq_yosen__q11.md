@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo25yq_yosen__Q11
 parent: src_jmo25yq_yosen
 competition: Japan Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find area of triangle ABC given areas of three sub-triangles formed by arc midpoints*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\dfrac{288}{35}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1puWzUo8OLdW2kCIHzGHhZaVauCRdH9Ya/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'area del triangolo ABC dato alle aree di tre sotto-triangoli formati da punti di centro d'arco*
+
+> Che $\triangle ABC$ sia un triangolo inciso in un cerchio. Il $A'$ deve essere il punto medio dell'arco $BC$ senza $A$, il $B'$ deve essere il punto medio dell'arco $CA$ senza $B$ e il $C'$ deve essere il punto medio dell'arco $AB$ senza $C$. Le superfici di $\triangle A'B'C'$, $\triangle AB'C'$ e $\triangle A'BC'$ sono rispettivamente $2$, $3$ e $4$. Trova la superficie di < MSK16/>.
+
+**Risposta:** \dfrac{288}{35}
+[[src_jmo25yq_yosen__Q11]]

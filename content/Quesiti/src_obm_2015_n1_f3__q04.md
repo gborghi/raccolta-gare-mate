@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f3__Q04
 parent: src_obm_2015_n1_f3
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cryptarithmetic expression with 8 distinct nonzero digits; prove and solve*
 
@@ -54,3 +57,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A4n9VY8yk1SWcaPg0PlLbiBARNe-p_1v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Espressione aritmetica criptografica con 8 diversi numeri non-zero; prova e risolvi*
+
+> Nell'espressione seguente, ogni lettera rappresenta una cifra non zero e due lettere diverse rappresentano cifre diverse: $$( F + E + L + Z ) \times ( A + N + O ) \times ( N + O + V + O )$$
+> 
+> a) Se i valori delle lettere sono assegnati in ordine alfabetico (cioè $A \le E \le F$, ecc.), qual è il valore dell'espressione?
+> 
+> b) Indicare che il valore dell'espressione non può mai essere uguale a $2015$.
+> 
+> c) Trovare il valore di ciascuna lettera nell'uguaglianza: $$( F + E + L + Z ) \times ( A + N + O ) \times ( N + O + V + O ) = 1715$$
+
+[[src_obm_2015_n1_f3__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2023 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo33hq_honsen__Q04
 parent: src_jmo33hq_honsen
 competition: Japan Mathematical Olympiad 2023 — Honsen (Final)
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers n for which (phi(n)^phi(n) - 1) / d(n) is not an integer*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VHuJXp0L8AAwmYvzBeWsGkyY-LQ1btx2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli integri positivi n per i quali (phi(n)^phi(n) - 1) / d(n) non è un intero*
+
+> Trovare tutti gli integri positivi $n$ in modo che $$\frac{\varphi(n)^{\varphi(n)} - 1}{d(n)}$$ non sia un intero. Qui $\varphi(n)$ indica il numero di integri da $1$ a $n$ che sono copriemi a $n$ (funzione totiente di Euler), e $d(n)$ indica il numero di divisori positivi di $n$.
+
+[[src_jmo33hq_honsen__Q04]]

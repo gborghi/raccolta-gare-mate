@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q23
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti mentitori nel gruppo (risposte 1,2,3,4)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many liars in the group (answers 1,2,3,4) < MSK1/>
+
+> In one country everyone knows each other: some of them always lie, while others always tell the truth. We meet a group of four people from this country and we ask each of them, how many of you are liars? We get the following four different answers: 1, 2, 3, 4. How many really lie in that group of people? A) 0 B) 1 C) 2 D) 3 E) 4
+
+**Answer:** D
+[[src_kangourou_2003_ecolier__Q23]]

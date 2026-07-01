@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q19
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Min decapitazioni d(2013) con d polinomio intero*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3080
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Min decapitations d(2013) with d polynomial *
+
+> A macabre head-to-head The Q cards of hearts are very worried: not a day goes by that you don't hear the scream Cut off his head! They also keep a record of how many capital executions there are every day. Recently they recorded this data: d(2002) = 11 d(2006) = 7 d(2008) = 5 d(2009) = 4 d(2011) = 2 where d(t) = h is the decapitation function and indicates that h heads were cut off on the day t of the report (a negative number indicates people pardoned). Recently, papers have realized that for a Q-shaped heart, d is a polynomial with integer coefficients. Today is the 2013 report day and Q is very nervous about the croquet game, so the number will inevitably be a positive integer. How many heads will roll at least today?
+
+**Answer:** 3080
+[[src_cesenatico_2013_finale__Q19]]

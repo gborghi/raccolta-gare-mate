@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_c__Q06
 parent: src_cesenatico_2011_semifinale_c
 competition: Gara a Squadre Cesenatico 2011 - Semifinale C
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo minimo attraversando foresta circolare*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0135
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum time travelling through circular forest*
+
+> Abelix and the magic plant Parabolix must prepare a new magic potion and to do so he needs a plant that grows beyond the forest of Sternbrocaud. So send Abelix to pick this plant. Abelix knows that the plant is 20km away from him, while halfway there is the centre of the Sternbrocaud forest, which is shaped like a circle with a radius of 5km. Abelix also knows that inside the forest it travels at 5km/h while outside it travels at 10km/h. What is the minimum time in minutes that Abelix takes to reach the plant?
+
+**Answer:** 0135
+[[src_cesenatico_2011_semifinale_c__Q06]]

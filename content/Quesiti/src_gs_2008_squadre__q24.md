@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q24
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Profezia di Agnes Nutter, vero/falso e divisibilita*
 
@@ -56,3 +59,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2053
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Prophecy by Agnes Nutter, true/false and divisibility
+
+> Agnes Nutter's prophecy made it possible to determine exactly what the year would have been. of the events of the Apocalypse. In the prophecy, Agnes declared that the Apocalypse would occur before 10,000 C.E. and that the following indications were definitely false or true:
+> 
+> 1. Equal sentences are always true. 2. The next two sentences are both false. 3. If I subtract the number of true sentences from $N$, we get a power of 2. 4. If I take the number of the first false sentence from $N$, you get a multiple of 3. 5. The two sentences before this are both true. 6. The first six sentences have at least five false ones. 7. The number of divisors of $N$ is given by the number of false sentences. 8. Subtracting to $N$ the number of the first false sentence after this one, you get a power of 3. 9. The last seven sentences have more false than true sentences. 10. True sentences are more than false. 11. There's five false sentences in a row. 12. If I add the number of the last true sentence to $N$, we get a multiple of 7. 13. The last three sentences are either all true or all false.
+> 
+> What was the year of Agnes Nutter's prophecy?
+
+**Answer:** 2053
+[[src_gs_2008_squadre__Q24]]

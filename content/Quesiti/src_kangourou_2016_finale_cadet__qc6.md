@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 finale nazionale Cadet — Quesito C6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_finale_cadet__QC6
 parent: src_kangourou_2016_finale_cadet
 competition: Kangourou 2016 finale nazionale Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *giorni di ponte in piu*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oqrEh6WLA1jn7meM9kqx809sdukOIBbT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>days of additional bridge < MSK1/>
+
+> In the strange Kang Republic, years last $3000$ days, numbered from $1$ to $3000$. Holidays are those whose number is divisible by < MSK3/> or is a prime number; the others are working days. If every "bridge" day, that is, a working day preceding and followed by a holiday, were added to the holidays, how many more holidays would there be in each year?
+
+**Answer:** 2
+[[src_kangourou_2016_finale_cadet__QC6]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q09
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza sul cartello spezzato tra tre citta*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Distance on the broken sign between three cities
+
+![[src_kangourou_2020_junior_marzo__prob9.png]]
+
+> The shortest road connecting Atown to Cetown runs through Betown. Along the path from Atown to Cetown are in order, but on opposite sides of the road, the two road signs depicted in the figure. What distance was written on the broken sign? A) 1 km B) 2 km C) 3 km D) 4 km E) 5 km
+
+**Answer:** B
+[[src_kangourou_2020_junior_marzo__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2016 — Region 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2016_r2__Q02
 parent: src_rmo_2016_r2
 competition: Regional Mathematical Olympiad 2016
@@ -33,6 +34,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove abc ≤ 1/8 given cyclic sum equals 1 with positive reals*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cLh55MQ0c8qEjsnuwrJEj-kLk6kRe8sD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove abc ≤ 1/8 data somma ciclica uguale a 1 con risultati positivi *
+
+> $a, b, c$ siano numeri reali positivi in modo tale che $$\frac{a}{1+b} + \frac{b}{1+c} + \frac{c}{1+a} = 1.$$ dimostri che $abc \le \frac{1}{8}$.
+
+[[src_rmo_2016_r2__Q02]]

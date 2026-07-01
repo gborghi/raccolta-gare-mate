@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q29
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo mosse per accostare correttamente le tessere*
 
@@ -59,3 +62,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum moves to properly align the sheets< MSK1/>
+
+![[src_kangourou_2018_cadet_marzo__prob29.png]]
+
+> In dominoes, two cards are matched correctly if half of the two cards that are in contact contain the same number of points. Six cards are aligned as shown in the figure. The moves allowed to make sure that they are properly approached are of two types: swapping the position of two cards (without rotating them) or rotating a < MSK0/> card (leaving it in the same position as the sequence). What is the minimum number of moves by which you can get all the tiles to be aligned correctly? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> (e) No sequence of moves allows the six cards to be properly joined.
+
+**Answer:** C
+[[src_kangourou_2018_cadet_marzo__Q29]]

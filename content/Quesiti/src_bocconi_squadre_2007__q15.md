@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2007 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2007__Q15
 parent: src_bocconi_squadre_2007
 competition: Gara a Squadre 2007
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri simil-perfetti tra 1900 e 2000*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Similar perfect numbers between 1900 and 2000*
+
+> Let's call a perfect number whose sum of its digits is a perfect square. For example, it's 1996 because $1+9+9+6 = 25$ is the square of 5.
+> 
+> How many other similar-perfect numbers are there between 1900 and 2000?
+
+[[src_bocconi_squadre_2007__Q15]]

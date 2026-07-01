@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q11
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For how many integers n is n/(100-n) also an integer*
 
@@ -49,3 +52,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per quanti numeri interi n è n/(100-n) anche un intero*
+
+> Per quanti numeri interi $n$ il numero $\dfrac{n}{100-n}$ è anche un intero?
+>
+> - **(A)** $1$
+> - **(B)** $6$
+> - **(C)** $10$
+> - **(D)** $18$
+> - **(E)** $100$
+
+[[src_obm_2010_n2_f1__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo24yqa_yosen__Q01
 parent: src_jjmo24yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC overlapping rectangle DFGE; find area of ABC*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 24
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC rettangolo sovrapposto DFGE; trovare superficie di ABC*
+
+> Il triangolo $ABC$ e il rettangolo $DFGE$ sono posizionati come mostrato nella figura, con $BC = 8$ e $FG = 4$. Il segmento $DE$ interseca i segmenti $AF$ e $AG$ rispettivamente ai punti $P$ e $Q$. Le superfici dei triangoli $DFP$ e $EGQ$ sono rispettivamente $1$ e $2$. Trova l'area del triangolo $ABC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+![[src_jjmo24yqa_yosen__Q01.png]]
+
+**Risposta:** 24
+[[src_jjmo24yqa_yosen__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q04
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle ABCD, AB+BC+CD=20, AE=9, E midpoint of BC; find area*
 
@@ -35,3 +38,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo ABCD, AB+BC+CD=20, AE=9, punto medio E di BC; area *
+
+> Il $ABCD$ deve essere un rettangolo in cui $AB + BC + CD = 20$ e $AE = 9$, in cui $E$ è il punto medio del lato $BC$. Trova l'area del rettangolo.
+
+[[src_ioqm_2020__Q04]]

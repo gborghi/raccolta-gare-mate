@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_semifinale_c__Q12
 parent: src_cesenatico_2012_semifinale_c
 competition: Gara a Squadre Cesenatico 2012 - Semifinale C
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita Sole e Luna perdano con uno illeso*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0585
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The Sun and Moon are likely to lose to an uninjured man.
+
+> Another sign A space probe has recently discovered on the surface of Mars a mysterious monolith that may foretell the end of the world. One of its square faces ABCD, has an area of 2012 m2. That is, E is the middle point of AB and O is the intersection between AC and BD, so the intersection between the DCE triangle and the ABO triangle is red in colour. All the rest of the monolith is black. How many square meters is the red area?
+
+**Answer:** 0585
+[[src_cesenatico_2012_semifinale_c__Q12]]

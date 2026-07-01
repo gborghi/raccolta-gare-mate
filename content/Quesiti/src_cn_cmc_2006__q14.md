@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2006 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2006__Q14
 parent: src_cn_cmc_2006
 competition: China Mathematical Competition 2006
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximize and minimize sum of pairwise products of five positive integers summing to 2006*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximizzare e minimizzare la somma dei prodotti in coppia di cinque numeri interi positivi che sommano al 2006*
+
+> Esprimere il 2006 come la somma di cinque integri positivi $x_1, x_2, x_3, x_4, x_5$ e $S = \displaystyle\sum_{1 \le i < j \le 5} x_i x_j$. Domanda: (1) Quale valore di $x_1, x_2, x_3, x_4, x_5$ renderà $S$ il massimo? (2) Inoltre, se $|x_i - x_j| < 3$ per qualsiasi $1 \le i, j \le 5$, quale valore di $x_1, x_2, x_3, x_4, x_5$ renderà $S$ il minimo? Per favore, rispondi.
+
+[[src_cn_cmc_2006__Q14]]

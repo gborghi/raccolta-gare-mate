@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2019 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2019__Q11
 parent: src_garaprime_2019
 competition: Gara Nazionale Classi Prime 2019
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di ragazze con voto 100 date le medie*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GTzdagqUQpCUSYBLrYJmJaKl7DQUIbtK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most girls with a grade of 100 given the average*
+
+> The entire 5aM class (consisting of 10 males and 8 females) passed the maturity test: each grade was between 60 and 100. The average male vote was 76 and the total was 80. How many girls took 100 at most? A 5 B 1 C 2 D 3 E 4 F 6
+
+**Answer:** A
+[[src_garaprime_2019__Q11]]

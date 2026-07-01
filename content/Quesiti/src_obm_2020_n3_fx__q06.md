@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2020 — Nível 3 — Fase x — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2020_n3_fx__Q06
 parent: src_obm_2020_n3_fx
 competition: Olimpíada Brasileira de Matemática 2020 — Nível 3 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Iterates of f(x)=2x^2+x-1: real fixed points and real zeros*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b__JDOphfOKJwjRdW1rKhY9YKOrtSicC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Iterati di f(x)=2x^2+x-1: punti fissi reali e zeri reali*
+
+> Let < MSK0/>. Definire $f^{n+1}(x) = f(f^n(x))$ per tutti i $x$ reali e $n \ge 0$ (cioè $f^n$ è la $n$-th iterazione di $f$).
+> 
+> (a) (2 punti) Determinare il numero di soluzioni reali distinte dell'equazione $f^1(x) = x$.
+> 
+> b) (8 punti) Determinare, per ogni intero non negativo $n$, il numero di soluzioni reali distinte dell'equazione $f^n(x) = 0$.
+
+[[src_obm_2020_n3_fx__Q06]]

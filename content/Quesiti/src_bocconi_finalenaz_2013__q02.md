@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2013 — Quesito
   2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2013__Q02
 parent: src_bocconi_finalenaz_2013
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2013
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero letto da Milena su quattro dadi identici*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2453
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number read by Milena on four identical dice*
+
+> The figures < MSK0/> are shown on the faces of four (identical) dice. Opposite faces always have the same sum: 5. Carla reads the 2013 number from the dice side facing her. Which number will Milena, standing in front of Carla, read the numbers from left to right?
+> 
+> Which number will Milena read, reading the figures shown on the faces opposite those seen by Carla?
+
+![[src_bocconi_finalenaz_2013__Q02.png]]
+
+**Answer:** 2453
+[[src_bocconi_finalenaz_2013__Q02]]

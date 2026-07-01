@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2014 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2014_automne__Q09
 parent: src_canimath_2014_automne
 competition: Coupe Animath Automne 2014
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *25 distinct positive numbers; pick two whose sum/difference equals no other*
 
@@ -47,3 +50,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15vtKOtQa9ehL1Qp64ICOkTx6pQqg0n_e/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*25 numeri positivi distinti; scegliete due la cui somma/differenza non è uguale a nessun altro*
+
+> Dati $25$ numeri distinti strettamente positivi, mostrare che si può scegliere due di loro in modo che nessuno degli altri numeri $23$ è uguale alla somma o alla differenza dei due numeri scelti.
+
+[[src_canimath_2014_automne__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_triennio_rec__Q06
 parent: src_archimede_2024_triennio_rec
 competition: Giochi di Archimede 2024 - Gara Triennio (riserva)
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Grado di un polinomio composto da potenze*
 
@@ -39,3 +42,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Grade of a polynomial composed of powers*
+
+> What is the degree of the polynomial p(x) = (9x5 −x2 +1)10 ·(x7 +8x3 −10) +(x6 −7x+6)7 ?
+>
+> - **(A)** 10
+> - **(B)** 57
+> - **(C)** 99
+> - **(D)** 50
+> - **(E)** 42
+
+[[src_archimede_2024_triennio_rec__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2001 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_2livello__Q08
 parent: src_archimede_2001_2livello
 competition: Archimede Gara 2º livello 2001
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità che Lorenzo sia sano dato il test positivo*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Probability that Lorenzo is healthy given the positive test< MSK1/>
+
+> In one country, one percent of the population suffers from a disease. The test to find out if you're infected is wrong in 1 percent of cases. Lorenzo is tested and found to be ill. What are the odds that he's healthy?
+>
+> - **(A)** 99 10000
+> - **(B)** 1 100
+> - **(C)** 99 5000
+> - **(D)** 1 2
+> - **(E)** 99 100.
+
+**Answer:** D
+[[src_archimede_2001_2livello__Q08]]

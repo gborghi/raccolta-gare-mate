@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Student — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_semif__Q09
 parent: src_kangourou_2018_student_semif
 competition: Kangourou 2018 Semifinale Student
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massime sequenze di 7 lettere AB con distanza Hamming >=3*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum sequence of 7 letters AB with Hamming distance >=3*
+
+> (Points 6) Consider sequences of 7 letters that can be written using only the letters A and/or B. How many sequences can be selected, at most, if two of them are to differ for letters appearing in at least three positions? A) 8        B) 9         C) 12        D) 16       E) 27
+> 
+> Open-ended questions
+
+**Answer:** D
+[[src_kangourou_2018_student_semif__Q09]]

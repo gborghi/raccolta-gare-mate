@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet gara individuale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q19
 parent: src_kangourou_2022_cadet_gara
 competition: Kangourou 2022 Cadet gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale del cerchio fuori dal triangolo*
 
@@ -55,3 +58,15 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage of the circle outside the triangle*
+
+> The area of the intersection of a circle with a triangle is 45% of the area of their union. The area of the outer triangle part of the circle is 40% of the area of their union. What percentage of the circle lies outside the triangle? A) 20% B) 25% C) 30% D) 35% E) 50% 4 m 4 m 4 m 4 m 2 ? 4 3
+>
+
+**Answer:** B
+[[src_kangourou_2022_cadet_gara__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q12
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Total distance travelled by a light ray reflecting between two mirrors at 30 degrees*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Distanza totale percorsa da un raggio di luce che riflette tra due specchi a 30 gradi*
+
+> Due specchi formano un angolo di $30^\circ$ al punto $V$. Un raggio di luce, partendo da un punto $S$, parallelo a uno degli specchi, colpisce l'altro specchio al punto $A$, come mostra la figura. Dopo un certo numero di riflessi, il raggio torna a $S$. Se $SA = AV = 1$ m, quale distanza, in metri, è percorsa dal raggio di luce?
+> 
+> **A)** $2$ $\quad$ **B)** $2 + \sqrt{3}$ $\quad$ **C)** $1 + \sqrt{2} + \sqrt{3}$ $\quad$ **D)** $\sqrt{2}\,(1 + \sqrt{3})$ $\quad$ **E)** $5\sqrt{3}$
+
+![[src_obm_2004_n2_f1__Q12.png]]
+
+[[src_obm_2004_n2_f1__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1992 (XXXIII International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1992__Q06
 parent: src_imho_1992
 competition: IMO 1992 (XXXIII International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *S(n) greatest integer for sum of k positive squares*
 
@@ -50,3 +53,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*S(n) greatest integer for sum of k positive squares*
+
+> For every positive integer $n$, $S(n)$ is defined to be the greatest integer such that, for every positive integer $k \leq S(n)$, $n^2$ can be written as the sum of $k$ positive squares.
+> 
+> Prove that for each < MSK1/>.
+> 
+> **(b) ** Find an integer $n$ such that $S(n) = n^2 - 14$.
+> 
+> Prove that there are infinitely many integers such that $S(n) = n^2 - 14$.
+
+[[src_imho_1992__Q06]]

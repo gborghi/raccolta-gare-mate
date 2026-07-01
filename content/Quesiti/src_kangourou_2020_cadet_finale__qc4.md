@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Cadet — Quesito C4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_finale__QC4
 parent: src_kangourou_2020_cadet_finale
 competition: Kangourou 2020 Finale nazionale Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Verita affermazioni su numero in posizione speciale griglia 6x6*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** aF bV cV
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1USVAWxQY6y2E_COFv5RMawnN3IdAjH49/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*True statements on special grid position number 6x6*
+
+> We fill a square grid with the first 62 positive integers, one per box: if one of the numbers is the largest of all the numbers in its row and the smallest of all the numbers in its column, let's say that the number is in the special position MSK2 relative to the way we filled the grid. Discuss, justifying the answer, the truth or falsity of each of the following three statements:
+> 
+> (a) there is at least one special number for each method of filling the grid;
+> 
+> (b) there is at least one special number for any method of filling the grid;
+> 
+> (c) for each method of filling the grid there is at most a special number.
+
+**Answer:** aF bV cV
+[[src_kangourou_2020_cadet_finale__QC4]]

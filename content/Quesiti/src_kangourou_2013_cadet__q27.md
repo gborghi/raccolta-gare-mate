@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q27
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma primi 2013 termini di successione di prodotti*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of first 2013 terms of succession of products*
+
+> A sequence of numbers begins with these five terms: 1,  1,  1, 1,  1. Each term after the fifth is equal to the product of the two preceding it. For example, the sixth term is the product of the fourth and fifth. What is the sum of the first 2013 terms of this succession? A) – 1006 B) – 671 C) 0
+> 	
+> D) 671 E) 1007
+
+**Answer:** B
+[[src_kangourou_2013_cadet__Q27]]

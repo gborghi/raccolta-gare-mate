@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 1 —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_nu_f1__Q06
 parent: src_obm_2002_nu_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tangent lines to a curve and periodicity of intersection points*
 
@@ -52,3 +55,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HLUTInDZ42I9MmtTTIYbLXM9186py65T/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Line angenti a una curva e periodicità dei punti di intersezione*
+
+> Considera la curva < MSK0/>.
+> 
+> a) Il $Q=(a,b)$ deve essere un punto di $C$. Supponiamo che la linea tangente a $C$ a $Q$ incontra $C$ in un altro punto unico $Q'$. Determinare le coordinate di $Q'$.
+> 
+> b) Let < MSK0/>. Per ogni numero intero non negativo $n$, definire $P_{n+1}=P_n'$, il punto di intersezione di $C$ con la tangente di $C$ a $P_n$. Determinare < MSK6/>.
+
+[[src_obm_2002_nu_f1__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f3__Q03
 parent: src_obm_2013_n3_f3
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all injective functions from nonzero reals satisfying a functional equation*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/196iotHwSAcZNCxZblUXBqibkyRsVNzdN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ricerca tutte le funzioni iniettabili da valori reali non zero che soddisfano un'equazione funzionale< MSK1/>
+
+> Trovare tutte le funzioni iniettrici $f$ dai reali non-zero ai reali non-zero in modo tale che $$f(x+y) \cdot \bigl(f(x) + f(y)\bigr) = f(xy)$$ per tutte le $x, y$ reali e non-zero con $x + y \neq 0$.
+
+[[src_obm_2013_n3_f3__Q03]]

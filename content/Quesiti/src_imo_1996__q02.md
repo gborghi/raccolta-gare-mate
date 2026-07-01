@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1996 (37th IMO, Mumbai) — Quesito 2'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1996__Q02
 parent: src_imo_1996
 competition: 'IMO 1996 (37th IMO, Mumbai)'
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Show AP, BD, CE concurrent with incenter angle condition*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Show AP, BD, CE concurrent with incenter angle condition*
+
+> Let P be a point inside triangle ABC such that  APB − ACB =  APC − ABC. Let D, E be the incenters of triangles APB, APC, respectively. Show that AP, BD, CE meet at a point.
+
+[[src_imo_1996__Q02]]

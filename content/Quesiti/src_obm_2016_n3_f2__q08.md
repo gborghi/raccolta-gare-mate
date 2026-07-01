@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f2__Q08
 parent: src_obm_2016_n3_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2
@@ -39,6 +40,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum angle BAC when G is centroid and two circles are tangent to a common line*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Agglio massimo BAC quando G è centroid e due cerchi sono tangenti a una linea comune*
+
+> Due cerchi $\Gamma$ e $\Omega$ si incrociano ai punti $A$ e $G$. Una linea $t$ è tangente a $\Gamma$ a $B$ e a $\Omega$ a $C$. La linea $AG$ estesa incontra $t$ a $E$, con $C$ tra $B$ e $E$. $G$ è il centroide del triangolo $ABC$. Qual è il valore massimo possibile dell'angolo $\widehat{BAC}$?
+
+[[src_obm_2016_n3_f2__Q08]]

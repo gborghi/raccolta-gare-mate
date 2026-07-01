@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Biennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_biennio__Q03
 parent: src_archimede_2005_biennio
 competition: Giochi di Archimede 2005 - Gara Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore massimo di a(b+c)-b(a+c) con interi 1..10*
 
@@ -47,3 +50,20 @@ tags:
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum value of a(b+c) -b(a+c) with integers of 1.10*
+
+> What is the maximum value that the number a(b + c) −b(a + c) can assume when a, b and c are distinct integers greater than or equal to 1 and less than or equal to 10?
+>
+> - **(A)** 80,
+> - **(B)** 81,
+> - **(C)** 84
+> - **(D)** 90,
+> - **(E)** 100.
+
+**Answer:** B
+[[src_archimede_2005_biennio__Q03]]

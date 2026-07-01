@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q19
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Voti del secondo classificato nelle elezioni*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Votes from the second place in the elections*
+
+> In one class, elections were held to appoint the head of the class. The total number of votes cast was 36. Five candidates received votes: the most voted received 12, the least voted received 4, and there are no two candidates with the same number of votes. How many votes did the candidate who placed second get? A) 8
+>                 	
+> B) 8 or 9, and both outcomes are possible C) 9 D) 9 or 10, and both outcomes are possible
+>            
+> E) 10
+
+**Answer:** B
+[[src_kangourou_2013_benjamin__Q19]]

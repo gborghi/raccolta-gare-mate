@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Finale Nazionale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_finale__Q02
 parent: src_squadre_2023_finale
 competition: Gara a Squadre 2023 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione area esagono accessibile al centro della moneta*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0041
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fraction of area over the centre of the coin*
+
+> Even the bad guys leave the tip Krull is so bad that, to skip the line at the cafe, he freezes everyone with his freezing beam and then takes the cup of coffee in the hand of the barista out of the scene. So Krull walks away whistling, but not before he puts a circular coin in the tip jar with a radius of 3 cm. The jar is a straight prism with a regular E hexagon on the side of 10 cm. Assuming the coin has fallen flat on the bottom of the jar, what is the fraction of area of E on which the centre of the coin can land? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+
+**Answer:** 0041
+[[src_squadre_2023_finale__Q02]]

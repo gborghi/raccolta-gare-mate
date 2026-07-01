@@ -1,6 +1,7 @@
 ---
 title: IMO 1983 (XXIV International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1983__Q04
 parent: src_imho_1983
 competition: IMO 1983 (XXIV International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Partition set into two subsets avoiding right-angled triangle*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qHrtan02NnpLf3E60-PekLeYdH4Y9tnD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Partition set into two subsets avoiding right-angled triangles*
+
+> Let $ABC$ be an equilateral triangle and $\mathcal{E}$ the set of all points contained in the three segments $AB$, $BC$, and $CA$ (including $A$, $B$, and $C$). Determine whether, for every partition of $\mathcal{E}$ into two subsets, at least one of the two subsets contains the vertices of a right-angled triangle. Justify your answer.
+
+[[src_imho_1983__Q04]]

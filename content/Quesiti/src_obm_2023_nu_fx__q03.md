@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x —
   Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2023_nu_fx__Q03
 parent: src_obm_2023_nu_fx
 competition: Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Constant C>0 bounding a sum of k-th roots over log x*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Constante C>0 che limita una somma di radici k-th su log x*
+
+> Prove che esiste una costante $C>0$ tale che, per qualsiasi numero intero $m,n$ con $n\ge 2m>1$ e qualsiasi numero reale $x>1$, $$\sum_{k=m}^{n} \sqrt[k]{x} \le C\left(\frac{m^2 - \sqrt[m]{x}}{\log x} + n\right).$$
+
+[[src_obm_2023_nu_fx__Q03]]

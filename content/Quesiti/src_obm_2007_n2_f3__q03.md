@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f3__Q03
 parent: src_obm_2007_n2_f3
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove infinitely many positive integers n make (5^(n-2)-1)/n an integer*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove infinitamente molti interi positivi n rendere (5^(n-2)-1)/n un intero*
+
+> Prova che esistono infinitamente molti interi positivi $n$ in modo tale che $$\frac{5^{n-2}-1}{n}$$ sia un intero.
+
+[[src_obm_2007_n2_f3__Q03]]

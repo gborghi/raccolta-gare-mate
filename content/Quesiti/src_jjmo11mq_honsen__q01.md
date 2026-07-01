@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2013 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo11mq_honsen__Q01
 parent: src_jjmo11mq_honsen
 competition: Japan Junior Mathematical Olympiad 2013 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max number of the 12 sums/products equal to 1*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UgUX3RXEgvDm3jGJSbFGNwaCoh5esb70/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nombre massimo delle 12 somme/prodotti pari a 1*
+
+> Ci sono quattro numeri reali positivi distinti $a, b, c, d$. Tra le seguenti 12 espressioni $$a+b,\ a+c,\ a+d,\ b+c,\ b+d,\ c+d,$$ $$ab,\ ac,\ ad,\ bc,\ bd,\ cd,$$ trovi il maggior numero possibile di esse il cui valore è uguale a $1$.
+
+[[src_jjmo11mq_honsen__Q01]]

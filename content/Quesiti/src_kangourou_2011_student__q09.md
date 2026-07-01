@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q09
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri dispari da 1 a 2011 senza i multipli di 3*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Various numbers from 1 to 2011 without multiples of 3*
+
+> Andrea wrote all odd numbers from 1 to 2011 on a board and then Roberto deleted all but the multiples of 3. How many numbers are left written on the board? A) 335 B) 336 C) 671 D) 1005 E) 1006
+
+[[src_kangourou_2011_student__Q09]]

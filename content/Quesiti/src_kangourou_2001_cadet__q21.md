@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Cadet (15 marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_cadet__Q21
 parent: src_kangourou_2001_cadet
 competition: Kangourou 2001 - Cadet (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero impossibile di parti con 4 tagli*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Impossible number of parts with 4 cuts*
+
+> Which of the following numbers cannot in any case be the number of parts to be obtained by cutting a round cake with 4 different straight knife cuts?
+>
+> - **(A)** 5
+> - **(B)** 7
+> - **(C)** 9
+> - **(D)** 11
+> - **(E)** 12.
+
+**Answer:** E
+[[src_kangourou_2001_cadet__Q21]]

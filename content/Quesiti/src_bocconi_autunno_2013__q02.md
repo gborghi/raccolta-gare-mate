@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2013 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2013__Q02
 parent: src_bocconi_autunno_2013
 competition: Giochi d'Autunno 2013
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sostituzione cifre: trovare BA dall'addizione.*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 48
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Substitution of digits: find BA from the addition.*
+
+> Replace $A$ with a certain number (always the same) and $B$ with another number (always the same but different from the one used for $A$) so that the result is correct: $$\begin{array}{r} BA + \\ BA + \\ BA = \\ \hline 1BB \end{array}$$ What is $BA$?
+
+**Answer:** 48
+[[src_bocconi_autunno_2013__Q02]]

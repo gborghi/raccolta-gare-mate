@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q05
 parent: src_kangourou_2018_cadet_semifinale
 competition: Kangourou 2018 Cadet - Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza tra Aldo e Bruno al traguardo*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kVLsfgriHzHWeJPk7c69FlUrtxeTTMzS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance between Aldo and Bruno at the finish*
+
+> Aldo and Bruno compete on a 1000-meter course (starting at the same moment and point) and each runs at a constant speed. When Aldo is 100 metres away from the river, Bruno is 200 metres away. Which of the following numbers is closest to the distance (in metres) that separates Aldo from Bruno when Aldo cuts the finish line? A) 111            B) 114           C) 115
+> 	
+> D) 120 E) 122
+
+**Answer:** A
+[[src_kangourou_2018_cadet_semifinale__Q05]]

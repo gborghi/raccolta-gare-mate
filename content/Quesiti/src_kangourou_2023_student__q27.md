@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q27
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo intero che divide n^3(n+1)^3...(n+4)^3*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum integer that divides n by n+1) by 3...(n+4) by 3*
+
+> What is the largest integer that divides all the numbers of the form n3 (n + 1)3(n + 2)3(n + 3)3(n + 4)3 , by varying the strictly positive integer n? A) 29 33 B) 23 33 53 C) 26 33 53 D) 28 32 53 E) 29 33 53
+
+**Answer:** E
+[[src_kangourou_2023_student__Q27]]

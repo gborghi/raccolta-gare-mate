@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student semifinale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q03
 parent: src_kangourou_2024_student_semifinale
 competition: Kangourou 2024 Student semifinale
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita diamante nella scatola 9 dopo aperture*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C o E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Probability of diamonds in box 9 after opening
+
+> Tomorrow is Saturday or Sunday or Monday. On what day did Charles' fifteenth birthday fall? A. Certainly on Monday. B) Certainly on Thursday. C) Certainly on Friday. D) Thursday or Friday, both being possible. E) Monday or Friday, both being possible. Answer: E). The solution. 1) can be either true or false. If 1) is false they must also be false 2) and 3); if 2) is false the day can be Saturday, Sunday or Monday; if 3) is false the day can be Monday, Tuesday, Wednesday or Thursday: the intersection is Monday. If 1) is true they must also be true 2) and 3); if 2) is true the day may be Tuesday, Wednesday, Thursday or Friday; if 3) is true the day may be Friday, Saturday or Sunday: the intersection is Friday.
+
+**Answer:** C o E
+[[src_kangourou_2024_student_semifinale__Q03]]

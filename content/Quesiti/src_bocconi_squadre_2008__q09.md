@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q09
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre decimali del quoziente 2007.esima/2008.esima/2009.esima*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0, 0, 7
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Decimal figures of the 2007th/2008.th 2009.th *
+
+> Divide 1 by 2008. What (in order) is the $2007$-exis, $2008$-exis and $2009$-exis after the comma of the quotient thus obtained?
+
+**Answer:** 0, 0, 7
+[[src_bocconi_squadre_2008__Q09]]

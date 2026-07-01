@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 finale nazionale Student — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student_finale__Q04
 parent: src_kangourou_2012_student_finale
 competition: Kangourou 2012 finale nazionale Student
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ogni poliedro ha due facce con ugual numero di spigoli*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Each polyhedron has two faces with the same number of beads< MSK1/>
+
+![[src_kangourou_2012_student_finale__prob4.png]]
+
+> It shows that each polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces having the same number of vertices. Are there any polyhedra that don't have three faces with the same number of beads?
+
+[[src_kangourou_2012_student_finale__Q04]]

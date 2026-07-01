@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q20
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo grigio nell'ottagono*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the grey triangle in the octagon*
+
+> The regular octagon in the figure has an area of 36 m2. How much is the area of the grey triangle? A) 12 m2 B) 18 m2 C) 9 m2 D) 4 m2 E) 6 m2 The questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** C
+[[src_kangourou_2003_benjamin__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2009 - Gara a squadre — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2009_squadre__Q09
 parent: src_gs_2009_squadre
 competition: Coppa Fermat 2009 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezza del soprammobile con piramide*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 225
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Height of the pyramid-mobile *
+
+> In Slartibartfast's studio, there is a supermobile consisting of four 1.2dm diameter marble balls, locked in a transparent box, with a 2.4dm square side base without a lid; in the center, above the four marble balls, a 1.37dm diameter steel ball is supported. What is the height in mm of the supermobile?
+
+**Answer:** 225
+[[src_gs_2009_squadre__Q09]]

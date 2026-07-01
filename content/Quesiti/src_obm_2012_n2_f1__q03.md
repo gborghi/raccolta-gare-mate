@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q03
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count of 'bacium' numbers (3.5 times an integer) in a range*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conte dei numeri di "bascio" (3,5 volte un numero intero) in un intervallo*
+
+> In un certo contesto un numero è chiamato bacio se è un intero che è $3{,}5$ volte un altro intero. Ad esempio, $3{,}5$ è un bacio, poiché è $3{,}5$ volte $1$. Quanti numeri di bacio esistono tra $2{,}1$ e $33{,}3$?
+> 
+> A) 61 Quad B) 62 Quad C) 60 Quad D) 66 Quad E) 33
+
+[[src_obm_2012_n2_f1__Q03]]

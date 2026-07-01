@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q20
 parent: src_kangourou_2018_koala_marzo
 competition: Kangourou 2018 Gioco Koala (Marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tra quanti giorni i due forzieri avranno uguali monete*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1AGwjurQUucDfrq-UuV0KeOG7NZtWOZs2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Within days the two forcers will have the same coins
+
+![[src_kangourou_2018_koala_marzo__prob20.png]]
+
+> A pirate has two couriers: the one on the left has 10 coins, the other one is empty. Starting tomorrow, the pirate will put one coin every day in the left and two in the right. In how many days will the two forcers have the same number of coins?
+
+**Answer:** C
+[[src_kangourou_2018_koala_marzo__Q20]]

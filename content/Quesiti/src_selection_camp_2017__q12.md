@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2017 — Selection Camp — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2017__Q12
 parent: src_selection_camp_2017
 competition: Japan IMO Selection Camp 2017 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral with equal angles, bisectors, midpoint and circumcircle: PQ perp AC*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Quadrilaterali convex con angoli, bisettori, punto medio e circoncircolo uguali: PQ perp AC < MSK1/>
+
+> Il $ABCD$ deve essere un quadrilaterale converso con $\angle ABC = \angle ADC < 90^\circ$. I bisettori angolari di $\angle ABC$ e $\angle ADC$ incontrano la linea $AC$ rispettivamente in punti distinti $E$ e $F$ e si incontrano a punto $P$. Let $M$ essere il punto medio del segmento $AC$, e let $\omega$ essere il circoncircolo del triangolo $BPD$. La linea $BM$ incontra di nuovo $\omega$ a un punto $X \neq B$ e la linea $DM$ incontra di nuovo $\omega$ a un punto $Y \neq D$. Se le linee $XE$ e $YF$ si incontrano al punto $Q$, dimostrare che le linee $PQ$ e $AC$ sono perpendicolari.
+
+[[src_selection_camp_2017__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q02
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Media della velocità dell'aereo nei due terzi restanti*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 650 km/h
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Average aircraft speed in the remaining two thirds*
+
+> For a third of its flight time, an aircraft holds an average of 800 km/h. The total recorded in the entire flight is 700 km/h.
+> 
+> What was the average for our plane in the remaining two-thirds of the flight time?
+
+**Answer:** 650 km/h
+[[src_bocconi_squadre_2013__Q02]]

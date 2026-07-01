@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2008 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2008__Q02
 parent: src_cn_cwmo_2008
 competition: China Western Mathematical Olympiad 2008
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In an isosceles triangle with inscribed circle, prove a concyclicity and a ratio relation involving points built from the incircle*
 
@@ -47,3 +50,15 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un triangolo con triangolo con cerchio inciso, dimostrare una conciclicità e una relazione di rapporto che coinvolgono punti costruiti dall'incircolo*
+
+> In $\triangle ABC$, $AB = AC$, il cerchio inciso $I$ tocca $BC$, $CA$ e $AB$ rispettivamente ai punti $D$, $E$ e $F$. $P$ è un punto di arco $\widehat{EF}$ (non contenente $D$). La linea $BP$ interseca il cerchio $I$ in un altro punto $Q$ e le linee $EP$, $EQ$ incontrano la linea $BC$ rispettivamente a $M$ e $N$. Prove che (1) $P$, $F$, $B$, $M$ sono conciclici. (2) $\frac{EM}{EN} = \frac{BD}{BP}$. (Possibile da Bian Hongping)
+
+![[src_cn_cwmo_2008__Q02.png]]
+
+[[src_cn_cwmo_2008__Q02]]

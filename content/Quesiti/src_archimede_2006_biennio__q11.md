@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Biennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_biennio__Q11
 parent: src_archimede_2006_biennio
 competition: Giochi di Archimede 2006 - Gara Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto aree di quadrati annidati sui punti medi*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Report areas of squares nested at midpoints*
+
+> Given an ABCD square, the midpoints of the sides having a common vertex join together to form a new EFGH square. We repeat the same operation for EFGH and we get a new square A′B′C′D′. What is the ratio of the ABCD area to the A′B′C′D′ area?
+>
+> - **(A)** 2,
+> - **(B)** 2 √ 2,
+> - **(C)** 4,
+> - **(D)** 4 √ 2,
+> - **(E)** 8.
+
+**Answer:** C
+[[src_archimede_2006_biennio__Q11]]

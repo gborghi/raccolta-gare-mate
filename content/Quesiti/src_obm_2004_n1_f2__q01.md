@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f2__Q01
 parent: src_obm_2004_n1_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Digit sum of a sum of fractions with powers of 2*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa digitali di una somma di frazioni con potenze di 2*
+
+> Qual è la somma dei numeri $$\frac{2^2}{2} + \frac{2^2}{2^2} + \frac{2^3}{2^3} + \cdots + \frac{2^{2003}}{2^{2003}} + \frac{2^{2006}}{2^{2006}}?$$
+
+**Risposta:** 6
+[[src_obm_2004_n1_f2__Q01]]

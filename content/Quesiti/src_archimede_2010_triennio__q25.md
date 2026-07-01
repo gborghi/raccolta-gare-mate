@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Triennio — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_triennio__Q25
 parent: src_archimede_2010_triennio
 competition: Giochi di Archimede 2010 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che Danilo ottenga la maglia 8*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Chance of Danilo getting the jersey 8< MSK1/>
+
+> There are 11 players on a team and 11 shirts numbered from 1 to 11. Players enter the locker room one at a time, in random order. Everyone, as soon as they arrive, chooses a shirt at random, except Danilo who prefers shirt number eight and, if available, chooses that one. What are the odds of Danilo getting his favorite jersey number?
+>
+> - **(A)** 4 9,
+> - **(B)** 5 11,
+> - **(C)** 1 2,
+> - **(D)** 6 11,
+> - **(E)** 5 9.
+
+**Answer:** D
+[[src_archimede_2010_triennio__Q25]]

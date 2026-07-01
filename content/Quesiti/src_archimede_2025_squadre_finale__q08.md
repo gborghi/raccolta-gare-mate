@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q08
 parent: src_archimede_2025_squadre_finale
 competition: Gara a Squadre Nazionale 2025 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero 5 cifre distinte non nulle autodivisibile*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8136
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of 5 distinct non-zero digits self-divisible*
+
+> Mathside Girls The Mathside Girls are a group of brilliant female students who love solving math problems in company and collecting badges by doing all kinds of activities. She wants to be one of them by tomorrow, and to do that, she has to earn 50 medals in one day! The 50th and last badge is the cake delivery badge. To obtain this, you must deliver n cakes, where n is the largest positive integer of 5 digits, with all the digits distinct from each other and no zero digits, such that it is divisible by each of its digits. How many cakes are there?
+
+**Answer:** 8136
+[[src_archimede_2025_squadre_finale__Q08]]

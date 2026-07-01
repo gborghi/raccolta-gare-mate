@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2020 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2020__Q07
 parent: src_garaprime_2020
 competition: Gara Nazionale Classi Prime 2020
@@ -26,6 +27,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Termine 2020 di successione ricorsiva periodica*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RcjMtWkWdcfagBZF3LMfq3IMn7aMwmGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total amount of assigned revenue in accordance with Article 21 (3) of the Financial Regulation.
+
+> From the list of 2020 numbers a1, a2, a3, . . . , by 2020, we know that the first two are a1 = 5 and a2 = 7. We also know that, from the third onwards, each term is obtained by making the ratio between the one preceding it by a position and the one preceding it by two positions, i.e.: a3 = a2/a1, a4 = a3/a2, a5 = a4/a3, etc. How much is 2020 worth? A 1 5 B 1 7 C 7 5 D 5 7 E 5 F 7
+
+**Answer:** A
+[[src_garaprime_2020__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q18
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inscribed pentagon: find angle DAE given BCE=35 and AB perpendicular CD*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Pentagono inscritto: trovare angolo DAE dato BCE=35 e CD perpendicolare AB*
+
+> Nella figura, $O$ è il centro di un cerchio che attraversa i punti $A$, $B$, $C$, $D$, $E$ (in ordine sul cerchio). Gli accordi $AB$ e $CD$ sono perpendicolari l'uno all'altro e $\angle BCE = 35^\circ$. Trova il valore in gradi di angolo $\angle DAE$.
+> 
+> (A) $35^\circ$ \quad (B) $40^\circ$ \quad (C) $45^\circ$ \quad (D) $50^\circ$ \quad (E) $55^\circ$
+
+![[src_obm_2013_n2_f1__Q18.png]]
+
+**Risposta:** E
+[[src_obm_2013_n2_f1__Q18]]

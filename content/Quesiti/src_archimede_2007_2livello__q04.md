@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_2livello__Q04
 parent: src_archimede_2007_2livello
 competition: Archimede Gara 2° livello 2007 (biennio/triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Voto dell'ultimo esame dato calo della media a 22,25*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Vote of the last examination lowered from the average to 22,25*
+
+> One college student passed a number of exams, averaging 23. After passing another exam, his average drops to 22.25. Knowing that the score of each exam is an integer between 18 and 30 inclusive, what score did the student get on the last exam?
+>
+> - **(A)** 18
+> - **(B)** 19
+> - **(C)** 20
+> - **(D)** 21
+> - **(E)** 22.
+
+**Answer:** C
+[[src_archimede_2007_2livello__Q04]]

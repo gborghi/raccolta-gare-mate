@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo15yq_yosen__Q08
 parent: src_jjmo15yq_yosen
 competition: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle BXC inside equilateral triangle given angle conditions at midpoint of AX*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $150^\circ$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo BXC all'interno di un triangolo equilaterale dato le condizioni di angolo al punto medio di AX*
+
+> $X$ sia un punto all'interno del triangolo equilaterale $ABC$. Il segmento $AX$ deve essere il punto medio di $M$. Supponiamo $\angle MBC = 54^\circ$ e $\angle MCB = 36^\circ$. Trova la misura di $\angle BXC$.
+
+**Risposta:** 150^\circ
+[[src_jjmo15yq_yosen__Q08]]

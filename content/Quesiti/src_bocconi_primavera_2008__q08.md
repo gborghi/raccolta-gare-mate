@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q08
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero intero composto massimo con 7 trattini calcolatrice*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 711
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum composite integer with 7 calculating lines*
+
+> On the calculator, each figure (see figure) is lit by illuminating certain lines. What is the largest integer consisting of 7 lines?
+
+![[src_bocconi_primavera_2008__Q08.png]]
+
+**Answer:** 711
+[[src_bocconi_primavera_2008__Q08]]

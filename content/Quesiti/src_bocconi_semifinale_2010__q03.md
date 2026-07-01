@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2010 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2010__Q03
 parent: src_bocconi_semifinale_2010
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2010
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri in scatola: somme delle due scatole uguali*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Luca deve togliere 5 e 11
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Box numbers: sums of the two boxes equal*
+
+> The two boxes in the figure contain six numbers each. Luke wants to be able to make the sums of the two boxes equal, taking as few numbers as possible. What numbers does Luca have to take out?
+
+![[src_bocconi_semifinale_2010__Q03.png]]
+
+**Answer:** Luca deve togliere 5 e 11
+[[src_bocconi_semifinale_2010__Q03]]

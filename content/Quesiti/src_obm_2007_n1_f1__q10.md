@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f1__Q10
 parent: src_obm_2007_n1_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equilateral triangle side parallel to square side; find angle x*
 
@@ -45,3 +48,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'angolo del triangolo equilaterale parallelo al lato quadrato; trovare angolo x*
+
+> Nella figura, il lato $\overline{AB}$ del triangolo equilaterale $ABC$ è parallelo al lato $\overline{DG}$ del quadrato $DEFG$. Qual è il valore dell'angolo $x$?
+> 
+> (A) $80^\circ$ \quad (B) $90^\circ$ \quad (C) $100^\circ$ \quad (D) $110^\circ$ \quad (E) $120^\circ$
+
+![[src_obm_2007_n1_f1__Q10.png]]
+
+[[src_obm_2007_n1_f1__Q10]]

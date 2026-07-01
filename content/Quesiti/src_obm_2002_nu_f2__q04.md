@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2 —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_nu_f2__Q04
 parent: src_obm_2002_nu_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real solutions of a nested radical equation*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le soluzioni reali di un'equazione radicale annidata*
+
+> Trova tutte le soluzioni reali dell'equazione $$x = \sqrt{2 + \sqrt{2 - \sqrt{2 + x}}}.$$
+
+[[src_obm_2002_nu_f2__Q04]]

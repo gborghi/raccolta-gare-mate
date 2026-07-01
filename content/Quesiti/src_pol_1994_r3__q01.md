@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1994 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1994_r3__Q01
 parent: src_pol_1994_r3
 competition: Olimpiade Matematica Polacca 1994 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triples of positive rationals with integral sum, reciprocal-sum, product*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19eAtDFACSz1VPPylPXfkbfEFZ2SE4e3i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triplici di razionali positivi con somma integrale, somma reciproca, prodotto*
+
+> Determinare tutti i triples $(x, y, z)$ dei numeri razionali positivi in modo tale che $x + y + z$, $\frac{1}{x} + \frac{1}{y} + \frac{1}{z}$ e $xyz$ siano tutti integrali.
+
+[[src_pol_1994_r3__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f3__Q04
 parent: src_obm_1999_n1_f3
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Table tennis series; count matches between Adriano and Bruno*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IF5oIN7pSMmXLD_JUuT4LeOoSufQgncA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Serie di tennis da tavolo; conteggio di partite tra Adriano e Bruno*
+
+> Adriano, Bruno e Carlos hanno giocato una serie di partite di tennis da tavolo. Ogni volta che un giocatore perdeva, veniva sostituito dal giocatore che aspettava. La prima partita fu disputata da Adriano e Bruno. È noto che Adriano ha vinto $12$ e Bruno ha vinto $21$. Quante volte Adriano e Bruno si sono affrontati?
+
+[[src_obm_1999_n1_f3__Q04]]

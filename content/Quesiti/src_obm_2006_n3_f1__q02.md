@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q02
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distinct sums of pairs of distinct numbers from {1,2,...,2006}.*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare somme distinte di coppie di numeri distinti da {1,2,...,2006}.*
+
+> Quanti risultati diversi possiamo ottenere sommando le coppie di numeri distinti dall'insieme $\{1, 2, \ldots, 2006\}$?
+> 
+> (A) 2006 \quad (B) 2007 \quad (C) 4009 \quad (D) 4011 \quad (E) 4012
+
+**Risposta:** D
+[[src_obm_2006_n3_f1__Q02]]

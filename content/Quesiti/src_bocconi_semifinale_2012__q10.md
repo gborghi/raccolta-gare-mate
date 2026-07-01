@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2012 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2012__Q10
 parent: src_bocconi_semifinale_2012
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2012
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare in cifre i numeri mancanti nel box autoreferenziale che descrive quanti multipli di 5 vi compaiono.*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Due soluzioni: "15 numeri … 4 multipli di 5" e "15 numeri … 5 multipli di 5".
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete in digits the missing numbers in the self-reference box that describes how many multiples of 5 appear in it.*
+
+> A self-referential box
+> 
+> $1 - 2 - 3 - 4 - 5 - 6 - 7 - 8 - 9 - 10 - 11 - 12$
+> 
+> In this box, there's the words... numbers. Some of them are... multiplied by 5.
+> 
+> Complete the box (writing, in digits, the missing numbers) so that the sentence is true.
+
+**Answer:** Due soluzioni: '15 numeri … 4 multipli di 5' e '15 numeri … 5 multipli di 5'.
+[[src_bocconi_semifinale_2012__Q10]]

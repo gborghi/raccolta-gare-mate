@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo10yq_yosen__Q11
 parent: src_jjmo10yq_yosen
 competition: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count box dimensions a<=b<=c for a×b×c box built from unit cubes with equal unpainted count*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 20
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dimensioni della scatola di conte a<=b<=c per una scatola di conte a×b×c costruita a partire da cubetti unitari con un conto non dipinto uguale*
+
+> I cubetti unitari sono assemblati in una scatola rettangolare $a \times b \times c$ ($a, b, c$ numeri interi positivi). Ogni cubo unitario sulla superficie della scatola è dipinto. Il numero di cubetti unitari non dipinti è uguale al numero di cubetti unitari sulla superficie dipinti. Trova il numero di triples $(a, b, c)$ con $a \le b \le c$ che soddisfano questa condizione. (I triples che sono semplicemente riorganizzazioni l'uno dell'altro sono contati come uno.)
+
+**Risposta:** 20
+[[src_jjmo10yq_yosen__Q11]]

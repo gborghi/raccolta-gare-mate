@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1983-84 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1983-84_round2__Q01
 parent: src_bmo_1983-84_round2
 competition: British Mathematical Olympiad 1983-84 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find points in plane satisfying distance conditions from right-angled triangle*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18oguQ4XfS33xmfIqthYty5_Jy5-1pMJ0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare punti in piano che soddisfino le condizioni di distanza dal triangolo rettangolare*
+
+> Il triangolo $ABC$ è angolato a destra a $C$. Trova tutti i punti $D$ nel piano che soddisfano le condizioni $$AD \cdot BC = BD \cdot AC = \frac{1}{\sqrt{2}} AB \cdot CD .$$
+
+[[src_bmo_1983-84_round2__Q01]]

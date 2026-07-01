@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2007 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo5q__Q04
 parent: src_jjmo5q
 competition: Japan Junior Mathematical Olympiad 2007
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three-variable degree-3 polynomial with three divisibility conditions*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomio di grado 3 a tre variabili con tre condizioni di divisibilità*
+
+> Trova tutti i polinomi $f(x, y, z)$ con coefficienti reali, di grado $3$ in tre variabili $x$, $y$, $z$, soddisfacendo tutte le seguenti condizioni: \begin{itemize} \item $f(x, y, z) + z$ è divisibile da $x + y + z$, \item $f(x, y, z) + y$ è divisibile da $x + y + z$, \item $f(x, y, z) + z$ è divisibile da $x + y + z$. \end{itemize} Qui, si dice che un polinomio $P(x,y,z)$ sia divisibile da $Q(x,y,z)$ se esiste un polinomio $R(x,y,z)$ tale che $P(x,y,z) = Q(x,y,z)\,R(x,y,z)$.
+
+[[src_jjmo5q__Q04]]

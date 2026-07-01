@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r3__Q06
 parent: src_rmo_2013_r3
 competition: Regional Mathematical Olympiad 2013
@@ -38,6 +39,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Good subset of regular n-gon (n prime) has exactly four elements*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LyJj9lZ6d9wJTkSmciSZe9Gn8yrb6GdD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un buon sottoinsieme di n-gon regolare (n primo) ha esattamente quattro elementi*
+
+> Che $n \ge 3$ sia un numero naturale e che $A_1 A_2 \cdots A_n$ sia un poligono regolare. Let $X = \{1, 2, \ldots, n\}$. Un sottoinsieme $\{i_1, i_2, \ldots, i_k\}$ di $X$, con $k \ge 3$ e $i_1 < i_2 < \cdots < i_k$, è chiamato \textit{good subset} se gli angoli del poligono $A_{i_1} A_{i_2} \cdots A_{i_k}$, quando disposti in ordine, sono in progressione aritmetica. Se $n$ è un primo, mostrare che un sottoinsieme buono appropriato di $X$ contiene esattamente quattro elementi.
+
+[[src_rmo_2013_r3__Q06]]

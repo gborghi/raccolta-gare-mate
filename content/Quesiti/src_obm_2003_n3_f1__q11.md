@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q11
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find f(21,12) from functional equations defining f on positive integer pairs*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca f(21,12) da equazioni funzionali che definiscono f su coppie di integri positivi*
+
+> La funzione $f$ è definita per tutte le coppie ordinate $(x; y)$ di integri positivi e ha le seguenti proprietà: $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y)\,f(x;\, y + x).$$ Qual è il valore di $f(21;\, 12)$?
+> 
+> A) $\dfrac{7}{4}$ \quad B) $\dfrac{7}{2}$ \quad C) $\dfrac{11}{6}$ \quad D) $\dfrac{6}{11}$ \quad E) $\dfrac{1}{2003}$
+
+**Risposta:** D
+[[src_obm_2003_n3_f1__Q11]]

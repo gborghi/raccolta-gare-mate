@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2007 — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2007__Q20
 parent: src_bocconi_squadre_2007
 competition: Gara a Squadre 2007
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza di altezza tra Desiderio e Nando (IMC)*
 
@@ -42,3 +45,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Height difference between Desiderio and Nando (IMC) < MSK1/>
+
+> To measure a person's possible overweight, the World Health Organization (WHO) has introduced a 'body mass index' (BMI) given by the ratio of weight, measured in kg, to height squared (in m).
+> 
+> With his 81 kg, Nando has an index equal to 25 while Desiderio (with his 80 kg) has a BMI equal to 20.
+> 
+> What is the (in cm) height difference between Desiderio and Nando?
+
+[[src_bocconi_squadre_2007__Q20]]

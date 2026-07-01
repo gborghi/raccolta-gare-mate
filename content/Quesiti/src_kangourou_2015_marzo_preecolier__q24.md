@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q24
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero centrale*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*central number*
+
+> Each of the numbers $3, 5, 7, 8$ and $9$ must be written in one of the squares in the figure. Each square must be written with only one number. You want to make sure that the sum of the numbers in the row is equal to the sum of the numbers in the column. What number do you have to type in the center box? (see figure)
+> 
+> (A) $3$ (B) $5$ (C) $7$ (D) $8$ (E) $9$
+
+**Answer:** D
+[[src_kangourou_2015_marzo_preecolier__Q24]]

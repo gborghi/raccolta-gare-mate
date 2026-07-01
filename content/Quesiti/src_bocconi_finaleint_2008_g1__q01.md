@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q01
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio di carte rosse nel pacchetto di destra di un mazzo diviso in due.*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 10 carte rosse
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting of red cards in the right packet of a deck divided into two.*
+
+> Julien divided his deck of $32$ cards into two unequal packs of $19$ cards (left) and $13$ cards (right). The left packet contains $13$ black cards. How many red cards does the right pack contain? Note: a deck of < MSK4/> cards contains as many red cards as black cards.
+
+**Answer:** 10 carte rosse
+[[src_bocconi_finaleint_2008_g1__Q01]]

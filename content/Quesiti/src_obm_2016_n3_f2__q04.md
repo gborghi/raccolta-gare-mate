@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f2__Q04
 parent: src_obm_2016_n3_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest perimeter shared by two non-congruent integer-sided right triangles*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il perimetro più piccolo condiviso da due triangoli rettangolari a lato intero non congruenti*
+
+> Determinare il numero intero positivo più piccolo $n$ in modo tale che esistano due triangoli rettangolari non congruenti con lunghezze laterali interi e perimetro $n$.
+
+[[src_obm_2016_n3_f2__Q04]]

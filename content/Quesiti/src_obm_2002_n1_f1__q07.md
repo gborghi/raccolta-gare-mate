@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f1__Q07
 parent: src_obm_2002_n1_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of a square hole formed by rearranging four congruent rectangles*
 
@@ -52,3 +55,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NviJwQmbmihSaakvq3DJSWhViadj6Z5P/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area di un buco quadrato formata mediante la riorganizzazione di quattro rettangoli congruenti*
+
+> Un quadrato di superficie $1$ è stato diviso in rettangoli congruenti $4$, come indicato nel disegno a sinistra. Poi i quattro rettangoli furono riorganizzati in modo da formare un quadrato, con un buco quadrato al centro, come indica il disegno a destra.
+> 
+> La superficie del buco è pari a:
+> 
+> (A) $\dfrac{1}{2}$ (B) $\dfrac{9}{16}$ (C) $\dfrac{16}{25}$ (D) $\dfrac{3}{4}$ (E) $1$
+
+![[src_obm_2002_n1_f1__Q07.png]]
+
+**Risposta:** B
+[[src_obm_2002_n1_f1__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior — Semifinale individuale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_semifinale__Q12
 parent: src_kangourou_2022_junior_semifinale
 competition: Kangourou 2022 Junior — Semifinale individuale
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cinque persone in auto con vincoli, disposizioni*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 16
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1q4eeCpaS_1aSTIYHi1bK45-1x3orSnEw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Five people in cars with restrictions, provisions*
+
+> (5 points) Five people must board a car which has five seats, two in front and three in the back. Only one of them can drive, two of the other four cannot sit next to each other, while the other two are not bound. How many different ways can they get in the car? (Two ways are considered different if at least one of the car seats is occupied by different people.)
+
+**Answer:** 16
+[[src_kangourou_2022_junior_semifinale__Q12]]

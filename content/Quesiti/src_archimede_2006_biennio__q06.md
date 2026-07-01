@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_biennio__Q06
 parent: src_archimede_2006_biennio
 competition: Giochi di Archimede 2006 - Gara Biennio
@@ -23,6 +24,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro di un rettangolo con base 3/2 dell'altezza*
 
@@ -39,3 +42,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of a rectangle with base 3/2 of height*
+
+> In a rectangle of 150 m2 the size of the base is equal to 3.2 of the height. What is the perimeter of the rectangle?
+>
+> - **(A)** 50 m,
+> - **(B)** 54 m,
+> - **(C)** 60 m,
+> - **(D)** 64 m,
+> - **(E)** 70 m.
+
+**Answer:** A
+[[src_archimede_2006_biennio__Q06]]

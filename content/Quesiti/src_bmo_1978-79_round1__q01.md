@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1978-79 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1978-79_round1__Q01
 parent: src_bmo_1978-79_round1
 competition: British Mathematical Olympiad 1978-79 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find triangles ABC with AB+AC=2 and altitude AD=sqrt(AB·AC)*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12c6gfr0qnGVIVaLy6cnd8oElsOELiOS0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova i triangoli ABC con AB+AC=2 e altitudine AD=sqrt(AB·AC) *
+
+> Trovare tutti i triangoli $ABC$ per i quali $$AB + AC = 2 \text{ cm} \quad \text{and} \quad AD = \sqrt{AB \cdot AC} \text{ cm},$$ dove $AD$ è l'altitudine da $A$, incontrando $BC$ ad angoli retti in $D$.
+
+[[src_bmo_1978-79_round1__Q01]]

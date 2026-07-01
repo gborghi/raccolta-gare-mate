@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1998 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_2livello__Q13
 parent: src_archimede_1998_2livello
 competition: Archimede Gara 2º livello 1998
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della sezione di un prisma a base esagonale*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the section of a hexagonal prism*
+
+> A straight prism with a height of $l$ and a regular side hexagon $l$ at the base is cut with a passing plane for two parallel beams each belonging to one of the two bases but not belonging to the same side face. The area of the resulting section is:
+> 
+> (A) $l^2$ \quad (B) $\dfrac{\sqrt{3}}{2}l^2$ \quad (C) $2l^2$ \quad (D) $\sqrt{3}\,l^2$ \quad (E) $2\sqrt{3}\,l^2$.
+
+**Answer:** D
+[[src_archimede_1998_2livello__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q23
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Terne di bastoni che formano triangolo*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Treads of rods forming a triangle*
+
+> You've got six sticks that are 1cm, 2cm, 3cm, 2001cm, 2002cm and 2003cm long. You have to choose three of these and form a triangle (which doesn't reduce to a segment). How many different choices of three sticks can you make? A) 1 B) 3 C) 5 D) 6 E) 20
+
+**Answer:** D
+[[src_kangourou_2003_benjamin__Q23]]

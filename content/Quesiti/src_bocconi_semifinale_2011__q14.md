@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2011 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2011__Q14
 parent: src_bocconi_semifinale_2011
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2011
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora minima di arrivo insieme a Geocity condividendo una sola bicicletta.*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** ore 12 e 48 minuti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum arrival time together with Geocity sharing a single bicycle.*
+
+> To get from the town of Mathville to that of Geocity, which is 40 miles away, Angelo and Pietro have a bicycle at their disposal. One, though, that they can't ride in two. Angelo walks at a speed of 4 km/h and cycles at 30 km/h. Peter's, on the other hand, walks 6 km/h and cycles 20 km/h. If they leave together at 8:00 a.m. from Mathville, what time will they arrive together at Geocity as soon as possible?
+
+**Answer:** ore 12 e 48 minuti
+[[src_bocconi_semifinale_2011__Q14]]

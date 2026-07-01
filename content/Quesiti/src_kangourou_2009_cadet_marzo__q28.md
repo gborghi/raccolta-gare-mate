@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q28
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo (sovrapposizioni col quadrato)*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the triangle (overlapping with the square) *
+
+> By overlapping a square of 6 centimeters on a triangle, I can cover up to 60% of the area of that triangle. By overlaying the triangle to the square, I can cover up to 2/3 of the square. What is the area of the triangle in square centimetres? A) 22,8 B) 24 C) 36 D) 40 E) 60
+
+**Answer:** D
+[[src_kangourou_2009_cadet_marzo__Q28]]

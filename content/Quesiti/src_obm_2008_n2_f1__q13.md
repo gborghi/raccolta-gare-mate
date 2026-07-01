@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f1__Q13
 parent: src_obm_2008_n2_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of digit-sums P(1)+...+P(1000)*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa delle somme digitali P(1)+...+P(1000) *
+
+> $P(n)$ sia la somma delle cifre del numero $n$. Per esempio, $P(1234)=1+2+3+4=10$. Qual è il valore di $P(1)+P(2)+P(3)+\ldots+P(1000)$? (A) $200$ \quad (B) $500$ \quad (C) $400$ \quad (D) $900$ \quad (E) $2250$
+
+[[src_obm_2008_n2_f1__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f3__Q05
 parent: src_obm_2006_n2_f3
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle MNR in acute triangle given orthocenter and midpoints*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YkJDppLT4ZSZbNPF1voiSzcsCHYMYSgG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare l'angolo MNR in un triangolo acuto dato il centro ortografico e i punti medi*
+
+> Che $ABC$ sia un triangolo acuto e $H$ il suo centro orto. $M$, $N$ e $R$ siano rispettivamente i punti intermedi di $AB$, $BC$ e $AH$. Trova la misura dell'angolo $M\hat{N}R$ se angolo $A\hat{B}C = 70^\circ$.
+
+[[src_obm_2006_n2_f3__Q05]]

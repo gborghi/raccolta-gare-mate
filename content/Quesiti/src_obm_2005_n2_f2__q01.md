@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f2__Q01
 parent: src_obm_2005_n2_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Skipping digits 1 and 3: last page number written*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Salto dei numeri 1 e 3: ultimo numero di pagina scritto *
+
+> Natasha è superstiziosa e, quando numerò le 200 pagine del suo diario a partire da 1, ha saltato tutti i numeri di pagina contenenti i numeri 1 o 3 (in qualsiasi ordine). Per esempio, i numeri 31 e 137 non appaiono, ma 103 appaiono. Qual è il numero che Natasha ha scritto sull'ultima pagina del suo diario?
+
+[[src_obm_2005_n2_f2__Q01]]

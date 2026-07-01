@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2013 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2013__Q05
 parent: src_bocconi_autunno_2013
 competition: Giochi d'Autunno 2013
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri da 2 a 6 nei dischi con differenze tra vicini 1 o 2.*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers from 2 to 6 in disks with differences between adjacent 1 or 2.*
+
+> Place the integers from 2 to 6 in the empty disks so that the difference between the numbers of two adjacent disks (the larger minus the smaller) is always equal to 1 or 2.
+
+![[src_bocconi_autunno_2013__Q05.png]]
+
+[[src_bocconi_autunno_2013__Q05]]

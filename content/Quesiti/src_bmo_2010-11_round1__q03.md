@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2010-11 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2010-11_round1__Q03
 parent: src_bmo_2010-11_round1
 competition: British Mathematical Olympiad 2010-11 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle CAB=2CBA; line CA meets perp bisector of BC; prove AB=AC+CM*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo CAB=2CBA; linea CA incontra perp bisector di BC; prova AB=AC+CM*
+
+> Che $ABC$ sia un triangolo con $\angle CAB = 2\angle CBA$. $N$ è il punto in cui la linea $CA$ incontra il bisettore perpendicolare di $BC$. $M$ sia il punto medio di $BC$. Dimostra che $AB = AC + CM$.
+
+[[src_bmo_2010-11_round1__Q03]]

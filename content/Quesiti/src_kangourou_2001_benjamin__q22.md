@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q22
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cabine sulla ruota panoramica*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Booth on the sidewheel*
+
+![[src_kangourou_2001_benjamin__prob22.png]]
+
+> The biggest attraction of a Luna Park is the large panoramic wheel (the figure shows a similar but smaller one). The cabins are equidistant and numbered 1, 2, 3, ... At the moment when cabin n. 25 is in the lowest position cabin n. 8 is in the highest position. How many cabins are there on that view wheel?
+>
+> - **(A)** 33
+> - **(B)** 34
+> - **(C)** 35
+> - **(D)** 36
+> - **(E)** 37. Kangourou 15 March 2001, category Benjamin. This item is not intended to be used. 6
+
+**Answer:** B
+[[src_kangourou_2001_benjamin__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2007 - Gara Triennio — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_triennio__Q19
 parent: src_archimede_2007_triennio
 competition: Giochi di Archimede 2007 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto C/R da disposizioni di pedine su scacchiere*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*C/R report from chessboard rules*
+
+> Claudius and Philip each have a chessboard with R rows and C columns and each has P bases. Claudio has all his pawns on his chessboard (each in a box) so that 8 lines remain completely empty and each of the other lines has exactly 9 empty boxes. Philip has all his pawns on his chessboard (each in a box) so that 12 lines remain completely empty and each of the other lines has exactly 6 empty boxes. How much is CR worth?
+>
+> - **(A)** 3 4,
+> - **(B)** 1,
+> - **(C)** 4 3,
+> - **(D)** 5 4,
+> - **(E)** 2.
+
+**Answer:** A
+[[src_archimede_2007_triennio__Q19]]

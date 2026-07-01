@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q01
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero che completa l'albero delle addizioni*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number that completes the additions tree*
+
+> Look at the figure. Mara and Bruna are at the two ends of the indicated path: what distance must Mara travel to reach Bruna? A) 300 m B) 400 m C) 800 m D) 1 km	            E) 700 m
+
+[[src_kangourou_2013_benjamin__Q01]]

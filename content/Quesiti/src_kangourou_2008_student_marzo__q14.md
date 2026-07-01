@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q14
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Canguri di un solo colore (inclusione-esclusione)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Single coloured crabs (inclusion and exclusion) < MSK1/>
+
+> Matilde drew 36 kangaroos using three distinct colors. The white was used for 25 kangaroos, the red for 28 and the black for 20. Only five kangaroos were used in all three colors. How many of the designed kangaroos are of the same color? A) 0 B) 4 C) 12 D) 31 E) It is not possible to establish it.
+
+**Answer:** B
+[[src_kangourou_2008_student_marzo__Q14]]

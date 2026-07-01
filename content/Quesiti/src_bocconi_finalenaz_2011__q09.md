@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2011 — Quesito
   9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2011__Q09
 parent: src_bocconi_finalenaz_2011
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2011
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei naturali consecutivi già calcolata da Debora*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Debora ha addizionato 36 numeri
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of consecutive natural numbers already calculated by Debora*
+
+> Deborah calculates the sum of all natural numbers (consecutive numbers) starting from $1$: $1+2+3+4+5+6+\ldots$ and notes that the sum obtained has already been added by her.
+> 
+> How many numbers did Deborah add?
+
+**Answer:** Debora ha addizionato 36 numeri
+[[src_bocconi_finalenaz_2011__Q09]]

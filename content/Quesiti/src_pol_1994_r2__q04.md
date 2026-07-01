@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1994 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1994_r2__Q04
 parent: src_pol_1994_r2
 competition: Olimpiade Matematica Polacca 1994 — Round 2
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Each vertex of a cube is assigned 1 or -1, each face the product of its four vertices; find all possible values of the sum of all 14 numbers.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uA4twJvqYtpwmlzZpoJcK0hKVdyFmCqj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ogni vertice di un cubo è assegnato 1 o -1, ognuno rivolto al prodotto dei suoi quattro vertici; trovare tutti i valori possibili della somma di tutti i 14 numeri.*
+
+> Ogni vertice di un cubo è assegnato $1$ o $-1$. A ciascuna faccia viene assegnato il prodotto dei quattro numeri al suo vertice. Determinare tutti i valori possibili che possono essere ottenuti come somma di tutti i numeri assegnati $14$.
+
+[[src_pol_1994_r2__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre finale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_finale__Q15
 parent: src_kangourou_2011_squadre_finale
 competition: Kangourou 2011 squadre finale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angoli acuti del rombo da quattro triangoli rettangoli*
 
@@ -53,3 +56,25 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 60
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13507kQgtd5A0hh0IwUZH9QyAEafhU_bz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Acute angles of the rim by four rectangular triangles*
+
+![[src_kangourou_2011_squadre_finale__prob15.png]]
+
+> The corners of the rim In the figure you see a rim formed by approaching four rectangular triangles between them congruent. How many degrees does each of the sharp corners of the rim measure?
+>  
+>               
+>                                                                                                                             
+> 
+>  
+>  
+> Kangourou of Mathematics 2011 Kangourou team cup - final by Mirabilandia, 8 May 2011
+>  
+> Questions and solutions
+
+**Answer:** 60
+[[src_kangourou_2011_squadre_finale__Q15]]

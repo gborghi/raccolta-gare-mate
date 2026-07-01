@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f1__Q10
 parent: src_obm_2008_n2_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five positive integers with given product-sum conditions, find total*
 
@@ -51,3 +54,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cinque integri positivi con determinate condizioni di somma del prodotto, trovare totale *
+
+> Cinque integri positivi $a, b, c, d, e$ superiori a uno soddisfano le seguenti condizioni: $$a(b+c+d+e)=128$$ $$b(a+c+d+e)=155$$ $$c(a+b+d+e)=203$$ $$d(a+b+c+e)=243$$ $$e(a+b+c+d)=275$$ Quanto è $a+b+c+d+e$? (A) $9$ \quad (B) $16$ \quad (C) $25$ \quad (D) $36$ \quad (E) $49$
+
+[[src_obm_2008_n2_f1__Q10]]

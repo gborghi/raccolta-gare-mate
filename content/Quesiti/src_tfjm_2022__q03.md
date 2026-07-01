@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2022__Q03
 parent: src_tfjm_2022
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2022
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A confined professor wants substitute Perrine to reconstruct the seating arrangement of n pupils; find the minimal number of questions needed under several allowed question types, with adaptive answers, errors, and lying.*
 
@@ -67,3 +70,29 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C7JOrKkoZ1206MAEq0GAwv-ifvn_yjCd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Un professore confinato vuole sostituire Perrine per ricostruire la disposizione dei posti a sedere di n alunni; trovare il numero minimo di domande necessarie sotto diversi tipi di domande consentiti, con risposte adattive, errori e mentire.
+
+> Professore rinchiuso.
+> 
+> Timothyé è un professore di matematica; è ammalato e deve assistere per una settimana. Chiede a un sostituto di nome Perrine di sostituirlo.
+> 
+> Timothy lascia a Perrine la scelta di mettere gli alunni nell'ordine che vuole nei posti della classe, dove deve rispondere alle sue domande. Fa domande a Perrine per determinare il piano di seduta della classe, ma è più pratico che le faccia in anticipo. Perrine, essendo a corto di tempo, mentre imposta il piano di posti a sedere, chiede a Timothy di scrivere una lista di domande a cui risponderà. Timothyé legge poi questa lista e restituisce, per ogni domanda che si trova nella lista, una risposta; questa lista di domande deve essere il più breve possibile.
+> 
+> 1. Gli alunni della classe sono numerati da 1 a < MSK0/>. Determina se Timothy può determinare il piano di seduta della classe e quale è la stima minima del numero di domande che deve porre, se è obbligato a porre domande della classe del modulo: a)  È studente $i$?  in cui < MSK2/>. b) Qualsiasi domanda a cui Perrine deve rispondere con  sì  o  no . c) Si trova l'allievo $i$ al posto $p$? in cui < MSK5/>. d) Indicare l'insieme degli alunni (non si può forzare il loro ordine) che si trovano nei luoghi < MSK6/> dove < MSK7/> è fissato in anticipo da Perrine. e) In quale luogo della classe si trova l'allievo < MSK8/>? dove $1 \le i \le n$.
+> 
+> 2. Timothy chiama Perrine al telefono. riceve la risposta a ciascuna delle sue domande appena dopo averla posta. Ripetere la domanda 1 in questo contesto.
+> 
+> 3. Durante la settimana, Perrine ha commesso un errore sulla stanza, e è andato in un'altra stanza con sedie $m > n$. Timothy non commette errori. Ripete le domande precedenti in questo contesto.
+> 
+> 4. Perrine decide di prendersi gioco di Timothy e si autorizza a sbagliare su alcune risposte. Corre $l \in \mathbb{N}^*$, e supponi che Perrine abbia il diritto di sbagliare $l$ volte e che Timothy sappia $l$. Ripete le domande precedenti in questo contesto.
+> 
+> 5. Proporre e studiare altre vie di ricerca.
+
+![[src_tfjm_2022__Q03.png]]
+
+[[src_tfjm_2022__Q03]]

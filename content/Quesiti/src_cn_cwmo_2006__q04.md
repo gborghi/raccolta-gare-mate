@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2006 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2006__Q04
 parent: src_cn_cwmo_2006
 competition: China Western Mathematical Olympiad 2006
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove fractional parts of sqrt(a) summed are irrational*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che le parti frazionarie di sqrt(a) sommate sono irrazionali*
+
+> Supponiamo che $a$ sia un intero positivo e non un quadrato perfetto. Prove che per qualsiasi numero intero positivo $n$, la somma $$S_n = \{\sqrt{a}\} + \{\sqrt{a}\}^2 + \cdots + \{\sqrt{a}\}^n$$ è irrazionale, dove $\{x\} = x - [x]$ e $[x]$ denotano il numero intero più grande inferiore o uguale a $x$.
+
+[[src_cn_cwmo_2006__Q04]]

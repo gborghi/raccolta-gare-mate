@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - semifinale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_semifinale__Q08
 parent: src_kangourou_2021_ecolier_semifinale
 competition: Kangourou 2021 Ecolier - semifinale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max cifre 1 nelle prime 15 cifre dell allineamento*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1d4KIlUoujYfd3Cc7JpT28ssbmAgsp2A5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Max figures 1 in the first 15 digits of the alignment*
+
+> (5 points) Ada has 10,000 cards, each containing a different number from 1 to 10,000 included. It aligns them (not necessarily in a preset order) and then reads the first 15 digits of the alignment as if they were a single number N. How many digits 1 can contain that number N at most? A) 11
+>  
+> B) 12 C) 13 D) 14 E) 15
+
+**Answer:** D
+[[src_kangourou_2021_ecolier_semifinale__Q08]]

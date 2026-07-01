@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet_finale__QC1
 parent: src_kangourou_2003_cadet_finale
 competition: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Disposizione 1-9 con somme ai vertici 20*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** disposizione
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Disposition 1-9 with sums at vertices 20< MSK1/>
+
+![[src_kangourou_2003_cadet_finale__probC1.png]]
+
+> The figure represents a square obtained by approximating 9 smaller squares. You must enter all the numbers from $1$ to $9$, one per square, so that the sum of the four numbers surrounding each of the inner vertices, marked with a black ball, is $20$. The numbers $3$ and $5$ have already been placed: enter the remaining ones. (see figure)
+
+**Answer:** disposizione
+[[src_kangourou_2003_cadet_finale__QC1]]

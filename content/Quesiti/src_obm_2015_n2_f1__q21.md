@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q21
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count of digital-clock moments where time encodes or reverses the date in 2015*
 
@@ -51,3 +54,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio dei momenti dell'orologio digitale in cui il tempo codifica o inverte la data nel 2015*
+
+> Jonas ama osservare gli orologi digitali sparsi in tutta la sua città che gli informano dell'ora e della data. Poiché sono digitali, l'ora appare nel formato (ora: minuto) e la data nel formato (giorno / mese). In un determinato giorno si è verificata una coincidenza: l'ora (ora e minuto, ad es. 12:06) coincideva con la data nel formato giorno/mese (le stesse cifre del giorno e del mese). Chiama questo un momento codificato. Si può anche verificare che l'ora coincida con la data lettura in senso inverso (ad es. 60:21, lettura all'indietro), e chiama questo un momento di codifica inversa. Considerando l'intero anno 2015 (considerato come un anno bisestivo), dal 01/01/2015 alle 00:00 al 31/12/2015 alle 23:59, quanti momenti sono codificati o codificati in modo inverso?
+> 
+> (A) 365 (B) 455 (C) 465 (D) 629 (E) 699
+
+[[src_obm_2015_n2_f1__Q21]]

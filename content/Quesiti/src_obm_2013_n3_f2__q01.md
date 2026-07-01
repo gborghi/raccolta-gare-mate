@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f2__Q01
 parent: src_obm_2013_n3_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle with integer sides whose perimeter equals area numerically; find n*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo con lati interi il cui perimetro è numericamente uguale all'area; trovare n*
+
+> Un rettangolo che non è quadrato ha lati con lunghezze interi, misurate in centimetri. Se il suo perimetro è $c$ centimetri e la sua superficie è $c$ centimetri quadrati, determinare $n$ il numero di tali rettangoli.
+
+[[src_obm_2013_n3_f2__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2013 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2013__Q13
 parent: src_bocconi_semifinale_2013
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2013
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sistemare i numeri da 2 a 12 nei dischi con somme uguali a 24*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (vedi figura nella soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Setting the numbers from 2 to 12 in disks with sums equal to 24*
+
+> Place all the natural numbers from 2 to 12 in the disks so that the sum of the disks' numbers on the safest alignment is 24. The other six sums of three aligned numbers must all equal 24.
+> 
+> (The figure shows a graph with nodes connected by segments, where each aligned triangle must add up to 24.)
+
+![[src_bocconi_semifinale_2013__Q13.png]]
+
+**Answer:** (vedi figura nella soluzione)
+[[src_bocconi_semifinale_2013__Q13]]

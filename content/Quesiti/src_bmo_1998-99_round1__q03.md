@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1998-99 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1998-99_round1__Q03
 parent: src_bmo_1998-99_round1
 competition: British Mathematical Olympiad 1998-99 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive constant c so xy^2 - y^2 - x + y = c has exactly three positive integer solutions*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tOfO5w6uysbOqI8KklY9Aj83wX_eK3Cu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare costante positiva c così xy^2 - y^2 - x + y = c ha esattamente tre soluzioni interi positive*
+
+> Determinare una costante positiva $c$ tale che l'equazione $$xy^2 - y^2 - x + y = c$$ abbia precisamente tre soluzioni $(x, y)$ in numeri interi positivi.
+
+[[src_bmo_1998-99_round1__Q03]]

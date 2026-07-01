@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2021 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_printemps__Q13
 parent: src_canimath_2021_printemps
 competition: Coupe Animath Printemps 2021
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *6000 students' grades; after a replacement the mean rises by 1/10; bound a count difference*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>6000 voti di studenti; dopo una sostituzione la media aumenta di 1/10; limita una differenza di conteggio < MSK1/>
+
+> Sei mila studenti hanno fatto un esame e tutti hanno ottenuto un punteggio compreso tra $0$ e $8$ ($0$ e $8$). Vincent decide di sostituire tutti i gradi uguali a $1$, $2$ e $3$ con $0$ e tutti i gradi uguali a $5$, $6$ o $7$ con $8$. Gli altri voti sono invariati. Dopo questa modifica, la media dei punteggi è aumentata di < MSK12/>.
+> 
+> Dimostrare che esistono due integri $a$ e $b$ in modo tale che la differenza tra il numero di studenti che hanno ottenuto il grado $a$ e il numero di studenti che hanno ottenuto il grado $b$, prima delle modifiche effettuate da Vincent, sia almeno $100$.
+
+[[src_canimath_2021_printemps__Q13]]

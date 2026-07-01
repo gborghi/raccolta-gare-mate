@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q24
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max real solutions of p(x)=k for an even polynomial with non-negative coefficients*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maxime soluzioni reali di p(x)=k per un polinomio pari con coefficienti non negativi*
+
+> Un polinomio $p(x)$ è anche quando $p(-x) = p(x)$ per tutti i $x$ reali. Qual è il numero massimo di soluzioni reali dell'equazione $p(x) = k$, dove $p$ è un polinomio pari non costante con coefficienti non negativi e $k$ è un reale fisso?
+> 
+> (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $4$ \quad (E) $n$, dove $n$ è il grado di $p(x)$
+
+**Risposta:** C
+[[src_obm_2013_n3_f1__Q24]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2015 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2015_automne__Q07
 parent: src_canimath_2015_automne
 competition: Coupe Animath Automne 2015
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Each side of a unit square is divided into 3 equal parts; lines drawn from the division points create a grey polygon; find its area.*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ogni lato di un quadrato unitario è diviso in 3 parti uguali; le linee tracciate dai punti di divisione creano un poligono grigio; trova la sua superficie.*
+
+> Ogni lato di un quadrato unitario è diviso in segmenti uguali $3$. Si tratti la figura di seguito da questa partizione. Qual è l'area del poligono grigio? Giustifica la tua risposta.
+
+![[src_canimath_2015_automne__Q07.png]]
+
+[[src_canimath_2015_automne__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre semifinale turno A — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q13
 parent: src_kangourou_2012_squadre_semifinale
 competition: Kangourou 2012 squadre semifinale turno A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ricavo dato prodotto 71685 con cifre scambiate*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 531
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Recovery given product 71685 with figures exchanged< MSK1/>
+
+> Revenue The profit and income (in euro) from a sale are two numbers of three digits each. For these two numbers the number of tens is the same, while those of units and hundreds are exchanged between them. Multiplying the two numbers gives us 71685. How much revenue?
+
+**Answer:** 531
+[[src_kangourou_2012_squadre_semifinale__Q13]]

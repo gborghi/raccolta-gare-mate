@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q18
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale nera della decorazione del tavolo quadrato*
 
@@ -50,3 +53,17 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Black percentage of the decoration of the square table*
+
+![[src_kangourou_2017_cadet_marzo__prob18.png]]
+
+> The figure shows the plan of a square table. It has a regular decoration. What percentage of the population is black? A) 16% B) 24% C) 25% D) 32% E) 36% 1 cm 1 cm 8 cm 3 4
+>
+
+**Answer:** D
+[[src_kangourou_2017_cadet_marzo__Q18]]

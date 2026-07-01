@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f1__Q03
 parent: src_obm_2001_n1_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *First three-digit number in the sequence 1, 6, 11, … (step 5)*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Primo numero a tre cifre della sequenza 1, 6, 11, ... (passo 5) *
+
+> Joana scrive la sequenza dei numeri naturali $1, 6, 11, \ldots$, dove ogni numero, con l'eccezione del primo, è uguale al precedente uno più cinque. Joana si ferma quando trova il primo numero a tre cifre della sequenza. Quel numero è:
+> 
+> (A) $100$ \quad (B) $104$ \quad (C) $101$ \quad (D) $103$ \quad (E) $102$
+
+**Risposta:** C
+[[src_obm_2001_n1_f1__Q03]]

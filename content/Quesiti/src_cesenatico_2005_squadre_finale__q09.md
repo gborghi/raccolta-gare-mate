@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q09
 parent: src_cesenatico_2005_squadre_finale
 competition: Gara a Squadre Cesenatico 2005 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima somma distanze da un punto a 2006 statue allineate*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6009
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of distances from a point to 2006 aligned statues*
+
+> The path of statues The well-known archaeologist Polynomial Jones recently came into possession of an ancient map indicating the secret entrance to Atyiahsinger Temple. Along the road leading to the temple are 2006 statues lined up, each 1 meter away from the other. According to the map, the entrance is located near one of the points that minimize the sum of the distances of the point from each statue. What is the minimum value of this sum?
+
+**Answer:** 6009
+[[src_cesenatico_2005_squadre_finale__Q09]]

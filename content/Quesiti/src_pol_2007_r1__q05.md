@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r1__Q05
 parent: src_pol_2007_r1
 competition: Olimpiade Matematica Polacca 2007 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In an acute triangle with angle C = 45 degrees, circumcenter O and orthocenter H, the line through O perpendicular to CO meets AC and BC at K and L; prove OK+KH=OL+LH.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|skill_ragionamento_geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un triangolo acuto con angolo C = 45 gradi, il circondario O e l'ortocentro H, la linea attraverso O perpendicolare a CO incontra AC e BC a K e L; dimostrare OK+KH=OL+LH.*
+
+> In un triangolo acuto $ABC$ l'angolo a $C$ è uguale a $45^\circ$, $O$ è il circondario e $H$ l'ortocentro. La linea attraverso $O$ perpendicolare a $CO$ incontra rispettivamente le linee $AC$ e $BC$ a $K$ e $L$. Prova che < MSK11/>.
+
+[[src_pol_2007_r1__Q05]]

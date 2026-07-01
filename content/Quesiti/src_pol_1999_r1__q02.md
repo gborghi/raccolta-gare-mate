@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r1__Q02
 parent: src_pol_1999_r1
 competition: Olimpiade Matematica Polacca 1999 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove the inequality (a+b+c+d)^2 <= 3(a^2+b^2+c^2+d^2)+6ab.*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza (a+b+c+d)^2 <= 3(a^2+b^2+c^2+d^2)+6ab.*
+
+> Se $a, b, c, d$ sono numeri reali, dimostrare la disuguaglianza $$(a + b + c + d)^2 \le 3(a^2 + b^2 + c^2 + d^2) + 6ab.$$
+
+[[src_pol_1999_r1__Q02]]

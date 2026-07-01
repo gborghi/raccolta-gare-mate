@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f1__Q10
 parent: src_obm_2011_n3_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of distinct ways to give R\$59.63... change in coins of 1,5,10,25 cents*
 
@@ -50,3 +53,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Numero di modi distinti per dare R\$59.63... variazione delle monete di 1,5,10,25 cent*
+
+> Luca ha comprato una cosa che costava 100 dollari per pagare. Il cassiere vuole dare il cambio utilizzando il minor numero possibile di monete $25$ centesimi, con monete di 1, 5, 10 o 25 centesimi. In quanti modi distinti il cassiere può dare il cambio utilizzando solo monete di 1, 5, 10 o 25 centesimi?
+> 
+> (A) 10 (B) 12 (C) 15 (D) 24 (E) 30
+
+[[src_obm_2011_n3_f1__Q10]]

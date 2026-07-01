@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_semifinale_a__Q05
 parent: src_cesenatico_2012_semifinale_a
 competition: Gara a Squadre Cesenatico 2012 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio minimo per dividere solido di rotazione*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1343
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum beam for dividing rotating solid < MSK1/>
+
+> Deep impact An asteroid is heading toward Earth. Its shape is that of a rotating solid, obtained by rotating around the straight axis of the side AB (which measures 3800 meters) the flat figure consisting of the square ABCD and the 4 circles with a radius of 1900 meters and centers at the vertices of the square. To destroy it, heroic miners are sent to the asteroid that can count on an infinite number of bombs, each of which disintegrates everything within a radius r from the point where it explodes. Our heroes cover the entire surface of the asteroid with bombs, only a few inches apart from each other and then detonate them simultaneously. How many meters must r be at least for the remainder of the asteroid to be split into at least two pieces?
+
+**Answer:** 1343
+[[src_cesenatico_2012_semifinale_a__Q05]]

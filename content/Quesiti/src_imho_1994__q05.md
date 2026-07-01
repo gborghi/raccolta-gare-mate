@@ -1,6 +1,7 @@
 ---
 title: IMO 1994 (XXXV International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1994__Q05
 parent: src_imho_1994
 competition: IMO 1994 (XXXV International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Functional equation on reals greater than -1*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uEhsmiYhsGIpd8-npjJnscoeuH2AmioB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Functional equation on reals greater than -1*
+
+> Let $S$ be the set of real numbers strictly greater than $-1$. Find all functions $f: S \to S$ satisfying the two conditions: 1. $f(x + f(y) + xf(y)) = y + f(x) + yf(x)$ for all $x$ and $y$ in $S$; 2. < MSK7/> is strictly increasing on each of the intervals < MSK8/> and < MSK9/>.
+
+[[src_imho_1994__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1996 — Matematica — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1996__Q05
 parent: src_cgen_1996
 competition: Concours Général des Lycées 1996 — Matematica
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integers with $k$ distinct terms summing to distinct values below $n$*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17EWEElTie5u7XVQmqQ-04NIFHkPo7Bvo/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integri con $k$ termini distinti che si sommano a valori distinti inferiori a $n$*
+
+> Che $n$ sia un numero naturale non zero. Diciamo che un numero naturale non zero $k$ soddisfa la condizione $C_n$ se esistono $2k$ numeri naturali $a_1, b_1, \ldots, a_k, b_k$, tutti distinti, in modo tale che le somme $a_1 + b_1, \ldots, a_k + b_k$ siano in coppia distinte e tutte strettamente inferiori a $n$.
+> 
+> 1. Indicare che se $k$ soddisfa la condizione $C_n$, allora $k \le \dfrac{2n-3}{5}$. 2. Indicare che $5$ soddisfa la condizione $C_{14}$. 3. Supponiamo che $\dfrac{2n-3}{5}$ sia un intero. Indicare che $\dfrac{2n-3}{5}$ soddisfa la condizione $C_n$.
+
+[[src_cgen_1996__Q05]]

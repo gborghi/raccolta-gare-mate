@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q18
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza della spezzata ABC...P*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Length of the broken ABC...P< MSK1/>
+
+![[src_kangourou_2007_benjamin_marzo__prob18.png]]
+
+> The squares in the figure were formed by intersecting the 24-centimeter-long AP segment with the broken ABC...OP line. How long is the broken ABC...OP? (a) the data are insufficient to answer B) 72 C) 96 D) 56 E) 106
+
+**Answer:** B
+[[src_kangourou_2007_benjamin_marzo__Q18]]

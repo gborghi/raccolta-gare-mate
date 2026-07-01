@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Region 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_r2__Q06
 parent: src_rmo_2014_r2
 competition: Regional Mathematical Olympiad 2014
@@ -35,6 +36,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Odd n: sum of row products and column products in n×n grid is nonzero*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zoLYrbaGeep3ecupcTbEh8c0vc3wHPKy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Odd n: la somma dei prodotti delle righe e dei prodotti delle colonne nella griglia n×n non è zero*
+
+> Supponiamo che $n$ sia pari e ogni quadrato di una griglia $n \times n$ sia arbitrariamente riempito con $1$ o $-1$. $r_j$ e $c_k$ indichino il prodotto di tutti i numeri rispettivamente nella riga $j$ e nella colonna $k$, $1 \le j, k \le n$. Provare che < MSK0/>
+
+[[src_rmo_2014_r2__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Finale (risposta aperta) — Quesito J5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_finale__QJ5
 parent: src_kangourou_2023_junior_finale
 competition: Kangourou 2023 Junior — Finale (risposta aperta)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *due valori di n*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** n=39 o n=31
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZqUD0phTjD1vGI9FmGiQjE0m_DFPuY6r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*two values of n*
+
+> $n$ shall be an integer with $0 \leq n < 40$ and $p$ a prime number greater than 5 such that $p^2 + n$ is divisible by 40. Show that $n$ can only take two values and specify which ones.
+
+**Answer:** n=39 o n=31
+[[src_kangourou_2023_junior_finale__QJ5]]

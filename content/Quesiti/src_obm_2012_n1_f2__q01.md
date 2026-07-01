@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f2__Q01
 parent: src_obm_2012_n1_f2
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bus route distance from terminal to terminal*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GopwL_0fgb7iEbs-bG1HNdfWHmDyf8B2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Distanza del percorso dell'autobus dal terminal al terminal*
+
+> Un motociclista viaggia a velocità costante lungo la rotta dell'autobus che collega il terminal A al terminal B, seguendo la linea di autobus regolare che collega i due terminal. Lasciò il terminal A e si diresse verso l'altro, e notò che ogni 3 minuti passava davanti ad una fermata di autobus. Le ci sono voluti 45 minuti per raggiungere il terminal B. Lei sa che la distanza tra il terminal e la fermata più vicina, e tra due fermate consecutive, è di 2 km. Qual è la distanza tra i due terminali?
+
+[[src_obm_2012_n1_f2__Q01]]

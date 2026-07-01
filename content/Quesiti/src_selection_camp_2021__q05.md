@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2021 — Selection Camp — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2021__Q05
 parent: src_selection_camp_2021
 competition: Japan IMO Selection Camp 2021 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Lattice convex n-gon split from interior point into consecutive even areas*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Lattice convex n-gon diviso dal punto interno in aree pari consecutive< MSK1/>
+
+> Trova tutti gli enti $n \ge 4$ che soddisfano la seguente condizione. Esiste una convexa $n$-gon la cui verticale sono tutti punti reticolari (punti le cui due coordinate sono entrambe enti) e un punto $P$ nel suo interno in modo tale che, denotando le aree dei triangoli $n$ in cui $P$ divide il poligono (unendo $P$ alle verticali) da $S_1, S_2, \ldots, S_n$ in qualche ordine, e lasciando $S$ essere l'area dell'intero poligono, le quantità $2S_1, 2S_2, \ldots, 2S_n$ sono numeri interi consecutivi e il loro valore più grande è divisibile da $S$.
+
+[[src_selection_camp_2021__Q05]]

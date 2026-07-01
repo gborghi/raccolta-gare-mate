@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2023 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2023__Q24
 parent: src_smc_2023
 competition: Senior Mathematical Challenge 2023
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Side length of a square inscribed in a regular hexagon*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza laterale di un quadrato inciso in un esagono regolare*
+
+> Un quadrato ha i suoi vertici sui bordi di un esagono regolare. Due dei bordi del quadrato sono paralleli a due bordi dell'esagono, come mostrato nel diagramma. I lati dell'esagono hanno lunghezza $1$. Qual è la lunghezza dei lati del quadrato?
+>
+> - **(A)** $\dfrac{5}{4}$
+> - **(B)** $3-\sqrt{3}$
+> - **(C)** $\dfrac{4}{3}$
+> - **(D)** $\sqrt{2}$
+> - **(E)** $\dfrac{3}{2}$
+
+![[src_smc_2023__Q24.png]]
+
+**Risposta:** B
+[[src_smc_2023__Q24]]

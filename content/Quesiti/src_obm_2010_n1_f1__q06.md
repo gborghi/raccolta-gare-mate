@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f1__Q06
 parent: src_obm_2010_n1_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which option is a divisor of 3^3 times 4^4 times 5^5?*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Quale opzione è un divisore di 3^3 per 4^4 per 5^5?
+
+> Qual è il divisore di $3^3 \cdot 4^4 \cdot 5^5$?
+> 
+> (A) $42$ \quad (B) $45$ \quad (C) $52$ \quad (D) $85$ \quad (E) $105$
+
+**Risposta:** B
+[[src_obm_2010_n1_f1__Q06]]

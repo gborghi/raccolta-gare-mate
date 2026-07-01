@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2009 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2009__Q09
 parent: src_bocconi_primavera_2009
 competition: Semifinale di Primavera 2009
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Partite vinte da Milena nel torneo di carte*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Milena ha vinto 3 partite.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14prakvd6EDcEQSfmnn_-6oGG4wcPui_K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Games won by Milena in the card tournament
+
+> Carla, Liliana and Milena are playing cards. The winner of each game gets 3 points, the second one gets 1 point, the third zero. After four matches, they finish without a draw, Liliana has 4 points and Carla has 3.
+> 
+> How many games has Milena won?
+
+**Answer:** Milena ha vinto 3 partite.
+[[src_bocconi_primavera_2009__Q09]]

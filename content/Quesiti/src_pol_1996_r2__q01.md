@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1996 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1996_r2__Q01
 parent: src_pol_1996_r2
 competition: Olimpiade Matematica Polacca 1996 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Polynomial as sum of cubes of integer-coefficient polynomials*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15CNz3kFk7PIwx8NxujVN7hqidN5tvos-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomio come somma di cubetti di polinomi a coefficiente intero*
+
+> Ogni polinomio con coefficienti interi può essere espresso come una somma di cubetti di polinomi con coefficienti interi?
+
+[[src_pol_1996_r2__Q01]]

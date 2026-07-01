@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2022 — Nível 2 — Fase x — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2022_n2_fx__Q05
 parent: src_obm_2022_n2_fx
 competition: Olimpíada Brasileira de Matemática 2022 — Nível 2 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divisor-addition process from 2022; find largest unattainable number*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yFIgKBuQEpUjEcOEwjrnJOD221-_Znel/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Processo di aggiunta del divisore a partire dal 2022; trovare il numero non raggiungibile più grande*
+
+> Inizialmente, un numero è scritto sulla lavagna. Quindi, ogni minuto, Esmeralda sceglie un divisore $d > 1$ del numero $n$ attualmente sulla scheda, cancella $n$ e scrive $n + d$. Se il numero iniziale è $2022$, quale è il numero più grande che Esmeralda non può mai scrivere sulla lavagna?
+
+[[src_obm_2022_n2_fx__Q05]]

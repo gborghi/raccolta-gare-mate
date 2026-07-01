@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q14
 parent: src_archimede_2012_febb_2livello
 competition: Archimede Gara Febbraio 2012 (8 feb) - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo di p(0)^2+q(0)^2 per polinomi con vincoli di parita*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 36
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum of p(0)^2+q(0)^2 for polynomials with parity constraints*
+
+> They are p(x) and q(x) two distinct polynomials of degree less than or equal to 3, with integer coefficients such that p(1) = q(1), p(2) = q(2), p(3) = q(3), p(−1) = −q(−1), p(−2) = −q(−2), p(−3) = −q(−3). What is the minimum value that can be assumed by [p(0)]2 + [q(0)]2?
+
+**Answer:** 36
+[[src_archimede_2012_febb_2livello__Q14]]

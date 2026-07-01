@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q10
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo CAB con raggio uguale al lato CB*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*CAB angle with radius equal to the CB side*
+
+> An ABC triangle is inscribed in a circumference whose center falls within the triangle and whose radius is as long as the CB side. What is the degree of the angle of CAB? (a) 22,5° B) 30° C) 45° D) 60° E) 90° Questions from N. 11 al N. Twenty is worth four points.
+
+**Answer:** B
+[[src_kangourou_2004_student__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q24
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count degree-14 polynomials in F such that product with q(x)=x^3+x+1 stays in F*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i polinomi di grado 14 in F in modo tale che il prodotto con q(x) = x^3+x+1 rimanga in F*
+
+> Considera l'insieme $F$ di tutti i polinomi i cui coefficienti sono nell'insieme $\{0,1\}$. Let $q(x) = x^3 + x + 1$. Il numero di polinomi $p(x)$ in $F$ di grado $14$ tale che il prodotto $p(x)q(x)$ sia anche in $F$ è:
+
+[[src_ioqm_2024__Q24]]

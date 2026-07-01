@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo27yq_yosen__Q11
 parent: src_jmo27yq_yosen
 competition: Japan Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum number of test problems realizing an equivalence*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $103$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pjGraeHG4yF3Hf3bQovok6OpLhKRwh23/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimo numero di problemi di prova che ottengono un'equivalenza*
+
+> Una classe ha $30$ studenti assegnati numeri di frequenza $1,2,\dots,30$. A questa classe è stata data una prova composta da diversi problemi. Dopo la valutazione, l'insegnante ha notato che le seguenti due proposizioni su un sottoinsieme $S$ di $\{1,2,\dots,30\}$ sono equivalenti: (1) per ogni problema, esiste un elemento $k$ di $S$ in modo tale che lo studente con numero di frequenza $k$ risponda correttamente a tale problema; (2) $S$ contiene tutti i multipli di $2$ da $1$ a $30$, o tutti i multipli di $3$ da $1$ a $30$, o tutti i multipli di $5$ da $1$ a $30$. Trova il minor numero possibile di problemi nel test.
+
+**Risposta:** $103$
+[[src_jmo27yq_yosen__Q11]]

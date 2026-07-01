@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Ecolier — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__Q04
 parent: src_kangourou_2020_ecolier_finale
 competition: Kangourou 2020 Finale nazionale Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadratini bianchi nel decimo quadrato*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0341
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>White squares in the tenth square< MSK1/>
+
+> The squares in the answers were partially grey. In which of them is the colored part greater?
+>
+> - **(A)** (Figure A)
+> - **(B)** (Figure B)
+> - **(C)** (Figure C)
+> - **(D)** (Figure D)
+> - **(E)** (Figure E) (see figure)
+
+**Answer:** 0341
+[[src_kangourou_2020_ecolier_finale__Q04]]

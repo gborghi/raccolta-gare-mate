@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Finale Ecolier (Mirabilandia) — Quesito E6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_ecolier_finale__QE6
 parent: src_kangourou_2012_ecolier_finale
 competition: Kangourou 2012 Finale Ecolier (Mirabilandia)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Si puo ottenere somma 100 sulle facce visibili dei dadi*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** no
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1mMJfJPY0vCeg0a0yLvZP0jVa8OM0-CzS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>A sum of 100 can be obtained on the visible faces of the dice< MSK1/>
+
+![[src_kangourou_2012_ecolier_finale__probE6.png]]
+
+> Peter wants to line up a number of traditional dice (the sum of points on opposite faces is always 7), as shown in the figure. He joins two faces together only if the number of points on both faces is the same, and he wants to get a row so that the sum of points on all the faces that are visible is 100. Can he do it? If so, how many dice does he have to use? If not, why? (see figure)
+
+**Answer:** no
+[[src_kangourou_2012_ecolier_finale__QE6]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q15
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei pesi dei cinque ragazzi*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Summary of the weights of the five boys< MSK1/>
+
+> Five guys climb pairs on a scale in every possible combination. The weight of beds is, in kilograms: 90, 92, 93, 94, 95, 96, 97, 98, 100, 101. Adding up the weights of the five boys gets
+>  
+> A. 225 kg       B. 230 kg C. 239 kg    D. 240 kg      E. 247 kg
+
+**Answer:** C
+[[src_kangourou_2002_cadet__Q15]]

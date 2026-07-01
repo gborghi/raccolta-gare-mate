@@ -1,6 +1,7 @@
 ---
 title: IMO 2019 papers — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2019__Q05
 parent: src_imo_2019
 competition: IMO 2019 papers
@@ -28,6 +29,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Monete Bank of Bath, valore medio L(C)*
 
@@ -42,3 +45,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JyHT55oZouRQ04YAx-a4_fyuMYOtPSWx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Bank of Bath currency, mean value L(C) *
+
+> The Bank of Bath issues coins with a $H$ on one side and a $T$ on the other. Harry has MSK2 of these coins lined up from left to right. He repeatedly performs the following operation: if there are exactly $k > 0$ coins showing $H$, then the $k$-eighth coin turns left; otherwise, all coins show $T$ and stops. For example, if $n = 3$ the process starting from the $THT$ configuration is $THT \to HHT \to HTT \to TTT$, it stops after three operations.
+> 
+> (a) Show that for each initial configuration, Harry stops after a finite number of operations.
+> 
+> (b) For each initial configuration $C$, be $L(C)$ the number of operations before Harry stops. For example, $L(THT) = 3$ and $L(TTT) = 0$. Determine the mean value of $L(C)$ over all possible initial configurations $2^n$.
+
+[[src_imo_2019__Q05]]

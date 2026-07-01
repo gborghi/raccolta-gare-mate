@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2004 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2004__Q07
 parent: src_cn_cwmo_2004
 competition: China Western Mathematical Olympiad 2004
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove 2(AF+BD+CE)=l iff P lies on incenter-circumcenter line in acute triangle*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Prova 2 ((AF+BD+CE) = l se P si trova sulla linea incenter-circumcenter in triangolo acuto< MSK1/>
+
+> $l$ è il perimetro di un triangolo acuto $\triangle ABC$ non equilaterale. $P$ è un punto variabile all'interno di $\triangle ABC$, e $D$, $E$ e $F$ sono le proiezioni di $P$ su $BC$, $CA$ e $AB$ rispettivamente. Prove che $2(AF + BD + CE) = l$ se e solo se $P$ è collineare con l'incentro e il circoncentro di $\triangle ABC$.
+
+![[src_cn_cwmo_2004__Q07.png]]
+
+[[src_cn_cwmo_2004__Q07]]

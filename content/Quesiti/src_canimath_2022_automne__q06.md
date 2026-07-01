@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2022 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_automne__Q06
 parent: src_canimath_2022_automne
 competition: Coupe Animath Automne 2022
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n lines, each intersecting exactly 10 others; find possible n*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hAlr5oS_VPXWtAhgZvHeNt9W7CHb_zHz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*n linee, ciascuna incrociata esattamente altre 10; trovare possibili n*
+
+> $n$ sia un intero positivo non zero. Supponiamo che ci sia un insieme di $n$ linee distinte nel piano in modo tale che ciascuna di esse incrociate esattamente altre dieci. Quali sono i valori possibili di $n$?
+
+[[src_canimath_2022_automne__Q06]]

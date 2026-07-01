@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f1__Q04
 parent: src_obm_2016_n2_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which letter can occupy the grey cell of a 3x3 grid of O, B, M*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Che lettera può occupare la cella grigia di una griglia 3x3 di O, B, M*
+
+> La griglia è riempita dalle lettere O, B, M (come mostrato). Gli esempi che seguono mostrano che una delle lettere può occupare la cella grigia. Quale lettera può essere inserita nella cella grigia? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente; la chiave di risposta indica che sono possibili tutte e tre le lettere O, B e M.)
+
+![[src_obm_2016_n2_f1__Q04.png]]
+
+**Risposta:** E
+[[src_obm_2016_n2_f1__Q04]]

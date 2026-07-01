@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2008 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2008_r1__Q05
 parent: src_pol_2008_r1
 competition: Olimpiade Matematica Polacca 2008 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all prime triples (p,q,r) for which pq+qr+rp and p^3+q^3+r^3-2pqr are divisible by p+q+r.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i tripli primi (p,q,r) per i quali pq+qr+rp e p^3+q^3+r^3-2pqr sono divisibili da p+q+r.*
+
+> Trova tutti i triples $(p, q, r)$ dei numeri primi per i quali $$pq + qr + rp \quad \text{and} \quad p^3 + q^3 + r^3 - 2pqr$$ sono divisibili da $p + q + r$.
+
+[[src_pol_2008_r1__Q05]]

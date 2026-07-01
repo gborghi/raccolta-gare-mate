@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Junior finale nazionale (Mirabilandia) — Quesito J6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_junior_maggio__QJ6
 parent: src_kangourou_2008_junior_maggio
 competition: Kangourou 2008 - Junior finale nazionale (Mirabilandia)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Esiste retta che interseca tutti i poligoni*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** dimostrazione
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uXc8-ZmBP-ZtvKTQDU0i6ugKKpgckWrF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+There is a line that intersects all polygons
+
+> In the plan, some polygons are assigned, not necessarily convex, in finite numbers. They are arranged in such a way that any two of them have at least one thing in common. Demonstrate that there is a line that crosses them all.
+> 
+> Does the statement remain true if instead of polygons, they are considered generic sets of points?
+
+**Answer:** dimostrazione
+[[src_kangourou_2008_junior_maggio__QJ6]]

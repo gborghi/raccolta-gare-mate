@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_triennio__Q02
 parent: src_archimede_2021_triennio
 competition: Giochi di Archimede 2021 - Gara Triennio (tradizionale)
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo valore di 5-3/x con prodotto di fattori nullo*
 
@@ -41,3 +44,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum value of 5-3/x with zero factor product*
+
+> Knowing that (3x + 2) ((7 −4x) ((4x + 7) = 0, what is the maximum value of 5 −3 x?
+>
+> - **(A)** 23/7
+> - **(B)** 35/4
+> - **(C)** 22/3
+> - **(D)** 19/2
+> - **(E)** 47/7
+
+[[src_archimede_2021_triennio__Q02]]

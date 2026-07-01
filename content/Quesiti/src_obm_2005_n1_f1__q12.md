@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q12
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fraction of square decorative plate that is painted*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fraczione di piastra decorativa quadrata dipinta*
+
+> Una piastra decorativa è costituita da un quadrato di laterale $4$ metri, dipinto in un modello simmetrico con alcune strisce, come mostrato nella figura. Quale frazione della superficie della targa è dipinta?
+> 
+> A) $\dfrac{1}{2}$ \quad B) $\dfrac{1}{3}$ \quad C) $\dfrac{3}{8}$ \quad D) $\dfrac{6}{13}$ \quad E) $\dfrac{7}{11}$
+
+![[src_obm_2005_n1_f1__Q12.png]]
+
+**Risposta:** C
+[[src_obm_2005_n1_f1__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f2__Q07
 parent: src_obm_2013_n3_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of ways to tile a 1x112 board with 1x7 and 1x8 tiles*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di modi di tessitura di una tabella da 1x112 con tessitura da 1x7 e 1x8*
+
+> Per coprire una lavagna di dimensioni $1 \times 112$, possiamo utilizzare heptomino gialle di dimensioni $1 \times 7$ e ottomino rosse di dimensioni $1 \times 8$. In quanti modi possiamo coprire completamente la lavagna?
+
+[[src_obm_2013_n3_f2__Q07]]

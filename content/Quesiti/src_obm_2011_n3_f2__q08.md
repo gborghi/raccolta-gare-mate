@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f2__Q08
 parent: src_obm_2011_n3_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer-coeff polynomial: P(x)=2011 has roots 1 and t, P(x)=0 has an integer root; find all t*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomio integrale-coeff: P(x) = 2011 ha radici 1 e t, P(x) = 0 ha una radice integrale; trova tutti t*
+
+> Che $P(x)$ sia un polinomio con coefficienti interi. È noto che $P(x) = 2011$ ha almeno due radici di numeri interi distinte uguali a $1$ e $t$, e che $P(x) = 0$ ha almeno una radice di numeri interi. Determinare tutti i possibili valori di $t$.
+
+[[src_obm_2011_n3_f2__Q08]]

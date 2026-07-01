@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_ecolier__Q08
 parent: src_kangourou_2001_ecolier
 competition: Kangourou 2001 - Ecolier (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima distanza di Pietro per la scuola*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum distance from Peter to school*
+
+![[src_kangourou_2001_ecolier__prob8.png]]
+
+> The drawing below represents the map of the neighborhood where Peter lives. Each block is a square whose sides measure 100 meters. What is the minimum distance that Peter must travel to school (if the width of the streets is considered negligible)? (A) 100 m. (B) 200 m. (C) 350 m. (D) 450 m. (E) 500 m. The questions from N. 9 al N. 16 is worth 4 points each.
+
+**Answer:** E
+[[src_kangourou_2001_ecolier__Q08]]

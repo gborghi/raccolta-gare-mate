@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2009__Q06
 parent: src_bocconi_squadre_2009
 competition: Gara a Squadre 2009
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto area triangolo delle mediane e triangolo equilatero originale*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{3}{4}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Report area triangle of medians and original equilateral triangle*
+
+> Consider the three medians of an equilateral triangle $ABC$. If you build a new triangle, the length of the sides of which is equal to the length of the three previous medians, what is the ratio between the area of the new triangle and that of $ABC$?
+
+**Answer:** $\frac{3}{4}$
+[[src_bocconi_squadre_2009__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Cesenatico 1998 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_1998__Q02
 parent: src_cesenatico_1998
 competition: Gara Nazionale Cesenatico 1998
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *due facce con stesso numero di lati*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1808Il3eNlCCoCmtYEGf6RgJ9jHdMSKuA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*two faces with the same number of sides*
+
+> It turns out that in every convex polyhedron there are at least two faces with the same number of sides.
+
+[[src_cesenatico_1998__Q02]]

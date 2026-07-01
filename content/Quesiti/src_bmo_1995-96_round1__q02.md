@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1995-96 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1995-96_round1__Q02
 parent: src_bmo_1995-96_round1
 competition: British Mathematical Olympiad 1995-96 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute f(1996) given f(1)=1996 and a recursive sum condition*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AeYwKueSuhFg80SHdY-WJiRjur5w9yrj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Calcolo f  1996) dato f  1) = 1996 e condizione somma ricorrente < MSK1/>
+
+> Una funzione $f$ è definita sull'insieme di tutti gli integri positivi e soddisfa $$f(1) = 1996$$ e $$f(1) + f(2) + \cdots + f(n) = n^2\, f(n) \quad \text{for all } n > 1.$$ Calcola il valore esatto di $f(1996)$.
+
+[[src_bmo_1995-96_round1__Q02]]

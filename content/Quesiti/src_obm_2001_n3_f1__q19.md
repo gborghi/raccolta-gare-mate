@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f1__Q19
 parent: src_obm_2001_n3_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many digits has the smallest perfect square whose last four digits are 2001*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quante cifre ha il più piccolo quadrato perfetto le cui ultime quattro cifre sono 2001*
+
+> Quante cifre ha il più piccolo quadrato perfetto le cui ultime quattro cifre sono 2001?
+> 
+> **A)** 9 $\quad$ **B)** 5 $\quad$ **C)** 6 $\quad$ **D)** 7 $\quad$ **E)** 8
+
+**Risposta:** B
+[[src_obm_2001_n3_f1__Q19]]

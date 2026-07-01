@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo25yq_yosen__Q09
 parent: src_jmo25yq_yosen
 competition: Japan Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find maximum number of distinct length-2015 subsequences of a sequence with each integer 1–2015 appearing three times*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\binom{4030}{2015} - 2015$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1puWzUo8OLdW2kCIHzGHhZaVauCRdH9Ya/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il numero massimo di subsequenze di lunghezza distinta 2015 di una sequenza con ogni numero intero 12015 che appare tre volte*
+
+> Considera una sequenza di integri $3 \times 2015 = 6030$ in cui ciascuno degli integri $1, 2, \ldots, 2015$ appare esattamente tre volte. Una \emph{half-sequence} è una selezione ordinata dei termini $2015$ di questa sequenza (ordine conservante) pensato come una subsequenza. Due semiseguenze sono considerate uguali se sono costituite dagli stessi numeri interi nello stesso ordine (anche se scelte da posizioni diverse). Su tutte le scelte della sequenza originale, trovare il numero massimo di semissequenze distinte.
+
+**Risposta:** \binom{4030}{2015} - 2015
+[[src_jmo25yq_yosen__Q09]]

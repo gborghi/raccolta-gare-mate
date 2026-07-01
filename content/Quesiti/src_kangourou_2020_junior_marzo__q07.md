@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q07
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli prima di tagliare 3 quadrati in diagonale*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Triangles before cutting 3 squares diagonally< MSK1/>
+
+> Mary had 10 pieces of paper: some were squares, the remaining triangles. He cut three squares, each along one of the diagonals. Now if you count the vertices of the pieces of paper you find, you get 42. How many triangles did you have before you cut the three squares? A) 8
+>  	
+> B) 7
+>  	
+> C) 6
+> 	
+> D) 5
+> 	
+> E) 4
+
+**Answer:** E
+[[src_kangourou_2020_junior_marzo__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q03
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punto di incontro di Jack e Susanna*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The meeting point of Jack and Susanna.
+
+![[src_kangourou_2002_junior__prob3.png]]
+
+> Jack is running at three times the speed of his little sister Susanna. They shall start at the same time from the same point P of the track shown in the figure, moving in opposite directions and following the track. Where will they meet for the first time?
+>  
+> A. A B. B C. C D. D E. E
+
+**Answer:** E
+[[src_kangourou_2002_junior__Q03]]

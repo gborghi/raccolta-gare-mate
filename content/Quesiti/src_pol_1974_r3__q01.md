@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1974 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1974_r3__Q01
 parent: src_pol_1974_r3
 competition: Olimpiade Matematica Polacca 1974 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In tetrahedron ABCD with AB perpendicular to CD and angle ACB = angle ADB, prove the plane through AB and the midpoint of CD is perpendicular to CD.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/146Qo-QecRjmtBFNNyXEbraYf0kKTmyRy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nel tetraedro ABCD con AB perpendicolare a CD e angolo ACB = angolo ADB, dimostrare che il piano attraversa AB e il punto medio del CD è perpendicolare a CD.*
+
+> In un tetraedro $ABCD$ i bordi $AB$ e $CD$ sono perpendicolari e $\angle ACB = \angle ADB$. Provare che il piano attraverso $AB$ e il punto medio del bordo $CD$, è perpendicolare a $CD$.
+
+[[src_pol_1974_r3__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_semifinale_a__Q03
 parent: src_cesenatico_2016_semifinale_a
 competition: Gara a Squadre Cesenatico 2016 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza EX (tangente alla circonferenza inscritta)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2121
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ex length (key to inscribed circumference) *
+
+> Arthur Dehn's house is about to be demolished to make way for a hook! It has the shape of a square ABCD on the side 1500 inscribed with a circumference Γ. From the point E of side AB such that AE = 750 √ 2 starts a straight (not overlapping to AB) road tangent to Γ, which intersects the straight CD in X. How big is EX?
+
+**Answer:** 2121
+[[src_cesenatico_2016_semifinale_a__Q03]]

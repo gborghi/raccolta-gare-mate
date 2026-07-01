@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f1__Q23
 parent: src_obm_2007_n3_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ball on 3x6 table bounces twice and falls in S; distance from P on side PQ*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+La palla sul tavolo 3x6 rimbalza due volte e cade in S; distanza da P sul lato PQ*
+
+> Un tavolo da biliardo ha dimensioni $3$ metri per $6$ metri con tasche alle sue quattro angolazioni $P$, $Q$, $R$ e $S$. Quando una palla colpisce il bordo della tavola, la sua traiettoria forma un angolo con il bordo uguale a quello della traiettoria in arrivo.
+> 
+> Una palla, inizialmente $1$ metro da tasca $P$, viene colpita dal lato $SP$ nella direzione del lato $PQ$, come mostra la figura. A quanti metri da $P$ la palla colpisce il lato $PQ$ se la palla cade nella tasca $S$ dopo due rimbalzi sul bordo del tavolo?
+> 
+> (A) $1$ \quad (B) $\dfrac{6}{7}$ \quad (C) $\dfrac{3}{4}$ \quad (D) $\dfrac{2}{3}$ \quad (E) $\dfrac{3}{5}$
+
+![[src_obm_2007_n3_f1__Q23.png]]
+
+**Risposta:** B
+[[src_obm_2007_n3_f1__Q23]]

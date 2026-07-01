@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2009 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2009__Q05
 parent: src_inmo_2009
 competition: Indian National Mathematical Olympiad 2009
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In acute triangle, sum of orthocentre distances ≤ 2 × largest altitude*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YPNtVo-CAi9FgLmbWRMzeSPRIJy9mPVu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nel triangolo acuto, somma delle distanze di centro ortodosso ≤ 2 × massima altitudine*
+
+> Che $ABC$ sia un triangolo acuto e che $H$ sia il suo centro ortografico. $h_{\max}$ indichi l'altitudine più grande del triangolo $ABC$. Provare che < MSK0/>
+
+[[src_inmo_2009__Q05]]

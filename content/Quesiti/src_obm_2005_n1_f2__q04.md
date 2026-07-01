@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f2__Q04
 parent: src_obm_2005_n1_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count adhesive tape pieces to border a staircase of positive integers up to 105*
 
@@ -54,3 +57,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i pezzi di nastro adesivo per contornare una scala di enti interi positivi fino a 105*
+
+> Juliana ha fissato un nastro adesivo rappresentato da rettangoli scuri nella figura qui sotto per limitare i numeri interi positivi successivi disposti in reti quadrate, fianco a fianco, dove ogni riga di quadrati ha un quadrato in più della riga sopra di esso. Ha scritto fino al numero 105 e si è fermata. Quanti pezzi di nastro adesivo ha usato?
+> 
+> $$\begin{array}{ccccc} & & 1 & & \\ & 2 & 3 & 4 & \\ 5 & 6 & 7 & 8 & \\ & & \cdots & & \end{array}$$
+> 
+> (La disposizione è una scala: la riga $k$ ha quadrati $k$ e circonda gruppi di righe con nastri adesivi.)
+
+![[src_obm_2005_n1_f2__Q04.png]]
+
+[[src_obm_2005_n1_f2__Q04]]

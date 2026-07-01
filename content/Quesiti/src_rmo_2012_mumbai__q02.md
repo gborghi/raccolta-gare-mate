@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Mumbai — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_mumbai__Q02
 parent: src_rmo_2012_mumbai
 competition: Regional Mathematical Olympiad 2012
@@ -32,6 +33,8 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divisibility by 169 of a quadratic in n*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Divisibilità per 169 di un quadratico in n*
+
+> $n$ sia un numero naturale. Prova che $169$ divide $21n^2 + 89n + 44$ se e solo se $13$ divide $n^2 + 3n + 51$.
+
+[[src_rmo_2012_mumbai__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (gara marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q24
 parent: src_kangourou_2016_ecolier_marzo
 competition: Kangourou 2016 Écolier (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale passero ha voltato la testa, piu cinguettii*
 
@@ -93,3 +96,26 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Wherever the passer turned his head, more cinguettii*
+
+![[src_kangourou_2016_ecolier_marzo__prob24.png]]
+
+> In the figure, you can see five sparrows on a string: some looking to the right, others to the left.
+>    	
+> Angelo Bruno Chicco Donato Elio Every sparrow snaps as many times as the sparrows are on the side where it looks: for example Donato snaps three times. Then one of the sparrows turns his head from the opposite side. Again, each sparrow blinks as many times as the sparrows are on the side where it looks. Now the total number of cinguettii is greater than the first time. Which passenger turned his head? (A) Angel
+> 	
+> B) Bruno
+> 	
+> C) Chicken D) Donated
+> 	
+> E) Helium
+> 
+> A category X X X X B X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X
+
+**Answer:** B
+[[src_kangourou_2016_ecolier_marzo__Q24]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2016 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2016_printemps__Q02
 parent: src_canimath_2016_printemps
 competition: Coupe Animath Printemps 2016
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Whole hours at 55 km/h; odometer goes from abc to cba with a>=1 and a+b+c<=7; find all abc.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tutte le ore a 55 km/h; odometro passa da abc a cba con a>=1 e a+b+c<=7; trovare tutti gli abc.*
+
+> Anne ha guidato la sua macchina per un numero intero (e non zero) di ore, e ha viaggiato per un intero numero di chilometri, alla velocità di $55\,\mathrm{km/h}$. All'inizio del viaggio, il chilometro indicava $abc$ chilometri, dove $abc$ è un numero a 3 cifre come $a \geqslant 1$ e $a+b+c \leqslant 7$. Al termine del viaggio, il chilometro indicava $cba$ chilometri. Determinare tutti i valori possibili del numero $abc$.
+
+[[src_canimath_2016_printemps__Q02]]

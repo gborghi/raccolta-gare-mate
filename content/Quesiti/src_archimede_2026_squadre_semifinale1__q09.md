@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_semifinale1__Q09
 parent: src_archimede_2026_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2026 - Semifinale 1
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Configurazioni gettoni con colonne non crescenti*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1715
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Configurations of tokens with non-growing columns*
+
+![[src_archimede_2026_squadre_semifinale1__prob9.png]]
+
+> Magic-force-4 Angelo Giustiniani Ron is waiting for his friend Hardy to challenge him in a magic-force-4 match, a game that is played with chips to be inserted into a vertical grid made of 6 columns, in each column you can insert up to 7 chips one on top of the other. In the waiting, Ron drops the first token in the first column to the left and this one takes the lower left place. When you put a new token, if there's already a token on the left side of the token you just put in, then the move is valid. Another valid move is to insert a new token in the first column to the left. Ron can stop whenever he wants. How many configurations can Ron get by just making valid moves (remembering that he's already put a token in)?
+
+**Answer:** 1715
+[[src_archimede_2026_squadre_semifinale1__Q09]]

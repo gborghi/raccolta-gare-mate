@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2001_squadre__Q12
 parent: src_cesenatico_2001_squadre
 competition: Gara Nazionale a Squadre Cesenatico 2001
@@ -27,6 +28,8 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza minore segmento su orologio rettangolare*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0865
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length less segment on rectangular clock*
+
+> Furniture ** (40 points)
+> 
+> The wall clocks in use in the Confederation are all in the shape of a rectangle having the angle between the $45°$ diagonals. The upper side is parallel to the ground, while the lower side measures 1224 impolite. There is only a long handful of hours that moves like ours and after half a day he has made an exact turn. In the capital, a day lasts 20 hours; at this time it is one quarter and the bidding point identifies a point that divides the main side of the rectangle into two segments. What is the length of the lesser of the two segments?
+
+**Answer:** 0865
+[[src_cesenatico_2001_squadre__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2001 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_2livello__Q12
 parent: src_archimede_2001_2livello
 competition: Archimede Gara 2º livello 2001
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo n>200 somma di 5, 6 e 7 interi consecutivi*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 315
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum n>200 sum of 5, 6 and 7 consecutive integers*
+
+> Both the smallest positive integer > 200 that can be written as either the sum of 5 consecutive integers or as the sum of 6 consecutive integers and 7 consecutive integers. How much is n?
+
+**Answer:** 315
+[[src_archimede_2001_2livello__Q12]]

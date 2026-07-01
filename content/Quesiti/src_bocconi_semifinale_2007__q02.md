@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2007 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2007__Q02
 parent: src_bocconi_semifinale_2007
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2007
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma delle cifre di $10^7 - 2007$*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 55
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the figures of $10^7 - 2007$*
+
+> Add the digits of the number $N = 10^7 - 2007$ (after performing the operations indicated). What number do you get?
+
+**Answer:** 55
+[[src_bocconi_semifinale_2007__Q02]]

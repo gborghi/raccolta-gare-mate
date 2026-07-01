@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1980-81 — Round 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1980-81_round2__Q06
 parent: src_bmo_1980-81_round2
 competition: British Mathematical Olympiad 1980-81 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *If c is rational prove x^3-3cx^2-3x+c=0 has at most one rational root*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Se c è razionale prova x^3-3cx^2-3x+c=0 ha al massimo una radice razionale*
+
+> Prova che se $c$ è un numero razionale, l'equazione $$x^3 - 3cx^2 - 3x + c = 0$$ ha almeno una radice razionale.
+
+[[src_bmo_1980-81_round2__Q06]]

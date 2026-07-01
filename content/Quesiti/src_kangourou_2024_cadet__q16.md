@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q16
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Metri percorsi dal canguro in 2024 salti (salita/discesa)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Meter of kangaroo paths in 2024 jumps (jumps/descends) *
+
+> A kangaroo jumps up a hill and then jumps down the same road. Her ascent jumps are all about a meter. Even his descending jumps are all the same length, but with a descending jump he travels three times the distance he travels with a climbing jump. The entire kangaroo makes 2024 jumps. How many meters does the kangaroo go through? A) 506 B) 1012 C) 2024 D) 3036 E) 4048
+
+**Answer:** D
+[[src_kangourou_2024_cadet__Q16]]

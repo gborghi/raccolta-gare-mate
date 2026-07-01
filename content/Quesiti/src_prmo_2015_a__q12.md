@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_a__Q12
 parent: src_prmo_2015_a
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -33,6 +34,8 @@ tags:
   - regione/a
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find $a^2 - b^2 + c^2$ from two linear equations*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova $a^2 - b^2 + c^2$ da due equazioni lineari*
+
+> $a$, $b$, $c$ siano numeri reali come $a - 7b + 8c = 4$ e $8a + 4b - c = 7$. Qual è il valore di < MSK5/>?
+
+**Risposta:** 1
+[[src_prmo_2015_a__Q12]]

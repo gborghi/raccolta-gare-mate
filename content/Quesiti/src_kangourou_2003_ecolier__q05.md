@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q05
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ore e minuti dormiti da Martino*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Hours and minutes of sleep by Martino
+
+> Anna falls asleep at 9:30 p.m. and wakes up at 6:45. His brother Martino slept an hour and 50 minutes more. How many hours and minutes did Martino sleep? (A) 30 h 5 min B) 11 h 35 min C) 11 h 5 min D) 9 h 5 min E) 8 h 35 min
+
+**Answer:** C
+[[src_kangourou_2003_ecolier__Q05]]

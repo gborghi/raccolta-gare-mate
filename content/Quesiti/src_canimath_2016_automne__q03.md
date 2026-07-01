@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2016 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2016_automne__Q03
 parent: src_canimath_2016_automne
 competition: Coupe Animath Automne 2016
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Colour 2016 collinear points in 3 colours, count ways*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Colour 2016 punti collineari in 3 colori, modi di conteggio*
+
+> I punti 2016 sono allineati su una linea. In quanti modi si possono colorare rosso, verde o blu, in modo che due punti adiacenti siano di colori diversi e ogni colore venga utilizzato almeno una volta?
+
+**Risposta:** 6
+[[src_canimath_2016_automne__Q03]]

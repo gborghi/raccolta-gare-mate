@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q07
 parent: src_archimede_2014_febb_2livello
 competition: Archimede Gara di Febbraio 2014 - 2 livello
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area di una pedina astronave su griglia unitaria*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of a single-grid spacecraft footprint*
+
+![[src_archimede_2014_febb_2livello__prob7.png]]
+
+> Alexandra and Luigi play a board game with spaceships on their feet, such as the one shown in gray in the figure on the side. If squares have sides of length 1, what is the surface area of a pedestal?
+>
+> - **(A)** 2 3
+> - **(B)** √ 3 6
+> - **(C)** 1 6
+> - **(D)** √ 2 8
+> - **(E)** 1 8 + √ 2 12
+
+**Answer:** C
+[[src_archimede_2014_febb_2livello__Q07]]

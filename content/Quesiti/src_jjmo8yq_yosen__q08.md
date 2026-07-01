@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo8yq_yosen__Q08
 parent: src_jjmo8yq_yosen
 competition: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill 3x4 grid with 1-12 preserving row/column relations of reference grid*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Riempire la griglia 3x4 con 1-12 per preservare le relazioni riga/colonna della griglia di riferimento*
+
+> A sinistra è una griglia di righe $4$ e colonne $3$, e a destra è una griglia di righe $3$ e colonne $4$. La griglia sinistra è riempita di numeri come mostrato di seguito, riga per riga: $1,2,3$ / $4,5,6$ / $7,8,9$ / $10,11,12$. La griglia destra è inizialmente vuota. In ogni cella della griglia destra scrivere un intero tra $1$ e $12$ inclusi, in modo che si applichino le seguenti due condizioni: \begin{itemize} \item Se $n$ e $m$ sono scritte nella stessa riga della griglia destra, allora nella griglia sinistra $n$ è anche scritto nella stessa riga come $m$. \item Se $n$ e $m$ sono scritte nella stessa colonna della griglia destra, nella griglia sinistra $n$ è anche scritta nella stessa colonna di $m$. Quanti possibili risultati del riempimento ci sono? (Nota: un numero può essere scritto due o più volte nella griglia destra, e alcuni numeri non devono essere scritti affatto.)
+
+![[src_jjmo8yq_yosen__Q08.png]]
+
+[[src_jjmo8yq_yosen__Q08]]

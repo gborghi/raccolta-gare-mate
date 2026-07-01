@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2015 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2015__Q01
 parent: src_inmo_2015
 competition: Indian National Mathematical Olympiad 2015
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right-angled triangle, incenters, circumcenter on hypotenuse*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wCKdKYfdVWhHtGthqrJdhPacrzqEpdcc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo rettangolare, incentri, circoncentro sull'ipotenusa*
+
+> $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. $BD$ sia l'altitudine da $B$ a $AC$. I segmenti $P$, $Q$ e $I$ siano rispettivamente gli incentri dei triangoli $ABD$, $CBD$ e $ABC$. Indicare che il circoncentro del triangolo $PIQ$ si trova sull'ipotenuza $AC$.
+
+[[src_inmo_2015__Q01]]

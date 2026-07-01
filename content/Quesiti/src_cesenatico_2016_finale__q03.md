@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q03
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto PA*PC nel trapezio isoscele (angoli)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0300
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Produced PA< MSK1/>PC in the isosceles trapezoid (angles) < MSK2/>
+
+> The missing planet within the ABCD trapezoid, the planet you will find. Master Yoneda, speaking by inversion, points to Obi-Van Kampenobi the location of the planet Rudino. The trapezoid is isosceles. Bases AB and CD 32 and 18, respectively, are long. At a point P such that PAD = PBA and PDA = PCD, the planet is located.  Obi-Van discovers from his friend TEX that the area of the ABP triangle is 192. How much is the product of PA and PC lengths?
+
+**Answer:** 0300
+[[src_cesenatico_2016_finale__Q03]]

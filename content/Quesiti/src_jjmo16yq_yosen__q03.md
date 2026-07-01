@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo16yq_yosen__Q03
 parent: src_jjmo16yq_yosen
 competition: Japan Junior Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways Taro attends exactly 6 of 10 meetings with no-attend constraint after 3 absences*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 161
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kd1TVGSchFgfQoYWGu97jdlpAwS4ecq_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i modi in cui Taro partecipa esattamente a 6 riunioni su 10 senza vincolo di partecipazione dopo 3 assenze*
+
+> Taro ha riunioni di club. Egli assisterà esattamente < MSK1/> di loro. Tuttavia, se è assente per $3$ riunioni consecutive, non è autorizzato ad assistere alla riunione immediatamente dopo tali $3$ assenze consecutive (deve anche mancare quella). In quanti modi può scegliere quali incontri frequentare?
+
+**Risposta:** 161
+[[src_jjmo16yq_yosen__Q03]]

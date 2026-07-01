@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f1__Q17
 parent: src_obm_2016_n1_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Total length of a chain/necklace of 20 linked rings.*
 
@@ -50,3 +53,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza totale di una catena/colletto di 20 anelli collegati.*
+
+> Trovare la lunghezza totale richiesta ottenuta all'interno degli anelli collegati.
+> 
+> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: divisione o incollazione delle parti come mostrato, la lunghezza richiesta è $4\,\text{mm} + 20\times 4.2\,\text{cm} + 4\,\text{mm} = 84\,\text{cm} + 0.8\,\text{cm} = 84.8\,\text{cm}$.]
+
+![[src_obm_2016_n1_f1__Q17.png]]
+
+**Risposta:** A
+[[src_obm_2016_n1_f1__Q17]]

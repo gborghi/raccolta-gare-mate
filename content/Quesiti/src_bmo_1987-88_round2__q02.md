@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1987-88 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1987-88_round2__Q02
 parent: src_bmo_1987-88_round2
 competition: British Mathematical Olympiad 1987-88 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to pair 2n objects; count pair arrangements for married couples*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1saRGuH3Bwi42EqoEIhAENB9ZwUjztngB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i modi di accoppiare 2n oggetti; conta le disposizioni di coppia per le coppie sposate*
+
+> Provare che il numero di modi di organizzare gli oggetti $2n$ distinguibili in coppie $n$ è $$1 \cdot 3 \cdot 5 \cdots (2n-1).$$ Ad esempio, le 3 coppie di $\{a, b, c, d\}$ sono: $ab, cd$; $ac, bd$; $ad, bc$.
+> 
+> Un gruppo di 10 persone composto da 5 coppie sposate sarà diviso in 5 coppie. Una coppia può essere composta da due uomini, due donne o da un uomo e una donna, ma non deve essere una coppia sposata. In quanti modi si può fare questa disposizione? Spiega attentamente il tuo ragionamento.
+
+[[src_bmo_1987-88_round2__Q02]]

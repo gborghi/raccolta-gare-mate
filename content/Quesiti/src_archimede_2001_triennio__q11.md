@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Triennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_triennio__Q11
 parent: src_archimede_2001_triennio
 competition: Giochi di Archimede 2001 - Triennio
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale affermazione vera su polinomio a coefficienti 0/1*
 
@@ -42,3 +45,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which statement is true on a polynomial with coefficients 0/1*
+
+> Either P(x) is a polynomial whose coefficients are either 0 or 1. To say which of the following is true.
+>
+> - **(A)** P(2) may not be 51
+> - **(B)** P(3) may not be valid 37
+> - **(C)** P(3) may not be used 92
+> - **(D)** P(4) may not be worth 20
+> - **(E)** P(5) cannot be worth 150.
+
+[[src_archimede_2001_triennio__Q11]]

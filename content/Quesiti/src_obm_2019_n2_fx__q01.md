@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2019 — Nível 2 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2019_n2_fx__Q01
 parent: src_obm_2019_n2_fx
 competition: Olimpíada Brasileira de Matemática 2019 — Nível 2 — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count and characterize 'robust' and 'super-robust' 8-digit numbers*
 
@@ -56,3 +59,23 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aeOcEq6wUslacZqIssF_CvSifM3PfH2W/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare e caratterizzare i numeri a 8 cifre "robusti" e "superrobusti"*
+
+> Un numero di otto cifre è denominato *robust* se soddisfa entrambe le seguenti condizioni:
+> 
+> (i) Nessuna delle sue cifre è $0$.
+> 
+> (ii) La differenza tra due cifre consecutive è $4$ o $5$.
+> 
+> Rispondi alle seguenti domande:
+> 
+> (a) Quanti numeri solidi ci sono?
+> 
+> b) Un numero robusto è chiamato *super robusto* se tutti i suoi numeri sono distinti. Calcola la somma di tutti i numeri super-robusti.
+
+[[src_obm_2019_n2_fx__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2025 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo23hq_honsen__Q03
 parent: src_jjmo23hq_honsen
 competition: Japan Junior Mathematical Olympiad 2025 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four incircle/excircle tangent points on AB and CD are concyclic*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19vi3nVIVUo2o9eKwSqYkHbpBfPtGDN5B/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro punti tangenti incircolo/escircolo su AB e CD sono conciclici*
+
+> Che $ABCD$ sia un quadrilaterale convexo e che $E$ sia l'intersezione delle sue diagonali $AC$ e $BD$. Per il triangolo $ABE$, $P$ deve essere il punto in cui l'incircolo tocca il lato $AB$, e $P'$ deve essere il punto in cui l'escircolo opposto al vertice $A$ (l'escircolo $A$) tocca il lato $AB$. Per il triangolo $CDE$, $Q$ deve essere il punto in cui l'incircolo tocca il lato $CD$, e $Q'$ deve essere il punto in cui l'escircolo opposto al vertice $C$ (il $C$-escircolo) tocca il lato $CD$. Provare che $P$, $Q$, $P'$, $Q'$ sono conciclici. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+[[src_jjmo23hq_honsen__Q03]]

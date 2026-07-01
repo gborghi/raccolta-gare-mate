@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q16
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto degli 8 dischetti esterni dai prodotti dei quadrati*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Product of the 8 external discs from the products of the squares*
+
+> Each of the 12 disks in the figure had a name written on it. Then all 12 numbers were deleted: now in each of the 5 squares that have their vertices covered by as many disks the product of the numbers that had been written in the respective disks was returned. How much is the product of the numbers that had been written on the eight outer disks, those marked in gray? A) 20 B) 40
+> 	
+> C) 80 D) 120 E) 480
+
+**Answer:** B
+[[src_kangourou_2024_junior__Q16]]

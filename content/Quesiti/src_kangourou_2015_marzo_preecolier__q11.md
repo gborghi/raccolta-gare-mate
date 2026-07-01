@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q11
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Caramelle da Roberta a Cristina per pareggiare*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+♪ Caramels from Roberta to Cristina to match ♪
+
+> Cristina has candy while Roberta has candy. How many candies does Roberta have to give Cristina if we want them both to have the same number of candies?
+> 
+> (A) $2$ (B) $3$ (C) $4$ (D) $5$ (E) $6$
+
+**Answer:** C
+[[src_kangourou_2015_marzo_preecolier__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q20
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti ordini si possono levare cinque anelli*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>In what order can five rings be removed< MSK1/>
+
+![[src_kangourou_2022_junior_gara__prob20.png]]
+
+> The figure shows a hand: three fingers have some rings, five in total. If you want to remove all the rings, how many different orders can you do it in? (Naturally no ring can scavalcarne another.)
+>   
+> B) 20
+>   
+> (C) 24 D) 30 E) 45 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** B
+[[src_kangourou_2022_junior_gara__Q20]]

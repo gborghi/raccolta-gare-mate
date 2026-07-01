@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q24
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero concorrenti nella corsa campestre*
 
@@ -48,3 +51,23 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of competitors in the field race*
+
+> Andrea and Daniel took part in a country race. In the order of arrival Andrew precedes a number of contestants twice that of those who precede Daniel and Daniel precedes a number of contestants that is one and a half times the number of those who precede Andrew. Andrea came twenty-first: how many competitors were there? A) 31
+> 	
+> B) 41
+> 	
+> C) 51
+> 	
+> D) 61
+> 	
+> E) 81
+>
+
+**Answer:** B
+[[src_kangourou_2013_cadet__Q24]]

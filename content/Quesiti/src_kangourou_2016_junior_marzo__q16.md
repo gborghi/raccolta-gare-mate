@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q16
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Confronto perimetri delle due basi di cilindretti fasciati*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Comparison of the perimeters of the two cylinder bases fastened together*
+
+![[src_kangourou_2016_junior_marzo__prob16.png]]
+
+> Andrea has twelve identical cylinders, a circular section 2 cm in diameter; she has them in two groups of six, wrapping each group with plastic film. He thus obtained two solids whose bases are shown in the figures, which we will call for short parallelogram and triangle. As regards the perimeter of the two bases, it can be stated that A) the parallelogram is shorter than < MSK0/> cm. (b) the parallelogram is shorter than 4 cm. (c) that of the triangle is shorter than < MSK1/> cm. D) the triangle is shorter than 4 cm. E) are of the same length.
+
+**Answer:** E
+[[src_kangourou_2016_junior_marzo__Q16]]

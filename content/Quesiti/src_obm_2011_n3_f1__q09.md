@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f1__Q09
 parent: src_obm_2011_n3_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of 2011*2011^2 + 2011*2003^2 - 16*2011*2007^2*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Valore del 2011*2011^2 + 2011*2003^2 - 16*2011*2007^2*
+
+> Qual è il valore dell'espressione $2011 \cdot 2011^{2} + 2011 \cdot 2003^{2} - 16 \cdot 2011 \cdot 2007^{2}$?
+> 
+> (A) $2 \times 2011^{2}$ (B) $2 \times 2011 \cdot 2003^{2}$ (C) $2 \times 2011 \cdot 2007$ (D) $2 \times 2011 \cdot 2003$ (E) $2 \times 2011 \cdot 2011^{2}$
+
+[[src_obm_2011_n3_f1__Q09]]

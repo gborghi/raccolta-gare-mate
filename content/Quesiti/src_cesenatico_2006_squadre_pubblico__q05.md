@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q05
 parent: src_cesenatico_2006_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza AB in configurazione ciclica con perpendicolare*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0015
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length AB in cyclic configuration with perpendicular*
+
+![[src_cesenatico_2006_squadre_pubblico__prob5.png]]
+
+> Question of positions [40] In order to succeed in group spells in geomancy it is necessary to be quite precise in placing yourself in the right place. Hardy, Ron and his two brothers, Henri and Smale, are positioned in points A, B, C and D which are, in the order, on a circumference as shown in the figure. We know that AC is equal to CD is equal to 10 √ 5 and that BC is equal to 5 √ 5. So E is the foot of the perpendicular from C to BD, you get CE is equal to 10. Determine the AB. A B C D
+
+**Answer:** 0015
+[[src_cesenatico_2006_squadre_pubblico__Q05]]

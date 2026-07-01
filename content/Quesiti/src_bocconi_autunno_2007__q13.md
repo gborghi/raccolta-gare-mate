@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2007 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2007__Q13
 parent: src_bocconi_autunno_2007
 competition: Giochi d'Autunno 2007
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di triangoli contenuti nella figura (bis)*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 20
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of triangles in figure (bis) *
+
+> How many triangles does the figure contain?
+
+![[src_bocconi_autunno_2007__Q13.png]]
+
+**Answer:** 20
+[[src_bocconi_autunno_2007__Q13]]

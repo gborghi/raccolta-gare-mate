@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q07
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which of five nested-fraction expressions has the largest value?*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quale delle cinque espressioni a frazione nidificata ha il valore maggiore?*
+
+> Quale delle seguenti ha il più grande valore?
+>
+> - **(A)** $\dfrac{\tfrac{1}{2}}{\tfrac{1}{3}}$
+> - **(B)** $\dfrac{1}{\dfrac{\tfrac{1}{3}}{4}}$
+> - **(C)** $\dfrac{\tfrac{1}{3}}{4}$
+> - **(D)** $\dfrac{1}{\dfrac{2}{\tfrac{1}{3}}}$
+> - **(E)** $\dfrac{\tfrac{1}{\tfrac{1}{3}}}{4}$
+
+**Risposta:** B
+[[src_smc_2015__Q07]]

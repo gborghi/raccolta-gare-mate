@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1982-83 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1982-83_round1__Q02
 parent: src_bmo_1982-83_round1
 competition: British Mathematical Olympiad 1982-83 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fibonacci sequence: show f_n - ab^n divisible by all positive integers*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13blbg3MFhT-UVgIheFrX8WBP_TBbhjZm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Sequenza di Fibonacci: mostra f_n - ab^n divisibile da tutti i numeri interi positivi
+
+> La sequenza di Fibonacci $\{f_n\}$ è definita da $$f_1 = 1,\quad f_2 = 1,\quad f_{n+2} = f_{n+1} + f_n \qquad (n > 2).$$ Prove che ci sono integri unici $a$, $b$ in modo tale che $0 < a < b$ e $f_n - ab^n$ siano divisibili da $b$ per tutti gli integri positivi $n$.
+
+[[src_bmo_1982-83_round1__Q02]]

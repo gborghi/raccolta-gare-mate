@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Ecolier (finale nazionale) — Quesito E2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_ecolier_finale__QE2
 parent: src_kangourou_2005_ecolier_finale
 competition: Kangourou 2005 - Ecolier (finale nazionale)
@@ -27,6 +28,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Stima peso minimo e massimo attuale*
 
@@ -41,3 +44,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 86 kg, 92 kg
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IkYd8e7o2p8yRZV9wdme-Pnuv7OvFI11/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Estimated current minimum and maximum weight*
+
+> Exactly a year ago, mine weighed between 90 and 95 kilograms; now I've lost about three to four kilograms of weight. With these instructions, tell me:
+> 
+> (a) under what weight can I not have fallen?
+> 
+> (b) what weight can I no longer be above?
+
+**Answer:** 86 kg, 92 kg
+[[src_kangourou_2005_ecolier_finale__QE2]]

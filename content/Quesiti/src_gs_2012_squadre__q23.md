@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q23
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima distanza minima ottenibile nella suddivisione*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 7782
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum minimum distance to be achieved in the subdivision*
+
+![[src_gs_2012_squadre__prob23.png]]
+
+> To preserve Snow White's dead body, the seven dwarfs are working tirelessly to divide into three zones a large square area fenced by a side of a mile, using only three stretches of rectangular stationary. As soon as he arrives, the Blue Prince notices that there is a maximum distance $\ell$ with the property that, however such a division is performed (i.e. using three sections of stationary of appropriate length, but without one overlapping with another), in one of the three zones there are at least two points apart $\ell$. Before kissing Snow White, the Blue Prince tells the seven dwarfs the value of MSK2/. What is the difference in millimetres between this < MSK3/> distance and the fence side?
+
+**Answer:** 7782
+[[src_gs_2012_squadre__Q23]]

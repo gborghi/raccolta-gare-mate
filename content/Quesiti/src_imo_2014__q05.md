@@ -1,6 +1,7 @@
 ---
 title: IMO 2014 (shortlist/papers) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2014__Q05
 parent: src_imo_2014
 competition: IMO 2014 (shortlist/papers)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Suddividere monete di valore 1/n in <=100 gruppi*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sharing coins of 1/n value into <=100 groups*
+
+> For every positive < MSK0/>, the Cape Town Bank issues cut coins < MSK1/>. Given a finite collection of such coins (not necessarily of different cuts) with a total value of at most $99 + \frac{1}{2}$, demonstrate that the collection can be divided into 100 or fewer groups, so that each group has a total value of at most $1$.
+
+[[src_imo_2014__Q05]]

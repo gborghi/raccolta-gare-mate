@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2014 — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2014__Q20
 parent: src_bocconi_squadre_2014
 competition: Gara a Squadre 2014
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di regioni in cui 10 rette dividono il piano*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 56
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of regions in which 10 lines divide the plan
+
+> A straight divides the plan into two regions. How many regions, at most, do MSK0/> lines divide a plan?
+
+**Answer:** 56
+[[src_bocconi_squadre_2014__Q20]]

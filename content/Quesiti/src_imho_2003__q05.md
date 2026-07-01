@@ -1,6 +1,7 @@
 ---
 title: IMO 2003 (XLIV International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2003__Q05
 parent: src_imho_2003
 competition: IMO 2003 (XLIV International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Inequality for ordered reals with equality iff arithmetic progression*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AH0yViVdXFQ9Y_GJejaNbOzxPiHzQl9i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Inequality for ordered reals with equality iff arithmetic progression
+
+> Given $n > 2$ and reals $x_1 \le x_2 \le \cdots \le x_n$, show that $$\left(\sum_{i,j} |x_i - x_j|\right)^2 \le \frac{2}{3}(n^2 - 1) \sum_{i,j} (x_i - x_j)^2.$$ Show that we have equality if the sequence is an arithmetic progression.
+
+[[src_imho_2003__Q05]]

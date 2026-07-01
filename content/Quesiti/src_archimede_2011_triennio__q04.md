@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Triennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_triennio__Q04
 parent: src_archimede_2011_triennio
 competition: Giochi di Archimede 2011 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori di m+5n con m-n=7 tra 0 e 2011*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Values of m+5n with m-n=7 between 0 and 2011*
+
+> m and n are two positive integers, such that m −n = 7. How many values between 0 and 2011 (extremes included) can be assumed from m + 5n?
+>
+> - **(A)** 6,
+> - **(B)** 334,
+> - **(C)** 670,
+> - **(D)** 1005,
+> - **(E)** 2012.
+
+**Answer:** B
+[[src_archimede_2011_triennio__Q04]]

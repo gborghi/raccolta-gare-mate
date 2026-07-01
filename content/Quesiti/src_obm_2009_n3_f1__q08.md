@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q08
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In square ABCD of side 4 with K on AD, L on AB, M on BC and KLM an isosceles right triangle with right angle at L, find the area of quadrilateral CDKM.*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nel quadrato ABCD del lato 4 con K su AD, L su AB, M su BC e KLM un triangolo rettangolo con angolo retto uguale a L, trovare l'area del CDKM quadrilaterale.*
+
+> Nella figura, $ABCD$ è un quadrato di lato $4$, $K$ appartiene al lato $AD$, $L$ appartiene al lato $AB$, $M$ appartiene al lato $BC$, e $KLM$ è un triangolo rettangolare di uguali braccia con angolo retto a $L$. Poi la superficie del quadrilaterale $CDKM$ è uguale a: (A) $6$ (B) $8$ (C) $10$ (D) $12$ (E) $14$
+
+![[src_obm_2009_n3_f1__Q08.png]]
+
+[[src_obm_2009_n3_f1__Q08]]

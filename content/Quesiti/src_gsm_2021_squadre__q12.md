@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2021_squadre__Q12
 parent: src_gsm_2021_squadre
 competition: Gara a Squadre GSM (locale Genova) 2021
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo k con MCD(k^2021-1,k^2020-1) uguale a 2021*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2022
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum k with MCD(k^2021-1,k^2020-1) equal to 2021*
+
+> Lorenzo Mazza and Giuseppe Rosolini on the Blue Path, which connects Monterosso to Riomaggiore, Ludovica and Stefano, to avoid thinking about the difficulty of the trekking, put themselves together mathematical problems. Ludovica Among the lower positive k numbers of 9999, what is the largest such that the maximum common divisor between (k2021 −1) and (k2020 −1) is 2021? Stephen (Whispering sweat from his forehead) Certainly, it is. . .
+
+**Answer:** 2022
+[[src_gsm_2021_squadre__Q12]]

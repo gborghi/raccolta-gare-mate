@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1998 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1998_r1__Q01
 parent: src_pol_1998_r1
 competition: Olimpiade Matematica Polacca 1998 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve a system of two equations involving absolute values*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi un sistema di due equazioni che coinvolgono valori assoluti*
+
+> Risolvere il sistema di equazioni: $$|x - y| - \frac{|y|}{x} = -1,$$ $$|2x - y| + |x + y - 1| + |x - y| - y + x - 1 = 0.$$
+
+[[src_pol_1998_r1__Q01]]

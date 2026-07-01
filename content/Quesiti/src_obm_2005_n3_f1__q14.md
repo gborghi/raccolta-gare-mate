@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f1__Q14
 parent: src_obm_2005_n3_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Numbers 1..12 around a circle with neighbor sums triangular; find number opposite 12*
 
@@ -50,3 +53,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri 1..12 attorno a un cerchio con somme vicine triangolare; trovare numero opposto 12*
+
+> Esmeralda adora i numeri triangolari (cioè i numeri $1$, $3$, $6$, $10$, $15$, $21$, $28$, ...), tanto che ha deciso di posizionare i numeri $1$, $2$, $3$, ..., $12$ attorno a un cerchio in modo tale che la somma di ogni coppia di numeri vicini sia un numero triangolare. All'inizio ha lasciato $12$ fuori. Il numero opposto a $12$ nella sua disposizione (il numero originale) è: (A) $1$ (B) $4$ (C) $3$ (D) $6$ (E) $10$
+
+[[src_obm_2005_n3_f1__Q14]]

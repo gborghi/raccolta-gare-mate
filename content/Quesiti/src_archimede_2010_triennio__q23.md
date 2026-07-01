@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Triennio — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_triennio__Q23
 parent: src_archimede_2010_triennio
 competition: Giochi di Archimede 2010 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio circonferenza per P, Q, B con triangoli equilateri*
 
@@ -60,7 +63,7 @@ tags:
 > - **(B)** 1 2 cm,
 > - **(C)** 1 cm,
 > - **(D)** √ 3 3 cm,
-> - **(E)** √ 3 2 cm. A B C D E
+> - **(E)** √ 3 2 cm.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
@@ -68,3 +71,42 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Radio of circumference for P, Q, B with equilateral triangles*
+
+![[src_archimede_2010_triennio__prob23.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (0,2);
+  \coordinate (B) at (0,1);
+  \coordinate (C) at (0,0);
+  \coordinate (D) at (0.866,1.5);
+  \coordinate (E) at (0.866,0.5);
+  \draw (A)--(C);
+  \draw (A)--(D)--(B);
+  \draw (B)--(E)--(C);
+  \node[left] at (A) {$A$};
+  \node[left] at (B) {$B$};
+  \node[left] at (C) {$C$};
+  \node[right] at (D) {$D$};
+  \node[right] at (E) {$E$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure below, AC measures 2 cm, B is the midpoint of AC and the triangles ABD and BCE are equilateral. If P and Q are the centers of ABD and ECB respectively, what is the radius of the passing circumference measured for P, Q and B?
+>
+> - **(A)** √ 3 6 cm,
+> - **(B)** 1 2 cm,
+> - **(C)** 1 cm,
+> - **(D)** √ 3 3 cm,
+> - **(E)** √ 3 2 cm.
+
+**Answer:** D
+[[src_archimede_2010_triennio__Q23]]

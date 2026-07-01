@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2003 — Matematica — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2003__Q06
 parent: src_cgen_2003
 competition: Concours Général des Lycées 2003 — Matematica
@@ -41,6 +42,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fifth part: an iteration $X_{n+1}=\mathcal{H}(X_n)$ starting from four points in general position, using a similitude result relating the hyperbola $xy=1$ and the degenerate locus $xy=0$; show the minimal period $m$ is $1$ or $2$ and characterize the initial sets achieving each.*
 
@@ -62,3 +65,23 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UJCBpiw9c34GcXhhhnJ3n_5gPyweBnls/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quinta parte: una iterazione $X_{n+1}=\mathcal{H}(X_n)$ partendo da quattro punti in posizione generale, utilizzando un risultato di somiglianza che relaziona l'iperbola $xy=1$ e il locus degenerato $xy=0$; mostrare il periodo minimo $m$ è $1$ o $2$ e caratterizzare gli insiemi iniziali che raggiungono ciascuno di essi.*
+
+> Quinta parte.
+> 
+> Nota con $Y_1$ l'iperbola dell'equazione $xy=1$ e con $Y_0$ l'insieme dell'equazione $xy=0$, cioè l'unione degli assi $(O,\vec{u})$ e $(O,\vec{v})$.
+> 
+> Uno ammette il seguente risultato: "Dati i quattro punti $A$, $B$, $C$ e $D$ del piano, esiste una similitudine $s$ tale che $s(A)$, $s(B)$, $s(C)$ e $s(D)$ appartengono tutti a $Y_1$, o altrimenti tutti appartengono a $Y_0$".
+> 
+> I punti $A_0$, $B_0$, $C_0$ e $D_0$ siano quattro punti, tre per tre non collineari e $X_0=\{A_0,B_0,C_0,D_0\}$. Uno definisce con ricorrenza $X_{n+1}=\mathcal{H}(X_n)$ per ogni intero naturale $n$. Si suppone che esista un intero rigorosamente positivo $n$ tale che $X_n=X_0$ e si denota con $m$ il numero intero più piccolo che abbia questa proprietà.
+> 
+> 1. Indicare che $m=1$ o $m=2$.
+> 
+> 2. Determinare le serie $X_0$ tali da $m=1$, poi quelle tali da $m=2$.
+
+[[src_cgen_2003__Q06]]

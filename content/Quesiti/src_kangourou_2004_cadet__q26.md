@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q26
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza x-y dopo 999 secondi (vertici)*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Differential x-y after 999 seconds (vertical) < MSK1/>
+
+![[src_kangourou_2004_cadet__prob26.png]]
+
+> A pop artwork consists of a triangle in which three vertices of a, b, c numbers are lit every second, varying according to the law shown in the figure to the left. Initially, the numbers associated with the vertices are 1, 3, 5 respectively. After 999 seconds, how much
+> 
+> I'm going to pay. I'm going to pay. 21 21 Kang 2004 Kang 2004 is the difference x - y (see figure to the right)? A) −2          B) 2           C) 1998       D) 998        E)  (−2)1999
+
+**Answer:** A
+[[src_kangourou_2004_cadet__Q26]]

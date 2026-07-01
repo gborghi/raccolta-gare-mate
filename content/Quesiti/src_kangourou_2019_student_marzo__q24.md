@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q24
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti piani passano per almeno tre vertici di un cubo*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many planes pass through at least three vertices of a cube*
+
+> How many distinct planes pass through at least three vertices of an assigned cube? A) 6
+> 	
+> B) 8
+> 	
+> C) 12
+> 	
+> D) 16
+> 	
+> E) 20
+
+**Answer:** E
+[[src_kangourou_2019_student_marzo__Q24]]

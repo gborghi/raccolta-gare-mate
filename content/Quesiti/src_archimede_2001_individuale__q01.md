@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_individuale__Q01
 parent: src_archimede_2001_individuale
 competition: Archimede 2001 - Gara Nazionale Individuale (Cesenatico)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *trovare i due lati mancanti*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** f=8, e=1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*find the missing two sides*
+
+![[src_archimede_2001_individuale__prob1.png]]
+
+> An equilateral hexagon has four consecutive sides of length in the order $5$, $3$, $6$ and $7$. Determine the lengths of the other two sides.
+
+**Answer:** f=8, e=1
+[[src_archimede_2001_individuale__Q01]]

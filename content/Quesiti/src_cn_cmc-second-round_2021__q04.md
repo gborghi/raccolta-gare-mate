@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Second Round) 2021 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-second-round_2021__Q04
 parent: src_cn_cmc-second-round_2021
 competition: China Mathematical Competition (Second Round) 2021
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum k so that any k arbitrarily colored points on 100-point circle can be completed to a valid pairing*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 50
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maxima k in modo che qualsiasi k punti di colore arbitrario sul cerchio di 100 punti possa essere completato per un abbinamento valido*
+
+> (Test Paper A, Problema 4) Dati 100 punti diversi su un cerchio, cercate di determinare il numero intero massimo positivo $k$ soddisfacente: colorate i punti $k$ dei 100 punti in modo arbitrario rosso o blu, e i punti rimanenti possono essere colorati correttamente rosso o blu, in modo che i 100 punti possano essere utilizzati come punti finali per creare 50 segmenti, qualsiasi due segmenti non hanno un punto comune e i punti finali di ogni segmento sono dello stesso colore.
+
+**Risposta:** 50
+[[src_cn_cmc-second-round_2021__Q04]]

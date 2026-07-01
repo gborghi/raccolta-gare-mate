@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2020 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2020__Q02
 parent: src_cn_csmo_2020
 competition: China Southeastern Mathematical Olympiad 2020
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle, circumcircle, incenter, midpoint of arc; prove collinearity M,B,T*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles, circoncircolo, incentro, punto medio dell'arco; prova collinearità M,B,T*
+
+> Come illustrato in Fig. 2.1, in $\triangle ABC$, $AB = AC$, $PB$, $PC$ sono tangenti al circoncircolo $O$ di $\triangle ABC$. $R$ sia un punto su $\widehat{AC}$ con $AR \parallel BC$, e $Q$ sia l'altra intersezione di $PR$ e cerchio $O$. Che $I$ sia l'incentro di $\triangle ABC$, $ID \perp BC$ con piede $D$ e $G$ sia l'altra intersezione di $QD$ e di cerchio $O$. Supponiamo che la linea attraverso $I$ e perpendicolare a $AI$ incroci le linee $AG$, $AC$ rispettivamente nei punti $M$ e $N$. $S$ sia il punto medio di $\widehat{AR}$, $T$ sia l'altra intersezione della linea $SN$ e del cerchio $O$. Provare che < MSK30/>, < MSK31/>, < MSK32/> sono collineari.
+
+![[src_cn_csmo_2020__Q02.png]]
+
+[[src_cn_csmo_2020__Q02]]

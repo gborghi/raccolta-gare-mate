@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q24
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A2-2: maximum of f(x)=2sin^2 x - tan^2 x.*
 
@@ -45,3 +48,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>A2-2: massimo di f(x)=2sin^2 x - tan^2 x.< MSK1/>
+
+> [Papero di prova A2, problema 2] Il massimo di $f(x)=2\sin^2 x-\tan^2 x$ è ______.
+
+**Risposta:** 3-2\sqrt{2}
+[[src_cn_cmc-first-round_2021__Q24]]

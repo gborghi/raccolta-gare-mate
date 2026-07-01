@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q19
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di tre cifre con potenza 14-esima a 30 cifre*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 119
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three-digit number with a power of 14 to 30 digits *
+
+> To pass the time, Warlock calculates the fourteenth power of a positive integer and gets $114197726928752863294965276721$.
+> 
+> What's the positive integer that Warlock raised to the 14th power?
+
+**Answer:** 119
+[[src_gs_2008_squadre__Q19]]

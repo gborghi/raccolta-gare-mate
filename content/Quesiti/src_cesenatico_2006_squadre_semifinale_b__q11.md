@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_b__Q11
 parent: src_cesenatico_2006_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2006 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volte che lancetta secondi sorpassa minuti in 24 ore*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1416
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Volt that launches seconds exceeds minutes in 24 hours< MSK1/>
+
+> Hermitage is quite confused by the use of Time Travel, which allows her to travel through time. So she finds herself often forced to keep an eye on the clock. Both N the number of times, in 24 hours, the second hand exceeds the minute hand. How much is N?
+
+**Answer:** 1416
+[[src_cesenatico_2006_squadre_semifinale_b__Q11]]

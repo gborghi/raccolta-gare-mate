@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2011 — Quesito
   7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2011__Q07
 parent: src_bocconi_finalenaz_2011
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2011
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di mosse nel puzzle con casella vuota*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Ci vorranno 10 mosse
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of moves in the empty box puzzle*
+
+> In this game you can move a square located next to it into the empty box. For example, in the situation shown in the figure to the left, you can move the square 3 or square 2 into the empty box. In how many moves, at least, can you move from the position of the figure on the left to that of the figure on the right (which is impossible to make the previous transformation)?
+
+![[src_bocconi_finalenaz_2011__Q07.png]]
+
+**Answer:** Ci vorranno 10 mosse
+[[src_bocconi_finalenaz_2011__Q07]]

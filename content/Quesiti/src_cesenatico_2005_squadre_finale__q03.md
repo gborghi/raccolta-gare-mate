@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q03
 parent: src_cesenatico_2005_squadre_finale
 competition: Gara a Squadre Cesenatico 2005 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di comporre carovana di 18 animali senza adiacenti uguali*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6765
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Mode of making up a caravan of 18 animals with no equivalent adjoining < MSK1/>
+
+> Well-known archaeologist Polynomial Jones is organizing an expedition into the desert and needs 18 pets to transport the equipment. Beasts can be dromedaries or camels. As everyone knows, dromedaries are unsociable and rather irascible animals: when placed in line, they do not tolerate having animals of their own kind in front of them (or behind them). How many different ways can Jones polynomial compose the animal caravan without the animals getting stuck?
+
+**Answer:** 6765
+[[src_cesenatico_2005_squadre_finale__Q03]]

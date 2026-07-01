@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q02
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Con quanti compagni ha ballato la quarta ragazza*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+With how many companions did the fourth girl dance?
+
+> Four girls and four boys attended a dance party. Eventually, the four boys claimed to have danced with 3, 1, 2, 2 different partners while three of the girls claimed to have danced with 2 different partners each. How many different girlfriends did the fourth girl dance with? A) 1 B) 3 C) 0 D) 4 E) 2
+
+**Answer:** E
+[[src_kangourou_2009_cadet_marzo__Q02]]

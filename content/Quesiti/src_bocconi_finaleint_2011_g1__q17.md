@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 1) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g1__Q17
 parent: src_bocconi_finaleint_2011_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piccoli cubi intersecati da piano perpendicolare diagonale del cubo 2011*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9 099 271
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Little cubes intersected by a perpendicular diagonal plane of the 2011 cube*
+
+> A large cube $2011 \times 2011 \times 2011$ is composed of $8.132.727.331$ identical small cubes. A plane perpendicular to a diagonal of the cube passes through its center. < MSK2/>How many small cubes does it intersect? < MSK3/>
+
+**Answer:** 9 099 271
+[[src_bocconi_finaleint_2011_g1__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1985-86 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1985-86_round1__Q06
 parent: src_bmo_1985-86_round1
 competition: British Mathematical Olympiad 1985-86 — Round 1
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cube section area equals tetrahedron section area under parallel planes*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lLrqivQ3O-Z7kbBj5SWrC104ePjmgMFw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area della sezione cubica è uguale all'area della sezione tetraedro sotto piani paralleli*
+
+> $AB$, $AC$, $AD$ sono tre bordi di un cubo. $AB$ è prodotto a $X$ in modo che $AX = 2AC$, e $AD$ è prodotto a $Y$ in modo che $AY = 3AD$. Prova che l'area della sezione del cubo per qualsiasi piano parallelo a $BCD$ è uguale all'area della sezione trasversale del tetraedro $ABEF$ per lo stesso piano.
+
+[[src_bmo_1985-86_round1__Q06]]

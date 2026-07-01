@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2019 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2019__Q03
 parent: src_rmo_2019
 competition: Regional Mathematical Olympiad 2019
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove an inequality for positive reals with a+b+c=1.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gH34ilbEvo69eusEOFKpyZYPt0gnWDcP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rimostra una disuguaglianza per i reali positivi con a+b+c=1.*
+
+> $a, b, c$ siano numeri reali positivi come $a + b + c = 1$. Provare che < MSK0/>
+
+[[src_rmo_2019__Q03]]

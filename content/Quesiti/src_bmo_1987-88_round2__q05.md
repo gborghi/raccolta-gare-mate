@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1987-88 — Round 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1987-88_round2__Q05
 parent: src_bmo_1987-88_round2
 competition: British Mathematical Olympiad 1987-88 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Skew lines with moving segment; sphere through four points has centre on fixed circle*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1saRGuH3Bwi42EqoEIhAENB9ZwUjztngB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Line pieghevoli con segmento in movimento; sfera attraverso quattro punti ha il centro su un cerchio fisso*
+
+> $L$ e $M$ sono due linee skew nello spazio, cioè non si incontrano né sono parallele. $A$, $B$ sono i punti di $L$ e $M$ rispettivamente in modo tale che $AB$ sia perpendicolare sia a $L$ che a $M$. I punti $P$ su $L$ e $Q$ su $M$ variano in modo che $PQ$ sia di lunghezza costante.
+> 
+> Indicare che il centro della sfera attraverso $A$, $B$, $P$, $Q$ si trova su un cerchio fisso con il centro il punto medio di $AB$.
+
+[[src_bmo_1987-88_round2__Q05]]

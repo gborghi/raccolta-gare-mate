@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior — Semifinale individuale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_semifinale__Q17
 parent: src_kangourou_2022_junior_semifinale
 competition: Kangourou 2022 Junior — Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Polinomi a coeff interi con radice 1+√2, min somma |coeff|*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1q4eeCpaS_1aSTIYHi1bK45-1x3orSnEw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Integer coefficient polynomials with roots 1+√2, min sum
+
+> (7 points) Indicate with P the set of polynomials with integer coefficients whose roots are 1 + < MSK0/>2 and whose degree is as low as possible. For a polynomial P, denote with s(P) the sum of the absolute values of the coefficients of P. What is the minimum possible value for s(P) when P varies from P to P?
+
+**Answer:** 4
+[[src_kangourou_2022_junior_semifinale__Q17]]

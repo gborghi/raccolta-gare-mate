@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f3__Q03
 parent: src_obm_2006_n1_f3
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Dartboard scoring: count distinct scores with 2 arrows, then participants with 3 arrows*
 
@@ -56,3 +59,21 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FsRdAPbcst2JE6FUdAJxsjzLVbBqnPA7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto di scorciatura: contare i punteggi distinti con 2 frecce, quindi i partecipanti con 3 frecce*
+
+> Un arciere tira frecce al bersaglio mostrato a destra. I numeri indicano il punteggio ottenuto in ogni regione colpita da una freccia (se la freccia colpisce esattamente una linea, il punteggio è il minore delle due regioni adiacenti). Si noti che la regione rettangolare punta < MSK0/> punti.
+> 
+> L'obiettivo ha regioni circolari concentriche con punteggi $1$, $2$, $3$, $4$, $5$ dal cerchio più esterno al cerchio più interno (con il rettangolo di valore $0$).
+> 
+> (a) In una competizione, ogni partecipante spara frecce $2$. Quanti punti totali possono essere ottenuti?
+> 
+> b) In un'altra gara, ogni partecipante sparerà frecce $3$. Curiosamente, non ci sono stati rapporti e tutti i punteggi possibili sono stati raggiunti. Quanti partecipanti c'erano in questa competizione?
+
+![[src_obm_2006_n1_f3__Q03.png]]
+
+[[src_obm_2006_n1_f3__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q07
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale aumento volume mattone errato*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Percentage increase in wrong brick volume< MSK1/>
+
+> One firm has been commissioned to make rectangular parallel-piped bricks. The required dimensions were 10 cm < MSK0/> 12 cm < MSK1/> 14 cm, but by mistake the bricks produced were 12 cm < MSK2/> 14 cm < MSK3/> 16 cm. By what percentage is the volume of the brick manufactured greater than the volume of the brick ordered? A) 20% B) 30% C) 40% D) 50% E) 60%
+
+**Answer:** E
+[[src_kangourou_2005_junior__Q07]]

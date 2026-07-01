@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 1) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g1__Q14
 parent: src_bocconi_finaleint_2010_g1
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tagliare con un tratto rettilineo la superficie grigia di sette cerchi e quadrati in due parti uguali.*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 7 soluzioni (vedi figure)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cut the gray surface of seven circles and squares into two equal parts with a straight line.*
+
+> Each of the seven dwarfs laid an apple on a flat table. These apples are identical and, seen from above, arranged as in the figure. The square is regular, the side of a square and the radius of a circle are the same length. Each circle is centered on a vertex of the quadrature. Snow White wants to divide the whole (the gray surface of the figure) into two equal parts (surfaces). Retrieve this straight cut, knowing that the stretch must pass through a node (vertical) of the squaring.
+
+![[src_bocconi_finaleint_2010_g1__Q14.png]]
+
+**Answer:** 7 soluzioni (vedi figure)
+[[src_bocconi_finaleint_2010_g1__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f2__Q06
 parent: src_obm_2006_n3_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distribute n+1 distinct toys to n children, each gets at least one*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1opr1KnCz4sXqFTqwDJVnexLXTOtfy7Cz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Distribuire n+1 giocattoli distinti a n bambini, ognuno ne ottiene almeno uno*
+
+> $n$ sia un numero intero positivo. In quanti modi possiamo distribuire $n+1$ giocattoli distinti tra $n$ bambini in modo che ogni bambino riceva almeno un giocattolo?
+
+[[src_obm_2006_n3_f2__Q06]]

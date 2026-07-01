@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q13
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of pentagon ABCDE on a 1 cm dot grid*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area del pentagono ABCDE su una griglia a punti di 1 cm*
+
+> Nella disposizione rettangolare dei punti riportata di seguito, la distanza tra i punti vicini della stessa riga o colonna è di 1 cm.
+> 
+> L'area del pentagono $ABCDE$, in $\text{cm}^2$, è:
+> 
+> (A) 9 \quad (B) $\dfrac{19}{2}$ \quad (C) 10 \quad (D) $\dfrac{21}{2}$ \quad (E) 11
+
+![[src_obm_2003_n1_f1__Q13.png]]
+
+**Risposta:** B
+[[src_obm_2003_n1_f1__Q13]]

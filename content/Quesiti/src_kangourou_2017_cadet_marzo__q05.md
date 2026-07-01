@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q05
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lia quarta a sinistra settima a destra*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fourth left seventh right *
+
+> A group of girls are sitting in a circle. Lia is the fourth on Anne's left and the seventh on her right. How many girls are in the group? A) 9
+> 	
+> B) 10
+> 	
+> C) 11
+> 	
+> D) 12
+> 	
+> E) 13
+
+**Answer:** C
+[[src_kangourou_2017_cadet_marzo__Q05]]

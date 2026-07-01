@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q09
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *108 caselle, somma consecutiva*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0130
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*108 boxes, sum of which *
+
+> The house roulette Abacus  50 points
+> 
+> There's a weird roulette game at Professor Abacus' house. In this roulette, there are 108 boxes in a circle, each of which has a number written on it. However, if you take 20 consecutive boxes, the sum of the numbers written in them is always equal to 1000. There is also a box in which the number 1 appears and if the others are numbered in a clockwise direction starting from it, the 19th box shows the number 19 and the 50th the number 50. What number is written in the hundredth box?
+
+**Answer:** 0130
+[[src_archimede_2002_squadre__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2007 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2007__Q02
 parent: src_inmo_2007
 competition: Indian National Mathematical Olympiad 2007
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Represent 9n as sum of three squares with nonzero-integer coefficients*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GDB9h1f2j9Id2KXkRQkP-aK4nL-Se5hG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Representare 9n come somma di tre quadrati con coefficienti non interi*
+
+> $n$ sia un numero naturale tale che $n = a^2 + b^2 + c^2$, per alcuni numeri naturali $a, b, c$. Prove che $$9n = (p_1 a + q_1 b + r_1 c)^2 + (p_2 a + q_2 b + r_2 c)^2 + (p_3 a + q_3 b + r_3 c)^2,$$ dove $p_i$, $q_i$, $r_i$ sono tutti ** non zero** integri. Inoltre, se $3$ divide ** non ** almeno uno di $a, b, c$, dimostrare che $9n$ può essere espresso nella forma $x^2 + y^2 + z^2$, dove $x, y, z$ sono numeri naturali ** nessuno dei quali ** è divisibile da $3$.
+
+[[src_inmo_2007__Q02]]

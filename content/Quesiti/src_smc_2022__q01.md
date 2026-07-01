@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2022 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2022__Q01
 parent: src_smc_2022
 competition: Senior Mathematical Challenge 2022
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Simplify a product-of-differences expression involving fifth powers and factorial-style denominators.*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Semplificare un'espressione prodotto delle differenze che coinvolge quinte potenze e denominatori di stile fattoriale.*
+
+> Quando l'espressione $\frac{(2^5-1)\times(3^5-1)\times(4^5-1)\times(5^5-1)\times(6^5-1)}{(2\times3)\times(3\times4)\times(4\times5)\times(5\times6)}$ è semplificata, quale delle seguenti è ottenuto?
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 5
+> - **(E)** 6
+
+**Risposta:** D
+[[src_smc_2022__Q01]]

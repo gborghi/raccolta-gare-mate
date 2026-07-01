@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q05
 parent: src_kangourou_2024_ecolier_semifinale
 competition: Kangourou Semifinale individuale Ecolier 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero al posto del punto interrogativo (consecutivi non connessi)*
 
@@ -69,3 +72,35 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number at the place of the question mark (unrelated sequences) *
+
+![[src_kangourou_2024_ecolier_semifinale__prob5.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[every node/.style={draw, circle, minimum size=1cm, thick}]
+  \node (Q) at (0,0) {?};
+  \node (A) at (2,0) {};
+  \node (B) at (4,1) {};
+  \node (C) at (4,-1) {};
+  \node (D) at (6,0) {};
+  \draw[thick] (Q) -- (A);
+  \draw[thick] (A) -- (B);
+  \draw[thick] (A) -- (C);
+  \draw[thick] (B) -- (D);
+  \draw[thick] (C) -- (D);
+\end{tikzpicture}
+\end{document}
+```
+
+> (Points 4) Each of the numbers 1, 2, 3, 4, 5 must be placed in one of the circles in the figure (one per circle only) so that two consecutive numbers are never in two circles connected by a segment. What number should be placed in place of the question mark? A) Only two. B) Only three. C) 2 or 4. D) 1 or 5. E) Only one. Answer: B). The solution. For direct verification on the five numbers. (the vertices of the rhombus must contain pairs of consecutive numbers arranged at opposite vertices)
+>  
+> ?
+
+**Answer:** B
+[[src_kangourou_2024_ecolier_semifinale__Q05]]

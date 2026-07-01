@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2017 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2017__Q18
 parent: src_garaprime_2017
 competition: Gara Nazionale Classi Prime 2017
@@ -24,6 +25,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Media dei non partecipanti da media pesata*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mean of non-participants by weighted average*
+
+> On the island of Kenoncè, all students who finished high school this year took part in the university entrance test. Taking into account the entire school population, the average test score was 11. But if you narrow it down to students who took part in math competitions, which is 25% of the total, the average test score was much higher: 18 points. Then, indicating with p the average score of students who did not take part in mathematics competitions, you get: A 8 ≤p < 9 B 10 ≤p < 11 C 9 ≤p < 10 D 7 ≤p < 8 E 6 ≤p < 7 F p < 6 1
+> 
+> Solutions Below you will find the solutions in written form. Some of the solutions in the form of videos will later be published on the YouTube channel: problemisolti.it
+
+**Answer:** A
+[[src_garaprime_2017__Q18]]

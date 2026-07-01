@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q15
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di studenti presenti in aula*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 125 studenti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of students in the classroom*
+
+> In the classroom, 80 percent of the students are girls. Of these, 40 percent are in their first year of college. Of these, only 20% have never participated in the "International Mathematical Games Championships".
+> 
+> How many students are in the classroom, at least?
+
+**Answer:** 125 studenti
+[[src_bocconi_squadre_2013__Q15]]

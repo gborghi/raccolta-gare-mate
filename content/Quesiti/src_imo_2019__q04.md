@@ -1,6 +1,7 @@
 ---
 title: IMO 2019 papers — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2019__Q04
 parent: src_imo_2019
 competition: IMO 2019 papers
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (k,n) con k!=(2^n-1)(2^n-2)...*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JyHT55oZouRQ04YAx-a4_fyuMYOtPSWx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Couples (k,n) with k!=(2^n-1)(2^n-2)...< MSK1/>
+
+> Find all positive integers < MSK1/> pairs such as < MSK0/>
+
+[[src_imo_2019__Q04]]

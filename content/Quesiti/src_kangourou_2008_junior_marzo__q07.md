@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q07
 parent: src_kangourou_2008_junior_marzo
 competition: Kangourou 2008 - Junior (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra corrispondente a K in OK+KO=WOW*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Chapter corresponding to K in OK+KO=WOW*
+
+![[src_kangourou_2008_junior_marzo__prob7.png]]
+
+> In the box, each letter is represented by one and only one digit and vice versa, each digit in play is represented by one and only one letter. What is the number corresponding to the letter K? A) 0 B) 1 C) 2 D) 8 E) 9
+
+**Answer:** E
+[[src_kangourou_2008_junior_marzo__Q07]]

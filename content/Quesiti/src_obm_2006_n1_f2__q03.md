@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f2__Q03
 parent: src_obm_2006_n1_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find A/223 from a telescoping sum pattern*
 
@@ -52,3 +55,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1srmyb0DAUnIq9SKYuIOrk5cCPzS2K6he/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca A/223 da un modello di somma telescopica*
+
+> Osservare le seguenti equazioni: $$1 = 1$$ $$1 + 2 + 1 = 4$$ $$1 + 2 + 3 + 2 + 1 = 9$$ $$1 + 2 + 3 + 4 + 3 + 2 + 1 = 16$$ $$\vdots$$ $$1 + 2 + 3 + \cdots + 2006 + 2007 + 2006 + \cdots + 3 + 2 + 1 = A$$
+> 
+> Qual è il valore di < MSK0/>?
+
+[[src_obm_2006_n1_f2__Q03]]

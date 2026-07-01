@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1975-76 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1975-76_round2__Q01
 parent: src_bmo_1975-76_round2
 competition: British Mathematical Olympiad 1975-76 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a ratio sum is constant for point in triangle*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KOrdnSCj31p80BGIDGvH7v-v3TGPV0jd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che la somma del rapporto è costante per il punto nel triangolo*
+
+> Attraverso un punto $P$ all'interno di un triangolo fisso $ABC$ le linee $PL$, $PM$, $PN$ sono disegnate parallele alle medie rispettivamente attraverso $A$, $B$, $C$ per raggiungere $BC$, $CA$, $AB$ rispettivamente a $L$, $M$ e $N$. Provare che $$\frac{BL}{BC} + \frac{CM}{CA} + \frac{AN}{AB}$$ è costante (indipendente da $P$).
+
+[[src_bmo_1975-76_round2__Q01]]

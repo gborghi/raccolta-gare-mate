@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q16
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di h nei cinque quadrati disposti*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of h in the five squares set*
+
+![[src_kangourou_2021_cadet__prob16.png]]
+
+> Five squares are arranged as shown in the figure. The smallest square has an area of 1 cm2. How much is h in centimeters? A) 3
+> 	
+> B) 3,5
+> 	
+> C) 4
+> 	
+> D) 4,2 E) 4,5
+
+**Answer:** C
+[[src_kangourou_2021_cadet__Q16]]

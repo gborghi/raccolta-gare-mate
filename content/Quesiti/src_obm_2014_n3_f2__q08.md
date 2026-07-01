@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f2__Q08
 parent: src_obm_2014_n3_f2
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum points so every unit circle inside square 4x4 contains a point*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XkAXjIN4Wy75ir0QX-HQaiyTPxhLBK2C/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di punti in modo che ogni cerchio unitario all'interno di quadrato 4x4 contiene un punto*
+
+> Il $ABCD$ deve essere quadrato con lunghezza laterale $4$. Un insieme $S$ di punti all'interno di $ABCD$ ha la seguente proprietà: ogni cerchio di raggio $1$ contenuto interamente all'interno di $ABCD$ (cioè contenuto all'interno o al suo confine) contiene almeno un punto di $S$. Qual è il numero minimo di punti in $S$?
+
+[[src_obm_2014_n3_f2__Q08]]

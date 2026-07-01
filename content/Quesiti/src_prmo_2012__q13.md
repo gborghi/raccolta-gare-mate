@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2012__Q13
 parent: src_prmo_2012
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2012
@@ -32,6 +33,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of cyclic sum a/b + b/c + c/d + d/a with given conditions*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valore della somma ciclica a/b + b/c + c/d + d/a con determinate condizioni*
+
+> Se $a = b - c$, $b = c - d$, $c = d - a$ e $abcd \neq 0$, qual è il valore di $\dfrac{a}{b} + \dfrac{b}{c} + \dfrac{c}{d} + \dfrac{d}{a}$?
+
+[[src_prmo_2012__Q13]]

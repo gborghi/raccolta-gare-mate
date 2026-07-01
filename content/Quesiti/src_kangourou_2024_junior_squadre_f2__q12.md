@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Junior Finale 2 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_squadre_f2__Q12
 parent: src_kangourou_2024_junior_squadre_f2
 competition: Kangourou Squadre 2024 Junior Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale area S rispetto area T triangolo 3,4,5*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0014
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Percentage of area S with respect to area T triangle 3.4,5
+
+> The dimensions of the sides of a T triangle are 3, 4 and 5. The height and median of this triangle relative to the top of the major angle are sides of the same S triangle. What percentage of the area of T is the area of S?
+
+**Answer:** 0014
+[[src_kangourou_2024_junior_squadre_f2__Q12]]

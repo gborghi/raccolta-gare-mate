@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2008 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2008__Q03
 parent: src_cgen_2008
 competition: Concours Général des Lycées 2008 — Matematica
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *The butcher who rounds every price to the nearest whole euro: from two found receipts with rounded totals, find all possible whole-euro-rounded prices per kilo of chops and roast, and explain why all the day's receipts cannot determine the exact prices.*
 
@@ -57,3 +60,19 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IEBXapc8Xti2FnyfVXhsQrfrBf7j3lVa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il macellaio che arrotonda ogni prezzo al euro intero più vicino: da due ricevute trovate con totali arrotondati, trova tutti i possibili prezzi arrotondati in euro intero per chilo di ciocco e tostato e spiega perché le ricevute di tutti i giorni non possono determinare i prezzi esatti.*
+
+> Il problema 3: i conti "rondati".
+> 
+> Il mio macellaio non conta mai. Per esempio, ho preso 300 g di fileto a 34,3 euro al chilo, 240 g di carne piccante a 8,6 euro al chilo e 640 g di seno di pollo a 12,99 euro al chilo: ho pagato 10 euro per il fileto, 2 euro per la carne piccante e 8 euro per il pollo, cioè 20 euro in totale.
+> 
+> 1. Mentre raccoglie due ricevute cadute a terra, il macellaio legge: - 750 grammi di ciocche, 250 grammi di tostato. Complesso: 18 euro; - 250 g di ciocche, 500 g di rosta. Total: 17 euro. Quali possono essere i possibili prezzi per il chilo di ciocche e il chilo di rossato (un dato darà tutte le soluzioni)?
+> 
+> 2. Perché i dati relativi a tutti i ricevute del giorno non permettono in nessun caso di determinare il prezzo esatto di ciascuno dei prodotti venduti?
+
+[[src_cgen_2008__Q03]]

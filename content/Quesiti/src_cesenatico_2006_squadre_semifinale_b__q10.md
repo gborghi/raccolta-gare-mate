@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_b__Q10
 parent: src_cesenatico_2006_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2006 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma valori a con a^2+b^2=1885*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0222
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Summary values of a with a^2+b^2=1885< MSK1/>
+
+> Selection of the rose Quamditch is a sport that combines shot, agility and power of thought and action. For this reason, Hardy, captain of the Quamditch team of the House of Rapporteur, subjects aspiring mathematicians to the following test: while performing a triple capriola carpiata, they must consider all ordered pairs of positive integers (a,b) such that a2 + b2 = 1885. What is the sum of the different values of a?
+
+**Answer:** 0222
+[[src_cesenatico_2006_squadre_semifinale_b__Q10]]

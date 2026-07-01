@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2011-12 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2011-12_round1__Q03
 parent: src_bmo_2011-12_round1
 competition: British Mathematical Olympiad 2011-12 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Intersection of two circles through P tangent to S is fixed*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11HCcdsiM5Z_EBux5bkPxFtRt_AAHPof5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'intersezione di due cerchi attraverso la tangente P a S è fissa*
+
+> Considera un cerchio < MSK0/>. Il punto $P$ si trova al di fuori di $S$ e una linea è tracciata attraverso $P$, tagliando $S$ in punti distinti $X$ e $Y$. I cerchi $S_1$ e $S_2$ sono tracciati attraverso $P$ che sono tangenti a $S$ rispettivamente a $X$ e $Y$. Indicare che l'intersezione (diversi da $P$) di $S_1$ e $S_2$ è indipendente dalle posizioni di $P$, $X$ e $Y$.
+
+[[src_bmo_2011-12_round1__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2012 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2012__Q02
 parent: src_bocconi_squadre_2012
 competition: Gara a Squadre 2012
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizionare 1-12 in grafo con somme uguali sui segmenti*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Una possibile soluzione (a meno di simmetrie) è mostrata nella figura delle soluzioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Place 1-12 in a graph with equal sums on the segments*
+
+> In the twelve "free" circles in the figure, write all natural numbers from $1$ to $12$. The sums of the numbers belonging to the twelve segments connecting three circles must always be equal.
+> 
+> **In the 12 'free' circles in the figure, write all natural numbers from 1 to 12. ** The sums of the numbers belonging to the 12 segments connecting three circles must always be equal.
+
+![[src_bocconi_squadre_2012__Q02.png]]
+
+**Answer:** Una possibile soluzione (a meno di simmetrie) è mostrata nella figura delle soluzioni
+[[src_bocconi_squadre_2012__Q02]]

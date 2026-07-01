@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 1) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g1__Q18
 parent: src_bocconi_finaleint_2011_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto raggio cerchio piccolo e distanza centri, testa di gufo*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{24}{5}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Radio ratio small circle and distance centers, owl head*
+
+> The figure represents an owl head, whose eyes are symmetrical relative to the vertical axis. In each eye: $i)$ each side of the quadrilateral is tangent to the small circle; $ii)$ each vertex of the quadrilateral is located on the large circle; $iii)$ the radius of the large circle is $7$ times greater than the distance between the centers of the two circles (note that the figure does not meet this ratio). What is the ratio of the radius of the small circle to the distance between the centers of the two circles in each eye?
+
+![[src_bocconi_finaleint_2011_g1__Q18.png]]
+
+**Answer:** $\frac{24}{5}$
+[[src_bocconi_finaleint_2011_g1__Q18]]

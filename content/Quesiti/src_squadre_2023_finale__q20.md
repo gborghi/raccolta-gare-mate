@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Finale Nazionale — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_finale__Q20
 parent: src_squadre_2023_finale
 competition: Gara a Squadre 2023 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri n in 1-100 con Q(n) multiplo di n (somma coprimi)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0099
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers n in 1-100 with Q(n) multiple of n (sum of covers) *
+
+> Krull's ransom came too late: the ballet is over and Vector has kidnapped the three girls. However, he left a note in which he defines Q(n) as the sum of the natural numbers less than or equal to n that have no prime factors in common with n (e.g. Q(1) = 1, Q(5) = 1+2+3+4 and Q(15) = 1+2+4+7+8+11+13+14). Krull must answer the question left by Vector at the end of the note: how many integers n between 1 and 100 are such that Q(n) is a multiple of n?
+
+**Answer:** 0099
+[[src_squadre_2023_finale__Q20]]

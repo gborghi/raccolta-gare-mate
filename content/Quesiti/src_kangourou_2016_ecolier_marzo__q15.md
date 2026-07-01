@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (gara marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q15
 parent: src_kangourou_2016_ecolier_marzo
 competition: Kangourou 2016 Écolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di X e Y nel quadrato latino 1,2,3*
 
@@ -63,3 +66,36 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of X and Y in the Latin square 1,2,3*
+
+![[src_kangourou_2016_ecolier_marzo__prob15.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) grid (3,3);
+  \node at (0.5,2.5) {\textbf{1}};
+  \node at (1.5,1.5) {\textbf{2}};
+  \node at (2.5,1.5) {\textbf{X}};
+  \node at (2.5,0.5) {\textbf{Y}};
+\end{tikzpicture}
+\end{document}
+```
+
+> Nadia plans to insert only the numbers 1, 2, 3 into each cell of the table in the figure and to do so so that in each row and column these three numbers appear exactly once. He's already started writing some numbers. What's the sum of the numbers he has to write in the cells marked with X and Y? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** C
+[[src_kangourou_2016_ecolier_marzo__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2006 — Round 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2006_r1__Q10
 parent: src_pol_2006_r1
 competition: Olimpiade Matematica Polacca 2006 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive a,b,c with ab+bc+ca=abc; prove a^3+b^3+c^3>=6abc.*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Positivo a,b,c con ab+bc+ca=abc; prova a^3+b^3+c^3>=6abc.*
+
+> I numeri positivi $a, b, c$ soddisfano l'uguaglianza $ab + bc + ca = abc$. Prove che $a^3 + b^3 + c^3 \ge 6abc$.
+
+[[src_pol_2006_r1__Q10]]

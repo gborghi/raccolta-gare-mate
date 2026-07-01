@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2025 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo23hq_honsen__Q02
 parent: src_jjmo23hq_honsen
 competition: Japan Junior Mathematical Olympiad 2025 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of real labeling of regular 2025-gon with product condition*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19vi3nVIVUo2o9eKwSqYkHbpBfPtGDN5B/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Esistenza di etichettatura reale di 2025-gon regolare con condizione del prodotto< MSK1/>
+
+> Determinare se esiste un modo per scrivere un numero reale ad ogni vertice di un normale $2025$-gon che soddisfa tutte le seguenti condizioni:
+> 
+> \begin{itemize} \item C'è almeno un vertice in cui è scritto un numero reale positivo. \item Per due vertici adiacenti, il prodotto dei numeri scritti a quei due vertici è al massimo $1$. # Finire #
+
+[[src_jjmo23hq_honsen__Q02]]

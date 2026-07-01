@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q01
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *mamma della figlia della mamma della mamma*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The mother of the daughter of the mother of the mother
+
+> Who's the mother of Anna's mother's mother's daughter? One of Anna's sisters. B) One of Anna's grandchildren. C) Anna's mother.
+> 	
+> One of Anna's aunts. E) One of Anna's grandmothers.
+
+**Answer:** E
+[[src_kangourou_2020_junior_marzo__Q01]]

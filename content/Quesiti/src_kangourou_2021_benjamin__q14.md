@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q14
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nel vertice ? con somme 30 negli esagoni*
 
@@ -50,3 +53,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Number at the top? with sums of 30 in hexagons*
+
+![[src_kangourou_2021_benjamin__prob14.png]]
+
+> In some vertices of the three hexagons shown in the figure, numbers were numbered. We want to put numbers in the other vertices too so that the sum of the six numbers surrounding each hexagon is 30. What number should be inserted in the top marked with the question mark? A) 3
+> 	
+> B) 4
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 7
+
+**Answer:** B
+[[src_kangourou_2021_benjamin__Q14]]

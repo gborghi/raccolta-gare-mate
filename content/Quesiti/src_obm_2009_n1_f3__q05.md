@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n1_f3__Q05
 parent: src_obm_2009_n1_f3
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of integers ≤1000 or ≤11000 with many divisors*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KMKfVfUeCTJqmg46SZFVecEjZWEkdEQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di numeri interi ≤1000 o ≤11000 con molti divisori*
+
+> a) Indicare che esiste un numero intero positivo inferiore o uguale a $1000$ con almeno $20$ divisori positivi.
+> 
+> b) Esiste un numero intero positivo inferiore o uguale a $11000$ con almeno $200$ divisori positivi? Non dimenticate di giustificare la vostra risposta.
+
+[[src_obm_2009_n1_f3__Q05]]

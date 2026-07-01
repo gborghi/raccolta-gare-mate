@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Finale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_f__Q01
 parent: src_kangourou_2017_squadre_f
 competition: Kangourou Coppa Squadre 2017 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo numero speciale (prodotto prime = somma ultime)*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/128655o6_zeCJSQCm7sydhRJi7_T5zkWz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Little special number (product first = final sum) < MSK1/>
+
+> Special We call a special number a positive integer of four digits (significant) such that the product of the first two digits is equal to the sum of the last two. For example, 2351 is a special number (2 × 3 = 5 + 1); another special number is 5387. What's the smallest special number?
+
+**Answer:** 1000
+[[src_kangourou_2017_squadre_f__Q01]]

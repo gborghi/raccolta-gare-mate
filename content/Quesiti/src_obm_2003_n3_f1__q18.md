@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q18
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum yes/no questions to find odd number chosen by Carlinha up to 100*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di domande di sì/no per trovare il numero impar scelto da Carlinha fino a 100*
+
+> Carlinha pensa a un numero odd positivo inferiore a $100$. Pedrinho vuole scoprire il numero. Carlinha risponde alle domande del modulo: "Il numero è maggiore o uguale a $x$?" con sì o no. Quante domande di questo tipo deve fare Pedrinho per poter trovare il numero di Carlinha?
+> 
+> A) $15$ \quad B) $7$ \quad C) $15$ \quad D) $25$ \quad E) $45$
+
+**Risposta:** A
+[[src_obm_2003_n3_f1__Q18]]

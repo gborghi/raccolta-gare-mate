@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2011 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2011__Q04
 parent: src_cn_cgmo_2011
 competition: China Girls' Mathematical Olympiad 2011
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all n for round-robin tournament circle arrangement*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** all odd $n \ge 3$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le n per l'organizzazione del cerchio del torneo a rotonda *
+
+> $n$ ($n \ge 3$) i giocatori di tennis da tavolo hanno un torneo di round-robin  ogni giocatore giocherà tutti gli altri esattamente una volta, e non vi è alcun gioco di pareggio. Supponiamo che, dopo il torneo, tutti i giocatori possano essere organizzati in un cerchio in modo tale che: per tutti e tre i giocatori $A$, $B$, $C$ se $A$, $B$ sono adiacenti, allora almeno uno di loro ha sconfitto $C$. Si prega di trovare tutti i possibili valori di $n$. (posta da Fu Yunhao)
+
+**Risposta:** all odd $n \ge 3$
+[[src_cn_cgmo_2011__Q04]]

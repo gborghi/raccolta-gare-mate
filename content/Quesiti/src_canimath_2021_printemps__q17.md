@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2021 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_printemps__Q17
 parent: src_canimath_2021_printemps
 competition: Coupe Animath Printemps 2021
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *8 ants on the edges of a unit cube: two at geodesic distance at most 1 (lycee)*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*8 formiche sui bordi di un cubo unitario: due a distanza geodetica massima 1 (licee) *
+
+> Le formiche $8$ sono collocate sui bordi di un cubo i cui bordi hanno lunghezza $1$. Per ogni reale positivo $d$, due formiche si dice siano a distanza $d$ se la prima formica deve percorrere una distanza di almeno $d$ per raggiungere la seconda formica, muovendosi solo lungo i bordi del cubo. Prove che esistono due formiche a distanza inferiore o pari a $1$.
+
+[[src_canimath_2021_printemps__Q17]]

@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1 —
   Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_nu_f1__Q03
 parent: src_obm_2005_nu_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximize volume of tetrahedron inscribed in an ellipsoid*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1t1VifBoLdIYTQCp9KTilPVmufvuvo00a/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximizzare il volume del tetraedro inciso in un ellissoide*
+
+> Trova il più grande volume possibile di un tetraedro inserito nell'ellipsoide con l'equazione $$\frac{x^2}{9} + \frac{y^2}{16} + \frac{z^2}{25} = 1.$$
+
+[[src_obm_2005_nu_f1__Q03]]

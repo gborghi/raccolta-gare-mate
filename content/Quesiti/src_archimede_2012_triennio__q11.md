@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Triennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_triennio__Q11
 parent: src_archimede_2012_triennio
 competition: Giochi di Archimede 2012 - Triennio
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre di (10^2013+1)^3*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of figures of (10^2013+1)^3*
+
+> The answer is B. By developing the binomial cube we can write (102013 + 1)3 = 106039 + 3 · 104026 + 3 · 102013 + 1 . Each of the 4 numbers to the right of the equation, written at base 10, has only one digit different from zero and in a different position from the others, so the sum of the digits of the number that you get by adding them is 1 + 3 + 3 + 1 = 8. [Problem proposed by C. By Stephen.] 3
+
+**Answer:** B
+[[src_archimede_2012_triennio__Q11]]

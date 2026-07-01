@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q23
 parent: src_kangourou_2018_benjamin_marzo
 competition: Kangourou 2018 Benjamin - Gara 15 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Situazione possibile dopo il quarto fischio*
 
@@ -56,3 +59,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible situation after the fourth whistle*
+
+![[src_kangourou_2018_benjamin_marzo__prob23.png]]
+
+> Four indistinguishable cells are each placed in a different 4 x 4 grid cell. One of them sleeps and doesn't move. Each time a whistle is made, the other three move into an adjacent cell already free at the time of the whistle, without ending in two in the same cell: they can move up, down, to the right or to the left, but they cannot return to the cell from which they came to the previous whistle. The first figure shows the result of the first three whistles. Which of the following images represents a possible situation after the fourth whistle? A) B) C) D) E)
+
+**Answer:** E
+[[src_kangourou_2018_benjamin_marzo__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f3__Q01
 parent: src_obm_2005_n3_f3
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Palindrome products of repunit numbers*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Prodotti palindromici di numero di punito< MSK1/>
+
+> Un numero naturale si chiama palindromo se si legge lo stesso avanti e indietro. Ad esempio, 481184, 131 e 2 sono palindromi.
+> 
+> Trova tutte le coppie di integri positivi $(m, n)$ in modo tale che $$\underbrace{11\!1\ldots1}_{m\text{ ones}}\cdot\underbrace{11\!1\ldots1}_{n\text{ ones}}$$ sia un palindromo.
+
+[[src_obm_2005_n3_f3__Q01]]

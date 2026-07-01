@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q29
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo valore di M(k) massimo di |4x^2-4x+k| su [-1,1]*
 
@@ -51,3 +54,27 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimo valore di M(k) massimo di |4x^2-4x+k| su [-1,1]*
+
+> Sia M(k) il massimo valore di | 4x2 – 4x + k | al variare di x nell’intervallo [–1,1], 
+> dove il parametro k può essere qualunque numero reale. Al variare di k, qual è il mi­
+> nimo valore possibile di M(k)?
+> A) 4	
+> 	
+> B) 	
+> 	
+> C) 5	
+> 	
+> D) 11
+> ---- 
+>  2
+> 	 	
+> E) 8
+
+**Answer:** B
+[[src_kangourou_2021_student_gara__Q29]]

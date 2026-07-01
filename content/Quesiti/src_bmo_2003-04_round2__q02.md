@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2003-04 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2003-04_round2__Q02
 parent: src_bmo_2003-04_round2
 competition: British Mathematical Olympiad 2003-04 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find integer with 2004 zeros and 2004 ones in binary, divisible by 2004*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cQScSjBOKjyXtBXsVbeFQADurOrJCQzA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca un numero intero con 0 del 2004 e 0 del 2004 in binario, divisibile per 2004*
+
+> Indicare che esiste un intero $n$ con le seguenti proprietà: (i) l'espansione binaria di $n$ ha precisamente $2004$ $0$s e $2004$ $1$s; (ii) $2004$ divide $n$.
+
+[[src_bmo_2003-04_round2__Q02]]

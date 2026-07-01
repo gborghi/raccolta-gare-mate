@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Biennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_biennio__Q11
 parent: src_archimede_2026_biennio
 competition: Giochi di Archimede 2026 - Biennio
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità segmento tra vertici cubo passa per centro*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of segment between vertices of the cube passing through the centre*
+
+> If you randomly pick two different vertices of a cube, what is the probability that the segment joining them will pass through the center of the cube?
+>
+> - **(A)** 1/8
+> - **(B)** 1/4
+> - **(C)** 1/7
+> - **(D)** 1/56
+> - **(E)** 1/64
+
+**Answer:** C
+[[src_archimede_2026_biennio__Q11]]

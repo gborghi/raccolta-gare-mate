@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2003 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2003__Q07
 parent: src_cn_cmc_2003
 competition: China Mathematical Competition 2003
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve a cubic inequality involving absolute values.*
 
@@ -42,3 +45,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi una disuguaglianza cubica che comporta valori assoluti.*
+
+> L'insieme di soluzioni della disuguaglianza $|x|^3 - 2x^2 - 4|x| + 3 < 0$ è ___.
+
+[[src_cn_cmc_2003__Q07]]

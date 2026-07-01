@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q15
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ratio of red to white painted area of a cube cut into 27 small cubes*
 
@@ -54,3 +57,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ratio di superficie dipinta in rosso a bianco di un cubo tagliato in 27 piccoli cubi< MSK1/>
+
+> Un cubo di legno, dipinto in rosso, fu tagliato in 27 cubetti uguali, come nella figura. Alcuni di questi cubetti avevano ancora volti non dipinti (bianchi). Qual è il rapporto tra la superficie totale dipinta in rosso e la superficie totale bianca?
+> 
+> (A) 1:2 \quad B) 1:1 \quad C) 2:1 \quad D) 1:3 \quad E 2:3
+
+![[src_obm_2011_n1_f1__Q15.png]]
+
+**Risposta:** A
+[[src_obm_2011_n1_f1__Q15]]

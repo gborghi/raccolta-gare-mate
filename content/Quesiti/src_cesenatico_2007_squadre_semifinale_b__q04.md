@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_b__Q04
 parent: src_cesenatico_2007_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2007 - Semifinale B
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti n in [1,2007] con 2n in 17 gruppi (condizioni)*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Quantities n in [1,2007] with 2n in 17 groups (conditions) < MSK1/>
+
+> Even at the moreninja academy, the weather is relaxing and tonight the Big Little Dance is taking place. All the guests have already arrived in the room: n mateninji (the boys) and n mateninje (the girls) show off their best uniforms and equipment, but they do not have the courage to invite themselves to dance, and they team up from afar, divided into 17 non-empty groups. Two groups of any kind differ by more than one unit and each female is in the company of only females. How many n between 1 and 2007 are such that the above conditions can be fulfilled?
+
+[[src_cesenatico_2007_squadre_semifinale_b__Q04]]

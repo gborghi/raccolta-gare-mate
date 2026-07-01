@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2002 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2002__Q01
 parent: src_inmo_2002
 competition: Indian National Mathematical Olympiad 2002
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex hexagon with opposite sides conditions implies cyclic*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/123ExWCM4Wogb72Q-10yYiq_o3oHySsJU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esagono converso con condizioni laterali opposte implica ciclico*
+
+> Per un esagono convexo $ABCDEF$ in cui ciascuna coppia di lati opposti è diseguale, considerate le seguenti sei affermazioni: $(a_1)$ $AB$ è parallelo a $DE$; $(a_2)$ $AE = BD$; $(b_1)$ $BC$ è parallelo a $EF$; $(b_2)$ $BF = CE$; $(c_1)$ $CD$ è parallelo a $FA$; $(c_2)$ $CA = DF$.
+> 
+> (a) Mostrare che se tutte e sei le affermazioni sono vere, l'esagono è ciclico (cioè può essere inscritto in un cerchio).
+> 
+> (b) Prove che, in effetti, qualsiasi cinque di queste sei affermazioni implicano anche che l'esagono è ciclico.
+
+[[src_inmo_2002__Q01]]

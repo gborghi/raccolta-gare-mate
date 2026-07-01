@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2016 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo14mq_honsen__Q01
 parent: src_jjmo14mq_honsen
 competition: Japan Junior Mathematical Olympiad 2016 — Honsen (Final)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Altitude feet, two circumcircles, midpoint of chord*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNe77mqSS5KaVCDyNI-U80o5ArYTZuAL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Altezza di piedi, due circoncircoli, punto medio dell'accordo< MSK1/>
+
+> Lasciate che $ABC$ sia un triangolo acuto. I gradi $D$, $E$, $F$ siano i piedi delle altitudini da $A$, $B$, $C$ ai lati $BC$, $CA$ e $AB$, rispettivamente. Il $G$ deve essere l'intersezione della linea $AD$ con la linea $EF$. Tra le intersezioni del circoncircolo del triangolo $DFG$ con il lato $AB$, $P$ deve essere quella che non è $F$. Tra le intersezioni del circoncircolo del triangolo $DEG$ con il lato $AC$, $Q$ sia quella che non è $E$. Prova che la riga $DG$ divide il segmento $PQ$.
+
+[[src_jjmo14mq_honsen__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q26
 parent: src_kangourou_2018_benjamin_marzo
 competition: Kangourou 2018 Benjamin - Gara 15 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti volumi contiene ogni scatola*
 
@@ -62,3 +65,27 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many volumes each box contains< MSK1/>
+
+> A writer has signed many copies of his book and numbered them from number 1. Copies are kept in a gradual order in some boxes: each box contains the same amount of volumes as the others, and the boxes are also numbered starting with the number 1. It is known that volume n. 40 is in the fourth box, which volume n. 73 is in the seventh box and that volume n. 99 is in box nine. How many volumes does each box contain?
+> 	
+> (A) Surely 11.
+> 	
+> B) Surely 12.
+> 	
+> C) It could contain 11, but also 12.
+> 	
+> D) It may contain 12, but also 13.
+> 	
+> E) It could contain 11, but also 12 or 13.
+>  
+> Initial position After the first whistle After the second whistle After the third whistle
+>
+
+**Answer:** C
+[[src_kangourou_2018_benjamin_marzo__Q26]]

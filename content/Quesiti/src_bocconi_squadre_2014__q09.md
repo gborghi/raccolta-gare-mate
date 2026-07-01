@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2014 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2014__Q09
 parent: src_bocconi_squadre_2014
 competition: Gara a Squadre 2014
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soluzioni reali del sistema (x+y)^3=z, (y+z)^3=x, (z+x)^3=y*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $x = y = z = 0$ oppure $x = y = z = \pm\dfrac{\sqrt{2}}{4}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Real system solutions (x+y)^3=z, (y+z)^3=x, (z+x)^3=y*
+
+> Find all the real solutions to the system consisting of the following three equations: $$(x + y)^3 = z, \quad (y + z)^3 = x, \quad (z + x)^3 = y$$
+
+**Answer:** $x = y = z = 0$ oppure $x = y = z = \pm\dfrac{\sqrt{2}}{4}$
+[[src_bocconi_squadre_2014__Q09]]

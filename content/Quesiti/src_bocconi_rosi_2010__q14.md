@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2010 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2010__Q14
 parent: src_bocconi_rosi_2010
 competition: Giochi di Rosi 2010
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo per svuotare damigiana bevendo insieme*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 40 minuti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pwjn1M0F1YSZ60SMZmZPXENHZGd98Xmt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Time to empty damigiana by drinking together< MSK1/>
+
+> On his own, Donato would take us now to learn the contents of a bottle of wine; Marco, MSK1 hours; Michele, MSK2 hours.
+> 
+> If you put them together to drink, how long does it take you to finish the dinner?
+
+**Answer:** 40 minuti
+[[src_bocconi_rosi_2010__Q14]]

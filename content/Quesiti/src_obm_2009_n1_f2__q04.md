@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n1_f2__Q04
 parent: src_obm_2009_n1_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cover an 88 cm x 95 cm table with 10 cm square sheets; find area covered by four overlapping sheets*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Coperta un tavolo di 88 cm x 95 cm con fogli quadrati di 10 cm; trova la superficie coperta da quattro fogli sovrapposti*
+
+> Mariazinha vuole coprire la parte superiore di una tavola rettangolare di $88$ cm di $95$ cm con fogli quadrati di cartone di lato $10$ cm, partendo da un angolo, come mostrato nella figura. I fogli sono tagliati a partire da un rollo di < MSK3/> cm di larghezza e collocati in file, senza superposizioni, fino a raggiungere i confini. Poiché i fogli non devono superare i bordi, sono piegati sopra i confini, formando regioni rettangolari con due spessori di fogli (regione grigia) e una regione rettangolare con quattro spessori di fogli (regione grigia scura). Qual è l'area della regione coperta da quattro fogli?
+
+![[src_obm_2009_n1_f2__Q04.png]]
+
+[[src_obm_2009_n1_f2__Q04]]

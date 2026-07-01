@@ -1,6 +1,7 @@
 ---
 title: IMO 1989 (XXX International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1989__Q04
 parent: src_imho_1989
 competition: IMO 1989 (XXX International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Convex quadrilateral with special point yields inequality 1/sqrt(h) >= 1/sqrt(AD)+1/sqrt(BC)*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Convex quadrilateral with special point yields inequality 1/sqrt(h) >= 1/sqrt(AD) +1/sqrt(BC) < MSK1/>
+
+> Let $ABCD$ be a convex quadrilateral such that the sides $AB$, $AD$, $BC$ satisfy $AB = AD + BC$. There exists a point $P$ inside the quadrilateral at a distance $h$ from the line $CD$ such that $AP = h + AD$ and $BP = h + BC$. Show that:
+
+[[src_imho_1989__Q04]]

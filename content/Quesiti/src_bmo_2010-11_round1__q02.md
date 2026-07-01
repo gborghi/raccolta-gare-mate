@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2010-11 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2010-11_round1__Q02
 parent: src_bmo_2010-11_round1
 competition: British Mathematical Olympiad 2010-11 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cube side a with square hole; volume equals surface area numerically*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'insieme di cubo a con buco quadrato; il volume è numericamente uguale all'area superficiale*
+
+> Se $a$ è un numero intero maggiore di $1$. Un cubo di lato solido $a$ ha un buco quadrato di lato $s$ perforato direttamente da una faccia alla faccia opposta (in questo modo il foraggio rimuove un cuboide). Il volume del solido rimanente è numericamente uguale alla superficie totale del solido rimanente. Determinare tutti i possibili valori di $a$.
+
+[[src_bmo_2010-11_round1__Q02]]

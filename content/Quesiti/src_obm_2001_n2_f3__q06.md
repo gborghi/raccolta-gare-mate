@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f3__Q06
 parent: src_obm_2001_n2_f3
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove the four altitudes of a convex quadrilateral concur iff the quadrilateral is cyclic*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove le quattro altitudini di un quadrilaterale convex in concorso se il quadrilaterale è ciclico*
+
+> In un quadrilaterale convexo, l'altitudine ** rispetto a un lato è definita come la perpendicolare a quel lato che passa attraverso il punto medio del lato opposto. Prova che le quattro altitudini hanno un punto comune se e solo se il quadrilaterale è iscribile (ciclico), cioè se e solo se esiste un cerchio che contiene i suoi quattro vertici.
+
+[[src_obm_2001_n2_f3__Q06]]

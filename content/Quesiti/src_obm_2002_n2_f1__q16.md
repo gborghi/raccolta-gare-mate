@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f1__Q16
 parent: src_obm_2002_n2_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with angles 80° and 40°; find acute angle between bisectors of A and B*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con angoli 80° e 40°; trovare angolo acuto tra i bisettori di A e B*
+
+> Nel triangolo $ABC$ con $\widehat{A} = 80^\circ$ e $\widehat{C} = 40^\circ$, la misura dell'angolo acuto formato dai bisettori degli angoli $\widehat{A}$ e $\widehat{B}$ è:
+>
+> - **(A)** $40^\circ$
+> - **(B)** $60^\circ$
+> - **(C)** $70^\circ$
+> - **(D)** $80^\circ$
+> - **(E)** $110^\circ$
+
+**Risposta:** C
+[[src_obm_2002_n2_f1__Q16]]

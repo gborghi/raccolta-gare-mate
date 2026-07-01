@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_mumbai__Q01
 parent: src_rmo_2015_mumbai
 competition: Regional Mathematical Olympiad 2015
@@ -35,6 +36,8 @@ tags:
   - regione/r5
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral with equal sum of squares of sides; find diagonal*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aKO7__cJlTFnDSJpRW04wWyB2aJzzbY3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterale convex con uguale somma di quadrati di lati; trovare diagonale*
+
+> Il $ABCD$ deve essere un quadrilaterale convexo con $AB = a$, $BC = b$, $CD = c$ e $DA = d$. Supponiamo che $$a^2 + b^2 + c^2 + d^2 = ab + bc + cd + da,$$ e la superficie di $ABCD$ sia di 60 unità quadrate. Se la lunghezza di una diagonale è di 30 unità, determinare la lunghezza dell'altra diagonale.
+
+*Apparizioni nelle regioni: Mumbai, Regione 5.*
+
+[[src_rmo_2015_mumbai__Q01]]

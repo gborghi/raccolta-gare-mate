@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q05
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *193*
 
@@ -52,3 +55,17 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*193*
+
+> The waters of the Dead Sea are composed of masses of salt and water in a ratio of 7:193. How many kilos of salt are in 1,000 kilos of Dead Sea water? A) 35
+> 	
+> B) 186 C) 193 D) 200 E) 350 1111 {{{{{{ = 11. 101 3333 {{{{{{ + 101 6666 {{{{{{ 303
+>
+
+**Answer:** A
+[[src_kangourou_2013_cadet__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q21
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero in griglia 3x3 con somme 2x2 uguali*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Grid number 3x3 with sums of 2x2 equal to *
+
+![[src_kangourou_2017_junior_marzo__prob21.png]]
+
+> You want to put a number in each cell of the grid 3 × 3 in the figure so that the sum of the numbers in each of the four subgrids 2 × 2 is the same for all these subgrids. Taking into account the three numbers already entered, what number will you have to write in the cell with the question mark? A) 5
+> 	
+> B) 4
+> 	
+> C) 1
+> 	
+> D) 0
+> 	
+> E) 2
+
+**Answer:** D
+[[src_kangourou_2017_junior_marzo__Q21]]

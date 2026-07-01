@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_squadre__Q13
 parent: src_kangourou_2022_ecolier_squadre
 competition: Kangourou Squadre 2022 Ecolier Finale 2
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Euro di Antonio dopo trasferimenti a Cristina*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0674
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+€1 million after transferring to Cristina
+
+> At the moment Antonio and Cristina have the same number of euros, Biagio has 2,022. If Antonio and Biagio each gave Cristina half their euro, Cristina would triple the number of euros she has now. How many euros does Antonio have right now?
+
+**Answer:** 0674
+[[src_kangourou_2022_ecolier_squadre__Q13]]

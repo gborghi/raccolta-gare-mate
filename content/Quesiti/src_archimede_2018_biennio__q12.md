@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_biennio__Q12
 parent: src_archimede_2018_biennio
 competition: Giochi di Archimede 2018 - Biennio (T1)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Casella del numero 1500 nella griglia senza multipli di 11*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Box number 1500 in the grid without multiples of 11*
+
+![[src_archimede_2018_biennio__prob12.png]]
+
+> Mario writes the positive integers in a grid with 7 columns, as shown in the figure. Since he hates the number 11, his list lacks all the multiples of 11. We indicate with (m;n) the box in the row number m (counting from the top) and column number n (counting from the left): for example, box (2; 4) contains the number 12. What box will contain the number 1500?
+>
+> - **(A)** (195; 6)
+> - **(B)** (215; 2)
+> - **(C)** (214; 2)
+> - **(D)** (194; 3)
+> - **(E)** (193; 6) 1 2 3 4 5 6 7 8 9 10 12 13 14 15 16 17 18 19 20 21 23 24 25 ... ... ... ... ... ... ... ... ... ...
+
+**Answer:** A
+[[src_archimede_2018_biennio__Q12]]

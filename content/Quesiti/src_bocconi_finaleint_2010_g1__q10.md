@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 1) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g1__Q10
 parent: src_bocconi_finaleint_2010_g1
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Contare i veri quadrilateri non incrociati interamente disegnati nella figura.*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 25
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Count the true uncrossed quadrilaterals as shown in Figure 1*
+
+> How many real uncrossed quadrilaterals are shown in the figure? Note: a true quadrilateral does not have three aligned vertices.
+
+![[src_bocconi_finaleint_2010_g1__Q10.png]]
+
+**Answer:** 25
+[[src_bocconi_finaleint_2010_g1__Q10]]

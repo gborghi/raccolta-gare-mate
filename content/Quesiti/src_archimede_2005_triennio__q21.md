@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Triennio — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_triennio__Q21
 parent: src_archimede_2005_triennio
 competition: Giochi di Archimede 2005 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colori di palloncini comprati da quattro bambine*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Colours of balloons purchased by four girls
+
+> Four little girls, Alice, Bianca, Cecilia, and Daniela, decide to buy a head-on balloon from a salesman who only has red and blue balloons. They'll buy the balloon one by one: first Alice, then Bianca, then Cecilia and finally Daniela. Bianca says, "If Alice buys it red, I'll buy it red, too". Cecilia says, "I'll buy it in the same color as Bianca". Daniela says, "If Alice buys it blue, I'll buy it in the same color as Cecilia". Which of the following is certainly true?
+>
+> - **(A)** It's impossible for four girls to buy a red balloon.
+> - **(B)** At least three girls will buy a balloon of the same color,
+> - **(C)** Daniela and Bianca will buy a balloon of the same color,
+> - **(D)** At least two girls will buy a red balloon,
+> - **(E)** None of the above statements are certainly true.
+
+**Answer:** B
+[[src_archimede_2005_triennio__Q21]]

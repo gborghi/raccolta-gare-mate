@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Finale Student (Mirabilandia) — Quesito S2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student_finale__QS2
 parent: src_kangourou_2011_student_finale
 competition: Kangourou 2011 Finale Student (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi salta circuito con fossato senza cadere e perche*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Bruna
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IJm1jK3TMWoj5sVE88bzHX7made5WOw3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who skips a circuit with a ditch without falling and why
+
+> Ada, Bruna, Carla, Dora, and Enrica jump on their own jumper whose base is practically a point. Each of them always jumps the same length; the lengths are 70, 80, 85, 90 and 95 cm respectively. They all follow, starting at the same point and moving in the same direction, a 400-meter-long circular circuit, which is traversed by a 73-cm-wide moat. It happens that only one of them can make six complete laps of the circuit without falling into the ditch: who and why? (The lengths of the jumps and the width of the trench are to be measured on circuit arcs, not on ropes.)
+
+**Answer:** Bruna
+[[src_kangourou_2011_student_finale__QS2]]

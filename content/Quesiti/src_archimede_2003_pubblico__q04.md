@@ -1,6 +1,7 @@
 ---
 title: Archimede 2003 - Gara del Pubblico (Cesenatico) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_pubblico__Q04
 parent: src_archimede_2003_pubblico
 competition: Archimede 2003 - Gara del Pubblico (Cesenatico)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *problema 4*
 
@@ -35,3 +38,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the first time I have seen this.
+
+![[src_archimede_2003_pubblico__prob4.png]]
+
+> In Matelandia Park, children enjoy jumping from box to box on the sidewalk. It starts from the box in the center and jumps from box to box without ever going back inside, and without ever going back from a box you already visited. When you get to the edge, you stop. How many different ways can you get to the periphery? (see figure)
+
+[[src_archimede_2003_pubblico__Q04]]

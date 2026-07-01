@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q15
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Di quanti cm si muove Q se P scende 24 (carrucole)*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many cm moves Q if P drops to 24 (carrots) *
+
+![[src_kangourou_2019_student_marzo__prob15.png]]
+
+> The mechanism shown in the figure consists of three strings connected by two strings so that the string sections between one string and the other are vertical. If the end P of the rope moves 24 cm downward, how many centimetres upwards does the point Q move? A) 24
+> 	
+> B) 12
+> 	
+> C) 8
+> 	
+> D) 6
+> 	
+> E) 24/5
+
+**Answer:** D
+[[src_kangourou_2019_student_marzo__Q15]]

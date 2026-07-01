@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2014-15 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2014-15_round1__Q06
 parent: src_bmo_2014-15_round1
 competition: British Mathematical Olympiad 2014-15 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all functions preserving the Egyptian fraction equation 1/a+1/b=1/c*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni che preservano l'equazione di frazione egiziana 1/a+1/b=1/c*
+
+> Determinare tutte le funzioni $f(n)$ dai numeri interi positivi ai numeri interi positivi che soddisfano la seguente condizione: quando $a$, $b$ e $c$ sono numeri interi positivi come $\frac{1}{a} + \frac{1}{b} = \frac{1}{c}$, allora $$\frac{1}{f(a)} + \frac{1}{f(b)} = \frac{1}{f(c)}.$$
+
+[[src_bmo_2014-15_round1__Q06]]

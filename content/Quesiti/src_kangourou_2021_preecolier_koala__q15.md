@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q15
 parent: src_kangourou_2021_preecolier_koala
 competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale e la casa di Eva nella mappa*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Which one and Eva's house on the map
+
+![[src_kangourou_2021_preecolier_koala__prob15.png]]
+
+> The picture shows the five homes of five friends and their school. The school is the biggest building in the photo. To go to school, Doris and Ali pass by Leo's house. Eva is passing by Chloe's house. What's Eva's house? (see figure)
+
+**Answer:** B
+[[src_kangourou_2021_preecolier_koala__Q15]]

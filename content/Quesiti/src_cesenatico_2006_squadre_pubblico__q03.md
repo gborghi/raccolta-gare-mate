@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q03
 parent: src_cesenatico_2006_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di relazioni alleate/nemiche tra cinque case*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0052
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode of allied/enemy relations between five households*
+
+> Rapports are stormy.[35] The mathematics students of the Higher Mathematical School are divided into five houses: Rapporteur, Partimaginaria, Perognesiste, Inclusion and Righecompass. Houses are two to two allies or enemies. Any ally of an enemy house is also an enemy. How many different ways can the mutual relations between the five houses be?
+
+**Answer:** 0052
+[[src_cesenatico_2006_squadre_pubblico__Q03]]

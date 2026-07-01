@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q05
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ant on pentagon perimeter, position after 2013 seconds*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ante sul perimetro del pentagono, posizione dopo i secondi 2013*
+
+> Nel pentagono $ABCDE$, le lunghezze laterali sono $AB = BC = CD = 2$ metri e $DE = EA = 3$ metri. Una formica parte al vertice $A$ e cammina a velocità costante di un metro al secondo lungo i lati, sempre nella stessa direzione. Dove sarà la formica dopo $2013$ secondi?
+> 
+> (A) $A$ \quad (B) $B$ \quad (C) $C$ \quad (D) $D$ \quad (E) $E$
+
+![[src_obm_2013_n2_f1__Q05.png]]
+
+**Risposta:** B
+[[src_obm_2013_n2_f1__Q05]]

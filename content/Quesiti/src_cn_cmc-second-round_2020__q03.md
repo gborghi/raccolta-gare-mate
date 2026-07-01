@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Second Round) 2020 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-second-round_2020__Q03
 parent: src_cn_cmc-second-round_2020
 competition: China Mathematical Competition (Second Round) 2020
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pell-like sequence; prove a_n has a prime factor congruent to 1 mod 4*
 
@@ -45,3 +48,15 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza simile a Pell; dimostrare che a_n ha un fattore primo congruente a 1 mod 4*
+
+> (50 punti) Let $a_1 = 1$, $a_2 = 2$, $a_n = 2a_{n-1} + a_{n-2}$, $n = 3, 4, \ldots$. Prova che per un intero $n \ge 5$, $a_n$ deve avere un fattore primo congruente a 1 modulo 4.
+
+![[src_cn_cmc-second-round_2020__Q03.png]]
+
+[[src_cn_cmc-second-round_2020__Q03]]

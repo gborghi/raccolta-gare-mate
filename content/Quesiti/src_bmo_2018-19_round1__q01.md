@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2018-19 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2018-19_round1__Q01
 parent: src_bmo_2018-19_round1
 competition: British Mathematical Olympiad 2018-19 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count increasing lists of five two-digit multiples of 3 using each digit exactly once*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13TymyXW8f0WJOfcP7X3v5LIa1mrqdBop/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare l'aumento delle liste di cinque moltipli a due cifre di 3 utilizzando ciascuna cifra esattamente una volta*
+
+> Una lista di cinque interi positivi a due cifre è scritta in ordine crescente su una lavagna. Ciascuno dei cinque enti è un multiple di 3, e ogni cifra $0,1,2,3,4,5,6,7,8,9$ appare esattamente una volta sulla lavagna. In quanti modi si può farlo? Si noti che un numero a due cifre non può iniziare con la cifra $0$.
+
+[[src_bmo_2018-19_round1__Q01]]

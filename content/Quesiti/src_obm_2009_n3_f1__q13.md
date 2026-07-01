@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q13
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *6-question test for 18 students; each student got exactly 4 right and each question had the same number m of correct answers; find m.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*6 domande test per 18 studenti; ogni studente ha ottenuto esattamente 4 corrette e ogni domanda ha avuto lo stesso numero di risposte corrette; trovare m.*
+
+> Il professor Piraldo ha applicato un test di domande $6$ agli studenti $18$. Ogni domanda vale $0$ o $1$ punti; non ci sono punteggi parziali. Dopo il test, Piraldo ha creato una tabella come quella di seguito per organizzare i voti, in cui ogni riga rappresenta uno studente e ogni colonna rappresenta una domanda. Piraldo ha scoperto che ogni studente ha ottenuto esattamente le domande corrette e che ogni domanda ha avuto lo stesso numero di risposte corrette. Qual è il valore di $m$? (A) $8$ (B) $9$ (C) $10$ (D) $12$ (E) $14$
+
+[[src_obm_2009_n3_f1__Q13]]

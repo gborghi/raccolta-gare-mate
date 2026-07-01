@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Ecolier — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q24
 parent: src_kangourou_2020_ecolier_marzo
 competition: Kangourou 2020 Gara marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo risultato di KAN-ROO+GA con cifre distinte*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most of the KAN-ROO+GA results with distinct figures< MSK1/>
+
+> Anna replaces the letters in the expression KAN  ROO + GA with digits chosen from 1 to 9: equal letters with equal numbers, different letters with different numbers. Then calculate the result. What's the best result you can get? A) 933 B) 939 C) 941 D) 942 E) 948
+> 
+> Number of replies
+
+**Answer:** D
+[[src_kangourou_2020_ecolier_marzo__Q24]]

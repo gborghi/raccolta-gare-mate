@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q02
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sul pianeta Sram, individuare il tipo di abitante con due domande.*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Alternativo, Alternativo
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+On the planet Sram, identify the type of inhabitant with two questions.
+
+> On the planet Sram there are three types of people: the truthful, who always tell the truth; the liars, who always lie; and the alternatives, who alternately tell the truth, lie, tell the truth, lie, ... You meet a man from the planet Sram and ask him two questions: ?». It's you. ?». The answers to these two questions help you to know what kind of inhabitants you are dealing with. What word is missing in each of the two questions?
+
+**Answer:** Alternativo, Alternativo
+[[src_bocconi_finaleint_2008_g1__Q02]]

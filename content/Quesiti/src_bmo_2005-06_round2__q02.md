@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2005-06 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2005-06_round2__Q02
 parent: src_bmo_2005-06_round2
 competition: British Mathematical Olympiad 2005-06 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integers with prime factors at most 5 with x^2-y^2=2^k*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1587ntk_Om0adXZIJTWJf2XDGaBi6jrzP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integra con fattori primi al massimo 5 con x^2-y^2=2 k*
+
+> Lasciate che $x$ e $y$ siano numeri interi positivi senza fattori primi superiori a 5. Trova tutti i $x$ e $y$ che soddisfano $$x^2 - y^2 = 2^k$$ per un intero non negativo $k$.
+
+[[src_bmo_2005-06_round2__Q02]]

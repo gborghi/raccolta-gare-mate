@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q19
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *misura AD*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The following information shall be provided:
+
+![[src_kangourou_2014_marzo_student__prob19.png]]
+
+> Look at the figure. The straight r passes through the vertex A of an ABCD rectangle. The distance from point C to the rectangle is 2, the distance from point D to r is 6. If the length of AD is twice that of AB, how much does AD measure? A) 10
+> 	
+> B) 12
+> 	
+> C) 14
+>              
+> D) 16
+> 	
+> E) 4√3
+
+**Answer:** A
+[[src_kangourou_2014_marzo_student__Q19]]

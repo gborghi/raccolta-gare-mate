@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f3__Q06
 parent: src_obm_2001_n3_f3
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Stones in a row of cups with two moves; prove a terminal configuration is reached and is unique*
 
@@ -52,3 +55,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i9yemBLDI7hxIseefnK_GZclyK4JXHSC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Pietra in una fila di coppe con due mosse; prova che è raggiunta una configurazione terminale ed è unica*
+
+> Abbiamo una lunga fila di tazze e delle pietre $n$ nella tazza centrale (tazza $0$). Sono ammessi i seguenti movimenti:
+> 
+> Movimento di tipo $A$: Se c'è almeno una pietra nella tazza $i$ e almeno una pietra nella tazza $i+1$, possiamo fare un salto in tazza $i+1$, eliminando una pietra dalla tazza $i$.
+> 
+> Movimento di tipo $B$: se nella tazza $i$ ci sono almeno due pietre, possiamo far saltare una di esse a tazza $i+2$ e un'altra a tazza $i-1$.
+> 
+> Prove il seguente fatto: eseguendo le mosse di tipo $A$ o $B$ per un periodo sufficientemente lungo, raggiungiamo sempre una configurazione in cui non è più possibile eseguire nessuna di queste mosse. Inoltre, dimostrare che questa configurazione finale non dipende dalla scelta delle mosse effettuate durante il processo.
+
+[[src_obm_2001_n3_f3__Q06]]

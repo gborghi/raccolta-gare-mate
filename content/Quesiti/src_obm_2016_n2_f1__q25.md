@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f1__Q25
 parent: src_obm_2016_n2_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Every necklace of 9 two-colour pearls contains two equivalent 5-pearl sequences*
 
@@ -52,3 +55,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ogni colletto di 9 perle a due colori contiene due sequenze equivalenti di 5 perle< MSK1/>
+
+> La sequenza $BBBPBPPP$ non ha due subsequenze equivalenti. Considerare qualsiasi sequenza di perle $9$ (ogni perla è nera $B$ o bianca $P$). Caso 1: se non ci sono tre perle consecutive dello stesso colore, o le perle si alternano strettamente (e ogni blocco di perle consecutive $5$ contiene due sequenze equivalenti), o ci sono due perle equivalenti adiacenti e un blocco vicino di $5$ contiene una sequenza di tipo $PBBP$, dando due sequenze equivalenti. Caso 2: se ci sono tre perle consecutive $BBB$ e una continuazione ad un estremo non è del colore opposto, immediatamente appaiono due sequenze equivalenti; se entrambe le continuità sono del colore opposto e non ad un estremo, il blocco $PBBBP$ contiene due sequenze equivalenti; se $BBB$ si trova ad un estremo (diciamo a sinistra) senza tre lettere uguali al di fuori degli estremi, le possibili continuazioni $BBBPPB$, $BBBPBB$ danno tre sequenze equivalenti, mentre l'unica continuazione che evita due sequenze equivalenti è $BBBPBPPP$, dopo di che qualsiasi perla aggiunta all'estremo destro genera due sequenze equivalenti. Pertanto ogni sequenza di perle $9$ possiede due sequenze equivalenti. Prove questo. (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+
+**Risposta:** D
+[[src_obm_2016_n2_f1__Q25]]

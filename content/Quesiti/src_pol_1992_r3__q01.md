@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1992 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1992_r3__Q01
 parent: src_pol_1992_r3
 competition: Olimpiade Matematica Polacca 1992 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcenter of PAB, prove OP perpendicular to CD*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y0mu5QcC1ogDOJ92TBWc65WHpU-0WUHz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circumcentro di PAB, prova OP perpendicolare a CD*
+
+> I segmenti $AC$ e $BD$ si incrociano a $P$ in modo che $PA = PD$ e $PB = PC$. Se $O$ è il centro circoncentrale del triangolo $PAB$, dimostrare che $OP$ è perpendicolare a $CD$.
+
+[[src_pol_1992_r3__Q01]]

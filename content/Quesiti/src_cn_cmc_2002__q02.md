@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2002 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2002__Q02
 parent: src_cn_cmc_2002
 competition: China Mathematical Competition 2002
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum value of x^2+y^2 for point on a circle*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Vale minima di x^2+y^2 per il punto su un cerchio*
+
+> Se i numeri reali $x$ e $y$ soddisfano $(x + 5)^2 + (y - 12)^2 = 14^2$, il valore minimo di $x^2 + y^2$ è \quad (\quad).
+> 
+> (A) 2 \qquad (B) 1 \qquad (C) 0 \qquad (D) $\frac{1}{2}$
+
+**Risposta:** B
+[[src_cn_cmc_2002__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Finale Nazionale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_finale__Q07
 parent: src_squadre_2023_finale
 competition: Gara a Squadre 2023 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto GK/AH con baricentro e altezze*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0004
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>GK/AH ratio with centreline and height< MSK1/>
+
+> Gaetana and her wall triangle Maria, Gaetana and Agnese are getting bored at Krull's house and then each of them plant a nail in the wall to have fun... The three nails form an ABC triangle. Gaetana, who loves geometry, takes a nice black pennarello and draws the baricenter G of the triangle on the wall, and later also H, the foot of height relative to A and K the foot of the perpendicular to BC led by G. How much is the GK AH report ? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+
+**Answer:** 0004
+[[src_squadre_2023_finale__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2000 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2000_r3__Q05
 parent: src_pol_2000_r3
 competition: Olimpiade Matematica Polacca 2000 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest number of squares forcing an even-row-and-column subset*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nDWoQAPfWDLllzYEGHcK_5w05h4brUh9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Meno numero di quadrati che costringono un sottoinsieme pari di righe e colonne*
+
+> Dato un numero intero $n \geq 2$, si trova il numero più piccolo $k$ con la seguente proprietà: Da ogni insieme di quadrati $k$ di una scacchiera $n \times n$ si può scegliere un sottoinsieme tale che ogni riga e colonna della scacchiera contengano un numero pari di quadrati di questo sottoinsieme.
+
+[[src_pol_2000_r3__Q05]]

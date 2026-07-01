@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q08
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *arco come cerchio piccolo*
 
@@ -50,3 +53,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*arc as a small circle*
+
+![[src_kangourou_2022_student__prob8.png]]
+
+> Four straight lines intersect forming eight congruent angles (see figure). Which of the bows drawn in black has the same length as the small circle drawn in gray? The rays of the small circumference and the arcs are highlighted by the squaring. A) A
+>   
+> B) B
+>   
+> C) C
+>   
+> D) D
+>   
+> E) E
+
+**Answer:** D
+[[src_kangourou_2022_student__Q08]]

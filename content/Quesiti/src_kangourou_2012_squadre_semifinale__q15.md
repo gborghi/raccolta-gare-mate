@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre semifinale turno A — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q15
 parent: src_kangourou_2012_squadre_semifinale
 competition: Kangourou 2012 squadre semifinale turno A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo n con ultime tre cifre di 3999n uguali a 888*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 112
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum n with the last three digits of 3999n equal to 888*
+
+> The last three digits What is the smallest positive integer n such that the last three digits of product 3999 < MSK0/> n are 888?
+>  
+> 
+>  
+> Kangourou of Mathematics 2012 Kangourou Team Cup Semifinal round at Cervia, 5 May 2012
+>                                                 
+> Questions and Answers
+
+**Answer:** 112
+[[src_kangourou_2012_squadre_semifinale__Q15]]

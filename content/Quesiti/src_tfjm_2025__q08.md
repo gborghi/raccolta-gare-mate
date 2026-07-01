@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2025__Q08
 parent: src_tfjm_2025
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2025
@@ -39,6 +40,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-player game coloring 2n points on a circle (orange/blue); winner forms the longest monochromatic arc. Study strategies and winning probabilities versus random and skilled opponents.*
 
@@ -87,3 +90,49 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lHouVzMpsDZ0eOZtTQ2RMXik8VTIniH-/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco per due giocatori colorando 2n punti su un cerchio (arancio/blu); il vincitore forma l'arco monocromatico più lungo. Studiare le strategie e le probabilità di vincere contro avversari casuali e qualificati.*
+
+> Problema 8 - Punti colorati su un cerchio.
+> 
+> Lucie ha inventato un gioco per due giocatori. Le regole sono le seguenti.
+> 
+> Il gioco si svolge su un cerchio. All'inizio, i punti del cerchio sono incolori. Uno dei due avversari è designato per giocare per primo. A sua volta, Lucie e il suo avversario scelgono ognuno un punto, che viene poi colorato nel loro rispettivo colore: Orange per Lucie, Blu per il suo avversario. Quando giocano, è vietato scegliere un punto già colorato da uno di loro. Lucie accetta in anticipo il numero di mosse che durerà la partita. Entrambi giocano lo stesso numero di mosse, quindi il numero di mosse è un numero intero pari, indicato $2n$. Ad esempio, se il numero di mosse è $2n = 6$, ognuno di essi gioca $n = 3$ mosse. La partita si ferma una volta che vengono eseguite le mosse $2n$.
+> 
+> Alla fine del gioco, il cerchio viene tagliato in archi i cui punti terminali sono arancioni o blu. In una tale configurazione, un arco primitivo è un arco i cui due punti finali sono colorati (in arancione o blu) e che non contiene nessun altro punto colorato (ad esempio, l'intero cerchio, visto come un arco, non è mai primitivo). Gli archi primitivi i cui due punti finali hanno colori diversi sono neutrali; ma il vincitore è colui che ha formato l'arco più lungo, non necessariamente primitivo, interamente colorato nel suo colore. Se c'è una parità di tali archi, o se non esiste, la partita è dichiarata nulla (un pareggio).
+> 
+> In tutto il problema, chiamiamo strategia un modo deterministico di descrivere cosa giocare in funzione delle mosse eseguite in precedenza. In altre parole, una strategia è un algoritmo che indica quale mossa giocare a seconda della situazione attuale, in modo che in due situazioni identiche indica sempre la stessa mossa.
+> 
+> Poiché a Lucie non piace perdere, inizia scegliendo come avversario l'idiota del villaggio, che, fedele al suo nome, gioca le sue mosse in modo casuale, senza pensare. Ogni mossa giocata segue una legge uniforme sul cerchio. Lucie cerca strategie che massimizzino la sua probabilità di vincere contro questo avversario. (Figura 11: due estremità di gioco per $2n = 6$ e una per $2n = 10$. A sinistra non ci sono archi colorati: il gioco è nullo. Nel centro, Lucie (arancione) vince: riesce a costruire un arco di dimensioni massime. A destra, l'avversario (blu) vince perché ha formato un arco blu (non primitivo) di dimensioni massime.)
+> 
+> Lucie e il suo avversario concordano di iniziare fissando $2n = 4$.
+> 
+> 1. Se Lucie lascia che il suo avversario giochi per primo, ha una strategia che le permette di vincere con certezza?
+> 
+> 2. Dopo aver vinto una partita, il suo avversario la lascia giocare prima. a) Lucie ha una strategia che le permetta di vincere qualsiasi cosa succeda? b) Studiare l'insieme di $p \in [0, 1]$ in modo tale che esista una strategia che consente a Lucie di vincere con probabilità esattamente $p$. c) La stessa domanda per le probabilità di non perdere.
+> 
+> 3. Lucie e il suo avversario scelgono ora $2n > 4$. a) Ripetere la domanda precedente per $2n > 4$. Si può iniziare con il caso $2n = 6$. b) La stessa domanda per le probabilità di non perdere.
+> 
+> Lucie propone di cambiare le regole. Sono d'accordo su un intero $k$, e le regole sono cambiate in modo che l'avversario di Lucie collochi $k$ punti piuttosto che $n$. L'avversario gioca tutti i suoi punti prima. Lui gioca ancora a caso sul cerchio, ma Lucie mette tutti i suoi punti dopo, in modo che lei abbia poi piena libertà di scegliere dove mettere i suoi punti. Lucie ha quindi più informazioni del suo avversario, ma a sua volta quest'ultimo gioca più punti di lei.
+> 
+> 4. Come funzione di $n$ e $k$, Lucie ha una strategia che le consente di vincere con probabilità $1$?
+> 
+> Per provare, Lucie e il suo avversario assumono esattamente la stessa configurazione di prima, ma scambiando i ruoli. Lucie mette $k$ punti, il suo avversario mette $n$. Quest'ultimo gioca ancora casualmente, e Lucie mette tutti i suoi punti in primo luogo.
+> 
+> 5. Studiare l'insieme di $p \in [0, 1]$ in modo che esista una strategia che consente a Lucie di vincere con probabilità $p$.
+> 
+> Stanca di giocare con l'idiota del villaggio, Lucie trova un avversario del suo calibro: Lucien. Uno dei due giocatori è designato per giocare per primo e $2n \in \mathbb{N}$ è fissato. Si applica quindi la regola di turno a turno. Lucien comincia a suonare.
+> 
+> 6. Uno dei due giocatori ha una strategia che gli permette di vincere con certezza? Se sì, descrivi uno.
+> 
+> 7. Ripetere il problema se Lucie avesse accettato fin dall'inizio che il vincitore non è colui che ha l'arco più lungo, ma colui che è riuscito a massimizzare la somma delle lunghezze degli archi primitivi del suo colore.
+> 
+> 8. Proporre e studiare altre linee di ricerca.
+
+![[src_tfjm_2025__Q08.png]]
+
+[[src_tfjm_2025__Q08]]

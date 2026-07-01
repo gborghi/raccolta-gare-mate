@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f1__Q03
 parent: src_obm_2012_n1_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers whose largest proper divisor is 9*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare interi positivi il cui più grande divisore proprio è 9*
+
+> Quanti numeri interi positivi hanno 9 come loro più grande divisore oltre al numero stesso?
+> 
+> (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 9 \quad (E) infinitamente molti
+
+**Risposta:** B
+[[src_obm_2012_n1_f1__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_ecolier__Q05
 parent: src_kangourou_2001_ecolier
 competition: Kangourou 2001 - Ecolier (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di sedersi nella canoa*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sitting in the canoe< MSK1/>
+
+![[src_kangourou_2001_ecolier__prob5.png]]
+
+> The Pagaia family (father, mother and their son Benjamin) rents a three-seater canoe. How many different ways can they sit in a canoe?
+>
+> - **(A)** 9
+> - **(B)** 8
+> - **(C)** 6
+> - **(D)** 4
+> - **(E)** 3
+
+**Answer:** C
+[[src_kangourou_2001_ecolier__Q05]]

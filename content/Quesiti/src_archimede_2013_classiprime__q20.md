@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2013 — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_classiprime__Q20
 parent: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di riduzioni tipo Euclide su coppia <1000*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of Euclidean reductions per pair < 1000< MSK1/>
+
+> Given a pair (a, b) of positive integers, with a > b, we agree to call the reduction of (a, b), the pair (b, r) obtained by taking the second element b of the starting pair and the remainder r of the division between a and b. So let's imagine starting with a pair of numbers and then doing further reductions, until this is possible, that is, until the two numbers remain strictly positive. For example, starting from the pair (59, 8) you can perform 4 reductions because (59, 8) →(8, 3) →(3, 2) →(2, 1) →(1, 0). What is the maximum number of reductions you can make from a pair (a, b) of positive integers both less than 1000? A 14 B 10 C 9 D 99 E 17 F 8 1
+> 
+> Solutions
+
+**Answer:** A
+[[src_archimede_2013_classiprime__Q20]]

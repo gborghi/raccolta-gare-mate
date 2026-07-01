@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2024_finale__Q15
 parent: src_kangourou_squadre_2024_finale
 competition: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione ombreggiata in quadrato ripartito*
 
@@ -87,3 +90,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0218
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area region shaded in square divided*
+
+![[src_kangourou_squadre_2024_finale__prob15.png]]
+
+> The sides of the square in the figure to the right are divided into segments of lengths indicated in centimetres; connecting the ends of some of these with other segments gives rise to the two regions that appear, one white and one shaded. What is the area in square centimetres of the shaded region? Four four four four four four four four three three three three three two two two seven seven seven seven squad Points A seven B five C four D 0 one two three four five six seven eight nine ten eleven twelve thirteen four four four four four four four three three three three three three two two two two seven seven seven seven seven squad Points A seven B five four D one two three four five six seven eight nine ten eleven twelve thirteen four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four four
+> 
+> Kangourou of Mathematics 2024 Kangourou Cup to teams Final 2 Cervia, 4 May 2024
+>  
+> Securities and replies
+
+**Answer:** 0218
+[[src_kangourou_squadre_2024_finale__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f1__Q24
 parent: src_obm_2012_n3_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of real solutions to cyclic system with 1/x^2 etc*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di soluzioni reali di sistema ciclico con 1/x^2 ecc*
+
+> Quante soluzioni reali ha il sistema? $$\begin{cases} x + y = \dfrac{1}{z^2} \\[6pt] y + z = \dfrac{1}{x^2} \\[6pt] z + x = \dfrac{1}{y^2} \end{cases}$$
+> 
+> **A) ** 0 $\quad$ **B) ** 1 $\quad$ **C) ** 2 $\quad$ **D) ** 3 $\quad$ **E) ** infinitamente molti
+
+[[src_obm_2012_n3_f1__Q24]]

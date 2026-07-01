@@ -1,6 +1,7 @@
 ---
 title: X Gara Nazionale Classi Prime 2025 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2025__Q05
 parent: src_garaprime_2025
 competition: X Gara Nazionale Classi Prime 2025
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadretti non tagliati dalle diagonali di griglia 20x25*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Figures not cut from 20x25 grid diagonal < MSK1/>
+
+> In a rectangular grid 20 < MSK0/> 25 the two diagonal lines are drawn. How many squares of the grid are not cut inside by the diagonals?
+>
+> - **(A)** 320
+> - **(B)** 326
+> - **(C)** 400
+> - **(D)** 418
+> - **(E)** 422
+
+**Answer:** E
+[[src_garaprime_2025__Q05]]

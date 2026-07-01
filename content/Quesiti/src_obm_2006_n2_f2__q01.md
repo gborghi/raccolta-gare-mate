@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f2__Q01
 parent: src_obm_2006_n2_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Position of 2006 in a pyramid arrangement of naturals*
 
@@ -54,3 +57,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14m_m3fWafaBhTsvTpKy4qhIiuxZvzWT8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Posizione del 2006 in una disposizione piramidale di naturali*
+
+> Esmeralda ha organizzato tutti i numeri naturali dal 1 al 2006 nella seguente disposizione piramidale: $$\begin{array}{ccccccccc} & & & & 21 & & & & \\ & & & 20 & & 13 & & 22 & \\ & & 19 & & 12 & & 7 & & 14 & & 23 \\ & 18 & & 11 & & 6 & & 3 & & 8 & & 15 & & 24 \\ 17 & & 10 & & 5 & & 2 & & 1 & & 4 & & 9 & & 16 & & 25 \end{array}$$ In quale piano si trova il numero 2006? (Per esempio: il numero 1 è al primo piano, il 6 al secondo piano e il 23 al terzo piano.)
+
+[[src_obm_2006_n2_f2__Q01]]

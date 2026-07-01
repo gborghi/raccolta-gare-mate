@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_semifinale2__Q15
 parent: src_archimede_2025_squadre_semifinale2
 competition: Gara a Squadre Nazionale 2025 - Semifinale 2
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (n,d) con condizione su divisori primi, n<100*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0616
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Couples (n,d) with condition on prime divisors, n<100*
+
+> Access to the headquarters The headquarters of the MI6), like all intelligence services, has an entrance whose door is opened by entering a code. It is equal to the result of p+2q, where p and q are prime numbers, with p < q such that pq = 83333. What code do you need to enter to open the door?
+
+**Answer:** 0616
+[[src_archimede_2025_squadre_semifinale2__Q15]]

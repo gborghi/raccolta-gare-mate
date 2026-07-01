@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2001 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2001__Q03
 parent: src_rmo_2001
 competition: Regional Mathematical Olympiad 2001
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers x with floor(x/99) = floor(x/101)*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15Y14HVMjGftkYhnfutHqAb_lpxEScIwl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri interi positivi x con piano(x/99) = piano(x/101)*
+
+> Trova il numero di integri positivi $x$ che soddisfano $\left\lfloor \dfrac{x}{99} \right\rfloor = \left\lfloor \dfrac{x}{101} \right\rfloor$.
+> 
+> (Qui $\lfloor z \rfloor$ indica, per qualsiasi $z$ reale, il più grande numero intero non superiore a $z$; ad esempio\ $\lfloor 7/6 \rfloor = 1$.)
+
+[[src_rmo_2001__Q03]]

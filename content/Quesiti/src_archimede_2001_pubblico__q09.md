@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_pubblico__Q09
 parent: src_archimede_2001_pubblico
 competition: Archimede 2001 - Gara del Pubblico (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *massimo termine noto*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0600
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>maximum known term< MSK1/>
+
+> One of the most important problems of Imese archaeology is the deciphering of the numbers of the Qwghlm civilization, whose writing is quite well known. It is assumed that the Qwghlmians used a $8$ base system, having $8$ tentacles. A brilliant archaeologist just found a page in an old math book that said:
+> 
+> "Using the 'R tennio method [NDR: a well-known Qwghlmian mathematician] we conclude that the roots of the $$x^4 - \alpha x^2 + \beta x + \gamma = 0$$ polynomial are all integers"
+> 
+> The Greek letters represent two different unknown Qwghlmian figures. Calculate the maximum value that the known term can assume.
+
+**Answer:** 0600
+[[src_archimede_2001_pubblico__Q09]]

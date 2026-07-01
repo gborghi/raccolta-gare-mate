@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2016 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2016__Q01
 parent: src_smc_2016
 competition: Senior Mathematical Challenge 2016
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many times does the digit 9 appear in 987654321 × 9?*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK1/>Quante volte appare il numero 9 nel 987654321 < MSK0/> 9?< MSK2/>
+
+> Quante volte la cifra 9 appare nella risposta a $987\,654\,321 \times 9$?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 5
+> - **(D)** 8
+> - **(E)** 9
+
+**Risposta:** B
+[[src_smc_2016__Q01]]

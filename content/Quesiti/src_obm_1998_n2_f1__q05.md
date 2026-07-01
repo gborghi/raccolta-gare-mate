@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f1__Q05
 parent: src_obm_1998_n2_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of triangle with vertices at midpoints of square sides*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di triangolo con vertici nei punti di mezzo dei lati quadrati*
+
+> Il quadrilaterale $ABCD$ è un quadrato di superficie $4\,\mathrm{m}^2$. I punti $M$ e $N$ sono rispettivamente i punti medi dei lati $DC$ e $BC$. Qual è l'area, in $\mathrm{m}^2$, del triangolo ombrato (il triangolo con vertici a $A$, $M$ e $N$)?
+> 
+> A) 2 B) 1.5 C) 2.5 D) 3 E) 3.5
+
+![[src_obm_1998_n2_f1__Q05.png]]
+
+**Risposta:** B
+[[src_obm_1998_n2_f1__Q05]]

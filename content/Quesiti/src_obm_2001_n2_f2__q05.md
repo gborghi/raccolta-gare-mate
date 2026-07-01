@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f2__Q05
 parent: src_obm_2001_n2_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Interchangeable sets of 4 distinct nonzero digits; find all*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xggI-DZYi_rVkYbSC9aLzBPxq-f6OWiM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieme intercambiabili di 4 diversi numeri non zeri; trovare tutti*
+
+> Diciamo che un insieme $A$ formato da $4$ cifre distinte e non zeri è ** intercambiabile** se possiamo formare coppie di numeri dalle cifre di $A$, ciascuna coppia utilizzando cifre $2$ di $A$, in modo tale che in ciascuna coppia il prodotto dei due numeri formati è sempre lo stesso. Ad esempio, l'insieme $\{1,2,3,6\}$ è intercambiabile perché $21 \cdot 36 = 12 \cdot 63$. Trova tutte le serie intercambiabili.
+
+[[src_obm_2001_n2_f2__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1979 (Twenty-first International Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1979_all__Q03
 parent: src_imo_1979_all
 competition: IMO 1979 (Twenty-first International Olympiad)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Fixed point equidistant from two points moving on circles*
 
@@ -34,3 +37,13 @@ tags:
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zEPuPBU2bBcA_YKZy9BbfgTGEtgtWSpu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fixed point equidistant from two points moving on circles*
+
+> Two circles in a plane intersect. Be $A$ one of the intersection points. Starting simultaneously from $A$, two points move at constant speed, each along its circumference in the same direction. The two points return to $A$ simultaneously after a full lap. Demonstrate that there is a fixed point $P$ in the plane such that, at any moment, the distances from $P$ to the two moving points are equal.
+
+[[src_imo_1979_all__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2018__Q04
 parent: src_tfjm_2018
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018
@@ -37,6 +38,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Galettes des rois: n galettes each cut into k parts contain hidden feves with a_1<=...<=a_n feves; given how many feves were already found, decide which galette to pick to maximize (or minimize) the chance of finding a feve, and study useless galettes.*
 
@@ -73,3 +76,29 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gallettes des rois: n galettes ciascuna tagliata in k parti contengono febbre nascoste con febbre a_1<=...<=a_n; data la quantità di febbre già trovate, decidete quale galette scegliere per massimizzare (o ridurre al minimo) la possibilità di trovare una febbre, e studiate le galettes inutili.*
+
+> Galettes des rois (torte dei re). Nella galette des rois del liceo, ci sono $n$ galettes numerate $1$ a $n$, ciascuna tagliata in parti $k$, dove $k$ e $n$ sono enti rigorosamente positivi. Guillaume mangia in modo casuale: arrivando, prende una parte di una galette. Ogni galette può contenere o meno fève (incantevoli). < MSK6/> è il numero di fève nella galette < MSK7/>. Supponiamo < MSK8/>.
+> 
+> 1. Calcolare $\mathbb{P}(L=\ell)$ per qualsiasi numero intero $\ell\ge 0$, dove $L$ è il numero di fève già trovate prima dell'arrivo di Guillaume. Quali sono le aspettative di < MSK3/>?
+> 
+> 2. Prendendo una parte casuale in galette $i$, qual è la probabilità che Guillaume trovi una fève? Come deve procedere per massimizzare le sue possibilità di trovare una fève?
+> 
+> Thomas, che è stato lì fin dall'inizio, dice a Guillaume che finora sono state trovate fève $\ell$, con $0\le\ell\le n-1$.
+> 
+> 3. In funzione di $\ell$, quale galette deve scegliere Guillaume per avere le migliori possibilità di trovare una fève? Qual è la probabilità che ne troverà una? Trattare i seguenti casi: a) $n=2$; b) $n=3$; c) $\ell=0$; d) $\ell=1$; e) $\ell=n-1$; f) $n,\ell$ arbitrario, ma tutte le galette contengono lo stesso numero di parti; g) $k=n$ e $a_i=1$ per tutte le $i$; h) $n,\ell$ arbitrario.
+> 
+> 4. In questa domanda, supponiamo $a_1<a_2<\cdots<a_n$. Diciamo che una galette $i$ è inutile se, qualunque sia il valore $\ell$ dato da Thomas, la galette $i$ non è mai la galette che dà la migliore possibilità di trovare una fève. Come funzione di $n$, è possibile che nessuna galette sia mai inutile? Quali galettes non sono mai inutili? Quanti sono i possibili numeri di galletti inutili?
+> 
+> 5. Guillaume è molto pieno e ora teme che almeno debba assaggiare le parti contenenti le fève. Ora vuole le minime possibilita' di trovarne uno. Redo domande 3 e 4 in questo contesto.
+> 
+> 6. Proporre e studiare altre direzioni di ricerca.
+
+![[src_tfjm_2018__Q04.png]]
+
+[[src_tfjm_2018__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q15
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero al posto del ? in quadrato magico moltiplicativo*
 
@@ -61,3 +64,35 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Number in place of ? in the magic square multiplied by *
+
+![[src_kangourou_2016_junior_marzo__prob15.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \draw[thick] (0,0) grid (3,3);
+  \node at (0.5, 2.5) {\textbf{20}};
+  \node at (1.5, 2.5) {\textbf{1}};
+  \node at (2.5, 1.5) {\textbf{?}};
+\end{tikzpicture}
+\end{document}
+```
+
+> By inserting, one per box, each of the numbers 1, 2, 4, 5, 10, 20, 25, 50 and 100, Gilberto wants to construct a magic square multiplier: he wants that, however he chooses a line, a column or a diagonal, the product of the three numbers in it contents not varied. In the figure, you can see how Gilberto started the game. What number will you have to put in place of the question mark? A) 2
+> 	
+> B) 4
+> 	
+> C) 5
+> 	
+> D) 10
+> 	
+> E) 25
+
+**Answer:** B
+[[src_kangourou_2016_junior_marzo__Q15]]

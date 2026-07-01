@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2025_femminile__Q07
 parent: src_squadre_2025_femminile
 competition: Gara a Squadre Femminile 2025 - VIII Finale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura AB con ortocentro circocentro e HO parallelo*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 56
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measure AB with orthocenter circocenter and parallel HO*
+
+> The boys are sad because Danville's mini golf is closed, so they decide to build one. For the first hole they construct an ABC triangle with the hole in H orthocentric and the departure in O circocentric of the triangle. Between O and H they place an obstacle but they make HO parallel to AB with a distance of 10 dm. If 22 dm HO , what is AB, always in dm?
+
+**Answer:** 56
+[[src_squadre_2025_femminile__Q07]]

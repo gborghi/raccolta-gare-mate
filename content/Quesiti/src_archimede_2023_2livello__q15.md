@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_2livello__Q15
 parent: src_archimede_2023_2livello
 competition: Archimede Gara di Febbraio 2023 - 2° livello
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trapezio isoscele, bisettrici, AB=AP sse condizione*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Isosceles trapezoid, bisectriform, AB=AP with condition < MSK1/>
+
+> Demonstrative Exercise Whether ABCD is an isosceles trapezoid of base major AB such that the angle bisector in D passes through B. Let's say that the intersection of the angle in A intersects the side of BC at the point P. Demonstrate that AB = AP if and only if the biset of ÷ PAD passes through C.
+
+[[src_archimede_2023_2livello__Q15]]

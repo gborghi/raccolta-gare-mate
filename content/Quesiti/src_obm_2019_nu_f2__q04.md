@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2 —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2019_nu_f2__Q04
 parent: src_obm_2019_nu_f2
 competition: Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all functions f:R->R with f(xf(y)+f(x))+f(y^2)=f(x)+yf(x+y)*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10ZZ53PN51VCIg4v8FeDtpK_VZe_GuZRq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le funzioni f:R->R con f(xf(y) + f(x)) + f(y^2) = f(x) +yf(x+y) *
+
+> Determinare tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ in modo tale che per tutte le $x, y \in \mathbb{R}$: $$f(x f(y) + f(x)) + f(y^2) = f(x) + y f(x + y).$$
+
+[[src_obm_2019_nu_f2__Q04]]

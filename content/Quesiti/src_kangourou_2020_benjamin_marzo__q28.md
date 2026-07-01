@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q28
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri da scrivere al posto di a,b,c nel foglio ripiegato*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers to be written in place of a,b,c in the folded sheet*
+
+![[src_kangourou_2020_benjamin_marzo__prob28.png]]
+
+> Victor has a square sheet of paper divided into nine equal squares. He's going to fold it as the figure shows, overlaying the squares horizontally and then vertically, so that eventually the gray square remains visible at the top. Before you fold it, you want to write the numbers 1 through 9, each in a square, so that when the square is folded, the numbers are in increasing order from the number 1 visible at the top. What numbers should you write instead of a, b, c? A) a = 6, b = 4, c = 8
+> 	
+> B) a = 4, b = 6, c = 8
+> 	
+> C) a = 5, b = 7, c = 9
+> 	
+> D) a = 4, b = 5, c = 7
+> 	
+> E) a = 6, b = 4, c = 7
+
+**Answer:** A
+[[src_kangourou_2020_benjamin_marzo__Q28]]

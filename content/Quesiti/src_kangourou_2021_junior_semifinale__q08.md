@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior Semifinale individuale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_semifinale__Q08
 parent: src_kangourou_2021_junior_semifinale
 competition: Kangourou 2021 Junior Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numeri con esito diverso*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>numbers with different output< MSK1/>
+
+> (5 points) Peter rounded all positive integers less than 10,000 to tens, then rounded the numbers to hundreds, and finally rounded the final results to thousands. Instead, Paul rounded directly to the thousands all positive integers less than 10,000. For how many of the starting integers do the two boys get different end results? Rounding is to be understood in the usual sense: for example, for rounding to tens, 10 and 13 are rounded to 10, 15 and 17 to 20. A) 0
+>  
+> B) 55
+>  
+> C) 110
+>  
+> D) 550
+>  
+> E) 1100
+
+**Answer:** D
+[[src_kangourou_2021_junior_semifinale__Q08]]

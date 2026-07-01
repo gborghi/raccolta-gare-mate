@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q25
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length FA in a circumscribable hexagon given five consecutive side lengths*
 
@@ -48,3 +51,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza FA in un esagono circonscrivibile data cinque lunghezze laterali consecutive*
+
+> L'esagono $ABCDEF$ è circoscrivibile. Se $AB = 1$, $BC = 2$, $CD = 3$, $DE = 4$ e $EF = 5$, quanto misura $FA$?
+> 
+> (A) $1$ \quad (B) $3$ \quad (C) $15/8$ \quad (D) $6$ \quad (E) $9$
+
+![[src_obm_2001_n2_f1__Q25.png]]
+
+**Risposta:** B
+[[src_obm_2001_n2_f1__Q25]]

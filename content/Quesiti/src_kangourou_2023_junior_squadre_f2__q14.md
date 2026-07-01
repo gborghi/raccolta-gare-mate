@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Junior Finale 2 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_squadre_f2__Q14
 parent: src_kangourou_2023_junior_squadre_f2
 competition: Kangourou Squadre 2023 Junior Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma secondi termini comuni progressioni*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9994
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of second common terms progressions*
+
+> Arithmetic progressions On two arithmetic progressions of a whole ratio, only the following information is available. One has as reason 76, the other has as initial term 20, the first term common to both is 95. Depending on the missing information, several possibilities for the second common term are open. What is the sum of all these possible second common terms?
+
+**Answer:** 9994
+[[src_kangourou_2023_junior_squadre_f2__Q14]]

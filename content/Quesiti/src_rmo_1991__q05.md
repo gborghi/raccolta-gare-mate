@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1991 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1991__Q05
 parent: src_rmo_1991
 competition: Regional Mathematical Olympiad 1991
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Lines through point on side of triangle, parallelism chain*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RD8FU5BoTp9QOmMS9Bfvr_F9JpltmZcX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Line attraverso il punto sul lato del triangolo, catena di parallele*
+
+> Prendi qualsiasi punto $P_1$ sul lato $BC$ di un triangolo $ABC$ e disegni la seguente catena di linee: $P_1P_2$ parallelo a $AC$ ($P_2$ su $AB$); $P_2P_3$ parallelo a $BC$ ($P_3$ su $AC$); $P_3P_4$ parallelo a $AB$ ($P_4$ su $BC$); $P_4P_5$ parallelo a $CA$ ($P_5$ su $AB$); $P_5P_6$ parallelo a $BC$ ($P_6$ su $AC$). Qui < MSK23/>, < MSK24/> si trovano su < MSK25/>; < MSK26/>, < MSK27/> si trovano su < MSK28/>; < MSK29/>, < MSK30/> si trovano su < MSK31/>. Indicare che $P_6P_1$ è parallelo a $AB$.
+
+[[src_rmo_1991__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2008 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2008__Q14
 parent: src_cn_cmc_2008
 competition: China Mathematical Competition 2008
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve logarithmic inequality involving degree-12 polynomial*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\left(-\sqrt{\dfrac{-1+\sqrt{5}}{2}},\, \sqrt{\dfrac{-1+\sqrt{5}}{2}}\right)$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi la disuguaglianza logaritmica che coinvolge il polinomio di grado-12*
+
+> Risolvere la disuguaglianza < MSK0/>
+
+**Risposta:** $\left(-\sqrt{\dfrac{-1+\sqrt{5}}{2}},\, \sqrt{\dfrac{-1+\sqrt{5}}{2}}\right)$
+[[src_cn_cmc_2008__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Pre-Ecolier — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_preecolier__Q18
 parent: src_kangourou_2013_preecolier
 competition: Kangourou 2013 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Fragole ottenibili scambiando 6 pere*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ykejBpK7Wiwv-x_5BvjdytAue5Y_N6nU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Fragments obtained by exchanging 6 pairs < MSK1/>
+
+![[src_kangourou_2013_preecolier__prob18.png]]
+
+> Playing with pears, apples, strawberries and plums makes the exchanges illustrated in the figure possible. Ada has six pears. How many strawberries can Ada have if she exchanges all her pears for just strawberries? A) 12 B) 36
+> 	
+> C) 18
+>   	
+> D) 24 E) 6
+
+**Answer:** C
+[[src_kangourou_2013_preecolier__Q18]]

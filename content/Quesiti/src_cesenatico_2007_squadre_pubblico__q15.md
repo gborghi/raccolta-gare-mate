@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q15
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di 10000 volte prodotto di seni multipli di pi/5*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Value of 10000 times the product of multiple breasts of pi/5< MSK1/>
+
+> The final test [50] The exam to become Mezzin has now come to an end. Few hardworking mornings have managed to reach this goal. But only those who can say how much is worth 10000 (less < MSK0/> 5) (less than 2 5 < MSK1/>) (less than 3 5 < MSK2/>) (less than 4 5 < MSK3/>) will be able to claim the title. What is the value to be given to complete the exam?
+
+[[src_cesenatico_2007_squadre_pubblico__Q15]]

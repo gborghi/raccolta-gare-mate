@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q11
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of metal piece made by cutting and welding triangles*
 
@@ -50,3 +53,21 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Area di pezzo di metallo ottenuta mediante taglio e saldatura di triangoli< MSK1/>
+
+> Geraldo, il serratore, prese una piastra di metallo quadrata, poi la tagliò e saldeva triangoli rettangolari con gambe di 5 cm, costruendo il pezzo rappresentato accanto. Qual è l'area di questo pezzo?
+>
+> - **(A)** $100\,\text{cm}^2$
+> - **(B)** $125\,\text{cm}^2$
+> - **(C)** $150\,\text{cm}^2$
+> - **(D)** $200\,\text{cm}^2$
+> - **(E)** $250\,\text{cm}^2$
+
+![[src_obm_2015_n1_f1__Q11.png]]
+
+[[src_obm_2015_n1_f1__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Ecolier (gara marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier__Q22
 parent: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti pezzi di formaggio ha preso il topo nel labirinto*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many pieces of cheese did the mouse take in the maze< MSK1/>
+
+![[src_kangourou_2011_ecolier__prob22.png]]
+
+> In every square cell of the maze you see in the figure, there's a piece of cheese. The mouse Luigi entered the maze from the opening indicated by the upper left arrow and came out of the one indicated by the lower right arrow after taking the largest number of cheese pieces he could take by passing through each cell at most once. How many pieces of cheese did you have? A) 17 B) 33 C) 37 D) 41 E) 49
+
+**Answer:** C
+[[src_kangourou_2011_ecolier__Q22]]

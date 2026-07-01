@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2014 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2014__Q06
 parent: src_bocconi_autunno_2014
 competition: Giochi d'Autunno 2014
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Arance in vetrina: quante ne vende Renato per meno di 100*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 85
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PloiPSpf4_9YADREFtliPjnhVrdcFhjI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Orange in the window: how many Renato sells for less than 100 < MSK1/>
+
+> To arrange for oranges to be displayed and sold, the fruit vendor Renato has at its disposal trays containing < MSK0/> oranges or other larger trays containing < MSK1/>. Whether you always use the small containers, or you always use the big ones, filling them up completely, you end up with an orange. The oranges Renato wants to sell are less than MSK3, but how many are they exactly?
+
+**Answer:** 85
+[[src_bocconi_autunno_2014__Q06]]

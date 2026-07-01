@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q08
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parita: la somma delle carte estratte deve garantire somma dispari per le altre.*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 20
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Parity: the sum of the extracted cards must provide a odd sum for the other cards.*
+
+> An urn contains nine cards. Each of the numbers from $1$ to $9$ is written on a piece of paper (one number per piece of paper). Quentin randomly picks up four cards in the oven. Then Typhaine takes three, leaving one in the oven. Quentin looks at his cards and, confidently, says to Tiphaine: "I'm sure the sum of the numbers written on your cards is a odd number". What's the sum of the numbers written on the cards Quentin took?
+
+**Answer:** 20
+[[src_bocconi_finaleint_2008_g1__Q08]]

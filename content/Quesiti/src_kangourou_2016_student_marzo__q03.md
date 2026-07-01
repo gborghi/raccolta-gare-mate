@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q03
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale figura non puo essere il torrente (ponte costante)*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which figure cannot be the stream (constant bridge) *
+
+![[src_kangourou_2016_student_marzo__prob3.png]]
+
+> Two friends want to build a bridge, as short as possible, over a stream and they realize that no matter how they choose a point on their shore from which to start the bridge, the length of the bridge remains the same. Which of the following cannot represent their stream? A) B) C) D) E)
+
+**Answer:** B
+[[src_kangourou_2016_student_marzo__Q03]]

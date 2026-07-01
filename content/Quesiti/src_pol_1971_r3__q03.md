@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1971 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1971_r3__Q03
 parent: src_pol_1971_r3
 competition: Olimpiade Matematica Polacca 1971 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Safe with locks distributed among committee members*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Sifre con serrature distribuite tra i membri del comitato< MSK1/>
+
+> Una cassaforte è protetta da un certo numero di serrature. Undici membri del comitato hanno le chiavi di alcune serrature. Qual è il numero minimo di serrature necessario affinché ogni sei membri del comitato possano aprire la cassaforte, ma non cinque membri possono farlo? Come dovrebbero essere distribuite le chiavi tra i membri del comitato se il numero di serrature è il più piccolo?
+
+[[src_pol_1971_r3__Q03]]

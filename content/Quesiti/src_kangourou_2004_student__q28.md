@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q28
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre di n^2 con n=999...9*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of n2 digits with n=999...9*
+
+> The number n = 999 ... 9 has the decimal representation formed by 999 nine. What 's the sum of the digits of number two ? A) 8982 B) 8991       C) 9000     D) 9009      E) 9018
+
+**Answer:** B
+[[src_kangourou_2004_student__Q28]]

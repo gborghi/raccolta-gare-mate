@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q14
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Extend 2021 distinct integers by appending smallest non-divisor; all large integers appear*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Estendere i numeri interi distinti 2021 aggiungendo il più piccolo non divisore; tutti i numeri interi grandi appaiono*
+
+> Dato il 2021 diversi integri positivi $a_1, a_2, \ldots, a_{2021}$. Definire la sequenza $\{a_n\}$ in modo induttivo come segue: per ogni numero intero $n \ge 2022$, $a_n$ è il numero intero positivo più piccolo diverso da $a_1, a_2, \ldots, a_{n-1}$ e non divide il prodotto $a_1 a_2 \cdots a_{n-1}$. Prova: esiste un intero positivo $M$, in modo che tutti gli enti superiori o uguali a $M$ appaiano in $\{a_n\}$.
+
+[[src_cn_ctst_2021__Q14]]

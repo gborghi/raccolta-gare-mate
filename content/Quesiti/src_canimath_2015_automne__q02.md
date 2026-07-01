@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2015 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2015_automne__Q02
 parent: src_canimath_2015_automne
 competition: Coupe Animath Automne 2015
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three digits x>y>z>0; sum of the six three-digit permutations equals 4884; find the possible numbers xyz.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre cifre x>y>z>0; somma delle sei permutazioni a tre cifre equivale a 4884; trovare i numeri possibili xyz.*
+
+> Prendiamo tre cifre $x, y, z$ in modo che $x > y > z > 0$. Prendendo la somma dei sei numeri a tre cifre ottenuti permutando questi cifre $3$, si trova $4884$ (ad esempio, se $x = 3$, $y = 2$ e $z = 1$ si trova $321 + 312 + 213 + 231 + 123 + 132 = 1332$). Quali sono i valori possibili del numero formato dalle tre cifre $x, y, z$ (preso in questo ordine)? Giustifica la tua risposta.
+
+[[src_canimath_2015_automne__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2012 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2012__Q06
 parent: src_bocconi_semifinale_2012
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2012
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di uova affinché ogni cassetta ne abbia almeno una e ogni lato del pollaio ne contenga esattamente 10.*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 22
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of eggs for each box to contain at least one and each side of the chicken to contain exactly 10. *
+
+> Of chickens
+> 
+> Every morning Liliana's chickens lay their eggs in the chicken's eight boxes so that Liliana always counts 10 eggs on each side of the chicken. In the example in the figure, the eggs laid are 29.
+> 
+> What is the minimum total number of eggs deposited so that each of the eight boxes has at least one egg and each side of the hen house contains exactly 10 eggs?
+
+![[src_bocconi_semifinale_2012__Q06.png]]
+
+**Answer:** 22
+[[src_bocconi_semifinale_2012__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo24yqa_yosen__Q11
 parent: src_jjmo24yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integer arrays of length 56 with all partial sums in [-5, 6]*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** $57 \cdot 6^{56}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le matrici di enti di lunghezza 56 con tutte le somme parziali in [-5, 6]*
+
+> Quanti array di integri $(a_1, a_2, \ldots, a_{56})$ soddisfano: per tutti gli integri $i, j$ con $1 \le i \le j \le 56$, $$-5 \le a_i + a_{i+1} + \cdots + a_j \le 6\,?$$
+
+**Risposta:** 57 \cdot 6^{56}
+[[src_jjmo24yqa_yosen__Q11]]

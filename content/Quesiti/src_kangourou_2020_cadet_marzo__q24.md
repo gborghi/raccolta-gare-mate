@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q24
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti punti il giudice III ha dato ad Adamo*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many points did Judge III give to Adam?
+
+![[src_kangourou_2020_cadet_marzo__prob24.png]]
+
+> At the end of a dance competition, each of the three judges gives each of the five contestants a score chosen between 0, 1, 2, 3, 4. No single judge has given the same score to two different competitors. The total scores obtained by the various competitors and some individual scores are known, as shown in the table. How many points did Judge III give to Adam? A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 3
+> 	
+> E) 4
+
+**Answer:** B
+[[src_kangourou_2020_cadet_marzo__Q24]]

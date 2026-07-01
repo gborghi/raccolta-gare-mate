@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior finale nazionale — Quesito J3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior_finale__QJ3
 parent: src_kangourou_2003_junior_finale
 competition: Kangourou 2003 Junior finale nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del max cerchio inscritto nel triangolo mistilineo*
 
@@ -53,3 +56,32 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 9pi/16
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DYCQm1nF2PohR5Hfzk5zl6q-PHPzDsMy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the max circle inscribed in the mythological triangle*
+
+![[src_kangourou_2003_junior_finale__probJ3.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=2]
+  \coordinate (P) at (-1,0);
+  \coordinate (R) at (1,0);
+  \coordinate (Q) at (0,1.5);
+  \draw (P) -- (Q) -- (R) -- cycle;
+  \draw (0,0.5352) circle (0.5352);
+  \node[below left] at (P) {P};
+  \node[below right] at (R) {R};
+  \node[above] at (Q) {Q};
+  \node[below] at (0,0) {2};
+\end{tikzpicture}
+\end{document}
+```
+
+> The figure represents a mystilinear triangle $PQR$. Its outline consists of a segment $PR$ of length 2 and two arcs of circumference $PQ$ and $QR$ of centers $R$ and $P$ respectively. How much is the area of the largest circle that can be inscribed in a triangle? (see figure)
+
+**Answer:** 9pi/16
+[[src_kangourou_2003_junior_finale__QJ3]]

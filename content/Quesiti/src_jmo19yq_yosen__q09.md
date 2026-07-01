@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo19yq_yosen__Q09
 parent: src_jmo19yq_yosen
 competition: Japan Mathematical Olympiad 2009 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pair interpreters into rooms sharing a common language*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Interpretatori in coppia in stanze che condividono una lingua comune*
+
+> Dieci interpreti sono invitati a una conferenza internazionale di matematica. Ogni interprete può parlare esattamente due delle cinque seguenti lingue: greco, sloveno, vietnamita, spagnolo e tedesco. Inoltre, non ci sono due interpreti che abbiano la stessa combinazione di lingue. Tali interpreti devono essere alloggiati due a stanza in cinque stanze, in modo che i due interpreti in ciascuna stanza possano parlare una lingua comune. In quanti modi si può farlo? Qui, due assegnazioni di stanza che danno esattamente gli stessi gruppi di persone sono contate come le stesse (solo scambiando quale stanza una coppia occupa non crea un'assegnazione diversa).
+
+[[src_jmo19yq_yosen__Q09]]

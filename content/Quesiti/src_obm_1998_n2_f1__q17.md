@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f1__Q17
 parent: src_obm_1998_n2_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Generalise Pythagorean triple pattern to find x+y*
 
@@ -59,3 +62,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Generalizzare il modello triplo di Pitagora per trovare x+y*
+
+> Osservare le seguenti identità: $$3^2 + 4^2 = 5^2$$ $$5^2 + 12^2 = 13^2$$ $$7^2 + 24^2 = 25^2$$ $$9^2 + 40^2 = 41^2$$ $$\vdots$$ Usando questi esempi come guida, considera l'identità $17^2 + x^2 = y^2$, dove $x$ e $y$ sono numeri naturali. Determinare il valore di $x + y$.
+> 
+> A) 289 B) 121 C) 81 D) 144 E) 196
+
+**Risposta:** A
+[[src_obm_1998_n2_f1__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q20
 parent: src_kangourou_2016_marzo_benjamin
 competition: Kangourou 2016 gara 17 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *contorno spesso*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1nld6l3RD6emhTglIXueL7F2OJGTBOKRG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> thick environment< MSK1/>
+
+![[src_kangourou_2016_marzo_benjamin__prob20.png]]
+
+> The rectangle ABCD has a perimeter of 30 cm. Three other rectangles have their centre at the vertices A, B and D and sides parallel to those of ABCD (see figure). The sum of the perimeters of the latter is 20 cm. How many centimeters is the outline drawn in a very thick drawing? A) 35
+> 	
+> B) 40
+> 	
+> C) 45
+> 	
+> D) 50
+> 	
+> E) It is impossible to establish. The questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** B
+[[src_kangourou_2016_marzo_benjamin__Q20]]

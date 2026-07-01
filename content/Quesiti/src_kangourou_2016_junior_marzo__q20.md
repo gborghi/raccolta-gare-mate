@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q20
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma frazioni colore diverso/uguale per 2016 canguri*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of different/equal colour fractions for 2016 kangaroos*
+
+> There are 2016 kangaroos; each of them is either gray or red and there's at least one gray and at least one red. For each kangaroo K we write the ratio between the number of kangaroos that have a different color than K and the number of kangaroos that have the same color as K (K included). What's the sum of all these fractions? The Commission therefore concludes that the Commission is not in a position to take any further action. The questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** A
+[[src_kangourou_2016_junior_marzo__Q20]]

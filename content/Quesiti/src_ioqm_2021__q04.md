@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2021__Q04
 parent: src_ioqm_2021
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2021
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *6-digit numbers with only digits a,b,c; sum is 5939399406; largest remainder of abc mod 100*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*numeri a 6 cifre con solo cifre a,b,c; somma 5939399406; maggior rimanente di abc mod 100*
+
+> Considerate l'insieme di tutti i numeri a 6 cifre composti solo da 3 cifre, $a, b, c$ sono distinti. Supponiamo che la somma di tutti questi numeri sia 5939399406. Qual è il maggior residuo quando il numero a tre cifre $\overline{abc}$ è diviso da $100$?
+
+[[src_ioqm_2021__Q04]]

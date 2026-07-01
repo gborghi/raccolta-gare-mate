@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2017 - 2 livello — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_febb_2livello__Q03
 parent: src_archimede_2017_febb_2livello
 competition: Archimede Gara di Febbraio 2017 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cinque primi in progressione aritmetica di ragione 6, frase falsa*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Five primes in arithmetic progression of the ratio 6, false sentence*
+
+> They are a < b < c < d < and five prime numbers in arithmetic progression of rational 6 (i.e. b = a + 6, c = b + 6, d = c + 6 and e = d + 6). Which of the following is false?
+>
+> - **(A)** a + b + c + d + e is multiple of 5.
+> - **(B)** the abcde > 104.
+> - **(C)** a + b + c + d + e is multiple of 29.
+> - **(D)** abcde is a multiple of 29.
+> - **(E)** The only perfect square that divides abcde is 1. I'll take it from here. Remember that an integer n is called a perfect square if there exists an integer such that n = a2.
+
+**Answer:** C
+[[src_archimede_2017_febb_2livello__Q03]]

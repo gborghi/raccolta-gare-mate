@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Triennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_triennio__Q09
 parent: src_archimede_2026_triennio
 competition: Giochi di Archimede 2026 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie di palindromi di 4 cifre con differenza palindroma*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Pairs of 4-digit palindromes with palindromic difference< MSK1/>
+
+> The real number k satisfies the ratio −1 < k < 0. You can conclude that . . .
+>
+> - **(A)** 1 k < k2 < k3 < 1 k2
+> - **(B)** k < 1 k < k2 < 1 k2
+> - **(C)** 1 k < k3 < 1 k2 < k2
+> - **(D)** 1 k < k3 < k2 < 1 k2
+> - **(E)** k3 < 1 k < k2 < 1 k2
+
+**Answer:** C
+[[src_archimede_2026_triennio__Q09]]

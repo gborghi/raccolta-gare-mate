@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2025 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_automne__Q14
 parent: src_canimath_2025_automne
 competition: Coupe Animath Automne 2025
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show triangle DYZ is isosceles in a midpoint/semicircle configuration*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra che il triangolo DYZ è uguale a quello di una configurazione di punto medio/semicircolo*
+
+> Che $ABC$ sia un triangolo che non è uguale a $A$. $D$, $E$ e $F$ siano i punti di mezzo dei lati $[BC]$, $[AC]$ e $[AB]$ rispettivamente. Il cerchio di diametro $[BC]$ taglia rispettivamente le metà linee $[DE)$ e $[DF)$ a $P$ e $Q$. Le linee $(BP)$ e $(CQ)$ si tagliano a $X$. La riga $(AX)$ taglia rispettivamente le righe $(DE)$ e $(DF)$ a $Y$ e $Z$. Indicare che il triangolo $DYZ$ è uguale.
+
+[[src_canimath_2025_automne__Q14]]

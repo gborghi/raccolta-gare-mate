@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_triennio__Q15
 parent: src_archimede_1996_triennio
 competition: Giochi di Archimede 1996 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume di un cilindro dallo sviluppo laterale*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of a cylinder from the lateral development*
+
+> If the lateral surface of a straight cylinder is developed, a rectangle is obtained whose diagonals are l long and form an angle of 30° with the base of the rectangle. The cylinder volume is
+>
+> - **(A)** 1 16 l3 π
+> - **(B)** 3 8l3
+> - **(C)** 3 4l3
+> - **(D)** 3 32 l3 π
+> - **(E)** The previous answers are all wrong.
+
+**Answer:** D
+[[src_archimede_1996_triennio__Q15]]

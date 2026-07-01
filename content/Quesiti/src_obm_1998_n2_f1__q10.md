@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f1__Q10
 parent: src_obm_1998_n2_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find missing number X in a magic square*
 
@@ -54,3 +57,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova il numero mancante X in un quadrato magico*
+
+> Nel quadrato magico qui sotto, la somma dei numeri in ogni riga, colonna e diagonale è sempre la stessa. Pertanto, il numero che dovrebbe sostituire $X$ è:
+> 
+> $$\begin{array}{|c|c|c|}\hline 15 & & 35 \\ \hline 50 & & \\ \hline 25 & X & \\ \hline \end{array}$$
+> 
+> A) 30 B) 20 C) 35 D) 45 E) 40
+
+**Risposta:** B
+[[src_obm_1998_n2_f1__Q10]]

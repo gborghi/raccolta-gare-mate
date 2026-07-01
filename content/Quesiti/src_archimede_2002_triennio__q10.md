@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2002 - Triennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_triennio__Q10
 parent: src_archimede_2002_triennio
 competition: Giochi di Archimede 2002 - Triennio
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero commensali da resti e divisibilita per 7*
 
@@ -46,3 +49,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Remains and divisibility by 7*
+
+> The manager of a 600-seat restaurant does not remember how many people he served at a large lunch. But remember, if you wanted to put them in tables of 3, you would have exactly one left out, and the same thing happened if you put them in tables of 4, 5, or 6. Instead, by placing them in tables of seven, none of them were left out. How many were the diners?
+>
+> - **(A)** 61
+> - **(B)** 121
+> - **(C)** 175
+> - **(D)** 301
+> - **(E)** 574.
+
+[[src_archimede_2002_triennio__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2021__Q04
 parent: src_tfjm_2021
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021
@@ -38,6 +39,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify counterfeit chocolate coins (different mass) with a two-pan balance; minimum weighings in worst case under various information*
 
@@ -74,3 +77,37 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_SfCnSHm4hFbj_TGxa2GoahJiFYpdibk/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare le monete di cioccolato contraffatte (di massa diversa) con un equilibrio di due pannelli; pesi minimi nel peggiore dei casi in base a varie informazioni*
+
+> Malo, un noto apprendista di cioccolato, a volte sbaglia la ricetta delle monete di cioccolato.
+> 
+> Malo ha preparato i pezzi di cioccolato $n \in \mathbb{N}^*$ e li ha già avvolti prima di rendersi conto che un pezzo di cioccolato non ha la massa giusta: è troppo piccolo o troppo grande, ma non sappiamo quale, né la differenza di massa. Tutti gli altri pezzi hanno la stessa massa.
+> 
+> L'unica cosa che distingue i pezzi difettosi dai buoni è la loro massa: tutti i pezzi buoni hanno la stessa massa e un pezzo difettoso ha una massa diversa.
+> 
+> Malo chiede a Marie, la cioccolateria, aiuto per identificare i pezzi difettosi tra i buoni. Purtroppo ha a sua disposizione solo un equilibrio di due pannelli che non è molto preciso: indica solo quale è la pannella più pesante. L'equilibrio è così impreciso che ha bisogno anche di piccole masse di massa $1$.
+> 
+> **(1) ** Supponiamo che tutti i pezzi difettosi abbiano una massa tra $1-\varepsilon$ e $1+\varepsilon$. Trovare una condizione su $\varepsilon$ tale che, se Marie mette rigorosamente più pezzi e masse su una pentola che sull'altra, allora la bilancia sarà sempre inclinata verso il lato con più pezzi e masse. Nel resto del problema, ci mettiamo in questo caso.
+> 
+> Per cominciare, supponiamo $k=1$: un singolo pezzo è difettoso. Inoltre, gli ingredienti rimasti ci permettono di sapere se il pezzo difettoso è più pesante o più leggero di quelli veri.
+> 
+> Malo pensa di ricordare quale pezzo è difettoso. In termini di $n$, qual è il numero minimo di pesi che Marie ha bisogno per verificare se ha ragione?
+> 
+> Malo non ha idea di quale pezzo sia difettoso. In termini di $n$, qual è il numero minimo di pesi di cui Marie ha bisogno per sapere con certezza quale è difettoso? La sua strategia deve funzionare, qualunque sia il pezzo difettoso.
+> 
+> La domanda (2) e (3) sono riviste se Marie non dispone di massa.
+> 
+> **(5) ** Rivedere le domande da (2) a (4) se gli ingredienti non permettono di determinare se il pezzo difettoso è più pesante o più leggero. Per la domanda (2), Malo pensa di sapere quale pezzo è difettoso e più pesante (Marie vuole solo verificare che sia il pezzo difettoso, ma non necessariamente che sia effettivamente più pesante).
+> 
+> **(6) ** Rivedere le domande da (2) a (4) nel caso di un numero arbitrario $k > \frac{n}{2}$ di pezzi difettosi, se questi sono tutti più pesanti dei pezzi buoni e hanno tutti la stessa massa (rispetto al vincolo della domanda (1)). Per la domanda (2), Malo pensa di ricordare esattamente quali sono i pezzi difettosi. Si può iniziare con $k=2$.
+> 
+> **(7) ** Rivedi il problema in altri casi. Ad esempio, si può supporre che esistano due modelli di pezzi difettosi, rispettivamente $1+\varepsilon$ e $1-\varepsilon$ (dove $\varepsilon>0$ è abbastanza piccolo da rispettare la limitazione della domanda (1)). Si può anche interessare al caso in cui i pezzi possano avere qualsiasi massa (sempre rispettando la domanda (1)), o posizionarsi nel caso in cui Marie non conosca $k$.
+
+![[src_tfjm_2021__Q04.png]]
+
+[[src_tfjm_2021__Q04]]

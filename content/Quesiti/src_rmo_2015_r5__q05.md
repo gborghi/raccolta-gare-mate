@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 5 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r5__Q05
 parent: src_rmo_2015_r5
 competition: Regional Mathematical Olympiad 2015
@@ -33,6 +34,8 @@ tags:
   - regione/r5
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right-angled triangle, incentres of sub-triangles from altitude collinear*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rYpdn-iDQKvMUMQUeART5t-arr47s7U1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo rettangolo, incentri di subtriangoli da altitudine collineare*
+
+> Che $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$ e che $BD$ sia l'altitudine da $B$ a $AC$. I segmenti $P$, $Q$, $R$ e $S$ siano rispettivamente gli incentri dei triangoli $DFC$, $DBF$, $DEB$ e $DAE$. Supponiamo che $P$, $Q$, $R$, $S$, $D$ siano collineari. Provare che $P$, $Q$, $R$, $D$ si trovano su un cerchio.
+
+[[src_rmo_2015_r5__Q05]]

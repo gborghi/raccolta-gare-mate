@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q11
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n>1 such that P_n coincides with P_1 for 35-degree arcs on a circle*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N>1 minore tale che P_n coincida con P_1 per archi di 35 gradi su un cerchio*
+
+> I punti $P_1, P_2, P_3, \ldots$ sono, in questo ordine, su un cerchio e sono tali che l'arco che unisce ogni punto alle misure successive $35^\circ$. Il valore più piccolo di $n > 1$ tale che $P_n$ coincida con $P_1$ è:
+> 
+> (A) $347$ \quad (B) $73$ \quad (C) $109$ \quad (D) $141$ \quad (E) $361$
+
+**Risposta:** B
+[[src_obm_2001_n2_f1__Q11]]

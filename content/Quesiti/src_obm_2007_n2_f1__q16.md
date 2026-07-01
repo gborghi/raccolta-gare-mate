@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f1__Q16
 parent: src_obm_2007_n2_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Figure of rectangle, pentagon, triangle, circle: black minus gray area*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Figura di rettangolo, pentagono, triangolo, cerchio: nero meno area grigia*
+
+> La figura di seguito è stata realizzata con un rettangolo, un pentagono, un triangolo e un cerchio, con aree rispettivamente $121$, $81$, $49$ e $25$ centimetri quadrati. La differenza tra l'area nera e l'area grigia, in centimetri quadrati, è:
+> 
+> (A) 25 $\quad$ (B) 36 $\quad$ (C) 49 $\quad$ (D) 64 $\quad$ (E) 81
+
+![[src_obm_2007_n2_f1__Q16.png]]
+
+**Risposta:** B
+[[src_obm_2007_n2_f1__Q16]]

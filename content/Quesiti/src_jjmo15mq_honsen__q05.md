@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2017 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo15mq_honsen__Q05
 parent: src_jjmo15mq_honsen
 competition: Japan Junior Mathematical Olympiad 2017 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle with orthocenter; four circumcircle-altitude intersections are concyclic*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ho2le-gwPvbBiq_sWgDwI8cp--nm23DX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto con centro ortografico; quattro intersezioni di circoncircolo-altitudine sono concicliche*
+
+> Il $ABC$ deve essere un triangolo acuto con il centro orto $H$. I piedi $D$, $E$ e $F$ siano rispettivamente i piedi delle altitudini dai vertici $A$, $B$ e $C$. Il $P$ è la seconda intersezione del circoncircolo del triangolo $ACD$ con il segmento $CF$ (diverso da $C$), e il $Q$ è la seconda intersezione del circoncircolo del triangolo $ABD$ con il segmento $CF$ (diverso dal vertice di $CF$). Inoltre, $S$ sia la seconda intersezione del circoncircolo del triangolo $ABH$ con il segmento $DE$, e $T$ sia la seconda intersezione del circoncircolo del triangolo $ACH$ con il segmento $DE$. Dimostrare che i quattro punti $P$, $Q$, $S$ e $T$ sono conciclici.
+
+[[src_jjmo15mq_honsen__Q05]]

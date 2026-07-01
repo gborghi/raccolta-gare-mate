@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q13
 parent: src_kangourou_2019_ecolier_finale
 competition: Kangourou 2019 Finale Nazionale Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ruggiti non in risposta (tre leoni)*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0058
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Rugs not responding (three lions) < MSK1/>
+
+> Stefano has the figures $2$, $0$, $1$ and $9$. In each of the boxes in the figure, you must insert one and use all of them. If you want the sum shown to yield the greatest possible result, what figure should you enter in the box shown with the question mark?
+>
+> - **(A)** < MSK0/> or < MSK1/>.
+> - **(B)** < MSK0/> or < MSK1/>.
+> - **(C)** If necessary < MSK0/>.
+> - **(D)** If necessary < MSK0/>.
+> - **(E)** If necessary < MSK0/>. (see figure)
+
+**Answer:** 0058
+[[src_kangourou_2019_ecolier_finale__Q13]]

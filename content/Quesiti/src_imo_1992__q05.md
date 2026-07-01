@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1992 (33rd IMO, Moscow) — Quesito 5'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1992__Q05
 parent: src_imo_1992
 competition: 'IMO 1992 (33rd IMO, Moscow)'
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Bound point-set size by product of projection sizes*
 
@@ -38,3 +41,13 @@ tags:
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_doppio_conteggio|Doppio conteggio]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Bound point-set size by product of projection sizes
+
+> Whether $S$ a finite set of points in three-dimensional space. The sets consisting of the orthogonal projections of the points of $S$ on the plane $yz$, $xz$ and $xy$ are $S_x$, $S_y$, $S_z$ respectively. Show that $$|S|^2 \le |S_x| \cdot |S_y| \cdot |S_z|$$ where $|A|$ denotes the number of elements of the finite set $A$.
+
+[[src_imo_1992__Q05]]

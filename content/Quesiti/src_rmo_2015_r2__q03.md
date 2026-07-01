@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r2__Q03
 parent: src_rmo_2015_r2
 competition: Regional Mathematical Olympiad 2015
@@ -35,6 +36,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integers a,b,c with a^2=bc+1, b^2=ca+1*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pE5C6xJJWRVrxBj2NXZ57hsymLDTV43n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutti gli enti a,b,c con a^2=bc+1, b^2=ca+1*
+
+> Trova tutti gli integri $a, b, c$ in modo tale che $a^2 = bc + 1$, $b^2 = ca + 1$.
+
+[[src_rmo_2015_r2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1999 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1999__Q01
 parent: src_inmo_1999
 competition: Indian National Mathematical Olympiad 1999
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle with angle bisector and midpoint perimeter condition*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hgD_u8X82WEkCyMKo3vqKvNfYTKTm396/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Triangolo acuto con bisettore angolare e condizione del perimetro del punto medio< MSK1/>
+
+> I punti $D$, $E$, $F$ sono prelevati sui lati $BC$, $CA$, $AB$ di un triangolo acuto angolato $ABC$ in modo tale che $AD \perp BC$, $AE = BC$ e $CF$ bisecci $\angle C$. Supponiamo che $CF$ soddisfi $AD$ a $M$ e $DE$ a $N$ in modo tale che $FM = 2$, $MN = 1$ e $NC = 3$. Trova il perimetro di < MSK19/>.
+
+[[src_inmo_1999__Q01]]

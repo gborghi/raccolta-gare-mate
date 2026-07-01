@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1994 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1994_r1__Q01
 parent: src_pol_1994_r1
 competition: Olimpiade Matematica Polacca 1994 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *No integers a,b,c,d (not all 0) with a^2-b=c^2 and b^2-a=d^2*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Non ci sono interi a, b, c, d (non tutti 0) con a^2 b=c^2 e b^2 a=d^2*
+
+> Prova che non esistono numeri interi $a, b, c, d$, non tutti uguali a 0, come $a^2 - b = c^2$ e $b^2 - a = d^2$.
+
+[[src_pol_1994_r1__Q01]]

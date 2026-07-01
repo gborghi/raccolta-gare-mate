@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo28yq_yosen__Q05
 parent: src_jmo28yq_yosen
 competition: Japan Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Counting flip-sequences turning alternating Othello row all black*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 945 ways
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contando le sequenze di inversione che girano in alternativa la riga Othello tutta nera*
+
+> Undici pietre di Othello sono disposte in fila come indicato nell'ordine (a). L'operazione seguente viene eseguita un certo numero di volte: scegliere due pietre dello stesso colore visibile che non sono adiacenti e in modo tale che tutte le pietre strettamente tra di loro mostrino l'altro colore; quindi girare tutte le pietre tra di loro contemporaneamente. Quante sequenze di operazioni distinte portano dall'accordo (a) all'accordo (b)? L'accordo (a) è $\bullet\circ\bullet\circ\bullet\circ\bullet\circ\bullet\circ\bullet$ (alternativo, inizia e termina con nero). Arrangimento (b) tutti gli undici pietre nere: $\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet\bullet$. Ogni pietra Othello è nera ($\bullet$) su una faccia e bianca ($\circ$) sull'altra.
+
+![[src_jmo28yq_yosen__Q05.png]]
+
+**Risposta:** 945 ways
+[[src_jmo28yq_yosen__Q05]]

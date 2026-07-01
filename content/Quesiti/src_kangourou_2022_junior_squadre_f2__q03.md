@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Junior Finale 2 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_squadre_f2__Q03
 parent: src_kangourou_2022_junior_squadre_f2
 competition: Kangourou Squadre 2022 Junior Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area esagono ombreggiato in triangolo*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0120
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13AxoJESowY3JEGvP6yoM4hdDG6Sw_yul/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Triangle shaded hexagonal area< MSK1/>
+
+![[src_kangourou_2022_junior_squadre_f2__prob3.png]]
+
+> On the sides of the triangle shown in the figure are highlighted some points (vertical included). On each side, two adjacent points are 5 cm apart. How many square centimetres is the area of the shaded axis?
+
+**Answer:** 0120
+[[src_kangourou_2022_junior_squadre_f2__Q03]]

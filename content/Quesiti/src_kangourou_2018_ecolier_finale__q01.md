@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_finale__Q01
 parent: src_kangourou_2018_ecolier_finale
 competition: Kangourou Coppa Ecolier squadre 2018 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante ragazze aggiungere per doppio dei ragazzi*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0028
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many girls do you add to twice as many boys *
+
+> Today, in a group of 24 students, boys are twice as many as girls. Two more boys will join the group tomorrow. After they get in, how many girls will have to join the group if you want girls to become twice as many boys?
+
+**Answer:** 0028
+[[src_kangourou_2018_ecolier_finale__Q01]]

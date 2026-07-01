@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2013__Q04
 parent: src_prmo_2013
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2013
@@ -32,6 +33,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Product of all possible values of YZ given XY=10, XZ=3 collinear*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 91
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prodotto di tutti i valori possibili di YZ dati con XY=10, XZ=3 collineare*
+
+> Tre punti $X$, $Y$, $Z$ sono su una linea retta tale che $XY = 10$ e $XZ = 3$. Qual è il prodotto di tutti i possibili valori di $YZ$?
+
+**Risposta:** 91
+[[src_prmo_2013__Q04]]

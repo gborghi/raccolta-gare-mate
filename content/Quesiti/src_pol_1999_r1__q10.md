@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r1__Q10
 parent: src_pol_1999_r1
 competition: Olimpiade Matematica Polacca 1999 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence x_{n+1}=x_n+1/x_n^2; prove lim x_n/cuberoot(3n) exists and find it.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza x_{n+1}=x_n+1/x_n^2; provare l'esistenza di lim x_n/cuberoot(3n) e trovarla.*
+
+> Date $x_1 > 0$, la sequenza $(x_n)$ è definita da $$x_{n+1} = x_n + \frac{1}{x_n^2} \quad \text{for } n \ge 1.$$ Prove che il limite $\displaystyle \lim_{n \to \infty} \frac{x_n}{\sqrt[3]{n}}$ esiste e trova.
+
+[[src_pol_1999_r1__Q10]]

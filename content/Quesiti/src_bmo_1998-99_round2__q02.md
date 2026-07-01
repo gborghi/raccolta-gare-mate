@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1998-99 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1998-99_round2__Q02
 parent: src_bmo_1998-99_round2
 competition: British Mathematical Olympiad 1998-99 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a product relation in a hexagon with parallel sides*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AjZMoZUnkxlPd_JNOwNCqxZIvIWIX2xp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove una relazione di prodotto in un esagono con lati paralleli*
+
+> Il $ABCDEF$ deve essere un esagono (che può non essere regolare), che ha $AB$ parallelo a $ED$, $BC$ parallelo a $FE$ e $CD$ parallelo a $AF$. Provare che < MSK0/>
+
+[[src_bmo_1998-99_round2__Q02]]

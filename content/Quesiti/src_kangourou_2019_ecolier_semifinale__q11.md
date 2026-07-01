@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Ecolier — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q11
 parent: src_kangourou_2019_ecolier_semifinale
 competition: Kangourou 2019 Semifinale Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti amici di Agnese dividendo 121 salatini*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 10
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tNc5SZ7vm6wp3SYyibXhYqSBPWtNBocw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many friends of Agnes dividing 121 salads
+
+> (Points 4) Agnese has 121 salads; she distributes them to her friends so that she and her friends have the same number of salads and more than one each. How many of Agnes' friends are there?
+
+**Answer:** 10
+[[src_kangourou_2019_ecolier_semifinale__Q11]]

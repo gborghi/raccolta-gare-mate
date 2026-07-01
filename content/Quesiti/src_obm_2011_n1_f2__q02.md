@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f2__Q02
 parent: src_obm_2011_n1_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find face-sum opposite to face-sum 8 on a labeled cube*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ar4g2DOKYa7j5htIMthTZWmgqaBxlJG1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la somma facciale opposta alla somma facciale 8 su un cubo etichettato*
+
+> A ogni vertice di un cubo, Esmeralda scrive un numero. Quindi calcola la somma dei quattro numeri alle vertici di ciascuna faccia. Trova che le sei somme facciali sono $8$, $10$, $11$, $12$, $13$ e $e$. La faccia con somma $x$ è opposta alla faccia con somma $8$. Qual è il valore di $x$?
+
+[[src_obm_2011_n1_f2__Q02]]

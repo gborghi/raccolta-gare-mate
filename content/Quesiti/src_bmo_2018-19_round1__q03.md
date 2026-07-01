@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2018-19 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2018-19_round1__Q03
 parent: src_bmo_2018-19_round1
 competition: British Mathematical Olympiad 2018-19 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine all products T obtainable by two pairs of integers each differing by 9*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13TymyXW8f0WJOfcP7X3v5LIa1mrqdBop/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Determina tutti i prodotti T ottenuti da due coppie di integri che differiscono ciascuna di 9< MSK1/>
+
+> Ares moltiplica due numeri interi che differiscono di 9. Grace moltiplica due numeri interi che differiscono di 9. Essi ottengono lo stesso prodotto < MSK0/>. Determinare tutti i possibili valori di $T$.
+
+[[src_bmo_2018-19_round1__Q03]]

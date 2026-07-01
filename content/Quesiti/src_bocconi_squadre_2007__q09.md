@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2007 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2007__Q09
 parent: src_bocconi_squadre_2007
 competition: Gara a Squadre 2007
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età attuale del figlio di Paolo*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Present age of son of Paul*
+
+> When my son is 15 years older than he is now, he will be the same age as I was in the year I was eight times his age. On the other hand, when he reaches my age now, together we'll have  if he's still in this world  31 times the age he was when he was 8 times his age.
+> 
+> How old is my son today?
+
+[[src_bocconi_squadre_2007__Q09]]

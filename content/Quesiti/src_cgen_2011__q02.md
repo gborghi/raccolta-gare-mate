@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2011 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2011__Q02
 parent: src_cgen_2011
 competition: Concours Général des Lycées 2011 — Matematica
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Capacity of a coin purse: largest M such that every amount from 1 to M can be paid, first without change then with change; optimize the denominations.*
 
@@ -59,3 +62,27 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/163UddjoW74HzYM11ncOycs88qAZ5uQV4/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Capacità di una borsa di monete: M più grande in modo che ogni importo da 1 a M possa essere versato, prima senza cambiamento e poi con cambiamento; ottimizzare le denominazioni.*
+
+> **Problema 2: Date il cambio!**
+> 
+> Un acquirente ha nella borsa delle monete < MSK0/>. Indichiamo $a_1, \ldots, a_n$ i valori facciali di queste monete - sono numeri interi strettamente positivi. Accordiamo di chiamare la capacità ** di questa borsa il numero intero più grande $M$ in modo che si possa pagare, senza cambiare, ogni somma (intera) da $1$ a $M$. Indichiamo $C(a_1, \ldots, a_n)$ la capacità della borsa contenente le monete $a_1, \ldots, a_n$.
+> 
+> **1. In questa domanda presumiamo che $a_1 = 1$ e $a_1 \le a_2 \le \ldots \le a_n$.
+> 
+> **a.** Calcolare le capacità $C(1,2,4)$, $C(1,2,5)$ e $C(1,2,3,4,5)$.
+> 
+> **b.** $j$ sia un numero intero tra $1$ e $n-1$, e fichiamo i numeri $a_1, \ldots, a_j$. In quale condizione si ha un $C(a_1, \ldots, a_j) \ne C(a_1, \ldots, a_j, a_{j+1})$ su $a_{j+1}$?
+> 
+> **c.** Indicare un metodo per calcolare $C(a_1, \ldots, a_n)$.
+> 
+> < MSK3/>d.< MSK4/> Risolvi < MSK0/>. Come si scelgono gli enti $a_1, \ldots, a_n$ in modo che la capacità $C(a_1, \ldots, a_n)$ sia il più grande possibile?
+> 
+> **2. Con il cambio.** Il commerciante al quale il nostro acquirente va a fare acquisti ha anche una borsa, che gli consente di dare il cambio. Fissamo gli integri $n$ e $p$. Chiamiamo *capacità comune* il numero intero più grande $M$ in modo che si possa pagare (cioè effettuare l'operazione) ogni importo intero da $1$ a $M$. Come si possono scegliere i portafogli $(a_1, \ldots, a_n)$ dell'acquirente e $(v_1, \ldots, v_p)$ del venditore, in modo da offrire la massima capacità comune possibile?
+
+[[src_cgen_2011__Q02]]

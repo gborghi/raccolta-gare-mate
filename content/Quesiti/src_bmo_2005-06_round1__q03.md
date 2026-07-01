@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2005-06 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2005-06_round1__Q03
 parent: src_bmo_2005-06_round1
 competition: British Mathematical Olympiad 2005-06 — Round 1
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral diagonal bisects angle, CE=CA iff DE=AB*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Angolo di bisezione di diagonale quadrilaterale ciclico, CE=CA se DE=AB< MSK1/>
+
+> Nel quadrilaterale ciclico $ABCD$, la diagonale $AC$ divide l'angolo $DAB$. Il lato $AD$ è esteso oltre $D$ fino a un punto $E$. Indicare che $CE = CA$ se e solo se $DE = AB$.
+
+[[src_bmo_2005-06_round1__Q03]]

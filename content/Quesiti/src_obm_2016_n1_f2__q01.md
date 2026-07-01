@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f2__Q01
 parent: src_obm_2016_n1_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integers less than 2016 whose cube has fewer than 10 digits*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi inferiori al 2016 il cui cubo ha meno di 10 cifre*
+
+> L'aumento del numero $2016$ al cubo dà il numero $10$ a cifre $8{,}193{,}540{,}096$. Quanti numeri interi positivi inferiori a $2016$ hanno un cubo con meno di dieci cifre?
+
+[[src_obm_2016_n1_f2__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1997 (38th IMO, Mar del Plata) — Quesito 5'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1997__Q05
 parent: src_imo_1997
 competition: 'IMO 1997 (38th IMO, Mar del Plata)'
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all integer pairs with a^(b^2)=b^a*
 
@@ -35,3 +38,13 @@ tags:
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1g-riBxA5RS3xIizqUBYrgemajJKWaBw5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find the integer pairs with a^(b^2)=b^a*
+
+> Find all pairs (a, b) of integers a, b ≥1 that satisfy the equation ab2 = ba.
+
+[[src_imo_1997__Q05]]

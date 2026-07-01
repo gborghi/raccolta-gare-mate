@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Junior (gara marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior__Q15
 parent: src_kangourou_2012_junior
 competition: Kangourou 2012 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza tra i centri dei due cerchi grigi*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance between the centers of the two grey circles*
+
+![[src_kangourou_2012_junior__prob15.png]]
+
+> Six circles of equal radius are inserted into a rectangle as shown in the figure, which also indicates the size of one side of the rectangle. How many centimeters do you measure the distance between the centers of the two grey circles? A) 3 B)       + 2 C) 2 D) π/2 + 2         E) 4
+
+**Answer:** C
+[[src_kangourou_2012_junior__Q15]]

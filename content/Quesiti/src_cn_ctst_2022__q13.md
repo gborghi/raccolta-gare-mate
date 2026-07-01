@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2022 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2022__Q13
 parent: src_cn_ctst_2022
 competition: China National Team Selection Test 2022
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle inside circle: prove existence of point P making inner arc angle ≥ outer arc angle*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo all'interno del cerchio: prova dell'esistenza del punto P facendo angolo d'arco interno ≥ angolo d'arco esterno *
+
+> Dato che il cerchio $\Gamma_2$ è all'interno del cerchio $\Gamma_1$ sul piano. Prova che sul piano esiste un punto $P$ con la seguente proprietà: se $\ell$ è una linea che non attraversa $P$ e che incrocia sia $\Gamma_1$ che $\Gamma_2$ in punti distinti, con $\Gamma_1$ tagliato a $A$ e $B$ e $\Gamma_2$ tagliato a $C$ e $D$ (in modo che $A$, $C$, $D$, $B$ siano in questo ordine su $\ell$), allora $\angle CPD \ge \angle APB$.
+
+![[src_cn_ctst_2022__Q13.png]]
+
+[[src_cn_ctst_2022__Q13]]

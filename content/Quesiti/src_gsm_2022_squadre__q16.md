@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2022 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2022_squadre__Q16
 parent: src_gsm_2022_squadre
 competition: Gara a Squadre GSM (locale Genova) 2022
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo di 1/(32a^5)+a^5 data 1/(4a^2)+a^2*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0179
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum of 1/(32a^5) +a^5 given 1/(4a^2) +a^2< MSK1/>
+
+> Knowing that $$\frac{1}{4a^2} + a^2 = 8,$$ what is the maximum value of $$\frac{1}{32a^5} + a^5$$?
+
+**Answer:** 0179
+[[src_gsm_2022_squadre__Q16]]

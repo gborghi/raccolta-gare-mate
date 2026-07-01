@@ -1,6 +1,7 @@
 ---
 title: IMO 2006 (XLVII International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2006__Q01
 parent: src_imho_2006
 competition: IMO 2006 (XLVII International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Point in triangle interior with angle and equality condition*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/143KgNKQ3Cj2BArKcUazU0jzaqTTOSK6-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Point in triangle interior with angle and equality condition*
+
+> Let $ABC$ be a triangle with incentre $I$. A point $P$ in the interior of the triangle satisfies $$\angle PBA + \angle PCA = \angle PBC + \angle PCB.$$ Show that $AP \ge AI$, and that equality holds if and only if $P = I$.
+
+[[src_imho_2006__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2021__Q07
 parent: src_ioqm_2021
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2021
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count non-decreasing maps from {1,2,3} to {1,2,3,4,5}*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le mappe non in diminuzione da {1,2,3} a {1,2,3,4,5}*
+
+> Trova il numero di mappe $f : \{1, 2, 3\} \to \{1, 2, 3, 4, 5\}$ in modo tale che $f(i) \le f(j)$ ogni volta che $i < j$.
+
+[[src_ioqm_2021__Q07]]

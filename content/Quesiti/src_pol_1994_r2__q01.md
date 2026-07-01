@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1994 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1994_r2__Q01
 parent: src_pol_1994_r2
 competition: Olimpiade Matematica Polacca 1994 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all degree-5 real polynomials with divisibility conditions involving (x-1)^3 and (x+1)^3.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uA4twJvqYtpwmlzZpoJcK0hKVdyFmCqj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i polinomi reali di grado-5 con condizioni di divisibilità che coinvolgono (x-1)^3 e (x+1)^3.*
+
+> Trovare tutti i polinomi reali $P(x)$ di grado 5 come $(x-1)^3 \mid P(x)+1$ e $(x+1)^3 \mid P(x)-1$.
+
+[[src_pol_1994_r2__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1974 (XVI International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1974__Q06
 parent: src_imho_1974
 competition: IMO 1974 (XVI International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Bound on integers where polynomial squares equal 1*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Bound on integers where polynomial squares equal 1*
+
+> Let $P$ be a non-constant polynomial with integer coefficients. If $n(P)$ is the number of distinct integers $k$ such that $(P(k))^2 = 1$, prove that $n(P) - \deg(P) \le 2$, where $\deg(P)$ denotes the degree of the polynomial $P$.
+
+[[src_imho_1974__Q06]]

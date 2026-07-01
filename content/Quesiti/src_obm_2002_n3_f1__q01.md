@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q01
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Reading a bar chart of monthly billing of companies A and B in the second half of 2001*
 
@@ -59,3 +62,22 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Leggizione di un grafico a barre della fatturazione mensile delle società A e B nella seconda metà del 2001< MSK1/>
+
+> Il grafico seguente mostra la fatturazione mensile (in milioni di reais) delle società A e B durante la seconda metà del 2001. Sulla base di questo grafico, possiamo affermare che:
+>
+> - **(A)** In nessun mese la fatturazione della compagnia A era doppia della fatturazione della compagnia B.
+> - **(B)** Nel mese di luglio la differenza tra le fatturazioni era maggiore rispetto agli altri mesi.
+> - **(C)** La Società B ha subito il calo più elevato di fatturazione tra due mesi consecutivi (100 milioni tra i mesi di agosto e settembre).
+> - **(D)** In nessun semestre (periodo di sei mesi) la fatturazione totale della società B è stata superiore a quella della società A.
+> - **(E)** La differenza tra le fatturazioni totali del semestre ha superato i 20 milioni di reais.
+
+![[src_obm_2002_n3_f1__Q01.png]]
+
+**Risposta:** D
+[[src_obm_2002_n3_f1__Q01]]

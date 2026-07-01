@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f1__Q16
 parent: src_obm_2014_n2_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Shortest path A to D choosing circular arc trails with given angles*
 
@@ -54,3 +57,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il percorso più breve da A a D scegliendo percorsi d'arco circolare con angoli dati*
+
+> Nel gioco Lento e Calmo (Slow and Calm), un gioco di corse, ci sono sentieri su alcuni tratti delle piste. I sentieri sono sempre archi di un cerchio con il centro indicato nella figura. I sentieri non sono gli stessi che i tratti dritti del sentiero. Dati della figura  traccia 1 sottende un arco di $100^\circ$ e traccia 2 sottende un arco di $120^\circ$ nei rispettivi centri  in quali circostanze il giocatore copre la distanza più breve dal punto $A$ al punto $D$?
+>
+> - **(A)** Usa il percorso 1, non il percorso 2.\\
+> - **(B)** Usa il percorso 2, non il percorso 1.\\
+> - **(C)** Usa entrambi i sentieri.
+> - **(D)** Utilizzare nessuna traccia.
+> - **(E)** Non ci sono informazioni sufficienti per determinarlo.
+
+![[src_obm_2014_n2_f1__Q16.png]]
+
+**Risposta:** A
+[[src_obm_2014_n2_f1__Q16]]

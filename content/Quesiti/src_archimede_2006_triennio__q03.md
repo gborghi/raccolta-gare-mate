@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Triennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_triennio__Q03
 parent: src_archimede_2006_triennio
 competition: Giochi di Archimede 2006 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori di a con x^2+2ax+1=0 a radici coincidenti*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Values of a with x^2+2ax+1=0 at coinciding roots*
+
+> The real number a is such that the equation x2 + 2ax + 1 = 0 has two coinciding real solutions. What are the possible values of a?
+>
+> - **(A)** No one.
+> - **(B)** One of them.
+> - **(C)** two,
+> - **(D)** three,
+> - **(E)** Four of them.
+
+**Answer:** C
+[[src_archimede_2006_triennio__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2006 (biennio/triennio) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_2livello__Q02
 parent: src_archimede_2006_2livello
 competition: Archimede Gara 2° livello 2006 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante affermazioni su cane/gatto possono essere false insieme*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16vwkUgnRKjkVvV3P1qOJAWPbhVOVwLlf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many claims about dogs/cats can be false together*
+
+> Consider the following four statements: Manuela has a dog and a cat. Manuela has no dog or cat. If Manuela has a dog, then she has a cat. Manuela doesn't have a dog, but she has a cat. How many of them can be fake at the same time?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** 4.
+
+**Answer:** E
+[[src_archimede_2006_2livello__Q02]]

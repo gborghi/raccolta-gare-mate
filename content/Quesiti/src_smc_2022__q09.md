@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2022 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2022__Q09
 parent: src_smc_2022
 competition: Senior Mathematical Challenge 2022
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Calculate the distance light travels in one nanosecond at speed 3×10^8 m/s.*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolare la distanza percorsa dalla luce in un nanosegondo a velocità 3×10^8 m/s.*
+
+> Un nanosegonda luce è la distanza che un fotone può percorrere alla velocità della luce in un miliardo di secondo. La velocità della luce è $3 \times 10^8$ ms$^{-1}$. Quanto è lontano un nanosegondo di luce?
+>
+> - **(A)** 3 cm
+> - **(B)** 30 cm
+> - **(C)** 3 m
+> - **(D)** 30 m
+> - **(E)** 300 m
+
+**Risposta:** B
+[[src_smc_2022__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Ecolier — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__Q07
 parent: src_kangourou_2020_ecolier_finale
 competition: Kangourou 2020 Finale nazionale Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo euro di Marta con 20 banconote*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0405
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Major Marta euro with 20 banknotes< MSK1/>
+
+> George glues six stickers with animal images, each on the face of a cube. The figure on this side shows the cube in two different positions. Which sticker is on the face opposite the one with the ankle?
+>
+> - **(A)** (Figure A)
+> - **(B)** (Figure B)
+> - **(C)** (Figure C)
+> - **(D)** (Figure D)
+> - **(E)** (Figure E) (see figure)
+
+**Answer:** 0405
+[[src_kangourou_2020_ecolier_finale__Q07]]

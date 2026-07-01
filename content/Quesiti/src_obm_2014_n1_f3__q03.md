@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f3__Q03
 parent: src_obm_2014_n1_f3
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Dice stacked as pillar; faces in contact and rigid cube with equal face-sums*
 
@@ -52,3 +55,19 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Dicci pilastrati come pilastri; volti in contatto e cubo rigido con uguali sommi facciali< MSK1/>
+
+> Geraldo ha diversi dadi ordinari (la somma dei punti sulle facce opposte è di 7). Può vedere tre volti di ciascuna morte alla volta, come mostrato nella figura.
+> 
+> a) Geraldo utilizza quattro dadi per costruire un pilastro su un tavolo, in modo che le facce in contatto abbiano lo stesso numero di punti. Qual è la somma dei punti sui volti che non possono essere visti (volti in contatto tra loro o riposati sul tavolo)?
+> 
+> b) Geraldo vuole incollare alcune facce dei dadi, formando un cubo rigido. Le facce in contatto devono avere uguali numeri di punti, e la somma dei punti su tutte e sei le facce del cubo deve essere $116$. Spiega come Geraldo dovrebbe incollare queste facce.
+
+![[src_obm_2014_n1_f3__Q03.png]]
+
+[[src_obm_2014_n1_f3__Q03]]

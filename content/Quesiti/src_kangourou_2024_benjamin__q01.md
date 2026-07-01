@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Benjamin 2024 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin__Q01
 parent: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale quadrato si ribalta su uno identico piegando il foglio*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which square bounces off an identical one by folding the sheet*
+
+![[src_kangourou_2024_benjamin__prob1.png]]
+
+> And the next one. After a certain number of shots, the letter C will be in front of the number 2: at that point, which number will be in front of the letter F? A) 1
+> 	
+> B) 4
+> 	
+> C) 5
+> 	
+> D) 6
+> 	
+> E) 7
+
+**Answer:** B
+[[src_kangourou_2024_benjamin__Q01]]

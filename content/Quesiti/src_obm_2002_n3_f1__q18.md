@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q18
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle with AB=6, BC=2, AC a diameter, angles ABD and CBD equal; find BD*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Circolo con AB=6, BC=2, AC di diametro, angoli ABD e CBD uguali; trovare BD< MSK1/>
+
+> Nel cerchio di sotto, abbiamo che $AB=6$, $BC=2$, $AC$ è un diametro e gli angoli $A\hat{B}D$ e $C\hat{B}D$ sono uguali. Qual è il valore di < MSK5/>? (A) $2\sqrt3+1$ (B) $\dfrac{9}{\sqrt5}$ (C) $3\sqrt2$ (D) $2+\sqrt5$ (E) 4
+
+![[src_obm_2002_n3_f1__Q18.png]]
+
+**Risposta:** D
+[[src_obm_2002_n3_f1__Q18]]

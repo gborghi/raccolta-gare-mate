@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2017 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo27mq_honsen__Q02
 parent: src_jmo27mq_honsen
 competition: Japan Mathematical Olympiad 2017 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *greedy doubling sequence is eventually constant*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZZX6VzFmZDx55lXzMt3R4wZfWz3QnWc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+La sequenza di raddoppiamento avida è infine costante.
+
+> $N$ sia un numero intero positivo. Sono dati numeri interi positivi $a_1, a_2, \ldots, a_N$, nessuno dei quali è un multiple di $2^{N+1}$. Per ogni numero intero $n \ge N+1$, definire $a_n$ come segue:
+> 
+> Tra $k = 1, 2, \ldots, n-1$, scegli $k$ per il quale il rimanente di $a_k$ dopo la divisione da $2^n$ è più piccolo e imposta $a_n = 2a_k$. Se ci sono diverse $k$, scegliere la più grande.
+> 
+> Indicare che esiste un intero positivo $M$ tale che $a_n = a_M$ sia valido per tutti $n \ge M$.
+
+[[src_jmo27mq_honsen__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q12
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto volumi V e W dei due cubi che si intersecano*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rate of volumes V and W of two intersecting cubes*
+
+![[src_kangourou_2018_student_marzo__prob12.png]]
+
+> Two cubes, whose volumes we indicate with V and W, intersect as shown in the figure. By eliminating from the volume calculation the part common to the two cubes, 90% of the volume V remains while only 85% of the volume W remains. What is the relationship between volumes V and W? A) V =       W
+> 	
+> B) V =      W C) V =      W
+> 	
+> D) V =      W E) V = W
+
+**Answer:** B
+[[src_kangourou_2018_student_marzo__Q12]]

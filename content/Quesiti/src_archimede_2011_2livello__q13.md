@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_2livello__Q13
 parent: src_archimede_2011_2livello
 competition: Archimede Gara 2° livello 2011 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli non degeneri non congruenti da 6 punti notevoli*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Non-degenerate triangles not congruent by 6 points of importance*
+
+> Whether ABC is an equilateral triangle, let's use D, E, F to indicate the midpoints of the sides. How many non-degenerate and non-conforming triangles can be obtained by choosing 3 of the points A, B, C, D, E, F?
+
+**Answer:** 4
+[[src_archimede_2011_2livello__Q13]]

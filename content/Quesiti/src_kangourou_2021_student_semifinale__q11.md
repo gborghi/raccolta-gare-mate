@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student semifinale individuale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q11
 parent: src_kangourou_2021_student_semifinale
 competition: Kangourou 2021 Student semifinale individuale
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *blocco massimo di neri con blocchi bianchi distinti*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0038
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>maximum block of black with distinct white blocks< MSK1/>
+
+> (5 points) We have 90 tokens, half of which are black and the other half white. We want to align them so that the blocks of consecutive white tokens are as many as possible and that no pair of these blocks have the same number of tokens. What is the number of tokens in the largest possible block of consecutive black tokens?
+>  
+> P K
+
+**Answer:** 0038
+[[src_kangourou_2021_student_semifinale__Q11]]

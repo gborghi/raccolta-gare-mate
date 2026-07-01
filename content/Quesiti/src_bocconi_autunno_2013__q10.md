@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2013 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2013__Q10
 parent: src_bocconi_autunno_2013
 competition: Giochi d'Autunno 2013
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Voto del quarto compito dato che la media non è cambiata.*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 15
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Vote for the fourth task given that the average has not changed.*
+
+> Liliana attends a French school where grades are given in the twentieth grade (the highest score is 20). In the first three math assignments, he took 15, 14, and 12. After the fourth assignment, his average hasn't changed.
+> 
+> What was the score on your fourth assignment?
+
+**Answer:** 15
+[[src_bocconi_autunno_2013__Q10]]

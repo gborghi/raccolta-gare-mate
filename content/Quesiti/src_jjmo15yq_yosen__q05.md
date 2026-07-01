@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo15yq_yosen__Q05
 parent: src_jjmo15yq_yosen
 competition: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ways to fill 3x3 grid with 1-9 with row increasing right and left-column decreasing down*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 280
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Medi per riempire la griglia 3x3 con 1-9 con la riga in aumento a destra e la colonna sinistra in calo*
+
+> Considerare i modi per scrivere uno dei numeri interi distinti da $1$ a $9$ nelle celle di una griglia $3\times 3$ in modo da soddisfare le seguenti condizioni. Quanti sono questi modi? \begin{itemize} \item In ogni riga, tra i tre numeri interi scritti, il numero intero nella cella più destra è il più grande e il numero intero nella cella più sinistra è il più piccolo. \item Nella colonna più sinistra, tra i tre numeri interi scritti, il numero intero nella cella più alta è il più grande e il numero intero nella cella più bassa è il più piccolo. # Finire #
+
+![[src_jjmo15yq_yosen__Q05.png]]
+
+**Risposta:** 280
+[[src_jjmo15yq_yosen__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2009 - Gara a squadre — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2009_squadre__Q05
 parent: src_gs_2009_squadre
 competition: Coppa Fermat 2009 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri con stesso prodotto e somma di parita diversa*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 420
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers with the same product and different sum of parity*
+
+> 5 . . . 1215 ... ... 8 24 72 216 648 1944 10 30 90 270 810 11 . . . 891 ... ... 23 69 207 621 1863 25 75 225 675 26 . . . 702 ... ... 74 222 666 1998 76 228 684 77 . . . 693 ... ...
+
+**Answer:** 420
+[[src_gs_2009_squadre__Q05]]

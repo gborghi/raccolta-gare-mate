@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q16
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *A che ora arrivo al distributore (consumo)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What time do I get to the distributor (consumption) *
+
+> It's 9:00, and I'm driving at 100 miles an hour. At this speed with the gas I have left I can only run 80 kilometers, but the nearest distributor is 100 kilometers away. The amount of gasoline my car consumes is directly proportional to the speed of the car and I want to waste as little time as possible. What time do I get to the distributor? A) 22:12 B) 22:15 C) 22:20 D) 22:25           E) 22:30
+
+**Answer:** B
+[[src_kangourou_2007_junior_marzo__Q16]]

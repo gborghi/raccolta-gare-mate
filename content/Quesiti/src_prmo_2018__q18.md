@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q18
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integers a,b,c>=4 not all equal satisfying 4abc=(a+3)(b+3)(c+3), find a+b+c*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integri a,b,c>=4 non tutti uguali soddisfacendo 4abc=(a+3)(b+3)(c+3), trovare a+b+c*
+
+> Se $a, b, c \ge 4$ sono numeri interi, non tutti uguali, e $4abc = (a+3)(b+3)(c+3)$, qual è il valore di $a + b + c$?
+
+**Risposta:** 16
+[[src_prmo_2018__Q18]]

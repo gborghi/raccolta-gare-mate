@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q23
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nella cella x del bordo della tabella*
 
@@ -54,3 +57,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in cell x of the edge of the table*
+
+![[src_kangourou_2018_cadet_marzo__prob23.png]]
+
+> Rita wrote a number (relative whole) in each of the cells on the edge of a table 5 < MSK0/> 6. The number written in each cell is equal to the sum of the numbers written in the cells that share a side with it. In the figure, you see two of the numbers she wrote. What number did you write in the x-numbered cell? A) 10
+> 	
+> B) 7
+> 	
+> C) 13
+> 	
+> D) – 13 E) – 3
+
+**Answer:** B
+[[src_kangourou_2018_cadet_marzo__Q23]]

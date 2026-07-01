@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2013 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2013__Q07
 parent: src_cn_cmc_2013
 competition: China Mathematical Competition 2013
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Range of x satisfying equation with nested square roots*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** $\{0\} \cup [4, 20]$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Range di x che soddisfa l'equazione con radici quadrate incastonate*
+
+> Supponiamo che i numeri reali $x$, $y$ soddisfino $x - 4\sqrt{y} = 2\sqrt{x - y}$. Poi l'intervallo di $x$ è $\underline{\qquad}$.
+
+**Risposta:** \{0\} \cup [4, 20]
+[[src_cn_cmc_2013__Q07]]

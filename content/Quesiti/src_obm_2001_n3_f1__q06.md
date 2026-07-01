@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f1__Q06
 parent: src_obm_2001_n3_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *10 pieces of 3 links each; form a 30-link chain in minimum time*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*10 pezzi di 3 collegamenti ciascuno; formano una catena di 30 collegamenti in tempo minimo*
+
+> Un serratore ha 10 pezzi di 3 collegamenti ciascuno, mostrati di seguito. Vuole fare una singola catena di 30 collegamenti. Per aprire e poi saldare un collegamento, spenderà 5 minuti. Quanti minuti ci vorrà almeno per fare la catena?
+> 
+> **A)** 30 $\quad$ **B)** 35 $\quad$ **C)** 40 $\quad$ **D)** 45 $\quad$ **E)** 50
+
+![[src_obm_2001_n3_f1__Q06.png]]
+
+**Risposta:** B
+[[src_obm_2001_n3_f1__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Biennio — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_biennio__Q19
 parent: src_archimede_2008_biennio
 competition: Giochi di Archimede 2008 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Deduzione logica dalla negazione di affermazione universale*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Logical deduction from the negation of universal affirmation*
+
+> A camera-equipped satellite sent to the planet Papilla made it possible to establish that someone's belief that everyone on Papilla is fat and dirty is false. So now we know that:
+>
+> - **(A)** On Papilla at least one inhabitant is thin and clean,
+> - **(B)** On Papilla all the inhabitants are thin and clean,
+> - **(C)** At least one inhabitant of Papilla is thin,
+> - **(D)** At least one inhabitant of Papilla is clean,
+> - **(E)** If everyone on Papilla is dirty, at least one of them is skinny.
+
+**Answer:** E
+[[src_archimede_2008_biennio__Q19]]

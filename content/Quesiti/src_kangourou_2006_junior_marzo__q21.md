@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q21
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *qual e la situazione*
 
@@ -75,3 +78,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*what and the situation*
+
+> An island is inhabited only by truthful people (people who always tell the truth) and false people (people who always lie). Every inhabitant of the island knows what category each inhabitant belongs to. A traveling foreigner, who knows the situation on the island, meets two residents A and B and wants to find out which category they belong to. After receiving the answer to the question "Are you both true?" from A, he is still unable to decide. But once you get the answer to the new question "Are you in the same category?" from A again, you can finally identify them. What's the situation? A) A and B are both False. B) A and B are both true. C) A is True, B is False. D) A is False, B is True. E) Without knowing the answers obtained by the foreigner, one cannot decide. (ii) 2 5 2 − (ii) 1 5 3 − (ii) 2 5 5 − junior_06.qxp 20/02/2006 23.44 Page 25
+> 
+> I'm going to pay. I'm going to pay. 26 26 Kang 2006 Kang
+
+**Answer:** A
+[[src_kangourou_2006_junior_marzo__Q21]]

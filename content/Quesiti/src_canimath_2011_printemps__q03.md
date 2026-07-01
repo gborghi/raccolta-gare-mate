@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2011 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2011_printemps__Q03
 parent: src_canimath_2011_printemps
 competition: Coupe Animath Printemps 2011
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumscribed circle intersections and hexagon area ratio*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNnGWRaTp9cbAE1_F3Ffkgp-EMyh4GZR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Intersezioni circolari circostanti e rapporto di superficie esagonale*
+
+> Che $ABC$ sia un triangolo con tre angoli acuti, e che $O$ sia il centro del suo cerchio circoscritto $\Gamma$. Le linee $(AO)$, $(BO)$ e $(CO)$ rientrano in $\Gamma$ rispettivamente a $A'$, $B'$ e $C'$. Prove che l'area dell'esagono $ACB'A'C'B$ è doppia dell'area del triangolo $ABC$.
+
+[[src_canimath_2011_printemps__Q03]]

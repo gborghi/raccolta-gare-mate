@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q08
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *area grigia*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>grey area< MSK1/>
+
+![[src_kangourou_2016_cadet_marzo__prob8.png]]
+
+> The figure shows a rectangle with a minor side measuring 10 cm, two tangent circumferences, each tangent to three sides of the rectangle, and four segments, each connecting a vertex of the rectangle with the middle point of the opposite major side. How many square centimeters measure the overall gray-colored surface? A) 50
+> 	
+> B) 80
+> 	
+> C) 100 D) 120 E) 150
+
+**Answer:** B
+[[src_kangourou_2016_cadet_marzo__Q08]]

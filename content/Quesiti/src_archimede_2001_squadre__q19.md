@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_squadre__Q19
 parent: src_archimede_2001_squadre
 competition: Archimede 2001 - Gara Nazionale a Squadre (Cesenatico)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *costo dell'auto*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0032
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BmICgzhXXszLqAUxg8mhu_z1YXo7y9a6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>cost of the car< MSK1/>
+
+> Loans between friends MSK1/> (10 points)
+> 
+> Ammac and Olomam would like to buy a limousine, splitting the cost in half, but currently they only have the $3/4$ of the required amount. The generous Ollimac lends to both of them, at zero rate, the amount of shields each of them needs to complete their share; in particular, he lends 2 million shields to Olomam. Ammac pledges to buy 10 million shields (all of his assets!), plus the amount he borrows from Ollimac. How many million shields does the car cost?
+
+**Answer:** 0032
+[[src_archimede_2001_squadre__Q19]]

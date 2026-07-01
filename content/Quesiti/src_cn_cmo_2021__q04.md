@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2021 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2021__Q04
 parent: src_cn_cmo_2021
 competition: China Mathematical Olympiad 2021
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Scientists update approval by floor-averaging friends; prove all values stabilize*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Gli scienziati aggiornano l'approvazione da parte di amici medi a pavimento; dimostrano che tutti i valori si stabilizzano
+
+> Dato che gli scienziati partecipano a una conferenza, ogni scienziato ha alcuni amici che partecipano alla conferenza (l'amicizia è reciproca e nessuno è il proprio amico). È noto che non importa come questi scienziati siano divisi in due gruppi, ci sono sempre due scienziati nello stesso gruppo che sono amici, e ci sono anche due scienziati in gruppi diversi che sono amici. Il primo giorno, è stato proposto un argomento alla conferenza, e il grado di approvazione di ogni scienziato per questo argomento può essere rappresentato da un intero non negativo. Supponiamo che il grado di approvazione di ogni scienziato diventi la parte integrale della media del grado di approvazione di tutti i suoi amici il giorno precedente. Prove che dopo diversi giorni, il grado di approvazione di tutti gli scienziati è lo stesso.
+
+[[src_cn_cmo_2021__Q04]]

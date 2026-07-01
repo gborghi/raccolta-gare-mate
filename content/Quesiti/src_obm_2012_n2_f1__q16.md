@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q16
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum cake pieces for equal sharing among either 4 or 6 people*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum pezzi di torta per parità di condivisione tra 4 o 6 persone*
+
+> Esmeralda sta organizzando la sua festa di compleanno e, a causa di un errore nella distribuzione degli inviti, non sa se saranno presenti persone $4$ o $6$. Quindi ha intenzione di lasciare la torta tagliata in alcuni pezzi in modo che, se $4$ o $6$ persone vengono, ognuno di loro riceverà la stessa quantità di pezzi interi di torta, senza che nessun pezzo abbia bisogno di essere tagliato ulteriormente. Qual è il numero minimo di pezzi per raggiungere questo obiettivo?
+> 
+> A) 24 \quad B) 10 \quad C) 8 \quad D) 7 \quad E) 6
+
+[[src_obm_2012_n2_f1__Q16]]

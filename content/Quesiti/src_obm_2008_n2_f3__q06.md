@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f3__Q06
 parent: src_obm_2008_n2_f3
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcenter O, secondary intersections, three lines concurrent*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mPFxeuedSzPeVHyGa5uTEm_ubRSK1ROx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circumcentro O, intersezioni secondarie, tre linee contemporanee*
+
+> Lasciate che $ABC$ sia un triangolo e $O$ il suo centro circonda. Le linee $AB$ e $AC$ rientrano nel circoncircolo di $OBC$ rispettivamente a $B_1 \neq B$ e $C_1 \neq C$; le linee $BA$ e $BC$ rientrano nel circoncircolo di $OAC$ rispettivamente a $A_2 \neq A$ e $C_2 \neq C$; le linee $CA$ e $CB$ rientrano nel circoncircolo di $OAB$ rispettivamente a $A_3 \neq A$ e $B_3 \neq B$. Prove che le righe $A_2A_3$, $B_1B_3$ e $C_1C_2$ sono simultanee.
+
+[[src_obm_2008_n2_f3__Q06]]

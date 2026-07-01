@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Junior (gara marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior__Q16
 parent: src_kangourou_2012_junior
 competition: Kangourou 2012 Junior (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Qual e l'ora esatta tra i quattro orologi*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What is the exact time between the four clocks*
+
+> Roberta left for the holidays and lent her house to a friend. She warned her that there were four clocks in the house and that the time indicated was wrong for a clock of 2 minutes, another of 3 minutes, another of 4 minutes and the last of 5 minutes. Roberta, however, forgot to tell her friend which clock and to which direction to attribute each single error. When the friend enters the house, the first clock he sees indicates three minus six minutes, the second three minus three minutes, the third three and two minutes, and the last three and three minutes. What's the exact time? A) 3:00 B) 2:57 C) 2:58 D) 2:59 E) 3:01
+
+**Answer:** D
+[[src_kangourou_2012_junior__Q16]]

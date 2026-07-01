@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f3__Q02
 parent: src_obm_2005_n2_f3
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right triangle, midpoint of hypotenuse, perpendicularity and quadrilateral area*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qikjZ95ZyXid25_31zk99bAk_4evNgeC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo retto, punto medio dell'ipotenusa, perpendicularità e area quadrilaterale*
+
+> Nel triangolo rettangolo $ABC$, le gambe $AB$ e $BC$ misurano rispettivamente 3 cm e 4 cm. $M$ sia il punto medio dell'ipotenusa $AC$, e $D$ sia un punto distinto da $A$, tale da $BM = MD$ e $AB = BD$.
+> 
+> a) dimostrare che $BM$ è perpendicolare a $AD$.
+> 
+> b) Calcolare l'area del quadrilaterale < MSK0/>.
+
+[[src_obm_2005_n2_f3__Q02]]

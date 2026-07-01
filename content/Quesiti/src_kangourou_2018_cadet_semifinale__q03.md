@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q03
 parent: src_kangourou_2018_cadet_semifinale
 competition: Kangourou 2018 Cadet - Semifinale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Importo minimo con i quattro tagliandi*
 
@@ -58,3 +61,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kVLsfgriHzHWeJPk7c69FlUrtxeTTMzS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum amount with four notes*
+
+> (Points 3) A shop delivers four notes to each customer who enters: the customer can use some or all of them, at his choice, in succession and in the order he prefers to buy an item. On the first cut it says: Pay the square root of the price if the price in euro is a perfect square. On the second it says: You have a discount of 2 euros. On the third it says: Pay 1 euro more than the price. On the fourth it reads: Pay half the price if this is an entire euro. You come in to buy an item that costs 15 euros. You come in to buy an item that costs 15 euros. What's the lowest amount you can get by paying? (a) two euros.
+> 	
+> 	
+> 	
+> B) Less than 2 but more than 1 euro.
+> 	
+> (c) 1 euro.
+> 	
+> 	
+> 	
+> D) 0 euro (you can have it for free). E) Less than 1 euro but not 0.
+
+**Answer:** D
+[[src_kangourou_2018_cadet_semifinale__Q03]]

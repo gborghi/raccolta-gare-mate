@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo24yq_yosen__Q10
 parent: src_jmo24yq_yosen
 competition: Japan Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *55×55 grid, colour operations; minimum operations to achieve prescribed black/white pattern*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 784
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*55×55 griglia, operazioni a colori; operazioni minime per ottenere il modello nero/bianco prescritto*
+
+> Considera una griglia di celle < MSK0/>. L'operazione \emph{} consiste nel: scegliere una sotto-griglia rettangolare (una o più righe e colonne complete), poi dipingere ogni cella in quel rettangolo di un unico colore (intero nero o tutto bianco). Partendo dallo stato in cui tutte le celle sono bianche, trovare il numero minimo di operazioni necessarie per raggiungere una configurazione in cui tutte le seguenti tre condizioni sono valide: \begin{itemize} \item \item Ogni riga che contiene almeno una cellula bianca contiene anche una cellula nera adiacente (con un lato condiviso) a qualche cellula bianca. Ogni cellula bianca è adiacente ad almeno una cellula nera. # Finire #
+
+**Risposta:** 784
+[[src_jmo24yq_yosen__Q10]]

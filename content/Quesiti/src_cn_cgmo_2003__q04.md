@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2003 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2003__Q04
 parent: src_cn_cgmo_2003
 competition: China Girls' Mathematical Olympiad 2003
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence with a_{n+1}=a_n^2-a_n+1: prove sum of reciprocal products < 1*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza con a_{n+1}=a_n^2-a_n+1: prova somma di prodotti reciproci < 1*
+
+> $\{a_n\}_{n=1}^{\infty}$ sia una sequenza di numeri reali come $a_1 = 2$, $a_{n+1} = a_n^2 - a_n + 1$ per $n = 1, 2, \ldots$. Dimostrare che $$\frac{1}{a_1} + \frac{1}{a_1 a_2} + \cdots + \frac{1}{a_1 a_2 \cdots a_{2003}} < 1.$$ (posato da Li Shenghong)
+
+[[src_cn_cgmo_2003__Q04]]

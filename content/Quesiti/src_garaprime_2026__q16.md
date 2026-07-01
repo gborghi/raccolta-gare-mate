@@ -1,6 +1,7 @@
 ---
 title: XI Gara Nazionale Classi Prime 2026 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2026__Q16
 parent: src_garaprime_2026
 competition: XI Gara Nazionale Classi Prime 2026
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ipotenusa dai volumi di rotazione attorno ai cateti*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1F8eBxLs4bDWlyZJGhjIxQLaCXc18EKrk/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Hypotenuse from the rotation volumes around the chains< MSK1/>
+
+> If a rectangular triangle is rotated around a catheter, completing one complete rotation, a volume of 1500π cm3 is obtained. If rotated around the other catheter, a volume of 2000π cm3 is obtained. How long is the hypotenuse?
+>
+> - **(A)** 15 cm
+> - **(B)** 25 cm
+> - **(C)** 20 cm
+> - **(D)** 16 cm
+> - **(E)** 36 cm
+
+**Answer:** B
+[[src_garaprime_2026__Q16]]

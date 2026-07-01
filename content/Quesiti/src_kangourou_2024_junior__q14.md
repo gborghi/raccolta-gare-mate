@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q14
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo n con S(n)>=100 (quozienti 2020../2424..)*
 
@@ -49,3 +52,17 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Little number of n with S(n)>=100 (coefficients 2020../2424..) < MSK1/>
+
+> Consider the sum of the n additions
+> 	
+> 	
+> + + the k-eighth by adding, for every k from 1 to n, is the quotient between the whole 2020...20 and the whole 2424...24, in writing of which 20 and 24 respectively appear k times. What is the smallest value of n such that we have S(n) ≥ 100? A) 100 B) 112 C) 120 D) 144 E) None of the above
+
+**Answer:** C
+[[src_kangourou_2024_junior__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet finale individuale — Quesito C6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_finale__QC6
 parent: src_kangourou_2022_cadet_finale
 competition: Kangourou 2022 Cadet finale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante coppie (m,n) con 1/m+1/n=1/2022*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 27
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wbo9K2jytgSW3Apd8Ui4HwgiuetWkwYM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many pairs (m,n) with 1/m+1/n=1/2022< MSK1/>
+
+> For how many ordered pairs of positive integers do you have MSK1/?
+
+**Answer:** 27
+[[src_kangourou_2022_cadet_finale__QC6]]

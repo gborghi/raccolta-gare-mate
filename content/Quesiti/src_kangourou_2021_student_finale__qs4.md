@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student finale individuale — Quesito S4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_finale__QS4
 parent: src_kangourou_2021_student_finale
 competition: Kangourou 2021 Student finale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Riempire griglia mxn con somme di colonna costanti*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** a) No; b) Si
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17UN1PocIwUt6K6J10ScIHKnTcOSXCsY5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fill the mxn grid with constant column sums*
+
+> (**14 points**) You have a rectangular grid of $m$ rows and $n$ columns and you want to fill it up by entering, one for each box, all the integers from $1$ to $m \cdot n$ so that the sum of the numbers entered in each column is always the same when the columns vary. Answer the following questions and justify your answers. You can do it when:
+> 
+> a) $m = 2021$ e $n = 2020$?
+> 
+> b) $m = 2020$ e $n = 2021$?
+
+**Answer:** a) No; b) Si
+[[src_kangourou_2021_student_finale__QS4]]

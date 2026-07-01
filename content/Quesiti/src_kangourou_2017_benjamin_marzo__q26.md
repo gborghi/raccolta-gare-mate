@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (gara marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q26
 parent: src_kangourou_2017_benjamin_marzo
 competition: Kangourou 2017 Benjamin (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *5 con un rosso, 6 con un blu*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>5 with a red, 6 with a blue< MSK1/>
+
+> A bag contains only red and blue tokens. Any way we extract 5 jets at least one is red; any way we extract 6 at least one is blue. What is the maximum number of tokens that can be contained in the bag? A) 11
+> 	
+> B) 10
+> 	
+> C) 9
+> 	
+> D) 8
+> 	
+> E) 7
+
+**Answer:** C
+[[src_kangourou_2017_benjamin_marzo__Q26]]

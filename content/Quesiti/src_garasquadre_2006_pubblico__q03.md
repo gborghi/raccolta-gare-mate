@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Gara del pubblico — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_pubblico__Q03
 parent: src_garasquadre_2006_pubblico
 competition: VII Gara Nazionale a Squadre 2006 - Gara del pubblico
@@ -23,6 +24,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *modi dei mutui rapporti*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0052
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QgbSU7tSa_Z3X-wSyYx8Igj_hdR7zBCZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*modules of mutual relations*
+
+> Rapports are stormy.[35] The mathematics students of the Higher Mathematical School are divided into five houses: Rapporteur, Partimaginaria, Perognesiste, Inclusion and Righecompass. Houses are two to two allies or enemies. Any ally of an enemy house is also an enemy. How many different ways can the mutual relations between the five houses be?
+
+**Answer:** 0052
+[[src_garasquadre_2006_pubblico__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 2016 (LVII International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2016__Q03
 parent: src_imho_2016
 competition: IMO 2016 (LVII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Convex polygon with integer-coordinate vertices, area S, odd n divides 25S*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DJN1I1nyXv23EBAYsmuEqh4UN-f1qoI1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Convex polygon with integer-coordinated vertices, area S, odd n divides 25S*
+
+> Let $P = A_1 A_2 \cdots A_k$ be a convex polygon in the plane. The vertices $A_1, A_2, \ldots, A_k$ have integral coordinates and lie on a circle. Let $S$ be the area of $P$. An odd positive integer $n$ is given such that the squares of the side lengths of $P$ are integers divisible by $n$. Prove that $25 S$ is an integer divisible by $n$.
+
+[[src_imho_2016__Q03]]

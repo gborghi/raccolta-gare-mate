@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Kangourou Finale 1 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_kangourou_squadre__Q04
 parent: src_kangourou_2024_kangourou_squadre
 competition: Kangourou Squadre 2024 Kangourou Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo e massimo k per triangolo lati 60,k,2k*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 2159
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1H4evp3ENM3JXuKHssVIkxKmXh6l0-t0_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum and maximum k for triangle sides 60,k,2k*
+
+> The dimensions of the sides of a triangle (which is not reduced to a segment or a point) are 60, k, 2k. If k is a positive integer, what are the smallest and largest possible values for k? (Write them in sequence from left to right, starting with the smallest: for example, if the values were 10 and 85, you would have to write 1085.)
+
+**Answer:** 2159
+[[src_kangourou_2024_kangourou_squadre__Q04]]

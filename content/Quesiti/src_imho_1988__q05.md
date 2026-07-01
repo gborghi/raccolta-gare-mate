@@ -1,6 +1,7 @@
 ---
 title: IMO 1988 (XXIX International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1988__Q05
 parent: src_imho_1988
 competition: IMO 1988 (XXIX International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Right triangle, incenters line meets sides, area inequality*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Ybq-uT2smNXXPn3zPVTn60m5ILt7Hzss/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Right triangle, incenters line meets sides, area of inequality*
+
+> $ABC$ is a right-angled triangle at $A$, and $D$ is the foot of the altitude from $A$. The straight line joining the incenters of the triangles $ABD$, $ACD$ intersects the sides $AB$, $AC$ at the points $K$, $L$ respectively. $S$ and $T$ denote the areas of the triangles $ABC$ and $AKL$ respectively. Show that MSK14/.
+
+[[src_imho_1988__Q05]]

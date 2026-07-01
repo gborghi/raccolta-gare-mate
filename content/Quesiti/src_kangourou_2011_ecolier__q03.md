@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Ecolier (gara marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier__Q03
 parent: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizione finale della pedina dopo le mosse*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Final position of the pedal after movements*
+
+![[src_kangourou_2011_ecolier__prob3.png]]
+
+> Charles placed a pedal in a square grid box, as shown in the figure to the right. Now he enjoys moving it, one box at a time, first to the right, then up, then to the left, then down, and finally back to the right. Which of the following figures shows the final position of the foot?
+
+**Answer:** B
+[[src_kangourou_2011_ecolier__Q03]]

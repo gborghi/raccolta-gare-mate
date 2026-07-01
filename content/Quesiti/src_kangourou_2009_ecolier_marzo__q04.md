@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q04
 parent: src_kangourou_2009_ecolier_marzo
 competition: Kangourou 2009 - Ecolier (gara 19 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo pulsanti per trasformare 930 in 806*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum buttons to convert 930 to 806*
+
+![[src_kangourou_2009_ecolier_marzo__prob4.png]]
+
+> In the first line of the figure you see the number 930, obtained by illuminating some squares on a screen. Each square can be switched from illuminated to off or vice versa by pressing a button. You want to get the number 806 that appears in the second line: what is the smallest number of buttons you need to press to get the goal? A) 5 B) 6 C) 7 D) 8 E) 9
+
+**Answer:** B
+[[src_kangourou_2009_ecolier_marzo__Q04]]

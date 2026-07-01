@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2018 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2018_automne__Q03
 parent: src_canimath_2018_automne
 competition: Coupe Animath Automne 2018
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *9-digit number 30x070y03 divisible by 37, find digit pairs (x,y)*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*numero a 9 cifre 30x070y03 divisibile per 37, trovare coppie di cifre (x,y) *
+
+> Considerare il numero $N$ scritto come $\overline{30x070y03}$, dove $x$ e $y$ sono numeri da $0$ a $9$. Per quali valori di $(x, y)$ è $N$ divisibile da $37$?
+
+[[src_canimath_2018_automne__Q03]]

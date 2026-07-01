@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q29
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di colorare di nero la tabella 4x4 coi vincoli*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Mode to colour the 4x4 table in black with constraints< MSK1/>
+
+![[src_kangourou_2021_junior_marzo__prob29.png]]
+
+> 29. In Table 4 × 4 some cells must be painted black. The numbers to the right of each row and below each column specify how many black cells should be in the respective row or column. What are the different ways in which black cells can be placed in compliance with the prescriptions? A) 2 B) 3 C) 4 D) 5 E) In more than five ways.
+
+**Answer:** D
+[[src_kangourou_2021_junior_marzo__Q29]]

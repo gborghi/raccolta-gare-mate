@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Semifinale A — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_semifinalea__Q09
 parent: src_squadre_2018_semifinalea
 competition: Gara a Squadre 2018 - Semifinale A
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Intero con 12 divisori e relazione sui divisori, numero bicchieri*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1989
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Intero with 12 dividers and ratio on dividers, number of glasses*
+
+> ♪ Whiskey for my n men ♪ ♪ Bu4 Kampen in the saloon. "How many are there?" asks the bartender. I'll just tell you that n is a positive integer with exactly 12 positive divisors 1 = d1 < d2 < ·· < d12 = n, and that dd4−1 = d8(d1 + d2 + d4) . Not wanting to ask any more questions, the bartender prepares a tray of glasses for every opportunity. How many glasses do you fill?
+
+**Answer:** 1989
+[[src_squadre_2018_semifinalea__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin gara individuale — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q27
 parent: src_kangourou_2022_benjamin_gara
 competition: Kangourou 2022 Benjamin gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sviluppo piano che non produce il solido mostrato*
 
@@ -54,3 +57,33 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Flat development that does not produce the solid shown< MSK1/>
+
+![[src_kangourou_2022_benjamin_gara__prob27.png]]
+
+> Look at this picture:
+>  
+> Which of the following development plans, if re-wrapped, does not produce a solid that, by an opA)
+>   
+> D) 4
+>   
+> E) 5
+>   
+> Do you have a point of view, do you?
+>   
+> B)
+>   
+> C)
+>   
+> D)
+>   
+> E)
+>
+
+**Answer:** B
+[[src_kangourou_2022_benjamin_gara__Q27]]

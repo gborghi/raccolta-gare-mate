@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2023 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo21hq_honsen__Q04
 parent: src_jjmo21hq_honsen
 competition: Japan Junior Mathematical Olympiad 2023 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive rational triples making a+c/b, b+a/c, c+b/a integers*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1efdSphrAk6aeIsu8HcCF4eiUkFyOMt6a/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i tripli razionali positivi che fanno a+c/b, b+a/c, c+b/a interi*
+
+> Trova tutti i triples dei numeri razionali positivi $(a, b, c)$ in modo tale che $$a + \frac{c}{b}, \quad b + \frac{a}{c}, \quad c + \frac{b}{a}$$ siano tutti interi.
+
+[[src_jjmo21hq_honsen__Q04]]

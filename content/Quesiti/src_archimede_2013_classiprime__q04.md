@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2013 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_classiprime__Q04
 parent: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tentativi per combinazione cassaforte con somme di cifre fissate*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Temptations to combine safe deposit boxes with fixed sums of figures< MSK1/>
+
+> Albert forgot the combination of his safe, but he remembers that it was a four-digit number, all different from zero and not necessarily different from each other, and that the sum of the first and last digits is 9, while the sum of the second and third is 7. How many attempts will you have to make to open the safe? A 48 B 24 C 14 D 96 E 72 F 63
+
+**Answer:** A
+[[src_archimede_2013_classiprime__Q04]]

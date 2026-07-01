@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q11
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest odd number with exactly 10 positive divisors*
 
@@ -49,3 +52,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più piccolo numero odd con esattamente 10 divisori positivi*
+
+> Qual è il più piccolo numero odd che ha esattamente $10$ divisori positivi inclusi $1$ e il numero stesso?
+> 
+> A) 1875 \quad B) 405 \quad C) 390 \quad D) 330 \quad E) 105
+
+**Risposta:** B
+[[src_obm_2012_n2_f1__Q11]]

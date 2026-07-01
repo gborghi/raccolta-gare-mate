@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q08
 parent: src_kangourou_2019_ecolier_finale
 competition: Kangourou 2019 Finale Nazionale Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante figurine quadrate (653 figure 2019 lati)*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0060
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many square figures (653 figures 2019 sides) *
+
+> In the first figure, you see five square tiles, all of them equal to each other, approached in a certain way. If you take one of them and leave the others where they are, how many of the following shapes can you get?
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $4$
+> - **(E)** The following table shows the results of the evaluation:
+
+**Answer:** 0060
+[[src_kangourou_2019_ecolier_finale__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 42
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q42
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *B-9: sequence a1=a2=a3, b_n=a_n+a_{n+1}+a_{n+2} geometric ratio 3; find a_100.*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*B-9: sequenza a1=a2=a3, b_n=a_n+a_{n+1}+a_{n+2} rapporto geometrico 3; trovare a_100.*
+
+> [Test paper B, problema 9] (16 punti) La sequenza $\{a_n\}$ soddisfa $a_1=a_2=a_3$. Se $\{b_n\}$ è una sequenza geometrica con rapporto comune $3$, trovare il valore di $a_{100}$.
+
+**Risposta:** a_{100}=\dfrac{3^{100}+10}{13}
+[[src_cn_cmc-first-round_2021__Q42]]

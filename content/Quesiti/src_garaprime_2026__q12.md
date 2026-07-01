@@ -1,6 +1,7 @@
 ---
 title: XI Gara Nazionale Classi Prime 2026 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2026__Q12
 parent: src_garaprime_2026
 competition: XI Gara Nazionale Classi Prime 2026
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto tra area triangolo equilatero ed esagono*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1F8eBxLs4bDWlyZJGhjIxQLaCXc18EKrk/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio between area of equilateral triangle and hexagon*
+
+> An equilateral triangle has a side that measures twice that of a regular hexagon. What is the relationship between the area of the triangle and that of the hexagon?
+>
+> - **(A)** 2
+> - **(B)** 1
+> - **(C)** 3/2
+> - **(D)** 1/2
+> - **(E)** 2/3
+
+**Answer:** E
+[[src_garaprime_2026__Q12]]

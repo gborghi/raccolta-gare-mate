@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Koala — Gioco Koala — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_koala__Q14
 parent: src_kangourou_2022_koala
 competition: Kangourou 2022 Koala — Gioco Koala
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tessere per orlare quadrato di lato 5*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Nyec1GxOQ3f28I_D0c1kacejlV99W-GD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Square-sided edge loom 5*
+
+![[src_kangourou_2022_koala__prob14.png]]
+
+> Catherine has drawn 3 squares and now she frames them with frames made by drawing together a number of tiles like this one (on the side $\frac{1}{2}$). How many cards do you use to square side five? (see figure)
+
+**Answer:** C
+[[src_kangourou_2022_koala__Q14]]

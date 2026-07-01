@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - finale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet_finale__Q02
 parent: src_kangourou_2021_cadet_finale
 competition: Kangourou 2021 Cadet - finale
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Stima del numero di coriandoli col metodo cattura-ricattura*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1750
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Estimate of the number of cranberries by catch-recatch method*
+
+> You have a bag of coriander and you'd like to know how many, at least roughly. Think of using the following strategy: - extract $50$ from it and mark them with a mark, then put them back in the bag and mix all the coriander so that the ones you have marked can be evenly distributed within the bag; - then extract $70$ from it at random and find out that, of these $70$, only two have been marked by you.
+> 
+> Based on this experiment, what is a reliable number for the coriander in the bag?
+
+**Answer:** 1750
+[[src_kangourou_2021_cadet_finale__Q02]]

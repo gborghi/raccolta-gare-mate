@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1996 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1996_r1__Q03
 parent: src_pol_1996_r1
 competition: Olimpiade Matematica Polacca 1996 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a group of kn people where everyone knows more than (k-1)n others, prove a clique of k+1 exists*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un gruppo di persone che conoscono tutti più di (k-1) altri, dimostrare l'esistenza di una cricca di k+1*
+
+> In un gruppo di persone $kn$ ($k, n \in \mathbb{N}$), tutti conoscono più di $(k-1)n$ degli altri. dimostrare che esiste un gruppo di persone $k+1$ che si conoscono tutte.
+
+[[src_pol_1996_r1__Q03]]

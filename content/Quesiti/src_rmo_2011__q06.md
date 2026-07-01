@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2011 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2011__Q06
 parent: src_rmo_2011
 competition: Regional Mathematical Olympiad 2011
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real pairs (x,y) satisfying an exponential equation*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11naePAaLu3tt8jkxesNT0s0aRYNpRilH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie reali (x,y) che soddisfano un'equazione esponenziale*
+
+> Trovare tutte le coppie $(x, y)$ di numeri reali tali che $$16^{x^2+y} + 16^{x+y^2} = 1.$$
+
+[[src_rmo_2011__Q06]]

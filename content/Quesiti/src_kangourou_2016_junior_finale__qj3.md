@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (finale Cervia) — Quesito J3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_finale__QJ3
 parent: src_kangourou_2016_junior_finale
 competition: Kangourou 2016 Junior (finale Cervia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Diametro moneta B che rotola due giri attorno ad A*
 
@@ -50,3 +53,27 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 4 o 12 mm
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BU30qu2TCa9fts5FiD2Cc0ESbI7oLEr9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Diameter coin B rolling two rounds around A*
+
+![[src_kangourou_2016_junior_finale__probJ3.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) circle (1.3);
+  \node at (0.45,-0.3) {$A$};
+  \draw (0,2.1) circle (0.8);
+  \node at (0,2.1) {$B$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure, two circular coins are outlined on the edge of each of which there is a tack; the two coins touch each other correspondingly with the tacks. The diameter of coin A, the largest, is 18 mm. If the coin B starts to spin around the coin A, and remains in contact with it at all times, it must make exactly two revolutions around the coin A so that the situation in the figure is repeated for the first time (i.e. the two coins are touched again in a tie). Knowing that the diameter of coin B is also an integer of millimeters, what can be said about that length? (see figure)
+
+**Answer:** 4 o 12 mm
+[[src_kangourou_2016_junior_finale__QJ3]]

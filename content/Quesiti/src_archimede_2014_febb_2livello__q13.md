@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q13
 parent: src_archimede_2014_febb_2livello
 competition: Archimede Gara di Febbraio 2014 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Esponente del primo 2 in prodotto di (5^d-1)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4030
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Exponent of the first 2 in product of (5^d-1) < MSK1/>
+
+> What is the exponent of the first 2 in the factorization of the number (5 −1)(55 −1) . . . (55...5 −1) where in each factor an exponent appears a 5 more than in the previous and the last ones appear, as exponents, 2014?
+
+**Answer:** 4030
+[[src_archimede_2014_febb_2livello__Q13]]

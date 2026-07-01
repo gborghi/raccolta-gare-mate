@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f3__Q01
 parent: src_obm_2015_n2_f3
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count representations of integers as sums of squares of naturals*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggiamento delle rappresentazioni di numeri interi come somma dei quadrati di naturali*
+
+> Prove che esiste un numero che può essere rappresentato in almeno 2015 in modi diversi come una somma di quadrati di numeri interi non negativi (non necessariamente tutti distinti), dove l'ordine dei sommi non importa. Due somme che differiscono solo nell'arredamento dei loro termini sono considerate rappresentate nello stesso modo.
+> 
+> Ad esempio, $1^2 + 1^2 + 3^2 + 3^2 + 7^2 + 10^2 + 5^2 + 12^2$ e $1^2 + 3^2 + 1^2 + 3^2 + 7^2 + 5^2 + 10^2 + 12^2$ sono due ordini diversi di scrivere 169 come somma di quadrati.
+
+[[src_obm_2015_n2_f3__Q01]]

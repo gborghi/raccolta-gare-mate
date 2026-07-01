@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q12
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza AB diagonale del parallelepipedo*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Diagonal length AB of the parallel piped < MSK1/>
+
+![[src_kangourou_2008_student_marzo__prob12.png]]
+
+> The length of the beam of each of the cubes in the figure is 1. What is the length of the AB segment? A) B) 7 C) D) E)
+
+**Answer:** A
+[[src_kangourou_2008_student_marzo__Q12]]

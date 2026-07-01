@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Triennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_triennio__Q17
 parent: src_archimede_2011_triennio
 competition: Giochi di Archimede 2011 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione vera da equazione con due radici in (0,1)*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*True statement of equation with two roots in (0,1) *
+
+> Knowing that the equation ax2 −bx + c = 0, with a > 1, has two positive solutions narrowly less than 1, we can safely say that:
+>
+> - **(A)** c + b < 3a,
+> - **(B)** c ≤b < a,
+> - **(C)** b ≤c,
+> - **(D)** c ≤b < 2,
+> - **(E)** b < 2 e c < a.
+
+**Answer:** A
+[[src_archimede_2011_triennio__Q17]]

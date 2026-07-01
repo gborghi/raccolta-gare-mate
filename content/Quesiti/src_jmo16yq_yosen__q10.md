@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo16yq_yosen__Q10
 parent: src_jmo16yq_yosen
 competition: Japan Mathematical Olympiad 2006 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ant paths on dodecahedron edges from vertex X back to X*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i percorsi di formiche sui bordi del dodecaedro dal vertice X indietro a X*
+
+> Che $X$ sia uno vertex di un dodecaedro regolare. Una formica inizia a $X$, viaggia lungo i bordi del dodecaedro e ritorna a $X$. La formica attraversa ogni vertice esattamente una volta e attraversa ogni bordo al massimo una volta. Conteggi il numero di tali percorsi, dove i percorsi percorsi in senso inverso vengono contati come diversi.
+
+[[src_jmo16yq_yosen__Q10]]

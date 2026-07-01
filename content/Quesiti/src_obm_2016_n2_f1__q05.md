@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f1__Q05
 parent: src_obm_2016_n2_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of equal candies divisible among groups of 2, 3 or 4*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di dolci uguali divisibili tra gruppi di 2, 3 o 4*
+
+> Poiché le caramelle sono uguali e possono essere suddivise in gruppi di persone $2$, $3$ o $4$, il numero di caramelle deve essere un multiple del più piccolo comune di $2$, $3$ e $4$, vale a dire $12$. Tra le opzioni solo una è un multiple di $12$ (con $30$ pezzi è verificata la possibilità di tale divisione). Quante caramelle ci sono? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+
+**Risposta:** D
+[[src_obm_2016_n2_f1__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q29
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quando Claudio e Leone si incontrano la seconda volta*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+When Claudius and Leo meet for the second time
+
+> Claudius and Leo travel on the same road: Claudius goes from point A to point B of the road and then immediately returns to A; Leo goes from point B to point A of the road and then immediately returns to B. Both depart at the same instant and travel at a constant speed, but Claudio's speed is three times Leo's. Claudius and Leo find themselves at the same point on the road for the first time, 15 minutes after departure. How many minutes after the departure will this happen a second time? A) 20
+>  
+> B) 25
+>  
+> C) 30
+>  
+> D) 35
+>  
+> E) 45
+
+**Answer:** C
+[[src_kangourou_2024_cadet__Q29]]

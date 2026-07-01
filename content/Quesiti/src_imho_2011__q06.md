@@ -1,6 +1,7 @@
 ---
 title: IMO 2011 (LII International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2011__Q06
 parent: src_imho_2011
 competition: IMO 2011 (LII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Reflections of tangent line through vertices meet circumcircle tangentially*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AgPUw9EsnOZUa380gcARqgMoP3LAb6KQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Reflections of tangent line through vertices meet circumcircle tangentially*
+
+> Let $ABC$ be an acute triangle with circumcircle $\Gamma$. Let $\ell$ be a tangent line to $\Gamma$, and let $\ell_a$, $\ell_b$, $\ell_c$ be the lines obtained by reflecting $\ell$ in the lines $BC$, $CA$, $AB$, respectively. Show that the circumcircle of the triangle determined by the lines $\ell_a$, $\ell_b$, $\ell_c$ is tangent to the circle $\Gamma$.
+
+[[src_imho_2011__Q06]]

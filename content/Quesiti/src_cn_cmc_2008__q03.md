@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2008 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2008__Q03
 parent: src_cn_cmc_2008
 competition: China Mathematical Competition 2008
@@ -30,6 +31,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Expected number of games in ping-pong match*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di partite atteso in partita di ping-pong*
+
+> $A$ e $B$ giocano a ping-pong, con l'accordo che il vincitore riceverà 1 punto e il perdente 0 punti; la partita termina appena uno dei giocatori è in vantaggio di 2 punti o il numero di partite raggiunge i sei. Supponiamo che le probabilità di $A$ e $B$ di vincere un gioco siano rispettivamente $\frac{2}{3}$ e $\frac{1}{3}$, e ciascuna partita sia indipendente. Poi l'aspettativa $E\xi$ per il numero di giochi $\xi$ è ( ).
+> 
+> (A) $\dfrac{241}{81}$ \quad (B) $\dfrac{266}{81}$ \quad (C) $\dfrac{374}{81}$ \quad (D) $\dfrac{670}{243}$
+
+**Risposta:** B
+[[src_cn_cmc_2008__Q03]]

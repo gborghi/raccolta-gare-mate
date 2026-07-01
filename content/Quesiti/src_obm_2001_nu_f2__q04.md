@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2001 — Nível Universitário — Fase 2 —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_nu_f2__Q04
 parent: src_obm_2001_nu_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível Universitário — Fase 2
@@ -39,6 +40,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distinct paths from A to B on unit-segment figure without revisiting a point*
 
@@ -51,3 +54,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12XNvYzmA5iSp5auP4O68Ivgx7LoAbloE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare percorsi distinti da A a B sulla figura di segmento unitario senza rivedere un punto*
+
+> Se si seguono i segmenti unitari della figura di seguito, si può determinare quanti percorsi distinti esistono da $A$ a $B$ senza passare più di una volta attraverso alcun punto.
+
+![[src_obm_2001_nu_f2__Q04.png]]
+
+[[src_obm_2001_nu_f2__Q04]]

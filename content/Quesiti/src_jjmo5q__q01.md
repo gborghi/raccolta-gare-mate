@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2007 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo5q__Q01
 parent: src_jjmo5q
 competition: Japan Junior Mathematical Olympiad 2007
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute a product/sum of nine fractions*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolare un prodotto/somma di nove frazioni*
+
+> Calcolare quanto segue: $$\frac{7}{12}+\frac{5}{12}\times\frac{7}{15}\times\frac{4}{11}\times\frac{7}{10}\times\frac{4}{12}\times\frac{5}{11}\times\frac{4}{10}\times\frac{3}{9}\times\frac{7}{9}$$
+
+[[src_jjmo5q__Q01]]

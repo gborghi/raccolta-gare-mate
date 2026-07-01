@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f1__Q07
 parent: src_obm_2010_n1_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Simplify 4^(4^4) divided by 4^4*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Semplificare 4^(4^4) diviso per 4^4*
+
+> Dividendo $4^{\left(4^4\right)}$ per $4^4$, otteniamo:
+> 
+> (A) $2$ \quad (B) $4^1$ \quad (C) $4^4$ \quad (D) $4^{4^3}$ \quad (E) $4^{4^4 - 4}$
+
+**Risposta:** E
+[[src_obm_2010_n1_f1__Q07]]

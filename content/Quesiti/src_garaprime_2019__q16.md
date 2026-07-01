@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2019 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2019__Q16
 parent: src_garaprime_2019
 competition: Gara Nazionale Classi Prime 2019
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma degli spigoli del parallelepipedo con 60 cubetti*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GTzdagqUQpCUSYBLrYJmJaKl7DQUIbtK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of parallel-piped shoulders with 60 cubes*
+
+> Little Luca has 60 wooden cubes, all with a 1 cm spike. Using them all, he builds a parallel piped with a total area of 104 cm2. How much is the sum of the lengths of all the tips of the paralelepiped, expressed in centimeters? A 52 B 36 C 56 D 64 E 72 F 80
+
+**Answer:** A
+[[src_garaprime_2019__Q16]]

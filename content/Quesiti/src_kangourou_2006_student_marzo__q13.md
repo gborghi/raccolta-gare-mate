@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q13
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto aree settore e cerchio*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Report sector and circle areas*
+
+![[src_kangourou_2006_student_marzo__prob13.png]]
+
+> The radius of the circular sector and the radius of the circle in the figure are in the ratio 3:1. What is the relationship between the sector area and the circle area? A) 3:2       B) 4:3        C) 5:3        D) 6:5          E) 5:4
+
+**Answer:** A
+[[src_kangourou_2006_student_marzo__Q13]]

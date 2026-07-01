@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo25yq_yosen__Q02
 parent: src_jmo25yq_yosen
 competition: Japan Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find BC given two tangents meet at P and AB parallel to CP*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $2\sqrt{3}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1puWzUo8OLdW2kCIHzGHhZaVauCRdH9Ya/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca BC dato che due tangenti si incontrano a P e AB parallele a CP*
+
+> Tre punti $A$, $B$ e $C$ si trovano su un cerchio. Il punto $P$ è l'intersezione delle tangenti al cerchio a $B$ e a $C$. Supponiamo che le linee $AB$ e $CP$ siano parallele, $AB = 3$ e $BP = 4$. Trova la lunghezza < MSK10/>.
+> 
+> (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+![[src_jmo25yq_yosen__Q02.png]]
+
+**Risposta:** 2\sqrt{3}
+[[src_jmo25yq_yosen__Q02]]

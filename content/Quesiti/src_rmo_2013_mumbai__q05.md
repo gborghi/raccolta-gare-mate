@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Mumbai — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_mumbai__Q05
 parent: src_rmo_2013_mumbai
 competition: Regional Mathematical Olympiad 2013
@@ -31,6 +32,8 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show gcd(b3,c3)=a2 for sequences defined by gcd and lcm*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QqpKhO6gD1FP1kEEypefYh_ByeYd4RtW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra gcd(b3,c3)=a2 per le sequenze definite da gcd e lcm*
+
+> $a_1, b_1, c_1$ siano numeri naturali. Definire $$a_2 = \gcd(b_1, c_1), \quad b_2 = \gcd(c_1, a_1), \quad c_2 = \gcd(a_1, b_1),$$ e $$a_3 = \operatorname{lcm}(b_2, c_2), \quad b_3 = \operatorname{lcm}(c_2, a_2), \quad c_3 = \operatorname{lcm}(a_2, b_2).$$ Mostra che $\gcd(b_3, c_3) = a_2$.
+
+[[src_rmo_2013_mumbai__Q05]]

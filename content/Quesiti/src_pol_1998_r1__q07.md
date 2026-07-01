@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1998 — Round 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1998_r1__Q07
 parent: src_pol_1998_r1
 competition: Olimpiade Matematica Polacca 1998 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count functions f: A→A with f(f(k))=f(k) taking exactly m values*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Funzioni di conteggio f: A→A con f(f(k))=f(k) che assumono esattamente i valori m*
+
+> Si devono dare $m, n$ integri positivi e $A = \{1, 2, \ldots, n\}$. Determinare il numero di funzioni $f : A \to A$ che assumono esattamente i valori $m$ in modo tale che $$f(f(k)) = f(k) \le f(l) \quad \text{for all } k, l \in A \text{ with } k \le l.$$
+
+[[src_pol_1998_r1__Q07]]

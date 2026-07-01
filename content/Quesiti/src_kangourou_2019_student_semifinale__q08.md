@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Student — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q08
 parent: src_kangourou_2019_student_semifinale
 competition: Kangourou 2019 Semifinale Student
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima somma cifre in base 6 per intero fino a 2019*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum sum of 6 digits for the whole until 2019*
+
+> (Points 5) For an integer that does not exceed 2019, what is the largest possible sum of digits if you write it in base six (i.e. using the digits from 0 to 5) and if that sum is also written in base six? A) 15 B) 20 C) 22 D) 24 E) 32 A B C D E
+
+**Answer:** E
+[[src_kangourou_2019_student_semifinale__Q08]]

@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2013 — Quesito
   12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2013__Q12
 parent: src_bocconi_finalenaz_2013
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2013
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezza di un trapezio con lato obliquo dato*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4,8 cm e 5 cm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Height of a trapezoid with a given oblique side*
+
+> The greater base of a trapezoid measures 18 cm. One oblique side measures 5 cm while its other two sides measure (in increasing order) 6 cm and 13 cm.
+> 
+> How tall is he?
+
+**Answer:** 4,8 cm e 5 cm
+[[src_bocconi_finalenaz_2013__Q12]]

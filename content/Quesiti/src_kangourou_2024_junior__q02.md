@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q02
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi vince la gara di salto (rapporto altezza saltata/propria)*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Winner of the jump race (jumped/own height ratio) *
+
+![[src_kangourou_2024_junior__prob2.png]]
+
+> In a particular high jump competition, the athlete for whom the ratio of jumped height to his height is greater wins. The figure, where the heights of the athletes are listed in ascents and the heights of the respective jumps performed are listed in order, describes the performance of the five athletes A, B, C, D, E. Who won the race? A) A B) B C) C D) D E) E
+
+**Answer:** A
+[[src_kangourou_2024_junior__Q02]]

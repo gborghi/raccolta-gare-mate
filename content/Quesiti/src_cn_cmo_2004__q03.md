@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2004 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2004__Q03
 parent: src_cn_cmo_2004
 competition: China Mathematical Olympiad 2004
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum number of points so that the set has a convex heptagon and every convex pentagon contains an interior point*
 
@@ -49,3 +52,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero minimo di punti in modo che l'insieme abbia un heptagono convex e ogni pentagono convex contenga un punto interno*
+
+> Che $M$ sia un insieme costituito da $n$ punti nel piano, e che soddisfi: (1) ci sono 7 punti in $M$ che costituiscono le vertici di un settone convex; (2) se per 5 punti in $M$ che costituiscono le vertici di un settone convex, allora c'è un punto in $M$ che si trova all'interno del settone. Trova il valore minimo di $n$. (Possibile da Leng Gangsong)
+
+**Risposta:** 11
+[[src_cn_cmo_2004__Q03]]

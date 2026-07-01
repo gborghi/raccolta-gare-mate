@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2016 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2016__Q02
 parent: src_inmo_2016
 competition: Indian National Mathematical Olympiad 2016
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which conditions on positive reals imply a=b=c*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1woBuE2HYjU-e_MK1TenDn20fm5TAalE-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Che condizioni sui reali positivi implicano a=b=c*
+
+> Per i numeri reali positivi $a, b, c$, quale delle seguenti affermazioni implica necessariamente $a = b = c$: (I) $a(b^3 + c^3) = b(c^3 + a^3)$, (II) $a(b^3 + c^3) = c(a^3 + b^3)$, (III) $a^2(b + c) = b^2(c + a) = c^2(a + b)$? Giustifica la tua risposta.
+
+[[src_inmo_2016__Q02]]

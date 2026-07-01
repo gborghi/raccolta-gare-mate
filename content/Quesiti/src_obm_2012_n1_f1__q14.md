@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f1__Q14
 parent: src_obm_2012_n1_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximise fraction M×A×T×E×M / (A×T×E×C×A) with distinct digit letters*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximizzare la frazione M×A×T×E×M / (A×T×E×C×A) con lettere a cifre distinte*
+
+> Nell'espressione $\dfrac{M \times A \times T \times E \times M}{A \times T \times E \times C \times A}$, le lettere diverse rappresentano cifre diverse e le lettere uguali rappresentano cifre uguali. Qual è il valore massimo possibile di questa espressione?
+> 
+> (A) 38 \quad (B) 96 \quad (C) 108 \quad (D) 576 \quad (E) 648
+
+**Risposta:** E
+[[src_obm_2012_n1_f1__Q14]]

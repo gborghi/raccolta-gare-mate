@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q01
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *secondo numero*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*second number*
+
+![[src_kangourou_2023_junior__prob1.png]]
+
+> In the image on the left, the dial of a clock is outlined. In the one on the right, the dial is covered by a concentric opaque disc, of the same radius, which has two circular windows. If the opaque disk is rotated so that in one of the two windows the number 10 appears, what numbers can appear in the second window? A) 2 e 6 B) 3 e 7 C) 3 e 6 D) 1 e 9 E) 2 e 7
+
+**Answer:** A
+[[src_kangourou_2023_junior__Q01]]

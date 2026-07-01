@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1992 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1992__Q09
 parent: src_inmo_1992
 competition: Indian National Mathematical Olympiad 1992
@@ -30,6 +31,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular n-gon A_1A_2...A_n; identity for reciprocals of products of sides*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EOEsZB8HaiI0YQM_jwUKgpq-22uACryj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N-gon regolare A_1A_2...A_n; identificazione per le reciprocità dei prodotti dei lati*
+
+> Trova $n$ in modo che in un normale $n$-gon $A_1 A_2 \ldots A_n$ abbiamo $$\frac{1}{A_1 A_2} = \frac{1}{A_1 A_3} + \frac{1}{A_1 A_4}.$$
+
+[[src_inmo_1992__Q09]]

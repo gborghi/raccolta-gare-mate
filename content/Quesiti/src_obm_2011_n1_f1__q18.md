@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q18
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of numbers on three cube faces in contact with the table*
 
@@ -53,3 +56,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa dei numeri su tre facce cubiche in contatto con la tabella*
+
+> Nel disegno, tre cubetti uguali appoggiati su un tavolo hanno le facce dipinte con i numeri $0, 1, 3, 4, 5$ e $9$. Qual è la somma dei numeri su tutti i volti in contatto con il tavolo?
+> 
+> (A) 6 \quad (B) 8 \quad (C) 9 \quad (D) 10 \quad (E) 12
+
+![[src_obm_2011_n1_f1__Q18.png]]
+
+**Risposta:** C
+[[src_obm_2011_n1_f1__Q18]]

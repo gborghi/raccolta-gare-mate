@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1975-76 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1975-76_round1__Q06
 parent: src_bmo_1975-76_round1
 competition: British Mathematical Olympiad 1975-76 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Shortest path over cone and sphere surfaces; prove length of VP*
 
@@ -51,3 +54,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXx6MNtN8FBT70lFlZepen-EHTViMuO_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Costo percorso sulle superfici di cono e sfere; prova la lunghezza di VP*
+
+> Una sfera con centro $O$ e raggio $r$ è tagliata in un cerchio $K$ da un piano orizzontale distante $\frac{1}{2}r$ sopra $O$. La parte della sfera sopra il piano viene rimossa e sostituita da un cono circolare destro con la base $K$ e il vertice $V$ a una distanza $2r$ verticalmente sopra $O$.
+> 
+> $Q$ è un punto sulla sfera sullo stesso livello orizzontale di $O$. Il piano $OVQ$ taglia il cerchio $K$ in due punti $X$ e $Y$, di cui $Y$ è il più lontano da $Q$. $P$ è un punto del cono che si trova su $VY$, la cui posizione può essere determinata dal fatto che il percorso più breve da $P$ a $Q$ sulle superfici del cono e della sfera taglia il cerchio $K$ ad un angolo di $45^\circ$.
+> 
+> Provare < MSK0/>.
+> 
+> [In un triangolo sferico $ABC$ i lati sono archi di grandi cerchi (centro $O$) e i lati sono misurati dagli angoli che essi sottendono a $O$. Potresti trovare utili queste formule triangolari sferiche: $$\sin A / \sin a = \sin b / \sin B = \sin c / \sin C,$$ $$\cos a = \cos b \cos c + \sin b \sin c \cos A.]$$
+
+[[src_bmo_1975-76_round1__Q06]]

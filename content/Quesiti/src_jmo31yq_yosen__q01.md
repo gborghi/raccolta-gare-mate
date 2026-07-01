@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo31yq_yosen__Q01
 parent: src_jmo31yq_yosen
 competition: Japan Mathematical Olympiad 2021 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximize product mn with m+n=90 and m,n coprime*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2021
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Maximizzare il prodotto mn con m+n=90 e m,n coprimo< MSK1/>
+
+> Che $m$ e $n$ siano interamente integri positivi coprimari che soddisfano $m+n=90$. Trova il valore massimo possibile del prodotto $mn$.
+
+**Risposta:** 2021
+[[src_jmo31yq_yosen__Q01]]

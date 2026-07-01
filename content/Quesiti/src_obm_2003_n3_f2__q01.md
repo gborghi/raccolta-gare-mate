@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f2__Q01
 parent: src_obm_2003_n3_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of sub-triangle in triangle with angle bisector and median*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 20
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pVKqURzPw84tCEK8gfD_OWrWrg3t7l7s/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di triangolo in triangolo con angolo bisector e media*
+
+> Nel triangolo $ABC$, $M$ è il punto medio del lato $AC$, $D$ è un punto sul lato $BC$ in modo tale che $AD$ divisa l'angolo $\widehat{BAC}$, e $P$ è l'intersezione di $AD$ e $BM$. Poiché la superficie di $ABC$ è $100$, $AB = 10$ e $AC = 30$, si trova la superficie del triangolo $APB$.
+
+**Risposta:** 20
+[[src_obm_2003_n3_f2__Q01]]

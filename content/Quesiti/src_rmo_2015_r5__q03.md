@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 5 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r5__Q03
 parent: src_rmo_2015_r5
 competition: Regional Mathematical Olympiad 2015
@@ -37,6 +38,8 @@ tags:
   - regione/r5
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Non-constant polynomial with positive integer coefficients, prove P(2015)=0 impossible*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rYpdn-iDQKvMUMQUeART5t-arr47s7U1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomio non costante con coefficienti interi positivi, dimostra P(2015) = 0 impossibile*
+
+> Che $P(x)$ sia un polinomio non costante i cui coefficienti sono numeri interi positivi. Se $P(n)$ divide $P(P(n)) - 2015$ per ogni numero naturale $n$, provare che $P(-2015) = 0$.
+
+[[src_rmo_2015_r5__Q03]]

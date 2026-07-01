@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2017 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo27mq_honsen__Q01
 parent: src_jmo27mq_honsen
 competition: Japan Mathematical Olympiad 2017 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *lcm(a,b) never equals lcm(a+c,b+c)*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZZX6VzFmZDx55lXzMt3R4wZfWz3QnWc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*lcm(a,b) non è mai uguale a lcm(a+c,b+c)*
+
+> Lasciate che $a, b, c$ siano numeri interi positivi. Indicare che il più piccolo comune di $a$ e $b$ non è uguale al più piccolo comune di $a+c$ e $b+c$.
+
+[[src_jmo27mq_honsen__Q01]]

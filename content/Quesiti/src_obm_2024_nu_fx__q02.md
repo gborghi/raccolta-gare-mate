@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2024 — Nível Universitário — Fase x —
   Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_nu_fx__Q02
 parent: src_obm_2024_nu_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível Universitário — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fixed point and eigenvalue analysis for iterated function composition*
 
@@ -54,3 +57,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ASMMz2DYTBieu4G0G3yj2BJioNfgOgua/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Analisi di punto fisso e di valore proprio per la composizione delle funzioni iterate*
+
+> Per ogni coppia di integri $j, k \ge 2$, definire la funzione $f_{jk} : \mathbb{R} \to \mathbb{R}$ con $f_{jk}(x) = 1 - (1 - x^j)^k$.
+> 
+> a) Prove che per tutti gli enti $j, k \ge 2$ esiste un numero reale unico $p_{jk} \in (0,1)$ tale che $f_{jk}(p_{jk}) = p_{jk}$. Inoltre, definendo $\lambda_{jk} := f'_{jk}(p_{jk})$, si dimostra che $\lambda_{jk} > 1$.
+> 
+> b) Prove che $p'_{jk} = 1 - p_{jk}$ per tutti gli integri $j, k \ge 2$.
+> 
+> c) Prove che $\lambda_{jk} = \lambda_{kj}$ per tutti gli integri $j, k \ge 2$.
+
+[[src_obm_2024_nu_fx__Q02]]

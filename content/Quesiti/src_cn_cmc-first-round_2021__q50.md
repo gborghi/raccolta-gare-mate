@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 50
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q50
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *B1-6: right square pyramid P-ABCD, G centroid of lateral face PBC; V1=vol PABG, V2=vol PADG; find V1/V2.*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*B1-6: piramide quadrata destra P-ABCD, centroide G di facciata laterale PBC; V1=volume PABG, V2=volume PADG; trovare V1/V2.*
+
+> [Paper di prova B1, problema 6] Nella piramide quadrata destra $P-ABCD$, il punto $G$ è il centroide della faccia laterale $\triangle PBC$. $V_1,V_2$ siano rispettivamente i volumi dei tetraedri $PABG$ e $PADG$. In questo caso il valore di $\dfrac{V_1}{V_2}$ è ______.
+
+**Risposta:** \dfrac{1}{2}
+[[src_cn_cmc-first-round_2021__Q50]]

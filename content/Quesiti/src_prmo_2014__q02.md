@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2014__Q02
 parent: src_prmo_2014
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2014
@@ -35,6 +36,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2014th term of sequence where each term is sum of cubes of digits of previous*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2014° termine di sequenza in cui ogni termine è la somma di cubetti di cifre di * precedenti
+
+> Il primo termine di una sequenza è 2014. Ogni termine successivo è la somma dei cubi dei numeri del termine precedente. Qual è il termine $2014^{\text{th}}$ della sequenza?
+
+**Risposta:** 2
+[[src_prmo_2014__Q02]]

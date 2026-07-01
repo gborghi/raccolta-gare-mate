@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q22
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero passi di discesa scale dimezzando e per divisore*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0130
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of steps down the stairs by halving and divider*
+
+> The dark tower The tower of Tauron has 29! The stairs. The lowest of the orchestral servants, who is on the top ladder, is taking orders directly from the Dark Lord, and must transmit them down to various lieutenants throughout the tower. It starts by descending the exact half of the steps, where it finds a first lieutenant; from here on, whenever it speaks to a lieutenant on the k-eighth ladder, he orders it to descend from d other stairs, where d is the largest divisor of k distinct from k itself. When he finally reached the first step, he exchanged two words with the second lieutenant and then stroked the ground. How many lieutenants did the orchestra talk to before it hit the ground?
+
+**Answer:** 0130
+[[src_gas_2009_finale__Q22]]

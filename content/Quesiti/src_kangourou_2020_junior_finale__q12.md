@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2020 Finale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_finale__Q12
 parent: src_kangourou_2020_junior_finale
 competition: Kangourou Coppa Junior squadre 2020 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma seste potenze delle radici dell'equazione*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 6662
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1FHlXv6XSZu8CigCMt0qnx7UwdUaiE9UP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of six powers of the roots of the equation*
+
+> The roots Consider all solutions of the equation x6  16x4 + 16x2 = 1 and raise to the sixth each of them. Then add up the results obtained. How much do you get?
+
+**Answer:** 6662
+[[src_kangourou_2020_junior_finale__Q12]]

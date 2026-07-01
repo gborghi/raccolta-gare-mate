@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q07
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti settimanali in cui ago bussola indica il nord*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1680
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Weekly minutes in which a compass needle points north*
+
+> Jack Disparrow's compass almost never points north. At midnight on a certain day, the compass points north and starts moving by following this algorithm: every 5 minutes the ago suddenly moves forward by 90 degrees and then returns just as instantly back by a number of degrees equal to 6 times the number of minutes passed until that time starting to count from midnight. For how many minutes over the course of a week does the compass point exactly north?
+
+**Answer:** 1680
+[[src_gas_2010_finale__Q07]]

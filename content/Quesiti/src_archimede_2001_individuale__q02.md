@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_individuale__Q02
 parent: src_archimede_2001_individuale
 competition: Archimede 2001 - Gara Nazionale Individuale (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quante squadre partecipano*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 12
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*how many teams participate*
+
+> In a basketball tournament, each team faces all the other participating teams exactly twice. The tournament is won by a single team leading the standings with $26$ points, while exactly two teams finish last with $20$ points. How many teams participated in the tournament?
+> 
+> (Remember that in basketball $2$ points are awarded to the winning team and $0$ to the losing team, while it is not possible for a match to end in a draw.)
+
+**Answer:** 12
+[[src_archimede_2001_individuale__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q14
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di sedersi a tavola (vincoli capotavola)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0800
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sit at the table (head restraints) < MSK1/>
+
+> At tea time Root reaches the K -ellaio Matto, the Lepre Diofantina, the Ghiρ and the Banachoniglio, who ask her to join them for the tea ceremony. The table on which the tea is served is rectangular and has 20 chairs on each long side and a tabletop chair (on both sides). The K-black fool necessarily wants to sit at the top of the table. The other four want to be all sitting next to each other, that is, without empty chairs in the middle (but not necessarily near the K -ellaio) and all on the same side of the table. But neither Root nor K-Ello wants to sit next to Ghiρ. How many different ways can they sit?
+
+**Answer:** 0800
+[[src_cesenatico_2013_finale__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1978 (Twentieth International Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1978_all__Q01
 parent: src_imo_1978_all
 competition: IMO 1978 (Twentieth International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimize m+n with equal last three digits of 1978^m,1978^n*
 
@@ -33,3 +36,13 @@ tags:
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1s9eUx0RJPgir1yZzHScOYJORasAarVOh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimize m+n with equal last three digits of 1978^m,1978^n*
+
+> Let $m$ and $n$ be natural numbers with $1 \leq m < n$. In their decimal representations, the last three digits of $1978^m$ are equal, respectively, to the last three digits of $1978^n$. Find $m$ and $n$ such that $m + n$ has its least value.
+
+[[src_imo_1978_all__Q01]]

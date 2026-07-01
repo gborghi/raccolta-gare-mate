@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1983-84 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1983-84_round1__Q05
 parent: src_bmo_1983-84_round1
 competition: British Mathematical Olympiad 1983-84 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Curved surface area of oblique cone over ellipse equals VA/AC times area of ellipse*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area curva della superficie del cono obliquo sopra l'ellisse è uguale a VA/AC volte l'area dell'ellisse*
+
+> Un piano taglia un cono circolare destro con vertice $V$ in ellisse $E$ e incontra l'asse del cono a $C$; $A$ è un'estremità dell'asse principale di $E$. Prova che l'area della superficie curva del cono inclinato con $V$ come vertice e $E$ come base è $$\frac{VA}{AC} \times (\text{area of } E).$$
+
+[[src_bmo_1983-84_round1__Q05]]

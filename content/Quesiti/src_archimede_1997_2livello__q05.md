@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1997 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_2livello__Q05
 parent: src_archimede_1997_2livello
 competition: Archimede Gara 2º livello 1997
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle unità di una potenza di 2*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of units of a power of 2*
+
+> An antique dealer bought a pair of dresses for a million and a half. He sells one to Aldo and one to Berto for a million each. Charles, who had seen them in the window, is coming, and he's willing to buy the pair for three and a half million. The antiquarian manages to buy the dresses back from Aldo and Berto, paying them 1 million and a half each and selling them back to Charles. At the end of the antiquarian accounts:
+>
+> - **(A)** He lost half a million.
+> - **(B)** He's made it even.
+> - **(C)** He earned half a million.
+> - **(D)** He made a million.
+> - **(E)** None of the previous 100 delegates met in Congress. Not everyone wears a tie, but we know that if you choose two, at least one of them will get the door. How many congressmen are in ties? (A) At least 2, but they can be less than 50 (B) Exactly 50 (C) More than 50, but you can't say exactly how many (D) The situation described is impossible (E) None of the above
+
+**Answer:** B
+[[src_archimede_1997_2livello__Q05]]

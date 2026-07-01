@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2015 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_classiprime__Q16
 parent: src_archimede_2015_classiprime
 competition: Gara Nazionale Classi Prime 2015
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *lista di interi con somma m e prodotto 720*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>list of integers with sum m and product 720< MSK1/>
+
+> Find the smallest positive integer m such that there is a list of positive integers whose sum is m and whose product is 720. A m = 19 B m = 16 C m = 17 D m = 18 E m = 20 F m = 21
+
+**Answer:** A
+[[src_archimede_2015_classiprime__Q16]]

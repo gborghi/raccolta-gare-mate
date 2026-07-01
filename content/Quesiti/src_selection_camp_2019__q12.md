@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2019 — Selection Camp — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2019__Q12
 parent: src_selection_camp_2019
 competition: Japan IMO Selection Camp 2019 — Selection Camp
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *x^3+y, x^2+y^2, x+y^3 integers implies x,y integers*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yeiIMZ2Ofh-F3-B-ZmqmxKicu21B10UQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*x^3+y, x^2+y^2, x+y^3 numeri interi implica x,y numeri interi*
+
+> Lasciate che $x$ e $y$ siano numeri reali. Prova che se $$x^3 + y, \qquad x^2 + y^2, \qquad x + y^3$$ sono tutti numeri interi, allora $x$ e $y$ sono anche numeri interi.
+
+[[src_selection_camp_2019__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2009 - Gara a squadre — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2009_squadre__Q20
 parent: src_gs_2009_squadre
 competition: Coppa Fermat 2009 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Operazione e MCD, piu grande divisore di 2009*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 287
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Operation and MCD, largest divider of 2009*
+
+> Analyzing himself, the paranoid robot Marvin finds, in the recesses of his digital circuits, an operation $\square$ between natural numbers with the following properties: $$a \mathbin{\square} (a+b) = a \mathbin{\square} b, \qquad a \mathbin{\square} b = b \mathbin{\square} a, \qquad a \mathbin{\square} 0 = a$$ for any natural numbers $a, b$. To pass the time, Marvin calculates the value of $n \mathbin{\square} 2009$ for all $n$ from 1 to 2008. What's the maximum value Marvin calculated?
+
+**Answer:** 287
+[[src_gs_2009_squadre__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2006 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2006_r3__Q03
 parent: src_pol_2006_r3
 competition: Olimpiade Matematica Polacca 2006 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a convex hexagon with three pairs of equal diagonals, prove the lines joining midpoints of opposite sides concur.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Gb-ql6_Ggztexxno6TomZay4IG7dvmgE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un esagono converso con tre coppie di diagonali uguali, dimostrare che le linee che uniscono i punti di mezzo di lati opposti sono in concorenza.*
+
+> Si dà un esagono convexo $ABCDEF$ con $AC = DF$, $CE = FB$ e $EA = BD$. Prove che le linee che uniscono i punti medi dei lati opposti di questo esagono si incontrano in un punto.
+
+[[src_pol_2006_r3__Q03]]

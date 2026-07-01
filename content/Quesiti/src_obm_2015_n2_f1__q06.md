@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q06
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solution set of (x-a)^2 = b^2 with a,b positive reals*
 
@@ -46,3 +49,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieme di soluzioni di (x-a)^2 = b^2 con a,b reali positivi*
+
+> L'insieme di soluzioni dell'equazione $(x-a)^2=b^2$, con $a,b$ numeri reali positivi, è:
+> 
+> (A) $\{a+b\}$ (B) $\{a-b\}$ (C) $\{a+b,a-b\}$ (D) $\{-a+b,a+b\}$ (E) $\{a+b,-a-b\}$
+
+[[src_obm_2015_n2_f1__Q06]]

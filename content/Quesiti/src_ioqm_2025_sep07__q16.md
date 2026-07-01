@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q16
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -31,6 +32,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two degree-2 polynomials with given ratio conditions; find f(5)*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomi di due gradi-2 con determinate condizioni di rapporto; trovare f(5) *
+
+> Lasciate che $f(x)$ e $g(x)$ siano due polinomi di grado 2 in modo tale che $$\frac{f(-2)}{g(-2)} = \frac{f(3)}{g(3)} = 4.$$ Se $g(5) = 2$, $f(7) = 12$, $g(7) = -6$, qual è il valore di $f(5)$?
+
+[[src_ioqm_2025_sep07__Q16]]

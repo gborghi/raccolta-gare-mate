@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2020_n2_fx__Q06
 parent: src_obm_2020_n2_fx
 competition: Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find k for which Arnaldo wins a 2020x2020 coloring board game*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova il k per il quale Arnaldo vince un gioco da tavolo a colori 2020x2020*
+
+> $k$ sia un numero intero positivo. Arnaldo e Bernaldo giocano su una tavola $2020 \times 2020$. Inizialmente tutte le celle della lavagna sono vuote. Una mossa consiste nel scegliere una cella vuota e metterci un token blu o rosso. Bernaldo vince se in qualsiasi momento esistono $k$ celle consecutive nella stessa riga o colonna tutte piene di gettoni dello stesso colore. Arnaldo è il primo, e da allora i giocatori si alternano. Arnaldo vince se a un certo punto l'intero tavolo viene riempito senza che Bernaldo vinca.
+> 
+> Trova tutti i valori di < MSK0/> per i quali Arnaldo ha una strategia vincente.
+
+[[src_obm_2020_n2_fx__Q06]]

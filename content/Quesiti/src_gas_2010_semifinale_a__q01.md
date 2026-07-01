@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale A — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_a__Q01
 parent: src_gas_2010_semifinale_a
 competition: Gara a Squadre 2010 - Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risposta n auto-referenziale a (n-1)(n-2)+2*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0002
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Self-referential answer to (n-1)
+
+> The most prestigious mathematical race for rat in the Caribbean is the Big Whoop Cup, which this year will be played on May 7, 1726. Captain Jack Disparrow, aided by his loyal friend Master Gibbs, approaches Turtle to recruit a new crew for his ship, the Pearl of Truth. To the next candidate π-rate who presents himself with the drunken air, Jack asks: If n is the answer to this question, how much does (n−1)(n−2)+2?. What will the MSK2/rate have to answer to be admitted into Jack's clutch?
+
+**Answer:** 0002
+[[src_gas_2010_semifinale_a__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2005 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo3q__Q11
 parent: src_jjmo3q
 competition: Japan Junior Mathematical Olympiad 2005
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill-in-the-blank: minimal count forcing a borrow-free subtraction*
 
@@ -61,3 +64,27 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Inserimento del vuoto: numero minimo che costringe una sottrazione senza prestito*
+
+> Riempire i vuoti $\boxed{\text{(a)}}$ e $\boxed{\text{(h)}}$ con numeri.
+> 
+> **Problema.** Trovare il più piccolo $N$ in modo tale che, se si sceglie $N$ integri distinti dagli integri tra $0$ e $999$ inclusivi, allora ci devono sempre essere due di loro la cui differenza può essere calcolata mediante sottrazione senza alcun prestito.
+> 
+> **Soluzione.** Qui di seguito, un "numero a $3$" significa una catena di tre cifre, ciascuna da $0$ a $9$. Ogni numero intero da $0$ a $99$ è scritto con i zeri di punta, in modo che tutti i numeri interi da $0$ a $999$ siano considerati numeri a cifre $3$; ad esempio, $87$ è considerato numero a cifre $3$ $087$.
+> 
+> Il numero di numeri $3$ di cui la somma digitali è uguale a $13$ è $\boxed{\text{(a)}}$. Per tale numero $A$, una delle seguenti tre affermazioni è esatta:
+> 
+> (1) la cifra di unità di $A$ è al massimo $\boxed{\text{(b)}}$ e la sua cifra decimale è almeno $\boxed{\text{(c)}}$; (2) la cifra decimale di $A$ è al massimo $\boxed{\text{(b)}}$ e la sua cifra di centinaia è almeno $\boxed{\text{(c)}}$; (3) la cifra di centinaia di $A$ è al massimo $\boxed{\text{(b)}}$ e la sua cifra di unità è almeno $\boxed{\text{(c)}}$.
+> 
+> Nel caso (1), diciamo che un numero $3$ a numeri numerici derivante dalla seguente procedura è * dominato da * $A$: - Aumentare la cifra di centinaia di $A$ di $1$ in un tempo fino a che la somma delle centinaia e delle cifre di unità diventa $9$; dopo di che, diminuire le cifre di unità di $1$ in un tempo fino a che non diventa $9$. - Aumentare le centinaia di cifre di $A$ di $1$ alla volta fino a che la somma delle decine e centinaia di cifre non diventi $9$ (non eseguire questo passaggio se la somma delle decine e centinaia di cifre di $A$ è già $9$); quindi diminuire le decine di cifre di $1$ alla volta fino a che non diventi $9$.
+> 
+> Allo stesso modo, nel caso (2) eseguire la procedura con "unità" sostituite da "cenni", "cenni" da "cento" e "cento" da "unità"; nel caso (3) con "unità" sostituite da "cento", "cenni" da "unità" e "cento" da "cenni".
+> 
+> Ad esempio, $439$ è dominato da $\boxed{\text{(d)}}$, e $143$ è dominato da $\boxed{\text{(e)}}$, $\boxed{\text{(f)}}$, $\boxed{\text{(g)}}$. Ragionando allo stesso modo, si scopre che ogni numero $3$ è dominato da un certo numero $3$ di cui la somma digitale è $13$. D'altra parte, quando vengono sottratte due numeri distinti con la stessa somma $13$, si verifica necessariamente un prestito. Pertanto il valore minimo richiesto è $\boxed{\text{(h)}}$.
+
+[[src_jjmo3q__Q11]]

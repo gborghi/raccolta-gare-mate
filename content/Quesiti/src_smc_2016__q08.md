@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2016 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2016__Q08
 parent: src_smc_2016
 competition: Senior Mathematical Challenge 2016
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Points divide each side of a square into n equal parts; joined to form small squares and triangles. How many small squares when n=7?*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+I punti dividono ogni lato di un quadrato in n parti uguali; uniti per formare piccoli quadrati e triangoli. Quanti piccoli quadrati quando n=7?*
+
+> I punti sono disegnati sui lati di un quadrato, dividendo ogni lato in $n$ parti uguali (così, nell'esempio mostrato, $n = 4$). I punti sono uniti nel modo indicato, formando diversi piccoli quadrati (24 nell'esempio mostrato) e alcuni triangoli. Quanti piccoli quadrati si formano quando $n = 7$?
+>
+> - **(A)** 56
+> - **(B)** 84
+> - **(C)** 140
+> - **(D)** 840
+> - **(E)** 5040
+
+![[src_smc_2016__Q08.png]]
+
+**Risposta:** B
+[[src_smc_2016__Q08]]

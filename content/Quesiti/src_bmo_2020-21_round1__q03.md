@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2020-21 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2020-21_round1__Q03
 parent: src_bmo_2020-21_round1
 competition: British Mathematical Olympiad 2020-21 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count sequences of shapes from folding paper n times*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xg514doHxMaADkn1oQBkdyq62hCSeCSk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio di sequenze di forme da carta pieghevole n volte*
+
+> Un pezzo di carta quadrato è piegato a metà lungo una linea di simmetria. La forma risultante viene poi piegata a metà lungo una linea di simmetria della nuova forma. Questo processo viene ripetuto fino a quando non sono state fatte pieghe $n$, dando una sequenza di forme $n+1$. Se non si fa distinzione tra forme congruenti, si trova il numero di sequenze possibili quando: a) $n = 3$; b) $n = 6$; c) $n = 9$. (Quando $n = 1$ ci sono due possibili sequenze.)
+
+[[src_bmo_2020-21_round1__Q03]]

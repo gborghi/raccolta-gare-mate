@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Cadet — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q08
 parent: src_kangourou_2019_cadet_semif
 competition: Kangourou 2019 Semifinale Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma del piu piccolo e piu grande di 1009 consecutivi*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1phCvtzZl50ji_jVJDivksDRKk73y1EvN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>sum of the smallest and largest of 1009 consecutive < MSK1/>
+
+> (Points 5) The sum of 1009 consecutive integers is 2018-2019. How much is the sum of the smallest and largest of these numbers? A) 4 × 20182018 B) 10092019
+> 	
+> C) 4 × 10092019 D) 20181010
+> 	
+> E) 20182019  - 1.
+
+**Answer:** A
+[[src_kangourou_2019_cadet_semif__Q08]]

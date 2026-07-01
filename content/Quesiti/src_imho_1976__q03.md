@@ -1,6 +1,7 @@
 ---
 title: IMO 1976 (XVIII International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1976__Q03
 parent: src_imho_1976
 competition: IMO 1976 (XVIII International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rectangular box filled with unit cubes, 40% of edges parallel*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11l0Z3RXDT5mQvc_2OoUC_uxhAD2ME5IA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular box filled with unit cubes, 40% of edges parallel*
+
+> A rectangular box can be filled completely with unit cubes. If one places as many cubes as possible, each with volume 2, in the box, so that their edges are parallel to the edges of the box, one can fill exactly 40% of the box. Determine the possible dimensions of all such boxes.
+
+[[src_imho_1976__Q03]]

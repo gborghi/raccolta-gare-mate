@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2015 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2015__Q03
 parent: src_cgen_2015
 competition: Concours Général des Lycées 2015 — Matematica
@@ -39,6 +40,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Predictive means: sequences of type A where each term equals the average of the next n terms; show such sequences cannot be bounded above or below, and decide if a non-constant bounded one exists.*
 
@@ -69,3 +72,25 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1seWyepAzmZaY6qrhHguoD9BLLbe2NGeK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Medi predittivi: sequenze di tipo A in cui ogni termine è uguale alla media dei prossimi n termini; mostrare che tali sequenze non possono essere delimitate sopra o sotto, e decidere se esiste una sequenza delimitata non costante.*
+
+> Problema 3: mezzi predittivi.
+> 
+> In questo problema, consideriamo le sequenze $(u_n)_{n \in \mathbb{N}^*} = (u_1, u_2, \ldots)$ con valori reali indicizzati dai numeri naturali non zero. Diciamo che $u_n$ è la media predittiva dei $n$ seguenti termini; la sequenza $(u_n)_{n \in \mathbb{N}^*}$ si dice sia di tipo $\mathcal{A}$ se, per ogni $n \in \mathbb{N}^*$: $$u_n = \frac{u_{n+1} + u_{n+2} + \cdots + u_{2n-1} + u_{2n}}{n}.$$
+> 
+> 1. Che $(u_n)_{n \in \mathbb{N}^*}$ sia una sequenza di tipo $\mathcal{A}$ e che $C$ sia un numero reale. La sequenza $(u_n - C)_{n \in \mathbb{N}^*}$ è di tipo $\mathcal{A}$?
+> 
+> 2. Indicare che ogni sequenza costante è di tipo $\mathcal{A}$.
+> 
+> 3. La sequenza $(u_n)_{n \in \mathbb{N}^*}$ deve essere di tipo $\mathcal{A}$. Supponiamo che esistano valori $a, b, c$ tali da $u_n = an^2 + bn + c$ per ogni $n \in \mathbb{N}^*$. Mostra che $a = b = 0$.
+> 
+> 4. L'obiettivo della presente domanda 4 è di dimostrare che nessuna sequenza del tipo $\mathcal{A}$ è limitata sopra o sotto, tranne quelle costanti. In questa domanda, supponiamo che $(u_n)_{n \in \mathbb{N}^*}$ sia una sequenza di tipo $\mathcal{A}$ con valori non negativi, e consideriamo un intero $r \in \mathbb{N}^*$. a. $p$ sia un numero intero tale che $p > r$. Mostrare che esistono numeri naturali non zero $q$ e $q'$ come $q < p \le q'$ e $2q\, u_{q'} \le u_r \le u_q$. Riduzione di < MSK10/>. b. Per tutti $p \in \mathbb{N}^*$, indicare che $u_p \le 3 u_r$. Dalle domande a, b, c e d si deduce che la sequenza $(u_n)_{n \in \mathbb{N}^*}$ del tipo $\mathcal{A}$ è dilimitata sopra. c. Che $D$ sia un reale rigorosamente positivo e che $p \in \mathbb{N}^*$. Indicare che se $u_p > D$ non è un limite inferiore (minorante) della sequenza, così è la condizione appropriata. d. Deduzione che la sequenza $(u_n)_{n \in \mathbb{N}^*}$ non sia limitata in basso. e. Conclusione.
+> 
+> 5. Esiste una sequenza limitata non costante del tipo $\mathcal{A}$?
+
+[[src_cgen_2015__Q03]]

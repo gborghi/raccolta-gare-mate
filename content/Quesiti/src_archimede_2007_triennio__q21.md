@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2007 - Gara Triennio — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_triennio__Q21
 parent: src_archimede_2007_triennio
 competition: Giochi di Archimede 2007 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sesta cifra decimale di 13^7/10^5 piu radice 3 su 10^5*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>This decimal number of 13^7/10^5 plus the root 3 of 10^5 < MSK1/>
+
+> What is the sixth decimal digit after the comma of the number 137 + √ 3 105 ?
+>
+> - **(A)** 0,
+> - **(B)** 3,
+> - **(C)** 6,
+> - **(D)** 7,
+> - **(E)** 8.
+
+**Answer:** D
+[[src_archimede_2007_triennio__Q21]]

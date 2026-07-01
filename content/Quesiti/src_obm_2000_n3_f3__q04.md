@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f3__Q04
 parent: src_obm_2000_n3_f3
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all speeds v so a car never stops at any traffic light*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** $v = \dfrac{20}{k}$ m/s for every positive integer $k$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le velocità v in modo che una macchina non si ferma mai a nessun semaforo*
+
+> Providence Avenue ha infinitamente molti semafori spaziati e sincronizzati. La distanza tra due semafori consecutivi è < MSK0/> m. Le luci sono aperte (verde) per $1$ min $30$ s, quindi chiuse (rosse) per $1$ min $30$ s, quindi aperte per $1$ min $30$ s, ecc. Supponiamo che un'auto si sposta a velocità costante < MSK7/> m/s lungo Providence Avenue.
+> 
+> Per quali valori di $v$ è possibile che l'auto passi attraverso un numero arbitrario di semafori senza fermarsi a nessuno di essi?
+
+**Risposta:** $v = \dfrac{20}{k}$ m/s for every positive integer $k$
+[[src_obm_2000_n3_f3__Q04]]

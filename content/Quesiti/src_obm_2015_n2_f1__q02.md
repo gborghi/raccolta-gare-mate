@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q02
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many years this century have digit-mean equal to 2*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Quanti anni di questo secolo hanno la media digitali uguale a 2
+
+> La media aritmetica dei numeri dell'anno 2015 è pari a 2, dal momento che $\frac{2+0+1+5}{4}=\frac{8}{4}=2$. Quante volte in questo secolo succederà che la media delle cifre dell'anno sia uguale a 2?
+> 
+> (A) 3 (B) 5 (C) 6 (D) 7 (E) 9
+
+[[src_obm_2015_n2_f1__Q02]]

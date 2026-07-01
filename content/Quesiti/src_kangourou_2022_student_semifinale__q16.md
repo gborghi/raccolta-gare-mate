@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Semifinale individuale — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q16
 parent: src_kangourou_2022_student_semifinale
 competition: Kangourou 2022 Student — Semifinale individuale
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri ABCDABCDABCD divisibili per 2022*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 13
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total number of subscribers to the programme.
+
+> (7 points) Any positive integer of 4 digits in decimal notation has the form ABCD, where the digits indicated by the letters may not be distinct and the digit A is different from 0. How many 12-digit integer numbers in the ABCDABCDABCD form are divisible by 2022?
+
+**Answer:** 13
+[[src_kangourou_2022_student_semifinale__Q16]]

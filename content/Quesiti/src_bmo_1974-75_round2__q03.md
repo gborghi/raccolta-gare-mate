@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1974-75 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1974-75_round2__Q03
 parent: src_bmo_1974-75_round2
 competition: British Mathematical Olympiad 1974-75 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability room A fills with n contestants before room B*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Db2YDJJe3HTlXlSJ6KbEzgmGqDFFe8HU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+La sala di probabilità A si riempie di n concorrenti prima della sala B
+
+> Ci sono paesi che partecipano a un concorso internazionale di matematica, con due concorrenti di ciascun paese. Il concorso si svolge in due sale, $A$ e $B$. All'inizio del concorso i concorrenti $2n$ formano una coda, in qualsiasi ordine. Il concorrente in prima fila entra nella stanza $A$. Ogni concorrente successivo va prima alla porta della stanza che il suo immediato predecessore nella coda è entrato, e guarda in. Se nella stanza ci sono già meno di $n$ persone, entra; altrimenti entra nell'altra stanza. Tutti gli ordini della coda sono uguali. Determinare con prova la probabilità che la stanza $A$ sia riempita di concorrenti $n$ prima della stanza $B$.
+
+[[src_bmo_1974-75_round2__Q03]]

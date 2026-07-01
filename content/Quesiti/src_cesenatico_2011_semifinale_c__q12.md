@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_c__Q12
 parent: src_cesenatico_2011_semifinale_c
 competition: Gara a Squadre Cesenatico 2011 - Semifinale C
@@ -25,6 +26,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *valore a_2011*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4021
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total value of the securities issued by the issuer.
+
+> Numeroprimus and the boredom mediating a truce The Romans decided to take turns in attacking the village, so that every legionary could recover from bruises and bruises. However, the long waiting days must also be fought. The legionnaire Numeroprimus, for example, has given himself to mathematics and is writing a sequence of integers a1, a2,... so that the mean of the first n numbers is exactly n, for each n. How much is 2011?
+
+**Answer:** 4021
+[[src_cesenatico_2011_semifinale_c__Q12]]

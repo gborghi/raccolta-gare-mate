@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2007 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2007__Q11
 parent: src_bocconi_semifinale_2007
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2007
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore minimo della somma massima di tre consecutivi su cerchio con 1-16*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 18
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum value of the maximum sum of three consecutive circles with 1-16*
+
+> We call with $M$ the sum of the three numbers written below on the circumference of a circle. All integers from 1 to 16 are inserted on the circumference (the 10 and 16 are already written). The value of $M$ shall be as small as possible.
+> 
+> What is the value of $M$?
+
+![[src_bocconi_semifinale_2007__Q11.png]]
+
+**Answer:** 18
+[[src_bocconi_semifinale_2007__Q11]]

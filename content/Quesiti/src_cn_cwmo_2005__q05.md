@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2005 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2005__Q05
 parent: src_cn_cwmo_2005
 competition: China Western Mathematical Olympiad 2005
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two circles, tangent and secant configuration, BD bisects AF*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi, con configurazione tangente e secante, BD bisecta AF*
+
+> I cerchi $O_1$ e $O_2$ si incontrano ai punti $A$ e $B$. La linea $DC$ passa attraverso $O_1$, incontra il cerchio $O_1$ a $D$ ed è tangente al cerchio $O_2$ a $C$. Inoltre, $CA$ è una tangente del cerchio $O_1$ a $A$. Il segmento $AE$ del cerchio $O_2$ è perpendicolare a $DC$. $AF$ è perpendicolare a $DE$ e risponde a $F$. Provare che $BD$ divide il segmento di linea $AF$.
+
+![[src_cn_cwmo_2005__Q05.png]]
+
+[[src_cn_cwmo_2005__Q05]]

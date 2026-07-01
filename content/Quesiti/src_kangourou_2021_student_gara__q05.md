@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q05
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Direzione di inclinazione dell'asta vista da due punti*
 
@@ -78,3 +81,26 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Direction of the slope of the axle as seen from two points*
+
+![[src_kangourou_2021_student_gara__prob5.png]]
+
+> The storm tonight made the flagpole tilt in the backyard of our school. Whether viewed from the north-west or viewed from the east, the tip of the mast is visible to the right of its base. In which of the directions shown in the figures can the axle be tilted? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> (e) The Commission shall adopt delegated acts in accordance with the opinion of the Committee on Budgetary Control and with the opinion of the Committee on Budgetary Control and the Committee on Budgetary Control.
+> 
+> x y 0
+
+**Answer:** A
+[[src_kangourou_2021_student_gara__Q05]]

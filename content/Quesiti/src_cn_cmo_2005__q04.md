@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2005 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2005__Q04
 parent: src_cn_cmo_2005
 competition: China Mathematical Olympiad 2005
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence recurrence; prove inequality for n<=m*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricorrenza della sequenza; dimostra l'ineguaglianza per n<=m*
+
+> Let $\{a_n\}$ essere una sequenza tale che $a_1 = \dfrac{21}{16}$ e $$2a_n - 3a_{n-1} = \frac{3}{2^{n+1}}, \quad n \geq 2.$$ Let $m$ essere un intero positivo e $m \geq 2$. Prove che per $n \leq m$, $$\left(a_n + \frac{3}{2^{n+3}}\right)^{\frac{1}{m}}\left(m - \left(\frac{2}{3}\right)^{\frac{n(m-1)}{m}}\right) < \frac{m^2 - 1}{m - n + 1}.$$ (Posato da Zhu Huawei)
+
+[[src_cn_cmo_2005__Q04]]

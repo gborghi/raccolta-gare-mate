@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f2__Q03
 parent: src_obm_2011_n2_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right triangle; angle bisectors meet BC; find AB given AD,AE*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rTFVytZ0r4ui2fCSYnm5ciGL2P0QyY5F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo retto; bisettieri angolari incontrano BC; trovare AB con AD,AE*
+
+> Il triangolo $ABC$ è angolato a destra a $B$. I bisettori interni ed esterni dell'angolo $\hat{BAC}$ incontrano la linea $BC$ rispettivamente nei punti $D$ e $E$. Dato che $AD = 360$ e $AE = 480$, determinare la lunghezza del lato $AB$.
+
+[[src_obm_2011_n2_f2__Q03]]

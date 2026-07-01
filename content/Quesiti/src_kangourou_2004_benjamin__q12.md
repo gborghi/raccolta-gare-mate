@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q12
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti buchi dopo 5 piegature*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many holes after 5 folds< MSK1/>
+
+![[src_kangourou_2004_benjamin__prob12.png]]
+
+> A sheet of paper is folded five times in a row, as shown in the figure showing with a stretch the line along which, from time to time, the folding is carried out. A hole is then made in the center of the folded sheet, which is then laid out until the initial configuration is restored. How many holes are there on the paper now? A) 6 B) 10          C) 16 D) 20         E) 32
+
+**Answer:** E
+[[src_kangourou_2004_benjamin__Q12]]

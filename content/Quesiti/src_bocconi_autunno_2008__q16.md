@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2008 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2008__Q16
 parent: src_bocconi_autunno_2008
 competition: Giochi d'Autunno 2008
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero civico della casa abbattuta in via Pitagora*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 48
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Civil number of the house demolished in Via Pitagora
+
+> In Via Pitagora the civil numbers of the houses leave (without interruptions, the bissi numbers on one side and the even numbers on the other side of the road). One day, one of them gets knocked down by the mayor for abusing. The arithmetic mean of the civil numbers of the houses, in this way, is an integer. What was the civilian number for the house that was torn down?
+
+**Answer:** 48
+[[src_bocconi_autunno_2008__Q16]]

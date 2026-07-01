@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q05
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify the largest among five powers of consecutive-ish bases*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare il più grande dei cinque poteri di base consecutive *
+
+> Segna l'alternativa che presenta il più grande dei cinque numeri. (A) $2014^5$ (B) $3015^4$ (C) $4016^3$ (D) $5017^2$ (E) $6018^1$
+
+[[src_obm_2014_n3_f1__Q05]]

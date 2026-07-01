@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_benjamin__Q29
 parent: src_kangourou_2002_benjamin
 competition: Kangourou 2002 - Benjamin (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Partite giocate nell'intero torneo*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Matches played throughout the tournament*
+
+> 32 teams participate in a volleyball tournament. At each stage of the tournament the teams are divided into groups of four teams. In each group, each team meets the others only once. The top two teams from each group qualify for the next stage, the other two are eliminated. After the final stage (with four teams) the remaining two teams play the final to determine the winning team. How many games will be played throughout the tournament?
+>  
+> A. 49 B. 89 C. 91 D. 97 E. 181
+
+**Answer:** C
+[[src_kangourou_2002_benjamin__Q29]]

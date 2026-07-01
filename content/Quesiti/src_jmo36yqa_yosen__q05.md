@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo36yqa_yosen__Q05
 parent: src_jmo36yqa_yosen
 competition: Japan Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find integer triples (x,y,z) in [1,17] where a single integer >1 divides all four expressions*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (4,12,5), (17,12,5)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova i triples di numeri interi (x,y,z) in [1,17] dove un singolo numero intero >1 divide tutte e quattro le espressioni*
+
+> Trovare tutti i triples $(x, y, z)$ di numeri interi con $1 \le x, y, z \le 17$ in modo tale che esista un numero intero maggiore di $1$ che divide tutte e quattro delle seguenti quantità: $$xy + 4, \quad yz + 5, \quad zx + 6, \quad xyz + 7.$$
+
+**Risposta:** (4,12,5), (17,12,5)
+[[src_jmo36yqa_yosen__Q05]]

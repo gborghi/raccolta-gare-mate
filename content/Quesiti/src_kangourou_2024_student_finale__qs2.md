@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student finale — Quesito S2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student_finale__QS2
 parent: src_kangourou_2024_student_finale
 competition: Kangourou 2024 Student finale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Citta operativa aereo nel primo giorno secondo mese*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** si, Cagliari
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pVmLuJsgtVZ0iaNk5NbfEj5LKn6f8UgH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*City of air operations on the first day of the second month*
+
+> I don't drink coffee only on Mondays and Saturdays. An aircraft is used on alternate days on the Milan  Cagliari and Milan  Palermo routes with daily round-trip flights operated weekly from Tuesday to Sunday included; every Monday it is stationary for maintenance. During a year there were two consecutive months during which he operated for a total of 53 days, the first of which was in Cagliari. On the first day of the first of these two months, I didn't drink coffee. Is it possible to determine which city the aircraft operated in on the first day of operation in the second month? Is it possible to determine whether that day coincides with the first day of the month?
+
+**Answer:** si, Cagliari
+[[src_kangourou_2024_student_finale__QS2]]

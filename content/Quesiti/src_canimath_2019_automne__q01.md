@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2019 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_automne__Q01
 parent: src_canimath_2019_automne
 competition: Coupe Animath Automne 2019
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count odd integers between 1 and 2019 inclusive*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1010
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi unici tra il 1 e il 2019 inclusi*
+
+> Trova il numero di numeri interi dispari tra 1 e 2019 inclusi.
+
+**Risposta:** 1010
+[[src_canimath_2019_automne__Q01]]

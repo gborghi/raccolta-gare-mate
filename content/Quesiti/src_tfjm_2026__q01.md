@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2026__Q01
 parent: src_tfjm_2026
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Chip-eating game on a layout of n piles of n chips: two players alternate, a chip may be eaten only if its neighbours are still covered; count states and analyse optimal strategies, then repeat on a pyramid layout.*
 
@@ -75,3 +78,39 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco che mangia chip su un layout di n pile di n chip: due giocatori si alternano, un chip può essere mangiato solo se i suoi vicini sono ancora coperti; contare gli stati e analizzare le strategie ottimali, quindi ripetere su un layout di piramide.*
+
+> 1. La guerra all'aperitivo.
+> 
+> Anita e Auriane prendono un aperitivo insieme. Non lo finiscono, ma hanno davanti a sé un mucchio di chip semplici antichi, composti da pile $n$ di chip $n$, con $n \ge 1$ un numero intero. Mangiano le patatine a turno, ognuno a turno svolgendo il ruolo di mangiatore. Un chip in pila o alla fine di una fila può essere mangiato solo se i chip accanto non sono ancora stati scoperti, cioè solo il chip in cima ad una pila o alla fine di una fila. Devono mangiare le patatine una alla volta, prendendo almeno una patatina e al massimo tutte le patatine scoperte. La partita continua finché ci sono i chip, ma alla fine non resta più nessun chip a tavola. Anita inizia.
+> 
+> Un esempio di gioco è mostrato nella figura 1. A ogni passo, le patatine in blu sono quelle che si possono mangiare. In totale, Anita ha mangiato i chip $7$ e Auriane ha mangiato i chip $2$ durante questa partita.
+> 
+> 1. Quanti stati possibili ci sono per la pila di chip?
+> 
+> 2. Anita e Auriane sono gourmand e quindi ognuno cerca di mangiare il maggior numero possibile di patatine durante il gioco.
+> 
+> a) In questa domanda, Auriane gioca in modo grassone: a sua volta, prende sempre tutte le patatine che può. Quante cippe al massimo può Anita garantire di mangiare, in funzione di < MSK0/>? Ora Auriane pensa prima di giocare. Quante cippe al massimo Anita può garantire di mangiare, non importa come Auriane gioca, in funzione di $n$?
+> 
+> 3. In questa domanda, il chip in basso a sinistra è un delizioso chip da barbecue che Anita vuole assolutamente mangiare. In funzione di < MSK0/>, come può Anita garantire di mangiarlo?
+> 
+> 4. In questa domanda, il numero di riga $k$ (calcolato dalla parte inferiore) è costituito da patatine con un sapore particolare. Chiamiamo soddisfazione il valore $C + S \cdot v$, dove $C$ è il numero di chip ordinari e $S$ il numero di chip speciali Anita mangia, $v$ è il valore di un chip speciale. Come funzione di $n$ e $k$, qual è la massima soddisfazione che Anita può garantire di ottenere, indipendentemente dal modo in cui Auriane gioca, nei seguenti casi speciali:
+> 
+> a) i chip non sono buoni, quindi di valore < MSK0/>; b) i chip sono particolarmente buoni, quindi di valore < MSK1/>?
+> 
+> Ora i chip sono disposti come una piramide: nella riga inferiore ci sono i chip $n$, nella riga sopra $n-1$, e così via fino alla cima, dove c'è un solo chip. Un chip non può più essere mangiato come prima: un chip può essere mangiato se i due chip appena sotto di esso non ci sono più.
+> 
+> Un esempio di gioco è mostrato nella figura 2. A ogni passo, le patatine in blu sono quelle che si possono mangiare. In totale, Anita ha mangiato i chip $6$ e Auriane ha mangiato i chip $4$ durante questa partita.
+> 
+> 5. Ripetere le domande da 1 a 3 in questo contesto.
+> 
+> Domanda complementare. Proporre e studiare altre direzioni di ricerca.
+
+![[src_tfjm_2026__Q01.png]]
+
+[[src_tfjm_2026__Q01]]

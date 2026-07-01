@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Semifinale 2 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_semifinale2__Q15
 parent: src_squadre_2024_semifinale2
 competition: Gara a Squadre 2024 - Semifinale 2
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Possibili numeri di membri Organizzazione a tavola*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5751
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible number of members Table organisation*
+
+> The suspect Hermite Poinsot is watching staged a magic game to confuse the detective. Initially he has 2 red balls in his hand; at each step he makes one of the following moves: adds a blue ball and a red ball; adds a blue ball and removes a red ball; adds two green balls. He declares that when he has 11 blue, 9 red and 4 green balls in his hand he will disappear, and he also wants to reach the goal using the minimum number of moves possible. How many ways can you do that?
+
+**Answer:** 5751
+[[src_squadre_2024_semifinale2__Q15]]

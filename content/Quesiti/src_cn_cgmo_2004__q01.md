@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2004 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2004__Q01
 parent: src_cn_cgmo_2004
 competition: China Girls' Mathematical Olympiad 2004
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all 'good' numbers in a given set*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 13, 15, 17, 19
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i numeri "buoni" in un dato insieme*
+
+> Diciamo che un intero positivo $n$ è "buono" se c'è una permutazione $(a_1, a_2, \ldots, a_n)$ di $1, 2, \ldots, n$ tale che $a_k + k$ è un quadrato perfetto per tutti $1 \le k \le n$. Determinare tutti i numeri buoni del set $\{11, 13, 15, 17, 19\}$.
+
+**Risposta:** 13, 15, 17, 19
+[[src_cn_cgmo_2004__Q01]]

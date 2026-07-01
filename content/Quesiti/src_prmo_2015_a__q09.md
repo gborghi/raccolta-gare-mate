@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_a__Q09
 parent: src_prmo_2015_a
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -38,6 +39,8 @@ tags:
   - regione/a
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest square area containing $2\times3$ and $3\times4$ non-overlapping rectangles*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 25
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Più piccola superficie quadrata contenente $2\times3$ e $3\times4$ rettangoli non sovrapposti*
+
+> Un rettangolo $2 \times 3$ e un rettangolo $3 \times 4$ sono contenuti all'interno di un quadrato senza sovrapposizioni in alcun punto interno, e i lati del quadrato sono paralleli ai lati dei due rettangoli dati. Qual è la più piccola area possibile del quadrato?
+
+**Risposta:** 25
+[[src_prmo_2015_a__Q09]]

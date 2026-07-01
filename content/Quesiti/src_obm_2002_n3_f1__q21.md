@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q21
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trapezoid ABCD of area 1, BC=half of AD, K midpoint of AC, DK meets AB at L; area of quadrilateral BCKL*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD trapezoide della zona 1, BC=metà di AD, K punto medio di AC, DK incontra AB a L; area di BCKL quadrilaterale*
+
+> In un trapezoide $ABCD$ della zona 1, la base $BC$ misura la metà della base $AD$. Il punto medio della diagonale $AC$ è $K$. La linea $DK$ taglia il lato $AB$ al punto $L$. La superficie del quadrilaterale $BCKL$ è uguale a: (A) $\dfrac{3}{4}$ (B) $\dfrac{2}{3}$ (C) $\dfrac{1}{3}$ (D) $\dfrac{2}{9}$ (E) $\dfrac{1}{9}$
+
+![[src_obm_2002_n3_f1__Q21.png]]
+
+**Risposta:** D
+[[src_obm_2002_n3_f1__Q21]]

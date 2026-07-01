@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Finale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_f__Q15
 parent: src_kangourou_2014_squadre_f
 competition: Kangourou Coppa Squadre 2014 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di P-D somma quadrati pari meno dispari*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5050
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*P-D value sum squared equal to less odd*
+
+> Equal squares and odd squares Let D be the sum of the squares of all odd integers between 1 and 99 inclusive. Let P be the sum of the squares of all even integers between 2 and 100 inclusive. How much is P minus D?
+>  
+> 
+>  
+> Questions and solutions
+
+**Answer:** 5050
+[[src_kangourou_2014_squadre_f__Q15]]

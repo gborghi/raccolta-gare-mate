@@ -1,6 +1,7 @@
 ---
 title: IMO 1984 (XXV International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1984__Q06
 parent: src_imho_1984
 competition: IMO 1984 (XXV International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Odd integers with ad=bc, a+d=2^k, b+c=2^m imply a=1*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hddGpriFfJ9QXK1JRJNBQA3ykv770Ola/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Odd integers with ad=bc, a+d=2^k, b+c=2^m imply a=1*
+
+> Let $a, b, c, d$ be odd integers such that $0 < a < b < c < d$ and $ad = bc$. Prove that if $a + d = 2^k$ and $b + c = 2^m$ for some integers $k$ and $m$, then $a = 1$.
+
+[[src_imho_1984__Q06]]

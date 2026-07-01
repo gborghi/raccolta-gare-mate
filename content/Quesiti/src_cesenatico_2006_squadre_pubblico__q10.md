@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q10
 parent: src_cesenatico_2006_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo combinazioni utili da 36 ingredienti (condizione)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0594
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum useful combinations of 36 ingredients (condition) < MSK1/>
+
+> During the potion lesson, Hardy and his friend Ron Perelman have to choose two of the 36 ingredients available and mix them in hopes of getting a potion with some properties. Their friend Hermita told him that if the first two ingredients don't work, he should try two more (changing them both): it may happen that even then he gets nothing, but then  assures him  by mixing an ingredient from each pair (in any way) you will necessarily get a useful potion. How many combinations of at least two ingredients make a potion useful?
+
+**Answer:** 0594
+[[src_cesenatico_2006_squadre_pubblico__Q10]]

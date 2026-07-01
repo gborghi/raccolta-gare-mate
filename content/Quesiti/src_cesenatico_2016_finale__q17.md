@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q17
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultima cifra di 1^1+2^2+...+2016^2016*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0004
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last figure of 1^1+2^2+...+2016^2016*
+
+> Han Singleton and Chewbashev must make the jump in space to sow imperial hunting to the pursuit. To do so safely, however, they must complete a final calculation, which consists of finding the value of the sum 11 +22 +33 +...+20162016. What is the last digit of that number?
+
+**Answer:** 0004
+[[src_cesenatico_2016_finale__Q17]]

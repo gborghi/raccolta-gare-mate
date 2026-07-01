@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q21
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei numeri confinanti con 8 nella tabella 3x3*
 
@@ -69,3 +72,36 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of numbers adjacent to 8 in table 3x3*
+
+![[src_kangourou_2014_cadet__prob21.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \draw[thick] (0,0) grid (3,3);
+  \node at (0.5, 2.5) {1};
+  \node at (2.5, 2.5) {3};
+  \node at (0.5, 0.5) {2};
+  \node at (2.5, 0.5) {4};
+\end{tikzpicture}
+\end{document}
+```
+
+> William writes all the integers from 1 to 9 included in the cells of a 3x3 table, so that each cell contains one and only one number: in the figure you can see where he placed the first 4 numbers. He calls adjacent two numbers if the cells that contain them share a side: after writing all the numbers, he notes that the sum of all the numbers adjacent to 9 is 15. What is the sum of the numbers adjacent to 8? A) 12
+> 	
+> B) 18
+> 	
+> C) 20
+> 	
+> D) 26
+> 	
+> E) 27
+
+**Answer:** E
+[[src_kangourou_2014_cadet__Q21]]

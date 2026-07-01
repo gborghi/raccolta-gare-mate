@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f1__Q23
 parent: src_obm_2008_n2_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine result of Austria vs Denmark from group standings*
 
@@ -53,3 +56,21 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Determine il risultato dell'Austria contro la Danimarca dalla classifica di gruppo< MSK1/>
+
+> Il Gruppo A dell'ultima Coppa del Mondo di calcio si è concluso con i seguenti risultati:
+> 
+> Austria < MSK0/> punti; Brasile < MSK1/> punti; Camerun < MSK2/> punti; Danimarca < MSK3/> punti.
+> 
+> È noto che l'Austria e il Camerun hanno segnato solo $1$ gol ciascuno, mentre l'Austria ha ceduto $3$ gol. Qual è stato il risultato della partita Austria $\times$ Danimarca?
+> 
+> \textit{Osservazione:} Nel gruppo, ciascuna squadra gioca con le altre una volta; una vittoria dà $3$ punti, un pareggio dà $1$ punti a ciascuna, e il perdente non guadagna nulla; o, se c'è un pareggio, ogni squadra guadagna $1$ punti. (A) $1\times 0$ \quad (B) $2\times 1$ \quad (C) $2\times 0$ \quad (D) $0\times 0$ \quad (E) Non è possibile saperlo.
+
+![[src_obm_2008_n2_f1__Q23.png]]
+
+[[src_obm_2008_n2_f1__Q23]]

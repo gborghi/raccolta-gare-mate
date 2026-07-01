@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2020 Finale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_finale__Q08
 parent: src_kangourou_2020_junior_finale
 competition: Kangourou Coppa Junior squadre 2020 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del quadrato con tre rette parallele*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0130
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1FHlXv6XSZu8CigCMt0qnx7UwdUaiE9UP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the square with three parallel lines*
+
+![[src_kangourou_2020_junior_finale__prob8.png]]
+
+> Three parallels is given a square ABCD. Three parallel lines a, b, c pass through the vertices A, B and C of the square respectively. The distance from a to b is 7, while the distance from b to c is 9. What is the area of the square?
+
+**Answer:** 0130
+[[src_kangourou_2020_junior_finale__Q08]]

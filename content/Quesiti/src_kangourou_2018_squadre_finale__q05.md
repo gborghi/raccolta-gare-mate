@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2018 Finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_finale__Q05
 parent: src_kangourou_2018_squadre_finale
 competition: Kangourou Coppa squadre 2018 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma divisori a 2 cifre di 2^16-1*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0168
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of two-digit divisors of 2^16-1*
+
+> Divisors What is the sum of all the positive integers of 2 digits of the number 216  1?
+
+**Answer:** 0168
+[[src_kangourou_2018_squadre_finale__Q05]]

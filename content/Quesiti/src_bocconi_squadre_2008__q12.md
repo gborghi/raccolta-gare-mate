@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q12
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Secondi dopo cui pallone lanciato verso l'alto si trova a 20 m*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1 e 4 secondi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Seconds after which the ball thrown upwards is at 20 m*
+
+> From the ground, a ball is thrown vertically upwards at a speed of 25 m/s. Assuming nothing of the air resistance and $g = 10$ m/s$^2$, after how many seconds will the ball be at a height of 20 m from the ground?
+
+**Answer:** 1 e 4 secondi
+[[src_bocconi_squadre_2008__Q12]]

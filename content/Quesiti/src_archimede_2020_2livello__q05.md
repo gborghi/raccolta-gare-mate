@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2020 - 2° livello — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_2livello__Q05
 parent: src_archimede_2020_2livello
 competition: Archimede Gara di Febbraio 2020 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scelta 3 persone a tavolo, né adiacenti né opposte*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Choose 3 people at the table, neither adjacent nor opposite
+
+> Around a round table, 32 people are seated at a constant distance from each other. How many ways can you choose 3 of them so that couples are neither adjacent nor diametrically opposite?
+>
+> - **(A)** 2246
+> - **(B)** 2480
+> - **(C)** 3616
+> - **(D)** 24128
+> - **(E)** None of the above
+
+**Answer:** C
+[[src_archimede_2020_2livello__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Junior — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q13
 parent: src_kangourou_2019_junior_semifinale
 competition: Kangourou 2019 Semifinale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima somma spigoli parallelepipedo con volume ottaedro 150*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum sum of parallel-piped beads with an octahedral volume of 150 < MSK1/>
+
+> (Points 6) In each parallel-piped rectangle the centers of the six faces are the vertices of an octahedron. If the measures of the parallel-pipedal shoulders are each expressed in an integer number of centimetres and the volume of the octahedron is 150 cm3, what is the maximum value of the sum of the measures of the parallel-pipedal shoulders?
+
+[[src_kangourou_2019_junior_semifinale__Q13]]

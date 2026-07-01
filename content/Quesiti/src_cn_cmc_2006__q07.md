@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2006 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2006__Q07
 parent: src_cn_cmc_2006
 competition: China Mathematical Competition 2006
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the range of f(x)=sin^4 x - sin x cos x + cos^4 x*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $\left[0,\, \dfrac{9}{8}\right]$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'intervallo di f(x) = sin^4 x - sin x cos x + cos^4 x*
+
+> Let < MSK0/>. L'intervallo di $f(x)$ è ________.
+
+**Risposta:** $\left[0,\, \dfrac{9}{8}\right]$
+[[src_cn_cmc_2006__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (finale Cervia) — Quesito S1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_finale__QS1
 parent: src_kangourou_2016_student_finale
 competition: Kangourou 2016 Student (finale Cervia)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *n con 2016 = radice della somma dei cubi dei primi n interi*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 63
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aUKk1biwLcg0St2UFy-7j4t3JVsISp8p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*n with 2016 = root of the sum of the cubes of the first n integers*
+
+> 1) A polygonal tiles of the plane (i.e. each tiles is a polygon) are assigned. Proves or refutes each of the following statements. (a) If every circle with a center at a point P intersects infinite tiles, then P belongs to infinite tiles. (b) If each tile contains a circle of radius 1 and there is a positive number M such that each tile is contained in a circle of radius M, then each point belongs to a finite number of tiles.
+
+**Answer:** 63
+[[src_kangourou_2016_student_finale__QS1]]

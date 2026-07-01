@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2019 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_printemps__Q01
 parent: src_canimath_2019_printemps
 competition: Coupe Animath Printemps 2019
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Floor times fractional part equals 2019x; find all x*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Floor times fractional part = 2019x; trova tutte le x*
+
+> Per qualsiasi numero reale $x$, indichiamo con $\lfloor x \rfloor$ la sua parte integrale, ovvero il più grande intero inferiore o uguale a $x$, e con $\{x\}$ la sua parte frazionaria, ovvero $\{x\} = x - \lfloor x \rfloor$. Per esempio, $\lfloor 3.1 \rfloor = 3$, $\lfloor -2.7 \rfloor = -3$ e $\{3.1\} = 0.1$, $\{-2.7\} = 0.3$.
+> 
+> Trova tutti i numeri reali $x$ in modo tale che $\lfloor x \rfloor \times \{x\} = 2019 \times x$.
+
+[[src_canimath_2019_printemps__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet finale nazionale — Quesito C1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet_finale__QC1
 parent: src_kangourou_2004_cadet_finale
 competition: Kangourou 2004 Cadet finale nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Aumento superficie del solido scavato*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 16
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qutKfUoHQoWcRhpaUbm6vw6FQyOCRizB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Increased surface area of the solid excavated< MSK1/>
+
+![[src_kangourou_2004_cadet_finale__probC1.png]]
+
+> In a wooden cube of 4 centimetres by side, a cube of 2 centimetres by side is cut to make the solid depicted on the right in the figure. Compared to the total surface area of the initial cube, how many square decimeters is the total outer surface area of the solid? (see figure)
+
+**Answer:** 16
+[[src_kangourou_2004_cadet_finale__QC1]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre_f2__Q14
 parent: src_kangourou_2023_ecolier_squadre_f2
 competition: Kangourou Squadre 2023 Ecolier Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante delle 26 sedie sono rosse*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0026
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many of the 26 seats are red
+
+> In Arthur's restaurant, every chair is either blue or yellow or red or green or purple. Around a large round table today there are 26 chairs and the 13 guests who have already arrived have sat down so that between them there is always an empty chair. If each occupant were to move two seats clockwise, the new seat he would occupy would be the same color as the one he previously occupied. If each occupant were to move 9 seats in an anti-clockwise direction, the new chair he would occupy would still be the same color as the one he previously occupied. Henry is one of the 13 and his chair is red. How many of the 26 chairs are red?
+
+**Answer:** 0026
+[[src_kangourou_2023_ecolier_squadre_f2__Q14]]

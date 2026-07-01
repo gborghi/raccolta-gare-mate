@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Finale Nazionale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_finale__Q14
 parent: src_squadre_2023_finale
 competition: Gara a Squadre 2023 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area minima tabellone di quadrati distinti somma lati 2023*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6191
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum area table of distinct squares sum of sides 2023*
+
+> To celebrate the success of the Krull mission, the three girls head to Luna Park. The target shooting stand was built to minimize the area to hit. The table is made up of a series of adjacent squares; the sum of the lengths of their sides is 2023mm and each side has an integer number of mm. Besides, the squares are all different sizes. What is the minimum total area of the table in mm2?
+
+**Answer:** 6191
+[[src_squadre_2023_finale__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1993 — Matematica — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1993__Q04
 parent: src_cgen_1993
 competition: Concours Général des Lycées 1993 — Matematica
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Covering a unit disk with two or three equal disks of radius r < 1*
 
@@ -44,3 +47,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Coperta di un disco unitario con due o tre dischi uguali di raggio r < 1*
+
+> Si deve $D$ essere un disco di raggio $1$ nel piano.
+> 
+> **1.** Indicare che è impossibile coprire il disco $D$ con due dischi dello stesso raggio $r$, quando $r$ è strettamente inferiore a $1$.
+> 
+> **2.** Indicare che, per alcuni valori di $r < 1$, è possibile coprire il disco $D$ con tre dischi dello stesso raggio $r$. Qual è il valore minimo di $r$ che consente tale copertura?
+
+[[src_cgen_1993__Q04]]

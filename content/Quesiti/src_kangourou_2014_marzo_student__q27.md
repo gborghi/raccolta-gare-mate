@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q27
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *valori di m*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>value of m< MSK1/>
+
+> When all the factors (k, m, n) of positive integers that are equal to k = (2014 + m) / n = 10241/n + 1 are varied, how many different values can the number m take? (a) There is no such tender. B) 1
+> 	
+> C) 2
+> 	
+> D) 3
+> 	
+> E) Infinite
+
+**Answer:** C
+[[src_kangourou_2014_marzo_student__Q27]]

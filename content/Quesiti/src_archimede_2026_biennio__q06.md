@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_biennio__Q06
 parent: src_archimede_2026_biennio
 competition: Giochi di Archimede 2026 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante potenze di 2025 sono quadrati perfetti*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many powers in 2025 are perfect squares*
+
+> Let's look at the numbers 2025, 20252, 20253. . . , 20252025, i.e. all the powers of type 2025n with 1 ⩽n ⩽2025. How many of these are squares of integers?
+>
+> - **(A)** 2025
+> - **(B)** 45
+> - **(C)** No one
+> - **(D)** 1012
+> - **(E)** 145
+
+**Answer:** A
+[[src_archimede_2026_biennio__Q06]]

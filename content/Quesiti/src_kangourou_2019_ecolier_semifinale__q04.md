@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Ecolier — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q04
 parent: src_kangourou_2019_ecolier_semifinale
 competition: Kangourou 2019 Semifinale Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali forme di partenza danno il triangolo dopo due piegature*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tNc5SZ7vm6wp3SYyibXhYqSBPWtNBocw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What are the starting shapes of the triangle after two bends*
+
+![[src_kangourou_2019_ecolier_semifinale__prob4.png]]
+
+> (Doc. 4) Marta folded a sheet of paper exactly in half, in one of the possible ways, and then folded the result in half again, always making sure the two sides were well matched. You got the triangle on the right. Which of the forms P, Q, R might have had the starting sheet? A) Only P B) Only Q C) Only R D) Only P and R E) All three
+
+**Answer:** E
+[[src_kangourou_2019_ecolier_semifinale__Q04]]

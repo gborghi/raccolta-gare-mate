@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q10
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo finche si spegne l'ultima delle 10 candele*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Time until the last of the 10 candles is turned off*
+
+> Tom has 10 candles all the same. Each is consumed in 20 minutes, uniformly along its height. He lights one; when there is only one tenth left, he lights another; when there is only one tenth left of the second, he lights a third, and so on until he lights them all. How long after the first one is turned on, will the last one go off? A) 3h and 10 min B) 3h and 2 min C) 3h D) 2h and 40 min E) 2h and 58 min
+>  
+> The questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** B
+[[src_kangourou_2021_junior_marzo__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1982 (XXIII International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1982__Q06
 parent: src_imho_1982
 competition: IMO 1982 (XXIII International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Path in square covering boundary within distance 1/2, prove length ≥ 198*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Path in square covering boundary within distance 1/2, length tests ≥ 198*
+
+> Let $S$ be a square with sides of length 100, and let $L$ be a path within $S$ which does not meet itself and which is composed of line segments $A_0A_1, A_1A_2, \cdots, A_{n-1}A_n$ with $A_0 \neq A_n$. Suppose that for every point $P$ of the boundary of $S$ there is a point of $L$ at a distance from $P$ not greater than $1/2$. Prove that there are two points $X$ and $Y$ in $L$ such that the distance between $X$ and $Y$ is not greater than $1$, and the length of that part of $L$ which lies between $X$ and $Y$ is not smaller than $198$.
+
+[[src_imho_1982__Q06]]

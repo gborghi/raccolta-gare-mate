@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q15
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tangram with 5 triangles and 1 square, find shaded area*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tangramma con 5 triangoli e 1 quadrato, area ombrata*
+
+> La figura di seguito rappresenta un Tangram (un puzzle cinese) formato da triangoli $5$, $1$ parallelo e $1$ quadrato. Dato che l'area del tangramma è $64\,\text{cm}^2$, quale è l'area, in $\text{cm}^2$, della regione ombreggiata?
+> 
+> **A) ** 7.6 \quad **B) ** 8 \quad **C) ** 10.6 \quad **D) ** 12 \quad **E) ** 21.3
+
+![[src_obm_2006_n2_f1__Q15.png]]
+
+**Risposta:** B
+[[src_obm_2006_n2_f1__Q15]]

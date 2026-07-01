@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q21
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo risultato con operazioni su carte a due facce*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum result with operations on two-sided cards< MSK1/>
+
+![[src_kangourou_2024_student__prob21.png]]
+
+> There are six cards, each of which has a number pair, a number on each face. The six pairs are (5, 12), (3, 11), (0, 16), (7, 8), (4, 14) and (9, 10). You can choose how to line up the cards and what face each card should show. Choose a provision, the numbers that appear in it, the operations shown in the figure: What is the minimum result that can be achieved? A) – 23 B) – 24 C) – 25 D) – 26 E) – 27
+
+**Answer:** D
+[[src_kangourou_2024_student__Q21]]

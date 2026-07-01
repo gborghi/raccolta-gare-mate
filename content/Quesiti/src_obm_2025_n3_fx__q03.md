@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2025 — Nível 3 — Fase x — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2025_n3_fx__Q03
 parent: src_obm_2025_n3_fx
 competition: Olimpíada Brasileira de Matemática 2025 — Nível 3 — Fase x
@@ -40,6 +41,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Infinite sequence of positive integers with min-difference power-of-2025 condition; prove surjective onto positives*
 
@@ -56,3 +59,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFf1OuT8cLJGAETsQx_9-GJOvIDVonCr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Sequenza infinita di integri positivi con condizione di potenza di min-differenza di 2025; dimostrare la surgezione sui positivi< MSK1/>
+
+> Lasciate che $(a_k)_{k \ge 1}$ sia una sequenza infinita di integri positivi tale che:
+> 
+> (i) < MSK0/> sono numeri interi positivi separati in coppia, tutti diversi da < MSK1/>;
+> 
+> (ii) per $n > 10000$ definire $a_n$ come il numero intero positivo più piccolo diverso da $a_1, a_2, \ldots, a_{n-1}$ in modo tale che $|a_n - a_{n-1}|$ sia una potenza di $2025$ (nota che $1$ è una potenza di $2025$).
+> 
+> Prova che ogni intero positivo appare nella sequenza.
+
+[[src_obm_2025_n3_fx__Q03]]

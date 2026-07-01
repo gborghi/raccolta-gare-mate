@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f2__Q09
 parent: src_obm_2005_n3_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest possible maximum term of AP with six distinct prime terms*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Termino massimo minimo possibile di AP con sei termini primari distinti*
+
+> Determinare il minimo valore possibile del termine massimo di una progressione aritmetica con tutti e sei i termini $a_1,\,a_2,\,a_3,\,a_4,\,a_5,\,a_6$ che sono numeri primi positivi distinti.
+> 
+> In passato, gli ex olimpici Terence Tao (Australia, oro all'IMO 1988) e Ben Green (Regno Unito, argento all'IMO 1994) hanno dimostrato che esistono progressioni aritmetiche arbitrariamente lunghe con tutti i termini prim. Questa domanda risale al diciottesimo secolo e appare nella ricerca di Lagrange e Waring.
+
+[[src_obm_2005_n3_f2__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q17
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *rapporto prezzi*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>price report< MSK1/>
+
+> A car salesman bought and sold two cars. Compared to the purchase prices, it resold the first one at a price above 40% and the second one at a price above 60%. The total revenue for the two cars was 54% more than the sum of the purchase prices. What is the ratio of the prices paid by the dealer for the first and second cars? (A) 2:3 B) 20:27 C) 3:7 D) 7:12 E) The information is not sufficient to answer.
+
+**Answer:** C
+[[src_kangourou_2015_marzo_student__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin gara individuale — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q29
 parent: src_kangourou_2022_benjamin_gara
 competition: Kangourou 2022 Benjamin gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di cubi dalle tre viste*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of cubes from three points of view*
+
+![[src_kangourou_2022_benjamin_gara__prob29.png]]
+
+> The three images show the view from above, from the front and from the right of a structure composed of cubes all equal to each other. What is the maximum number of cubes that could have been used to build the structure? A) 18
+>   
+> B) 19
+>   
+> C) 20 D) 21 E) 22
+
+**Answer:** B
+[[src_kangourou_2022_benjamin_gara__Q29]]

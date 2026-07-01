@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_biennio__Q06
 parent: src_archimede_2009_biennio
 competition: Giochi di Archimede 2009 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore x in griglia con somme uguali*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value x in the grid with equal sums*
+
+![[src_archimede_2009_biennio__prob6.png]]
+
+> 6) In the grid next to x is a number to be determined. You know you can write a number in every empty cell on the grid so that the sum of the three numbers on any line, column or diagonal is always the same. So x is:
+>
+> - **(A)** 0,
+> - **(B)** 1,
+> - **(C)** 3,
+> - **(D)** 6,
+> - **(E)** 9. 6 x 4 5
+
+**Answer:** A
+[[src_archimede_2009_biennio__Q06]]

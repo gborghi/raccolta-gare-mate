@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Ecolier — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_semifinale__Q06
 parent: src_kangourou_2019_ecolier_semifinale
 competition: Kangourou 2019 Semifinale Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Monete per sacco dati 42 sacchi divisi tra 41 persone*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tNc5SZ7vm6wp3SYyibXhYqSBPWtNBocw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Money per bag given 42 bags divided among 41 people< MSK1/>
+
+> There Baba and his forty thieves steal 42 bags of gold coins: each bag contains the same number of coins and all the coins are identical. Then they divide the loot into equal parts. Each receives a complete bag and two gold coins. How many coins does each bag contain? A) 41 B) 42 C) 81 D) 82 E) 84 Exit P Q R
+
+**Answer:** D
+[[src_kangourou_2019_ecolier_semifinale__Q06]]

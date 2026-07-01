@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q21
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Orthocentre H, centroids G1 G2 G3 of HBC HCA HAB form triangle of area 7, find area of ABC*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 63
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Orthocentro H, centroidi G1 G2 G3 di HBC HCA HAB formare un triangolo di area 7, trovare area di ABC*
+
+> Lasciate che $ABC$ sia un triangolo a angolo acuto e che $H$ sia il suo ortocentro. I centriodi dei triangoli $G_1$, $G_2$ e $G_3$ siano rispettivamente $HBC$, $HCA$ e $HAB$. Se l'area del triangolo $G_1 G_2 G_3$ è di 7 unità, qual è l'area del triangolo $ABC$?
+
+**Risposta:** 63
+[[src_prmo_2018__Q21]]

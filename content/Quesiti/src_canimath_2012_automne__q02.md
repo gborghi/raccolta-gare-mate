@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2012 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2012_automne__Q02
 parent: src_canimath_2012_automne
 competition: Coupe Animath Automne 2012
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cooking steaks optimally with one pan holding two*
 
@@ -49,3 +52,19 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Cucinazione ottimale delle bistecche con una padella contenente due < MSK1/>
+
+> Per preparare una bistecca, deve essere cucinata un minuto su ogni lato. Abbiamo solo una padella, in cui possiamo mettere al massimo due bistecche alla volta.
+> 
+> a) Come si possono preparare quattro bistecche in quattro minuti?
+> 
+> b) Come si possono preparare cinque bistecche in cinque minuti?
+> 
+> (Ovviamente non abbiamo bisogno di contare il tempo perso durante le manipolazioni.)
+
+[[src_canimath_2012_automne__Q02]]

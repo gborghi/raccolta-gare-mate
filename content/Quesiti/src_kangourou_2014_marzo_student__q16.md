@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q16
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *6 settimane = n! secondi*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>6 weeks = n! The value of the underlying asset shall be reported in the following column:
+
+> For what value of n is it true that 6 weeks is n? Seconds? (Remember that n! = n ∙ (n – 1) ∙ (n – 2) ∙ ... ∙ 3 ∙ 2 ∙ 1) A) 6
+> 	
+> B) 7
+> 	
+> C) 8
+> 	
+> D) 10
+> 	
+> E) 12
+
+**Answer:** D
+[[src_kangourou_2014_marzo_student__Q16]]

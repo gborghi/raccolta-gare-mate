@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Écolier (gara marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q20
 parent: src_kangourou_2017_ecolier_marzo
 competition: Kangourou 2017 Écolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di vedere due neonati senza iniziare dal leone*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How to see two newborns without starting with the lion< MSK1/>
+
+> A giraffe, an elephant, a lion and a bear were born recently at the zoo. Susanna has little time, but she wants to go see two different babies, but not start with the lion. How many different ways can you proceed? A) 3
+> 	
+> B) 7
+> 	
+> C) 8
+> 	
+> D) 9
+> 	
+> E) 12
+
+**Answer:** D
+[[src_kangourou_2017_ecolier_marzo__Q20]]

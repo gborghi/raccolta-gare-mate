@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2025-26 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2025-26_round1__Q06
 parent: src_bmo_2025-26_round1
 competition: British Mathematical Olympiad 2025-26 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Frogs on 1000 lily pads in circle: find n for which one frog remains*
 
@@ -51,3 +54,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qtpSNdEgAnOfGwr6LzwLIKEOWbpPsknq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rana su 1000 lampadine in cerchio: trovare n per cui rimane una rana*
+
+> Ci sono 1000 lampadine di lirio su un stagno disposte in cerchio e etichettate in ordine $1, 2, \ldots, 1000$. (I primi quattro blocchi di lilia possono essere descritti anche utilizzando rispettivamente le etichette 1001, 1002, 1003 e 1004).
+> 
+> Ogni minuto, esattamente una delle rane fa una mossa. Supponiamo che la rana sia su un lampadino. La rana può:
+> 
+> (i) Nuotare su un lampadino $k + 4$ o $k - 4$, purché non sia occupato; o
+> 
+> (ii) Salta al lily pad $k + 3$ o $k - 3$ purché questo lily pad non sia occupato e i due lily pad saltati siano entrambi occupati. Quando questo accade, le due rane che sono state saltate si immergono nel lago e non partecipano a ulteriori mosse.
+> 
+> Per quali valori di $n$ è possibile, mediante una sequenza di mosse, concludere con esattamente una rana rimasta sui pad del lilio?
+
+[[src_bmo_2025-26_round1__Q06]]

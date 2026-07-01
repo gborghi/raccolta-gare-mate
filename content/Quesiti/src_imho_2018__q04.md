@@ -1,6 +1,7 @@
 ---
 title: IMO 2018 (LIX International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2018__Q04
 parent: src_imho_2018
 competition: IMO 2018 (LIX International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Game on grid sites: find greatest K Amy can guarantee K red stones*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tvIX0rbY0Jiofkx0Jp_N_tsr4t5dB-fl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Game on grid sites: find greatest K Amy can guarantee K red stones
+
+> A site is any point $(x, y)$ in the plane such that $x$ and $y$ are both positive integers less than or equal to 20. Initially, each of the 400 sites is unoccupied. Amy and Ben take turns placing stones with Amy going first. On her turn, Amy places a new red stone on an unoccupied site such that the distance between any two sites occupied by red stones is not equal to $\sqrt{5}$. On his turn, Ben places a new blue stone on any unoccupied site. They stop as soon as a player cannot place a stone. Find the greatest $K$ such that Amy can ensure that she places at least $K$ red stones, no matter how Ben places his blue stones.
+
+[[src_imho_2018__Q04]]

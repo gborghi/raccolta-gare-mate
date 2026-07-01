@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2015 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo13mq_honsen__Q05
 parent: src_jjmo13mq_honsen
 competition: Japan Junior Mathematical Olympiad 2015 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2015 points, edges with pairwise angles over 90 degrees, max edges*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KO6vJDo2NFREQnMe8CLBm6pqNrYJc_o-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2015 punti, bordi con angoli in coppia superiori a 90 gradi, bordi massimi*
+
+> Nel piano, prendere $2015$ punti distinti, e unire alcune coppie di loro per bordi. Supponiamo che due bordi distinte che condividono un punto di fine comune formino un angolo maggiore di $90^\circ$. Trova il massimo valore possibile del numero di bordi.
+
+[[src_jjmo13mq_honsen__Q05]]

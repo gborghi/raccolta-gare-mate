@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student (20 marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student__Q07
 parent: src_kangourou_2003_student
 competition: Kangourou 2003 Student (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore piu probabile della differenza di due dadi*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most likely value of difference of two dice< MSK1/>
+
+> Let's draw two dice (with the faces numbered 1 to 6, as in use), look at the scores on the upper faces and calculate the difference. What is the most likely value for the absolute value of that difference? A) All numbers between 0 and 5 are equal B) 0 C) 1 D) 2 E) 3
+
+**Answer:** C
+[[src_kangourou_2003_student__Q07]]

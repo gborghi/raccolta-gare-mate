@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_biennio_online__Q12
 parent: src_archimede_2021_biennio_online
 competition: Giochi di Archimede 2021 - Gara Biennio (online)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo ottenuto prolungando i lati di DEF*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Zo7WSUv5KN16W_nTPuywBaG12u7UYl5I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of triangle obtained by extending the sides of DEF*
+
+> The area of the DEF triangle is 6 m2. Extend the DE side of a segment EE′ = DE; extend the EF side of a segment FF ′ = 2 EF; extend the FD side of a segment DD′ = 2 FD. What will be the area of D′E′F ′?
+>
+> - **(A)** 74 m2
+> - **(B)** 78 m2
+> - **(C)** 88 m2
+> - **(D)** 84 m2
+> - **(E)** 80 m2 Games of Archimedes 2021 - GARA BENNIO CODE PROVA 2035 - Exact answers
+
+**Answer:** D
+[[src_archimede_2021_biennio_online__Q12]]

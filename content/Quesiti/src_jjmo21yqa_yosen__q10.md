@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo21yqa_yosen__Q10
 parent: src_jjmo21yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Coprime-number game, count winning n for A*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 173
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11kigjl_Wt-al8ocndA12n0n3x8dtw2E3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco con numero di coprime, conteggio vincente n per A *
+
+> $n$ sia un numero intero con $3 \le n \le 2023$. I giocatori A e B giocano il seguente gioco. Prima A dice $n$, poi B e A eseguono alternativamente la seguente operazione: lasciando $x$ essere il numero che l'avversario ha appena detto, diciamo un intero positivo inferiore a $x$ che è coprime a $x$. Il gioco termina la prima volta che viene detto un divisore di $n$ che è inferiore a $n$; la persona che ha detto che perde e l'altro vince. Trova il numero di valori di $n$ per i quali A può sempre vincere indipendentemente dal modo in cui B gioca.
+
+**Risposta:** 173
+[[src_jjmo21yqa_yosen__Q10]]

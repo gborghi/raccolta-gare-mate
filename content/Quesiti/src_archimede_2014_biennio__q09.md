@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_biennio__Q09
 parent: src_archimede_2014_biennio
 competition: Giochi di Archimede 2014 - Biennio (Testo 1)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area esterna entro 1 cm da un pentagono regolare*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Oz_wj_o5ytBhbhCTfVi7OLptFspmtFPH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*External area within 1 cm of a regular pentagon*
+
+> A regular pentagon of 1 cm side is given; how many cm2 is the area of the set of points in the plane that are outside the pentagon and at most 1 cm away from it? (A) (5 + π), (B) (3/2 + 2π), (C) 7, (D) 8, (E) 3π.
+
+**Answer:** A
+[[src_archimede_2014_biennio__Q09]]

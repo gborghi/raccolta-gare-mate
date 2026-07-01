@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior (18 marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior__Q15
 parent: src_kangourou_2004_junior
 competition: Kangourou 2004 Junior (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Domande senza risposta dato punteggio 87*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Unanswered questions given score 87< MSK1/>
+
+> A closed response test (such as Kangourou) consists of 20 questions. For each correct answer, 7 points are awarded, while for each wrong answer, 2 points are subtracted. Unsubmitted replies have no effect (0 points of charge). You passed the test and scored 87 points. How many questions have you not answered? A) 2           B) 3            C) 4           D) 5           E) 6
+
+**Answer:** D
+[[src_kangourou_2004_junior__Q15]]

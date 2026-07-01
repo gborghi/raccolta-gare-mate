@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q09
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di zeri nella successione periodica a_i*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0672
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of zeros in the periodic succession to *
+
+> The commander of the Night's Watch uses functions to set calculations that warm his brain. For $x$ and $y$ positive integers, write $\operatorname{qu}(x, y)$ for the quotient of division of $x$ with $y$, i.e. that number $q$ such that $x - (q \times y)$ is a number between $0$ and $y-1$, extremes included (e.g., $\operatorname{qu}(13, 4) = 3$). Today he calculates numbers according to the following formula: $$a_i = (-1)^i + (-1)^{\operatorname{qu}(i,2)} + (-1)^{\operatorname{qu}(i,3)} + (-1)^{\operatorname{qu}(i,4)}.$$ By varying $i$ from $1$ to $2013$, extremes included, how many times does the commander find that the value of $a_i$ is $0$?
+
+**Answer:** 0672
+[[src_gs_2013_squadre__Q09]]

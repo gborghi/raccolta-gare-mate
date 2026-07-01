@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f1__Q01
 parent: src_obm_2003_n2_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle divided into 7 squares, smallest area 1, find rectangle area*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo diviso in 7 quadrati, area più piccola 1, trova area rettangolare*
+
+> Il rettangolo nella figura di seguito è diviso in 7 quadrati. Se la superficie del più piccolo quadrato è 1, la superficie del rettangolo è:
+> 
+> (A) 42 \quad (B) 44 \quad (C) 45 \quad (D) 48 \quad (E) 49
+
+![[src_obm_2003_n2_f1__Q01.png]]
+
+**Risposta:** C
+[[src_obm_2003_n2_f1__Q01]]

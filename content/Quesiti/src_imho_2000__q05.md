@@ -1,6 +1,7 @@
 ---
 title: IMO 2000 (XLI International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2000__Q05
 parent: src_imho_2000
 competition: IMO 2000 (XLI International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *N divisible by just 2000 distinct primes, power of 2 condition*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1SxIaq8osFL-pFpQf_5H4v7VWykrNDr0_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*N divisible by just 2000 distinct primes, power of 2 condition*
+
+> Can we find $N$ divisible by just 2000 different primes, so that $N$ divides $2^N + 1$? [N may be divisible by a prime power.]
+
+[[src_imho_2000__Q05]]

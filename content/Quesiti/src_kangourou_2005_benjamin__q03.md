@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q03
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimi spostamenti canguri 2 per riga e colonna*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum kangaroo movements 2 per row and column*
+
+![[src_kangourou_2005_benjamin__prob3.png]]
+
+> There are eight kangaroos in the boxes on the right. Find the minimum number of kangaroos that you can change the box if you want every row and column in the table to contain exactly 2 kangaroos. A) 0 B) 1 C) 2 D) 3 E) 4
+
+**Answer:** C
+[[src_kangourou_2005_benjamin__Q03]]

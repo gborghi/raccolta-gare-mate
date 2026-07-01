@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2015 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2015_printemps__Q05
 parent: src_canimath_2015_printemps
 competition: Coupe Animath Printemps 2015
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2015 positive integers on circle; find two neighbors whose removal unbalances equal-sum split*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2015 numeri interi positivi sul cerchio; trovare due vicini la cui rimozione sbilanci la divisione di somma uguale*
+
+> I numeri interi $2015$ strettamente positivi sono posizionati intorno a un cerchio. Prove che è possibile trovare due integri vicini in modo tale che, dopo averli rimossi, i numeri rimanenti non possano essere divisi in due gruppi con somma uguale.
+
+[[src_canimath_2015_printemps__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_mumbai__Q01
 parent: src_rmo_2014_mumbai
 competition: Regional Mathematical Olympiad 2014
@@ -39,6 +40,8 @@ tags:
   - regione/r5
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine if three positive reals satisfying a quartic relation form triangle sides*
 
@@ -51,3 +54,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xhSfT_YS9hyqePqUnTAQeZVYK635GxN9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Determine se tre reali positivi che soddisfano una relazione quarticco formano lati del triangolo*
+
+> Tre numeri reali positivi $a, b, c$ sono tali che $a^2 + 5b^2 + 4c^2 - 4ab - 4bc = 0$. $a, b, c$ può essere la lunghezza dei lati di un triangolo? Giustifica la tua risposta.
+
+*Apparizioni nelle regioni: Mumbai, Regione 5.*
+
+[[src_rmo_2014_mumbai__Q01]]

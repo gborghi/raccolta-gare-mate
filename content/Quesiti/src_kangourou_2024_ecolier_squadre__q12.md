@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre__Q12
 parent: src_kangourou_2024_ecolier_squadre
 competition: Kangourou Squadre 2024 Ecolier Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero con resto uguale al quoziente per 45*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2024
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number with remainder equal to the quotient for 45*
+
+> Quotient and remainder The number 46, if you divide by 45, gives you a remainder of 1, equal to the quotient. What is the largest integer that, divided by 45, gives a residual equal to the quotient? The answer is 2024. The solution.
+
+**Answer:** 2024
+[[src_kangourou_2024_ecolier_squadre__Q12]]

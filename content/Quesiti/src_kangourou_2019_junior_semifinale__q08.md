@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Junior — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q08
 parent: src_kangourou_2019_junior_semifinale
 competition: Kangourou 2019 Semifinale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero centrale nell allineamento 1-17 con somme quadrati*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Central number in alignment 1-17 with sums squared*
+
+> (Points 5) The integers from 1 to 17 included have been aligned so that the sum of two consecutive numbers is always a perfect square (and of course in the alignment each appears once and only once). What number is in the centre of the alignment? A) 3               B) 4
+> 	
+> C) 14 D) 13 E) 12 (72019)2 - (72017)2 ----------------------------- (72018)2 - (72016)2 A B C D E
+
+**Answer:** E
+[[src_kangourou_2019_junior_semifinale__Q08]]

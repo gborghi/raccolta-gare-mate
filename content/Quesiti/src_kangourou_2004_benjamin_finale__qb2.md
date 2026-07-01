@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin finale nazionale — Quesito B2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin_finale__QB2
 parent: src_kangourou_2004_benjamin_finale
 competition: Kangourou 2004 Benjamin finale nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi vince il gioco di taglio delle corde*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** parita tagli
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DTuTa9-8gf07gHbV5tJLp1dknhFcY163/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who wins the rope-cutting game
+
+> Stephen and John have a red rope and a blue one (over 20 centimeters long). They intend to play as follows: in turn they will cut from one of the ends of one of the two strings a piece that must be $4$ centimeters long if the player chooses the red string or $5$ centimeters if the player chooses the blue string. He will lose the first of the two who will no longer be able to cut, that is, he will find himself with the red rope less than < MSK2/> centimetres long and the blue rope less than < MSK3/> centimetres long. He's going to start the game Stefano. How, by knowing the length of the two ropes, can we know from the beginning whether Stephen or John will win?
+
+**Answer:** parita tagli
+[[src_kangourou_2004_benjamin_finale__QB2]]

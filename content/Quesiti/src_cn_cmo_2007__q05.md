@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2007 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2007__Q05
 parent: src_cn_cmo_2007
 competition: China Mathematical Olympiad 2007
@@ -32,6 +33,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bounded sequence satisfying sum condition; prove aₙ < 1/n*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza limitata che soddisfa la condizione di somma; dimostrare un < 1/n*
+
+> Supponiamo che una sequenza di numeri limitata $\{a_n\}$ soddisfi $$a_n \leq \sum_{k=n}^{2n+2006} \frac{a_k}{k+1}, \quad n = 1, 2, 3, \cdots.$$ Provi che $a_n < \frac{1}{n}$, $n = 1, 2, 3, \cdots$.
+
+[[src_cn_cmo_2007__Q05]]

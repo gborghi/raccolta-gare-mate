@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Semifinale individuale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q01
 parent: src_kangourou_2017_junior_semifinale
 competition: Kangourou 2017 Junior - Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo medio in poligono convesso di 10 lati*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wcjQloPFR27i6zyeHrMFz2T13JxlzXfM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Middle angle in a 10-sided convex polygon*
+
+> 2x > 130 2) x < 100 3) 3x > 50 4) x > 20 5) x > 15 two are true and three are false, what are the real ones? (A) La 1) e la 3). (B) La 2) e la 3). (C) La 2) e la 4). (D) La 2) e la 5). (E) La 4) e la 5).
+
+**Answer:** C
+[[src_kangourou_2017_junior_semifinale__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2025 — Selection Camp — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2025__Q06
 parent: src_selection_camp_2025
 competition: Japan IMO Selection Camp 2025 — Selection Camp
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with incenter, arc-midpoints and auxiliary circles; prove tangency*
 
@@ -45,3 +48,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_hAtW-_q2-uMzqzRMHgBP6hcqovxL3Oj/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con incentro, centri-arco e cerchi ausiliari; prova di tangenza*
+
+> Il $ABC$ deve essere un triangolo con $AB < AC < BC$ e incentro $I$. Le linee $AI$, $BI$, $CI$ incontrano nuovamente il circoncircolo di $ABC$ (al punto diverso da $A$, $B$, $C$) rispettivamente a $M_A$, $M_B$ e $M_C$. Utilizzando questi punti, un punto ausiliario $X$ e ulteriori punti $P$, $Q$ sono costruiti attraverso linee e cerchi aggiuntivi attraverso $M_A$, $M_B$, $M_C$ (vedere figura). Provare la tangenza / collinearità risultante indicata nella figura. (Qui $UV$ indica la lunghezza del segmento $UV$.)
+
+![[src_selection_camp_2025__Q06.png]]
+
+[[src_selection_camp_2025__Q06]]

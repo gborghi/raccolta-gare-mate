@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2019 - 2° livello — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_2livello__Q01
 parent: src_archimede_2019_2livello
 competition: Archimede Gara di Febbraio 2019 - 2° livello
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo isoscele, bisettrice e cerchio per punto medio*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Isosceles triangle, bisector and center circle*
+
+> Luigi drew on his notebook an isosceles triangle ABC in which the sides emanating from A are equal and, after drawing the inner bisector at the angle \ ABC that intersects the AC side in P, he noticed that the circumference for B, P, C also passed through the middle point of AB. The question then arose as to what the value of the angle \ BAC was. What's the correct answer?
+>
+> - **(A)** 30°
+> - **(B)** 45°
+> - **(C)** 60°
+> - **(D)** 90°
+> - **(E)** 105°
+
+**Answer:** C
+[[src_archimede_2019_2livello__Q01]]

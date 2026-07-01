@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q16
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei dieci angoli su cinque rette per P*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of ten corners on five lines per P*
+
+![[src_kangourou_2005_junior__prob16.png]]
+
+> Five different lines pass through the same point P and two points are fixed on each of them, different from P and opposite to P: the five triangles shown in the figure are obtained by joining the ten points in question together. How many degrees does the sum of the ten angles shown in the figure measure? A) 300 B) 450 C) 360 D) 600 E) 720
+
+**Answer:** E
+[[src_kangourou_2005_junior__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q13
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four friends, card claims, exactly one false; who made the false claim*
 
@@ -57,3 +60,23 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro amici, richieste di carta, esattamente una falsa; che ha fatto la richiesta falsa*
+
+> Quattro amici, Arnaldo, Bernaldo, Cernaldo e Dernaldo giocano a carte. Ci sono diverse schede $20$, ciascuna carta ha uno dei colori $4$ (blu, giallo, verde, rosso) e un numero da $1$ a $5$. Ogni amico riceve cinque carte, in modo che vengano distribuite tutte. Essi fanno le seguenti dichiarazioni:
+>
+> Arnaldo: "Ho quattro carte con lo stesso numero". Bernaldo: "Ho le cinque carte rosse". Cernaldo: "Le mie cinque carte sono di colori che iniziano con la lettera V". Dernaldo: "Ho tre carte di un numero e due carte di un altro numero".
+>
+> È noto che solo una delle affermazioni è falsa. Chi ha fatto quella dichiarazione?
+>
+> - **(A)** Arnaldo
+> - **(B)** Bernaldo
+> - **(C)** Cernaldo
+> - **(D)** Dernaldo
+> - **(E)** Non è possibile determinarlo.
+
+[[src_obm_2010_n2_f1__Q13]]

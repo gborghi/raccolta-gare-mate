@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Biennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_biennio__Q18
 parent: src_archimede_2008_biennio
 competition: Giochi di Archimede 2008 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto DC su DE da rapporto aree in rettangolo*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*DC report on DE by ratio of rectangular areas*
+
+> In an ABCD rectangle is E a point on the side of the CD. Knowing that the area of the ADE triangle is one fifth of the area of the ABCE trapezoid, calculate the ratio between the length of the DC segment and that of the DE segment.
+>
+> - **(A)** 2,
+> - **(B)** 3,
+> - **(C)** 4,
+> - **(D)** 5,
+> - **(E)** 6.
+
+**Answer:** B
+[[src_archimede_2008_biennio__Q18]]

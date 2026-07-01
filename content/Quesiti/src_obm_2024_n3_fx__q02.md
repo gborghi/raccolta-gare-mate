@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2024 — Nível 3 — Fase x — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_n3_fx__Q02
 parent: src_obm_2024_n3_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível 3 — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equilateral triangles on hypotenuse; intersection of cevians equals product of segments*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangoli equilaterali sull'ipotenusa; intersezione dei ceviani è uguale al prodotto dei segmenti*
+
+> Che $ABC$ sia un triangolo rettangolo a $B$, con altitudine $BT$ sull'ipotenusa $AC$. Costruire i triangoli equilaterali $BTX$ e $BTY$ in modo tale che $X$ sia situato sullo stesso lato di $BT$ rispetto a $A$ e $Y$ sia situato sullo stesso lato di $BT$ rispetto a $C$. Il $P$ deve essere l'intersezione di $AY$ e $CX$. Provare che < MSK0/>
+
+[[src_obm_2024_n3_fx__Q02]]

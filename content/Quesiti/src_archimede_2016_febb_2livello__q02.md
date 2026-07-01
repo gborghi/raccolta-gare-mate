@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2016 - 2 livello — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_febb_2livello__Q02
 parent: src_archimede_2016_febb_2livello
 competition: Archimede Gara di Febbraio 2016 - 2 livello
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle unita di 150X con esattamente un manoscritto falso*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WjYsXx25mj1TfZaCRYUsoX4KBtCIbL6j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*150X unit code with exactly a false manuscript*
+
+> 2. An ancient text states that Jerusalem lived 150♦years, where the symbol ♦ replaces the number of units, which scholars cannot read. Fortunately, we have three other manuscripts on the life of Jerusalem; the first claims that he lived an equal number of years, the second that he lived a multiple of 3, the third that he lived a multiple of 5. Knowing that exactly one of these three manuscripts contains false information, how many different digits could be hidden behind the symbol ♦? (A) None (B) One (C) Two (D) Three (E) Four
+
+**Answer:** B
+[[src_archimede_2016_febb_2livello__Q02]]

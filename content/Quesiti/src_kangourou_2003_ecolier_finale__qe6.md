@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier finale nazionale — Quesito E6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier_finale__QE6
 parent: src_kangourou_2003_ecolier_finale
 competition: Kangourou 2003 Ecolier finale nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di percorsi da P a Q (verso il basso)*
 
@@ -57,3 +60,33 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 20
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K82beAyOpLONvc5G6hM8HqH2YHqU6t2R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of paths from P to Q (downwards) *
+
+![[src_kangourou_2003_ecolier_finale__probE6.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.9]
+  \draw (0,3) -- (-3,0);
+  \draw (1,2) -- (-2,-1);
+  \draw (2,1) -- (-1,-2);
+  \draw (3,0) -- (0,-3);
+  \draw (0,3) -- (3,0);
+  \draw (-1,2) -- (2,-1);
+  \draw (-2,1) -- (1,-2);
+  \draw (-3,0) -- (0,-3);
+  \node[above] at (0,3) {$P$};
+  \node[below] at (0,-3) {$Q$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Look at the figure. It can be moved from $P$ to $Q$ only by following the lines drawn and only by moving from top to bottom. How many possible routes to go from $P$ to $Q$? (see figure)
+
+**Answer:** 20
+[[src_kangourou_2003_ecolier_finale__QE6]]

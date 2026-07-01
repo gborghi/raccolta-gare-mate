@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q19
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale costruzione di cubetti non e realizzabile*
 
@@ -38,3 +41,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which construction of cubes is not feasible*
+
+![[src_kangourou_2008_benjamin_marzo__prob19.png]]
+
+> The construction you see on the right is done using 5 equal cubes. You can move only one, put it in the position you want. Which of the underlying constructions (which are seen from different angles) can you not make ?
+
+**Answer:** C
+[[src_kangourou_2008_benjamin_marzo__Q19]]

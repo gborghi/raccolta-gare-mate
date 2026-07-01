@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f1__Q14
 parent: src_obm_2008_n2_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ways to make R\$10.00 with 10c and 25c coins, at least one each*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Medi per fare R\$10.00 con monete 10c e 25c, almeno una ciascuna*
+
+> In quanti modi possiamo dividere R\$10.00 into coins of $10$ centavos and of $25$ centavos, using at least one coin of each type? (A) $15$ \quad (B) $16$ \quad (C) $17$ \quad (D) $18$ \quad (E) $19$
+
+[[src_obm_2008_n2_f1__Q14]]

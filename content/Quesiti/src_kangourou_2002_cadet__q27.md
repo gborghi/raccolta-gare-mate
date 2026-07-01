@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q27
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti con una sola faccia pitturata*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Cubets with a single painted face< MSK1/>
+
+> A cube with a side length of 5 cm is made up of side cubes of 1 cm. Let's take three rows of cubes as shown in the figure and dip the remaining solid in a paint jug. How many cubes have one painted face?
+>  
+> A. 30 B. 26 C. 40        D. 48         E. 24.
+
+**Answer:** E
+[[src_kangourou_2002_cadet__Q27]]

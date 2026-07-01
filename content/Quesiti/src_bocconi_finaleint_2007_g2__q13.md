@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 2) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g2__Q13
 parent: src_bocconi_finaleint_2007_g2
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare il patron del sudo-cubo 2×2×2 con quattro colori*
 
@@ -55,3 +58,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 2 soluzioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete the south cube pattern 2×2×2 with four colors*
+
+> Each face of the cube is a square of $2 \times 2$ boxes. Each of the twenty-four boxes is colored with the help of a color chosen from four colors. Two boxes containing the same color cannot touch each other, not even diagonally. Each colour shall be: - present once on each of the $6$ sides of the cube; - met twice when a rotation of the cube is made following each of the six trajectories perpendicular to one side of the box.
+> 
+> **Complete the cube pattern.** Note: In the drawing, the colors are represented by the digits from $1$ to $4$. Two different patrons of the same cube will be considered as one and the same solution.
+
+![[src_bocconi_finaleint_2007_g2__Q13.png]]
+
+**Answer:** 2 soluzioni
+[[src_bocconi_finaleint_2007_g2__Q13]]

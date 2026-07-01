@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2021__Q02
 parent: src_tfjm_2021
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021
@@ -38,6 +39,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-player token elimination game on a row using offset sets; analyze winning strategies and periodicity*
 
@@ -74,3 +77,37 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_SfCnSHm4hFbj_TGxa2GoahJiFYpdibk/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di eliminazione dei token per due giocatori su una riga utilizzando set di compensazione; analizzare le strategie vincenti e la periodicità*
+
+> Baptiste e Carole giocano il gioco della battaglia in fila.
+> 
+> Baptiste e Carole hanno ognuno una fila di token $n \ge 1$, numerati da $1$ a $n$. A ciascuno di essi viene assegnato un insieme di numeri interi, chiamato un insieme di compensazioni. Scriviamo $B$ per l'insieme di compensazioni di Baptiste e $C$ per Carole.
+> 
+> Baptiste e Carole suonano a turno, a partire da Baptiste. A sua volta, Baptiste deve eliminare uno dei token rimanenti dell'avversario, numerato $j$; per farlo sceglie un offset $j-i$ nel suo set $B$, quindi Carole deve eliminare uno dei token di Baptiste numerato $i$, scegliendo un offset $j-i$ nel suo set $C$. Se uno dei due giocatori non può più giocare, ha perso e il suo avversario ha vinto.
+> 
+> Ad esempio, se $n=4$, $B=\{0,1\}$ e $C=\{-1,0\}$, è possibile giocare e è illustrato nella figura 1. Le cellule di Baptiste sono nella fila superiore, di Carole nella fila inferiore (in arancione).
+> 
+> Una strategia vincente per un giocatore è la scelta, per ogni possibile configurazione di gioco, di una mossa da giocare. Diciamo che un giocatore ha una strategia vincente se, giocando la sua strategia, può vincere la partita indipendentemente dal modo in cui il suo avversario gioca.
+> 
+> In tutta questa domanda supponiamo che $B=C$. Per quale Battista ha una strategia vincente? Studiare in particolare il caso $B=C=\{-1,0,1\}$ e il caso $B=C=\{0,1\}$.
+> 
+> < MSK5/>(2) < MSK6/> Lasciate < MSK0/>. Supponiamo $B=\{-n,-n+1,\ldots,n-1,n\}$ e $C=\{-n,-n+1,\ldots,k-1,k+1,\ldots,n-1,n\}$ (Carole è privato dell'offset $k$). - Chi vince? Ripensare la questione se è Baptiste che è privato dell'offset $k$.
+> 
+> **(3) ** Rivisitare la domanda precedente considerando invece altre serie $B$ e $C$. Si possono considerare $B=\{0,1\}$, $C=\{-1,0\}$; oppure invece $B=\{x,y\}$, $C=\{-x,-y\}$ con $x$ e $y$ due integri distinti; o più in generale il caso in cui $B$ e $C$ siano simmetrici, ovvero: $-k$ è in $C$ se e solo se $k$ è in $B$.
+> 
+> **(4) ** Fix $B$, $C$, e lasciare $(u_n)_{n\in\mathbb{N}}$ essere la sequenza in cui $u_n$ equivale $1$ se Baptiste vince la partita nella configurazione con celle $n$, e $0$ altrimenti. Descrivere le possibili sequenze $(u_n)$. In particolare, questa sequenza è sempre periodica da un certo rango? Tra le sequenze che alla fine sono periodiche, quali periodi sono possibili?
+> 
+> Arthur, che guarda le partite, le trova troppo lunghe. Propone di modificare la regola: a sua volta, un giocatore elimina uno dei suoi token rimanenti, numerato $i$, così come tutti i token rimanenti dell'avversario il cui numero $j$ è tale che $j-i$ sia nel suo insieme di compensazioni. Può succedere che un giocatore elimini tutti i token rimanenti dell'avversario; allora quel giocatore non può più giocare, ha perso, e il suo avversario ha vinto.
+> 
+> **(5) ** Rivisitare le domande precedenti con questa nuova regola.
+> 
+> **(6) ** Proporre e studiare altre direzioni di ricerca.
+
+![[src_tfjm_2021__Q02.png]]
+
+[[src_tfjm_2021__Q02]]

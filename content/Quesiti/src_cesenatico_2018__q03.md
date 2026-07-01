@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2018__Q03
 parent: src_cesenatico_2018
 competition: Olimpiade Italiana (Cesenatico) 2018 - testi
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *somma degli inversi < 3*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fy9Va9QicHHzBeW4fO7hA8uL1tF3cN1L/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>sum of reverses < 3< MSK1/>
+
+> They're x1, x2, . . . , xn positive integers. Let's assume that, in their decimal writing, none of xi is an extension of another xj. For example, 123 is an extension of 12, and 459 is an extension of 4, but 134 is not an extension of 123. Prove that 1 x1 + · · + 1 xn < 3.
+
+[[src_cesenatico_2018__Q03]]

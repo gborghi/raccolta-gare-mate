@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q23
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di gatte finaliste (insiemi)*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of finalist cats (total) < MSK1/>
+
+> There are 66 cats in the Miss Cat 2013 competition. Twenty-one were eliminated because they failed the rat test. Of the rest, 27 have at least two colors of hair and 32 have a white tail. All cats with at least two colors of hair and a white tail are in the final. So the smallest possible number of finalist cats is A) 5.
+>       	
+> B) 7. C) 13.
+>         	
+> D) 14.               	 E) 27.
+
+**Answer:** D
+[[src_kangourou_2013_benjamin__Q23]]

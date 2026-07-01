@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1976-77 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1976-77_round2__Q03
 parent: src_bmo_1976-77_round2
 competition: British Mathematical Olympiad 1976-77 — Round 2
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Either solve linear Diophantine equation or prove AP has infinite subset with same prime divisors*
 
@@ -51,3 +54,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PfHyGgG6orc2O_4a738MuIYaBULKOH3v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+O risolvi l'equazione diofantina lineare o prova che AP ha un sottoinsieme infinito con gli stessi divisori primari
+
+> EITHER (a) Prova che se $n$ è un dato numero intero, allora l'equazione $$10x + 13y - 27z = n$$ ha una soluzione in numeri interi $x$, $y$, $z$.
+> 
+> O (b) Prova che nella progressione aritmetica $$a, \; a+d, \; a+2d, \; \ldots, \; a+nd, \; \ldots$$ dove $a$, $d$ sono interi positivi, esiste un insieme infinito di termini con gli stessi divisori primi.
+
+[[src_bmo_1976-77_round2__Q03]]

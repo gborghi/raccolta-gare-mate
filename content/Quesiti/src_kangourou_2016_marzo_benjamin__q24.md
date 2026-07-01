@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q24
 parent: src_kangourou_2016_marzo_benjamin
 competition: Kangourou 2016 gara 17 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti tavoli*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1nld6l3RD6emhTglIXueL7F2OJGTBOKRG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many tables< MSK1/>
+
+> Luigi started a small restaurant. His friend James gave him some square tables and chairs. If Luigi wanted to use each of these tables in isolation and put four chairs per table, he would need six more chairs. If he wanted to bring the tables together in pairs and put six chairs per double table, four chairs would advance him. How many tables did James give to Louis ? A) 8
+> 	
+> B) 10
+> 	
+> C) 12
+> 	
+> D) 14
+> 	
+> E) 16
+
+**Answer:** B
+[[src_kangourou_2016_marzo_benjamin__Q24]]

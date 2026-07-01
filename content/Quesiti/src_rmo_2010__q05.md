@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2010 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2010__Q05
 parent: src_rmo_2010
 competition: Regional Mathematical Olympiad 2010
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Reflection of A in angle-bisector line EF lies on BC*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aVby8WZOV-C-DbSWzX_wHkbgcf5ZsISp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il riflesso di A nella linea di angolo-bisettore EF si trova su BC*
+
+> $ABC$ sia un triangolo in cui $\angle A = 60^\circ$. I segmenti $BE$ e $CF$ siano i bisettori degli angoli $\angle B$ e $\angle C$ con $E$ su $AC$ e $F$ su $AB$. Il $M$ deve essere il riflesso di $A$ nella riga $EF$. Provare che $M$ si trova su $BC$.
+
+![[src_rmo_2010__Q05.png]]
+
+[[src_rmo_2010__Q05]]

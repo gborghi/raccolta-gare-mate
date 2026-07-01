@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f1__Q08
 parent: src_obm_1998_n3_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum number of sides of a convex polygon whose interior angles are all smaller than 160 degrees (and cannot equal 160).*
 
@@ -56,3 +59,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero massimo di lati di un poligono convex i cui angoli interni sono tutti inferiori a 160 gradi (e non possono essere uguali a 160).*
+
+> Tutti gli angoli interni di un poligono converso sono inferiori a (non possono essere uguali a) $160^\circ$. Il numero di lati di questo poligono è, al massimo, uguale a:
+> 
+> A) 14
+> 
+> B) 15
+> 
+> C) 16
+> 
+> D) 17
+> 
+> E) 18
+
+**Risposta:** D
+[[src_obm_1998_n3_f1__Q08]]

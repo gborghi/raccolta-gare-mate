@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r1__Q01
 parent: src_pol_1997_r1
 competition: Olimpiade Matematica Polacca 1997 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve a system of two equations involving signed absolute values of x and y.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J1ktv1YQ9-pGG7jFVVATHBI82SdVVsMb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi un sistema di due equazioni che coinvolgono valori assoluti firmati di x e y.*
+
+> Risolvere il sistema di equazioni $x|x| + y|y| = |x| + |y| = 1$.
+
+[[src_pol_1997_r1__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre_f2__Q02
 parent: src_kangourou_2023_kangourou_squadre_f2
 competition: Kangourou Squadre 2023 Kangourou Finale 2
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante ragazze dato voto medio esame*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0126
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many girls have passed average exams< MSK1/>
+
+> Examination A university examination was taken by 210 students. The average score (in thirty) reported by the girls is 25, the average score reported by the boys is 20; the average score calculated for all participants is 23. How many girls have passed the exam?
+
+**Answer:** 0126
+[[src_kangourou_2023_kangourou_squadre_f2__Q02]]

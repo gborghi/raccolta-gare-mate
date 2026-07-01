@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q15
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two small squares inside big square: area of unpainted region*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due piccole quadrate all'interno di un grande quadrato: area di regione non dipinta*
+
+> Il disegno a destra mostra due quadrati congruenti più piccoli di lato 20 all'interno di un quadrato più grande. Il vertice $O$ è l'unico punto comune dei due quadrati più piccoli ed è anche il centro del quadrato più grande. I vertici $A$, $O$ e $B$ sono collineari e $O$ è il centro del quadrato più grande. L'area della regione del quadrato più grande che non è stata dipinta è pari al 36\% dell'area totale della regione dipinta. Qual è l'area del quadrato più grande?
+>
+> - **(A)** 420
+> - **(B)** 496
+> - **(C)** 576
+> - **(D)** 640
+> - **(E)** 900
+
+![[src_obm_2006_n1_f1__Q15.png]]
+
+**Risposta:** E
+[[src_obm_2006_n1_f1__Q15]]

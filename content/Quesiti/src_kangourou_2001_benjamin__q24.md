@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q24
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del quadrato obliquo*
 
@@ -54,3 +57,32 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Oblique square area *
+
+![[src_kangourou_2001_benjamin__prob24.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw[thick] (-2,-2) -- (2,-2) -- (2,2) -- (-2,2) -- cycle;
+  \draw[thick] (-1,-1) -- (1,-1) -- (1,1) -- (-1,1) -- cycle;
+  \draw[thick,dashed] (1,-2) -- (2,1) -- (-1,2) -- (-2,-1) -- cycle;
+\end{tikzpicture}
+\end{document}
+```
+
+> The largest square has an area of 16, the smallest has an area of 4. What's the area of the square in an oblique position?
+>
+> - **(A)** 8
+> - **(B)** 8,5
+> - **(C)** 10
+> - **(D)** 10,5
+> - **(E)** 12.
+
+**Answer:** C
+[[src_kangourou_2001_benjamin__Q24]]

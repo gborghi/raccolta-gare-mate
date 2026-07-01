@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2012 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2012__Q07
 parent: src_bocconi_squadre_2012
 competition: Gara a Squadre 2012
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli con vertici tra 10 punti su una circonferenza*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 120
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangles with vertices between 10 points on a circumference*
+
+> Consider on a circumference $10$ points and all triangles whose vertices are three of the $10$ points considered.
+> 
+> **How many triangles are these? **
+
+**Answer:** 120
+[[src_bocconi_squadre_2012__Q07]]

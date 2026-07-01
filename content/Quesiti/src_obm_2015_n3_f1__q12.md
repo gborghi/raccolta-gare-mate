@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q12
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle relation in triangle ABC with midpoint M of AB and given side lengths*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Relazione angolare nel triangolo ABC con punto medio M di AB e lunghezze laterali date*
+
+> In triangolo $ABC$, $AB = 2$ e $BC = \sqrt{2}$. Il punto medio del lato $AB$ è $M$. Set $\alpha = m(\widehat{BAC})$, $\beta = m(\widehat{MBC})$ e $\gamma = m(\widehat{BMC})$. Allora:
+> 
+> (A) $\alpha + \beta = \gamma$ \quad (B) $\alpha + \beta = 2\gamma$ \quad (C) $\alpha + \beta + \gamma = 180^\circ$ \\ (D) $\alpha + \beta = 90^\circ$ \quad (E) $\alpha = 45^\circ$
+
+**Risposta:** D
+[[src_obm_2015_n3_f1__Q12]]

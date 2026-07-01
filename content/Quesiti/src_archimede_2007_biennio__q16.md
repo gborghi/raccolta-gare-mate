@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2007 - Gara Biennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_biennio__Q16
 parent: src_archimede_2007_biennio
 competition: Giochi di Archimede 2007 - Gara Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Contenuto del tubetto di dentifricio prima della riduzione*
 
@@ -46,3 +49,20 @@ tags:
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Content of toothpaste before reduction*
+
+> A toothpaste manufacturer reduces the contents of each toothpaste tube by 20 grams and leaves the price unchanged. He estimates that this will increase the price of one pound of toothpaste by 25%. How much toothpaste did each tube contain before the reduction?
+>
+> - **(A)** 100 g,
+> - **(B)** 120 g,
+> - **(C)** 125 g,
+> - **(D)** 150 g,
+> - **(E)** 160 g.
+
+**Answer:** A
+[[src_archimede_2007_biennio__Q16]]

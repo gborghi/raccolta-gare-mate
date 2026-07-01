@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_biennio__Q01
 parent: src_archimede_2018_biennio
 competition: Giochi di Archimede 2018 - Biennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Indicare la piu piccola tra cinque frazioni n+1/n*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Indicate the smallest of five fractions n+1/n*
+
+> Indicate the smallest of these fractions.
+>
+> - **(A)** 2016 2015
+> - **(B)** 2015 2014
+> - **(C)** 2017 2016
+> - **(D)** 2019 2018
+> - **(E)** 2018 2017
+
+**Answer:** D
+[[src_archimede_2018_biennio__Q01]]

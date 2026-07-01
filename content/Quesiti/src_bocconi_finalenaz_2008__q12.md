@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2008 — Quesito
   12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2008__Q12
 parent: src_bocconi_finalenaz_2008
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2008
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza dal punto di partenza del centro di una palla da biliardo al 59 rimbalzo lanciata a 45 gradi.*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $1{,}5\sqrt{2}$ m, circa 2,12 m
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance from the starting point of the centre of a billiards ball to 59 bounce thrown at 45 degrees.*
+
+> Amerigo plays pool on a rectangular pool of 2.06 m by 3.06 m. Its ball (6 cm in diameter) is placed in the middle of one of the two long sides of the pool and Amerigo makes it roll, without effects, at an angle of $45^\circ$ relative to the pool side. Assuming Amerigo has pulled hard enough, how far from the starting point will the center of the ball be at the time of the MSK1/> bounce? Give the answer in meters, rounding to centimeters. It's closer. In the final result statement, if necessary, $1{,}414$ for $\sqrt{2}$; $2{,}236$ for $\sqrt{5}$; $3{,}162$ for $\sqrt{10}$; $3{,}606$ for $\sqrt{13}$ and $4{,}123$ for $\sqrt{17}$ shall be taken.
+
+**Answer:** $1{,}5\sqrt{2}$ m, circa 2,12 m
+[[src_bocconi_finalenaz_2008__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2020 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2020__Q01
 parent: src_cn_csmo_2020
 competition: China Southeastern Mathematical Olympiad 2020
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Permutation of 1..17 with cyclic product equal to 2^t, find max t*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 38
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Permutazione di 1,17 con prodotto ciclico uguale a 2^t, ritrovare massimo t< MSK1/>
+
+> Che $a_1, a_2, \ldots, a_{17}$ sia una permutazione di $1, 2, \ldots, 17$, soddisfacendo tale $(a_1 - a_2)(a_2 - a_3) \cdots (a_{16} - a_{17})(a_{17} - a_1) = 2^t$. Trova il valore massimo del numero intero $t$.
+
+**Risposta:** 38
+[[src_cn_csmo_2020__Q01]]

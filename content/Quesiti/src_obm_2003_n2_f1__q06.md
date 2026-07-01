@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f1__Q06
 parent: src_obm_2003_n2_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Units digit of n^n - n^2 for n=9867*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Unità di n^n - n^2 per n=9867*
+
+> Let < MSK0/>. Se si calcola $n^n - n^2$, si trova un numero il cui numero unitario è:
+> 
+> (A) 1 \quad (B) 2 \quad (C) 4 \quad (D) 6 \quad (E) 8
+
+**Risposta:** C
+[[src_obm_2003_n2_f1__Q06]]

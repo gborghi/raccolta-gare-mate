@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f2__Q04
 parent: src_obm_2015_n2_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum boxes to store 2015 water bottles and 2015 orange juice cartons*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wtMtyPWLae_AdePjQMTVUzlH24sGYDuO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Casse minime per la conservazione delle bottiglie d'acqua 2015 e delle scatole di succo d'arancia 2015*
+
+> Una fabbrica dispone di diverse scatole, ciascuna con una capacità di < MSK0/> litri. Ha bottiglie d'acqua $2015$, ciascuna contenente $3$ litri, e scatole di succo d'arancia $2015$, ciascuna contenente $5$ litri. Ogni scatola può contenere qualsiasi combinazione di bottiglie e cartoni, purché il loro volume totale non superi la capacità della scatola. Nessuna scatola può essere sovraempempiegata. Qual è il numero minimo di scatole di cui ha bisogno l'azienda per immagazzinare tutte le bottiglie e tutte le scatole che ha prodotto?
+
+[[src_obm_2015_n2_f2__Q04]]

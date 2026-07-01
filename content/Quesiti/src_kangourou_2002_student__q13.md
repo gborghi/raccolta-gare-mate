@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q13
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Nome del figlio di Giovanni*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Name of the son of John
+
+> Peter and his son and John and his son are present at a fishing race. Peter caught as many fish as his son. John, on the other hand, caught three times as many fish as his son. Together they caught 35 fish. Peter's son's name is Luke. What is John's son's name?
+>  
+> A. the information provided is contradictory B. John C. Peter
+>  
+> D. I'm not sure. There's not enough information to answer.
+
+**Answer:** C
+[[src_kangourou_2002_student__Q13]]

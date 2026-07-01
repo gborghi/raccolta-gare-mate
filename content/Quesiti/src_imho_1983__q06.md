@@ -1,6 +1,7 @@
 ---
 title: IMO 1983 (XXIV International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1983__Q06
 parent: src_imho_1983
 competition: IMO 1983 (XXIV International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prove inequality involving sides of a triangle*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qHrtan02NnpLf3E60-PekLeYdH4Y9tnD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Prove inequality involving sides of a triangle*
+
+> Let $a$, $b$ and $c$ be the lengths of the sides of a triangle. Prove that $$a^2 b(a - b) + b^2 c(b - c) + c^2 a(c - a) \ge 0.$$ Determine when equality occurs.
+
+[[src_imho_1983__Q06]]

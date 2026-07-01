@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q21
 parent: src_kangourou_2021_preecolier_koala
 competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Durata dell'esibizione di ballo a coppie*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Duration of the performance of the dance in pairs*
+
+> Three girls and two boys participate in a dance performance. Every girl dances with every guy for exactly a minute and a half and every moment on the dance floor there's a couple and only one. How long does their performance last?
+>
+> - **(A)** 6
+> - **(B)** 8
+> - **(C)** 5
+> - **(D)** 9
+> - **(E)** 10
+
+**Answer:** D
+[[src_kangourou_2021_preecolier_koala__Q21]]

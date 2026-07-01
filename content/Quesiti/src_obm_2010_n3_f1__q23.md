@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q23
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest value of x^2+x+1 (or similar) under a condition on real x (statement garbled).*
 
@@ -54,3 +57,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il valore più basso di x^2+x+1 (o simile) in una condizione su x reale (dichiarazione confusa).*
+
+> Qual è il valore più grande di $xy^2$ dove $x$ e $y$ sono valori reali positivi con $x+y=3$?
+>
+> - **(A)** $3$
+> - **(B)** $4$
+> - **(C)** $5$
+> - **(D)** $6$
+> - **(E)** $7$
+
+[[src_obm_2010_n3_f1__Q23]]

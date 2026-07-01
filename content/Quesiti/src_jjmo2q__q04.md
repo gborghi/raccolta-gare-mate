@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2004 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo2q__Q04
 parent: src_jjmo2q
 competition: Japan Junior Mathematical Olympiad 2004
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *System of equations in positive integers, find n*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sistema di equazioni in numeri interi positivi, trovare n*
+
+> $m, n$ sono numeri interi positivi che soddisfano le seguenti condizioni: $$\begin{cases} 3m - 1 = n \\ (n - 7)m = 16 \end{cases}$$ Trova $n$.
+
+[[src_jjmo2q__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q13
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find total number of tiles when forming n^2+64 = (n+1)^2 - 25*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il numero totale di piastrelle quando si formano n^2+64 = (n+1)^2 - 25*
+
+> Anish ha una serie di piccole piastrelle quadrate congruenti da usare in un mosaico. Quando forma le piastrelle in un quadrato di lato $n$, gli restano delle piastrelle $64$. Quando cerca di formare le piastrelle in un quadrato di lato $n + 1$, ha $25$ troppo pochi.
+> 
+> Quante piastrelle ha Anish?
+>
+> - **(A)** 89
+> - **(B)** 1935
+> - **(C)** 1980
+> - **(D)** 2000
+> - **(E)** 2019
+
+**Risposta:** D
+[[src_smc_2019__Q13]]

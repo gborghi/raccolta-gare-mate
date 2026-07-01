@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1996 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1996_r2__Q03
 parent: src_pol_1996_r2
 competition: Olimpiade Matematica Polacca 1996 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inequality with a+b+c=1 and a,b,c > -1/2*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15CNz3kFk7PIwx8NxujVN7hqidN5tvos-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ineguaglianza con a+b+c=1 e a,b,c > -1/2*
+
+> Prove che se $a, b, c > -\frac{1}{2}$ e $a + b + c = 1$, allora $$\frac{a}{a^2+1} + \frac{b}{b^2+1} + \frac{c}{c^2+1} \le \frac{9}{10}.$$
+
+[[src_pol_1996_r2__Q03]]

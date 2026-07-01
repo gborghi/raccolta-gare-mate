@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q23
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers x,y satisfying a nested-radical equation; find a possible value of y*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieri interi positivi x,y che soddisfano un'equazione radicale nidificata; trovare un possibile valore di y*
+
+> I numeri interi positivi $x$ e $y$ soddisfano l'equazione $$\sqrt{x+\tfrac{1}{2}\sqrt{y}}-\sqrt{x-\tfrac{1}{2}\sqrt{y}}=1.$$ Quale delle alternative presenta un possibile valore di $y$? A) $5$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $9$
+
+**Risposta:** D
+[[src_obm_2005_n2_f1__Q23]]

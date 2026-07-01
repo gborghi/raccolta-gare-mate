@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2005 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2005__Q01
 parent: src_cn_cwmo_2005
 competition: China Western Mathematical Olympiad 2005
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of coefficients of polynomial expressing alpha^100+beta^100*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa dei coefficienti di polinomio espressi in alfa^100+beta^100*
+
+> Supponiamo che $\alpha^{100} + \beta^{100}$ possa essere espresso come polinomio in $\alpha + \beta$ e $\alpha\beta$. Trova la somma dei coefficienti del polinomio.
+
+**Risposta:** 2
+[[src_cn_cwmo_2005__Q01]]

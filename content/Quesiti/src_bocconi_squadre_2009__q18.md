@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2009__Q18
 parent: src_bocconi_squadre_2009
 competition: Gara a Squadre 2009
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero complessivo di finaliste ai Campionati Internazionali di Giochi Matematici*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 459 o 918
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total number of finalists at the International Mathematics Games Championships*
+
+> In a remote Italian final of the International Mathematical Games Championships fewer than 5,000 competitors from 5 regions participated. The parity had not been achieved and among the finalists of Lombardy the boys were twice the girls; the triple among the Sicilians; the boys were four times the girls in the Venetian delegation; five times among the Piedmontese and six times among the Tuscans. Knowing that the competitors (boys and girls) Lombards, Sicilians, Venetians, Piedmontese and Tuscans were present in the same number, how many were the finalists overall? (There may be more than one solution in this case, but all of them must be indicated!)
+
+**Answer:** 459 o 918
+[[src_bocconi_squadre_2009__Q18]]

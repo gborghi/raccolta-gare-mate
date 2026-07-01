@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2011 — Quesito
   4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2011__Q04
 parent: src_bocconi_finalenaz_2011
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2011
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte Jacob schiaccia il tasto della calcolatrice*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Jacob dovrà schiacciare il tasto 11 volte
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many times does Jacob press the computer button?
+
+> Jacob's calculator has a strange key. When you squeeze it, the calculator shows the largest integer not exceeding half the previous number. For example, if this was 1000, it makes 500 appear; if the initial number was 333, pressing the button makes 156. Now the number on the calculator is 2011. How many times does Jacob have to push the button to get the number 9 on the computer screen?
+
+**Answer:** Jacob dovrà schiacciare il tasto 11 volte
+[[src_bocconi_finalenaz_2011__Q04]]

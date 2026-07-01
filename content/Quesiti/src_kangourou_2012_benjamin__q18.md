@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q18
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punto di arrivo della rana Hip*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Hip frog arrival point< MSK1/>
+
+![[src_kangourou_2012_benjamin__prob18.png]]
+
+> Hip and Hop frogs make each three jumps inside a pond, which contains three stones marked with the numbers 1, 2 and 3, following this rule: at the center of the segment traveled in each jump there must be one of the three stones. The figure on the left shows you Hop's path. In the figure to the right is marked the starting point of Hip, who jumps stones in the same order as Hop: what is his arrival point? A) A B) B C) C D) D E) E
+
+**Answer:** D
+[[src_kangourou_2012_benjamin__Q18]]

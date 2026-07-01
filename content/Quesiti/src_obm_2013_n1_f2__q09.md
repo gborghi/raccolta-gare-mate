@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f2__Q09
 parent: src_obm_2013_n1_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trapezoid diagonals: area ABC = area ADE; then find area of AGDH*
 
@@ -49,3 +52,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Diagonali trapezoidi: area ABC = area ADE; poi trovare area di AGDH*
+
+> Abbiamo un trapezoide e le sue diagonali come mostrato di seguito.
+> 
+> a) Indicare che la superficie del triangolo $ABC$ è uguale alla superficie del triangolo $ADE$.
+> 
+> b) Nella figura seguente, $BCFE$ è un rettangolo, il triangolo $ABC$ ha superficie $5\,\text{cm}^2$ e il triangolo $DEF$ ha superficie $4\,\text{cm}^2$. Calcolare l'area del quadrilaterale $AGDH$.
+
+![[src_obm_2013_n1_f2__Q09.png]]
+
+[[src_obm_2013_n1_f2__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2004 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2004__Q05
 parent: src_cn_cmo_2004
 competition: China Mathematical Olympiad 2004
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove sum-of-reciprocals-squared inequality given strictly increasing integers with sum of reciprocals at most 1*
 
@@ -49,3 +52,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la somma delle reciprocità squadrata di inequità data da numeri interi in aumento rigoroso con somma delle reciprocità al massimo 1*
+
+> Per un dato intero positivo $n \ge 2$, supponiamo che gli interi positivi $a_i$ ($i = 1, 2, \ldots, n$) soddisfino $a_1 < a_2 < \cdots < a_n$ e $\displaystyle\sum_{i=1}^{n} \frac{1}{a_i} \le 1$. Prove che, per qualsiasi numero reale $x$, si verifica la seguente disuguaglianza, $$\left(\sum_{i=1}^{n} \frac{1}{a_i^2 + x^2}\right)^2 \le \frac{1}{2} \cdot \frac{1}{a_1(a_1 - 1) + x^2}.$$ (posato da Li Shenghong)
+
+[[src_cn_cmo_2004__Q05]]

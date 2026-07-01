@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2021 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2021__Q01
 parent: src_cn_csmo_2021
 competition: China Southeastern Mathematical Olympiad 2021
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive sequence with nonlinear recurrence; find terms and bound partial sums*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza positiva con ricorrenza non lineare; trovare termini e somme parziali legate*
+
+> Let $\{a_n\}$ essere una sequenza di numeri reali positivi come $a_1 = \frac{1}{2}$, e per $n \ge 2$, $$a_n^2(a_{n-1}+1) + a_{n-1}^2(a_n+1) - 2a_{n-1}a_n(a_{n-1}+a_n+1) = 0.$$ (1) Trovare $a_n$ per $n \ge 1$. (2) Let < MSK6/>. Mostra che $\ln\!\left(\frac{n}{2}+1\right) < S_n < \ln(n+1)$.
+
+[[src_cn_csmo_2021__Q01]]

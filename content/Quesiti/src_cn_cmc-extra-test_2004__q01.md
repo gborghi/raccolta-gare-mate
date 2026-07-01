@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Extra Test) 2004 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-extra-test_2004__Q01
 parent: src_cn_cmc-extra-test_2004
 competition: China Mathematical Competition (Extra Test) 2004
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find AK in acute triangle with given altitudes and circle*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8.64
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca AK in triangolo acuto con determinate altitudini e cerchio*
+
+> In un triangolo acuto $ABC$, il punto $H$ è il punto di intersezione dell'altitudine $CE$ a $AB$ e dell'altitudine $BD$ a $AC$. Un cerchio con $DE$ come diametro che incrocia $AB$ e $AC$ rispettivamente nei punti $F$ e $G$. $FG$ e $AH$ si incrociano al punto $K$. Se $BC = 25$, $BD = 20$, $BE = 7$, si trova la lunghezza di $AK$.
+
+![[src_cn_cmc-extra-test_2004__Q01.png]]
+
+**Risposta:** 8.64
+[[src_cn_cmc-extra-test_2004__Q01]]

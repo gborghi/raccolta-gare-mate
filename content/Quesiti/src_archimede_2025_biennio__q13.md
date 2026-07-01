@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Biennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_biennio__Q13
 parent: src_archimede_2025_biennio
 competition: Giochi di Archimede 2025 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punteggio possibile di Barbara nella gara a punti*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18_HJOvj5XdZGR_vwwSmhkGXfDLuHPlIX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Barbara's possible score in the points race*
+
+> Alberto and Barbara make an iron-armed race this way: at the beginning they both have 1 point; at each challenge, the winner earns as many points as the opponent has at the time, while the loser maintains the score they had. After a number of challenges, Alberto has 66 points. Which of the following could be Barbara's score?
+>
+> - **(A)** 75
+> - **(B)** 55
+> - **(C)** 49
+> - **(D)** 44
+> - **(E)** 52
+
+**Answer:** C
+[[src_archimede_2025_biennio__Q13]]

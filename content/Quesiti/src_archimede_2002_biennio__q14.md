@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2002 - Biennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_biennio__Q14
 parent: src_archimede_2002_biennio
 competition: Giochi di Archimede 2002 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima cifra non pagabile con monete da 3 e 11*
 
@@ -43,3 +46,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum amount not payable with coins of 3 and 11 *
+
+> LOrue is a currency that has only two coins, 3 and 11. What is the maximum amount that cannot be paid exactly?
+>
+> - **(A)** 16 cents
+> - **(B)** 19 cents
+> - **(C)** 20 cents
+> - **(D)** 32 cents
+> - **(E)** There are arbitrarily large figures that are not exactly payable.
+
+[[src_archimede_2002_biennio__Q14]]

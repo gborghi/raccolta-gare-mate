@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q09
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Durata possibile allenamento con velocita raddoppiata*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>During possible training with double speed< MSK1/>
+
+> A cyclist trains by completing four laps of a circuit. It always takes an entire number of minutes to complete a lap, but at each lap after the first lap, its average speed in that lap doubles compared to that held in the previous lap. Which of the following can be the length, in minutes, of your training? A) 41
+> 	
+> B) 42
+> 	
+> C) 43
+> 	
+> D) 44
+> 	
+> E) 45
+
+**Answer:** E
+[[src_kangourou_2017_junior_marzo__Q09]]

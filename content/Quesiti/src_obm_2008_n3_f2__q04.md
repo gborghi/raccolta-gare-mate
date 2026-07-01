@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f2__Q04
 parent: src_obm_2008_n3_f2
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count permutations of 1..9 where all elements between i and i+1 are less than i*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggi permutazioni di 1,9, in cui tutti gli elementi tra i e i+1 sono inferiori a i*
+
+> Quante permutazioni di $1, 2, 3, \ldots, 9$ hanno la proprietà che, per ogni $1 \le i < 9$, tutti i numeri apparsi tra $i$ e $i+1$ nella permutazione (dove $i$ può apparire prima o dopo $i+1$) sono tutti inferiori a $i$? Ad esempio, $976412358$ è una permutazione con questa proprietà.
+
+[[src_obm_2008_n3_f2__Q04]]

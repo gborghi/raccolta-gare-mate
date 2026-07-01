@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q07
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Logic puzzle: five face-down cards summing to 13, deduce middle card*
 
@@ -61,3 +64,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Puzzle logico: cinque carte facciate verso il basso che sommano a 13, dedurre la carta centrale*
+
+> Ci sono cinque carte rovesciate su un tavolo. È noto che su ciascuno di essi è scritto un numero intero positivo. Samuel e Tomas ricevono le seguenti informazioni: (i) tutti i numeri scritti sulle carte sono diversi; (ii) la loro somma è 13; (iii) sono in ordine crescente, da sinistra a destra. Prima, Samuel guarda il numero della scheda a sinistra e dice: "Non ho abbastanza informazioni per determinare gli altri numeri". Poi, Tomas guarda il numero della scheda a destra e dice: "Non ho abbastanza informazioni per determinare gli altri numeri". Poi Samuel guarda di nuovo la scheda a sinistra e dice: "Non ho ancora abbastanza informazioni per determinare gli altri numeri".
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** Non ci sono informazioni sufficienti per determinare il numero.
+
+**Risposta:** D
+[[src_obm_2000_n3_f1__Q07]]

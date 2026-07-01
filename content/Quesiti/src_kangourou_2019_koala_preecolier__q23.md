@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q23
 parent: src_kangourou_2019_koala_preecolier
 competition: Kangourou 2019 Koala n.6 Pre-Ecolier
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero indicare per essere sicuri (quadrato somma >63)*
 
@@ -48,3 +51,25 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What number to indicate for sure (square sum >63) *
+
+![[src_kangourou_2019_koala_preecolier__prob23.png]]
+
+> From the numbered grid you see below
+>
+> $$\begin{array}{|c|c|c|c|c|}\hline 1 & 2 & 3 & 4 & 5 \\ \hline 6 & 7 & 8 & 9 & 10 \\ \hline 11 & 12 & 13 & 14 & 15 \\ \hline 16 & 17 & 18 & 19 & 20 \\ \hline \end{array}$$
+>
+> Peter carved out a square of four cells, summed up the four numbers that appear in these four cells, and told you that he got a number larger than 63. Then he told you that at least one of the following five numbers appears in the square that he carved and asked you to guess. Which of these five numbers do you have to indicate if you want to make sure you're not wrong?
+>
+> - **(A)** 8
+> - **(B)** 10
+> - **(C)** 14
+> - **(D)** 15
+> - **(E)** 18
+
+[[src_kangourou_2019_koala_preecolier__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q21
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Espressione della funzione f da sistema funzionale*
 
@@ -67,3 +70,19 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Expression of function f by functional system*
+
+> Two real functions of a real variable, f and g, satisfy, for every real x, both the equations f(x) + 2 g(1  x) = x2 and f(1  x)  g(x) = x2. What is the expression of the function f ? A) f(x) = x2 –      x +
+> 	
+> B)  f(x) = x2 +     x + C) f(x) = – x2 –      x +
+> 	
+> D) f(x) = x2  4x + 5 E) No such pair of functions f and g exists. A B C D E d 4 3 4 3 4 3 2 3 2 3 2 3
+>
+
+**Answer:** A
+[[src_kangourou_2023_student__Q21]]

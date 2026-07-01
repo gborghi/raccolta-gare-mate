@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo19yq_yosen__Q11
 parent: src_jmo19yq_yosen
 competition: Japan Mathematical Olympiad 2009 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of solutions of a floor-function equation*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di soluzioni di un'equazione funzionale a pavimento*
+
+> Trova la somma di tutte le soluzioni della seguente equazione nella variabile reale $x$: $$[x]+[2x]+[3x]+[4x]+[5x]+[6x]+[7x]+[8x]+[9x]=44x.$$ Qui $[r]$ indica il numero intero più grande non superiore al numero reale $r$.
+
+[[src_jmo19yq_yosen__Q11]]

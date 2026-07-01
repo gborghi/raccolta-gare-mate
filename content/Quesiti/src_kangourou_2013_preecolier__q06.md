@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Pre-Ecolier — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_preecolier__Q06
 parent: src_kangourou_2013_preecolier
 competition: Kangourou 2013 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piastrelle per completare la croce interna*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykejBpK7Wiwv-x_5BvjdytAue5Y_N6nU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tables to complete the inner cross*
+
+![[src_kangourou_2013_preecolier__prob6.png]]
+
+> The flooring in the figure was made with square tiles. The work must be completed by ticking the white part (inner cross) with tiles of the same type. How many tiles do you need to use? A) 5          B) 6          C) 7          D) 8          E) 9
+
+**Answer:** E
+[[src_kangourou_2013_preecolier__Q06]]

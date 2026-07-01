@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2007 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2007__Q04
 parent: src_cn_cmc-complementary-test_2007
 competition: China Mathematical Competition (Complementary Test) 2007
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle with foot of altitude; circumcenters concyclic with feet iff P is orthocenter*
 
@@ -42,3 +45,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto con piede di altitudine; circoncenti conciclici con piedi se P è ortocentro*
+
+> Come mostrato nella figura, $\triangle ABC$ è un triangolo acuto con $AB < AC$. $AD$ è l'altezza perpendicolare su $BC$ con punto $P$ lungo $AD$. Attraverso $P$ disegnare $PE \perp AC$ con $E$ come caduta del piede, disegnare $PF \perp AB$ con $F$ come caduta del piede. < MSK11/> e < MSK12/> sono i circoncenti di < MSK13/> e < MSK14/> rispettivamente. Prova che $O_1$, $O_2$, $E$, $F$ sono conciclici se e solo se $P$ è l'ortocentro di $\triangle ABC$.
+
+[[src_cn_cmc-complementary-test_2007__Q04]]

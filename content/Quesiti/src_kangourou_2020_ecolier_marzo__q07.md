@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Ecolier — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q07
 parent: src_kangourou_2020_ecolier_marzo
 competition: Kangourou 2020 Gara marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale adesivo e opposto all anatroccolo sul cubo*
 
@@ -48,3 +51,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which adhesives and opposes the cube anathrocoll< MSK1/>
+
+![[src_kangourou_2020_ecolier_marzo__prob7.png]]
+
+> George glues six stickers with animal images, each on the face of a cube. The figure on this side shows the cube in two different positions. Which sticker is on the opposite face to the one with the ankle? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** E
+[[src_kangourou_2020_ecolier_marzo__Q07]]

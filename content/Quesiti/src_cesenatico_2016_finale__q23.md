@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q23
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area minima rombo iterato (assi, area intera)*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4420
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum area of rotation (axis, whole area) *
+
+> Looking for Luke The GeDi knight Luke Randomwalker has begun traveling randomly from planet to planet, leaving very little information about his path. Fortunately, the planets on which it moves are all on the same plane. The young Ramsrey wants to track him down to return his laser line, and she manages to discover that Luke is currently inside an ABCD box of area 3222180 with BAC = 30°. She also finds a way to narrow the field: she takes the axes relative to the sides of the rim and calls A′, B′, C′, D′ the two-to-two intersections of the axes relative to the consecutive side pairs. This way you get a smaller quadrilateral. Ramsrey keeps repeating the procedure until he gets full-area quadrilaterals. You know for a fact that Luke is within the confines of the smallest of these. How big is the area Ramsrey has to explore?
+
+**Answer:** 4420
+[[src_cesenatico_2016_finale__Q23]]

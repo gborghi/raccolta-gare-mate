@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2006 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2006__Q10
 parent: src_cn_cmc_2006
 competition: China Mathematical Competition 2006
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find common ratio q of geometric progression given integer condition*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $\frac{1}{2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il rapporto comune q di progressione geometrica data condizione interiore*
+
+> Che $\{a_n\}$ sia una progressione aritmetica con differenza comune $d$ ($d \neq 0$) e $\{b_n\}$ sia una progressione geometrica con rapporto comune $q$, dove $q$ è un numero razionale positivo inferiore a $1$. Se $a_1 = d$, $b_1 = d^2$ e $\frac{a_1^2 + a_2^2 + a_3^2}{b_1 + b_2 + b_3}$ sono un intero positivo, allora $q$ è uguale a $\underline{\hspace{2cm}}$.
+
+**Risposta:** $\frac{1}{2}$
+[[src_cn_cmc_2006__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2009 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2009__Q17
 parent: src_bocconi_semifinale_2009
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2009
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo ABC inscritto in un cubo*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $33{,}94 \ \text{cm}^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the ABC triangle inscribed in a cube*
+
+> Inscribe a triangle $ABC$ into a cube  whose beam measures $8$ cm  so that: - the point $A$ coincides with a vertex of the cube; - the points $B$ and $C$ are located on the beams of the cube; - the centre of gravity (baricenter) of the triangle coincides with that of the cube.
+> 
+> What is the maximum area of the $ABC$ triangle?
+
+**Answer:** $33{,}94 \ \text{cm}^2$
+[[src_bocconi_semifinale_2009__Q17]]

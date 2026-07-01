@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2021 Finale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q03
 parent: src_kangourou_2021_squadre_finale
 competition: Kangourou Coppa squadre 2021 Finale
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo opposto somma prodotti di sequenza 0,1,-1*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum opposite sum of products of sequence 0,1,-1< MSK1/>
+
+> Product sum Any term in a sequence of 2021 integers is 1 or 0 or −1. For each unordered pair of terms in the sequence, the product of the terms that make up the sequence is executed; all the products obtained are added. When we vary all the possible sequences of this kind, what is the maximum value we can get for the opposite of this sum?
+
+[[src_kangourou_2021_squadre_finale__Q03]]

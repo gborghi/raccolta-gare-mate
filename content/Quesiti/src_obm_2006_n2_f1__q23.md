@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q23
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real numbers x+y+z=0; find value of expression*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri reali x+y+z=0; trovare il valore dell'espressione*
+
+> Che $x$, $y$, $z$ siano numeri reali non zeri come $x + y + z = 0$. Il valore di $$\left(x^2y^2z^2\right)\left(\frac{1}{x^3y^3}+\frac{1}{x^3z^3}+\frac{1}{y^3z^3}\right)$$ è:
+> 
+> **A) ** 0 \quad **B) ** 1 \quad **C) ** 2 \quad **D) ** 3 \quad **E) ** 4
+
+**Risposta:** D
+[[src_obm_2006_n2_f1__Q23]]

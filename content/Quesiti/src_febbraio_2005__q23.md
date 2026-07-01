@@ -1,6 +1,7 @@
 ---
 title: Coppa/Gara di febbraio 2005 — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_febbraio_2005__Q23
 parent: src_febbraio_2005
 competition: Coppa/Gara di febbraio 2005
@@ -22,6 +23,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *rapporto delle aree*
 
@@ -31,3 +34,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 36/350 (cioe 36 al numeratore della frazione ridotta)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>area report < MSK1/>
+
+> [problem not present in the document]
+
+**Answer:** 36/350 (cioe 36 al numeratore della frazione ridotta)
+[[src_febbraio_2005__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2019 — Nível 3 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2019_n3_fx__Q01
 parent: src_obm_2019_n3_fx
 competition: Olimpíada Brasileira de Matemática 2019 — Nível 3 — Fase x
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Q is incenter of triangle PAB via two intersecting circles*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CYun80NsCeb63sAWfcOsX2EiPcRcOJMk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Q è l'incentro del triangolo PAB attraverso due cerchi incrociati*
+
+> Si tratta di due cerchi con centri $C_1$ e $C_2$, che si incrociano rispettivamente a due punti $P$ e $Q$. Supponiamo che il circolo circonscritto del triangolo $PC_1C_2$ incontri $\omega_1$ di nuovo a $A \neq P$ e incontri $\omega_2$ di nuovo a $B \neq P$. Supponiamo inoltre che $Q$ si trovi all'interno del triangolo $PAB$. Provare che $Q$ è il centro del triangolo $PAB$.
+
+[[src_obm_2019_n3_fx__Q01]]

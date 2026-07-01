@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin_finale__QB5
 parent: src_kangourou_2003_benjamin_finale
 competition: Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prime e ultime tre cifre con somma 2003*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 599 / 999
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijL_j1ayb9z-cN_tMBQcCh2XLu4_Wkxh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First and last three digits with sum 2003*
+
+> What are the first three digits and the last three digits of the smallest positive integer whose sum is $2003$?
+
+**Answer:** 599 / 999
+[[src_kangourou_2003_benjamin_finale__QB5]]

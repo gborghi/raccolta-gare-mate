@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q25
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle DAE in triangle ABC with AB=20,AC=21,BC=29 and D,E on BC*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca angolo DAE nel triangolo ABC con AB=20, AC=21,BC=29 e D,E su BC*
+
+> In triangolo $ABC$, $AB = 20$, $AC = 21$ e $BC = 29$. I punti $D$ e $E$ si trovano sul lato $BC$ in modo tale che $BD = 8$ e $EC = 9$. La misura dell'angolo $\widehat{DAE}$, in gradi, è uguale a:
+> 
+> A) $30$ \quad B) $40$ \quad C) $45$ \quad D) $60$ \quad E) $75$
+
+**Risposta:** C
+[[src_obm_2003_n3_f1__Q25]]

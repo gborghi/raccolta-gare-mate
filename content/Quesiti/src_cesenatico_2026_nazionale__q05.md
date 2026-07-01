@@ -1,6 +1,7 @@
 ---
 title: Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2026_nazionale__Q05
 parent: src_cesenatico_2026_nazionale
 competition: Olimpiadi Italiane di Matematica 2026 - Finale Cesenatico
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo sottoinsieme distanziato di 1..2026*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 646
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1_rvhIF7SAr6FvY1fH9Z0-jjjZzX_YdII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum distance subset of 1..2026*
+
+> A set of positive integers S is said to be distant if it contains no pair of elements the difference of which is one of the numbers 5, 10, 12, 17. For example, {1, 2, 3, 10, 30} is distant, while {1, 2, 3, 11} is not (because 11 −1 = 10). How many elements can have, at most, a distant subset of {1, 2, 3, . . . , 2025, 2026}?
+
+**Answer:** 646
+[[src_cesenatico_2026_nazionale__Q05]]

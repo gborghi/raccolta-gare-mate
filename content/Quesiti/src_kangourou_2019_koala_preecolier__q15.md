@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q15
 parent: src_kangourou_2019_koala_preecolier
 competition: Kangourou 2019 Koala n.6 Pre-Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza del lato lungo del pavimento di lastre*
 
@@ -43,3 +46,23 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of the long side of the sheet floor*
+
+![[src_kangourou_2019_koala_preecolier__prob15.png]]
+
+> The figure shows you a rectangular floor obtained by attaching some rectangular plates, all of them equal to each other. The shortest side of each plate is one meter long. How long is the longest side of the floor?
+>
+> (see figure)
+>
+> - **(A)** 6
+> - **(B)** 8
+> - **(C)** 10
+> - **(D)** 11
+> - **(E)** 12
+
+[[src_kangourou_2019_koala_preecolier__Q15]]

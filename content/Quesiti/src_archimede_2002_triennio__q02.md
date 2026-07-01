@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2002 - Triennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_triennio__Q02
 parent: src_archimede_2002_triennio
 competition: Giochi di Archimede 2002 - Triennio
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale di aumento per recuperare prezzo originario*
 
@@ -40,3 +43,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage increase to recover the original price*
+
+> A commodity was discounted by 20% of its original price. What percentage must be increased to recover the original price?
+>
+> - **(A)** 16%
+> - **(B)** 20%
+> - **(C)** 25%
+> - **(D)** 50%
+> - **(E)** 60%.
+
+[[src_archimede_2002_triennio__Q02]]

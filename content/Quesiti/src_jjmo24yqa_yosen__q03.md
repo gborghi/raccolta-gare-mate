@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo24yqa_yosen__Q03
 parent: src_jjmo24yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 2026-digit ternary integers satisfying parity-dependent min/max digit-frequency conditions*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $3 \cdot 2^{508}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare interi terzi di 2026 cifre che soddisfano le condizioni di frequenza minima/massima di cifre paritarie*
+
+> Considerate i numeri interi positivi con esattamente $2026$ cifre, ciascuna cifra è $1$, $2$, o $3$. Quanti tali integri soddisfano le seguenti condizioni per ogni integro $i$ con $1 \le i \le 2025$? (Le cifre vengono contate dall'estremità meno significativa, ovvero la posizione $1$ è la cifra unità.)
+> 
+> - Se $i$ è pari: la cifra in posizione $i+1$ (dal basso) è una delle cifre tra $1, 2, 3$ che appare più frequentemente tra le prime cifre $i$ (dal basso). - Se $i$ è odd: la cifra in posizione $i+1$ (dal basso) è una delle cifre tra $1, 2, 3$ che appare meno frequentemente tra le prime cifre $i$ (dal basso).
+
+**Risposta:** 3 \cdot 2^{508}
+[[src_jjmo24yqa_yosen__Q03]]

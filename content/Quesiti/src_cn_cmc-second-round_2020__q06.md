@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Second Round) 2020 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-second-round_2020__Q06
 parent: src_cn_cmc-second-round_2020
 competition: China Mathematical Competition (Second Round) 2020
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Partition {1,...,19} into two subsets so the sum of one equals the product of the other*
 
@@ -53,3 +56,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Partire {1,...,19} in due sottoinsiemi in modo che la somma di uno sia uguale al prodotto dell'altro*
+
+> (40 punti) Dato che il set $A = \{1, 2, \ldots, 19\}$ non è vuoto, esistono sottosette $S_1$, $S_2$ del set $A$ che soddisfano le seguenti condizioni? (1) $S_1 \cap S_2 = \varnothing$, $S_1 \cup S_2 = A$; (2) $S_1$ e $S_2$ hanno entrambi almeno quattro elementi; (3) la somma di tutti gli elementi di $S_1$ è pari al prodotto di tutti gli elementi di $S_2$. Prova la tua conclusione.
+
+**Risposta:** Yes
+[[src_cn_cmc-second-round_2020__Q06]]

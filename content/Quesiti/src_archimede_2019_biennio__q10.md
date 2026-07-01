@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2019 - Biennio (T1) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_biennio__Q10
 parent: src_archimede_2019_biennio
 competition: Giochi di Archimede 2019 - Biennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di angoli retti in un ottagono convesso*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of right angles in a convex octahedron*
+
+> A convex octagon has eight interior angles. How many of them, at most, can be right?
+>
+> - **(A)** 4
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 5
+> - **(E)** 1
+
+**Answer:** C
+[[src_archimede_2019_biennio__Q10]]

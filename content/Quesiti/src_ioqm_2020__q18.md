@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q18
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate sum involving nested square roots; find a+b*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare la somma che coinvolge radici quadrate incastonate; trovare a+b*
+
+> Se $\displaystyle\sum_{k=0}^{\infty} \left( \sqrt{1 + \frac{1}{k^2} + \frac{1}{(k+1)^2}} \right) = a + \frac{b}{c}$ dove $a, b, c \in \mathbb{N}$, $b < c$, $\gcd(b, c) = 1$, qual è il valore di $a + b$?
+
+[[src_ioqm_2020__Q18]]

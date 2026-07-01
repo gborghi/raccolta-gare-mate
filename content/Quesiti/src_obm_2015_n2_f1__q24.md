@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q24
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Time for Jade to walk from secretariat to Botanical Garden*
 
@@ -44,3 +47,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Giada che Jade cammini dal segretariato al giardino botanico
+
+> Esmeralda e Jade lasciano il segretariato dell'OBM e vanno al Giardino Botanico. I due se ne andarono allo stesso tempo, Esmeralda in bicicletta e Jade a piedi. La velocità di Esmeralda è quattro volte quella di Jade, e le due velocità sono costanti. Esmeralda arrivò al giardino botanico, aspettò 5 minuti e poi tornò per la stessa strada, incontrando Jade, che era a metà strada. Quanto tempo ci vuole per andare da Jade al giardino botanico?
+> 
+> A) 30 minuti B) 35 minuti C) 40 minuti D) 45 minuti E) 50 minuti
+
+[[src_obm_2015_n2_f1__Q24]]

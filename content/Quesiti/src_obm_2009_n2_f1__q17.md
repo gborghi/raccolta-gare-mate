@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q17
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count real pairs (x,y) satisfying (x+y)^4+(x-y)^4=0*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare coppie reali (x,y) soddisfacenti (x+y) ^4+(x-y) ^4=0*
+
+> Quante coppie ordinate $(x, y)$ di numeri reali soddisfano $(x + y)^4 + (x - y)^4 = 0$?
+> 
+> **(A) ** $0$ $\quad$ **(B) ** $1$ $\quad$ **(C) ** $2$ $\quad$ **(D) ** $3$ $\quad$ **
+
+**Risposta:** B
+[[src_obm_2009_n2_f1__Q17]]

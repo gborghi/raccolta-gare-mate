@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_febb29_2livello__Q11
 parent: src_archimede_2012_febb29_2livello
 competition: Archimede Gara Febbraio 2012 (29 feb) - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Folletto divide per 12 prodotto differenze di quadrati, giorni sicuri*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Footprint divided by 12 product differences of squares, safe days< MSK1/>
+
+> There's a fool who lives in the fairy world. One day you choose 12 pairs of positive numbers: those of the first are odd, those of the second are 1 if divided by 3, those of the third are 1 if divided by 4, and so on until the twelfth. He then calculates the difference in the squares of the numbers of each pair and writes on a board the product of all the differences obtained. From the next morning, he divides the number on the board by 12 and, if the result is whole, he writes this result instead of the number that was on the board; if it's not whole, he erases everything and moves into the human world to joke. For how many days (except the initial one where the booklet chooses the numbers) are we sure that we will have no problems in our world?
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 8
+> - **(E)** 12.
+
+**Answer:** B
+[[src_archimede_2012_febb29_2livello__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q05
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di y con (x+1)(y+1)=77 e x<y*
 
@@ -48,3 +51,17 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of y with (x+1)(y+1)=77 and x<y*
+
+> The numbers x and y are nonnegative integers such that (x + 1)(y + 1) = 77 and x < y. How much is y? A) 6 B) 7
+>   
+> C) 10 D) 11 E) The data are insufficient to answer.
+>
+
+**Answer:** E
+[[src_kangourou_2022_junior_gara__Q05]]

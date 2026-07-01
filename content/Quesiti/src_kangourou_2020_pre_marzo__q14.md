@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Pre - gara marzo — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q14
 parent: src_kangourou_2020_pre_marzo
 competition: Kangourou 2020 Pre - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nel quadretto col punto interrogativo, somme 10*
 
@@ -45,3 +48,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.14](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the box with question mark, sum of 10*
+
+![[src_kangourou_2020_pre_marzo__prob14.png]]
+
+> Anna wants to write the numbers $1, 2, 3, 4, 5$ and $6$, each in one of the six squares in the figure. He wants it to be $10$ both the sum of the numbers in the blue squares and the sum of the numbers in the yellow squares. What number do you have to write in the question mark?
+>
+> (see figure)
+>
+> - **(A)** $1$
+> - **(B)** $2$
+> - **(C)** $3$
+> - **(D)** $4$
+> - **(E)** $5$
+
+**Answer:** A
+[[src_kangourou_2020_pre_marzo__Q14]]

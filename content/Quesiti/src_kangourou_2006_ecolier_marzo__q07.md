@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Ecolier (marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q07
 parent: src_kangourou_2006_ecolier_marzo
 competition: Kangourou 2006 Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Porta di uscita attraversando stanze triangolari*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pKY5ouqmagp75LpVMmZ7-wegTuPPO_ZD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Exit gate through triangular rooms*
+
+![[src_kangourou_2006_ecolier_marzo__prob7.png]]
+
+> A kangaroo enters the building where we see the plant next to it. If you want to cross only triangular-shaped rooms, you have to exit the building from door A to B b C c D d E and
+
+**Answer:** E
+[[src_kangourou_2006_ecolier_marzo__Q07]]

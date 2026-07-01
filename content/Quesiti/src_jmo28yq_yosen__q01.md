@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo28yq_yosen__Q01
 parent: src_jmo28yq_yosen
 competition: Japan Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-digit table number containing the digit 5*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 56
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di tabella a due cifre contenente la cifra 5*
+
+> J ha scelto 5 numeri dalla tabella di moltiplicazione (numeri espressibili come il prodotto di due numeri interi ciascuno tra $1$ e $9$ inclusivo). Ha notato che tutti i 5 sono numeri a due cifre, e che attraverso le loro unità e decine di cifre ciascuno di $0, 1, 2, 3, 4, 5, 6, 7, 8, 9$ appare esattamente una volta. Tra i numeri scelti da J, indicare quello che ha una cifra di unità o una cifra di decine è $5$. (Un numero a due cifre la cui cifra decimale è $0$ non è considerato.)
+
+**Risposta:** 56
+[[src_jmo28yq_yosen__Q01]]

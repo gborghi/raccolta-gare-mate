@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1980-81 — Round 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1980-81_round2__Q07
 parent: src_bmo_1980-81_round2
 competition: British Mathematical Olympiad 1980-81 — Round 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *8x>=7y for non-negative integers iff decomposition x=a+2b+3c+7d, y=b+2c+5d exists*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*8x>=7y per i numeri interi non negativi se la decomposizione x=a+2b+3c+7d, y=b+2c+5d esiste*
+
+> Prova che se $x$, $y$ sono interi non negativi, allora $8x \geq 7y$ se e solo se esistono interi non negativi $a$, $b$, $c$, $d$ in modo tale che $$x = a + 2b + 3c + 7d, \qquad y = b + 2c + 5d.$$
+
+[[src_bmo_1980-81_round2__Q07]]

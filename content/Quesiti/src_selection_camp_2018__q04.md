@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2018__Q04
 parent: src_selection_camp_2018
 competition: Japan IMO Selection Camp 2018 — Selection Camp
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum total separation number over all lines through n points in general position*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jASM40MHMk6NMhN2bMvDto4r4rOWEBtP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero minimo di separazione totale su tutte le linee attraverso n punti in posizione generale*
+
+> $n \ge 3$ sia un numero intero. Considera un insieme $S$ di punti $n$ nel piano in modo tale che nessun punto sia collineare. $L$ è l'insieme di tutte le linee che attraversano due punti distinti di $S$. Per una linea $\ell \in L$, definire il suo numero di separazione come il prodotto del numero di punti di $S$ in ciascuno dei due semipiani aperti determinati da $\ell$. Trova il valore minimo possibile della somma dei numeri di separazione su tutte le linee in $L$.
+
+[[src_selection_camp_2018__Q04]]

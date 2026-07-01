@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q28
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero non e prodotto delle cifre di N+1*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which number is not a product of the digits of N+1*
+
+> The product of the digits of a positive integer N is 20. Which of the following numbers is certainly not the product of the numbers N + 1? A) 40
+>  
+> B) 30
+>  
+> C) 25
+>   
+> D) 35
+>  
+> E) 24
+
+**Answer:** D
+[[src_kangourou_2022_junior_gara__Q28]]

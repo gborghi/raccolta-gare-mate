@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2009 - Gara a squadre — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2009_squadre__Q21
 parent: src_gs_2009_squadre
 competition: Coppa Fermat 2009 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita vittoria gioco doppia testa-croce*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0.21875
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of winning double-headed cross game*
+
+> In the Traal beetles, the game of double head-and-cross, with a coin, is played between two teams of two players. A player from the first team throws the coin: if a cross comes out, he is eliminated from the game; if a head comes out, nothing happens. Now, a player from the other team throws a coin: if he gets a cross, he's eliminated; if he gets a head, he's eliminating one of the players from the first team. The game moves back to the first team and continues as from the beginning. He loses the team that finishes first. What are the odds of the first team winning? The answer is given by writing the first four digits of the result other than 0, 1 and 9, in the order in which they appear. (For example, if the result was $\frac{5}{7} = 0.714285714\ldots$, you should write 7428.)
+
+**Answer:** 0.21875
+[[src_gs_2009_squadre__Q21]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q16
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti di corsa per velocità media 5 km/h*
 
@@ -51,3 +54,21 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minutes of running at an average speed of 5 km/h*
+
+> Julius wants to ride a bike. Until this moment he walked 8 km at a speed of 4 km/h. From now on, he starts running at twice his speed. How many minutes does he have to run if he wants his average speed to be 5 km/h? A) 15 B) 20
+> 	
+> C) 30
+> 	
+> D) 35
+> 	
+> E) 40 2 √ 2 √
+>
+
+**Answer:** E
+[[src_kangourou_2014_junior__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1995-96 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1995-96_round1__Q04
 parent: src_bmo_1995-96_round1
 competition: British Mathematical Olympiad 1995-96 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine all n with q(n) > q(n+1) where q(n)=floor(n/floor(sqrt n))*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AeYwKueSuhFg80SHdY-WJiRjur5w9yrj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Determina tutte le n con q(n) > q(n+1) dove q(n) = piano(n/piano(sqrt n))*
+
+> Per qualsiasi numero reale $x$, $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$. Definire la funzione $q$ sui numeri interi positivi con $$q(n) = \left\lfloor \frac{n}{\lfloor \sqrt{n} \rfloor} \right\rfloor \quad \text{for } n = 1, 2, 3, \ldots$$ Determinare tutti i numeri interi positivi $n$ per i quali $q(n) > q(n+1)$.
+
+[[src_bmo_1995-96_round1__Q04]]

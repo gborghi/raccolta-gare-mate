@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2009__Q13
 parent: src_bocconi_squadre_2009
 competition: Gara a Squadre 2009
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero massimo di sezioni della linea regionale con vincoli di lunghezza*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kquAXdz_1_nXRu6LOSGozuEvU4vIuFnH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of sections of the regional line with length constraints*
+
+> The new regional transport line is under construction. Its construction is quite simple because the route is straight, but local politicians have asked for the following rules: - the length of three consecutive sections must not exceed 16 km; - the length of five consecutive sections must never be less than 27 km. How many sections will the regional line consist of at most?
+
+**Answer:** 6
+[[src_bocconi_squadre_2009__Q13]]

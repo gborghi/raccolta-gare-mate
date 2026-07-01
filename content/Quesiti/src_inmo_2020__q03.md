@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2020 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2020__Q03
 parent: src_inmo_2020
 competition: Indian National Mathematical Olympiad 2020
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest subset S of digits so every positive integer equals p+q with digits in S*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zGms2MQj8QKRPizstjU-44-Fnpo52wDY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più piccolo sottoinsieme S di cifre in modo che ogni intero positivo sia uguale a p + q con cifre in S*
+
+> $X = \{0, 1, 2, 3, 4, 5, 6, 7, 8, 9\}$ sia l'insieme di cifre decimali. Che $S \subseteq X$ sia tale che qualsiasi numero intero positivo $n$ possa essere scritto come $p + q$ dove i numeri interi non negativi $p, q$ hanno tutte le loro cifre in $S$. Trova il numero minimo possibile di elementi in $S$.
+
+[[src_inmo_2020__Q03]]

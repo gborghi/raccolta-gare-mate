@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q07
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro esagono formato da due triangoli equilateri sovrapposti*
 
@@ -52,3 +55,23 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Exagonal perimeter formed by two equilateral triangles overlapping*
+
+![[src_kangourou_2023_student__prob7.png]]
+
+> Two equilateral triangles are partially superimposed to form an hexagon with opposite sides two to two parallels. The length of the four sides is known and shown in the figure. What is the perimeter of the axis? A) 64
+>     	
+> B) 66
+>     	
+> C) 68
+> 	
+> D)  70 E) 72
+>
+
+**Answer:** D
+[[src_kangourou_2023_student__Q07]]

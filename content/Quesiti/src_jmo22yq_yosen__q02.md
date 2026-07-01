@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo22yq_yosen__Q02
 parent: src_jmo22yq_yosen
 competition: Japan Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle with tangent-chord angles 30° and 10°; find angle BDC*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 70
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo con angoli di corda tangente 30° e 10°; angolo di ricerca BDC*
+
+> I punti $A$, $B$, $C$, $D$ si trovano su un cerchio in questo ordine. L'angolo tra la tangente al cerchio a $B$ e l'accordo $AB$ è $30^\circ$, e l'angolo tra la tangente a $C$ e l'accordo $CD$ è $10^\circ$. Le linee $AB$ e $DC$ sono parallele e $B$ e $C$ si trovano su lati opposti del centro rispetto all'accordo $AD$. Trova < MSK15/>.
+
+![[src_jmo22yq_yosen__Q02.png]]
+
+**Risposta:** 70
+[[src_jmo22yq_yosen__Q02]]

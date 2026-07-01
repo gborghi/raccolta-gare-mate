@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f3__Q06
 parent: src_obm_1998_n3_f3
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Worst-case path length to reach a Berlin corner with unknown side and unknown distance*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nWtV7C2tyKGwEtjDx0aPHhPIGRni99uC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La lunghezza di percorso peggiore per raggiungere un angolo di Berlino con lato sconosciuto e distanza sconosciuta*
+
+> Due matematici, persi a Berlino, arrivano all'angolo di Barbarossa Street e Martin Luther Street, e devono raggiungere l'angolo di Meininger Street e Martin Luther Street. Purtroppo non sanno su quale lato di Martin Luther Street si trova l'angolo con Meininger Street, né a quale distanza si trova; cioè non sanno se sono obbligati a girare a destra o a sinistra e quanto a piedi lungo Martin Luther Street finché non raggiungono l'angolo desiderato. Qual è il minimo valore positivo $X$ tale da poter essere certo di raggiungere l'angolo di Barbarossa Street e Meininger Street percorrendo al massimo $X$ blocchi (quarti)?
+
+[[src_obm_1998_n3_f3__Q06]]

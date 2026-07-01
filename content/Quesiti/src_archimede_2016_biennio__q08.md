@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Biennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_biennio__Q08
 parent: src_archimede_2016_biennio
 competition: Giochi di Archimede 2016 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo MCD di due numeri con prodotto 14000*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1w98Us2ogDSfVMh4NQofZesTOzitRRSQB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum two-digit MCD with product 14000*
+
+> The product of two natural numbers is 14000. What can be their maximum common divider?
+>
+> - **(A)** 10
+> - **(B)** 20
+> - **(C)** 400
+> - **(D)** 70
+> - **(E)** 140
+
+**Answer:** B
+[[src_archimede_2016_biennio__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q10
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del quadrato indicato col punto interrogativo*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The area of the square indicated by the question mark*
+
+![[src_kangourou_2022_junior_gara__prob10.png]]
+
+> The figure shows five squares, three of which indicate the area in square metres, and two rectangular triangles bounded by them. What is the area, in square metres, of the square indicated by the point in question? A) 14
+>   
+> B) 15
+>   
+> C) 16 D) 17
+>   
+> (E) 18 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2022_junior_gara__Q10]]

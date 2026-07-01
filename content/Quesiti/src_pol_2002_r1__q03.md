@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2002 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2002_r1__Q03
 parent: src_pol_2002_r1
 competition: Olimpiade Matematica Polacca 2002 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a binomial-type sum is divisible by a large power of 2.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che una somma di tipo binomio è divisibile da una grande potenza di 2.*
+
+> Provare che il numero $$\sum_{n=0}^{10^{10}} \binom{2 \cdot 10^{10}}{2n} 5^n$$ è divisibile da $2^{10^{10}-1}$.
+
+[[src_pol_2002_r1__Q03]]

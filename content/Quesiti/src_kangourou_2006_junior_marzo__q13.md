@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q13
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato del quadrato piu grande (rettangolo in 6 quadrati)*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Ladge of the largest square (rectangle in 6 squares) < MSK1/>
+
+![[src_kangourou_2006_junior_marzo__prob13.png]]
+
+> 13. The rectangle in the figure is divided into six quadrants. The smallest side of the square measures one centimeter. How many centimeters does the side of the larger quadrant measure? 1 1 A) 5.5 B) 6 C) 7 D) 8 E) A value different from the previous ones. K A N
+
+**Answer:** C
+[[src_kangourou_2006_junior_marzo__Q13]]

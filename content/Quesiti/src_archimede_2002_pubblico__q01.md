@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_pubblico__Q01
 parent: src_archimede_2002_pubblico
 competition: Archimede 2002 - Gara del Pubblico (Cesenatico)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *raggio del quadrilatero*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0200
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>radius of the quadrilateral < MSK1/>
+
+> The swimming pool of Professor Abacus
+> 
+> In the garden of Professor Abacus' villa there is a circular pool surrounded by four rectangular alleys forming a quadrilateral. The pool touches each of the four alleys and also two opposite alleys are parallel, while the other two are the same length. Knowing that the two parallels measure 800 and 200 centimeters respectively, how many centimeters does the pool radius measure?
+
+**Answer:** 0200
+[[src_archimede_2002_pubblico__Q01]]

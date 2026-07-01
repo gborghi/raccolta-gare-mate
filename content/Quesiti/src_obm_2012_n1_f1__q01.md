@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f1__Q01
 parent: src_obm_2012_n1_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fewest coins (10 centavos) to pay 23 reais using 10-real notes*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Le minoranze (10 centesimi) a pagare 23 reais utilizzando banconote di 10 reais< MSK1/>
+
+> Laurinha aveva nel suo portafoglio solo 10 banconote reali e 10 centoville. Ha pagato 23 reais con il minor numero possibile di monete. Quante monete ha usato?
+> 
+> (A) 3 \quad (B) 6 \quad (C) 10 \quad (D) 23 \quad (E) 30
+
+**Risposta:** E
+[[src_obm_2012_n1_f1__Q01]]

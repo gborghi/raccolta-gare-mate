@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Pre - gara marzo — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q22
 parent: src_kangourou_2020_pre_marzo
 competition: Kangourou 2020 Pre - gara marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri possibili nel cerchio con somme uguali*
 
@@ -66,3 +69,40 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.22](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible numbers in the circle with equal sums*
+
+![[src_kangourou_2020_pre_marzo__prob22.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) circle (0.5) node {?};
+  \draw (0,1.2) circle (0.5);
+  \draw (0,-1.2) circle (0.5);
+  \draw (-1.2,0) circle (0.5);
+  \draw (1.2,0) circle (0.5);
+  \draw (0,0.5) -- (0,0.7);
+  \draw (0,-0.5) -- (0,-0.7);
+  \draw (-0.5,0) -- (-0.7,0);
+  \draw (0.5,0) -- (0.7,0);
+\end{tikzpicture}
+\end{document}
+```
+
+> Carlo wrote each of the numbers $1, 2, 3, 4$ and $5$ in one of the circles of the figure so that the sum of the $3$ numbers aligned horizontally is equal to the sum of the $3$ numbers in the column. What numbers could he have written in the circle with the question mark?
+>
+> (see figure)
+>
+> - **(A)** Only < MSK0/>
+> - **(B)** Only < MSK0/>
+> - **(C)** $2$ o $3$ o $4$
+> - **(D)** Only $1$ or $3$
+> - **(E)** $1$ o $3$ o $5$
+
+**Answer:** E
+[[src_kangourou_2020_pre_marzo__Q22]]

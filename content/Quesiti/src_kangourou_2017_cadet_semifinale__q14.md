@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q14
 parent: src_kangourou_2017_cadet_semifinale
 competition: Kangourou 2017 Cadet (semifinale individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza percorso dati due incontri (720 da A, 100 da B)*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2060
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of route given two encounters (720 from A, 100 from B) *
+
+> (Points 6) Two athletes train by running, each at a constant speed different from the other, on a straight path between two ends A and B. They start simultaneously from A and B and, as soon as they reach the opposite end from where they started, they turn around and return to their starting point. At their first meeting they're 720 meters from A, the second they're 100 meters from B. Neither one outperforms the other. How many meters is the path?
+
+**Answer:** 2060
+[[src_kangourou_2017_cadet_semifinale__Q14]]

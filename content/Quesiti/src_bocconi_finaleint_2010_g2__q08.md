@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 2) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g2__Q08
 parent: src_bocconi_finaleint_2010_g2
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ripartire 27 conchiglie in mucchi in cui nessun mucchio sia multiplo di 3, massimizzando il prodotto.*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 10 240
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_dZNShNgOjSU7WxNgqgJTcCg0VBVcZE_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>To divide 27 shells into heaps in which no heaps are multiples of 3, maximizing the product.< MSK1/>
+
+> Tatiana collected shells on the beach. It divides them into lots so that the number of shells in a pile is never a multiple of $3$. The product of all these numbers and maximum: how much is it worth?
+
+**Answer:** 10 240
+[[src_bocconi_finaleint_2010_g2__Q08]]

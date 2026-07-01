@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2010 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2010__Q02
 parent: src_bocconi_semifinale_2010
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2010
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Formica nel labirinto: distanza massima percorribile*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9 cm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Form in the maze: maximum distance to be walked*
+
+> In the labyrinth of the figure, an ant begins its journey from $A$. The rules of the route stipulate that it may pass several times at the same junction but may not cross the same corridor more than once. What is the maximum distance the ant can travel (by the rules)? Note: the ant does not necessarily have to return to where it started walking at < MSK1/>; each straight line segment (as shown in Figure) is < MSK2/> cm.
+
+![[src_bocconi_semifinale_2010__Q02.png]]
+
+**Answer:** 9 cm
+[[src_bocconi_semifinale_2010__Q02]]

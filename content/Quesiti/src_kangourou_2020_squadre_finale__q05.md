@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2020 Finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q05
 parent: src_kangourou_2020_squadre_finale
 competition: Kangourou Coppa squadre 2020 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Alberi piantati a marzo 2017*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0011
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ouvUikm9jtg5T9XqFtDuhZcgJZXEsFwU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Trees planted in March 2017*
+
+> Trees A March 2017 along an avenue were planted by trees, very far apart. In March 2018, another one was planted between each of the two adjacent ones. The same operation was repeated in March for the next two years. To date, 81 trees have been planted since March 2017 (in addition to the ones we are talking about, no others have been planted). How many trees were planted in March 2017?
+
+**Answer:** 0011
+[[src_kangourou_2020_squadre_finale__Q05]]

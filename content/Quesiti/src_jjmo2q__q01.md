@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2004 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo2q__Q01
 parent: src_jjmo2q
 competition: Japan Junior Mathematical Olympiad 2004
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate 103*103 minus 97*97*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare 103*103 meno 97*97*
+
+> Trova il valore di $$103 \times 103 - 97 \times 97.$$
+
+[[src_jjmo2q__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q17
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *lunghezza della striscia*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>band length< MSK1/>
+
+![[src_kangourou_2016_cadet_marzo__prob17.png]]
+
+> A 3 cm wide strip of paper is clear on one face and dark on the other. Mary bends the strip as shown in the figure (the trapezoids, dark, are identical). How long is the strip of paper? A) 36
+> 	
+> B) 48
+> 	
+> C) 54
+> 	
+> D) 57
+> 	
+> E) 81
+
+**Answer:** B
+[[src_kangourou_2016_cadet_marzo__Q17]]

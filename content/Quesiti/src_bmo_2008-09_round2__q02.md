@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2008-09 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2008-09_round2__Q02
 parent: src_bmo_2008-09_round2
 competition: British Mathematical Olympiad 2008-09 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove circumcentre of triangle BHC lies on circumcircle of triangle ABC*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ferPQhLsagHhNDpl4Pc-5BSxvy9ubeYh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il cerchio di circumcentro del triangolo BHC si trova sul cerchio del triangolo ABC*
+
+> Che $ABC$ sia un triangolo acuto e che $H$ sia l'ortocentro del triangolo $ABC$. Prova che il centro del circoncircolo del triangolo $BHC$ si trova sul circoncircolo del triangolo $ABC$.
+
+[[src_bmo_2008-09_round2__Q02]]

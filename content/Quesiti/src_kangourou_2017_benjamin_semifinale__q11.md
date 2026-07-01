@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q11
 parent: src_kangourou_2017_benjamin_semifinale
 competition: Kangourou 2017 Benjamin (semifinale individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo numero piccante di due cifre*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 19
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uSb-8ZS0ZxgQE-rDkGuF4RrLMjBY_qKl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Small spicy two-digit number < MSK1/>
+
+> (Points 5) We call a two-digit number piccante which is the sum of the sum of its digits and the product of its digits. Ad es. 89 is a spicy number because 89 = (8 + 9) + (8×9) = 17 + 72. What's the smallest spicy number?
+
+**Answer:** 19
+[[src_kangourou_2017_benjamin_semifinale__Q11]]

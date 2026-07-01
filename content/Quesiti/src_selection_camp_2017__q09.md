@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2017 — Selection Camp — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2017__Q09
 parent: src_selection_camp_2017
 competition: Japan IMO Selection Camp 2017 — Selection Camp
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ferry network on n islands: prove some island eventually connected to all others*
 
@@ -56,3 +59,21 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eyaOulblGc2UQL0I_cgjjoOkrLNwF_jj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rete traghetti su n isole: dimostrare che una delle isole è eventualmente collegata a tutte le altre*
+
+> $n \ge 3$ sia un numero intero. Un paese ha < MSK1/> isole. Inizialmente, la Società IMO gestisce rotte bidirezionali di traghetti tra alcune coppie di isole distinte in modo che le due isole siano collegate (possibilmente tramite isole intermedi). All'inizio di ogni anno, la Società IMO aggiorna le sue rotte di traghetto come segue:
+> 
+> (1) Scegliere due isole distinte $X$ e $Y$ in modo tale che un traghetto abbia operato tra di loro nell'anno precedente. (2) Cancellare la rotta di traghetto tra $X$ e $Y$. (3) Per ciascuna isola $Z \neq X, Y$ in modo tale che un traghetto abbia operato tra esattamente uno di $\{X, Z\}$ e $\{Y, Z\}$ nell'anno precedente, aggiungere un nuovo percorso di traghetto tra $Z$ e l'altro di $X, Y$. (4) Nessuna altra rotta di traghetti viene aggiunta o cancellata.
+> 
+> La selezione di $X$ e $Y$ nella fase (1) deve soddisfare in ogni momento la seguente condizione:
+> 
+> Condizione: per ogni sottoinsieme non vuoto $\mathcal{S}$ di isole con $|\mathcal{S}| \le n-1$, almeno uno di $X, Y$ è in $\mathcal{S}$ e l'altro non lo è.
+> 
+> Prove che esiste un anno e un'isola in modo tale che in quell'anno un traghetto opera tra quell'isola e ogni altra isola.
+
+[[src_selection_camp_2017__Q09]]

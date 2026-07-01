@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 squadre semifinale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q02
 parent: src_kangourou_2009_squadre_semifinale
 competition: Kangourou 2009 squadre semifinale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale di quadrati perfetti da 1 a 10000*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage of perfect squares from 1 to 10000*
+
+> pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs of pairs
+
+**Answer:** 1
+[[src_kangourou_2009_squadre_semifinale__Q02]]

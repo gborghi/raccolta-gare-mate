@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Biennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_biennio__Q15
 parent: src_archimede_2008_biennio
 competition: Giochi di Archimede 2008 - Biennio
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Case di partenza per percorso euleriano sulle strade*
 
@@ -45,7 +48,7 @@ tags:
 > - **(B)** 1,
 > - **(C)** 2,
 > - **(D)** 3,
-> - **(E)** 4. A C B D
+> - **(E)** 4.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]
@@ -54,3 +57,22 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Starting cases by eulerian route on roads*
+
+![[src_archimede_2008_biennio__prob15.png]]
+
+> The figure next to it is the plan of a neighborhood, the points A, B, C and D are the houses and the segments are the streets. How many of the four houses can you start to make a path that passes once and only once from each street (perhaps passing more than once for the same house)?
+>
+> - **(A)** 0,
+> - **(B)** 1,
+> - **(C)** 2,
+> - **(D)** 3,
+> - **(E)** 4.
+
+**Answer:** C
+[[src_archimede_2008_biennio__Q15]]

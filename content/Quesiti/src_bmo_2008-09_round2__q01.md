@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2008-09 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2008-09_round2__Q01
 parent: src_bmo_2008-09_round2
 competition: British Mathematical Olympiad 2008-09 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find non-negative integer solutions to sum of square roots equals 2009*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ferPQhLsagHhNDpl4Pc-5BSxvy9ubeYh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca soluzioni integrali non negative per la somma delle radici quadrate uguali a 2009*
+
+> Trova tutte le soluzioni in numeri interi non negativi $a, b, c$ a $\sqrt{a} + \sqrt{b} + \sqrt{c} = 2009$.
+
+[[src_bmo_2008-09_round2__Q01]]

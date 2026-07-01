@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 2 —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_nu_f2__Q01
 parent: src_obm_2007_nu_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Iterated composition f∘f∘…∘f=0 has real solution given ac<0*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uVjphHFMi3bPUqcfFJw1ZHOQqSglLjnK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La composizione iterata ff...f=0 ha una soluzione reale data ac<0*
+
+> Considera la funzione $f:\mathbb{R}\to\mathbb{R}$ data da $f(x)=ax^2+bx+c$, con $a,b,c\in\mathbb{R}$ e $ac<0$. Prova che per ogni intero positivo $n$, l'equazione $$\underbrace{f(f(\cdots(f(x))\cdots))}_{n}=0$$ ha almeno una soluzione reale.
+
+[[src_obm_2007_nu_f2__Q01]]

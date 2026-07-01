@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f3__Q02
 parent: src_obm_2006_n3_f3
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bounds an^2 < f(n) < bn^2 for max isosceles triangles*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZCKsxgxArFWOqQ-EkYy1PtXgXiuJ90nh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Limita un^2 < f(n) < bn^2 per i triangoli a max pari dimensioni < MSK1/>
+
+> $n$ sia un numero intero, $n \ge 3$. Definire $f(n)$ come il numero massimo di triangoli di isosceles le cui vertici appartengono a un insieme di punti $n$ nel piano senza tre punti collineari. Prova che esistono costanti positive $a$ e $b$ tali da $an^2 < f(n) < bn^2$ per ogni numero intero $n \ge 3$.
+
+[[src_obm_2006_n3_f3__Q02]]

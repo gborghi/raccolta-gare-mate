@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2013 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo11mq_honsen__Q05
 parent: src_jjmo11mq_honsen
 competition: Japan Junior Mathematical Olympiad 2013 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min total surveillance to suppress any rebellion of n*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UgUX3RXEgvDm3jGJSbFGNwaCoh5esb70/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Min sorveglianza totale per sopprimere qualsiasi ribellione di n*
+
+> $n, N$ siano integri positivi con $2n \le N$. Un determinato paese ha $N$ cittadini, e per sopprimere le ribellioni utilizza il seguente metodo:
+> 
+> - Ogni cittadino sorveglia un certo numero di altri cittadini. - Quando alcuni cittadini organizzano una rivolta, ogni cittadino che non si è ribellato può arrestare al massimo uno dei cittadini che sono sotto controllo tra quelli che si sono ribellati. - Se tutti i cittadini che si sono ribellati vengono arrestati, allora quella ribellione è soppressa.
+> 
+> Per tutti i cittadini è stato esaminato il numero di cittadini per ciascun sondaggio e questi numeri sono stati sommati, dando $K$. Inoltre, per ogni ribellione organizzata da cittadini di almeno 1 MSK, esiste sempre un modo per sopprimere tale ribellione. Trova il valore più piccolo possibile che $K$ può assumere. Si noti che anche se il cittadino $A$ sorveglia il cittadino $B$, non è necessariamente il caso che il cittadino $B$ sorvegli il cittadino $A$.
+
+[[src_jjmo11mq_honsen__Q05]]

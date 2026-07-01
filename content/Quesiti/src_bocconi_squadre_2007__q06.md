@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2007 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2007__Q06
 parent: src_bocconi_squadre_2007
 competition: Gara a Squadre 2007
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri interi positivi a tre cifre con quadrato terminante per 444*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Positive three-digit integers with a finite square of 444*
+
+> Write (in increasing order) all positive three-digit integers whose square ends in 444. (Write 0 if you think there are no numbers with this characteristic.)
+
+[[src_bocconi_squadre_2007__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2011 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2011__Q02
 parent: src_cn_cwmo_2011
 competition: China Western Mathematical Olympiad 2011
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum size of subset of {1,...,2011} with divisibility chain property*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 21
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Grandezza massima del sottogruppo di {1,...,2011} con proprietà della catena di divisibilità*
+
+> Se $M \subseteq \{1, 2, \ldots, 2011\}$ è un sottoinsieme che soddisfa la seguente condizione: Per tutti e tre gli elementi di $M$, esistono due di essi $a$ e $b$, quali $a \mid b$ o $b \mid a$. Determinare, con prova, il valore massimo di $|M|$, dove $|M|$ indica il numero di elementi di $M$.
+
+**Risposta:** 21
+[[src_cn_cwmo_2011__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Semifinale individuale — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet_semifinale__Q16
 parent: src_kangourou_2023_cadet_semifinale
 competition: Kangourou 2023 Cadet — Semifinale individuale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *somma cifre eliminabili*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1M9sXIkUDY4rP1rr4DHPF0VSPHt_-LbxS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>sum of removable figures< MSK1/>
+
+> (Points 7) The number 7 2 3 1 1 2 3 7 7 2 1 3 7 3 2 1 is given: from it you want to eliminate exactly one digit and get from the alignment of the remaining digits (one less than the previous one) a new number that is divisible by 9. There's a lot of different ways to do that. What is the sum of the numbers that can be eliminated in varying ways?
+
+[[src_kangourou_2023_cadet_semifinale__Q16]]

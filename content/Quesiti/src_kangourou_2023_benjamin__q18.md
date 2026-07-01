@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin__Q18
 parent: src_kangourou_2023_benjamin
 competition: Kangourou 2023 Benjamin — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *minimo mosse*
 
@@ -58,3 +61,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>minimum movement< MSK1/>
+
+![[src_kangourou_2023_benjamin__prob18.png]]
+
+> George stacked four bricks of different lengths in the order shown in the first figure. This rule has been given: to change the order of the bricks in the pile you can, in each single move, take a group of bricks (possibly all) from the top of the pile and roll them all together, placing them on the ones you haven't touched, as shown in the example in the figure to the left. What is the minimum number of moves that will allow them to stack them from the largest to the smallest (see last figure)? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** D
+[[src_kangourou_2023_benjamin__Q18]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f1__Q02
 parent: src_obm_2008_n2_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many of given radical numbers are greater than 10*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Quanti dei dati numeri radicali sono superiori a 10< MSK1/>
+
+> Quanti dei seguenti numeri sono superiori a $10$? $$3\sqrt{11},\ 4\sqrt{7},\ 5\sqrt{5},\ 6\sqrt{3},\ 7\sqrt{2}$$ (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
+
+**Risposta:** C
+[[src_obm_2008_n2_f1__Q02]]

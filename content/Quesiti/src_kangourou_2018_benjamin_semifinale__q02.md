@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Semifinale individuale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_semifinale__Q02
 parent: src_kangourou_2018_benjamin_semifinale
 competition: Kangourou 2018 Benjamin - Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale valore N non e possibile per i cioccolatini*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mpGDkZU0ITLxgA_gblbwITgtcOOWYDSU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which N value is not possible for chocolates< MSK1/>
+
+> (Points 3) A certain number of N chocolates was divided among seven boys so that five of them all had the same number greater than 0 and, of the remaining two, one had twice the other. So N A) can't be 19.
+> 	
+> (b) It cannot be 20. (c) it cannot be 21.
+> 	
+> D) it cannot be 22. E) can be any of the numbers in the previous answers.
+
+**Answer:** E
+[[src_kangourou_2018_benjamin_semifinale__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_benjamin__Q14
 parent: src_kangourou_2002_benjamin
 competition: Kangourou 2002 - Benjamin (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Aumento dell'altezza del soffitto*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Raise the height of the ceiling*
+
+> One room is four meters wide, five meters long and three meters high. It wants to increase its volume by 60 cubic meters, leaving its width and length unchanged. How much do you have to raise the ceiling?
+>  
+> A. 3 m. B. 4 m. C. 5 m. D. 12 m. E. 20 m.
+
+**Answer:** A
+[[src_kangourou_2002_benjamin__Q14]]

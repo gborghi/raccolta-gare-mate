@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - finale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q06
 parent: src_kangourou_2021_ecolier_finale
 competition: Kangourou 2021 Ecolier - finale
@@ -28,6 +29,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rendere uguali 5 numeri aggiungendo 1 a coppie adiacenti*
 
@@ -60,3 +63,35 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Getting 5 numbers equal by adding 1 to adjacent pairs*
+
+![[src_kangourou_2021_ecolier_finale__prob6.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \def\R{2}
+  \draw (0,0) circle (\R);
+  \fill (90:\R) circle (2.5pt) node[above=2pt] {1};
+  \fill (18:\R) circle (2.5pt) node[right=2pt] {2};
+  \fill (-54:\R) circle (2.5pt) node[right=2pt] {3};
+  \fill (-126:\R) circle (2.5pt) node[left=2pt] {4};
+  \fill (162:\R) circle (2.5pt) node[left=2pt] {5};
+\end{tikzpicture}
+\end{document}
+```
+
+> Bianca has 20 rabbits: she feeds nine of them carrots every day, the others only one day yes and one no, not necessarily all on the same day. They ate 16 rabbits yesterday. How many rabbits will eat carrots today?
+>
+> - **(A)** 9
+> - **(B)** 13
+> - **(C)** 14
+> - **(D)** 15
+> - **(E)** The information is insufficient.
+
+[[src_kangourou_2021_ecolier_finale__Q06]]

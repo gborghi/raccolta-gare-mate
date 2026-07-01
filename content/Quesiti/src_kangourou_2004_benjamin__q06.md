@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q06
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Indovinare il numero (verita tra amici)*
 
@@ -57,3 +60,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Guess the number (true among friends)
+
+> You have to guess a positive integer about which four of your friends are giving you the following information. Andrea: "The number is nine". Bruno: "The number is number one". Carl: "The number is even". Dario: "The number is 15". You know, between Andrea and Bruno, one of them is telling the truth. C F P Q C 5 cm
+> 
+> I'm going to pay. I'm going to pay. 11 11 Kang 2004 Kang 2004 and so on between Carlo and Dario. What's the number? A) 1 B) 2 C) 3 D) 9           E) 15
+
+**Answer:** B
+[[src_kangourou_2004_benjamin__Q06]]

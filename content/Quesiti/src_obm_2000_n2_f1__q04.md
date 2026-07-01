@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f1__Q04
 parent: src_obm_2000_n2_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Logic puzzle: identify who paid museum admission*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Puzzle logico: identificare chi ha pagato l'ingresso al museo*
+
+> Quattro amici vogliono visitare un museo e uno di loro decide di pagare tutti i biglietti di ingresso. Un indizio appare:
+> 
+> Non sono stato io, dice Benjamim. È stato Carlos, dice Mário. È stato Mário, dice Carlos. Mario non ha pagato, dice Pedro.
+> 
+> Solo uno di loro sta mentendo. Chi ha pagato l'ingresso al museo?
+> 
+> A) Mario \quad B) Pedro \quad C) Benjamim \quad D) Carlos
+
+**Risposta:** B
+[[src_obm_2000_n2_f1__Q04]]

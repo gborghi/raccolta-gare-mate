@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2021 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_printemps__Q08
 parent: src_canimath_2021_printemps
 competition: Coupe Animath Printemps 2021
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n ants on the edges of a unit cube: two at geodesic distance at most 1, for n=13 and n=9*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*n formiche sui bordi di un cubo unitario: due a distanza geodetica massima 1, per n=13 e n=9*
+
+> Le formiche $n$ sono collocate sui bordi di un cubo i cui bordi hanno lunghezza $1$. Per ogni reale positivo $d$, si dice che due formiche siano a distanza $d$ se la prima formica deve percorrere una distanza di almeno $d$ per raggiungere la seconda formica, muovendosi solo lungo i bordi del cubo.
+> 
+> 1. Supponiamo che $n = 13$. Prove che tra le formiche $13$ esistono due formiche a distanza inferiore o uguale a $1$. 2. Supponiamo che $n = 9$. Prove che tra le formiche $9$ esistono due formiche a distanza inferiore o pari a $1$.
+
+[[src_canimath_2021_printemps__Q08]]

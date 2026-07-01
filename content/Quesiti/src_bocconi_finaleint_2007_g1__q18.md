@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 1) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g1__Q18
 parent: src_bocconi_finaleint_2007_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Mucchi di sabbia: numero di poliedri convessi con 3 spigoli per vertice e base a 9 lati*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sandbeds: number of convex polyhedra with 3 spikes per nine-sided tip and base*
+
+> A pile of sand and a convex polyhedron one of whose faces, called the base, and in contact with the ground. What's more, exactly three spikes pass through each vertex. Sand piles obtained from each other by translation, rotation and symmetry are considered equal. So you count three different piles of sand on a square base. How many piles of sand exist with a base at $9$ sides?
+
+![[src_bocconi_finaleint_2007_g1__Q18.png]]
+
+[[src_bocconi_finaleint_2007_g1__Q18]]

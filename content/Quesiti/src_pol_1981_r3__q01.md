@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1981 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1981_r3__Q01
 parent: src_pol_1981_r3
 competition: Olimpiade Matematica Polacca 1981 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two intersecting lines lie in orthogonal planes; prove existence of a circle whose points all lie on the line of intersection of such plane pairs.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11gXCIkgSxcgxTqCK4QeFSynkdB7_4TGW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due linee di intersezione si trovano in piani ortogonali; dimostrare l'esistenza di un cerchio i cui punti si trovano tutti sulla linea di intersezione di tali coppie di piani.*
+
+> Due linee di intersezione $a$ e $b$ sono indicate in un piano. Considerare tutte le coppie di piani ortogonali $\alpha, \beta$ come $a \subset \alpha$ e $b \subset \beta$. Prove che esiste un cerchio tale che ogni suo punto si trova sulla linea $\alpha \cap \beta$ per alcuni $\alpha$ e $\beta$.
+
+[[src_pol_1981_r3__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1976-77 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1976-77_round1__Q01
 parent: src_bmo_1976-77_round1
 competition: British Mathematical Olympiad 1976-77 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Additive function vanishing on digit-3 and at 10; prove f identically 0*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1v2Xn2QsnDt_tntQnZ83qohqngON4kkGg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fonzione additiva che scompare al numero 3 e al numero 10; prova f identicamente 0*
+
+> Un intero non negativo $f(n)$ è assegnato a ogni intero positivo $n$ in modo tale che siano soddisfatte le seguenti condizioni: (i) $f(mn) = f(m) + f(n)$ per tutti gli integri positivi $m, n$; (ii) $f(n) = 0$ quando la cifra decimale finale (a destra) di $n$ è $3$; e (iii) $f(10) = 0$. Prove che $f(n) = 0$ per tutti i numeri interi positivi $n$.
+
+[[src_bmo_1976-77_round1__Q01]]

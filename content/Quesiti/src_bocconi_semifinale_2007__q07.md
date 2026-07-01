@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2007 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2007__Q07
 parent: src_bocconi_semifinale_2007
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2007
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie di animali viventi al 24 marzo 2007*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pairs of live animals as of 24 March 2007*
+
+> In a strange part of the world there are strange animals, with strange characteristics: - every couple only gives birth to pairs; - all the pairs we are talking about only live 13 months and give birth to a pair after 5 months and another after 8 months; - births and deaths occur exactly on the first day of each month.
+> 
+> In this strange part of the world, on September 1, 2005, there was only one pair of these animals, just born. How many living couples are there today, March 24, 2007?
+
+**Answer:** 9
+[[src_bocconi_semifinale_2007__Q07]]

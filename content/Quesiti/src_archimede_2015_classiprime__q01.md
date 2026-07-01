@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2015 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_classiprime__Q01
 parent: src_archimede_2015_classiprime
 competition: Gara Nazionale Classi Prime 2015
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare alpha con 2^alpha=4^(4^4)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Finding alpha with 2^alpha=4^(4^4) *
+
+> Find α so that 2α is 444. A α = 512 B α = 8 C α = 128 D α = 256 E α = 232 F α = 216
+
+**Answer:** A
+[[src_archimede_2015_classiprime__Q01]]

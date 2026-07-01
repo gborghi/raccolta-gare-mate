@@ -1,6 +1,7 @@
 ---
 title: IMO 1996 (XXXVII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1996__Q05
 parent: src_imho_1996
 competition: IMO 1996 (XXXVII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Circumradii sum inequality for hexagon with parallel sides*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Circumradii sum inequality for hexagon with parallel sides
+
+> Let $ABCDEF$ be a convex hexagon such that $AB$ is parallel to $DE$, $BC$ is parallel to $EF$, and $CD$ is parallel to $FA$. Let $R_A, R_C, R_E$ denote the circumradii of triangles $FAB$, $BCD$, $DEF$, respectively, and let $P$ denote the perimeter of the hexagon. Prove that $$R_A + R_C + R_E \ge \frac{P}{2}.$$
+
+[[src_imho_1996__Q05]]

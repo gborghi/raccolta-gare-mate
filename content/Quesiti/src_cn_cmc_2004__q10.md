@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2004 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2004__Q10
 parent: src_cn_cmc_2004
 competition: China Mathematical Competition 2004
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive integer k such that sqrt(p^2-p) is integer, p odd prime*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** $\dfrac{(p+1)^2}{4}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova un intero positivo k tale che sqrt(p^2-p) sia un intero, p primo pari*
+
+> Lasciate che $p$ sia un primo strano. $k$ sia un intero positivo tale che $\sqrt{p^2 - pk}$ sia anche un intero positivo. Poi $k = $ ___.
+
+**Risposta:** $\dfrac{(p+1)^2}{4}$
+[[src_cn_cmc_2004__Q10]]

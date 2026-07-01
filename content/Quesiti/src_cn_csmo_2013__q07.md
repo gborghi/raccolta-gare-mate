@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2013 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2013__Q07
 parent: src_cn_csmo_2013
 competition: China Southeastern Mathematical Olympiad 2013
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max horns on 10x10 board so any k still allows one more*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Max corni su tavola 10x10 così ogni k permette ancora un altro*
+
+> Tagliare un angolo di $2 \times 2$ quadrati di unità da un quadrato di unità $3 \times 3$; la figura rimanente è chiamata un corno ** (Fig. 7.1 è un corno). Ora, mettete alcuni corni senza sovrapposizioni su una tavola di $10 \times 10$ quadrati unitari (Fig. 7.2) in modo tale che i confini del corno coincidano con la griglia della lavagna. Trovare il massimo di $k$ in modo che, qualunque sia il corno $k$ messo sulla lavagna, si possa sempre mettere un altro corno sulla lavagna.
+
+![[src_cn_csmo_b11_w317__Q07.png]]
+
+**Risposta:** 7
+[[src_cn_csmo_2013__Q07]]

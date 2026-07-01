@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q01
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Grafico delle temperature massime previste in 7 giorni*
 
@@ -52,3 +55,27 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Graph of maximum temperatures expected in 7 days< MSK1/>
+
+![[src_kangourou_2021_student_gara__prob1.png]]
+
+> The Meteo app on Paola's phone shows, as shown in the figure, the weather and maximum temperatures forecast for the next 7 days. Which of the following graphs represents the maximum temperature curve? A)
+> 	
+> 	
+> B)
+> 	
+> 	
+> C)
+> 	
+> D)
+> 	
+> 	
+> E)
+
+**Answer:** E
+[[src_kangourou_2021_student_gara__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q16
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Time for Nelly to reach end of 210 m moving walkway*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Tempo per Nelly di raggiungere la fine di una passerella in movimento di 210 m < MSK1/>
+
+> Camminando su una passerella in movimento, Nelly copre 210 metri in 60 secondi. Nelly ha osservato che fa un metro per passo e che la passerella si muove di 210 metri in 60 secondi. Nelly ha notato che il passo massimo che fa è di un metro. Quanto ci vorrà per arrivare alla fine del corridoio?
+> 
+> (A) 1 min 20 s \quad (B) 1 min 24 s \quad (C) 1 min 30 s \quad (D) 1 min 40 s \quad (E) 2 min
+
+**Risposta:** B
+[[src_obm_2003_n1_f1__Q16]]

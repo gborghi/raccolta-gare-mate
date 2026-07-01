@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2013 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_classiprime__Q17
 parent: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore radice 21-esima del prodotto dei divisori di 576*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>21th root value of the product of 576 dividers< MSK1/>
+
+> N is the product of all positive integers divided by 576 (including the number itself). What is 21< MSK0/>n worth? A 24 B 32 C 144 D 12 E 18 F is not an integer
+
+**Answer:** A
+[[src_archimede_2013_classiprime__Q17]]

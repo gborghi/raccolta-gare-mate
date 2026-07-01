@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 1) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g1__Q05
 parent: src_bocconi_finaleint_2009_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare una frase autoreferenziale con due cifre in modo che risulti vera.*
 
@@ -52,3 +55,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1 e 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete a self-referential sentence with two digits so that it is true.*
+
+> 5 - AUTHORREFERENCE (coefficient 5) Complete the sentence in the box with the help of digits to make it true: < MSK0/> In this box, the number of digits \ldots\ and 3 times the number of digits \ldots
+
+**Answer:** 1 e 3
+[[src_bocconi_finaleint_2009_g1__Q05]]

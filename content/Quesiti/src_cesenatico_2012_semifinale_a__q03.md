@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_semifinale_a__Q03
 parent: src_cesenatico_2012_semifinale_a
 competition: Gara a Squadre Cesenatico 2012 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero >=7 cifre con divisore di 4 cifre*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3988
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number >=7 digits with 4-digit divisor*
+
+> From a time capsule buried fifty years ago a prophecy is recovered: The world will end in a solar flare in year n, where n is the largest number of 4 digits dividing by. . . ”. Unfortunately, the number that was written in place of the dots is no longer legible, only understood to have at least seven digits. Knowing that the MIT glow will occur this year, what is the smallest possible value for the number that completed the prophecy?
+
+**Answer:** 3988
+[[src_cesenatico_2012_semifinale_a__Q03]]

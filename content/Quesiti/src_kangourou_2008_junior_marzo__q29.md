@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q29
 parent: src_kangourou_2008_junior_marzo
 competition: Kangourou 2008 - Junior (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante sequenze di salti 1m/3m per 10m*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many jump sequences 1m/3m by 10m< MSK1/>
+
+> Kangaroos can only move by jumping and can only jump from a meter or three meters. Kang wants to move ten meters straight. How many possible jump sequences do you have? (Consider two different sequences in different order, such as {1,3,3,3} and {3,3,3,1}). A) 28 B) 26 C) 35 D) 55 E) 56
+
+**Answer:** A
+[[src_kangourou_2008_junior_marzo__Q29]]

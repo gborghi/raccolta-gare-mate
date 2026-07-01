@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Triennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_triennio__Q09
 parent: src_archimede_2005_triennio
 competition: Giochi di Archimede 2005 - Gara Triennio
@@ -30,6 +31,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi n con n-52 e n+53 quadrati perfetti*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interies n with n-52 and n+53 perfect squares*
+
+> How many integers are n such that n −52 and n + 53 are two perfect squares?
+>
+> - **(A)** 1,
+> - **(B)** 2,
+> - **(C)** 3,
+> - **(D)** 4,
+> - **(E)** 8.
+
+**Answer:** D
+[[src_archimede_2005_triennio__Q09]]

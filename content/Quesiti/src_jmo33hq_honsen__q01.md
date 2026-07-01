@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2023 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo33hq_honsen__Q01
 parent: src_jmo33hq_honsen
 competition: Japan Mathematical Olympiad 2023 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max cells covered by at least 1 L-tetromino on 5x5 grid*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VHuJXp0L8AAwmYvzBeWsGkyY-LQ1btx2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Cellule massime coperte da almeno 1 L di tetromino su una griglia 5x5< MSK1/>
+
+> Su una griglia $5 \times 5$, le piastrelle di tetromino a forma di L (che coprono ciascuna 4 celle a forma di L, come mostrato) sono posizionate lungo le linee della griglia. Le piastrelle possono sovrapporsi tra loro, ma non devono estendersi al di fuori della griglia. Per ogni cella, il numero di piastrelle che la coprono deve essere compreso tra $0$ e $2$ (inclusi). Trovare il numero massimo possibile di celle che sono coperte da almeno $1$ piastrelle.
+> 
+> (Le piastrelle possono essere rotate e riflesse.)
+
+![[src_jmo33hq_honsen__Q01.png]]
+
+[[src_jmo33hq_honsen__Q01]]

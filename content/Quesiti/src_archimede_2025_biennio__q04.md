@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Biennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_biennio__Q04
 parent: src_archimede_2025_biennio
 competition: Giochi di Archimede 2025 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Capacità recipiente da differenza tra 75% e 20%*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18_HJOvj5XdZGR_vwwSmhkGXfDLuHPlIX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Container capacity by difference of 75% to 20%*
+
+> When a liquid container is 75% full, it contains 44 litres more than when it is 20% full. How many litres is the total capacity of the container?
+>
+> - **(A)** 80
+> - **(B)** 75
+> - **(C)** 84
+> - **(D)** 72
+> - **(E)** 90
+
+**Answer:** A
+[[src_archimede_2025_biennio__Q04]]

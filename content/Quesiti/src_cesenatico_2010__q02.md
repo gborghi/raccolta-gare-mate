@@ -1,6 +1,7 @@
 ---
 title: XXVI Olimpiade Italiana Cesenatico 2010 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2010__Q02
 parent: src_cesenatico_2010
 competition: XXVI Olimpiade Italiana Cesenatico 2010
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *prodotto e somma di due rossi*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** dimostrato (rossi = multipli di k)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jvO86zea0xNNLnuyY0Trw1eMPf_hKR9u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>product and sum of two reds< MSK1/>
+
+> Each natural number, zero included, is coloured in white or red, so that: • there is at least one white number and at least one red number; • the sum between a white number and a red number is white; • the product between a white number and a red number is red. Demonstrate that the product of two red numbers is always a red number and that the sum of two red numbers is always a red number.
+
+**Answer:** dimostrato (rossi = multipli di k)
+[[src_cesenatico_2010__Q02]]

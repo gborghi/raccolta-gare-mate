@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q01
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anno x prima di 9613 con 9613^2-x^2 quadrato perfetto*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9595
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Year x before 9613 with 9613^2-x^2 perfect square< MSK1/>
+
+> Welcome to the future! Philip J. Frege, you're in the future! Liela Turinga shouts dramatically after awakening our hero from hibernation. What year are they? Shortly before the year 9613. In fact, it's exactly the last year x before 9613 so 96132 −x2 is a perfect square. What year is the poor pony-pizza?
+
+**Answer:** 9595
+[[src_squadre_2018_finale__Q01]]

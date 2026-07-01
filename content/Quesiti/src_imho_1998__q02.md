@@ -1,6 +1,7 @@
 ---
 title: IMO 1998 (XXXIX International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1998__Q02
 parent: src_imho_1998
 competition: IMO 1998 (XXXIX International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Judges rating contestants: prove k/a >= (b-1)/(2b)*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wkgXqV9hwy2vlF5wQ5GPmLdn3HNUtFqc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Judges rating contestants: evidence k/a >= (b-1)/(2b)
+
+> In a competition, there are $a$ contestants and $b$ judges, where $b \ge 3$ is an odd integer. Each judge rates each contestant as either "pass" or "fail". Suppose $k$ is a number such that, for any two judges, their ratings coincide for at most $k$ contestants. Prove that $k/a \ge (b-1)/(2b)$.
+
+[[src_imho_1998__Q02]]

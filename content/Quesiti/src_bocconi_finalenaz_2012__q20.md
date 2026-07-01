@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2012 — Quesito
   20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2012__Q20
 parent: src_bocconi_finalenaz_2012
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2012
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Circuito naturale con nodi e celle collegati in ordine*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Natural circuit with nodes and cells connected in order*
+
+> In a natural circuit $a$, there are $b$ nodes in the $c$ cells in the figure. Attention, however, each node must be connected (from the smallest to the largest, therefore) once with a stroke or with an arrow) to each of the other numbers. In addition, each arrow must be oriented towards the larger of the two numbers it connects (from the smaller to the larger, therefore).
+
+![[src_bocconi_finalenaz_2012__Q20.png]]
+
+**Answer:** (tre configurazioni a croce nella soluzione)
+[[src_bocconi_finalenaz_2012__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_ecolier_f__Q03
 parent: src_kangourou_2017_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2017 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora segnata dall'orologio antiorario di Anna*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1117
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Time marked by Anna's counterclock< MSK1/>
+
+> Anna's wristwatch is traditional, so the hands move on a 12-hour dial. However, the hands are moving against the clock: for example, if it were now 8.35, in one hour it would be 7.35. Last Saturday at 6:17 p.m. his watch was at 7:17 p.m. - what time will it be today, Monday, at 2:17 p.m.? (Write in the order of time and minute, e.g. to indicate 8.35 write 0835.)
+
+**Answer:** 1117
+[[src_kangourou_2017_squadre_ecolier_f__Q03]]

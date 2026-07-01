@@ -1,6 +1,7 @@
 ---
 title: IMO 1966 (Eighth International Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1966_all__Q05
 parent: src_imo_1966_all
 competition: IMO 1966 (Eighth International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Solve linear system with absolute-value coefficients*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Solve linear system with absolute-value coefficients< MSK1/>
+
+> Solve the system of equations $$\sum_{\substack{j=1 \\ j\neq i}}^{4} |a_i - a_j|\, x_j = 1, \quad i = 1, 2, 3, 4,$$ or: $$\begin{cases} |a_1 - a_2|\,x_2 + |a_1 - a_3|\,x_3 + |a_1 - a_4|\,x_4 = 1 \\ |a_2 - a_1|\,x_1 + |a_2 - a_3|\,x_3 + |a_2 - a_4|\,x_4 = 1 \\ |a_3 - a_1|\,x_1 + |a_3 - a_2|\,x_2 + |a_3 - a_4|\,x_4 = 1 \\ |a_4 - a_1|\,x_1 + |a_4 - a_2|\,x_2 + |a_4 - a_3|\,x_3 = 1 \end{cases}$$ where $a_1, a_2, a_3, a_4$ are four distinct real numbers.
+
+[[src_imo_1966_all__Q05]]

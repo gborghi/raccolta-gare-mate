@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2005 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2005__Q08
 parent: src_cn_cwmo_2005
 competition: China Western Mathematical Olympiad 2005
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum number of students with given pair-knowing conditions*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Nombre massimo di studenti con determinate condizioni di conoscenza di coppia< MSK1/>
+
+> Ci sono $n$ nuovi studenti. Supponiamo che ci siano due studenti che si conoscono in ogni tre studenti e ci sono due studenti che non si conoscono in ogni quattro studenti. Trova il valore massimo di $n$.
+
+**Risposta:** 8
+[[src_cn_cwmo_2005__Q08]]

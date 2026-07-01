@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Semifinale individuale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_semifinale__Q15
 parent: src_kangourou_2018_benjamin_semifinale
 competition: Kangourou 2018 Benjamin - Semifinale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti parallelogrammi con vertici tra 8 punti*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0004
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mpGDkZU0ITLxgA_gblbwITgtcOOWYDSU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many parallelograms with vertices between 8 points < MSK1/>
+
+> (Points 6) Two circles with the same centre (but different radius) shall be intersected at 8 points by two different diameters of the radius of the circle. How many parallelograms do 4 of these 8 points have for vertices?
+
+**Answer:** 0004
+[[src_kangourou_2018_benjamin_semifinale__Q15]]

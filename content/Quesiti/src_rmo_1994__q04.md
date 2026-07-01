@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1994 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1994__Q04
 parent: src_rmo_1994
 competition: Regional Mathematical Olympiad 1994
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve a system of equations in real x and y*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi un sistema di equazioni in x e y reali*
+
+> Risolvere il sistema di equazioni per $x$ e $y$ reali: $$5x\!\left(1 + \frac{1}{x^2 + y^2}\right) = 12$$ $$5y\!\left(1 - \frac{1}{x^2 + y^2}\right) = 4.$$
+
+[[src_rmo_1994__Q04]]

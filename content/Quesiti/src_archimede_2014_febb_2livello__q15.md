@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q15
 parent: src_archimede_2014_febb_2livello
 competition: Archimede Gara di Febbraio 2014 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazione griglia con vincoli righe/colonne, coppie (m,n)*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Grid colour with row/column constraints, pairs (m,n) *
+
+> A grid with m rows and n columns has each box colored in white or black so as to meet the following two conditions: (a) each row contains as many white boxes as black; (b) if a row meets a column in a black box, then that row and that column have the same number of black boxes; similarly, if a row intersects a column in a white box, then that row and that column have the same number of white boxes. Find all possible pairs (m, n) for which such a colour may exist.
+
+[[src_archimede_2014_febb_2livello__Q15]]

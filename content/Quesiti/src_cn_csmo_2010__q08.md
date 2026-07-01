@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2010 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2010__Q08
 parent: src_cn_csmo_2010
 competition: China Southeastern Mathematical Olympiad 2010
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum n so that n triangles on 8 circle points share a side*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova n minimo in modo che n triangoli su 8 punti circolari condividano un lato*
+
+> Dati otto punti $A_1, A_2, \ldots, A_8$ su un cerchio, determinare il numero intero positivo più piccolo $n$ in modo tale che tra tutti i triangoli $n$ con vertici in questi otto punti, ci sono due che hanno un lato comune.
+
+![[src_cn_csmo_b11_w285__Q08.png]]
+
+**Risposta:** 9
+[[src_cn_csmo_2010__Q08]]

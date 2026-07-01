@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q29
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Mentitori reali nel gruppo di 4*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Real liars in the group of 4*
+
+> In one country everyone knows each other: some of them always lie, while others always tell the truth. We meet a group of four people from this country and we ask each of them, how many of you are liars? We get the following 4 different answers: 0, 1, 2, 3. How many really lie in that group of people? (a) 1 (b) 2 (c) 3 (d) 4 (e) it cannot be established
+
+**Answer:** E
+[[src_kangourou_2003_benjamin__Q29]]

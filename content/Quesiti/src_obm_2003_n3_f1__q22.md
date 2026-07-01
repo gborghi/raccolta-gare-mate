@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q22
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count true statements about triangle T and derived triangles T' and sqrt(T)*
 
@@ -59,3 +62,20 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le affermazioni vere sul triangolo T e sui triangoli derivati T' e sqrt(T) *
+
+> $T = (a, b, c)$ sia un triangolo, dove $a$, $b$, $c$ sono le lunghezze laterali. Definire $T' = (a^2, b^2, c^2)$ e $\sqrt{T} = (\sqrt{a}, \sqrt{b}, \sqrt{c})$, e lasciare $\tilde{T} = $ la radice quadrata di $T$. Considerate le seguenti affermazioni:
+> 
+> 1. $T'$ è sempre un triangolo. 2. Se $T$ è equilaterale, allora $T'$ è equilaterale. 3. $T'$ è un triangolo rettangolo se e solo se $T$ è un triangolo rettangolo. 4. $\sqrt{T}$ è un triangolo per ogni triangolo $T$. 5. Tutti gli angoli di $\sqrt{T}$ sono acuti.
+> 
+> Il numero delle dichiarazioni vere è:
+> 
+> A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) $5$
+
+**Risposta:** A
+[[src_obm_2003_n3_f1__Q22]]

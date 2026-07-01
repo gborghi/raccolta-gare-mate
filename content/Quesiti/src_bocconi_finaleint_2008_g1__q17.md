@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q17
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare una griglia 5x5 con 1,2,3 con vincoli di ordine per riga, colonna e somme diagonali nei rettangoli.*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1 soluzione
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete a 5x5 grid with 1,2,3 with line, column and diagonal sum constraints in the rectangles.*
+
+> Each grid box contains the figure $1$, $2$ or $3$. In the lower row, the figures are in increasing order in the broad sense (two nearby figures can be equal) from left to right. In the left column, the figures are in increasing order in a broad sense from bottom to top. Complete the grid so that, in any rectangle or quadrat of four boxes at the intersection of two rows and two columns, the two sums of two digits in diagonal are different. Thus, on the figure, the sum of $a$ and $b$ must be different from $3$.
+
+![[src_bocconi_finaleint_2008_g1__Q17.png]]
+
+**Answer:** 1 soluzione
+[[src_bocconi_finaleint_2008_g1__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q01
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto fra aree per dimezzamenti successivi*
 
@@ -57,3 +60,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rate between areas for subsequent halving*
+
+> So Bn is 2Cn−1 3 +An−1. Finally, it should be noted that at launch n, the point mark can be on one of the two vertices A or C (if n is equal), or on one of the two vertices B or D (if n is odd). So if n is equal, An + Cn = 1. Putting together these observations, it is found that, if n = 2m is equal, A2m = 1 3 2 3C2m−2 + A2m−2 and C2m−2 = 1 −A2m−2 where A2m = A2m−2 + 2 9 . Given that A0 = 1 because, at the 0th throw, the landmark is in A, it is found that A10 = 4921 39. The answer is 4921.
+
+**Answer:** 0016
+[[src_gs_2012_squadre__Q01]]

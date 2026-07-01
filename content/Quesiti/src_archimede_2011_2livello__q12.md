@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_2livello__Q12
 parent: src_archimede_2011_2livello
 competition: Archimede Gara 2° livello 2011 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione vera su lunghezza sequenza con somme di segno*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>True statement on sequence length with sums of the mark< MSK1/>
+
+> It 's x1 . . . xn a finite sequence of real numbers such that: (i) the sum of 7 consecutive terms is always strictly positive; (ii) the sum of 13 consecutive elements is always strictly negative. Which of the following statements is true?
+>
+> - **(A)** The sequence has a maximum of 18 terms.
+> - **(B)** The sequence can have 19 terms.
+> - **(C)** The sequence has exactly 21 terms.
+> - **(D)** The sequence has at least 18 terms.
+> - **(E)** Arbitrary length sequences that satisfy (i) and (ii) exist . Problems with numerical answer  5 points
+
+**Answer:** A
+[[src_archimede_2011_2livello__Q12]]

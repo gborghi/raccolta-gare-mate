@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Ecolier (marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_ecolier__Q18
 parent: src_kangourou_2005_ecolier
 competition: Kangourou 2005 - Ecolier (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rettangoli diversi con 14 fiammiferi*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Different rectangles with 14 matches*
+
+![[src_kangourou_2005_ecolier__prob18.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2, line width=3pt]
+  \draw (0,0) rectangle (2,1);
+\end{tikzpicture}
+\end{document}
+```
+
+> There is only one rectangle that you can make using 6 matches, the one shown in the figure. How many different rectangles by size can you make using (for each) 14 matches? (All matches are the same length.) A) 2 B) 3 C) 4 D) 6 E) 8
+
+**Answer:** B
+[[src_kangourou_2005_ecolier__Q18]]

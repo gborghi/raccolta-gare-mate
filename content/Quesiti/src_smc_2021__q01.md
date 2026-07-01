@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2021 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2021__Q01
 parent: src_smc_2021
 competition: Senior Mathematical Challenge 2021
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cicely's 21st birthday was in 1939; find the year of her 100th birthday.*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il 21° compleanno di Cicely fu nel 1939; trova l'anno del suo 100° compleanno.
+
+> Cicely ebbe il suo compleanno nel 1939. Quando ha fatto il suo compleanno?
+>
+> - **(A)** 2020
+> - **(B)** 2019
+> - **(C)** 2018
+> - **(D)** 2010
+> - **(E)** 2008
+
+**Risposta:** C
+[[src_smc_2021__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q11
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Caselle nere sulla diagonale (griglia 4x4)*
 
@@ -67,3 +70,34 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Black holes on the diagonal (grid 4x4) < MSK1/>
+
+![[src_kangourou_2007_benjamin_marzo__prob11.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.7]
+  \draw[thick] (0,0) grid (4,4);
+  \node[left] at (0,0.5) {1};
+  \node[left] at (0,1.5) {2};
+  \node[left] at (0,2.5) {3};
+  \node[left] at (0,3.5) {4};
+  \node[below] at (0.5,0) {1};
+  \node[below] at (1.5,0) {2};
+  \node[below] at (2.5,0) {3};
+  \node[below] at (3.5,0) {4};
+  \node[below left] at (0,0) {$A$};
+  \node[above right] at (4,4) {$B$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The rows and columns of a 4 x 4 square grid were numbered with the numbers 1, 2, 3 and 4, as shown in the figure. Colour some of the grid boxes in black so that the number of black boxes in each row and column is equal to the number of the corresponding row and column. How many black boxes meet on the diagonal that goes from A to B? A) 1, 2, 3 or 4 depending on how you colored the boxes. B) Exactly 1 C) Exactly 2 D) Exactly 3 E) 1, 2 or 3 depending on how you colored the boxes, but never 4
+
+**Answer:** C
+[[src_kangourou_2007_benjamin_marzo__Q11]]

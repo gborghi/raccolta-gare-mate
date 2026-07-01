@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2024 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2024__Q03
 parent: src_oprem_2024
 competition: Olympiades Nationales de Mathématiques (Première) 2024
@@ -43,6 +44,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exercise 3 (general track without maths speciality, and all technological track): Pascal pyramids of absolute differences — construction, counting entries, perfect pyramids, and where the largest entry must lie via a greatest-neighbour path argument.*
 
@@ -89,3 +92,47 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zCUBghOB28ZpdNrjC68r0u1mIzIpp_46/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esercizio 3 (traccia generale senza specialità matematica, e tutta la traccia tecnologica): Piramide di Pascal di differenze assolute  costruzione, conteggio di entrate, piramidi perfette, e dove la più grande entrata deve essere attraverso un argomento di percorso più grande vicino.*
+
+> **Esercizio 3 (candidati della pista generale NON seguendo l'opzione  spé maths  E TUTTI i candidati della pista tecnologica) **
+> 
+> *Piramidi di Pascal (Piramidi di Pascal) *
+> 
+> Una piramide Pascal è un array triangolare di numeri interi naturali formato in modo seguente: la sua linea superiore contiene un numero, i due numeri successivi, ecc. Inoltre, su ogni linea, tranne l'ultima (la di sotto), ogni numero deve essere uguale alla distanza tra i due numeri situati appena sotto di esso, uno a sinistra e l'altro a destra (cioè la differenza assoluta). Qui di seguito è rappresentata, in pochi passi, la costruzione di un triangolo con linee $4$ (ad esempio, dalla linea di base $8,\ 4,\ 10,\ 7$ si ottiene $4,\ 6,\ 3$, quindi $2,\ 3$, quindi $1$).
+> 
+> **1. Domanda preliminare.** Ricordi perché la somma $1+2+\cdots+n$ dei primi $n$ enti interi positivi, con $n\ge 1$, è uguale a $\dfrac{n(n+1)}{2}$.
+> 
+> **2. Alcuni esempi.**
+> 
+> **a.** Costruire la piramide Pascal con linee $4$ la cui ultima linea è costituita, in questo ordine di esposizione, dai numeri interi $4,\ 3,\ 9$ e $7$ ($4$ si trova quindi all'estrema sinistra e $7$ all'estrema destra).
+> 
+> **b.** Costruire una piramide Pascal con linee $3$ utilizzando esclusivamente gli integri $1$, $2$, $3$.
+> 
+> **3. Numero di integri in una piramide di Pascal.**
+> 
+> **a.** Quanti numeri (distinti o meno) sono scritti in una piramide Pascal con linee $3$? Con linee $4$?
+> 
+> < MSK2/>b.< MSK3/> Lasciate < MSK0/>. Quanti numeri (distinti o meno) sono scritti in una piramide di Pascal con linee $n$?
+> 
+> In quanto segue, diciamo che una piramide di Pascal è perfetta se contiene esattamente una volta ciascuno degli enti tra MSK0 e il numero totale di enti del triangolo. Ad esempio, la piramide Pascal con linee $3$ che hanno $2$ in alto, linea media $3$ $5$ e linea base $4$ $1$ $6$ è perfetta.*
+> 
+> < MSK2/>4. < MSK3/> Lasciate < MSK0/>. Mostrare che se esiste una piramide perfetta con linee $n$, il numero intero più grande che possiede si trova sulla linea inferiore. Qual è questo numero intero?
+> 
+> **5.** Costruire una piramide Pascal perfetta con linee $3$ in cui il numero $6$ sia situato in basso e in mezzo.
+> 
+> L'obiettivo di questa domanda è dimostrare che in una piramide Pascal perfetta con linee $n$, e tranne quando $n\le 3$, il numero $n(n+1)/2$ non può essere situato né in basso a destra né in basso a sinistra.
+> 
+> **a.** giustificare che sia sufficiente a dimostrare che non può essere situato in fondo a destra. Supponiamo, in quanto segue, che il numero $n(n+1)/2$ sia situato in basso a destra.
+> 
+> **b.** Considera quindi il percorso che parte dalla cima della piramide e scende progressivamente, collegando il numero raggiunto su ogni linea al più grande dei due numeri della linea inferiore situato a sinistra e a destra. Nell'esempio di cui sopra la domanda 4 questo percorso sarebbe $2\to 5\to 6$. Mostrare che, nel caso generale, questo percorso può seguire solo il bordo destro della piramide e terminare a $n(n+1)/2$.
+> 
+> **c.** Concludi considerando il triangolo equilaterale la cui base inferiore è composta dai numeri $n-2$ più a sinistra dell'ultima linea.
+
+![[src_oprem_2024__Q03.png]]
+
+[[src_oprem_2024__Q03]]

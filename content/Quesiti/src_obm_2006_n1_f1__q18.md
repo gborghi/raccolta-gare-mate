@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q18
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tangram area of shaded region given total area 64 cm²*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area di tangramma della regione ombreggiata data la superficie totale di 64 cm2*
+
+> La figura qui sotto rappresenta un Tangram, un puzzle cinese formato da 5 triangoli, 1 parallelo e 1 quadrato. Sapendo che l'area del tangramma mostrato è $64\text{ cm}^2$, qual è l'area, in $\text{cm}^2$, della regione ombrata?
+>
+> - **(A)** 7.6
+> - **(B)** 8
+> - **(C)** 10.6
+> - **(D)** 12
+> - **(E)** 21.3
+
+![[src_obm_2006_n1_f1__Q18.png]]
+
+**Risposta:** B
+[[src_obm_2006_n1_f1__Q18]]

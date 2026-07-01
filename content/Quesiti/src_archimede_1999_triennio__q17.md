@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1999 - Triennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_triennio__Q17
 parent: src_archimede_1999_triennio
 competition: Giochi di Archimede 1999 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eventualita piu probabile pescando 8 calze*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most likely event by fishing 8 socks< MSK1/>
+
+> In my drawer, there are eight blue socks and eight black socks. I fish in the dark eight socks at a time. Which of the following is the most likely eventuality?
+>
+> - **(A)** Fishing 4 socks of one color and 4 of another
+> - **(B)** 5 socks of one colour and 3 of another
+> - **(C)** 6 socks of one colour and 2 of another
+> - **(D)** 7 socks of one colour and 1 colour of another
+> - **(E)** Fishing 8 socks of one color and 0 of another.
+
+**Answer:** B
+[[src_archimede_1999_triennio__Q17]]

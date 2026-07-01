@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Triennio — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_triennio__Q24
 parent: src_archimede_1996_triennio
 competition: Giochi di Archimede 1996 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri con cinque cifre 1 e una cifra 2*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers with five digits 1 and one digit 2*
+
+> I have five digits equal to 1 and one digit equal to 2. Using all or some of these numbers, how many different numbers can I construct?
+>
+> - **(A)** 15
+> - **(B)** 21
+> - **(C)** 24
+> - **(D)** 26
+> - **(E)** 27.
+
+**Answer:** D
+[[src_archimede_1996_triennio__Q24]]

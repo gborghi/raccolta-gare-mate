@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - finale settembre — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_settembre__Q04
 parent: src_kangourou_2020_student_settembre
 competition: Kangourou 2020 Student - finale settembre
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Confronto tra 129^29 e 4095^17*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** il secondo
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TNLTY-N5_R2aDojc_Feic8HuZ8gVY6JO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Comparison between 129^29 and 4095^17
+
+> Which of the two numbers $129^{29}$ and $4095^{17}$ is greater?
+
+**Answer:** il secondo
+[[src_kangourou_2020_student_settembre__Q04]]

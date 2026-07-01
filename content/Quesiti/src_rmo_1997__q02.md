@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1997 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1997__Q02
 parent: src_rmo_1997
 competition: Regional Mathematical Olympiad 1997
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all values taken by a sequence term given gcd recurrence*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fsneixMr3FqHhay8mNcRHVWgNyyUmpPY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i valori presi da un termine di sequenza dato la ricorrenza gcd*
+
+> Per ogni intero positivo $n$, definire $a_n = 20 + n^2$ e $d_n = \gcd(a_n, a_{n+1})$. Trova l'insieme di tutti i valori presi da $d_n$ e mostra con esempi che ciascuno di questi valori è raggiunto.
+
+[[src_rmo_1997__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre semifinale turno A — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q05
 parent: src_kangourou_2011_squadre_semifinale
 competition: Kangourou 2011 squadre semifinale turno A
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero civico della cugina (lato sinistro dispari)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 21
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Civil number of cousin (left side odd) *
+
+> My cousin and I live in the street where my cousin and I live. There are 17 houses. The houses on the left side are numbered using progressively all odd numbers from 1 onwards, those on the right side are numbered using progressively all even numbers from 2 onwards. My house is the last one on the right and it has the number 12, my cousin's house is the last one on the left. What's my cousin's civilian number?
+
+**Answer:** 21
+[[src_kangourou_2011_squadre_semifinale__Q05]]

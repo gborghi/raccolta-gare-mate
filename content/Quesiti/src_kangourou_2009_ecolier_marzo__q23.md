@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q23
 parent: src_kangourou_2009_ecolier_marzo
 competition: Kangourou 2009 - Ecolier (gara 19 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale linea corrisponde a XYYYXX*
 
@@ -71,3 +74,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which line corresponds to XYYYXX*
+
+![[src_kangourou_2009_ecolier_marzo__prob23.png]]
+
+> John drew a line consisting of a few straight segments. At the end of each segment he always turned at right angles, either to the right or to the left of the source line. At each turn, he posted on a sheet one of the X or Y symbols aside: one of the two, you don't know which, always indicates that he turned left, the other that he turned right. On the separate sheet is the sequence XYYYXX: which of the following could be the line drawn by John from the point W? 24.In the village of Piedistrani each inhabitant has the left foot longer than one or two numbers compared to the right foot. The shops, however, are like the rest of the world: they sell paired shoes, a right shoe and a left shoe of the same number. To save money, some of Piedistrani's friends decide to get together and buy the shoes together, then pair them together in the way that suits them. In doing so, each of you takes two shoes and one of the number 36 and one of the number 45 remain unused. So the minimum possible number of these friends is A) 5 B) 6 C) 7 D) 8 E) 9 W W W W A) B) C) D) E) Texts_09.qxp 15-04-2009 20:23 Page 9
+> 
+> 2009 Ecolier Category For fourth and fifth year students of primary school
+
+**Answer:** E
+[[src_kangourou_2009_ecolier_marzo__Q23]]

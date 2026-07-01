@@ -1,6 +1,7 @@
 ---
 title: IMO 1977 (XIX International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1977__Q01
 parent: src_imho_1977
 competition: IMO 1977 (XIX International Mathematical Olympiad)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Midpoints of segments in square form dodecagon vertices*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Midpoints of segments in square form dodecagon vertices*
+
+> Equilateral triangles $ABK$, $BCL$, $CDM$, $DAN$ are constructed inside the square $ABCD$. Prove that the midpoints of the four segments $KL$, $LM$, $MN$, $NK$ and the midpoints of the eight segments $AB$, $BK$, $BL$, $CM$, $DM$, $DN$, $AN$ are the twelve vertices of a regular dodecagon.
+
+[[src_imho_1977__Q01]]

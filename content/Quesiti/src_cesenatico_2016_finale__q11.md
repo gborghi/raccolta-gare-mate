@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q11
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *multipli di 3 con cifre 1..b-1 in base b*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0033
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*multiple of 3 with digits 1..b-1 based on b*
+
+> Black geometry Smuggler Han Singleton hides in his ship, the Millennium Problem, laser compass boxes to use during the team competition. Each box is labeled with a multiple of 3. The pilot notes that for each of these numbers there is a base b, with 2 ≤b ≤100, using which the number turns out to have all the digits from 1 to b−1 in increasing order from left to right. An example is box number 27, because 27 is written 123 in base 4. How many boxes are there?
+
+**Answer:** 0033
+[[src_cesenatico_2016_finale__Q11]]

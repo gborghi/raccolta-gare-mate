@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q05
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sixth term of a sequence where each term equals sum of two previous*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sesto termine di una sequenza in cui ogni termine è uguale alla somma di due precedenti*
+
+> In una sequenza, ogni termine dal terzo è la somma dei due termini precedenti. Il secondo termine è $1$ e il quinto termine è $2005$. Qual è il sesto mandato?
+> 
+> A) $3{,}002$ \quad B) $3{,}008$ \quad C) $3{,}010$ \quad D) $4{,}002$ \quad E) $5{,}004$
+
+**Risposta:** B
+[[src_obm_2005_n1_f1__Q05]]

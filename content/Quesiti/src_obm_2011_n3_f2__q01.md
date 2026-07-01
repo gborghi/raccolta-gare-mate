@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f2__Q01
 parent: src_obm_2011_n3_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest positive integer m so the quadratic has an integer solution*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più piccolo intero positivo m quindi il quadratico ha una soluzione di intero*
+
+> L'equazione di secondo grado $x^2 - 5x + m = 2011$ ha almeno una soluzione di un intero. Qual è il valore intero positivo più piccolo di $m$?
+
+[[src_obm_2011_n3_f2__Q01]]

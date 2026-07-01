@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q21
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli non degeneri da 10 punti*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Non-degenerate triangles of 10 points < MSK1/>
+
+> There are exactly ten points in the plan. Five of these are on a straight line and no other straight line contains more than two points between those data. How many non-degenerate triangles have three of the ten data points as vertices?
+>  
+> A. 20 B. 50 C. 70 D. 100 E. 110
+
+**Answer:** E
+[[src_kangourou_2002_student__Q21]]

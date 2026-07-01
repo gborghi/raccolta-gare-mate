@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_finale__Q14
 parent: src_kangourou_2018_ecolier_finale
 competition: Kangourou Coppa Ecolier squadre 2018 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di parti con tre rettangoli*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0014
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of parts with three rectangles*
+
+![[src_kangourou_2018_ecolier_finale__prob14.png]]
+
+> The rectangles Elena wants to draw three rectangles on a square sheet, each of which has sides on the lines that delimit the squares and none of which touches the edge of the sheet. What is the maximum number of parts that rectangles can divide the page into?
+
+**Answer:** 0014
+[[src_kangourou_2018_ecolier_finale__Q14]]

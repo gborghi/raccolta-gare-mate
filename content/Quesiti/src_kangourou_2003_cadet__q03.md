@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Cadet (20 marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet__Q03
 parent: src_kangourou_2003_cadet
 competition: Kangourou 2003 Cadet (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prezzo del pappagallino fuggito da media*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eygrPRLv8IqHr90bPrLsox-FA6V93kRL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Price of the average escaped parrot< MSK1/>
+
+> There were five parrots in a cage. Their average price was 60 euros. One day, while cleaning the cage, the most handsome one flew away. The average price of the remainder is 50 euros. What was the price of the fugitive? (a) 10 euro B) 20 euro C) 55 euro D) 60 euro E) 100 euro
+
+**Answer:** E
+[[src_kangourou_2003_cadet__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2020 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2020__Q02
 parent: src_smc_2020
 competition: Senior Mathematical Challenge 2020
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the remainder when 1234 times 5678 is divided by 5*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il rimanente quando 1234 per 5678 è diviso per 5*
+
+> Qual è il rimanente quando $1234 \times 5678$ è diviso da $5$?
+>
+> - **(A)** $0$
+> - **(B)** $1$
+> - **(C)** $2$
+> - **(D)** $3$
+> - **(E)** $4$
+
+**Risposta:** C
+[[src_smc_2020__Q02]]

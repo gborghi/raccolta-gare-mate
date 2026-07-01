@@ -1,6 +1,7 @@
 ---
 title: IMO 2019 (LX International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2019__Q02
 parent: src_imho_2019
 competition: IMO 2019 (LX International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Concyclicity of two points defined via angle and parallel conditions in triangle*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JyHT55oZouRQ04YAx-a4_fyuMYOtPSWx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Concyclicity of two points defined via angle and parallel conditions in triangle*
+
+> In the $ABC$ triangle, point $A_1$ lies on side $BC$ and point $B_1$ lies on side $AC$. Let $P$ and $Q$ be points on segments $AA_1$ and $BB_1$, respectively, such that $PQ$ is parallel to $AB$. Let $P_1$ be a point on line $PB_1$, such that $B_1$ lies strictly between $P$ and $P_1$, and $\angle PP_1C = \angle BAC$. Let $Q_1$ be a point on line $QA_1$, such that $A_1$ lies strictly between $Q$ and $Q_1$, and $\angle CQ_1Q = \angle CBA$.
+> 
+> Prove that points $P$, $Q$, $P_1$, and $Q_1$ are concyclic.
+
+[[src_imho_2019__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2005 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2005__Q04
 parent: src_cn_cmc_2005
 competition: China Mathematical Competition 2005
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cube cross-section perpendicular to space diagonal: fixed perimeter or area?*
 
@@ -47,3 +50,21 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sezione trasversale di cubo perpendicolare alla diagonale dello spazio: perimetro o area fissa?*
+
+> Come mostrato nel diagramma, $ABCD$-$A'B'C'D'$ è un cubo. Costruire un piano arbitrario $\alpha$ perpendicolare alla diagonale $AC'$ in modo tale che $\alpha$ abbia punti comuni con ogni faccia del cubo. Indicare rispettivamente la superficie e il perimetro della sezione trasversale di $\alpha$. Allora ().
+>
+> - **(A)** $S$ è un numero fisso e $L$ non è
+> - **(B)** $L$ è fisso e $S$ non è
+> - **(C)** Sia $S$ che $L$ sono fissi
+> - **(D)** Non è fissato né $S$ né $L$
+
+![[src_cn_cmc_2005__Q04.png]]
+
+**Risposta:** B
+[[src_cn_cmc_2005__Q04]]

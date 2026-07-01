@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q25
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto delle 8 ascisse rette per origine e parabola*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Product of 8 straight axes by origin and parabola*
+
+> Four lines passing through the origin and two to two distinct lines intersect the equation parabola y = x2  2 determining 8 points all distinct from each other. What is the value of the product of these eight points? A) Only 16. B) Only  16. C) Only eight. D) Only  8.
+>    
+> E) It can take on several distinct values.
+
+**Answer:** A
+[[src_kangourou_2019_student_marzo__Q25]]

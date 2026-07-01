@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo21yqa_yosen__Q03
 parent: src_jjmo21yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Row of 7 cells with A,B,C, adjacent pairs of each*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 54
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11kigjl_Wt-al8ocndA12n0n3x8dtw2E3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rua di 7 cellule con A, B, C, coppie adiacenti di ciascuna*
+
+> Considerate come scrivere una delle lettere A, B, C in ciascuna delle celle $7$ disposte in una singola riga. Quanti sono questi scritti in cui esistono due cellule adiacenti entrambe contenenti A, due cellule adiacenti entrambe contenenti B e due cellule adiacenti entrambe contenenti C? (Le scritture che coincidono sotto rotazione o riflessione sono ancora contate come distinte.)
+
+**Risposta:** 54
+[[src_jjmo21yqa_yosen__Q03]]

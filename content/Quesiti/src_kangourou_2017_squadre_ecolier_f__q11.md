@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_ecolier_f__Q11
 parent: src_kangourou_2017_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2017 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero corrisponde a quante volte e scritto*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which number corresponds to how many times and written*
+
+> The numbers of Roberto Roberto wrote the numbers 4, 5, 1, 5, 2, 3, 5, 4, 5, 5, 2, 3, 1, 5, 4, 2. What number corresponds to how many times Roberto wrote it?
+
+**Answer:** 3
+[[src_kangourou_2017_squadre_ecolier_f__Q11]]

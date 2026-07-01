@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Biennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_biennio__Q12
 parent: src_archimede_2010_biennio
 competition: Giochi di Archimede 2010 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma 1+2+2+3+3+...+35+35+36*
 
@@ -43,3 +46,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 **Anche in triennio:** [apri PDF p.5](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total amount of the sum of the sums of the following sums:
+
+> What 's the sum: 1 + 2 + 2 + 3 + 3 + 4 + 4 + . . . + 35 + 35 + 36?
+>
+> - **(A)** 990,
+> - **(B)** 1105,
+> - **(C)** 1295,
+> - **(D)** 1395,
+> - **(E)** 1505.
+
+**Answer:** C
+[[src_archimede_2010_biennio__Q12]]

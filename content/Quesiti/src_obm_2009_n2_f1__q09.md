@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q09
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Die rolled 10 times, sum 57; minimum number of sixes*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Die laminato 10 volte, somma 57; numero minimo di sei < MSK1/>
+
+> Esmeralda rotolò un dado dieci volte e ottenne la somma di tutti i risultati. Almeno quante volte avrebbe potuto far rotolare un MSK1/?
+> 
+> **(A)** $5$ $\quad$ **(B)** $6$ $\quad$ **(C)** $7$ $\quad$ **(D)** $8$ $\quad$ **(E)** $9$
+
+**Risposta:** C
+[[src_obm_2009_n2_f1__Q09]]

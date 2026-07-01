@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1992-93 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1992-93_round1__Q04
 parent: src_bmo_1992-93_round1
 competition: British Mathematical Olympiad 1992-93 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two circles touch internally at M; tangent to inner circle meets outer at Q,R; prove equal angles at M.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDFbSCKazjMRj8PyuzNgoZkN6uCy6tM7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi si toccano internamente a M; tangente al cerchio interno incontra l'esterno a Q,R; dimostrano angoli uguali a M.*
+
+> Due cerchi si toccano internamente a < MSK0/>. Una linea retta tocca il cerchio interno a $P$ e taglia il cerchio esterno a $Q$ e $R$. Prove che $\angle QMP = \angle RMP$.
+
+[[src_bmo_1992-93_round1__Q04]]

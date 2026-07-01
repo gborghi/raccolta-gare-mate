@@ -1,6 +1,7 @@
 ---
 title: IMO compilation 1959-2013 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_compilation__Q07
 parent: src_imo_compilation
 competition: IMO compilation 1959-2013
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *IMO 1962 problema 7*
 
@@ -37,3 +40,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1k6cpNRHvI9fVtF3vHCIOPLmdeEf70-V4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the case for the European Union.
+
+> The tetrahedron $SABC$ has the following property: there exist five spheres, each tangent to the edges $SA$, $SB$, $SC$, $BC$, $CA$, $AB$, or to their extensions.
+> 
+> (a) Prove that the tetrahedron $SABC$ is regular.
+> 
+> (b) Prove conversely that for every regular tetrahedron five such spheres exist.
+
+[[src_imo_compilation__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1994 (35th IMO, Hong Kong) — Quesito 3'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1994__Q03
 parent: src_imo_1994
 competition: 'IMO 1994 (35th IMO, Hong Kong)'
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Count numbers with three binary 1s; surjectivity of f*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uEhsmiYhsGIpd8-npjJnscoeuH2AmioB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Count numbers with three binary 1s; surjectivity of f*
+
+> E lies on the line AB and F lies on the line AC such that E, Q, F are distinct and collinear. Prove that OQ is perpendicular to EF if and only if QE = QF. 3. For any positive integer k, let f(k) be the number of elements in the set {k + 1, k + 2, . . . , 2k} whose base 2 representation has precisely three 1s. • (a) Prove that, for each positive integer m, there exists at least one positive integer k such that f(k) = m. • (b) Determine all positive integers m for which there exists exactly one k with f(k) = m.
+
+[[src_imo_1994__Q03]]

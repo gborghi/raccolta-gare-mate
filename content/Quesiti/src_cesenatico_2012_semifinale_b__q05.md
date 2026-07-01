@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Semifinale B — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_semifinale_b__Q05
 parent: src_cesenatico_2012_semifinale_b
 competition: Gara a Squadre Cesenatico 2012 - Semifinale B
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita Terra salva (scudo circolare)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 5026
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of a safe land (circular shield) *
+
+> Deep impact An asteroid is heading toward Earth. Its shape is that of a rotating solid, obtained by rotating around the straight axis of the side AB (which measures 3800 meters) the flat figure consisting of the square ABCD and the 4 circles with a radius of 1900 meters and centers at the vertices of the square. To destroy it, heroic miners are sent to the asteroid that can count on an infinite number of bombs, each of which disintegrates everything within a radius r from the point where it explodes. Our heroes cover the entire surface of the asteroid with bombs, only a few inches apart from each other and then detonate them simultaneously. How many meters must r be at least for the remainder of the asteroid to be split into at least two pieces?
+
+**Answer:** 5026
+[[src_cesenatico_2012_semifinale_b__Q05]]

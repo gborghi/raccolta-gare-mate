@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2004 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2004__Q02
 parent: src_cgen_2004
 competition: Concours Général des Lycées 2004 — Matematica
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Study of the surface z^2 = x(x-1) - y(y-1): plane sections, axis of symmetry, nature of the surface, and rational/integer condition*
 
@@ -57,3 +60,25 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Studio della superficie z^2 = x(x-1) - y(y-1): sezioni piane, asse di simmetria, natura della superficie e condizione razionale/intera*
+
+> Studio di una superficie.
+> 
+> Lo spazio è indicato in un quadro ortonormale $(O; \vec{\imath}, \vec{\jmath}, \vec{k})$. Le coordinate (rispettivamente l'abcissa, l'ordinato e il cote) di un punto sono indicate come $x$, $y$ e $z$. Consideriamo $\Sigma$ l'insieme dei punti $M$ delle coordinate $(x,y,z)$ in modo tale che: $$z^2 = x(x-1) - y(y-1).$$
+> 
+> 1. Che $\lambda$ sia un numero reale e $P_\lambda$ il piano dell'equazione $x = \lambda$. Indicare che l'intersezione di $\Sigma$ con $P_\lambda$ è un cerchio $C_\lambda$ il cui centro si determina, come funzione di $\lambda$, il centro e il raggio.
+> 
+> 2. Let $I$ essere il punto delle coordinate $\left(\frac{1}{2}, \frac{1}{2}, 0\right)$ e let $(d)$ essere la linea che attraversa $I$ con il vettore di direzione $\vec{\imath}$. Indicare che la linea $(d)$ è un asse di simmetria di $\Sigma$. Determinare e disegnare l'intersezione di $\Sigma$ con il piano dell'equazione $y = \frac{1}{2}$.
+> 
+> 3. Riconoscere la natura del set $\Sigma$.
+> 
+> 4. Se $n$ è un numero intero strettamente superiore a $2$ e $k$ è un numero intero tale che $1 \le k \le n-1$. Indicare che $L(n,k)$ è razionale se, e solo se, i punti di $\Sigma$ dell'abcissa $n$ e ordinate $k$ hanno un numero intero.
+
+![[src_cgen_2004__Q02.png]]
+
+[[src_cgen_2004__Q02]]

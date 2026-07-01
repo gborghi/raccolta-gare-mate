@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f1__Q13
 parent: src_obm_2007_n3_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *System with integer and fractional parts; find x-y+z*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sistema con parti integrali e frazionarie; trovare x-y+z*
+
+> Ogni numero reale $a$ può essere scritto in modo unico come $a=\lfloor a\rfloor+\{a\}$, dove $\lfloor a\rfloor$ è un intero e $0\le\{a\}<1$. Chiamiamo $\lfloor a\rfloor$ la parte integrale di $a$ e $\{a\}$ la parte frazionaria di $a$.
+> 
+> Se $x+\lfloor y\rfloor+\{z\}=4.2$, $\;y+\lfloor z\rfloor+\{x\}=3.6$ e $\;z+\lfloor x\rfloor+\{y\}=2$, qual è il valore di $x-y+z$?
+> 
+> (A) $-1$ \quad (B) $-0.5$ \quad (C) $0$ \quad (D) $0.5$ \quad (E) $2$
+
+**Risposta:** B
+[[src_obm_2007_n3_f1__Q13]]

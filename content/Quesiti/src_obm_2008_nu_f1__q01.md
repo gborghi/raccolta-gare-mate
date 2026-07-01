@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 1 —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_nu_f1__Q01
 parent: src_obm_2008_nu_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer n so a cubic has three integer roots*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutti i numeri interi n in modo che un cubo abbia tre radici di numeri interi*
+
+> Determinare tutti i valori interi di $n$ per i quali l'equazione $x^3 - 13x + n = 0$ ha tre radici interi.
+
+[[src_obm_2008_nu_f1__Q01]]

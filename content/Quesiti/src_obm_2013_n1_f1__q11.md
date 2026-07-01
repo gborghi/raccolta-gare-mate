@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f1__Q11
 parent: src_obm_2013_n1_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which statement about prime numbers is true*
 
@@ -50,3 +53,19 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZFAopdNjG-Ynm1d9LROcVImmCRs-HuH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quale dichiarazione sui numeri primi è vera*
+
+> Ogni numero primo è un numero intero che ha esattamente due divisori positivi: il numero $1$ e il numero stesso. Ad esempio, $2$ e $5$ sono numeri primi, ma $1$ (che ha solo un divisore) e $4$ (le cui divisori positivi sono $1$, $2$ e $4$) non sono numeri primi. Quale delle seguenti affermazioni è vera?
+>
+> - **(A)** La somma di due numeri primi è un numero primo.
+> - **(B)** La somma dei quadrati di due numeri primi è un numero primo.
+> - **(C)** Il prodotto di due numeri naturali consecutivi può essere un numero primo.
+> - **(D)** La somma di tre numeri primi non è mai un numero primo.
+> - **(E)** Il prodotto di due numeri primi può essere un numero primo.
+
+[[src_obm_2013_n1_f1__Q11]]

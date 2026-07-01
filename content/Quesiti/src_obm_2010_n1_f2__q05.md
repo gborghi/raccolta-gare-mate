@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f2__Q05
 parent: src_obm_2010_n1_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of balls in a box given divisibility condition on Mariazinha's picks*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 162
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di palle in una scatola data la condizione di divisibilità sui picchi di Mariazinha*
+
+> Carlinhos scrive diversi numeri interi positivi inferiori a $1000$ su diverse palle e li colloca in una scatola, in modo che Mariazinha possa disegnare palle successive casuali dalla scatola. Quante palle Carlinhos deve mettere nella scatola come minimo in modo che Mariazinha sia garantita, quando traccia al massimo $\frac{1}{7}$ delle palle totali nella scatola, di tracciare due palle il cui numero ha un divisore comune maggiore di $1$?
+
+**Risposta:** 162
+[[src_obm_2010_n1_f2__Q05]]

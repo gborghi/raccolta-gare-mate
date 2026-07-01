@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q27
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *somme a tre a tre mai prime su 4 consecutivi*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>sum to three to three never prime out of four consecutive < MSK1/>
+
+> James wrote four consecutive positive integers. Adding three to three of these numbers in four possible ways never gets a prime number. What's the smallest whole James could have written? A) 12 B) 10 C) 7 D) 6 E) 3
+
+**Answer:** C
+[[src_kangourou_2016_junior_marzo__Q27]]

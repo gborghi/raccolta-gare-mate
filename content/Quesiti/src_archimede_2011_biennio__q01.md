@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Biennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_biennio__Q01
 parent: src_archimede_2011_biennio
 competition: Giochi di Archimede 2011 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri sei cifre con 1-6 divisibili per 1-6*
 
@@ -44,3 +47,20 @@ tags:
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 **Anche in triennio:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Six-digit numbers with 1-6 divisible by 1-6*
+
+> How many are the six-digit numbers, made up of the digits 1, 2, 3, 4, 5, 6, divisible by 1, 2, 3, 4, 5, 6?
+>
+> - **(A)** No one.
+> - **(B)** 1,
+> - **(C)** 18,
+> - **(D)** 120,
+> - **(E)** 360.
+
+**Answer:** A
+[[src_archimede_2011_biennio__Q01]]

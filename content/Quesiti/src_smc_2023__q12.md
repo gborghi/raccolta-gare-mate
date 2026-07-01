@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2023 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2023__Q12
 parent: src_smc_2023
 competition: Senior Mathematical Challenge 2023
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Highest power of 7 dividing 50 factorial*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Potenza massima di 7 diviso 50 fattori*
+
+> La potenza massima di $7$ che è un fattore di $50!$ è $7^k$ (dove $n!=1\times2\times3\times4\times\ldots\times(n-1)\times n$). Che cos' è < MSK4/>?
+>
+> - **(A)** $4$
+> - **(B)** $5$
+> - **(C)** $6$
+> - **(D)** $7$
+> - **(E)** $8$
+
+**Risposta:** E
+[[src_smc_2023__Q12]]

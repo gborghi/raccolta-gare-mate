@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Biennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_biennio__Q20
 parent: src_archimede_2005_biennio
 competition: Giochi di Archimede 2005 - Gara Biennio
@@ -23,6 +24,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Catena di disuguaglianze tra potenze 2 e 3*
 
@@ -38,3 +41,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*chain of inequalities between powers 2 and 3*
+
+> In each of the following chains of inequalities the same five numbers appear; which of them is completely true?
+>
+> - **(A)** 232 < 233 < 322 < 323 < 332,
+> - **(B)** 322 < 323 < 232 < 233 < 332,
+> - **(C)** 322 < 323 < 232 < 332 < 233,
+> - **(D)** 322 < 232 < 323 < 233 < 332,
+> - **(E)** 322 < 232 < 323 < 332 < 233.
+
+**Answer:** E
+[[src_archimede_2005_biennio__Q20]]

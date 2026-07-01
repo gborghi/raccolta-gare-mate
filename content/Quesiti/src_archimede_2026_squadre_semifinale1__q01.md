@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_semifinale1__Q01
 parent: src_archimede_2026_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2026 - Semifinale 1
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità che ad+bcd+d^2 sia dispari con 4 lanci*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0005
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability that ad+bcd+d^2 is odd with 4 rounds*
+
+> At the Gaia Fuselli Higher School of Mathematics, Professor Sibilla Riemann, a professor of Divination, gave each student a magical, but equitable, regular tetrahedron-shaped dice with 4 faces numbered from 1 to 4. Each player will have to cast the dice 4 times, marking the results obtained in order by calling them (a,b,c,d), but before starting to cast they will have to predict the value of ad+bcd+d2. Hardy didn't hear a word of the explanation and says, "I'll get a weird value!" What's the probability that Hardy's prediction is correct? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+
+**Answer:** 0005
+[[src_archimede_2026_squadre_semifinale1__Q01]]

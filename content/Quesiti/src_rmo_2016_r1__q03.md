@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2016 — Region 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2016_r1__Q03
 parent: src_rmo_2016_r1
 competition: Regional Mathematical Olympiad 2016
@@ -33,6 +34,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Natural numbers n with n = 2S(n)^2, digits in base 10*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_C_gDdDV0i52pCDjmTMiQrzqXuQnBrZ9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri naturali n con n = 2S(n) ^2, cifre nella base 10*
+
+> Per qualsiasi numero naturale $n$ espresso nella base 10, $S(n)$ indichi la somma di tutti i numeri di $n$. Trova tutti i numeri naturali $n$ in modo tale che $n = 2S(n)^2$.
+
+[[src_rmo_2016_r1__Q03]]

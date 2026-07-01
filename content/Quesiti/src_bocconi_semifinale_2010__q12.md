@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2010 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2010__Q12
 parent: src_bocconi_semifinale_2010
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2010
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scacchi: quanti giocatori iscritti al torneo*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 15 giocatori
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Chess: how many players entered the tournament*
+
+> At the Mathcity chess tournament, each player had to compete with each of the other participants. Two affected players, however, were only able to play three games each. The others, which these players were supposed to play, were therefore cancelled. In total, there were 83 games. How many players were enrolled in the tournament, including the two patients?
+
+**Answer:** 15 giocatori
+[[src_bocconi_semifinale_2010__Q12]]

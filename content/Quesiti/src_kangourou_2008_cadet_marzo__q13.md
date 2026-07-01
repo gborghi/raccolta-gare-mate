@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q13
 parent: src_kangourou_2008_cadet_marzo
 competition: Kangourou 2008 - Cadet (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo corse per visitare quattro isole*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum runs to visit four islands*
+
+> We want to visit four islands A, B, C, D starting from the mainland, using the ferries that connect them. C is connected in the two verses to the mainland; A and C are connected in the two verses as well as A and D. A and B can only be reached from the mainland as A from B. What is the minimum number of races sufficient to visit all the islands (with departure and arrival on the mainland)? A) 6 B) 5 C) 8 D) 4 E) 7
+
+**Answer:** A
+[[src_kangourou_2008_cadet_marzo__Q13]]

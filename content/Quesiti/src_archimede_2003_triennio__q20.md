@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2003 - Triennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_triennio__Q20
 parent: src_archimede_2003_triennio
 competition: Giochi di Archimede 2003 - Triennio
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma reciproci delle radici di un polinomio di grado 4*
 
@@ -47,3 +50,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Reciprocal sum of the roots of a polynomial of degree 4*
+
+> The polynomial x4 −2x3 −7x2 −2x + 1 has four real roots a, b, c, d. How much is 1 a + 1 b + 1 c + 1 d?
+>
+> - **(A)** −2
+> - **(B)** 0
+> - **(C)** −1
+> - **(D)** 2
+> - **(E)** None of the above values.
+
+[[src_archimede_2003_triennio__Q20]]

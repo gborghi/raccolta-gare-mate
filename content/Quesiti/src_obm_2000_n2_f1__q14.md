@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f1__Q14
 parent: src_obm_2000_n2_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of intersection of triangle and square on unit lattice*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area di intersezione di triangolo e quadrato su rete unità*
+
+> Nella figura, le distanze orizzontali tra i punti orizzontali consecutivi e le distanze verticali tra i punti verticali consecutivi sono tutte uguali a $1$. L'area della regione comune al triangolo e al quadrato è:
+> 
+> A) $\dfrac{9}{10}$ \quad B) $\dfrac{15}{16}$ \quad C) $\dfrac{8}{9}$ \quad D) $\dfrac{11}{12}$ \quad E) $\dfrac{14}{15}$
+
+![[src_obm_2000_n2_f1__Q14.png]]
+
+**Risposta:** D
+[[src_obm_2000_n2_f1__Q14]]

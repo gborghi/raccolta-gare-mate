@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1989 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1989__Q01
 parent: src_inmo_1989
 competition: Indian National Mathematical Olympiad 1989
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove polynomial f(x)=x^4+26x^3+52x^2+78x+1989 irreducible over Z[x]*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RBpbxea49tUHZOwCcsLYaDOS5NS9MY4Z/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove polinomio f(x)=x^4+26x^3+52x^2+78x+1989 irriducibile su Z[x]*
+
+> Prove che il polinomio $$f(x) = x^4 + 26x^3 + 52x^2 + 78x + 1989$$ è irriducibile su $\mathbb{Z}[x]$.
+
+[[src_inmo_1989__Q01]]

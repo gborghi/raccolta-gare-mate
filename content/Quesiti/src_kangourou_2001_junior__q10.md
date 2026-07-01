@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Junior (15 marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_junior__Q10
 parent: src_kangourou_2001_junior
 competition: Kangourou 2001 - Junior (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tagliare un anello per liberarli*
 
@@ -44,3 +47,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-nQU0fW3C5Y8GrPEhr6xrvAInO3f2GuZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Cutting a ring to free them
+
+![[src_kangourou_2001_junior__prob10.png]]
+
+> By cutting off a single ring, can you free them all?
+>
+> - **(A)** Yes, by cutting A
+> - **(B)** Yes, by cutting B
+> - **(C)** Yes, by cutting C
+> - **(D)** Yes, by cutting D
+> - **(E)** no. The questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** C
+[[src_kangourou_2001_junior__Q10]]

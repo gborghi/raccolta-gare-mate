@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2022 — Nível Universitário — Fase x —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2022_nu_fx__Q05
 parent: src_obm_2022_nu_fx
 competition: Olimpíada Brasileira de Matemática 2022 — Nível Universitário — Fase x
@@ -40,6 +41,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Upper density product condition implies modular intersection*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvbw-B2DJRObe_76KIsYb4Kbcb_CZYrb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Condizione del prodotto di densità superiore implica intersezione modulare*
+
+> Dato $X \subseteq \mathbb{N}$, definire $d(X)$ come il più grande $c \in [0,1]$ in modo tale che per tutti $a < c$ e $n_0 \in \mathbb{N}$ esista $m, r \in \mathbb{N}$ con $r \ge n_0$ e $|X \cap [m, m+r]| / r \ge a$. Let $E, F \subseteq \mathbb{N}$ con $d(E) \cdot d(F) > 1/4$. Prove che per ogni primo $p$ e $k \in \mathbb{N}$ esistono $m \in E$ e $n \in F$ con $m \equiv n \pmod{p^k}$.
+
+[[src_obm_2022_nu_fx__Q05]]

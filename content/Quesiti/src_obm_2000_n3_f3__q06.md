@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f3__Q06
 parent: src_obm_2000_n3_f3
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many pieces does a cube split into by 28 perpendicular bisector planes?*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 96
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Quanti pezzi un cubo si divide in 28 piani perpendicolari?
+
+> Lasciate che il $C$ sia un cubo di legno. Per ciascuna delle coppie di vertici $28$ di $C$, tagliamo il cubo $C$ per il piano bisettore perpendicolare delle due vertici della coppia. In quanti pezzi è diviso il cubo?
+> 
+> **Nota:** Dati due punti $A$ e $B$ nello spazio, il piano bisettore perpendicolare di $A$ e $B$ è l'insieme di punti nello spazio equidistanti da $A$ e $B$. In altre parole, è il piano perpendicolare al segmento $AB$ che attraversa il punto medio di $AB$.
+
+**Risposta:** 96
+[[src_obm_2000_n3_f3__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n1_f1__Q01
 parent: src_obm_2009_n1_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum of e^{x/e}-x; compare e^pi and pi^e*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gfklUu8Lw7e-icOu2QgoKvp09d7Hdigd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Minimum di e^{x/e}-x; confronta e^pi e pi^e< MSK1/>
+
+> (a) Trovare il valore minimo della funzione $f:\mathbb{R}\to\mathbb{R}$ data da $f(x)=e^{(x/e)}-x$ (qui $e=2{,}71828\ldots$ è la base del logaritmo naturale).
+> 
+> b) Quale di questi numeri è più grande: $e^\pi$ o $\pi^e$?
+
+[[src_obm_2009_n1_f1__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Benjamin — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q05
 parent: src_kangourou_2019_benjamin_semif
 competition: Kangourou 2019 Semifinale Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti valori di A+B con A869B divisibile per 12*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many A+B values with A869B divisible by 12*
+
+> (Points 4) A and B are two digits such that the integer A869B is divisible by 12. How many different values of the sum A + B can be? A) 4
+> 	
+> B) 6
+> 	
+> C) 8
+> 	
+> D) 10 E) 12
+
+**Answer:** A
+[[src_kangourou_2019_benjamin_semif__Q05]]

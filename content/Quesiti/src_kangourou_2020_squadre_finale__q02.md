@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2020 Finale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q02
 parent: src_kangourou_2020_squadre_finale
 competition: Kangourou Coppa squadre 2020 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero al posto 2020 della sequenza dispari ripetuti*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0089
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ouvUikm9jtg5T9XqFtDuhZcgJZXEsFwU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in place of 2020 of repeated odd sequences*
+
+> In place 2020 What is the number in place 2020 of the sequence 1, 3, 3, 5, 5, 5, 5, 5, 7, 7, ... where all and only the odd integers appear, in increasing order and each one a number of times equal to itself?
+
+**Answer:** 0089
+[[src_kangourou_2020_squadre_finale__Q02]]

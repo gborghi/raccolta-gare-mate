@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Ecolier (marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q14
 parent: src_kangourou_2006_ecolier_marzo
 competition: Kangourou 2006 Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pesi nella terza scatola*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1pKY5ouqmagp75LpVMmZ7-wegTuPPO_ZD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Weights in the third box< MSK1/>
+
+> Six weights of 1, 2, 3, 4, 5 and 6 grams were locked in three empty boxes, two weights for each box. The contents of the first box weigh nine grams, the contents of the second eight grams. What weights were placed in the third box? A) 4g and 3g B) 5g and 2g C) 6g and 1g D) 4g and 2g E) 3g and 1g one level 2 cards two levels 7 cards three levels 15 cards A) B) C) D) E) Ecolier_06.qxp 21/02/2006 0.07 Page 7
+
+**Answer:** E
+[[src_kangourou_2006_ecolier_marzo__Q14]]

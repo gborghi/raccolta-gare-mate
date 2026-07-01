@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f3__Q04
 parent: src_obm_2011_n1_f3
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square of area 64 with center O; OA=OC=2, AB=CD=4 and a chain of perpendicular segments; find areas of trapezoid ABCO and quadrilateral BCDE.*
 
@@ -50,3 +53,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GU1DCqwGiQ-ufXg0UgJf2hRpS3A6ZEuR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadro di area 64 con centro O; OA=OC=2, AB=CD=4 e una catena di segmenti perpendicolari; trovare aree di trapezoide ABCO e BCDE quadrilaterale.*
+
+> Nella figura, $O$ è il centro del quadrato, $OA = OC = 2$, $AB = CD = 4$, $\overline{CD}$ è perpendicolare a $\overline{OC}$, che è perpendicolare a $\overline{OA}$, che è perpendicolare a $\overline{AB}$. La superficie del quadrato è $64$ cm$^2$.
+> 
+> a) Calcolare la superficie del trapezzo < MSK0/>.
+> 
+> b) Calcolare l'area del quadrilaterale < MSK0/>.
+
+![[src_obm_2011_n1_f3__Q04.png]]
+
+[[src_obm_2011_n1_f3__Q04]]

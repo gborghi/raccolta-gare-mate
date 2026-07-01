@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q29
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Centro del cerchio di raggio maggiore tra cinque tangenti*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Center of the radius circle between five tangents*
+
+![[src_kangourou_2022_junior_gara__prob29.png]]
+
+> The figure shows five circles of centers A, B, C, D, E, each externally tangent to the two edges, and the convex pentagon whose vertices are the centers of the circles. The lengths of the sides of the pentagon are as follows: AB = 16, BC = 14, CD = 17, DE = 13, AE = 14 (the figure is indicative only, not scale). What?
+
+**Answer:** A
+[[src_kangourou_2022_junior_gara__Q29]]

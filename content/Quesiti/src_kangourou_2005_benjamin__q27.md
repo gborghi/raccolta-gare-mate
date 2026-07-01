@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q27
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ore leggibili allo specchio sull'orologio digitale*
 
@@ -58,3 +61,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Readable in the mirror on the digital clock*
+
+![[src_kangourou_2005_benjamin__prob27.png]]
+
+> Andrea looked at her digital wristwatch last night at 21:15 and noticed that, covering the two points with a mirror perpendicular to the plane of the dial, she could still read the exact time (two digits on the clock and two in the mirror). How many times in a day does the same thing happen? The Commission has not yet decided whether to proceed with the implementation of this Regulation.
+> 
+> I'm going to pay. I'm going to pay. 15 15 Kang 2005 Kang
+
+**Answer:** D
+[[src_kangourou_2005_benjamin__Q27]]

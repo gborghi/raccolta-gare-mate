@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Pre-Ecolier — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_preecolier__Q12
 parent: src_kangourou_2013_preecolier
 competition: Kangourou 2013 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante carote mangia il coniglio nel labirinto*
 
@@ -47,3 +50,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ykejBpK7Wiwv-x_5BvjdytAue5Y_N6nU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many carrots does the rabbit eat in the maze< MSK1/>
+
+![[src_kangourou_2013_preecolier__prob12.png]]
+
+> The rabbit is free to wander through this maze and eats all the carrots it can find. How many carrots will he have eaten by the end ? A) 7
+> 	
+> B) 8
+> 	
+> C) 9
+> 	
+> D) 15
+> 	
+> E) 16
+
+**Answer:** B
+[[src_kangourou_2013_preecolier__Q12]]

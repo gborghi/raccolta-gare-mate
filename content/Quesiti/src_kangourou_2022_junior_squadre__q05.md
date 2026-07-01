@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Junior Finale 1 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_squadre__Q05
 parent: src_kangourou_2022_junior_squadre
 competition: Kangourou Squadre 2022 Junior Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *2022-mo intero senza cifra 1*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3797
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>2022-th whole without digit 1 < MSK1/>
+
+> Without digit 1 If you write in ascending order (in decimal notation) all positive integers less than 10,000 in which the digit 1 does not appear, what is the number that occupies the 2022-but position?
+
+**Answer:** 3797
+[[src_kangourou_2022_junior_squadre__Q05]]

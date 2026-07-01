@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior — Semifinale individuale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_semifinale__Q10
 parent: src_kangourou_2022_junior_semifinale
 competition: Kangourou 2022 Junior — Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre del quoziente di 111222...999 diviso 111*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 25
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1q4eeCpaS_1aSTIYHi1bK45-1x3orSnEw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Coefficient number of 111222...999 divided by 111*
+
+> (4 points) The number 111.222.333.444.555.666.777.888.999 (each of the digits from 1 to 9 appears exactly 3 times) is divisible by 111. How many digits does the quotient of that division have?
+>  
+> K
+
+**Answer:** 25
+[[src_kangourou_2022_junior_semifinale__Q10]]

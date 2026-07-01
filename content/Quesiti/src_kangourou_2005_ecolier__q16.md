@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Ecolier (marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_ecolier__Q16
 parent: src_kangourou_2005_ecolier
 competition: Kangourou 2005 - Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione falsa su gatti e cani con paure*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>False claim on cats and dogs with fears< MSK1/>
+
+> There's two cats in the house, Tiny and Tony, and two dogs, Dim and Dill. Tiny's afraid of both dogs, while Tony's afraid of Dim, but not Dill. What statement (referring to these cats and dogs) is false? A) Every cat is afraid of some dog. B) There is a cat that is not afraid of at least one dog. C) There's a dog that scares both cats. D) Every dog scares at least one cat. E) There's a dog that doesn't scare any of the cats. P 1 2 ... The Commission has not yet decided whether to proceed with the adoption of a decision on the application of this Regulation.
+> 
+> The questions from N. 17 al N. Twenty-four is worth five points each.
+
+**Answer:** E
+[[src_kangourou_2005_ecolier__Q16]]

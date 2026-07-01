@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q06
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del rettangolo grande di nove rettangoli*
 
@@ -54,3 +57,23 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of the rectangle large by nine rectangles*
+
+![[src_kangourou_2018_cadet_marzo__prob6.png]]
+
+> A large rectangle is made up of nine rectangles identical to those shown in the figure. If the larger side of each rectangle is 10 cm long, how many centimeters does the perimeter of the larger rectangle measure? A) 40
+> 	
+> B) 48
+> 	
+> C) 76
+> 	
+> D) 81 E) 90 M A M M
+>
+
+**Answer:** C
+[[src_kangourou_2018_cadet_marzo__Q06]]

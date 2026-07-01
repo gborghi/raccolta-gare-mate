@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior (20 marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior__Q25
 parent: src_kangourou_2003_junior
 competition: Kangourou 2003 Junior (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (x,y) reali che soddisfano l'equazione*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Real (x,y) pairs satisfying the equation*
+
+> How many pairs (x,y) of real numbers satisfy the equation (x + y )2 = (x + 3) (y - 3) ? A) 0 B) 1 C) 2 D) 3 E) infinite
+
+**Answer:** B
+[[src_kangourou_2003_junior__Q25]]

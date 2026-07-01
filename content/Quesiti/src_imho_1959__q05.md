@@ -1,6 +1,7 @@
 ---
 title: IMO 1959 (I International Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1959__Q05
 parent: src_imho_1959
 competition: IMO 1959 (I International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *coincidenza di punti e luogo dei medi*
 
@@ -42,3 +45,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ihObuxTMxHEVmwyJ8gW9FigcAcTqfGob/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>coincidence of points and location of the media< MSK1/>
+
+> An arbitrary point $M$ is selected within the $AB$ segment. The $AMCD$ and $MBEF$ squares are constructed from the same side of $AB$, having the $AM$ and $MB$ segments as bases respectively. The circles surrounded by these squares, with centres $P$ and $Q$, intersect at $M$ and at another point $N$. The intersection point of lines $AF$ and $BC$ shall be indicated by $N'$.
+> 
+> (a) Demonstrate that the $N$ and $N'$ points coincide.
+> 
+> (b) Demonstrate that the straight $MN$ passes through a fixed point $S$ independent of the choice of $M$.
+> 
+> (c) Find the geometric location of the mean points of the $PQ$ segments when $M$ varies between $A$ and $B$.
+
+[[src_imho_1959__Q05]]

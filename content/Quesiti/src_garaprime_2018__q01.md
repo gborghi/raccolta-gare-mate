@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2018 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2018__Q01
 parent: src_garaprime_2018
 competition: Gara Nazionale Classi Prime 2018
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di radice di 4^201 - 2^401 - 2^400*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XzoWDlSETOE6ynBaPWQsIvAiUafgaOrc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Root value of 4^201 - 2^401 - 2^400< MSK1/>
+
+> The expression √ 4201 −2401 −2400 is: A 2200 B 220 C 2100 D 4200 E 4101 F None of the other answers is accurate
+
+**Answer:** A
+[[src_garaprime_2018__Q01]]

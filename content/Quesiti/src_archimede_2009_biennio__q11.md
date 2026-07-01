@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Biennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_biennio__Q11
 parent: src_archimede_2009_biennio
 competition: Giochi di Archimede 2009 - Biennio
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma differenze cifre per numeri da 10 a 99*
 
@@ -52,3 +55,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of numerical differences for numbers from 10 to 99*
+
+> Little Rita plays this game: for every whole number between 10 and 99, including extremes, she subtracts the number of units from the number of tens and writes the result on a sheet (for example, for 21 she writes 1, i.e. 2 −1, while for 37 she writes −4, i.e. 3 −7). In the end, he adds up all the numbers he wrote on the paper; what does he find?
+>
+> - **(A)** 0,
+> - **(B)** −30,
+> - **(C)** 45,
+> - **(D)** −50,
+> - **(E)** 100.
+
+**Answer:** C
+[[src_archimede_2009_biennio__Q11]]

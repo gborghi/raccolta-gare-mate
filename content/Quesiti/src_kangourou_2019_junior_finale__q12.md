@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale nazionale Junior — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q12
 parent: src_kangourou_2019_junior_finale
 competition: Kangourou 2019 Finale nazionale Junior
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prime quattro cifre decimali di (sqrt50+7)^4*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9999
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First four decimal places of (sqrt50+7)^4*
+
+> The numbers $a$, $b$, $c$ and $d$ are four different integers between 1 and 10, extremes included. What is the smallest possible value for $\dfrac{a}{b} + \dfrac{c}{d}$?
+>
+> - **(A)** $\dfrac{2}{10}$
+> - **(B)** $\dfrac{3}{19}$
+> - **(C)** $\dfrac{14}{45}$
+> - **(D)** $\dfrac{29}{90}$
+> - **(E)** $\dfrac{25}{72}$
+
+**Answer:** 9999
+[[src_kangourou_2019_junior_finale__Q12]]

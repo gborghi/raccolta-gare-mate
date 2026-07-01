@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q15
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *foglie possibili*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>possible sheets < MSK1/>
+
+> A bush has 10 branches; on each branch there are 5 leaves or 2 leaves and 1 flower. Which of the following can be the number of leaves in the bush? A) 45
+> 	
+> B) 39
+> 	
+> (C) 37 D) 31 E) None of the numbers in A to D
+
+**Answer:** E
+[[src_kangourou_2015_marzo_cadet__Q15]]

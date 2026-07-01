@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2014 Finale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_squadre_f__Q08
 parent: src_kangourou_2014_squadre_f
 competition: Kangourou Coppa Squadre 2014 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *eta uguale somma cifre anno*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 18
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12DVeq4coDfU-PicdOehdUa7A_04LuHVK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>age equal to sum of figures per year< MSK1/>
+
+> Elena and her mother Elena and her mother were both born on January 1. In this year 2014, for each of them the number of years of age is the sum of the figures of their respective years of birth. How old was Elena's mother when Elena was born?
+
+**Answer:** 18
+[[src_kangourou_2014_squadre_f__Q08]]

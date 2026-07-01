@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1992 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1992_r3__Q06
 parent: src_pol_1992_r3
 competition: Olimpiade Matematica Polacca 1992 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove (k^3)! divisible by (k!)^(k^2+k+1)*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y0mu5QcC1ogDOJ92TBWc65WHpU-0WUHz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Prova (k^3)! divisibile da (k!)^(k^2+k+1)*
+
+> Prove che per ogni intero positivo $k$, $(k^3)!$ è divisibile da $(k!)^{k^2+k+1}$.
+
+[[src_pol_1992_r3__Q06]]

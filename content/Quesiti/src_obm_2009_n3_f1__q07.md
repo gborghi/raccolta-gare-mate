@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q07
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n>1 to place n pieces on n×n board with no two in same row, column, or diagonal.*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nel minimo n>1 per posizionare n pezzi su n×n tabella senza due nella stessa riga, colonna o diagonale.*
+
+> Qual è il valore più piccolo di $n > 1$ per il quale è possibile posizionare pezzi $n$ su una tavola $n \times n$ in modo che non ci siano due pezzi nella stessa riga, nella stessa colonna o nella stessa diagonale? Le figure mostrano coppie di pezzi nella stessa riga, nella stessa colonna e sulla stessa diagonale, su diverse tavole. (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
+
+![[src_obm_2009_n3_f1__Q07.png]]
+
+[[src_obm_2009_n3_f1__Q07]]

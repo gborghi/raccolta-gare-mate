@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2012 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2012__Q18
 parent: src_bocconi_rosi_2012
 competition: Giochi di Rosi 2012
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorare 6 triangoli non adiacenti nella stella di cioccolato*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** Un esempio di soluzione (vedi figura nelle soluzioni)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1du4nM_pjVseEMRiX1hz7hrTEkEIg-ZC2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Color 6 non-adjacent triangles in the chocolate star< MSK1/>
+
+> The star you see in the figure represents the base of a cake.
+> 
+> < MSK0/>Could you cover 6 triangles of the star with chocolate? < MSK1/> Attention, however: two triangles that have one side in common cannot both be covered with chocolate.
+
+![[src_bocconi_rosi_2012__Q18.png]]
+
+**Answer:** Un esempio di soluzione (vedi figura nelle soluzioni)
+[[src_bocconi_rosi_2012__Q18]]

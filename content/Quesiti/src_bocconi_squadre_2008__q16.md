@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q16
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nel cerchio più in alto in disposizione circolare*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6; 7; 8; 11
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the upper circle in a circular pattern*
+
+> Insert all natural numbers from 3 to 11 into the three free concentric circles, so that the sum of the numbers marked in each quadrant is equal to the number in the region. Which number (s) is (are) written (s) in the upper circle?
+
+![[src_bocconi_squadre_2008__Q16.png]]
+
+**Answer:** 6; 7; 8; 11
+[[src_bocconi_squadre_2008__Q16]]

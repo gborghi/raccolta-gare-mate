@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q29
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di celle da toccare per trovare 2 celle blu adiacenti*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of cells to be touched to find 2 adjacent blue cells< MSK1/>
+
+> An electronic game features a 4x4 chessboard, which, when touched on a cell, lights up by showing its color. The blue cells need to be lit. In each game, there are only two blue cells and they have one side in common. What is the minimum number of cells that you can touch to be sure to illuminate both blue cells? A) 9 B) 10 C) 11 D) 12 E) 13
+
+**Answer:** B
+[[src_kangourou_2011_cadet__Q29]]

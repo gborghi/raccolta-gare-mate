@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f1__Q06
 parent: src_obm_2005_n3_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Possible value of y in nested-radical equation equal to 1*
 
@@ -47,3 +50,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il valore possibile di y nell'equazione radicale nidificata è uguale a 1*
+
+> I numeri interi positivi $x$ e $y$ soddisfano l'equazione $$\sqrt{x + \tfrac{1}{2}\sqrt{y}} - \sqrt{x - \tfrac{1}{2}\sqrt{y}} = 1.$$ Quale delle alternative presenta un possibile valore di $y$? (A) $5$ (B) $6$ (C) $7$ (D) $8$ (E) $9$
+
+[[src_obm_2005_n3_f1__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q02
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Deducing color of removed marbles from a box*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Riducimento del colore dei marmi rimossi da una scatola*
+
+> Una scatola contiene 3 marmi rossi, 2 marmi bianchi e 1 marmo nero. Il professor Piraldo ha rimosso tre marmi dalla scatola. Sapendo che nessuno dei marmi rimossi è nero, possiamo dire che i 3 marmi rimossi:
+> 
+> A) sono tutti dello stesso colore. B) sono tutti rossi. C) uno è rosso e due bianchi. D) uno è bianco e due rosso. E) almeno uno è rosso.
+
+**Risposta:** E
+[[src_obm_2005_n1_f1__Q02]]

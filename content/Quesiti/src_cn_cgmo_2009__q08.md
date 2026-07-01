@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2009 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2009__Q08
 parent: src_cn_cgmo_2009
 competition: China Girls' Mathematical Olympiad 2009
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence a_n = n*sqrt5 - floor(n*sqrt5); compute max and min over a_1..a_2009.*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza a_n = n*sqrt5 - piano(n*sqrt5); calcolo max e min su a_1..a_2009.*
+
+> Per un intero positivo $n$, $a_n = n\sqrt{5} - \lfloor n\sqrt{5} \rfloor$. Calcolare il valore massimo e il valore minimo di $a_1, a_2, \ldots, a_{2009}$. (Per il numero reale $x$, $\lfloor x \rfloor$ indica il numero intero più grande inferiore o uguale a $x$.) (Posizionato da Wang Zhixiong)
+
+**Risposta:** $a_{1292}$ attains the maximum and $a_{1597}$ the minimum.
+[[src_cn_cgmo_2009__Q08]]

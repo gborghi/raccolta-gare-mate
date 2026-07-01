@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2017-18 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2017-18_round2__Q04
 parent: src_bmo_2017-18_round2
 competition: British Mathematical Olympiad 2017-18 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Absorbing functions on reals with f^2018(z) integer; existence questions*
 
@@ -49,3 +52,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uspeJo3bktF-kiQR5tne5ytV0YEfkRCN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Assorbimento di funzioni su reali con f^2018(z) numero intero; domande di esistenza*
+
+> Lasciate che $f$ sia una funzione definita sui numeri reali e assumendo valori reali. Diciamo che $f$ assorbe se $f(x) \le f(y)$ quando $x \le y$ e $f^{2018}(z)$ è un intero per tutti i numeri reali $z$.
+> 
+> a) Esiste una funzione di assorbimento $f$ tale che $f(x)$ sia un numero intero per solo numerosi valori finiti di $x$?
+> 
+> b) Esiste una funzione di assorbimento $f$ e una sequenza crescente di numeri reali $a_1 < a_2 < a_3 < \cdots$ tale che $f(x)$ sia un intero solo se $x = a_i$ per alcuni $i$?
+> 
+> Si noti che se $k$ è un intero positivo e $f$ è una funzione, allora $f^k$ indica la composizione delle copie $k$ di $f$. Ad esempio $f^3(t) = f(f(f(t)))$ per tutti i numeri reali $t$.
+
+[[src_bmo_2017-18_round2__Q04]]

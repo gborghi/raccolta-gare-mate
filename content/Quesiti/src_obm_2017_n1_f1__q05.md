@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n1_f1__Q05
 parent: src_obm_2017_n1_f1
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n guaranteeing three integers from [-2017,2017] sum to zero*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a3U1xwLG4Liq_aZSUCGfvqkTHMuELPzq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum n che garantisce tre enti da [-2017,2017] somma a zero*
+
+> Determinare il numero intero più piccolo $n$ in modo tale che per qualsiasi scelta di numeri interi $m$ da $[-2017, 2017]$, tre di essi siano sempre sommati a zero.
+
+[[src_obm_2017_n1_f1__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n1_f1__Q14
 parent: src_obm_2008_n1_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with AE=BE=CE=CD and angles alpha, beta; find alpha/beta*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jS9AjIezsp0MUxDiEgVpS7k3MJ9uT3_v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con AE=BE=CE=CD e angoli alfa, beta; trovare alfa/beta*
+
+> Nel disegno, $AE = BE = CE = CD$. Inoltre, $\alpha$ e $\beta$ sono misure di angolo. Qual è il valore del rapporto $\dfrac{\alpha}{\beta}$?
+> 
+> A) $\dfrac{3}{5}$ $\quad$ B) $\dfrac{4}{5}$ $\quad$ C) $1$ $\quad$ D) $\dfrac{5}{4}$ $\quad$ E) $\dfrac{5}{3}$
+
+![[src_obm_2008_n1_f1__Q14.png]]
+
+**Risposta:** D
+[[src_obm_2008_n1_f1__Q14]]

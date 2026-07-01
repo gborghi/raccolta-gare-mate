@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q13
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex polygon: assign distinct points in quadrilateral regions so every pair's segment hits a diagonal*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Poligono converso: assegnare punti distinti in regioni quadrilaterali in modo che ogni segmento della coppia raggiunga una diagonale*
+
+> Data una polygone convexa $D$ con vertici $n \ge 4$, di cui non ci sono tre diagonali che siano simultanei all'interno di $D$. Provare che si può scegliere un punto all'interno di ogni quadrilaterale $P_i P_j P_k P_l$ ($1 \le i < j < k < l \le n$) e non su alcuna diagonale di $D$, in modo tale che i punti assegnati $\binom{n}{4}$ siano distinti, e che il segmento che ne collega due incroci almeno una diagonale di $D$.
+
+[[src_cn_ctst_2021__Q13]]

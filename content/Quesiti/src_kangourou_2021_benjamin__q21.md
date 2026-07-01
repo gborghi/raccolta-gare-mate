@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q21
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Vicini di Cecilia al tavolo rotondo*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Neighbors of Cecilia at the round table*
+
+> Anna, Bob, Cecilia, Dani and Eva are sitting around a round table. Anna is not close to Bob, Dani is close to Eva. Who are the two people sitting next to Cecilia? A) Anna and Bob. B) Bob and Dani.
+> 	
+> C) Dani and Eva. D) Eve and Anna. E) There is insufficient information to establish this.
+
+**Answer:** A
+[[src_kangourou_2021_benjamin__Q21]]

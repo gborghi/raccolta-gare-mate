@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q25
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di k tale che a_k=2008 (successione)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of k such that a_k=2008 (success) *
+
+> Let it be a succession. It is known that a1 = 0 and that, for n ≥ 0, we have an+1 = an + (-1)n. n. If ak = 2008, then the value of k is A) 2008 B) 2009 C) 4017 D) 4018 E) none of the four indicated.
+
+**Answer:** C
+[[src_kangourou_2008_student_marzo__Q25]]

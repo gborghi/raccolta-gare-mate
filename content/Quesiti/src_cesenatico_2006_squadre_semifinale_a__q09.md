@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_a__Q09
 parent: src_cesenatico_2006_squadre_semifinale_a
 competition: Gara a Squadre Cesenatico 2006 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volte che lancetta secondi sorpassa minuti in una settimana*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9912
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volte che lancetta secondi sorpassa minuti in una settimana*
+
+> La giratempo
+> La valente Hermita è piuttosto confusa dall’uso della Giratempo, che le permette di viaggiare nel tempo.
+> Dunque si ritrova costretta a tenere spesso d’occhio l’orologio. Sia N il numero di volte che, in una settimana, la lancetta dei secondi sorpassa la lancetta dei minuti. Quanto vale N?
+
+**Answer:** 9912
+[[src_cesenatico_2006_squadre_semifinale_a__Q09]]

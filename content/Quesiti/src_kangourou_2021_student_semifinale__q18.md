@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student semifinale individuale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q18
 parent: src_kangourou_2021_student_semifinale
 competition: Kangourou 2021 Student semifinale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di domande sul prodotto di terne su 98 numeri*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0098
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of requests for the product of tern out of 98 numbers< MSK1/>
+
+> (8 points) 98 numbers are arranged on a circumference, each equal to 1 or  1 (without excluding that they are all equal to each other). You want to know their product without being able to see them: for the purpose you can ask, for how many dice you want, the product of the numbers that form a dice of consecutive numbers (regardless of how they appear on the circumference). What's the smallest number of questions you can ask?
+>  
+> Answers
+>  
+> 0040 0038 1001 0001 0000 9999 0045 0027 0098
+>  
+> M N B O A
+
+**Answer:** 0098
+[[src_kangourou_2021_student_semifinale__Q18]]

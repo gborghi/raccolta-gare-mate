@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo35yqa_yosen__Q01
 parent: src_jmo35yqa_yosen
 competition: Japan Mathematical Olympiad 2025 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill 7 honeycomb hexagons with 1-7 (each once), adjacent sums at most 10*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 72
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Remplire 7 esagoni di mellifera con 1-7 (ogni una volta), somme adiacenti al massimo 10*
+
+> Come mostrato nella figura, le cellule $7$ a esagono regolare sono disposte in un modello di pelliccia (una cellula centrale circondata da cellule $6$). Scrivi un intero da $1$ a $7$ in ogni cella, utilizzando ogni intero esattamente una volta, in modo che per ogni due celle che condividono un bordo la somma dei due numeri interi scritti in loro sia al massimo $10$. Quanti modi ci sono per farlo? Qui, due vie che coincidono sotto una rotazione o riflessione sono anche contate come distinte.
+
+![[src_jmo35yqa_yosen__Q01.png]]
+
+**Risposta:** 72
+[[src_jmo35yqa_yosen__Q01]]

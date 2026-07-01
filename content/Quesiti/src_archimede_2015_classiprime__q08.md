@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2015 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_classiprime__Q08
 parent: src_archimede_2015_classiprime
 competition: Gara Nazionale Classi Prime 2015
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di suddividere 6 giorni tra istituti senza giorni consecutivi*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to divide 6 days between institutions without consecutive days*
+
+> In Kenoncè there are serious problems with school building: 2 out of 3 schools are unusable. To solve the problem, the Prime Minister has decreed: (a) Each institution will reduce its hours to just two days a week, each of which will be 15 hours of lessons. (b) Each healthy school building will be used by 3 institutions, each of which will have two days a week. How many different ways can three institutions divide the days from Monday to Saturday so that the days of the same institution are never consecutive? A 30 B 89 C 10 D 12 E 24 F 18
+
+**Answer:** A
+[[src_archimede_2015_classiprime__Q08]]

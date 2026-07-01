@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1996 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1996__Q03
 parent: src_rmo_1996
 competition: Regional Mathematical Olympiad 1996
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve a system of two polynomial equations in real x and y*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19J2mf5R1cDnrRILwWwEUjnzN7cMwK4cG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi un sistema di due equazioni polinomiche in x e y reali*
+
+> Risolvere per i numeri reali $x$ e $y$: $$xy^2 = 15x^2 + 17xy + 15y^2$$ $$x^2 y = 20x^2 + 3y^2.$$
+
+[[src_rmo_1996__Q03]]

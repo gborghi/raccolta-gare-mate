@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (finale Cervia) — Quesito J1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_finale__QJ1
 parent: src_kangourou_2016_junior_finale
 competition: Kangourou 2016 Junior (finale Cervia)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Comprare gelato da 2 kang con 2 euro, minimo cambi*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** si, 40
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BU30qu2TCa9fts5FiD2Cc0ESbI7oLEr9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Buy ice cream from 2 kang for 2 euros, minimum change
+
+> The currency of Kangland is the kang. In Kangcity, the eurokang exchange rate works like this: you get 1 kang by paying 1.20 euros, you get 1 euro by paying 1 kang and proportionally if you exchange lower-value coins. In both currencies, the minimum value coin is that of a cent; any amount of money can be changed and the result of the change, if not expressed by an integer of cents, is rounded to a cent for excess. I'm in Kangcity and I only have euros. Is there a (readable) way to buy an ice cream that costs 2 kang with just 2 euros? If yes, what is the minimum number of exchanges that I can make?
+
+**Answer:** si, 40
+[[src_kangourou_2016_junior_finale__QJ1]]

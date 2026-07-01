@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q24
 parent: src_kangourou_2019_junior_marzo
 competition: Kangourou 2019 Gara marzo Junior (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti piani passano per tre ma non quattro vertici di un cubo*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many planes pass through three but not four vertices of a cube*
+
+> How many different floors pass through three, but not four, vertices of a cube? A) 1
+> 	
+> B) 2
+> 	
+> C) 4
+> 	
+> D) 8
+> 	
+> E) 12
+
+**Answer:** D
+[[src_kangourou_2019_junior_marzo__Q24]]

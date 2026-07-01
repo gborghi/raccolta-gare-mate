@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - semifinale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet_semifinale__Q17
 parent: src_kangourou_2021_cadet_semifinale
 competition: Kangourou 2021 Cadet - semifinale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max stanze visitabili nel triangolo lato 100*
 
@@ -67,3 +70,34 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9901
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Max rooms to be visited in the triangle side 100*
+
+![[src_kangourou_2021_cadet_semifinale__prob17.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \draw[thick] (0,0) -- (3,0) -- (1.5,2.598) -- cycle;
+  \draw (0.5,0.866) -- (2.5,0.866);
+  \draw (1.0,1.732) -- (2.0,1.732);
+  \draw (1,0) -- (0.5,0.866);
+  \draw (2,0) -- (1.5,0.866);
+  \draw (1.5,0.866) -- (1.0,1.732);
+  \draw (2.5,0.866) -- (2.0,1.732);
+  \draw (1,0) -- (1.5,0.866);
+  \draw (2,0) -- (2.5,0.866);
+  \draw (0.5,0.866) -- (1.0,1.732);
+  \draw (1.5,0.866) -- (2.0,1.732);
+\end{tikzpicture}
+\end{document}
+```
+
+> (7 points) An equilateral triangle of side n =100 is divided into equilateral triangles of side 1 according to the pattern suggested by the figure, in which case n = 3 is represented. Imagine that each small triangle represents a room and that in each of its walls shared with an adjacent room, there is a door. When choosing the appropriate room to leave, what is the maximum number of rooms you can visit if you can only pass once from each room you visit?
+
+**Answer:** 9901
+[[src_kangourou_2021_cadet_semifinale__Q17]]

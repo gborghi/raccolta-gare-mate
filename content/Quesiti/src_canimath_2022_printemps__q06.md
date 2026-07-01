@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2022 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_printemps__Q06
 parent: src_canimath_2022_printemps
 competition: Coupe Animath Printemps 2022
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real triples satisfying three cyclic quadratic equations*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i tripli reali che soddisfano tre equazioni quadratiche cicliche*
+
+> Determinare tutti i triples di numeri reali $(a, b, c)$ che soddisfano le tre equazioni $$a^2 + b = c^2, \quad b^2 + c = a^2, \quad c^2 + a = b^2.$$
+
+[[src_canimath_2022_printemps__Q06]]

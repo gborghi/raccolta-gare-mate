@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1997 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_2livello__Q04
 parent: src_archimede_1997_2livello
 competition: Archimede Gara 2º livello 1997
@@ -23,6 +24,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti congressisti su 100 portano la cravatta*
 
@@ -38,3 +41,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many congressmen out of 100 wear a tie
+
+> A strip consists of an internal steel cylinder of < MSK0/ cm radius coated with a layer of light rubber of constant thickness. Knowing that when the materials are reversed the weight of the strip remains unchanged, determine the thickness of the coating.
+>
+> - **(A)** $1$ cm
+> - **(B)** $\sqrt{2}$ cm
+> - **(C)** $(\sqrt{2}-1)$ cm
+> - **(D)** Depends on the length of the strip
+> - **(E)** None of the above
+
+**Answer:** E
+[[src_archimede_1997_2livello__Q04]]

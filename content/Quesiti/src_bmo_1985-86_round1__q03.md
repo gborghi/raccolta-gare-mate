@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1985-86 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1985-86_round1__Q03
 parent: src_bmo_1985-86_round1
 competition: British Mathematical Olympiad 1985-86 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a radical equation in positive integers forces m to be a square*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lLrqivQ3O-Z7kbBj5SWrC104ePjmgMFw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove un'equazione radicale in numeri interi positivi costringe m ad essere quadrato*
+
+> Prova che se $m$, $n$ sono interi positivi e $$1 + m + n\sqrt{3} = \left(2 + \sqrt{3}\right)^{2n-1}$$ allora $m$ è un quadrato perfetto.
+
+[[src_bmo_1985-86_round1__Q03]]

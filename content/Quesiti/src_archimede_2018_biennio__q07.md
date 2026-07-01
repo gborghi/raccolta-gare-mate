@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_biennio__Q07
 parent: src_archimede_2018_biennio
 competition: Giochi di Archimede 2018 - Biennio (T1)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza A100A101 nella spirale di triangoli rettangoli*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length A100A101 in the spiral of rectangular triangles*
+
+![[src_archimede_2018_biennio__prob7.png]]
+
+> Theodore is building a sequence of rectangular triangles, arranged like this on the side. The first is the isosceles triangle A1A2A3, a rectangle in A1, with 1 cm of catheters. The second is A2A3A4, rectangle in A2, where A2A4 is still 1 cm. The third is A3A4A5, rectangle in A3, with A3A5 still 1 cm. The construction goes on as follows: in each triangle AnAn+1An+2, rectangle in An, the catheter AnAn+2 is always 1 cm. How many centimetres will the A100A101 segment measure ?
+>
+> - **(A)** 20
+> - **(B)** 50
+> - **(C)** 25
+> - **(D)** 10
+> - **(E)** 16 A1 A2 A3 A4 A5 A6 A7 A8 A9 A10 A11
+
+**Answer:** D
+[[src_archimede_2018_biennio__Q07]]

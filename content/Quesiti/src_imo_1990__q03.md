@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1990 (31st IMO, Beijing) — Quesito 3'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1990__Q03
 parent: src_imo_1990
 competition: 'IMO 1990 (31st IMO, Beijing)'
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Determine all n>1 with n^2 dividing 2^n+1*
 
@@ -41,3 +44,15 @@ tags:
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Nm9GUxDj1LQ81dyXFSu02uDt1RWquol/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Determining at n>1 with n^2 dividing 2^n+1*
+
+> Determine to the integers n > 1 such that 2n + 1 n2 is an integer.
+> 
+> 31st International Mathematical Olympiad Beijing, China Day II July 13, 1990
+
+[[src_imo_1990__Q03]]

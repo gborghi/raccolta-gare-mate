@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet semifinale individuale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q09
 parent: src_kangourou_2022_cadet_semifinale
 competition: Kangourou 2022 Cadet semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della regione nera con due cerchi inscritti*
 
@@ -52,3 +55,21 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Black region area with two inscribed circles*
+
+![[src_kangourou_2022_cadet_semifinale__prob9.png]]
+
+> (6 points) In the figure you see a square divided into two gray rectangles and two squares. The two rectangles are congruent and inside each of the two squares is inscribed a circle. In each of the squares, the outside of the circle is painted black. The sum of the circle areas is 20π. What is the area of the region painted black? A) 4(5π – 4) B) 20(4 – π) C) 4 + π D) 8π
+>  
+> E) 2022(2022 – π) A B
+> 
+>  
+> Open-ended questions
+
+**Answer:** B
+[[src_kangourou_2022_cadet_semifinale__Q09]]

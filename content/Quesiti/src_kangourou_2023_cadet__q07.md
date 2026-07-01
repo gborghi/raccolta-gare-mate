@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q07
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quante girare per pareggiare*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how much to spin to match< MSK1/>
+
+> John throws 150 coins on the table. Only 40% of the coins show the side Testa: how many coins must be rotated so that the number of coins showing Testa is equal to that of the coins showing Cross? A) 10 B) 15
+> 	
+> C) 20 D) 25 E) 30
+
+**Answer:** E
+[[src_kangourou_2023_cadet__Q07]]

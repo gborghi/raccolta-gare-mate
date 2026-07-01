@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f2__Q06
 parent: src_obm_2016_n2_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min interior points of 4x4 square hit by every inscribed unit disk*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pMNbGFlrYDlG-OKHRMZRxFDZCNFl1iD6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Min punti interiori di 4x4 quadrati colpiti da ogni disco unitario inserito*
+
+> $ABCD$ sia un quadrato di lato $4$. L'insieme $S$ di punti all'interno di $ABCD$ ha la seguente proprietà: ogni cerchio di raggio $1$ interamente contenuto in $ABCD$ (anche sul suo confine) contiene almeno un punto $S$. Qual è il numero minimo di punti di $S$?
+
+[[src_obm_2016_n2_f2__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1967 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1967_r3__Q05
 parent: src_pol_1967_r3
 competition: Olimpiade Matematica Polacca 1967 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five points ABCDE in space with equal sides and angles; prove coplanar*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOZgCbQj4f0sjxRkfqvY1uffN7E7Z8k0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cinque punti ABCDE nello spazio con lati e angoli uguali; dimostrare coplanare*
+
+> I punti $A, B, C, D, E$ nello spazio hanno la proprietà che $$AB = BC = CD = DE = EA,$$ $$\angle ABC = \angle BCD = \angle CDE = \angle DEA = \angle EAB.$$ dimostra che i punti $A, B, C, D, E$ si trovano su un piano.
+
+[[src_pol_1967_r3__Q05]]

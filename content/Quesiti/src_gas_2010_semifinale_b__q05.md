@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale B — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_b__Q05
 parent: src_gas_2010_semifinale_b
 competition: Gara a Squadre 2010 - Semifinale B
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza conteggio simboli in triangolo ciclico di 2010 righe*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1340
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Different symbol count in cyclic triangle of 2010 rows*
+
+> 5. Unfortunately, the mutiny succeeded, Jack Disparrow was abandoned on a deserted island and the True Pearl fell into the hands of Bourbakossa, whose flag is a large black triangle on which three pirate symbols are often depicted. The first line depicts a monkey. On the second line, a monkey and a forzer. On the third line, there's a monkey, a forzer, and an apple. On the fourth line again a monkey, a forcer, an apple and another monkey, and so on: on the ninth line there are n symbols obtained repeating in monkey, forcer and apple order. The triangle counts all 2010 lines: what's the difference between the number of monkeys and the number of apples?
+
+**Answer:** 1340
+[[src_gas_2010_semifinale_b__Q05]]

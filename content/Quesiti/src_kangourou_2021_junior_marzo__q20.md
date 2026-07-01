@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q20
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di a nella sequenza con somme alternate*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of a in the sequence with alternate sums*
+
+![[src_kangourou_2021_junior_marzo__prob20.png]]
+
+> The figure shows a sequence of eight boxes, in the first and last of which the number 2021 appears. Each empty box can be filled with a number so that, for an appropriate number a, the sum of the two numbers in two adjacent boxes is alternately a and a + 1, as shown in the figure. What 's the value of a ? A) 4041 B) 4042 C) 4043 D) 4044 E) 4045 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** E
+[[src_kangourou_2021_junior_marzo__Q20]]

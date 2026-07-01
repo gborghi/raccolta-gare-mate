@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2019 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_printemps__Q02
 parent: src_canimath_2019_printemps
 competition: Coupe Animath Printemps 2019
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 8-digit numbers ab2019cd divisible by 360*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri a 8 cifre ab2019cd divisibili per 360*
+
+> Quanti sono i numeri a 8 cifre la cui espansione decimale ha la forma $\overline{ab2019cd}$ (dove $a$, $b$, $c$, $d$ sono cifre) e che sono divisibili da $360$?
+
+[[src_canimath_2019_printemps__Q02]]

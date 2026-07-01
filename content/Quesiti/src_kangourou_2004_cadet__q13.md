@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q13
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti ragazzi (coni a due gusti distinti)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many boys (twin-tasting corners) < MSK1/>
+
+> An ice cream shop sells ice cream of nine different tastes. A group of kids walks into the store and each buys a two-taste ice cone: neither of them chooses the same combination of flavors and no combination of flavors is discarded. How many kids are there? A) 9            B) 36          C) 72         D) 81          E) 90
+
+**Answer:** B
+[[src_kangourou_2004_cadet__Q13]]

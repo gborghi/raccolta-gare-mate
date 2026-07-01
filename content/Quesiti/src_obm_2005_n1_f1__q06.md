@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q06
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of bees if 10 gallons shared among 7 million km trips*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di api se 10 galloni sono condivisi tra 7 milioni di chilometri di viaggi*
+
+> Un gallone di miele fornisce energia sufficiente per una api a volare < MSK0/> milione di chilometri. Se i galloni di miele fossero condivisi tra tutte le api, quante api potrebbero condividerli?
+> 
+> A) $7{,}000$ \quad B) $70{,}000$ \quad C) $700{,}000$ \quad D) $7{,}000{,}000$ \quad E) $70{,}000{,}000$
+
+**Risposta:** E
+[[src_obm_2005_n1_f1__Q06]]

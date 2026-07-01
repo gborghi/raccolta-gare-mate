@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale A — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_a__Q16
 parent: src_gas_2009_semifinale_a
 competition: Gara a Squadre 2009 - Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima distanza tra due punti date somme quadrati ai vertici*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 9500
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Wx24coOZuHD5lnXnMkNRwAuUmiEDrRDK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum distance between two points given sums squared at vertices*
+
+> The distance of the Lepica Battle of Puntor, between Gaussdalf and Tauron, took place in a square forest, from the perimeter of 60 Km. The scriptures record, for both contenders, the sum of the squares of the distances from the vertices of the battlefield: Gaussdalf 594 Km2, Tauron 499 Km2. How many yards away did the wizard and the dark lord have to face each other?
+> 
+> . . I 'm not . Competition in teams .2 .9 X GARA NATIONAL A Semifinal squad A  SOLUTIONS  8 May 2009 Nr. The problem
+
+**Answer:** 9500
+[[src_gas_2009_semifinale_a__Q16]]

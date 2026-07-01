@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q06
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Parabola y^2=2px, tangent through P meets y-axis at Q; given |FP|=2,|FQ|=1 find OP·OQ.*
 
@@ -43,3 +46,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Parabola y^2=2px, tangente attraverso P incontra l'asse y a Q; dato che \\\displaystyle \\\mathbb {\\displaystyle \mathbb {\\mathbb {\\mathbb {\\mathbb {\\mathbb {\\mathbb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {\\mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb {mathb}}}} }
+
+> [Paper di prova A, problema 6] In un sistema di coordinate rettangolare piatto $xOy$, il focus della parabola $\Gamma:y^2=2px\ (p>0)$ è $F$. Fare una linea tangente a $\Gamma$ che attraversa il punto $P$ (diverso da $O$) su $\Gamma$ e che incroci l'asse $y$ al punto $Q$. Se $|FP|=2$, $|FQ|=1$, allora il prodotto di punti dei vettori $\overrightarrow{OP}$ e $\overrightarrow{OQ}$ è ______.
+
+[[src_cn_cmc-first-round_2021__Q06]]

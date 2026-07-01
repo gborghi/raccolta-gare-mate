@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2000 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2000__Q02
 parent: src_inmo_2000
 competition: Indian National Mathematical Olympiad 2000
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve integer system x+y=1-z, x^3+y^3=1-z^2*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19gclPYoes6dSVvxjkTBtcJvWFswaMdDg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi sistema di numeri interi x+y=1-z, x^3+y^3=1-z^2*
+
+> Risolvere per i numeri interi $x, y, z$: $$x + y = 1 - z, \quad x^3 + y^3 = 1 - z^2.$$
+
+[[src_inmo_2000__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Biennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_biennio__Q10
 parent: src_archimede_2011_biennio
 competition: Giochi di Archimede 2011 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri palindromi cinque cifre con somma cifre pari*
 
@@ -46,3 +49,20 @@ tags:
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 **Anche in triennio:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Five-digit palindrome numbers with a sum of equal numbers*
+
+> A, b, and c are three real numbers, all different from each other. For how many real numbers x, at most, can the equations be: ax + b = bx + c = cx + a?
+>
+> - **(A)** No one.
+> - **(B)** 1,
+> - **(C)** 3,
+> - **(D)** 4,
+> - **(E)** At least five.
+
+**Answer:** A
+[[src_archimede_2011_biennio__Q10]]

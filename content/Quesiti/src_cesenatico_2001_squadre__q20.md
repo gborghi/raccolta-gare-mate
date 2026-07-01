@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2001_squadre__Q20
 parent: src_cesenatico_2001_squadre
 competition: Gara Nazionale a Squadre Cesenatico 2001
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime quattro cifre del coefficiente massimo del polinomio*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1536
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The last four digits of the maximum coefficient of the polynomial *
+
+> This is a list of the countries of Central and Eastern Europe.
+> 
+> Thanks also to your help the Qwghlm civilization numbering system has finally been deciphered. Now you can appreciate another problem found by some good archaeologists and translated into our decimal system:
+> 
+> What are the last four digits of the greatest coefficient (in absolute value) of the polynomial
+> 
+> $$(x-1)(x-2)(x-4)(x-8)(x-16)(x-32)(x-64)\ ?»$$
+
+**Answer:** 1536
+[[src_cesenatico_2001_squadre__Q20]]

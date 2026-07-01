@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo28yq_yosen__Q08
 parent: src_jmo28yq_yosen
 competition: Japan Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum of cyclic dot-product sum over three permutations*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 195
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum della somma del prodotto ciclico dei punti su tre permutazioni*
+
+> Se $a_1, a_2, \ldots, a_6$ e $b_1, b_2, \ldots, b_6$ e $c_1, c_2, \ldots, c_6$ sono ciascuna una permutazione di $1, 2, 3, 4, 5, 6$. Trova il valore minimo possibile di $$a_1 b_1 + a_2 b_2 + \cdots + a_6 b_6 + b_1 c_1 + b_2 c_2 + \cdots + b_6 c_6 + c_1 a_1 + c_2 a_2 + \cdots + c_6 a_6.$$
+
+**Risposta:** 195
+[[src_jmo28yq_yosen__Q08]]

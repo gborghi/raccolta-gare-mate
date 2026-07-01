@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2009 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2009__Q04
 parent: src_cn_cmc-complementary-test_2009
 competition: China Mathematical Competition (Complementary Test) 2009
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Nonneg 3x9 matrix with property (O) on first-three-column submatrix*
 
@@ -62,3 +65,27 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Matrice nonneg 3x9 con proprietà (O) sulla prima sottomatrice di tre colonne*
+
+> (50 punti) Supponiamo che una matrice di voci non negative $$P = \begin{pmatrix} x_{11} & x_{12} & x_{13} & x_{14} & x_{15} & x_{16} & x_{17} & x_{18} & x_{19} \\ x_{21} & x_{22} & x_{23} & x_{24} & x_{25} & x_{26} & x_{27} & x_{28} & x_{29} \\ x_{31} & x_{32} & x_{33} & x_{34} & x_{35} & x_{36} & x_{37} & x_{38} & x_{39} \end{pmatrix}$$ abbia le seguenti proprietà:
+> 
+> (1) I numeri di una riga sono diversi l'uno dall'altro;
+> 
+> (2) La somma dei numeri di una colonna delle prime sei colonne è $1$;
+> 
+> (3) $x_{i4} = x_{i5} = x_{i6} = 0$ per $i = 1, 2, 3$;
+> 
+> (4) $x_{i1} + x_{i2} + x_{i3} + x_{i7} + x_{i8} + x_{i9} \geq 1$.
+> 
+> La matrice $S$ è costituita dalle prime tre colonne di $P$: $$S = \begin{pmatrix} x_{11} & x_{12} & x_{13} \\ x_{21} & x_{22} & x_{23} \\ x_{31} & x_{32} & x_{33} \end{pmatrix}.$$ $S$ ha la seguente proprietà:
+> 
+> (O) Per ogni colonna $\begin{pmatrix} x_{1k} \\ x_{2k} \\ x_{3k} \end{pmatrix}$ ($k = 1, 2, \ldots, 9$) in $P$, esiste $i \in \{1, 2, 3\}$ tale che $$x_{ik} \leq u_i = \min(x_{i1}, x_{i2}, x_{i3}).$$
+> 
+> Provare che $\widetilde{S}$, la matrice ottenuta riordinando due righe di $S$, ha anche la proprietà (O).
+
+[[src_cn_cmc-complementary-test_2009__Q04]]

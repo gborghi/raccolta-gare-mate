@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q07
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta di Eliana data la media delle eta*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Eta of Eliana given the mean age< MSK1/>
+
+> A jazz band consists of six members. Joseph plays the saxophone, Sergio plays the trumpet, Eliana sings and they're all the same age. The other three members of the jazz band are 17, 19, and 24. The average age of the six members is 21. How old is Eliana? A) 20
+> 	
+> B) 21
+> 	
+> C) 22
+> 	
+> D) 23
+> 	
+> E) 24
+
+**Answer:** C
+[[src_kangourou_2021_junior_marzo__Q07]]

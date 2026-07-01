@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2016 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_classiprime__Q02
 parent: src_archimede_2016_classiprime
 competition: Gara Nazionale Classi Prime 2016
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali dei numeri dati sono quadrati perfetti*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11_tVYKZUBusCSJwiRULQD9nPIEI-cYvl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which of the numbers given are perfect squares*
+
+> The numbers a = 1234321, b = 1002001 and c = 249 −248 are given. Which of these are perfect squares? To all B only a and b C only a and c D only b and c E only b F none
+
+**Answer:** A
+[[src_archimede_2016_classiprime__Q02]]

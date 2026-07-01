@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_semifinale1__Q08
 parent: src_archimede_2026_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2026 - Semifinale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma n con K_n=729 in successione ricorsiva geometrica*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum n with K_n=729 in geometric recursive sequence*
+
+> Proof of loyalty Giuseppe Mascellani The most evil mathematician ever, The One-who-can-not-be-proved, tests the loyalty of his followers by proposing the following question. Given a positive integer a, it defines K0 = 1 and, for each n ≥0, Kn+1 = Kn +aKn−1 +...+anK0. He then asks to determine the sum of all positive integers n so it's possible that Kn = 729. What must followers say to save lives?
+
+**Answer:** 0016
+[[src_archimede_2026_squadre_semifinale1__Q08]]

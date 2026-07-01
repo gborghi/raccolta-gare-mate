@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2025 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_automne__Q04
 parent: src_canimath_2025_automne
 competition: Coupe Animath Automne 2025
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all b given remainders 2 and 4 in two Euclidean divisions*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le b con i rimanenti 2 e 4 in due divisioni euclidiche*
+
+> Hadriel ha scelto due enti rigorosamente positivi $a$ e $b$. Quando fa la divisione euclidica di $a$ per $b$, il rimanente è $2$. Quando fa la divisione euclidica di $b$ per $a$, il rimanente è $4$. Determinare tutti i valori possibili che $b$ può assumere.
+
+[[src_canimath_2025_automne__Q04]]

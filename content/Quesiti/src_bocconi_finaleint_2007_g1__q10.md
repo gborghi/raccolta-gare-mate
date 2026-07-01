@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 1) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g1__Q10
 parent: src_bocconi_finaleint_2007_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Addizione da ricostruire: ritrovare il totale dell'addizione tagliata a striscioline*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6 511 962
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Addition to be reconstructed: recover the total of the stripped addition*
+
+> This addition (exact) was reduced to strips by nasty scissors before being thrown into the trash. The strips we found are mixed. The figure here opposite shows the disorder. What is the total?
+
+![[src_bocconi_finaleint_2007_g1__Q10.png]]
+
+**Answer:** 6 511 962
+[[src_bocconi_finaleint_2007_g1__Q10]]

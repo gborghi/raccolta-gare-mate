@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f1__Q07
 parent: src_obm_2016_n1_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Least number of equal pieces divisible among 2, 3 or 5 people.*
 
@@ -47,3 +50,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimo numero di pezzi uguali divisibili tra 2, 3 o 5 persone.*
+
+> Trova il minor numero di pezzi uguali in cui si può tagliare qualcosa in modo che possa essere diviso in modo uguale tra $2$, $3$ o $5$ persone.
+> 
+> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: poiché tutti i pezzi sono uguali e possono essere divisi in gruppi di $2$, $3$ o $5$, il numero di pezzi deve essere un multiple del più piccolo comune di questi numeri, ovvero un multiple di $30$. Con $30$ pezzi uguali la divisione desiderata è effettivamente possibile.]
+
+**Risposta:** D
+[[src_obm_2016_n1_f1__Q07]]

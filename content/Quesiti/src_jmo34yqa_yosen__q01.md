@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo34yqa_yosen__Q01
 parent: src_jmo34yqa_yosen
 competition: Japan Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Simplify a nested factorial square root as a reduced fraction*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $\frac{122}{11}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BLiurO6ycVxBaRhIQ4VIeU3sYe6dethe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Semplificare una radice quadrata fattoriale incastonata come frazione ridotta*
+
+> Il seguente valore è razionale. Esprimere come frazione ridotta: $$\sqrt{\dfrac{123! - 122!}{122! - 121!}}$$
+
+**Risposta:** \frac{122}{11}
+[[src_jmo34yqa_yosen__Q01]]

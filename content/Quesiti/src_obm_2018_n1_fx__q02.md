@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2018 — Nível 1 — Fase x — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2018_n1_fx__Q02
 parent: src_obm_2018_n1_fx
 competition: Olimpíada Brasileira de Matemática 2018 — Nível 1 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer sequences: each term is remainder mod 9 of product of two previous*
 
@@ -57,3 +60,23 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KCJHUo1nCGlEeSCXILo_64DHKdkW717s/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenze interi: ogni termine è restante mod 9 del prodotto di due precedenti*
+
+> Considerate sequenze di numeri interi che hanno le seguenti due proprietà:
+> 
+> i) I primi due termini sono indicati.
+> 
+> ii) Ogni termine a decorrere dal terzo è il resto della divisione per 9 del prodotto dei due termini precedenti.
+> 
+> a) Qual è il ventesimo termine della sequenza $2, 3, \ldots$?
+> 
+> b) Qual è il termine $2018$ della sequenza $1, 2, \ldots$?
+> 
+> c) Presenta due sequenze il cui termine $2018$ è uguale a 1.
+
+[[src_obm_2018_n1_fx__Q02]]

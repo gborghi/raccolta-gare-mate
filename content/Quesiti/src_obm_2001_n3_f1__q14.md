@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f1__Q14
 parent: src_obm_2001_n3_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five animals (dogs tell truth, wolves lie); given statements, count the wolves*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cinque animali (cani dicono la verità, lupi mentono); date le dichiarazioni, contate i lupi*
+
+> Cinque animali < MSK0/>, < MSK1/>, < MSK2/>, < MSK3/> e < MSK4/> sono cani o lupi. I cani dicono sempre la verità e i lupi mentono sempre. $A$ dice che $B$ è un cane. Il MSK7 dice che il MSK8 è un lupo. $C$ dice che $D$ è un lupo. < MSK11/> dice che < MSK12/> e < MSK13/> sono animali di specie diverse. < MSK14/> dice che < MSK15/> è un cane. Quanti lupi ci sono tra i cinque animali?
+> 
+> **A)** 1 $\quad$ **B)** 2 $\quad$ **C)** 3 $\quad$ **D)** 4 $\quad$ **E)** 5
+
+**Risposta:** D
+[[src_obm_2001_n3_f1__Q14]]

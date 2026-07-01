@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q01
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanto costa una tavoletta di cioccolata*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How much does a chocolate bar cost< MSK1/>
+
+> Four tablets of chocolate cost six euros more than one table. How much does a chocolate bar cost? (a) 1 euro B) 2 euro C) 3 euro D) 4 euro E) 5 euro
+
+**Answer:** B
+[[src_kangourou_2012_cadet__Q01]]

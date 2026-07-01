@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q17
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -29,6 +30,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two triangles sharing angle with given sides, find AC+DF*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 30
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due triangoli che condividono angolo con i lati dati, trovare AC+DF*
+
+> I triangoli $ABC$ e $DEF$ sono tali da $\angle A = \angle D$, $AB = DE = 17$, $BC = EF = 10$ e $AC - DF = 12$. Che cos' è < MSK6/>?
+
+**Risposta:** 30
+[[src_prmo_2018__Q17]]

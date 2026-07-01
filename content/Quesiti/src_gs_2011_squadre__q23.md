@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2011 - Gara a squadre — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2011_squadre__Q23
 parent: src_gs_2011_squadre
 competition: Coppa Fermat 2011 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero triangoli ottusangoli con vertice al centro*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 1408
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of octagonal triangles with vertex at the centre*
+
+> The representative symbol of the SPECTRE is the octagonal triangle. On the main building of Bunscerol Island, a square matrix of lights shows an abstraction of the symbol: $81$ lights are distributed on $9$ lines and $9$ columns, the light in the center always stays on, two more of the remaining $80$ lights are lit randomly for a few seconds, so that the three lights lit form the vertices of an octagonal triangle without being aligned. How many pairs of lights can you light?
+
+**Answer:** 1408
+[[src_gs_2011_squadre__Q23]]

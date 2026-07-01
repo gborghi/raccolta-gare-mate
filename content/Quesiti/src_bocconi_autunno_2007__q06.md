@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2007 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2007__Q06
 parent: src_bocconi_autunno_2007
 competition: Giochi d'Autunno 2007
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero iniziale nel quadrato di operazioni con frecce*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 441
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Initial number in the square of arrow operations*
+
+> What number do you have to write in the box at the top left so that the four operations indicated (executed in order, starting from the horizontal arrow at the top) are correct?
+
+![[src_bocconi_autunno_2007__Q06.png]]
+
+**Answer:** 441
+[[src_bocconi_autunno_2007__Q06]]

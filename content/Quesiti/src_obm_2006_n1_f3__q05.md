@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f3__Q05
 parent: src_obm_2006_n1_f3
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 3
@@ -40,6 +41,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sliding pieces on grid: minimum moves to swap two circular and two square pieces*
 
@@ -61,3 +64,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FsRdAPbcst2JE6FUdAJxsjzLVbBqnPA7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Piani scorrevoli sulla griglia: movimenti minimi per scambiare due pezzi circolari e due pezzi quadrati*
+
+> Partendo dalla tavola mostrata nella Figura 1, con quattro pezzi  due pezzi grigie circolari e due pezzi quadrati neri  Esmeraldinho inventò il seguente gioco:
+> 
+> \begin{itemize} \item Inizialmente i pezzi vengono posizionati sulla lavagna come mostrato alla Figura 1. \item L'obiettivo del gioco è, dopo un certo numero di mosse, scambiare le posizioni dei pezzi, raggiungendo la situazione mostrata nella Figura 2. \item Ogni movimento consiste nel spostare uno o più quadrati tra i quattro pezzi verso l'alto, verso il basso, verso la sinistra o verso la destra; tuttavia, un pezzo non può \emph{jump over} alcun pezzo che alla fine si trova nel suo percorso, né occupare un quadrato dove c'è già un pezzo. Ad esempio, il pezzo segnato \textbf{A} può essere spostato solo nei quadrati evidenziati nel piccolo diagramma. \item Movimenti di cerchi e quadrati alternati. La partita inizia con una mossa di uno dei quadrati. # Finire #
+> 
+> Determinare il numero minimo di mosse necessarie per finire la partita. Mostrate, passo dopo passo, come spostare i pezzi con questo numero di mosse, e dimostrate che non è possibile finire la partita con meno mosse.
+
+![[src_obm_2006_n1_f3__Q05.png]]
+
+[[src_obm_2006_n1_f3__Q05]]

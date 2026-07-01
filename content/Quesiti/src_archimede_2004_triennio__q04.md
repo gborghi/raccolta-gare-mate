@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2004 - Gara Triennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2004_triennio__Q04
 parent: src_archimede_2004_triennio
 competition: Giochi di Archimede 2004 - Gara Triennio
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *valore di una espressione*
 
@@ -35,3 +38,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*value of an expression*
+
+> $a$, $b$ and $c$ are three natural numbers. We know that $a$ is divisible by 15, $b$ is divisible by 12 and $c$ is divisible by 21. Which of the following is certainly true?
+> 
+> (A) $a^2 + b^2 + c^2$ is divisible by 18, (B) $a + b + c$ is divisible by 9, (C) $a + b + c$ is divisible by 9, (D) $(a+b+c)^2$ is divisible by 9, (E) $a^2 + b^2 + c^2$ is divisible.
+
+[[src_archimede_2004_triennio__Q04]]

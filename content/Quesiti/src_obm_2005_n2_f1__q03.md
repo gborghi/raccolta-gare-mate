@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q03
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Six identical rectangles form a larger rectangle of height 21 cm; find area*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sei rettangoli identici formano un rettangolo più grande di 21 cm di altezza; trovare area*
+
+> Sei rettangoli identici sono uniti per formare un rettangolo più grande come indicato nella figura. Qual è l'area di questo rettangolo più grande? (Il lato verticale del rettangolo più grande misura $21\,\text{cm}$.) A) $210\,\text{cm}^2$ \quad B) $280\,\text{cm}^2$ \quad C) $430\,\text{cm}^2$ \quad D) $504\,\text{cm}^2$ \quad E) $588\,\text{cm}^2$
+
+![[src_obm_2005_n2_f1__Q03.png]]
+
+**Risposta:** E
+[[src_obm_2005_n2_f1__Q03]]

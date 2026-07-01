@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2020 Finale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_finale__Q03
 parent: src_kangourou_2020_junior_finale
 competition: Kangourou Coppa Junior squadre 2020 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo concorrenti (Fibonacci sequenze senza due 1)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0378
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1FHlXv6XSZu8CigCMt0qnx7UwdUaiE9UP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum competitors (Fibonacci sequences without two 1) *
+
+> Competitors A Kangourou competition consisted of 12 numbered questions. The report sent to the manager provided the following two information: - each participant answered all questions; - no participant gave the correct answer to two consecutive questions. The person responsible, without knowing the details but knowing the number of participants, concludes that at least two candidates answered the same way, that is, correctly and incorrectly to the same questions. At least, how many competitors took part in the competition?
+
+**Answer:** 0378
+[[src_kangourou_2020_junior_finale__Q03]]

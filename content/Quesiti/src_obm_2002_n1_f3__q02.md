@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f3__Q02
 parent: src_obm_2002_n1_f3
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *X is reflection of B across line r (perpendicular bisector setup); X' Y' Z' are reflections of vertices of triangle XYZ across the opposite sides; compute the area of triangle X'Y'Z'*
 
@@ -56,3 +59,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15lQ7pjQw33CmRKlTG9zAbRyQY3NZVoW3/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*X è il riflesso di B attraverso la linea r (impostazione bisettore perpendicolare); X' Y' Z' sono i riflessi delle vertici del triangolo XYZ su tutti i lati opposti; calcolare l'area del triangolo X'Y'Z'*
+
+> Nel disegno, la linea $r$ è perpendicolare al segmento $AB$ e passa attraverso il suo punto medio $M$. Diciamo che $X$ è la simmetria (riflessione) di $B$ rispetto alla linea $r$ quando $r$ è il bisettore perpendicolare del segmento $BX$ (analogamente per la simmetria di un punto rispetto al segmento $PQ$).
+> 
+> Il triangolo $X'Y'Z'$ deve essere tale che $X'$ sia simmetrica di $X$ rispetto al lato $YZ$, $Y'$ sia simmetrica di $Y$ rispetto al lato $XZ$, e $Z'$ sia simmetrica di $Z$ rispetto al lato $XY$.
+> 
+> Calcolare l'area del triangolo $X'Y'Z'$.
+
+![[src_obm_2002_n1_f3__Q02.png]]
+
+[[src_obm_2002_n1_f3__Q02]]

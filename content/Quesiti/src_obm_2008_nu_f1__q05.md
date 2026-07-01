@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 1 —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_nu_f1__Q05
 parent: src_obm_2008_nu_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum number of hyperbolas to cover all plane points*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero minimo di iperbole per coprire tutti i punti del piano*
+
+> Diciamo che un iperbola copre un punto se il punto appartiene a una delle due regioni infinite determinate dall'iperbola che contiene i suoi foci. Qual è il più piccolo numero di iperbole necessario per coprire tutti i punti del piano?
+
+[[src_obm_2008_nu_f1__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Biennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_biennio__Q02
 parent: src_archimede_2024_biennio
 competition: Giochi di Archimede 2024 - Gara Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre necessarie per scrivere 100^200+738*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Iu7kD5n_PVg1XhSHtMxZ-BA4ZyHjqk8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers needed to write 100^200+738*
+
+> Carlo, with great patience, is writing the number 100200 + 738 out. How many digits will he have to write in all?
+>
+> - **(A)** 2000
+> - **(B)** 438
+> - **(C)** 401
+> - **(D)** 238
+> - **(E)** 2038
+
+**Answer:** C
+[[src_archimede_2024_biennio__Q02]]

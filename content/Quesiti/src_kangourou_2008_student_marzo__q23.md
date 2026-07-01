@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q23
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre del prodotto (moltiplicazione asterischi)*
 
@@ -82,3 +85,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sum of product figures (asterisked multiplication) < MSK1/>
+
+![[src_kangourou_2008_student_marzo__prob23.png]]
+
+> The figure represents a multiplication performed manually in the usual way. Each asterisk replaces a number. The sum of the product figures is A) 16 B) 20 C) 26 D) 30 E) none of the values indicated. The Commission shall adopt delegated acts in accordance with the opinion of the Committee on Budgetary Control and with the opinion of the Committee on Budgetary Control and the Committee on Budgetary Control.
+> 
+> I'm going to pay. I'm going to pay. 32 32 Kang 2008 Kang
+
+**Answer:** A
+[[src_kangourou_2008_student_marzo__Q23]]

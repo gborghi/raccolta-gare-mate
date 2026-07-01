@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2014-15 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2014-15_round1__Q04
 parent: src_bmo_2014-15_round1
 competition: British Mathematical Olympiad 2014-15 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove t_n = x^n + x^{-n} is integer; find n where t divides t_n*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1l0RFrPHzP53YwhNP9wsOD3CG6WBFSW7p/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove t_n = x^n + x^{-n} è un intero; trova n dove t divide t_n*
+
+> $x$ sia un numero reale tale che $t = x + x^{-1}$ sia un numero intero maggiore di $2$. Prove che $t_n = x^n + x^{-n}$ è un intero per tutti i numeri interi positivi $n$. Determinare i valori di $n$ per i quali $t$ divide $t_n$.
+
+[[src_bmo_2014-15_round1__Q04]]

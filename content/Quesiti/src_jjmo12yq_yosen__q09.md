@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo12yq_yosen__Q09
 parent: src_jjmo12yq_yosen
 competition: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min pieces so any start can be reduced to one piece at the center*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mini pezzi in modo che qualsiasi inizio possa essere ridotto a un pezzo al centro*
+
+> Su una griglia $55 \times 55$, un pezzo viene posizionato su ciascuna delle celle distinte $n$. Indipendentemente dal posizionamento iniziale dei pezzi, ripetendo l'operazione di seguito è possibile raggiungere uno stato in cui un pezzo viene posizionato sulla cella centrale. Trova il valore più piccolo di $n$ per il quale questo è possibile. Operazione: scegli un pezzo e fissa una direzione di movimento tra su, giù, sinistra, destra. Poi, finché la prossima cella in cui si deve spostare non è né fuori dalla griglia né una cella già occupata da un pezzo, spostare ripetutamente il pezzo scelto una cella alla volta in quella direzione.
+
+**Risposta:** 3
+[[src_jjmo12yq_yosen__Q09]]

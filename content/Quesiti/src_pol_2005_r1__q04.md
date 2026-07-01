@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2005 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2005_r1__Q04
 parent: src_pol_2005_r1
 competition: Olimpiade Matematica Polacca 2005 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the largest possible value of an expression with two constrained sequences.*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il più grande valore possibile di un'espressione con due sequenze limitate.*
+
+> Sono dati un numero naturale $n$ e numeri reali positivi $a$ e $b$. Trova il valore più grande possibile dell'espressione $$x_1 y_1 + x_2 y_2 + \cdots + x_n y_n,$$ dove $x_i, y_i$ sono numeri dell'intervallo $[0, 1]$ in modo tale che $x_1 + x_2 + \cdots + x_n \le a$ e $y_1 + y_2 + \cdots + y_n \le b$.
+
+[[src_pol_2005_r1__Q04]]

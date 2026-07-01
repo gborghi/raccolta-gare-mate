@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2024 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo34hq_honsen__Q05
 parent: src_jmo34hq_honsen
 competition: Japan Mathematical Olympiad 2024 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *No positive integer solution to a^2+b^2+c^2+d^2−4√(abcd)=7·2^(2n−1)*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oh_f0Ust1zP8T7KdADefA9zgGGlZhTvf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nessuna soluzione di integri positivi a^2+b^2+c^2+d^2−4√(abcd)=7·2^(2n−1)*
+
+> Prova che non ci sono numeri interi positivi $(a, b, c, d, n)$ che soddisfano $$a^2 + b^2 + c^2 + d^2 - 4\sqrt{abcd} = 7 \cdot 2^{2n-1}.$$
+
+[[src_jmo34hq_honsen__Q05]]

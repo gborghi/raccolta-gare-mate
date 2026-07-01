@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2021-22 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2021-22_round1__Q03
 parent: src_bmo_2021-22_round1
 competition: British Mathematical Olympiad 2021-22 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count pile formations of gold pieces weighing 2021 grams*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ldnNBiWXMyvCmwHuX6A7qXhF4AqgZKYU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Formazioni di pile di conto di pezzi d'oro di peso 2021 grammi*
+
+> Per ogni intero $0 \le n \le 11$, Eliza ha esattamente tre pezzi identici di oro che pesano $2^n$ grammi. In quanti modi diversi può formare una pila d'oro che pesa $2021$ grammi?
+> 
+> (Due pile sono diverse se contengono numeri diversi di pezzi d'oro di un certo peso. La disposizione dei pezzi nelle pile è irrilevante.)
+
+[[src_bmo_2021-22_round1__Q03]]

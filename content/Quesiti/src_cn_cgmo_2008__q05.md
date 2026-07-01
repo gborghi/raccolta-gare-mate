@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2008 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2008__Q05
 parent: src_cn_cgmo_2008
 competition: China Girls' Mathematical Olympiad 2008
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Kite quadrilateral with concyclic points and similar triangles; prove three points collinear*
 
@@ -47,3 +50,15 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterali di kit con punti conciclici e triangoli simili; dimostrare tre punti collineari*
+
+> Supponiamo che il quadrilaterale convex $ABCD$ soddisfi $AB = BC$, $AD = DC$. $E$ è un punto su $AB$ e $F$ su $AD$, in modo che $B$, $E$, $F$, $D$ siano conciclici. Disegnare $\triangle DPE$ direttamente simile a $\triangle ADC$ e disegnare $\triangle BQF$ direttamente simile a $\triangle ABC$. Provare che $A$, $P$, $Q$ sono collineari. (Posato da Pao Zhonghao)
+
+![[src_cn_cgmo_2008__Q05.png]]
+
+[[src_cn_cgmo_2008__Q05]]

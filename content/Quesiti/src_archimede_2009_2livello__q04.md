@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_2livello__Q04
 parent: src_archimede_2009_2livello
 competition: Archimede Gara 2° livello 2009 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti sinceri tra Luca, Maria, Nicola, Paola*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many sincere people between Luke, Mary, Nicholas, Paola
+
+> At a table, there are four people: Luke, Mary, Nicholas, and Paula. Each of the four always lies, or never lies. Also, they don't like to talk about themselves, but rather about their friends; so much so that when asked who of them always lies, their answers are: Luke: Every girl is always sincere, Maria: Every boy is always a liar, Nicola: There is a girl who always lies, the other girl is always sincere, Paula: One of the boys is always sincere, the other never. Can you tell me how many people at the table are always honest?
+>
+> - **(A)** No one .
+> - **(B)** 1
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** I mean, everybody.
+
+**Answer:** C
+[[src_archimede_2009_2livello__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Semifinale B — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_semifinale_b__Q07
 parent: src_cesenatico_2013_semifinale_b
 competition: Gara a Squadre Cesenatico 2013 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma aree di 4027 triangoli (telescopica)*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 6974
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary areas of 4027 triangles (telescopic) *
+
+> My kingdom for a pedestrian Can I join the game too? Root asked the Red Queen. Sure, my dear, we just need a white pedal. Team competition 2013  Semifinals A  Problem tests  1/3
+> 
+> Two-thirds Team Competition 2013 Semifinal A Problem Text But I have to make sure you can read, write and count. I have 2013 triangles here, base b1, b2,..., b2013 and heights h1, h2,..., h2013, such that bn+1 = bn −4hn for every n between 1 and 2012 (and of course bn > 4hn for these n values). The 2013th triangle has height h2013 = 7 and area 14. In addition, the White Queen, on the other side of the chessboard, has 2012 triangles of heights h1, h2,..., h2012 and bases respectively b2, b3, b4,..., b2013. No no; I can only tell you that b1 is equal to 236. . . But that's not what I care about! Can you tell me what the sum of the areas of all 4025 triangles is?
+
+**Answer:** 6974
+[[src_cesenatico_2013_semifinale_b__Q07]]

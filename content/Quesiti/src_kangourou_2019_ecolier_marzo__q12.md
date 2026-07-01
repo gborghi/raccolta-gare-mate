@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q12
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di biglie verdi da 16 biglie blu*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of green bulbs from 16 blue bulbs
+
+> Some friends have colored beads and can exchange them according to these rules: for 3 blue beads you can get a red bead, for 2 red beads you can get 5 green beads. Sara has 16 blue balls. How many green balls could he get at most? A) 5
+> 	
+> B) 10
+> 	
+> C) 13
+> 	
+> D) 15
+> 	
+> E) 20
+
+**Answer:** B
+[[src_kangourou_2019_ecolier_marzo__Q12]]

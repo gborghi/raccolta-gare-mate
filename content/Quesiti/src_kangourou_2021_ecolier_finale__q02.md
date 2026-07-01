@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - finale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q02
 parent: src_kangourou_2021_ecolier_finale
 competition: Kangourou 2021 Ecolier - finale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tra quanti giorni si allenano di nuovo insieme*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0104
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Within a few days they train together again< MSK1/>
+
+> A square floor is tiled with square tiles all of the same size. The nine tiles along the diagonals are red, the others yellow. How many yellow tiles are there?
+>
+> - **(A)** 10
+> - **(B)** 12
+> - **(C)** 14
+> - **(D)** 16
+> - **(E)** 18
+
+**Answer:** 0104
+[[src_kangourou_2021_ecolier_finale__Q02]]

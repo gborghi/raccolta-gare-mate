@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2012 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2012__Q08
 parent: src_cn_cwmo_2012
 competition: China Western Mathematical Olympiad 2012
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all primes p dividing n^(n+1)+(n+1)^n for infinitely many n*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutti i numeri primi p dividendo n^(n+1)+(n+1)^n per infiniti n*
+
+> Trova tutti i numeri primi $p$, per i quali ci sono infinitamente molti interi positivi $n$, come $p \mid n^{n+1} + (n+1)^n$. (Possibile da Chen Yonggao)
+
+[[src_cn_cwmo_2012__Q08]]

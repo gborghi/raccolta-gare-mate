@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q09
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto a*b con poligoni regolari aggiunti e angolo minimo*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0444
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Product a*b with added regular polygons and minimum angle*
+
+> At the World Perimeter Bourbakossa has finally managed to extract the World Perimeter Map from the π-rat Sao Feng and is studying it comfortably on his ship. By rotating and moving the various moving parts of the Map, Bourbakossa makes a regular hexagon appear. He then adds all the regular pentagons he can to it externally, so that they all have a side in common with the figure above, without overlapping; he repeats the procedure on the pentagons by appearing all the possible squares, and on the squares by adding all the possible equilateral triangles, always so that there are no overlapping with what has already been built. Both the number of regular polygons that make up the final figure and b the degree measure of the smallest non-zero angle that is formed between any two sides with a common vertex. How much is ab worth?
+
+**Answer:** 0444
+[[src_gas_2010_finale__Q09]]

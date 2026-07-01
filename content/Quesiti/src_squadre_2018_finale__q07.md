@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q07
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi X senza zero per cui Y=X^2 vale letto al contrario*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0055
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interies X without zero for which Y=X^2 is read reverse*
+
+> Opportunities for intergalactic peace [⋆⋆] The inhabitants of the Otto Persei system have a habit of writing numbers in the opposite direction to those of the solar system, that is, reading them from right to left instead of from left to right. This is the source of many misunderstandings, also because of their bellicose nature, but occasionally it happens that both we and they agree on a statement of the type  the number Y is the square of the number X (each reading the numbers in his own way), for example for X = 12,Y = 144. For how many positive integers X that do not contain the digit zero do the two civilizations agree?
+
+**Answer:** 0055
+[[src_squadre_2018_finale__Q07]]

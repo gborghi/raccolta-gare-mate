@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 1) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g1__Q06
 parent: src_bocconi_finaleint_2009_g1
 competition: >-
@@ -41,6 +42,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Collocare 5,6,7,9 sui vertici liberi della stella (con il 3 fissato) cosi che le cinque somme sui segmenti siano cinque numeri consecutivi.*
 
@@ -55,3 +58,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2 soluzioni (es. con 3 in alto: 5 e 6 in alto ai lati, 7 e 9 in basso); le cinque somme sono cinque numeri consecutivi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Place 5,6,7,9 on the free vertices of the star (with 3 fixed) so that the five sums on the segments are five consecutive numbers.
+
+> 6 - THE STAR (coefficient 6) Place the numbers 5, 6, 7 and 9 on the four vertices of the star other than the one where the 3 is already placed (see figure). For each of the five segments, the sum of the two numbers at its ends is calculated. The five numbers thus obtained must be five consecutive numbers.
+
+![[src_bocconi_finaleint_2009_g1__Q06.png]]
+
+**Answer:** 2 soluzioni (es. con 3 in alto: 5 e 6 in alto ai lati, 7 e 9 in basso); le cinque somme sono cinque numeri consecutivi
+[[src_bocconi_finaleint_2009_g1__Q06]]

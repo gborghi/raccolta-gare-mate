@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2022__Q03
 parent: src_cesenatico_2022
 competition: Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *chi prende la fetta piu grande*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** il 100-esimo
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TXGU5iDuDzmKc7nZ8Xbc329kdRiV6EwX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who takes the biggest slice
+
+> In a mathematical competition, n = 10 000 competitors participate. At the closing party, in succession, the first takes 1/n of the cake, the second takes 2/n of the remaining cake, the third takes 3/n of the cake that remains after the first and second have been served, and so on until the last, who takes all the remaining cake. Determine which competitor gets the biggest piece of cake.
+
+**Answer:** il 100-esimo
+[[src_cesenatico_2022__Q03]]

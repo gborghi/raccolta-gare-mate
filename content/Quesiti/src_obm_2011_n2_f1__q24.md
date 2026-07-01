@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q24
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length CQ where circle through B,A,D of parallelogram meets CD*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza CQ in cui il cerchio attraverso B,A,D del parallelo incontra CD*
+
+> Una circonferenza che attraversa i vertici $B$, $A$, $D$ del parallelo $ABCD$ incontra il segmento $CD$ a $Q$. Sapendo che $m(B\hat{A}D) = 60^\circ$ e $AD = 10$, quale è la dimensione del segmento $CQ$?
+> 
+> (A) $10$ \quad (B) $20$ \quad (C) $\dfrac{5\sqrt{3}}{2}$ \quad (D) $10\sqrt{3}$ \quad (E) $15$
+
+[[src_obm_2011_n2_f1__Q24]]

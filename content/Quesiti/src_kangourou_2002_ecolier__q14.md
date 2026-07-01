@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_ecolier__Q14
 parent: src_kangourou_2002_ecolier
 competition: Kangourou 2002 - Ecolier (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Fiammiferi per lato del rettangolo*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Flammable on the side of the rectangle*
+
+> Alexandra and Viviana have 60 matches together. Using some of those matches, Alexandra builds a triangle in which each side is made up of six
+> 
+> The Commission shall adopt implementing acts in accordance with the opinion of the European Parliament. This item is not intended to be used. Four matches lined up. Using all the remaining matches, Viviana builds a rectangle in which two sides are still each made up of 6 aligned matches. How many aligned matches is each made of the other sides of the rectangle?
+>  
+> A. 30 B. 18
+>  
+> C. 15 D. 12
+>  
+> E. 9
+
+**Answer:** C
+[[src_kangourou_2002_ecolier__Q14]]

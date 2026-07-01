@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2023 - Gara Biennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_biennio__Q02
 parent: src_archimede_2023_biennio
 competition: Giochi di Archimede 2023 - Gara Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di 3 cifre multipli di 4 con cifre 1,2,5,8*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cdaCakhnUhZtz4LlgOmVvJJRpalObqKb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three-digit numbers multiplied by four with digits 1,2,5,8*
+
+> How many 3-digit numbers are multiples of 4 and you can write without using any other digits other than 1, 2, 5, 8?
+>
+> - **(A)** 16
+> - **(B)** 18
+> - **(C)** 12
+> - **(D)** 10
+> - **(E)** 14
+
+**Answer:** A
+[[src_archimede_2023_biennio__Q02]]

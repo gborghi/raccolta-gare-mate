@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f1__Q15
 parent: src_obm_2001_n3_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of integers 1 to 999 in which digit 1 appears exactly twice*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di numeri interi da 1 a 999 in cui la cifra 1 appare esattamente due volte*
+
+> Tutti i numeri da 1 a 999 in cui il numero 1 appare esattamente 2 volte (come 11, 121, 411, ecc.) sono scritti. La somma di questi numeri è:
+> 
+> **A)** 6882 $\quad$ **B)** 5994 $\quad$ **C)** 4668 $\quad$ **D)** 7224 $\quad$ **E)** 3448
+
+**Risposta:** A
+[[src_obm_2001_n3_f1__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f2__Q01
 parent: src_obm_2002_n3_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find 4-digit number from exactly one true clue*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gF94S0aX4v_2i-OEAFyuTxXKFKl8xKDl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova un numero a 4 cifre da un solo indizio vero*
+
+> Arnaldo pensò a un numero a quattro cifre e sfidò Bernardo a scoprire quale fosse. Per aiutarlo, ha dato a Bernardo i seguenti tre indizi, esattamente uno dei quali è vero:
+> 
+> - Indizio 1: il numero e' un cubo perfetto. - Indizio 2: Il numero è il numero a quattro cifre più piccolo che ha esattamente quattro divisori positivi. - Indice 3: Il numero è un multiple di < MSK0/>.
+> 
+> Qual e' il numero che Arnaldo ha pensato?
+
+[[src_obm_2002_n3_f2__Q01]]

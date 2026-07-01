@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2024 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2024__Q20
 parent: src_smc_2024
 competition: Senior Mathematical Challenge 2024
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum value of y given 1/x + 1/y = 1/20 with x, y positive integers*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valore massimo di y dato 1/x + 1/y = 1/20 con x, y integri positivi*
+
+> $x$ e $y$ siano integri positivi come $\frac{1}{x} + \frac{1}{y} = \frac{1}{20}$. Qual è il valore massimo possibile di $y$?
+>
+> - **(A)** $40$
+> - **(B)** $60$
+> - **(C)** $240$
+> - **(D)** $420$
+> - **(E)** $480$
+
+**Risposta:** D
+[[src_smc_2024__Q20]]

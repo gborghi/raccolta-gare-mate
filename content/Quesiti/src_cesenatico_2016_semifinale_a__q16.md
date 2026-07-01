@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_semifinale_a__Q16
 parent: src_cesenatico_2016_semifinale_a
 competition: Gara a Squadre Cesenatico 2016 - Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di -1^3-2^3+3^3+4^3-...+16^3 (segni alternati)*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4456
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Value of -1^3-2^3+3^3+4^3-...+16^3 (alternate signs) < MSK1/>
+
+> After many years, the computer built by the Mathrateans was able to calculate the answer to the Question (whatever it is). It is equal to the quantity −13 −23 +33 +43 −··+153 +163, where the signs in front of the cubes are alternately two less and two more. Unfortunately, it was destroyed before the last step, which is to calculate the value of this sum, was completed. Can you complete this calculation?
+> 
+> U XVII National Team Semifinal Competition A  Solution  6 May 2016 Dont Panic! Nr. The problem
+
+**Answer:** 4456
+[[src_cesenatico_2016_semifinale_a__Q16]]

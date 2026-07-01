@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1988-89 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1988-89_round1__Q05
 parent: src_bmo_1988-89_round1
 competition: British Mathematical Olympiad 1988-89 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove sin A + sin B + sin C > 2 for acute triangle*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtANadUPYkflJ9hrInluoFZeqymzrG0D/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove sin A + sin B + sin C > 2 per il triangolo acuto*
+
+> Nessun angolo di un triangolo $ABC$ supera $90^\circ$. Provare che < MSK0/>
+
+[[src_bmo_1988-89_round1__Q05]]

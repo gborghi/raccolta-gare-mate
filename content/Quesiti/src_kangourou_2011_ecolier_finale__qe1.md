@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Finale Ecolier (Mirabilandia) — Quesito E1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier_finale__QE1
 parent: src_kangourou_2011_ecolier_finale
 competition: Kangourou 2011 Finale Ecolier (Mirabilandia)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tutte le ore possibili se orologio scambia 0 e 8 mostrando 20.08*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 20.00, 20.08
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_PB03afvO4l0fSH5c-T6VZlHwPWDnEt1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*All hours possible if the clock changes 0 and 8 showing 20.08*
+
+> Carlo's digital watch is flawed: sometimes, but not always, instead of the figure $0$ it shows the figure $8$ and vice versa. If Carlo reads the MSK2 clock, what time could it actually be? Write down as many hours as you can.
+
+**Answer:** 20.00, 20.08
+[[src_kangourou_2011_ecolier_finale__QE1]]

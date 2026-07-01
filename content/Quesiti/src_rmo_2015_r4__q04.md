@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 4 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r4__Q04
 parent: src_rmo_2015_r4
 competition: Regional Mathematical Olympiad 2015
@@ -36,6 +37,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to choose 3 of 40 objects on circle, no two adjacent or diametrically opposite*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x0axIPaHu87ZTGOGDG8_dBEUX9gWmh5k/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i modi per scegliere 3 di 40 oggetti su un cerchio, non due adiacenti o diametralmente opposti*
+
+> Supponiamo che 40 oggetti siano posizionati lungo un cerchio a distanze uguali. In quanti modi si possono scegliere tre oggetti tra di loro in modo che nessuno dei tre oggetti scelti sia adiacente o diametralmente opposto?
+
+[[src_rmo_2015_r4__Q04]]

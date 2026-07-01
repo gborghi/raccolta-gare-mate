@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2008 — Quesito
   16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2008__Q16
 parent: src_bocconi_finalenaz_2008
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2008
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza stradale tra DO e SI date velocita diverse su tre tratti e i tempi totali di andata e ritorno.*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 273 km
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance between DO and SI speed given different on three tracks and total round trip times.*
+
+> Nando lives in a fantastic country, where mountains and valleys are named after musical notes! When driving from DO to SI, it goes down from DO to MI at 72 Km/h; goes from MI to SOL at 63 Km/h and goes up from SOL to SI at 56 Km/h. It'll take four hours. On the return, when it goes from SI to DO, Nando goes down from SI to SOL at 72 Km/h, goes from SOL to MI at 63 Km/h and goes up from MI to DO at 56 Km/h. All in all, it takes 4 hours and 40 minutes to get back. What is the road distance in kilometres between DO and SI?
+
+**Answer:** 273 km
+[[src_bocconi_finalenaz_2008__Q16]]

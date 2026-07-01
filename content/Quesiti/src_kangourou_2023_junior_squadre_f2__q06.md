@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Junior Finale 2 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_squadre_f2__Q06
 parent: src_kangourou_2023_junior_squadre_f2
 competition: Kangourou Squadre 2023 Junior Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato più lungo DC o ED nel pentagono retto*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0045
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Longest side DC or ED in the rectangle*
+
+> The perimeter of an ABCDE pentagon measures 4,172 and all sides have full lengths. The sides AE and BC are 2,023 long and the angles in A, B and D are straight. What is the length of the longest between the two sides DC and ED?
+
+**Answer:** 0045
+[[src_kangourou_2023_junior_squadre_f2__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2009 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2009__Q08
 parent: src_cn_cmc_2009
 competition: China Mathematical Competition 2009
@@ -30,6 +31,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Expected waiting time for traveler choosing between two trains*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 27
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tempo di attesa previsto per il viaggiatore che sceglie tra due treni*
+
+> Ogni giorno in una stazione arriva solo un treno tra le 8:10 e le 10. I tempi di arrivo e le loro probabilità per i due treni (treno A e treno B) sono riportati nella tabella seguente:
+> 
+> Orario di arrivo Treno A Treno B -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D -- D
+> 
+> Supponiamo che gli eventi dei due treni siano indipendenti l'uno dall'altro. Ora, un viaggiatore arriva alla stazione alle 8:20. Allora l'aspettativa matematica del suo tempo di attesa è \_\_\_\_ (rondo al minuto più vicino).
+
+**Risposta:** 27
+[[src_cn_cmc_2009__Q08]]

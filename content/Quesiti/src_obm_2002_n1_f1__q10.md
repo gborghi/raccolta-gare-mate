@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f1__Q10
 parent: src_obm_2002_n1_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fraction of road travelled when turning back for a magazine*
 
@@ -48,3 +51,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NviJwQmbmihSaakvq3DJSWhViadj6Z5P/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Fraczione di strada percorsa al ritorno per una rivista< MSK1/>
+
+> Marcelo se n'è andato esattamente minuti prima di andare a scuola. Mentre andava, si rese conto di aver dimenticato a casa la rivista Eureka! che stava per mostrare a un amico, e ha deciso di tornare; in questo modo sarebbe arrivato $20$ minuti dopo l'inizio. Ma, invece di tornare, ha continuato a camminare, arrivando a scuola $10$ minuti in ritardo. Quale frazione della strada già percorsa corrisponde a questo punto?
+> 
+> (A) $\dfrac{2}{5}$ (B) $\dfrac{9}{20}$ (C) $\dfrac{1}{2}$ (D) $\dfrac{2}{3}$ (E) $\dfrac{9}{10}$
+
+**Risposta:** B
+[[src_obm_2002_n1_f1__Q10]]

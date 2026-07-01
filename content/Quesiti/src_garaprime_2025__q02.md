@@ -1,6 +1,7 @@
 ---
 title: X Gara Nazionale Classi Prime 2025 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2025__Q02
 parent: src_garaprime_2025
 competition: X Gara Nazionale Classi Prime 2025
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo monete nel forziere fermandosi su totale pari*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QvOWE3paSZNv1I8ZGuUcpECJg-N3RufJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most coins in the fortress stopping at total par< MSK1/>
+
+> You have 100 bags: the first one contains a gold coin, the second one contains two, and so on, up to the penny that contains 100. You can fill your pocket by emptying, one by one, a few bags in the pocket, but when the number of coins in your treasure is equal and zero you will have to stop. How many coins, at most, can you put in the fortress?
+>
+> - **(A)** 5050
+> - **(B)** 3080
+> - **(C)** 2746
+> - **(D)** 2649
+> - **(E)** 2048
+
+**Answer:** C
+[[src_garaprime_2025__Q02]]

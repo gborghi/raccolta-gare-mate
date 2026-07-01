@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2021_squadre__Q01
 parent: src_gsm_2021_squadre
 competition: Gara a Squadre GSM (locale Genova) 2021
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri posti con esattamente 29 multipli, non primi*
 
@@ -52,3 +55,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0008
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers placed with exactly 29 multiples, not prime*
+
+> At the Vitrifrigo Arena Silvia Sconza Giacomo (Entering the Vitrifrigo Arena, to attend the concert together with Filippo) The palace has 10323 seats, numbered from 1. Filippo (Looking at his seat number written on the ticket) There are exactly 29 seats numbered multiple my seat number. James excluding yours? Philip No, including mine. And my seat number isn't even prime. What are the possible numbers of Philip's seat?
+
+**Answer:** 0008
+[[src_gsm_2021_squadre__Q01]]

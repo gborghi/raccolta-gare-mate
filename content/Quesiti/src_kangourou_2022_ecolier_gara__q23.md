@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier gara individuale — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q23
 parent: src_kangourou_2022_ecolier_gara
 competition: Kangourou 2022 Ecolier gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Forma assunta dal bruco arrotolato*
 
@@ -42,3 +45,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Form taken from the rolling stock< MSK1/>
+
+![[src_kangourou_2022_ecolier_gara__prob23.png]]
+
+> The cockroach shown in the picture rolled over to sleep. Which of the following may have taken form? A)
+>  
+> C)
+
+**Answer:** E
+[[src_kangourou_2022_ecolier_gara__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2019 - 2° livello — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_2livello__Q15
 parent: src_archimede_2019_2livello
 competition: Archimede Gara di Febbraio 2019 - 2° livello
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lampadine in fila, mosse con rapporto primo*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Lamp lamps in a row, moved with first ratio < MSK1/>
+
+> There are 4037 lamps arranged in rows and numbered from 1 to 4037. Initially, each light bulb can be switched on or off. One move consists of choosing two bulbs numbered a, b such that a/b or b/a is a prime number and changing the status of both. Demonstrate that in a finite number of moves you can make the bulbs from 1 to 2019 all on whatever the initial configuration is.
+
+[[src_archimede_2019_2livello__Q15]]

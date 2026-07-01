@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student semifinale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q12
 parent: src_kangourou_2024_student_semifinale
 competition: Kangourou 2024 Student semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo angoli < 170 gradi in poligono convesso*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 35
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum angles < 170 degrees in the convex polygon*
+
+> (Points 5) How many angles less than 170 degrees can a convex polygon have? The answer is 0035. The solution. The sum of the additions to 180 of the measurements in degrees of angles of a convex polygon shall be 360. On the other hand, on the basis of this consideration, it is clear that there is a polygon of 36 sides with 35 angles measuring less than 170 degrees.
+
+**Answer:** 35
+[[src_kangourou_2024_student_semifinale__Q12]]

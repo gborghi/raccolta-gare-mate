@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q19
 parent: src_kangourou_2008_cadet_marzo
 competition: Kangourou 2008 - Cadet (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora di arrivo dell escursione (proporzioni)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Time of arrival of the excursion (proportions) < MSK1/>
+
+> Lucy and Charles go on a mountain trip. When they leave, they read on a sign that their destination is 2 hours and 55 minutes away. They leave the village at 12 o'clock, and at exactly 1 p.m., they make their first stop and read on another sign that their destination is only 1 hour and 15 minutes away. After a quarter of an hour's pause, they continue the journey at the same speed and without stopping. What time do they arrive at their destination? (a) at 14:30 b) at 14:00 c) at 14:55 d) at 15:10 e) at 15:20
+
+**Answer:** B
+[[src_kangourou_2008_cadet_marzo__Q19]]

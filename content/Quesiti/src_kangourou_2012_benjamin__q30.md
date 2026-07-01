@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q30
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cosa si deduce dal dialogo sui due interi consecutivi*
 
@@ -73,3 +76,15 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What follows from the dialogue on two consecutive integers*
+
+> I have communicated, one to Adriana and one to Bruno, two consecutive positive integers (e.g. 6 and 7). Each of them knows only one of the numbers, but they know that the two numbers are consecutive. The following dialogue took place between them in sequence. Adriana to Bruno: I don't know your number. Bruno to Adriana I don't know your number. Adriana to Bruno: Now I know your number. So A) Adriana's number is 1. B) Adriana's number is 2. C) Adriana's number is 3. D) Adriana's number is 4. E) Adriana is lying. 4 2 1 1 0 3 3 2 1 2 1 3 2 2 3 1 3 3 0 0 1 3 1 1 2 1 2 2 2 1 2 2 0 3 3 1 0 3 1 3
+> 
+> I'm not going to lie.
+
+[[src_kangourou_2012_benjamin__Q30]]

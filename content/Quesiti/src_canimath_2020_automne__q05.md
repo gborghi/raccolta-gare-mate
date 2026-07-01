@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2020 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_automne__Q05
 parent: src_canimath_2020_automne
 competition: Coupe Animath Automne 2020
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove triangles ADE and BCE have equal area in a trapezoid with E the diagonal intersection*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che i triangoli ADE e BCE hanno superficie uguale in un trapezoide con E l'intersezione diagonale*
+
+> Il $ABCD$ deve essere un trapezoide (non auto-crosso) tale che le linee $(AB)$ e $(CD)$ siano parallele. Scriviamo $E$ per il punto di intersezione delle diagonali $[AC]$ e $[BD]$. Indicare che l'area del triangolo $ADE$ è uguale all'area del triangolo $BCE$.
+
+[[src_canimath_2020_automne__Q05]]

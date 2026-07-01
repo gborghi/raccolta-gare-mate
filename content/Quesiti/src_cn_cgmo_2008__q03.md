@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2008 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2008__Q03
 parent: src_cn_cgmo_2008
 competition: China Girls' Mathematical Olympiad 2008
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest a>1 for triangle area ratios inside a square*
 
@@ -49,3 +52,16 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il più piccolo a>1 per i rapporti di area triangolare all'interno di un quadrato*
+
+> Trova la costante più piccola $a > 1$, in modo che per qualsiasi punto $P$ all'interno di un quadrato $ABCD$ esistano due triangoli tra $\triangle PAB$, $\triangle PBC$, $\triangle PCD$, $\triangle PDA$ con il rapporto tra le loro aree appartenenti all'intervallo $[a^{-1}, a]$. (Posato da Li Weigu)
+
+![[src_cn_cgmo_2008__Q03.png]]
+
+**Risposta:** $\dfrac{1+\sqrt{5}}{2}$
+[[src_cn_cgmo_2008__Q03]]

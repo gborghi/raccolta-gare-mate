@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Finale nazionale Cervia — Quesito B4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_finale__QB4
 parent: src_kangourou_2018_benjamin_finale
 competition: Kangourou 2018 Benjamin - Finale nazionale Cervia
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rette per due vertici del cubo senza spigoli*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 16
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WOGwM7hMulRZ-gZ3Bqwg0wTpNtCoA93i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rights for two vertices of the cube without pins*
+
+> How many straight lines pass through two of the vertices of a cube, but do not contain any spikes of the cube?
+
+**Answer:** 16
+[[src_kangourou_2018_benjamin_finale__QB4]]

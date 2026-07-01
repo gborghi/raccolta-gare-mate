@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2009 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2009__Q09
 parent: src_cn_cmc_2009
 competition: China Mathematical Competition 2009
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integer-coefficient lines meeting ellipse and hyperbola with AC=BD*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le linee a coefficiente interi che incontrano ellipse e iperbole con AC=BD*
+
+> Supponiamo che la linea $l$: $y = -kx + m$ (dove $k$ e $m$ sono numeri interi) intercetta l'ellisse $\dfrac{x^2}{4} + \dfrac{y^2}{12} = 1$ a due punti diversi $A$, $B$, e intercetta l'iperbola $\dfrac{x^2}{4} - \dfrac{y^2}{12} = 1$ a due punti diversi $C$, $D$. Se $\overrightarrow{AC} = \overrightarrow{BD}$, quante diverse possibilità ci sono per la riga $l$? Spiega il motivo.
+
+**Risposta:** 9
+[[src_cn_cmc_2009__Q09]]

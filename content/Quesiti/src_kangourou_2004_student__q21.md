@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q21
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale Partito dei Broccoli*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+% of broccoli < MSK1/>
+
+> There's an election in Ortholand. Every voter in the Broccoli Party has already eaten broccoli, while 90% of voters in the other parties have never eaten broccoli. What percentage did the Broccoli Party get, if exactly 46% of voters have already eaten broccoli? A) 40% B) 41%        C) 43% D) 45%       E) 46%
+
+**Answer:** A
+[[src_kangourou_2004_student__Q21]]

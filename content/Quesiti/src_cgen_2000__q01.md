@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2000 — Matematica — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2000__Q01
 parent: src_cgen_2000
 competition: Concours Général des Lycées 2000 — Matematica
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distribute b white and n black balls into two urns to maximize the probability of drawing a white ball*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_wcXSU872UGoX0DYiQuqq6oLuR1WtHy0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Distribuire le palline bianche e nere in due urne per massimizzare la probabilità di disegnare una pallina bianca
+
+> Abbiamo $b$ palle bianche e $n$ palle nere -- almeno una di ciascuna -- che distribuiamo tra due urne in modo che nessuna di esse sia vuota; indichiamo con $s$ il numero di palle nella prima urna, e con $r$ il numero di quelle palle bianche. L'evento considerato è il disegno casuale di una palla da una delle due urne, mentre l'urna stessa viene scelta casuale; lo scopo dell'esercizio è quello di determinare le distribuzioni che rendono la probabilità $p$ di disegnare una palla bianca massima.
+> 
+> 1. Esprimere $p$ come funzione di $b$, $n$, $r$ e $s$. 2. In questa domanda, il valore di $s$ è fissato; come si deve scegliere $r$ per aumentare $p$? 3. Risolvi l'esercizio. 4. Quali generalizzazioni proponi aumentando il numero dei colori e delle urne?
+
+[[src_cgen_2000__Q01]]

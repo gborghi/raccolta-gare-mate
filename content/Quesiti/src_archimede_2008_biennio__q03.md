@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Biennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_biennio__Q03
 parent: src_archimede_2008_biennio
 competition: Giochi di Archimede 2008 - Biennio
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo birilli buttati con vincoli proporzionali*
 
@@ -51,3 +54,20 @@ tags:
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum amount of beads thrown with proportional constraints< MSK1/>
+
+> Alberto, Barbara and Clara are playing in a large square where there are 2008 birdies. Alberto throws down the triple of the beers thrown down by Barbara, who in turn throws down the double of the beers thrown down by Clara. How many beers did Alberto throw down?
+>
+> - **(A)** 1321,
+> - **(B)** 1338,
+> - **(C)** 1342,
+> - **(D)** 1353,
+> - **(E)** 1362.
+
+**Answer:** B
+[[src_archimede_2008_biennio__Q03]]

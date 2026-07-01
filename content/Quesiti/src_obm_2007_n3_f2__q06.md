@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f2__Q06
 parent: src_obm_2007_n3_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive-integer pairs (x,y) satisfying x^2 - xy + y^2 = 2x + 2y*
 
@@ -51,3 +54,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zX7z5wzrS24GDIg6SjMeYYN4pu7op9WA/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di integri positivi (x,y) che soddisfano x^2 - xy + y^2 = 2x + 2y*
+
+> Determinare tutte le coppie $(x, y)$ di integri positivi che soddisfano $x^2 + y^2 - xy - 2x - 2y = 0$, equivalentemente $x^2 - xy + y^2 = 2x + 2y$.
+
+**Risposta:** $(x,y) \in \{(2,4),(4,2),(4,4)\}$
+[[src_obm_2007_n3_f2__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2004 - Gara Triennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2004_triennio__Q12
 parent: src_archimede_2004_triennio
 competition: Giochi di Archimede 2004 - Gara Triennio
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *contenenti numeri da 1 a 2005*
 
@@ -38,3 +41,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*containing numbers from 1 to 2005*
+
+> Twenty soft square pillows are stacked on top of each other. Each pillow weighs 500 g and initially has a thickness of 80 cm. In the pile, however, the thickness is reduced by about 2 cm for every pound of weight above it (1 cm for every half pound). How high is the pillow pile?
+> 
+> (A) 220 cm, (B) 410 cm, (C) 490 cm, (D) 581 cm, (E) there are no data to answer.
+
+[[src_archimede_2004_triennio__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q16
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro esagono intersezione di due triangoli*
 
@@ -58,3 +61,28 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Exagonal perimeter intersection of two triangles*
+
+![[src_kangourou_2006_junior_marzo__prob16.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  % Two overlapping equilateral triangles (Star of David), each with parallel sides
+  % Triangle 1 pointing up: top (0,1.155), bottom-left (-1,-0.577), bottom-right (1,-0.577)
+  \draw (0,1.155) -- (-1,-0.577) -- (1,-0.577) -- cycle;
+  % Triangle 2 pointing down: bottom (0,-1.155), top-left (-1,0.577), top-right (1,0.577)
+  \draw (0,-1.155) -- (-1,0.577) -- (1,0.577) -- cycle;
+\end{tikzpicture}
+\end{document}
+```
+
+> Two equal equilateral triangles, with a perimeter of 18 meters, are partially overlapped as shown in the figure: in particular each side of one is parallel to one side of the other. How many metres does the perimeter of the hexagonal figure forming the intersection of the two triangles measure? A)                  B) 12             C) 13 D) 14              E) 15
+
+**Answer:** B
+[[src_kangourou_2006_junior_marzo__Q16]]

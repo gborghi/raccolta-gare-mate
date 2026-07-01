@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2010 — Quesito
   3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2010__Q03
 parent: src_bocconi_finalenaz_2010
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2010
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri dispari leggibili nella sequenza di cifre 1234567*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Extraordinary numbers readable in the sequence of numbers 1234567*
+
+> In the sequence of numbers 1234567, twelve even numbers can be read: 2, 4, 6, 12, 14, 56, 234, 456, 1234, 3456, 23456, 123456. As you can see, you can also read numbers with multiple digits, but these should be considered in the same order as they appear in the initial sequence and without "jumping" in the middle of any.
+> 
+> Following the same rules, how many odd numbers can you read?
+
+**Answer:** 16
+[[src_bocconi_finalenaz_2010__Q03]]

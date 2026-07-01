@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q11
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale unica affermazione su n e necessariamente vera*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Any single statement on n is necessarily true< MSK1/>
+
+> With respect to a certain positive integer n which we do not know, we know that each and only one of the statements listed is true. Which one is it? A) n is divisible by 3.
+> 	
+> B) n is divisible by 6. C) n is odd. D) n is equal to 2.
+> 	
+> E) n is a prime number.
+
+**Answer:** C
+[[src_kangourou_2024_student__Q11]]

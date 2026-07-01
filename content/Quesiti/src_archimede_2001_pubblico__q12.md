@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_pubblico__Q12
 parent: src_archimede_2001_pubblico
 competition: Archimede 2001 - Gara del Pubblico (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero minimo per fare 1000*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0019
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>minimum number to make 1000< MSK1/>
+
+> Another ancient people that existed before the birth of the confederation represented each number by a sequence of two symbols: $|$ and $\uparrow$. The $|$ symbol at the end of a sequence meant adding a unit, while the $\uparrow$ symbol meant multiplying by $7$. For example, the $|||\uparrow|$ sequence represented the $29$ number. What is the minimum number of symbols required to represent the number $1000$?
+
+**Answer:** 0019
+[[src_archimede_2001_pubblico__Q12]]

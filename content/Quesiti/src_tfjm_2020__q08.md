@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2020__Q08
 parent: src_tfjm_2020
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020
@@ -38,6 +39,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Self-replicating robots on modular planet galaxies and improper distributions*
 
@@ -79,3 +82,35 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J8zHKpO1Q-BosuE3UiWvjA4Arny60DJ4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Robot auto-replicanti su galassie planetarie modulari e distribuzioni improprie*
+
+> Nella galassia TF-J-1000, la tecnologia è molto più avanzata della nostra: sono stati sviluppati robot auto-replicanti, che si propagano da pianeta a pianeta.
+> 
+> Una galassia è composta da un insieme di pianeti. Ognuno può essere raggiunto da alcuni altri e, ogni secolo, ogni robot produce un robot per ogni pianeta accessibile dal suo pianeta, poi manda via i nuovi robot e si autodistruisce.
+> 
+> Un esempio dell'evoluzione del numero di robot in una galassia è dato nella Figura 16. In questo esempio il pianeta in alto a destra è accessibile dal pianeta in alto a sinistra, ma non viceversa.
+> 
+> Supponiamo che la galassia sia composta da un pianeta per ogni numero intero di MSK0/, e che ogni pianeta sia accessibile dai suoi due vicini. All'inizio c'è un solo robot a $0$. Quanti robot sono attivi sul pianeta MSK2/> al secolo MSK3/>?
+> 
+> **2.** Rivedi la domanda precedente se la galassia ha un pianeta per ogni elemento di $\mathbb{Z}^2$, con ogni pianeta accessibile dai suoi quattro vicini.
+> 
+> **3.** Rivedi la domanda precedente se la galassia ha un pianeta per ogni elemento di $[1, p]$, e ogni pianeta è accessibile dai suoi due vicini. Il robot iniziale potrebbe essere su qualsiasi pianeta. Noi ci limitiamo ai casi $p = 3, 4, 5$ e infine $6$.
+> 
+> Let < MSK0/>. Ora supponiamo che, se almeno $g$ robot sono sullo stesso pianeta, scoppierà una guerra e $g$ robot saranno distrutti. Più in generale, per qualsiasi $k$, se ci sono tra $kg$ e $(k+1)g$ robot, $kg$ sono distrutti, in modo che solo il resto della divisione euclidica del numero di robot da $g$ sopravvive e può auto-replicarsi. Supponiamo anche che la galassia contenga solo finitamente molti pianeti.
+> 
+> Si dice che una galassia sia **inappropriata** quando, qualunque sia la distribuzione iniziale dei robot, tutti alla fine scompariranno.
+> 
+> **4. ** Solo in questa domanda, supponiamo $g = 2$. Let < MSK1/>. a) Supponiamo che la galassia abbia un pianeta per ogni elemento di $[0, p-1]$, e che ogni pianeta sia accessibile dai suoi due vicini: qui $0$ e $p-1$ sono vicini, come nella Figura 17. Per quali integri $p$ la galassia è inappropriata? b) Rivisitare la questione se la galassia ha un pianeta per ogni elemento di $[0, p-1]^2$, e ogni pianeta è accessibile dai suoi quattro vicini: allo stesso modo, i pianeti $(0,k)$ e $(p-1,k)$ sono considerati vicini, così come i pianeti $(k,0)$ e $(k, p-1)$, come illustrato nella Figura 18. c) Rivedi la domanda per altre galassie di tua scelta.
+> 
+> < MSK8/>5. < MSK9/> Lasciate < MSK0/>. a) Propone esempi di galassie improprie. Cercheremo di trovare galassie con un gran numero di collegamenti. b) Esiste una galassia tale che, qualunque sia la distribuzione iniziale con $1$ e $g - 1$ robot per pianeta, siamo garantiti che un giorno un pianeta contiene esattamente $1$ robot? c) Esiste una galassia tale che sappiamo che esiste un certo pianeta che, per ogni $0 \le r \le g - 1$, un giorno contiene esattamente $r$ robot? d) Esiste una galassia se si sostituisce l'ipotesi sulla distribuzione iniziale con il fatto che almeno un pianeta contiene tra $1$ e $g - 1$ robot?
+> 
+> < MSK0/>6.< MSK1/> Proporre e studiare altre direzioni di ricerca.
+
+![[src_tfjm_2020__Q08.png]]
+
+[[src_tfjm_2020__Q08]]

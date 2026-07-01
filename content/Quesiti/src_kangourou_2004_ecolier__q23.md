@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Ecolier (18 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_ecolier__Q23
 parent: src_kangourou_2004_ecolier
 competition: Kangourou 2004 Ecolier (18 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale punteggio non puo avere la squadra*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>What score can't have the team < MSK1/>
+
+> After three football championship games, one team scored three goals and suffered one. In the championship, three points are awarded for each win, one point for each draw and zero points for each defeat. What score, among those listed, can't that team have in the standings today? A) 7 B) 6 C) 5 D) 4 E) 3
+
+**Answer:** E
+[[src_kangourou_2004_ecolier__Q23]]

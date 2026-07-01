@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Junior Finale 1 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_squadre__Q07
 parent: src_kangourou_2024_junior_squadre
 competition: Kangourou Squadre 2024 Junior Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parte intera valore assoluto minima soluzione f^4*
 
@@ -45,3 +48,17 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0033
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19twDyCIYYYLPZm2ICyi_V91n9zEgBbys/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum solution f^4 < MSK1/>
+
+> The whole part for every real number x put f(x) = x2 + 64x + 992. Whether α is the least of the solutions of the equation f(f(f(x)))) = 0: determine the whole part of the absolute value of α.
+>  
+>  
+> A
+
+**Answer:** 0033
+[[src_kangourou_2024_junior_squadre__Q07]]

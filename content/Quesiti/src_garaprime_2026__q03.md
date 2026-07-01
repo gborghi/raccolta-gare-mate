@@ -1,6 +1,7 @@
 ---
 title: XI Gara Nazionale Classi Prime 2026 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2026__Q03
 parent: src_garaprime_2026
 competition: XI Gara Nazionale Classi Prime 2026
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lati del poligono con angolo interno 11 volte l'esterno*
 
@@ -40,3 +43,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1F8eBxLs4bDWlyZJGhjIxQLaCXc18EKrk/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sides of the polygon with an inner angle 11 times the outer angle*
+
+> In a regular polygon the inner angle is eleven times the outer. How many sides does the polygon have?
+>
+> - **(A)** 11
+> - **(B)** 12
+> - **(C)** 22
+> - **(D)** 24
+> - **(E)** There is no polygon with this property.
+
+**Answer:** D
+[[src_garaprime_2026__Q03]]

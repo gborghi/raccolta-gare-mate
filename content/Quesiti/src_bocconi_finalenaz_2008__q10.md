@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2008 — Quesito
   10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2008__Q10
 parent: src_bocconi_finalenaz_2008
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2008
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Determinare le qualita degli acini della riga superiore con la regola dei triangoli (identici o tutti diversi).*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** CBACB
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* Determine the qualities of the upper row axes using the rule of triangles (identical or all different).*
+
+> The grapes of a grape cluster (represented in the figure, in the plan, in small circles) can be of three qualities: A, B or C. When three circles touch two by two, they form a small triangle (see the two examples shown in the figure). In each of these triangles, the three qualities of acin can be either identical or all different. Complete the figure by writing in particular (in order, from left to right) the letters of the upper-line ears.
+
+![[src_bocconi_finalenaz_2008__Q10.png]]
+
+**Answer:** CBACB
+[[src_bocconi_finalenaz_2008__Q10]]

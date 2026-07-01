@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1983-84 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1983-84_round1__Q01
 parent: src_bmo_1983-84_round1
 competition: British Mathematical Olympiad 1983-84 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcentres of AQR, BRP, CPQ form triangle similar to ABC*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I cerchi di AQR, BRP, CPQ formano un triangolo simile a ABC*
+
+> $P$, $Q$, $R$ sono punti arbitrari sui lati $BC$, $CA$ e $AB$ rispettivamente del triangolo $ABC$. Prova che il triangolo le cui vertici sono i centri dei cerchi $AQR$, $BRP$, $CPQ$ è simile al triangolo $ABC$.
+
+[[src_bmo_1983-84_round1__Q01]]

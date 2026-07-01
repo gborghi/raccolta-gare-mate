@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre__Q05
 parent: src_kangourou_2023_kangourou_squadre
 competition: Kangourou Squadre 2023 Kangourou Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Inserimenti SUDOKU griglia 2x3 con vincolo U*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0144
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Insertions SUDOKU 2x3 grid with U-link < MSK1/>
+
+> SUDOKU The six letters of the word SUDOKU must be inserted into the six cells of a grid 2 < MSK0/> 3 so that no row and no column host both letters U. How many different insertions are possible?
+
+**Answer:** 0144
+[[src_kangourou_2023_kangourou_squadre__Q05]]

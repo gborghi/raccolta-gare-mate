@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q21
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi n per cui palla torna al giocatore iniziale in 24 passaggi*
 
@@ -55,3 +58,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0095
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interi n for which the ball returns to the starting player in 24 steps*
+
+> The Goldbachtrotters are famous for their ability to manipulate increasingly high numbers. In their most famous number, 2n of them line up, wearing shirts that are written, from left to right, the numbers +1, +2, +3... + (n −1),+n,−n,−(n −1)... −2,−1. The first of them, the one with the number +1, throws the ball to his teammate immediately to his right. Similarly, when each player receives the ball, he passes it to the player who has a distance from him equal to his jersey number, to the right if the number is positive and to the left if it is negative. So for example, the player with the number −4 passes the ball to the player who is four places to the left of him. For how many integers n ≥1 will the ball be back in the starting player's possession after 24 passes? Competition in 3018 Teams  National Final  Problem Tests  3/3
+> 
+> The 19th National Final Team Competition  Solution  5 May 3018 olimpiadi.dm.unibo.it www.oliforum.it Nr. The problem
+
+**Answer:** 0095
+[[src_squadre_2018_finale__Q21]]

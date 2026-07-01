@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Kangourou Finale 2 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre_f2__Q13
 parent: src_kangourou_2023_kangourou_squadre_f2
 competition: Kangourou Squadre 2023 Kangourou Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di leggere BANANA nella tabella*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0084
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How to read BANANA in the table< MSK1/>
+
+![[src_kangourou_2023_kangourou_squadre_f2__prob13.png]]
+
+> BANANA How many different ways can the word BANANA be read in the table in the figure, keeping in mind that for each cell letta, the next cell must share a side with it and that the same cell can be letta multiple times?
+
+**Answer:** 0084
+[[src_kangourou_2023_kangourou_squadre_f2__Q13]]

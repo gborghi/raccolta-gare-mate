@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1981-82 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1981-82_round1__Q06
 parent: src_bmo_1981-82_round1
 competition: British Mathematical Olympiad 1981-82 — Round 1
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count binary sequences with exactly m occurrences of 01*
 
@@ -42,3 +45,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iBLrHn-nHBI8ucTONz6bQHo1BughmGgq/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta le sequenze binarie con accadezza m di 01*
+
+> Prove che il numero di sequenze $a_1 a_2 \ldots a_n$ con ciascuna delle loro $n$ termini $a_i = 0$ o $1$ e contenente esattamente $m$ eventi di $01$ è $\dbinom{n+1}{2m+1}$.
+
+[[src_bmo_1981-82_round1__Q06]]

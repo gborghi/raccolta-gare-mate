@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2017 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2017__Q14
 parent: src_smc_2017
 competition: Senior Mathematical Challenge 2017
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a diagram, all marked angles (dots) equal x degrees; find x.*
 
@@ -48,3 +51,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un diagramma, tutti gli angoli (punti) segnati sono uguali a x gradi; trovare x.*
+
+> Nel diagramma tutti gli angoli contrassegnati $\bullet$ sono uguali in dimensioni all'angolo contrassegnato $x^\circ$.
+> 
+> Qual è il valore di < MSK0/>?
+>
+> - **(A)** $100$
+> - **(B)** $105$
+> - **(C)** $110$
+> - **(D)** $115$
+> - **(E)** $120$
+
+![[src_smc_2017__Q14.png]]
+
+**Risposta:** A
+[[src_smc_2017__Q14]]

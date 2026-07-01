@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 1) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g1__Q11
 parent: src_bocconi_finaleint_2011_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso minimo bagagli signore e signora Leggeri*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 18 chilogrammi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum weight of luggage Mr and Mrs Leggeri
+
+> When a passenger flies with the airline AIR-MATHS, each kilogram of his personal luggage above a certain weight < MSK0/> is taxed. The baggage of Mr and Mrs LEGGERI weighs in all < MSK1/> kilos. LEGGERI baggage had to pay < MSK2/> in full. The baggage of Mr and Mrs PESANTI also weighs a total of < MSK3/> kilos, but the baggage of Mr and Mrs PESANTI had to pay < MSK4/>. < MSK6/>What is the minimum weight of < MSK5/> in kilograms? < MSK7/>
+
+**Answer:** 18 chilogrammi
+[[src_bocconi_finaleint_2011_g1__Q11]]

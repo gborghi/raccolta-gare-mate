@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2015 - Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_triennio__Q15
 parent: src_archimede_2015_triennio
 competition: Giochi di Archimede 2015 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza filettatura elica sulla vite cilindrica*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Helically threaded length on cylindrical screws*
+
+![[src_archimede_2015_triennio__prob15.png]]
+
+> In a 3 cm cylindrical shaped screw, the base radius is √ 30/π millimetres. A tiny insect walks on the surface of the vine, moving along the thread. Knowing that the thread makes exactly 30 turns around the screw, how many centimeters will the insect travel to move from one end of the screw to the other?
+>
+> - **(A)** 32
+> - **(B)** 30
+> - **(C)** 33
+> - **(D)** 36
+> - **(E)** 31
+
+**Answer:** C
+[[src_archimede_2015_triennio__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q12
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Averages of two classes after moving the last of class A to class B*
 
@@ -55,3 +58,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Medi di due classi dopo il passaggio dell'ultimo di classe A alla classe B*
+
+> I 61 candidati approvati in un concorso, i cui voti erano tutti diversi, sono stati suddivisi in due classi, in modo tale che, secondo una classifica ottenuta in precedenza, i 31 migliori classificati sono andati alla classe A e i 30 successivi alla classe B. Sono state calcolate le medie delle due classi del concorso. Poi, per errore, fu deciso di spostare il candidato posto ultimo nella classe A alla classe B. Allora:
+>
+> - **(A)** La media della classe A è migliorata, ma quella della classe B è peggiorata.
+> - **(B)** La media della classe A peggiorò, ma quella della classe B migliorò.
+> - **(C)** Le medie di entrambe le classi sono peggiorate.
+> - **(D)** Le medie di entrambe le classi sono migliorate.
+> - **(E)** Le medie delle due classi possono peggiorare o migliorare, a seconda dei voti dei candidati.
+
+**Risposta:** D
+[[src_obm_2000_n3_f1__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q11
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima potenza di 3 che divide 7!+8!+9!*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum power of 3 divided by 7! + 8! + 9!
+
+> The maximum power of 3 dividing the number 7! + 8! + 9! è A) 32.
+> 	
+> B) 34.
+> 	
+> C) 35. D) 36.
+> 	
+> E) a power of 3 greater than 36.
+
+**Answer:** D
+[[src_kangourou_2019_student_marzo__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q08
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Zeri finali nel prodotto dei primi 2002 primi*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Final zeroes in the product of the first half of 2002 < MSK1/>
+
+> An integer is said to be prime if it is greater than or equal to 2 and if it admits as positive integers only 1 and itself (there are infinite prime numbers). With how many zeros does the decimal representation of the product of the first prime numbers of 2002 end?
+>  
+> A. 0 B. 1 C. 10 D. 20 E. 100
+
+**Answer:** B
+[[src_kangourou_2002_junior__Q08]]

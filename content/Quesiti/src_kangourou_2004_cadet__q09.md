@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q09
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorno piu frequente nel secondo anno*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most frequent day in second year< MSK1/>
+
+> For the first of two consecutive non-bi-season years, there were more Thursdays than Tuesdays. Which of the following days of the week was more frequent in the second year? (a) Tuesdays (b) Wednesdays (c) Fridays (d) Saturdays (e) Sundays
+
+**Answer:** C
+[[src_kangourou_2004_cadet__Q09]]

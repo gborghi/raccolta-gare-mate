@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_squadre__Q12
 parent: src_kangourou_2022_ecolier_squadre
 competition: Kangourou Squadre 2022 Ecolier Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Allineamenti di 1..9 con vincoli d'ordine*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0071
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Alignments of 1.9. with order constraints*
+
+> The alignments We want to align all the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9 so that they don't all appear in this order, but that anyway 1 precedes 2, 2 precedes 3, 3 precedes 4, 4 precedes 5, 5 precedes 6 and 6 precedes 7. How many ways can we do this? Attention: 1 must be before 2 but there could be other numbers between the two; the same for 2 and 3 and so on.
+
+**Answer:** 0071
+[[src_kangourou_2022_ecolier_squadre__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_biennio_rec__Q11
 parent: src_archimede_2025_biennio_rec
 competition: Giochi di Archimede 2025 - Biennio (prova di riserva)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Estrazioni minime per coppia con somma 22*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum extractions per pair with sum of 22*
+
+> A box contains 20 sheets, numbered 1 to 20. Darius extracts a few at once. How many of them does he have to extract, at least, to make sure he finds at least one pair of numbers whose sum is 22?
+>
+> - **(A)** 9
+> - **(B)** 11
+> - **(C)** 12
+> - **(D)** 13
+> - **(E)** 10
+
+**Answer:** C
+[[src_archimede_2025_biennio_rec__Q11]]

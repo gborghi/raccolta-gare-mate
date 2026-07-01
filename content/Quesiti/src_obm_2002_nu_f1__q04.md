@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 1 —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_nu_f1__Q04
 parent: src_obm_2002_nu_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive integers m so polynomial is divisible by given polynomial*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HLUTInDZ42I9MmtTTIYbLXM9186py65T/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i numeri interi positivi m in modo che il polinomio sia divisibile da un dato polinomio*
+
+> Determinare tutti gli integri positivi $m$ per i quali il polinomio $(x+1)^m + x^m + 1$ è divisibile da $(x^2+x+1)^2$.
+
+[[src_obm_2002_nu_f1__Q04]]

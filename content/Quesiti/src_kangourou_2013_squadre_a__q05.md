@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Semifinale A — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_a__Q05
 parent: src_kangourou_2013_squadre_a
 competition: Kangourou Coppa Squadre 2013 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza dalla base del piano taglio piramide*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 44
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance from the base of the pyramid cutting plane*
+
+> Pyramid trunk You have a straight pyramid with a square base 66 centimeters high; you want to cut the pyramid with a plane parallel to its base by breaking it into a smaller pyramid and a pyramid trunk so that the volume of the pyramid trunk is 26 times that of the small pyramid. How far from the base, in centimeters, should the plane used for cutting be?
+
+**Answer:** 44
+[[src_kangourou_2013_squadre_a__Q05]]

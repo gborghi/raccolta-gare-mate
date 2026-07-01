@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q19
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo a+b+c con relazione su mcm e MCD*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0300
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum a+b+c with respect to mcm and MCD*
+
+> Cutler Bracket's cross The fraternity of noble rats gathers in a secret place called the City of Relics. To communicate their coordinates to new affiliates, coded messages are used, which can only be understood by real π-rates. Lord Bracket has intercepted one of them and a little bit later it is unsuccessful: The coordinates are three positive integers a,b,c such that none of the three is multiple of another, mcm(a,b)·mcm(b,c)·mcm(a,c) = a·b·c·MCD(a,b,c) and the value of a+b+c is the least possible. How much is a+b+c?
+> 
+> 4/4 Team competition 2010  National final  Problem texts
+
+**Answer:** 0300
+[[src_gas_2010_finale__Q19]]

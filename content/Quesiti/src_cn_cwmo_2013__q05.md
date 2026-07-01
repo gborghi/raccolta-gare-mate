@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2013 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2013__Q05
 parent: src_cn_cwmo_2013
 competition: China Western Mathematical Olympiad 2013
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers a dividing a^n - n^a by 2^n - n^2*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $a = 2$ or $a = 4$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare tutti gli integri positivi a divisione a^n - n^a per 2^n - n^2*
+
+> Trova tutti gli integri positivi $a$ in modo tale che $(2^n - n^2) \mid (a^n - n^a)$ per tutti gli integri positivi $n \geq 4$. (Posizionato da Yang Mingliang)
+
+**Risposta:** $a = 2$ or $a = 4$
+[[src_cn_cwmo_2013__Q05]]

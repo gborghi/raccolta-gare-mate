@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_2livello__Q16
 parent: src_archimede_2010_2livello
 competition: Archimede Gara 2° livello 2010 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *CBN=BAM e CM+MN=BN nel triangolo isoscele*
 
@@ -35,10 +38,10 @@ tags:
 > ESERCIZIO DIMOSTRATIVO
 > È dato un triangolo acutangolo isoscele ABC di base AC. All’interno di tale triangolo sono dati
 > un punto M, dalla parte di C rispetto all’asse di AC e tale che C c
-> MA = 2C bBA, e un punto N
+> MA = 2$\widehat{CBA}$, e un punto N
 > all’interno del segmento AM tale che B b
-> NM = C bBA.
-> – Dimostrare che C bBN = B bAM.
+> NM = $\widehat{CBA}$.
+> – Dimostrare che $\widehat{CBN}$ = $\widehat{BAM}$.
 > – Dimostrare che CM + MN = BN.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*CBN=BAM and CM+MN=BN in the isosceles triangle*
+
+![[src_archimede_2010_2livello__prob16.png]]
+
+> A triangle isosceles ABC of base AC is given. Within this triangle, a point M is given on the side of C with respect to the AC axis, such that C c MA = 2$\widehat{CBA}$, and a point N within the segment AM, such that B b NM = $\widehat{CBA}$.  Demonstrate that $\widehat{CBN}$ = $\widehat{BAM}$.  Demonstrate that CM + MN = BN.
+
+**Answer:** dimostrazione
+[[src_archimede_2010_2livello__Q16]]

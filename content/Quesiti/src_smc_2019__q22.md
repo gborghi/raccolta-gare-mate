@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q22
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find f(2019) given the functional equation (n-2019)f(n) - f(2019-n) = 2019*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca f(2019) data l'equazione funzionale (n-2019) f(n) - f(2019-n) = 2019*
+
+> Una funzione $f$ soddisfa l'equazione $(n - 2019)f(n) - f(2019 - n) = 2019$ per ogni intero $n$.
+> 
+> Qual è il valore di < MSK0/>?
+>
+> - **(A)** $0$
+> - **(B)** $1$
+> - **(C)** $2018 \times 2019$
+> - **(D)** $2019^2$
+> - **(E)** $2019 \times 2020$
+
+**Risposta:** C
+[[src_smc_2019__Q22]]

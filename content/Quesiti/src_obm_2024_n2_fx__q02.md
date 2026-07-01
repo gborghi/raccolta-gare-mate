@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_n2_fx__Q02
 parent: src_obm_2024_n2_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível 2 — Fase x
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic concyclicity result in triangle with circumscribed circles and midpoints*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IF2AhS-oyKoh7_VN0FmjTtVwiNv_ZbJT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La conciclicità ciclica si traduce in un triangolo con cerchi e punti di mezzo circoscritti*
+
+> Il $ABC$ sia un triangolo e il $E$ e il $F$ siano rispettivamente i punti medi dei lati $AC$ e $AB$. Il segmento $BC$ deve essere $D$. I cerchi circoscritti dei triangoli $BDF$ e $CDE$ si incrociano a un punto $X \neq D$. Il punto $Y$ si trova sulla linea $DX$ in modo tale che $AY$ sia parallelo a $BC$. Prova che i punti $K$, $L$, $X$ e $Y$ si trovano tutti sullo stesso cerchio, dove $K$ e $L$ sono i secondi punti di intersezione (diversi da $X$) dei circoncircoli di $BDF$ e $CDE$ con la linea $EF$.
+
+[[src_obm_2024_n2_fx__Q02]]

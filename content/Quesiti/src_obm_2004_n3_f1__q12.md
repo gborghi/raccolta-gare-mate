@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q12
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For how many positive integers m is 2004/(m^2-2) a positive integer.*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per quanti integri positivi m è 2004/(m^2-2) un intero positivo.*
+
+> Per quanti numeri interi positivi $m$ il numero $$\frac{2004}{m^2-2}$$ è un intero positivo?
+> 
+> A) uno B) due C) tre D) quattro E) più di quattro
+
+[[src_obm_2004_n3_f1__Q12]]

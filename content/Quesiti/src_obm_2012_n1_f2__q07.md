@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f2__Q07
 parent: src_obm_2012_n1_f2
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Dice game: complete table and find scores from partial info*
 
@@ -60,3 +63,27 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GopwL_0fgb7iEbs-bG1HNdfWHmDyf8B2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di disco: completa la tabella e trova i punteggi da informazioni parziali*
+
+> Ana, Beto e Carlos hanno inventato un gioco in cui ognuno di loro ruota un dado e registra il guadagno (punti positivi) o raddoppia i punti degli altri due ottenuti nel rollo, allo stesso tempo gli altri li notano come perdite (negative). Il punteggio viene rivisto dopo ogni rollo.
+> 
+> I punteggi dopo ogni rollo sono registrati per Ana, Beto e Carlos nella tabella qui sotto, in questo ordine. L'ultima riga mostra il punteggio finale di ciascuno. In ogni nuova partita, partono da zero.
+> 
+> $$\begin{array}{|c|c|c|c|}\hline & \text{Ana's score} & \text{Beto's score} & \text{Carlos's score} \\\hline \text{A rolls 5} & 10 & -5 & -5 \\\hline \text{B rolls 1} & 9 & -3 & -6 \\\hline \text{C rolls 1} & & -6 & 0 \\\hline \end{array}$$
+> 
+> a) Completa la tabella di cui sopra con i risultati di un'altra partita in cui Beto ha giocato per primo, Carlos per secondo e Ana per ultimo.
+> 
+> $$\begin{array}{|c|c|c|c|}\hline & \text{Ana's score} & \text{Beto's score} & \text{Carlos's score} \\\hline & & 6 & \\\hline & & & 5 \\\hline 5 & & & \\\hline \end{array}$$
+> 
+> b) Nella tabella laterale sono stati registrati solo i valori dei die in una partita di sei rulli. Scrivi al di sotto della tabella il punteggio finale di ciascuno.
+> 
+> $$\begin{array}{|c|c|c|}\hline \text{A rolls} & \text{B rolls} & \text{C rolls} \\\hline & 3 & \\\hline & 1 & \\\hline & & 4 \\\hline 5 & & \\\hline & & 6 \\\hline & & 4 \\\hline \end{array}$$
+> 
+> $$\text{Ana's score:} \quad \text{Beto's score:} \quad \text{Carlos's score:}$$
+
+[[src_obm_2012_n1_f2__Q07]]

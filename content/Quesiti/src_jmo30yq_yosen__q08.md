@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo30yq_yosen__Q08
 parent: src_jmo30yq_yosen
 competition: Japan Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence of 100 positive integers satisfying two conditions, find minimum a_100*
 
@@ -52,3 +55,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $2^{19} \cdot 9$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di 100 integri positivi che soddisfano due condizioni, trovare minimo a_100*
+
+> Una sequenza $a_1, a_2, \ldots, a_{100}$ di numeri interi positivi soddisfa: \begin{itemize} \item[(i)] Per tutti $2 \le k \le 100$: $a_{k-1} < a_k$. \item[(ii) Per tutti $6 \le k \le 100$: $a_k$ è uguale a uno di $2a_1, 2a_2, \ldots, 2a_{k-1}$. \end{itemize} Trova il minimo possibile valore di $a_{100}$.
+
+**Risposta:** 2^{19} \cdot 9
+[[src_jmo30yq_yosen__Q08]]

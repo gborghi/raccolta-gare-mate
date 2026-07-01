@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Finale Nazionale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_finale__Q01
 parent: src_cesenatico_2006_squadre_finale
 competition: Gara a Squadre Cesenatico 2006 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero nella colonna grigia*
 
@@ -51,3 +54,28 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0793
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fEIQb_m_74TWBTc0VD7CcS9snGoZqpqO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*number in the grey column*
+
+![[src_cesenatico_2006_squadre_finale__prob1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \fill[gray!55] (1,0) rectangle (2,3);
+  \draw (0,0) grid (3,3);
+  \node at (0.2,2.8) {1};
+  \node at (2.2,2.8) {2};
+  \node at (0.2,0.8) {3};
+\end{tikzpicture}
+\end{document}
+```
+
+> How many different ways do our heroes have to color the prism?
+
+**Answer:** 0793
+[[src_cesenatico_2006_squadre_finale__Q01]]

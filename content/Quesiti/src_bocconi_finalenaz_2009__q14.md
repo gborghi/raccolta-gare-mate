@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2009 — Quesito
   14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2009__Q14
 parent: src_bocconi_finalenaz_2009
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2009
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo ABC diviso dalle tre parallele ai lati*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 144 cm²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the triangle ABC divided by the three parallels on the sides*
+
+> DECOUPAGE OF A TRIANGLE From an interior point in a < MSK0/> triangle the three parallels to the sides of the triangle are plotted. Thus, the triangle is divided into three parallelograms and three smaller triangles of area (respectively) $9 \text{ cm}^2$, $16 \text{ cm}^2$ and $25 \text{ cm}^2$. What is (in $\text{cm}^2$) the area of the triangle $ABC$?
+
+**Answer:** 144 cm²
+[[src_bocconi_finalenaz_2009__Q14]]

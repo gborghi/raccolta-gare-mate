@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2013 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2013__Q05
 parent: src_inmo_2013
 competition: Indian National Mathematical Olympiad 2013
@@ -33,6 +34,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle ABC; circumcenter O, orthocenter H, centroid G; find angle C*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gmbaqp-kDcxUyvAlPf7W-ahq0MnrHajW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Triangolo acuto ABC; circoncentro O, centro-orto H, centroide G; angolo di ricerca C< MSK1/>
+
+> In un triangolo acuto $ABC$, $O$ è il circoncentro, $H$ è l'ortocentro e $G$ è il centroide. Il $OD$ deve essere perpendicolare a $BC$ e il $HE$ deve essere perpendicolare a $CA$, con $D$ su $BC$ e $E$ su $CA$. Il $F$ deve essere il punto medio di $AB$. Supponiamo che le superfici dei triangoli $ODC$, $HEA$ e $GFB$ siano uguali. Trova tutti i valori possibili di $\hat{C}$.
+
+[[src_inmo_2013__Q05]]

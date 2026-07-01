@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2014 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2014__Q18
 parent: src_bocconi_squadre_2014
 competition: Gara a Squadre 2014
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadrato magico 4×4 con somma simmetrica costante e 15,14 al centro della quarta riga*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Quadrato magico: prima riga $[13,3,2,16]$, seconda riga $[8,10,11,5]$, terza riga $[12,6,7,9]$, quarta riga $[1,15,14,4]$ (e varianti per simmetria)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Magic square 4×4 with constant symmetrical sum and 15.14 at the center of the fourth line*
+
+> Dürer's magic square, contained in his famous Melancholia, has a peculiarity: the sum of two symmetrical numbers relative to the center of the square is always equal to half the magic sum (i.e. $17$). Find another magic square, with the numbers MSK2/ and MSK3/ written in this order in the middle of the fourth line, which has the same property.
+
+**Answer:** Quadrato magico: prima riga $[13,3,2,16]$, seconda riga $[8,10,11,5]$, terza riga $[12,6,7,9]$, quarta riga $[1,15,14,4]$ (e varianti per simmetria)
+[[src_bocconi_squadre_2014__Q18]]

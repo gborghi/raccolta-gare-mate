@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2015 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2015__Q04
 parent: src_bocconi_autunno_2015
 competition: Giochi d'Autunno 2015
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Primi due anni divisibili per 16*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2020, 2025 (entrambe le soluzioni, l'ordine non interessa)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eK88JMTv896JXMMmFL1S8lYcD_i95Nzi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First two years divided by 16*
+
+> 2010 is divisible by 10 (the number formed by its last two digits); similarly 2016 is divisible by 16. Find the first two years, after 2016, whose number is divisible by the last two digits.
+
+**Answer:** 2020, 2025 (entrambe le soluzioni, l'ordine non interessa)
+[[src_bocconi_autunno_2015__Q04]]

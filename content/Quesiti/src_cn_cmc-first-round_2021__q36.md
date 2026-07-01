@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 36
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q36
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -29,6 +30,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *B-3: range of y=sin^2 x+√3 sinx cosx on [π/4,π/2].*
 
@@ -42,3 +45,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*B-3: intervallo di y=sin^2 x+√3 sinx cosx su [π/4,π/2].*
+
+> [Test paper B, problema 3] L'intervallo di $y=\sin^2 x+\sqrt{3}\sin x\cos x$ quando $\dfrac{\pi}{4}\le x\le\dfrac{\pi}{2}$ è ______.
+
+**Risposta:** \left[1,\dfrac{3}{2}\right]
+[[src_cn_cmc-first-round_2021__Q36]]

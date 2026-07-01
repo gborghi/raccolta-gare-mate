@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2016 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_classiprime__Q12
 parent: src_archimede_2016_classiprime
 competition: Gara Nazionale Classi Prime 2016
@@ -24,6 +25,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Deduzioni logiche da proprieta dei voti (quantificatori)*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11_tVYKZUBusCSJwiRULQD9nPIEI-cYvl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Logical deductions from ownership of votes (quantifiers) *
+
+> Professor Quandomigira still has to bring her last month's results to class. Pressed by a student, she replies, "I don't remember your vote". I can only tell you that the votes satisfy the following property: no matter how you choose a guy, you can always find at least one girl who got a narrowly higher vote than you. The following statements can be drawn from the professor's words: (a) however a girl is chosen, there is at least one boy who scored lower than her; (b) the average score of girls is higher than the average score of boys; (c) the highest score of a girl is higher than the highest score of a boy. A only (c) B only (b) C only (a) D all E no F only (a) and (c)
+
+**Answer:** A
+[[src_archimede_2016_classiprime__Q12]]

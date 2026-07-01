@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2007 — Quesito
   8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2007__Q08
 parent: src_bocconi_finalenaz_2007
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2007
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Di quanti passi (di Sara) Sara precede inizialmente l'orco?*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 29
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many steps does Sara take before the orc?
+
+> In a stormy night, perhaps because of the sound of thunder, or perhaps because he had eaten too much!  Sergio dreams of an orc, of those who in fairy tales go hunting children. Both the orc and Sergio take 1 second to take 1 step but, to cover the distance covered by the orc in 5 steps, Sergio has to take 15 steps. Even his sister Sara takes 1 second to take 1 step but, to cover the distance covered by Sergio in 2 steps, Sara must take 3 steps. The orca is very fat and after eight steps, it has to stop to catch its breath. Sergio then follows the orc that chases his sister Sara who walks down the path, a little further. The orc takes 8 steps and then stops, exhausted, unable to reach Sara, just as Sergio wakes up. How many steps (of Sarah), at least, did Sarah initially precede the orc?
+
+**Answer:** 29
+[[src_bocconi_finalenaz_2007__Q08]]

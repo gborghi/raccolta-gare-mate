@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Biennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_biennio__Q05
 parent: src_archimede_2025_biennio
 competition: Giochi di Archimede 2025 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Millesima cifra decimale di 3/7*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18_HJOvj5XdZGR_vwwSmhkGXfDLuHPlIX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Millith decimal point of 3/7< MSK1/>
+
+> Michela would like to write the fraction 37 in decimal form . What number will take the thousandth place after the comma?
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 2
+> - **(D)** 7
+> - **(E)** 8
+
+**Answer:** B
+[[src_archimede_2025_biennio__Q05]]

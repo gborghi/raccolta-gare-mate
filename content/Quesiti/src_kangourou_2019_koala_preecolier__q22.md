@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q22
 parent: src_kangourou_2019_koala_preecolier
 competition: Kangourou 2019 Koala n.6 Pre-Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale striscia ha lasciato Gino (sostituzioni di colore)*
 
@@ -41,3 +44,21 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which strip left Gino (color changes) < MSK1/>
+
+![[src_kangourou_2019_koala_preecolier__prob22.png]]
+
+> Here you see a strip divided into nine squares.
+> 
+> (see figure)
+> 
+> Henry came in and replaced every black square with a white square. Then Fabio arrived and, in the strip left by Henry, replaced each gray square with a black square. Finally Gino arrived and, in the strip left by Fabio, replaced each white square with a gray square. What's the strip left by Gino?
+> 
+> (see figure)
+
+[[src_kangourou_2019_koala_preecolier__Q22]]

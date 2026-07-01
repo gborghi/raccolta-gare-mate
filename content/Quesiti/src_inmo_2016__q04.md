@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2016 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2016__Q04
 parent: src_inmo_2016
 competition: Indian National Mathematical Olympiad 2016
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2016 red points on circle; any regular n-gon has an all-blue copy*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1woBuE2HYjU-e_MK1TenDn20fm5TAalE-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2016 punti rossi sul cerchio; ogni n-gon regolare ha una copia blu *
+
+> Supponiamo che i punti 2016 della circonferenza di un cerchio siano di colore rosso e i punti rimanenti di colore blu. Date qualsiasi numero naturale $n \ge 3$, dimostrare che esiste un poligono a lato regolare $n$ i cui vertici sono tutti blu.
+
+[[src_inmo_2016__Q04]]

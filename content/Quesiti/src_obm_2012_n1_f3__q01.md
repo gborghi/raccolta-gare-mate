@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f3__Q01
 parent: src_obm_2012_n1_f3
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3
@@ -40,6 +41,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Form two 4-digit numbers using digits 1 to 8 once each; maximize the difference (find their sum) and minimize the sum (find the smallest possible difference).*
 
@@ -56,3 +59,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zhcaRFthPAOn7E_8dttKk0jNO8fP8yfZ/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Formare due numeri a 4 cifre utilizzando cifre da 1 a 8 una volta ciascuna; massimizzare la differenza (trovare la loro somma) e ridurre al minimo la somma (trovare la differenza più piccola possibile).
+
+> Elaine utilizza ciascuna delle cifre da $1$ a $8$ per scrivere due numeri a quattro cifre, utilizzando ogni cifra una volta.
+> 
+> a) Se la differenza tra i due numeri è la più grande possibile, qual è la somma di questi numeri?
+> 
+> b) Se la somma di questi numeri è la più piccola possibile, qual è la più piccola differenza possibile tra loro?
+
+[[src_obm_2012_n1_f3__Q01]]

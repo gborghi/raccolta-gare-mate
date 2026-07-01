@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q28
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sezione del cubo forato con piano per il centro*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Section of the holed cube with centre plane*
+
+![[src_kangourou_2018_junior_marzo__prob28.png]]
+
+> Look at the figure: from a cube on side three, seven cubes on side one have been removed. Now let's cut this hole cube with a plane passing through the center of the cube and perpendicular to one of its 4 diagonals. Which of the following figures will the section look like? A) B)
+> 	
+> C)
+> 	
+> D) E)
+
+**Answer:** A
+[[src_kangourou_2018_junior_marzo__Q28]]

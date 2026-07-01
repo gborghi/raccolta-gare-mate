@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f1__Q05
 parent: src_obm_2007_n3_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Numbers grouped into pairs with equal product; which pairs with 10*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri raggruppati in coppie con prodotto uguale; che si accoppiano con 10*
+
+> I numeri $72$, $8$, $24$, $10$, $5$, $45$, $36$, $15$ sono raggruppati in coppie in modo che il prodotto di ciascuna coppia sia lo stesso. Quale numero è abbinato a $10$?
+> 
+> (A) $36$ \quad (B) $45$ \quad (C) $24$ \quad (D) $15$ \quad (E) $72$
+
+**Risposta:** A
+[[src_obm_2007_n3_f1__Q05]]

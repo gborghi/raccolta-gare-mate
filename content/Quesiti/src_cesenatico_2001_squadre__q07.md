@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2001_squadre__Q07
 parent: src_cesenatico_2001_squadre
 competition: Gara Nazionale a Squadre Cesenatico 2001
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di pagare 50 con tre banconote diverse*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0184
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode of payment 50 with three different banknotes*
+
+> This is the total number of subscriptions.
+> 
+> To subscribe to the contest, you must pay 50 shields to the Free Students' Association. In the confederation you can find banknotes of any value from 1 to 100 shields. How many ways can an Imese pay for a contest subscription using three different bills?
+
+**Answer:** 0184
+[[src_cesenatico_2001_squadre__Q07]]

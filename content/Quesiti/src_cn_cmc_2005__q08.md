@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2005 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2005__Q08
 parent: src_cn_cmc_2005
 competition: China Mathematical Competition 2005
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find range of a from inequality involving a decreasing function*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $0 < a < \frac{1}{3} \text{ or } 1 < a < 5$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la gamma di a da disuguaglianza che comporta una funzione in diminuzione*
+
+> La funzione $f(x)$ deve essere una funzione decrescente definita su $(0, +\infty)$. Se $f(2a^2 + a + 1) < f(3a^2 - 4a + 1)$, allora l'intervallo di $a$ è \underline{\hspace{2cm}}.
+
+**Risposta:** 0 < a < \frac{1}{3} \text{ or } 1 < a < 5
+[[src_cn_cmc_2005__Q08]]

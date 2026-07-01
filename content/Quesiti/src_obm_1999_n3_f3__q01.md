@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f3__Q01
 parent: src_obm_1999_n3_f3
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of quadrilateral in regular pentagram with area 1*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{1}{2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17yibfSyhuhmSwDbCsRV7EjaJIGuB8esS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area quadrilaterale in pentagramma regolare con area 1*
+
+> Che $ABCDE$ sia un pentagono regolare in modo tale che la stella $ACEBD$ abbia una superficie $1$. $P$ sia l'intersezione di $AC$ e $BE$, e $Q$ l'intersezione di $BD$ e $CE$. Determinare la superficie di $APQD$.
+
+![[src_obm_1999_n3_f3__Q01.png]]
+
+**Risposta:** \frac{1}{2}
+[[src_obm_1999_n3_f3__Q01]]

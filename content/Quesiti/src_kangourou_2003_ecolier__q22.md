@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q22
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali due oggetti compongono la parte ombreggiata*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which two objects make up the shaded part*
+
+![[src_kangourou_2003_ecolier__prob22.png]]
+
+> The shaded part of the drawing was made using two objects between those below. What are the two objects? A) 1+3 B) 2+4 C) 2+3 D) 1+4 E) 3+4
+
+**Answer:** A
+[[src_kangourou_2003_ecolier__Q22]]

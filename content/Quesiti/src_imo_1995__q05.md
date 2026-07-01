@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1995 (36th IMO, Toronto) — Quesito 5'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1995__Q05
 parent: src_imo_1995
 competition: 'IMO 1995 (36th IMO, Toronto)'
@@ -28,6 +29,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Hexagon inequality AG+GB+GH+DH+HE>=CF*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pz-4eMo5rOEQfEuxsHP_U9uNUklh6WtJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+In the case of the equation, the following equation is used: < MSK0/>Hexagon inequality AG+GB+GH+DH+HE>=CF< MSK1/>
+
+> Whether $ABCDEF$ is a convex hexagon with $AB = BC = CD$ and $DE = EF = FA$, such as $\angle BCD = \angle EFA = \pi/3$. Suppose $G$ and $H$ are points within the hexagon such as $\angle AGB = \angle DHE = 2\pi/3$. Show that $$AG + GB + GH + DH + HE \geq CF.$$
+
+[[src_imo_1995__Q05]]

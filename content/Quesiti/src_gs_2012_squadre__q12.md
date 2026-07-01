@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q12
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Equazione diofantea iterata su i e j*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0008
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Diophantine equation iterated on i and j*
+
+> This time Dotto considers the equation $$3i^2 + 2j^2 = 77 \cdot 6^{2012}$$ and determines how many integer solutions $(i, j)$ it has. How many are there?
+
+**Answer:** 0008
+[[src_gs_2012_squadre__Q12]]

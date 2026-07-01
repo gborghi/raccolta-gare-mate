@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Student — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_semif__Q08
 parent: src_kangourou_2018_student_semif
 competition: Kangourou 2018 Semifinale Student
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che compaia la cifra 1 tra 1 e 10^7*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability that the figure 1 is between 1 and 10^7< MSK1/>
+
+> (Points 5) Imagine that in a bag there are all the integers between 1 and 107 (extremes included) and to extract one of these numbers at random. This p the probability that in its representation (decimal) the figure 1 will be A) p < 35% B) 35% < MSK0/> p < 40% C) 40% < MSK1/> p < 45% D) 45% < MSK2/> p < 50% E) p < MSK3/> 50%
+
+**Answer:** E
+[[src_kangourou_2018_student_semif__Q08]]

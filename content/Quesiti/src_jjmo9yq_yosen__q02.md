@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo9yq_yosen__Q02
 parent: src_jjmo9yq_yosen
 competition: Japan Junior Mathematical Olympiad 2011 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find BC in quadrilateral with two 60-degree angles and a right angle*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qMJjxU0l_DxfEY-9HMozDgyKBaM5GpnZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca BC in quadrilaterale con due angoli di 60 gradi e un angolo retto*
+
+> In quadrilaterali $ABCD$, $\angle DAB = 90^\circ$, $\angle ABC = \angle BCD = 60^\circ$, $AB = 5$, $CD = 4$. Trova < MSK5/>. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+![[src_jjmo9yq_yosen__Q02.png]]
+
+[[src_jjmo9yq_yosen__Q02]]

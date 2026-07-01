@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Semifinale individuale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q14
 parent: src_kangourou_2017_junior_semifinale
 competition: Kangourou 2017 Junior - Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Velocita media necessaria per recuperare ritardo*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0220
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wcjQloPFR27i6zyeHrMFz2T13JxlzXfM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Mean speed required to recover delay< MSK1/>
+
+> City A is 450 km from city B. A train that connects you to the station, scheduled to take 2 hours and 15 minutes. After travelling for the first part of the journey at an average of 160 km/h, the train is 9 minutes late on the roadmap: to arrive on time, how many km/h must its average speed be on the remaining part of the journey?
+
+**Answer:** 0220
+[[src_kangourou_2017_junior_semifinale__Q14]]

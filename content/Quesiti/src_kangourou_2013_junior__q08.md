@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Junior — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_junior__Q08
 parent: src_kangourou_2013_junior
 competition: Kangourou 2013 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore 4n-4m con vincoli su tre cifre*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value 4n-4m with three-digit constraints*
+
+> The number n is the largest positive integer such that 4n is a three-digit number, the number m is the smallest positive integer such that 4m is a three-digit number. How much is 4n  4m ? A) 892 B) 224 C) 225 D) 896 E) 199
+
+**Answer:** D
+[[src_kangourou_2013_junior__Q08]]

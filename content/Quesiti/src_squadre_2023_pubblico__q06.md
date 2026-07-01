@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Gara del pubblico — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_pubblico__Q06
 parent: src_squadre_2023_pubblico
 competition: Gara a Squadre 2023 - Gara del pubblico
@@ -23,6 +24,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori n con 8n^3+11n^2+16n-20 cubo perfetto, somma*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0010
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>N values with 8n^3+11n^2+16n-20 perfect cube, sum< MSK1/>
+
+> Goemetrikon: I will join you if you show that you are not afraid to get your hands dirty. . . I'm not in the business of counting. Could you tell me how much is 20233 −3·20223 +3·20213 −20203?. Lupin/3: Give me a second. . . ». What is the answer to Goemetrikon's question?
+
+**Answer:** 0010
+[[src_squadre_2023_pubblico__Q06]]

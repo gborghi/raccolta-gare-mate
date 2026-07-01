@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f1__Q12
 parent: src_obm_2011_n3_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Measure of angle ADE in a triangle where angle B - angle C = 50 deg, with bisector and a right angle*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Medimento dell'angolo ADE in un triangolo in cui angolo B - angolo C = 50 gradi, con bisettore e angolo retto*
+
+> In un triangolo $ABC$, $m(\widehat{ABC}) - m(\widehat{ACB}) = 50^\circ$, e il bisettore di $A$ incrocia il lato $BC$ al punto $D$. Se $E$ è il punto laterale $AC$ tale che $m(\widehat{CDE}) = 90^\circ$, la misura dell'angolo $\widehat{ADE}$ è:
+> 
+> (A) 25° (B) 30° (C) 40° (D) 45° (E) 50°
+
+[[src_obm_2011_n3_f1__Q12]]

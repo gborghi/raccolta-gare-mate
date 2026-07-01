@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q03
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tra quanti minuti orologio mostra di nuovo cifre 0,1,1,2*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Within minutes the clock shows again 0.1,1.2< MSK1/>
+
+> My digital clock just went off from 8:10 to 8:11. In how many minutes will it again show an hour of the digits 0, 1, 1, 2 arranged in some order? A) 40 B) 45 C) 50 D) 55 E) 60
+
+**Answer:** C
+[[src_kangourou_2011_cadet__Q03]]

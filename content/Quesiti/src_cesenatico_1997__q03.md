@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Cesenatico 1997 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_1997__Q03
 parent: src_cesenatico_1997
 competition: Gara Nazionale Cesenatico 1997
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorare quadratini con condizioni quadrato/diagonale*
 
@@ -46,3 +49,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gAfFy7kRpmbdkAKC-cVZKQZi9nJPgz2s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Coloring squares with square/diagonal conditions*
+
+![[src_cesenatico_1997__prob3.png]]
+
+> Consider the infinite quadrant in the figure, where all squares have sides $1$. Is it possible to colour some of the squares in black so that both of the following properties are satisfied?
+> 
+> - For every natural number < MSK0/>, the square with vertices in < MSK1/> and side < MSK2/> (with sides parallel to the axes) has a number of black squares greater than the number of white squares. - On each infinite diagonal of squares parallel to the one shown in the figure, there is at most a finite number of black squares.
+> 
+> (see figure)
+
+[[src_cesenatico_1997__Q03]]

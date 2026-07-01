@@ -1,6 +1,7 @@
 ---
 title: XXI Olimpiade Italiana Cesenatico 2005 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005__Q01
 parent: src_cesenatico_2005
 competition: XXI Olimpiade Italiana Cesenatico 2005
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo rettangolo, altezza, valori del rapporto AH/CH*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (sqrt5-1)/2 oppure (sqrt5+1)/2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangle, height, value of the ratio AH/CH*
+
+> Whether ABC is a right triangle, with hypotenuse AC, and whether H is the foot of the height from B to AC. Knowing that the lengths AB, BC and BH form the sides of a new rectangular triangle, determine the possible values of AH CH.
+
+**Answer:** (sqrt5-1)/2 oppure (sqrt5+1)/2
+[[src_cesenatico_2005__Q01]]

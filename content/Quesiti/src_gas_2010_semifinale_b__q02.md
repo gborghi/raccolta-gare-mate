@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale B — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_b__Q02
 parent: src_gas_2010_semifinale_b
 competition: Gara a Squadre 2010 - Semifinale B
@@ -29,6 +30,8 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza segmento bisettrice in triangolo isoscele 120 gradi*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1610
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of the bisector segment in an isosceles triangle 120 degrees*
+
+> 2. Captain Disparrow is studying a treasure map on which three points A, B, and C are marked, which are the vertices of an isosceles triangle. The base AB of the triangle measures 4.4 km and the angle at the top is 120 degrees. Captain Disparrow is at point B and knows that the treasure is at the intersection between the BC side and the angle's intersection in A. How many yards will it take to get to the treasure?
+
+**Answer:** 1610
+[[src_gas_2010_semifinale_b__Q02]]

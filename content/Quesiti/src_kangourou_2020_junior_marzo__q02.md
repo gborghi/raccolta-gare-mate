@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q02
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *affermazione certa*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>certain assertion< MSK1/>
+
+> Five different boxes of candy were emptied into one basket. Now, in this basket, there are 102 candy bars. Which of the following is certainly true? A) There were at least 20 candies in each box. B) At least one of the boxes contained more than 21 candies. C) At least one of the boxes contained less than 21 candies. D) There were more than 21 candies in each box. E) One of the boxes contained exactly 21 candies.
+
+**Answer:** C
+[[src_kangourou_2020_junior_marzo__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q04
 parent: src_kangourou_2018_cadet_semifinale
 competition: Kangourou 2018 Cadet - Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione rimasta bianca nella figura di triangoli*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kVLsfgriHzHWeJPk7c69FlUrtxeTTMzS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>White fraction in the triangle figure< MSK1/>
+
+![[src_kangourou_2018_cadet_semifinale__prob4.png]]
+
+> The segment shown in the figure is divided into 6 segments of equal length. All the triangles that appear in the figure are equilateral. What fraction of the whole figure (including the white part inside) remained white? A) 1/3 B) 2/9 C) 5/21 D) 6/25 E) 7/27
+
+**Answer:** E
+[[src_kangourou_2018_cadet_semifinale__Q04]]

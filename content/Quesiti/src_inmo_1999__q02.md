@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1999 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1999__Q02
 parent: src_inmo_1999
 competition: Indian National Mathematical Olympiad 1999
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Village cleanup rectangular field with integer sides and 1998 equal parts*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hgD_u8X82WEkCyMKo3vqKvNfYTKTm396/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Campo rettangolare di pulizia del villaggio con lati interi e parti uguali del 1998*
+
+> In un villaggio nel 1998 persone si sono offerte volontarie per pulire, per una fiera, un campo rettangolare con lati interi e perimetro pari a 3996 piedi. A tal fine, il campo è stato diviso in parti uguali nel 1998. Se ogni parte ha un'area interiore, trova la lunghezza e la larghezza del campo.
+
+[[src_inmo_1999__Q02]]

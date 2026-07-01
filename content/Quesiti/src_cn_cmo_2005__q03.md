@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2005 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2005__Q03
 parent: src_cn_cmo_2005
 competition: China Mathematical Olympiad 2005
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circular pool frogs: prove equilibrium is reached*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Rana della piscina circolare: dimostrare che l'equilibrio è raggiunto< MSK1/>
+
+> Come illustrato nella figura 3, un pool circolare è diviso in $2n$ ($n \geq 5$) "griglie". Si dice che due griglie siano vicine se hanno un lato comune o un arco. Quando le rane saltano contemporaneamente nelle griglie (con almeno una rane per griglia), si verifica una "erupzione" in una griglia se ci sono almeno tre rane in essa. Dopo un'eruzione in una griglia, una rana salta da quella griglia in ciascuna delle sue griglie vicine. Prova che dopo numerosi passi finiti, la distribuzione delle rane sarà in equilibrio (cioè non si verifica alcuna eruzione). (Posato da Su Chun)
+
+![[src_cn_cmo_2005__Q03.png]]
+
+[[src_cn_cmo_2005__Q03]]

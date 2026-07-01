@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Junior 2024 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q15
 parent: src_kangourou_2024_junior_semifinale
 competition: Kangourou Semifinale individuale Junior 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Di quanti interi 17 e il massimo divisore proprio*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0007
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Of the integers 17 and the maximum proper divisor*
+
+> 15. (Points 6) Of how many positive integers is the number 17 the greatest proper divisor? The answer is: 0007. The solution. 17 is the divisor of any integer of type 17 × k with positive integer k. For it to be the largest divisor, it is clear that k ≤ 17 must be. It is also clear that all prime numbers not greater than 17 are acceptable. No other k can be: every non-prime divisor greater than 1 would give a divisor of 17 × k greater than 17.
+
+**Answer:** 0007
+[[src_kangourou_2024_junior_semifinale__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q11
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma delle tre cifre cancellate nella moltiplicazione*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the three digits deleted in multiplication*
+
+![[src_kangourou_2018_cadet_marzo__prob11.png]]
+
+> Martha correctly multiplied two two-digit numbers and then, as shown in the figure, deleted three digits. What is the sum of these figures? A) 5
+> 	
+> B) 6
+> 	
+> C) 9
+> 	
+> D) 12
+> 	
+> E) 14
+
+**Answer:** B
+[[src_kangourou_2018_cadet_marzo__Q11]]

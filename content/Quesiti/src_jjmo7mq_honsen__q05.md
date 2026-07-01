@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2009 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo7mq_honsen__Q05
 parent: src_jjmo7mq_honsen
 competition: Japan Junior Mathematical Olympiad 2009 — Honsen (Final)
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perimeter of convex hexagon ≥ sum of three main diagonals at 60°*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VL4zACP5rwfmItjWBLiPE5BRD-B6psdw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Perimetro dell'esagono converso ≥ somma di tre diagonali principali a 60°*
+
+> In un esagono converso $ABCDEF$, due delle tre diagonali principali $AD$, $BE$, $CF$ formano un angolo di $60^\circ$ tra loro. Prova che un poligono $$AB + BC + CD + DE + EF + FA \geq AD + BE + CF.$$ è chiamato convex se tutti gli angoli interni sono inferiori a $180^\circ$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+[[src_jjmo7mq_honsen__Q05]]

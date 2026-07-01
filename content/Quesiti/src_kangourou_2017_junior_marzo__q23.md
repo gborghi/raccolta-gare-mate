@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q23
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali numeri possono valere 286 nella sequenza*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What numbers can be 286 in the sequence*
+
+> Seven positive integers a, b, c, d, e, f, g: (not necessarily different) are aligned in this order. Their sum is 2017 and, for any pair of adjacent numbers in the alignment, the difference between the major and the minor is 1. Which of these numbers could be equal to 286? (a) Only a or g.
+> 	
+> B) Only b or f.
+> 	
+> C) Only c or e. D) Only d.
+> 	
+> E) Each of them.
+
+**Answer:** A
+[[src_kangourou_2017_junior_marzo__Q23]]

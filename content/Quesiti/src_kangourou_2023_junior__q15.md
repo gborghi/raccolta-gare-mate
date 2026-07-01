@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q15
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *rapporto perimetri*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*perimeter report*
+
+![[src_kangourou_2023_junior__prob15.png]]
+
+> The ABCDE pentagon in the figure is divided into four triangles all having the same perimeter. The triangle ABC is equilateral and the triangles AEF, DFE and CDF are isosceles and congruent. What's the ratio between the perimeter of the pentagon and that of one of the triangles? A) 2
+> 	
+> B) 5/3
+> 	
+> C) 3/2 D) 4/3 E) 5/2
+
+**Answer:** B
+[[src_kangourou_2023_junior__Q15]]

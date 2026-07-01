@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q16
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di mosse per percorrere 1000 cm*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 358 mosse
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of moves to run 1000 cm*
+
+> Look at the equilateral triangle $ABC$ in the figure whose side measures 4 cm. Now the dance begins: with a first move, you rotate the triangle, making a spike on point B, until point C is for the first time on the initial AB direction. The dance goes on with a second move: we rotate the triangle, and now we're pointing to C, until point A is first found in the initial direction AB.
+> 
+> How many moves, at a minimum, must be made so that the length of the route from A to the plane exceeds 1000 cm?
+
+![[src_bocconi_squadre_2013__Q16.png]]
+
+**Answer:** 358 mosse
+[[src_bocconi_squadre_2013__Q16]]

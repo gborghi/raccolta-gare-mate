@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 30
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q30
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A2-8: two unit circles centred at (2,1) and (10,11); line through O cutting equal arcs; sum of slopes.*
 
@@ -44,3 +47,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A2-8: due cerchi unitari centrati a (2,1) e (10,11); linea attraverso O che taglia archi uguali; somma delle pendici.*
+
+> [Paper di prova A2, problema 8] In un sistema di coordinate rettangolare piano $xOy$, $\Gamma_1$ è un cerchio unitario centrato a $(2,1)$ e $\Gamma_2$ è un cerchio unitario centrato a $(10,11)$. Fare una linea $l$ attraverso l'origine $O$ in modo che $l$ abbia due intersezioni con ciascuna delle $\Gamma_1$ e $\Gamma_2$, dividendo $\Gamma_1$ e $\Gamma_2$ in quattro archi, e due di questi quattro archi sono di uguale lunghezza. La somma delle pendenti di tutte le linee $l$ che soddisfano le condizioni è di ______.
+
+[[src_cn_cmc-first-round_2021__Q30]]

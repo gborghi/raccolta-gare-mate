@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet finale (maggio) — Quesito C5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_maggio__QC5
 parent: src_kangourou_2007_cadet_maggio
 competition: Kangourou 2007 Cadet finale (maggio)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti ponti (diagonale di griglia rettangolare)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 32 (e 30)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Dn8ZecdOYUyYHtHKXwFBMWk2VpE5AjPv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many bridges (rectangular grid diagonal) < MSK1/>
+
+> A megalopolis has the shape of a rectangle of $20$ km per $13$ km; it is divided into square areas of one side kilometer. The city is crossed diagonally (hence from a vertex to the opposite vertex) by a river that we imagine to be straight and wire-shaped; it cannot be gained, so bridges are needed. The City Council has decided to build a bridge in every area crossed by the river. How many bridges do you need to build? Would it change anything if the measurements of the city were $21$ km and $12$ km? Reason your claims.
+
+**Answer:** 32 (e 30)
+[[src_kangourou_2007_cadet_maggio__QC5]]

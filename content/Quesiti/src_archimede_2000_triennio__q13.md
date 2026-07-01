@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Triennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_triennio__Q13
 parent: src_archimede_2000_triennio
 competition: Giochi di Archimede 2000 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto aree esagono e poligono stellato interno*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Report of exagonal and interstellar polygon areas< MSK1/>
+
+![[src_archimede_2000_triennio__prob13.png]]
+
+> The ratio of the area of the regular hexagon to that of the starry polygon shown in the figure, which has all the sides lying on 6 of the hexagons, is
+>
+> - **(A)** 4 3
+> - **(B)** 3 2
+> - **(C)** 5 3
+> - **(D)** 6 5
+> - **(E)** 5 4.
+
+**Answer:** B
+[[src_archimede_2000_triennio__Q13]]

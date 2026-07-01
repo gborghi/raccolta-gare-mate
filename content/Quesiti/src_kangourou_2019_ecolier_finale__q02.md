@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q02
 parent: src_kangourou_2019_ecolier_finale
 competition: Kangourou 2019 Finale Nazionale Ecolier
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazioni distinte di un cubo (rotazioni)*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0008
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distinct colours of a cube (rotations) *
+
+> Three people walked through a snow-covered meadow with their scarves, leaving the footprints you see in the picture. In what order did they come through?
+>
+> - **(A)**
+> - **(B)**
+> - **(C)**
+> - **(D)**
+> - **(E)** (see figure)
+
+**Answer:** 0008
+[[src_kangourou_2019_ecolier_finale__Q02]]

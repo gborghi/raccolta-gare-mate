@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1982 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1982_r3__Q04
 parent: src_pol_1982_r3
 competition: Olimpiade Matematica Polacca 1982 — Round 3
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cover finite plane point set by open squares with bounded points-per-area ratio*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qBPh1W7EiylRWktVfDLoEOsdrnYFDxsy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Coperire un punto di piano finito impostato da quadrati aperti con rapporto punti-per-area limitato*
+
+> In un piano viene dato un insieme finito di punti. Prova che i punti possono essere coperti da quadrati aperti $Q_1, Q_2, \ldots, Q_n$ in modo tale che $$1 \le \frac{N_j}{S_j} \le 4 \quad \text{for } j = 1, \ldots, n,$$, dove $N_j$ è il numero di punti del set all'interno del quadrato $Q_j$ e $S_j$ è l'area di $Q_j$.
+
+[[src_pol_1982_r3__Q04]]

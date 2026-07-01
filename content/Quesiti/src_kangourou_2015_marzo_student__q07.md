@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q07
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti buchi*
 
@@ -54,3 +57,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many holes < MSK1/>
+
+![[src_kangourou_2015_marzo_student__prob7.png]]
+
+> A square sheet of paper such as that in the figure folded along the lines drawn so as to reduce it to a square of 1/9 of the area of the starting line. In this square, a corner is cut and the sheet is stretched again. How many holes (wholly surrounded by paper) are there on the sheet? A) 0
+> 	
+> B) 1
+> 	
+> C) 2
+> 	
+> D) 4
+> 	
+> E) 9
+
+**Answer:** B
+[[src_kangourou_2015_marzo_student__Q07]]

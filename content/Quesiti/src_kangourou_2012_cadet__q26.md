@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q26
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei numeri di tre cifre con la strana proprieta*
 
@@ -56,3 +59,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of three-digit numbers with the odd property *
+
+> There are some three-digit (significant) positive integers that have the following property: either if you remove the first digit, or if you remove the last digit, you get a perfect square. How much is the sum of all three-digit numbers with this strange property? A) 1013 B) 1177 C) 1465 D) 1993 E) 2016 A B C D M N
+> 
+> I'm going to pay. I'm going to pay. This is a list of the countries of the European Union.
+
+**Answer:** D
+[[src_kangourou_2012_cadet__Q26]]

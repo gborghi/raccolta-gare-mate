@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q08
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo, cerchi inscritto ed exscritti conciclici, AC minimo*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2017
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangle, inscribed and excised conical circles, minimum AC*
+
+> In the year 3018, it is now common knowledge that the wheat circles are messages from the aliens of the planet Otto Persei, great experts on earth's culture. In a particularly elaborate message, the alien Mrrr plotted an ABC triangle with AB = 2017 and BC = 2076. The circle inscribed in the triangle met AC and AB in B1 and C1 respectively. The tangent circle on the AB side and on the AC and CB side extensions (from the A and B sides respectively) met the AC straight in B2. The tangent circle on the AC side and the BA and BC side extensions (on the A and C sides respectively) met the straight AB in C2. Knowing that the four points B1C1B2C2 were on the same circumference, find the lowest possible value for AC.
+
+**Answer:** 2017
+[[src_squadre_2018_finale__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2006 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2006__Q04
 parent: src_cn_cmc_2006
 competition: China Mathematical Competition 2006
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Range of DF length in right triangular prism with GD perp EF*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rango di lunghezza DF in prisma triangolare rettangolare con GD perp EF*
+
+> Dato un prisma triangolare rettangolare $A_1B_1C_1 - ABC$ con $\angle BAC = \frac{\pi}{2}$ e $AB = AC = AA_1 = 1$, $G$, $E$ siano rispettivamente i punti medi di $A_1B_1$, $CC_1$ e $D$, $F$ siano i punti variabili che si trovano sui segmenti $AC$ e $AB$ (esclusi i punti finali) rispettivamente. Se $GD \perp EF$, l'intervallo di lunghezza di $DF$ è (\ \ ).
+> 
+> (A) $\left[\frac{1}{2}, 1\right)$\quad (B) $\left[\frac{1}{2}, 2\right)$\quad (C) $\left(1, \sqrt{2}\right)$\quad (D) $\left[\frac{\sqrt{2}}{2}, \sqrt{2}\right)$
+
+**Risposta:** A
+[[src_cn_cmc_2006__Q04]]

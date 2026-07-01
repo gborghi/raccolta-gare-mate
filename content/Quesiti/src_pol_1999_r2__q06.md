@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r2__Q06
 parent: src_pol_1999_r2
 competition: Olimpiade Matematica Polacca 1999 — Round 2
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integers with vanishing weighted power sums for i=1..k-1; prove the k-th weighted sum is divisible by k!.*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QtyD6o9jwMuVGDAxuguLy_l8OL34LF1K/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integri con somma di potenza ponderata scomparsa per i=1..k-1; dimostrare che la somma ponderata k è divisibile da k!.*
+
+> Supponiamo che $a_1, a_2, \ldots, a_n$ siano numeri interi tali che $$a_1 + 2^i a_2 + 3^i a_3 + \cdots + n^i a_n = 0 \quad \text{for } i = 1, 2, \ldots, k-1,$$ dove $k \geq 2$ è un dato intero. Prova che $a_1 + 2^k a_2 + 3^k a_3 + \cdots + n^k a_n$ è divisibile per $k!$.
+
+[[src_pol_1999_r2__Q06]]

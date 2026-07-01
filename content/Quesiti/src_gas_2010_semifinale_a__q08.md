@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale A — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_a__Q08
 parent: src_gas_2010_semifinale_a
 competition: Gara a Squadre 2010 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore atteso anni dalla riga della tessera rossa nel triangolo*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0008
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Expected years from the red card line in the triangle*
+
+> Are you afraid of Davy Jensen's grave? The cursed Davy Jensen rat has a bag that contains 90 white tiles from the tomb, plus one single red card of blood. Each prisoner on his ship, the Dutchman Secante, undergoes the following game to know how many years he will have to serve on the ship: he extracts the cards randomly one at a time and arranges them in a triangle (1, then 2, then 3, . .. up to 13. The headless will have to serve as many years as the white papers on the red line. Bill Turing, who observes from a different angle, wonders on average how many years of service are affected in this way. Jack doesn't understand exactly what his colleague π-rate means, but his son Will, who has studied, explains to him that among the many ways of defining the average number of years of service (all leading to the same result) the most common is the sum of the numbers k · pk where, for every natural number 0 ≤k ≤12, pk is the probability that the years of service are k. What is the average number of years of service? [As a result, provide the product of the reduced fraction numerator and denominator to the minimum terms]
+
+**Answer:** 0008
+[[src_gas_2010_semifinale_a__Q08]]

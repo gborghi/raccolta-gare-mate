@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 1) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g1__Q03
 parent: src_bocconi_finaleint_2007_g1
 competition: >-
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubo con somma costante sulle facce opposte: faccia opposta a 17*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Cube with constant sum on opposite faces: face opposite to 17
+
+> On each face of a cube and a number written. The two opposite sides of the cube always have the same sum. The figure shows three of the faces of the cube. What number is the opposite of $17$?
+
+![[src_bocconi_finaleint_2007_g1__Q03.png]]
+
+**Answer:** 13
+[[src_bocconi_finaleint_2007_g1__Q03]]

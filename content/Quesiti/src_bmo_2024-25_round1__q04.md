@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2024-25 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2024-25_round1__Q04
 parent: src_bmo_2024-25_round1
 competition: British Mathematical Olympiad 2024-25 — Round 1
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle, P on median AM with AB=CP, prove angle CPB=90*
 
@@ -44,3 +47,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zc71QU7y2yEdLL5Hv10dv-SMgCrj9jY8/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Triangolo acuto, P sulla media AM con AB=CP, prova angolo CPB=90< MSK1/>
+
+> Nel triangolo a angolo acuto $ABC$ abbiamo $AB < AC < BC$. Il punto medio di $BC$ è $M$. C'è un punto $P$ sul segmento di linea $AM$ tale che $AB = CP$ e $\angle PAB = \angle BCP$.
+> 
+> Prove che $\angle CPB = 90^\circ$.
+
+[[src_bmo_2024-25_round1__Q04]]

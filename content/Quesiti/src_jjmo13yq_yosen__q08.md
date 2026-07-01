@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo13yq_yosen__Q08
 parent: src_jjmo13yq_yosen
 competition: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distribute 5-color balls to A,B,C so each holds 0 or >=2 of each color*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1530
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Distribuire le palle a 5 colori a A, B, C in modo che ciascuna abbia 0 o >=2 di ciascun colore
+
+> Un sacchetto contiene sfere di $5$ colori: blu, giallo, nero, verde, rosso, con sfere $4$ di ogni colore, sfere $20$ in totale. Queste palle sono distribuite a tre persone A, B, C, dando a ciascuna palle $6$ e le palle $2$ rimangono nel sacchetto. Quanti modi ci sono per distribuire le palle in modo che tutte e tre le persone soddisfino la seguente condizione?
+> 
+> Condizione: per ogni colore di palla, ciascuna persona detiene palle $0$ di quel colore o almeno palle $2$ di quel colore.
+
+**Risposta:** 1530
+[[src_jjmo13yq_yosen__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: IX Gara Nazionale Classi Prime 2024 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2024__Q18
 parent: src_garaprime_2024
 competition: IX Gara Nazionale Classi Prime 2024
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo dei tre numeri data la somma combinata 396*
 
@@ -52,3 +55,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum of three numbers given the combined sum 396*
+
+> On a board are initially written three distinct positive integers. Alongside them, Charles writes the sum of all possible pairs (not ordered) between two of these numbers and then also writes the sum of the three initial numbers. Finally, you add up all the numbers on the board and you get 396. What is the maximum value of the largest of the first three numbers? A) 96 B) 58 C) 52 D) 100 E) 80 The correct answer is A Siano a< b< c the three values so that the final quantities written on the board will be: a, b, c, a+ b, a+ c, b+ c, a+ b+ c; the sum of these seven quantities is 4(a+ b+ c) = 396 and then a+ b+ c= 99. Taking the smallest possible distinct positive integers a and b, i.e. 1 and 2, we get the maximum value of c=96.
+
+**Answer:** A
+[[src_garaprime_2024__Q18]]

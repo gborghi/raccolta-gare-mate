@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q28
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Riordinare piantine a curve di livello delle montagne*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rearrange plantations at mountain level curves*
+
+![[src_kangourou_2005_benjamin__prob28.png]]
+
+> There are strange mountains in Kangaland. You can see the pictures below on the first line. On the second line these mountains are represented in a plan that highlights the contours of the sections of these mountains with horizontal planes imagined to be drawn at the following four levels (equally spaced): 0, 250, 500, 750 meters above sea level. The plants are not in the same order as the photos. Do you know how to rearrange them properly? A) 3412 B) 3214 C) 3421 D) 1324         E) 3241
+
+**Answer:** C
+[[src_kangourou_2005_benjamin__Q28]]

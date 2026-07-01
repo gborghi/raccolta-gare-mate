@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Junior Finale 2 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_squadre_f2__Q10
 parent: src_kangourou_2024_junior_squadre_f2
 competition: Kangourou Squadre 2024 Junior Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità esattamente una faccia rossa visibile*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0716
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of exactly a visible red face< MSK1/>
+
+> The Ada cube adjoins 64 cubes on side 1 to form a cube 4 < MSK0/> 4 < MSK1/> 4 and coats the six outer faces of the resulting cube in red. Then he separates the 64 cubes, randomly picks one of them and throws it on the floor like a dice: what is the probability that, among the faces of the cubes visible after the launch, there is exactly a painting of it in red? (Write one after the other numerator and denominator of the fraction: for example if the answer is 21/23 or 2/123 write 2123, if it is 1/3 write 0103.)
+
+**Answer:** 0716
+[[src_kangourou_2024_junior_squadre_f2__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q14
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle x between two equilateral triangles sharing a side*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo x tra due triangoli equilaterali che condividono un lato*
+
+> Nella figura, i due triangoli sono equilaterali. Qual è il valore dell'angolo $x$?
+> 
+> A) $30^\circ$ \quad B) $40^\circ$ \quad C) $50^\circ$ \quad D) $60^\circ$ \quad E) $70^\circ$
+
+![[src_obm_2005_n1_f1__Q14.png]]
+
+**Risposta:** B
+[[src_obm_2005_n1_f1__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q13
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti punti F danno triangolo DEF rettangolo area 1*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many F-points give DEF triangle area 1 *
+
+> On the board, Nadia has mapped a DE segment of length 2. How many different F points can you mark on the board if you want the DEF triangle to be rectangular and have area 1? A) 2 B) 4 C) 6 D) 8 E) 10
+
+**Answer:** C
+[[src_kangourou_2011_cadet__Q13]]

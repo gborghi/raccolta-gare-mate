@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student finale nazionale (Mirabilandia) — Quesito S5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_maggio__QS5
 parent: src_kangourou_2008_student_maggio
 competition: Kangourou 2008 - Student finale nazionale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Esiste retta che interseca tutti i poligoni*
 
@@ -41,3 +44,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** dimostrazione
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17e9IDZmmMC0kmw9HyZkRsJZSaNWwywyl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+There is a line that intersects all polygons
+
+![[src_kangourou_2008_student_maggio__probS5.png]]
+
+> *(18 points) * In the plane are assigned some polygons, not necessarily convex, in finite number. They are arranged in such a way that any two of them have at least one thing in common. Demonstrate that there is a line that crosses them all.
+> 
+> Does the statement remain true if instead of polygons, they are considered generic sets of points?
+
+**Answer:** dimostrazione
+[[src_kangourou_2008_student_maggio__QS5]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2005 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2005__Q07
 parent: src_cn_cmc_2005
 competition: China Mathematical Competition 2005
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rewrite polynomial in shifted variable y=x-4, find sum of coefficients*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\frac{5^{21}+1}{6}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Riscrivere il polinomio nella variabile spostata y=x-4, trovare la somma dei coefficienti*
+
+> Esprimere il polinomio $f(x) = 1 - x + x^2 - x^3 + \cdots - x^{19} + x^{20}$ come polinomio in $y = x - 4$: $$g(y) = a_0 + a_1 y + a_2 y^2 + \cdots + a_{20} y^{20}.$$ Poi $a_0 + a_1 + \cdots + a_{20} = $ \underline{\hspace{2cm}}.
+
+**Risposta:** \frac{5^{21}+1}{6}
+[[src_cn_cmc_2005__Q07]]

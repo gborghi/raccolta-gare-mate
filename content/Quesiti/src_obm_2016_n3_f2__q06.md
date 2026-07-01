@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f2__Q06
 parent: src_obm_2016_n3_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tiling m x n board with 4-square and 3-square pieces; minimize m*n*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tagliare la scheda m x n con pezzi quadrati e quadrati; ridurre al minimo la m *n *
+
+> La figura seguente mostra due tipi di pezzi: tipo 1, con $4$ quadrati, e tipo 2, con $3$ quadrati. Una tabella con righe $m$ e colonne $n$ è cartigliata, senza sovrapposizioni, da pezzi di tipo 1, ad eccezione dei quadrati $3$. La stessa lavagna è inoltre incollata, senza sovrapposizioni, con pezzi di tipo 2, ad eccezione dei quadrati $2$. I pezzi possono essere rotati ma non possono estendersi al di fuori della lavagna. Qual è il minimo valore possibile del prodotto < MSK6/>?
+
+![[src_obm_2016_n3_f2__Q06.png]]
+
+[[src_obm_2016_n3_f2__Q06]]

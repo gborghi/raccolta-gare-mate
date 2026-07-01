@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Junior (gara marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_junior__Q18
 parent: src_kangourou_2011_junior
 competition: Kangourou 2011 Junior (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Capacita del recipiente cubico piccolo*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1AJCl_AfEoFXnuVsI8nXmEWfRHRXKCZ3O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Capacity of small cubic container< MSK1/>
+
+> I have two cube-shaped containers; the larger side is a tenth of a meter longer than the other side. The big one is full of water, the other one is empty. If I turn the water from the big container to the small one until it's filled, the big container has 217 liters of water left. What is the capacity of the small container in litres? A) 343 B) 125 C) 1331 D) 729 E) A value different from the previous ones
+
+**Answer:** E
+[[src_kangourou_2011_junior__Q18]]

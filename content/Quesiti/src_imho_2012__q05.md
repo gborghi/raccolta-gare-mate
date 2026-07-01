@@ -1,6 +1,7 @@
 ---
 title: IMO 2012 (LIII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2012__Q05
 parent: src_imho_2012
 competition: IMO 2012 (LIII International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangle geometry: altitude foot, midpoint, and intersection equality*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WL83L88eQtGtGQEdDDGl27mN5bzY6PBu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangle geometry: altitude foot, midpoint, and intersection equality*
+
+> Let $ABC$ be a triangle with $\angle BCA = 90^\circ$, and let $D$ be the foot of the altitude from $C$. Let $X$ be a point in the interior of the segment $CD$. Let $K$ be the point on the segment $AX$ such that $BK = BC$. Similarly, let $L$ be the point on the segment $BX$ such that $AL = AC$. Let $M$ be the point of intersection of $AL$ and $BK$.
+> 
+> Show that MSK0/.
+
+[[src_imho_2012__Q05]]

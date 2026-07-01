@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f3__Q01
 parent: src_obm_2013_n3_f3
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tangent lines from exterior point, find CE in terms of a,b*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/196iotHwSAcZNCxZblUXBqibkyRsVNzdN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Line angenti dal punto esterno, trovare CE in termini di a,b*
+
+> Il $\Gamma$ deve essere un cerchio e il $A$ un punto esterno a $\Gamma$. Le linee tangenti a $\Gamma$ che attraversano $A$ toccano $\Gamma$ a $B$ e $C$. $M$ sia il punto medio di $AB$. Il segmento $MC$ incontra di nuovo $\Gamma$ a $D$ e la riga $AD$ incontra di nuovo $\Gamma$ a $E$. Dato che $AB = a$ e $BC = b$, trovare $CE$ in termini di $a$ e $b$.
+
+[[src_obm_2013_n3_f3__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q07
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Election runoff winner from vote-transfer percentages in a table*
 
@@ -59,3 +62,23 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il vincitore del primo turno delle elezioni dalle percentuali di trasferimento dei voti in una tabella*
+
+> Nella tabella che segue si vedono alcuni dei risultati delle elezioni in un determinato paese, in cui le percentuali si riferiscono al numero totale di elettori.
+>
+> Partiti / Ronde  AA  BB  CC  Altri partiti o voti nulli nel primo round  39%  31%  20%  10% nel secondo round  ? | ? | 0 | ?
+>
+> Nel secondo turno, tutti gli elettori che hanno votato per il partito AA hanno mantenuto i loro voti e lo stesso è successo con gli elettori del partito BB. Di coloro che hanno votato per il partito CC nel primo turno, il 40% ha votato per il partito AA nel secondo turno e il resto per il partito BB. Di coloro che avevano votato per altri partiti o hanno votato nullamente, il 50% ha continuato a votare nullamente e il resto è stato ripartito in modo uguale tra AA e BB. Quale partito ha vinto le elezioni del secondo turno e con quanti voti?
+>
+> - **(A)** AA con più del 47% dei voti.
+> - **(B)** BB con più del 35% dei voti.
+> - **(C)** AA con il 51% dei voti.
+> - **(D)** BB con più del 47% dei voti.
+> - **(E)** Nessuna delle dichiarazioni precedenti deriva dalle informazioni fornite.
+
+[[src_obm_2015_n2_f1__Q07]]

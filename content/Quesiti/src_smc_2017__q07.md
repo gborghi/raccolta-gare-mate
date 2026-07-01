@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2017 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2017__Q07
 parent: src_smc_2017
 competition: Senior Mathematical Challenge 2017
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find k such that sqrt(2)+sqrt(8)+sqrt(18)=sqrt(k).*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova k tale che sqrt(2)+sqrt(8)+sqrt(18)=sqrt(k).*
+
+> Il numero intero positivo $k$ soddisfa l'equazione $\sqrt{2} + \sqrt{8} + \sqrt{18} = \sqrt{k}$.
+> 
+> Qual è il valore di < MSK0/>?
+>
+> - **(A)** $28$
+> - **(B)** $36$
+> - **(C)** $72$
+> - **(D)** $128$
+> - **(E)** $288$
+
+**Risposta:** C
+[[src_smc_2017__Q07]]

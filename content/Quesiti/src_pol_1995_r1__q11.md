@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1995 — Round 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1995_r1__Q11
 parent: src_pol_1995_r1
 competition: Olimpiade Matematica Polacca 1995 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Expected difference of largest and smallest among m draws from {1,…,n}*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Differenza attesa tra i più grandi e i più piccoli tra m tratti da {1,...,n}< MSK1/>
+
+> $n > m > 1$ siano numeri razionali. Tracciamo a caso $m$ numeri distinti dal set $\{1, 2, \ldots, n\}$. Trova il valore atteso della differenza tra il più grande e il più piccolo dei numeri tratti.
+
+[[src_pol_1995_r1__Q11]]

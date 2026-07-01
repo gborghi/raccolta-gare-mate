@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f1__Q18
 parent: src_obm_2007_n1_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trip 12 min at 80 km/h, then 15 min lost; find speed to still arrive on time*
 
@@ -46,3 +49,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Viaggiare 12 minuti a 80 km/h, quindi 15 minuti persi; trovare velocità per arrivare ancora in tempo*
+
+> Inacio pensava che ci sarebbero voluti $12$ minuti per finire un viaggio, guidando a $80$ km/h su una determinata autostrada. Con una sorpresa, ha perso $15$ minuti. A che velocità costante dovrebbe guidare su quella autostrada affinché il viaggio sia ancora completato entro il tempo previsto?
+> 
+> (A) $90\text{ km/h}$ \quad (B) $95\text{ km/h}$ \quad (C) $100\text{ km/h}$ \quad (D) $110\text{ km/h}$ \quad (E) $120\text{ km/h}$
+
+[[src_obm_2007_n1_f1__Q18]]

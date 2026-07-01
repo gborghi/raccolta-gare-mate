@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2003 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo13mq_honsen__Q04
 parent: src_jmo13mq_honsen
 competition: Japan Mathematical Olympiad 2003 — Honsen (Final)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of weights of all continued fraction expansions of p/q equals q*
 
@@ -54,3 +57,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10-DDRKMteTHYfjsW5yYE7XwybI34H8OB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa dei pesi di tutte le espansioni continue delle frazioni di p/q = q*
+
+> Lasciamo che $p$ e $q$ siano integri con $q \ge 2$, e supponiamo che $p$ e $q$ siano reciprocamente copriemi. Diciamo che la sequenza di enti $(r; a_1, a_2, \ldots, a_n)$ è un ** continua espansione frazione ** di $\dfrac{p}{q}$ se tutti $a_1, a_2, \ldots, a_n$ hanno valore assoluto almeno $2$, e $$\frac{p}{q} = r + \cfrac{1}{a_1 + \cfrac{1}{a_2 + \cfrac{1}{\ddots + \cfrac{1}{a_n}}}}.$$ Per esempio, $$\frac{-10}{7} = -1 + \cfrac{1}{-3 + \cfrac{1}{2 + \cfrac{1}{-2}}}$$ quindi $(-1,\,-3,\,2,\,-2)$ è una continua espansione frazione di $\dfrac{-10}{7}$.
+> 
+> Il **peso** di un'espansione di frazione continua $(r; a_1, a_2, \ldots, a_n)$ è definito come $$(|a_1| - 1) \times (|a_2| - 1) \times \cdots \times (|a_n| - 1).$$ Per esempio, il peso dell'espansione di frazione continua $(-1;\,-3,\,2,\,-2)$ di $\dfrac{-10}{7}$ è $2$.
+> 
+> Prova che la somma dei pesi di tutte le espansioni continuate delle frazioni di $\dfrac{p}{q}$ è uguale a $q$.
+
+[[src_jmo13mq_honsen__Q04]]

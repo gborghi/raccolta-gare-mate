@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f1__Q04
 parent: src_obm_2012_n3_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Shaded area in parallelogram ABCD of area 84 divided by grid segments*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area ombrata in parallelo ABCD dell'area 84 divisa per segmenti di griglia*
+
+> I lati $AB$ e $DC$ del parallelo $ABCD$ sono stati suddivisi in 4 segmenti uguali. I lati $AD$ e $BC$ sono stati divisi in 3 segmenti uguali. I punti di divisione sono stati collegati come indicato nella figura seguente. Se la superficie di $ABCD$ è di 84, determinare la superficie ombrata.
+> 
+> **A)** 1 $\quad$ **B)** 3 $\quad$ **C)** 4 $\quad$ **D)** 7 $\quad$ **E)** 12
+
+![[src_obm_2012_n3_f1__Q04.png]]
+
+[[src_obm_2012_n3_f1__Q04]]

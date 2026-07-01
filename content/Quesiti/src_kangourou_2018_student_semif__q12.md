@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Student — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_semif__Q12
 parent: src_kangourou_2018_student_semif
 competition: Kangourou 2018 Semifinale Student
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti polinomi x^3+bx^2+cx+4 con p(2)=0 e b,c in [-2018,2018]*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2019
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eiCmb_JGZ8m51juBxVwzU6LHPuxDlbux/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many polynomials x^3+bx^2+cx+4 with p(2)=0 and b,c in [-2018,2018]*
+
+> (Points 5) Whether p (x) = x3 + bx2 + cx + 4, with b and c relative integers included between - 2018 and 2018, extremes included. For how many different polynomials p (x) do we have p (2) = 0 ?
+
+**Answer:** 2019
+[[src_kangourou_2018_student_semif__Q12]]

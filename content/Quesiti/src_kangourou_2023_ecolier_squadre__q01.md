@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre__Q01
 parent: src_kangourou_2023_ecolier_squadre
 competition: Kangourou Squadre 2023 Ecolier Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero senza cifra 1, prodotto cifre 40*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5222
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number without digit 1, product digit 40*
+
+> The largest Mariella wrote every integer greater than zero in which the number 1 does not appear and such that the product of its digits is 40. What's the biggest number Mariella has ever written?
+
+**Answer:** 5222
+[[src_kangourou_2023_ecolier_squadre__Q01]]

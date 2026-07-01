@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q22
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bound on average race speed of Papa-Leguas given first-lap speed 200 km/h*
 
@@ -56,3 +59,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rimessa alla velocità media di gara di Papa-Leguas data la velocità del primo giro di 200 km/h*
+
+> Papa-Leguas ha partecipato a una gara (insieme a Coyote e Flash) composta da giri $100$ su un circuito. Come sempre, il Coyote ha cercato di catturare Papa-Leguas e ha posto diverse trappole lungo la strada. Nel primo giro il Coyote catturò Papa-Leguas, ma la velocità media di Papa-Leguas nel primo giro era solo $200$ km/h. Sapendo questo, la velocità media di Papa-Leguas sulla gara:
+>
+> - **(A)** Non può superare < MSK0/> km/h.
+> - **(B)** Non può superare $250$ km/h, ma può superare $200$ km/h.
+> - **(C)** Non può superare $2000$ km/h, ma può superare $250$ km/h.
+> - **(D)** Non può superare $20000$ km/h, ma può superare $2000$ km/h.
+> - **(E)** Possono superare < MSK0/> km/h.
+
+**Risposta:** D
+[[src_obm_2001_n2_f1__Q22]]

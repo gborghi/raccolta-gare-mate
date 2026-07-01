@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q23
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest prime p satisfying 7x^2 - 44x + 12 = p for some integer x*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Primaria p più piccola soddisfacendo 7x^2 - 44x + 12 = p per un certo numero intero x*
+
+> Supponiamo che un intero $x$, un numero naturale $n$ e un numero primo $p$ soddisfino l'equazione $7x^2 - 44x + 12 = p$. Trova il valore più grande di $p$.
+
+[[src_prmo_2017__Q23]]

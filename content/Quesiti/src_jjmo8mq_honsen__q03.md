@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2010 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo8mq_honsen__Q03
 parent: src_jjmo8mq_honsen
 competition: Japan Junior Mathematical Olympiad 2010 — Honsen (Final)
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five segments: 9 acute triples force the 10th to be a triangle*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p2F4y-eHA_uMQrouWBYL9ACgMCFOr7Tx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+5 segmenti: 9 triples acuti costringono il decimo a essere un triangolo
+
+> Ci sono segmenti di linea $5$. Ci sono $10$ modi per scegliere $3$ di essi, e in $9$ di questi modi i segmenti scelti $3$ possono essere utilizzati come lati di un triangolo acuto. Mostrare che, per il rimanente modo $1$, i segmenti $3$ scelti possono essere utilizzati anche come lati di un triangolo.
+
+[[src_jjmo8mq_honsen__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Biennio (tradizionale) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_biennio_tradizionale__Q06
 parent: src_archimede_2021_biennio_tradizionale
 competition: Giochi di Archimede 2021 - Gara Biennio (tradizionale)
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cavalieri e furfanti nelle file dell'ufficio postale*
 
@@ -45,3 +48,19 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13VZDc49KaybwPUZqjXbTc5dNU-SYOYbh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Knights and thieves in the post office files*
+
+> On an island where only knights (who always tell the truth) and crooks (who always tell the lies) live, the post office is quite crowded. There are four lines at the gates: one with 12 people, one with 11, one with 15 and one with 14 people. Each of the present (except the first two in each row) says this sentence: Among the people in front of me in my row there are at least two thieves. How many knights are there at the post office?
+>
+> - **(A)** 36
+> - **(B)** 26
+> - **(C)** 44
+> - **(D)** It is not possible to establish
+> - **(E)** 40
+
+[[src_archimede_2021_biennio_tradizionale__Q06]]

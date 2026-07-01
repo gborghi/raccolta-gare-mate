@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2019 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_printemps__Q05
 parent: src_canimath_2019_printemps
 competition: Coupe Animath Printemps 2019
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *If floor(x^2)=floor(x)^2, show floor(x^2),floor(x^3),floor(x^4) are perfect squares*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x^3), il pavimento x^4) sono quadrati perfetti
+
+> Ricordiamo (vedi esercizio 1) che $\lfloor x \rfloor$ indica la parte integrale di un numero reale $x$.
+> 
+> Supponiamo che $x$ sia un numero reale positivo tale che $\lfloor x^2 \rfloor = \lfloor x \rfloor^2$. Mostrare che $\lfloor x^2 \rfloor$, $\lfloor x^3 \rfloor$ e $\lfloor x^4 \rfloor$ sono tutti quadrati perfetti di numeri interi.
+
+[[src_canimath_2019_printemps__Q05]]

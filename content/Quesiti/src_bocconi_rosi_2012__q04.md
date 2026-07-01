@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2012 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2012__Q04
 parent: src_bocconi_rosi_2012
 competition: Giochi di Rosi 2012
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora di partenza da casa data velocità media in bicicletta*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 10.00
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1du4nM_pjVseEMRiX1hz7hrTEkEIg-ZC2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Hour of departure from home given average bicycle speed*
+
+> Chiara and Marco made an appointment for a snack at a bar 48 km from their home (you can see that the nearest one wasn't there...). Marco left at 8:00 a.m. and, on his bicycle, kept an average speed of 18 km/h. Clara went to the appointment by car, with an average speed of 72 km/h. The good thing is that Chiara and Marco arrived at the appointment simultaneously.
+> 
+> What time did Chiara leave home?
+
+**Answer:** 10.00
+[[src_bocconi_rosi_2012__Q04]]

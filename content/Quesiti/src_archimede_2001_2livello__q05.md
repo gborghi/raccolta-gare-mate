@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2001 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_2livello__Q05
 parent: src_archimede_2001_2livello
 competition: Archimede Gara 2º livello 2001
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Identificare i nomi dei tre ragazzi dalle affermazioni*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Identify the names of the three boys from the statements*
+
+> Three boys say, respectively: Our names are Andrea, Bruno, Carlo; Our names are Andrea, Carlo, Daniel; Our names are Bruno, Daniel, Enrico. Knowing that each of them said one wrong name and two right ones, what are the names of the three?
+>
+> - **(A)** Andrew, Charles and Henry
+> - **(B)** Andrea, Bruno and Daniel
+> - **(C)** I'm not going to lie to you.
+> - **(D)** Bruno, Carlo and Daniel
+> - **(E)** The data is insufficient to answer.
+
+**Answer:** E
+[[src_archimede_2001_2livello__Q05]]

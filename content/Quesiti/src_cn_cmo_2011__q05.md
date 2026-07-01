@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2011 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2011__Q05
 parent: src_cn_cmo_2011
 competition: China Mathematical Olympiad 2011
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find maximum of ratio of weighted sums for non-negative reals*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** n-1
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il massimo del rapporto delle somme ponderate per i reali non negativi*
+
+> Numero intero $n \ge 4$. Trova il massimo di $$\frac{\sum_{i=1}^{n} a_i(a_i + b_i)}{\sum_{i=1}^{n} b_i(a_i + b_i)}$$ per i numeri reali non negativi $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n$ soddisfaci $$a_1 + a_2 + \cdots + a_n = b_1 + b_2 + \cdots + b_n > 0.$$
+
+**Risposta:** n-1
+[[src_cn_cmo_2011__Q05]]

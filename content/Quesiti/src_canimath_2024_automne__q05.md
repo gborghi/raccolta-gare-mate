@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2024 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_automne__Q05
 parent: src_canimath_2024_automne
 competition: Coupe Animath Automne 2024
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2024×2024 grid, k colors; min k so any coloring has 3 cells with distinct colors in L-shape*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2024×2024 griglia, k colori; min k in modo che ogni colorazione abbia 3 celle con colori distinti in forma L*
+
+> Considera una griglia < MSK0/>. Quentin ha $k$ colori e colori per ciascuna delle celle $2024^2$ della griglia con uno dei colori $k$, in modo che ogni colore sia utilizzato almeno una volta. Determinare il numero intero positivo più piccolo $k$ verificando la seguente proprietà:
+> 
+> Qualunque sia il colore di Quentin, si possono sempre trovare tre celle $C_1$, $C_2$ e $C_3$ di colori distinti in coppia in modo tale che $C_1$ e $C_2$ sono nella stessa riga, e $C_2$ e $C_3$ sono nella stessa colonna.
+
+[[src_canimath_2024_automne__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1991 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1991__Q03
 parent: src_inmo_1991
 competition: Indian National Mathematical Olympiad 1991
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC: prove x+y+z+xyz=0 for given tangent expressions*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gIQd9cnYLGLcUz2gYHghkHJcX-hbJoBa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC: prova x+y+z+xyz=0 per le espressioni tangenti indicate*
+
+> Date un triangolo $ABC$, indicare $$x = \tan\frac{B-C}{2}\tan\frac{A}{2}, \quad y = \tan\frac{C-A}{2}\tan\frac{B}{2}, \quad z = \tan\frac{A-B}{2}\tan\frac{C}{2}.$$ Prove che $x + y + z + xyz = 0$.
+
+[[src_inmo_1991__Q03]]

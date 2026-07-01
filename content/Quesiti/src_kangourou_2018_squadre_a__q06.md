@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2018 Semifinale A — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_a__Q06
 parent: src_kangourou_2018_squadre_a
 competition: Kangourou Coppa Squadre 2018 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore a*b*b dato b/a = a,b decimale*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 50
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value a*b*b given that b/a = a,b decimal *
+
+> Two digits Of two digits a and b (both non-zero) we know that b/a = a,b (a,b denotes a non-integer number in decimal notation). What is the value of × b × b?
+>  
+>  
+> 
+> 2
+
+**Answer:** 50
+[[src_kangourou_2018_squadre_a__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2009 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2009__Q01
 parent: src_cn_cgmo_2009
 competition: China Girls' Mathematical Olympiad 2009
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Finitely many positive integer triples satisfying abc=2009(a+b+c).*
 
@@ -45,3 +48,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fine molti tripli numeri interi positivi che soddisfano abc=2009(a+b+c).*
+
+> Mostrare che ci sono solo infinitamente molti triples $(a, b, c)$ di numeri interi positivi che soddisfano l'equazione $abc = 2009(a + b + c)$. (Posato da Ieng Tak Leong)
+
+[[src_cn_cgmo_2009__Q01]]

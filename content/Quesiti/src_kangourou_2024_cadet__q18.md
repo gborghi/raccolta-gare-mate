@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q18
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale di diminuzione di massa del fungo essiccato*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Percentage of decrease in mass of dried mushroom< MSK1/>
+
+> Water constitutes 80% of the mass of a fresh fungus. Water, on the other hand, constitutes only 20% of the mass of the same dried mushroom. What percentage decreases the mass of the fungus during drying? A) 60
+>  
+> B) 70
+>  
+> C) 75
+>  
+> D) 80
+>  
+> E) 85
+
+**Answer:** C
+[[src_kangourou_2024_cadet__Q18]]

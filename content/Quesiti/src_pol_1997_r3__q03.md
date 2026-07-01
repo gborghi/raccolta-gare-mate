@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r3__Q03
 parent: src_pol_1997_r3
 competition: Olimpiade Matematica Polacca 1997 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Medians of three faces of a tetrahedron from D make equal angles with their edges; prove an area inequality.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PdUGPXA4h0kRnc6_JAc7ObCdV2yreLSM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I medi di tre facce di un tetraedro da D fanno angoli uguali con i loro bordi; dimostrano una disuguaglianza di superficie.*
+
+> I media delle facce $ABD, ACD, BCD$ di un tetraedro $ABCD$ prelevati da $D$ fanno angoli uguali ai bordi a cui sono stati portati. Prova che la superficie di ciascuna faccia $ABD, ACD, BCD$ è inferiore alla somma delle aree delle altre due.
+
+[[src_pol_1997_r3__Q03]]

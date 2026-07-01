@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q14
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Turno con due fattori 2 nel totale mattoncini*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0502
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Turn with two factors 2 in total bricks*
+
+> Eolo and Mammolo decide to play a game together, arranging square bricks, all of the same size. Eolo stacks them up, Mammolo makes square walls. Eolo starts with a pile of a brick, Mammolo with a square of a brick (the same thing). In the second round, Eolo makes a stack of two bricks, Mammolo a square of four bricks. In the third round, Eolo makes a stack of three bricks, Mammolo a square of nine bricks. They realize they ordered 20 bricks. They decide to continue until the turn when they have set up a number of 2012 bricks. What shift do they stop at?
+
+**Answer:** 0502
+[[src_gs_2012_squadre__Q14]]

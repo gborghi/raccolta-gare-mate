@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_a__Q18
 parent: src_prmo_2015_a
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -33,6 +34,8 @@ tags:
   - regione/a
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of symmetric rational expression $P$ when $a+b+c=0$*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valore dell'espressione razionale simmetrica $P$ quando $a+b+c=0$*
+
+> Che $a$, $b$, $c$ siano tali da definire $a + b + c = 0$ e $$P = \frac{a^2}{2a^2 + bc} + \frac{b^2}{2b^2 + ca} + \frac{c^2}{2c^2 + ab}$$. Qual è il valore di < MSK5/>?
+
+**Risposta:** 1
+[[src_prmo_2015_a__Q18]]

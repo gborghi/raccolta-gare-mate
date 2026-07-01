@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f2__Q03
 parent: src_obm_2000_n2_f2
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle EGB in rectangle given angle FAE = 20°*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uvr2BmUCi_mUxzOEXueBNpo7nZjXbRHU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Find angle EGB in rettangolo dato angolo FAE = 20°*
+
+> Nel rettangolo $ABCD$, $E$ è il punto medio del lato $BC$ e $F$ è il punto medio del lato $CD$. $G$ è l'intersezione della diagonale $DE$ con il segmento $FB$.
+> 
+> L'angolo $\widehat{FAE}$ misura $20^\circ$. Trova l'angolo $\widehat{EGB}$.
+
+![[src_obm_2000_n2_f2__Q03.png]]
+
+[[src_obm_2000_n2_f2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q16
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Vertice con rapporto y/x minimo nel rettangolo*
 
@@ -64,3 +67,31 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Vertices with minimum y/x ratio in the rectangle*
+
+![[src_kangourou_2013_cadet__prob16.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw[->] (0,0) -- (4.5,0) node[right] {$x$};
+  \draw[->] (0,0) -- (0,2.5) node[above] {$y$};
+  \fill[gray!30] (1,-2) rectangle (4,-0.8);
+  \draw (1,-2) rectangle (4,-0.8);
+  \node[below left] at (1,-2) {$A$};
+  \node[below right] at (4,-2) {$B$};
+  \node[above right] at (4,-0.8) {$C$};
+  \node[above left] at (1,-0.8) {$D$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The figure shows an ABCD rectangle which • has sides parallel to the coordinate axes, • lies under the x-axis and to the right of the y-axis. For each of the vertices, we calculate the relationship between its y coordinate and its x coordinate. For which of the four points is this ratio the minimum? A) A B) B C) C D) D E) depends on the rectangle.
+
+**Answer:** A
+[[src_kangourou_2013_cadet__Q16]]

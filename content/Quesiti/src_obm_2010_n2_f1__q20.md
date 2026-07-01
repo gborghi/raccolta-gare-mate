@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q20
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cross of unit squares inscribed in larger square; find area of larger square*
 
@@ -50,3 +53,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Crosso di unità quadrate inserite in quadrato più grande; trovare area di quadrato più grande*
+
+> Una figura a forma di croce, formata da quadrati di lato $1$, è incisa in un quadrato più grande, i cui lati sono paralleli ai lati del quadrato tracciato, i cui vertici sono vertici della croce. Qual è l'area del quadrato più grande?
+>
+> - **(A)** $9$
+> - **(B)** $\dfrac{49}{5}$
+> - **(C)** $10$
+> - **(D)** $\dfrac{81}{8}$
+> - **(E)** $\dfrac{32}{3}$
+
+![[src_obm_2010_n2_f1__Q20.png]]
+
+[[src_obm_2010_n2_f1__Q20]]

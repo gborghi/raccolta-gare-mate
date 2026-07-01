@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Finale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q15
 parent: src_kangourou_2019_squadre_finale
 competition: Kangourou Coppa squadre 2019 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di cifre per braccialetto 20 perline*
 
@@ -63,3 +66,25 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0007
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of digits per bracelet of 20 beads*
+
+![[src_kangourou_2019_squadre_finale__prob15.png]]
+
+> Alice Alice composes bracelets of black and white beads, which begin and end with stoppers, following this rule: think of a number, divide it by two and if she doesn't get the remainder she inserts a black bead, if she gets the remainder she inserts a white bead; then she repeats the operation on the quotient she obtained with the previous division and goes on until she gets as quozient 1: at this point she inserts a white bead (and adds the closing stopper). For example, down here you can see the result on the left if you think 5, and the result on the right if you think 6:
+>  
+> (the non-circular shape on the left represents the stop he put on before starting work, the one on the right represents the stop he put on at the end). Alice has a random number generator that she can ask to provide numbers with a predetermined number of digits (significant). If you want to be sure you can make a bracelet with at least 20 beads, what is the minimum number of digits you need? O
+> 
+> 1
+>  
+> Kangourou of Mathematics 2019 Kangourou Cup to teams Final Cervia, 4 May 2019
+>  
+>  
+> Questions and solutions
+
+**Answer:** 0007
+[[src_kangourou_2019_squadre_finale__Q15]]

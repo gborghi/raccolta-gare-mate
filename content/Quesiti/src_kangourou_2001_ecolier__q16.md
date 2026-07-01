@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_ecolier__Q16
 parent: src_kangourou_2001_ecolier
 competition: Kangourou 2001 - Ecolier (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Fiammiferi minimi per 11 quadrati*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum firefighters for 11 squares*
+
+![[src_kangourou_2001_ecolier__prob16.png]]
+
+> Find the minimum number of matches you need to add to the figure so you get exactly 11 squares.
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6. The questions from N. 17 al N. Twenty-four is worth five points each.
+
+**Answer:** A
+[[src_kangourou_2001_ecolier__Q16]]

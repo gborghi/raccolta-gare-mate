@@ -1,6 +1,7 @@
 ---
 title: IMO 2021 papers — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2021__Q03
 parent: src_imo_2021
 competition: IMO 2021 papers
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *BC, EF, O1O2 concorrenti (punto interno D)*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VTMF3_4FUjshC9L1h1JDLd2a_dFGHkhF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*BC, EF, O1O2 competitors (internal point D) *
+
+> Whether $D$ is an inner point of the acute triangle $ABC$ with $AB > AC$, such that $\angle DAB = \angle CAD$. The $E$ point on the $AC$ segment satisfies $\angle ADE = \angle BCD$, the $F$ point on the $AB$ segment satisfies $\angle FDA = \angle DBC$, and the $X$ point on the $AC$ straight line satisfies $CX = BX$. The circus centers of the triangles $O_1$ and $O_2$ are $ADC$ and $EXD$, respectively. Demonstrate that $BC$, $EF$ and $O_1O_2$ are competitors.
+
+[[src_imo_2021__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2010 — Matematica — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2010__Q01
 parent: src_cgen_2010
 competition: Concours Général des Lycées 2010 — Matematica
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Geometric configuration: circles of diameter [AC] and [BC] tangent at C, homotheties between three circles, collinearity and radius relation*
 
@@ -59,3 +62,29 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1un5c72q0Dhvv-U-lXEfjcCDMxsLeoLaa/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Configurazione geometrica: cerchi di diametro [AC] e [BC] tangenti a C, omogeneità tra tre cerchi, collinearità e rapporto di raggio*
+
+> Problema 1: Una configurazione geometrica.
+> 
+> Nel piano, $A$, $B$, $C$ siano tre punti distinti in modo tale che $B$ non si trovi sul segmento $[AC]$. $\Gamma$ sia il cerchio di diametro $[AC]$, $\Gamma'$ sia il cerchio di diametro $[BC]$, e $D$ sia il punto diametralmente opposto a $A$ su $\Gamma$. Si suppone che i cerchi $\Gamma$ e $\Gamma'$ siano tangenti a $C$.
+> 
+> 1. giustificare che le linee $\Delta = (CF)$ e $(BD)$ siano parallele. Indicare con $G$ il loro punto di intersezione.
+> 
+> 2. Mostrare che esiste un'omogeneità con centro $C$ che trasforma $\gamma$ in $\Gamma$, e un'omogeneità con centro $F$ che trasforma $\Gamma$ in $\gamma'$.
+> 
+> 3. Determinare i centri delle omotesi che trasformano $\gamma$ in $\gamma'$.
+> 
+> 4. Let < MSK0/>. Indicare che i punti $A$, $I$, $D$ sono allineati su una linea ortogonale a $(GD)$.
+> 
+> 5. Mostra che < MSK0/>.
+> 
+> 6. Esprimere il raggio $r'$ di $\gamma'$ in funzione dei raggi $R$ e $r$ di $\Gamma$ e $\gamma$.
+> 
+> (Nota: la dichiarazione stampata utilizza diverse etichette di punti/cerchi che sono parzialmente illeggibili nella scansione sorgente; vedi avvertenze.)
+
+[[src_cgen_2010__Q01]]

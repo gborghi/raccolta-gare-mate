@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q05
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma numeri 4 cifre con vincoli su somme e parita cifre*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7920
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of 4-digit numbers with constraints on sums and even digits*
+
+> Music piracy All MSK0/>-rates love music, but those who are truly purist don't want to pay for it, and they just navigate until they find the opportunity to download it illegally (from captured ships! That you understood!). Jack is on the trail of a shipment of 3-man Pirate Menestrelli and to know where to intercept the ship carrying them he must find all the four-digit numbers such as:
+> 
+> 2/4 Team competition 2010  National Final  Problem texts the sum of the first and third digits is equal to the sum of the second and fourth digits and is equal to 9; there are no two odd numbers nearby; the first digit (i.e. the thousand) is less than the second and fourth. The sum of all the numbers satisfying these requirements represents the loading coordinates. Determine that amount.
+
+**Answer:** 7920
+[[src_gas_2010_finale__Q05]]

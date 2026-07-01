@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q14
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero quadrato e triangolare maggiore di 1000*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1225
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum square and triangular number greater than 1000*
+
+> Weighed reinforcements Areagorn must seek to increase the company's army, and asks for reinforcements from Divisor, Regent of Minas Torith, famous for his parsimony. Areagorn says to Divisor, "I need at least 1,000 of your men. Their number has to be a perfect square, so I'd like to square them, but I'd like to be able to square them in a triangle. In the n-eighth exactly n). Divisor thinks about it a little bit and then he answers: All right, they shouldn't be too many, I'll give you the minimum necessary! How many warriors will Divisor send?
+
+**Answer:** 1225
+[[src_gas_2009_finale__Q14]]

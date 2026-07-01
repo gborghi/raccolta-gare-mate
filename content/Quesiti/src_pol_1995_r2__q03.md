@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1995 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1995_r2__Q03
 parent: src_pol_1995_r2
 competition: Olimpiade Matematica Polacca 1995 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive irrationals a,b,c,d with a+b=1; show c+d=1 iff floor(na)+floor(nb)=floor(nc)+floor(nd) for all positive integers n.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IUdNsY6k3NBvCtz5O5bsfPYRhNuq3LFN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Irazionali positivi a,b,c,d con a+b=1; mostrare c+d=1 se il piano n) + piano n) = piano n) + piano n) per tutti gli integri positivi n.*
+
+> $a, b, c, d$ siano numeri irrazionali positivi con $a + b = 1$. Indicare che $c + d = 1$ se e solo se $[na] + [nb] = [nc] + [nd]$ per tutti gli integri positivi $n$.
+
+[[src_pol_1995_r2__Q03]]

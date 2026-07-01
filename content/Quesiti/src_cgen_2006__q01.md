@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2006 — Matematica — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2006__Q01
 parent: src_cgen_2006
 competition: Concours Général des Lycées 2006 — Matematica
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Iterated digit-rearrangement map f_q on the decimal digits of an integer; periodicity, fixed points and divisibility criteria*
 
@@ -55,3 +58,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g6KpfZ2CgV1vLC5RFzksxLovNhazAWfz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mappa di riorganizzazione dei numeri iterata f_q sui numeri decimali di un numero intero; periodicità, punti fissi e criteri di divisibilità*
+
+> Se $n$ è un numero naturale strettamente positivo, scrivete $\overline{a_i a_{i-1} \ldots a_1 a_0}$ per la sua rappresentazione decimale. Quindi $n = 10^i a_i + 10^{i-1} a_{i-1} + \cdots + 10 a_1 + a_0$, dove le cifre $a_j$, $0 \le j \le i$, si trovano tra $0$ e $9$, e $a_i \neq 0$. Indicare con $q$ un numero intero tra $1$ e $9$ inclusivo, impostare $p = 10q - 1$ e considerare la funzione $f_q$ che associa al numero intero $n = \overline{a_i a_{i-1} \ldots a_1 a_0}$ il numero intero: $$f_q(n) = \overline{a_i a_{i-1} \ldots a_1} + q a_0 \text{ if } i \neq 0, \text{ then } f_q(n) = q a_0 \text{ if } i = 0.$$ Infine, con il numero intero $q$ fisso, associare a ogni numero intero $n$ la sequenza $(n_k)$ definita dalle relazioni $n_0 = n$ e, per ogni numero naturale $k$, $n_{k+1} = f_q(n_k)$. Ad esempio, se si fissa $q = 5$, la sequenza associata a $4907$ è $4907, 525, 77, 42, 14, 21, 7, 35, 28, 42, 14, \ldots$
+> 
+> 1. Verificare che < MSK0/>. Riduzione di < MSK1/>. 2. a. Indicare che, se $m > p$, allora $f_q(m) < m$. b. Deduci che per ogni numero intero $n$, esiste un numero intero $j$ tale che $n_j \le p$. 3. a. Indicare che, se $m < p$, allora $f_q(m) < p$. b. Deduci che per ogni numero intero $n$, la sequenza $(n_k)$ è periodica da un certo rango su, cioè esistono numeri interi $k$ e $T$ ($T > 0$) tali che $n_{j+T} = n_j$ per tutti $j \ge k$. 4. Stabilire che, per ogni numero intero $n$, $f_q(n)$ è congruente a $q \times n$ modulo $p$. 5. Per quali valori di $q$ la funzione $f_q$ ha punti fissi (cioè enti $m$ tali che $f_q(m) = m$) diversi da $p$? Quali sono questi punti fissi in quel caso? 6. Indicare che, per le scelte appropriate di $q$, lo studio della sequenza $(n_k)$ associata a un numero intero $n$ fornisce criteri di divisibilità di $n$ da $9$, $19$, $29$, $13$, $49$ e $7$. Indicare questi criteri.
+
+[[src_cgen_2006__Q01]]

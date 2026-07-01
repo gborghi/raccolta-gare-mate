@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q11
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Con quanti fiammiferi e impossibile fare un triangolo*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+With so many matches, it's impossible to make a triangle.
+
+> I have matches that are all the same between them that I have to build a triangle with: I can align them, but I can't overlay or break them and I have to use them all. With what number of matches, of the following, is this impossible? A) 7 B) 6 C) 5 D) 4 E) 3
+
+**Answer:** D
+[[src_kangourou_2008_benjamin_marzo__Q11]]

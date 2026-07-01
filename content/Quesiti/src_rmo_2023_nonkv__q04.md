@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2023 — Non-KV — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2023_nonkv__Q04
 parent: src_rmo_2023_nonkv
 competition: Regional Mathematical Olympiad 2023
@@ -35,6 +36,8 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two intersecting circles; perpendicular bisectors and collinearity of midpoints*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o7iLlUQAhl19zj3fiRO4A18L1eOLmVoI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi che si intersecano; bisettori perpendicolari e collinearità dei punti di mezzo*
+
+> Il $\Omega_1, \Omega_2$ deve essere costituito da due cerchi intersezionati con rispettivamente i centri $O_1, O_2$. La linea $l$ interseca $\Omega_1$ nei punti $A, C$ e $\Omega_2$ nei punti $B, D$ in modo tale che $A, B, C, D$ siano collineari in tale ordine. Il bisettore perpendicolare del segmento $AB$ interseca $\Omega_1$ nei punti $P, Q$ e il bisettore perpendicolare del segmento $CD$ interseca $\Omega_2$ nei punti $R, S$ in modo tale che $P, R$ sia sullo stesso lato di $l$. Provare che i punti di mezzo di $PR$, $QS$ e $O_1 O_2$ sono collineari.
+
+[[src_rmo_2023_nonkv__Q04]]

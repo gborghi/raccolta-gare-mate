@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q10
 parent: src_archimede_2025_squadre_finale
 competition: Gara a Squadre Nazionale 2025 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo rettangolo con condizione su circocentro, AC*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4050
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangle with condition on circus, AC*
+
+![[src_archimede_2025_squadre_finale__prob10.png]]
+
+> O.W.C.A. Major MonoGraham: Curl! There is no moment of peace... Il Dr. DoofenSchwartz built a triangle-rectangle-inator, which generates rectangular triangles. Contact all O.W.C.A. agents immediately! Curl:  Done! The agent π is not contactable. However, agent δ discovered that the last ABC triangle created by DoofenSchwartz is a rectangle in B, and that the tangents at the circumference of diameter AC in B and C meet in X. Instead, agent α discovered that the circumcenter of the triangle BCX lies on the circumference of diameter AC. Major MonoGraham: To disable the machinery, all we have to do is understand how much the sides AB and AC measure.... Curl: Agent γ just told me that the AB side is 202 feet, sir. How many feet does AC measure? 2025 Team Competition  National Final  Problem Tests  2/4
+
+**Answer:** 4050
+[[src_archimede_2025_squadre_finale__Q10]]

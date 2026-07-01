@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student (20 marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student__Q01
 parent: src_kangourou_2003_student
 competition: Kangourou 2003 Student (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Da quante carrozze e composto il treno*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many carriages and what the train is made of*
+
+> On the train journey to Mirabilandia, Lisa sits in the seventh carriage from the train's head, while Marco sits in the sixth carriage from the tail; Marco is closer than Lisa to the train's head and among their carriages there is another carriage. How many carriages is the train made of? (a) 15 (b) 14 (c) 13 (d) 10 (e) indefinite reply
+
+**Answer:** D
+[[src_kangourou_2003_student__Q01]]

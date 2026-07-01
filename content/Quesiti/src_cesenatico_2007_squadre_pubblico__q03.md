@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q03
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area parallelogramma formato dalle intersezioni dei segmenti*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A parallelogram area formed by the intersections of segments*
+
+> A reason for pride [20] The front cover is the symbol that every morning in the village of Retta wears proudly. Today Numeruto is required to build himself from his front. Numbering starts from an ABCD parallelogram of area 12600. After that, it denotes with E, F, G, H the mean points of the sides AB, BC, CD, DA respectively and finally traces the segments AG, BH, CE, DF. Calculate the area of the parallelogram at the vertices of the intersections of these four segments.
+
+[[src_cesenatico_2007_squadre_pubblico__Q03]]

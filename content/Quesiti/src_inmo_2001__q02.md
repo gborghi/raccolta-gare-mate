@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2001 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2001__Q02
 parent: src_inmo_2001
 competition: Indian National Mathematical Olympiad 2001
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equation x²+y²+z²=(x-y)(y-z)(z-x) has infinitely many integer solutions*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Van8ZbsC23pGnfRdmefmg28k68xgx-NG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione x2+y2+z2=(x-y)(y-z)(z-x) ha infinite soluzioni interi*
+
+> Mostrare che l'equazione $$x^2 + y^2 + z^2 = (x - y)(y - z)(z - x)$$ ha infinite soluzioni in numeri interi $x, y, z$.
+
+[[src_inmo_2001__Q02]]

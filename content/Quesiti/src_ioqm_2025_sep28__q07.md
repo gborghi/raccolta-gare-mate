@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q07
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -35,6 +36,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers n ≤ 100 divisible by all i with i^3 ≤ n*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi positivi n ≤ 100 divisibili per tutti i con i^3 ≤ n *
+
+> Quanti integri positivi $n \le 100$ sono divisibili da tutti gli integri positivi $i$ in modo tale che $i^3 \le n$?
+
+[[src_ioqm_2025_sep28__Q07]]

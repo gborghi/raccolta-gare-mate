@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q22
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *rapporto PQ/QR*
 
@@ -72,3 +75,41 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The following information is provided in the following table:
+
+![[src_kangourou_2014_marzo_student__prob22.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.5]
+  \coordinate (P) at (0,0);
+  \coordinate (Q) at (1.414,0);
+  \coordinate (R) at (1.414,1);
+  \coordinate (S) at (0,1);
+  \coordinate (T) at (0.707,1);
+  \draw (P) -- (Q) -- (R) -- (S) -- cycle;
+  \draw (P) -- (R);
+  \draw (Q) -- (T);
+  \node[below left] at (P) {$P$};
+  \node[below right] at (Q) {$Q$};
+  \node[above right] at (R) {$R$};
+  \node[above left] at (S) {$S$};
+  \node[above] at (T) {$T$};
+  \fill (P) circle (1pt);
+  \fill (Q) circle (1pt);
+  \fill (R) circle (1pt);
+  \fill (S) circle (1pt);
+  \fill (T) circle (1pt);
+\end{tikzpicture}
+\end{document}
+```
+
+> In the PQRS rectangle, we call T the middle point of the RS side. We know that QT is perpendicular to the PR diagonal. What 's the ratio between the length of PQ and the length of QR ? A) 2 : 1 B) √3 : 1 C) 3 : 2 D) √2 : 1 E) 5 : 4
+
+**Answer:** D
+[[src_kangourou_2014_marzo_student__Q22]]

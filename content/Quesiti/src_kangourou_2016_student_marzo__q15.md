@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q15
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rettangoli area 2016 tagliabili in 56 quadrati interi*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*2016 area rectangles cut into 56 whole squares*
+
+> Diana cuts a 2016 area rectangle into 56 equal square pieces. We know that measurements on both sides of the rectangle and sides of the squares are integers. How many different rectangles between them can Diana perform this operation for? A) 2
+> 	
+> B) 4
+> 	
+> C) 6
+> 	
+> D) 8
+> 	
+> E) 0
+
+**Answer:** B
+[[src_kangourou_2016_student_marzo__Q15]]

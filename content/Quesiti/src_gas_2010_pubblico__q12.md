@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Gara del Pubblico — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_pubblico__Q12
 parent: src_gas_2010_pubblico
 competition: Gara a Squadre 2010 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero veritieri in rettangolo con affermazioni sui vicini*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9494
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of truths in a rectangle with neighbour statements*
+
+> The Pearl Jam [50] The Pearl Jam is divided into two factions: those loyal to Jack, who always tell the truth, and those loyal to Bourbakossa, who always tell the lie. Everyone stands on the bridge in a rectangle 1726 × 11 and everyone says out loud to each of those next to him: He serves Jack or He serves Bourbakossa indicating him (those at the top will say 2 phrases, those on the sides will say 3 and those inside will say 4). Knowing that every person says exactly once, "He needs Jack", how many people are loyal to Jack at most?
+
+**Answer:** 9494
+[[src_gas_2010_pubblico__Q12]]

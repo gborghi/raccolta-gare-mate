@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q20
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Per quanti metri cammina il gatto lungo il vialetto*
 
@@ -58,3 +61,21 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*For how many meters the cat walks along the alley*
+
+![[src_kangourou_2019_ecolier_marzo__prob20.png]]
+
+> A driveway has the dimensions shown in the figure. A cat walks along the stretched line that is exactly halfway along each straight stretch of the driveway. How many feet does a cat walk? A) 63
+> 	
+> B) 68 C) 69 D) 71
+> 	
+> E) 83 8 m 6 m 20 m 40 m 36 m 28 m
+>
+
+**Answer:** E
+[[src_kangourou_2019_ecolier_marzo__Q20]]

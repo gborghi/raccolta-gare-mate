@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Semifinale 1 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_semifinale1__Q16
 parent: src_squadre_2024_semifinale1
 competition: Gara a Squadre 2024 - Semifinale 1
@@ -25,6 +26,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma k con successione che raggiunge 2024*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2277
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary k in succession to 2024*
+
+> Even this time, Inspector Zenonigata put Lupin/3 in the corner proposing the succession an, which follows the following law: for each n > 1 we have that an = an−1 +2an−2 +3an−3 +...+(n−1)a1 and also a1 = k for some whole k. Zenonigata asks whether Lupin/3 knows how to calculate the sum of all the values of k for which n such as an = 2024 exists. The thief, equally mocked, responds correctly and escapes, leaving Zenonigata to eat his hands for the wasted opportunity. What did Lupin/3 say? Team competition 2024  Semifinal 1  Problem tests  2/2
+> 
+> XXV National Semifinal Team Competition 1  Friday 3 May 2024 Ministry of Education and Merit Solutions Nr. The problem
+
+**Answer:** 2277
+[[src_squadre_2024_semifinale1__Q16]]

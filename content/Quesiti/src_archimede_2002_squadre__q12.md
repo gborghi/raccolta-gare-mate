@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q12
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *triangolo coordinato, punti interi*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0064
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*coordinated triangle, whole points *
+
+> **The triangle of Bernardo**  30 points
+> 
+> On his square notebook Bernardo is about to draw a triangle of vertices $(0, 0)$, $(1, n)$ and $(n, 1)$. What is the smallest $n$ to choose for at least 2002 whole-coordinate * inner * points in the triangle?
+
+**Answer:** 0064
+[[src_archimede_2002_squadre__Q12]]

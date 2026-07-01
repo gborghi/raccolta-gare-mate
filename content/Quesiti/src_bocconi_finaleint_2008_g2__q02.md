@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 2) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g2__Q02
 parent: src_bocconi_finaleint_2008_g2
 competition: >-
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio di cammelli e dromedari.*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 15 bestie
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting of camels and dromedaries.*
+
+> A herd consists of camels and dromedaries (at least one animal of each species). There are a total of 29 gobs. How many animals does the herd include at least? Remember, a camel has two hoofs and a dromedary has only one.
+
+**Answer:** 15 bestie
+[[src_bocconi_finaleint_2008_g2__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q23
 parent: src_kangourou_2019_junior_marzo
 competition: Kangourou 2019 Gara marzo Junior (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale terna non compare nella sequenza 1..99 a gruppi di 3*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which tern does not appear in sequence 1.99 in groups of 3*
+
+> The integers 1 to 99 are written one after the other in increasing order, leaving no spaces between them. The sequence thus obtained is sequenced every three digits, thus obtaining a sequence of terne ordered by digits, as suggested below: 123456789101112...979899! (123) (456) (789) (101) (112) … (979) (899). Which of the following does not appear in the sequence of the terns? A) (222) B) (444) C) (464) D) (646) E) (888)
+
+**Answer:** B
+[[src_kangourou_2019_junior_marzo__Q23]]

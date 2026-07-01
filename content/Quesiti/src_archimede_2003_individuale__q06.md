@@ -1,6 +1,7 @@
 ---
 title: Archimede 2003 - Gara Nazionale Individuale (Cesenatico) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_individuale__Q06
 parent: src_archimede_2003_individuale
 competition: Archimede 2003 - Gara Nazionale Individuale (Cesenatico)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *persone a tavola rotonda, posti contrassegnati*
 
@@ -40,3 +43,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1z9XJ4zwVGyArw1MyYDhdpDLSa62ucfsX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*round table person, places marked*
+
+> People were invited to a lunch, sitting around a round table, whose seats were marked $1$ to $n$ by appropriate signposts, distributed by a master ceremonialist.
+> 
+> The ceremony master decided to serve the ports following an original procedure: he chooses an invitation, serves it, then moves in the anti-hour direction of a number of places equal to the signpost number of the newly served guest, serves the corresponding guest to whom he is now, and so on, always moving in the anti-hour direction according to the signpost number of the last served guest.
+> 
+> Determine for which $n$ the Master Ceremonial Officer may arrange the signs so that the Master Ceremonial Officer may, starting from a suitable guest and following the procedure described, serve all the diners.
+
+[[src_archimede_2003_individuale__Q06]]

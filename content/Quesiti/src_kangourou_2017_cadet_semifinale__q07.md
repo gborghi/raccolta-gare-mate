@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q07
 parent: src_kangourou_2017_cadet_semifinale
 competition: Kangourou 2017 Cadet (semifinale individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Resto della divisione di 97531x1468 per 15*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Remaining partition of 97531x1468 by 15< MSK1/>
+
+> (Points 5) Denotes with N the product of 97531 for 1468. What's the rest of the division of N by 15?
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 8
+> - **(D)** 13
+> - **(E)** 14 1 2 3 4 10 m
+
+**Answer:** A
+[[src_kangourou_2017_cadet_semifinale__Q07]]

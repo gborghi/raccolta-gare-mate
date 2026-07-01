@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_biennio__Q06
 parent: src_archimede_2025_biennio
 competition: Giochi di Archimede 2025 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scegliere due libri di generi differenti*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18_HJOvj5XdZGR_vwwSmhkGXfDLuHPlIX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Choose two books of different genres*
+
+> For Richard's birthday, his friends decided to give him two books of different genres. They're unsure about three books of poetry, five fantasy and six horror. How many ways can they choose their birthday present?
+>
+> - **(A)** 33
+> - **(B)** 45
+> - **(C)** 60
+> - **(D)** 63
+> - **(E)** 48
+
+**Answer:** D
+[[src_archimede_2025_biennio__Q06]]

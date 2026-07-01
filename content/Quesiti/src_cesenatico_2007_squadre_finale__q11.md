@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q11
 parent: src_cesenatico_2007_squadre_finale
 competition: Gara a Squadre Cesenatico 2007 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Media aritmetica forze vitali dato insieme delle medie da 3*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Arithmetic mean life forces given together with mean of 3*
+
+> Group vitality A group of 10 mornings meet before a mission. If the sum of the values obtained by calculating the arithmetic mean of the life forces of each possible group of three moreninja is 2.4,...,240 (the even numbers between 2 and 240), what is the arithmetic mean of the life force of the whole group of 10 moreninja?
+
+[[src_cesenatico_2007_squadre_finale__Q11]]

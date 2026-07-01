@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_pubblico__Q07
 parent: src_gas_2009_pubblico
 competition: Gara a Squadre 2009 - Gara del Pubblico
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Disposizioni a tavola rotonda con vincoli di vicinanza*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6048
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Round table layouts with proximity constraints*
+
+> Meeting in Riemandell [30] El-Romb organized a meeting in Riemandell between representatives of the various races. Four elves, three dwarves and three men will come and sit around a round table with 10 seats. However, elves and dwarves do not agree to sit next to each other: how many ways can El-Romb arrange the 10 guests at the table? (Note: two arrangements are considered equal if they are obtained from each other by rotation, but different if they are obtained by symmetry. All guests should be considered different and distinctive.)
+
+**Answer:** 6048
+[[src_gas_2009_pubblico__Q07]]

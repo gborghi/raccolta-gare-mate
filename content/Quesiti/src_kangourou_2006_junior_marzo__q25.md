@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q25
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazioni del cubo con 6 colori*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Color of the cube with 6 colours< MSK1/>
+
+> You have six different colors available to color the six faces of a cube: you can only use one color per face and you have to use all the colors. How many different colors of the cube are possible? (Two colours are understood to be different if and only if they cannot be obtained from each other by rotating the cube.)
+
+**Answer:** B
+[[src_kangourou_2006_junior_marzo__Q25]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q15
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dimensione griglia se 9 quadratini colorati*
 
@@ -68,3 +71,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Grid size if 9 coloured squares*
+
+> Anna colors the squares that lie on the diagonals of a square grid. What's the size of the grid, if Anna's colored in all nine squares? A) 3 x 3 B) 4 x 4 C) 8 x 8 D) 9 x 9 E) None of the above. 4 3 2 1 A B C D E B C 2 A + A B A = 4 B A 2 4 3 2 1 A 4 3 2 1
+> 
+> I'm going to pay. I'm going to pay. 13 13 Kang 2007 Kang
+
+**Answer:** E
+[[src_kangourou_2007_benjamin_marzo__Q15]]

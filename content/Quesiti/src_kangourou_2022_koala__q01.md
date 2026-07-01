@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Koala — Gioco Koala — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_koala__Q01
 parent: src_kangourou_2022_koala
 competition: Kangourou 2022 Koala — Gioco Koala
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale scatola contiene più triangoli*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Nyec1GxOQ3f28I_D0c1kacejlV99W-GD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which box contains more triangles< MSK1/>
+
+![[src_kangourou_2022_koala__prob1.png]]
+
+> Which of these five boxes contains more triangles than all the others? (see figure)
+
+**Answer:** B
+[[src_kangourou_2022_koala__Q01]]

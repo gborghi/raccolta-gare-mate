@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2019 - 2° livello — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_2livello__Q10
 parent: src_archimede_2019_2livello
 competition: Archimede Gara di Febbraio 2019 - 2° livello
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazione interi con 6 colori, condizioni*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Full colour with 6 colours, conditions*
+
+> Jacopo has 6 colors (including white) available to color all integers. It does, however, want to respect these conditions: n and n + 5 must have the same color for every n integer and also if ab is white, then at least one between a and b must be white. How many ways can Jacopo color the interiors?
+>
+> - **(A)** 156
+> - **(B)** 656
+> - **(C)** 3181
+> - **(D)** 3906
+> - **(E)** 3936
+
+**Answer:** E
+[[src_archimede_2019_2livello__Q10]]

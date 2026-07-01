@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q27
 parent: src_kangourou_2015_marzo_benjamin
 competition: Kangourou 2015 gara 19 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Treno 12 carrozze, scompartimenti per carrozza*
 
@@ -49,3 +52,23 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1AiqamuCK6oQtEOLFArlQVHEyWohLlfzH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Train 12 carriages, compartments for each carriage*
+
+> A train has 12 carriages, each divided into the same number of compartments. Michele is travelling on the third carriage and, counting from the first after the locomotive, is in the 18th compartment. Sofia sits in the seventh carriage and, counting from the locomotive, her compartment is the 50th. How many compartments are there in each carriage? A) 9
+> 	
+> B) 8
+> 	
+> C) 7
+> 	
+> D) 6
+> 	
+> E) 12
+>
+
+**Answer:** B
+[[src_kangourou_2015_marzo_benjamin__Q27]]

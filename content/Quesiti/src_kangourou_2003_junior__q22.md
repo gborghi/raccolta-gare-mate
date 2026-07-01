@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior (20 marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior__Q22
 parent: src_kangourou_2003_junior
 competition: Kangourou 2003 Junior (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area rettangolo OPCQ (cerchio inscritto)*
 
@@ -71,3 +74,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*OPCQ rectangular area (inscribed circle) *
+
+![[src_kangourou_2003_junior__prob22.png]]
+
+> The rectangle ABCD has an area of 36 cm2. A circle with center at the point O is inscribed in the triangle ABD. What is the area of the OPCQ rectangle? A) 24 cm2 B) 6 ? (c) 18 cm2 D) 12 cm2 E) It cannot be determined because it depends on the ratio of the lengths of the sides of the rectangle. 2 1 2 ? 1 3 ? 2 5 ? 2 7 ? 5 Q C O P B 26 10 15 9
+> 
+> I'm going to pay. I'm going to pay. 26 26 Kang 2003 Kang
+
+**Answer:** C
+[[src_kangourou_2003_junior__Q22]]

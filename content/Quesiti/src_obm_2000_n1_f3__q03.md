@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f3__Q03
 parent: src_obm_2000_n1_f3
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two card decks: arrange 100 cards face-down showing all numbers 1–100*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csqbUn65E6HGiTeTIKmM4uG05E1nqqH2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due mazze di carte: organizzare 100 carte a faccia in giù con tutti i numeri 1100*
+
+> Isabel ha due mazzi, ognuno con carte $50$. In ciascuno dei due mazzi sono scritti i numeri da $1$ a $100$, un numero su ciascuna faccia delle carte (cioè due numeri per carta). A causa di un difetto di stampa, la distribuzione dei numeri delle schede non è uguale in entrambi i mazzi (ad esempio, in un mazzo il numero $1$ appare sulla stessa scheda come $2$; nell'altro, $1$ appare con $0$). Mostrare come Isabel può organizzare le carte $100$ a faccia in giù su un tavolo in modo che, quando le carte sono rivolte a faccia in su, vengono mostrati tutti i numeri da $1$ a $100$.
+
+[[src_obm_2000_n1_f3__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2006 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2006__Q06
 parent: src_cn_cmo_2006
 competition: China Mathematical Olympiad 2006
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum n so union condition forces three subsets with nonempty intersection*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 41
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum n così condizione di unione costringe tre sottoinsiemi con intersezione non vuota*
+
+> $X$ deve essere un insieme di 56 elementi. Trovare il numero intero $n$ meno positivo in modo tale che per ogni 15 sottoinsieme di $X$, se l'unione di ogni 7 di questi 15 sottoinsiemi contiene almeno $n$ elementi, allora esistono 3 dei 15 sottoinsiemi la cui intersezione non è vuota.
+
+**Risposta:** 41
+[[src_cn_cmo_2006__Q06]]

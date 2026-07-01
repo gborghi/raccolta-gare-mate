@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2007 — Quesito
   9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2007__Q09
 parent: src_bocconi_finalenaz_2007
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2007
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare le frasi del box indicando quanti multipli di 3, 4 e 5 contiene*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6 numeri multipli di 3; 5 numeri multipli di 4; 4 numeri multipli di 5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete the sentences in the box indicating how many multiples of 3, 4 and 5 it contains*
+
+> IN THIS box, there are ...... numbers that are multiples of 3 In this box, there are ...... numbers that are multiples of 4 In this box, there are ...... numbers that are multiples of 5 Complete the sentences in the box with numbers (written in numbers) so that all the sentences in the box are simultaneously true.
+
+**Answer:** 6 numeri multipli di 3; 5 numeri multipli di 4; 4 numeri multipli di 5
+[[src_bocconi_finalenaz_2007__Q09]]

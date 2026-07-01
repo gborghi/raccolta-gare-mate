@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Pre-Ecolier — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_preecolier__Q17
 parent: src_kangourou_2013_preecolier
 competition: Kangourou 2013 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Fratelli e sorelle di Matteo*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ykejBpK7Wiwv-x_5BvjdytAue5Y_N6nU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The brothers and sisters of Matthew
+
+> Isabella has three brothers and three sisters. How many brothers and sisters does your brother Matthew have? A) Three brothers and three sisters. B) Three brothers and four sisters. C) Two brothers and three sisters. D) Three brothers and two sisters. E) Two brothers and four sisters.
+
+**Answer:** E
+[[src_kangourou_2013_preecolier__Q17]]

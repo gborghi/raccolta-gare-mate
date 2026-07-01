@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre__Q06
 parent: src_kangourou_2022_kangourou_squadre
 competition: Kangourou Squadre 2022 Kangourou Finale 1
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore n perché 1/n moltiplicata per 2022*
 
@@ -43,3 +46,17 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4043
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kPr4pxe9JLW6PscULmAS1patprSg1xRs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value n because 1/n multiplied by 2022*
+
+> The denominator If we add the denominator to the numerator and the denominator of the 1/3 fraction, we get 4/6 = 2/3 which is twice the fraction from which we started. If we want the fraction 1/n to be multiplied by 2022, by performing a similar operation, how much should n be? C V
+> 
+>  
+> 2
+
+**Answer:** 4043
+[[src_kangourou_2022_kangourou_squadre__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q11
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie ordinate di sintomi con implicazione transitiva*
 
@@ -106,3 +109,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0082
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Ordered pairs of symptoms with transient implication< MSK1/>
+
+![[src_squadre_2018_femminile__prob11.png]]
+
+> The Planar Express team has been joined by John Zornberg, a longtime friend of Professor Fredholm. It's an alien from the planet Decapod 10, resembling a large lobster. Fry's hired him as medical director. His skills were crucial when, on arriving for a delivery on the third planet Cese-Na-Tic, an infection was discovered. Zornberg managed to map the disease's symptoms as follows: he introduced the notation P Q  to indicate that those with symptom P also have symptom Q. Then he determined all the symptoms of the disease and called them A, B, C, D, E, F, G, H, I, L, M and N. Finally, he determined the following fundamental links: A B  , B C  , C D  , D E  , E A  , C F  , F G  , G H  , H I  , I G  , L A  , L M  , L N  , N L  , M L  and noted that, knowing that P Q  and Q R  , he knows that P R  too. To rule out the terrible disease, it was necessary to calculate all ordered pairs of different symptoms P and Q among the 12 listed, such as P Q  . How many of these couples are ordered?
+
+**Answer:** 0082
+[[src_squadre_2018_femminile__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Écolier (gara marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q05
 parent: src_kangourou_2017_ecolier_marzo
 competition: Kangourou 2017 Écolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei due numeri coperti dalla macchia (addizione)*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the two numbers covered by the stain (addition) *
+
+![[src_kangourou_2017_ecolier_marzo__prob5.png]]
+
+> The figure shows an add-on table in which the sums were drawn correctly. The chart has been stained. What is the sum of the two numbers in the cells covered by the stain? A) 30
+> 	
+> B) 32
+> 	
+> C) 33 D) 34
+> 	
+> E) 36
+
+**Answer:** E
+[[src_kangourou_2017_ecolier_marzo__Q05]]

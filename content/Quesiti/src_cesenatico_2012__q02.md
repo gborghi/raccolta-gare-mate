@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012__Q02
 parent: src_cesenatico_2012
 competition: Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi uguali a 300 volte la somma delle proprie cifre*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2700
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BVUN2Bz52Jm2vo9MCNXxGskJnttPAfkt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interies equal to 300 times the sum of their digits*
+
+> Determine all positive integers equal to 300 times the sum of their digits.
+
+**Answer:** 2700
+[[src_cesenatico_2012__Q02]]

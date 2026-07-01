@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2016-17 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2016-17_round2__Q02
 parent: src_bmo_2016-17_round2
 competition: British Mathematical Olympiad 2016-17 — Round 2
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove the sequence a_n = sum_{i=1}^{n} floor(n/i) satisfies a_{n+1}>a_n and a_{n+1}=a_n both infinitely often*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OZ7MO6JOvySxWSnVFx5p_g4iJo_by7ja/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la sequenza a_n = somma_{i=1}^{n} piano(n/i) soddisfa a_{n+1}>a_n e a_{n+1}=a_n entrambi infinitamente spesso*
+
+> $\lfloor x \rfloor$ indichi il numero intero più grande inferiore o uguale al numero reale $x$. Considerare la sequenza $a_1, a_2, \ldots$ definita da $$a_n = \sum_{i=1}^{n} \left\lfloor \frac{n}{i} \right\rfloor$$ per gli integri $n \ge 1$. Prove che $a_{n+1} > a_n$ per infinite $n$, e $a_{n+1} = a_n$ per infinite $n$.
+> 
+> [Questi sono alcuni esempi di utilizzo di $\lfloor\cdot\rfloor$: $\lfloor 2 \rfloor = 2$, $\lfloor 1.7 \rfloor = 1$, $\lfloor -1.7 \rfloor = -2$.]
+
+[[src_bmo_2016-17_round2__Q02]]

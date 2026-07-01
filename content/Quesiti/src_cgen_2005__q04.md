@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2005 — Matematica — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2005__Q04
 parent: src_cgen_2005
 competition: Concours Général des Lycées 2005 — Matematica
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Discrete logarithm modulo a prime: primitive roots, definition and existence of the discrete log, an elementary algorithm, and Adleman's index-calculus method with a probabilistic complexity analysis.*
 
@@ -108,3 +111,53 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rEB9uBD886_GOlWlnaWMbpsJf-6HZvT3/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Logaritmo discreto modulo a primo: radici primitive, definizione e esistenza del registro discreto, un algoritmo elementare e il metodo di calcolo dell'indice di Adleman con un'analisi di complessità probabilistica.*
+
+> Se $m_1$ e $m_2$ sono due integri tali da $m_1\leq m_2$, indichiamo con $[m_1;m_2]$ l'insieme di integri $k$ tali da $m_1\leq k\leq m_2$.
+> 
+> Se $a$, $b$ e $n$ sono tre integri, si nota $a\equiv b\ (\mathrm{modulo}\ n)$ quando $a$ e $b$ sono modulo congruente $n$, cioè quando $b-a$ è un multiple di $n$.
+> 
+> Durante tutto questo esercizio, $p$ designa un numero primo.
+> 
+> **4.1 Definizione del logaritmo discreto**
+> 
+> Per tutti $A\in\mathbb{N}$, notiamo $(A \bmod p)$ il resto della divisione euclidiana di $A$ da $p$. È il numero intero unico di $[0;p-1]$ congruente a $A$ modulo $p$.
+> 
+> Un numero intero $x\in[1;p-1]$ è chiamato modulo radice primitiva $p$ quando l'insieme del $(x^k \bmod p)$ per $k\in N$ è l'insieme $[1;p-1]$, vale a dire quando le potenze di $x$, modulo calcolato $p$, descrivono interamente $[1;p-1]$.
+> 
+> Per $p=5$: - $1$ non è un modulo radice primitivo $5$ poiché le sue potenze sono sempre uguali a $1$. - $2$ è un modulo radice primitivo $5$, poiché: $(2^0 \bmod 5)=1$, $(2^1 \bmod 5)=2$, $(2^2 \bmod 5)=4$, $(2^3 \bmod 5)=3$. - < MSK10/> è un modulo radicale primitivo < MSK11/>, poiché: < MSK12/>, < MSK13/>, < MSK14/>, < MSK15/>. - < MSK16/> non è una radice primitiva di < MSK17/> poiché < MSK18/>, < MSK19/> prende alternativamente il valore < MSK20/> o < MSK21/>.
+> 
+> In questa domanda prendiamo $p=7$. Determinare le radici primitive modulo $7$.
+> 
+> Admettiamo che, qualunque sia il numero primo $p$, esiste almeno un modulo radice primitivo $p$. In quanto segue, indichiamo con $g$ un modulo radice primitivo $p$.
+> 
+> **2. a.** Indicare che l'insieme $\{g^k \bmod p\}$ per $k\in[0;p-2]$ è $[1;p-1]$. < MSK8/>b.< MSK9/> Lasciate < MSK3/>. Giustificare l'esistenza e l'unicità di un numero intero $a\in[1;p-2]$ tale che $A=(g^a \bmod p)$.
+> 
+> $a$ è chiamato il logaritmo di base $g$ modulo $p$ di $A$; lo notiamo $\ell(A)$.
+> 
+> **c.** $b$ sia un intero naturale congruente a $a$ modulo $p$. Calcolare $g^b \bmod p$.
+> 
+> **3.** Una soluzione elementare per determinare $\ell(A)$ consiste nel calcolare gli enti $\{g^k \bmod p\}$, per $k=0,1,\ldots$, fino a trovare $A$. **a.** Descrivere un algoritmo che realizza questo lavoro. **b.** In questa domanda, prendiamo $p=53$, $A=40$, $g=20$ (ammetteremo che $20$ è effettivamente un modulo radice primitivo $53$). Programmare l'algoritmo precedente su una calcolatrice, determinare $\ell(A)$.
+> 
+> **4.2 Calcolo del logaritmo discreto con il metodo di Adleman**
+> 
+> Questa parte sfrutta il fatto che la conoscenza dei logaritmi di alcuni numeri interi consente di determinare rapidamente il logaritmo di qualsiasi numero intero.
+> 
+> **1. ** Ci mettiamo nel caso $p=113$, $g=55$ e diamo $\ell(2)=60$, $\ell(3)=5$. Trova < MSK4/>.
+> 
+> Supponiamo da ora in poi, per il resto di questa parte, i numeri primi $p_1,\ldots,p_n$ strettamente inferiori a $p$ e gli enti $a_1,\ldots,a_n$ in modo tale che, per tutti $i\in[1;n]$, i fattori primi di $(g^i \bmod p)$ appartengono a $[p_1;\cdots;p_n]$. Per ogni $i\in[1;n]$, abbiamo quindi una relazione $(g^{a_i} \bmod p)=p_1^{e_{i,1}}p_2^{e_{i,2}}\cdots p_n^{e_{i,n}}$ in cui $e_{i,j}$ per $(i,j)\in[1;n]^2$ sono integri naturali.
+> 
+> < MSK2/>2. < MSK3/> Indicare che, per tutti < MSK0/>, < MSK1/>.
+> 
+> In questa domanda prendiamo $p=53$, $g=20$, $n=2$, $p_1=2$, $p_2=5$. < MSK16/>a.< MSK17/> Con l'aiuto di < MSK5/> e < MSK6/>, determinare < MSK7/> e < MSK8/>. < MSK18/>b.< MSK19/> Riduzione < MSK9/>. **c.** Quanti integri di $[1;52]$ possono essere scritti nella forma $2^\alpha 5^\beta$, con $\alpha$ e $\beta$ integri naturali?
+> 
+> < MSK12/>4. < MSK13/> Lasciate < MSK0/>. **a.** Indicare che l'insieme $\{g^s A \bmod p\}$ per $s\in[0;p-2]$ è $[1;p-1]$. **b.** Supponiamo conosciuto $s\in N$ in modo tale che $(g^s A \bmod p)$ factorizza con l'aiuto di $p_1,\ldots,p_n$ in modo unico. Supponiamo conosciuto $\ell(p_1),\ldots,\ell(p_n)$, dedurre $\ell(A)$. < MSK18/>c.< MSK19/> Con < MSK9/> e < MSK10/>, determinare < MSK11/>.
+> 
+> Ritorniamo al caso generale. **a.** Qual è il numero di integri di $[1;p-1]$ che sono una potenza di $p_1$? **b.** Ridurre la probabilità che un intero $s\in[0;p-2]$ sia tale che $(g^s A \bmod p)$ sia una potenza di $p_1$. **c.** Mostra che la probabilità $P$ per un intero $s\in[0;p-2]$ è tale che $(g^s A \bmod p)$ fattorizza con l'aiuto di $p_1$ e $p_2$ verifica in modo unico: $$\frac{(\ln(p-1))^2}{2(p-1)\big(\ln p_1\big)\big(\ln p_2\big)}\leq P\leq\frac{1}{p-1}\left(\frac{\ln(p-1)}{\ln p_1}+1\right)\left(\frac{\ln(p-1)}{\ln p_2}+1\right).$$ **.** Generalizza il risultato al caso di $n$ numeri primi $p_1,\ldots,p_n$.
+
+[[src_cgen_2005__Q04]]

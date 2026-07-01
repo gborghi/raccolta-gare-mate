@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_finale__Q03
 parent: src_cesenatico_2011_finale
 competition: Gara a Squadre Cesenatico 2011 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *pezzi di rame mancanti*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0019
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> missing copper parts < MSK1/>
+
+> On the boat to Britannia, when Abelix asks him for information about the type of coins used in his country, Cantorax replies: It's very simple! We have iron bars worth 3 sesterces and 12 plus 4 pieces of zinc. Zinc pieces, on the other hand, are worth 1 piece and 12 pieces of copper. In addition, to make a sester, it takes 12 pieces of bronze or, alternatively, 6 pieces and 12 pieces of copper.  If Abelix already has 18 pieces of bronze, how many pieces of copper does it need to reach the value of an iron barrel?
+
+**Answer:** 0019
+[[src_cesenatico_2011_finale__Q03]]

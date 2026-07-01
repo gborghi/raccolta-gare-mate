@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo12yq_yosen__Q08
 parent: src_jmo12yq_yosen
 competition: Japan Mathematical Olympiad 2002 — Yosen (Preliminary)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle BAC given bisector and AB+CD=AC*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Find angolo BAC dato bisector e AB+CD=AC*
+
+> C'è un triangolo $ABC$. Il $D$ deve essere l'intersezione del bisettore di $\angle BAC$ con il lato $BC$. Abbiamo $\angle BAC : \angle BCA = 2 : 3$, e inoltre $AB + CD = AC$. Trova la misura di $\angle BAC$ in gradi. Qui, per due punti $X, Y$, la lunghezza del segmento $XY$ è indicata da $XY$.
+
+[[src_jmo12yq_yosen__Q08]]

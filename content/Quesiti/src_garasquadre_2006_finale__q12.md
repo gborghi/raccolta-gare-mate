@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_finale__Q12
 parent: src_garasquadre_2006_finale
 competition: VII Gara Nazionale a Squadre 2006 - Finale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubi con spigoli paralleli agli assi e vertici interi 0-10*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 3025
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1gZSw1a8n1M4j9DvH6wTbhtIqnyyqml42/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Cubs with axes parallel to the axes and whole vertices 0-10< MSK1/>
+
+> A pattern by Quamditch Hardy, the captain of the Quamditch team at the Reporter's House, instructs his teammates on a new game pattern he's worked out. If we consider in space the sum Q of points that have whole coordinates and are between 0 and 10 (included), how many cubes are there with the axes parallel to the Cartesian axis and with the vertices belonging to Q?
+
+**Answer:** 3025
+[[src_garasquadre_2006_finale__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2004 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2004__Q04
 parent: src_cn_cgmo_2004
 competition: China Girls' Mathematical Olympiad 2004
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count hands of value 2004 from a 32-card deck with jokers*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1006009
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta le mani di valore 2004 da un mazzo di 32 carte con jokers*
+
+> Un mazzo di 32 carte ha 2 giocatori diversi ognuno dei quali è numerato 0. Ci sono 10 carte rosse numerate da 1 a 10 e allo stesso modo per le carte blu e verdi. Uno sceglie una serie di carte dal mazzo. Se si sceglie una carta numerata $k$, il valore della carta è $2^k$ e il valore della mano è la somma dei valori delle carte in mano. Determinare il numero di mani con il valore 2004.
+
+**Risposta:** 1006009
+[[src_cn_cgmo_2004__Q04]]

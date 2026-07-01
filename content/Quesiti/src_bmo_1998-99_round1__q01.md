@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1998-99 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1998-99_round1__Q01
 parent: src_bmo_1998-99_round1
 competition: British Mathematical Olympiad 1998-99 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four children's distinct ages satisfying two squared-sum conditions*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tOfO5w6uysbOqI8KklY9Aj83wX_eK3Cu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Quattro bambini di diverse età che soddisfano due condizioni di somma quadrata< MSK1/>
+
+> Ho quattro figli. L'età degli anni di ciascun bambino è un numero intero positivo compreso tra 2 e 16 anni e tutte e quattro le età sono diverse. Un anno fa il quadrato dell'età del bambino più grande era uguale alla somma dei quadrati dell'età degli altri tre. Tra un anno la somma dei quadrati delle età del più anziano e del più giovane sarà uguale alla somma dei quadrati degli altri due bambini.
+> 
+> Decidere se queste informazioni sono sufficienti per determinare l'età in modo unico e trovare tutte le possibilità per la loro età.
+
+[[src_bmo_1998-99_round1__Q01]]

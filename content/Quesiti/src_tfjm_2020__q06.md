@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2020__Q06
 parent: src_tfjm_2020
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020
@@ -36,6 +37,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Drone police capture thief on city graph in minimum days*
 
@@ -74,3 +77,35 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J8zHKpO1Q-BosuE3UiWvjA4Arny60DJ4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+La polizia drone cattura il ladro sul grafico della città in pochi giorni.
+
+> Winston è un commissario di polizia. Cerca di catturare un ladro usando i suoi nuovi droni.
+> 
+> La città di Winston è composta da distretti $N$, e alcune coppie di distretti sono collegate da strade bidirezionali. Winston ha un numero illimitato di droni e agenti di polizia.
+> 
+> Ogni giorno procede così: - Ogni mattina, Winston manda droni in quante distretti vuole. - A mezzogiorno, la sua mostra mostra se uno dei suoi droni è stato inviato nel distretto dove si nasconde il ladro. - Nel pomeriggio, Winston può inviare i suoi agenti al massimo nei distretti; se i suoi agenti vanno nel distretto in cui si trova il ladro, il ladro viene arrestato con certezza. - Infine, ogni notte (eccetto la prima), il ladro si sposta da un distretto a un distretto vicino.
+> 
+> Si presume che fin dall'inizio il ladro non possa rimanere più di una notte nello stesso distretto.
+> 
+> La città di Londra è composta da distretti $N$ $q_1, q_2, \ldots, q_N$ disposti in un cerchio, con strade che collegano vicini sul cerchio, come nella Figura 12. Come funzione di MSK2/, quanti poliziotti serve Winston per arrestare il ladro con certezza dopo un certo numero di giorni?
+> 
+> Lasciate che MSK0 e MSK1 siano due numeri interi in modo che Winston possa garantire la cattura del ladro. Qual e' il numero minimo di giorni di cui ha bisogno per essere sicuro di catturarlo?
+> 
+> **3.** Diciamo che una città non ha **loop** se non esiste un ciclo di distretti distinti $b \ge 3$. Qual è il numero minimo di agenti sufficiente per catturare il ladro in qualsiasi città senza un ciclo?
+> 
+> **4. ** La città di New York è una griglia quadrata di lato $N$. Quanti agenti serve almeno Winston per catturare il ladro?
+> 
+> **5.** Una città si dice sia **planare** se può essere disegnata in aereo senza incrocio stradale. Ad esempio, la figura 13 mostra una città piana. Per qualsiasi numero intero, c'è una città piana tale che Winston non possa catturare il ladro con gli ufficiali?
+> 
+> A seguito dei tagli di bilancio, Winston può ora inviare solo tra < MSK0/> e < MSK1/> droni al giorno, per un certo numero intero fisso < MSK2/>. Ripensate alle domande precedenti per questo caso.
+> 
+> **7.** Proporre e studiare altre vie di ricerca.
+
+![[src_tfjm_2020__Q06.png]]
+
+[[src_tfjm_2020__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q04
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti semi per la casella col punto interrogativo*
 
@@ -71,3 +74,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many seeds per box with the question mark*
+
+![[src_kangourou_2004_cadet__prob4.png]]
+
+> Mara has 16 cards: 4 spikes (P), 4 flowers (F), 4 squares (Q) and 4 hearts (C). He wants to arrange them in the pattern next to each seed, so that in each row and column there is a sheet of paper for each seed. In the drawing, you can see how it started. How many of the four seeds can you choose to fill the box with the question mark ? A) none B) one C) two D) three E) four A B C D ? So you multiply by 0.5 times 1/3 you squared you add 1 50 P ? F P Q C
+> 
+> I'm going to pay. I'm going to pay. 17 17 Kang 2004 Kang
+
+**Answer:** C
+[[src_kangourou_2004_cadet__Q04]]

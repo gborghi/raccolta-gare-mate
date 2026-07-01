@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q20
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *punti a coordinate intere*
 
@@ -65,3 +68,34 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*entire coordinate points *
+
+![[src_kangourou_2022_student__prob20.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.5]
+  \draw[->] (-5.5,0) -- (6,0) node[right] {$x$};
+  \draw[->] (0,-5.5) -- (0,6) node[above] {$y$};
+  \draw (0,0) circle (5);
+  \foreach \x in {-5,-4,-3,-2,-1,1,2,3,4,5} \draw[thin] (\x,0.1) -- (\x,-0.1);
+  \foreach \y in {-5,-4,-3,-2,-1,1,2,3,4,5} \draw[thin] (0.1,\y) -- (-0.1,\y);
+  \node[below right] at (5,0) {$5$};
+  \node[left] at (0,5) {$5$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The circle in the figure is centered on the origin of an orthogonal Cartesian system and has a radius of 5. How many points on the circumference of the boundary have both integers? A) 4
+>   
+> B) 8
+>   
+> (C) 12 D) 16 E) 2 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** C
+[[src_kangourou_2022_student__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2016 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_classiprime__Q13
 parent: src_archimede_2016_classiprime
 competition: Gara Nazionale Classi Prime 2016
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di cifre del mcm di 2019000 e 2021000*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11_tVYKZUBusCSJwiRULQD9nPIEI-cYvl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total number of units of measurement for each unit of measurement.
+
+> What is the minimum common multiple between 2019000 and 2021000? A 10 B 7 C 8 D 9 E 11 F more than 11
+
+**Answer:** A
+[[src_archimede_2016_classiprime__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2015 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2015_automne__Q03
 parent: src_canimath_2015_automne
 competition: Coupe Animath Automne 2015
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Hexagon ABCDEF with rectangle BCEF and given equal sides; its area equals that of a rectangle with consecutive sides a and 36; find a^2.*
 
@@ -48,3 +51,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Essagono ABCDEF con rettangolo BCEF e dati lati uguali; la sua superficie è uguale a quella di un rettangolo con lati consecutivi a e 36; trovare a^2.*
+
+> Nella figura seguente, $AB = AF = CD = DE = 18$, $BC = EF = a$ e $BF = 24$. Inoltre, il quadrilaterale $BCEF$ è un rettangolo.
+> 
+> Supponiamo che l'area dell'esagono $ABCDEF$ sia uguale all'area di un rettangolo i cui due lati consecutivi hanno lunghezza $a$ e $36$. Trova < MSK3/>. Giustifica la tua risposta.
+> 
+> **Nota.** Si può usare il teorema di Pitagora, che afferma come segue. Se $XYZ$ è un triangolo rettangolo a $X$, allora $XY^2 + XZ^2 = YZ^2$.
+
+![[src_canimath_2015_automne__Q03.png]]
+
+[[src_canimath_2015_automne__Q03]]

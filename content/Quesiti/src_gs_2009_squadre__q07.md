@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2009 - Gara a squadre — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2009_squadre__Q07
 parent: src_gs_2009_squadre
 competition: Coppa Fermat 2009 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area piegatura rettangolo a rombo (I)*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 259.04
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rope rectangular folding area (I) *
+
+![[src_gs_2009_squadre__prob7.png]]
+
+> Arguing about aesthetics with the Blagulon Kappa Computer, paranoid robot Marvin takes a 16cm and 25cm rectangular sheet of paper, folds it along a diagonal, then glues the overlapping parts. What is the $\text{cm}^2$ value of the polygon area obtained?
+
+**Answer:** 259.04
+[[src_gs_2009_squadre__Q07]]

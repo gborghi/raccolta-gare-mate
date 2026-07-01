@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q11
 parent: src_kangourou_2020_student_marzo
 competition: Kangourou 2020 Student - gara marzo (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza G-N nei quattro casi di rettangoli sovrapposti*
 
@@ -75,3 +78,17 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*G-N difference in the four cases of overlapping rectangles*
+
+![[src_kangourou_2020_student_marzo__prob11.png]]
+
+> A grey rectangle and a black one overlap partially. The figure shows four different cases where this happens. Let us denote with G the area of the part of the grey rectangle that is not common to the two rectangles and with N the area of the part of the black rectangle that is not common to the two rectangles: which of the following statements on the difference G  N is true? (a) In case 1, the quantity G  N is higher than in other cases. B) In case 2, the quantity G  N is higher than in other cases. (c) In case 3, the quantity G  N is higher than in other cases. D) In case 4, the quantity G  N is higher than in other cases. E) The quantity G  N is the same in all cases. A B C C + B C D D D E + D E A + E A B 2 6 6 4 = 10102 + 20202 + 30302 ------------------------------ 2020 DK ------- EM KE ------- DM DM ------- KE KM ------- DE case 1 case 2 case 3 case 4
+>
+
+**Answer:** E
+[[src_kangourou_2020_student_marzo__Q11]]

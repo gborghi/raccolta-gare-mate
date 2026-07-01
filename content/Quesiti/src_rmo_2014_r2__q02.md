@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Region 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_r2__Q02
 parent: src_rmo_2014_r2
 competition: Regional Mathematical Olympiad 2014
@@ -31,6 +32,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality for positive reals x, y, z*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zoLYrbaGeep3ecupcTbEh8c0vc3wHPKy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza dei valori reali positivi x, y, z*
+
+> Lasciate che $x, y, z$ siano numeri reali positivi. Provare che < MSK0/>
+
+[[src_rmo_2014_r2__Q02]]

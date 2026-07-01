@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f3__Q02
 parent: src_obm_2011_n2_f3
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 3
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral midpoints form isosceles triangle*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FQup9_FXEn3vNvvzDk-gCVzfK-BezMBX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I punti medi quadrilaterali convex formano triangolo isosceles*
+
+> Il $ABCD$ deve essere un quadrilaterale convex tale che $AD = DC$, $AC = AB$ e $\angle ADC = \angle CAB$. $M$ e $N$ siano rispettivamente i punti intermedi di $\overline{AD}$ e $\overline{AB}$. Prova che il triangolo $MNC$ è uguale.
+
+[[src_obm_2011_n2_f3__Q02]]

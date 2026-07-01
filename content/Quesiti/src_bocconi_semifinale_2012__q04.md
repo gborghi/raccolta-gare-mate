@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2012 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2012__Q04
 parent: src_bocconi_semifinale_2012
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2012
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di passaggi davanti alla tribuna lungo un circuito a serpentina con 111 curve a destra.*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of steps in front of the podium along a serpentine circuit with 111 corners to the right.*
+
+> The automotive circuit
+> 
+> Renato is a conscientious driver and before the race he wanted to try the circuit where he will race on Sunday several times. After departure he followed the straight line northward; then, with a first curve to the right, he went on the straight line perpendicular to the first (the horizontal one, above, in the figure); with a second curve to the right, he then "came down" along the straight line parallel to the initial one and so on, along the path traced in the figure. When (after a few laps) he left the circuit to cut the finish line, he had curved 111 times to the right.
+> 
+> How many times, then, had he passed by the tribune (indicated with a black ball in the figure)?
+
+![[src_bocconi_semifinale_2012__Q04.png]]
+
+**Answer:** 16
+[[src_bocconi_semifinale_2012__Q04]]

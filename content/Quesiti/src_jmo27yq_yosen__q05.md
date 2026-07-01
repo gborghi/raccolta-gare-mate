@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo27yq_yosen__Q05
 parent: src_jmo27yq_yosen
 competition: Japan Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count tuples of distinct positives with a+b=c+d+e=29*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $7392$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pjGraeHG4yF3Hf3bQovok6OpLhKRwh23/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i doppi di positivi distinti con a+b=c+d+e=29*
+
+> Quanti tuppi ordinati $(a,b,c,d,e)$ di integri positivi reciprocamente distinti sono tali da $a+b=c+d+e=29$?
+
+**Risposta:** $7392$
+[[src_jmo27yq_yosen__Q05]]

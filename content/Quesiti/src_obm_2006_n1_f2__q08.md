@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f2__Q08
 parent: src_obm_2006_n1_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum number of distinct total masses from six discs of 1–6 kg*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1srmyb0DAUnIq9SKYuIOrk5cCPzS2K6he/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nombre massimo di masse totali distinte da sei dischi di 16 kg*
+
+> Esmeralda ha comprato sei dischi di ferro da usare con un apparecchio di ginnastica. I dischi hanno massa $1, 2, 3, 4, 5,$ e $6$ chilogrammi, rispettivamente. Esmeralda può combinarli per ottenere altre masse; ad esempio: $$1\text{ disc of }2\,\text{kg} + 1\text{ disc of }6\,\text{kg} = 8\,\text{kg}.$$ Qual è il maggior numero di masse diverse che può ottenere?
+
+[[src_obm_2006_n1_f2__Q08]]

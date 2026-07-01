@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f2__Q04
 parent: src_obm_2002_n1_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three friends with dresses and shoes in three colors; deduce each friend's dress color*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13KyJPv4dE-PcRKKVGz9NFA82iD0E6DH_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre amici con abiti e scarpe di tre colori; dedurre il colore del vestito di ogni amico*
+
+> Tre amici andarono a una festa indossando abiti di blu, nero e bianco (un colore ciascuno), rispettivamente. I loro paia di scarpe venivano anche dei medesimi tre colori, ma ogni amica indossava scarpe di un colore diverso dal suo vestito. Ana indossava scarpe bianche. Né il vestito di J'ulia né le scarpe di J'ulia erano bianche. Marisa indossava scarpe blu. Determina il colore del vestito di ciascuna delle tre ragazze.
+
+[[src_obm_2002_n1_f2__Q04]]

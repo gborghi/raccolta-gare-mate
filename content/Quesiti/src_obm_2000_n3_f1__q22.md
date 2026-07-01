@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f1__Q22
 parent: src_obm_2000_n3_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count emir's children given nested 'except 39' twin/triplet conditions*
 
@@ -56,3 +59,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/110i-jvX1UKUS1YR22wUVW87ecHndpi40/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>I figli del conte emir sono stati nidificati "escluse 39" con condizioni gemelle/triplici< MSK1/>
+
+> L'emiro Abdel Azir divenne famoso per i suoi molti figli. Ha avuto più di 39 figli, tra cui tre bambini, i gemelli dei figli dello storico Ahmed Aab che afferma, inoltre, che tra tutti questi l'emiro aveva solo due set di triplici, tranne 39; aveva solo gemelli, tranne 39; aveva solo nascite singole, tranne 39; tutte le coppie gemelle sono quadruple, tranne 39. Quanti figli aveva l'emiro?
+>
+> - **(A)** 75
+> - **(B)** 48
+> - **(C)** 51
+> - **(D)** 78
+> - **(E)** 111
+
+**Risposta:** B
+[[src_obm_2000_n3_f1__Q22]]

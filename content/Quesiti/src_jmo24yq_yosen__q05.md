@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo24yq_yosen__Q05
 parent: src_jmo24yq_yosen
 competition: Japan Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of products of trinomial coefficients over triples (a,b,c) with a+b+c=5*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 2349060
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa dei prodotti dei coefficienti trinomiali su tripli (a,b,c) con a+b+c=5*
+
+> Per tutti i triples $(a, b, c)$ di numeri interi non negativi che soddisfano $a + b + c = 5$, calcolare $$\sum_{\substack{a,b,c \ge 0 \\ a+b+c=5}} \binom{5}{a}\binom{5}{b}\binom{5}{c}.$$ La risposta deve essere espressa come valore numerico senza calcolatore.
+
+**Risposta:** 2349060
+[[src_jmo24yq_yosen__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2021 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_printemps__Q06
 parent: src_canimath_2021_printemps
 competition: Coupe Animath Printemps 2021
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perimeter of triangle AMC at least perimeter of quadrilateral ABME*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Perimetro del triangolo AMC almeno perimetro di ABME quadrilaterale*
+
+> Il $ABCD$ deve essere un quadrilaterale convesso in cui i lati $(AD)$ e $(BC)$ sono paralleli, $AB = CD$ e $AD < BC$. $M$ sia il punto medio del segmento $[BC]$ e $E$ sia il punto di intersezione delle linee $(MD)$ e $(AC)$. Prova che il perimetro del triangolo $AMC$ è maggiore o uguale al perimetro del quadrilaterale $ABME$.
+
+[[src_canimath_2021_printemps__Q06]]

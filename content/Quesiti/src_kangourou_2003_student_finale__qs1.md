@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student finale nazionale — Quesito S1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student_finale__QS1
 parent: src_kangourou_2003_student_finale
 competition: Kangourou 2003 Student finale nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Possibile 53 persone con 11 strette ciascuna*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** No
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OBeXoq_PUWofvqyA2y-KxF9LlSDsE0IX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Possible 53 people with 11 strokes each< MSK1/>
+
+> There are 53 people at a party. Is it possible that each of them shake hands with exactly 11 other guests? Justify the answer.
+
+**Answer:** No
+[[src_kangourou_2003_student_finale__QS1]]

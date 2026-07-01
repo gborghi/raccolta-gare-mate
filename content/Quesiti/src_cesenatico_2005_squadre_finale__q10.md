@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q10
 parent: src_cesenatico_2005_squadre_finale
 competition: Gara a Squadre Cesenatico 2005 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma perimetri terne pitagoriche con c=(3/4)a+(4/5)b*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0114
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of pitagoric terneal perimeters with c=(3/4) a+(4/5) b*
+
+> The cursed temple The keys of wisdom open the secret hall of Atyiahsinger's temple. Each key is shaped like a rectangular triangle with the sides a, b, c of full lengths such that (a, b, c) = 1 and the hypotenuse c is equal to 3 4a + 4 5b. Calculate the sum of the perimeter of all the keys of wisdom corresponding to unlike triangles.
+
+**Answer:** 0114
+[[src_cesenatico_2005_squadre_finale__Q10]]

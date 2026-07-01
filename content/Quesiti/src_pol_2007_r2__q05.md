@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r2__Q05
 parent: src_pol_2007_r2
 competition: Olimpiade Matematica Polacca 2007 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral with AB != CD; two rhombi of side a built on it; prove four vertices are concyclic.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LZVQNRmXGjFMUK1nE7-wezK2nSuE5Pma/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilatero ciclico con AB != CD; due rombini di lato a costruiti su di esso; dimostrare che quattro vertici sono conciclici.*
+
+> Un quadrilaterale convex $ABCD$ con $AB\ne CD$ è inserito in un cerchio. Le $AKDL$ e $CMBN$ siano rombole con lunghezza laterale $a$. Prova che i punti $K,L,M,N$ si trovano su un cerchio.
+
+[[src_pol_2007_r2__Q05]]

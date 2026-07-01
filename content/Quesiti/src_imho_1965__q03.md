@@ -1,6 +1,7 @@
 ---
 title: IMO 1965 (VII International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1965__Q03
 parent: src_imho_1965
 competition: IMO 1965 (VII International Mathematical Olympiad)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tetrahedron cut by plane: ratio of distances equals k*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tk-D3Xruwl2WK5FPEf9VF-YTvWxYxD4K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tetrahedron cut by plane: ratio of distances equals k*
+
+> Given the tetrahedron $ABCD$ whose edges $AB$ and $CD$ have lengths $a$ and $b$ respectively. The distance between the skew lines $AB$ and $CD$ is $d$, and the angle between them is $\omega$. Tetrahedron $ABCD$ is divided into two solids by plane $\varepsilon$, parallel to lines $AB$ and $CD$. The ratio of the distances of $\varepsilon$ from $AB$ and $CD$ is equal to $k$. Calculate the ratio of the volumes of the two solids obtained.
+
+[[src_imho_1965__Q03]]

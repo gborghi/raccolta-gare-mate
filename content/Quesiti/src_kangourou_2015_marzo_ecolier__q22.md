@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q22
 parent: src_kangourou_2015_marzo_ecolier
 competition: Kangourou 2015 gara 19 marzo Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *max numero*
 
@@ -62,3 +65,28 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>max number< MSK1/>
+
+![[src_kangourou_2015_marzo_ecolier__prob22.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.8]
+  \foreach \x in {0,1,2,3} {
+    \foreach \y in {0,1,2,3} {
+      \fill (\x, \y) circle (3pt);
+    }
+  }
+\end{tikzpicture}
+\end{document}
+```
+
+> The points you see marked in the figure are the 16 vertices of nine squares that, when approached, form a square. Dividing 4 of these 16 points from time to time can create different squares, even of different areas. What's the maximum number of squares you can get, that have all different areas? A) 2 B) 3 C) 4	               D) 5 E) 6
+
+**Answer:** D
+[[src_kangourou_2015_marzo_ecolier__Q22]]

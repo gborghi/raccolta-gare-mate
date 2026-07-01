@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f3__Q04
 parent: src_obm_2009_n3_f3
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove there exists n₀ such that a cube can be dissected into n smaller cubes for all n≥n₀*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x_zlsRvZxzDXZDJk6xG4Qu1b2n75NpOw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che esiste un n0 tale che un cubo possa essere dissezionato in n cubetti più piccoli per tutti n≥n0*
+
+> Mostrare che esiste un intero positivo $n_0$ con la seguente proprietà: per qualsiasi intero $n \ge n_0$, è possibile dividere un cubo in cubi $n$ più piccoli (non necessariamente uguali).
+
+[[src_obm_2009_n3_f3__Q04]]

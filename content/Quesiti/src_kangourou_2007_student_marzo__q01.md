@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Student (marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q01
 parent: src_kangourou_2007_student_marzo
 competition: Kangourou 2007 Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo ABC (zona ombreggiata)*
 
@@ -63,3 +66,36 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of triangle ABC (shaded area) *
+
+![[src_kangourou_2007_student_marzo__prob1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.5]
+  \draw (0,0) circle (1);
+  \coordinate (O) at (0,0);
+  \coordinate (A) at (-1,0);
+  \coordinate (C) at (1,0);
+  \coordinate (B) at ({cos(130)},{sin(130)});
+  \draw (A) -- (C);
+  \fill[gray!50] (A) -- (B) -- (O) -- cycle;
+  \draw (A) -- (B) -- (O) -- cycle;
+  \draw (B) -- (C);
+  \node[left] at (A) {$A$};
+  \node[right] at (C) {$C$};
+  \node[above] at (B) {$B$};
+  \node[below] at (O) {$O$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure, O is the center of the circle and the area of the shaded area is. What is the area of the triangle ABC? A) B) 2 C) 5 D) 4 E)
+
+**Answer:** A
+[[src_kangourou_2007_student_marzo__Q01]]

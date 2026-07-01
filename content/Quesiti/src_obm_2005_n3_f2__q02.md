@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f2__Q02
 parent: src_obm_2005_n3_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest positive integer multiple conditions modulo 5,7,9,11*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OLdHCxNclyhpBnB3zZkV2iemXH0OBFLP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>La più piccola cifra integrale positiva multiplice modulo 5,7,9,11< MSK1/>
+
+> Che $a$ sia un intero positivo tale che $a$ sia un multiple di $5$, $a+1$ sia un multiple di $7$, $a+2$ sia un multiple di $9$, e $a+3$ sia un multiple di $11$. Determinare il valore più piccolo che $a$ può assumere.
+
+[[src_obm_2005_n3_f2__Q02]]

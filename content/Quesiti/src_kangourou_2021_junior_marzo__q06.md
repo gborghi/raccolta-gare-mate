@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q06
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area dell'esagono fatto di sei rombi da 5 cm2*
 
@@ -72,3 +75,43 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the hexagon consisting of six 5 cm2 frames*
+
+![[src_kangourou_2021_junior_marzo__prob6.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.5]
+  \coordinate (A0) at (1, 0);
+  \coordinate (A1) at (0.5, 0.8660);
+  \coordinate (A2) at (-0.5, 0.8660);
+  \coordinate (A3) at (-1, 0);
+  \coordinate (A4) at (-0.5, -0.8660);
+  \coordinate (A5) at (0.5, -0.8660);
+  \coordinate (M01) at (0.75, 0.4330);
+  \coordinate (M12) at (0, 0.8660);
+  \coordinate (M23) at (-0.75, 0.4330);
+  \coordinate (M34) at (-0.75, -0.4330);
+  \coordinate (M45) at (0, -0.8660);
+  \coordinate (M50) at (0.75, -0.4330);
+  \coordinate (O) at (0,0);
+  \draw[thick] (A0) -- (A1) -- (A2) -- (A3) -- (A4) -- (A5) -- cycle;
+  \draw (A0) -- (M01) -- (O) -- (M50) -- cycle;
+  \draw (A1) -- (M12) -- (O) -- (M01) -- cycle;
+  \draw (A2) -- (M23) -- (O) -- (M12) -- cycle;
+  \draw (A3) -- (M34) -- (O) -- (M23) -- cycle;
+  \draw (A4) -- (M45) -- (O) -- (M34) -- cycle;
+  \draw (A5) -- (M50) -- (O) -- (M45) -- cycle;
+\end{tikzpicture}
+\end{document}
+```
+
+> Look at the figure. Six congruent combs, each 5 cm2 in area, are joined together to form a star whose tips are the vertices of a regular hexagon. How many square centimetres is the area of the hexagon? A) 36 B) 40 C) 45 D) 48 E) 60
+
+**Answer:** C
+[[src_kangourou_2021_junior_marzo__Q06]]

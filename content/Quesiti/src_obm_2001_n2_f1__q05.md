@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q05
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many times the group 89 appears writing the integers 1 to 1000 in a row*
 
@@ -52,3 +55,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quante volte il gruppo 89 appare scrivendo i numeri interi da 1 a 1000 in fila*
+
+> I numeri interi positivi da $1$ a $1000$ sono scritti fianco a fianco, in ordine crescente, formando la sequenza $1234567891011121314\ldots\,9991000$. In questa sequenza, quante volte appare il gruppo ``$89$'?
+> 
+> (A) $98$ \quad (B) $32$ \quad (C) $22$ \quad (D) $89$ \quad (E) $21$
+
+**Risposta:** E
+[[src_obm_2001_n2_f1__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q03
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Amoeba colony starting yellow+red; each amoeba divides daily, each daughter independently keeps color or becomes red w.p. 1/2; find probability of exactly one yellow after 2006 days.*
 
@@ -51,3 +54,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/> Colonia Amoeba a partire da giallo+rosso; ogni ameba si divide quotidianamente, ogni figlia conserva indipendentemente il colore o diventa rossa. 1/2; trovare la probabilità di un giallo esatto dopo i giorni del 2006.*
+
+> Una colonia di amebe ha inizialmente una ameba gialla e una ameba rossa. Ogni giorno ogni ameba si divide in due amebe identiche. Ogni ameba ha lo stesso colore del suo genitore con probabilità $\frac{1}{2}$ e il rosso con probabilità $\frac{1}{2}$. Dopo i giorni del 2006, qual è la probabilità che la colonia abbia esattamente un'ameba gialla?
+> 
+> (A) $\dfrac{1}{2^{2006}}$ \quad (B) $\dfrac{1}{2006}$ \quad (C) $\dfrac{1}{2007}$ \quad (D) $\dfrac{1}{2006 \cdot 2007}$ \quad (E) $\dfrac{2006}{2007}$
+
+[[src_obm_2006_n3_f1__Q03]]

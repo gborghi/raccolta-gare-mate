@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q08
 parent: src_kangourou_2021_preecolier_koala
 competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Costellazione Kangourou con stelle somma 20*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Kangourou constellation with 20 stars in total
+
+![[src_kangourou_2021_preecolier_koala__prob8.png]]
+
+> In these constellations each star is denoted by a number instead of a name. The numbers that denote the stars in the constellation Kangourou are all greater than 3 and their sum is 20. What is the constellation Kangourou? (see figure)
+
+**Answer:** B
+[[src_kangourou_2021_preecolier_koala__Q08]]

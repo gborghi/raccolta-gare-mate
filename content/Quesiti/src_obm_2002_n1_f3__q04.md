@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f3__Q04
 parent: src_obm_2002_n1_f3
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 3
@@ -42,6 +43,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Seven coins in a circle, one showing its visible face; determine whether by flipping five consecutive coins each time (a) or four consecutive coins each time (b) all can be made to show face down*
 
@@ -60,3 +63,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15lQ7pjQw33CmRKlTG9zAbRyQY3NZVoW3/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sette monete in un cerchio, una con la sua faccia visibile; determinare se girando cinque monete consecutive ogni volta (a) o quattro monete consecutive ogni volta (b) tutti possono essere fatti vedere la faccia in giù*
+
+> Sette monete sono disposte in un cerchio, con una faccia visibile (che mostra teste).
+> 
+> a) È possibile, girando ogni volta cinque monete consecutive, farli tutti mostrare a faccia in giù (cola)?
+> 
+> b) È possibile, girando ogni volta quattro monete consecutive, farli tutti mostrare a faccia in giù?
+
+![[src_obm_2002_n1_f3__Q04.png]]
+
+[[src_obm_2002_n1_f3__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2020 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2020__Q01
 parent: src_cn_cmo_2020
 competition: China Mathematical Olympiad 2020
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence with real odd terms and imaginary even terms; minimize modulus of partial sums*
 
@@ -53,3 +56,18 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza con termini unici reali e termini pari immaginari; ridurre al minimo il modulo di somme parziali*
+
+> Supponiamo che tutti i termini odd della sequenza $\{z_n\}_{n \ge 1}$ siano reali e tutti i termini pari siano puramente immaginari, e per qualsiasi intero positivo $k$, ci sia $|z_k z_{k+1}| = 2^k$. Per un intero positivo $n$, indicare $f_n = |z_1 + z_2 + \cdots + z_n|$.
+> 
+> (1) Trovare il valore minimo possibile di $f_{2020}$.
+> 
+> (2) Trovare il valore minimo possibile di $f_{2020} \cdot f_{2021}$.
+
+**Risposta:** f_{2020} minimum is 2; f_{2020} \cdot f_{2021} minimum is 2^{1011}.
+[[src_cn_cmo_2020__Q01]]

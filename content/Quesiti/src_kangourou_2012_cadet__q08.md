@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q08
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti modi scegliere vertici senza tagliare i triangoli*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many ways to choose vertices without cutting triangles*
+
+![[src_kangourou_2012_cadet__prob8.png]]
+
+> The figure shows you two triangles in a precise position. In each of the two triangles, choose a vertex so that the segment that joins the two vertices you chose doesn't cut either of the two triangles. How many ways can you operate the choice? A) 1 B) 2 C) 3 D) 4 E) more than 4
+
+**Answer:** D
+[[src_kangourou_2012_cadet__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo20yq_yosen__Q04
 parent: src_jjmo20yq_yosen
 competition: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle AB=5,BC=7,CA=6 with cevian points; circumcircle of BDF tangent to EF*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\dfrac{75}{37}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo AB=5,BC=7,CA=6 con punti ceviani; circoncircolo di BDF tangente a EF*
+
+> Nel triangolo $ABC$ con $AB = 5$, $BC = 7$, $CA = 6$, $D$, $E$, $F$ siano rispettivamente punti sui lati $BC$, $CA$ e $AB$ (non coincidendo con nessun vertice). Il quadrilaterale $ABDE$ ha un cerchio circoscritto e il quadrilaterale $BCEF$ ha anche un cerchio circoscritto. Il cerchio circonscritto del triangolo $BDF$ è tangente al segmento di linea $EF$. Trova la lunghezza < MSK14/>. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** \dfrac{75}{37}
+[[src_jjmo20yq_yosen__Q04]]

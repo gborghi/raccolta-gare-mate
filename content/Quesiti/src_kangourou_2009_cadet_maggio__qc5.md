@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_maggio__QC5
 parent: src_kangourou_2009_cadet_maggio
 competition: Kangourou 2009 - Cadet finale nazionale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cammino minimo della formica e punto piu lontano*
 
@@ -41,3 +44,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** sqrt8
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17j6HblxyyU68mGSCy1p5rhbmFO-BkmXr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum path of the ant and farthest point < MSK1/>
+
+![[src_kangourou_2009_cadet_maggio__probC5.png]]
+
+> An ant is free to move on the surface of a parallel-piped rectangle measuring $1 \times 1 \times 2$ meters, but not to enter it. Starting from a summit, it wants to reach the antipodal summit (i.e. the one farthest from it) by moving along the shortest path possible: how much path should it take?
+> 
+> Is the opposite vertex the point of the parallelepiped farthest from the starting vertex (as long as it is bound to move on the surface)?
+
+**Answer:** sqrt8
+[[src_kangourou_2009_cadet_maggio__QC5]]

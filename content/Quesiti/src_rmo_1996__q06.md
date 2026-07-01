@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1996 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1996__Q06
 parent: src_rmo_1996
 competition: Regional Mathematical Olympiad 1996
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For any positive integer n, construct two non-integer rationals whose power differences are integers*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19J2mf5R1cDnrRILwWwEUjnzN7cMwK4cG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per qualsiasi numero intero positivo n, costruire due razionali non integrali le cui differenze di potenza sono interi*
+
+> Dato qualsiasi numero intero positivo $n$ mostrano che ci sono due numeri razionali positivi $a$ e $b$, $a \ne b$, che non sono interi e che sono tali che $a - b$, $a^2 - b^2$, $\ldots$, $a^n - b^n$ sono tutti interi.
+
+[[src_rmo_1996__Q06]]

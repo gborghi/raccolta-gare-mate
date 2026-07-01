@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 2) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g2__Q05
 parent: src_bocconi_finaleint_2011_g2
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di cifre con simboli uguali su tre righe*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 929
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of digits with equal symbols on three lines*
+
+> Equal symbols represent the same number. The number represented by the second row is equal to the sum of the three digits of the number represented by the first row. The number represented by the third row is equal to the sum of the two digits of the number represented by the second row. What is the number represented by the first line? $$\blacksquare\heartsuit\clubsuit + \clubsuit = \spadesuit\spadesuit\heartsuit$$
+
+![[src_bocconi_finaleint_2011_g2__Q05.png]]
+
+**Answer:** 929
+[[src_bocconi_finaleint_2011_g2__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f3__Q05
 parent: src_obm_2007_n3_f3
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral; if angle POQ is right then PO bisects angle AOD and QO bisects angle AOB*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hV2QFPABOEgEquJp5pRBUUMfLKtQpl8d/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterale convex; se l'angolo POQ è giusto allora il PO divide l'angolo AOD e il QO divide l'angolo AOB*
+
+> Il $ABCD$ deve essere un quadrilaterale convex, $P$ l'intersezione delle linee $AB$ e $CD$, $Q$ l'intersezione delle linee $AD$ e $BC$, e $O$ l'intersezione delle diagonali $AC$ e $BD$. Prove che se $\angle POQ$ è un angolo retto, allora $PO$ è il bisector di $\angle AOD$ e $QO$ è il bisector di $\angle AOB$.
+
+[[src_obm_2007_n3_f3__Q05]]

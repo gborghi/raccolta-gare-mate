@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 2 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre_f2__Q05
 parent: src_kangourou_2022_kangourou_squadre_f2
 competition: Kangourou Squadre 2022 Kangourou Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti di anticipo dell'aereo*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0055
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yNwN-u4XJBzJPFpqK1rHvSBPAR9fZ1-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minutes before the flight*
+
+> The plane Knowing that the plane carrying a life-saving medicine will land at a certain time, a medical car leaves the hospital to reach the airport at exactly that time. The plane arrives early: then a person leaving the airport with the medicine and goes to meet the medical car; after travelling 45 minutes, he delivers the medicine to the medical car which manages to deliver the medicine to the hospital 20 minutes earlier than originally planned. How many minutes in advance did the plane arrive? (Consider the speed of the car constantly and negligible times for the hand-stepping of the medicine.)
+
+**Answer:** 0055
+[[src_kangourou_2022_kangourou_squadre_f2__Q05]]

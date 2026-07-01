@@ -1,6 +1,7 @@
 ---
 title: IMO 1967 (Ninth International Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1967_all__Q06
 parent: src_imo_1967_all
 competition: IMO 1967 (Ninth International Olympiad)
@@ -28,6 +29,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *find number of days and total medals*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1U5rz4wEepU-SfkFdqcEOsSXqBT-xtIsB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find number of days and total medals
+
+> In a sporting event, $m$ medals were awarded in $n$ consecutive days ($n > 1$). On the first day, a medal was awarded and the remaining MSK4 medals were awarded. On the second day, two medals were awarded and the remaining medals were MSK5/; and so on. The remaining < MSK6/> medals were awarded on the eighth and final day. How many days did the race last and how many medals were awarded in total?
+
+[[src_imo_1967_all__Q06]]

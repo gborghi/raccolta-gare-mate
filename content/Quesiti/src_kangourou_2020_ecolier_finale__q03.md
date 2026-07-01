@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Finale nazionale Ecolier — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_finale__Q03
 parent: src_kangourou_2020_ecolier_finale
 competition: Kangourou 2020 Finale nazionale Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Schemi diversi per salire 8 gradini (1 o 2)*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0034
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Different schemes for climbing 8 steps (1 or 2) *
+
+> In every grid cell you see right next to it, there's an operation. Antonio shades all cells containing an operation resulting in < MSK0/>. Which of the following forms does it take?
+>
+> The operations in the grid are: $16 + 4$, $2 \times 10$, $40 : 2$, $16 - 4$, $28 - 8$, $7 \times 3$.
+>
+> - **(A)** (form A)
+> - **(B)** (form B)
+> - **(C)** (form C)
+> - **(D)** (form D)
+> - **(E)** (form E) (see figure)
+
+**Answer:** 0034
+[[src_kangourou_2020_ecolier_finale__Q03]]

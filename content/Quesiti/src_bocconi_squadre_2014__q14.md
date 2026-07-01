@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2014 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2014__Q14
 parent: src_bocconi_squadre_2014
 competition: Gara a Squadre 2014
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della parte più scura di due rettangoli sovrapposti 8 cm × 2 cm con un vertice comune*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $70$ (in unità quadrate secondo la scala della figura)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the darkest part of two rectangles overlapping 8 cm × 2 cm with a common vertex*
+
+> In the figure, you see two rectangles, partially overlapping, that have the same size and a common vertex. Taking into account the information in the figure ($8$ cm, $2$ cm, and two segments indicated as equal), calculate the area of the darker part.
+
+![[src_bocconi_squadre_2014__Q14.png]]
+
+**Answer:** $70$ (in unità quadrate secondo la scala della figura)
+[[src_bocconi_squadre_2014__Q14]]

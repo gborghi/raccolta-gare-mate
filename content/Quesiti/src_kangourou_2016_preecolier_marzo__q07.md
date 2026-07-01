@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Pre-Écolier (gara marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_preecolier_marzo__Q07
 parent: src_kangourou_2016_preecolier_marzo
 competition: Kangourou 2016 Pre-Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante case dal numero 25 al 57 compresi*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1j0480CVNpMsu_716tYibXqA9dHPHrw60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many houses number 25 to 57 including*
+
+> On Via Lunga the houses are numbered: 1, 2, 3, and so on. The postmaster must deliver at least one letter to each house from number 25 to number 57, including. How many houses do you have to visit?
+>
+> - **(A)** 31
+> - **(B)** 32
+> - **(C)** 33
+> - **(D)** 34
+> - **(E)** 35
+
+**Answer:** C
+[[src_kangourou_2016_preecolier_marzo__Q07]]

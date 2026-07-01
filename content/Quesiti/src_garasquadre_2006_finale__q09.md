@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_finale__Q09
 parent: src_garasquadre_2006_finale
 competition: VII Gara Nazionale a Squadre 2006 - Finale
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero di modi*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9030
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1gZSw1a8n1M4j9DvH6wTbhtIqnyyqml42/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>number of modes< MSK1/>
+
+> 9. In the lesson of geomatics, Hardy, Hermita and Ron have a group task: they have 6 different colours available and want to paint a prism on a square base (which has a height greater than the base frame) so that each colour is used for one and only one face.
+
+**Answer:** 9030
+[[src_garasquadre_2006_finale__Q09]]

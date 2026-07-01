@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2018 — Selection Camp — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2018__Q09
 parent: src_selection_camp_2018
 competition: Japan IMO Selection Camp 2018 — Selection Camp
@@ -35,6 +36,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Operation * on finite sets of positive integers; A*B=B*A implies iterated star associativity*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jASM40MHMk6NMhN2bMvDto4r4rOWEBtP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Operazione * suinsiemi finiti di integri positivi; A*B=B*A implica l'associazione stellare iterata*
+
+> Per i set finiti $X$ e $Y$ di integri positivi, $f_X(k)$ indichi il $k$-minimo intero positivo non in $X$. Definire $$X * Y = X \cup \{f_X(y) \mid y \in Y\}.$$ Lasciate che $a, b$ siano numeri interi positivi. Che $A$ sia un insieme di enti interi positivi $a$ e $B$ sia un insieme di enti interi positivi $b$. Supponiamo < MSK12/>. Provare che < MSK1/>
+
+[[src_selection_camp_2018__Q09]]

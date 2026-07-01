@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet semifinale individuale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q10
 parent: src_kangourou_2022_cadet_semifinale
 competition: Kangourou 2022 Cadet semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza tra le oasi A e B con i due cammelli*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 12
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance between oases A and B with two camels*
+
+> (4 points) In the desert, two oases A and B are at the ends of a long straight track. A camel leaves from A to B at the same time as another camel leaves from B to A; the two camels travel along the track at constant speed, one at 4 km/h, the other at 2 km/h. After an hour of meeting, the fastest camel reaches its destination. How many miles apart are the two oases?
+
+**Answer:** 12
+[[src_kangourou_2022_cadet_semifinale__Q10]]

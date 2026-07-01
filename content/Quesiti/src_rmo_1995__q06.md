@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1995 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1995__Q06
 parent: src_rmo_1995
 competition: Regional Mathematical Olympiad 1995
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *21-sided regular polygon inscribed in circle; count triangles containing center*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18d_A9jRTrt0hHchaSE4JEb6g0MGjIeh6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Poligono regolare a 21 lati inciso in cerchio; triangoli di conteggio contenenti il centro*
+
+> Il $A_1 A_2 A_3 \ldots A_{21}$ deve essere un poligono regolare laterale $21$ inciso in un cerchio con il centro $O$. Quanti triangoli $A_i A_j A_k$, $1 \le i < j < k \le 21$ contengono il punto $O$ all'interno?
+
+[[src_rmo_1995__Q06]]

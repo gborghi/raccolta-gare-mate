@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 2) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g2__Q13
 parent: src_bocconi_finaleint_2011_g2
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coordinate della posizione 2011 nella spirale*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** $(44, 13)$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Coordinates of the 2011 position in the spiral*
+
+> Spiro draws a spiral on a square sheet in a regular manner without removing the pencil from the sheet and following the square. It starts from the $(0,0)$ origin and moves from one unit to the right reaching the coordinate position 1 $(1,0)$. Then it moves up until it can bend to the left, then it moves left until it reaches the vertical axis, then it moves from one unit up, then it moves right until it can go back down, then it goes down to the horizontal axis, then it moves from one unit to the right, and so on as shown in the figure. The black dot corresponds to position 13 of the coordinates $(2,3)$. What are the coordinates of the 2011 position?
+
+![[src_bocconi_finaleint_2011_g2__Q13.png]]
+
+**Answer:** $(44, 13)$
+[[src_bocconi_finaleint_2011_g2__Q13]]

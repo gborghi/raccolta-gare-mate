@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f2__Q02
 parent: src_obm_2003_n2_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Choose 13 integers from 1 to 26 containing 4 such that no chosen number divides another*
 
@@ -53,3 +56,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sARgZdHvMaU-7zLZ37YU31RP3OKsBQ1b/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Scelta 13 numeri interi da 1 a 26 contenenti 4 in modo che nessun numero scelto divida un altro*
+
+> Tra i numeri interi da $1$ a $26$, scegli $13$ in modo tale che: 1) il numero $4$ sia tra i numeri scelti; 2) nessun numero scelto sia un divisore di un altro numero scelto.
+
+[[src_obm_2003_n2_f2__Q02]]

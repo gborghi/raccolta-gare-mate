@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2011 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2011__Q02
 parent: src_bocconi_squadre_2011
 competition: Gara a Squadre 2011
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri 1-8 in griglia senza consecutivi adiacenti*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csoOdxkAD8Fd4QvzRpEPzVVVOCkJ8l1C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers 1-8 in the grid with no adjacent consecutive numbers*
+
+> Place the natural numbers from 1 to 8 in the boxes in the figure so that two consecutive numbers are never placed in boxes that have a side or a vertex in common. How many possible solutions are there?
+
+![[src_bocconi_squadre_2011__Q02.png]]
+
+**Answer:** 4
+[[src_bocconi_squadre_2011__Q02]]

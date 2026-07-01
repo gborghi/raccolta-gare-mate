@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2016 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_classiprime__Q17
 parent: src_archimede_2016_classiprime
 competition: Gara Nazionale Classi Prime 2016
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore p(0) di polinomio cubico con radici 7 e 13*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11_tVYKZUBusCSJwiRULQD9nPIEI-cYvl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value p(0) of a cubic polynomial with roots 7 and 13*
+
+> From the third degree polynomial p(x) we know that its coefficients are all integers, that p(7) = p(13) = 0 and that p(0) is a positive 2-digit number. What's the value of p? A 91 B 20 C 21 D 19 E 92 F cannot be determined by the data provided alone
+
+**Answer:** A
+[[src_archimede_2016_classiprime__Q17]]

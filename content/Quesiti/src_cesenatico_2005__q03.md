@@ -1,6 +1,7 @@
 ---
 title: XXI Olimpiade Italiana Cesenatico 2005 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005__Q03
 parent: src_cesenatico_2005
 competition: XXI Olimpiade Italiana Cesenatico 2005
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tabella 4x4 di cifre 1 e 2 con somme dei 3x3 multiple di 4*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** massimo 30, minimo 19
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Table 4x4 of digits 1 and 2 with sums of 3x3 multiples of 4*
+
+> In each of the boxes in a square table 4×4 the figure 1 or the figure 2 is written. We know that the sum of the 9 digits in each of the 4 squares 3 × 3 in the table is multiple of 4, while the sum of all 16 digits is not multiple of 4. Determine the maximum and minimum possible value for the sum of all 16 digits.
+
+**Answer:** massimo 30, minimo 19
+[[src_cesenatico_2005__Q03]]

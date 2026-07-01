@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q18
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo valore intero dell'espressione crittaritmetica*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum whole value of the cryptanalytic expression*
+
+> In the expression, each letter represents a number different from zero; equal letters represent equal numbers and different letters represent different numbers. What is the smallest integer value that this expression can assume? (A) 1 B) 2 C) 3 D) 5 E) 7
+
+**Answer:** B
+[[src_kangourou_2011_student__Q18]]

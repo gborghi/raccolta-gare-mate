@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_2livello__Q07
 parent: src_archimede_2008_2livello
 competition: Archimede Gara 2° livello 2008 (biennio/triennio)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordinamenti di 1,2,4,7,9 che danno multiplo di 11*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Orders of 1,2,4,7,9 giving a multiple of 11*
+
+> How many ways can you arrange the numbers 1, 2, 4, 7 and 9 to form a five-digit number divisible by 11?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** 10
+> - **(D)** 12
+> - **(E)** 24.
+
+**Answer:** D
+[[src_archimede_2008_2livello__Q07]]

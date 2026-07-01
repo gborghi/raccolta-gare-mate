@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo17yq_yosen__Q09
 parent: src_jjmo17yq_yosen
 competition: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find AB in right triangle with cyclic quadrilateral ADFE*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{63}{2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YyPhdRC8ta06c--Y1mxGSGuS4yujWAKb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca AB in triangolo rettangolo con ADFE quadrilaterale ciclico*
+
+> Il triangolo $ABC$ soddisfa $\angle B = 90^\circ$ e $BC = 8$. Il punto $D$ si trova sul lato $AB$ e il punto $E$ si trova sul lato $AC$; il punto $F$ sia l'intersezione della linea $BE$ e della linea $CD$, con $BF = 6$ e $CF = 7$. Inoltre, il quadrilaterale $ADFE$ ha un cerchio inciso. Trova la lunghezza del segmento $AB$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** \frac{63}{2}
+[[src_jjmo17yq_yosen__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Japan EGMO Selection / Girls MO 2026 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jgmo1q__Q05
 parent: src_jgmo1q
 competition: Japan EGMO Selection / Girls MO 2026
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcenters of ABC and PQR coincide; incircle tangency condition in acute triangle*
 
@@ -50,3 +53,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1180ckG5q7aatjERi-5y5rzura8yZ7JXZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circumcenti di ABC e PQR coincidono; condizione di tangenza incircolare in triangolo acuto*
+
+> $ABC$ sia un triangolo acuto con $AB < AC$. $O$ deve essere il centro circundante di $\triangle ABC$, e $XY$ deve indicare la lunghezza del segmento $XY$. Il $J$ deve essere la seconda intersezione della linea $AO$ (estesa oltre $O$) con il circoncircolo di $\triangle BCJ$; più precisamente, $P$ deve essere un punto sul segmento $BC$ tale che $A$, $O$, $P$ siano collineari (cioè, $P$ è il piede dell'altitudine $A$ da $O$ a $BC$, o l'intersezione della linea $AO$ con $BC$). Nel segmento $BP$, scegli un punto $Q$ in modo da $AQ = AB$; nel segmento $CP$, scegli un punto $R$ in modo da $AR = AC$.
+> 
+> Prove che il circoncentro di $\triangle ABC$ coincide con il circoncentro di $\triangle PQR$.
+> 
+> Inoltre, $\omega$ sia un cerchio tangente ai segmenti $BC$, $AB$ (esteso) e $AC$ (esteso) , cioè un escircolo o l'incircolo di $\triangle ABC$. Il centro di $\omega$ che non è l'incentro è il centro del circoncircolo di $\triangle PQR$ come mostrato sopra.
+> 
+> **Nota:**Sulla base della fonte giapponese scansionata, la dichiarazione completa è: $ABC$ sia un triangolo acuto con $AB < AC$. Lasciate che $O$ sia il circondario. Il segmento $XY$ deve comprendere la lunghezza di $XY$. Il punto $J$ deve essere il punto sulla linea $AO$ del triangolo esterno $ABC$ (sul lato lontano da $A$). Il punto $P$ deve essere il punto del segmento $BC$ in cui la riga $AO$ incontra $BC$. Nel segmento $BP$, $Q$ sia il punto con $AQ = AB$; nel segmento $CP$, $R$ sia il punto con $AR = AC$. Prove che il centro circundante di $\triangle ABC$ e il centro circundante di $\triangle PQR$ sono lo stesso punto. Inoltre, l'incircolo di $\triangle ABC$ è tangente a $BC$, a mezza linea $AB$ e a mezza linea $AC$; tra i cerchi tangenti a queste tre linee, quelli che non sono l'incircolo hanno i loro centri dimostrati di coincidere con il circumcenter di $\triangle PQR$.
+
+[[src_jgmo1q__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale A — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_a__Q11
 parent: src_gas_2009_semifinale_a
 competition: Gara a Squadre 2009 - Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di sovrapposizioni di tre sfere su circonferenza*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2492
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Wx24coOZuHD5lnXnMkNRwAuUmiEDrRDK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of overlays of three spheres on circumference*
+
+> Among the many characteristics of the ring is a singular and disturbing brightness that is manifested by a very strange phenomenon. Three energy spheres travel the entire circumference of the ring in the same direction at constant speeds, respectively of 2009, 1253 and 756 rpm. When at least two of them are overlapping, a slight glow is released from the ring. How many flashes occur every minute if at any given moment the three spheres are perfectly overlapping?
+
+**Answer:** 2492
+[[src_gas_2009_semifinale_a__Q11]]

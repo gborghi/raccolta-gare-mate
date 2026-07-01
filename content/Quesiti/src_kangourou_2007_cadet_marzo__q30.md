@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q30
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero ottenibile con 5 operazioni da 15*
 
@@ -53,3 +56,17 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which number can be obtained with 5 operations from 15*
+
+> A strange calculator can only do the following: multiply by 2 or by 3, or raise to power 2 or power 3. Starting from number 15, which of the following numbers can be obtained by 5 successive operations of this calculator? A) 28 35 56 B) 26 36 54 C) 23 33 53 D) 28 34 52 E) 2 . 32 56 Texts_07.qxp 16-04-2007 12:05 Page 21
+> 
+>  
+> 1 Cadet category For third-year students of primary secondary school or first-year students of secondary school
+
+**Answer:** B
+[[src_kangourou_2007_cadet_marzo__Q30]]

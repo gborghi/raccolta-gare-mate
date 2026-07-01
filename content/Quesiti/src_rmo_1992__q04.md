@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1992 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1992__Q04
 parent: src_rmo_1992
 competition: Regional Mathematical Olympiad 1992
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral ABCD with diagonal AC meeting BD at E; prove EA²+EB²+EC²+ED²=4R².*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1E3JJBw_abvMOZ21Bh0CQ7FOsWYT93fGu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrilaterale ciclico con diagonale AC che si riunisce BD a E; prova EA2+EB2+EC2+ED2=4R2.*
+
+> $ABCD$ è un quadrilaterale ciclico con $AC \perp BD$, $AC$ incontra $BD$ a $E$. Prove che $$EA^2 + EB^2 + EC^2 + ED^2 = 4R^2,$$ dove $R$ è il raggio del cerchio circumscribente.
+
+[[src_rmo_1992__Q04]]

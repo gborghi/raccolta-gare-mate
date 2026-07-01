@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q18
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (a,b) di interi positivi con (b^3+1)/(ab-1) intero*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 2-1; 3-1; 2-2; 5-2; 5-3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Pairs (a,b) of positive integers with (b^3+1)/(ab-1) integer < MSK1/>
+
+> Determine the pairs $(a, b)$ of positive integers, with $a$ greater than or equal to $b$, where $(b^3 + 1)/(ab - 1)$ is an integer.
+
+**Answer:** 2-1; 3-1; 2-2; 5-2; 5-3
+[[src_bocconi_squadre_2008__Q18]]

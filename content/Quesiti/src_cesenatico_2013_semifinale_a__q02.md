@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Semifinale A — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_semifinale_a__Q02
 parent: src_cesenatico_2013_semifinale_a
 competition: Gara a Squadre Cesenatico 2013 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area intersezione delle due ombre (tetraedro+specchio)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1293
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Intersection area of the two shadows (tetrahedron+mirror) *
+
+> Through the mirror After hours spent playing with her kitten, Root is so tired that she almost fell asleep! Beyond the mirror, he sees a regular tetrahedron-shaped 1m side table on which a chessboard is drawn. The table rests on the ground in balance on one of the vertices, which is on the ground exactly one meter away from the mirror. The plane of the table, composed of one of the sides of the tetrahedron in the shape of an equilateral triangle, is parallel to the ground. One of its vertices points exactly toward the mirror, so that the opposite side is parallel to it. Just above the centre of the table, but at twice the height of the table, there is a light bulb on. Root notes that under the table two shadows are then formed: one caused by the direct light of the lamp and the other by the light reflected in the mirror. Knowing that the mirror is perfectly vertical, would you be able to calculate the area of the intersection between the two shadows? Give the answer in cm2.
+
+**Answer:** 1293
+[[src_cesenatico_2013_semifinale_a__Q02]]

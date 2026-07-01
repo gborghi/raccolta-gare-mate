@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2013 - Biennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_biennio__Q16
 parent: src_archimede_2013_biennio
 competition: Giochi di Archimede 2013 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area parte ombreggiata a stella nel quadrato*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LF_ulQktHd0ceVHNtwxam86iRnhlYI-E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area part shaded with stars in the square*
+
+![[src_archimede_2013_biennio__prob16.png]]
+
+> Calculate the area of the shaded part in the figure knowing that the side of the square is 2 m long and that the points of the star fall in the middle points of the sides of the square.
+>
+> - **(A)** 1 m2
+> - **(B)** 2 m2
+> - **(C)** 1 2 m2
+> - **(D)** π m2
+> - **(E)** 2 √ 2 m2
+
+**Answer:** A
+[[src_archimede_2013_biennio__Q16]]

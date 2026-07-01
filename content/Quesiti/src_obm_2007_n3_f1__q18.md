@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f1__Q18
 parent: src_obm_2007_n3_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *System a^2-ab=1, b^2-bc=1, c^2-ca=1; find abc(a+b+c)*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sistema a^2-ab=1, b^2-bc=1, c^2-ca=1; trovare abc(a+b+c) *
+
+> $a$, $b$, $c$ siano numeri tali che $$a^2-ab=1,\quad b^2-bc=1,\quad c^2-ca=1.$$ Il valore di $abc(a+b+c)$ sia uguale a:
+> 
+> (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $-1$ \quad (E) $-3$
+
+**Risposta:** D
+[[src_obm_2007_n3_f1__Q18]]

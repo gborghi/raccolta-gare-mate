@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2001 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo11mq_honsen__Q01
 parent: src_jmo11mq_honsen
 competition: Japan Mathematical Olympiad 2001 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *m×n grid coloring: each black cell has odd many black neighbours; show m,n odd*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jmnrFXCqLJXdLP8NRlR4gkY5D-23RO84/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*m×n colorazione della griglia: ogni cella nera ha parecchi vicini neri; mostrare m,n odd*
+
+> È data una griglia $m \times n$ di quadrati unitari. Ogni cellula è colorata in bianco o nero soddisfacendo la seguente condizione: per ogni cellula nera, il numero di cellule nere che condividono un bordo con essa è strano. Indicare che sia $m$ che $n$ devono essere pari.
+
+[[src_jmo11mq_honsen__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Junior (gara marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior__Q28
 parent: src_kangourou_2012_junior
 competition: Kangourou 2012 Junior (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei prodotti delle cifre di tutti i numeri di 3 cifre*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of the numerical products of all 3-digit numbers*
+
+> For each positive three-digit integer (in decimal notation), Nicola calculated the product of the three digits; he then summed all the products thus obtained. What was the result? A) 45 B) 452 C) 453 D) 245 E) 345
+
+**Answer:** C
+[[src_kangourou_2012_junior__Q28]]

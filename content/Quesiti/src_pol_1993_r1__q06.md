@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r1__Q06
 parent: src_pol_1993_r1
 competition: Olimpiade Matematica Polacca 1993 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given a sequence defined by a running-average recurrence, evaluate a weighted sum.*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Data una sequenza definita da una ricorrenza media in esecuzione, valutare una somma ponderata.*
+
+> La sequenza $(x_n)$ è definita da $x_0=1992$ e $$x_n=-\frac{1992}{n}\sum_{k=0}^{n-1}x_k$$ per ciascuna $n\ge 1$. Calcolare < MSK4/>.
+
+[[src_pol_1993_r1__Q06]]

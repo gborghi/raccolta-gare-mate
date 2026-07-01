@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1979 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1979_r3__Q04
 parent: src_pol_1979_r3
 competition: Olimpiade Matematica Polacca 1979 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence in [1,A] with ratio bound implies sequence in [1,A]*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mFSc82UPOl-hsqJK3SMN5XvfV4dcKK2I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza in [1,A] con limite di rapporto implica sequenza in [1,A]*
+
+> $A > 1$ e $B > 1$ siano numeri reali e $(a_n)$ una sequenza di numeri nell'intervallo $[1, AB]$. Prove che esiste una sequenza $(s_n)$ di numeri nell'intervallo $[1, A]$ tale che $$\frac{a_m}{s_m} \le B \cdot \frac{a_n}{s_n} \quad \text{for all } m, n = 1, 2, \ldots$$
+
+[[src_pol_1979_r3__Q04]]

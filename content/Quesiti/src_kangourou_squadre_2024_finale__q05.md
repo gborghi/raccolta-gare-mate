@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2024_finale__Q05
 parent: src_kangourou_squadre_2024_finale
 competition: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anno del primo romanzo data la somma degli anni*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1985
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Year of first novel given sum of years*
+
+> At some point in his life, a writer published a novel every two years. He's certainly published more than 7 and less than 14. Adding up the years in which his novels were published, you get 21,945. In what year did you publish your first novel?
+
+**Answer:** 1985
+[[src_kangourou_squadre_2024_finale__Q05]]

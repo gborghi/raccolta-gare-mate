@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet gara individuale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q17
 parent: src_kangourou_2022_cadet_gara
 competition: Kangourou 2022 Cadet gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri aveva scritto Alberto (sostituzione con 7-x)*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many numbers did Alberto write (replacement with 7-x)
+
+> Alberto wrote on a sheet some positive numbers less than 7. Rita replaced the difference between 7 and the number itself for every number Alberto wrote. The sum of Albert's numbers was 22; Rita's numbers are 34. How many numbers did Alberto write? A) 7
+> 	
+> B) 8
+> 	
+> C) 9
+> 	
+> D) 10
+> 	
+> E) 11
+
+**Answer:** B
+[[src_kangourou_2022_cadet_gara__Q17]]

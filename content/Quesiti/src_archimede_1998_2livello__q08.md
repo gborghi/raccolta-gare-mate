@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1998 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_2livello__Q08
 parent: src_archimede_1998_2livello
 competition: Archimede Gara 2º livello 1998
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori di k per cui ||x|-1|=k ha tre soluzioni*
 
@@ -38,3 +41,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> for which k has three solutions of k = k < MSK1/>
+
+> For which values of $\lambda$ does the equation $|x| - 1 = \lambda$ have exactly three solutions?
+> 
+> (A) For each $\lambda \geq 0$ \quad (B) only for $\lambda = 0$ \quad (C) for each $\lambda$ such that $0 \leq \lambda \leq 1$ (D) only for $\lambda = 1$ \quad (E) for no value of $\lambda$.
+
+**Answer:** D
+[[src_archimede_1998_2livello__Q08]]

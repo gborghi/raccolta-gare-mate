@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f3__Q02
 parent: src_obm_2004_n2_f3
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence defined by last digit of sum of previous four terms*
 
@@ -53,3 +56,17 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kyVB4TIFReMV148PiDwXpCdF7gL7rBzq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza definita dall'ultima cifra della somma dei quattro termini precedenti*
+
+> La sequenza di cifre $$1,\, 2,\, 3,\, 4,\, 0,\, 9,\, 6,\, 9,\, 4,\, 8,\, 7,\, \ldots$$ è costruita come segue: ogni elemento, a partire dalla quinta, è uguale all'ultima cifra della somma dei quattro elementi precedenti.
+> 
+> a) Le cifre $2, 0, 0, 4$ appaiono consecutivamente (in questo ordine) in qualche parte della sequenza?
+> 
+> b) Le cifre $1, 2, 3, 4$ riappare successivamente nella sequenza?
+
+[[src_obm_2004_n2_f3__Q02]]

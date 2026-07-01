@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1992 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1992__Q10
 parent: src_inmo_1992
 competition: Indian National Mathematical Olympiad 1992
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all functions f: R\{0,1} → R satisfying a functional equation*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EOEsZB8HaiI0YQM_jwUKgpq-22uACryj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni f: R\{0,1} → R che soddisfa un'equazione funzionale*
+
+> Determinare tutte le funzioni $f : \mathbb{R} \setminus \{0, 1\} \to \mathbb{R}$ in modo che per tutte $x$, $$f(x) + f\!\left(\frac{1}{1-x}\right) = \frac{2(1-2x)}{x(1-x)}.$$
+
+[[src_inmo_1992__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1966 (Eighth International Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1966_all__Q04
 parent: src_imo_1966_all
 competition: IMO 1966 (Eighth International Olympiad)
@@ -25,6 +26,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prove telescoping cosecant sum equals cot x minus cot 2^n x*
 
@@ -35,3 +38,13 @@ tags:
 **Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Somme telescopiche]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Tests of telescoping such as sum equals cot x minus cot 2^n x < MSK1/>
+
+> Demonstrate that for each natural number $n$ and for each real number $x \neq \dfrac{k\pi}{2^t}$ ($k$ any integer, $t = 0, 1, \ldots, n$): $$\frac{1}{\sin 2x} + \frac{1}{\sin 4x} + \cdots + \frac{1}{\sin 2^n x} = \cot x - \cot 2^n x.$$
+
+[[src_imo_1966_all__Q04]]

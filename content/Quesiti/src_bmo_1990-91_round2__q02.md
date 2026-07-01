@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1990-91 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1990-91_round2__Q02
 parent: src_bmo_1990-91_round2
 competition: British Mathematical Olympiad 1990-91 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Dwarfs with reversible cloaks: prove changes eventually stop*
 
@@ -45,3 +48,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19rA2wLIhPP8-xZr1hcnmK6fsW1-NB1i1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Nani con mantelli reversibili: dimostrare che i cambiamenti finiscono per cessare < MSK1/>
+
+> 12 nani vivono in una foresta. Ognuno ha un mantello a due lati che è blu da un lato e rosso dall'altro, e ogni nano indossa costantemente il suo mantello dal lato rosso.
+> 
+> In seguito alla risoluzione di Capodanno: il $n$-esimo giorno dell'anno il $4n$-esimo nano (modulo $12$) visiterà ciascuno dei suoi amici. Se trova la maggior parte di questi amici indossando i loro abiti diversi da lui, rovescerà il suo stesso abito. Altrimenti continuerà come prima.
+> 
+> Prove che prima o poi non ci saranno ulteriori cambiamenti.
+> 
+> (Le amicizie sono reciproche e non cambiano.)
+
+[[src_bmo_1990-91_round2__Q02]]

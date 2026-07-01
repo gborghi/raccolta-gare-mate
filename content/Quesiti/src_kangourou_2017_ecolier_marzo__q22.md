@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Écolier (gara marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q22
 parent: src_kangourou_2017_ecolier_marzo
 competition: Kangourou 2017 Écolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante faccine ha nascosto Lilli (celle confinanti)*
 
@@ -73,3 +76,44 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many faces did Lilli (neighbouring cells) hide?
+
+![[src_kangourou_2017_ecolier_marzo__prob22.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \fill[gray!50] (0,3) rectangle (1,4);
+  \node at (1.5,3.5) {3};
+  \node at (2.5,3.5) {3};
+  \fill[gray!50] (3,3) rectangle (4,4);
+  \node at (0.5,2.5) {2};
+  \fill[gray!50] (1,2) rectangle (4,3);
+  \fill[gray!50] (0,1) rectangle (2,2);
+  \node at (2.5,1.5) {2};
+  \fill[gray!50] (3,1) rectangle (4,2);
+  \fill[gray!50] (0,0) rectangle (1,1);
+  \node at (1.5,0.5) {1};
+  \fill[gray!50] (2,0) rectangle (4,1);
+  \draw[thick] (0,0) grid (4,4);
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure you can see a table divided into cells: if they have one side or even just one vertex in common, we will say that the two cells are adjacent. In some of the cells Lilli drew a page and in some of the other cells he wrote down the total number of pages in the adjacent cells. Then he covered all the cells that didn't contain numbers with cardboard. How many faces did Lilli hide? A) 4
+> 	
+> B) 5
+> 	
+> C) 7
+> 	
+> D) 8
+> 	
+> E) 11
+
+**Answer:** B
+[[src_kangourou_2017_ecolier_marzo__Q22]]

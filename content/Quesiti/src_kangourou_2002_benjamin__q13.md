@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_benjamin__Q13
 parent: src_kangourou_2002_benjamin
 competition: Kangourou 2002 - Benjamin (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Movimento dell'ape nell'alveare*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Movement of the bee in the hive< MSK1/>
+
+![[src_kangourou_2002_benjamin__prob13.png]]
+
+> A bee moves from one cell to another in the hive according to the rule suggested by the figure (which highlights the path taken so far). In which cell, always according to the rule, will the bee move from the position reached, indicated by the arrow?
+>  
+> A. A B. B C. C D. D E. E
+
+**Answer:** B
+[[src_kangourou_2002_benjamin__Q13]]

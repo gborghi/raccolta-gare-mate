@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Cadet — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_marzo__Q12
 parent: src_kangourou_2019_cadet_marzo
 competition: Kangourou 2019 Gara di Marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della regione ombreggiata fuori dal triangolo*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b7DN_IWn1PV7SIdg4JX34oufq_F9X0Ep/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the shaded region outside the triangle*
+
+![[src_kangourou_2019_cadet_marzo__prob12.png]]
+
+> 12. Viviana drew several identical rectangles adjacent to each other; then she joined the vertices of some of them together, as in the drawing, forming a triangle with a base of 6 cm and height measuring 10 cm and 6 cm respectively; finally she shaded the parts of the outer rectangles to the triangle. How many square centimetres is the 10 cm shaded region? A) 10 B) 12 C) 14 D) 15 E) 21
+
+**Answer:** B
+[[src_kangourou_2019_cadet_marzo__Q12]]

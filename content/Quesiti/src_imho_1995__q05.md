@@ -1,6 +1,7 @@
 ---
 title: IMO 1995 (XXXVI International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1995__Q05
 parent: src_imho_1995
 competition: IMO 1995 (XXXVI International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Convex hexagon ABCDEF with equal sides, angle and area condition*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pz-4eMo5rOEQfEuxsHP_U9uNUklh6WtJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Convex hexagon ABCDEF with equal sides, angle and area condition*
+
+> Let $ABCDEF$ be a convex hexagon with $AB = BC = CD$ and $DE = EF = FA$, such that $\angle BCD = \angle EFA = \pi/3$. Suppose $G$ and $H$ are points in the interior of the hexagon such that $\angle AGB = \angle DHE = 2\pi/3$. Prove that $AG + GB + GH + DH + HE \ge CF$.
+
+[[src_imho_1995__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q25
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min draws from box to guarantee 10 balls of same color*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Min tira dalla scatola per garantire 10 palle dello stesso colore*
+
+> Una scatola contiene 100 palle di diversi colori. Di questi, 30 sono rossi, 30 sono verdi, 30 sono blu, e tra i restanti 10, alcuni sono bianchi e altri neri. Qual è il numero minimo di palle che deve essere estratto dalla scatola, senza vedere il loro colore, per essere sicuro di avere almeno 10 palle dello stesso colore?
+> 
+> A) 31 Quad B) 33 Quad C) 35 Quad D) 37 Quad E) 38
+
+**Risposta:** E
+[[src_obm_1999_n3_f1__Q25]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f1__Q12
 parent: src_obm_2003_n2_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Self-describing sequence: which candidate fails*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di auto-descrizione: quale candidato fallisce*
+
+> La sequenza "22" si descrive nel senso che contiene esattamente due 2s. Allo stesso modo, la sequenza "31 12 33 15" si descrive, poiché contiene esattamente 3 uno, 1 due, 3 tre e 1 cinque. Quale delle seguenti sequenze * non * si descrive?
+> 
+> (A) 21 32 33 16 Quad (B) 31 12 33 18 Quad (C) 31 22 33 17 Quad (D) 21 32 33 17 Quad (E) 41 32 24 15 16 18
+
+**Risposta:** D
+[[src_obm_2003_n2_f1__Q12]]

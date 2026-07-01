@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1990 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1990_r3__Q06
 parent: src_pol_1990_r3
 competition: Olimpiade Matematica Polacca 1990 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove divisibility by 3 of an alternating sum of binomial coefficients for integers n>2.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SP_o4XBA9t_Mr20tlsjjsNkpPD2auONv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la divisibilità per 3 di una somma alternata di coefficienti binomiali per numeri interi n>2.*
+
+> Prova che per tutti gli integri $n > 2$, $\sum_{k=0}^{\lfloor n/3 \rfloor} (-1)^k \binom{n}{3k}$ è divisibile per 3.
+
+[[src_pol_1990_r3__Q06]]

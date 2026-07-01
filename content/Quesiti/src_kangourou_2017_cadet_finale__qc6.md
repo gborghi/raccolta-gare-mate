@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (finale Cervia) — Quesito C6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_finale__QC6
 parent: src_kangourou_2017_cadet_finale
 competition: Kangourou 2017 Cadet (finale Cervia)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cerchio minimo, coppie diametrali e cerchi contenenti S*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** No. Si.
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fMRZkFu7bLdUiC11xBpSrprxlKebqYVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum circle, diameter pairs and circles containing S*
+
+> Whether $S$ is a set composed of an arbitrary finite number but not less than $2$ of points in the plane: it is known that there exists, and is unique, the circle $C$ of minimum radius containing $S$ (the demonstration of this fact is outside the context of this competition, so it is not required).
+> 
+> A $\{a, b\}$ pair of $S$ points is said to be **diameter** if, however, two $S$ points are chosen, their distance does not exceed the distance between $a$ and $b$. Establish whether it is true (by reasoning the answer) that: - each diameter pair of $S$ must necessarily be on the circumference that delimits $C$; - there are always circles containing $S$, but not $C$.
+
+**Answer:** No. Si.
+[[src_kangourou_2017_cadet_finale__QC6]]

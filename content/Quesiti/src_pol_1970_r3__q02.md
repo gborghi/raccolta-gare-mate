@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1970 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1970_r3__Q02
 parent: src_pol_1970_r3
 competition: Olimpiade Matematica Polacca 1970 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three sequences with pairwise distinct terms have a common monotone pair*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NxvTqHB2h85LaOtFK6TUdaJR3QiuBzRI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre sequenze con termini separati in coppia hanno una coppia monotona comune*
+
+> Considerate tre sequenze $(a_1, a_2, \ldots)$, $(b_1, b_2, \ldots)$, $(c_1, c_2, \ldots)$, ognuna delle quali ha termini separati in coppia. Dimostrare che esistono due indici $k$ e $l$ quali $k < l$, $a_k < a_l$, $b_k < b_l$ e $c_k < c_l$.
+
+[[src_pol_1970_r3__Q02]]

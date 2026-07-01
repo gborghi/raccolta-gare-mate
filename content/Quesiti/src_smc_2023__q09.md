@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2023 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2023__Q09
 parent: src_smc_2023
 competition: Senior Mathematical Challenge 2023
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Crossnumber with squares, cubes and powers*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero incrociato con quadrati, cubi e potenze*
+
+> Un numero incrociato ha i seguenti indizi. Al di là: 1. Un quadrato; 3. Una quarta potenza. In basso: 1. Due volte una quinta potenza; 2. Un cubo. La griglia è un quadrato $3\times3$ con la cella centrale ombrata (bloccata); la cella 1 è in alto a sinistra, la cella 2 è in alto a destra, la cella 3 è in basso a sinistra e la cella superiore al centro è contrassegnata $*$. Se completato correttamente, il numero incrociato viene riempito con quattro numeri a tre cifre. Qual è la cifra $*$?
+>
+> - **(A)** $0$
+> - **(B)** $1$
+> - **(C)** $2$
+> - **(D)** $4$
+> - **(E)** $6$
+
+![[src_smc_2023__Q09.png]]
+
+**Risposta:** D
+[[src_smc_2023__Q09]]

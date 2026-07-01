@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q14
 parent: src_kangourou_2015_marzo_ecolier
 competition: Kangourou 2015 gara 19 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *punto mai toccato*
 
@@ -63,3 +66,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>point never touched< MSK1/>
+
+![[src_kangourou_2015_marzo_ecolier__prob14.png]]
+
+> There is a cycling track in the park such as the one shown in the figure, 6 points of which are indicated by many other letters. Peter starts from the point S moving in the direction indicated by the arrow: at the first intersection he finds he turns right, at the second he turns left, at the third he turns right, at the fourth he turns left and so on, alternating the choice of right with the choice of left. Although going back many times from the point S, there is one point (and only one) through which, in doing so, Peter never passes: what is it? A) A
+> 	
+> B) B
+> 	
+> C) C
+> 	
+> D) D
+> 	
+> E) Figure 1 Figure 2 B and C D A S
+>
+
+**Answer:** D
+[[src_kangourou_2015_marzo_ecolier__Q14]]

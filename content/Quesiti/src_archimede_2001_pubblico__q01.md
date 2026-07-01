@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_pubblico__Q01
 parent: src_archimede_2001_pubblico
 competition: Archimede 2001 - Gara del Pubblico (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *cerchi e quadrati inscritti, raggio oltre 200*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0017
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* inscribed circles and squares, radius greater than 200*
+
+> The IMO Confederation is a peaceful alien civilization located in the Asip Galaxy. The galaxy is made up of $n$ groups of stars, each of which forms a circle. The smallest circle (called $I_1$) has a radius $1$ Imoparsec. If a square is circled to it and a circle is circled to it, the second star belt ($I_2$) is found. Similarly starting from $I_2$ you get $I_3$, and then $I_4$, $I_5$, $\ldots$. The last belt is the only one with a greater radius than < MSK9/> Imoparsec. How many are in all the belts?
+
+**Answer:** 0017
+[[src_archimede_2001_pubblico__Q01]]

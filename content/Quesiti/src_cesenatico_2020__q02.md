@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2020 - testi — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2020__Q02
 parent: src_cesenatico_2020
 competition: Olimpiade Italiana (Cesenatico) 2020 - testi
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *b-a primo, cifra unita di a+b =3, ab quadrato*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gylN-2GSxpemPcbzJfcfMtzLwdIYnXYe/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>b-a first, unit number of a+b = 3, ab squared< MSK1/>
+
+> Determine all pairs (a, b) of positive integers that satisfy the following three conditions: • b > a and b −a is a prime number, • the unit number of a + b is 3, • ab is the square of an integer.
+
+[[src_cesenatico_2020__Q02]]

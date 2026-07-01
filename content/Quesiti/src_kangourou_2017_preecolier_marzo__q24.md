@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Pre-Ecolier - Gara 16 marzo — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_preecolier_marzo__Q24
 parent: src_kangourou_2017_preecolier_marzo
 competition: Kangourou 2017 Pre-Ecolier - Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale immagine si vede senza tagliare la corda*
 
@@ -41,3 +44,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/1crntaiy5LZsZ_bKbPPvKZDhsWRg3sfeJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What image is seen without cutting the rope?
+
+> Nicholas has three cards, each with a white face, the other gray and a hole in the center: he has them placed one on top of the other so that, for each, the top face is white and the bottom face is gray. Then he put a rope in the holes and glued the two ends together to form a ring. After correctly adjusting the cards, which of the following images can you see without cutting the rope?
+> 
+> (A) (B) (C) (D) (E)
+> 
+> (see figure)
+
+**Answer:** C
+[[src_kangourou_2017_preecolier_marzo__Q24]]

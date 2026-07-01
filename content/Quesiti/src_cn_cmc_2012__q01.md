@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2012 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2012__Q01
 parent: src_cn_cmc_2012
 competition: China Mathematical Competition 2012
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Dot product of PA and PB for point on curve with perpendicular feet*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $-1$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prodotto di punti di PA e PB per il punto sulla curva con piedi perpendicolari*
+
+> $P$ sia un punto sull'immagine di $y = x + \dfrac{2}{x}$ ($x > 0$). Attraverso $P$ tracciare linee perpendicolari agli assi $y = x$ e $y$ con punti di piede $A$ e $B$, rispettivamente. Quindi il valore di $\overrightarrow{PA} \cdot \overrightarrow{PB}$ è \underline{\hspace{2cm}}.
+
+![[src_cn_cmc_b11_w42__Q01.png]]
+
+**Risposta:** $-1$
+[[src_cn_cmc_2012__Q01]]

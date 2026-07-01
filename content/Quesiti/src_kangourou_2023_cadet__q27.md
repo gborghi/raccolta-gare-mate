@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q27
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quanti 77*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> when 77< MSK1/>
+
+> In the figure you see a way you can write the number 1015 as a sum of numbers where only the number 7 appears: in total the number has been used 10 times. If we want to write the number 2023 as the sum of positive numbers containing only the number 7, using that number 19 times, how many times do we have to use the number 77? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** E
+[[src_kangourou_2023_cadet__Q27]]

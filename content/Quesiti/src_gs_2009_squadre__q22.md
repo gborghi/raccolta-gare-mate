@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2009 - Gara a squadre — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2009_squadre__Q22
 parent: src_gs_2009_squadre
 competition: Coppa Fermat 2009 - Gara a squadre
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo insieme senza un numero e il suo triplo*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1508
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum sum without a number and its triple*
+
+> To demonstrate his ultra-psychic abilities to clients, Dr. Gag Halfrunt has the patient perform an easy experiment: He tells him to extract a number of balls from a box containing 2009 balls, numbered from 1 to 2009. He, speaking to the patient, will make sure that, among the balls extracted, there are at least two that give three times the number of the other. The thing is, Gag always pulls out the least number of balls that assures him he gets the result. What is the minimum number $n$ such that, taking any $n$ balls numbered from 1 to 2009, there are two of these with numbers that are one triple the other?
+
+**Answer:** 1508
+[[src_gs_2009_squadre__Q22]]

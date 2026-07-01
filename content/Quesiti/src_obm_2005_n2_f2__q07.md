@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f2__Q07
 parent: src_obm_2005_n2_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle cut from square cardboard; find sum of two marked angles*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo tagliato da cartone quadrato; trovare la somma di due angoli segnati*
+
+> Un triangolo rettangolo viene tagliato da un pezzo quadrato di cartone. La somma delle lunghezze delle due gambe del triangolo tagliato è uguale alla lunghezza laterale del quadrato. Trova il valore della somma degli angoli $\alpha + \beta$ indicati nella figura, dove il triangolo ha un angolo $27^\circ$ e $\alpha$, $\beta$ sono angoli formati tra i lati del triangolo e i lati del resto della cartone.
+
+![[src_obm_2005_n2_f2__Q07.png]]
+
+[[src_obm_2005_n2_f2__Q07]]

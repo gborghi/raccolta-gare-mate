@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1991 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1991_r3__Q01
 parent: src_pol_1991_r3
 competition: Olimpiade Matematica Polacca 1991 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compare volumes and face areas of two tetrahedra*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1roje33Ik1bzgcqsL7yxrXsm0APZTffe7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Compare i volumi e le superfici di superficie di due tetraedri*
+
+> dimostrare o respingere l'esistenza di due tetraedri $T_1$ e $T_2$ in modo tale che: (i) il volume di $T_1$ sia maggiore di quello di $T_2$, (ii) l'area di una faccia di $T_1$ non superi l'area di una faccia di $T_2$.
+
+[[src_pol_1991_r3__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2010 - Gara a squadre — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2010_squadre__Q15
 parent: src_gs_2010_squadre
 competition: Coppa Fermat 2010 - Gara a squadre
@@ -26,6 +27,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Passo minimo n con lato poligono sotto soglia*
 
@@ -37,3 +40,15 @@ tags:
 **Abilita:** [[skill_stima|Stima e approssimazione]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum step n with polygon side below threshold*
+
+> **Enrolled polygons ** (points 50)
+> 
+> In a radius of 1 m, the diameter shall be plotted as the first step. As a second step, mark the midpoints of each of the two arcs so formed and join the vertices of the diameter and the two midpoints to get a square. It continues by bisecting each arc formed at the previous step and joining the points marked on the circumference to obtain a regular polygon. How many steps must be taken at least so that the side of the polygon obtained is shorter than < MSK0/> m?
+
+[[src_gs_2010_squadre__Q15]]

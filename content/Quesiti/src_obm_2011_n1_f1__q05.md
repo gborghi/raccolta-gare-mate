@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q05
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Replace 3 triangles by 2 squares and 1 pentagon on a hexagon*
 
@@ -54,3 +57,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rimpiazzare 3 triangoli con 2 quadrati e 1 pentagono su un esagono*
+
+> Luana incolla, con nastro adesivo, 6 triangoli equilaterali sui lati di un esagono, come mostrato nella figura, ottenendo un poligono con 12 lati. Se sostituisce 3 dei triangoli con 2 quadrati e 1 pentagono regolare, tutti con lati della stessa dimensione di quelli dell'esagono, con quanti lati avrà il poligono ottenuto ora?
+> 
+> (A) 14 \quad (B) 16 \quad (C) 17 \quad (D) 18 \quad (E) 25
+
+![[src_obm_2011_n1_f1__Q05.png]]
+
+**Risposta:** C
+[[src_obm_2011_n1_f1__Q05]]

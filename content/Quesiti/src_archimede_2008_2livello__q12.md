@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_2livello__Q12
 parent: src_archimede_2008_2livello
 competition: Archimede Gara 2° livello 2008 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio della sfera dato ombra e asta verticale*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sphere radius given shadow and vertical axis*
+
+> On a sunny day, a sphere is placed on a horizontal terrain. At a certain moment the shadow of the sphere reaches a distance of 10 meters from the point where the sphere touches the ground. At the same time, a 1 metre long raft placed vertically on the ground casts a 2 metre long shadow. What is the radius of the sphere in meters?
+>
+> - **(A)** 5 2
+> - **(B)** 9 −4 √ 5
+> - **(C)** 10 √ 5 −20
+> - **(D)** 8 √ 10 −23
+> - **(E)** 6 − √ 15. Problems with numerical answer  5 points
+
+**Answer:** C
+[[src_archimede_2008_2livello__Q12]]

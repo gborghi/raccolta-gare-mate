@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student semifinale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q10
 parent: src_kangourou_2024_student_semifinale
 competition: Kangourou 2024 Student semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di (cd-ab)(c+d) con somma e somma inversi nulle*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of (cd-ab)(c+d) with sum and inverse sum of zero*
+
+> (Points 4) Four real numbers a, b, c, d all other than 0 are such that their sum is 0, as well as the sum of their inverse with the inverse of their product. How much is (cd  ab) c + d)? The answer is: 0001. The solution. From the second condition we get cd(a + b) + ab(c + d) =  1. From the first, being a + b =  (c + d), you get then that the number you're looking for is 1.
+
+**Answer:** 1
+[[src_kangourou_2024_student_semifinale__Q10]]

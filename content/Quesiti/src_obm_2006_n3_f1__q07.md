@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q07
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify which monomial expression cannot equal 24 for suitable positive integers a,b,c.*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare quale espressione monomiale non può essere uguale a 24 per i numeri interi positivi adatti a,b,c.*
+
+> Quale espressione di seguito non può rappresentare il numero 24 per i valori interi positivi convenienti di $a$, $b$ e $c$?
+> 
+> (A) $ab^3$ \quad (B) $a^2b^3$ \quad (C) $a^cb^c$ \quad (D) $ab^2c^3$ \quad (E) $a^4b^c$
+
+[[src_obm_2006_n3_f1__Q07]]

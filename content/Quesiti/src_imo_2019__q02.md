@@ -1,6 +1,7 @@
 ---
 title: IMO 2019 papers — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2019__Q02
 parent: src_imo_2019
 competition: IMO 2019 papers
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *P,Q,P1,Q1 conciclici nel triangolo*
 
@@ -38,3 +41,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JyHT55oZouRQ04YAx-a4_fyuMYOtPSWx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*P,Q,P1,Q1 conical in the triangle*
+
+> In the $ABC$ triangle, the point $A_1$ lies on the $BC$ side and the point $B_1$ lies on the $AC$ side. $P$ and $Q$ points on the $AA_1$ and $BB_1$ segments respectively, such that $PQ$ is parallel to $AB$. Whether $P_1$ is a point on the $PB_1$ line such that $B_1$ is located between $P$ and $P_1$, and $\angle PP_1C = \angle BAC$. Similarly, $Q_1$ is a point on the $QA_1$ line such that $A_1$ is close to $Q$ and $Q_1$, and $\angle CQ_1Q = \angle CBA$.
+> 
+> To demonstrate that $P$, $Q$, $P_1$ and $Q_1$ are complicated.
+
+[[src_imo_2019__Q02]]

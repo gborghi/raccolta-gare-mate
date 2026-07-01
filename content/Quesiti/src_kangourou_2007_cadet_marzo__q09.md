@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q09
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro rettangolo grande (6 circonferenze)*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Large rectangular perimeter (6 circumferences) *
+
+![[src_kangourou_2007_cadet_marzo__prob9.png]]
+
+> Consider six circumferences of the same radius arranged within a large rectangle, tangent to each other and tangent to the sides of the rectangle, as shown in the figure. The vertices of the small rectangle are each located in the center of a circumference. The perimeter of the small rectangle measures 60 centimeters. How many centimeters is the perimeter of the big one? A) 160 B) 140 C) 120 D) 100 E) 80
+
+**Answer:** D
+[[src_kangourou_2007_cadet_marzo__Q09]]

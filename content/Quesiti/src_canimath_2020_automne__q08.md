@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2020 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_automne__Q08
 parent: src_canimath_2020_automne
 competition: Coupe Animath Automne 2020
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum size of a subset of {1,...,200} whose pairwise differences are never prime*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dimensione massima di un sottoinsieme di {1,...,200} le cui differenze in coppia non sono mai prime*
+
+> $S$ sia un insieme incluso in $\{1, 2, 3, \ldots, 199, 200\}$. Diciamo che $S$ è *joli* (pretty) se, per tutti gli elementi $a$ e $b$ di $S$, il numero $a - b$ non è un numero primo. Qual è il numero massimo di elementi di un insieme *joli* incluso in $\{1, 2, 3, \ldots, 199, 200\}$?
+> 
+> *Nota: diciamo che un insieme $A$ è incluso in un insieme $B$ se ogni elemento di $A$ è anche un elemento di $B$.*
+
+[[src_canimath_2020_automne__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre__Q02
 parent: src_kangourou_2023_ecolier_squadre
 competition: Kangourou Squadre 2023 Ecolier Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti dei primi 2022 termini sono dispari*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0674
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many of the first 2022 terms are odd*
+
+> Sequence The sequence of integers 6, 7, 14, 22, 37, 60, 98, ... follows the following rule: each term, starting with the third, is the sum of the two preceding it multiplied by 1. How many of the first 2022 numbers in the sequence are odd?
+
+**Answer:** 0674
+[[src_kangourou_2023_ecolier_squadre__Q02]]

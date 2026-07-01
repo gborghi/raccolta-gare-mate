@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 29
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q29
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -34,6 +35,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle 13-13-10; incircle tangents parallel to sides form hexagon; find m+n+l*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles 13-13-10; tangenti incircoli paralleli ai lati formano esagoni; trovare m+n+l*
+
+> Che $ABC$ sia un triangolo a uguali con i lati 13, 13 e 10. Le tangenti dell'incircolo, disegnate in parallelo ai lati all'interno, intersecano i lati nei punti $D, E, F, G, H, K$ che formano un esagono. Se l'area dell'esagono $DEFGHK$ è $\frac{m}{n}$, dove $m, n$ sono integri positivi con $n < l$ e $\gcd(m, l) = 1$, quale è $m + n + l$?
+
+[[src_ioqm_2025_sep28__Q29]]

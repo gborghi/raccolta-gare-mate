@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale nazionale Junior — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q08
 parent: src_kangourou_2019_junior_finale
 competition: Kangourou 2019 Finale nazionale Junior
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di punti medi distinti per 2019 punti*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 4035
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of distinct mean points for 2019 points*
+
+> A square has been partially shaded in the five different ways listed in the figures. In which of the drawings is the area of the shaded part the largest?
+>
+> - **(A)** (see Figure A)
+> - **(B)** (see Figure B)
+> - **(C)** (see Figure C)
+> - **(D)** (see Figure D)
+> - **(E)** (see Figure E) (see Figure)
+
+**Answer:** 4035
+[[src_kangourou_2019_junior_finale__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1972 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1972_r3__Q03
 parent: src_pol_1972_r3
 competition: Olimpiade Matematica Polacca 1972 — Round 3
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *There is an integer-coefficient polynomial approximating 1/2 to within 1/1000 on [1/10, 2/10].*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u10PZn1Xtd_4pvaqg5qH_EntPwiPBjmg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*C'è un polinomio a coefficiente interi che si approssimano da 1/2 a 1/1000 su [1/10, 2/10].*
+
+> Prova che esiste un polinomio $P(x)$ con coeficienti interi in modo che per tutti $x$ nell'intervallo $\left[\frac{1}{10}, \frac{2}{10}\right]$ abbiamo $\left|P(x) - \frac{1}{2}\right| < \frac{1}{1000}$.
+
+[[src_pol_1972_r3__Q03]]

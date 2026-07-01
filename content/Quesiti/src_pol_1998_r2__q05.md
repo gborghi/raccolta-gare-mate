@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1998 — Round 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1998_r2__Q05
 parent: src_pol_1998_r2
 competition: Olimpiade Matematica Polacca 1998 — Round 2
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For 7 pairs of nonnegative reals with a_i+b_i<=2, find two indices k,m with |a_k-a_m|+|b_k-b_m|<=1*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NWtmk2jyNO5I-Zt-c1qVK7ASBrDFtJkS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+* 7 coppie di reali non-negativi con a_i+b_i<=2, trovare due indici k,m con \a_k-a_m_lease\b_k-b_m_lease<=1*
+
+> Supponiamo che $a_1, \ldots, a_7, b_1, \ldots, b_7$ siano numeri reali non negativi come $a_i + b_i \le 2$ per tutti $i$. Prova che esistono due indici $k, m$ diversi in modo tale che $$|a_k - a_m| + |b_k - b_m| \le 1.$$
+
+[[src_pol_1998_r2__Q05]]

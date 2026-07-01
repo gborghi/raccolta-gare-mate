@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre finale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q01
 parent: src_kangourou_2012_squadre_finale
 competition: Kangourou 2012 squadre finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Di quanto la somma dei pari supera quella dei dispari*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1006
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How much more of the sum of the peers than the sum of the odd ones*
+
+> Paola and Enrico Consider all positive integers up to and including 2012: Paola calculates the sum of all odd numbers and Enrico the sum of all even numbers. How much more money did Enrico get than Paola?
+
+**Answer:** 1006
+[[src_kangourou_2012_squadre_finale__Q01]]

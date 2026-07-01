@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2007 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2007__Q18
 parent: src_bocconi_semifinale_2007
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2007
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di figli maschi di Luca Maria*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of sons of Luca Maria*
+
+> Luke Maria decides to leave in inheritance to his children (male and female) a series of equilateral triangles, one for each child. For each, he takes the sticks so that he does not bite himself: he disposes the sticks so that he never puts two neighbors together. Suppose each child receives the same number of stitches.
+> 
+> If Luca Maria has 10 daughters, how many sons does he have?
+
+**Answer:** 9
+[[src_bocconi_semifinale_2007__Q18]]

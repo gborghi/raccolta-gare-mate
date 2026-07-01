@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Cadet 2024 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet_semifinale__Q11
 parent: src_kangourou_2024_cadet_semifinale
 competition: Kangourou Semifinale individuale Cadet 2024
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma minima di sei numeri coprimi sulle facce di un cubo*
 
@@ -68,3 +71,35 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0022
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YuKlYOQSjLPYC0cQWHZFjw49wPVl8dfH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of six numbers covered on the faces of a cube*
+
+![[src_kangourou_2024_cadet_semifinale__prob11.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.7]
+  \draw[thick] (0,0) rectangle (1,1);
+  \draw[thick] (1,1) rectangle (2,2);
+  \draw[thick] (1,0) rectangle (2,1);
+  \draw[thick] (2,0) rectangle (3,1);
+  \draw[thick] (3,0) rectangle (4,1);
+  \draw[thick] (1,-1) rectangle (2,0);
+  \node at (0.5,0.5) {\textbf{1}};
+  \node at (1.5,1.5) {\textbf{2}};
+  \node at (1.5,0.5) {\textbf{3}};
+  \node at (2.5,0.5) {\textbf{5}};
+  \node at (3.5,0.5) {\textbf{7}};
+  \node at (1.5,-0.5) {\textbf{4}};
+\end{tikzpicture}
+\end{document}
+```
+
+> (Points 5) On each side of a cube is written a positive integer, and all six numbers are different from each other. You know, however you consider two adjacent faces, the only common divisor of the two numbers that you see is 1. What is the minimum value of the sum of the six numbers? Remember, they say two faces are adjacent if they have a joint. The answer is 0022. The solution. It is clear that the number 6 cannot be used because it would necessarily be found on a face adjacent to the one with 2 or the one with 3 or the one with 4.
+
+**Answer:** 0022
+[[src_kangourou_2024_cadet_semifinale__Q11]]

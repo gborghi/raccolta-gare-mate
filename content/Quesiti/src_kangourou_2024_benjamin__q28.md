@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Benjamin 2024 — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin__Q28
 parent: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti pezzi di corda ottiene Maya (12 e 16 tagli)*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many pieces of rope does Maya get (12 and 16 cuts)
+
+> Daniel plans to cut a rope into 12 pieces of equal length and marks on the rope the points where he must cut it. Mark also plans to cut the same rope into 16 pieces of equal length and marks the points where he must cut it. Maya arrives, cutting the rope wherever she finds a mark. How many pieces of rope does Maya get? A) 24
+> 	
+> B) 25
+> 	
+> C) 27 D) 28
+> 	
+> E) 29
+
+**Answer:** A
+[[src_kangourou_2024_benjamin__Q28]]

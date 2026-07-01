@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2007 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2007__Q04
 parent: src_bocconi_autunno_2007
 competition: Giochi d'Autunno 2007
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Contorno dei due pezzi sovrapponibili del découpage*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** La linea evidenziata nella soluzione mostra come deve essere suddivisa la figura
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Around the two overlapping parts of the decoupage*
+
+> This puzzle is made up of only two pieces that can be overlaid. Draw the outline of these two pieces, knowing that one may have been overturned. (To help you, a first line of the boundary between the two pieces has already been drawn.)
+
+![[src_bocconi_autunno_2007__Q04.png]]
+
+**Answer:** La linea evidenziata nella soluzione mostra come deve essere suddivisa la figura
+[[src_bocconi_autunno_2007__Q04]]

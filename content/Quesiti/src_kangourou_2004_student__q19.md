@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q19
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Segno prodotto in successione geometrica a3<a2<a4*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Produced sign in geometric succession a3<a2<a4*
+
+> In a geometrical sequence of 1, 2, 3, ... the following inequalities are obtained: a 3 < a 2 < a 4 . Then surely A) to 3 Aa 4 > 0 B) to 2 Aa 3 < 0 C) to 2 Aa 4 < 0 D) to 2 < 0 E) to 2 Aa 3 > 0
+
+**Answer:** B
+[[src_kangourou_2004_student__Q19]]

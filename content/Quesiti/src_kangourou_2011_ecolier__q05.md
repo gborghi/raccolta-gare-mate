@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Ecolier (gara marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier__Q05
 parent: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Di quale figura parla Marina (grigia rotonda o triangolare)*
 
@@ -65,3 +68,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What figure is Marina talking about (round or triangular grey) *
+
+![[src_kangourou_2011_ecolier__prob5.png]]
+
+> Referring to one of the figures here, Marina says: It's gray, it's round or triangular. What figure is this? A) A B) B C) C D) D E) E
+>  
+> A) B) C) D) E) E A C D B ? This is the main reason why the Commission has decided to extend the period of validity of this Decision.
+> 
+> I'm going to pay. I'm going to pay. 6 Kang 201 Kang 2011
+
+**Answer:** B
+[[src_kangourou_2011_ecolier__Q05]]

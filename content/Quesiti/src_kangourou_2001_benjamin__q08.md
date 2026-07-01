@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q08
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero non ottenibile raddoppiando 4 volte*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number not obtained by doubling 4 times*
+
+> Clear thinks of an integer. It doubles that number, doubles the result again, doubles it again, and then doubles it again. Which of the following numbers certainly cannot be the result?
+>
+> - **(A)** 80
+> - **(B)** 1200
+> - **(C)** 48
+> - **(D)** 84
+> - **(E)** 880. . 15 1 (E) 12 1 (D) 10 1 (C) 8 1 (B) 6 1 ) A (Kangourou 15 March 2001, category Benjamin. This item is not intended to be used. 3
+
+**Answer:** D
+[[src_kangourou_2001_benjamin__Q08]]

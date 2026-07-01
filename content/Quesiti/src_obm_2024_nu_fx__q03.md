@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2024 — Nível Universitário — Fase x —
   Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2024_nu_fx__Q03
 parent: src_obm_2024_nu_fx
 competition: Olimpíada Brasileira de Matemática 2024 — Nível Universitário — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Board game: moves on n×n grid preserving exactly one stone*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ASMMz2DYTBieu4G0G3yj2BJioNfgOgua/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco da tavolo: si muove su n×n griglia conservando esattamente una pietra*
+
+> Considerate un gioco su una tavola $n \times n$, dove ogni cella inizia con esattamente una pietra. Un *movimento* consiste nel scegliere $5$ cellule consecutive nella stessa riga o colonna della lavagna e scambiare lo stato di tali cellule (rilevando una pietra da una cellula che ne ha una e inserendo una nella cellula che non ne ha una). Per quali integri positivi $n \ge 5$ è possibile far rimanere esattamente una pietra alla tavola dopo un numero finito di mosse?
+
+[[src_obm_2024_nu_fx__Q03]]

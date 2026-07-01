@@ -1,6 +1,7 @@
 ---
 title: IMO 1991 (XXXII International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1991__Q02
 parent: src_imho_1991
 competition: IMO 1991 (XXXII International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Arithmetic residues mod n implies n is 1, 2, 4, prime power, or double*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Arithmetic residues mod n implies n is 1, 2, 4, prime power, or double*
+
+> Let $n > 0$ be an integer and let $a_1, a_2, \ldots, a_k$ be all the natural numbers less than and relatively prime to $n$. If $$a_2 - a_1 = a_3 - a_2 = \cdots = a_k - a_{k-1} > 0,$$ proves that $n$ must be either $1$, $2$, $4$, a power of an odd prime, or twice a power of an odd prime.
+
+[[src_imho_1991__Q02]]

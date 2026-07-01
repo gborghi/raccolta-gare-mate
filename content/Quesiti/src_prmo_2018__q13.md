@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q13
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right-angled triangle at A, altitude and angle bisector from A have lengths 3 and 4, find median length*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un triangolo rettangolo a A, l'altitudine e l'angolo bisector da A hanno lunghezze 3 e 4, trovare la lunghezza media*
+
+> In un triangolo $ABC$, angolato a destra a $A$, l'altitudine attraverso $A$ e il bisettore interno di $\angle A$ hanno lunghezze 3 e 4, rispettivamente. Trova la lunghezza della media attraverso $A$.
+
+[[src_prmo_2018__Q13]]

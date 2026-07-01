@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2014 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2014_automne__Q04
 parent: src_canimath_2014_automne
 competition: Coupe Animath Automne 2014
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence a_n=a_{n-1}/a_{n-2}, a_1=2, a_2=3; find a_{2014}*
 
@@ -45,3 +48,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15vtKOtQa9ehL1Qp64ICOkTx6pQqg0n_e/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza a_n=a_{n-1}/a_{n-2}, a_1=2, a_2=3; trovare a_{2014}*
+
+> Che $a_1, a_2, a_3, \ldots$ sia una sequenza di numeri reali come $a_1 = 2$, $a_2 = 3$ e $a_n = \dfrac{a_{n-1}}{a_{n-2}}$ per ogni intero $n \ge 3$. Per esempio, $a_3 = a_2/a_1 = 3/2$. Determinare il valore di $a_{2014}$.
+
+**Risposta:** 3/2
+[[src_canimath_2014_automne__Q04]]

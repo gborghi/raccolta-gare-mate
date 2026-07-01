@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q11
 parent: src_kangourou_2015_squadre_a
 competition: Kangourou Coppa Squadre 2015 Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Metri percorsi da Ernesto avanti e indietro*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1640
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Meter of routes from Ernesto back and forth*
+
+> Forward and backward To train, one day Ernesto decides to do an experiment: starting from a certain point on a straight road, he starts to take a step forward, then he takes two steps forward and one step backward, then three steps forward and two steps backward, then four steps forward and three steps backward and so on. An Ernesto's step is always exactly one meter long. When he reaches a distance of 80 meters from where he had left off, he decides to stop. How many yards did Ernesto walk before he stopped?
+
+**Answer:** 1640
+[[src_kangourou_2015_squadre_a__Q11]]

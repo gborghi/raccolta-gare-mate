@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 finale nazionale Cadet — Quesito C3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_finale_cadet__QC3
 parent: src_kangourou_2015_finale_cadet
 competition: Kangourou 2015 finale nazionale Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *misura angolo ABC*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 45 gradi
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lJat_HJPa_if1S_8tiIXnJFfuMmekK2y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The measurement shall be carried out in accordance with the methodology set out in Annex II.
+
+![[src_kangourou_2015_finale_cadet__probC3.png]]
+
+> The figure shows two equal squares that have exactly one vertex in common. Is it possible to specify the angle $ABC$? (see figure)
+
+**Answer:** 45 gradi
+[[src_kangourou_2015_finale_cadet__QC3]]

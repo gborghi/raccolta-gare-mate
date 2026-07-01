@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2020 Finale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q08
 parent: src_kangourou_2020_squadre_finale
 competition: Kangourou Coppa squadre 2020 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo ribaltamenti di linee per 2020 gettoni rossi*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0022
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ouvUikm9jtg5T9XqFtDuhZcgJZXEsFwU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum line reversals for 2020 red tokens*
+
+> On a rectangular chessboard of 100 < MSK0/> 50 there are 5000 tokens, one on each box. Each token has a black face and a red face and right now all the tokens show the black face. The game consists of flipping tokens so that a set number of red faces appear. One rule: to overturn a token you have to overturn all the tokens in the row or, if you choose, the column to which the token belongs. You can flip all the lines you want, as many times as you want. What is the minimum number of line flips that allows you to see exactly 2020 red tokens?
+
+**Answer:** 0022
+[[src_kangourou_2020_squadre_finale__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q12
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area dell'aiuola dei piselli prima della variazione*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Area of the peas flour before variation< MSK1/>
+
+![[src_kangourou_2012_cadet__prob12.png]]
+
+> Mrs. Ortolani has a field where she grows peas and strawberries in two rectangular orchards next to each other as shown in the figure. This year, he extended one side of the peas' owl by 3 meters so that the owl became square. In this way the area of the strawberry shed has been reduced by 15 m2. Before the change, how many square meters did the area of the peas shell measure? A) 5 B) 9 C) 10 D) 15 E) 18
+
+**Answer:** C
+[[src_kangourou_2012_cadet__Q12]]

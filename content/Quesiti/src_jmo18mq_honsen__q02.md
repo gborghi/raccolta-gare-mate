@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2008 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo18mq_honsen__Q02
 parent: src_jmo18mq_honsen
 competition: Japan Mathematical Olympiad 2008 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Players in a circle pass red/white cards; max turns to balance*
 
@@ -44,3 +47,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFw0JBQC4rJhouU4rWc2OR9yO8fSPsSo/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gli giocatori in un cerchio passano carte rosse/bianche; il massimo dei ruoli è di equilibrio*
+
+> Ci sono carte rosse < MSK0/> e carte bianche < MSK1/>. Ciascuno dei giocatori $2008$ viene distribuito $2$ di queste carte, e i giocatori si siedono in un cerchio rivolto verso l'interno. In un turno, tutti i giocatori fanno contemporaneamente quanto segue:
+> 
+> - Se un giocatore detiene almeno una carta rossa, passa una carta rossa al giocatore sulla sinistra. Se un giocatore non detiene una carta rossa, passa una carta bianca al giocatore sulla sinistra.
+> 
+> Determinare il numero massimo possibile di giri fino al primo momento in cui ogni giocatore detiene esattamente una carta rossa e una carta bianca.
+
+[[src_jmo18mq_honsen__Q02]]

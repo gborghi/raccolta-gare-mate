@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Triennio — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_triennio__Q19
 parent: src_archimede_2010_triennio
 competition: Giochi di Archimede 2010 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti gatti viola tra dichiarazioni veri e bugiardi*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many purple cats between true and false statements*
+
+> Major Tom has landed on a planet populated by purple cats, who always tell the truth, and black cats, who always lie. In the most complete darkness he encounters five cats, who address him as follows. First cat: I am purple; second cat: At least 3 of us are purple, third cat: The first cat is black, fourth cat: At least 3 of us are black, fifth cat: We are all black. How many of the five cats are purple?
+>
+> - **(A)** No one.
+> - **(B)** 1,
+> - **(C)** 2,
+> - **(D)** 3,
+> - **(E)** 4.
+
+**Answer:** C
+[[src_archimede_2010_triennio__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f3__Q01
 parent: src_obm_2004_n3_f3
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 3
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Incircles of four triangles in convex quadrilateral share a point iff rhombus*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6ODX7lMgcQas-StqoLeTzsGE8LAzVUM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I cerchi di quattro triangoli in quadrilaterali convexi condividono un punto di rombo*
+
+> Che < MSK0/> sia un quadrilaterale convex. Prova che gli incircoli dei triangoli $ABC$, $BCD$, $CDA$ e $DAB$ hanno un punto comune se e solo se $ABCD$ è un rombo.
+
+[[src_obm_2004_n3_f3__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 2014 (shortlist/papers) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2014__Q06
 parent: src_imo_2014
 competition: IMO 2014 (shortlist/papers)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorare radice-n rette senza regione blu*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Coloring straight roots without blue region< MSK1/>
+
+> A set of lines in the plane is in ** general position** if no pair is parallel and no tern passes through the same point. A set of lines in general position divides the plan into regions, some of which have finite area; these regions are called **finite regions**. Demonstrate that for all $n$ sufficiently large, in any set of $n$ lines in general position it is possible to colour at least $\sqrt{n}$ lines in blue so that no finite region has an entirely blue edge.
+> 
+> **Note:** Results in which $\sqrt{n}$ is replaced by $c\sqrt{n}$ will be evaluated on the basis of the value of the constant $c$.
+
+[[src_imo_2014__Q06]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 2) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g2__Q16
 parent: src_bocconi_finaleint_2011_g2
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi per ricoprire rettangolo 2×7 con domino*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2356
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode to cover rectangle 2×7 with domino*
+
+> A regular and oriented square, covering $2\times n$ rectangles or squares only with $1\times 2$ rectangles or $1\times 1$ squares. How many different ways can a $2\times 7$ rectangle be covered?
+
+![[src_bocconi_finaleint_2011_g2__Q16.png]]
+
+**Answer:** 2356
+[[src_bocconi_finaleint_2011_g2__Q16]]

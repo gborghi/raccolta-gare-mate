@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n2_f2__Q01
 parent: src_obm_1999_n2_f2
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2
@@ -40,6 +41,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three consecutive months in a non-leap year each with exactly four Sundays; prove one of them is February.*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1psURjkFuMxj9RH-TjdKiYCVL0r6_oiLW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre mesi consecutivi in un anno non bisestivo, ognuno con esattamente quattro domeniche; dimostrare che uno di essi è febbraio.*
+
+> Tre mesi consecutivi di un determinato anno non alto hanno esattamente quattro domeniche. Prova che uno di questi mesi è febbraio.
+
+[[src_obm_1999_n2_f2__Q01]]

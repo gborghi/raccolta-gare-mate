@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_biennio__Q06
 parent: src_archimede_2018_biennio
 competition: Giochi di Archimede 2018 - Biennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soldatini tra 2000 e 2500 con resto 1 per 2..7*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Soldiers between 2000 and 2500 with 1 to 2.7 remaining
+
+> Caesar has a large number of soldiers, between 2000 and 2500. Try to line them up by two, by three, by four, five, six, seven, but each time one goes up. If you want to arrange them all in different rows of the same length (greater than 1), what should be the minimum length?
+>
+> - **(A)** 19
+> - **(B)** 23
+> - **(C)** 11
+> - **(D)** 17
+> - **(E)** 13
+
+**Answer:** C
+[[src_archimede_2018_biennio__Q06]]

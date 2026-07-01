@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q11
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area comune di due trapezi mistici da circonferenze tangenti*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0154
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Common area of two tangent-circumference mixed trapezoids*
+
+> A court is open war between the clergyman Didymus and the enchantress Dianora. The reason for the dispute is the realization of a mystical quadrilateral. Didimo proposes to construct it according to alchemical rules: consider two radii 4 and 16 tangent circumferences externally, and a straight tangent to both circles at two distinct points. The mystic quadrilateral shall be the trapezoid of vertices the two centers of the circumferences and the two points of tangency with the straight. Dianora, on the other hand, prefers magic: she considers the same circumferences and the same straight, but the mystical quadrilateral must be the trapezoid of vertices the two centers of the circumferences and the two points of intersection of the straight with the perpendiculars, led by the two centers, to the connecting centers. Hoping to appease the altercation, the king proposes that the mystical quadrilateral be the common part of the two quadrilaterals proposed by Didymus and Dianora. What is the area of this common part? Team competition 2004  National stage  Problem texts  Pag. 2 di 4
+
+**Answer:** 0154
+[[src_cesenatico_2004_squadre__Q11]]

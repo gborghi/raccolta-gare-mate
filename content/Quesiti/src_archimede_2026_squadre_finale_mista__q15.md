@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Finale Nazionale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_mista__Q15
 parent: src_archimede_2026_squadre_finale_mista
 competition: Gara a Squadre Nazionale 2026 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo costo calcolatrice per due espressioni bilineari*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0109
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum calculating cost for two bilinear expressions< MSK1/>
+
+> Viking calculator Nikita Deniskin Eret (born) is a dragon hunter who is hired by the ruthless Dragon Burnsvist. After capturing Nashtrid, Fish, and the twins Thuff and Thbruta along with their dragons, he wants to determine how much to sell them to his master. To do this, it starts from six numbers a,b,c,x,y,z and must calculate the values of the following expressions: 2ay +2bx+2cy +2bz; az +bz +cz +cy +cx. Unfortunately, Eret cannot do calculations by heart and must use a Viking calculator, which only allows two numbers to be entered at once and an operation between addition, subtraction and multiplication can be performed. However, he has an excellent memory and can reuse any previous results as input. Each addition or subtraction consumes 4 odinowatts, while each multiplication consumes 23. How many Odinowatt will you consume to calculate both expressions?
+
+**Answer:** 0109
+[[src_archimede_2026_squadre_finale_mista__Q15]]

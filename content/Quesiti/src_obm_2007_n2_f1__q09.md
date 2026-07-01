@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f1__Q09
 parent: src_obm_2007_n2_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of convex polygons from 12 points on a circle*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di poligoni convexi da 12 punti su un cerchio*
+
+> Dodici punti sono segnati su un cerchio. Quanti poligoni convexi possiamo formare con vertici a questi punti $12$?
+> 
+> (A) 4017 $\quad$ (B) 220 $\quad$ (C) 4095 $\quad$ (D) 66 $\quad$ (E) 3572
+
+**Risposta:** C
+[[src_obm_2007_n2_f1__Q09]]

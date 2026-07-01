@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo25yq_yosen__Q03
 parent: src_jmo25yq_yosen
 competition: Japan Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimize a+b+c+d+e under a chain of strict inequalities involving squares and cubes*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 35
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1puWzUo8OLdW2kCIHzGHhZaVauCRdH9Ya/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimizzare a+b+c+d+e sotto una catena di rigide disuguaglianze che coinvolgono quadrati e cubi*
+
+> I numeri interi positivi $a, b, c, d, e$ soddisfano $$a < b < c < d < e < a^2 < b^2 < c^2 < d^2 < e^2 < b^3 < c^3 < d^3 < e^3.$$ Trovare il valore minimo possibile di $a + b + c + d + e$.
+
+**Risposta:** 35
+[[src_jmo25yq_yosen__Q03]]

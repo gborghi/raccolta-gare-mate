@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q23
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n such that fourth powers 1^4,...,14^4 have distinct remainders mod n*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>N più piccolo in modo tale che la quarta potenza 1^4,...,14^4 abbia residui distinti mod n < MSK1/>
+
+> Considerate i quattordici numeri, $1^4, 2^4, \ldots, 14^4$. Il numero naturale più piccolo $n$ tale da lasciare residui distinti quando diviso per $n$ è:
+
+[[src_ioqm_2024__Q23]]

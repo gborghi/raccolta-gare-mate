@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2012 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2012__Q15
 parent: src_bocconi_autunno_2012
 competition: Giochi d'Autunno 2012
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti dolci serviti complessivamente in ristorante con vincoli*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 40
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NV-k_HLPNGANyAIvy1osIKx3v70VuvCV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many sweets are served overall in a restaurant with restrictions< MSK1/>
+
+> As soon as Renato retired, he gave in to his passion and opened a restaurant. Last night, 32 customers took (at least) the starter and the first; the $\frac{8}{6}$ of all customers chose (at least) the first and the sweet; half took everything: starter, first and sweet. The first one was taken by everyone and nobody the gourmets:) he was confined to one scope. How many sweets were served in total?
+
+**Answer:** 40
+[[src_bocconi_autunno_2012__Q15]]

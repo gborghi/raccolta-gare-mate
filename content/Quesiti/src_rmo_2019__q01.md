@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2019 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2019__Q01
 parent: src_rmo_2019
 competition: Regional Mathematical Olympiad 2019
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove x is rational given x^5 and 20x+19/x are rational.*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gH34ilbEvo69eusEOFKpyZYPt0gnWDcP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove x è razionale dato x^5 e 20x+19/x sono razionali.*
+
+> Supponiamo che $x$ sia un numero reale non zero tale che sia $x^5$ che $20x + \frac{19}{x}$ siano numeri razionali. Prova che $x$ è un numero razionale.
+
+[[src_rmo_2019__Q01]]

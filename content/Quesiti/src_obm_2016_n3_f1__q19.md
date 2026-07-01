@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f1__Q19
 parent: src_obm_2016_n3_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum size of a set in {1,...,2016} whose elements satisfy a_i | a_j+1 / coprimality property*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La dimensione massima di un insieme in {1,...2016} i cui elementi soddisfano a_i ∙ a_j+1 / coprimitalità proprietà*
+
+> L'insieme $\{1,2,3,5,29,869\}$ ha la proprietà descritta nella dichiarazione (ha elementi $6$). Una prova che $X$ contiene al massimo $7$ elementi. Supponiamo con contraddizione $X=\{a_1,a_2,a_3,a_4,a_5,a_6,a_7\}$ con $a_1<a_2<\dots$. Uno mostra $\gcd(a_i,a_j)=1$ per $i\neq j$: se un primo $p\mid a_i$ e $p\mid a_j$ con $i<j$ allora $a_i\mid a_j+1$ forza $p\nmid a_j$, una contraddizione. Quindi $a_2$ è un multiple del prodotto $a_3a_4a_5a_6a_7\geq 1\cdot 2\cdot 3\cdot 5\cdot 7\cdot 11=2310$, quindi $a_2\geq 2309$, assurdo dal momento che $a_2\leq 2016$. Trova il numero massimo di elementi di tale insieme. [Il valore della chiave di risposta corrisponde all'opzione D.]
+
+**Risposta:** D
+[[src_obm_2016_n3_f1__Q19]]

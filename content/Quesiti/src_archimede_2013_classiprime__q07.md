@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2013 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_classiprime__Q07
 parent: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di studenti con parole binarie distinte di 5 test*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of students with distinct binary words for 5 tests
+
+> The IB class math teacher, in classroom assignments, has the habit of preparing two different tests (A and B) and having exactly half of the students take the type A test and the other half the type B test. At the end of the quarter, it is noted with pleasure that no student has ever been absent during classroom assignments. Note also that, however two students are taken, there is at least one of the 5 classroom tasks in which they have taken different tests. How many kids are there? There is no maximum at 32 B 10 C 24 D 36 E 16 F because it is possible to satisfy the requirements with an arbitrarily high number of students
+
+**Answer:** A
+[[src_archimede_2013_classiprime__Q07]]

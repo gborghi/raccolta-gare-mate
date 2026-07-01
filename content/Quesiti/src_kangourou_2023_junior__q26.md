@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q26
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale sviluppo non possibile*
 
@@ -47,3 +50,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*which development is not possible*
+
+![[src_kangourou_2023_junior__prob26.png]]
+
+> A closed line has been drawn on the outer surface of a rectangular prism. Which of the above is certainly not the plane development of the prism? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+>  	
+> E)
+
+**Answer:** C
+[[src_kangourou_2023_junior__Q26]]

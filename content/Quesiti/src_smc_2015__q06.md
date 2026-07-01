@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q06
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Numbers 5-10 placed in circles; sum of touching circles is prime; which number is in the shaded circle?*
 
@@ -54,3 +57,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri da 5 a 10 messi in cerchi; la somma dei cerchi toccanti è primo; quale numero è nel cerchio ombroso?*
+
+> I numeri $5, 6, 7, 8, 9, 10$ devono essere posizionati, uno in ciascuno dei cerchi del diagramma, in modo che la somma dei numeri in ciascuna coppia di cerchi toccanti sia un numero primo. Il numero $5$ è inserito nel cerchio superiore. Quale numero è inserito nel cerchio ombroso?
+>
+> - **(A)** $6$
+> - **(B)** $7$
+> - **(C)** $8$
+> - **(D)** $9$
+> - **(E)** $10$
+
+![[src_smc_2015__Q06.png]]
+
+**Risposta:** E
+[[src_smc_2015__Q06]]

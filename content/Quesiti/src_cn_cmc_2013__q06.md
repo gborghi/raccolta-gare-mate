@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2013 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2013__Q06
 parent: src_cn_cmc_2013
 competition: China Mathematical Competition 2013
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability of at least two adjacent numbers among five chosen from 1 to 20*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\frac{232}{323}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Probabilità di almeno due numeri adiacenti tra cinque scelti da 1 a 20*
+
+> Prendi a caso cinque numeri diversi da < MSK0/>. Quindi la probabilità che ci siano almeno due numeri adiacenti tra loro è $\underline{\qquad}$.
+
+**Risposta:** \frac{232}{323}
+[[src_cn_cmc_2013__Q06]]

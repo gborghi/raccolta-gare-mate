@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2014 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2014_printemps__Q04
 parent: src_canimath_2014_printemps
 competition: Coupe Animath Printemps 2014
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Partition integers 1–10 into pairs with five distinct prime sums; extend to 1–20*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXbOAjNKTjFFzbKdpAWQivUPB4zcjEuT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Partire integri 110 in coppie con cinque somme prime distinte; estendersi fino a 120*
+
+> a) È possibile dividere i numeri interi $1, 2, 3, \ldots, 10$ in cinque coppie in modo tale che le cinque somme in coppia siano cinque numeri primi diversi?
+> 
+> b) È possibile dividere i numeri interi $1, 2, 3, \ldots, 20$ in dieci coppie in modo tale che le dieci somme in coppia siano dieci diversi numeri primi?
+
+[[src_canimath_2014_printemps__Q04]]

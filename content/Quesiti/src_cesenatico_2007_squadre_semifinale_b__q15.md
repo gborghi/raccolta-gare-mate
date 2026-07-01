@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Semifinale B — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_b__Q15
 parent: src_cesenatico_2007_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2007 - Semifinale B
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero terne (a,b,c) con a<b, a<4c, bc^3<=ac^3+b, <=1000*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Term number (a,b,c) with a<b, a<4c, bc^3<=ac^3+b, <=1000*
+
+> A greedy Sekante ninja now thinks only of his future regiment and is so taken by the idea of saving money, that he has started doing other students' homework in exchange for money. Master Isoshilo discovered it and to put it in line, he presented himself under false pretenses offering him a flat reward to find all the positive integers that satisfy a <b, a < 4c, bc3 ≤ac3 +b, a,b,c ≤1000. Sekante is squeezing the meningi and Isoshilo doesn't think he can make it, but even if he does, he'll mock him without paying! How many solutions should Sekante find?
+> 
+> I'm going to pay. 4 out of 4  Team competition 2007  Semifinal B Problem tests
+
+[[src_cesenatico_2007_squadre_semifinale_b__Q15]]

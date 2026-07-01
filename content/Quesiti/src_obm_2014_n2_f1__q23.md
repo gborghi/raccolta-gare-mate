@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f1__Q23
 parent: src_obm_2014_n2_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given sqrt(x-y)=a and sqrt(x)+sqrt(y)=b, find sqrt(xy)*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dato che sqrt(x-y) =a e sqrt(x) +sqrt(y) =b, trovare sqrt(xy) *
+
+> Se $a$, $b$, $x$, $y$ sono reali positivi tali che $\sqrt{x - y} = a$ e $\sqrt{x} + \sqrt{y} = b$, determinare il valore di $\sqrt{xy}$.
+> 
+> (A) $\dfrac{b^2 - a^2}{4}$ $\quad$ (B) $\dfrac{a^2}{b}$ $\quad$ (C) $\dfrac{b^2 + a^2}{4b}$ $\quad$ (D) $\dfrac{1}{b}$ $\quad$ (E) $a^2$
+
+**Risposta:** A
+[[src_obm_2014_n2_f1__Q23]]

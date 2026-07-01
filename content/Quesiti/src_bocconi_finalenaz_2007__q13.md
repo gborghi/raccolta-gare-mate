@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2007 — Quesito
   13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2007__Q13
 parent: src_bocconi_finalenaz_2007
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2007
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Primo anno dopo il 2007 in cui nel Paese dei Numeri non c'è alcuna nascita*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** L'anno è 2022
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First year after 2007 in which there are no births in the Countries of Numbers*
+
+> In the country of numbers, the birth of the first and only child of each couple is scheduled for the year whose number is equal to that of the year of marriage plus the sum of its digits. For example, a couple who got married in 2002 had a child in < MSK0/>. What will be the first year after 2007 in which there will be no births in Numbers Country?
+
+**Answer:** L'anno è 2022
+[[src_bocconi_finalenaz_2007__Q13]]

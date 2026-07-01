@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1976-77 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1976-77_round2__Q01
 parent: src_bmo_1976-77_round2
 competition: British Mathematical Olympiad 1976-77 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bound quadratic on interval given values at n points*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PfHyGgG6orc2O_4a738MuIYaBULKOH3v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadratico di confine su intervalli dati a n punti*
+
+> $x_1, x_2, \ldots, x_n$ vengono dati punti dell'intervallo $\left[-\tfrac{1}{2}, 1\right]$ in modo tale che $$0 < x_1 < x_2 < \cdots < x_{k-1} \leq \tfrac{1}{2} \leq x_k \quad (1 < k < n).$$ La funzione quadrata $f$, della forma $$f(x) = x^2 + bx + c$$ in cui $a$, $b$, $c$ sono costanti reali, soddisfi la condizione $$|f(x_i)| \leq 1 \quad (0 \leq i \leq k).$$ Prove che $$|f(x)| \leq \tfrac{3}{2}$$ per tutti $x$ in $\left[-\tfrac{1}{2}, 1\right]$. Mostra con un esempio che questa proposizione diventa falsa se $\dfrac{3}{2}$ viene sostituita da un numero più piccolo.
+
+[[src_bmo_1976-77_round2__Q01]]

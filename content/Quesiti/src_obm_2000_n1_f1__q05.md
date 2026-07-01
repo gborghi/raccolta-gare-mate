@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q05
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Balls in a box: colour deduction by elimination*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Palle in scatola: riduzione del colore per eliminazione< MSK1/>
+
+> Una scatola contiene diverse palle: blu, giallo, rosso, bianco e nero. Renato tira le palle $3$ dalla scatola. Sapendo che nessuna delle tre palle è nera, non gialla e non rossa, Renato vuole fare la seguente affermazione riguardo a queste palle $3$:
+> 
+> A) Sono tutti dello stesso colore. Quad (B) Sono rossi. \quad (C) Uno è rosso e gli altri due sono bianchi. \quad (D) Uno è bianco e gli altri due sono rossi. Quad (E) almeno uno è rosso.
+
+**Risposta:** A
+[[src_obm_2000_n1_f1__Q05]]

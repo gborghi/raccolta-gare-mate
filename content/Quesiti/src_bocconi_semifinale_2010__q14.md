@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2010 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2010__Q14
 parent: src_bocconi_semifinale_2010
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2010
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti quadrati si possono disegnare su una griglia*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 90 quadrati
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many squares can be drawn on a grid*
+
+> How many squares can be formed by joining four points of the grid of the drawing? (All squares must be counted, regardless of their orientation)
+
+**Answer:** 90 quadrati
+[[src_bocconi_semifinale_2010__Q14]]

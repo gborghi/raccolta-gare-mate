@@ -1,6 +1,7 @@
 ---
 title: IMO 1987 (XXVIII International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1987__Q03
 parent: src_imho_1987
 competition: IMO 1987 (XXVIII International Mathematical Olympiad)
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Approximating zero by integer linear combination with bounded coefficients*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Approximating zero by integer linear combination with bounded coefficients*
+
+> Let $x_1, x_2, \ldots, x_n$ be real numbers satisfying $x_1^2 + x_2^2 + \cdots + x_n^2 = 1$. Prove that for every integer $k \ge 2$ there are integers $a_1, a_2, \ldots, a_n$, not all $0$, such that $|a_i| \le k-1$ for all $i$ and $$|a_1 x_1 + a_2 x_2 + \cdots + a_n x_n| \le \frac{(k-1)\sqrt{n}}{k^n - 1}.$$
+
+[[src_imho_1987__Q03]]

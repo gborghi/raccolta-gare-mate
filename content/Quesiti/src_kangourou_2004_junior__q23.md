@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior (18 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior__Q23
 parent: src_kangourou_2004_junior
 competition: Kangourou 2004 Junior (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero al posto 120 dopo 200 passaggi (divisori)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in place of 120 after 200 steps (divers) *
+
+> We start with 200 numbers all equal to zero written in succession. In the first step, we add 1 to each of the 200 numbers. In the second step we add 1 only to the numbers whose place is a multiple of 2 (i.e. those of equal place). In the third step we add 1 only to the numbers whose place is a multiple of 3 and we proceed according to this law: in the ninth step we add 1 only to the numbers whose place is a multiple of n. After 200 steps, what number do we find instead of 120? A) 16          B) 12          C) 8           D) 32          E) 24
+
+**Answer:** A
+[[src_kangourou_2004_junior__Q23]]

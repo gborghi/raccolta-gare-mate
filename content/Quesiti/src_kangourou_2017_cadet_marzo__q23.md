@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q23
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo x+y con angoli interi distinti del triangolo*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum x+y with distinct angles of the triangle *
+
+> In a triangle the three angles are two to two different and have an integer number of degrees as a measure. Denotes with x the degree measure of the smallest and with y the degree measure of the largest between the three angles. What 's the least possible value of x + y ? A) 61 B) 90
+> 	
+> C) 91
+> 	
+> D) 120 E) 121
+
+**Answer:** B
+[[src_kangourou_2017_cadet_marzo__Q23]]

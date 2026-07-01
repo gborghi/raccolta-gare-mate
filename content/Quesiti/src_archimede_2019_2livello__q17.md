@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2019 - 2° livello — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_2livello__Q17
 parent: src_archimede_2019_2livello
 competition: Archimede Gara di Febbraio 2019 - 2° livello
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri 'corretti' autodescrittivi, conteggio cifre massime*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 162
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Self-descriptive 'correct' numbers, maximum number counting *
+
+> Demonstrative Exercise Let's say a positive integer with an even number of digits is correct if, by reading the individual digits aloud, we get a correct description of the number itself. Or rather, if each odd-positional digit indicates how many times the next digit appears in the whole number. For example, 1210 is correct, because it has un 2, a 0, as well as 2121, because it has dues 1, two 1, whereas 1031 is not, because it says it has un 0, three 1, when it actually has two 1. (a) Demonstrate that there are more than 2019 correct numbers. (b) Demonstrate that the correct integers are finite. (c) Find the number of digits of the largest correct number.
+
+**Answer:** 162
+[[src_archimede_2019_2livello__Q17]]

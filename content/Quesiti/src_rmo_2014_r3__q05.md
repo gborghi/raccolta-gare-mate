@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Region 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_r3__Q05
 parent: src_rmo_2014_r3
 competition: Regional Mathematical Olympiad 2014
@@ -29,6 +30,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcentre of BDX lies on circumcircle of ABX*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13_r8SR8Qx6OYP_4_ONgiazaLStX1681S/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il cerchio di BDX si trova sul cerchio di ABX*
+
+> Lasciate che $ABC$ sia un triangolo. Il segmento $X$ deve essere $BC$ in modo tale che $AB = AX$. Raggiungere il circolo $\Gamma$ del triangolo $ABC$ a $D$. Indicare che il circoncentro di $\triangle BDX$ si trova su $\Gamma$.
+
+![[src_rmo_2014_r3__Q05.png]]
+
+[[src_rmo_2014_r3__Q05]]

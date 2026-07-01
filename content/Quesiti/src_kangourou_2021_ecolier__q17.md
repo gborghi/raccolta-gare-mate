@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - gara marzo — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier__Q17
 parent: src_kangourou_2021_ecolier
 competition: Kangourou 2021 Ecolier - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo moduli per tre regioni con due da 6 alberi*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum modules for three regions with two of 6 trees*
+
+![[src_kangourou_2021_ecolier__prob17.png]]
+
+> As you can see in the figure, Luca has a square field with 16 trees and an inner fence, consisting of nine movable modules, divided into four regions: one with 8 trees, two with 3 trees and one with 2 trees. It wants to move some of the modules so that it forms exactly three regions, two of which have six trees. What is the minimum number of modules you can move your project to? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** A
+[[src_kangourou_2021_ecolier__Q17]]

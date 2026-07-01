@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q03
 parent: src_kangourou_2017_squadre_a
 competition: Kangourou Coppa Squadre 2017 Semifinale A
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti blu a contatto con rossi nella scatola 5x6x7*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 62
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Blue cubes in contact with red ones in the box 5x6x7< MSK1/>
+
+> A box without a lid has a base of 5 and 6 and a height of 7. There were 210 cubes on side one in the box. Those who touch the box are red, the others are blue. How many blue cubes share at least one face with a red one?
+
+**Answer:** 62
+[[src_kangourou_2017_squadre_a__Q03]]

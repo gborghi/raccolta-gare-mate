@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Student (15 marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_student__Q11
 parent: src_kangourou_2001_student
 competition: Kangourou 2001 - Student (15 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Circonferenze tangenti a C1, C2 e r*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Circumferences tangent to C1, C2 and r *
+
+![[src_kangourou_2001_student__prob11.png]]
+
+> Two circles C1 and C2 of different radii are tangent externally and both tangent to the same straight line r (v. (Figure 1). Which of the following statements is true?
+>
+> - **(A)** There is no tangent circumference at C1, C2 and r
+> - **(B)** There is only one tangent circumference at C1, C2 and r
+> - **(C)** There are exactly two rings tangent to C1, C2 and r
+> - **(D)** There are exactly four rings tangent to C1, C2 and r.
+> - **(E)** None of the statements (A), (B), (C), (D) are true.
+
+**Answer:** C
+[[src_kangourou_2001_student__Q11]]

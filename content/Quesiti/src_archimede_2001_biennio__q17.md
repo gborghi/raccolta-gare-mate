@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Biennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_biennio__Q17
 parent: src_archimede_2001_biennio
 competition: Giochi di Archimede 2001 - Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area quadrato originario dato perimetro rettangolo piegato*
 
@@ -41,3 +44,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15IBgfl7GAsJGqi_MCOVW5U5tuBXGW2je/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Original square area given curved rectangular perimeter*
+
+> A square sheet of paper is folded into two equal parts to form a rectangle. Knowing that the perimeter of the rectangle is 18 cm, what is the area, in cm2, of the original square?
+>
+> - **(A)** 9
+> - **(B)** 12
+> - **(C)** 18
+> - **(D)** 24
+> - **(E)** 36.
+
+[[src_archimede_2001_biennio__Q17]]

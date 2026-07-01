@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2021_squadre__Q04
 parent: src_gsm_2021_squadre
 competition: Gara a Squadre GSM (locale Genova) 2021
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi n con n^2 e n^3 somma di consecutivi*
 
@@ -55,3 +58,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1011
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Interies n with n^2 and n^3 sums of consecutive < MSK1/>
+
+> At Potenza Sandro Campigotto Paolo has come to pick up his friend Andrea who is arriving at the Central Power Station. I'm going to be a little late. How many positive integer n numbers until 2021 are such that the numbers n2 and n3 are both sums of n consecutive positive integers? But is it ever possible that every time I come you have to ask me a question about the powers of numbers? Anyway, you mean 2021 included? Yes, you are! Paul, then I know the answer! (1) In each issue, the author's name appears next to the title.
+
+**Answer:** 1011
+[[src_gsm_2021_squadre__Q04]]

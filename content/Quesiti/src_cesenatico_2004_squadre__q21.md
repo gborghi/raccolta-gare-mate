@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q21
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Vino di Chiara dopo travasi ciclici tra cinque amici*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0150
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Clara wine after cyclical bridges between five friends*
+
+> At the inn Agilulfo, Barnabas, Clara, Dioneo and Elisa used to meet at the Inn Alla Brocca. One night they share a vineyard. After filling their glasses, they decide to redistribute the wine. Agylulph divides the entire contents of his glass into equal parts among the other four friends, so does Barnabas and so on. After Elissa finally divided the entire contents of her glass into equal parts in the glasses of the other four young men, the five find that they have exactly the same amount of wine in the glasses as they had at the beginning. Knowing the barley contained 750ml of wine, how much wine did Chiara have in the glass?
+
+**Answer:** 0150
+[[src_cesenatico_2004_squadre__Q21]]

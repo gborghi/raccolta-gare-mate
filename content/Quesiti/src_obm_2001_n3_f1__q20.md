@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f1__Q20
 parent: src_obm_2001_n3_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right trapezoid ABCD with right angles A,B; M,N midpoints of AB,CD; compare angles ANB and CMD*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD trapezoide destra con angoli retti A,B; M,N punti di mezzo di AB,CD; confronta gli angoli ANB e CMD*
+
+> Il $ABCD$ deve essere un trapezoide retto, i cui unici angoli retti sono $\hat{A}$ e $\hat{B}$. $M$ e $N$ sono i punti di mezzo di $AB$ e $CD$, rispettivamente. Per quanto riguarda gli angoli $\alpha = A\hat{N}B$ e $\beta = C\hat{M}D$, possiamo dire che:
+> 
+> **A) ** $\alpha < \beta$ $\quad$ **B) ** $\alpha > \beta$ $\quad$ **C) ** $\alpha = \beta$ $\quad$ **D) ** può verificarsi una qualsiasi delle situazioni nelle alternative A), B) e C). $\quad$ **E) ** l'angolo $\alpha$ è giusto.
+
+**Risposta:** A
+[[src_obm_2001_n3_f1__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior (20 marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior__Q06
 parent: src_kangourou_2003_junior
 competition: Kangourou 2003 Junior (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione tempo in cui i tre cantano insieme*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Time fraction in which the three sing together*
+
+> Three singers are to sing a canon made up of three lines of the same length and each one ends when they have sung the piece four times. The second singer begins when the first singer begins the second line and the third begins when the first begins the third line. How much of the total singing time is the time the three singers sing simultaneously? A) 3/5 B) 4/5 C) 4/7 D) 5/7 E) 7/11
+
+**Answer:** D
+[[src_kangourou_2003_junior__Q06]]

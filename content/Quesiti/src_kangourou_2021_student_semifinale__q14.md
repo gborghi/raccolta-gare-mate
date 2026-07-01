@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student semifinale individuale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q14
 parent: src_kangourou_2021_student_semifinale
 competition: Kangourou 2021 Student semifinale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scarto massimo tra le due bilance con 2021 oggetti*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0000
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum gap between the two balances with 2021 items*
+
+> (6 points) We have two accuracy balances that give the weight in grams of the objects placed on the respective plates: we are going to zero them. We align 2021 objects in order of non-increasing weight and place one object at a time, starting from the first, on one of the two balances in accordance with the following rules: • one must never remove from either of the two balances an object previously placed; • at each step, if the weight indicated by the two balances is the same one can place the turn object on either of the two, otherwise it must be placed on the balance indicating the lesser weight. If each object weighs an integer (positive) of grams and their total weight is 4040 grams, when we have placed all 2021 objects, what is the biggest difference that could arise between the two indicated weights?
+
+**Answer:** 0000
+[[src_kangourou_2021_student_semifinale__Q14]]

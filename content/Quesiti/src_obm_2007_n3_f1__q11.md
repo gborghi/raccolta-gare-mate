@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f1__Q11
 parent: src_obm_2007_n3_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count quasi-anagrams of BACANA that start with A*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare quasi-anagrafi di BACANA che iniziano con A*
+
+> Diciamo che una parola $Q$ è un \textit{quasi-anagramma} di un'altra parola $P$ quando $Q$ può essere ottenuto rimuovendo una lettera da $P$ e mescolando l'ordine delle lettere rimanenti, dando luogo a una parola con una lettera inferiore a $P$. Una parola quasi-anagrafica non deve avere un significato in nessun linguaggio. Ad esempio, RARO, RACR e ARCO sono quasi-anagrami di CARRO.
+> 
+> Quanti quasi-anagrami della parola BACANA iniziano con A?
+> 
+> (A) $48$ \quad (B) $60$ \quad (C) $72$ \quad (D) $96$ \quad (E) $120$
+
+**Risposta:** B
+[[src_obm_2007_n3_f1__Q11]]

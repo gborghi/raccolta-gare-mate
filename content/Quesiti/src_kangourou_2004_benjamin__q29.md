@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q29
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Zeri nel quoziente di (2004 uni)/3*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Zero in the ratio of (2004 units)/3< MSK1/>
+
+> Alfonso divided the number by 3 (i.e. the number formed from 2004 figures all equal to 1). How many zeros are in the quotient you got? A) 1002      B) 669        C) 668        D) 667       E) 665
+
+**Answer:** D
+[[src_kangourou_2004_benjamin__Q29]]

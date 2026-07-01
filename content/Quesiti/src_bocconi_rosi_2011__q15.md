@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q15
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tre superfici su cinque di uguale area*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $1 - 2 - 5$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three out of five surfaces of equal area*
+
+> Three of the five surfaces in the figure have the same area. < MSK0/>What are they? < MSK1/>
+
+![[src_bocconi_rosi_2011__Q15.png]]
+
+**Answer:** $1 - 2 - 5$
+[[src_bocconi_rosi_2011__Q15]]

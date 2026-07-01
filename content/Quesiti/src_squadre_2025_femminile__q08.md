@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2025_femminile__Q08
 parent: src_squadre_2025_femminile
 competition: Gara a Squadre Femminile 2025 - VIII Finale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli rettangoli da 20 rette in 4 direzioni*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 500
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular triangles with 20 rectangles in 4 directions*
+
+> The two brothers build a computer that knows everything about everyone to find out what will make their mom happiest as a birthday present. To test it, they ask him how many distinct rectangular triangles form by tracing 20 lines in the Cartesian plane, 5 parallel to the axis of the axes, 5 parallel to the axis of the orders, 5 parallel to the bisector of the first and third quadrants and 5 parallel to the bisector of the second and fourth quadrants. The answer they get is correct. Now they'll be able to find the perfect gift for Mom. What was the response from the supercomputer?
+
+**Answer:** 500
+[[src_squadre_2025_femminile__Q08]]

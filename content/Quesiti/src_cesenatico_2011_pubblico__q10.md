@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q10
 parent: src_cesenatico_2011_pubblico
 competition: Gara a Squadre Cesenatico 2011 - Gara del pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre base 2 di p(128) per prodotto*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0511
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Summary of base figures 2 of p(128) per product< MSK1/>
+
+> An unusual climb [40] The third and final difficulty imposed on the Gauls by Cleopatra consists in solving the enigma of the venerable Wise Man of the Mountain. The prodigy Abelix courageously submits to this test as well. The old man bends it carefully, takes the polynomial p(x) = ∏10 i=2(1+x2i)−1 and burns it asking him what the sum of the digits on the base 2 of p(128 is worth. How should Abelix respond?
+
+**Answer:** 0511
+[[src_cesenatico_2011_pubblico__Q10]]

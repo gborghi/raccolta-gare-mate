@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q07
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante mele aveva comprato inizialmente Anna?*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 32
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many apples did Anna buy initially?
+
+> Anna eats a quarter of the apples she had bought and equally distributes the others to her three sisters, who had none: Carla, Debora and Liliana. Carla also eats a quarter of her apples and distributes the remaining (split into equal parts) to her three sisters. Deborah eats only one and equally distributes the remaining apples to her sisters. As for little Liliana, she eats four apples and then repeats the operation of distributing the remaining apples in equal parts to the three sisters.
+> 
+> At this point, Carla says to Deborah, "I've got double your apples".
+> 
+> How many apples did Anna initially buy?
+
+**Answer:** 32
+[[src_bocconi_squadre_2010__Q07]]

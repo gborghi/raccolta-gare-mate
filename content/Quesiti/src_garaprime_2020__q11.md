@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2020 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2020__Q11
 parent: src_garaprime_2020
 competition: Gara Nazionale Classi Prime 2020
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del rettangolo tagliato in nove quadrati*
 
@@ -58,3 +61,28 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RcjMtWkWdcfagBZF3LMfq3IMn7aMwmGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of the rectangle cut into nine squares*
+
+![[src_garaprime_2020__prob11.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.4]
+  \draw (0,0) rectangle (12,10);
+  \foreach \x in {0,2,4,6,8,10} \draw (\x,8) rectangle (\x+2,10);
+  \draw (0,0) rectangle (8,8);
+  \draw (8,0) rectangle (12,4);
+  \draw (8,4) rectangle (12,8);
+\end{tikzpicture}
+\end{document}
+```
+
+> A rectangular sheet of cardboard is cut to produce exactly nine pieces, all square: one 64 cm2, two 16 cm2, and six 4 cm2. What was the perimeter of the rectangle? A 44 cm B 46 cm C 52 cm D 62 cm E 68 cm F not determined by the data provided alone
+
+**Answer:** A
+[[src_garaprime_2020__Q11]]

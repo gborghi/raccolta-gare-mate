@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo35yqa_yosen__Q10
 parent: src_jmo35yqa_yosen
 competition: Japan Mathematical Olympiad 2025 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count functions f:S->S on {0..8} with f(x)f(y)-f(f(z)) divisible by 9 whenever 9 | x+y-z*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 858
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggiare funzioni f:S->S su {0..8} con f(x) f(y)-f(z)) divisibile per 9 ogni volta che 9  x+y-z*
+
+> Let < MSK0/>. Considera le funzioni $f$ definite su $S$ e prendendo valori in $S$ in modo tale che, per tutti gli elementi $x, y, z$ di $S$, se $x + y - z$ è un multiple di $9$, allora $f(x)\,f(y) - f(f(z))$ è anche un multiple di $9$. Quante funzioni < MSK10/> esistono?
+
+**Risposta:** 858
+[[src_jmo35yqa_yosen__Q10]]

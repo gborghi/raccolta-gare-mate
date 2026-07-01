@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre finale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q03
 parent: src_kangourou_2012_squadre_finale
 competition: Kangourou 2012 squadre finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di cifre di 8^5 * 5^17 * 7^3*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 19
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of digits of 8^5 * 5^17 * 7^3 *
+
+> Multiplication From how many digits is the number 85 < MSK0/> 517 < MSK1/> 73?
+
+**Answer:** 19
+[[src_kangourou_2012_squadre_finale__Q03]]

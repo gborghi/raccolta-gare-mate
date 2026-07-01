@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_2livello__Q10
 parent: src_archimede_2022_2livello
 competition: Archimede Gara di Febbraio 2022 - 2° livello
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Potenze di 2 da 1 a 2^100 che iniziano per 1*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Points of 2 from 1 to 2^100 starting with 1*
+
+> Maddalena writes on a sheet all the powers of 2 from 1 to 2100 (extremes included). How many of the numbers you wrote start with 1?
+>
+> - **(A)** 28 or less
+> - **(B)** 29
+> - **(C)** 30
+> - **(D)** 31
+> - **(E)** 32 or more.
+
+**Answer:** D
+[[src_archimede_2022_2livello__Q10]]

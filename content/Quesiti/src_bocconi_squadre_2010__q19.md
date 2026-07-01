@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q19
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età del maggiore nipote con meno di 10 anni nella famiglia misteriosa*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Age of the eldest nephew under 10 in the mysterious family
+
+> We have already seen that prof. Pythagoras has four children. She also has four grandchildren who are such that the sum of the ages of the youngest and oldest is equal to the sum of the ages of the two middle children. However, the product of the latter is twice the product of the ages of the youngest and the oldest.
+> 
+> What is the age of the eldest, who is still under 10?
+
+**Answer:** 6
+[[src_bocconi_squadre_2010__Q19]]

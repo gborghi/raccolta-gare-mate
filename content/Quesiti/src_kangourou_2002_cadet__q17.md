@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q17
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordinamento dell'ultimo piatto*
 
@@ -42,3 +45,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ordering of the last dish*
+
+> The plates P, Q and R are aligned in increasing weight order and the last plate is to be added to them, maintaining this sort of order. Knowing that objects of equal shape have the same weight, which of the following statements is correct?
+>  
+>  
+> A. The last plate must be between P and Q B. The last plate must be between Q and R C. The last plate must be before P D. The last plate must be after R E. The last plate has the same weight as R.
+
+**Answer:** A
+[[src_kangourou_2002_cadet__Q17]]

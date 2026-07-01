@@ -1,6 +1,7 @@
 ---
 title: Archimede 2003 - Gara del Pubblico (Cesenatico) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_pubblico__Q03
 parent: src_archimede_2003_pubblico
 competition: Archimede 2003 - Gara del Pubblico (Cesenatico)
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *problema 3*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the first time I have seen this.
+
+> The city's main bank has a safe with a four-digit combination, which for security reasons the manager changes every day like this: he multiplies the current combination by 3 and possibly cuts the number to the left. One night, one of the cashiers spying on the manager discovers that the combination does not contain odd numbers. The night after, one of the sworn guards manages to find out that none of the digits is a multiple of 3. The next night a thief tries to open the safe and after several attempts he realizes that the numbers must all be multiples of 3, but he can't penetrate the safe. The next day the thief accidentally listens to the guard and the cashier and learns what they have discovered. What combination would tempt the thief back to rob the bank that same night?
+
+[[src_archimede_2003_pubblico__Q03]]

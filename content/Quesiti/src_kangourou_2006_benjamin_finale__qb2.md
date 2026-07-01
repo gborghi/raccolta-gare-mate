@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (finale nazionale) — Quesito B2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin_finale__QB2
 parent: src_kangourou_2006_benjamin_finale
 competition: Kangourou 2006 - Benjamin (finale nazionale)
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei primi 40 numeri della sequenza ripetuta*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 240
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1SgavtoqL9VQ-oYTP6QSn5-u44sFmrisW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the first 40 numbers of the repeated sequence*
+
+> *(7 points) * What is the sum of the first 40 numbers of the sequence: $1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, \ldots$? (The rule by which the sequence is constructed is as follows: every positive integer, starting with $1$, is repeated consecutively as many times as its value.)
+
+**Answer:** 240
+[[src_kangourou_2006_benjamin_finale__QB2]]

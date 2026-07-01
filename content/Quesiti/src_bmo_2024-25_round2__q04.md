@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2024-25 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2024-25_round2__Q04
 parent: src_bmo_2024-25_round2
 competition: British Mathematical Olympiad 2024-25 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integer sequences with given recurrence and u1=1*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19GTqbDo2xCiXZF4NdAfLAruAN7LAIYD8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le sequenze di numeri interi positivi con una data ricorrenza e u1=1*
+
+> Quante diverse sequenze di integri positivi soddisfano $u_1 = 1$ e $$u_{n+1} = \frac{(u_n^2 + u_n + 1)^{2025}}{u_{n-1}}$$ per tutti $n \ge 2$?
+
+[[src_bmo_2024-25_round2__Q04]]

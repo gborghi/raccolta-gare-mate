@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo12yq_yosen__Q05
 parent: src_jjmo12yq_yosen
 competition: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max n so 1..n can be 2-colored with no monochromatic square sum*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 14
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Max n so 1..n può essere di 2 colori senza somma quadrata monocromatica*
+
+> $n$ sia un numero intero positivo. Su una lavagna, ciascuno dei numeri interi da $1$ a $n$ viene scritto esattamente una volta, ognuno di colore rosso o bianco. La somma di due numeri distinti scritti nello stesso colore non è un quadrato perfetto. Trovare il valore più grande possibile di $n$.
+
+**Risposta:** 14
+[[src_jjmo12yq_yosen__Q05]]

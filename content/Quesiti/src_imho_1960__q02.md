@@ -1,6 +1,7 @@
 ---
 title: IMO 1960 (II International Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1960__Q02
 parent: src_imho_1960
 competition: IMO 1960 (II International Olympiad)
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori di x per cui vale la disuguaglianza con radice*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KV_5TZmWn2knHcJ1bIN1arXTCbLCraQd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Values of x for which the inequality is rooted*
+
+> For which values of the variable $x$ is the following inequality: $$\frac{4x^2}{\left(1 - \sqrt{1 + 2x}\right)^2} < 2x + 9\,?$$
+
+[[src_imho_1960__Q02]]

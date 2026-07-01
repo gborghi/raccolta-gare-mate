@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo17yq_yosen__Q04
 parent: src_jmo17yq_yosen
 competition: Japan Mathematical Olympiad 2007 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *4-digit integers whose upper and lower 2-digit parts have product equal to divisor count*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieri a 4 cifre le cui parti superiori e inferiori a 2 cifre hanno il prodotto pari al numero di divisori*
+
+> Che $n$ sia un intero positivo a 4 cifre la cui cifra decimale non è $0$. Considera il numero intero $p$ formato dalle centinaia e migliaia di cifre di $n$ (le due cifre superiori) e il numero intero $q$ formato dalle decine e dalle cifre di unità di $n$ (le due cifre inferiori), dove sia $p$ che $q$ sono numeri interi a 2 cifre. Il prodotto $p \cdot q$ è uguale al numero di divisori positivi di $n$. Trova tutte le < MSK10/>.
+
+[[src_jmo17yq_yosen__Q04]]

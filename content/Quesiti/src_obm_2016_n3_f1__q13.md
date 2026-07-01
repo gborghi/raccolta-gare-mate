@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f1__Q13
 parent: src_obm_2016_n3_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Counting ways to form committees over n people with day-by-day restrictions*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i modi per formare comitati su n persone con restrizioni quotidiane*
+
+> Si sceglie, il primo giorno, due delle persone $n$ in $\binom{n}{2}$ modi; nei giorni successivi le persone $n-2$ rimanenti possono essere scelte in $(n-2)$ modi ciascuno (soggetto alle restrizioni imposte), e il numero finale di modi per formare i comitati è $(n-2)(n-3)$ (come indicato nella soluzione). Determinare il numero di modi di scegliere i comitati. [Il valore della chiave di risposta corrisponde all'opzione A.]
+
+**Risposta:** A
+[[src_obm_2016_n3_f1__Q13]]

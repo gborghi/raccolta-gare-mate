@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Triennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_triennio__Q07
 parent: src_archimede_1998_triennio
 competition: Giochi di Archimede 1998 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area intersezione di due cerchi passanti per i centri*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of intersection of two circles passing through the centres*
+
+> Two planar circles of radius 1 are arranged in such a way that the circumference of each circle passes through the centre of the other. What is the area of the intersection of the two circles?
+>
+> - **(A)** √ 3 2
+> - **(B)** √ 3 + π 2
+> - **(C)** π 2
+> - **(D)** √ 3
+> - **(E)** None of the previous ones.
+
+**Answer:** E
+[[src_archimede_1998_triennio__Q07]]

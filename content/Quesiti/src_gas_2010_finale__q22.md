@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q22
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione di pentagono circoscrittibile con altitudine data*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 9801
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area region of circumscribed pentagon with given altitude*
+
+> The Secret of Monkey IslandTM All π-rats with a few years on their backs have heard of the fabulous treasure hidden in the lost Isla de Mono; legend has it that the treasure is buried at a point on the island where the altitude is at least 5 meters. Tria Geome possesses perhaps the only map of the island, from which it is inferred that: the plant is a circumscribed pentagon (i.e. that it admits an inscribed circumference, tangent on all sides); the depth of the sea around the island is equal to √π times the minimum distance from the coast measured on the map, while the altitude of each point on the surface of the island is equal to √π/2 multiplied by the minimum distance of that point from the water, measured on the map; the root area on the map from points that are 1 meter deep is 12343 m2 while that from points that are 3 meters deep is 12835 m2. How many square meters on the map is the part of the island where, according to legend, the treasure can be found?
+
+**Answer:** 9801
+[[src_gas_2010_finale__Q22]]

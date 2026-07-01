@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q13
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione che il bugiardo alternante non puo fare*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A claim that the alternating liar cannot make*
+
+> Carlo is a strange guy: every single day he lies or always tells the truth, alternating his behavior with the changing of the days. Today he made four of the following five statements. Which one couldn't have? A) The number of my friends is a prime number. B) My friends are as many as my friends. C) My name is Carlo. D) I tell the truth every day of my life. E) Among my friends and my friends, three are older than me.
+
+**Answer:** C
+[[src_kangourou_2005_junior__Q13]]

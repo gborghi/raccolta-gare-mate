@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin semifinale individuale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q01
 parent: src_kangourou_2022_benjamin_semifinale
 competition: Kangourou 2022 Benjamin semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora a Roma quando e stata servita la cena (fusi orari)*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Now in Rome when dinner has been served (closed hours) *
+
+> (2 points) When in Rome it's 1:00, in Mexico City it's 6:00. During the flight that took off at 2 p.m. from Rome to Mexico City, dinner was served exactly halfway through the flight. When the plane landed, the airport clock was ticking at 6 p.m. What time was it in Rome when dinner was served? A) 16:00 B) 17:50
+>  
+> C) 18:30
+>  
+> D) 19:30
+>  
+> E) 19:50
+
+**Answer:** D
+[[src_kangourou_2022_benjamin_semifinale__Q01]]

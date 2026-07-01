@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2024__Q05
 parent: src_tfjm_2024
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2024
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_analitica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Free electron: a charged particle moves along circular arcs of radius 1 (counterclockwise), reversing direction when a button is pressed (or reflecting off mirrors); study guiding it between points, avoiding a circle, through n points, gathering k electrons, and admirable polygons.*
 
@@ -81,3 +84,45 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'elettrone libero: una particella carica si muove lungo archi circolari di raggio 1 (in senso antiorario), invertendo la direzione quando viene premuto un pulsante (o riflettendo gli specchi); studiare la guida tra i punti, evitando un cerchio, attraverso n punti, raccogliendo k elettroni e poligoni ammirevoli.*
+
+> Nicolas lavora in un laboratorio di fisica. Ha una pistola elettronica immersa in un campo magnetico uniforme costante. Le leggi della fisica classica ci dicono poi che l'elettrone si muove a velocità costante descrivendo un cerchio nel senso trigonometrico (in senso controorario), che si suppone di raggio $1$.
+> 
+> Nicolas ha anche un pulsante che fa girare l'elettrone: al momento in cui lo premere, la velocità dell'elettrone rimane la stessa ma nella direzione opposta. In questo modo cerca, con questo singolo comando, di guidare l'elettrone.
+> 
+> La figura $7$ rappresenta una possibile traiettoria dell'elettrone: il rettangolo blu è la pistola elettronica, la freccia blu è la direzione iniziale, i punti arancioni sono le rotazioni proposte da Nicolas. Le linee puntate mostrano l'allungamento di due archi circolari descritti dall'elettrone.
+> 
+> $\textbf{1.}$ La pistola elettronica è situata in un punto $A$ del piano. Nicolas puo' scegliere la sua direzione iniziale. Vuole portare l'elettrone fino ad un altro punto $B$. a) Nicolas può sempre guidare l'elettrone dal punto $A$ al punto $B$? In tal caso, quante volte almeno deve premere il pulsante, in funzione della distanza tra $A$ e $B$? b) Qual è la distanza minima percorsa dall'elettrone per passare da $A$ a $B$?
+> 
+> Nicolas disegna un cerchio di raggio $r > 0$ e pone la pistola elettronica sul bordo del cerchio, puntata verso il suo centro. Vuole assicurarsi che l'elettrone non tocchi mai il cerchio dopo l'istante iniziale.
+> 
+> La figura $8$ rappresenta un esempio di traiettoria in un cerchio di raggio $r = 2$. Non tocca mai il cerchio; dopo due giri, si gira su se stesso indefinitamente.
+> 
+> Per quali valori del raggio può Nicolas premere il pulsante un numero finito di volte e garantire che l'elettrone non tocchi mai il cerchio? In tal caso, quante volte almeno Nicolas deve premere il pulsante per assicurarsi che l'elettrone non tocchi mai il cerchio, come funzione di $r$?
+> 
+> $\textbf{3.}$ Nicolas colloca i punti $n$ rigorosamente all'interno di un disco di raggio $1$. Può scegliere liberamente il posizionamento e la direzione della pistola. L'elettrone può entrare e uscire dal disco; il disco non influenza la sua traiettoria. Valutare il numero intero più piccolo $N$ in modo che, qualunque siano le posizioni dei punti $n$, Nicolas possa garantire che l'elettrone passi attraverso questi punti $n$ premendo il pulsante al massimo $N$ volte. Cosa succede con un disco di raggio arbitrario $R > 0$?
+> 
+> Nicolas ha, solo in questa domanda, le pistole elettroniche $k$ posizionate arbitrariamente nel piano e i pulsanti $k$ che consentono di controllare ogni elettrone in modo indipendente. Può sempre organizzare che, dopo un certo tempo, gli elettroni $k$ siano nello stesso posto nello stesso momento?
+> 
+> Ora Nicolas non ha più un pulsante per far girare l'elettrone, ma specchi da cui l'elettrone rimbalza, conforme alle leggi della fisica classica: gli angoli di incidenza e di riflessione sono uguali.
+> 
+> Li organizza in modo da formare un poligono convexo, cioè uno i cui angoli interni hanno tutti una misura rigida tra $0$ e $\pi$. Si suppone che l'elettrone sia lanciato in modo che non attraversasse mai un vertice del poligono.
+> 
+> Un poligono convex viene detto $\textbf{admirable}$ se Nicolas può far rimbalzare l'elettrone dai lati del poligono in qualsiasi ordine. In altre parole, per qualsiasi numerazione dei lati del poligono con i numeri interi da $1$ a $M$, è possibile posizionare la pistola elettronica in modo che l'elettrone rimbalzi dal lato $1$, poi $2$ e così via fino a $M$.
+> 
+> La figura $9$ rappresenta un quadrilaterale (in arancione) i cui lati sono stati numerati e una possibile traiettoria di un elettrone rispetto a questo ordine: rimbalza successivamente fuori dai lati $1$, poi $2$, poi $3$ e poi $4$. Per rendere questo poligono ammirevole, si dovrebbe essere in grado di fare la stessa cosa qualunque numero sia attribuito ai lati.
+> 
+> Per quale $M$ è ammirevole il poligono regolare con lati $M$ le cui vertici si trovano su un cerchio di raggio $1$?
+> 
+> Per quale $M \ge 3$ Nicolas può costruire un polygono ammirevole con i lati $M$?
+> 
+> < MSK0/> Proporre e studiare altre vie di ricerca.
+
+![[src_tfjm_2024__Q05.png]]
+
+[[src_tfjm_2024__Q05]]

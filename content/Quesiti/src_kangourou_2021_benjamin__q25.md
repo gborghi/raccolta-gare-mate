@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q25
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo quadretti per figura simmetrica ai 4 assi*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum squares per symmetrical figure on the four axes*
+
+![[src_kangourou_2021_benjamin__prob25.png]]
+
+> We want to add to the drawing of the colored squares so that we can create a symmetrical figure with respect to each of the four axes of symmetry of the grid. What's the minimum number of squares you can do that for? A) 1
+> 	
+> B) 9
+> 	
+> C) 12
+> 	
+> D) 13
+> 	
+> E) 21
+
+**Answer:** E
+[[src_kangourou_2021_benjamin__Q25]]

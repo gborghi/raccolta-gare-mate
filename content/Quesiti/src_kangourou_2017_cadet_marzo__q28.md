@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q28
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numeri dispari nella piramide di somme*
 
@@ -68,3 +71,36 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most odd numbers in the sum pyramid*
+
+![[src_kangourou_2017_cadet_marzo__prob28.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \foreach \row/\n in {0/5, 1/4, 2/3, 3/2, 4/1} {
+    \foreach \col in {1,...,\n} {
+      \draw (\col - \n/2 - 0.5, \row*0.7) rectangle (\col - \n/2 + 0.5, \row*0.7 + 0.6);
+    }
+  }
+\end{tikzpicture}
+\end{document}
+```
+
+> Sarah wants to write a positive integer in each box of the drawing so that each number above the bottom line is the sum of the two numbers in the boxes immediately below it. How many odd numbers can Sara write at most? A) 5
+> 	
+> B) 7
+> 	
+> C) 8
+> 	
+> D) 10
+> 	
+> E) 11
+
+**Answer:** E
+[[src_kangourou_2017_cadet_marzo__Q28]]

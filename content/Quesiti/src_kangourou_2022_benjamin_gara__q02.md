@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin gara individuale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q02
 parent: src_kangourou_2022_benjamin_gara
 competition: Kangourou 2022 Benjamin gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quesito 2 (testo non disponibile nel sidecar)*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Question 2 (text not available in the sidecar)
+
+> With her boat, Elena turned around some buoys following the path shown in the figure. Which bows did Elena turn around in the off-season? (see figure)
+> 
+> A) 1 e 4 B) 2, 3 e 5 C) 2 e 3 D) 1, 4 e 5 E) 1 e 3
+
+**Answer:** E
+[[src_kangourou_2022_benjamin_gara__Q02]]

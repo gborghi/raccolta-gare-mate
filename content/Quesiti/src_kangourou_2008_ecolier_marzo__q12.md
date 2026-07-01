@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q12
 parent: src_kangourou_2008_ecolier_marzo
 competition: Kangourou 2008 - Ecolier (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti punteggi diversi con due frecce*
 
@@ -65,3 +68,31 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Y2PPk0y8EAPu9XdVwcxKDHQ2tA4fBFmN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many different scores with two arrows*
+
+![[src_kangourou_2008_ecolier_marzo__prob12.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+\draw (0,0) circle (2cm);
+\draw (0,0) circle (1.2cm);
+\draw (0,0) circle (0.55cm);
+\node at (0,0) {6};
+\node at (0,0.9) {3};
+\node at (0,1.65) {2};
+\draw[->,thick] (-2.2,0.6) -- (-1.5,0.4);
+\draw[->,thick] (-2.2,-0.3) -- (-0.9,-0.2);
+\end{tikzpicture}
+\end{document}
+```
+
+> Joan throws two arrows at the target, and she's sure to hit him. The resulting score is the sum of the scores achieved with the individual arrows: for example, in the figure we see a situation in which the resulting score is 5. How many different scores among them can Giovanna get (5 included)? A) 4 B) 6 C) 8 D) 9 E) 10
+
+**Answer:** B
+[[src_kangourou_2008_ecolier_marzo__Q12]]

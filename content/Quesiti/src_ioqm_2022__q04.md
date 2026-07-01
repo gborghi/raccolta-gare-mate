@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q04
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Alice and Bob iterate different maps on M and N, reach same number after 4 moves each*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Alice e Bob ripetono mappe diverse su M e N, raggiungono lo stesso numero dopo 4 mosse ciascuna
+
+> A partire da un numero intero positivo $M$ scritto sulla tavola, Alice gioca il seguente gioco: in ogni mossa, se $x$ è il numero sulla tavola, la sostituisce con $3x + 2$. Allo stesso modo, partendo da un numero intero positivo $N$ scritto sulla tavola, Bob gioca il seguente gioco: in ogni mossa, se $x$ è il numero sulla tavola, lo sostituisce con $2x + 27$. Dato che Alice e Bob raggiungono lo stesso numero dopo aver giocato 4 mosse ciascuno, trovare il valore più piccolo di $M + N$.
+
+**Risposta:** 10
+[[src_ioqm_2022__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1988-89 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1988-89_round1__Q01
 parent: src_bmo_1988-89_round1
 competition: British Mathematical Olympiad 1988-89 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integers a,b,c satisfying a polynomial identity*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtANadUPYkflJ9hrInluoFZeqymzrG0D/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli enti a,b,c che soddisfano un'identità polinomica*
+
+> Trova tutti gli integri $a, b, c$ per i quali $$(x-a)(x-10) + 1 = (x+b)(x+c) \quad \text{for all } x.$$
+
+[[src_bmo_1988-89_round1__Q01]]

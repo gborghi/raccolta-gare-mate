@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_biennio_rec__Q06
 parent: src_archimede_2024_biennio_rec
 competition: Giochi di Archimede 2024 - Gara Biennio (riserva)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo EDA in parallelogramma con punto sul lato*
 
@@ -51,3 +54,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*area of triangle EDA in parallelogram with point on the side*
+
+![[src_archimede_2024_biennio_rec__prob6.png]]
+
+> In an ABCD parallelogram, take the point E on the AB side so that BE is triple AE. It is known that the sides AB and BC measure, in order, 19 and 23 m and that the area of the CDE triangle is 180 m2. How many m2 does the area of the EDA triangle measure? A B C D E ?
+>
+> - **(A)** 48
+> - **(B)** 36
+> - **(C)** 54
+> - **(D)** 45
+> - **(E)** 60
+
+[[src_archimede_2024_biennio_rec__Q06]]

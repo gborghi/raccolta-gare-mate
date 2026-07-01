@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q10
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Next year after 2015 that coincides with it (same days and weekdays)*
 
@@ -50,3 +53,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'anno successivo dopo il 2015 che coincide con esso (gli stessi giorni e giorni feriali) *
+
+> Noi diciamo che due anni coincidono se hanno lo stesso numero di giorni e gli stessi giorni della settimana su tutte le date che coincidono. L'anno 2015 coincide con il 2009. Qual è il prossimo anno dopo il 2015 che coincide con il 2015? Ricordate che usiamo multipli di 4 per trovare gli anni a salto del XXI secolo (ma i multipli di 100 non sono salti, eccetto i multipli di 400), che hanno 366 giorni; gli altri hanno 365 giorni.
+> 
+> (A) 2021 (B) 2022 (C) 2023 (D) 2025 (E) 2026
+
+[[src_obm_2015_n2_f1__Q10]]

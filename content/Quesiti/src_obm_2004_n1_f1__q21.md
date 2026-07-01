@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q21
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *True positive weight values for a street vendor's claim*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valori di peso positivo effettivo per la richiesta di un venditore ambulante*
+
+> Un venditore di strada vende patate e, per pesare, usa un equilibrio a due pannelli e pesi di $1$ kg, $3$ kg e $10$ kg. Considerate l'affermazione: "Questo venditore può pesare $n$ chilogrammi di patate". Quanti valori positivi di $n$ rendono questa affermazione vera?
+> 
+> (A) $7$ \quad (B) $10$ \quad (C) $12$ \quad (D) $13$ \quad (E) $14$
+
+**Risposta:** D
+[[src_obm_2004_n1_f1__Q21]]

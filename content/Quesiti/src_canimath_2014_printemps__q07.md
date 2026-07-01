@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2014 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2014_printemps__Q07
 parent: src_canimath_2014_printemps
 competition: Coupe Animath Printemps 2014
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer sequences satisfying x_10 ≤ 2(x_1+…+x_9) with 10 terms*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXbOAjNKTjFFzbKdpAWQivUPB4zcjEuT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenze interi che soddisfano x_10 ≤ 2(x_1+...+x_9) con 10 termini*
+
+> Determinare tutte le sequenze interi $x_1, x_2, \ldots, x_{10}$ in modo tale che $$0 < x_1 < x_2 < \cdots < x_{10}$$ e $$x_{10} \le 2(x_1 + x_2 + \cdots + x_9).$$
+
+[[src_canimath_2014_printemps__Q07]]

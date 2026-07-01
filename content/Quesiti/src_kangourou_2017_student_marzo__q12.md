@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Student - Gara 16 marzo — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_student_marzo__Q12
 parent: src_kangourou_2017_student_marzo
 competition: Kangourou 2017 Student - Gara 16 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Il maggiore tra p,q ed espressioni date*
 
@@ -56,3 +59,17 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ysv1C-Fm4sgZx_ymVVjTGJCCxa8YiSmp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The largest between p,q and given expressions*
+
+> We know that the number p is positive and less than 1 and that the number q is greater than 1. Which is the largest of the following numbers? A) p ∙ q B) p + q C) p / q D) p
+> 	
+> E) 10 blue, 8 red 6 blue, 4 red 8 blue, 6 red 7 blue, 7 red 12 blue, 9 red A B C
+>
+
+**Answer:** B
+[[src_kangourou_2017_student_marzo__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2023__Q02
 parent: src_cesenatico_2023
 competition: Olimpiade Italiana (Cesenatico) 2023 - testi e soluzioni
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *stabilita e minimo k*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** k=2n+1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K2tSI9y0Z1EOzNjwEfT72n8wgtnVThOH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>stability and minimum k< MSK1/>
+
+> Let it be a positive integer. On a board, Bobo writes n integers greater than or equal to zero. Next, for every Bobo move • for every i = 1, . . . , n calculates the number a of integers written at that time on the board and less than or equal to i, • deletes all the numbers written, • writes on the board the numbers a1, a2, . . . , an. For example, if n = 5 and the numbers written initially are 0, 7, 2, 6, 2, after the first move will be 1, 3, 3, 3, 3, after the second move will be 1, 1, 5, 5, 5, and so on. (a) Demonstrate that, for each n and for each initial configuration, the numbers written on the board do not change from a certain point onwards. (b) Determine, as a function of n, the positive minimum integer k with the property that, for any initial configuration, moves from k-eighth to next no longer change the numbers written on the board.
+
+**Answer:** k=2n+1
+[[src_cesenatico_2023__Q02]]

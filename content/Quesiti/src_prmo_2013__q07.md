@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2013__Q07
 parent: src_prmo_2013
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2013
@@ -32,6 +33,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum total marbles n for Akbar-Birbal statements to hold*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 9
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum totale di marmi n per le dichiarazioni di Akbar-Birbal da tenere*
+
+> Accettiamo insieme Akbar e Birbal di $n$ marmi, dove $n > 0$. Akbar dice a Birbal: "Se ti do un po' di marmi, allora avrai il doppio dei miei". Birbal dice a Akbar: "Se ti do un po' di marmi, allora avrai tre volte più di me". Qual è il valore minimo possibile di $n$ per il quale le affermazioni sopra indicate sono entrambe vere?
+
+**Risposta:** 9
+[[src_prmo_2013__Q07]]

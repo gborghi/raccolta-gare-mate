@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_semifinale_c__Q11
 parent: src_cesenatico_2012_semifinale_c
 competition: Gara a Squadre Cesenatico 2012 - Semifinale C
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max radici >1 di polinomio palindromo pari grado 2012*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0503
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Max roots >1 of palindrome polynomial of degree 2012*
+
+> The ferocious aliens of the Uru System are invading Earth! The world will end unless the Earth Champion defeats the alien chief's daughter in a desperate race. The race is held on a 500-meter track, on multiple laps. The alien surpasses the Champion every three minutes. If one of them were to run in the opposite direction, they would cross each other every 20 seconds. What is the speed of the alien in centimeters per second?
+
+**Answer:** 0503
+[[src_cesenatico_2012_semifinale_c__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q11
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza percorsa da Nando per raggiungere Luca*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 80 metri
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance traveled by Nando to reach Luca*
+
+> That's the case with Nando. When Luke cuts the 100-meter mark, Nando has only walked 95. If now Luca gives Nando a certain edge and makes him go four meters. before him, after how many meters will he reach him (assuming of course that the two athletes are running at a constant speed, the same as before)?
+
+**Answer:** 80 metri
+[[src_bocconi_squadre_2008__Q11]]

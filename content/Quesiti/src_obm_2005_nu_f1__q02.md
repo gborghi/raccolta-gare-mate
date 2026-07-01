@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1 —
   Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_nu_f1__Q02
 parent: src_obm_2005_nu_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível Universitário — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate a definite integral involving ln(1+tg x)*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1t1VifBoLdIYTQCp9KTilPVmufvuvo00a/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare un'integrale definita che coinvolge ln(1+tg x) *
+
+> Calcolare l'integrale $$\int_0^{\pi/4} \ln(1 + \tan x)\, dx.$$
+
+[[src_obm_2005_nu_f1__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q23
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Year in which the gcd of year and OBM edition is maximized*
 
@@ -48,3 +51,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Anno in cui è massimizzata l'edizione GCD dell'anno e OBM< MSK1/>
+
+> In $2012$ abbiamo l'edizione $34$ dell'OBM e $\mathrm{mdc}(2012, 34) = 2$. Supponendo che l'OBM si svolga sempre ogni anno, in quale anno si verificherà il più grande valore possibile per il $\mathrm{mdc}$ dell'anno e l'edizione dell'OBM tenuta in quell'anno?
+> 
+> A) 12 \quad B) 28 \quad C) 38 \quad D) 1978 \quad E) 2012
+
+[[src_obm_2012_n2_f1__Q23]]

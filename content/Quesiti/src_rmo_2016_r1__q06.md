@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2016 — Region 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2016_r1__Q06
 parent: src_rmo_2016_r1
 competition: Regional Mathematical Olympiad 2016
@@ -35,6 +36,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Arithmetic progression with infinite geometric subsequence*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_C_gDdDV0i52pCDjmTMiQrzqXuQnBrZ9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Progressione aritmetica con sottossequenza geometrica infinita*
+
+> Che $(a_1, a_2, a_3, \ldots)$ sia una sequenza di numeri interi positivi in rigorosa crescita in una progressione aritmetica. Prove che c'è una sottossequenza infinita della sequenza data i cui termini sono in una progressione geometrica.
+
+[[src_rmo_2016_r1__Q06]]

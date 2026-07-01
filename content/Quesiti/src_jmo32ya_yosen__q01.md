@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo32ya_yosen__Q01
 parent: src_jmo32ya_yosen
 competition: Japan Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest 4-digit multiple of 3 above 2022 with exactly 2 distinct digits*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2112
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più piccolo multiplo a 4 cifre di 3 al di sopra del 2022 con esattamente 2 cifre distinte*
+
+> Trova il numero intero più piccolo di $2022$ che è (i) un numero a 4 cifre, (ii) un multiple di $3$, e (iii) utilizza esattamente $2$ cifre distinte tra i suoi migliaia, centinaia, decine e unità posti.
+
+**Risposta:** 2112
+[[src_jmo32ya_yosen__Q01]]

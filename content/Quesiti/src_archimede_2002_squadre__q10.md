@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q10
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *massima potenza che divide 2002!*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4003
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>maximum power dividing 2002!< MSK1/>
+
+> Anna is punished! 55 points
+> 
+> Anna was discovered by the professor while she was playing her weird game during class instead of following. Therefore, as a punishment, they are assigned to calculate how much they have in the middle of 2002 plus the $2/4$ of 2002, plus $3/8$ of 2002, plus $4/16$ of 2002 and so on going on until they stop at $20/2^{20}$-exems of 2002. But the professor realizes after a few minutes that the calculations seem too much and the punishment is too heavy. So he says to Anna, "I'll save you all these calculations if you can tell me what the maximum integer you can get by continuing to add up to $n/2^n$-hexams of 2002". Can you give me a good suggestion?
+
+**Answer:** 4003
+[[src_archimede_2002_squadre__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q14
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *55×60×65 as product of five distinct positive integers; minimize the largest*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*55×60×65 come prodotto di cinque diversi integri positivi; ridurre al minimo il più grande*
+
+> Il prodotto $55 \times 60 \times 65$ è scritto come prodotto di cinque diversi numeri interi positivi. Qual è il minimo valore possibile del più grande di questi interi?
+
+[[src_ioqm_2020__Q14]]

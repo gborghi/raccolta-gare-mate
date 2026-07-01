@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Finale Nazionale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_finale__Q11
 parent: src_squadre_2023_finale
 competition: Gara a Squadre 2023 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Naturali tra 1 e 4092 non ottenuti cancellando 3 cifre da quadrati*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2319
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Natural numbers between 1 and 4092 not obtained by deleting 3 square digits*
+
+> Since Krull does not read the story of the good night, Gaetana writes on the board the squares of the natural numbers n from 10 to 2023 (so he writes 100,121,...,4092529). Later, Agnes deletes the last three digits (units, tens, and hundreds) of each written number. So Mary rolls over their covers and looking at the numbers that are left, she wonders, how many natural numbers between 1 and 4092 are missing on the board? Part Two: Implementation
+
+**Answer:** 2319
+[[src_squadre_2023_finale__Q11]]

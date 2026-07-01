@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2007 — Quesito
   17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2007__Q17
 parent: src_bocconi_finalenaz_2007
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2007
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri a 4 cifre sono simmetrici rispetto a un centro nel display a cristalli liquidi*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 31
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many 4-digit numbers are symmetrical to a center in the liquid crystal display*
+
+> MODEL, MAY SIMMETRICAL In a liquid crystal calculator display, each of the digits from 0 to 9 appears by illuminating some crystals in a prefixed matrix of 7 liquid crystals, as can be seen in the figure. The matrix  of the pattern has a regular spacing. In the display of my modesta calculator, there are only 4 matrix (and so only 4 digit numbers can appear). How many of these numbers, which do not start with 0, have the property of being symmetrical to a point on the screen (center of symmetry)? Note: The number 1 always appears to the right of the matrix. In symmetry, of course, only illuminated crystals are taken into account.
+
+![[src_bocconi_finalenaz_2007__Q17.png]]
+
+**Answer:** 31
+[[src_bocconi_finalenaz_2007__Q17]]

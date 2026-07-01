@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q06
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Least positive integer to multiply 2^3·3^6·4^5·5^7·6^8 to get perfect square*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 30
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimo intero positivo per moltiplicare 2^3·3^6·4^5·5^7·6^8 per ottenere il quadrato perfetto*
+
+> Qual è il numero intero meno positivo per cui $2^3 \cdot 3^6 \cdot 4^5 \cdot 5^7 \cdot 6^8$ deve essere moltiplicato in modo che il prodotto sia un quadrato perfetto?
+
+**Risposta:** 30
+[[src_ioqm_2020__Q06]]

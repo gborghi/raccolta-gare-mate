@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q23
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -34,6 +35,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle ABCD, points M on AB and N on BC with MC=CD, MD=MN, C,D,M,N concyclic; find m+n*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rectangle ABCD, punti M su AB e N su BC con MC=CD, MD=MN, C,D,M,N conciclici; trovare m+n*
+
+> Il $ABCD$ è un rettangolo e il $M$, il $N$ sono punti che si trovano rispettivamente sui lati $AB$ e $BC$. Supponiamo che $MC = CD$ e $MD = MN$, e che i punti $C$, $D$, $M$, $N$ si trovino su un cerchio. Se $(AB/BC)^2 = m/n$ dove $m$ e $n$ sono integri positivi con $\gcd(m, n) = 1$, qual è il valore di $m + n$?
+
+[[src_ioqm_2025_sep07__Q23]]

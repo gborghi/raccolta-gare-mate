@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q08
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale pezzo manca dello specchio rotto*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>What part of the broken mirror is missing< MSK1/>
+
+> Each of my five friends wanted to say something about the number 325. Aldo said, "It's a three-digit number". Bruno said: All his figures are distinct from each other. Carlo said, "The sum of its digits is 10". Darius said: The number of units is 5. Ennio said, "All his figures are odd". Only one of our friends got it wrong. Who's that? A) Aldo B) Bruno C) Charles D) Darius E) Ennio I Questions from N. 9 al N. 16 is worth 4 points each.
+
+[[src_kangourou_2013_ecolier__Q08]]

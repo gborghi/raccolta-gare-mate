@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q17
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Di quanto diminuire il denominatore per raddoppiare*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How much to decrease the denominator to double*
+
+> I wrote a fraction where both the numerator and denominator are positive integers. Now I'm going to increase the numerator by 40%. What percentage do I have to deduct from the denominator for the new fraction to be worth twice the starting fraction? A) 10% B) 20% C) 30% D) 40% E) 50%
+
+**Answer:** C
+[[src_kangourou_2021_cadet__Q17]]

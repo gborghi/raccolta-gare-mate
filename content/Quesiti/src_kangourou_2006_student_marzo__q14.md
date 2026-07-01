@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q14
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Elementi del coro quest'anno (percentuali)*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Elements of the choir this year (percentage) *
+
+> Last year in a polyphonic choir there were 30 more men than women. This year the number of choir members has increased by 10%, the number of women has increased by 20%, and the number of men by 5%. How many elements does the choir have this year? A) 88               B) 99             C) 110              D) 121                E) 13
+
+**Answer:** B
+[[src_kangourou_2006_student_marzo__Q14]]

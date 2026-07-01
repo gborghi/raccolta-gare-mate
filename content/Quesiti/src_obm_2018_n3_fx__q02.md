@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2018 — Nível 3 — Fase x — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2018_n3_fx__Q02
 parent: src_obm_2018_n3_fx
 competition: Olimpíada Brasileira de Matemática 2018 — Nível 3 — Fase x
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all 'dobralho' quadruples (A,B,C,D) satisfying divisibility conditions*
 
@@ -55,3 +58,23 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n-tmzEBlNIungaQ43-LsU9CzJBumtIxE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i quadrupli "dobralho" (A,B,C,D) che soddisfano le condizioni di divisibilità*
+
+> Un quadruplo $(A, B, C, D)$ è chiamato \emph{dobralho} quando $A$, $B$, $C$ sono numeri non zero e $D$ è un intero positivo tale che:
+> 
+> 1. $A \le 8$;
+> 
+> 2. $D > 1$;
+> 
+> 3. $D$ divide tutti e sei dei seguenti numeri: $\overline{ABC}$, $\overline{BCA}$, $\overline{CAB}$, $\overline{(A+1)CB}$, $\overline{CB(A+1)}$, $\overline{B(A+1)C}$.
+> 
+> Determina tutti i quadrupli.
+> 
+> \textbf{Nota:} Utilizziamo una barra per indicare il numero formato dalla concatenatura dei numeri. Ad esempio, $\overline{ABC} = 126$ significa $A = 1$, $B = 2$, $C = 6$.
+
+[[src_obm_2018_n3_fx__Q02]]

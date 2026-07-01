@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2014 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2014__Q12
 parent: src_bocconi_squadre_2014
 competition: Gara a Squadre 2014
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo valore di z nel sistema x+y+z=10, xy+yz+zx=12*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\dfrac{26}{3}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum value of z in the system x+y+z=10, xy+yz+zx=12*
+
+> Find the greatest (real) value that can be assigned to $z$ so that the following system, consisting of two equations, admits real solutions: $$x + y + z = 10, \quad xy + yz + zx = 12$$
+
+**Answer:** $\dfrac{26}{3}$
+[[src_bocconi_squadre_2014__Q12]]

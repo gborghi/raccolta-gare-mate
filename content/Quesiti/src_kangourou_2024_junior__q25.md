@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q25
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *3)*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*3)*
+
+> In the figure you see a square ABCD of 5 centimeters on the side. Each of the four segments it contains, parallel to the pair, has opposite ends and divides it into two trapezoids whose areas are in the ratio of 2 to 3. The CL segment and the DK segment are both 1 cm long. How many square centimetres is the area of the EFGH quadrilateral ? A) 25/29 B) 26/29 C) 24/29
+> 	
+> D) 27/29 E) 28/29
+
+**Answer:** A
+[[src_kangourou_2024_junior__Q25]]

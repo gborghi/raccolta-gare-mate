@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q07
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale figura ottenuta sezionando il cubo*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What figure is obtained by securing the cube*
+
+![[src_kangourou_2004_cadet__prob7.png]]
+
+> I have a cube and I'm sewing it with a plan. The figures I can get on the plan are different depending on how I choose the plan. I've indicated on the development of the cube the cuts identified by a plan I've chosen. What figure did I get on the plane? A) a hexagon B) a square C) a rectangle but not a square D) a rectangle E) an equilateral triangle
+
+**Answer:** E
+[[src_kangourou_2004_cadet__Q07]]

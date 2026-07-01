@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_a__Q05
 parent: src_cesenatico_2011_semifinale_a
 competition: Gara a Squadre Cesenatico 2011 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimi francobolli da 165 e 210 per 5160*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2302
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum stamps of 165 and 210 for 5160*
+
+> Borelix's heart mail wants to send a menhir d'amour to his beloved Alphabet, and must free him with 5160 Bronzo Chickens, the currency of their village. Unfortunately, he only has stamps from 165 and 210 Bronze Chickens. How many stamps will you have to use Borelix? In the answer, use the two left digits for the number of stamps from 210 and the two right digits for the number of stamps from 165 corresponding to the minimum sum solution.
+
+**Answer:** 2302
+[[src_cesenatico_2011_semifinale_a__Q05]]

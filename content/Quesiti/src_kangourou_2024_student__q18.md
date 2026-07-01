@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q18
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti interi di 3 cifre contengono almeno una cifra 1,2,3*
 
@@ -49,3 +52,15 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three-digit integers shall contain at least one digit, 1,2,3*
+
+> How many three-digit positive integers (therefore between 100 and 999, extremes included) contain at least one of the digits 1, 2, 3? A) 27 B) 147 C) 441 D) 557 E) 606 a b c X
+>
+
+**Answer:** E
+[[src_kangourou_2024_student__Q18]]

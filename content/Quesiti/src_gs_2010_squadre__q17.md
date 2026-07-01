@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2010 - Gara a squadre — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2010_squadre__Q17
 parent: src_gs_2010_squadre
 competition: Coppa Fermat 2010 - Gara a squadre
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre pari con condizioni di divisibilita*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 10240
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Equal numbers with divisibility conditions*
+
+> **The County Treasury ** (point 50)
+> 
+> The combination of the Cook County vault is five digits. Steven recalls that:
+> 
+> - All numbers formed by considering each pair of adjacent digits, taken in the same order as they appear in the combination, are divisible by $2$; - All numbers formed by considering each set of adjacent digits, taken in the same order as they appear in the combination, are divisible by $3$; - All numbers formed by considering each quartet of adjacent digits, taken in the same order as they appear in the combination, are divisible by $42$; - The combination, read as a five-digit number, is divisible by $5$.
+> 
+> Write the last four digits of the combination in order.
+
+**Answer:** 10240
+[[src_gs_2010_squadre__Q17]]

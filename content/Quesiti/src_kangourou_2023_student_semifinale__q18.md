@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Student 2023 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student_semifinale__Q18
 parent: src_kangourou_2023_student_semifinale
 competition: Kangourou Semifinale individuale Student 2023
@@ -28,6 +29,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo n di persone senza antipatia reciproca tra le 2023*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum number of people without mutual dislike between 2023< MSK1/>
+
+> (Points 8) In a group of 2023 people, everyone has a dislike of exactly one other person, but the relationship is not necessarily symmetrical. Without knowing the actual situation, it is desirable to ensure that no person can be selected by 2023 so that none of them dislikes any of the remaining selected persons. What's the greatest value of n?
+
+[[src_kangourou_2023_student_semifinale__Q18]]

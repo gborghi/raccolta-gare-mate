@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Biennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_biennio__Q14
 parent: src_archimede_2012_biennio
 competition: Giochi di Archimede 2012 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Aumento prezzo benzina da aumento petrolio del 10%*
 
@@ -49,3 +52,20 @@ tags:
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13kesAdPzQ8k4YwW-asUVUoQ5RPW1gOnt/view)
 **Anche in triennio:** [apri PDF p.3](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Price increase of petrol by 10%< MSK1/>
+
+> As of 22 November 2012, the price of petrol is 35% of the cost of the product, which is in turn composed of several items (oil, refining, distribution costs, etc.); the cost of oil today constitutes 24% of the cost of the product. Given that on 1 January 2013 the price of oil will increase by 10% and the other costs will remain unchanged, how much will the price of gasoline increase on that date?
+>
+> - **(A)** 10%
+> - **(B)** 2,4%
+> - **(C)** 3,5%
+> - **(D)** 0,84 %
+> - **(E)** None of the preceding
+
+**Answer:** D
+[[src_archimede_2012_biennio__Q14]]

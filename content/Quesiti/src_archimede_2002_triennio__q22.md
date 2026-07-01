@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2002 - Triennio — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_triennio__Q22
 parent: src_archimede_2002_triennio
 competition: Giochi di Archimede 2002 - Triennio
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero alunni del liceo da frazioni di classi*
 
@@ -49,3 +52,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of high school pupils by class fractions*
+
+> In a science high school there are less than 1000 students, of whom 230 attend the three-year classes; the second-year pupils are 13 46 of all remaining pupils; furthermore, if 10 more pupils were enrolled in the first one, then the first-year pupils would become 2 5 of the total. The number of pupils at the school is:
+>
+> - **(A)** 500
+> - **(B)** 590
+> - **(C)** 625
+> - **(D)** 700
+> - **(E)** 825.
+
+[[src_archimede_2002_triennio__Q22]]

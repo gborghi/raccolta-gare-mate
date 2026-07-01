@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q25
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima potenza di (x-1) che divide un polinomio di 5 grado*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum power of (x-1) dividing a polynomial of 5 degrees*
+
+![[src_kangourou_2023_student__prob25.png]]
+
+> A stain of ink covered part of the formula assigning a fifth degree polynomial, as shown below. It is well known that the polynomial has 5 roots and that they are all integers, not necessarily distinct. What is the highest power of x  1 dividing the polynomial? A) (x – 1)1 B) (x – 1)2 C) (x – 1)3 D) (x – 1)4 E) (x – 1)5
+
+**Answer:** D
+[[src_kangourou_2023_student__Q25]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q17
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero cammini su reticolo a distanza 5 dopo 7 passi*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0476
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of walks on a lattice at a distance of 5 to 7 steps*
+
+> Gaussdalf lost in Toria Proved by the fight with the balrog, Gaussdalf wanders confused in the mines of Toria. Every day, for 7 consecutive days, he moves from a tunnel to the north, south, east or west (and throughout the day he walks in the same direction). All the tunnels have the same length, i.e. 1 league. At the end of the seventh day, he uses a spell that allows him to find out how far he has traveled in a straight line from where he left the first day. Knowing that Gaussdalf is five leagues from where he left off, how many different roads could he have walked?
+
+**Answer:** 0476
+[[src_gas_2009_finale__Q17]]

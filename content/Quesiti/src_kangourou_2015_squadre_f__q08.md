@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Finale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q08
 parent: src_kangourou_2015_squadre_f
 competition: Kangourou Coppa Squadre 2015 Finale
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di somme dispari da prodotti di primi*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3249
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h_SgvOFzLa5MkyUk9nA_Lj1BTGkSTzB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum number of odd sums from commodities < MSK1/>
+
+> Daniela and prime numbers Daniela chooses 20 prime integers to her liking, all different from each other. It then multiplies them by two to two in every possible way (except the order: for example, product 3 < MSK0/> 5 and product 5 < MSK1/> 3 correspond in one way; it never multiplies a number by itself). Finally, it adds the products thus obtained to two by two in every possible way. What's the maximum number of odd sums you could get?
+
+**Answer:** 3249
+[[src_kangourou_2015_squadre_f__Q08]]

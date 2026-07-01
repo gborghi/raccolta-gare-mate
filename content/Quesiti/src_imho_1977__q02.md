@@ -1,6 +1,7 @@
 ---
 title: IMO 1977 (XIX International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1977__Q02
 parent: src_imho_1977
 competition: IMO 1977 (XIX International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Finite sequence: max terms negative with seven successive sum negative*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Finite sequence: max terms negative with seven successive sum negative
+
+> In a finite sequence of real numbers the sum of any seven successive terms is negative, and the sum of any eleven successive terms is positive. Determine the maximum number of terms in the sequence.
+
+[[src_imho_1977__Q02]]

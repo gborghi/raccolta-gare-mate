@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2010 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2010__Q10
 parent: src_bocconi_rosi_2010
 competition: Giochi di Rosi 2010
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli con perimetro 12 cm e lati interi*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3 (lati $4,4,4$ cm; $5,5,2$ cm; $5,4,3$ cm)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pwjn1M0F1YSZ60SMZmZPXENHZGd98Xmt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangles with a perimeter of 12 cm and full sides*
+
+> **What are the possible triangles whose perimeter is $12$ cm and whose sides are expressed as an integer of cm?**
+
+**Answer:** 3 (lati $4,4,4$ cm; $5,5,2$ cm; $5,4,3$ cm)
+[[src_bocconi_rosi_2010__Q10]]

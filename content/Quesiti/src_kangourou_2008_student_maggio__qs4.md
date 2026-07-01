@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student finale nazionale (Mirabilandia) — Quesito S4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_maggio__QS4
 parent: src_kangourou_2008_student_maggio
 competition: Kangourou 2008 - Student finale nazionale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tre punti col cerchio vuoto all'interno*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17e9IDZmmMC0kmw9HyZkRsJZSaNWwywyl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three points with an empty circle inside*
+
+> *(14 points) * In a plane some non-hill points (i.e. not all lying on the same line) are assigned in finite numbers greater than or equal to three. Is it true that there are necessarily three such points among them that the circle bounded by the circumference passing through these three does not contain any of the remaining points?
+
+**Answer:** si
+[[src_kangourou_2008_student_maggio__QS4]]

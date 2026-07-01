@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2025_n2_fx__Q05
 parent: src_obm_2025_n2_fx
 competition: Olimpíada Brasileira de Matemática 2025 — Nível 2 — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer-coefficient quadratic with positive real root less than 1/2*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CcXWhSqND26SnC8adQX6Fy1P4X3uridO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*quadratico a coefficiente intero con radice reale positiva inferiore a 1/2*
+
+> L'equazione $ax^2 + bx + c = 0$, con $a$, $b$, $c$ enti non zero, ha una soluzione reale positiva inferiore a $\dfrac{1}{2}$.
+> 
+> (a) Fornire un esempio di equazione che soddisfi la dichiarazione in cui due dei numeri $a$, $b$, $c$ sono uguali a $2025$ e l'altro ha un valore assoluto inferiore o uguale a $2025$. (Ricordiamo che $a \neq 0$, $b \neq 0$, $c \neq 0$.)
+> 
+> b) dimostrare che almeno uno dei numeri $a$, $b$ o $c$ ha un valore assoluto superiore o uguale a $2025$.
+
+[[src_obm_2025_n2_fx__Q05]]

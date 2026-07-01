@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q27
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri divisibili per 3 su circonferenza*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many numbers are divisible by 3 on circumference*
+
+![[src_kangourou_2007_cadet_marzo__prob27.png]]
+
+> Five integers are written on a circumference so that no pair and no set of adjacent numbers gives a sum divisible by 3. How many of these numbers are divisible by 3? A) 0 B) 1 C) 2 D) 3 E) The data are insufficient to answer.
+
+**Answer:** C
+[[src_kangourou_2007_cadet_marzo__Q27]]

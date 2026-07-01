@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior finale (maggio) — Quesito J4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_maggio__QJ4
 parent: src_kangourou_2007_junior_maggio
 competition: Kangourou 2007 Junior finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Strategia vincente nel gioco delle 52 carte*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18MZGLQJUQipZMb6TJ_fvPWOpz_biScUr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Winning strategy in the 52 card game
+
+> I have $52$ cards on each of which a positive integer is indicated and the sum of all the numbers is an odd number. I play with a friend like this: after you put all the cards in a row on the table, you remove a card at one end of the row and then you move the hand to the other one who does the same thing; you iterate until there are no more cards on the table. In the end, each player adds the numbers written on the cards he has chosen; the winner is the one with the most cards. Is there a winning strategy for whoever starts the game? If yes, indicate one, if not, provide a reason.
+
+**Answer:** si
+[[src_kangourou_2007_junior_maggio__QJ4]]

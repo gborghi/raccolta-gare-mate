@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Cadet — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q04
 parent: src_kangourou_2019_cadet_semif
 competition: Kangourou 2019 Semifinale Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti giorni minimo per cui la seconda proposta conviene*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1phCvtzZl50ji_jVJDivksDRKk73y1EvN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of days for which the second proposal is suitable*
+
+> (Points 4) Maria is looking for work and has to consider two different salary proposals: the first proposal for a fixed daily salary of EUR 100 per working day; the second proposal for a salary that increases by EUR 10 per working day, starting the first day with EUR 50 and continuing the second with EUR 60 and so on. How many days at least do you have to work for the second proposal to be more advantageous? A) 9
+> 	
+> B) 10 C) 11 D) 12 E) 20
+
+**Answer:** D
+[[src_kangourou_2019_cadet_semif__Q04]]

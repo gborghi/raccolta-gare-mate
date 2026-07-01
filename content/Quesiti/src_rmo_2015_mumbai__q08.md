@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_mumbai__Q08
 parent: src_rmo_2015_mumbai
 competition: Regional Mathematical Olympiad 2015
@@ -40,6 +41,8 @@ tags:
   - regione/r5
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral ABCD with positive integer sides: prove some two sides equal*
 
@@ -52,3 +55,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aKO7__cJlTFnDSJpRW04wWyB2aJzzbY3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrilaterale converso con lati interi positivi: dimostrare che alcuni due lati sono uguali*
+
+> La lunghezza di ciascun lato di un quadrilaterale converso $ABCD$ è un intero positivo. Se la somma delle lunghezze di qualsiasi tre lati è divisibile per la lunghezza del lato rimanente, allora dimostrare che alcuni due lati del quadrilaterale hanno la stessa lunghezza.
+
+*Apparizioni nelle regioni: Mumbai, Regione 5.*
+
+[[src_rmo_2015_mumbai__Q08]]

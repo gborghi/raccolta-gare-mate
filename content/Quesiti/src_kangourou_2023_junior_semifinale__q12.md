@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Junior 2023 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_semifinale__Q12
 parent: src_kangourou_2023_junior_semifinale
 competition: Kangourou Semifinale individuale Junior 2023
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare n dopo operazioni casuali con risultato 78*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rq1gJ31P8DKnidln7hHYAxiIyAQN3F0c/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find n after random operations with result 78*
+
+> Gaia plays like this. He writes an integer n, then he multiplies it randomly or by 5 or by 6. To the product, the random sum is either 5 or 6. At the sum, he randomly subtracts five or six. If the end result is 78, what number is n?
+
+[[src_kangourou_2023_junior_semifinale__Q12]]

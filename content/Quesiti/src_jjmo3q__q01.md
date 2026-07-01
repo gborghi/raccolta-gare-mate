@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2005 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo3q__Q01
 parent: src_jjmo3q
 competition: Japan Junior Mathematical Olympiad 2005
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of four four-digit numbers*
 
@@ -35,3 +38,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di quattro numeri a quattro cifre*
+
+> effettuare il seguente calcolo: $$6789 + 7896 + 8967 + 9678.$$
+
+[[src_jjmo3q__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f2__Q01
 parent: src_obm_2004_n2_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find digit sum a+b+c from a long multiplication*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rDWi4aChRBskadFdiGfO9ekGjbo_vFkU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la somma a+b+c da una moltiplicazione lunga*
+
+> Nella seguente moltiplicazione, $a$, $b$ e $c$ sono numeri: $$\begin{array}{r} 1\;a\;b \\ \times\quad b\;3 \\ \hline * * * \\ * * * \\ \hline 1\;c\;c\;0\;1 \end{array}$$ Trova $a + b + c$.
+
+[[src_obm_2004_n2_f2__Q01]]

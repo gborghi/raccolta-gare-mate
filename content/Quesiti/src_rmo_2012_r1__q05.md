@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Region 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_r1__Q05
 parent: src_rmo_2012_r1
 competition: Regional Mathematical Olympiad 2012
@@ -33,6 +34,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle bisectors feet; prove XY=(b+c-a)/2*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11aRbfC9yQJVoIGFG_WNtegA0QeoTMsx3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Piedi bisettori angolari; prova XY=(b+c-a)/2< MSK1/>
+
+> Lasciate che $ABC$ sia un triangolo. Il $BE$ e il $CF$ siano rispettivamente bisettori di angolo interno di $\angle B$ e $\angle C$ con $E$ su $AC$ e $F$ su $AB$. Supponiamo che $X$ sia un punto del segmento $CF$ tale che $AX \perp CF$, e $Y$ sia un punto del segmento $BE$ tale che $AY \perp BE$. Prove che $XY = \frac{b + c - a}{2}$ dove $BC = a$, $CA = b$ e $AB = c$.
+
+[[src_rmo_2012_r1__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo35yqa_yosen__Q05
 parent: src_jmo35yqa_yosen
 competition: Japan Mathematical Olympiad 2025 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bicentric quadrilateral, incircle radius 6; triangles PBC,QCD inradii 5,3; find BC/CD*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{15}{11}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterali bicentrici, raggio incircolo 6; triangoli PBC, QCD inradii 5,3; trovare BC/CD*
+
+> Un quadrilaterale $ABCD$ è inserito in un cerchio ed è circoscritto anche su un cerchio di raggio $6$. Il raggio $AB$ e il raggio $DC$ si incontrano a un punto $P$, e il raggio $AD$ e il raggio $BC$ si incontrano a un punto $Q$. Le inradii dei triangoli $PBC$ e $QCD$ sono rispettivamente $5$ e $3$. Trova < MSK12/>. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+![[src_jmo35yqa_yosen__Q05.png]]
+
+**Risposta:** \frac{15}{11}
+[[src_jmo35yqa_yosen__Q05]]

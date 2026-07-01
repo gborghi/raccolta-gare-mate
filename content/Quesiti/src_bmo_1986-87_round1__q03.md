@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1986-87 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1986-87_round1__Q03
 parent: src_bmo_1986-87_round1
 competition: British Mathematical Olympiad 1986-87 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find limiting value of product of two binomial-coefficient sums*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U9IQlmby0-sN5N3oaJBnf3PLtxRCMKLa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il valore limite del prodotto di due somme di coefficienti binomiali*
+
+> Trova, con prova, il valore di $$\lim_{n \to \infty} \left(\sum_{r=0}^{n} \binom{2r}{r} \frac{1}{4^r}\right)^{-1} \sum_{r=0}^{n-1} \binom{2r}{r} \frac{1}{4^r}$$ come $n \to \infty$.
+> 
+> Qui $\dbinom{2r}{r}$ indica un coefficiente binomio.
+
+[[src_bmo_1986-87_round1__Q03]]

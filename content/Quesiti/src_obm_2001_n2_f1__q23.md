@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q23
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *White tiles needed when 80 black tiles are used in the mosaic sequence*
 
@@ -56,3 +59,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tigli bianchi necessari quando vengono utilizzate 80 piastrelle nere nella sequenza di mosaico*
+
+> Con piastrelle quadrate bianche e nere, tutte della stessa dimensione, vengono costruiti i seguenti mosaici. La regola per la costruzione di questi mosaici è la seguente: inizialmente formiamo un quadrato con $1$ piastrelle bianche circondate da piastrelle nere; successivamente, un altro quadrato, con $4$ piastrelle bianche, anche circondate da piastrelle nere; e così via. Con le piastrelle nere $80$, quante piastrelle bianche saranno necessarie per fare una sequenza di mosaici come questa?
+> 
+> (A) $55$ \quad (B) $65$ \quad (C) $75$ \quad (D) $85$ \quad (E) $100$
+
+![[src_obm_2001_n2_f1__Q23.png]]
+
+**Risposta:** A
+[[src_obm_2001_n2_f1__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2008 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2008__Q06
 parent: src_cn_cgmo_2008
 competition: China Girls' Mathematical Olympiad 2008
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence of positive numbers with recurrence; find monotonicity threshold a*
 
@@ -50,3 +53,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Sequenza di numeri positivi con ricorrenza; trovare la soglia di monotonia a< MSK1/>
+
+> Supponiamo che la sequenza dei numeri positivi $x_1, x_2, \ldots, x_n, \ldots$ soddisfi $(8x_2 - 7x_1)x_1^7 = 8$ e $$x_{k+1}x_{k-1} - x_k^2 = \frac{x_{k-1}^8 - x_k^8}{x_k^7 x_{k-1}^7}, \quad k \ge 2.$$ Trova un numero reale positivo $a$ in modo tale che quando $x_1 > a$ si ha $x_1 > x_2 > \cdots > x_n > \cdots$, e quando $0 < x_1 < a$ non si ha tale monotonia. (Posato da Li Shenghong)
+
+**Risposta:** $a = 8^{1/8}$
+[[src_cn_cgmo_2008__Q06]]

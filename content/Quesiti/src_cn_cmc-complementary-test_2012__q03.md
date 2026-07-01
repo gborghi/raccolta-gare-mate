@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2012 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2012__Q03
 parent: src_cn_cmc-complementary-test_2012
 competition: China Mathematical Competition (Complementary Test) 2012
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove lower bound on product of distances from one point to all others*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove il limite inferiore sul prodotto delle distanze da un punto a tutti gli altri*
+
+> (50 marchi) Il $P_0, P_1, P_2, \ldots, P_n$ deve essere $n + 1$ punti su un piano, la distanza minima tra ciascuno di essi è $d > 0$. Prova < MSK0/>
+
+[[src_cn_cmc-complementary-test_2012__Q03]]

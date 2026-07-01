@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Biennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_biennio__Q14
 parent: src_archimede_1997_biennio
 competition: Giochi di Archimede 1997 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quale intervallo si trova x volte radice di y*
 
@@ -47,3 +50,20 @@ tags:
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1TBCBxk41PfhfCNwF0me53U4VCY16S0qo/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*In which range is x times the root of y*
+
+> Given two real x and y such that 0 < x < y < 1, in what range is x√y?
+>
+> - **(A)** Between 0 and x
+> - **(B)** between x and y
+> - **(C)** between y and 1
+> - **(D)** after 1
+> - **(E)** depends on the values of x and y. | 0 | x | y | 1
+
+**Answer:** A
+[[src_archimede_1997_biennio__Q14]]

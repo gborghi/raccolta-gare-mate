@@ -1,6 +1,7 @@
 ---
 title: IMO 1983 (24th International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1983__Q06
 parent: src_imo_1983
 competition: IMO 1983 (24th International Mathematical Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prove cyclic triangle-side inequality and find equality case*
 
@@ -40,3 +43,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qHrtan02NnpLf3E60-PekLeYdH4Y9tnD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Prove cyclic triangle-side inequality and find equality case*
+
+> Let's be the lengths of the sides of a triangle. Prove that:
+> 
+> $$a^2b(a-b) + b^2c(b-c) + c^2a(c-a) \geq 0.$$
+> 
+> Determine when equality occurs.
+
+[[src_imo_1983__Q06]]

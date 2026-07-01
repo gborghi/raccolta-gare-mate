@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q08
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza percorsa da Angelo nell'ultima ora*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 35 km
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The distance travelled by Angelo in the last hour
+
+> At the end of a 455-kilometer highway trip, Angelo realized that he had kept an average speed of 91 km/h. It's a pity because initially, thanks to very fluid traffic, it had kept the average of 105 km/h. Then, in the last hour, because of traffic, it had to slow down considerably.
+> 
+> How far has Angelo traveled in the last hour?
+
+**Answer:** 35 km
+[[src_bocconi_squadre_2013__Q08]]

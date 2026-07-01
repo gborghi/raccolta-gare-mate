@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Ecolier (gara marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier__Q18
 parent: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte le quattro cifre dell'orologio sono uguali*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many times the four digits of the watch are equal*
+
+![[src_kangourou_2011_ecolier__prob18.png]]
+
+> A digital clock shows the time from 00:00 to 23:59, with four digits, as shown in the figure. How many times in a day do the four digits shown are all the same? A) 1 B) 24 C) 3 D) 5 E) 12
+
+**Answer:** C
+[[src_kangourou_2011_ecolier__Q18]]

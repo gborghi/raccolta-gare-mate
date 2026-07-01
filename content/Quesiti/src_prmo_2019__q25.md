@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q25
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Diameter of circular village wall seen from given point*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Diametro della parete circolare del villaggio vista da un dato punto*
+
+> Un villaggio ha un muro circolare attorno a esso, e il muro ha quattro porte che puntano a nord, sud, est e ovest. Al di fuori del villaggio, a 16 m a nord del cancello settentrionale, si trova un albero che appare all'orizzonte da un punto a 48 m a est del cancello sud. Qual è il diametro, in metri, del muro che circonda il villaggio?
+
+[[src_prmo_2019__Q25]]

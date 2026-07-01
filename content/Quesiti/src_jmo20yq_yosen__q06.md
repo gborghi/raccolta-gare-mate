@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo20yq_yosen__Q06
 parent: src_jmo20yq_yosen
 competition: Japan Mathematical Olympiad 2010 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count bridge configurations among 9 color-island birds satisfying two graph conditions*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 54
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Configurazioni di ponte di conteggio tra 9 uccelli colorati insulari che soddisfano due condizioni del grafico*
+
+> Ci sono $3$ uccelli rossi, $3$ uccelli blu e $3$ uccelli gialli, ciascuno sulla propria isola (il che dà $9$ isole in totale). I ponti tra le isole devono essere costruiti soddisfacendo le seguenti due condizioni: tra le due isole c'è al massimo un ponte; per ogni ponte, i due uccelli nei suoi punti di fine sono di colori diversi. Per due uccelli dello stesso colore, le loro isole non sono collegate da alcun percorso di ponti (cioè, sono in componenti collegati diversi). (La configurazione senza ponti conta come $1$.)
+
+**Risposta:** 54
+[[src_jmo20yq_yosen__Q06]]

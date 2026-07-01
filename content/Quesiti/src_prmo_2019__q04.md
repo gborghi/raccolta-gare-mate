@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q04
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ant walking pattern total distance*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 40
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Mostrato di camminata di formiche Distanza totale < MSK1/>
+
+> Una formica lascia la formica per l'esercizio mattutino. Cammina a 4 piedi ad est e poi fa una curva a destra e cammina altri 4 piedi. Poi fa un'altra volta a destra e cammina altri 4 piedi. Se la formica continua questo modello fino a raggiungere di nuovo la formica, quale distanza in piedi avrebbe camminato?
+
+**Risposta:** 40
+[[src_prmo_2019__Q04]]

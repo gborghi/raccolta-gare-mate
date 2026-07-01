@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior (20 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior__Q23
 parent: src_kangourou_2003_junior
 competition: Kangourou 2003 Junior (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti ragazzi dicono la verita*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many kids are telling the truth?
+
+> There are four boys whose last names are White, Black, Red and Green. White says, "Red, Black and Green are girls". Red says, "White, Black and Green are boys". Black says, "White and Red are lying". Green says, "White, Red and Black are telling the truth". How many kids have told the truth? A) 0 B) 1 C) 2 D) 3 E) It cannot be determined.
+
+**Answer:** B
+[[src_kangourou_2003_junior__Q23]]

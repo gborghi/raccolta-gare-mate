@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2023 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2023__Q01
 parent: src_inmo_2023
 competition: Indian National Mathematical Olympiad 2023
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Finite set with 2023 square-product pairs; find 4 elements with no square pairwise product*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kW6GgduaArtuZwxLT_Wd61CJZas0evUz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Set finito con 2023 coppie di prodotti quadrati; trovare 4 elementi senza prodotto in coppie quadrate*
+
+> Che $S$ sia un insieme finito di interi positivi. Supponiamo che ci siano precisamente 2023 coppie ordinate $(x, y)$ in $S \times S$ in modo che il prodotto $xy$ sia un quadrato perfetto. Prova che si possono trovare almeno quattro elementi distinti in $S$ in modo che nessuno dei loro prodotti in coppia sia un quadrato perfetto.
+> 
+> *Nota:* Ad esempio, se $S = \{1, 2, 4\}$, ci sono esattamente cinque coppie ordinate: $(1,1)$, $(1,4)$, $(2,2)$, $(4,1)$ e $(4,4)$.
+
+[[src_inmo_2023__Q01]]

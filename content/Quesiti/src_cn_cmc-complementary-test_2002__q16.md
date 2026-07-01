@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2002 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2002__Q16
 parent: src_cn_cmc-complementary-test_2002
 competition: China Mathematical Competition (Complementary Test) 2002
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find maximum m for quadratic satisfying symmetry, growth, and shift conditions*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 9
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il massimo di m per le condizioni di simmetria quadratica soddisfacente, di crescita e di spostamento*
+
+> Supponiamo che una funzione quadrata $f(x) = ax^2 + bx + c$ con $a \ne 0$ soddisfi le seguenti condizioni:
+> 
+> (1) Quando $x \in \mathbf{R}$, $f(x - 1) = f(2 - x)$ e $f(x) \ge x$.
+> 
+> (2) Quando < MSK0/>, < MSK1/>.
+> 
+> Trovare il valore massimo di $m$ in modo tale che esista $t \in \mathbf{R}$ per il quale $f(x + t) \le x$ è valido per tutti $x \in [1, m]$.
+
+**Risposta:** 9
+[[src_cn_cmc-complementary-test_2002__Q16]]

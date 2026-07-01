@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2019-20 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2019-20_round1__Q01
 parent: src_bmo_2019-20_round1
 competition: British Mathematical Olympiad 2019-20 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find primes p<200 where p,p+2,p+6,p+8,p+12 all prime; unique prime q for q+2,q+6,q+8,q+12,q+14 all prime*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u2d4h2dij0jIfHibq6j32Thoq7bEbs12/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova i primi p<200 dove p,p+2,p+6,p+8,p+12 sono tutti primi; primo q unico per q+2,q+6,q+8,q+12,q+14 tutti primi*
+
+> Indicare che ci sono almeno tre numeri primi $p$ inferiori a 200 per i quali $p+2$, $p+6$, $p+8$ e $p+12$ sono tutti primi. Indicare inoltre che esiste un solo numero primo $q$ per il quale $q+2$, $q+6$, $q+8$, $q+12$ e $q+14$ sono tutti numeri primi.
+
+[[src_bmo_2019-20_round1__Q01]]

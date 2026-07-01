@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2006 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2006__Q03
 parent: src_cn_cmo_2006
 competition: China Mathematical Olympiad 2006
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove one of two Diophantine equations has an odd solution*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Prove che una delle due equazioni diofantine ha una soluzione strana
+
+> Supponiamo che gli integri positivi $m$, $n$, $k$ soddisfino $mn = k^2 + k + 3$. Prova che almeno una delle seguenti equazioni diofantine $$x^2 + 11y^2 = 4m \quad \text{and} \quad x^2 + 11y^2 = 4n$$ ha una soluzione $(x_0, y_0)$ con $x_0$, $y_0$ essendo numeri odd.
+
+[[src_cn_cmo_2006__Q03]]

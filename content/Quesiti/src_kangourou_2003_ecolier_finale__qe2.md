@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier finale nazionale — Quesito E2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier_finale__QE2
 parent: src_kangourou_2003_ecolier_finale
 competition: Kangourou 2003 Ecolier finale nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero penne in classe con vincoli*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 51 penne
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K82beAyOpLONvc5G6hM8HqH2YHqU6t2R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of pens in class with constraints*
+
+> A class is made up of 23 children. Some of them have only one pen, others two pens and the remaining three pens. The children who have one pen are as many as those who have three. Finally, the teacher has five pens. How many pens are in that class?
+
+**Answer:** 51 penne
+[[src_kangourou_2003_ecolier_finale__QE2]]

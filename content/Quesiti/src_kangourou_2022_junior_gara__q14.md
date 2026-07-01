@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q14
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Oggetti rimasti dopo eliminazioni successive su 2022*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Objects remaining after subsequent disposal in 2022*
+
+> 2022 objects were aligned along a line. It started with eliminating every sixth object (thus the sixth, the twelfth and so on), then eliminated every fifth object of the remaining ones and finally eliminated every fourth object of the remaining ones. How many items are left at the end? A) 0
+>   
+> B) 337 C) 674 D) 1011 E) 1348
+
+**Answer:** D
+[[src_kangourou_2022_junior_gara__Q14]]

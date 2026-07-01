@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Biennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_biennio__Q16
 parent: src_archimede_1996_biennio
 competition: Giochi di Archimede 1996 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto fra aree di triangoli equilateri inscritti*
 
@@ -58,7 +61,7 @@ tags:
 > - **(B)** 2
 > - **(C)** 5 2
 > - **(D)** 3
-> - **(E)** 3 √ 2. A E B C F D
+> - **(E)** 3 √ 2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -67,3 +70,39 @@ tags:
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ARzIV3wHmzpV455NSIYGulflPgheKY6p/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio between areas of equilateral triangles inscribed*
+
+![[src_archimede_1996_biennio__prob16.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=2]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (2,0);
+  \coordinate (C) at (1,1.732);
+  \coordinate (E) at (1,0);
+  \coordinate (D) at (0.5,0.866);
+  \coordinate (F) at (1.5,0.866);
+  \draw[thick] (A)--(B)--(C)--cycle;
+  \draw[thick] (D)--(E)--(F)--cycle;
+  \foreach \p/\n in {A/below left,B/below right,C/above,D/left,E/below,F/right}
+    \node[\n] at (\p) {$\p$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Either ABC is an equilateral triangle and DEF is another equilateral triangle inscribed with AB perpendicular to ED. The ratio between the ABC and DEF areas is
+>
+> - **(A)** √ 3
+> - **(B)** 2
+> - **(C)** 5 2
+> - **(D)** 3
+> - **(E)** 3 √ 2.
+
+**Answer:** D
+[[src_archimede_1996_biennio__Q16]]

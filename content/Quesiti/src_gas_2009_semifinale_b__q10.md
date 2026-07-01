@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Semifinale B — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_semifinale_b__Q10
 parent: src_gas_2009_semifinale_b
 competition: Gara a Squadre 2009 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo soldati totali con 5a^4=6b^3*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0900
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UEq1xOOdJZuXRPhn0sIhjL2oJiVjPFL1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum total number of soldiers with 5a^4=6b^3
+
+> In the midst of the clash between the forces of the Dark Lord and the free peoples of One Middle Earth, Gaussdalf realizes that, given to the units of Tauron's army and b the units that constitute that of the free peoples, the ratio 5a4 = 6b3 is true. What is the minimum total number of soldiers on the battlefield considering both armies and assuming that at least someone was actually there?
+
+**Answer:** 0900
+[[src_gas_2009_semifinale_b__Q10]]

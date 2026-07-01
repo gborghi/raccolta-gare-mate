@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1 —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_nu_f1__Q01
 parent: src_obm_2012_nu_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível Universitário — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max of |sin²x · sin 2x| and product inequality*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VJG3lcmttXkoTtSX_ZbVy5feO9Uy-VFe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Max di sin 2x e disuguaglianza di prodotto *
+
+> **a) ** Determinare il valore massimo possibile di $|\sin^2(x) \cdot \sin(2x)|$ per $x \in \mathbb{R}$.
+> 
+> **b) ** Dimostra che per ogni intero positivo $k$, se $x = \dfrac{2\pi r}{2^k - 1}$ con $r \in \mathbb{Z}$, allora $$\prod_{j=0}^{k-1} |\sin(2^j x)| = |\sin(x) \cdot \sin(2x) \cdots \sin(2^{k-1} x)| \le \left(\frac{\sqrt{3}}{2}\right)^k.$$
+
+[[src_obm_2012_nu_f1__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Kangourou Finale 1 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_kangourou_squadre__Q07
 parent: src_kangourou_2022_kangourou_squadre
 competition: Kangourou Squadre 2022 Kangourou Finale 1
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spigoli tronco piramide con 2022 facce*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 6060
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kPr4pxe9JLW6PscULmAS1patprSg1xRs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Pyramidal trunk mirrors with 2022 faces
+
+![[src_kangourou_2022_kangourou_squadre__prob7.png]]
+
+> In the figure, you see a pyramidal trunk that has six faces and 12 spines. Imagine a pyramidal trunk with 2022 faces: how many beads does it have?
+
+**Answer:** 6060
+[[src_kangourou_2022_kangourou_squadre__Q07]]

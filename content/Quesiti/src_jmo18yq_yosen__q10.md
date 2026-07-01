@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2008 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo18yq_yosen__Q10
 parent: src_jmo18yq_yosen
 competition: Japan Mathematical Olympiad 2008 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count seat configurations enabling a complete circular gift swap*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Configurazioni del sedile da contare che consentono uno scambio completo di regali circolari*
+
+> I ragazzi e le ragazze si riuniscono per fare uno scambio presente. Ogni ragazzo prepara un bouquet e ogni ragazza prepara un cioccolato come regalo, e tutti si siedono su sedie disposte in cerchio, tutte rivolte verso l'interno. Ripetono poi l'azione "ogni persona trasmette contemporaneamente il regalo che tiene alla persona di sua destra immediata" un certo numero di volte, dopo di che succede che ogni ragazzo tiene un cioccolato e ogni ragazza tiene un bouquet. Quante configurazioni sono possibili per l'insieme delle sedie occupate dai ragazzi?
+
+[[src_jmo18yq_yosen__Q10]]

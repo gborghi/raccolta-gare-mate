@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2023 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2023_automne__Q02
 parent: src_canimath_2023_automne
 competition: Coupe Animath Automne 2023
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Unit square ABCD with E on diagonal AC and AE=1; find angle BEC in degrees*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Unità quadrata ABCD con E su diagonale AC e AE=1; trovare angolo BEC in gradi*
+
+> $ABCD$ sia un quadrato con lato $1$. Il punto $E$ deve essere il punto del segmento $[AC]$ in modo tale che $AE = 1$. Calcolare in gradi il valore dell'angolo $\widehat{BEC}$.
+
+**Risposta:** 112.5
+[[src_canimath_2023_automne__Q02]]

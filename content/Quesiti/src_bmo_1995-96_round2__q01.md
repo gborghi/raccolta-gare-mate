@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1995-96 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1995-96_round2__Q01
 parent: src_bmo_1995-96_round2
 competition: British Mathematical Olympiad 1995-96 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all non-negative integer solutions to 2^x + 3^y = z^2*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15bAn8-PNIuHV2R8H9ICgpwakwcaODD42/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le soluzioni integrali non negative a 2^x + 3^y = z^2*
+
+> Determinare tutti gli insiemi di integri non negativi $x$, $y$ e $z$ che soddisfano l'equazione $$2^x + 3^y = z^2.$$
+
+[[src_bmo_1995-96_round2__Q01]]

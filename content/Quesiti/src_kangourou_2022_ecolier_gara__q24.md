@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier gara individuale — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q24
 parent: src_kangourou_2022_ecolier_gara
 competition: Kangourou 2022 Ecolier gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nella cella nera della griglia colorata*
 
@@ -86,3 +89,28 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the black cell of the coloured grid*
+
+![[src_kangourou_2022_ecolier_gara__prob24.png]]
+
+> The cells of the square grid on the right are of three different colors. Each cell contains an invisible number, equal numbers in cells of the same color. To the right of each row is the sum of the numbers contained in the cells of that row. What number is in the black cell? A) 6
+>   
+> B) 8
+>   
+> C) 10
+>  
+> D) 12 E) 14
+>   
+> 0 1 1 1 2 1 3 1 4 1 5 1 6 1 7 1 8 1 9 2 0 2 1 2 2 2 3 2 4
+>  
+> B) D)
+>   
+> E)
+
+**Answer:** D
+[[src_kangourou_2022_ecolier_gara__Q24]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f3__Q03
 parent: src_obm_2012_n3_f3
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n such that last 2012 decimal digits of n^n equal 1*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xOmjErIaJD1wka1Q0x381C94oUdLaUdD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nello più piccolo di tale entità che le ultime cifre decimali di n^n del 2012 siano uguali a 1*
+
+> Qual è il numero naturale $n$ più piccolo per il quale esiste un numero naturale $k$ tale che gli ultimi numeri $2012$ di $n^k$ nella rappresentazione decimale siano tutti uguali a $1$?
+
+[[src_obm_2012_n3_f3__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 2017 papers — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2017__Q02
 parent: src_imo_2017
 competition: IMO 2017 papers
@@ -26,6 +27,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Equazione funzionale f(f(x)f(y))+f(x+y)=f(xy)*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f-FfFFSte2Xcf0IS6inIxe8_MiXPlKgB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Functional equation f(f(x) f(y))+f(x+y)=f(xy) *
+
+> Whether $\mathbb{R}$ is the set of real numbers. Determine all functions $f : \mathbb{R} \to \mathbb{R}$ such that, for all real numbers $x$ and $y$, $$f(f(x)f(y)) + f(x + y) = f(xy).$$
+
+[[src_imo_2017__Q02]]

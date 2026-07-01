@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q23
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *A quale tacca corrisponde 1/4 (tra 1/5 e 1/3)*
 
@@ -61,3 +64,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which height corresponds to 1/4 (between 1/5 and 1/3) *
+
+![[src_kangourou_2009_cadet_marzo__prob23.png]]
+
+> Figure 1 shows the number straight segment between fractions 1/5 and 1/3, divided by tiles into segments of equal length. Then 1/4 corresponds to the height indicated by A) to B) to C) to C) to D) to D) to E) and X P 1 5 1 3 to b c d and Testi_09.qxp 15-04-2009 20:26 Page 19
+> 
+> I'm going to pay. I'm going to pay. 20 20 Kang 2009 Kang
+
+**Answer:** A
+[[src_kangourou_2009_cadet_marzo__Q23]]

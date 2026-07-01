@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2010 - Gara a squadre — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2010_squadre__Q21
 parent: src_gs_2010_squadre
 competition: Coppa Fermat 2010 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio suriezioni soldati su tre lettere*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 540
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting soldier surreations on three letters*
+
+> **Drops ** (points 60)
+> 
+> To track down the Blues Brothers, the Illinois Nazi commander wants to form three drapes from a group of nine volunteers. Knowing their innate incapacity, the commander appoints three captains of drapel from among the nine volunteers: Al, Bruno and Cal. In addition, he wants at least one other component in each drapery, in addition to the captain. How many different drapes can the commander form?
+
+**Answer:** 540
+[[src_gs_2010_squadre__Q21]]

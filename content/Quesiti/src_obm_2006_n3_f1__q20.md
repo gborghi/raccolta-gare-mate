@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q20
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Altino (1.5 m tall) against a wall at night, lamp atop 4 m post 10 m from wall; choose graph of wall shadow height f(x) versus distance x.*
 
@@ -53,3 +56,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Altino (1,5 m di altezza) contro una parete di notte, lampada sopra 4 m postata a 10 m dalla parete; scegliere il grafico dell'altezza dell'ombra della parete f(x) contro la distanza x.*
+
+> Altino si appoggia a un alto muro, durante la notte. La strada in cui si trova Altino è illuminata da una lampada sopra un palo alto 4 metri, situato a 10 metri dal muro. Altino, alto un metro e mezzo, è in direzione del muro. L'altezza di $f(x)$ deve essere l'altezza, in metri, dell'ombra di Altino prodotta dalla lampada sul muro quando Altino è a una distanza di $x$ metri dal muro. Quale alternativa rappresenta meglio il grafico di $f(x)$?
+> 
+> (A), (B), (C), (D), (E)  vedere figura.
+
+![[src_obm_2006_n3_f1__Q20.png]]
+
+[[src_obm_2006_n3_f1__Q20]]

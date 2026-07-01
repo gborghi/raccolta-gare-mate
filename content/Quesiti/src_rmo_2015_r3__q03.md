@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r3__Q03
 parent: src_rmo_2015_r3
 competition: Regional Mathematical Olympiad 2015
@@ -34,6 +35,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Infinitely many integer triples satisfying $x^2+y^2=z^{2^l}$ for all $l$*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HpOXyY027T7yrJIPYwmXafLpB_7tE0uA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Infinitamente molti tripli interi che soddisfano $x^2+y^2=z^{2^l}$ per tutti $l$*
+
+> Mostrare che ci sono infinitamente molti triples $(x, y, z)$ di numeri interi come $x^2 + y^2 = z^{2^l}$ per tutti $l$.
+
+[[src_rmo_2015_r3__Q03]]

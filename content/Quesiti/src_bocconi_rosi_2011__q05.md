@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q05
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Patate dei viaggiatori distribuite in terzi*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 27
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Potatoes of travellers distributed to third parties*
+
+> Three endless travelers finally arrive at a restaurant and ask for a plate of potatoes. When the host brings them, the first finds them already asleep. Then leave the plate on the table. One in three travelers wakes up and eats a third of the potatoes; then he falls asleep again. At this point a second traveler wakes up, eats a third of the potatoes left in the plate, and then he falls asleep again. Shortly afterward the third traveler wakes up, unaware that his adventure companions have already served themselves, and he also eats a third of the potatoes left in the dish. When the host comes to pick up the dish, he finds it still contains eight potatoes. How many potatoes did you bring first?
+
+**Answer:** 27
+[[src_bocconi_rosi_2011__Q05]]

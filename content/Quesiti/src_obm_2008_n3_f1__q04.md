@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q04
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Company employees: how many speak both Portuguese and English*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I dipendenti dell'azienda: quanti parlano sia portoghese che inglese*
+
+> Una grande impresa ha dipendenti $84$ e si sa che ognuno di loro parla almeno una delle lingue portoghesi o inglese. Inoltre, $20\%$ di chi parla portoghese parla anche inglese, e $80\%$ di chi parla inglese parla anche portoghese. Quanti dei dipendenti parlano le due lingue?
+> 
+> (A) $12$ (B) $14$ (C) $15$ (D) $16$ (E) $18$
+
+**Risposta:** A
+[[src_obm_2008_n3_f1__Q04]]

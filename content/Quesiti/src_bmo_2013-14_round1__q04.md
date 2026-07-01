@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2013-14 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2013-14_round1__Q04
 parent: src_bmo_2013-14_round1
 competition: British Mathematical Olympiad 2013-14 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 5-day holiday plans with activity constraints*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgsYrm3l_qNtt2ZM0eyq3HtunDHw6TCQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i piani di vacanza di 5 giorni con limitazioni di attività*
+
+> Isaac sta pianificando una vacanza di cinque giorni. In ciascuno dei cinque giorni ha intenzione di fare solo una delle seguenti cose: andare a fare surf, andare a vela o andare in bicicletta. Vuole andare a fare surf almeno un giorno. Vuole andare a vela almeno un giorno. Inoltre, non vuole andare in bicicletta per due giorni consecutivi. In quanti modi può pianificare le sue vacanze?
+
+[[src_bmo_2013-14_round1__Q04]]

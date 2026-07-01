@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2021_squadre__Q02
 parent: src_gsm_2021_squadre
 competition: Gara a Squadre GSM (locale Genova) 2021
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato obliquo di trapezio rettangolo da somme di quadrati*
 
@@ -57,3 +60,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 5100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Oblique side of rectangular trapezoid by sums of squares< MSK1/>
+
+> This is Sandro Campigotto's house. House Scabarrozzi, known to us Turinese as Fetta di polenta. Its peculiarity and the origin of its nickname lie in its ochre yellow color, but above all in the singular trapezoidal plant and the very thin thickness of the building which make it similar to a slice of polenta. Richard Let's say its plant is an ABCD rectangular trapezoid with base AB major. Consider the point E on the AD height such that the angle \ CEB is straight. Knowing that the sum of the squares of the lengths of the segments AE and CD is 11,22 m2 and the sum of the squares of the lengths of the segments ED and AB is 14,79 m2, how many millimetres measure the oblique side BC? Alberto But how do you know those measurements of Polenta Fetta!
+
+**Answer:** 5100
+[[src_gsm_2021_squadre__Q02]]

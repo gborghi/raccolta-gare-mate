@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f2__Q07
 parent: src_obm_2016_n3_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count brown cells in 7x7 coloring with row-red and column-blue majority constraints*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Conta le celle marroni in colorazione 7x7 con restrizioni di maggioranza a fila rossa e a colonna blu< MSK1/>
+
+> Janaína vuole dipingere le cellule di un pannello $7 \times 7$ in rosso, blu o marrone nel modo seguente: in ogni riga, il numero di cellule rosse non può essere inferiore al numero di cellule di ciascuno degli altri colori; in ogni colonna, il numero di cellule blu non può essere inferiore al numero di cellule di ciascuno degli altri colori. Quante cellule saranno dipinte di marrone?
+
+[[src_obm_2016_n3_f2__Q07]]

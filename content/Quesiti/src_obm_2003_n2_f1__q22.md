@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f1__Q22
 parent: src_obm_2003_n2_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Partition {2,3,5,7,11,13,17} so products differ by 1; digit sum of larger*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Partzione {2,3,5,7,11,13,17} in modo che i prodotti differiscano di 1; somma di cifre di più grande*
+
+> Dividere i numeri $2, 3, 5, 7, 11, 13$ e $17$ in due gruppi non vuoti in modo tale che il prodotto $A$ di un gruppo e il prodotto $B$ dell'altro soddisfino $A - B = 1$. Qual è la somma delle cifre di $A$?
+> 
+> (A) 10 \quad (B) 11 \quad (C) 13 \quad (D) 14 \quad (E) 15
+
+**Risposta:** C
+[[src_obm_2003_n2_f1__Q22]]

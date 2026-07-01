@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q20
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two externally tangent circles (radii 3 and 4) with common external tangents at P,Q and R,S and internal tangent meeting them at M,N; ratio of areas of quadrilaterals MNPQ and MNRS.*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi tangenti esternamente (radii 3 e 4) con tangenti esterni comuni a P,Q e R,S e tangente interna che li incontrano a M,N; rapporto tra le aree dei quadrilaterali MNPQ e MNRS.*
+
+> I cerchi $C_1$ e $C_2$, rispettivamente di raggio $3$ e $4$, sono tangenti esternamente a $T$. Le tangenti esterne comuni toccano $C_1$ a $P$ e $Q$ e $C_2$ a $R$ e $S$. La tangente interna comune a $T$ taglia le tangenti esterne ai punti $M$ e $N$, come mostra la figura. Il rapporto tra le superfici dei quadrilaterali $MNPQ$ e $MNRS$ è (A) $\frac{1}{7}$ (B) $\frac{9}{16}$ (C) $\frac{3}{4}$ (D) $\frac{\sqrt{3}}{2}$ (E) $\frac{13}{15}$
+
+![[src_obm_2009_n3_f1__Q20.png]]
+
+[[src_obm_2009_n3_f1__Q20]]

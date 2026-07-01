@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2004 — Matematica — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2004__Q06
 parent: src_cgen_2004
 competition: Concours Général des Lycées 2004 — Matematica
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Return to the initial problem: product of sums of two squares, induction that every prime dividing n^2+1 is a sum of two squares, infinitude, and rationality of L(n,k)*
 
@@ -68,3 +71,21 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ritorno al problema iniziale: prodotto delle somme di due quadrati, induzione che ogni divisore primo n^2+1 è la somma di due quadrati, infinità, e razionalità di L(n,k) *
+
+> Torniamo al problema iniziale.
+> 
+> 1. $n$ e $m$ siano due numeri interi naturali somma di due quadrati, $n = a^2 + b^2$, $m = c^2 + d^2$. Introducendo i numeri complessi $a + ib$ e $c + id$ e considerando $n = |a + ib|^2$ e $m = |c + id|^2$, dimostrare che il prodotto $mn$ è una somma di due quadrati e proporne esplicitamente una decomposizione come funzione di $a$, $b$, $c$ e $d$.
+> 
+> 2. Proponiamo di dimostrare, per ogni intero $n$ strettamente positivo, la seguente proposizione $\mathcal{P}(n)$: $\mathcal{P}(n)$: "ogni numero primo che divide $n^2 + 1$ è la somma di due quadrati". Per questo, si procede con ricorrenza su $n$. a. Indicare che $\mathcal{P}(1)$, $\mathcal{P}(2)$ e $\mathcal{P}(3)$ sono veri. b. Il $n$ deve essere un numero intero strettamente superiore a $1$. Si suppone che la proposizione $\mathcal{P}(j)$ sia vera per ogni numero intero $j$ in modo tale che $1 \le j \le n-1$ e si considera un numero primo $p$ che divide $n^2 + 1$. i. Indicare che < MSK15/> è diverso da < MSK16/>. ii. Supponiamo < MSK17/>. Indicare che $p$ divide $(n-p)^2 + 1$. iii. Supponiamo < MSK20/> e < MSK21/>. Indicare che gli altri primi divisori di $n^2 + 1$ sono strettamente inferiori a $n$. Riduzione, discutendo secondo la parità di $n$, che $p$ è congruente a $1$ modulo $4$. iv. Mostra che $p$ è la somma di due quadrati. c. Conclusione.
+> 
+> 3. a. Per $s$ un numero intero maggiore o uguale a $2$, si indica $p_s$ il più piccolo divisore primo del numero $(s!)^2 + 1$. Mostrare che $p_s > s$ e $p_s$ sono la somma di due quadrati. b. Deduci che esiste un infinito di numeri primi somma di due quadrati.
+> 
+> 4. a. Mostrare che esiste un'infinità di coppie di integri $(n,k)$ con $1 \le k < n$ tale che $L(n,k)$ sia razionale. b. Determinare un numero intero $n$ in modo tale che esistano diversi valori di $k$ per i quali $L(n,k)$ è razionale.
+
+[[src_cgen_2004__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2007 - Gara Biennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_biennio__Q03
 parent: src_archimede_2007_biennio
 competition: Giochi di Archimede 2007 - Gara Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti supplementi venduti da incasso totale*
 
@@ -46,3 +49,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many supplements were sold by total collection< MSK1/>
+
+> 3) A newspaper costs EUR 0.90; the buyer is offered an optional supplement of EUR 1.50 At the end of the day, 333 copies of the paper were sold and the total revenue from the sale of the paper and its supplements was EUR 539.70. How many supplements have been purchased?
+>
+> - **(A)** Less than 66,
+> - **(B)** more than 67 and less than 132,
+> - **(C)** more than 133 and less than 200,
+> - **(D)** more than 201 and less than 266,
+> - **(E)** more than 266.
+
+**Answer:** C
+[[src_archimede_2007_biennio__Q03]]

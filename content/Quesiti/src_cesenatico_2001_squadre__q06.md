@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2001_squadre__Q06
 parent: src_cesenatico_2001_squadre
 competition: Gara Nazionale a Squadre Cesenatico 2001
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *risposta esatta al cruciverba numerico*
 
@@ -62,3 +65,42 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>exact answer to the numeric crossword< MSK1/>
+
+![[src_cesenatico_2001_squadre__prob6.png]]
+
+> Other readings MSK1/ (65 points)
+> 
+> One of the most controversial measures of the Senate this month is a law banning the publication of crosswords. Some student associations have launched the monthly "Contestation" cross-number to protest.
+> 
+> (see figure)
+> 
+> The value of the underlying assets shall be the sum of all the assets of the institution.
+> 
+> (1) The exact answer to this game.
+> 
+> (2) It is a prime number, equal to the product of more consecutive prime numbers minus 1 (e.g. < MSK0/>, even if this is not a prime number).
+> 
+> (3) Product of three consecutive numbers (e.g. < MSK0/>).
+> 
+> (4) It is a prime number.
+> 
+> The manufacturer shall provide the manufacturer with the following information:
+> 
+> (1) Sum of two cubes (of natural numbers, of course).
+> 
+> (2) 4-digit palindrome number power of a prime (a palindrome number is a number that does not change if read from right to left).
+> 
+> (3) It is a prime number.
+> 
+> (4) 3 vertically to the square.
+> 
+> (NB: The answer to any of the definitions can also be a number less than 1000. If one of the answers should be, for example, 13, enter 0013 in the table)
+
+**Answer:** 7100
+[[src_cesenatico_2001_squadre__Q06]]

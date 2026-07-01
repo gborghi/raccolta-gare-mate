@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo23yqa_yosen__Q08
 parent: src_jjmo23yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary)
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n so that average of any n-3 cards is integer given average of any n-4 is integer*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 36
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più piccolo n in modo che la media di tutte le carte n-3 sia un intero dato la media di qualsiasi n-4 è un intero*
+
+> Se $n$ è un numero intero maggiore di $1$. Un numero intero è scritto su ciascuna delle carte $n$. Supponiamo che si verifichi la seguente condizione: indipendentemente dalle carte $n - 4$ scelte (dalle carte $n$), la media dei numeri interi su tali carte è un numero intero. Trova il valore più piccolo di $n$ per il quale è necessariamente vero anche che: non importa quali schede $n - 3$ siano scelte, la media dei numeri interi su tali schede è anche un intero.
+
+**Risposta:** 36
+[[src_jjmo23yqa_yosen__Q08]]

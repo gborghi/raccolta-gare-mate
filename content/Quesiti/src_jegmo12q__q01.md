@@ -1,6 +1,7 @@
 ---
 title: Japan EGMO Selection / Girls MO 2023 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jegmo12q__Q01
 parent: src_jegmo12q
 competition: Japan EGMO Selection / Girls MO 2023
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all prime pairs (p,q) with p≤q making a fraction an integer*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e28_MsSTS9vi8erfj7ZsfuDBusJwGwNV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie prime (p,q) con p≤q che rende una frazione un numero intero*
+
+> Trova tutte le coppie $(p, q)$ di numeri primi con $p \le q$ in modo tale che $$\frac{p^2 - 3q + q^2}{p + q}$$ sia un numero intero.
+
+[[src_jegmo12q__Q01]]

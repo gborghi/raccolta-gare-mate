@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q27
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante collane rubate (diamanti tra 200 e 300)*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many necklaces were stolen (diamonds between 200 and 300) < MSK1/>
+
+> Some diamond necklaces were stolen from a safe, all with the same number of diamonds (at least 2 per necklace). All of the diamonds that made up them are found: their total number is between 200 and 300. The investigator who investigates the theft, simply by counting the diamonds found, can trace the number of necklaces stolen with certainty. How many necklaces were stolen from the safe? A) 16 B) 17 C) 19 D) 25 E) a number different from the previous one
+
+**Answer:** B
+[[src_kangourou_2007_junior_marzo__Q27]]

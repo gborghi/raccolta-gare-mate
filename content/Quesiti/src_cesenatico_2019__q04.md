@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2019__Q04
 parent: src_cesenatico_2019
 competition: Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Se floor(lambda^n+1)..floor(lambda^4n) quadrati allora floor(lambda) quadrato*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tALD9ox6PV_bcTM7kKmhdk2njm2QACPl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+If the floor is square then the floor is square
+
+> Let's denote with bxc the largest integer  of x. If λ < MSK0/>1 is a real number, and n is a positive integer, such as bλn+1c, bλn+2c, . . . , b4nc are all perfect squares. Prove that bλc is a perfect square.
+
+[[src_cesenatico_2019__Q04]]

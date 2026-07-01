@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2010 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo20mq_honsen__Q02
 parent: src_jmo20mq_honsen
 competition: Japan Mathematical Olympiad 2010 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of n with n^n - m divisible by 2^k*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5fGMf22vQ1jtaAwviwMBT_2MQ0Xy9uz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di n con n^n - m divisibile per 2^k*
+
+> Che $k$ sia un numero intero positivo e che $m$ sia un numero impar. Prova che esiste un intero positivo $n$ tale che $n^n - m$ sia divisibile da $2^k$.
+
+[[src_jmo20mq_honsen__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q02
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which of the given products is odd?*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Quale dei prodotti indicati è strano? < MSK1/>
+
+> Quale dei seguenti prodotti è strano?
+> 
+> (A) $7 \times 8$ \quad (B) $37 - 23$ \quad (C) $9 \times 36$ \quad (D) $144 : 36$ \quad (E) $17 \times 61$
+
+**Risposta:** E
+[[src_obm_2004_n1_f1__Q02]]

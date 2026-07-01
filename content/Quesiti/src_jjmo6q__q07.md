@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2008 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo6q__Q07
 parent: src_jjmo6q
 competition: Japan Junior Mathematical Olympiad 2008
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count triples (a,b,c) of positive integers with lcm 720, all different*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare triples (a,b,c) di numeri interi positivi con lcm 720, tutti diversi*
+
+> Quanti triples ordinati di integri positivi $(a, b, c)$ esistono in modo tale che il più piccolo multiplo comune di $a$, $b$ e $c$ sia $720$, e i tre numeri $a$, $b$, $c$ siano parimenti distinti (nessuno di due è uguale)? (I triples che differiscono solo nell'ordine sono contati separatamente.)
+
+[[src_jjmo6q__Q07]]

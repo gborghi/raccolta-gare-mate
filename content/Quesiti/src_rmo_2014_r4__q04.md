@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Region 4 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_r4__Q04
 parent: src_rmo_2014_r4
 competition: Regional Mathematical Olympiad 2014
@@ -35,6 +36,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum area of right-angled triangle with inradius 1*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_5EQ0vtFoy1yZU5H1bqM3-h79HcTmDgT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area minima di un triangolo rettangolare con raggio di inraggio 1*
+
+> Qual è la superficie minima di un triangolo rettangolo il cui raggio di inraggio è $1$ unità?
+
+![[src_rmo_2014_r4__Q04.png]]
+
+[[src_rmo_2014_r4__Q04]]

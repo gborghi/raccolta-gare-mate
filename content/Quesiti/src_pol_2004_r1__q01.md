@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r1__Q01
 parent: src_pol_2004_r1
 competition: Olimpiade Matematica Polacca 2004 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A light ray reflecting inside a rectilinear polygon, starting along an angle bisector, eventually reaches a vertex.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Un raggio di luce che si riflette all'interno di un poligono rettilineo, partendo lungo un bisettore angolare, raggiunge infine un vertice.
+
+> Si deve dare un poligono con lunghezze laterali razionali e tutti gli angoli uguali a $90^\circ$ o $270^\circ$. Un raggio di luce inizia ad uno dei vertici del poligono e va nella direzione del bisettore dell'angolo interno di quel vertice. Il raggio riflette secondo la legge del riflesso. Prove che il raggio finirà per entrare in qualche vertice del poligono.
+
+[[src_pol_2004_r1__Q01]]

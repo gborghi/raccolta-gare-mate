@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2007 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2007__Q04
 parent: src_cn_cgmo_2007
 competition: China Girls' Mathematical Olympiad 2007
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Set with m symmetry axes: prove m ≤ n*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Set con m assi di simmetria: prova m ≤ n*
+
+> L'insieme $S$ è costituito da punti $n > 2$ nel piano. L'insieme $P$ è costituito da linee $m$ nel piano in modo tale che ogni linea di $P$ sia un asse di simmetria di $S$. Prove che $m \le n$, e determina quando l'uguaglianza è valida.
+
+[[src_cn_cgmo_2007__Q04]]

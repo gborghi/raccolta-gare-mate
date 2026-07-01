@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Extra Test) 2004 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-extra-test_2004__Q02
 parent: src_cn_cmc-extra-test_2004
 competition: China Mathematical Competition (Extra Test) 2004
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequalities for x-intercepts and ratio sums of coordinate sequences*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove le disuguaglianze per le intersezioni x e le somme dei rapporti delle sequenze di coordinate*
+
+> In un sistema di coordinate rettangolare piano, una sequenza di punti $\{A_n\}$ sulla metà positiva dell'asse $y$ e una sequenza di punti $\{B_n\}$ sulla curva $y = \sqrt{2x}$ ($x \ge 0$) soddisfano la condizione $|OA_n| = |OB_n| = \dfrac{1}{n}$. L'intersezione $x$ del segmento di linea $A_nB_n$ è $a_n$, $n \in \mathbb{N}$. Prove questo .
+> 
+> (1) $a_n > a_{n+1} > 4$, $n \in \mathbb{N}$;
+> 
+> (2) C'è un $n_0 \in \mathbb{N}$ tale che per qualsiasi $n > n_0$, $$\frac{b_2}{b_1} + \frac{b_3}{b_2} + \cdots + \frac{b_{n+1}}{b_n} < n - 2\,004,$$ dove $b_n$ è la coordinata $y$ di $B_n$, cioè $B_n = (b_n,\, \sqrt{2b_n})$ con $b_n > 0$.
+
+[[src_cn_cmc-extra-test_2004__Q02]]

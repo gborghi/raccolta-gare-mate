@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo29yq_yosen__Q12
 parent: src_jmo29yq_yosen
 competition: Japan Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count maps F on subsets of {1..6} with F(F(A)∪B)=A∩F(B)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 499
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conte le mappe F su sottoinsiemi di {1..6} con F(F(A)∪B)=A∩F(B)*
+
+> Let < MSK1/>. Considera le regole $F$ che assegnano a ciascun sottoinsieme $X$ di $S$ un sottoinsieme $F(X)$ di $S$, in modo tale che per ogni coppia di sottoinsiemi $A, B$ di $S$, $$F\bigl(F(A) \cup B\bigr) = A \cap F(B)$$ sia valida. Quante norme di questo tipo esistono?
+
+**Risposta:** 499
+[[src_jmo29yq_yosen__Q12]]

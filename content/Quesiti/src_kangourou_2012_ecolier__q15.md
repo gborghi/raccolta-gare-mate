@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Ecolier (gara marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_ecolier__Q15
 parent: src_kangourou_2012_ecolier
 competition: Kangourou 2012 Ecolier (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Intervallo piu lungo con almeno una cifra 5*
 
@@ -54,3 +57,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Longest interval with at least a 5 digit < MSK1/>
+
+> You have a digital clock in front of you (i.e., a clock that shows the time by indicating the numbers: for example, it writes 12:15 to indicate noon and a quarter). How many minutes is the longest time interval during which at least one of the four digits is 5? A) 10 B) 30 C) 60 D) 70 E) 90 1 x 1 1 x 3 2 x 2 6 −3 6 −5 4 −1 1 + 3 8 −7 9 −7 2 −1
+
+**Answer:** D
+[[src_kangourou_2012_ecolier__Q15]]

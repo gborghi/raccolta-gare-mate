@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Junior — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q25
 parent: src_kangourou_2015_marzo_junior
 competition: Kangourou 2015 gara 19 marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *segmento piu corto*
 
@@ -82,3 +85,49 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1lv8vPzK3uXmG94tNsM2uWmmnksIo2fLI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>shorter segment < MSK1/>
+
+![[src_kangourou_2015_marzo_junior__prob25.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  % Rectangle ABCD: A=(0,0), B=(5,0), C=(5,2), D=(0,2) (indicative, not to scale)
+  % Diagonal DB from D=(0,2) to B=(5,0)
+  % E on top side DC, F on bottom side AB
+  % Segment AE from A=(0,0) to E on DC, Segment CF from C=(5,2) to F on AB
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (5,0);
+  \coordinate (C) at (5,2);
+  \coordinate (D) at (0,2);
+  \coordinate (E) at (1.8,2);
+  \coordinate (F) at (3.5,0);
+  \draw[thick] (A) -- (B) -- (C) -- (D) -- cycle;
+  \draw (D) -- (B);
+  \draw (A) -- (E);
+  \draw (C) -- (F);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above right] at (C) {$C$};
+  \node[above left] at (D) {$D$};
+  \node[above] at (E) {$E$};
+  \node[below] at (F) {$F$};
+  \node at (0.6,1.3) {$4\,\mathrm{cm}^2$};
+  \node at (4.2,0.8) {$5\,\mathrm{cm}^2$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The ABCD rectangle in the figure is divided into four triangles by the DB diagonal and the AE and CF segments. Its area is 24 cm2, while the areas of the AED and FBC triangles are 4 cm2 and 5 cm2 respectively. Which of the following segments is shorter? (Note: the figure is indicative only, it does not respect the numerical data). A) AE
+> 	
+> B) BF
+> 	
+> C) CF D) DE E) EF
+
+**Answer:** E
+[[src_kangourou_2015_marzo_junior__Q25]]

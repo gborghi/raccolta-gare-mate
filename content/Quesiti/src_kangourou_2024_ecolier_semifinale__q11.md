@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q11
 parent: src_kangourou_2024_ecolier_semifinale
 competition: Kangourou Semifinale individuale Ecolier 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Fra quanti anni la somma eta figli uguaglia eta padre*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0009
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+For how many years the sum of the children is equal to the father
+
+> Today, May 25, Samuel turns 31 and his three sons turn 2, 4, and 7. In how many years, on the date of their birthday, will the sum of the ages of Samuel's sons coincide with the age of their father? The answer is: 0009. The solution. For direct or graphic control or by observing that the double of the waiting years must fill the difference between 31 and 2 + 4 + 7 (Samuel's age increases with the age of each of his children).
+
+**Answer:** 0009
+[[src_kangourou_2024_ecolier_semifinale__Q11]]

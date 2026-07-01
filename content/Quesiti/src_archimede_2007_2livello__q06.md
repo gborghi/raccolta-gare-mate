@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_2livello__Q06
 parent: src_archimede_2007_2livello
 competition: Archimede Gara 2° livello 2007 (biennio/triennio)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numeri pari scegliendo 50 numeri con somma 3000*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimate even numbers by choosing 50 numbers with sum of 3000*
+
+> From the sum of {1, 2, . . . Let's choose 50 distinct numbers, the sum of which is 3000. At least, how many even numbers have we chosen?
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6.
+
+**Answer:** E
+[[src_archimede_2007_2livello__Q06]]

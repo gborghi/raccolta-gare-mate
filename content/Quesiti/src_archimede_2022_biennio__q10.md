@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2022 - Gara Biennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_biennio__Q10
 parent: src_archimede_2022_biennio
 competition: Giochi di Archimede 2022 - Gara Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Terne distinte a|b|c|12 catena di divisori*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Daq06A5cNKvPAO0E8Ym-xGnc7AcmRZ_w/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> Distinguished from the total number of dividers in the < MSK1/> chain
+
+> How many sets of natural numbers are distinct from each other (a, b, c) such that the number a is a divisor of b, the number b is a divisor of c and the number c is a divisor of 12?
+>
+> - **(A)** 6
+> - **(B)** 7
+> - **(C)** 8
+> - **(D)** 10
+> - **(E)** 9
+
+**Answer:** D
+[[src_archimede_2022_biennio__Q10]]

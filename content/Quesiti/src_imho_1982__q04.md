@@ -1,6 +1,7 @@
 ---
 title: IMO 1982 (XXIII International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1982__Q04
 parent: src_imho_1982
 competition: IMO 1982 (XXIII International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prove x^2 - 3xy + y^2 = n has no integer solutions when n = 2^(2891)*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kAbSo6ZV47DehFfZkKdWnvowfOBCsNjB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Prove x^2 - 3xy + y^2 = n has no integer solutions when n = 2^(2891) *
+
+> Prove that if $n$ is a positive integer such that the equation $$x^2 - 3xy + y^2 = n$$ has a solution in integers $(x, y)$, then it has at least three such solutions. Show that the equation has no solution in integers when $n = 2^{2891}$.
+
+[[src_imho_1982__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n1_f3__Q02
 parent: src_obm_2009_n1_f3
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *3×3 grid filled 1–9; colour by row max/min; optimize difference A−B*
 
@@ -52,3 +55,19 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KMKfVfUeCTJqmg46SZFVecEjZWEkdEQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*3×3 griglia riempita 19; colore per riga max/min; ottimizzare la differenza A−B*
+
+> Le celle di una griglia $3 \times 3$ sono numerate da $1$ a $9$, ogni numero utilizzato esattamente una volta. In ogni riga orizzontale, coloriamo il rosso la cella con il numero maggiore e il verde la cella con il numero più piccolo. Il numero $A$ deve essere il più piccolo dei numeri delle celle rosse e il numero $B$ il più grande dei numeri delle celle verdi.
+> 
+> a) Indicare un modo per riempire la griglia in modo che < MSK0/>.
+> 
+> b) Indicare un modo per riempire la griglia in modo che < MSK0/>.
+> 
+> c) È possibile ottenere < MSK0/> e < MSK1/>? Non dimenticate di giustificare la vostra risposta.
+
+[[src_obm_2009_n1_f3__Q02]]

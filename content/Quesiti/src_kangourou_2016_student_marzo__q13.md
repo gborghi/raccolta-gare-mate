@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q13
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di x4 nella torre di esponenti x_{n+1}=x_n^{x_n}*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of x4 in the tower of exponents x_{n+1}=x_n^{x_n}*
+
+> We build a sequence of numbers by putting x1 = 2 and xn+1 = xn for every n ≥ 1. How much is x4 worth? A) 2 B) 2
+> 	
+> C) 2 D) 2
+> 	
+> E) 2
+
+**Answer:** C
+[[src_kangourou_2016_student_marzo__Q13]]

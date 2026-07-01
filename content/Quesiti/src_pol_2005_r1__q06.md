@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2005 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2005_r1__Q06
 parent: src_pol_2005_r1
 competition: Olimpiade Matematica Polacca 2005 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Decide whether an infinite positive-integer sequence can satisfy a reciprocal recurrence.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n_CAwy5DZV2kMU-LN1A9YwxWtMmqyyrl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Decidere se una sequenza infinita di numeri interi positivi può soddisfare una ricorrenza reciproca.*
+
+> Determinare se esiste una sequenza infinita $a_0, a_1, a_2, \ldots$ di integri positivi che soddisfa $$\frac{1}{a_n} = \frac{1}{a_{n+1}} + \frac{1}{a_{n+2}}$$ per tutti $n \in \mathbb{N}$.
+
+[[src_pol_2005_r1__Q06]]

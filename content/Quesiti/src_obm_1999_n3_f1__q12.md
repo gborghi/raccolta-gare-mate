@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q12
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Remainder of 11111...1 (1999 digits) divided by 7*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Restante di 11111...1 (1999 cifre) diviso per 7*
+
+> Il numero $N = \underbrace{11111\ldots1}_{1999\text{ digits}}$ è composto da cifre del 1999, tutte uguali a 1. Qual è il residuo della divisione di $N$ per 7?
+> 
+> A) 1 \quad B) 2 \quad C) 4 \quad D) 5 \quad E) 6
+
+**Risposta:** A
+[[src_obm_1999_n3_f1__Q12]]

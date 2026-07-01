@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2021 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2021__Q10
 parent: src_cn_csmo_2021
 competition: China Southeastern Mathematical Olympiad 2021
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality for nonneg reals on unit sphere with cyclic rational and product terms*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza dei reali non negativi sulla sfera unitaria con termini ciclici razionali e produttivi*
+
+> Date $a, b, c \ge 0$ con $a^2 + b^2 + c^2 \le 1$. Prova: $$\frac{a}{a^2+bc+1}+\frac{b}{b^2+ca+1}+\frac{c}{c^2+ab+1}+3abc < \sqrt{3}.$$
+
+[[src_cn_csmo_2021__Q10]]

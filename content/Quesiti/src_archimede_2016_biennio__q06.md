@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_biennio__Q06
 parent: src_archimede_2016_biennio
 competition: Giochi di Archimede 2016 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *punti da reti segnate/subite*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1w98Us2ogDSfVMh4NQofZesTOzitRRSQB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*network points marked/submitted*
+
+> A football tournament involves only 4 teams, called A, B, C, D. Each team plays a match each day, and during the tournament, each team meets each other precisely once. After the first two days, team A scored 4 goals without scoring, team B scored 7 goals without scoring, team C scored 3 and scored 1, team D scored 1 goal without scoring. Taking into account that each team earns 3 points for each win, 1 point for each draw and no points in the event of defeat, indicate how many points, respectively, the teams A, B, C, D (in this order) have scored in the first two days.
+>
+> - **(A)** 4, 0, 3, 4
+> - **(B)** 4, 0, 4, 2
+> - **(C)** 4, 0, 3, 2
+> - **(D)** 4, 1, 3, 2
+> - **(E)** 3, 1, 4, 2
+
+**Answer:** A
+[[src_archimede_2016_biennio__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_semifinale_a__Q06
 parent: src_cesenatico_2016_semifinale_a
 competition: Gara a Squadre Cesenatico 2016 - Semifinale A
@@ -30,6 +31,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *128*(p1+...+p35) sottoinsiemi somma pari*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2144
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*128*(p1+...+p35) sub-sets equal to *
+
+> Couple or odd? Arthur and Square have arrived at the Golden Section, the ship of Galactic President Jacob Googolplex, a strange two-headed alien. They like to play this game with each other. Selecting a positive integer n, the first head lists all possible subsets of {1,2,...,n}, shouting one by one the numbers present in each of them. For example, if n is equal to 2, it screams One! Two of them! One of them! Two!, because the subsets are {1,2}, {1,2}. The second head stops him as he is shouting one of these numbers (choosing randomly from all the elements in the sequence with the same probability), and wins if it comes from a subset whose sum of the elements is equal. Determined by his chances of victory, Team Race 2016  Semifinal A  Problem Tests  1/3
+> 
+> Two thirds Competition in Teams 2016  Semifinal A  Test of the calculation problems 128(p1 +p2 +p3 +··+p35).
+
+**Answer:** 2144
+[[src_cesenatico_2016_semifinale_a__Q06]]

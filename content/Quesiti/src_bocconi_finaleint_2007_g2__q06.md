@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 2) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g2__Q06
 parent: src_bocconi_finaleint_2007_g2
 competition: >-
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età di Aline dedotta da un gioco di magia matematica*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 27 anni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Aline's age derived from a mathematical magic game
+
+> Marie asks Aline to choose a number between $1$ and $9$, multiply it by $9$ and subtract this number. Aline receives < MSK3/>. That's enough for Marie to guess Aline's age.
+> 
+> What is the age of Aline?< MSK1/>
+
+**Answer:** 27 anni
+[[src_bocconi_finaleint_2007_g2__Q06]]

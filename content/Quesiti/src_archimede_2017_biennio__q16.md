@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Biennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_biennio__Q16
 parent: src_archimede_2017_biennio
 competition: Giochi di Archimede 2017 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Zeri finali del prodotto nello schema triangolare*
 
@@ -53,3 +56,22 @@ tags:
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/112mFupkYpsCYPbpzDQ0mOl_VW0wTFJK_/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1WbKYlCGmnvn3EnNy8PHpDbjgy_2zTYne/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Final product zeros in the triangular scheme*
+
+![[src_archimede_2017_biennio__prob16.png]]
+
+> After drawing a triangular pattern like the one next to it, Alberto writes in the circles of the top row the whole numbers from 1 to 7. Then, inside each of the other circles, he writes the product of the numbers contained in the two circles above it that are connected to it with an arrow (so he gets 2, 6, 12, ... and so on. How many zeros will you finish the number you have to write in the bottom circle?
+>
+> - **(A)** 15
+> - **(B)** 12
+> - **(C)** 16
+> - **(D)** 13
+> - **(E)** 14 1 2 3 4 5 6 7 2 6 12 ... ... ... 12 ... ... ... ... ... ... ... ... ... ... ... ... ... ... T2 Italian Mathematical Union PROJECT OLYMPIADS OF MATHEMATICS Ministry of Education, University and Research The Archimedes Games - Race Biennio 23 November 2017 • The test consists of 16 problems. Each question shall be followed by 5 answers indicated by the letters (A), (B), (C), (D) and (E). One of these answers is correct, the other four are wrong. • Each correct answer is worth 5 points, each wrong answer is worth 0 points. For each answer left blank or unreadable one point will be awarded. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. You have 110 minutes to run the test. Good work and good fun! Name of the applicant and date of birth: email (optional): 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+
+**Answer:** A
+[[src_archimede_2017_biennio__Q16]]

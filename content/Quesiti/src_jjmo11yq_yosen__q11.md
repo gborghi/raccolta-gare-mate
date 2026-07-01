@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo11yq_yosen__Q11
 parent: src_jjmo11yq_yosen
 competition: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max of good cells minus bad cells in a grid*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5050
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KqvofIIXgEWPDHUAZMRGkscvso3ZVrK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Max di cellule buone meno cellule cattive in una griglia*
+
+> In ogni cella di una griglia $101\times101$ viene scritto un numero reale (i numeri possono ripetersi).
+> 
+> - Se il numero reale scritto in una cella è maggiore del numero reale nella cella a destra e del numero reale nella cella sopra di essa, quella cella viene chiamata buona cella. Se non c'è una cellula a destra o sopra, non è una buona cellula. - Se il numero reale scritto in una cella è più piccolo del numero reale nella cella a sua destra e del numero reale nella cella sopra di essa, quella cella viene chiamata cella cattiva. Se non c'è una cella a destra o sopra, non è una cella cattiva.
+> 
+> Si noti che una cellula può essere una cellula buona e una cattiva allo stesso tempo. Qual è il valore più grande possibile di (numero di cellule buone) $-$ (numero di cellule cattive)?
+
+**Risposta:** 5050
+[[src_jjmo11yq_yosen__Q11]]

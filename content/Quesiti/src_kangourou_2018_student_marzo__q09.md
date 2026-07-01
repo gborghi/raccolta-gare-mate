@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q09
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume del parallelepipedo date aree A,B,C delle facce*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of the parallel piped given areas A,B,C of the faces*
+
+> In a parallel-piped rectangle three faces that have a vertex in common have areas A, B and C respectively. What's the volume of the parallelepiped? (A) ABC
+> 	
+> (b) √ ABC
+> 	
+> C) √ AB + BC + CA
+>  
+> (d) √ ABC
+> 	
+> E) 2 (A + B + C)
+
+**Answer:** B
+[[src_kangourou_2018_student_marzo__Q09]]

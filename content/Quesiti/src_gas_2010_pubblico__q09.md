@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Gara del Pubblico — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_pubblico__Q09
 parent: src_gas_2010_pubblico
 competition: Gara a Squadre 2010 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo lato quadrato le cui cifre area aumentate di 1*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0156
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum square side whose area figures are increased by 1*
+
+> Territorial dominion [50] Jack and Elizabeth, shipwrecked on the island, each appropriate a square plot of land. The two squares have an integer of meters on each side, but to hear Jack, his is bigger: Aah! The surface of my territory, in m2 has the same numbers as yours, but all increased by 1. Knowing that the side of Jack's land does not reach 300 meters, how much can he measure, at most?
+
+**Answer:** 0156
+[[src_gas_2010_pubblico__Q09]]

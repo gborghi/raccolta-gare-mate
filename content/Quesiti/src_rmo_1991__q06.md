@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1991 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1991__Q06
 parent: src_rmo_1991
 competition: Regional Mathematical Olympiad 1991
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find integers a such that quadratic factors as product*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RD8FU5BoTp9QOmMS9Bfvr_F9JpltmZcX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare un intero tale che i fattori quadratici come prodotto*
+
+> Trova tutti i valori interi di $a$ in modo tale che l'espressione quadrata $$(x + a)(x + 1991) + 1$$ possa essere fatturata come prodotto $(x + b)(x + c)$ dove $b$ e $c$ sono interi.
+
+[[src_rmo_1991__Q06]]

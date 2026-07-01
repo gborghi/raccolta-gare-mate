@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f2__Q02
 parent: src_obm_2006_n1_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of shaded region after folding a 20×15 cm sheet*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1srmyb0DAUnIq9SKYuIOrk5cCPzS2K6he/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area di regione ombrata dopo il ripiegamento di un foglio da 20 cm ×15 cm *
+
+> Un foglio di carta è lungo $20\,\text{cm}$ e largo $15\,\text{cm}$. Pieghiamo il foglio lungo la sua lunghezza. Quindi facciamo una doppia piega rettangolare in modo che due vertici opposti coincidano. Una volta svolto, le pieghe del secondo piego dividono il foglio in due parti, come mostrato nella figura. Qual è la superficie della parte ombrata, in < MSK2/>?
+
+![[src_obm_2006_n1_f2__Q02.png]]
+
+[[src_obm_2006_n1_f2__Q02]]

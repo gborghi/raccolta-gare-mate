@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1990 (31st IMO, Beijing) — Quesito 6'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1990__Q06
 parent: src_imo_1990
 competition: 'IMO 1990 (31st IMO, Beijing)'
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Construct equiangular 1990-gon with square-number side lengths*
 
@@ -40,3 +43,13 @@ tags:
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/19Nm9GUxDj1LQ81dyXFSu02uDt1RWquol/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Construct an equivalency 1990-gon with square-number side lengths*
+
+> Prove that there exists a convex 1990-gon with the following two properties: (a) All angles are equal. (b) The lengths of the 1990 sides are the numbers 12, 22, 32. . . In some order.
+
+[[src_imo_1990__Q06]]

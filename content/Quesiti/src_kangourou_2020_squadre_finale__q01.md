@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2020 Finale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q01
 parent: src_kangourou_2020_squadre_finale
 competition: Kangourou Coppa squadre 2020 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione ombreggiata dell'esagono regolare*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0209
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ouvUikm9jtg5T9XqFtDuhZcgJZXEsFwU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shaded fraction of the regular hexagon*
+
+![[src_kangourou_2020_squadre_finale__prob1.png]]
+
+> Shaded fraction Each side of a regular hexagon has been divided into three segments of equal length. The subdivision points have been connected in pairs by segments as shown in the figure. What fraction of the hexagon is shaded? (Use the first two digits left for the numerator, the other for the denominator: for example, for 3/5 write 0305.)
+
+**Answer:** 0209
+[[src_kangourou_2020_squadre_finale__Q01]]

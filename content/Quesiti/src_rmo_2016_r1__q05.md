@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2016 — Region 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2016_r1__Q05
 parent: src_rmo_2016_r1
 competition: Regional Mathematical Olympiad 2016
@@ -29,6 +30,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle centroid, circumcircles intersect lines, prove G is centroid of AXY*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_C_gDdDV0i52pCDjmTMiQrzqXuQnBrZ9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Centroide triangolare, circoncircoli che intersecano le linee, dimostrare che G è centroide di AXY*
+
+> Che $ABC$ sia un triangolo con centroid $G$. Il circoncircolo del triangolo $AGB$ interseca la linea $BC$ in $X$ diversa da $B$, e il circoncircolo del triangolo $AGC$ interseca la linea $BC$ in $Y$ diversa da $C$. Prova che $G$ è il centroide del triangolo $AXY$.
+
+[[src_rmo_2016_r1__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1993 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1993__Q06
 parent: src_rmo_1993
 competition: Regional Mathematical Olympiad 1993
@@ -28,6 +29,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inequality for four positive reals with abcd=1*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kadMp-CRN3MjuB-TEm5ptxaScgegf-GQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Inequità per quattro valori reali positivi con abcd=1*
+
+> Se $a$, $b$, $c$, $d$ sono quattro numeri reali positivi come $abcd = 1$, dimostrare che $$(1 + a)(1 + b)(1 + c)(1 + d) \ge 16.$$
+
+[[src_rmo_1993__Q06]]

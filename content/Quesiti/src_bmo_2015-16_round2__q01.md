@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2015-16 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2015-16_round2__Q01
 parent: src_bmo_2015-16_round2
 competition: British Mathematical Olympiad 2015-16 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three mutually tangent circles with common tangent: prove inequality*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IP9QibKtwHZ1_25MdkGcnWk39s-zWQx-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre cerchi tangenti reciprocamente con tangente comune: dimostrare la disuguaglianza*
+
+> I cerchi di raggio $r_1$, $r_2$ e $r_3$ si toccano esternamente e hanno anche una tangente comune rispettivamente nei punti $A$, $B$ e $C$, dove $B$ si trova tra $A$ e $C$. Prove che $16r_1r_3(r_1+r_2+r_3) \ge 9r_2(r_1+r_3)^2$.
+
+[[src_bmo_2015-16_round2__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2016 — Region 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2016_r3__Q01
 parent: src_rmo_2016_r3
 competition: Regional Mathematical Olympiad 2016
@@ -29,6 +30,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle bisector tangent to circumcircle, prove angle A=90*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BaQ45FF4xT_9XnNK7XN2HDAIBbyW2GyF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo bisettore tangente a circolo, prova angolo A=90*
+
+> Che $ABC$ sia un triangolo e $D$ il punto medio di $BC$. Supponiamo che il bisettore angolare di $\angle ADC$ sia tangente al circoncircolo del triangolo $ABD$ a $D$. Prove che $\angle A = 90^\circ$.
+
+[[src_rmo_2016_r3__Q01]]

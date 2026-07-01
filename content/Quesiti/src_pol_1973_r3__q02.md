@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1973 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1973_r3__Q02
 parent: src_pol_1973_r3
 competition: Olimpiade Matematica Polacca 1973 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability of heads up in 100 tosses; sequence convergence*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qxf9IfIyodX4dvRWXQZSx2BaEEy5z1l/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Probabilità di testa in 100 lanci; convergenza delle sequenze< MSK1/>
+
+> $p_n$ indichi la probabilità che, in $n$ lanci, una moneta giusta mostri la testa in su 100 volte consecutive. Prove che la sequenza $\{p_n\}$ converge e determina il suo limite.
+
+[[src_pol_1973_r3__Q02]]

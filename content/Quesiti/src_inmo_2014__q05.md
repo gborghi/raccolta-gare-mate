@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2014 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2014__Q05
 parent: src_inmo_2014
 competition: Indian National Mathematical Olympiad 2014
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle ABC, D on BC; circumcentre of ABC and orthocentre of O1O2D are parallel to BC*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10Z-9bRHrg98_B491eEp9PX2WiyL_iPbr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto ABC, D su BC; il circoncentro di ABC e l'ortocentro di O1O2D sono paralleli a BC*
+
+> In un triangolo a angolo acuto $ABC$, un punto $D$ si trova sul segmento $BC$. $O_1$, $O_2$ indicano rispettivamente i circoncenti dei triangoli $ABD$ e $ACD$. Prove che la linea che unisce il circoncentro del triangolo $ABC$ e l'ortocentro del triangolo $O_1 O_2 D$ è parallela a $BC$.
+
+[[src_inmo_2014__Q05]]

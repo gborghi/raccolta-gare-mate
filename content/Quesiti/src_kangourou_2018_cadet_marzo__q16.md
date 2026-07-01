@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q16
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale primo appartiene certamente alla lista*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which of the first is certainly included in the list*
+
+> Alice wants to write a list of prime numbers less than 100, using each of the digits 1, 2, 3, 4 and 5 exactly once and without using any other digits. Which number is definitely on your list? A) 2
+> 	
+> B) 5
+> 	
+> C) 31
+> 	
+> D) 41
+> 	
+> E) 53
+
+**Answer:** D
+[[src_kangourou_2018_cadet_marzo__Q16]]

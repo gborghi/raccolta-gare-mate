@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q15
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quando tornano tutti insieme al Club*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+When they all get back together at the club
+
+> Alberto comes to the club every day, Bob every two days, Cloe every three days, Dan every four days, Enrico every five days, Franco every six days and Gabriele every seven days. They're all here today, how many days from now will they all be together again? A) 27 B) 28 C) 210 D) 420 E) 5040 Time worked: ............. minutes (to be completed under the supervision of the supervisory instructor)
+
+**Answer:** D
+[[src_kangourou_2000_studenti__Q15]]

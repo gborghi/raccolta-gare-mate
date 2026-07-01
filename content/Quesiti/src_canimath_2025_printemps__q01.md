@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2025 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_printemps__Q01
 parent: src_canimath_2025_printemps
 competition: Coupe Animath Printemps 2025
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute a simple arithmetic expression with fractions*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolare un'espressione aritmetica semplice con frazioni*
+
+> Calcolare $$\frac{13}{6} + \frac{7}{10} + \frac{2}{15}.$$ Qui si prevede una risposta numerica semplificata.
+
+[[src_canimath_2025_printemps__Q01]]

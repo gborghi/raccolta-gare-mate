@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2007-08 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2007-08_round1__Q03
 parent: src_bmo_2007-08_round1
 competition: British Mathematical Olympiad 2007-08 — Round 1
@@ -26,6 +27,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Diameter and perpendiculars in a circle; prove LS = LT*
 
@@ -37,3 +40,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RB1RkGzKd2r9NM4xaNaiRaoP15anlQ-K/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Diametro e perpendicolari in un cerchio; prova LS = LT*
+
+> $ABC$ sia un triangolo, con un angolo obtuso a $A$. Il $Q$ deve essere un punto (diversi da $A$, $B$ o $C$) sul cerchio attraverso $A$, $B$ e $C$, sullo stesso lato dell'accordo $BC$ come $A$, e il $P$ deve essere l'altra estremità del diametro attraverso $Q$. Le perpendicolari da $Q$ a $CA$ e $AB$ soddisfano rispettivamente la linea $PA$ a $S$ e $T$. Il piede della perpendicolare da $P$ alla linea $BC$ è $L$. Mostra che < MSK22/>.
+
+[[src_bmo_2007-08_round1__Q03]]

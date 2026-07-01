@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2011 - Gara a squadre — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2011_squadre__Q11
 parent: src_gs_2011_squadre
 competition: Coppa Fermat 2011 - Gara a squadre
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di aprire almeno 13 scatole*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6666
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of opening at least 13 boxes< MSK1/>
+
+> Emilio Largo has captured James Bond and, with sadistic taste, challenges him to a strange roulette. There are thirty-six boxes numbered from $1$ to $36$ and thirty-six balls numbered from $1$ to $36$; Largo randomly inserts a ball into each box. Bond will have to open a box, look at the number of the ball, open the box with that number, and continue. He stops when he finds a ball with the number of a box already open. If he opens less than thirteen boxes, he'll be thrown into the shark tank. James quickly calculates the probability of escape, makes a mocking gesture, and opens the box number $5$. What's the probability he calculated? Answer by writing the first four digits after the resulting comma.
+
+**Answer:** 6666
+[[src_gs_2011_squadre__Q11]]

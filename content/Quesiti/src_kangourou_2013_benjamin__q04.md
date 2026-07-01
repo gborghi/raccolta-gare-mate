@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q04
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di svolte a destra per andare da A a B*
 
@@ -51,3 +54,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of turns to the right to go from A to B*
+
+> Natalia and Diana have a lot of cubes, all the same. With some of these cubes, Natalia built the cube you see in the figure on the left. Diana wants to build a cube identical to Natalia's, but for now she has managed to get the solid you see in the figure on the right (the cubes in unseen positions have already been all inserted). How many cubes do you need to complete the construction? A) 5 B) 6
+>          	
+> C) 7
+>        	
+> D) 8
+>       	
+> E) 9
+
+[[src_kangourou_2013_benjamin__Q04]]

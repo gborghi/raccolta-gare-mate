@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q22
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximise cyclic sum of x_i^2(x_{i+1}-x_{i-1}) for x_i in [-1,1]*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 40
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximizzare la somma ciclica di x_i^2(x_{i+1}-x_{i-1}) per x_i in [-1,1]*
+
+> Per i numeri reali $x_1, x_2, \ldots, x_{60} \in [-1, 1]$, trovare il massimo di $$\sum_{i=1}^{60} x_i^2 (x_{i+1} - x_{i-1}),$$ dove $x_0 = x_{60}$ e $x_{61} = x_1$.
+
+**Risposta:** 40
+[[src_cn_ctst_2021__Q22]]

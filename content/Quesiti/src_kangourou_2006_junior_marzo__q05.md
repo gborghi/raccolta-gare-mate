@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q05
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo minuti perche numeri diventino multipli di 5*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum minutes for numbers to be multiplied by 5
+
+> 5. On the board are the numbers 1, 2, 3, 4. Every minute Luisa calls two numbers and replaces each with the number she gets by adding 1. What's the minimum number of minutes passed that all the numbers written on the board can be multiplied by 5? A) 4 B) 5 C) 8 D) 10 E) Such a configuration can never occur. Kang 2006 Pag. 22 22 Kang 2006 Pag.
+
+**Answer:** B
+[[src_kangourou_2006_junior_marzo__Q05]]

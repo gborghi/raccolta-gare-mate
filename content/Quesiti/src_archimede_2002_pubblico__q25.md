@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_pubblico__Q25
 parent: src_archimede_2002_pubblico
 competition: Archimede 2002 - Gara del Pubblico (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *configurazioni dei trenini*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0020
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*train configurations*
+
+> **Carl and trains** (35 points)
+> 
+> Carla was a fan of electric trains. He's currently handling five tracks of different lengths. By removing all possible pairs of tracks and adding the lengths of the elements of each pair, the numbers 41, 44, 45, 48, 49, 50, 51, 52, 54 and 58 are obtained. What's the length of the shortest track?
+
+**Answer:** 0020
+[[src_archimede_2002_pubblico__Q25]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q11
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione ombreggiata (quadrato e semicirconferenze)*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shaded region area (square and semicircular) *
+
+![[src_kangourou_2004_cadet__prob11.png]]
+
+> In the figure, a square ABCD and two semicirculars with diameters AB and AD are drawn. If the side of the square is 2 meters long, what is the area in square meters of the shaded region? A) 1 B) 2 C) 2 π D) π / 2       E) 3/4
+
+**Answer:** B
+[[src_kangourou_2004_cadet__Q11]]

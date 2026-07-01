@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Junior finale nazionale (Mirabilandia) — Quesito J2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_junior_maggio__QJ2
 parent: src_kangourou_2009_junior_maggio
 competition: Kangourou 2009 - Junior finale nazionale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Il numero 29^28+4 e primo*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** no
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xGZ7OkZ2vv3yACmUJOy44TwOsFXpar5C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number 29^28+4 and first*
+
+> *(7 points) * The number $29^n + 4$ is prime? Justify the answer.
+
+**Answer:** no
+[[src_kangourou_2009_junior_maggio__QJ2]]

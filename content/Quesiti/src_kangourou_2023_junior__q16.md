@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q16
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *gradini neri col piede destro*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>black feet with right foot< MSK1/>
+
+> One step in three of the 2023 steps of a ladder is coloured in black: the ladder starts with two white steps, then the third is black, the fourth and fifth are white, the sixth is black and so on regularly. Anita went up the stairs one step at a time, alternating feet, but we don't know which foot she started with. How many black steps did you put your right foot on? (A) 333 B) 334 C) 337 D) 674 E) The answer depends on which foot you set on the first step
+
+**Answer:** C
+[[src_kangourou_2023_junior__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Triennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_triennio__Q07
 parent: src_archimede_2016_triennio
 competition: Giochi di Archimede 2016 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *punti da reti segnate/subite*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*network points marked/submitted*
+
+> A football tournament involves only 4 teams, called A, B, C, D. Each team plays a match each day, and during the tournament, each team meets each other precisely once. After the first two days, Team A suffered 1 net and scored 3, Team B scored 4 net without suffering, Team C scored 1 net without suffering, Team D suffered 7 net without scoring. Taking into account that 3 points are earned for each win, 1 point for each draw and no points in the event of defeat, indicate how many points, respectively, the teams A, B, C, D (in this order) have scored in the first two days.
+>
+> - **(A)** 4, 6, 1, 0
+> - **(B)** 4, 4, 2, 0
+> - **(C)** 4, 3, 2, 1
+> - **(D)** 1, 6, 4, 0
+> - **(E)** 3, 4, 4, 0
+
+**Answer:** E
+[[src_archimede_2016_triennio__Q07]]

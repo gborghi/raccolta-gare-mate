@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q19
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Min intero = media aritmetica di cinque primi*
 
@@ -49,3 +52,23 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Integer Min = arithmetic mean of five prime *
+
+> What is the smallest positive integer that matches the arithmetic mean of five prime numbers? A) 2
+> 	
+> B) 5
+> 	
+> C) 6
+> 	
+> D) 12
+> 	
+> E) 30
+>
+
+**Answer:** C
+[[src_kangourou_2023_junior__Q19]]

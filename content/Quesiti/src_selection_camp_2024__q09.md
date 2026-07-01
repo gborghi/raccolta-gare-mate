@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2024 — Selection Camp — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2024__Q09
 parent: src_selection_camp_2024
 competition: Japan IMO Selection Camp 2024 — Selection Camp
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three permutations of 1..n approximating 2 sqrt(n) by sums of square roots*
 
@@ -46,3 +49,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PL_Bn-4WncGMxFABFvS--QrLAcF9eVC7/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre permutazioni di 1..n approssimativamente 2 sqrt(n) per somma di radici quadrate*
+
+> $n$ sia un numero intero positivo. Prova che esistono permutazioni $(a_1, a_2, \ldots, a_n)$, $(b_1, b_2, \ldots, b_n)$, $(c_1, c_2, \ldots, c_n)$ di $(1, 2, \ldots, n)$ in modo tale che per ogni intero $k$ con $1 \le k \le n$, $$\left| \sqrt{a_k} + \sqrt{b_k} + \sqrt{c_k} - 2\sqrt{n} \right| < 2023.$$ qui $(x_1, x_2, \ldots, x_n)$ è una permutazione di $(1, 2, \ldots, n)$ se ogni intero da $1$ a $n$ appare esattamente una volta tra $x_1, x_2, \ldots, x_n$.
+
+[[src_selection_camp_2024__Q09]]

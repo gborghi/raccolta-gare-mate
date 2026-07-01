@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2004 - Gara Biennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2004_biennio__Q01
 parent: src_archimede_2004_biennio
 competition: Giochi di Archimede 2004 - Gara Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Gioco con cavalli/scimmia e calcoli sui giri di pista*
 
@@ -41,3 +44,19 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
 **Anche in triennio:** [apri PDF p.6](https://drive.google.com/file/d/1XmsMoQuys_zOG8sI_q2UWg3vgZuFkqm5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Playing with horses/monkeys and calculating track laps*
+
+> According to a recent statistic, every Italian eats an average of 30 kg of pasta a year. Knowing that Italy has a population of 57 million, how many tons of pasta are consumed in Italy every year?
+>
+> - **(A)** less than 1000
+> - **(B)** More than 1000, but less than 10 thousand
+> - **(C)** More than 10,000, but less than 100,000.
+> - **(D)** More than 100,000, but less than 1 million
+> - **(E)** more than 1 million
+
+[[src_archimede_2004_biennio__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f3__Q02
 parent: src_obm_2006_n1_f3
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cryptarithmetic addition: find value of each symbol*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FsRdAPbcst2JE6FUdAJxsjzLVbBqnPA7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Aggregazione aritmetica dei criptogrammi: trovare il valore di ogni simbolo*
+
+> Nell'aggiunta di seguito, ogni simbolo rappresenta una cifra unica e diversi simboli rappresentano diversi numeri.
+> 
+> $$\begin{array}{r} \square\,\triangle \\ +\quad\triangle\,\odot \\ \hline \odot\,\square\,\triangle \end{array}$$
+> 
+> Determinare il valore di ciascun simbolo; cioè trovare questi valori e dimostrare che non esistono altre possibilità.
+
+[[src_obm_2006_n1_f3__Q02]]

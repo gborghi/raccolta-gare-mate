@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Junior 2023 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_semifinale__Q17
 parent: src_kangourou_2023_junior_semifinale
 competition: Kangourou Semifinale individuale Junior 2023
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto di due numeri tolti da 1..17 uguale alla somma dei restanti*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rq1gJ31P8DKnidln7hHYAxiIyAQN3F0c/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Product of two numbers subtracted from 1.17 equal to the sum of the remaining *
+
+> (Points 7) From the sum of integers 1 to 17, these included, two numbers can be taken so that their product matches the sum of the remaining numbers and there is only one way to do so. How much is that product worth?
+
+[[src_kangourou_2023_junior_semifinale__Q17]]

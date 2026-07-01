@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Biennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_biennio__Q03
 parent: src_archimede_2012_biennio
 competition: Giochi di Archimede 2012 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area corona circolare di esagono regolare*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13kesAdPzQ8k4YwW-asUVUoQ5RPW1gOnt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A circular crown area of regular hexagon*
+
+> A regular side hexagon of 2 m is given. Calculate the area of the circular crown bounded by the inscribed circle and the circumscribed circle at the hexagon.
+>
+> - **(A)** π 2 m2
+> - **(B)** π m2
+> - **(C)** 4π 3 m2
+> - **(D)** 2π m2
+> - **(E)** π 9 m2
+
+**Answer:** B
+[[src_archimede_2012_biennio__Q03]]

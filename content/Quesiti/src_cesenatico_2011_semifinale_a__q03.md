@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_a__Q03
 parent: src_cesenatico_2011_semifinale_a
 competition: Gara a Squadre Cesenatico 2011 - Semifinale A
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Allineare 8 soldati con somme vicine multiple di 3*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1152
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Line up 8 soldiers with close sums multiple of 3
+
+> The defense is one of the strengths of the Roman army. To organize a line of defense the commander of the legion aligns the soldiers based on their experience in the field. Each soldier's experience is quantified by an integer between 1 and 40. Julius Caesar is an expert in organizing the lines of defense and uses a secret technique that guarantees him a certain success: an effective defense line is made up of soldiers aligned so that the sum of the experiences of two soldiers between each other is always multiple by 3. In attacking Gaul, Julius Caesar has soldiers with the following experiences: 4, 10, 11, 14, 16, 23, 32, 34. How many ways can Julius Caesar arrange an effective line of defense that uses all eight soldiers available?
+
+**Answer:** 1152
+[[src_cesenatico_2011_semifinale_a__Q03]]

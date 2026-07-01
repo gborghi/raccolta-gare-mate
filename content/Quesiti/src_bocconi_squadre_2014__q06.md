@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2014 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2014__Q06
 parent: src_bocconi_squadre_2014
 competition: Gara a Squadre 2014
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto tra area nuovo triangolo e area triangolo iniziale con quadrati costruiti sui lati*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio between area of new triangle and area of initial triangle with squares built on the sides*
+
+> Consider any triangle and, externally to it, the three squares constructed from its three sides. Combine the vertices liberi of these squares, and you get three new triangles. Write the number that gives the ratio of the area of one of the new triangles (the one on the right, for example) to the area of the original triangle.
+
+![[src_bocconi_squadre_2014__Q06.png]]
+
+**Answer:** 1
+[[src_bocconi_squadre_2014__Q06]]

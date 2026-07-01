@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r3__Q05
 parent: src_rmo_2015_r3
 competition: Regional Mathematical Olympiad 2015
@@ -32,6 +33,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with circumcircle and incenter; kite PIRQ implies equilateral*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HpOXyY027T7yrJIPYwmXafLpB_7tE0uA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con circoncircolo e incentro; kite PIRQ implica equilaterale*
+
+> Il $ABC$ deve essere un triangolo con circoncircolo $\Gamma$ e incentro $I$. I bisettori di angolo interno di $\angle A$, $\angle B$ e $\angle C$ devono incontrare $\Gamma$ rispettivamente in $A'$, $B'$ e $C'$. In < MSK12/> < MSK11/> e in < MSK14/> < MSK13/> si intersecano. Lasciate che < MSK15/> si incroci < MSK16/> in < MSK17/>. Supponiamo che il quadrilaterale $PIRQ$ sia un aquilone; cioè $IP = IR$ e $QP = QR$. Prova che $ABC$ è un triangolo equilaterale.
+
+![[src_rmo_2015_r3__Q05.png]]
+
+[[src_rmo_2015_r3__Q05]]

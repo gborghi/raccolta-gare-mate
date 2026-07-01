@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 finale nazionale Student — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student_finale__Q02
 parent: src_kangourou_2012_student_finale
 competition: Kangourou 2012 finale nazionale Student
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Fila di dadi con somma facce esposte uguale a 2012*
 
@@ -37,3 +40,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fire of dice with the sum of exposed faces equal to 2012*
+
+![[src_kangourou_2012_student_finale__prob2.png]]
+
+> Peter wants to line up a number of traditional dice (the sum of points on opposite faces is always 7), as the figure shows. It joins two faces together only if the number of points on both faces is equal, and it wants to get a row so that the sum of points on all the faces exposed is $2012$. Can he do it, and if so, how many dice does he have to use? (see figure)
+
+[[src_kangourou_2012_student_finale__Q02]]

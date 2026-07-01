@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q19
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Immagine dal retro dell'edificio di cubetti*
 
@@ -65,3 +68,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Image from the rear of the cube building*
+
+![[src_kangourou_2013_cadet__prob19.png]]
+
+> John built a square-plan building using cubes all equal to each other. For each cell in the base square, the figure indicates how many cubes the tower rises above that cell is made of. The figure also indicates what the front and rear of the building are in relation to this pattern. Looking at the building from the back, what's the image that appears? 4 2 3 2 3 3 1 2 2 1 3 1 1 1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 2 1 1 1 1 1 2 1 1 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+> 
+> A)
+> 	
+> B) C) D) E)
+
+**Answer:** C
+[[src_kangourou_2013_cadet__Q19]]

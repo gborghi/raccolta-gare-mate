@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f1__Q16
 parent: src_obm_2014_n1_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Marble game: Adao lost 5, Bernardo lost 4, Carlos gained them; minimum total*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Gioco di marmo: Adao ha perso 5, Bernardo ha perso 4, Carlos li ha vinti; totale minimo *
+
+> Adao, Bernardo e Carlos hanno giocato a marmi. Adao ha perso i marmi $5$, Bernardo ha perso $4$, e Carlos ha guadagnato tutti i marmi che gli altri hanno perso. Ricordando che con i marmi $5$ una persona può giocare, qual è la quantità minima di marmi nel gioco?
+> 
+> (A) $11$ \quad (B) $13$ \quad (C) $19$ \quad (D) $29$ \quad (E) $33$
+
+[[src_obm_2014_n1_f1__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1991-92 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1991-92_round2__Q03
 parent: src_bmo_1991-92_round2
 competition: British Mathematical Olympiad 1991-92 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC, circumradius R with AB^2+AC^2=BC^2-R^2: find angles*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WQUmzhzILjWwym4_9QHJMWN1-c9lfbmQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC, radio circundato R con AB^2+AC^2=BC^2-R^2: angolo di ricerca*
+
+> Il circoncircolo del triangolo $ABC$ ha un raggio $R$ soddisfacente $$AB^2 + AC^2 = BC^2 - R^2.$$ Prove che gli angoli del triangolo sono determinati in modo unico, e indicare i valori per gli angoli.
+
+[[src_bmo_1991-92_round2__Q03]]

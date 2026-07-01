@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo16yq_yosen__Q03
 parent: src_jmo16yq_yosen
 competition: Japan Mathematical Olympiad 2006 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to fill 3×4 grid with 1–4 so no value repeats in any row or column*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 36
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i modi per riempire la griglia 3 ×4 con 14 in modo che nessun valore si ripeta in nessuna riga o colonna*
+
+> In quanti modi ogni cella di una griglia $3 \times 4$ può essere riempita con uno dei numeri $1, 2, 3, 4$ in modo da soddisfare entrambe le seguenti condizioni? \begin{itemize} \item Lo stesso numero non appare più di una volta in nessuna riga. \item Lo stesso numero non appare più di una volta in nessuna colonna. # Finire #
+
+**Risposta:** 36
+[[src_jmo16yq_yosen__Q03]]

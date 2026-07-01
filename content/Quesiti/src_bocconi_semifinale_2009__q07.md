@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2009 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2009__Q07
 parent: src_bocconi_semifinale_2009
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2009
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Carte da girare per verificare affermazione*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Le carte che Sara deve assolutamente girare sono 1 e Z
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Turn card to verify the statement*
+
+> Each of these cards bears a letter written on one side and a number on the other. Sergio tells his sister Sara that if a card has a "$1$" on one side, it necessarily has a "$A$" on the other. Sara doesn't believe it and decides to check it out for herself.
+> 
+> What cards does Sara have to play to make sure Sergio's statement is true? $$\boxed{1} \quad A \quad 2 \quad Z$$
+
+**Answer:** Le carte che Sara deve assolutamente girare sono 1 e Z
+[[src_bocconi_semifinale_2009__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2006 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2006__Q03
 parent: src_cn_cgmo_2006
 competition: China Girls' Mathematical Olympiad 2006
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Infinitely many n with i of {n,n+2,n+28} expressible as sum of three cubes*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Infinitamente molti n con i di {n,n+2,n+28} espressibili come somma di tre cubi*
+
+> Dimostra che per $i=1,2,3$, esistono infiniti numeri interi $n$ che soddisfano la seguente condizione: possiamo trovare $i$ numeri interi in $\{n,\,n+2,\,n+28\}$ che possono essere espressi come la somma dei cubi di tre numeri interi positivi.
+
+[[src_cn_cgmo_2006__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2010 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2010__Q02
 parent: src_cn_cmc-complementary-test_2010
 competition: China Mathematical Competition (Complementary Test) 2010
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Iterated function on half-integers eventually yields an integer*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La funzione iterata su semi-integer alla fine produce un intero*
+
+> (40 marchi) Dato il numero intero positivo $k$, $r = k + \frac{1}{2}$. Definire $f^{(1)}(x) = f(x) = x\lceil x \rceil$, $f^{(2)}(r) = f(f(r))$, $\ldots$, $f^{(m)}(r) = f(f^{(m-1)}(r))$. (Qui $\lceil x \rceil$ indica il numero intero minimo non inferiore a $x$; ad esempio $\left\lceil \frac{1}{2} \right\rceil = 1$, $\lceil 1 \rceil = 1$.) Prove che esiste un numero intero positivo $m$ tale che $f^{(m)}(r)$ sia un numero intero.
+
+![[src_cn_cmc-complementary-test_b11_w69__Q02.png]]
+
+[[src_cn_cmc-complementary-test_2010__Q02]]

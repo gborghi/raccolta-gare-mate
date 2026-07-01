@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Ecolier 2024 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier__Q19
 parent: src_kangourou_2024_ecolier
 competition: Kangourou Categoria Ecolier 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanto pesa il cilindro (pesate a coppie)*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Weight of the cylinder (weighted in pairs) *
+
+![[src_kangourou_2024_ecolier__prob19.png]]
+
+> Lucia has a cylinder, a cone and a ball. Weigh these objects in pairs: below you can see the result of the weights. How much does the cylinder weigh? A) 90
+> 	
+> B) 100 C) 120 D) 150 E) 170
+
+**Answer:** E
+[[src_kangourou_2024_ecolier__Q19]]

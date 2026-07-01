@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior finale nazionale — Quesito J2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior_finale__QJ2
 parent: src_kangourou_2003_junior_finale
 competition: Kangourou 2003 Junior finale nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima differenza tra numeri detti contemporaneamente*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DYCQm1nF2PohR5Hfzk5zl6q-PHPzDsMy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum difference between simultaneous numbers*
+
+> Cristina and Roberta start counting at the same instant and with the same frequency. Cristina has two in two growing from 110 (110, 112, 114, $\ldots$), while Roberta has five in five growing from 953 (953, 948, 943, $\ldots$). How different will the two closest numbers they will utter at the same time be?
+
+**Answer:** 3
+[[src_kangourou_2003_junior_finale__QJ2]]

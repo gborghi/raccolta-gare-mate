@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2021 Finale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q02
 parent: src_kangourou_2021_squadre_finale
 competition: Kangourou Coppa squadre 2021 Finale
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante famiglie sull'autobus (somma km 2021)*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many households on the bus (sum of km 2021) *
+
+> Families On a bus to Mirabilandia, which is Covid free, in addition to the driver, some families travel. Every family is exactly made up of father, mother and one child, except one in which the children are two. At the end of the journey, adding up the kilometres travelled by all travelers, including driver, you get 2021. How many families are there?
+
+[[src_kangourou_2021_squadre_finale__Q02]]

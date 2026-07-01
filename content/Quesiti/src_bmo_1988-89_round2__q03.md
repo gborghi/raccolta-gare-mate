@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1988-89 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1988-89_round2__Q03
 parent: src_bmo_1988-89_round2
 competition: British Mathematical Olympiad 1988-89 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find f(n+1) for degree-n polynomial with f(k)=1/(k+1) for k=0,...,n*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qspPfEgz7c_HYcRXHmsp-ZYeMDxBdFsP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca f(n+1) per polinomio di grado n con f(k)=1/(k+1) per k=0,...,n*
+
+> Che $f(x)$ sia un polinomio di grado $n$ tale che $$f(k) = \frac{1}{k+1}, \quad k = 0, 1, 2, \ldots, n.$$ Trova $f(n+1)$, esprimendo il risultato il più semplicemente possibile.
+
+[[src_bmo_1988-89_round2__Q03]]

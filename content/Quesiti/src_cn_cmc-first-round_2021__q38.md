@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 38
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q38
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -27,6 +28,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *B-5: a,b,c>1 with (a^2 b)^{log_a c}=a·(ac)^{log_a b}; find log_c(ab).*
 
@@ -39,3 +42,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*B-5: a,b,c>1 con (a^2 b)^{log_a c}=a·(ac)^{log_a b}; trovare log_c(ab).*
+
+> [Test paper B, problema 5] Supponiamo che $a,b,c>1$ e $(a^2 b)^{\log_a c}=a\cdot(ac)^{\log_a b}$ siano soddisfatti. Il valore di $\log_c(ab)$ è quindi ______.
+
+**Risposta:** 2
+[[src_cn_cmc-first-round_2021__Q38]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q03
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divide 4^(4^2) by 4^4*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*divide 4^(4^2) per 4^4*
+
+> Dividendo il numero $4^{(4^2)}$ per $4^4$ otteniamo il numero:
+>
+> - **(A)** $2$
+> - **(B)** $4^3$
+> - **(C)** $4^4$
+> - **(D)** $4^8$
+> - **(E)** $4^{12}$
+
+**Risposta:** E
+[[src_obm_2010_n2_f1__Q03]]

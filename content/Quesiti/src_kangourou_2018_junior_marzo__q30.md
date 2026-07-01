@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q30
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -29,6 +30,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza corda BD nel cerchio con corde a 60 gradi*
 
@@ -65,3 +68,28 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rope length BD in the 60-degree rope circle*
+
+![[src_kangourou_2018_junior_marzo__prob30.png]]
+
+> Look at the figure: in a circle with a diameter of AD, two AB and AC strings have been drawn that form an angle of 60°. The BE segment is perpendicular to AC, and EC measures 3 cm. How many inches is the BD rope ? A) √3
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 2√3
+> 	
+> E) 3√2
+>  
+> Initial position Final position
+> 
+> D C D E B B A B
+
+**Answer:** D
+[[src_kangourou_2018_junior_marzo__Q30]]

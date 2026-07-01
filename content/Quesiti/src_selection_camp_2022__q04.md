@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2022 — Selection Camp — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2022__Q04
 parent: src_selection_camp_2022
 competition: Japan IMO Selection Camp 2022 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum value of sum of floor(a_i/i) over all permutations*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IbxW-7wHAbocY02LPUXVJ2fiAgki09kb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta minima della somma del pavimento a_i/i) su tutte le permutazioni *
+
+> $n$ sia un numero intero positivo. Quando $a_1, a_2, \ldots, a_n$ è una permutazione di $1, 2, \ldots, n$, trovare il valore minimo possibile di $$\left\lfloor \frac{a_1}{1} \right\rfloor + \left\lfloor \frac{a_2}{2} \right\rfloor + \cdots + \left\lfloor \frac{a_n}{n} \right\rfloor.$$ Qui una permutazione di $1, 2, \ldots, n$ è una sequenza di lunghezza $n$ in cui ogni numero intero da $1$ a $n$ appare esattamente una volta, e $\lfloor r \rfloor$ indica il numero intero più grande non superiore al numero reale $r$.
+
+[[src_selection_camp_2022__Q04]]

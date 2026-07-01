@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q15
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find largest C such that product of differences >= C^(n(n-1)/2) for reals in [-1,1]*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\dfrac{1}{2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il più grande C tale che il prodotto delle differenze >= C^(n(n-1)/2) per i reali in [-1,1]*
+
+> Trova la costante più grande $C > 0$, in modo che per qualsiasi numero intero $n \ge 2$, si possano trovare numeri reali $x_1, x_2, \ldots, x_n \in [-1, 1]$ soddisfacenti $$\prod_{1 \le i < j \le n} (x_i - x_j) \ge C^{\frac{n(n-1)}{2}}.$$
+
+**Risposta:** \dfrac{1}{2}
+[[src_cn_ctst_2021__Q15]]

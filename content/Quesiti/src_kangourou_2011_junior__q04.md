@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Junior (gara marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_junior__Q04
 parent: src_kangourou_2011_junior
 competition: Kangourou 2011 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Relazione vera tra X Y Z*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AJCl_AfEoFXnuVsI8nXmEWfRHRXKCZ3O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>True relationship between X and Z< MSK1/>
+
+> Let's put X is 122 x 123 + 123 x 124 + 124 x 125, Y is 1222 + 1232 + 1242, Z is 121 x 122 + 122 x 123 + 123 x 124. Which of the following reports is true? A) Y < X < Z B) X < Y = Z C) X < Y < Z D) Z < Y < X E) X = Y < Z
+
+**Answer:** D
+[[src_kangourou_2011_junior__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2008 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2008__Q17
 parent: src_bocconi_autunno_2008
 competition: Giochi d'Autunno 2008
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Più piccolo numero naturale di quattro cifre non primo con sostituzione cifra→1 sempre primo*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1070
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lesser natural number of four non-primary digits by substitution of the digit →1 always prime*
+
+> What is the smallest natural number of four digits (not starting with 0) that has the following property: 'if you change any of its digits (other than 0) by replacing it with 1, you get a prime number'?
+
+**Answer:** 1070
+[[src_bocconi_autunno_2008__Q17]]

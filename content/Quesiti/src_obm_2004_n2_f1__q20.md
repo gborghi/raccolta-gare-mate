@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q20
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Logical deduction: which box holds the coin from ordering clues*
 
@@ -53,3 +56,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Deduzione logica: quale scatola contiene la moneta da indizi di ordine*
+
+> Su un tavolo ci sono tre scatole e tre oggetti, ciascuno in una scatola diversa: una moneta, un grappolo e un cancellatore. È noto che: - La scatola verde è a sinistra della scatola blu; - La moneta è a sinistra del cancelliere; - La scatola rossa è a destra del staple; - La cancelliera è a destra della scatola rossa.
+> 
+> In quale scatola c'è la moneta?
+> 
+> < MSK4/>A) < MSK5/> Nella scatola rossa. < MSK0/> < MSK6/>B) < MSK7/> Nella scatola verde. < MSK1/> < MSK8/>C) < MSK9/> Nella casella blu. < MSK2/> < MSK10/>D) < MSK11/> Le informazioni fornite non sono sufficienti per dare una risposta. < MSK3/> < MSK12/>E) < MSK13/> Le informazioni fornite sono contraddittorie.
+
+**Risposta:** B
+[[src_obm_2004_n2_f1__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 2021 (LXII International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2021__Q03
 parent: src_imho_2021
 competition: IMO 2021 (LXII International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Concurrency of BC, EF, O1O2 in acute triangle configuration*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VTMF3_4FUjshC9L1h1JDLd2a_dFGHkhF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Concurrency of BC, EF, O1O2 in acute triangle configuration*
+
+> Let $D$ be an interior point of the acute triangle $ABC$ with $AB > AC$ so that $\angle DAB = \angle CAD$. The point $E$ on the segment $AC$ satisfies $\angle ADE = \angle BCD$, the point $F$ on the segment $AB$ satisfies $\angle FDA = \angle DBC$, and the point $X$ on the line $AC$ satisfies $CX = BX$. Let $O_1$ and $O_2$ be the circumcentres of the triangles $ADC$ and $EXD$, respectively. Prove that the lines $BC$, $EF$, and $O_1O_2$ are concurrent.
+
+[[src_imho_2021__Q03]]

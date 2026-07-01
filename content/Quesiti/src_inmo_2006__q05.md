@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2006 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2006__Q05
 parent: src_inmo_2006
 competition: Indian National Mathematical Olympiad 2006
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral ABCD with angle 120 degrees: two inequalities*
 
@@ -48,3 +51,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fL6CHwtNRPMnX4gkiManxyf5xqdd58fL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrilaterale ciclico con angolo di 120 gradi: due disuguaglianze*
+
+> In un quadrilaterale ciclico $ABCD$, $AB = a$, $BC = b$, $CD = c$, $\angle ABC = 120^\circ$ e $\angle ABD = 30^\circ$. Prove questo .
+> 
+> (i) $c \ge a + b$;
+> 
+> (ii) $|\sqrt{c + a} - \sqrt{c + b}| = \sqrt{c - a - b}$.
+
+![[src_inmo_2006__Q05.png]]
+
+[[src_inmo_2006__Q05]]

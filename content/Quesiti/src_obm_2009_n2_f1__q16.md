@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q16
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Midpoints and altitude foot in triangle ABC; area of pentagon AERSF with area ABC=252*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punti di centro e piede di altitudine nel triangolo ABC; area del pentagono AERSF con area ABC=252*
+
+> Nella figura, $E$ è il punto medio di $AC$, $R$ è il punto medio di $AB$ e $S$ è il piede dell'altitudine da $B$ a $AC$. Inoltre, < MSK7/>. Se l'area del triangolo $ABC$ è $252$, qual è l'area del pentagono $AERSF$?
+> 
+> **(A)** $168$ $\quad$ **(B)** $189$ $\quad$ **(C)** $200$ $\quad$ **(D)** $210$ $\quad$ **(E)** $220$
+
+![[src_obm_2009_n2_f1__Q16.png]]
+
+**Risposta:** B
+[[src_obm_2009_n2_f1__Q16]]

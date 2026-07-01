@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2006 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2006__Q08
 parent: src_cn_cmc_2006
 competition: China Mathematical Competition 2006
@@ -33,6 +34,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find range of real a so |z|<=2 for all theta, where z=(a+cos theta)+(2a-sin theta)i*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\left[-\dfrac{\sqrt{5}}{5},\, \dfrac{\sqrt{5}}{5}\right]$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova intervallo di reale a so=z da <=2 per theta, dove z(a+cos theta) +(2a-sin theta) i*
+
+> Il numero complesso < MSK0/>. Se $|z| \le 2$ per qualsiasi $\theta \in \mathbf{R}$, allora l'intervallo del numero reale $a$ è ________.
+
+**Risposta:** $\left[-\dfrac{\sqrt{5}}{5},\, \dfrac{\sqrt{5}}{5}\right]$
+[[src_cn_cmc_2006__Q08]]

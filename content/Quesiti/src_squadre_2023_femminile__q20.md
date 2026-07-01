@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2023 - VI Finale — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_femminile__Q20
 parent: src_squadre_2023_femminile
 competition: Gara a Squadre Femminile 2023 - VI Finale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area superficie cubo raggiungibile da filo legato a bastoncino*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0102
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of cube surface accessible by barbed wire*
+
+> Krull's ransom came too late: the ballet is over and Vector has kidnapped the three girls. However, he left a note in which he defines Q(n) as the sum of natural numbers less than or equal to n that have no prime factors in common with n (e.g. Q(1) = 1, Q(5) = 1+2+3+4 and Q(15) = 1+2+4+7+8+11+13+14). Krull must answer the question left by Vector at the end of the note: how many integers n between 1 and 100 are such that Q(n) is a multiple of n?
+
+**Answer:** 0102
+[[src_squadre_2023_femminile__Q20]]

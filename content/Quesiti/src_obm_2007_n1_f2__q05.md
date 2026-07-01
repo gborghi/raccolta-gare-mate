@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f2__Q05
 parent: src_obm_2007_n1_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *25 wooden blocks are submerged in a 2 m cubic tank; find the new liquid level in cm.*
 
@@ -50,3 +53,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c1KSYB2Si60KoloY7duhcwVwRnP2K6BN/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*25 blocchi di legno sono immersi in un serbatoio cubo di 2 m; trovare il nuovo livello di liquido in cm.*
+
+> Il volume di ciascun blocco di legno è $0.2\times 0.3\times 1.60=0.096\text{ m}^3$. La parte di ciascun blocco immersa nel liquido ha un volume $0.80\times 0.096\text{ m}^3$. Il volume di liquido spostato dai blocchi $25$ è uguale a $25\times 0.80\times 0.096=1.92\text{ m}^3$. Il serbatoio è un cubo laterale $2\text{ m}$, quindi la sua superficie di base è $4\text{ m}^2$; quindi l'aumento del livello $h$ soddisfa $4h=1.92\iff h=\dfrac{1.92}{4}=0.48\text{ m}=48\text{ cm}$. Se il livello iniziale di liquido è stato $100\text{ cm}$, determinare il nuovo livello del liquido (è $148\text{ cm}$).
+
+![[src_obm_2007_n1_f2__Q05.png]]
+
+**Risposta:** 148
+[[src_obm_2007_n1_f2__Q05]]

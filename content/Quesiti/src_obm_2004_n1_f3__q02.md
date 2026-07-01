@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f3__Q02
 parent: src_obm_2004_n1_f3
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distinct tricolor equilateral-triangle pieces (side 2) up to rotation*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R228CrSgz-4pDVGh_rR1ta6PyL78pr17/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i pezzi tricolori equilaterali triangolari distinti (lato 2) fino alla rotazione*
+
+> Con quattro triangoli equilaterali di lato $1$ è possibile formare un pezzo a forma di triangolo equilaterale di lato $2$, come mostrato nella figura. I quattro piccoli triangoli che compongono il pezzo sono colorati in tre possibili colori: bianco, nero e grigio. Due pezzi sono considerati uguali quando uno può essere ottenuto dall'altro mediante rotazione. Quanti pezzi diversi si possono formare alle condizioni indicate?
+
+![[src_obm_2004_n1_f3__Q02.png]]
+
+[[src_obm_2004_n1_f3__Q02]]

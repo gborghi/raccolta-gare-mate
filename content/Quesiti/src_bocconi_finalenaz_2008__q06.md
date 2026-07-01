@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2008 — Quesito
   6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2008__Q06
 parent: src_bocconi_finalenaz_2008
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2008
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante fette di torta restano per Rosi dopo i prelievi successivi di cinque amici.*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3 fette
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many pieces of cake remain for Rosi after the next five picks of friends.*
+
+> For Angelo's birthday, Rosi made a huge cake that divides into 20 equal slices. Angelo came first and took a fifth of the cake plus a slice. If David repents, he takes a fifth of the cake and a slice of it. Now it's up to Carla to take a slice first and then add a fifth of what's left. Milena takes a quarter of the cake left over and a slice. Finally, Arianna takes a fifth of the cake and a slice of it. How many slices of cake do you have left for Rosi?
+
+**Answer:** 3 fette
+[[src_bocconi_finalenaz_2008__Q06]]

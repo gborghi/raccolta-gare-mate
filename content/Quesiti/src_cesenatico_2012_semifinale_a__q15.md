@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_semifinale_a__Q15
 parent: src_cesenatico_2012_semifinale_a
 competition: Gara a Squadre Cesenatico 2012 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato minimo esagono per N cerchi (impacchettamento)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0978
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum exagone layer for N circles (packaging) < MSK1/>
+
+> In an ancient Egyptian temple, a regular hexagon-shaped stone slab was found that was used to count years. For every year from an uncertain date between 700 BC and 800 BC until their demise, the Egyptians engraved a circle of 16 mm radius on the slab. The circles were engraved so as not to overlap, and it was calculated that, even by optimizing space, the plate was only placed for the years up to 2012 DC. Apparently, then it would be the Absolute Evil that would end civilization. How many millimetres does the side of the hexagon measure at least?
+
+**Answer:** 0978
+[[src_cesenatico_2012_semifinale_a__Q15]]

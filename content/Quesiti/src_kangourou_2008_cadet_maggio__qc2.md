@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_maggio__QC2
 parent: src_kangourou_2008_cadet_maggio
 competition: Kangourou 2008 - Cadet finale nazionale (Mirabilandia)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sottoinsieme con somma/differenza divisibile per 10*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xzcCtKgXNW9sDUlvwxKZKhDmQXZC9iIk/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Subtotal with sum/difference divisible by 10*
+
+> Suppose you have randomly extracted ten positive integers: can you always choose some of them so that, by appropriately interpolating between the chosen sum or difference marks, the result of the operation is a number divisible by $10$?
+> 
+> If so, how? If not, why?
+
+**Answer:** si
+[[src_kangourou_2008_cadet_maggio__QC2]]

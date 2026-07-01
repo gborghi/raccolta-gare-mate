@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2010_finale__Q15
 parent: src_kangourou_squadre_2010_finale
 competition: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo studenti con 3 problemi su 8 e un comune*
 
@@ -59,3 +62,31 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0008
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most students with 3 problems out of 8 and one common< MSK1/>
+
+> A fraction to be simplified
+>  
+> What is the value of the fraction 1001+1003+1005+...+1997+1999 1+3+5+...+997+999?
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+> A
+> 
+>  
+> Kangourou of Mathematics 2009 Kangourou team cup - final by Mirabilandia, 10 May 2009
+
+**Answer:** 0008
+[[src_kangourou_squadre_2010_finale__Q15]]

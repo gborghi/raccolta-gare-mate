@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo20yq_yosen__Q07
 parent: src_jmo20yq_yosen
 competition: Japan Mathematical Olympiad 2010 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum value of a_0 in positive-integer sequence with divisibility and bounded differences*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valore massimo di a_0 in sequenza di numeri interi positivi con divisibilità e differenze limitate*
+
+> Una sequenza infinita di interi positivi $a_0, a_1, a_2, \ldots$ soddisfa le seguenti due condizioni per ogni intero non negativo $n$:\n\n$\bullet$ $a_0$ divide $a_n$.\n\n$\bullet$ $|a_n - a_{n+1}| \le 5$.\n\nRicerca il valore massimo possibile di $a_0$.
+
+[[src_jmo20yq_yosen__Q07]]

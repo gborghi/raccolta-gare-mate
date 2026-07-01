@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q12
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -39,6 +40,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Battaglia navale: posizionare navi su una griglia 6x5 deducendo da foto ruotate.*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1 soluzione
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Naval Battle: positioning ships on a 6x5 grid by deducing from rotated photos.*
+
+> The figure represents a map of the military port of Maths-Pays and three of its aerial photographs taken at the same time. Boxes occupied by two different ships cannot touch each other, not even diagonally. All ships are < MSK1/> wide. There is one aircraft carrier $3$, two counter-terrainers $2$ and three stockpiles $1$. Complete the paper, knowing that there are no photos that have the correct orientation (each rotated).
+
+![[src_bocconi_finaleint_2008_g1__Q12.png]]
+
+**Answer:** 1 soluzione
+[[src_bocconi_finaleint_2008_g1__Q12]]

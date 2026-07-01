@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2025_femminile__Q21
 parent: src_squadre_2025_femminile
 competition: Gara a Squadre Femminile 2025 - VIII Finale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_analitica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coordinate Candace per area massima triangolo con ellissi*
 
@@ -67,3 +70,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 216
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Candace coordinates for the maximum area of the triangle with ellipses*
+
+> Phineas, Ferb, and Candace discover that the mall will be auditioning to become a pop star. While the boys compose a song, Candace is in line for the audition. During the show the three brothers sing Gitchi-Gitchi-Goo. Imagining the stage as a Cartesian plane, the choreography predicts that Candace will initially be at the point   0.12 C, Phineas at  5.0 P and Ferb at  0.0 F. At each verse of the song only one of the three moves onto the stage (or if he wants to stand still), following as a trajectory lellisse having as fires the other two brothers. At the end of the song Ferb is at the point   1.9 , Phineas at   11.9 and Candace must position himself in any of the points that maximize the area of the triangle formed by the three boys. The record label, seeing the three performing, decides to make money by selling the guys' newly recorded video. But a strange green beam produced by Dr. Seuss's machine. Doofenshmirtz, just destroyed by Agent P., deletes every trace of the video. What coordinates can Candace be at? (Give as a response the product of all possible points of ascises and orders.)
+
+**Answer:** 216
+[[src_squadre_2025_femminile__Q21]]

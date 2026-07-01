@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2009 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2009__Q04
 parent: src_cn_ctst_2009
 competition: China National Team Selection Test 2009
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find nonempty set S in [ab,(a+1)(b+1)] making product ratio a perfect square*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'insieme non vuoto S in [ab,(a+1)(b+1)] rendendo il rapporto del prodotto un quadrato perfetto*
+
+> $a$, $b$ siano numeri reali positivi con $b - a \geq 2$. Prove che per due interi distinti $m$, $n$ nell'intervallo $(a, b)$, esiste un insieme non vuoto $S$ costituito da alcuni interi nell'intervallo $[ab, (a+1)(b+1)]$, e che $\frac{\prod_{s \in S} s}{mn(m+n+1)^2}$ è un quadrato di un numero razionale. (Posato da Yu Hongbing)
+
+[[src_cn_ctst_2009__Q04]]

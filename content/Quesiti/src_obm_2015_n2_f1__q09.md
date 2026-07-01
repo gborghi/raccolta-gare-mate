@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q09
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length GC in figure with equilateral triangle and trisected segment*
 
@@ -45,3 +48,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza GC in figura con triangolo equilaterale e segmento triciclato*
+
+> Nella figura accanto, i lati $CD$ e $AB$ sono paralleli. $ABC$ è un triangolo equilaterale, $DG=GF=FE$ e $AB=12$; determina la lunghezza di $GC$.
+> 
+> (A) 4 (B) 3 (C) 8 (D) 5 (E) 2
+
+![[src_obm_2015_n2_f1__Q09.png]]
+
+[[src_obm_2015_n2_f1__Q09]]

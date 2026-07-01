@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Region 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_r2__Q04
 parent: src_rmo_2014_r2
 competition: Regional Mathematical Olympiad 2014
@@ -33,6 +34,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove sum of reciprocals of consecutive prime pairs equals (n-1)/(2n+2)*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zoLYrbaGeep3ecupcTbEh8c0vc3wHPKy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa provata delle reciprocità di coppie prime consecutive uguali (n-1)/(2n+2)*
+
+> Per qualsiasi numero intero positivo $n > 1$, $P(n)$ indica il primo più grande non superiore a $n$. $N(n)$ indichi il primo successivo più grande di $P(n)$. (ad esempio $P(10) = 7$ e $N(10) = 11$, mentre $P(11) = 11$ e $N(11) = 13$.) Se $n + 1$ è un numero primo, dimostrare che il valore della somma $$\frac{1}{P(2)N(2)} + \frac{1}{P(3)N(3)} + \frac{1}{P(4)N(4)} + \cdots + \frac{1}{P(n)N(n)}$$ è uguale a $\dfrac{n-1}{2(n+2)}$.
+
+[[src_rmo_2014_r2__Q04]]

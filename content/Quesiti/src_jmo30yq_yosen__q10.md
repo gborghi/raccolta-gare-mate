@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo30yq_yosen__Q10
 parent: src_jmo30yq_yosen
 competition: Japan Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Place 4 black and 4 white pieces on 8x8 chessboard, one per row/column, count arrangements*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 20736
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oHX_GQZJDTBlvtnbIuZXefxtsbXuWYXR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Posizionare 4 pezzi neri e 4 bianchi su scacchi 8x8, uno per riga/colonna, ordini di conteggio*
+
+> Considerate una scacchiera $8 \times 8$ (con quadrati in bianco e nero alternati nel solito colore). Posizionare sul tabellone $4$ pezzi neri e $4$ pezzi bianchi, un pezzo per riga e un pezzo per colonna (così sono occupate esattamente le celle $8$), a condizione che in ogni riga e in ogni colonna ci sia esattamente un pezzo $1$, che viene posto su una cella nera se è un pezzo nero e su una cella bianca se è un pezzo bianco.
+> 
+> Gli accordi che coincidono dopo la rotazione o la riflessione sono ancora considerati come distinti. Quante sono queste disposizioni?
+
+![[src_jmo30yq_yosen__Q10.png]]
+
+**Risposta:** 20736
+[[src_jmo30yq_yosen__Q10]]

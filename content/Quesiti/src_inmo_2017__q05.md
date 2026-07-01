@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2017 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2017__Q05
 parent: src_inmo_2017
 competition: Indian National Mathematical Olympiad 2017
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Altitude foot perpendicular to line joining incenters of sub-triangles*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z6pnzbJ-kW6s92b3_JnLtyC_FzIH6VDc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Altitudine perpendicolare ai centri di collegamento delle linee dei subtriangoli*
+
+> Il $ABC$ deve essere un triangolo con $\angle A = 90^\circ$ e $AB < AC$. L'altitudine di $AD$ deve essere da $A$ a $BC$. $P$, $Q$ e $I$ indicano rispettivamente gli incentri dei triangoli $ABD$, $ACD$ e $ABC$. Prova che $AI$ è perpendicolare a $PQ$ e $AI = PQ$.
+
+[[src_inmo_2017__Q05]]

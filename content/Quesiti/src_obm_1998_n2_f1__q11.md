@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f1__Q11
 parent: src_obm_1998_n2_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sparrows on branches: count given landing rules*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sparrows on branches: count given landing rules*
+
+> I passeri giocano intorno a un vecchio albero. Se due passeri atterrano su ogni ramo, un passero volando. Se tutti i passeri sbarcano sul medesimo ramo (tre su ciascuno), un ramo rimane vuoto. Quanti passeri ci sono?
+> 
+> A) 6 B) 9 C) 10 D) 12 E) 15
+
+**Risposta:** B
+[[src_obm_1998_n2_f1__Q11]]

@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2010 — Quesito
   8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2010__Q08
 parent: src_bocconi_finalenaz_2010
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2010
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parallelogrammi formati da tre fasci di rette parallele*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 27
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Parallelograms consisting of three beams of parallel lines*
+
+> Draw two parallel lines, then three parallel lines in the second direction, and finally four parallel lines in the third direction, different from the previous two.
+> 
+> **In the figure, how many parallelograms at most do you see? **
+
+**Answer:** 27
+[[src_bocconi_finalenaz_2010__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1992 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1992__Q02
 parent: src_cgen_1992
 competition: Concours Général des Lycées 1992 — Matematica
@@ -35,6 +36,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inscribed triangles and quadrilaterals maximising sum of squared sides*
 
@@ -53,3 +56,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZ9QI0PLQ5Otld5uyWvEEwVbZqMgMWD2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangoli e quadrilaterali inseriti che massimizzano la somma dei lati quadrati*
+
+> Il $(C)$ deve essere un cerchio del piano del raggio $1$.
+> 
+> **1.** Determinare i triangoli $ABC$ inseriti nel cerchio $(C)$ per i quali la somma $$AB^2 + BC^2 + CA^2$$ è massima.
+> 
+> **2.** Determinare i quadrilaterali $ABCD$ inseriti nel cerchio $(C)$ per i quali la somma $$AB^2 + AC^2 + AD^2 + BC^2 + BD^2 + CD^2$$ è massima. Rappresenta un quadrilaterale.
+
+[[src_cgen_1992__Q02]]

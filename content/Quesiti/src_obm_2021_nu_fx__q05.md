@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2021_nu_fx__Q05
 parent: src_obm_2021_nu_fx
 competition: Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Characterize all real triples that are eigenvalues of a 3×3 non-negative matrix*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MgR4bVfP7Fq55ZFrheOqs-UCf6k35qyg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Caracterizzare tutti i tripli reali che sono valori propri di una matrice non negativa 3×3*
+
+> Determinare tutti i tripli $(\lambda_1, \lambda_2, \lambda_3) \in \mathbb{R}^3$ in modo tale che esista una matrice $3 \times 3$ $A_{3 \times 3}$ con entrate reali non negative i cui valori propri sono $\lambda_1, \lambda_2, \lambda_3$.
+
+[[src_obm_2021_nu_fx__Q05]]

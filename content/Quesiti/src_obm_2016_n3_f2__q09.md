@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f2__Q09
 parent: src_obm_2016_n3_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2
@@ -39,6 +40,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trailing zeros of the q-binomial coefficient C(2016,38)_q as a polynomial in q*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Zero di seguito del coefficiente binomial q C(2016,38)_q come polinomio in q*
+
+> In combinatorica, esistono $q$-analoghi di conti combinatori; fondamentalmente, sostituisco $n$ con $[n]_q$, dove $[n]_q = 1 + q + q^2 + \cdots + q^{n-1}$. Il $q$-fattoriale è $$[n]_q! = [1]_q \cdot [2]_q \cdots [n]_q = 1\cdot(1+q)\cdot(1+q+q^2)\cdots(1+q+q^2+\cdots+q^{n-1}).$$ Dato che $\dbinom{n}{k}_q = \dfrac{[n]_q!}{[k]_q!\,[n-k]_q!}$, con quanti zeri termina il $q$-binomio $\dbinom{2016}{38}_q$ (come polinomio in $q$)?
+
+[[src_obm_2016_n3_f2__Q09]]

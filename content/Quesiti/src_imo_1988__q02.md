@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1988 (29th IMO, Canberra) — Quesito 2'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1988__Q02
 parent: src_imo_1988
 competition: 'IMO 1988 (29th IMO, Canberra)'
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *when can elements be labeled 0/1 evenly*
 
@@ -42,3 +45,13 @@ tags:
 **Metodo:** [[method_colorazione|Colorazione / parita]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Ybq-uT2smNXXPn3zPVTn60m5ILt7Hzss/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>when can elements be labelled 0/1 evenly< MSK1/>
+
+> Let n be a positive integer and let A1, A2, . . . , A2n+1 be subsets of a set B. Suppose that (a) Each Ai has exactly 2n elements, (b) Each Ai ∩Aj (1 ≤i < j ≤2n + 1) contains exactly one element, and (c) Every element of B belongs to at least two of the Ai. For which values of n can one assign to every element of B one of the numbers 0 and 1 in such a way that Ai has 0 assigned to exactly n of its elements?
+
+[[src_imo_1988__Q02]]

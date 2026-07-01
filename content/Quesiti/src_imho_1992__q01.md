@@ -1,6 +1,7 @@
 ---
 title: IMO 1992 (XXXIII International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1992__Q01
 parent: src_imho_1992
 competition: IMO 1992 (XXXIII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find integers a,b,c with divisibility condition*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find integers a,b,c with divisibility condition*
+
+> Find all integers $a, b, c$ with $1 < a < b < c$ such that $$(a-1)(b-1)(c-1)$$ is a divisor of $abc - 1$.
+
+[[src_imho_1992__Q01]]

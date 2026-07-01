@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 2 —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_nu_f2__Q06
 parent: src_obm_2008_nu_f2
 competition: Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 2
@@ -40,6 +41,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ordered tuples with product at most n; bound f(n) between two powers*
 
@@ -56,3 +59,19 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zIWUXA6Yj_C2VT4GI2D1j5bIQWRZ6D6F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Contare i tuppi ordinati con prodotto massimo n; legato f(n) tra due potenze < MSK1/>
+
+> Per un numero intero positivo $n$, $f(n)$ è il numero di prodotti di numeri interi superiori a $1$ il cui risultato è al massimo $n$; cioè $f(n)$ è il numero di $k$-tupli $(a_1,a_2,\ldots,a_k)$ dove $k$ è un numero naturale, $a_1\ge 2$ è un numero intero, e $a_1\cdot a_2\cdots a_k\le n$ per ogni $i$ e $a_1\cdot a_2\cdots a_k\le n$ (conteggiando il numero vuoto $0$-tuplo $()$, il cui prodotto è $1$, come un termine). Quindi, ad esempio, $f(1)=1$ per il $0$-tuple; $f(6)=9$ per il $0$-tuple $()$, i $1$-tuple $(2),(3),(4),(5),(6)$, i $2$-tuple $(2,2),(2,3)$ e $(3,2)$.
+> 
+> Che $\alpha>1$ sia tale che $\displaystyle\sum_{m=2}^{\infty}\frac{1}{m^{\alpha}}=\frac{1}{2}$.
+> 
+> a) Prove che esiste una costante $K>0$ tale che $f(n)\le K\cdot n^{\alpha}$ per ogni intero positivo $n$.
+> 
+> b) dimostrare l'esistenza di una costante $c>0$ tale che $f(n)\ge c\cdot n^{\alpha}$ per ogni intero positivo $n$.
+
+[[src_obm_2008_nu_f2__Q06]]

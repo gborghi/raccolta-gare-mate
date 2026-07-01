@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q08
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find n in tennis club with n left-handed, 2n right-handed players, given win ratio 3:4*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova n in un club da tennis con n giocatori a sinistra, 2n a destra, dato il rapporto di vittoria 3:4*
+
+> Un club di tennis ha giocatori di sinistra $n$ e di destra $2n$, con meno di 20 giocatori in totale. Nell'ultimo campionato, ogni giocatore ha giocato contro ogni altro giocatore di club esattamente una volta. Ogni giocatore a sinistra batte esattamente 20 giocatori a destra (in totale, in tutte le partite), e il rapporto tra il totale delle partite vinte da giocatori a sinistra e il totale delle partite vinte da giocatori a destra è $3:4$. Qual è il valore di $n$?
+> 
+> A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) Sono necessarie ulteriori informazioni.
+
+**Risposta:** C
+[[src_obm_2003_n3_f1__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f1__Q08
 parent: src_obm_2016_n3_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Finding angle x from configuration with regular polygons (square, pentagon, octagon) and isosceles triangles*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca dell'angolo x dalla configurazione con poligoni regolari (quadrato, pentagono, ottagono) e triangoli a pieghe uguali*
+
+> L'angolo interno di un poligono regolare con lati $n$ è $\frac{180^\circ(n-2)}{n}$. Nella configurazione uno ha $\angle ABL=90^\circ$, $\angle ABI=108^\circ$ e $\angle ABC=135^\circ$ (angoli di un quadrato, un pentagono regolare e un ottagono regolare), quindi $\angle CBI=27^\circ$ e $\angle LBC=360^\circ-90^\circ-135^\circ=135^\circ$. Poiché $LB=BC=BI$, i triangoli $LBC$ e $CBI$ sono uguali a base $LC$ e $CI$, dando $x=\angle LCB+\angle BCI=\frac{180^\circ-135^\circ}{2}+\frac{180^\circ-27^\circ}{2}=99^\circ$. Trova < MSK13/>. [Valore della chiave di risposta: $x=99^\circ$.]
+
+**Risposta:** D
+[[src_obm_2016_n3_f1__Q08]]

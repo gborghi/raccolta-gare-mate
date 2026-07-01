@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Écolier (gara marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_marzo__Q06
 parent: src_kangourou_2017_ecolier_marzo
 competition: Kangourou 2017 Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti pezzi di specchio hanno esattamente quattro lati*
 
@@ -50,3 +53,27 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qBsZ2ryuPZr8adQsZ3WyVsWvpOn1ZiFC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many mirror pieces have exactly four sides?
+
+![[src_kangourou_2017_ecolier_marzo__prob6.png]]
+
+> That Kangoo's monkey hit too hard on the mirror that broke into so many pieces. How many of them have exactly four sides?
+>        	
+> A) 2
+> 	
+> B) 4
+> 	
+> C) 6
+> 	
+> 	
+> D) 5
+> 	
+> E) 3
+
+**Answer:** B
+[[src_kangourou_2017_ecolier_marzo__Q06]]

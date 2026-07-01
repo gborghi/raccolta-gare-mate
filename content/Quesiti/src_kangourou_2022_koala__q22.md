@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Koala — Gioco Koala — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_koala__Q22
 parent: src_kangourou_2022_koala
 competition: Kangourou 2022 Koala — Gioco Koala
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale strada percorre*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Nyec1GxOQ3f28I_D0c1kacejlV99W-GD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*which road it takes*
+
+![[src_kangourou_2022_koala__prob22.png]]
+
+> Kanga's car can only turn right; it can never turn left. Which of the following roads can you take, if you choose the starting point appropriately? (see figure)
+
+**Answer:** A
+[[src_kangourou_2022_koala__Q22]]

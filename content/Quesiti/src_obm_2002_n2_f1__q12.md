@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f1__Q12
 parent: src_obm_2002_n2_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Product of one million natural numbers equals one million; find maximum sum*
 
@@ -54,3 +57,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il prodotto di un milione di numeri naturali è uguale a un milione; trovare la somma massima *
+
+> Il prodotto di un milione di numeri naturali equivale a un milione. Qual è il valore più grande possibile della somma di questi numeri?
+>
+> - **(A)** $1{,}000{,}000$
+> - **(B)** $1{,}250{,}002$
+> - **(C)** $1{,}501{,}999$
+> - **(D)** $1{,}999{,}999$
+> - **(E)** $13{,}999{,}432$
+
+**Risposta:** B
+[[src_obm_2002_n2_f1__Q12]]

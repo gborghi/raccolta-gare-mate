@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q20
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Units digit of a power tower of 7 with 2002 sevens*
 
@@ -48,3 +51,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Unita' di una torre elettrica di 7 con sette del 2002*
+
+> Qual è la cifra di unità di $7^{7^{7^{\cdot^{\cdot^{\cdot^{7}}}}}}$, dove appaiono sette del 2002? (A) 7 (B) 9 (C) 3 (D) 1 (E) 5
+
+**Risposta:** C
+[[src_obm_2002_n3_f1__Q20]]

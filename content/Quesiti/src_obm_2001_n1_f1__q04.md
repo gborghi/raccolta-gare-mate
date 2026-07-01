@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f1__Q04
 parent: src_obm_2001_n1_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count two-digit numbers that are neither prime nor multiples of 2, 3 or 5*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri a due cifre che non sono né prime né moltipli di 2, 3 o 5*
+
+> Quanti numeri a due cifre non sono né prime né multipli di $2$, $3$ o $5$?
+> 
+> (A) $1$ \quad (B) $3$ \quad (C) $2$ \quad (D) $4$ \quad (E) più di $4$
+
+**Risposta:** B
+[[src_obm_2001_n1_f1__Q04]]

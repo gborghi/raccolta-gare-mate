@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2002 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2002__Q02
 parent: src_rmo_2002
 competition: Regional Mathematical Olympiad 2002
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve the equation $(x^2+x-2)^4+(2x^2-x-1)^4=27(x^2-1)^4$*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_m3GjaVBEfcL0ShA4FjgFrQjp3KoeJKA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi l'equazione $(x^2+x-2)^4+(2x^2-x-1)^4=27(x^2-1)^4$*
+
+> Risolvere la seguente equazione per $x$ reale: $$(x^2 + x - 2)^4 + (2x^2 - x - 1)^4 = 27(x^2 - 1)^4.$$
+
+[[src_rmo_2002__Q02]]

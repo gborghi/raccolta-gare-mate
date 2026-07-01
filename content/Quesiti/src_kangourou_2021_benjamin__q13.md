@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q13
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tessera che non puo stare al centro del labirinto*
 
@@ -55,3 +58,30 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tessera that can't be in the middle of the maze*
+
+![[src_kangourou_2021_benjamin__prob13.png]]
+
+> Rosa travels through the maze in the figure entering the point indicated by the arrow to the left and leaving the point indicated by the arrow to the right. Which of the following cards cannot be placed in the center of the figure? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> 	
+> 	
+> 	
+> 	
+> 	
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** D
+[[src_kangourou_2021_benjamin__Q13]]

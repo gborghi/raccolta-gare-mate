@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q26
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti non usati nel cubo con 9 tunnel*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Unused cube in the 9-tunnel cube*
+
+![[src_kangourou_2017_cadet_marzo__prob26.png]]
+
+> Michele had 110 cubes. He glued a part of it together to form a large cube with 9 tunnels running through the entire cube as shown in the figure. How many cubes did you not use? A) 37
+> 	
+> B) 30
+> 	
+> C) 27
+> 	
+> D) 24
+> 	
+> E) 21
+
+**Answer:** A
+[[src_kangourou_2017_cadet_marzo__Q26]]

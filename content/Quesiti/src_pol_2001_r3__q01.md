@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2001 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2001_r3__Q01
 parent: src_pol_2001_r3
 competition: Olimpiade Matematica Polacca 2001 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove an inequality involving sums of i*x_i and x_i^i for n nonnegative reals.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NdQKIsmLWVns4DWiT4Xy-7m3Ys5L9SOW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove una disuguaglianza che coinvolge somme di i*x_i e x_i per n reali non negativi.*
+
+> Prove che per tutti i numeri reali non negativi $x_1, x_2, \ldots, x_n$ ($n \ge 2$) è valida la seguente disuguaglianza: $$\sum_{i=1}^{n} i x_i \le \binom{n}{2} + \sum_{i=1}^{n} x_i^i.$$
+
+[[src_pol_2001_r3__Q01]]

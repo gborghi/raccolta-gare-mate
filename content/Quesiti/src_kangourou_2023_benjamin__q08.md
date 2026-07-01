@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin__Q08
 parent: src_kangourou_2023_benjamin
 competition: Kangourou 2023 Benjamin — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *terna visibile*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*visible fireplace*
+
+![[src_kangourou_2023_benjamin__prob8.png]]
+
+> On a clock (pictured left) a circle of grey cardboard with three holes was overlaid. Now the circle is rotated around its center. Which of the following sets of numbers can be seen after rotation? A) 2, 4 e 9 B) 1, 5, e 10 C) 4, 6 e 12 D) 3, 6, e 9 E) 5, 7, e 12
+
+**Answer:** C
+[[src_kangourou_2023_benjamin__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r3__Q03
 parent: src_pol_2004_r3
 competition: Olimpiade Matematica Polacca 2004 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest number of draw-triples in round-robin tournament*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xVPNuxhSgv3eEtgJe42pRAq5eC6MhKAl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Più alto numero di tripli di sorteggi nel torneo di round-robin*
+
+> In un torneo con partecipanti $n \ge 3$, ogni due partecipanti hanno giocato esattamente una partita e non ci sono stati tassi. Un insieme di partecipanti a tre elementi è chiamato un triplo di pareggio se può essere enumerato in modo che il primo sconfigga il secondo, il secondo sconfigga il terzo e il terzo sconfigga il primo. Trova il maggior numero possibile di tripli di sorte in un tale torneo.
+
+[[src_pol_2004_r3__Q03]]

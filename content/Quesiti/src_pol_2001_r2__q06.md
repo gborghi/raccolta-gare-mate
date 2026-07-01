@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2001 — Round 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2001_r2__Q06
 parent: src_pol_2001_r2
 competition: Olimpiade Matematica Polacca 2001 — Round 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute |A_n|-|B_n|, the difference between counts of n-element subsets of {1,...,2n} with even and odd element sums.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dO7OqqHjPcVUusxRxcY7zUJe_pdXhL9d/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolazione \A_n_di_di_di_di, la differenza tra i conti di sottoinsiemi di elementi di {1,...,2n} con somme di elementi pari e odd.*
+
+> Per un intero positivo $n$, $A_n$ e $B_n$ siano le famiglie dei sottosetti di $n$-elementi di $S_n=\{1,2,\ldots,2n\}$ con rispettivamente somme pari e odd di elementi. Calcolare < MSK5/>.
+
+[[src_pol_2001_r2__Q06]]

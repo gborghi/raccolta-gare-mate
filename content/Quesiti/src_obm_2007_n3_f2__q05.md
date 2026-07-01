@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f2__Q05
 parent: src_obm_2007_n3_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of valid two-letter colorings of a board with no two equal consecutive letters in the first row*
 
@@ -53,3 +56,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zX7z5wzrS24GDIg6SjMeYYN4pu7op9WA/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di colori validi a due lettere di una lavagna senza due lettere consecutive uguali nella prima riga*
+
+> Ogni cella di una lavagna deve essere colorata con una delle due lettere $V$ o $A$. Una colorazione della prima riga è l'assegnazione di una di queste lettere a ciascuna delle sue celle. Una volta colorata la prima riga, ogni altra cella della lavagna viene forzata secondo la regola di riempimento della lavagna, e una colorazione è valida solo se due celle consecutive della prima riga non contengono la stessa lettera, con la condizione analoga che si propaga attraverso il resto della lavagna. Per la lavagna in questione, determinare il numero totale di coloranti validi. In generale, per una lavagna $n \times n$ il numero di tali coloranti è $2^{n+1} - 2$.
+
+![[src_obm_2007_n3_f2__Q05.png]]
+
+**Risposta:** 62
+[[src_obm_2007_n3_f2__Q05]]

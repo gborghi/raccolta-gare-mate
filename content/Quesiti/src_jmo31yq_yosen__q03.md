@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo31yq_yosen__Q03
 parent: src_jmo31yq_yosen
 competition: Japan Mathematical Olympiad 2021 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle: feet of perpendiculars from interior point; find AB*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $4\sqrt{7}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles: piedi di perpendicolari dal punto interno; trovare AB*
+
+> Lasciate che $ABC$ sia un triangolo di uguali dimensioni con $AB=AC$, e lasciate che $P$ sia un punto all'interno di esso. I piedi $D$, $E$ e $F$ siano i piedi delle perpendicolari abbassate rispettivamente da $P$ ai lati $BC$, $CA$ e $AB$. Supponiamo $BD=9$, $CD=5$, $PE=2$, $PF=5$. Trova la lunghezza del lato $AB$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+![[src_jmo31yq_yosen__Q03.png]]
+
+**Risposta:** 4\sqrt{7}
+[[src_jmo31yq_yosen__Q03]]

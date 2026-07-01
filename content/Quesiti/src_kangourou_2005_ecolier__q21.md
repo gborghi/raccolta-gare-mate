@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Ecolier (marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_ecolier__Q21
 parent: src_kangourou_2005_ecolier
 competition: Kangourou 2005 - Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di due numeri con differenza 989*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of two numbers with difference 989*
+
+> Libor chose two integers greater than zero, one three-digit and one two-digit. Their difference is 989. How much is their sum? The Commission has not yet adopted a proposal for a regulation on the protection of the environment. I'm going to pay. 8 Kang 2005 Kang 2005 28 m 24 m Ecolier_05_D.qxp 21/02/2005
+> 
+> I'm going to pay. I'm going to pay. 9 Kang 2005 Kang
+
+**Answer:** C
+[[src_kangourou_2005_ecolier__Q21]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Biennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_biennio__Q14
 parent: src_archimede_2000_biennio
 competition: Giochi di Archimede 2000 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo combinazioni lucchetto con due cifre uguali*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum combinations of locks with two equal digits*
+
+> A thief spies Marco as he closes his suitcase with a 3-digit combination lock (each digit goes from 0 to 9). He couldn't see the combination but he could figure out that two consecutive digits are the same and the third is different. What is the maximum number of combinations the thief will have to try to open Mark's suitcase?
+>
+> - **(A)** 180
+> - **(B)** 190
+> - **(C)** 200
+> - **(D)** 210
+> - **(E)** 220.
+
+**Answer:** A
+[[src_archimede_2000_biennio__Q14]]

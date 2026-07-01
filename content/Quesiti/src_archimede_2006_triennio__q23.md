@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Triennio — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_triennio__Q23
 parent: src_archimede_2006_triennio
 competition: Giochi di Archimede 2006 - Gara Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo HCD da segmenti in un quadrato*
 
@@ -64,7 +67,7 @@ tags:
 > - **(B)** 48 m2,
 > - **(C)** 54 m2,
 > - **(D)** 60 m2,
-> - **(E)** 72 m2. C D E F A B H
+> - **(E)** 72 m2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
@@ -72,3 +75,46 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*HCD triangle area from segments in a square*
+
+![[src_archimede_2006_triennio__prob23.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (6,0);
+  \coordinate (C) at (6,6);
+  \coordinate (D) at (0,6);
+  \coordinate (E) at (2,0);
+  \coordinate (F) at (4,0);
+  \coordinate (H) at (3,1.5);
+  \draw (A) -- (B) -- (C) -- (D) -- cycle;
+  \draw (E) -- (C);
+  \draw (F) -- (D);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above right] at (C) {$C$};
+  \node[above left] at (D) {$D$};
+  \node[below] at (E) {$E$};
+  \node[below] at (F) {$F$};
+  \node[above right] at (H) {$H$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the ABCD square, having a side length of 12 m, the AB side is divided into three segments AE, EF and FB of equal length. The EC and FD segments intersecting at point H shall be mapped. What is the area of the HCD triangle?
+>
+> - **(A)** 36 m2,
+> - **(B)** 48 m2,
+> - **(C)** 54 m2,
+> - **(D)** 60 m2,
+> - **(E)** 72 m2.
+
+**Answer:** C
+[[src_archimede_2006_triennio__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_b__Q15
 parent: src_cesenatico_2005_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2005 - Semifinale B
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area massima di due semicerchi da stoffa 140x70*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8357
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iFfFchZtZKQhrAMA0KsBO1ZR930Z0xA7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum area of two semicircles of fabric 140x70*
+
+> Two semicircles are to be made from a piece of fabric < MSK0/> cm long and < MSK1/> cm wide so as to use as much fabric as possible. What is the total area of the fabric used?
+
+**Answer:** 8357
+[[src_cesenatico_2005_squadre_semifinale_b__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Finale Cadet (Mirabilandia) — Quesito C5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet_finale__QC5
 parent: src_kangourou_2011_cadet_finale
 competition: Kangourou 2011 Finale Cadet (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero di C sempre uguale*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1CSbNPNjOuK69g0kstyR_wlz5kbo88MzC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*number of C always equal*
+
+![[src_kangourou_2011_cadet_finale__probC5.png]]
+
+> You have a grid. You want to insert in each box one and only one of the letters $A$, $B$, $C$ so that:
+> 
+> - in each row the number of boxes with the letter $A$ is not less than the number of boxes with the letter $B$ and the number of boxes with the letter $C$; - in each column the number of boxes with the letter $B$ is not less than the number of boxes with the letter $A$ and the number of boxes with the letter $C$.
+> 
+> It shows that you can achieve your goal in different ways, but that the number of boxes with the letter $C$ is always the same. What is it? Why? Why?
+
+**Answer:** 7
+[[src_kangourou_2011_cadet_finale__QC5]]

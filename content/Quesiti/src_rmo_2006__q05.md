@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2006 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2006__Q05
 parent: src_rmo_2006
 competition: Regional Mathematical Olympiad 2006
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tangential quadrilateral with AB∥CD and AB=3CD; find inradius*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Quadrilatero tangenziale con ABCD e AB=3CD; trovare inradius< MSK1/>
+
+> Il $ABCD$ è un quadrilaterale in cui $AB$ è parallelo a $CD$ e perpendicolare a $AD$; $AB = 3CD$; e la superficie del quadrilaterale è 4. Se si può disegnare un cerchio che tocchi tutti i lati del quadrilaterale, trovare il suo raggio.
+
+![[src_rmo_2006__Q05.png]]
+
+[[src_rmo_2006__Q05]]

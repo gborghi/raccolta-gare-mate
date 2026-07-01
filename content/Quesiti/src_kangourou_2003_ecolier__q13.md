@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q13
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area coperta dalla lettera N*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area covered by the letter N*
+
+![[src_kangourou_2003_ecolier__prob13.png]]
+
+> Since the sides of each square are 1 cm long, what is the area of the surface covered by the letter N in the figure? A) 14 cm2 B) 15 cm2 C) 16 cm2 D) 17 cm2 E) 18 cm2
+
+**Answer:** E
+[[src_kangourou_2003_ecolier__Q13]]

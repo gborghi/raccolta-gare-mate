@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q19
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of quadrilateral with perpendicular DC in circle*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area quadrilaterale con DC perpendicolare in cerchio*
+
+> Il $AB$ deve essere un diametro di un cerchio e il $C$ deve essere un punto del cerchio tale che $AC : CB = 6 : 7$. Il $D$ deve essere un punto del cerchio tale che $DC$ sia perpendicolare a $AB$. Il diametro di $DE$ deve essere $D$. Se $[XYZ]$ indica l'area del triangolo $XYZ$, trovare $[ABD]/[CDE]$ al numero intero più vicino.
+
+[[src_prmo_2019__Q19]]

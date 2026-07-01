@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2004 - Gara Biennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2004_biennio__Q11
 parent: src_archimede_2004_biennio
 competition: Giochi di Archimede 2004 - Gara Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quante soluzioni intere positive*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2005
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>how many positive whole solutions< MSK1/>
+
+> What are the ordered pairs of natural numbers $(x, y)$, $x > 0$ and $y > 0$, such as $5 < x + y \leq 10$? (Note: they are considered ordered pairs, so for example $(1, 2)$ and $(2, 1)$ are separate pairs).
+>
+> - **(A)** 20
+> - **(B)** 25
+> - **(C)** 30
+> - **(D)** 35
+> - **(E)** None of the preceding
+
+**Answer:** 2005
+[[src_archimede_2004_biennio__Q11]]

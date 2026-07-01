@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f1__Q03
 parent: src_obm_2012_n3_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum interviewees so two answer all four questions identically*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di intervistati quindi due rispondono alle quattro domande identicamente*
+
+> In un sondaggio stradale, ogni intervistato rispose a quattro domande, e poteva dare solo una risposta a ciascuna domanda. Così la stessa persona può dare le stesse o diverse risposte alle domande. Qual è il numero minimo di intervistati che garantisce che almeno due persone rispondano a tutte le domande nello stesso modo?
+> 
+> **A)** 16 $\quad$ **B)** 17 $\quad$ **C)** 9 $\quad$ **D)** 5 $\quad$ **E)** 33
+
+[[src_obm_2012_n3_f1__Q03]]

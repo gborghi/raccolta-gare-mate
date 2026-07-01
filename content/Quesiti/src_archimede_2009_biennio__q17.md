@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Biennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_biennio__Q17
 parent: src_archimede_2009_biennio
 competition: Giochi di Archimede 2009 - Biennio
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordine tra a, b e 1 data disuguaglianza cubica*
 
@@ -49,3 +52,20 @@ tags:
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Orders between a, b and 1 given cubic inequality*
+
+> a and b are two numbers greater than or equal to zero. We know that: a3 + a < b − b3. What is the correct order between the three numbers a, b and 1?
+>
+> - **(A)** b < a < 1,
+> - **(B)** a = b = 1,
+> - **(C)** a < 1 < b,
+> - **(D)** a < b < 1,
+> - **(E)** 1 < a < b.
+
+**Answer:** D
+[[src_archimede_2009_biennio__Q17]]

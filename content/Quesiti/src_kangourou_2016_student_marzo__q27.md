@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q27
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area parte chiara visibile della striscia piegata due volte*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Clear area visible from the double-folded strip*
+
+![[src_kangourou_2016_student_marzo__prob27.png]]
+
+> A rectangular strip of paper with vertices A, B, C and D, 5 cm wide and 50 cm long, has a clear face and the other dark. Cristina bends the strip, light side against light side, so that the tip B overlaps the midpoint M of the CD side. Bend it a second time, always on the clear side, so that the D-top coincides with the middle N-point on the AB-side. How many square centimetres does the area of the clear part of the strip still visible in the figure measure? A) 50
+> 	
+> B) 60
+> 	
+> C) 62,5 D)100 E)125
+
+**Answer:** B
+[[src_kangourou_2016_student_marzo__Q27]]

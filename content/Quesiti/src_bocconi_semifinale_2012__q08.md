@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2012 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2012__Q08
 parent: src_bocconi_semifinale_2012
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2012
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di pressioni dei tasti 3, 5, +, = per visualizzare 2012 su una calcolatrice limitata.*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of key presses 3, 5, +, = to display 2012 on a limited calculator.*
+
+> This calculator is too old.
+> 
+> Luca found an old calculator that his father used at school. Time has ruined her further and now she only has four keys: the "3". the "5", the "+" and the "=" button (which is naturally pressed only once, before you get and see the final result of an operation written).
+> 
+> After turning it on, how many times did Luca press at least the keys on Dad's calculator (the ones that work) to see how 2012 was written?
+
+**Answer:** 16
+[[src_bocconi_semifinale_2012__Q08]]

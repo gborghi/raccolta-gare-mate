@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q02
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In che ordine sono passate le tre persone*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+In what order did the three people pass?
+
+![[src_kangourou_2019_ecolier_marzo__prob2.png]]
+
+> Three people walked through a snow-covered meadow with their scarves, leaving the footprints you see in the picture. In what order did they come through? A)
+> 	
+> B)
+> 	
+> C) D)
+>       	
+> E)
+
+**Answer:** A
+[[src_kangourou_2019_ecolier_marzo__Q02]]

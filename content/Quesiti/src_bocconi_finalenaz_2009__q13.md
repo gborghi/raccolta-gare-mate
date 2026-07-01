@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2009 — Quesito
   13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2009__Q13
 parent: src_bocconi_finalenaz_2009
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2009
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della stella luminosa nel quadrato di area 111*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 37 cm²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the bright star in the square of area 111*
+
+> A LIGHTING STAR The large square, which has an area of $111 \text{ cm}^2$, has been divided into nine equal squares. In each square thus obtained, a smaller square was drawn, also divided into nine equal squares. At this point a star was drawn (see figure). What is (in $\text{cm}^2$) the area of the star?
+
+![[src_bocconi_finalenaz_2009__Q13.png]]
+
+**Answer:** 37 cm²
+[[src_bocconi_finalenaz_2009__Q13]]

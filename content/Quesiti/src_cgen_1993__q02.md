@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1993 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1993__Q02
 parent: src_cgen_1993
 competition: Concours Général des Lycées 1993 — Matematica
@@ -35,6 +36,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of 2n+1 consecutive integers satisfying sum / sum-of-squares / sum-of-cubes equality*
 
@@ -60,3 +63,23 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di 2n+1 interi consecutivi che soddisfano la somma / somma di quadrati / somma di cubi uguale*
+
+> $n$ sia un dato numero intero rigorosamente positivo.
+> 
+> Esistono < MSK1/> numeri interi naturali consecutivi < MSK2/>, disposti in ordine crescente, che soddisfano: < MSK0/>
+> 
+> Esistono < MSK1/> numeri interi naturali consecutivi < MSK2/>, ordinati in ordine crescente, che soddisfano: < MSK0/>
+> 
+> Esistono < MSK1/> numeri interi naturali consecutivi < MSK2/>, disposti in ordine crescente, che soddisfano: < MSK0/>
+> 
+> Per quest'ultima domanda, si possono studiare le variazioni della funzione $f$ definita su $\mathbb{R}$ da: $$f(x) = (x-n)^3 + (x-n+1)^3 + \cdots + x^3 - (x+1)^3 - \cdots - (x+n)^3.$$ Si mostrerà che l'equazione $f(x) = 0$ ammette una soluzione unica $x_n$ soddisfacente $3n(n+1) < x_n < 3n(n+1) + 1$.
+> 
+> Si può usare l'identità $1^2 + 2^2 + \cdots + n^2 = \left[\dfrac{n(n+1)}{2}\right]^2$.
+
+[[src_cgen_1993__Q02]]

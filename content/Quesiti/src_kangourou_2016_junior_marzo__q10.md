@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q10
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Figura non inseribile in quadrato di lato 1 dm*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Figure not to be inserted into the side square 1 dm*
+
+> 10. Which of the following geometric figures is not inserted into a square of 1 dm side? A) A circle with a radius of 5 cm. (b) A regular octagon on the side of 3.5 cm. C) A rectangular triangle with a hypotenuse of 1 dm. JUNIOR D) An equilateral triangle with a perimeter of 3 dm. E) None of them. The questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** E
+[[src_kangourou_2016_junior_marzo__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2023 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2023__Q04
 parent: src_smc_2023
 competition: Senior Mathematical Challenge 2023
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Average speed of a record three-legged race*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Velocità media di una gara a tre zampe record*
+
+> Nel 2016, il record mondiale per aver completato una gara a tre zampe di 5000 m era di 19 minuti e 6 secondi. E' stato ambientato da Damian Thacker e Luke Symonds a Sheffield. Qual era la loro velocità media approssimativa in km/h?
+>
+> - **(A)** $10$
+> - **(B)** $12$
+> - **(C)** $15$
+> - **(D)** $18$
+> - **(E)** $25$
+
+**Risposta:** C
+[[src_smc_2023__Q04]]

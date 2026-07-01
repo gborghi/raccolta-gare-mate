@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale A — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_a__Q14
 parent: src_gas_2010_semifinale_a
 competition: Gara a Squadre 2010 - Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimi numeri di 5 cifre con cifre 0-9, uno doppio dell'altro*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8651
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum 5 digit numbers with digits 0 to 9, one double the other*
+
+> 14. The fraternity of the π-rates is made up of 9 π-noble rats plus Teague Disparrow, Jack's father. Each member holds one of the cards in a deck of 10 magic tarot decks, numbered from 0 to 9. To free Cauchypso from his human form, the π-rates must arrange all the cards in such a way as to form with them 2 5-digit numbers (none of which start with zero) that are one double the other and so that they are the largest possible. What are the last four digits of the smaller of the two?
+
+**Answer:** 8651
+[[src_gas_2010_semifinale_a__Q14]]

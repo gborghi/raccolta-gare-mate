@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q05
 parent: src_kangourou_2015_squadre_f
 competition: Kangourou Coppa Squadre 2015 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo numero fortunato (somma cifre div 17)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8899
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11h_SgvOFzLa5MkyUk9nA_Lj1BTGkSTzB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Little lucky number (sum of digits div 17) < MSK1/>
+
+> A lucky number Some believe that 17 brings good luck. So let's say that a positive integer is lucky if the sum of its digits is divisible by 17 and, when you add 1 to it, the sum of the digits of the new number you get is still divisible by 17. What's the smallest lucky number?
+
+**Answer:** 8899
+[[src_kangourou_2015_squadre_f__Q05]]

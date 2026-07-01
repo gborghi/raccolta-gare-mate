@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2025-26 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2025-26_round2__Q03
 parent: src_bmo_2025-26_round2
 competition: British Mathematical Olympiad 2025-26 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *30x30 grid with entries -1,0,1; 300 of each; row and column sums all different?*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ufYaIEDeZvv4lfnrA4qM8dub1wR1JKc3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*30x30 griglia con le voci -1,0,1; 300 di ciascuna; somma di righe e colonne diverse?*
+
+> Ogni cella di una griglia $30 \times 30$ contiene uno dei numeri $-1$, $0$ o $1$ con ciascuno di questi tre numeri che appare esattamente $300$ volte.
+> 
+> È possibile che le somme delle righe e delle colonne $60$ siano tutte diverse?
+
+[[src_bmo_2025-26_round2__Q03]]

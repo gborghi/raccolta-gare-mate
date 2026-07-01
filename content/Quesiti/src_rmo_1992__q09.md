@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1992 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1992__Q09
 parent: src_rmo_1992
 competition: Regional Mathematical Olympiad 1992
@@ -34,6 +35,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic octagon ABCDEFGH with alternating sides a,a,a,a,b,b,b,b; find circumradius in terms of a and b.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1E3JJBw_abvMOZ21Bh0CQ7FOsWYT93fGu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Octogono ciclico ABCDEFGH con lati alternati a,a,a,a,b,b,b,b; trovare il circondario in termini di a e b.*
+
+> L'ottagono ciclico $ABCDEFGH$ ha rispettivamente lati $a, a, a, a, b, b, b, b$. Trova il raggio del cerchio che circumscrive $ABCDEFGH$ in termini di $a$ e $b$.
+
+[[src_rmo_1992__Q09]]

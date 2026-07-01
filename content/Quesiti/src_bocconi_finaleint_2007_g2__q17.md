@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 2) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g2__Q17
 parent: src_bocconi_finaleint_2007_g2
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza massima percorsa da uno scarabeo sul patron dell'icosaedro*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 528,5 cm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum distance travelled by a beetle on the icosahedron's patron*
+
+> It is recalled that a regular icosahedron is a polyhedron whose < MSK0/> faces are identical equilateral triangles (with < MSK1/> vertices and < MSK2/> edges). Here, it's a lamp whose beams each measure $80$ cm in length. A beetle starts from the midpoint of a spike to follow a trajectory corresponding to a straight line on a flat, single-piece pattern of polyhedron. When touching a beam of a face already visited, < MSK18/> what distance, expressed in mm, will it have traveled, at most?< MSK19/> A face is considered to be visited if the distance traveled on this face is nothing. You can take $1{,}414$ for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$; $2{,}645$ for $\sqrt{7}$; $3{,}606$ for $\sqrt{13}$; $4{,}123$ for $\sqrt{17}$ and $4{,}359$ for $\sqrt{19}$, and round the distance to the nearest millimeter.
+
+**Answer:** 528,5 cm
+[[src_bocconi_finaleint_2007_g2__Q17]]

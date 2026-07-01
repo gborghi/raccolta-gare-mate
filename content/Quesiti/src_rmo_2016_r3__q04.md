@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2016 — Region 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2016_r3__Q04
 parent: src_rmo_2016_r3
 competition: Regional Mathematical Olympiad 2016
@@ -33,6 +34,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *100 countries, minimum languages so every 20 share one*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BaQ45FF4xT_9XnNK7XN2HDAIBbyW2GyF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>100 paesi, lingue minime in modo che ogni 20 condividano una < MSK1/>
+
+> Ci sono 100 paesi che partecipano ad una Olimpiada. Supponiamo che $n$ sia un numero intero positivo tale che ciascuno dei 100 paesi sia disposto a comunicare in esattamente $n$ lingue. Se un insieme di 20 paesi può comunicare in almeno una lingua comune e nessuna lingua è comune a tutti i 100 paesi, qual è il valore minimo possibile di $n$?
+
+[[src_rmo_2016_r3__Q04]]

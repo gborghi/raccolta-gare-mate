@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q04
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto eta zio-Alice al sesto compleanno*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Uncle-Alice's report on his sixth birthday*
+
+> Alice and her uncle were born on the same day: on the day of Alice's fourth birthday, her uncle turns seven times his age. On the day of Alice's sixth birthday, the ratio of her uncle's age to Alice's will be A) 2.
+> 	
+> B) 3.
+> 	
+> C) 4.
+> 	
+> D) 5.
+> 	
+> E) 7.
+
+**Answer:** D
+[[src_kangourou_2018_cadet_marzo__Q04]]

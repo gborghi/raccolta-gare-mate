@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q22
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Per quanti n la potenza n^300 ha <=100 cifre*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>For quantities n the power n^300 has <=100 digits< MSK1/>
+
+> For how many positive integers n is the power n 300 a number that, in decimal notation, has no more than 100 digits? A) 1 B) 2 C) 3 D) 4 E) More than 4, but a finite number.
+
+**Answer:** B
+[[src_kangourou_2006_student_marzo__Q22]]

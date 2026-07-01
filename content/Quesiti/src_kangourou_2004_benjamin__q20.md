@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q20
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante risposte corrette complessive (test)*
 
@@ -62,3 +65,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many overall correct answers (test) < MSK1/>
+
+> A closed-response test (such as Kangourou) consists of 10 questions. For each correct answer, 5 points are awarded, while for each wrong answer, 3 points are subtracted. All competitors answered all the questions: Angelo scored 34 points, Betta scored 10 and Clemente scored only 2. How many were the correct answers overall? (A) 17 B) 18 C) 15 D) 13 E) 21 A) B) C) D) E) Fin Pin Rin Tin
+> 
+> I'm going to pay. I'm going to pay. 14 14 Kang 2004 Kang 2004 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** A
+[[src_kangourou_2004_benjamin__Q20]]

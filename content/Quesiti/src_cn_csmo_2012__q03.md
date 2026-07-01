@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2012 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2012__Q03
 parent: src_cn_csmo_2012
 competition: China Southeastern Mathematical Olympiad 2012
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all composite n where largest two divisors equal a power of smallest three*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $n = 4 \times 6^l$ for $l \in \mathbf{N}^*$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i composti n dove i due più grandi divisori sono uguali a una potenza dei tre più piccoli*
+
+> Per il numero composto positivo $n$, indicare rispettivamente con $f(n)$ e $g(n)$ i tre divisori positivi più piccoli di $n$ e i due divisori positivi più grandi di $n$. Trova tutti $n$ in modo tale che $g(n)$ sia uguale a $f(n)$ a qualche potenza di numeri interi positivi. (Possibile da He Yijie)
+
+**Risposta:** $n = 4 \times 6^l$ for $l \in \mathbf{N}^*$
+[[src_cn_csmo_2012__Q03]]

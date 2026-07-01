@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre__Q12
 parent: src_kangourou_2023_ecolier_squadre
 competition: Kangourou Squadre 2023 Ecolier Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di Mattia dato numero di Carla 9 volte*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0075
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mattia number given Carla number 9 times *
+
+> Mattia Mattia's number has written an integer of two digits (i.e. not less than 10). Carla wrote a three-digit integer: that of the hundreds is 6 and is followed by Mattia's number: for example, if Mattia had written 12, Carla's number would be 612. Carla's number matches Mattia's number multiplied by 9. What's Mattia's number?
+
+**Answer:** 0075
+[[src_kangourou_2023_ecolier_squadre__Q12]]

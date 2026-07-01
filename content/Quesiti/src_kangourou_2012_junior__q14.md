@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Junior (gara marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior__Q14
 parent: src_kangourou_2012_junior
 competition: Kangourou 2012 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte e venuta croce*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many times did you cross it?
+
+> Daniel and Mary are playing their candy by throwing a coin. If he comes head, Daniel must give Mary 2 candy; if he comes cross, Mary must give Daniel 3 candy. After 30 coin tosses, they both have the same number of candies they had when they started playing. How many times has the cross come? A) 6 B) 12 C) 18 D) 24 E) 30
+
+**Answer:** B
+[[src_kangourou_2012_junior__Q14]]

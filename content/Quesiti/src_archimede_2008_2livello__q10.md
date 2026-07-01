@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_2livello__Q10
 parent: src_archimede_2008_2livello
 competition: Archimede Gara 2° livello 2008 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei reciproci delle radici di equazione reciproca*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of reciprocities of the roots of the reciprocal equation*
+
+> When x1, x2, x3 and x4 are used to indicate the solutions of the equation x4 −2x3 −7x2 −2x + 1 = 0, what is 1 x1 + 1 x2 + 1 x3 + 1 x4 ?
+>
+> - **(A)** 1
+> - **(B)** 1 2
+> - **(C)** 2
+> - **(D)** 4
+> - **(E)** 7.
+
+**Answer:** C
+[[src_archimede_2008_2livello__Q10]]

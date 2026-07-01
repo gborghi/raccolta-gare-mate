@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q08
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of squares of vowel and consonant counts in the correct answer*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa dei quadrati delle vocali e delle consonanti contati nella risposta corretta*
+
+> Qual è la somma dei quadrati delle quantità di vocali e consonanti della risposta corretta? Nota: non contare le lettere A, B, C, D, E delle alternative.
+> 
+> (A) Venti-sei (B) Settanta-tre (C) Ottantacinque (D) Novanta-sei (E) cento sedici
+
+[[src_obm_2015_n2_f1__Q08]]

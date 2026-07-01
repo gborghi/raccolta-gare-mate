@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q01
 parent: src_archimede_2014_febb_2livello
 competition: Archimede Gara di Febbraio 2014 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che due tetraedri colorati siano indistinguibili*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The probability that two colored tetrahedra are indistinguishable
+
+> The faces of two identical regular tetrahedra are colored red, white, green, blue; the colors are chosen randomly, but the four faces of each tetrahedra must all be different colors. What is the probability that after coloring the two tetrahedra are indistinguishable?
+>
+> - **(A)** 1 4!
+> - **(B)** 2 4!
+> - **(C)** 1 4
+> - **(D)** 1 2
+> - **(E)** 1
+
+**Answer:** D
+[[src_archimede_2014_febb_2livello__Q01]]

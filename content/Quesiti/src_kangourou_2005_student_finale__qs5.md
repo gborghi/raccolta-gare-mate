@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Student (finale nazionale) — Quesito S5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_student_finale__QS5
 parent: src_kangourou_2005_student_finale
 competition: Kangourou 2005 - Student (finale nazionale)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Croce greca su scacchiera 7x7 senza angoli*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** dimostrazione
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17jy_hcOypk4l2PIs-W5a2ozUpvF5XmFy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Greek cross on a 7x7 chessboard without corners*
+
+![[src_kangourou_2005_student_finale__probS5.png]]
+
+> Consider a chessboard $7 \times 7$ from which the 4 corner boxes have been removed; call each configuration of 5 its cross-arranged boxes Greek cross so that each box has at least one side in common with another box of the cross (so each cross has 4 equal arms each consisting of a box). It shows that it is possible to have 45 integers (not necessarily all different from each other) on the remaining 45 boxes, one per box, so that the total sum of these integers is negative, but the sum of the numbers corresponding to the boxes covered by any Greek cross is positive. (Suggest: identify a conveniently small $S$ set of boxes with the property that each Greek cross covers at least one box belonging to $S$.)
+
+**Answer:** dimostrazione
+[[src_kangourou_2005_student_finale__QS5]]

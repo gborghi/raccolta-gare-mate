@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2002 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2002__Q12
 parent: src_cn_cmc_2002
 competition: China Mathematical Competition 2002
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find values of a for which trigonometric inequality holds for all x*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $a \le -2$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i valori di a per i quali la disuguaglianza trigonometrica vale per tutti x*
+
+> La disuguaglianza $$\sin^2 x + a\cos x + a^2 \ge 1$$ vale per tutti $x \in \mathbf{R}$. Trova la gamma di valori di $a$.
+
+**Risposta:** $a \le -2$
+[[src_cn_cmc_2002__Q12]]

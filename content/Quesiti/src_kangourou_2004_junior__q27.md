@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior (18 marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior__Q27
 parent: src_kangourou_2004_junior
 competition: Kangourou 2004 Junior (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Traiettoria del punto P (cerchio che rotola)*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Trajectory of the P-point (rolling circle) *
+
+![[src_kangourou_2004_junior__prob27.png]]
+
+> The figure shows two circles between them tangent to each other whose radii are in the ratio 1:2. The small circle continuously rolls, without creeping, within the large circle, along the edge of the latter which guides it. Which of the following is the trajectory from the small circle point P which, at the moment the figure refers to, is at the center of the large circle? A)              B)              C)               D) E)
+
+**Answer:** A
+[[src_kangourou_2004_junior__Q27]]

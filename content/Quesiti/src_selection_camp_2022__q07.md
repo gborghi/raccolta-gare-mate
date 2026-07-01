@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2022 — Selection Camp — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2022__Q07
 parent: src_selection_camp_2022
 competition: Japan IMO Selection Camp 2022 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three lines CD, AQ, BR concur in parallelogram configuration with circumcircles*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IbxW-7wHAbocY02LPUXVJ2fiAgki09kb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre linee CD, AQ, BR convergono in configurazione parallela con circoncircoli*
+
+> $ABCD$ sia un parallelo con $AC = BC$ e $P$ sia un punto nell'estensione laterale $AB$ oltre $B$. Il circoncircolo del triangolo $ACD$ incontra il segmento $PD$ in un punto $Q$ diverso da $D$, e il circoncircolo del triangolo $APQ$ incontra il segmento $PC$ in un punto $R$ diverso da $P$. Prove che le tre linee $CD$, $AQ$ e $BR$ sono simultanee. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+[[src_selection_camp_2022__Q07]]

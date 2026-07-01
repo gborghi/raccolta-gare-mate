@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1995 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1995__Q01
 parent: src_rmo_1995
 competition: Regional Mathematical Olympiad 1995
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC with points K,L on BC; AL bisects angle KAC*
 
@@ -35,3 +38,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18d_A9jRTrt0hHchaSE4JEb6g0MGjIeh6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC con punti K,L su BC; AL divide angolo KAC*
+
+> Nel triangolo $ABC$, $K$ e $L$ sono punti sul lato $BC$ ($K$ sono più vicini a $B$ che a $L$) in modo tale che $BC \cdot KL = BK \cdot CL$ e $AL$ bisecciano $\angle KAC$. Indicare che $AL$ è perpendicolare a $AB$.
+
+[[src_rmo_1995__Q01]]

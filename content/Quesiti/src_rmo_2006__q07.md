@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2006 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2006__Q07
 parent: src_rmo_2006
 competition: Regional Mathematical Olympiad 2006
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation f(xy)=f(x+y) for integers ≥4; find f(9)*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale f(xy)=f(x+y) per gli integri ≥4; ritrovare f(9) *
+
+> $X$ sia l'insieme di tutti gli integri positivi superiori o uguali a 8 e $f : X \to X$ sia una funzione tale che $f(x + y) = f(xy)$ per tutti $x \ge 4$, $y \ge 4$. Se $f(8) = 9$, determinare $f(9)$.
+
+[[src_rmo_2006__Q07]]

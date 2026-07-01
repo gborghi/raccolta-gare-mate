@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1973 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1973_r3__Q01
 parent: src_pol_1973_r3
 competition: Olimpiade Matematica Polacca 1973 — Round 3
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Every polynomial is a difference of two increasing polynomials*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qxf9IfIyodX4dvRWXQZSx2BaEEy5z1l/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ogni polinomio è una differenza di due polinomi in aumento*
+
+> Prova che ogni polinomio è una differenza di due polinomi in aumento.
+
+[[src_pol_1973_r3__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q25
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A2-3: complex z_n recurrence z_{n+1}=conj(z_n)·i^n, z_1=3+2i; find z_99+z_100.*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A2-3: complesso z_n ricorrenza z_{n+1}=conj(z_n)·i^n, z_1=3+2i; trovare z_99+z_100.*
+
+> [Paper di prova A2, problema 3] I numeri complessi $z_1,z_2,\ldots,z_{100}$ soddisfano $z_1=3+2\mathrm{i}$, $z_{n+1}=\overline{z_n}\cdot\mathrm{i}^n\ (n=1,2,\ldots,99)$, con $\mathrm{i}$ come unità immaginaria. Il valore di $z_{99}+z_{100}$ è quindi ______.
+
+**Risposta:** -5+5\mathrm{i}
+[[src_cn_cmc-first-round_2021__Q25]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2018-19 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2018-19_round2__Q02
 parent: src_bmo_2018-19_round2
 competition: British Mathematical Olympiad 2018-19 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all n for which magical chess pieces can win*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jUZmLCHSs55rdCMtkd0VDjc9FE08zlaC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le n per le quali i pezzi magici di scacchi possono vincere*
+
+> Per alcuni numeri interi $n$, un insieme di pezzi magici di scacchi $n^2$ si organizzano su una scacchiera quadrata $n^2 \times n^2$ composta da quadrati unitari $n^4$. A un segnale, tutti i pezzi di scacchi si teleportano su un altro quadrato della scacchiera in modo tale che la distanza tra i centri dei loro quadrati vecchi e nuovi sia $n$. I pezzi di scacchi vincono se, sia prima che dopo il segnale, non ci sono due pezzi di scacchi nella stessa riga o colonna. Per quali valori di $n$ possono vincere i scacchi?
+
+[[src_bmo_2018-19_round2__Q02]]

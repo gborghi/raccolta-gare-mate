@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q21
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A1-10: (z^2+az+b)(z^2+az+2b)=0 has four roots forming a unit square; find sum of moduli.*
 
@@ -48,3 +51,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A1-10: (z^2+az+b) ((z^2+az+2b)=0 ha quattro radici che formano un quadrato unitario; trova la somma dei moduli.*
+
+> [Test paper A1, problema 10] (20 punti) Supponiamo $a,b\in\mathbb{R}$. Se l'equazione $$(z^2+az+b)(z^2+az+2b)=0$$ circa $z$ ha quattro radici complesse reciprocamente diverse $z_1,z_2,z_3,z_4$ e i loro punti corrispondenti nel piano complesso sono esattamente quattro vertici di un quadrato con lunghezza laterale $1$, allora trovare il valore di $|z_1|+|z_2|+|z_3|+|z_4|$.
+
+**Risposta:** \sqrt{6}+2\sqrt{2}
+[[src_cn_cmc-first-round_2021__Q21]]

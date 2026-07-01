@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_biennio__Q06
 parent: src_archimede_2011_biennio
 competition: Giochi di Archimede 2011 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Diagonale minore parallelogramma con lati e angolo dati*
 
@@ -38,7 +41,7 @@ tags:
 > - **(B)** 2 cm2,
 > - **(C)** 9 4 cm2,
 > - **(D)** 5 2 cm2,
-> - **(E)** 3 cm2. A E B F C D G H
+> - **(E)** 3 cm2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lesser parallelogram diagonal with sides and angles given*
+
+> In the ABCD parallelogram shown, the BD segment is perpendicular to AB and E and F are the mean points of AB and CD respectively. Calculate the area of the GEHF quadrilateral, knowing that AB = 5 cm and BD = 2 cm.
+>
+> - **(A)** 15 8 cm2,
+> - **(B)** 2 cm2,
+> - **(C)** 9 4 cm2,
+> - **(D)** 5 2 cm2,
+> - **(E)** 3 cm2.
+
+**Answer:** E
+[[src_archimede_2011_biennio__Q06]]

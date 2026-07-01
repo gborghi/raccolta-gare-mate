@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2023 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2023__Q23
 parent: src_smc_2023
 competition: Senior Mathematical Challenge 2023
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of pentagon formed by folding a 3:1 rectangle*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ai7JWIC8Uz2zEOKy363XMAgQV6IcarOT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di pentagono formata piegando un rettangolo 3:1*
+
+> La lunghezza di un pezzo di carta rettangolare è tre volte più larga. La carta è piegata in modo che un vertice si trovi sopra il vertice opposto, formando così una forma pentagonale. Qual è l'area del pentagono come frazione dell'area del rettangolo originale?
+>
+> - **(A)** $\dfrac{2}{3}$
+> - **(B)** $\dfrac{11}{16}$
+> - **(C)** $\dfrac{12}{17}$
+> - **(D)** $\dfrac{13}{18}$
+> - **(E)** $\dfrac{14}{19}$
+
+**Risposta:** D
+[[src_smc_2023__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2023 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2023_printemps__Q10
 parent: src_canimath_2023_printemps
 competition: Coupe Animath Printemps 2023
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Using the numbers 1 to 22 exactly once each as numerators and denominators, Antoine writes 11 fractions; find the maximum possible number of fractions having integer values.*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denominatori, Antoine scrive 11 frazioni; trovare il numero massimo possibile di frazioni con valori interi.*
+
+> Usando i numeri da $1$ a $22$ esattamente una volta ogni volta, Antoine scrive $11$ frazioni: ad esempio, potrebbe scrivere le frazioni $$\frac{10}{2},\ \frac{4}{3},\ \frac{15}{5},\ \frac{7}{6},\ \frac{8}{9},\ \frac{11}{19},\ \frac{12}{14},\ \frac{13}{17},\ \frac{22}{21},\ \frac{18}{16}\ \text{and}\ \frac{20}{1}.$$
+> 
+> Antoine vuole avere il maggior numero possibile di frazioni con valori interi tra le frazioni che scrive: nell'esempio sopra, si può vedere che ha scritto tre frazioni con valori interi, vale a dire $\frac{10}{2} = 5$, $\frac{15}{5} = 3$ e $\frac{20}{1} = 20$. Qual è il numero massimo di frazioni che possono avere valori interi?
+
+[[src_canimath_2023_printemps__Q10]]

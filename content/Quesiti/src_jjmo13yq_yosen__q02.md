@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo13yq_yosen__Q02
 parent: src_jjmo13yq_yosen
 competition: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count labelings 1,2,3,4 of ten tangent circles with adjacent labels distinct*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Etichette di conteggio 1,2,3,4 di dieci cerchi tangenti con etichette adiacenti distinte*
+
+> Ci sono $10$ cerchi di uguale dimensione, disposti come indicato (un pila triangolare con $4$ cerchi nella riga inferiore, quindi $3$, quindi $2$, quindi $1$ in alto; ogni cerchio è tangente ai cerchi che tocca). Scriviamo un intero positivo in ogni cerchio in modo che si applichino entrambe le seguenti condizioni: \begin{itemize} \item Il numero intero $1$ è scritto esattamente in cerchio $1$, $2$ in cerchi esattamente $2$, $3$ in cerchi esattamente $3$, e $4$ in cerchi esattamente $4$. \item Ogni due cerchi reciprocamente tangenti contengono diversi interi. Quanti sono questi modi? Gli accordi ottenuti l'uno dall'altro mediante rotazione o riflessione sono considerati uguali.
+
+![[src_jjmo13yq_yosen__Q02.png]]
+
+**Risposta:** 6
+[[src_jjmo13yq_yosen__Q02]]

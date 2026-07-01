@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q16
 parent: src_cesenatico_2006_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero cubi con vertici in griglia 11x11x11 interi*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 3025
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of cubes with 11x11x11 integer grid vertices*
+
+> A Quamditch Scheme[25] Hardy, the team captain of the Quamditch team from the house of Rapporteur, instructs his teammates on a new game scheme he has developed. If we consider in space the sum of Q points that have whole coordinates and are between 0 and 10 (included), how many cubes exist with parallel shafts to the Cartesian axis and with vertices belonging to Q?
+
+**Answer:** 3025
+[[src_cesenatico_2006_squadre_pubblico__Q16]]

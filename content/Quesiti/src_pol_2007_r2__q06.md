@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r2__Q06
 parent: src_pol_2007_r2
 competition: Olimpiade Matematica Polacca 2007 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For positive a,b,c,d with reciprocals summing to 4, prove a sum of cube-root terms is at most 2(a+b+c+d)-4.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LZVQNRmXGjFMUK1nE7-wezK2nSuE5Pma/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per i valori positivi a,b,c,d con ripercussioni sommate a 4, provare che la somma dei termini di radice cubica è al massimo 2(a+b+c+d)-4.*
+
+> I numeri positivi $a,b,c,d$ soddisfano $\frac{1}{a}+\frac{1}{b}+\frac{1}{c}+\frac{1}{d}=4$. Provare che < MSK0/>
+
+[[src_pol_2007_r2__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Junior Finale 2 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_squadre_f2__Q11
 parent: src_kangourou_2023_junior_squadre_f2
 competition: Kangourou Squadre 2023 Junior Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo n con lato Qn maggiore di 2022*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 0019
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum n with side Qn greater than 2022< MSK1/>
+
+> The squares A Q0 square on side 3 is covered by a Q1 square (different from Q0) whose sides each contain a Q0 vertex. The same is done by covering Q1 with a Q2 square (different from Q1) whose sides each contain a Q1 vertex. This is sometimes done by following this rule until you get a Qn square. If the squares after Q0 are chosen appropriately, what is the smallest value of n such that the length of the Qn side exceeds 2022?
+
+**Answer:** 0019
+[[src_kangourou_2023_junior_squadre_f2__Q11]]

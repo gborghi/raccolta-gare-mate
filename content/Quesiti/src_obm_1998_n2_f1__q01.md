@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f1__Q01
 parent: src_obm_1998_n2_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integers satisfying a double inequality with square root*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggi interi che soddisfano una doppia disuguaglianza con radice quadrata*
+
+> Quanti integri $x$ soddisfano la disuguaglianza $3 < \sqrt{x} < 7$?
+> 
+> A) 13 B) 20 C) 38 D) 39 E) 40
+
+**Risposta:** D
+[[src_obm_1998_n2_f1__Q01]]

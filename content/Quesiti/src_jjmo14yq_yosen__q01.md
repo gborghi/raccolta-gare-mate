@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo14yq_yosen__Q01
 parent: src_jjmo14yq_yosen
 competition: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integer triples with a*b and b*c both even*
 
@@ -47,3 +50,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i tripli interi con a*b e b*c entrambi pari*
+
+> Trova quante triples $(a,b,c)$ di numeri interi con $1 \le a,b,c \le 5$ sono tali che sia $a \times b$ che $b \times c$ siano pari.
+
+**Risposta:** 62
+[[src_jjmo14yq_yosen__Q01]]

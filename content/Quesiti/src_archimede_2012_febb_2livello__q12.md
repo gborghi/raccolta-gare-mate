@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q12
 parent: src_archimede_2012_febb_2livello
 competition: Archimede Gara Febbraio 2012 (8 feb) - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Folletto dimezza x^2-y^2, numero massimo di scherzetti*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Half sheet x^2 y^2, maximum number of jokes < MSK1/>
+
+> A booklet chooses two odd numbers x, y such that 0 < y < x < 2012, calculates x2 −y2 and writes the result on a sheet. Every morning (starting the next day) he wakes up, reads the number written on the paper, and if that number is even, he replaces it with his half and goes to make a joke to someone. The day he first reads a strange number, he disappears back into the fairy world. How many jokes does a puppeteer make at most?
+>
+> - **(A)** 11
+> - **(B)** 12
+> - **(C)** 14
+> - **(D)** 21
+> - **(E)** 22. Problems with numerical answer  5 points
+
+**Answer:** B
+[[src_archimede_2012_febb_2livello__Q12]]

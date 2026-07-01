@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q20
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre della combinazione della cassaforte della Banda Bassotti*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** Le cifre della combinazione (scritte in ordine crescente) sono: 179
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Combination number of the Bassotti Band safe*
+
+> After a thorough study, an incredible dig and entrance into the bank, the Bassotti Band finds it difficult to open the precious safe. In the institute's papers, there is only the indication that the correct combination is given by three non-zero digits (ordered in increasing order) such that their sum is equal to 17 while the product of two of them, added to the third, is always a perfect square. Please, can you help the Bassotti Gang rob the bank?
+
+**Answer:** Le cifre della combinazione (scritte in ordine crescente) sono: 179
+[[src_bocconi_squadre_2008__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2010 - Gara a squadre — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2010_squadre__Q13
 parent: src_gs_2010_squadre
 competition: Coppa Fermat 2010 - Gara a squadre
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di stelle diverse con p vertici primi*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of different stars with prime p vertices*
+
+> **Paper stars, I** (point 50)
+> 
+> Reverend Cleophus James prepares colored paper stars to decorate the Triple Rock Church. To draw a five-pointed star, mark five distinct points on a circumference and join them together with five segments without ever separating the pen from the sheet. That way, he can only draw one type of star. With 7 vertices, he can instead draw two different types, connecting the vertices by skipping one or two at a time, respectively. How many different types of stars can you draw if you mark 2011 vertices on the circumference?
+
+[[src_gs_2010_squadre__Q13]]

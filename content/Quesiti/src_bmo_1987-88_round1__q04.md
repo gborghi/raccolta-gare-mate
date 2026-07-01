@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1987-88 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1987-88_round1__Q04
 parent: src_bmo_1987-88_round1
 competition: British Mathematical Olympiad 1987-88 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perpendicular feet from orthocentre to angle bisectors are collinear with midpoint of BC*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11guDhXvMdprlP2g-JECuN_zy0XPTSGKa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I piedi perpendicolari da ortocentro a bisettori angolari sono collineari con il punto medio di BC*
+
+> Il triangolo $ABC$ ha l'ortocentro $H$. I piedi delle perpendicolari da $H$ ai bisettieri interni ed esterni dell'angolo $BAC$ (non angolo retto) sono $P$ e $Q$. Provare che $PQ$ passa attraverso il punto medio di $BC$.
+
+[[src_bmo_1987-88_round1__Q04]]

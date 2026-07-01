@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet__Q20
 parent: src_kangourou_2005_cadet
 competition: Kangourou 2005 - Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri dispari minori di 100 con lunghezza 3*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Unusual numbers less than 100 with length 3*
+
+> Let n be a natural number greater than 1: we call length of n the number of factors that appear in the decomposition of n as a product of prime numbers. For example, the length of the number 90=2x3x3x5 is 4. How many odd positive numbers less than 100 have length 3? A) 3 B) 4 C) 5 D) 7 E) other answer to questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** C
+[[src_kangourou_2005_cadet__Q20]]

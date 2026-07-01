@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2022 - 2° livello — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_2livello__Q13
 parent: src_archimede_2022_2livello
 competition: Archimede Gara di Febbraio 2022 - 2° livello
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tavolo esagonale, tovaglia rettangolare, area tavolo*
 
@@ -68,3 +71,45 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1536
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yoJphpDl9VdaRTxK08Kh2k2R0VMUNvKo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Hexagonal table, rectangular tablecloth, table area< MSK1/>
+
+![[src_archimede_2022_2livello__prob13.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=2]
+  \coordinate (A) at (-0.5,-0.866);
+  \coordinate (B) at (0.5,-0.866);
+  \coordinate (C) at (1,0);
+  \coordinate (D) at (0.5,0.866);
+  \coordinate (E) at (-0.5,0.866);
+  \coordinate (F) at (-1,0);
+  \coordinate (O) at (0,0);
+  \coordinate (K) at (-0.5,0);
+  \coordinate (H) at (0.5,0);
+  \fill[gray!30] (A) -- (B) -- (D) -- (E) -- cycle;
+  \draw (A)--(B)--(C)--(D)--(E)--(F)--cycle;
+  \draw (E)--(A) (D)--(B) (F)--(C) (A)--(D) (E)--(B);
+  \foreach \p in {A,B,C,D,E,F,O,K,H} \fill (\p) circle (0.02);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[right] at (C) {$C$};
+  \node[above right] at (D) {$D$};
+  \node[above left] at (E) {$E$};
+  \node[left] at (F) {$F$};
+  \node[below right] at (O) {$O$};
+  \node[below left] at (K) {$K$};
+  \node[below right] at (H) {$H$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Lucio purchases a regular hexagon table and a rectangular tablecloth with an area of 1024 cm2 which has a smaller side equal to the side of the hexagon and covers exactly the portion of table between two opposite sides. What is the area of the table, expressed in cm2?
+
+**Answer:** 1536
+[[src_archimede_2022_2livello__Q13]]

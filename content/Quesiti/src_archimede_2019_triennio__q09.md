@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2019 - Triennio (T1) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_triennio__Q09
 parent: src_archimede_2019_triennio
 competition: Giochi di Archimede 2019 - Triennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadrati perfetti multipli di 7 tra 1 e 6000*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Multiple perfect squares of 7 between 1 and 6000*
+
+> How many multiples of 7, between 1 and 6000, are squares of integers?
+>
+> - **(A)** 9
+> - **(B)** 20
+> - **(C)** 77
+> - **(D)** 11
+> - **(E)** 122
+
+**Answer:** D
+[[src_archimede_2019_triennio__Q09]]

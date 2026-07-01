@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1998 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1998__Q02
 parent: src_rmo_1998
 competition: Regional Mathematical Olympiad 1998
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *6 divides sum of squares of primes greater than 5 implies 6 divides n*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15-hOAv0psynRUhAjOfCXMcOkrAiY-0eX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*6 divide la somma dei quadrati di numeri primi superiori a 5 implica 6 divisi n*
+
+> Che $n$ sia un intero positivo e $p_1, p_2, \ldots, p_n$ $n$ siano numeri primi tutti più grandi di $5$ in modo tale che $6$ divida $p_1^2 + p_2^2 + \cdots + p_n^2$. Provare che $6$ divide $n$.
+
+[[src_rmo_1998__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2007 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2007__Q05
 parent: src_cn_ctst_2007
 competition: China National Team Selection Test 2007
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Permutation maximizing weighted dot product of reals and vectors*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Permutazione per massimizzare il prodotto dei punti ponderati dei reali e dei vettori*
+
+> Che $x_1, \cdots, x_n$ ($n \ge 2$) siano numeri reali tali che $$A = \left|\sum_{i=1}^{n} x_i\right| \ne 0$$ e $$B = \max_{1 \le i < j \le n} |x_i - x_j| \ne 0.$$ dimostrino che per ogni vettore $n$ $a_1, \cdots, a_n$ sul piano, esiste una permutazione $(k_1, k_2, \cdots, k_n)$ di $(1, 2, \cdots, n)$ tale che $$\left|\sum_{i=1}^{n} x_{k_i} a_i\right| \ge \frac{AB}{2A+B} \max_{1 \le i \le n} |a_i|.$$
+
+[[src_cn_ctst_2007__Q05]]

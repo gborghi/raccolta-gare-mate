@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2007 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2007__Q15
 parent: src_bocconi_primavera_2007
 competition: Semifinale di Primavera 2007
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero pari con doppio minore di 100 e maggiore di 30*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 48
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Equal number with double less than 100 and greater than 30*
+
+> What is the even number whose double is less than $100$, but is greater than $30$? If this information is not enough for you, remember that the figure $4$ appears only once in this issue and that if you swap its two digits, you get a higher number than $70$.
+> 
+> What is this number?
+
+**Answer:** 48
+[[src_bocconi_primavera_2007__Q15]]

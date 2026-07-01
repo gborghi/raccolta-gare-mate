@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier__Q11
 parent: src_kangourou_2023_ecolier
 competition: Kangourou 2023 Ecolier — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bDY_Y5qtxjaNx_dh5X8llzlndfmVtNwJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>which< MSK1/>
+
+![[src_kangourou_2023_ecolier__prob11.png]]
+
+> Ada has a numbered line 60 cm long; most of the tiles indicating millimeters and centimeters are missing on it. However, Ada can measure segments that are 10, 20, 30, 40, 50, or 60 centimeters long with a single measurement. Which of the following can be your line? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D) E)
+
+**Answer:** E
+[[src_kangourou_2023_ecolier__Q11]]

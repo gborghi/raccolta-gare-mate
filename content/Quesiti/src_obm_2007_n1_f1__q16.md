@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f1__Q16
 parent: src_obm_2007_n1_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Grid of 1 cm2 squares; segments join midpoints to spell OBM; find shaded area*
 
@@ -49,3 +52,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Griglia di 1 cm2 quadrati; segmenti che si uniscono ai punti di mezzo per scrivere OBM; trovare area ombrata*
+
+> Nella griglia, ogni piccolo quadrato ha area $1\text{ cm}^2$. I segmenti si uniscono ai punti medi dei lati dei quadrati al centro di ogni piccolo quadrato, formando la parola OBM. Qual è la superficie occupata dal logo OBM, in $\text{cm}^2$?
+> 
+> (A) 28 \quad (B) 32 \quad (C) 33 \quad (D) 34 \quad (E) 35
+
+![[src_obm_2007_n1_f1__Q16.png]]
+
+[[src_obm_2007_n1_f1__Q16]]

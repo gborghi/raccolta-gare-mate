@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1994 — Round 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1994_r1__Q08
 parent: src_pol_1994_r1
 competition: Olimpiade Matematica Polacca 1994 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *If b|a^3, c|b^3, a|c^3 then abc divides (a+b+c)^13*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Se b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b b
+
+> $a, b, c$ siano integri positivi come $b \mid a^3$, $c \mid b^3$ e $a \mid c^3$. Prove che $abc \mid (a + b + c)^{13}$.
+
+[[src_pol_1994_r1__Q08]]

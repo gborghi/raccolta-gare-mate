@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q20
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given 1/x - 1/y = 2025, evaluate (x + 2026xy - y)/(2y - 2025xy - 2x).*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dato che 1/x - 1/y = 2025, valutare (x + 2026xy - y)/(2y - 2025xy - 2x).*
+
+> Quando $\frac{1}{x} - \frac{1}{y} = 2025$, qual è il valore di $\frac{x + 2026xy - y}{2y - 2025xy - 2x}$?
+>
+> - **(A)** 0
+> - **(B)** 1
+> - **(C)** - Sì, certo.
+> - **(D)** 2026
+> - **(E)** - Sì, certo.
+
+**Risposta:** E
+[[src_smc_2025__Q20]]

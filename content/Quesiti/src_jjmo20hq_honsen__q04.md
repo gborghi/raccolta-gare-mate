@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2022 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo20hq_honsen__Q04
 parent: src_jjmo20hq_honsen
 competition: Japan Junior Mathematical Olympiad 2022 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove angle BPE = 90 degrees in acute triangle*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18o27Iy8yRRzYcEM38g3Yo5C4zbcldLvc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo di prova BPE = 90 gradi in triangolo acuto*
+
+> $ABC$ sia un triangolo acuto con $AB < AC$. Il bisettore perpendicolare del segmento $BC$ incontra le linee $AB$ e $AC$ rispettivamente nei punti $D$ e $E$, e $M$ sia il punto medio del segmento $DE$. Il circoncircolo del triangolo $ABC$ e la linea $AM$ si incontrano in un punto $P$ diverso da $A$, e i tre punti $M, A, P$ si trovano in questo ordine. Prove che $\angle BPE = 90^\circ$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+[[src_jjmo20hq_honsen__Q04]]

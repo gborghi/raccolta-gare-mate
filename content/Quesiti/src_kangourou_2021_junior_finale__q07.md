@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - finale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q07
 parent: src_kangourou_2021_junior_finale
 competition: Kangourou 2021 Junior - finale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Data in cui Penelope ha tela lunga 100 m*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> Date on which Penelope has 100 m long canvas< MSK1/>
+
+> A jazz band consists of six members. Joseph plays the saxophone, Sergio plays the trumpet, Eliana sings and they're all the same age. The other three members of the jazz band are 17, 19, and 24. The average age of the six members is 21. How old is Eliana?
+> 
+> A) 20 B) 21 C) 22 D) 23 E) 24
+
+[[src_kangourou_2021_junior_finale__Q07]]

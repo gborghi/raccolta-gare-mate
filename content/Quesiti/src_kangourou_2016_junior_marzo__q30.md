@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q30
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Strette di mano di P2016 dato schema di handshake*
 
@@ -84,3 +87,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Handshakes of P2016 given handshake pattern*
+
+> At a conference the 2016 participants were registered with the abbreviations P1, ..., P2016. Each participant from P1 to P2015 shook hands with a number of participants exactly equal to that in their registration stamp. How many participants did P2016 shake hands with? A) 1 B) 504 C) 672 D) 1008 E) 2015
+> 
+> Category X X X X X X X X X X X X X X X X X X X X X X X X X
+
+**Answer:** D
+[[src_kangourou_2016_junior_marzo__Q30]]

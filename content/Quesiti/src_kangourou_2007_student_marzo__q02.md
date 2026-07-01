@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Student (marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q02
 parent: src_kangourou_2007_student_marzo
 competition: Kangourou 2007 Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizione del secondo nodo per angolo retto*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Position of the second knot at right angles*
+
+![[src_kangourou_2007_student_marzo__prob2.png]]
+
+> According to some historians, the ancient Egyptians used a rope with two knots to build a right angle. If the length of the rope is 12 meters and one of the knots is at the point X, which is 3 meters from one of the rope heads, how many meters from the other end must the second knot be made to have a right angle in X? A) 3 B) 4 C) 5 D) 6 E) more than 6
+
+**Answer:** C
+[[src_kangourou_2007_student_marzo__Q02]]

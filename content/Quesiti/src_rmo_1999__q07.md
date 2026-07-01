@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1999 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1999__Q07
 parent: src_rmo_1999
 competition: Regional Mathematical Olympiad 1999
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count quadratic polynomials $ax^2+bx+c$ divisible by $x+1$*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aVueqGzgTBFm2YWPkdVpaNOhDYF_ZzH8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare polinomi quadrati $ax^2+bx+c$ divisibili per $x+1$*
+
+> Trova il numero di polinomi quadratici, $ax^2 + bx + c$, che soddisfano le seguenti condizioni: (a) $a, b, c$ sono distinti; (b) $a, b, c \in \{1, 2, 3, \ldots 1999\}$ e (c) $x + 1$ dividono $ax^2 + bx + c$.
+
+[[src_rmo_1999__Q07]]

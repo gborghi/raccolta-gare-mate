@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Ecolier finale nazionale (Mirabilandia) — Quesito E3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_ecolier_maggio__QE3
 parent: src_kangourou_2008_ecolier_maggio
 competition: Kangourou 2008 - Ecolier finale nazionale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo colori in 10 sacchetti distinti*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sMORIlt9lkjMX5maUC57kkdR79FHjTrM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum colours in 10 separate bags< MSK1/>
+
+> A toy retailer has a large quantity of bags of 10 different colours; he wants to pack 10 bags of bags so that: - the number of colours in each bag is the same; - different bags differ by the colour of at least one bag.
+> 
+> What is the maximum number of colors that can be present in the bags?
+
+**Answer:** 9
+[[src_kangourou_2008_ecolier_maggio__QE3]]

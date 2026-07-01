@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q10
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find n between 1 and 20 where sum of 1 to n equals sum of (n+1) to 20*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca n tra 1 e 20, dove la somma di 1 a n è uguale alla somma di (n+1) a 20*
+
+> Il numero intero positivo $n$ è tra $1$ e $20$. Milly somma tutti gli enti da $1$ a $n$ inclusi. Billy somma tutti gli enti da $n + 1$ a $20$ inclusi. I loro totali sono gli stessi. Qual è il valore di $n$?
+>
+> - **(A)** $11$
+> - **(B)** $12$
+> - **(C)** $13$
+> - **(D)** $14$
+> - **(E)** $15$
+
+**Risposta:** D
+[[src_smc_2015__Q10]]

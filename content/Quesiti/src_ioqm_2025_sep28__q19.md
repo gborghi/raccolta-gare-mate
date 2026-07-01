@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q19
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -34,6 +35,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ordered pairs (m,n) with 1≤m<n≤50 and mn a perfect square*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK2/>Contare le coppie ordinate (m,n) con 1 < MSK0/> m < n < MSK1/> 50 e mn un quadrato perfetto < MSK3/>
+
+> Trova il numero di coppie ordinate $(m, n)$ dove $m$ e $n$ sono integri positivi in modo tale che $1 \le m < n \le 50$ e il prodotto $mn$ sia un quadrato perfetto.
+
+[[src_ioqm_2025_sep28__Q19]]

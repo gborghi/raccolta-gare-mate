@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2005-06 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2005-06_round2__Q04
 parent: src_bmo_2005-06_round2
 competition: British Mathematical Olympiad 2005-06 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exam with 2006 children; minimize total right answers*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3346
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1587ntk_Om0adXZIJTWJf2XDGaBi6jrzP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Esame con bambini 2006; ridurre al minimo le risposte totali giuste< MSK1/>
+
+> Un esame composto da sei domande è presentato da bambini del 2006. Ogni domanda è contrassegnata come giusta o sbagliata. Qualsiasi tre bambini abbiano risposte giuste a almeno cinque delle sei domande che si presentano tra loro. Che < MSK0/> sia il numero totale di risposte giuste ottenute da tutti i bambini (cioè il numero totale di domande risolute dal bambino 1 $+$ il totale risolto dal bambino 2 $+ \cdots +$ il totale risolto dal bambino 2006). Trova il minimo valore possibile di $N$.
+
+**Risposta:** 3346
+[[src_bmo_2005-06_round2__Q04]]

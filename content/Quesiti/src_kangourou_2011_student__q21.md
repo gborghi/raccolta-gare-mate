@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q21
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma degli n<100 con n^2-81 multiplo di 100*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of n<100 with n2-81 multiple of 100*
+
+> What is the sum of all positive integers n less than 100 such that n2 - 81 is a multiple of 100? (0 must be considered as a multiple of 100) A) 200 B) 100 C) 90 D) 81 E) 50
+
+**Answer:** A
+[[src_kangourou_2011_student__Q21]]

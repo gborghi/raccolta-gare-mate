@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f1__Q10
 parent: src_obm_2001_n3_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle divided by 2n+1 radii into congruent sectors; max regions cut also by one line*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Circolo diviso da 2n+1 radii in settori congruenti; regioni massime tagliate anche da una linea< MSK1/>
+
+> Un cerchio è diviso, per radii $2n + 1$, in settori congruenti $2n + 1$. Qual è il numero massimo di regioni del cerchio determinate da questi raggi e da una linea retta?
+> 
+> **A)** $3n$ $\quad$ **B)** $3n + 1$ $\quad$ **C)** $3n + 2$ $\quad$ **D)** $4n$ $\quad$ **E)** $4n + 1$
+
+**Risposta:** D
+[[src_obm_2001_n3_f1__Q10]]

@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2021_nu_fx__Q01
 parent: src_obm_2021_nu_fx
 competition: Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x
@@ -39,6 +40,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circulant 3x3 matrices with det=1: rational entries infinite, integer entries finite*
 
@@ -55,3 +58,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MgR4bVfP7Fq55ZFrheOqs-UCf6k35qyg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Matrici 3x3 circolanti con det=1: entrate razionali infinite, entrate interi finite*
+
+> Considera le matrici del modulo $$M = \begin{pmatrix} a & b & c \\ c & a & b \\ b & c & a \end{pmatrix} \qquad \text{with} \quad \det M = 1.$$ Prove che:
+> 
+> (a) Ci sono infinite matrici della forma di cui sopra con tutte le voci $a, b, c$ razionali.
+> 
+> b) Ci sono solo finitamente molte matrici della forma di cui sopra con tutti i numeri interi $a, b, c$.
+
+[[src_obm_2021_nu_fx__Q01]]

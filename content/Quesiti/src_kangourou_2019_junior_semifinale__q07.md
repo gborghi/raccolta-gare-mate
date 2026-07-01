@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Junior — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q07
 parent: src_kangourou_2019_junior_semifinale
 competition: Kangourou 2019 Semifinale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle centinaia di 2019xN dati i divisori di 3N e 5N*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of the hundreds of 2019xN given the 3N and 5N dividers*
+
+> (Points 5) Of a positive integer N we know that the integer 3 × N has exactly 4 divisors and the integer 5 × N has exactly 6 divisors. What is the number of hundreds of the 2019 number × N? Note: The divisors of a number include 1 and the number itself. A) 1
+> 	
+> B) 3
+> 	
+> C) 8
+> 	
+> D) 9
+> 	
+> E) It cannot be established
+
+**Answer:** A
+[[src_kangourou_2019_junior_semifinale__Q07]]

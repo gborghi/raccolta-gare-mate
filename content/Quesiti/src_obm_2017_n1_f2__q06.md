@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n1_f2__Q06
 parent: src_obm_2017_n1_f2
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Words over {a,b}: m-equivalence of two words of length l via subword deletion*
 
@@ -54,3 +57,19 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iwmdzVC1anDxEvSBue1NcwFMI43Xg_Zx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Parolle sopra {a,b}: m-equivalenza di due parole di lunghezza l tramite cancellazione delle sottoscritte*
+
+> Prendiamo qui le parole sopra l'alfabeto $\{a, b\}$: sequenze di $a$ e $b$ di lunghezza finita. Scriviamo $v \preceq w$ se $v$ è una sottoscrizione ** di $w$, cioè $v$ può essere ottenuto da $w$ eliminando alcune lettere (ad esempio, $aba \preceq abba$). Diciamo che due parole $x$ e $y$ sono *$m$-equivalenti* se $u \preceq x$ così come $u \preceq y$, o né $u \preceq x$ né $u \preceq y$, per ogni parola $u$ con $|u| \le m$ (cioè, se $u$ è una sottoscrizione di $x$ è lo stesso che se $u$ è una sottoscrizione di $y$, per tutte le parole $u$ di lunghezza massima $m$).
+> 
+> Lasciate che $l$ e $m$ siano integri positivi.
+> 
+> a) dimostrare che se $2m \le l$, esistono due parole distinte $x$ e $y$ di lunghezza $l$ che sono equivalenti a $m$.
+> 
+> b) dimostrare che se $2m > l$, allora due parole distinte $x$ e $y$ di lunghezza $l$ non possono essere $m$-equivalenti.
+
+[[src_obm_2017_n1_f2__Q06]]

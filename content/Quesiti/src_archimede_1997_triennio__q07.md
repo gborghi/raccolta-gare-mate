@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Triennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_triennio__Q07
 parent: src_archimede_1997_triennio
 competition: Giochi di Archimede 1997 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale fra alcuni numeri e il piu piccolo*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which of the following numbers is the smallest *
+
+> Which of the following numbers is the smallest?
+>
+> - **(A)** 0,0000001
+> - **(B)** 9−8
+> - **(C)** (0, 1)0,1
+> - **(D)** √0, 00001
+> - **(E)** (0, 0001)2.
+
+**Answer:** E
+[[src_archimede_1997_triennio__Q07]]

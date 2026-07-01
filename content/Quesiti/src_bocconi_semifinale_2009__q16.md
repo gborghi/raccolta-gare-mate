@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2009 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2009__Q16
 parent: src_bocconi_semifinale_2009
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2009
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dimensioni parallelogramma con rettangolo di carta crescente*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** $(1,4,16)$; $(2,3,14)$; $(2,4,8)$; $(2,5,6)$; $(4,4,4)$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Parallel dimensions with increasing rectangle of paper*
+
+> For her feast, Clara and Anna's mother gathered a locked sheet in a parallelogram-shaped box for her daughters. They're all full sizes.
+> 
+> The length of the ribbon used around the package (excluding the common flags and knots) is equal to the side of the size of the surface of the gift card (total surface of the parallelogram), expressed in square centimetres.
+> 
+> What are the three dimensions of the package, given in increasing order?
+
+![[src_bocconi_semifinale_2009__Q16.png]]
+
+**Answer:** $(1,4,16)$; $(2,3,14)$; $(2,4,8)$; $(2,5,6)$; $(4,4,4)$
+[[src_bocconi_semifinale_2009__Q16]]

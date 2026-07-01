@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2004 - Gara Biennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2004_biennio__Q05
 parent: src_archimede_2004_biennio
 competition: Giochi di Archimede 2004 - Gara Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri naturali B in prodotto, scelta multipla*
 
@@ -42,3 +45,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uERFL-Tpve1Inh5Oe072sGkYGIDqnN9_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many natural numbers B in product, multiple choice*
+
+> A mathematics competition involves 1,200 candidates. 40% of them receive a medal (gold, silver or bronze). The number of bronze medals is three times that of silver and twice that of gold. How many gold medals are there?
+>
+> - **(A)** 120
+> - **(B)** 144
+> - **(C)** 160
+> - **(D)** 180
+> - **(E)** None of the preceding
+
+[[src_archimede_2004_biennio__Q05]]

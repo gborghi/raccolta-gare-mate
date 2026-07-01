@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2021__Q11
 parent: src_ioqm_2021
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2021
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *4 married couples seated alternately by gender in a circle; no husband next to wife*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>4 coppie sposate sedute a turno per sesso in un cerchio; nessun marito accanto alla moglie < MSK1/>
+
+> In quanti modi quattro coppie sposate possono sedersi in un giro con sedi identici in modo tale che uomini e donne occupino sedi alternativi e nessun marito si sedi accanto alla moglie?
+
+[[src_ioqm_2021__Q11]]

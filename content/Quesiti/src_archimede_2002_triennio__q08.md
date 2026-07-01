@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2002 - Triennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_triennio__Q08
 parent: src_archimede_2002_triennio
 competition: Giochi di Archimede 2002 - Triennio
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale dei numeri dati non e razionale*
 
@@ -39,3 +42,19 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which of the data numbers is not rational*
+
+> Which of the following numbers is not rational?
+>
+> - **(A)** −2002
+> - **(B)** 8 2 3
+> - **(C)** √0, 49
+> - **(D)** 1000,5
+> - **(E)** 10000,1.
+
+[[src_archimede_2002_triennio__Q08]]

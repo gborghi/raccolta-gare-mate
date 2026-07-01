@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2007-08 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2007-08_round2__Q03
 parent: src_bmo_2007-08_round2
 competition: British Mathematical Olympiad 2007-08 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Deduce integer-radius circle in at most sixty inside-point queries*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dV-8vN7k_u2OvfcJ8JY9hcNmPbHSmE1W/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ridurre il cerchio di raggio intero in un massimo di sessanta interrogazioni sul punto interno*
+
+> Adrian ha disegnato un cerchio nel piano $xy$ il cui raggio è un intero positivo. L'origine si trova da qualche parte dentro il cerchio. È consentito fargli domande del tipo "Il punto $(x, y)$ è all'interno del suo cerchio?" Dopo ogni domanda egli risponderà con verità "sì" o "no". Mostrare che è sempre possibile dedurre il raggio del cerchio dopo almeno sessanta domande. [Nota: ogni punto che si trova esattamente sul cerchio può essere considerato situato all'interno del cerchio.]
+
+[[src_bmo_2007-08_round2__Q03]]

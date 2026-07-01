@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2014__Q06
 parent: src_cesenatico_2014
 competition: Olimpiade Italiana (Cesenatico) 2014 - testi
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *minimo numero di caselle speciali*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4n
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1gIgeQmvtAR3P4hh46pVwAUEVyz0qxkyZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*minimum number of special boxes*
+
+> A square chessboard (2n + 1) × (2n + 1), with n > 0, is coloured so that each box is white or black. A box is said to be special if there are at least one other box of the same colour in its row and at least one other box of the same colour in its column. (a) Demonstrate that there are at least 2n + 1 special boxes. (b) Provide an example where there are at most 4 special boxes. (c) Determine, in accordance with n, the minimum number of special boxes possible.
+
+**Answer:** 4n
+[[src_cesenatico_2014__Q06]]

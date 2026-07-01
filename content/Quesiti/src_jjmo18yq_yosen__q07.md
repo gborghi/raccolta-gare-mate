@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo18yq_yosen__Q07
 parent: src_jjmo18yq_yosen
 competition: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of ways to tile a figure with L-trominoes and plus-pentominoes*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 24
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di modi di tessere di una figura con L-tromino e più pentomino*
+
+> Consideriamo due tipi di piastrelle: piastrelle $L$ costituite da quadrati di unità $3$ in forma L e piastrelle $X$ costituite da quadrati di unità $5$ in forma più ($+$). Sono disponibili < MSK5/> copie di < MSK6/> e < MSK7/> copie di < MSK8/>. Una certa figura costituita da quadrati unitari $30$ (regione ombrata mostrata) deve essere completamente coperta senza sovrapposizioni utilizzando queste piastrelle. Le piastrelle possono essere ruotate o volte; tuttavia, le disposizioni che coincidono dopo aver ruotato o volto l'intera lavagna sono considerate come distinte. Trova il numero di modi per tessere la figura.
+
+![[src_jjmo18yq_yosen__Q07.png]]
+
+**Risposta:** 24
+[[src_jjmo18yq_yosen__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 2017 papers — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2017__Q06
 parent: src_imo_2017
 competition: IMO 2017 papers
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Polinomio omogeneo =1 su punti primitivi*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1f-FfFFSte2Xcf0IS6inIxe8_MiXPlKgB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Homogeneous polynomial =1 on primitive points*
+
+> An ordered pair $(x, y)$ of integers is a * prime point* if the maximum common divisor of $x$ and $y$ is $1$. Given a finite set $S$ of primitive points, prove that there exists a positive integer $n$ and an integer $a_0, a_1, \ldots, a_n$ such that for each $(x, y) \in S$: $$a_0 x^n + a_1 x^{n-1} y + a_2 x^{n-2} y^2 + \cdots + a_{n-1} x y^{n-1} + a_n y^n = 1.$$
+
+[[src_imo_2017__Q06]]

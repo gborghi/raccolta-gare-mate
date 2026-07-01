@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q23
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale affermazione certamente vera (pesi)*
 
@@ -61,3 +64,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which statement is certainly true (weights) < MSK1/>
+
+> Anna and Bice together weigh less than Carla and Dina together; Carla and Emma together weigh less than Franca and Bice together. Which of the following is certainly true? A) Anna and Emma together weigh less than Franca and Dina. B) Dina and Emma together weigh more than Carla and Franca. C) Dina and Franca together weigh more than Anna and Carla. D) Anna and Bice together weigh less than Carla and Franca. E) Anna, Bice and Carla together weigh as much as Dina, Emma and Franca. The Commission has decided to extend the period of validity of this Regulation to the following areas:
+> 
+> I'm going to pay. I'm going to pay. 20 20 Kang 2007 Kang
+
+**Answer:** A
+[[src_kangourou_2007_cadet_marzo__Q23]]

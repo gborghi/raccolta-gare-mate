@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Ecolier — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier__Q20
 parent: src_kangourou_2014_ecolier
 competition: Kangourou 2014 marzo Ecolier
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti rombi neri nel livello 6 dello schema*
 
@@ -47,3 +50,19 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many black hairs in level 6 of the scheme*
+
+![[src_kangourou_2014_ecolier__prob20.png]]
+
+> As of noon today, the clock on the bell tower, which until then had been running regularly, has failed: the clock has continued to move regularly, while the minute clock has started to rotate 12 times faster than it should. It's exactly 12:55 now. In which of the following positions are the two handles?
+> 	
+> A)
+> 	
+> B) C) D) E)
+
+[[src_kangourou_2014_ecolier__Q20]]

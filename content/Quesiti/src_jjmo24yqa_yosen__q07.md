@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo24yqa_yosen__Q07
 parent: src_jjmo24yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum-coin domination on 37 lattice points within distance sqrt(10); count min arrangements*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 2928
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EEKbZ7RSD6mLY9XkB2kvGd6XjLvAdfmk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Dominanza minima della moneta su 37 punti della griglia all'interno di una distanza quadrata
+
+> Nel piano $xy$, considerate i punti reticolari $37$ (punti le cui coordinate sono entrambe enti) a distanza massima $\sqrt{10}$ dall'origine; chiamate questi **buoni punti**. Un accordo mette le monete su uno o più punti positivi. Un buon punto $(a,b)$ è chiamato ** ben coperto** se esiste un buon punto $(c,d)$ con una moneta del tipo $|a-c| = |b-d|$. Un sistema di sicurezza **** è un sistema in cui ogni punto positivo è ben coperto. $n$ deve essere il numero minimo di monete utilizzate in qualsiasi sistema di sicurezza. Quanti dispositivi di sicurezza utilizzano esattamente le monete < MSK7/>?
+
+![[src_jjmo24yqa_yosen__Q07.png]]
+
+**Risposta:** 2928
+[[src_jjmo24yqa_yosen__Q07]]

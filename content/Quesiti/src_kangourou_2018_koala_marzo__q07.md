@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q07
 parent: src_kangourou_2018_koala_marzo
 competition: Kangourou 2018 Gioco Koala (Marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale sara il sedicesimo gruppo di perline (pattern)*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AGwjurQUucDfrq-UuV0KeOG7NZtWOZs2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>What will be the 16th group of beads (pattern) < MSK1/>
+
+![[src_kangourou_2018_koala_marzo__prob7.png]]
+
+> Emilia has many pearls of different shapes and colors. Prepare groups of 4 beads and align them according to a pattern (see figure). What will be the 16th group? (see figure)
+
+**Answer:** B
+[[src_kangourou_2018_koala_marzo__Q07]]

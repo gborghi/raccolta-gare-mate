@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2007 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2007__Q05
 parent: src_rmo_2007
 competition: Regional Mathematical Olympiad 2007
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trapezium inscribed in circle, diagonals meet at M with OM=2; find difference of parallel sides*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B78tougpeUbgcu6j_GqfUAJfKlLytHfI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trapezio inserito in cerchio, diagonali che si incontrano a M con OM=2; trovare differenza di lati paralleli*
+
+> Un trapezio $ABCD$, in cui $AB$ è parallelo a $CD$, è inserito in un cerchio con il centro $O$. Supponiamo che le diagonali $AC$ e $BD$ del trapezio si intersecano a $M$ e $OM = 2$. (a) Se $\angle AMB = 60^\circ$, determinare, con la prova, la differenza tra le lunghezze dei lati paralleli. b) Se $\angle AMD = 60^\circ$, trovare la differenza tra le lunghezze dei lati paralleli.
+
+[[src_rmo_2007__Q05]]

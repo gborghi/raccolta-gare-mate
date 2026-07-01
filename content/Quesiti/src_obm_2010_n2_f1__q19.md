@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q19
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two faulty 24h clocks, one double speed one backwards, next time they agree*
 
@@ -47,3 +50,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Due orologi difettosi per 24 ore, una doppia velocità e l'altra indietro, la prossima volta che concordano
+
+> Il professore Piraldo ha due orologi, sia digitali che di $24$ ore. Nessuno dei due funziona: uno cambia il tempo al doppio della velocità normale e l'altro va dall'indietro in avanti alla velocità normale. Entrambi mostrano correttamente < MSK1/>. Qual è l'ora corretta nel momento successivo in cui i due orologi mostrano la stessa ora?
+>
+> - **(A)** $05{:}00$
+> - **(B)** $09{:}00$
+> - **(C)** $13{:}00$
+> - **(D)** $17{:}00$
+> - **(E)** $21{:}00$
+
+[[src_obm_2010_n2_f1__Q19]]

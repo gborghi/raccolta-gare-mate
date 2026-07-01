@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1993 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1993__Q07
 parent: src_rmo_1993
 competition: Regional Mathematical Olympiad 1993
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ages of 10 persons from 9-element subset sums*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kadMp-CRN3MjuB-TEm5ptxaScgegf-GQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Age di 10 persone da 9 sottogruppi di elementi*
+
+> In un gruppo di dieci persone, ogni persona viene invitata a scrivere la somma delle età di tutte le altre persone $9$. Se tutte le dieci somme formano l'insieme $9$-elemento $\{82, 83, 84, 85, 87, 89, 90, 91, 92\}$ si trovano le singole età delle persone (assumendo che siano numeri interi di anni).
+
+[[src_rmo_1993__Q07]]

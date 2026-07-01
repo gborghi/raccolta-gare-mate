@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q15
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Hero and villain: find angle BHA from arc and arrow velocities*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Eroe e cattivo: trovare angolo BHA da velocità di arco e freccia*
+
+> In un disegno animato, un cattivo è in posizione $V$ e spara un fascio di energia lungo l'arco di un cerchio dal punto $H$ per colpire l'amico a $A$. L'eroe è in posizione $H$ e spara una freccia in linea retta verso $A$. Dato che $VA = 60\,\text{m}$, il fascio viaggia a $10\,\text{m/s}$, e la freccia viaggia a $15\,\text{m/s}$, e che l'eroe spara esattamente quando il fascio viene lanciato in modo che entrambi arrivano a $A$ contemporaneamente, determinare il valore dell'angolo $\angle BHA$.
+> 
+> (A) $10^\circ$ \quad (B) $15^\circ$ \quad (C) $30^\circ$ \quad (D) $45^\circ$ \quad (E) $60^\circ$
+
+![[src_obm_2013_n2_f1__Q15.png]]
+
+**Risposta:** C
+[[src_obm_2013_n2_f1__Q15]]

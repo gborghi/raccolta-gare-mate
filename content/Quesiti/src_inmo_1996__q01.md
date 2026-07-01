@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1996 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1996__Q01
 parent: src_inmo_1996
 competition: Indian National Mathematical Olympiad 1996
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence and uniqueness of divisibility condition for s+j*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1blo_RiJBjiZXTOpkMkcVJPX-cPRJ8p_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza e unicità della condizione di divisibilità per s+j*
+
+> (a) Indicare che, per ogni intero positivo $n$, esistono diversi interi positivi $x$ e $y$ in modo tale che $x + j$ divida $y + j$ per $j = 1, 2, \ldots, n$.
+> 
+> b) Se per alcuni integri positivi $x$ e $y$, $x + j$ divide $y + j$ per tutti gli integri positivi $j$, indicare che $x = y$.
+
+[[src_inmo_1996__Q01]]

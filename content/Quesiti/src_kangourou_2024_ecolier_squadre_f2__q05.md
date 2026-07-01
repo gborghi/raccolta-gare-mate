@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Ecolier Finale 2 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre_f2__Q05
 parent: src_kangourou_2024_ecolier_squadre_f2
 competition: Kangourou Squadre 2024 Ecolier Finale 2
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri 3 cifre con decina media delle altre*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0045
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KJH5hNxwZ1BLLJ4nZS0-XQx71pezKYxX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers of 3 digits with average decimal places of the others*
+
+> We call the mean of two numbers half their sum. How many three-digit integers (therefore with the number of hundreds different from 0) are such that the number of tens is the average of the other two digits? The answer is 0045. The solution.
+
+**Answer:** 0045
+[[src_kangourou_2024_ecolier_squadre_f2__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q06
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultimo giorno con cifre a due a due diverse*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Last day with two to two different digits< MSK1/>
+
+> Today's date can be written as 21/03/2019: the digits 0, 1 and 2 were used twice each. Which of the following numbers denotes the day on which two to two different digits were last used? A) 30
+> 	
+> B) 25
+> 	
+> C) 29
+> 	
+> D) 28
+> 	
+> E) 31
+
+**Answer:** B
+[[src_kangourou_2019_student_marzo__Q06]]

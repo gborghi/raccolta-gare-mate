@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2024 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_automne__Q10
 parent: src_canimath_2024_automne
 competition: Coupe Animath Automne 2024
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of 5 points with quadrilateral and equal-length conditions*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di 5 punti con condizioni quadrilaterali e di lunghezza uguale*
+
+> Determinare se nel piano esistono cinque punti distinti $A$, $B$, $C$, $D$ e $P$, verificando le seguenti condizioni: \begin{itemize} \item il quadrilaterale $ABCD$ non si interseca; \item il punto $P$ si trova rigorosamente all'interno di questo quadrilaterale; \item i segmenti $[AP]$, $[BP]$, $[CP]$ e $[DP]$ sono tutti contenuti all'interno del quadrilaterale $ABCD$; \item le equalità delle lunghezze $AP = AB$, $BP = BC$, $CP = CD$ e $DP = DA$. # Finire #
+
+[[src_canimath_2024_automne__Q10]]

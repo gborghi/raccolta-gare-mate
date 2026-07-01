@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Junior (gara marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior__Q11
 parent: src_kangourou_2012_junior
 competition: Kangourou 2012 Junior (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale calcolo con 8 non funziona scambiando il numero*
 
@@ -63,3 +66,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which calculation with 8 does not work by changing the number *
+
+> A positive integer of four digits (in decimal notation) is called number tris if the number of hundreds is 3 and the sum of the remaining digits is still 3. How many tri-numbers are there? A) 2 B) 3 C) 4 D) 5 E) 6 g A B C D E M N 3 3 6 ?
+> 
+> I'm going to pay. I'm going to pay. The Commission shall adopt implementing acts in accordance with the opinion of the European Parliament and of the Council.
+
+[[src_kangourou_2012_junior__Q11]]

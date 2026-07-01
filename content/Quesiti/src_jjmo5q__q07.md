@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2007 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo5q__Q07
 parent: src_jjmo5q
 competition: Japan Junior Mathematical Olympiad 2007
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quadrilateral with intersecting diagonals at 60°; minimize perimeter*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK1/>Quadrilaterale con diagonali che si intersecano a < MSK0/>; ridurre al minimo il perimetro < MSK2/>
+
+> In quadrilaterale $ABCD$, le diagonali $AC$ e $BD$ si intersecano in un punto interno $P$. Date $AC = 2$, $BD = 3$ e $\angle APB = 60^\circ$, si trova il valore minimo di $AB + BC + CD + DA$.
+
+[[src_jjmo5q__Q07]]

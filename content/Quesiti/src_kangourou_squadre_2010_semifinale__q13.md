@@ -3,6 +3,7 @@ title: >-
   Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito
   13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2010_semifinale__Q13
 parent: src_kangourou_squadre_2010_semifinale
 competition: Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri ABBA di 4 cifre multipli di 11*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0090
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many 4-digit ABBA numbers are multiplied by 11*
+
+> Anna and her dog Anna is walking with her dog on a circular track that surrounds a pond. The runway is 500 meters long. At a certain moment the dog starts running at a speed of 10 km/h; Anna chases him running at a speed of 8 km/h. When the distance between the dog and Anna has become 250 meters, Anna reverses the side of her run, intending to retrieve the dog (which instead continues to run in the same direction) running towards him. If the dog and Anna's speeds stay the same, how many seconds will Anna be separated from her dog?
+
+**Answer:** 0090
+[[src_kangourou_squadre_2010_semifinale__Q13]]

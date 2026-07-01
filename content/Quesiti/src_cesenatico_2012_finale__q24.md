@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_finale__Q24
 parent: src_cesenatico_2012_finale
 competition: Gara a Squadre Cesenatico 2012 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *AB=2:3*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0325
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AB=2:3*
+
+> 24. Last time our heroes collected the seven dragon spheres, but the ritual to evoke Shannon is more complicated than usual. The spheres are arranged on the vertices of a regular ABCDEFG hexagon of centre O and area 4095 < MSK0/>. The dragon will come out of a point P that must be inside the hexagon, be on the circumference passing through O, A and B and such that (PA−PB): AB = 2: 3. To summon the dragon, in addition to reciting the magic formula they will also have to say the area of PAB, in $m^{2}$. What number do they have to say?
+
+**Answer:** 0325
+[[src_cesenatico_2012_finale__Q24]]

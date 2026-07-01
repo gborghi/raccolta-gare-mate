@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2018 Finale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_finale__Q15
 parent: src_kangourou_2018_squadre_finale
 competition: Kangourou Coppa squadre 2018 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazioni irriducibili <1 con somma termini 2018*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0504
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Irreducible fractions <1 with sum of terms 2018*
+
+> Fractions How many positive irreducible fractions less than 1 are such that the sum of the numerator and denominator is 2018?
+> 
+> 1
+>  
+> Kangourou of Mathematics 2018 Kangourou Cup to teams Final Cervia, 4 May 2018
+>  
+> Questions and developments
+
+**Answer:** 0504
+[[src_kangourou_2018_squadre_finale__Q15]]

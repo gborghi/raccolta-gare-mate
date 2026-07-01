@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (finale Cervia) — Quesito B1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_finale__QB1
 parent: src_kangourou_2017_benjamin_finale
 competition: Kangourou 2017 Benjamin (finale Cervia)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anni fa la somma eta figli uguale a quella del padre*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 11 anni fa
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10o3_Kq9VXpAG6jJgjn7UgIrlMfXVipvA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Anni makes the sum of his children equal to that of his father*
+
+> A 68-year-old father has two children, ages 37 and 42. How many years ago was the sum of the ages of the two sons equal to the age of the father?
+
+**Answer:** 11 anni fa
+[[src_kangourou_2017_benjamin_finale__QB1]]

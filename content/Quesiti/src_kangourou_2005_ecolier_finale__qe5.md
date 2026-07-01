@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Ecolier (finale nazionale) — Quesito E5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_ecolier_finale__QE5
 parent: src_kangourou_2005_ecolier_finale
 competition: Kangourou 2005 - Ecolier (finale nazionale)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conviene essere primo o secondo nel gioco delle monete*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** secondo
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IkYd8e7o2p8yRZV9wdme-Pnuv7OvFI11/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*It's good to be first or second in the coin game*
+
+> You and a friend play the next game. You have an initial stack of 5 coins: take one, two, or three coins from the stack of your choice in turn, respecting the rule that each player, when it's his turn, must take at least one coin and, if there is more than one coin in the stack, he cannot take the same number of coins that the opponent took on the previous move. Whoever collects the last or last available coins loses. If you want to win and both of you play without making mistakes, is it best to be first or second hand? You answer by motivating the answer.
+
+**Answer:** secondo
+[[src_kangourou_2005_ecolier_finale__QE5]]

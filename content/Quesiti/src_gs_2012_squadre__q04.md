@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q04
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie con prodotto mod 9 uguale a cifra (tabella)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1296
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Pairs with mod 9 product equal to figure (table) < MSK1/>
+
+> Dotto continues to practice with numbers: he has invented a new operation between integers. Multiply the number of units of the first number by the number of units of the second number, then, if the result is greater than 9, it adds the numbers, and if this new number is greater than 9, it adds the numbers again, until it gets a number with only one digit. This is the unit number of the resulting number of the new operation. The same goes for the number of tens, the number of hundreds, and so on. How many pairs of numbers have the result $1357$?
+
+**Answer:** 1296
+[[src_gs_2012_squadre__Q04]]

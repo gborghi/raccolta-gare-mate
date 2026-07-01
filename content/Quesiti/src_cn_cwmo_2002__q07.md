@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2002 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2002__Q07
 parent: src_cn_cwmo_2002
 competition: China Western Mathematical Olympiad 2002
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fibonacci-type sequence: prove recurrence and find divisibility pairs*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di tipo Fibonacci: dimostrare la ricorrenza e trovare coppie di divisibilità*
+
+> Supponiamo che $\alpha$, $\beta$ siano due radici dell'equazione $x^2 - x - 1 = 0$. Proviamo che per qualsiasi intero positivo $n$, abbiamo $a_{n+2} = a_{n+1} + a_n$. (2) Trovare tutti i numeri interi positivi $a$ e $b$, $a < b$, soddisfacendo che $b$ divide $a_n - 2a \cdot n^b$ per qualsiasi numero intero positivo $n$. (Posizionato da Li Shenghong)
+
+[[src_cn_cwmo_2002__Q07]]

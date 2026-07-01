@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q02
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count four-digit odd numbers with digits 1,2,3,4 each once*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri odd a quattro cifre con cifre 1,2,3,4 ciascuna una volta*
+
+> Il numero di numeri odd a quattro cifre con cifre $1, 2, 3, 4$, che si verificano ciascuna esattamente una volta, è:
+
+[[src_ioqm_2024__Q02]]

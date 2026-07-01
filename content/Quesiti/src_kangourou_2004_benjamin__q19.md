@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q19
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Primo giorno per massimi giorni di sole*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>First day for maximum sunny days< MSK1/>
+
+> Turtle Island has a very strange climate: every Monday and Wednesday it rains, every Saturday there is fog while the rest of the days there is sunshine. A group of tourists plan to spend 44 consecutive days on the island. What day of the week should be their first day of vacation if they want to enjoy as many sunny days as possible? (a) Monday (b) Tuesday (c) Wednesday (d) Thursday (e) Friday
+
+**Answer:** D
+[[src_kangourou_2004_benjamin__Q19]]

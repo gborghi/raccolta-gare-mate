@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q21
 parent: src_kangourou_2018_benjamin_marzo
 competition: Kangourou 2018 Benjamin - Gara 15 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra rappresentata dalla lettera B nella somma*
 
@@ -58,3 +61,25 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number represented by the letter B in the sum*
+
+![[src_kangourou_2018_benjamin_marzo__prob21.png]]
+
+> Francis correctly summed two three-digit numbers. In the figure, the digits that formed the numbers were replaced with letters: equal letters for equal numbers, different letters for different numbers. What number is represented by the letter B? A) 0
+> 	
+> B) 2
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6 A B C  + C B A  = D D D D
+>
+
+**Answer:** A
+[[src_kangourou_2018_benjamin_marzo__Q21]]

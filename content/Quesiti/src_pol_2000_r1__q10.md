@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2000 — Round 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2000_r1__Q10
 parent: src_pol_2000_r1
 competition: Olimpiade Matematica Polacca 2000 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *OA, OB, OC pairwise orthogonal unit vectors; line/plane through O with A',B',C' projections of A,B,C; find set of values of OA'^2+OB'^2+OC'^2.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Vettori di unità ortogonali in coppia OA, OB, OC; linea/piano attraverso O con proiezioni A',B',C' di A,B,C; trovare l'insieme dei valori di OA'^2+OB'^2+OC'^2.*
+
+> Lasciate che $\overrightarrow{OA}, \overrightarrow{OB}, \overrightarrow{OC}$ siano vettori unitari ortogonali in coppia nello spazio. Lasciate che $O$ sia un piano variabile attraverso $O$, e lasciate che $A', B', C'$ sia le proiezioni di $A, B, C$ su $O$. Trova l'insieme dei valori di $OA'^2 + OB'^2 + OC'^2$ quando $O$ assume tutte le posizioni possibili.
+
+[[src_pol_2000_r1__Q10]]

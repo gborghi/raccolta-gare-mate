@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q03
 parent: src_archimede_2013_febb_2livello
 competition: Archimede Gara di Febbraio 2013 - 2 livello
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parita su vertici di poligono, affermazione sicuramente vera*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Parity on polygon vertices, assertion certainly true*
+
+> On the vertices of a polygon with n ≥3 sides are written whole numbers, so that the number written on each vertex has the same parity as the sum of the numbers written on the two adjacent vertices (i.e. if the number on the vertex is equal, also the sum of the numbers appearing on the adjacent vertices is equal, while if the number is odd also the sum is odd). Which of the following is certainly true? (A) There are more even numbers than odd ones. (B) There are more odd numbers than equal. (C) The number of vertices on which an odd number is written is equal. (D) n is multiple of 3. (E) None of the above.
+
+**Answer:** C
+[[src_archimede_2013_febb_2livello__Q03]]

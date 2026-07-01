@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q05
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integer solutions to ||x|-2020| < 5*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 18
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Soluzioni integrali per il calcolo del bilancio 2020 < < MSK0/>
+
+> Trovare il numero di soluzioni integrali a $\big||x| - 2020\big| < 5$.
+
+**Risposta:** 18
+[[src_ioqm_2020__Q05]]

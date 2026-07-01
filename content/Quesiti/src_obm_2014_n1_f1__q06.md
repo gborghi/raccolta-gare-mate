@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f1__Q06
 parent: src_obm_2014_n1_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1
@@ -41,6 +42,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cards 1 to 2014 colored yellow/green/black cyclically; which statements are true*
 
@@ -61,3 +64,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Carte da 1 a 2014 di colore giallo/verde/nero ciclicamente; quali dichiarazioni sono vere*
+
+> Ana allinea le carte $2014$ e le numerizza da $1$ a $2014$. Poi, a partire dal primo, le colora con i colori giallo, verde e nero, uno per uno, sempre in questo ordine. Considerate le seguenti affermazioni:
+> 
+> I) Il numero delle carte è lo stesso per i tre colori. II) [nota II] III) [nota III]
+> 
+> Quali affermazioni sono vere?
+> 
+> (A) Solo I \quad (B) Solo II \quad (C) Solo III \quad (D) Solo I e II \quad (E) Solo II e III
+
+[[src_obm_2014_n1_f1__Q06]]

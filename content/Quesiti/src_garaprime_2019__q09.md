@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2019 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2019__Q09
 parent: src_garaprime_2019
 competition: Gara Nazionale Classi Prime 2019
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *140 Pollici in Spanne*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GTzdagqUQpCUSYBLrYJmJaKl7DQUIbtK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>140 Inches in Spanne< MSK1/>
+
+> For measuring the lengths, Kenoncè Island uses 4 different units of measurement: the Pollice, the Mignolo, the Index and the Spanna. We know that 7 Indices are as long as 5 Spanne, 21 Minnoli as long as 20 Inches and 2 Indices as long as 3 Minnoli. How many Spanne is 140 inches? A 70 B 105 C 630 D 42 E 450 F 12
+
+**Answer:** A
+[[src_garaprime_2019__Q09]]

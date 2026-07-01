@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q22
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *N is a power tower of 2009 eights; repeatedly sum digits to a single digit (digital root); find it.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N è una torre di potenza di otto del 2009; sommare ripetutamente i numeri a una singola cifra (radice digitale); trovarla.*
+
+> Let $N = 8^{8^{\cdot^{\cdot^{8}}}}$, in cui figurano $2009$ numeri $8$ (una torre di $2009$ otto). Agilulfo, sotto punizione, deve scrivere la somma delle cifre di $N$, ottenendo un numero $M$; quindi deve calcolare la somma delle cifre di $M$; e deve ripetere la procedura fino a ottenere un numero con una singola cifra. Aiutiamo Agilulfo: quella cifra è (A) $1$ (B) $2$ (C) $3$ (D) $7$ (E) $8$
+
+[[src_obm_2009_n3_f1__Q22]]

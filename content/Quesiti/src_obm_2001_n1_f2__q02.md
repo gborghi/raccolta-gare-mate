@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f2__Q02
 parent: src_obm_2001_n1_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of parallelogram in Tangram square dissection*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1/8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OU_kkwljknqnKJvISMf5e6JcgwurbdgC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area del parallelo nella dissezione quadrata di Tangram*
+
+> I pezzi di un gioco chiamato Tangram sono costruiti tagliando un quadrato in sette parti, come mostrato nella figura: due grandi triangoli rettangolari, un triangolo rettangolo medio, due piccoli triangoli rettangolari, un quadrato e un parallelo. Se l'area del grande quadrato è 1, quale è l'area del parallelo?
+
+![[src_obm_2001_n1_f2__Q02.png]]
+
+**Risposta:** 1/8
+[[src_obm_2001_n1_f2__Q02]]

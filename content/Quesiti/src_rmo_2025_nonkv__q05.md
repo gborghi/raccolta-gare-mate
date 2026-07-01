@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2025 — Non-KV — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2025_nonkv__Q05
 parent: src_rmo_2025_nonkv
 competition: Regional Mathematical Olympiad 2025
@@ -31,6 +32,8 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle, circumcircle, midpoint; prove MH equals circumradius*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ik3u0dWCcvW1PmcS_C8SRI2gnccFRgZA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto, circoncircolo, punto medio; dimostrare che il MH è uguale al circondario *
+
+> Il $ABC$ deve essere un triangolo acuto con $AB < AC$, orthocentro $H$ e circoncircolo $\Omega$. Il $M$ deve essere il punto medio dell'arco minore $BC$ di $\Omega$. Supponiamo che $\angle BAC = 60^\circ$. Provare che $MH$ è uguale al raggio di $\Omega$.
+
+[[src_rmo_2025_nonkv__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Finale Ecolier (Mirabilandia) — Quesito E5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier_finale__QE5
 parent: src_kangourou_2011_ecolier_finale
 competition: Kangourou 2011 Finale Ecolier (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Primo anno futuro in cui 9 maggio cade di lunedi*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2016
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_PB03afvO4l0fSH5c-T6VZlHwPWDnEt1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First future year in which 9 May falls on Monday*
+
+> Today, May, is Monday. What is the first of the next few years in which May will fall on Monday?
+
+**Answer:** 2016
+[[src_kangourou_2011_ecolier_finale__QE5]]

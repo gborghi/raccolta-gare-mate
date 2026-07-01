@@ -1,6 +1,7 @@
 ---
 title: IMO 1976 (Eighteenth International Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1976_all__Q03
 parent: src_imo_1976_all
 competition: IMO 1976 (Eighteenth International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Box dimensions where volume-2 cubes fill exactly 40%*
 
@@ -35,3 +38,13 @@ tags:
 **Metodo:** [[method_casework|Analisi per casi]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11l0Z3RXDT5mQvc_2OoUC_uxhAD2ME5IA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Box dimensions where volume-2 cubes fill exactly 40%
+
+> A rectangular box can be filled completely with unit cubes. If one places as many cubes as possible, each with volume $2$, in the box, so that their edges are parallel to the edges of the box, one can fill exactly $40\%$ of the box. Determine the possible dimensions of all such boxes.
+
+[[src_imo_1976_all__Q03]]

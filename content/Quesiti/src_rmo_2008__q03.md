@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2008 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2008__Q03
 parent: src_rmo_2008
 competition: Regional Mathematical Olympiad 2008
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cubic with all positive real roots: bounds on coefficients*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16mQy3REp8_l6rFZ-_EyE4gi26-48xpHT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cubico con tutte le radici reali positive: limiti sui coefficienti*
+
+> Supponiamo che $a$ e $b$ siano numeri reali in modo tale che le radici dell'equazione cubica $ax^3 - x^2 + bx - 1 = 0$ siano tutti numeri reali positivi. Prove che: i) $0 < 3ab \le 1$ e ii) $b \ge \sqrt{3}$.
+
+[[src_rmo_2008__Q03]]

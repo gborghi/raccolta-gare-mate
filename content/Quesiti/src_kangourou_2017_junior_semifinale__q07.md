@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Semifinale individuale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q07
 parent: src_kangourou_2017_junior_semifinale
 competition: Kangourou 2017 Junior - Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero possibile di partite del torneo a batterie*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wcjQloPFR27i6zyeHrMFz2T13JxlzXfM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible number of matches of the battery tournament*
+
+> (Points 5) The number of participants in a mega tennis tournament has been set so that the tournament can be organised as follows. All participants are divided into batches of 5 players each. The overall winners of the individual batches are still divided into batches of 5 players each and so on until they have only 2 batches of 5 players each whose winners face each other in the final. In each battery, each player faces each other once and only once. What is the total number of matches to be played in the tournament?
+>
+> - **(A)** 501
+> - **(B)** 601
+> - **(C)** 3021
+> - **(D)** 3101
+> - **(E)** None of the above
+
+**Answer:** E
+[[src_kangourou_2017_junior_semifinale__Q07]]

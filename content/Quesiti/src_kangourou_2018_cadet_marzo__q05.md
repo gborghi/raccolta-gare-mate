@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q05
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti percorsi della pallina fino alla corsia B*
 
@@ -55,3 +58,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many paths of the ball up to the B lane *
+
+![[src_kangourou_2018_cadet_marzo__prob5.png]]
+
+> The video of an electronic game is shown in the figure. Each ball, falling on the first ball from the upper container, bounces over the bottom ball immediately to the right or left at random and then proceeds downward bouncing always smoothly: in the figure you can see one of the possible paths of a ball. How many different routes can the ball take to get to runway B? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5 E) 6
+
+**Answer:** C
+[[src_kangourou_2018_cadet_marzo__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q08
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri tra 20 e 30 divisibili per la cifra unità*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers between 20 and 30 divisible by the unit number *
+
+> The number 36 has the property of being divisible by its number of units: in fact 36 is divisible by 6. How many numbers between 20 and 30 have this property? A) 2
+>         	
+> B) 3
+>  	
+> C) 4
+>         	
+> D) 5
+> 	
+> E) 6
+
+**Answer:** C
+[[src_kangourou_2013_benjamin__Q08]]

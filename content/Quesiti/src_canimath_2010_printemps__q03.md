@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2010 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2010_printemps__Q03
 parent: src_canimath_2010_printemps
 competition: Coupe Animath Printemps 2010
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integers 1<x<y<z whose symmetric sum equals 2009*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ICeKHFa9AJshYkRGcVmLzHyoHqOKQ5Ay/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i numeri interi 1<x<y<z la cui somma simmetrica è uguale a 2009*
+
+> Trova tutti gli integri $x$, $y$, $z$ che soddisfano: $$1 < x < y < z \quad \text{and} \quad x + y + z + xy + yz + zx + xyz = 2009.$$
+
+[[src_canimath_2010_printemps__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_2livello__Q09
 parent: src_archimede_2023_2livello
 competition: Archimede Gara di Febbraio 2023 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Successione cifre, coppie iniziali con a_2023=9*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Succession numbers, initial pairs with a_2023=9*
+
+> The an sequence is constructed as follows: a1, a2 are integers between 1 and 9 (extremes included); for n ≥3, if the sum between an−1 and an−2 consists of a single digit, then that sum is the value of an; if instead an−1 + an−2 has more than one digit, the sum of its digits will be the value of an (e.g., if a4 = 7 and a5 = 8, then a6 = 6 as 7 + 8 = 15 and 1 + 5 = 6). How many possible choices of the pair (a1, a2) do you have if a2023 = 9?
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 9
+> - **(D)** 27
+> - **(E)** 81
+
+**Answer:** C
+[[src_archimede_2023_2livello__Q09]]

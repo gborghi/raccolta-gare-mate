@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q09
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Missing units digit of a 4-digit sum of five consecutive numbers*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Unita' mancante di una somma a 4 cifre di cinque numeri consecutivi*
+
+> Aggiungendo cinque numeri consecutivi sulla sua calcolatrice, Esmeralda trovò un numero a 4 cifre: $2\,0\,0\,*$. L'ultima cifra non è chiara, ma lei sa che non è zero. Questa cifra può essere solo:
+> 
+> **A)** $5$ $\quad$ **B)** $4$ $\quad$ **C)** $3$ $\quad$ **D)** $2$ $\quad$ **E)** $9$
+
+**Risposta:** A
+[[src_obm_2004_n2_f1__Q09]]

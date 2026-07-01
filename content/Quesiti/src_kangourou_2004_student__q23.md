@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q23
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Relazione tra grafici delle funzioni f e g*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Relation between graphs of functions f and g*
+
+![[src_kangourou_2004_student__prob23.png]]
+
+> The figure shows the graphs of two functions f and g, defined on real numbers. Which of the following equations is satisfied for every real number x? A)  f(x) = −g(x) +2 B) f(x) = −g(x) −2 C) f(x) = −g(x+2) D) f(x+2) = −g(x) E) f(x+1) = −g(x−1)
+
+**Answer:** C
+[[src_kangourou_2004_student__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Finale nazionale Cervia — Quesito C3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_finale__QC3
 parent: src_kangourou_2018_cadet_finale
 competition: Kangourou 2018 Cadet - Finale nazionale Cervia
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Auto nei sei gruppi meno numerosi per somma cifre*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 56
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1awWRc26fxuhAuA2B9ihEhXsIlMGONtXu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Auto in the six smallest groups by sum of digits*
+
+> There's exactly a million cars in Kanglandia. Their plates, all different from each other, have six digits: the numbers are therefore between $000000$ and $999999$. For each car the plate numbers are added and the cars are divided into groups so that all the cars in the same group provide the same sum and different groups are related to different sums. How many cars do the six smallest groups have in total?
+
+**Answer:** 56
+[[src_kangourou_2018_cadet_finale__QC3]]

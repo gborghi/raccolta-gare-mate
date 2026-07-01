@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2012 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2012__Q04
 parent: src_cn_cmc-complementary-test_2012
 competition: China Mathematical Competition (Complementary Test) 2012
@@ -33,6 +34,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove harmonic series fractional parts are dense in any subinterval of [0,1]*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che le parti frazionarie della serie armonica sono dense in qualsiasi sottointervallo di [0,1]*
+
+> (50 marchi) Let $S_n = 1 + \frac{1}{2} + \cdots + \frac{1}{n}$, dove $n$ è un intero positivo. Prova che per tutti i numeri reali $a$, $b$ con $0 \leq a < b \leq 1$, ci sono infiniti termini nella sequenza $\{S_n - \lfloor S_n \rfloor\}$ che sono all'interno di $(a, b)$. (Qui $\lfloor x \rfloor$ indica il più grande numero intero non superiore al numero reale $x$.)
+
+[[src_cn_cmc-complementary-test_2012__Q04]]

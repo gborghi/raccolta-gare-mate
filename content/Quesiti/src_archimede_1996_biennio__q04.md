@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Biennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_biennio__Q04
 parent: src_archimede_1996_biennio
 competition: Giochi di Archimede 1996 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso del secchio vuoto da sistema lineare sulla sabbia*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ARzIV3wHmzpV455NSIYGulflPgheKY6p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Weight of linear system empty bucket on the sand*
+
+> A bucket full of sand weighs a total of 9 kg, and half-filled with sand weighs 5 kg. How much does the empty bucket weigh?
+>
+> - **(A)** 0,5 kg
+> - **(B)** 1 kg
+> - **(C)** 2 kg
+> - **(D)** 2,5 kg
+> - **(E)** the weight of the bucket cannot be determined.
+
+**Answer:** B
+[[src_archimede_1996_biennio__Q04]]

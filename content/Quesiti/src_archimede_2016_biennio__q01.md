@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Biennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_biennio__Q01
 parent: src_archimede_2016_biennio
 competition: Giochi di Archimede 2016 - Biennio
@@ -23,6 +24,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di cifre di 1000^1000*
 
@@ -39,3 +42,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1w98Us2ogDSfVMh4NQofZesTOzitRRSQB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of digits of 1000^1000*
+
+> Camilla is very patient and is writing, by extension, the entire number 10001000. How many digits does he have to write in all?
+>
+> - **(A)** 1000
+> - **(B)** 3001
+> - **(C)** 1000001
+> - **(D)** 1001
+> - **(E)** 1004
+
+**Answer:** B
+[[src_archimede_2016_biennio__Q01]]

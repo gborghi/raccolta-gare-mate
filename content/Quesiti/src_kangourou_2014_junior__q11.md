@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q11
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo potenze di 3 distinte con somma 1000*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum power of 3 distinct powers with sum of 1000*
+
+> I want to express the number 1,000 as the sum of the powers of 3 all different from each other. What is the smallest number of powers of 3 that I can add up to achieve the goal? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 6 E) The project cannot be carried out.
+
+**Answer:** C
+[[src_kangourou_2014_junior__Q11]]

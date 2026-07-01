@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f1__Q06
 parent: src_obm_2012_n1_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum boxes of 20 pills to last a full year (Mon/Wed/Fri dosage)*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Minimum di scatole di 20 pillole per un anno intero (dosaggio Mon/ Wed/ Fr) < MSK1/>
+
+> Ricardo prende una pillola il lunedì, mercoledì e venerdì, ogni settimana. Le pillole sono vendute in scatole di 20 unità ciascuno. Qual è il numero minimo di scatole che deve comprare per avere abbastanza per un anno intero?
+> 
+> (A) 5 \quad (B) 6 \quad (C) 7 \quad (D) 8 \quad (E) 9
+
+**Risposta:** D
+[[src_obm_2012_n1_f1__Q06]]

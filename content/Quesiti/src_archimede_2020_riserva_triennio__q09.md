@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_riserva_triennio__Q09
 parent: src_archimede_2020_riserva_triennio
 competition: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di furfanti ai tavoli con vincolo sui vicini*
 
@@ -46,3 +49,19 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oJMUKhCeVFFbkLLL48V2VZrR6ye_9VCN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of thieves at tables bound to neighbours< MSK1/>
+
+> On an island there are two categories of people: the knights (who always tell the truth) and the crooks (who always tell the lies). At a banquet, there are 9 tables with 3 people sitting, 8 tables with 4 people, 5 tables with 5 people and 10 tables with 6 (all round tables). Each of them says: The two people next to me are from two different categories. How many thieves can there be at the banquet?
+>
+> - **(A)** 144
+> - **(B)** 86
+> - **(C)** 48
+> - **(D)** 88
+> - **(E)** 72
+
+[[src_archimede_2020_riserva_triennio__Q09]]

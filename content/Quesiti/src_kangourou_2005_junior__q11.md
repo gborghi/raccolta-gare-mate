@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q11
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Faccia superiore del dado nella posizione finale*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Top of the dice in the final position*
+
+![[src_kangourou_2005_junior__prob11.png]]
+
+> The sum of the points on the opposite sides of a dice is always 7. A dice rolls along the path shown in the figure. In the initial position (S) on the upper face of the dice, it reads 3. What do you read on the upper face when the dice are in the final position (F)? A) 2 B) 3 C) 4 D) 5 E) 6
+
+**Answer:** E
+[[src_kangourou_2005_junior__Q11]]

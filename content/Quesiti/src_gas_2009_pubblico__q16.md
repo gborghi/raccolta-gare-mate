@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_pubblico__Q16
 parent: src_gas_2009_pubblico
 competition: Gara a Squadre 2009 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di n con espressione radicale annidata intera*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1743
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of n with full nested radical expression*
+
+> Radical reinforcements [60] Areagorn must seek to increase the company's army and ask for reinforcements from the undead. Sadly, the head of the army of the undead, a mathematician, proposes to Areagorn to give him a warrior for every natural number n such that the number 49q√n+p n+20092009 is whole. How many undead will the company have?
+
+**Answer:** 1743
+[[src_gas_2009_pubblico__Q16]]

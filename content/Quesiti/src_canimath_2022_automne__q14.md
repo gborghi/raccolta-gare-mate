@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2022 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_automne__Q14
 parent: src_canimath_2022_automne
 competition: Coupe Animath Automne 2022
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive reals summing to 1; inequality involving sum of |xi-yi| and min ratios*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hAlr5oS_VPXWtAhgZvHeNt9W7CHb_zHz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Reali positivi sommando a 1; disuguaglianza che comporta la somma di xxi-yi-yi e min ratios*
+
+> Che $n$ sia un numero intero strettamente positivo e $x_1, \ldots, x_n, y_1, \ldots, y_n$ sia un numero reale strettamente positivo tale che $x_1 + \cdots + x_n = y_1 + \cdots + y_n = 1$. Indicare che: < MSK0/>
+> 
+> Per i numeri reali $a_1, a_2, \ldots, a_n$, $\displaystyle\min_u a_u$ indica il numero più piccolo dei numeri $n$ $a_1, a_2, \ldots, a_n$.
+
+[[src_canimath_2022_automne__Q14]]

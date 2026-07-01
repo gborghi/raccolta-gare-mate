@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2012 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2012__Q05
 parent: src_cn_cmo_2012
 competition: China Mathematical Olympiad 2012
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For square-free even n and prime p with p<2 sqrt(n), p not dividing n, p dividing n+k^2, write n as ab+bc+ca with distinct positive integers.*
 
@@ -43,3 +46,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per n pari a quadrato libero e p primo con p<2 sqrt(n), p non divide n, p divide n+k^2, scrivi n come ab+bc+ca con diversi interi positivi.*
+
+> Che $n$ sia un numero pari positivo senza quadrato, $k$ sia un numero intero, $p$ sia un numero primo, soddisfacendo $p < 2\sqrt{n}$, $p \nmid n$, $p \mid n + k^2$. Prova che $n$ può essere scritto come $n = ab + bc + ca$, dove $a$, $b$, $c$ sono numeri interi positivi distintivi.
+
+[[src_cn_cmo_2012__Q05]]

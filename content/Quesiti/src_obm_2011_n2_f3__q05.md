@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f3__Q05
 parent: src_obm_2011_n2_f3
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equilateral triangle of side 2√3 covers at least 16 of 1000 points in unit square*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FQup9_FXEn3vNvvzDk-gCVzfK-BezMBX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il triangolo equilaterale del lato 2√3 copre almeno 16 punti su 1000 in unità quadrata*
+
+> All'interno di un quadrato laterale $16$ sono posizionati punti $1000$. Mostrare che è possibile posizionare un triangolo equilaterale di lato $2\sqrt{3}$ nel piano in modo che copra almeno $16$ di questi punti.
+
+[[src_obm_2011_n2_f3__Q05]]

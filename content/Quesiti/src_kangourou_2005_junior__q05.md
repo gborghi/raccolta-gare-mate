@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q05
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo palloncini gonfiati in due ore*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum balloons inflated in two hours< MSK1/>
+
+> Angelo can inflate eight balloons every three minutes, but one out of every 10 blows up as soon as it's inflated. What's the maximum number of inflated balloons Angelo can deliver in two hours? A) 160            B) 216            C) 240 D) 288 E) 320
+
+**Answer:** D
+[[src_kangourou_2005_junior__Q05]]

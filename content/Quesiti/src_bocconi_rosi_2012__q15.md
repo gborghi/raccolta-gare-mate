@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2012 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2012__Q15
 parent: src_bocconi_rosi_2012
 competition: Giochi di Rosi 2012
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare un numero tronca-divisibile a due cifre diverso da 24*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Vedi tutte le soluzioni al numero 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1du4nM_pjVseEMRiX1hz7hrTEkEIg-ZC2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find a trunk-divisible two digit number other than 24*
+
+> If, for example, the number 24 and you delete the unit number, you get 2 that divides the starting number 24. Numbers of this type (which, once the unit number is deleted, divide the initial number) are called "trunk-divisible".
+> 
+> **Can you give another example (more than 24) of a two-digit number that is "trunk-divisible"?**
+
+**Answer:** Vedi tutte le soluzioni al numero 16
+[[src_bocconi_rosi_2012__Q15]]

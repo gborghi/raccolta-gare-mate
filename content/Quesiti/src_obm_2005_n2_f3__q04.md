@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f3__Q04
 parent: src_obm_2005_n2_f3
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Swimmer and log problem: time for log to travel from A to B*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qikjZ95ZyXid25_31zk99bAk_4evNgeC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Problema del nuotatore e del registro: tempo per il registro di viaggio da A a B*
+
+> Nella sua formazione quotidiana di nuoto, Esmeraldinho nuota più volte tra due punti $A$ e $B$ situati sulla stessa sponda di un fiume, con un tasso di colpo costante. La corrente del fiume scorre da $A$ a $B$, e la corrente nella direzione opposta è contro Esmeraldinho. Un registro trasportato dal punto di passaggio corrente $A$ al momento esatto in cui Esmeraldinho parte da $A$. Esmeraldinho raggiunge $B$ e ritorna immediatamente verso $A$. Nel viaggio di ritorno, attraversa il tronco 6 minuti dopo aver lasciato il MSK8/. Esmeraldinho raggiunge quindi $A$ e immediatamente parte di nuovo verso $B$, raggiungendo $B$ 5 minuti dopo aver superato il registro per la seconda volta mentre passa da $B$ a $A$. Quanti minuti ci vogliono per spostare il registro da $A$ a $B$?
+
+[[src_obm_2005_n2_f3__Q04]]

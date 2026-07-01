@@ -1,6 +1,7 @@
 ---
 title: IMO 2002 (XLIII International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2002__Q06
 parent: src_imho_2002
 competition: IMO 2002 (XLIII International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *n>2 circles of radius 1, no line meets more than two*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ObZM7DSfR5iF7JGM97BCPn0sruvx6Y7m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*n>2 circles of radius 1, no line meets more than two*
+
+> $n > 2$ circles of radius 1 are drawn in the plane so that no line meets more than two of the circles. Their centres are < MSK1/>. Show that MSK2/.
+
+[[src_imho_2002__Q06]]

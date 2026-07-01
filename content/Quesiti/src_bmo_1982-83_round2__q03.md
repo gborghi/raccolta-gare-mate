@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1982-83 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1982-83_round2__Q03
 parent: src_bmo_1982-83_round2
 competition: British Mathematical Olympiad 1982-83 — Round 2
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three lines in space; PQ perpendicular to n has constant length*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YDzW0kwKkWyYoARh-HNPu4-qokjVbmtj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre linee nello spazio; PQ perpendicolare a n ha una lunghezza costante*
+
+> $l$, $m$, $n$ sono tre linee nello spazio. Né $l$ né $m$ sono perpendicolari a $n$. I punti $P$ e $Q$ variano rispettivamente su $l$ e $m$ in modo tale che $PQ$ sia perpendicolare a $n$, e il piano attraverso $PQ$ perpendicolare a $n$ incontra $n$ in un punto. Provare che $PQ$ è di lunghezza costante.
+
+[[src_bmo_1982-83_round2__Q03]]

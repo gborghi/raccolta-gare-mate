@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2012 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2012__Q08
 parent: src_cn_cgmo_2012
 competition: China Girls' Mathematical Olympiad 2012
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count k in {0,...,2012} with C(2012,k) divisible by 2012*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1498
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta k in {0,...2012} con C(2012,k) divisibile per 2012*
+
+> Trova il numero di integri $k$ nell'insieme $\{0, 1, 2, \ldots, 2012\}$ in modo tale che il numero di combinazione $\binom{2012}{k}$ sia un multiple di $2012$. (Posizionato da Wang Bin)
+
+**Risposta:** 1498
+[[src_cn_cgmo_2012__Q08]]

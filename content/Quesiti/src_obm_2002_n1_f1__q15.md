@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f1__Q15
 parent: src_obm_2002_n1_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ball bouncing on a 5x7 rectangular billiard table along the bisector*
 
@@ -52,3 +55,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NviJwQmbmihSaakvq3DJSWhViadj6Z5P/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Palla che rimbalza su un tavolo da biliardo rettangolare 5x7 lungo il bisector*
+
+> Su un tavolo di biliardo rettangolare, una palla viene colpita da un angolo nella direzione del bisector dell'angolo retto di quell'angolo. Supponiamo che la tabella misura $5 \times 7$ (unità quadrate). Quante volte la palla colpirà un lato prima di raggiungere un'altra curva?
+> 
+> (A) $10$ volte (B) $12$ volte (C) $13$ volte (D) $14$ volte (E) $15$ volte
+
+**Risposta:** A
+[[src_obm_2002_n1_f1__Q15]]

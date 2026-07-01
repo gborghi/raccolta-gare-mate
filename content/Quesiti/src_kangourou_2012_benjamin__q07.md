@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q07
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale figura si ottiene unendo i centri degli esagoni*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What figure is obtained by joining the centres of the hexagons*
+
+![[src_kangourou_2012_benjamin__prob7.png]]
+
+> Look at the figure. For every pair of hexagons that have one side in common, we plot the segment that has their centers as extremes. If we delete the hexagons from the initial figure, what figure do we get? A) B) C) D) E)
+
+**Answer:** C
+[[src_kangourou_2012_benjamin__Q07]]

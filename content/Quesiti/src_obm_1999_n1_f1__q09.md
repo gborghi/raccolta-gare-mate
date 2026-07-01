@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f1__Q09
 parent: src_obm_1999_n1_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Stack of blue plastic cubes exposed to air; count cubes with exactly 3 blue and 3 grey faces.*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Stack di cubetti di plastica blu esposti all'aria; contare i cubetti con esattamente 3 facce blu e 3 facce grigie.< MSK1/>
+
+> Diverse scatole cubiche di plastica blu sono state impilate all'aria aperta nella posizione mostrata nella figura. Con il tempo, la plastica esposta all'aria perse il suo colore, diventando grigio. Quando abbiamo smantellato la pila, abbiamo verificato che il numero di scatole con esattamente tre facce blu e tre facce grigie è:
+> 
+> (A) 4 \quad (B) 5 \quad (C) 3 \quad (D) 2 \quad (E) 1
+
+![[src_obm_1999_n1_f1__Q09.png]]
+
+**Risposta:** A
+[[src_obm_1999_n1_f1__Q09]]

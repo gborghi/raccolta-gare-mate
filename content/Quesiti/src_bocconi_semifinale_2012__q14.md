@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2012 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2012__Q14
 parent: src_bocconi_semifinale_2012
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2012
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma minima delle cifre di N+P date le somme delle cifre di N (1012) e di P (2012).*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of N+P numbers given the sums of N (1012) and P (2012).*
+
+> Sum of figures
+> 
+> The sum of the digits of a number N is equal to 1012; that of the digits of another number P is equal to 2012.
+> 
+> What is the minimum value of the sum of the digits of the number N+P?
+
+**Answer:** 9
+[[src_bocconi_semifinale_2012__Q14]]

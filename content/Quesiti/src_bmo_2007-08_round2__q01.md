@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2007-08 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2007-08_round2__Q01
 parent: src_bmo_2007-08_round2
 competition: British Mathematical Olympiad 2007-08 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum sum of squares under cubic symmetric constraint*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dV-8vN7k_u2OvfcJ8JY9hcNmPbHSmE1W/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum somma di quadrati sotto restrizione simmetrica cubica*
+
+> Trova il valore minimo di $x^2 + y^2 + z^2$ dove $x, y, z$ sono numeri reali come $x^3 + y^3 + z^3 - 3xyz = 1$.
+
+[[src_bmo_2007-08_round2__Q01]]

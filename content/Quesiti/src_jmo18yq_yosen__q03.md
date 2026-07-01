@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2008 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo18yq_yosen__Q03
 parent: src_jmo18yq_yosen
 competition: Japan Mathematical Olympiad 2008 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count item prices for a minimal-pieces, no-shared-denomination payment*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16UREagT5SatT4rS1Cd1YuLPR7swGJr05/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prezzi delle voci per un pagamento a pezzi minimi senza denominazione condivisa*
+
+> Taro va a fare acquisti con una banconota $1000$-yen, una moneta $100$-yen, una moneta $10$-yen e una moneta $1$-yen (una di ciascuna), e le usa tutte e quattro per effettuare il pagamento per un singolo articolo. Quanti valori possibili può assumere il prezzo dell'oggetto? Qui si suppone che, tra i modi di pagamento con cui Taro consegna i soldi e il cambio che riceve non abbiano alcuna denominazione in comune, egli ne scelga una in modo che il numero di monete che detiene dopo aver ricevuto il cambio sia il più piccolo possibile. Inoltre, la variazione viene data utilizzando il minor numero possibile di pezzi, e la variazione può essere $0$ yen.
+
+[[src_jmo18yq_yosen__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2021_squadre__Q14
 parent: src_gsm_2021_squadre
 competition: Gara a Squadre GSM (locale Genova) 2021
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezza massima parallelepipedo su piano inclinato 30 gradi*
 
@@ -55,3 +58,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1224
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum height of parallel piped on a plane inclined by 30 degrees*
+
+> Cima Blockhaus Sandro Campigotto After making one of the most challenging climbs in Italy, Giuseppe and Giulio reached Cima Blockhaus, in the heart of the Abruzzo Apennines. Joseph, while riding, a problem of geometry came to mind. Do you want to hear it? JULIOS (Coming off the bike) Yes, I need to stop for a moment to rest my legs. Joseph A rectangular parallel piped with a side base of 50 cm is supported on an inclined plane of < MSK0/>. What is the maximum height in millimetres that it can have so as not to overturn, that is, so that the vertical perpendicular from the center of the beam is not external to the bottom base? Julius, is the paralelepedo made of homogeneous material? Joseph of course!
+
+**Answer:** 1224
+[[src_gsm_2021_squadre__Q14]]

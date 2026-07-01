@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q30
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che A vinca con vantaggio di 3 punti*
 
@@ -63,3 +66,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of A winning by 3 points *
+
+> The rules of a certain two-player game state that, in order to win, one of the players must be able to gain a 3-point advantage over the other. A and B are playing, and right now, A has a point advantage. If there is a point at each turn and the two players have the same chance of winning it, what is the probability that A will win the final? (You can assume that there is a winner, that is, that the game cannot go on forever.) A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E) O P Q R X Y d 5
+> 
+> Student Answers
+>
+
+**Answer:** B
+[[src_kangourou_2021_student_gara__Q30]]

@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2014__Q08
 parent: src_prmo_2014
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2014
@@ -34,6 +35,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of elements in S given mean conditions on S∪{15} and S∪{15,1}*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di elementi in S date condizioni medie su S∪{15} e S∪{15,1}*
+
+> $S$ sia un insieme di numeri reali con media $M$. Se i mezzi degli insiemi $S \cup \{15\}$ e $S \cup \{15, 1\}$ sono rispettivamente $M + 2$ e $M + 1$, quanti elementi ha $S$?
+
+**Risposta:** 4
+[[src_prmo_2014__Q08]]

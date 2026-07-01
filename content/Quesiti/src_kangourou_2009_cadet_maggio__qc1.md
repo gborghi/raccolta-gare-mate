@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_maggio__QC1
 parent: src_kangourou_2009_cadet_maggio
 competition: Kangourou 2009 - Cadet finale nazionale (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Basta l'area di un triangolo per area del parallelogramma*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17j6HblxyyU68mGSCy1p5rhbmFO-BkmXr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sufficient area of a triangle per area of the parallelogram*
+
+> A parallelogram is divided by its diagonal into 4 triangles, one of which you know the area. Is this enough data to determine the area of the parallelogram? Justify your answer.
+
+**Answer:** si
+[[src_kangourou_2009_cadet_maggio__QC1]]

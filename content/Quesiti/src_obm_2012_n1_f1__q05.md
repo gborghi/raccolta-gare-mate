@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f1__Q05
 parent: src_obm_2012_n1_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distance remaining for Paulinho when sister arrives 20 min early*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+La distanza che rimane per Paulinho quando la sorella arriva 20 minuti prima
+
+> Paulinho e sua sorella lasciano casa allo stesso tempo per andare a scuola. Paulinho guida una bicicletta a 18 chilometri all'ora e sua sorella guida una moto. Sua sorella arriva 20 minuti prima di Paulinho. In quel momento, quanti chilometri deve ancora percorrere Paulinho?
+> 
+> (A) 6 \quad (B) 8 \quad (C) 9 \quad (D) 15 \quad (E) 18
+
+**Risposta:** A
+[[src_obm_2012_n1_f1__Q05]]

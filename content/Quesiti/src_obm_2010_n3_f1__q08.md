@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q08
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Greatest common divisor of all products of three consecutive odd positive numbers.*
 
@@ -55,3 +58,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più grande divisore comune di tutti i prodotti di tre numeri positivi dispari consecutivi.*
+
+> Il più grande divisore comune di tutti i numeri che sono il prodotto di tre numeri positivi dispari consecutivi è
+>
+> - **(A)** $1$
+> - **(B)** $3$
+> - **(C)** $5$
+> - **(D)** $15$
+> - **(E)** $105$
+
+**Risposta:** B
+[[src_obm_2010_n3_f1__Q08]]

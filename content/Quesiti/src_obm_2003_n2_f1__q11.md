@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f1__Q11
 parent: src_obm_2003_n2_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Arithmetic minus harmonic mean of 4 and 6*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Medio aritmetico meno armonico di 4 e 6*
+
+> Considerate le seguenti definizioni: - La media aritmetica ** di due numeri reali positivi è la metà della loro somma. - La media armonica ** di due numeri reali positivi è la reciproca della media aritmetica dei loro reciproci.
+> 
+> La differenza tra la media aritmetica e la media armonica dei numeri 4 e 6 è:
+> 
+> (A) 0,1 \quad (B) 0,2 \quad (C) 0,3 \quad (D) 0,4 \quad (E) 0,5
+
+**Risposta:** B
+[[src_obm_2003_n2_f1__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2006-07 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2006-07_round2__Q01
 parent: src_bmo_2006-07_round2
 competition: British Mathematical Olympiad 2006-07 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer-sided triangle, angle bisector meets BC, AB=CD, find AB and BC*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13patTNOY-l-7IEYEjDrmwDYanVi5UO1N/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo a lato intero, bisettore angolare incontra BC, AB=CD, trova AB e BC*
+
+> Il triangolo $ABC$ ha lati a lunghezza interi e $AC = 2007$. Il bisettore interno di $\angle BAC$ incontra $BC$ a $D$. Dato che $AB = CD$, determinare $AB$ e $BC$.
+
+[[src_bmo_2006-07_round2__Q01]]

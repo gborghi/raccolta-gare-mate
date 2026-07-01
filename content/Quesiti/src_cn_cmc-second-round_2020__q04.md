@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Second Round) 2020 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-second-round_2020__Q04
 parent: src_cn_cmc-second-round_2020
 competition: China Mathematical Competition (Second Round) 2020
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangulation graphs of a convex 20-gon; find the maximum number of perfect matchings*
 
@@ -48,3 +51,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Grafici di triangolazione di un 20-gon converso; trovare il numero massimo di abbinamenti perfetti*
+
+> (50 marchi) Con un poligono convexo a 20 lati < MSK0/>. Dividendo $P$ in 18 triangoli per le sue 17 diagonali non intersezionate all'interno, il grafico risultante è chiamato grafico di triangolazione di $P$. Per qualsiasi grafico di triangolazione $T$ di $P$, i 20 bordi di $P$ e le 17 diagonali aggiunte sono entrambi chiamati bordi di $T$. L'insieme di qualsiasi 10 bordi di $T$ senza punti di fine comuni tra due bordi è chiamato una corrispondenza perfetta di $T$. Quando $T$ prende tutti i grafici di triangolazione di $P$, trova il numero massimo di abbinamenti perfetti di $T$.
+
+**Risposta:** 89
+[[src_cn_cmc-second-round_2020__Q04]]

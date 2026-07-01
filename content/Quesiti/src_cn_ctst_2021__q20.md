@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q20
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Incircle of triangle; point F with IF parallel BC and equal base angles; prove perpendicularity*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Incircolo di triangolo; punto F con IF parallelo BC e angolazioni di base uguali; prova la perpendicularità*
+
+> Come illustrato in Fig. 2.1, il cerchio $\Omega$ è inscritto nel triangolo $\triangle ABC$; $I$ è il centro di $\triangle ABC$; $O$ è il centro circundante di $\triangle ABC$. Il punto di riferimento è il punto di riferimento di cui all'allegato I del presente regolamento. Il $D$ deve essere un punto di arco $\widehat{AC}$ (non contenente $B$) tale che $AD \parallel BC$. Il $F$ deve essere un punto all'interno di $\triangle ABC$ che soddisfa $IF \parallel BC$ e $\angle BAF = \angle CAF$. $K$ sia l'intersezione delle linee $AF$ e $DI$; $L$ sia l'intersezione delle linee $AF$ e la linea attraverso $N$ e qualche punto costruito. Prova: < MSK24/>.
+
+![[src_cn_ctst_2021__Q20.png]]
+
+[[src_cn_ctst_2021__Q20]]

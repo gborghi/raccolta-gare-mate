@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2011 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2011_automne__Q07
 parent: src_canimath_2011_automne
 competition: Coupe Animath Automne 2011
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive integer triples (p,n,m) with p prime and p^n+144=m^2*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i tripli interi positivi (p,n,m) con p primo e p^n+144=m^2*
+
+> Trova tutti i triples di numeri interi positivi $(p, n, m)$ in modo tale che $p$ sia primo e $p^n + 144 = m^2$.
+
+[[src_canimath_2011_automne__Q07]]

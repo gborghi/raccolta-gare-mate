@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f1__Q19
 parent: src_obm_1998_n2_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Logic puzzle: one truth-teller among four suspects*
 
@@ -57,3 +60,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Un puzzle logico: uno dei quattro sospettati dice la verità
+
+> Un crimine è commesso da una sola persona e ci sono quattro sospetti: André, Eduardo, Rafael e João. Quando vengono interrogati, fanno le seguenti dichiarazioni: - André: Eduardo è colpevole. - João è colpevole. - Non sono colpevole. Eduardo mente quando dice che sono colpevole.
+> 
+> Sapendo che esattamente uno dei quattro ha detto la verità, chi è colpevole?
+> 
+> A) André. B) Eduardo. C) Rafael. D) João. E) Non può essere determinato.
+
+**Risposta:** C
+[[src_obm_1998_n2_f1__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q07
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante mele ha raccolto Mark*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many apples did Mark pick?
+
+> Mark the hedgehog complained to his friends: "If I had picked twice as many apples as I did, I would now have 24 more apples than I have now". How many apples did Mark pick? A)  48 B)  24 C)  42 D)  12 E)  36
+
+**Answer:** B
+[[src_kangourou_2003_ecolier__Q07]]

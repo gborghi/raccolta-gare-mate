@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q04
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora letta allo specchio*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Now read in the mirror< MSK1/>
+
+![[src_kangourou_2000_studenti__prob4.png]]
+
+> In a mirror, you see a clock, that figure, what time is it? A) 15.15 B) 10.15  C) 10.45  D) 8.45   E) 9.45
+
+**Answer:** E
+[[src_kangourou_2000_studenti__Q04]]

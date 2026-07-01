@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2008 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2008__Q01
 parent: src_bocconi_semifinale_2008
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2008
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadrati contabili in un disegno a griglia*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Accounting squares in a grid drawing*
+
+> How many squares can you count on the drawing?
+
+![[src_bocconi_semifinale_2008__Q01.png]]
+
+**Answer:** 10
+[[src_bocconi_semifinale_2008__Q01]]

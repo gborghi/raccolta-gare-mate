@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q10
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Media in base 10 dei numeri pandigitali in base 5*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1562
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mean of base 10 of the digits on base 5*
+
+> For an extra hand Due to continuous duels, the likelihood that an MSK0/>-rat will lose a hand in a fight is extremely high. For this reason, in the π-rate community the decimal numbering base is replaced by the numbering base 5. Ragetti, the guy with the wooden eye is playing the following game: he writes on a sheet all the numbers that, on base 5, are written using once and only once all the numbers from 0 to 4 (the 0 can also be in the initial position). Finally, calculate the average of all the numbers you wrote. What number did you get, base 10? 14 Less easy pieces
+
+**Answer:** 1562
+[[src_gas_2010_finale__Q10]]

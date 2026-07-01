@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q02
 parent: src_kangourou_2021_preecolier_koala
 competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza tra le altezze di due funghi*
 
@@ -43,3 +46,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Difference between the heights of two fungi< MSK1/>
+
+![[src_kangourou_2021_preecolier_koala__prob2.png]]
+
+> The image shows two mushrooms. What's the difference between their heights?
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 11
+> - **(E)** 17 (see figure)
+
+**Answer:** B
+[[src_kangourou_2021_preecolier_koala__Q02]]

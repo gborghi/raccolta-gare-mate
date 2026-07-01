@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Triennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_triennio__Q09
 parent: src_archimede_2012_triennio
 competition: Giochi di Archimede 2012 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Primi p, q con p^q+1 primo*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Prime p, q with p^q+1 prime*
+
+> The answer is B. We'll see that pq + 1 is equal if pq is odd, and vice versa is odd if pq is even. Since the only prime number is 2, for pq + 1 to be prime, it has to be equal to 2 or it has to be odd. But pq + 1 = 2 implies pq = 1, which is impossible. So we have to have that pq is equal, and then p has to be equal, and being first we have to have p = 2. If q is odd pq + 1 admits the breakdown: (pq + 1) = (p + 1)(pq−1 −pq−2 + · · · + p2 −p + 1) and so in particular it is divisible by p + 1 and therefore cannot be prime. So also q has to be equal and so q is equal to 2. The only possibility is then p = q = 2.
+
+**Answer:** B
+[[src_archimede_2012_triennio__Q09]]

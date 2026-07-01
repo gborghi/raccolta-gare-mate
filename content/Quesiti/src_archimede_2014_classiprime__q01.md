@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2014 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_classiprime__Q01
 parent: src_archimede_2014_classiprime
 competition: Gara Nazionale Classi Prime 2014
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Calcolo di espressione con potenze di 2 e 16*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Expression calculation with powers of 2 and 16*
+
+> Calculation: 2 · 22 · 23 · 24 · 259 (16 · 162 · 163 · 164 · 165) 2 A 215 B 1 C 2 D 1 215 E 224 F 1 224
+
+**Answer:** A
+[[src_archimede_2014_classiprime__Q01]]

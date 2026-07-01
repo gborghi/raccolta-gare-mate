@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_a__Q13
 parent: src_cesenatico_2011_semifinale_a
 competition: Gara a Squadre Cesenatico 2011 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del quadrilatero AEFG con punti medi*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 5984
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AEFG quadrilateral area with mean points *
+
+> Works in progress The site for the construction of the monument to Cleopatra was until yesterday a right triangle ABC in A with AB = 128 and AC = 187. Today the area of work has been extended to a BCD triangle, with D on the AB extension such that CD = 222. Within the enlarged site, the monument will be located on the surface of the AEFG quadrilateral, with E, F, G mean points of DB, BC, CD. What is the area of this quadrilateral?
+
+**Answer:** 5984
+[[src_cesenatico_2011_semifinale_a__Q13]]

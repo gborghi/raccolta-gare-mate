@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q15
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti cubi servono per estendere la struttura*
 
@@ -54,3 +57,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many cubes are needed to extend the structure*
+
+![[src_kangourou_2024_cadet__prob15.png]]
+
+> John has a lot of identical cubes. He composed the structure you see on the right by taking a cube and gluing to each of its faces another cube. Now he wants to extend the structure in the same way, that is, stick a cube on all the faces of the structure in the figure. How many more cubes are needed to complete the extended structure? A) 30
+>  
+> B) 24
+>  
+> C) 18
+>  
+> D) 12
+>  
+> E) 6
+
+**Answer:** C
+[[src_kangourou_2024_cadet__Q15]]

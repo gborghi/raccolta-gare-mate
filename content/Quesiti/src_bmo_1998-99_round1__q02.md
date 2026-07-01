@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1998-99 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1998-99_round1__Q02
 parent: src_bmo_1998-99_round1
 competition: British Mathematical Olympiad 1998-99 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove tan(APX)/tan(PAX) is constant as P moves on circle*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tOfO5w6uysbOqI8KklY9Aj83wX_eK3Cu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove tan(APX)/tan(PAX) è costante mentre P si muove su un cerchio*
+
+> Un cerchio ha un diametro $AB$ e $X$ è un punto fisso di $AB$ situato tra $A$ e $B$. Un punto $P$, distinto da $A$ e $B$, si trova sulla circonferenza del cerchio. Prove che, per tutte le posizioni possibili di $P$, $$\frac{\tan \angle APX}{\tan \angle PAX}$$ rimane costante.
+
+[[src_bmo_1998-99_round1__Q02]]

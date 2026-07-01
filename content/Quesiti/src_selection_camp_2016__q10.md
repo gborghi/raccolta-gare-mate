@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2016 — Selection Camp — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2016__Q10
 parent: src_selection_camp_2016
 competition: Japan IMO Selection Camp 2016 — Selection Camp
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum n for snake-like number placement in 2015×2015 grid*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Massimo n per il posizionamento di numeri simili a serpenti nel 2015×2015 grid*
+
+> In una griglia $2015 \times 2015$ sono scritti i numeri interi $1, 2, \ldots, n$, uno in ciascuna delle celle distinte $n$, soddisfacendo le seguenti condizioni: - Per ogni numero intero $i$ con $1 \le i \le n-1$, la cellula contenente $i$ e la cellula contenente $i+1$ condividono un bordo, e la cellula contenente $n$ e la cellula contenente $1$ condividono un bordo. Inoltre, nessuna delle due celle che contengono entrambi i numeri condivide un bordo, eccetto per quelle coppie descritte sopra. - Per tutti gli integri < MSK9/> con < MSK10/>, se la cella contenente < MSK11/> e la cella contenente < MSK12/> condividono solo un angolo (vertice), allora < MSK13/>.
+> 
+> Trova il valore massimo possibile di < MSK0/>.
+
+[[src_selection_camp_2016__Q10]]

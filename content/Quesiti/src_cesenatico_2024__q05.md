@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2024__Q05
 parent: src_cesenatico_2024
 competition: Olimpiade Italiana (Cesenatico) 2024 - testi e soluzioni
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *minimo guardie per perimetro e area*
 
@@ -61,3 +64,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 506 e 1012
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14A3kypX3yL3mm83T1BPC_ELqWeT1zP6s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*minimum guards per perimeter and area*
+
+![[src_cesenatico_2024__prob5.png]]
+
+> A fortress is a finite set of boxes in an infinite square grid, with the property that from each box you can reach every other box by always moving between boxes with one side in common. The walls of the fortress are the unitary segments of the grid separating a square of the fortress from a square not belonging to the fortress. The area A of a fortress is the number of squares that make up it. The perimeter P of a fortress is the total length of its walls. The figure below shows three possible fortresses, with their area and perimeter values. A = 23, P = 26 A = 20, P = 34 A = 17, P = 30 b Some boxes of the fortress may contain a guard, who watches over all boxes located above, below, to the right or left of its position, without walls in the middle (each guard also watches over the box in which it is located). For example, a guard placed in the box with the tip of the first fortress guards six boxes, including the one in which it is located. (a) Determine the smallest k for which k guards are sufficient to monitor any possible fortress with perimeter P ≤2024. (b) Determine the smallest k for which k guards are sufficient to monitor any possible fortress with area A ≤2024.
+
+**Answer:** 506 e 1012
+[[src_cesenatico_2024__Q05]]

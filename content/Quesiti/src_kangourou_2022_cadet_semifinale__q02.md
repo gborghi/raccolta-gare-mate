@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet semifinale individuale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q02
 parent: src_kangourou_2022_cadet_semifinale
 competition: Kangourou 2022 Cadet semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte le lancette formano angolo retto 6-12*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many times do the hands form a right angle 6-12< MSK1/>
+
+![[src_kangourou_2022_cadet_semifinale__prob2.png]]
+
+> (3 points) Between 6:00 a.m. and 12:00 a.m. on the same day, how often do the hands of a traditional clock form a right angle? A) 12
+>  
+> B) 11 C) 10 D) 6
+>  
+> E) 5
+
+**Answer:** B
+[[src_kangourou_2022_cadet_semifinale__Q02]]

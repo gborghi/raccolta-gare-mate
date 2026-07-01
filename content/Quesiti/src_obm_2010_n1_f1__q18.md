@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f1__Q18
 parent: src_obm_2010_n1_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which first break guarantees Fabio gets the almond square*
 
@@ -57,3 +60,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il primo passo che garantisce che Fabio ottiene il quadrato delle mandorle
+
+> La figura rappresenta una barra di cioccolato che ha una singola mandorla coperta di cioccolato in un quadrato. Ne' Elias ne' F'abio amano le mandorle. Decidono di dividere il cioccolato rompendolo lungo le linee verticali o orizzontali, un pezzo alla volta, a turno; per la lotteria, Elias va prima, e è vietato prendere più della metà del cioccolato. Quale scelta garantisce che F'a Bio finira' con il quadrato di cioccolato alla mandorle?
+>
+> - **(A)** Scegli la prima colonna a sinistra.
+> - **(B)** Scegliere le prime due colonne a sinistra.
+> - **(C)** Scegli la terza riga dall'alto, contando verso il basso.
+> - **(D)** Scegli le ultime due righe dal basso, contando verso l'alto.
+> - **(E)** Qualsiasi interruzione, dal momento che F'a Bio finira' con la forza con il quadrato delle mandorle.
+
+![[src_obm_2010_n1_f1__Q18.png]]
+
+**Risposta:** E
+[[src_obm_2010_n1_f1__Q18]]

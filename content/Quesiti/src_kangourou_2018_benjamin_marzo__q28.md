@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q28
 parent: src_kangourou_2018_benjamin_marzo
 competition: Kangourou 2018 Benjamin - Gara 15 marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei numeri possibili al punto di domanda*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of possible numbers at the point of application*
+
+![[src_kangourou_2018_benjamin_marzo__prob28.png]]
+
+> I want to write in each of the seven circles one of the numbers 3, 4, 5, 6, 7, 8, 9 so you can use them all and get the same sum every time you add the three numbers that are on the same straight line through the center of the figure. What is the sum of all the numbers that I can put in the place of the question mark? A) 3
+> 	
+> B) 6
+> 	
+> C) 9
+> 	
+> D) 12
+> 	
+> E) 18
+
+**Answer:** E
+[[src_kangourou_2018_benjamin_marzo__Q28]]

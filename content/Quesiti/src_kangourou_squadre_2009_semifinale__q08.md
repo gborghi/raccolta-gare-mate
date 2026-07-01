@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q08
 parent: src_kangourou_squadre_2009_semifinale
 competition: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo suddiviso da ceviana in due ugual perimetro*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0027
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangle divided by ceviate into two equal perimeter*
+
+> The rectangle becomes a square The figure shows the lines along which Mark cut a cardboard rectangle, the sides of which measured 36 and 81 centimeters, obtaining two triangles and a pentagon. By timely joining the three pieces, Marco was able to make a square. How many centimeters is the length of the segment indicated by x?
+
+**Answer:** 0027
+[[src_kangourou_squadre_2009_semifinale__Q08]]

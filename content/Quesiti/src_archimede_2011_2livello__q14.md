@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2011 (biennio/triennio) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_2livello__Q14
 parent: src_archimede_2011_2livello
 competition: Archimede Gara 2° livello 2011 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie intere (x,y) che verificano l'equazione quartica*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1EuARQKjb2-dZ5UWVTZTNBUhcyN6VOJ-C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total pairs (x,y) that verify the quartic equation*
+
+> How many pairs (x, y) of relative integers do you find that y4 −8y2 + 7 = 8x2 −2x2y2 −x4 ?
+
+**Answer:** 4
+[[src_archimede_2011_2livello__Q14]]

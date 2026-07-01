@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f1__Q17
 parent: src_obm_1999_n1_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two right triangles and a rectangle assembled into a square; find side length.*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due triangoli rettangolari e un rettangolo assemblati in un quadrato; trovare lunghezza laterale.*
+
+> Nel disegno di fianco, due triangoli rettangolari e un rettangolo sono rappresentati con le loro misure. Unendo tutte queste figure insieme, possiamo costruire un quadrato. Qual è la lunghezza laterale di questo quadrato?
+> 
+> (A) 88\,cm \quad (B) 100\,cm \quad (C) 60\,cm \quad (D) 96\,cm \quad (E) 80\,cm
+
+![[src_obm_1999_n1_f1__Q17.png]]
+
+**Risposta:** E
+[[src_obm_1999_n1_f1__Q17]]

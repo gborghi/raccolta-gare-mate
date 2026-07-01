@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f2__Q05
 parent: src_obm_2001_n3_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate nested radical sum expression and express as rational p/q*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare l'espressione somma radicale incastonata ed esprimere come p/q razionale*
+
+> Il numero $$S = \sum_{a=1}^{2000} \sqrt{1 + \frac{1}{a^2} + \frac{1}{(a+1)^2}}$$ è razionale; si esprime nella forma $\dfrac{p}{q}$, dove $p$ e $q$ sono integri positivi.
+
+[[src_obm_2001_n3_f2__Q05]]

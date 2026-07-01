@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2013 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2013_automne__Q03
 parent: src_canimath_2013_automne
 competition: Coupe Animath Automne 2013
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Light bulbs and three switches; count bulbs on after random switch*
 
@@ -54,3 +57,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Luminose e tre interruttori; contare le lampadine accese dopo interruttore casuale< MSK1/>
+
+> Abbiamo $100$ lampadine, numerate $1$ a $100$, ognuna delle quali può essere accesa o spenta. Queste lampadine sono collegate a tre interruttori $A$, $B$ e $C$.
+> 
+> Presione $A$ cambia lo stato di tutte le lampadine: quelle che erano accese e quelle che erano spente si accendono. Presione $B$ modifica lo stato di tutte le lampadine con numeri odd. Presione $C$ modifica lo stato di tutte le lampadine con numeri del modulo $3n+1$.
+> 
+> All'inizio della serata, tutte le lampadine erano accese. Ma durante la festa, Igor ha premuto gli interruttori un totale di $1000$ volte, scegliendo casualmente, e alla fine si è scoperto che le lampadine numerate $95$ e $96$ erano spente.
+> 
+> Quante lampadine sono ancora accese?
+
+[[src_canimath_2013_automne__Q03]]

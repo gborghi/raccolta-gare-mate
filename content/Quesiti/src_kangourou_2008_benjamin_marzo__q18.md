@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q18
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta di Ada e Ivo da condizioni lineari*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Eta of Ada and Ivo under linear conditions< MSK1/>
+
+> Ada and Ivo are coming of age today. In two years Ivo will be twice as old as he was two years ago, while in three years Ada will be three times as old as she was three years ago. Which of the following is correct? A) Ivo is one year older than Ada B) Ada is one year older than Ivo C) Ada and Ivo are the same age D) Ivo is two years older than Ada E) Ada is two years older than Ivo
+
+**Answer:** C
+[[src_kangourou_2008_benjamin_marzo__Q18]]

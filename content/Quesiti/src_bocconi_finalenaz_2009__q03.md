@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2009 — Quesito
   3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2009__Q03
 parent: src_bocconi_finalenaz_2009
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2009
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante freccette Amerigo ha messo nella zona bianca*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many arrows did Amerigo put in the white area?
+
+> Amerigo, Berto, and Carlo are arrows. They've built themselves a board where there's a black zone of 13 points and a white zone of 11. Amerigo, Berto and Carlo each fired six arrows in this game. "More than 60 but less than 66", Amerigo replies of his score. How many arrows did Amerigo point in the white area?
+
+![[src_bocconi_finalenaz_2009__Q03.png]]
+
+**Answer:** 3
+[[src_bocconi_finalenaz_2009__Q03]]

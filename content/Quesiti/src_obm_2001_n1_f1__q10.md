@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f1__Q10
 parent: src_obm_2001_n1_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify the correct figure showing the positions of 2001 and 2000 in a two-row decorative number strip*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare la figura corretta che mostra le posizioni del 2001 e del 2000 in una striscia di numeri decorativi a due righe*
+
+> I numeri naturali sono scritti su una striscia decorativa nel modo seguente: la riga superiore è $1, 3, 5, 7, \ldots$ e la riga inferiore è $2, 4, 6, 8, \ldots$. Indicare la figura corretta (indicando, con un supporto, le posizioni relative di $2001$ e $2000$).
+> 
+> (A), (B), (C), (D), (E)  vedere le cifre dell'originale (ciascuno mostra i numeri $2001$ e $2000$ con un supporto).
+
+![[src_obm_2001_n1_f1__Q10.png]]
+
+**Risposta:** D
+[[src_obm_2001_n1_f1__Q10]]

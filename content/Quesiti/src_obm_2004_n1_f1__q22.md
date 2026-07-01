@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q22
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum path visiting all nodes of an interconnected map*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di percorso che visita tutti i nodi di una mappa interconnessa*
+
+> Una mappa vista dall'alto mostra un quartiere residenziale in cui tutte le case, numerate $1$ fino a $23$, sono interconnesse da vie $23$. Il venditore Zé Ruda, che vive in una casa $8$, prevede di attraversare tutte le altre case e tornare a casa, percorrendo il minimo numero di corsie. Quante corsie deve percorrere?
+> 
+> (A) $15$ \quad (B) $10$ \quad (C) $12$ \quad (D) $12$ \quad (E) $11$
+
+![[src_obm_2004_n1_f1__Q22.png]]
+
+**Risposta:** E
+[[src_obm_2004_n1_f1__Q22]]

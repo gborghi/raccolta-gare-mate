@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q02
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Parallelogram ABCD, point P on AB, Q on AD, find AC/AT*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 67
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Parallelogramma ABCD, punto P su AB, Q su AD, trovare AC/AT*
+
+> In un parallelogramma $ABCD$, si prende un punto $P$ sul segmento $AB$ in modo tale che $\frac{AP}{AB} = \frac{61}{2022}$ e un punto $Q$ sul segmento $AD$ in modo tale che $\frac{AQ}{AD} = \frac{61}{2065}$. Se $PQ$ interseca $AC$ a $T$, trovare $\frac{AC}{AT}$ al numero intero più vicino.
+
+**Risposta:** 67
+[[src_ioqm_2022__Q02]]

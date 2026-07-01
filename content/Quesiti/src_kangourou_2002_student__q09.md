@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q09
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza parallelo a 60 gradi latitudine*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Parallel length to 60 degrees latitude*
+
+![[src_kangourou_2002_student__prob9.png]]
+
+> The length of the equator is about 40 000 km. The length of the parallel located at 60° north latitude (see figure on the side), rounded to hundreds of km is
+>  
+> A. 34 600 km B. 23 500 km C. 26 700 km D. 30 000 km
+>  
+> E. None of the above
+
+**Answer:** E
+[[src_kangourou_2002_student__Q09]]

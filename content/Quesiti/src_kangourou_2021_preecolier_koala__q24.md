@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q24
 parent: src_kangourou_2021_preecolier_koala
 competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ripiano su cui non puo stare il puzzle*
 
@@ -43,3 +46,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+It's a shelf that the puzzle can't fit on.
+
+![[src_kangourou_2021_preecolier_koala__prob24.png]]
+
+> Saverio has five toys: a ball, a teddy bear, a train, a puzzle, and an automobile. He put them, one for each shelf, in a shelf with five shelves. The ball is higher than the teddy bear and lower than the car. The train is on the shelf just above the ball. Which shelf did you definitely not place the puzzle on?
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 5
+
+**Answer:** C
+[[src_kangourou_2021_preecolier_koala__Q24]]

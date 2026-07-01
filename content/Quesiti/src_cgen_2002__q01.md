@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2002 — Matematica — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2002__Q01
 parent: src_cgen_2002
 competition: Concours Général des Lycées 2002 — Matematica
@@ -37,6 +38,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Premiere partie: characterizations of a pseudo-rectangle triangle and complex-plane loci.*
 
@@ -65,3 +68,27 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lVQd2O4k5TRxqRMW1VeIqgQiGW7QRGQs/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Premiere partie: caratteristiche di un triangolo pseudo rettangolare e di loci di piano complesso.*
+
+> Lasciate che $ABC$ sia un triangolo. Indicare con $P$ la proiezione ortogonale del punto $A$ sulla linea $(BC)$ e con $D$ il riflesso del punto $C$ sulla linea $(AP)$.
+> 
+> Questo triangolo è detto di essere *pseudo-retangolo* a $A$ se $|\widehat{B} - \widehat{C}| = \dfrac{\pi}{2}$. Specifichiamo che è *pseudo rettangolo a $A$, obtuso a $B$* nel caso in cui $\widehat{B} - \widehat{C} = \dfrac{\pi}{2}$.
+> 
+> **1.** Indicare che il triangolo $ABC$ è pseudo rettangolo a $A$ se e solo se il triangolo $ABD$ è rettangolo a $A$.
+> 
+> **2.** Indicare che $PA^2 = PB \cdot PC$ se e solo se il triangolo $ABC$ è rettangolare a $A$ o pseudo rettangolare a $A$.
+> 
+> **3.** Indicare che il triangolo $ABC$ è pseudo rettangolo a $A$ se e solo se il suo ortocentro è il riflesso del punto $A$ lungo la linea $(BC)$.
+> 
+> **4.** $R$ deve essere il raggio del cerchio circumscritto del triangolo $ABC$. Indicare che $PB + PC = 2R$ se e solo se $ABC$ è rettangolare a $A$ o pseudo rettangolare a $A$.
+> 
+> **5.** Mostra che il triangolo $ABC$ è pseudo rettangolo a $A$ se e solo se la linea $(AP)$ è tangente al cerchio circoscritto al triangolo $ABC$.
+> 
+> **6.** Nel piano complesso associato alla cornice ortonormale diretta $(O;\vec{\imath},\vec{\jmath})$, $\alpha$, $\beta$, $\gamma$ siano gli affissi dei punti non collineari $A$, $B$, $C$. a. Indicare una condizione necessaria e sufficiente su $\dfrac{(\alpha-\beta)(\alpha-\gamma)}{(\beta-\gamma)^2}$ affinché il triangolo $ABC$ sia pseudo rettangolo a $A$. b. Supponiamo < MSK10/>. Determinare l'insieme $(E_1)$ dei punti $A$ del piano in modo tale che il triangolo $ABC$ sia pseudo rettangolo a $A$. c. Supponiamo < MSK15/>. Determinare l'insieme $(E_2)$ dei punti $A$ del piano in modo tale che il triangolo $ABC$ sia pseudo rettangolo a $A$. d. Con quale semplice trasformazione geometrica si passa da $(E_2)$ a $(E_1)$?
+
+[[src_cgen_2002__Q01]]

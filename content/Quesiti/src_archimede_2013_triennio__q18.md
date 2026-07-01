@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2013 - Triennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_triennio__Q18
 parent: src_archimede_2013_triennio
 competition: Giochi di Archimede 2013 - Triennio
@@ -23,6 +24,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di banane radioattive da probabilita data*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14DK4Mka2JsMKM16koGHIwEE8RcJ4B8Rd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of radioactive bananas with probability given*
+
+> Five boxes of 72 bananas each arrived at the port, and in one of them there is a number of radioactive bananas. We know that if you randomly pick two of the five boxes and randomly pick a banana from each of them, the probability of one of the two bananas being radioactive is 5%. How many are radioactive bananas?
+>
+> - **(A)** 6
+> - **(B)** 9
+> - **(C)** 10
+> - **(D)** 12
+> - **(E)** None of the preceding
+
+**Answer:** B
+[[src_archimede_2013_triennio__Q18]]

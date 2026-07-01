@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q30
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo peso possibile per la moneta piu pesante*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum weight possible for the heaviest coin< MSK1/>
+
+> 30. Cristina has eight coins whose weight in grams is given by positive integers all different from each other. When Cristina puts any two coins on one of the two plates of a balance sheet and any two coins on the other, the plate containing the heaviest coin of the four coins is always the heaviest plate. What is the smallest possible weight for the heaviest coin? The Commission shall adopt delegated acts in accordance with the opinion of the Standing Committee on Planning, Conservation and Law-enforcement.
+
+**Answer:** C
+[[src_kangourou_2021_junior_marzo__Q30]]

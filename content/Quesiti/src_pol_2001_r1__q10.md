@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2001 — Round 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2001_r1__Q10
 parent: src_pol_2001_r1
 competition: Olimpiade Matematica Polacca 2001 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove every triangle has an interior point with a definite area/perimeter divisibility property.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w-_EBjDoXaaXOhizK74B8btnGAV4E9MM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che ogni triangolo ha un punto interno con una proprietà di divisibilità di area/perimetro definita.*
+
+> Prova che ogni triangolo $ABC$ contiene un punto interno $P$ con la seguente proprietà: ogni linea che attraversa $P$ divide il perimetro e l'area del triangolo $ABC$ nello stesso rapporto.
+
+[[src_pol_2001_r1__Q10]]

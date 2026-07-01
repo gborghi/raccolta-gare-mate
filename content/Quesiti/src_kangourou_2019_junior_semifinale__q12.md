@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Junior — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q12
 parent: src_kangourou_2019_junior_semifinale
 competition: Kangourou 2019 Semifinale Junior
@@ -26,6 +27,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quarto numero della sequenza geometrica da 6 a 192*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fourth number of the geometric sequence from 6 to 192*
+
+> (Points 5) A sequence of 6 integers begins with 6 and ends with 192 and is constructed so that each intermediate number is the square root of the product of the number preceding it and the number following it. How much is number four?
+
+[[src_kangourou_2019_junior_semifinale__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2025 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_printemps__Q04
 parent: src_canimath_2025_printemps
 competition: Coupe Animath Printemps 2025
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show a product of pairwise differences under permutation is even*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra un prodotto di differenze in coppia sotto permutazione è pari*
+
+> $a_1, a_2, a_3, a_4, a_5$ siano cinque numeri interi positivi distinti. Lasciate che $b_1, b_2, b_3, b_4, b_5$ siano gli stessi cinque numeri interi scritti in qualche ordine (possibilmente lo stesso ordine, possibilmente un altro).
+> 
+> Indicare che il prodotto $$(a_1 - b_1)(a_2 - b_2)(a_3 - b_3)(a_4 - b_4)(a_5 - b_5)$$ è pari.
+
+[[src_canimath_2025_printemps__Q04]]

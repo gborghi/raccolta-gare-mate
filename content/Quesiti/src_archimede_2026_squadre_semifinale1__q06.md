@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_semifinale1__Q06
 parent: src_archimede_2026_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2026 - Semifinale 1
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma numeri nei quadratini di quadrati annidati*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1716
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of numbers in squares of nested squares*
+
+> Punishments that count Giuseppe Mascellani Even this time Ron must serve the punishment inflicted by Professor Dolores Unboundrige. Ron patiently takes his book of square scrolls and begins to draw a different square on each scroll. The square Q1 has side 1 square, the square Q2 has side 2, and so on until Q11, which has side 11. Then he starts from the first scroll and in the square Q1 Ron writes 11; in the four squares of Q2 he writes 10; in each square 1×1 contained in Q3 he writes the number 9; and so on until he writes 1 in all the squares of Q11. The treacherous Professor Unboundrige will only be satisfied when Ron tells her the sum of all the numbers in the squares. What number allows Ron to serve his sentence?
+
+**Answer:** 1716
+[[src_archimede_2026_squadre_semifinale1__Q06]]

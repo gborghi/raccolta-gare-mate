@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f1__Q18
 parent: src_obm_1998_n3_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four people make statements about a problem's answer; find the maximum number that can be simultaneously true.*
 
@@ -63,3 +66,28 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro persone fanno dichiarazioni sulla risposta a un problema; trovare il numero massimo che possa essere simultaneamente vero.*
+
+> Per quanto riguarda la risposta a un problema, Maurício, Paulo, Eduardo e Carlos hanno fatto le seguenti dichiarazioni:
+> 
+> - Maurício: è superiore a < MSK0/>. - Paulo: è superiore a < MSK1/>. E' un numero primo. - Carlos: è maggiore di MSK2/.
+> 
+> Tra le affermazioni di cui sopra, quante possono essere vere?
+> 
+> A) $0$
+> 
+> B) $1$
+> 
+> C) $2$
+> 
+> D) $3$
+> 
+> E) $4$
+
+**Risposta:** D
+[[src_obm_1998_n3_f1__Q18]]

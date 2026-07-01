@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q12
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Insieme dei numeri a+b con a in A e b in B*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A combination of the numbers a+b with a in A and b in B*
+
+> Both A = (0, 1) ∪ (2, 3) the union of the real intervals (0, 1) and (2, 3); and B = (1, 2) ∪ (3, 4). What is the sum of the numbers a + b with a in A and b in B ? A) (1, 7) B) (1, 5) ∪ (5, 7) C) (1, 3) ∪ (3, 7) D) (1, 3) ∪ (3, 5) ∪ (5, 7) E) None of the above answers are correct.
+
+**Answer:** D
+[[src_kangourou_2021_student_gara__Q12]]

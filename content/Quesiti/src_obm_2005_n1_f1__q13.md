@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q13
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Transparency reduction combining two solar-film layers*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Riduzione della trasparenza combinando due strati di film solare*
+
+> I film isolanti vengono utilizzati sulle finestre degli edifici e dei vetri dei veicoli per ridurre la radiazione solare. I film sono valutati per la loro percentuale di trasparenza, cioè la percentuale di radiazioni solari che trasmettono. Se si colloca un film di trasparenza $70\%$ su un vetro di trasparenza $90\%$, la riduzione della radiazione risultante è pari a:
+> 
+> A) $3\%$ \quad B) $37\%$ \quad C) $40\%$ \quad D) $63\%$ \quad E) $160\%$
+
+**Risposta:** D
+[[src_obm_2005_n1_f1__Q13]]

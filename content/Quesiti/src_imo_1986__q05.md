@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1986 (27th IMO, Warsaw) — Quesito 5'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1986__Q05
 parent: src_imo_1986
 competition: 'IMO 1986 (27th IMO, Warsaw)'
@@ -26,6 +27,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all functions with f(xf(y))f(y)=f(x+y) and f(2)=0*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Q7vmoRjHZBnLVOcJfGhRBYvwVepRUaQE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find all functions with f(xf(y)) f(y)=f(x+y) and f(2)=0*
+
+> Find all functions f, defined on the non-negative real numbers and taking non-negative real values, such that: (i) f(xf(y)) f(y) = f(x + y) for all x, y ≥0, (ii) f(2) = 0, (iii) f(x) = 0 for 0 ≤x < 2.
+
+[[src_imo_1986__Q05]]

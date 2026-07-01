@@ -1,6 +1,7 @@
 ---
 title: IMO 1988 (XXIX International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1988__Q04
 parent: src_imho_1988
 competition: IMO 1988 (XXIX International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sum inequality yields union of intervals of total length 1988*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Ybq-uT2smNXXPn3zPVTn60m5ILt7Hzss/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Sum inequality yields union of intervals of total length 1988
+
+> Show that the set of real numbers $x$ which satisfy the inequality $$\sum_{k=1}^{70} \frac{k}{x-k} \ge \frac{5}{4}$$ is a union of disjoint intervals, the sum of whose lengths is $1988$.
+
+[[src_imho_1988__Q04]]

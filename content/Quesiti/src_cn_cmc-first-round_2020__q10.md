@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2020 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2020__Q10
 parent: src_cn_cmc-first-round_2020
 competition: China Mathematical Competition (First Round) 2020
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive reals on ellipsoidal surface, minimize weighted sum of reciprocals*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 6
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Reali positivi su superficie ellipsoidale, riducendo al minimo la somma ponderata delle reciprocità < MSK1/>
+
+> (Paper B, parte II Q10, 20 punti) Supponiamo che i numeri reali positivi $a$, $b$ e $c$ soddisfino $a^2 + 4b^2 + 9c^2 = 4b + 12c - 2$. Trova il minimo di $\dfrac{1}{a} + \dfrac{2}{b} + \dfrac{3}{c}$.
+
+**Risposta:** 6
+[[src_cn_cmc-first-round_2020__Q10]]

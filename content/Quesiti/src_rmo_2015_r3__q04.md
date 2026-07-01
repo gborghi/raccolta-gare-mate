@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r3__Q04
 parent: src_rmo_2015_r3
 competition: Regional Mathematical Olympiad 2015
@@ -35,6 +36,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-element subsets of 36 equally-spaced circle points, no two adjacent or antipodal*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HpOXyY027T7yrJIPYwmXafLpB_7tE0uA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare sottoinsiemi di 3 elementi di 36 punti di cerchio con spazi uguali, senza due adiacenti o antipodi*
+
+> Supponiamo che 36 oggetti siano posizionati lungo un cerchio a distanze uguali. In quanti modi si possono scegliere tre oggetti tra di loro in modo che nessuno dei tre oggetti scelti sia adiacente o diametralmente opposto?
+
+[[src_rmo_2015_r3__Q04]]

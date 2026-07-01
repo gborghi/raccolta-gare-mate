@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Triennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_triennio__Q10
 parent: src_archimede_1997_triennio
 competition: Giochi di Archimede 1997 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Larghezza minima di una striscia che contiene tre punti*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum lightness of a strip containing three dots*
+
+> In a Cartesian plane the following points are given: A = (0, 15); B = (20, 0); C = (0, 0). What is the minimum width of a straight line containing all three points? [We call a straight line the portion of the plane between two parallel lines, including the two lines.]
+>
+> - **(A)** 8
+> - **(B)** 10
+> - **(C)** 12
+> - **(D)** 15
+> - **(E)** 20.
+
+**Answer:** C
+[[src_archimede_1997_triennio__Q10]]

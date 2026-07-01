@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2026 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2026__Q19
 parent: src_oprem_2026
 competition: Olympiades Nationales de Mathématiques (Première) 2026
@@ -26,6 +27,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exercise 2, Q13: conclude*
 
@@ -37,3 +40,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LLPTi5ufMEDVFp1I29WzXWLiM0F8_rKH/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Esercizio 2, Q13: conclusione< MSK1/>
+
+> Esercizio 2 - (13) Conclusione.
+
+[[src_oprem_2026__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Ecolier Finale 2 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_squadre__Q06
 parent: src_kangourou_2022_ecolier_squadre
 competition: Kangourou Squadre 2022 Ecolier Finale 2
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti quadratini verniciabili equivalenti*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0018
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IGVPCLx85aou36uGjPxFlM4ovokZbBOj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many equivalent verniciable squares< MSK1/>
+
+![[src_kangourou_2022_ecolier_squadre__prob6.png]]
+
+> Sergio the painter Sergio has painted the part of the square you see in the figure in gray, which is divided into 36 squares. With the same amount of paint, how many complete squares could he have painted?
+
+**Answer:** 0018
+[[src_kangourou_2022_ecolier_squadre__Q06]]

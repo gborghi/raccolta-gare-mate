@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Cadet 2024 — Quesito C2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet_finale__QC2
 parent: src_kangourou_2024_cadet_finale
 competition: Kangourou Finale Cadet 2024
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sono di piu le frazioni riducibili o irriducibili (1..12)*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>More are reducing or non-reducing fractions (1..12) < MSK1/>
+
+> Consider all possible fractions less than $1$ in which both the numerator and denominator are integers between $1$ and $12$ included. Are these more reducing fractions or irreducible fractions?
+
+[[src_kangourou_2024_cadet_finale__QC2]]

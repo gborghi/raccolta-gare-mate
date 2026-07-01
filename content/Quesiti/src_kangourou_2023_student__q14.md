@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q14
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di S con a_k=k+S e somma S*
 
@@ -53,3 +56,23 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of S with a_k=k+S and sum S*
+
+> The value of the sum of the five numbers assigned, a1, a2, a3, a4, a5, is S. For every k, 1 ≤ k ≤ 5, we have ak= k + S. How much is S worth? A)
+> 	
+> B) –
+> 	
+> (C)  15 D) 15 E) None of the above. 2 4 3 7 15
+>  
+> 15
+>  
+> (    )
+>
+
+**Answer:** B
+[[src_kangourou_2023_student__Q14]]

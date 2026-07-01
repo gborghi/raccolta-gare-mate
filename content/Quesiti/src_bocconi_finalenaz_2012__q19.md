@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2012 — Quesito
   19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2012__Q19
 parent: src_bocconi_finalenaz_2012
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2012
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei 2011 prodotti ottenuti dividendo 2012 pietre*
 
@@ -50,3 +53,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of 2011 products obtained by dividing 2012 stones*
+
+> With 2012 stones, form two heaps and write the product of the number of stones contained in the first pile multiplied by the number of stones in the second pile. Then divide one of the two heaps into two new heaps and write the product of the number of stones contained in these new heaps respectively. Now divide one of the three heaps you get, write the product, etc. Until you have all the heaps made of one stone. How much is the sum of the 2011 products you wrote?
+
+**Answer:** 2 023 066
+[[src_bocconi_finalenaz_2012__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_semifinale_c__Q16
 parent: src_cesenatico_2012_semifinale_c
 competition: Gara a Squadre Cesenatico 2012 - Semifinale C
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Secondi luce distrugge superficie da vertici cubo*
 
@@ -77,3 +80,25 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0300
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Second light destroys surface from cubic vertices
+
+> Despite all the prophecies, the world will actually end up with the spread in the coming months of a virus that will almost completely annihilate humans. The virus is composed of eight identical planar discs linked together by rings. Each disk has a face rich in plutonium and a face rich in arsenic. The virus can mutate by flipping one or more of the disks and then swapping faces. A specific vaccine is needed for each different configuration of the virus, but keep in mind that a vaccine works even if the entire virus changes position rigidly, rotating around the center of the ring or completely flipping over. How many different vaccines will the few survivors have to prepare to get rid of the virus?
+> 
+> 	
+  
+> 
+> 	
+  
+> 
+> 	
+  
+> 
+> Cesenatico 2012 XIII GARA NAZIONALE A SemiFINAL SQUADRE B  4 May 2012 General instructions Please note that for each problem, an integer between 0000 and 9999 must be indicated on the answer card. If the quantity required is not an integer, unless otherwise stated, the whole part shall be indicated. If the quantity requested is a negative number, or if the problem is unsolved, indicate 0000. If the quantity required is an integer greater than 9999, indicate the last four digits. The following approximate values may be useful to take into account when performing the calculations: √ 2 = 1,4142 √ 3 = 1,7321 √ 5 = 2,2361 √ 7 = 2,6458 π = 3,1416. Important deadlines 10 minutes from the start: final deadline for selecting the Jolly problem (after which the first problem will be deleted). 30 minutes from the start: deadline for questions on the text. 90 minutes from the start: end of the race.
+
+**Answer:** 0300
+[[src_cesenatico_2012_semifinale_c__Q16]]

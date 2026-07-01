@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2022 - Gara Biennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_biennio__Q12
 parent: src_archimede_2022_biennio
 competition: Giochi di Archimede 2022 - Gara Biennio
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di cubetto con una faccia dipinta*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Daq06A5cNKvPAO0E8Ym-xGnc7AcmRZ_w/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of a cube with a painted face< MSK1/>
+
+> Laura paints the entire surface of a wooden cube in blue, then she cuts it into 63 = 216 equal cubes. By mixing the cubes and pulling one out at random, what are the odds that Laura will find one that has exactly the face painted blue?
+>
+> - **(A)** 9/24
+> - **(B)** 32/81
+> - **(C)** 1/2
+> - **(D)** 1/3
+> - **(E)** 4/9
+
+**Answer:** E
+[[src_archimede_2022_biennio__Q12]]

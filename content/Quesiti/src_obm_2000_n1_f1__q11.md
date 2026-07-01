@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q11
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Boxes of palm hearts stacked in crates: total count*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Scatole di palme di cuore impilate in scatole: numero totale
+
+> Una fabbrica imballa $8$ palme di cuore in scatole cubiche con un lato di $20$ cm. Per il miglior trasporto di queste scatole, esse sono collocate in scatole di $80$ cm di larghezza per $120$ cm di lunghezza per $60$ cm di altezza. Il numero di litri di cuori di palma in ciascuna scatola è:
+> 
+> (A) $576$ \quad (B) $4\,608$ \quad (C) $2\,304$ \quad (D) $720$ \quad (E) $144$
+
+**Risposta:** E
+[[src_obm_2000_n1_f1__Q11]]

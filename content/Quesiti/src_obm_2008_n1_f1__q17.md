@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n1_f1__Q17
 parent: src_obm_2008_n1_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two right-triangle cards (5,12,13 cm) placed side by side; find perimeter*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jS9AjIezsp0MUxDiEgVpS7k3MJ9uT3_v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due carte triangolari rettangolari (5,12,13 cm) posizionate fianco a fianco; trovare il perimetro*
+
+> Due carte uguali hanno la forma di un triangolo rettangolo con gambe $5\,\text{cm}$ e $12\,\text{cm}$ e ipotenusa $13\,\text{cm}$. Esmeralda mette le due carte su un foglio di carta, fianco a fianco, tracciando il loro contorno con una matita, ottenendo una figura simile a quella mostrata (non in scala). Qual è il perimetro di questa figura, in cm?
+> 
+> A) 28 $\quad$ B) 35 $\quad$ C) 42 $\quad$ D) 43 $\quad$ E) 60
+
+![[src_obm_2008_n1_f1__Q17.png]]
+
+**Risposta:** D
+[[src_obm_2008_n1_f1__Q17]]

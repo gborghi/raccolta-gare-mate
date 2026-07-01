@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2022 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_printemps__Q10
 parent: src_canimath_2022_printemps
 competition: Coupe Animath Printemps 2022
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Twenty buildings in a circle, interesting buildings, bound on floor sum (lycee)*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Venti edifici in cerchio, edifici interessanti, limitati sul piano (lisse) *
+
+> Considerate venti edifici disposti attorno a un cerchio. Ogni edificio ha un numero intero di piani tra $1$ e $20$. Supponiamo che due edifici abbiano sempre un numero diverso di piani. Un edificio è chiamato interessante se ha più piani di uno dei suoi vicini e meno piani rispetto all'altro dei suoi vicini. Gli edifici sono disposti in modo tale che ci siano in totale sei edifici interessanti.
+> 
+> 1) dimostrare che la somma dei piani degli edifici interessanti è sempre superiore o pari a $27$.
+> 
+> 2) Indicare una configurazione di venti edifici per i quali ci sono esattamente sei edifici interessanti e per i quali la somma del numero di piani è esattamente $27$.
+
+[[src_canimath_2022_printemps__Q10]]

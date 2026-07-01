@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo17yq_yosen__Q08
 parent: src_jjmo17yq_yosen
 competition: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 5-tuples from {1..5} with a+2b+3c+4d+5e divisible by 6*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 518
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YyPhdRC8ta06c--Y1mxGSGuS4yujWAKb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare 5 tupli da {1,5.} con a+2b+3c+4d+5e divisibile per 6*
+
+> Quanti tupli $(a, b, c, d, e)$ di cinque numeri interi, ciascuno tra $1$ e $5$ inclusi, sono tali che $a + 2b + 3c + 4d + 5e$ sia un multiple di $6$?
+
+**Risposta:** 518
+[[src_jjmo17yq_yosen__Q08]]

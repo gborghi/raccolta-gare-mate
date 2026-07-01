@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2009 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2009__Q12
 parent: src_bocconi_primavera_2009
 competition: Semifinale di Primavera 2009
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Che ora è adesso (problema di orologi)*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Adesso sono le 21.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14prakvd6EDcEQSfmnn_-6oGG4wcPui_K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What time is it now (clock problem)
+
+> Two hours ago, it was past 1:00 p.m., the same time it was before 1:00 p.m.
+> 
+> What time is it now?
+
+**Answer:** Adesso sono le 21.
+[[src_bocconi_primavera_2009__Q12]]

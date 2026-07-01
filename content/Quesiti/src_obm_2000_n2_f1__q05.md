@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f1__Q05
 parent: src_obm_2000_n2_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1
@@ -39,6 +40,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Effect on class averages after transferring last student from Class A to Class B*
 
@@ -56,3 +59,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Effetto sulle medie della classe dopo il trasferimento dell'ultimo allievo dalla classe A alla classe B*
+
+> Gli studenti < MSK0/> approvati in un concorso, i cui punteggi erano tutti distinti, sono stati suddivisi in due gruppi in base al loro classificazione: i primi < MSK1/> sono stati collocati nella classe A e i prossimi < MSK2/> nella classe B. Le medie di entrambe le classi nella competizione sono state quindi calcolate. Successivamente, fu deciso di trasferire l'ultimo studente della classe A alla classe B. Quale delle seguenti affermazioni è certamente vero?
+> 
+> A) La media della classe A è migliorata, ma la classe B è peggiorata. B) La media della classe A è peggiorata, ma la classe B è migliorata. C) Le medie di entrambe le classi sono migliorate. D) Le medie di entrambe le classi sono peggiorate. E) Le medie delle classi possono migliorare o peggiorare, a seconda dei punteggi dei candidati.
+
+**Risposta:** B
+[[src_obm_2000_n2_f1__Q05]]

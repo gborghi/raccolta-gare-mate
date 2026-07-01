@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q08
 parent: src_archimede_2026_squadre_finale_femminile
 competition: Gara a Squadre Femminile 2026 - IX Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area quadrilatero ODBE da aree triangoli con ceviane*
 
@@ -52,3 +55,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 3600
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*ODBE quadrilateral area from triangular areas with cevial *
+
+> Hiccup, meanwhile, studies his Dark Fury which he sympathetically called Dentato after discovering that the dragon has retractable teeth by observing how he ate a fish he had offered him as lunch. Looking closely at Sdentato's tail, he noticed that one of the bolas must have cut off part of his steering wheel, so he decided to try and build him a prosthesis. On his notebook he sketches an ABC triangle-shaped design . Set a D-point on AB and an E-point on BC so that the AE and CD segments intersect at O . If the areas of the COE , AOC and ADO triangles are 150 , 300 and 450 2 cm respectively , Hiccup shall calculate the value of the ODBE quadrilateral area in 2 cm . Nothing is easier for an accustomed accountant. What value did you find?
+
+**Answer:** 3600
+[[src_archimede_2026_squadre_finale_femminile__Q08]]

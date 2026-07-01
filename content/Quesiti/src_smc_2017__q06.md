@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2017 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2017__Q06
 parent: src_smc_2017
 competition: Senior Mathematical Challenge 2017
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circles in a diagram connected by line segments; find minimum number of colours needed so no two adjacent circles share a colour.*
 
@@ -56,3 +59,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circoli in un diagramma collegato da segmenti di linea; trovare il numero minimo di colori necessari in modo che due cerchi adiacenti non condividano un colore.*
+
+> I cerchi del diagramma devono essere colorati in modo che due cerchi collegati da un segmento di linea abbiano colori diversi.
+> 
+> Qual è il numero minimo di colori richiesti?
+>
+> - **(A)** $2$
+> - **(B)** $3$
+> - **(C)** $4$
+> - **(D)** $5$
+> - **(E)** $6$
+
+![[src_smc_2017__Q06.png]]
+
+**Risposta:** B
+[[src_smc_2017__Q06]]

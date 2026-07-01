@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q12
 parent: src_archimede_2015_febb_2livello
 competition: Archimede Gara di Febbraio 2015 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza AC nel quadrilatero ciclico dati i lati e BD*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/147OSJf1wSBJHNEWKDKPVWMIP2TLevkAt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AC length in the cyclic quadrilateral given sides and BD*
+
+![[src_archimede_2015_febb_2livello__prob12.png]]
+
+> Whether ABCD is a quadrilateral such that AB = 24, BC = 20, CD = 15, DA = 7, BD = 25. How long is AC?
+>
+> - **(A)** 18
+> - **(B)** 14 √ 2
+> - **(C)** 20
+> - **(D)** 21
+> - **(E)** 24 Problems with a numerical answer  5 points
+
+**Answer:** C
+[[src_archimede_2015_febb_2livello__Q12]]

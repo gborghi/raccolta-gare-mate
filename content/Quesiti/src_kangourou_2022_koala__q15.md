@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Koala — Gioco Koala — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_koala__Q15
 parent: src_kangourou_2022_koala
 competition: Kangourou 2022 Koala — Gioco Koala
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *stella dopo quadrato prima di triangolo*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Nyec1GxOQ3f28I_D0c1kacejlV99W-GD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*star after square before triangle*
+
+![[src_kangourou_2022_koala__prob15.png]]
+
+> Anna attached these four stickers. He attacked the star after attacking the square, but before attacking the triangle. Which of the following may be the figure you see after Anna completes her play? (see figure)
+
+**Answer:** E
+[[src_kangourou_2022_koala__Q15]]

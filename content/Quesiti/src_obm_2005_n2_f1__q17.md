@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q17
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count numbers between 10 and 13000 made of consecutive digits in increasing order*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri di conteggio compresi tra 10 e 13000 di cifre consecutive in ordine crescente*
+
+> Quanti numeri tra $10$ e $13000$, quando si leggono da sinistra a destra, sono formati da cifre consecutive in ordine crescente? Ad esempio, $456$ è uno di tali numeri, ma $7890$ non lo è. A) $10$ \quad B) $13$ \quad C) $18$ \quad D) $22$ \quad E) $25$
+
+[[src_obm_2005_n2_f1__Q17]]

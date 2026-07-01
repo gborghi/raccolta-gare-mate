@@ -1,6 +1,7 @@
 ---
 title: XI Gara Nazionale Classi Prime 2026 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2026__Q13
 parent: src_garaprime_2026
 competition: XI Gara Nazionale Classi Prime 2026
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo S(n+1) dato S(n)=2026*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1F8eBxLs4bDWlyZJGhjIxQLaCXc18EKrk/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum S(n+1) given S(n)=2026< MSK1/>
+
+> Let's show with S(n) the sum of the digits of a positive integer n (e.g. S(574) = 16). If S(n) = 2026, what can be the smallest value of S(n + 1)?
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 2027
+
+**Answer:** B
+[[src_garaprime_2026__Q13]]

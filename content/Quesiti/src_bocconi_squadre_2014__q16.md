@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2014 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2014__Q16
 parent: src_bocconi_squadre_2014
 competition: Gara a Squadre 2014
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume minimo scatola parallelepipedo con cubi 1 cm, piena al max 40%*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 30
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum volume of parallel piped box with 1 cm cubes, full at maximum 40%*
+
+> A parallel-piped box may be filled completely with cubes of < MSK0/> cm on the side. If the largest number of cubes of < MSK1/> cm < MSK2/> volume (the sides of the cubes parallel to the sides of the box) are placed in the box, the maximum < MSK3/> of the box is filled. Find the minimum volume of the box that meets all of the above conditions.
+
+**Answer:** 30
+[[src_bocconi_squadre_2014__Q16]]

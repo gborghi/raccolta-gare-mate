@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo27yq_yosen__Q10
 parent: src_jmo27yq_yosen
 competition: Japan Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length of perpendicular from Q to BC in right triangle*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\dfrac{9}{2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pjGraeHG4yF3Hf3bQovok6OpLhKRwh23/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza perpendicolare da Q a BC in triangolo rettangolo*
+
+> Il triangolo $ABC$ soddisfa $\angle B=90^\circ$, $AB=8$, $BC=3$. Un punto $P$ si trova sul lato $BC$, un punto $Q$ sul lato $CA$ e un punto $R$ sul lato $AB$, soddisfacendo $\angle CRP=\angle CRQ$ e $\angle BPR=\angle CPQ$. Inoltre, il perimetro del triangolo $PQR$ è $12$. Trova la lunghezza della perpendicolare abbassata da $Q$ a lato $BC$. (Se la risposta contiene un radicale < MSK16/>, indicare il valore < MSK17/> sotto il radicale.)
+
+**Risposta:** $\dfrac{9}{2}$
+[[src_jmo27yq_yosen__Q10]]

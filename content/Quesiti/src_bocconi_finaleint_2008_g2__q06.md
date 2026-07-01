@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 2) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g2__Q06
 parent: src_bocconi_finaleint_2008_g2
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di telefono con cifre diverse a coppie e cominciante per 06.*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 06 97 58 31 42
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Telephone number with different numbers in pairs and starting with 06.*
+
+> Jean-Louis is trying to remember Michel's cell phone number. He noted that the number, at 8 digits all different, starts with 06 and that two successive digits in the number differ by at least 2. After a few moments of reflection, it is also remembered that Michel's phone number is the largest possible (after 0) having this property. What's Michel's number?
+
+**Answer:** 06 97 58 31 42
+[[src_bocconi_finaleint_2008_g2__Q06]]

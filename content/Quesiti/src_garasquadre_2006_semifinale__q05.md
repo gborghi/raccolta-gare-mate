@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_semifinale__Q05
 parent: src_garasquadre_2006_semifinale
 competition: VII Gara Nazionale a Squadre 2006 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazioni m/n ridotte con 0<m/n<1 e m*n=20!*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0128
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Reduced fractions m/n with 0<m/n<1 and m*n=20!*
+
+> Distractions Henri and Smale Perelman, Ron's two older brothers, rarely attend classes and instead dedicate themselves to inventing new games. Today they are playing the first to guess the following question: how many fractions m n , reduced to minimum terms, such that 0 < m n < 1 and hence m·n = 20!.
+
+**Answer:** 0128
+[[src_garasquadre_2006_semifinale__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gioco Koala (Marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_koala_marzo__Q18
 parent: src_kangourou_2018_koala_marzo
 competition: Kangourou 2018 Gioco Koala (Marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di gelati con 36 euro e offerta 6=5*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1AGwjurQUucDfrq-UuV0KeOG7NZtWOZs2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of ice cream with 36 euros and offer 6=5*
+
+![[src_kangourou_2018_koala_marzo__prob18.png]]
+
+> At the supermarket, an ice cream costs one euro, but if you buy six, you only pay five euros. What's the largest amount of ice cream you can buy for 36 euros?
+
+**Answer:** D
+[[src_kangourou_2018_koala_marzo__Q18]]

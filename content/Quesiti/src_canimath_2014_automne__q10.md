@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2014 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2014_automne__Q10
 parent: src_canimath_2014_automne
 competition: Coupe Animath Automne 2014
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *22 numbered cards; players alternate, units digit of card-sum wins*
 
@@ -49,3 +52,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15vtKOtQa9ehL1Qp64ICOkTx6pQqg0n_e/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*22 carte numerate; i giocatori si alternano, unità di cifra della somma delle carte vinte*
+
+> Le schede $22$ con i numeri $1, 2, \ldots, 22$ sono presenti sul tavolo. Alcindor e Benoît togliono le carte a turno, ognuno prendendo una carta di loro scelta dal tavolo, finché non rimane nessuna. E' Alcindor che inizia. Poi ciascuno calcola la cifra di unità della somma delle sue carte. Il vincitore è colui il cui risultato è più alto. Uno dei due giocatori ha un modo per vincere con certezza? In tal caso, decidete quale.
+
+[[src_canimath_2014_automne__Q10]]

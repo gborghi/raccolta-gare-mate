@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Triennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_triennio__Q12
 parent: src_archimede_2000_triennio
 competition: Giochi di Archimede 2000 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Incidenza materie prime sul prezzo della mascotte*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Incidence of raw materials on the price of the mascot< MSK1/>
+
+> The price of the mascot of the mathematics Olympics is given by the sum of the price of raw materials and the price of processing. Last year, the mascot cost 10 euros. This year the cost of raw materials has doubled.
+>
+> The cost of processing has risen by 10% and the mascot costs €12 this year. How much does the price of raw materials affect the final price of the product this year?
+>
+> - **(A)** Less than EUR 1
+> - **(B)** Between 1 and 2 Euro
+> - **(C)** between EUR 2 and EUR 3
+> - **(D)** between EUR 3 and EUR 4
+> - **(E)** more than EUR 4.
+
+**Answer:** C
+[[src_archimede_2000_triennio__Q12]]

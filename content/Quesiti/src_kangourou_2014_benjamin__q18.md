@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Benjamin — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin__Q18
 parent: src_kangourou_2014_benjamin
 competition: Kangourou 2014 marzo Benjamin
@@ -28,6 +29,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero opposto al 4 sul dado date le adiacenze*
 
@@ -54,3 +57,16 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number opposite to 4 on the dice given adjacencies*
+
+> Five friends, Ada, Bice, Carla, Dinah, and Enrica, are sitting at a round table, clockwise from Ada in the order we've listed them. At a certain moment, all but one, who does not move, exchange their seats with one of the two friends sitting next to each other. The new arrangement is now Ada, Enrica, Bice, Dinah, Carla, in this order always starting from Ada and always clockwise. Who stayed still? A) Ada
+> 	
+> (b) Bise C) Carla D) Dina E) Enrica D and C B A
+>
+
+[[src_kangourou_2014_benjamin__Q18]]

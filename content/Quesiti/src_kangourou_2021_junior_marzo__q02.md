@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q02
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Grafico fedele dell'andamento delle temperature*
 
@@ -54,3 +57,29 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Full chart of the temperature trend< MSK1/>
+
+![[src_kangourou_2021_junior_marzo__prob2.png]]
+
+> These are the weather forecasts in Kangcity for the next five days: the temperatures indicated are the maximum forecasted. Which of the following five graphs accurately represents the trend of maximum temperatures? A)
+> 	
+> 	
+> B)
+> 	
+> 	
+> C)
+> 	
+> 	
+> 	
+> D)
+> 	
+> 	
+> E)
+
+**Answer:** B
+[[src_kangourou_2021_junior_marzo__Q02]]

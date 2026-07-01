@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q06
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n so that any n-subset of {1,...,20} contains two numbers differing by 8.*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nello più piccolo in modo che qualsiasi sottoinsieme di n di {1,...,20} contenga due numeri diversi di 8.*
+
+> Quanto è il più piccolo intero positivo $n$ tale che qualsiasi sottoinsieme di $n$ elementi di $\{1, 2, 3, \dots, 20\}$ contiene due numeri la cui differenza è di 8?
+> 
+> (A) 2 (B) 8 (C) 12 (D) 13 (E) 15
+
+[[src_obm_2004_n3_f1__Q06]]

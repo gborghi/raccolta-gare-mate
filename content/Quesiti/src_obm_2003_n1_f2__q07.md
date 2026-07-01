@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f2__Q07
 parent: src_obm_2003_n1_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Dice tower: minimize visible face dots sum*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 58
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Torre di dice: ridurre al minimo la somma dei punti visibili del viso < MSK1/>
+
+> Su un dado standard la somma dei punti su facce opposte è sempre $7$. Beatriz costruì una torre con $4$ dadi identici, incollare le facce insieme come mostrato nella figura. Qual è il numero minimo di punti che Beatriz può ottenere sommando tutti i punti sulle facce esposte della torre?
+
+![[src_obm_2003_n1_f2__Q07.png]]
+
+**Risposta:** 58
+[[src_obm_2003_n1_f2__Q07]]

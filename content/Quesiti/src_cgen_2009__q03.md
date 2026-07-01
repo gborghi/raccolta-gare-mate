@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2009 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2009__Q03
 parent: src_cgen_2009
 competition: Concours Général des Lycées 2009 — Matematica
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Periods of finite sequences; for coprime a,b show a sequence with periods a and b of length >= a+b-1 is constant; study the 0/1 sequence V and its symmetry property.*
 
@@ -56,3 +59,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D68pXdGvkXbm-KXlSsEwpd843491VqiZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Periodi di sequenze finite; per coprime a,b mostrare una sequenza con periodi a e b di lunghezza >= a+b-1 è costante; studiare la sequenza 0/1 V e la sua proprietà di simmetria.*
+
+> Problema 3: aritmetica. Dati due integri $a$ e $b$, indichiamo con $[\![a,b]\!]$ l'insieme di integri che si trova in senso lato tra $a$ e $b$. Consideriamo una sequenza finita di termini $n$ $U = (u_1, u_2, \ldots, u_n)$. Diciamo che un intero rigorosamente positivo $p$ è un periodo di $U$ se $u_i = u_{i+p}$ per ogni intero $i$ tale che $1 \le i \le n - p$. Una sequenza può avere diversi periodi.
+> 
+> 1. Consideriamo due integri rigorosamente positivi $a$ e $b$ coprimo. (a) Definiremo $r_k$ come il resto della divisione di $ka$ da $a + b$. Indicare che quando $k$ varia in $[\![1, a+b-1]\!]$, $r_k$ assume tutti i valori di $[\![1, a+b-1]\!]$. b) Riduzione che se $a$ e $b$ sono periodi di $U$ e $n \ge a + b - 1$, allora $U$ è costante.
+> 
+> 2. Supponiamo ora che $a$ e $b$ siano numeri interi rigorosamente positivi con GCD $d$. Indicare che se $U$ è periodico dei periodi $a$ e $b$ e $n \ge a + b - d$, allora $U$ è periodico $d$.
+> 
+> 3. Consideriamo due integri $a$ e $b$ strettamente superiori a $1$ e coprimo. (a) Mostra che si può dividere l'intervallo $[\![1, a+b-2]\!]$ in due sottoinsiemi non vuoti $A$ e $B$ in modo tale che la sequenza $V$ pari a $1$ su $A$ e a $0$ su $B$ sia di periodi $a$ e $b$. (b) La divisione ottenuta nella domanda precedente è unica? Indicare che per ogni $x$ di $A$, $a + b - 1 - x$ è in $A$. Quale proprietà della sequenza $V$ esprime questo?
+
+[[src_cgen_2009__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Biennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_biennio__Q03
 parent: src_archimede_2016_biennio
 competition: Giochi di Archimede 2016 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero furfanti*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1w98Us2ogDSfVMh4NQofZesTOzitRRSQB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>number of thieves< MSK1/>
+
+> There are two kinds of people living on an island: knights who always tell the truth and cunning people who always lie. During a birthday party, attended by 450 people, each of the attendees states: All those who are at the party, besides me, are thieves. How many crooks are at the party?
+>
+> - **(A)** No one
+> - **(B)** 450
+> - **(C)** 449
+> - **(D)** 224
+> - **(E)** 225
+
+**Answer:** C
+[[src_archimede_2016_biennio__Q03]]

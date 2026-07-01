@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r1__Q05
 parent: src_pol_1997_r1
 competition: Olimpiade Matematica Polacca 1997 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle bisectors of a triangle meet the opposite sides and the circumcircle; prove a sum of ratios is at least 1.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J1ktv1YQ9-pGG7jFVVATHBI82SdVVsMb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I bisettori angolari di un triangolo incontrano i lati opposti e il circoncircolo; dimostrare che la somma dei rapporti è almeno di 1.*
+
+> I bisettori angolari degli angoli $A$, $B$, $C$ di un triangolo $ABC$ incontrano i lati opposti rispettivamente a $D$, $E$, $F$ e il cerchio circoscritto di $\triangle ABC$ a $K$, $L$ e $M$. Provare che < MSK0/>
+
+[[src_pol_1997_r1__Q05]]

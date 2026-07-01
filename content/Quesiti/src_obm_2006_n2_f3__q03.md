@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f3__Q03
 parent: src_obm_2006_n2_f3
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer pairs with x^3 - y^3 = 3(x^2 - y^2)*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YkJDppLT4ZSZbNPF1voiSzcsCHYMYSgG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di numeri interi con x^3 - y^3 = 3(x^2 - y^2) *
+
+> Trova tutte le coppie ordinate $(x, y)$ di integri come $x^3 - y^3 = 3(x^2 - y^2)$.
+
+[[src_obm_2006_n2_f3__Q03]]

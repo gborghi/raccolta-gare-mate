@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2018 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2018_printemps__Q07
 parent: src_canimath_2018_printemps
 competition: Coupe Animath Printemps 2018
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trapezoid ABCD, diagonals meet at E, line through E parallel to AB meets AD at F, show angle BFC=90*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD trapezoide, diagonali che si incontrano a E, linea attraverso E parallela ad AB che si incontrano ad AD a F, angolo di mostra BFC=90*
+
+> < MSK0/> sia un trapezoide con < MSK1/>. Le diagonali $(AC)$ e $(BD)$ si incontrano in un punto $E$. La linea attraverso $E$ parallela a $(AB)$ incontra $(AD)$ al punto $F$. Mostra che $\widehat{BFC} = 90^\circ$.
+
+[[src_canimath_2018_printemps__Q07]]

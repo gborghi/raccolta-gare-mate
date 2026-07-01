@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2013 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2013__Q01
 parent: src_bocconi_autunno_2013
 competition: Giochi d'Autunno 2013
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Torre di cubi: quanti cubi al quarto giorno?*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 820
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Cube towers: how many cubes on the fourth day?
+
+> Archie took his name very seriously and decided he'd become an architect when he grew up. For now, he's just building towers with wooden cubes. On the first day, he built a one-story tower with a single cube (you see it on the left, in fig. 1). On the second day, he built a tower three times as long and three times as high and then put it on top of the tower of the first day (and then using a total of 10 cubes): you can see it in Fig. 2. On the third day he builds a tower 9 cubes long and 9 cubes high and, putting it above the tower of the second day, uses a total of 91 cubes. On the fourth day Archie builds a tower 27 cubes long and 27 cubes high, then places it above the tower on the third day.
+> 
+> How many cubes in total do you use for this fourth-day tower?
+
+![[src_bocconi_autunno_2013__Q01.png]]
+
+**Answer:** 820
+[[src_bocconi_autunno_2013__Q01]]

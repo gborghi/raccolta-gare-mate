@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q15
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *30 punti*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0099
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total amount of the loan.
+
+> The Matelandian team competition
+> 
+> Professor Abacus organizes the Matelandia team competition every year. This year there are 25 questions and a single team can score either 0 or 1 point in each question. What is the minimum number of teams that must participate in order for there to be two teams of equal merit?
+
+**Answer:** 0099
+[[src_archimede_2002_squadre__Q15]]

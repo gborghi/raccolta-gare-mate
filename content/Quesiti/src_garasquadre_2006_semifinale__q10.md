@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_semifinale__Q10
 parent: src_garasquadre_2006_semifinale
 competition: VII Gara Nazionale a Squadre 2006 - Semifinale A
@@ -23,6 +24,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *rapporto aree stella di David ed esagono*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0540
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>report areas of star David and hexagon< MSK1/>
+
+> In geomancy class, Hardy and Hermita are in the geomancy lab, practicing to create magical symbols. Starting from a circumference on which six equidistant points mark, Hermita proposes to complete the figure by joining the six points to form a star of David, of area A. Hardy, on the other hand, proposes to join them to the hexagon, of area B. To measure the power of the two spells, the two measure the two areas. Say what 360B/A is worth.
+
+**Answer:** 0540
+[[src_garasquadre_2006_semifinale__Q10]]

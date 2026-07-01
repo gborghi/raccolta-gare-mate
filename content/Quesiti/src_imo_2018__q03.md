@@ -1,6 +1,7 @@
 ---
 title: IMO 2018 papers — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2018__Q03
 parent: src_imo_2018
 competition: IMO 2018 papers
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo anti-Pascal con 2018 righe*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tvIX0rbY0Jiofkx0Jp_N_tsr4t5dB-fl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Anti-Pascal triangle with 2018 lines*
+
+> An anti-Pascal triangle is an equilateral triangular array of numbers such that, except for the numbers in the bottom row, each number is the absolute value of the difference of the two numbers immediately below it. For example, the following is an anti-Pascal triangle with four rows which contains every integer from $1$ to $10$: $$4$$ $$2 \quad 6$$ $$5 \quad 7 \quad 1$$ $$8 \quad 3 \quad 10 \quad 9$$ Does there exist an anti-Pascal triangle with $2018$ rows which contains every integer from $1$ to $1 + 2 + \cdots + 2018$?
+
+[[src_imo_2018__Q03]]

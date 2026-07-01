@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1967 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1967_r3__Q02
 parent: src_pol_1967_r3
 competition: Olimpiade Matematica Polacca 1967 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *100 people in a hall; prove 4 mutually acquainted exist*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOZgCbQj4f0sjxRkfqvY1uffN7E7Z8k0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>100 persone in una sala; dimostrare che esistono 4 persone che si conoscono reciprocamente < MSK1/>
+
+> Ci sono 100 persone in una sala, ognuno conosce almeno 66 degli altri. Prove che c'è un caso in cui, tra tutti e quattro, due di loro si conoscono.
+
+[[src_pol_1967_r3__Q02]]

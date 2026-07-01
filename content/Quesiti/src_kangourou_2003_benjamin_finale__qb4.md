@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin_finale__QB4
 parent: src_kangourou_2003_benjamin_finale
 competition: Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pneumatici usati per lo stesso percorso*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijL_j1ayb9z-cN_tMBQcCh2XLu4_Wkxh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tire used for the same route*
+
+> Is it possible for a car to travel $25\,000\,\text{km}$ and each of the five tyres it is fitted with (four plus the spare wheel) to be used for the same number of kilometres? If you answer no explain why; if you answer yes indicate a possible tyre replacement strategy.
+
+**Answer:** si
+[[src_kangourou_2003_benjamin_finale__QB4]]

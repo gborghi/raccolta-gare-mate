@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q15
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Riduzione spese con tre modifiche*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Reduce expenses by three amendments*
+
+> A change to an installation in an industrial process can reduce production costs by 50%; a different change can reduce production costs by 40%, while a third change can reduce production costs by 10%. What percentage would production costs be reduced if we introduced the three independent amendments at the same time?
+>  
+> A. 100 % B. 73 % C. 92 % D. 87 % E. 67 %
+> 
+> Student of the year 2002. This item is not intended to be used. 4
+
+**Answer:** B
+[[src_kangourou_2002_student__Q15]]

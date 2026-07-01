@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q22
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Product of denominators of the two fractions intimate with 2014/51 (Farey neighbors)*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Produzione dei denominatori delle due frazioni intimamente legate al 2014/51 (vicinanti di Farey) *
+
+> Due frazioni $\frac{a}{b}$ e $\frac{c}{d}$, con $a,b,c,d$ numeri interi positivi, sono intimi quando $ad - bc = \pm 1$. Ad esempio, $\frac{1}{2}$ è intimo con $\frac{1}{3}$ e $\frac{2}{3}$ dal momento che $1 \cdot 3 - 2 \cdot 1 = 1$ e $1 \cdot 3 - 2 \cdot 2 = -1$. Due frazioni intimamente legate a $\frac{2014}{51}$ hanno denominatori inferiori a $51$. Essendo $\frac{x}{y}$ e $\frac{z}{w}$ queste frazioni, qual è il valore di $y \cdot w$? (A) $58$ (B) $68$ (C) $78$ (D) $88$ (E) $98$
+
+[[src_obm_2014_n3_f1__Q22]]

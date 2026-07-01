@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (gara marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q13
 parent: src_kangourou_2016_ecolier_marzo
 competition: Kangourou 2016 Écolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali tasselli scegliere per formare un quadrato*
 
@@ -47,3 +50,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What tables to choose to form a square*
+
+![[src_kangourou_2016_ecolier_marzo__prob13.png]]
+
+> We have the five tables in the figure at our disposal. We want to bring some of them together (without leaving holes or overlapping) to form a square. Which ones do we have to choose? A) 1, 3 e 5
+> 	
+> B) 1, 2 e 5
+> 	
+> C) 1, 4 e 5
+> 	
+> D) 3, 4 e 5
+> 	
+> E) 2, 3 e 5
+
+**Answer:** A
+[[src_kangourou_2016_ecolier_marzo__Q13]]

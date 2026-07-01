@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Junior — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q10
 parent: src_kangourou_2018_junior_semif
 competition: Kangourou 2018 Semifinale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto soluzioni intere di (97-x)^(1/4)+x^(1/4)=5*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1296
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17csch1-7f-cVvjGdqKXJQd6PNOelNdNG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Product whole solutions of (97-x)^(1/4) +x^1/4)=5*
+
+> (Points 4) The (real) solutions of the equation (97 - x) 1/4 + x 1/4 = 5 are integers. How much is their product worth?
+
+**Answer:** 1296
+[[src_kangourou_2018_junior_semif__Q10]]

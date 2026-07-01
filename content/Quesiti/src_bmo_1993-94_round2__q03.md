@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1993-94 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1993-94_round2__Q03
 parent: src_bmo_1993-94_round2
 competition: British Mathematical Olympiad 1993-94 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equal-angle chords in a circle: prove AR(AP+AR)=AQ(AQ+AS)*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BVQrmCslxiyxp1Rg64CsxnMuP4Y7oEdJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Accordi di angolo uguale in un cerchio: prove AR(AP+AR)=AQ(AQ+AS)*
+
+> $AP$, $AQ$, $AR$, $AS$ sono accordi di un circolo dato con la proprietà che $$\angle PAQ = \angle QAR = \angle RAS.$$ dimostra che $$AR(AP + AR) = AQ(AQ + AS).$$
+
+[[src_bmo_1993-94_round2__Q03]]

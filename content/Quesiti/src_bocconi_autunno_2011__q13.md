@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2011 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2011__Q13
 parent: src_bocconi_autunno_2011
 competition: Giochi d'Autunno 2011
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di regioni con tre quadrati della stessa dimensione*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 25
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of regions with three squares of the same size*
+
+> In the figure you can see two squares of the same size, which delimit nine regions. How many regions in total can one have by adding to the figure a third of a square of the same size?
+
+![[src_bocconi_autunno_2011__Q13.png]]
+
+**Answer:** 25
+[[src_bocconi_autunno_2011__Q13]]

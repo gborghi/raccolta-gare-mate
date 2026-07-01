@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2014 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_classiprime__Q12
 parent: src_archimede_2014_classiprime
 competition: Gara Nazionale Classi Prime 2014
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali polinomi NON sono scomponibili sui coefficienti interi*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which polynomials are not decomposable on integer coefficients*
+
+> Consider the following polynomials: p(x) = x2 + x + 1, q(x) = x4 + x2 + 1, h(x) = x4 + 64 Which of them are NOT further decomposable as the product of two polynomials with strictly lower degree integer coefficients? A only p(x) B no C all D only p(x) and q(x) And only h(x) F only p(x) and h(x)
+
+**Answer:** A
+[[src_archimede_2014_classiprime__Q12]]

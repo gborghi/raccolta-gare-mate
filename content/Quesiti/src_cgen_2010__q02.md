@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2010 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2010__Q02
 parent: src_cgen_2010
 competition: Concours Général des Lycées 2010 — Matematica
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Counting triangles on n points (no 3 collinear): maximal number t(n) under a shared-vertices condition, and minimal number s(n) under a chaining condition*
 
@@ -70,3 +73,35 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1un5c72q0Dhvv-U-lXEfjcCDMxsLeoLaa/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio di triangoli su n punti (non 3 collineari): numero massimo t(n) in condizione di vertici condivisi e numero minimo s(n) in condizione di catenazione*
+
+> Problema 2: Alcune configurazioni geometriche.
+> 
+> Nel piano, si considera $n$ punti ($n \ge 3$) di cui non tre sono mai collineari. Si costruiscono tutti i triangoli le cui vertici sono scelte tra questi punti $n$, e si richiede la seguente condizione:
+> 
+> Due triangoli distinti, presi in coppia, hanno zero o due vertici in comune, ma mai esattamente uno.
+> 
+> Denotare con $t(n)$ il numero massimo di triangoli che si possono così formare.
+> 
+> 1. Verificare che $t(4) = 4$, quindi determinare $t(5)$ e $t(6)$.
+> 
+> 2. Supponiamo $t(n) \le n$; ne deduciamo il valore di $t(n)$ come funzione di $n$.
+> 
+> Si considera ora la seguente condizione sui triangoli che possono essere formati:
+> 
+> Due triangoli distinti che possono essere formati hanno una coppia di vertici in comune; in altre parole, uno può passare da un triangolo all'altro.
+> 
+> Indicare anche con $s(n)$ il numero minimo di triangoli che si possono formare rispettando le condizioni precedenti (con i vertici iniziali).
+> 
+> 3. Verificare che $s(4) = 3$, quindi determinare $s(5)$ e $s(6)$.
+> 
+> 4. Determinare $s(n)$ come funzione di $n$.
+> 
+> (Nota: la formulazione precisa delle due condizioni è parzialmente illeggibile nella scansione sorgente; vedere gli avvertimenti.)
+
+[[src_cgen_2010__Q02]]

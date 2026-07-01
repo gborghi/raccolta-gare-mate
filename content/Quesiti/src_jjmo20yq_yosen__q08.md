@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo20yq_yosen__Q08
 parent: src_jjmo20yq_yosen
 competition: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Assign 1-8 to 20 blocks of holey 3x3x3 cube so each outer face shows all 8 values*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 80640
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Assegna da 1-8 a 20 blocchi di cubo 3x3x3 così che ogni faccia esterna mostri tutti e 8 i valori
+
+> Considerate un solido costituito da cubi unitari $20$ (blocchi $1 \times 1 \times 1$), ottenuto da un cubo $3 \times 3 \times 3$ rimuovendo il blocco centrale e tutti e sei i blocchi che condividono una faccia con esso (così vengono rimossi i blocchi $7$). Assegna un numero intero da $\{1, 2, 3, 4, 5, 6, 7, 8\}$ a ciascuno dei blocchi $20$ rimanenti, utilizzando ogni numero intero esattamente una volta. Per ciascuna delle sei facce esterne del solido, i blocchi $8$ visibili su tale faccia devono ricevere tutti i diversi enti $8$. Due incarichi sono considerati diversi se differiscono in almeno un blocco. Trova il numero di incarichi validi.
+
+![[src_jjmo20yq_yosen__Q08.png]]
+
+**Risposta:** 80640
+[[src_jjmo20yq_yosen__Q08]]

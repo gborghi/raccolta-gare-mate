@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2018 - Biennio (T1) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_biennio__Q11
 parent: src_archimede_2018_biennio
 competition: Giochi di Archimede 2018 - Biennio (T1)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli isosceli interi con lato maggiore 2018*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1r-HdGXCRx7VBUCvBx-MUCnS8cyzd6YWt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangles of isosceles with a major side 2018*
+
+> How many different isosceles triangles, with all sides of full lengths, have one side of length 2018 that is larger than the other two?
+>
+> - **(A)** 1007
+> - **(B)** 1006
+> - **(C)** 1010
+> - **(D)** 1008
+> - **(E)** 1011
+
+**Answer:** D
+[[src_archimede_2018_biennio__Q11]]

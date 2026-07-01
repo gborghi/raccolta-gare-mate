@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2023_nu_fx__Q05
 parent: src_obm_2023_nu_fx
 competition: Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x
@@ -41,6 +42,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Drunk knight on infinite board; probability of reaching specific cell after 2023 moves*
 
@@ -53,3 +56,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cavaliere ubriaco su una tavola infinita; la probabilità di raggiungere una cellula specifica dopo il 2023 si muove*
+
+> Un cavaliere ubriaco si muove su una tavola infinita i cui quadrati sono etichettati con coppie $(a,b)\in\mathbb{Z}^2$. A ciascuna mossa, le 8 possibilità $$(a,b)\to(a\pm 1,\, b\pm 2),\qquad (a,b)\to(a\pm 2,\, b\pm 1)$$ sono ugualmente probabili. Sapendo che il cavaliere inizia a $(0,0)$, calcola la probabilità che dopo $2023$ si muova sia a un quadrato $(a,b)$ con $a\equiv 4\pmod{8}$ e $b\equiv 5\pmod{8}$.
+
+[[src_obm_2023_nu_fx__Q05]]

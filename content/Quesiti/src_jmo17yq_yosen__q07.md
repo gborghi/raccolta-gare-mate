@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo17yq_yosen__Q07
 parent: src_jmo17yq_yosen
 competition: Japan Mathematical Olympiad 2007 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count unordered ways to write 100 as sum of non-negative integers each at most 3*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 884
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare modi non ordinati per scrivere 100 come somma di interi non negativi ciascuno al massimo 3*
+
+> In quanti modi $100$ può essere espresso come somma di un certo numero positivo di integri non negativi, ognuno dei quali è al massimo $3$? Due espressioni che differiscono solo nell'ordine dei loro termini sono considerate uguali.
+
+**Risposta:** 884
+[[src_jmo17yq_yosen__Q07]]

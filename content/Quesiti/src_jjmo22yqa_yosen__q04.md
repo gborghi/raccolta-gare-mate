@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo22yqa_yosen__Q04
 parent: src_jjmo22yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the smallest positive rational with finite decimal expansion whose integer and fractional parts have product 42*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 48.875
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MpOoffmNfAlSJnrNvYxGLF27kPgwbEmW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova il più piccolo razionale positivo con espansione decimale finita il cui numero intero e parti frazionarie hanno il prodotto 42*
+
+> Un numero razionale positivo $x$ può essere espresso come decimale terminale, e il prodotto della sua parte integrale e della sua parte frazionaria equivale a $42$. Trovare il più piccolo $x$.
+> 
+> (Un **terminante decimale** è un decimale con finitamente molte cifre non zero dopo il punto decimale, come $2.024$ o $5$. Per un numero reale positivo $r$, la parte integrale **** di $r$ è il numero intero più grande non superiore a $r$, e la parte frazionaria **** di $r$ è $r$ meno la sua parte integrale. Ad esempio, la parte integrale di $2.024$ è $2$, la parte frazionaria è $0.024$; la parte integrale di $5$ è $5$, la parte frazionaria è $0$.)
+
+**Risposta:** 48.875
+[[src_jjmo22yqa_yosen__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2021 — Selection Camp — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2021__Q01
 parent: src_selection_camp_2021
 competition: Japan IMO Selection Camp 2021 — Selection Camp
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Disjoint quadrilaterals with 3-same-1-other colored vertices*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterali disgiunti con vertici di 3 e 1 colore *
+
+> Tra i vertici $100$ di un normale $100$-gon, $41$ sono di colore nero e i rimanenti $59$ sono di colore bianco. Provare che si possono scegliere $24$ quadrilaterali convexi $Q_1, Q_2, \ldots, Q_{24}$, ognuno dei quali ha quattro di questi vertici $100$ come vertici, soddisfacendo le seguenti due condizioni: \begin{itemize} \item Non due di $Q_1, \ldots, Q_{24}$ hanno alcun punto in comune (ne' nei loro interni ne' sui loro confini). \item Per ogni numero intero $i$ con $1 \le i \le 24$, tra i quattro vertici di $Q_i$ esattamente tre sono dello stesso colore e il rimanente è dell'altro colore. # Finire #
+
+[[src_selection_camp_2021__Q01]]

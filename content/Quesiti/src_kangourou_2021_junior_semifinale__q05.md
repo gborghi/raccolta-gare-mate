@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior Semifinale individuale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_semifinale__Q05
 parent: src_kangourou_2021_junior_semifinale
 competition: Kangourou 2021 Junior Semifinale individuale
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *2021 come somma di cinque interi con sole cifre 3 e 5*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*2021 as the sum of five integers with only digits 3 and 5*
+
+> (4 points) Julius wants to write 2021 as the sum of five positive integers that have no digits other than 3 and 5. How many digits of 3 are there in all five numbers? A) 2
+>  
+> B) 3
+>  
+> C) 4
+>  
+> D) 5
+>  
+> E) 6
+
+**Answer:** B
+[[src_kangourou_2021_junior_semifinale__Q05]]

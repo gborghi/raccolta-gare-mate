@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f2__Q05
 parent: src_obm_2004_n3_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all 4-digit sinister numbers (sum of primes equals sum of exponents)*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtQOtkjmRDPxof4u0RsZ6WiFwO0VkE8P/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutti i numeri sinistri a 4 cifre (la somma delle prime è uguale alla somma degli esponenti) *
+
+> Diciamo che un intero positivo è *sinister* se la somma dei suoi fattori primi è uguale alla somma degli esponenti nella sua fattorizzazione primaria. Trova tutti i numeri sinistri a quattro cifre.
+
+[[src_obm_2004_n3_f2__Q05]]

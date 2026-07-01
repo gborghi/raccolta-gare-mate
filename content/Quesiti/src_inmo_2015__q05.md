@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2015 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2015__Q05
 parent: src_inmo_2015
 competition: Indian National Mathematical Olympiad 2015
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral ABCD has incircle iff 1/PE+1/PG=1/PF+1/PH*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wCKdKYfdVWhHtGthqrJdhPacrzqEpdcc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>ABCD quadrilaterale convex ha incircolo iff 1/PE+1/PG=1/PF+1/PH< MSK1/>
+
+> Che $ABCD$ sia un quadrilaterale convex. Lasciate che le diagonali $AC$ e $BD$ si incrociano in $P$. Le altitudini $PE$, $PF$, $PG$ e $PH$ siano rispettivamente le altitudini da $P$ ai lati $AB$, $BC$, $CD$ e $DA$. Indicare che $ABCD$ ha un incircolo se e solo se $$\frac{1}{PE} + \frac{1}{PG} = \frac{1}{PF} + \frac{1}{PH}.$$
+
+[[src_inmo_2015__Q05]]

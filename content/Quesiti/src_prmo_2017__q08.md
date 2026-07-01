@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q08
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of ways to spend exactly Rs.1000 on pens (Rs.11) and notebooks (Rs.13)*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Numero di modi per spendere esattamente 1000 rupe per penne (Rs.11) e notebook (Rs.13) < MSK1/>
+
+> Una penna costa $\text{Rs.}\,11$ e un notebook $\text{Rs.}\,13$. Trova il numero di modi in cui una persona può spendere esattamente < MSK2/> per acquistare penne e notebook.
+
+[[src_prmo_2017__Q08]]

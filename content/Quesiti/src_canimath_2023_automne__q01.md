@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2023 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2023_automne__Q01
 parent: src_canimath_2023_automne
 competition: Coupe Animath Automne 2023
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate a numeric fraction of a product of even numbers over a product of small integers*
 
@@ -49,3 +52,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare una frazione numerica di un prodotto di numeri pari su un prodotto di piccoli interi*
+
+> Calcolo < MSK0/>
+> 
+> Qui si aspetta solo una risposta numerica.
+
+**Risposta:** 32
+[[src_canimath_2023_automne__Q01]]

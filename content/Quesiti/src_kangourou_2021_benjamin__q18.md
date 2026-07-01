@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q18
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Combinazione che non puo essere quella corretta*
 
@@ -56,3 +59,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Combination that cannot be the correct one< MSK1/>
+
+![[src_kangourou_2021_benjamin__prob18.png]]
+
+> For the bike, I have a combination lock made up of four gears, each of which returns in the order the numbers from 0 to 9, as you can tell from the figures. To play, after I had inserted the correct combination, my little brother turned each bar in the same direction and the same number of shots. Now the lock shows the combination 6348. Which of the following cannot be the correct combination of my lock? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** C
+[[src_kangourou_2021_benjamin__Q18]]

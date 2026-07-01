@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Semifinale B — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_b__Q13
 parent: src_cesenatico_2006_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2006 - Semifinale B
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero colorazioni distinte di tetraedri con 16 colori*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 3640
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1C1-0u1U8ey0GIZLi8XIHQXze5sw1wB7M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of distinct colours of tetrahedra with 16 colours*
+
+> The collector Professor Primon makes a strange collection of dark mathematics artifacts. These are regular tetrahedra that have all colored faces of a single color (different for each face), and the colors are chosen from a range of 16 different colors. Professor Primon already owns an item from this collection and buys another one, then he goes home and turns it over, turns it over on the base, and he realizes that it's actually a duplicate. How many pieces are in total in the collection (two pieces obtained by rotation are to be considered the same)?
+
+**Answer:** 3640
+[[src_cesenatico_2006_squadre_semifinale_b__Q13]]

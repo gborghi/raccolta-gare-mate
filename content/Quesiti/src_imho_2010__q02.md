@@ -1,6 +1,7 @@
 ---
 title: IMO 2010 (LI International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2010__Q02
 parent: src_imho_2010
 competition: IMO 2010 (LI International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Incenter, circumcircle, angle condition, midpoint collinearity*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P9d2XUiUwFj4g4vYgMP-cLSy51RUJj9w/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+In the case of the 'C' range, the 'C' range shall be defined as the 'C' range, the 'C' range.
+
+> Let $I$ be the incenter of triangle $ABC$ and let $\Gamma$ be its circumcircle. Let the line $AI$ intersect $\Gamma$ again at $D$. Let $E$ be a point on the arc $\widehat{BDC}$ and $F$ a point on the side $BC$ such that $$\angle BAF = \angle CAE < \tfrac{1}{2}\angle BAC.$$ Finally, let $G$ be the midpoint of the segment $IF$. Prove that the lines $DG$ and $EI$ intersect on $\Gamma$.
+
+[[src_imho_2010__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2009 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2009__Q02
 parent: src_cn_cmc-complementary-test_2009
 competition: China Mathematical Competition (Complementary Test) 2009
@@ -31,6 +32,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove double inequality for partial harmonic-like sum minus log n*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la doppia disuguaglianza per la somma parziale armonica meno log n*
+
+> (50 marchi) dimostrare che < MSK0/>
+
+[[src_cn_cmc-complementary-test_2009__Q02]]

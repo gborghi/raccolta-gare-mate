@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2012 — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2012__Q20
 parent: src_bocconi_rosi_2012
 competition: Giochi di Rosi 2012
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo valore di $a^b + c^d$ con $\{a,b,c,d\}=\{1,2,3,4\}$*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $2^1 + 3^4 = 83$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1du4nM_pjVseEMRiX1hz7hrTEkEIg-ZC2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most value of $a^b + c^d$ with $\{a,b,c,d\}=\{1,2,3,4\}$*
+
+> Consider the sum of $a^b + c^d$ and replace the numbers 1, 2, 3, 4 (not necessarily in this order) with the letters $a$, $b$, $c$, $d$ to get the greatest possible result.
+> 
+> What is this result?
+
+**Answer:** $2^1 + 3^4 = 83$
+[[src_bocconi_rosi_2012__Q20]]

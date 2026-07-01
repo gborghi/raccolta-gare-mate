@@ -1,6 +1,7 @@
 ---
 title: IMO 1966 (VIII International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1966__Q04
 parent: src_imho_1966
 competition: IMO 1966 (VIII International Mathematical Olympiad)
@@ -29,6 +30,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Telescoping sum of cosecants equals cotangent identity*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Telescoping sum of cosecants equals cotangent identity*
+
+> Prove that for every natural number $n$, and for every real number $x \neq \frac{k\pi}{2^t}$
+
+[[src_imho_1966__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_ecolier_f__Q11
 parent: src_kangourou_2015_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2015 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cucchiai piccoli per riempire il vasetto di zucchero*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 16
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iZrTBi-soab93JlVJUtlAaAcp-N69n0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Little knives to fill the sugar container< MSK1/>
+
+> The sugar container Giulia can fill with sugar by pouring a sugar container into it - 6 small spoons, 3 medium spoons and 1 large spoon, - or 2 small spoons, 1 medium spoon and 3 large spoons, - or 4 medium spoons and 2 large spoons, all filled with sugar. How many small spoons full of sugar do you need to fill the jar?
+
+**Answer:** 16
+[[src_kangourou_2015_squadre_ecolier_f__Q11]]

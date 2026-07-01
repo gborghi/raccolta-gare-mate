@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f3__Q06
 parent: src_obm_1999_n3_f3
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Construct minimum-area inscribed triangle with prescribed angles using compass and straightedge*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17yibfSyhuhmSwDbCsRV7EjaJIGuB8esS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Construire un triangolo con superficie minima incentrata con angoli prescritti utilizzando bussola e borso retto*
+
+> Se il triangolo $ABC$ è considerato, mostrare come costruire con il bordo stretto e la bussola un triangolo $A'B'C'$ di superficie minima come $C' \in AC$, $A' \in AB$, $B' \in BC$ e $$\angle B'A'C' = \angle BAC, \quad \angle A'C'B' = \angle ABC, \quad \angle A'B'C' = \angle ACB.$$
+
+![[src_obm_1999_n3_f3__Q06.png]]
+
+[[src_obm_1999_n3_f3__Q06]]

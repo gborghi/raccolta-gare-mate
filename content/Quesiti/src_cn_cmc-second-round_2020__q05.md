@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Second Round) 2020 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-second-round_2020__Q05
 parent: src_cn_cmc-second-round_2020
 competition: China Mathematical Competition (Second Round) 2020
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five points on a circle with three equal arcs; prove angle PAQ equals angle PEQ*
 
@@ -43,3 +46,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cinque punti su un cerchio con tre archi uguali; dimostrare che l'angolo PAQ è uguale all'angolo PEQ*
+
+> 40 punti) Come mostrato alla figura 1.1, $A$, $B$, $C$, $D$, $E$ sono cinque punti in ordine sul cerchio $\Omega$, soddisfacendo $\overset{\frown}{ABC} = \overset{\frown}{BCD} = \overset{\frown}{CDE}$. I punti $P$ e $Q$ si trovano rispettivamente sui segmenti $AD$ e $BE$ e $P$ si trovano sul segmento $CQ$. Prove che < MSK13/>.
+
+[[src_cn_cmc-second-round_2020__Q05]]

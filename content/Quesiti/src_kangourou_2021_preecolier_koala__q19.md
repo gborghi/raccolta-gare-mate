@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q19
 parent: src_kangourou_2021_preecolier_koala
 competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nella stessa scatola della carta 4*
 
@@ -43,3 +46,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the same box as paper 4*
+
+![[src_kangourou_2021_preecolier_koala__prob19.png]]
+
+> We put the five numbered cards you see below in the two boxes. The sum of the card numbers in the first box is equal to the card numbers in the second. What's the number of a card that's in the same box as the card 4?
+>
+> - **(A)** Just the third .
+> - **(B)** Just the 5th.
+> - **(C)** Just the sixth.
+> - **(D)** Just the 5th or the 6th.
+> - **(E)** It is impossible to determine (see figure)
+
+**Answer:** C
+[[src_kangourou_2021_preecolier_koala__Q19]]

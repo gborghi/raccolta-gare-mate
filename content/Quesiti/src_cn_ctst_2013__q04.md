@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2013 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2013__Q04
 parent: src_cn_ctst_2013
 competition: China National Team Selection Test 2013
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of n with binomial coefficient congruence mod prime power*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di n con coefficiente di congruenza binomial mod potenza primaria*
+
+> Lasciate che $p$ sia un primo, $a$ e $b$ siano interi positivi che soddisfano $p^{2^a - 1} < 2p^b$. Prove che per ogni intero non negativo $k$ esiste un intero positivo $n < p^{a+b}$ tale che $n \equiv k \pmod{p^a}$ e $\binom{n}{k} \equiv k \pmod{p^b}$. (Possibile da Yu Hongbing)
+
+[[src_cn_ctst_2013__Q04]]

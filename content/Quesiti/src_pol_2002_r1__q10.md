@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2002 — Round 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2002_r1__Q10
 parent: src_pol_2002_r1
 competition: Olimpiade Matematica Polacca 2002 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *On a 2000x2000 board with a stone on each field, moves merge two stones three-apart onto the middle; decide whether all stones can end on one field.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s9ZjnDtmg-rnzFwIx0ERei05lAvmwNDb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Su una lavagna 2000x2000 con una pietra su ciascun campo, si muovono due pietre tre a parte sul centro; si decide se tutte le pietre possono finire su un campo.*
+
+> Su ogni campo di una scacchiera $2000 \times 2000$ si trova una pietra. Le pietre possono essere spostate nel modo seguente: Colmare tre campi successivi in fila o in colonna. Se sul primo e sul terzo campo si trova una pietra, allora queste due pietre possono essere spostate sul secondo campo. (Nota che un movimento può essere eseguito indipendentemente dal numero di pietre che si trovano sul mezzo archivato.) Prova o smentire: Esiste una sequenza di movimenti tale che alla fine tutte le pietre si trovano su un campo della scacchiera.
+
+[[src_pol_2002_r1__Q10]]

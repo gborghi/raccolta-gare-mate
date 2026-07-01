@@ -1,6 +1,7 @@
 ---
 title: IMO 1964 (VI International Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1964__Q05
 parent: src_imho_1964
 competition: IMO 1964 (VI International Olympiad)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di intersezioni di perpendicolari da 5 punti*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ORlM97VoFLPBl_owxakVijHALbp-pCFq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of intersections of 5 points perpendicular to each other*
+
+> Suppose that five points in the plane are arranged so that none of the lines connecting them are parallel, perpendicular or coincident with each other. From each point the perpendiculars to all the lines connecting the other four points are drawn. Determine the maximum number of intersections these perpendiculars can have.
+
+[[src_imho_1964__Q05]]

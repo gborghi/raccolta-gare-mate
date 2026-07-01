@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Benjamin 2024 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin_semifinale__Q14
 parent: src_kangourou_2024_benjamin_semifinale
 competition: Kangourou Semifinale individuale Benjamin 2024
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma minima di sei numeri coprimi sulle facce di un cubo*
 
@@ -62,3 +65,30 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0022
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OAmusb-x449TC7MxeV09o-WNl3U7P-Sn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of six numbers covered on the faces of a cube*
+
+![[src_kangourou_2024_benjamin_semifinale__prob14.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \def\s{0.8}
+  \draw[thick] (\s*0.5,-\s*0.5) rectangle (\s*1.5,\s*0.5); \node at (\s*1,0) {2};
+  \draw[thick] (-\s*0.5,-\s*1.5) rectangle (\s*0.5,-\s*0.5); \node at (0,-\s) {1};
+  \draw[thick] (\s*0.5,-\s*1.5) rectangle (\s*1.5,-\s*0.5); \node at (\s,-\s) {3};
+  \draw[thick] (\s*1.5,-\s*1.5) rectangle (\s*2.5,-\s*0.5); \node at (\s*2,-\s) {5};
+  \draw[thick] (\s*2.5,-\s*1.5) rectangle (\s*3.5,-\s*0.5); \node at (\s*3,-\s) {7};
+  \draw[thick] (\s*0.5,-\s*2.5) rectangle (\s*1.5,-\s*1.5); \node at (\s,-\s*2) {4};
+\end{tikzpicture}
+\end{document}
+```
+
+> (Points 6) A positive integer is written on each side of a cube, and the six numbers are all different from each other. You know, whatever you consider two adjacent faces, the only common divisor of the two numbers that you see is 1. What is the minimum value of the sum of the six numbers? Remember, they say two faces are adjacent if they have a joint. The answer is 0022. The solution. It is clear that the number 6 cannot be used because it would necessarily be found on a face adjacent to the one with 2 or the one with 3 or the one with 4.
+
+**Answer:** 0022
+[[src_kangourou_2024_benjamin_semifinale__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Semifinale individuale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet_semifinale__Q02
 parent: src_kangourou_2023_cadet_semifinale
 competition: Kangourou 2023 Cadet — Semifinale individuale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *orario d'ingresso*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1M9sXIkUDY4rP1rr4DHPF0VSPHt_-LbxS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>time of entry < MSK1/>
+
+> There are two guards in a power station. There are also two safety sound signals: one rings every two minutes, the other rings every three minutes. When they ring at the same time, you feel a single ring. At 12:00 they rang at the same time and there was only one guard in the station; when the second guard entered the station, they rang again at the same time and, from 12:00 noon onwards, the first guard, always present, heard 13 bells. What time did the second guard enter the station? A) 12:12         B) 12:15          C) 12:18            D) 12:24           E) 12:30
+
+[[src_kangourou_2023_cadet_semifinale__Q02]]

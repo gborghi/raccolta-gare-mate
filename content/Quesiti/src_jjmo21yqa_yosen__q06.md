@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo21yqa_yosen__Q06
 parent: src_jjmo21yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count triples a<b<c with decreasing quadratic*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 333433340000
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11kigjl_Wt-al8ocndA12n0n3x8dtw2E3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Conteggio triplica a< b< c con diminuzione quadrata< MSK1/>
+
+> Quanti triples $(a, b, c)$ di numeri interi positivi con $a < b < c$ soddisfano $$a^2 - 20005a > b^2 - 20005b > c^2 - 20005c\,?$$
+
+**Risposta:** 333433340000
+[[src_jjmo21yqa_yosen__Q06]]

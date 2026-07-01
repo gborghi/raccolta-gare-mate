@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2013 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2013__Q02
 parent: src_cn_cwmo_2013
 competition: China Western Mathematical Olympiad 2013
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove sum inequality for reals in [0,1]*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sosteniamo la disuguaglianza della somma per i reali in [0,1]*
+
+> $n$ sia un numero intero, $n \ge 2$ e $x_1, x_2, \ldots, x_n \in [0, 1]$. Provare che $$3\sum_{1 \le k < r \le n} k x_k x_r \le (n-1)\sum_{k=1}^{n} k x_k.$$ (posato da Guangjian)
+
+[[src_cn_cwmo_2013__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 2001 (XLII International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2001__Q02
 parent: src_imho_2001
 competition: IMO 2001 (XLII International Mathematical Olympiad)
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Inequality with three positive reals and square roots*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qMACSEbbsGH_u046vbY-UauBhiht0ZaG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Inequality with three positive reals and square roots*
+
+> Prove that $$\frac{a}{\sqrt{a^2+8bc}}+\frac{b}{\sqrt{b^2+8ca}}+\frac{c}{\sqrt{c^2+8ab}}\ge 1$$ for all positive real numbers $a$, $b$ and $c$.
+
+[[src_imho_2001__Q02]]

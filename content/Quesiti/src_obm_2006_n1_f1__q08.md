@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q08
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Unique number expressible as product of four consecutive naturals*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero unico espressi come prodotto di quattro numeri naturali consecutivi*
+
+> Tra i seguenti numeri, quale è l'unico che può essere scritto come prodotto di quattro numeri naturali consecutivi?
+>
+> - **(A)** 712
+> - **(B)** 548
+> - **(C)** 1026
+> - **(D)** 1456
+> - **(E)** 1680
+
+**Risposta:** E
+[[src_obm_2006_n1_f1__Q08]]

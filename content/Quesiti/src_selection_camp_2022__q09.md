@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2022 — Selection Camp — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2022__Q09
 parent: src_selection_camp_2022
 competition: Japan IMO Selection Camp 2022 — Selection Camp
@@ -30,6 +31,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real functions with f(-1)=-1 satisfying a functional equation*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IbxW-7wHAbocY02LPUXVJ2fiAgki09kb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni reali con f(-1)=-1 che soddisfano un'equazione funzionale*
+
+> Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ in modo tale che per tutti i numeri reali $x, y$, $$f(x)f(y) - f(x+y) = yf(x) - f(x+f(y))$$ e $f(-1) = -1$.
+
+[[src_selection_camp_2022__Q09]]

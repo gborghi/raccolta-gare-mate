@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Student (15 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_student__Q12
 parent: src_kangourou_2001_student
 competition: Kangourou 2001 - Student (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume del solido con quadrati e triangoli*
 
@@ -51,3 +54,28 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of solid with squares and triangles*
+
+![[src_kangourou_2001_student__prob12.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) rectangle (2,2);
+  \draw (2,0) rectangle (4,2);
+  \draw (4,0) rectangle (6,2);
+  \draw (2,2)--(3,3.732)--(4,2);
+  \draw (2,0)--(3,-1.732)--(4,0);
+\end{tikzpicture}
+\end{document}
+```
+
+> The figure below shows the flat development of a solid bounded by three 4 cm side squares and two equilateral triangles. What is the volume of the solid?
+
+**Answer:** A
+[[src_kangourou_2001_student__Q12]]

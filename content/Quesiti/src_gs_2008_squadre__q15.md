@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q15
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero tra 1000 e 9999 con cifre diverse dai multipli di 1792*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7858
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number between 1000 and 9999 with digits other than the multiples of 1792*
+
+> The Metatron explained to Aziraphale that it must look for the predestined newborn in those hospital rooms whose 4-digit numbers have the property that, by substituting any way for a maximum of 3 digits, you never get a positive multiple of < MSK0/>.
+> 
+> Write the difference between the smallest and the largest of the numbers of rooms where Aziraphale must search for the predestinate.
+
+**Answer:** 7858
+[[src_gs_2008_squadre__Q15]]

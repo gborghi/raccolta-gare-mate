@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2010 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2010__Q03
 parent: src_cn_ctst_2010
 competition: China National Team Selection Test 2010
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum digit sum for antichain of {1,2}-digit integers*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 179
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum somma di cifre per l'anticatena di enti interi a cifre {1,2}*
+
+> Lasciate che $n_1, n_2, \ldots, n_k$ siano integri positivi separati in coppia che soddisfino: (1) Nella rappresentazione decimale di ogni $n_i$, ogni cifra appartiene a $\{1, 2\}$. (2) Per qualsiasi $i \ne j$, $n_i$ non può essere ottenuto da $n_j$ aggiungendo alcune cifre sulla destra. Trovare il valore minimo di $\displaystyle\sum_{i=1}^{k} S(n_i)$, dove $S(m)$ indica la somma dei numeri di $m$ in rappresentazione decimale.
+
+**Risposta:** 179
+[[src_cn_ctst_2010__Q03]]

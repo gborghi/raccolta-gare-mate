@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 1) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g1__Q15
 parent: src_bocconi_finaleint_2010_g1
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scegliere e barrare numeri in una tabella minimizzando il prodotto dei cinque numeri scelti.*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3024
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Select and scan numbers in a table minimizing the product of the five numbers selected.*
+
+> In this table, in each row, two numbers are chosen, of which the other three are chosen; then in each column, a number is chosen, of which all the others are chosen. They've chosen so many numbers in all, five numbers that they're never barred. What is the product of the five numbers that you can choose from?
+
+![[src_bocconi_finaleint_2010_g1__Q15.png]]
+
+**Answer:** 3024
+[[src_bocconi_finaleint_2010_g1__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Koala — Gioco Koala — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_koala__Q03
 parent: src_kangourou_2022_koala
 competition: Kangourou 2022 Koala — Gioco Koala
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale risultato*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Nyec1GxOQ3f28I_D0c1kacejlV99W-GD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> which result< MSK1/>
+
+![[src_kangourou_2022_koala__prob3.png]]
+
+> Simone cuts the drawing in the figure exactly in half and adjoins the two rectangles obtained. Which of the following images may represent the result of this operation? (see figure)
+
+**Answer:** E
+[[src_kangourou_2022_koala__Q03]]

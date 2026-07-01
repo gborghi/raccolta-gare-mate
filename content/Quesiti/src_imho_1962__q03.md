@@ -1,6 +1,7 @@
 ---
 title: IMO 1962 (IV International Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1962__Q03
 parent: src_imho_1962
 competition: IMO 1962 (IV International Olympiad)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Luogo dei medi di XY in moto sul cubo*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BlLkE_efsxSP5T1vvAcLZHNj-SGm8Pco/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Place of moving XY media on the cube*
+
+> Consider the $ABCDA'B'C'D'$ cube (the face $ABCD$ is the bottom base, the face $A'B'C'D'$ is the top, $AA', BB', CC', DD'$ are the side tips). The point $X$ moves at a constant speed along the perimeter of the square $ABCD$, and the point $Y$ moves at the same speed along the perimeter of the square $B'C'CB$. Initially $X$ is in $A$ and $Y$ is in $B'$. Determine and map the geometric location of the midpoint of $XY$.
+
+[[src_imho_1962__Q03]]

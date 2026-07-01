@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f3__Q02
 parent: src_obm_2016_n2_f3
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence of squares, each new square built on the diagonal of the previous larger one*
 
@@ -58,3 +61,21 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pFIjmivzjoZv5XiNmeuw7FxzBsl4gRIj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di quadrati, ogni nuovo quadrato costruito sulla diagonale del precedente più grande *
+
+> Janaina disegna una sequenza di figure come mostrato di seguito. Ogni figura ha un quadrato in più della figura precedente, e ogni quadrato aggiunto ha un lato uguale alla diagonale del quadrato più grande della figura precedente. Inoltre, tutti i quadrati di ciascuna figura condividono un vertice comune. Il quadrato della figura $1$ ha superficie $2\ \mathrm{cm}^2$.
+> 
+> a) Qual è l'area del quadrato più grande della figura $2$?
+> 
+> b) Qual è la superficie totale della figura < MSK0/>?
+> 
+> c) Qual è la superficie totale della figura < MSK0/>?
+
+![[src_obm_2016_n2_f3__Q02.png]]
+
+[[src_obm_2016_n2_f3__Q02]]

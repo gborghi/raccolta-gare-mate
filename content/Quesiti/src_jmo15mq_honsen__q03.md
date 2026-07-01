@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2005 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo15mq_honsen__Q03
 parent: src_jmo15mq_honsen
 competition: Japan Mathematical Olympiad 2005 — Honsen (Final)
@@ -28,6 +29,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cube-root inequality for positive reals summing to 1*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kJ0RBj04mPEdfmRta9X0N2LOSpB-9biU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ineguaglianza a radice cubica per i valori reali positivi che sommano a 1 < MSK1/>
+
+> $a,b,c$ siano numeri reali positivi che soddisfino $a+b+c=1$. Provare che < MSK0/>
+
+[[src_jmo15mq_honsen__Q03]]

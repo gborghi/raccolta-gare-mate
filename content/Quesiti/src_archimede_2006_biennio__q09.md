@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Biennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_biennio__Q09
 parent: src_archimede_2006_biennio
 competition: Giochi di Archimede 2006 - Gara Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza DC con DE parallelo ad AB e rapporto aree*
 
@@ -61,7 +64,7 @@ tags:
 > - **(B)** (2 − √ 3) m,
 > - **(C)** √ 3 3 m,
 > - **(D)** 3 4 m,
-> - **(E)** √ 3 2 m. C D E A B
+> - **(E)** √ 3 2 m.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
@@ -70,3 +73,41 @@ tags:
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*DC length with DE parallel to AB and area ratio*
+
+![[src_archimede_2006_biennio__prob9.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (3,0);
+  \coordinate (C) at (0,4);
+  \coordinate (D) at (0,1.5);
+  \coordinate (E) at (1.875,1.5);
+  \draw (A) -- (B) -- (C) -- cycle;
+  \draw (D) -- (E);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above left] at (C) {$C$};
+  \node[left] at (D) {$D$};
+  \node[right] at (E) {$E$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure below, the DE segment is parallel to AB. Knowing that the area of DEC is equal to 3/4 of that of ABC and that AC measures 1 m, how much does DC measure?
+>
+> - **(A)** 2 − √ 3 2 m,
+> - **(B)** (2 − √ 3) m,
+> - **(C)** √ 3 3 m,
+> - **(D)** 3 4 m,
+> - **(E)** √ 3 2 m.
+
+**Answer:** E
+[[src_archimede_2006_biennio__Q09]]

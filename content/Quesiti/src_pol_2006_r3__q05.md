@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2006 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2006_r3__Q05
 parent: src_pol_2006_r3
 competition: Olimpiade Matematica Polacca 2006 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *The inscribed sphere of a tetrahedron touches two faces at their centroids; prove the tetrahedron is regular.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Gb-ql6_Ggztexxno6TomZay4IG7dvmgE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La sfera incentrata di un tetraedro tocca due facce nei loro centriodi; dimostra che il tetraedro è regolare.*
+
+> La sfera incentrata di un tetraedro $ABCD$ con $AB = CD$ tocca rispettivamente le facce $ABC$ e $ABD$ a $K$ e $L$. Prova che se $K$ e $L$ sono i centroidi delle facce corrispondenti, allora $ABCD$ è un tetraedro regolare.
+
+[[src_pol_2006_r3__Q05]]

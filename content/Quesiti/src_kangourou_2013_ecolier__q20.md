@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q20
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo tessere domino in fila*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum number of dominoes in a row< MSK1/>
+
+> Ennio has the dominoes that show you the figure. He wants to line them up by following the domino rule: the second square of each card must have the same number of points as the first square of the next card. How many can you line up, at most? A) 3
+>         	
+> B) 4
+> 	
+> C) 5 D) 6
+> 	
+> E) 7
+
+**Answer:** C
+[[src_kangourou_2013_ecolier__Q20]]

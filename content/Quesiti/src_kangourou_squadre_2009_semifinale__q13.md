@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q13
 parent: src_kangourou_squadre_2009_semifinale
 competition: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Griglia irregolare con vincoli pari/dispari e frecce*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0009
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Irregular grid with equal/disparate constraints and arrows*
+
+![[src_kangourou_squadre_2009_semifinale__prob13.png]]
+
+> Anna and her dog Anna is walking with her dog on a circular track that surrounds a pond. The runway is 500 meters long. At a certain moment the dog starts running at a speed of 10 km/h; Anna chases him running at a speed of 8 km/h. When the distance between the dog and Anna has become 250 meters, Anna reverses the side of her run, intending to retrieve the dog (which instead continues to run in the same direction) running towards him. If the dog and Anna's speeds stay the same, how many seconds will Anna be separated from her dog?
+
+**Answer:** 0009
+[[src_kangourou_squadre_2009_semifinale__Q13]]

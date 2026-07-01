@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2013 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo11mq_honsen__Q04
 parent: src_jjmo11mq_honsen
 competition: Japan Junior Mathematical Olympiad 2013 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Express angle HJK using angle BCA in acute triangle*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UgUX3RXEgvDm3jGJSbFGNwaCoh5esb70/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Espresso angolo HJK utilizzando angolo BCA nel triangolo acuto*
+
+> C'è un triangolo acuto $ABC$ con $AB < AC$, il cui centro ortocentrico e incentrico sono rispettivamente $H$ e $I$. Un punto $J$ sul lato $AB$ e un punto $K$ sul lato $BC$ soddisfano $\angle HIK = 90^\circ$ e $AC = AJ + CK$. Esprimere < MSK10/> in termini di < MSK11/>. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+[[src_jjmo11mq_honsen__Q04]]

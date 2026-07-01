@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo14yq_yosen__Q07
 parent: src_jjmo14yq_yosen
 competition: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find ratio BA:BC given midpoint of BD and equal angles*
 
@@ -43,3 +46,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Relazione di ricerca BA:BC data il punto medio della BD e angoli uguali*
+
+> Nel triangolo $ABC$ con $AC = 28$, $M$ sia il punto medio del segmento $BD$, dove $D$ è un punto tale che la figura sia determinata come disegnata. È dato che $\angle AMB = \angle CMB$, $AM = 20$ e $CM = 16$. Trova il rapporto $BA : BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Risposta:** \sqrt{5} : 2
+[[src_jjmo14yq_yosen__Q07]]

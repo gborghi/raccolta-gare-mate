@@ -1,6 +1,7 @@
 ---
 title: IMO 1960 (II International Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1960__Q03
 parent: src_imho_1960
 competition: IMO 1960 (II International Olympiad)
@@ -28,6 +29,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Provare tan(alfa)=4nh/((n^2-1)a) nel triangolo rettangolo*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KV_5TZmWn2knHcJ1bIN1arXTCbLCraQd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Try tan(alpha)=4nh/(((n^2-1) a) in the rectangular triangle*
+
+> In a given $ABC$ rectangle, the hypotenuse $BC$, of length $a$, is divided into $n$ equal parts ($n$ odd integer). Either $\alpha$ the acute angle below $A$ to the segment containing the midpoint of the hypotenuse. Either $h$ the length of the height relative to the hypotenuse of the triangle. Provide proof that: $$\tan \alpha = \frac{4nh}{(n^2 - 1)a}.$$
+
+[[src_imho_1960__Q03]]

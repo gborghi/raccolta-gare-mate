@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q01
 parent: src_kangourou_2019_junior_semifinale_a
 competition: Kangourou Coppa Junior squadre 2019 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Riduzione ai minimi termini di una frazione di somme*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2629
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qvyGTt8fMV3U7A9REDKvAdJtpkkgdYbx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Reduction to the minimum terms of a fraction of sum*
+
+> Minimum terms Reduce to minimum terms the fraction (1 + 3 + 5 + ... + 51) / (4 + 6 + 8 + ... + 54) and report consecutively numerator and denominator (for example, if the fraction was 5/8 write [0508]).
+
+**Answer:** 2629
+[[src_kangourou_2019_junior_semifinale_a__Q01]]

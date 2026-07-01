@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r2__Q03
 parent: src_rmo_2013_r2
 competition: Regional Mathematical Olympiad 2013
@@ -35,6 +36,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sign changes in 2013^2+2014^2+...+n^2 to equal 9999*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uqSSojdtAvGG1PLqgEhOlUA-N31qYiRK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cambiamenti di segno nel 2013^2+2014^2+...+n^2 per essere uguali a 9999*
+
+> Considerare l'espressione $$2013^2 + 2014^2 + 2015^2 + \cdots + n^2.$$ Prove che esiste un numero naturale $n > 2013$ per il quale si può cambiare un numero appropriato di segni più a segni meno nell'espressione di cui sopra per rendere l'espressione risultante uguale a $9999$.
+
+[[src_rmo_2013_r2__Q03]]

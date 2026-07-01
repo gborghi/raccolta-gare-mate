@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 2) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g2__Q07
 parent: src_bocconi_finaleint_2009_g2
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ricostruire una moltiplicazione con la maggior parte delle cifre cancellate*
 
@@ -52,3 +55,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_LRZ35lngxx9JZL11y14CrDyt5FTBU28/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Reconstruct a multiplication with most of the deleted digits*
+
+> Multiplication of the value of the product. In this multiplication, certain (correct) product figures were consecutive (each differed from the previous one of a unit) and each appeared only once. All other figures greater than < MSK1/> have been deleted. Reconstruct the operation: $$\begin{array}{r}\_\,\_\,3\\ \times\ \_\,4\\ \hline \_\,\_\,\_\,2\end{array}$$
+
+![[src_bocconi_finaleint_2009_g2__Q07.png]]
+
+**Answer:** $1963 \times 4 = 7852$
+[[src_bocconi_finaleint_2009_g2__Q07]]

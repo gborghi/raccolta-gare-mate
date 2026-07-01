@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f1__Q02
 parent: src_obm_2011_n3_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ratio of red painted area to unpainted white area when a painted cube is cut into 27 cubes*
 
@@ -53,3 +56,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Relazione tra superficie dipinta in rosso e superficie bianca non dipinta quando un cubo dipinto è tagliato in 27 cubetti*
+
+> Un cubo di legno, dipinto in rosso, è stato taglio in cubetti $27$ uguali a quelli più piccoli, le cui facce che erano all'interno non sono ancora dipinte (le facce interne rimangono bianche). Qual è il rapporto tra la superficie totale dipinta (rossa) e la superficie non dipinta (bianca)?
+> 
+> (A) 1:2 (B) 1:1 (C) 2:1 (D) 1:3 (E) 2:3
+
+![[src_obm_2011_n3_f1__Q02.png]]
+
+[[src_obm_2011_n3_f1__Q02]]

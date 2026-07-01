@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2012 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2012__Q09
 parent: src_bocconi_squadre_2012
 competition: Gara a Squadre 2012
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare una matrice con cifre 1-9 rispettando regole di riga e colonna*
 
@@ -56,3 +59,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Le due righe centrali possono essere diverse; una soluzione è: riga 21: 1,2,3,4,5,6; riga 25: 2,3,1,9,6,4; riga 28: 3,1,2,8,9,5; riga 39: 4,5,6,7,8,9
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete a matrix with digits 1-9 following line and column rules*
+
+> **You are strongly encouraged to complete this matrix**, entering only the natural numbers between $1$ and $9$ (included), so that the sums of the numbers in each row and each column are exactly those shown to their left and top respectively. The numbers of the $1^a$ and $4^a$ rows must also be in increasing order (left to right).
+> 
+> The following rows and columns are partially filled in: - Riga $21$: $\_ , \_, 3, \_, \_, \_$ - Riga $25$: $2, \_, \_, \_, \_, \_$ - Riga $28$: $\_, \_, \_, \_, \_, \_$ - Riga $39$: $\_, \_, \_, \_, \_, \_$
+> 
+> Columns (sum): $10, 11, 12, 13, 14, 15$. Elements already entered: in line $25$ with $1$: $2$; in line $21$ with $3$: $3$; in line $25$ with $6$: $6$; in line $39$ with $6$: apparently $6$.
+
+![[src_bocconi_squadre_2012__Q09.png]]
+
+**Answer:** Le due righe centrali possono essere diverse; una soluzione è: riga 21: 1,2,3,4,5,6; riga 25: 2,3,1,9,6,4; riga 28: 3,1,2,8,9,5; riga 39: 4,5,6,7,8,9
+[[src_bocconi_squadre_2012__Q09]]

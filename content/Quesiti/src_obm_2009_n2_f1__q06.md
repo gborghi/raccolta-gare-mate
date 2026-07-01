@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q06
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers 15m=20n; certifiably n is a multiple of what*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieri interi positivi 15m=20n; certificabilmente n è un multiple di ciò che*
+
+> I numeri interi positivi $m$ e $n$ soddisfano $15m = 20n$. È quindi possibile affermare con certezza che $n$ è un multiple di:
+> 
+> **(A)** $5$ $\quad$ **(B)** $10$ $\quad$ **(C)** $12$ $\quad$ **(D)** $15$ $\quad$ **(E)** $20$
+
+**Risposta:** E
+[[src_obm_2009_n2_f1__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2003 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2003__Q02
 parent: src_cn_cgmo_2003
 competition: China Girls' Mathematical Olympiad 2003
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find max minus min of seat-position-value sum for 47 students in 6x8 grid*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la somma massima meno min del valore della posizione del sedile per 47 studenti nella griglia 6x8*
+
+> Ci sono 47 studenti in una classe con sedi disposti in 6 righe $\times$ 8 colonne, e il posto nella riga $i$-th e $j$-th colonna è indicato da $(i, j)$. Ora, viene fatto un aggiustamento per i posti degli studenti nel nuovo semestre scolastico. Per uno studente con il sedile originale $(i, j)$, se il suo nuovo sedile è $(m, n)$, diciamo che lo studente è spostato da $[m, n] - [i, j] = m - i + n - j$ e definiamo il valore della posizione dello studente come $|m - i + n - j|$. $S$ indichi la somma dei valori di posizione di tutti gli studenti. Determinare la differenza tra i valori più grandi e più piccoli possibili di $S$.
+
+[[src_cn_cgmo_2003__Q02]]

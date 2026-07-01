@@ -1,6 +1,7 @@
 ---
 title: IX Gara Nazionale Classi Prime 2024 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2024__Q07
 parent: src_garaprime_2024
 competition: IX Gara Nazionale Classi Prime 2024
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo BCQ nel giardino di Santina*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the BCQ triangle in the garden of Santina*
+
+![[src_garaprime_2024__prob7.png]]
+
+> The garden of Santina is in the shape of a rectangle and is divided into 7 zones as shown in the figure. All we know is that the ASD triangle has an area of 47 m2 and the SPQR quadrilateral has an area of 89 m2. What is the area of the BCQ triangle in m2? A) 46 B) 42 C) 40 D) the data are insufficient E) none of the above The correct answer is B Having the same base and the same height, APD and APR triangles have the same area, therefore, by difference (subtracting from both the APS area), ASD and SPR are equivalent; the same can be said of RPQ and BCQ triangles. Since the area of RPQ is 89 −47 = 42 m2, the area of BCQ will also be 42 m2.
+
+**Answer:** B
+[[src_garaprime_2024__Q07]]

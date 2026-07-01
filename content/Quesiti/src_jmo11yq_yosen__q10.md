@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo11yq_yosen__Q10
 parent: src_jmo11yq_yosen
 competition: Japan Mathematical Olympiad 2001 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regions cut by 10 planes in general position*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 176
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Regioni tagliate di 10 piani in posizione generale*
+
+> Nel spazio ci sono $10$ piani distinti. Ogni $2$ dei piani condivide esattamente una linea, ogni $3$ dei piani condivide esattamente un punto e nessun $4$ dei piani ha un punto comune. In quante parti dividono gli aerei $10$ lo spazio?
+
+**Risposta:** 176
+[[src_jmo11yq_yosen__Q10]]

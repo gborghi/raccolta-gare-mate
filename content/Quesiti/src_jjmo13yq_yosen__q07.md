@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo13yq_yosen__Q07
 parent: src_jjmo13yq_yosen
 competition: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -28,6 +29,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve nested-radical equation with four terms for positive x*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\frac{1}{24}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi l'equazione radicale incastonata con quattro termini per x positivo*
+
+> Trova il numero reale positivo $x$ che soddisfa la seguente equazione: $$x + \sqrt{x(x+1)} + \sqrt{x(x+2)} + \sqrt{(x+1)(x+2)} = 2.$$
+
+**Risposta:** \frac{1}{24}
+[[src_jjmo13yq_yosen__Q07]]

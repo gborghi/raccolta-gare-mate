@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q22
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count naturals 1–100 expressible as a^b with a,b natural >1*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta naturale 1100 espressi come a^b con a,b naturale >1*
+
+> Quanti numeri naturali da $1$ a $100$, inclusi, possono essere scritti nella forma $a^b$ con $a, b \in \mathbb{N}$, $a > 1$, $b > 1$?
+> 
+> **(A)** $10$ $\quad$ **(B)** $12$ $\quad$ **(C)** $14$ $\quad$ **(D)** $16$ $\quad$ **(E)** $18$
+
+**Risposta:** C
+[[src_obm_2009_n2_f1__Q22]]

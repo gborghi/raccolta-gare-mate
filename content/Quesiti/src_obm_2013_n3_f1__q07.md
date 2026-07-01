@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q07
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right triangle at A; D midpoint of AC; BD=3DC, AC=2; find hypotenuse*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo retto a A; D punto medio di AC; BD=3DC, AC=2; ritrovare l'ipotenusa*
+
+> $ABC$ sia un triangolo angolato a destra a $A$. $D$ sia il punto medio di $AC$. Sapendo che $BD = 3DC$ e che $AC = 2$, l'ipotenusa del triangolo $ABC$ è:
+> 
+> (A) $\sqrt{7}$ \quad (B) $2\sqrt{2}$ \quad (C) $3$ \quad (D) $\sqrt{10}$ \quad (E) $2\sqrt{3}$
+
+**Risposta:** D
+[[src_obm_2013_n3_f1__Q07]]

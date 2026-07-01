@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Junior 2024 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q12
 parent: src_kangourou_2024_junior_semifinale
 competition: Kangourou Semifinale individuale Junior 2024
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo c con 1<=a<=b<=c e ab+ac+bc=abc*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0006
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum c with 1<=a<=b<=c and ab+ac+bc=abc*
+
+> 12. (Points 5) Three integers a, b, c are such that 1 ≤ a ≤ b ≤ c and ab + ac + bc = abc. How much can c be worth at most? The answer is: 0006. The solution. Since the three numbers are different from 0, dividing the two members by abc the second condition can be written in the form (1/c) + (1/b) + (1/a) = 1. So it's clear that for c to be as big as possible, a and b have to be as small as possible. Neither can be 1 and a = b = 2 is not acceptable, but they are a = 2 and b = 3 or vice versa: in both cases c must be 6.
+
+**Answer:** 0006
+[[src_kangourou_2024_junior_semifinale__Q12]]

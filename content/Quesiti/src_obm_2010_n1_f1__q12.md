@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f1__Q12
 parent: src_obm_2010_n1_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of shaded polygonal region in a 1 cm dot grid*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ecCR1ut_6nQhrDcu2SZpn_dMxpc5Z0wf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di regione poligonale ombrata in una griglia a punti di 1 cm*
+
+> Nella griglia mostrata, i punti vicini (verticalmente o orizzontalmente) sono $1\,\text{cm}$ separati. Qual è la superficie della regione ombrata, in $\text{cm}^2$?
+> 
+> (A) $7$ \quad (B) $8$ \quad (C) $8.5$ \quad (D) $9$ \quad (E) $9.5$
+
+![[src_obm_2010_n1_f1__Q12.png]]
+
+**Risposta:** D
+[[src_obm_2010_n1_f1__Q12]]

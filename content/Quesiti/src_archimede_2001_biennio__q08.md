@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Biennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_biennio__Q08
 parent: src_archimede_2001_biennio
 competition: Giochi di Archimede 2001 - Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo cubi per costruire scatola aperta 10x10x10*
 
@@ -41,3 +44,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15IBgfl7GAsJGqi_MCOVW5U5tuBXGW2je/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum cubes for building an open box 10x10x10*
+
+> An open box is constructed by gluing wooden cubes with a 1 cm beam, the outer dimensions of the finished box are 10 cm < MSK0/> 10 cm < MSK1/> 10 cm. What is the minimum number of cubes needed to build the box?
+>
+> - **(A)** 400
+> - **(B)** 412
+> - **(C)** 424
+> - **(D)** 440
+> - **(E)** 500.
+
+[[src_archimede_2001_biennio__Q08]]

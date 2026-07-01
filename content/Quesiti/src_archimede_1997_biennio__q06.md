@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_biennio__Q06
 parent: src_archimede_1997_biennio
 competition: Giochi di Archimede 1997 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale ombreggiata di un quadrato*
 
@@ -45,3 +48,22 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TBCBxk41PfhfCNwF0me53U4VCY16S0qo/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shadeed percentage of a square*
+
+![[src_archimede_1997_biennio__prob6.png]]
+
+> What's the percentage of the square shaded in the figure?
+>
+> - **(A)** 12,5%
+> - **(B)** 16,66%
+> - **(C)** 18,75%
+> - **(D)** 20%
+> - **(E)** 25%.
+
+**Answer:** C
+[[src_archimede_1997_biennio__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2020 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_printemps__Q11
 parent: src_canimath_2020_printemps
 competition: Coupe Animath Printemps 2020
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest number of colours to colour 2..8 then 2..31 so multiples differ (lycee)*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il numero minimo di colori per il colore 2,8 e poi 2,31 in modo che i moltipli differiscano (licee) *
+
+> 1) Alice desidera colorare i numeri interi tra $2$ e $8$ (inclusivo) usando i colori $k$. Desidera che, se $m$ e $n$ sono due numeri interi tra $2$ e $8$ in modo tale che $m$ sia un multiple di $n$ e $m \ne n$, allora $m$ e $n$ siano di colori diversi. Determinare il numero intero $k$ più piccolo per il quale Alice può colorare i numeri interi $2, 3, \ldots, 8$ utilizzando i colori $k$. 2) Alice desidera colorare i numeri interi tra < MSK15/> e < MSK16/> (inclusi) utilizzando i colori < MSK17/>. Desidera che, se $m$ e $n$ sono due numeri interi tra $2$ e $31$ in modo tale che $m$ sia un multiple di $n$ e $m \ne n$, allora $m$ e $n$ siano di colori diversi. Determinare il numero intero < MSK27/> più piccolo per il quale Alice può colorare i numeri interi < MSK28/> utilizzando i colori < MSK29/>.
+
+[[src_canimath_2020_printemps__Q11]]

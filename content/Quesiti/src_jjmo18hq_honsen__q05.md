@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2020 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo18hq_honsen__Q05
 parent: src_jjmo18hq_honsen
 competition: Japan Junior Mathematical Olympiad 2020 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular 2020-gon with distinct labels; show some n satisfies inequality*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YxnsV6DvcWOTSGo3XeromxqPWTALPArH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Regolare 2020-gon con etichette distinte; mostrare alcuni n soddisfa le disuguaglianze< MSK1/>
+
+> C'è un normale $2020$-gon, e i vertici $1, 2, \ldots, 2020$ sono disposti nel senso orario. Inoltre, separatamente dai numeri delle vertici, un numero intero positivo distinto è assegnato a ciascun vertice (in modo che due vertici non ricevano lo stesso numero intero). Indicare che esiste un numero intero $n$ con $1 \le n \le 2020$ che soddisfa la seguente condizione:
+> 
+> Se i numeri interi assegnati ai vertici $n$, $n+1$, $n+2$ sono rispettivamente $a$, $b$ e $c$, allora $a^2 + b^2 \ge c^2 + n^2 + 3$ è valido.
+> 
+> Qui, vertice $2021$ e vertice $2022$ si riferiscono rispettivamente al vertice $1$ e al vertice $2$.
+
+[[src_jjmo18hq_honsen__Q05]]

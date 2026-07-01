@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2007-08 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2007-08_round2__Q02
 parent: src_bmo_2007-08_round2
 competition: British Mathematical Olympiad 2007-08 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find side ratio of triangle from incentre-circumcentre angles*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dV-8vN7k_u2OvfcJ8JY9hcNmPbHSmE1W/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare il rapporto laterale del triangolo dagli angoli incentro-circumcentro*
+
+> Il triangolo $ABC$ deve avere il centro $I$ e il circoncentro $O$. Supponiamo che $\angle AIO = 90^\circ$ e $\angle CIO = 45^\circ$. Trova il rapporto < MSK5/>.
+
+[[src_bmo_2007-08_round2__Q02]]

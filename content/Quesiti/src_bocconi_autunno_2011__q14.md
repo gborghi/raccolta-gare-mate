@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2011 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2011__Q14
 parent: src_bocconi_autunno_2011
 competition: Giochi d'Autunno 2011
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di quattro cifre che diviso per nove dà il numero senza uno 0*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2025 oppure 4050 oppure 6075
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*A four-digit number divided by nine gives the number without a 0*
+
+> Subtracting the digit 0 from the number 405, you get 45 which is its ninth (which is still divisible by 9). Find another four-digit number (only the number is enough) so that, by subtracting a 0, you get a ninth.
+
+**Answer:** 2025 oppure 4050 oppure 6075
+[[src_bocconi_autunno_2011__Q14]]

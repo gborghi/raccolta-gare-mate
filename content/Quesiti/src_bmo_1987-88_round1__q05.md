@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1987-88 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1987-88_round1__Q05
 parent: src_bmo_1987-88_round1
 competition: British Mathematical Olympiad 1987-88 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove recursively defined d(n,m) are always integers*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11guDhXvMdprlP2g-JECuN_zy0XPTSGKa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove recursively defined d(n,m) sono sempre numeri interi*
+
+> I numeri $d(n, m)$ con $m$, $n$ enti, $0 \le m \le n$, sono definiti da $$d(n, 0) = d(n, n) = 1 \quad \text{for all } n \ge 0$$ e $$m\,d(n, m) = m\,d(n-1, m) + (2n - m)\,d(n-1, m-1)$$ per $0 < m < n$. Provare che tutti i $d(n, m)$ sono numeri interi.
+
+[[src_bmo_1987-88_round1__Q05]]

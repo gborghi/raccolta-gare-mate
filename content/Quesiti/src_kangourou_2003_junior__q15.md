@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior (20 marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior__Q15
 parent: src_kangourou_2003_junior
 competition: Kangourou 2003 Junior (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza aree grigia/nera (4 quadrati)*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Xwl6H49U1GJgqlal-e-LF8SWUIVOQpLv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Differential grey/black areas (4 squares) *
+
+![[src_kangourou_2003_junior__prob15.png]]
+
+> The figure shows four partially overlapping squares with sides of 11 cm, 9 cm, 7 cm and 5 cm. What is the difference between the grey area and the black area? A) 25 cm2 B) 36 cm2 C) 49 cm2 D) 64 cm2 E) 0 cm2
+
+**Answer:** D
+[[src_kangourou_2003_junior__Q15]]

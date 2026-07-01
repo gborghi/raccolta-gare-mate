@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q14
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum cubes stacked so neighbours differ in colour*
 
@@ -54,3 +57,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Massimi cubetti impilati in modo che i vicini differiscano di colore< MSK1/>
+
+> Fabiana ha 55 cubetti della stessa dimensione, cioè 10 rossi, 15 blu e 30 verdi. Lei vuole costruire una torre impilando questi cubetti in modo tale che due cubetti vicini abbiano colori diversi. Quanti cubetti può mettere a piombo?
+>
+> - **(A)** 39
+> - **(B)** 51
+> - **(C)** 52
+> - **(D)** 54
+> - **(E)** 55
+
+**Risposta:** B
+[[src_obm_2015_n1_f1__Q14]]

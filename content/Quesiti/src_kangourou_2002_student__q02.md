@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q02
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultima cifra di 1!+2!+...+2002!*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The final figure is 1! + 2! +... + 2002!
+
+> For every positive integer n, let's put it with n! The product of all positive integers less than or equal to n, each taken only once (e.g. we have 4! = 24). Determine the last digit (decimal representation) of the number 1! + 2! + 3! + … + 2002!
+>  
+> A. 0 B. 1 C. 2 D. 3 E. 5
+
+**Answer:** D
+[[src_kangourou_2002_student__Q02]]

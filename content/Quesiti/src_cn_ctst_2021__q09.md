@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q09
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pairwise coprime a,b,c; counting solutions of ax+by+cz=n approximates quadratic*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Coprimo a,b,c in coppia; il conteggio delle soluzioni di ax+by+cz=n si approssimerà quadratico*
+
+> Date le cifre integri positive $a$, $b$, $c$ che sono coprime in coprime. $f(n)$ rappresenta il numero di soluzioni di numeri interi non negativi $(x, y, z)$ dell'equazione $ax + by + cz = n$. Prova: esistono costanti reali $\alpha$, $\beta$, $\gamma$, in modo tale che per ogni numero reale non negativo $n$, $$|f(n) - (\alpha n^2 + \beta n + \gamma)| < \frac{a + b + c}{12}.$$
+
+[[src_cn_ctst_2021__Q09]]

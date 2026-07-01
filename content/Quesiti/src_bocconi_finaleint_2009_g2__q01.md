@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 2) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g2__Q01
 parent: src_bocconi_finaleint_2009_g2
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo della somma delle cifre della data nel 2009*
 
@@ -48,3 +51,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_LRZ35lngxx9JZL11y14CrDyt5FTBU28/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum sum of the data figures in 2009*
+
+> The number of days. Every day from $1^\circ$ January, Mathilde calculates the sum of all the digits of the date of the day. For example, on $1^\circ$ January 2009 (1-1-2009), Mathilde performed the $1+2+0+0+9=13$ calculation. Between $1^\circ$ January 2009 and 31 December 2009, what is the largest total that Mathilde can achieve?
+
+**Answer:** 31
+[[src_bocconi_finaleint_2009_g2__Q01]]

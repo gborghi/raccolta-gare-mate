@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Triennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_triennio__Q18
 parent: src_archimede_2017_triennio
 competition: Giochi di Archimede 2017 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Polinomio coefficienti +-1, p(2)=11 trovare p(3)*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WbKYlCGmnvn3EnNy8PHpDbjgy_2zTYne/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Polynomial coefficients +-1, p(2)=11 to find p(3) *
+
+> In a polynomial of 5°degree p(x) = ax5 + bx4 + cx3 + dx2 + ex + f, each of the coefficients a, b, c, d, e, f is 1 or −1. Knowing that you have p(2) = 11, what's the value of p(3)?
+>
+> - **(A)** 178
+> - **(B)** 244
+> - **(C)** 126
+> - **(D)** 142
+> - **(E)** 196
+
+**Answer:** D
+[[src_archimede_2017_triennio__Q18]]

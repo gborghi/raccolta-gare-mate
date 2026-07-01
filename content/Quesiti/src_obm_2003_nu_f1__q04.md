@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1 —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_nu_f1__Q04
 parent: src_obm_2003_nu_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível Universitário — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find a>0 such that limit of f(n) - pi^2/6 + a/n exists; compute the limit*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkHYs-oRGCC1ZYJ_cT5E1wAW1AqoZ7ND/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca un>0 tale che esista il limite di f(n) - pi^2/6 + a/n; calcola il limite*
+
+> Sappiamo che $\displaystyle\sum_{k=1}^{\infty} \frac{1}{k^2} = 1 + \frac{1}{2^2} + \frac{1}{3^2} + \cdots = \frac{\pi^2}{6}$. Definire $f(n) = \displaystyle\sum_{k=1}^{n} \frac{1}{k^2} = 1 + \frac{1}{2^2} + \cdots + \frac{1}{n^2}$. Prove che esiste un numero reale $a > 0$ tale che il limite $$\lim_{n \to \infty} \left( f(n) - \frac{\pi^2}{6} + \frac{a}{n} \right)$$ esista. Trova $a$ e questo limite.
+
+[[src_obm_2003_nu_f1__Q04]]

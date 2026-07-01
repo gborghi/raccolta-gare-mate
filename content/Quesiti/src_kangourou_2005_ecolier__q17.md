@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Ecolier (marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_ecolier__Q17
 parent: src_kangourou_2005_ecolier
 competition: Kangourou 2005 - Ecolier (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo viaggi ascensore con portata 150 kg*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum lift travel with a capacity of 150 kg< MSK1/>
+
+> The maximum capacity of an elevator is 150 kilograms. Four friends must use it to reach the tenth floor from the ground floor: three of them weigh 80 pounds each, while the fourth weighs 60 pounds. What is the minimum number of elevator trips to take the four friends to the desired plane? A) 1 B) 2 C) 3 D) 4             E) 7
+
+**Answer:** C
+[[src_kangourou_2005_ecolier__Q17]]

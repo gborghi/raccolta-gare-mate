@@ -1,6 +1,7 @@
 ---
 title: XXV Olimpiade Italiana Cesenatico 2009 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2009__Q06
 parent: src_cesenatico_2009
 competition: XXV Olimpiade Italiana Cesenatico 2009
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *minimo k*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** minimo k in funzione di n
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RKPm3NkroFDeg9oRHAPmvCWj33-Ezm8e/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>minimum k< MSK1/>
+
+> A natural number k is said to be n-squared if, by coloring the boxes of a chessboard 2n × k with n different colors, there are 4 distinct boxes of the same color whose centers are verticals of a rectangle having the sides parallel to the sides of the chessboard. Determine, as a function of n, the smallest natural k that is n-squared.
+
+**Answer:** minimo k in funzione di n
+[[src_cesenatico_2009__Q06]]

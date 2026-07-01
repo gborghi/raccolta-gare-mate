@@ -1,6 +1,7 @@
 ---
 title: IMO 1996 (XXXVII International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1996__Q06
 parent: src_imho_1996
 competition: IMO 1996 (XXXVII International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Equal values in integer sequence with two-step increments*
 
@@ -49,3 +52,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Equal values in integer sequence with two-step increments*
+
+> Let $p$, $q$, $n$ be three positive integers with $p + q < n$. Let $(x_0, x_1, \ldots, x_n)$ be an $(n+1)$-tuple of integers satisfying the following conditions:
+> 
+> (a) $x_0 = x_n = 0$.
+> 
+> (b) For each $i$ with $1 \le i \le n$, either $x_i - x_{i-1} = p$ or $x_i - x_{i-1} = -q$.
+> 
+> Show that there exist indices $i < j$ with $(i, j) \ne (0, n)$, such that $x_i = x_j$.
+
+[[src_imho_1996__Q06]]

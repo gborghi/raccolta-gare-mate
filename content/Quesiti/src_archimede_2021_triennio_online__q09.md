@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Triennio (online) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_triennio_online__Q09
 parent: src_archimede_2021_triennio_online
 competition: Giochi di Archimede 2021 - Gara Triennio (online)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parole infinite su A,B evitando certe terne di lettere*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mirXxT9-Hv1KYgVTqPSQsnkdU7SPLtJP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Infinite words on A,B avoiding certain letters *
+
+> Emanuela writes words using only the letters A and B, respecting these conditions: each word cannot contain any of the sequences of three consecutive letters AAA, BBB, ABA, BBA. How many words of infinite length (i.e., continuing unlimitedly to the right) could Emanuel write?
+>
+> - **(A)** None of them.
+> - **(B)** 4
+> - **(C)** 2
+> - **(D)** 3
+> - **(E)** Endless
+
+**Answer:** A
+[[src_archimede_2021_triennio_online__Q09]]

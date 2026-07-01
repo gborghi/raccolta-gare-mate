@@ -1,6 +1,7 @@
 ---
 title: IMO 2014 (LV International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2014__Q02
 parent: src_imho_2014
 competition: IMO 2014 (LV International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peaceful rook configurations on n×n board with no k×k empty square*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Peaceful rook configurations on n×n board with no k×k empty square*
+
+> Let < MSK0/> be an integer. Consider a $n \times n$ chessboard consisting of $n^2$ unit squares. A configuration of $n$ rooks on this board is called peaceful if every row and every column contains exactly one rook. Find the greatest positive integer $k$ such that, for each peaceful configuration of $n$ rooks, there is a $k \times k$ square which does not contain a rook on any of its $k^2$ unit squares.
+
+[[src_imho_2014__Q02]]

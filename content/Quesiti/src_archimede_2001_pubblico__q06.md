@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_pubblico__Q06
 parent: src_archimede_2001_pubblico
 competition: Archimede 2001 - Gara del Pubblico (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *in quanti modi*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0114
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> in how many ways< MSK1/>
+
+> In order to subscribe to the contest you must pay $40$ Shields to the Free Students' Association Imesi. In the Confederation, you can find banknotes of any value from $1$ to $100$ Shields. How many ways can an Imese pay for a contest subscription using three different bills?
+
+**Answer:** 0114
+[[src_archimede_2001_pubblico__Q06]]

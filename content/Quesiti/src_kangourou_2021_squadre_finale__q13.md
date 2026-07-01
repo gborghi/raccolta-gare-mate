@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2021 Finale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q13
 parent: src_kangourou_2021_squadre_finale
 competition: Kangourou Coppa squadre 2021 Finale
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *F in centesimi (raccolta regalo)*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>F in cents (gift collection) < MSK1/>
+
+> Alice's birthday present is at a summer camp and her friends want to give her a gift: to buy it, the 20 boys each put the same M-euro number and the 10 girls each put the same F-euro number. The average total amount collected exceeds 50% of the M sum paid by each child. How many cents is the quotient of the division M: F ?
+
+[[src_kangourou_2021_squadre_finale__Q13]]

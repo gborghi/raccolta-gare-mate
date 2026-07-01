@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre__Q11
 parent: src_kangourou_2023_ecolier_squadre
 competition: Kangourou Squadre 2023 Ecolier Finale 1
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti previsti dalla nonna senza candeline*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0051
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minutes foreseen by grandmother without candlesticks< MSK1/>
+
+> The candles Licia leaves home to visit her grandmother and bring her her birthday cake. But when she reaches a third of the way, she realizes that she has forgotten the candles. She goes home, picks up the candles and leaves to go to her grandmother's, where she arrives exactly 34 minutes late. If he always walked at the same speed and didn't waste time at home picking up the candles, how many minutes would it take him to get to Grandma's if he hadn't forgotten the candles?
+
+**Answer:** 0051
+[[src_kangourou_2023_ecolier_squadre__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2007 - Gara Biennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_biennio__Q15
 parent: src_archimede_2007_biennio
 competition: Giochi di Archimede 2007 - Gara Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area quadrilatero AECB con quadrato e triangolo equilatero*
 
@@ -39,10 +42,29 @@ tags:
 > - **(B)** ( √ 3 −1)cm2,
 > - **(C)** (2 √ 3 − √ 2)cm2,
 > - **(D)** ( √ 2 + √ 3)cm2,
-> - **(E)** (2 + √ 3)cm2. E B A D C
+> - **(E)** (2 + √ 3)cm2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AECB quadrilateral area with square and equilateral triangle*
+
+![[src_archimede_2007_biennio__prob15.png]]
+
+> In the figure next to ABCD is a square with a diagonal length of 2 cm and AEC is equilateral. How much is the area of the AECB quadrilateral?
+>
+> - **(A)** ( √ 2 √ 3 −2)cm2,
+> - **(B)** ( √ 3 −1)cm2,
+> - **(C)** (2 √ 3 − √ 2)cm2,
+> - **(D)** ( √ 2 + √ 3)cm2,
+> - **(E)** (2 + √ 3)cm2.
+
+**Answer:** B
+[[src_archimede_2007_biennio__Q15]]

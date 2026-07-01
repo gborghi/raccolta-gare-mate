@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Ecolier (gara marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_ecolier__Q16
 parent: src_kangourou_2012_ecolier
 competition: Kangourou 2012 Ecolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Qual e il pezzo bianco del blocco*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>What and the white part of the block< MSK1/>
+
+![[src_kangourou_2012_ecolier__prob16.png]]
+
+> The block you see in the figure is made by attaching a white piece, a gray piece and a black piece. Each of the three pieces is obtained by gluing 4 cubes; all cubes are of the same size. Which of the ones listed below is the white one? (A) B) C) D) E) Questions from N. 17 al N. Twenty-four is worth five points each.
+
+**Answer:** C
+[[src_kangourou_2012_ecolier__Q16]]

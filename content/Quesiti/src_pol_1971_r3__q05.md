@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1971 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1971_r3__Q05
 parent: src_pol_1971_r3
 competition: Olimpiade Matematica Polacca 1971 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest A such that sum of ten successive numbers is at least A*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A più piccola tale che la somma di dieci numeri successivi sia almeno A*
+
+> Trovare il più grande intero $A$ in modo tale che per qualsiasi permutazione dei numeri naturali non superiore a $100$, la somma di circa dieci numeri successivi sia almeno $A$.
+
+[[src_pol_1971_r3__Q05]]

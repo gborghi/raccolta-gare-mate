@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Pre-Ecolier — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_preecolier__Q07
 parent: src_kangourou_2013_preecolier
 competition: Kangourou 2013 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parte ritagliata dalla torta*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykejBpK7Wiwv-x_5BvjdytAue5Y_N6nU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Slice cut from the cake*
+
+![[src_kangourou_2013_preecolier__prob7.png]]
+
+> In the figure to the right you can see a whole cake and what was left after Carlotta cut out a part of it. What's this part? A) B)
+> 	
+> C) D) E)
+
+**Answer:** C
+[[src_kangourou_2013_preecolier__Q07]]

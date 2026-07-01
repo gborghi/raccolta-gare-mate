@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Finale Junior (Mirabilandia) — Quesito J1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_junior_finale__QJ1
 parent: src_kangourou_2011_junior_finale
 competition: Kangourou 2011 Finale Junior (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima differenza tra numeri con somma cifre divisibile per 5*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A8qimI9Qnb556w2mXg3Qay5AZ8S_1rqs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum difference between numbers with sum of digits divisible by 5*
+
+> Imagine a list in which all positive integers appear in increasing order whose sum is divisible by $5$ (the list will begin thus: $5, 14, 19, 23, \ldots$). What is the smallest possible difference between a number and the one before it in this list?
+
+**Answer:** 1
+[[src_kangourou_2011_junior_finale__QJ1]]

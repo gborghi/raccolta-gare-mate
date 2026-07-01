@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q02
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di maschi con coppie pari miste*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of males with mixed pairs*
+
+> To perform a task, the 18 students in a class are divided into pairs and the pairs are numbered from 1 to 9. Couples marked with an equal number are made up of a male and a female, while couples marked with an odd number are made up only of males. How many males are in that class? A) 10 B) 11 C) 12 D) 14 E) 18
+
+**Answer:** D
+[[src_kangourou_2005_junior__Q02]]

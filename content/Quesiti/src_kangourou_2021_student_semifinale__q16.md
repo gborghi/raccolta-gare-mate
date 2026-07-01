@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student semifinale individuale — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q16
 parent: src_kangourou_2021_student_semifinale
 competition: Kangourou 2021 Student semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di n per stanze visitate vicino a 2021*
 
@@ -65,3 +68,34 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0045
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of n for rooms visited near 2021*
+
+![[src_kangourou_2021_student_semifinale__prob16.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=2]
+  \draw[thick] (0,0) -- (3,0) -- (1.5,2.598) -- cycle;
+  \draw[thick] (0.5,0.866) -- (2.5,0.866);
+  \draw[thick] (1.0,1.732) -- (2.0,1.732);
+  \draw[thick] (1,0) -- (1.5,0.866);
+  \draw[thick] (2,0) -- (2.5,0.866);
+  \draw[thick] (0.5,0.866) -- (1.0,1.732);
+  \draw[thick] (1.5,0.866) -- (2.0,1.732);
+  \draw[thick] (1,0) -- (0.5,0.866);
+  \draw[thick] (2,0) -- (1.5,0.866);
+  \draw[thick] (1.5,0.866) -- (1.0,1.732);
+  \draw[thick] (2.5,0.866) -- (2.0,1.732);
+\end{tikzpicture}
+\end{document}
+```
+
+> (7 points) An equilateral triangle on side n is divided into equilateral triangles on side 1 according to the pattern suggested by the figure, in which case n = 3 is represented. Imagine that each small triangle represents a room and that in each of its walls shared with an adjacent room, there is a door. By selecting appropriately the room from which to depart, the maximum number of rooms that can be visited by passing once from each room visited is as close as possible to 2021. How much is n?
+
+**Answer:** 0045
+[[src_kangourou_2021_student_semifinale__Q16]]

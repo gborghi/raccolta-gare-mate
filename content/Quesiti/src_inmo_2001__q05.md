@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2001 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2001__Q05
 parent: src_inmo_2001
 competition: Indian National Mathematical Olympiad 2001
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with D midpoint of BC, angle conditions; prove AOD equilateral*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Van8ZbsC23pGnfRdmefmg28k68xgx-NG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Triangolo con punto medio D di BC, condizioni d'angolo; prova AOD equilaterale < MSK1/>
+
+> Che $ABC$ sia un triangolo e $D$ il punto medio di $BC$. Supponiamo $\angle DAB = \angle DCA = 15^\circ$. Inoltre, se $O$ è il circoncentro di $ADC$, dimostrare che il triangolo $AOD$ è equilaterale.
+
+![[src_inmo_2001__Q05.png]]
+
+[[src_inmo_2001__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2001_squadre__Q23
 parent: src_cesenatico_2001_squadre
 competition: Gara Nazionale a Squadre Cesenatico 2001
@@ -23,6 +24,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo a per cui somma imese coincide con somma ordinaria*
 
@@ -38,3 +41,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0000
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum to which the sum of the months corresponds to the ordinary sum*
+
+> The following table shows the calculation of the average monthly earnings:
+> 
+> Five operations are taught in primary schools. The fifth, which we will indicate with $\circ$ and call sum imes, is defined on fractions as follows:
+> 
+> $$\frac{a}{b} \circ \frac{c}{d} = \frac{ac}{ad + bc}.$$
+> 
+> Calculate the smallest positive integer $a$ for which there are three non-zero integers $b$, $c$ and $d$ such that the sum of the months of $\frac{a}{b}$ and $\frac{c}{d}$ coincides with their ordinary sum. You answer 0 if the sum of the months never matches the normal sum when $a$ is a positive integer.
+
+**Answer:** 0000
+[[src_cesenatico_2001_squadre__Q23]]

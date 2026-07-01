@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1997 — Matematica — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1997__Q01
 parent: src_cgen_1997
 competition: Concours Général des Lycées 1997 — Matematica
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tokens at vertices of a regular 1997-gon carry integers with strictly positive total; can a start vertex let you collect all tokens keeping the running sum positive, and how many such vertices?*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKFVBDr_77MyLEG9kgjZwRVwwc89CZlc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I token in vertici di un normale 1997-gon portano integri con totale strettamente positivo; un vertice di partenza può permetterti di raccogliere tutti i token mantenendo la somma corrente positiva, e quanti vertici?*
+
+> Su ciascun vertice di un poligono regolare con i lati $1997$ è stato posizionato un token. Su ciascuno di questi token è scritto un numero intero, e la somma di questi numeri interi è strettamente positiva. Si sceglie un vertice di partenza e si gira intorno al poligono nella direzione trigonometrica (in senso antiorario), raccogliendo i token uno dopo l'altro, in modo tale che la somma dei numeri interi scritti sui token già raccolti rimanga strettamente positiva durante tutto.
+> 
+> Si può scegliere il vertice di partenza per raccogliere tutti i token? Se sì, quante possibili scelte ci sono?
+
+[[src_cgen_1997__Q01]]

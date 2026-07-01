@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2007 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2007__Q11
 parent: src_bocconi_autunno_2007
 competition: Giochi d'Autunno 2007
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di tre cifre con quadrato, somma e prodotto quadrati*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** uno tra 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 900, 961
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tri-digit number with square, sum and product squared*
+
+> Quebec was founded in 1608 (in 2008 it will be exactly four hundred years). The square of 1608 is $2.585.664$. This number has considerable properties: it is a square; the sum of its digits is a square (36) and also the product of its digits is a square (5.760). Write a three-digit number greater than 200, with the same properties: • the square of an integer; • the sum of its digits is the square of an integer; • also the product of its digits is the square of a positive integer.
+
+**Answer:** uno tra 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 900, 961
+[[src_bocconi_autunno_2007__Q11]]

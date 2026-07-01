@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2019 - 2° livello — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_2livello__Q03
 parent: src_archimede_2019_2livello
 competition: Archimede Gara di Febbraio 2019 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Calzini in buste, minimo buste per tre paia*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Shoes in packages, minimum packages for three pairs< MSK1/>
+
+> In Alice's drawer there are 30 socks of five colors: 6 white, 6 yellow, 6 red, 6 green and 6 blue. The little brother takes 10 black envelopes and inserts in each envelope three socks (taken from the drawer) of three different colors. Now Alice must go to Cesenatico and must have in her suitcase at least three pairs of socks of three different colors (the two socks of each pair must be of the same color). How many envelopes does Alice have to take, at least, to make sure she has all the socks she needs?
+>
+> - **(A)** 2
+> - **(B)** 3
+> - **(C)** 4
+> - **(D)** 5
+> - **(E)** 6
+
+**Answer:** C
+[[src_archimede_2019_2livello__Q03]]

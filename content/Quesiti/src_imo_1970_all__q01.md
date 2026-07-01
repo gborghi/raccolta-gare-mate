@@ -1,6 +1,7 @@
 ---
 title: IMO 1970 (Twelfth International Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1970_all__Q01
 parent: src_imo_1970_all
 competition: IMO 1970 (Twelfth International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Inradius/exradius product relation for split triangle*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Inradius/exradius product relation for split triangle< MSK1/>
+
+> Whether $M$ a point on the $AB$ side of the $\triangle ABC$ triangle. The radii of the circles inscribed in the triangles $AMC$, $BMC$ and $ABC$ are $r_1$, $r_2$ and $r$ respectively. $q_1$, $q_2$ and $q$ shall be the radii of the circles expressed by the same triangles lying at the angle $ACB$. Show that $$\frac{r_1}{q_1} \cdot \frac{r_2}{q_2} = \frac{r}{q}.$$
+
+[[src_imo_1970_all__Q01]]

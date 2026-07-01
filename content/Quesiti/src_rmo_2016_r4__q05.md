@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2016 — Region 4 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2016_r4__Q05
 parent: src_rmo_2016_r4
 competition: Regional Mathematical Olympiad 2016
@@ -31,6 +32,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with altitude and median; incentre of sub-triangle lies on median*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nLwmoR34Kvy_obEKxxqlzF7zGjUJNCHa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con altitudine e media; il centro del subtriangolo si trova sulla media*
+
+> Che $ABC$ sia un triangolo, $AD$ un'altitudine e $AE$ una media. Supponiamo che $B$, $D$, $E$, $C$ si trovino in tale ordine sulla linea $BC$. Supponiamo che l'incentro di $\triangle ADC$ si trovi su $AE$. Trovare, con prova, gli angoli di $\triangle ABC$.
+
+[[src_rmo_2016_r4__Q05]]

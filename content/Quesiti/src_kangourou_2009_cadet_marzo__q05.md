@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q05
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del quadratino nero (suddivisioni)*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Black square area (subdivisions) < MSK1/>
+
+![[src_kangourou_2009_cadet_marzo__prob5.png]]
+
+> The figure shows a square divided into smaller squares. If the largest square has area 1, how much is the area of the black square? A) 1/100 B) 1/300 C) 1/600 D) 1/900 E) 1/1000
+
+**Answer:** D
+[[src_kangourou_2009_cadet_marzo__Q05]]

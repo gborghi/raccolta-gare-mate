@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2016 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2016_automne__Q04
 parent: src_canimath_2016_automne
 competition: Coupe Animath Automne 2016
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two externally tangent circles; common tangent meets circles; show T,X,Z collinear*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi tangenti esternamente; tangente comune incontra cerchi; mostrare T,X,Z collineare*
+
+> Due cerchi $C_1$ e $C_2$ sono tangenti esternamente in un punto $X$. Un tangente comune a entrambi i cerchi incontra $C_1$ a $Y$ e $C_2$ a $Z$ (con $Y \neq Z$). Il $T$ deve essere un punto tale che $[YT]$ abbia un diametro di $C_2$. Indicare che < MSK11/>, < MSK12/> e < MSK13/> sono collineari.
+
+[[src_canimath_2016_automne__Q04]]

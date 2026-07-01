@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q15
 parent: src_kangourou_2015_marzo_ecolier
 competition: Kangourou 2015 gara 19 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *messaggi totali*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total number of messages.
+
+![[src_kangourou_2015_marzo_ecolier__prob15.png]]
+
+> The figure shows you five chickens, each of which has some black spots on its back. Two cocksuckers are friends if and only if the numbers of their blackheads differ from one another. Today is the feast of the chickens: each sends a message of greetings to each of her friends. How many total messages did the cocksuckers send today? A) 2
+> 	
+> B) 4
+> 	
+> C) 6
+> 	
+> D) 8
+> 	
+> E) 9
+
+**Answer:** C
+[[src_kangourou_2015_marzo_ecolier__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f1__Q13
 parent: src_obm_2011_n3_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum number of banknotes exchanged so three girls end with equal amounts of money*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wKT1OQ_3Z_dmtHi6Um2IfjJw6bFw4EP4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Minimum di banconote scambiate in modo che tre ragazze finiscano con quantità uguali di denaro < MSK1/>
+
+> Esmeralda ha banconote $11$ di due reais, Rosa $7$ di cinque reais e Nelly $3$ di dieci reais. Qual è il minor numero possibile di banconote che le tre ragazze devono scambiare tra loro in modo che ognuna finisca con la stessa quantità di denaro?
+> 
+> (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
+
+[[src_obm_2011_n3_f1__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre finale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q06
 parent: src_kangourou_2012_squadre_finale
 competition: Kangourou 2012 squadre finale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero cubetti del cubo (1/8 rossi, 1/4 bianchi)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 512
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of cube cubes (1/8 red, 1/4 white) *
+
+> Cube and cubes A cube is less than a meter high and is obtained by approaching more than 300 cubes one-tenth of a metre each side. One-eighth of these are red, a quarter are white and the rest are green. How many cubes is the cube made of?
+
+**Answer:** 512
+[[src_kangourou_2012_squadre_finale__Q06]]

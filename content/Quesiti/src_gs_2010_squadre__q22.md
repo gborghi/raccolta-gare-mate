@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2010 - Gara a squadre — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2010_squadre__Q22
 parent: src_gs_2010_squadre
 competition: Coppa Fermat 2010 - Gara a squadre
@@ -28,6 +29,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Operazione stella come numero di suriezioni*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Star operation as the number of surreations< MSK1/>
+
+> The rules of the motel, I** (points 60)
+> 
+> At the entrance to the motel, Twiggy found the following rules:
+> 
+> He understands that they allow the $n \mathbin{?} m$ writing value to be calculated for each pair of positive or zero integers. Waiting for Elwood, Twiggy calculates what's worth. What number do you get?
+
+[[src_gs_2010_squadre__Q22]]

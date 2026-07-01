@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo18yq_yosen__Q08
 parent: src_jjmo18yq_yosen
 competition: Japan Junior Mathematical Olympiad 2020 — Yosen (Preliminary)
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *All positive integer triples (l,m,n) satisfying two simultaneous equations involving 2020*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(16,16,42),\;(24,24,38),\;(2,42,44)$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1C3bZEU306sDXBOhl5yUmhr5czwWvEqXV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tutti i tripli numeri interi positivi (l,m,n) che soddisfano due equazioni simultanee che coinvolgono il 2020*
+
+> Trovare tutti i tripli di numeri interi positivi $(l, m, n)$ con $1 \le m \le n$ soddisfacente $$l^2 + mn = m^2 + ln \quad \text{and} \quad n^2 + lm = 2020.$$
+
+**Risposta:** (16,16,42),\;(24,24,38),\;(2,42,44)
+[[src_jjmo18yq_yosen__Q08]]

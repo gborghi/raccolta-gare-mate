@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Ecolier (marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q11
 parent: src_kangourou_2006_ecolier_marzo
 competition: Kangourou 2006 Ecolier (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Carte per un castello di 4 livelli*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1pKY5ouqmagp75LpVMmZ7-wegTuPPO_ZD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Map for a four-tiered castle*
+
+![[src_kangourou_2006_ecolier_marzo__prob11.png]]
+
+> Stefania is building card castles. In the figure you can observe the castles of one, two and three levels that he has built so far. How many cards will Stefania have to use to build an entire four-tiered castle? A) 11          B) 24          C) 25          D) 26          E) 27
+
+**Answer:** D
+[[src_kangourou_2006_ecolier_marzo__Q11]]

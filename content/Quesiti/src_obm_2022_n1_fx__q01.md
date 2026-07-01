@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2022 — Nível 1 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2022_n1_fx__Q01
 parent: src_obm_2022_n1_fx
 competition: Olimpíada Brasileira de Matemática 2022 — Nível 1 — Fase x
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pyramid of same-size cubes: count base, painted faces*
 
@@ -54,3 +57,21 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MFIuQqmYfoyQM2SB3u2n2Xe18_dDyh5n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Piramida di cubetti della stessa dimensione: base di conteggio, facce dipinte*
+
+> Janaína costruì una figura a forma di piramide, come mostrato nel disegno di seguito. La figura è stata realizzata col colgendo cubetti della stessa dimensione. C'è 1 cubo nel primo (superiore) strato, 3 cubes nel secondo e 6 cubes nel terzo.
+> 
+> (a) Quanti cubetti ha usato nella base (quarto strato)? Ha dipinto tutti i volti della figura, comprese le facce laterali e il fondo, perché non appaiono nel disegno.
+> 
+> (b) Quanti cubetti avranno esattamente tre facce dipinte?
+> 
+> (c) Quanti cubetti avranno esattamente una faccia dipinta?
+
+![[src_obm_2022_n1_fx__Q01.png]]
+
+[[src_obm_2022_n1_fx__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Student - Finale nazionale Cervia — Quesito S3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_student_finale__QS3
 parent: src_kangourou_2017_student_finale
 competition: Kangourou 2017 Student - Finale nazionale Cervia
@@ -27,6 +28,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppia diametrale e cerchio minimo di un insieme*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** No; Si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ec2T3A705_oySNvj02ppJ76veXlI5h2r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pair diameter and minimum circle of a set*
+
+> Whether $S$ is an arbitrary finite set of plan points (at least $2$): it is known that there exists, and is unique, the circle $C$ of minimum radius containing $S$ (the demonstration of this fact is outside the context of this competition, so it is not required). A $\{a, b\}$ pair of $S$ points is said to be **diameter** if, however, two $S$ points are chosen, their distance does not exceed the distance between $a$ and $b$. Establish whether it is true (by reasoning the answer) that: - each diameter pair of $S$ must necessarily be on the circumference that delimits $C$; - there are always circles containing $S$, but not $C$.
+
+**Answer:** No; Si
+[[src_kangourou_2017_student_finale__QS3]]

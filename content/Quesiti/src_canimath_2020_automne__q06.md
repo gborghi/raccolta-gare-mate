@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2020 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_automne__Q06
 parent: src_canimath_2020_automne
 competition: Coupe Animath Automne 2020
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show 12 pebbles on an 8x8 board can be covered by coloring 4 rows and 4 columns red*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra 12 ciottoli su una lavagna da 8x8 che possono essere coperti colorando 4 righe e 4 colonne in rosso*
+
+> Mettiamo $12$ ciottoli su una scacchiera con righe $8$ e colonne $8$. Ciascuna pietra è stata collocata su uno dei quadrati $64$ della scacchiera (con al massimo una pietra per quadrato). Mostrare che è possibile colorare in rosso le righe $4$ e le colonne $4$ in modo tale che ciascuno dei ciottoli $12$ sia su un quadrato rosso.
+
+[[src_canimath_2020_automne__Q06]]

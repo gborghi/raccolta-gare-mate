@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_ecolier__Q07
 parent: src_kangourou_2002_ecolier
 competition: Kangourou 2002 - Ecolier (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Membri del club quando ragazzi=ragazze*
 
@@ -45,3 +48,17 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Members of the club when boys = girls
+
+> Twelve boys and eight girls are members of the Kangourou Club in their town. Every week, two new girls and a new boy are accepted into the Club. How many members of the club on the day when the number of boys is equal to the number of girls?
+>  
+>  
+> A. 22 B. 24 C. 28 D. 32 E. 36
+
+**Answer:** D
+[[src_kangourou_2002_ecolier__Q07]]

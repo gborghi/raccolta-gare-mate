@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2002 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo12mq_honsen__Q01
 parent: src_jmo12mq_honsen
 competition: Japan Mathematical Olympiad 2002 — Honsen (Final)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Product MP*MQ constant for inscribed tangent circle*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YrNWkJmp2GKUzDWPIYjtBxfRgAmfdLOX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Produzione MP*MQ costante per il cerchio tangente inciso*
+
+> La circonferenza di un cerchio $C_0$ comprende tre punti distinti $A$, $M$, $B$ e $AM = MB$. Per l'arco $AB$ situato sul lato opposto della linea $AB$ da $M$, prendere un punto $P$. Il $C_1$ è il cerchio che è tangente internamente a $C_0$ a $P$ e tangente all'accordo $AB$, e il $Q$ è il punto di tangenza di $C_1$ con l'accordo $AB$. Indicare che, indipendentemente dalla scelta del punto $P$, il prodotto $MP \cdot MQ$ di $MP$ e $MQ$ è costante. (Qui, per due punti $X$, $Y$, la lunghezza del segmento $XY$ è indicata da $XY$.)
+
+[[src_jmo12mq_honsen__Q01]]

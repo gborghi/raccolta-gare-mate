@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q14
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Più grande naturale dispari n tale che n+4 sia primo*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** $n = 1$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most natural odd n such that n+4 is prime*
+
+> Find the largest odd natural number $n$ for which $n^4 + 4$ is a prime number.
+
+**Answer:** $n = 1$
+[[src_bocconi_squadre_2013__Q14]]

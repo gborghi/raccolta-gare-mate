@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 2) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g2__Q18
 parent: src_bocconi_finaleint_2007_g2
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero massimo di cavallette su un albero del triangolo rettangolo*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 188
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of seeds on a tree of the rectangular triangle*
+
+> A cloud of a thousand sparrows fell on the fruit of Pythagoras. All the trunks were divided into three regularly spaced trees, located on the vertices and sides of a large rectangular triangle. You take the trees and the stumps as dots. Each side of a great right triangle has the same number of squares. In each tree, there's at least one bark.
+> 
+> In a tree, how many stems are there, at most?
+
+**Answer:** 188
+[[src_bocconi_finaleint_2007_g2__Q18]]

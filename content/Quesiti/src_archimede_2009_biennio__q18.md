@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Biennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_biennio__Q18
 parent: src_archimede_2009_biennio
 competition: Giochi di Archimede 2009 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio password con vocali maiuscole e minuscole*
 
@@ -49,3 +52,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Password counting with capital and diminutive vowels*
+
+> Carla forgot the power password of her new computer! However, it should be remembered that it is a sequence of 4 vowels, not necessarily distinct, of which two are capital letters and two are diminutive. How many different passwords does Carla have to test, at most, to turn on the computer?
+>
+> - **(A)** 3 · 54,
+> - **(B)** 55,
+> - **(C)** 6 · 54,
+> - **(D)** 56,
+> - **(E)** 3 · 56.
+
+**Answer:** C
+[[src_archimede_2009_biennio__Q18]]

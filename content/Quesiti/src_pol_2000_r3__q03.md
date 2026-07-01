@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2000 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2000_r3__Q03
 parent: src_pol_2000_r3
 competition: Olimpiade Matematica Polacca 2000 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A sequence built from greatest proper divisors is bounded*
 
@@ -47,3 +50,19 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nDWoQAPfWDLllzYEGHcK_5w05h4brUh9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Una sequenza costruita a partire dai più grandi divisori propri è limitata*
+
+> La sequenza $(p_n)$ dei numeri naturali soddisfa:
+> 
+> (i) $p_1$ e $p_2$ sono numeri primi;
+> 
+> (ii) Per $n \geq 3$ il numero $p_n$ è il più grande divisore proprio di $p_{n-1} + p_{n-2} + 2000$.
+> 
+> Provare che la sequenza $(p_n)$ è limitata.
+
+[[src_pol_2000_r3__Q03]]

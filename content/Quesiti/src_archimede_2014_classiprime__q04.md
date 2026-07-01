@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2014 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_classiprime__Q04
 parent: src_archimede_2014_classiprime
 competition: Gara Nazionale Classi Prime 2014
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo banane per pirata divisibili tra pirati e sirene (mcm)*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum bananas for pirates divided between pirates and mermaids (mcm) *
+
+> The Island of the Sirens has defeated the Island of the Pirates and, as war booty, is entitled to a certain number of bananas. The Law of Piracy stipulates that bananas are distributed among mermaids so that each one receives the same number of bananas. It also stipulates that pirates put the loot together by each delivering the same amount of bananas. Knowing that the pirates are 432 and the mermaids are 600, what is the minimum number of bananas that every pirate must deliver so that the mermaids can distribute them in equal parts. A 25 B 50 C 10 D 600 E 75 F None of the other answers are correct
+
+**Answer:** A
+[[src_archimede_2014_classiprime__Q04]]

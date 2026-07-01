@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2022-23 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2022-23_round2__Q03
 parent: src_bmo_2022-23_round2
 competition: British Mathematical Olympiad 2022-23 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ideal n-lists where running averages are integers*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e2oUeqTGmt_ulqgfDb7FbG8t9EeuhUdM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare n-liste ideali in cui le medie correnti sono interi*
+
+> Per un intero $n \ge 3$, diciamo che $A = (a_1, a_2, \ldots, a_n)$ è un $n$-lista se ogni $a_k$ è un intero nell'intervallo $1 \le a_k \le n$. Per ciascuna < MSK6/> < MSK0/>. Diciamo che una lista $n$ $A$ è ideale se $M_k$ è un intero per ogni $k = 1, 2, \ldots, n-1$.
+> 
+> Trova il numero delle liste $n$ ideali.
+
+[[src_bmo_2022-23_round2__Q03]]

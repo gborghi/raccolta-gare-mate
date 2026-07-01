@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier__Q05
 parent: src_kangourou_2023_ecolier
 competition: Kangourou 2023 Ecolier — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *minuti con esattamente due accese*
 
@@ -66,3 +69,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bDY_Y5qtxjaNx_dh5X8llzlndfmVtNwJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*minutes with exactly two powerings*
+
+![[src_kangourou_2023_ecolier__prob5.png]]
+
+> In the theater, a lighting technician turns on and off colorful lights following this plan: For how many minutes exactly are there two lights on at the same time? A) 2
+> 	
+> B) 6
+> 	
+> C) 8
+> 	
+> D) 9
+> 	
+> E) 10 1 2 3 4 5 6 7 8 9 10 11 12 1 5 minutes Green Red Blue
+>
+
+**Answer:** C
+[[src_kangourou_2023_ecolier__Q05]]

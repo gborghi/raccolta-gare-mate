@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2004-05 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2004-05_round2__Q03
 parent: src_bmo_2004-05_round2
 competition: British Mathematical Olympiad 2004-05 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality for positive reals a, b with a+b=1*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nOHgcmzLtozvIAtob1EcIs-fwbCPVbVi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza dei valori reali positivi a, b con a+b=1*
+
+> $a, b$ siano numeri reali positivi con $a + b = 1$. Provare che < MSK0/>
+
+[[src_bmo_2004-05_round2__Q03]]

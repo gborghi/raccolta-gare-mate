@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2008 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2008__Q05
 parent: src_rmo_2008
 competition: Regional Mathematical Olympiad 2008
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Harmonic progression of strictly increasing positive integers with n=20, b divides c*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16mQy3REp8_l6rFZ-_EyE4gi26-48xpHT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Progressione armonica di numeri interi positivi in aumento rigoroso con n=20, b divide c*
+
+> Si dice che tre numeri reali non zero $a$, $b$, $c$ siano in progressione armonica se $\frac{1}{a} + \frac{1}{c} = \frac{2}{b}$. Trovare tutte le progressioni armoniche a tre termini $a$, $b$, $c$ di enti interi positivi in aumento rigoroso in cui $a = 20$ e $b$ dividono $c$.
+
+[[src_rmo_2008__Q05]]

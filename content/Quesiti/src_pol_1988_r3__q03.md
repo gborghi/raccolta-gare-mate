@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1988 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1988_r3__Q03
 parent: src_pol_1988_r3
 competition: Olimpiade Matematica Polacca 1988 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Polygon with center of symmetry contains parallelogram midpoints on boundary*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Wbv_RAAU8fv1-DKP1_7EzhBkm88ItD3h/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il poligono con centro di simmetria contiene punti di mezzo paralleliogrammi sul confine*
+
+> Un poligono $W$ ha un centro di simmetria $S$. Dimostrare che esiste un parallelo $V$ contenente $W$ in modo tale che il punto medio di ciascun lato di $V$ sia situato sul confine di $W$.
+
+[[src_pol_1988_r3__Q03]]

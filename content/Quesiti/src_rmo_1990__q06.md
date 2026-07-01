@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1990 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1990__Q06
 parent: src_rmo_1990
 competition: Regional Mathematical Olympiad 1990
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *50-digit number divisible by 13; find 26th digit given all others are 1*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ogcf4pFWupc25G2ZRadOfWoHaUpTy0zm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*numero a 50 cifre divisibile per 13; trovare la 26a cifra dato che tutti gli altri sono 1*
+
+> $N$ è un numero di 50 cifre (scala decimale). Tutte le cifre tranne la 26a cifre (da sinistra) sono 1. Se $N$ è divisibile per 13, trova la 26a cifra.
+
+[[src_rmo_1990__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f1__Q17
 parent: src_obm_2007_n1_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Guessing game: number 10-99, told tens digit; max attempts needed*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di indovinamento: numero 10-99, detto decine di cifre; massimo tentativi necessari*
+
+> Lina e Lana giocano in questo modo: il primo pensa a un numero da $10$ a $99$ e dice solo il numero delle decine del numero. Poi il secondo cerca di indovinare quel numero. Qual è il maggior numero di tentativi che il secondo potrebbe dover fare?
+> 
+> (A) 7 \quad (B) 8 \quad (C) 9 \quad (D) 10 \quad (E) 11
+
+[[src_obm_2007_n1_f1__Q17]]

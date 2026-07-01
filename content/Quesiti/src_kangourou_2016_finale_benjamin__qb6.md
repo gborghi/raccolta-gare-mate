@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 finale nazionale Benjamin — Quesito B6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_finale_benjamin__QB6
 parent: src_kangourou_2016_finale_benjamin
 competition: Kangourou 2016 finale nazionale Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *gelato 2 kang con 2 euro*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** si, 40
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1hKl3-m8efCrVdgDmp4AKfiZmOp4Irx2d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> frozen 2 kang with 2 euro < MSK1/>
+
+> The currency of Kangland is the kang. In Kangcity, the eurokang exchange rate works like this: you get $1$ kang by paying $1{,}20$ euro, you get $1$ euro by paying $1$ kang and proportionally if you exchange lower-value coins. In both currencies, the minimum value coin is that of a cent; any amount of money can be changed and the result of the change, if not expressed by an integer of cents, is rounded to a cent for excess. I'm in Kangcity and I only have euros. Is there a (readable) way to buy a $2$ kang ice cream with only $2$ euros? If yes, what is the minimum number of exchanges that I can make?
+
+**Answer:** si, 40
+[[src_kangourou_2016_finale_benjamin__QB6]]

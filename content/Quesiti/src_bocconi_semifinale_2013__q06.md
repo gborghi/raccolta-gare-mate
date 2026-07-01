@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2013 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2013__Q06
 parent: src_bocconi_semifinale_2013
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2013
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Mosse minime per passare da AILATI a ITALIA*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 22
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum moves to move from AILATI to ITALY< MSK1/>
+
+> How many moves, at least, do you go from left to right?
+> 
+> Each move consists of moving a white dot to an empty (immediately) adjacent grey box.
+> 
+> The configuration on the left shows the letters A-I-L-A-T-I and the one on the right shows I-T-A-L-I-A, each in a box of a horizontal grid.
+
+![[src_bocconi_semifinale_2013__Q06.png]]
+
+**Answer:** 22
+[[src_bocconi_semifinale_2013__Q06]]

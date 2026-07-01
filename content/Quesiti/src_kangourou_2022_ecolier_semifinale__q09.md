@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier semifinale individuale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_semifinale__Q09
 parent: src_kangourou_2022_ecolier_semifinale
 competition: Kangourou 2022 Ecolier semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle unita del prodotto finale 2021-2029*
 
@@ -60,3 +63,26 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13RxwjTHouyWXD4CNZw1-Jkh-J6V8-5n5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Unit number of final product 2021-2029*
+
+> (6 points) Sandra wrote on a sheet each of the whole numbers from 2021 to 2029. Samuel, who has a calculator at his disposal, chooses two at random, eliminates them, and replaces them with their product. It proceeds on the eight numbers remaining the same by getting seven and so on, until there is only one number left on the sheet. What is the unit number of this number? A) 0
+>  
+> B) 2 C) 4
+>  
+> D) 6 E) 8
+>   
+>  
+>  
+>  
+>  
+> 1 2 3 4 5
+> 
+> Open-ended questions
+
+**Answer:** A
+[[src_kangourou_2022_ecolier_semifinale__Q09]]

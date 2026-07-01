@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2004 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo14yq_yosen__Q05
 parent: src_jmo14yq_yosen
 competition: Japan Mathematical Olympiad 2004 — Yosen (Preliminary)
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Strictly increasing sequence of 2004 positive integers; no product of two terms equals another; minimize last term.*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1m5DMmF_N4GVJe6qXTnt56gy0SeWj6p63/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Strictamente crescente sequenza di interi positivi del 2004; nessun prodotto di due termini è uguale a un altro; ridurre al minimo l'ultimo termine.*
+
+> $a_1, a_2, \ldots, a_{2004}$ siano numeri interi positivi che soddisfano le seguenti condizioni: \begin{itemize} \item $a_1 < a_2 < \cdots < a_{2004}$. \item Per tutti gli integri positivi separati in coppia $i, j, k$ ciascuno al massimo $2004$, abbiamo sempre $a_i \times a_j \neq a_k$. \end{itemize} Trova il valore minimo possibile di $a_{2004}$.
+
+[[src_jmo14yq_yosen__Q05]]

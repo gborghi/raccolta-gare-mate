@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Biennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_biennio__Q11
 parent: src_archimede_2017_biennio
 competition: Giochi di Archimede 2017 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo AEH con punti di trisezione/quadrisezione*
 
@@ -46,3 +49,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/112mFupkYpsCYPbpzDQ0mOl_VW0wTFJK_/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1WbKYlCGmnvn3EnNy8PHpDbjgy_2zTYne/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of AEH triangle with trisection/quadrisection points*
+
+> The area of the triangle ABC is 60 m2. The internal points on the AB side are D, E such that AD = DE = EB and are F, G, H the internal points in AC such that AF = FG = GH = HC. What is the area of the AEH triangle?
+>
+> - **(A)** 20 m2
+> - **(B)** 45 m2
+> - **(C)** 30 m2
+> - **(D)** 40 m2
+> - **(E)** 24 m2
+
+**Answer:** C
+[[src_archimede_2017_biennio__Q11]]

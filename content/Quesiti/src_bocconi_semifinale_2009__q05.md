@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2009 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2009__Q05
 parent: src_bocconi_semifinale_2009
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2009
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Contare rombi piccoli o grandi nel disegno*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** Nel disegno si contano 21 rombi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Count small or large hairs in the drawing*
+
+> What (small or large) bumps can be counted in the drawing?
+
+![[src_bocconi_semifinale_2009__Q05.png]]
+
+**Answer:** Nel disegno si contano 21 rombi
+[[src_bocconi_semifinale_2009__Q05]]

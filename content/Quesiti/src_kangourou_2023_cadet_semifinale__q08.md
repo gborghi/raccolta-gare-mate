@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Semifinale individuale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet_semifinale__Q08
 parent: src_kangourou_2023_cadet_semifinale
 competition: Kangourou 2023 Cadet — Semifinale individuale
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *somma minima*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1M9sXIkUDY4rP1rr4DHPF0VSPHt_-LbxS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>minimum sum< MSK1/>
+
+> (Points 5) Three whole numbers are given each of three digits (i.e. the first digit of each cannot be 0) which we denote with TAP, BAT and CAD where each letter represents a number, different letters of different digits. What's the smallest possible value for the sum of these three numbers? A) 600           B) 610           C) 615          D) 730           E) 732
+
+[[src_kangourou_2023_cadet_semifinale__Q08]]

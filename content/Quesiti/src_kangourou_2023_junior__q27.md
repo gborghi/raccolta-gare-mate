@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q27
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri 'equi' n - somma cifre = numero a 3 cifre uguali*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers 'equi' n - sum of digits = number of 3 digits equal to *
+
+> A positive integer n of three digits is called equo if, subtracting from n the sum of its digits, you get a number of three digits equal to each other. How many numbers are even? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 20
+> 	
+> E) 30
+
+**Answer:** D
+[[src_kangourou_2023_junior__Q27]]

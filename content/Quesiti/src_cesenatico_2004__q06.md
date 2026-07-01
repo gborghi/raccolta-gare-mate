@@ -1,6 +1,7 @@
 ---
 title: XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004__Q06
 parent: src_cesenatico_2004
 competition: XX Olimpiade Italiana Cesenatico 2004 - individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *dimostrare xyz = x+y+z+2*
 
@@ -94,3 +97,42 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** identita dimostrata
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SUJ83wt6O3HsePZYy6Y39_rKksLv5Bk-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*to show that xyz = x+y+z+2*
+
+![[src_cesenatico_2004__prob6.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.9]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (6,0);
+  \coordinate (C) at (2.2,4.2);
+  \coordinate (P) at (2.6,1.5);
+  \coordinate (Ap) at (3.942,2.274);
+  \coordinate (Bp) at (1.126,2.15);
+  \coordinate (Cp) at (2.822,0);
+  \draw (A)--(B)--(C)--cycle;
+  \draw (A)--(Ap);
+  \draw (B)--(Bp);
+  \draw (C)--(Cp);
+  \foreach \pt in {A,B,C,P,Ap,Bp,Cp}{\fill (\pt) circle (1.4pt);}
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above] at (C) {$C$};
+  \node[above right] at (P) {$P$};
+  \node[right] at (Ap) {$A'$};
+  \node[left] at (Bp) {$B'$};
+  \node[below] at (Cp) {$C'$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Let P be an interior point in an ABC triangle. The AP, BP and CP lines intersect the sides of ABC in A′, B′ and C′ respectively. By placing x = AP PA′, y = BP PB′, z = CP PC′, prove that xyz = x + y + z + 2.         A B C P C′ A′ E B′ D G F
+
+**Answer:** identita dimostrata
+[[src_cesenatico_2004__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2000 — Round 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2000_r1__Q08
 parent: src_pol_2000_r1
 competition: Olimpiade Matematica Polacca 2000 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functions c(n,k) with c(n,0)=c(n,n)=1 and c(n+1,k)=2^k c(n,k)+c(n,k-1); prove c(n,k)=c(n,n-k).*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17HmZVCi_i-CS0_tWLtdYXjFkqYi3fXU0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Funzioni c(n,k) con c(n,0)=c(n) =1 e c(n+1,k)=2^k c(n,k)+c(n,k-1); dimostrare c(n,k)=c(n,n-k).*
+
+> Le funzioni $c(n, k)$ sono definite per gli integri $n \ge k \ge 0$ da $c(n, 0) = c(n, n) = 1$ per tutti $n \ge 0$ e $$c(n+1, k) = 2^k c(n, k) + c(n, k-1) \quad \text{for} \quad n \ge k \ge 1.$$ Prove che $c(n, k) = c(n, n-k)$ per tutti $n$ e $k$.
+
+[[src_pol_2000_r1__Q08]]

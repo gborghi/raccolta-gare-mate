@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q19
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count non-empty subsets C of A∪B with equal intersection sizes*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i sottogruppi non vuoti C di A∪B con dimensioni di intersezione uguali*
+
+> Le serie $A$ e $B$ siano dissociate da $n(A) = 5$ e $n(B) = 7$, dove $n(X)$ indica il numero di elementi di $X$. Quanti sottoinsiemi non vuoti $C$ di $A \cup B$ sono tali da $n(A \cap C) = n(B \cap C)$?
+> 
+> (A) 790 \quad (B) 791 \quad (C) 792 \quad (D) 793 \quad (E) 794
+
+**Risposta:** C
+[[src_obm_2015_n3_f1__Q19]]

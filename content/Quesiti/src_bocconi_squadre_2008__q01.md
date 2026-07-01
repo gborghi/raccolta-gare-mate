@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q01
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età di 5 figli con somma uguale al prodotto*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** Le età dei figli sono: 1; 1; 1; 2; 5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Age of 5 children with sum equal to product< MSK1/>
+
+> There are 5 children in our family (not all twins). All of them were born on 1 January 2008 and, as of 1 January 2008, the sum of their ages is equal to their product. How old are the five children in our family?
+
+**Answer:** Le età dei figli sono: 1; 1; 1; 2; 5
+[[src_bocconi_squadre_2008__Q01]]

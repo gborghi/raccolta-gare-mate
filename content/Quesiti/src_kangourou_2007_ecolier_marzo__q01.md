@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Ecolier (marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q01
 parent: src_kangourou_2007_ecolier_marzo
 competition: Kangourou 2007 Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali terne di numeri annotabili da casa a scuola*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What kind of number tags can be marked from home to school*
+
+![[src_kangourou_2007_ecolier_marzo__prob1.png]]
+
+> Look at the figure. Zoe follows one of the paths from home to school and never returns. When he passes on a number, he notes it. Which of those suggestions did she write down when she got to school? A) 1, 2 e 4 B) 2, 3 e 4 C) 2, 3 e 5 D) 1, 5 e 6 E) 1, 2 e 5
+
+**Answer:** C
+[[src_kangourou_2007_ecolier_marzo__Q01]]

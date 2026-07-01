@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2016 Finale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_f__Q11
 parent: src_kangourou_2016_squadre_f
 competition: Kangourou Coppa Squadre 2016 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *2016 somma di potenze di 2 consecutive*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 45
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Uih0VpIOW40GBf8mxXkEFst7nixVBxJu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*2016 sum of powers of 2 consecutive times*
+
+> 2016 and powers of 2 2016 is expressed as the sum of powers of 2 with exponents that are consecutive positive integers. How much is the sum of these exponents?
+
+**Answer:** 45
+[[src_kangourou_2016_squadre_f__Q11]]

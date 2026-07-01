@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 1) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g1__Q01
 parent: src_bocconi_finaleint_2009_g1
 competition: >-
@@ -39,6 +40,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero massimo di tetramini a L collocabili senza sovrapposizioni in una scacchiera 6x5.*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of L-tetramins that can be placed without overlapping in a 6x5 chessboard. *
+
+> 1 - QUADRAMINI (coefficient 1) Mathias has a rectangular chessboard of < MSK0/> boxes and a set of identical pieces with the shape represented in gray in the figure (a tetrammaton in L). How many pieces can Mathias put inside the chessboard without overlapping? Note: You can rotate the pieces.
+
+![[src_bocconi_finaleint_2009_g1__Q01.png]]
+
+**Answer:** 6
+[[src_bocconi_finaleint_2009_g1__Q01]]

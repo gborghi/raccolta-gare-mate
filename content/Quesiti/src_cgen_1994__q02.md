@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1994 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1994__Q02
 parent: src_cgen_1994
 competition: Concours Général des Lycées 1994 — Matematica
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximize volume of cylinder between hemisphere circle and its projection*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZtRYZdOScCmfRDnIJr-ARTq9f7f_Xu1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximizzare il volume del cilindro tra il cerchio dell'emisfero e la sua proiezione*
+
+> Che < MSK0/> sia un emisfero e < MSK1/> il piano che ne contiene il cerchio base. Un piano variabile $Q$, parallelo a un piano fisso perpendicolare a $P$, interseca l'emisfero lungo un cerchio $C$. Indichiamo con $C'$ la proiezione ortogonale di $C$ su $P$.
+> 
+> Come si deve posizionare il piano $Q$ in modo che il cilindro con basi $C$ e $C'$ abbia un volume massimo?
+
+[[src_cgen_1994__Q02]]

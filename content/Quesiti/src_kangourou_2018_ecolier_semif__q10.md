@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Ecolier — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q10
 parent: src_kangourou_2018_ecolier_semif
 competition: Kangourou 2018 Semifinale Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di poligoni con 41 fiammiferi*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 12
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12RJbo4WQyFx3m4vMHKRiOwlOuiEa6SZd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of polygons with 41 matches
+
+![[src_kangourou_2018_ecolier_semif__prob10.png]]
+
+> The figure shows how, with all matches equal to each other, triangles, squares and pentagons can be constructed. You have 41 matches, all equal to one another. By using them all you want to build as many polygons as possible, but by making sure that each match is part of a single polygon and that there is at least one triangle, square and pentagon. How many polygons can you build, at most?
+
+**Answer:** 12
+[[src_kangourou_2018_ecolier_semif__Q10]]

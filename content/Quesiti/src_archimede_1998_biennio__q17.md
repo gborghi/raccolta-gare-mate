@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Biennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_biennio__Q17
 parent: src_archimede_1998_biennio
 competition: Giochi di Archimede 1998 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti paggi fra vecchio ragazzo e ragazza*
 
@@ -52,3 +55,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kWwcoo-eeUmeGNwnlbaf7KaRcCi2NLyS/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How much pay is paid between an old man and a young woman
+
+> There are three categories of people living on an island: knights, who always tell the truth, thieves, who always lie, and peasants, who after a truth always tell a lie and vice versa. On the island I meet an old man, a boy and a girl. The old man says, "I'm paid; the boy's a knight". The boy says, I'm a knight, the girl's paid. The girl says finally: I am a cunning; The old man is paid. It can then be said that among the three:
+>
+> - **(A)** There's exactly one fee.
+> - **(B)** There's exactly two pages.
+> - **(C)** There 's exactly three pages .
+> - **(D)** There is no fee
+> - **(E)** The number of salaries is uncertain.
+
+**Answer:** C
+[[src_archimede_1998_biennio__Q17]]

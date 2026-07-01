@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2011 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2011__Q09
 parent: src_bocconi_semifinale_2011
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2011
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lati di un poligono convesso con diagonali pari a 13 volte i lati.*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 29 lati
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sides of a convex polygon with diagonal equal to 13 times the sides.*
+
+> In our (convex) polygon, the number of diagonals is 13 times that of the sides. How many sides does our polygon have?
+
+**Answer:** 29 lati
+[[src_bocconi_semifinale_2011__Q09]]

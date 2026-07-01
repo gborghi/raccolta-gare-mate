@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q14
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers less than 30 with exactly four divisors*
 
@@ -48,3 +51,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieri positivi inferiori a 30 con esattamente quattro divisori*
+
+> Quanti integri positivi inferiori a $30$ hanno esattamente quattro divisori?
+> 
+> (A) 9 \quad (B) 10 \quad (C) 11 \quad (D) 12 \quad (E) 13
+
+[[src_obm_2011_n1_f1__Q14]]

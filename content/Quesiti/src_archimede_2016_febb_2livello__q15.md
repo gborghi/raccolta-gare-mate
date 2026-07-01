@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2016 - 2 livello — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_febb_2livello__Q15
 parent: src_archimede_2016_febb_2livello
 competition: Archimede Gara di Febbraio 2016 - 2 livello
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *percorsi di valore 1 esistono ma non maggiore*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1WjYsXx25mj1TfZaCRYUsoX4KBtCIbL6j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*paths of value 1 exist but not greater*
+
+> DEMOSTRATIVE EXERCISE If m, n two integers greater than or equal to 2. From a table with m rows and n columns we know that each box contains either the number 1 or the number −1, and that the total sum of all the boxes is greater than or equal to zero. Genoveffa considers the paths that connect a box of the first column (of its choice) to a box of the last column (of its choice) and that always move from one box to an adjacent horizontal or vertical one, without going back twice on the same box. The value of a path is the sum of the numbers in the boxes it crosses. (a) Demonstrate that for every m, n < MSK0/>2 there are tables with m rows and n columns without paths of value 2 or more. (b) Demonstrate that it is always possible to find a path with a value greater than or equal to 1.
+
+[[src_archimede_2016_febb_2livello__Q15]]

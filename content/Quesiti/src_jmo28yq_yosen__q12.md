@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo28yq_yosen__Q12
 parent: src_jmo28yq_yosen
 competition: Japan Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -36,6 +37,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest N with a_{N+1}-a_N not equal to 1*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4065
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N più piccolo con a_{N+1}-a_N non uguale a 1*
+
+> Una sequenza a valore intero $a_1, a_2, \ldots$ soddisfa, per tutti gli enti $m, n$: se $m, n \ge 30$ e $|m - n| \ge 2018$, allora $a_{m+n}$ è uguale a $a_m + n$ o $a_n + m$. Trova il più grande valore possibile di un intero positivo $N$ per il quale $a_{N+1} - a_N \ne 1$.
+
+**Risposta:** 4065
+[[src_jmo28yq_yosen__Q12]]

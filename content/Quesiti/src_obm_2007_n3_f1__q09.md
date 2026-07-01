@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f1__Q09
 parent: src_obm_2007_n3_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Semicircle and isosceles triangle of same area; find tan(x)*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo semicircolo e triangolo di isosceles della stessa superficie; trovare tan(x) *
+
+> Il disegno di seguito mostra un semicircolo e un triangolo di isosceles della stessa area. Qual è il valore di < MSK0/>?
+> 
+> (A) $1$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{\pi}{\sqrt{3}}$ \quad (D) $\dfrac{2}{\pi}$ \quad (E) $\dfrac{\pi}{2}$
+
+![[src_obm_2007_n3_f1__Q09.png]]
+
+**Risposta:** E
+[[src_obm_2007_n3_f1__Q09]]

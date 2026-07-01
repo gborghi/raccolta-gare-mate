@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Junior — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q16
 parent: src_kangourou_2019_junior_semifinale
 competition: Kangourou 2019 Semifinale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo punteggio Giraffe (geometrica vs aritmetica)*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum score Giraffe (geometric vs arithmetic)
+
+> (Points 7) The Kangaroos and the Giraffes faced each other in a basketball game. The match lasted four times: at the end of the first the teams were tied, but in the end the Kangaroos won with a margin of victory. The Crab scores, individually considered in the four times, are in geometric progression, while those of the Giraffe are in arithmetic progression. What's the minimum score for the total score at the end of the Giraffe game?
+
+[[src_kangourou_2019_junior_semifinale__Q16]]

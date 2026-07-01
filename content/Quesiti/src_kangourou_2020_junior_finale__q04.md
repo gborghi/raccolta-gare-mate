@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2020 Finale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_finale__Q04
 parent: src_kangourou_2020_junior_finale
 competition: Kangourou Coppa Junior squadre 2020 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero della casa abbattuta (media 995,8)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1394
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1FHlXv6XSZu8CigCMt0qnx7UwdUaiE9UP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of houses destroyed (average 995.8) *
+
+> On a long street in my town, the houses were numbered, without skipping any number, from first to last. One day one of these houses was torn down. The mean of the remaining numbers then became 995.8. What was the number of the house that was torn down?
+
+**Answer:** 1394
+[[src_kangourou_2020_junior_finale__Q04]]

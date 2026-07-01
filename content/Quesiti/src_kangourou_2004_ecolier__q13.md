@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Ecolier (18 marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_ecolier__Q13
 parent: src_kangourou_2004_ecolier
 competition: Kangourou 2004 Ecolier (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorno del compleanno di Sandro*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13I1JSQd6k6sgpWvf36jmvSalp7-JNp9W/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is Sandro's birthday.
+
+> Angelo, born in March, is 52 days older than his classmate Sandro. This year, Angelo celebrated his birthday on Tuesday. What day of the week will Sandro celebrate his birthday this year? (a) Monday (b) Tuesday (c) Wednesday (d) Thursday (e) Friday
+
+**Answer:** E
+[[src_kangourou_2004_ecolier__Q13]]

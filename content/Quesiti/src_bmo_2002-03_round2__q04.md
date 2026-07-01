@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2002-03 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2002-03_round2__Q04
 parent: src_bmo_2002-03_round2
 competition: British Mathematical Olympiad 2002-03 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count values less than 2003 in image of f with f(f(n))=n+2003*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p1kiV15r8QgVBORXkDGsuMLqEddZbRnF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valutazioni di conteggio inferiori al 2003 nell'immagine di f con f(f(n))=n+2003*
+
+> Let $f$ essere una funzione da $\mathbb{N}$ a $\mathbb{N}$ (dove $\mathbb{N}$ indica l'insieme di interi positivi) tale che $f(f(n)) = n + 2003$ per tutti $n \in \mathbb{N}$. Quanti valori inferiori a $2003$ ci sono nell'immagine di $f$?
+
+[[src_bmo_2002-03_round2__Q04]]

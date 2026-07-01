@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2010_finale__Q11
 parent: src_kangourou_squadre_2010_finale
 competition: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Primo esagono con spessore > 130*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 0451
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>First hexagon with thickness > 130< MSK1/>
+
+> There are 1,000 doors numbered from 1 to 1,000 in a very long hallway that are initially closed. At the beginning of the corridor there are 1,000 people, numbered from 0 to 999, who act as follows. Person 0 walks through the hallway from the beginning and changes the status of all the doors (hence opening them all). After her, person 1 walks the corridor from the beginning: he jumps a door (the first one) and changes the state of the second one (in this case closes it), then he jumps the third one and changes the state of the fourth one and so on. After her, person 2 runs the corridor from the beginning skipping orderly 2 doors out of 3 (i.e. first and second, fourth and fifth and so on) and changes the state of the doors that do not jump. This is how it is done: the person n to run the corridor from the beginning by skipping orderly n doors on n + 1 and changing the state of those that do not jump (i.e. opening those that find closed and closing those that find open). When even the thousandth person has completed his journey, how many doors will remain open?
+
+**Answer:** 0451
+[[src_kangourou_squadre_2010_finale__Q11]]

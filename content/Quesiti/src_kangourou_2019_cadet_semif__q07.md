@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Cadet — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q07
 parent: src_kangourou_2019_cadet_semif
 competition: Kangourou 2019 Semifinale Cadet
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti diversi decori di esagoni con triangolini colorati*
 
@@ -73,3 +76,42 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1phCvtzZl50ji_jVJDivksDRKk73y1EvN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many different hexagonal decoration with coloured triangles*
+
+![[src_kangourou_2019_cadet_semif__prob7.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=2]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (2,0);
+  \coordinate (C) at (1,1.732);
+  \coordinate (M) at (1,0.577);
+  \fill[gray!50] (A) -- (C) -- (M) -- cycle;
+  \fill[gray!50] (B) -- (C) -- (M) -- cycle;
+  \fill[white] (A) -- (B) -- (M) -- cycle;
+  \draw[thick] (A) -- (B) -- (C) -- cycle;
+  \draw[thick] (A) -- (M);
+  \draw[thick] (B) -- (M);
+  \draw[thick] (C) -- (M);
+\end{tikzpicture}
+\end{document}
+```
+
+> (Points 5) Approaching six equilateral triangles equals a regular hexagon. Assume that the starting equilateral triangles are each divided into three triangles (equal) with one vertex in the center of the equilateral triangle, of which two are grey and one is white (see figure). Suppose that they are brought together so that along each of the conjunction sides of the equilateral triangles there are always triangles of equal colour. How many different hexagonal decorations could you get? A) 6
+> 	
+> B) 5
+> 	
+> C) 4
+> 	
+> D) 3
+> 	
+> E) 2
+
+**Answer:** B
+[[src_kangourou_2019_cadet_semif__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1995 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1995__Q02
 parent: src_cgen_1995
 competition: Concours Général des Lycées 1995 — Matematica
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convergence of a sequence defined by a square-root recurrence*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Convergenza di una sequenza definita da una ricorrenza di radice quadrata*
+
+> Studiare la convergenza della sequenza $(u_n)_{n \in \mathbb{N}}$ definita da $$\begin{cases} u_0 \ge 0 \text{ and for all } n \in \mathbb{N}:\\[4pt] u_{n+1} = \sqrt{u_n + \dfrac{4}{n+1}} \end{cases}$$
+
+[[src_cgen_1995__Q02]]

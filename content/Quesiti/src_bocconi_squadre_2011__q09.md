@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2011 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2011__Q09
 parent: src_bocconi_squadre_2011
 competition: Gara a Squadre 2011
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato del cubo equivolumetrico al parallelepipedo ridotto*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7,5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csoOdxkAD8Fd4QvzRpEPzVVVOCkJ8l1C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Late of the equivolumetric cube at the reduced parallelpiped< MSK1/>
+
+> Increasing the smallest size of a rectangular parallelepiped by 3 cm and decreasing the largest by 5 cm gives a cube with the same volume as the initial parallelepiped. What's the size of the side of the cube?
+
+**Answer:** 7,5
+[[src_bocconi_squadre_2011__Q09]]

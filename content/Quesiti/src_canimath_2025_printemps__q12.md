@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2025 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_printemps__Q12
 parent: src_canimath_2025_printemps
 competition: Coupe Animath Printemps 2025
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all n>=2 for which two cyclic-sum sets each cover n consecutive integers*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le n>=2 per le quali due set di somma ciclica coprono ciascuno n numeri interi consecutivi*
+
+> Determinare tutti gli enti rigorosamente positivi $n \geq 2$ per i quali esistono enti rigorosamente positivi $a_1, a_2, \ldots, a_n$ in modo tale che entrambe le serie $$\{a_1, a_2, \ldots, a_n\} \quad \text{and} \quad \{a_1+a_2,\, a_2+a_3,\, \ldots,\, a_{n-1}+a_n,\, a_n+a_1\}$$ siano ciascuna costituita da $n$ integri consecutivi.
+
+[[src_canimath_2025_printemps__Q12]]

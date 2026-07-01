@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2023__Q03
 parent: src_tfjm_2023
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2023
@@ -38,6 +39,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Monetary systems S: S-appoints (exact payments), S-primary prices, and S-decompositions; finiteness and uniqueness conditions*
 
@@ -52,3 +55,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Zgbgw16aZEai2bo8kAUFHAI-ffQz7IA5/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sistemi monetari S: punti S (pagamenti esatti), prezzi primari S e decomposizioni S; condizioni di finità e unicità*
+
+> Valutazione monetaria (Appoint monétaire). In una galassia lontana, lontana, il piccolo principe si sposta da pianeta in pianeta a bordo della sua nave spaziale margarina. Ogni pianeta ha il suo sistema monetario, un insieme di valori delle monete, e il principe deve dare il cambio esatto per i suoi acquisti. Supponiamo sempre $1 \\in S$. Per esempio, il sistema monetario $S = \\{1, 2, 5\\}$.\n\nQuando il principe arriva su un nuovo pianeta con una certa quantità di denaro $x \\in \\mathbb{N}$, lo converte nel sistema $S$. Diciamo che può dare cambio (faire l'appoint) per un prezzo $p$ su un importo $x$ se può scrivere $p$ come sottosumma delle monete che costituiscono $x$. Indichiamo con $\\mathcal{A}_S(x)$ l'insieme dei prezzi per i quali può dare variazione nel sistema $S$ avendo un importo $x$ di denaro. Ad esempio $\\mathcal{A}_{\\{1,2,5\\}}(4) = \\{0, 2, 4\\}$ per una decomposizione di $x = 4$ in due monete di valore 2; con $1+1+2$ invece ottiene $\\{0,1,2,3,4\\}$.\n\n1. Il piccolo principe arriva su un pianeta dove $S = \\{1, 3, 10\\}$. Per quali prezzi è sicuro di dare cambio se: a) ha un importo $x = 10$? b) ha un importo $x = 100$? c) ha un importo $x = 10^n$ per $n \\in \\mathbb{N}^*$? n\nI commercianti di margherite/margherine addebitano un prezzo $p \\geqslant 1$ tale da essere sicuri di poter dare cambio per $p$ su qualsiasi importo di denaro: tale prezzo $p$ è chiamato $S$-primario (per convenzione, $0$ non è mai $S$-primario). Per esempio, per $S = \\{1, 2, 5\\}$, il prezzo 6 è $S$-primario perché $6 = 5 + 1 = 2 + 2 + 2$, mentre non è per i prezzi 1, 2, 3, 4 o 5. L'insieme dei prezzi primari < MSK30/> è indicato come < MSK31/>. Per esempio $1, 2, 5, 6 \\in \\mathcal{P}_{\\{1,2,5\\}}$ ma $0, 3, 4 \\notin \\mathcal{P}_{\\{1,2,5\\}}$.\n\n2. Quali set $S$ sono tali da poter caratterizzare i prezzi primari $S$ se:\n a) $S = \\{1, u\\}$ per $u \\geqslant 2$?\n b) $S = 1 + 2\\mathbb{N}$ l'insieme di numeri unici?\n c) $S = \\{2^n, n \\in \\mathbb{N}\\}$ l'insieme di potenze di 2?\n d) $S = \\{1, v, w\\}$ per $w > v > 2$?\n e) $S$ l'insieme di numeri primi insieme a 1?\n\n3. Determinare i sottogruppi $S$ di $\\mathbb{N}^*$ in modo tale che $\\mathcal{P}_S$ sia finito.\n\n4. Indicare una stima (frame da sotto e sopra) del valore del prezzo primario più grande $S$ quando $S$ è finito, in funzione dei valori degli elementi di $S$. Si può iniziare trattando i casi (a) e (d) della domanda 2.\n\n5. Trovare condizioni necessarie e/o sufficienti per $\\mathcal{P}_S = \\mathbb{N}^*$.\n\nDato un prezzo $x$, un $m$-tuple $(p_1, \\dots, p_m)$ di $S$-prezzi primari la cui somma è $x$ si chiama $S$-decompilazione di $x$ se per ogni sottoinsieme $J \\subseteq [\\![1, m]\\!]$, il prezzo $x_J = \\sum_{j \\in J} p_j$ è un $S$-appoint di $x$; in altre parole, ogni sottosomma (compresa la somma vuota e la somma completa) di questi prezzi è un $S$-appoint di $x$. Per esempio, per $S = \\{1, 2, 5\\}$ e $x = 4$, la decomposizione unica $S$ di $x$ è la tripletta $(1, 1, 2)$, ma non la coppia $(2, 2)$, perché $1 + 2 = 3$ non è un $S$-appoint di 4. Allo stesso modo, $(4)$ non è una decomposizione $S$ di 4 perché 4 non è $S$-primaria.\n\n6. Per quali sistemi $S$ ogni $x$ ammette almeno una decomposizione $S$?\n\n7. Esistono sistemi $S$ per i quali:\n a) $S$ è finito e ogni $S$-decomposizione è unica (fino alla permutazione dei numeri primari $S$)?\n b) $S$ è infinito e ogni $S$-decomposizione è unica?\n c) $S$ ha la forma $S = \\{1, u, v\\}$ con $1 < u < v$ e ogni $S$-decomposizione è unica?\n d) almeno un prezzo $x$ ammette almeno due $S$-decomposizioni che non sono permutazioni l'una dell'altra?\n\n8. Trovare le condizioni necessarie e/o sufficienti per un sistema $S$ per verificare la proprietà della domanda precedente.\n\n9. Proporre e studiare altre linee di ricerca.
+
+![[src_tfjm_2023__Q03.png]]
+
+[[src_tfjm_2023__Q03]]

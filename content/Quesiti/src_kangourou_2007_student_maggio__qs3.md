@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Student finale (maggio) — Quesito S3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_student_maggio__QS3
 parent: src_kangourou_2007_student_maggio
 competition: Kangourou 2007 Student finale (maggio)
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area minima del triangolo (altezze vincolate)*
 
@@ -65,3 +68,39 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 10
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HUfAMVLA7IpFMgDDc-PE2DVK0jJ_IXLH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum area of triangle (heights restricted) *
+
+![[src_kangourou_2007_student_maggio__probS3.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (5,5);
+  \coordinate (B) at (8,0);
+  \coordinate (C) at (0,0);
+  \coordinate (FA) at (5,0);
+  \coordinate (FB) at (4,4);
+  \coordinate (FC) at (5.882,3.529);
+  \draw[thick] (A) -- (B) -- (C) -- cycle;
+  \draw[dotted] (A) -- (FA);
+  \draw[dotted] (B) -- (FB);
+  \draw[dotted] (C) -- (FC);
+  \node[above] at (A) {$A$};
+  \node[right] at (B) {$B$};
+  \node[left] at (C) {$C$};
+  \node[right] at (5,1.6) {$h_A$};
+  \node[above left] at (4.5,4.3) {$h_B$};
+  \node[below] at (3,2.0) {$h_C$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Whether $ABC$ is any triangle whose heights relative to the vertices $A$, $B$, $C$ meet the following ratios: $h_A \geq 3$ cm, $h_B \geq 4$ cm, $h_C \geq 5$ cm respectively. How many square centimetres is the minimum area of $ABC$?
+
+**Answer:** 10
+[[src_kangourou_2007_student_maggio__QS3]]

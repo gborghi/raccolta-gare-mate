@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet_finale__Q05
 parent: src_kangourou_2021_cadet_finale
 competition: Kangourou 2021 Cadet - finale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di sviluppi piani diversi di un cubo*
 
@@ -52,3 +55,29 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 11
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of different plane developments of a cube*
+
+![[src_kangourou_2021_cadet_finale__prob5.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (1,2) rectangle (2,3);
+  \draw (0,1) rectangle (1,2);
+  \draw (1,1) rectangle (2,2);
+  \draw (2,1) rectangle (3,2);
+  \draw (3,1) rectangle (4,2);
+  \draw (1,0) rectangle (2,1);
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure you see a plane development of a cube, that is, a possible plane approach of the sides of the cube so that you can reconstruct the cube by folding the figure along the common sides of the two sides appropriately. How many different planes of development between them has a cube, considering identical two developments achievable from each other by rotation and/or reflection? (see figure)
+
+**Answer:** 11
+[[src_kangourou_2021_cadet_finale__Q05]]

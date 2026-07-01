@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo12yq_yosen__Q02
 parent: src_jjmo12yq_yosen
 competition: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find n where exactly 3 of 4 statements about n are true*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 168
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova n dove esattamente 3 delle 4 affermazioni su n sono vere*
+
+> Per un intero positivo $n$ al massimo $500$, quattro persone A, B, C, D dicono quanto segue: A: "$n$ è divisibile da $2$ esattamente $3$ volte (cioè $2^3 \mid n$ ma $2^4 \nmid n$)." B: "$n$ è divisibile da $3$ esattamente $2$ volte." C: "$n$ è divisibile da $7$ esattamente $1$ tempo." D: "La somma delle cifre di $n$ è $15$". Trova < MSK15/>.
+
+**Risposta:** 168
+[[src_jjmo12yq_yosen__Q02]]

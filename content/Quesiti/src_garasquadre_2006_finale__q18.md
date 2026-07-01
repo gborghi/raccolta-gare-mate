@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_finale__Q18
 parent: src_garasquadre_2006_finale
 competition: VII Gara Nazionale a Squadre 2006 - Finale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi pari tra 4000 e 7000 con tutte cifre diverse*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0728
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1gZSw1a8n1M4j9DvH6wTbhtIqnyyqml42/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interies between 4000 and 7000 with all different digits*
+
+> Graduates of the Higher Mathematical School are assigned to their home country according to their mathematical attitudes. This year, for example, in order to enter the house of Inclusion, it was necessary to know how many integers are equal, including between 4000 and 7000, all of which have different digits. What's the right answer?
+
+**Answer:** 0728
+[[src_garasquadre_2006_finale__Q18]]

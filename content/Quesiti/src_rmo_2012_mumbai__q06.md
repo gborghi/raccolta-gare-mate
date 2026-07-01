@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Mumbai — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_mumbai__Q06
 parent: src_rmo_2012_mumbai
 competition: Regional Mathematical Olympiad 2012
@@ -36,6 +37,8 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Weighted alternating sum over all subsets of a 10-element set*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $70656$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa alternata ponderata su tutti i sottogruppi di un insieme di 10 elementi*
+
+> Per un sottogruppo non vuoto $A$ di $S = \{1, 2, \ldots, 10\}$, definire $w(A)$ organizzando gli elementi di $A$ in ordine decrescente e quindi aggiungendo e sottrattandoli alternatamente, a partire dall'aggiunta (si aggiunge l'elemento più grande). $\mathrm{WSUM}$ sia la somma di $w(A)$ su tutti i sottoinsiemi non vuoti $A$ di $S$. Mostra che $\mathrm{WSUM} = 70656$.
+
+**Risposta:** $70656$
+[[src_rmo_2012_mumbai__Q06]]

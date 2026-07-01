@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f3__Q06
 parent: src_obm_2009_n2_f3
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum area of triangle with all integer sides and integer area*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LX5lriZmay4faIzZGdpod2kqS8160CrJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area minima del triangolo con tutti i lati interi e l'area interi*
+
+> I tre lati e l'area di un triangolo sono tutti numeri interi. Qual è il valore minimo possibile dell'area di un triangolo?
+
+**Risposta:** 6
+[[src_obm_2009_n2_f3__Q06]]

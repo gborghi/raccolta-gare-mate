@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo10yq_yosen__Q07
 parent: src_jjmo10yq_yosen
 competition: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count paths visiting 9 points on graph exactly once and returning to start*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 24
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta percorsi che visitano 9 punti del grafico esattamente una volta e ritornano al start*
+
+> A partire dal punto $A$ nella figura seguente, una palla percorre i bordi e visita ciascuno dei punti $9$ esattamente una volta prima di tornare a $A$. Quante sono queste rotte? (Supponiamo che la palla non possa fermarsi a metà lungo un bordo.)
+
+![[src_jjmo10yq_yosen__Q07.png]]
+
+**Risposta:** 24
+[[src_jjmo10yq_yosen__Q07]]

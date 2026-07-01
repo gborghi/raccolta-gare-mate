@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1995 — Round 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1995_r1__Q09
 parent: src_pol_1995_r1
 competition: Olimpiade Matematica Polacca 1995 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *a+b=1, a^b and b^a rational implies a and b rational*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*a+b=1, a^b e b^a razionale implica a e b razionale*
+
+> $a$ e $b$ siano numeri reali positivi con la somma $1$. Se $a^b$ e $b^a$ sono razionali, dimostrare che lo sono anche $a$ e $b$.
+
+[[src_pol_1995_r1__Q09]]

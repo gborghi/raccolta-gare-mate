@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2023 - Gara Triennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_triennio__Q10
 parent: src_archimede_2023_triennio
 competition: Giochi di Archimede 2023 - Gara Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazioni della striscia con multipli di 4 blu (4 colori)*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Trip colours with 4 blue multipliers (4 colours) < MSK1/>
+
+> Gabriele has a square strip of paper, with side squares of 1 centimeter, length 2023 cm. He wants to mark every inch height, from 0 to 2023, with one of his 4 colored pinheads (red, yellow, green and blue). It will make sure that the multiples of 4, including 0, are all marked in blue and that there are no nearby tiles of the same color. How many different ways will Gabriele be able to achieve the coloring?
+>
+> - **(A)** 27 · 21505
+> - **(B)** 27 · 25505
+> - **(C)** 27 · 16505
+> - **(D)** 27 · 18505
+> - **(E)** 27 · 36505
+
+**Answer:** A
+[[src_archimede_2023_triennio__Q10]]

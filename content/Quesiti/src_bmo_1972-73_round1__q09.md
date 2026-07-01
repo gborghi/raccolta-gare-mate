@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1972-73 — Round 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1972-73_round1__Q09
 parent: src_bmo_1972-73_round1
 competition: British Mathematical Olympiad 1972-73 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three parametrised lines are concurrent; find concurrency point*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre linee parametrizzate sono simultanee; trovare punto di simultanea*
+
+> $$L_r = \begin{vmatrix} x & y & 1 \\ a + r\cos\alpha & b + r\sin\alpha & 1 \\ l + r\cos\alpha_r & m + r\sin\alpha_r & 1 \end{vmatrix}$$
+> 
+> Indicare che le linee $L_r = 0$, $r = 1, 2, 3$ sono simultanee e trovare le coordinate della loro concordanza.
+
+[[src_bmo_1972-73_round1__Q09]]

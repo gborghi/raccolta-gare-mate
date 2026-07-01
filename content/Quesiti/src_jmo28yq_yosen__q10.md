@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo28yq_yosen__Q10
 parent: src_jmo28yq_yosen
 competition: Japan Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Practice-match outcomes giving exactly 2 possible champions*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 344064 ways
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rescultati di partite di pratica che danno esattamente 2 possibili campioni*
+
+> I giocatori di MSK0/> partecipano a un torneo di scacchi di eliminazione singola, in cui il campione è deciso come segue. Innanzitutto, tutti i giocatori sono in fila. Poi si ripete la seguente operazione $3$ volte: i giocatori della fila sono raggruppati in coppie, due alla volta da una estremità, e i due giocatori di ciascuna coppia giocano una partita; il vincitore rimane nella fila e il perdente scende. Il giocatore che rimane in fila alla fine è il campione. Prima del torneo si svolgeva un round-robin completo di partite di pratica, in cui non si verificavano sorte; cioè, per ogni coppia di giocatori si giocava una partita di pratica e si determinava il vincitore. Ora supponiamo che i risultati delle partite del torneo concordino con i risultati delle prove. A seconda della formazione iniziale dei giocatori, il numero di giocatori che potrebbero diventare campioni si è rivelato esattamente $2$. Quante possibili combinazioni dei risultati tra pratiche e partite ci sono (per cui esattamente $2$ i giocatori possono diventare campioni)?
+
+**Risposta:** 344064 ways
+[[src_jmo28yq_yosen__Q10]]

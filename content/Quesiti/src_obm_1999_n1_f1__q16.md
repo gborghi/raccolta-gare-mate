@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f1__Q16
 parent: src_obm_1999_n1_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Balance scale with three apples and one 200g block; find total weight of apples.*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Scala di equilibrio con tre mele e un blocco di 200 g; trovare il peso totale delle mele.< MSK1/>
+
+> Marcos ha messo tre mele su una bilancia di due pannelli. Ha un blocco di 200 grammi. Osservando l'equilibrio, osserva: (i) la mela più grande pesa quanto le altre due mele insieme; (ii) il blocco e la mela più piccola insieme pesano quanto le altre due mele insieme; (iii) la mela più piccola insieme alla mela media pesa quanto il blocco. Qual è il peso totale delle tre mele?
+> 
+> (A) 250\,g \quad (B) 300\,g \quad (C) 350\,g \quad (D) 400\,g \quad (E) 450\,g
+
+![[src_obm_1999_n1_f1__Q16.png]]
+
+**Risposta:** B
+[[src_obm_1999_n1_f1__Q16]]

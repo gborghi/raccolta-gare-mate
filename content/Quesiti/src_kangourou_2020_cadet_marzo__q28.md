@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q28
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimi metri dell allenatore (tre bambini percorrono 50m)*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum metres of the trainer (three children run 50m) < MSK1/>
+
+> Four children are standing on the four corners of a 10-meter-sized pool. Their coach's on one side of the pool. When he calls them, three of them come out and run toward him along the shortest possible path along the sides of the pool: they run 50 meters in all. How many metres at least must the trainer walk to reach the fourth child (always moving along the sides of the pool)? A) 10
+> 	
+> B) 12
+> 	
+> C) 15
+> 	
+> D) 20
+> 	
+> E) 25
+
+**Answer:** D
+[[src_kangourou_2020_cadet_marzo__Q28]]

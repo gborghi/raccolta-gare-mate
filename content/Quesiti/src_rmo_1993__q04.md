@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1993 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1993__Q04
 parent: src_rmo_1993
 competition: Regional Mathematical Olympiad 1993
@@ -30,6 +31,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inequality for inscribed circle radii in rectangle*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kadMp-CRN3MjuB-TEm5ptxaScgegf-GQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Inuguaglianza per i radii di un cerchio inciso nel rettangolo*
+
+> Il $ABCD$ deve essere un rettangolo con $AB = a$ e $BC = b$. Supponiamo che $r_1$ sia il raggio del cerchio che attraversa $A$ e $B$ e tocca $CD$; e allo stesso modo $r_2$ è il raggio del cerchio che attraversa $B$ e $C$ e tocca $AD$. Indicare che < MSK0/>
+
+[[src_rmo_1993__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q08
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area superficie totale del cilindro*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4398
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total cylinder surface area*
+
+> In front of the Ell woodworkers' laboratory, a structure formed by a letter **L** is erected, obtained with a cut and an adhesive: taking a high wooden cylinder $6\,\text{m}$ with a base diameter of $2\,\text{m}$, it is cut into two equal parts by sealing it with a single cut, inclined by $45^\circ$ with respect to the axis of the cylinder; then the two sections are joined making them perfectly coincide to form the **L**. The **L** in front of the laboratory is completely painted with phosphorescent paint.
+> 
+> What is the area covered by the paint in $\text{dm}^2$, including the bases?
+
+**Answer:** 4398
+[[src_gs_2008_squadre__Q08]]

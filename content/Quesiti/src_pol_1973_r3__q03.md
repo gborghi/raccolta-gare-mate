@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1973 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1973_r3__Q03
 parent: src_pol_1973_r3
 competition: Olimpiade Matematica Polacca 1973 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Polyhedron with symmetry and parallelogram sections is a parallelepiped*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qxf9IfIyodX4dvRWXQZSx2BaEEy5z1l/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il poliedro con sezioni di simmetria e parallelo è un parallelepiped*
+
+> Un poliedro $W$ ha le seguenti proprietà: (i) possiede un centro di simmetria. (ii) La sezione di $W$ di un piano che attraversa il centro della simmetria e uno dei suoi bordi è sempre un parallelo. (iii) C'è un vertice di $W$ in cui si incontrano esattamente tre bordi.
+> 
+> Provare che $W$ è un parallelepiped.
+
+[[src_pol_1973_r3__Q03]]

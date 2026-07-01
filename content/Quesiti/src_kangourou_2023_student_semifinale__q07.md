@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Student 2023 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student_semifinale__Q07
 parent: src_kangourou_2023_student_semifinale
 competition: Kangourou Semifinale individuale Student 2023
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (X,n) false in un allineamento periodico di lettere*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*False (X,n) pairs in a periodic alignment of letters*
+
+> (Points 5) Imagine repeating the ABBCCCDDE letter alignment indefinitely, thus obtaining the periodic ABBCCCDDEABBCCCDDEABBC... For how many of the following pairs (X, n) is the following statement false: The ninth letter of the periodic alignment is X? (A, 20 × 23) ii) (A, 2023) iii) (C, 2023) iv) (E, 3202) A) 0 (all are true) B) 1 C) 2 D) 3 E) 4 (all are false)
+
+[[src_kangourou_2023_student_semifinale__Q07]]

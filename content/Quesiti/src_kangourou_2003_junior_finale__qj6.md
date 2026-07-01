@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior finale nazionale — Quesito J6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior_finale__QJ6
 parent: src_kangourou_2003_junior_finale
 competition: Kangourou 2003 Junior finale nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero autodescrittivo di dieci cifre*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6210001000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DYCQm1nF2PohR5Hfzk5zl6q-PHPzDsMy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Auto-descriptive number of 10 digits *
+
+> A single positive integer of ten digits (significant) has a decimal representation such that its first digit (left) corresponds to the number of its digits that are equal to zero, its second digit corresponds to the number of its digits that are equal to one, its third digit corresponds to the number of its digits that are equal to two and so on until its tenth digit corresponds to the number of its digits equal to nine. Find that number.
+
+**Answer:** 6210001000
+[[src_kangourou_2003_junior_finale__QJ6]]

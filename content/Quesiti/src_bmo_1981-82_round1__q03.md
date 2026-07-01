@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1981-82 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1981-82_round1__Q03
 parent: src_bmo_1981-82_round1
 competition: British Mathematical Olympiad 1981-82 — Round 1
@@ -29,6 +30,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove an identity for the harmonic-type sum s_n*
 
@@ -43,3 +46,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iBLrHn-nHBI8ucTONz6bQHo1BughmGgq/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove un'identità per la somma di tipo armonico s_n*
+
+> Se $s_n = 1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \cdots + \frac{1}{n}$ per $n > 2$, dimostrare che $$n(s_n)^x = n + (n-1)s_1 + (n-2)s_2 + \cdots + 2s_{n-2} + s_{n-1},$$ dove $x$ e $b$ sono dati in termini di $n$ da $a = s_n - 1$, $b(s_n - 1) = -1$.
+
+[[src_bmo_1981-82_round1__Q03]]

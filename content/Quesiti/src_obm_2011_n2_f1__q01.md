@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q01
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum toll on one-way road map from A to B*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di pedaggio sulla mappa stradale a senso unico da A a B*
+
+> La figura accanto mostra una mappa stradale. I numeri scritti accanto alle frecce indicano quanto si paga, in monete, per viaggiare lungo quella strada. Tutte le strade sono a senso unico, nella direzione indicata dalle frecce. Qual è il valore minimo del pedaggio che si paga quando si lascia la città $A$ e si arriva nella città $B$?
+> 
+> (A) $11$ \quad (B) $14$ \quad (C) $12$ \quad (D) $10$ \quad (E) $15$
+
+![[src_obm_2011_n2_f1__Q01.png]]
+
+[[src_obm_2011_n2_f1__Q01]]

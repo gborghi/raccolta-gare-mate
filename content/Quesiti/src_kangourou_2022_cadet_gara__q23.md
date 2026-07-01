@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet gara individuale — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q23
 parent: src_kangourou_2022_cadet_gara
 competition: Kangourou 2022 Cadet gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della superficie totale di un singolo mattone*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the total surface area of a single brick*
+
+![[src_kangourou_2022_cadet_gara__prob23.png]]
+
+> A mason has two identical bricks. He approaches them face to face, in three different ways, as shown in the figure. The total surface areas of the three solids obtained are 72, 96 and 102. What is the total surface area of a single brick? A) 36
+> 	
+> B) 48
+> 	
+> C) 52
+> 	
+> D) 54
+> 	
+> E) 60
+
+**Answer:** D
+[[src_kangourou_2022_cadet_gara__Q23]]

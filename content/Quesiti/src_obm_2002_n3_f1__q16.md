@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q16
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation f(x)+2 f(2002/x)=3x for x>0; find f(2)*
 
@@ -47,3 +50,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale f(x) +2 f(2002/x)=3x per x>0; trovare f(2)*
+
+> Let $f$ essere una funzione reale di una variabile reale che soddisfa la condizione $f(x)+2f\!\left(\dfrac{2002}{x}\right)=3x$ per $x>0$. Il valore di $f(2)$ è uguale a: (A) 1000 (B) 2000 (C) 3000 (D) 4000 (E) 6000
+
+**Risposta:** C
+[[src_obm_2002_n3_f1__Q16]]

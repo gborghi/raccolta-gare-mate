@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2007 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo17yq_yosen__Q10
 parent: src_jmo17yq_yosen
 competition: Japan Mathematical Olympiad 2007 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count card multisets with sum 2007 allowing unique n-subset with sum divisible by n*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Multiinsiemi di schede di conteggio con somma 2007 che consentono n-sottosette unici con somma divisibile da n*
+
+> Ci sono alcune carte, ognuna con un intero positivo scritto su di essa, e la somma di tutti i numeri scritti è $2007$. Per ogni numero intero $n$ con $1 \le n \le 2006$, si possono scegliere carte $n$ in modo tale che la somma dei numeri sulle carte scelte sia divisibile da $n$, e inoltre questa scelta è unica (in cui le carte con lo stesso numero scritto su di esse sono trattate come indistinguibili). Quante tali collezioni di carte sono possibili?
+
+[[src_jmo17yq_yosen__Q10]]

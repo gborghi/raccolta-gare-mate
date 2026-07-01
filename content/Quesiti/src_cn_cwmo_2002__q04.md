@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2002 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2002__Q04
 parent: src_cn_cwmo_2002
 competition: China Western Mathematical Olympiad 2002
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove two disjoint index sets give equal unions of subsets*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che due set di indici dissociati danno unioni uguali di sottoinsiemi*
+
+> Supponiamo che $n$ sia un intero positivo e $A_1, A_2, \ldots, A_{n+1}$ siano $n+1$ sottosette non vuote del set $\{1, 2, \ldots, n\}$. Prova che esistono due sottinsiemi dissociati e non vuoti $\{i_1, i_2, \ldots, i_k\}$ e $\{j_1, j_2, \ldots, j_m\}$ in modo tale che $$A_{i_1} \cup A_{i_2} \cup \cdots \cup A_{i_k} = A_{j_1} \cup A_{j_2} \cup \cdots \cup A_{j_m}.$$ (posato da Pan Chengbiao)
+
+[[src_cn_cwmo_2002__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2011 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2011__Q04
 parent: src_cn_cmo_2011
 competition: China Mathematical Olympiad 2011
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum of symmetric difference sizes for sumset equal to S*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** n+1
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca le dimensioni minime della differenza simmetrica per il sommo uguale a S*
+
+> Se il numero intero positivo $n$ è $S = \{1, 2, \ldots, n\}$. Trova il minimo di $|A \Delta S| + |B \Delta S| + |C \Delta S|$ per i set finiti non vuoti $A$ e $B$ di numeri reali, dove $C = \{a + b \mid a \in A, b \in B\}$, $X \Delta Y = \{x \mid x \text{ belongs to exactly one of } X \text{ and } Y\}$ e $|X|$ indicano il numero di elementi di un set finito $X$.
+
+**Risposta:** n+1
+[[src_cn_cmo_2011__Q04]]

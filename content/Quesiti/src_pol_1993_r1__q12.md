@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r1__Q12
 parent: src_pol_1993_r1
 competition: Olimpiade Matematica Polacca 1993 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Characterize when x^n+4 factors into two non-constant integer-coefficient polynomials.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Caricare quando x^n+4 fattori in due polinomi non costanti di coefficienti interi.*
+
+> Prove che il polinomio $x^n+4$ è espressibile come il prodotto di due polinomi non costanti con coefficienti interi se e solo se $4\mid n$.
+
+[[src_pol_1993_r1__Q12]]

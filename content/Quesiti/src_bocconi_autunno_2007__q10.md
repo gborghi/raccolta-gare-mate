@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2007 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2007__Q10
 parent: src_bocconi_autunno_2007
 competition: Giochi d'Autunno 2007
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante frasi del riquadro sono simultaneamente vere*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many sentences in the box are simultaneously true*
+
+> How many simultaneously true sentences are in the box? 1. The number of true sentences in this box is greater than 12. The number of true sentences contained in this box is greater than 2 3. The number of true sentences in this box is greater than 3 4. The number of true sentences in this box is greater than 4.5. The number of false sentences contained in this box is greater than 16. The number of false sentences contained in this box is greater than 0
+
+**Answer:** 5
+[[src_bocconi_autunno_2007__Q10]]

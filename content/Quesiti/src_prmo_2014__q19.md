@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2014__Q19
 parent: src_prmo_2014
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2014
@@ -33,6 +34,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of sum of x_i^2/(1-x_i) given x_1+...+x_2014=1 and cyclic sum condition*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta della somma di x_i^2/(1-x_i) data x_1+...+x_2014=1 e condizione di somma ciclica*
+
+> Che $x_1, x_2, \ldots, x_{2014}$ siano numeri reali diversi da 1, come $x_1 + x_2 + \cdots + x_{2014} = 1$ e $$\frac{x_1}{1-x_1} + \frac{x_2}{1-x_2} + \cdots + \frac{x_{2014}}{1-x_{2014}} = 1.$$ Qual è il valore di $$\frac{x_1^2}{1-x_1} + \frac{x_2^2}{1-x_2} + \cdots + \frac{x_{2014}^2}{1-x_{2014}}\,?$$
+
+**Risposta:** 0
+[[src_prmo_2014__Q19]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 1) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g1__Q09
 parent: src_bocconi_finaleint_2009_g1
 competition: >-
@@ -40,6 +41,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma minima dei punti visibili sulle facce di un cubo 3x3x3 formato da 27 dadi.*
 
@@ -52,3 +55,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 90
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of points visible on the faces of a cube 3x3x3 made up of 27 dice.*
+
+> 9 - The DADI Cube (coefficient 9) A cube < MSK0/> is formed by assembling 27 identical dice. The faces of a dice carry all the digits from 1 to 6, and the sum of the points on two opposite faces is always 7. What is the minimum sum of all points visible on the surface of the cube?
+
+**Answer:** 90
+[[src_bocconi_finaleint_2009_g1__Q09]]

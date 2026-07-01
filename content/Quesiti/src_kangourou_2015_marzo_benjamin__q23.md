@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q23
 parent: src_kangourou_2015_marzo_benjamin
 competition: Kangourou 2015 gara 19 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale eliminare*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1AiqamuCK6oQtEOLFArlQVHEyWohLlfzH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>which should be deleted< MSK1/>
+
+![[src_kangourou_2015_marzo_benjamin__prob23.png]]
+
+> I want to cover a cube-shaped box with paper, no overlapping. So I drew on a piece of paper and cut out the figure you see here next to it (composed of squares all equal to each other and equal to the sides of the box), which I'll then fold along each side of the box into two squares. But by mistake, I drew 7 squares instead of 6. I must therefore remove one, but I want the paper not to break in two and in particular that there is no square connected only by one vertex to another. Which square can I delete? A) Only four. B) Only 7. C) Only 3 or 4. D) Only 3 or 7. E) Il 3, il 4 o il 7.
+
+**Answer:** D
+[[src_kangourou_2015_marzo_benjamin__Q23]]

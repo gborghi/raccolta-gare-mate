@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q09
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ways to start from city A and return after visiting some of 5 fully-connected cities*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I percorsi per partire dalla città A e tornare dopo aver visitato alcune delle 5 città interconnesse*
+
+> Ci sono cinque città su una determinata isola. Ogni città è collegata a tutte le altre città da una strada. In quanti modi una persona che parte dalla città $A$ può tornare a $A$ dopo aver visitato alcune città senza visitare una città più di una volta e senza prendere la stessa strada più di una volta? (Il ordine in cui visita le città è importante anche: ad esempio, le rotte $A \to B \to C \to A$ e $A \to C \to B \to A$ sono diverse.)
+
+[[src_prmo_2017__Q09]]

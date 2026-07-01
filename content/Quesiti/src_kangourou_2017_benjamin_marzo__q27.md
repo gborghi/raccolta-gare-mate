@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (gara marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q27
 parent: src_kangourou_2017_benjamin_marzo
 competition: Kangourou 2017 Benjamin (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo piastrelle da scambiare per simmetria 4 direzioni*
 
@@ -52,3 +55,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum tiles to be exchanged for 4-way symmetry*
+
+![[src_kangourou_2017_benjamin_marzo__prob27.png]]
+
+> The square floor in the figure is covered with triangular and square tiles, some grey, others white. What is the minimum number of gray tiles that is enough to swap places with white tiles if we want the decoration to look the same from each of the four highlighted directions? A) One triangle, one square B) One triangle, three squares C) Three triangles, one square D) Three triangles, three squares E) Three triangles, two squares
+>
+
+**Answer:** A
+[[src_kangourou_2017_benjamin_marzo__Q27]]

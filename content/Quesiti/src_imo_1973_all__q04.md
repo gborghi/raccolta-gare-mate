@@ -1,6 +1,7 @@
 ---
 title: IMO 1973 (Fifteenth International Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1973_all__Q04
 parent: src_imo_1973_all
 competition: IMO 1973 (Fifteenth International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Shortest mine-sweeping path in equilateral triangle*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_yg5ytepW4kPtXzf2MZzjG__z3aJ2dcR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shortest mine-sweeping path in an equilateral triangle*
+
+> A soldier must check for mines in an equilateral triangle region. The radius of action of its detector is half the height of the triangle. The soldier starts at the top of the triangle. What path must he follow to cover the shortest possible distance and still complete his mission?
+
+[[src_imo_1973_all__Q04]]

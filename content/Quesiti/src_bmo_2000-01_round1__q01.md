@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2000-01 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2000-01_round1__Q01
 parent: src_bmo_2000-01_round1
 competition: British Mathematical Olympiad 2000-01 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-digit N where digit-sum of 10^N minus 1 is divisible by 170*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N a due cifre in cui la somma di 10^N meno 1 è divisibile per 170*
+
+> Trova tutti i numeri interi a due cifre $N$ per i quali la somma dei numeri di $10^N - 1$ è divisibile da $170$.
+
+[[src_bmo_2000-01_round1__Q01]]

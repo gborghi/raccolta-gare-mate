@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q22
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo resto numero due cifre diviso somma sue cifre*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum remaining two digits divided by the sum of its digits
+
+> What is the largest remainder that can be obtained by dividing a two-digit number (a positive integer) by the sum of its digits? A) 13
+> 	
+> B) 14
+> 	
+> C) 15
+> 	
+> D) 16
+
+**Answer:** C
+[[src_kangourou_2016_junior_marzo__Q22]]

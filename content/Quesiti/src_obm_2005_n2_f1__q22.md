@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q22
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Line PQ tangent at N to circle through L,M,N; LM meets PQ at R; LM=LN, angle PNL=alpha<60; find angle LRP*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Linea PQ tangente a N per circolare attraverso L,M,N; LM incontra PQ a R; LM=LN, angolo PNL=alfa<60; trova angolo LRP*
+
+> Nella figura, la linea $PQ$ tocca a $N$ il cerchio che attraversa $L$, $M$ e $N$. La linea $LM$ taglia la linea $PQ$ a $R$. Se $LM=LN$ e la misura dell'angolo $PNL$ è $\alpha$, $\alpha<60^\circ$, qual è la misura dell'angolo $LRP$? A) $3\alpha-180^\circ$ \quad B) $180^\circ-2\alpha$ \quad C) $180^\circ-\alpha$ \quad D) $90^\circ-\alpha/2$ \quad E) $\alpha$
+
+![[src_obm_2005_n2_f1__Q22.png]]
+
+**Risposta:** B
+[[src_obm_2005_n2_f1__Q22]]

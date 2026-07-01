@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q23
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right triangle land divided by parallel wall, find BM length*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Terra triangolare retta divisa da parete parallele, trovare lunghezza BM*
+
+> Due fratelli hanno ereditato terra $ABC$ a forma di triangolo rettangolo con angolo retto a $A$ e con gamba $AB = 84\,\text{m}$. Hanno deciso di dividere il terreno in due parti di superficie uguale con un muro $MN$ parallelo a $AC$, come mostrato nella figura seguente. Selezionare l'opzione più vicina alla lunghezza del segmento $BM$.
+> 
+> A) 55 m^quad B) 57 m^quad C) 59 m^quad D) 61 m^quad E) 63 m
+
+![[src_obm_1999_n3_f1__Q23.png]]
+
+**Risposta:** C
+[[src_obm_1999_n3_f1__Q23]]

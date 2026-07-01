@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale nazionale Junior — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q06
 parent: src_kangourou_2019_junior_finale
 competition: Kangourou 2019 Finale nazionale Junior
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti n con [n/20]=[n/17]*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0056
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quantities n with [n/20]=[n/17]*
+
+> Three objects each weigh an integer of kilograms, but they weigh two to two different things. In total, they weigh 200 pounds. How many kilos can the lightest object weigh at most?
+>
+> - **(A)** 1
+> - **(B)** 30
+> - **(C)** 31
+> - **(D)** 32
+> - **(E)** 33
+
+**Answer:** 0056
+[[src_kangourou_2019_junior_finale__Q06]]

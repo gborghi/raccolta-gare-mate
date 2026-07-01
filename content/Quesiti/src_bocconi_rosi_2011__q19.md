@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q19
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nel mattoncino vuoto della piramide*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 42
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the empty brick of the pyramid*
+
+> In the pyramid you see in the figure, the other numbers (in addition to those already written) are placed so that the number in each brick is the sum of the numbers written in the two bricks that support it. **What number do you have to write on the empty tile at the bottom, so that the top tile actually writes 396? **
+
+![[src_bocconi_rosi_2011__Q19.png]]
+
+**Answer:** 42
+[[src_bocconi_rosi_2011__Q19]]

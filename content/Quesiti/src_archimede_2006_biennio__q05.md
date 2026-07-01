@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Biennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_biennio__Q05
 parent: src_archimede_2006_biennio
 competition: Giochi di Archimede 2006 - Gara Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle unita di 3 elevato al quadrato 2006 volte*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Unit number of 3 times higher than square 2006*
+
+> Simone writes on the board the number 3, then deletes it and replaces it with her square, 9, then deletes the 9 and replaces it with her square, 81. Repeat this operation for 2006 times in total: every time you replace the number written with its square. What is the unit number of the last written number?
+>
+> - **(A)** 1,
+> - **(B)** 3,
+> - **(C)** 5,
+> - **(D)** 7,
+> - **(E)** 9.
+
+**Answer:** A
+[[src_archimede_2006_biennio__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Semifinale A — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_a__Q14
 parent: src_kangourou_2013_squadre_a
 competition: Kangourou Coppa Squadre 2013 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero al 126-mo posto della sequenza di sole cifre pari*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2002
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number at 126th place in the sequence of single digits *
+
+> Only even digits From sequence 1, 2, 3, 4, 5, 6, of positive integers, eliminate all and only those to write which need to use at least one odd digit. You have two, four, six, eight, twenty, twenty-two. Which number is 126th in this new sequence?
+
+**Answer:** 2002
+[[src_kangourou_2013_squadre_a__Q14]]

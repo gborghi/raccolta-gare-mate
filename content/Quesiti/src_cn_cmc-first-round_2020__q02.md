@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2020 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2020__Q02
 parent: src_cn_cmc-first-round_2020
 competition: China Mathematical Competition (First Round) 2020
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ellipse endpoints and foci dot-product condition, find ratio*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{\sqrt{2}}{2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Punti finali dell'ellisse e punto foci condizione del prodotto, rapporto di ricerca< MSK1/>
+
+> (Paper A, parte I Q2) Nell'ellisse $\Gamma$, $A$ è un punto di fine dell'asse maggiore, $B$ è un punto di fine dell'asse minore e $F_1$, $F_2$ sono i foci. Se $\overrightarrow{AF_1} \cdot \overrightarrow{AF_2} + \overrightarrow{BF_1} \cdot \overrightarrow{BF_2} = 0$, il valore di $\dfrac{|AB|}{|F_1F_2|}$ è $\underline{\qquad}$.
+
+**Risposta:** \frac{\sqrt{2}}{2}
+[[src_cn_cmc-first-round_2020__Q02]]

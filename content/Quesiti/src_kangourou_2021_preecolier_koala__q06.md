@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q06
 parent: src_kangourou_2021_preecolier_koala
 competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *La torre piu alta tra cinque torri colorate*
 
@@ -43,3 +46,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The tallest of the five colorful towers.
+
+![[src_kangourou_2021_preecolier_koala__prob6.png]]
+
+> The pink tower is taller than the blue tower but lower than the green tower. The silver tower is taller than the green tower. What's the tallest tower?
+>
+> - **(A)** The pink tower.
+> - **(B)** The green tower.
+> - **(C)** The blue tower.
+> - **(D)** The silver tower.
+> - **(E)** It's impossible to decide.
+
+**Answer:** D
+[[src_kangourou_2021_preecolier_koala__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q24
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di gettoni nella scatola (cassetti)*
 
@@ -78,3 +81,23 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of tokens in the box (boxes) *
+
+> A box contains only green, red, blue and yellow tokens. However you fish out of the box • 27 tokens, there is always at least one green; • 25 tokens, there is always at least one red; • 22 tokens, there is always at least one blue; • 17 tokens, there is always at least one yellow. What's the maximum number of tokens a box could hold? A) 27
+> 	
+> B) 29
+> 	
+> C) 51
+> 	
+> D) 87
+> 	
+> E) 91 Colle Two sources Pollu D E C A B E D C A D C C B A D E A B B C D A E B C D C C D E A B D
+>
+
+**Answer:** B
+[[src_kangourou_2021_cadet__Q24]]

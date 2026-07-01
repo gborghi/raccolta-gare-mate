@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Biennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_biennio__Q10
 parent: src_archimede_2008_biennio
 competition: Giochi di Archimede 2008 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza ND dato area triangolo nel quadrato*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length ND given triangle area in square*
+
+> In a 1 cm side ABCD square, a point M on the BC side and a point N on the CD side are given such that BM = ND. It is also known that the area of the AMN triangle is 4/9 cm2. What is the length of the ND segment?
+>
+> - **(A)** 1 4 cm,
+> - **(B)** 1 3 cm,
+> - **(C)** 1 2 cm,
+> - **(D)** √ 5−1 2 cm,
+> - **(E)** √ 3 2 cm.
+
+**Answer:** B
+[[src_archimede_2008_biennio__Q10]]

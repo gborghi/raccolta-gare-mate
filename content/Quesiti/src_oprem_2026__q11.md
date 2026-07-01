@@ -1,6 +1,7 @@
 ---
 title: Olympiades Nationales de Mathématiques (Première) 2026 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_oprem_2026__Q11
 parent: src_oprem_2026
 competition: Olympiades Nationales de Mathématiques (Première) 2026
@@ -29,6 +30,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Exercise 2, Q5: sequence of iterates m, pi(m), pi(pi(m)),... for m=5 and m=11*
 
@@ -41,3 +44,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LLPTi5ufMEDVFp1I29WzXWLiM0F8_rKH/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esercizio 2, Q5: sequenza di iterazioni m, pi(m), pi(pi(m)),... per m=5 e m=11*
+
+> Esercizio 2 - Sequenza di iterazioni di $m$ da $n$. Per $m$ un intero naturale, si chiama la sequenza di iterazioni di $m$ da $n$ la sequenza di numeri formata da $m$; il numero di numeri primi inferiori o uguali a $m$; quindi il numero di numeri primi inferiori o uguali a quello; ecc. Così la sequenza di iterazioni di $m$ da $n$ viene scritta $(m;\ \pi(m);\ \pi(\pi(m));\ \pi(\pi(\pi(m)));\ \dots)$. (5) Calcolare i primi termini $7$ della sequenza di iterazioni di $m$ nel caso particolare in cui $m = 5$ e nel caso in cui $m = 11$.
+
+[[src_oprem_2026__Q11]]

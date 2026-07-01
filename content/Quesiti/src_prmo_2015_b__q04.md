@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_b__Q04
 parent: src_prmo_2015_b
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -31,6 +32,8 @@ tags:
   - regione/b
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Line segments with both endpoints at cube vertices; count*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 28
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*segmenti di linea con entrambi i punti di fine a vertici cubi; conteggio*
+
+> Quanti segmenti di linea hanno entrambi i loro punti di fine situati alle vertici di un determinato cubo?
+
+**Risposta:** 28
+[[src_prmo_2015_b__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2009-10 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2009-10_round2__Q02
 parent: src_bmo_2009-10_round2
 competition: British Mathematical Olympiad 2009-10 — Round 2
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove angle condition in triangle iff right angle at C*
 
@@ -44,3 +47,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z0AxOacaUmiq8Nh603s8l69kewEVc8n7/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prova la condizione angolare in triangolo se angolo retto a C*
+
+> Nel triangolo $ABC$, il centroide è $G$ e $D$ è il punto medio di $CA$. La linea attraverso $G$ parallela a $BC$ incontra $AB$ a $E$. Prova che $\angle AEC = \angle DGC$ se e solo se $\angle ACB = 90^\circ$.
+
+[[src_bmo_2009-10_round2__Q02]]

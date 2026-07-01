@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n2_f2__Q03
 parent: src_obm_1999_n2_f2
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square ABCD with points M,N,P,Q on the sides so the circumcircles of triangles MBN and PDQ are externally tangent; prove MN + PQ >= AC.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1psURjkFuMxj9RH-TjdKiYCVL0r6_oiLW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrato con punti M,N,P,Q sui lati in modo che i circoncircoli dei triangoli MBN e PDQ siano tangenti esternamente; dimostrare MN + PQ >= AC.*
+
+> Lasciate che $ABCD$ sia quadrato. Scegliamo i punti $M$, $N$, $P$, $Q$ rispettivamente su $AB$, $BC$, $CD$ e $DA$, in modo tale che i cerchi circumscritti dei triangoli $MBN$ e $PDQ$ siano tangenti esternamente. Prova che < MSK11/>.
+
+[[src_obm_1999_n2_f2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q03
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -35,6 +36,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer-sided rectangle area 20; minimum perimeter*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 18
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*area rettangolare laterale integrale 20; perimetro minimo*
+
+> L'area di un rettangolo a lato intero è 20. Qual è il valore minimo possibile del suo perimetro?
+
+**Risposta:** 18
+[[src_ioqm_2025_sep07__Q03]]

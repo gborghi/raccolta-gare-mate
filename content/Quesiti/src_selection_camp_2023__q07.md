@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2023 — Selection Camp — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2023__Q07
 parent: src_selection_camp_2023
 competition: Japan IMO Selection Camp 2023 — Selection Camp
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max C with bounded partial sums of good +-1 sequence of length 2022*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FdIyFu7hmN1-pD181OvfX4NVfhuNrTpE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Max C con somme parziali limitate di una buona sequenza +-1 di lunghezza 2022*
+
+> Chiamare una sequenza di termini $2022$, ognuno dei quali è $1$ o $-1$, una buona sequenza. Trova il numero intero più grande $C$ che soddisfa la seguente condizione per ogni buona sequenza $a_1, a_2, \dots, a_{2022}$:
+> 
+> Esistono un intero $k \ge 2$ e un intero $t_1, t_2, \dots, t_k$ con $1 \le t_1 < t_2 < \cdots < t_k \le 2022$ in modo tale che $t_{i+1} - t_i \le 2$ per ogni intero $i$ con $1 \le i \le k-1$, e inoltre $\left| \sum_{i=1}^{k} a_{t_i} \right| \ge C$.
+
+[[src_selection_camp_2023__Q07]]

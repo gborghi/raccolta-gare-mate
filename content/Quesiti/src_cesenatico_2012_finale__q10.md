@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_finale__Q10
 parent: src_cesenatico_2012_finale
 competition: Gara a Squadre Cesenatico 2012 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo cavalieri tra abitanti (affermazioni)*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8112
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum of knights among inhabitants (statements) *
+
+> Number of numbers that appear at least twice as answers, decreased by 3. In the solution provide the answers to questions 2, 4, 9 and 10 in order
+
+**Answer:** 8112
+[[src_cesenatico_2012_finale__Q10]]

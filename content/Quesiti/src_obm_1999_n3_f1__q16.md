@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q16
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of region bounded by two chords and arc in unit circle*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di regione dilimitata da due accordi e arco in un cerchio unitario*
+
+> In un cerchio di raggio 1, l'arc $AB$ misura $70^\circ$ e l'arc $BC$ misura $40^\circ$. L'area della regione delimitata da accordi $AB$ e $AC$ e da archi $BC$ è:
+> 
+> A) $\pi/8$ \quad B) $\pi/9$ \quad C) $\pi/10$ \quad D) $\pi/12$ \quad E) $\pi/14$
+
+**Risposta:** B
+[[src_obm_1999_n3_f1__Q16]]

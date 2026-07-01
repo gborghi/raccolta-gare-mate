@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f1__Q17
 parent: src_obm_2005_n3_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ratio a/b of two gray areas in a configuration of equal circles with centers at a square's vertices*
 
@@ -46,3 +49,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ratio a/b di due aree grigie in una configurazione di cerchi uguali con centri alle vertici di un quadrato*
+
+> Nella figura, i cerchi hanno lo stesso raggio $r$ e i loro centri sono vertici di un quadrato. I cerchi toccano un cerchio di raggio maggiore il cui centro è al centro del quadrato, che ha vertici a... Le aree grigie indicate nella figura sono $a$ e $b$. Il rapporto $\dfrac{a}{b}$ è quindi uguale a: (A) $\dfrac{1}{2}$ (B) $\dfrac{2}{3}$ (C) $1$ (D) $\dfrac{3}{2}$ (E) $2$
+
+![[src_obm_2005_n3_f1__Q17.png]]
+
+[[src_obm_2005_n3_f1__Q17]]

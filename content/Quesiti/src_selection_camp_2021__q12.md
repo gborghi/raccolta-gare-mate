@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2021 — Selection Camp — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2021__Q12
 parent: src_selection_camp_2021
 competition: Japan IMO Selection Camp 2021 — Selection Camp
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation on the integers using iterates of f*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale sui numeri interi utilizzando iterazioni di f*
+
+> Trova tutte le funzioni $f$ definite sui numeri interi e prendi valori di numeri interi in modo tale che, per tutti i numeri interi $a$ e $b$, $$f^{\,a^2 + b^2}(a + b) = a f(a) + b f(b).$$ Qui $f^0(n) = n$, e per un intero positivo $k$, $f^k(n) = f\bigl(f^{k-1}(n)\bigr)$.
+
+[[src_selection_camp_2021__Q12]]

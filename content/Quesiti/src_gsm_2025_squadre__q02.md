@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2025_squadre__Q02
 parent: src_gsm_2025_squadre
 competition: Gara a Squadre Miste GSM (locale Genova) 2025
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero all'inizio della 97-esima riga di dispari*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0000
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number at the beginning of the 97th row of odd numbers*
+
+> Schema Sandro Campigotto Write the odd numbers according to the following scheme: in the first line write the number 1; in the second line write the next two odd numbers 3 and 5; in the third the next three odd numbers 7, 9 and 11, and so on. What number do you write at the beginning of the 97th line? : 9313
+
+**Answer:** 0000
+[[src_gsm_2025_squadre__Q02]]

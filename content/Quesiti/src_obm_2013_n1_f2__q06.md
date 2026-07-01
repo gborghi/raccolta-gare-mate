@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f2__Q06
 parent: src_obm_2013_n1_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Erase integers 1–1000 two by two starting from second; count students*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17gHLbuwBmRC6ZXa79G1xGfj2of92H34w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sbarazzare i numeri interi 11000 due a due a partire dal secondo; contare gli studenti*
+
+> L'insegnante Maria scrisse sulla lavagna tutti gli enti da $1$ a $1000$. Ha chiamato uno studente e gli ha chiesto di cancellare i numeri a partire dal secondo, cancellare ogni altro numero (cioè, cancellare il 2 °, 4 °, 6 °, < MSK2/>). Poi chiese al prossimo studente di fare lo stesso con i numeri rimanenti (a partire dal secondo numero rimanente, cancellare tutti gli altri), e così via. Quanti studenti sono andati alla lavagna?
+
+[[src_obm_2013_n1_f2__Q06]]

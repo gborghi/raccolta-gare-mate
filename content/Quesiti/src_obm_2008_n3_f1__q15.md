@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q15
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cards: a square design in 5 regions painted with 5 colors; count distinct under rotation*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Carte: un disegno quadrato in 5 regioni dipinte con 5 colori; conteggio distinto in rotazione*
+
+> Soninha ha molte carte, tutte con lo stesso disegno su una delle facce. Userà cinque colori diversi (verde, gialle, blu, rosso e arancione) per dipingere ciascuna delle cinque parti del disegno, ciascuna parte con un colore diverso, in modo tale che nessuna delle due carte sia uguale. Come mostra la figura seguente, ad esempio, due carte sono considerate uguali, poiché una di esse può essere girata per ottenere l'altra. Quante carte diverse può produrre Soninha?
+> 
+> (A) $16$ (B) $25$ (C) $30$ (D) $60$ (E) $120$
+
+![[src_obm_2008_n3_f1__Q15.png]]
+
+[[src_obm_2008_n3_f1__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo22yqa_yosen__Q08
 parent: src_jjmo22yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to fill 2024x2024 grid with J,M,O under two conditions*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $3 \cdot 2^{1013} - 6$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MpOoffmNfAlSJnrNvYxGLF27kPgwbEmW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i modi per riempire la griglia 2024x2024 con J,M,O in due condizioni*
+
+> Trovare il numero di modi per riempire ogni cella di una griglia $2024 \times 2024$ con una delle lettere J, M, O in modo tale che soddisfino entrambe le seguenti condizioni:
+> 
+> - Ogni < MSK0/> sottogrid contiene esattamente < MSK1/> copie di J, < MSK2/> copia di M e < MSK3/> copia di O. - Ogni cella di una riga a numeri odd (conteggiata dall'alto) e di una colonna a numeri odd (conteggiata dalla sinistra) contiene la lettera J.
+> 
+> (I dispositivi che coincidono dopo la rotazione o la riflessione sono considerati come distinti.)
+
+**Risposta:** 3 \cdot 2^{1013} - 6
+[[src_jjmo22yqa_yosen__Q08]]

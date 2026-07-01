@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Student (marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q13
 parent: src_kangourou_2007_student_marzo
 competition: Kangourou 2007 Student (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Relazione tra angolo gamma e alfa (percentuali)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Relation between gamma and alpha angles (percent) *
+
+> The measure of angle β is 25% less than the measure of angle γ and 50% more than the measure of angle α. We can deduce that the angle γ is A. 25% more than α B. 50% more than α C. 75% more than α D. 100% more than α E. 125% more than α
+
+**Answer:** D
+[[src_kangourou_2007_student_marzo__Q13]]

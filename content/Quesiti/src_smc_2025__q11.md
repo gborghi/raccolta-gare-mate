@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2025 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2025__Q11
 parent: src_smc_2025
 competition: Senior Mathematical Challenge 2025
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right-angled triangle PQR with angle PQR = 90°, PQ = 20, PR = 25; M on PR; N on QR; find MN where triangle PQM area is half PQR.*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12-dj3d22Z36xVjj2iXkQqrnPeF3AXFY1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*PQR triangolare rettangolare con angolo PQR = 90°, PQ = 20, PR = 25; M su PR; N su QR; trovare MN dove la superficie del triangolo PQM è metà PQR.*
+
+> Il diagramma mostra un triangolo $PQR$ con $\angle PQR = 90^\circ$, $PQ = 20$ e $PR = 25$. Il punto $M$ si trova su $PR$ in modo tale che $QM$ sia un triangolo rettangolare la cui superficie è metà di quella del triangolo $PQR$. Qual è la lunghezza di < MSK8/>?
+>
+> - **(A)** $4\sqrt{2}$
+> - **(B)** $\frac{15}{\sqrt{2}}$
+> - **(C)** $8\sqrt{2}$
+> - **(D)** $\frac{17}{\sqrt{2}}$
+> - **(E)** $10\sqrt{2}$
+
+![[src_smc_2025__Q11.png]]
+
+**Risposta:** B
+[[src_smc_2025__Q11]]

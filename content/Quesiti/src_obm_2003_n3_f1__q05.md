@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q05
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Estimate order of magnitude of Earth's volume in cubic meters*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ordine di magnitudo stimato del volume terrestre in metri cubi*
+
+> La Rivoluzione francese del 1789 portò molti cambiamenti all'umanità. Nel 1791, dopo la Rivoluzione francese, l'Accademia delle Scienze propose un nuovo sistema di misure basato su un'unità naturale di lunghezza chiamata metro, definita come un decimo milione della distanza dal Polo Nord all'Equatore lungo il meridiano che attraversa Parigi. Questo sistema fu adottato effettivamente nel 1795. La definizione attuale del contatore differisce leggermente, ma il valore è approssimativamente lo stesso.
+> 
+> Considerando che il raggio della Terra è dell'ordine di $10^7$ metri, qual è l'ordine di grandezza del volume $V$ della Terra, in metri cubi, utilizzando la formula $$V = \frac{4}{3}\pi R^3,$$ dove $R$ è il raggio della Terra?
+> 
+> A) $10^{10}$ \quad B) $10^{21}$ \quad C) $10^{26}$ \quad D) $10^{21}$ \quad E) $10^{36}$
+
+**Risposta:** B
+[[src_obm_2003_n3_f1__Q05]]

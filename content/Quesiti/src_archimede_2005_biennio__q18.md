@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Biennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_biennio__Q18
 parent: src_archimede_2005_biennio
 competition: Giochi di Archimede 2005 - Gara Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Impiegati bilingui inglese e tedesco*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+English and German bilingual employees
+
+> In a large office there are 84 employees, each of whom speaks at least one language between English and German; in addition, 20% of those who speak English also speak German, and 80% of those who speak German also speak English. How many employees in that office know both languages?
+>
+> - **(A)** 12,
+> - **(B)** 14,
+> - **(C)** 15,
+> - **(D)** 16,
+> - **(E)** 18.
+
+**Answer:** D
+[[src_archimede_2005_biennio__Q18]]

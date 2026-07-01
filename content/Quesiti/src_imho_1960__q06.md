@@ -1,6 +1,7 @@
 ---
 title: IMO 1960 (II International Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1960__Q06
 parent: src_imho_1960
 competition: IMO 1960 (II International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cono con sfera inscritta e cilindro circoscritto, k minimo*
 
@@ -40,3 +43,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1KV_5TZmWn2knHcJ1bIN1arXTCbLCraQd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cone with inscribed sphere and circumscribed cylinder, minimum k*
+
+> Consider a rotating cone with a tangent inscribed sphere at the base of the cone. A cylinder is surrounded by this sphere so that one of its bases lies at the base of the cone. Both $V_1$ the cone volume and $V_2$ the cylinder volume.
+> 
+> (a) Demonstrate that < MSK0/>.
+> 
+> (b) Find the smallest number $k$ for which $V_1 = k V_2$; in this case, construct the angle below a diameter of the base of the cone to the top of the cone.
+
+[[src_imho_1960__Q06]]

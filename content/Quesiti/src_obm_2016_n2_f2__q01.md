@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f2__Q01
 parent: src_obm_2016_n2_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle AEG in regular pentagon with adjacent equilateral triangle*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pMNbGFlrYDlG-OKHRMZRxFDZCNFl1iD6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo AEG in pentagono regolare con triangolo equilaterale adiacente*
+
+> Nella figura seguente, $ABCDE$ è un pentagono regolare e $EFG$ è un triangolo equilaterale. Determinare la misura, in gradi, dell'angolo $A\widehat{E}G$.
+
+![[src_obm_2016_n2_f2__Q01.png]]
+
+[[src_obm_2016_n2_f2__Q01]]

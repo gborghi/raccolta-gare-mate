@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (semifinale individuale) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_semifinale__Q18
 parent: src_kangourou_2017_benjamin_semifinale
 competition: Kangourou 2017 Benjamin (semifinale individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di condotti della piscina dati tempi di riempimento*
 
@@ -72,3 +75,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 60
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uSb-8ZS0ZxgQE-rDkGuF4RrLMjBY_qKl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of pool pipes data filling times*
+
+> (Points 8) A swimming pool is powered by various pipes. If the pool is empty and everyone is open, the pool fills up in an hour. If, in an empty pool, everyone opens and closes after 10 minutes, it takes 10 more minutes to recall the pool. How many pipes does the pool have? 1 2 3 4
+> 
+> Question No. The Commission shall adopt delegated acts in accordance with the opinion of the Committee on Budgetary Control and the opinion of the Committee on Budgetary Control.
+
+**Answer:** 60
+[[src_kangourou_2017_benjamin_semifinale__Q18]]

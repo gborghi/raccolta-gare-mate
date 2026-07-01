@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f3__Q03
 parent: src_obm_2002_n3_f3
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number cells of m×n grid so adjacent cells in rows i and i+1 share a common side*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1P0nci9SiA7xXrHnMSEaRv6-dmdjZQyLj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di celle della griglia m×n in modo che le celle adiacenti nelle righe i e i+1 condividano un lato comune*
+
+> Numeriamo le cellule di una scheda quadrillare di $m \times n$, dove $m, n \ge 2$, con i numeri interi $1, 2, 3, \ldots, mn$ in modo tale che, per ogni $t \le mn - 1$, le cellule $t$ e $t+1$ abbiano almeno un lato in comune. Indicare che esiste una $i \le mn - 3$ tale che le celle $i$ e $i + 3$ abbiano almeno un lato in comune.
+
+[[src_obm_2002_n3_f3__Q03]]

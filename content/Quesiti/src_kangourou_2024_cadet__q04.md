@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q04
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale pentagono lascia due curve chiuse nere*
 
@@ -50,3 +53,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which pentagon leaves two black closed curves *
+
+![[src_kangourou_2024_cadet__prob4.png]]
+
+> Look at the figure: seven congruent pentagons, each with two inner 90-degree angles, contour an eighth white pentagon, congruent to the previous ones. Which of the following pentagons can be replaced with the white one (perhaps by rotating it, but not by flipping it) so that two closed curves remain drawn in black? A)
+>  
+> B)
+>  
+> C)
+>  
+> D)
+>  
+> E)
+
+**Answer:** C
+[[src_kangourou_2024_cadet__Q04]]

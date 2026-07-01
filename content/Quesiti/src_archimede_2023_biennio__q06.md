@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2023 - Gara Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_biennio__Q06
 parent: src_archimede_2023_biennio
 competition: Giochi di Archimede 2023 - Gara Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante affermazioni su potenze di 2 sono vere*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cdaCakhnUhZtz4LlgOmVvJJRpalObqKb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many statements on powers of 2 are true< MSK1/>
+
+> Given the numbers x = 2(46) and y = 2(65), consider the following 4 statements: (1) x is a perfect square; (2) x is a divisor of y; (3) y is a perfect square; (4) y is a perfect cube. Of the four above statements, how many are true?
+>
+> - **(A)** Only three
+> - **(B)** All four .
+> - **(C)** Only two
+> - **(D)** only 1
+> - **(E)** None of them.
+
+**Answer:** B
+[[src_archimede_2023_biennio__Q06]]

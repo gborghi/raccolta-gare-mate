@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2017 Finale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_ecolier_f__Q08
 parent: src_kangourou_2017_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2017 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Monete nel salvadanaio per completare le figure quadrate*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 119
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IJqZsaUfzs0wr_U-Pv4daYZf8zH4Z68A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Coins in the savings bank to complete the square figures*
+
+![[src_kangourou_2017_squadre_ecolier_f__prob8.png]]
+
+> The coins After breaking the salvadanaio, Renato disposes the 1 euro coins following the pattern illustrated by the drawing, that is, so as to draw a square with a coin in the center. If he still has exactly enough coins to complete the next three figures, how many 1 euro coins are in Renato's savings bank?
+
+**Answer:** 119
+[[src_kangourou_2017_squadre_ecolier_f__Q08]]

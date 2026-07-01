@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Finale Benjamin (Mirabilandia) — Quesito B1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin_finale__QB1
 parent: src_kangourou_2012_benjamin_finale
 competition: Kangourou 2012 Finale Benjamin (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *A che ora e stata scattata la foto con quattro orologi*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5:05
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eLf47f3d8Db-7K_kEX8gK_re-YyqV8TZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What time was the photo taken with four watches*
+
+> In one photograph, four clocks appear: one marks 4:45, another 5:05, another at 5:25, and the last at 5:40. We know that when the photo was taken, two of them were still, while the other two were marking at the right speed, but one was 20 minutes ahead and the other was 20 minutes behind. What time was the photo taken?
+
+**Answer:** 5:05
+[[src_kangourou_2012_benjamin_finale__QB1]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1999 - Biennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_biennio__Q01
 parent: src_archimede_1999_biennio
 competition: Giochi di Archimede 1999 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione dei non promossi rispetto alla classe*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Fraction of non-promoted in relation to class< MSK1/>
+
+> The 45 pupils in a class were promoted without training debts. Knowing that pupils promoted with educational debt are 16 of those promoted without debt, the fraction of those not promoted (compared to the whole class)
+>
+> - **(A)** è 1 8
+> - **(B)** è 1 10
+> - **(C)** è 1 12
+> - **(D)** è 1 15
+> - **(E)** It's not determinable.
+
+**Answer:** D
+[[src_archimede_1999_biennio__Q01]]

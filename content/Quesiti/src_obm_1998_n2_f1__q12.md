@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f1__Q12
 parent: src_obm_1998_n2_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum string length to tie 15 packages*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Lunghezza minima della corda per legare 15 confezioni< MSK1/>
+
+> Qual è il numero minimo di metri di corda necessari per legare 15 imballaggi, dato che ogni imballaggio misura $10\,\mathrm{cm} \times 20\,\mathrm{cm} \times 40\,\mathrm{cm}$ e 20 cm di corda sono riservati per l'arco?
+> 
+> A) 39 B) 36 C) 48 D) 56 E) 42
+
+![[src_obm_1998_n2_f1__Q12.png]]
+
+**Risposta:** B
+[[src_obm_1998_n2_f1__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_triennio_rec__Q07
 parent: src_archimede_2024_triennio_rec
 competition: Giochi di Archimede 2024 - Gara Triennio (riserva)
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di H per somma telescopica di radici razionalizzate*
 
@@ -70,3 +73,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*H value for telescopic sum of rationalized roots*
+
+> Consider the number H = 1 √ 47 + √ 45 + 1 √ 45 + √ 43 + 1 √ 43 + √ 41 + 1 √ 41 + √ 39 What is the value of H· √ 47 + √ 39 ?
+>
+> - **(A)** 15/4
+> - **(B)** 7/2
+> - **(C)** 4
+> - **(D)** 17/4
+> - **(E)** 9/2
+
+[[src_archimede_2024_triennio_rec__Q07]]

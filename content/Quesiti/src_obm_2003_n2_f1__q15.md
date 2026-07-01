@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f1__Q15
 parent: src_obm_2003_n2_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Logic puzzle: KAB or BAK means yes in Lucianês; what can be deduced*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Puzzle logico: KAB o BAK significa sì in lucianês; cosa si può dedurre*
+
+> Sei in un paese straniero, LUCIANÊS, e non conosci la lingua. Sapete che le parole "BAK" e "KAB" significano *sì* o *no* (uno ciascuno), ma non sapete quale è quale. Incontri una persona che capisce il portoghese e il lucianês e chiedi: "KAB significa *sì*?" La persona dà una risposta di una parola. Basandosi solo sulla loro risposta, si può dedurre:
+>
+> - **(A)** KAB significa *sì*.
+> - **(B)** KAB significa *no*.
+> - **(C)** La persona che ha risposto ha mentito.
+> - **(D)** La persona che ha risposto ha detto la verità.
+> - **(E)** È impossibile determinare senza un dizionario LucianêsPortuguese.
+
+**Risposta:** C
+[[src_obm_2003_n2_f1__Q15]]

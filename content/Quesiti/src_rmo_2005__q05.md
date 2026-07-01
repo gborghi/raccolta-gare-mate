@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2005 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2005__Q05
 parent: src_rmo_2005
 competition: Regional Mathematical Olympiad 2005
@@ -31,6 +32,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with midpoint of BC and two given angles; find angle BAD*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14uHfQGAx1Ql7Gxjfhz36KBTCxECJwRQt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con punto medio di BC e due angoli dati; trovare angolo BAD*
+
+> Nel triangolo $ABC$, $D$ sia il punto medio di $BC$. Se $\angle ACD = 45^\circ$ e $\angle ADC = 30^\circ$, determinare $\angle BAD$.
+
+![[src_rmo_2005__Q05.png]]
+
+[[src_rmo_2005__Q05]]

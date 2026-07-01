@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 2) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g2__Q01
 parent: src_bocconi_finaleint_2011_g2
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Monete testa e croce: colorare quelle con la croce*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Le monete con la croce sono quelle indicate nella figura della soluzione (4 monete colorate in grigio).
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Head and cross coins: colour those with the cross
+
+> The figure represents the coins of which the head or the cross is seen. On each coin is written the number of coins touching the one of which you see the cross. Color all the coins on the cross.
+
+![[src_bocconi_finaleint_2011_g2__Q01.png]]
+
+**Answer:** Le monete con la croce sono quelle indicate nella figura della soluzione (4 monete colorate in grigio).
+[[src_bocconi_finaleint_2011_g2__Q01]]

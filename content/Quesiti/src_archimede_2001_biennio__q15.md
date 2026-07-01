@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Biennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_biennio__Q15
 parent: src_archimede_2001_biennio
 competition: Giochi di Archimede 2001 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita somma 13 con due dadi a dodici facce*
 
@@ -43,3 +46,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15IBgfl7GAsJGqi_MCOVW5U5tuBXGW2je/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability sum 13 with two 12-sided dice< MSK1/>
+
+> If two regular dice with twelve faces, numbered 1 to 12, are thrown, the probability that the sum of the face values is 13 is:
+>
+> - **(A)** 1 24
+> - **(B)** 1 12
+> - **(C)** 13 144
+> - **(D)** 1 6
+> - **(E)** 13 72.
+
+[[src_archimede_2001_biennio__Q15]]

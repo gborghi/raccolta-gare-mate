@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1999 - Triennio — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_triennio__Q01
 parent: src_archimede_1999_triennio
 competition: Giochi di Archimede 1999 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro di un frutteto rettangolare con 35 alberi*
 
@@ -65,3 +68,39 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of a rectangular fruit tree with 35 trees*
+
+![[src_archimede_1999_triennio__prob1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \foreach \y in {0,1,2,3,4} {
+    \fill (0,\y) circle (2.2pt);
+    \fill (1,\y) circle (2.2pt);
+    \fill (4,\y) circle (2.2pt);
+  }
+  \foreach \y in {0,4} { \node at (2.5,\y) {$\cdots$}; }
+  \node[above left] at (0,4) {$D$};
+  \node[above right] at (4,4) {$C$};
+  \node[below left] at (0,0) {$A$};
+  \node[below right] at (4,0) {$B$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In a rectangular orchard there is a tree every 4 meters (as shown in the figure). Knowing that there are 35 trees, what is the perimeter of the rectangle that has the points of vertices where there are trees A, B, C, D?
+>
+> - **(A)** 70
+> - **(B)** 80
+> - **(C)** 96
+> - **(D)** 140
+> - **(E)** It cannot be determined uniquely. b A b b b b b B b b b b b b b b b b b b b b b b D b b C b b b
+
+**Answer:** C
+[[src_archimede_1999_triennio__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Triennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_triennio__Q04
 parent: src_archimede_2016_triennio
 competition: Giochi di Archimede 2016 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *chi vince*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The winner of the contest
+
+> Alberto, Barbara, Carlo and Daria are playing a game. At the beginning, with a lottery, each is assigned a number: to Alberto 2101 + 2121 + 2180, to Barbara 2100 + 2202 + 2400, to Carlo 2101 + 2109, to Daria 2100 + 2108. Then several rounds are played: in each round, each player halves their number (if it is even), or exits the game (if it is odd). The winner is the last person out of the game (most players may win ex aequo). Who will win the challenge?
+>
+> - **(A)** It 's only Alberto .
+> - **(B)** Albert and Charles
+> - **(C)** Just Barbara .
+> - **(D)** Charles and Daria
+> - **(E)** Barbara and Daria
+
+**Answer:** B
+[[src_archimede_2016_triennio__Q04]]

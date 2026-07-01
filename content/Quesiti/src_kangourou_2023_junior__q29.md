@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q29
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *perimetro totale*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*total perimeter*
+
+![[src_kangourou_2023_junior__prob29.png]]
+
+> The figure shows the pattern of the division of a large park into zones. The number within each zone indicates the length of the perimeter in kilometres. How many kilometers is the perimeter of the park? A) 22
+> 	
+> B) 26
+> 	
+> C) 30
+> 	
+> D) 32
+> 	
+> E) 34
+
+**Answer:** B
+[[src_kangourou_2023_junior__Q29]]

@@ -1,6 +1,7 @@
 ---
 title: XXII Olimpiade Italiana Cesenatico 2006 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006__Q06
 parent: src_cesenatico_2006
 competition: XXII Olimpiade Italiana Cesenatico 2006
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Gioco di Alberto e Barbara con gettoni e strategia vincente*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** dimostrata strategia vincente
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1a5Lshf2bV_5u5VJu3USrqJtBqyLicefL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Game by Alberto and Barbara with tokens and winning strategy
+
+> Consider the following game: initially on a table there are some stacks of chips (the number of chips can vary from stack to stack). In turn, starting from Alberto, one of the two players makes one and only one of the following moves:
+> 
+> - or divide a stack into two smaller stacks, each of at least one token (without adding or removing tokens from the table).
+> 
+> Whoever takes the last token off the table wins. Determine, depending on the number of stacks on the table at the beginning and how many chips they contain, which of the two players has a winning strategy.
+> 
+> It is $C_0, C_1, C_2, \ldots$ the battery combinations present at the beginning of the game, after the first move, after the second move, and so on. For each $C_i$ combination, $s_i$ shall be the number of batteries with a token number $a_1, a_2, \ldots, a_k$ greater than 1 and $e_i$ the number of batteries with a single token. It is either < MSK5/>. Demonstrate that Barbara has a winning strategy if $m_0$ and $s_0$ are both equal and that Alberto has a winning strategy in all other cases. The winning strategy is to leave the opponent with a combination $C_i$ at each move such that $m_i$ and $s_i$ are both equal.
+
+**Answer:** dimostrata strategia vincente
+[[src_cesenatico_2006__Q06]]

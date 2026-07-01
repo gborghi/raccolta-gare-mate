@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo32ya_yosen__Q04
 parent: src_jmo32ya_yosen
 competition: Japan Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of triangle in convex quadrilateral with two perpendicularity conditions*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\dfrac{245}{6}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di triangolo in quadrilaterale converso con due condizioni di perpendicularità*
+
+> Che $ABCD$ sia un quadrilaterale convex e che $P$ sia un punto interno tale che $AP \perp AD$ e $BP \perp CD$. Date $AB = 7$, $AP = 3$, $BP = 6$, $AD = 5$ e $CD = 10$, si trova l'area del triangolo $ABC$.
+
+**Risposta:** \dfrac{245}{6}
+[[src_jmo32ya_yosen__Q04]]

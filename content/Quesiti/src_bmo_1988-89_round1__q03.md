@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1988-89 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1988-89_round1__Q03
 parent: src_bmo_1988-89_round1
 competition: British Mathematical Olympiad 1988-89 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Express area of triangle ABC in terms of areas of triangles OBC, OCA, OAB*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtANadUPYkflJ9hrInluoFZeqymzrG0D/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Espresso la superficie del triangolo ABC in termini di aree dei triangoli OBC, OCA, OAB*
+
+> $OA$, $OB$, $OC$ sono linee reciprocamente perpendicolari. Esprimere l'area del triangolo $ABC$ in termini di aree dei triangoli $OBC$, $OCA$, $OAB$.
+
+[[src_bmo_1988-89_round1__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q15
 parent: src_cesenatico_2005_squadre_finale
 competition: Gara a Squadre Cesenatico 2005 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Calcolo 3F3+4F4+... per poliedro con 2005 spigoli*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 4010
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Calculation 3F3+4F4+ for polyethylene with 2005 pins*
+
+> The gem of Oseen The gem of Oseen, recently discovered by the renowned archaeologist Polinomia Jones, has the shape of a polyester with 2005 spikes. Whether F3 the number of triangular faces of the gem, F4 the number of quadriangular faces, etc. Calculate 3F3 + 4F4 +...
+
+**Answer:** 4010
+[[src_cesenatico_2005_squadre_finale__Q15]]

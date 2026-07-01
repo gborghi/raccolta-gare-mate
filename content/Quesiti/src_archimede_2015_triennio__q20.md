@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2015 - Triennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_triennio__Q20
 parent: src_archimede_2015_triennio
 competition: Giochi di Archimede 2015 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero scelte*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*number of choices*
+
+> Seven friends are all dining around a table. Somebody's got to go make the dessert. The rule in the committee is that no pair of people sitting next to each other can ever get up at the same time. In how many ways can the group (of one or more people) in charge of the dessert be chosen?
+>
+> - **(A)** 29
+> - **(B)** 27
+> - **(C)** 21
+> - **(D)** 28
+> - **(E)** 24 T2 Italian Mathematical Union PROJECT OLIMPIADI OF MATHEMATICS Ministry of Education, University and Research Higher Normal School The Games of Archimedes - Race Triennio 25 November 2015 • The test consists of 20 questions; each question is followed by five answers indicated by the letters (A), (B), (C), (D) and (E). • Only one of these answers is correct, the other four are wrong. Every correct answer is worth 5 points, every wrong answer is worth 0 points, every problem left unanswered is worth 1 point. • For each problem, you must transcribe the letter corresponding to the answer you think is correct in the grid below. Cancellations or corrections on the grid are not permitted. The use of any kind of calculator or communication tool shall not be permitted. The time you have to do the test is two hours. Good work and good fun! Name of the class: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+**Answer:** D
+[[src_archimede_2015_triennio__Q20]]

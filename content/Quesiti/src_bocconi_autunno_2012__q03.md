@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2012 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2012__Q03
 parent: src_bocconi_autunno_2012
 competition: Giochi d'Autunno 2012
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prima data successiva al 20-12-2012 con stesse cifre*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 21-01-2101
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NV-k_HLPNGANyAIvy1osIKx3v70VuvCV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First date after 20-12-2012 with the same figures*
+
+> January 13, 2012 is written as January 13, 2012. Ilaria finds it more interesting on 20 December 2012 that it is written as 20.12.2012, with the four digits repeating in the same order. What will be the first date after 20 December 2012 to be written with the four digits repeating the same order?
+
+**Answer:** 21-01-2101
+[[src_bocconi_autunno_2012__Q03]]

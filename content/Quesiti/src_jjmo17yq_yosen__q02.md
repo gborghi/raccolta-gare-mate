@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo17yq_yosen__Q02
 parent: src_jjmo17yq_yosen
 competition: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest 'this-year number' divisible by 17*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1615
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YyPhdRC8ta06c--Y1mxGSGuS4yujWAKb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più piccolo "numero di quest'anno" divisibile per 17*
+
+> Un numero ottenuto scrivendo due numeri interi positivi che differiscono di $1$ fianco a fianco in ordine decrescente è chiamato "numero di quest'anno". Ad esempio, scrivendo $20$ e $19$ si dà $2019$, che è un numero di quest'anno. Trova il numero più piccolo di quest'anno divisibile per $17$.
+
+**Risposta:** 1615
+[[src_jjmo17yq_yosen__Q02]]

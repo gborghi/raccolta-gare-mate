@@ -1,6 +1,7 @@
 ---
 title: IMO 1974 (Sixteenth International Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1974_all__Q02
 parent: src_imo_1974_all
 competition: IMO 1974 (Sixteenth International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Point D with CD geometric mean iff sinA sinB<=sin^2(C/2)*
 
@@ -36,3 +39,13 @@ tags:
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ACFCBvrrfqG6JOnEG-BReTLXCAPT66nK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Point D with CD geometric mean iff sinA sinB<=sin^2(C/2) < MSK1/>
+
+> In the $ABC$ triangle, prove that there is a point $D$ on the $AB$ side such that $CD$ is the geometric mean of $AD$ and $DB$ if and only if $$\sin A \sin B \leq \sin^2 \frac{C}{2}.$$
+
+[[src_imo_1974_all__Q02]]

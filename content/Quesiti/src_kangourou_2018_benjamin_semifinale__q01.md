@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Semifinale individuale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_semifinale__Q01
 parent: src_kangourou_2018_benjamin_semifinale
 competition: Kangourou 2018 Benjamin - Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area intersezione di due quadrati con vertice al centro*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mpGDkZU0ITLxgA_gblbwITgtcOOWYDSU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*An intersection area of two squares with a vertex in the centre*
+
+![[src_kangourou_2018_benjamin_semifinale__prob1.png]]
+
+> (Points 2) In the figure you see a gray square on the side 6 cm and a side 5 cm that has a vertex in the center of the gray square. How many square centimetres does the area of the darkest quadrilateral measure that is the intersection of the two squares? A) 7
+> 	
+> B) 8
+> 	
+> C) 9
+> 	
+> D) 10 E) 11
+
+**Answer:** C
+[[src_kangourou_2018_benjamin_semifinale__Q01]]

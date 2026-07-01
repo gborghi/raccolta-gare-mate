@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q17
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorni per leggere il libro (4/giorno, 25 domenica)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Days to read the book (4 days, 25 Sundays) *
+
+> Carlo needs to read a 290-page book. She has scheduled her assignment as follows: She will read 4 pages every day, except Sunday, when she will always read 25. If he starts reading next Sunday and follows the schedule (so never skipping days), how many days will it take to finish the book? A) 5 B) 46 C) 40 D) 35 E) 41
+
+**Answer:** E
+[[src_kangourou_2009_benjamin_marzo__Q17]]

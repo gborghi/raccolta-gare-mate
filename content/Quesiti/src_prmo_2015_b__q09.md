@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_b__Q09
 parent: src_prmo_2015_b
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -35,6 +36,8 @@ tags:
   - regione/b
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right triangle with integer sides and one side 12; max perimeter*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 84
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo retto con lati interi e un lato 12; perimetro massimo*
+
+> Qual è il più grande perimetro possibile di un triangolo rettangolo con lunghezze laterali interi se uno dei lati ha lunghezza 12?
+
+**Risposta:** 84
+[[src_prmo_2015_b__Q09]]

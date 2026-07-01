@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2024 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2024__Q02
 parent: src_smc_2024
 competition: Senior Mathematical Challenge 2024
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of twips (≈0.0000018 m) in a league (≈4800 m)*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nombre di duecenti (≈0,0000018 m) in una lega (≈4800 m) *
+
+> Un *twip* è un'unità di lunghezza molto breve, derivata da unità imperiali, ed è uguale a circa 0,0000018 metri. Una lega ** è un'unità di lunghezza pari a circa 4800 metri. Quante squadre ci sono in una lega?
+>
+> - **(A)** $270\,000\,000$
+> - **(B)** $27\,000\,000$
+> - **(C)** $2\,700\,000$
+> - **(D)** $270\,000$
+> - **(E)** $27\,000$
+
+**Risposta:** A
+[[src_smc_2024__Q02]]

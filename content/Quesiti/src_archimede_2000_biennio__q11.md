@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Biennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_biennio__Q11
 parent: src_archimede_2000_biennio
 competition: Giochi di Archimede 2000 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza tra podista e ciclista dopo tre ore di spola*
 
@@ -46,3 +49,20 @@ tags:
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Distance between pedestrian and cyclist after three hours of running< MSK1/>
+
+> A pedestrian and a cyclist set off together from city A towards city B 13 km away from A, agreeing to make the spool between A and B without ever stopping. Knowing that every hour the podium runner travels 9 km while the cyclist travels 25 km, what distance will separate the two athletes after three hours from the start of the competition?
+>
+> - **(A)** 1 km
+> - **(B)** 2 km
+> - **(C)** 3 km
+> - **(D)** 4 km
+> - **(E)** 5 km.
+
+**Answer:** B
+[[src_archimede_2000_biennio__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2012 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2012__Q17
 parent: src_bocconi_semifinale_2012
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2012
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Gioco di eliminazione su N=2012 carte in cerchio (si elimina ogni terza carta): trovare la carta eliminata subito dopo la carta 2012.*
 
@@ -54,3 +57,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 14
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Elimination game on N=2012 cards in a circle (every third card is eliminated): Find the card eliminated immediately after the 2012 card. *
+
+> He's having so much fun!
+> 
+> Nando placed cards numbered from 1 to N on a clockwise circumference (the figure illustrates the placement of the cards for N = 9). He then has fun by deleting the card with the number 1 and then deleting, with each move, the third card he meets. Thus, in order, remove the cards with the numbers 1,4,7,2,6,3,9,5 and at the end of the game you have the number 8 card.
+> 
+> For N=2012, what's the paper that's deleted right after the one with the number 2012? (Answer 0 if you think the 2012 card is the one left at the end of the game).
+
+![[src_bocconi_semifinale_2012__Q17.png]]
+
+**Answer:** 14
+[[src_bocconi_semifinale_2012__Q17]]

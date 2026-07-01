@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2016 - 2 livello — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_febb_2livello__Q12
 parent: src_archimede_2016_febb_2livello
 competition: Archimede Gara di Febbraio 2016 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che la partita non finisca prima del 21esimo gol*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WjYsXx25mj1TfZaCRYUsoX4KBtCIbL6j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability that the match will not end before the 21st goal*
+
+> Alberto and Barbara play pool. Before they start, they decide that the game will end as soon as one of the two has scored 3 more goals than the other. Knowing that for every ball played, both Alberto and Barbara have a 50% chance of scoring, what is the probability that the game will not end before the 21st goal?
+>
+> - **(A)** 39 218
+> - **(B)** 310 220
+> - **(C)** 320 240
+> - **(D)** 13 · 17 · 19 · 31 218
+> - **(E)** 3 · 7 · 13 · 17 · 19 218 Problems with a numerical answer  5 points
+
+**Answer:** A
+[[src_archimede_2016_febb_2livello__Q12]]

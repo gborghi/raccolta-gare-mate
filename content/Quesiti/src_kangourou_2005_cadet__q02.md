@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet__Q02
 parent: src_kangourou_2005_cadet
 competition: Kangourou 2005 - Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza percorso formica su superficie cubo*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Form length of path on cubic surface*
+
+![[src_kangourou_2005_cadet__prob2.png]]
+
+> The figure shows a cube with a beam of 12 cm. An ant moves on the surface of the cube from tip A to tip B along the trajectory shown in the figure. The length of the path taken by the ant is A) 40 cm B) 48 cm C) 50 cm D) 60 cm E) impossible to determine
+
+**Answer:** D
+[[src_kangourou_2005_cadet__Q02]]

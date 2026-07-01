@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1988-89 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1988-89_round1__Q06
 parent: src_bmo_1988-89_round1
 competition: British Mathematical Olympiad 1988-89 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove all terms of integer sequence are odd*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FtANadUPYkflJ9hrInluoFZeqymzrG0D/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove tutti i termini della sequenza di numeri interi sono odd*
+
+> La sequenza $\{a_n\}$ di numeri interi è definita da $$a_1 = 2, \quad a_2 = 7$$ e $$-\frac{1}{2} < a_{n+1} - \frac{a_n^2}{a_{n-1}} \le \frac{1}{2} \quad \text{for } n \ge 2.$$ Prove che $a_n$ è odd per tutti $n > 1$.
+
+[[src_bmo_1988-89_round1__Q06]]

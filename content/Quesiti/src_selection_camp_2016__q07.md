@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2016 — Selection Camp — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2016__Q07
 parent: src_selection_camp_2016
 competition: Japan IMO Selection Camp 2016 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum constant k for a sum inequality over positive reals*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la costante minima k per una disuguaglianza di somma rispetto ai valori reali positivi*
+
+> Trova il numero reale più piccolo $k$ in modo che per ogni intero $n \ge 2$ e ogni sequenza di numeri reali positivi $a_0, a_1, \ldots, a_n$, $$\frac{1}{a_0+a_1} + \frac{1}{a_0+a_1+a_2} + \cdots + \frac{1}{a_0+a_1+\cdots+a_n} < k\left(\frac{1}{a_0} + \frac{1}{a_1} + \cdots + \frac{1}{a_n}\right).$$
+
+[[src_selection_camp_2016__Q07]]

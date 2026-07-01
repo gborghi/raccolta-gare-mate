@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f1__Q20
 parent: src_obm_2013_n1_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of ways to tile a 24-cell grid with six identical 4-cell pieces*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZFAopdNjG-Ynm1d9LROcVImmCRs-HuH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di modi di tessitura di una griglia a 24 celle con sei pezzi identici a 4 celle*
+
+> Luisa ha sei pezzi uguali formati da $4$ unità quadrati di superficie $1$. Lei vuole inserire tutti questi pezzi nella griglia formata da $24$ unità quadrati di area $1$ e ha già posizionato uno di questi pezzi, evidenziato nella figura accanto, e i pezzi possono essere posizionati in qualsiasi orientamento. In quanti modi può completare il suo compito?
+> 
+> (A) $2$ \quad (B) $3$ \quad (C) $4$ \quad (D) $5$ \quad (E) $6$
+
+![[src_obm_2013_n1_f1__Q20.png]]
+
+[[src_obm_2013_n1_f1__Q20]]

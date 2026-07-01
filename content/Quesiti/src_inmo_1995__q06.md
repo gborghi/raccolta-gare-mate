@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1995 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1995__Q06
 parent: src_inmo_1995
 competition: Indian National Mathematical Olympiad 1995
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all primes p for which (2^p - 1)/p is a perfect square*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-pje9yn5-Oz-tcMTgQ38tNi0Sa3TrKyD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le prime p per le quali (2^p - 1)/p è un quadrato perfetto*
+
+> Trova tutti i numeri primi $p$ per i quali $\dfrac{2^p - 1}{p}$ è un quadrato perfetto.
+
+[[src_inmo_1995__Q06]]

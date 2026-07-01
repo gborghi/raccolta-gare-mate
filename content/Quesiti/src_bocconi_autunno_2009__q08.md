@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2009 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2009__Q08
 parent: src_bocconi_autunno_2009
 competition: Giochi d'Autunno 2009
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare valore massimo di SEX nell'addizione TER+TER=SEX*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 806
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find the maximum value of SEX in the addition TER+TER=SEX*
+
+> In the Appendix: $\text{TER} + \text{TER} = \text{SEX}$ replaced by the digits instead of the letters. Please note: the same letter always has the same number and two different letters must have two different numbers. Besides, no number can start with 0. What is the largest value that can be substituted for the word sex?
+
+**Answer:** 806
+[[src_bocconi_autunno_2009__Q08]]

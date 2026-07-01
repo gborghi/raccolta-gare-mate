@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2020-21 — Round 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2020-21_round1__Q07
 parent: src_bmo_2020-21_round1
 competition: British Mathematical Olympiad 2020-21 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pebble game on number line: find when Evie guarantees victory*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xg514doHxMaADkn1oQBkdyq62hCSeCSk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Gioco di pizzico sulla linea dei numeri: scopri quando Evie garantisce la vittoria
+
+> Evie e Odette stanno giocando. Tre pietre sono posizionate sulla linea numerica; una a $-2020$, una a $2020$ e una a $n$, dove $n$ è un numero intero tra $-2020$ e $2020$. Lo prendono a turno spostando la pietra più sinistra o la pietra più destra a un numero intero tra le altre due pietre. La partita finisce quando le pietre occupano tre numeri interi consecutivi.
+> 
+> Odette vince se la loro somma è strana; Evie vince se la loro somma è pari. Per quanti valori di $n$ può Evie garantire la vittoria se: (a) Odette viene prima; (b) Evie viene prima?
+
+[[src_bmo_2020-21_round1__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f3__Q01
 parent: src_obm_2014_n3_f3
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral with equal incircle radii implies rhombus*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Quadrilatero converso con uguali radii di incircolo implica rombo< MSK1/>
+
+> Che $ABCD$ sia un quadrilaterale convex e che $P$ sia l'intersezione delle diagonali $AC$ e $BD$. I radii degli incircoli dei triangoli $ABP$, $BCP$, $CDP$ e $DAP$ sono uguali. Provare che $ABCD$ è un rombo.
+
+[[src_obm_2014_n3_f3__Q01]]

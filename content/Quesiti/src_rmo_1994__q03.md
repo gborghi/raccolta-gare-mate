@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1994 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1994__Q03
 parent: src_rmo_1994
 competition: Regional Mathematical Olympiad 1994
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *6-digit numbers with digits 1–6 each once, divisible by k for 1 to 6*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*numeri a 6 cifre con cifre 16 ciascuna una volta, divisibili per k per 1 a 6*
+
+> Trova tutti i numeri naturali a 6 cifre $a_1 a_2 a_3 a_4 a_5 a_6$ formati utilizzando i numeri $1, 2, 3, 4, 5, 6$ una volta che ciascuno sia tale che il numero $a_1 a_2 \cdots a_k$ sia divisibile da $k$, per $1 \le k \le 6$.
+
+[[src_rmo_1994__Q03]]

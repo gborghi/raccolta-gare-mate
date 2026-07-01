@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2004 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo2q__Q12
 parent: src_jjmo2q
 competition: Japan Junior Mathematical Olympiad 2004
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of distinct quotients dividing 2^2004 by 1..2^2004*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nombre di quotienti distinti dividendo 2^2004 per 1..2^2004*
+
+> Dividere $2^{2004}$ per ciascuno di $1, 2, 3, \ldots, 2^{2004}$ e trovare il quotiente e il rimanente in ogni caso. Quanti numeri interi distinti appaiono come quotienti?
+
+[[src_jjmo2q__Q12]]

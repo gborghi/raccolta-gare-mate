@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q08
 parent: src_kangourou_2017_cadet_semifinale
 competition: Kangourou 2017 Cadet (semifinale individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso della spugna da 90% a 80% di acqua*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Weight of sponge from 90% to 80% water< MSK1/>
+
+> (Points 5) A sponge is made up of 90% water and weighs 2 kg. After some of the water has evaporated, 80% of the sponge is water. What's his weight in pounds now?
+>
+> - **(A)** 1,00
+> - **(B)** 1,10
+> - **(C)** 1,70
+> - **(D)** 1,80
+> - **(E)** 1,90
+
+**Answer:** B
+[[src_kangourou_2017_cadet_semifinale__Q08]]

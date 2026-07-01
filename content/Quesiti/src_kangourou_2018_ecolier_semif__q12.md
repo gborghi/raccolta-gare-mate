@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Ecolier — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q12
 parent: src_kangourou_2018_ecolier_semif
 competition: Kangourou 2018 Semifinale Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante condotte aprire per riempire piscina in 6 ore*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 3
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12RJbo4WQyFx3m4vMHKRiOwlOuiEa6SZd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many pipes to open to fill the pool in 6 hours< MSK1/>
+
+> (Points 6) A swimming pool is served by 10 water pipes, 9 of the same capacity and one of double capacity. If I only opened the last one, it would take 15 hours to fill the pool. How many other pipes, besides the double-duty one, would open to fill it in six hours?
+
+**Answer:** 3
+[[src_kangourou_2018_ecolier_semif__Q12]]

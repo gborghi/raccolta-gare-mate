@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_finale__Q11
 parent: src_cesenatico_2011_finale
 competition: Gara a Squadre Cesenatico 2011 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *2 primi e 1 quadrato perfetto*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0060
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*2 prime and 1 perfect square*
+
+> Meanwhile, in Armorica, the old Math-usa-lemmix tells the villagers the tale of Cappuccettix and the bad Roman: ...the mother had given her the basket to bring to the sick Grandmother Galla, full of so many delights: chocolateLatinix, Gallinix and Crostate to the MarmelLatinix. But age plays bad jokes and the watchman no longer remembers exactly how many of these gifts were! All you know is that they were 3 consecutive integers, of which 2 were prime numbers and 1 was a perfect square. Little Leibnix, very clever, suggests to him what all the possible threads of these numbers are. How much is the product of the main elements of all these terns worth?
+
+**Answer:** 0060
+[[src_cesenatico_2011_finale__Q11]]

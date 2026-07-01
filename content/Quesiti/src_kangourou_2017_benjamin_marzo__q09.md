@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (gara marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q09
 parent: src_kangourou_2017_benjamin_marzo
 competition: Kangourou 2017 Benjamin (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti quesiti in piu ha risolto Nino rispetto a Piero*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many more questions has Nino solved than Piero
+
+> At the same time that Piero solves two questions in the Kangourou race, Nino manages to solve three. At the end of the race, the two boys solved a total of 30 questions. How many more questions has Nino solved than Piero? A) 5
+> 	
+> B) 6
+> 	
+> C) 7
+> 	
+> D) 8
+> 	
+> E) 9
+
+**Answer:** B
+[[src_kangourou_2017_benjamin_marzo__Q09]]

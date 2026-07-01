@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2015 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2015__Q04
 parent: src_inmo_2015
 competition: Indian National Mathematical Olympiad 2015
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Basketball passed among four players, count ways ball returns to A after seven passes*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wCKdKYfdVWhHtGthqrJdhPacrzqEpdcc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+La palla da basket passata tra quattro giocatori, conta i modi in cui la palla ritorna a A dopo sette passaggi
+
+> Ci sono quattro giocatori di basket $A$, $B$, $C$, $D$. Inizialmente, la palla è con $A$. La palla viene sempre passata da una persona a un'altra. In quanti modi la palla può tornare a $A$ dopo sette passaggi? (Ad esempio $A \to C \to B \to D \to A \to B \to C \to A$ e $A \to D \to A \to D \to A \to B \to C \to A$ sono due modi in cui la palla può tornare a $A$ dopo sette passaggi.)
+
+[[src_inmo_2015__Q04]]

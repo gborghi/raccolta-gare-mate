@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2022 — Selection Camp — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2022__Q03
 parent: src_selection_camp_2022
 competition: Japan IMO Selection Camp 2022 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence of positive integers with divisibility condition implies eventual periodicity*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IbxW-7wHAbocY02LPUXVJ2fiAgki09kb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di integri positivi con condizione di divisibilità implica una eventuale periodicità*
+
+> Che $a_1, a_2, \ldots$ sia una sequenza di integri positivi tale che per tutti gli integri positivi $n$ e $m$, $a_{n+2m}$ sia divisibile da $a_n + a_{n+m}$. Dimostrare che esistono integri positivi $N$ e $d$ in modo tale che $a_n = a_{n+d}$ sia valido per tutti gli integri $n \ge N$.
+
+[[src_selection_camp_2022__Q03]]

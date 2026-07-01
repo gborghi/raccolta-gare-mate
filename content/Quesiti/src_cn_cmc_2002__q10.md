@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2002 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2002__Q10
 parent: src_cn_cmc_2002
 competition: China Mathematical Competition 2002
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find g(2002) for function satisfying two-sided growth inequalities*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca g(2002) per la funzione che soddisfa le disuguaglianze di crescita bilaterali*
+
+> È dato che $f(x)$ è una funzione definita su $\mathbf{R}$, che soddisfa $f(1) = 1$, e per qualsiasi $x \in \mathbf{R}$, $$f(x + 5) \ge f(x) + 5,$$ $$f(x + 1) \le f(x) + 1.$$ Se $g(x) = f(x) + 1 - x$, allora $g(2002) = $ \underline{\quad}.
+
+**Risposta:** 1
+[[src_cn_cmc_2002__Q10]]

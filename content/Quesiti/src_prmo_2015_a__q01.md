@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_a__Q01
 parent: src_prmo_2015_a
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -34,6 +35,8 @@ tags:
   - regione/a
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Man walks and rides back; find hours to walk both ways*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+L'uomo cammina e torna indietro; trova ore per camminare in entrambe le direzioni
+
+> Un uomo cammina una certa distanza e ritorna in $3\frac{3}{4}$ ore; può andare in entrambe le direzioni in $2\frac{1}{2}$ ore. Quante ore gli ci vorrebbero per camminare in entrambe le direzioni?
+
+**Risposta:** 5
+[[src_prmo_2015_a__Q01]]

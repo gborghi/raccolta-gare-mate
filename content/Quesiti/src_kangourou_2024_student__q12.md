@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q12
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza poligonale esagonale punti medi spigoli tetraedro*
 
@@ -65,3 +68,25 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Hexagonal polygonal length mean points tetrahedral shoulders< MSK1/>
+
+![[src_kangourou_2024_student__prob12.png]]
+
+> The figure shows a tetrahedron (not regular) ABCD, on each of which the middle point is marked. By combining the middle points with segments in an appropriate order, the closed non-flat hexagonal polygon MNPQRSM is obtained. If the lengths of the rods are the ones shown in the figure (the integers 5 to 10), how long is the polygon? A) 19
+> 	
+> B) 20
+> 	
+> C) 21
+> 	
+> D) 22
+> 	
+> E) 23 M N Q S R P 7 6 5 10 9 8
+>
+
+**Answer:** C
+[[src_kangourou_2024_student__Q12]]

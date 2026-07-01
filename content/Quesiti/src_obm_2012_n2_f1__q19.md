@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q19
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of values of m so roots of x^2-mx+m+5=0 are legs of a right triangle with hypotenuse 5*
 
@@ -51,3 +54,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa dei valori di m così radici di x^2-mx+m+5=0 sono gambe di un triangolo rettangolo con ipotenuza 5*
+
+> Nel calcolare le radici dell'equazione di secondo grado $x^2 - mx + m + 5 = 0$, Samuca notò che sono le gambe di un triangolo rettangolo con ipotenusa di lunghezza $5$. Qual è la somma dei possibili valori di $m$?
+> 
+> A) 2 \quad B) 12 \quad C) 7 \quad D) 10 \quad E) 8
+
+[[src_obm_2012_n2_f1__Q19]]

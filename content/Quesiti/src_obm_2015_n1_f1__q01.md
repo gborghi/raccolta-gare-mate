@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q01
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Order of toy cars arriving from clue constraints*
 
@@ -53,3 +56,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ordine di macchine da giocattoli che arrivano da restrizioni di indizio*
+
+> Juquinha e i suoi amici organizzarono una gara con le loro macchine giocattoli. La macchina bianca (B) è arrivata prima della macchina rossa (V) e prima della macchina marrone (M); la macchina blu (A) è arrivata dopo la macchina marrone e prima della macchina rossa. In che ordine sono arrivate le auto?
+>
+> - **(A)** B-A-V-M
+> - **(B)** B-V-A-M
+> - **(C)** B-M-A-V
+> - **(D)** B-M-V-A
+> - **(E)** B-A-M-V
+
+**Risposta:** C
+[[src_obm_2015_n1_f1__Q01]]

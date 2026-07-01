@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1977-78 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1977-78_round2__Q03
 parent: src_bmo_1977-78_round2
 competition: British Mathematical Olympiad 1977-78 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all roots of a partial alternating binomial sum equal to 1/2*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zLI5k50clg-k_utGFUoSPQrlhHf44lsu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le radici di una somma binomiale alterna parziale uguale a 1/2*
+
+> Determinare con prova tutte le radici dell'equazione $$\sum_{r=1}^{m} (-1)^{r-1} \frac{n(n-1)\cdots(n-r+1)}{r!} = \frac{1}{2}$$ dove $m$ è un dato intero positivo.
+
+[[src_bmo_1977-78_round2__Q03]]

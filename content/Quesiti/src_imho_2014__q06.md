@@ -1,6 +1,7 @@
 ---
 title: IMO 2014 (LV International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2014__Q06
 parent: src_imho_2014
 competition: IMO 2014 (LV International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coloring sqrt(n) lines blue with completely blue finite region*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1M4E8z5-XMcenIf5rc12v6Mcv4J_wQh55/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Coloring sqrt(n) lines blue with completely blue finite region*
+
+> A set of lines in the plane is in general position if no two are parallel and no three pass through the same point. A set of lines in general position cuts the plane into regions, some of which have finite area; we call these its finite regions. Prove that for all sufficiently large $n$, in any set of $n$ lines in general position it is possible to colour at least $\sqrt{n}$ of the lines blue in such a way that none of its finite regions has a completely blue boundary.
+> 
+> \textit{Note:} Results with $\sqrt{n}$ replaced by $c\sqrt{n}$ will be awarded points depending on the value of the constant $c$.
+
+[[src_imho_2014__Q06]]

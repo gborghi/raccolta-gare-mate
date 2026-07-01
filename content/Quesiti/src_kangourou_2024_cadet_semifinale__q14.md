@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Cadet 2024 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet_semifinale__Q14
 parent: src_kangourou_2024_cadet_semifinale
 competition: Kangourou Semifinale individuale Cadet 2024
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Superficie del solido a L centralmente simmetrico*
 
@@ -38,3 +41,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0042
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YuKlYOQSjLPYC0cQWHZFjw49wPVl8dfH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Centrally symmetrical surface of the L-solid*
+
+![[src_kangourou_2024_cadet_semifinale__prob14.png]]
+
+> (Points 6) In the figure you can see an isolated L-shaped brick made from a 1 cm side cube by removing a parallel piped in centimetres, 1⁄2, 1⁄2 and
+
+**Answer:** 0042
+[[src_kangourou_2024_cadet_semifinale__Q14]]

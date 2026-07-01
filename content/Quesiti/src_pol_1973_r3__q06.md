@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1973 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1973_r3__Q06
 parent: src_pol_1973_r3
 competition: Olimpiade Matematica Polacca 1973 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Centrally symmetric polygon has an ellipse containing it with minimal area*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qxf9IfIyodX4dvRWXQZSx2BaEEy5z1l/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il poligono centralmente simmetrico ha un'ellisse che lo contiene con superficie minima*
+
+> Prove che per ogni poligono centralmente simmetrico c'è al massimo un'ellisse contenente il poligono e con la superficie minima.
+
+[[src_pol_1973_r3__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2009 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2009__Q18
 parent: src_bocconi_autunno_2009
 competition: Giochi d'Autunno 2009
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di cifre di 5 elevato a una grande potenza*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 70 cifre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of high 5 digits at high power*
+
+> If $2^{300}$ is a 31-digit number, how many digits does $5^{300}$ consist of?
+
+**Answer:** 70 cifre
+[[src_bocconi_autunno_2009__Q18]]

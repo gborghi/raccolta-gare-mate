@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Triennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_triennio__Q05
 parent: src_archimede_2026_triennio
 competition: Giochi di Archimede 2026 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di facce arancioni con probabilita stesso colore 50%*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1RGoDAGgGcuG2BBtu5OZKKWqbN3WR1MqQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum number of orange faces with 50% likelihood of same colour< MSK1/>
+
+> Alice has a rather strange watch. There's the classic 12-hour quadrant, with the hour and minute bid. However, while the minute hand moves as usual (rotating clockwise), the hour hand moves the opposite way (anti-clockwise). How many times will the two bids cross each other over the course of a day (i.e. from midnight to midnight the following day, considering both the initial and final bids)?
+>
+> - **(A)** 27
+> - **(B)** 26
+> - **(C)** 25
+> - **(D)** 24
+> - **(E)** 23
+
+**Answer:** D
+[[src_archimede_2026_triennio__Q05]]

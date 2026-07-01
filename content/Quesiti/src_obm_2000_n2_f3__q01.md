@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f3__Q01
 parent: src_obm_2000_n2_f3
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three identical glued dice on a table; find the sum of the three faces in contact with the table.*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 13
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qM5BxKaKRIxirRctyOuDYrS51LXljnyw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tre dadi incollati identici su un tavolo; trovare la somma delle tre facce in contatto con il tavolo.*
+
+> Paulo ha tre dadi comuni identici, su cui la somma dei numeri su due facce opposte è sempre uguale a $7$. Colla i dadi insieme in modo che ogni coppia di volti collacciati mostri lo stesso numero, e poi li posiziona su un tavolo non trasparente, come indica la figura. La somma dei numeri su tutte le undici facce visibili è $36$. Qual è la somma dei numeri sulle tre facce che sono in contatto con la tavola?
+
+![[src_obm_2000_n2_f3__Q01.png]]
+
+**Risposta:** 13
+[[src_obm_2000_n2_f3__Q01]]

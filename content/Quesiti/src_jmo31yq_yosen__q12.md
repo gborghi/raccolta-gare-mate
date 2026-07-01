@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2021 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo31yq_yosen__Q12
 parent: src_jmo31yq_yosen
 competition: Japan Mathematical Olympiad 2021 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Coins on 7x7 board, four spreading operations; maximize total coins*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 19
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Monete su tavolo 7x7, quattro operazioni di diffusione; massimizzazione del totale delle monete< MSK1/>
+
+> C'è un array di celle $7\times 7$. Una moneta viene posta sulla cella nella riga $1$st dall'alto e nella colonna $4$th dalla sinistra. Diciamo che la cellula $Y$ è a basso a sinistra della cellula $X$ se, per qualche intero positivo $k$, $Y$ è $k$ cellule a sinistra e $k$ cellule al di sotto $X$; allo stesso modo, $Y$ è a basso a destra di $X$ se, per qualche intero positivo $k$, $Y$ è $k$ cellule a destra e $k$ cellule al di sotto $X$. Per una cella $X$ che non è nella riga inferiore che ha una moneta sopra, si può eseguire esattamente una delle seguenti quattro operazioni: (a) Rimuovere una moneta da $X$ e inserire una moneta nella cella $1$ sotto $X$. b) Rimuovere una moneta da $X$ e posizionare una moneta su ciascuna delle celle situate in basso a sinistra di $X$. (c) Rimuovere una moneta da $X$ e posizionare una moneta su ciascuna delle celle in basso a destra di $X$. (d) Rimuovere una moneta da $X$ e posizionare una moneta su ciascuna delle celle $1$ a sinistra e $1$ sotto $X$ e la cella $1$ a destra e $1$ sotto $X$; tuttavia, se esiste solo una di queste due celle, posizionare una moneta solo su quella cella. Se si cerca di mettere una moneta su una cella che già ha una moneta, non viene messa lì. Dopo aver eseguito tali operazioni un certo numero di volte, trova il numero massimo possibile di monete che possono essere sulle celle.
+
+![[src_jmo31yq_yosen__Q12.png]]
+
+**Risposta:** 19
+[[src_jmo31yq_yosen__Q12]]

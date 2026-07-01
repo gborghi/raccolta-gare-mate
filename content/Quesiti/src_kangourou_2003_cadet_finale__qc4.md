@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet_finale__QC4
 parent: src_kangourou_2003_cadet_finale
 competition: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma lunghezze dei 7 segmenti paralleli*
 
@@ -59,3 +62,35 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 35
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary lengths of the 7 parallel segments*
+
+![[src_kangourou_2003_cadet_finale__probC4.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \coordinate (A) at (0,4);
+  \coordinate (B) at (0,0);
+  \coordinate (C) at (5,0);
+  \draw[thick] (A) -- (B) -- (C) -- (A);
+  \node[below left] at (B) {$B$};
+  \node[below right] at (C) {$C$};
+  \foreach \h in {0.5, 1.5, 2.5, 3.5} {
+    \draw[red, thick] (0, \h) -- ({5*(4-\h)/4}, \h);
+  }
+  \foreach \h in {1.0, 2.0, 3.0} {
+    \draw[black, thick] (0, \h) -- ({5*(4-\h)/4}, \h);
+  }
+\end{tikzpicture}
+\end{document}
+```
+
+> The $AC$ hypotenuse of a right triangle is divided into $8$ segments equal to each other using $7$ segments parallel to the $BC$ catheter, each having one end on the $AB$ catheter and the other on the hypotenuse. The length of the $BC$ catheter is $10$ meters. What is the sum of the lengths of these < MSK7/> segments?
+
+**Answer:** 35
+[[src_kangourou_2003_cadet_finale__QC4]]

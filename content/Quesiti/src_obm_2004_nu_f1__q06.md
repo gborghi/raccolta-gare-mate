@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 1 —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_nu_f1__Q06
 parent: src_obm_2004_nu_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute a telescoping sum involving cubic-like factors*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rns90hvVWwghYkYiNKyUvjjjPu-_eNED/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolare una somma di telescopio che coinvolge fattori simili a cubi*
+
+> Calcolare < MSK0/>.
+
+[[src_obm_2004_nu_f1__Q06]]

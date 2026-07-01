@@ -1,6 +1,7 @@
 ---
 title: IMO 1991 (XXXII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1991__Q05
 parent: src_imho_1991
 competition: IMO 1991 (XXXII International Mathematical Olympiad)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interior point of triangle has one angle among PAB, PBC, PCA at most 30°*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interior point of triangle has one angle among PAB, PBC, PCA at most 30°*
+
+> Let $ABC$ be a triangle and $P$ an interior point of $ABC$. Show that at least one of the angles $\angle PAB$, $\angle PBC$, $\angle PCA$ is less than or equal to $30^\circ$.
+
+[[src_imho_1991__Q05]]

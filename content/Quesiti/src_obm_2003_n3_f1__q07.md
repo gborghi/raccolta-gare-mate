@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q07
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find equation of y=x^2-5x+9 after 180-degree rotation about origin*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'equazione di y=x^2-5x+9 dopo una rotazione di 180 gradi circa l'origine*
+
+> Il grafico di $y = x^2 - 5x + 9$ è rotato $180^\circ$ circa l'origine. Qual è l'equazione della nuova curva?
+> 
+> A) $y = x^2 + 5x + 9$ \quad B) $y = x^2 - 5x - 9$ \quad C) $y = -x^2 + 5x - 9$ \quad D) $y = -x^2 - 5x + 9$ \quad E) $y = -x^2 - 5x - 9$
+
+**Risposta:** E
+[[src_obm_2003_n3_f1__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2024 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_automne__Q14
 parent: src_canimath_2024_automne
 competition: Coupe Animath Automne 2024
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *100 reals on circle, each ≤ sum of two neighbors; max number of strictly positive ones*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*100 reales su un cerchio, ogni ≤ somma di due vicini; numero massimo di quelli strettamente positivi*
+
+> Un centinaio di numeri reali sono posizionati intorno a un cerchio, in modo che ogni numero sia al massimo uguale alla somma dei suoi due vicini (andando in senso orario). Determinare il numero massimo di numeri reali rigorosamente positivi che possono apparire su questo cerchio.
+
+[[src_canimath_2024_automne__Q14]]

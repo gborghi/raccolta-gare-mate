@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_pubblico__Q12
 parent: src_archimede_2002_pubblico
 competition: Archimede 2002 - Gara del Pubblico (Cesenatico)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *triangolo coordinato, punti interi*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0046
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*coordinated triangle, whole points *
+
+> The three-dimensional geometry of the triangle of Bernardo
+> 
+> On his square notebook Bernardo is about to draw a triangle of coordinates $(0, 0)$, $(1, n)$ and $(n, 1)$. Which is the smallest $n$ that you have to choose so that there are at least 1000 points of complete coordinates inside the triangle?
+
+**Answer:** 0046
+[[src_archimede_2002_pubblico__Q12]]

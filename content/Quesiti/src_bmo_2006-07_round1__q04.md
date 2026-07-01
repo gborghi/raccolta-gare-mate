@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2006-07 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2006-07_round1__Q04
 parent: src_bmo_2006-07_round1
 competition: British Mathematical Olympiad 2006-07 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two tangent circles with common tangent; diameter AP; tangent PQ; prove AP = PQ*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ugZu072aPo_kDs0qIoR8ADSZWmd255op/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi tangenti con tangente comune; diametro AP; tangente PQ; prova AP = PQ*
+
+> Due cerchi di tocco $S$ e $T$ hanno una tangente comune che incontra $S$ a $A$ e $T$ a $B$. Lasciate che $AP$ abbia un diametro di $S$ e che la tangente da $P$ a $T$ la tocchi a $Q$. Prova che < MSK11/>.
+
+[[src_bmo_2006-07_round1__Q04]]

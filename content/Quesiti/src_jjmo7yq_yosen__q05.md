@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo7yq_yosen__Q05
 parent: src_jjmo7yq_yosen
 competition: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum area of convex pentagon with all sides 1 and two perpendicular diagonals*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JSUMowa9JI8Y3BaqBeZ4gyyU1TBF9Jpp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area massima di un pentagono converso con tutti i lati 1 e due diagonali perpendicolari*
+
+> Un pentagono converso ha tutti i lati di lunghezza $1$, e esistono due diagonali del pentagono che sono perpendicolari l'uno all'altro (formando un angolo $90^\circ$). Trova la superficie massima possibile di un tale pentagono. (Un pentagono converso è quello in cui tutti gli angoli interni sono inferiori a $180^\circ$.)
+
+[[src_jjmo7yq_yosen__Q05]]

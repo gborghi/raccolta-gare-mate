@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2012 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2012__Q01
 parent: src_inmo_2012
 competition: Indian National Mathematical Olympiad 2012
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max area of cyclic quadrilateral with given side and central angle*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Yo2mg-kxvVgZBQrmg9vQdyiD2EizSWJt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>L'area massima del quadrilatero ciclico con angolo lato e centrale dato< MSK1/>
+
+> Il $ABCD$ deve essere un quadrilaterale inciso in un cerchio. Supponiamo che $AB = \sqrt{2 + \sqrt{2}}$ e $AB$ subtendano $135^\circ$ al centro del cerchio. Trova la superficie massima possibile di $ABCD$.
+
+![[src_inmo_2012__Q01.png]]
+
+[[src_inmo_2012__Q01]]

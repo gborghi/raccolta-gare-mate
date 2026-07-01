@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1994 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1994_r1__Q06
 parent: src_pol_1994_r1
 competition: Olimpiade Matematica Polacca 1994 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Continuous f with some iterate equal to 1 for every x; show f(1)=1*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Continuous f con qualche iterate uguale a 1 per ogni x; mostrare f(1)=1*
+
+> Supponiamo che $f : \mathbb{R} \to \mathbb{R}$ sia una funzione continua tale che per ogni reale $x$ esista $n \in \mathbb{N}$ tale che $$\underbrace{f \circ f \circ \cdots \circ f}_{n}(x) = 1.$$ Mostri che $f(1) = 1$.
+
+[[src_pol_1994_r1__Q06]]

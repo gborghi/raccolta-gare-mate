@@ -1,6 +1,7 @@
 ---
 title: IMO 1994 (XXXV International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1994__Q06
 parent: src_imho_1994
 competition: IMO 1994 (XXXV International Mathematical Olympiad)
@@ -37,6 +38,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Set A of positive integers; product of k-element subsets is a product of k primes*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uEhsmiYhsGIpd8-npjJnscoeuH2AmioB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Set A of positive integers; product of k-element subsets is a product of k primes*
+
+> Show that there exists a set $A$ of positive integers with the following property: for any infinite set $S$ of primes there exist two positive integers $m \in A$ and $n \notin A$ each of which is a product of $k$ distinct elements of $S$ for some $k \ge 2$.
+
+[[src_imho_1994__Q06]]

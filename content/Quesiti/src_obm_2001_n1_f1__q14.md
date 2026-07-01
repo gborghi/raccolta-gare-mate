@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f1__Q14
 parent: src_obm_2001_n1_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Common numerical value of perimeter and area of a rectangle with distinct integer sides*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valore numerico comune del perimetro e dell'area di un rettangolo con lati interi distinti*
+
+> Le misure dei lati di un rettangolo sono numeri interi distinti. Il perimetro e l'area del rettangolo sono espressi dallo stesso numero. Determina questi numeri.
+> 
+> (A) $18$ \quad (B) $12$ \quad (C) $24$ \quad (D) $9$ \quad (E) $36$
+
+**Risposta:** A
+[[src_obm_2001_n1_f1__Q14]]

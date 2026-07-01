@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q08
 parent: src_kangourou_2015_marzo_ecolier
 competition: Kangourou 2015 gara 19 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale rappresentazione*
 
@@ -54,3 +57,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* which representation*
+
+![[src_kangourou_2015_marzo_ecolier__prob8.png]]
+
+> Looking at my umbrella from above, as shown in the figure next to it, you read the word KANGAROO (Cangaroo). Which of the following figures might represent my umbrella? A) B) C) D) E) R A G N A K O O
+> 
+> The questions from N. 9 al N. 16 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2015_marzo_ecolier__Q08]]

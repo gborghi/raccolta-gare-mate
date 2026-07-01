@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Student (15 marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_student__Q04
 parent: src_kangourou_2001_student
 competition: Kangourou 2001 - Student (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi non primi <1000 con somma cifre 2*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Integral numbers not prime < 1000 with sum of 2 digits < MSK1/>
+
+> How many positive integers are prime numbers not less than 1000 whose sum of digits (in decimal form) is 2? (A) 2 (B) 4 (C) 6 (D) 7 (E) a number different from the previous ones.
+
+**Answer:** E
+[[src_kangourou_2001_student__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q15
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Voti ottenuti dal sindaco eletto*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 167
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Votes obtained by the elected mayor*
+
+> In Math City, in the last election, 527 mathematicians voted. The new mayor's list received 18, 25 and 98 votes more than each of the other three competing lists. **How many votes did you get? **
+
+**Answer:** 167
+[[src_bocconi_primavera_2008__Q15]]

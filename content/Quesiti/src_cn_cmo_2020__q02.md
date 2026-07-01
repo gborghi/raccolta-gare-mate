@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2020 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2020__Q02
 parent: src_cn_cmo_2020
 competition: China Mathematical Olympiad 2020
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest n so that two congruences mod m are solvable by integers, one coprime to m*
 
@@ -50,3 +53,17 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il più piccolo n in modo che due congruenze mod m siano risolvibili da numeri interi, un coprimo a m*
+
+> Data l'intero $m \ge 1$, trovare il più piccolo intero positivo $n$ in modo tale che per tutti gli integri $a_1, a_2, \ldots, a_n$ e $b_1, b_2, \ldots, b_n$ esistano interi $x_1, x_2, \ldots, x_n$ che soddisfano le seguenti due condizioni:
+> 
+> (1) almeno uno di $x_1, x_2, \ldots, x_n$ è coprime a $m$;
+> 
+> (2) $\displaystyle\sum_{i=1}^{n} a_i x_i \equiv \sum_{i=1}^{n} b_i x_i \equiv 0 \pmod{m}$.
+
+[[src_cn_cmo_2020__Q02]]

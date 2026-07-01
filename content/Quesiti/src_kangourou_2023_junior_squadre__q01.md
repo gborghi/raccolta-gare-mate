@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Junior Finale 1 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_squadre__Q01
 parent: src_kangourou_2023_junior_squadre
 competition: Kangourou Squadre 2023 Junior Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti n in -2023..2023 con 1+4n multiplo di 5*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0809
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quantities of n in -2023..2023 with 1+4n multiple of 5*
+
+> Multiple of 5 For how many integers n between  2023 and 2023 is it true that 1 + 4 × n is a multiple of 5?
+
+**Answer:** 0809
+[[src_kangourou_2023_junior_squadre__Q01]]

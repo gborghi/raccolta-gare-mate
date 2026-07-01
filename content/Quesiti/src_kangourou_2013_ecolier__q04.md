@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q04
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra nascosta nella somma 5_ + 5_ = 104*
 
@@ -46,3 +49,21 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Hidden figure in the sum 5_ + 5_ = 104*
+
+> What is the largest number of triangles that you can spot in the figure? A) 9
+>        	
+> B) 10
+> 	
+> C) 11
+>           
+> D) 13
+>          	
+> E) 12
+
+[[src_kangourou_2013_ecolier__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1990 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1990__Q04
 parent: src_inmo_1990
 competition: Indian National Mathematical Olympiad 1990
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count three-element subsets of {1,...,300} with sum divisible by 3*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G8lDoodsQyIXm-tyEu5jDUtV7TjXp552/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i sottogruppi di tre elementi di {1,...,300} con somma divisibile per 3*
+
+> Determinare il numero di sottoinsiemi di tre elementi di $\{1, 2, 3, \ldots, 300\}$ per i quali la somma degli elementi è un multiple di 3.
+
+[[src_inmo_1990__Q04]]

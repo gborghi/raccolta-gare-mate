@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student finale (maggio) — Quesito S5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_maggio__QS5
 parent: src_kangourou_2006_student_maggio
 competition: Kangourou 2006 Student finale (maggio)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *E=N?*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** no
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ianQsLYKRWCoToqRQQItfRaLtb1Nj0Gq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*E=N?*
+
+> Four $a, b, c, d$ integers, with $a$ non-zero, are chosen so that the $E$ set of positive integers $n$ such that $an + b$ divides $cn + d$ is not finite. Can the set $E$ be different from the set $\mathbb{N}$ of positive integers? Reason for the answer.
+
+**Answer:** no
+[[src_kangourou_2006_student_maggio__QS5]]

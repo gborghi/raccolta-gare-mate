@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Junior 2024 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_semifinale__Q08
 parent: src_kangourou_2024_junior_semifinale
 competition: Kangourou Semifinale individuale Junior 2024
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perche un quadrato a coordinate intere non puo avere area 27*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OumKNnnbfWmdaSCI2BT64qTv-3OcJjbK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Because a square of whole coordinates cannot have an area of 27
+
+> In the Cartesian plane, consider a square Q whose vertices have, each, both integers. For which of the following reasons cannot the area of Q be 27? A) Because 27 is a whole odd. B) Because 27 is not the sum of two perfect squares. C) Because 27 is a perfect cube. D) Because 27 is not a perfect square. E) None of the above is a valid reason. Answer: B). The solution. For Pythagoras' theorem, the square of the measure of the side of Q must be the sum of two perfect squares. The other four statements are easily refutable (to refute C it is enough, for example, to assume that two adjacent vertices of Q are the points (0, 2) and (2, 0)).
+
+**Answer:** B
+[[src_kangourou_2024_junior_semifinale__Q08]]

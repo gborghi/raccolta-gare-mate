@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q23
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *32, arrivo 6:11: ore di viaggio*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.23](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+I'm on my way. I'm coming in.
+
+> We set off for the Scout Camp yesterday afternoon at MSK0/ and arrived at our destination this morning at MSK1/. How many hours have we traveled?
+>
+> - **(A)** < MSK0/> hours and < MSK1/> minutes
+> - **(B)** < MSK0/> hours and < MSK1/> minutes
+> - **(C)** < MSK0/> hours and < MSK1/> minutes
+> - **(D)** < MSK0/> hours and < MSK1/> minutes
+> - **(E)** < MSK0/> hours and < MSK1/> minutes
+
+**Answer:** A
+[[src_kangourou_2015_marzo_preecolier__Q23]]

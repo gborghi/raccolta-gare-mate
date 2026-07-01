@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo24yq_yosen__Q03
 parent: src_jmo24yq_yosen
 competition: Japan Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of 1/(d+sqrt(10)) over all positive divisors d of 10*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $\dfrac{3}{16\sqrt{7}}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di 1/(d+sqrt(10)) su tutti i divisori positivi d di 10*
+
+> Calcolare la somma $$\sum_{d \mid 10} \frac{1}{d + \sqrt{10}}$$ in cui la somma corre su tutti i divisori positivi $d$ di $10$.
+
+**Risposta:** \dfrac{3}{16\sqrt{7}}
+[[src_jmo24yq_yosen__Q03]]

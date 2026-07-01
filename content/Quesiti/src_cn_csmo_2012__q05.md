@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2012 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2012__Q05
 parent: src_cn_csmo_2012
 competition: China Southeastern Mathematical Olympiad 2012
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count six-match numbers (multiple of 6 with digit sum multiple of 6) less than 2012*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 108
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri a sei corrispondenze (multiplicato di 6 con somma digitali multiple di 6) inferiori a 2012*
+
+> Un numero non negativo $m$ è chiamato *six match number*. Se $m$ e la somma delle sue cifre sono entrambi multipli di $6$, trovare il numero dei sei numeri corrispondenti inferiore a $2012$. (posta da Tao Pingsheng)
+
+**Risposta:** 108
+[[src_cn_csmo_2012__Q05]]

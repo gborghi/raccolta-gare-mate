@@ -1,6 +1,7 @@
 ---
 title: Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2025_nazionale__Q02
 parent: src_cesenatico_2025_nazionale
 competition: Olimpiadi Italiane di Matematica 2025 - Finale Cesenatico
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori interi di a con unica soluzione intera della disequazione*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 24,25,26
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qB7eL3B9ur3wfVhNrlYiTjMkleeW6oDL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Integer values of a with a single whole solution of the dissection*
+
+> Determine for which integer values of the set of integers x satisfying the inequality 10x2 + at ≤33x is exactly one element.
+
+**Answer:** 24,25,26
+[[src_cesenatico_2025_nazionale__Q02]]

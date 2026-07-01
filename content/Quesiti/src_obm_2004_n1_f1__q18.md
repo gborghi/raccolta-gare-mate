@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q18
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which 3D shape is formed by folding and joining paper pieces?*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Qual è la forma 3D che si forma piegando e unendo pezzi di carta?*
+
+> Un cubo può essere costruito a partire da due pezzi di cartone presentati come alternative di seguito, piegandoli solo lungo le linee tracciate e unendosi lungo le linee solide. Questi due pezzi sono:
+> 
+> (A) pezzi A \quad (B) pezzi B \quad (C) pezzi C \quad (D) pezzi D \quad (E) pezzi E
+
+![[src_obm_2004_n1_f1__Q18.png]]
+
+**Risposta:** B
+[[src_obm_2004_n1_f1__Q18]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2001 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2001_r1__Q05
 parent: src_pol_2001_r1
 competition: Olimpiade Matematica Polacca 2001 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show that n^(p^p) + p^p is composite for n>=2 and prime p.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w-_EBjDoXaaXOhizK74B8btnGAV4E9MM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra che n^(p^p) + p^p è composto per n>=2 e p primo.*
+
+> Prova che per tutti i numeri interi $n \ge 2$ e i numeri primi $p$ il numero $n^{p^p} + p^p$ è composto.
+
+[[src_pol_2001_r1__Q05]]

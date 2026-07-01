@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo14yq_yosen__Q03
 parent: src_jjmo14yq_yosen
 competition: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ways to paint 6x6 grid coverable by an opaque-painted transparent board*
 
@@ -47,3 +50,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Medi di verniciare una griglia 6x6 coperte da una lavagna trasparente dipinta opaca*
+
+> C'è una griglia di cellule $6 \times 6$, e alcune di queste cellule $36$ sono dipinte in nero. Si prepara una lavagna trasparente della stessa dimensione della griglia e si ottiene una copia della griglia dipinta su questa lavagna. Mettendo questa lavagna della stessa dimensione in una posizione (e orientamento) adatta alla griglia, è stato possibile coprire l'intera figura in modo che le parti dipinte in nero della lavagna e della griglia coincidano e l'intera parte dipinta sia nuovamente coperta di nero. Per quanti modi di dipingere la griglia originale è possibile? Qui, i dipinti che coincidono sotto rotazione o riflessione sono anche considerati come distinti.
+
+![[src_jjmo14yq_yosen__Q03.png]]
+
+**Risposta:** 32768
+[[src_jjmo14yq_yosen__Q03]]

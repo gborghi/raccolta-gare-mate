@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale nazionale Student — Quesito S2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_finale_student__QS2
 parent: src_kangourou_2014_finale_student
 competition: Kangourou 2014 finale nazionale Student
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Luogo dei punti entro distanza 3 con metrica modificata*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** quadrato+segmento
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J0eVc0n4KMj_riY1S4VFaIQwejE9Ln6P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Location of points within distance 3 with modified metric*
+
+> In a plane with a $Oxy$ system of orthogonal Cartesian axes the distance of two points is usually defined using the coordinates of the points in accordance with Pythagorean theorem. We change the distance, assuming we can only move vertically or horizontally, but only horizontally if we're on the axis of the axis. In the formula, the distance from the point $(x_1, y_1)$ to the point $(x_2, y_2)$ shall be $|y_1 - y_2|$ if $x_1 = x_2$ and $|y_1| + |x_1 - x_2| + |y_2|$ if $x_1 \neq x_2$. Compared to this new distance, what is the location of the points not more than $3$ from the point $(2, 1)$?
+
+**Answer:** quadrato+segmento
+[[src_kangourou_2014_finale_student__QS2]]

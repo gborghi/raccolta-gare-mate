@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet finale (maggio) — Quesito C4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_maggio__QC4
 parent: src_kangourou_2007_cadet_maggio
 competition: Kangourou 2007 Cadet finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coprire scacchiera 8x8 con 21 piastrelle 1x3*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Dn8ZecdOYUyYHtHKXwFBMWk2VpE5AjPv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Cover an 8x8 chessboard with 21 tiles 1x3< MSK1/>
+
+![[src_kangourou_2007_cadet_maggio__probC4.png]]
+
+> Is it possible to place $21$ rectangular tiles, the sides of which measure $1$ cm and $3$ cm, on a chessboard $8 \times 8$ made up of side squares $1$ cm so that there are no tiles coming from the grid or partially overlapping? In the case of a yes answer, it shows with a drawing how you would arrange the tiles, in the case of a negative answer it explains why it is not possible.
+
+**Answer:** si
+[[src_kangourou_2007_cadet_maggio__QC4]]

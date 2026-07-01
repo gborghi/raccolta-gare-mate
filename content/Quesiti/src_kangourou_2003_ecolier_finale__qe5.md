@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier finale nazionale — Quesito E5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier_finale__QE5
 parent: src_kangourou_2003_ecolier_finale
 competition: Kangourou 2003 Ecolier finale nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Inserire 1..9 con somme 20 attorno ai vertici*
 
@@ -56,3 +59,30 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** due soluzioni
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K82beAyOpLONvc5G6hM8HqH2YHqU6t2R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Insert 1.9, with sums of 20 around the vertices*
+
+![[src_kangourou_2003_ecolier_finale__probE5.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \draw (0,0) grid (3,3);
+  \filldraw (1,1) circle (3pt);
+  \filldraw (2,1) circle (3pt);
+  \filldraw (1,2) circle (3pt);
+  \filldraw (2,2) circle (3pt);
+  \node at (1.5,1.5) {\textbf{5}};
+  \node at (2.5,0.5) {\textbf{3}};
+\end{tikzpicture}
+\end{document}
+```
+
+> The figure you're going to get is a square taken from 9 smaller squares. You must enter all the numbers from $1$ to $9$, one for each square, so that the sum of the four numbers surrounding each of the inner vertices, marked with a black ball, is $20$. As you can see, the numbers $3$ and $5$ have already been placed: enter the remainder. (see figure)
+
+**Answer:** due soluzioni
+[[src_kangourou_2003_ecolier_finale__QE5]]

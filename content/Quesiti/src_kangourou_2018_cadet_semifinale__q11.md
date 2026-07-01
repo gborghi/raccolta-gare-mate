@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Semifinale individuale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_semifinale__Q11
 parent: src_kangourou_2018_cadet_semifinale
 competition: Kangourou 2018 Cadet - Semifinale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezze del sesto listello per triangolo equilatero*
 
@@ -66,3 +69,36 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0004
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kVLsfgriHzHWeJPk7c69FlUrtxeTTMzS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lengths of the sixth row for an equilateral triangle*
+
+![[src_kangourou_2018_cadet_semifinale__prob11.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.8]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (8,0);
+  \coordinate (C) at (4,6.928);
+  \draw (A) -- (B) -- (C) -- cycle;
+  \draw (3,-0.12) -- (3,0.12);
+  \node[below] at (1.5,-0.05) {$3\,cm$};
+  \node[below] at (5.5,-0.05) {$5\,cm$};
+  \draw (2.130, 3.389) -- (1.870, 3.539);
+  \node[left] at (1.5, 5.2) {$4\,cm$};
+  \node[left] at (1.0, 1.73) {$4\,cm$};
+  \draw (5.130, 5.271) -- (4.870, 5.121);
+  \node[right] at (6.5, 5.5) {$2\,cm$};
+  \node[right] at (7.0, 2.0) {$6\,cm$};
+\end{tikzpicture}
+\end{document}
+```
+
+> (Points 5) Cinzia has 5 stripes 2, 3, 4, 5 and 6 centimeters long and can choose the length of a sixth stripe so as to form, using all six, an equilateral triangle. How many different lengths can the sixth list have? (The figure shows you how you can build the triangle with a sixth row 4 cm long, and this is one of the possible lengths.)
+
+**Answer:** 0004
+[[src_kangourou_2018_cadet_semifinale__Q11]]

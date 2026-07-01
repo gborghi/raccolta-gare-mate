@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Gioco Koala (Pre-Ecolier) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_preecolier_koala__Q10
 parent: src_kangourou_2021_preecolier_koala
 competition: Kangourou 2021 Gioco Koala (Pre-Ecolier)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punto d'arrivo del gatto dopo 20 metri sul muro*
 
@@ -43,3 +46,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cat's arrival point after 20 metres on the wall*
+
+![[src_kangourou_2021_preecolier_koala__prob10.png]]
+
+> Ronron's cat is walking on a wall. Start from point B and follow the direction of the arrows shown in the image. What point do you reach after walking exactly 20 meters?
+>
+> - **(A)** In A
+> - **(B)** In B
+> - **(C)** In C
+> - **(D)** In D
+> - **(E)** In E (see figure)
+
+**Answer:** D
+[[src_kangourou_2021_preecolier_koala__Q10]]

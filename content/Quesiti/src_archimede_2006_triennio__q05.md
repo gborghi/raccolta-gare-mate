@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Triennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_triennio__Q05
 parent: src_archimede_2006_triennio
 competition: Giochi di Archimede 2006 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo rettangolo da proiezioni dei cateti*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area triangle rectangle by projections of the catheters*
+
+> In a rectangular triangle the projections of the cathetes on the hypotenuse measure 3 m and 12 m respectively. What is the area of the triangle?
+>
+> - **(A)** 45 m2,
+> - **(B)** 60 m2,
+> - **(C)** 72 m2,
+> - **(D)** 84 m2,
+> - **(E)** 90 m2.
+
+**Answer:** A
+[[src_archimede_2006_triennio__Q05]]

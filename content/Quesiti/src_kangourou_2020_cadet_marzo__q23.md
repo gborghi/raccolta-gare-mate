@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q23
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti A di 4 cifre con meta/terzo/quinto divisibili per 2/3/5*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quantities A of 4 digits with a meta/third/fifth divisible by 2/3/5*
+
+> How many positive integers A of four significant digits are such that half of the number A is divisible by 2, one third of the number A is divisible by 3 and one fifth of the number A is divisible by 5? A) 1
+> 	
+> B) 7
+> 	
+> C) 9
+> 	
+> D) 10
+> 	
+> E) 11
+
+**Answer:** D
+[[src_kangourou_2020_cadet_marzo__Q23]]

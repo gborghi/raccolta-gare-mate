@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q19
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n^2 distinct reals in n×n grid satisfying row/column max conditions; find min m*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2n - 1
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*n^2 reali distinte in n ×n griglia che soddisfano le condizioni massime di riga/colonna; trovare min m*
+
+> Numero intero $n \ge 2$. Trova il numero intero meno positivo $m$, in modo che ci siano $n^2$ numeri reali positivi distinti $x_{i,j}$ ($1 \le i, j \le n$) che soddisfano le seguenti condizioni: \begin{enumerate} \item[(1)] Per ogni $i$, $j$: $$x_{i,j} = \max\{x_{i,1}, x_{i,2}, \ldots, x_{i,j}\} \quad \text{or} \quad x_{i,j} = \max\{x_{1,j}, x_{2,j}, \ldots, x_{i,j}\};$$ \item[(2)] Per ogni $i$, ci sono al massimo $m$ indici $k$ con $x_{i,k} = \max\{x_{i,1}, x_{i,2}, \ldots, x_{i,k}\}$; \item[(3)] Per ogni $j$, ci sono al massimo $m$ indici $k$ con $x_{k,j} = \max\{x_{1,j}, x_{2,j}, \ldots, x_{k,j}\}$. \end{enumere}
+
+**Risposta:** 2n - 1
+[[src_cn_ctst_2021__Q19]]

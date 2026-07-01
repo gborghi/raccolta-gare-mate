@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1980-81 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1980-81_round2__Q01
 parent: src_bmo_1980-81_round2
 competition: British Mathematical Olympiad 1980-81 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle sides red; 3 blue lines cut into 4 congruent triangles and 3 pentagons; find area fraction*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I lati del triangolo rosso; 3 linee blu tagliate in 4 triangoli congruenti e 3 pentagoni; trovare la frazione di superficie*
+
+> Un determinato triangolo ha i suoi tre lati di colore rosso. Tre linee rette blu tagliano il triangolo in sette pezzi, quattro dei quali sono triangoli e tre sono pentagoni. Due lati di ogni triangolo sono blu e uno di loro ha anche il suo terzo lato blu.
+> 
+> Dato che tutti e quattro i triangoli sono congruenti, esprimere l'area di ciascuno come una frazione dell'area del triangolo dato.
+
+[[src_bmo_1980-81_round2__Q01]]

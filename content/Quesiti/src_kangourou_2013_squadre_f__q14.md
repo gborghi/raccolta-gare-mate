@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Finale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q14
 parent: src_kangourou_2013_squadre_f
 competition: Kangourou Coppa Squadre 2013 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri con due zeri finali prodotto di 7 consecutivi <26*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers with two final zeros produced by 7 consecutive <26*
+
+> Two zeros at the end How many are such numbers that: - their writing ends exactly with two zeros (i.e. the last two digits are zero, but not the thirdlast); - are they expressible as the product of seven consecutive positive integers all less than 26?
+
+**Answer:** 6
+[[src_kangourou_2013_squadre_f__Q14]]

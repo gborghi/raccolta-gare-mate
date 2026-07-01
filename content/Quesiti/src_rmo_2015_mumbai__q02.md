@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Mumbai — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_mumbai__Q02
 parent: src_rmo_2015_mumbai
 competition: Regional Mathematical Olympiad 2015
@@ -35,6 +36,8 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-digit base-10 numbers with at least one 5 and at most one 3*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aKO7__cJlTFnDSJpRW04wWyB2aJzzbY3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri base-10 a 3 cifre con almeno un 5 e un massimo di 3*
+
+> Determinare il numero di numeri a 3 cifre nella base 10 che hanno almeno un 5 e un 3 al massimo.
+
+[[src_rmo_2015_mumbai__Q02]]

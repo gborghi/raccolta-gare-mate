@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (finale Cervia) — Quesito E3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_finale__QE3
 parent: src_kangourou_2016_ecolier_finale
 competition: Kangourou 2016 Écolier (finale Cervia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime cifre possibili se somma e prodotto coincidono*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0, 2 e 4
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17WfUAkrXUQQ692jH5sAM_Bsr9ebUFZPI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Last possible figures if sum and product match< MSK1/>
+
+![[src_kangourou_2016_ecolier_finale__probE3.png]]
+
+> Two integers are such that their product and their sum have the same last digit (i.e. that of the units). Of the ten digits, what can be the last digit of the sum?
+
+**Answer:** 0, 2 e 4
+[[src_kangourou_2016_ecolier_finale__QE3]]

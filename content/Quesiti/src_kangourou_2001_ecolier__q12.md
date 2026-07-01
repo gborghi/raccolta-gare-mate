@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_ecolier__Q12
 parent: src_kangourou_2001_ecolier
 competition: Kangourou 2001 - Ecolier (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Carrozze del treno dove si incontrano*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Train carriages where they meet*
+
+> Elizabeth and Catherine are traveling on a train. Elizabeth entered the 17th carriage, starting from the train's head, while Catherine entered the 34th carriage starting from the train's tail. What a surprise! They meet in the same carriage. How many carriages is the train made of?
+>
+> - **(A)** 48
+> - **(B)** 49
+> - **(C)** 50
+> - **(D)** 51
+> - **(E)** 52.
+
+**Answer:** C
+[[src_kangourou_2001_ecolier__Q12]]

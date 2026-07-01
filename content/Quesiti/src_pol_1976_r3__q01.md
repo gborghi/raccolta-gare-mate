@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1976 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1976_r3__Q01
 parent: src_pol_1976_r3
 competition: Olimpiade Matematica Polacca 1976 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Decide whether a product of five sines of multiples of pi/18 is rational.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PxGC28sBLT0pD-IOjDgoTvfc9tTCy6v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Decidere se un prodotto di cinque seni dei moltipli di pi/18 è razionale.*
+
+> Il numero $\sin\frac{\pi}{18}\sin\frac{3\pi}{18}\sin\frac{5\pi}{18}\sin\frac{7\pi}{18}\sin\frac{9\pi}{18}$ è razionale?
+
+[[src_pol_1976_r3__Q01]]

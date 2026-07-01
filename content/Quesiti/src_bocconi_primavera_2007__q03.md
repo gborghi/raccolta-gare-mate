@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2007 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2007__Q03
 parent: src_bocconi_primavera_2007
 competition: Semifinale di Primavera 2007
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordine delle macchinine nel garage-giocattolo*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Nell'ordine: nera – rossa – blu – verde – azzurra
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Orders of machines in the toy garage*
+
+> Desiderio is a machine collector. It has $5$ of different colours: a blue, a blue, a black, a red and a green. He also has the fixation to park them in his toy garage, one next to the other, always in the same way: - the blue is next to the green; - between the red and the blue there are two cars; - the red is neither the first nor the last; - the black is to the left of the blue but between them there is another car.
+> 
+> How are Desiderio machines placed?
+
+**Answer:** Nell'ordine: nera – rossa – blu – verde – azzurra
+[[src_bocconi_primavera_2007__Q03]]

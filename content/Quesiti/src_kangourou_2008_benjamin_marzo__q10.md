@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q10
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo isoscele con angolo non acuto*
 
@@ -95,3 +98,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Isosceles triangle with non-acute angle*
+
+![[src_kangourou_2008_benjamin_marzo__prob10.png]]
+
+> Pierino believes that if a triangle is isosceles (i.e. has 2 equal angles), then all its angles are sharp (i.e. less than 90°). Which of the following figures can convince you otherwise? A B C D E F H N T O I J P M L K S R Q X 4 3 5 20 15 7 28 21 X 35 63 30 ? 4 cm
+>  
+> The Commission shall adopt delegated acts in accordance with the opinion of the Committee on Budgetary Control and with the opinion of the Committee on Budgetary Control and the Committee on Budgetary Control.
+> 
+> I'm going to pay. I'm going to pay. 12 12 Kang 2008 Kang 2008 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2008_benjamin_marzo__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_ecolier_f__Q03
 parent: src_kangourou_2015_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2015 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime quattro cifre dopo aver scritto 1788 cifre*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1632
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iZrTBi-soab93JlVJUtlAaAcp-N69n0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last four digits after writing 1788 digits*
+
+> One by one Alberto writes down the whole numbers starting from 1, this way: 1 2 3 4 5 6 7 8 9 10 11 12... . When you write 1788 digits, you get tired and stop. What are the last four digits you wrote?
+
+**Answer:** 1632
+[[src_kangourou_2015_squadre_ecolier_f__Q03]]

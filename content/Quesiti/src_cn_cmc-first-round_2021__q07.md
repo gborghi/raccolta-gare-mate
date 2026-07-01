@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q07
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cube die thrown three times; probability |a1-a2|+|a2-a3|+|a3-a1|=6.*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cube die lanciato tre volte; probabilità \a1-a2 del + del a2-a3 del + del a3-a1 del = 6. *
+
+> [Test Paper A, Problem 7] Un dado cubo pari viene lanciato tre volte, e i numeri rivolti verso l'alto sono $a_1,a_2,a_3$ in ordine. Quindi la probabilità di evento $|a_1-a_2|+|a_2-a_3|+|a_3-a_1|=6$ è ______.
+
+**Risposta:** \dfrac{1}{4}
+[[src_cn_cmc-first-round_2021__Q07]]

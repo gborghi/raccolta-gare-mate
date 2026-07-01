@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2026 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo36yqa_yosen__Q03
 parent: src_jmo36yqa_yosen
 competition: Japan Mathematical Olympiad 2026 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find AC/AD given equal chord segments and three triangle areas on a circle*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\dfrac{11\sqrt{6}}{24}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova AC/AD dato segmenti di accordi uguali e tre aree triangolari su un cerchio*
+
+> Su un cerchio ci sono cinque punti $A$, $B$, $C$, $D$, $E$ in questo ordine. $P$ e $Q$ siano rispettivamente le intersezioni di accordi $BE$ con accordi $AC$ e di accordi $BE$ con accordi $AD$. Supponiamo che < MSK11/> sia valido. Le superfici dei triangoli $BCP$, $APQ$ e $DEQ$ sono rispettivamente $2$, $9$ e $3$. Trova il valore di $\dfrac{AC}{AD}$, dove $XY$ indica la lunghezza del segmento $XY$.
+
+![[src_jmo36yqa_yosen__Q03.png]]
+
+**Risposta:** \dfrac{11\sqrt{6}}{24}
+[[src_jmo36yqa_yosen__Q03]]

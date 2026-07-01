@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin__Q07
 parent: src_kangourou_2023_benjamin
 competition: Kangourou 2023 Benjamin — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quali*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> equal to < MSK1/>
+
+![[src_kangourou_2023_benjamin__prob7.png]]
+
+> Alice has the four pieces shown in this figure. Two of these can be combined to form the hexagon of the second figure. What kind? A) 1 e 2 B) 1 e 3 C) 2 e 3 D) 2 e 4 E) 1 e 4
+
+**Answer:** B
+[[src_kangourou_2023_benjamin__Q07]]

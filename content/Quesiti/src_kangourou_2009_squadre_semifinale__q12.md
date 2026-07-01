@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 squadre semifinale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q12
 parent: src_kangourou_2009_squadre_semifinale
 competition: Kangourou 2009 squadre semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Denominatore del prodotto telescopico (1-2/n)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4950
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Name of the telescopic product (1-2/n) *
+
+> A product of 98 factors Express the value of the following product (1  2/3) × (1  2/4) × (1  2/5) ×...× (1  2/99) × (1  2/100) by a fraction that is numerator and denominator of positive integers and is reduced to the minimum terms. Write the denominator of the fraction.
+
+**Answer:** 4950
+[[src_kangourou_2009_squadre_semifinale__Q12]]

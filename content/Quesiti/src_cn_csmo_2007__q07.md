@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2007 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2007__Q07
 parent: src_cn_csmo_2007
 competition: China Southeastern Mathematical Olympiad 2007
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all prime triples (a,b,c) with 0<a<b<c<100 and a+1,b+1,c+1 in geometric progression*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i tripli primi (a,b,c) con 0<a<b<c<100 e a+1,b+1,c+1 in progressione geometrica*
+
+> Trovare l'archivio $(a, b, c)$ che soddisfa le seguenti condizioni:
+> 
+> (1) $0 < a < b < c < 100$, dove $a$, $b$, $c$ sono tutti numeri primi.
+> 
+> (2) $a + 1$, $b + 1$, $c + 1$ costituiscono la progressione geometrica.
+
+[[src_cn_csmo_2007__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f2__Q09
 parent: src_obm_2007_n1_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 2
@@ -41,6 +42,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a number table, the diagonal-n sum is 2n+(n-1)k; find diagonal 9, diagonal 2007, and its remainder mod 100.*
 
@@ -55,3 +58,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c1KSYB2Si60KoloY7duhcwVwRnP2K6BN/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In una tabella di numeri, la somma di diagonale-n è 2n+(n-1) k; trovare la diagonale 9, la diagonale 2007, e il suo rimanente mod 100.*
+
+> Esaminando la tabella, si può concludere che la somma degli elementi diagonali $n$ è uguale a $2n+(n-1)k$, dove $k$ è la cifra unità del numero $n$. Ad esempio, la diagonale numerata $4$ ha la somma $2\cdot 4+(4-1)\cdot 4=20$, ecc. (a) Indicare che la somma degli elementi della diagonale $9$ è $2\cdot 9+(9-1)\cdot 9=90$ (equivalentemente, i numeri $9$ da $1$ a $9$ di quella diagonale danno $10\cdot 9=90$). b) Indicare che la somma diagonale $2007$ è $2\cdot 2007+(2007-1)\cdot 7=4014+14042=18056$ e trovare il resto della divisione di questo numero per $100$ (il resto è $56$).
+
+[[src_obm_2007_n1_f2__Q09]]

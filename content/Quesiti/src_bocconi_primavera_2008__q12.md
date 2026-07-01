@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q12
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Mucche nere che danno più latte delle bianche*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** Le nere danno più latte: 3 mucche bianche equivalgono a 10 nere
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Black flies that give more milk than white flies< MSK1/>
+
+> Three black cows and four white cows give as much milk in six days as three white cows and four black cows give in seven days. Which cows (individually) give more milk, the black cows or the white cows?
+
+**Answer:** Le nere danno più latte: 3 mucche bianche equivalgono a 10 nere
+[[src_bocconi_primavera_2008__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f1__Q19
 parent: src_obm_2014_n2_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which of the five numbers is largest?*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Quale dei cinque numeri è il più grande?
+
+> Indicare quale alternativa dà il numero più grande dei cinque numeri.
+> 
+> (A) $2014^5$ $\quad$ (B) $3015^4$ $\quad$ (C) $4016^3$ $\quad$ (D) $5017^2$ $\quad$ (E) $6018^1$
+
+**Risposta:** B
+[[src_obm_2014_n2_f1__Q19]]

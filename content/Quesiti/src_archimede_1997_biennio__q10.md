@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Biennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_biennio__Q10
 parent: src_archimede_1997_biennio
 competition: Giochi di Archimede 1997 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area di una figura formata da archi di cerchio*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TBCBxk41PfhfCNwF0me53U4VCY16S0qo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of a figure formed by circle arcs*
+
+![[src_archimede_1997_biennio__prob10.png]]
+
+> Determine the area of the drawn figure, knowing that each of the arcs (a semicircle and two quarters of circumference) is obtained from a circumference of 1 cm radius.
+>
+> - **(A)** π/2 cm2
+> - **(B)** 2 cm2
+> - **(C)** π cm2
+> - **(D)** 4 cm2
+> - **(E)** 2π cm2.
+
+**Answer:** B
+[[src_archimede_1997_biennio__Q10]]

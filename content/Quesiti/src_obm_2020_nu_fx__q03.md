@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x —
   Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2020_nu_fx__Q03
 parent: src_obm_2020_nu_fx
 competition: Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 5x5 matrices over F_{13} satisfying A^5 = I*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare matrici 5x5 su F_{13} soddisfacente A^5 = I*
+
+> $\mathbb{F}_{13} = \{\bar{0}, \bar{1}, \ldots, \overline{12}\}$ sia il campo finito con 13 elementi (con modulo di somma e moltiplicazione 13). Determinare il numero di matrici $5 \times 5$ $A$ con voci in $\mathbb{F}_{13}$ in modo tale che $$A^5 = I,$$ in cui $I$ denota la matrice di identità $5 \times 5$.
+
+[[src_obm_2020_nu_fx__Q03]]

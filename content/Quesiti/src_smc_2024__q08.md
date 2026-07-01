@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2024 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2024__Q08
 parent: src_smc_2024
 competition: Senior Mathematical Challenge 2024
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Remove one expression from {4x, 8x, 12x, 16x, 20x} so mean of remaining four is 11x*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rimuovi una espressione da {4x, 8x, 12x, 16x, 20x} in modo che la media dei quattro rimanenti sia 11x*
+
+> In queste espressioni $x$ non è zero. Quando una di queste espressioni viene rimossa, la media delle altre quattro è $11x$. Quale espressione viene rimossa?
+>
+> - **(A)** $4x$
+> - **(B)** $8x$
+> - **(C)** $12x$
+> - **(D)** $16x$
+> - **(E)** $20x$
+
+**Risposta:** D
+[[src_smc_2024__Q08]]

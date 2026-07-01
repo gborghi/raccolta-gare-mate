@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2011 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2011__Q03
 parent: src_cn_cgmo_2011
 competition: China Girls' Mathematical Olympiad 2011
@@ -30,6 +31,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inequality with four positive reals whose product is 1*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Inequità con quattro valori reali positivi il cui prodotto è 1*
+
+> Supponiamo che i numeri positivi reali $a$, $b$, $c$, $d$ soddisfino $abcd = 1$. Prova < MSK0/>
+
+[[src_cn_cgmo_2011__Q03]]

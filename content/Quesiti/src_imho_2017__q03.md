@@ -1,6 +1,7 @@
 ---
 title: IMO 2017 (LVIII International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2017__Q03
 parent: src_imho_2017
 competition: IMO 2017 (LVIII International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Hunter and rabbit game on plane; can hunter guarantee distance at most 100?*
 
@@ -52,3 +55,21 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f-FfFFSte2Xcf0IS6inIxe8_MiXPlKgB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Hunter and rabbit game on plane; can hunter guarantee distance at most 100? *
+
+> A hunter and an invisible rabbit play a game in the Euclidean plane. The rabbit's starting point, MSK0/, and the hunter's starting point, MSK1/, are the same. After $n - 1$ rounds of the game, the rabbit is at point $B_{n-1}$ and the hunter is at point $A_{n-1}$. In the $n^{\text{th}}$ round of the game, three things occur in order:
+> 
+> (i) The rabbit moves invisibly to a point $B_n$ such that the distance between $B_{n-1}$ and $B_n$ is exactly $1$.
+> 
+> (ii) A tracking device reports a point < MSK0/> to the hunter. The only guarantee provided by the tracking device to the hunter is that the distance between $P_n$ and $B_n$ is at most $1$.
+> 
+> (iii) The hunter moves visibly to a point $A_n$ such that the distance between $A_{n-1}$ and $A_n$ is exactly $1$.
+> 
+> Is it always possible, no matter how the rabbit moves, and no matter what points are reported by the tracking device, for the hunter to choose her moves so that after $10^9$ rounds she can ensure that the distance between her and the rabbit is at most $100$?
+
+[[src_imho_2017__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2019__Q02
 parent: src_tfjm_2019
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three friends sharing two bicycles to minimize the time for all to reach the end of a path*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Tre amici condividono due biciclette per ridurre al minimo il tempo per raggiungere la fine di un percorso
+
+> Martin, Anna e Carole decidono di fare una passeggiata in bicicletta. Scoprono che Martin ha dimenticato di chiudere la bicicletta, che era stata rubata. Per tornare, hanno solo due biciclette per tre persone, e vogliono raggiungere un punto. Si considera una persona che si muove a piedi a velocità $1$ e su una bicicletta a velocità $v \in \mathbb{R}$, $v > 1$. Inizialmente, i tre amici e le loro due biciclette sono al punto di partenza. In qualsiasi momento, un passeggero può prendere una bicicletta se e solo se si trova nello stesso punto del sentiero (un passeggero può camminare accanto a una bicicletta mentre la spinge), e in nessun momento può muoversi indietro. Un passeggero che scende una bicicletta la lascia lì dove è e continua a piedi. Si suppone che i camminatori non tornino mai indietro. Alla partenza ($t=0$), Anna e Carole partono in bicicletta; Martin parte a piedi. Al tempo $t=1/4$, a metà percorso, Carole scende la bicicletta e continua a piedi, mentre Anna continua a biciclare. Al tempo $t=1/2$, Martin raccoglie la bicicletta lasciata da Carole, e Anna arriva alla fine del sentiero. Infine, al tempo $t=3/4$, Martin e Carole arrivano allo stesso tempo alla fine del sentiero. La traiettoria è rappresentata nella figura 5. I passeggeri cercano di ridurre al minimo la durata $T$ necessaria per arrivare tutti e tre alla fine del percorso. Nell'esempio, $T=3/4$.\n\n\textbf{1.} Dato $v$, qual è $T_{\min}$, il valore più piccolo possibile per $T$? Fornisci un esempio di un'organizzazione tale che $T=T_{\min}$.\n\n\textbf{2.} D'ora in poi ci siano $n$ passeggeri e $k$ biciclette, con $0 < k < n$. Cosa è uguale a $T_{\min}$ come funzione di $v$, $k$ e $n$? Come si arriva al minimo? Si può iniziare con i casi $k=1$, $k=2$ e $k=n-1$.\n\n\textbf{3.} D'ora in poi, i passeggiatori sono autorizzati a tornare indietro in bicicletta e a trasportare con loro una bicicletta aggiuntiva (ma non a piedi). Prendiamo le domande precedenti, se questo consente di migliorare $T_{\min}$.\n\n\textbf{4.} Si suppone ora che ci siano alti e discendenti. Una bicicletta che va da sola su una pendenza si muove a velocità $p \in \mathbb{R}$, con $p > 0$ in discesa e $p < 0$ in salita, cioè in salita la bicicletta ruota indietro. Prendiamo le domande precedenti in questo caso, in funzione del parametro $p$.\n\n\textbf{5.} I camminatori hanno $k$ lamelle a rotazione $v$ e $\ell$ lamelle a rotazione che avanzano a velocità $w$. Prendi le domande precedenti in questo caso. Proponi e studia altre vie di ricerca.
+
+![[src_tfjm_2019__Q02.png]]
+
+[[src_tfjm_2019__Q02]]

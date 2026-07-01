@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Ecolier finale (maggio) — Quesito E6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_ecolier_maggio__QE6
 parent: src_kangourou_2007_ecolier_maggio
 competition: Kangourou 2007 Ecolier finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo numero che spostando il 6 si quadruplica*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 153846
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fZINTJ5guIb2ezsX6JthVc7FkvQfrpis/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The smaller number that moves 6 to quadruple *
+
+> Some of the integers that have 6 as a unit number also have this property: if you move the unit number 6 before the first digit of the number, you get a new number that is the product of the starting number by 4.
+> 
+> Find the smallest integer with this property. - Then he found others.
+
+**Answer:** 153846
+[[src_kangourou_2007_ecolier_maggio__QE6]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f2__Q09
 parent: src_obm_2010_n2_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC with angle bisectors meeting at I; AI=BC and angle ICA=2·angle IAC; find angle ABC*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10R1d2hHb89ymd5y0yUy3PquhrN5L7XmC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC con bisettori angolari che si incontrano a I; AI=BC e angolo ICA=2·angolo IAC; trovare angolo ABC*
+
+> I bisettori interni degli angoli $\hat{A}$ e $\hat{C}$ del triangolo $ABC$ si incontrano al punto $I$. È noto che $AI = BC$ e $m(\hat{ICA}) = 2\,m(\hat{IAC})$. Trova la misura dell'angolo $\hat{ABC}$.
+
+[[src_obm_2010_n2_f2__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2004 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2004__Q02
 parent: src_cn_cgmo_2004
 competition: China Girls' Mathematical Olympiad 2004
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimize a sum of three fractions in positive reals*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $-17+12\sqrt{2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimizzare la somma di tre frazioni in reali positivi*
+
+> $a$, $b$ e $c$ siano numeri reali positivi. Determinare il valore minimo di $$\frac{a+3c}{a+2b+c} + \frac{4b}{a+b+2c} - \frac{8c}{a+b+3c}.$$
+
+**Risposta:** -17+12\sqrt{2}
+[[src_cn_cgmo_2004__Q02]]

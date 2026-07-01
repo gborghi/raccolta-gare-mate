@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 1) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g1__Q12
 parent: src_bocconi_finaleint_2007_g1
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Addizione magica: completare la tabella con cifre 1,2,3, due caselle vuote per riga, e somme ai bordi*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** vedi griglia
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Magic addition: complete the table with 1,2,3, two empty boxes per row, and sums at the edges*
+
+> Each row and column in this table must contain the digits $1$, $2$, $3$, and so two empty boxes. The numbers outside the table indicate the total of the figures in the corresponding horizontal line or vertical column, read from left to right or from top to bottom. In a row, two adjacent numbers must be separated at least by an empty box or by two digits whose writing forms a number. Complete the table.
+
+![[src_bocconi_finaleint_2007_g1__Q12.png]]
+
+**Answer:** vedi griglia
+[[src_bocconi_finaleint_2007_g1__Q12]]

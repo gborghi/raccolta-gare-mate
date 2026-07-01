@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 2) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g2__Q02
 parent: src_bocconi_finaleint_2011_g2
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Addizione misteriosa con simboli ripetuti*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $91 + 19 = 110$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Mysterious addition with repeated symbols
+
+> In this addition, each symbol always replaces the same number and two different symbols replace two different numbers. Find the addition. Note: decimal writing of a multi-digit number never begins with $0$. $$\heartsuit\clubsuit + \clubsuit\heartsuit = \clubsuit\clubsuit\spadesuit$$
+
+**Answer:** $91 + 19 = 110$
+[[src_bocconi_finaleint_2011_g2__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1994 (35th IMO, Hong Kong) — Quesito 6'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1994__Q06
 parent: src_imo_1994
 competition: 'IMO 1994 (35th IMO, Hong Kong)'
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *prime-product membership condition for infinite prime sets*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uEhsmiYhsGIpd8-npjJnscoeuH2AmioB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*prime-product membership condition for infinite prime sets*
+
+> 6. Show that there exists a set A of positive integers with the following property: For any infinite set S of primes there exist two positive integers m ∈A and n /∈A each of which is a product of k distinct elements of S for some k ≥2.
+
+[[src_imo_1994__Q06]]

@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2023_nu_fx__Q06
 parent: src_obm_2023_nu_fx
 competition: Olimpíada Brasileira de Matemática 2023 — Nível Universitário — Fase x
@@ -41,6 +42,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all pairs (c,d) in R^2 such that a sequence with given recurrence of positive reals exists*
 
@@ -52,3 +55,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le coppie (c,d) in R^2 in modo tale che esista una sequenza con una data ricorrenza di reali positivi*
+
+> Determinare tutte le coppie $(c,d)\in\mathbb{R}^2$ di costanti reali in modo tale che esista una sequenza $(a_n)_{n\ge 1}$ di numeri reali positivi che soddisfi, per tutte $n\ge 1$, $$a_n \ge c\cdot a_{n+1} + d\cdot\sum_{1\le j < n} a_j.$$
+
+[[src_obm_2023_nu_fx__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q02
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two rectangular strips of paper overlapping, find perimeter of figure*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Due strisce rettangolari di carta che si sovrappongono, trovare il perimetro della figura < MSK1/>
+
+> Sono fornite due strisce rettangolari di carta: una lunga < MSK0/> e larga < MSK1/>, e un'altra lunga < MSK2/> e larga < MSK3/>. Uno è piegato perpendicolare sull'altro per formare la figura mostrata. Il perimetro di questa figura, in centimetri, è:
+> 
+> **A) ** 50 \quad **B) ** 60 \quad **C) ** 80 \quad **D) ** 100 \quad **E) ** 120
+
+![[src_obm_2006_n2_f1__Q02.png]]
+
+**Risposta:** C
+[[src_obm_2006_n2_f1__Q02]]

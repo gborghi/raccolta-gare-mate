@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2025 Junior finale — Quesito J2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2025_junior_finale__QJ2
 parent: src_kangourou_2025_junior_finale
 competition: Kangourou 2025 Junior finale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero appezzamenti quadrati con reticolato 1172m*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 312
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yaW5s2uqbSzbhTrfez8BLdVGZTxAKedo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of square plots with grid 1172m*
+
+> A rectangular botanical garden measuring $52 \times 24$ metres is divided into square plots all of the same size and all with sides parallel to those of the garden. Within the garden the plots are separated by lattices; the overall length of the lattices is < MSK1/> meters. How many square plots are there?
+
+**Answer:** 312
+[[src_kangourou_2025_junior_finale__QJ2]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo23yq_yosen__Q02
 parent: src_jmo23yq_yosen
 competition: Japan Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two 20x13 grids filled in two orders; count matching cells*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 87, 174
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dMCin6mfKEWYPJJU3SDEXt5-U6UwypUB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due reti 20x13 riempite in due ordini; conteggio delle celle corrispondenti*
+
+> Esistono due reti rettangolari di file $20$ e colonne $13$. In ciascuna cella di ciascuna griglia viene scritto un intero come segue:
+> 
+> - In una griglia, la prima riga è riempita da sinistra a destra con $1, 2, \ldots, 13$, la seconda riga da sinistra a destra con $14, 15, \ldots, 26$, e così via, fino all'ultima riga $248, 249, \ldots, 260$. - nell'altra griglia, la colonna più a destra è riempita dall'alto verso il basso con $1, 2, \ldots, 20$, la seconda colonna dall'alto verso il basso con $21, 22, \ldots, 40$ e così via, fino alla colonna più a sinistra $241, 242, \ldots, 260$.
+> 
+> Trova tutti gli enti che sono scritti nella stessa posizione (la stessa cella) in entrambe le griglie.
+
+**Risposta:** 87, 174
+[[src_jmo23yq_yosen__Q02]]

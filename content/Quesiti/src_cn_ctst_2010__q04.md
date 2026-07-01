@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2010 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2010__Q04
 parent: src_cn_ctst_2010
 competition: China National Team Selection Test 2010
@@ -32,6 +33,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Good graph map exists with value at most n factorial*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*C'è una buona mappa grafica con valore massimo n fattorial*
+
+> $G = G(V, E)$ sia un grafico semplice con insieme verticale $V$ e insieme di bordi $E$, e supponiamo che $|V| = n$. Una mappa $f: V \to \mathbb{Z}$ si dice buona se soddisfa: (1) $\displaystyle\sum_{v \in V} f(v) = |E|$; (2) Se si colorano arbitrariamente alcuni vertici in rosso, esiste un vertice rosso $v$ tale che $f(v)$ non è maggiore del numero di vertici adiacenti a $v$ che non sono colorati in rosso. Let < MSK9/>. Mostra che < MSK10/>.
+
+[[src_cn_ctst_2010__Q04]]

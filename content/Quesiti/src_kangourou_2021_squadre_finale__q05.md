@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2021 Finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q05
 parent: src_kangourou_2021_squadre_finale
 competition: Kangourou Coppa squadre 2021 Finale
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei pesi dei numeri di 5 cifre con 1..5*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of weights of 5-digit numbers with 1.5.*
+
+> We call the weight of a positive integer of at least two digits the number of ordered pairs of its digits, not necessarily adjacent, for which the first digit is greater than the second; for example, the weight of 5142 is 4. Consider all the positive five-digit integers that you can write using for each of them all the digits 1, 2, 3, 4, 5 and add up their weights: what number do you get?
+
+[[src_kangourou_2021_squadre_finale__Q05]]

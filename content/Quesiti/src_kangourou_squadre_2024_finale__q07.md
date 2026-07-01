@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2024_finale__Q07
 parent: src_kangourou_squadre_2024_finale
 competition: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area tra due circonferenze tangenti internamente diviso pi*
 
@@ -56,3 +59,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 3276
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area between two tangent circumferences internally divided by *
+
+![[src_kangourou_squadre_2024_finale__prob7.png]]
+
+> The shaded region The figure highlights two inner tangent circumferences in a point, the diameter of the outer circumference having that point as one of the extremes and the diameter of the same circumference perpendicular to it. The lengths in metres, 20 and 36, of the two segments indicated are also specified. What is the area of the region (shaded) divided by < MSK0/> in square metres?
+>  
+> } 36 20 } P Q A B C D E F G
+
+**Answer:** 3276
+[[src_kangourou_squadre_2024_finale__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f2__Q02
 parent: src_obm_2014_n1_f2
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ten children in line; minimum neighbor swaps to move tallest to position of shortest*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Dieci bambini in fila; scambi minimi di vicini per spostare la posizione più alta alla posizione più corta< MSK1/>
+
+> Dieci bambini formano una linea dalla più corta alla più alta. È noto che in questa linea non ci sono due bambini della stessa altezza. Con qualche movimento, il bambino più alto si muove nella posizione del più corto, usando solo scambi tra bambini vicini. Qual è il numero minimo di scambi di posizioni da effettuare?
+
+[[src_obm_2014_n1_f2__Q02]]

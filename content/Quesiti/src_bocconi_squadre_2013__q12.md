@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q12
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanto spetta a Mauro nella divisione della pizza*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2,50 euro
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How much is Mauro's in the pizza division?
+
+> Amerigo, Mauro and Renato went on a mountain trip. At the time of the snack. Amerigo realizes that he has forgotten his "wheat bags". Fortunately, cautiously, Mauro brought three pizzas; even more cautiously, Renato brought five. The three friends decide to divide into equal parts and then Amerigo, in return for their generosity, gives them 20 euros.
+> 
+> If the division of these 20 euros between Mauro and Renato is fair, how much will Mauro get?
+
+**Answer:** 2,50 euro
+[[src_bocconi_squadre_2013__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Finale Nazionale Junior — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q15
 parent: src_kangourou_2018_junior_finale
 competition: Kangourou 2018 Finale Nazionale Junior
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie intere con 2|x|+3|y|<23*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0169
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> Entire pairs with 2x offset+3 offset> < 23< MSK1/ offset
+
+> In a training centre you can study foreign languages, programming and accounting. The $35\%$ of those studying a language study English; the $13\%$ of the students of the centre study a language other than English. No student studies more than one language. What percentage of students at the center study a language?
+>
+> - **(A)** $13\%$
+> - **(B)** $20\%$
+> - **(C)** $22\%$
+> - **(D)** $48\%$
+> - **(E)** $65\%$
+
+**Answer:** 0169
+[[src_kangourou_2018_junior_finale__Q15]]

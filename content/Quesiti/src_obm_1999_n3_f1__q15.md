@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q15
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer x forming acute triangle with sides 12, 10, x*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integra x che forma un triangolo acuto con lati 12, 10, x*
+
+> Per quanti valori interi di $x$ esiste un triangolo con lati 12, 10 e $x$ angolato acuto?
+> 
+> A) 9 \quad B) 10 \quad C) 12 \quad D) 16 \quad E) 18
+
+**Risposta:** A
+[[src_obm_1999_n3_f1__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 2009 (L International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2009__Q04
 parent: src_imho_2009
 competition: IMO 2009 (L International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all angles CAB in triangle with angle bisectors and incenter*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yWPSpe4JzF1XdoCtCDrzGR7th1ybnuJR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find all angles CAB in triangle with angle bisectors and incenter*
+
+> Let $ABC$ be a triangle with $AB = AC$. The angle bisectors of $\angle CAB$ and $\angle ABC$ meet the sides $BC$ and $CA$ at $D$ and $E$, respectively. Let $K$ be the incenter of triangle $ADC$. Suppose that $\angle BEK = 45^\circ$. Find all possible values of < MSK11/>.
+
+[[src_imho_2009__Q04]]

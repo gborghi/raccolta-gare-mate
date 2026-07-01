@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2008 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2008_r2__Q03
 parent: src_pol_2008_r2
 competition: Olimpiade Matematica Polacca 2008 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all functions f: R->R satisfying a functional equation.*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBqpAesfIgvgnT5yAsrIJN7zQovSRGdZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le funzioni f: R->R che soddisfano un'equazione funzionale.*
+
+> Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$ che soddisfano $$f(f(x) - y) = f(x) + f(f(y) - f(-x)) + x \quad \text{for all real } x, y.$$
+
+[[src_pol_2008_r2__Q03]]

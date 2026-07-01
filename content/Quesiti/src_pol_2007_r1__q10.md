@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r1__Q10
 parent: src_pol_2007_r1
 competition: Olimpiade Matematica Polacca 2007 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In an acute triangle, two chains of perpendicular feet on the sides give triangles PQR and STU; prove they are congruent.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un triangolo acuto, due catene di piedi perpendicolari sui lati danno i triangoli PQR e STU; dimostrano che sono congruenti.*
+
+> Lasciate che $ABC$ sia un triangolo acuto. I punti $P$ e $U$ sono sul segmento $BC$, $Q$ e $S$ sul segmento $CA$, e $R$ e $T$ sul segmento $AB$, in modo tale che $$PR\perp BC,\quad QP\perp CA,\quad RQ\perp AB,\quad US\perp BC,\quad ST\perp CA,\quad TU\perp AB.$$ dimostri che i triangoli $PQR$ e $STU$ sono congruenti.
+
+[[src_pol_2007_r1__Q10]]

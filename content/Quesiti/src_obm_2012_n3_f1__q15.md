@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f1__Q15
 parent: src_obm_2012_n3_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ways to light lamps in 10 circles so consecutive circles differ in color*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*I percorsi per accendere le lampade in 10 cerchi in modo che i cerchi consecutivi differiscano di colore*
+
+> Un pannello luminoso è formato da 10 grandi cerchi. All'interno di ogni grande cerchio ci sono quattro lampade: una gialla, una verde, una rossa e una blu. Accendiamo una lampada di ogni grande cerchio in modo che due grandi cerchi consecutivi non abbiano lo stesso colore illuminato. In quanti modi si può fare questo, sapendo che è consentito che le lampade non consecutive abbiano lo stesso colore illuminato?
+> 
+> **A)** $(2^{10} - 1)^4$ $\quad$ **B)** $(2^4 - 1)^{10}$ $\quad$ **C)** $2^{10} - 1$ $\quad$ **D)** $2^4 - 1$ $\quad$ **E)** $2^{10} - 2^4$
+
+[[src_obm_2012_n3_f1__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2008 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2008__Q07
 parent: src_cn_cwmo_2008
 competition: China Western Mathematical Olympiad 2008
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the greatest k allowing three k-element sets of distinct nonnegative integers with componentwise sums equal to n*
 
@@ -49,3 +52,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la k più grande consentendo tre set di k-elementi di numeri interi non negativi distinti con somme di componenti uguali a n*
+
+> Per un dato intero positivo $n$, trovare il più grande intero positivo $k$, in modo tale che esistano tre set di $k$ diversi interi non negativi, $A = \{x_1, x_2, \ldots, x_k\}$, $B = \{y_1, y_2, \ldots, y_k\}$ e $C = \{z_1, z_2, \ldots, z_k\}$ con $x_i + y_i + z_i = n$ per qualsiasi $1 \leqslant i \leqslant k$. (Posato da Li Shenghong)
+
+**Risposta:** $k = \left\lfloor \frac{2n}{3} \right\rfloor + 1$
+[[src_cn_cwmo_2008__Q07]]

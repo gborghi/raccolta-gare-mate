@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara del Pubblico (Cesenatico) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_pubblico__Q10
 parent: src_archimede_2002_pubblico
 competition: Archimede 2002 - Gara del Pubblico (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *massima potenza che divide 1000!*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1999
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum power dividing by 1000!
+
+> Anna wins punished!
+> 
+> Anna was discovered by the professor while she was playing her weird game during class instead of following. Therefore, as punishment, they are assigned to calculate what is half of 1000 plus 1 two quarters of 1000, plus 1 $3/8$ of 1000, plus 1 $4/16$ of 1000, and so on going on until they stop at $20/2^{20}$-exams of 1000. But the professor realizes after a few minutes that the calculations are too much and the punishment is too heavy. So he says to Anna, "I'll save you all these calculations if you can tell me what the whole number is that you can freak out about by continuing to add $n/2^n$-hems of 1000". Can you give her a good suggestion?
+
+**Answer:** 1999
+[[src_archimede_2002_pubblico__Q10]]

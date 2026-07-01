@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q23
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo mosse per trasformare quadrato 5x5 in scacchiera*
 
@@ -81,3 +84,46 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum moves to turn a 5x5 square into a chessboard*
+
+![[src_kangourou_2016_junior_marzo__prob23.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.5]
+  \draw (0,0) grid (5,5);
+  \draw[->, thick] (5.5,2.5) -- (6.5,2.5);
+  \fill[gray!50] (8,0) rectangle (9,1);
+  \fill[gray!50] (10,0) rectangle (11,1);
+  \fill[gray!50] (7,1) rectangle (8,2);
+  \fill[gray!50] (9,1) rectangle (10,2);
+  \fill[gray!50] (11,1) rectangle (12,2);
+  \fill[gray!50] (8,2) rectangle (9,3);
+  \fill[gray!50] (10,2) rectangle (11,3);
+  \fill[gray!50] (7,3) rectangle (8,4);
+  \fill[gray!50] (9,3) rectangle (10,4);
+  \fill[gray!50] (11,3) rectangle (12,4);
+  \fill[gray!50] (8,4) rectangle (9,5);
+  \fill[gray!50] (10,4) rectangle (11,5);
+  \draw (7,0) grid (12,5);
+\end{tikzpicture}
+\end{document}
+```
+
+> Imagine a square divided into 25 equal cells. Initially, all cells are white, as shown in the diagram on the left. With each move, you can change the color of a pair of cells that have one side in common: the white cells turn dark and vice versa. What's the minimum number of moves to turn a square into a colorful chessboard like the figure on the right? A) 11
+> 	
+> B) 12
+> 	
+> C) 13
+> 	
+> D) 14
+> 	
+> E) 15
+
+**Answer:** B
+[[src_kangourou_2016_junior_marzo__Q23]]

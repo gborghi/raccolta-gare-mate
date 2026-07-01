@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_semifinale1__Q04
 parent: src_archimede_2025_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2025 - Semifinale 1
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pentagono con quadrato e triangolo isoscele, trovare AE*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0013
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pentagon with square and triangle isosceles, find AE*
+
+> The last enemy of James Bound, and of humanity, is an organization known as SPECTRAL THEOREM. Its logo is a convex pentagon ABCDE, such that ABCD is a square of side 10 and ADE is an isosceles triangle (based on AD). Knowing that the area of the triangle BDE is equal to 17 32 of the area of ABCDE, how much is AE?
+
+**Answer:** 0013
+[[src_archimede_2025_squadre_semifinale1__Q04]]

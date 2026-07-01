@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Cesenatico 2000 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2000__Q04
 parent: src_cesenatico_2000
 competition: Gara Nazionale Cesenatico 2000
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Salda re dispari di scacchiere/lunghezze*
 
@@ -52,3 +55,26 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1m2cu1BB_orH_NN83juhxGA750WDLvpjb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sparse weight of chessboard/lengths < MSK1/>
+
+![[src_cesenatico_2000__prob4b.png]]
+![[src_cesenatico_2000__prob4.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.6]
+  \draw (0,0) grid (5,5);
+\end{tikzpicture}
+\end{document}
+```
+
+> Fixed an entire $n > 1$, Alberto and Barbara play the following game: 1. Alberto chooses a positive whole. 2. Barbara chooses an integer greater than 1 that is multiple or submultiply the number of Albert (including the number itself). 3. Alberto returns to Barbara the number you said, possibly adding or subtracting 1.
+> 
+> The game continues by alternately repeating steps 2 and 3. Barbara wins if she can pick $n$ within 50 moves. For what values of MSK1 can Barbara win against any strategy of Alberto?
+
+[[src_cesenatico_2000__Q04]]

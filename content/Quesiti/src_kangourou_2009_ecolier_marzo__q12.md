@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q12
 parent: src_kangourou_2009_ecolier_marzo
 competition: Kangourou 2009 - Ecolier (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti modi completare il sudoku 4x4*
 
@@ -68,3 +71,32 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many ways to complete Sudoku 4x4*
+
+![[src_kangourou_2009_ecolier_marzo__prob12.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \draw[thin] (0,0) grid (4,4);
+  \draw[very thick] (0,0) rectangle (2,2);
+  \draw[very thick] (2,0) rectangle (4,2);
+  \draw[very thick] (0,2) rectangle (2,4);
+  \draw[very thick] (2,2) rectangle (4,4);
+  \node at (0.5, 2.5) {1};
+  \node at (1.5, 2.5) {2};
+  \node at (3.5, 1.5) {3};
+  \node at (3.5, 0.5) {4};
+\end{tikzpicture}
+\end{document}
+```
+
+> You want to complete the 4 x 4 grid in the figure by entering a number chosen from 1, 2, 3, 4 in each of the remaining boxes. You want to do this so that in every row, in every column and in each of the four 2 x 2 subgrids highlighted, each number appears once and only once. How many different ways can you accomplish your purpose? A) 1 B) 2 C) 4 D) 8 E) It is impossible to achieve what is required.
+
+**Answer:** E
+[[src_kangourou_2009_ecolier_marzo__Q12]]

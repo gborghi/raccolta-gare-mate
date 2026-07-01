@@ -1,6 +1,7 @@
 ---
 title: IMO 1976 (Eighteenth International Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1976_all__Q02
 parent: src_imo_1976_all
 competition: IMO 1976 (Eighteenth International Olympiad)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Iterated polynomial P_n(x)=x has real distinct roots*
 
@@ -34,3 +37,13 @@ tags:
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11l0Z3RXDT5mQvc_2OoUC_uxhAD2ME5IA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Iterated polynomial P_n(x)=x has real distinct roots*
+
+> Let $P_1(x) = x^2 - 2$ and $P_j(x) = P_1(P_{j-1}(x))$ for $j = 2, 3, \ldots$. Show that, for any positive integer $n$, the roots of the equation $P_n(x) = x$ are real and distinct.
+
+[[src_imo_1976_all__Q02]]

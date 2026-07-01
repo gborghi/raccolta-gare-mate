@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2009 (biennio/triennio) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_2livello__Q16
 parent: src_archimede_2009_2livello
 competition: Archimede Gara 2° livello 2009 (biennio/triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo OMN doppio di ACB e rapporto tra aree*
 
@@ -71,3 +74,44 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1kJX1jXmtAhS91R3b_nY3705JqOblrOJe/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*OMN angle double of ACB and ratio between areas*
+
+![[src_archimede_2009_2livello__prob16.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.7]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (4,0);
+  \coordinate (C) at (0,5);
+  \coordinate (M) at (2,2.5);
+  \coordinate (N) at (4.878,3.902);
+  \coordinate (H) at (2.439,1.951);
+  \coordinate (O) at (11.111,-8.889);
+  \draw (A)--(B)--(C)--cycle;
+  \draw (M) circle (3.20156);
+  \draw (B)--(O);
+  \draw (N)--(O);
+  \draw[dashed] (A)--(N);
+  \draw[dashed] (M)--(N);
+  \foreach \p in {A,B,C,M,N,H,O}{\fill (\p) circle (2pt);}
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above left] at (C) {$C$};
+  \node[above left] at (M) {$M$};
+  \node[above right] at (N) {$N$};
+  \node[below left] at (H) {$H$};
+  \node[below right] at (O) {$O$};
+\end{tikzpicture}
+\end{document}
+```
+
+> DEMOSTRATIVE EXERCISE A triangle ABC, rectangle A and with AC cathetus major is given; either M is the mean point of BC, N is the symmetrical point of A with respect to BC, or the intersection between the perpendicular to MN passing through N and the straight containing BC. (a) Demonstrate that the OMN angle is twice the ACB angle. (b) Demonstrate that the ratio of the MNO to ABC areas is one quarter of the ratio of the BC to HM lengths, where H is the foot of the height relative to the ABC hypotenuse.
+
+**Answer:** dimostrazione
+[[src_archimede_2009_2livello__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2011 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2011__Q16
 parent: src_bocconi_semifinale_2011
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2011
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Diametro della quinta sfera piu piccola appoggiata sulle altre quattro.*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** cm 4,14
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Diameter of the fifth smallest sphere supported on the other four.*
+
+> The witch Liliana has been given the gift of new crystal balls to practice reading the future with. The balls received as a gift are four and equal to each other. They lie on the bottom of a cylinder-shaped box, which has a base diameter of 20 cm, and their centers form a square. They are tangent to each other (two to two), tangent to the side surface of the box and tangent to the cover of the box when the box is closed. The box also contains a smaller fifth sphere, leaning (above) the previous four and tangent to the cover of the box when it is closed. What is the diameter of the smallest of the five spheres of the Liliana witch? (give the answer in cm, replacing $1{,}414$ with $\sqrt{2}$ and rounding the second decimal digit of the result to the nearest cent).
+
+**Answer:** cm 4,14
+[[src_bocconi_semifinale_2011__Q16]]

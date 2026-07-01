@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q21
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square room of side 4 m tiled completely with equal 1 m by 2 m rugs; count the number of tilings (three shown).*
 
@@ -54,3 +57,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Camera quadrata di 4 m laterali completamente di piastrelle con tappeti uguali a 1 m per 2 m; contare il numero di piastrelle (tre mostrate). < MSK1/>
+
+> Il pavimento di una stanza ha la forma di un quadrato laterale di 4 m. In quanti modi possiamo coprire completamente la stanza con tappeti uguali di dimensioni di 1 m per 2 m? Ecco tre modi per farlo.
+> 
+> (A) 27 \quad (B) 30 \quad (C) 34 \quad (D) 36 \quad (E) 52
+
+![[src_obm_2006_n3_f1__Q21.png]]
+
+**Risposta:** D
+[[src_obm_2006_n3_f1__Q21]]

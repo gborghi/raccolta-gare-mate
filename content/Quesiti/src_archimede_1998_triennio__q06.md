@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Triennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_triennio__Q06
 parent: src_archimede_1998_triennio
 competition: Giochi di Archimede 1998 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale affermazione e sicuramente vera fra tre relazioni*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which statement is certainly true among three reports*
+
+> We know that only one of the following three relationships is true: x = 5, x > 5, x ≤5. Which of the following is certainly true?
+>
+> - **(A)** x = 5
+> - **(B)** x ̸= 5
+> - **(C)** x > 5
+> - **(D)** x < 5
+> - **(E)** x ≥5.
+
+**Answer:** B
+[[src_archimede_1998_triennio__Q06]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 1) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g1__Q04
 parent: src_bocconi_finaleint_2011_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore quarto francobollo e quanti incollare*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 27 centesimi; 1102 (2011 al contrario)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fourth stamp value and adhesives *
+
+> The Mathematics Country post offices issue stamps with four different values. No more than two copies of the same stamp shall ever be affixed to an envelope. Three of the stamp values issued are $1c$, $3c$ and $9c$. The fourth value allows you to free up an envelope for any integer total value less than or equal to 80 cents. To send a briefcase of up to 20 grams by fast mail, it must be redeemed at a value of 58 cents. Enter the value of the fourth stamp and write under each stamp how many copies of that stamp are to be affixed to the envelope for that shipment.
+
+![[src_bocconi_finaleint_2011_g1__Q04.png]]
+
+**Answer:** 27 centesimi; 1102 (2011 al contrario)
+[[src_bocconi_finaleint_2011_g1__Q04]]

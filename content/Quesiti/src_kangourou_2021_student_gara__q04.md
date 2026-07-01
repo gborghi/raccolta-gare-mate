@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q04
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione ombreggiata di quadrato con cerchi inscritti*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shaded fraction of square with inscribed circles*
+
+![[src_kangourou_2021_student_gara__prob4.png]]
+
+> Look at the figure. A square was divided into smaller squares and a circle was inscribed on each of these squares, which in the figure appears shaded. What fraction of the area of the large square is shaded? A)
+> 	
+> B)
+> 	
+> C)
+>   	
+> D)
+> 	
+> E)
+
+**Answer:** E
+[[src_kangourou_2021_student_gara__Q04]]

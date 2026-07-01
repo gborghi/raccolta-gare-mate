@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2007 - Gara Triennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_triennio__Q14
 parent: src_archimede_2007_triennio
 competition: Giochi di Archimede 2007 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio di cerchi grigi inscritti in un cerchio grande*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ray of grey circles inscribed in a large circle*
+
+![[src_archimede_2007_triennio__prob14.png]]
+
+> In the figure next to it, the radius of the largest circle is 20 cm. What is the radius of the gray circles?
+>
+> - **(A)** 5 cm,
+> - **(B)** 6 cm,
+> - **(C)** 8 cm,
+> - **(D)** 9 cm,
+> - **(E)** 10 cm.                        
+
+**Answer:** C
+[[src_archimede_2007_triennio__Q14]]

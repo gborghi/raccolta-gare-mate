@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2010 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo20mq_honsen__Q04
 parent: src_jmo20mq_honsen
 competition: Japan Mathematical Olympiad 2010 — Honsen (Final)
@@ -27,6 +28,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic inequality in three positive reals*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5fGMf22vQ1jtaAwviwMBT_2MQ0Xy9uz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ineguaglianza ciclica in tre valori positivi < MSK1/>
+
+> Per i numeri reali positivi $x$, $y$, $z$, dimostrare che $$\frac{1+xy+xz}{(1+y+z)^2} + \frac{1+yz+yx}{(1+z+x)^2} + \frac{1+zx+zy}{(1+x+y)^2} \ge 1.$$
+
+[[src_jmo20mq_honsen__Q04]]

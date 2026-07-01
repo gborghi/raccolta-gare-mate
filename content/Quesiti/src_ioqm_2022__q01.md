@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q01
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle inscribed in circle, tangent through B, area bound*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo inciso in cerchio, tangente attraverso B, zona limitata*
+
+> Un triangolo $ABC$ con $AC = 20$ è inserito in un cerchio $\omega$. Una tangente $t$ a $\omega$ viene tracciata attraverso $B$. La distanza di $t$ da $A$ è 25 e quella da $C$ è 16. Se $S$ indica l'area del triangolo $ABC$, si trova il numero intero più grande non superiore a $S/29$.
+
+**Risposta:** 10
+[[src_ioqm_2022__Q01]]

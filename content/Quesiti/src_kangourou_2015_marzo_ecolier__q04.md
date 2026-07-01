@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Ecolier — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_ecolier__Q04
 parent: src_kangourou_2015_marzo_ecolier
 competition: Kangourou 2015 gara 19 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *min da levare*
 
@@ -53,3 +56,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uyscqszQ7Ea_lQVMzuEiajMqEDIWv_Tg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>min to be removed< MSK1/>
+
+![[src_kangourou_2015_marzo_ecolier__prob4.png]]
+
+> There's a couple of sheets on the table. Some are circular, some are square, some are triangular, as shown in the figure. If you want to leave only the same-shaped sheets on the table, what is the smallest number of sheets you can carry? A) 4            B) 9             C) 6             D) 8             E) 10 2 0 + 1 5 x − ? 4 7 9
+>
+
+**Answer:** B
+[[src_kangourou_2015_marzo_ecolier__Q04]]

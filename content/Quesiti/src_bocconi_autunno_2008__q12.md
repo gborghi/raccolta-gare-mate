@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2008 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2008__Q12
 parent: src_bocconi_autunno_2008
 competition: Giochi d'Autunno 2008
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quattro numeri estratti da sacchetto da 1 a 9 con somma data*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $1, 2, 3, 8$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Four numbers extracted from bags 1 to 9 with a given sum*
+
+> Jacob puts the first nine digits of the casket (from 1 to 9) in a bag. He pulls out four numbers in one go. From these four numbers, respecting the order of the digits on the edge of the casing, Jacob enjoys constructing all possible four-digit numbers. Then he adds them up and he gets 93324. What are the four numbers Jacob pulled out of the bag?
+
+**Answer:** $1, 2, 3, 8$
+[[src_bocconi_autunno_2008__Q12]]

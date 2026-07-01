@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2020_nu_fx__Q04
 parent: src_obm_2020_nu_fx
 competition: Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove/disprove every real 2x2 and 3x3 matrix is sum of two squares*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove/disprove ogni vera matrice 2x2 e 3x3 è la somma di due quadrati*
+
+> Per ciascun elemento, dimostrare o fornire un controesempio.
+> 
+> (a) (5 punti) Ogni matrice $2 \times 2$ reale può essere scritta come la somma dei quadrati di due matrici $2 \times 2$ reali.
+> 
+> b) (5 punti) Ogni matrice $3 \times 3$ reale può essere scritta come la somma dei quadrati di due matrici $3 \times 3$ reali.
+
+[[src_obm_2020_nu_fx__Q04]]

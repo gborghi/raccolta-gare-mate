@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Koala — Gioco Koala — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_koala__Q18
 parent: src_kangourou_2022_koala
 competition: Kangourou 2022 Koala — Gioco Koala
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Aiuola con la superficie più piccola*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Nyec1GxOQ3f28I_D0c1kacejlV99W-GD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Little-sized oil shale< MSK1/>
+
+![[src_kangourou_2022_koala__prob18.png]]
+
+> The green figures represent aids. The black circles represent points: the distance of each of them from each of the points closest to it is always the same. What's the shell with the smallest surface area? (see figure)
+
+**Answer:** A
+[[src_kangourou_2022_koala__Q18]]

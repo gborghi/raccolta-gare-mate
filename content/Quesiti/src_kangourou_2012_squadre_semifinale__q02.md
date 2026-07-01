@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre semifinale turno A — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q02
 parent: src_kangourou_2012_squadre_semifinale
 competition: Kangourou 2012 squadre semifinale turno A
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadrato del cateto AC nel triangolo rettangolo*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 936
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Square of the AC catheter in the rectangular triangle*
+
+> The right triangle the ABC triangle is a right triangle in A. The circumference with center in A and passing through B intersects the hypotenuse BC at point D: the BD segment is 20 cm long and the DC segment is 16 cm long. How much is the square of the length of the AC catheter?
+
+**Answer:** 936
+[[src_kangourou_2012_squadre_semifinale__Q02]]

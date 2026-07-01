@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1973-74 — Round 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1973-74_round1__Q09
 parent: src_bmo_1973-74_round1
 competition: British Mathematical Olympiad 1973-74 — Round 1
@@ -28,6 +29,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Vertical rod hinged at base falls; find time to reach table*
 
@@ -39,3 +42,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Rota verticale inclinata alle cascate di base; trovare il tempo per raggiungere il tavolo< MSK1/>
+
+> Una barra verticale uniforme di lunghezza $2a$ è inclinata alla sua estremità inferiore ad una giunta senza attrito fissata ad una tavola orizzontale. Cade dal riposo in questa posizione instabile sul tavolo. Trova il tempo impiegato per cadere. Commenta la tua risposta.
+> 
+> [Puoi citare il risultato $\displaystyle\int (\operatorname{cosec} x)\,dx = \log|\tan \tfrac{1}{2}x|$ se lo desideri.]
+
+[[src_bmo_1973-74_round1__Q09]]

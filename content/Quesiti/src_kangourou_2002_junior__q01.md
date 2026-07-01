@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q01
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto perimetri nelle due regioni*
 
@@ -42,3 +45,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter report in the two regions*
+
+![[src_kangourou_2002_junior__prob1.png]]
+
+> The figure represents a regular hexagon divided into two regions. What is the relationship between the perimeter of the shaded region and that of the complementary region?
+>  
+> A. 1      B. 1 / 2   C. 1 / ð   D. 1 / 4 E. cannot be answered without further information
+
+**Answer:** A
+[[src_kangourou_2002_junior__Q01]]

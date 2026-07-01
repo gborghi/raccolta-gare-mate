@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2009 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2009__Q02
 parent: src_cn_cwmo_2009
 competition: China Western Mathematical Olympiad 2009
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest set A containing all cyclic consecutive sums of n reals*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 3
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Settito più piccolo A contenente tutte le somme cicliche consecutive di n reali*
+
+> $n \geq 3$ sia un dato numero intero. Determinare il numero intero positivo $k$ più piccolo per il quale esiste un insieme $A$ di numeri reali $k$ e $n$ di numeri reali $x_1, x_2, \ldots, x_n$ che sono distinti l'uno dall'altro in modo tale che $x_1 + x_2,\ x_2 + x_3,\ \ldots,\ x_{n-1} + x_n,\ x_n + x_1$ siano tutti nel insieme $A$.
+
+**Risposta:** 3
+[[src_cn_cwmo_2009__Q02]]

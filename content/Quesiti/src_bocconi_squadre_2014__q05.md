@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2014 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2014__Q05
 parent: src_bocconi_squadre_2014
 competition: Gara a Squadre 2014
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza del segmento che congiunge medi consecutivi in rettangolo inscritto in cerchio diametro 2 cm*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $1$ cm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PSSDC_ll1LrO6ivPU9F5YeGvZHq7jVCq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of the segment joining consecutive mediums in a rectangle inscribed in a circle with a diameter of 2 cm*
+
+> Write any rectangle into a circle with a diameter of < MSK0/> cm and consider the midpoints of its sides. What is the length of the segment connecting two of these consecutive mean points?
+
+![[src_bocconi_squadre_2014__Q05.png]]
+
+**Answer:** $1$ cm
+[[src_bocconi_squadre_2014__Q05]]

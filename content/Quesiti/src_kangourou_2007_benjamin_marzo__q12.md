@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q12
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma lunghezze dei due segmenti (nastro 27 cm)*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total lengths of the two segments (27 cm tape) *
+
+![[src_kangourou_2007_benjamin_marzo__prob12.png]]
+
+> Cristina has a 27 cm long paper tape. It divides it into 4 rectangles of different sizes and traces two segments so that each of the segments connects the centers of two adjacent rectangles, as shown in the figure. Find the sum of the lengths of the two segments. A) 12 cm B) 13.5 cm C) 14 cm D) 14.5 cm E) the number depends on how the tape is divided
+
+**Answer:** B
+[[src_kangourou_2007_benjamin_marzo__Q12]]

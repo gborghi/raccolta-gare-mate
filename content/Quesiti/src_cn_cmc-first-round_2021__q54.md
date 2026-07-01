@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 54
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q54
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *B1-10: f(x)=|2-log_3 x|, a<b<c with f(a)=2f(b)=2f(c); minimum of ac/b.*
 
@@ -45,3 +48,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+MSK0/>B1-10: f(x) = lain2-log_3 < c) in cui f(a) 2f(b) = 2f(c); minimo di ac/b.*
+
+> [Paper di prova B1, problema 10] (20 punti) Data la funzione $f(x)=|2-\log_3 x|$, i numeri reali positivi $a,b,c$ soddisfano $a<b<c$ e $f(a)=2f(b)=2f(c)$. Trova il minimo di $\dfrac{ac}{b}$.
+
+**Risposta:** 9
+[[src_cn_cmc-first-round_2021__Q54]]

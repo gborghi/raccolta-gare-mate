@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1978 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1978_r3__Q03
 parent: src_pol_1978_r3
 competition: Olimpiade Matematica Polacca 1978 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *If polynomials P,Q,R of degree less than m satisfy the given identity, prove each is zero.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AGtrG0C8tcQJU36uFC-bh5dGK0KglZ6h/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Se i polinomi P,Q,R di grado inferiore a m soddisfano l'identità data, dimostrare che ciascuno è zero.*
+
+> Prova che se $m$ è un numero naturale e $P,Q,R$ polinomi di gradi inferiori a $m$ soddisfa $$x^{2m}P(x,y)+y^{2m}Q(x,y)=(x+y)^{2m}R(x,y),$$ allora ciascuno dei polinomi è zero.
+
+[[src_pol_1978_r3__Q03]]

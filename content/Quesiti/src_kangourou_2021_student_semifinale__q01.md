@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student semifinale individuale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_semifinale__Q01
 parent: src_kangourou_2021_student_semifinale
 competition: Kangourou 2021 Student semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *una sola affermazione vera su euro di Lisa*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IahsSM_MZJlR1eyHAikMsP1bcQJPn6jC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>one single true statement in euro of Lisa< MSK1/>
+
+> (2 points) If any of the following three statements
+>  
+> (a) Lisa has more than 2021 euros (b) Lisa has less than 2021 euros (c) Lisa has at least 1 euro one and only one is true, which of the following claims is definitely false? A) Lisa has 2021 euros.
+>  
+> B) Lisa has no euro.
+>  
+> C) Lisa has a thousand euros. (D) Claim (c) is false. E) The statement c) is true.
+
+**Answer:** C
+[[src_kangourou_2021_student_semifinale__Q01]]

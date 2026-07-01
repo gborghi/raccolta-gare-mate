@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2012 — Quesito
   1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2012__Q01
 parent: src_bocconi_finalenaz_2012
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2012
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Undici numeri in ordine alfabetico, terzultima posizione*
 
@@ -49,3 +52,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Eleven numbers in alphabetical order, third position*
+
+> Milena writes the eleven numbers you see above in letters and then she puts them in alphabetical order: five, ten, two, ...
+> 
+> $$10 \; ; \; 9 \; ; \; 8 \; ; \; 7 \; ; \; 6 \; ; \; 5 \; ; \; 4 \; ; \; 3 \; ; \; 2 \; ; \; 1 \; ; \; 0$$
+> 
+> In alphabetical order, which of these eleven numbers will occupy the third position?
+
+**Answer:** TRE
+[[src_bocconi_finalenaz_2012__Q01]]

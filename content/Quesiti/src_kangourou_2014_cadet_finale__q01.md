@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale Cadet — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet_finale__Q01
 parent: src_kangourou_2014_cadet_finale
 competition: Kangourou 2014 finale Cadet
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perché numero coppie = somma primi n-1 interi*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AnnZ-qUV6dWWweXJXKQibDtTu2LV1ZDz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Why number pairs = sum of prime n-1 integers*
+
+> You have $n$ objects and you want to form all possible pairs with them (for example, if the objects are the letters A, B and C, the possible pairs are three: $\{A,B\}$, $\{A,C\}$ and $\{B,C\}$). Whatever the $n$ number of objects (at least 2), it turns out that the number of pairs you can form coincides with the sum of the first $n-1$ positive integers. Without using any formula, would you be able to explain the reason for this coincidence?
+
+[[src_kangourou_2014_cadet_finale__Q01]]

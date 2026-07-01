@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f1__Q25
 parent: src_obm_2003_n2_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right triangle ABC; BD=8, EC=9; find angle DAE*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo retto ABC; BD=8, EC=9; angolo di ricerca DAE*
+
+> Nel triangolo $ABC$, abbiamo $AB = 20$, $AC = 21$ e $BC = 29$. I punti $D$ e $E$ sono a lato $BC$ con $BD = 8$ e $EC = 9$. Trova la misura dell'angolo $\angle DAE$, in gradi.
+> 
+> (A) $30^\circ$ \quad (B) $40^\circ$ \quad (C) $45^\circ$ \quad (D) $60^\circ$ \quad (E) $75^\circ$
+
+![[src_obm_2003_n2_f1__Q25.png]]
+
+**Risposta:** C
+[[src_obm_2003_n2_f1__Q25]]

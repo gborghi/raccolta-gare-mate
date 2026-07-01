@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2012 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2012__Q21
 parent: src_cn_cmc_2012
 competition: China Mathematical Competition 2012
@@ -35,6 +36,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all pairs (a,b) so f(f(x))>=f(x) for all real x*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\{(a,b) \mid 0 < b \le 1,\; 0 < a < 1,\; 2a + b \le 2\}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le coppie (a,b) così f(f(x))>=f(x) per tutte le x reali *
+
+> (20 punti) Trovare tutte le coppie di numeri reali $(a, b)$, in modo che $f(x) = ax^2 + b$ soddisfi $f(f(x)) \ge f(x)$ per qualsiasi numero reale $x$.
+
+**Risposta:** $\{(a,b) \mid 0 < b \le 1,\; 0 < a < 1,\; 2a + b \le 2\}$
+[[src_cn_cmc_2012__Q21]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2007 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2007__Q16
 parent: src_bocconi_primavera_2007
 competition: Semifinale di Primavera 2007
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completa il quadrato quasi magico con i numeri dati*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Quadrato completato: riga 1: $12,3,1,14$; riga 2: $6,8,12,4$; riga 3: $11,5,4,10$; riga 4: $1,14,13,2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Completes the almost magical square with the data numbers*
+
+> Complete the square of the figure in which some numbers already appear, so that in each row and column the sum of the numbers is always $30$. You can use the numbers $1$, $2$, $3$, $4$, $5$, $6$, $10$, $11$, $12$, $13$, $14$.
+
+![[src_bocconi_primavera_2007__Q16.png]]
+
+**Answer:** Quadrato completato: riga 1: $12,3,1,14$; riga 2: $6,8,12,4$; riga 3: $11,5,4,10$; riga 4: $1,14,13,2$
+[[src_bocconi_primavera_2007__Q16]]

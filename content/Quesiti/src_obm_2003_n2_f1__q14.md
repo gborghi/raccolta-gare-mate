@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f1__Q14
 parent: src_obm_2003_n2_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence a_n = (n+2)^2 - (n+3); find index of first non-prime term*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza a_n = (n+2)^2 - (n+3); trovare indice del primo termine non primo*
+
+> I numeri naturali superiori a 2, ciascuno diminuito di 2 in più di se stesso (cioè $a_n = (n+2)^2 - (n+3)$ per $n = 1, 2, 3, \ldots$), formano la sequenza $5, 11, 19, 29, 41, 55, \ldots$ Il primo elemento di questa sequenza che è * non * primo è il:
+> 
+> (A) Quarto Quadrato (B) Decimo Quadrato (C) Sesto Quadrato (D) Nona Quadrato (E) Settimo
+
+**Risposta:** C
+[[src_obm_2003_n2_f1__Q14]]

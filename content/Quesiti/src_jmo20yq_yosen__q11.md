@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo20yq_yosen__Q11
 parent: src_jmo20yq_yosen
 competition: Japan Mathematical Olympiad 2010 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle APC in quadrilateral with given angles and a midpoint-ratio point condition*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Find angle APC in quadrilaterale con angoli dati e una condizione di punto di rapporto punto medio*
+
+> In quadrilaterali $ABCD$, $\angle DAB = 110^\circ$, $\angle ABC = 50^\circ$, $\angle BCD = 70^\circ$. $M$ e $N$ siano rispettivamente i punti intermedi di $AB$ e $CD$. Prendere un punto $P$ sul segmento $MN$ in modo tale che $AM : CN = MP : NP$ e $AP = CP$. Trova la misura di $\angle APC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+[[src_jmo20yq_yosen__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2020 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_printemps__Q16
 parent: src_canimath_2020_printemps
 competition: Coupe Animath Printemps 2020
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all S so that positive integers each <=10 summing to S can always be split into two groups each <=70*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutti gli S in modo che i numeri interi positivi ogni <=10 sommando a S possa sempre essere diviso in due gruppi ciascuno <=70*
+
+> La somma di alcuni integri positivi (non necessariamente distinti), ognuno inferiore o uguale a $10$, è uguale a $S$. Trova tutti i valori di $S$ in modo tale che, qualunque siano questi enti, essi possano **sempre** essere suddivisi in due gruppi, ognuno di somma inferiore o uguale a $70$.
+
+[[src_canimath_2020_printemps__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (gara marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q21
 parent: src_kangourou_2016_ecolier_marzo
 competition: Kangourou 2016 Écolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordine di arrivo da 4 pronostici con 2 esatti ciascuno*
 
@@ -51,3 +54,23 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Arrival order from 4 forecasts with 2 accurate each*
+
+> Four cyclists A, B, C, D took part in a race. Before the race, four friends had predicted their arrival order: CDBA according to Rocco, DABC according to Salvo, CBAD according to Tino, BACD according to Vito. In these forecasts the exact position of each cyclist's arrival has been guessed at least twice. What was the order of arrival? (a) DCBA
+> 	
+> (b) DACB
+> 	
+> C) CABD
+> 	
+> (d) BADC
+> 	
+> E) ABCD
+>
+
+**Answer:** C
+[[src_kangourou_2016_ecolier_marzo__Q21]]

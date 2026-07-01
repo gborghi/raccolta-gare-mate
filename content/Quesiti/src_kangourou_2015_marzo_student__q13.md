@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q13
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero nel punto interrogativo*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*number in the question mark*
+
+![[src_kangourou_2015_marzo_student__prob13.png]]
+
+> Elda wants to write in each of the empty circles in the figure an integer such that each number is the sum of the two numbers adjacent to it. What number should you put in the circle with the question mark? A) -5
+> 	
+> B) -16 C) -8 D) -3
+> 	
+> E) He can 't do it
+
+**Answer:** E
+[[src_kangourou_2015_marzo_student__Q13]]

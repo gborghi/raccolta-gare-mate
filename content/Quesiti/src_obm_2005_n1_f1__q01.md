@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q01
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divisibility by 13 from a product identity*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Divisibilità per 13 da un'identità di prodotto*
+
+> Sapendo che $9{,}174{,}532 \times 13 = 119{,}268{,}916$, si può concludere che $13$ divide il numero:
+> 
+> A) $119{,}268{,}903$ \quad B) $119{,}268{,}907$ \quad C) $119{,}268{,}911$ D) $119{,}268{,}913$ \quad E) $119{,}268{,}923$
+
+**Risposta:** D
+[[src_obm_2005_n1_f1__Q01]]

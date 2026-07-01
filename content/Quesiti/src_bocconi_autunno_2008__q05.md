@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2008 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2008__Q05
 parent: src_bocconi_autunno_2008
 competition: Giochi d'Autunno 2008
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Stella a sei punte: inserire numeri con condizione sulle unità*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Vedere figura nella soluzione
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Six-pointed star: entering conditional numbers on the units*
+
+> In a six-pointed star, we wrote the number 2 in a point, and in a nearby point, the number 3. Put in each of the other points an integer such that: - the six numbers written are all different; - each number is equal to the number of units of the sum of the four that appear in the two adjacent points.
+
+**Answer:** Vedere figura nella soluzione
+[[src_bocconi_autunno_2008__Q05]]

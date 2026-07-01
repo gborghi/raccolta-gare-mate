@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - finale settembre — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_settembre__Q04
 parent: src_kangourou_2020_junior_settembre
 competition: Kangourou 2020 Junior - finale settembre
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Poligoni convessi su 2020 punti che contengono p*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** contengono p
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Y0Gi-Uy881pNn6RNQhqSGYn7AyhCKbJx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Poligons convex over 2020 points containing p*
+
+> A circle shall be marked with $2020$ two-by-two distinct points. All possible convex polygons (i.e. unwoven polygons having all the interior angles of size less than $180°$) whose vertices are some of the marked points shall be considered. Whether $p$ any of the points marked. Are there more polygons containing $p$ or those not containing it, or are there the same number?
+
+**Answer:** contengono p
+[[src_kangourou_2020_junior_settembre__Q04]]

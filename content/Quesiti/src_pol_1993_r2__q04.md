@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r2__Q04
 parent: src_pol_1993_r2
 competition: Olimpiade Matematica Polacca 1993 — Round 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence of positive integers with x1=1 and bounded growth; show every positive integer k is a difference of two terms.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NgcL0QAd2CG62bFmgawlLI7Z2DvH7hOH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di numeri interi positivi con x1=1 e crescita limitata; mostrare che ogni intero positivo k è una differenza di due termini.*
+
+> $(x_n)$ sia la sequenza di integri positivi come $x_1=1$ e $x_n < x_{n+1} \le 2n$ per ciascuna $n \in \mathbb{N}$. Indicare che per ogni intero positivo $k$ esistono indici $r,s$ tali da $x_r-x_s=k$.
+
+[[src_pol_1993_r2__Q04]]

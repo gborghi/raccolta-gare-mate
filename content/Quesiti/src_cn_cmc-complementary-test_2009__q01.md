@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2009 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2009__Q01
 parent: src_cn_cmc-complementary-test_2009
 competition: China Mathematical Competition (Complementary Test) 2009
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumscribed circle midpoints, inner center, concyclicity proof*
 
@@ -45,3 +48,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Punti di centro del cerchio circoscritto, centro interno, prova di conciclicità< MSK1/>
+
+> (30 marchi) Come mostrato alla figura. 1, $M$, $N$ sono i punti medi degli archi $\widehat{BC}$ e $\widehat{AC}$, rispettivamente, che si trovano sul cerchio circonscritto di un triangolo acuto $\triangle ABC$ ($\angle A < \angle B$). Attraverso il punto $C$ tracciare $PC \perp MN$, intercettando il cerchio $\Gamma$ al punto $P$. $I$ è il centro interno di $\triangle ABC$. Estendere la linea $PI$ per intercettare $\Gamma$ al punto $T$.
+> 
+> (1) Provare che $MP > MT = NP > NT$.
+> 
+> (2) Per un punto arbitrario $Q$ ($Q \neq A, T, B$) su arco $\widehat{AB}$ (non contenente $C$), indicare rispettivamente i centri interni di $\triangle AQC$, $\triangle QCB$ da $I_1$ e $I_2$. Provare che $Q$, $I_1$, $I_2$, $T$ sono conciclici.
+
+![[src_cn_cmc-complementary-test_2009__Q01.png]]
+
+[[src_cn_cmc-complementary-test_2009__Q01]]

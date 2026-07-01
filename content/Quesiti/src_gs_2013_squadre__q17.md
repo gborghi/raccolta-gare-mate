@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q17
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza percorsi elicoidali su cilindri*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0130
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Differential helical paths on cylinders*
+
+> Instead of facing each other in battle, Kings Munry Baratheon and Unton Greyjoy decide to determine who is the bravest by challenging themselves to spin on the spiral simulating dragon flight. They are each mounted on a vessel which is fixed to a rigid mechanical arm which connects the vessel to the central vertical pole of the propeller and which, while remaining parallel to the ground, lifts as it rotates around the central pole in order to lock itself instantly when it reaches the height of $45\text{ m}$. The arms shall rise vertically at a constant speed of $0{,}5\text{ m/s}$ and rotate around the pole at a constant angular speed of $20^\circ/\text{s}$.
+> 
+> The arm supporting Munry Baratheon's ship rotates on a long circumference $12\text{ m}$, the arm supporting Unton Greyjoy's ship rotates on a long circumference $40\text{ m}$. When the geyser begins to operate by simultaneously turning and climbing the vessels, each describes a cylindrical propeller. When the ships get stuck, Unton Greyjoy vomits. Munry Baratheon laughed and declared himself the winner. Landed, Unton Greyjoy justifies himself with his soldiers by explaining that it was his ship's longer journey. What's the difference between the two paths in m?
+
+**Answer:** 0130
+[[src_gs_2013_squadre__Q17]]

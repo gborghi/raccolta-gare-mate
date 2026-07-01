@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q10
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti panini con due fette e mezzo pacchetto di pane*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many sandwiches with two and a half slices of bread< MSK1/>
+
+> When Pinocchio answers a question with a lie, his nose lengthens by 6 cm; when he answers telling the truth, his nose shortens by 2 cm. At 8 this morning, his nose was 9 cm long; from that moment on Pinocchio has told three lies and twice the truth: how long is his nose now? A) 14 cm B) 15 cm C) 19 cm D) 23 cm E) 31 cm
+
+[[src_kangourou_2013_ecolier__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_semifinale_a__Q14
 parent: src_cesenatico_2016_semifinale_a
 competition: Gara a Squadre Cesenatico 2016 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area BCGF (parallela e intersezioni, FP/PG/GF)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8918
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*BCGF area (parallels and intersections, FP/PG/GF) *
+
+> The improbable engine of increasing improbability has brought our heroes to Mathratea, but in the meantime has created a vase of flowers and a free-falling headgear several miles from the planet's surface. What an unlikely event! The poor cetacean, as he fell, barely had time to invent this problem. Both ABC a triangle and D and E respectively of the points on AB and AC such that AD = 1 5AB and AE = 1 3AC. For the parallel to BC passing through A, be F the intersection between r and CD, G the intersection between r and BE and P the intersection between CD and BE. Knowing that FP = 35, PG = 100 and GF = 117, determine the area of BCGF.
+
+**Answer:** 8918
+[[src_cesenatico_2016_semifinale_a__Q14]]

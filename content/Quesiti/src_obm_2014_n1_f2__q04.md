@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f2__Q04
 parent: src_obm_2014_n1_f2
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle ABCD cut parallel to AD; rotated piece fits; find area*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo ABCD tagliato parallelo ad AD; piezza rotata si adatta; trova area*
+
+> Carla fa un taglio $MN$ parallelo al lato $AD$ nel rettangolo $ABCD$. Poi ruota il rettangolo $AMND$ per ottenere il rettangolo $MBCN$, poiché è possibile far coincidere i lati $CN$ e $AD$, come mostrato nella figura. Se il rettangolo $AMND$ ha $AD = 8$ cm e $AM = 4$ cm, qual è la superficie del rettangolo $ABCD$, in $\mathrm{cm}^2$?
+
+![[src_obm_2014_n1_f2__Q04.png]]
+
+[[src_obm_2014_n1_f2__Q04]]

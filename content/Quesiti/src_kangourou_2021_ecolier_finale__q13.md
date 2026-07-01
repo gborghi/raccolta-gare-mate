@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - finale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q13
 parent: src_kangourou_2021_ecolier_finale
 competition: Kangourou 2021 Ecolier - finale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri 4 cifre con migliaia 1 e almeno 3 cifre uguali*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0037
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers of 4 digits with a thousand 1 and at least 3 digits equal to *
+
+> Not all Martians have the same number of hands and not all have the same number of feet: hands can be 3 to 6, feet 2 to 7. How many Martians do you have to get on a space shuttle to make sure there's at least two of the same type?
+
+**Answer:** 0037
+[[src_kangourou_2021_ecolier_finale__Q13]]

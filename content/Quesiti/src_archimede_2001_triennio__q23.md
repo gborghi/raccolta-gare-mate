@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Triennio — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_triennio__Q23
 parent: src_archimede_2001_triennio
 competition: Giochi di Archimede 2001 - Triennio
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordinamento di p, q, r con radici quadrate*
 
@@ -47,3 +50,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ordering of p, q, r with square roots*
+
+> The numbers p = 7 − √ 47, q = 5 − √ 23 and r = 2 − √ 2 are as follows:
+>
+> - **(A)** r < q < p
+> - **(B)** r < p < q
+> - **(C)** p < q < r
+> - **(D)** q < p < r
+> - **(E)** q < r < p.
+
+[[src_archimede_2001_triennio__Q23]]

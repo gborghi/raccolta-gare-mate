@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r3__Q06
 parent: src_pol_1997_r3
 competition: Olimpiade Matematica Polacca 1997 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n points on a unit circle; q = number of segments with endpoints among the points of length greater than sqrt 2; prove 3q <= n^2.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PdUGPXA4h0kRnc6_JAc7ObCdV2yreLSM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*n punti su un cerchio unitario; q = numero di segmenti con punti terminali tra i punti di lunghezza superiori a sqrt 2; prova 3q <= n^2.*
+
+> Si devono dare $n$ punti distinti su un cerchio di raggio $1$. Il $q$ è il numero dei segmenti con punti terminali nei punti dati la cui lunghezza è superiore a $\sqrt{2}$. Prove che $3q \leq n^2$.
+
+[[src_pol_1997_r3__Q06]]

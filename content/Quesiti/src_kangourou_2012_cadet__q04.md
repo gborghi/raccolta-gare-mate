@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q04
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante teste ha il drago dopo i tagli*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many heads does the dragon have after the cuts?
+
+> A dragon initially has five heads. Every time we cut one off, they grow five new heads. One by one, we're cutting the dragon six heads. How many heads does the dragon have at this point? A) 25 B) 28 C) 29 D) 30 E) 35
+
+**Answer:** C
+[[src_kangourou_2012_cadet__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1989-90 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1989-90_round1__Q05
 parent: src_bmo_1989-90_round1
 competition: British Mathematical Olympiad 1989-90 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Diagonals of convex quadrilateral meet at O; prove PQ perpendicular to RS*
 
@@ -44,3 +47,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zQAyqMjgDAiqh4nCYtEKs4SMfzN9ChNM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le diagonali di quadrilaterali convexi si incontrano a O; dimostrare che la PQ è perpendicolare a RS*
+
+> I diagonali di un quadrilaterale convex $ABCD$ si intersecano a $O$. I centriodi dei triangoli $AOB$ e $BOC$ sono $P$ e $Q$; gli ortocentri dei triangoli $AOB$ e $COD$ sono $R$ e $S$.
+> 
+> Prova che $PQ$ è perpendicolare a $RS$.
+> 
+> [Il centroide è l'intersezione delle linee da ogni vertice al punto medio del lato opposto; l'ortocentro è l'intersezione delle altitudini.]
+
+[[src_bmo_1989-90_round1__Q05]]

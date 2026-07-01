@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2025_femminile__Q10
 parent: src_squadre_2025_femminile
 competition: Gara a Squadre Femminile 2025 - VIII Finale
@@ -23,6 +24,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo n con a_n<1 in progressione geometrica*
 
@@ -53,3 +56,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2026
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum n with a_n<1 in geometric progression*
+
+> In the meantime, Doofenshmirtz decides to use her switch-post-inator to put hair on the bald, removing it from those who have it, so she can sell her new hair regrowth product. To make the machine work, however, it must calculate what is the minimum n so 1 na  where na is the second term of a geometric progression of positive rational with 1 1 a  as the first term and such that   3 1361 32 a  . He didn't deal with Agent P, who intervenes promptly to disrupt his plans. What value would Dr. Doofenshmirtz to implement his evil plan?
+
+**Answer:** 2026
+[[src_squadre_2025_femminile__Q10]]

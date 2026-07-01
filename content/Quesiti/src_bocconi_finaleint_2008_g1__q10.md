@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q10
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di regioni chiuse tracciando un pentagono e un esagono regolari non incrociati.*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 11 regioni chiuse
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of regions closed by tracing a regular pentagon and a regular hexagon not crossed.*
+
+> By drawing an equilateral triangle and a square, a maximum of < MSK0/> closed regions in the plane are created. Mathias draws an uncrossed regular pentagon (figure at $5$ sides) and a regular hexagon (figure at $6$ sides). How many closed regions of the plan will you get, at most?
+
+![[src_bocconi_finaleint_2008_g1__Q10.png]]
+
+**Answer:** 11 regioni chiuse
+[[src_bocconi_finaleint_2008_g1__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1997 — Matematica — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1997__Q05
 parent: src_cgen_1997
 competition: Concours Général des Lycées 1997 — Matematica
@@ -34,6 +35,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For a fixed oriented angle alpha, find the locus Gamma of point C seeing AB under that angle, show the centroid G and incenter I describe arcs, then choose C minimizing GI and maximize that minimum over alpha*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKFVBDr_77MyLEG9kgjZwRVwwc89CZlc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per un angolo alfa orientato fisso, trovare il locus Gamma del punto C vedendo AB sotto quell'angolo, mostrare il centroid G e incenter descrivo archi, quindi scegliere C minimizzando GI e massimizzare quel minimo su alfa*
+
+> Nel piano, $A$ e $B$ siano due punti distinti. Per ogni punto $C$ esterno alla linea $(AB)$, indicare con $G$ l'isobaricentro (centroid) del triangolo $ABC$ e con $I$ il centro del suo cerchio inciso. \textbf{1.} $\alpha$ sia un numero reale tale che $0 < \alpha < \pi$. Qual è l'insieme $\Gamma$ dei punti $C$ in modo che $$\left(\overrightarrow{CA},\ \overrightarrow{CB}\right) = \alpha + 2k\pi,$$ $k$ sia un numero intero? Quando $C$ descrive $\Gamma$, mostrare che $G$ e $I$ descrivono due archi di un cerchio, che si specificherà. \textbf{2.} Supponiamo ora che $\dfrac{\pi}{3} < \alpha < \pi$. Come si deve scegliere $C$ in $\Gamma$ in modo che la distanza $GI$ sia minima? \textbf{3.} Denotare con $f(\alpha)$ la distanza minima $GI$ della domanda precedente. Esprimere $f(\alpha)$ in termini di $a = AB$ e $\alpha$. Determinare il valore massimo di $f(\alpha)$ quando $\alpha$ descrive $\left]\dfrac{\pi}{3};\ \pi\right[$.
+
+[[src_cgen_1997__Q05]]

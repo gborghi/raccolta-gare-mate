@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Semifinale 1 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_semifinale1__Q04
 parent: src_squadre_2024_semifinale1
 competition: Gara a Squadre 2024 - Semifinale 1
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tratto in salita strada minima attorno a cono, apotema 600*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0480
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Treated as a minimum road climb around cones, abbreviation 600*
+
+> The road to Inspector Gauget's shelter is at the base of a 600-metre-long, 150-metre-wide cone-shaped mountain. He must capture a fugitive, hidden in the shelter that is on the side of the mountain exactly 150 meters from him towards the top of the mountain. To reach the shelter, the inspector takes the shortest route, which also makes a complete tour around the mountain; he notes that, curiously, the route is first up and then down. How many meters is the climb?
+
+**Answer:** 0480
+[[src_squadre_2024_semifinale1__Q04]]

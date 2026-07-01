@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2021 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2021__Q12
 parent: src_cn_csmo_2021
 competition: China Southeastern Mathematical Olympiad 2021
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ordered coverings and no-matching coverings of a 2n-set; bound ratio*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $m=26$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i rivestimenti ordinati e i rivestimenti non corrispondenti di un insieme di 2n; rapporto connesso*
+
+> $A = \{a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n\}$ deve essere impostato come $2n$ e $B_1, B_2, \ldots, B_m \subseteq A$. Se $\bigcup_{i=1}^m B_i = A$, il doppio $m$ ordinato $(B_1, B_2, \ldots, B_m)$ si chiama copertura $m$ ordinata di $A$. Per un $m$ ordinato che copre $(B_1, B_2, \ldots, B_m)$, se nessun insieme $B_i$ contiene sia $a_i$ che $b_i$ (per lo stesso indice $i = 1, 2, \ldots, n$), allora esso è chiamato un "non corrispondente ordinato $m$ di $A$. $k(n,m)$ indichi il numero di coperture ordinate $m$ di $A$ e $a(n,m)$ il numero di coperture ordinate $m$ che non corrispondono. (1) Trova < MSK21/> e < MSK22/>. (2) Per gli integri $m \ge 2$ e $n \ge 1$, supponiamo $\frac{a(n,m)}{k(n,m)} \le \frac{1}{2021}$. Trova il più grande valore possibile di $m$.
+
+**Risposta:** $m=26$
+[[src_cn_csmo_2021__Q12]]

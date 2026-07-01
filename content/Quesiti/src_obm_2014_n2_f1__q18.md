@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f1__Q18
 parent: src_obm_2014_n2_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Roots of two quadratics related; find value of a*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Radici di due quadratici correlati; trovare valore di a*
+
+> Le radici dell'equazione $x^2 - ax + b = 0$ sono diverse da zero e sono anche le radici dell'equazione $x^2 - bx + a = 0$. I valori $a$ e $b$ non sono necessariamente reali. Qual è il valore di < MSK4/>?
+> 
+> (A) $-\sqrt{2}$ $\quad$ (B) $\sqrt{2}\,\sqrt{3}$ $\quad$ (C) $\sqrt{3}$ $\quad$ (D) $\sqrt{2}$ $\quad$ (E) $\sqrt{3}$
+
+**Risposta:** A
+[[src_obm_2014_n2_f1__Q18]]

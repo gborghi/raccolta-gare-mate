@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1994 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1994__Q01
 parent: src_rmo_1994
 competition: Regional Mathematical Olympiad 1994
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of page numbers on torn leaf of a book*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa dei numeri di pagina su una foglia strappata di un libro*
+
+> Una foglia è strappata da un romanzo di carta. La somma dei numeri sulle pagine restanti è di 15000. Trova i numeri delle pagine sulla foglia strappata.
+
+[[src_rmo_1994__Q01]]

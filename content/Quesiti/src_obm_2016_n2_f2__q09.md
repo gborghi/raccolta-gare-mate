@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f2__Q09
 parent: src_obm_2016_n2_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real solutions of iterated quadratic p(p(x))=x^2 and p(p(x))=p(x)*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pMNbGFlrYDlG-OKHRMZRxFDZCNFl1iD6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Soluzioni reali di p(p(x))=x^2 e p(p(x))=p(x) *
+
+> Considerate il trinomio di grado due $p(x) = x^2 - x + 1$.
+> 
+> a) Determinare il numero di soluzioni reali distinte dell'equazione $p(p(x)) = x^2$, cioè $$(x^2 - x + 1)^2 - (x^2 - x + 1) + 1 = x^2.$$
+> 
+> b) Determinare il numero di soluzioni reali distinte dell'equazione $$p(p(x)) = p(x).$$
+
+[[src_obm_2016_n2_f2__Q09]]

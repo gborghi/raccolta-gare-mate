@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2001-02 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2001-02_round2__Q02
 parent: src_bmo_2001-02_round2
 competition: British Mathematical Olympiad 2001-02 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Round table seating rule; find all n delegates that avoid collision*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LpuwuHoIJIBIDP0Y40GXoBYpt9HAeS6D/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Regola dei posti a tavola rotonda; trovare tutti i n delegati che evitano la collisione*
+
+> Una sala conferenze dispone di un tavolo rotondo con sedie $n$. Ci sono delegati $n$. Il primo delegato sceglie arbitrariamente il suo posto. Successivamente, il delegato $(k+1)$-siede $k$ a sinistra del delegato $k$-th per $1 \le k \le n-1$. Nessuna sedia può essere occupata da più di un delegato. Trova tutti i valori di $n$ per i quali questo è possibile.
+
+[[src_bmo_2001-02_round2__Q02]]

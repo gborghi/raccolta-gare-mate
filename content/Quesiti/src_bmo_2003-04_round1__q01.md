@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2003-04 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2003-04_round1__Q01
 parent: src_bmo_2003-04_round1
 competition: British Mathematical Olympiad 2003-04 — Round 1
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve simultaneous equations in four real numbers*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18wiJiqdZkrKQw2W9Fj-nCrBT9lVgHHwa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi equazioni simultanee in quattro numeri reali*
+
+> Risolvere le equazioni simultanee $$a + b = c + d,$$ $$b + c = 2a + b,$$ $$a + c = b + d,$$ $$a + b + c = 6$$ dove $a, b, c, d$ sono numeri reali.
+
+[[src_bmo_2003-04_round1__Q01]]

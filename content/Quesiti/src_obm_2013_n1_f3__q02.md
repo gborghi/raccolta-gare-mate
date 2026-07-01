@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f3__Q02
 parent: src_obm_2013_n1_f3
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three coin piles game; last player to split a pile wins all coins*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bt-9OIl79wBeMLuqJhtDISes6K5CelBd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco di tre pile di monete; l'ultimo giocatore a dividere una pila vince tutte le monete*
+
+> Su un tavolo ci sono tre pile di monete: una con $19$, una con $13$ e una con $6$ monete. Ana, Beatriz e Clara decidono di disputare queste monete come segue: in ordine alfabetico dei loro nomi, ognuno sceglie qualsiasi pila e la divide in due pile più piccole. Il giocatore che non può fare una mossa perde la partita (un giocatore non può muoversi quando tutte le pile hanno esattamente $1$ moneta); l'ultimo giocatore a fare una mossa vince tutte le monete.
+> 
+> a) Dopo la prima volta di Clara, quante piume ci saranno sul tavolo?
+> 
+> b) Chi prenderà tutte le monete?
+
+[[src_obm_2013_n1_f3__Q02]]

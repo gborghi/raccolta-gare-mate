@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q09
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive reals a,b,c summing to 1 and being sides of a triangle; pick correct set of inequalities.*
 
@@ -57,3 +60,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Reali positivi a,b,c sommando a 1 e essendo lati di un triangolo; scegliere l'insieme corretto di disuguaglianze.*
+
+> $a$, $b$ e $c$ siano numeri reali positivi la cui somma è 1. Supponiamo che $a$, $b$ e $c$ siano le misure dei lati di un triangolo. Allora...
+>
+> - **(A)** $0 < |a - b| < \dfrac{1}{2}$ e $0 < |b - c| < \dfrac{1}{2}$ e $0 < |c - a| < \dfrac{1}{2}$
+> - **(B)** $a < \dfrac{1}{2}$ e $b < \dfrac{1}{2}$ e $c < \dfrac{1}{2}$
+> - **(C)** $a + b < \dfrac{1}{2}$ e $b + c < \dfrac{1}{2}$ e $c + a < \dfrac{1}{2}$
+> - **(D)** $a \le \dfrac{1}{3}$ e $b \le \dfrac{1}{3}$ e $c \le \dfrac{1}{3}$
+> - **(E)** $a \ge \dfrac{1}{3}$ e $b \ge \dfrac{1}{3}$ e $c \ge \dfrac{1}{3}$
+
+**Risposta:** B
+[[src_obm_2006_n3_f1__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2019 - Biennio (T1) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_biennio__Q03
 parent: src_archimede_2019_biennio
 competition: Giochi di Archimede 2019 - Biennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorno in cui Barbara deve iniziare per vincere la sfida*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1amjaJGRfQuZuv-zm1JB2C0-3dA1oqUNV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The day Barbara has to start to win the challenge
+
+> The Mathematics Olympics Instagram page publishes a problem every day. Alberto and Barbara challenge themselves to solve the most problems in 10 weeks, starting on a Monday. Barbara knows that Alberto tries to solve all the problems from Monday to Thursday each week (but she doesn't know if he can or not). Barbara, on the other hand, is confident of solving all problems except Sunday's. Assuming that Barbara is right and considering that she intends to start working as late as possible, what day of the week is the day she must start to be sure of her victory?
+>
+> - **(A)** Monday
+> - **(B)** Tuesday
+> - **(C)** Wednesday
+> - **(D)** Thursday
+> - **(E)** Friday
+
+**Answer:** B
+[[src_archimede_2019_biennio__Q03]]

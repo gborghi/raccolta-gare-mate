@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2012 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2012__Q04
 parent: src_cn_ctst_2012
 competition: China National Team Selection Test 2012
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove min{|A|,|B|} bounded by log₂n when ab+1 always a perfect square*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove min{displaystyle min{displaystyle A+1,displaystyle B_{1}} bounded by log2n quando ab è sempre un quadrato perfetto*
+
+> Data un numero intero $n \geq 3$. Il valore di $A$, $B \subseteq \{1, 2, \ldots, n\}$. Supponiamo che $ab + 1$ sia un numero quadrato perfetto per qualsiasi $a \in A$ e $b \in B$. Prove che $\min\{|A|, |B|\} \leq \log_2 n$.
+> 
+> (Posizionato da Xiong Bin)
+
+[[src_cn_ctst_2012__Q04]]

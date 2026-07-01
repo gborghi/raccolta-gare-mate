@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 2) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g2__Q05
 parent: src_bocconi_finaleint_2009_g2
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di pagine (tra quelle scritte) che contengono almeno una cifra 4*
 
@@ -50,3 +53,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_LRZ35lngxx9JZL11y14CrDyt5FTBU28/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of pages (including written ones) containing at least one digit *
+
+> The MATHIAS list. Mathias writes the page numbers from $2009$ to $2009\,2010\,2011\,2012\,2013\ldots$ How many pages he wrote contain at least one digit $4$?
+
+**Answer:** 2511
+[[src_bocconi_finaleint_2009_g2__Q05]]

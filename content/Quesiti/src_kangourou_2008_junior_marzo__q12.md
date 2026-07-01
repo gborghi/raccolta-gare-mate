@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q12
 parent: src_kangourou_2008_junior_marzo
 competition: Kangourou 2008 - Junior (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma carte del primo saggio (parita)*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of cards from the first essay (parity) *
+
+> A box contains seven cards numbered from 1 to 7. Two wise men randomly take the cards out of the box: the first takes three, the second two of the remaining cards; the last two remain closed in the box. The first essay, after looking only at the numbers written on the cards he caught, says to the second: "I am sure that the sum of the numbers shown on your cards is equal". How much is the sum of the numbers shown on the cards the first essay read? A) 10 B) 12 C) 6 D) 9 E) 15
+
+**Answer:** B
+[[src_kangourou_2008_junior_marzo__Q12]]

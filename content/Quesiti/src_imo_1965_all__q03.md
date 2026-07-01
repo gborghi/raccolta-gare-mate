@@ -1,6 +1,7 @@
 ---
 title: IMO 1965 (Seventh International Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1965_all__Q03
 parent: src_imo_1965_all
 competition: IMO 1965 (Seventh International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume ratio of tetrahedron cut by plane parallel to skew edges*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tk-D3Xruwl2WK5FPEf9VF-YTvWxYxD4K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume ratio of tetrahedron cut by plane parallel to skew edges*
+
+> Given the tetrahedron $ABCD$ whose beams $AB$ and $CD$ have lengths $a$ and $b$ respectively. The distance between the straight lines $AB$ and $CD$ is $d$, and the angle between them is $\omega$. The $ABCD$ tetrahedron is divided into two solids by the $\varepsilon$ plane, parallel to the $AB$ and $CD$ lines. The ratio of $\varepsilon$ to $AB$ and $CD$ is equal to $k$. Calculate the ratio of the volumes of the two solids obtained.
+
+[[src_imo_1965_all__Q03]]

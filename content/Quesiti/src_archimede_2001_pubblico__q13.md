@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_pubblico__Q13
 parent: src_archimede_2001_pubblico
 competition: Archimede 2001 - Gara del Pubblico (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anni bisestili con somma cifre 6 tra 0 e 7000*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0084
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Bisexual years with a sum of 6 digits between 0 and 7000< MSK1/>
+
+> In the IMES calendar, even-numbered years are those corresponding to numbers whose sum of digits is $6$ (e.g. year $1060$ is even-numbered). How many leap years have there been between year zero and year MSK2/?
+
+**Answer:** 0084
+[[src_archimede_2001_pubblico__Q13]]

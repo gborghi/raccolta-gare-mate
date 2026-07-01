@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2026 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2026__Q02
 parent: src_inmo_2026
 competition: Indian National Mathematical Olympiad 2026
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For f:N->N where f(k) counts the maximum multiplicity in f(1),...,f(k-1) for k>2026, prove f(n)=f(n+1) for infinitely many n.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ffwcPTmw5kJZuKkanVDFlqLhvUS6FxGr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per f:N->N dove f(k) conti la molteplicità massima in f(1),...,f(k-1) per k>2026, prova f(n)=f(n+1) per infinite n.*
+
+> Che $f : \mathbb{N} \to \mathbb{N}$ sia una funzione che soddisfi la seguente condizione: per ogni $k > 2026$, il numero $f(k)$ è uguale al numero massimo di volte in cui un numero appare nell'elenco $f(1), f(2), \ldots, f(k-1)$. Prova che $f(n) = f(n+1)$ per infinite $n \in \mathbb{N}$. (Qui $\mathbb{N}$ indica l'insieme $\{1, 2, 3, \ldots\}$ di numeri interi positivi.)
+
+[[src_inmo_2026__Q02]]

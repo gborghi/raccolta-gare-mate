@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q15
 parent: src_kangourou_2019_squadre_semifinale_a
 competition: Kangourou Coppa squadre 2019 Semifinale A
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra di AGRO in KANGAROO divisibile per 15*
 
@@ -66,3 +69,21 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8635
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Agro number in KANGAROO divisible by 15*
+
+> AGRO I replaced each letter of the word KANGAROO with a digit from 1 to 9 (equal letters with equal numbers, different letters with different numbers) so that the result is the largest number of 8 digits (of this form) divisible by 15. With the same replacements, what number corresponds to AGRO? A K L M N B C 1 1 1 1 1
+> 
+> 1
+>  
+>  
+> Kangourou of Mathematics 2019 Kangourou Cup to teams Semifinal round in Cervia, 3 May 2019
+>  
+> Questions and developments
+
+**Answer:** 8635
+[[src_kangourou_2019_squadre_semifinale_a__Q15]]

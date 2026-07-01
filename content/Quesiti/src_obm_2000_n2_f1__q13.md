@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f1__Q13
 parent: src_obm_2000_n2_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which expression is always largest for positive reals x and y*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Che espressione è sempre più grande per i numeri reali positivi x e y*
+
+> Se $x$ e $y$ sono numeri reali positivi, quale dei seguenti è sempre il più grande?
+> 
+> A) $x + y$ \quad B) $x^2 + y^2$ \quad C) $(x + y)^2$ \quad D) $x^2 + y(x + y)$ \quad E) $\dfrac{x^2 + y^2}{x + y}$
+
+**Risposta:** C
+[[src_obm_2000_n2_f1__Q13]]

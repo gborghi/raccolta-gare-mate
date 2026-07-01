@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q08
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine which interval contains the solution x of 3^(3^x) = 333*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Determine quale intervallo contiene la soluzione x di 3^(3^x) = 333*
+
+> Il numero $x$ è la soluzione dell'equazione $3^{(3^x)} = 333$.
+> 
+> Quale di queste parole è vero?
+>
+> - **(A)** $0 < x < 1$
+> - **(B)** $1 < x < 2$
+> - **(C)** $2 < x < 3$
+> - **(D)** $3 < x < 4$
+> - **(E)** $4 < x < 5$
+
+**Risposta:** B
+[[src_smc_2019__Q08]]

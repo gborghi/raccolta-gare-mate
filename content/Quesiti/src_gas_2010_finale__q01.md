@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q01
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anni multipli auto-referenziale fino al 2010*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0017
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Multiple self-reference years up to 2010*
+
+> The Scumm BarTM At dawn on May 8, 1726, Jack Disparrow, Bourbakossa and Elizabeth Somm sit drunk at a bar table, when a naive young man shows up who says he knows that in order to become a π-rate he must turn to the three π-rates in that bar. Between the serious and the factual, the three friends ask him a pirate question: How many years from now to 2010 are multiple of the answer to this question?
+
+**Answer:** 0017
+[[src_gas_2010_finale__Q01]]

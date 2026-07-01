@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q08
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Balance puzzle: equal-shaped figures have equal mass; how many squares balance the last scale*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Puzzle di equilibrio: le figure di forma uguale hanno massa uguale; quanti quadrati bilanciano l'ultima scala*
+
+> Le figure con la stessa forma rappresentano oggetti della stessa massa. Quanti quadrati sono necessari per che l'ultimo equilibrio sia in equilibrio? A) $7$ \quad B) $8$ \quad C) $9$ \quad D) $10$ \quad E) $12$
+
+![[src_obm_2005_n2_f1__Q08.png]]
+
+[[src_obm_2005_n2_f1__Q08]]

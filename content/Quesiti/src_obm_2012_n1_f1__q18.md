@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f1__Q18
 parent: src_obm_2012_n1_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest marked number on line given exactly three are multiples of 4*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il numero più grande segnalato sulla linea dato esattamente tre sono moltipli di 4*
+
+> Nella riga numerica seguente, i punti segnano alcuni interi positivi superiori a 93 e inferiori a 112. Esattamente tre dei numeri segnalati sono moltiplicati di 4. Qual è il più grande dei numeri segnati?
+> 
+> (A) 100 \quad (B) 102 \quad (C) 104 \quad (D) 106 \quad (E) 108
+
+![[src_obm_2012_n1_f1__Q18.png]]
+
+**Risposta:** E
+[[src_obm_2012_n1_f1__Q18]]

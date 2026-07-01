@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2011 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2011__Q06
 parent: src_cn_cmo_2011
 competition: China Mathematical Olympiad 2011
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove infinitely many coprime pairs a,b with a+b dividing am^a+bn^b*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove infinitamente molte copriemi copriemi a,b con a+b dividendo am^a+bn^b*
+
+> Prova che per ogni dato numero intero positivo $m$, $n$, esistono infinite coppie di numeri interi positivi copriemi $a$, $b$, in modo tale che $a + b \mid am^a + bn^b$.
+
+[[src_cn_cmo_2011__Q06]]

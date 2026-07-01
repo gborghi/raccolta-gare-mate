@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2005 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2005__Q04
 parent: src_inmo_2005
 competition: Indian National Mathematical Olympiad 2005
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the 2005th 6-digit number with digits in non-increasing order*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 864110
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dQpL29VWOYmqDOzqi-9GbT0FQGESE5Z7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il numero a 6 cifre del 2005 con numeri in ordine non crescente*
+
+> Tutti i numeri $6$ possibili, in ognuno dei quali i numeri si presentano in ordine non in aumento (da sinistra a destra, ad esempio $877550$), sono scritti come una sequenza in ordine in aumento. Trovare il numero $2005$-th in questa sequenza.
+
+**Risposta:** 864110
+[[src_inmo_2005__Q04]]

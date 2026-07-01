@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q04
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find 4/(x+6) given 4/(x+5)=8*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Find 4/(x+6) dato 4/(x+5)=8*
+
+> Se $\dfrac{4}{x+5} = 8$, il valore di $\dfrac{4}{x+6}$ è:
+> 
+> **(A)** $\dfrac{1}{4}$ $\quad$ **(B)** $\dfrac{3}{4}$ $\quad$ **(C)** $\dfrac{3}{4}$ $\quad$ **(D)** $\dfrac{4}{5}$ $\quad$ **(E)** $1$
+
+**Risposta:** D
+[[src_obm_2009_n2_f1__Q04]]

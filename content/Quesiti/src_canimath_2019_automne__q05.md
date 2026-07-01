@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2019 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_automne__Q05
 parent: src_canimath_2019_automne
 competition: Coupe Animath Automne 2019
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-digit integers whose digits form an arithmetic progression left to right*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi a 3 cifre i cui numeri formano una progressione aritmetica da sinistra a destra*
+
+> Quanti numeri interi tra 100 e 999 (inclusi) sono tali che le loro cifre formino una progressione aritmetica quando vengono lette da sinistra a destra?
+
+[[src_canimath_2019_automne__Q05]]

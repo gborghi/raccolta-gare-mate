@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q18
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rally driver: legs 240,300,400 km at speeds 40,75,80 km/h in unknown order; guaranteed total time*
 
@@ -54,3 +57,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rally driver: gambe 240,300,400 km a velocità di 40,75,80 km/h in ordine sconosciuto; tempo totale garantito*
+
+> Un conducente ha percorso tre gambe di rally, rispettivamente $240\,\text{km}$, $300\,\text{km}$ e $400\,\text{km}$. Le velocità medie sulle tre gambe erano $40\,\text{km/h}$, $75\,\text{km/h}$ e $80\,\text{km/h}$, ma non necessariamente in questo ordine. Possiamo garantire che il tempo totale, in ore, trascorso dal conducente sulle tre gambe sia: A) inferiore o uguale a $13$ ore B) superiore o uguale a $13$ ore e inferiore o uguale a $16$ ore C) superiore o uguale a $14$ ore e inferiore o uguale a $17$ ore D) superiore o uguale a $15$ ore e inferiore o uguale a $18$ ore E) superiore o uguale a $18$ ore
+
+**Risposta:** C
+[[src_obm_2005_n2_f1__Q18]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Semifinale A — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_a__Q08
 parent: src_kangourou_2013_squadre_a
 competition: Kangourou Coppa Squadre 2013 Semifinale A
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma numeri scacchiera 8x8 con vincolo differenze*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 640
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PlrKoIuudGqXLJS1-AiOP7QEIQTL1atp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of 8x8 chess numbers with boundary differences*
+
+> The sum In each box of a chessboard 8 × 8 is written an integer; the numbers written in two boxes that have a common side always differ by 1. On the chessboard, both number 3 and number 17 appear. What is the sum of all the numbers that appear on the chessboard?
+
+**Answer:** 640
+[[src_kangourou_2013_squadre_a__Q08]]

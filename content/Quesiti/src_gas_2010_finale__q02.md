@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q02
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Totale partecipanti da n,m radici di equazione quadratica*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 9290
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total participants from n,m roots of the quadratic equation*
+
+> In the epic clash between the MSK0/>-rate fleet and that of the East India Company, as will be told for generations, the n ships led by Captain Jack Disparrow defeated the m ships of Lord Bracket's fleet, where n and m are the solutions of the x2 −126x + 3293 = 0. Knowing that each of Disparrow's ships had MSK1/-rates and that each of the Company's ships had military personnel, how many in all took part in the encounter?
+
+**Answer:** 9290
+[[src_gas_2010_finale__Q02]]

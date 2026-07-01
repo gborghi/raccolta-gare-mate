@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2015 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_classiprime__Q06
 parent: src_archimede_2015_classiprime
 competition: Gara Nazionale Classi Prime 2015
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezza del primo recipiente dopo travaso (volumi prismi)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Height of the first container after welding (volumes of prisms) *
+
+> A rectangular prism-shaped vessel with a square base is tall and narrow and full of water up to the edge. If all the water is poured into another container of the same shape, but with a square base with the three-dimensional side, the water level in the new container reaches the height of 12 mm. How tall was the first container? A 108mm B 36mm C 48mm D 324mm E 144mm F It cannot be determined if the sides of the bases are not known
+
+**Answer:** A
+[[src_archimede_2015_classiprime__Q06]]

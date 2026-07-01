@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2010 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2010__Q04
 parent: src_bocconi_semifinale_2010
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2010
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadrato magico 3x3: ricostruire i valori mancanti*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Il quadrato magico completato ha righe: $8,1,6$ / $3,5,7$ / $4,9,2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Magic square 3x3: reconstruct the missing values
+
+> A magic square $3 \times 3$ is a square pattern of 9 boxes arranged on three rows and three columns such that the sum of the numbers of any row, any column and each of the two diagonals is always the same. A magical square of this kind has been broken down into five pieces, as shown in the figure. Reconstruct the magic square without turning the pieces.
+
+![[src_bocconi_semifinale_2010__Q04.png]]
+
+**Answer:** Il quadrato magico completato ha righe: $8,1,6$ / $3,5,7$ / $4,9,2$
+[[src_bocconi_semifinale_2010__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2025 Cadet finale — Quesito C6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2025_cadet_finale__QC6
 parent: src_kangourou_2025_cadet_finale
 competition: Kangourou 2025 Cadet finale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *piu lungo del diametro?*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** Si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PQuJedCWTXWhrFhpDRxzkn1D0caSD99m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>longer than the diameter?< MSK1/>
+
+![[src_kangourou_2025_cadet_finale__probC6.png]]
+
+> Two points on the circumference of a circle $\Gamma$ are extremes of an arc $\delta$ of another circumference. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$?
+
+**Answer:** Si
+[[src_kangourou_2025_cadet_finale__QC6]]

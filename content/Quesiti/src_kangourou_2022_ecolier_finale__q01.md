@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier finale individuale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__Q01
 parent: src_kangourou_2022_ecolier_finale
 competition: Kangourou 2022 Ecolier finale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante pagine mancano (231 ... permutazione)*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0082
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many pages are missing (231 ... (MSK1/>)
+
+> Which numbers, among those listed in the answers, can you write in the box on the left and the box on the right respectively to correct the $2020 + \square = 2022 + \square$ equation?
+> 
+> A) 3 e 5 B) 4 e 1 C) 2 e 4 D) 7 e 2 E) 9 e 7
+
+**Answer:** 0082
+[[src_kangourou_2022_ecolier_finale__Q01]]

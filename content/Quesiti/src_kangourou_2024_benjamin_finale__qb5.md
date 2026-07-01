@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Benjamin 2024 — Quesito B5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin_finale__QB5
 parent: src_kangourou_2024_benjamin_finale
 competition: Kangourou Finale Benjamin 2024
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima distanza antenna dall'abitazione piu lontana (triangolo)*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yfwrv2r59EZD9BNqD2rssm5Ubv6rpykv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum antenna distance from the most distant dwelling (triangle) *
+
+> Three dwellings are at the vertices of an isosceles triangle whose sides measure $80$, $80$ and $120$ meters. Using a single antenna, we want to make it possible to receive internet in the three houses. What is, in metres, the minimum distance that the antenna can have from the dwelling that will make it the furthest away?
+
+[[src_kangourou_2024_benjamin_finale__QB5]]

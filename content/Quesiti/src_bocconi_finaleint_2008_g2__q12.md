@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 2) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g2__Q12
 parent: src_bocconi_finaleint_2008_g2
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scrivere in ogni cerchio una cifra da 1 a 9 con condizioni di somma direzionale.*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1 soluzione
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Write in each circle a digit from 1 to 9 with directional sum conditions.*
+
+> Write in each circle a digit from 1 to 9 so that: $\bullet$ each digit is used at least once; $\bullet$ each digit is equal to the sum of all the digits in the same direction, to the right, to the bottom, to the left or to the top.
+
+![[src_bocconi_finaleint_2008_g2__Q12.png]]
+
+**Answer:** 1 soluzione
+[[src_bocconi_finaleint_2008_g2__Q12]]

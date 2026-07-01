@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Cadet — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_cadet__Q21
 parent: src_kangourou_2013_cadet
 competition: Kangourou 2013 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante operazioni cambio per far apparire 2013*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1VC-yYJdlKS7JJpWP5NEWevi12pDRRO8E/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many exchange operations to make 2013 appear*
+
+> The change operation on a number set consists of replacing each of the three numbers in the set with the sum of the other two. For example, the change operation transforms {3, 4, 6} into {10, 9, 7}; by applying change to this second change, the change {16, 17, 19}. Let's start from the tray {1, 2, 3}; how many times do we have to apply change consecutively because in the tray the number 2013 appears? A) 8 B) 9 C) 10 D) 2013 E) 2013 will never appear.
+
+**Answer:** E
+[[src_kangourou_2013_cadet__Q21]]

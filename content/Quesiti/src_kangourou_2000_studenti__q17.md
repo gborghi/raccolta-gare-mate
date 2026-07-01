@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q17
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma delle aree dei triangoli in figura*
 
@@ -62,3 +65,32 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Summary of areas of triangles in figure*
+
+![[src_kangourou_2000_studenti__prob17.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \draw[line width=1.2pt] (-0.5, 0) -- (4, 0);
+  \draw[<->, line width=1.2pt] (-0.2, 0) -- (-0.2, 2);
+  \node[left, font=\Large\bfseries] at (-0.5, 1) {2};
+  \draw[line width=1.5pt] (1, 2) -- (0, 0) -- (1, 0);
+  \draw[line width=1.5pt] (1, 2) -- (2, 0);
+  \draw[line width=1.5pt] (1, 2) -- (3, 0);
+  \node[below, font=\Large\bfseries] at (0.5, 0) {1};
+  \node[below, font=\Large\bfseries] at (1.5, 0) {1};
+  \node[below, font=\Large\bfseries] at (2.5, 0) {1};
+\end{tikzpicture}
+\end{document}
+```
+
+> The sum of the areas of all triangles that can be seen in the figure is: A) 3 B) 4 C) 7 D) 8 E) 10
+
+**Answer:** E
+[[src_kangourou_2000_studenti__Q17]]

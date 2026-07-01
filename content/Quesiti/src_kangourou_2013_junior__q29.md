@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Junior — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_junior__Q29
 parent: src_kangourou_2013_junior
 competition: Kangourou 2013 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parte di cubo contenente il centro dopo i tagli*
 
@@ -51,3 +54,17 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Part of the cube containing the centre after the cuts*
+
+![[src_kangourou_2013_junior__prob29.png]]
+
+> The full cube in the figure is cut along the plane passing through the three vertices B, D and E adjacent to A. Similarly, the cube is also cut along the seven floors that pass through the three vertices adjacent to each of the other seven vertices. Once the sectional parts of the cube are separated, which of the following figures represents the cube part containing the center of the cube itself? (a) (b) (c) (d) (e) None of the above. 1 {{{{{{{{{{{ 1024000
+>
+
+**Answer:** A
+[[src_kangourou_2013_junior__Q29]]

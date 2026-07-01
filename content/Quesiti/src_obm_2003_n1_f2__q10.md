@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f2__Q10
 parent: src_obm_2003_n1_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Domino pieces partially covered by paper; find hidden dots total*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 22
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Piezzi di domino parzialmente coperti di carta; trovare punti nascosti totale < MSK1/>
+
+> Sono posti su un tavolo nove pezzi diversi di domino, parzialmente coperti da un pezzo di carta. I dominosi si toccano in modo che il punto $1$ sia adiacente al punto $1$, i punti $2$ siano adiacenti ai punti $2$, ecc. Qual è il numero totale di punti nascosti dalla carta?
+
+![[src_obm_2003_n1_f2__Q10.png]]
+
+**Risposta:** 22
+[[src_obm_2003_n1_f2__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q27
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nella cella con macchie dopo mosse +1 a 4 celle*
 
@@ -58,3 +61,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the cell with stains after +1 to 4 cell movements*
+
+![[src_kangourou_2024_student__prob27.png]]
+
+> Consider an alignment of eight consecutive cells each of which initially contains the number 0. To make a move is to choose 4 consecutive cells to your liking and add 1 to the number in each cell. After a few moves the situation that has been created is expressed in the figure, in which, however, some spots have made the numbers present in 4 cells invisible. What number should be written in the cell identified by the question mark? A) 24
+> 	
+> B) 30
+> 	
+> C) 36
+> 	
+> D) 48 E) None of the above
+
+**Answer:** A
+[[src_kangourou_2024_student__Q27]]

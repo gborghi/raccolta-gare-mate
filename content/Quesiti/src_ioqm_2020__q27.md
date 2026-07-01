@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 27
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q27
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bug moves along grid lines from A=(-3,2) to B=(3,-2), path length at most 14; count integer points on paths*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Bug si muove lungo le linee della griglia da A=(-3,2) a B=(3,-2), lunghezza del percorso al massimo 14; contare i punti interi sui percorsi*
+
+> Un bug viaggia nel piano delle coordinate muovendosi solo lungo le linee parallele all'asse $x$ o all'asse $y$. Let $A = (-3, 2)$ e $B = (3, -2)$. Considera tutti i percorsi possibili del bug da $A$ a $B$ di lunghezza massima 14. Quanti punti con coordinate interi si trovano su almeno uno di questi percorsi?
+
+[[src_ioqm_2020__Q27]]

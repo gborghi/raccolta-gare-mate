@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q08
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Altezza della costruzione del clown*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Height of construction of the clown*
+
+![[src_kangourou_2003_benjamin__prob8.png]]
+
+> The figure shows the clown David dancing on top of two balls with a cube in the middle. The radius of the lower ball is 6 dm while the radius of the upper ball is one third of it. The side of the cube is 4 dm longer than the radius of the upper ball. What's the height from the floor of the building where the clown dances? A)  14 dm       B)  20 dm C)  22 dm D)  24 dm E)  28 dm
+
+**Answer:** C
+[[src_kangourou_2003_benjamin__Q08]]

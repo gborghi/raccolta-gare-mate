@@ -1,6 +1,7 @@
 ---
 title: IMO 1975 (XVII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1975__Q05
 parent: src_imho_1975
 competition: IMO 1975 (XVII International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Points on circle with rational mutual distances*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TP79v6F2u-0eqTiBw6yUOXst22fnJsC9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Points on circle with rational mutual distances*
+
+> Determine, with proof, whether or not one can find 1975 points on the circumference of a circle with unit radius such that the distance between any two of them is a rational number.
+
+[[src_imho_1975__Q05]]

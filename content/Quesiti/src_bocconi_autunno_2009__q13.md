@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2009 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2009__Q13
 parent: src_bocconi_autunno_2009
 competition: Giochi d'Autunno 2009
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Indovinello numerico con operazioni in sequenza*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 63
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number key with sequence operations*
+
+> Think of a number (full, positive). Decrease it by 8. Then divide the result by 5. Raise the number you find to the square, then add 23, divide by 12, and increase by 8. If you end up with 20, what was the number you initially thought of?
+
+**Answer:** 63
+[[src_bocconi_autunno_2009__Q13]]

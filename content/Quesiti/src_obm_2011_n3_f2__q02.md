@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f2__Q02
 parent: src_obm_2011_n3_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count anagrams of FELICIDADE that are alternated (consonant/vowel)*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Tj5ffTjBe9A2qcEzUelvm1J4CgFsczB3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Conta gli anagrammi di FELICIDADE alternati (consonante/vocale) < MSK1/>
+
+> Una sequenza di lettere, con o senza significato, viene chiamata $alternated$ quando è formata da consonanti e vocali alternati. Ad esempio, EZEQAF, MATEMATICA, LEGAL e ANIMADA sono parole alternate, mentre DSOIUF, OLIMPIADA e ORDINARIO non lo sono. Quanti anagrammi della parola FELICIDADE (compresa la parola FELICIDADE stessa) sono sequenze alternate?
+
+[[src_obm_2011_n3_f2__Q02]]

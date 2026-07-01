@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r1__Q01
 parent: src_pol_2007_r1
 competition: Olimpiade Matematica Polacca 2007 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real triples solving a symmetric quadratic system.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i tripli reali risolvendo un sistema quadratico simmetrico.*
+
+> Trova tutti i triples $(x,y,z)$ dei numeri reali che soddisfano le equazioni $$x^2+2yz+5x=2,$$ $$y^2+2zx+5y=2,$$ $$z^2+2xy+5z=2.$$
+
+[[src_pol_2007_r1__Q01]]

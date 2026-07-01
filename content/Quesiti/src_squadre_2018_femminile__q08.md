@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q08
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri segni + per ottenere 1 da 1..2018 con max addizioni*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1425
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers of marks + to obtain 1 from 1..2018 with max additions*
+
+> PLANAR EXPRESS Hubert Fredholm is a professor of "quantum neutron mathematics" at Martian University and a senior member of the Academy of Professors. He's a great inventor and he's the one who designed all the robots on Earth. Hubert is the owner of the intergalactic transportation agency Planar Express. Hubert proposes to Fry, Liela and Beuler to become his employees, but only if they can solve a problem. Hubert writes the numbers from 1 to 2018 leaving a space between them and writing a   at the bottom. Now it asks to fill the space between two numbers with a   or a   so as to get as the final result of  operation 1, but to do so with as many   as possible. Fry's desperate, and Liela's about to crack something. It's a good thing Beuler has the solution. What number of characters will make Fry a factor of 3000?
+
+**Answer:** 1425
+[[src_squadre_2018_femminile__Q08]]

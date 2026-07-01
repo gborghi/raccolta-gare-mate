@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2020 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_automne__Q13
 parent: src_canimath_2020_automne
 competition: Coupe Animath Automne 2020
@@ -35,6 +36,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count reals x in [1,10] with fractional-part(x) squared equal to fractional-part(x squared)*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta x reale in [1,10] con frazione-parte(x) quadrato uguale alla frazione-parte(x quadrato) *
+
+> Per ogni numero reale $x$, scriviamo $\lfloor x \rfloor$ per il numero intero più grande inferiore o uguale a $x$, quindi chiamiamo * parte frazionaria* di $x$ il numero $\langle x \rangle$ definito da $\langle x \rangle = x - \lfloor x \rfloor$. Quanti numeri reali $x$ verificano $1 \le x \le 10$ e $\langle x \rangle^2 = \langle x^2 \rangle$?
+
+[[src_canimath_2020_automne__Q13]]

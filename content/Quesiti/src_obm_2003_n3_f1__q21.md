@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q21
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find floor of (3^2001+2^2001)/(3^2000+2^2000)*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare pavimento di (3^2001+2^2001)/(3^2000+2^2000) *
+
+> Il numero intero più grande non superiore a $$\frac{3^{2001} + 2^{2001}}{3^{2000} + 2^{2000}}$$ è uguale a:
+> 
+> A) $4$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $9$
+
+**Risposta:** D
+[[src_obm_2003_n3_f1__Q21]]

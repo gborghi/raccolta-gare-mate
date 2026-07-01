@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara Nazionale Individuale (Cesenatico) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_individuale__Q03
 parent: src_archimede_2001_individuale
 competition: Archimede 2001 - Gara Nazionale Individuale (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *soluzioni intere positive*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8 coppie; con x primo: (3,3^667),(23,23^87),(29,29^69)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>positive whole solutions< MSK1/>
+
+> Consider the equation
+> 
+> $$x^{2001} = y^x.$$
+> 
+> (a) Determine all pairs $(x, y)$ of solutions in which $x$ is a prime number and $y$ is a positive integer.
+> 
+> (b) Determine all < MSK0/> solution pairs in which < MSK1/> and < MSK2/> are positive integers.
+> 
+> (Remember that MSK0/.)
+
+**Answer:** 8 coppie; con x primo: (3,3^667),(23,23^87),(29,29^69)
+[[src_archimede_2001_individuale__Q03]]

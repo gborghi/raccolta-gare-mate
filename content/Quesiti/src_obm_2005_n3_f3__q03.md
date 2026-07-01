@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f3__Q03
 parent: src_obm_2005_n3_f3
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest square fitting inside a unit cube*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'apparecchio quadrato più grande all'interno di un cubo unitario*
+
+> Diciamo che un quadrato è contenuto in un cubo se tutti i suoi punti si trovano sulle facce o all'interno del cubo. Trova il valore più grande $\ell > 0$ tale che esista un quadrato di lato $\ell$ contenuto in un cubo di lunghezza di bordo $1$.
+
+[[src_obm_2005_n3_f3__Q03]]

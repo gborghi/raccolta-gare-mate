@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1980-81 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1980-81_round2__Q04
 parent: src_bmo_1980-81_round2
 competition: British Mathematical Olympiad 1980-81 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Remainder when x^81+x^49+x^25+x^9+x is divided by x^3-x*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $5x$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GpTQrfsXXsla5HmqwZgZcZX9PS1_cg-2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Restante quando x^81+x^49+x^25+x^9+x è diviso da x^3-x*
+
+> Trova il rimanente quando il polinomio $$x^{81} + x^{49} + x^{25} + x^9 + x$$ è diviso dal polinomio $x^3 - x$.
+
+**Risposta:** $5x$
+[[src_bmo_1980-81_round2__Q04]]

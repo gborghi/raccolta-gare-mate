@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2018__Q06
 parent: src_cesenatico_2018
 competition: Olimpiade Italiana (Cesenatico) 2018 - testi
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *punti conciclici e intersezione su Omega*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fy9Va9QicHHzBeW4fO7hA8uL1tF3cN1L/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>concyclic points and intersections on Omega< MSK1/>
+
+> So ABC is a triangle such that AB is AC and I is its center. Whether Γ the circumference circumscribed at ABC. The lines BI and CI intersect Γ in two new points, marked M and N respectively. Whether D is another point of Γ, lying on the arc BC that does not contain A, and whether E, F, respectively, are the intersections of AD with BI and CI. Finally, P and Q are the intersections of DM with CI and DN with BI, respectively. (i) Demonstrate that points D, I, P and Q lie on the same circumference Ω. (ii) Demonstrate that the EC and BF lines intersect on Ω.
+
+[[src_cesenatico_2018__Q06]]

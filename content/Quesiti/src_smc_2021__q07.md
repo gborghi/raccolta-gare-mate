@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2021 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2021__Q07
 parent: src_smc_2021
 competition: Senior Mathematical Challenge 2021
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine which of the five given power expressions is the largest.*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Determine quale delle cinque espressioni di potenza fornite è il più grande.*
+
+> Quale di questi numeri è il più grande?
+>
+> - **(A)** $2^{5000}$
+> - **(B)** $3^{4000}$
+> - **(C)** $4^{3000}$
+> - **(D)** $5^{2000}$
+> - **(E)** $6^{1000}$
+
+**Risposta:** B
+[[src_smc_2021__Q07]]

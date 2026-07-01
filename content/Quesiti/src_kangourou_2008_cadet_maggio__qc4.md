@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet finale nazionale (Mirabilandia) — Quesito C4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_maggio__QC4
 parent: src_kangourou_2008_cadet_maggio
 competition: Kangourou 2008 - Cadet finale nazionale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare un insieme IMPERFETTO infinito*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** {2^(2k+1)}
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xzcCtKgXNW9sDUlvwxKZKhDmQXZC9iIk/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Finding an infinite set of imperfections< MSK1/>
+
+> Call a set $A$ of positive integers IMPERFECT such that: - it is composed of infinite numbers; - however you choose a finite subset $B$ of that set, the sum of the numbers of $B$ is never the square of an integer.
+> 
+> Find at least one perfect set.
+
+**Answer:** {2^(2k+1)}
+[[src_kangourou_2008_cadet_maggio__QC4]]

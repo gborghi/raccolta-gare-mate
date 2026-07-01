@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Semifinale individuale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q02
 parent: src_kangourou_2022_student_semifinale
 competition: Kangourou 2022 Student — Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *stima di chi conosceva la risposta corretta*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>estimation of who knew the correct answer< MSK1/>
+
+> (3 points) To a closed answer question by Kangourou like this, with 5 options for the answer, 10,000 students answered. Of these, some have been able to determine the correct answer based on their knowledge, others have tried to guess by choosing quite randomly from the five proposals. The correct answers were 3,000. Which of the following is more likely to be the number of people who knew the correct answer? A) 3.000 B) 2.500
+>  
+> C) 1.500
+>  
+> D) 1.250
+>  
+> E) 1.000
+
+**Answer:** D
+[[src_kangourou_2022_student_semifinale__Q02]]

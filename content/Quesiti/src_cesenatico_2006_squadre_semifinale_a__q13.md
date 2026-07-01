@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Semifinale A — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_semifinale_a__Q13
 parent: src_cesenatico_2006_squadre_semifinale_a
 competition: Gara a Squadre Cesenatico 2006 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo DAE in configurazione ciclica con DE=AE*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0070
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/176f9Ze_zpmbHE-ZDbEYrWD_SEZFftg_n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Angle DAE in cyclic configuration with DE=AE*
+
+![[src_cesenatico_2006_squadre_semifinale_a__prob13.png]]
+
+> Hardy's hunting lodge, Ron and Hermita enjoy spending the afternoon in front of a smoking cup of tea with the hunting lodge. On these occasions the meticulous Hermit has always a new problem of geomancy, her favorite subject, to propose to friends. Points B, C, D and E lie on the same circumference and both A the intersection between the straight BE and the straight CD (see figure). We know that DE = AE and that d ACB = 40°. Determine the DAE. A B D E C
+
+**Answer:** 0070
+[[src_cesenatico_2006_squadre_semifinale_a__Q13]]

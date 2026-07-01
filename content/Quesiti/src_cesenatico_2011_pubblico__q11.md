@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q11
 parent: src_cesenatico_2011_pubblico
 competition: Gara a Squadre Cesenatico 2011 - Gara del pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero spie tra operai (affermazioni cicliche)*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5049
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of spies among workers (cyclical claims) *
+
+> Differences of opinion [45] The work on the construction of Cleopatra's monument has been accelerated and now there are the beauty of 12624 Egyptian workers, among whom unfortunately many Roman spies are feared to have infiltrated (but fortunately there is no longer any saboteur). When Abelix asks each of the workers to say what they know, he gets in the order the answers: among us there is at least 1 Egyptian, among us there are at least 2 Egyptians, among us there are less than 3 Egyptians, the construction site workers are at least 4, the construction site workers are at least 5, the construction site workers are less than 6, and continuing the seventh as the first, the eighth as the second and so on, with the difference that the th worker speaks of Egyptians or n workers. Clearly the Egyptian workers will always tell him the truth while the Roman spies will always lie to him. How many Roman spies have infiltrated the workers?
+
+**Answer:** 5049
+[[src_cesenatico_2011_pubblico__Q11]]

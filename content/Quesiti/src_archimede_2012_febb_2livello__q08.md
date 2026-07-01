@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q08
 parent: src_archimede_2012_febb_2livello
 competition: Archimede Gara Febbraio 2012 (8 feb) - 2 livello
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spese crescono 0,5% annuo, anno in cui raddoppiano*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Expenditure increases by 0.5% per annum, a year in which it doubles< MSK1/>
+
+> The costs of organising the National Mathematical Olympiads increase by 0.5% each year compared to the previous year. In what year will the expenditure be exactly double that of 2012? Note: In 2012 the expenditure is not zero.
+>
+> - **(A)** 2023
+> - **(B)** 2150
+> - **(C)** 2151
+> - **(D)** 2212
+> - **(E)** I never did.
+
+**Answer:** E
+[[src_archimede_2012_febb_2livello__Q08]]

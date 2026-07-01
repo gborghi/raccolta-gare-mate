@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q24
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area massima ombra di parallelepipedo 20x40x60*
 
@@ -61,3 +64,28 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2800
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum area of parallel-piped shadow 20x40x60*
+
+![[src_squadre_2018_femminile__prob24.png]]
+
+> The Last Egg Fry discovers that he has telepathic powers and understands that he must defeat the Dark Forces and save the last encyclopedic egg, an extinct species that has evolved to include the DNA of all living species. The egg is a rectangular parallel-piped with 20 mm, 40 mm and 60 mm beads. To protect it, the Planar Express must find out what the maximum possible area of the shadow of the parallel piped projected by the sun on a screen is (consider the sun's rays all parallel). To buy time, Professor Fredholm invents a button that can transport a person ten seconds back in time. Thanks to this finding, Fry is able to defeat the Dark Forces. Fry and Liela decide to get married and face the next space adventure together.
+>  
+>  
+> 
+>  
+>  
+>  
+>  
+> 
+>  
+> The women's national finals (5 May 2018)
+>  
+> GREAT solutions
+
+**Answer:** 2800
+[[src_squadre_2018_femminile__Q24]]

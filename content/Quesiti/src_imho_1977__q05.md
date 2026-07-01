@@ -1,6 +1,7 @@
 ---
 title: IMO 1977 (XIX International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1977__Q05
 parent: src_imho_1977
 competition: IMO 1977 (XIX International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pairs $(a,b)$ with $a^2+b^2$ divisible by $a+b$; remainder $r=1977$*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Parts $(a,b)$ with $a^2+b^2$ divisible by $a+b$; remainder $r=1977$*
+
+> Let < MSK0/> and < MSK1/> be positive integers. When $a^2 + b^2$ is divided by $a + b$, the quotient is $q$ and the remainder is $r$. Prove that there are infinitely many pairs $(a, b)$ such that $q^2 + r = 1977$.
+
+[[src_imho_1977__Q05]]

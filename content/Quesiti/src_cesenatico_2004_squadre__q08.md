@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q08
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area unione di 6 cerchi su lati di esagono regolare*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1776
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of union of 6 circles on the sides of the regular hexagon*
+
+> The garden of the castle of the cadet prince of Franquie is obtained from the union of 6 circles of a radius of 10 m, the diameters of which are sides of a regular hexagon. What's the area of the garden?
+
+**Answer:** 1776
+[[src_cesenatico_2004_squadre__Q08]]

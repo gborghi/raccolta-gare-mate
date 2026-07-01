@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Finale Nazionale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_finale__Q17
 parent: src_squadre_2024_finale
 competition: Gara a Squadre 2024 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza XY x100 con bisettrice e circonferenze circoscritte*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0802
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length XY x100 with beam and circumscribed circumference*
+
+> To find the center of the Permuda Peninsula, you must find in the sky the stars depicted in an ancient painting. The stars A, B, C and D form a quadrilateral in which AB = 6, BC = 12, the diagonal AC = 16, such that the diagonal BD bisects the angle \ ABC, and said E the intersection of the diagonals, we have BE ·ED = 21. The circumferences C1 and C2 are traced, bounded by the triangles ABD and BCD respectively. They intersect AC in G and F respectively. Finally , the DF and DG lines intersect the sides AB and BC respectively in X and Y . Determine the length of XY multiplied by 100.
+
+**Answer:** 0802
+[[src_squadre_2024_finale__Q17]]

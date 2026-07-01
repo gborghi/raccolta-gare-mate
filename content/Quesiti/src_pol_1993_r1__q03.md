@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r1__Q03
 parent: src_pol_1993_r1
 competition: Olimpiade Matematica Polacca 1993 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a product relation for a centrally symmetric hexagon from intersection points of its side lines.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove un rapporto di prodotto per un esagono centricamente simmetrico dai punti di intersezione delle sue linee laterali.*
+
+> Che il $ABCDEF$ sia un esagono centralmente simmetrico. Le linee $AB$ e $EF$ si incontrano a $A'$, le linee $BC$ e $AF$ si incontrano a $B'$, e le linee $AB$ e $CD$ si incontrano a $C'$. Provare che < MSK0/>
+
+[[src_pol_1993_r1__Q03]]

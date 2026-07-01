@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1994 — Round 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1994_r1__Q09
 parent: src_pol_1994_r1
 competition: Olimpiade Matematica Polacca 1994 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2n participants each acquainted with >=n others; pair into n double rooms by acquaintance*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BZkYk6qikhaabMsReEG2c6SEIIvgPWDp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>2n partecipanti, ciascuno conosciuto con >=n altri; coppia in n camere doppie per conoscenza< MSK1/>
+
+> Ci sono $2n$ partecipanti a una conferenza. Ciascuna delle persone conosce almeno < MSK1/> altre persone. dimostrare che è possibile ospitare i partecipanti in $n$ camere doppie in modo che ognuno di loro condivida una stanza con la sua conoscenza.
+
+[[src_pol_1994_r1__Q09]]

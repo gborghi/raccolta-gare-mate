@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f2__Q05
 parent: src_obm_2006_n3_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Dice: probability of sum 2006 equals probability of sum S; find min S*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1opr1KnCz4sXqFTqwDJVnexLXTOtfy7Cz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dice: probabilità della somma 2006 è uguale alla probabilità della somma S; trovare min S*
+
+> Rollano un certo numero di dadi cubici con volti numerati da 1 a 6. La probabilità di ottenere una somma del 2006 è pari alla probabilità di ottenere una somma di $S$. Qual è il minimo valore possibile di $S$?
+
+[[src_obm_2006_n3_f2__Q05]]

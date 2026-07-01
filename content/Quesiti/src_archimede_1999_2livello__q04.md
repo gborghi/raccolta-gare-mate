@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1999 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_2livello__Q04
 parent: src_archimede_1999_2livello
 competition: Archimede Gara 2º livello 1999
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto superfici laterali di cilindro e cono uguali*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio of cylinder and cone side surfaces equal*
+
+> A straight cylinder $X$ and a straight cone $Y$ have the same base radius and the same height. Then the ratio between the lateral surfaces of $X$ and $Y$:
+>
+> - **(A)** It's always equal to the ratio of their volumes.
+> - **(B)** can be equal to the ratio of their volumes (depending on altitude)
+> - **(C)** is always $\frac{2}{3}$ of their volume ratio
+> - **(D)** It's always greater than the ratio of their volumes.
+> - **(E)** It's always less than the ratio of their volumes.
+
+**Answer:** E
+[[src_archimede_1999_2livello__Q04]]

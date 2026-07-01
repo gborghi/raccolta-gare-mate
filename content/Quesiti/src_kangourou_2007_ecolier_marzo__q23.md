@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Ecolier (marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_ecolier_marzo__Q23
 parent: src_kangourou_2007_ecolier_marzo
 competition: Kangourou 2007 Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo carte per circuito chiuso piu grande*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/17vYSzFkyDePLZSnxxExsaO7v6ASfafHB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum cards for larger closed circuit < MSK1/>
+
+> Anna has a large number of square cards like the one next to her. Approaching four of these cards appropriately can build a closed circuit (in white in the second figure). Anna wants to build a larger circuit: what is the minimum number of cards that allows her to implement her project? A) 8 B) 10 C) 9 D) 16 E) 12
+
+**Answer:** E
+[[src_kangourou_2007_ecolier_marzo__Q23]]

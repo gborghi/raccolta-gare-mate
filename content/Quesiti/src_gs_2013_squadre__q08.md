@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q08
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza trave che divide trapezio in aree uguali*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 5450
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Bear length dividing trapezoid into equal areas*
+
+> The vertical section of the tunnel in the Black Castle Barrier has a trapezoidal shape with bases of $6{,}26\text{ m}$ and $76{,}82\text{ m}$. In some points of the tunnel, to ensure stability, a support beam is mounted, parallel to the bases, which divides the vertical section of the tunnel into two equivalent trapezoids. How long is one of these support beams in cm?
+
+**Answer:** 5450
+[[src_gs_2013_squadre__Q08]]

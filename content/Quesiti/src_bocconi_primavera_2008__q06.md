@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q06
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Partite totali in torneo di pallacanestro*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 28
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total matches played in basketball tournaments*
+
+> There are eight teams competing in the school basketball tournament. Each team only meets the others once. **How many matches will be played in the tournament? **
+
+**Answer:** 28
+[[src_bocconi_primavera_2008__Q06]]

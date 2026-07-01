@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q23
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero del vertice x del prisma con somme uguali*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of the x-vertices of the prism with equal sums*
+
+![[src_kangourou_2018_student_marzo__prob23.png]]
+
+> 23. The prism in the figure is made up of two triangles and three squares. Its vertices are numbered from 1 to 6 so that the sum of the four vertices on each square is the same for all squares. Tops 1 and 5 have already been numbered. What number distinguishes the vertex marked with x ? A) 2 B) 3 C) 4 D) 6 E) Numbering cannot be carried out.
+
+**Answer:** A
+[[src_kangourou_2018_student_marzo__Q23]]

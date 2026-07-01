@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2008 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2008__Q01
 parent: src_cn_cmc_2008
 competition: China Mathematical Competition 2008
@@ -31,6 +32,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum value of rational function on half-line*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta minima della funzione razionale su metà linea*
+
+> Il valore minimo di $f(x) = \frac{5-4x+x^2}{2-x}$ per $x \in (-\infty, 2)$ è ( ).
+> 
+> (A) 0 \quad (B) 1 \quad (C) 2 \quad (D) 3
+
+**Risposta:** C
+[[src_cn_cmc_2008__Q01]]

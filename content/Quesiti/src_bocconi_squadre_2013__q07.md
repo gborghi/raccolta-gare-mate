@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q07
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di tre cifre uguale alla somma della prima e il quadrato della seconda cifra*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 598
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of three digits equal to the sum of the first and the square of the second digits*
+
+> Find the natural minimum number of three digits that is equal to the sum of its first digit (left) squared by the second and cube by the third.
+
+**Answer:** 598
+[[src_bocconi_squadre_2013__Q07]]

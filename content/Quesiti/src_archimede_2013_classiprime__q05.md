@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2013 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_classiprime__Q05
 parent: src_archimede_2013_classiprime
 competition: Gara Nazionale Classi Prime 2013
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazioni vere su quando un quadrilatero e un rombo*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QOs-wHwL6ryV_HPtTgSDkaOQcfk0IuTs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*True statements about when a quadrilateral and a rope*
+
+![[src_archimede_2013_classiprime__prob5.png]]
+
+> Given a convex quadrilateral ABCD, consider the following statements: (a) if the AC diagonal is a bisector of the angles in A and C and AB = BC, then ABCD is a rim; (b) if the AC diagonal is a bisector of the angle in A and AB = BC, then ABCD is a rim; (c) if the AC diagonal is a bisector of the angles in A and C and AB = AD, then ABCD is a rim. So those corrections are: A only (a) B no C all D only (c) E only (a) and (b) F only (a) and (c)
+
+**Answer:** A
+[[src_archimede_2013_classiprime__Q05]]

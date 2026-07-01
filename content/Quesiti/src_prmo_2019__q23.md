@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2019 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2019__Q23
 parent: src_prmo_2019
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2019
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum area of cyclic quadrilateral given distances from Fermat point*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qz0dvMH5MM7THh_JUQWZYSySDgP--G6w/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area massima del quadrilatero ciclico data dalle distanze dal punto Fermat*
+
+> Che $ABCD$ sia un quadrilaterale convex ciclico. Supponiamo che $P$ sia un punto nel piano del quadrilaterale in modo tale che la somma delle sue distanze dalle vertici di $ABCD$ sia la minore. Se $$\{PA, PB, PC, PD\} = \{3, 4, 6, 8\},$$ qual è la superficie massima possibile di $ABCD$?
+
+[[src_prmo_2019__Q23]]

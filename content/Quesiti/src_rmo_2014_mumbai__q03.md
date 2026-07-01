@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Mumbai — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_mumbai__Q03
 parent: src_rmo_2014_mumbai
 competition: Regional Mathematical Olympiad 2014
@@ -30,6 +31,8 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove BO perpendicular to AC when DE parallel to AC*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xhSfT_YS9hyqePqUnTAQeZVYK635GxN9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove BO perpendicolare all'AC quando DE è parallelo ad AC*
+
+> Il $ABC$ è un triangolo acuto angolato in cui $\angle ABC$ è l'angolo più grande. Che il $O$ sia il suo circoncentro. I bisettori perpendicolari di $BC$ e $AB$ si incontrano rispettivamente a $AC$ e $Y$. I bisettori interni di $\angle AXB$ e $\angle BYC$ incontrano $AB$ e $BC$ rispettivamente a $D$ e $E$. Prova che $BO$ è perpendicolare a $AC$ se $DE$ è parallelo a $AC$.
+
+[[src_rmo_2014_mumbai__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2014 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo24mq_honsen__Q04
 parent: src_jmo24mq_honsen
 competition: Japan Mathematical Olympiad 2014 — Honsen (Final)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a circle through four points is tangent to BC*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1suYUMYpD2iGEGY-rmTJaUSXMpm2mVi_0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che un cerchio attraverso quattro punti è tangente a BC*
+
+> La linea tangente di $\Gamma$ è la linea di circonferenza del triangolo $ABC$ e $\ell$ è la linea tangente di $\Gamma$ al punto $A$. I punti $D$ e $E$ devono essere punti sui lati $AB$ e $AC$, rispettivamente, separati dai punti finali, soddisfacendo $BD : DA = AE : EC$. $F$ e $G$ siano i due punti di intersezione della linea $DE$ con $\Gamma$. Il $H$ è l'intersezione di $\ell$ con la linea attraverso $D$ parallela a $AC$, e il $I$ è l'intersezione di $\ell$ con la linea attraverso $E$ parallela a $AB$. Prova che i quattro punti $F, G, H, I$ si trovano su un cerchio comune e che questo cerchio è tangente alla linea $BC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+[[src_jmo24mq_honsen__Q04]]

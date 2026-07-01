@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Ecolier 2024 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier__Q08
 parent: src_kangourou_2024_ecolier
 competition: Kangourou Categoria Ecolier 2024
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale frutto prende Bianca*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Which fruit does Bianca eat< MSK1/>
+
+> Mother brings five different fruits to the table: an apple, a pear, an orange, a kiwi and a banana. Each of the five children takes a fruit he likes.
+> 	
+> Anna likes oranges.
+> 	
+> Bianca likes all these fruits.
+> 	
+> Carlo likes oranges, kiwis and bananas.
+> 	
+> Daniel likes oranges and bananas.
+> 	
+> Emma likes pears and kiwis. What kind of fruit does Bianca eat? A) Orange. B) Banana. C) apple. (d) Kiwi. (e) the pen. The questions from N. 9 al N. 16 is worth 4 points each.
+
+**Answer:** C
+[[src_kangourou_2024_ecolier__Q08]]

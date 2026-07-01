@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q13
 parent: src_kangourou_2015_marzo_benjamin
 competition: Kangourou 2015 gara 19 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *AB*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1AiqamuCK6oQtEOLFArlQVHEyWohLlfzH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AB*
+
+![[src_kangourou_2015_marzo_benjamin__prob13.png]]
+
+> The ABCD rectangle in the figure is formed by approaching 4 equal rectangles. If the length of BC is 1 cm, how long is AB? A) 4 cm B) 3 cm C) 2 cm D) 1 cm E) 0,5 cm
+
+**Answer:** C
+[[src_kangourou_2015_marzo_benjamin__Q13]]

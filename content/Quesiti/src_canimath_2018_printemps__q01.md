@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2018 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2018_printemps__Q01
 parent: src_canimath_2018_printemps
 competition: Coupe Animath Printemps 2018
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *12 numbered chairs, grasshopper jumps exactly 4 numbers*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*12 sedie numerate, salti di scarafaggio esattamente 4 numeri*
+
+> Le 12 sedie sono numerate da 1 a 12. Un agaro può saltare dalla sedia $k$ alla sedia $n$ se $k - n$ è uno dei quattro numeri $-8, -5, 5, 8$. Ad ogni salto visita ogni sedia esattamente una volta.
+> 
+> a) Trovare tutte le posizioni iniziali possibili.
+
+[[src_canimath_2018_printemps__Q01]]

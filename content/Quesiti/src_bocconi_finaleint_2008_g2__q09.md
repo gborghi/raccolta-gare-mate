@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 2) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g2__Q09
 parent: src_bocconi_finaleint_2008_g2
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordine per visitare 16 cassette senza passare due volte dalla stessa.*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2 soluzioni: 1,2,3,4,8,7,10,13,15,14,11,12,9,6,5 oppure 1,2,3,4,8,13,15,14,11,12,9,10,7,6,5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Order to visit 16 tapes without going through them twice.
+
+> The Xavier factor collects the correspondence from the mailboxes of the city of Math-City. It starts from Deposit D and collects the correspondence from each box to end at Deposit A, and must then return directly to deposit the correspondence at Deposit D. In what order should you visit the boxes 1 to 15, knowing that you never have to go through the same box twice?
+
+![[src_bocconi_finaleint_2008_g2__Q09.png]]
+
+**Answer:** 2 soluzioni: 1,2,3,4,8,7,10,13,15,14,11,12,9,6,5 oppure 1,2,3,4,8,13,15,14,11,12,9,10,7,6,5
+[[src_bocconi_finaleint_2008_g2__Q09]]

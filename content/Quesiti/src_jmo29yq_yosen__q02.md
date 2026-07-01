@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo29yq_yosen__Q02
 parent: src_jmo29yq_yosen
 competition: Japan Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *3-digit number, all digits prime, whose square is also such*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 235
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*numero a 3 cifre, tutte prime, il cui quadrato è anche tale*
+
+> Chiamare un intero positivo un \emph{buono numero} se ognuno dei suoi numeri è un primo (cioè, ogni numero è uno di $2,3,5,7$). Trovare tutti i numeri buoni $3$-cifre il cui quadrato è un numero buono $5$-cifre.
+
+**Risposta:** 235
+[[src_jmo29yq_yosen__Q02]]

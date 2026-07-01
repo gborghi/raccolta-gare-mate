@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r2__Q03
 parent: src_pol_1999_r2
 competition: Olimpiade Matematica Polacca 1999 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral with E,F on AB,CD and P on EF; ratio of areas of APD and BPC is independent of E,F.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QtyD6o9jwMuVGDAxuguLy_l8OL34LF1K/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilatero ciclico con E,F su AB,CD e P su EF; il rapporto tra le aree di APD e BPC è indipendente da E,F.*
+
+> Il $ABCD$ deve essere un quadrilaterale ciclico e $E$ e $F$ devono essere i punti sui lati $AB$ e $CD$ rispettivamente tali da $AE : EB = CF : FD$. Il punto $P$ del segmento $EF$ soddisfa $EP : PF = AB : CD$. Prove che il rapporto tra le superfici di $\triangle APD$ e $\triangle BPC$ non dipende dalla scelta di $E$ e $F$.
+
+[[src_pol_1999_r2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Biennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_biennio__Q04
 parent: src_archimede_2006_biennio
 competition: Giochi di Archimede 2006 - Gara Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prezzo originale dopo sconto del 15%*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Original price after 15% discount*
+
+> Paolo bought an item at a 15% discount on the original price and paid 106.25 euros for it. What was the original price?
+>
+> - **(A)** Less than EUR 123,
+> - **(B)** EUR 124
+> - **(C)** The Commission shall adopt implementing acts in accordance with the procedure referred to in paragraph 1.
+> - **(D)** EUR 127
+> - **(E)** more than EUR 128.
+
+**Answer:** C
+[[src_archimede_2006_biennio__Q04]]

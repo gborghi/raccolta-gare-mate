@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre finale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q05
 parent: src_kangourou_2012_squadre_finale
 competition: Kangourou 2012 squadre finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo zeri finali di n se prodotto divisori ha 15 zeri*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum final zero of n if the product dividers has 15 zeroes< MSK1/>
+
+> Multiply all divisors A positive integer n is such that, if you multiply all its divisors, including n, you get a number whose writing (decimal) ends with 15 zeros. With how many zeros at most can you finish writing (decimal) of n?
+
+**Answer:** 2
+[[src_kangourou_2012_squadre_finale__Q05]]

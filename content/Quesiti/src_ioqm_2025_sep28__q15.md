@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q15
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -34,6 +35,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers satisfying 17(abcd+ab+ad+cd+1)=20(bcd+b+d); find a²+b²+c²+d²*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tanti interi positivi che soddisfano 17 ((abcd+ab+ad+cd+1) = 20 ((bcd+b+d); trovare a2+b2+c2+d2*
+
+> Se $a, b, c, d$ sono integri positivi tale che $$17(abcd + ab + ad + cd + 1) = 20(bcd + b + d),$$ trovi $a^2 + b^2 + c^2 + d^2$.
+
+[[src_ioqm_2025_sep28__Q15]]

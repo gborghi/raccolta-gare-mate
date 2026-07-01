@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q02
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Salary with overtime: find base pay*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Spagno con orario straordinario: trovare il salario base*
+
+> Dino ha guadagnato < MSK0/> reais, compreso il pagamento per le ore extra. Il salario (quando le ore di lavoro esteso sono standard) supera i REAL < MSK1/> nell'importo da pagare per le ore di lavoro esteso. Quanto paga?
+> 
+> (A) $200$ reais \quad (B) $150$ reais \quad (C) $225$ reais \quad (D) $175$ reais \quad (E) $180$ reais
+
+**Risposta:** C
+[[src_obm_2000_n1_f1__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2021__Q12
 parent: src_ioqm_2021
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2021
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *12x12 board; minimum N rooks to guarantee 7 mutually non-attacking*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*12x12 tabella; corve N minime per garantire 7 reciprocamente non attaccanti*
+
+> Una tabella $12 \times 12$ è divisa in 144 quadrati unitari disegnando linee parallele ai lati. Si dice che due corve posizionate su due quadrati di unità non attaccano se non sono nella stessa colonna o nella stessa riga. Trovare il numero minimo $N$ in modo che se le corde $N$ sono posizionate sui quadrati di unità, una torre per quadrato, possiamo sempre trovare 7 corde in modo che non ci siano due che si attaccano.
+
+[[src_ioqm_2021__Q12]]

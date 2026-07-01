@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Benjamin (gara marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_benjamin__Q06
 parent: src_kangourou_2012_benjamin
 competition: Kangourou 2012 Benjamin (gara marzo)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale schema unendo i centri degli esagoni vicini*
 
@@ -54,3 +57,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Ra8ETKneanW8bXwsfiIH5bFIToo-rN0b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which scheme connecting the centres of the nearby hexagons*
+
+> To the number 6, you add 3, then multiply the result by 2, and then you add 1. The number you get is the result of one of the following expressions. What kind? A) (6 + 3 × 2) + 1                  B) 6 + 3 × 2 + 1                   C) (6 + 3) × (2 + 1) D) (6 + 3) × 2 + 1                  E) 6 + 3 × (2 + 1) 6 m 3 m ? k a n g a r o o
+> 
+> I'm going to pay. I'm going to pay. I'm not sure what I'm saying.
+
+[[src_kangourou_2012_benjamin__Q06]]

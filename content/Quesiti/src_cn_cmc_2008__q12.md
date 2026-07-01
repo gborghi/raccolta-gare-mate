@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2008 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2008__Q12
 parent: src_cn_cmc_2008
 competition: China Mathematical Competition 2008
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of tetrahedron surface never touched by freely moving ball*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $72\sqrt{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>L'area della superficie del tetraedro mai toccata da sfere in movimento libero< MSK1/>
+
+> Supponiamo che una palla di raggio 1 si muova liberamente all'interno di un tetraedro regolare con lunghezza di bordo $4\sqrt{6}$. Quindi l'area della superficie interna del contenitore che la palla non può mai toccare è ________.
+
+**Risposta:** $72\sqrt{3}$
+[[src_cn_cmc_2008__Q12]]

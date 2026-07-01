@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Mumbai — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_mumbai__Q03
 parent: src_rmo_2013_mumbai
 competition: Regional Mathematical Olympiad 2013
@@ -32,6 +33,8 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-good non-empty subsets of {0,1,...,9}*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QqpKhO6gD1FP1kEEypefYh_ByeYd4RtW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i sottoinsiemi non vuoti di {0,1,...,9}*
+
+> Un insieme finito non vuoto $S$ di numeri interi è chiamato $3$-buono se la somma degli elementi di $S$ è divisibile da $3$. Trova il numero di $3$-buoni sottoinsiemi non vuoti di $\{0, 1, 2, \ldots, 9\}$.
+
+[[src_rmo_2013_mumbai__Q03]]

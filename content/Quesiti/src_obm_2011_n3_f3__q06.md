@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n3_f3__Q06
 parent: src_obm_2011_n3_f3
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 3 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic product of differences of 2011 non-negative reals with given sum is bounded*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lg8sglroGshD0xnLsEEaoJUunh8VJxYI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il prodotto ciclico delle differenze dei reali non negativi del 2011 con la somma data è limitato*
+
+> $x_1, x_2, x_3, \ldots, x_{2011}$ siano numeri reali non negativi la cui somma è $\dfrac{2011}{2}$. Provare che < MSK0/>
+
+[[src_obm_2011_n3_f3__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2012 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2012__Q05
 parent: src_bocconi_squadre_2012
 competition: Gara a Squadre 2012
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri interi maggiori di 1000 con metà uguale a sé meno metà*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1998, 1999
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Integer numbers greater than 1000 with half equal to itself less half*
+
+> **Find all integers ** (greater than $1\,000$) that satisfy this property: subtracting them $1\,000$ gives the integer immediately preceding their half.
+> 
+> Find all integers greater than 1,000 that satisfy this property.
+
+**Answer:** 1998, 1999
+[[src_bocconi_squadre_2012__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q08
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza tra centri con 3 tangenti comuni*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance between centres with 3 common tangents*
+
+> Two circumferences lie on the same plane; their radii measure 3 meters and 5 meters, and there are exactly three lines tangent to both. So the distance in meters between their centers is A) less than 2 B) 2 C) 4 D) 8 E) greater than 8
+
+**Answer:** D
+[[src_kangourou_2006_student_marzo__Q08]]

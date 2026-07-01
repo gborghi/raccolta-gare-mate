@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q10
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi e sicuramente coinvolto nel furto*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who's definitely involved in the theft?
+
+> There was a robbery in a warehouse and the thieves had to use a car to take the refurbishment. After investigating, the police concluded that the perpetrators should be found among Andrea, Bruno and Carlo. It is known that Andrea cannot drive and that Carlo only acts in the company of Bruno. Who's definitely involved in the theft? A) both Bruno and Charles B) each of the three C) only Andrea D) only Bruno E) only Charles I 11 al N. 20 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2005_benjamin__Q10]]

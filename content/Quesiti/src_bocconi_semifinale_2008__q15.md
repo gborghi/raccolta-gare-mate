@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2008 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2008__Q15
 parent: src_bocconi_semifinale_2008
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2008
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piazzamenti di cinque cavalli su scacchiera con vincoli*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 541
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Five-horse seats on a chessboard with constraints*
+
+> When in a race there are only two horses, there are three possible placements: two in which there is a start and one in which the two horses arrive at equal merit. This is the race is between three horses, there are the following possible placements: six where there is no equality, six where two horses are equal (being the third in front or behind them) and one where the three horses are all equal. When five horses race, how many possible places are there?
+
+**Answer:** 541
+[[src_bocconi_semifinale_2008__Q15]]

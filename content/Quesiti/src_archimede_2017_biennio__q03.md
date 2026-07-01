@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2017 - Biennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_biennio__Q03
 parent: src_archimede_2017_biennio
 competition: Giochi di Archimede 2017 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (m,n) con m^n = 2^12*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/112mFupkYpsCYPbpzDQ0mOl_VW0wTFJK_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Pairs (m,n) with m^n = 2^12< MSK1/>
+
+> How many pairs of positive integers (m, n) are such that mn = 212?
+>
+> - **(A)** 2
+> - **(B)** 1
+> - **(C)** 3
+> - **(D)** 6
+> - **(E)** 4
+
+**Answer:** D
+[[src_archimede_2017_biennio__Q03]]

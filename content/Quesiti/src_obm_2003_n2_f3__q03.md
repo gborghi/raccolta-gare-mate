@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f3__Q03
 parent: src_obm_2003_n2_f3
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove BX=CX iff PQ is diameter of circumscribed circle*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uhVXECvta8Ycz4kch8C6GF4_k1qhNTYm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Prova BX=CX se PQ è il diametro del cerchio circoscritto< MSK1/>
+
+> Il triangolo $ABC$ è inserito nel cerchio $S$ e $AB < AC$. La linea attraverso $A$ perpendicolare a $BC$ incontra $S$ a $P$ ($P \neq A$). Il punto $X$ si trova sul segmento $AC$ e la linea $BX$ incontra $S$ al $Q$ ($Q \neq B$).
+> 
+> Prove che $BX = CX$ se e solo se $PQ$ ha un diametro di $S$.
+
+[[src_obm_2003_n2_f3__Q03]]

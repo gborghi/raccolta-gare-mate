@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2005 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2005__Q09
 parent: src_cn_cmc_2005
 competition: China Mathematical Competition 2005
@@ -29,6 +30,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find gamma minus alpha given triple cosine sum vanishes for all x*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{2\pi}{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova gamma meno alfa data la somma del triplo cosino scompare per tutti x*
+
+> Supponiamo che $\alpha$, $\beta$, $\gamma$ soddisfino $0 < \alpha < \beta < \gamma < 2\pi$. Se $$\cos(x+\alpha)+\cos(x+\beta)+\cos(x+\gamma)=0$$ per arbitrario $x \in \mathbf{R}$, allora $\gamma - \alpha = $ \underline{\hspace{2cm}}.
+
+**Risposta:** \frac{2\pi}{3}
+[[src_cn_cmc_2005__Q09]]

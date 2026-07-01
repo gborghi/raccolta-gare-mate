@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Koala — Gioco Koala — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_koala__Q06
 parent: src_kangourou_2022_koala
 competition: Kangourou 2022 Koala — Gioco Koala
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quattro tessere che formano un quadrato*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nyec1GxOQ3f28I_D0c1kacejlV99W-GD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Four cards forming a square*
+
+![[src_kangourou_2022_koala__prob6.png]]
+
+> Peter draws these four tiles together to form a square. Which of the following figures can be obtained? (see figure)
+
+**Answer:** B
+[[src_kangourou_2022_koala__Q06]]

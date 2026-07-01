@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin gara individuale — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_gara__Q30
 parent: src_kangourou_2022_benjamin_gara
 competition: Kangourou 2022 Benjamin gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di persone col cappello al tavolo*
 
@@ -95,3 +98,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1UZqU8syCyLO1hS0CXsIs2RJg_BSQ8KrQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of people with table hat
+
+> Thirty people are sitting around a round table. Some of them wear hats. Those who wear the hat always tell the truth, while those who do not wear it can either lie or tell the truth. Each of them says, "At least one of my two neighbors doesn't wear a hat". How many people can wear the hat at most? A) 5
+>   
+> B) 10
+>   
+> C) 15 D) 20 E) 25
+>  
+> 0 1 1 1 2 1 3 1 4 1 5 1 6 1 7 1 8 1 9 2 0 2 1 2 2 2 3 2 4 2 5 2 6 2 7 2 8 2 9 3 0
+>  
+> From the top, from the front to the right.
+
+**Answer:** D
+[[src_kangourou_2022_benjamin_gara__Q30]]

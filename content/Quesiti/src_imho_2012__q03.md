@@ -1,6 +1,7 @@
 ---
 title: IMO 2012 (LIII International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2012__Q03
 parent: src_imho_2012
 competition: IMO 2012 (LIII International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Guessing game: player A specifies positive integer set, B lies at most once*
 
@@ -51,3 +54,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WL83L88eQtGtGQEdDDGl27mN5bzY6PBu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Guessing game: player A specifies positive integer set, B lies at most once
+
+> The liar's guessing game is a game played between two players $A$ and $B$. The rules of the game depend on two positive integers $k$ and $n$ which are known to both players.
+> 
+> At the start of the game $A$ chooses integers $x$ and $N$ with $1 \le x \le N$. Player $A$ keeps $x$ secret, and truthfully tells $N$ to player $B$. Player $B$ now tries to obtain information about $x$ by asking player $A$ questions as follows: each question consists of $B$ specifying an arbitrary set $S$ of positive integers (possibly one specified in some previous question), and asking $A$ whether $x$ belongs to $S$. Player $B$ may ask as many questions as he wants. After each question, player $A$ must immediately answer it with yes or no, but is allowed to lie as many times as she wants with the only restriction that, among any $k + 1$ consecutive answers, at least one answer must be truthful.
+> 
+> After $B$ has asked as many questions as he wants, he must specify a set $X$ of at most $n$ positive integers. If $x$ belongs to $X$, then $B$ wins. If $x$ does not belong to $X$, then $A$ wins; otherwise, he loses. Prove that:
+> 
+> 1. If $n \ge 2^k$, then $B$ can guarantee a win. 2. For the sufficiently large $k$, there exists an integer $n \ge 1.99^k$ such that $B$ cannot guarantee a win.
+
+[[src_imho_2012__Q03]]

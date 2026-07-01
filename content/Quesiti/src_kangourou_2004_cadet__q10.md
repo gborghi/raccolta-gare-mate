@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Cadet (18 marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_cadet__Q10
 parent: src_kangourou_2004_cadet
 competition: Kangourou 2004 Cadet (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti anelli nella catena lunga 1,7 m*
 
@@ -55,3 +58,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1moY1UsYrdf2XBfK-55-lOxTvEioSzfUm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many rings in the 1.7 m long chain< MSK1/>
+
+![[src_kangourou_2004_cadet__prob10.png]]
+
+> Observe the figure, in particular the data contained therein. How many rings (equal in size) does the chain consist of, if it is 1.7 meters long? A) 42          B) 21 C) 30          D) 85 E) 17 1 2 3 n 1,7 m
+> 
+> I'm going to pay. I'm going to pay. 18 18 Kang 2004 Kang 2004 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** A
+[[src_kangourou_2004_cadet__Q10]]

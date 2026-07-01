@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 26
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q26
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find m+n+k for area between two parallel chords AB=6, CD=8 in circle radius 5*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca m+n+k per l'area tra due accordi paralleli AB=6, CD=8 nel raggio di circolo 5*
+
+> Lasciate che $AB$ e $CD$ siano due accordi paralleli in un cerchio con raggio 5 in modo tale che il centro $O$ si trovi tra questi accordi. Supponiamo $AB = 6$, $CD = 8$. Supponiamo inoltre che l'area della parte del cerchio che si trova tra gli accordi $AB$ e $CD$ sia $\frac{m\pi + n}{k}$, dove $m, n, k$ sono interi positivi con $\gcd(m, n, k) = 1$. Qual è il valore di < MSK10/>?
+
+[[src_prmo_2017__Q26]]

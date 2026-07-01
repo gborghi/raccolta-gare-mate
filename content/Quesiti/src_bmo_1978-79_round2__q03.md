@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1978-79 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1978-79_round2__Q03
 parent: src_bmo_1978-79_round2
 competition: British Mathematical Olympiad 1978-79 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence defined by floor of average of all previous terms; find $a_{1979}$*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U8W5jKJlcOf3kTSHVPTJynkD6IKK2Jg5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza definita in base alla media di tutti i termini precedenti; trovare $a_{1979}$*
+
+> Considera la sequenza $a_n$ ($n \ge 1$) definita da $$a_1 = 1979, \quad a_{n+1} = \left[\tfrac{1}{2}(a_1 + a_2 + \cdots + a_n)\right] \quad (n \ge 1),$$ dove $[x]$ indica il numero intero più grande non superiore a $x$. (ad esempio $[3] = 3$ e $[5] = 5$.) Determinare $a_{1979}$.
+
+[[src_bmo_1978-79_round2__Q03]]

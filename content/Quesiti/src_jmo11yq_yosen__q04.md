@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2001 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo11yq_yosen__Q04
 parent: src_jmo11yq_yosen
 competition: Japan Mathematical Olympiad 2001 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inradius of triangle AFE with inscribed equilateral triangle*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Radiale del triangolo AFE con triangolo equilaterale inciso*
+
+> C'è un triangolo equilaterale $ABC$ con lunghezza laterale $a$. I punti $D, E, F$ si trovano rispettivamente sui lati $BC, CA, AB$ e il triangolo $DEF$ è un triangolo equilaterale con lunghezza laterale $b$ (dove $b < a$). Trova il raggio del cerchio del triangolo $AFE$.
+
+[[src_jmo11yq_yosen__Q04]]

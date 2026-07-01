@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q18
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Confronto volumi dei due cilindri*
 
@@ -56,3 +59,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Comparison of the volumes of the two cylinders*
+
+> You have a rectangular sheet of paper with a double side of the other. There are two cylinders that can be fastened exactly from the sheet, joining opposite sides of the sheet without overlapping. Call C1 the cylinder fastened to the sheet when approaching the short sides and C2 the cylinder fastened to the sheet when approaching the long sides and denote their volumes with V1 and V2 respectively. Which of the following is correct? V1 = 23 V2 D) V1 = V2 E) V2 = 23 V1 C A B E D Text_07.qxp 16-04-2007 12:05 Page 18
+> 
+> I'm going to pay. I'm going to pay. 19 19 Kang 2007 Kang
+
+**Answer:** A
+[[src_kangourou_2007_cadet_marzo__Q18]]

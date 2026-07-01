@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2022 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2022__Q19
 parent: src_cn_ctst_2022
 competition: China National Team Selection Test 2022
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n×n grid colored red/yellow/blue with cyclic update rule: non-monochromatic iff never monochromatic*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*n×n colore a griglia rosso/giallo/blu con regola di aggiornamento ciclico: non monocromatico se mai monocromatico*
+
+> Inizialmente, ogni quadrato unitario di una griglia $n \times n$ ($n \ge 2$) è di colore rosso, giallo o blu. Ogni secondo i colori dei quadrati unitari cambiano contemporaneamente secondo le seguenti regole: (1) se $A$ è rosso e $A$ condivide un lato comune con un quadrato giallo, allora $A$ diventa giallo; (2) se $B$ è giallo e $B$ condivide un lato comune con un quadrato blu, allora $B$ diventa blu; (3) se $C$ è blu e $C$ condivide un lato comune con un quadrato rosso, allora $C$ diventa rosso; (4) in tutti gli altri casi, il colore non cambia. Prova: se la griglia non diventa monocromatica dopo $2n - 2$ secondi, non diventerà mai monocromatica in tempo finito.
+
+[[src_cn_ctst_2022__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Junior (gara marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior__Q18
 parent: src_kangourou_2012_junior
 competition: Kangourou 2012 Junior (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nella cella libera della prima riga*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the free cell of the first row*
+
+![[src_kangourou_2012_junior__prob18.png]]
+
+> In each of the 12 cells of the grid shown in the figure, an integer between 1 and 9 must be inserted so that the sum of the numbers in each row is the same for all the rows and the sum of the numbers in each column is the same for all the columns. Some of the numbers have already been entered. What number should you put in the free cell on the first line? A) 1 B) 4 C) 6 D) 8 E) 9
+
+**Answer:** D
+[[src_kangourou_2012_junior__Q18]]

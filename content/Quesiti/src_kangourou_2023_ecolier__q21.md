@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier__Q21
 parent: src_kangourou_2023_ecolier
 competition: Kangourou 2023 Ecolier — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *biglie blu di Adamo*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1bDY_Y5qtxjaNx_dh5X8llzlndfmVtNwJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>blue bags of Adam< MSK1/>
+
+> Adam and Eve have 9 balls per head: some are red, others are blue, and overall, the red balls are 8. Eva has a number of blue balls that is twice the number of her red balls. How many blue balls does Adam have?
+
+- A) 3
+- B) 4
+- C) 5
+- D) 6
+- E) 0
+
+**Answer:** B
+[[src_kangourou_2023_ecolier__Q21]]

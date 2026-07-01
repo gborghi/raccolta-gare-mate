@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f2__Q06
 parent: src_obm_2015_n2_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length of AB given two tangent circles through A and B with PB=QB=1000*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wtMtyPWLae_AdePjQMTVUzlH24sGYDuO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza di AB data a due cerchi tangenti attraverso A e B con PB=QB=1000*
+
+> Due cerchi $C_1$ e $C_2$ si incrociano ai punti $A$ e $B$. La tangente di $C_1$ a $A$ incontra di nuovo $C_2$ a $P$; la tangente di $C_2$ a $A$ incontra di nuovo $C_1$ a $Q$. Dato che $PB = QB = 1000$, determinare la lunghezza del segmento $AB$.
+
+[[src_obm_2015_n2_f2__Q06]]

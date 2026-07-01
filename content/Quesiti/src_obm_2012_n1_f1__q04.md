@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f1__Q04
 parent: src_obm_2012_n1_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perimeter of hexagon cut into triangle, two rectangles, parallelogram*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Perimetro di esagono tagliato in triangolo, due rettangoli, parallelo*
+
+> Carla tagliò un esagono (visto a sinistra) in quattro parti come mostrato: un triangolo, due rettangoli e un parallelo. Le misure di queste cifre sono indicate in centimetri. Qual è il perimetro dell'esagono? (Nota: il perimetro di una figura è la lunghezza totale della linea che confina la figura.)
+> 
+> (A) 15 cm \quad (B) 18 cm \quad (C) 26 cm \quad (D) 39 cm \quad (E) 81 cm
+
+![[src_obm_2012_n1_f1__Q04.png]]
+
+**Risposta:** C
+[[src_obm_2012_n1_f1__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2020 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2020__Q06
 parent: src_cn_cmo_2020
 competition: China Mathematical Olympiad 2020
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all functions f: N+ -> N+ with f(f(x)+y) dividing x+f(y)*
 
@@ -46,3 +49,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le funzioni f: N+ -> N+ con f(f(x) + y) dividendo x+f(y)*
+
+> $\mathbb{N}_+$ sia l'insieme di tutti gli integri positivi. Trovare tutte le funzioni $f: \mathbb{N}_+ \to \mathbb{N}_+$, soddisfacendo che per qualsiasi $x, y \in \mathbb{N}_+$, $$f(f(x) + y) \mid x + f(y).$$
+
+[[src_cn_cmo_2020__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 30
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q30
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum integer AC in right triangle ABC with integer perimeter and altitude BD=12*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di AC a numero intero nel triangolo rettangolo ABC con perimetro e altitudine BD=12*
+
+> $ABC$ sia un triangolo rettangolare con $\angle B = 90^\circ$. La lunghezza dell'altitudine $BD$ è uguale a $12$. Qual è la lunghezza minima possibile di $AC$, dato che $AC$ e il perimetro del triangolo $ABC$ sono numeri interi?
+
+[[src_ioqm_2024__Q30]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q22
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *N is a positive integer with all distinct digits, first is 0, last unknown, multiple of 198; find units digit of N/198*
 
@@ -51,3 +54,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N è un numero intero positivo con tutti i numeri distinti, primo è 0, ultimo sconosciuto, multiplo di 198; trova la cifra unità di N/198*
+
+> $N=05399840$ è un intero positivo con tutte le cifre distinte, la prima essendo 0 e l'ultima sconosciuta. Sapendo che $N$ è un multiple di 198, trovare la cifra unità di $N/198$. (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
+
+**Risposta:** C
+[[src_obm_2002_n3_f1__Q22]]

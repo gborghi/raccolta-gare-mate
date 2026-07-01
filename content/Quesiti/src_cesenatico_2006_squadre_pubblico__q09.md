@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2006 - Gara del Pubblico — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006_squadre_pubblico__Q09
 parent: src_cesenatico_2006_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2006 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma anni con almeno 36 divisori in [1006,2006]*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8160
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bA_eyOmb7i4lEHCMSn0vcRPOAtAWLxKc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>sum of years with at least 36 divisors in [1006,2006]< MSK1/>
+
+> The Triangle tournament [45] In years that have at least 36 divisors, the Higher School of Mathematics organizes the Triangle tournament. From its foundation in 1006 to this year in 2006, in which years has the tournament been organized? Answer with the sum of those years.
+
+**Answer:** 8160
+[[src_cesenatico_2006_squadre_pubblico__Q09]]

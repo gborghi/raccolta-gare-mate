@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q14
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora di arrivo di Nando in ritardo*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 15.30
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Nando's arrival time is late< MSK1/>
+
+> The appointment was for 3:00 p.m. but Peter's friends are all late. One with a delay of 47 minutes, another with a delay of half an hour, another with a delay of 35 minutes, another with a delay of 20 minutes, another with a delay of 25 minutes, another with an hour and 10 minutes, another with a delay of 53 minutes. Nando came in third. What time did Nando arrive yesterday?
+
+**Answer:** 15.30
+[[src_bocconi_rosi_2011__Q14]]

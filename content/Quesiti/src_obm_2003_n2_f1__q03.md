@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f1__Q03
 parent: src_obm_2003_n2_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest root of $(x-37)^2 = 169$*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rotelle più piccole di $(x-37)^2 = 169$*
+
+> La radice più grande dell'equazione $(x - 37)^2 - 169 = 0$ è:
+> 
+> (A) 39 \quad (B) 43 \quad (C) 47 \quad (D) 50 \quad (E) 53
+
+**Risposta:** A
+[[src_obm_2003_n2_f1__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede 2001 - Gara del Pubblico (Cesenatico) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_pubblico__Q07
 parent: src_archimede_2001_pubblico
 competition: Archimede 2001 - Gara del Pubblico (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *cifre decimali dopo 1000 mosse*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1999
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1S_H-CSwnsUGuUppDQ3opmQfAPSpfUr-a/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>decimal digits after 1000 moves< MSK1/>
+
+> The newspapers are full of articles on loneliness and hobbies. Here's one of them. Starting with three points on a circumference; one move consists of tracing the angles of the triangle identified by the three points and considering the points that these angles intercept on the circumference. Xam starts playing with points on the circumference that identify length arcs $1$, $2$ and $3$. Xam stops after < MSK3/> moves. How many digits after the comma is the product of the lengths of the $3$ arcs identified by the last points drawn?
+
+**Answer:** 1999
+[[src_archimede_2001_pubblico__Q07]]

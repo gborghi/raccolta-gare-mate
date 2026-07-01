@@ -1,6 +1,7 @@
 ---
 title: IMO 1967 (Ninth International Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1967_all__Q05
 parent: src_imo_1967_all
 competition: IMO 1967 (Ninth International Olympiad)
@@ -28,6 +29,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all n with c_n=0 given infinitely many zero power sums*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1U5rz4wEepU-SfkFdqcEOsSXqBT-xtIsB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find all n with c_n=0 given infinitely many zero power sums
+
+> Consider the sequence $\{c_n\}$, where $$c_1 = a_1 + a_2 + \cdots + a_8,$$ $$c_2 = a_1^2 + a_2^2 + \cdots + a_8^2,$$ $$\vdots$$ $$c_n = a_1^n + a_2^n + \cdots + a_8^n,$$ $$\vdots$$ where $a_1, a_2, \ldots, a_8$ are real numbers not all equal to zero. Suppose an infinite number of terms of the sequence $\{c_n\}$ is zero. Find all natural numbers $n$ for which $c_n = 0$.
+
+[[src_imo_1967_all__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Biennio — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_biennio__Q20
 parent: src_archimede_2008_biennio
 competition: Giochi di Archimede 2008 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di scegliere terna spalatori con numeri distinti*
 
@@ -52,3 +55,20 @@ tags:
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/12mirCdG9lBXZlQdLK5ALAZBqI81Wrx_h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to choose a washing machine with distinct numbers*
+
+> Polisportiva I tropici organised a football tournament with 3 teams each consisting of 15 players (including reserves) with jerseys numbered 1 to 15. The night before the game, it was snowing, and to play, you need to clear the snow off the field. It is then decided to appoint a group of 3 washers by selecting one player per team so that there are no two players with the same number of jerseys. How many different ways can the washing machine group be formed?
+>
+> - **(A)** 48,
+> - **(B)** 455,
+> - **(C)** 1125,
+> - **(D)** 2730,
+> - **(E)** 3375.
+
+**Answer:** D
+[[src_archimede_2008_biennio__Q20]]

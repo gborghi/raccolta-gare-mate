@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f2__Q06
 parent: src_obm_2004_n1_f2
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill 9×9 grid with 1–9 per column, row sums equal; find X+Y*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fill 9×9 grid con 19 per colonna, somma di righe uguale; trovare X+Y*
+
+> Nella tabella seguente, scrivete i numeri da 1 a 9 in ogni colonna in modo che la somma dei numeri scritti nelle nove righe sia la stessa, pari a $Y$. $X$ è la somma dei numeri di ciascuna colonna. Trova < MSK2/>.
+
+![[src_obm_2004_n1_f2__Q06.png]]
+
+[[src_obm_2004_n1_f2__Q06]]

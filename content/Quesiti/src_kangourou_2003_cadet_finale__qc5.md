@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet_finale__QC5
 parent: src_kangourou_2003_cadet_finale
 competition: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo tra sovrapposizioni delle lancette*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 1h5'27"3/11
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Time between the overlapping of the tiles*
+
+> The hour hand of a clock completes a complete turn in < MSK0/> hours while the minute hand completes a complete turn in one hour. Both hands rotate continuously. There are times when the two hands are overlapping. How long does it take between one of these moments and the next?
+
+**Answer:** 1h5'27"3/11
+[[src_kangourou_2003_cadet_finale__QC5]]

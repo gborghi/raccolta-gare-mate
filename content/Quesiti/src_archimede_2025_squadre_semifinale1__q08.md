@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_semifinale1__Q08
 parent: src_archimede_2025_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2025 - Semifinale 1
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo ABC con circonferenza e rapporti dati*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0540
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area ABC triangle with circumference and data ratios*
+
+> Access to the mathematical casino is exclusive and reserved for mathematical secret agents. At the entrance a circumference of 15 radii, its diameter BC and an outer point A to the circumference are drawn. The circumference intersects segments AB and AC in D and E respectively. BD = 1 3AB and CE = 1 4AC are known. To enter the casino, you have to say how much the ABC area is worth. What's the answer? Team competition 2025  Semifinal 1  Problem tests  1/2
+
+**Answer:** 0540
+[[src_archimede_2025_squadre_semifinale1__Q08]]

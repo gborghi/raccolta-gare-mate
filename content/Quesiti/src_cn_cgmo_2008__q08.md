@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2008 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2008__Q08
 parent: src_cn_cgmo_2008
 competition: China Girls' Mathematical Olympiad 2008
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove the sequence floor(2^n*sqrt(2008))+floor(2^n*sqrt(2009)) has infinitely many odd and even terms*
 
@@ -48,3 +51,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove the sequence floor(2^n*sqrt(2008))+floor(2^n*sqrt(2009)) ha infiniti termini odd e even*
+
+> Per un intero positivo $n$, $f_n = \lfloor 2^n \sqrt{2008} \rfloor + \lfloor 2^n \sqrt{2009} \rfloor$. Prove che ci sono infiniti numeri odd e numeri pari nella sequenza $f_1, f_2, \ldots$ ($\lfloor x \rfloor$ rappresenta il più grande numero intero che non supera $x$.) (Posato da Zuming Feng)
+
+[[src_cn_cgmo_2008__Q08]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 2) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g2__Q10
 parent: src_bocconi_finaleint_2007_g2
 competition: >-
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Importo dell'assegno con euro e centesimi invertiti dalla cassiera*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1,03 €
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cheque amount in euro and cents paid by the cashier*
+
+> With no money left, Picson deposits a cheque in euro and cents (the number of cents is well below < MSK0/>). The cashier mistakenly reverses the number of euros and the number of cents he pays in exchange for the check. Picson doesn't know it. A little later, he buys a newspaper with this coin at the cost of $95$ cents. He then retains a coin equal to twice the amount of the initial check.
+> 
+> < MSK0/>What was this amount, expressed in euro and cents? < MSK1/>
+
+**Answer:** 1,03 €
+[[src_bocconi_finaleint_2007_g2__Q10]]

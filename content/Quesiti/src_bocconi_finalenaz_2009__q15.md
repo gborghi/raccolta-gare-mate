@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2009 — Quesito
   15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2009__Q15
 parent: src_bocconi_finalenaz_2009
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2009
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Più piccolo dei due biglietti vincenti consecutivi, uno quadrato perfetto*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3249
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Smaller than two consecutive winning tickets, a perfect square*
+
+> The numbers of the Mathematical Lottery tickets are numbered (without interruption) from 1 to 9999. The winning cards are those whose number can be separated by a dash in two parts, so that the sum of the numbers written on the left of the dash is equal to the sum of the numbers on its right. For example, numbers 33, 440 and 2024 are winning because $3=3$; $4 = 4+0$; $2+0=2+4$. Milena buys two tickets with two consecutive 4-digit numbers and with great joy receives two prizes. His two tickets are indeed winning and one of the two numbers is the square of an integer. Which is the smaller of the two numbers?
+
+**Answer:** 3249
+[[src_bocconi_finalenaz_2009__Q15]]

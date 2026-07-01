@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f3__Q01
 parent: src_obm_2014_n1_f3
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Staircase figures of unit squares; count white squares in figure 13*
 
@@ -54,3 +57,21 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Figura delle scale dei quadrati unitari; contare i quadrati bianchi nella figura 13*
+
+> Esmeralda disegna quadrati laterali per formare la sequenza delle figure qui sotto, secondo una regola che deve scoprire.
+> 
+> (La sequenza mostra figure a forma di scala: la figura 1 ha 1 quadrato grigio; la figura 2 ha 2 quadrati grigi e 1 quadrato bianco a forma di L; la figura 3 ha 3 quadrati grigi e 3 bianchi; la figura 4 ha 4 quadrati grigi e 6 bianchi, formando modelli di scala in crescita.)
+> 
+> a) Quanti quadrati bianchi ha la figura 13?
+> 
+> b) Se esiste, quale figura ha esattamente 100 quadrati bianchi in più dei quadrati grigri?
+
+![[src_obm_2014_n1_f3__Q01.png]]
+
+[[src_obm_2014_n1_f3__Q01]]

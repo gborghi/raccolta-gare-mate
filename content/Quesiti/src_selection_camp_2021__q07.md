@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2021 — Selection Camp — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2021__Q07
 parent: src_selection_camp_2021
 competition: Japan IMO Selection Camp 2021 — Selection Camp
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation over the reals with nested f*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UcwpVgRnWEwbTN1ANSwbD-PqbUpmF_0-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale sui reali con f * annidato
+
+> Trovare tutte le funzioni $f$ definite sui numeri reali e prendere valori reali in modo che, per tutti i numeri reali $x$ e $y$, $$f\left(x^2 + xy + y^2\right) = 2x^2 f(y) + 2x f\bigl(f(y)\bigr) + f\left(-x^2 - xy^2\right) + f\left(y^2\right).$$
+
+[[src_selection_camp_2021__Q07]]

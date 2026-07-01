@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Semifinale 2 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_semifinale2__Q14
 parent: src_archimede_2025_squadre_semifinale2
 competition: Gara a Squadre Nazionale 2025 - Semifinale 2
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Operazione star iterata su razionali da 2 a 99*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 9900
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Operation to be iterated on rational numbers from 2 to 99< MSK1/>
+
+> The spy who loved me Unexpectedly, Vesper Lynear broke James Bound's heart. He had defined the operation ⋆his rational numbers this way: for every positive rational x,y, x⋆y = x+y 1+xy). He had then set the result of (...(((2 ⋆3) ⋆4)...) ⋆99 as the code of his safe, but once he opened it he discovered that Vesper had stolen the contents and had gone. What result did Vesper put in? Answer the sum of the numerator and denominator of the reduced fraction to the minimum terms.
+
+**Answer:** 9900
+[[src_archimede_2025_squadre_semifinale2__Q14]]

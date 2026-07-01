@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2008 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2008__Q05
 parent: src_cn_cwmo_2008
 competition: China Western Mathematical Olympiad 2008
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four frogs on a line jump by reflection over another frog; prove they cannot reach equal neighbor distances of 2008*
 
@@ -44,3 +47,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro rane in una linea saltano per riflessione su un'altra rane; dimostrano di non poter raggiungere distanze uguali alle vicine del 2008*
+
+> Quattro rane sono posizionate in quattro punti su una linea retta in modo che le distanze tra due rane vicine siano tutte uguali a un'unità di lunghezza. Una rana può saltare e raggiungere un nuovo punto che riflette la sua posizione originale, prendendo come punto di riferimento una delle altre tre rane. Prove che non esiste un caso in cui le distanze tra due punti vicini, dove rimangono le rane, siano uguali a $2008$ unità di lunghezza. (Posato da Liu Shixiong)
+
+[[src_cn_cwmo_2008__Q05]]

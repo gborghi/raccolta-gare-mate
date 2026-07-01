@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2000-01 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2000-01_round2__Q02
 parent: src_bmo_2000-01_round2
 competition: British Mathematical Olympiad 2000-01 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer pairs satisfying a Diophantine equation*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UYH7Ndk8ttJ-fkOUzCb8p7ZtSGt7VJ1m/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di numeri interi che soddisfano un'equazione diofantina*
+
+> Trova tutte le coppie di integri $(x, y)$ soddisfacenti $$1 + x^2 y = x^2 + 2xy + y.$$
+
+[[src_bmo_2000-01_round2__Q02]]

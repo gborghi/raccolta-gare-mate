@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2003-04 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2003-04_round1__Q05
 parent: src_bmo_2003-04_round1
 competition: British Mathematical Olympiad 2003-04 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Primes p,q,r with q|p-1, r|p-1; find all values of pq*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18wiJiqdZkrKQw2W9Fj-nCrBT9lVgHHwa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Primi p,q,r con q di p-1, rp-1; trovare tutti i valori di pq*
+
+> Lasciate che $p$, $q$ e $r$ siano numeri primi. È dato che $q$ divide $p - 1$ e $r$ divide $p - 1$. Determinare tutti i possibili valori di $pq$.
+
+[[src_bmo_2003-04_round1__Q05]]

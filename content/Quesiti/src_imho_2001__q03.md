@@ -1,6 +1,7 @@
 ---
 title: IMO 2001 (XLII International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2001__Q03
 parent: src_imho_2001
 competition: IMO 2001 (XLII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Twenty-one girls and boys; pigeonhole gives a problem solved by 3 of each*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qMACSEbbsGH_u046vbY-UauBhiht0ZaG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Twenty-one girls and boys; pigeonhole gives a problem solved by 3 of each
+
+> Twenty-one girls and twenty-one boys took part in a mathematical contest.
+> 
+> - Each contestant solved at most six problems. For every girl and every boy, at least one problem was solved by both of them.
+> 
+> Prove that there was a problem that was solved by at least three girls and at least three boys.
+
+[[src_imho_2001__Q03]]

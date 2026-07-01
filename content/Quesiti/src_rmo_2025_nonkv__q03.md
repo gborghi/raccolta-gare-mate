@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2025 — Non-KV — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2025_nonkv__Q03
 parent: src_rmo_2025_nonkv
 competition: Regional Mathematical Olympiad 2025
@@ -31,6 +32,8 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two circles, transversal line, concyclicity and equal lengths*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ik3u0dWCcvW1PmcS_C8SRI2gnccFRgZA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi, linea trasversale, conciclicità e lunghezze uguali*
+
+> Si deve che $\Omega$ e $\Gamma$ siano rispettivamente cerchi incentrati su $O_1, O_2$. Supponiamo che si incrociano nei punti $A, B$. Supponiamo che $O_1$ sia fuori di $\Gamma$ e $O_2$ sia fuori di $\Omega$. La linea $\ell$ deve essere una linea che non attraversa $A$ e $B$ e che incrocia $\Omega$ a $P, R$ e $\Gamma$ a $Q, S$ in modo tale che $P, Q, R, S$ si trovi sulla linea in questo ordine. Inoltre, i punti $O_1, B$ si trovano su un lato di $\ell$ e i punti $O_2, A$ si trovano sull'altro lato di $\ell$. Considerato che i punti $A, P, Q, O_1$ sono conciclici e $B, R, S, O_2$ sono conciclici, dimostrare anche che $AQ = BR$.
+
+[[src_rmo_2025_nonkv__Q03]]

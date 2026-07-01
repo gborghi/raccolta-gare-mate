@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q27
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo FPD dai due quadrati*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the FPD triangle by two squares*
+
+![[src_kangourou_2022_junior_gara__prob27.png]]
+
+> Look at the figure. ABCD and EFGB are two squares whose diagonal lengths are 7 and 10 cm respectively; the point P is the center of the square-E to ABCD. How many square centimetres does the area of the FPD triangle measure ? A) 14,5 B) 15
+>   
+> C) 15,75 D) 16,5 E) 17,5 F
+
+**Answer:** E
+[[src_kangourou_2022_junior_gara__Q27]]

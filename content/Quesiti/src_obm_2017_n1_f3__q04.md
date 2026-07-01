@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n1_f3__Q04
 parent: src_obm_2017_n1_f3
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle split into a square plus four equal smaller rectangles that reassemble into a new square*
 
@@ -54,3 +57,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo diviso in quadrato più quattro rettangoli uguali più piccoli che si riassemblano in un nuovo quadrato*
+
+> Alcuni rettangoli possono essere divisi in un quadrato e quattro rettangoli uguali più piccoli, in modo tale che tutte queste cinque parti possano essere riunite per comporre un nuovo quadrato.
+> 
+> a) Fare un disegno che mostri come un quadrato e quattro rettangoli uguali possano essere riuniti per formare un nuovo quadrato.
+> 
+> b) Indicare un rettangolo che può essere diviso secondo le esigenze della dichiarazione e indicare le misure dei suoi lati.
+> 
+> c) Se il perimetro del tuo rettangolo è $780\text{ cm}$, quali possono essere i valori del perimetro del quadrato formato dopo la nuova disposizione delle parti?
+
+[[src_obm_2017_n1_f3__Q04]]

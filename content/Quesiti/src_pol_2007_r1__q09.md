@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r1__Q09
 parent: src_pol_2007_r1
 competition: Olimpiade Matematica Polacca 2007 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *With F(k) the product of all divisors of k, prove or disprove that two distinct naturals have equal F.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Con F(k) il prodotto di tutti i divisori di k, dimostrare o respingere che due naturali distinti hanno F uguale.*
+
+> Per un numero naturale $k$, indicare con $F(k)$ il prodotto di tutti i divisori di $k$. Prova o nega che esistono due numeri diversi $m,n\in\mathbb{N}$ con $F(m)=F(n)$.
+
+[[src_pol_2007_r1__Q09]]

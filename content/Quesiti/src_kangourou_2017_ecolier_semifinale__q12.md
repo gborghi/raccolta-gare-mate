@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q12
 parent: src_kangourou_2017_ecolier_semifinale
 competition: Kangourou 2017 Ecolier - Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo piante da aggiungere per distanze uguali*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0022
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum plants to be added for equal distances*
+
+> Four plants grow along one side of a road; the distances between one plant and the next are 7.5 m, 9 m and 21 m. What is the minimum number of plants that you need to add so that all the distances between two successive plants are equal?
+
+**Answer:** 0022
+[[src_kangourou_2017_ecolier_semifinale__Q12]]

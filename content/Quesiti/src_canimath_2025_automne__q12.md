@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2025 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_automne__Q12
 parent: src_canimath_2025_automne
 competition: Coupe Animath Automne 2025
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show Marie never writes 5 in the iterated product-plus-one, largest-prime-divisor process*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra che Marie non scrive mai 5 nel processo iterato di prodotto più uno, più grande di primo divisore*
+
+> Marie scrive il numero $2$ su una lavagna. Poi, ogni minuto, calcola il prodotto di tutti i numeri scritti sulla lavagna e aggiunge $1$. Se $n$ è il risultato di questa operazione, Marie scrive sulla lavagna il più grande divisore primo di $n$. Marie non cancella mai i numeri dalla lavagna. Mostrare che Marie non scriverà mai il numero < MSK4/> sulla lavagna.
+
+[[src_canimath_2025_automne__Q12]]

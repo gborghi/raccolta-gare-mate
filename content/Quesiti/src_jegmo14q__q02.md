@@ -1,6 +1,7 @@
 ---
 title: Japan EGMO Selection / Girls MO 2025 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jegmo14q__Q02
 parent: src_jegmo14q
 competition: Japan EGMO Selection / Girls MO 2025
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four points concyclic from orthocenter angle bisector and circumcircle*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16-NqAuK58hCzJs_f8zhLcVk4UkEgeo1H/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro punti conciclici dal bisettore e dal circoncircolo dell'angolo orthocentrico*
+
+> Lasciate che $ABC$ sia un triangolo acuto che soddisfi $AB < AC$ e $\angle BAC = 60^\circ$, e lasciate che $H$ sia il suo centro orto. Il $P$ deve essere l'intersezione del bisettore di $\angle BHC$ con il lato $BC$. Tra i punti di intersezione del bisettore perpendicolare del lato $BC$ con il circoncircolo del triangolo $ABC$, $M$ sia quello che si trova sullo stesso lato della linea $BC$ come $A$, e $N$ sia quello che si trova sul lato opposto. Indicare che i quattro punti $H$, $M$, $N$, $P$ si trovano su un singolo cerchio. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+[[src_jegmo14q__Q02]]

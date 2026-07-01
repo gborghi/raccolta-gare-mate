@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Finale (risposta aperta) — Quesito J4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_finale__QJ4
 parent: src_kangourou_2023_junior_finale
 competition: Kangourou 2023 Junior — Finale (risposta aperta)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *lunghezza traiettoria di P*
 
@@ -46,3 +49,25 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (π/2)(1+√5)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZqUD0phTjD1vGI9FmGiQjE0m_DFPuY6r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*trajectory length of P*
+
+![[src_kangourou_2023_junior_finale__probJ4.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) node[below left] {$A$} -- (3,0) node[below right] {$B$} -- (3,3) node[above right] {$C$} -- (0,3) node[above left] {$D$} -- cycle;
+  \fill (1.5,0) circle (2pt) node[below] {$P$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Look at the figure. The $AK$ segment is length 5, the side of the square $ABCD$ is length 1 and the point $P$ is the middle point of the side $AB$. Let's rotate the square with a spindle in the $B$ vertex until the $C$ vertex falls (for the first time) on the $AK$ segment; starting from this position of the square, we now perform the same operation with a spindle in $C$ and so on until the $AB$ side is contained again (for the first time after the first rotation) in the $AK$ segment. Provide a qualitative drawing of the trajectory of the point $P$ that can clarify how it was determined and calculate the length. (see figure)
+
+**Answer:** (π/2)(1+√5)
+[[src_kangourou_2023_junior_finale__QJ4]]

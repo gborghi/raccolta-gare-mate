@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q11
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dividere un rettangolo in tre rettangoli simili*
 
@@ -67,3 +70,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*To divide a rectangle into three similar rectangles*
+
+> To decide who will dive first in an icy lake, Massimo and Ugo want to throw dice and rely on the result of the throws according to the following rule: if they don't come out 6 will dive Massimo, if there is only one 6 will dive Ugo while if they come out more 6 will both give up bathing. How many dice do they have to throw if they want the risk of diving first to be evenly distributed between them? A) 3 B) 5 C) 6 D) 9 E) It is not possible that the risk is the same √2 √3 √2 B A) B) C) D) E) C D B A 5 E
+> 
+> I'm going to pay. I'm going to pay. 29 29 Kang 201 Kang 2011
+
+[[src_kangourou_2011_student__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q07
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimise p/q + r/s where {p,q,r,s} = {1,2,3,4}*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimizzare p/q + r/s dove {p,q,r,s} = {1,2,3,4}*
+
+> A Lucy viene chiesto di scegliere $p$, $q$, $r$ e $s$ per essere i numeri $1$, $2$, $3$ e $4$, in un certo ordine, in modo da rendere il valore di $\frac{p}{q} + \frac{r}{s}$ il più piccolo possibile.
+> 
+> Qual è il minimo valore che Lucy possa ottenere in questo modo?
+>
+> - **(A)** $\frac{7}{12}$
+> - **(B)** $\frac{2}{3}$
+> - **(C)** $\frac{3}{4}$
+> - **(D)** $\frac{5}{6}$
+> - **(E)** $\frac{11}{12}$
+
+**Risposta:** D
+[[src_smc_2019__Q07]]

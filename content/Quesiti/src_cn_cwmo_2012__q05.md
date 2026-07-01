@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2012 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2012__Q05
 parent: src_cn_cwmo_2012
 competition: China Western Mathematical Olympiad 2012
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Midpoint of OH lies on circumcircle of triangle ABC*
 
@@ -41,3 +44,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il punto medio di OH si trova sul circoncircolo del triangolo ABC*
+
+> Che $H$ e $O$ siano rispettivamente l'ortocentro e il circumcentro del triangolo acuto $\triangle ABC$ ($A$, $H$, $O$ non sono collineari). Supponiamo che $D$ sia la proiezione di $A$ sulla linea $BC$, e che il bisettore perpendicolare del segmento $HO$ incontra la linea $BC$ a $E$. Prove che il punto medio $N$ di $OH$ si trova sul circoncircolo di $\triangle ABC$. (Posizionato da Fang Zhiqiang)
+
+![[src_cn_cwmo_b11_w252__Q05.png]]
+
+[[src_cn_cwmo_2012__Q05]]

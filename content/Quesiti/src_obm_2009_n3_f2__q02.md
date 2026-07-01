@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f2__Q02
 parent: src_obm_2009_n3_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Incenter distance CI in right triangle ABC*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rfN7WR1PZ66ueGRXD4K4BGaqDvl8IrBK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*IC di distanza al centro nel triangolo rettangolo ABC*
+
+> In triangolo $ABC$, $\angle A = 90^\circ$, $AB = 5$ cm e $BC = 9$ cm. Che $I$ sia il centro di $ABC$. Determinare la lunghezza del segmento $CI$.
+
+[[src_obm_2009_n3_f2__Q02]]

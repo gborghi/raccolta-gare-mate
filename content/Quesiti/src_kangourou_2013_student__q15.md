@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q15
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti rettangoli con lato 5 spezzabili in quadrato e rettangolo*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many rectangles with side 5 can be broken into square and rectangle *
+
+> How many different rectangles exist that have a side length of 5 and can be broken into a square and a rectangle, one of which has an area of 4? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 5
+
+**Answer:** D
+[[src_kangourou_2013_student__Q15]]

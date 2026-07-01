@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q06
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordine finale dei cinque canguri che saltano*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Final order of the five jumping kangaroos*
+
+![[src_kangourou_2013_benjamin__prob6.png]]
+
+> Five kangaroos K, L, M, N, and O have five large square tiles in front of them, aligned as shown in the figure. Each kangaroo starts from the position indicated with Parteza, jumps towards the arrow and at each jump lands on the first free tile it finds. They start in the order that we've listed them for you: K first and he jumps three times, L second and he jumps three times, M third and he jumps two times, N fourth and he jumps two times and finally O who jumps one time. When O also arrived, in what order are the five kangaroos? (A) OKMLN
+> 	
+> (b) OKLMN C) OMLKN D) OMLNK E) OMKLN
+
+**Answer:** E
+[[src_kangourou_2013_benjamin__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2002 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2002__Q06
 parent: src_cn_cmc_2002
 competition: China Mathematical Competition 2002
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compare volumes of two solids of revolution related to parabola and line*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Compare i volumi di due solidi di rotazione legati alla parabola e alla linea*
+
+> Una regione è circondata dalle curve $x^2 = 4y$, $x - 2y - 4 = 0$, $x = 4$ e $y = -4$. $V_1$ è il volume del solido ottenuto ruotando la regione di cui sopra intorno all'asse $y$. Un'altra regione è costituita da punti $(x, y)$ che soddisfano $x^2 \ge 4y$, $|x| \le 4$, $y \ge -4$. $V_2$ è il volume del solido ottenuto rotando questa regione intorno all'asse $y$. Poi "quad".
+> 
+> (A) $V_1 = \dfrac{1}{2}V_2$ \qquad (B) $V_1 = \dfrac{2}{3}V_2$ \qquad (C) $V_1 = V_2$ \qquad (D) $V_1 = 2V_2$
+
+**Risposta:** C
+[[src_cn_cmc_2002__Q06]]

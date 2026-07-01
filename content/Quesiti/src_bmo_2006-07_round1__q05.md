@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2006-07 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2006-07_round1__Q05
 parent: src_bmo_2006-07_round1
 competition: British Mathematical Olympiad 2006-07 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show that if 2 + sqrt(1 + 12a^2) is integer, it is a perfect square*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ugZu072aPo_kDs0qIoR8ADSZWmd255op/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra che se 2 + sqrt(1 + 12a^2) è un intero, è un quadrato perfetto*
+
+> $a$ sia un numero intero. Mostrare che se $2 + \sqrt{1 + 12a^2}$ è un intero, allora è un quadrato perfetto.
+
+[[src_bmo_2006-07_round1__Q05]]

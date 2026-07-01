@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Junior Finale 1 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_squadre__Q07
 parent: src_kangourou_2023_junior_squadre
 competition: Kangourou Squadre 2023 Junior Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza FE in quadrato con AG, GF*
 
@@ -77,3 +80,44 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0216
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ABABSmfUv3zlNKRylXeYYB2Eu-mFOBx1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length FE squared with AG, GF*
+
+![[src_kangourou_2023_junior_squadre__prob7.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.6]
+  \coordinate (A) at (0,3);
+  \coordinate (B) at (0,0);
+  \coordinate (C) at (3,0);
+  \coordinate (D) at (3,3);
+  \coordinate (E) at (9,0);
+  \coordinate (F) at (3,2);
+  \coordinate (G) at (2.25,2.25);
+  \draw (A) -- (B) -- (E) -- cycle;
+  \draw (B) -- (C) -- (D) -- (A);
+  \draw (B) -- (D);
+  \node[above left] at (A) {$A$};
+  \node[below left] at (B) {$B$};
+  \node[below] at (C) {$C$};
+  \node[above right] at (D) {$D$};
+  \node[below right] at (E) {$E$};
+  \node[right] at (F) {$F$};
+  \node[below right] at (G) {$G$};
+  \fill (G) circle (1.5pt);
+  \fill (F) circle (1.5pt);
+\end{tikzpicture}
+\end{document}
+```
+
+> The FE segment Observe the figure. ABCD is a square, segment AG is 81 and segment GF is 27. How long is the FE segment?
+>  
+> F G D B A C E
+
+**Answer:** 0216
+[[src_kangourou_2023_junior_squadre__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q07
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count three-digit numbers, distinct digits from {0,1,2,3}, that are multiples of 6.*
 
@@ -56,3 +59,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri a tre cifre, cifre distinte da {0,1,2,3}, che sono multipli di 6.*
+
+> Considerate tutti i numeri a tre cifre con cifre $distinct$, ognuno uguale a $0$, $1$, $2$ o $3$. Quanti di questi numeri sono multipli di $6$?
+>
+> - **(A)** $4$
+> - **(B)** $7$
+> - **(C)** $10$
+> - **(D)** $15$
+> - **(E)** $20$
+
+[[src_obm_2010_n3_f1__Q07]]

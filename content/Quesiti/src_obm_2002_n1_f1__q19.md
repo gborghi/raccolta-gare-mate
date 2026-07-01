@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f1__Q19
 parent: src_obm_2002_n1_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count occurrences of the digit 5 writing integers 100 to 999*
 
@@ -52,3 +55,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NviJwQmbmihSaakvq3DJSWhViadj6Z5P/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio delle recidive del numero 5 scrivendo integri da 100 a 999*
+
+> Scrivendo i numeri interi da $100$ a $999$, quante volte scriviamo la cifra $5$?
+> 
+> (A) $250$ (B) $270$ (C) $271$ (D) $280$ (E) $292$
+
+**Risposta:** D
+[[src_obm_2002_n1_f1__Q19]]

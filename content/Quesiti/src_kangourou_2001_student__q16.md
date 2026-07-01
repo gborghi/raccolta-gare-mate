@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Student (15 marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_student__Q16
 parent: src_kangourou_2001_student
 competition: Kangourou 2001 - Student (15 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato incontro A-D nel torneo*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Result of A-D meeting in the tournament*
+
+> In a tournament between 4 football teams (each team has played every other team once and only once), the final ranking is as follows: team A 7 points, team B 4 points, team C 3 points, team D 3 points. (In football matches a team gets 3 points when it wins, 1 point when it draws, 0 points if it loses). How did the meeting between Team A and Team D end?
+>
+> - **(A)** A has necessarily won
+> - **(B)** They're even.
+> - **(C)** D has necessarily won
+> - **(D)** depends on the outcome of the challenge between A and B
+> - **(E)** Depends on the outcome of the challenge between A and C.
+
+**Answer:** A
+[[src_kangourou_2001_student__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Second Round) 2020 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-second-round_2020__Q01
 parent: src_cn_cmc-second-round_2020
 competition: China Mathematical Competition (Second Round) 2020
@@ -29,6 +30,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle with incentre; prove BH perpendicular QH*
 
@@ -43,3 +46,15 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles con incentro; prova BH perpendicolare QH*
+
+> 40 punti) Come mostrato alla figura 1.1, nelle isosceles $\triangle ABC$, $AB = BC$ e $I$ è il suo incentro. $M$ è il punto medio di $BI$. $P$ si trova sul lato $AC$, soddisfacendo $AP = 3PC$. Il punto $H$ sull'estensione di $PI$ soddisfa $MH \perp PH$. $Q$ è il punto medio dell'arco minore del circoncircolo di $\triangle ABC$. Prove che < MSK13/>.
+
+![[src_cn_cmc-second-round_2020__Q01.png]]
+
+[[src_cn_cmc-second-round_2020__Q01]]

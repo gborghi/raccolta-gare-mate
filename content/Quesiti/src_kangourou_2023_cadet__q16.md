@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q16
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *misura angolo CFE*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*CFE angle measurement *
+
+![[src_kangourou_2023_cadet__prob16.png]]
+
+> The ABC triangle shown in the figure isosceles and its angle at the apex of the ABC measures 40°. The EAB and DCA angles have the same size. How many degrees does the CFE angle measure ? A) 55 B) 60 C) 65 D) 70 E) 75
+
+**Answer:** D
+[[src_kangourou_2023_cadet__Q16]]

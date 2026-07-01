@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2024 — Selection Camp — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2024__Q02
 parent: src_selection_camp_2024
 competition: Japan IMO Selection Camp 2024 — Selection Camp
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle, bisector and reflection, circle; prove equal angles*
 
@@ -44,3 +47,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PL_Bn-4WncGMxFABFvS--QrLAcF9eVC7/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo, bisettore e riflesso, cerchio; prova angoli uguali*
+
+> Che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$. Il $D$ deve essere l'intersezione del bisettore di $\angle BAC$ con il lato $BC$, e il $E$ deve essere il riflesso di $D$ attraverso il lato $BC$. $F$ sia un punto sul segmento $AC$. La linea attraverso $A$ parallela a $BC$ incontra la linea $DF$ in un punto $G$. Il $P$ è l'intersezione della linea $AB$ con la linea $FG$ e il $Q$ è l'intersezione della linea $EP$ con la linea $FQ$ (come illustrato nella figura). Le linee $EP$ e $FQ$ determinano i punti $K$, $R$, $S$ e il circoncircolo del triangolo $KRS$ incontra un ulteriore punto $X$ (con $X \neq K$). Provare che < MSK28/>.
+
+![[src_selection_camp_2024__Q02.png]]
+
+[[src_selection_camp_2024__Q02]]

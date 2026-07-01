@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo20yq_yosen__Q02
 parent: src_jjmo20yq_yosen
 competition: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count prime pairs (p,q) with p<=q such that pq divides 15(p-1)(q-1)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 31
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le coppie prime (p,q) con p<=q in modo tale che pq divida 15(p-1)(q-1) *
+
+> $(p, q)$ sia una coppia di numeri primi con $p \le q$ tale che $pq$ divida $15(p-1)(q-1)$. Trova il numero di tutte le coppie $(p, q)$.
+
+**Risposta:** 31
+[[src_jjmo20yq_yosen__Q02]]

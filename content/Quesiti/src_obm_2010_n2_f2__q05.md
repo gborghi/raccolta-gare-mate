@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f2__Q05
 parent: src_obm_2010_n2_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer r,s; quadratic with integer roots; count possible values of |r−s|*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10R1d2hHb89ymd5y0yUy3PquhrN5L7XmC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integer r,s; quadratico con radici interi; contare i possibili valori di ̊r−s di *
+
+> $r$ e $s$ siano numeri interi. È noto che l'equazione quadratica $$x^2 - (r + s)x + rs + 2010 = 0$$ ha due soluzioni integrali. Quanti sono i valori possibili di $|r - s|$?
+
+[[src_obm_2010_n2_f2__Q05]]

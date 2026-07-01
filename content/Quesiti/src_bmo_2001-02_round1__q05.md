@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2001-02 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2001-02_round1__Q05
 parent: src_bmo_2001-02_round1
 competition: British Mathematical Olympiad 2001-02 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all values of f(2001) for increasing function satisfying functional equation*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SAj-0uYYOy870pd-gXcOffwjmTfQSrtn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i valori di f(2001) per aumentare la funzione che soddisfa l'equazione funzionale*
+
+> $f$ è una funzione da $\mathbb{Z}^+$ a $\mathbb{Z}^+$, dove $\mathbb{Z}^+$ è l'insieme di integri non negativi, che soddisfa a) $f(n+1) > f(n)$ per ogni $n \in \mathbb{Z}^+$; b) $f(n + f(m)) = f(n) + m + 1$ per tutti $m, n \in \mathbb{Z}^+$. Trova tutti i valori possibili di $f(2001)$.
+
+[[src_bmo_2001-02_round1__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1998 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_2livello__Q11
 parent: src_archimede_1998_2livello
 competition: Archimede Gara 2º livello 1998
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Per quanti interi x il prodotto di due trinomi è primo*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*For integers x the product of two trinomials is prime*
+
+> For how many relative integers of $x$ is the number $|x^2 + x - 1| \cdot |x^2 - 7x + 11|$ prime?
+> 
+> (A) 1 \quad (B) 2 \quad (C) 4 \quad (D) 8 \quad (E) more than 8.
+
+**Answer:** D
+[[src_archimede_1998_2livello__Q11]]

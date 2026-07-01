@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2017 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2017__Q21
 parent: src_smc_2017
 competition: Senior Mathematical Challenge 2017
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many pairs (x,y) of positive integers satisfy 4^x = y^2 + 15?*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Quante coppie (x,y) di numeri interi positivi soddisfano 4^x = y^2 + 15?
+
+> Quante coppie $(x, y)$ di integri positivi soddisfano l'equazione $4^x = y^2 + 15$?
+>
+> - **(A)** $0$
+> - **(B)** $1$
+> - **(C)** $2$
+> - **(D)** $4$
+> - **(E)** un numero infinito
+
+**Risposta:** C
+[[src_smc_2017__Q21]]

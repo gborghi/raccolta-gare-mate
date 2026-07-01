@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2021 Finale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_squadre_finale__Q15
 parent: src_kangourou_2021_squadre_finale
 competition: Kangourou Coppa squadre 2021 Finale
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo numero anticipato di 4 cifre*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1pP5E27Q6uFK3f9bYKmALQUIfz4LOnWyV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Little advance number of 4 digits < MSK1/>
+
+> If we write all the integers starting with 1, one after the other and without leaving any spaces between them, we get the sequence 123456789101112131415.... By isolating two or more digits that appear as consecutive in this alignment, it may happen that the number formed by them appears for the first time much earlier than its natural position: for example, 12 appears at the beginning, and then again in its natural position between 11 and 13. This kind of numbers are called advance. What's the smallest four-digit advance number?
+
+[[src_kangourou_2021_squadre_finale__Q15]]

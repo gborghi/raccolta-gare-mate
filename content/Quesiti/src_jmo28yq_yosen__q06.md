@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo28yq_yosen__Q06
 parent: src_jmo28yq_yosen
 competition: Japan Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length AX in nested isosceles right triangles*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{2+\sqrt{79}}{20}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza AX in triangoli rettangolari con isosceles nidificati*
+
+> Il triangolo $ABC$ è un triangolo a destra con $\angle A = 90^\circ$. All'interno di esso, sono scelti tre punti $X, Y, Z$ in modo che il triangolo $XYZ$ sia un triangolo a destra con $\angle X = 90^\circ$, e inoltre i punti $A, Y, X$ sono collineari in questo ordine, $B, Z, Y$ sono collineari in questo ordine e $C, X, Z$ sono collineari in questo ordine. Se si dà $AB = 1$ e $XY = \frac{1}{4}$, si trova la lunghezza del segmento $AX$. Qui $ST$ indica la lunghezza del segmento $ST$.
+
+**Risposta:** \frac{2+\sqrt{79}}{20}
+[[src_jmo28yq_yosen__Q06]]

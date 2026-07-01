@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f1__Q16
 parent: src_obm_2011_n2_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify the figure not drawable in one stroke without retracing*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WulWejIkw5yT4gQQGGQZPtZEj3iC7MYz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare la figura che non può essere disegnata in un solo tratto senza ritrattare*
+
+> Topazio disegnò le figure riportate di seguito, tranne una, sollevando la matita dalla carta esattamente una volta e non superando mai la stessa linea due volte. Quale di queste figure è quella che non ha disegnato?
+
+![[src_obm_2011_n2_f1__Q16.png]]
+
+[[src_obm_2011_n2_f1__Q16]]

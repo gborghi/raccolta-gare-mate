@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2010 squadre finale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2010_squadre_finale__Q12
 parent: src_kangourou_2010_squadre_finale
 competition: Kangourou 2010 squadre finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma elementi coppie con somma interi interni 1999*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5997
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of pairs with internal integer sum 1999*
+
+> Number pairs Find all pairs {a,b} of positive integers, with a < b, such that the sum of all integers strictly comprised between a and b (i.e. simultaneously greater than a and less than b) is 1999. Write the sum of the elements of all these pairs (for example, if the pairs were {a,b}, {c,d}, {e,f} you would write the number a + b + c + d + e + f).
+
+**Answer:** 5997
+[[src_kangourou_2010_squadre_finale__Q12]]

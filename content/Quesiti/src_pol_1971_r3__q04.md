@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1971 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1971_r3__Q04
 parent: src_pol_1971_r3
 competition: Olimpiade Matematica Polacca 1971 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers x,y,z satisfying x^y + y^z = z^x, prove min(x,y) >= n*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieri interi positivi x,y,z che soddisfano x^y + y^z = z^x, dimostrare min(x,y) >= n*
+
+> Prove che se i numeri interi positivi $x, y, z$ soddisfano l'equazione $x^y + y^z = z^x$, allora $\min\{x, y\} \ge n$.
+
+[[src_pol_1971_r3__Q04]]

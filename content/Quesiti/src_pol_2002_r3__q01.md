@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2002 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2002_r3__Q01
 parent: src_pol_2002_r3
 competition: Olimpiade Matematica Polacca 2002 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive integers a,b with a²+1, b²+1 prime satisfying equation*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Z3g6eT52wK20LS2ktHnl8h3UqBRM46o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova i numeri interi positivi a,b con equazione a2+1, b2+1 prime soddisfacente*
+
+> Determinare tutti gli integri positivi $a, b$ in modo tale che i numeri $a^2 + 1$ e $b^2 + 1$ siano primi e la seguente uguaglianza $$(a^2 + 1)(b^2 + 1) = (a^2 - 1)(b^2 - 1) + r^2 + 1$$ sia valida.
+
+[[src_pol_2002_r3__Q01]]

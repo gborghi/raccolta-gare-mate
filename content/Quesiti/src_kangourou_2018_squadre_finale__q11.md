@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2018 Finale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_finale__Q11
 parent: src_kangourou_2018_squadre_finale
 competition: Kangourou Coppa squadre 2018 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ricostruire l'addizione dalle cifre riordinate*
 
@@ -52,3 +55,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0067
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Reconstruct the addition from the rearranged digits*
+
+> The sum Daniel used a magnetic board and magnetic numbers to perform an addition between two two-digit numbers. Then the numbers of additions and sums were rearranged in increasing order and now on the board you can see the following alignment of numbers and symbols: 2 3 6 7 8 9 + = What was the result of the addition?
+
+**Answer:** 0067
+[[src_kangourou_2018_squadre_finale__Q11]]

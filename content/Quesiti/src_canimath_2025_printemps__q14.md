@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2025 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_printemps__Q14
 parent: src_canimath_2025_printemps
 competition: Coupe Animath Printemps 2025
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max and min of sum of consecutive absolute differences over n-permutations*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Max e min della somma delle differenze assolute consecutive su n-permutazioni*
+
+> $n \geq 2$ sia un numero intero. Supponiamo che $x_1, x_2, \ldots, x_n$ sia una permutazione $n$, il che significa che ogni elemento di $\{1, 2, \ldots, n\}$ appare esattamente una volta tra $x_1, x_2, \ldots, x_n$.
+> 
+> Determinare, come funzione di $n$, il valore massimo e il valore minimo che la somma $$|x_2 - x_1| + |x_3 - x_2| + |x_4 - x_3| + \cdots + |x_n - x_{n-1}|$$ può assumere su tutte le $n$-permutazioni $(x_1, x_2, \ldots, x_n)$.
+> 
+> (Qui $\lfloor x \rfloor$ indica il più grande numero intero inferiore o uguale a $x$.)
+
+[[src_canimath_2025_printemps__Q14]]

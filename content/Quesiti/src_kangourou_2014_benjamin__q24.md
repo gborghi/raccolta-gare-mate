@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Benjamin — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin__Q24
 parent: src_kangourou_2014_benjamin
 competition: Kangourou 2014 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza AD nel triangolo suddiviso in 4 aree uguali*
 
@@ -67,3 +70,42 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length AD in the triangle divided into 4 equal areas*
+
+![[src_kangourou_2014_benjamin__prob24.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (0,0);
+  \coordinate (D) at (1.5,0);
+  \coordinate (F) at (3.5,0);
+  \coordinate (B) at (5.5,0);
+  \coordinate (C) at (4.2,4);
+  \coordinate (E) at (4.2,2);
+  \draw (A) -- (B) -- (C) -- cycle;
+  \draw (D) -- (C);
+  \draw (E) -- (C);
+  \draw (D) -- (E);
+  \draw (F) -- (E);
+  \draw (E) -- (B);
+  \node[below left] at (A) {$A$};
+  \node[below] at (D) {$D$};
+  \node[below] at (F) {$F$};
+  \node[below right] at (B) {$B$};
+  \node[above right] at (C) {$C$};
+  \node[right] at (E) {$E$};
+  \node[below] at (4.5,0) {$15$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The ABC triangle in the figure is divided into four triangles ADC, DEC, FED and FBE all having the same area (the figure is indicative only). The FB segment is 15 m long. How many meters does the AD segment measure ? A) 7             B) 8              C) 9              D) 10            E) 11
+
+**Answer:** D
+[[src_kangourou_2014_benjamin__Q24]]

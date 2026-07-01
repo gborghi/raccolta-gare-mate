@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2018 — Nível 1 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2018_n1_fx__Q01
 parent: src_obm_2018_n1_fx
 competition: Olimpíada Brasileira de Matemática 2018 — Nível 1 — Fase x
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square from four congruent rectangles; find side lengths*
 
@@ -51,3 +54,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KCJHUo1nCGlEeSCXILo_64DHKdkW717s/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrato di quattro rettangoli congruenti; trovare lunghezze laterali*
+
+> Un quadrato è formato da quattro rettangoli congruenti e da un quadrato più piccolo all'interno, come mostrato nella figura. I rettangoli, in grigio, hanno ciascuno un perimetro di 24 cm.
+> 
+> a) Quanti centimetri è il lato del quadrato più grande?
+> 
+> b) Considerare i casi in cui il lato del quadrato interno è un numero intero di centimetri. Quante misure di questo tipo ci sono?
+
+![[src_obm_2018_n1_fx__Q01.png]]
+
+[[src_obm_2018_n1_fx__Q01]]

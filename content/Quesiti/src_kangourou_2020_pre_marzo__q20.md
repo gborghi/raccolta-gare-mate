@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Pre - gara marzo — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_pre_marzo__Q20
 parent: src_kangourou_2020_pre_marzo
 competition: Kangourou 2020 Pre - gara marzo
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi e il piu basso nel grafo delle altezze*
 
@@ -50,3 +53,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/11iQ1gJbRKD2ifPS8jrFCB328WSS-kD0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Who is the lowest in the height graph *
+
+![[src_kangourou_2020_pre_marzo__prob20.png]]
+
+> Note the figure: Each circle represents a man, and each arrow directed from one man to another indicates that the first man is taller than the second. For example, man B is taller than man A. Who's the lowest?
+>
+> (see figure)
+>
+> - **(A)** Man A
+> - **(B)** Man B
+> - **(C)** The man C
+> - **(D)** Man D
+> - **(E)** The Man and
+
+**Answer:** C
+[[src_kangourou_2020_pre_marzo__Q20]]

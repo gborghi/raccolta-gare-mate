@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n3_f2__Q03
 parent: src_obm_1998_n3_f2
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Line through midpoints of opposite sides of convex quadrilateral bisects both diagonals*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nuYoFCi09PHCxKrrXgBXv2NK1rRfD75Z/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Linea attraverso i punti di mezzo dei lati opposti di quadrilaterali convexi bisecta entrambe le diagonali*
+
+> Una linea passa attraverso i punti medi di due lati opposti di un quadrilaterale convexo e fa angoli uguali con entrambi i diagonali. Mostrare che le due diagonali hanno la stessa lunghezza.
+
+[[src_obm_1998_n3_f2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set A — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_a__Q14
 parent: src_prmo_2015_a
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -34,6 +35,8 @@ tags:
   - regione/a
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of women at party given dance pairing counts*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10i1WqW8nErz7KXUcfvnv_aXHYh-3uZm8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Numero di donne presenti alla festa dato il numero di coppie di danza< MSK1/>
+
+> In una festa, ogni uomo ballava con esattamente quattro donne e ogni donna ballava con esattamente tre uomini. Nove uomini hanno partecipato alla festa. Quante donne hanno partecipato alla festa?
+
+**Risposta:** 12
+[[src_prmo_2015_a__Q14]]

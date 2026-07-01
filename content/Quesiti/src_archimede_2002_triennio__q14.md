@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2002 - Triennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_triennio__Q14
 parent: src_archimede_2002_triennio
 competition: Giochi di Archimede 2002 - Triennio
@@ -26,6 +27,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita due femmine in parto gemellare*
 
@@ -43,3 +46,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of two females giving birth to twins< MSK1/>
+
+> The percentage of females born in the twin parts is 48.5%. Assuming that in twin parts the probability of two births being of different sex is 33 percent, what is the probability of two females being born in a twin birth?
+>
+> - **(A)** 32%
+> - **(B)** 33%
+> - **(C)** 33,33%
+> - **(D)** 35%
+> - **(E)** 50%.
+
+[[src_archimede_2002_triennio__Q14]]

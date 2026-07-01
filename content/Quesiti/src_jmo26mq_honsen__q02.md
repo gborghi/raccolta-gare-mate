@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2016 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo26mq_honsen__Q02
 parent: src_jmo26mq_honsen
 competition: Japan Mathematical Olympiad 2016 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral: angle bisectors, midpoints, parallel line*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/132UNd9VdEb-Dva1Pf5U1Z0Wc_DnRuIHu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterali ciclici: bisettori angolari, punti di mezzo, linea parallela*
+
+> Un quadrilaterale ciclico $ABCD$ è inserito in un cerchio, soddisfacendo $AB : AD = CD : CB$. Il $X$ è l'intersezione delle diagonali $AC$ e $BD$, e il $Y$ è l'intersezione delle linee $AB$ e $CD$. $E$, $F$, $G$, $H$ siano rispettivamente i punti intermedi di $AB$, $BC$, $CD$ e $DA$. $S$ sia l'intersezione del bisettore angolare di $\angle AXB$ con il segmento $EG$, e $T$ sia l'intersezione del bisettore angolare di $\angle AYD$ con il segmento $FH$. Prova che la linea $ST$ è parallela alla diagonale $BD$.
+> 
+> (Qui $UV$ indica la lunghezza del segmento $UV$.)
+
+[[src_jmo26mq_honsen__Q02]]

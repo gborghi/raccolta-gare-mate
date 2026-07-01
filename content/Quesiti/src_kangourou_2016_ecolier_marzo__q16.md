@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Écolier (gara marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_ecolier_marzo__Q16
 parent: src_kangourou_2016_ecolier_marzo
 competition: Kangourou 2016 Écolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo quadrati certamente occupati da 8 monete su 11*
 
@@ -73,3 +76,34 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1An2jMEf6cVmFq7tGye_p5QA_KESshjLX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum squares certainly occupied by 8 out of 11 coins
+
+![[src_kangourou_2016_ecolier_marzo__prob16.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) grid[xstep=0.7, ystep=0.7] (7.7,0.7);
+\end{tikzpicture}
+\end{document}
+```
+
+> Nicholas has an aisle divided into 11 squares, as shown in the figure. Put 8 coins in 8 consecutive squares, one in each square, without leaving empty squares between two coins. What is the maximum number of squares in which we can be sure there is a coin? A) 1
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6 ? 1 2 3 4 5 1 2 X Y
+> 
+> The questions from N. 17 al N. Twenty-four is worth five points each.
+
+**Answer:** D
+[[src_kangourou_2016_ecolier_marzo__Q16]]

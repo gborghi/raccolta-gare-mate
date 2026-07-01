@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2009 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2009__Q02
 parent: src_bocconi_primavera_2009
 competition: Semifinale di Primavera 2009
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo italiano: colorare i nove triangolini con regole*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Pur con "l'aiuto", il quesito ammette diverse soluzioni; una di queste prevede una "V" nel livello intermedio e (nel livello inferiore, da sinistra a destra): B – V – R – V – B.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14prakvd6EDcEQSfmnn_-6oGG4wcPui_K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Italian triangle: colour the nine triangles with rules*
+
+> The nine small triangles, which make up the large triangle, must be coloured in white (B) - red (R) - green (V) in order to meet the following rules: - two triangles with one side in common cannot have the same colour; - at the end there must be 3 white triangles, 3 green triangles, 3 red triangles.
+> 
+> **How to do it?** (A little help you've already received: three small triangles have already been colored ...)
+
+![[src_bocconi_primavera_2009__Q02.png]]
+
+**Answer:** Pur con 'l'aiuto', il quesito ammette diverse soluzioni; una di queste prevede una 'V' nel livello intermedio e (nel livello inferiore, da sinistra a destra): B – V – R – V – B.
+[[src_bocconi_primavera_2009__Q02]]

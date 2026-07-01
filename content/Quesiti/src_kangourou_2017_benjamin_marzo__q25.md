@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (gara marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q25
 parent: src_kangourou_2017_benjamin_marzo
 competition: Kangourou 2017 Benjamin (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Mosse di scambio di canguri che si guardano in faccia*
 
@@ -54,3 +57,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Changes in the face of kangaroos
+
+![[src_kangourou_2017_benjamin_marzo__prob25.png]]
+
+> A video game begins with eight kangaroos lined up as shown in the figure: At each move, Angelo can switch places between two neighboring kangaroos, but only if these two kangaroos look each other in the face. The game goes on until Angelo can make no more trades. How many moves will Angelo make? A) 2
+> 	
+> B) 10
+> 	
+> C) 12
+> 	
+> D) 13
+> 	
+> E) 16
+
+**Answer:** D
+[[src_kangourou_2017_benjamin_marzo__Q25]]

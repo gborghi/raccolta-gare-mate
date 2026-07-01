@@ -1,6 +1,7 @@
 ---
 title: IMO 1983 (24th International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1983__Q02
 parent: src_imo_1983
 competition: IMO 1983 (24th International Mathematical Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prove angle O1AO2 equals angle M1AM2 for two circles*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qHrtan02NnpLf3E60-PekLeYdH4Y9tnD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Prove angle O1AO2 equals angle M1AM2 for two circles*
+
+> Let $A$ be one of the two distinct points of intersection of two unequal coplanar circles $C_1$ and $C_2$ with centers $O_1$ and $O_2$, respectively. One of the common tangents to the circles touches $C_1$ at $P_1$ and $C_2$ at $P_2$, while the other touches $C_1$ at $Q_1$ and $C_2$ at $Q_2$. Let $M_1$ be the midpoint of $P_1Q_1$ and $M_2$ be the midpoint of $P_2Q_2$. Prove that $\angle O_1AO_2 = \angle M_1AM_2$.
+
+[[src_imo_1983__Q02]]

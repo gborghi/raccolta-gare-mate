@@ -1,6 +1,7 @@
 ---
 title: Archimede 2003 - Gara del Pubblico (Cesenatico) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_pubblico__Q16
 parent: src_archimede_2003_pubblico
 competition: Archimede 2003 - Gara del Pubblico (Cesenatico)
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *problema 16*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bWLkyi3Snj1kwgLFTI6MhcKausOJHCLs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the main reason for the change.
+
+> In the town of Matelandia there is a renowned confectionery, which produces two types of almond confectionery. Confectionery of type < MSK0/> undergoes three successive processes: machine I (lasting 6 minutes), machine II (lasting 12 minutes) and machine III (lasting 18 minutes). Confectionery of type < MSK1/> also undergoes three successive working processes: machine I (18 minutes) machine II (12 minutes) machine III (6 minutes). Knowing that in one day machine I works for a maximum of 22 hours, machine II for a maximum of 19 hours, machine III for a maximum of 23 hours, in how many ways can the pair of integers $\geq 0$ $(n_A, n_B)$ be chosen, indicating the number of each of the two types of jams produced, so as not to violate the above conditions?
+
+[[src_archimede_2003_pubblico__Q16]]

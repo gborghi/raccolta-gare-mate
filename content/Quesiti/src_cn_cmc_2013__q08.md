@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2013 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2013__Q08
 parent: src_cn_cmc_2013
 competition: China Mathematical Competition 2013
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count nine-term sequences with prescribed consecutive ratios and unit product*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 491
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le sequenze a nove termini con rapporti consecutivi prescritti e prodotto unitario*
+
+> Supponiamo che la sequenza $\{a_n\}$ sia composta da nove termini che soddisfano: per qualsiasi $i$ ($1 \le i \le 8$), $b_i = \dfrac{a_{i+1}}{a_i} \in \left\{-\dfrac{1}{2},\ 1,\ 2\right\}$ e $\displaystyle\prod_{i=1}^{8} b_i = 1$. Il numero di sequenze $\{b_i\}$ ($1 \le i \le 8$) che soddisfano le condizioni indicate è $\underline{\qquad}$.
+
+**Risposta:** 491
+[[src_cn_cmc_2013__Q08]]

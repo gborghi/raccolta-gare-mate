@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2000 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2000_r2__Q01
 parent: src_pol_2000_r2
 competition: Olimpiade Matematica Polacca 2000 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Decide whether every positive rational can be written as (a^3+b^3)/(c^3+d^3) with positive integers a,b,c,d.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1M8ROmEjFOc71e2VL3ctjR70wj7gR0qKt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Decidere se ogni razionale positivo può essere scritto come (a^3+b^3)/(c^3+d^3) con numeri interi positivi a,b,c,d.*
+
+> Prove o smentire che ogni numero razionale positivo può essere scritto nella forma $\frac{a^3+b^3}{c^3+d^3}$, dove $a,b,c,d$ sono interi positivi.
+
+[[src_pol_2000_r2__Q01]]

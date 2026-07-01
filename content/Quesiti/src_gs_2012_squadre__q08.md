@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q08
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tabella numeri con somme di riga e colonna*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1404
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Table of numbers with row and column sums*
+
+> The magic mirror's algorithm for calculating who is "the most beautiful in the realm" requires the 16 numbers $$1, 2, 3, 4, 10, 20, 30, 40, 100, 200, 300, 400, 600, 700, 800, 900$$ to be inserted into a grid $4 \times 4$. Today the sums of the 4 lines of the grid are $$920, \quad 1003, \quad 1313, \quad 874$$ while the sums of the 4 columns (from the left) are $$2230, \quad 461, \quad 109, \quad 1310.$$ The sum of the 4 numbers occupying the diagonal of the grid that goes from the position up to the left to the position down to the right determines the identity of the most beautiful of today: what is the sum today?
+
+**Answer:** 1404
+[[src_gs_2012_squadre__Q08]]

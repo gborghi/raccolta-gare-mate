@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q13
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -39,6 +40,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Queue of 49 fans (25 Corinthians, 14 Flamengo, 10 Grêmio): no two same team consecutive*
 
@@ -56,3 +59,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Coda di 49 tifosi (25 Corinthians, 14 Flamengo, 10 Grêmio): non due squadre uguali consecutive*
+
+> Nella coda di biglietti per una partita della nazionale brasiliana ci sono 49 persone: 25 tifosi di Corinthians, 14 tifosi di Flamengo e 10 tifosi di Grêmio. Sapendo che ogni persona appare solo una volta in fila e che non ci sono due tifosi della stessa squadra in posizioni consecutive, possiamo concludere:
+> 
+> **(A) ** Tale coda non esiste. Un fan di Grêmio è alla fine della coda. Un fan di Grêmio è un vicino di un fan di Flamengo. Un fan di Flamengo è un vicino di un fan di Grêmio. Un fan di Grêmio è un vicino di due fan di Corinthians.
+
+**Risposta:** E
+[[src_obm_2009_n2_f1__Q13]]

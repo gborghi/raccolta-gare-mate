@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q03
 parent: src_cesenatico_2007_squadre_finale
 competition: Gara a Squadre Cesenatico 2007 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime 4 cifre 2007-esimo multiplo di 3 prima di un quadrato*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last 4 digits 2007-eighth multiple of 3 before a square*
+
+> Indigestion Otenusa wants to try and guess how many bowls of ramen the golden Numeruto ate. Master Isoshilo reveals that the number of bowls is equal to the last four digits of the 2007th term of sequence 3, 15, 24, 48. . . of the positive multiples of 3 before a square. How many bowls did Numeruto swallow?
+
+[[src_cesenatico_2007_squadre_finale__Q03]]

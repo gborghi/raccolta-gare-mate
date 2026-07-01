@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 squadre semifinale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q14
 parent: src_kangourou_2009_squadre_semifinale
 competition: Kangourou 2009 squadre semifinale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Facce e spigoli di un antiprisma a basi quadrate*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1016
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Faces and shoulders of a square-base antiprism*
+
+> An antiprism is a solid with the following properties: • it has two square bases lying on parallel planes; • the center of each base is on the perpendicular leading from the center of the other and each side of each base is parallel to a diagonal of the other; • the side faces are triangles obtained by joining each vertex of each base with the two vertices of the other closest to it. How many faces (including the bases) and how many shoulders does an antiprism have? Write in the order first the number of faces, then the number of beads (for example, if the faces are 6 and the beads 11, write 0611).
+
+**Answer:** 1016
+[[src_kangourou_2009_squadre_semifinale__Q14]]

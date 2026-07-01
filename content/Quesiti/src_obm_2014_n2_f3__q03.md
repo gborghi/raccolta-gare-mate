@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f3__Q03
 parent: src_obm_2014_n2_f3
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integers n>1 such that for every k with 0<=k<n there is a multiple of n whose digit sum leaves remainder k upon division by n.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1r_0ohfJcDfYsegu0fO1NCvt_VFQTKDiP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutti gli enti n>1 in modo tale che per ogni k con 0<=k<n ci sia un multiple di n la cui somma digitali lascia il rimanente k dopo la divisione da n.*
+
+> Trova tutti gli enti $n$, $n > 1$, con la seguente proprietà: per ogni $k$ con $0 \le k < n$, esiste un multiple di $n$ la cui somma di cifre, nella base dieci, lascia il rimanente $k$ dopo la divisione da $n$.
+
+[[src_obm_2014_n2_f3__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1998 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_2livello__Q07
 parent: src_archimede_1998_2livello
 competition: Archimede Gara 2º livello 1998
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilità che tre amici totalizzino stesso punteggio in sei gare*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of three friends totaling the same score in six races*
+
+> Three friends compete in six races; whoever wins the first wins a point, whoever wins the second wins two, and so on. Knowing that each of the three has won two races, what is the probability that they all have the same score?
+> 
+> (A) $\dfrac{1}{3}$ \quad (B) $\dfrac{1}{6}$ \quad (C) $\dfrac{1}{9}$ \quad (D) $\dfrac{1}{12}$ \quad (E) $\dfrac{1}{15}$.
+
+**Answer:** E
+[[src_archimede_1998_2livello__Q07]]

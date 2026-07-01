@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - finale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_finale__Q09
 parent: src_kangourou_2021_junior_finale
 competition: Kangourou 2021 Junior - finale
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo L per segmenti che coprono il triangolo*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ps_tYriQtpgc01tEkKmu7IYVQhuLBnkt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum L for segments covering the triangle*
+
+> Alberto drew three triangles on a grid. Of these, exactly two have the same area, exactly two are isosceles and exactly two are rectangular triangles. In the figure to the right, two of the three triangles are shown. What could be the third? (see figure)
+> 
+> (see Figure A) (see Figure B) (see Figure C) (see Figure D) (see Figure D) (see Figure E) (see Figure E)
+
+[[src_kangourou_2021_junior_finale__Q09]]

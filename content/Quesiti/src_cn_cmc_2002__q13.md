@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2002 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2002__Q13
 parent: src_cn_cmc_2002
 competition: China Mathematical Competition 2002
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Range of y-coordinate of C on parabola with perpendicularity condition*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rango di coordinate y di C su parabola con condizione di perpendicularità*
+
+> Considerato il $A(0, 2)$ e i due punti $B$ e $C$ della parabola $y^2 = x + 4$ in modo tale che $AB \perp BC$, si trova l'intervallo dei valori per la coordinata $y$ del punto $C$.
+
+![[src_cn_cmc_2002__Q13.png]]
+
+[[src_cn_cmc_2002__Q13]]

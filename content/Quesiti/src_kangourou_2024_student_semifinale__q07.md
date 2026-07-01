@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student semifinale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student_semifinale__Q07
 parent: src_kangourou_2024_student_semifinale
 competition: Kangourou 2024 Student semifinale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo n studenti per coprire tutti gli otto problemi*
 
@@ -61,3 +64,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11NWtDaV2_YaiaIexOkVGXBtzkggc5RUg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum number of students to cover all eight problems
+
+> Eight students faced the same individual test consisting of eight problems. Each problem was solved correctly by at least five students. What is the smallest value of n for which the following is true: there are n students such that each problem has been solved by at least one of them? A) 2 B) 3 C) 4 D) 5 E) 6 Answer: A). The solution. So N is the largest number of problems solved by a single student. It is clear that if N < 8, n must be at least 2 and that n = 2 is sufficient if N = 7. If N = 6, each of the remaining two problems must have been solved by 5 students, so at least one of these 5 must have solved both: still n = 2 is enough. If N = 5 each problem was solved by exactly 5 students (the correct answers must be at least 40); let's consider the three problems not solved by any student: in total they have to admit 15 solutions, so there must be one of the remaining 7 students who solved all three. It's clear that it can't be N < 5.
+>  
+>  
+> In fact, it seems to me that in the latter case, there is a perfect symmetry that leads to having three students solve the problems that the student in question did not solve.
+
+**Answer:** A
+[[src_kangourou_2024_student_semifinale__Q07]]

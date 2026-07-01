@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2025 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_automne__Q09
 parent: src_canimath_2025_automne
 competition: Coupe Animath Automne 2025
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right-triangle area equals sum of two lune-like regions between semicircles*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area del triangolo rettangolo è uguale alla somma di due regioni simili alla luna tra semicircoli*
+
+> $B$, $C$ siano due punti del piano, $K_1$ un semicircolo di diametro $[BC]$ e $A$ un punto su $K_1$. Il $K_2$ deve essere il semicircolo di diametro $[CA]$ e $K_3$ il semicircolo di diametro $[AB]$, situato al di fuori del triangolo $ABC$. Indichiamo con $S$ la superficie del triangolo $ABC$, con $S_1$ la superficie compresa tra l'arco $\widehat{AB}$ di $K_1$ e l'arco $\widehat{AB}$ di $K_3$, e con $S_2$ la superficie compresa tra l'arco $\widehat{AC}$ di $K_1$ e l'arco $\widehat{AC}$ di $K_2$. Mostra che < MSK23/>.
+
+[[src_canimath_2025_automne__Q09]]

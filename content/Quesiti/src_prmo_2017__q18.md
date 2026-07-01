@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q18
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -30,6 +31,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find x^2+y^2+z^2 given two quadratic constraints in x,y,z*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova x^2+y^2+z^2 dati due vincoli quadratici in x,y,z*
+
+> Se i numeri reali $x, y, z$ sono tali che $x^2 + 4y^2 + 16z^2 = 48$ e $xy + 4yz + 2zx = 24$, qual è il valore di $x^2 + y^2 + z^2$?
+
+[[src_prmo_2017__Q18]]

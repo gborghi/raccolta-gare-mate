@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2010-11 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2010-11_round1__Q06
 parent: src_bmo_2010-11_round1
 competition: British Mathematical Olympiad 2010-11 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integers a,b,c with a^2+b^2-c^2=ab-bc-ca; prove triangle with 60 degree angle*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integri a,b,c con a^2+b^2-c^2=ab-bc-ca; prova triangolo con angolo di 60 gradi*
+
+> $a$ e $b$ siano numeri interi positivi e $c$ un numero intero positivo inferiore a $a + b$. Supponiamo che $a^2 + b^2 - c^2 = ab - bc - ca$. Indicare che $a$, $b$, $c$ sono i lati di un triangolo che contiene un angolo di $60^\circ$.
+
+[[src_bmo_2010-11_round1__Q06]]

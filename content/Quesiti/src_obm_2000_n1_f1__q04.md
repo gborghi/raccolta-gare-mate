@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q04
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trade empty bottles for full ones: maximum bottles*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cambia le bottiglie vuote con quelle piene: bottiglie massime*
+
+> Il municipio di una certa città ha condotto una campagna che ha permesso lo scambio di $4$ bottiglie vuote di latte $1$ per $1$ litro pieno di latte. Quanti litri pieni si possono ottenere da < MSK3/> bottiglie complete, se si inizia con < MSK4/> bottiglie complete?
+> 
+> (A) $11$ \quad (B) $12$ \quad (C) $13$ \quad (D) $14$ \quad (E) $15$
+
+**Risposta:** D
+[[src_obm_2000_n1_f1__Q04]]

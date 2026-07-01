@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo14yq_yosen__Q04
 parent: src_jjmo14yq_yosen
 competition: Japan Junior Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max people getting at least one more apple than orange*
 
@@ -52,3 +55,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>La maggior parte delle persone ottiene almeno una mela in più dell'arancia< MSK1/>
+
+> Ci sono mele $2016$ e arance $2016$ e queste sono distribuite tra le persone $2016$ alle seguenti condizioni: \begin{itemize} \item Ogni frutto deve essere distribuito. Nessuna persona riceve < MSK3/> frutta. Nessuna persona può ricevere in totale più di < MSK4/> pezzi di frutta (comprendendo entrambe le specie). In queste condizioni, qual è il numero massimo possibile di persone che ricevono almeno < MSK5/> più mele che arancione?
+
+**Risposta:** 1612
+[[src_jjmo14yq_yosen__Q04]]

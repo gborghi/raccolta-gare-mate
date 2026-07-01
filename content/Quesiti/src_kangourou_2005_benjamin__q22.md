@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q22
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Per quante ore al giorno il cartello e vero*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many hours a day the sign is true*
+
+> From noon to midnight, Snoopy sleeps in her crib and from midnight to midnight she tells fairy tales. There's a sign on the cuff that says, "Two hours ago, Snoopy was doing the same thing he'll do in an hour". How many hours a day does what's written on the billboard match the real thing? A) 3 B) 6 C) 12 D) 18 E) 21
+
+**Answer:** D
+[[src_kangourou_2005_benjamin__Q22]]

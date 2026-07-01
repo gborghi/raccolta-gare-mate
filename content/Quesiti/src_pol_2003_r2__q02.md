@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2003 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2003_r2__Q02
 parent: src_pol_2003_r2
 competition: Olimpiade Matematica Polacca 2003 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral ABCD; angle bisectors meet at P and Q; prove line PQ is perpendicular to MN where M,N are arc midpoints.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T5f-GdULVCFRGtXR_q1Pm3L7eGRW39tE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrilaterale ciclico; bisectori angolari si incontrano a P e Q; prova che la linea PQ è perpendicolare a MN dove M,N sono i punti di mezzo dell'arco.*
+
+> Un quadrilaterale $ABCD$ è inserito in un cerchio $o$. I bisettori degli angoli $DAB$ e $ABC$ si incontrano a $P$, e i bisettori degli angoli $BCD$ e $CDA$ si incontrano a $Q$. Il $M$ deve essere il punto medio dell'arco $BC$ di $o$ non contenente $D$ e $A$, e $N$ deve essere il punto medio dell'arco $DA$ di $o$ non contenente $B$ e $C$. Provare che la linea che attraversa $P$ e $Q$ è perpendicolare a $MN$.
+
+[[src_pol_2003_r2__Q02]]

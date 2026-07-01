@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f1__Q17
 parent: src_obm_2013_n1_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Column containing 1000 when filling a grid column by column*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZFAopdNjG-Ynm1d9LROcVImmCRs-HuH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Colonna contenente 1000 quando si riempie una colonna di griglia colonna per colonna*
+
+> Joana riempie completamente una griglia rettangolare scrivendo i numeri da $1$ a $2013$, un numero per ogni quadrato. Inizia nell'angolo superiore sinistro e riempie la prima colonna, poi riempie la seconda colonna, dall'alto alla base, e continua nello stesso modo, riempendo la terza colonna, la quarta, ecc., fino a raggiungere l'ultima colonna e finire nell'angolo inferiore a destra. Se il numero $50$ è nella seconda colonna, in quale colonna verrà scritto il numero $1000$?
+> 
+> (A) $23$ \quad (B) $31$ \quad (C) $33$ \quad (D) $39$ \quad (E) $61$
+
+[[src_obm_2013_n1_f1__Q17]]

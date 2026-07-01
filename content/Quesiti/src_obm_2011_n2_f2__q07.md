@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n2_f2__Q07
 parent: src_obm_2011_n2_f2
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 2 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive reals a(b+c)=152, b(c+a)=162, c(a+b)=170; find abc*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rTFVytZ0r4ui2fCSYnm5ciGL2P0QyY5F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rei reali positivi a(b+c) = 152, b(c+a) = 162, c(a+b) = 170; trovare abc*
+
+> $a$, $b$, $c$ siano numeri reali positivi tali che $$a(b + c) = 152, \quad b(c + a) = 162, \quad c(a + b) = 170.$$ determinino il valore di $abc$.
+
+[[src_obm_2011_n2_f2__Q07]]

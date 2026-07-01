@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q21
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro di triangolo isoscele con lato 30 e rapporto 3/5*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Isosceles triangle perimeter with side 30 and ratio 3/5*
+
+> One side of an isosceles triangle is 30 cm long. On the other two sides, one is three fifths the length of the other. What is the perimeter of the triangle in centimeters? A) Certainly 66.
+> 	
+> B) Certainly 70. C) Certainly 74.
+> 	
+> D) Certainly 78 . E) The data on the problem are insufficient to establish it.
+
+**Answer:** E
+[[src_kangourou_2020_junior_marzo__Q21]]

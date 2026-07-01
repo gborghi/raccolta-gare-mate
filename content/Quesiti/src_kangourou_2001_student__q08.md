@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Student (15 marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_student__Q08
 parent: src_kangourou_2001_student
 competition: Kangourou 2001 - Student (15 marzo)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quaterne x<y<z<t con xyzt-1=2001*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Quaternary x< y< z< t with xyzt-1=2001< MSK1/>
+
+> The number of different positive integers (x, y, z, t) such that x < y < z < t and xyzt - 1 = 2001, is equal to
+>
+> - **(A)** 10
+> - **(B)** 7
+> - **(C)** 6
+> - **(D)** 4
+> - **(E)** 1.
+
+**Answer:** B
+[[src_kangourou_2001_student__Q08]]

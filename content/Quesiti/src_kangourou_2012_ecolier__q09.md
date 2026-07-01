@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Ecolier (gara marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_ecolier__Q09
 parent: src_kangourou_2012_ecolier
 competition: Kangourou 2012 Ecolier (gara marzo)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti dei 4 quadrati si possono fare con due L*
 
@@ -95,3 +98,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many of the 4 squares can be made with two L*
+
+![[src_kangourou_2012_ecolier__prob10.png]]
+
+> In the leap years, February has 29 days. 2012 is a leap year, and today, March 15, 2012, at noon, my grandfather's chickens turned 20. What day did they come out of the egg? (a) 19 February (b) 21 February (c) 23 February (d) 24 February (e) 26 February 1 2 3 4 5 6 7 8 9 10 15 20 30 35 4045 5055 60 65 70 75 100 1 2 3 4 5 6 7 8 9 10 15 20 25 30 35 4045 5055 60 65 65 70 75 100 Mike Ada Gino
+> 
+> I'm going to pay. I'm going to pay. 7 Kang 2012 Kang 2012
+
+[[src_kangourou_2012_ecolier__Q09]]

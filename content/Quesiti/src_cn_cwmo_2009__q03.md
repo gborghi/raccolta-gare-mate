@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2009 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2009__Q03
 parent: src_cn_cwmo_2009
 competition: China Western Mathematical Olympiad 2009
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Orthocenter line with AE=AF gives concyclic points P,A,E,F*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Linea orthocentrica con AE=AF dà punti conciclici P,A,E,F*
+
+> Che $H$ sia l'ortocentro di un triangolo acuto $ABC$, e $D$ sia il punto medio del lato $BC$. Una linea che attraversa il punto $H$ incontra i lati $AB$, $AC$ rispettivamente nei punti $F$ e $E$, in modo tale che $AE = AF$. La linea $EF$ incontra il circoncircolo di $\triangle ABC$ al punto $P$. Provare che $P$, $A$, $E$, $F$ sono conciclici.
+
+![[src_cn_cwmo_2009__Q03.png]]
+
+[[src_cn_cwmo_2009__Q03]]

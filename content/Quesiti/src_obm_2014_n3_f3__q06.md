@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f3__Q06
 parent: src_obm_2014_n3_f3
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Mixtilinear incircles tangent lines form triangle: incentre-circumcentre collinearity*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LAvBxKluh9m4aiErXKUSHqGuuL5qbA2V/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Incircoli mistilineari linee tangenti formano un triangolo: collinearità incentro-circumcentro*
+
+> Il $ABC$ deve essere un triangolo con incentro $I$ e incircolo $\omega$. Il cerchio $\omega_A$ è tangente esternamente a $\omega$ e tocca i lati $AB$ e $AC$ rispettivamente a $A_1$ e $A_2$. La linea $r_A$ deve essere $A_1 A_2$. Definire analogamente $r_B$ e $r_C$. Le linee $r_A$, $r_B$ e $r_C$ determinano un triangolo $XYZ$. Prova che l'incentro di $XYZ$, il circoncentro di $XYZ$ e $I$ sono collineari.
+
+[[src_obm_2014_n3_f3__Q06]]

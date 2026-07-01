@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Semifinale individuale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q07
 parent: src_kangourou_2022_student_semifinale
 competition: Kangourou 2022 Student — Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *trova n*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find n < MSK1/>
+
+> (5 points) Anna and Ernesto play as follows. On the table there are n cards numbered from 1 to n. Anna turns one and then Ernesto turns another. The resulting numbers are then multiplied: if the product is an even number Anna wins, if it is an odd number Ernesto wins. You know the odds of Anna winning are 74%. How much is n? A) 8
+>  
+> (B) 12 C) 20 D) 25 E) None of the above.
+
+**Answer:** D
+[[src_kangourou_2022_student_semifinale__Q07]]

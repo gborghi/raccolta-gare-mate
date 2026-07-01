@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_2livello__Q05
 parent: src_archimede_2007_2livello
 competition: Archimede Gara 2° livello 2007 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Relazione tra coefficienti se due radici hanno somma zero*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Relation of coefficients if two roots have zero sum*
+
+> Whether P(x) = x3 + ax2 + bx + c. Knowing that the sum of two of the roots of the polynomial is zero, which of the following relationships between the coefficients of P(x) is always true?
+>
+> - **(A)** the abc = 0
+> - **(B)** c = ab
+> - **(C)** c = a + b
+> - **(D)** b2 = ac
+> - **(E)** None of the above answers are correct.
+
+**Answer:** B
+[[src_archimede_2007_2livello__Q05]]

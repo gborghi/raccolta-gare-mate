@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2004 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2004__Q07
 parent: src_cn_cgmo_2004
 competition: China Girls' Mathematical Olympiad 2004
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integers of form ip+jq with i+j<=n, p,q coprime*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i numeri interi della forma ip+jq con i+j<=n, p,q coprimo*
+
+> Lasciate che $p$, $q$ siano due integri positivi coprimi, e lasciate che $n$ sia un intero non negativo. Determinare il numero di integri che possono essere scritti nella forma $ip + jq$, dove $i$ e $j$ sono integri non negativi con $i + j \le n$.
+
+[[src_cn_cgmo_2004__Q07]]

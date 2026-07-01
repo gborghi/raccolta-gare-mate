@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2012 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2012__Q02
 parent: src_cn_cmo_2012
 competition: China Mathematical Olympiad 2012
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *On a p x p matrix filled with 1..p^2, add/subtract 1 along whole rows or columns; count matrices reducible to all zeros.*
 
@@ -48,3 +51,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Su una matrice p x p riempita di 1..p^2, aggiungere/sottraire 1 lungo intere righe o colonne; conteggiare le matrici riduttibili a tutti i zeri.*
+
+> Dato un numero primo $p$, $A$ sia una matrice $p \times p$ tale che le sue voci siano esattamente $1, 2, \ldots, p^2$ in un certo ordine. Per una matrice è consentita la seguente operazione: aggiungere uno a ciascun numero di una riga o di una colonna, o sottrarre uno da ciascun numero di una riga o di una colonna. La matrice $A$ viene chiamata "buona" se si può prendere una serie finita di tali operazioni che si traduce in una matrice con tutte le voci zero. Trova il numero di matrici buone $A$.
+
+**Risposta:** $2(p!)^2$
+[[src_cn_cmo_2012__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_2livello__Q01
 parent: src_archimede_2023_2livello
 competition: Archimede Gara di Febbraio 2023 - 2° livello
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scacchiera 9x10 colorata, massimo caselle rosse*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Coloured 9x10 chessboard, maximum red box size< MSK1/>
+
+> The boxes of a chessboard 9 < MSK0/> 10 are red, green or blue. Each square 3 × 3 of the chessboard contains exactly three red, three green and three blue boxes. How many red boxes are there at most?
+>
+> - **(A)** 32
+> - **(B)** 34
+> - **(C)** 36
+> - **(D)** 39
+> - **(E)** 40
+
+**Answer:** C
+[[src_archimede_2023_2livello__Q01]]

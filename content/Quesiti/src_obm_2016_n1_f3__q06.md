@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f3__Q06
 parent: src_obm_2016_n1_f3
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex non-cyclic quadrilateral; circumcenters of bisector quadrilaterals and radical axis point are collinear*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FTPhBzZbiZWvXsDRSCaClgLp-YMTQevY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Quadrilaterali convexi non ciclici; i circoncenti dei quadrilaterali bisettori e il punto dell'asse radicale sono collineari< MSK1/>
+
+> Il $ABCD$ deve essere un quadrilaterale convex, non ciclico, senza lati paralleli. Le linee $AB$ e $CD$ si incontrano a $L$. $M \ne L$ sia il secondo punto di intersezione dei circoncircoli dei triangoli $ADL$ e $BCL$. I bisettori interni di $ABCD$ determinano un quadrilatero ciclico convex con circumcenter $I$, e i bisettori esterni di $ABCD$ determinano un quadrilatero ciclico con convex con circumcenter $J$. Provare che $I$, $J$ e $M$ sono collineari.
+
+[[src_obm_2016_n1_f3__Q06]]

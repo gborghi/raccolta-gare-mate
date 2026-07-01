@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Biennio (online) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_biennio_online__Q09
 parent: src_archimede_2021_biennio_online
 competition: Giochi di Archimede 2021 - Gara Biennio (online)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio parole con lettere A,B e vincoli su A e BB*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Zo7WSUv5KN16W_nTPuywBaG12u7UYl5I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting words with letters A,B and bindings on A and BB*
+
+> Emanuele writes words using only the letters A and B (at least one of the two, not necessarily both), in order to meet these conditions: each word cannot contain more than twice the letter A; each word cannot contain any sequence BB (two Bs below). How many different words can Emmanuel write?
+>
+> - **(A)** 8
+> - **(B)** 12
+> - **(C)** 13
+> - **(D)** 9
+> - **(E)** 11
+
+**Answer:** C
+[[src_archimede_2021_biennio_online__Q09]]

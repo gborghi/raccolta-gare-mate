@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier gara individuale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q17
 parent: src_kangourou_2022_ecolier_gara
 competition: Kangourou 2022 Ecolier gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti tasselli bianchi usati nel cubo*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many white scales are used in the cube< MSK1/>
+
+![[src_kangourou_2022_ecolier_gara__prob17.png]]
+
+> The cube in the picture is full and it was built using wooden planks of the three types you see next to it. How many white trays were used? A) 8
+>   
+> B) 11
+>   
+> C) 13 D) 16
+>   
+> E) 19
+
+**Answer:** B
+[[src_kangourou_2022_ecolier_gara__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2016 Finale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_f__Q07
 parent: src_kangourou_2016_squadre_f
 competition: Kangourou Coppa Squadre 2016 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimi confetti iniziali con frazioni prese da due*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 60
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uih0VpIOW40GBf8mxXkEFst7nixVBxJu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum initial confectionery with fractions taken from two < MSK1/>
+
+> A vase contains some confetti. She passes Simone and takes 1/15 of it; then she passes Sarah and takes 1/8 of what Simon left behind. Before Simon arrived, the vessel required the smallest amount of confetti with which it was possible for this to happen. How many confections were there?
+
+**Answer:** 60
+[[src_kangourou_2016_squadre_f__Q07]]

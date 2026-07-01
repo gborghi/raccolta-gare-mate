@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Second Round) 2020 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-second-round_2020__Q07
 parent: src_cn_cmc-second-round_2020
 competition: China Mathematical Competition (Second Round) 2020
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two positive n-term sequences with equal sums and pairwise product-dominates-sum; find minimum total sum*
 
@@ -51,3 +54,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due sequenze positive di n termini con somme uguali e coppia di prodotto-dominati-somma; trovare somma totale minima*
+
+> (50 marchi) Con un numero intero $n \ge 2$, $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n > 0$, soddisfacente $$a_1 + a_2 + \cdots + a_n = b_1 + b_2 + \cdots + b_n$$ e c'è sempre $a_i a_j \ge b_i + b_j$ per qualsiasi $i, j$ $(1 \le i < j \le n)$. Trova il valore minimo di $a_1 + a_2 + \cdots + a_n$.
+
+**Risposta:** $2n$
+[[src_cn_cmc-second-round_2020__Q07]]

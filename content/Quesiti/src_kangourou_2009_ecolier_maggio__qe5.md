@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier finale nazionale (Mirabilandia) — Quesito E5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_maggio__QE5
 parent: src_kangourou_2009_ecolier_maggio
 competition: Kangourou 2009 - Ecolier finale nazionale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto dei tre numeri dell'esagono (griglia)*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 40
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f1h1TJscOH5tK9jr84T2t5qStr4PB-2H/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Product of the three digits of the hexagon (grid) *
+
+> (*18 points*) Place in each of the shaded triangles of the grid in figure one of the six numbers 1, 2, 3, 4, 5, 6, using all of them and making the number appearing in each white triangle the product of the three numbers appearing in the three shaded triangles surrounding it.
+> 
+> What is the product of the three numbers in the shaded triangles that, combined with the white ones, form an hexagon? (see figure)
+
+**Answer:** 40
+[[src_kangourou_2009_ecolier_maggio__QE5]]

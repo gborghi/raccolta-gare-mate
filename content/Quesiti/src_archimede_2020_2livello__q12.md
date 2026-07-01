@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2020 - 2° livello — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_2livello__Q12
 parent: src_archimede_2020_2livello
 competition: Archimede Gara di Febbraio 2020 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima potenza di 5 che divide combinazione coefficienti*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum power of 5 dividing combination coefficients*
+
+> Given the polynomial (x2 + 5x −19)50 = a0 + a1x + a2x2 + · · + a100x100, consider the quantity M = a0 −a1 + 4a2 −9a3 + 16a4 −81a5 + 64a6 −729a7 + · · · + 298a98 −398a99 + 2100a100, where the coefficient of a2k is 22k and the coefficient of a2k+1 is −32k. What's the maximum power of 5 dividing M?
+>
+> - **(A)** 50
+> - **(B)** 51
+> - **(C)** 55
+> - **(D)** 550
+> - **(E)** 5100 Problems with numerical answer  5 points
+
+**Answer:** D
+[[src_archimede_2020_2livello__Q12]]

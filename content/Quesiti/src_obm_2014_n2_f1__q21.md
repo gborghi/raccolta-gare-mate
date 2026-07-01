@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f1__Q21
 parent: src_obm_2014_n2_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square ABCD side 1; external triangles on each side; area of outer quadrilateral*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'abcd quadrato lato 1; triangoli esterni su ciascun lato; superficie di quadrilaterali esterni*
+
+> Considera un quadrato $ABCD$ con lato 1. All'esterno del quadrato si formano triangoli $ABE$, $BCF$, $CDG$ e $DAH$ su ciascun lato. Qual è la superficie del quadrilaterale $EFGH$?
+> 
+> (A) 2 $\quad$ (B) $2\sqrt{3}$ $\quad$ (C) $2 + \sqrt{3}$ $\quad$ (D) 3 $\quad$ (E) 6
+
+**Risposta:** D
+[[src_obm_2014_n2_f1__Q21]]

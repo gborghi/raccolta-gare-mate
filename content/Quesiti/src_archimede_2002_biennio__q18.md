@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2002 - Biennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_biennio__Q18
 parent: src_archimede_2002_biennio
 competition: Giochi di Archimede 2002 - Biennio
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scalino pericolante che blocca il canguro saltatore*
 
@@ -49,3 +52,19 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Dangerous ladder that blocks the jumping kangaroo*
+
+> A kangaroo climbs a 500-step ladder like this: first jumps on the MSK0/> ladder, then backwards by 1, then upwards by 5, backwards by 3, forward by 7, downwards by 5, and so on. Unfortunately, a ladder is dangerous and if the kangaroo jumped over it, it would fall to the ground. The kangaroo will climb to the top if the dangerous ladder is:
+>
+> - **(A)** il 200°
+> - **(B)** il 201°
+> - **(C)** il 202°
+> - **(D)** il 203°
+> - **(E)** The kangaroo will fall anyway.
+
+[[src_archimede_2002_biennio__Q18]]

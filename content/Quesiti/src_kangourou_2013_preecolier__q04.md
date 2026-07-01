@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Pre-Ecolier — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_preecolier__Q04
 parent: src_kangourou_2013_preecolier
 competition: Kangourou 2013 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Immagine con più canguri neri che bianchi*
 
@@ -46,3 +49,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykejBpK7Wiwv-x_5BvjdytAue5Y_N6nU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Images with more black than white kangaroos< MSK1/>
+
+![[src_kangourou_2013_preecolier__prob4.png]]
+
+> In the following images, there are white, gray and black kangaroos. Which one of them has more black kangaroos than white kangaroos?
+>  	
+> A)
+> 	
+> B) C)
+>        	
+> D)
+> 	
+> E)
+
+**Answer:** D
+[[src_kangourou_2013_preecolier__Q04]]

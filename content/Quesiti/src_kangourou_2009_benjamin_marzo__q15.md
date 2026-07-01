@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q15
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato corto del rettangolo isoperimetrico*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Short side of the isoperimeter rectangle*
+
+![[src_kangourou_2009_benjamin_marzo__prob15.png]]
+
+> The figure is formed by joining a square, a rectangle, and an equilateral triangle that all have the same perimeter. The side of the square measures 9 cm. What is the length in centimeters of the shortest side of the rectangle? A) 4 B) 5 C) 6 D) 7 E) 8
+
+**Answer:** C
+[[src_kangourou_2009_benjamin_marzo__Q15]]

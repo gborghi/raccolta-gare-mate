@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Biennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_biennio__Q09
 parent: src_archimede_2012_biennio
 competition: Giochi di Archimede 2012 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale maschi castani sul totale alunni*
 
@@ -46,3 +49,20 @@ tags:
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13kesAdPzQ8k4YwW-asUVUoQ5RPW1gOnt/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Percentage of brown males in total pupils< MSK1/>
+
+> In one class the blondes make up 40 percent of the total while the rest are brown. Of all the blonde students, 75 percent are female. Knowing that the number of females in the class is equal to the number of males, what is the percentage of brown males out of the total number of students in the class?
+>
+> - **(A)** 20%
+> - **(B)** 25%
+> - **(C)** 30%
+> - **(D)** 40%
+> - **(E)** 50%
+
+**Answer:** D
+[[src_archimede_2012_biennio__Q09]]

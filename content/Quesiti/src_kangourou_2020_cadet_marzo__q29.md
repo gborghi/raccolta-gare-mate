@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q29
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza della corsa (distacchi tra Alberto Bianca Carlo)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance of the race (distance between Alberto Bianca Carlo) *
+
+> Alberto, Bianca and Carlo are on a run. They start together and run at different but constant speeds. When Bianca finishes the race, Alberto must run another 15 m and Carlo another 35 m; when Alberto finishes the race, Carlo must still run 22 m. What distance are they running? A) 135 m B) 140 m C) 150 m D) 165 m E) 175 m
+
+**Answer:** D
+[[src_kangourou_2020_cadet_marzo__Q29]]

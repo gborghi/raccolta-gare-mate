@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Junior (gara 28 marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_junior_marzo__Q03
 parent: src_kangourou_2008_junior_marzo
 competition: Kangourou 2008 - Junior (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scritta vista nello specchio capovolto*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4h_jCLDrMoo9d2pQSPwhtUr5nxCpxqT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Writing in the reverse mirror*
+
+![[src_kangourou_2008_junior_marzo__prob3.png]]
+
+> To celebrate the arrival of the New Year, Alfredo wore a T-shirt with the writing on the front. He then sat down in front of a mirror, his hands upside down and his feet up. His friend Nicholas stands beside him, standing (on his feet) and looking in the mirror. What writing does Nicholas see in the mirror?
+
+**Answer:** B
+[[src_kangourou_2008_junior_marzo__Q03]]

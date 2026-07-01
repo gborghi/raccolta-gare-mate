@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2018 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo28yq_yosen__Q03
 parent: src_jmo28yq_yosen
 competition: Japan Mathematical Olympiad 2018 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of right trapezoid given two diagonals and a 45-degree angle*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 68
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Q_YWzsXX2BdDuXzAdwqHelUoJxvlXRIY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Area di trapezzoide retto data due diagonali e un angolo di 45 gradi < MSK1/>
+
+> In quadrilaterali $ABCD$, $\angle A = \angle B = 90^\circ$, $\angle C = 45^\circ$, $AC = 19$, $BD = 15$. Trova la sua area. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+![[src_jmo28yq_yosen__Q03.png]]
+
+**Risposta:** 68
+[[src_jmo28yq_yosen__Q03]]

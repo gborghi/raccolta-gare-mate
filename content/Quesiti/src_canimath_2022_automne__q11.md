@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2022 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_automne__Q11
 parent: src_canimath_2022_automne
 competition: Coupe Animath Automne 2022
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integers 1–31 on circle; counting neighbors; number opposite 11*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hAlr5oS_VPXWtAhgZvHeNt9W7CHb_zHz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integri 131 sul cerchio; contando i vicini; numero opposto 11*
+
+> I numeri interi $1, 2, \ldots, 31$ sono disposti attorno a un cerchio in un certo ordine. Per ciascuno dei 31 numeri interi $k$, Matthieu conta: - $a$: il numero di numeri interi tra i 9 che seguono $k$ in senso orario e sono inferiori a $k$; - $b$: il numero di numeri interi tra i 9 che seguono $k$ in senso controorario e sono inferiori a $k$; e calcola $A(k)$ e $B(k)$. Matthieu osserva che $A(k) = B(k)$ per tutti $k$. Qual è il numero diametralmente opposto a 11 sul cerchio?
+
+[[src_canimath_2022_automne__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2009 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2009__Q19
 parent: src_bocconi_primavera_2009
 competition: Semifinale di Primavera 2009
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi ha scritto sulla lavagna (tre verità, una bugia)*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** È Rosi che aveva scritto sulla lavagna.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14prakvd6EDcEQSfmnn_-6oGG4wcPui_K/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who wrote on the board (three truths, one lie)
+
+> Four kids stayed in class during the break, and one of them wrote "Down with the teachers" on the board. When the professor comes in, he wants to know who did it. Here are the answers from the four boys (note that one of them is mentally ill; the other three are telling the truth):
+> 
+> Anna (who doesn't wear glasses): "It wasn't me!" Rosi (who wears glasses): "was someone who doesn't wear glasses". Amerigo (wearing glasses): "It was a girl!" Renato (who doesn't have glasses): "it was someone wearing glasses".
+> 
+> Who wrote on the board "Down with the professors"?
+
+**Answer:** È Rosi che aveva scritto sulla lavagna.
+[[src_bocconi_primavera_2009__Q19]]

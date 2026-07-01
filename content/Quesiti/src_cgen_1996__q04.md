@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1996 — Matematica — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1996__Q04
 parent: src_cgen_1996
 competition: Concours Général des Lycées 1996 — Matematica
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum of $f(x)=x^x$ on positive reals; prove $x^y + y^x > 1$*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17EWEElTie5u7XVQmqQ-04NIFHkPo7Bvo/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di $f(x)=x^x$ su valori positivi; prova $x^y + y^x > 1$*
+
+> 1. Che $f$ sia la funzione definita per ogni reale $x$ strettamente positivo da $$f(x) = x^x.$$ Determina il valore minimo raggiunto da questa funzione come $x$ si estende su tutti i reali strettamente positivi.
+> 
+> 2. Lasciate che $x$ e $y$ siano due valori rigorosamente positivi. Mostra che $x^y + y^x > 1$.
+
+[[src_cgen_1996__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1989 (30th IMO, Braunschweig) — Quesito 6'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1989__Q06
 parent: src_imo_1989
 competition: 'IMO 1989 (30th IMO, Braunschweig)'
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *More permutations of 1..2n with property P than without*
 
@@ -37,3 +40,13 @@ tags:
 **Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_conteggio|Conteggio combinatorio]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*More permutations of 1..2n with property P than without*
+
+> A permutation (x1, x2, . . . , xm) of the set {1, 2, . . . , 2n}, where n is a positive integer, is said to have property P if xxi −xi+1 = n for at least one i in {1, 2, . . . , 2n −1}. Show that, for each n, there are more permutations with property P than without.
+
+[[src_imo_1989__Q06]]

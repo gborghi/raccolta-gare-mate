@@ -1,6 +1,7 @@
 ---
 title: IMO 2007 (XLVIII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2007__Q05
 parent: src_imho_2007
 competition: IMO 2007 (XLVIII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Divisibility condition forces a equals b*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18zBoJL6BL0Qzw_Nb0n79SKzFnL3kZGiT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Divisibility condition forces at equals b*
+
+> Let < MSK0/> and < MSK1/> be positive integers. Show that if $4ab - 1$ divides $(4a^2 - 1)^2$, then $a = b$.
+
+[[src_imho_2007__Q05]]

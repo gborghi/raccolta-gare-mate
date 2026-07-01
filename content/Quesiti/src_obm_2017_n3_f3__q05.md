@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n3_f3__Q05
 parent: src_obm_2017_n3_f3
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 3 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Lines through midpoints perpendicular to internal bisectors; circumcenter of resulting triangle is midpoint of HI*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bz0b8bmD4m-IMlHbvOjFwKD5v_CZNZuA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Line attraverso i punti di metà perpendicolari ai bisetti interni; il centro circoncentrale del triangolo risultante è il punto medio di HI*
+
+> Nel triangolo $ABC$, $r_A$ sia la linea che attraversa il punto medio di $BC$ e che sia perpendicolare al bisettore interno di $\angle BAC$. Definire $r_B$ e $r_C$ nello stesso modo. Che $H$ e $I$ siano rispettivamente l'ortocentro e l'incentro di $ABC$. Supponiamo che le tre linee $r_A$, $r_B$, $r_C$ definiscano un triangolo. Prova che il centro circoncentrale di questo triangolo è il punto medio di $HI$.
+
+[[src_obm_2017_n3_f3__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1977-78 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1977-78_round2__Q02
 parent: src_bmo_1977-78_round2
 competition: British Mathematical Olympiad 1977-78 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Infinitely many n where last m decimal digits of 3^n alternate parity*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zLI5k50clg-k_utGFUoSPQrlhHf44lsu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Infinitamente molti n dove le ultime m cifre decimali di 3^n parità alternativa*
+
+> Dato qualsiasi numero intero $m > 1$ dimostrare che esiste un'infinità di numeri interi positivi $n$ tale che le ultime cifre decimali $m$ di $3^n$ formino una sequenza in cui ogni cifra tranne l'ultima è in parità opposta al suo successore, cioè Se uno è strano, il prossimo è pari e viceversa.
+
+[[src_bmo_1977-78_round2__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Triennio — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_triennio__Q21
 parent: src_archimede_2011_triennio
 competition: Giochi di Archimede 2011 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Partite in torneo a doppia eliminazione con 20 partecipanti*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Matches in a double-elimination tournament with 20 participants*
+
+> There are 20 players in a tournament. In each round, two of the participants still in the competition are drawn, and they play one match. Each contestant who has been defeated twice is eliminated and the last remaining contestant wins. Knowing the winner never lost, how many games were played in all?
+>
+> - **(A)** 19,
+> - **(B)** 38,
+> - **(C)** 40,
+> - **(D)** 380,
+> - **(E)** There's not enough data.
+
+**Answer:** B
+[[src_archimede_2011_triennio__Q21]]

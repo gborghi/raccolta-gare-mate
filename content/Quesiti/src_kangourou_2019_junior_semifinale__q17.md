@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Junior — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q17
 parent: src_kangourou_2019_junior_semifinale
 competition: Kangourou 2019 Semifinale Junior
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo celle da annerire griglia 6x2019 (dominio connesso)*
 
@@ -53,3 +56,23 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum grid blackout cells 6x2019 (connected domain) *
+
+> (Points 7) In a grid of square cells 6× 2019 we say that two cells are adjacent if we share one side. You want to blacken some cells so that
+> 	
+> (a) each white cell is adjacent to a black cell;
+> 	
+> (b) either two blackened cells are selected, they can be connected by a sequence
+> 	
+> 	
+> order of black cells starting with one of the two and terminating with the other, each
+> 	
+> 	
+> (except the last of the sequence) adjacent to the next one. What is the smallest number of cells that you can blacken to get the purpose?
+
+[[src_kangourou_2019_junior_semifinale__Q17]]

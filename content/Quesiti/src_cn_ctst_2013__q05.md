@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2013 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2013__Q05
 parent: src_cn_ctst_2013
 competition: China National Team Selection Test 2013
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality involving means and products of nonneg integers*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza che coinvolge mezzi e prodotti di integri non negativi*
+
+> Lasciate che $n \ge 2$ e $a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n$ siano integri non negativi. Prove che $$\left(\frac{n}{n-1}\right)^{n-1}\left(\frac{1}{n}\sum_{i=1}^{n} a_i^2\right) + \left(\frac{1}{n}\sum_{i=1}^{n} b_i\right)^2 \ge \prod_{i=1}^{n}(a_i^2 + b_i^2)^{\frac{1}{n}}.$$ (posato da Leng Gangsong)
+
+[[src_cn_ctst_2013__Q05]]

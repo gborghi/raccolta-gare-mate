@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q30
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di 2007 cifre con coppie divisibili 17 o 23*
 
@@ -69,3 +72,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*2007 numbers with divisible pairs 17 or 23*
+
+> What are the positive integers n of 2007 digits (in decimal representation) with the following property: any two-digit integer consisting of two consecutive digits of n (in the same order in which they appear in n) is divisible by 17 or by 23? A) 5 B) 6 C) 7 D) 9 E) More than 9 < MSK0/>2 1 x + 1 y + 1 z 3 5 6 A D M B C Tests_08.qxp 9-03-2008 14:56 Page 32
+> 
+> Category Student For fourth and fifth year students of secondary school
+>  
+> Questions from N.1 to N. 10 is worth 3 points each.
+
+**Answer:** D
+[[src_kangourou_2008_student_marzo__Q30]]

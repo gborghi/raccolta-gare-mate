@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f3__Q04
 parent: src_obm_2015_n2_f3
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimize leaves in road-reform process on a tree of n cities*
 
@@ -56,3 +59,21 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Minimizzare le foglie nel processo di riforma stradale su un albero di n città< MSK1/>
+
+> Nel paese di Arnaldópolis ci sono città collegate da strade $n - 1$ e da qualsiasi città è possibile raggiungere la capitale Arnaldópolis utilizzando le strade.
+> 
+> Durante i primi giorni dell'anno, ogni giorno viene scelto una strada e il suo traffico viene interrotto per un periodo che durerà almeno $n$ giorni. Durante questo processo, chiamiamo una città una foglia ** se non è né la capitale né collegata esattamente ad un'altra città a cui è collegata. Per questo motivo, una strada può essere riformata solo una volta al massimo; cioè solo quando una delle città che la collega è una foglia.
+> 
+> Ad esempio, nella mappa di seguito con $n = 9$ città, determinare un ordine appropriato di riforme per le 8 strade e, successivamente, determinare il numero di giorni in cui il numero di foglie non è alterato durante il processo di riforma.
+> 
+> Supponiamo ora che $n = 230$ e ci sono inizialmente 69 foglie. Determinare il numero di giorni in cui il numero delle foglie non viene modificato durante qualsiasi processo di riforma che coinvolga tutte le strade nei primi 229 giorni.
+
+![[src_obm_2015_n2_f3__Q04.png]]
+
+[[src_obm_2015_n2_f3__Q04]]

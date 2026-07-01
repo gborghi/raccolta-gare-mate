@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2003 - Biennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_biennio__Q02
 parent: src_archimede_2003_biennio
 competition: Giochi di Archimede 2003 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizione di un punto interno alle tre circonferenze*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zEfw9o9iBcm2xW2_Jk8zLJVELubr3Hs7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Position of an internal point at three circumferences*
+
+> What is the largest positive integer n such that the arithmetic mean of the numbers from 1 to n is < 2003 ? (Note: the arithmetic mean of n numbers is equal to their sum divided by n.)
+>
+> - **(A)** 2002
+> - **(B)** 2003
+> - **(C)** 4003
+> - **(D)** 4004
+> - **(E)** 4005.
+
+**Answer:** C
+[[src_archimede_2003_biennio__Q02]]

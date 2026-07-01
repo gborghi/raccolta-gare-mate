@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q26
 parent: src_kangourou_2008_cadet_marzo
 competition: Kangourou 2008 - Cadet (gara 28 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Confronto insiemi A,B (prodotto cifre)*
 
@@ -56,3 +59,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Comparison of sets A,B (product figures)
+
+> A is a sum of five digits such that the product of their digits is 25 and B is a sum of five digits such that the product of their digits is 15. Which of the two sets contains the most elements? What is the relationship between the number of elements in the largest set and the number of elements in the other? A) Total A; ratio 5/3. (B) set A; ratio 2. (c) whole B; ratio 5/3. (D) whole B; report 2. E) A and B have the same number of elements; ratio 1. This is a list of the countries of the European Union.
+> 
+> I'm going to pay. I'm going to pay. 21 21 Kang 2008 Kang
+
+**Answer:** D
+[[src_kangourou_2008_cadet_marzo__Q26]]

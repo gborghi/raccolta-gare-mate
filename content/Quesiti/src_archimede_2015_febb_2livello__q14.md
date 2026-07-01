@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q14
 parent: src_archimede_2015_febb_2livello
 competition: Archimede Gara di Febbraio 2015 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pulce su 2015-agono, primo salto su vertice gia visitato*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 48
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/147OSJf1wSBJHNEWKDKPVWMIP2TLevkAt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pulse on 2015 action, first jump to the summit already visited*
+
+> A flea is initially located on a top of a regular 2015-sided polygon; it performs a sequence of anti-clockwise jumps: at the first jump it moves from a top (from the initial to the nearest), to the second of three, to the third of five, and so on, so that atn-eighth it starts from a top and lands 2n −1 vertices further up, always in anti-clockwise direction. After how many jumps will it be the first time the fleas land on a summit they've already visited?
+
+**Answer:** 48
+[[src_archimede_2015_febb_2livello__Q14]]

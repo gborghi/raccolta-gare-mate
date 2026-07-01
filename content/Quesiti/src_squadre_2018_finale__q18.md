@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q18
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Date g1g2m1m2 prodotto di due primi specchiati, somma valori*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4311
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Data g1g2m1m2 produced from the first two mirrors, sum of values< MSK1/>
+
+> Special birthday Frege has forgotten again what day it's Liela's birthday! It is only recalled that the number g1g2m1m2 formed by writing the date in the day/month format (with g1 and m1 equal to zero, if any) and reading the four digits in a row, is the product of two prime numbers, different and less than 100, which are written with the same digits in opposite order (ab and ba). What are the possible dates of birth that meet this requirement? The sum of the possible values of the number g1g2m1m2 is given.
+
+**Answer:** 4311
+[[src_squadre_2018_finale__Q18]]

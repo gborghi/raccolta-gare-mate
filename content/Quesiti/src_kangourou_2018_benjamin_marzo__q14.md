@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q14
 parent: src_kangourou_2018_benjamin_marzo
 competition: Kangourou 2018 Benjamin - Gara 15 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza dell’asse segata in 9 pezzi*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of axle cut into 9 pieces*
+
+![[src_kangourou_2018_benjamin_marzo__prob14.png]]
+
+> Peter cut into 9 pieces a rectangular wooden axis, 8 cm wide, with parallel cuts on the side 8 cm long. One piece is a square, the other rectangles. Then he put all the pieces together to form a square, as shown in the figure. How long was the axis? A) 150
+> 	
+> B) 168
+> 	
+> C) 196
+> 	
+> D) 200
+> 	
+> E) 232
+
+**Answer:** D
+[[src_kangourou_2018_benjamin_marzo__Q14]]

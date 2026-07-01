@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 Benjamin finale (maggio) — Quesito B1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_maggio__QB1
 parent: src_kangourou_2008_benjamin_maggio
 competition: Kangourou 2008 Benjamin finale (maggio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo equilatero inscritto vs meta cerchio*
 
@@ -49,3 +52,28 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** minore
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DNjnx9iD0UBjVEKt4lZ5Oz66n6a8DEr7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Equilateral triangle area inscribed vs meta circle*
+
+![[src_kangourou_2008_benjamin_maggio__probB1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) circle (1.5cm);
+  \coordinate (A) at (90:1.5);
+  \coordinate (B) at (210:1.5);
+  \coordinate (C) at (330:1.5);
+  \draw (A) -- (B) -- (C) -- cycle;
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure, you see a circle with an equilateral triangle inscribed. Is the area of the triangle larger, smaller or equal to half that of the circle? Reason your claims. (see figure)
+
+**Answer:** minore
+[[src_kangourou_2008_benjamin_maggio__QB1]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2004 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2004__Q11
 parent: src_cn_cmc_2004
 competition: China Mathematical Competition 2004
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of reciprocals of sequence with recurrence (3-a_{n+1})(6+a_n)=18*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\dfrac{1}{3}\left[2(2^{n+1}-1) - (n+1)\right]$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa delle reciprocità della sequenza con ricorrenza (3-a_{n+1})
+
+> $a_0,\, a_1,\, a_2,\, \cdots,\, a_n,\, \cdots$ è una sequenza di numeri che soddisfa $(3 - a_{n+1}) \cdot (6 + a_n) = 18$ e $a_0 = 3$. Quindi $\displaystyle\sum_{i=0}^{n} \frac{1}{a_i}$ equivale a ___.
+
+**Risposta:** $\dfrac{1}{3}\left[2(2^{n+1}-1) - (n+1)\right]$
+[[src_cn_cmc_2004__Q11]]

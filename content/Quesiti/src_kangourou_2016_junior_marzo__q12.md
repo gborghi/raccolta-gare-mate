@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q12
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza tra due circonferenze inscritte in quadrati*
 
@@ -47,3 +50,26 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance between two squared circumferences*
+
+![[src_kangourou_2016_junior_marzo__prob12.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) grid (3,3);
+  \draw (0.5,2.5) circle (0.45);
+  \draw (2.5,0.5) circle (0.45);
+\end{tikzpicture}
+\end{document}
+```
+
+> 12. In the figure you see a square divided into nine side squares.
+
+**Answer:** A
+[[src_kangourou_2016_junior_marzo__Q12]]

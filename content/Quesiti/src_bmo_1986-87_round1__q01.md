@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1986-87 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1986-87_round1__Q01
 parent: src_bmo_1986-87_round1
 competition: British Mathematical Olympiad 1986-87 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer solutions of two Diophantine equations*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U9IQlmby0-sN5N3oaJBnf3PLtxRCMKLa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Soluzioni integrali di due equazioni diofantine*
+
+> (a) Trovare, con prova, tutte le soluzioni integrali di < MSK0/>
+> 
+> b) Trova, con prova, tutte le soluzioni integrali di $$35a^4 + 46a^2b^2 + 13b^4 = 9.$$
+
+[[src_bmo_1986-87_round1__Q01]]

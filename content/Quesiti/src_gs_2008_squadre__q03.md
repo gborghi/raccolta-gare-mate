@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2008 - Gara a squadre — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2008_squadre__Q03
 parent: src_gs_2008_squadre
 competition: Coppa Fermat 2008 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero multiplo di un altro con stesse cifre*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2475
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16XB_pRvNM9TV-SqGuZR9r6CYMjNuQEb6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Multiple number of another with the same digits*
+
+> 3. The required area ` eA(1 + 32 + 34) = 91A = 7735 m2. Solution to problem 17 (Tadfield Zoo, II) The situation ` and always outlined by the matrix A B C D E yellow(1) blue (2) X X green (2) X X red (3) X X X Lodio for red and that for green are independent. At least two of these must be worn. The cases are (4 4 ) +
+
+**Answer:** 2475
+[[src_gs_2008_squadre__Q03]]

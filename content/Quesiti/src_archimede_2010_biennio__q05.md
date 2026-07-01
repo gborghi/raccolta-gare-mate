@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Biennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_biennio__Q05
 parent: src_archimede_2010_biennio
 competition: Giochi di Archimede 2010 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero petali tangenti attorno a cerchio centrale*
 
@@ -51,3 +54,22 @@ tags:
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
 **Anche in triennio:** [apri PDF p.5](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of tangent petals around the central circle*
+
+![[src_archimede_2010_biennio__prob5.png]]
+
+> Matilde wants to give her mom a cardboard dagger. Cut a yellow circle and put it in the center. Then he cuts out some white circles, the same radius as the yellow circle, to make the petals. It arranges the petals as follows: the first tangent externally to the yellow circle, the second tangent externally to the yellow circle and the first petal, and so on until completing the round with the last petal which is tangent to the penultimate and the first petal, and the yellow circle. How many petals does the margherita have?
+>
+> - **(A)** 3,
+> - **(B)** 4,
+> - **(C)** 5,
+> - **(D)** 6,
+> - **(E)** This arrangement is impossible: the last petal necessarily overlaps with the first.
+
+**Answer:** D
+[[src_archimede_2010_biennio__Q05]]

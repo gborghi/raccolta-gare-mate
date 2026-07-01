@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2020_n2_fx__Q01
 parent: src_obm_2020_n2_fx
 competition: Olimpíada Brasileira de Matemática 2020 — Nível 2 — Fase x
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle BFC in right triangle with bisector and perpendicular conditions*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trovare angolo BFC in triangolo rettangolo con condizioni bisettori e perpendicolari*
+
+> $ABC$ sia un triangolo rettangolo e $D$ un punto su $BC$ tale che $AD \perp BC$. Il bisettore di angolo $\angle DAC$ incontra il segmento $DC$ a $E$. $F$ sia il punto della linea $AE$ in modo tale che $BF \perp AE$. Dato che < MSK10/>, trovare la misura di < MSK11/>.
+
+[[src_obm_2020_n2_fx__Q01]]

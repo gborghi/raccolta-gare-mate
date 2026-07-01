@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - finale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q08
 parent: src_kangourou_2021_ecolier_finale
 competition: Kangourou 2021 Ecolier - finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima somma di 100 interi con prodotto 100*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0110
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum sum of 100 whole with product 100*
+
+> Ada has 10,000 cards, each with a different number from 1 to 10,000 included. It aligns them (not necessarily in a preset order) and then reads the first 15 digits of the alignment as if they were a single number $N$. How many digits 1 can contain that number $N$ at most?
+>
+> - **(A)** 11
+> - **(B)** 12
+> - **(C)** 13
+> - **(D)** 14
+> - **(E)** 15
+
+**Answer:** 0110
+[[src_kangourou_2021_ecolier_finale__Q08]]

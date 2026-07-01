@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q02
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find 2003rd term of oscillating sequence 1,2,3,4,5,4,3,2,1,2,...*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il termine 2003 della sequenza oscillante 1,2,3,4,5,4,3,2,1,2,...*
+
+> Considera la sequenza oscillante: $1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, 5, 4, 3, 2, 1, 2, 3, 4, \ldots$ Qual è il termine $2003^{\text{rd}}$ di questa sequenza?
+> 
+> A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) $5$
+
+**Risposta:** E
+[[src_obm_2003_n3_f1__Q02]]

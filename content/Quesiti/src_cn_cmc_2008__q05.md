@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2008 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2008__Q05
 parent: src_cn_cmc_2008
 competition: China Mathematical Competition 2008
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of rational solutions to a symmetric system*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di soluzioni razionali a un sistema simmetrico*
+
+> Il numero di soluzioni razionali del sistema di equazioni $$\begin{cases} x + y + z = 0, \\ xyz + z = 0, \\ xy + yz + xz + y = 0 \end{cases}$$ è ( ).
+> 
+> (A) 1 \quad (B) 2 \quad (C) 3 \quad
+
+**Risposta:** B
+[[src_cn_cmc_2008__Q05]]

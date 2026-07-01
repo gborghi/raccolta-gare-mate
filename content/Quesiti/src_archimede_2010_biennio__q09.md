@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Biennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_biennio__Q09
 parent: src_archimede_2010_biennio
 competition: Giochi di Archimede 2010 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri pari da 2 a 2010 non multipli di tre*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers equal to 2 to 2010 not multiples of three*
+
+> Luke writes on the board all consecutive even numbers from 2 and 2010 (included). Then John deletes all numbers that are multiples of three. How many numbers are left?
+>
+> - **(A)** 670,
+> - **(B)** 710,
+> - **(C)** 840,
+> - **(D)** 905,
+> - **(E)** 1005.
+
+**Answer:** A
+[[src_archimede_2010_biennio__Q09]]

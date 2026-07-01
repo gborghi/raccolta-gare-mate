@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Biennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_biennio__Q07
 parent: src_archimede_2000_biennio
 competition: Giochi di Archimede 2000 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero recipienti uguali per spedire tre quantita di vino*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ba6QsLW9fDWjmSRmKOe5k7BsjVgSD_fG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*An equal number of containers for three quantities of wine*
+
+> Every month a wholesaler ships 24 liters, 32 liters and 40 liters of three different varieties of wine to a retailer using as few containers as possible, all of them equal and completely filled, obviously without mixing different qualities of wine in the same container. How many containers will that shopkeeper get in a year?
+>
+> - **(A)** 36
+> - **(B)** 72
+> - **(C)** 144
+> - **(D)** 288
+> - **(E)** The data is insufficient.
+
+**Answer:** C
+[[src_archimede_2000_biennio__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q08
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find last number in a circle chain where every three consecutive sum to 12*
 
@@ -59,3 +62,26 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova l'ultimo numero in una catena circolare in cui ogni tre somme consecutive fino a 12*
+
+> Scrivi un numero in ogni cerchio nella riga seguente in modo che la somma di tutti e tre numeri consecutivi sia $12$. Il primo cerchio contiene $3$ e il sesto cerchio $5$.
+>
+> $$\bigcirc\!3\!\bigcirc \quad \bigcirc \quad \bigcirc \quad \bigcirc\!5\!\bigcirc \quad \bigcirc \quad \bigcirc$$
+>
+> Il numero che deve apparire nell'ultimo cerchio (a destra) è:
+>
+> - **(A)** $3$
+> - **(B)** $2$
+> - **(C)** $1$
+> - **(D)** $4$
+> - **(E)** $7$
+
+![[src_obm_1998_n1_f1__Q08.png]]
+
+**Risposta:** A
+[[src_obm_1998_n1_f1__Q08]]

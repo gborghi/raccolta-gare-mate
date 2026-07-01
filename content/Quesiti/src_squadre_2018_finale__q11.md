@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q11
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trapezio rettangolo, quadrilatero ciclico, valore a+b*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 3000
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular trapezoid, cyclic quadrilateral, value a+b*
+
+> The Goentel monkey, who became very intelligent thanks to the hat invented by prof. Fredholm, he likes geometry problems. In the main room of the University of Mars, it weighs in front of an ABCD trapezoid, rectangle in B, with major base AB and minor base DC. He indicated the lengths of some of its sides: AB = a, BC = 1000, DC = b. Then call D′ the symmetric of D with respect to the straight AC, and E the intersection of AC and BD. Goentel knows that there is a value of a such that AD′ED can be inscribed in a circumference for one and only one positive value of b. Can you help her figure out how much a+b is worth?
+
+**Answer:** 3000
+[[src_squadre_2018_finale__Q11]]

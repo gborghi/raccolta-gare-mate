@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q14
 parent: src_kangourou_squadre_2009_semifinale
 competition: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Facce e spigoli di un antiprisma a basi quadrate*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1016
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Faces and shoulders of a square-base antiprism*
+
+> The election of the mayor of Kangcity was held in the town of Peter and Max. The election of the mayor is underway. All cards delivered are valid and not white. For each integer k between 0 and 100, when k% of the cards have been scrutinised, the committee shall report the results of the vote until that time. When, for a certain number of whole numbers, n% of the ballots were voted on, Peter got 62% of the votes cast and Max 38%: this is the first time Peter is sure he is the new mayor. How much is n?
+
+**Answer:** 1016
+[[src_kangourou_squadre_2009_semifinale__Q14]]

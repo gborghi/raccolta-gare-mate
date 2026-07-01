@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r2__Q05
 parent: src_rmo_2015_r2
 competition: Regional Mathematical Olympiad 2015
@@ -31,6 +32,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two circles, centre of Sigma on Gamma; DE parallel AC implies AE=AB*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pE5C6xJJWRVrxBj2NXZ57hsymLDTV43n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi, centro di Sigma su gamma; DE parallelo AC implica AE=AB*
+
+> Due cerchi $\Gamma$ e $\Sigma$ nel piano si incrociano in due punti distinti $A$ e $B$, e il centro di $\Sigma$ si trova su $\Gamma$. I punti $C$ e $D$ devono essere rispettivamente $\Gamma$ e $\Sigma$ in modo tale che $C$, $B$ e $D$ siano collineari. Il punto $E$ su $\Sigma$ deve essere tale che $DE$ sia parallelo a $AC$. Mostra che < MSK17/>.
+
+![[src_rmo_2015_r2__Q05.png]]
+
+[[src_rmo_2015_r2__Q05]]

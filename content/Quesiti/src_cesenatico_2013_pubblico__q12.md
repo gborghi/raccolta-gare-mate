@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_pubblico__Q12
 parent: src_cesenatico_2013_pubblico
 competition: Gara a Squadre Cesenatico 2013 - Gara del pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorni dalla fondazione (incontri periodici, 451 aperture)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5250
 **Fonte:** [apri PDF p.27](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Days since its foundation (periodic meetings, 451 openings) *
+
+> Roots for Roots Roots arrives on a battlefield, where the Jaguar and the Ronzino are challenging each other, fortunately only with a few questions! As he approaches, he hears the Ronzino pose this problem: They are a,b,c the roots of the polynomial p(x) = 2x3 +11x2 −427x +414. How much is a+b+c?
+
+**Answer:** 5250
+[[src_cesenatico_2013_pubblico__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_finale__Q17
 parent: src_cesenatico_2012_finale
 competition: Gara a Squadre Cesenatico 2012 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quadrato 8 cifre n e n+1*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6099
 **Fonte:** [apri PDF p.22](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*square 8 digits n and n+1*
+
+> Super Saiyan When Symmetrizer kills his friend Coriolin, Gonioku channels his anger and becomes Super Saiyan. Its aura increases to an astronomical value: a perfect square of 8 digits (the first other than zero). The 4 digits on the left form a number n that was Coriolin's aura, the 4 digits on the right form the number n+1. How much was Coriolin's aura worth? 1A polynomial is said to be monic if the coefficient of the major term is 1.
+> 
+> 4/4 Team competition 2012  National final  Problem texts
+
+**Answer:** 6099
+[[src_cesenatico_2012_finale__Q17]]

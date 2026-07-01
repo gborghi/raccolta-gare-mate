@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2016 — Region 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2016_r3__Q06
 parent: src_rmo_2016_r3
 competition: Regional Mathematical Olympiad 2016
@@ -35,6 +36,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Strictly increasing harmonic progression existence and non-existence*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BaQ45FF4xT_9XnNK7XN2HDAIBbyW2GyF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>L'esistenza e la non esistenza di progressione armonica in aumento stretto< MSK1/>
+
+> (a) Dato qualsiasi numero naturale $N$, dimostrare che esiste una sequenza rigorosamente crescente di integri positivi $N$ in progressione armonica. b) dimostrare che non può esistere una sequenza infinita di numeri interi positivi in progressione armonica.
+
+[[src_rmo_2016_r3__Q06]]

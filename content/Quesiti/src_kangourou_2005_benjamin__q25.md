@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q25
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti dei sette nani mentono*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many of the seven dwarfs lie
+
+> Snow White asks each of the seven dwarfs, "How many of you lie?" The first dwarf answers "One", the second "Two" and so on until the seventh says "Seven". How many of the seven dwarfs really lie? (a) 7 (b) 6 (c) 5 (d) 1 (e) cannot be established
+
+**Answer:** B
+[[src_kangourou_2005_benjamin__Q25]]

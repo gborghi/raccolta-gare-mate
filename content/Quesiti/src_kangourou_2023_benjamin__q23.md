@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin__Q23
 parent: src_kangourou_2023_benjamin
 competition: Kangourou 2023 Benjamin — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale parola non compare*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*which word does not appear*
+
+![[src_kangourou_2023_benjamin__prob23.png]]
+
+> The alphabet of the state of Kangland consists of only 3 letters: K, G, R. On the side you see a crossword puzzle in the Kanglandic language. When fully resolved, it consists of 4 of the 5 words KKG, KGK, GRK, RGK and RGG. What word doesn't show up? (a) KGK B) KGK C) GRK D) RGK E) RGG
+
+**Answer:** E
+[[src_kangourou_2023_benjamin__Q23]]

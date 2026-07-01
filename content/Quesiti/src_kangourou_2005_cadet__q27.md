@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet__Q27
 parent: src_kangourou_2005_cadet
 competition: Kangourou 2005 - Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione ombreggiata esagono con due archi*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area shaded region exaggerated with two arcs*
+
+![[src_kangourou_2005_cadet__prob27.png]]
+
+> The figure represents a regular hexagon on side 2 and two arcs of radius 2 with each centered on a vertex of the hexagon. What is the size (in square units) of the shaded region? A) B) C) D) E)
+
+**Answer:** A
+[[src_kangourou_2005_cadet__Q27]]

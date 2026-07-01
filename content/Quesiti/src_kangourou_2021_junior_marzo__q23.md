@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q23
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre di N+2021 con N minimo di somma cifre 2021*
 
@@ -43,3 +46,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of figures of N+2021 with N minimum sum of figures of 2021*
+
+> Whether N is the smallest positive integer whose sum (in decimal notation) is 2021. What is the sum of the digits of N + 2021? A) 10
+> 	
+> B) 2024 C) 2026 D) 28
+> 	
+> E) 2021
+
+**Answer:** A
+[[src_kangourou_2021_junior_marzo__Q23]]

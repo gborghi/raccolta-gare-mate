@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q16
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di p+q+r+s+t+u dati i tre punti medi*
 
@@ -61,3 +64,23 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of p+q+r+s+t+u given the three mean points*
+
+> In a plane with a coordinate system, the vertices of a triangle have coordinates (p, q), (r, s) and (t, u). If the three midpoints of the sides have coordinates (-2, 1), (2, -1) and (3, 2), what is p + q + r + s + t + u ? A) 2
+> 	
+> B) 5/2
+> 	
+> C) 3
+> 	
+> D) 5
+>        
+> E) A different number from the previous ones. 2---- 3 3---- 2 85 ---- 90 90 ---- 85
+>
+
+**Answer:** D
+[[src_kangourou_2018_student_marzo__Q16]]

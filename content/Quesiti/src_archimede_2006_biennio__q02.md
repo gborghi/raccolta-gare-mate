@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Biennio — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_biennio__Q02
 parent: src_archimede_2006_biennio
 competition: Giochi di Archimede 2006 - Gara Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro di una C ottenuta da una corona circolare*
 
@@ -45,3 +48,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AvvwFXI9Ni6E3w7oHFvjuV6fBEyEbZA8/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of a C obtained from a circular crown*
+
+> Claudia drew on the initial notebook of her name, a C. The drawing was made by cutting exactly in half a circular crown with an inner radius of 1 cm and an outer radius of 4 cm. What's the perimeter of C?
+>
+> - **(A)** 5 cm,
+> - **(B)** 5π cm,
+> - **(C)** (6+5π) cm,
+> - **(D)** (5+6π) cm,
+> - **(E)** (6+10π) cm.
+
+**Answer:** C
+[[src_archimede_2006_biennio__Q02]]

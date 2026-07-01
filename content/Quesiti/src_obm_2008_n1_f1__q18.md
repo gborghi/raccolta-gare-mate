@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n1_f1__Q18
 parent: src_obm_2008_n1_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Erase minimum digits from repeated-2008 number so digit sum equals 2008*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jS9AjIezsp0MUxDiEgVpS7k3MJ9uT3_v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sbarazzare i numeri minimi dal numero ripetuto 2008 in modo che la somma digitali sia pari al 2008*
+
+> Qual è il numero minimo di cifre che deve essere cancellato dal numero $\underbrace{20082008\cdots2008}_{\text{1000 digits}}$ (la stringa "2008" è ripetuta 250 volte) in modo che la somma delle cifre rimanenti sia uguale a $2008$?
+> 
+> A) 130 $\quad$ B) 260 $\quad$ C) 510 $\quad$ D) 746 $\quad$ E) 1020
+
+**Risposta:** B
+[[src_obm_2008_n1_f1__Q18]]

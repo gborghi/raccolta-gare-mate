@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2011 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2011__Q03
 parent: src_cgen_2011
 competition: Concours Général des Lycées 2011 — Matematica
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *On the m-th roots of unity U_m, study existence of f: U_{2n} -> U_{2n} with f(f(z))=z^2; analyze cases by n and construct solutions for odd n.*
 
@@ -75,3 +78,41 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/163UddjoW74HzYM11ncOycs88qAZ5uQV4/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sulle radici m della unità U_m, studiare l'esistenza di f: U_{2n} -> U_{2n} con f(f(z))=z^2; analizzare i casi per n e costruire soluzioni per n odd.*
+
+> **Problema 3: La radice del quadrato.**
+> 
+> Consideriamo l'insieme $U_m = \left\{ \exp\!\left(\frac{2ik\pi}{m}\right) \mid 0 \le k \le m-1 \right\}$; ricordiamo che questo è anche l'insieme delle radici complesse $m$-th di unità, cioè l'insieme dei numeri complessi $z$ che soddisfano $z^m = 1$.
+> 
+> Ci viene dato un intero rigorosamente positivo $n$ e cerchiamo se esiste una funzione $f : U_{2n} \longrightarrow U_{2n}$ che soddisfi $f(f(z)) = z^2$ per tutti $z$ in $U_{2n}$.
+> 
+> **1.** Indicare che l'insieme $\{ z^2 \mid z \in U_{2n} \}$ è uguale a $U_n$ e che è incluso in $U_{2n}$.
+> 
+> < MSK1/> 2. < MSK2/> Supponiamo che esista una soluzione < MSK0/> al problema considerato.
+> 
+> **a.** Verificare che $f(z^2) = (f(z))^2$ per tutti $z$ in $U_{2n}$.
+> 
+> **b.** Indicare che $f(z) = f(z') \Longrightarrow z = \pm z'$ e che $f(1) = f(-1) = 1$.
+> 
+> **3.** A seconda del valore di $n$, esiste un elemento $z$ di $U_{2n}$ che soddisfi $z^2 = -1$? In tal caso, verificare che non vi sia soluzione $f$.
+> 
+> **4.** A seconda del valore di $n$, esiste un elemento $z$ di $U_{2n}$ che soddisfi $z^3 = 1$ con $z \ne 1$? In tal caso, verificare che non vi sia soluzione $f$.
+> 
+> **5.** Supponiamo nel resto dell'affermazione che il numero intero $n$ sia impar.
+> 
+> **a.** Verificare che la funzione $g$ da $U_n$ a se stessa che appartiene a $z$ associati $U_n$ $z^2$ sia biattiva.
+> 
+> **b.** Supponiamo che esista una soluzione $f$ al problema. Verificare che esiste una mappa $\varphi : U_n \longrightarrow U_n$ tale da $\varphi \circ \varphi = g$.
+> 
+> **c.** Al contrario, supponiamo che esista una funzione $\varphi : U_n \longrightarrow U_n$ tale da $\varphi \circ \varphi = g$. Costruire quindi una soluzione $f$ al problema.
+> 
+> **d.** Esempio: prendere $n = 5$; dire se esiste una soluzione al problema e, se sì, costruirla.
+> 
+> **e.** La stessa domanda con $n = 7$ e poi $n = 9$.
+
+[[src_cgen_2011__Q03]]

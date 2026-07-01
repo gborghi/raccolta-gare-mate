@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2002 - Biennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_biennio__Q17
 parent: src_archimede_2002_biennio
 competition: Giochi di Archimede 2002 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di equilibrare 16 g con pesi da 1, 3, 9*
 
@@ -46,3 +49,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Ways to balance 16 g with weights of 1, 3, 9< MSK1/>
+
+> Alberto has a large number of 1, 3 and 9 gram weights. If you want to use them to balance a 16-gram chain by placing them on just one of the two plates of an equal-armed scale, how many different ways can you choose the weights?
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 7
+> - **(D)** 9
+> - **(E)** 16.
+
+[[src_archimede_2002_biennio__Q17]]

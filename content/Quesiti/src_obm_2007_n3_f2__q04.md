@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f2__Q04
 parent: src_obm_2007_n3_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right triangle with incenter I and midpoint O of hypotenuse; given angle AOI find angle ACB*
 
@@ -47,3 +50,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zX7z5wzrS24GDIg6SjMeYYN4pu7op9WA/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo retto con incentro I e punto medio O dell'ipotenusa; angolo dato AOI angolo di ritrovamento ACB*
+
+> Il triangolo $ABC$ è angolato a destra a $B$. Il centro del cerchio è $I$ e il punto medio del lato $AC$ è $O$. Se $\angle AOI = 45^\circ$, quanti gradi misura l'angolo $\angle ACB$?
+
+![[src_obm_2007_n3_f2__Q04.png]]
+
+**Risposta:** 30
+[[src_obm_2007_n3_f2__Q04]]

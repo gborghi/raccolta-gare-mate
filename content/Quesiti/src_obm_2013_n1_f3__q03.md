@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f3__Q03
 parent: src_obm_2013_n1_f3
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square paper folded at each vertex forms a pinwheel; find gray/white area ratio and overlap area*
 
@@ -53,3 +56,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bt-9OIl79wBeMLuqJhtDISes6K5CelBd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La carta quadrata piegata a ciascun vertex forma una ruota di pin; trova il rapporto area grigio/bianco e area sovrapposizione*
+
+> Paulo ha un foglio quadrato $ABCD$ con lato $20$ cm. La parte anteriore del foglio è bianca e la parte posteriore è grigio. Segna il centro $X$ del quadrato $ABCD$ Per realizzare la piega si taglia lungo il segmento $BE$, dove $E$ è il punto medio di un lato, e si piega il tappo triangolare in modo che il punto $B$ incontra il punto $E$ (cioè il vertice $B$ si piega per incontra il centro $X$ della piega). Egli ripete la procedura per ciascuno degli altri tre vertici del quadrato, completando la ruota di pinna (*cata-vento*), come mostrato nella figura.
+> 
+> a) Qual è il rapporto tra la zona grigia e la zona bianca nella figura?
+> 
+> b) Paulo ha poi preso un altro foglio quadrato $XYZW$, identico al foglio $ABCD$, e ha montato un altro pinwheel. Ha ruotato la ruota $XYZW$ per $45^\circ$ e la ha collocata sopra la ruota $ABCD$ in modo che le cifre fossero sovrapposte, come mostrato nella figura di seguito.
+> 
+> Qual è l'area bianca totale della figura combinata?
+
+![[src_obm_2013_n1_f3__Q03.png]]
+
+[[src_obm_2013_n1_f3__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2009 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2009__Q03
 parent: src_rmo_2009
 competition: Regional Mathematical Olympiad 2009
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Write 3^2008+4^2009 as product of two integers each >2009^182*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1et9IO1xuP1ryseoogrNkDB_LaxO70ZCd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Scrivere 3^2008+4^2009 come prodotto di due enti ciascuno >2009^182*
+
+> Mostrare che $3^{2008} + 4^{2009}$ può essere scritto come il prodotto di due numeri interi positivi ognuno dei quali è più grande di $2009^{182}$.
+
+[[src_rmo_2009__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q07
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum marbles so every student gets same number*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum marmi così ogni studente ottiene lo stesso numero*
+
+> Un insegnante ha marmi $237$ da distribuire tra i suoi studenti $31$. Qual è il numero minimo di marmi che deve acquisire per far sì che tutti gli studenti possano ricevere lo stesso numero di marmi, senza rimanere nessuno?
+> 
+> (A) $11$ \quad (B) $20$ \quad (C) $21$ \quad (D) $31$ \quad (E) $41$
+
+**Risposta:** B
+[[src_obm_2004_n1_f1__Q07]]

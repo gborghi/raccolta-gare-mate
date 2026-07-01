@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2000 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_2livello__Q06
 parent: src_archimede_2000_2livello
 competition: Archimede Gara 2º livello 2000
@@ -23,6 +24,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali dati servono per scegliere il percorso più breve*
 
@@ -45,3 +48,26 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What data is needed to choose the shortest route*
+
+![[src_archimede_2000_2livello__prob6.png]]
+
+> A river is crossed by two bridges $TS$ and $VM$; the two banks $TV$ and $SM$ are two concentric arc circles; the two bridges $TS$ and $VM$ are aligned with the centre (see figure). A person wants to get to $V$ starting from $T$ by choosing the shortest path between the two possible paths:
+>
+> (1) follow the river along the arc $TV$ (2) cross the bridge $TS$, follow the river along the other bank ($SM$) and cross the bridge $MV$.
+>
+> We indicate with $\alpha$ the angle below the two arc radii, with $R$ the length of $OT$ and with $r$ the length of $OS$. What data does a person necessarily need to know in order to make the best choice?
+>
+> - **(A)** Su $R$, $r$ e $\alpha$
+> - **(B)** su $\alpha$ e su $R - r$
+> - **(C)** only on $\alpha$
+> - **(D)** only on $R - r$
+> - **(E)** The first route is shorter anyway. (see figure)
+
+**Answer:** C
+[[src_archimede_2000_2livello__Q06]]

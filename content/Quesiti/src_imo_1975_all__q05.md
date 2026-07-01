@@ -1,6 +1,7 @@
 ---
 title: IMO 1975 (Seventeenth International Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1975_all__Q05
 parent: src_imo_1975_all
 competition: IMO 1975 (Seventeenth International Olympiad)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *1975 points on unit circle with rational pairwise distances*
 
@@ -36,3 +39,13 @@ tags:
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_trigonometria|Tecniche trigonometriche]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TP79v6F2u-0eqTiBw6yUOXst22fnJsC9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*1975 points on unit circle with rational pairwise distances*
+
+> Determine, by demonstration, whether or not it is possible to find 1975 points on the circumference of a circle of unit radius such that the distance between any two of them is a rational number.
+
+[[src_imo_1975_all__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2017-18 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2017-18_round1__Q03
 parent: src_bmo_2017-18_round1
 competition: British Mathematical Olympiad 2017-18 — Round 1
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Line MN bisects both area and perimeter of isosceles triangle ABC*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/179W8p2O_-4quOGY9qRvwB5O1ajqz_z58/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La linea MN divide sia l'area che il perimetro del triangolo ABC *
+
+> Il triangolo $ABC$ ha $AB = CA$ e $BC$ è il suo lato più lungo. Il punto $N$ è sul lato $BC$ e $BN = AB$. La linea perpendicolare a $AB$ che passa attraverso $N$ incontra $AB$ a $M$. Prova che la linea $MN$ divide sia l'area che il perimetro del triangolo $ABC$ in parti uguali.
+
+[[src_bmo_2017-18_round1__Q03]]

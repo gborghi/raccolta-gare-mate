@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin__Q03
 parent: src_kangourou_2023_benjamin
 competition: Kangourou 2023 Benjamin — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero con 7 fiammiferi*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number with 7 matches*
+
+![[src_kangourou_2023_benjamin__prob3.png]]
+
+> The figure shows how to construct each figure by approaching matches. With this technique, using exactly 7 matches, you can represent various integers, for example 8 or 15. What is the largest number that can be represented using 7 matches? A) 31
+> 	
+> B) 51
+> 	
+> C) 74
+> 	
+> D) 711 E) 1111
+
+**Answer:** D
+[[src_kangourou_2023_benjamin__Q03]]

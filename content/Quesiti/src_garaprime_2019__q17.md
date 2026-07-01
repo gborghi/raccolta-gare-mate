@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2019 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2019__Q17
 parent: src_garaprime_2019
 competition: Gara Nazionale Classi Prime 2019
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Divisori di n sapendo che 30n ne ha 45*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GTzdagqUQpCUSYBLrYJmJaKl7DQUIbtK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Divers of n knowing that 30n has 45 < MSK1/>
+
+> Of positive integer n we know that 30n has 45 positive divisors (also counting 1 and 30n). How many positive divisors of n? A 16 B 42 C 36 D 12 E 24 F 32
+
+**Answer:** A
+[[src_garaprime_2019__Q17]]

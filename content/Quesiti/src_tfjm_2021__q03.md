@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2021__Q03
 parent: src_tfjm_2021
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2021
@@ -38,6 +39,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Single pizzaiolo schedules n pizzas (one at a time) to be ready near time 0; minimize total weighted earliness/lateness penalty*
 
@@ -82,3 +85,35 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_SfCnSHm4hFbj_TGxa2GoahJiFYpdibk/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Schedule di pizzaiolo singoli n pizze (una alla volta) per essere pronte vicino all'orario 0; ridurre al minimo la penalità totale ponderata di anticipo/trasto< MSK1/>
+
+> Perrine ha chiesto a Yohann, un esperto pizzaiolo, di preparare le pizze per il torneo.
+> 
+> Perrine desidera che le pizze $n \ge 1$ siano pronte il più vicino possibile alla fine della giornata, data $0$. Ogni pizza $i \in \{1,2,\ldots,n\}$ ha un tempo di preparazione specifico $d_i \in \mathbb{R}_+^*$ e una priorità $p_i \in \mathbb{R}_+^*$. Yohann può iniziare a preparare le pizze a partire da una data $-d$ dove $d \in \mathbb{R}_+^*$. Tuttavia, può preparare solo una pizza alla volta, e non può preparare diverse in una volta (senza pausa).
+> 
+> L'obiettivo della preparazione delle pizze è quello di essere pronte esattamente alla data $0$, Yohann cerca di ridurre al minimo la pena totale, calcolata come segue: - Per una pizza $i \in \{1,2,\ldots,n\}$ che è in ritardo, la pena è la durata del ritardo moltiplicata per $p_i$. - Per una pizza $i \in \{1,2,\ldots,n\}$ che è anticipata, la pena è la durata dell'anticipo moltiplicata per $p_i$.
+> 
+> La figura 2 presenta una possibile pianificazione della preparazione di Yohann con pizze $d=4$ e $4$ di rispettive durate di preparazione $1,2,3,2,1$ e rispettive priorità $10,20,30,40$. La sanzione totale di Yohann per questa organizzazione è $10\times 3 + 20\times 2 + 30\times 1 + 40\times 2.5 = 200$.
+> 
+> **(1) ** Supponiamo $d=0$. Che pena minima può ottenere Yohann? Uno suppone quindi per il resto che $d>0$.
+> 
+> Qual è la pena minima che Yohann può ottenere quando: - (a) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=1$ e $p_i=1$? - b) per tutti i < MSK3/>, < MSK4/>? - (c) per tutti i < MSK5/>, < MSK6/>?
+> 
+> < MSK11/>(3) < MSK12/> Lasciate < MSK0/> e < MSK1/>. Qual è la pena minima che Yohann può ottenere quando: - (a) per tutti $i \in \{1,2,\ldots,n\}$, $d_i=\frac{d_0}{2^i}$ e $p_i=q^i$? - (b) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=\frac{d_0}{2^i}$ e $p_i=\frac{1}{2^i}$? - (c) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=i$ e $p_i=1$?
+> 
+> **(4) ** Supponiamo che Yohann abbia il tempo di preparare tutte le pizze prima della data $-d$ (cioè $d_1+d_2+\cdots+d_n \le d$). Qual è la pena minima che Yohann può ottenere quando: - (a) per tutti i $i \in \{1,2,\ldots,n\}$, $d_i=1$? - (b) per tutti i < MSK4/>, < MSK5/>?
+> 
+> In questa interrogazione, Yohann possiede un numero infinito di pizze, ma prepara solo la prima. Supponiamo che, qualunque sia il numero $n$ di pizze che prepara, $d_1+d_2+\cdots+d_n \le d$, e che le sanzioni diminuiscano, con $p_i$ una funzione decrescente $g:\mathbb{N}\to\mathbb{R}_+^*$. Calcolare con la massima precisione la pena minima che Yohann può garantire a se stesso in funzione di $n$. Che cosa accade per le altre funzioni decrescenti $g:\mathbb{N}\to\mathbb{R}_+^*$?
+> 
+> In caso di pizzaiolo, rivedere le domande (2) e (4).
+> 
+> **(7) ** Proporre e esplorare altre direzioni di ricerca.
+
+![[src_tfjm_2021__Q03.png]]
+
+[[src_tfjm_2021__Q03]]

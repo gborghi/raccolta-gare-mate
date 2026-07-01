@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2021 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2021__Q03
 parent: src_cgen_2021
 competition: Concours Général des Lycées 2021 — Matematica
@@ -43,6 +44,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability problem on the number D_n of balls eliminated/remaining: study the probabilities p_j that ball number j is eliminated in the first selection, the largest probability M_n, the most probable result via property P_n (P(D_n=n)=M_n), and a chain of inequalities P(D_n=k)<=P(D_n=k+1) for k<=n-2. ONLY questions 8-17 are visible in the images (the statement/setup and questions 1-7 are not shown).*
 
@@ -90,3 +93,37 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mpuoT_Bn4czxgorxXLmkmdqsNnb4j2Av/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Problema di probabilità sul numero D_n di palle eliminate/rimanenti: studiare le probabilità p_j che il numero di palla j venga eliminato nella prima selezione, la probabilità più grande M_n, il risultato più probabile attraverso la proprietà P_n (P(D_n=n)=M_n), e una catena di disuguaglianze P(D_n=k)<=P(D_n=k+1) per k<=n-2. SOLO le domande da 8 a 17 sono visibili nelle immagini (la dichiarazione/impostazione e le domande da 1-7 non sono mostrate).*
+
+> Problemi (probabilità; titolo non visibile, riguarda una quantità < MSK0/> di palle di conteggio; solo le domande 8 in poi sono visibili nelle immagini fornite). Ora è il momento di studiare la legge del $D_n$ stesso.
+> 
+> 8. Determinare, per ogni numero intero $j$ tale che $0\le j\le2n$, la probabilità $p_j$ che la palla di numero $j$ venga eliminata durante la prima selezione.
+> 
+> 9. Indicare che, se $n\ge3$, allora $p_j\ge\frac{1}{2n}$ per ogni intero $j$ tale che $0\le j\le2n$.
+> 
+> 10. Una nota $M_n$ la più grande delle probabilità $\mathbb{P}[D_n=j]$ quando $0\le j\le2n$. Mostra che $M_n$ tende a $0$ quando $n$ tende a $+\infty$.
+> 
+> 2.4 Risultato più probabile. Si ricorda che, per due eventi $A$ e $B$, si nota $A\setminus B$ l'evento secondo il quale $A$ è realizzato ma non $B$. Inoltre, se $\mathbb{P}[B]\ne0$, si nota $\mathbb{P}_B[A]$ la probabilità condizionata di $A$ conoscere $B$. Qui si desidera mostrare, per ogni numero intero $n\ge1$, che $\mathbb{P}[D_n=n]=M_n$. A tal fine, si mostrerà la seguente proprietà $\mathscr{P}_n$: Per ogni numero intero $k$ tale che $0\le k\le n-1$, si ha $\mathbb{P}[D_n=k]\le\mathbb{P}[D_n=k+1]$.
+> 
+> 11. Mostra che, se $\mathscr{P}_n$ è vero, allora $\mathbb{P}[D_n=n]=M_n$. Indicare < MSK2/>.
+> 
+> 12. Indicare < MSK0/>.
+> 
+> Si suppone ora che si abbia un intero $n\ge2$ tale che $\mathscr{P}_{n-1}$ sia vero e un intero $k$ tale che $0\le k\le n-1$.
+> 
+> 13. Per ogni numero intero $\ell$ tra $0$ e $2n$, distinto da $k$ e $k+1$, si nota $X_\ell$ l'evento in base al quale le tre sfere di numeri $k$, $k+1$ e $\ell$ sono scelte nella prima selezione. a. Perché, se < MSK9/>, ci sono < MSK10/> e < MSK11/>? b. Risultati analoghi per < MSK12/> e < MSK13/> quando < MSK14/>. c. Si nota ora $X$ l'evento in base al quale le due palle di numeri $k$ e $k+1$ vengono scelte alla prima selezione. Mostra che < MSK18/>.
+> 
+> 14. $Y$ sia l'evento in base al quale una delle sfere di numeri $k$ e $k+1$ viene eliminata alla prima selezione. a. Mostra che $\mathbb{P}_{Y\setminus X}[D_n=k]=\mathbb{P}_{Y\setminus X}[D_n=k+1]$. b. Riduzione di < MSK4/>.
+> 
+> 15. $a,b$ e $c$ siano i numeri delle tre palle scelte nella prima selezione, con $a<b<c$. a. $G$ sia l'evento secondo il quale $c<k$. Mostra che $\mathbb{P}_G[D_n=k]\le\mathbb{P}_G[D_n=k+1]$. b. L'evento $H$ deve essere quello secondo cui $a<k$ e $k+1<c$. Mostra che $\mathbb{P}_H[D_n=k]\le\mathbb{P}_H[D_n=k+1]$. c. Il < MSK10/> deve essere l'evento secondo il quale < MSK11/>. Indicare che, se $k\le n-2$, allora: $\mathbb{P}_I[D_n=k]\le\mathbb{P}_I[D_n=k+1]$.
+> 
+> 16. Indicare che, se $k\le n-2$, allora $\mathbb{P}[D_n=k]\le\mathbb{P}[D_n=k+1]$.
+> 
+> 17. Indicare < MSK0/>.
+
+[[src_cgen_2021__Q03]]

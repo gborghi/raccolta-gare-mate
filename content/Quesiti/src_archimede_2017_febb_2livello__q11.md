@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2017 - 2 livello — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_febb_2livello__Q11
 parent: src_archimede_2017_febb_2livello
 competition: Archimede Gara di Febbraio 2017 - 2 livello
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di estrarre la pallina 8 dopo le operazioni*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of removing ball 8 after operations< MSK1/>
+
+> One journal contains 8 balls, on which the numbers 1 to 8 are written. Federica catches two balls in a row, erases the number written on the first and replaces it with her double, erases the number on the second ball and replaces it with the fourfold of it. Then reinsert the two balls into the urn (for example, if Federica caught balls 3 and 7 in this order, she will reinsert two balls with the numbers 6 and 28 into the urn). Finally, extract a ball again: what is the probability that the ball extracted has the number 8?
+>
+> - **(A)** 1 8
+> - **(B)** 1 7
+> - **(C)** 7 44
+> - **(D)** 9 56
+> - **(E)** 1 6
+
+**Answer:** A
+[[src_archimede_2017_febb_2livello__Q11]]

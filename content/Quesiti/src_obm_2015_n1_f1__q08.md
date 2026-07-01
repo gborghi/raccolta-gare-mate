@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q08
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many years after 2015 this century have digit mean 2*
 
@@ -54,3 +57,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quanti anni dopo il 2015 questo secolo hanno la media digitali 2*
+
+> La media aritmetica dei numeri dell'anno 2015 è pari a 2, dal momento che $\frac{2+0+1+5}{4} = \frac{8}{4} = 2$. Quante volte nel nostro secolo succederà, dopo il 2015, che la media aritmetica dei numeri di un anno sia uguale a 2?
+>
+> - **(A)** 3
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 7
+> - **(E)** 9
+
+[[src_obm_2015_n1_f1__Q08]]

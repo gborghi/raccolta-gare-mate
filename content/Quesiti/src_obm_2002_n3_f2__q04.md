@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f2__Q04
 parent: src_obm_2002_n3_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the third smallest prime of the form n^2+5*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gF94S0aX4v_2i-OEAFyuTxXKFKl8xKDl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il terzo primo più piccolo della forma n^2+5*
+
+> I due numeri primi più piccoli del formulario $n^2 + 5$ sono $6^2 + 5 = 41$ e $12^2 + 5 = 149$. Qual è il terzo primo più piccolo di questa forma?
+
+[[src_obm_2002_n3_f2__Q04]]

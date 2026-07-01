@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q26
 parent: src_kangourou_2015_marzo_benjamin
 competition: Kangourou 2015 gara 19 marzo Benjamin
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *vertice F*
 
@@ -57,3 +60,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1AiqamuCK6oQtEOLFArlQVHEyWohLlfzH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>top F < MSK1/>
+
+![[src_kangourou_2015_marzo_benjamin__prob26.png]]
+
+> Mary writes a number on each side of the cube in the figure. It then assigns to each vertex of the cube the sum of the numbers written on the 3 faces containing that vertex (e.g., for vertex B it sums the numbers on the faces BCDA, BAEF and BFGC). The numbers that Mary gets for the vertices C, D and E are 14, 16 and 24 respectively. What number do you get for the F-summit ? A) 15
+> 	
+> B) 19
+> 	
+> C) 22
+> 	
+> D) 24
+> 	
+> E) 26
+
+**Answer:** C
+[[src_kangourou_2015_marzo_benjamin__Q26]]

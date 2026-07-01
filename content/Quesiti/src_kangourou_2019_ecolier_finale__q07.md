@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Ecolier — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_finale__Q07
 parent: src_kangourou_2019_ecolier_finale
 competition: Kangourou 2019 Finale Nazionale Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri pari con ultime sei cifre uguali in intervallo*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1235
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zB5ZI_iiNosd9VPERzo0TD0EbqgR3khM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Equal numbers with the last six digits in the interval*
+
+> Linda hung pictures in a box using drawing dots, as you can see in the figure. If he had suspended MSK2 operating in the same way, how many dots would he have had to use?
+>
+> - **(A)** $14$
+> - **(B)** $16$
+> - **(C)** $18$
+> - **(D)** $22$
+> - **(E)** The following table shows the results of the evaluation:
+
+**Answer:** 1235
+[[src_kangourou_2019_ecolier_finale__Q07]]

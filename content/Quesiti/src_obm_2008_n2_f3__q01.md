@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f3__Q01
 parent: src_obm_2008_n2_f3
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Domino precious sets: prove, count doubles, count all*
 
@@ -56,3 +59,25 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mPFxeuedSzPeVHyGa5uTEm_ubRSK1ROx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Sette preziose di domini: prove, contate a doppio, contate tutte< MSK1/>
+
+> Un set di domino è formato da 28 pezzi diversi. Ogni pezzo ha due metà, ciascuna metà ha da zero a sei punti.
+> 
+> Esmeralda mette 4 pezzi di domino all'interno di una scatola, rispettando le regole del gioco  cioè, i pezzi posizionati vicini a vicenda toccano mezzo a mezzo con lo stesso numero di punti. Ogni volta che è possibile conservare i quattro pezzi nella scatola, diciamo che l'insieme di quattro pezzi è **prezioso**. La figura accanto mostra i modi in cui il prezioso set può essere organizzato:
+> 
+> (a) dimostrare che un insieme prezioso non può contenere due pezzi doppi (un doppio pezzo ha entrambe le metà con lo stesso numero di punti).
+> 
+> La figura seguente mostra i preziosi set con due doppi pezzi:
+> 
+> (b) Quanti preziosi set contengono esattamente un doppio pezzo?
+> 
+> c) Determinare il numero totale di set preziosi.
+
+![[src_obm_2008_n2_f3__Q01.png]]
+
+[[src_obm_2008_n2_f3__Q01]]

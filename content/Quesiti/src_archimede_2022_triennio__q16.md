@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2022 - Gara Triennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_triennio__Q16
 parent: src_archimede_2022_triennio
 competition: Giochi di Archimede 2022 - Gara Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area di triangolo interno con lati paralleli a distanza 2*
 
@@ -78,3 +81,43 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Inner triangle area with parallel sides at a distance of 2*
+
+![[src_archimede_2022_triennio__prob16.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (0,0);
+  \coordinate (C) at (7,0);
+  \coordinate (B) at (2.2,3.6);
+  \coordinate (Ap) at (1.0,0.7);
+  \coordinate (Bp) at (2.45,2.85);
+  \coordinate (Cp) at (4.55,0.95);
+  \draw (A)--(B)--(C)--cycle;
+  \draw (Ap)--(Bp)--(Cp)--cycle;
+  \node[below left] at (A) {$A$};
+  \node[above] at (B) {$B$};
+  \node[below right] at (C) {$C$};
+  \node[below left] at (Ap) {$A'$};
+  \node[above] at (Bp) {$B'$};
+  \node[below right] at (Cp) {$C'$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the triangle ABC, the sides AB and BC measure 17 m and 25 m, the height BH 15 m. Consider the triangle A′B′C′, contained in ABC, whose sides are parallel to those of ABC and are 2 m away from them. How many m2 does the area of A′B′C′ measure? A B C A′ B′ C′
+>
+> - **(A)** 315/2
+> - **(B)** 280/3
+> - **(C)** 140
+> - **(D)** 105
+> - **(E)** 126 311
+
+**Answer:** B
+[[src_archimede_2022_triennio__Q16]]

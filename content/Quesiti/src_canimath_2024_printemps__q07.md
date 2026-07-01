@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2024 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_printemps__Q07
 parent: src_canimath_2024_printemps
 competition: Coupe Animath Printemps 2024
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle geometry: show BH bisects angle GBA*
 
@@ -43,3 +46,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Geometria triangolare di isosceles: mostra l'angolo GBA*
+
+> $ABC$ sia un triangolo di uguali braccia con l'apice $A$. Che $D$ sia il punto medio del segmento $[AC]$ e $G$ il centroide del triangolo $ABC$. La linea $(BD)$ interseca il cerchio di diametro $[AC]$ al punto $E$ in modo tale che $E$ e $B$ siano su entrambi i lati di $(AC)$. Il bisettore perpendicolare del segmento $[EC]$ incontra la linea $(AG)$ al punto $H$.
+> 
+> Indicare che la linea $(BH)$ è il bisettore dell'angolo $\widehat{GBA}$.
+
+[[src_canimath_2024_printemps__Q07]]

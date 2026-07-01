@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q05
 parent: src_kangourou_2019_junior_marzo
 competition: Kangourou 2019 Gara marzo Junior (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti modi entrare e uscire da due porte diverse su cinque*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many ways to get in and out of two different doors out of five*
+
+> A room has five doors: from each of them you can either enter or exit. If you want to go in and out of two different doors, how many ways can you do that? A) 25
+> 	
+> B) 20
+> 	
+> C) 16
+> 	
+> D) 15
+> 	
+> E) 10
+
+**Answer:** B
+[[src_kangourou_2019_junior_marzo__Q05]]

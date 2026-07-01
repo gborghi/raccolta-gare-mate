@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q02
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cheapest way to buy 1.2 kg of CHOCOBM*
 
@@ -54,3 +57,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il modo più economico per acquistare 1,2 kg di CHOCOBM
+
+> In una panetteria, una lattina di 200 g di cacao in polvere CHOCOBM costa R\$3.00, a 400 g can costs R\$5,00 e una lattina di 800 g costa R\$9.00. Lara needs $1.2$ kg of CHOCOBM to make a cake. Among the options below, which is the most economical way to buy $1.2$ kg di CHOCOBM in quella panetteria?
+>
+> - **(A)** 6 lattine di 200 g
+> - **(B)** 1 lata di 400 g e 1 lata di 800 g
+> - **(C)** 4 lattine di 200 g e 1 lattina di 400 g
+> - **(D)** 2 lattine di 200 g e 1 lattina di 800 g
+> - **(E)** 2 lattine di 200 g e 2 lattine di 400 g
+
+**Risposta:** D
+[[src_obm_2011_n1_f1__Q02]]

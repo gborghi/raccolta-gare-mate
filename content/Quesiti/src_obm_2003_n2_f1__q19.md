@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f1__Q19
 parent: src_obm_2003_n2_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Order X=2^300, Y=11^100, Z=5^400 from smallest to largest*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ordine X=2^300, Y=11^100, Z=5^400 dal più piccolo al più grande*
+
+> Considerate i numeri $X = 2^{300}$, $Y = 11^{100}$ e $Z = 5^{400}$. Identificare l'ordine corretto:
+> 
+> (A) $X < Z < Y$ \quad (B) $Y < X < Z$ \quad (C) $X < Y < Z$ \quad (D) $Z < X < Y$ \quad (E) $Z < Y < X$
+
+**Risposta:** C
+[[src_obm_2003_n2_f1__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1994 (35th IMO, Hong Kong) — Quesito 2'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1994__Q02
 parent: src_imo_1994
 competition: 'IMO 1994 (35th IMO, Hong Kong)'
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *OQ perpendicular EF iff QE=QF*
 
@@ -33,3 +36,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uEhsmiYhsGIpd8-npjJnscoeuH2AmioB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The following table shows the results of the evaluation:
+
+> Q is an arbitrary point on the segment BC different from B and C;
+
+[[src_imo_1994__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2008 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2008__Q02
 parent: src_bocconi_primavera_2008
 competition: Semifinale di Primavera 2008
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Data precedente formata solo da cifre dispari*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 19.11.1999
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Previous date consisting only of odd digits*
+
+> The general test of the "International Mathematical Games Championships" took place on March 8, exactly one week before the competition. Only one of the figures for 8.3.2008 is odd. < MSK0/>What is the previous date composed solely of odd numbers? < MSK1/>
+
+**Answer:** 19.11.1999
+[[src_bocconi_primavera_2008__Q02]]

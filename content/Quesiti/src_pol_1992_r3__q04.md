@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1992 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1992_r3__Q04
 parent: src_pol_1992_r3
 competition: Olimpiade Matematica Polacca 1992 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Solve f_n(x)=2x for recursive square-root sequence*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y0mu5QcC1ogDOJ92TBWc65WHpU-0WUHz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Solvi f_n(x)=2x per la sequenza di radice quadrata ricorsiva*
+
+> La sequenza di funzioni $f_n : \mathbb{R} \to \mathbb{R}$ è definita da $f_0(x) = 8$ e $$f_{n+1}(x) = \sqrt{x^2 + 6f_n(x)} \quad \text{for all } x.$$ Per ogni intero $n \ge 0$, risolvere l'equazione $f_n(x) = 2x$.
+
+[[src_pol_1992_r3__Q04]]

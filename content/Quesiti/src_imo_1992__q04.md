@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1992 (33rd IMO, Moscow) — Quesito 4'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1992__Q04
 parent: src_imo_1992
 competition: 'IMO 1992 (33rd IMO, Moscow)'
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find locus of P with incircle tangent and midpoint condition*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jIKB66FgVUdorjltYnuxUvSkJsctpUJo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find the locus of P with incircle tangent and midpoint condition
+
+> In the plane $C$ a circle, $l$ a straight tangent to the circle $C$, and $M$ a point on $l$. Find the geometric location of all $P$ points with the following property: there are two points $Q$, $R$ on $l$ such that $M$ is the middle point of $QR$ and $C$ is the circle inscribed in the $PQR$ triangle.
+
+[[src_imo_1992__Q04]]

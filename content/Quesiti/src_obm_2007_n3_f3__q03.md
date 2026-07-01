@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f3__Q03
 parent: src_obm_2007_n3_f3
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove the set of side and diagonal lengths of a convex n-gon has at least floor(n/2) distinct values*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hV2QFPABOEgEquJp5pRBUUMfLKtQpl8d/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che l'insieme di lunghezze laterali e diagonali di un n-gon convex ha almeno valori distinti di pavimento ((n/2)*
+
+> I punti $n$ sono indicati nel piano, che sono le vertici di un poligono converso. Prova che l'insieme di misure dei lati e diagonali del poligono ha almeno $\lfloor n/2 \rfloor$ elementi distinti.
+> 
+> *Rimarca: * $\lfloor x \rfloor$ indica il numero intero più grande che non supera $x$. Per esempio, $\lfloor 2.5 \rfloor = 2$, $\lfloor 3 \rfloor = 3$ e $\lfloor -1.2 \rfloor = -2$.
+
+[[src_obm_2007_n3_f3__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q09
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -35,6 +36,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four sides and one diagonal of quadrilateral; lengths 10,20,28,50,75; find diagonal*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 28
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro lati e una diagonale di quadrilaterali; lunghezze 10,20,28,50,75; trovare diagonale*
+
+> Quattro lati e una diagonale di un quadrilaterale hanno lunghezze 10, 20, 28, 50, 75, non necessariamente in quell'ordine. Quale tra loro è l'unica lunghezza possibile della diagonale?
+
+**Risposta:** 28
+[[src_ioqm_2025_sep07__Q09]]

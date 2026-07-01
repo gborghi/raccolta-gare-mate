@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f3__Q01
 parent: src_obm_2007_n2_f3
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill n×n grid with 1–4 so each cell has exactly one neighbor with same number*
 
@@ -51,3 +54,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Inserire n×n griglia con 14 in modo che ogni cella abbia esattamente un vicino con lo stesso numero*
+
+> In ogni cella di una griglia $n \times n$ posizionamo uno dei numeri $1, 2, 3, 4$, in modo tale che ogni cella abbia esattamente una cella vicina con lo stesso numero. È possibile fare questo quando
+> 
+> (a) $n = 2007$?
+> 
+> (b) $n = 2008$?
+> 
+> **Nota.** Due celle sono vicine se condividono un lato.
+
+[[src_obm_2007_n2_f3__Q01]]

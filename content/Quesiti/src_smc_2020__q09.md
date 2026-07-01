@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2020 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2020__Q09
 parent: src_smc_2020
 competition: Senior Mathematical Challenge 2020
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distance in metres between two cars each at 180 km/h that are 1 second apart*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Distanza in metri tra due auto a 180 km/h ciascuna che si trovano a 1 secondo di distanza*
+
+> Nel 2018, un pilota di corse è stato autorizzato a utilizzare il sistema di riduzione del trascinamento a condizione che l'auto fosse entro 1 secondo dalla vettura davanti. Supponiamo che due macchine fossero a un secondo di distanza, ognuna di cui viaggiava a 180 km/h nella stessa direzione. Quanti metri erano distanti le auto?
+>
+> - **(A)** $100$
+> - **(B)** $50$
+> - **(C)** $10$
+> - **(D)** $5$
+> - **(E)** $1$
+
+**Risposta:** B
+[[src_smc_2020__Q09]]

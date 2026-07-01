@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2014-15 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2014-15_round2__Q04
 parent: src_bmo_2014-15_round2
 competition: British Mathematical Olympiad 2014-15 — Round 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine whether a 100-loop of integer-coordinate points exists.*
 
@@ -53,3 +56,21 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1utI1wT_4pLVSoKHgAyJP391IsxcE0Q0y/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Determine se esiste un ciclo di 100 punti di coordinate interi.*
+
+> Dati due punti $P$ e $Q$ con coordinate interi, diciamo che $P$ \emph{sees} $Q$ se il segmento di linea $PQ$ non contiene altri punti con coordinate interi. Un ciclo $n$ è una sequenza di punti $n$ $P_1, P_2, \ldots, P_n$, ciascuno con coordinate interi, in modo tale che siano soddisfatte le seguenti condizioni:
+> 
+> a) $P_i$ vede $P_{i+1}$ per $1 \le i \le n-1$ e $P_n$ $P_1$;
+> 
+> b) Non $P_i$ comprende $P_j$ tranne quelli di cui alla lettera a);
+> 
+> c) Non tre dei punti si trovano sulla stessa linea retta.
+> 
+> Esiste un ciclo $100$?
+
+[[src_bmo_2014-15_round2__Q04]]

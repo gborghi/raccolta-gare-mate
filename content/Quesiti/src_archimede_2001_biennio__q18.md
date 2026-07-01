@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Biennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_biennio__Q18
 parent: src_archimede_2001_biennio
 competition: Giochi di Archimede 2001 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo attraversamenti fiume con barchetta e vincoli*
 
@@ -48,3 +51,19 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15IBgfl7GAsJGqi_MCOVW5U5tuBXGW2je/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum river crossings by boat and barges*
+
+> A family of two parents and two young children wants to cross a river. Their boat can carry up to two young people or one adult. When counting crossings in one direction and those in the other, what is the minimum number of crossings the boat must make? (obviously the boat can't cross the river without being led).
+>
+> - **(A)** 5
+> - **(B)** 6
+> - **(C)** 7
+> - **(D)** 8
+> - **(E)** 9.
+
+[[src_archimede_2001_biennio__Q18]]

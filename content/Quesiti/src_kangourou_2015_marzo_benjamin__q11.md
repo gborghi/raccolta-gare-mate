@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q11
 parent: src_kangourou_2015_marzo_benjamin
 competition: Kangourou 2015 gara 19 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro figura con 6 quadrati*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1AiqamuCK6oQtEOLFArlQVHEyWohLlfzH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter is shown in 6 squares*
+
+![[src_kangourou_2015_marzo_benjamin__prob11.png]]
+
+> Thomas approaches six equal squares, one centimeter on each side, to form the figure you see in the drawing. How many centimeters does the perimeter of the figure built by Thomas measure? A) 9             B) 10               C) 11                D) 12              E) 13
+
+**Answer:** D
+[[src_kangourou_2015_marzo_benjamin__Q11]]

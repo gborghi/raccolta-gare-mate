@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2007 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2007__Q03
 parent: src_cn_cgmo_2007
 competition: China Girls' Mathematical Olympiad 2007
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimize cyclic sum over nonneg reals summing to 2*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\frac{3}{2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimizzare la somma ciclica su valori reali non negativi sommando a 2*
+
+> Che $n$ sia un numero intero superiore a 3, e che $a_1, a_2, \ldots, a_n$ sia un numero reale non negativo con $a_1 + a_2 + \cdots + a_n = 2$. Determinare il valore minimo di $$\frac{a_1}{a_2^2+1} + \frac{a_2}{a_3^2+1} + \cdots + \frac{a_n}{a_1^2+1}.$$
+
+**Risposta:** \frac{3}{2}
+[[src_cn_cgmo_2007__Q03]]

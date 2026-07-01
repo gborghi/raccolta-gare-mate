@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1981-82 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1981-82_round2__Q03
 parent: src_bmo_1981-82_round2
 competition: British Mathematical Olympiad 1981-82 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find largest n for which ax+(a+1)y+(a+2)z=n has no positive solution*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e8i3xZYTs6OhsVopzbRKd7oUXgpnp9WB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la più grande n per la quale ax+(a+1)y+(a+2)z=n non ha soluzione positiva*
+
+> Trova il più grande intero positivo $n$ per il quale l'equazione $$ax + (a+1)y + (a+2)z = n$$ non è risolvibile in numeri interi positivi $x, y, z$, dove $a$ è un dato intero positivo parente.
+
+[[src_bmo_1981-82_round2__Q03]]

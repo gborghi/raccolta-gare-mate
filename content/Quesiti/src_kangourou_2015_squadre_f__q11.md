@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Finale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_f__Q11
 parent: src_kangourou_2015_squadre_f
 competition: Kangourou Coppa Squadre 2015 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quattro cifre di Cristina con differenza prodotti 1000*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1234
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11h_SgvOFzLa5MkyUk9nA_Lj1BTGkSTzB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Four digits of Cristina with a difference in products 1000< MSK1/>
+
+> Cristina's numbers From the numbers 1 to 9, Cristina chooses four of them all different from each other. He then groups them into pairs and orders the two pairs thus obtained, so as to form two two-digit integers from which he calculates the product. After carrying out this operation in all possible ways, it is noticed that the difference between the highest and lowest of the products obtained is exactly 1000. Write in increasing order the four digits chosen by Cristina.
+
+**Answer:** 1234
+[[src_kangourou_2015_squadre_f__Q11]]

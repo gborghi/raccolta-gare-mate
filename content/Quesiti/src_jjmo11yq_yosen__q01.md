@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo11yq_yosen__Q01
 parent: src_jjmo11yq_yosen
 competition: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of parallelogram from rectangle line intersections*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8/3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KqvofIIXgEWPDHUAZMRGkscvso3ZVrK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area del parallelo da intersezioni di linee rettangolari*
+
+> Nel rettangolo $ABCD$ c'è un punto $P$ sul lato $AB$ e un punto $R$ sul lato $CD$ in modo tale che $$AP=2,\quad PB=1,\quad BC=4,\quad CR=2,\quad RD=1,\quad DA=4.$$ $Q$ sia l'intersezione della linea $BR$ con la linea $CP$, e $S$ sia l'intersezione della linea $AR$ con la linea $DP$. Trova l'area del quadrilaterale $PQRS$. Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.
+
+![[src_jjmo11yq_yosen__Q01.png]]
+
+**Risposta:** 8/3
+[[src_jjmo11yq_yosen__Q01]]

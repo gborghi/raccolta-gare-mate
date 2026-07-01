@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2025 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_printemps__Q11
 parent: src_canimath_2025_printemps
 competition: Coupe Animath Printemps 2025
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove PM bisects angle NPB in isosceles triangle ABC*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che il PM divide l'angolo NPB in triangolo ABC *
+
+> $ABC$ sia un triangolo a uguale scala a $A$. Il segmento $M$ e il segmento $N$ sono rispettivamente i punti di mezzo dei segmenti $[BC]$ e $[AC]$, e il segmento $P$ è il piede dell'altitudine da $C$ nel triangolo $ABC$.
+> 
+> Indicare che $[PM]$ è il bisettore angolare di $\angle NPB$.
+
+[[src_canimath_2025_printemps__Q11]]

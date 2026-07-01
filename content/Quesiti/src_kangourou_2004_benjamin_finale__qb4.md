@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin finale nazionale — Quesito B4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin_finale__QB4
 parent: src_kangourou_2004_benjamin_finale
 competition: Kangourou 2004 Benjamin finale nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato min/max del quadrato Q piastrellato*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** min 7 max 17
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DTuTa9-8gf07gHbV5tJLp1dknhFcY163/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Late min/max of the tiled Q square< MSK1/>
+
+![[src_kangourou_2004_benjamin_finale__probB4.png]]
+
+> A square $Q$ is tiled by $34$ smaller squares, on which only $33$ is known to measure $1$ cm. What are the minimum and maximum possible values for the length of the side of the square $Q$?
+
+**Answer:** min 7 max 17
+[[src_kangourou_2004_benjamin_finale__QB4]]

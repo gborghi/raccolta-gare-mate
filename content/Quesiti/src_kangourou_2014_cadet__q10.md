@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q10
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo grani bianchi sfilati prima del quinto grigio*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most white grains parched before the fifth gray< MSK1/>
+
+![[src_kangourou_2014_cadet__prob10.png]]
+
+> The bracelet in the figure has gray and white grains. Arianna slides the grains one by one, choosing from time to time the end of the bracelet from which to slide. What is the maximum number of white grains that Arianna can parade if she stops as soon as she takes out the fifth gray grain? A) 4
+> 	
+> B) 5
+> 	
+> C) 6
+> 	
+> D) 7
+> 	
+> (e) 8 Questions from n. 11 al n. 20 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2014_cadet__Q10]]

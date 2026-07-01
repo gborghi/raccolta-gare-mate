@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Mumbai — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_mumbai__Q04
 parent: src_rmo_2014_mumbai
 competition: Regional Mathematical Olympiad 2014
@@ -33,6 +34,8 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distinct paths from (0,0) to (8,8) with exactly three right steps*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xhSfT_YS9hyqePqUnTAQeZVYK635GxN9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare percorsi distinti da (0,0) a (8,8) con esattamente tre passi a destra*
+
+> Una persona si muove nel piano $x$-$y$ che si muove solo in linea con le coordinate interi $x$ e $y$. Quando si trova al punto $(x, y)$, fa un passo in base alle seguenti regole: a) se $x + y$ è anche si sposta a $(x, y + 1)$ o a $(x + 1, y + 1)$; b) se $x + y$ è pari si sposta a $(x, y + 1)$ o a $(x + 1, y + 1)$. Quanti percorsi distinti può percorrere per passare da MSK11/> a MSK12/>, dato che ha fatto esattamente tre passi a destra (cioè $(x, y)$ a MSK14/>)?
+
+[[src_rmo_2014_mumbai__Q04]]

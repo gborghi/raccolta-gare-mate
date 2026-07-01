@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Biennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_biennio__Q13
 parent: src_archimede_1996_biennio
 competition: Giochi di Archimede 1996 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale persona indovina data fra settimana giorno mese*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ARzIV3wHmzpV455NSIYGulflPgheKY6p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Who can guess the date from week to month*
+
+> Five people disagree on the date.  Carlo says today is Monday 16 August  Franco says today is Tuesday 16 August  Marco says today is Tuesday 17 September  Roberto says today is Monday 17 August  Tullio says today is Monday 17 September. One is right, but no one is completely wrong, in the sense that everyone says at least one thing correctly (or the day of the week, or the day of the month, or the month). Who's right?
+>
+> - **(A)** Charles
+> - **(B)** French
+> - **(C)** Mark
+> - **(D)** This is not a problem.
+> - **(E)** - What?
+
+**Answer:** D
+[[src_archimede_1996_biennio__Q13]]

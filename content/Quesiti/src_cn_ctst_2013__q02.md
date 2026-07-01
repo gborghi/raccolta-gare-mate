@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2013 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2013__Q02
 parent: src_cn_ctst_2013
 competition: China National Team Selection Test 2013
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min transitions so 101 persons each get 51 cards*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 42925
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Min transizioni in modo che 101 persone ricevano 51 carte ciascuno*
+
+> Supponiamo che ci siano 101 persone sedute attorno a un tavolo rotondo. Ogni persona possiede < MSK0/> pezzi di carte, < MSK1/>. Chiamiamo transizione quando una persona trasmette una delle sue carte a una delle persone adiacenti. Trova il numero positivo minimo $r$ in modo tale che non ci sia modo di effettuare più di $r$ transizioni in modo che ogni persona posseda 51 carte. (Posizionato da Qu Zhenhua)
+
+**Risposta:** 42925
+[[src_cn_ctst_2013__Q02]]

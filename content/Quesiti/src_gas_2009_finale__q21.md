@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q21
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Carta inutilizzata minima per sviluppo cubo da rettangolo*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 4000
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum unused card for rectangular cube development*
+
+> Cubbit The gobbits like to do small jobs with paper. Sam got himself a rectangular sheet from an area of 1 square meter and wants to make a cube of it. To be precise, he wants to cut from the sheet a single piece of 6 equal squares, joined together by one or more sides, which represents a plane development of the cube, that is, that folded appropriately between one square and the other, forms the surface of a cube (each square must become a face of the cube). Sam knows his facts, so he made sure that the proportions between the two sides of the rectangle are such that we can get, at parity of surface, the largest cube possible. How many square inches of paper are still unused, at least?
+
+**Answer:** 4000
+[[src_gas_2009_finale__Q21]]

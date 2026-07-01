@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo20yq_yosen__Q03
 parent: src_jjmo20yq_yosen
 competition: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pentagon inscribed in circle with rectangle BCDE and AB=EA=6; find radius*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 9
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Pentagono inciso in cerchio con rettangolo BCDE e AB=EA=6; trovare raggio*
+
+> Un pentagono $ABCDE$ è inserito in un cerchio. Il quadrilaterale $BCDE$ è un rettangolo che soddisfa $BC = DE - 1$ e $AB = EA = 6$. Trova il raggio del cerchio. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+![[src_jjmo20yq_yosen__Q03.png]]
+
+**Risposta:** 9
+[[src_jjmo20yq_yosen__Q03]]

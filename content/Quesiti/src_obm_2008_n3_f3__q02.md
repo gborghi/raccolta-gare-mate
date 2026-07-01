@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f3__Q02
 parent: src_obm_2008_n3_f3
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Segment covering 3n of 6n coloured points on a line*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Xdlk10kOctV84Jj1WlZYi4mgeMhHN8nP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Segmento che copre 3n di 6n punti colorati su una linea*
+
+> Su una linea c'è un insieme $S$ di punti $6n$. Di questi, $4n$ sono scelti a caso e colorati in blu; i restanti $2n$ sono colorati in verde. Dimostrare che esiste un segmento contenente esattamente $3n$ punti di $S$, di cui $2n$ blu e $n$ verde.
+
+[[src_obm_2008_n3_f3__Q02]]

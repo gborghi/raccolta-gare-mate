@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Student (15 marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_student__Q07
 parent: src_kangourou_2001_student
 competition: Kangourou 2001 - Student (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Relazione tra x e y aree con parallele*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Relation between x and y areas with parallels*
+
+![[src_kangourou_2001_student__prob7.png]]
+
+> In the figure next to BC it is parallel to AE and BD is parallel to CE. If x is the area of the ABCD quadrilateral and y is the area of the ACE triangle, then
+>
+> - **(A)** x = y
+> - **(B)** x = 2 y
+> - **(C)** 2 x = y
+> - **(D)** e true a different relationship between x and y
+> - **(E)** e it is impossible to determine with these data alone, what is the relationship between x and y.
+
+**Answer:** A
+[[src_kangourou_2001_student__Q07]]

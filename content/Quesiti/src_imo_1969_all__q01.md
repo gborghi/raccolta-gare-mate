@@ -1,6 +1,7 @@
 ---
 title: IMO 1969 (Eleventh International Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1969_all__Q01
 parent: src_imo_1969_all
 competition: IMO 1969 (Eleventh International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Infinitely many a making n^4+a never prime*
 
@@ -33,3 +36,13 @@ tags:
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12FvNr0jk5CMfk7r3Xncci7U9Z2FtRov9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Infinitely many a making n^4+a never prime
+
+> Prove that there are infinitely many natural numbers $a$ with the following property: the number $z = n^4 + a$ is not prime for any natural number $n$.
+
+[[src_imo_1969_all__Q01]]

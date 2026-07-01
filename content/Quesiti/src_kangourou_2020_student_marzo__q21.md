@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q21
 parent: src_kangourou_2020_student_marzo
 competition: Kangourou 2020 Student - gara marzo (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale deve essere positivo dato l'arco di parabola*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which must be positive given the parabola arc*
+
+![[src_kangourou_2020_student_marzo__prob21.png]]
+
+> In the figure you see an arc of the equation parabola y = ax2 + bx + c. Which of the following must be positive? A) c
+> 	
+> B) b + c C) ac
+> 	
+> D) bc
+> 	
+> E) ab
+
+**Answer:** D
+[[src_kangourou_2020_student_marzo__Q21]]

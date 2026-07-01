@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q11
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pentagono magico: riempire con interi positivi distinti con somme uguali su ogni segmento.*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1 soluzione
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Magic pentagon: fill with distinct positive integers with equal sums on each segment.*
+
+> Complete this pentagon with the help of strictly positive integers so that: $\bullet$ the numbers are all different; $\bullet$ the sum of three numbers placed on the same segment is always the same; $\bullet$ the largest number is the smallest possible.
+
+![[src_bocconi_finaleint_2008_g1__Q11.png]]
+
+**Answer:** 1 soluzione
+[[src_bocconi_finaleint_2008_g1__Q11]]

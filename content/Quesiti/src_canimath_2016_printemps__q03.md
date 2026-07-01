@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2016 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2016_printemps__Q03
 parent: src_canimath_2016_printemps
 competition: Coupe Animath Printemps 2016
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2016 people in a line, each knave/knight; each points at someone ahead and labels them; strictly more knaves than knights; observer identifies all.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2016 persone in fila, ciascun cretino/cavaliere; ognuno punta su qualcuno davanti e li etichetta; strettamente più cretini che cavalieri; l'osservatore identifica tutti.*
+
+> Le persone < MSK0/> sono in un file indiano (linea singola). Ognuno di loro è o un cretino (che mente sempre) o un cavaliere (che dice sempre la verità). Ognuna delle persone $2016$ vede tutti coloro che sono davanti a loro e solo loro. Ogni persona, tranne quella che è proprio davanti, designa una delle persone davanti a loro e dice una delle due frasi: "questa persona è un cretino" o "questa persona è un cavaliere". Sapendo che ci sono rigorosamente più scagnozzi che cavalieri, come può un osservatore determinare quale è un scagnozzo e quale un cavaliere?
+
+[[src_canimath_2016_printemps__Q03]]

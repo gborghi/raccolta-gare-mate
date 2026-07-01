@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2023 - Gara Triennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_triennio__Q11
 parent: src_archimede_2023_triennio
 competition: Giochi di Archimede 2023 - Gara Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che la partita finisca 4 a 2*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of the game ending 4 to 2*
+
+> Thomas and Claudia challenge each other by throwing a coin several times: each time he heads out, Thomas makes a point, when he crosses out, Claudia makes a point. As soon as one of the two gets to four, the game is over. What is the probability that the game ends on a score of 4 to 2 (for either of the two)?
+>
+> - **(A)** 15/32
+> - **(B)** 11/32
+> - **(C)** 25/64
+> - **(D)** 3/8
+> - **(E)** 5/16
+
+**Answer:** E
+[[src_archimede_2023_triennio__Q11]]

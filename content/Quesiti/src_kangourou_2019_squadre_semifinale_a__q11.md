@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Semifinale A — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_semifinale_a__Q11
 parent: src_kangourou_2019_squadre_semifinale_a
 competition: Kangourou Coppa squadre 2019 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma lunghezze 4 segmenti paralleli ad AC*
 
@@ -75,3 +78,46 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11UObVOKAFwi6iQmLA7AlZW47uLAu1lJx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total lengths of 4 segments parallel to AC*
+
+![[src_kangourou_2019_squadre_semifinale_a__prob11.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (2,5);
+  \coordinate (C) at (6,0);
+  \coordinate (K) at (0.4,1.0);
+  \coordinate (L) at (0.8,2.0);
+  \coordinate (M) at (1.2,3.0);
+  \coordinate (N) at (1.6,4.0);
+  \coordinate (K2) at (5.2,1.0);
+  \coordinate (L2) at (4.4,2.0);
+  \coordinate (M2) at (3.6,3.0);
+  \coordinate (N2) at (2.8,4.0);
+  \draw (A) -- (B) -- (C) -- cycle;
+  \draw (K) -- (K2);
+  \draw (L) -- (L2);
+  \draw (M) -- (M2);
+  \draw (N) -- (N2);
+  \node[below left] at (A) {$A$};
+  \node[above] at (B) {$B$};
+  \node[below right] at (C) {$C$};
+  \node[left] at (K) {$K$};
+  \node[left] at (L) {$L$};
+  \node[left] at (M) {$M$};
+  \node[left] at (N) {$N$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The four points K, L, M, N that you see in the drawing marked on the AB side of the ABC triangle are such that the AK segment is congruent to NB and the KL segment is congruent to MN. From each of the four points a parallel segment to AC with the second extreme on the BC side was drawn. What is the sum of the lengths of these four segments, if AC is 8?
+
+**Answer:** 0016
+[[src_kangourou_2019_squadre_semifinale_a__Q11]]

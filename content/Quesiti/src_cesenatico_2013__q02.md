@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013__Q02
 parent: src_cesenatico_2013
 competition: Olimpiade Italiana (Cesenatico) 2013 - soluzioni
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *dimostrare A'B'=(a-b)/2*
 
@@ -69,3 +72,42 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hXVH2IQIT7lpZOFdPWsSlTLlKUKYJdQt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*to show A'B'=(a-b)/2*
+
+![[src_cesenatico_2013__prob2.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.9]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (10,0);
+  \coordinate (C) at (2.6,4.2);
+  \coordinate (M) at (5,0);
+  \coordinate (I1) at (2.551,1.421);
+  \coordinate (I2) at (5.664,1.145);
+  \coordinate (Ap) at (3.785,2.126);
+  \coordinate (Bp) at (4.67,0.577);
+  \draw (A)--(B)--(C)--cycle;
+  \draw (C)--(M);
+  \draw (I1) circle (1.421);
+  \draw (I2) circle (1.145);
+  \fill (Ap) circle (1.5pt) node[above right] {$A'$};
+  \fill (Bp) circle (1.5pt) node[above right] {$B'$};
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above] at (C) {$C$};
+  \node[below] at (M) {$M$};
+  \node at (2.0,1.0) {$\alpha$};
+  \node at (5.7,0.6) {$\beta$};
+\end{tikzpicture}
+\end{document}
+```
+
+> In the triangle ABC, let's say we have a > b, where a = BC and b = AC. Both M the median point of AB and α and β are the circumferences inscribed respectively on the ACM and BCM triangles. The tangent points of α and β with CM are then A′ and B′. Show that A′B′ = a −b 2 .
+
+[[src_cesenatico_2013__Q02]]

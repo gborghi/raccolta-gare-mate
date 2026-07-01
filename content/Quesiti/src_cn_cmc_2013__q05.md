@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2013 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2013__Q05
 parent: src_cn_cmc_2013
 competition: China Mathematical Competition 2013
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum of ab for linear function with bounded values on [0,1]*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\frac{1}{4}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Massimo di ab per funzioni lineari con valori limitati su [0,1]*
+
+> $a$, $b$ siano numeri reali e $f(x) = ax + b$ soddisfa $|f(x)| \le 1$ per qualsiasi $x \in [0, 1]$. In questo caso, il massimo di $ab$ è $\underline{\qquad}$.
+
+**Risposta:** \frac{1}{4}
+[[src_cn_cmc_2013__Q05]]

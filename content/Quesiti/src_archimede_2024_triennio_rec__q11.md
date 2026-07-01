@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Triennio (riserva) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_triennio_rec__Q11
 parent: src_archimede_2024_triennio_rec
 competition: Giochi di Archimede 2024 - Gara Triennio (riserva)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza PC' da distanze di punto interno ai lati*
 
@@ -52,3 +55,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1g5pZKJJlCl_GhFX6o3wAXXICiSld4BN8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*PC length from inner point distances to the sides*
+
+![[src_archimede_2024_triennio_rec__prob11.png]]
+
+> In the triangle ABC the sides AB and BC measure 17 dm, the CA side measures 16 dm. Taking a point P within the triangle, the segments PA′, PB′ and PC′, perpendicular to the sides, are plotted from P. The lengths (in dm) of PA′ and PB′ are, in the order, 3 and 13/2. How many dm does PC< MSK5/> measure? A B C P A′ B′ C′
+>
+> - **(A)** 5
+> - **(B)** 75/17
+> - **(C)** 21/4
+> - **(D)** 4
+> - **(E)** 9/2
+
+[[src_archimede_2024_triennio_rec__Q11]]

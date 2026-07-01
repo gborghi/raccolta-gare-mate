@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Junior Finale 1 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_squadre__Q03
 parent: src_kangourou_2022_junior_squadre
 competition: Kangourou Squadre 2022 Junior Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero lati n con somma diametrale minima 2022*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2018
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of sides n with minimum diameter sum 2022*
+
+> How many peaks? A positive integer is written at each vertex and at the center of a regular polygon of n sides (n equal). The n + 1 written numbers were chosen so that they were all different from each other and that, when the pairs of opposite vertices (i.e. aligned with the center) varied, the sum of the three aligned numbers (in the two vertices and in the center) was always the same and the least possible. With these assumptions, that sum turned out to be 2022. How much is n?
+
+**Answer:** 2018
+[[src_kangourou_2022_junior_squadre__Q03]]

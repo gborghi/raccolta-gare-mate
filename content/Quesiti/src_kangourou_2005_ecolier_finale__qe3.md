@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Ecolier (finale nazionale) — Quesito E3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_ecolier_finale__QE3
 parent: src_kangourou_2005_ecolier_finale
 competition: Kangourou 2005 - Ecolier (finale nazionale)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero 4 cifre divisibile per ogni sua cifra*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1236
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IkYd8e7o2p8yRZV9wdme-Pnuv7OvFI11/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number 4 digits divisible by each of its digits*
+
+> What is the smallest positive integer of 4 digits, all different from each other (and different from zero), that is divisible (without remainder!) by each of its 4 digits?
+
+**Answer:** 1236
+[[src_kangourou_2005_ecolier_finale__QE3]]

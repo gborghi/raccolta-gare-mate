@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2011 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo9mq_honsen__Q02
 parent: src_jjmo9mq_honsen
 competition: Japan Junior Mathematical Olympiad 2011 — Honsen (Final)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *n a perfect square; find the n smallest integers expressible as product of two factors each at most n*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQFXoo9rN8C_YkZobTc_GDXqyqB1KsjQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*n un quadrato perfetto; trovare n numeri interi più piccoli espressi come prodotto di due fattori ciascuno al massimo n*
+
+> Lascia che $n$ sia un quadrato perfetto. Si consideri tutti gli enti che possono essere espressi come un prodotto $a \times b$ dove $a$ e $b$ sono enteri positivi ciascuno al massimo $n$ (non necessariamente distinti). Tra questi enti, elencare i più piccoli $n$ (in ordine crescente), esprimendoli in termini di $n$.
+
+[[src_jjmo9mq_honsen__Q02]]

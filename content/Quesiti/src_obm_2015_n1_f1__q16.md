@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q16
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count summands appearing in writing 2015 as sum of three numbers*
 
@@ -54,3 +57,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio delle sommazioni che figurano per iscritto nel 2015 come somma di tre numeri*
+
+> Esmeralda gioca a scrivere il numero 2015 come la somma di tre numeri, in ordine non decrescente, utilizzando tre sommand. Per esempio, $670 + 671 + 674 = 2015$ e $175 + 920 + 920 = 2015$. Si noti che nel secondo esempio il numero 920 appare due volte come una somma. Se scrivesse tutte le somme possibili, quanti numeri apparirebbero come una somma?
+>
+> - **(A)** 100
+> - **(B)** 449
+> - **(C)** 450
+> - **(D)** 570
+> - **(E)** 999
+
+[[src_obm_2015_n1_f1__Q16]]

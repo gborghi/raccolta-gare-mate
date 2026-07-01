@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q20
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tratto in cui si incrociano treno merci e rapido*
 
@@ -78,3 +81,32 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Treaty for the crossing of freight and high-speed trains *
+
+![[src_kangourou_2021_benjamin__prob20.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw[thick] (0,0) -- (6,0);
+  \foreach \x/\l in {0/X, 1/A, 2/B, 3/C, 4/D, 5/E, 6/Y} {
+    \filldraw (\x,0) circle (2pt);
+    \node[below] at (\x,0) {$\l$};
+  }
+\end{tikzpicture}
+\end{document}
+```
+
+> The railway line connecting X and Y is double track.
+>  
+> The trains travel there at constant speed. It takes 180 minutes for a freight train, 60 minutes for a high-speed train. If at the same time a freight train leaves from X and a high-speed train from Y, which route will they cross? (a) In section XA. (b) In section AB. (c) In the BC section. D) In the CD. E) In the DE section. D ? E B C A D B D E B A E C D C E A X A B C D E Y
+> 
+> The questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** B
+[[src_kangourou_2021_benjamin__Q20]]

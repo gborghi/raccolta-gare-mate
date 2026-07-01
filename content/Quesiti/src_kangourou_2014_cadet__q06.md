@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q06
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area dell'aquila stilizzata dai ritagli*
 
@@ -52,3 +55,23 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the eagle stylized by the cuts*
+
+![[src_kangourou_2014_cadet__prob6.png]]
+
+> Elisa has some square sheets of paper with an area of 4 sqm. He cuts them into squares and rectangular triangles as shown in the figure to the left. He then disposes of some of these pieces carved to form a stylized eagle, as shown in the figure to the right. What is the area of the eagle in dm2? A) 6
+> 	
+> B) 5
+> 	
+> C) 9/2 D) 4
+> 	
+> E) 3
+>
+
+**Answer:** A
+[[src_kangourou_2014_cadet__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q10
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count encased and reverse-encased clock moments in non-leap year 2015*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio dei momenti dell'orologio incollati e incollati in senso inverso nell'anno fisso 2015*
+
+> Jonas osservava orologi digitali nella sua città che indicavano la data e l'ora. Per coincidenza, il giorno in cui ha notato questo è stato il 12/06, e l'orologio ha mostrato 12:06. Lo chiamava un momento incassato (momento encaixado): un momento in cui la data (DD/MM) e l'ora (HH:MM) sono formate dalle stesse cifre nello stesso ordine. Ha anche chiamato un momento \emph{reverse-encased} quando l'ora è la data scritta in ordine inverso  ad esempio, il 21/06 alle 06:21. Dal momento che il 2015 non è un anno bisbalto, quanti momenti chiusi ci sono dal 01/01/2015 alle 00:00 al 31/12/2015 alle 23:59?
+> 
+> (A) 365 \quad (B) 455 \quad (C) 465 \quad (D) 629 \quad (E) 699
+
+**Risposta:** C
+[[src_obm_2015_n3_f1__Q10]]

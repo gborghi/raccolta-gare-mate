@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2008 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2008__Q14
 parent: src_bocconi_semifinale_2008
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2008
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area totale di quadrato con decoupages di rettangoli*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $1 - 3 - 4 \text{ cm}^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total square area with decoupages of rectangles*
+
+> In a square sheet, the side of which measures an integer of centimetres greater than or equal to 3, the largest possible number of rectangles of cm $2$ per cm $3$ shall be cut. If one or more pieces remain, what is their total area? Note: the question allows for more than one solution. We have to point them all out.
+
+**Answer:** $1 - 3 - 4 \text{ cm}^2$
+[[src_bocconi_semifinale_2008__Q14]]

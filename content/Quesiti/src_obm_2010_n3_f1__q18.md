@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q18
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Chocolate bar game; choose Elias's first cut so Fabio ends with the peanut piece.*
 
@@ -59,3 +62,21 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Gioco della barra di cioccolato; scegli il primo taglio di Elias così Fabio termina con il pezzo di arachidi.
+
+> La figura rappresenta una barra di cioccolato che ha una arachidica in un solo pezzo. Elias e Fábio condivideranno il cioccolato, ma nessuno vuole la arachidica. Decidono di dividere il cioccolato rompendolo lungo le sue linee rette, orizzontale o verticale, ogni volta rompendo e gettando via un pezzo e mantenendo il resto, alternando chi rompe; chi lascia l'altro con solo il pezzo che contiene la arachidica perde (cioè Il perdente è colui che rimane con la arachidica). Elias inizia la divisione. Qual dovrebbe essere la prima divisione di Elias per garantire che Fábio finisca con la arachidica alla fine?
+>
+> - **(A)** Scegli la prima colonna a sinistra.
+> - **(B)** Scegli le prime due righe dall'alto.
+> - **(C)** Scegli la terza fila, dall'alto in basso.
+> - **(D)** Scegli le ultime due righe dal basso.
+> - **(E)** Qualsiasi taglio, visto che Fábio finirà inevitabilmente con la arachidica.
+
+![[src_obm_2010_n3_f1__Q18.png]]
+
+[[src_obm_2010_n3_f1__Q18]]

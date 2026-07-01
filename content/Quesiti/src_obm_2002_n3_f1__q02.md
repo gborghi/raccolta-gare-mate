@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q02
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find p+q for the irreducible fraction equal to a repeating-decimal ratio plus 2*
 
@@ -50,3 +53,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca p+q per la frazione irriducibile uguale a un rapporto decimale ripetitivo più 2*
+
+> Se $\dfrac{p}{q}$ è la frazione irriducibile equivalente a $\dfrac{6{,}888\ldots}{2{,}444\ldots}+2$, il valore di $p+q$ è uguale a: (A) 38 (B) 39 (C) 40 (D) 41 (E) 42
+
+**Risposta:** E
+[[src_obm_2002_n3_f1__Q02]]

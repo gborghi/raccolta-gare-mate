@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Biennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_biennio__Q04
 parent: src_archimede_2009_biennio
 competition: Giochi di Archimede 2009 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scelte di n perche pulce torni al 12 dopo 12 salti*
 
@@ -50,3 +53,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Select n because the fly returns to 12 after 12 jumps
+
+> A flea is on the number 12 of a watch's dial. Choose a natural number n between 1 and 12, extremes included, and start to make jumps of n numbers on the dial, in the clockwise direction (if for example n = 3, after the first jump is on 3, after the second is on 6 and so on). After 12 jumps, he finds himself on the number 12 of the dial for the first time. How many different ways can you have chosen n?
+>
+> - **(A)** 1,
+> - **(B)** 2,
+> - **(C)** 4,
+> - **(D)** 6,
+> - **(E)** 12.
+
+**Answer:** C
+[[src_archimede_2009_biennio__Q04]]

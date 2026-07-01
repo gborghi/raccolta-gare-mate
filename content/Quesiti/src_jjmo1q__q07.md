@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2003 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo1q__Q07
 parent: src_jjmo1q
 competition: Japan Junior Mathematical Olympiad 2003
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all possible integer side lengths of a convex polygon when one side is 18*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le lunghezze laterali possibili di un poligono convexo quando un lato è 18*
+
+> Considera un poligono convex le cui lunghezze laterali sono tutti integri positivi, e in cui un lato ha lunghezza $18$. Trova tutti i valori che possono verificarsi come lunghezza laterale di un tale poligono (cioè, trova tutti gli enti positivi che possono essere la lunghezza di qualche lato).
+
+[[src_jjmo1q__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q05
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di cestini con 42,60,90 frutti (MCD)*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of baskets with 42,60.90 fruit (MCD)
+
+> Mary picked 42 apples, 60 peas and 90 cherries. He wants to divide the fruits into baskets of identical content, using them all. How many baskets can it make up? A) 3
+> 	
+> B) 6
+> 	
+> C) 10
+> 	
+> D) 14
+> 	
+> E) 42
+
+**Answer:** B
+[[src_kangourou_2018_junior_marzo__Q05]]

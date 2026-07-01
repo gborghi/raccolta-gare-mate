@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Junior (gara marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior__Q05
 parent: src_kangourou_2012_junior
 competition: Kangourou 2012 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale espressione varia sostituendo 8*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10sLfL5qogEtbnCvXq5RzSuBk2BAcwRf1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which expression varies by replacing 8*
+
+> In four of the following expressions, the number 8 can be replaced by any positive number without altering the result. What is the expression for which this does not occur? A) (8 + 8 – 8) : 8 B) 8 + (8 : 8) – 8 C) 8 : (8 + 8 + 8) D) 8 – (8 : 8) + 8 E) 8 × (8 : 8) : 8
+
+**Answer:** D
+[[src_kangourou_2012_junior__Q05]]

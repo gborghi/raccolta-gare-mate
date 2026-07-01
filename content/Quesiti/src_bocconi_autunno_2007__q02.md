@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2007 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2007__Q02
 parent: src_bocconi_autunno_2007
 competition: Giochi d'Autunno 2007
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra nascosta dalle macchie nella moltiplicazione*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Hidden number by stains in multiplication*
+
+> Sara, who still can't use her new stylography well, unfortunately stained the arithmetic book. But the spots are strange: although they are different in shape, they always hide the same figure. What kind? $$(\blacksquare \times 3) + (\blacksquare \times \bullet) = \blacksquare\blacksquare$$
+
+![[src_bocconi_autunno_2007__Q02.png]]
+
+**Answer:** 8
+[[src_bocconi_autunno_2007__Q02]]

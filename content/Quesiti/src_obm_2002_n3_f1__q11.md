@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q11
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Group of doctors and lawyers: deduce relation from given arithmetic means of ages*
 
@@ -54,3 +57,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gruppo di medici e avvocati: dedurre la relazione da un determinato mezzo aritmetico di età*
+
+> La media aritmetica dell'età di un gruppo di medici e avvocati è di 40 anni. La media aritmetica dell'età dei medici è di 35 anni e quella degli avvocati di 50 anni. Possiamo quindi affermare:
+>
+> - **(A)** Il numero di avvocati è il doppio del numero di medici del gruppo.
+> - **(B)** Il numero dei medici è il doppio del numero degli avvocati del gruppo.
+> - **(C)** Ci sono due più medici che avvocati nel gruppo.
+> - **(D)** Ci sono due avvocati in più dei medici nel gruppo.
+> - **(E)** Nel gruppo ci sono medesimi medici e avvocati.
+
+**Risposta:** B
+[[src_obm_2002_n3_f1__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q06
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo naturale con 11 divisori (sgarzulino)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1024
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Natural minime with 11 dividers (scarp) < MSK1/>
+
+> Cucciolo calls sgarzulini the natural numbers formed only by digits 1. How many digits has the smallest prime number greater than 1 such that the number of its prime divisors is a prime number?
+
+**Answer:** 1024
+[[src_gs_2012_squadre__Q06]]

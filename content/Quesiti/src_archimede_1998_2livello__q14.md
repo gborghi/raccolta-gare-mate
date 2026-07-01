@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1998 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_2livello__Q14
 parent: src_archimede_1998_2livello
 competition: Archimede Gara 2º livello 1998
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio x della circonferenza media tangente con due tangenti comuni*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*X radius of the tangent mean circumference with two common tangents*
+
+![[src_archimede_1998_2livello__prob14.png]]
+
+> Three radii $C_R$, $C_x$, $C_r$, $R$, $x$ and $r$, respectively, have the centers aligned. It is known that $C_R$ and $C_r$ are external tangents to $C_x$ and that the three circumferences have two external tangents in common as shown in Figure 1. Note $r$, $R$, how much is $x$?
+> 
+> (A) $\dfrac{R+r}{2}$ \quad (B) $\sqrt{Rr}$ \quad (C) $\sqrt{R^2 - r^2}$ \quad (D) $\dfrac{1}{1/r + 1/R}$ \quad (E) none of the above.
+> 
+> (see figure)
+
+**Answer:** B
+[[src_archimede_1998_2livello__Q14]]

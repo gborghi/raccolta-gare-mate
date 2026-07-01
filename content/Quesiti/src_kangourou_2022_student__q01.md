@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q01
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale non rappresenta l'uso*
 
@@ -76,3 +79,34 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> which does not represent the use< MSK1/>
+
+![[src_kangourou_2022_student__prob1.png]]
+
+> On my smartphone, I've installed four apps: the weekly usage time of each of them is shown by a bar chart, organized in decreasing order of usage times. In the figure on the right, you can see the chart from last week. If this week I used two of the apps for exactly the same time last week and the other two only for half the time, which of the diagrams below cannot represent my use this week?
+>  
+> A) 68
+>   
+> B) 69
+>   
+> C) 70 D) 76 E) 77 3. Isabella is older than Charles and younger than Liliana. Edward is older than Isabella. What couple can be made by people of the same age? A) Charles and Edward B) Edward and Liliana C) Liliana and Charles D) Isabella and Liliana E) Edward and Isabella 4. The product of the digits of a 10-digit integer is 15. What is the sum of the 10 digits of the number? A) 8
+>   
+> B) 12
+>   
+> C) 15 D) 16 E) 20
+>   
+> E)
+>   
+> D)
+>   
+> C) B)
+>   
+> A)
+
+**Answer:** E
+[[src_kangourou_2022_student__Q01]]

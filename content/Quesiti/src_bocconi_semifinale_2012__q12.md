@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2012 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2012__Q12
 parent: src_bocconi_semifinale_2012
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2012
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Riempire la "E" magica con i numeri da 1 a 10 (5 già posto) rispettando somme e ordinamenti; trovare la prima riga.*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Due soluzioni: $1 - 7 - 8$ e $2 - 6 - 9$.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fill the magic "E" with the numbers 1 to 10 (5 already placed) respecting sums and orders; find the first line.*
+
+> A magical "E"
+> 
+> Use all integers from 1 to 10 (the 5 has already been used) to fill the "E" boxes in the figure in such a way that: the sums of the numbers in the two three-box rows, those in the two-box row and those in the five-box column are always the same; in each of the two three-box rows and the two-box row the numbers are ordered increasingly from left to right.
+> 
+> What are the numbers on the first line?
+
+![[src_bocconi_semifinale_2012__Q12.png]]
+
+**Answer:** Due soluzioni: $1 - 7 - 8$ e $2 - 6 - 9$.
+[[src_bocconi_semifinale_2012__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale A — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_a__Q06
 parent: src_gas_2010_semifinale_a
 competition: Gara a Squadre 2010 - Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo a con a^2+100a+1 quadrato perfetto*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1200
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum a with a^2+100a+1 perfect square< MSK1/>
+
+> Maximize it! When beautiful Elizabeth Somm ends up a prisoner of Bourbakossa, she invokes the maximiser to be spared, but finds with regret that to make it effective with real π-rates, she is asked to find the largest positive integer such that a2 +100a+1 is a perfect square. What's the answer?
+
+**Answer:** 1200
+[[src_gas_2010_semifinale_a__Q06]]

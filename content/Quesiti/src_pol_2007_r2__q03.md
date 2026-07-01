@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r2__Q03
 parent: src_pol_2007_r2
 competition: Olimpiade Matematica Polacca 2007 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equilateral triangle tiled by n^2 small triangles with two-colored faces; determine for which n an initial position allows infinitely many moves.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LZVQNRmXGjFMUK1nE7-wezK2nSuE5Pma/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo equalaterale di n^2 piccoli triangoli con facce a due colori; determinare per quale n una posizione iniziale consente infiniti movimenti.*
+
+> Un triangolo equilaterale di lato $n$ è composto da piastrelle triangolari equilaterali di lato $n^2$. Ogni piastrella ha un lato bianco e l'altro nero. Una mossa consentita è la seguente: scegliere una piastrella $P$ che abbia un lato comune con almeno altre due piastrelle la cui faccia superiore è di colore diverso da quello di $P$; poi girare $P$. Per ciascuna $n\ge 2$ determinare se esiste una posizione iniziale che consente infinite mosse di questo tipo.
+
+[[src_pol_2007_r2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale nazionale Junior — Quesito J6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_finale__QJ6
 parent: src_kangourou_2019_junior_finale
 competition: Kangourou 2019 Finale nazionale Junior
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Circocentro di AEF giace sulla semiretta AB (triangolo acutangolo ortocentro)*
 
@@ -38,3 +41,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>AEF circle lies on the semicircle AB (acute triangle orthocentric) < MSK1/>
+
+![[src_kangourou_2019_junior_finale__probJ6.png]]
+
+> $ABC$ is an orthocentric triangle $H$, with the side $AB$ longer than the side $AC$; denotes with $E$ the symmetrical point of $C$ with respect to the height of $A$ and with $F$ the intersection of the passing line for $E$ and $H$ with the passing line for $A$ and $C$. It shows that the circumcenter of the $AEF$ triangle lies on the semicircle exiting $A$ and passing through $B$.
+
+[[src_kangourou_2019_junior_finale__QJ6]]

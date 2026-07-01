@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2021 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2021__Q10
 parent: src_ioqm_2021
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2021
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Polynomial of least degree with integer coefficients satisfying P(sqrt(7)+sqrt(5))=2(sqrt(7)-sqrt(5)); find P(2)*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomio di grado minimo con coefficienti interi che soddisfano P(sqrt(7)+sqrt(5))=2(sqrt(7)-sqrt(5)); trovare P(2)*
+
+> Supponiamo che $P$ sia il polinomio di grado minimo con coefficienti interi tali che $$P(\sqrt{7} + \sqrt{5}) = 2(\sqrt{7} - \sqrt{5})$$ Trova $P(2)$.
+
+[[src_ioqm_2021__Q10]]

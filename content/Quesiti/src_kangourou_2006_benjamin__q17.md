@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q17
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di colorare cubo 3 facce blu 3 rosse*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How to colour cube 3 faces blue 3 red< MSK1/>
+
+> You have a cube and you want to color three faces blue and three faces red. How many different ways can you do that? (Two cubes are differently coloured if, however one is turned, the other cannot be obtained.) A) 1 B) 2 C) 3 D) 4 E) 5
+
+**Answer:** B
+[[src_kangourou_2006_benjamin__Q17]]

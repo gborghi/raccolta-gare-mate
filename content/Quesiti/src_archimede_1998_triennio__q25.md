@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Triennio — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_triennio__Q25
 parent: src_archimede_1998_triennio
 competition: Giochi di Archimede 1998 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero non divide 100 fattoriale*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XQf05xPyRtLr_1_6RGbuqhn4vSdYrV3u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which number does not divide 100 by factor*
+
+> Which of the following numbers does NOT divide 100? (Remember that 100! = 100 · 99 · 98 · · 3 · 2 · 1)?
+>
+> - **(A)** 1968
+> - **(B)** 1988
+> - **(C)** 1998
+> - **(D)** 2008
+> - **(E)** 2048.
+
+**Answer:** D
+[[src_archimede_1998_triennio__Q25]]

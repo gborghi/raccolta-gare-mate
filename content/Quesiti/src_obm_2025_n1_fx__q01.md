@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2025_n1_fx__Q01
 parent: src_obm_2025_n1_fx
 competition: Olimpíada Brasileira de Matemática 2025 — Nível 1 — Fase x
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Years whose last two digits divide the year exactly: find the next three after 2025, and count them between 1900 and 1999.*
 
@@ -53,3 +56,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BAsW5wUtp8e4eUtIjSrr-GeYtmuXz4Ok/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Anni le cui ultime due cifre dividono esattamente l'anno: trovare le tre successive dopo il 2025, e contarle tra il 1900 e il 1999.*
+
+> Un anno $A$ viene chiamato *inteiro* (intero) quando le sue ultime due cifre non sono entrambe $0$ e il numero formato dalle ultime due cifre di $A$ divide esattamente $A$, cioè dà un risultato intero. Ad esempio, $2025$ e $2002$ sono anni interi, poiché $\frac{2025}{25}=81$ e $\frac{2002}{2}=1001$ sono numeri interi. D'altra parte, $2000$ e $2003$ non sono anni interi, poiché $2000$ termina in $00$ e $\frac{2003}{3}$ non è un numero intero.
+> 
+> (a) Quali sono i prossimi tre anni interi dopo < MSK0/>? Giustifica la tua risposta.
+> 
+> b) Quanti anni interi esistono tra < MSK0/> e < MSK1/>? Giustifica la tua risposta.
+
+[[src_obm_2025_n1_fx__Q01]]

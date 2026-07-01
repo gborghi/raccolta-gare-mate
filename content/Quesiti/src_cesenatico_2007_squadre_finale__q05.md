@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q05
 parent: src_cesenatico_2007_squadre_finale
 competition: Gara a Squadre Cesenatico 2007 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo del massimo in quintetto su spirale 5x5 senza riga/colonna*
 
@@ -74,3 +77,17 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum of the maximum in a 5x5 spiral quintet without row/column*
+
+![[src_cesenatico_2007_squadre_finale__prob5.png]]
+
+> Spirals of force The 25 Grandin of the village of Retta have arranged themselves in spirals, as shown in the figure, where the numbers correspond to their life force. If you select a team of five moreninja so that there are never two of them on the same line or column, what is the minimum possible value of the life force of the strongest moreninja in the quintet, varied by all possible choices? 1 16 15 14 13 2 17 24 23 12 3 18 25 22 11 4 19 20 21 10 5 6 7 8 9 Team competition 2007  National final  Problem texts  Pag. 1 di 4
+> 
+> I'm going to pay. 2 out of 4  Team competition 2007  National final  Problem texts
+
+[[src_cesenatico_2007_squadre_finale__Q05]]

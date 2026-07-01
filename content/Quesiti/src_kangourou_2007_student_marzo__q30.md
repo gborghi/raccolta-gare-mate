@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Student (marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q30
 parent: src_kangourou_2007_student_marzo
 competition: Kangourou 2007 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che Carlo vinca (dado a turni)*
 
@@ -74,3 +77,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The probability of Carlo winning (given in turns)
+
+> Anna, Linda and Carlo play by throwing a single dice. Anna wins if she gets 1, 2 or 3, Linda wins if she gets 4 or 5, and Carlo only wins if he gets 6. The turn goes from Anna to Linda to Carlo and again to Anna, etc., until one of the players wins. The probability of Charles winning is A) 1/6 B) 1/8 C) 1/11 D) 1/13 E) 1/18 1 2 3 5 2 3 4 5 4 1 1 2 1 3 5 4 3 2 2 1 5 4 3
+> 
+>  
+> 1 Student category For students of the last two years of secondary school
+
+**Answer:** D
+[[src_kangourou_2007_student_marzo__Q30]]

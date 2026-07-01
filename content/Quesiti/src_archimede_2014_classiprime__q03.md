@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2014 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_classiprime__Q03
 parent: src_archimede_2014_classiprime
 competition: Gara Nazionale Classi Prime 2014
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tentativi minimi per cassaforte con una cifra cambiata*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1n3w-XtaAUypQE2nORLZ0vfSweJgCFb2P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum attempts for cash registers with a changed number*
+
+> A thief must break into a safe and find, a week before the theft, that the combination is 06108. Unfortunately, the day before the theft he learns that one of the numbers in the combination (we don't know which) has been changed. What's the minimum number of attempts you have to make to make sure you open the safe? A 45 B 5 C 10 D 9 E 25 F 55
+
+**Answer:** A
+[[src_archimede_2014_classiprime__Q03]]

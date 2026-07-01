@@ -1,6 +1,7 @@
 ---
 title: IMO 1971 (Thirteenth International Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1971_all__Q06
 parent: src_imo_1971_all
 competition: IMO 1971 (Thirteenth International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Nonnegative-integer matrix with zero-sum condition has sum>=n^2/2*
 
@@ -33,3 +36,13 @@ tags:
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G3xuJh9jK0udAQodK6Y_oI38SeH_O9JK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Nonnegative-integer matrix with zero-sum condition has sum>=n^2/2*
+
+> Let $A = (a_{ij}),\ i,j = 1, 2, \ldots, n$ be a square matrix whose elements are non-negative integers. Suppose that whenever an element $a_{ij} = 0$, the sum of the elements in the $i$th row and the $j$th column is $\geq n$. Prove that the sum of all the elements of the matrix is $\geq n^2/2$.
+
+[[src_imo_1971_all__Q06]]

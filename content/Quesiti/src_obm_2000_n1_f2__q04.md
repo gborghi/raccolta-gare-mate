@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f2__Q04
 parent: src_obm_2000_n1_f2
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Place integers 1–10 in star; each row of 4 in increasing or decreasing order*
 
@@ -54,3 +57,21 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qZOH-LlPfV09ybTQlFoTrTk4Wq25FjPn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Posizionare gli integri 110 in stella; ogni riga di 4 in ordine crescente o diminuente*
+
+> Desideriamo scrivere i numeri interi da $1$ a $10$ nei dieci cerchi del diagramma stellare di seguito in modo che tutti i quattro numeri allineati lungo la stessa linea della stella appaiano in ordine crescente o decrescente.
+> 
+> a) dimostrare che è possibile organizzare i numeri che soddisfano queste condizioni.
+> 
+> b) Quali numeri possono apparire alle estremità (punti esterni) della stella?
+> 
+> c) Quali numeri possono apparire nelle altre cinque posizioni?
+
+![[src_obm_2000_n1_f2__Q04.png]]
+
+[[src_obm_2000_n1_f2__Q04]]

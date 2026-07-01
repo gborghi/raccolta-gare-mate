@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2012-13 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2012-13_round2__Q04
 parent: src_bmo_2012-13_round2
 competition: British Mathematical Olympiad 2012-13 — Round 2
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Can PA, PB, PC, PD and AB all be integers for P on inscribed circle of square ABCD?*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6MLouVC9Fv33gZl2XU4wc2GFJ11WgBk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Possono PA, PB, PC, PD e AB essere tutti integri per P sul cerchio di ABCD quadrato?*
+
+> Supponiamo che $ABCD$ sia un quadrato e che $P$ sia un punto che si trova sul cerchio inserito nel quadrato. Determinare se è possibile che $PA$, $PB$, $PC$, $PD$ e $AB$ siano tutti numeri interi.
+
+[[src_bmo_2012-13_round2__Q04]]

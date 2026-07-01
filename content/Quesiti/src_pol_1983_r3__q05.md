@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1983 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1983_r3__Q05
 parent: src_pol_1983_r3
 competition: Olimpiade Matematica Polacca 1983 — Round 3
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given three plane unit vectors a1,a2,a3, show one can choose c1,c2,c3 in {-1,1} so that the length of c1*a1+c2*a2+c3*a3 is at least 2.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11T0teEgsTglF6JeBb0ta-iaqOX3phPMX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dati tre vettori di unità di piano a1,a2,a3, mostrare che si può scegliere c1,c2,c3 in {-1,1} in modo che la lunghezza di c1*a1+c2*a2+c3*a3 sia almeno 2.*
+
+> Sul piano sono dati i vettori unitari $\vec{a}_1, \vec{a}_2, \vec{a}_3$. Mostra che si possono scegliere numeri $c_1, c_2, c_3 \in \{-1, 1\}$ in modo che la lunghezza del vettore $c_1\vec{a}_1 + c_2\vec{a}_2 + c_3\vec{a}_3$ sia almeno $2$.
+
+[[src_pol_1983_r3__Q05]]

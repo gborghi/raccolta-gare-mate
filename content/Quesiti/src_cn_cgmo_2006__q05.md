@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2006 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2006__Q05
 parent: src_cn_cgmo_2006
 competition: China Girls' Mathematical Olympiad 2006
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the minimum size of a finite set T of integer points such that for every point P in S there is a distinct point Q in T with segment PQ containing no other integer points.*
 
@@ -48,3 +51,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova la dimensione minima di un insieme finito di punti interi T in modo tale che per ogni punto P in S ci sia un punto Q distinto in T con segmento PQ che non contiene altri punti interi.*
+
+> Let < MSK0/>. Il $T$ deve essere l'insieme di punti interi del piano in modo tale che per qualsiasi punto $P$ in $S$ esista un punto diverso $Q$ in $T$ in modo tale che il segmento di linea $PQ$ non contenga punti interi tranne $P$ e $Q$. Trova il valore minimo di $|T|$, dove $|T|$ indica il numero di elementi del set finito $T$.
+
+[[src_cn_cgmo_2006__Q05]]

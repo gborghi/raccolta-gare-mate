@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1999 - Triennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_triennio__Q16
 parent: src_archimede_1999_triennio
 competition: Giochi di Archimede 1999 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante radici reali di una equazione esponenziale*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many real roots of an exponential equation *
+
+> How many real roots does the equation 9 −2x = 23−x have?
+>
+> - **(A)** Two
+> - **(B)** more than two, but a finite number
+> - **(C)** None of them.
+> - **(D)** Endless
+> - **(E)** One of them.
+
+**Answer:** A
+[[src_archimede_1999_triennio__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q02
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale pentagono sostituisce il bianco per curva autointersecante*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which pentagon replaces white for self-intersecting curve*
+
+![[src_kangourou_2024_student__prob2.png]]
+
+> Look at the figure: seven congruent pentagons, each with two internal 90 degree angles, surround an eighth white pentagon, similar to the previous ones. Which of the following pentagons can be replaced with the white one (perhaps by rotating it, but not by flipping it) so that only a single black curve that intersects itself is left in place? A)                 B)               C) D)               E)
+
+**Answer:** C
+[[src_kangourou_2024_student__Q02]]

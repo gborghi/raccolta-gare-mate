@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo15yq_yosen__Q12
 parent: src_jjmo15yq_yosen
 competition: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min a in 256-player single-elimination tournament won by player 1*
 
@@ -52,3 +55,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 44
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Min a in un torneo di eliminazione singola di 256 giocatori vinto da un giocatore 1*
+
+> Un totale di giocatori < MSK0/> hanno partecipato a un torneo di tennis di singola eliminazione. In questo torneo il campione è deciso come segue. In primo luogo, tutti i giocatori si allineano in una sola riga. \item Ripetere il seguente fino a quando non rimane solo un giocatore nella fila: prendere i giocatori nella fila in ordine, due alla volta da una estremità, formando coppie, e avere i due giocatori di ciascuna coppia giocare una partita. Il vincitore di ogni partita rimane in fila, mentre il perdente lascia la fila. Supponiamo che non si verifichino. Quando rimane solo un giocatore in fila, quel giocatore è il campione. A ogni giocatore viene assegnato un numero intero distinto da $1$ a $256$, e il campione di questo torneo aveva il numero $1$. Per un determinato numero intero $a$, è tenuto il seguente: in ogni partita giocata durante il torneo, lasciando $w$ il numero del giocatore vincente e $l$ il numero del giocatore perdente, $l - w \le a$ è tenuto. Trova il valore più piccolo di $a$ che può essere considerato tale.
+
+**Risposta:** 44
+[[src_jjmo15yq_yosen__Q12]]

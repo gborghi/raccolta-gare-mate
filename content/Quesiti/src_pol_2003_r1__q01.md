@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2003 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2003_r1__Q01
 parent: src_pol_2003_r1
 competition: Olimpiade Matematica Polacca 2003 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer pairs (x,y) with (x+y)^2-2(xy)^2=1.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di numeri interi positivi (x,y) con (x+y) ^2-2(xy) ^2=1.*
+
+> Trovare tutte le coppie di integri positivi $x$, $y$ tali da $(x+y)^2-2(xy)^2=1$.
+
+[[src_pol_2003_r1__Q01]]

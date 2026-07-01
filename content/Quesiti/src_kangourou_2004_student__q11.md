@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q11
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadrati con vertice in (-1,-1) e asse di simmetria*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Squares with vertices in (-1,-1) and axes of symmetry*
+
+> Consider the Cartesian plan. How many squares have a vertex in (-1,-1) such that at least one of the coordinate axes is the axis of symmetry of the square itself? A) 2 B) 3 C) 4 D) 5 E) 6
+
+**Answer:** D
+[[src_kangourou_2004_student__Q11]]

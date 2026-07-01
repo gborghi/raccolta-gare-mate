@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (gara marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q15
 parent: src_kangourou_2017_benjamin_marzo
 competition: Kangourou 2017 Benjamin (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero massimo a 7 cifre cancellando 24 cifre*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of 7 digits by deleting 24 digits*
+
+> Tom writes all the numbers from 1 to 20 on the same line and gets the 31-digit number: 1234567891011121314151617181920. Then delete 24 of the 31 digits so that the number that remains written (leaving the digits in the order in which they are) is as large as possible. What number is this? A) 9671819 B) 9567892 C) 9781920 D) 9912345 E) 9818192
+
+**Answer:** C
+[[src_kangourou_2017_benjamin_marzo__Q15]]

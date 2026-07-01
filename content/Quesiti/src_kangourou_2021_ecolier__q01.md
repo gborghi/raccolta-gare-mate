@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - gara marzo — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier__Q01
 parent: src_kangourou_2021_ecolier
 competition: Kangourou 2021 Ecolier - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubo componibile con 4 mattoni identici*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cube composed of 4 identical bricks*
+
+![[src_kangourou_2021_ecolier__prob1.png]]
+
+> Henry has the four bricks, identical in size, which you can see in the figure: Which of the cubes shown below can it compose? A) B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** C
+[[src_kangourou_2021_ecolier__Q01]]

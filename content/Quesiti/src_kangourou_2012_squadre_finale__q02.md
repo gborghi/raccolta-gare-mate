@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre finale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q02
 parent: src_kangourou_2012_squadre_finale
 competition: Kangourou 2012 squadre finale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Aumento percentuale area triangolo con lati +20%*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 44
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Percentage increase in area of triangle with sides +20%< MSK1/>
+
+> Greener than that! A park occupies a triangular area. To increase its area, it is decided to increase the length of each side by 20%. What percentage of the area is increased?
+
+**Answer:** 44
+[[src_kangourou_2012_squadre_finale__Q02]]

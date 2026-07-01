@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q13
 parent: src_cesenatico_2007_squadre_finale
 competition: Gara a Squadre Cesenatico 2007 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di x che massimizza lunghezza successione a_n=a_(n-2)-a_(n-1)*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of x which maximizes length of succession a_n=a_(n-2)-a_(n-1) *
+
+> Today, Numeruto's team is facing a rather unique mission. The three find themselves considering the succession of natural a1 = 1000, a2 = x, a3 = a1−a2, . . . , an = an−2−an−1. The sequence ends with the first negative. What value of x should Numeruto's team trace to get the longest sequence?
+> 
+> Team competition 2007  National final  Problem texts  Pag. 3 di 4
+
+[[src_cesenatico_2007_squadre_finale__Q13]]

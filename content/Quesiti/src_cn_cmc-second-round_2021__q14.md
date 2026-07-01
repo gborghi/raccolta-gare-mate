@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Second Round) 2021 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-second-round_2021__Q14
 parent: src_cn_cmc-second-round_2021
 competition: China Mathematical Competition (Second Round) 2021
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Round-robin of 9 teams: determine if T3 can beat T4 and vice versa*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (1) No; (2) Yes
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rondino di 9 squadre: determinare se T3 può battere T4 e viceversa*
+
+> (Test Paper B1, Problem 4) 9 squadre di calcio giocano un singolo torneo di round-robin (ogni due squadre giocano una volta). In ogni partita, il vincitore ottiene 1 punto, il perdente ottiene 0 punti e ogni squadra ottiene 0,5 punti per un pareggio. Dopo il torneo, si scopre che le 9 squadre hanno punti diversi l'una dall'altra. Le 9 squadre sono registrate come $T_1, T_2, \ldots, T_9$, in ordine decrescente di punti. È noto che la squadra $T_1$ ha un record di 1 vittoria, 3 pareggio e 5 perdite. (1) È possibile che $T_3$ vinca contro $T_4$? (2) È possibile che $T_4$ vinca contro $T_3$?
+
+**Risposta:** (1) No; (2) Yes
+[[src_cn_cmc-second-round_2021__Q14]]

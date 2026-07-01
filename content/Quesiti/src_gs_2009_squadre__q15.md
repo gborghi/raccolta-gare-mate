@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2009 - Gara a squadre — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2009_squadre__Q15
 parent: src_gs_2009_squadre
 competition: Coppa Fermat 2009 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Templi di Magrathea, colonne cocircolari (I)*
 
@@ -48,3 +51,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 88
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Magrathea templates, co-circular columns (I) < MSK1/>
+
+![[src_gs_2009_squadre__prob15.png]]
+
+> On Magrathea it is known that in the distant past many temples were built, rectangular in honor of the Sun Soulianis, and circular in honor of the other Sun Rahm.
+> 
+> Excavating in an archaeological area, remains of nine columns are unearthed. The archaeologists determine precisely the positions of their centers: 7 are on the perimeter of a large rectangle (100m by 11.44m), occupying the 4 vertices plus 3 other points; 6 are on the perimeter of a smaller rectangle (14.3m by 6m), occupying the 4 vertices plus 2 other points  necessarily 4 of these points belong to both perimeter. The two rectangles have no parallel sides.
+> 
+> Furthermore, it is observed that one long side of the small rectangle has both ends on the perimeter of the large rectangle, one overlapping with a vertex, and the other not. The long side instead has both vertices outside the large rectangle.
+> 
+> Archaeologists are trying to determine if they have found traces of a circular temple dedicated to the sun Rahm. To find traces of them with a better chance of success, they decide to dig out all those circular grooves that pass through at least four of the nine columns they have already found.
+> 
+> Once you have identified the circles that the archaeologists intend to dig, you count for each of the 9 columns how many of these circles it belongs to; you give the sum of the product of those 9 numbers with the sum of those 9 numbers as the answer.
+
+**Answer:** 88
+[[src_gs_2009_squadre__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1989 (XXX International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1989__Q06
 parent: src_imho_1989
 competition: IMO 1989 (XXX International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Permutations of {1,...,2n} with property P outnumber those without*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sk-efc-mwhR5BwDwMNgxb2B7hijJwGY8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Permutations of {1,...,2n} with property P outnumber those without*
+
+> A permutation $(x_1, x_2, \ldots, x_{2n})$ of the set $\{1, 2, \ldots, 2n\}$, where $n$ is a positive integer, is said to have property $P$ if $|x_i - x_{i+1}| = n$ for at least one $i$ in $\{1, 2, \ldots, 2n-1\}$. Show that, for each $n$, there are more permutations with property $P$ than without.
+
+[[src_imho_1989__Q06]]

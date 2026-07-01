@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q16
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ways to draw three-triangle figure without lifting pencil from P*
 
@@ -54,3 +57,21 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Modi per disegnare la figura triangolare senza sollevare la matita da P*
+
+> In quanti modi è possibile disegnare la figura seguente senza sollevare la matita dalla carta (o qualsiasi altro utensili, se preferite!) partendo da $P$ e senza superare più di una volta lo stesso punto, ad eccezione del punto comune ai tre triangoli?
+>
+> - **(A)** $48$
+> - **(B)** $24$
+> - **(C)** $16$
+> - **(D)** $108$
+> - **(E)** $27$
+
+![[src_obm_2010_n2_f1__Q16.png]]
+
+[[src_obm_2010_n2_f1__Q16]]

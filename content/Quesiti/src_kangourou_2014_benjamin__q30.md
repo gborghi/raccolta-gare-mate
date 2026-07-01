@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Benjamin — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin__Q30
 parent: src_kangourou_2014_benjamin
 competition: Kangourou 2014 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età minima di Aldo (10 età distinte somma 180)*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum age of Aldo (10 different ages sum 180)< MSK1/>
+
+> A grandmother has ten grandchildren: today their ages, in years, are ten different numbers, and their sum is 180. Of the ten grandchildren, Aldo is the eldest. How old does Aldo have to be at least today? A) 19
+> 	
+> B) 20
+> 	
+> C) 21
+> 	
+> D) 22
+> 	
+> E) 23
+> 
+> I'm going to take a look.
+
+**Answer:** E
+[[src_kangourou_2014_benjamin__Q30]]

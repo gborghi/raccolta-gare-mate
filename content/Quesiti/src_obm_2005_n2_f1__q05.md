@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q05
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *600-page book printed blank on pages whose number is a multiple of 3 or 4; count printed pages*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*libro di 600 pagine stampato in bianco su pagine il cui numero è un multiple di 3 o 4; contare le pagine stampate*
+
+> A causa di un difetto di stampa, un libro di $600$ pagine ha in bianco tutte le pagine i cui numeri sono multipli di $3$ o di $4$. Quante pagine sono stampate? A) $100$ \quad B) $150$ \quad C) $250$ \quad D) $300$ \quad E) $430$
+
+**Risposta:** D
+[[src_obm_2005_n2_f1__Q05]]

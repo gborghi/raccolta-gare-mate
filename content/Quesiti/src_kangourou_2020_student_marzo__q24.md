@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q24
 parent: src_kangourou_2020_student_marzo
 competition: Kangourou 2020 Student - gara marzo (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Superficie del giardino prima dell'ingrandimento*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Surface of the garden before enlargement*
+
+![[src_kangourou_2020_student_marzo__prob24.png]]
+
+> A rectangular garden has been enlarged by increasing the length of one side by 20% and the length of the other by 50%. The new garden is square. The area of the new garden, which lies between the diagonal of the old and the new garden, shaded in the figure, measures 30 m2. How many square feet did the garden cover before it was enlarged? A) 60
+> 	
+> B) 65
+> 	
+> C) 70
+> 	
+> D) 75
+> 	
+> E) 80
+
+**Answer:** D
+[[src_kangourou_2020_student_marzo__Q24]]

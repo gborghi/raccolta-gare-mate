@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f1__Q23
 parent: src_obm_2005_n3_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify which pair is NOT 'primanos' (in a 3-term all-prime AP)*
 
@@ -46,3 +49,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare quale coppia NON è 'primanos' (in un AP a tre termini) *
+
+> Due numeri interi sono chiamati $\textit{primanos}$ quando appartengono a una progressione aritmetica di tre termini primi. Ad esempio, i numeri $41$ e $59$ sono primani, perché appartengono alla progressione aritmetica $(41, 47, 53, 59)$ che contiene solo numeri primi. Tra le alternative di seguito, i due numeri che sono $\textbf{not}$ primanos sono: (A) $7$ e $11$ (B) $13$ e $53$ (C) $41$ e $131$ (D) $31$ e $43$ (E) $23$ e $41$
+
+[[src_obm_2005_n3_f1__Q23]]

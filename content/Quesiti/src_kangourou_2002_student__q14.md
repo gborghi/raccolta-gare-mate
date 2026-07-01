@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q14
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Incontri pareggiati nel torneo*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Matches drawn in the tournament*
+
+> Ten teams participate in a football tournament (each team plays all the others once and only once). At the end of each match, the winning team receives 3 points and the losing team receives 0 points. Adding up the total points from the ten teams, you get 130. How many matches ended in a draw?
+>  
+> A. 1 B. 2 C. 3 D. 4 E. 5
+
+**Answer:** E
+[[src_kangourou_2002_student__Q14]]

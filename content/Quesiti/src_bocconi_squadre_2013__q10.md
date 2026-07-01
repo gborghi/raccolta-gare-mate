@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q10
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto area zona scura e area cerchio grande*
 
@@ -41,3 +44,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{1}{3}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Report dark area and large circle area< MSK1/>
+
+> In the figure you see three circles, tangent two to two, whose radii are proportional to 1, 2 and 3.
+> 
+> What's the relationship between the area of the dark zone and that of the great circle?
+
+![[src_bocconi_squadre_2013__Q10.png]]
+
+**Answer:** $\frac{1}{3}$
+[[src_bocconi_squadre_2013__Q10]]

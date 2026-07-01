@@ -1,6 +1,7 @@
 ---
 title: IMO 2011 (LII International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2011__Q01
 parent: src_imho_2011
 competition: IMO 2011 (LII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Maximize value of s4 over four-element subsets of positive integers*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AgPUw9EsnOZUa380gcARqgMoP3LAb6KQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximize value of s4 over four-element sub-sets of positive integers*
+
+> Given any set $A = \{a_1, a_2, a_3, a_4\}$ of four distinct positive integers, we denote the sum $a_1 + a_2 + a_3 + a_4$ by $s_A$. Let $n_A$ denote the number of pairs $(i,j)$ with $1 \le i < j \le 4$ for which $a_i + a_j$ divides $s_A$. Find all sets $A$ of four distinct positive integers which achieve the largest possible value of $n_A$.
+
+[[src_imho_2011__Q01]]

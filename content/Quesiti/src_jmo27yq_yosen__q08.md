@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo27yq_yosen__Q08
 parent: src_jmo27yq_yosen
 competition: Japan Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length XE from two circumcircles meeting at X*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\dfrac{3\sqrt{30}}{5}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pjGraeHG4yF3Hf3bQovok6OpLhKRwh23/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza XE da due circoncircoli che si incontrano a X*
+
+> Sul lato $BC$ del triangolo $ABC$ ci sono due punti $D$ e $E$, con i quattro punti $B,D,E,C$ in questo ordine. Abbiamo $\angle BAD=\angle ACE$ e $\angle ABD=\angle CAE$. $X$ sia il secondo punto di intersezione (diverso da $A$) del circoncircolo del triangolo $ABE$ e del circoncircolo del triangolo $ADC$, e $F$ sia l'intersezione di $AX$ e $BC$. Date $BF=5$, $CF=6$ e $XD=3$, si trova la lunghezza del segmento $XE$. (Se la risposta contiene un radicale < MSK18/>, indicare il valore < MSK19/> sotto il radicale.)
+
+**Risposta:** $\dfrac{3\sqrt{30}}{5}$
+[[src_jmo27yq_yosen__Q08]]

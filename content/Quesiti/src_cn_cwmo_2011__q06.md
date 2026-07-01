@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2011 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2011__Q06
 parent: src_cn_cwmo_2011
 competition: China Western Mathematical Olympiad 2011
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer pairs (a,b) with n | a^n + b^(n+1) for all n*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le coppie di numeri interi (a,b) con n. a^n + b^(n+1) per tutti n *
+
+> Determinare, con la prova, tutte le coppie $(a, b)$ di enti interi, in modo tale che per qualsiasi numero intero positivo $n$ si abbia $n \mid (a^n + b^{n+1})$. (Possibile da Chen Yonggao)
+
+[[src_cn_cwmo_2011__Q06]]

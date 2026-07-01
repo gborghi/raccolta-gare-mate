@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f2__Q05
 parent: src_obm_2003_n2_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation f(x)-f(xy)=x/y+y/x: find f(1) and a formula for f(x)*
 
@@ -47,3 +50,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sARgZdHvMaU-7zLZ37YU31RP3OKsBQ1b/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale f ((x) - f ((xy) = x/y+y/x: trovare f ((1) e una formula per f ((x) *
+
+> $f : \mathbb{R}_+^* \to \mathbb{R}_+^*$ deve essere una funzione tale che $f(x) - f(xy) = \dfrac{x}{y} + \dfrac{y}{x}$, per qualsiasi $x$ e $y$. (a) Calcolare < MSK4/>. b) Trova una formula per < MSK5/>.
+
+[[src_obm_2003_n2_f2__Q05]]

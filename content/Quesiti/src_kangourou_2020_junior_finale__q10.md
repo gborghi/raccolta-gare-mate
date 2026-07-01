@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2020 Finale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_finale__Q10
 parent: src_kangourou_2020_junior_finale
 competition: Kangourou Coppa Junior squadre 2020 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei numeri flessibili AB*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0027
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1FHlXv6XSZu8CigCMt0qnx7UwdUaiE9UP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the flexible numbers AB*
+
+> Flexible numbers Let's say a two-digit (positive) integer AB is flexible if, when added to (A + B) 2, that is, squared of the sum of its digits, it gives the resulting number BA. How much is the sum of all the flexible numbers?
+
+**Answer:** 0027
+[[src_kangourou_2020_junior_finale__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2004 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2004__Q02
 parent: src_cn_cmc_2004
 competition: China Mathematical Competition 2004
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Range of b for ellipse line always intersecting*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rango di b per le linee di ellisse che si intersecano sempre*
+
+> Supponiamo che $M = \{(x,\, y) \mid x^2 + 2y^2 = 3\}$ e $N = \{(x,\, y) \mid y = mx + b\}$. Se $M \cap N \neq \varnothing$ per tutti $m \in \mathbf{R}$, $b$ prende i valori da ( ).
+> 
+> (A) $\left[-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right]$ \quad (B) $\left(-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right)$ \quad (C) $\left(-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right]$ \quad (D) $\left[-\dfrac{2\sqrt{3}}{3},\, \dfrac{2\sqrt{3}}{3}\right]$
+
+**Risposta:** A
+[[src_cn_cmc_2004__Q02]]

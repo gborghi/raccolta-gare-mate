@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2013 — Quesito
   4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2013__Q04
 parent: src_bocconi_finalenaz_2013
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2013
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spesa di Anna per quattro regali con vincoli di ricordo*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 515 Euro
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Anne's gift for four gifts with memory constraints
+
+> Anna bought four gifts for her four cousins. He didn't pay attention to expenses: as they say, he doesn't remember how much he spent for each. However, it should be recalled that for the first three he spent a total of 2013 euros; for the first, second and fourth he spent a total of 2031 euros; for the first, third and fourth he spent a total of 2103 euros while the total expenditure of gifts for the second, third and fourth cousin was 2301 euros.
+> 
+> How much did Anna spend on her first cousin?
+
+**Answer:** 515 Euro
+[[src_bocconi_finalenaz_2013__Q04]]

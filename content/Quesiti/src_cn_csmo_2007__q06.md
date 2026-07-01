@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2007 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2007__Q06
 parent: src_cn_csmo_2007
 competition: China Southeastern Mathematical Olympiad 2007
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest n so any positive-integer sequence summing to 2007 has consecutive terms summing to 30*
 
@@ -46,3 +49,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Limminum n quindi ogni sequenza di numeri interi positivi sommata al 2007 ha termini consecutivi sommati a 30*
+
+> Trovare il numero intero positivo più piccolo $n$ in modo tale che qualsiasi sequenza di numeri interi positivi $a_1, a_2, \cdots, a_n$ soddisfa $\sum_{i=1}^{n} a_i = 2007$ deve avere diversi termini consecutivi la cui somma è $30$.
+
+[[src_cn_csmo_2007__Q06]]

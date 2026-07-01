@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Ecolier (gara marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier__Q08
 parent: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di scatole per 66 uova*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of boxes for 66 eggs< MSK1/>
+
+> Boxing eggs can be done using boxes of 6 eggs and boxes of 12 eggs. What is the minimum number of boxes that can contain 66 eggs? A) 5 B) 6 C) 9 D) 11 E) 13 Questions from N. 9 al N. 16 is worth 4 points each.
+
+**Answer:** B
+[[src_kangourou_2011_ecolier__Q08]]

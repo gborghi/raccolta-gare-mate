@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2021 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2021__Q02
 parent: src_cn_csmo_2021
 competition: China Southeastern Mathematical Olympiad 2021
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with AB=BC; prove orthocenter is incentre of related triangle*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con AB=BC; dimostrare che l'ortocentro è incentro del triangolo correlato*
+
+> In $\triangle ABC$, $AB = BC$. $O$ e $H$ siano rispettivamente il circondario e l'ortocentro di $\triangle ABC$. $G$ sia il punto medio di $AH$ e $BE$ sia l'altitudine da $B$ a $AC$. Prove che se $OE \parallel BC$, allora $H$ è l'incentro di $\triangle GBC$.
+
+[[src_cn_csmo_2021__Q02]]

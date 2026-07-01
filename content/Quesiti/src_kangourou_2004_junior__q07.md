@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior (18 marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior__Q07
 parent: src_kangourou_2004_junior
 competition: Kangourou 2004 Junior (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In che scala e la mappa*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What scale and map*
+
+> The floor of a shed is rectangular in shape with sides of 40 meters and 60 meters. The same floor is shown on a map as a rectangle whose perimeter measures (on the map) 100 centimeters. What's the scale on the map? A) 1:50       B) 1:100       C) 1:150      D) 1:160     E) 1:200
+
+**Answer:** E
+[[src_kangourou_2004_junior__Q07]]

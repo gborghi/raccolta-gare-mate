@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Finale (risposta aperta) — Quesito B1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin_finale__QB1
 parent: src_kangourou_2023_benjamin_finale
 competition: Kangourou 2023 Benjamin — Finale (risposta aperta)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distribuire 16 bottiglie (piene/mezze/vuote) equamente a 4*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** costruzione
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1msHbRw-XEkFpi4wAZ4V6P2mT6S9d4Opb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Distribute 16 bottles (full/half/empty) equally to 4*
+
+> There are 16 identical bottles: 7 are full of milk, 6 are half full of milk and 3 are empty. Indicate how you can distribute all these bottles, without changing the contents, to four people so that each person gets the same amount of milk and the same number of bottles.
+
+**Answer:** costruzione
+[[src_kangourou_2023_benjamin_finale__QB1]]

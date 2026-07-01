@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 gara 20 marzo Student — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_marzo_student__Q08
 parent: src_kangourou_2014_marzo_student
 competition: Kangourou 2014 gara 20 marzo Student
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale affermazione e vera*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GOsY9cd8-EDb7VyBmgO9YKWT712MIoim/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*what statement is true*
+
+> Henry has a confidential mail account whose address is known only to four friends. He got eight messages today. Which of the following is necessarily true?
+> 	
+> A) Each friend sent two messages.
+> 	
+> B) It is not possible that all messages come from one friend.
+> 	
+> C) Each friend sent at least one message.
+> 	
+> D) One of my friends sent at least 2 messages.
+> 	
+> E) A single friend sent more than 2 messages.
+
+**Answer:** D
+[[src_kangourou_2014_marzo_student__Q08]]

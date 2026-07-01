@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q19
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero che deve contenere il gruppo (partizione)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number to contain the group (partition) *
+
+> The collection of numbers 1, 2, 3, 4, 5, 6, 7, 8 is divided into two groups that have the same number of elements. You know the sum of the elements is the same in both groups. If numbers 1 and 3 are in the same group, then that group must necessarily contain number A) 2 B) 4 C) 5 D) 6 E) 7
+
+**Answer:** D
+[[src_kangourou_2007_benjamin_marzo__Q19]]

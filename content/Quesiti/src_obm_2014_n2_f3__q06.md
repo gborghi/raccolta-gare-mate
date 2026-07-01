@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f3__Q06
 parent: src_obm_2014_n2_f3
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 3
@@ -41,6 +42,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A 2m x 2n board with an integer in each cell; the move picks three cells forming an L-tromino and adds 1 to each. Find the necessary and sufficient condition, in terms of m, n and the initial numbers, to make all numbers equal.*
 
@@ -53,3 +56,15 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1r_0ohfJcDfYsegu0fO1NCvt_VFQTKDiP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un tabellone 2m x 2n con un numero intero in ogni cella; la mossa seleziona tre celle che formano un L-tromino e aggiunge 1 a ciascuna. Trovare la condizione necessaria e sufficiente, in termini di m, n e numeri iniziali, per rendere tutti i numeri uguali.*
+
+> In ogni cella di una tabella $2m \times 2n$ viene scritto un numero intero. L'operazione consentita è quella di scegliere tre celle che formano una figura congruente a un L-tromino, come indicato nella figura seguente, e di aggiungere $1$ a ciascuna di queste tre celle. Determinare la condizione necessaria e sufficiente, in termini di $m$, $n$ e dei numeri iniziali, per rendere possibile la parità di tutti i numeri.
+
+![[src_obm_2014_n2_f3__Q06.png]]
+
+[[src_obm_2014_n2_f3__Q06]]

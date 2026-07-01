@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q26
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli distinti da 15 punti su circonferenza a meno di simmetrie*
 
@@ -55,3 +58,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangles separated by 15 points on circumference less than symmetry*
+
+![[src_kangourou_2021_student_gara__prob26.png]]
+
+> 15 points are evenly distributed (i.e. the distance between two adjacent points is constant) over a circumference. Triangles are formed by choosing as vertices three of these points in every possible way. If we consider two triangles which are identical and can be obtained by rotation or reflection, how many different triangles can be generated? A) 19
+> 	
+> B) 91
+> 	
+> C) 46
+> 	
+> D) 455 E) 23
+
+**Answer:** A
+[[src_kangourou_2021_student_gara__Q26]]

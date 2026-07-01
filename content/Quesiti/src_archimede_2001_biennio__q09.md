@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Biennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_biennio__Q09
 parent: src_archimede_2001_biennio
 competition: Giochi di Archimede 2001 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soluzione equazione con somma di frazioni lineari*
 
@@ -51,3 +54,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15IBgfl7GAsJGqi_MCOVW5U5tuBXGW2je/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Solution of equation with sum of linear fractions*
+
+> The solution to the following equation: x + 1 + x + 2 + x + 3 + · · + x + 2001 2001 = 2001 is
+>
+> - **(A)** Any number x
+> - **(B)** 1001
+> - **(C)** 10
+> - **(D)** 1
+> - **(E)** None of the previous ones.
+
+[[src_archimede_2001_biennio__Q09]]

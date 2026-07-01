@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q09
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza minima del perimetro della terza parte del giardino*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $6 + 2\pi$ m
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum length of the perimeter of the third part of the garden*
+
+> The equilateral triangle of the figure (its side measures 6 m) represents a garden, divided into three parts. The one at the bottom left is a sector of a circle centered in B; the one at the bottom right is a sector of a circle centered in C.
+> 
+> What is the minimum length of the perimeter of the third part of the garden?
+
+![[src_bocconi_squadre_2013__Q09.png]]
+
+**Answer:** $6 + 2\pi$ m
+[[src_bocconi_squadre_2013__Q09]]

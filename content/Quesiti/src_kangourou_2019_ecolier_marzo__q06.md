@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q06
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti studenti se le ragazze sono doppie e +8*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many students if girls are doubles and +8*
+
+> In one class, the number of girls is twice the number of boys and exceeds it by 8. How many students are in that class? A) 16
+> 	
+> B) 18
+> 	
+> C) 20
+> 	
+> D) 24
+> 	
+> E) 28
+
+**Answer:** D
+[[src_kangourou_2019_ecolier_marzo__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q13
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two equilateral triangles standing on a line with base angles 75 and 65; find top angle x*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due triangoli equilaterali in piedi su una linea con angoli di base 75 e 65; trovare angolo superiore x*
+
+> Nella figura, i due triangoli sono equilaterali. Qual è il valore dell'angolo $x$? (I triangoli si trovano su una linea orizzontale, formando angoli di $75^\circ$ e $65^\circ$ con esso; $x$ è l'angolo al loro incrocio in alto.) A) $30^\circ$ \quad B) $40^\circ$ \quad C) $50^\circ$ \quad D) $60^\circ$ \quad E) $70^\circ$
+
+![[src_obm_2005_n2_f1__Q13.png]]
+
+**Risposta:** E
+[[src_obm_2005_n2_f1__Q13]]

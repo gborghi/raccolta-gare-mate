@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2000 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2000_r3__Q06
 parent: src_pol_2000_r3
 competition: Olimpiade Matematica Polacca 2000 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *An odd-degree polynomial with P(x^2-1)=P(x)^2-1 must equal x*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nDWoQAPfWDLllzYEGHcK_5w05h4brUh9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un polinomio di grado odd con P(x^2-1)=P(x)^2-1 deve essere uguale a x*
+
+> Supponiamo che $P(x)$ sia un polinomio di grado odd soddisfacente $$P(x^2 - 1) = P(x)^2 - 1 \quad \text{for all } x.$$ Prove che $P(x) = x$ per tutti $x$.
+
+[[src_pol_2000_r3__Q06]]

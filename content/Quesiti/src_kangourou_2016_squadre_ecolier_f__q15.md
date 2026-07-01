@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2016 Finale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_ecolier_f__Q15
 parent: src_kangourou_2016_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2016 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra unita del prodotto di tutti i dispari di tre cifre*
 
@@ -65,3 +68,38 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1AmqdvgZVEwczaExdEeD0t4IQIsBaAuB7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The unit of the product of all three-digit oddities*
+
+> A very large product Multiply all odd numbers by three digits: what is the number of units of the product?
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+> 
+> 3
+>  
+> Kangourou of Mathematics 2016 Cup for teams Kangourou Ecolier Cervia, 6 May 2016
+>  
+>  
+>  
+>  
+>  
+>  
+> Questions and solutions
+
+**Answer:** 5
+[[src_kangourou_2016_squadre_ecolier_f__Q15]]

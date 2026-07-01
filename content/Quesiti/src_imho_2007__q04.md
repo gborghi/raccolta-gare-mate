@@ -1,6 +1,7 @@
 ---
 title: IMO 2007 (XLVIII International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2007__Q04
 parent: src_imho_2007
 competition: IMO 2007 (XLVIII International Mathematical Olympiad)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angle bisector, circumcircle, perpendicular bisectors, equal areas*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18zBoJL6BL0Qzw_Nb0n79SKzFnL3kZGiT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Angle bisector, circumcircle, perpendicular bisectors, equal areas< MSK1/>
+
+> In triangle $ABC$ the bisector of angle $BCA$ intersects the circumcircle again at $R$, the perpendicular bisector of $BC$ at $P$, and the perpendicular bisector of $AC$ at $Q$. The midpoint of $BC$ is $K$ and the midpoint of $AC$ is $L$. Prove that the $RPK$ and $RQL$ triangles have the same area.
+
+[[src_imho_2007__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1997 - Triennio — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_triennio__Q21
 parent: src_archimede_1997_triennio
 competition: Giochi di Archimede 1997 - Triennio
@@ -27,10 +28,12 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza CG dato triangolo equilatero costruito sul lato*
 
-> Nel triangolo ABC, il lato AB è lungo 1 cm e A bCB = 120°. Sul lato AB si
+> Nel triangolo ABC, il lato AB è lungo 1 cm e $\widehat{ACB}$ = 120°. Sul lato AB si
 > costruisce un triangolo equilatero ABD avente il vertice D dalla parte opposta
 > di C rispetto alla retta AB. Detto G il baricentro del triangolo equilatero, dire
 > quanto misura il segmento CG.
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yphPI0jQ9vOMt026mYyg55BYJ24QQuMs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length CG given equilateral triangle constructed on the side*
+
+> In the triangle ABC, the side AB is 1 cm long and $\widehat{ACB}$ = 120°. On the AB side, an equilateral triangle ABD with the vertex D on the opposite side of C to the straight AB is constructed. G is the radius of the equilateral triangle, which is the size of the CG segment.
+>
+> - **(A)** √ 3 cm
+> - **(B)** r 1 3 cm
+> - **(C)** √ 2 cm
+> - **(D)** r 1 2 cm
+> - **(E)** The data on the problem is insufficient.
+
+**Answer:** B
+[[src_archimede_1997_triennio__Q21]]

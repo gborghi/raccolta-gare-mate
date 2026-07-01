@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (finale Cervia) — Quesito J5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_finale__QJ5
 parent: src_kangourou_2016_junior_finale
 competition: Kangourou 2016 Junior (finale Cervia)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coordinate di un vertice del cubo dati tre vertici*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (0,4,7)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BU30qu2TCa9fts5FiD2Cc0ESbI7oLEr9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Coordinates of one vertex of the three vertex data cube*
+
+> Compared to an assigned system of orthogonal Cartesian axes in space, the coordinates of three vertices of a cube are $(4, 0, 3)$, $(6, 4, 1)$ and $(2, 8, 5)$. Determine, as quickly as you can, the coordinates (as compared to the same system) of one of the remaining vertices of the cube.
+
+**Answer:** (0,4,7)
+[[src_kangourou_2016_junior_finale__QJ5]]

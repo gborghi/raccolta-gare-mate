@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q17
 parent: src_cesenatico_2005_squadre_finale
 competition: Gara a Squadre Cesenatico 2005 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza percorso minimo tra centri facce di cubo lato 10*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 3535
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum path length between centers of side cube faces 10*
+
+> The Polynomial Jones trap is trapped! Von Kernel's body was confined in a 10-meter-wide cube-shaped cell. The only way to get rid of it is to touch the center points of the six faces by following the shortest path possible. How many centimeters is this path?
+
+**Answer:** 3535
+[[src_cesenatico_2005_squadre_finale__Q17]]

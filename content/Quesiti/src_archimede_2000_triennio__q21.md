@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Triennio — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_triennio__Q21
 parent: src_archimede_2000_triennio
 competition: Giochi di Archimede 2000 - Triennio
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area dominio definito da disuguaglianza con parte intera*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Domain area defined by inequality with whole part*
+
+> Either D is the domain of the Cartesian plane consisting of the points (x, y) such that x −[x] ≤ y −[y], 0 ≤x ≤2, 0 ≤y ≤3 (remember that [a] indicates the whole part of a i.e. the largest integer less than or equal to a). The area of D is
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 4
+> - **(E)** 6.
+
+**Answer:** C
+[[src_archimede_2000_triennio__Q21]]

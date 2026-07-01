@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2011 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2011__Q15
 parent: src_bocconi_semifinale_2011
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2011
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare i due interi positivi la cui combinazione di operazioni dà 88.*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** Tre soluzioni: $(2,6) - (22,1) - (1,29)$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find the two positive integers whose combination of operations gives 88.*
+
+> Luke considers two positive integers. Then he adds them up, multiplies them, makes the difference (the greater minus the lesser) and then he calculates their power, raising the first to the exponent represented by the second. Finally, Luke adds up the four results and finds 88. What were the two numbers originally considered by Luke?
+
+**Answer:** Tre soluzioni: $(2,6) - (22,1) - (1,29)$
+[[src_bocconi_semifinale_2011__Q15]]

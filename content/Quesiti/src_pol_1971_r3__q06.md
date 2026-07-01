@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1971 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1971_r3__Q06
 parent: src_pol_1971_r3
 competition: Olimpiade Matematica Polacca 1971 — Round 3
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular tetrahedron: four surface points with mutual distance >1/2*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tetraedro regolare: quattro punti di superficie con distanza reciproca >1/2*
+
+> Si dà un tetraedro regolare con lunghezza del bordo unitario. Prova che: (a) sulla superficie $S$ del tetraedro esistono quattro punti, in modo tale che la distanza da qualsiasi punto della superficie $S$ non superi $1/2$. b) Non esistono tre punti con questa proprietà.
+> 
+> La distanza tra due punti sulla superficie $S$ è definita come la lunghezza della linea poligonale più corta che attraversa $S$ e collega i due punti.
+
+[[src_pol_1971_r3__Q06]]

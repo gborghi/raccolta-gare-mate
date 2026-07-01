@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Ecolier (gara marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_ecolier__Q06
 parent: src_kangourou_2012_ecolier
 competition: Kangourou 2012 Ecolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi ha vinto e con quanti punti in piu al bersaglio*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KGQK820Qql_QiBS74DEhZJTNn9S28MEN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who won and how many more points to the goal
+
+![[src_kangourou_2012_ecolier__prob6.png]]
+
+> Ada and Gino play the highest scorer by shooting three arrows each at a numbered target. The score is calculated by adding the points obtained with the individual arrows. The figure shows you where Ada's arrows and Gino's arrows ended. Who won and how many points did he score more than the other? (a) Knee, with 3 points in addition B) Knee, with 4 points in addition C) Knee, with 2 points in addition D) Knee, with 2 points in addition E) Knee, with 4 points in addition
+
+**Answer:** E
+[[src_kangourou_2012_ecolier__Q06]]

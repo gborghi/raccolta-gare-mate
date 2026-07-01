@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Finale Junior (Mirabilandia) — Quesito J6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_junior_finale__QJ6
 parent: src_kangourou_2012_junior_finale
 competition: Kangourou 2012 Finale Junior (Mirabilandia)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sottoinsieme con somma multiplo di n tra n interi*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** dimostrazione
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1oKHOSWPLPAyvSCzjXHxhRGKMVyrbdN1S/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sub-totals with multiple sums of n between n integers < MSK1/>
+
+> Demonstrate that, however positive integers $n$ ($n \geq 1$) are assigned, some of them can always be chosen so that their sum is a multiple of $n$.
+
+**Answer:** dimostrazione
+[[src_kangourou_2012_junior_finale__QJ6]]

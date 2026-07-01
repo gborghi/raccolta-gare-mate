@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2013 — Quesito
   7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2013__Q07
 parent: src_bocconi_finalenaz_2013
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2013
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza tra due aeroporti vicini sul pianeta*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7500 km
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance between two nearby airports on the planet*
+
+> There are six cities on this planet, each marked with a letter and with an airport. Two nearby airports are always the same distance from each other (according to the routes shown in the figure). Desiderio is a wealthy eccentric traveling on his private plane. It starts from A towards B and, when reached B, turns right of $90^{\circ}$ towards E. Here it always turns $90^{\circ}$ to the right and then to the left, always $90^{\circ}$, whenever it reaches an airport.
+> 
+> What is the distance between two nearby airports knowing that Desiderio, when he returned to A for the first time, traveled 45,000 km?
+
+![[src_bocconi_finalenaz_2013__Q07.png]]
+
+**Answer:** 7500 km
+[[src_bocconi_finalenaz_2013__Q07]]

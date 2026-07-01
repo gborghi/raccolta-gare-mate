@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q10
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which garden fence project costs the most to build?*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Quale progetto di recinzione per giardino costa di più?
+
+> Un architetto presenta al suo cliente cinque piani diversi per un terreno irregolare da utilizzare come giardino, dove le linee scure rappresentano la recinzione che deve essere costruita per proteggere i fiori. Le regioni luminose in tutti i casi sono rettangolari e il tipo di recinzione è lo stesso in tutti i casi. Quale progetto avrà il costo di costruzione più alto per la recinzione?
+> 
+> (A) Progetto A \quad (B) Progetto B \quad (C) Progetto C \quad (D) Progetto D \quad (E) Progetto E
+
+![[src_obm_2004_n1_f1__Q10.png]]
+
+**Risposta:** E
+[[src_obm_2004_n1_f1__Q10]]

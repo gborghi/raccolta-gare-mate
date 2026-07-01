@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q17
 parent: src_kangourou_2008_cadet_marzo
 competition: Kangourou 2008 - Cadet (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del triangolo PQR tra quattro cerchi tangenti*
 
@@ -64,3 +67,32 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the PQR triangle between four tangent circles*
+
+![[src_kangourou_2008_cadet_marzo__prob17.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.2]
+  \draw[thick] (0,0) rectangle (48,12);
+  \draw (6,6) circle (6);
+  \draw (18,6) circle (6);
+  \draw (30,6) circle (6);
+  \draw (42,6) circle (6);
+  \draw (48,12) -- (30,12) -- (18,0) -- cycle;
+  \node[above right] at (48,12) {P};
+  \node[above] at (30,12) {Q};
+  \node[below] at (18,0) {R};
+\end{tikzpicture}
+\end{document}
+```
+
+> Four congruent circles of radius 6 centimeters are tangent to each other and to the sides of the rectangle as shown in the figure. If P is a vertex of the rectangle and Q and R are tangent points, how many square centimeters does the area of the PQR triangle measure? A) 27 B) 45 C) 54 D) 108 E) 180
+
+**Answer:** D
+[[src_kangourou_2008_cadet_marzo__Q17]]

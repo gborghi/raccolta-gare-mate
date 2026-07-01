@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q04
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante bandiere hanno parte nera pari a 3/5*
 
@@ -56,3 +59,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many flags have a black part equal to 3/5*
+
+![[src_kangourou_2008_benjamin_marzo__prob4.png]]
+
+> In the pirate school, each student must sew a black and white flag, subject to the following condition: the black part must cover exactly three-fifths of the flag. How many of the following flags meet this requirement? A) None B) One C) Two D) Three E) Four A) B) C) D) E) Text_08.qxp 9-03-2008 14:56
+> 
+> I'm going to pay. I'm going to pay. 11 11 Kang 2008 Kang
+
+**Answer:** C
+[[src_kangourou_2008_benjamin_marzo__Q04]]

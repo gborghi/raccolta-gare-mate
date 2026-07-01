@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Student 2023 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student_semifinale__Q09
 parent: src_kangourou_2023_student_semifinale
 competition: Kangourou Semifinale individuale Student 2023
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto circonferenza/raggio nella distanza taxicab*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rate of circumference/radius in the taxicab distance*
+
+> (Points 6) Suppose that in the plane, equipped with a monometric orthogonal cartesian system, however considered two points, one can pass from one to the other only by moving parallel to the axes; in this case the length of the segment of extremes (x, y) and (a, b), i.e. the distance of the point (x, y) from the point (a, b), is x a + y b. If the terms radius and circumference of the centre of the given circle are defined in the usual way, but in relation to this new notion of distance and not to the Euclidean space, what is the relationship, in this new notion of distance, between the length of the circumference and the relative radius? A) 2 B) 2π C) 4 D) 4√ 2 E) 8 Open-ended questions
+
+[[src_kangourou_2023_student_semifinale__Q09]]

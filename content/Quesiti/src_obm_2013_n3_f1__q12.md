@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q12
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle through A..E, diameter AB perpendicular to chord CD, angle BCE=35; find angle DAE*
 
@@ -44,3 +47,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo attraverso A..E, diametro AB perpendicolare al CD dell'accordo, angolo BCE=35; angolo DAE*
+
+> Nella figura seguente, il punto $O$ è il centro della circonferenza che attraversa i punti $A$, $B$, $C$, $D$ e $E$. Sapendo che il diametro $AB$ e l'accordo $CD$ sono perpendicolari e che $\angle BCE = 35^\circ$, il valore, in gradi, dell'angolo $\angle DAE$ è:
+> 
+> (A) $35^\circ$ \quad (B) $10^\circ$ \quad (C) $20^\circ$ \quad (D) $30^\circ$ \quad (E) $55^\circ$
+
+![[src_obm_2013_n3_f1__Q12.png]]
+
+[[src_obm_2013_n3_f1__Q12]]

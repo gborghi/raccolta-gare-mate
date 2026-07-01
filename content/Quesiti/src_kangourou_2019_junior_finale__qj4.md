@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale nazionale Junior — Quesito J4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_finale__QJ4
 parent: src_kangourou_2019_junior_finale
 competition: Kangourou 2019 Finale nazionale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dopo quanti anni torna la luna piena stesso giorno (ciclo 28 gg)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 248
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*After how many years the full moon returns on the same day (cycle 28 days) *
+
+> 4) year N + 3: in the following 4 years days are added according to the scheme: 1+1+2+1. After the first 20 years necessary to add 25 days, it takes another 3 years in the first case and only another 2 in the second and third cases to add a lunar month; instead, in the fourth case, 22 years add only 27 days and 23 add 29: to add 28+28=56=55+1 days, just pass 44 + 1 = 45 years. However, if the day in question is between 1/1 and 28/2, the patterns are the same but split (2→1, 3→2, 4→3, 1→4). You never get to 2100 anyway. (**) More generally, it can be noted that the longest minimum time interval after which a certain lunar phase occurs on 29 February is always no longer than 248 years. Since the minimum period for which it is represented
+
+**Answer:** 248
+[[src_kangourou_2019_junior_finale__QJ4]]

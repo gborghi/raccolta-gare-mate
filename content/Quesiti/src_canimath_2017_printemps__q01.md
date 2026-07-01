@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2017 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2017_printemps__Q01
 parent: src_canimath_2017_printemps
 competition: Coupe Animath Printemps 2017
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find three positive integers satisfying two linear conditions*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** m=59, n=10, p=5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WRDBVKTu2eO-0ruMO9lo0GjGJQSpzivB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tre integri positivi che soddisfano due condizioni lineari*
+
+> *N.B. In questo esercizio, e solo qui, è richiesta solo una risposta senza giustificazione.*
+> 
+> $m > n > p$ siano tre integri positivi come $m + n + p = 74$ e $m - n - p = 44$. Determinare $m$, $n$ e $p$.
+> 
+> (Un numero primo è un numero intero rigorosamente positivo superiore a $1$ i cui unici divisori sono $1$ e se stesso.)
+
+**Risposta:** m=59, n=10, p=5
+[[src_canimath_2017_printemps__Q01]]

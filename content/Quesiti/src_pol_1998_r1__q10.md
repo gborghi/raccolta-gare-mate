@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1998 — Round 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1998_r1__Q10
 parent: src_pol_1998_r1
 competition: Olimpiade Matematica Polacca 1998 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Medians of one triangle equal sides of another; prove ABC equilateral*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G-XCyyXx8_hUvFLZfNrRNXGjvcc-_oK9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mediani di un triangolo pari lati di un altro; dimostrare ABC equilaterale *
+
+> I media $AD$, $BE$, $CF$ di un triangolo $ABC$ si incontrano a $G$. Prova che se i quadrilaterali $AFGE$ e $BDGF$ sono ciclici, il triangolo $ABC$ è equilaterale.
+
+[[src_pol_1998_r1__Q10]]

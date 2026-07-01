@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q30
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra delle unita del numero di 4 cifre (indizi tipo mastermind)*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of units of the 4-digit number (mastermind type indices) *
+
+> The following statements fully identify a four digit number: 4 1 3 2: only two digits are correct but both in the wrong place, 9 8 2 6: only one digit is correct and in the right place, 5 0 7 9: only two digits are correct, only one is in the right place, the other is in the wrong place, 7 6 4 2: none of the digits is correct. What is the unit number of the four-digit number in question? A) 0
+> 	
+> B) 1
+> 	
+> C) 3
+> 	
+> D) 5
+> 	
+> E) 9
+> 
+> Answers
+
+**Answer:** C
+[[src_kangourou_2020_cadet_marzo__Q30]]

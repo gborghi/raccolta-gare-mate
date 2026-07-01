@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Benjamin (20 marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin__Q16
 parent: src_kangourou_2003_benjamin
 competition: Kangourou 2003 - Benjamin (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del quadrato ABCD con rettangoli*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dRHIlbE2JdgPnwroivd9QwkqcohUIBge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of square ABCD with rectangles*
+
+![[src_kangourou_2003_benjamin__prob16.png]]
+
+> The ABCD square in the figure consists of an inner square (white) and four equal rectangles coloured in gray (next to each other without overlap). Each gray rectangle has a perimeter of 40 cm. What is the area of the square ABCD? A) 400 cm2 B) 200 cm2 C) 160 cm2 D) 100 cm2 E) 80 cm2
+
+**Answer:** A
+[[src_kangourou_2003_benjamin__Q16]]

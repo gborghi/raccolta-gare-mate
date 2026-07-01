@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2017 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2017__Q20
 parent: src_smc_2017
 competition: Senior Mathematical Challenge 2017
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square PQRS edge length 1; four quarter-circle arcs (TRU centred S, VPW centred Q); find perimeter of shaded region.*
 
@@ -50,3 +53,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza quadrata del bordo PQRS 1; quattro archi di quartiere (TRU centrato S, VPW centrato Q); trovare il perimetro della regione ombreggiata.*
+
+> Il diagramma mostra un quadrato $PQRS$ con bordi di lunghezza 1, e quattro archi, ognuno dei quali è un quarto di cerchio. L'arco $TRU$ ha il centro $S$; l'arco $VPW$ ha il centro $Q$.
+> 
+> Qual è la lunghezza del perimetro della regione ombrosa?
+>
+> - **(A)** $6$
+> - **(B)** $(2\sqrt{2} - 1)\pi$
+> - **(C)** $(3\sqrt{2} - 2)\pi$
+> - **(D)** $(\sqrt{2} - \tfrac{1}{2})\pi$
+> - **(E)** $2\pi$
+
+![[src_smc_2017__Q20.png]]
+
+**Risposta:** B
+[[src_smc_2017__Q20]]

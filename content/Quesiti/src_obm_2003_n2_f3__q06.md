@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f3__Q06
 parent: src_obm_2003_n2_f3
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 3
@@ -40,6 +41,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove Hamiltonian cycle in Tumbolia graph with at most one transport-mode change*
 
@@ -54,3 +57,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uhVXECvta8Ycz4kch8C6GF4_k1qhNTYm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove il ciclo di Hamilton nel grafico Tumbolia con un massimo di un cambiamento di modalità di trasporto*
+
+> Ci sono < MSK0/> città in Tumbolia. Ogni coppia di città è collegata da una strada o da una ferrovia, senza che nessuna coppia sia collegata da entrambe.
+> 
+> Un turista desidera viaggiare in tutta la Tumbolia, visitando ogni città esattamente una volta e tornando nella città in cui ha iniziato il suo viaggio.
+> 
+> Provare che è possibile scegliere l'ordine in cui le città vengono visitate in modo che il turista cambie il mezzo di trasporto al massimo una volta.
+
+[[src_obm_2003_n2_f3__Q06]]

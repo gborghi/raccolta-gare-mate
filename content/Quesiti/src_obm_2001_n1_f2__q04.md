@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f2__Q04
 parent: src_obm_2001_n1_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Labels of grid points immediately below and left of point 2001*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1850 (below) and 1874 (left)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OU_kkwljknqnKJvISMf5e6JcgwurbdgC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Etiche dei punti della griglia immediatamente al di sotto e a sinistra del punto 2001*
+
+> I punti della griglia di seguito sono numerati a partire dal vertice di basso sinistro, seguendo il percorso poligonale suggerito nella figura. Il percorso visita: $1, 2$ in basso, poi $3, 4, 5, 6, 7$ verso l'alto sul lato sinistro e oltre, poi $8, 9, 10$ ecc., in spirale verso l'interno. Considerare il punto corrispondente al numero $2001$. Quali sono i numeri dei punti situati immediatamente sotto e immediatamente a sinistra di esso?
+
+![[src_obm_2001_n1_f2__Q04.png]]
+
+**Risposta:** 1850 (below) and 1874 (left)
+[[src_obm_2001_n1_f2__Q04]]

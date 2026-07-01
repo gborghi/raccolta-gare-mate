@@ -1,6 +1,7 @@
 ---
 title: IMO 1979 (XXI International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1979__Q05
 parent: src_imho_1979
 competition: IMO 1979 (XXI International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Non-negative reals satisfying two symmetric sum equations*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zEPuPBU2bBcA_YKZy9BbfgTGEtgtWSpu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Non-negative reals satisfying two symmetric sum equations*
+
+> Find all real numbers $x_1, x_2, x_3, x_4, x_5$ satisfying the relations $$\sum_{k=1}^{5} k x_k = a, \quad \sum_{k=1}^{5} k^3 x_k = a^2, \quad \sum_{k=1}^{5} k^5 x_k = a^3$$ for some real number $a$.
+
+[[src_imho_1979__Q05]]

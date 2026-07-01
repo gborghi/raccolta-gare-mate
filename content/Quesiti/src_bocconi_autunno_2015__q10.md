@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2015 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2015__Q10
 parent: src_bocconi_autunno_2015
 competition: Giochi d'Autunno 2015
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero palindromo multiplo di 3, 7 e 13*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 99099
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eK88JMTv896JXMMmFL1S8lYcD_i95Nzi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of palindromes multiples of 3, 7 and 13
+
+> ...and this one from Nando. Nando found a five-digit number that's multiples of 3, 7, and 13. To write it, use only two digits: the 0 and another digit. Nando's number is palindrome (it reads the same way from left to right and from right to left). What's the maximum number?
+
+**Answer:** 99099
+[[src_bocconi_autunno_2015__Q10]]

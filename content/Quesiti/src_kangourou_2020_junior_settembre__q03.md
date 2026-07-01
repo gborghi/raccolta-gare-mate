@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - finale settembre — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_settembre__Q03
 parent: src_kangourou_2020_junior_settembre
 competition: Kangourou 2020 Junior - finale settembre
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri in posizione speciale in griglia 2020x2020*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** a)F b)V c)V
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Y0Gi-Uy881pNn6RNQhqSGYn7AyhCKbJx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Special position numbers in the grid 2020x2020*
+
+> We fill out a square grid $2020 \times 2020$ by inserting the first $2020^2$ positive integers, one per box: if it happens that one of the numbers inserted is the largest of all those in its row and the smallest of all those in its column, let's say that number is in a special position **** relative to the way we filled the grid. Discuss, justifying the answer, the truth or falsity of each of the following three statements:
+> 
+> (a) there is at least one special number for each method of filling the grid;
+> 
+> (b) there is at least one special number for any method of filling the grid;
+> 
+> (c) for each method of filling the grid there is at most a special number.
+
+**Answer:** a)F b)V c)V
+[[src_kangourou_2020_junior_settembre__Q03]]

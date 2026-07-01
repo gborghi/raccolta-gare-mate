@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Ecolier — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q07
 parent: src_kangourou_2018_ecolier_semif
 competition: Kangourou 2018 Semifinale Ecolier
@@ -30,6 +31,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma massima riempiendo 4x4 con 1 e 3 e vincolo 2x2*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/12RJbo4WQyFx3m4vMHKRiOwlOuiEa6SZd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum sum by filling 4x4 with 1 and 3 and binding 2x2*
+
+![[src_kangourou_2018_ecolier_semif__prob7.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw[step=1cm] (0,0) grid (4,4);
+\end{tikzpicture}
+\end{document}
+```
+
+> (Points 5) In each cell of Table 4 × 4 in Figure 1 or 3 shall be inserted so that in each Table 2 × 2 contained in Table 4 × 4 there are three and no more than three equal numbers. What is the maximum value of the sum of all 16 numbers once entered? A) 42               B) 40            C) 36            D) 33              E) 30
+
+**Answer:** B
+[[src_kangourou_2018_ecolier_semif__Q07]]

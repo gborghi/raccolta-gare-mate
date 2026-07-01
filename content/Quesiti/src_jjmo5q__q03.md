@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2007 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo5q__Q03
 parent: src_jjmo5q
 competition: Japan Junior Mathematical Olympiad 2007
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all fractions m/n with m,n ≤ 20 in a given interval*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le frazioni m/n con m,n ≤ 20 in un determinato intervallo*
+
+> Trova tutti i numeri razionali che possono essere scritti come $\frac{m}{n}$, dove $m$ e $n$ sono interi positivi che non superano ognuno $20$, e che sono superiori a $\frac{5}{4}$ e inferiori a $\frac{4}{3}$.
+
+[[src_jjmo5q__Q03]]

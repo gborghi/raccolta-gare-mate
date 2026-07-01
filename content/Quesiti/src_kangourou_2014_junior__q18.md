@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q18
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza vinte-perse a scacchi (40 partite, 25 punti)*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Win-loss difference in chess (40 matches, 25 points) < MSK1/>
+
+> In a tournament, a chess player played 40 games earning 25 points: one point for each game won, half for each match drawn and zero for each game lost. What's the difference between the number of games you won and the number of games you lost? A) 5
+> 	
+> B) 7
+> 	
+> C) 10
+> 	
+> D) 12
+> 	
+> E) 15
+
+**Answer:** C
+[[src_kangourou_2014_junior__Q18]]

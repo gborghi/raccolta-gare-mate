@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f3__Q04
 parent: src_obm_2000_n2_f3
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 3
@@ -39,6 +40,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Decide whether two distinct powers of 2 with the same number of digits can be digit-rearrangements of each other.*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** No, it is not possible.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qM5BxKaKRIxirRctyOuDYrS51LXljnyw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Decidere se due potenze distinte di 2 con lo stesso numero di cifre possono essere riorganizzazioni digitali reciprocamente.*
+
+> È possibile trovare due potenze di $2$, distinte e con lo stesso numero di cifre, in modo tale che una possa essere ottenuta mediante una riorganizzazione delle cifre dell'altra?
+
+**Risposta:** No, it is not possible.
+[[src_obm_2000_n2_f3__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1990 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1990__Q06
 parent: src_inmo_1990
 competition: Indian National Mathematical Olympiad 1990
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In scalene triangle with obtuse A, find locus of D on line BC with AD=sqrt(BD·CD)*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1G8lDoodsQyIXm-tyEu5jDUtV7TjXp552/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nel triangolo scaleno con A obtuso, trovare locus di D sulla linea BC con AD=sqrt(BD·CD) *
+
+> In un triangolo scaleno $ABC$ l'angolo a $A$ è obtuso. Determinare l'insieme dei punti $D$ situati sulla linea estesa $BC$ per i quali $AD = \sqrt{BD \cdot CD}$.
+
+[[src_inmo_1990__Q06]]

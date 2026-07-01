@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2001 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2001_r3__Q06
 parent: src_pol_2001_r3
 competition: Olimpiade Matematica Polacca 2001 — Round 3
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given 2000 increasing positive integers below 10^100, find two nonempty disjoint subsets with equal size, equal element sums, and equal sums of squares.*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NdQKIsmLWVns4DWiT4Xy-7m3Ys5L9SOW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dato il 2000 di incremento degli integri positivi al di sotto di 10^100, trovare due sottoinsiemi non vuoti con dimensioni uguali, somme di elementi uguali e somme di quadrati uguali.*
+
+> Si devono dare $n_1 < n_2 < \cdots < n_{2000} < 10^{100}$ numeri interi positivi. Indicare che esistono due sottinsiemi non vuoti e disconnessi $A$ e $B$ di $\{n_1, n_2, \ldots, n_{2000}\}$ in modo tale che: (i) $A$ e $B$ abbiano lo stesso numero di elementi; (ii) $A$ e $B$ abbiano le stesse somme di elementi; (iii) $A$ e $B$ abbiano le stesse somme dei quadrati di elementi.
+
+[[src_pol_2001_r3__Q06]]

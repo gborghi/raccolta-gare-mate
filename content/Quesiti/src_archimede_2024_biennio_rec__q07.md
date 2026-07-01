@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_biennio_rec__Q07
 parent: src_archimede_2024_biennio_rec
 competition: Giochi di Archimede 2024 - Gara Biennio (riserva)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di intersezioni tra 3 cerchi e 3 rette*
 
@@ -44,3 +47,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of intersections between 3 circles and 3 straight lines*
+
+> Mary draws 3 different circles and 3 different straight lines. Overall, how many intersection points can there be, at most, between the various lines you have drawn?
+>
+> - **(A)** 24
+> - **(B)** 18
+> - **(C)** 27
+> - **(D)** 22
+> - **(E)** 21
+
+[[src_archimede_2024_biennio_rec__Q07]]

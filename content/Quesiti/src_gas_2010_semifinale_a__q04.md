@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale A — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_a__Q04
 parent: src_gas_2010_semifinale_a
 competition: Gara a Squadre 2010 - Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza conteggio simboli in triangolo ciclico di 10000 righe*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6667
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Different symbol count in a cyclic triangle of 10000 rows*
+
+> The symbol of Bourbakossa Unfortunately, the mutiny succeeded, Jack Disparrow was abandoned on a deserted island and the True Pearl fell into Bourbakossa's hands, which makes his badges fly: his flag is a large black triangle on which three pirate symbols are often depicted. On the first line is a monkey. On the second line, a monkey and a forzer. On the third line, there's a monkey, a forzer, and an apple. On the fourth line again a monkey, a forcer, an apple and another monkey, and so on: on the eighth line there are n symbols obtained repeating in monkey, forcer and apple order. The triangle has a total of 10,000 lines: what is the difference between the number of apes and the number of apples? Team competition 2010  Semifinals A  Problem tests  1/3
+> 
+> 2/3 Team competition 2010  Semifinal A  Problem tests
+
+**Answer:** 6667
+[[src_gas_2010_semifinale_a__Q04]]

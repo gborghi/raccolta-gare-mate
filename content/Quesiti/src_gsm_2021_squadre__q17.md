@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2021_squadre__Q17
 parent: src_gsm_2021_squadre
 competition: Gara a Squadre GSM (locale Genova) 2021
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto tra raggio inferiore e superiore di solido vetrario*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1552
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio between lower and upper beam of glass solid*
+
+> 17. In Murano Matteo Di Domenico in a laboratory, a glass artist is at work. Starting from a glass cylinder still incandescent and malleable, it puts a bag, a very particular clamp, in the middle of the height and, rotating, starts to tighten by generating a circle parallel to the two bases of the initial cylinder and centered on the segment that connects the centers of the cylinder bases. Master Glassman, you see, I'm not going to extend it. I reduce the radius in the middle and increase the radius of the lower base to keep the height of the solid constant, as well as the volume. Alexander could make sure that the center radius at the end is two-thirds of that of the upper base, which will remain unchanged to understand us. Master Glassmaker You have clear ideas! If the gifts help me, the result is
+
+**Answer:** 1552
+[[src_gsm_2021_squadre__Q17]]

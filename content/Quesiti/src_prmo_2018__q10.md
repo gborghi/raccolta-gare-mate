@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q10
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perpendicular medians in triangle, median from A is 30, find (BC^2+CA^2+AB^2)/100*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 24
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mediani perpendicolari nel triangolo, mediana da A è 30, trovare (BC^2+CA^2+AB^2)/100*
+
+> In un triangolo $ABC$, la media da $B$ a $CA$ è perpendicolare alla media da $C$ a $AB$. Se la media da $A$ a $BC$ è 30, determinare $(BC^2 + CA^2 + AB^2)/100$.
+
+**Risposta:** 24
+[[src_prmo_2018__Q10]]

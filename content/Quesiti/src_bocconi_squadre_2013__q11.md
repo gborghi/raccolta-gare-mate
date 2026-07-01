@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q11
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ore impiegate a scendere lungo un canale francese*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 96 ore
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ours used to descend along a French channel*
+
+> A cliff descends along a 120-kilometer-long French canal. Then he picks it up, taking one more day, because he has to do 6 km less (compared to the trip).
+> 
+> How many hours did it take the chick to get down the canal?
+
+**Answer:** 96 ore
+[[src_bocconi_squadre_2013__Q11]]

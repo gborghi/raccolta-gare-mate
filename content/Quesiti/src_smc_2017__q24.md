@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2017 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2017__Q24
 parent: src_smc_2017
 competition: Senior Mathematical Challenge 2017
@@ -36,6 +37,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Set of n straight lines in the plane where each line meets exactly 10 others; which value cannot be n?*
 
@@ -55,3 +58,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieme di n linee rette nel piano in cui ciascuna linea incontra esattamente altre 10; quale valore non può essere n?*
+
+> C'è un insieme di linee rette $n$ nel piano in modo che ciascuna linea interseca esattamente altre dieci.
+> 
+> Quale delle seguenti non potrebbe essere il numero di righe nell'insieme?
+>
+> - **(A)** $11$
+> - **(B)** $12$
+> - **(C)** $15$
+> - **(D)** $16$
+> - **(E)** $20$
+
+**Risposta:** D
+[[src_smc_2017__Q24]]

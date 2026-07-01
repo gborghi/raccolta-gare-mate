@@ -1,6 +1,7 @@
 ---
 title: XXV Olimpiade Italiana Cesenatico 2009 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2009__Q04
 parent: src_cesenatico_2009
 competition: XXV Olimpiade Italiana Cesenatico 2009
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *posizione finale determina intermedie*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** dimostrato
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RKPm3NkroFDeg9oRHAPmvCWj33-Ezm8e/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>the final position determines the intermediate < MSK1/>
+
+> A flea is initially located at the point (0, 0) of the Cartesian plane. Then he makes a leap. Each jump is made in one of the four cardinal directions. The first jump is length 1, the second is length 2, the third is length 4, and so on, until the n-jump, which is length 2n−1. Demonstrate that if you know the final position of the fly, then you can uniquely determine its position after each of the n jumps.
+
+**Answer:** dimostrato
+[[src_cesenatico_2009__Q04]]

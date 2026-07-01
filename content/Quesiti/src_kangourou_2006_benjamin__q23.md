@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q23
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Terna in cui un numero equidista dagli altri due*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Turn in which one number equidistant from the other two *
+
+> Consider a semicircle with origin O and a point A above it: if the distance in centimetres of A from O is to, we'll say that a represents point A. Which of the following sets of three numbers represents three points of the semicircle one of which is the same distance from each of the other two? (a) 1/3; 1/4; 1/5 B) 12; 21; 32 C) 0,3; 0,7; 1,3 D) 1/8; 9/80; 1/10 E) None of the above
+
+**Answer:** D
+[[src_kangourou_2006_benjamin__Q23]]

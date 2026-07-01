@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q09
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle with distinct integer sides whose perimeter equals area (annulled)*
 
@@ -52,3 +55,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo con lati interi distinti il cui perimetro è uguale all'area (annullato) *
+
+> Le misure dei lati di un rettangolo sono numeri interi distinti. Le lunghezze di questi lati, in modo che il perimetro e l'area del rettangolo siano espressi con lo stesso numero, sono:
+> 
+> (A) $18$ \quad (B) $12$ \quad (C) $24$ \quad (D) $9$ \quad (E) $36$
+
+**Risposta:** Anulada
+[[src_obm_2001_n2_f1__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q07
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Studenti che hanno partecipato a entrambe le gare*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Students who participated in both competitions*
+
+> A survey of 2006 students in Milan highlighted that last year 1500 of them participated in the mathematics competition "Kangourou" and 1200 in the literary competition "Young Writers". If only 6 of the students interviewed did not participate in any competition, how many did they participate in both competitions? A) 300 B) 500 C) 600 D) 700 E) 1000
+
+**Answer:** D
+[[src_kangourou_2006_cadet__Q07]]

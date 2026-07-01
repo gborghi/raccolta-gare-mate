@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale nazionale Student — Quesito S3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_finale__QS3
 parent: src_kangourou_2019_student_finale
 competition: Kangourou 2019 Finale nazionale Student
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dopo quanti anni torna la luna piena stesso giorno (ciclo 28gg)*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 248
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1D8NG3hLaa9Vf5y84c4pkt9zX69fmrpor/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+After how many years the full moon returns on the same day (cycle 28g)
+
+> On a certain day in a certain month in one of the next 10 years, there will be a full moon. If the lunar cycle was exactly 28 days long, after how many years at most would there again be a full moon for the first time on the same day of the same month? (If, for example, it happens the following year, you should answer: after 1 year.)
+
+**Answer:** 248
+[[src_kangourou_2019_student_finale__QS3]]

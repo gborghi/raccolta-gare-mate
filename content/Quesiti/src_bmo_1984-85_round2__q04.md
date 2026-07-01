@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1984-85 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1984-85_round2__Q04
 parent: src_bmo_1984-85_round2
 competition: British Mathematical Olympiad 1984-85 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count handshakes with Mongolian deputy at IMO session*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 29
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PeCmIt2_imLULo363j-gWJ-1Sy4AWY9D/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio delle strette di mano con il deputato mongolo alla sessione IMO*
+
+> Delegazioni provenienti da 30 paesi hanno partecipato a una sessione della giuria delle Olimpiadi Matematiche Internazionali  i leader e i loro deputati, in totale 60 persone. Durante la sessione alcuni dei partecipanti si sono stretti la mano l'uno all'altro, ma nessun leader ha stretto la mano al suo vice e non due persone hanno stretto la mano più di una volta. Dopo la sessione il leader della squadra mongola chiese a tutti quante volte avevano stretto la mano. Tutti i partecipanti hanno risposto e i numeri che hanno dato erano tutti diversi. Quante volte il vice leader mongolo ha dato la mano?
+
+**Risposta:** 29
+[[src_bmo_1984-85_round2__Q04]]

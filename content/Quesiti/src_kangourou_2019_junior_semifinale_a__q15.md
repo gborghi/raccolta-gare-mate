@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2019 Semifinale A — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale_a__Q15
 parent: src_kangourou_2019_junior_semifinale_a
 competition: Kangourou Coppa Junior squadre 2019 Semifinale A
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale di F occupata dal rettangolo ABCD*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0046
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qvyGTt8fMV3U7A9REDKvAdJtpkkgdYbx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage of F occupied by the rectangle ABCD*
+
+![[src_kangourou_2019_junior_semifinale_a__prob15.png]]
+
+> The percentage Some equal rectangles are arranged as shown in the image and form a figure F. What percentage of F is occupied by the ABCD rectangle drawn on it? Approach the answer to the nearest whole.
+> 
+> 1
+>  
+> Kangourou of Mathematics 2019 Junior Cup to teams Semifinal round in Cervia, 6 May 2019
+>  
+> Questions and solutions
+
+**Answer:** 0046
+[[src_kangourou_2019_junior_semifinale_a__Q15]]

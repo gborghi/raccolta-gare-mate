@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Ecolier 2024 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier__Q06
 parent: src_kangourou_2024_ecolier
 competition: Kangourou Categoria Ecolier 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero dell'ultimo giocatore che lancia la palla (cerchio)*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of the last player to throw the ball (circle) *
+
+![[src_kangourou_2024_ecolier__prob6.png]]
+
+> Players on a football team are arranged in a circle to respect the order of their jerseys, as the figure suggests. Each player, starting with number 1, throws the ball to the third player to his left. This series of pitches ends when the receiving player should throw the ball a second time. What is the name of the last player to throw the ball? A) 7 B) 8 C) 9 D) 10 E) 11
+
+**Answer:** C
+[[src_kangourou_2024_ecolier__Q06]]

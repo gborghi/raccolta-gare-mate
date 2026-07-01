@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2024 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_printemps__Q06
 parent: src_canimath_2024_printemps
 competition: Coupe Animath Printemps 2024
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all values of symmetric product expression given equal ratios*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ricerca tutti i valori dell'espressione del prodotto simmetrico dati rapporti uguali < MSK1/>
+
+> Lasciate che $x, y, z$ siano tre numeri reali non zero (non necessariamente positivi) in modo tale che $$\frac{x+y}{z} = \frac{y+z}{x} = \frac{z+x}{y}.$$ Trova tutti i valori che il numero $$\frac{(x+y)(y+z)(z+x)}{xyz}$$ può prendere.
+
+[[src_canimath_2024_printemps__Q06]]

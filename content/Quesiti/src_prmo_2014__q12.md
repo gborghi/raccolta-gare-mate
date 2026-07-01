@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2014__Q12
 parent: src_prmo_2014
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2014
@@ -32,6 +33,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of inradii of triangles ABD and BCD in quadrilateral ABCD*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 799
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Summa delle radici di triangoli ABD e BCD in ABCD quadrilaterale < MSK1/>
+
+> Il $ABCD$ deve essere un quadrilaterale converso con $\angle DAB = \angle BDC = 90^\circ$. Lasciate che gli incircoli dei triangoli $ABD$ e $BCD$ toccino $BD$ a $P$ e $Q$, rispettivamente, con $P$ tra $B$ e $Q$. Se $AD = 999$ e $PQ = 200$, qual è la somma dei radii degli incircoli dei triangoli $ABD$ e $BCD$?
+
+**Risposta:** 799
+[[src_prmo_2014__Q12]]

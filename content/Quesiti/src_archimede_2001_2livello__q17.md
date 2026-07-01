@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2001 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_2livello__Q17
 parent: src_archimede_2001_2livello
 competition: Archimede Gara 2º livello 2001
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tutte le soluzioni intere di a³+b³=91*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (6,-5),(-5,6),(3,4),(4,3)
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*All whole solutions of a3+b3=91*
+
+> Demonstratory Exercise Determine all solutions (a, b) with a, b integers relative to the equation a3 + b3 = 91.
+
+**Answer:** (6,-5),(-5,6),(3,4),(4,3)
+[[src_archimede_2001_2livello__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2010 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2010__Q09
 parent: src_cn_cmc_2010
 competition: China Mathematical Competition 2010
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum leading coefficient of a cubic whose derivative is bounded by 1 on [0,1]*
 
@@ -48,3 +51,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Coefficiente di conduzione massimo di un cubo la cui derivata è delimitata da 1 su [0,1]*
+
+> È noto che < MSK0/> (< MSK1/>) e < MSK2/> per < MSK3/>. Si prega di trovare il valore massimo di $a$.
+
+**Risposta:** $\frac{8}{3}$
+[[src_cn_cmc_2010__Q09]]

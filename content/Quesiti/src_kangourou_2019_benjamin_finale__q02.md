@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale Nazionale Benjamin — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_finale__Q02
 parent: src_kangourou_2019_benjamin_finale
 competition: Kangourou 2019 Finale Nazionale Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ottenere 2021 dalla calcolatrice con sole operazioni con 2019*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** si (+,+,:,+)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1d9iyPk8LwfrswApL_jEIctgz8ZPhb9Sf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Receive 2021 from the calculator with only operations with 2019*
+
+> Last New Year I got a strange calculator as a gift: it can only add or subtract 2019 from the number written on the screen or it can multiply or divide it by 2019. Right now, the screen shows the number 0. By doing some of these operations in sequence, one at a time, can I get the 2021 number as a result? Motive your answer if it is negative; if yes, indicate the shortest sequence of operations that allows you to get the result.
+
+**Answer:** si (+,+,:,+)
+[[src_kangourou_2019_benjamin_finale__Q02]]

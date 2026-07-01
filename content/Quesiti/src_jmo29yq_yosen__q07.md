@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo29yq_yosen__Q07
 parent: src_jmo29yq_yosen
 competition: Japan Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quadratics with P(1)=P(2)=Q(3)=0 and P^2+Q^2=R^2; find R*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $5x^2-18x+17$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ZGUltfShd6RzRNC7hqnaQTaGsiWmtFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadratici con P(1)=P(2)=Q(3)=0 e P^2+Q^2=R^2; trovare R*
+
+> $P,Q,R$ siano polinomi quadratici con coefficienti interi che soddisfino le seguenti condizioni. Trova tutte le possibili < MSK1/>. \inbegin{itemize} \item $P(1) = P(2) = Q(3) = 0$. \item Per ogni numero reale $x$, $P(x)^2 + Q(x)^2 = R(x)^2$ è valido. \item Non esiste un intero $\ge 2$ che divida tutti i coefficienti di $P$, $Q$, $R$. \item I coefficienti principali (quadratici) di $P$ e $Q$ non sono zero e il coefficiente principale (quadratico) di $R$ è positivo. # Finire #
+
+**Risposta:** 5x^2-18x+17
+[[src_jmo29yq_yosen__Q07]]

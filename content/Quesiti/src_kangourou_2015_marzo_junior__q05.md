@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Junior — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_junior__Q05
 parent: src_kangourou_2015_marzo_junior
 competition: Kangourou 2015 gara 19 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *>=5m dal muro, <=5m dall’albero*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lv8vPzK3uXmG94tNsM2uWmmnksIo2fLI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*>=5m from the wall, <=5m from the tree*
+
+![[src_kangourou_2015_marzo_junior__prob5.png]]
+
+> Many years ago a pirate buried a treasure in a garden and now he wants it back. The garden remained intact, but he only remembers having buried the treasure at least five metres from the fence wall and no more than five metres from an old tree. Which of the following figures indicates the region where the pirate should look for the treasure?
+
+**Answer:** B
+[[src_kangourou_2015_marzo_junior__Q05]]

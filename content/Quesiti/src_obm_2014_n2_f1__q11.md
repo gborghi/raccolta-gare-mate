@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f1__Q11
 parent: src_obm_2014_n2_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle divided by three segments; find total area given white region areas*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo diviso in tre segmenti; trovare superficie totale data area di regione bianca*
+
+> Il rettangolo della figura era diviso in tre segmenti in diverse regioni, alcune rettangolari e altre triangolari. Una linea è parallela a nessuno dei lati; l'altra è diagonale; i numeri indicano le aree nelle regioni bianche (24, 18 e 8). Qual è l'area del rettangolo originale?
+> 
+> (A) $60\text{ m}^2$ $\quad$ (B) $80\text{ m}^2$ $\quad$ (C) $90\text{ m}^2$ $\quad$ (D) $100\text{ m}^2$ $\quad$ (E) Impossibile determinare
+
+![[src_obm_2014_n2_f1__Q11.png]]
+
+**Risposta:** D
+[[src_obm_2014_n2_f1__Q11]]

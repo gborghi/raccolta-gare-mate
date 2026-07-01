@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2012 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2012__Q16
 parent: src_bocconi_squadre_2012
 competition: Gara a Squadre 2012
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero triangolare di tre cifre uguali*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 666
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangular number of three digits equal to *
+
+> A number is said to be triangular when it is equal to the sum of all natural integers (up to a certain point). The number $10$, for example, is triangular because it is the sum of $1+2+3+4$.
+> 
+> Write a triangular number equal to its three decimal places.
+
+**Answer:** 666
+[[src_bocconi_squadre_2012__Q16]]

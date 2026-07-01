@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet__Q04
 parent: src_kangourou_2005_cadet
 competition: Kangourou 2005 - Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale studenti con bici e rollerblade*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Percentage of students with bicycles and rollerblades
+
+> 50% of students at the Sobieski School have a bicycle. 30% of them have rollerblades. What percentage of students at the Sobieski School have both bicycles and rollerblades? A) 80% B) 40% C) 25%       D) 20%       E) 15%
+
+**Answer:** E
+[[src_kangourou_2005_cadet__Q04]]

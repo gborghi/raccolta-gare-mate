@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2022 - Gara Biennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_biennio__Q09
 parent: src_archimede_2022_biennio
 competition: Giochi di Archimede 2022 - Gara Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nella casella centrale-destra di tabella 3x3*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Daq06A5cNKvPAO0E8Ym-xGnc7AcmRZ_w/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the centre-right box of table 3x3*
+
+> In a table 3 × 3 all natural numbers from 1 to 9 are written. We know that: the product of the numbers in the top row is 84; the product of the numbers in the left column is 16; the sum of the numbers in the middle row is equal to the sum of the numbers in the bottom row; the product of the numbers in one of the two diagonals is odd. What number is written in the box to the right of the middle line? ?
+>
+> - **(A)** 5
+> - **(B)** 4
+> - **(C)** 9
+> - **(D)** 6
+> - **(E)** 3
+
+**Answer:** B
+[[src_archimede_2022_biennio__Q09]]

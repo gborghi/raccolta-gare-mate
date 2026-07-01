@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Junior — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_semif__Q18
 parent: src_kangourou_2018_junior_semif
 competition: Kangourou 2018 Semifinale Junior
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante terne ordinate (a,b,c) interi con a*b*c=45000*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3600
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17csch1-7f-cVvjGdqKXJQd6PNOelNdNG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many whole ternes (a,b,c) are ordered with a*b*c=45000*
+
+> (Points 8) For how many ordered sets (a, b, c) of relative integers does a < MSK0/> b < MSK1/> c = 45,000 occur?
+> 
+> 1296 0500 0005 9000 2019 2018 0669 1102 3600
+
+**Answer:** 3600
+[[src_kangourou_2018_junior_semif__Q18]]

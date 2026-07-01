@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1972-73 — Round 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1972-73_round1__Q08
 parent: src_bmo_1972-73_round1
 competition: British Mathematical Olympiad 1972-73 — Round 1
@@ -28,6 +29,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Companion matrix of a Mobius map; product and conditions for T^n = I*
 
@@ -41,3 +44,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Matrice di compagnia di una mappa Mobius; prodotto e condizioni per T^n = I< MSK1/>
+
+> Chiamare la matrice di accompagnamento per la mappatura $M_p = \begin{pmatrix} a_p & b_p \\ c_p & d_p \end{pmatrix}$. $\det M_p \ne 0$.
+> 
+> (i) dimostrare che $M_1 M_2$ è la matrice di accompagnamento per la mappatura $T_1 T_2$.
+> 
+> (ii) Trovare le condizioni su $a, b, c, d$ in modo che $T^n = I$ ma $T^2 \ne I$.
+
+[[src_bmo_1972-73_round1__Q08]]

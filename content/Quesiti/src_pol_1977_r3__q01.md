@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1977 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1977_r3__Q01
 parent: src_pol_1977_r3
 competition: Olimpiade Matematica Polacca 1977 — Round 3
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quadrilateral ABCD with given angles; prove AB and CD perpendicular*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ihJu65X9h_5nFSLWEBnWr2rsJ1UTiKwI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*ABCD quadrilaterale con angoli dati; prova AB e CD perpendicolari*
+
+> Il $ABCD$ deve essere un quadrilaterale con $\angle BAD = 60^\circ$, $\angle BAC = 40^\circ$, $\angle ABD = 80^\circ$, $\angle ABC = 70^\circ$. Prove che le linee $AB$ e $CD$ sono perpendicolari.
+
+[[src_pol_1977_r3__Q01]]

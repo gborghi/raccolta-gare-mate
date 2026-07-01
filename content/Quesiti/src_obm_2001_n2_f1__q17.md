@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f1__Q17
 parent: src_obm_2001_n2_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Days remaining rations feed cattle after buying and selling cows*
 
@@ -48,3 +51,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kSkTSTaNH74juczC4WNw5c6-XecpppL4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Diegi rimanenti di razione per l'alimentazione del bestiame dopo l'acquisto e la vendita di mucche< MSK1/>
+
+> Un agricoltore aveva vacche < MSK0/> e razioni per nutrirle per < MSK1/> giorni. Tuttavia, < MSK2/> giorni dopo, ha comprato < MSK3/> più mucche e < MSK4/> giorni dopo quell'acquisto ha venduto < MSK5/> mucche. Per quanti altri giorni, dopo questo ultimo acquisto, può nutrire il gregge con le rimanenti razioni?
+> 
+> (A) $50$ \quad (B) $60$ \quad (C) $70$ \quad (D) $80$ \quad (E) $90$
+
+**Risposta:** C
+[[src_obm_2001_n2_f1__Q17]]

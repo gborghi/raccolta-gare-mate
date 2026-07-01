@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Semifinale individuale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin_semifinale__Q01
 parent: src_kangourou_2023_benjamin_semifinale
 competition: Kangourou 2023 Benjamin — Semifinale individuale
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *min cifre dispari*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mF2rVbrNP5wIK8iQldHBHcyFNDzq0vZz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>min odd numbers< MSK1/>
+
+> Adele wrote a number consisting of 3 odd numbers and some even numbers, while Marco wrote a number consisting of 2 odd numbers and some even numbers. Gianna added Adele's number to Marco's. How many odd numbers will Gianna get at least? A) 0 (i.e. it may not have) B) 1 C) 2 D) 3 E) 4
+
+[[src_kangourou_2023_benjamin_semifinale__Q01]]

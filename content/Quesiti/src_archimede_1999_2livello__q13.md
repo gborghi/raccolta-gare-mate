@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1999 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_2livello__Q13
 parent: src_archimede_1999_2livello
 competition: Archimede Gara 2º livello 1999
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piazzamenti nello sprint che fanno vincere Cipollini*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 30
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Places in the sprint that make Cipollini win
+
+> Nine competitors take part in a points race on the track. For each intermediate goal, 9 points are awarded to the first, 8 to the second, 7 to the third and so on until 1 point is awarded to the last. Prior to the last sprint (in which the awarded score is double) the ranking saw Abdujaparov in command with 7 points lead over Boardman and 9 over Cipollini. The other competitors have such a set of points that they can no longer win the competition. How many different possible placements of the three runners in the last sprint allow Cipollini to win the race?
+
+**Answer:** 30
+[[src_archimede_1999_2livello__Q13]]

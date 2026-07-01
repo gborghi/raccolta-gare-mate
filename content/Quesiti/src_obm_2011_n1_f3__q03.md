@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f3__Q03
 parent: src_obm_2011_n1_f3
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *'Chapa' numbers: all digits nonzero and sum of squares of digits is a perfect square; find largest 2-digit chapa and whether a 2011-digit chapa exists.*
 
@@ -53,3 +56,17 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GU1DCqwGiQ-ufXg0UgJf2hRpS3A6ZEuR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Numeri * "Chapa": tutte le cifre non zeri e la somma dei quadrati di cifre è un quadrato perfetto; trovare il più grande chapa a 2 cifre e se esiste un chapa a 2011 cifre.*
+
+> Diciamo che un intero positivo è un *chapa* quando è formato solo da numeri non zero e la somma dei quadrati di tutti i suoi numeri è anche un quadrato perfetto. Ad esempio: - il numero $2115522$ è un chapa, dal momento che $2^2 + 1^2 + 1^2 + 5^2 + 5^2 + 2^2 + 2^2 = 8^2$ e tutti i suoi numeri sono non zero (diferenti da zero); - il numero $403$ non è un chapa, perché, anche se $4^2 + 0^2 + 3^2 = 5^2$, uno dei numeri di $403$ è zero (igual a zero); - il numero $12$ non è un chapa, perché $1^2 + 2^2 = 5$ e $5$ non è un quadrato perfetto.
+> 
+> a) Qual è il più grande intero positivo a due cifre che è un chapa?
+> 
+> b) Esiste un numero intero positivo con cifre $2011$ che è un chapa? Giustifica la tua risposta.
+
+[[src_obm_2011_n1_f3__Q03]]

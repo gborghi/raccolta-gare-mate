@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2015 - Biennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_biennio__Q13
 parent: src_archimede_2015_biennio
 competition: Giochi di Archimede 2015 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Configurazione non ottenibile invertendo righe/colonne*
 
@@ -48,3 +51,21 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1prvgjdAFaK6FEUhTIz1KxL8s22sIjytL/view)
 **Anche in triennio:** [apri PDF p.2](https://drive.google.com/file/d/1Mo-llnhuKi8xkPdokHUI1HQINyUCWdXi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Configuration not obtained by reversing rows/columns*
+
+![[src_archimede_2015_biennio__prob13.png]]
+
+> A grid divided into squares is initially colored as in the figure below. A move consists of choosing a row or column and reversing the color of all the boxes in it. By making 10 moves, which of the following configurations cannot be achieved?
+>
+> - **(A)**
+> - **(B)**
+> - **(C)**
+> - **(D)**
+> - **(E)**
+
+[[src_archimede_2015_biennio__Q13]]

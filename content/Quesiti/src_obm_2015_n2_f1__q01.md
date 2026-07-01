@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q01
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Order of cars arriving in a race from clues*
 
@@ -50,3 +53,21 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ordine delle auto che arrivano in gara da indizi*
+
+> Juquinha e i suoi amici organizzarono una gara con le loro auto. L'auto bianca (B) è arrivata prima di quella rossa (V) e dopo quella marrone (M). La macchina gialla (A) è arrivata dopo quella marrone e prima di quella rossa. Dall'inizio alla fine, qual è l'ordine delle auto?
+>
+> - **(A)** $B - A - V - M$
+> - **(B)** $B - V - A - M$
+> - **(C)** $B - M - A - V$
+> - **(D)** $B - M - V - A$
+> - **(E)** $B - A - M - V$
+
+![[src_obm_2015_n2_f1__Q01.png]]
+
+[[src_obm_2015_n2_f1__Q01]]

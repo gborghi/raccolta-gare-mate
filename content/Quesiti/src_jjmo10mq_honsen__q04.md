@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2012 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo10mq_honsen__Q04
 parent: src_jjmo10mq_honsen
 competition: Japan Junior Mathematical Olympiad 2012 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle, circumcenter construction; prove angle PMQ = 90°*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p8xf5NbDh83EXoQV1B0aUTwIqZMewoWT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles, costruzione circumcentrale; prova angolo PMQ = 90°*
+
+> Che $\triangle ABC$ sia un triangolo di uguali dimensioni con $\angle BAC = 30^\circ$. Il punto $X$ deve essere un punto all'interno del triangolo $ABC$ tale che $\angle XBC = \angle XCB = 30^\circ$. Per il segmento $BX$, prendere il punto $P$ in modo che $AP = BP$; per il segmento $CX$, prendere il punto $Q$ in modo che $AQ = CQ$. Il $M$ deve essere il punto medio di $BC$. Prove che < MSK13/>.
+
+[[src_jjmo10mq_honsen__Q04]]

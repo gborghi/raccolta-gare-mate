@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2015 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_classiprime__Q04
 parent: src_archimede_2015_classiprime
 competition: Gara Nazionale Classi Prime 2015
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifra mancante in frase con divisione 71*/17 resto 14*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Full figure in sentence with division 71*/17 remaining 14*
+
+> In the following sentence (taken from a well-known Kenoncè song) a figure is unreadable and is replaced by an asterisk: 71 gatti, in line for 17, with the rest of 14 Knowing that the sentence is correct from a mathematical point of view, find the missing figure. A 1 B 2 C 6 D 0 E 3 F data are insufficient to answer
+
+**Answer:** A
+[[src_archimede_2015_classiprime__Q04]]

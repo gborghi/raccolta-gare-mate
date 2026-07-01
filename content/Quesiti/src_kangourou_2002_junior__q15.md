@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q15
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura dell'angolo phi*
 
@@ -65,3 +68,39 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Measure of the angle phi*
+
+![[src_kangourou_2002_junior__prob15.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (2,0);
+  \coordinate (C) at (2,2);
+  \coordinate (D) at (0,2);
+  \coordinate (E) at (1,3.732);
+  \draw (A)--(B)--(C)--(D)--cycle;
+  \draw (C)--(D)--(E)--cycle;
+  \draw (A)--(E)--(B);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[right] at (C) {$C$};
+  \node[left] at (D) {$D$};
+  \node[above] at (E) {$E$};
+  \node[below] at (E) {$\varphi$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Now, look at this figure: ABCD is a square, while CDE is an equilateral triangle. What is the degree of the angle φ?
+>  
+> A. 22,5° B. 25° C. 30° D. 27,5° E. 32,5°
+
+**Answer:** C
+[[src_kangourou_2002_junior__Q15]]

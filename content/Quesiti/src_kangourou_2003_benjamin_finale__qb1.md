@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin_finale__QB1
 parent: src_kangourou_2003_benjamin_finale
 competition: Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Primo di quattro numeri con somma 54*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 3
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijL_j1ayb9z-cN_tMBQcCh2XLu4_Wkxh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First of four numbers with the sum of 54*
+
+> Four numbers are such that the second is equal to the first plus $7$, the third is equal to the second plus $7$ and the fourth is equal to the third plus $7$. Their sum is < MSK3/>. What's the first number?
+
+**Answer:** 3
+[[src_kangourou_2003_benjamin_finale__QB1]]

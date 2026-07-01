@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q19
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di tre cifre con proprietà della somma in due tranches*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 406; 593; 998
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three-digit numbers with the property of sum in two tranches*
+
+> Find a three-digit natural number that has this property: it goes to the square, you divide this square into two consecutive three-digit tranches (the first three in the first tranche, the second three in the second tranche), you add the two tranches and you get 1000. (The question has more than one solution: you have to give it all!)
+
+**Answer:** 406; 593; 998
+[[src_bocconi_squadre_2013__Q19]]

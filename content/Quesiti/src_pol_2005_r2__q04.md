@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2005 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2005_r2__Q04
 parent: src_pol_2005_r2
 competition: Olimpiade Matematica Polacca 2005 — Round 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For W(x)=x^2+ax+b with integer coefficients, for every prime p there is k with both W(k) and W(k+1) divisible by p; show there is m with W(m)=W(m+1)=0.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1TdHFWiGU9cO5g7t9suf-adbCUDeE_k7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per W(x)=x^2+ax+b con coefficienti interi, per ogni primo p c'è k con entrambi W(k) e W(k+1) divisibile da p; mostrare c'è m con W(m)=W(m+1)=0.*
+
+> Il polinomio $W(x) = x^2 + ax + b$ con coefficienti interi ha la seguente proprietà: per ogni numero primo $p$ c'è un intero $k$ tale che sia $W(k)$ che $W(k+1)$ siano divisibili da $p$. Indicare che esiste un numero intero $m$ tale che $W(m) = W(m+1) = 0$.
+
+[[src_pol_2005_r2__Q04]]

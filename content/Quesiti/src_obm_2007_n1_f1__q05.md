@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f1__Q05
 parent: src_obm_2007_n1_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of odd numbers up to 2007 minus sum of even numbers up to 2006*
 
@@ -51,3 +54,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di numeri unici fino al 2007 meno somma di numeri pari fino al 2006*
+
+> La somma di tutti i numeri unici positivi fino a $2007$ meno la somma di tutti i numeri pari positivi fino a $2006$ è uguale a:
+> 
+> (A) 1003 \quad (B) 1004 \quad (C) 2005 \quad (D) 2006 \quad (E) 2007
+
+**Risposta:** B
+[[src_obm_2007_n1_f1__Q05]]

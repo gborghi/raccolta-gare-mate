@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Student (marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_student_marzo__Q29
 parent: src_kangourou_2007_student_marzo
 competition: Kangourou 2007 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Centesimo elemento (somme di potenze di 3)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/15hXqtFYvCSrB5BpnWS_6lzrBiEDxuU4s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*100th element (sum of powers of 3) *
+
+> The sequence 1, 3, 4, 9, 10, 12, 13, ... consists of all and only the numbers that are powers of 3 or that can be written as the sum of powers of 3 different from each other, placed in increasing order. What's the hundredth item in the succession? A) 130 B)  981 C) 1234 D) 2401 E) 3100
+
+**Answer:** B
+[[src_kangourou_2007_student_marzo__Q29]]

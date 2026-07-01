@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Student (15 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_student__Q14
 parent: src_kangourou_2001_student
 competition: Kangourou 2001 - Student (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Termine successivo a 10^8 nei quadrati*
 
@@ -42,3 +45,19 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Term after 10^8 in squares*
+
+> Let's say 1, 4, 9, 16, the sequence of squares of natural numbers. The number 10 8 is an end of this sequence. Which of the following numbers is the next term of succession?
+>
+> - **(A)** (10 4 + 1)²
+> - **(B)** (10 8 + 1)²
+> - **(C)** (10 5 )²
+> - **(D)** (10 8 )² (E) (10 4 )² + 1.
+
+**Answer:** A
+[[src_kangourou_2001_student__Q14]]

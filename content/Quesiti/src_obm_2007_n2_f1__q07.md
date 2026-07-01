@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f1__Q07
 parent: src_obm_2007_n2_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square garden made of five equal-area squares, find total area*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Giardino quadrato costituito da cinque quadrati di superficie uguale, trovare superficie totale*
+
+> Il giardino della casa di Maria è formato da cinque giardini quadrati di superficie uguale e ha la forma di un quadrato, come nella figura qui sotto. Se $AB = 10$ m, la superficie del giardino in metri quadrati è:
+> 
+> (A) 200 $\quad$ (B) $10\sqrt{5}$ $\quad$ (C) 100 $\quad$ (D) $\dfrac{500}{3}$ $\quad$ (E) $\dfrac{100}{3}$
+
+![[src_obm_2007_n2_f1__Q07.png]]
+
+**Risposta:** D
+[[src_obm_2007_n2_f1__Q07]]

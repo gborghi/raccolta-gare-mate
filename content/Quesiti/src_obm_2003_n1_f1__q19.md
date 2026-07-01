@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q19
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many cells did Camila mark in the board game with Lara*
 
@@ -63,3 +66,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Quante cellule ha segnato Camila nel gioco da tavolo con Lara
+
+> Camila e Lara stanno giocando a un gioco su un tavolo. Camila segna alcune cellule della tavola e dice a Lara il numero di cellule segnate nel quartiere (condividendo un lato o un vertice, cioè un bordo o un angolo) di ciascuna cellula. In questo gioco, due cellule distinte sono considerate vicine se condividono un lato o un angolo. Lara deve scoprire quali cellule sono state segnate da Camila. Dopo aver contrassegnato alcune celle, Camila trasmette la seguente lavagna a Lara:
+> 
+> $$\begin{array}{|c|c|c|c|} \hline 1 & 2 & 1 & 1 \\ \hline 0 & 2 & 1 & 2 \\ \hline 2 & 3 & 3 & 1 \\ \hline 1 & 0 & 2 & 1 \\ \hline \end{array}$$
+> 
+> Il numero di cellule contrassegnate da Camila è:
+> 
+> (A) 3 \quad (B) 4 \quad (C) 5 \quad (D) 6 \quad (E) 7
+
+**Risposta:** B
+[[src_obm_2003_n1_f1__Q19]]

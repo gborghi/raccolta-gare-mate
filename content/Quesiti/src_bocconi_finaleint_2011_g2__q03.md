@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 2) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g2__Q03
 parent: src_bocconi_finaleint_2011_g2
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti cubi non toccano il tappeto né altri cubi?*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many cubes do not touch the carpet or other cubes?
+
+> Matilde's younger brother placed 18 cubes on the living room carpet. How many of these cubes don't touch exactly two others? Note: Two cubes are considered to touch only if they are in contact through the entire face.
+
+![[src_bocconi_finaleint_2011_g2__Q03.png]]
+
+**Answer:** 6
+[[src_bocconi_finaleint_2011_g2__Q03]]

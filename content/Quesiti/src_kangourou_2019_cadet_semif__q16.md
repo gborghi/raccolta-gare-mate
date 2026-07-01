@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Cadet — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_cadet_semif__Q16
 parent: src_kangourou_2019_cadet_semif
 competition: Kangourou 2019 Semifinale Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto eta mamma/Mara tra lo stesso numero di anni*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1phCvtzZl50ji_jVJDivksDRKk73y1EvN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Mother/Mother ratio between the same number of years < MSK1/>
+
+> Today is the birthday of Mara and her mother: her mother's age is five times that of Mara and some years ago she was seven times her age. Between the same number of years, dividing the age of the mother by that of Mara, what number will be obtained?
+
+**Answer:** 4
+[[src_kangourou_2019_cadet_semif__Q16]]

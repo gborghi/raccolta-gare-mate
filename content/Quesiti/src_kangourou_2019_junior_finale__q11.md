@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale nazionale Junior — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_finale__Q11
 parent: src_kangourou_2019_junior_finale
 competition: Kangourou 2019 Finale nazionale Junior
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato incognito dei sei rettangoli nella circonferenza*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0119
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lZAh4CO6HdjBMtwmndStMYR6aQts_BG7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Unknown side of the six rectangles in circumference*
+
+> The vertices of a square are $A$, $B$, $C$ and $D$ in the time direction. The vertices of an equilateral triangle are $A$, $B$ and $E$ in the time direction, where $A$ and $B$ are the same vertices of the square. What is the measurement in degrees of the angle $\angle CBE$?
+>
+> - **(A)** 30
+> - **(B)** 45
+> - **(C)** 135
+> - **(D)** 145
+> - **(E)** 150
+
+**Answer:** 0119
+[[src_kangourou_2019_junior_finale__Q11]]

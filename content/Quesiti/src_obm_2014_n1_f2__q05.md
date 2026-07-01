@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f2__Q05
 parent: src_obm_2014_n1_f2
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count pairs of positive integers under 100 where sum equals twice the difference*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare coppie di integri positivi inferiori a 100 in cui la somma è pari al doppio della differenza*
+
+> L'insieme $\{18, 54\}$ ha la proprietà che la somma dei suoi elementi, 72, equivale al doppio della loro differenza, 36. Quante serie di due interi positivi, entrambi inferiori a 100, hanno questa proprietà?
+> 
+> *Nota: le serie $\{18, 54\}$ e $\{54, 18\}$ sono uguali.*
+
+[[src_obm_2014_n1_f2__Q05]]

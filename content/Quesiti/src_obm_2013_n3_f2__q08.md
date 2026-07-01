@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f2__Q08
 parent: src_obm_2013_n3_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of ordered real quadruples (x,y,z,w) satisfying cyclic cubic system*
 
@@ -51,3 +54,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di quadrupli reali ordinati (x,y,z,w) che soddisfano il sistema cubico ciclico*
+
+> Determinare il numero di quadrupli ordinati $(x, y, z, w)$ di numeri reali tali che $$\begin{cases} -x^3 = y + z + w \\ -y^3 = z + w + x \\ -z^3 = w + x + y \\ -w^3 = x + y + z \end{cases}$$
+
+[[src_obm_2013_n3_f2__Q08]]

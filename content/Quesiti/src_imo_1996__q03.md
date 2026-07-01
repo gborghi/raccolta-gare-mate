@@ -1,6 +1,7 @@
 ---
 title: 'IMO 1996 (37th IMO, Mumbai) — Quesito 3'
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1996__Q03
 parent: src_imo_1996
 competition: 'IMO 1996 (37th IMO, Mumbai)'
@@ -26,6 +27,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all f with f(m+f(n))=f(f(m))+f(n)*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aMsg8wJHvILqMrSd4wfe9pY_tDmfBklQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find all f with f(m+f(n))=f(f(m))+f(n) *
+
+> Let S denotes the set of nonnegative integers. Find all functions f from S to itself such that f(m + f(n)) = f(f(m)) + f(n) ∀m, n ∈S. 37th International Mathematical Olympiad Mumbai, India Day II at 9 am - 1:30 p.m. July 11, 1996
+
+[[src_imo_1996__Q03]]

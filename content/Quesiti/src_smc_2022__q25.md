@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2022 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2022__Q25
 parent: src_smc_2022
 competition: Senior Mathematical Challenge 2022
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Drinks carton (pyramid from four congruent triangles, QP = RS = 4 cm, PR = 10 cm); find the volume in cm^3.*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/> Cartone di bevande (piramide di quattro triangoli congruenti, QP = RS = 4 cm, PR = 10 cm); trovare il volume in cm^3.< MSK1/>
+
+> Una scatola di bevande si forma disposendo quattro triangoli congruenti come mostrato. < MSK0/> e < MSK1/>. Qual è il volume della scatola, in cm< MSK2/>?
+>
+> - **(A)** $\frac{10}{3}\sqrt{23}$
+> - **(B)** $\frac{11}{3}\sqrt{10}$
+> - **(C)** $\frac{11}{3}\sqrt{6}$
+> - **(D)** $\frac{11}{3}\sqrt{5}$
+> - **(E)** $\frac{1}{3}\sqrt{6}$
+
+![[src_smc_2022__Q25.png]]
+
+**Risposta:** A
+[[src_smc_2022__Q25]]

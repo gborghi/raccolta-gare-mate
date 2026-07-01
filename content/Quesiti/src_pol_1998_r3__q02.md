@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1998 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1998_r3__Q02
 parent: src_pol_1998_r3
 competition: Olimpiade Matematica Polacca 1998 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fibonacci-based sequence: find all n≥4 where term equals 1*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HNzsYtp4f53ox4csFAmBEErk9uGCnNXP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza a base di Fibonacci: trovare tutti n≥4 dove il termine è uguale a 1*
+
+> La sequenza di Fibonacci $(F_n)$ è data da $F_0 = F_1 = 1$ e $F_{n+2} = F_{n+1} + F_n$ per $n \ge 0$. Per un numero intero $n \ge 4$, considera la sequenza definita da $$a_0 = \frac{F_0}{F_n}, \quad a_{k+1} = \begin{cases} \dfrac{2a_k}{1 - a_k} & \text{for } a_k \ne 1, \\ a_k & \text{for } a_k = 1, \end{cases} \quad k = 0, 1, 2, \ldots$$ Trova tutti i numeri interi $n \ge 4$ per i quali il numero $1$ è un membro della sequenza $(a_k)$.
+
+[[src_pol_1998_r3__Q02]]

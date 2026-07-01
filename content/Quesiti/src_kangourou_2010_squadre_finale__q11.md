@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2010 squadre finale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2010_squadre_finale__Q11
 parent: src_kangourou_2010_squadre_finale
 competition: Kangourou 2010 squadre finale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Primo esagono con spessore corona > 130*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 971
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>First hexagon with crown thickness > 130< MSK1/>
+
+> The thickness of the hexagon We call the thickness of a regular hexagon the thickness of the circular crown bounded by the circumference to it circumscribed and by that to it inscribed (i.e. the difference between the greater and lesser of the two rays). Now let's imagine a sequence of regular hexagons, the first on side one, the second on side two, the third on side three, and so on. What place in the sequence does the first of these hexagons, whose thickness exceeds 130, occupy?
+
+**Answer:** 971
+[[src_kangourou_2010_squadre_finale__Q11]]

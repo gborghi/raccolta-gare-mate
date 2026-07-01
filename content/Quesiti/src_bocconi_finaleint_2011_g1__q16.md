@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 1) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g1__Q16
 parent: src_bocconi_finaleint_2011_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Regioni massime con 2011 anti-segmenti nel piano*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 2 021 056
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum regions with 2011 anti-segments in the plan*
+
+> A $AB$ anti-segment is the part of the $AB$ straight (taken on its outer side) of the $[AB]$ segment (taken on that straight side) since that segment is of no length (except when an anti-segment is composed of two hill-shaped halves). If $3$ anti-segments are plotted on a plane, they can divide the plane, at most, into $4$ regions. **In how many regions, at most, can we divide a plan by tracing anti-segments on it $2011$**
+
+**Answer:** 2 021 056
+[[src_bocconi_finaleint_2011_g1__Q16]]

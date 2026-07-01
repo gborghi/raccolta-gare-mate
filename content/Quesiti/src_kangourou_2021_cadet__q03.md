@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q03
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato dell'espressione (2+0+2+1)/...*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Result of the expression (2+0+2+1)/...*
+
+> What is the result of the expression ? A) 42
+> 	
+> B) 64
+> 	
+> C) 80
+> 	
+> D) 84
+> 	
+> E) 105
+
+**Answer:** D
+[[src_kangourou_2021_cadet__Q03]]

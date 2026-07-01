@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2012 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2012__Q07
 parent: src_bocconi_semifinale_2012
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2012
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero massimo di tessere da 3 caselle collocabili finché non resta spazio, lasciando caselle vuote.*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 15
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of 3-box tiles to be placed until space is left, leaving empty boxes.*
+
+> Too many empty boxes
+> 
+> Amerigo enjoys the tiles that you see in the figure, on the side, and that he places horizontally or vertically in the chessboard. Each card occupies three empty boxes. At some point in the game, however, you have to stop because there is no more room for any other cards on the chessboard, even if there are empty boxes left.
+> 
+> How many, at most?
+
+![[src_bocconi_semifinale_2012__Q07.png]]
+
+**Answer:** 15
+[[src_bocconi_semifinale_2012__Q07]]

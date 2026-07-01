@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_biennio__Q06
 parent: src_archimede_2005_biennio
 competition: Giochi di Archimede 2005 - Gara Biennio
@@ -30,6 +31,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazioni su porte nelle pareti di una stanza*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Statements on doors on the walls of a room*
+
+> A rectangular room has the walls facing in the directions of the four cardinal points and there are four entrances. Three people are in the room and make the following statements. First person: There are no doors on the south wall. Second person: There are only doors on the north wall. Third person: On each wall there is at most one door. What can be said with certainty about the statements made?
+>
+> - **(A)** The first person's statement is true.
+> - **(B)** the statement made by the second person is true,
+> - **(C)** the third person's statement is true,
+> - **(D)** At least one statement is false,
+> - **(E)** There is nothing to be said for certain about the claims made.
+
+**Answer:** D
+[[src_archimede_2005_biennio__Q06]]

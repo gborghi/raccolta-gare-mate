@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2007 - Gara Biennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_biennio__Q08
 parent: src_archimede_2007_biennio
 competition: Giochi di Archimede 2007 - Gara Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cancello di ingresso della 2007-esima persona*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Input cancellation of the 2007th person*
+
+> At the stadium the spectators enter through five gates, one next to the other, according to this rule: one person from the first gate, then two people from the second gate, then three people from the third, then four people from the fourth and finally five people from the fifth. Then you start again the same way and you go on until everyone's in. Knowing that Raffaele will be the 2007th person to enter, which gate will he enter?
+>
+> - **(A)** From the first,
+> - **(B)** from the second,
+> - **(C)** from the third,
+> - **(D)** from the fourth,
+> - **(E)** From the fifth.
+
+**Answer:** E
+[[src_archimede_2007_biennio__Q08]]

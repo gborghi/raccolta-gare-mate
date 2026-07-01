@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q17
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count of digit 9 in n^2 where n is 2011 nines*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conto della cifra 9 in n^2 dove n è 2011 novini*
+
+> Il numero $n = 9999\cdots99$ ha i numeri $2011$, tutti uguali a $9$. Quante cifre $9$ ha il numero $n^2$?
+> 
+> (A) nessuno (B) 11 (C) 2010 (D) 2011 (E) 4022
+
+[[src_obm_2011_n1_f1__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo12yq_yosen__Q10
 parent: src_jjmo12yq_yosen
 competition: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Values of x^2/y+y^2/z+z^2/x up to 500 with gcd(x,y,z)=1*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** $3,\ 65,\ 386$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Valori di x^2/y+y^2/z+z^2/x fino a 500 con gcd(x,y,z) = 1*
+
+> Che $x$, $y$, $z$ siano integri positivi il cui più grande divisore comune (di tutti e tre) è $1$. Trova tutti i valori, tra i numeri interi al massimo $500$, che possono essere presi da $\dfrac{x^2}{y} + \dfrac{y^2}{z} + \dfrac{z^2}{x}$.
+
+**Risposta:** $3,\ 65,\ 386$
+[[src_jjmo12yq_yosen__Q10]]

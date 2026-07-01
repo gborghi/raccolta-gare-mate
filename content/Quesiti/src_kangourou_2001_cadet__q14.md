@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Cadet (15 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_cadet__Q14
 parent: src_kangourou_2001_cadet
 competition: Kangourou 2001 - Cadet (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo BED con CE massima*
 
@@ -63,3 +66,35 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*BED angle with CE maximum *
+
+![[src_kangourou_2001_cadet__prob14.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (2,0);
+  \coordinate (D) at (4,0);
+  \coordinate (C) at (1,1.732);
+  \draw (A) node[below left] {A} -- (B) node[below] {B} -- (D) node[below right] {D};
+  \draw (A) -- (C) node[above] {C} -- (B);
+\end{tikzpicture}
+\end{document}
+```
+
+> ABC is an equilateral triangle and B is the midpoint of the AD segment (v. (Figure 1). A point E is chosen in the same plane so that DE = AB. We know that the distance between C and E is the maximum possible. What is the size of the BED angle?
+>
+> - **(A)** 45°
+> - **(B)** 30°
+> - **(C)** 20°
+> - **(D)** 15°
+> - **(E)** 10°.
+
+**Answer:** D
+[[src_kangourou_2001_cadet__Q14]]

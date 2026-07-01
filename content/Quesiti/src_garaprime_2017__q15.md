@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2017 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2017__Q15
 parent: src_garaprime_2017
 competition: Gara Nazionale Classi Prime 2017
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di rettangoli interi distinti con area 12600*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of distinct whole rectangles with area 12600*
+
+> How many different rectangles with whole sides and area 12600? A 36 B 27 C 12 D 48 E 30 F 92
+
+**Answer:** A
+[[src_garaprime_2017__Q15]]

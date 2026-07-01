@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Extra Test) 2005 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-extra-test_2005__Q02
 parent: src_cn_cmc-extra-test_2005
 competition: China Mathematical Competition (Extra Test) 2005
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum of symmetric function given linear constraints on positive reals*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\frac{1}{2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di funzione simmetrica data la limitazione lineare sui reali positivi*
+
+> Supponiamo che i numeri positivi $a$, $b$, $c$, $x$, $y$, $z$ soddisfino $cy + bz = a$, $az + cx = b$, $bx + ay = c$. Trova il valore minimo della funzione $$f(x, y, z) = \frac{x^2}{1+x} + \frac{y^2}{1+y} + \frac{z^2}{1+z}.$$
+
+**Risposta:** \frac{1}{2}
+[[src_cn_cmc-extra-test_2005__Q02]]

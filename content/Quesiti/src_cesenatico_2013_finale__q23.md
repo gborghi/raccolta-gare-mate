@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q23
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *M+m testimoni veritieri al tavolo rotondo (implicazione)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9073
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*M+m true witnesses at the round table (implication) *
+
+> In the trial against the F of hearts, 7777 inhabitants of the Mateviglie camp are called to testify, who are made to sit around an immense round table. By law, a witness can always tell the truth or always lie. All 7777 speak at the same time and, surprisingly, they all utter the same sentence: "If the person on my right is telling the truth, then the person on my left is thinking". If, under these conditions, M is the maximum possible number of true witnesses and m is the minimum, how much is M + m worth?
+
+**Answer:** 9073
+[[src_cesenatico_2013_finale__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q04
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of quadrilateral formed by apexes of equilateral triangles on a unit square*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area quadrilaterale costituita da apici di triangoli equilaterali su un quadrato unitario*
+
+> Considera un quadrato $ABCD$ del lato $1$. All'esterno del quadrato si formano triangoli equilaterali $ABE$, $BCF$, $CDG$ e $DAH$. Qual è la superficie del quadrilaterale $EFGH$? (A) $2$ (B) $2\sqrt{3}$ (C) $2+\sqrt{3}$ (D) $3$ (E) $6$
+
+[[src_obm_2014_n3_f1__Q04]]

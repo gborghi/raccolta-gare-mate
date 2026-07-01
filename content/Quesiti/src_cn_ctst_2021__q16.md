@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q16
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Double inequality linking sum of 5^omega(m) to sum of tau(k)^2 floor(n/k)*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Doppia disuguaglianza che collega la somma di 5 omegrati a quella di tau k^2 piano n/k
+
+> Per ogni intero positivo $N$, $\tau(N)$ è il numero di divisori positivi di $N$; $\omega(N)$ è il numero di fattori primi distinti di $N$; $\Omega(N)$ è il numero di fattori primi di $N$ contato con moltiplicità. Prova: per ogni intero positivo $n$, $$\sum_{m=1}^{n} 5^{\omega(m)} \le \sum_{k=1}^{n} \left\lfloor \frac{n}{k} \right\rfloor \tau(k)^2 \le \sum_{m=1}^{n} 5^{\Omega(m)}.$$ Qui, $\lfloor x \rfloor$ è il più grande intero non superiore a $x$.
+
+[[src_cn_ctst_2021__Q16]]

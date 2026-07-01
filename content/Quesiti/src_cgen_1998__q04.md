@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1998 — Matematica — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1998__Q04
 parent: src_cgen_1998
 competition: Concours Général des Lycées 1998 — Matematica
@@ -33,6 +34,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Point on segment between two lines through O; minimize area then perimeter*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto su segmento tra due linee attraverso O; ridurre al minimo la superficie e quindi il perimetro*
+
+> Considera due linee $D_1$ e $D_2$ che si incrociano a $O$ e un punto $M$ che non appartiene a nessuna delle due linee. Considerare due punti variabili $A$ su $D_1$ e $B$ su $D_2$ in modo tale che $M$ appartenga al segmento $[A, B]$. (Le domande 1 e 2 sono indipendenti.)
+> 
+> (1) Indicare che esiste una posizione dei punti $A$ e $B$ per il quale l'area del triangolo $OAB$ è minima. Costruire i punti $A$ e $B$ così determinati.
+> 
+> (2) Indicare che esiste una posizione dei punti $A$ e $B$ per il quale il perimetro del triangolo $OAB$ è minimo, e che in questo caso i perimetri dei triangoli $OAM$ e $OBM$ sono uguali, e che inoltre si mantiene la seguente relazione: $$\frac{AM}{\tan\dfrac{\widehat{OAM}}{2}} = \frac{BM}{\tan\dfrac{\widehat{OBM}}{2}}.$$ Costruire i punti $A$ e $B$ così determinati.
+
+[[src_cgen_1998__Q04]]

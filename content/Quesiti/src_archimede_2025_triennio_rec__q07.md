@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_triennio_rec__Q07
 parent: src_archimede_2025_triennio_rec
 competition: Giochi di Archimede 2025 - Triennio (prova di riserva)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di H·(√47+√39) con somma di radicali razionalizzati*
 
@@ -72,3 +75,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*H value·(√47+√39) with sum of rationalized radicals*
+
+> Consider the number H = 1 √ 47 + √ 45 + 1 √ 45 + √ 43 + 1 √ 43 + √ 41 + 1 √ 41 + √ 39 What is the value of H· √ 47 + √ 39 ?
+>
+> - **(A)** 15/4
+> - **(B)** 7/2
+> - **(C)** 4
+> - **(D)** 17/4
+> - **(E)** 9/2
+
+**Answer:** C
+[[src_archimede_2025_triennio_rec__Q07]]

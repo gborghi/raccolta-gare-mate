@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2026__Q06
 parent: src_tfjm_2026
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2026
@@ -38,6 +39,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In an m x n grid of stools, people are ill at ease near occupied neighbours; study quasi-complete seatings and the max number seated, then variants with oriented seats facing distance 1, with water fountains replacing seats, and the expected number seated under uniform random arrival E(m,n).*
 
@@ -75,3 +78,39 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hTiNljsWOrlAluHwBHWAaMSv1TialL48/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In una griglia di sgabelli m x n, le persone si sentono a proprio agio vicino ai vicini occupati; studiare i sedili quasi completi e il numero massimo di posti seduti, quindi varianti con sedili orientati verso la distanza 1, con fontane d'acqua che sostituiscono i sedili, e il numero previsto di posti seduti sotto arrivo casuale uniforme E(m,n).*
+
+> 6. Disagio nella sala d'attesa.
+> 
+> In un grande ospedale di un paese lontano, la sala d'attesa è composta da feci che formano una griglia di dimensioni $m \times n$. L'ospedale cerca di massimizzare la capacità utilizzabile di questa sala d'attesa. Il problema è che gli abitanti di questo paese non si sentono a proprio agio: si sentono a proprio agio se c'è uno sgabello occupato accanto a loro, cioè sgabello adiacente.
+> 
+> Diciamo che una configurazione è quasi completa quando nessuno si sente a suo agio, cioè nessun altro può sedersi senza essere malato a suo agio o rendere un altro malato a suo agio.
+> 
+> 1. In questo caso, il personale ospedaliero siede le persone come desiderano per poter collocare il massimo di persone senza che nessuno si senta a proprio agio. Quante persone possono sedersi in un posto, in funzione di $m$ e $n$?
+> 
+> Per le seguenti domande, ogni sedile ha un orientamento fisso (Nord, Sud, Est o Ovest), e ogni persona seduta su un sedile guarda accanto a esso, nella direzione associata, a una distanza pari a $1$ (il caso in cui il sedile è sul lato del muro, nella direzione in cui si guarda, fa sì che non si veda nessuno nel proprio campo visivo). Chiamiamo una configurazione qualsiasi tavolo associato a ciascun sedile un orientamento. Per una configurazione $D$, si definisce $C_{\max}(D)$ come il numero massimo di persone che possono essere posizionate senza disagio e $C_{\min}(D)$ come il numero minimo di persone necessario per rendere la stanza quasi completa.
+> 
+> 2. a) Quale valore < MSK0/> assume al massimo (in particolare, l'ospedale sceglie < MSK1/> in modo ottimale)? Si può iniziare con $n = 1, 2, 3$. b) Ripetere la domanda precedente per $C_{\min}(D)$.
+> 
+> Un'ondata di calore si impadronisce della stanza: l'ospedale decide di sostituire alcuni posti con fontane d'acqua. Se un sedile è orientato verso una fontana, la persona che si trova lì guarda la fontana e non si sente a proprio agio.
+> 
+> Una configurazione può ora associare a ciascuna posizione un sedile (con il suo orientamento, come prima) o una fontana. Vedi figura 8.
+> 
+> 3. Let < MSK0/>. Solo in questa domanda, supponiamo che l'ospedale installa fonti $p$. Ripetere la domanda 2b) in questa impostazione, come funzione di $p$. Uno inizia con $p = 1$.
+> 
+> 4. Let < MSK0/>. Solo in questa questione, supponiamo che l'ospedale possa sostituire invece i sedili $p$ di sua scelta con fontane. Ripetere la domanda 2b) in questa impostazione, come funzione di $p$.
+> 
+> 5. Torniamo alla situazione all'inizio del problema, in cui i sedili sono sgabelli. Le persone arrivano una per una e, quando una persona arriva, si siede su uno scavo scelto uniformemente a caso tra i possibili scavi (cioè dove non si sentirà a proprio agio). Indichiamo < MSK0/> il numero previsto di persone che possono sedersi.
+> 
+> Estimare il valore di $E(m, n)$ come funzione di $m$ e $n$.
+> 
+> Domanda complementare. Proporre e studiare altre direzioni di ricerca.
+
+![[src_tfjm_2026__Q06.png]]
+
+[[src_tfjm_2026__Q06]]

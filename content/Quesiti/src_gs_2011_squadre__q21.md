@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2011 - Gara a squadre — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2011_squadre__Q21
 parent: src_gs_2011_squadre
 competition: Coppa Fermat 2011 - Gara a squadre
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza segmento con teorema della bisettrice*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0051
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of segment with the bisette theorem*
+
+![[src_gs_2011_squadre__prob21.png]]
+
+> As soon as James Bond is caught off Bunscerol Island, he informs Intelligence of a plant with SPECTRE bases. Draw a triangle of vertices $S$, $E$, $R$; on the side $SE$ indicate the middle point with $P$. Then combine $R$ with $P$ and trace the intersections of the two angles in $P$ that are not flat, marking with $T$ and $C$ respectively the meeting points of one intersection with the $SR$ segment and the other with the $RE$ segment. Intelligence knows that the distance between base $S$ and base $E$ is $240\,\text{km}$, the distance between base $R$ and base $S$ is $100\,\text{km}$ and the distance between base $P$ and base $R$ is $90\,\text{km}$. They also know that the SPECTRE operational centre is at the intersection of $TC$ and $RP$. How many kilometres from the base $T$ from the operational centre?
+
+**Answer:** 0051
+[[src_gs_2011_squadre__Q21]]

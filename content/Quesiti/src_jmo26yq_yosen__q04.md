@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo26yq_yosen__Q04
 parent: src_jmo26yq_yosen
 competition: Japan Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Partitions of 11x11 grid into 5 rectangles, one interior*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Partzioni della griglia 11x11 in 5 rettangoli, un interno*
+
+> Una griglia $11 \times 11$ di celle di unità è suddivisa lungo le linee della griglia in rettangoli $5$. Tra queste partizioni, si possono considerare quelle in cui esattamente uno dei rettangoli risultanti non tocca il confine esterno della griglia (nessuno dei suoi lati si trova sul confine esterno). Quante partizioni di questo tipo ci sono? Due partizioni che coincidono sotto rotazione o riflessione sono contate come distinte.
+
+**Risposta:** 32400
+[[src_jmo26yq_yosen__Q04]]

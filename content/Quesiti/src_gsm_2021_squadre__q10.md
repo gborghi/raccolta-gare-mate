@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2021_squadre__Q10
 parent: src_gsm_2021_squadre
 competition: Gara a Squadre GSM (locale Genova) 2021
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei cubi delle radici di un polinomio di quinto grado*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0491
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of cubic roots of a fifth degree polynomial*
+
+> Silvia Sconza Jacopo is in Fornelli to find Riccardo who is teaching him the original recipe of the gourds. I'm going to have to fill the dough. They told me that you're passionate about mathematical problems, so I suggest one: the amount, in grams, of chicks that we have to put is equal to a3 + b3 + c3 + d3 + e3 where a, b, c, d and e are the roots of the polynomial x5 −17x4 + 102x3 −260x2 + 264x −84. The funny guy! How many grams of chicken will they have to use?
+
+**Answer:** 0491
+[[src_gsm_2021_squadre__Q10]]

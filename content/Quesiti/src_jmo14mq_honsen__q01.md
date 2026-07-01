@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2004 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo14mq_honsen__Q01
 parent: src_jmo14mq_honsen
 competition: Japan Mathematical Olympiad 2004 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *No n makes 2n^2+1, 3n^2+1, 6n^2+1 all squares*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aESRi7OnarSwt4c_TIM_ZNlZDgdoPbhj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Non n rende 2n^2+1, 3n^2+1, 6n^2+1 tutti i quadrati*
+
+> Mostrare che non esiste un intero positivo $n$ tale che $2n^2+1$, $3n^2+1$ e $6n^2+1$ siano tutti quadrati perfetti.
+
+[[src_jmo14mq_honsen__Q01]]

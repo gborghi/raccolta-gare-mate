@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Biennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_biennio__Q05
 parent: src_archimede_2026_biennio
 competition: Giochi di Archimede 2026 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato BC in triangolo isoscele con angolo C quadruplo*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Late BC in an isosceles triangle with a quadruple C angle*
+
+> In the triangle ABC, the angles bA and bB are equal, whereas bC is quadrupled by bA. Knowing that the height coming out of C is 24 cm, how many cm does the BC side measure?
+>
+> - **(A)** 36
+> - **(B)** 40
+> - **(C)** 48
+> - **(D)** 45
+> - **(E)** 60
+
+**Answer:** C
+[[src_archimede_2026_biennio__Q05]]

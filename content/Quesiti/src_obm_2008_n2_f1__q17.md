@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f1__Q17
 parent: src_obm_2008_n2_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest x+y making a sum of powers a perfect square*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La minore x+y che rende la somma delle potenze un quadrato perfetto*
+
+> Si noti che: $$3^{2}+4^{2}=5^{2},$$ $$3^{3}+4^{3}+12^{2}=13^{2},$$ $$3^{4}+4^{4}+12^{2}+84^{2}=85^{2}.$$ Qual è il valore più piccolo possibile della somma $x+y$ con $x$, $y$ interi positivi come $3^{5}+4^{5}+12^{2}+84^{2}+x^{2}=y^{2}$? (A) $289$ \quad (B) $250$ \quad (C) $425$ \quad (D) $795$ \quad (E) $103$
+
+[[src_obm_2008_n2_f1__Q17]]

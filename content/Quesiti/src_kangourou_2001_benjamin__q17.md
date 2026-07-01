@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q17
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo per altre materie di Susanna*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Time for other subjects of Susanna< MSK1/>
+
+> Susanna takes exactly one hour to do all her homework. He spends a third of his time on math and two-fifths on geography. How long does it take to do the other subjects?
+>
+> - **(A)** 12 minutes .
+> - **(B)** 20 minutes .
+> - **(C)** 24 minutes .
+> - **(D)** 36 minutes .
+> - **(E)** 40 minutes, please.
+
+**Answer:** C
+[[src_kangourou_2001_benjamin__Q17]]

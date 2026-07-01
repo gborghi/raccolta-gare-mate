@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin__Q27
 parent: src_kangourou_2023_benjamin
 competition: Kangourou 2023 Benjamin — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *collezione più costosa*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>more expensive collection< MSK1/>
+
+> In a clothing store, two hats are sold for the same price as five skirts, three skirts for the same price as eight shirts and two shirts for the same price as three hats. Which of the following clothing collections costs the most? A. A hat and five skirts. B) A hat, three skirts and a hat. C) Eight skirts and six shirts. D) Thirty-seven caps. E) Three skirts and three hats.
+
+**Answer:** C
+[[src_kangourou_2023_benjamin__Q27]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_finale__Q14
 parent: src_cesenatico_2012_finale
 competition: Gara a Squadre Cesenatico 2012 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Aura iniziale prima del Kartesioh-ken (radici)*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4150
 **Fonte:** [apri PDF p.22](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Initial time before the Kartesioh-ken (roots) < MSK1/>
+
+> It's over nine thousand! King Kartesioh likes to see and review the recording of the fighting between Gonioku and Vietnam, when Gonioku resorted to Kartesioh-ken, the secret technique to increase the aura. It works this way: if Gonioku's aura is n, Gonioku considers the polynomial x2 −mx+n; takes its roots (which exist and are whole) a and b with a > b; corrects them in a−1 and b+1; considers finally the monic polynomial1 with these new values as roots. His aura is then worth the new term known. Gonioku can use this technique once a minute. After an hour of fierce fighting, Vietnam doesn't believe its scout: Gonioku's aura has just surpassed 9000. Knowing that m is the smallest positive integer so the aura exceeds 9000 without ever exactly matching it, how much was Gonioku's aura worth before he started using the Kartesioh-ken?
+
+**Answer:** 4150
+[[src_cesenatico_2012_finale__Q14]]

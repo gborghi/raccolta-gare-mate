@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q07
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -35,6 +36,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of two reals is positive integer n, sum of squares is n+1012; max n*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2025
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La somma di due reali è un intero positivo n, la somma dei quadrati è n+1012; max n*
+
+> La somma di due numeri reali è un intero positivo $n$ e la somma dei loro quadrati è $n + 1012$. Trova il valore massimo possibile di $n$.
+
+**Risposta:** 2025
+[[src_ioqm_2025_sep07__Q07]]

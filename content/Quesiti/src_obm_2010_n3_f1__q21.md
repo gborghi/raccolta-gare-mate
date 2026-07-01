@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q21
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *With n=2010^2010 and log n defined, order the three quantities n!, n^{log n}, (log n)^n.*
 
@@ -55,3 +58,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Con n=2010^2010 e log n definito, ordinare le tre quantità n!, n^{log n}, (log n)^n.*
+
+> Il numero $n=2010^{2010}$ e il numero $\log n$ sono $m$ in modo tale che $10^m=n$. Allora...
+>
+> - **(A)** $n!<n^{\log n}<(\log n)^n$
+> - **(B)** $n^{\log n}<n!<(\log n)^n$
+> - **(C)** $(\log n)^n<n^{\log n}<n!$
+> - **(D)** $(\log n)^n<n!<n^{\log n}$
+> - **(E)** $n^{\log n}<(\log n)^n<n!$
+
+[[src_obm_2010_n3_f1__Q21]]

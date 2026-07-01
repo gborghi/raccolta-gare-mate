@@ -1,6 +1,7 @@
 ---
 title: IMO 2018 (LIX International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2018__Q01
 parent: src_imho_2018
 competition: IMO 2018 (LIX International Mathematical Olympiad)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Circumcircle, perpendicular bisectors, parallel lines in triangle*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tvIX0rbY0Jiofkx0Jp_N_tsr4t5dB-fl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Circumcircle, perpendicular bisectors, parallel lines in triangle*
+
+> Let $\Gamma$ be the circumcircle of acute-angled triangle $ABC$. Points $D$ and $E$ lie on segments $AB$ and $AC$, respectively, such that $AD = AE$. The perpendicular bisectors of $BD$ and $CE$ intersect the minor arcs $AB$ and $AC$ of $\Gamma$ at points $F$ and $G$, respectively. Prove that the lines $DE$ and $FG$ are parallel (or are the same line).
+
+[[src_imho_2018__Q01]]

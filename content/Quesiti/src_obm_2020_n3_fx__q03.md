@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2020 — Nível 3 — Fase x — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2020_n3_fx__Q03
 parent: src_obm_2020_n3_fx
 competition: Olimpíada Brasileira de Matemática 2020 — Nível 3 — Fase x
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Mixtilinear circles in a triangle: common tangents concurrent and isogonal conjugates*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b__JDOphfOKJwjRdW1rKhY9YKOrtSicC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circoli mista lineari in un triangolo: tangenti comuni coniugati simultanei e isogonali*
+
+> Che $r_A$, $r_B$, $r_C$ siano le radici mistilineari del triangolo $XYZ$ centrato a $P$ all'interno del triangolo. Il cerchio $\omega_A$ (centro $X$) è interno tangente a $r_B r_C$; il cerchio $\omega_B$ (centro $Y$) è interno tangente a $r_C r_A$; e il cerchio $\omega_C$ (centro $Z$) è interno tangente a $r_A r_B$. Il punto $P$ si trova all'interno del triangolo $XYZ$ in modo tale che le linee $r_A$, $r_B$, $r_C$ siano le tangenti interne comuni delle coppie di cerchi corrispondenti. La linea $s_A$ deve essere la linea interna tangente a $\omega_B$ e $\omega_C$ che non contiene $r_A$; la linea $s_B$ deve essere la linea interna tangente a $\omega_A$ e $\omega_C$ che non contiene $r_B$; la linea $s_C$ deve essere la linea interna tangente a $\omega_A$ e $\omega_B$ che non contiene $r_C$. Prove che $s_A$, $s_B$ e $s_C$ si incontrano in un punto comune $Q$, e che $P$ e $Q$ sono coniugati isogonali in triangolo $XYZ$ , cioè che le linee $XP$ e $XQ$ sono simmetriche rispetto al bisettore angolare di $\angle YXZ$, e allo stesso modo per i vertici $Y$ e $Z$.
+
+[[src_obm_2020_n3_fx__Q03]]

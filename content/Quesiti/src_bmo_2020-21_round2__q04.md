@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2020-21 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2020-21_round2__Q04
 parent: src_bmo_2020-21_round2
 competition: British Mathematical Olympiad 2020-21 — Round 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence where a_i - i contains every integer exactly once*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SEh6e0SuVOxbNt7sTRtb3XK9cGPbAmL5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza in cui a_i - i contiene ogni numero intero esattamente una volta*
+
+> Matteo scrive una sequenza $a_1, a_2, a_3, \ldots$ di numeri interi positivi. Ogni $a_n$ è il numero intero positivo più piccolo, diverso da tutti i termini precedenti della sequenza, in modo tale che la media dei termini $a_1, a_2, \ldots, a_n$ è un numero intero. Provare che la sequenza definita da $a_i - i$ per $i = 1, 2, 3, \ldots$ contiene ogni numero intero esattamente una volta.
+
+[[src_bmo_2020-21_round2__Q04]]

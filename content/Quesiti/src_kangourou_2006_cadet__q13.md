@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q13
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Secondi per vedere sfilare il secondo treno*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Seconds to watch the second train parade*
+
+> Two trains of the same length are travelling to a meeting Cadet_06bis.qxp 20/02/2006 23.52 Page 18
+> 
+> I'm going to pay. I'm going to pay. 19 19 Kang 2006 Kang 2006 on a dual-track line, the first at 100 km/h and the second at 120 km/h. When they cross, from a window of the second train, a passenger observes that it takes exactly six seconds for the first train to completely slide in front of them. In how many seconds does a passenger on the first train see the second train parade in front of him? A) 5 B) 6 C) between 6 and 7 D) 7 E) more than 7
+
+**Answer:** B
+[[src_kangourou_2006_cadet__Q13]]

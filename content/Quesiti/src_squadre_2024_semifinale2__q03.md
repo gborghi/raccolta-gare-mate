@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Semifinale 2 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_semifinale2__Q03
 parent: src_squadre_2024_semifinale2
 competition: Gara a Squadre 2024 - Semifinale 2
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza A dalla bomba con diametri e tangenti, XY=9*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0692
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance A from the pump with diameters and tangents, XY=9*
+
+> Noted yellow book writer Jessica Fourier likes to put some math questions in her novels. In its last effort, it asks the reader how many pairs (x,y) of integers with \\\displaystyle \\\mathbb {MSK0/>4000} are so there exists a positive integer k that satisfies the relation x2 +y2 +22k−1 +2kx−2ky = 0. What's the answer?
+
+**Answer:** 0692
+[[src_squadre_2024_semifinale2__Q03]]

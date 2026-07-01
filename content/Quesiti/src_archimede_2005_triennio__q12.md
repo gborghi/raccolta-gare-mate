@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Triennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_triennio__Q12
 parent: src_archimede_2005_triennio
 competition: Giochi di Archimede 2005 - Gara Triennio
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di indovinare 10 risposte con vincoli*
 
@@ -55,3 +58,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of guessing 10 responses with constraints< MSK1/>
+
+> A mathematics competition consists of 10 multiple-choice questions, each with four possible answers marked with the letters A, B, C and D (for each question there is one and only one correct answer). Charles learns that the list of correct answers contains three letters A, three letters B, two letters C, and two letters D. What is the probability that Charles, choosing at random a list that he has
+>
+> Does this feature answer all the questions correctly?
+>
+> - **(A)** 1/26500,
+> - **(B)** 1/25200,
+> - **(C)** 1/24600,
+> - **(D)** 1/21200,
+> - **(E)** 1/20800.
+
+**Answer:** B
+[[src_archimede_2005_triennio__Q12]]

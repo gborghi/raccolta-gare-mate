@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1990 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1990__Q02
 parent: src_cgen_1990
 competition: Concours Général des Lycées 1990 — Matematica
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max pieces of painted regular tetrahedra with no two identical*
 
@@ -44,3 +47,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximi pezzi di tetraedri regolari dipinti senza due identici*
+
+> Un gioco è costituito da pezzi in forma di tetraedri regolari con bordi di lunghezza $1$.
+> 
+> Tutti i pezzi sono dipinti con l'aiuto di una palette di colori $n$: ogni faccia di un tetraedro è dipinta in un unico colore e le quattro facce di un tetraedro non sono necessariamente tutte di colori diversi.
+> 
+> Determinare il numero massimo di pezzi nel gioco, sapendo che non ci sono due pezzi identici.
+
+[[src_cgen_1990__Q02]]

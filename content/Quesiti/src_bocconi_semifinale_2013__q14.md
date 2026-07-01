@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2013 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2013__Q14
 parent: src_bocconi_semifinale_2013
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2013
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dimensioni del rettangolo particolare con perimetro doppio della lunghezza*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** due soluzioni: $5 \times 20$ e $6 \times 12$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Dimensions of the particular rectangle with a perimeter twice the length*
+
+> This rectangle is particular because it is not a square and has dimensions (expressed by integers) such that one of the two numbers expressing its area and the perimeter (the first in cm$^2$, the second in cm) is twice the other.
+> 
+> What are the dimensions of the particular rectangle?
+
+**Answer:** due soluzioni: $5 \times 20$ e $6 \times 12$
+[[src_bocconi_semifinale_2013__Q14]]

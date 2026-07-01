@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2006 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo4q__Q06
 parent: src_jjmo4q
 competition: Japan Junior Mathematical Olympiad 2006
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Volume of cube formed by joining centroids of adjacent faces of a regular octahedron*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Volume di cubo formato dall'unione dei centroidi di facce adiacenti di un ottaedro regolare*
+
+> Per qualsiasi triangolo, i tre mediani (i segmenti che uniscono ogni vertice al punto medio del lato opposto) si incontrano in un unico punto, chiamato centroide del triangolo.
+> 
+> Ora, quando i centroidi delle facce adiacenti di un ottaedro regolare sono collegati da bordi, si forma un cubo. Trova il volume di questo cubo come una frazione del volume dell'ottoedro regolare originale.
+
+![[src_jjmo4q__Q06.png]]
+
+[[src_jjmo4q__Q06]]

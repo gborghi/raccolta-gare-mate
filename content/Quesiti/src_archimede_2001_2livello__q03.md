@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2001 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_2livello__Q03
 parent: src_archimede_2001_2livello
 competition: Archimede Gara 2º livello 2001
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area della regione grigia nel triangolo rettangolo isoscele*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xXhYs-vqAnxjRL_kSJoYJPTvd7bf6-zW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the grey region in the triangle isosceles rectangle*
+
+![[src_archimede_2001_2livello__prob3.png]]
+
+> In the side-drawn isosceles rectangle, each side was divided into five equal parts. Determine the area of the region highlighted in gray with the knowledge that each catheter is 50 cm long.
+>
+> - **(A)** 9 cm2
+> - **(B)** 50 cm2
+> - **(C)** 90 cm2
+> - **(D)** 18 √ 26 cm2
+> - **(E)** None of the previous ones.
+
+**Answer:** C
+[[src_archimede_2001_2livello__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2005 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2005_r3__Q03
 parent: src_pol_2005_r3
 competition: Olimpiade Matematica Polacca 2005 — Round 3
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2n x 2n board, 4n^2 reals with sum 0, each at most 1 in absolute value; prove every column or row sum has absolute value at most n.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORyk-mK8rlEH9HuKazmwqcy5n8d2do0t/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2n x 2n tabella, 4n^2 reali con somma 0, ciascuna al massimo 1 in valore assoluto; dimostrare che ogni somma di colonne o righe ha un valore assoluto al massimo n.*
+
+> In una tabella $2n \times 2n$ ($n \in \mathbb{N}$) sono scritti $4n^2$ numeri reali con la somma $0$ (un numero in ogni cella). Il valore assoluto di qualsiasi numero non supera $1$. Prova che il valore assoluto di tutti i numeri di una colonna o di una riga non supera $n$.
+
+[[src_pol_2005_r3__Q03]]

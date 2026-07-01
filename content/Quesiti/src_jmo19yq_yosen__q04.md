@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo19yq_yosen__Q04
 parent: src_jmo19yq_yosen
 competition: Japan Mathematical Olympiad 2009 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum angle BAC given AB=4 and median AM=1*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Ma19OTWpr4eKAMTyOWLirH4vzYARv5J/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*BAC angolo minimo dato AB=4 e AM mediana=1*
+
+> Nel triangolo $ABC$, $M$ sia il punto medio del lato $BC$, con $AB=4$ e $AM=1$. Trova il minimo valore possibile dell'angolo $\angle BAC$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+[[src_jmo19yq_yosen__Q04]]

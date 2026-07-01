@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r3__Q01
 parent: src_pol_1993_r3
 competition: Olimpiade Matematica Polacca 1993 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all rational solutions to a symmetric system in five unknowns.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ozjMAbDlKBC3LLKmoYwAq8Nm_A0MkSaK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le soluzioni razionali a un sistema simmetrico in cinque sconosciuti.*
+
+> Trova tutte le soluzioni razionali $x, y, z, t, w$ al seguente sistema: $$2xy = t^2 - w^2 + z^2,$$ $$2xz = t^2 - y^2 + w^2,$$ $$2yz = t^2 - w^2 + x^2.$$
+
+[[src_pol_1993_r3__Q01]]

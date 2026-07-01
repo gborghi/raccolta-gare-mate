@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin semifinale individuale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_semifinale__Q13
 parent: src_kangourou_2022_benjamin_semifinale
 competition: Kangourou 2022 Benjamin semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre del quoziente di 111...999 diviso 111*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0025
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WLuxevdVfb6yR3VvoVIhFETdy5CmwHJ_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Coefficient number of 111...999 divided by 111*
+
+> (6 points) The number 111.222.333.444.555.666.777.888.999 (each of the digits from 1 to 9 appears exactly 3 times) is divisible by 111. How many digits does the quotient of that division have?
+
+**Answer:** 0025
+[[src_kangourou_2022_benjamin_semifinale__Q13]]

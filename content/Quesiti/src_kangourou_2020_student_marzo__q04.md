@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q04
 parent: src_kangourou_2020_student_marzo
 competition: Kangourou 2020 Student - gara marzo (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percentuale di studenti che usano il motorino*
 
@@ -66,3 +69,17 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Percentage of students who use motorcycles< MSK1/>
+
+![[src_kangourou_2020_student_marzo__prob4.png]]
+
+> The cake diagram shows how students at a school reach the school building. Those using bicycles are about twice as many as those using public transportation, while those arriving by car are about as many as those who walk. Everybody else is coming in the motorcycle. What's the percentage of students using a motorcycle? A) 6 % B) 11 % C) 12 % D) 24 % E) 47 % x 0 1/4 1/2 3/4 1 5/4 a b p q r s t 11 % 47 % 12 % 24 % 6 %
+>
+
+**Answer:** A
+[[src_kangourou_2020_student_marzo__Q04]]

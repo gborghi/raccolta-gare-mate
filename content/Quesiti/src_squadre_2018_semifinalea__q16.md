@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Semifinale A — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_semifinalea__Q16
 parent: src_squadre_2018_semifinalea
 competition: Gara a Squadre 2018 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rettangolo e triangolo, area quadrilatero CYXD*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0248
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangle and triangle, quadrilateral area CYXD*
+
+> A particular guitar To test the new amplifier of \ DOC Matryx plays a strange guitar: it consists of an ABCD rectangle with AB > BC and an ABP triangle, with P located both in the strip identified by the BC and DA directions and in the semiplane identified by AB that does not contain the CD side. Calling X and Y the intersections of AB with PD and PC respectively, the sum of the areas of the PAX and PBY triangles is 71cm2, while the area of ABCD is 354cm2. How many cm2 is the area of CY XD? Team competition 3018  Semi-final A  Problem tests  2/2
+> 
+> U XIX National Team Semifinal Competition A  Solution  4 May 3018 olimpiadi.dm.unibo.it www.oliforum.it Nr. The problem
+
+**Answer:** 0248
+[[src_squadre_2018_semifinalea__Q16]]

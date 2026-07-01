@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2000 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2000__Q06
 parent: src_inmo_2000
 competition: Indian National Mathematical Olympiad 2000
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *f(n) counts integer-sided triangles; prove f(1999)>f(1996) and f(2000)=f(1997)*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19gclPYoes6dSVvxjkTBtcJvWFswaMdDg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*f(n) conta i triangoli a lato intero; prova f(1999)>f(1996) e f(2000)=f(1997)*
+
+> Per qualsiasi numero naturale $n$ ($n \ge 3$), $f(n)$ indichi il numero di triangoli a lato intero non congruenti con perimetro $n$ (ad esempio, $f(3) = 1$, $f(4) = 0$, $f(7) = 2$). Indicare che (a) $f(1999) > f(1996)$; (b) $f(2000) = f(1997)$.
+
+[[src_inmo_2000__Q06]]

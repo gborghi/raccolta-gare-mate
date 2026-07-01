@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q10
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima differenza tra due di 4 interi distinti con media 5*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum difference between two of 4 distinct integers with mean 5*
+
+> Four positive integers are all different from each other and their arithmetic mean is 5. What may be the greatest difference between the two? A) 5
+>  
+> B) 6
+>  
+> C) 8
+>  
+> D) 13
+>  
+> E) 25 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2024_cadet__Q10]]

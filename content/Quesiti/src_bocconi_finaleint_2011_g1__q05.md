@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 1) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g1__Q05
 parent: src_bocconi_finaleint_2011_g1
 competition: >-
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo totale gettoni con quattro facce*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 23
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15qdMlMCA4K56lyXmErNkd5QnfR_hnFX1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum total of four-sided tokens*
+
+> Caso plays with four chips whose faces are numbered from 1 to 8 (one digit per face). Throw the tokens out the first time and you get: $6$, $1$, $4$ and $3$ (the other faces are hidden). He throws them a second time and gets $1$, $3$, $5$ and $7$. Throw them out a third time and you get $3$, $7$, $2$ and $6$. The total of each launch is therefore $14$, $16$ and $18$ respectively. **If you throw them away a fourth time, what is the maximum total you will get? **
+
+**Answer:** 23
+[[src_bocconi_finaleint_2011_g1__Q05]]

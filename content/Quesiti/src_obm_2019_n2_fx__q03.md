@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2019 — Nível 2 — Fase x — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2019_n2_fx__Q03
 parent: src_obm_2019_n2_fx
 competition: Olimpíada Brasileira de Matemática 2019 — Nível 2 — Fase x
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumscribed circle intersection: show XD and AQ meet on circle*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aeOcEq6wUslacZqIssF_CvSifM3PfH2W/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Intersezione del cerchio circoscritto: mostrare che XD e AQ si incontrano sul cerchio*
+
+> $ABC$ sia un triangolo rettangolo inciso in un cerchio $\Gamma$ con centro $O$. $D$ sia il piede dell'altitudine dal vertice $A$. $E$ e $F$ siano punti su $\Gamma$ in modo tale che $AE = AD = AF$. I punti di intersezione della linea $EF$ sono $P$ e $Q$ con i lati $AB$ e $AC$, rispettivamente. Il punto di intersezione $X$ è il secondo punto di intersezione della linea $EF$ con il circolo circonscritto del triangolo $APQ$. Indicare che le linee $XD$ e $AQ$ si incontrano su $\Gamma$.
+
+[[src_obm_2019_n2_fx__Q03]]

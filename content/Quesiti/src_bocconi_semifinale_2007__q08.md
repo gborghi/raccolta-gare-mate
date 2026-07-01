@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2007 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2007__Q08
 parent: src_bocconi_semifinale_2007
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2007
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare griglia con interi 2-10, somme per riga date*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (soluzione determinata univocamente dalle condizioni)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete the grid with integers 2-10, sums per row given*
+
+> Complete the empty boxes with the whole numbers from 2 to 10 (each used only once) knowing that the number written to the right is the sum of the numbers in the corresponding row:
+> 
+> $$1 \;\square\; \square\; \square\; \square \longrightarrow 27$$ $$10\; \square\; \square\; \square\; \square \longrightarrow 28$$ $$11\quad 11 \quad 11 \quad 11 \quad 11$$
+
+![[src_bocconi_semifinale_2007__Q08.png]]
+
+**Answer:** (soluzione determinata univocamente dalle condizioni)
+[[src_bocconi_semifinale_2007__Q08]]

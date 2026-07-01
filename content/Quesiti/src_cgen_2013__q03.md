@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2013 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2013__Q03
 parent: src_cgen_2013
 competition: Concours Général des Lycées 2013 — Matematica
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sisyphe's dice game on 106 cells: wins by reaching/passing cell 100, loses on a prime cell below 100. Probabilities p_n, the position variable X, an algorithm for P(X=k), and an estimate of the gain probability via conditional probabilities alpha_p over consecutive primes.*
 
@@ -71,3 +74,25 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pq6bo-6oCLQunkq5bIb1Od_s6bhLIKzO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il gioco dei dadi di Sisyphe su 106 cellule: vince raggiungendo/passando la cellula 100, perde su una cellula primaria inferiore a 100. Probabilità p_n, la variabile di posizione X, un algoritmo per P(X=k), e una stima della probabilità di guadagno tramite probabilità condizionate alfa_p su numeri primi consecutivi.*
+
+> Il problema 3: Il faut passer les premiers (Bisogna lasciare passare i primi).
+> 
+> Per questo problema, ci viene dato l'elenco dei venticinque numeri primi meno $100$: $$2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97$$
+> 
+> Per giocare a un gioco di solitaire (une reussite), Sisyphe ha disegnato sul terreno $106$ cellule numerate da $0$ a $105$, e ha un token e un dado a sei lati (giusto). Sisyphe inizia il gioco mettendo il token sulla cella $0$. Fa poi una serie di rulli di die; quando il dado mostra il valore $k$, muove il token in avanti con le celle $k$ e: - se raggiunge o passa il numero di cellula $100$, Sisyphe ha vinto; - se atterra su una cellula il cui numero è un numero primo inferiore a $100$, Sisyphe ha perso; - negli altri casi, Sisyphe rulla di nuovo il dado e continua il gioco.
+> 
+> In questa domanda, supponiamo che Sisyphe inizia una nuova partita ogni volta che ha perso. $p_n$ indichi la probabilità di vincere almeno una partita in un numero massimo di $n$ die roll. **a.** Determinare i valori di $n$ per i quali $p_n > 0$. < MSK9/>b.< MSK10/> Studiare la convergenza della sequenza < MSK4/>.
+> 
+> Nel resto del problema, Sisyphe non inizia più una nuova partita se perde. Che $X$ sia la variabile casuale che rappresenta la posizione del token alla fine della partita. Indichiamo con $\mathbb{P}(X = k)$ la probabilità dell'evento $X = k$.
+> 
+> **2. a.** Determina $\mathbb{P}(X = 2)$, $\mathbb{P}(X = 3)$, $\mathbb{P}(X \geqslant 4)$, $\mathbb{P}(X = 5)$. **b.** Proporre un algoritmo per calcolare $\mathbb{P}(X = k)$ per ogni $k \in \{0, \ldots, 105\}$.
+> 
+> Dotato di una calcolatrice non abbastanza potente da eseguire l'algoritmo precedente, Sisyphe cerca di stimare la sua probabilità di guadagno. A tal fine, dato due numeri primi consecutivi $p < p'$, egli considera $\alpha_p$ la probabilità condizionale dell'evento $X = p'$ dato l'evento $X > p$. < MSK13/>a.< MSK14/> Quali sono i valori di < MSK4/> e < MSK5/>? **b.** Indicare l'espressione della probabilità di guadagno, $\mathbb{P}(G) = \mathbb{P}(X \geqslant 100)$, in termini di numeri reali $\alpha_p$ per $p = 2, 3, 5, \ldots$ **c.** Indicare un allegato (quadramento) dei numeri $\alpha_p$ e dedurre da esso un allegato di $\mathbb{P}(G)$. (In questa domanda, il criterio di valutazione sarà la qualità dell'allegato.)
+
+[[src_cgen_2013__Q03]]

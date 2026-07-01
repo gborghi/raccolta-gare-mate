@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2005 — Round 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2005_r2__Q05
 parent: src_pol_2005_r2
 competition: Olimpiade Matematica Polacca 2005 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In rhombus ABCD with angle BAD=60 degrees, E on AB and F on AD satisfy angle ECF = angle ABD; lines CE and CF meet line BD at P and Q; prove PQ/EF = AB/BD.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1TdHFWiGU9cO5g7t9suf-adbCUDeE_k7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nel rombo ABCD con angolo BAD=60 gradi, E su AB e F su AD soddisfano angolo ECF = angolo ABD; le linee CE e CF incontrano la linea BD a P e Q; dimostrano PQ/EF = AB/BD.*
+
+> Si indica un rombo $ABCD$ con $\angle BAD = 60^\circ$. I punti $E$ sul lato $AB$ e $F$ sul lato $AD$ sono tali da $\angle ECF = \angle ABD$. Le linee $CE$ e $CF$ riscontrano rispettivamente le linee $BD$ a $P$ e $Q$. Prove che $\frac{PQ}{EF} = \frac{AB}{BD}$.
+
+[[src_pol_2005_r2__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1979-80 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1979-80_round1__Q03
 parent: src_bmo_1979-80_round1
 competition: British Mathematical Olympiad 1979-80 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square inscribed in semicircle; line through vertex and arc point passes through incenter of triangle*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n5B-ELf98YCz5IP34V0d13ErIyoqNLrU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrato inserito in semicircolo; linea attraverso il vertice e il punto d'arco passa attraverso l'incentro del triangolo*
+
+> Sul diametro $AB$ che confina una regione semicircolare ci sono due punti $P$ e $Q$, e sull'arco semicircolare ci sono due punti $R$ e $S$ in modo tale che $PQRS$ sia quadrato. $C$ è un punto dell'arco semicircolare tale che le superfici del triangolo $ABC$ e del quadrato $PQRS$ siano uguali.
+> 
+> Prova che una linea retta che attraversa uno dei punti $R$ e $S$ e uno dei punti $A$ e $B$ taglia un lato del quadrato al centro del triangolo.
+
+[[src_bmo_1979-80_round1__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q24
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of times the string '21' appears when the integers 1 to 999 are concatenated.*
 
@@ -54,3 +57,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero di volte in cui la stringa '21' appare quando i numeri interi da 1 a 999 sono concatenati.*
+
+> Esmeralda scrisse (giustamente!) tutti i numeri da 1 a 999, uno dopo l'altro: $$1234567891011213\dots 997998999.$$ Quante volte appare il raggruppamento "21", in questo ordine?
+> 
+> (A) 11 (B) 21 (C) 31 (D) 41 (E) 51
+
+[[src_obm_2004_n3_f1__Q24]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q15
 parent: src_kangourou_2018_benjamin_marzo
 competition: Kangourou 2018 Benjamin - Gara 15 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale pallina pesa 30 g*
 
@@ -51,3 +54,21 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The ball weighs 30 g
+
+![[src_kangourou_2018_benjamin_marzo__prob15.png]]
+
+> Of the five balls you see in the figure, three weigh 50 g, one weighs 30 g and one weighs 80 g. Which one weighs 30 grams? A) A
+> 	
+> B) B C) C
+> 	
+> D) D E) E
+>
+
+**Answer:** C
+[[src_kangourou_2018_benjamin_marzo__Q15]]

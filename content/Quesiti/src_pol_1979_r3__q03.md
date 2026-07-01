@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1979 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1979_r3__Q03
 parent: src_pol_1979_r3
 competition: Olimpiade Matematica Polacca 1979 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability of exactly k successes in n independent tests*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mFSc82UPOl-hsqJK3SMN5XvfV4dcKK2I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Probabilità di esatti successi k in n test indipendenti< MSK1/>
+
+> Un esperimento consiste nell'esecuzione di test indipendenti $n$. La prova $i$-è riuscita con probabilità pari a $p_i$. La probabilità di successo dei test $k$ è $p_k$. Provare che < MSK0/>
+
+[[src_pol_1979_r3__Q03]]

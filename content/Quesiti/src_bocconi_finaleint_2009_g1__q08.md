@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2009 (prova 1) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2009_g1__Q08
 parent: src_bocconi_finaleint_2009_g1
 competition: >-
@@ -40,6 +41,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di pioni su un reticolo a 9 vertici senza tre pioni dello stesso colore ai vertici di un triangolo equilatero.*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** configurazione mostrata in figura (numero massimo di pioni)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of columns on a nine-point grid without three columns of the same colour at the vertices of an equilateral triangle.*
+
+> 8 - NO Equivalent Triangle (coefficient 8) On each of the 9 vertices of the grid, either a white or a black pivot can be placed or the space can be left empty. Never place three same-colored poles at the vertices of the same equilateral triangle, whatever its size and orientation. A white stone and has already been placed (see figure). Place as many pawns as possible.
+
+![[src_bocconi_finaleint_2009_g1__Q08.png]]
+
+**Answer:** configurazione mostrata in figura (numero massimo di pioni)
+[[src_bocconi_finaleint_2009_g1__Q08]]

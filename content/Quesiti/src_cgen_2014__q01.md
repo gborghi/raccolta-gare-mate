@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2014 — Matematica — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2014__Q01
 parent: src_cgen_2014
 competition: Concours Général des Lycées 2014 — Matematica
@@ -36,6 +37,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Geometric stability: a sequence with bounded increments x_{n+1}-q x_n in [0,epsilon], expressed via telescoping, then approximated by geometric sequences for q<1 and q>1.*
 
@@ -67,3 +70,29 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1obqFZcNocFah5P6ftcXj9ue3NMcS9ZQn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Stabilità geometrica: una sequenza con incrementi limitati x_{n+1}-q x_n in [0,epsilon], espressa tramite telescopio, successivamente approssimata con sequenze geometriche per q<1 e q>1.*
+
+> In tutto il problema, $\varepsilon$ e $q$ indicano due numeri reali rigorosamente positivi. Consideriamo una sequenza $(x_n)$ di numeri reali come $x_0 > 0$ e, per ogni numero naturale $n$, $$0 \le x_{n+1} - q\,x_n \le \varepsilon.$$
+> 
+> \textbf{1.} Per ogni numero naturale $n$, imposta $b_n = x_{n+1} - q\,x_n$. Indicare che, per ogni numero intero $n \ge 1$, $$x_n = q^n x_0 + q^{n-1} b_0 + q^{n-2} b_1 + \cdots + q\,b_{n-2} + b_{n-1}.$$
+> 
+> \textbf{2.} In questa domanda, supponiamo $0 < q < 1$.
+> 
+> \textbf{a.} Mostra che esiste una sequenza geometrica $(y_n)$ tale che, per ogni $n \ge 0$, $$|y_n - x_n| \le \frac{\varepsilon}{1-q}.$$
+> 
+> \textbf{b.} Mostrare che ci sono in realtà infinitamente tante simili sequenze geometriche $(y_n)$.
+> 
+> In questa domanda, supponiamo $q > 1$. Per ogni numero intero $n \ge 1$, imposta $$u_n = \frac{x_n}{q^n} = x_0 + \frac{b_0}{q} + \cdots + \frac{b_{n-1}}{q^n}.$$
+> 
+> \textbf{a.} Mostra che la sequenza $(u_n)$ converge. Indicare il suo limite $s$.
+> 
+> \textbf{b.} Mostra che per ogni $n \ge 1$, $0 \le s - u_n \le \dfrac{\varepsilon}{q^n(q-1)}$.
+> 
+> \textbf{c.} Mostra che esiste una sequenza geometrica unica $(y_n)$ tale che, per ogni numero naturale $n$, $$|y_n - x_n| \le \frac{\varepsilon}{q-1}.$$
+
+[[src_cgen_2014__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q22
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coordinate del quarto punto A su parabola e circonferenza*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Coordinates of fourth point A on parabola and circumference*
+
+> 22. A 0xy orthogonal Cartesian system is fixed in the plane. If the parabola of equation y = $x^{2}$+px + q is such that a) it intersects the axes x and y at three distinct points; b) the circumference passing through the three points above intersects the parabola at a fourth point A distinct from the previous three points, what are the coordinates of point A? $q^{2}$ q A) (0,- q) B) (p, q) C) (- p, q) D) (- , ) ---- --- $p^{2}$ p E) (1, p + q + 1)
+
+**Answer:** C
+[[src_kangourou_2018_student_marzo__Q22]]

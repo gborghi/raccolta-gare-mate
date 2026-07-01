@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q11
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scatole vere/false con vincoli aritmetici*
 
@@ -62,3 +65,26 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8229
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*True/false boxes with arithmetic constraints*
+
+> In a quarry on a narrow sea island, there are 5 boxes talking about different materials. Each box contains a natural number and says only the true or only the false.
+> 
+> Box 1 is made of iron and gives two information: - the number inside me is the quotient of the number in box 5 and the number in box 2 - a third of the number inside box 3 is the product of all prime numbers less 15 except one (of these prime numbers) 
+> 
+> Box 2 is made of pine wood and gives two information: - at least one metal box says it's fake - the number in box 1 is less than 200
+> 
+> Box 3 is copper and gives two information: - the number inside me is the difference between the number in box 5 and the number in box 2 - the number inside box 1 is prime
+> 
+> Box 4 is made of walnut wood and gives two information: - box 5 says false - number in box 3 is divisible by 11
+> 
+> Box 5 is in lead and says: - The number in box 1 is less than 220 - All wooden boxes say the fake
+> 
+> What's the number in box five?
+
+**Answer:** 8229
+[[src_gs_2013_squadre__Q11]]

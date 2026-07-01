@@ -1,6 +1,7 @@
 ---
 title: Kangourou Finale Junior 2024 — Quesito J4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_finale__QJ4
 parent: src_kangourou_2024_junior_finale
 competition: Kangourou Finale Junior 2024
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo valore di N(P) per un pentagono*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Y-tp_mTp0sC1jmwY30azSLfiSncH3a5p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum value of N(P) for a pentagon*
+
+![[src_kangourou_2024_junior_finale__probJ4.png]]
+
+> For a polygon (plane) $P$, not necessarily convex, we indicate with $N(P)$ the number of points that are diagonal intersections and not verticals. If $P$ is a quadrilateral, $N(P)$ may be only $1$ or $0$. If $P$ is a pentagon, the maximum possible value for $N(P)$ is $5$ (e.g. if $P$ is regular); but what is the minimum possible value? (In any polygon, by diagonal means a segment that joins two non-adjacent vertices.)
+
+[[src_kangourou_2024_junior_finale__QJ4]]

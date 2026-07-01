@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2017 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2017_automne__Q08
 parent: src_canimath_2017_automne
 competition: Coupe Animath Automne 2017
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle ABCD, E = foot of perp from B to AC, circle through A and E centred on (AD), F on [CD]; prove BF bisects angle AFC*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rettangolo ABCD, E = piede di perp da B a AC, cerchio attraverso A e E centrato su (AD), F su [CD]; dimostrare che BF divide angolo AFC*
+
+> $ABCD$ sia un rettangolo tale che $AB > BC$. Il $E$ è la proiezione ortogonale di $B$ su $(AC)$ e $\Gamma$ il cerchio che attraversa $A$ e $E$ il cui centro si trova su $(AD)$. Il punto di intersezione di $\Gamma$ e $[CD]$ è $F$. Prove che $(BF)$ è il bisettore di $\widehat{AFC}$.
+
+[[src_canimath_2017_automne__Q08]]

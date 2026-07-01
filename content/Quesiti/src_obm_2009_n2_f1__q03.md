@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q03
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many seating arrangements for 2 couples in 4 chairs so spouses sit adjacent*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quante sedizioni per 2 coppie in 4 sedie in modo che i coniugi si sedano vicini*
+
+> Quante coppie sposate possono sedersi in quattro sedie consecutive in modo che ogni marito e moglie siano vicini l'uno all'altro?
+> 
+> **(A)** $2$ $\quad$ **(B)** $4$ $\quad$ **(C)** $8$ $\quad$ **(D)** $12$ $\quad$ **(E)** $24$
+
+**Risposta:** C
+[[src_obm_2009_n2_f1__Q03]]

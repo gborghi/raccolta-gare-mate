@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q15
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability that f(k), the largest perfect power not exceeding k, is a perfect square*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Probabilità che f ((k), la potenza perfetta più grande non superiore a k, sia un quadrato perfetto*
+
+> Una \emph{potenza perfetta} è un intero della forma $a^b$, dove $a$ e $b$ sono interi, $b > 1$. La potenza $f(n)$ deve essere la potenza perfetta più grande che non superi $n$. Per esempio, $f(7) = 4$, $f(8) = 8$ e $f(99) = 81$. Tracciando casualmente un intero $k$ con $1 \le k \le 100$, qual è la probabilità che $f(k)$ sia un quadrato perfetto?
+> 
+> (A) $64\%$ \quad (B) $72\%$ \quad (C) $81\%$ \quad (D) $90\%$ \quad (E) $96\%$
+
+[[src_obm_2013_n3_f1__Q15]]

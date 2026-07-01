@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q09
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Blank pages in a 600-page book printed in multiples of 3 and 5*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Pagine vuote in un libro di 600 pagine stampato in multipli di 3 e 5*
+
+> A causa di un difetto di stampa, in un libro di $600$ pagine tutte le pagine i cui numeri sono multipli di $3$ o $5$ appaiono vuote. Quante pagine sono vuote?
+> 
+> A) $100$ \quad B) $150$ \quad C) $250$ \quad D) $300$ \quad E) $430$
+
+**Risposta:** C
+[[src_obm_2005_n1_f1__Q09]]

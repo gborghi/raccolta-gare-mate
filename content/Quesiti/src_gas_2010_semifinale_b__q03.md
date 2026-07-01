@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale B — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_b__Q03
 parent: src_gas_2010_semifinale_b
 competition: Gara a Squadre 2010 - Semifinale B
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio non-bugiardi in cerchio con affermazioni sui vicini*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5184
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Circle count of non-bugs with neighbouring statements*
+
+> 3. The true pearl swarm is divided into two factions: the MSK rat recruited by Captain Jack Disparrow, who always tell the truth, and those recruited by the fearsome Bourbakossa, who always lie and plot to mutineer. At the end of the final count, 7776 members of the crew were in a circle on the deck of the ship. Each of them says out loud, "Of my two neighbors, one was recruited by Jack and the other by Bourbakossa". Knowing that Master Gibbs is also in the circle, who was the first to be recruited by Jack, how many in total will not mutine?
+
+**Answer:** 5184
+[[src_gas_2010_semifinale_b__Q03]]

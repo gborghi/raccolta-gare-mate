@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2021 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_printemps__Q07
 parent: src_canimath_2021_printemps
 competition: Coupe Animath Printemps 2021
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max length of a 0/1 sequence balanced in every 200 but unbalanced in every 202*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza massima di una sequenza 0/1 bilanciata ogni 200 ma sbilanciata ogni 202*
+
+> Anna scrive una sequenza di $0$s e $1$s sulla lavagna. Anna osserva che in ogni blocco di cifre consecutive $200$ scritte sulla lavagna, ci sono uguali cifre $0$ che cifre $1$. Essa osserva inoltre che in ogni blocco di $202$ cifre consecutive scritte sulla lavagna, il numero di $0$ e il numero di $1$ non sono uguali. Qual è il numero massimo di cifre che Anna avrebbe potuto scrivere sulla lavagna?
+
+[[src_canimath_2021_printemps__Q07]]

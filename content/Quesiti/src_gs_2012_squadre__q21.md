@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q21
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorsi di otto archi nel grafo*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0324
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Eight arcs paths in the graph*
+
+![[src_gs_2012_squadre__prob21.png]]
+
+> Snow White and the Seven Dwarfs are sitting around a circular table, and each stacks a number of books on the table in front of him, between 2 and 9 (extremes included). They notice that even if you take two of their seats next to each other, the number of books in front of one of them divides the number of books in front of the other. Dotto has 9 books on the table in front of him, so Snow White, who sits on his left side, has 3 or 9 books in front. How many ways can you get books distributed on the table?
+
+**Answer:** 0324
+[[src_gs_2012_squadre__Q21]]

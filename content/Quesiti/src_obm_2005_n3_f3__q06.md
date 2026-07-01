@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f3__Q06
 parent: src_obm_2005_n3_f3
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of positive integer x with a^x + x ≡ b (mod c)*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1F9lkwsgi8APknl_B1NzisX_Ji9AXA7h5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di un intero positivo x con a^x + x  b (mod c) *
+
+> Dato un intero positivo $a$ e $c$ e un intero $b$, dimostrare che esiste un intero positivo $x$ tale che $$a^x + x \equiv b \pmod{c},$$, cioè esiste un intero positivo $x$ tale che $c$ divide $a^x + x - b$.
+
+[[src_obm_2005_n3_f3__Q06]]

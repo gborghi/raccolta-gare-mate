@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2008 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2008__Q13
 parent: src_cn_cmc_2008
 competition: China Mathematical Competition 2008
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove identity about x-intercept of |sin x| and tangent line through origin*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Prove l'identità dell'intersezione di x di x e della linea tangente attraverso l'origine.
+
+> È noto che la curva $f(x) = |\sin x|$ intercetta la linea $y = kx$ ($k > 0$) in esattamente tre punti, la coordinata massima $x$ di questi punti essendo $a$. Provare che < MSK0/>
+
+[[src_cn_cmc_2008__Q13]]

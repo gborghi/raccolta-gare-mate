@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo15yq_yosen__Q05
 parent: src_jmo15yq_yosen
 competition: Japan Mathematical Olympiad 2005 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count unordered triples of distinct positive integers with product equal to 12 times sum*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Contare triples non ordinati di numeri interi positivi distinti con prodotto pari a 12 volte la somma < MSK1/>
+
+> Quanti triples non ordinati di integri positivi reciprocamente distinti $\{a, b, c\}$ soddisfano $abc = 12(a + b + c)$? Qui, i triples che differiscono solo nell'ordine (come $\{3, 6, 18\}$ e $\{6, 3, 18\}$) vengono contati come lo stesso triplo.
+
+**Risposta:** 4
+[[src_jmo15yq_yosen__Q05]]

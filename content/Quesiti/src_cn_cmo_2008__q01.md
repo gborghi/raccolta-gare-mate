@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2008 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2008__Q01
 parent: src_cn_cmo_2008
 competition: China Mathematical Olympiad 2008
@@ -31,6 +32,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove sum of reciprocals of circumradii equals 2/R*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La somma provata delle reciprocità di circumradii è pari a 2/R*
+
+> Che $\triangle ABC$ sia un triangolo acuto non isosceles, e il punto $O$ è il circondario. Il $A'$ deve essere un punto della riga $AO$ tale che $\angle BAA' = \angle CA'A$. Costruire $A'A_1 \perp AC$, $A'A_2 \perp AB$ con $A_1$ su $AC$, $A_2$ su $AB$ rispettivamente. $AH_1$ è perpendicolare a $BC$ a $H_1$. Scrivere $R_A$ come il circondario di $\triangle H_1 A_1 A_2$. Indicare allo stesso modo $R_B$ e $R_C$. Prove che $$\frac{1}{R_A} + \frac{1}{R_B} + \frac{1}{R_C} = \frac{2}{R},$$ dove $R$ è il circondario di $\triangle ABC$.
+
+[[src_cn_cmo_2008__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia) — Quesito B3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_benjamin_finale__QB3
 parent: src_kangourou_2003_benjamin_finale
 competition: Kangourou 2003 - Finale nazionale Benjamin (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza del rettangolo magico*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 27
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijL_j1ayb9z-cN_tMBQcCh2XLu4_Wkxh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Length of the magical rectangle< MSK1/>
+
+> Mirabilandia's magical leather rectangle shrinks by half in length and by a third in height every time it fulfills its owner's wish. After $5$ desired its area is $2\,\text{cm}^2$, while after $2$ desired its height was $4\,\text{cm}$. How long did he have after he fulfilled his first wish?
+
+**Answer:** 27
+[[src_kangourou_2003_benjamin_finale__QB3]]

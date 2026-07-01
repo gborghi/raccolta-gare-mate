@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q07
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Neto's age in 2006 given his 1994 age and birth-year sum*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>L'età di Neto nel 2006 data la sua età e l'anno di nascita del 1994
+
+> Alla fine del 1994, Neto aveva la metà dell'età di sua nonna. La somma degli anni di nascita è < MSK0/>. Nel 2006, Neto sarà:
+> 
+> **A)** 55 anni \quad **B)** 56 anni \quad **C)** 60 anni \quad **D)** 62 anni \quad **E)** 105 anni
+
+**Risposta:** B
+[[src_obm_2006_n2_f1__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q05
 parent: src_kangourou_2009_ecolier_marzo
 competition: Kangourou 2009 - Ecolier (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte 6 in quattro lanci con somma 23*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many times 6 in four rounds with a total of 23*
+
+> Enrica has thrown a dice four times. The sides of the dice are numbered from 1 to 6 and, adding up the scores on each roll, Enrica has totaled 23. How many times did you get 6? A) 0 B) 1 C) 2 D) 3 E) 4 Texts_09.qxp 15-04-2009 20:23 Page 5
+> 
+> I'm going to pay. I'm going to pay. 6 Kang 2009 Kang 2009
+
+**Answer:** D
+[[src_kangourou_2009_ecolier_marzo__Q05]]

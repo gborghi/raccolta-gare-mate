@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q02
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number N is 503 in base b and 305 in base b+2; find product of digits of N*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 45
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il numero N è 503 nella base b e 305 nella base b+2; trovare il prodotto delle cifre di N*
+
+> Un numero $N$ nella base 10 è $503$ nella base $b$ e $305$ nella base $b + 2$. Qual è il prodotto delle cifre di $N$?
+
+**Risposta:** 45
+[[src_ioqm_2020__Q02]]

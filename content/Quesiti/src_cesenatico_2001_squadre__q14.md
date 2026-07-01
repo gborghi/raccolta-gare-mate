@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale a Squadre Cesenatico 2001 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2001_squadre__Q14
 parent: src_cesenatico_2001_squadre
 competition: Gara Nazionale a Squadre Cesenatico 2001
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anni bisestili (somma cifre 7) tra anno 0 e 5000*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0110
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vDepHRaFUzrv6BDke2EDeOFDrGOiMuO7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Bisexual years (sum of figures 7) between 0 and 5000 < MSK1/>
+
+> The following table shows the number of calendar days: < MSK0/> Calendars< MSK1/> (30 points)
+> 
+> In the IMES calendar, even-numbered years are those corresponding to numbers whose sum of digits is 7 (for example, the year 1060 is even-numbered). How many leap years have there been between year zero and year 5000?
+
+**Answer:** 0110
+[[src_cesenatico_2001_squadre__Q14]]

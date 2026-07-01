@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2017-18 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2017-18_round2__Q02
 parent: src_bmo_2017-18_round2
 competition: British Mathematical Olympiad 2017-18 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circular cake game: for which n can Mad Hatter force Alice to eat all cakes*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uspeJo3bktF-kiQR5tne5ytV0YEfkRCN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Gioco di torta circolare: per il quale il Cappellaio Pazzo può costringere Alice a mangiare tutte le torte
+
+> Ci sono posti $n$ per il tè intorno a un tavolo circolare, e ogni posto ha una piccola torta su un piatto. Alice arriva prima, si siede al tavolo e mangia la sua torta (ma non è molto bella). Successivamente arriva il Cappellaio Pazzo, e dice ad Alice che avrà una festa di tè solitaria, e che deve continuare a cambiare il suo posto, e ogni volta deve mangiare la torta di fronte a lei (se non è stato ancora mangiato). Infatti il Cappellaio Pazzo è molto boss, e dice ad Alice che, per $i = 1, 2, \ldots, n-1$, quando si muove per la $i$-time, deve spostare $a_i$ posti e lui consegna ad Alice la lista di istruzioni $a_1, a_2, \ldots, a_{n-1}$. A Alice non piacciono le torte, ed è libera di scegliere, in ogni fase, se muoversi in senso orario o in senso antiorario. Per quali valori di $n$ il Cappellaio Pazzo può costringere Alice a mangiare tutte le torte?
+
+[[src_bmo_2017-18_round2__Q02]]

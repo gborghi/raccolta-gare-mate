@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2011 — Quesito
   8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2011__Q08
 parent: src_bocconi_finalenaz_2011
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2011
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale tra i due numeri scelti è il più grande*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (vedi soluzioni)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which of the two numbers chosen is the largest*
+
+> Carla, Milena, and I (three uncles) are sitting around a table with 11 cards numbered from 1 to 11. I choose two of them mentally, then she comes up to Carla and says in her ear, The sum of the two numbers I've chosen is equal to $\ldots$. Similarly, he suggests in a way reserved for Milena that the difference between the two numbers chosen (the largest minus the smallest) is equal to $\ldots$. At this point the uncle asks both girls: Knowing only the two numbers in question?. Milena says, "No, knowing only their differences, I can't know!" Carla, on the other hand: I didn't know that either, but considering what Milena said, now, yes, I know!
+> 
+> What were the two numbers Uncle picked?
+
+**Answer:** (vedi soluzioni)
+[[src_bocconi_finalenaz_2011__Q08]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q06
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distinct x and y satisfy x - 1/x = y - 1/y; find xy.*
 
@@ -52,3 +55,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*X e y distinte soddisfano x - 1/x = y - 1/y; trovare xy.*
+
+> I numeri $x$ e $y$ sono distinti e soddisfano $x-\frac{1}{x}=y-\frac{1}{y}$. Quindi $xy$ è uguale a
+>
+> - **(A)** $4$
+> - **(B)** $1$
+> - **(C)** $-1$
+> - **(D)** $-4$
+> - **(E)** è necessario avere maggiori dati
+
+**Risposta:** C
+[[src_obm_2010_n3_f1__Q06]]

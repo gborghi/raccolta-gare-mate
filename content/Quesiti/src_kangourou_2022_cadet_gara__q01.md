@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet gara individuale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q01
 parent: src_kangourou_2022_cadet_gara
 competition: Kangourou 2022 Cadet gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima somma delle cifre di un orologio digitale 24h*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum sum of digits of a 24h digital clock*
+
+> My digital clock indicates the 24 hours and minutes: for example, at 3:23 p.m. it marks 15:23 and so the sum of the digits it shows in that instant is 11. Over the course of a day, what is the maximum amount of numbers that my watch can display in a single instant? A) 21
+> 	
+> B) 22
+> 	
+> C) 23
+> 	
+> D) 24 E) 25
+
+**Answer:** D
+[[src_kangourou_2022_cadet_gara__Q01]]

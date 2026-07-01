@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q24
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest N cards (integers 1-25) that can be placed in a row so every adjacent pair shares a prime factor*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le carte N più grandi (integer 1-25) che possono essere posizionate in una riga in modo che ogni coppia adiacente condivide un fattore primo*
+
+> Peter ha 25 schede, ciascuna stampata con un numero intero diverso da $1$ a $25$. Desidera posizionare le carte $N$ in una singola riga in modo che i numeri su ogni coppia di carte adiacenti condividano un fattore primo in comune. Qual è il valore più grande di $N$ per il quale questo è possibile?
+>
+> - **(A)** $16$
+> - **(B)** $18$
+> - **(C)** $20$
+> - **(D)** $22$
+> - **(E)** $24$
+
+**Risposta:** C
+[[src_smc_2015__Q24]]

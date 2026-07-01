@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2013 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2013__Q10
 parent: src_cn_cmc_2013
 competition: China Mathematical Competition 2013
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Relationship between segment QR and semi-minor axis b for ellipse configuration*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Relazione tra il segmento QR e l'asse semi minore b per la configurazione dell'ellisse*
+
+> (25 marchi) Se si considera un'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ ($a > b > 0$) in un sistema di coordinate rettangolare piatto $xOy$, $A_1$, $A_2$, $F_1$, $F_2$ siano i suoi punti di fine sinistra e destra, rispettivamente i foci sinistra e destra, e $P$ sia qualsiasi punto dell'ellisse diverso da $A_1$, $A_2$. Supponiamo che ci siano punti $Q$, $R$ che soddisfano $$\overrightarrow{QA_1} \cdot \overrightarrow{PA_1} = \overrightarrow{QA_2} \cdot \overrightarrow{PA_2},\quad \overrightarrow{RF_1} \cdot \overrightarrow{PF_1} = \overrightarrow{RF_2} \cdot \overrightarrow{PF_2}.$$ Trovare e dimostrare la relazione tra la lunghezza del segmento $QR$ e $b$.
+
+[[src_cn_cmc_2013__Q10]]

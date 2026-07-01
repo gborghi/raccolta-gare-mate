@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_biennio__Q06
 parent: src_archimede_2001_biennio
 competition: Giochi di Archimede 2001 - Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Resto da restituire dopo errore della cassiera*
 
@@ -42,3 +45,19 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15IBgfl7GAsJGqi_MCOVW5U5tuBXGW2je/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Remaining to be returned after error by the cashier< MSK1/>
+
+> A girl buys a shirt that costs 13.90 euros and gives the teller a 20-euro bill. The cashier miscalculated the rest, and returned 13.90 euros. When she leaves the store, the girl realizes the mistake and, being honest, returns to return the part she did not owe. How much will you have to pay back?
+>
+> - **(A)** 6 Euro
+> - **(B)** This appropriation is intended to cover expenditure relating to:
+> - **(C)** This appropriation is intended to cover expenditure relating to:
+> - **(D)** This appropriation is intended to cover expenditure relating to:
+> - **(E)** It's $13.90.
+
+[[src_archimede_2001_biennio__Q06]]

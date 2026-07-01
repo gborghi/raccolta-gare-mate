@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q20
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Secondi su scala mobile in salita*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Seconds on a moving scale upwards< MSK1/>
+
+> Mr. Rossi takes 90 seconds to get to the sixth floor of a large warehouse by walking up the stairs of a moving ladder when it is not in operation; he takes 60 seconds when the ladder is in operation, but he lets himself be carried without moving. How many seconds does it take if the ladder is running and at the same time he climbs the stairs?
+>  
+> A. 36 B. 75 C. 45 D. 30 E. 50 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** A
+[[src_kangourou_2002_junior__Q20]]

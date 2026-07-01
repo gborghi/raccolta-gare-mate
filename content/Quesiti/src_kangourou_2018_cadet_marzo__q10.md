@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q10
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza DM che divide il quadrato in aree uguali*
 
@@ -74,3 +77,46 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length DM dividing the square into equal areas*
+
+![[src_kangourou_2018_cadet_marzo__prob10.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (3,0);
+  \coordinate (C) at (3,3);
+  \coordinate (D) at (0,3);
+  \coordinate (M) at (0,1);
+  \coordinate (N) at (2,0);
+  \draw[thick] (A) -- (B) -- (C) -- (D) -- cycle;
+  \draw[thick] (C) -- (M);
+  \draw[thick] (B) -- (N);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above right] at (C) {$C$};
+  \node[above left] at (D) {$D$};
+  \node[left] at (M) {$M$};
+  \node[below] at (N) {$N$};
+\end{tikzpicture}
+\end{document}
+```
+
+> The side of the ABCD square is 3 cm long. We have marked two points M and N on the AD and AB sides, respectively, so that the CM and BN segments divide the square into three figures with the same area. How long is the DM segment ? A) 0,5
+> 	
+> B) 1
+> 	
+> C) 1,5
+> 	
+> D) 2
+> 	
+> E) 2.5 Questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** D
+[[src_kangourou_2018_cadet_marzo__Q10]]

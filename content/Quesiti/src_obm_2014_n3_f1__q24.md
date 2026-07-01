@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q24
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Length of AD for two isosceles right triangles whose hypotenuse-lines cross at 30 degrees*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Lunghezza di AD per due triangoli rettangolari a uguale occhio le cui linee di ipotenuza si incrociano a 30 gradi*
+
+> Nella figura, $ABC$ e $DEF$ sono triangoli rettangolari a pari livello con ipoteni $BC$ e $EF$ che misurano $15$, $D$ è sulla linea $BC$ e $A$ è sulla linea $EF$. L'angolo acuto tra le linee $BC$ e $EF$ è $30^\circ$. Il segmento $AD$ misura: (A) $\frac{15\sqrt{2}}{2}$ (B) $\frac{15(\sqrt{6}-\sqrt{2})}{2}$ (C) $\frac{15\sqrt{3}}{2}$ (D) $\frac{15\sqrt{6}}{2}$ (E) $15$
+
+![[src_obm_2014_n3_f1__Q24.png]]
+
+[[src_obm_2014_n3_f1__Q24]]

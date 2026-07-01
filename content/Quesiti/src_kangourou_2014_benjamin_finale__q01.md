@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 finale Benjamin — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin_finale__Q01
 parent: src_kangourou_2014_benjamin_finale
 competition: Kangourou 2014 finale Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Turni minimi perché ogni ragazzo balli con ogni ragazza*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TnGwh4toG4vq6-d1XPE8mHyu9WzrqlgT/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum shifts for every boy to dance with every girl
+
+> AR BS CT DU
+
+**Answer:** 6
+[[src_kangourou_2014_benjamin_finale__Q01]]

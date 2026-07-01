@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q18
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo BEG in quadrato con punti medi*
 
@@ -70,3 +73,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*BEG square triangle area with mean points*
+
+> A square ABCD has sides of length 2. E and F are the midpoints of the sides AB and AD respectively. G is the point on CF such that 3CG=2GF. The area of the BEG triangle is A) 7/10. B) 4/5. C) 8/5. D) 3/5. E) 6/5. 16 m 16 m A B C D M N D′ D N B A N M D C D C
+> 
+> I'm going to pay. I'm going to pay. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation.
+
+**Answer:** B
+[[src_kangourou_2012_student__Q18]]

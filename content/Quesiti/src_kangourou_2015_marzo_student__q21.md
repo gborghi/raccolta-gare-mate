@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Student — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_student__Q21
 parent: src_kangourou_2015_marzo_student
 competition: Kangourou 2015 gara 19 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di tutti i 100 numeri della tavola pitagorica*
 
@@ -77,3 +80,17 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/14QpE6Rn84V5s-LpsVRJxUJF9I1sKByTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of all 100 numbers in the Pythagorean table*
+
+![[src_kangourou_2015_marzo_student__prob21.png]]
+
+> Here next to you is the Pythagorean table of numbers from 1 to 10. What is the sum of all the hundred numbers on the Pythagorean table? A) 1000 B) 2025 C) 2500 D) 3025 E) 5500 3√ 3 -------- 2 X 1 2 3 10 1 2 10 . . . . . . . . . . . . 10 20 100 10 20 30 . . . . . . . . . 1 2 3 2 4 6
+>
+
+**Answer:** D
+[[src_kangourou_2015_marzo_student__Q21]]

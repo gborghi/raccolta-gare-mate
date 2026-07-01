@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2020 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2020__Q18
 parent: src_smc_2020
 competition: Senior Mathematical Challenge 2020
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of radii of two circles centred at (3,4) each touching a circle centred at origin with radius 2*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa dei raggi di due cerchi centrati a (3,4) che toccano ciascuno un cerchio centrato a origine con raggio 2*
+
+> Due cerchi $C_1$ e $C_2$ hanno i loro centri al punto $(3, 4)$ e toccano un terzo cerchio $C_3$. Il centro di $C_3$ si trova al punto $(0, 0)$ e il suo raggio è di 2. Qual è la somma dei radii dei due cerchi $C_1$ e $C_2$?
+>
+> - **(A)** $6$
+> - **(B)** $7$
+> - **(C)** $8$
+> - **(D)** $9$
+> - **(E)** $10$
+
+**Risposta:** E
+[[src_smc_2020__Q18]]

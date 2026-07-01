@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2022 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2022_printemps__Q08
 parent: src_canimath_2022_printemps
 competition: Coupe Animath Printemps 2022
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Diamonds and crystals treasure split in half; find the initial total diamond value*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tesouro di diamanti e cristalli diviso a metà; trovare il valore totale iniziale di diamanti *
+
+> Il prezzo (in euro) di un diamante corrisponde alla sua massa (in grammi) sollevata al quadrato e poi moltiplicata per $100$. Il prezzo (in euro) di un cristallo corrisponde a tre volte la sua massa (in grammi). Martin e Theodore scoprono un tesoro composto da pietre preziose che sono diamanti o cristalli e il cui valore totale è $5\,000\,000\,\text{\euro}$. Tagliavano ogni pietra preziosa in due, e ognuno prende la metà di ogni pietra. Il valore totale delle pietre di Martin vale $2\,000\,000\,\text{\euro}$. In euro, quale era il valore totale iniziale dei diamanti contenuti nel tesoro?
+> 
+> Qui si aspetta solo una risposta numerica.
+
+[[src_canimath_2022_printemps__Q08]]

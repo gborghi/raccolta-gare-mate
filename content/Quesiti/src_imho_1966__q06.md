@@ -1,6 +1,7 @@
 ---
 title: IMO 1966 (VIII International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1966__Q06
 parent: src_imho_1966
 competition: IMO 1966 (VIII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interior points on triangle sides: one sub-triangle has area ≤ quarter*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Interior points on triangle sides: one sub-triangle has area ≤ quarter*
+
+> In the interior of sides $BC$, $CA$, $AB$ of triangle $ABC$, any points $K$, $L$, $M$, respectively, are selected. Prove that the area of at least one of the $AML$, $BKM$, $CLK$ is less than or equal to one quarter of the area of the triangle $ABC$.
+
+[[src_imho_1966__Q06]]

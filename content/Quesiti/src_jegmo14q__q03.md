@@ -1,6 +1,7 @@
 ---
 title: Japan EGMO Selection / Girls MO 2025 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jegmo14q__Q03
 parent: src_jegmo14q
 competition: Japan EGMO Selection / Girls MO 2025
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers n with n = phi(n) + 2 phi(phi(n))*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16-NqAuK58hCzJs_f8zhLcVk4UkEgeo1H/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli integri positivi n con n = phi(n) + 2 phi(phi(n))*
+
+> Trova tutti gli integri positivi $n$ che soddisfano $$n = \phi(n) + 2\phi\big(\phi(n)\big).$$ Qui, $\phi(n)$ indica il numero di integri da $1$ a $n$ che sono coprime a $n$.
+
+[[src_jegmo14q__Q03]]

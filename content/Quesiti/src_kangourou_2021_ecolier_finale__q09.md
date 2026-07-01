@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - finale — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q09
 parent: src_kangourou_2021_ecolier_finale
 competition: Kangourou 2021 Ecolier - finale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato del cioccolatino piccolo (scatola 18)*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 0002
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Little chocolate milk (box 18) < MSK1/>
+
+> If any of the following three statements
+>
+> (a) Lisa has more than 2021 euros (b) Lisa has less than 2021 euros (c) Lisa has at least 1 euro
+>
+> one and only one is true, which of the following is definitely false?
+>
+> - **(A)** Lisa has 2021 euros.
+> - **(B)** Lisa has no euro.
+> - **(C)** Lisa has a thousand euros.
+> - **(D)** Claim (c) is false.
+> - **(E)** The statement c) is true.
+
+**Answer:** 0002
+[[src_kangourou_2021_ecolier_finale__Q09]]

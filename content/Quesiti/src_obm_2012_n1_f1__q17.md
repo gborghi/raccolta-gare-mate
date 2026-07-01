@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f1__Q17
 parent: src_obm_2012_n1_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rows of strawberries and jabuticabas eaten alternately (≤5 each)*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK1/>Righe di fragole e jabuticaba consumate in turno (< MSK0/>5 ciascuno) < MSK2/>
+
+> Rosinha ha raccolto diverse fragole e jabuticabas, al massimo 5 di ciascuna specie. Vuole mangiare 5 di ciascuna specie, mangiandole in serie alternate, a partire dalle fragole e finendo con i jabuticabas (ad esempio: 3 fragole, poi 2 jabuticabas, poi 2 fragole, poi 3 jabuticabas). Lei forma una fila con i frutti prima di mangiarli in ordine. Quante diverse righe può formare?
+> 
+> (A) 13 \quad (B) 14 \quad (C) 15 \quad (D) 16 \quad (E) 20
+
+**Risposta:** D
+[[src_obm_2012_n1_f1__Q17]]

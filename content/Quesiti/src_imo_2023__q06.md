@@ -1,6 +1,7 @@
 ---
 title: IMO 2023 papers — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2023__Q06
 parent: src_imo_2023
 competition: IMO 2023 papers
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tre circumcircle passano per due punti comuni*
 
@@ -42,3 +45,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three circles pass through two common points*
+
+> Whether $ABC$ is an equilateral triangle. They are $A_1, B_1, C_1$ internal points of $ABC$ such as $BA_1 = A_1C$, $CB_1 = B_1A$, $AC_1 = C_1B$, and $$\angle BA_1C + \angle CB_1A + \angle AC_1B = 480^\circ.$$ They are $BC_1$ and $CB_1$ meeting in $A_2$, $CA_1$ and $AC_1$ meeting in $B_2$, and $AB_1$ and $BA_1$ meeting in $C_2$.
+> 
+> Demonstrate that if the $A_1B_1C_1$ triangle is slender, then the three circumferences surrounding the $AA_1A_2$, $BB_1B_2$ and $CC_1C_2$ triangles all pass through two common points.
+> 
+> *(Note: a scalene triangle is a triangle in which no side has the same length as the others.)*
+
+[[src_imo_2023__Q06]]

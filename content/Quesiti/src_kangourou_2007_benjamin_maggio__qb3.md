@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin finale (maggio) — Quesito B3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_maggio__QB3
 parent: src_kangourou_2007_benjamin_maggio
 competition: Kangourou 2007 Benjamin finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero allievi maschi (91 strette di mano)*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wbmAAkHVqbo7EOEVBYt8x1-cdr8_snEU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of male pupils (91 handshakes) < MSK1/>
+
+> In a classroom where there are at least two males and two females, each boy shakes each girl's hand once. A total of 91 handshakes were made. If males are fewer than females, how many male students are in that class?
+
+**Answer:** 7
+[[src_kangourou_2007_benjamin_maggio__QB3]]

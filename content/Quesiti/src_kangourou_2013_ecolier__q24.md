@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q24
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di pezzi per formare un quadrato pieno*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of pieces to form a full square*
+
+> Cristina has many pieces that are identical to the one in the figure and wants to draw some of them together, without overlapping them, so as to get a full square. What's the smallest number of pieces that allows you to reach your goal? A) 5 B) 9 C) 4 D) 16 E) It is not possible to achieve what Cristina wants.
+>  
+> 60 dm 36 dm
+> 
+> STRINGA ECOLIER 2013 Question 17 écolier has been annulled because of incomplete wording of the text.
+
+**Answer:** C
+[[src_kangourou_2013_ecolier__Q24]]

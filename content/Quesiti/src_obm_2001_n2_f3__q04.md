@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f3__Q04
 parent: src_obm_2001_n2_f3
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove no two integers a, b satisfy (a+b)(a^2+b^2)=2001*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove non due numeri interi a, b soddisfare (a+b)
+
+> Indicare che non esistono due integri $a$ e $b$ tali da $(a+b)(a^2+b^2)=2001$.
+
+[[src_obm_2001_n2_f3__Q04]]

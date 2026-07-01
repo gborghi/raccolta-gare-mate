@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q04
 parent: src_cesenatico_2011_pubblico
 competition: Gara a Squadre Cesenatico 2011 - Gara del pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza torretta da D (cardo e decumano)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0500
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Turned distance from D (cart and decuman) *
+
+> An error of measurement [20] The Roman legion's camp in Britannia is an ABCD rectangle of sides BC = 250 cubits and CD = 500 cubits. Unfortunately, due to an error caused by the confusion between British and Roman cubes, the camp was poorly oriented, as the card and the decuman, the two roads that mark the north-south and east-west axes, respectively, start from C and D and are not parallel to the sides of the rectangle. These two roads meet at a point P closer to C than to D and we know that the area of PCD is 62500 cubic metres2. Also, where the Cardo reaches the perimeter walls, there is a tower. How many cubits away is the tower from point D? (To avoid further damage, all the data on the problem is in Roman cubes.)
+
+**Answer:** 0500
+[[src_cesenatico_2011_pubblico__Q04]]

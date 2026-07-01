@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior (18 marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior__Q17
 parent: src_kangourou_2004_junior
 competition: Kangourou 2004 Junior (18 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti giorni e durata la vacanza (pioggia)*
 
@@ -59,3 +62,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many days and length of vacation (rain) < MSK1/>
+
+> The Kangourou family was on vacation in London for a few days. During the holidays, it rained in 15 different days, but: - rainy mornings were always followed by dry afternoons; - rainy afternoons were always preceded by dry mornings; - dry mornings were around 12 and dry afternoons were around 13. How long was the vacation? A) 15 B) 16 C) 19 D) 20 E) 25 tonnes II 7 5 tonnes I
+> 
+> I'm going to pay. I'm going to pay. 25 25 Kang 2004 Kang
+
+**Answer:** D
+[[src_kangourou_2004_junior__Q17]]

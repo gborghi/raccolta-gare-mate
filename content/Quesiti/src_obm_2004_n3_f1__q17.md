@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f1__Q17
 parent: src_obm_2004_n3_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of triangle ABM where M is on AD and BMC is a non-isosceles right triangle; AB=2, CD=4, BC=6.*
 
@@ -51,3 +54,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YFz21hASSfwX0eoPxZElBS8kvKMzh9FY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area del triangolo ABM in cui M è su AD e BMC è un triangolo rettangolo non isosceles; AB=2, CD=4, BC=6.*
+
+> Nel disegno laterale, i segmenti $AB$ e $CD$ sono perpendicolari al segmento $BC$. Sapendo che il punto $M$ appartiene al segmento $AD$ e che il triangolo $BMC$ è un triangolo retto (non isosceles), qual è l'area del triangolo $ABM$? (Dalla figura: $AB=2$, $CD=4$, $BC=6$.)
+> 
+> (A) 1 (B) $\frac{6}{5}$ (C) $\frac{7}{5}$ (D) $\frac{8}{5}$ (E) $\frac{9}{5}$
+
+![[src_obm_2004_n3_f1__Q17.png]]
+
+[[src_obm_2004_n3_f1__Q17]]

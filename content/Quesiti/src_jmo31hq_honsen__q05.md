@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2021 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo31hq_honsen__Q05
 parent: src_jmo31hq_honsen
 competition: Japan Mathematical Olympiad 2021 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2n×2n grid white/black coloring; bound number of 2×2 all-black squares by 2n−1*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1n6EYmyNhJAvI2lQHkYeCAEvVPhs24W4e/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2n×2n griglia di colore bianco/nero; numero finito di 2×2 quadrati tutti neri di 2n−1*
+
+> $n$ sia un numero intero positivo. Considera una griglia $2n \times 2n$ di quadrati unitari. Ogni cella è di colore bianco o nero. Una cellula bianca viene selezionata, e poi ogni cellula che condivide un lato con quella cellula bianca è di colore nero (cellule che erano già nere rimangono nere); la cellula bianca selezionata stessa è anche di colore nero. Prove che, in qualche condizione della colorazione iniziale, il numero di sottoreti $2 \times 2$ in cui tutte e quattro le celle sono nere è massimo $2n - 1$.
+
+[[src_jmo31hq_honsen__Q05]]

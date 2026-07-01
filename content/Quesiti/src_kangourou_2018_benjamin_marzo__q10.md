@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Benjamin - Gara 15 marzo — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_benjamin_marzo__Q10
 parent: src_kangourou_2018_benjamin_marzo
 competition: Kangourou 2018 Benjamin - Gara 15 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dietro quale porta si trova il leone*
 
@@ -60,3 +63,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Ca0VooQKKGfCNO8ER8Cyz7ONTlfPt7t6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which door is behind the lion*
+
+> Four doors lead to four rooms in which a lion is hidden. Above each door is written a statement, but only one of the four is true.
+> 	
+> • On the front is written: The lion is not behind this door.
+> 	
+> • On the second is written: The lion is behind this door.
+> 	
+> • On the third it says: The sum of two and three is five.
+> 	
+> • On the fourth it says: The Earth is larger than the Sun. Behind which door is the lion? A) The first. B) The second. C) The third. D) The fourth. E) The information is not sufficient to answer. 2 cm 2 cm 14 points 16 points ???
+> 
+> The questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** A
+[[src_kangourou_2018_benjamin_marzo__Q10]]

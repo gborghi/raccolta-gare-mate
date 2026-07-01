@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2004 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2004__Q04
 parent: src_cn_cmo_2004
 competition: China Mathematical Olympiad 2004
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Unique real sequence satisfying boundary and recurrence; prove bound on terms*
 
@@ -51,3 +54,17 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza reale unica che soddisfa il limite e la ricorrenza; dimostrare il legame con i termini*
+
+> Per un dato numero reale $a$ e un intero positivo $n$, dimostrare che:
+> 
+> (1) esiste esattamente una sequenza di numeri reali $x_0, x_1, \ldots, x_n, x_{n+1}$ tale che $$\begin{cases} x_0 = x_{n+1} = 0, \\ \frac{1}{2}(x_{i+1} + x_{i-1}) = x_i + x_i^3 - a^3, \quad i = 1, 2, \ldots, n; \end{cases}$$
+> 
+> (2) la sequenza $x_0, x_1, \ldots, x_n, x_{n+1}$ di (1) soddisfa $|x_i| \le |a|$, $i = 0, 1, \ldots, n+1$.
+
+[[src_cn_cmo_2004__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f3__Q06
 parent: src_obm_2008_n3_f3
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max number of prophetic words of length 10 in a binary word of length 10000*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Xdlk10kOctV84Jj1WlZYi4mgeMhHN8nP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Nombre massimo di parole profetiche di lunghezza 10 in una parola binaria di lunghezza 10000*
+
+> Il profeta venuso Zabruberson inviò ai suoi discepoli una parola di lettere $10000$, ciascuna lettera essendo A o E: la parola Zabrubica *. I suoi seguaci consideravano, per ogni $1 \le k \le 10000$, ogni parola formata da $k$ lettere consecutive della Parola Zabrubica come una parola profetica ** di lunghezza $k$. È noto che ci sono al massimo $7$ parole profetiche di lunghezza $3$. Determinare il numero massimo di parole profetiche di lunghezza $10$.
+
+[[src_obm_2008_n3_f3__Q06]]

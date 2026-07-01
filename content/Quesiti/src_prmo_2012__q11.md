@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2012__Q11
 parent: src_prmo_2012
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2012
@@ -35,6 +36,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest integer dividing P(n) for all positive even n*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 15
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il più piccolo numero intero diviso P(n) per tutti i numeri positivi pari n*
+
+> Let < MSK0/>. Qual è il numero intero più grande che è un divisore di $P(n)$ per tutti i numeri interi pari positivi $n$?
+
+**Risposta:** 15
+[[src_prmo_2012__Q11]]

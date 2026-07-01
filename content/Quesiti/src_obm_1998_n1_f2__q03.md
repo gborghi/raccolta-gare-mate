@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f2__Q03
 parent: src_obm_1998_n1_f2
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find two 3-digit numbers with digits 1–6 minimising their difference*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 47
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14H7imUH4Juwn4beUgTqY5x_gWt1Bt4rE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova due numeri a 3 cifre con cifre 16 riducendo al minimo la loro differenza*
+
+> Trova due numeri a tre cifre, ognuno utilizzando ciascuno dei numeri $1, 2, 3, 4, 5, 6$ esattamente una volta (una cifra per numero per posizione, sei cifre totali su entrambi i numeri), in modo che la loro differenza sia il più piccola possibile (il più grande meno il più piccolo). Qual è la differenza minima?
+
+**Risposta:** 47
+[[src_obm_1998_n1_f2__Q03]]

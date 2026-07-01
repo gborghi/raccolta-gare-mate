@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2017 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2017__Q07
 parent: src_garaprime_2017
 competition: Gara Nazionale Classi Prime 2017
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio di k con MCD e mcm invariati*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kz4oMcFcg7Rb6TD-5d6ezy9elY5k049O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Count of k with unchanged MCD and mcm< MSK1/>
+
+> That's n = 7575 and m = 7755. How many ways can I choose the positive integer k so that MCD(m, n) = MCD(m, n, k) and mcm(m, n) = mcm(m, n, k)? A 16 B 12 C 2 D 181 E 163 F 36
+
+**Answer:** A
+[[src_garaprime_2017__Q07]]

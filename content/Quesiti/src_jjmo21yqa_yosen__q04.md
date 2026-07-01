@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo21yqa_yosen__Q04
 parent: src_jjmo21yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max primes among pairwise sums of 5 distinct integers*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11kigjl_Wt-al8ocndA12n0n3x8dtw2E3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maxime prime tra somme in coppia di 5 interi distinti*
+
+> Ci sono $5$ diversi integri positivi $a, b, c, d, e$. Tra le seguenti espressioni $10$ $$a+b,\ a+c,\ a+d,\ a+e,\ b+c,\ b+d,\ b+e,\ c+d,\ c+e,\ d+e,$$ trovi il numero massimo possibile il cui valore è un primo.
+
+**Risposta:** 6
+[[src_jjmo21yqa_yosen__Q04]]

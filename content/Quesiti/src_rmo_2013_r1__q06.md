@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r1__Q06
 parent: src_rmo_2013_r1
 competition: Regional Mathematical Olympiad 2013
@@ -35,6 +36,8 @@ tags:
   - regione/r1
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove n divisible by 6 given both quadratics have integer roots*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kzoUvCWGpDy_1Yry02V2lM4u5xLLwPb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove n divisibile per 6 dato che entrambe le quadratiche hanno radici interi*
+
+> Supponiamo che $m$ e $n$ siano integri in modo tale che entrambe le equazioni quadratiche $x^2 + mx - n = 0$ e $x^2 - mx + n = 0$ abbiano radici interi. Provare che $n$ è divisibile da $6$.
+
+[[src_rmo_2013_r1__Q06]]

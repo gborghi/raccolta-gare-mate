@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo21yq_yosen__Q01
 parent: src_jmo21yq_yosen
 competition: Japan Mathematical Olympiad 2011 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integer 4-tuples with strict inequalities and bounded differences*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare numeri interi a 4 volte con rigide disuguaglianze e differenze limitate*
+
+> Trova il numero di quadrupli $(a, b, c, d)$ di numeri interi da 1 a 9 soddisfacendo $0 < b - a < c - b < d - c$.
+
+**Risposta:** 7
+[[src_jmo21yq_yosen__Q01]]

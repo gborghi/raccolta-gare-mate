@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2018 - I Finale Nazionale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_femminile__Q15
 parent: src_squadre_2018_femminile
 competition: Gara a Squadre Femminile 2018 - I Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorsi su scacchiera 8x8 con mosse a destra/su/giu*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0127
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*8x8 chessboard routes with right-hand moves *
+
+> BEULERS GAME 2 Traveling on the Planar Express is boring and Beuler, having nothing else to do, sets out to invent games on the chessboard. The last solution was to place a pedal on the bottom left-hand box of a chessboard 8 8  and to calculate how many paths there are that lead the pedal into the bottom right-hand corner box, and to make only moves that move the pedal from one of the three boxes to the right-hand column and immediately upper row, or in the same row, or immediately lower row. What number did you find?
+
+**Answer:** 0127
+[[src_squadre_2018_femminile__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n1_f1__Q03
 parent: src_obm_2009_n1_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Frog random walk on equilateral triangle: limit of return probability and existence of p with P_n=1/pi*
 
@@ -52,3 +55,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gfklUu8Lw7e-icOu2QgoKvp09d7Hdigd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Frog cammino casuale su triangolo equilaterale: limite di probabilità di ritorno e esistenza di p con P_n=1/pi*
+
+> La rana Dõ riposa al vertice $A$ di un triangolo equilaterale $ABC$. A ogni minuto la rana salta dal vertice dove si trova ad un vertice adiacente, con probabilità $p$ che il salto sia in senso orario e $1-p$ che sia in senso contrario, dove $p\in(0,1)$ è una costante. Che $P_n$ sia la probabilità che, dopo $n$ salti, Dõ sia di nuovo al vertice $A$.
+> 
+> (a) Dimostra che, qualunque sia il $p\in(0,1)$, $\lim_{n\to\infty}P_n=1/3$.
+> 
+> b) dimostrare l'esistenza di $p\in(0,1/100)$ tale che, per alcuni $n\in\mathbb{N}$, $P_n=1/\pi$.
+
+[[src_obm_2009_n1_f1__Q03]]

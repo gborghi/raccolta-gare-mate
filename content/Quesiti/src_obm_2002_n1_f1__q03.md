@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f1__Q03
 parent: src_obm_2002_n1_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Balance scale with lead balls and light bags of small balls*
 
@@ -53,3 +56,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NviJwQmbmihSaakvq3DJSWhViadj6Z5P/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Scala di equilibrio con palle di piombo e sacchetti leggeri di palle piccole
+
+> Sulla bilancia di sotto abbiamo pesato palle di piombo, tutte uguali, e piccole sacche di plastica leggere, tutte con la stessa quantità di piccole palle, uguali tra loro, che sono all'interno delle sacche. Quante palle ci sono in ogni borsa?
+> 
+> (A) $1$ (B) $2$ (C) $3$ (D) $5$ (E) $6$
+
+![[src_obm_2002_n1_f1__Q03.png]]
+
+**Risposta:** B
+[[src_obm_2002_n1_f1__Q03]]

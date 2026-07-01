@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Biennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_biennio__Q15
 parent: src_archimede_2011_biennio
 competition: Giochi di Archimede 2011 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre finali dopo 12 iterazioni quadrato piu 5*
 
@@ -50,3 +53,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 **Anche in triennio:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Final figures after 12 square iterations plus 5
+
+> Each of our four friends, Anna, Erica, Lorenzo, and Joseph, always lies or always tells the truth. Anna says: Erica always lies; Erica says: Joseph always speaks the truth; Joseph says: Anna always thinks; finally Lorenzo says: Anna, Erica and Joseph always lie. How many, at most, lie all the time?
+>
+> - **(A)** 1,
+> - **(B)** 2,
+> - **(C)** 3,
+> - **(D)** 4,
+> - **(E)** None of the previous ones.
+
+**Answer:** C
+[[src_archimede_2011_biennio__Q15]]

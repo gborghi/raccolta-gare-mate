@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2020 - 2° livello — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_2livello__Q07
 parent: src_archimede_2020_2livello
 competition: Archimede Gara di Febbraio 2020 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rettangolo con punti interni conciclici, rapporto AB/BC*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangle with inner conical points, ratio AB/BC*
+
+> Either ABCD is a rectangle and M and N are internal points, respectively, on the sides AB and BC. Let's say that MC = CD, MD = MN and the points C, D, M, N belong to the same circumference. How much is the AB/BC ratio?
+>
+> - **(A)** 1+ √ 3 2
+> - **(B)** √ 2
+> - **(C)** 3 2
+> - **(D)** √ 3
+> - **(E)** 2
+
+**Answer:** B
+[[src_archimede_2020_2livello__Q07]]

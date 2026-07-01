@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Triennio (prova di riserva) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_triennio_rec__Q06
 parent: src_archimede_2025_triennio_rec
 competition: Giochi di Archimede 2025 - Triennio (prova di riserva)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Grado del polinomio prodotto/somma*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1RByKCi8bbujlcQJ8H58HjpZ79NcOVrw7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Grade of product polynomial/sum*
+
+> What is the degree of the polynomial p(x) = (9x5 −x2 +1)10 ·(x7 +8x3 −10) +(x6 −7x+6)7 ?
+>
+> - **(A)** 10
+> - **(B)** 57
+> - **(C)** 99
+> - **(D)** 50
+> - **(E)** 42
+
+**Answer:** B
+[[src_archimede_2025_triennio_rec__Q06]]

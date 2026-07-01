@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_c__Q05
 parent: src_cesenatico_2011_semifinale_c
 competition: Gara a Squadre Cesenatico 2011 - Semifinale C
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di tornare al punto dopo 2011 salti*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of returning to the point after 2011 jumps*
+
+> Left alone by Borelix, engaged as usual in an incursion against the Romans, the dog Idealix decides to spend time jumping over points of a length of circumference 6. At each jump it has a 1/2 chance of moving clockwise or counterclockwise and the jump width (measured along the circumference) increases gradually: the first jump has a width of n+1. What are the chances that after 2011 jumps will return to the starting point? Write the first four digits after the comma.
+
+**Answer:** 0000
+[[src_cesenatico_2011_semifinale_c__Q05]]

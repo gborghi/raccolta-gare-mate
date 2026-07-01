@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Student (finale nazionale) — Quesito S2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_student_finale__QS2
 parent: src_kangourou_2005_student_finale
 competition: Kangourou 2005 - Student (finale nazionale)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma coefficienti dello sviluppo di (2x-y+z)^8*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 256
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17jy_hcOypk4l2PIs-W5a2ozUpvF5XmFy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sum of development coefficients of (2x-y+z) ^8< MSK1/>
+
+> What is the algebraic sum of all the coefficients (each with its own sign) of < MSK0/> development?
+
+**Answer:** 256
+[[src_kangourou_2005_student_finale__QS2]]

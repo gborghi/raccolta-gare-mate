@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Triennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_triennio__Q04
 parent: src_archimede_2005_triennio
 competition: Giochi di Archimede 2005 - Gara Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di 4 cifre con iniziale 1 e tre cifre uguali*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers of 4 digits with initial 1 and three digits equal*
+
+> How many four-digit numbers have a first digit of 1 and at least three digits equal to each other?
+>
+> - **(A)** 36,
+> - **(B)** 37,
+> - **(C)** 39,
+> - **(D)** 40,
+> - **(E)** None of the previous ones.
+
+**Answer:** B
+[[src_archimede_2005_triennio__Q04]]

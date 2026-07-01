@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2007 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2007__Q03
 parent: src_cn_cwmo_2007
 competition: China Western Mathematical Olympiad 2007
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove sum-of-fractions inequality for reals summing to 3*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza della somma delle frazioni per i valori reali che sommano a 3*
+
+> Supponiamo che $a$, $b$, $c$ siano numeri reali, con $a + b + c = 3$. Provare che < MSK0/>
+
+[[src_cn_cwmo_2007__Q03]]

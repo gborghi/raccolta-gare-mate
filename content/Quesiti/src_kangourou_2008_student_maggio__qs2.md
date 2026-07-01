@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student finale nazionale (Mirabilandia) — Quesito S2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_maggio__QS2
 parent: src_kangourou_2008_student_maggio
 competition: Kangourou 2008 - Student finale nazionale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Esistono insiemi IMPERFETTI*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17e9IDZmmMC0kmw9HyZkRsJZSaNWwywyl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>IMPERFECT sets are available< MSK1/>
+
+> *(7 points) * Call a perfect set $A$ of positive integers such that: - it is composed of infinite numbers; - however you choose a finite subset $B$ of that set, the sum of the numbers of $B$ is never the square of an integer.
+> 
+> Are there perfect sets? Justify the answer.
+
+**Answer:** si
+[[src_kangourou_2008_student_maggio__QS2]]

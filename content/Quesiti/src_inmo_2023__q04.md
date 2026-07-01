@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2023 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2023__Q04
 parent: src_inmo_2023
 competition: Indian National Mathematical Olympiad 2023
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Calvin and Hobbes coin game on a circle; find all k for which Calvin wins*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kW6GgduaArtuZwxLT_Wd61CJZas0evUz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Calvin e Hobbes gioco di monete su un cerchio; trovare tutti i k per cui Calvin vince
+
+> $k \geq 1$ e $N > 1$ siano due numeri interi. Su un cerchio sono posizionate monete $2N + 1$ tutte con teste. Calvin e Hobbes giocano il seguente gioco. Calvin inizia e in movimento può trasformare qualsiasi moneta da testa a coda. Hobbes in movimento può trasformare al massimo una moneta che si trova accanto alla moneta che Calvin ha appena trasformato dalle code alle teste. Calvin vince se in qualsiasi momento ci sono monete che mostrano code dopo che Hobbes ha fatto la sua mossa. Determinare tutti i valori di $k$ per i quali Calvin vince la partita.
+
+[[src_inmo_2023__Q04]]

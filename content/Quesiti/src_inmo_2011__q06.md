@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2011 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2011__Q06
 parent: src_inmo_2011
 competition: Indian National Mathematical Olympiad 2011
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all f:R→R satisfying a given functional equation*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UMyBd55umRxUDtQdsg_pK-d1SkeZ2kq4/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le f:R→R che soddisfano una determinata equazione funzionale*
+
+> Trova tutte le funzioni $f : \mathbb{R} \to \mathbb{R}$, dove $\mathbb{R}$ indica l'insieme di tutti i numeri reali, in modo tale che $$f(x+y)f(x-y) = (f(x)+f(y))^2 - 4x^2 f(y)$$ per tutti $x, y \in \mathbb{R}$.
+
+[[src_inmo_2011__Q06]]

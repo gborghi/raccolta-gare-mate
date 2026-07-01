@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2007 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2007__Q19
 parent: src_bocconi_squadre_2007
 competition: Gara a Squadre 2007
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Caselle da evitare ricoprendo una figura con rettangoli 1x3 e 1x5*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Cases to be avoided by covering a figure with 1x3 and 1x5 rectangles < MSK1/>
+
+> Jacob wants to completely cover the figure, gluing nine pieces of paper (four rectangles and five squares). However, if you stick $1$ mm of $1 \times 1$ paper on certain boxes, none of them are intended.
+> 
+> What are the boxes to avoid? (Write them in ascending order and write 0 if you think there are no boxes to avoid.)
+
+![[src_bocconi_squadre_2007__Q19.png]]
+
+[[src_bocconi_squadre_2007__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q08
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *OBM on 14 June 2008 (Saturday, leap year); when will 14 June again be Saturday*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>OBM il 14 giugno 2008 (sabato, anno bisestivo); quando il 14 giugno sarà nuovamente sabato< MSK1/>
+
+> La prima fase dell'OBM 2008 si è svolta il $14$ giugno, sabato dell'anno bisto $2008$. Tra quanti anni Giugno ricadrà sabato?
+> 
+> (A) $4$ (B) $5$ (C) $6$ (D) $7$ (E) $8$
+
+[[src_obm_2008_n3_f1__Q08]]

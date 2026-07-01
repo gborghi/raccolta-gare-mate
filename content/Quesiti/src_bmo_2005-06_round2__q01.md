@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2005-06 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2005-06_round2__Q01
 parent: src_bmo_2005-06_round2
 competition: British Mathematical Olympiad 2005-06 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimize x^2+y^2 under a polynomial constraint*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1587ntk_Om0adXZIJTWJf2XDGaBi6jrzP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimizzare x^2+y^2 sotto un vincolo polinomial*
+
+> Trova il valore minimo possibile di $x^2 + y^2$ dato che $x$ e $y$ sono numeri reali che soddisfano $$xy(x^2 - y^2) = x^2 + y^2 \text{ and } x \neq 0.$$
+
+**Risposta:** 4
+[[src_bmo_2005-06_round2__Q01]]

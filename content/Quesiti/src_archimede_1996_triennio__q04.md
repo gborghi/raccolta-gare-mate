@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Triennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_triennio__Q04
 parent: src_archimede_1996_triennio
 competition: Giochi di Archimede 1996 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Variazione percentuale del prezzo di azioni*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Percentage change in share price*
+
+> On Monday I bought shares that on Tuesday lost 10% of their value and on Wednesday they gained 10% compared to Tuesday. I immediately sold my shares. Compared to the initial price, the final price is
+>
+> - **(A)** The same thing.
+> - **(B)** decreased by 1%
+> - **(C)** increased by1%
+> - **(D)** decreased by 10%
+> - **(E)** This is a decrease of 10%.
+
+**Answer:** B
+[[src_archimede_1996_triennio__Q04]]

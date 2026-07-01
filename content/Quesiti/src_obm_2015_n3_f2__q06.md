@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f2__Q06
 parent: src_obm_2015_n3_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *System 1/(ab)=b+2c, 1/(bc)=2c+3a, 1/(ca)=3a+b; (a+b+c)^3=p/q, find p+q*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sistema 1/(ab)=b+2c, 1/(bc)=2c+3a, 1/(ca)=3a+b; (a+b+c)^3=p/q, trovare p+q*
+
+> (Parte A) I numeri reali $a$, $b$ e $c$ soddisfano le equazioni $\frac{1}{ab} = b + 2c$, $\frac{1}{bc} = 2c + 3a$, $\frac{1}{ca} = 3a + b$. Abbiamo $(a + b + c)^3 = \frac{p}{q}$, con $p$ e $q$ integri copri e $q > 0$. Calcolare < MSK10/>.
+
+[[src_obm_2015_n3_f2__Q06]]

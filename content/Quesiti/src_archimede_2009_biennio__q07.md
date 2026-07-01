@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Biennio — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_biennio__Q07
 parent: src_archimede_2009_biennio
 competition: Giochi di Archimede 2009 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Latterie l'anno scorso da rapporti tabaccherie-latterie*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Last year's report on tobacco-farm relations
+
+> In the town of Nonfum, the only shops are tobacco shops and lumber shops. Last year tobacco factories accounted for two thirds of the market; this year two tobacco factories have become factories, so that now only 9/16 of the factories are tobacco factories (from last year to this year the total number of Nonfum shops has remained the same). How many lasts were there last year in Nonfum?
+>
+> - **(A)** 12,
+> - **(B)** 16,
+> - **(C)** 20,
+> - **(D)** 30,
+> - **(E)** 60.
+
+**Answer:** D
+[[src_archimede_2009_biennio__Q07]]

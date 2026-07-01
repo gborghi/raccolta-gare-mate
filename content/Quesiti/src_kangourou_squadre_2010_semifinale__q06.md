@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2010_semifinale__Q06
 parent: src_kangourou_squadre_2010_semifinale
 competition: Kangourou Coppa a squadre 2010 - Semifinale turno A (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti per correggere 84 elaborati insieme*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0090
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minutes to correct 84 worked together< MSK1/>
+
+> Find the fraction The numerator and denominator of a fraction are both integers greater than zero and their sum does not exceed 103; the value of the fraction is as high as possible compatible with the fact that it is strictly less than 1/3. Write in the order first the numerator and then the denominator of the fraction.
+
+**Answer:** 0090
+[[src_kangourou_squadre_2010_semifinale__Q06]]

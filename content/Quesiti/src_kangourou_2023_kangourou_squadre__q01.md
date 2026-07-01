@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre__Q01
 parent: src_kangourou_2023_kangourou_squadre
 competition: Kangourou Squadre 2023 Kangourou Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Persone con tre caramelle stesso gusto*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0101
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>People with three candies of the same taste< MSK1/>
+
+> Candies In a certain group of people, each person has three candies that can be exclusively lemon or orange. 90 people have at least two lemon candies, 45 have at least two orange candies, 34 have two candies of different taste. How many people have three candies of the same taste?
+
+**Answer:** 0101
+[[src_kangourou_2023_kangourou_squadre__Q01]]

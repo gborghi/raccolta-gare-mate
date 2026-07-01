@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Ecolier (marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_ecolier_marzo__Q23
 parent: src_kangourou_2006_ecolier_marzo
 competition: Kangourou 2006 Ecolier (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di completare griglia 3x3 con 1,2,3*
 
@@ -54,3 +57,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1pKY5ouqmagp75LpVMmZ7-wegTuPPO_ZD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to complete the 3x3 grid with 1,2,3*
+
+![[src_kangourou_2006_ecolier_marzo__prob23.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) grid (3,3);
+  \node at (0.5,2.5) {1};
+\end{tikzpicture}
+\end{document}
+```
+
+> In each of the nine cells of the square grid in the figure, we want to insert one of the digits 1, 2, or 3. The only condition is that each digit appears in every row and column. In the upper left cell, we've already entered the number 1. How many different ways can we complete the grid? A) 2            B) 3            C) 4            D) 5            E) 8
+
+**Answer:** C
+[[src_kangourou_2006_ecolier_marzo__Q23]]

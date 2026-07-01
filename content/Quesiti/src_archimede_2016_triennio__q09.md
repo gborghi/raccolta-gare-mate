@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Triennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_triennio__Q09
 parent: src_archimede_2016_triennio
 competition: Giochi di Archimede 2016 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione formata da 4 archi raggio 1*
 
@@ -45,3 +48,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area region consisting of 4 arcs radius 1*
+
+![[src_archimede_2016_triennio__prob9.png]]
+
+> The figure on this side is made up of 4 arcs with congruent circumferences of radius 1. What is the area of the shaded region?
+>
+> - **(A)** 3 −π/4
+> - **(B)** 1 + π/2
+> - **(C)** π −1/2
+> - **(D)** 2 + π/4
+> - **(E)** 4 −π/2
+
+**Answer:** B
+[[src_archimede_2016_triennio__Q09]]

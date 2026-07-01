@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_finale__Q06
 parent: src_cesenatico_2012_finale
 competition: Gara a Squadre Cesenatico 2012 - Finale Nazionale
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *C2=E, BAxB=ECE, ABxCBA=EDDDE*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7310
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total amount of the aid granted in accordance with Article 107 (1) TFEU.
+
+> Quantity of answers equal to less quantity of odd answers.
+
+**Answer:** 7310
+[[src_cesenatico_2012_finale__Q06]]

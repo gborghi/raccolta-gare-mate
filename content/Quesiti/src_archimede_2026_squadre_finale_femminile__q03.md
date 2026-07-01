@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q03
 parent: src_archimede_2026_squadre_finale_femminile
 competition: Gara a Squadre Femminile 2026 - IX Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori x che rendono espressione quadrato di binomio*
 
@@ -56,3 +59,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2592
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Values x that make binomial expression square*
+
+> Tonight the alarm went off and many dragons attacked the village. A swarm of Gronki, Bizippi and Orrendi nightmares targeted the village's people. Stoick is already on the defense tower, while Hiccup is in the corner to calculate all the values of x that make 20 14 2 2 2 2x   a binomial square of the type   2 2 2 a b  . Scarlet doesn't notice that Hiccup did it early and so, armed with his new invention, comes out from behind to take part in the hunt. What values did Hiccup calculate? (As a result, the product of all the values found.)
+
+**Answer:** 2592
+[[src_archimede_2026_squadre_finale_femminile__Q03]]

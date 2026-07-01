@@ -1,6 +1,7 @@
 ---
 title: IMO 1973 (Fifteenth International Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1973_all__Q06
 parent: src_imo_1973_all
 competition: IMO 1973 (Fifteenth International Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Construct b_k bounding a_k with ratio and sum conditions*
 
@@ -39,3 +42,19 @@ tags:
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_yg5ytepW4kPtXzf2MZzjG__z3aJ2dcR/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Construct b_k bounding a_k with ratio and sum conditions*
+
+> If $a_1, a_2, \ldots, a_n$ $n$ are positive numbers and $q$ is a real number with $0 < q < 1$. Find $n$ numbers $b_1, b_2, \ldots, b_n$ such that:
+> 
+> (a) $a_k < b_k$ for $k = 1, 2, \ldots, n$,
+> 
+> (b) $q < \dfrac{b_{k+1}}{b_k} < \dfrac{1}{q}$ for $k = 1, 2, \ldots, n-1$,
+> 
+> (c) $b_1 + b_2 + \cdots + b_n < \dfrac{1+q}{1-q}(a_1 + a_2 + \cdots + a_n)$.
+
+[[src_imo_1973_all__Q06]]

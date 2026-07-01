@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2024_finale__Q03
 parent: src_kangourou_squadre_2024_finale
 competition: Kangourou Coppa a squadre 2024 - Finale 2 (Cervia)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza segmento PQ in un quadrato con perpendicolari note*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0136
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*PQ segment length in a square with perpendicular notes*
+
+![[src_kangourou_squadre_2024_finale__prob3.png]]
+
+> The PQ segment In the figure, the P extreme of the PQ segment is a vertex of the square while the Q extreme is an internal point on one side of the square that has no extreme in P. The other two segments inside the square have both one end at one vertex of the square and the other on the PQ segment and are perpendicular to PQ. The figure, which is not in scale, shows their lengths in centimeters. How many millimeters is the PQ segment?
+
+**Answer:** 0136
+[[src_kangourou_squadre_2024_finale__Q03]]

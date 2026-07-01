@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1992-93 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1992-93_round2__Q02
 parent: src_bmo_1992-93_round2
 competition: British Mathematical Olympiad 1992-93 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove 2^(m-1) ≡ 1 mod m where m=(4^p−1)/3, p prime >3*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aFT9G_ZKn1J7Wpj9P28kBqV5xurU7n--/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prova 2^(m-1)  1 mod m dove m=4^p−1)/3, p primo >3*
+
+> Let $m = (4^p - 1)/3$, dove $p$ è un numero primo superiore a $3$. Prove che $2^{m-1}$ ha un residuo $1$ diviso per $m$.
+
+[[src_bmo_1992-93_round2__Q02]]

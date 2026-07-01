@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2010 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo8mq_honsen__Q01
 parent: src_jjmo8mq_honsen
 competition: Japan Junior Mathematical Olympiad 2010 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equiangular n-gon with angles 120 or 240 and equal sides*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p2F4y-eHA_uMQrouWBYL9ACgMCFOr7Tx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*N-gon equangolare con angoli 120 o 240 e lati uguali*
+
+> $n$ sia un numero intero con $n \ge 3$. Trova tutti $n$ in modo tale che esista un $n$-gon in cui ogni angolo interno sia $120^\circ$ o $240^\circ$ e tutti i cui lati hanno la stessa lunghezza.
+
+[[src_jjmo8mq_honsen__Q01]]

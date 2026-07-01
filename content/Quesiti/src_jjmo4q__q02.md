@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2006 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo4q__Q02
 parent: src_jjmo4q
 competition: Japan Junior Mathematical Olympiad 2006
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of square PQRS with vertices on sides of rectangle ABCD*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di PQRS quadrato con vertici sui lati del rettangolo ABCD*
+
+> Nella figura seguente, $ABCD$ è un rettangolo con $AB = 4$ e $BC = 5$, e i punti sono contrassegnati a pari distanza su ciascun lato. Trova l'area del quadrilaterale $PQRS$.
+
+![[src_jjmo4q__Q02.png]]
+
+[[src_jjmo4q__Q02]]

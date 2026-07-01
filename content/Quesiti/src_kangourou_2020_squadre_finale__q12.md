@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2020 Finale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q12
 parent: src_kangourou_2020_squadre_finale
 competition: Kangourou Coppa squadre 2020 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei due numeri sbagliati nella progressione*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0057
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ouvUikm9jtg5T9XqFtDuhZcgJZXEsFwU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the two wrong numbers in the progression*
+
+> Six whole numbers were written in arithmetic progression (i.e. the difference of each, except the first, with the previous one was always the same). In copying them, Sandro the Pasticcio not only forgot one, but he also mistook another. So he wrote, 11, 25, 32, 37, 46. What is the sum of the two numbers in the initial progression that Sandro misread or forgot?
+
+**Answer:** 0057
+[[src_kangourou_2020_squadre_finale__Q12]]

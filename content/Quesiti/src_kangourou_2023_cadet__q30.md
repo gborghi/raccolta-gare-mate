@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Cadet — Gara 16 marzo — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_cadet__Q30
 parent: src_kangourou_2023_cadet
 competition: Kangourou 2023 Cadet — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *min punti decima partita*
 
@@ -59,3 +62,17 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10nMn6OARL3xC9b2yrBWFLv2GEcpkrtVd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*min tenth batch points *
+
+> A rugby team scored 24 points in the seventh game of the 2022 season, 17 points in the eighth and 25 points in the ninth. The average score per game after nine games was higher than the average after the first six games; the average after ten games was higher than 22. What is the minimum number of points that the team can have scored in the tenth game? A) 22 B) 23
+> 	
+> C) 24 D) 25 E) 26 777 77 77 77 7 1015 + 6 7 8
+>
+
+**Answer:** C
+[[src_kangourou_2023_cadet__Q30]]

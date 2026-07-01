@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f1__Q01
 parent: src_obm_2012_n2_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of gold medals given 1:2:3 ratio and 90% medalists*
 
@@ -46,3 +49,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmLl6pKPJ0iyeIc_sSzeQhOVFg9xOXOT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Numero di medaglie d'oro assegnate in rapporto 1:2:3 e medaglia del 90%*
+
+> Nella fase finale dell'OBM hanno partecipato studenti provenienti da tutto il Brasile. Seguendo la tradizione delle Olimpiadi internazionali, le Olimpiadi distribuiscono medaglie d'oro, d'argento e di bronzo nella proporzione $1{:}2{:}3$, rispettivamente. Sapendo che $90\%$ del numero totale degli studenti ha vinto alcune delle 3 medaglie, quanti studenti hanno vinto una medaglia d'oro?
+> 
+> A) 60 \quad B) 120 \quad C) 180 \quad D) 240 \quad E) 300
+
+**Risposta:** C
+[[src_obm_2012_n2_f1__Q01]]

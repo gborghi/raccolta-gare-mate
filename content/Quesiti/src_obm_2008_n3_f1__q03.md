@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f1__Q03
 parent: src_obm_2008_n3_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integer a and 1/a on a number line; find their sum*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aLReWfomctLQdcMxQ8UQwvYYyPIDDUBP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integrale positivo a e 1/a su una linea di numeri; trovare la loro somma*
+
+> Il numero intero positivo $a$ e il numero $\dfrac{1}{a}$ si trovano sulla linea come segue. (Sulla linea numerica ci sono segni a $0$, a $\dfrac{1}{a}$ e a $a$; la distanza da $\dfrac{1}{a}$ a $a$ è $\dfrac{80}{9}$.)
+> 
+> Qual è la somma di questi due numeri?
+> 
+> (A) $\dfrac{9}{81}$ (B) $\dfrac{9}{80}$ (C) $\dfrac{81}{9}$ (D) $\dfrac{82}{9}$ (E) $9$
+
+![[src_obm_2008_n3_f1__Q03.png]]
+
+**Risposta:** D
+[[src_obm_2008_n3_f1__Q03]]

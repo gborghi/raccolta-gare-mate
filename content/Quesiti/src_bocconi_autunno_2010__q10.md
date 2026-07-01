@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2010 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2010__Q10
 parent: src_bocconi_autunno_2010
 competition: Giochi d'Autunno 2010
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Più piccolo intero positivo che termina con 2011 e divisibile per 7*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 32011
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Littleest positive integer ending in 2011 and divisible by 7*
+
+> 2011 is NOT divisible by 7 Find the smallest positive integer whose writing ends with 2011 and is divisible by 7.
+
+**Answer:** 32011
+[[src_bocconi_autunno_2010__Q10]]

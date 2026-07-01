@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Finale Nazionale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_finale__Q01
 parent: src_cesenatico_2005_squadre_finale
 competition: Gara a Squadre Cesenatico 2005 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *piastrellature 2 rett bianchi e 2 neri*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0114
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/14u5t7Tvp8hgTZeUSgt6AIIjN1ngF4jkL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> tiles 2 straight white and 2 straight black < MSK1/>
+
+> The Predators of Lost Temples An ancient scroll, unearthed by the well-known archaeologist Polynomial Jones in the Vatican archives, reveals that each of the ancient temples dedicated to Atyiahsinger is shaped like a 60-meter-square-sided square. The floor of each temple is covered with 900 square tiles, each of which measures 2 meters on each side. Of these, 450 are white and 450 black. The tiles form 2 white and 2 black rectangles, so that two rectangles of the same colour do not have side parts in common. Knowing that for each of the possible tiles there is exactly one temple with such a floor, how many temples will our hero have to look for?
+
+**Answer:** 0114
+[[src_cesenatico_2005_squadre_finale__Q01]]

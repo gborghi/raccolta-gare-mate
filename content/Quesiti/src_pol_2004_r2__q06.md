@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r2__Q06
 parent: src_pol_2004_r2
 competition: Olimpiade Matematica Polacca 2004 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Select n/2 persons at round table, each between two acquaintances*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qs-4pQENG-aSe6lLcgW99_sE-sF3wP__/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Selezionare n/2 persone a tavola rotonda, ciascuna tra due conoscenti*
+
+> Ci sono persone < MSK0/> in una festa. Supponiamo che tra i tre ci siano due che si conoscono. Mostrare che si può selezionare almeno $n/2$ delle persone e organizzarle su una tavola rotonda in modo che ciascuna persona si sedi tra due delle sue conoscenze.
+
+[[src_pol_2004_r2__Q06]]

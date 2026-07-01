@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 gara 17 marzo Benjamin — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_marzo_benjamin__Q13
 parent: src_kangourou_2016_marzo_benjamin
 competition: Kangourou 2016 gara 17 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *chi prende due*
 
@@ -52,3 +55,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1nld6l3RD6emhTglIXueL7F2OJGTBOKRG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>who takes two< MSK1/>
+
+![[src_kangourou_2016_marzo_benjamin__prob13.png]]
+
+> Five squirrels A, B, C, D, and E stand on a straight branch on which there are 6 glands (denoted in the figure with an asterisk). At the same moment the squirrels begin to run at the same speed toward the nearest gland. As soon as a squirrel grabs its gland, it begins to run toward the nearest new gland. What squirrel can grab two glands? A) A
+> 	
+> B) B
+> 	
+> C) C
+> 	
+> D) D
+> 	
+> E) E
+
+**Answer:** C
+[[src_kangourou_2016_marzo_benjamin__Q13]]

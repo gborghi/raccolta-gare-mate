@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f1__Q03
 parent: src_obm_2005_n1_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Percentage of pulp after mixing juice and water*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U1UXClaVW4sBV3t8adp-Ta0_fNQpkVS6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Percentuale di polpa dopo miscelazione di succo e acqua< MSK1/>
+
+> Diamantino mette in un contenitore tre litri di acqua e un litro di succo (composto di < MSK0/> pasta e < MSK1/> acqua). Dopo aver miscelato tutto, quale percentuale del volume totale è la polpa?
+> 
+> A) $5\%$ \quad B) $7\%$ \quad C) $8\%$ \quad D) $20\%$ \quad E) $60\%$
+
+**Risposta:** A
+[[src_obm_2005_n1_f1__Q03]]

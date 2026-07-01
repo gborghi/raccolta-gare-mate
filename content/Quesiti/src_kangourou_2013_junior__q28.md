@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Junior — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_junior__Q28
 parent: src_kangourou_2013_junior
 competition: Kangourou 2013 marzo Junior
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti insiemi S con unione data uguale a {1..9}*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many sets of S with a given union equal to {1.9.}< MSK1/>
+
+> For how many different sets of S is it true that S < MSK0/> {1, 2, 3, 4, 5} = {1, 2, 3, ..., 9} ? A) 512 B) 32
+> 	
+> C) 256 D) 16
+> 	
+> E) 1
+
+**Answer:** B
+[[src_kangourou_2013_junior__Q28]]

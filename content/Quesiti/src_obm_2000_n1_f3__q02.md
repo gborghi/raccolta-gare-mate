@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f3__Q02
 parent: src_obm_2000_n1_f3
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show equilateral triangle can be cut into 20 smaller equilateral triangles*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csqbUn65E6HGiTeTIKmM4uG05E1nqqH2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra che un triangolo equilaterale può essere tagliato in 20 triangoli equilaterali più piccoli*
+
+> Un triangolo equilaterale può essere tagliato in triangoli equilaterali più piccoli. La figura seguente mostra come tagliare un triangolo equilaterale in triangoli equilaterali più piccoli $7$. Indicare come tagliare un triangolo equilaterale in $20$ triangoli equilaterali più piccoli.
+
+![[src_obm_2000_n1_f3__Q02.png]]
+
+[[src_obm_2000_n1_f3__Q02]]

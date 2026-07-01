@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Student - gara marzo (triennio) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_student_marzo__Q19
 parent: src_kangourou_2020_student_marzo
 competition: Kangourou 2020 Student - gara marzo (triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del rettangolo con circonferenza tangente*
 
@@ -62,3 +65,32 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LaovDGCGjSYc7jIPwp0RN8DbPMlIgc0A/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the rectangle with tangent circumference*
+
+![[src_kangourou_2020_student_marzo__prob19.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.5]
+  \draw[thick] (0,0) rectangle (9,8);
+  \draw[thick] (5,5) circle (5);
+  \draw (5,-0.2) -- (5,0.2);
+  \node[below] at (2.5,0) {$5$};
+  \node[below] at (7,0) {$4$};
+\end{tikzpicture}
+\end{document}
+```
+
+> A circumference and a rectangle have been drawn so that the circumference is tangent to both sides of the rectangle and passes through one of its vertices. The distances of two vertices of the rectangle from the point of tangency on the side joining them are 5 and 4, as shown in the figure. What is the area of the rectangle? A) 27 π B) 25 π C) 72
+> 	
+> D) 63
+> 	
+> E) None of the values indicated.
+
+**Answer:** C
+[[src_kangourou_2020_student_marzo__Q19]]

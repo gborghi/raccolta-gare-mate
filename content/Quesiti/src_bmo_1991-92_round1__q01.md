@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1991-92 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1991-92_round1__Q01
 parent: src_bmo_1991-92_round1
 competition: British Mathematical Olympiad 1991-92 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count non-zero digits of n vs n²; two-digit and three-digit cases*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qqoRPhq2Mj2agmbGrWyLkoFFksv9tAll/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri non zero di n contro n2; casi a due o tre cifre*
+
+> (a) Si osserva che il quadrato di 20 ha lo stesso numero di cifre non zero del numero originale. Esiste un numero a due cifre, * diverso da * 10, 20 o 30, il cui quadrato ha lo stesso numero di cifre non zero del numero originale? Se ne pensate una, trovatela. Se affermi che non esiste, devi dimostrare la tua affermazione.
+> 
+> b) Esiste un numero a tre cifre * diverso da * 100, 200, 300 il cui quadrato ha lo stesso numero di cifre non zero del numero originale?
+
+[[src_bmo_1991-92_round1__Q01]]

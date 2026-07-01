@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q07
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti dei 10 pezzi Maria ha tagliato (22 pezzi totali)*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many of the 10 pieces Maria cut (22 pieces total)
+
+> Mary has 10 pieces of paper. He cuts a few, each in five parts. After doing that, Mary has 22 pieces of paper in all. How many of the first 10 pieces of paper did you cut? A) 3
+> 	
+> B) 7
+> 	
+> C) 2
+> 	
+> D) 8
+> 	
+> E) 6
+
+**Answer:** A
+[[src_kangourou_2020_benjamin_marzo__Q07]]

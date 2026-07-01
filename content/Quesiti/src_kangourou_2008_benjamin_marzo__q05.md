@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q05
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizionare 12 monete su circonferenze e diametri*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Place 12 coins on circumferences and diameters*
+
+![[src_kangourou_2008_benjamin_marzo__prob5.png]]
+
+> Anna wants to place 12 coins on the figure so that there are exactly 3 coins on each circumference and exactly 3 coins on each of the four diameters. He's already put in 11 coins. Where will you put the rest of it? A) B B) J C) L D) D E) F
+
+**Answer:** D
+[[src_kangourou_2008_benjamin_marzo__Q05]]

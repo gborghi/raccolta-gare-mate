@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2003-04 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2003-04_round2__Q01
 parent: src_bmo_2003-04_round2
 competition: British Mathematical Olympiad 2003-04 — Round 2
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle tangent to side of equilateral triangle; prove length equality*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cQScSjBOKjyXtBXsVbeFQADurOrJCQzA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo tangente a lato di triangolo equilaterale; prova l'uguaglianza di lunghezza*
+
+> Che $ABC$ sia un triangolo equilaterale e $D$ un punto interno del lato $BC$. Un cerchio, tangente a $BC$ a $D$, taglia $AB$ internamente a $M$ e $N$, e $AC$ internamente a $P$ e $Q$.
+> 
+> Mostra che < MSK0/>.
+
+[[src_bmo_2003-04_round2__Q01]]

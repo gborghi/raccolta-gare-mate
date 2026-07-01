@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - finale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier_finale__Q12
 parent: src_kangourou_2021_ecolier_finale
 competition: Kangourou 2021 Ecolier - finale
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Confezioni da 5 per 100 biscotti col minimo numero*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0006
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YdpoeeTPLdwKRizgl9GfJGyu_n9RXwTA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Packs of 5 biscuits per 100 biscuits with minimum number *
+
+> Edward, Susanna and Teresa are playing cards. At the end of each match, there are no equal points: the winner earns 3 points, the second-placed 1 point while the third-placed does not earn points. After four games, Susanna has four points and Teresa has three. How many games has Edward won?
+
+**Answer:** 0006
+[[src_kangourou_2021_ecolier_finale__Q12]]

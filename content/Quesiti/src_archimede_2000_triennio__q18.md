@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Triennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_triennio__Q18
 parent: src_archimede_2000_triennio
 competition: Giochi di Archimede 2000 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Calcolare c(a+b) date radici di cubica e prodotto ab*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Calculate c(a+b) cubic root dates and product ab*
+
+> The solutions of the equation x3 −3x2 −18x + 40 = 0 are a, b, c. Knowing that ab = 10, calculate c(a + b).
+>
+> - **(A)** −28
+> - **(B)** −18
+> - **(C)** 21
+> - **(D)** 22
+> - **(E)** It's impossible to determine.
+
+**Answer:** A
+[[src_archimede_2000_triennio__Q18]]

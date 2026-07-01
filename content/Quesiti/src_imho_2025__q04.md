@@ -1,6 +1,7 @@
 ---
 title: IMO 2025 (LXVI International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2025__Q04
 parent: src_imho_2025
 competition: IMO 2025 (LXVI International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find first term of sequence defined by three largest proper divisors*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1pjXhaUlYZwLGrFG-3qMO2-K-raAkyAEG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Find first term of sequence defined by three largest proper divisors
+
+> A *proper divisor* of a positive integer $N$ is a positive divisor of $N$ other than $N$ itself.
+> 
+> The infinite sequence $a_1, a_2, \ldots$ consists of positive integers, each of which has at least three proper divisors. For each $n \ge 3$, the integer $a_{n+1}$ is the sum of the three largest proper divisors of $a_n$.
+> 
+> Determine the possible values of $a_1$.
+
+[[src_imho_2025__Q04]]

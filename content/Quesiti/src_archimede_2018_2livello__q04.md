@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2018 - 2° livello — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2018_2livello__Q04
 parent: src_archimede_2018_2livello
 competition: Archimede Gara di Febbraio 2018 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Operazione binaria iterata su reali positivi*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1P8SfTtA9rwkUDd7j_LgYTj8O2d5JE_s7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Iterated binary operation on positive real *
+
+> Given two positive real numbers a, b we define a ⋆b = ab + 1 a + b. How much is 1 ⋆(2 ⋆(3 ⋆(· (2017 ⋆2018)))?
+>
+> - **(A)** 1/2018
+> - **(B)** 1
+> - **(C)** 2018/2017
+> - **(D)** 1009
+> - **(E)** 2018
+
+**Answer:** B
+[[src_archimede_2018_2livello__Q04]]

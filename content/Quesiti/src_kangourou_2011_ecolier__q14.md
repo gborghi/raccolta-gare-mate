@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Ecolier (gara marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier__Q14
 parent: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante risposte ha sbagliato il signor Rossi*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many answers did Mr Rossi get wrong?
+
+> A TV quiz is based on the following rules. Each participant has an initial allocation of 10 points and must answer 10 questions: he earns one point for each correct answer he provides and loses one point for each wrong answer. After answering all the questions in the quiz, Mr. Rossi finds himself with 14 points. How many answers did you get wrong? A) 7 B) 4 C) 5 D) 3 E) 6
+
+**Answer:** D
+[[src_kangourou_2011_ecolier__Q14]]

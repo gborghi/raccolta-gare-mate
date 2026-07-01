@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f2__Q06
 parent: src_obm_1999_n1_f2
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest square table tileable by an L-tromino-like piece*
 
@@ -56,3 +59,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** $10 \times 10$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sVRS4YG1oL_KhveTUD5PLD8vlbfPaSxf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il tavolo quadrato più piccolo a piastrelle da un pezzo simile a L-tromino*
+
+> Trova la tabella quadrata più piccola che possa essere piastrellata utilizzando pezzi della seguente forma:
+> 
+> $$\begin{array}{|c|c|}\hline\phantom{X} & \phantom{X} \\ \hline \phantom{X} & \\\cline{1-1}\end{array}$$
+> 
+> (Un tromino a forma di L di 3 unità quadrate disposte in una L.)
+> 
+> \textit{Note:} Tiling significa coprire completamente, senza pezzi sovrapposti, in modo che nessun pezzo si estenda al di fuori del tavolo.
+
+![[src_obm_1999_n1_f2__Q06.png]]
+
+**Risposta:** 10 \times 10
+[[src_obm_1999_n1_f2__Q06]]

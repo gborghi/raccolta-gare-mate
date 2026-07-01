@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2021 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2021__Q05
 parent: src_smc_2021
 competition: Senior Mathematical Challenge 2021
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four consecutive primes sum to a prime; find the largest of the four primes.*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro numeri primi consecutivi sommano a un primo; trovare il più grande dei quattro numeri primi.*
+
+> La somma di quattro numeri primi consecutivi è di per sé primo. Qual è il più grande dei quattro numeri primi?
+>
+> - **(A)** 37
+> - **(B)** 29
+> - **(C)** 19
+> - **(D)** 13
+> - **(E)** 7
+
+**Risposta:** E
+[[src_smc_2021__Q05]]

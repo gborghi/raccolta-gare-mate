@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q09
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum colours to paint faces of a pentagonal prism*
 
@@ -55,3 +58,21 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Colori minimi per dipingere le facce di un prisma pentagonale*
+
+> Un blocco di legno ha facce pentagonali e rettangolari. Due facce sono vicine quando hanno un confine comune, cioè un lato, come con le due facce evidenziate nella figura. Wagner sta per dipingere le facce di questo blocco, in modo che due facce vicine abbiano colori diversi, usando un colore per ciascuna. Qual è il numero minimo possibile di colori?
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 5
+> - **(D)** 6
+> - **(E)** 7
+
+![[src_obm_2015_n1_f1__Q09.png]]
+
+[[src_obm_2015_n1_f1__Q09]]

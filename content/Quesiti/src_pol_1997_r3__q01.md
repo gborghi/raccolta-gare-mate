@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r3__Q01
 parent: src_pol_1997_r3
 competition: Olimpiade Matematica Polacca 1997 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Recurrence with x_6=144 and x_{n+3}=x_{n+2}(x_{n+1}+x_n); find x_7.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PdUGPXA4h0kRnc6_JAc7ObCdV2yreLSM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricorrenza con x_6=144 e x_{n+3}=x_{n+2}(x_{n+1}+x_n); trovare x_7.*
+
+> I numeri interi positivi $x_1, x_2, \ldots, x_7$ soddisfano $x_{n+3} = x_{n+2}(x_{n+1} + x_n)$ per $n = 1, 2, 3, 4$. Se $x_6 = 144$, trovare $x_7$.
+
+[[src_pol_1997_r3__Q01]]

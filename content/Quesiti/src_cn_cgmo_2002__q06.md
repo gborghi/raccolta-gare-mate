@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2002 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2002__Q06
 parent: src_cn_cgmo_2002
 competition: China Girls' Mathematical Olympiad 2002
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer pairs (x,y) with x^y = y^(x-y)*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di integri positivi (x,y) con x^y = y^(x-y) *
+
+> Trova tutte le coppie di integri positivi $(x, y)$ che soddisfano $x^y = y^{x-y}$. (Possibile da Pan Chengbiao)
+
+[[src_cn_cgmo_2002__Q06]]

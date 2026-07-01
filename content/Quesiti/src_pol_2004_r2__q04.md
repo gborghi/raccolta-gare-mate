@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r2__Q04
 parent: src_pol_2004_r2
 competition: Olimpiade Matematica Polacca 2004 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers with exactly sqrt(n) positive divisors*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qs-4pQENG-aSe6lLcgW99_sE-sF3wP__/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli integri positivi con esattamente sqrt(n) divisori positivi*
+
+> Trova tutti i numeri interi positivi $n$ che hanno esattamente $\sqrt{n}$ divisori positivi.
+
+[[src_pol_2004_r2__Q04]]

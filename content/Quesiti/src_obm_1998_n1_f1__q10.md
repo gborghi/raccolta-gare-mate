@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q10
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area per family after dividing a rectangular farm among 200 families*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Zona per famiglia dopo aver diviso un'azienda agricola rettangolare tra 200 famiglie*
+
+> Una fattoria rettangolare di < MSK0/> di larghezza e < MSK1/> di lunghezza è stata espropria per la riforma agraria. L'azienda agricola deve essere suddivisa tra famiglie $200$ in modo che ciascuna famiglia riceva la stessa superficie. Ogni famiglia dovrebbe ricevere:
+>
+> - **(A)** $1{,}000{,}000\,\text{m}^2$
+> - **(B)** $100{,}000\,\text{m}^2$
+> - **(C)** $5{,}000\,\text{m}^2$
+> - **(D)** $1{,}000\,\text{m}^2$
+> - **(E)** $10{,}000\,\text{m}^2$
+
+**Risposta:** A
+[[src_obm_1998_n1_f1__Q10]]

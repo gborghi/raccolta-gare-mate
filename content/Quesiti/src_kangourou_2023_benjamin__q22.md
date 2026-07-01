@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Benjamin — Gara 16 marzo — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_benjamin__Q22
 parent: src_kangourou_2023_benjamin
 competition: Kangourou 2023 Benjamin — Gara 16 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *forme nel rettangolo centrale*
 
@@ -54,3 +57,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Bn1OfqU3VaPiQDfEGVmKfGP57utfSzlv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* shapes in the centre rectangle*
+
+![[src_kangourou_2023_benjamin__prob22.png]]
+
+> In each of the six rectangles that make up the pyramid you see in the figure Daniela wants to design geometric shapes so that each rectangle contains all the geometric shapes contained in the two rectangles just below and nothing else. Taking into account the shapes already inserted, what shapes should he draw in the rectangle at the centre of the lower level? A)
+> 	
+> B)
+> 	
+> C)
+>   	
+> D)
+> 	
+> E)
+
+**Answer:** C
+[[src_kangourou_2023_benjamin__Q22]]

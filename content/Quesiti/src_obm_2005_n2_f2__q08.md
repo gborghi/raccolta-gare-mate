@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f2__Q08
 parent: src_obm_2005_n2_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Factor polynomial; find all integer pairs satisfying quadratic equation*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fattore polinomio; trovare tutte le coppie di numeri interi che soddisfano l'equazione quadrata*
+
+> (a) Factor l'espressione $x^2 - 9xy + 8y^2$.
+> 
+> b) Determinare tutte le coppie di integri $(x, y)$ tali da $9xy - x^2 - 8y^2 = 2005$.
+
+[[src_obm_2005_n2_f2__Q08]]

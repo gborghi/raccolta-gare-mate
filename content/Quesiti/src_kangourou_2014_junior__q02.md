@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q02
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza approssimativa di un container data la fila*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Approximate length of a container given the row*
+
+> The length of the two equal sides of an isosceles triangle is 7 cm. From an internal point on the third side, for each of the oblique sides the straight line parallel to that side is carried. This determines a quadrilateral contained in the triangle: how many centimeters does its perimeter measure? A) 7
+> 	
+> B) 10,5 C) 14
+> 	
+> D) 17.5 E) The answer depends on the length of the third side.
+
+[[src_kangourou_2014_junior__Q02]]

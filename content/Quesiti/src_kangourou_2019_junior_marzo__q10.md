@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q10
 parent: src_kangourou_2019_junior_marzo
 competition: Kangourou 2019 Gara marzo Junior (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali cifre nascoste nelle tre targhe somma 57263*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The numbers hidden in the three plates sum 57263*
+
+![[src_kangourou_2019_junior_marzo__prob10.png]]
+
+> Three five-digit numbers were each written on a plate. The figure shows how the plates and figures that remain visible are overlapped. You know the sum of the three numbers is 57263. What are the hidden numbers? A) 0, 2 e 2. B) 2, 4 e 9. C) 2, 7 and 8. D) 5, 7 e 8. (e) None of the preceding three. The questions from N. 10 al N. 20 is worth 4 points each.
+
+**Answer:** E
+[[src_kangourou_2019_junior_marzo__Q10]]

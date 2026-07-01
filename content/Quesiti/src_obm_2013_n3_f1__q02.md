@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f1__Q02
 parent: src_obm_2013_n3_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Buying a computer today vs after a 5% price rise and a 5% discount*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1wJhT4n-wkxnnOv-ci0mqeC-vZOPAw5kN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Acquisto di un computer oggi rispetto a dopo un aumento del prezzo del 5% e uno sconto del 5%< MSK1/>
+
+> Se Joana acquista oggi un computer il cui prezzo è $2000$ reais, avrà uno sconto di $5\%$. Se aspetta fino a domani riceverà lo stesso sconto di $5\%$, ma il prezzo del computer sarà aumentato di $5\%$. Quindi, se aspetta, cosa succederà?
+> 
+> (A) Niente, visto che pagherà la stessa somma. Quad (B) Perderà reais. \quad (C) Otterrà $105$ reais. Quad (D) Perderà i reais. Quad (E) Perderà < MSK3/> reais.
+
+**Risposta:** D
+[[src_obm_2013_n3_f1__Q02]]

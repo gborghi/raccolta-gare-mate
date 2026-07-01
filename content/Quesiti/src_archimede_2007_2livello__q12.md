@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_2livello__Q12
 parent: src_archimede_2007_2livello
 competition: Archimede Gara 2° livello 2007 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numeri primi tra 20 interi consecutivi >50*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Most prime numbers among 20 consecutive integers >50*
+
+> Consider any set of 20 consecutive integers, all greater than 50. How many of these can be prime numbers at most?
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 6
+> - **(D)** 7
+> - **(E)** 8. Problems with a numerical answer  8 points
+
+**Answer:** C
+[[src_archimede_2007_2livello__Q12]]

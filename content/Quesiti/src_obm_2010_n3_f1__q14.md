@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q14
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to draw a figure in one stroke from P without retracing edges.*
 
@@ -55,3 +58,21 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i modi per disegnare una figura in un tratto da P senza tracciare i bordi.*
+
+> In quanti modi è possibile disegnare la figura di seguito senza sollevare la matita dalla carta (o qualsiasi altro utensile che si preferisce), partendo da $P$ e passando oltre lo stesso punto più di una volta solo al punto comune dei tre triangoli?
+>
+> - **(A)** $48$
+> - **(B)** $24$
+> - **(C)** $16$
+> - **(D)** $108$
+> - **(E)** $27$
+
+![[src_obm_2010_n3_f1__Q14.png]]
+
+[[src_obm_2010_n3_f1__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q04
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *minimo dell'espressione razionale*
 
@@ -46,3 +49,18 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1002
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*minimum of the rational expression*
+
+> The tasks of Bernardo**  50 points
+> 
+> The Professor. He gave Bernardo the following task at home: Calculate the absolute minimum of the expression $$[2003 + 2002x + 2001x^2 + \ldots + 2x^{2001} + x^{2002}]$$ for real $x$.
+> 
+> Bernardo can't do it, but his grandfather can't help him because he's in Beijing at the Congress of Mathematicians... Can you give him a hand?
+
+**Answer:** 1002
+[[src_archimede_2002_squadre__Q04]]

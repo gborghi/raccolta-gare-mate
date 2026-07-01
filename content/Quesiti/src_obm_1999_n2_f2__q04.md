@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n2_f2__Q04
 parent: src_obm_1999_n2_f2
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 2 — Fase 2
@@ -39,6 +40,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the largest natural number that, for some rearrangement (a,b,c,d) of (3,6,9,12), equals the integer cube root of 3^a 6^b 9^c 12^d.*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1psURjkFuMxj9RH-TjdKiYCVL0r6_oiLW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova il numero naturale più grande che, per qualche riorganizzazione (a,b,c,d) di (3,6,9,12), è uguale alla radice cubica di 3^a 6^b 9^c 12^d.*
+
+> Determinare il numero naturale più grande per il quale esiste una riorganizzazione $(a, b, c, d)$ di $(3, 6, 9, 12)$ (cioè $\{a, b, c, d\} = \{3, 6, 9, 12\}$) tale che il numero $\sqrt[3]{3^a \cdot 6^b \cdot 9^c \cdot 12^d}$ sia un numero intero. Giustifica la tua risposta.
+
+[[src_obm_1999_n2_f2__Q04]]

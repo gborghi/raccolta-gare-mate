@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2017_n1_f1__Q04
 parent: src_obm_2017_n1_f1
 competition: Olimpíada Brasileira de Matemática 2017 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Asymptotic expansion of a series involving inverse squares*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a3U1xwLG4Liq_aZSUCGfvqkTHMuELPzq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Espansione asimptotica di una serie che coinvolge quadrati inversi*
+
+> Definire $f : (0, \infty) \to \mathbb{R}$ con $$f(x) = \sum_{k \geq 0} \frac{1}{(x+k)^2} = \frac{1}{x^2} + \frac{1}{(x+1)^2} + \frac{1}{(x+2)^2} + \cdots$$ Trovare costanti $a \neq 0$, $b$, $c$ tali da $$f(x) = x^{-2}\bigl(a + b x^{-1} + r(x)\bigr),$$ con $\lim_{x \to \infty} x \cdot r(x) = 0$.
+
+[[src_obm_2017_n1_f1__Q04]]

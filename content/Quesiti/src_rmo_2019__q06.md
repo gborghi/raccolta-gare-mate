@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2019 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2019__Q06
 parent: src_rmo_2019
 competition: Regional Mathematical Olympiad 2019
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Among 91 distinct integers >1 with >=456 coprime pairs, find four with cyclic pairwise gcd 1.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gH34ilbEvo69eusEOFKpyZYPt0gnWDcP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Tra 91 numeri interi distinti >1 con >=456 copriemi copriemi, trovate quattro con gcd ciclico in coppia 1.< MSK1/>
+
+> Supponiamo che $91$ siano dati integri positivi distinti superiori a $1$ in modo tale che ci siano almeno $456$ coppie tra di esse che sono relativamente prime. Mostrare che si possono trovare quattro numeri interi $a, b, c, d$ tra di loro tali che $\gcd(a, b) = \gcd(b, c) = \gcd(c, d) = \gcd(d, a) = 1$.
+
+[[src_rmo_2019__Q06]]

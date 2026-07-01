@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2009_semifinale__Q10
 parent: src_kangourou_squadre_2009_semifinale
 competition: Kangourou Coppa a squadre 2009 - Semifinale (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita pari/dispari con dadi truccati proporzionali*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0050
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of equal/disappearance with proportionate decks *
+
+> What a demand! You're looking for all positive integers of four digits each of which has all of the following properties: - the digits that make it up must all be different from each other; - it must be a multiple of 5; - if you subtract the number of thousands, the number of three digits left must be a multiple of 9; - if you subtract the number of hundreds, the number of three digits left must be a multiple of 11; - if you subtract the number of tens, the number of three digits left must be a multiple of 7. Find their sum.
+
+**Answer:** 0050
+[[src_kangourou_squadre_2009_semifinale__Q10]]

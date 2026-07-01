@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q01
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto tra numero di gatti e di cani*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Rate of number of cats and dogs< MSK1/>
+
+> There are dogs and cats in a room. The number of cat legs is twice the number of dog noses. So the number of cats is A) twice the number of dogs. (b) equal to the number of dogs. (c) half the number of dogs. D) 1/4 of the number of dogs. E) 1/6 of the number of dogs.
+
+**Answer:** C
+[[src_kangourou_2009_cadet_marzo__Q01]]

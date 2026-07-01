@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q30
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di ragazzi che si spartiscono le mele*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The number of boys sharing apples
+
+> Some boys shared a certain amount of apples so that everyone had the same number. If the boys were two fewer, they'd each get an extra apple. If they were three fewer, they would each receive two more apples. How many kids are there? A) 6 B) 8 C) 9 D) 10 E) 12 Texts_08.qxp 9-03-2008 14:56 Page 15
+> 
+> Category Benjamin For first and second year students of lower secondary school
+>  
+> Questions from N.1 to N. 10 is worth 3 points each.
+
+**Answer:** A
+[[src_kangourou_2008_benjamin_marzo__Q30]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_riserva_biennio__Q03
 parent: src_archimede_2020_riserva_biennio
 competition: Giochi di Archimede 2020/2021 - Gara di riserva Biennio (BB01)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di pagare 141 euro con banconote da 5 e monete da 1*
 
@@ -43,3 +46,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1FHovVvjzoFx5DPSwVsD8IjrWzxEYNRZ6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Mode of payment of €141 with 5 banknotes and 1 coins*
+
+> Martina buys books, which cost a total of 141 euros. He has 30 five-euro notes and 160 one-euro coins in his pocket. How many different ways will Martina be able to pay for the books precisely (without receiving any balance)?
+>
+> - **(A)** 28
+> - **(B)** 27
+> - **(C)** 26
+> - **(D)** 29
+> - **(E)** 25
+
+[[src_archimede_2020_riserva_biennio__Q03]]

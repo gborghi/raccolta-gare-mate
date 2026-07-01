@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f1__Q09
 parent: src_obm_2012_n1_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill 2×3 table with distinct positive integers so each row product is 210*
 
@@ -54,3 +57,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gp2ClZM-lx0Wh2gb0mh-HJYzM4zRldf6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fill 2×3 tabella con numeri interi positivi distinti in modo che ogni prodotto di riga sia 210*
+
+> Nella tabella $2 \times 3$ di seguito, scriviamo un intero positivo in ogni cella in modo che il prodotto dei numeri in ogni riga sia uguale a 210, e tutti e sei i numeri della tabella sono distinti. In quanti modi si può farlo?
+> 
+> $$\begin{array}{|c|c|c||c|}\hline & & & 210 \\ \hline & & & 210 \\ \hline\end{array}$$
+> 
+> (A) 6 \quad (B) 12 \quad (C) 60 \quad (D) 120 \quad (E) infinitamente molti
+
+![[src_obm_2012_n1_f1__Q09.png]]
+
+**Risposta:** C
+[[src_obm_2012_n1_f1__Q09]]

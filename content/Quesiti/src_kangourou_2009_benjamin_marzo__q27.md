@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q27
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero totale di pallini in un set di domino*
 
@@ -82,3 +85,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total number of balls in a domino set*
+
+![[src_kangourou_2009_benjamin_marzo__prob27.png]]
+
+> A complete set for the game of dominoes consists of 28 cards all different from each other: each card represents one of the 28 possible combinations of two integers from 0 to 6 (including those in which the number is repeated) and the numbers are indicated by the corresponding amount of balls. What's the total number of balls in a set like this? A) 84 B) 105 C) 126 D) 147 E) 168 A B D N M C A B A 11 B A C 8 B C A 8 10 8 9 B F x 7 x 7 x 7 x 6 x 6 x 7 x 6 x 7 -49 -49
+> 
+> I'm going to pay. I'm going to pay. 15 15 Kang 2009 Kang 2009
+
+**Answer:** E
+[[src_kangourou_2009_benjamin_marzo__Q27]]

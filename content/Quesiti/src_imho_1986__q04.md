@@ -1,6 +1,7 @@
 ---
 title: IMO 1986 (XXVII International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1986__Q04
 parent: src_imho_1986
 competition: IMO 1986 (XXVII International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Locus of vertex X of triangle sliding around regular n-gon*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Q7vmoRjHZBnLVOcJfGhRBYvwVepRUaQE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Locus of vertex X of triangle sliding around regular n-gon*
+
+> Let $A$, $B$ be adjacent vertices of a regular $n$-gon ($n \ge 5$) in the plane having center at $O$. A triangle $XYZ$, which is congruent to and initially coincides with $OAB$, moves in the plane in such a way that $Y$ and $Z$ each trace out the entire boundary of the polygon, $X$ remaining inside the polygon. Find the locus of $X$.
+
+[[src_imho_1986__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Junior 2024 — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior__Q28
 parent: src_kangourou_2024_junior
 competition: Kangourou Categoria Junior 2024
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante corde di lunghezza tra raggio e diametro (20-gono)*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1RaU3mE869IaHS_tNIf3ZuYiHvi-AxTEi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many strings of length between radius and diameter (20-gones) < MSK1/>
+
+> On a circumference are marked 20 points, vertices of a regular 20-sided polygon. If for each pair of these points the rope is drawn which has them as ends, when are the lines drawn longer than the radius but less than the diameter of the circumference? A) 90
+> 	
+> B) 100 C) 120 D) 140 E) 160
+
+**Answer:** C
+[[src_kangourou_2024_junior__Q28]]

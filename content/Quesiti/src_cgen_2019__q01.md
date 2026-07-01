@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2019 — Matematica — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2019__Q01
 parent: src_cgen_2019
 competition: Concours Général des Lycées 2019 — Matematica
@@ -41,6 +42,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Remarkable families of functions on [0,+inf): show the set of polynomial functions is contained in / characterized by sets closed under sum, composition, difference and product (properties P1-P6).*
 
@@ -98,3 +101,27 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8ucW3mLigvc0hWdO6997kun_qEZQEkB/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Notabili famiglie di funzioni su [0,+inf): mostrare che l'insieme di funzioni polinomiche è contenuto in / caratterizzato da gruppi chiusi sotto somma, composizione, differenza e prodotto (proprietà P1-P6). *
+
+> Indichiamo con $\mathscr{P}$ l'insieme di funzioni definite su $[0,+\infty[$ con valori in $[0,+\infty[$. Per $f$ e $g$ in $\mathscr{P}$, si definisce la funzione $h = f \circ g$ impostando, per ogni numero reale $x \ge 0$: $$h(x) = f(g(x)).$$ Si considerano $u$ e $v$, due funzioni di $\mathscr{P}$ definite, per ogni numero reale $x \ge 0$, da: $$u(x) = e^x - 1, \qquad v(x) = \ln(x+1).$$
+> 
+> La funzione $f$ è chiamata $\textit{polynomial function}$ di $\mathscr{P}$ se esiste un intero $d \ge 0$ e numeri reali $a_0, a_1, \ldots, a_d$ superiori o uguali a $0$ in modo tale che, per ogni numero reale $x \ge 0$: $$f(x) = a_d x^d + a_{d-1} x^{d-1} + \cdots + a_1 x + a_0.$$ I numeri reali $a_0, a_1, \ldots, a_d$ sono chiamati i coefficienti della funzione polinomica $f$.
+> 
+> Let $\mathscr{F}$ essere un insieme di funzioni di $\mathscr{P}$. Si considerano le seguenti proprietà:
+> 
+> < MSK0/> < MSK1/> contiene < MSK2/> e < MSK3/>. $\textbf{(P2)}$ $\mathscr{F}$ contiene tutte le funzioni costanti limitate. < MSK6/> Se < MSK7/> e < MSK8/> appartengono a < MSK9/>, allora < MSK10/> appartiene a < MSK11/>. Se $f$ e $g$ appartengono a $\mathscr{F}$, allora $f \circ g$ appartiene a $\mathscr{F}$. < MSK18/> Se < MSK19/> e < MSK20/> appartengono a < MSK21/> con < MSK22/>, allora < MSK23/> appartiene a < MSK24/>. < MSK25/> Se < MSK26/> e < MSK27/> appartengono a < MSK28/>, allora < MSK29/> appartiene a < MSK30/>.
+> 
+> $\textbf{1.}$ $\mathscr{T}$ sia l'insieme di funzioni di $\mathscr{P}$ che hanno le proprietà $\textbf{(P1)}$, $\textbf{(P2)}$, $\textbf{(P3)}$, $\textbf{(P4)}$ e $\textbf{(P5)}$. $\textbf{a.}$ $i$ sia la funzione definita, per ogni numero reale $x \ge 0$, da $i(x) = x$. Indicare che < MSK12/> appartiene a < MSK13/>. $\textbf{b.}$ $p$ sia la funzione definita, per ogni numero reale $x \ge 0$, da $p(x) = 2x^2 - 3x + 4$. Indicare che < MSK18/> appartiene a < MSK19/>. $\textbf{c.}$ $f$ sia una funzione polinomial di $\mathscr{P}$. Indicare che < MSK23/> appartiene a < MSK24/>. $\textbf{d.}$ La funzione $\exp$ è sempre in $\mathscr{T}$?
+> 
+> $\textbf{2.}$ $\mathscr{F}$ sia un insieme di funzioni di $\mathscr{P}$ che ha le proprietà $\textbf{(P1)}$, $\textbf{(P2)}$, $\textbf{(P3)}$, $\textbf{(P4)}$ e $\textbf{(P5)}$. Qui non si suppone che $\mathscr{F}$ abbia la proprietà $\textbf{(P6)}$. Il risultato della domanda precedente è ancora valido?
+> 
+> $\textbf{3.}$ $\mathscr{F}$ sia un insieme di funzioni di $\mathscr{P}$ che ha le proprietà $\textbf{(P1)}$, $\textbf{(P2)}$, $\textbf{(P4)}$, $\textbf{(P5)}$ e $\textbf{(P6)}$. Qui non si suppone che $\mathscr{F}$ abbia la proprietà $\textbf{(P3)}$.
+> 
+> $\textbf{a.}$ $a$ sia un intero naturale. Un set, per ogni numero reale $x \ge 0$, la funzione definita da: $$Q_a(x) = (x+1)^a - 1.$$ Mostra che $Q_a \in \mathscr{F}$. $\textbf{b.}$ $a$ sia un intero naturale. Dimostrare che esistono integri $a_1, \ldots, a_d$ superiori o uguali a $0$ in modo tale che: $$(x+1)^a = a_d x^d + a_{d-1} x^{d-1} + \cdots + a_1 x + 1.$$ Dato un numero reale $x \ge 0$, si introduce una variabile casuale $X$ seguendo la legge binomica dei parametri $d$ e $\frac{x}{x+1}$. $\textbf{c.}$ $f$ sia una funzione polinomial di $\mathscr{P}$ tale che $f(0) = 0$. Mostrare che esiste un numero reale $c \ge 0$ e un intero naturale $d$ in modo tale che la funzione $$c\big(x + x^2 + \cdots + x^d\big) - f(x)$$ sia una funzione polinomica i cui coefficienti sono tutti positivi o zero. $\textbf{d.}$ Deduce che se $f$ è una funzione polinomial di $\mathscr{P}$ tale che $f(0) = 0$, allora $f$ appartiene a $\mathscr{F}$. < MSK27/> < MSK28/> deve essere una funzione di < MSK29/>. $\bullet$ Si dice $f$ è $\textit{segmentary}$ se verifica la proprietà: per ogni numero reale $a > 0$ esiste un numero reale $b > 0$ tale che, per tutte le $x$ che verificano $0 \le x \le a$, si ha $0 \le f(x) \le b$. $\bullet$ Si dice $f$ è $\textit{bounded}$ se verifica la proprietà: esiste un numero reale $b > 0$ tale che, per ogni numero reale $x \ge 0$, si ha $0 \le f(x) \le b$. Ora uno denota con $\mathscr{S}$ l'insieme delle funzioni segmentarie e $\mathscr{B}$ l'insieme delle funzioni limitate. $\textbf{i.}$ $f$ deve essere una funzione di $\mathscr{B}$. Indicare che $f$ è segmentato. È vero il contrario? < MSK50/> Indicare che < MSK51/> soddisfa le proprietà < MSK52/> a < MSK53/>. Indicare che $\mathscr{B}$ soddisfa le proprietà $\textbf{(P1)}$, $\textbf{(P2)}$, $\textbf{(P4)}$, $\textbf{(P5)}$ e $\textbf{(P6)}$, ma non soddisfa la proprietà $\textbf{(P3)}$. $\textbf{f.}$ Una funzione polinomial di $\mathscr{P}$ è necessariamente in $\mathscr{F}$?
+
+[[src_cgen_2019__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Gara del pubblico — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_pubblico__Q02
 parent: src_cesenatico_2012_pubblico
 competition: Gara a Squadre Cesenatico 2012 - Gara del pubblico
@@ -28,6 +29,8 @@ tags:
   - topic/disuguaglianze
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Max media geometrica delle aure (allenamenti)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 7980
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max geometric mean of the auras (training) < MSK1/>
+
+> Commander Tarkin threatens to destroy the Earth with the Black Death, but he will give up if Princess Leila defeats him in the next game. Initially there is a heap of n stones; then players alternate starting with Leila. The only valid moves are to remove pile 1, 2, 4 or 16 stones. The winner is the one who can remove the last stone. Leila, reflecting a little, realizes that if Tarkin doesn't make mistakes, there will be no chance of victory for her. Then try to make the game last as long as possible, hoping that Tarkin will make a mistake sooner or later and also to delay the destruction of Earth. How much was it worth if the Earth was destroyed after a game of 594 moves?
+
+**Answer:** 7980
+[[src_cesenatico_2012_pubblico__Q02]]

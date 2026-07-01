@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1993 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1993__Q05
 parent: src_inmo_1993
 competition: Indian National Mathematical Olympiad 1993
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Natural number n such that n! ends in exactly 1993 zeros*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YUUjSkPwVGDNNzFb4tb7lnpGfqMd6wTC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Numero naturale n tale che n! termina esattamente in zero 1993*
+
+> Indicare che esiste un numero naturale $n$ tale che $n!$ nel sistema decimale finisce esattamente in zero $1993$.
+
+[[src_inmo_1993__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_triennio__Q15
 parent: src_archimede_2009_triennio
 competition: Giochi di Archimede 2009 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo numero con somma 83 e prodotto 1024*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Little number with sum of 83 and product 1024< MSK1/>
+
+> On my board are written some positive integers, not necessarily distinct. If I add them up, I find 83, if I multiply them, I find 1024. What's the smallest number written on my board?
+>
+> - **(A)** 1,
+> - **(B)** 2,
+> - **(C)** 4,
+> - **(D)** 8,
+> - **(E)** 16.
+
+**Answer:** A
+[[src_archimede_2009_triennio__Q15]]

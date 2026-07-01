@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2020 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2020__Q01
 parent: src_cn_cmc-first-round_2020
 competition: China Mathematical Competition (First Round) 2020
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Geometric sequence with given terms, find log value*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** -4
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza geometrica con termini dati, trovare il valore di registro*
+
+> (Pagina A, Parte I Q1) Se si considera la sequenza geometrica $\{a_n\}$, $a_8 = 13$, $a_{12} = 1$, il valore di $\log_{a_{13}} 13$ è $\underline{\qquad}$.
+
+**Risposta:** -4
+[[src_cn_cmc-first-round_2020__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_ecolier__Q15
 parent: src_kangourou_2002_ecolier
 competition: Kangourou 2002 - Ecolier (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Immagine impossibile della bandiera*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Impossible image of the flag*
+
+![[src_kangourou_2002_ecolier__prob15.png]]
+
+> From the window of her room, Carla looks at the wall of the house across the street. You can see that there's a rectangular flag, like the one in the picture, hanging in the wind. Carla watches the flag at different times. Assuming the flag is not torn by the force of the wind, which of the five images below Carla will she never see?
+
+**Answer:** B
+[[src_kangourou_2002_ecolier__Q15]]

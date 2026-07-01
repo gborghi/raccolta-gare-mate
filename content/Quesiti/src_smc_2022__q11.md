@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2022 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2022__Q11
 parent: src_smc_2022
 competition: Senior Mathematical Challenge 2022
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a number triangle where each disc equals the product of the two discs below it and the top disc is 2022, find n.*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*In un triangolo numerico in cui ogni disco è uguale al prodotto dei due dischi al di sotto e il disco superiore è 2022, trovi n.*
+
+> Nel triangolo numerico mostrato, ogni disco deve essere riempito di un intero positivo. Ogni disco nella riga superiore o media contiene il numero che è il prodotto dei due numeri immediatamente sotto. Qual è il valore di < MSK0/>?
+>
+> - **(A)** 1
+> - **(B)** 2
+> - **(C)** 3
+> - **(D)** 6
+> - **(E)** 33
+
+![[src_smc_2022__Q11.png]]
+
+**Risposta:** A
+[[src_smc_2022__Q11]]

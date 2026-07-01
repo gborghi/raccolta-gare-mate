@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q19
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distributore a cui Luca deve fermarsi una volta*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distributor to which Luca must stop once*
+
+> Luke's car uses 1 liter of gasoline to travel 10 km and has a tank that can hold 40 of them. Luca started a 500-mile journey with 14 liters of gasoline in the tank. After traveling 55 km, he encounters a sign indicating the distances in kilometres, starting from the sign, of the five following gasoline distributors: 35, 45, 55, 75 and 95. Luca wants to stop just once to get gasoline. How many miles away is the dealer from which he will have to stop? A) 35
+> 	
+> B) 45
+> 	
+> C) 55
+> 	
+> D) 75
+> 	
+> E) 95
+
+**Answer:** D
+[[src_kangourou_2020_junior_marzo__Q19]]

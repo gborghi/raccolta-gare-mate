@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2007 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2007__Q05
 parent: src_bocconi_semifinale_2007
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2007
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Completare schema a frecce con prodotti di coppie*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** I valori mancanti si ricavano dallo schema con i numeri 24, 30, 20, 5, 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Complete arrow diagram with paired products*
+
+> In the side diagram, each number written in a square is obtained by multiplying the two numbers directly connected to it. Complete the drawing.
+
+![[src_bocconi_semifinale_2007__Q05.png]]
+
+**Answer:** I valori mancanti si ricavano dallo schema con i numeri 24, 30, 20, 5, 6
+[[src_bocconi_semifinale_2007__Q05]]

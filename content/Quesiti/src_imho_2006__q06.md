@@ -1,6 +1,7 @@
 ---
 title: IMO 2006 (XLVII International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2006__Q06
 parent: src_imho_2006
 competition: IMO 2006 (XLVII International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sum of max-triangle areas over sides is at least twice polygon area*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/143KgNKQ3Cj2BArKcUazU0jzaqTTOSK6-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of max-triangle areas over sides is at least twice polygon area*
+
+> Assign to each side $b$ of a convex polygon $P$ the maximum area of a triangle that has $b$ as a side and is contained in $P$. Show that the sum of the areas assigned to the sides of $P$ is at least twice the area of $P$.
+
+[[src_imho_2006__Q06]]

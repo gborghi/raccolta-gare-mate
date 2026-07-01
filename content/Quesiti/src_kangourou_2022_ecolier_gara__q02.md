@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier gara individuale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_gara__Q02
 parent: src_kangourou_2022_ecolier_gara
 competition: Kangourou 2022 Ecolier gara individuale
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo scatole da togliere per aprire la nera*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13tmugX8Bll7c80o_k8cabalhSKnnlBkl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum boxes to remove to open the black< MSK1/>
+
+![[src_kangourou_2022_ecolier_gara__prob2.png]]
+
+> Giulio wants to open the black box containing the train. To do that, he takes one box at a time. What's the minimum number of boxes he can take off? A) 3
+>   
+> B) 4
+>   
+> C) 5 D) 6
+>   
+> E) 7
+
+**Answer:** C
+[[src_kangourou_2022_ecolier_gara__Q02]]

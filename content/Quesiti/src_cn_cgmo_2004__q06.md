@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2004 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2004__Q06
 parent: src_cn_cgmo_2004
 competition: China Girls' Mathematical Olympiad 2004
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Projection of EF on BC is constant for circle through A,E,D,F*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La proiezione di EF su BC è costante per il cerchio attraverso A,E,D,F*
+
+> Date un triangolo acuto $ABC$ con $O$ come suo centro circundante. Linea $AO$ e lato $BC$ si incontrano a $D$. I punti $E$ e $F$ si trovano rispettivamente sui lati $AB$ e $AC$, in modo tale che i punti $A$, $E$, $D$ e $F$ si trovino su un cerchio. Prove che la lunghezza della proiezione del segmento di linea $EF$ sul lato $BC$ non dipende dalle posizioni di $E$ e $F$.
+
+![[src_cn_cgmo_2004__Q06.png]]
+
+[[src_cn_cgmo_2004__Q06]]

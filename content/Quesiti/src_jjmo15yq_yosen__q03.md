@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo15yq_yosen__Q03
 parent: src_jjmo15yq_yosen
 competition: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill boxes with 1-6 to make fraction closest to 1*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 4/5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Inserire le scatole con 1-6 per rendere la frazione più vicina a 1*
+
+> Mettete i numeri interi $1, 2, 3, 4, 5, 6$, uno per uno, nelle caselle $\square$ dell'espressione seguente e calcolate il valore risultante. Tra tutti i valori disponibili, indicare quello più vicino a $1$. Qui $2^{\square}$ indica $2$ sollevato alla potenza scritta nella casella. $$\frac{2^{\square}+2^{\square}+2^{\square}}{2^{\square}+2^{\square}+2^{\square}}$$
+
+**Risposta:** 4/5
+[[src_jjmo15yq_yosen__Q03]]

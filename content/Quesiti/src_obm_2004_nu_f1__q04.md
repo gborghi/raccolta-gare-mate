@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 1 —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_nu_f1__Q04
 parent: src_obm_2004_nu_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível Universitário — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ordered triples of subsets with given intersection conditions*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rns90hvVWwghYkYiNKyUvjjjPu-_eNED/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i triples ordinati di sottoinsiemi con determinate condizioni di intersezione*
+
+> Quanti triplici ordinati $(A,\,B,\,C)$ di sottoinsiemi di $\{1,2,\ldots,n\}$ soddisfano $A \cap B \cap C = \varnothing$, $A \cap B \neq \varnothing$ e $A \cap C \neq \varnothing$?
+
+[[src_obm_2004_nu_f1__Q04]]

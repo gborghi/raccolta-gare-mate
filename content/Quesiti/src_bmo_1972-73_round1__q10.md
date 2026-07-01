@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1972-73 — Round 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1972-73_round1__Q10
 parent: src_bmo_1972-73_round1
 competition: British Mathematical Olympiad 1972-73 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Flow chart for program printing integers a,b,c with c^2 = a^2 - b^2*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KsOHkjJqAZiozb8UXBSmKdsyHF0dq6Mh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Grafica di flusso per la stampa di integri a,b,c con c^2 = a^2 - b^2*
+
+> Costruire un grafico di flusso dettagliato per un programma informatico per stampare tutti gli enti interi positivi fino a $100$ del modulo $c^2 = a^2 - b^2$, dove $a$, $b$, $c$ sono interi positivi e $a \ge b > c$.
+> 
+> Non c'è bisogno di stampare in ordine ascendente o di evitare ripetizioni.
+
+[[src_bmo_1972-73_round1__Q10]]

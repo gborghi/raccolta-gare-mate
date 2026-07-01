@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Junior Finale 2 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_junior_squadre_f2__Q07
 parent: src_kangourou_2024_junior_squadre_f2
 competition: Kangourou Squadre 2024 Junior Finale 2
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area rettangolo ABCD da area triangolo EHK*
 
@@ -94,3 +97,58 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0630
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1j_lF5MoAJcwsxMwvV_h25HhCIaShqMT7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangle area ABCD from area triangle EHK*
+
+![[src_kangourou_2024_junior_squadre_f2__prob7.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.5]
+  \coordinate (A) at (0,0);
+  \coordinate (B) at (3,0);
+  \coordinate (C) at (3,2);
+  \coordinate (D) at (0,2);
+  \coordinate (E) at (1.5,2);
+  \coordinate (F) at (1,0);
+  \coordinate (G) at (2,0);
+  \coordinate (H) at (1.2,0.8);
+  \coordinate (K) at (1.7143,1.1429);
+  \draw (A) -- (B) -- (C) -- (D) -- cycle;
+  \draw (A) -- (C);
+  \draw (E) -- (F);
+  \draw (E) -- (G);
+  \draw (H) -- (K);
+  \node[below left] at (A) {$A$};
+  \node[below right] at (B) {$B$};
+  \node[above right] at (C) {$C$};
+  \node[above left] at (D) {$D$};
+  \node[above] at (E) {$E$};
+  \node[below] at (F) {$F$};
+  \node[below] at (G) {$G$};
+  \node[left] at (H) {$H$};
+  \node[right] at (K) {$K$};
+  \fill (A) circle (1.5pt);
+  \fill (B) circle (1.5pt);
+  \fill (C) circle (1.5pt);
+  \fill (D) circle (1.5pt);
+  \fill (E) circle (1.5pt);
+  \fill (F) circle (1.5pt);
+  \fill (G) circle (1.5pt);
+  \fill (H) circle (1.5pt);
+  \fill (K) circle (1.5pt);
+\end{tikzpicture}
+\end{document}
+```
+
+> The rectangle In the figure to the right, ABCD is a rectangle, E is the middle point of DC and AF, FG, GB are each 1/3 long AB. The area of the EHK triangle is 27. What is the area of the rectangle ABCD?
+>  
+>  
+> K B C D E F G A H
+
+**Answer:** 0630
+[[src_kangourou_2024_junior_squadre_f2__Q07]]

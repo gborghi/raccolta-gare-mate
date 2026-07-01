@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo20yq_yosen__Q09
 parent: src_jjmo20yq_yosen
 competition: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count n<=2022 admitting a multiple with exactly one 0-digit, all others 2*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1700
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta n<=2022 che ammette un multiplo con esattamente una cifra a 0, tutti gli altri 2*
+
+> Trova il numero di interi positivi $n \le 2022$ per i quali esiste un intero positivo divisibile da $n$, ha esattamente una cifra uguale a $0$ e tutte le altre cifre uguali a $2$.
+
+**Risposta:** 1700
+[[src_jjmo20yq_yosen__Q09]]

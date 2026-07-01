@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n1_f2__Q01
 parent: src_obm_2010_n1_f2
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 1 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cups needed to finish filling a jar from 1/4 full to 1/3 full*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1idwSbNEFpo5nd2U9NMv2nCxG_E8e-QmN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Copi necessari per completare il riempimento di un vaso da 1/4 pieno a 1/3 pieno< MSK1/>
+
+> Un vaso contiene < MSK0/> della sua capacità in acqua. Versa una tazza piena di acqua nel vaso, il volume raggiunge < MSK1/> della sua capacità. Quanti altri bicchieri pieni sono ancora necessari per riempire completamente il vaso?
+
+**Risposta:** 8
+[[src_obm_2010_n1_f2__Q01]]

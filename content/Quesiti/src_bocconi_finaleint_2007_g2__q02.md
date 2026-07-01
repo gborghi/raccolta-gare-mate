@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 2) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g2__Q02
 parent: src_bocconi_finaleint_2007_g2
 competition: >-
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di tre cifre con somma 18 e relazioni tra le cifre*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 369
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tri-digit number with sum of 18 and relations between the digits*
+
+> A number is made up of three digits. Its added three digits give < MSK0/>. The sum of the first two digits is twice the sum of the third, and half of the second is equal to one third of the first.
+> 
+> What is this number?
+
+**Answer:** 369
+[[src_bocconi_finaleint_2007_g2__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f2__Q09
 parent: src_obm_2005_n2_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 2
@@ -40,6 +41,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Domino sequences with houses 1-3: count arrangements, explain impossibility for 1-4*
 
@@ -56,3 +59,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Sequenze di domino con case 1-3: ordini di conteggio, spiegazione dell'impossibilità di 1-4
+
+> Ogni gioco di domino ha due case numerate. Considerare i pezzi $6$ formati utilizzando solo i numeri $1$, $2$ e $3$:
+> 
+> (a) In quanti modi è possibile organizzare tutti questi pezzi in una sequenza in modo che la casa destra di ciascun pezzo sia uguale alla casa sinistra del pezzo successivo? Qui di seguito sono riportati due esempi.
+> 
+> b) Spiega perché non sia possibile fare lo stesso con tutti i pezzi $10$ formati utilizzando solo i numeri $1$, $2$, $3$ e $4$.
+
+![[src_obm_2005_n2_f2__Q09.png]]
+
+[[src_obm_2005_n2_f2__Q09]]

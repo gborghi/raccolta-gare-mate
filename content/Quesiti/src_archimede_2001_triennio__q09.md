@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Triennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_triennio__Q09
 parent: src_archimede_2001_triennio
 competition: Giochi di Archimede 2001 - Triennio
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima distanza percorso con riflessioni su due fiumi*
 
@@ -47,3 +50,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum distance traveled with reflections on two rivers*
+
+> In the Far West, two straight rivers run parallel at a distance of 10 km. The sorcerer of an Indian village, who is in his hut, must collect a water bottle from each of the two rivers and bring the bottles to the village for the prayer ceremony in Manitu. What is the minimum distance of the route he must complete, knowing that the hut and the village are equidistant from the two rivers and 48 km apart?
+>
+> - **(A)** 48
+> - **(B)** 52
+> - **(C)** 53
+> - **(D)** 58
+> - **(E)** √ 482 + 102.
+
+[[src_archimede_2001_triennio__Q09]]

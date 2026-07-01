@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2002 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2002__Q06
 parent: src_inmo_2002
 competition: Indian National Mathematical Olympiad 2002
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bound on diagonal entries of increasing $n\times n$ array*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/123ExWCM4Wogb72Q-10yYiq_o3oHySsJU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ribbito su voci diagonali di array in aumento $n\times n$*
+
+> Supponiamo che i numeri $n^2$ $1, 2, 3, \ldots, n^2$ siano disposti per formare un array $n$ da $n$ composto da righe $n$ e colonne $n$ in modo tale che i numeri di ogni riga (da sinistra a destra) e di ogni colonna (da cima a sotto) siano in ordine crescente. Indicare con $a_{jk}$ il numero nella riga $j$-th e nella colonna $k$-th. Supponiamo che $b_j$ sia il numero massimo possibile di voci che possono verificarsi come $a_{jj}$, $1 \le j \le n$. Provare che < MSK0/>
+
+[[src_inmo_2002__Q06]]

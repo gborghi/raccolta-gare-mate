@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Student — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_semifinale__Q18
 parent: src_kangourou_2019_student_semifinale
 competition: Kangourou 2019 Semifinale Student
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti modi acquistare 30 pezzi tra tre tipi (max 20 ciascuno)*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16S2j4usLxcQ2bpjmkWWGvxboij1JXUNc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many ways to buy 30 pieces between three types (max 20 each) < MSK1/>
+
+> (Documents 8) In a shop there are three different types of items, and for each type, there are 20 pieces. A customer who wants to buy 30 of those pieces, regardless of the type, how many different ways than the types can he do it?
+> 
+> 0019 0902 7200 4040 0074 0024 0029 0008 0331
+
+[[src_kangourou_2019_student_semifinale__Q18]]

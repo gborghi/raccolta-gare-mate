@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2008 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2008__Q06
 parent: src_cn_cmc_2008
 competition: China Mathematical Competition 2008
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Range of trigonometric ratio when sides form geometric sequence*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Intervallo del rapporto trigonometrico quando i lati formano una sequenza geometrica*
+
+> Supponiamo che i lati $a, b, c$ di $\triangle ABC$, corrispondenti rispettivamente agli angoli $A, B, C$, costituiscano una sequenza geometrica. Quindi l'intervallo di $\dfrac{\sin A \cos C - \cos B}{\sin B \cos C - \cos B}$ è ( ).
+> 
+> (A) $(0, +\infty)$ \quad (B) $\left(0, \dfrac{\sqrt{5}+1}{2}\right)$ \quad (C) $\left(\dfrac{\sqrt{5}-1}{2}, \dfrac{\sqrt{5}+1}{2}\right)$ \quad (D) $\left(\dfrac{\sqrt{5}-1}{2}, +\infty\right)$
+
+**Risposta:** C
+[[src_cn_cmc_2008__Q06]]

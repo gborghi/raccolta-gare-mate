@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Ecolier (gara marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier__Q21
 parent: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale pezzo certamente non usato nel mosaico*
 
@@ -64,3 +67,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which piece is certainly not used in the mosaic*
+
+![[src_kangourou_2011_ecolier__prob21.png]]
+
+> Stephen formed the mosaic you see in the figure on the right by drawing, without overlapping them even in part, pieces all equal to each other. Which of the following did you not use? I'm going to pay. I'm going to pay. The Commission has therefore decided to take the necessary measures to ensure that the Commission is able to take appropriate measures to ensure that it is able to fulfil its obligations under Article 107 (1) of the Treaty.
+> 
+> I'm going to pay. I'm going to pay. 9 Kang 201 Kang 2011
+
+**Answer:** D
+[[src_kangourou_2011_ecolier__Q21]]

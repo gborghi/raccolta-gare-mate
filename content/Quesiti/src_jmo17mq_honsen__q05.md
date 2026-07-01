@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2007 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo17mq_honsen__Q05
 parent: src_jmo17mq_honsen
 competition: Japan Mathematical Olympiad 2007 — Honsen (Final)
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Irrational alpha such that beta in A(alpha) implies beta/alpha is an integer*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17fIqEqlKYYACz4yck5j653JkI5UjCss0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Alfa irrazionale tale che beta in A(alfa) implica che beta/alfa è un intero*
+
+> Per un numero reale $r$, $\lfloor r \rfloor$ indica il numero intero più grande non superiore a $r$. Per un numero reale positivo $x$, definire l'insieme $$A(x) = \{\lfloor nx \rfloor \mid n \text{ is a positive integer}\}.$$ Trovare tutti i numeri irrazionali $\alpha > 1$ in modo tale che: ogni volta che $\beta$ è un vero positivo con $A(\alpha) \supset A(\beta)$, il rapporto $\dfrac{\beta}{\alpha}$ è un intero.
+
+[[src_jmo17mq_honsen__Q05]]

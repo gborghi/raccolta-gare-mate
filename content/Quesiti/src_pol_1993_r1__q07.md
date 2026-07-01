@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r1__Q07
 parent: src_pol_1993_r1
 competition: Olimpiade Matematica Polacca 1993 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the volume of the convex hull of points defined by vector equalities in space.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il volume dello scafo convexo dei punti definiti dalle equazioni vettoriali nello spazio.*
+
+> Considerare i punti $A_0(0,0,0)$, $A_1(1,0,0)$, $A_2(0,1,0)$ e $A_3(0,0,1)$ nello spazio. Il punto $P_{ij}$ ($i,j=0,1,2,3$) deve essere definito da $\overrightarrow{A_0 P_{ij}}=\overrightarrow{A_i A_j}$. Trovare il volume della cassa convexa dei punti $P_{ij}$.
+
+[[src_pol_1993_r1__Q07]]

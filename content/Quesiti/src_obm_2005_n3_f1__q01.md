@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n3_f1__Q01
 parent: src_obm_2005_n3_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integers between 10 and 13000 whose digits are consecutive and increasing*
 
@@ -51,3 +54,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z330cU4LHPTHvmERACaGMc8JkzvT5tYM/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi tra 10 e 13000 i cui numeri sono consecutivi e in aumento*
+
+> Quanti numeri tra $10$ e $13000$, letti da sinistra a destra, sono formati da cifre consecutive in ordine crescente? Ad esempio, $456$ è uno di questi numeri, ma $7890$ non lo è. (A) $10$ (B) $13$ (C) $18$ (D) $22$ (E) $25$
+
+[[src_obm_2005_n3_f1__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2017 Semifinale A — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_squadre_a__Q04
 parent: src_kangourou_2017_squadre_a
 competition: Kangourou Coppa Squadre 2017 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *9 da numero di 90 cifre*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 360
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Uso6Tvsu_ZURCZGOyVOuKWA31YMwLA3t/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*9 with a 90-digit number *
+
+> Adding the numbers A positive integer n has 90 digits all of which are different from zero; each digit from 1 to 9 is present in n the same number of times. Starting with n we build two more numbers: a obtained by pressing 1 to the sequence of digits that gives n and b obtained by writing 1 after the sequence of digits that gives n. The difference b − a is divisible by 9: what is the sum of the digits of the quotient (b − a): 9?
+
+**Answer:** 360
+[[src_kangourou_2017_squadre_a__Q04]]

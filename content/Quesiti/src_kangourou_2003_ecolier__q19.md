@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q19
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale casetta si ottiene dal ritaglio*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>What box is obtained from cutting< MSK1/>
+
+![[src_kangourou_2003_ecolier__prob19.png]]
+
+> The figure on the side was drawn on a single façade of a non-transparent sheet of paper and then cut to make a house. Which of the boxes below is the one so obtained? A) B) C) D) E)
+
+**Answer:** A
+[[src_kangourou_2003_ecolier__Q19]]

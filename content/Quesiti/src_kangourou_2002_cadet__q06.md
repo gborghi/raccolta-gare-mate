@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q06
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Espressione col risultato maggiore*
 
@@ -40,3 +43,19 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Expression with the highest score*
+
+> Which of the following expressions gives the greatest result?
+>  
+> A. 10 × 0,001× 100          B. 0,01 : 100         C. 100 : 0,01
+>  
+>  
+> D. 10 000 × 100 : 10         E. 0,1 × 0,01 × 10 000 .
+
+**Answer:** D
+[[src_kangourou_2002_cadet__Q06]]

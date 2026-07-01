@@ -1,6 +1,7 @@
 ---
 title: IMO 2023 papers — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2023__Q01
 parent: src_imo_2023
 competition: IMO 2023 papers
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Composti n con di divide di+1+di+2*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19SQ1XZQ_GEiLN_l4y9fIOBkuxg2liNyN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Compounds n with divisible by +1+di+2*
+
+> Determine all $n > 1$ integers that satisfy the following property: if $d_1, d_2, \ldots, d_k$ are all positive divisors of $n$ with $1 = d_1 < d_2 < \cdots < d_k = n$, then $d_i$ divides $d_{i+1} + d_{i+2}$ by each $1 \leq i \leq k-2$.
+
+[[src_imo_2023__Q01]]

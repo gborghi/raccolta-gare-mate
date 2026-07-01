@@ -1,6 +1,7 @@
 ---
 title: IMO 1972 (XIV International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1972__Q06
 parent: src_imho_1972
 competition: IMO 1972 (XIV International Mathematical Olympiad)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Four distinct parallel planes imply a regular tetrahedron with vertex on each*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Four distinct parallel planes imply a regular tetrahedron with vertex on each*
+
+> Given four distinct parallel planes, prove that there exists a regular tetrahedron with a vertex on each plane.
+
+[[src_imho_1972__Q06]]

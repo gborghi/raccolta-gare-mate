@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo34yqa_yosen__Q09
 parent: src_jmo34yqa_yosen
 competition: Japan Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find DF in cyclic quadrilateral with angle bisector and equal angle conditions*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{17}{3}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BLiurO6ycVxBaRhIQ4VIeU3sYe6dethe/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca DF in quadrilaterali ciclici con bisettore angolare e condizioni di angolo uguale*
+
+> Il quadrilaterale ciclico $ABCD$ soddisfa $AB = 7$ e $BC = 18$. Il bisettore angolare di $\angle CDA$ incontra il lato $BC$ al punto $E$, e un punto $F$ sul segmento $DE$ soddisfa $\angle AED = \angle FCD$. Con $BE = 5$ e $EF = 3$, si trova la lunghezza $DF$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** \frac{17}{3}
+[[src_jmo34yqa_yosen__Q09]]

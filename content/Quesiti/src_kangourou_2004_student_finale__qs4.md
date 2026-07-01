@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Student finale nazionale — Quesito S4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student_finale__QS4
 parent: src_kangourou_2004_student_finale
 competition: Kangourou 2004 Student finale nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di X stampato dall'algoritmo*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 10200
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YDB8i8P8ObCcVZVHoKNettQ8gKf-sGTa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value of X printed by the algorithm*
+
+> A calculator executes the following instructions: (1) initiate $X$ to $3$ and $S$ to $0$, (2) increase the value of $X$ to $2$, (3) increase the value of $S$ to $X$, (4) if $S$ has at least $5$ digits go to the instruction (5) otherwise go to the instruction (2) and start from that position, (5) print the value of $X$ and finish. What will be the value of $X$ to be printed in step (5)?
+
+**Answer:** 10200
+[[src_kangourou_2004_student_finale__QS4]]

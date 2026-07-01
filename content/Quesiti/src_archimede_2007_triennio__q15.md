@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2007 - Gara Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_triennio__Q15
 parent: src_archimede_2007_triennio
 competition: Giochi di Archimede 2007 - Gara Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Fogli delle presenze distinti per 10 studenti*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distinguished attendance cards for 10 students*
+
+> Professor Victor teaches a class of 10 students and at the beginning of each lesson he completes the attendance sheet by writing present or absent next to each student's name. How many separate presence sheets are possible?
+>
+> - **(A)** 102,
+> - **(B)** 22 + 23 + 24,
+> - **(C)** 103,
+> - **(D)** 210,
+> - **(E)** 104.
+
+**Answer:** D
+[[src_archimede_2007_triennio__Q15]]

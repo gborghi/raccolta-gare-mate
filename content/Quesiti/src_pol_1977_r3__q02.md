@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1977 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1977_r3__Q02
 parent: src_pol_1977_r3
 competition: Olimpiade Matematica Polacca 1977 — Round 3
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Nested circles and polygons; prove radii converge to zero*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ihJu65X9h_5nFSLWEBnWr2rsJ1UTiKwI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circoli e poligoni nidificati; prove che i radii convergono a zero*
+
+> $n \ge 3$ sia un dato numero intero. Una sequenza $K_0, K_1, K_2, \ldots$ di cerchi e una sequenza $W_1, W_2, \ldots$ di convexe $n$-goni soddisfano $$K_0 \supset W_1 \supset K_1 \supset W_2 \supset K_2 \supset \cdots$$ per tutti $i = 1, 2, \ldots$. Prova che la sequenza dei radii dei cerchi $K_n$ converge a zero.
+
+[[src_pol_1977_r3__Q02]]

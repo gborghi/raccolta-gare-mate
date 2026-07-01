@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara Febbraio 2012 (29 feb) - 2 livello — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_febb29_2livello__Q05
 parent: src_archimede_2012_febb29_2livello
 competition: Archimede Gara Febbraio 2012 (29 feb) - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazioni autoreferenziali, individuare quella falsa*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1d6tA-tgcgFxghtlGdC7LGPaj6LjNmvav/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Self-referenced statements, identifying false one*
+
+> 5. Each of the following statements is false. What kind?
+>
+> - **(A)** B is false
+> - **(B)** The (C) is false
+> - **(C)** The (E) is true
+> - **(D)** The (A) is true
+> - **(E)** Three of the foregoing are true.
+
+**Answer:** B
+[[src_archimede_2012_febb29_2livello__Q05]]

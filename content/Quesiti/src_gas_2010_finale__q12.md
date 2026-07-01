@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Finale Nazionale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_finale__Q12
 parent: src_gas_2010_finale
 competition: Gara a Squadre 2010 - Finale Nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo QRP da bisettrici esterne con SP=PR=RT*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 7920
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1at6XBrcAVouPGJB31qlfncKdV0FXxe2_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*QRP angle from external beacons with SP=PR=RT*
+
+> The mouth of the Cramer No one knows exactly how the mouth of the Cramer is made (at least no one has lived to tell it). But there's a legend about a particular triangular shape. In the PQR triangle both QR < PR < PQ and S are the intersection between the outer-angle intersection in P and the QR straight. In addition, T is the intersection between the outer angle beam in R and the straight PQ. Knowing that SP = PR = RT, find out how long the angle Q ˆRP is. Answer in arc minutes. (One minute of arc is 1/60 of a degree.)
+
+**Answer:** 7920
+[[src_gas_2010_finale__Q12]]

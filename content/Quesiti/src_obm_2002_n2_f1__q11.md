@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f1__Q11
 parent: src_obm_2002_n2_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bar chart of company revenues; identify the true statement*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Grafica a barre dei ricavi dell'impresa; identificare la dichiarazione vera*
+
+> Il grafico a barre di seguito mostra le entrate mensili (in milioni di reais) delle imprese $A$ e $B$ durante il secondo semestre di $2001$.
+>
+> Sulla base di questo grafico, possiamo affermare che:
+>
+> - **(A)** C'è stato un mese in cui le entrate della società $A$ erano il doppio di quelle della società $B$.
+> - **(B)** Nel mese di luglio la differenza di entrate è stata maggiore di tutte le altre.
+> - **(C)** La società $B$ ha registrato un calo maggiore dei ricavi rispetto alla società $A$ nei due mesi consecutivi.
+> - **(D)** Nel semestre, il fatturato totale di $A$ è stato superiore a quello di $B$.
+> - **(E)** La differenza tra le entrate totali del semestre non ha superato < MSK0/> milioni di reais.
+
+![[src_obm_2002_n2_f1__Q11.png]]
+
+**Risposta:** D
+[[src_obm_2002_n2_f1__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior gara individuale — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_gara__Q18
 parent: src_kangourou_2022_junior_gara
 competition: Kangourou 2022 Junior gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza di SV con tre regioni di area uguale*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1x-JyEa5_yMNU2SLr_FfP28eO7ZkhOeLo/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of SV with three regions of equal area*
+
+![[src_kangourou_2022_junior_gara__prob18.png]]
+
+> The figure shows a PQRS square of side 1; its center is W, while U is the midpoint of side RS. The TW, UW and VW segments divide it into three regions with the same area. How long is the SV segment? A) 1/2       B) 2/3 C) 3/4              D) 4/5 E) 5/6
+
+**Answer:** E
+[[src_kangourou_2022_junior_gara__Q18]]

@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2024 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2024__Q19
 parent: src_ioqm_2024
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2024
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Color 10 lines among 5 points so no monochromatic triangle exists*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UglWs-vQn4kwWv7KuW1-915Uah9CbWb-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Colore 10 linee tra 5 punti in modo da non esistere un triangolo monocromatico*
+
+> Considerate cinque punti del piano, senza tre di essi collineari. Ogni coppia di punti tra loro è unita da una linea. In quanti modi possiamo colorare queste linee di rosso o blu, in modo che nessuno dei tre punti formino un triangolo con linee dello stesso colore.
+
+**Risposta:** 12
+[[src_ioqm_2024__Q19]]

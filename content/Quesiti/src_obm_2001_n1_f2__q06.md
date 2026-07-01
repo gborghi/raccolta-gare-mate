@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f2__Q06
 parent: src_obm_2001_n1_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Units digit of N = 1^2 + 2^2 + ... + 196883^2*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OU_kkwljknqnKJvISMf5e6JcgwurbdgC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Unità di N = 1^2 + 2^2 + ... + 196883^2*
+
+> $N$ sia il numero intero positivo dato da $N = 1^2 + 2^2 + 3^2 + 4^2 + \ldots + (196883)^2$. Qual è la cifra di unità di $N$?
+
+**Risposta:** 4
+[[src_obm_2001_n1_f2__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - semifinale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q04
 parent: src_kangourou_2021_benjamin_semifinale
 competition: Kangourou 2021 Benjamin - semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di sommare numeri 1..8 per ottenere 30*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZoOsj72QmushXUD5rVHJ0W3fyHvEdq-b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to add numbers 1.8. to get 30*
+
+> (4 points) You have to add up some of the eight natural numbers from 1 to 8 so you get 30. If each number cannot be used more than once, how many different ways can you meet the request? (The addition of the same additives in a different order should not be considered as a different way).
+>   
+> A) 4
+>   
+> B) 6
+>   
+> C) 8
+>   
+> D) 10 E) 12
+
+**Answer:** A
+[[src_kangourou_2021_benjamin_semifinale__Q04]]

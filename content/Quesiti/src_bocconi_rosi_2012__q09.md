@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2012 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2012__Q09
 parent: src_bocconi_rosi_2012
 competition: Giochi di Rosi 2012
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Vaso più piccolo con sole caramelle alla menta*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Vaso piccolo
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1du4nM_pjVseEMRiX1hz7hrTEkEIg-ZC2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Smaller vessel with only mint candy< MSK1/>
+
+> Before Milena, she went to the bakery before Easter and bought a bunch of licorice, mint and tamarind candy. Actually, it's more delicious than liquorice candy, so she bought more liquorice candy than mint. When she came home, she put the largest type of candy in the larger vessel, the medium-sized in the medium-sized vessel, and the smaller ones in the smaller vessel.
+> 
+> Knowing that mint candies aren't in the smallest pot, where are tamarind?
+
+**Answer:** Vaso piccolo
+[[src_bocconi_rosi_2012__Q09]]

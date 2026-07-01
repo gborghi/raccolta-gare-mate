@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2008 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo6q__Q02
 parent: src_jjmo6q
 competition: Japan Junior Mathematical Olympiad 2008
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max times 1004×1005×…×2008 is divisible by 2*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK3/>Max × 1004 < MSK0/>1005 < MSK1/>... < MSK2/>2008 è divisibile per 2 < MSK4/>
+
+> Quante volte $2$ divide $1004 \times 1005 \times 1006 \times \cdots \times 2008$? (cioè trovare il più grande intero $k$ tale che $2^k$ divida $1004 \times 1005 \times \cdots \times 2008$.)
+
+[[src_jjmo6q__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2003 — Round 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2003_r2__Q01
 parent: src_pol_2003_r2
 competition: Olimpiade Matematica Polacca 2003 — Round 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of an integer n>2003 so that binomial coefficients a_k=C(n,k) have a divisibility property.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1T5f-GdULVCFRGtXR_q1Pm3L7eGRW39tE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di un numero intero n>2003 in modo che i coefficienti binomiali a_k=C(n,k) abbiano una proprietà di divisibilità.*
+
+> Indicare che esiste un intero positivo $n > 2003$ per il quale la sequenza $a_k = \binom{n}{k}$, $k = 0, 1, \ldots, 2003$, ha la seguente proprietà: $a_k$ divide $a_m$ ogni volta che $0 \le k \le m \le 2003$.
+
+[[src_pol_2003_r2__Q01]]

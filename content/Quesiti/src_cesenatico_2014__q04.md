@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2014 - testi — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2014__Q04
 parent: src_cesenatico_2014
 competition: Olimpiade Italiana (Cesenatico) 2014 - testi
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *dimostrare AX=2R*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1gIgeQmvtAR3P4hh46pVwAUEVyz0qxkyZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>to show AX=2R< MSK1/>
+
+> On a center circumference A and radius R, four distinct points B, C, G, H are taken in such an order that G lies on the median of the triangle ABC extended by B, and H lies on the height extended by ABC extended by B. If X is the intersection between the AC and GH lines, it is shown that the AX segment is 2R long.
+
+[[src_cesenatico_2014__Q04]]

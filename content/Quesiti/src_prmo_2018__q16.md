@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q16
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Difference of two double sums over pairs with odd vs even sum*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 55
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Differenza di due doppie somme su coppie con somma pari contro pari*
+
+> Qual è il valore di $$\sum_{\substack{1 \le i < j \le 10 \\ i+j=\text{odd}}} (i+j) - \sum_{\substack{1 \le i < j \le 10 \\ i+j=\text{even}}} (i+j)\,?$$
+
+**Risposta:** 55
+[[src_prmo_2018__Q16]]

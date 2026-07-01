@@ -1,6 +1,7 @@
 ---
 title: IMO 1975 (XVII International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1975__Q03
 parent: src_imho_1975
 competition: IMO 1975 (XVII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angle condition in triangle with externally constructed triangles*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TP79v6F2u-0eqTiBw6yUOXst22fnJsC9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Angle condition in triangle with externally constructed triangles*
+
+> On the sides of an arbitrary triangle $ABC$, triangles $ABR$, $BCP$, $CAQ$ are constructed externally with $\angle CBP = \angle CAQ = 45^\circ$, $\angle BCP = \angle ACQ = 30^\circ$, $\angle ABR = \angle BAR = 15^\circ$. Prove that $\angle QRP = 90^\circ$ and $QR = RP$.
+
+[[src_imho_1975__Q03]]

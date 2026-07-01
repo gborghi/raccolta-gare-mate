@@ -1,6 +1,7 @@
 ---
 title: IMO 2021 papers — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2021__Q05
 parent: src_imo_2021
 competition: IMO 2021 papers
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scoiattoli e noci, esiste k con a<k<b*
 
@@ -39,3 +42,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VTMF3_4FUjshC9L1h1JDLd2a_dFGHkhF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Scoyotes and nuts, there is k with a< k< b< MSK1/>
+
+> Two squirrels, Folto and Saltarello, have harvested 2021 nuts for the winter. Saltarello counts the nuts from 1 to 2021 and digs 2021 bushes in a circle around their favorite tree. The next morning Saltarello notices that Folto has put a nut in each bush, but without paying attention to the numbering. Unsatisfied, Saltarello decides to reorder the nuts by performing a sequence of 2021 moves. On the < MSK0/>-eighth move, Saltarello changes the positions of the two nuts adjacent to the < MSK1/> nut.
+> 
+> Demonstrate that there is a value of $k$ such that, on the $k$-eighth move, Saltarello exchanges two nuts $a$ and $b$ for $a < k < b$.
+
+[[src_imo_2021__Q05]]

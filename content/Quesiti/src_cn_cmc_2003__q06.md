@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2003 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2003__Q06
 parent: src_cn_cmc_2003
 competition: China Mathematical Competition 2003
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the volume of a tetrahedron given two opposite edges, their distance and angle.*
 
@@ -47,3 +50,16 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il volume di un tetraedro dato due bordi opposti, la loro distanza e angolo.*
+
+> Supponiamo che nel tetraedro $ABCD$, $AB = 1$, $CD = \sqrt{3}$, la distanza e l'angolo tra le linee $AB$ e $CD$ siano rispettivamente $2$ e $\frac{\pi}{3}$. Allora il volume del tetraedro è uguale a ( ).
+> 
+> (A) $\frac{\sqrt{3}}{2}$ \quad (B) $\frac{1}{2}$ \quad (C) $\frac{1}{3}$ \quad (D) $\frac{\sqrt{3}}{3}$
+
+**Risposta:** (B) $\frac{1}{2}$
+[[src_cn_cmc_2003__Q06]]

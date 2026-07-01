@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2025 - Biennio (prova di riserva) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_biennio_rec__Q16
 parent: src_archimede_2025_biennio_rec
 competition: Giochi di Archimede 2025 - Biennio (prova di riserva)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura PC' da distanze di P dai lati (somma altezze)*
 
@@ -54,3 +57,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1V_wlofoMGbiEnn5Rn1xgslCzXMgbKV37/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Measurement PC' from distances of P from the sides (sum of heights) < MSK1/>
+
+![[src_archimede_2025_biennio_rec__prob16.png]]
+
+> In the triangle ABC the sides AB and BC measure 10 cm, the CA side measures 12 cm. Taking a point P within the triangle, the segments PA′, PB′ and PC′, perpendicular to the sides, are plotted from P. The lengths of PA′ and PB′ are, in order, 3 and 2 cm. How many cm is the PC′ segment? A B C P A′ B′ C′
+>
+> - **(A)** 4
+> - **(B)** 21/5
+> - **(C)** 39/10
+> - **(D)** 18/5
+> - **(E)** 5 411
+
+**Answer:** B
+[[src_archimede_2025_biennio_rec__Q16]]

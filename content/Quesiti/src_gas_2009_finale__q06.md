@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q06
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime 4 cifre minimo numero con cifre 2,9 divisibile per 2^2009*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2992
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last 4 digits minimum number with digits 2,9 divisible by 2^2009*
+
+> A great battle of ancient times took place in the year N of the first era. Knowing that N is the smallest number that, based on ten, is written with the numbers 2 and 9 and is divisible by 22009, find the last 4 digits of N.
+
+**Answer:** 2992
+[[src_gas_2009_finale__Q06]]

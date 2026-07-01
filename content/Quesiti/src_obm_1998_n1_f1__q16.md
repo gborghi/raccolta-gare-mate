@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q16
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distinct 4-letter surnames with a 2-letter alphabet*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Conta i cognomi distinti a 4 lettere con un alfabeto a 2 lettere< MSK1/>
+
+> L'alfabeto usato sul pianeta X ha solo due lettere: X e x. Un cognome (nome di famiglia) di ciascuno dei suoi abitanti è una sequenza di lettere $4$. Il numero massimo di diversi cognomi che si possono dare sul pianeta X è:
+>
+> - **(A)** $12$
+> - **(B)** $14$
+> - **(C)** $15$
+> - **(D)** $16$
+> - **(E)** $18$
+
+**Risposta:** D
+[[src_obm_1998_n1_f1__Q16]]

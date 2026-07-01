@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2014__Q18
 parent: src_prmo_2014
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2014
@@ -38,6 +39,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Least possible value of f(999) for one-to-one function on naturals with f(mn)=f(m)f(n)*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 24
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valuta minima possibile di f(999) per la funzione uno a uno su naturali con f(mn) = f(m) f(n) *
+
+> Lasciate che $f$ sia una funzione uno a uno dall'insieme dei numeri naturali a se stesso tale che $f(mn) = f(m)f(n)$ per tutti i numeri naturali $m$ e $n$. Qual è il valore minimo possibile di $f(999)$?
+
+**Risposta:** 24
+[[src_prmo_2014__Q18]]

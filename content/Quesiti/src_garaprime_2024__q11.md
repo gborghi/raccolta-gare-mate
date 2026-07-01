@@ -1,6 +1,7 @@
 ---
 title: IX Gara Nazionale Classi Prime 2024 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2024__Q11
 parent: src_garaprime_2024
 competition: IX Gara Nazionale Classi Prime 2024
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area di figura ottenuta togliendo rettangoli da un quadrato*
 
@@ -65,3 +68,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Figure area obtained by removing rectangles from a square*
+
+![[src_garaprime_2024__prob11.png]]
+
+> Consider the two figures (not in scale). Both are obtained by removing from a square of perimeter of 96 cm respectively 4 and 2 rectangles all equal to each other. In the first figure on the perimeter of the starting square there are the short sides of the distant rectangles while in the second figure there are the long sides. Knowing that the perimeter of the two figures is 160 cm for the first and 108 cm for the second, what is the area of the first figure in cm2? A) 480 B) 512 C) 524 D) 528 E) c) there is more than one solution The correct answer is A Siano a, b respectively the measurements in cm of the long and short sides of the rectangles subtracted from the square. The perimeter of the figure on the left is that of the square added to 8a, from which a=160−96 8 = 8. Similarly, the perimeter of the figure to the right is that of the sum of the squares 4b, from which b=108−96 4 = 3. Finally, the size of the required area is [(96 4 ) 2 −4 ∙3 ∙8] = 480 cm2.
+
+**Answer:** A
+[[src_garaprime_2024__Q11]]

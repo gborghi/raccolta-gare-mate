@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2005 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2005__Q05
 parent: src_cn_cmo_2005
 competition: China Mathematical Olympiad 2005
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *5 points in unit rectangle; minimum triangles of area at most 1/4*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 2
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*5 punti in rettangolo unitario; triangoli minimi di superficie non più di 1/4*
+
+> In un rettangolo $ABCD$ (compreso il suo confine) ci sono 5 punti con superficie unitaria tale che nessuno di essi sia collineare. Trova il numero minimo di triangoli con superficie non superiore a $\dfrac{1}{4}$ e vertici scelti da questi 5 punti. (Posato da Leng Gangsong)
+
+**Risposta:** 2
+[[src_cn_cmo_2005__Q05]]

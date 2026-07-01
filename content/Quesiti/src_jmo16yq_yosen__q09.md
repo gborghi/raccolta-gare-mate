@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo16yq_yosen__Q09
 parent: src_jmo16yq_yosen
 competition: Japan Mathematical Olympiad 2006 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find common circumradius of triangles OBC, OCA, OAB given side lengths*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\dfrac{35}{\sqrt{759}}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il circondario comune dei triangoli OBC, OCA, OAB dati lunghezze laterali*
+
+> Nel triangolo $ABC$ con $BC = 5$, $CA = 7$, $AB = 8$, $O$ sia un punto all'interno del triangolo. Le circondazioni dei triangoli $OBC$, $OCA$ e $OAB$ sono tutte uguali. Trova questo circondario comune.
+
+**Risposta:** $\dfrac{35}{\sqrt{759}}$
+[[src_jmo16yq_yosen__Q09]]

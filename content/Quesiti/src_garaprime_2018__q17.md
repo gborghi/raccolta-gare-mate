@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2018 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garaprime_2018__Q17
 parent: src_garaprime_2018
 competition: Gara Nazionale Classi Prime 2018
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Resto diviso 6 del numero concatenato 2018..1*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1XzoWDlSETOE6ynBaPWQsIvAiUafgaOrc/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Remaining part 6 of the 2018 serial number..1*
+
+> Consider the number 201820172016 . . . 10987654321 obtained by disposing of all integers from 2018 to 1 next to each other, in descending order. What's the remainder you get by dividing that number by 6? A 3 B 0 C 1 D 2 E 4 F 5
+
+**Answer:** A
+[[src_garaprime_2018__Q17]]

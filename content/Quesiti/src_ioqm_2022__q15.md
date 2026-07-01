@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q15
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real x,y with xy=1, find largest and smallest of a symmetric expression, compute T+t*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 25
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Real x,y con xy=1, trovare il più grande e il più piccolo di un'espressione simmetrica, calcolare T+t*
+
+> $x, y$ siano numeri reali come $xy = 1$. Se $T + t$ può essere espresso nella forma $\frac{m}{n}$ dove $m, n$ sono numeri interi non zero con $\gcd(m, n) = 1$, trovare il valore di $m + n$.
+
+**Risposta:** 25
+[[src_ioqm_2022__Q15]]

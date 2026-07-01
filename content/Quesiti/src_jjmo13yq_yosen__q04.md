@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo13yq_yosen__Q04
 parent: src_jjmo13yq_yosen
 competition: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cards 1..12 split among A,B,C by sum of squares; find A's and B's cards*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $A: \{2,6,8,10\},\ B: \{4,5,7,11\}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Carte 1..12 suddivise tra A, B, C per la somma dei quadrati; trovare le carte di A e B*
+
+> Ci sono carte etichettate $1, 2, \ldots, 12$, una di ciascuna, $12$ carte in totale. Sono distribuite a tre persone A, B e C, ognuna con carte $4$. Per ciascuna persona viene calcolata la somma dei quadrati dei numeri sulle loro carte: la somma di A è $204$, la somma di B è $211$ e la somma di C è $235$. Determinare i numeri delle carte distribuite a A e a B.
+
+**Risposta:** A: \{2,6,8,10\},\ B: \{4,5,7,11\}
+[[src_jjmo13yq_yosen__Q04]]

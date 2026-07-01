@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Cadet (gara marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_cadet__Q18
 parent: src_kangourou_2011_cadet
 competition: Kangourou 2011 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale sviluppo del cubo corrisponde alla linea nera*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1PuLFIYGw_R4e0TtGLnX3GzIZs6-uFu38/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which development of the cube corresponds to the black line*
+
+![[src_kangourou_2011_cadet__prob18.png]]
+
+> We built a cube from its development on a cross-cut cardboard like the one drawn next to it. Then we draw a black line on the surface of the cube that divides it into two identical parts (see figure). If we go back to the development of the cube, which of the figures shown below will we see on the cardboard?
+
+**Answer:** A
+[[src_kangourou_2011_cadet__Q18]]

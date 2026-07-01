@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1990 — Matematica — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1990__Q01
 parent: src_cgen_1990
 competition: Concours Général des Lycées 1990 — Matematica
@@ -33,6 +34,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer sequence with recurrence; find zeros and a general term*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza integrale con ricorrenza; trovare zero e termine generale*
+
+> $(u_n)_{n \in \mathbb{N}}$ sia la sequenza di integri definita da: $$\begin{cases} u_0 = 0 \text{ for every natural integer } n,\\ u_{2n} = u_n,\\ u_{2n+1} = 1 - u_n.\end{cases}$$
+> 
+> 1. Calcolare < MSK0/>. 2. Determinare il numero di indici $n$, inferiori o uguali a $1990$, in modo tale che $u_n = 0$. 3. $p$ sia un intero naturale parziale e $N = (2p-1)^2$. Calcolare $u_N$.
+
+[[src_cgen_1990__Q01]]

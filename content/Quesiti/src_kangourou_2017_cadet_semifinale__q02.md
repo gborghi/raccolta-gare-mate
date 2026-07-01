@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (semifinale individuale) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_semifinale__Q02
 parent: src_kangourou_2017_cadet_semifinale
 competition: Kangourou 2017 Cadet (semifinale individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Il piu grande e il piu piccolo tra A,B,C da implicazioni*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10dag7nMmvHI9thnGpaNFnBDPMieYZsIy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The largest and smallest of A,B,C by implications
+
+> (Points 3) On three numbers A, B and C you have the following information: - if C is not the largest of the three, then the largest is A; - if A is not the smallest of the three, then the largest is B. What are the largest and smallest in order?
+>
+> - **(A)** B e C
+> - **(B)** A e C
+> - **(C)** C e B
+> - **(D)** B e A
+> - **(E)** C e A
+
+**Answer:** E
+[[src_kangourou_2017_cadet_semifinale__Q02]]

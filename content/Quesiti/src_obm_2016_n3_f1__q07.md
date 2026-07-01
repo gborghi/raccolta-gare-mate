@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f1__Q07
 parent: src_obm_2016_n3_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Original number of people sharing a 6000 cost when 3 drop out and each remaining pays 100 more*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Numero originale di persone che condividono un costo di 6000 quando 3 si ritirano e ogni rimanente paga 100 in più< MSK1/>
+
+> Un costo totale di $6000$ reais deve essere ripartito in modo uguale tra i partecipanti, ognuno pagando $\frac{6000}{x}$ reais. Poi le persone < MSK2/> abbandonano e il resto di ciascuna retribuzione < MSK3/> è maggiore, cioè < MSK4/> reais. Quindi $\frac{6000}{x}+100=\frac{6000}{x-3}$, che si semplifica a $60x(x-3)=60\cdot 6000$ dando $x^2-3x-180=0$. Trova il numero originale < MSK8/> di persone. [Il valore della chiave di risposta corrisponde all'opzione B.]
+
+**Risposta:** B
+[[src_obm_2016_n3_f1__Q07]]

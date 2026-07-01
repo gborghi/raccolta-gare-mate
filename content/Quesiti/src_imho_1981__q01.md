@@ -1,6 +1,7 @@
 ---
 title: IMO 1981 (XXII International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1981__Q01
 parent: src_imho_1981
 competition: IMO 1981 (XXII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Foot of perpendiculars from point to triangle sides ratio*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J1b7EGoN_5JsjzdgRDEDkEXvbhWyzsge/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Foot of perpendiculars from point to triangle sides ratio*
+
+> $P$ is a point inside a given triangle $ABC$, $D$, $E$, $F$ are the feet of the perpendiculars from $P$ to the lines $BC$, $CA$, $AB$ respectively. Find all $P$ for which $$\frac{BC}{PD} + \frac{CA}{PE} + \frac{AB}{PF}$$ is least.
+
+[[src_imho_1981__Q01]]

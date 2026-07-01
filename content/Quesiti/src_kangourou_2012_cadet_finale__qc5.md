@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Finale Cadet (Mirabilandia) — Quesito C5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet_finale__QC5
 parent: src_kangourou_2012_cadet_finale
 competition: Kangourou 2012 Finale Cadet (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di pulsanti per sapere a che piano si trova*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dAQ2UBRUIZY90-KiQxqdHKt0edOWJpGd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of buttons to know which floor is located*
+
+> Maurizio is in a 99-story skyscraper, but he doesn't remember what floor it is. The system to call the elevator is unusual. Each floor has a button with keys from 0 to 99: pressing a button the elevator will reach the floor corresponding to the number shown on the key, but it will be occupied for a time that is not related in any way to the completed route. Considering that Maurizio can see through the glass of the door if the elevator is passing through his floor and that the elevator is now on floor 0, what is the minimum number of buttons pressed which will guarantee that he knows which floor he is on?
+
+**Answer:** 6
+[[src_kangourou_2012_cadet_finale__QC5]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2002 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2002__Q03
 parent: src_rmo_2002
 competition: Regional Mathematical Olympiad 2002
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show abc divides expansion of (a+b+c)^n*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_m3GjaVBEfcL0ShA4FjgFrQjp3KoeJKA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra abc divide l'espansione di (a+b+c)^n*
+
+> $a, b, c$ siano integri positivi in modo tale che $a$ divida $b^5$, $b$ divida $c^5$ e $c$ divida $a^5$. Provare che $abc$ divide $(a + b + c)^{31}$.
+
+[[src_rmo_2002__Q03]]

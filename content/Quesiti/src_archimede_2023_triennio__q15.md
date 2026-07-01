@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2023 - Gara Triennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_triennio__Q15
 parent: src_archimede_2023_triennio
 competition: Giochi di Archimede 2023 - Gara Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadratini attraversati dalla diagonale di rettangolo 78x114*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IqImDkDtZ9L3yxxx98UM4RtBGeDY2RUY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Squares crossed by the diagonal of the rectangle 78x114*
+
+> After drawing a rectangle measuring 78 × 114 cm, Chiara divides it into 78·114 = 8892 squares of 1 cm2, then draws a diagonal of the rectangle. How many squares do you cross from the diagonal?
+>
+> - **(A)** 114
+> - **(B)** 186
+> - **(C)** 191
+> - **(D)** 162
+> - **(E)** 192
+
+**Answer:** B
+[[src_archimede_2023_triennio__Q15]]

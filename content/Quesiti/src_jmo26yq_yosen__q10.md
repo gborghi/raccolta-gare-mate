@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2016 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo26yq_yosen__Q10
 parent: src_jmo26yq_yosen
 competition: Japan Mathematical Olympiad 2016 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum travel distance to visit 2016 points on a circle*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di distanza da percorrere per visitare i punti 2016 su un cerchio*
+
+> Su un cerchio ci sono bandiere $2016$ posizionate in posizioni spaziali uguali (punti $2016$, quelli adiacenti a distanza d'arco $1$). La persona A si muove lungo il cerchio e vuole abbattere tutte le bandiere. Per il peggiore caso sopra la posizione di partenza di A, trovare la distanza totale minima A deve percorrere in modo da poter abbattere tutte le bandiere. A non deve tornare al punto di partenza. (La risposta è riportata sotto.)
+
+**Risposta:** 1 - \dfrac{1}{3 \cdot 2^{1008} - 2}
+[[src_jmo26yq_yosen__Q10]]

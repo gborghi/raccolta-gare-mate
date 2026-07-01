@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Semifinale A — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_a__Q12
 parent: src_cesenatico_2005_squadre_semifinale_a
 competition: Gara a Squadre Cesenatico 2005 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu grande ultraprimo di 3 cifre*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0991
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1LDVJl0i8I59OTAeHS5iBd4YCObbCznAu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Large ultra first of 3 digits< MSK1/>
+
+> An ultraprime is a prime number such that, by exchanging its digits, the number obtained remains prime. What is the largest number of < MSK0/> ultraprime digits?
+
+**Answer:** 0991
+[[src_cesenatico_2005_squadre_semifinale_a__Q12]]

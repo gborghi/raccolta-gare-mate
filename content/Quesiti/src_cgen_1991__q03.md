@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1991 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1991__Q03
 parent: src_cgen_1991
 competition: Concours Général des Lycées 1991 — Matematica
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tetrahedra in sphere with mutually orthogonal lateral edges; fixed plane and formula*
 
@@ -52,3 +55,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u-mEdJF7yrrB2YNFkv9USeSkjKrJqpe7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tetraedri in sfera con bordi laterali reciprocamente ortogonali; piano fisso e formula*
+
+> $S$ sia un punto fisso su una sfera $\Sigma$ con centro $\Omega$. Consideriamo un tetraedro $SABC$ inscritto nella sfera $\Sigma$ i cui bordi laterali da $S$ sono ortogonali in coppia.
+> 
+> **1.** Indicare che tutti i piani $(ABC)$ passano attraverso un punto fisso.
+> 
+> **2.** Per tale tetraedro $SABC$: il punto $S$ e il centro $\Omega$ della sfera $\Sigma$ si proiettano ortogonalmente sul piano $(ABC)$ rispettivamente nei punti $H$ e $O$. $R$ indichi il raggio del circolo circonscritto del triangolo $ABC$.
+> 
+> Prova che: $$R^2 = OH^2 + 2SI^2,$$ dove $I$ indica un punto che appare nella configurazione. *(Avvertimento: l'ultimo termine $2SI^2$ può comportare un punto $I$ non specificamente nominato nella parte leggibile dell'immagine; potrebbe essere $2SH^2$ o $2\,\Omega I^2$. Vedi avvertenze.)< MSK7/>
+
+[[src_cgen_1991__Q03]]

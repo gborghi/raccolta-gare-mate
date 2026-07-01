@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2016 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2016_printemps__Q07
 parent: src_canimath_2016_printemps
 competition: Coupe Animath Printemps 2016
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Among 18 consecutive integers <= 2016, show at least one is divisible by the sum of its digits.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tra 18 numeri interi consecutivi <= 2016, mostrare che almeno uno è divisibile dalla somma delle sue cifre.*
+
+> Mostrare che tra i numeri interi consecutivi $18$ inferiori o uguali a $2016$ esiste almeno uno che è divisibile dalla somma delle sue cifre.
+
+[[src_canimath_2016_printemps__Q07]]

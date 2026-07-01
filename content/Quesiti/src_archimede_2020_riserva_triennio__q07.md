@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_riserva_triennio__Q07
 parent: src_archimede_2020_riserva_triennio
 competition: Giochi di Archimede 2020/2021 - Gara di riserva Triennio (TT01)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di finire in acqua camminando a caso 2 metri*
 
@@ -46,3 +49,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oJMUKhCeVFFbkLLL48V2VZrR6ye_9VCN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of falling into water by walking 2 metres at random< MSK1/>
+
+> Francis takes the sun on a 4 meter-wide square ABCD platform, surrounded by water. For a bet, you're placed at the point of the platform 1 meter away from the sides AB and BC. Then, blindfolded, he walks in a random direction for two meters. What are the chances that Francis will end up in the water?
+>
+> - **(A)** 1/2
+> - **(B)** 3/4
+> - **(C)** 2/3
+> - **(D)** 7/12
+> - **(E)** 9/16
+
+[[src_archimede_2020_riserva_triennio__Q07]]

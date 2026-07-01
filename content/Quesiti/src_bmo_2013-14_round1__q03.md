@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2013-14 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2013-14_round1__Q03
 parent: src_bmo_2013-14_round1
 competition: British Mathematical Olympiad 2013-14 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Highest power of 3 dividing a number written with digit 3^2013*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lgsYrm3l_qNtt2ZM0eyq3HtunDHw6TCQ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Poverità massima di 3 dividendo un numero scritto con la cifra 3^2013*
+
+> Un numero è scritto in base $3^{2013}$ utilizzando solo la cifra $3^{2013}$. Nessun altro numero appare. Trova la potenza più alta di $3$ che divide questo numero.
+
+[[src_bmo_2013-14_round1__Q03]]

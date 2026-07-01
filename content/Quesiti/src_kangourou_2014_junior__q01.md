@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q01
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Data piu antica possibile del terzo giovedi di marzo*
 
@@ -46,3 +49,19 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*As early as possible as the third Thursday of March*
+
+> A large cargo ship can carry up to 12,500 containers of a certain type. If aligned one after the other, these 12,500 containers all equal each other cover a distance of about 75 km. Which of the following numbers is closest to the length in metres of one of those containers? A) 6
+> 	
+> B) 16
+> 	
+> C) 60
+> 	
+> D) 160 E) 600
+
+[[src_kangourou_2014_junior__Q01]]

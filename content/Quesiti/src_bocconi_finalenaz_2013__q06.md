@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2013 — Quesito
   6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2013__Q06
 parent: src_bocconi_finalenaz_2013
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2013
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Date di compleanno scrivibili usando solo cifre 0-3*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 75
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Birthdays written using only digits 0-3*
+
+> When Michele remembers the day and month in which he was born in four digits (two digits for the day and two for the month; for example, $11.05$ indicates $11$ May), he only uses the digits $0, 1, 2, 3$ (he never uses the digits $4, 5, 6, 7, 8, 9$).
+> 
+> How many birthdays (day and month) can be written under the same condition?
+
+**Answer:** 75
+[[src_bocconi_finalenaz_2013__Q06]]

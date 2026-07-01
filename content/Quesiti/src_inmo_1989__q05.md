@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1989 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1989__Q05
 parent: src_inmo_1989
 competition: Indian National Mathematical Olympiad 1989
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show a/(b+c)+b/(c+a)+c/(a+b) lies strictly between 1/2 and 2*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RBpbxea49tUHZOwCcsLYaDOS5NS9MY4Z/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra che a/(b+c)+b/(c+a)+c/(a+b) si trova rigorosamente tra 1/2 e 2*
+
+> Lasciate che $a, b, c$ siano i lati di un triangolo. Indicare che la quantità $$\frac{a}{b+c} + \frac{b}{c+a} + \frac{c}{a+b}$$ deve essere tra $\frac{1}{2}$ e $2$. L'uguaglianza può essere mantenuta a entrambi i limiti?
+
+[[src_inmo_1989__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2013 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2013__Q04
 parent: src_bocconi_squadre_2013
 competition: Gara a Squadre 2013
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tre cifre non nulle con uguaglianza tra frazioni*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1-6-4; 1-9-5; 2-6-5; 4-9-8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nU3LeO14u9PnuT_qTjJHRekYgJgGYBec/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three non-zero digits with equal fractions *
+
+> Find three non-zero and distinct digits A, B, C so the following fractional equality is: $$\frac{\overline{ABBBBBBB}}{\overline{BBBBBBBC}} = \frac{A}{C}$$ There are more solutions: find them all!
+
+**Answer:** 1-6-4; 1-9-5; 2-6-5; 4-9-8
+[[src_bocconi_squadre_2013__Q04]]

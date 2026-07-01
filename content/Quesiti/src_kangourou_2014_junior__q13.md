@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Junior — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_junior__Q13
 parent: src_kangourou_2014_junior
 competition: Kangourou 2014 marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area dell’ottagono regolare data regione ombreggiata*
 
@@ -61,3 +64,33 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1fBP_q0OyAvs7RstYy9yZzEOGO0Xw8tzI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the regular octagon given shaded region*
+
+![[src_kangourou_2014_junior__prob13.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.0]
+  \fill[gray!50] (1.152,0.650) -- (0.650,1.152) -- (-0.650,1.152) -- (-1.152,0.650) -- cycle;
+  \draw (1.152,0.650) -- (0.650,1.152) -- (-0.650,1.152) -- (-1.152,0.650)
+        -- (-1.152,-0.650) -- (-0.650,-1.152) -- (0.650,-1.152) -- (1.152,-0.650) -- cycle;
+  \draw (-1.152,0.650) -- (1.152,0.650);
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure, you see a regular octagon. The area of the shaded region is 3 cm2. What is the area of the octagon in square centimetres? A) 8+4 B) 9
+> 	
+> C) 8
+>               
+> D) 12
+> 	
+> E) 14
+
+**Answer:** D
+[[src_kangourou_2014_junior__Q13]]

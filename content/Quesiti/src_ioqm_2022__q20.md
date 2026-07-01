@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q20
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Permutation landmark points, find maximum n>=3 for L(n) a perfect square*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 03
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punti di riferimento di permutazione, trovare il massimo n>=3 per L(n) un quadrato perfetto*
+
+> Per un intero $n \geq 3$ e per una permutazione $\sigma = (p_1, p_2, \ldots, p_n)$ di $\{1, 2, \ldots, n\}$, diciamo $p_i$ è un punto di riferimento se $2 \leq i \leq n-1$ e $(p_{i-1} - p_i)(p_{i+1} - p_i) > 0$. Per esempio, per $n = 7$, la permutazione $(2, 7, 6, 4, 5, 1, 3)$ ha 4 punti di riferimento: $p_2 = 7$, $p_4 = 4$, $p_5 = 5$ e $p_6 = 1$. Per un dato $n \geq 3$, $L(n)$ indica il numero di permutazioni di $\{1, 2, \ldots, n\}$ con esattamente un punto di riferimento. Trova il massimo $n \geq 3$ per il quale $L(n)$ è un quadrato perfetto.
+
+**Risposta:** 03
+[[src_ioqm_2022__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2023 — Non-KV — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2023_nonkv__Q05
 parent: src_rmo_2023_nonkv
 competition: Regional Mathematical Olympiad 2023
@@ -36,6 +37,8 @@ tags:
   - regione/nonkv
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive reals a_1,...,a_n satisfying a sum-of-fractions identity*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o7iLlUQAhl19zj3fiRO4A18L1eOLmVoI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca i valori reali positivi a_1,...,a_n che soddisfano un'identità di somma di frazioni*
+
+> Lasciate che $n > k > 1$ siano numeri interi positivi. Determinare tutti i numeri reali positivi $a_1, a_2, \ldots, a_n$ che soddisfano $$\sum_{i=1}^{n} \sqrt{\frac{k a_i^k}{(k-1)a_i^k + 1}} = \sum_{i=1}^{n} a_i = n.$$
+
+[[src_rmo_2023_nonkv__Q05]]

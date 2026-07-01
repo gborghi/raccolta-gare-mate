@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Semifinale A — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_semifinale_a__Q13
 parent: src_cesenatico_2016_semifinale_a
 competition: Gara a Squadre Cesenatico 2016 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita astronave percorra 10+ miglia*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2256
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The probability of a spacecraft traveling 10+ miles
+
+> Increasing Improbability Jacob activated the Increasing Improbability Engine, an experimental device first installed in the Gold Section. The ship proceeds like this: first it has a 7/10 chance of moving for a galactic mile (otherwise it's still), then a 6/10 chance of going two miles, then 5/10 chance of going three miles, 4/10 chance of going four, and finally 3/10 chance of going five. What is the probability that the spacecraft will travel 10 or more galactic miles? Answer by indicating the first four decimal places of this probability.
+
+**Answer:** 2256
+[[src_cesenatico_2016_semifinale_a__Q13]]

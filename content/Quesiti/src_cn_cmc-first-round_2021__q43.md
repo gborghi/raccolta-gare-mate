@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 43
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q43
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *B-10: Γ graph of y=1/|x|; P in first quadrant, Q in second quadrant, PQ tangent to part of Γ in second quadrant at Q; min of |PQ|.*
 
@@ -48,3 +51,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*B-10: Γ grafico di y = 1/ da fare; P nel primo quadrante, Q nel secondo quadrante, PQ tangente a parte di Γ nel secondo quadrante a Q; min di \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
+
+> [Test Paper B, Problem 10] (20 marks) In un sistema di coordinate retangolare piano $xOy$, il grafico della funzione $y=\dfrac{1}{|x|}$ è $\Gamma$. I punti $P,Q$ su $\Gamma$ devono soddisfare: $P$ è nel primo quadrante, $Q$ è nel secondo quadrante e la linea $PQ$ è tangente alla parte di $\Gamma$ nel secondo quadrante al punto $Q$. Trova il minimo di < MSK10/>.
+
+**Risposta:** 2
+[[src_cn_cmc-first-round_2021__Q43]]

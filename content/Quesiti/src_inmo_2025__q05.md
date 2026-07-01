@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2025 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2025__Q05
 parent: src_inmo_2025
 competition: Indian National Mathematical Olympiad 2025
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Greedy Griphook collects coins from a 2000-gon*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gffQQL4VecZGe0gDiKrBISppVkk_kB-P/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Greedy Griphook raccoglie monete da un 2000gon*
+
+> Greedy Griphook ha un normale $2000$-gon, il cui vertice ha una singola moneta. In una mossa, sceglie un vertice, rimuove una moneta ciascuno dai due vertici adiacenti e aggiunge una moneta al vertice scelto, conservando la moneta rimanente per se stesso. Può fare tale mossa solo se entrambi i vertici adiacenti hanno almeno una moneta. Griphook si ferma solo quando non riesce a fare più movimenti. Qual e' il numero massimo e minimo di monete che Griphook avrebbe potuto raccogliere?
+
+[[src_inmo_2025__Q05]]

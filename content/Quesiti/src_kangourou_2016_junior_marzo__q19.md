@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q19
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma di quattro angoli evidenziati su un cubo*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of four angles highlighted on a cube*
+
+![[src_kangourou_2016_junior_marzo__prob19.png]]
+
+> The figure shows a cube in which four corners have been highlighted. What is the sum of their measurements in degrees? A) 315 B) 330 C) 345 D) 360 E) 375
+
+**Answer:** B
+[[src_kangourou_2016_junior_marzo__Q19]]

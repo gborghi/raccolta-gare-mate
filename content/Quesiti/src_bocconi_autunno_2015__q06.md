@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2015 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2015__Q06
 parent: src_bocconi_autunno_2015
 competition: Giochi d'Autunno 2015
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero imbarcazione vincitrice della regata*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eK88JMTv896JXMMmFL1S8lYcD_i95Nzi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of winning boat of the race*
+
+> It's a very hard-fought race. The six boats you see in the figure have taken part in the Castiglione della Pesca regatta, each with a number written on the sail. The sum of the number of boats in the first three places is 33 and the number of boats in third place is twice that of the second place. What's the number of the boat that won the race?
+
+![[src_bocconi_autunno_2015__Q06.png]]
+
+**Answer:** 6
+[[src_bocconi_autunno_2015__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f1__Q02
 parent: src_obm_2007_n2_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fraction a/b shown on a number line between 0 and 1, possible a+b*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Frazione a/b mostrata su una riga di numeri compresa tra 0 e 1, possibile a+b*
+
+> La frazione $\dfrac{a}{b}$, in cui $a$ e $b$ sono interi positivi, rappresenta un numero tra $0$ e $1$, nella posizione indicata nel disegno accanto. Qual è il valore possibile della somma $a + b$?
+> 
+> (A) 1 $\quad$ (B) 2 $\quad$ (C) 3 $\quad$ (D) 4 $\quad$ (E) 5
+
+![[src_obm_2007_n2_f1__Q02.png]]
+
+**Risposta:** E
+[[src_obm_2007_n2_f1__Q02]]

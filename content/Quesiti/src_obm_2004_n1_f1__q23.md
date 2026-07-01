@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q23
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum sticks to assemble a hexagonal arrangement of 32 hexagons*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di bastoni per assemblare una disposizione esagonale di 32 esagoni*
+
+> La disposizione di seguito, fatta di esagoni $32$, è montata con bastoni, ognuno delle quali ha la stessa lunghezza di un lato dell'esagono. Qual è il numero minimo di bastoni necessari per assemblare l'organizzazione?
+> 
+> (A) $113$ \quad (B) $123$ \quad (C) $122$ \quad (D) $132$ \quad (E) $152$
+
+![[src_obm_2004_n1_f1__Q23.png]]
+
+**Risposta:** B
+[[src_obm_2004_n1_f1__Q23]]

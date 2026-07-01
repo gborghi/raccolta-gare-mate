@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2010_finale__Q14
 parent: src_kangourou_squadre_2010_finale
 competition: Kangourou Coppa a squadre 2010 - Finale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro rettangoli in regione 2010 m2 con 7 quadrati*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0134
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular perimeter in region 2010 m2 with 7 squares*
+
+![[src_kangourou_squadre_2010_finale__prob14.png]]
+
+> The election of the mayor of Kangcity was held in the town of Peter and Max. The election of the mayor is underway. All cards delivered are valid and not white. For each integer k between 0 and 100, when k% of the cards have been scrutinised, the committee shall report the results of the vote until that time. When, for a certain number of whole numbers, n% of the ballots were voted on, Peter got 62% of the votes cast and Max 38%: this is the first time Peter is sure he is the new mayor. How much is n?
+
+**Answer:** 0134
+[[src_kangourou_squadre_2010_finale__Q14]]

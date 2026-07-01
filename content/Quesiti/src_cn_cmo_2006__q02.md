@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2006 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2006__Q02
 parent: src_cn_cmo_2006
 competition: China Mathematical Olympiad 2006
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum distinct values among 2006 integers with unequal consecutive ratios*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 46
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di valori distinti tra i numeri interi del 2006 con rapporti consecutivi diseguali*
+
+> Supponiamo che i numeri interi positivi $a_1, a_2, \ldots, a_{2006}$ (alcuni di essi possono essere uguali) soddisfino la condizione: qualsiasi due di $\frac{a_1}{a_2},\, \frac{a_2}{a_3},\, \ldots,\, \frac{a_{2005}}{a_{2006}}$ sono disuguali. Almeno quanti numeri diversi ci sono in $\{a_1, a_2, \ldots, a_{2006}\}$?
+
+**Risposta:** 46
+[[src_cn_cmo_2006__Q02]]

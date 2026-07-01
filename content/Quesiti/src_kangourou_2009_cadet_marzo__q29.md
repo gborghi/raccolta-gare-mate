@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet (gara 19 marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_marzo__Q29
 parent: src_kangourou_2009_cadet_marzo
 competition: Kangourou 2009 - Cadet (gara 19 marzo)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimi numeri allineabili (divisibilita adiacenti)*
 
@@ -56,3 +59,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1uxK-B3XI9dfpHztd-aHw3UGa75rjsR5i/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum alignable numbers (adjacent divisibility) *
+
+> Pinocchio wrote in sequence some positive integers all different from each other and less than 11. The talking Grillo observes that in every pair of adjacent numbers, as Pinocchio aligned them, there is one that is divisible by the other. How many numbers could Pinocchio have written at most? A) 6 B) 7 C) 8 D) 9 E) 10 Texts_09.qxp 15-04-2009 20:26
+> 
+> I'm going to pay. I'm going to pay. 21 21 Kang 2009 Kang
+
+**Answer:** D
+[[src_kangourou_2009_cadet_marzo__Q29]]

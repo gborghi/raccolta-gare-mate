@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2009 — Quesito
   8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2009__Q08
 parent: src_bocconi_finalenaz_2009
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2009
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei quattro numeri dell'ultima colonna nello schema cerchi e quadrati*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 33
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of the four numbers in the last column in the circle and square scheme*
+
+> In each of the squares, the result (natural number) must be written, which is obtained by adding the natural numbers written in the circles that touch that square. The central circle, as well as the right circle, must remain empty. The sum of the numbers written in circles touching a square must be equal to the number written in that square. Enter the sum of the four numbers in the last column on the right.
+
+![[src_bocconi_finalenaz_2009__Q08.png]]
+
+**Answer:** 33
+[[src_bocconi_finalenaz_2009__Q08]]

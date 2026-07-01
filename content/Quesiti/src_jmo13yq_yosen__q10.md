@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2003 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo13yq_yosen__Q10
 parent: src_jmo13yq_yosen
 competition: Japan Mathematical Olympiad 2003 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count bad-relation pairs among 8 people given friendship/enmity constraints*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Contare le coppie di cattive relazioni tra 8 persone con vincoli di amicizia/inimicizia< MSK1/>
+
+> Ci sono persone $8$. Tra le $3$, almeno $2$ hanno una buona relazione tra loro. Tra i $4$ di essi, almeno $2$ hanno una cattiva relazione tra loro. Trova tutti i valori possibili per il numero di coppie di persone che hanno una cattiva relazione.
+
+[[src_jmo13yq_yosen__Q10]]

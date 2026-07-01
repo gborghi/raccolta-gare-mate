@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q11
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count triangular trimino pieces with non-decreasing clockwise vertex labels 0-5*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i pezzi triangolari di trimino con etichette di vertice in senso orario non in diminuzione 0-5*
+
+> Nel gioco del trimino semplificato, un pezzo ha la forma di un triangolo in cui ciascuno dei vertici ha un numero da $0$ a $5$. È noto che per qualsiasi pezzo del trimino semplificato, quando il numero più piccolo è posizionato al vertice superiore, i numeri sono in ordine crescente nella direzione in senso orario, cioè il pezzo appartiene al trimino semplificato quando $X \le Y \le Z$ (con $X$ al vertice superiore, $Y$ al vertice inferiore a destra e $Z$ al vertice inferiore a sinistra). Per esempio, tra i quattro pezzi mostrati, i primi tre appartengono al gioco, ma il quarto non. Quanti pezzi ci sono in un gioco di trimino semplificato? (A) $216$ (B) $125$ (C) $120$ (D) $56$ (E) $30$
+
+![[src_obm_2014_n3_f1__Q11.png]]
+
+[[src_obm_2014_n3_f1__Q11]]

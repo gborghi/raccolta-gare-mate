@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f3__Q01
 parent: src_obm_2007_n3_f3
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove the n-fold iterate of a fixed quadratic equals zero has a real solution for every n*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hV2QFPABOEgEquJp5pRBUUMfLKtQpl8d/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che l'iterata a n volte di una quadrata fissa è uguale a zero ha una soluzione reale per ogni n*
+
+> Let < MSK0/>. Prova che per ogni intero positivo $n$, l'equazione $\underbrace{f(f(\ldots(f(x))\ldots))}_{n \text{ times}} = 0$ ha almeno una soluzione reale.
+
+[[src_obm_2007_n3_f3__Q01]]

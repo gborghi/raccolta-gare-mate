@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2010 (prova 1) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2010_g1__Q13
 parent: src_bocconi_finaleint_2010_g1
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume della scatola dispari riempita al 64% con cubi di spigolo 2 cm.*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 7 soluzioni: 525, 7425, 8325, 8925, 11625, 15225, 26325
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOFDGqnf2CCpcDT1MxpIQpGICv7yr7zZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of odd box filled to 64% with 2 cm thickness cubes.*
+
+> A odd box is a rectangular parallel-piped whose three beams measure odd integers of centimeters. It shall be filled with as many cubes as possible, the length of which shall be two centimetres, and the cubes shall be arranged in parallel with those of the box. What's the volume of the box, knowing that the cubes occupy the MSK0/?
+
+**Answer:** 7 soluzioni: 525, 7425, 8325, 8925, 11625, 15225, 26325
+[[src_bocconi_finaleint_2010_g1__Q13]]

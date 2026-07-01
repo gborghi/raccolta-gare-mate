@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1994 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1994__Q06
 parent: src_rmo_1994
 competition: Regional Mathematical Olympiad 1994
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two chords at right angles; midpoints form a parallelogram*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due accordi ad angolo retto; i punti medi formano un parallelo*
+
+> Che $AC$ e $BD$ siano due accordi di un cerchio con centro $O$ in modo tale che si intersecano a angolo retto all'interno del cerchio al punto $M$. Supponiamo che $K$ e $L$ siano rispettivamente i punti di mezzo dell'accordo $AB$ e $CD$. Prova che $OKML$ è un parallelo.
+
+[[src_rmo_1994__Q06]]

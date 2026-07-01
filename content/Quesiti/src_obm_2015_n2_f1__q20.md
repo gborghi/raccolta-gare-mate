@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q20
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many positive integers divide 2032 leaving remainder 17*
 
@@ -48,3 +51,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quanti numeri interi positivi dividono il 2032 lasciando il rimanente 17*
+
+> Quanti integri positivi $n$ ci sono tali che dividendo il 2032 per $n$ lascia il rimanente 17?
+> 
+> (A) 8 (B) 7 (C) 6 (D) 5 (E) 4
+
+[[src_obm_2015_n2_f1__Q20]]

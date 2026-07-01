@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q03
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale coppia può avere stessa età*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>which couple may be of the same age< MSK1/>
+
+> 3. Isabella is older than Charles and younger than Liliana. Edward is older than Isabella. What couple can be made by people of the same age? A) Charles and Edward B) Edward and Liliana C) Liliana and Charles D) Isabella and Liliana E) Edward and Isabella
+
+**Answer:** B
+[[src_kangourou_2022_student__Q03]]

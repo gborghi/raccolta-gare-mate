@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 1) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g1__Q06
 parent: src_bocconi_finaleint_2007_g1
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Biglietti tombola numerati da 1: minimo venduto sapendo che ne vende piu di due, con cifra 0 o 2 quanti senza*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 28
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+T-shirt numbered by 1: minimum sold knowing that you sell more than two, numbered 0 or 2
+
+> For the school party, Mathias sold the tombstone tickets. The tickets were all numbered from the number $1$ and Mathias sold them in the order of their numbering. Mathias noted that he had sold exactly as many tickets with one of the numbers $0$, $2$ as tickets with none of these numbers. How many tickets did Mathias sell at least, knowing he sold more than two?
+
+**Answer:** 28
+[[src_bocconi_finaleint_2007_g1__Q06]]

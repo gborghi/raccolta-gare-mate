@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r3__Q01
 parent: src_pol_2007_r3
 competition: Olimpiade Matematica Polacca 2007 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle with circumcenter and altitude; prove a ratio equality involving perpendicular foot intersections.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I32ii3yrB1ZaVkUP0-xSzka1GIQRg6kF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto con circoncentro e altitudine; dimostrare un rapporto di uguaglianza che coinvolge intersezioni perpendicolari del piede.*
+
+> In un triangolo acuto $ABC$ il punto $O$ è il centro circostante, $CD$ è l'altitudine, $E$ un punto laterale $AB$ e $M$ il punto medio di $CE$. La perpendicolare a $OM$ a $M$ incrocia rispettivamente le linee $AC$ e $BC$ a $K$ e $L$. Prove che < MSK13/>.
+
+[[src_pol_2007_r3__Q01]]

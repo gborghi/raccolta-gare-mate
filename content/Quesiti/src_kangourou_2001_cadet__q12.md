@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Cadet (15 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_cadet__Q12
 parent: src_kangourou_2001_cadet
 competition: Kangourou 2001 - Cadet (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Noccioline di Nicola e Michele*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The Night of Nicholas and Michele
+
+> 12. On each of the two tables there are 2001 nuts. Nicholas gets the nuts from one table, Michael gets the nuts from the other. In the first round, Nicholas takes one nut every three; then, in the second round, he takes one every five of the remaining. In the first round, Michele takes one nut every five; in the second round, one every three of the remaining ones. At this point, what is the situation? (A) Nicholas has 3/5 of Michael's nuts (B) Michael has 3/5 of Nicholas' nuts (C) Michael has 1 more nuts than Nicholas (D) Nicholas has 1 more nuts than Michael (E) Michael and Nicholas have the same number of nuts.
+
+**Answer:** E
+[[src_kangourou_2001_cadet__Q12]]

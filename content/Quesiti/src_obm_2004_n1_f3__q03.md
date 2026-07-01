@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f3__Q03
 parent: src_obm_2004_n1_f3
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove a specific large number is composite*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R228CrSgz-4pDVGh_rR1ta6PyL78pr17/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che un numero specifico di grandi dimensioni è composto*
+
+> Diciamo che un numero naturale è composto se può essere scritto come il prodotto di due numeri naturali entrambi più grandi di MSK0/. Ad esempio, $91$ è composto perché possiamo scrivere $91 = 7 \times 13$.
+> 
+> Provare che il numero $$\frac{1}{2}\!\left(2^{2004}+2\right)+1$$ è composto.
+
+[[src_obm_2004_n1_f3__Q03]]

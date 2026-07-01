@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q21
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of highlighted region in square ABCD with two equilateral triangles*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area della regione evidenziata in quadrato ABCD con due triangoli equilaterali*
+
+> Nel disegno laterale, il quadrilaterale $ABCD$ è un quadrato di lato di 3 cm e i triangoli $ABF$ e $AED$ sono entrambi equilaterali. Qual è l'area della regione sottolineata?
+> 
+> **A)** $2 \text{ cm}^2$ $\quad$ **B)** $1.5 \text{ cm}^2$ $\quad$ **C)** $3 \text{ cm}^2$ $\quad$ **D)** $4.5 \text{ cm}^2$ $\quad$ **E)** $2.5 \text{ cm}^2$
+
+![[src_obm_2004_n2_f1__Q21.png]]
+
+**Risposta:** B
+[[src_obm_2004_n2_f1__Q21]]

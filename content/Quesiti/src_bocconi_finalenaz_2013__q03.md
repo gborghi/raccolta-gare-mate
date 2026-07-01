@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2013 — Quesito
   3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2013__Q03
 parent: src_bocconi_finalenaz_2013
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2013
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massima differenza tra numeri di otto cifre con vincolo*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 43199865
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum difference between eight-digit numbers with binding *
+
+> Jacopo enjoys writing all eight-digit numbers like 11052013 that use the "1, a "2", a "3" and a "5" twice. Then subtract the smallest of these numbers from the largest.
+> 
+> What is the result (given that a number cannot start with "0")?
+
+**Answer:** 43199865
+[[src_bocconi_finalenaz_2013__Q03]]

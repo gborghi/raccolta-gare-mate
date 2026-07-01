@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2019 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo17mq_honsen__Q05
 parent: src_jjmo17mq_honsen
 competition: Japan Junior Mathematical Olympiad 2019 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle equality in configuration with circumcircles and midpoints*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IaWplQ8K7hgcVjCHhzivSPLVXTjD5aWO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equità di angolo in configurazione con circoncircoli e punti di mezzo*
+
+> Che $ABC$ sia un triangolo con $AB \neq AC$. $M$ sia il punto medio del lato $BC$ e $N$ sia il punto medio dell'arco $BC$ (l'arco contenente $A$) del circoncircolo del triangolo $ABC$. Il $H$ deve essere il piede della perpendicolare da $N$ alla linea $AC$. Il $K$ deve essere il punto di intersezione, diverso da $C$, del circoncircolo del triangolo $AMC$ e della linea $CN$. Prove che $\angle AKH = \angle CAM$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+[[src_jjmo17mq_honsen__Q05]]

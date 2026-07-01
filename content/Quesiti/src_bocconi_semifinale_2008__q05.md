@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2008 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2008__Q05
 parent: src_bocconi_semifinale_2008
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2008
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Collegare cifre da 1 a 7 in percorso su grafo*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Sopra 2 7 4 6 1, sotto 5 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Connecting digits from 1 to 7 in the path on a graph*
+
+> Look what a strange fish Desiderio found among his old toys! On the squares, the numbers from 1 to 7 are shown. Desiderio notes that those figures that are directly connected by a line (straight or curved) are never consecutive (such as, for example, 1 and 2 or 5 and 4). Enter the numbers from $1$ to $5$.
+
+![[src_bocconi_semifinale_2008__Q05.png]]
+
+**Answer:** Sopra 2 7 4 6 1, sotto 5 3
+[[src_bocconi_semifinale_2008__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 2015 (LVI International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2015__Q06
 parent: src_imho_2015
 competition: IMO 2015 (LVI International Mathematical Olympiad)
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Integer sequence satisfying two conditions; bound sum of deviations*
 
@@ -53,3 +56,19 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJMDwpO8iIkNtEqwsYOZgrQEs3fdtHTF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Integer sequence satisfying two conditions; bound sum of deviations*
+
+> The sequence $a_1, a_2, \ldots$ of integers satisfies the following conditions:
+> 
+> (i) $1 \le a_j \le 2015$ for all $j \ge 1$;
+> 
+> (ii) $k + a_k \ne \ell + a_\ell$ for all $1 \le k < \ell$.
+> 
+> Prove that there exist two positive integers $b$ and $N$ such that $$\left| \sum_{j=m+1}^{n} (a_j - b) \right| \le 1007^2$$ for all integers $m$ and $n$ satisfying $n > m \ge N$.
+
+[[src_imho_2015__Q06]]

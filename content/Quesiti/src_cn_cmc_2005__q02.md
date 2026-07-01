@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2005 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2005__Q02
 parent: src_cn_cmc_2005
 competition: China Mathematical Competition 2005
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four points in space with given edge lengths, count values of product of diagonals*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro punti nello spazio con lunghezze di bordo indicate, valori di conteggio del prodotto delle diagonali*
+
+> $A$, $B$, $C$, $D$ sono quattro punti nello spazio e soddisfano $|\overrightarrow{AB}| = 3$, $|\overrightarrow{BC}| = 7$, $|\overrightarrow{CD}| = 11$ e $|\overrightarrow{DA}| = 9$. In questo caso $|\overrightarrow{AC}| \cdot |\overrightarrow{BD}|$ ha i valori ().
+> 
+> (A) solo 1 \quad (B) due \quad (C) quattro \quad (D) infinitamente molti
+
+**Risposta:** A
+[[src_cn_cmc_2005__Q02]]

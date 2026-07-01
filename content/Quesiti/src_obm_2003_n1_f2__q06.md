@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f2__Q06
 parent: src_obm_2003_n1_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count leap years from 1889 to today*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 27
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Contare gli anni biscotti dal 1889 ad oggi< MSK1/>
+
+> Gli anni bisesti sono multipli di $4$, ad eccezione di quelli che sono multipli di $100$ ma non di $400$. Quanti anni a salto sono passati dalla Proclamazione della Repubblica del Brasile in $1889$ fino ad oggi (2003)?
+
+**Risposta:** 27
+[[src_obm_2003_n1_f2__Q06]]

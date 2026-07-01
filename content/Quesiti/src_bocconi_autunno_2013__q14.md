@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2013 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2013__Q14
 parent: src_bocconi_autunno_2013
 competition: Giochi d'Autunno 2013
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti quadratini bianchi nella tovaglia di Milena alla fig. 4?*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2465
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vxxcabBNXWhoiezGLLtKQcGGVSrZJIR4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many white squares in the Milena tablecloth at Fig. 4?*
+
+> To make a napkin, Milena starts from a small square of grey canvas (fig. 0): it is surrounded by 8 small identical squares, so as to form a square three times larger, and shades of white (fig. n.1). At this point it starts again: surround the square of the fig. n.1 with 8 identical squares, so as to obtain a square three times larger, and colours the central square in white (fig. n.2). Keep it up and when you get to the fig table. No.3, note that 217 small squares are white (including those in the central square).
+> 
+> How many white squares in the tablecloth should be fig. n.4?
+
+![[src_bocconi_autunno_2013__Q14.png]]
+
+**Answer:** 2465
+[[src_bocconi_autunno_2013__Q14]]

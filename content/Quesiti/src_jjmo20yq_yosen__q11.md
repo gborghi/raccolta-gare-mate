@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo20yq_yosen__Q11
 parent: src_jjmo20yq_yosen
 competition: Japan Junior Mathematical Olympiad 2022 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Isosceles triangle AB=AC with interior Brocard-like point P; find BC*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\sqrt{26}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OA88lwH6SUXyPNezWUbDrn5rqXWTJDCq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo isosceles AB=AC con punto interno simile a Brocard P; trovare BC*
+
+> Lasciate che $ABC$ sia un triangolo di uguali dimensioni con $AB = AC$, e lasciate che $P$ sia un punto interno soddisfacente $\angle PAB = \angle PBC = \angle PCA$. Se le superfici dei triangoli $PAB$ e $PCA$ sono rispettivamente $4$ e $1$, si trova la lunghezza $BC$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** \sqrt{26}
+[[src_jjmo20yq_yosen__Q11]]

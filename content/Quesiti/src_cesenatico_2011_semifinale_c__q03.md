@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_c__Q03
 parent: src_cesenatico_2011_semifinale_c
 competition: Gara a Squadre Cesenatico 2011 - Semifinale C
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero il cui quadrato termina con le sue cifre*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1900
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number whose square ends in its digits*
+
+> An unremembered emperor Julius Caesar has closed the fortress where he hides his war strategies with a lock whose combination is a number between 0000 and 9999. The Emperor knows that the combination he has chosen is the product of the two-digit numbers whose square has the units and decimal digits equal to the respective digits of the starting number (which is between 10 and 99). But, as you know, too much glory is given to the head and Julius Caesar has forgotten the combination. Then he orders him to call Abacus, who as soon as he arrives opens the lock. What combination did Julius Caesar choose?
+
+**Answer:** 1900
+[[src_cesenatico_2011_semifinale_c__Q03]]

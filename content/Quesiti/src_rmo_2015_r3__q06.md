@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r3__Q06
 parent: src_rmo_2015_r3
 competition: Regional Mathematical Olympiad 2015
@@ -35,6 +36,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Infinitely many non-integer positive reals with $a(a-3\{a\})$ integer*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HpOXyY027T7yrJIPYwmXafLpB_7tE0uA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Infinitamente molti reali positivi non integrali con $a(a-3\{a\})$ intero*
+
+> Mostrare che ci sono infinitamente molti numeri reali positivi $a$ che non sono interi tali che $a(a - 3\{a\})$ è un intero. (Qui $\{a\}$ indica la parte frazionaria di $a$. Ad esempio $\{1.5\} = 0.5$; $\{-3.4\} = 0.6$.)
+
+[[src_rmo_2015_r3__Q06]]

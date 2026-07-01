@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r1__Q09
 parent: src_pol_2004_r1
 competition: Olimpiade Matematica Polacca 2004 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For nonconstant integer polynomials $W_1,\dots,W_n$, some integer $a$ makes all $W_k(a)$ composite.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per i polinomi di numeri interi non costanti $W_1,\dots,W_n$, un certo numero $a$ rende tutti $W_k(a)$ composti.*
+
+> Si devono dare polinomi non costanti $W_1(x),W_2(x),\dots,W_n(x)$ con coefficienti interi. Prova che esiste un numero intero $a$ tale che i numeri $W_1(a),W_2(a),\dots,W_n(a)$ siano tutti composti.
+
+[[src_pol_2004_r1__Q09]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q19
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di indossare 7 anelli su 8 dita con ordine*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7280
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How to wear 7 rings on 8 fingers in order*
+
+> Evil Tauron, blinded by the craving for power, tells the story of how he can wear the seven rings of the dwarves on the eight surviving fingers of his hands. For each of these ways, he notes how many and which
+> 
+> I'm going to pay. 4 out of 4  Team competition 2009  National final  Problem ring texts go on which finger and in which order. How many different ways will it count? (If the quantity requested is an integer greater than 9999, please provide the last 4 digits as a result.)
+
+**Answer:** 7280
+[[src_gas_2009_finale__Q19]]

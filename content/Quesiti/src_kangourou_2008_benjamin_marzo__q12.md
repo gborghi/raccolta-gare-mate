@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Benjamin (gara 28 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_benjamin_marzo__Q12
 parent: src_kangourou_2008_benjamin_marzo
 competition: Kangourou 2008 - Benjamin (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione d'acqua che arriva in B dopo biforcazioni*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Msm317j_4xwCwtEK2r_CVq5nHPQPj3BK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Fraction of water reaching B after forking< MSK1/>
+
+![[src_kangourou_2008_benjamin_marzo__prob12.png]]
+
+> Look at the figure below: a channel has its origin in A and shortly afterwards forks; the right branch receives 1/3 of the water, the left one the rest. Later the second branch divides into two sub-branches, of which the one on the right receives 3/4 of the water flowing into the branch and the one on the left the rest. What fraction of the water that starts from A gets to point B? (A) B) C) D) E) The data are insufficient.
+
+**Answer:** D
+[[src_kangourou_2008_benjamin_marzo__Q12]]

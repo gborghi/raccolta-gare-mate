@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2025 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo35hq_honsen__Q05
 parent: src_jmo35hq_honsen
 competition: Japan Mathematical Olympiad 2025 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Interior points via angle bisectors; reflections yield similar triangles*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GuPXGAl_7m7YyhnChIywbUec7G9_S963/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punti interni tramite bisettori angolari; i riflessi producono triangoli simili*
+
+> Che il $ABC$ sia un triangolo acuto non isosceles. Ci sono tre punti distinti $A_1$, $B_1$, $C_1$ all'interno del triangolo $ABC$ che soddisfano $$AB_1 : CB_1 = AB : CB \quad \text{and} \quad AC_1 : BC_1 = AC : BC.$$ Che $A_2$ sia il riflesso di $A_1$ sulla linea $BC$, che $B_2$ sia il riflesso di $B_1$ sulla linea $AC$, e che $C_2$ sia il riflesso di $C_1$ sulla linea $AB$. Le seguenti condizioni si applicano tutte: \begin{itemize} \item I quattro punti $A$, $A_2$, $B$, $C_2$ sono conciclici. \item I quattro punti $A$, $A_2$, $B_2$, $C$ sono conciclici. \item I quattro punti $B$, $B_2$, $C$, $C_2$ sono conciclici. \item Nessuno dei punti $A_2$, $B_2$, $C_2$ si trova sul circoncircolo del triangolo $ABC$. \end{itemize} Prova che il triangolo $A_1B_1C_1$ è simile al triangolo $A_2B_2C_2$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+[[src_jmo35hq_honsen__Q05]]

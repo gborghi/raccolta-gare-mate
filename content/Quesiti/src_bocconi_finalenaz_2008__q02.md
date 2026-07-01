@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2008 — Quesito
   2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2008__Q02
 parent: src_bocconi_finalenaz_2008
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2008
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Trovare dopo quanti secondi tre suoni periodici (ogni 2, 3, 4 s) ricapitano insieme.*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 12 secondi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find out how many seconds later three periodic sounds (every 2, 3, 4 s) repeat together.*
+
+> Sergio, a music and computer enthusiast, enjoys creating musical rhythms with the computer and programs the following sounds: a "clac", which regularly starts every 2 seconds; a "spring", which regularly starts every 3 seconds; a "toc", which regularly starts every 4 seconds. Sergio, starting the program, immediately and simultaneously hears the three sounds (he has really good ears!). After how many seconds, will Sergio hear the three sounds exactly together again?
+
+**Answer:** 12 secondi
+[[src_bocconi_finalenaz_2008__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q27
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre di n con somma 1..n di tre cifre uguali*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of n digits with sum of 1..n of three equal digits*
+
+> n is an integer such that the sum of the first n positive integers is a three-digit number all equal to each other. What's the sum of the digits of n? A) 6
+> 	
+> B) 9
+> 	
+> C) 12
+> 	
+> D) 15
+> 	
+> E) 18
+
+**Answer:** B
+[[src_kangourou_2013_student__Q27]]

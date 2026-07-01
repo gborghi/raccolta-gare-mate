@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2025 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_automne__Q03
 parent: src_canimath_2025_automne
 competition: Coupe Animath Automne 2025
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show D, E, F, X are concyclic in a triangle with reflected points*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra che D, E, F, X sono conciclici in un triangolo con punti riflessi*
+
+> Che $ABC$ sia un triangolo il cui lato più piccolo è $[BC]$, e che $D$ sia un punto sul segmento $[BC]$. Il segmento $E$ deve essere $[AC]$ in modo tale che $CD = CE$ e $F$ nel segmento $[AB]$ in modo tale che $BD = BF$. Infine $P$ è il punto simmetrico di $D$ rispetto a $B$ e $Q$ il punto simmetrico di $D$ rispetto a $C$. Il punto di intersezione delle linee $(QE)$ e $(PF)$ è $X$. Indicare che i punti $D$, $E$, $F$ e $X$ si trovano sullo stesso cerchio.
+
+[[src_canimath_2025_automne__Q03]]

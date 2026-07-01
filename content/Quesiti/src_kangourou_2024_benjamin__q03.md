@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Benjamin 2024 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_benjamin__Q03
 parent: src_kangourou_2024_benjamin
 competition: Kangourou Categoria Benjamin 2024
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di lettere per parola che contiene tre parole*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1dA9cjkNSnn1t57aWtg2pNTO-niUEB_NV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of letters per word containing three words*
+
+> 3. Let's say that a word (i.e. a sequence of letters) contains another if to get the second one you just delete some letters from the first: e.g. the word GABADEDDEG contains the word AADDG, but does not contain the word AGA. Mattia wants to write a word that contains the three words ABCD, BCDA and BADC. What's the smallest possible number of letters for the word Mattia wants to write? A) 4 B) 6 C) 7 D) 8 E) 12
+
+**Answer:** C
+[[src_kangourou_2024_benjamin__Q03]]

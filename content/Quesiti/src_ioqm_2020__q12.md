@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q12
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Concentric circles, chords touch inner circle, angle ABC=75 degrees; count chords before return*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 24
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circoli concentrici, accordi che toccano il cerchio interno, angolo ABC=75 gradi; contare gli accordi prima del ritorno*
+
+> Dato un paio di cerchi concentrici, gli accordi $AB, BC, CD, \ldots$ del cerchio esterno sono disegnati in modo tale che tutti toccino il cerchio interno. Se $\angle ABC = 75^\circ$, quanti accordi possono essere disegnati prima di tornare al punto di partenza?
+
+![[src_ioqm_2020__Q12.png]]
+
+**Risposta:** 24
+[[src_ioqm_2020__Q12]]

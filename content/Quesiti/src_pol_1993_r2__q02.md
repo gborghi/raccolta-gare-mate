@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r2__Q02
 parent: src_pol_1993_r2
 competition: Olimpiade Matematica Polacca 1993 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A line through external point P meets a circle at A,B; C is symmetric to A wrt OP; prove all lines m=BC share a common point.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NgcL0QAd2CG62bFmgawlLI7Z2DvH7hOH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Una linea attraverso un punto esterno P incontra un cerchio a A,B; C è simmetrica a A wrt OP; dimostra che tutte le linee m=BC condividono un punto comune.*
+
+> Si deve dare un cerchio con il centro $O$ e un punto $P$ al di fuori del cerchio. Una linea $l$ passa attraverso $P$ e taglia il cerchio a $A$ e $B$. $C$ sia il punto simmetrico di $A$ rispetto a $OP$, e $m$ sia la linea $BC$. Prova che tutte le righe $m$ hanno un punto comune in quanto $l$ varia.
+
+[[src_pol_1993_r2__Q02]]

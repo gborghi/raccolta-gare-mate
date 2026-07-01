@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale C — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_c__Q13
 parent: src_cesenatico_2011_semifinale_c
 competition: Gara a Squadre Cesenatico 2011 - Semifinale C
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita arieti raggiungano le mura (catapulta)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7346
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of aryan reaching the walls (catapult) < MSK1/>
+
+> The Romans besieged the village of the Gauls and intended to build arrows to bring down the walls. The Welsh have a catapult that can destroy their fins, but it can't hit them if they're closer than 30 steps or more than 150 steps away from the walls. In addition, a kite travels 40 steps per minute, a catapult launches a stroke per minute and hits the kite with a probability of 10 d where d is the distance (in steps) of the kite from the walls. The Romans send the kite one at a time, they want more than a 50% chance of getting at least one kite to the walls and they build the minimum number of kite that allows it. What's the probability in this case? Provide the first four digits after the comma as the answer.
+
+**Answer:** 7346
+[[src_cesenatico_2011_semifinale_c__Q13]]

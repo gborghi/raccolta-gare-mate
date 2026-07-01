@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f1__Q10
 parent: src_obm_2015_n1_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find cinema ticket price given equal total expenses*
 
@@ -50,3 +53,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1US8V-4feNykVqsPNJrHqryv0OSdYhVn9/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova il prezzo del biglietto cinematografico tenuto conto delle spese totali uguali*
+
+> Carlos e i suoi amici, Danilo ed Edson, andarono al cinema. Carlos ha pagato i biglietti d'ingresso per tutti, Danilo ha pagato i popcorn ed Edson ha pagato il parcheggio. Per regolare i conti, Danilo pagò a Carlos R\$8.00 and Edson paid Carlos R\$>14.00, così che la spesa totale di ciascuno di essi arrivò a R\\$32.00. Quanto costava un biglietto al cinema?
+>
+> - **(A)** R\$10.00
+> - **(B)** R\$12.00
+> - **(C)** R\$15.00
+> - **(D)** R\$18.00
+> - **(E)** R\$20.00
+
+[[src_obm_2015_n1_f1__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f1__Q15
 parent: src_obm_2007_n3_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Set of c for which sqrt(x)=sqrt(sqrt(x)+c) has a real solution*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieme di c per il quale sqrt(x)=sqrt(sqrt(x)+c) ha una soluzione reale*
+
+> L'insieme di valori di $c$ per il quale l'equazione $\sqrt{x}=\sqrt{\sqrt{x}+c}$ ha una soluzione reale è contenuto in:
+> 
+> (A) $[-1,+\infty[$ \quad (B) $]-\infty,1]$ \quad (C) $[-3,2]$ \quad (D) $[-2,3]$ \quad (E) $\mathbb{Z}$
+
+**Risposta:** A
+[[src_obm_2007_n3_f1__Q15]]

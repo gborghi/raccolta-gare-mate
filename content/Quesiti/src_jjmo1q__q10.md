@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2003 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo1q__Q10
 parent: src_jjmo1q
 competition: Japan Junior Mathematical Olympiad 2003
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find volume of piece containing vertex A when unit cube is cut by three mid-planes through center*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il volume del pezzo contenente il vertice A quando il cubo unitario è tagliato per tre piani medi attraverso il centro*
+
+> Un cubo $ABCD$-$EFGH$ di lunghezza laterale $1$ ha il centro $O$ (l'intersezione delle sue quattro diagonali spaziali). Il cubo viene tagliato dai seguenti tre piani, ciascuno attraversando $O$: \begin{itemize} \item Il piano attraversando i bordi $BC$ e $AD$ (due bordi opposte di una faccia) attraversando $O$. \item Il piano attraverso i bordi $CA$ e $BD$ che attraversa $O$. \item Il piano attraverso i bordi $AB$ e $CD$ che attraversa $O$. Il cubo è quindi diviso in diversi solidi. Trova il volume del solido contenente il vertice $A$.
+
+[[src_jjmo1q__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q16
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *somma eta possibile*
 
@@ -54,3 +57,22 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>the sum of all possible years< MSK1/>
+
+> Today is the birthday of 5 brothers: Leo, Lino and Luca are twins; their brothers, three years younger, Nico and Nino, are also twins. Which of the following numbers can be the sum of the ages of the five brothers? A) 36
+> 	
+> B) 53
+> 	
+> C) 76
+> 	
+> D) 89
+> 	
+> E) 92
+
+**Answer:** D
+[[src_kangourou_2016_cadet_marzo__Q16]]

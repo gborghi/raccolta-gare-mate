@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Cadet (marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_cadet_marzo__Q05
 parent: src_kangourou_2007_cadet_marzo
 competition: Kangourou 2007 Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dopo quanti giorni con 4 ninfee (raddoppio)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GlEVhJusDLruo-3D6Fci7xuKGTkPb2dh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>After 4 days with 4 nipples (double) < MSK1/>
+
+> You want to grow a nymph in a pond. Every day the crop doubles in size, and if a single nymph is harvested, the pond is full after 12 days. After how many days will the pond be full if four nymphs are brought in? A) 3 B) 4 C) 8 D) 10 E) 6
+
+**Answer:** D
+[[src_kangourou_2007_cadet_marzo__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f2__Q11
 parent: src_obm_2003_n1_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers less than 120 expressible as sum of two or more distinct powers of 3*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Interi positivi inferiori a 120 espressi come somma di due o più potenze distinte di 3*
+
+> Quali integri positivi inferiori a $120$ possono essere scritti come somma di due o più potenze distinte di $3$ con esponenti non negativi? Ad esempio, $12 = 3^1 + 3^2$ è uno di tali numeri, ma $18 = 3^1 + 3^2 + 3^1$ non lo è (l'esponente $1$ viene ripetuto). Trova tutti questi numeri.
+
+[[src_obm_2003_n1_f2__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2020 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_automne__Q16
 parent: src_canimath_2020_automne
 competition: Coupe Animath Automne 2020
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all values C that are products of integers differing by 5 and also by 8*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i valori C che sono prodotti di numeri interi diversi di 5 e anche di 8*
+
+> Suzanne moltiplica due numeri interi la cui differenza è uguale a $5$ e Martin moltiplica due numeri interi la cui differenza è uguale a $8$. Ottieni lo stesso risultato, che scriviamo $C$. Quali sono i valori possibili di $C$?
+
+[[src_canimath_2020_automne__Q16]]

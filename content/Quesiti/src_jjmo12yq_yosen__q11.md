@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo12yq_yosen__Q11
 parent: src_jjmo12yq_yosen
 competition: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count arrow assignments on 14 circle points with a functional-iteration condition*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 974
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggi le assignazioni di frecce su 14 punti di cerchio con condizione di iterazione funzionale*
+
+> Ci sono punti $14$ su un cerchio. Da ogni punto viene tracciata esattamente una freccia che punta su uno dei punti, soddisfacendo la condizione seguente. In quanti modi si possono tirare le frecce? Qui, un punto può avere la sua freccia che punta su se stesso, e le configurazioni che coincidono sotto una rotazione o un riflesso sono contate come diverse. Condizione: per ogni punto, il punto raggiunto partendo da esso e seguendo le frecce $20$ volte coincide con il punto raggiunto partendo dal punto due posti in senso orario da esso e seguendo le frecce una volta.
+
+**Risposta:** 974
+[[src_jjmo12yq_yosen__Q11]]

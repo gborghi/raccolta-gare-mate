@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2004-05 — Round 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2004-05_round1__Q01
 parent: src_bmo_2004-05_round1
 competition: British Mathematical Olympiad 2004-05 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find positive integer n from two money-sharing conditions*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** n = 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MAlGqoG5DzSWzk4i2wJiAtFoCn1aiHUU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca un intero positivo n da due condizioni di condivisione del denaro*
+
+> Ciascuno di loro ha un gran numero di chili.
+> 
+> Le dice: "Se mi dai 3 sterline, avrò $n$ volte quanto te".
+> 
+> Lei gli dice: "Se mi dai £$n$, avrò 3 volte più di te".
+> 
+> Dato che tutte queste affermazioni sono vere e che $n$ è un intero positivo, quali sono i valori possibili per $n$?
+
+**Risposta:** n = 2
+[[src_bmo_2004-05_round1__Q01]]

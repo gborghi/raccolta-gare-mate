@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1998 - Biennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_biennio__Q13
 parent: src_archimede_1998_biennio
 competition: Giochi di Archimede 1998 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero che pratica tutti e tre gli sport*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1kWwcoo-eeUmeGNwnlbaf7KaRcCi2NLyS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of athletes in all three sports*
+
+> In a class of 20, 15 play football, 14 play basketball, 13 play volleyball. How many, at the very least, do all three sports?
+>
+> - **(A)** 0
+> - **(B)** 2
+> - **(C)** 7
+> - **(D)** 9
+> - **(E)** 13.
+
+**Answer:** B
+[[src_archimede_1998_biennio__Q13]]

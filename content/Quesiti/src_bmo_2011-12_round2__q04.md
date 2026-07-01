@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2011-12 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2011-12_round2__Q04
 parent: src_bmo_2011-12_round2
 competition: British Mathematical Olympiad 2011-12 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integers a,b,c,d: divisibility condition for all positive n*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/101xOLerYbSbN43TPnIwIpRwpKE2owKy-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Integri a,b,c,d: condizione di divisibilità per tutti i n * positivi
+
+> Mostrare che se $a$, $b$, $c$, $d$ sono interi e $a$ è un divisore di $b^n + c^n + d^n - b - c - d$ per tutti gli interi positivi $n$, allora $a$ divide $b + c + d$.
+
+[[src_bmo_2011-12_round2__Q04]]

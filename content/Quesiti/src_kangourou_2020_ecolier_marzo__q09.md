@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Ecolier — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_ecolier_marzo__Q09
 parent: src_kangourou_2020_ecolier_marzo
 competition: Kangourou 2020 Gara marzo Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante regioni rosse nella colorazione del cerchio*
 
@@ -55,3 +58,25 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tw1HTWetCRuwlK59-49QscYBC_cKj68u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many red regions in the colour of the circle< MSK1/>
+
+![[src_kangourou_2020_ecolier_marzo__prob9.png]]
+
+> Ash colours each region into which the circle you see is divided by either red or yellow or blue, so that the regions you touch receive different colours. The outermost region is red ash; after the entire drawing has been colored, how many regions are red? A) 2
+> 	
+> B) 3
+> 	
+> C) 4
+> 	
+> D) 5
+> 	
+> E) 6
+>
+
+**Answer:** B
+[[src_kangourou_2020_ecolier_marzo__Q09]]

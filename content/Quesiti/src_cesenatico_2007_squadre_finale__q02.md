@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q02
 parent: src_cesenatico_2007_squadre_finale
 competition: Gara a Squadre Cesenatico 2007 - Finale Nazionale
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume solido al centro del cubo tagliato per terne colorate*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Solid volume at the center of the cutting cube for coloured dies< MSK1/>
+
+> A challenging training A key stage of morning training is sword cutting. Today Numeruto must show his skill to the master and his companions. There's a wooden cube in front of it with 12 long beads. Color the centers of each face using 3 colors (the same color for the centers of opposite faces). He then cuts through each passing plane with his sword through a fine line of distinctly colored dots. Determine the volume of the solid containing the center of the cube.
+
+[[src_cesenatico_2007_squadre_finale__Q02]]

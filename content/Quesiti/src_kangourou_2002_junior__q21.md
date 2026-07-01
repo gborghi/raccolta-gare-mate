@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q21
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area possibile del rettangolo di perimetro 32*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible area of the perimeter rectangle 32*
+
+> The centimeter measurements of the sides of a rectangle are integers and its perimeter is 32. Which of the following numbers corresponds to its area (in cm2)?
+>  
+> A. 24 B. 48 C. 76 D. 192 E. 384
+
+**Answer:** B
+[[src_kangourou_2002_junior__Q21]]

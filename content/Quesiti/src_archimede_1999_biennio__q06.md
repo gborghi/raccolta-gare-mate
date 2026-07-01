@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1999 - Biennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_biennio__Q06
 parent: src_archimede_1999_biennio
 competition: Giochi di Archimede 1999 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro di un pentagono con tre angoli retti*
 
@@ -44,3 +47,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WXXLXbQ2r50J7vLN2Qn-JFlae2yO2Oom/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/18xbub-mJ9kvsKbPPlnn6r6WueqOOsVkM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of a pentagon with three right angles*
+
+> Whether MNOPQ is a pentagon in which QM = NO = 8 cm, PQ = 5 cm, OP = 12 cm and the angles in M, N and P are straight. How much is the perimeter of the Pentagon worth?
+>
+> - **(A)** 33 cm
+> - **(B)** 40 cm
+> - **(C)** 46 cm
+> - **(D)** 47 cm
+> - **(E)** 50 cm.
+
+**Answer:** C
+[[src_archimede_1999_biennio__Q06]]

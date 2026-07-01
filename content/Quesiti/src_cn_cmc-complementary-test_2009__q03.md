@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2009 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2009__Q03
 parent: src_cn_cmc-complementary-test_2009
 competition: China Mathematical Competition (Complementary Test) 2009
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Infinitely many m >= k with C(m,k) coprime to l*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Infinitamente molti m >= k con C(m,k) coprimo a l*
+
+> (50 punti) Supponiamo che $k$, $l$ siano due numeri interi positivi. Prova che ci sono infiniti interi positivi $m \geq k$ in modo tale che $\binom{m}{k}$ e $l$ siano relativamente primi.
+
+[[src_cn_cmc-complementary-test_2009__Q03]]

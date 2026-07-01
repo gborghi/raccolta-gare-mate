@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n3_f2__Q02
 parent: src_obm_2008_n3_f2
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 3 — Fase 2
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute sum of floor(sqrt(k)) for k=1 to 2008*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-A85epHVz8EapgNlhfCKsZT5OOLBcffw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa calcolata del pavimento(sqrt(k)) per k=1 fino al 2008*
+
+> Se $x$ è un numero reale, indichiamo con $\lfloor x \rfloor$ il numero intero più grande inferiore o uguale a $x$. Per esempio, $\lfloor 2 \rfloor = 2$, $\lfloor \pi \rfloor = 3$ e $\lfloor -2.1 \rfloor = -3$. Calcolare il valore della somma $$\left\lfloor \sqrt{1} \right\rfloor + \left\lfloor \sqrt{2} \right\rfloor + \left\lfloor \sqrt{3} \right\rfloor + \cdots + \left\lfloor \sqrt{2008} \right\rfloor.$$
+
+[[src_obm_2008_n3_f2__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2018-19 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2018-19_round1__Q06
 parent: src_bmo_2018-19_round1
 competition: British Mathematical Olympiad 2018-19 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find highest power of 10 dividing the number of ant's closed 2018-step journeys*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13TymyXW8f0WJOfcP7X3v5LIa1mrqdBop/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la potenza più alta di 10 dividendo il numero di viaggi chiusi delle formiche in 2018*
+
+> Ada la formica inizia a un punto $O$ su un piano. All'inizio di ogni minuto sceglie Nord, Sud, Est o Ovest, e marcia 1 metro in quella direzione. Alla fine del 2018 si ritrova a $O$. Che il numero di viaggi possibili che avrebbe potuto fare sia $n$. Qual è la potenza massima di 10 che divide $n$?
+
+[[src_bmo_2018-19_round1__Q06]]

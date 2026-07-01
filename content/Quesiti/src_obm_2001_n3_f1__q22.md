@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n3_f1__Q22
 parent: src_obm_2001_n3_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Acute triangle ABC; max of sum of distances from an interior/boundary point to the three sides*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uuVjQEu62Sh6BYUzr9p4F7uvS8J6b608/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo acuto ABC; massimo della somma delle distanze da un punto interno/frontaliero ai tre lati*
+
+> Per ciascun punto appartenente all'interno e ai lati di un triangolo acuto $ABC$, considera la somma delle sue distanze verso i tre lati del triangolo. Il valore massimo di tale somma è pari a:
+> 
+> **A) ** la media aritmetica delle 3 altitudini del triangolo. $\quad$ **B) ** il lato più lungo del triangolo. $\quad$ **C) ** l'altitudine più alta del triangolo. $\quad$ **D) ** tre volte il raggio del cerchio inscritto nel triangolo. $\quad$ **E) ** il diametro del cerchio circondato intorno al triangolo.
+
+**Risposta:** C
+[[src_obm_2001_n3_f1__Q22]]

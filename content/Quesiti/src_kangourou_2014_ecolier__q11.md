@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Ecolier — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_ecolier__Q11
 parent: src_kangourou_2014_ecolier
 competition: Kangourou 2014 marzo Ecolier
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nella cella grigia della piramide moltiplicativa*
 
@@ -59,3 +62,16 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bTZAHwigvfKa7LzCS0m6BPHbgPYI-FWO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the gray cell of the multiplication pyramid*
+
+![[src_kangourou_2014_ecolier__prob11.png]]
+
+> Look at the figure next to me. Which of the following tiles should you replace the question mark if you want the black part to have the same area as the white part? A) B) C) D) E) A) B) C) D) E) 1 2 2 1 A) B) C) D) E)
+>
+
+[[src_kangourou_2014_ecolier__Q11]]

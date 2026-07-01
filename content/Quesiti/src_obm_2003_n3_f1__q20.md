@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1 — Quesito 20
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n3_f1__Q20
 parent: src_obm_2003_n3_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find digit sum of N expressible as 9 consecutive integers and as 11 consecutive integers*
 
@@ -55,3 +58,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova la somma di N espressibile come 9 numeri interi consecutivi e come 11 numeri interi consecutivi*
+
+> Esistono numeri interi positivi $n_1$ e $n_2$ in modo tale che $$N = (n_1 - 4) + (n_1 - 3) + (n_1 - 2) + (n_1 - 1) + n_1 + (n_1 + 1) + (n_1 + 2) + (n_1 + 3) + (n_1 + 4)$$ (una somma di $9$ numeri interi consecutivi incentrati su $n_1$) e anche $$N = (n_2 - 5) + (n_2 - 4) + \cdots + (n_2 + 5)$$ (una somma di $11$ numeri interi consecutivi incentrati su $n_2$). Il più piccolo di questi valori $N$ è $N = 495$. La somma delle cifre di $N$ è:
+> 
+> A) $9$ \quad B) $18$ \quad C) $22$ \quad D) $27$ \quad E) $36$
+
+**Risposta:** B
+[[src_obm_2003_n3_f1__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q14
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di 4 cifre il cui «contrario» è quattro volte maggiore*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2178
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of 4 digits whose contrary is four times greater*
+
+> An integer N is the contrary of P when it is composed of the same digits, but written in reverse order.
+> 
+> Find a four-digit number whose contrary is four times larger.
+
+**Answer:** 2178
+[[src_bocconi_squadre_2010__Q14]]

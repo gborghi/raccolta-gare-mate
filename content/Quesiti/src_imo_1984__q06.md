@@ -1,6 +1,7 @@
 ---
 title: IMO 1984 (25th International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1984__Q06
 parent: src_imo_1984
 competition: IMO 1984 (25th International Mathematical Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Odd integers with ad=bc and power-of-two sums imply a=1*
 
@@ -33,3 +36,13 @@ tags:
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hddGpriFfJ9QXK1JRJNBQA3ykv770Ola/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Odd integers with ad=bc and power-of-two sums imply a=1*
+
+> Let $a$, $b$, $c$ and $d$ be odd integers such that $0 < a < b < c < d$ and $ad = bc$. Prove that if $a + d = 2^k$ and $b + c = 2^m$ for some integers $k$ and $m$, then $a = 1$.
+
+[[src_imo_1984__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (finale Cervia) — Quesito S2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_finale__QS2
 parent: src_kangourou_2016_student_finale
 competition: Kangourou 2016 Student (finale Cervia)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giorni festivi in piu aggiungendo i ponti, anno 3000 giorni*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aUKk1biwLcg0St2UFy-7j4t3JVsISp8p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Additional holidays by adding bridges, year 3000 days
+
+> 2) A generic plan tiles are now assigned. It demonstrates or refutes the following statement: if every circle with a center at a point P intersects infinite tiles, there exists a straight line passing through P such that every segment of r containing P within it intersects infinite tiles. N.B. To provide some answers, you can simply trace sufficiently explanatory figures.
+
+**Answer:** 2
+[[src_kangourou_2016_student_finale__QS2]]

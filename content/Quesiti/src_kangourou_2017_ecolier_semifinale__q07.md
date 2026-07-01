@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q07
 parent: src_kangourou_2017_ecolier_semifinale
 competition: Kangourou 2017 Ecolier - Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta del penultimo figlio con eta in progressione*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Age of the second child with age progression< MSK1/>
+
+> (Point 5) A father has five children: each of those born after the first was born exactly two years after the previous one. Today the age of the eldest son is twice that of the youngest. How old is the penultimate born today? (A) 9             (B) 10              (C) 11             (D) 12            (E) 13
+
+**Answer:** C
+[[src_kangourou_2017_ecolier_semifinale__Q07]]

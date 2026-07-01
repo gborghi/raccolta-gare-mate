@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1975-76 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1975-76_round2__Q04
 parent: src_bmo_1975-76_round2
 competition: British Mathematical Olympiad 1975-76 — Round 2
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *No positive integers p,q with |sqrt(2)-p/q| ≤ 1/(4q²)*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KOrdnSCj31p80BGIDGvH7v-v3TGPV0jd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Non ci sono numeri interi positivi p,q con ➡️
+
+> Prove che non è possibile trovare integri positivi $p$ e $q$ con la proprietà che $$\left|\sqrt{2} - \frac{p}{q}\right| \leq \frac{1}{4q^2}.$$
+
+[[src_bmo_1975-76_round2__Q04]]

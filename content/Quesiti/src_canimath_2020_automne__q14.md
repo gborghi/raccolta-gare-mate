@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2020 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2020_automne__Q14
 parent: src_canimath_2020_automne
 competition: Coupe Animath Automne 2020
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find integers n>=2 expressible as a^3+d^3 with a the smallest prime divisor and d a divisor*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova integri n>=2 espressi come a^3+d^3 con un divisore primo più piccolo e un divisore d*
+
+> Trova i numeri interi $n$ più grandi o uguali a $2$ in modo che, scrivendo $a$ per il più piccolo divisore primo di $n$, si possa trovare un divisore positivo di $n$ scritto $d$ in modo che $n = a^3 + d^3$.
+
+[[src_canimath_2020_automne__Q14]]

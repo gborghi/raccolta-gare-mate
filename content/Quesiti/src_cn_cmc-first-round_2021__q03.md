@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q03
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -31,6 +32,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional relation f(x)=f(1)x+f(2)/x-1; minimum on (0,∞).*
 
@@ -44,3 +47,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Relazione funzionale f(x)=f(1)x+f(2)/x-1; minimo su (0,∞).*
+
+> [Test Paper A, Problem 3] Supponiamo che la funzione $f(x)$ soddisfi: per qualsiasi numero reale non zero $x$, c'è $$f(x)=f(1)\cdot x+\frac{f(2)}{x}-1.$$ Quindi il minimo di $f(x)$ su $(0,+\infty)$ è ______.
+
+**Risposta:** \sqrt{3}-1
+[[src_cn_cmc-first-round_2021__Q03]]

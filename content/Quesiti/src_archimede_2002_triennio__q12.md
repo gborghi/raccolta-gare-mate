@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2002 - Triennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_triennio__Q12
 parent: src_archimede_2002_triennio
 competition: Giochi di Archimede 2002 - Triennio
@@ -26,6 +27,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita primo dado minore del secondo*
 
@@ -42,3 +45,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OzOsu4BBiYpUyU6-zM7QubPPnJ1eN0eA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of first digit less than second digit< MSK1/>
+
+> Two dice are thrown; the probability that the score of the first dice is narrowly less than that of the second dice is:
+>
+> - **(A)** 1 6
+> - **(B)** 1 3
+> - **(C)** 5 12
+> - **(D)** 1 2
+> - **(E)** 7 12.
+
+[[src_archimede_2002_triennio__Q12]]

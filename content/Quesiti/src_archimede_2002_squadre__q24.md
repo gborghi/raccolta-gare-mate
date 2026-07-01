@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q24
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *conteggio dei pezzi*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1500
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*piece count*
+
+> This is the first time that the European Parliament has voted in favour of the amendments.
+> 
+> Bernardo's playing with his mechanic. It can construct two side cubes $a$ and $b$ with $a < b$. Then it disassembles the two cubes and by putting together the various sides of the previous one it builds a larger, lateral $c = a + b$ cube. The volume of the new cube exceeds by < MSK4/> the sum of the volumes of the other 2. Finally, Bernardo dismantles again what he has built and assembles a rectangular parallel piped whose sides measure $a$, $b$ and $c$. How much does the volume of the parallel piped measure (in < MSK8/>)?
+
+**Answer:** 1500
+[[src_archimede_2002_squadre__Q24]]

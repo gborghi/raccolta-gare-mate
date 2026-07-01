@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r2__Q01
 parent: src_rmo_2013_r2
 competition: Regional Mathematical Olympiad 2013
@@ -35,6 +36,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *No integer solutions to (x^5-1)/(x-1)=y^2+1*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uqSSojdtAvGG1PLqgEhOlUA-N31qYiRK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Non ci sono soluzioni interi per (x^5-1)/(x-1)=y^2+1*
+
+> Provare che non esistono numeri naturali $x$ e $y$, con $x > 1$, in modo tale che $$\frac{x^5 - 1}{x - 1} = y^2 + 1.$$
+
+[[src_rmo_2013_r2__Q01]]

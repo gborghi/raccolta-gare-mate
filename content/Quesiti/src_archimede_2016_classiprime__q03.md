@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2016 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_classiprime__Q03
 parent: src_archimede_2016_classiprime
 competition: Gara Nazionale Classi Prime 2016
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto m*n dati MCD=6 e mcm=3150*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11_tVYKZUBusCSJwiRULQD9nPIEI-cYvl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Product m< MSK1/>n data MCD=6 and mcm=3150< MSK2/>
+
+> Given two positive integers m and n, we know that MCD(m, n) = 6 and that mcm(m, n) = 3150. What is the value of the product? A 18900 B 9450 C 6300 D 12600 E the data provided are incompatible because there are no two numbers n and m satisfying the required conditions F the data provided are insufficient to satisfy
+
+**Answer:** A
+[[src_archimede_2016_classiprime__Q03]]

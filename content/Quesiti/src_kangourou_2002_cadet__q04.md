@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q04
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Mezzogiorno solare a Newbury*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Solar day in Newbury*
+
+> The July MSK0/ in Newbury the sun rises at 4:53 and sets at 21:25. The solar noon is therefore halfway between these two hours. What time is the solar noon in Newbury on MSK1 of July?
+>  
+> A. 11:08 B. 12:39 C. 13:09            D. 16:32 E. 12:00
+
+**Answer:** C
+[[src_kangourou_2002_cadet__Q04]]

@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 2) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g2__Q09
 parent: src_bocconi_finaleint_2011_g2
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Partecipanti con esattamente 13 problemi corretti*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 15
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Participants with exactly 13 correct problems< MSK1/>
+
+> The last international final of mathematical and logic games was attended by 75 competitors in the C1 category. The < MSK0/> provided an accurate answer to at least 13 problems. The < MSK1/> gave an accurate answer to no more than 13 problems. How many participants solved exactly 13 problems?
+
+**Answer:** 15
+[[src_bocconi_finaleint_2011_g2__Q09]]

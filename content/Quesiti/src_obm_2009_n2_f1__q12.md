@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q12
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular pentagon, square, equilateral triangle share sides; find angle beta*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Pentagono regolare, quadrato, lato equilaterale del triangolo; trovare angolo beta*
+
+> Nella figura seguente, $ABCDE$ è un pentagono regolare, $CDFG$ è un quadrato e $DFH$ è un triangolo equilaterale. Il valore dell'angolo $\beta$ è:
+> 
+> **(A)** $30^{\circ}$ $\quad$ **(B)** $36^{\circ}$ $\quad$ **(C)** $39^{\circ}$ $\quad$ **(D)** $45^{\circ}$ $\quad$ **(E)** $60^{\circ}$
+
+![[src_obm_2009_n2_f1__Q12.png]]
+
+**Risposta:** C
+[[src_obm_2009_n2_f1__Q12]]

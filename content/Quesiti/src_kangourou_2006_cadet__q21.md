@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q21
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Divisibilita della somma di due interi dato il prodotto*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Divisibility of the sum of two integers given the product*
+
+> If the product of two integers is 25.32.5.73, then their sum A) could be divisible by 3 B) could be divisible by 5 C) could be divisible by 49 D) could be divisible by 8 E) can never be divisible by 8, nor by 5, nor by 49, nor by 3.
+
+**Answer:** A
+[[src_kangourou_2006_cadet__Q21]]

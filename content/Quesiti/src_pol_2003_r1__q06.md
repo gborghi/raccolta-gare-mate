@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2003 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2003_r1__Q06
 parent: src_pol_2003_r1
 competition: Olimpiade Matematica Polacca 2003 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A,B,C,D on circle o in order; M midpoint of arc AB not containing C,D; N midpoint of arc CD not containing A,B. Prove (AN^2-BN^2)/AB=(DM^2-CM^2)/CD.*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g2pAI6Dyal-U5sIDQ3n8K-Cf89BjoInk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A,B,C,D su cerchio o in ordine; M punto medio di arco AB non contenente C,D; N punto medio di arco CD non contenente A,B. Prova (AN^2-BN^2)/AB=(DM^2-CM^2)/CD.*
+
+> I punti $A$, $B$, $C$, $D$ si trovano in questo ordine su un cerchio $o$. Il $M$ deve essere il punto medio dell'arco $AB$ di $o$ non contenente $C$, $D$ e $N$ il punto medio dell'arco $CD$ di $o$ non contenente $A$, $B$. Provare che < MSK0/>
+
+[[src_pol_2003_r1__Q06]]

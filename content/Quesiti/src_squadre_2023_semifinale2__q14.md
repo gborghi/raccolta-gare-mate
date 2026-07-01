@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2023 - Semifinale 2 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2023_semifinale2__Q14
 parent: src_squadre_2023_semifinale2
 competition: Gara a Squadre 2023 - Semifinale 2
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Paradosso di Simpson con 7.5% e 10%*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0029
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Simpson's paradox with 7.5% and 10%
+
+> The most common combination [⋆] Goemetrikon: Here's the safe! The code that opens it is the maximum common divisor of all numbers of the form 1n +2n +3n +··+999n where n is a positive integer. . . ». Jig∈N: Damn, we don't have time to calculate endless numbers! Lupin 3 is sleeping. What's the code?
+
+**Answer:** 0029
+[[src_squadre_2023_semifinale2__Q14]]

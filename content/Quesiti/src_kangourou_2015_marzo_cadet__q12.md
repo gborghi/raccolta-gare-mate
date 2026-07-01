@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Cadet — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_cadet__Q12
 parent: src_kangourou_2015_marzo_cadet
 competition: Kangourou 2015 gara 19 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *area regione grigia*
 
@@ -48,3 +51,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1YFjkxNHfYQMQHrnbq7aZOresN8swX7ft/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>grey region area< MSK1/>
+
+![[src_kangourou_2015_marzo_cadet__prob12.png]]
+
+> The figure represents three squares on side 1 and is symmetrical to the straight line found on the common side of the two lower squares. What is the grey area? A)
+> 	
+> B)
+> 	
+> C) 1
+> 	
+> D)
+> 	
+> E)
+
+**Answer:** C
+[[src_kangourou_2015_marzo_cadet__Q12]]

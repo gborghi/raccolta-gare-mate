@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1994 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1994__Q05
 parent: src_inmo_1994
 competition: Indian National Mathematical Olympiad 1994
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle through vertex of rectangle tangent to two sides; distance to diagonal*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13t8gO6PkdwPwLC5CkXjN35Yq6olVnxjx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo attraverso il vertice di rettangolo tangente a due lati; distanza a diagonale*
+
+> Un cerchio attraverso il vertice $C$ di un rettangolo $ABCD$ è tangente ai lati $AB$ e $AD$ a $M$ e $N$. Dato che la distanza da $C$ alla linea $MN$ è pari a 5, calcolare l'area del rettangolo $ABCD$.
+
+[[src_inmo_1994__Q05]]

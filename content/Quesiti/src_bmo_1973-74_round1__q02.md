@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1973-74 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1973-74_round1__Q02
 parent: src_bmo_1973-74_round1
 competition: British Mathematical Olympiad 1973-74 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Partition set of 15 dominoes (integers 1–5) into three closed chains of 5*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sett di partizioni di 15 domino (integer 15) in tre catene chiuse di 5*
+
+> Un domino è una coppia di numeri interi non ordinati. L'insieme di tutti i 15 domino contenenti due enti da $1, 2, 3, 4, 5$ è diviso in tre sottinsiemi di cinque domino. I domino di ciascun sottoinsieme formano una catena chiusa, cioè $(a_1,b_1)(a_2,b_2)(a_3,b_3)(a_4,b_4)(a_5,b_5)$, dove $a_2 = b_1$, $a_3 = b_2$, $a_4 = b_3$, $a_5 = b_4$, $a_1 = b_5$ (e $a_i$, $b_i$ non devono essere tutti diversi). Quante partizioni di questo tipo ci sono? (L'ordine dei tre sottogruppi della partizione è irrilevante.)
+
+[[src_bmo_1973-74_round1__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 2005 (XLVI International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2005__Q04
 parent: src_imho_2005
 competition: IMO 2005 (XLVI International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all integers relatively prime to all terms of sequence $a_n = 2^n + 3^n + 6^n - 1$*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1vgyI0AcVdml3o7K4kvIflQDG_gB6z_42/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find all integers relatively prime to all terms of sequence $a_n = 2^n + 3^n + 6^n - 1$*
+
+> Determine the positive integers relatively prime to all the terms of the infinite sequence $$a_n = 2^n + 3^n + 6^n - 1, \quad n \ge 1.$$
+
+[[src_imho_2005__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Benjamin (21 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_benjamin__Q23
 parent: src_kangourou_2002_benjamin
 competition: Kangourou 2002 - Benjamin (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma lunghezze segmenti nel rettangolo*
 
@@ -43,3 +46,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1jYYXJGhHffMLtALFoMgGAMJJN9-K9CZ1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*sum of segment lengths in the rectangle*
+
+![[src_kangourou_2002_benjamin__prob23.png]]
+
+> The sides of the rectangle in the figure are long a and b. What is the sum of the lengths of the segments drawn within the rectangle, knowing that each segment is parallel to one of the sides?
+>  
+> A. 3(a + b) B. 3a + b C. 3a + 2b D. 2a + 3b E. It 's impossible to answer .
+
+**Answer:** A
+[[src_kangourou_2002_benjamin__Q23]]

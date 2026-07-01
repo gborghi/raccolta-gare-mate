@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2012 — Quesito
   12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2012__Q12
 parent: src_bocconi_finalenaz_2012
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2012
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di Liliana con cifre diverse, media degli altri due*
 
@@ -51,3 +54,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of Lilianas with different digits, mean of the other two*
+
+> Liliana took with an integer that is written with three different non-zero digits: $\heartsuit$, $\diamondsuit$, $\clubsuit$, where $\heartsuit$ indicates the number of hundreds, $\diamondsuit$ that of tens and $\clubsuit$ that of units. The number $\heartsuit\diamondsuit\clubsuit$ is also the mean of the other two numbers $\heartsuit\clubsuit\diamondsuit$ and $\clubsuit\heartsuit\diamondsuit$, i.e.: $$\heartsuit\diamondsuit\clubsuit = \frac{\heartsuit\clubsuit\diamondsuit + \clubsuit\heartsuit\diamondsuit}{2}$$ What is the number of Liliana?
+
+**Answer:** 481 oppure 518 oppure 592 oppure 629
+[[src_bocconi_finalenaz_2012__Q12]]

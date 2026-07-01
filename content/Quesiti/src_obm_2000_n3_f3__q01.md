@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n3_f3__Q01
 parent: src_obm_2000_n3_f3
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 3 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trisect angle alpha using paper-folding in three steps*
 
@@ -52,3 +55,21 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo triangolare alfa con piegatura di carta in tre fasi*
+
+> Su un foglio di carta, una linea $r$ attraversa il punto $A$ e crea un angolo $\alpha$ con il bordo orizzontale; vedere figura 1. Per dividere questo angolo $\alpha$ in tre parti uguali, eseguiamo le seguenti costruzioni:
+> 
+> a) Inizialmente, segniamo due punti $B$ e $C$ sulla linea verticale attraverso $A$ in modo tale che $AB = BC$; il punto $B$ viene disegnato su una linea $s$ parallela al bordo (Figura 2).
+> 
+> b) Successivamente, pieghiamo la carta e la regolliamo in modo che il punto $C$ coincida con un punto $C'$ sulla linea $r$ (Figura 3); chiamiamo $B'$ l'immagine del punto $B$ sotto questa piega e $A'$ il punto sulla linea $s$ con la stessa coordinata orizzontale di $B'$.
+> 
+> Indicare che le linee $AA'$ e $AB'$ dividono l'angolo $\alpha$ in tre parti uguali.
+
+![[src_obm_2000_n3_f3__Q01.png]]
+
+[[src_obm_2000_n3_f3__Q01]]

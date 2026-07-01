@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2004 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2004__Q03
 parent: src_cn_cwmo_2004
 competition: China Western Mathematical Olympiad 2004
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all k such that a 4-variable quadratic inequality holds on [-1,+∞)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $k \le \dfrac{3}{4}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le k in modo che una squadrata disuguaglianza quadrata a 4 variabili si mantenga su [-1+∞) *
+
+> Trovare tutti i numeri reali $k$ in modo tale che l'ineguaglianza $a^2 + b^2 + c^2 + d^2 + 1 \ge k(a + b + c + d)$ sia valida per qualsiasi $a, b, c, d \in [-1, +\infty)$.
+
+**Risposta:** $k \le \dfrac{3}{4}$
+[[src_cn_cwmo_2004__Q03]]

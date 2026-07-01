@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2019 - 2° livello — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_2livello__Q02
 parent: src_archimede_2019_2livello
 competition: Archimede Gara di Febbraio 2019 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri con 4 divisori e somma divisori 42*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers with 4 divisors and sum of divisors 42*
+
+> Alessandra writes on the notebook (of Louis) all natural numbers n that have both the following properties: n has exactly 4 positive divisors (including 1 and n itself), and the sum of the positive divisors of n is 42. What is the sum of all the numbers written by Alexander?
+>
+> - **(A)** 0
+> - **(B)** 12
+> - **(C)** 20
+> - **(D)** 26
+> - **(E)** 42
+
+**Answer:** D
+[[src_archimede_2019_2livello__Q02]]

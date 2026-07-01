@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1995 — Round 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1995_r2__Q05
 parent: src_pol_1995_r2
 competition: Olimpiade Matematica Polacca 1995 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tetrahedron ABCD: incircles of faces ABC and ABD tangent to edge AB at same point; prove tangency points on AC,BC,AD,BD are concyclic.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IUdNsY6k3NBvCtz5O5bsfPYRhNuq3LFN/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Tetraedro ABCD: incircoli di facce ABC e ABD tangenti al bordo AB nello stesso punto; dimostrare che i punti di tangenza su AC,BC,AD,BD sono conciclici.*
+
+> Le incircoli delle facce $ABC$ e $ABD$ di un tetraedro $ABCD$ sono tangenti al bordo $AB$ nello stesso punto. Provare che i punti di tangenza di questi incircoli ai bordi $AC, BC, AD, BD$ sono conciclici.
+
+[[src_pol_1995_r2__Q05]]

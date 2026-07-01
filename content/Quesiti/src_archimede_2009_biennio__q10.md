@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Biennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_biennio__Q10
 parent: src_archimede_2009_biennio
 competition: Giochi di Archimede 2009 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadrati perfetti che dividono 1600*
 
@@ -47,3 +50,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IZ2zUWMLZQZPpLJzYwem0FADEnHsk1Sj/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perfect squares dividing 1600*
+
+> How many perfect squares divide 1600? [A perfect square is a number of the type n2, with n as a natural number. 1, 4, 9, 16, are examples of perfect squares.]
+>
+> - **(A)** 2,
+> - **(B)** 4,
+> - **(C)** 8,
+> - **(D)** 10,
+> - **(E)** 12.
+
+**Answer:** C
+[[src_archimede_2009_biennio__Q10]]

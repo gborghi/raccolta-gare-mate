@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q13
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square ABCD side 40cm, circumscribed circle tangent to chord*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Side ABCD quadrato 40cm, circolo circonscritto tangente a corda*
+
+> Un quadrato $ABCD$ ha un lato di 40 cm. Un cerchio contiene i vertici $A$ e $B$ ed è tangente a lato $CD$. Qual è il raggio di questo cerchio?
+> 
+> A) 20 cm \quad B) 22 cm \quad C) 24 cm \quad D) 25 cm \quad E) 28 cm
+
+**Risposta:** A
+[[src_obm_1999_n3_f1__Q13]]

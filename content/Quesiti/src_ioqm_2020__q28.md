@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2020 — Quesito 28
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2020__Q28
 parent: src_ioqm_2020
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2020
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count good numbers in {1,...,100} where good means sum of r>=2 consecutive positive integers*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H7hSsIxNDLe3uSSuZh3LbeHL9iN0ELxZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri buoni in {1,...,100} dove il valore buono significa la somma di r>=2 interi positivi consecutivi*
+
+> Si dice che un numero naturale $n$ sia buono se $n$ è la somma di $r$ interi positivi consecutivi, per alcuni $r \ge 2$. Trova il numero di numeri buoni nell'insieme $\{1, 2, \ldots, 100\}$.
+
+[[src_ioqm_2020__Q28]]

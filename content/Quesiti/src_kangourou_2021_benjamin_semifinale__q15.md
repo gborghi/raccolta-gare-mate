@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - semifinale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q15
 parent: src_kangourou_2021_benjamin_semifinale
 competition: Kangourou 2021 Benjamin - semifinale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Canguri contagiosi al sesto giorno*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 31
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1ZoOsj72QmushXUD5rVHJ0W3fyHvEdq-b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Infectious crabs on day six< MSK1/>
+
+> (6 points) A new virus has spread on Kangaroo Island, which is home to a thousand kangaroos. Every infected kangaroo has a cold for exactly 5 days after the day it contracted the infection and is contagious only during those five days. Every day during this period the kangaroo infects exactly another kangaroo. The virus was carried by a single kangaroo who caught a cold (and then became contagious) exactly on the day he arrived on the island. Considering that day as the first, how many contagious kangaroos will there be on day six?
+
+**Answer:** 31
+[[src_kangourou_2021_benjamin_semifinale__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Junior — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_marzo__Q08
 parent: src_kangourou_2018_junior_marzo
 competition: Kangourou 2018 Gara di Marzo Junior
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di percorsi da A a B con frecce orientate*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-zOb36W8DS1zMP2btOWm2XrwkUhAgf60/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of routes from A to B with arrows pointing*
+
+![[src_kangourou_2018_junior_marzo__prob8.png]]
+
+> You can go from point A to point B in the figure only by following the directions and lines indicated by the arrows. How many different routes are possible? A) 20
+> 	
+> B) 16
+> 	
+> C) 12 D) 9
+> 	
+> E) 8
+
+**Answer:** B
+[[src_kangourou_2018_junior_marzo__Q08]]

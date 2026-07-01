@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2025 Benjamin finale — Quesito B6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2025_benjamin_finale__QB6
 parent: src_kangourou_2025_benjamin_finale
 competition: Kangourou 2025 Benjamin finale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo cavalieri su griglia 4x4 con dichiarazioni*
 
@@ -64,3 +67,38 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hvCMhKmXAjUOFEJWwvFFJ29ZPfkhmm4P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum riders on 4x4 grid with declarations*
+
+![[src_kangourou_2025_benjamin_finale__probB6.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=0.9]
+  \draw (0,0) grid (4,4);
+  \node[blue] at (0.5,0.5) {$F$};
+  \node[blue] at (1.5,0.5) {$F$};
+  \node[blue] at (2.5,0.5) {$F$};
+  \node[blue] at (3.5,0.5) {$F$};
+  \node[blue] at (0.5,1.5) {$F$};
+  \node[blue] at (3.5,1.5) {$F$};
+  \node[blue] at (0.5,2.5) {$F$};
+  \node[blue] at (3.5,2.5) {$F$};
+  \node[blue] at (0.5,3.5) {$F$};
+  \node[blue] at (1.5,3.5) {$F$};
+  \node[blue] at (2.5,3.5) {$F$};
+  \node[blue] at (3.5,3.5) {$F$};
+\end{tikzpicture}
+\end{document}
+```
+
+> On an island there are only Knights and Spheres: Knights are people who always tell the truth, while Spheres always lie, and everyone on the island knows who the Knights are and who the Spheres are. Today, residents of the island are waiting in the King's reception hall. This room is a square side $4$ meters and is floored with $16$ square side bricks $1$ meters. Each person is standing on a brick, one person per brick. As they wait, each of the $16$ people declares, "In the bricks next to mine there are as many crooks as there are knights". How many knights can there be at most?
+> 
+> < MSK0/>NOTE:< MSK1/> Two bricks are adjacent if they have an entire side in common.
+
+**Answer:** 4
+[[src_kangourou_2025_benjamin_finale__QB6]]

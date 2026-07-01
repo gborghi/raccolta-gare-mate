@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1996 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1996_r2__Q04
 parent: src_pol_1996_r2
 competition: Olimpiade Matematica Polacca 1996 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Digit sequence: repeated consecutive pair among first 99 terms*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15CNz3kFk7PIwx8NxujVN7hqidN5tvos-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di numeri: coppia successiva ripetuta tra i primi 99 termini*
+
+> Se $a_1, a_2, \ldots$ è una sequenza di cifre dell'insieme $\{0, 1, \ldots, 9\}$ in modo tale che se $a_i = n$, $n \in \mathbb{N}$, $n \ge 10$, allora $a_{i+1} \ge 2$, e se $a_i = 3$, allora $a_{i+1} \ne 4$. Prove che esistono indici $i, j \in \{1, \ldots, 99\}$, $i \ne j$, quali $a_i = a_j$ e $a_{i+1} = a_{j+1}$.
+
+[[src_pol_1996_r2__Q04]]

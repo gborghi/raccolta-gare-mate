@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q21
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find Maria's current age given age relationship in 1996 and 2002*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Trova il rapporto di età di Maria nel 1996 e nel 2002< MSK1/>
+
+> Il 12/6/1999, Pedro e Maria celebrano i loro compleanni. Lo stesso giorno del 1996, l'età di Pedro era < MSK0/> dell'età di Maria. Nello stesso giorno del 2002, l'età di Pedro sarà uguale a quella di Maria quando aveva 20 anni. Quanti anni ha oggi Maria?
+> 
+> A) 30 \quad B) 31 \quad C) 33 \quad D) 34 \quad E) 34
+
+**Risposta:** B
+[[src_obm_1999_n3_f1__Q21]]

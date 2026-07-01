@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2020 - 2° livello — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_2livello__Q06
 parent: src_archimede_2020_2livello
 competition: Archimede Gara di Febbraio 2020 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Due nuotatori, valori possibili di vasche di Zanobi*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Two swimmers, possible values of Zanobi tanks< MSK1/>
+
+> Zanobi and Veronica go to the pool together and start swimming back and forth at the same time, at constant but different speeds, each in their own lane, starting from the same side of the pool. Veronica notices that, by the time she completes 28 swimming pools (i.e. she finishes 28 times the length of the pool), Zanobi is next to her. As soon as she completes 70 swimming pools, Veronica stops swimming and comes out of the water; at the same time, Zanobi also arrives at the edge of the pool, stops swimming and comes out of the water next to Veronica. Zanobi, who is slower than Veronica, has made m tanks; how many different values can m assume?
+>
+> - **(A)** 1
+> - **(B)** 3
+> - **(C)** 6
+> - **(D)** 35
+> - **(E)** 69
+
+**Answer:** C
+[[src_archimede_2020_2livello__Q06]]

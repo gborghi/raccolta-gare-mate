@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2004 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2004__Q06
 parent: src_cn_cwmo_2004
 competition: China Western Mathematical Olympiad 2004
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine parity of good couples S in a 2-colored m×n chessboard*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Determine la parità di buone coppie S in una scacchiera a 2 colori ×n*
+
+> Tutte le griglie di una scacchiera $m \times n$ ($m \ge 3$, $n \ge 3$) sono di colore rosso o blu. Due griglie adiacenti (con un lato comune) sono chiamate buone coppie se sono di colori diversi. Supponiamo che ci siano $S$ buone coppie, spiegate come determinare se $S$ è pari o pari. Il $S$ dipende da determinate reti di colore specifiche?
+
+[[src_cn_cwmo_2004__Q06]]

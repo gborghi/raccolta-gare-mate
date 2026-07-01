@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n1_f1__Q06
 parent: src_obm_2001_n1_f1
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Litres of water evaporated dehydrating 100 kg of pears from 90% to 60% water*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1veN5G7elgFdVIYANYHaItn_cA50qjCTO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Litr di acqua evaporata che disidrata 100 kg di pere dal 90% al 60% di acqua< MSK1/>
+
+> Una pera è circa < MSK0/> acqua e < MSK1/> materia solida. Un produttore mette $100$ chilogrammi di pere per disidratarli fino al punto in cui l'acqua rappresenta $60\%$ della massa totale. Quanti litri di acqua evaporeranno? (ricorda: $1$ litro di acqua ha una massa di $1$ chilogrammo).
+> 
+> (A) $15$ litri \quad (B) $45$ litri \quad (C) $75$ litri \quad (D) $80$ litri \quad (E) $30$ litri
+
+**Risposta:** C
+[[src_obm_2001_n1_f1__Q06]]

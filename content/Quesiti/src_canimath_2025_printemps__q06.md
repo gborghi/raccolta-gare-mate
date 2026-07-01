@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2025 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_printemps__Q06
 parent: src_canimath_2025_printemps
 competition: Coupe Animath Printemps 2025
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove all collinear integer-distance points have even pairwise distances*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che tutti i punti di distanza intera collineare hanno distanze pari*
+
+> $n \geq 1$ sia un numero intero. Rémi ha scelto $2n+1$ collineare, punti separati in coppia in modo che tutte le distanze in coppia tra questi punti siano interi. Elsa osserva che, per qualsiasi punto sceglie tra i punti $2n+1$, quando calcola le distanze $2n$ da quel punto a ciascuno degli altri punti $2n$, ottiene un numero pari di distanze odd.
+> 
+> Mostrare che tutte le distanze in coppia tra questi punti $2n+1$ sono numeri interi.
+
+[[src_canimath_2025_printemps__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Finale Nazionale — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_finale__Q19
 parent: src_archimede_2025_squadre_finale
 competition: Gara a Squadre Nazionale 2025 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi 8 torri non in presa 4 bianche 4 nere*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0736
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Mode 8 towers not included 4 white 4 black< MSK1/>
+
+> C.E.S.E.N.A.T.I.C.N.O. Because the C.E.S.E.N.A.T.I.C.O. It turned out to be a failure. DoofenSchwartz decided to perfect it to launch a final challenge to Perryodic the Ornithorynco. This gives rise to C.E.S.E.N.A.T.I.C.N.O., which is to effectively place on non-aligned elements towers in non-homologous colors. Unlike the previous version, this new invention allows 8 chess towers to be placed on a classic 8×8 chessboard, so that 4 are on white boxes and 4 on black boxes, without any pair of towers on the same row or column. How many ways can this be done?
+
+**Answer:** 0736
+[[src_archimede_2025_squadre_finale__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Semifinale A — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_semifinale_a__Q04
 parent: src_cesenatico_2012_semifinale_a
 competition: Gara a Squadre Cesenatico 2012 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma esponenti di 2 in n! per n=1..63*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1824
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Sum of exponents of 2 in n! for n=1.63*
+
+> The Matrix actually the world as we know it has been over for a while. According to Zion's archives, in the actual year 2004, many generations ago, a computer network called Skynet became self-aware and enslaved mankind. Skynet was made up of 63 servers, numbered 1 to 63, each of which ran a number of virtual machines equal to the maximum exponent of a power of 2 dividing the factor of the number that marks it. How many virtual machines are there on Skynet?
+
+**Answer:** 1824
+[[src_cesenatico_2012_semifinale_a__Q04]]

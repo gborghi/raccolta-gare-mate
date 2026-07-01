@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2021 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2021__Q25
 parent: src_smc_2021
 competition: Senior Mathematical Challenge 2021
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Five line segments of lengths 2, 2, 2, 1, 3 connect two corners of a square; find the shaded area.*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Cinque segmenti di linea di lunghezza 2, 2, 2, 1, 3 collegano due angoli di un quadrato; trovare l'area ombreggiata.*
+
+> Cinque segmenti di linea di lunghezza $2$, $2$, $2$, $1$ e $3$ collegano due angoli di un quadrato come mostrato nel diagramma. Che cos'è la zona ombrosa?
+>
+> - **(A)** 8
+> - **(B)** 9
+> - **(C)** 10
+> - **(D)** 11
+> - **(E)** 12
+
+![[src_smc_2021__Q25.png]]
+
+**Risposta:** B
+[[src_smc_2021__Q25]]

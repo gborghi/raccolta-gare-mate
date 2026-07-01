@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2006-07 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2006-07_round1__Q03
 parent: src_bmo_2006-07_round1
 competition: British Mathematical Olympiad 2006-07 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the unique 9-digit pandigital number with n-divisibility property*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 381654729
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ugZu072aPo_kDs0qIoR8ADSZWmd255op/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il numero unico a 9 cifre con proprietà di divisibilità n*
+
+> Il numero $3816547290$ è l'unico intero positivo con dieci cifre (usando ciascuna cifra esattamente una volta) in modo tale che i primi cifre $n$ formino un numero divisibile da $n$ per ciascuna $n = 1, 2, \ldots, 10$.
+> 
+> Trovare l'unico intero positivo a 9 cifre (usando ciascuno dei cifre $1$ a $9$ esattamente una volta) in modo tale che i primi cifre $n$ formino un numero divisibile da $n$ per ciascuna $n = 1, 2, \ldots, 9$.
+
+**Risposta:** 381654729
+[[src_bmo_2006-07_round1__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2025_femminile__Q06
 parent: src_squadre_2025_femminile
 competition: Gara a Squadre Femminile 2025 - VIII Finale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo mosse per forzare triangolo equilatero monocromatico*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum movements to force a monochromatic equilateral triangle< MSK1/>
+
+> For the first time ever, Phineas and Ferb decide not to do anything. But Candace suspects something and, worried about losing her spy job, decides to provoke her brothers. Phineas challenges Candace to a game. It takes an infinite tessellation covering the plane made of congruent equilateral triangles. With each move, Phineas chooses a vertex of a triangle and Candace can decide whether to color it red or blue. Phineas wins the game if he can color the same three points of the plane that are vertices of any equilateral triangle. Ferb's already calculated that it won't take many moves. What's the minimum number of moves Phineas will need, assuming Candace plays the smartest way possible to keep him from winning?
+
+**Answer:** 7
+[[src_squadre_2025_femminile__Q06]]

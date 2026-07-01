@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2006 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo4q__Q10
 parent: src_jjmo4q
 competition: Japan Junior Mathematical Olympiad 2006
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer solutions of x²+xy+y²+3x+3y+6=0 with x=1 excluded; then all integer pairs*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le soluzioni integrali di x2+xy+y2+3x+3y+6=0 con x=1 escluso; quindi tutte le coppie di numeri integrali*
+
+> Considera l'equazione $$x^2 + xy + y^2 + 3x + 3y + 6 = 0. \quad (*)$$ (1) Trova tutte le coppie di integri $(x, y)$ che soddisfano $(*)$ con $x = 1$.
+> 
+> (2) Trova tutte le coppie di integri $(x, y)$ che soddisfano $(*)$.
+
+[[src_jjmo4q__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_pubblico__Q14
 parent: src_gas_2009_pubblico
 competition: Gara a Squadre 2009 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di indossare 9 anelli su 8 dita con ordine*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7200
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How to wear 9 rings on 8 fingers in order*
+
+> Nine to mortal men [50] The evil Tauron, blinded by the desire for power, tells the story of how he can wear the 9 rings of the Nazgul on the 8 surviving fingers of his hands. In each of these ways, he notes how many and which rings go on which finger and in which order. How many different ways will it count? (If the quantity requested is an integer greater than 9999, please provide the last 4 digits as a result.)
+
+**Answer:** 7200
+[[src_gas_2009_pubblico__Q14]]

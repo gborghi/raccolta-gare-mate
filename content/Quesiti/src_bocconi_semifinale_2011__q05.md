@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2011 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2011__Q05
 parent: src_bocconi_semifinale_2011
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2011
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Disporre le cifre 1,2,3,4 nell'espressione per ottenere il minimo risultato.*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $(13 - 4) \times 2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*To have the digits 1,2,3,4 in the expression for the minimum result.*
+
+> Place all the digits 1,2,3,4 in the boxes in the figure to get the smallest possible result. The figure is < MSK0/>.
+
+![[src_bocconi_semifinale_2011__Q05.png]]
+
+**Answer:** $(13 - 4) \times 2$
+[[src_bocconi_semifinale_2011__Q05]]

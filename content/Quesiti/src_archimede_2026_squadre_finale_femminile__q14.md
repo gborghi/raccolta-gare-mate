@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2026 - IX Finale Nazionale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_finale_femminile__Q14
 parent: src_archimede_2026_squadre_finale_femminile
 competition: Gara a Squadre Femminile 2026 - IX Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza BN tra due circonferenze in quadrato*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 240
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BDM_3vkmzSSjfi0NVQAJMuxX1tkIqrU3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance BN between two square circumferences*
+
+> ROSS DEATH (Michelangelo Sabatini) Making peace with Astrid, as they fly into a cloud they are surrounded by other dragons carrying food. Dentato is forced to follow them and so the two arrive by chance at the Dragon's Nest, where they discover that all the food stolen from the village is used to feed a giant dragon called the Red Death. If you manage to escape, Astrid will memorize the nest's location. By imagining the sea area as an ABCD square , both E and the midpoint of the CD side . The circumference of centre E passing through D and centre B passing through C shall be 1 and 2  respectively . Whether N is the intersection, different from C, between 1 and 2. Astrid estimates that the distance of N from AD is 48 km What is the distance in km between Berk (B) and Nido (N) in the airline?
+
+**Answer:** 240
+[[src_archimede_2026_squadre_finale_femminile__Q14]]

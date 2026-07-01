@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Student 2023 — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_student__Q28
 parent: src_kangourou_2023_student
 competition: Kangourou Categoria Student 2023
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero nell'esagono col punto interrogativo, somma costante*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1C5VyzLlYbYpvgylYYniBbXWn7bHbyluF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number in the hexagon with the question mark, constant sum*
+
+![[src_kangourou_2023_student__prob28.png]]
+
+> In each of the hexagons in the figure, an integer between 1 and 11 must be placed so that all these integers are used and do not vary, as the black ball varies, the sum of the numbers in the hexagons surrounding the ball itself. Three of the numbers have already been placed. What number should appear in the box with the question mark? A) 1
+> 	
+> B) 3
+> 	
+> C) 5
+> 	
+> D) 7
+> 	
+> E) 9
+
+**Answer:** E
+[[src_kangourou_2023_student__Q28]]

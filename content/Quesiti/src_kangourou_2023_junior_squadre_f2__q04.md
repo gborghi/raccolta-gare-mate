@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Junior Finale 2 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior_squadre_f2__Q04
 parent: src_kangourou_2023_junior_squadre_f2
 competition: Kangourou Squadre 2023 Junior Finale 2
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza max-min allineamenti 4 cifre*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3996
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tJhUeZWyxQiaHTH68KnuG5-EjCv3UAtj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Max-min difference alignments of 4 digits< MSK1/>
+
+> By adding up the figures, the alignment 222222222211111111 is composed of ten digits 2 followed by as many digits 1. We pick a pair of adjacent numbers and we replace their sum with it. We get a 19-digit alignment, like 222222231111111 or 24222222211111111. We perform this operation from time to time on every alignment we get, with the restriction that the pair of digits we operate on provides a single digit sum, thus reducing the number of digits of the alignment by 1 at a time. What's the difference between the largest and the smallest of the numbers represented by the four-digit alignments that we can get?
+
+**Answer:** 3996
+[[src_kangourou_2023_junior_squadre_f2__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Finale nazionale Student — Quesito S4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_finale__QS4
 parent: src_kangourou_2019_student_finale
 competition: Kangourou 2019 Finale nazionale Student
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Criterio per divisibilita per 11 di 5^a+4^b+3^c*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1D8NG3hLaa9Vf5y84c4pkt9zX69fmrpor/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Criterion for divisibility by 11 of 5^a+4^b+3^c*
+
+> Indicate a quick, pen-and-paper determination criterion when the number $5^a + 4^b + 3^c$, when $a$, $b$ and $c$ are non-negative integers, is divisible by 11.
+
+[[src_kangourou_2019_student_finale__QS4]]

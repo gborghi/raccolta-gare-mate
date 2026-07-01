@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2011_n1_f1__Q04
 parent: src_obm_2011_n1_f1
 competition: Olimpíada Brasileira de Matemática 2011 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count of dates with equal day, month, last two digits of year*
 
@@ -49,3 +52,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12mQ7TJI0TxLmZYJuojF8BT-ynTTLUKaw/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio di date con giorno, mese, ultime due cifre dell'anno *
+
+> Una data bella si verifica quando, scritta come $11/11/11$, il mese, il giorno e le ultime due cifre dell'anno sono tutte uguali. Lo scorso anno, questo modello si è verificato su < MSK1/>. Quanti giorni ci sono da $10/10/10$ a $11/11/11$, compresi sia $10/10/10$ che $11/11/11$?
+> 
+> (A) 396 \quad (B) 398 \quad (C) 400 \quad (D) 402 \quad (E) 404
+
+**Risposta:** D
+[[src_obm_2011_n1_f1__Q04]]

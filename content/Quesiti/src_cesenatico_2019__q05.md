@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2019__Q05
 parent: src_cesenatico_2019
 competition: Olimpiade Italiana (Cesenatico) 2019 - testi e soluzioni
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *AX perpendicolare a XC*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tALD9ox6PV_bcTM7kKmhdk2njm2QACPl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AX perpendicular to XC*
+
+> Let ABC be a triangle with an acute angle. Let D be the foot of the inner vertex from A and M the midpoint of AD. In addition, X is a point on the BM segment such that \MXA = \DAC. Demonstrate that AX is perpendicular to XC.
+
+[[src_cesenatico_2019__Q05]]

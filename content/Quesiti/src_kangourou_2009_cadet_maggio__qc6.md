@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Cadet finale nazionale (Mirabilandia) — Quesito C6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_cadet_maggio__QC6
 parent: src_kangourou_2009_cadet_maggio
 competition: Kangourou 2009 - Cadet finale nazionale (Mirabilandia)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimi vertici rossi con distanze tutte diverse (21-agono)*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17j6HblxyyU68mGSCy1p5rhbmFO-BkmXr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum red vertices with all different distances (21 axis) < MSK1/>
+
+> Consider a regular polygon of < MSK0/> sides. You want to color some vertices red so that, however you choose two pairs of vertices both red, the distance between the vertices of one pair is different from that between the vertices of the other. How many vertices can you color?
+
+**Answer:** 5
+[[src_kangourou_2009_cadet_maggio__QC6]]

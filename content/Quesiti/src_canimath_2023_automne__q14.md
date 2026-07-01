@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2023 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2023_automne__Q14
 parent: src_canimath_2023_automne
 competition: Coupe Animath Automne 2023
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangle ABCD, M midpoint of CD; a line parallel to AB meets AD, AM, BM, BC at P, Q, R, S; line DR meets AM at X and BC at Y; given DX=6, XR=4, find RY*
 
@@ -46,3 +49,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rectangle ABCD, M punto medio del CD; una linea parallela a AB incontra AD, AM, BM, BC a P, Q, R, S; la linea DR incontra AM a X e BC a Y; data DX=6, XR=4, trovi RY*
+
+> $ABCD$ sia un rettangolo e $M$ il punto medio del segmento $[CD]$. Una linea parallela a $(AB)$ incontra i segmenti $[AD]$, $[AM]$, $[BM]$, $[BC]$ rispettivamente nei punti $P$, $Q$, $R$ e $S$. La linea $(DR)$ incontra il segmento $[AM]$ a $X$ e il segmento $[BC]$ a $Y$. Se $DX = 6$ e $XR = 4$, quale è la lunghezza del segmento $[RY]$?
+
+[[src_canimath_2023_automne__Q14]]

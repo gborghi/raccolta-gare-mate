@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f1__Q18
 parent: src_obm_2016_n2_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest square root of product of rectangle dimensions, perimeter 58*
 
@@ -48,3 +51,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La radice quadrata più piccola del prodotto delle dimensioni rettangolari, perimetro 58*
+
+> $x$ e $y$ siano le dimensioni del rettangolo e $n$ il lato del quadrato. Da $2x+2y=58$, $x+y=29$. Supponendo $x\le y$, le dimensioni possibili sono $(x,y)\in\{(1,28),(2,27),(3,26),\dots,(14,15)\}$. Di questi, solo $(4,25)$ ha prodotto un quadrato perfetto, quindi $n=\sqrt{4\cdot 25}=10$. Qual è il valore di < MSK9/>? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+
+**Risposta:** C
+[[src_obm_2016_n2_f1__Q18]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2015 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2015__Q03
 parent: src_bocconi_autunno_2015
 competition: Giochi d'Autunno 2015
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Percorsi per leggere MATHS nella figura*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eK88JMTv896JXMMmFL1S8lYcD_i95Nzi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Tracks to read MATHS in Figure < MSK1/>
+
+> Anyways, math! How many different paths can you take to read the word "MATHS" in the figure? (Count also the route already traced)
+
+![[src_bocconi_autunno_2015__Q03.png]]
+
+**Answer:** 6
+[[src_bocconi_autunno_2015__Q03]]

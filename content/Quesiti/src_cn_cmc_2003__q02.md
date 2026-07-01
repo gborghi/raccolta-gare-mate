@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2003 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2003__Q02
 parent: src_cn_cmc_2003
 competition: China Mathematical Competition 2003
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Identify the type of graph of a line and a conic section given parameter conditions.*
 
@@ -47,3 +50,16 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Identificare il tipo di grafico di una linea e di una sezione conica date le condizioni di parametro.*
+
+> Supponiamo $a, b \in \mathbf{R}$, dove $ab \neq 0$. Poi il grafico della linea retta $ax - y + b = 0$ e il grafico della sezione conica $ax^2 + ay^2 = ab$ è ( ).
+
+![[src_cn_cmc_2003__Q02.png]]
+
+**Risposta:** (B)
+[[src_cn_cmc_2003__Q02]]

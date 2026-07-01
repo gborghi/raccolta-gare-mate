@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2012 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2012__Q10
 parent: src_bocconi_autunno_2012
 competition: Giochi d'Autunno 2012
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti quadrati visibili in griglia 64 caselle*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 204
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NV-k_HLPNGANyAIvy1osIKx3v70VuvCV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many squares are visible in the grid 64 boxes*
+
+> How many squares can you see in this grid of 64 boxes?
+
+![[src_bocconi_autunno_2012__Q10.png]]
+
+**Answer:** 204
+[[src_bocconi_autunno_2012__Q10]]

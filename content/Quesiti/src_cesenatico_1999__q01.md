@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Cesenatico 1999 — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_1999__Q01
 parent: src_cesenatico_1999
 competition: Gara Nazionale Cesenatico 1999
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area triangolo sovrapposizione piegando lungo diagonale*
 
@@ -38,3 +41,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xiVBBYZkZtqAHB0eYNM1QTJV2D_9fS-1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area triangle overlay by folding diagonal length*
+
+![[src_cesenatico_1999__prob1.png]]
+
+> Given a rectangular sheet of $a$ and $b$ sides, with $a > b$, determine the area of the triangle resulting from the overlap of the two sides obtained by folding the sheet along a diagonal (the triangle coloured in grey in the figure). (see figure)
+
+[[src_cesenatico_1999__Q01]]

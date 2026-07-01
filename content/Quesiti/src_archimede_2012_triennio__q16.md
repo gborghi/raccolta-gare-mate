@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Triennio — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_triennio__Q16
 parent: src_archimede_2012_triennio
 competition: Giochi di Archimede 2012 - Triennio
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori di k con soluzione intera di x^10+kx^2+4=0*
 
@@ -54,3 +57,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Values of k with full solution of x^10+kx^2+4=0< MSK1/>
+
+> The answer is B. Let's show with n the whole solution of the equation x10 + kx2 + 4 = 0; we observe that n = 0 otherwise the equation is not verified. We can write: n10 + kn2 + 4 = 0 k = −n8 −4 n2 . So, since k is integer and n8 is integer, 4 n2 is integer, and so n2 divides 4 and so it can only be n = ±1, n = ±2. In the first case we have k = −5 and in the second case k = −28 −1. k can only take two values. [Problem proposed by Mr P. I'm going to tell you something.
+
+**Answer:** B
+[[src_archimede_2012_triennio__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Benjamin — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_benjamin__Q20
 parent: src_kangourou_2013_benjamin
 competition: Kangourou 2013 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Immagine vista di fronte dell'edificio di cubetti*
 
@@ -70,3 +73,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1EZWURspCBj5Tc4Nbo19uvEsbydx_BSWm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Image seen in front of the building of cubes*
+
+![[src_kangourou_2013_benjamin__prob20.png]]
+
+> John built a square-plan building using cubes all equal to each other. For each cell in the base square, the figure indicates how many cubes the tower rises above that cell is made of. The figure also indicates what the front and rear of the building are in relation to this pattern. Looking at the building in front of you, what's the picture? A)
+>                     	
+> B)
+>                       	
+> C) D)
+>                     	
+> E) 3 4 2 3 2 3 3 1 2 2 1 3 1 1 2 1 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 2 1 1 1 1 1 1 1 1 2 1 1 2 1 2 1 1 1 1 1 2 1 1 1 2 2 1 2 2 2 2 2 2 3 3 3 1 2 2 1 2 1 2 1 2 3 3 1 2 2 3 3 3 3 3 1 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+> 
+> The questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** E
+[[src_kangourou_2013_benjamin__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q05
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre in due addizioni di numeri a due cifre*
 
@@ -54,3 +57,17 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Cifters in two additions of two-digit numbers*
+
+> The figure outlines two additions in which the additions are two-digit positive integers. Each letter denotes a number and different letters denote different numbers. What is the result of the right addition? A) 79
+> 	
+> B) 158 C) 869 D) 1418 E) 7979 A B + C D 7 9 A D + C D + A B + C B ? = =
+>
+
+**Answer:** B
+[[src_kangourou_2020_junior_marzo__Q05]]

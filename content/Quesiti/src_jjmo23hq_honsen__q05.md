@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2025 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo23hq_honsen__Q05
 parent: src_jjmo23hq_honsen
 competition: Japan Junior Mathematical Olympiad 2025 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *At least m² ordered triples (i,s,t) with s≤t across cyclic sheets*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19vi3nVIVUo2o9eKwSqYkHbpBfPtGDN5B/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Almeno m2 di triplice ordinate (i,s,t) con s≤t attraverso fogli ciclici*
+
+> Che $m$ sia un intero positivo e $n$ un intero con $n \ge 2$. Ci sono fogli di carta $n$ etichettati $1, 2, \ldots, n$; su ogni foglio sono scritti $m$ numeri reali distinti. (Lo stesso numero reale può apparire su diversi fogli.) Prove che ci sono almeno $m^2$ triples $(i, s, t)$, dove $i$ è un numero intero e $s$, $t$ sono numeri reali, che soddisfano tutte le seguenti condizioni:
+> 
+> \inbegin{itemize} \item $1 \le i \le n$. L'articolo $s$ è scritto sulla scheda $i$ e $t$ è scritto sulla scheda $i + 1$. Il punto $s \le t$. # Finire #
+> 
+> Qui, la scheda $n + 1$ si riferisce alla scheda $1$.
+
+[[src_jjmo23hq_honsen__Q05]]

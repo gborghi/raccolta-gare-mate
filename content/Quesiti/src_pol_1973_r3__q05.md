@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1973 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1973_r3__Q05
 parent: src_pol_1973_r3
 competition: Olimpiade Matematica Polacca 1973 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Every positive rational m/s is a sum of distinct positive integers' reciprocals*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qxf9IfIyodX4dvRWXQZSx2BaEEy5z1l/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ogni m/s razionale positivo è la somma delle reciprocità di interi numeri positivi distinti*
+
+> Prova che ogni numero razionale positivo $m/s$ può essere rappresentato come somma di reciprocità di diversi interi positivi.
+
+[[src_pol_1973_r3__Q05]]

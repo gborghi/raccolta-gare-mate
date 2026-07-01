@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f3__Q01
 parent: src_obm_2015_n1_f3
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count cubes in cubic frames (skeletons); find special frame size*
 
@@ -54,3 +57,21 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A4n9VY8yk1SWcaPg0PlLbiBARNe-p_1v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i cubetti in quadri cubici (skeletoni); trovare una dimensione speciale del quadro*
+
+> Zuleica incolla cubetti di polistirolo uguali per costruire "scheletri" di cubetti (quadro cubico), come nell'esempio mostrato nella figura.
+> 
+> a) Quanti cubetti usò per costruire lo scheletro mostrato nella figura?
+> 
+> b) Se vuole completare il cubo più grande che contiene lo scheletro, riempendo tutti gli spazi vuoti e continuando a costruire lo scheletro, quanti cubhi in totale avrà bisogno? Quanti cubetti aggiuntivi dovrà usare?
+> 
+> c) Esiste un cubo il cui scheletro, una volta costruito, richiede un numero di cubetti uguale al numero di cubetti necessari per riempire gli spazi vuoti di quel scheletro. Se Zuleica vuole costruire lo scheletro di questo cubo, quanti cubhi avrà bisogno di usare?
+
+![[src_obm_2015_n1_f3__Q01.png]]
+
+[[src_obm_2015_n1_f3__Q01]]

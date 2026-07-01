@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2018__Q01
 parent: src_cesenatico_2018
 competition: Olimpiade Italiana (Cesenatico) 2018 - testi
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *altezza della bottiglia*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1+sqrt(85)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fy9Va9QicHHzBeW4fO7hA8uL1tF3cN1L/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>height of the bottle< MSK1/>
+
+> A cone-shaped bottle rests on its base. It is filled with water until the level of the liquid reaches 8 centimetres measured vertically below the top of the cone. Now, if you turn the bottle around, without changing the amount of water inside, the space left empty at the top of the reversed cone is 2 centimeters high. How high is the bottle?
+
+**Answer:** 1+sqrt(85)
+[[src_cesenatico_2018__Q01]]

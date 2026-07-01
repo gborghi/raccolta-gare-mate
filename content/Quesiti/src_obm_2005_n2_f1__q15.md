@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q15
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Locksmith welds equal S-shaped pieces (10,5,5,10 cm) using 20 m of rod; which drawing is the panel's end*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Saldi di serratore uguali a pezzi a forma di S (10,5,5,10 cm) utilizzando 20 m di bastone; il cui disegno è l'estremità del pannello*
+
+> Un serratore salda le barre di metallo per produrre pezzi uguali che saranno uniti per formare il pannello di sotto. Il disegno laterale mostra le misurazioni, in centimetri, di uno di questi pezzi (forma S/zigzag con segmenti $10$, $5$, $5$, $10$). Il serratore utilizza esattamente < MSK4/> metri di bastone per svolgere il suo lavoro. Quale dei disegni di seguito rappresenta la fine del pannello? (Le opzioni A-E sono disegni.)
+
+![[src_obm_2005_n2_f1__Q15.png]]
+
+[[src_obm_2005_n2_f1__Q15]]

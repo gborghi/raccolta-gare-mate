@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r3__Q02
 parent: src_pol_1993_r3
 competition: Olimpiade Matematica Polacca 1993 — Round 3
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inscribed circle in a trapezoid; prove DE=FC iff AB=2CD.*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ozjMAbDlKBC3LLKmoYwAq8Nm_A0MkSaK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo inscritto in un trapezoide; prova DE=FC se AB=2CD.*
+
+> Un cerchio $k$ con centro $O$ è inserito in un trapezoide non-isosceles $ABCD$ con base più lunga $AB$. $M$ sia il punto medio di $AB$. La linea $CD$ tocca $k$ al punto $E$ e interseca la linea $OM$ al punto $F$. Prove che $DE = FC$ se e solo se $AB = 2CD$.
+
+[[src_pol_1993_r3__Q02]]

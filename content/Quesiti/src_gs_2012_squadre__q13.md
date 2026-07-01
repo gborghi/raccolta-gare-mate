@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q13
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio diretto somma*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0029
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Direct sum count*
+
+> Gongolo has a copy of each of the five regular solids in front of him. Looking at them one by one, you imagine how to trace, in each of them, all the longest segments possible. How many of these segments are there in total?
+
+**Answer:** 0029
+[[src_gs_2012_squadre__Q13]]

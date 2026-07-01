@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q19
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo carte per 3 con stessa somma cifre*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum cards for 3 with the same sum of digits*
+
+> In a box there are 900 cards numbered from 100 to 999 (each number on one and one card only). Francesca fishes the cards and, for each one, calculates the sum of the numbers shown on the card. What is the minimum number of cards you need to fish to make sure you have at least 3 cards for which the sum of the digits is the same? A) 51
+> 	
+> B) 52
+> 	
+> C) 53
+> 	
+> D) 54
+> 	
+> E) 55
+
+**Answer:** C
+[[src_kangourou_2013_student__Q19]]

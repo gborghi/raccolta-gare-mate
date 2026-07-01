@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q29
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prossimo mese con data sorprendente (otto cifre distinte)*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Next month with a surprising date (eight digits apart)
+
+> A date may be written as GG.MM.AAAA: e.g. The date today is 17.03.2016. Let's say it's a "surprising" date if the eight digits that appear in it are two to two distinct. What month will the next "surprising" date fall? (a) March (b) June (c) July (d) August (e) December
+
+**Answer:** B
+[[src_kangourou_2016_junior_marzo__Q29]]

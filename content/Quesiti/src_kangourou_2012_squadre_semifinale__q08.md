@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre semifinale turno A — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_semifinale__Q08
 parent: src_kangourou_2012_squadre_semifinale
 competition: Kangourou 2012 squadre semifinale turno A
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Velocita necessaria a Giulia nei restanti km*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 26
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jWvO_7IjC7nzhpSM0RUGkconfBzpdWG8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Speed needed in Giulia in the remaining km< MSK1/>
+
+> Giulia wants to ride a bicycle from a friend who is 18 km away from her. They agreed on the time of the visit by telephone, assuming that Julia would take an hour to make the trip. The first 5 km of the road, however, are in a slight climb and, after having traveled them, Giulia realizes that she has pedalled at an average speed of only 10 km/h. If you do not want to be late and if you want to keep a constant speed for the remaining kilometres, how many kilometres per hour must this speed be?
+
+**Answer:** 26
+[[src_kangourou_2012_squadre_semifinale__Q08]]

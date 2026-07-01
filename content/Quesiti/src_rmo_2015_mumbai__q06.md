@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Mumbai — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_mumbai__Q06
 parent: src_rmo_2015_mumbai
 competition: Regional Mathematical Olympiad 2015
@@ -34,6 +35,8 @@ tags:
   - regione/mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum over ordered triples of subsets whose union is S; find in terms of n*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aKO7__cJlTFnDSJpRW04wWyB2aJzzbY3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa dei tripli ordinati di sottoinsiemi la cui unione è S; trovare in termini di n*
+
+> $S = \{1, 2, \ldots, n\}$ e $T$ siano l'insieme di tutti i triples ordinati dei sottoinsiemi di $S$, ad esempio $(A_1, A_2, A_3)$, in modo tale che $A_1 \cup A_2 \cup A_3 = S$. Determinare, in termini di $n$, $$\sum_{(A_1,A_2,A_3)\in T} |A_1 \cap A_2 \cap A_3|$$ dove $|X|$ indica il numero di elementi nell'insieme $X$.
+
+[[src_rmo_2015_mumbai__Q06]]

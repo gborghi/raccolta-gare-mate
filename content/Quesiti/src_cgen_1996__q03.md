@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1996 — Matematica — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1996__Q03
 parent: src_cgen_1996
 competition: Concours Général des Lycées 1996 — Matematica
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Rectangular parallelepiped, tetrahedra with right-triangle faces, and isosceles tetrahedra*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17EWEElTie5u7XVQmqQ-04NIFHkPo7Bvo/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Parallepiped rettangolari, tetraedri con facce triangolari rettangolari e tetraedri a stampo uguale*
+
+> 1. Il $ABCDEFGH$ deve essere un parallelepiped rectangulare (cuboide). Mostrate che si possono scegliere quattro dei suoi vertici in modo tale che le quattro facce del tetraedro risultante siano triangoli rettangolari.
+> 
+> 2. Al contrario, mostrare che ogni tetraedro le cui quattro facce sono triangoli rettangolari può essere ottenuto scegliendo quattro vertici di un parallelepiped rettangolare.
+> 
+> 3. Tra i tetraedri che hanno anche almeno due facce isosceles, trovate quelli le cui lunghezze facciali (come funzione della lunghezza laterale $a$ del bordo più piccolo) riducono al minimo il bordo più grande.
+
+[[src_cgen_1996__Q03]]

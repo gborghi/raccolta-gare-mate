@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f3__Q04
 parent: src_obm_2012_n1_f3
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3
@@ -39,6 +40,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A wooden cube of edge 7 cm is sawn into four rectangular blocks by cuts parallel to its faces; given total surface areas 136, 46, 94 of three blocks, find the cube's surface area and the fourth block's surface area.*
 
@@ -57,3 +60,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zhcaRFthPAOn7E_8dttKk0jNO8fP8yfZ/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un cubo di legno di borda di 7 cm viene tagliato in quattro blocchi rettangolari mediante tagli paralleli alle sue facce; data la superficie totale di 136, 46, 94 di tre blocchi, si trova la superficie del cubo e la superficie del quarto blocco.*
+
+> Beto tagliava un cubo di legno di margine $7$ cm in quattro blocchi rettangolari mediante tagli paralleli alle sue facce. I numeri della figura indicano, in cm$^2$, la superficie totale di tre dei blocchi ($136$, $46$ e $94$).
+> 
+> a) Qual era la superficie totale del cubo prima di essere taglio?
+> 
+> b) Qual è la superficie totale del quarto blocco rettangolare?
+
+![[src_obm_2012_n1_f3__Q04.png]]
+
+[[src_obm_2012_n1_f3__Q04]]

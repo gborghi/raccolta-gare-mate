@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2006 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2006_r3__Q04
 parent: src_pol_2006_r3
 competition: Olimpiade Matematica Polacca 2006 — Round 3
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given an operation replacing two numbers by their sum and product, decide if from (3,4,5) one can reach the sides of a right triangle.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Gb-ql6_Ggztexxno6TomZay4IG7dvmgE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dato un'operazione che sostituisce due numeri con la loro somma e il loro prodotto, decidere se da (3,4,5) si può raggiungere i lati di un triangolo rettangolo.*
+
+> La seguente operazione viene eseguita su un triplo di numeri. Due dei numeri vengono scelti e sostituiti dalla loro somma e dal loro prodotto, mentre il terzo numero resta invariato. Decidi se, partendo dal triplo $(3, 4, 5)$ e eseguendo finitamente molte di queste operazioni, possiamo ottenere un altro triplo di numeri che sono le lunghezze laterali di un triangolo rettangolo.
+
+[[src_pol_2006_r3__Q04]]

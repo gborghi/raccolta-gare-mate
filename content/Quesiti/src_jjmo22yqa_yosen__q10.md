@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo22yqa_yosen__Q10
 parent: src_jjmo22yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2024 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find AB given triangle ABC with BC=16, D,E on BC, DF parallel AC, EF parallel AB, F on circumcircle, circumcircle of DEF tangent to AB*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $3 + 3\sqrt{15}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MpOoffmNfAlSJnrNvYxGLF27kPgwbEmW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca AB in un triangolo dato ABC con BC=16, D,E su BC, DF parallelo AC, EF parallelo AB, F su circolo, circolo di DEF tangente a AB*
+
+> Nel triangolo $ABC$ con $BC = 16$, i punti $D$ e $E$ si trovano sul lato $BC$ con $BD = 1$ e $EC = 7$. Il $F$ è l'intersezione della linea attraverso $D$ parallela a $AC$ e la linea attraverso $E$ parallela a $AB$. È dato che $F$ si trova sul circoncircolo del triangolo $ABC$. Quando il circoncircolo del triangolo $DEF$ è tangente a lato $AB$, si trova la lunghezza $AB$. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+**Risposta:** 3 + 3\sqrt{15}
+[[src_jjmo22yqa_yosen__Q10]]

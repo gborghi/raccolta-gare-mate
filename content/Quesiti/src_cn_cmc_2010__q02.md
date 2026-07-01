@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2010 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2010__Q02
 parent: src_cn_cmc_2010
 competition: China Mathematical Competition 2010
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Range of parameter a so that a trigonometric expression has minimum -3*
 
@@ -45,3 +48,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rango di parametro a in modo che un'espressione trigonometrica abbia un minimo -3*
+
+> Il minimo di $y = (a\cos^2 x - 3)\sin x$ è $-3$. Quindi l'intervallo del numero reale $a$ è ________.
+
+**Risposta:** $-\frac{3}{2} \le a \le 12$
+[[src_cn_cmc_2010__Q02]]

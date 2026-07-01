@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2020 - testi — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2020__Q06
 parent: src_cesenatico_2020
 competition: Olimpiade Italiana (Cesenatico) 2020 - testi
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero configurazioni compatibili*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gylN-2GSxpemPcbzJfcfMtzLwdIYnXYe/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*number of compatible configurations*
+
+> In each box of a table 8 × 8 there is a knight or a cunning man. As is customary, knights always tell the truth, while crooks always lie. All the people in the table say that  the number of thieves in my column is more (strictly) than the number of thieves in my row. Determine how many possible configurations are compatible with this statement.
+
+[[src_cesenatico_2020__Q06]]

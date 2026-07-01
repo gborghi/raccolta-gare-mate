@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo23yq_yosen__Q06
 parent: src_jmo23yq_yosen
 competition: Japan Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distribute 24 each of two candies among 3 people avoiding a condition*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 14017
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dMCin6mfKEWYPJJU3SDEXt5-U6UwypUB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Distribuire 24 cioccolatini a 3 persone evitando una condizione
+
+> Ci sono due tipi di caramelle, $A$ e $B$, con $24$ pezzi di ciascuna. Distribuiamo tutto questo tra tre persone senza rimanere nessuna. Tra tali distribuzioni, quante ci sono per le quali NON esistono due persone che soddisfino la seguente condizione? Condizione: una delle due persone riceve $a$ pezzi di $A$ e $b$ pezzi di $B$, l'altra riceve $a'$ pezzi di $A$ e $b'$ pezzi di $B$, e entrambe $a \le a'$ e $b \le b'$ sono tenute.
+
+**Risposta:** 14017
+[[src_jmo23yq_yosen__Q06]]

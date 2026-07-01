@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q25
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC with equilateral triangles ACD and AEB; find BD/FG ratio*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo ABC con triangoli equilaterali ACD e AEB; trovare rapporto BD/FG*
+
+> Nella figura, $ABC$ è un triangolo arbitrario, e $ACD$ e $AEB$ sono triangoli equilaterali. $F$ e $G$ sono i punti di mezzo di $EA$ e $AC$ rispettivamente. Il rapporto $\dfrac{BD}{FG}$ è:
+> 
+> **A) ** $\dfrac{1}{2}$ \quad **B) ** $1$ \quad **C) ** $\dfrac{3}{2}$ \quad **D) ** $2$ \quad **E) ** Dipende dalle lunghezze laterali di $ABC$.
+
+![[src_obm_2006_n2_f1__Q25.png]]
+
+**Risposta:** D
+[[src_obm_2006_n2_f1__Q25]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q11
 parent: src_kangourou_2019_junior_marzo
 competition: Kangourou 2019 Gara marzo Junior (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Misura angolo CBE quadrato e triangolo equilatero*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Measurement of CBE square angle and equilateral triangle
+
+> The vertices of a square are, clockwise, A, B, C and D. The vertices of an equilateral triangle are, in a clockwise direction, A, B and C, where A and C are the same vertices as the square. What is the measure in degrees of the angle CBE ? A) 30
+> 	
+> B) 45
+> 	
+> C) 135 D) 145 E) 150
+
+**Answer:** C
+[[src_kangourou_2019_junior_marzo__Q11]]

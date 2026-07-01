@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n2_f1__Q08
 parent: src_obm_2010_n2_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-digit integers with no digit equal to 2,5,7,8*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/100hFanZKpXTxtjl-MBIurjDOVcIR8xXY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i numeri interi a 3 cifre senza cifra pari a 2,5,7,8*
+
+> Quanti numeri interi nell'elenco $100, 101, 102, \ldots, 999$ non hanno numeri uguali a $2$, $5$, $7$ o $8$?
+>
+> - **(A)** $160$
+> - **(B)** $170$
+> - **(C)** $180$
+> - **(D)** $190$
+> - **(E)** $200$
+
+**Risposta:** C
+[[src_obm_2010_n2_f1__Q08]]

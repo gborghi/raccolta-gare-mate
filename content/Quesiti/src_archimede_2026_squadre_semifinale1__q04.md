@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_semifinale1__Q04
 parent: src_archimede_2026_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2026 - Semifinale 1
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Destinazioni da cui tornare a scuola con regole passaggi*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0037
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Destinations from which to return to school with step rules
+
+> Gaia Fuselli's secret passages from the Higher Mathematical School, identified by the number 1, cover 100 secret passages (only passages) for as many destinations, numbered 0 and 2 to 100. The Perelman twins know them all and know that destinations 2 to 9 are close enough to the school to allow you to always go back; destination 0 is the dreaded Arctan prison, from which no one has ever left. The other targets follow different rules: if the number x of the destination is prime or ends with zero, there are no secret steps from it to other destinations; otherwise, given the number of units of x, from destination x c is a step to destination x −2u −2. How many destinations (including school) is it possible to return to school from, possibly using more than one secret passage?
+
+**Answer:** 0037
+[[src_archimede_2026_squadre_semifinale1__Q04]]

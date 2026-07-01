@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2018 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo16mq_honsen__Q03
 parent: src_jjmo16mq_honsen
 competition: Japan Junior Mathematical Olympiad 2018 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with concyclic quadrilateral; prove four associated points are concyclic*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18lLVvuAM_rCLtJyXJxWe8K1xxh4PWMHS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con quadrilaterali conciclici; dimostrare che quattro punti associati sono conciclici*
+
+> Che $\triangle ABC$ sia un triangolo con $AB \ne AC$. I punti $D$ e $E$ siano punti rispettivamente sui lati $AB$ e $AC$ (esclusi i punti finali) in modo tale che i quattro punti $B$, $C$, $D$ e $E$ si trovino su un cerchio comune. La linea $F$ deve essere l'intersezione della linea $DE$ e della linea $BC$. Il $G$ deve essere l'intersezione della linea $AF$ con il circoncircolo di $\triangle ABC$ diverso da $A$. $H$ sia un punto del segmento $DE$ e $I$ sia l'intersezione della linea $AH$ con il circoncircolo di $\triangle ABC$ diverso da $A$. Provare che i quattro punti $F$, $G$, $H$, $I$ sono conciclici. (Qui $XY$ indica la lunghezza del segmento $XY$.)
+
+[[src_jjmo16mq_honsen__Q03]]

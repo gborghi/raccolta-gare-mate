@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1969 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1969_r3__Q02
 parent: src_pol_1969_r3
 competition: Olimpiade Matematica Polacca 1969 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum of sum of absolute deviations from distinct real numbers*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RbcyYOsjDo8XEM7n0JSDDu_IhTzLThy_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la somma minima delle deviazioni assolute da numeri reali distinti*
+
+> Date i numeri reali $a_1, a_2, \ldots, a_n$ distinti, trovare il valore minimo della funzione $$y = |x - a_1| + |x - a_2| + \cdots + |x - a_n|, \quad x \in \mathbb{R}.$$
+
+[[src_pol_1969_r3__Q02]]

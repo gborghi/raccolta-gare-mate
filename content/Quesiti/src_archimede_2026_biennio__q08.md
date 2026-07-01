@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Biennio — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_biennio__Q08
 parent: src_archimede_2026_biennio
 competition: Giochi di Archimede 2026 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri dispari < 1000 con sole cifre 1,3,4,5,7*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Unusual numbers < 1000 with only digits 1,3,4,5,7*
+
+> Sofia is making a list of all natural numbers less than 1000 that can be written with the numbers 1, 3, 4, 5, 7 (also repeated). How many of these will be odd numbers?
+>
+> - **(A)** 108
+> - **(B)** 104
+> - **(C)** 112
+> - **(D)** 96
+> - **(E)** 124
+
+**Answer:** E
+[[src_archimede_2026_biennio__Q08]]

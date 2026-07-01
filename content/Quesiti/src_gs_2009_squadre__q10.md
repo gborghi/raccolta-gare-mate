@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2009 - Gara a squadre — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2009_squadre__Q10
 parent: src_gs_2009_squadre
 competition: Coppa Fermat 2009 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di trapezi in poligono di 33 vertici*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 3960
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VGtuMbYFZ06TTWn8tC1WdSSzjMeut787/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of trapezoid in the polygon of 33 vertices*
+
+> In the hall of Sirius Cybernetics Corporation, a decorative panel consists of a regular polygon of 33 sides inscribed in a circle. As an exercise, the Marvin robot controls all trapezoids (including parallelograms) that can be generated with 4 of the 33 vertices of the polygon. How many traps have you checked?
+
+**Answer:** 3960
+[[src_gs_2009_squadre__Q10]]

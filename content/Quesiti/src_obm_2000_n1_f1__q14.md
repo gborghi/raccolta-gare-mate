@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q14
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Emir Abdel Azir sons: multiples logic problem*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+I figli di Emir Abdel Azir: problema di logica multipla
+
+> Emir Abdel Aziz era famoso per avere molti figli. Ha avuto più di < MSK0/> figli, tra cui gemelli. Infatti, lo storico Ahmed Aab afferma in due dei suoi libri che tutti i suoi figli gemelli erano doppi, tranne $39$; erano tripli, tranne $39$; erano tutti quadrupli, tranne $39$. Il numero dei figli dell' Emiro è:
+> 
+> (A) $111$ \quad (B) $48$ \quad (C) $51$ \quad (D) $78$ \quad (E) $75$
+
+**Risposta:** C
+[[src_obm_2000_n1_f1__Q14]]

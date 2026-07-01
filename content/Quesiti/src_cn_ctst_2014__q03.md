@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2014 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2014__Q03
 parent: src_cn_ctst_2014
 competition: China National Team Selection Test 2014
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show no positive integer 2-tuples satisfy a given multiplicative equation.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra che nessun numero intero positivo 2 volte soddisfa una determinata equazione moltiplicativa.*
+
+> Mostrare che non ci sono $2$-tuples $(x, y)$ di numeri interi positivi che soddisfano l'equazione $$(x + 1)(y + 2)^{x-1}(y + 2014) = (y + 1)(x + 2)^{y-1}(x + 1023).$$ (posato da Li Weigu)
+
+[[src_cn_ctst_2014__Q03]]

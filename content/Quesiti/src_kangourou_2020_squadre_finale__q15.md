@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2020 Finale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_squadre_finale__Q15
 parent: src_kangourou_2020_squadre_finale
 competition: Kangourou Coppa squadre 2020 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Spesa massima per rose e tulipani 2020 sedie*
 
@@ -48,3 +51,17 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5386
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ouvUikm9jtg5T9XqFtDuhZcgJZXEsFwU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum cost for roses and tulips 2020 chairs
+
+> Roses and tulips A politician organizes a party in a huge square where they are arranged in a circle 2020 chairs. The politician knows that all the seats will be occupied and that the participants will sit down so that every woman has at least one man by her side. He decides to give every woman a rose and every man a tulip, which he will order to a florist once the chairs are occupied. A rose costs him three euros, a tulip two euros. What is the maximum expenditure in euro that you may have to pay?
+> 
+>  
+> Questions and solutions
+
+**Answer:** 5386
+[[src_kangourou_2020_squadre_finale__Q15]]

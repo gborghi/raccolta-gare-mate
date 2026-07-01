@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2010 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2010__Q08
 parent: src_bocconi_rosi_2010
 competition: Giochi di Rosi 2010
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Contare triangoli nella figura*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 8 triangoli
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pwjn1M0F1YSZ60SMZmZPXENHZGd98Xmt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Count triangles in the figure*
+
+> < MSK0/>How many triangles do you see in the figure? < MSK1/>
+
+![[src_bocconi_rosi_2010__Q08.png]]
+
+**Answer:** 8 triangoli
+[[src_bocconi_rosi_2010__Q08]]

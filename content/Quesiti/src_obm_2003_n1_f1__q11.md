@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q11
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distinct colourings of 2×2 grid up to rotation*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i colori distinti di 2×2 griglie fino alla rotazione*
+
+> I quattro colori di sotto sono considerati uguali perché coincidono per rotazione.
+> 
+> In quante diverse modalità è possibile colorare le celle di un tavolo $2 \times 2$ in bianco o nero in modo tale che due tabelle non coincidano per rotazione?
+> 
+> (A) 4 \quad (B) 5 \quad (C) 6 \quad (D) 7 \quad (E) 8
+
+![[src_obm_2003_n1_f1__Q11.png]]
+
+**Risposta:** C
+[[src_obm_2003_n1_f1__Q11]]

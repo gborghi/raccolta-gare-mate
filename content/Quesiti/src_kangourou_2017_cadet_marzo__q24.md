@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q24
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo risultati diversi aggiungendo 2 o 5 a 1..9*
 
@@ -52,3 +55,23 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum different results by adding 2 or 5 to 1.9.*
+
+> On the board are written the nine numbers: 1, 2, 3, 4, 5, 6, 7, 8 and 9. To some of them Diana adds 2, to all the others she adds 5. What is the smallest number of different results that Diana can achieve? A) 5
+> 	
+> B) 6
+> 	
+> C) 7
+> 	
+> D) 8
+> 	
+> E) 9
+>
+
+**Answer:** A
+[[src_kangourou_2017_cadet_marzo__Q24]]

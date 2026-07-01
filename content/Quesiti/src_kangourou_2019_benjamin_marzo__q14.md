@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q14
 parent: src_kangourou_2019_benjamin_marzo
 competition: Kangourou 2019 Gara di Marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro del triangolo piu grande di lato dei piccoli 1*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1mCVu8mcZWozh4A9IixxiUAmKQbLsElwm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perimeter of the largest triangle on the side of the smaller 1*
+
+![[src_kangourou_2019_benjamin_marzo__prob14.png]]
+
+> All the triangles shown in the figure are equilateral; the side of the smaller four is 1 m long. How many meters does the perimeter of the largest triangle measure? A) 15 B) 17
+> 	
+> C) 18
+> 	
+> D) 20 E) 21
+
+**Answer:** A
+[[src_kangourou_2019_benjamin_marzo__Q14]]

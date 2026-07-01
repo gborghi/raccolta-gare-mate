@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n1_f2__Q08
 parent: src_obm_2009_n1_f2
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Three-digit A times two-digit B; reversing B's digits gives a result 2034 larger; find A when B's digits are consecutive / non-consecutive*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*A a tre cifre x B a due cifre; invertendo le cifre di B si ottiene un risultato 2034 più grande; trovare A quando le cifre di B sono consecutive / non consecutive*
+
+> Esmeralda stava per moltiplicare un numero $A$ di tre cifre con un altro numero $B$ di due cifre, ma al momento della moltiplicazione ha invertito l'ordine dei numeri di $B$ e ottenuto un risultato $2034$ unità più grandi.
+> 
+> a) Qual era il numero $A$, se i numeri di $B$ erano consecutivi?
+> 
+> b) Qual sarebbe il numero $A$ se i numeri di $B$ non fossero consecutivi?
+
+[[src_obm_2009_n1_f2__Q08]]

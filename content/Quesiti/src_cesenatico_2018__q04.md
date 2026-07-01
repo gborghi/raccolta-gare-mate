@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2018 - testi — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2018__Q04
 parent: src_cesenatico_2018
 competition: Olimpiade Italiana (Cesenatico) 2018 - testi
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *doppio di primo o potenza di primo*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fy9Va9QicHHzBeW4fO7hA8uL1tF3cN1L/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>double first or power first< MSK1/>
+
+> Let N be an integer greater than 1. We call x the smallest positive integer with the following property: there is a positive integer y narrowly less than x −1 such that x divides N + y. Prove that x is the double of a prime number or a power of a prime number. Note: remember that x is a power of a prime number if there exists a prime p and a positive integer n ≥1 such that x = pn.
+
+[[src_cesenatico_2018__Q04]]

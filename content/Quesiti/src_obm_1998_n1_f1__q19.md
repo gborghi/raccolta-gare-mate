@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n1_f1__Q19
 parent: src_obm_1998_n1_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to place an L-shaped piece on a grid to cover exactly 3 squares*
 
@@ -56,3 +59,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pbi6QO9lHJffLagoqrAuuq8dEXbNUphP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i modi per posizionare un pezzo a forma di L su una griglia per coprire esattamente 3 quadrati*
+
+> Una lavagna e un pezzo sono mostrati nella figura. In quanti modi diversi possiamo posizionare il pezzo sulla lavagna in modo che copra esattamente $3$ quadrati della lavagna completamente?
+>
+> - **(A)** $16$
+> - **(B)** $24$
+> - **(C)** $36$
+> - **(D)** $48$
+> - **(E)** $60$
+
+![[src_obm_1998_n1_f1__Q19.png]]
+
+**Risposta:** C
+[[src_obm_1998_n1_f1__Q19]]

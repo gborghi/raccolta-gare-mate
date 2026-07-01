@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f2__Q07
 parent: src_obm_2015_n3_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count distinct colorings of a 2015x37 chessboard obtainable by row/column inversion buttons*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i colori distinti di una scacchiera 2015x37 ottenuti con i pulsanti di inversione delle righe/colonne*
+
+> (Parte B) Considerate una tabella < MSK0/>, dipinta come una scacchiera. Ogni riga e colonna hanno un pulsante che inverte il colore di ogni cella della riga o colonna corrispondente, per un totale di pulsanti $2015 + 37 = 2052$. Quanti colori diversi si possono ottenere sulla lavagna?
+
+[[src_obm_2015_n3_f2__Q07]]

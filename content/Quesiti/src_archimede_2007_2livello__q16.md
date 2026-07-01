@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_2livello__Q16
 parent: src_archimede_2007_2livello
 competition: Archimede Gara 2° livello 2007 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sequenze di salti della pulce per finire a 80 cm dopo 5 salti*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Flea jump sequences to finish at 80 cm after 5 jumps< MSK1/>
+
+![[src_archimede_2007_2livello__prob16.png]]
+
+> A flea moves by jumping back and forth along a straight line. The flea's lair is a point of rectitude. • if the flea is less than or equal to one metre away from the pit, after the next jump it will be twice as far away from the pit. • if the flea is more than a metre away from the pit, after the next jump it will be 1 metre away from the pit but on the opposite side from where it is currently. If after 5 jumps the fleas are within 50 inches of the hole in a certain direction, how many distinct jump sequences can it have reached that position?
+
+**Answer:** 6
+[[src_archimede_2007_2livello__Q16]]

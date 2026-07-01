@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Triennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_triennio__Q03
 parent: src_archimede_2001_triennio
 competition: Giochi di Archimede 2001 - Triennio
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Affermazione vera su allievi con difetti alla vista*
 
@@ -41,3 +44,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>True claim on pupils with visual impairments< MSK1/>
+
+> In one school, 40 percent of pupils are visually impaired, of which 70 percent only wear glasses and 30 percent only use contact lenses. Knowing that there are 42 pairs of glasses in total, which of these statements is true?
+>
+> - **(A)** 90 students with visual impairments
+> - **(B)** 60 pupils see well
+> - **(C)** The school has 200 students.
+> - **(D)** 20 students have contact lenses
+> - **(E)** None of the previous ones.
+
+[[src_archimede_2001_triennio__Q03]]

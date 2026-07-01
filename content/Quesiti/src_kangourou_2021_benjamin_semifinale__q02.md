@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - semifinale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin_semifinale__Q02
 parent: src_kangourou_2021_benjamin_semifinale
 competition: Kangourou 2021 Benjamin - semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri di 4 cifre da 337337 cancellandone due*
 
@@ -49,3 +52,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZoOsj72QmushXUD5rVHJ0W3fyHvEdq-b/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Four-digit numbers from 337337 by deleting two*
+
+> (3 points) How many different four-digit numbers can be obtained from 337337 by deleting two digits?
+>   
+> A) 6
+>   
+> B) 7
+>   
+> C) 8
+>   
+> D) 9
+>   
+> E) 10
+
+**Answer:** B
+[[src_kangourou_2021_benjamin_semifinale__Q02]]

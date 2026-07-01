@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2007 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2007__Q04
 parent: src_cn_ctst_2007
 competition: China National Team Selection Test 2007
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all f:Q+→Q+ satisfying given functional equation*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $f(x) = \frac{1}{x^2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le f:Q+→Q+ che soddisfano una determinata equazione funzionale*
+
+> Trova tutte le funzioni $f: \mathbf{Q}^+ \to \mathbf{Q}^+$ in modo tale che $$f(x) + f(y) + 2xyf(xy) = \frac{f(xy)}{f(x+y)},$$ dove $\mathbf{Q}^+ = \{q \mid q \text{ is a positive rational number}\}$.
+
+**Risposta:** $f(x) = \frac{1}{x^2}$
+[[src_cn_ctst_2007__Q04]]

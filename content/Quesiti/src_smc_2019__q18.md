@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q18
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle a when a square paper is folded so a corner lands on the centre crease line*
 
@@ -53,3 +56,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Find angolo a quando una carta quadrata è piegata in modo che un angolo atterri sulla linea di piega centrale*
+
+> Alison piega in due un pezzo quadrato di carta lungo la linea tracciata mostrata nel diagramma. Dopo aver aperto di nuovo il giornale, poi piega uno degli angoli sulla linea disegnata.
+> 
+> Qual è il valore di < MSK0/>?
+>
+> - **(A)** 45
+> - **(B)** 60
+> - **(C)** 65
+> - **(D)** 70
+> - **(E)** 75
+
+![[src_smc_2019__Q18.png]]
+
+**Risposta:** E
+[[src_smc_2019__Q18]]

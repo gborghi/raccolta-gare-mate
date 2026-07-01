@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2020 — Nível 3 — Fase x — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2020_n3_fx__Q05
 parent: src_obm_2020_n3_fx
 competition: Olimpíada Brasileira de Matemática 2020 — Nível 3 — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Parity questions to identify truth-tellers in a group of n people*
 
@@ -52,3 +55,17 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b__JDOphfOKJwjRdW1rKhY9YKOrtSicC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Questioni di parità per identificare chi dice la verità in un gruppo di persone n*
+
+> Lasciate che $n$ e $k$ siano integri positivi con $k \le n$. In un gruppo di persone $n$, ogni persona dice sempre la verità o mente sempre. Arnaldo può porre domande a una di queste persone del tipo seguente: dato un sottoinsieme $A$ di dimensioni $k$ del gruppo, "qual è la parità del numero di vertitori di verità in $A$?" La risposta può essere solo "par" (par) o "odd" (ímpar).
+> 
+> (a) (4 punti) Per quali valori di $n$ e $k$ è possibile determinare, per ciascuna persona, se dice sempre la verità o mente sempre?
+> 
+> (b) (6 punti) Qual è il numero minimo di domande necessario per fare questa determinazione, quando è possibile?
+
+[[src_obm_2020_n3_fx__Q05]]

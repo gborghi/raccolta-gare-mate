@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q08
 parent: src_kangourou_2017_ecolier_semifinale
 competition: Kangourou 2017 Ecolier - Semifinale individuale
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di adulti dato incasso a teatro*
 
@@ -40,10 +43,26 @@ tags:
 > - **(B)** 21
 > - **(C)** 25
 > - **(D)** 30
-> - **(E)** 50 D C A B
+> - **(E)** 50
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum number of adults charged for theatre< MSK1/>
+
+> Today, the theatre was attended by adults and children. The theater has 100 seats, but not all were occupied. Tickets for adults are €20, for children €10, and at the end of the show, the price was €1200. What is the minimum number of adults who may have been present at the show?
+>
+> - **(A)** 20
+> - **(B)** 21
+> - **(C)** 25
+> - **(D)** 30
+> - **(E)** 50
+
+[[src_kangourou_2017_ecolier_semifinale__Q08]]

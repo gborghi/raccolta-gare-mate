@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Finale Nazionale — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_finale__Q16
 parent: src_gas_2009_finale
 competition: Gara a Squadre 2009 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato lungo di rettangolo di 10! tessere con rapporto vicino 11/17*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2400
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17jdT1ebDPfUdl0nCqwHvY-c--AEI2vju/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Long side of a rectangle of 10! Tickets with a ratio close to 11/17*
+
+> The mosaic In the house of El-Romb there is a very large hall where you intend to make a giant mosaic, a rectangle of 10! identical square cards. You'd like the sides of the mosaic to be as close to 9/11 as possible. How many cards do you have to measure the long side?
+
+**Answer:** 2400
+[[src_gas_2009_finale__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n2_f1__Q15
 parent: src_obm_2009_n2_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Represent 126 as sum of two primes; maximize the difference*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11rqmYHXRUbHYmTySwQp4ggTHQghnIvQv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Representare 126 come somma di due prime; massimizzare la differenza*
+
+> La congettura di Goldbach afferma che ogni numero intero pari maggiore di $2$ può essere scritto come la somma di due numeri primi. Per esempio, $18 = 5 + 13$ o anche $18 = 7 + 11$. Considerando tutte le rappresentazioni di $126$ come somma di due numeri primi, qual è la più grande differenza tra i due numeri primi?
+> 
+> **(A)** $112$ $\quad$ **(B)** $100$ $\quad$ **(C)** $84$ $\quad$ **(D)** $88$ $\quad$ **(E)** $80$
+
+**Risposta:** B
+[[src_obm_2009_n2_f1__Q15]]

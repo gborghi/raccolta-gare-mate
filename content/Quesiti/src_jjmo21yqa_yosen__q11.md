@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo21yqa_yosen__Q11
 parent: src_jjmo21yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2023 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max friendships with half-same-city constraint*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2043736
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11kigjl_Wt-al8ocndA12n0n3x8dtw2E3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximi amicizie con restrizioni di metà città*
+
+> Ogni studente della JJMO Middle School vive esattamente in una delle due città, città A o città B, e ci sono $2023$ studenti in totale. Per due studenti distinti, o sono amici l'uno dell'altro o no (esattamente uno di questi si applica), e nessun studente è amico di se stesso. Inoltre, per ogni studente $S$ della JJMO Middle School vale quanto segue: se $d$ indica il numero di studenti che sono amici di $S$, allora esattamente $\left[\dfrac{d}{2}\right]$ di essi vivono nella stessa città di $S$. Trova il massimo numero possibile di coppie di studenti che sono amici l'uno dell'altro. (Due coppie che differiscono solo nell'ordine sono considerate uguali. Qui $[r]$ indica il numero intero più grande non superiore a $r$; ad esempio $[3.14] = 3$, $[5] = 5$.)
+
+**Risposta:** 2043736
+[[src_jjmo21yqa_yosen__Q11]]

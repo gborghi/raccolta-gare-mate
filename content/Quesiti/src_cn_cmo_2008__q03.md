@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2008 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2008__Q03
 parent: src_cn_cmo_2008
 competition: China Mathematical Olympiad 2008
@@ -33,6 +34,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality involving floor function for two ordered real sequences*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza che comporta la funzione del pavimento per due sequenze reali ordinate*
+
+> Date un numero intero $n > 0$ e numeri reali $x_1 \le x_2 \le \cdots \le x_n$, $y_1 \ge y_2 \ge \cdots \ge y_n$, soddisfacendo $\displaystyle\sum_{i=1}^n x_i = \sum_{i=1}^n y_i$. Prova che per qualsiasi numero reale $a$, $$\sum_{i=1}^n x_i \left[ia\right] \ge \sum_{i=1}^n y_i \left[ia\right],$$ dove $[p]$ è definito come il numero intero più grande inferiore o uguale a $p$.
+
+[[src_cn_cmo_2008__Q03]]

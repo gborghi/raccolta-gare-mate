@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2012 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2012_automne__Q09
 parent: src_canimath_2012_automne
 competition: Coupe Animath Automne 2012
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all prime pairs (p,q) making three expressions all prime*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10kQvtQxKT578mDwhlUsuOZfcCLyr-FiX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le coppie prime (p,q) facendo tre espressioni tutte prime*
+
+> Trova tutte le coppie $(p, q)$ di numeri primi per le quali i numeri $2p + q$, $p + 2q$ e $p + q - 18$ sono tutti e tre numeri primi.
+> 
+> (*Ricordiamo che un numero primo è un numero intero maggiore o uguale a $2$ che è divisibile solo da $1$ e da sé stesso.*)
+
+[[src_canimath_2012_automne__Q09]]

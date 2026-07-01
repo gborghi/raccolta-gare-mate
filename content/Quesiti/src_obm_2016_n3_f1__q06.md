@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f1__Q06
 parent: src_obm_2016_n3_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximizing x+9 where x,y count odd/even numbers in a 10-number list satisfying a parity-pair equation*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximizzare x+9 dove x,y contano numeri odd/even in un elenco di 10 numeri che soddisfano un'equazione di coppia di parità*
+
+> Janaina ha un elenco di numeri $10$; lasciamo $x$ e $y$ essere, rispettivamente, quanti sono pari e quanti sono pari, quindi $x+y=10$. Il numero di coppie non ordinate con parità uguale è $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}$ e il numero di coppie la cui somma è pari è impostato uguale a $4xy$, dando $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}=4xy\;(\ast)$ (il lato sinistro conta coppie di parità uguale e il lato destro conta coppie dando una somma pari, entrambe aventi la stessa parità). Substituendo $y=10-x$ si ottiene nell'analisi l'equazione $x^2-x+9=0$, le cui soluzioni pertinenti sono $x=1$ o $x=9$; poiché $(x,y)=(9,1)$ soddisfa la condizione $(\ast)$, si cerca il valore massimo di $x+9$. [Il valore della chiave di risposta corrisponde all'opzione E.]
+
+**Risposta:** E
+[[src_obm_2016_n3_f1__Q06]]

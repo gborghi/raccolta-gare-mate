@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 30
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q30
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -36,6 +37,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular dodecagon vertices coloured blue/red; no monochromatic equilateral triangle or square; find p+q*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Vertici regolari del dodicagono colorati blu/rosso; nessun triangolo o quadrato equilaterale monocromatico; trovare p+q*
+
+> I vertici di un dodicagono regolare (un poligono con 12 lati) sono colorati blu o rosso. $N$ sia il numero di tutti i colori possibili in modo tale che nessun tre punti dello stesso colore costituiscano i vertici di un triangolo equilaterale e nessun quattro punti dello stesso colore costituiscano i vertici di un quadrato. Se $N$ può essere scritto come $N = 100p + q$ dove $p, q$ sono due numeri interi positivi inferiori a 100, trovare $p + q$.
+
+[[src_ioqm_2025_sep28__Q30]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q30
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prodotto BD x AC in quadrilatero convesso*
 
@@ -76,3 +79,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Products BD x AC in convex quadrilateral *
+
+![[src_kangourou_2004_student__prob30.png]]
+
+> Either ABCD is a convex quadrilateral of unit area, with AB and BD bases of the isosceles triangles ABD and DBC respectively. Furthermore, knowing that angle B D measures 100° and angle A B measures 20° (see figure), the product is equal to:
+>  
+> x
+>  
+> AC Cˆ Dˆ
+> 
+> Students 2004 - Page n° 1 SolutionStudents 2004
+
+**Answer:** D
+[[src_kangourou_2004_student__Q30]]

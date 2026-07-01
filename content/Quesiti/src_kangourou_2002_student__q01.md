@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q01
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli individuabili nella figura*
 
@@ -61,3 +64,31 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangles that can be detected in Figure *
+
+![[src_kangourou_2002_student__prob1.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0,0) rectangle (3,2);
+  \draw (1,0) -- (1,2);
+  \draw (2,0) -- (2,2);
+  \draw (0,1) -- (3,1);
+  \draw (0,2) -- (3,0);
+\end{tikzpicture}
+\end{document}
+```
+
+> How many triangles can you spot in the figure?
+>  
+>  
+> A. 2 B. 4 C. 6 D. 8 E. 10
+
+**Answer:** E
+[[src_kangourou_2002_student__Q01]]

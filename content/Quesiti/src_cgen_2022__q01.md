@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2022 — Matematica — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2022__Q01
 parent: src_cgen_2022
 competition: Concours Général des Lycées 2022 — Matematica
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sparkling reals defined via parity of floor of x^(2^n); prove each interval [k,k+1) contains a unique sparkling real using sequences a_n, b_n*
 
@@ -79,3 +82,25 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CDKdOobrMp7gzmKvpT87_FjVRxny9v1t/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Reali scintillanti definiti attraverso parità di pavimento di x^(2^n); dimostrare che ogni intervallo [k,k+1) contiene un reale scintillante unico utilizzando le sequenze a_n, b_n*
+
+> Problema 1: In piena effervescenza.
+> 
+> Per ogni $x \ge 0$ reale, indichiamo con $\mathrm{E}(x)$ la sua parte integrale, cioè il più grande intero inferiore o uguale a $x$. Ad esempio, $\mathrm{E}(2.4) = 2$, $\mathrm{E}(3) = 3$ e $\mathrm{E}(8.9) = 8$.
+> 
+> Diciamo che un numero reale $x \ge 0$ è petillant (sparkling) se per ogni intero $n \ge 1$, il numero $\mathrm{E}\left(x^{(2^n)}\right) + 2$ è pari.
+> 
+> 1.1 riscaldamento. 1. Determinare la parte integrale di $\frac{4}{3}$ e dire se $\frac{4}{3}$ è luccicante. 2. Determinare se ogni reale nell'intervallo $[0;1[$ è spumante. 3.a. Mostrare che, se $x$ e $x'$ sono due reali distinte, allora $x^2$ e $x'^2$ sono anche distinte. b. Mostrate che esistono infinite realtà scintillanti. 4. Determina se ogni numero intero non zero è spumante.
+> 
+> Nel resto del problema, consideriamo un intero fisso $k \ge 1$. Vogliamo quindi stabilire che l'intervallo $[k; k+1[$ contiene un reale scintillante unico. Indichiamo con $(u_n)_{n \ge 1}$ la sequenza definita da $$u_1 = (k+1)^2$$ e, per ogni intero $n \ge 1$, $$u_{n+1} = (u_n - 1)^2.$$
+> 
+> 1.2 Esistenza. 5. Indicare che $u_n > 3$ per ogni numero intero $n \ge 1$. 6. Mostrare che, per ogni numero intero $n \ge 1$, esiste un reale unico $a_n \ge 1$ come $a_n^{(2^n)} + 2 = u_n$, e un reale unico $b_n \ge 1$ come $b_n^{(2^n)} + 1 = u_n$. 7. Indicare che la sequenza $(a_n)_{n \ge 1}$ è in aumento e che la sequenza $(b_n)_{n \ge 1}$ è strettamente in calo. 8. Indicare che la sequenza $(a_n)_{n \ge 1}$ è convergente. Indichiamo il suo limite con $a$. 9. Indicare che < MSK11/> e che < MSK12/> sono scintillanti.
+> 
+> 1.3 Unicità. $y$ sia un reale scintillante contenuto nell'intervallo $[k; k+1[$. Per ogni intero $n \ge 1$, impostare $r_n = \mathrm{E}\left(y^{(2^n)}\right) + 2$. 10. Indicare che $u_n = r_n$ per ogni numero intero $n \ge 1$. 11. Con le notazioni della parte 1.2, indicare che per ogni numero intero $n \ge 1$, $a_n \le y \le b_n$. 12.a. Che $x$ e $y$ siano due reali con $x \ge y \ge 1$. Indicare che, per ogni numero intero $n \ge 1$, $x^{(2^n)} - y^{(2^n)} \ge 2^n(x - y)$. b. Indicare che le sequenze $(a_n)_n$ e $(b_n)_{n \ge 1}$ convergono allo stesso limite $y$. 13. Indicare che $y$ è il reale spumante unico contenuto nell'intervallo $[k; k+1[$.
+
+[[src_cgen_2022__Q01]]

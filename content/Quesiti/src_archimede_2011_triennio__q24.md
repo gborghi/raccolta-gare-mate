@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Triennio — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_triennio__Q24
 parent: src_archimede_2011_triennio
 competition: Giochi di Archimede 2011 - Triennio
@@ -29,6 +30,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime quattro cifre di a2011 in successione moltiplicativa*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*The last four digits of a2011 in multiple succession*
+
+> We have a sequence of 2011 numbers, which we indicate with an the term n-eighth. Knowing that a1 = 1, and that for every n ≥2, an = an−1(3n + 1), find the last four digits of the term a2011.
+>
+> - **(A)** 0000,
+> - **(B)** 3400,
+> - **(C)** 6000,
+> - **(D)** 6031,
+> - **(E)** 6034.
+
+**Answer:** A
+[[src_archimede_2011_triennio__Q24]]

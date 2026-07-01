@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2020 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2020__Q25
 parent: src_smc_2020
 competition: Senior Mathematical Challenge 2020
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest possible value of p for a regular m-gon, n-gon and p-gon sharing a vertex and pairwise edges*
 
@@ -53,3 +56,22 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16Vvl1vXMlj3O3qpkVu2bxhM0wzTMPU5c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il valore più basso possibile di p per un normale m-gon, n-gon e p-gon che condividono un vertex e bordi in coppia*
+
+> Un gono regolare $m$, un gono regolare $n$ e un gono regolare $p$ condividono un vertex e due bordi, come mostrato nel diagramma. Qual è il valore più grande possibile di $p$?
+>
+> - **(A)** $6$
+> - **(B)** $20$
+> - **(C)** $42$
+> - **(D)** $50$
+> - **(E)** $100$
+
+![[src_smc_2020__Q25.png]]
+
+**Risposta:** C
+[[src_smc_2020__Q25]]

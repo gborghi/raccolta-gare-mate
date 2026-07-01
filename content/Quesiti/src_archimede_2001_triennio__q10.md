@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2001 - Triennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2001_triennio__Q10
 parent: src_archimede_2001_triennio
 competition: Giochi di Archimede 2001 - Triennio
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colpevole e complice dalle deposizioni del furto*
 
@@ -54,3 +57,19 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1u9VPh2Kl5rWHA4r4xwehuuUk_gXr2YUC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Guilty and complicit in the theft
+
+> For the robbery at Ricchis' house, the suspects narrowed to 4 people: Aldo, brown and without glasses, Baldo, brown and with glasses, Charles, blonde and with glasses, and Darius, blonde and without glasses. Police have determined that the theft was committed by one person, who used only one accomplice. The suspects were limited to four people, and their testimonies are as follows. Aldo: The culprit is brown and wears glasses. Baldo: The culprit is blonde and doesn't wear glasses. Charles: The culprit wears glasses and his accomplice is Aldo. Dario: The culprit is brown and his accomplice is Charles. It is known that the two allegations of the offender are false, while only one of the accomplice's allegations is false. The others told the truth. Who's the culprit and his accomplice?
+>
+> - **(A)** Aldo and Charles
+> - **(B)** Bald and Charles
+> - **(C)** Bald and Darius
+> - **(D)** Aldo and Darius
+> - **(E)** There's no way to deduce that.
+
+[[src_archimede_2001_triennio__Q10]]

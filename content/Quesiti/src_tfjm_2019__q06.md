@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2019__Q06
 parent: src_tfjm_2019
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Chameleons on a graph changing color by propagation; minimizing requests (difficulty of a coloring)*
 
@@ -46,3 +49,15 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Camelioni su un grafico che cambiano colore per propagazione; minimizzazione delle richieste (difficoltà di colorazione) *
+
+> Victor si prende cura e studia una popolazione di camaleoni. I camaleoni sono legati da legami di amicizia. Questi legami sono rappresentati su un grafico, cioè un insieme di vertici collegati da un insieme di bordi. I vertici sono i camaleoni e due camaleoni amici sono collegati da un bordo.\n\nSi suppone che i camaleoni possano prendere $k$ diversi colori, numerati da $1$ a $k$. Un camaleone può cambiare colore da $i$ a $j$ in due casi: o perché Victor lo chiede, o perché uno dei suoi amici di colore $i$ cambia colore $j$. Quindi, quando Victor chiede a un camaleone $A$ di cambiare colore, tutti gli amici dei camaleoni di $A$ che erano dello stesso colore di $A$ fanno lo stesso, quindi i loro amici, ecc.\n\nLasciate $\mathcal{G}$ essere un grafico che rappresenta una popolazione di camaleoni e $\mathcal{C}$ un coloramento del grafico, cioè i dati del colore dei camaleoni all'inizio. Victor vuole che tutti i camaleoni siano dello stesso colore, riducendo al minimo il numero di volte che deve chiedere a un camaleone di cambiare colore. Si chiama la difficoltà di $\mathcal{C}$ il numero minimo di richieste necessarie affinché tutti i camaleoni siano dello stesso colore. Per un dato grafico $\mathcal{G}$, si indica con $D_k(\mathcal{G})$ la difficoltà massima possibile di un coloramento di $\mathcal{G}$ con $k$ colori. Questo corrisponde alla peggiore situazione possibile per Victor.\n\nLa figura 10 rappresenta un esempio con $6$ camaleoni e $k=3$ colori. Per questo grafico $\mathcal{G}$, a ogni passo Victor chiede a un camaleone di diventare blu, il che non comporta nessun altro cambiamento dal momento che questo camaleone non ha amico dello stesso colore. Poi chiede a un camaleone azzurro di diventare arancione; per propagazione tutti gli amici azzurri di questo camaleone cambiano colore, così come gli amici dei suoi amici. Finalmente Victor chiede all'ultimo camaleone di diventare arancione e tutti i camaleoni sono ora dello stesso colore. In questo esempio, per questo particolare colore iniziale, Victor ha avuto successo in tre passaggi.\n\nOne denota con $\mathcal{P}_n$ il grafico costituito da vertici allineati $n$, ciascuno legato ai suoi vicini di destra e di sinistra quando esistono.\n\n\textbf{1.} Determina o dà confini per $D_k(\mathcal{P}_n)$ nei seguenti casi: (a) $k=2$; (b) $k=3$; (c) $k$ arbitrario.\n\nOne denota con $\mathcal{R}_{n,m}$ la rete rettangolare di dimensioni $n \times m$.\n\ntextbf{2.} La sequenza $(D_k(\mathcal{R}_{n,n}))_{n \ge 1}$ è in aumento?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Un grafico collegato è un grafico tale che è sempre possibile passare da un vertice all'altro attraverso una sequenza di bordi. In ciascuno dei tre seguenti casi, < MSK34/> può aumentare? Riduzione? Se sì, per quanto al massimo? (a) Un nuovo camaleone arriva e causa una disputa tra due amici: rompe il legame di amicizia, ma diventa amico di ciascuno di loro. (b) Due camaleoni diventano amici. (c) Un nuovo camaleone arriva e diventa amico di due camaleoni (che non sono necessariamente amici l'uno con l'altro). Solo in questa domanda, Victor decide che è preferibile avere un solo interlocutore. Inizia scegliendo un camaleone e poi può rivolgersi solo a lui per chiedere cambiamenti di colore. Qual è l'impatto di questa decisione: a) nel caso del segmento $\mathcal{P}_n$? b) nel caso del rettangolo < MSK36/>? (c) nel caso generale?\n\n\textbf{6.} $s$ e $a$ siano due numeri interi. Tra tutti i grafici connessi $\mathcal{G}$ con vertici $s$ e bordi $a$, quali sono quelli che riducono al minimo $D_k(\mathcal{G})$? Quali sono quelle che massimizzano $D_k(\mathcal{G})$? Iniziare studiando i casi $a = s-1$, $a = 2s$ e $a = \frac{s(s-1)}{2}$.\n\n\textbf{7.} Proporre e studiare altre vie di ricerca.
+
+![[src_tfjm_2019__Q06.png]]
+
+[[src_tfjm_2019__Q06]]

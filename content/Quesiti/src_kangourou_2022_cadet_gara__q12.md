@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet gara individuale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_gara__Q12
 parent: src_kangourou_2022_cadet_gara
 competition: Kangourou 2022 Cadet gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo punti sulla superficie di quattro dadi standard*
 
@@ -58,3 +61,25 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum points on the surface of standard four dice*
+
+![[src_kangourou_2022_cadet_gara__prob12.png]]
+
+> A dice is called standard if, for each pair of its opposite faces, the sum of the number of points belonging to them is 7. Four standard dice are glued together to form a parallel piped as shown in the figure. How many points can appear on the entire surface of the paralelepiped at least? A) 52
+> 	
+> B) 54
+> 	
+> C) 56
+> 	
+> D) 58
+> 	
+> E) 60 A B C D E
+>
+
+**Answer:** D
+[[src_kangourou_2022_cadet_gara__Q12]]

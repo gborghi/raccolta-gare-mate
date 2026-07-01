@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n1_f3__Q02
 parent: src_obm_2012_n1_f3
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two different hexagons with all interior angles 120 degrees; find the perimeter of ABCDEF and the value of ST+PU from given side lengths.*
 
@@ -52,3 +55,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zhcaRFthPAOn7E_8dttKk0jNO8fP8yfZ/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due esagoni diversi con tutti gli angoli interni di 120 gradi; trovare il perimetro di ABCDEF e il valore di ST+PU da lunghezze laterali date.*
+
+> Ana disegnò due esagoni diversi con angoli interni di $120^\circ$ ciascuno. Uno di essi è l'esagono $ABCDEF$ e l'altro è l'esagono $PQRSTU$.
+> 
+> a) Se $AB = CD = 5$, $BC = 8$ e $EF = 3$, qual è il perimetro dell'esagono $ABCDEF$?
+> 
+> b) Se < MSK0/>, < MSK1/>, < MSK2/> e < MSK3/>, qual è il valore di < MSK4/>?
+
+[[src_obm_2012_n1_f3__Q02]]

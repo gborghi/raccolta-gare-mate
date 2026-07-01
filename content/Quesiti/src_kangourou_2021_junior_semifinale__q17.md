@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior Semifinale individuale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_semifinale__Q17
 parent: src_kangourou_2021_junior_semifinale
 competition: Kangourou 2021 Junior Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti primi della forma (m^2+m+1)/n*
 
@@ -53,3 +56,27 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9999
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1GoDhUy1jRCZDEodIhDemC22Gf3TP9oCU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers of prime of the form (m^2+m+1)/n*
+
+> (7 points) What are the prime numbers of the form
+> 
+>  
+> 
+
+> where m and n are positive integers? (Write 9999 if you believe they are infinite).
+>  
+>  
+>  
+>  
+>  
+>  
+>  
+> P
+
+**Answer:** 9999
+[[src_kangourou_2021_junior_semifinale__Q17]]

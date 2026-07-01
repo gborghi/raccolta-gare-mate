@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1990 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1990_r3__Q03
 parent: src_pol_1990_r3
 competition: Olimpiade Matematica Polacca 1990 — Round 3
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *In a round-robin tournament of n players, prove one of two structural conclusions about the results.*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SP_o4XBA9t_Mr20tlsjjsNkpPD2auONv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+In un torneo di round-robin di n giocatori, provare una delle due conclusioni strutturali sui risultati.
+
+> In un torneo, due dei giocatori $n$ hanno giocato esattamente una partita (senza pareggio). Prove che sia possibile
+> 
+> (i) dividere la lega in due gruppi $A$ e $B$ in modo che tutti in $A$ sconfiggano tutti in $B$; o
+> 
+> (ii) organizzare tutti i giocatori in una catena $x_1, x_2, \ldots, x_n, x_1$ in modo tale che ciascuno dei giocatori sconfigga il suo successore.
+
+[[src_pol_1990_r3__Q03]]

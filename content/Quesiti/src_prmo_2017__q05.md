@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q05
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find n such that u^40 = v^n = w^60 with u,v,w in geometric progression*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca n tale che u^40 = v^n = w^60 con u,v,w in progressione geometrica*
+
+> $u, v, w$ siano numeri reali in progressione geometrica in modo tale che $u > v > w$. Supponiamo $u^{40} = v^n = w^{60}$. Trova il valore di $n$.
+
+[[src_prmo_2017__Q05]]

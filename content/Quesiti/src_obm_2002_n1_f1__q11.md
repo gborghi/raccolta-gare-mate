@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f1__Q11
 parent: src_obm_2002_n1_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Interpret a bar graph of monthly revenue of two companies*
 
@@ -59,3 +62,24 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NviJwQmbmihSaakvq3DJSWhViadj6Z5P/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Interprete un grafico a barre dei ricavi mensili di due società*
+
+> Il grafico seguente mostra le entrate mensili (in milioni di reais) delle società A e B nel secondo semestre di $2001$.
+>
+> Sulla base di questo grafico, possiamo affermare che:
+>
+> - **(A)** In un solo mese le entrate della società A erano il doppio di quelle della società B.
+> - **(B)** Nel mese di luglio, la differenza di entrate è stata maggiore rispetto a tutti gli altri mesi.
+> - **(C)** La società B ha registrato un calo maggiore di quello della società A tra due mesi consecutivi.
+> - **(D)** In nessun semestre il fatturato totale di A è stato superiore a quello di B.
+> - **(E)** In un solo semestre i ricavi totali del semestre hanno superato < MSK0/> milioni di reais.
+
+![[src_obm_2002_n1_f1__Q11.png]]
+
+**Risposta:** D
+[[src_obm_2002_n1_f1__Q11]]

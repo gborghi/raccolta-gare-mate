@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q02
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum blocks to complete a rectangular parallelepiped*
 
@@ -50,3 +53,18 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di blocchi per completare un parallelepiped rectangulare*
+
+> Esmeralda sta costruendo un parallelepiped rettangolare usando blocchi più piccoli identici. Per completare il suo compito, quanti blocchi almeno deve ancora mettere Esmeralda?
+> 
+> (A) 12 \quad (B) 14 \quad (C) 16 \quad (D) 18 \quad (E) 20
+
+![[src_obm_2013_n2_f1__Q02.png]]
+
+**Risposta:** B
+[[src_obm_2013_n2_f1__Q02]]

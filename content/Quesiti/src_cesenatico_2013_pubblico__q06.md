@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Gara del pubblico — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_pubblico__Q06
 parent: src_cesenatico_2013_pubblico
 competition: Gara a Squadre Cesenatico 2013 - Gara del pubblico
@@ -28,6 +29,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita crescita >=2013cm con 37 funghi (numeratore)*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2499
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of growth >=2013cm with 37 fungi (numerator) < MSK1/>
+
+> A left tower From a distance, Root sees a lawn with so many hedges that divide it into squares, like the boxes of a chessboard 8. The Red Queen orders the Tower to move from a corner box to the opposite corner box. The Queen explains that it will take exactly six steps to reach her. In addition, he orders that with each move he change direction by turning to the left of 90°. If there are no other pieces on the chessboard besides the Tower, how many possible paths can it take? The Tower may pass on the same box several times; in particular, it may touch the destination box even before the sixth move. A Tower move involves moving any number of whole boxes (from 1 to 8) horizontally or vertically.
+
+**Answer:** 2499
+[[src_cesenatico_2013_pubblico__Q06]]

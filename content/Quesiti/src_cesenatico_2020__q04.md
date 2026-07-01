@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2020 - testi — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2020__Q04
 parent: src_cesenatico_2020
 competition: Olimpiade Italiana (Cesenatico) 2020 - testi
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *tre rette concorrenti iff CE=CM*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gylN-2GSxpemPcbzJfcfMtzLwdIYnXYe/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*three competing lines if CE=CM*
+
+> So ABC is an acute triangle with AB = AC. Both D is the foot of the height exiting C, and M is the midpoint of AC, and E is the second intersection between the BC side and the circumference circumscribed at the CDM triangle. Demonstrate that AE, BM and CD lines pass through the same point if and only if CE = CM.
+
+[[src_cesenatico_2020__Q04]]

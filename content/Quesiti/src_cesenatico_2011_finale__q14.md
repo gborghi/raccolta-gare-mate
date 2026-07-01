@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Finale Nazionale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_finale__Q14
 parent: src_cesenatico_2011_finale
 competition: Gara a Squadre Cesenatico 2011 - Finale Nazionale
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita MCD=1 di due divisori di 12!*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9834
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>MCD probability = 1 of two divisors of 12!< MSK1/>
+
+> Abelix and Borelix invented a new game to pass the time before leaving for Egypt. Whenever they put out a patrol of Roman soldiers, they ask two of them to choose randomly, each independently, a divisor of 12!; if the two numbers have a maximum common divisor equal to 1, Borelix wins, otherwise Abelix wins. What are the odds of Abelix winning? As a response, provide the first four digits after the comma.
+
+**Answer:** 9834
+[[src_cesenatico_2011_finale__Q14]]

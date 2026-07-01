@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Semifinale A — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_semifinale_a__Q16
 parent: src_gas_2010_semifinale_a
 competition: Gara a Squadre 2010 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tentativi massimi per aprire scrigno con 4 serrature e vincolo*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0360
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/18r_1yoVgk4sTJ-EvupwnDUyQleY_0xtF/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum attempts to open the box with 4 locks and fasteners*
+
+> 16. It's not easy to open the chest that holds Davy Jensen's heart: the prodigy Will Turing already has the key, but now he's in crisis, because he found that the chest has 4 locks (one on each side). Fortunately, the key in his possession is good for all locks, but to unlock the mechanism that opens the casket, you have to make 2 turns at each lock, in a precise order that Will doesn't know; he only knows that the first lock to be turned must be the same as the last one. How many times does Will have to try to unlock the mechanism to make sure he opens the safe?
+
+**Answer:** 0360
+[[src_gas_2010_semifinale_a__Q16]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Semifinale C — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_semifinale_c__Q15
 parent: src_cesenatico_2012_semifinale_c
 competition: Gara a Squadre Cesenatico 2012 - Semifinale C
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti guadagnati dalla Terra che rallenta*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5551
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minutes earned by the slowing Earth
+
+> In an ancient Egyptian temple, a regular hexagon-shaped stone slab was found that was used to count years. For every year from an uncertain date between 700 BC and 800 BC until their demise, the Egyptians engraved a circle of 16 mm radius on the slab. The circles were engraved so as not to overlap, and it was calculated that, even by optimizing space, the plate was only placed for the years up to 2012 DC. Apparently, then it would be the Absolute Evil that would end civilization. How many millimetres does the side of the hexagon measure at least?
+
+**Answer:** 5551
+[[src_cesenatico_2012_semifinale_c__Q15]]

@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2009 — Quesito
   11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2009__Q11
 parent: src_bocconi_finalenaz_2009
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2009
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *A che ora Carla ha spento le due candele*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** h.15 , min 45
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+At what time did Carla turn off the two candles?
+
+> Two candles are the same length but the first one burns completely (and regularly) in 5 hours while the second one burns completely (also regularly) in just 4 hours. Carla lights the candles at noon, and when she decides to turn them off, she does so for both at the same time. Then check that the remainder of the first candle is four times longer than the remainder of the second candle. What time did Carla turn off the two candles?
+
+**Answer:** h.15 , min 45
+[[src_bocconi_finalenaz_2009__Q11]]

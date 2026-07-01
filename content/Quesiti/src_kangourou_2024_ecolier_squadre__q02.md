@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre__Q02
 parent: src_kangourou_2024_ecolier_squadre
 competition: Kangourou Squadre 2024 Ecolier Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri stella tra 2000 e 3000*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0019
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many star numbers between 2000 and 3000*
+
+> Numbers star Call number star any number between 2000 and 3000 that has the following property: the difference between the largest and smallest of two adjacent digits is always the same, even if it varies from number to number. These are examples of stellar numbers 2024 and 2345: in the first case the difference between the largest and the smallest of two adjacent digits is always 2, in the second case it is always 1. How many are the star numbers, including the two we gave as an example? Attention: 2222 is not a star number because between two adjacent digits there is no greater than the other. The answer is 0019.
+
+**Answer:** 0019
+[[src_kangourou_2024_ecolier_squadre__Q02]]

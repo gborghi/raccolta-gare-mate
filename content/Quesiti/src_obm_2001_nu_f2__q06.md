@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2001 — Nível Universitário — Fase 2 —
   Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_nu_f2__Q06
 parent: src_obm_2001_nu_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível Universitário — Fase 2
@@ -39,6 +40,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Surjective map on unit disk preserving distance implies isometry*
 
@@ -51,3 +54,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12XNvYzmA5iSp5auP4O68Ivgx7LoAbloE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mappa soggettiva sul disco unitario che preserva la distanza implica isometria*
+
+> $D$ è l'insieme dei punti di $\mathbb{R}^2$ con $|p| \le 1$. Che $f : D \to D$ sia una funzione soggettiva che soddisfi $|f(p) - f(q)| \le |p - q|$ per tutti $p, q \in D$. Provare che $f$ è un'isometria, cioè $|f(p) - f(q)| = |p - q|$ per tutti $p, q \in D$.
+> 
+> (Notazione: $|(x,y)| = \sqrt{x^2 + y^2}$.)
+
+[[src_obm_2001_nu_f2__Q06]]

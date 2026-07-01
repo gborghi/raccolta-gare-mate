@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012__Q03
 parent: src_cesenatico_2012
 competition: Olimpiade Italiana (Cesenatico) 2012 - testi e soluzioni
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *determinare il tipo di ognuno*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BVUN2Bz52Jm2vo9MCNXxGskJnttPAfkt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*to determine the type of each *
+
+> Whether n is an integer greater than or equal to 2. There are n people in the Indian queue, each of whom is either a con man (and always lies) or a knight (and always tells the truth). Each person, except the first, points to one of the people in front of her and declares This person is a con man or This person is a knight. Knowing that there are strictly more cunning than knights, prove that by watching the statements it is possible to determine for each of the people whether it is a cunning or a knight.
+
+[[src_cesenatico_2012__Q03]]

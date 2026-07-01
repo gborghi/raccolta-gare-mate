@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1989 — Round 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1989_r3__Q03
 parent: src_pol_1989_r3
 competition: Olimpiade Matematica Polacca 1989 — Round 3
@@ -38,6 +39,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Edges of a cube numbered 1 through 12; prove at least eight index-increasing triples of consecutive edges exist, and exhibit a numbering with exactly eight.*
 
@@ -52,3 +55,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZpIHimsHSvkG4b__OiWbVXE_0S523k2N/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le estremità di un cubo numerato da 1 a 12; dimostrare che esistono almeno otto triples di bordo consecutivi in aumento dell'indice, e mostrare una numerazione con esattamente otto.*
+
+> I bordi di un cubo sono numerati da 1 a 12.
+> 
+> (a) dimostrare che per qualsiasi tale numerazione esistono almeno otto tripli di enti $(i, j, k)$ con $1 \le i < j < k \le 12$ in modo tale che i bordi assegnati ai numeri $i$, $j$, $k$ siano segmenti consecutivi di una linea poligonale.
+> 
+> (b) Fornisci un esempio di una numerazione per la quale ci sono esattamente otto tripli.
+
+[[src_pol_1989_r3__Q03]]

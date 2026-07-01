@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n1_f2__Q06
 parent: src_obm_2015_n1_f2
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 1 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Paint 12 vertices of 12 squares with 3 colors so each square has exactly 2 green and 2 yellow vertices*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Dipingere 12 vertici di 12 quadrati con 3 colori in modo che ogni quadrato abbia esattamente 2 vertici verdi e 2 gialli
+
+> Nella figura ci sono quadrati $12$. Matilu vuole dipingere i vertici di questi quadrati $12$ utilizzando tre colori  verde, giallo e blu  in modo che ogni quadrato abbia esattamente $2$ vertici verdi e $2$ vertici gialli. In quanti modi diversi si possono dipingere questi vertici?
+
+![[src_obm_2015_n1_f2__Q06.png]]
+
+[[src_obm_2015_n1_f2__Q06]]

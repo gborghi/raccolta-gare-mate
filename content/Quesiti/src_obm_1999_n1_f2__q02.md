@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f2__Q02
 parent: src_obm_1999_n1_f2
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Consecutive Sundays in four months of a non-leap year*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sVRS4YG1oL_KhveTUD5PLD8vlbfPaSxf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Domenica consecutiva in quattro mesi di un anno non bisestivo*
+
+> Si sa che tre mesi consecutivi di un determinato anno non bisestile hanno esattamente quattro domeniche.
+> 
+> a) Questi mesi possono essere gennaio, febbraio e marzo?
+> 
+> b) Può essere agosto, settembre e ottobre?
+
+[[src_obm_1999_n1_f2__Q02]]

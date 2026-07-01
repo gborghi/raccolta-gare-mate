@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q05
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Parte d acqua in B (biforcazioni del fiume)*
 
@@ -63,3 +66,18 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Part of water in B (river forks) < MSK1/>
+
+![[src_kangourou_2008_student_marzo__prob5.png]]
+
+> A river starts at point A. In its course it is divided into two parts; the first branch receives 2/3 of the water and the second the rest. Later the first branch is divided into three sub-branches, of which the first receives 1/8 of the water, the second 5/8 and the third the rest. Finally, the latter sub-region encounters the second branch of the first river fork: the map below illustrates the situation. What part of the initial water flows to point B? The Commission has decided to extend the scope of this Regulation to the following areas:
+> 
+> I'm going to pay. I'm going to pay. 29 29 Kang 2008 Kang 2008 A) B) C) D) E)
+
+**Answer:** D
+[[src_kangourou_2008_student_marzo__Q05]]

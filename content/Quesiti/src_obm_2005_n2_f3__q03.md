@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f3__Q03
 parent: src_obm_2005_n2_f3
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given product ratio equals 1/11, find cyclic sum of a/(a+b)*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qikjZ95ZyXid25_31zk99bAk_4evNgeC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dato che il rapporto del prodotto è uguale a 1/11, trovi la somma ciclica di a/(a+b) *
+
+> Dato che $$\frac{(a-b)(b-c)(c-a)}{(a+b)(b+c)(c+a)} = \frac{1}{11},$$ qual è il valore di $$\frac{a}{a+b} + \frac{b}{b+c} + \frac{c}{c+a}\,?$$
+
+[[src_obm_2005_n2_f3__Q03]]

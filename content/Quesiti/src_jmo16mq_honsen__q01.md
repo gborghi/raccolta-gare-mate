@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2006 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo16mq_honsen__Q01
 parent: src_jmo16mq_honsen
 competition: Japan Mathematical Olympiad 2006 — Honsen (Final)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle geometry: prove two arc-midpoint chords are equal*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bl8cg_2YQ8omBOceEpKIPRLxJoCe7Zlw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Geometria del cerchio: dimostrare che due accordi a punto medio dell'arco sono uguali*
+
+> Lasciate che $O$ sia un cerchio, e lasciate che cinque punti $A, M, B, C, D$ si trovino su $O$ in questo ordine. Supponiamo che l'arco $MA$ e l'arco $MB$ siano divisi (cioè si prendono i loro punti medi). Il $P$ e il $Q$ siano rispettivamente le intersezioni della linea $AC$ con la linea $MD$ e della linea $BD$ con la linea $MC$, e il $X$ e il $Y$ siano i due punti di intersezione della linea $PQ$ con il cerchio $O$. Prove che $MX = MY$.
+
+[[src_jmo16mq_honsen__Q01]]

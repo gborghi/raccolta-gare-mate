@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo24yq_yosen__Q11
 parent: src_jmo24yq_yosen
 competition: Japan Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill 6×6 array with integers 1–6; two compositional conditions; count valid arrays*
 
@@ -50,3 +53,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 122
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Fill 6×6 array con numeri interi 16; due condizioni di composizione; contare array validi*
+
+> Scrivere un numero intero da $1$ a $6$ in ogni cella di un array $6 \times 6$ $(a_{i,j})$ (dove $1 \le i, j \le 6$), con la ripetizione consentita. Per ogni riga $i$, definire la funzione $f_i : \{1,\ldots,6\} \to \{1,\ldots,6\}$ con $f_i(j) = a_{i,j}$. Conteggi il numero di modi per riempire la matrice in modo che entrambe le seguenti condizioni si applichino a tutti gli indici validi: \begin{itemize} \item Per ogni $i$ con $1 \le i \le 6$: $f_i(f_i(j)) = i$ per tutti $j$ con $1 \le j \le 6$. \item Per ogni $i, k$ con $1 \le i, k \le 6$: $f_{f_i(k)}(j) = f_i(f_k(j))$ per tutti $j$ con $1 \le j \le 6$. # Finire #
+
+**Risposta:** 122
+[[src_jmo24yq_yosen__Q11]]

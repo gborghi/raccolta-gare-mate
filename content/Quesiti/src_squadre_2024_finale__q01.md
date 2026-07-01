@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Finale Nazionale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_finale__Q01
 parent: src_squadre_2024_finale
 competition: Gara a Squadre 2024 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area unione tre rettangoli su diagonali, AB=60 BC=80*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 8925
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of union three rectangles on diagonals, AB=60 BC=80*
+
+> A relaxing cruise Vennma, Dafnne, Fredmath, S-Higgs and their trusted friend Scoobe-Zout are on their way to meet Fredmath's parents and set off on a relaxing cruise to celebrate his birthday. During the trip, between one chatter and the other, Vennma draws on his notebook an ABCD rectangle with AB = 60mm and BC = 80mm. On the diagonal AC constructs a rectangle such that AC is one side and the side opposite it passes through B. Similarly on BD it builds a rectangle passing through A. Dafnne takes the lipstick and colours the whole figure and finally exclaims: "Now it's much better!" Calculate the colored area or the area of the union of the three rectangles.
+
+**Answer:** 8925
+[[src_squadre_2024_finale__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2008 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2008__Q10
 parent: src_cn_cmc_2008
 competition: China Mathematical Competition 2008
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find general term of sequence given relation involving partial sum*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\dfrac{1}{2^n} - \dfrac{1}{n(n+1)}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il termine generale della sequenza data relazione che coinvolge la somma parziale*
+
+> $S_n$ indichi la somma dei primi termini $n$ in una sequenza di numeri $\{a_n\}$, soddisfacendo $$S_n + a_n = \frac{n-1}{n(n+1)}, \quad n = 1, 2, \ldots$$.
+
+**Risposta:** $\dfrac{1}{2^n} - \dfrac{1}{n(n+1)}$
+[[src_cn_cmc_2008__Q10]]

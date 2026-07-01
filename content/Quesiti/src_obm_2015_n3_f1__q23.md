@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n3_f1__Q23
 parent: src_obm_2015_n3_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 3 — Fase 1
@@ -38,6 +39,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest side of triangle formed by tangents through bisector–circumcircle intersections*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ph--CYLM4x0vrItSPRlFw4bDHIZZM-vO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il lato più piccolo del triangolo formato da tangenti attraverso intersezioni bisettoricircolo*
+
+> In triangolo $ABC$, $AB = 40$, $AC = 42$, $BC = 58$. I bisettori di angolo interno di $A$, $B$ e $C$ incontrano di nuovo il cerchio circonscritto di $ABC$ rispettivamente a $K$, $L$ e $M$. Le linee tangenti al cerchio circoscritto a $K$, $L$, $M$ formano un triangolo. Determina il lato più piccolo di questo triangolo.
+> 
+> (A) $\dfrac{280}{3}$ \quad (B) $58$ \quad (C) $145$ \quad (D) $\dfrac{145}{7}$ \quad (E) $\dfrac{2900}{17}$
+
+**Risposta:** A
+[[src_obm_2015_n3_f1__Q23]]

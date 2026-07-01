@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q04
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Congruent integral polynomials for infinitely many primes imply shift*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Polinomi integrali congruenti per infinite prime implicano spostamento*
+
+> $f(x)$ e $g(x)$ siano polinomi integrali. Supponiamo che per infiniti numeri primi $p$, esista un intero $m_p$ tale che $f(a) \equiv g(a + m_p) \pmod{p}$ per ogni intero $a$. Prove che $f(x) = g(x + r)$ per un numero razionale $r$.
+
+[[src_cn_ctst_2021__Q04]]

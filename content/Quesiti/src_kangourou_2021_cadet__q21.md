@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q21
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza della strada piu breve tra tre villaggi*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of shortest road between three villages*
+
+![[src_kangourou_2021_cadet__prob21.png]]
+
+> Three villages are connected by forest roads as the map suggests. The road from Palù to Colle passing through Due Fonti is 1 km longer than the direct road; the road from Palù to Due Fonti passing through Colle is 5 km longer than the direct road; the road from Colle to Due Fonti passing through Palù is 7 km longer than the direct road. How long is the shortest of the three villages? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 5
+
+**Answer:** C
+[[src_kangourou_2021_cadet__Q21]]

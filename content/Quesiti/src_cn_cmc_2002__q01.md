@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2002 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2002__Q01
 parent: src_cn_cmc_2002
 competition: China Mathematical Competition 2002
@@ -31,6 +32,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Monotone increasing interval of a logarithmic composite function*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Intervallo di aumento monotono di una funzione logaritmica composta*
+
+> L'intervallo in cui la funzione $f(x) = \log_{\frac{1}{2}}(x^2 - 2x - 3)$ aumenta monotone è \quad (\quad).
+> 
+> (A) $(-\infty, -1)$ \qquad (B) $(-\infty, 1)$ \qquad (C) $(1, +\infty)$ \qquad (D) $(3, +\infty)$
+
+**Risposta:** A
+[[src_cn_cmc_2002__Q01]]

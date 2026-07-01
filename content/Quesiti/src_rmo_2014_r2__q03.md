@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Region 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_r2__Q03
 parent: src_rmo_2014_r2
 competition: Regional Mathematical Olympiad 2014
@@ -32,6 +33,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all pairs (x,y) of positive integers with 2x+7y dividing 7x+2y*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zoLYrbaGeep3ecupcTbEh8c0vc3wHPKy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie (x,y) di numeri interi positivi con 2x+7y dividendo 7x+2y*
+
+> Trova tutte le coppie $(x, y)$ di integri positivi in modo tale che $2x + 7y$ divida $7x + 2y$.
+
+[[src_rmo_2014_r2__Q03]]

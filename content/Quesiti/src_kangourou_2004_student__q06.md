@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 - Student (marzo) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_student__Q06
 parent: src_kangourou_2004_student
 competition: Kangourou 2004 - Student (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di celebrita in un gruppo di 100 persone*
 
@@ -56,3 +59,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1c0DxcoZ2bea8xIkdznDVGGq9JkRNucyJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of celebrations in a group of 100 people< MSK1/>
+
+> By definition, in a group of people a celebrity is a person in the group who is known to every other person in the group, but doesn't know any other person in the group. Consider a group of 100 people: within it the number of celebrities A) is necessarily 0 B) is necessarily 1 C) is necessarily 0 or 1 D) is necessarily 0 or 100 E) is necessarily 1 or 2 2004
+> 
+> I'm going to pay. I'm going to pay. 29 29 Kang 2004 Kang 2004 tudent
+
+**Answer:** C
+[[src_kangourou_2004_student__Q06]]

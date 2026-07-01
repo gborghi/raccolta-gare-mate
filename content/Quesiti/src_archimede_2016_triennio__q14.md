@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Triennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_triennio__Q14
 parent: src_archimede_2016_triennio
 competition: Giochi di Archimede 2016 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ampiezza angolo APC con angolo esterno*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Agreement of the APC angle with the outer angle*
+
+![[src_archimede_2016_triennio__prob14.png]]
+
+> Given a circumference γ with a centre O and a diameter AB of 12 cm, either C is a point of γ such that A OC = 60°, and either P is a point on the extension of the diameter AB, on the part of B, such that OD = DP (where D is the point of dintersection between PC and γ between C and P). What is the width of the angle A  PC?
+>
+> - **(A)** 15°
+> - **(B)** 45° 2
+> - **(C)** 20°
+> - **(D)** 18°
+> - **(E)** 24° O A B 60° C D P
+
+**Answer:** C
+[[src_archimede_2016_triennio__Q14]]

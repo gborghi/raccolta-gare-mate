@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f3__Q05
 parent: src_obm_2006_n3_f3
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Opposite sides of convex 1003-gon are parallel and congruent*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZCKsxgxArFWOqQ-EkYy1PtXgXiuJ90nh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>I lati opposti di 1003-gon convex sono paralleli e congruenti< MSK1/>
+
+> Che $P$ sia un poligono converso con lati 2006. Le diagonali 1003 che collegano vertici opposti e i segmenti 1003 che collegano i punti medi di lati opposti sono tutti simultanei, cioè tutti i segmenti del 2006 condividono un punto comune. Prova che i lati opposti di $P$ sono paralleli e congruenti.
+
+[[src_obm_2006_n3_f3__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre Ecolier 2015 Finale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_ecolier_f__Q02
 parent: src_kangourou_2015_squadre_ecolier_f
 competition: Kangourou Coppa Squadre Ecolier 2015 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante monete da 10 centesimi (20 monete, 5 euro)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iZrTBi-soab93JlVJUtlAaAcp-N69n0R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many 10-cent coins (20 coins, 5 euro) *
+
+> Isabella Isabella's coins have 20 coins in her purse, for a total value of 5 euros. Some coins are 10 cents, others 20 cents, others 50 cents. Fifty-cent coins are more than ten-cent coins. How much are those 10 cents?
+
+**Answer:** 2
+[[src_kangourou_2015_squadre_ecolier_f__Q02]]

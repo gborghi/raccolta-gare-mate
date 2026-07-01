@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q01
 parent: src_archimede_2012_febb_2livello
 competition: Archimede Gara Febbraio 2012 (8 feb) - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Da 3a+b su a-b uguale 2, calcolare a^3/b^3*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*From 3a+b on a-b equal to 2, calculate a^3/b^3*
+
+> Two numbers a and b are such that 3a + b a −b = 2. How much is a3 b3 worth ?
+>
+> - **(A)** −27
+> - **(B)** −8
+> - **(C)** 1
+> - **(D)** 8
+> - **(E)** 27.
+
+**Answer:** A
+[[src_archimede_2012_febb_2livello__Q01]]

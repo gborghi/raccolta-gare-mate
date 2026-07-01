@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2015 — Set B — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2015_b__Q10
 parent: src_prmo_2015_b
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2015
@@ -35,6 +36,8 @@ tags:
   - regione/b
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *2×3 and 3×4 rectangles in a square without overlap; minimum square area*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 25
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*2×3 e 3×4 rettangoli in un quadrato senza sovrapposizione; superficie quadrata minima*
+
+> Un rettangolo $2 \times 3$ e un rettangolo $3 \times 4$ sono contenuti in un quadrato senza sovrapposizioni in alcun punto interno, e i lati del quadrato sono paralleli ai lati dei due rettangoli dati. Qual è la più piccola area possibile del quadrato?
+
+**Risposta:** 25
+[[src_prmo_2015_b__Q10]]

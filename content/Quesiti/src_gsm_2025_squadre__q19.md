@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Miste GSM (locale Genova) 2025 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2025_squadre__Q19
 parent: src_gsm_2025_squadre
 competition: Gara a Squadre Miste GSM (locale Genova) 2025
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio di una circonferenza tangente in un triangolo*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0285
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rage of tangent circumference in a triangle*
+
+![[src_gsm_2025_squadre__prob19.png]]
+
+> In the triangle Carlo Càssola In the triangle ABC, the side AB is 17 m long, the side BC is 26 m long, and the side CA is 25 m long. Draw a circle with a center on the BC side, tangent to the other two sides. How much is its radius in mm? : 9999
+
+**Answer:** 0285
+[[src_gsm_2025_squadre__Q19]]

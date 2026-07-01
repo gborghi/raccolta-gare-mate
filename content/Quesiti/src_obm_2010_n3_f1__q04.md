@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2010_n3_f1__Q04
 parent: src_obm_2010_n3_f1
 competition: Olimpíada Brasileira de Matemática 2010 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ana descends and Beatriz climbs a staircase; find remaining fractions on crossing/finishing.*
 
@@ -52,3 +55,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-hPqDubLFEX3M1cha5giUyDzdKyyGbDh/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ana scende e Beatriz sale una scala; trova le frazioni rimanenti al passaggio/finitura.*
+
+> Ana cominciò a scendere una scala un istante dopo che Beatriz iniziò a salire. Beatriz era salita $\frac{3}{4}$ delle scale quando ha attraversato Ana. In quel momento, quale frazione di Ana doveva ancora discendere? Sapendo che la velocità di Ana è doppia di Beatriz, quale frazione della scala dovrà ancora scendere quando Beatriz finirà?
+>
+> - **(A)** $\frac{1}{4}$
+> - **(B)** $\frac{1}{3}$
+> - **(C)** $\frac{1}{12}$
+> - **(D)** $\frac{5}{12}$
+> - **(E)** $\frac{2}{3}$
+
+[[src_obm_2010_n3_f1__Q04]]

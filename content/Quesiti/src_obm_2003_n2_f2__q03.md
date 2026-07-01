@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n2_f2__Q03
 parent: src_obm_2003_n2_f2
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 2 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the area of a paper region after folding and unfolding a rectangle three times*
 
@@ -49,3 +52,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sARgZdHvMaU-7zLZ37YU31RP3OKsBQ1b/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'area di una regione di carta dopo aver piegato e svolto un rettangolo tre volte*
+
+> Un foglio rettangolare $ABCD$ di superficie $300\,\text{cm}^2$ è stato ripiegato a metà e poi svolto (segmento $MN$); è stato ripiegato e svolto (segmento $MC$) e infine ripiegato e svolto lungo la diagonale $BD$. Calcolare l'area del pezzo di carta delimitata dalle linee puntate (la regione scura nella figura).
+
+![[src_obm_2003_n2_f2__Q03.png]]
+
+[[src_obm_2003_n2_f2__Q03]]

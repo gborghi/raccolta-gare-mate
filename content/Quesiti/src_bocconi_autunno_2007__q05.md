@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2007 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2007__Q05
 parent: src_bocconi_autunno_2007
 competition: Giochi d'Autunno 2007
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ora in cui suona la campanella della scuola di Luca*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7,58
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Now that the bell rings at Luke's school*
+
+> Every morning, Luke wakes up at 6:48 a.m. and wakes up five minutes later. They then take a quarter of an hour to eat breakfast, 18 minutes to wash and dress, and 6 minutes to carefully check the contents of the folder. Then take one minute to greet your mother with affection and three minutes to get to the bus stop. Wait for him for two minutes. The bus leaves him outside the school a quarter of an hour later. At this point, he still has five minutes left to chat with his companions before the bell rings. What time exactly is the bell ringing at Luke's school?
+
+**Answer:** 7,58
+[[src_bocconi_autunno_2007__Q05]]

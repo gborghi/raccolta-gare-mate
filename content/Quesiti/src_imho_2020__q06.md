@@ -1,6 +1,7 @@
 ---
 title: IMO 2020 (LXI International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2020__Q06
 parent: src_imho_2020
 competition: IMO 2020 (LXI International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Positive constant c so a line separates S from each point*
 
@@ -49,3 +52,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lHIqSWrqlVCOmcFjndDhEYM3gZRYMB5g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Positive constant c so a line separates S from each point< MSK1/>
+
+> Prove that there exists a positive constant $c$ such that the following statement is true:
+> 
+> Consider an integer $n > 1$, and a set $S$ of $n$ points in the plane such that the distance between any two different points in $S$ is at least 1. It follows that there is a line $\ell$ separating $S$ such that the distance from any point of $S$ to $\ell$ is at least $cn^{-1/3}$.
+> 
+> (A line $\ell$ separates a set of points $S$ if some segment joining two points in $S$ crosses $\ell$.)
+> 
+> \textit{Note.} Weaker results with $cn^{-1/3}$ replaced by $cn^{-\alpha}$ may be awarded points depending on the value of the constant $\alpha > 1/3$.
+
+[[src_imho_2020__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2018 Finale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_finale__Q13
 parent: src_kangourou_2018_squadre_finale
 competition: Kangourou Coppa squadre 2018 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti parenti di 2018 con somma quadrati cifre*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0021
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1dMmKnOnlEC_eAvXkktkKfd6KtpuZmwnO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many relatives in 2018 with a sum of squares of digits*
+
+> Relative numbers Let's say that two positive integers are relative if they have the same sum of the squares of the digits. For example, the numbers 1111, 20 and 2 are related. How many are the relative positive integers of 2018 and narrowly smaller ones of 2018?
+
+**Answer:** 0021
+[[src_kangourou_2018_squadre_finale__Q13]]

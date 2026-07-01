@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f2__Q08
 parent: src_obm_2014_n1_f2
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square EFGH inscribed in square ABCD with midpoints I,J,K,L; find three areas*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*EFGH quadrato inciso in ABCD quadrato con punti di mezzo I,J,K,L; trovare tre aree*
+
+> Nella figura, abbiamo $AF = 12$ cm e $AE = 16$ cm. I vertici del quadrato $EFGH$ si trovano sui lati del quadrato $ABCD$, e i punti $I$, $J$, $K$, $L$ sono i punti di mezzo dei lati di $EFGH$.
+> 
+> a) Qual è la superficie del quadrato < MSK0/>? b) Qual è la superficie del quadrato < MSK1/>? c) Qual è la superficie del quadrato grigio all'interno del quadrato $EFGH$?
+
+![[src_obm_2014_n1_f2__Q08.png]]
+
+[[src_obm_2014_n1_f2__Q08]]

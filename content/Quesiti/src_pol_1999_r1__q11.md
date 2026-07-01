@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r1__Q11
 parent: src_pol_1999_r1
 competition: Olimpiade Matematica Polacca 1999 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Urn Polya scheme: white+black ball plus 50 white and 50 black; 50 times draw and return with extra same-color ball; most probable number of white balls.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Schema di Urn Polya: pallone bianco+nero più 50 bianchi e 50 neri; 50 volte a tiratura e ritorno con pallone extra dello stesso colore; numero più probabile di pallone bianche.*
+
+> C'è una palla bianca e una palla nera in un'urna. Inoltre, ci sono state date 50 palle bianche e 50 nere. Ripetiamo la seguente procedura 50 volte: scegliamo casualmente una palla dall'urna e la restituiamo all'urna insieme ad un'altra palla dello stesso colore. Qual e' il numero piu' probabile di sfere bianche nell'urna?
+
+[[src_pol_1999_r1__Q11]]

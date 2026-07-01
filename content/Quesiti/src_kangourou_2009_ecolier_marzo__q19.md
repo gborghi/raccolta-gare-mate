@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q19
 parent: src_kangourou_2009_ecolier_marzo
 competition: Kangourou 2009 - Ecolier (gara 19 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante case tra Gino e Silvia*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many houses between Gino and Silvia< MSK1/>
+
+![[src_kangourou_2009_ecolier_marzo__prob19.png]]
+
+> Gino and Silvia's houses are on the same side of the street. Before Gino's house, there are 27 other houses, then there are 13 more. Silvia's house, on the other hand, has more houses on her left than on her right. How many houses are there between Gino's and Silvia's (without counting theirs)? A) 6 B) 7 C) 8 D) 14 E) 21
+
+**Answer:** A
+[[src_kangourou_2009_ecolier_marzo__Q19]]

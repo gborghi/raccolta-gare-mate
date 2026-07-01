@@ -1,6 +1,7 @@
 ---
 title: XXII Olimpiade Italiana Cesenatico 2006 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2006__Q04
 parent: src_cesenatico_2006
 competition: XXII Olimpiade Italiana Cesenatico 2006
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Scacchiera infinita e numeri interi positivi scritti in spirale*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** dimostrato
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1a5Lshf2bV_5u5VJu3USrqJtBqyLicefL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Infinite chessboard and positive integers written in spirals*
+
+> On an infinite chessboard the positive integers are written in a spiral order: one starts from 1 and proceeds by widening by rotating in an anti-clockwise direction, as in the figure.
+> 
+> We call the "right half" of the chessboard the set of boxes made up of a $C$ box and all the boxes that are in the line of $C$ and to the right of $C$. (see figure)
+> 
+> (a) Demonstrate that there is a right half whose boxes do not contain multiples of 3.
+> 
+> (b) Determine whether there are 2 to 2 disjoint semicircles whose boxes do not contain multiples of 3.
+
+**Answer:** dimostrato
+[[src_cesenatico_2006__Q04]]

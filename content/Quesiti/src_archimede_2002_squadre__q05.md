@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_squadre__Q05
 parent: src_archimede_2002_squadre
 competition: Archimede 2002 - Gara Nazionale a Squadre (Cesenatico)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *divisibilita dei numeri di membri*
 
@@ -46,3 +49,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3960
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16VSh_6MxR-WoexE5tqBJtT-NsZAD5ImX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*divisibility of the number of members*
+
+> **Conferences of mathematicians**  35 points
+> 
+> Professor Abacus is part of a very ancient society of mathematicians founded in the year 232. The members of the society call
+> 
+> (a) "accommodating" any number such that by adding 1 the result is divisible by 2, by adding 2 is divisible by 3, by adding 3 is divisible by 4 and by adding 4 is divisible by 5.
+> 
+> (b) "rebels" means any number such that by subtracting 1 the result is divisible by 2, by subtracting 2 is divisible by 3, by subtracting 3 is divisible by 4, and by subtracting 4 is divisible by 5.
+> 
+> Members of the Society hold a meeting in all accommodating and rebellious years. Knowing that Professor Abacus is 75 years old today, he joined the association when he was 15 and calculated the sum of the years of the conferences he attended.
+
+**Answer:** 3960
+[[src_archimede_2002_squadre__Q05]]

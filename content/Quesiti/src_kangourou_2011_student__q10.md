@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Student (gara marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_student__Q10
 parent: src_kangourou_2011_student
 competition: Kangourou 2011 Student (gara marzo)
@@ -26,6 +27,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di dadi per equiprobabilita tra due eventi*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfPDy8EOXQs_jE6pjoxfvXUQZAzO_fB0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of dice per team probability between two events*
+
+> A rectangle is divided into 3 rectangles, one of which has sides of length 7 and 11 and another has sides of length 4 and 8. The third rectangle has, among the eligible ones, the maximum area: what are the dimensions of its sides? (a) 1 and 11 (b) 3 and 4 (c) 3 and 8 (d) 7 and 8 (e) 8 and 11 11 al N. 20 is worth 4 points each.
+
+[[src_kangourou_2011_student__Q10]]

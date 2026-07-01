@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1981-82 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1981-82_round2__Q04
 parent: src_bmo_1981-82_round2
 competition: British Mathematical Olympiad 1981-82 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two points on curve x^n - ay^n = b; area of triangle bound*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1e8i3xZYTs6OhsVopzbRKd7oUXgpnp9WB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Due punti sulla curva x^n - ay^n = b; area del triangolo legato < MSK1/>
+
+> $P_1(x_1, y_1)$, $P_2(x_2, y_2)$ sono due punti della curva $x^n - ay^n = b$ per i quali $x > 0$, $y > 0$. Qui $a$ e $b$ sono costanti positive e $n$ è un intero $> 1$. Prova che se $y_1 < y_2$ e $\Delta$ sono l'area del triangolo $OP_1P_2$, allora $$by_2 > 2ny_1^{n-1} a^{1-\frac{1}{n}} \Delta.$$
+
+[[src_bmo_1981-82_round2__Q04]]

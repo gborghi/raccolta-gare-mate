@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q14
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di assegnare categorie a 8 missioni (1 G,2 M,5 P)*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to assign categories to 8 missions (1 G,2 M,5 P) *
+
+> A distracted official [30] The missions are catalogued by the village council in descending order of difficulty, in categories A, B, C, D. There are three levels of mateninja, the Piccin (the apprentices), the Mezzin and the Grandin (the most skilled). Missions A are entrusted exclusively to the Grandin, those B only to the Mezzin, those C can be assigned to the Mezzin or Piccin, those D only to the Piccin. A distracted official lost the scroll on which he had written the categories of the last eight missions inspected by the board. All you know is that one of these was entrusted to a Grandin, two to a Mezzin, five to a Piccin team. But he doesn't remember which missions were entrusted to whom. In how many ways can you assign each mission its own category in a way that is consistent with the information it has?
+
+[[src_cesenatico_2007_squadre_pubblico__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2007 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo5q__Q05
 parent: src_jjmo5q
 competition: Japan Junior Mathematical Olympiad 2007
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *5×5 grid numbered 1–16; find minimum m for a column-sum condition*
 
@@ -44,3 +47,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FM7qT0uFZngvueIGDjb49LJ6RqYwnfDE/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*5×5 griglia numerata 116; trovare m minimo per una condizione colonna-somma*
+
+> C'è una griglia $5 \times 5$. I numeri $1, 2, \ldots, 16$ sono scritti nella parte superiore sinistra $4 \times 4$ delle celle (un numero per cella) in un certo ordine. Per ciascuna delle quattro righe (righe $1$$4$), la somma cumulativa in corso delle quattro voci di quella riga, letta da sinistra a destra, è registrata nella cella più a destra di quella riga (marcato $\clubsuit$). Allo stesso modo, per ciascuna delle quattro colonne, la somma cumulativa dalla riga $1$ alla riga $4$ è registrata nella cella inferiore di tale colonna. La cella in basso a destra è lasciata vuota. Occorre soddisfare la seguente condizione:
+> 
+> \textbf{Condition ($\clubsuit$):} Nel momento in cui vengono registrate le somme correnti per una data riga, se il totale cumulativo raggiunge $m$ o più nella voce più a destra, allora almeno $2$ delle celle di quella riga le somme correnti sono $m$ o più. Inoltre, nella riga $5$ (la riga inferiore), almeno $2$ delle quattro somme di colonne è $m$ o più.
+> 
+> Trova il numero intero più piccolo $m$ che soddisfa questa condizione.
+
+[[src_jjmo5q__Q05]]

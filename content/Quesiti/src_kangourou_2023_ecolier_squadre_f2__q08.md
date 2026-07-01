@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 2 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre_f2__Q08
 parent: src_kangourou_2023_ecolier_squadre_f2
 competition: Kangourou Squadre 2023 Ecolier Finale 2
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso serbatoio vuoto data turbina e consumo*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0012
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1qyUSFpstIZSvBmMoaTyq05WhMSwUshuh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Voice tank weight given turbine and consumption*
+
+> A tank can hold enough fuel to power a turbine for 40 hours of uninterrupted operation, but no more; after seven hours of operation, the turbine's speed of rotation, and thus fuel consumption, is halved. The turbine started operating at 12:00 today with the tank full and has always been in operation. At 4 p.m., the tank with the remaining fuel weighed 90 pounds; at 10 p.m., it still weighed 72 pounds. How many pounds does the empty tank weigh?
+
+**Answer:** 0012
+[[src_kangourou_2023_ecolier_squadre_f2__Q08]]

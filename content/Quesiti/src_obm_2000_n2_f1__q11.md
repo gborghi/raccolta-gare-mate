@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n2_f1__Q11
 parent: src_obm_2000_n2_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *100th positive multiple of 7 or 8 in increasing order*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LU7mU_QsqdFG3l65xLvp0sBk3RUq1Bzl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>100° moltiplo positivo di 7 o 8 in ordine crescente< MSK1/>
+
+> Scrivi in ordine crescente tutti i numeri interi positivi che sono multipli di $7$ o $8$ (o entrambi), ottenendo $7, 8, 14, 16, \ldots$ Il numero scritto è:
+> 
+> A) $406$ \quad B) $376$ \quad C) $392$ \quad D) $384$ \quad E) $400$
+
+**Risposta:** E
+[[src_obm_2000_n2_f1__Q11]]

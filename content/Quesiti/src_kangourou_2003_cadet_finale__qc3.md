@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia) — Quesito C3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_cadet_finale__QC3
 parent: src_kangourou_2003_cadet_finale
 competition: Kangourou 2003 - Finale nazionale Cadet (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza iniziale del rettangolo magico*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 64
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Initial length of the magic rectangle*
+
+> Mirabilandia's magical leather rectangle shrinks by half in length and by a third in height every time it fulfills a wish of its owner. It is known that at first the height measured $27$ centimeters and that, when $3$ desires were fulfilled, the rectangle became a square. How long was the original length?
+
+**Answer:** 64
+[[src_kangourou_2003_cadet_finale__QC3]]

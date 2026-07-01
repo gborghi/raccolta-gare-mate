@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f1__Q15
 parent: src_obm_2016_n3_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ordering probabilities p1, p2, p3 of obtaining large sums with 1, 2 and 3 dice*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Possibilità di ordinare p1, p2, p3 di ottenere grandi somme con 1, 2 e 3 dadi*
+
+> $p_1=\frac{2}{6}=\frac13$ sia la probabilità di ottenere un risultato uguale a $5$ o $6$ con un dado. Per due dadi (risultati $6^2=36$), i risultati favorevoli sono somme uguali a $10,11,12$: $2+1+2+1=6$ favorevoli, quindi $p_2=\frac{6}{36}=\frac16$. Per tre dadi (risultati $6^3=216$), il conteggio delle somme $15,16,17,18$ dà $20$ risultati favorevoli, quindi $p_3=\frac{20}{216}=\frac{5}{54}$. Di conseguenza < MSK11/>. Ordini $p_1$, $p_2$, $p_3$. [Valore della chiave di risposta: $p_3<p_2<p_1$.]
+
+**Risposta:** E
+[[src_obm_2016_n3_f1__Q15]]

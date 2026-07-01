@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1997 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1997_r2__Q02
 parent: src_pol_1997_r2
 competition: Olimpiade Matematica Polacca 1997 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove ratio identity for point P inside triangle with equal angles*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fDY_chv3u9rsyb6LgvZXDNkbEcZAAdED/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove l'identità del rapporto per il punto P all'interno di un triangolo con angoli uguali*
+
+> $P$ sia il punto all'interno di un triangolo $ABC$ tale che $\angle PBA = \angle PCA$. Provare che < MSK0/>
+
+[[src_pol_1997_r2__Q02]]

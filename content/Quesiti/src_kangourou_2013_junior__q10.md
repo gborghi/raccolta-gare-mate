@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Junior — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_junior__Q10
 parent: src_kangourou_2013_junior
 competition: Kangourou 2013 marzo Junior
@@ -26,6 +27,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale espressione e la piu grande*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which expression is the largest *
+
+> Which of the following numbers is the largest? A) 20 • B) 13 C) D) 3 E) Questions from N. 11 al N. 20 is worth 4 points each.
+
+[[src_kangourou_2013_junior__Q10]]

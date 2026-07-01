@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f3__Q03
 parent: src_obm_2008_n2_f3
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *No positive integers satisfy $x^x + y^y = 2^{2009}$*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mPFxeuedSzPeVHyGa5uTEm_ubRSK1ROx/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK1/>Nessun numero intero positivo soddisfa < MSK0/> < MSK2/>
+
+> Prova che non esistono numeri interi positivi $x$ e $y$ tali da $x^x + y^y = 2^{2009}$.
+
+[[src_obm_2008_n2_f3__Q03]]

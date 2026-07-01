@@ -1,6 +1,7 @@
 ---
 title: IMO 1993 (XXXIV International Mathematical Olympiad) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1993__Q04
 parent: src_imho_1993
 competition: IMO 1993 (XXXIV International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangle inequality with altitudes of triangle PQR*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Go0gpsCj9HK8rw7A_MFaoiSJsC9e1hL9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Triangle inequality with altitudes of triangle PQR
+
+> For three points $P$, $Q$, $R$ in the plane, we define $m(PQR)$ as the minimum length of the three altitudes of $\triangle PQR$. (If the points are collinear, we set $m(PQR) = 0$.)
+> 
+> Prove that for points $A$, $B$, $C$, $X$ in the plane, $$m(ABC) \le m(ABX) + m(AXC) + m(XBC).$$
+
+[[src_imho_1993__Q04]]

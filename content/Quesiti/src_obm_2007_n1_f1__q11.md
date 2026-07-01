@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f1__Q11
 parent: src_obm_2007_n1_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *CD store multiplies prices by 0.68; find discount percentage*
 
@@ -46,3 +49,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>CD store moltiplica i prezzi di 0,68; trovare percentuale di sconto < MSK1/>
+
+> Un negozio di CD sta per organizzare una liquidazione e, per questo, il gestore ha chiesto a Anderlaine di moltiplicare tutti i prezzi per $0.68$. In questa liquidazione, il negozio offre uno sconto di:
+> 
+> (A) $68\%$ \quad (B) $6.8\%$ \quad (C) $0.68\%$ \quad (D) $3.2\%$ \quad (E) $32\%$
+
+**Risposta:** E
+[[src_obm_2007_n1_f1__Q11]]

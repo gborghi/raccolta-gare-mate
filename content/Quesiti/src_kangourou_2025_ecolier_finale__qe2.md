@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2025 Ecolier finale — Quesito E2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2025_ecolier_finale__QE2
 parent: src_kangourou_2025_ecolier_finale
 competition: Kangourou 2025 Ecolier finale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Assegnazione colori con 4 numeri rossi somma verde+blu*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** esempio assegnazione
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1EyuX-CGpqanxcrAEhrv2lXfkmU9jNjKg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Assignment of colours with 4 red numbers sum green+blue*
+
+> To each integer between 1 and 9 included, Marta assigned one and only one of the colors red, blue, green so that each red number is the sum of a green number and a blue number. The numbers Marta assigned the red to are 4. Write down one of the assignments that Marta may have made.
+
+**Answer:** esempio assegnazione
+[[src_kangourou_2025_ecolier_finale__QE2]]

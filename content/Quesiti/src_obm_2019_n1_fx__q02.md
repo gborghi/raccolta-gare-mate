@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2019_n1_fx__Q02
 parent: src_obm_2019_n1_fx
 competition: Olimpíada Brasileira de Matemática 2019 — Nível 1 — Fase x
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to place colored tiles on a 2×5 grid*
 
@@ -57,3 +60,25 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pakMGdmqn3t7vFmFJmF7aCi7jvCUTIEX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i modi per posizionare le piastrelle colorate su una griglia 2×5*
+
+> Betinha ha 3 piastrelle bianche, 4 piastrelle nere e 3 piastrelle grigie, tutte della stessa dimensione e che differiscono solo di colore. Lei mette queste piastrelle sul tavolo di sotto, che è composto da quadrati piccoli uguali, al massimo una piastrella per piccolo quadrato.
+> 
+> In quanti modi può riempire il tavolo in modo che:
+> 
+> a) sono poste esattamente tre piastrelle, con una piastrella bianca, una piastrella nera e una piastrella grigia solo nella prima riga orizzontale?
+> 
+> b) nella seconda riga orizzontale ci sono esattamente tre piastrelle nere?
+> 
+> (c) vengono disposte esattamente tre piastrelle di colori diversi?
+> 
+> d) tutte le dieci piastrelle sono posizionate in modo tale che in due piccoli quadrati che condividono un lato non ci siano due piastrelle nere?
+
+![[src_obm_2019_n1_fx__Q02.png]]
+
+[[src_obm_2019_n1_fx__Q02]]

@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2 —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_nu_f2__Q05
 parent: src_obm_2002_nu_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Iterated logarithm product defines a_n; determine convergence of sum 1/a_n*
 
@@ -52,3 +55,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il prodotto del logaritmo iterato definisce a_n; determina la convergenza della somma 1/a_n*
+
+> Per $x \in \mathbb{R}$, definire $\ln_0(x) = x$, e per ogni $k \in \mathbb{N}$, se $\ln_k(x) > 0$, definire $\ln_{k+1}(x) = \ln(\ln_k(x))$, dove $\ln$ è il logaritmo naturale.
+> 
+> Data una cifra integrale positiva $n$, definire $k(n)$ come la più grande $k$ tale che $\ln_k(n) \ge 1$, e definire $a_n$ come $$a_n = \prod_{j=0}^{k(n)} \ln_j(n) = n \cdot \ln(n) \cdot \ln\ln(n) \cdots \ln_{k(n)}(n).$$ Determinare se la serie $\displaystyle\sum_{n=1}^{\infty} \dfrac{1}{a_n}$ converge o diverge.
+
+[[src_obm_2002_nu_f2__Q05]]

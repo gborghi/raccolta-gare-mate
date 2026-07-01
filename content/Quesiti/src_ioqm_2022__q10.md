@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2022 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2022__Q10
 parent: src_ioqm_2022
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2022
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *10-digit number 9876543210, count new numbers obtained by swapping disjoint adjacent-digit pairs*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 88
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p5qxJkoe9K0uL4Ua7fe93f4YvHARDmBB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*numero a 10 cifre 9876543210, contare i nuovi numeri ottenuti scambiando coppie di cifre adiacenti disgiunte*
+
+> Considera il numero di 10 cifre $M = 9876543210$. Ottieniamo un nuovo numero di 10 cifre da $M$ secondo la seguente regola: scegliamo una o più coppie di cifre adiacenti in $M$ e scambiamo le cifre in queste coppie scelte, mantenendo le altre al loro posto, otteniamo $M_1 = 9876543210$. Si noti che qualsiasi numero di coppie (disconseguite) può essere scambiato. Trova il numero di nuovi numeri che si possono ottenere così da $M$.
+
+**Risposta:** 88
+[[src_ioqm_2022__Q10]]

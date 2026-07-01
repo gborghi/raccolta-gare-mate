@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Gara del Pubblico — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_pubblico__Q22
 parent: src_cesenatico_2007_squadre_pubblico
 competition: Gara a Squadre Cesenatico 2007 - Gara del Pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo L per catena di addizione che raggiunge 12509*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1b3GNv_qXRtiTyNSAGgeyLh-h0MsN8kSh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum L for the additive chain reaching 12509*
+
+> Of moreninja and toads [70] Numeruto is engaged in the complex evocation of the wise giant mega-toad. A string of evocations for an integer N is a sequence of integers a0, a1, . . . , aL where a0 = 1, aL = N and each element (except a0) is the sum of two elements, not necessarily distinct, that precede it. What's the minimum value of L for a string of calls to give aL = 12509?
+
+[[src_cesenatico_2007_squadre_pubblico__Q22]]

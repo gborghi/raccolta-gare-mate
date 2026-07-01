@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2024 Student (gara individuale) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_student__Q06
 parent: src_kangourou_2024_student
 competition: Kangourou 2024 Student (gara individuale)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma 16^15 quattro volte espressa come potenza*
 
@@ -63,3 +66,17 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OJzdbsJRd_3RZ8oilFGQ0S4-Ws4IJ50n/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>sum 16^15 four times as power< MSK1/>
+
+> Which of the following numbers corresponds to the result of the sum 1615 + 1615 + 1615 + 1615 + 1615 ? A) 1619 B) 431
+> 	
+> C) 460 D) 1660 E) 260 x y 1 1 x y 1 1 x y 1 1 x y 1 1 x y 1 1
+>
+
+**Answer:** B
+[[src_kangourou_2024_student__Q06]]

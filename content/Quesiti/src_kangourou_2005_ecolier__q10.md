@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Ecolier (marzo) — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_ecolier__Q10
 parent: src_kangourou_2005_ecolier
 competition: Kangourou 2005 - Ecolier (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero pari con condizioni sulle cifre*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X1Lnueqb3yckeEalxJ45we1y7Jcc6NVf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Equal number with conditions on the digits*
+
+> Of the five numbers listed below, the one I chose is equal; all the numbers that make it are different from each other; the number of hundreds is twice that of the units; the number of tens is greater than the number of hundreds. What number did I pick? The Commission has decided to extend the period of validity of this Regulation to the following three years:
+> 
+> I'm going to pay. I'm going to pay. 7 Kang 2005 Kang
+
+**Answer:** E
+[[src_kangourou_2005_ecolier__Q10]]

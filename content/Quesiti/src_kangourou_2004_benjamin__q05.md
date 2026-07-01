@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Benjamin (18 marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_benjamin__Q05
 parent: src_kangourou_2004_benjamin
 competition: Kangourou 2004 Benjamin (18 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso di 1 mela e 1 arancia*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lCyipLviIwkhD5xx1GnJVDe-Npb5ew6U/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Weight of 1 apple and 1 orange < MSK1/>
+
+> 3 apples and 2 oranges weigh a total of 255 grams; 2 apples and 3 oranges weigh a total of 285 grams. All apples have the same weight and all oranges have the same weight. How many grams weigh one apple and one orange? A) 110 B) 108         C) 105        D) 104        E) 102
+
+**Answer:** B
+[[src_kangourou_2004_benjamin__Q05]]

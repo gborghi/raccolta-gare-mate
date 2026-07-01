@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2016 — Region 4 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2016_r4__Q04
 parent: src_rmo_2016_r4
 competition: Regional Mathematical Olympiad 2016
@@ -37,6 +38,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Box of 4032 scripts, odd/even score selection process, find remaining odd-score count*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nLwmoR34Kvy_obEKxxqlzF7zGjUJNCHa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadro di scritture 4032, processo di selezione di punteggi odd/even, trovare il restante numero di punteggi odd*
+
+> Una scatola contiene 4032 scritture di risposta, di cui esattamente la metà ha un numero imparato di segni. Scegliamo due script a caso e, se i punteggi su entrambi sono strani, rimettiamo una scrittura nella scatola e teniamo l'altra scrittura fuori. Se entrambe le sceneggiature hanno punteggi pari, rimettiamo una di loro e teniamo l'altra sceneggiatura fuori. Se c'è una sceneggiatura con punteggio pari e l'altra con punteggio impar, rimettiamo la sceneggiatura con punteggio impar e teniamo l'altra sceneggiatura fuori. Dopo aver seguito questa procedura un certo numero di volte, sono rimaste 3 scritture tra le quali c'è almeno una scrittura ciascuno con punteggi odd e even. Trova, con la prova, il numero di scritture con punteggi odd tra i tre a sinistra.
+
+[[src_rmo_2016_r4__Q04]]

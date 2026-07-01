@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2013-14 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2013-14_round2__Q03
 parent: src_bmo_2013-14_round2
 competition: British Mathematical Olympiad 2013-14 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence a_1=3, a_{n+1}=a_n^2+a_n-1; prove infinitely many prime divisors*
 
@@ -45,3 +48,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gxTVIckVBIyVVlwqu7d6UulSTigrFAu3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza a_1=3, a_{n+1}=a_n^2+a_n-1; dimostrare infiniti prime divisori*
+
+> Definire una sequenza $(a_n)$ per $a_1 = 3$ e $a_{n+1} = a_n^2 + a_n - 1$ per $n \geq 1$.
+> 
+> a) dimostrare che ci sono infiniti numeri primi che dividono almeno un termine della sequenza.
+> 
+> b) dimostrare che ci sono infinitamente molti numeri primi che non dividono alcun termine della sequenza.
+
+[[src_bmo_2013-14_round2__Q03]]

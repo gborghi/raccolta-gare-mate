@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2008-09 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2008-09_round1__Q06
 parent: src_bmo_2008-09_round1
 competition: British Mathematical Olympiad 2008-09 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality a³cosA + b³cosB + c³cosC < abc for obtuse triangle*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXGOMG__rn1G2sSN7-cdseEPQ7g9ONRS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza a3cosA + b3cosB + c3cosC < abc per il triangolo obtuso*
+
+> Il triangolo angolato ottuso $ABC$ ha lati di lunghezza $a$, $b$ e $c$ opposti rispettivamente agli angoli $\angle A$, $\angle B$ e $\angle C$. Provare che < MSK0/>
+
+[[src_bmo_2008-09_round1__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student (marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_marzo__Q12
 parent: src_kangourou_2006_student_marzo
 competition: Kangourou 2006 Student (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore abc (tre primi con somma e differenza)*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PShA8Gf9KAurNlhLMnqzLgjc0kCQ4O6R/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Abc value (three prime with sum and difference) *
+
+> Of three positive integers a, b, c we know that they are prime, that a > b > c, that a + b + c = 90 and that a - b - c = 28. How much is ABC ? The Commission has therefore decided to extend the scope of this Regulation to the following areas:
+> 
+> I'm going to pay. I'm going to pay. 30 30 Kang 2006 Kang 2006 tudent
+
+**Answer:** E
+[[src_kangourou_2006_student_marzo__Q12]]

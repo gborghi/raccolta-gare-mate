@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 2) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g2__Q18
 parent: src_bocconi_finaleint_2008_g2
 competition: >-
@@ -39,6 +40,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Gioco di triangolazioni di un esagono: dare nell'ordine tutti i valori ottenuti.*
 
@@ -57,3 +60,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4 soluzioni: 6 12 10 5 4 9 8 7 ; 7 6 9 4 5 10 12 8 ; 7 6 12 10 5 4 9 8 ; 6 9 4 5 10 12 8 7
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Game of triangles of a hexagon: order all the values obtained.*
+
+> It's called triangulation of a hexagon, a set of three non-intersecting diagonals that cut the hexagon into four triangles. Each triangle is associated with a 'value' equal to the sum of the numbers at the vertices of the hexagon that are not ends of a diagonal. So the triangle shown in the figure is 5. Albert plays as follows: $\bullet$ chooses a starting triangle; $\bullet$ then, a move consists of forming another triangle by replacing one of the drawn diagonals with another; $\bullet$ has no right to draw a triangle whose value has already been used during the match; $\bullet$ the value of the starting triangle must be less than that of the final triangle. During Albert's game, all possible values were obtained. Give these values in order (including the starting value).
+
+![[src_bocconi_finaleint_2008_g2__Q18.png]]
+
+**Answer:** 4 soluzioni: 6 12 10 5 4 9 8 7 ; 7 6 9 4 5 10 12 8 ; 7 6 12 10 5 4 9 8 ; 6 9 4 5 10 12 8 7
+[[src_bocconi_finaleint_2008_g2__Q18]]

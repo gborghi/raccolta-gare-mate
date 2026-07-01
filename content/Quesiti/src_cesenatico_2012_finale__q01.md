@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2012 - Finale Nazionale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2012_finale__Q01
 parent: src_cesenatico_2012_finale
 competition: Gara a Squadre Cesenatico 2012 - Finale Nazionale
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti anni del drago (somma cifre divisibile per 7)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1005
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many years of the dragon (sum of digits divisible by 7) *
+
+> Legend has it that whoever finds the seven dragon spheres can summon the dragon Shannon, and have a wish granted. However, to avoid too much use, Maximus, the creator of the spheres, imposed the condition that this be possible only in the years of the dragon, that is, those whose sum of the digits is divisible by 7. How many years of the dragon are there from year one to year 7050?
+
+**Answer:** 1005
+[[src_cesenatico_2012_finale__Q01]]

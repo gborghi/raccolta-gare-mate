@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2009 — Quesito
   17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2009__Q17
 parent: src_bocconi_finalenaz_2009
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2009
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tre numeri in progressione aritmetica con A+B, B+C, C+A quadrati*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** A = 482, B = 3362, C = 6242
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Three numbers in arithmetic progression with A+B, B+C, C+A squares*
+
+> IN PROGRESS The three integers $A$, $B$ and $C$ (with $400 < A < B < C < 5000$) are in arithmetic progression. Furthermore, the numbers $A+B$, $B+C$ and $C+A$ are all three squares. How much are $A$, $B$, $C$?
+
+**Answer:** A = 482, B = 3362, C = 6242
+[[src_bocconi_finalenaz_2009__Q17]]

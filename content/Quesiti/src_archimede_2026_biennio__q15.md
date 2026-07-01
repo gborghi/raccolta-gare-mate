@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2026 - Biennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_biennio__Q15
 parent: src_archimede_2026_biennio
 competition: Giochi di Archimede 2026 - Biennio
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazioni distinte cubo con 2+4 facce (10 colori)*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1P1KucAyr87TDEYECzIGrLze5Bc8c3UAH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Distinct cube colours with 2+4 faces (10 colours) < MSK1/>
+
+> Elena is busy coloring the faces of a large number of cubes. It's available in 10 different colors. In each cube, you want to color two faces of one color and the other four of another color. How many cubes, at most, can you color in different ways? (the colours of two cubes shall be considered the same if, moving them in any way, they do not appear distinguishable from the colours of the faces) 
+>
+> - **(A)** 90
+> - **(B)** 180
+> - **(C)** 200
+> - **(D)** 360
+> - **(E)** 100
+
+**Answer:** B
+[[src_archimede_2026_biennio__Q15]]

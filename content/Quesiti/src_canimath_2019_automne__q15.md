@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2019 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2019_automne__Q15
 parent: src_canimath_2019_automne
 competition: Coupe Animath Automne 2019
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle ABC altitudes: feet E, F; show AFHE is parallelogram given AH perpendicular to EF*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oOmLDN10nSIrcWcDC300Rb2-h5E-EoHW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Altezze del triangolo ABC: piedi E, F; mostra AFHE come parallelo dato AH perpendicolare a EF*
+
+> Lasciate che $ABC$ sia un triangolo. Che $E$ sia il piede dell'altitudine da $B$ del triangolo $ABC$ e $F$ il piede dell'altitudine da $C$ del triangolo $ABC$. $H$ sia il punto di intersezione delle linee $(BE)$ e $(CF)$, e $O$ il centro del cerchio circoscritto di $ABC$. Si noti che $H$ è l'ortocentro del triangolo. Indicare che $AF = AE$ e che il quadrilaterale $AFHE$ è un parallelo.
+
+[[src_canimath_2019_automne__Q15]]

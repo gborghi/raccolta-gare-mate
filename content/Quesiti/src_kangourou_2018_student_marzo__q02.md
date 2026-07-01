@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q02
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quale stanza si ritrova Renata attraversando le porte*
 
@@ -54,3 +57,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+In which room is Renata coming through the doors?
+
+![[src_kangourou_2018_student_marzo__prob2.png]]
+
+> The drawing shows Renata's house, in a single square. Entering through the porch, Renata crosses every door in the house once and for all. Which room is he in at the end of the path? A) 1
+> 	
+> B) 2
+> 	
+> C) 3 D) 4
+> 	
+> E) 5
+
+**Answer:** B
+[[src_kangourou_2018_student_marzo__Q02]]

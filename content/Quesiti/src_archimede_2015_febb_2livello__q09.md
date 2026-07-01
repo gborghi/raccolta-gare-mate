@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2015 - 2 livello — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_febb_2livello__Q09
 parent: src_archimede_2015_febb_2livello
 competition: Archimede Gara di Febbraio 2015 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita pedina in un angolo dopo 12 passi diagonali*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/147OSJf1wSBJHNEWKDKPVWMIP2TLevkAt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of footing at an angle after 12 diagonal steps*
+
+![[src_archimede_2015_febb_2livello__prob9.png]]
+
+> A pedal is initially located on the central box of a chessboard 5 < MSK0/> 5. One step of the pedina consists of moving in a randomly chosen box between those that have exactly one vertex in common with the box on which it is located. What is the probability that after 12 steps the pawn will be in any corner of the chessboard?
+>
+> - **(A)** 1 3
+> - **(B)** 4 25
+> - **(C)** 1 6
+> - **(D)** 4 13
+> - **(E)** 1 4
+
+**Answer:** E
+[[src_archimede_2015_febb_2livello__Q09]]

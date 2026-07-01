@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q16
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest real k such that 2x^2-12xy+ky^2>=0 for all real x,y.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La minima k reale tale che 2x^2-12xy+ky^2>=0 per tutte le x,y reali.*
+
+> È noto che $2x^2 - 12xy + ky^2 \ge 0$ per tutti i $x$ reali, $y$. Il valore reale più piccolo di $k$ è (A) $9$ (B) $16$ (C) $18$ (D) $27$ (E) $36$
+
+[[src_obm_2009_n3_f1__Q16]]

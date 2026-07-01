@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2024 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo22hq_honsen__Q01
 parent: src_jjmo22hq_honsen
 competition: Japan Junior Mathematical Olympiad 2024 — Honsen (Final)
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inequality for positive reals satisfying a ratio condition*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bmmJByRMGYGsoLlsU-vCwBSdySo_6rjl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ineguaglianza per i reali positivi che soddisfano una condizione di rapporto*
+
+> Che $a, b, c, d$ siano valori reali positivi che soddisfino $\dfrac{ab}{cd} = \dfrac{a+b}{c+d}$. Provare che < MSK0/>
+
+[[src_jjmo22hq_honsen__Q01]]

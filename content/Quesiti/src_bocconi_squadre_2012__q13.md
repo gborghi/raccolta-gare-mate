@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2012 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2012__Q13
 parent: src_bocconi_squadre_2012
 competition: Gara a Squadre 2012
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Moltiplicazioni di due naturali con stessa cifra per unità e prodotto uguale a 2001*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $29 \times 69$ e $2001 \times 1$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A7huLh916Tp8m_ARg_iGXEdllnS6HyH3/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Multiplies of two natural numbers with the same number per unit and product equal to 2001*
+
+> **Write all multiplication of two natural numbers that have the same number to represent the units and whose product is $2001$.**
+
+**Answer:** $29 \times 69$ e $2001 \times 1$
+[[src_bocconi_squadre_2012__Q13]]

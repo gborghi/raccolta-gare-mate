@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2013 - Gara a squadre — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2013_squadre__Q16
 parent: src_gs_2013_squadre
 competition: Coppa Galileo 2013 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppia di primi con somma 126 e prodotto*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1469
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Pair of firsts with sum of 126 and product< MSK1/>
+
+> It's cold near the fence and nothing's happening. To warm up, the Night's Watchers complicate the calculations. For example, Edd the Sorrowful writes all possible pairs $(p, q)$ of prime numbers (then greater than 1) such that: 1. $p + 2q$ is prime 2. $6p + q$ is prime 3. < MSK3/> shall be first.
+> 
+> Then they write the product $p \cdot q$ for each of these pairs. What's the minimum product they write?
+
+**Answer:** 1469
+[[src_gs_2013_squadre__Q16]]

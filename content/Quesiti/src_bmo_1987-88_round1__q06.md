@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1987-88 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1987-88_round1__Q06
 parent: src_bmo_1987-88_round1
 competition: British Mathematical Olympiad 1987-88 — Round 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show least positive value of (x²+y²)/y subject to quadratic constraint is 1/2*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** \frac{1}{2}
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11guDhXvMdprlP2g-JECuN_zy0XPTSGKa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Indicare il valore minimo positivo di (x2+y2)/y soggetto alla restrizione quadratica è 1/2*
+
+> Indicare che il valore minimo positivo di $$\frac{x^2 + y^2}{y},$$ dove $x$, $y$ sono numeri reali, in modo che $$7x^2 + 3xy + 3y^2 = 1,$$ sia $\dfrac{1}{2}$.
+
+**Risposta:** \frac{1}{2}
+[[src_bmo_1987-88_round1__Q06]]

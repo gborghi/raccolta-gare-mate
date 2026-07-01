@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (First Round) 2021 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-first-round_2021__Q10
 parent: src_cn_cmc-first-round_2021
 competition: China Mathematical Competition (First Round) 2021
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Graph y=(x+1)/(|x|+1) has three collinear points with abscissa sum 0; range of slope.*
 
@@ -46,3 +49,13 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Grafica y=(x+1)/(DagaxDagax+1) ha tre punti collineari con abcissa sum 0; intervallo di pendenza.*
+
+> [Test Paper A, Problem 10] (20 punti) Nel sistema di coordinate rettangolari a piano, il grafico della funzione $y=\dfrac{x+1}{|x|+1}$ ha tre punti diversi sulla linea $l$, e la somma delle abscisse di questi tre punti è $0$. Trova l'intervallo dei valori della pendenza di $l$.
+
+[[src_cn_cmc-first-round_2021__Q10]]

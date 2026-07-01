@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1990 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1990__Q08
 parent: src_rmo_1990
 competition: Regional Mathematical Olympiad 1990
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcenter equals centroid implies equilateral triangle*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ogcf4pFWupc25G2ZRadOfWoHaUpTy0zm/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circumcenter = centroid implica triangolo equilaterale*
+
+> Se il centro circostante e il centroide di un triangolo coincidono, dimostrare che il triangolo deve essere equilaterale.
+
+[[src_rmo_1990__Q08]]

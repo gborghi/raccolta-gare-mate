@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2011 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2011__Q06
 parent: src_bocconi_autunno_2011
 competition: Giochi d'Autunno 2011
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età di Angelo dai discorsi degli amici parzialmente corretti*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 10 anni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13XK42bOqd7WBaPPooUVaTrVsPUCAytH8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The age of Angelo by the speeches of partially correct friends
+
+> Carla and Milena have three friends: Angelo, Nando, and Pietro, who are three different ages (9, 10, and 11). Carla says, "I think Nando is 11 and Angelo is 10". For Milena, Peter is 11 and Nando is 10. Each of them guessed the age of one friend, while the other three friends got it wrong. How old is Angelo?
+
+**Answer:** 10 anni
+[[src_bocconi_autunno_2011__Q06]]

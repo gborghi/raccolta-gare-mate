@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier finale individuale — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__Q04
 parent: src_kangourou_2022_ecolier_finale
 competition: Kangourou 2022 Ecolier finale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numeri 3 cifre con somma prime due = terza*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0045
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numbers of 3 digits with sum of first two = third*
+
+> You see a chessboard next to it with some gray balls on it. Rossella wants every row and every column of this chessboard to have 2 and no more than 2 pawns. What kind of pedal should you move on an empty cell? (see figure)
+> 
+> A) A B) B C) C D) D E) E
+
+**Answer:** 0045
+[[src_kangourou_2022_ecolier_finale__Q04]]

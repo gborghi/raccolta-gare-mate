@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Benjamin — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q02
 parent: src_kangourou_2019_benjamin_semif
 competition: Kangourou 2019 Semifinale Benjamin
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *In quanti angoli identici a epsilon si ripartisce il piano*
 
@@ -48,3 +51,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*In how many angles identical to epsilon the plane is distributed*
+
+> (Points 3) By tracing in a plane 5 semicircles all originating in the same point O, we divided the plane itself into 5 angles α, β, γ, δ, ε, all different from each other. Other plane distributions can be obtained by approximating (with vertices at point O) 3 angles identical to α, or 4 identical to β, or 5 identical to γ, or 6 identical to δ. In how many angles identical to ε can the plan be divided? A) 12 B) 15 C) 18 D) 20 E) 24
+
+**Answer:** D
+[[src_kangourou_2019_benjamin_semif__Q02]]

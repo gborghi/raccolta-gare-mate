@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2016 Semifinale A — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_squadre_a__Q07
 parent: src_kangourou_2016_squadre_a
 competition: Kangourou Coppa Squadre 2016 Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dopo quanti minuti prima candela doppia della seconda*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 400
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1t2xaMlypjF24VfyZ_1NtZB6foUlBmEPx/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>After the first few minutes double the second candle< MSK1/>
+
+> The two candles Two candles have the same length and, once lit, the consumption of each is directly proportional to the time. One of the two candles goes out in 10 hours, the other in eight hours. If they are switched on at the same time, after how many minutes will the length of the first be twice the length of the second?
+
+**Answer:** 400
+[[src_kangourou_2016_squadre_a__Q07]]

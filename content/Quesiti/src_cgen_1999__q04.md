@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1999 — Matematica — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1999__Q04
 parent: src_cgen_1999
 competition: Concours Général des Lycées 1999 — Matematica
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Candy-eating algorithm: prove last candy eaten is red*
 
@@ -51,3 +54,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Algorithm di consumo di caramelle: dimostrare che l'ultima caramella consumata è rossa*
+
+> Su un tavolo ci sono dolci rossi 1999 e dolci gialli 6661, indistinguibili dal tatto. Una persona avida applica l'algoritmo seguente fino a quando il magazzino non è esaurito:
+> 
+> a) Se rimangono dolci, ne sceglie uno a caso, ne prende nota il colore e passa al passaggio b). b) Se rimangono dolci, ne sceglie uno a caso e ne prende nota del colore: - se il colore è lo stesso dell'ultimo dolce ingerito, lo mangia e torna a a); - altrimenti, lo rimette e torna a a).
+> 
+> Mostrare che tutti i dolci saranno mangiati e determinare la probabilità che l'ultimo dolce mangiato sia rosso.
+
+[[src_cgen_1999__Q04]]

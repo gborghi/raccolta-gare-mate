@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2011 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2011__Q06
 parent: src_bocconi_rosi_2011
 competition: Giochi di Rosi 2011
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Diagonale AC su quattro triangoli equilateri allineati*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\sqrt{3} = 1{,}732$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*AC diagonal on four aligned equilateral triangles*
+
+> The figure consists of four equilateral triangles with sides of 1 m. **Calculate the length of the diagonal $AC$.**
+
+![[src_bocconi_rosi_2011__Q06.png]]
+
+**Answer:** $\sqrt{3} = 1{,}732$
+[[src_bocconi_rosi_2011__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2015 — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2015_classiprime__Q10
 parent: src_archimede_2015_classiprime
 competition: Gara Nazionale Classi Prime 2015
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore di prodotto di interi vicini (differenza di prodotti)*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TUYhrUJzIcIcTlfnz-zfxmf4iT-f9HHJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Value of the product of neighbouring integers (difference of products) < MSK1/>
+
+> The value of the expression: 1234567896·1234567894−1234567899·1234567891. A 15 B 0 C 10 D 6 E 5 F 31
+
+**Answer:** A
+[[src_archimede_2015_classiprime__Q10]]

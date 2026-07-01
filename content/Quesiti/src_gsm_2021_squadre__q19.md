@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre GSM (locale Genova) 2021 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gsm_2021_squadre__Q19
 parent: src_gsm_2021_squadre
 competition: Gara a Squadre GSM (locale Genova) 2021
@@ -28,6 +29,8 @@ tags:
   - topic/probabilita
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di contagio incontrando sei coppie*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5512
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of infection by meeting six pairs< MSK1/>
+
+> 19. A walk by Giuseppe Rosolini Domenico LAdenovirus1554 (A1554) has a strange behavior: meeting an A1554 sick person is not a risk of infection; meeting a couple of A1554 sick people is a 50% risk of infection. Daniel I just arrived in Milan and took a stroll on the Naviles: I met exactly six couples of people. What's the probability that I got the A1554? Well, you take it pretty easily: here, 1 in 2 people is sick with A1554. Daniel, are you saying there's a 50% chance that you're sick? Dominic Yes! What are, in order, the first four digits after the comma of the probability that Daniel contracted adenovirus1554 while walking on the ships?
+
+**Answer:** 5512
+[[src_gsm_2021_squadre__Q19]]

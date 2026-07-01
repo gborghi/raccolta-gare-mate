@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1972 — Round 3 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1972_r3__Q06
 parent: src_pol_1972_r3
 competition: Olimpiade Matematica Polacca 1972 — Round 3
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *The digit sum of 1972^n is unbounded as n tends to infinity.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u10PZn1Xtd_4pvaqg5qH_EntPwiPBjmg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La somma digitali di 1972^n è illimitata in quanto n tende all'infinito.*
+
+> Prova che la somma dei numeri $1972^n$ non è limitata dall'alto quando $n$ tende all'infinito.
+
+[[src_pol_1972_r3__Q06]]

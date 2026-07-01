@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Cadet (gara 28 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_cadet_marzo__Q23
 parent: src_kangourou_2008_cadet_marzo
 competition: Kangourou 2008 - Cadet (gara 28 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cosa risponde il settimo giorno*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1pH0pbJc1k80gy5_qwGoKsuuehXoTOZKL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What is the answer on the seventh day*
+
+> A guy always tells the truth on Thursday and Friday, always lies on Tuesday, while on the other days of the week he lies or tells the truth without a rule. He was asked his name for seven days in a row and in the first six he provided the following answers in order: Luke, Mario, Luke, Mario, Piero, Mario. What did you answer on the seventh day? A) Luke B) Mario C) Piero D) Rita E) There is not enough data to decide.
+
+**Answer:** A
+[[src_kangourou_2008_cadet_marzo__Q23]]

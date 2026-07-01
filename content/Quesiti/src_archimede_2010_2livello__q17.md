@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2010 (biennio/triennio) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_2livello__Q17
 parent: src_archimede_2010_2livello
 competition: Archimede Gara 2° livello 2010 (biennio/triennio)
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordinamenti di {21..81} con somme di 4 consecutivi divisibili per 3*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 144
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1tedTZXLU_TRRufsNP-Far7qtMsF684Nj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Orders of {21..81} with sums of 4 consecutive digits divisible by 3*
+
+> How many different ways can the numbers {21, 31, 41, 51, 61, 71, 81} be arranged so that, however, if four of them are chosen in successive places, their sum is divisible by three?
+
+**Answer:** 144
+[[src_archimede_2010_2livello__Q17]]

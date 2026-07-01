@@ -1,6 +1,7 @@
 ---
 title: IMO 1983 (24th International Mathematical Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1983__Q03
 parent: src_imo_1983
 competition: IMO 1983 (24th International Mathematical Olympiad)
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Largest integer not representable as nonnegative combination (Frobenius)*
 
@@ -33,3 +36,13 @@ tags:
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qHrtan02NnpLf3E60-PekLeYdH4Y9tnD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Largest integer not representable as nonnegative combination (Frobenius) < MSK1/>
+
+> Let < MSK0/> be positive integers, no two of which have a common divisor greater than < MSK1/>. Show that $2abc - ab - bc - ca$ is the largest integer which cannot be expressed in the form $xbc + yca + zab$ where $x, y, z$ are non-negative integers.
+
+[[src_imo_1983__Q03]]

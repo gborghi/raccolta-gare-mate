@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f3__Q02
 parent: src_obm_2015_n2_f3
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 3
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convex quadrilateral with perpendiculars; concyclic points and tangent circle*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1DZcPRIwWEFGrxfBFLBa5sHdbwT_CINwa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterali convexi con perpendicolari; punti conciclici e cerchio tangente*
+
+> Che < MSK0/> sia un quadrilaterale convex. Le linee $AB$ e $CD$ si incontrano a $E$ e le linee $BC$ e $AD$ si incontrano a $F$. Il $P$ e il $Q$ siano i piedi delle perpendicolari da $E$ alle linee $AB$ e $BC$ rispettivamente, e il $R$ e il $S$ siano i piedi delle perpendicolari da $F$ alle linee $AB$ e $CD$ rispettivamente. Le linee $ER$ e $FS$ si incontrano a $T$.
+> 
+> a) Indicare che esiste un cerchio che attraversa i punti $E$, $F$, $P$, $Q$, $R$ e $S$.
+> 
+> b) Dimostra che il circoncircolo del triangolo $RST$ è tangente al circoncircolo del triangolo $QRB$.
+
+[[src_obm_2015_n2_f3__Q02]]

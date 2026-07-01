@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Ecolier finale individuale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_ecolier_finale__Q14
 parent: src_kangourou_2022_ecolier_finale
 competition: Kangourou 2022 Ecolier finale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quattordicesimo termine della sequenza somma*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6144
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fourteenth term of the sum sequence*
+
+> A square grid containing all numbers from 1 to 36 is shown on a sheet. Enza folds the sheet twice, as suggested by the figure. Then he drills the folded sheet in line with the black circle indicated by the arrow. What numbers on the grid are being drilled? (see figure)
+> 
+> A) 8, 11, 26, 29 B) 14, 17, 20, 23 C) 15, 16, 21, 22 D) 14, 16, 21, 23 E) 15, 17, 20, 22
+
+**Answer:** 6144
+[[src_kangourou_2022_ecolier_finale__Q14]]

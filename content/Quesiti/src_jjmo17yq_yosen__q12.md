@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary) — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo17yq_yosen__Q12
 parent: src_jjmo17yq_yosen
 competition: Japan Junior Mathematical Olympiad 2019 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distinct strings reachable in 4 operations from 'A'*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1099
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YyPhdRC8ta06c--Y1mxGSGuS4yujWAKb/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Signature distinte raggiungibili in 4 operazioni a partire da "A"*
+
+> Su una lavagna è scritta una stringa fatta delle lettere $A$ e $B$. Considerare la seguente operazione: prendere la stringa corrente $w$, aggiungere un'altra lettera (o $A$ o $B$), e quindi cambiare esattamente una delle $A$ in una $B$ o una delle $B$ in una $A$. Per esempio, se $w = ABA$, le stringhe che possono apparire dopo una sola operazione sono $ABAABA$, $BBAABA$, $AAAABA$, $ABBABA$, $ABABBA$, $ABAAAA$, $ABAABB$ (tra tali risultati). Ora supponiamo che la stringa $A$ sia scritta sulla lavagna. A partire da questo stato, dopo aver eseguito l'operazione esattamente $4$ volte, quante stringhe distinte possono apparire sulla scheda?
+
+**Risposta:** 1099
+[[src_jjmo17yq_yosen__Q12]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Koala — Gioco Koala — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_koala__Q17
 parent: src_kangourou_2022_koala
 competition: Kangourou 2022 Koala — Gioco Koala
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *numero per uguagliare le due somme*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Nyec1GxOQ3f28I_D0c1kacejlV99W-GD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*number to equal the two sums*
+
+![[src_kangourou_2022_koala__prob17.png]]
+
+> Luke wants to insert a number into each of the circles drawn in the boxes and wants the sum of the five numbers in the box on the left to be equal to the sum of the numbers in the box on the right. Which of the following numbers should replace the question mark? (see figure)
+
+**Answer:** D
+[[src_kangourou_2022_koala__Q17]]

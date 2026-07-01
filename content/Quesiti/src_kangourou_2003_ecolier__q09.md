@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q09
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti blu interni al mattone*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Blue cubes inside the brick < MSK1/>
+
+![[src_kangourou_2003_ecolier__prob9.png]]
+
+> Cristina constructed the "cotton" of the figure using cubes of the same size, each colored entirely red or entirely blue. The outer surface of the "cotton" is completely red, but all the cubes used for the interior are blue. How many blue cubes did Cristina use ? A)  12 B)  24 C)  36 D)  40 E)  48
+
+**Answer:** A
+[[src_kangourou_2003_ecolier__Q09]]

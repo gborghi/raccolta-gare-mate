@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2020 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo30hq_honsen__Q04
 parent: src_jmo30hq_honsen
 competition: Japan Mathematical Olympiad 2020 — Honsen (Final)
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two players, special points on circle; show fraction of connected pairs is large*
 
@@ -48,3 +51,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tg5YtucGZLa1e_kRtCsAE8LrOFyPUE4s/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due giocatori, punti speciali sul cerchio; mostrare la frazione di coppie connesse è grande*
+
+> $n \ge 2$ sia un numero intero. Supponiamo che ci siano $3n$ punti distinti su un cerchio, chiamati punti speciali. I giocatori $A$ e $B$ eseguono alternativamente la seguente operazione $n$ ogni volta.
+> 
+> In primo luogo, il giocatore $A$ sceglie 2 punti speciali che non sono ancora collegati da un segmento e li collega con un segmento. Il giocatore $B$ sceglie un punto speciale che non ha ancora avuto un pezzo posto su di esso e lo pone.
+> 
+> Indipendentemente dal modo in cui il giocatore $B$ gioca, dimostrare che quando tutte le operazioni $n$ sono terminate, il giocatore $A$ può sempre fare in modo che il numero di segmenti che collegano un punto speciale con un pezzo su di esso a un punto speciale senza un pezzo su di esso sia almeno $\dfrac{n}{6}$.
+
+[[src_jmo30hq_honsen__Q04]]

@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2020_nu_fx__Q05
 parent: src_obm_2020_nu_fx
 competition: Olimpíada Brasileira de Matemática 2020 — Nível Universitário — Fase x
@@ -39,6 +40,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Game on spaceship: show 2n people can be split into n friendly pairs*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15IpIl5QWVKAntV8xifgNe-gieedGxv-Q/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Gioco sulla nave spaziale: mostra 2n persone possono essere suddivise in n coppie amichevoli
+
+> $n$ sia un numero intero positivo. Su una nave spaziale ci sono $2n$ persone, e qualsiasi due di loro sono amici o nemici (la relazione è simmetrica). Due alieni giocano il seguente gioco: alternativamente, ogni giocatore sceglie una persona per turno, in modo che la persona scelta ogni turno è un amico della persona scelta sulla volta immediatamente precedente (nel primo turno, il primo giocatore può scegliere chiunque). Chi non può giocare perde (una persona può essere scelto solo una volta). Prove che il secondo giocatore ha una strategia vincente se e solo se le persone $2n$ possono essere suddivise in coppie $n$ in modo tale che entrambi i membri di ciascuna coppia siano amici.
+
+[[src_obm_2020_nu_fx__Q05]]

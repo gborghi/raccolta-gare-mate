@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1991 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1991__Q08
 parent: src_rmo_1991
 competition: Regional Mathematical Olympiad 1991
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *8x8 chessboard integers averaged by neighbours, all equal*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RD8FU5BoTp9QOmMS9Bfvr_F9JpltmZcX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*8x8 numeri interi della scacchiera in media per vicini, tutti uguali*
+
+> I 64 quadrati di una scacchiera $8 \times 8$ sono riempiti di numeri interi positivi in modo tale che ogni numero intero sia la media dei numeri interi sui quadrati vicini. (Due quadrati sono vicini se condividono un bordo comune o una vertex comune. Un quadrato può avere $8$, $5$ o $3$ vicini a seconda della sua posizione.) Mostrare che tutti i 64 numeri interi sono in realtà uguali.
+
+[[src_rmo_1991__Q08]]

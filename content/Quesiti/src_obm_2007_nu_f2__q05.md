@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 2 —
   Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_nu_f2__Q05
 parent: src_obm_2007_nu_f2
 competition: Olimpíada Brasileira de Matemática 2007 — Nível Universitário — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count real symmetric square roots of a real symmetric matrix*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uVjphHFMi3bPUqcfFJw1ZHOQqSglLjnK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le radici quadrate simmetriche reali di una matrice simmetrica reale*
+
+> $A$ sia una matrice simmetrica reale di ordine $n$, con valori propri $\lambda_1\le\lambda_2\le\cdots\le\lambda_n$ (conteggiata con moltiplicità). Determinare, in termini di $\lambda_1,\lambda_2,\ldots,\lambda_n$:
+> 
+> a) Il numero di matrici simmetriche reali $B$ dell'ordine $n$ tale che $B^2=A$.
+> 
+> b) Il numero di matrici reali $B$ dell'ordine $n$ tale che $B^2=A$.
+
+[[src_obm_2007_nu_f2__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2023 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2023__Q06
 parent: src_inmo_2023
 competition: Indian National Mathematical Olympiad 2023
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Using a cyclos tool, construct a circle centered at one of two given points passing through the other*
 
@@ -48,3 +51,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kW6GgduaArtuZwxLT_Wd61CJZas0evUz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Utilizzando uno strumento di ciclo, costruire un cerchio centrato su uno dei due punti dati che attraversano l'altro*
+
+> Euclide ha uno strumento chiamato *cyclos* che fa quanto segue: - Dati tre punti non collineari, disegnare il cerchio che li attraversa. - Dati due punti segnati, disegnare il cerchio con loro come punti finali di diametro. - Marcare eventuali punti di intersezione di due cerchi disegnati o marcare un nuovo punto su un cerchio disegnato.
+> 
+> Mostra che dato due punti segnati, Euclide può disegnare un cerchio centrato su uno di essi e passando attraverso l'altro, utilizzando solo i cicli.
+
+[[src_inmo_2023__Q06]]

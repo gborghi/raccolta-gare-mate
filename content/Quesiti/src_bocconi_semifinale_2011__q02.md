@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2011 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2011__Q02
 parent: src_bocconi_semifinale_2011
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2011
@@ -33,6 +34,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Inserire 1-8 nella griglia in modo che interi consecutivi non si tocchino.*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\begin{array}{|c|c|}\hline 3&5\\\hline 1&8\\\hline\end{array}$ con base $7\;4\;6\;2$ (3,5 / 1,8 / 7,4,6,2)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Insert 1-8 into the grid so that consecutive integers do not touch each other.*
+
+> Place all integers from 1 to 8 in the grid in the figure (actually, 3.6,8 have already been inserted) so that two consecutive integers never occupy boxes that have one side or one vertex in common.
+
+![[src_bocconi_semifinale_2011__Q02.png]]
+
+**Answer:** $\begin{array}{|c|c|}\hline 3&5\\\hline 1&8\\\hline\end{array}$ con base $7\;4\;6\;2$ (3,5 / 1,8 / 7,4,6,2)
+[[src_bocconi_semifinale_2011__Q02]]

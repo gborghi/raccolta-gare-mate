@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2010 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2010__Q02
 parent: src_bocconi_autunno_2010
 competition: Giochi d'Autunno 2010
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età di Chiara dai tre fratelli con prodotto 35 e somma 13*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> Age of Enlightenment by three brothers with product 35 and sum of 13< MSK1/>
+
+> Chiara has two younger brothers. The product of the ages of the three children is 35, their sum is 13. What is Chiara's age?
+
+**Answer:** 7
+[[src_bocconi_autunno_2010__Q02]]

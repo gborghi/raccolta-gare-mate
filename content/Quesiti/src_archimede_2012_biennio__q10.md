@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Biennio — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_biennio__Q10
 parent: src_archimede_2012_biennio
 competition: Giochi di Archimede 2012 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza XY da intersezioni diagonali esagono regolare*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13kesAdPzQ8k4YwW-asUVUoQ5RPW1gOnt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*XY distance from diagonal regular hexagonal intersections*
+
+> A regular side hexagon of 1 m length is given, the vertices of which, listed in chronological order, are A, B, C, D, E, F. X and Y are the intersections of the AC segment with the BF and BD segments respectively. Calculate the distance between X and Y .
+>
+> - **(A)** 1 2 m
+> - **(B)** √ 3 3 m
+> - **(C)** √ 3 6 m
+> - **(D)** 2 √ 3 3 m
+> - **(E)** √ 3 2 m
+
+**Answer:** B
+[[src_archimede_2012_biennio__Q10]]

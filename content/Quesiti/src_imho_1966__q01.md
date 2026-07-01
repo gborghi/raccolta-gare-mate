@@ -1,6 +1,7 @@
 ---
 title: IMO 1966 (VIII International Mathematical Olympiad) — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1966__Q01
 parent: src_imho_1966
 competition: IMO 1966 (VIII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Count students who solved only problem B*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Count students who solved only problem B*
+
+> In a mathematical contest, three problems, $A$, $B$, $C$ were posed. Among the participants there were 25 students who solved at least one problem each. Of all the contestants who did not solve problem $A$, the number who solved $B$ was twice the number who solved $C$. The number of students who solved only problem was one more than the number of students who solved problem and at least one other problem. Of all the students who solved just one problem, half didn't solve problem. How many students solved only problem?
+
+[[src_imho_1966__Q01]]

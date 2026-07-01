@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q13
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find angle x in a zigzag/star figure with marked angles*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca angolo x in una figura a zigzag/stella con angoli segnati*
+
+> Nella figura, quanto è $x$?
+> 
+> **A)** $6^\circ$ $\quad$ **B)** $12^\circ$ $\quad$ **C)** $18^\circ$ $\quad$ **D)** $20^\circ$ $\quad$ **E)** $24^\circ$
+
+![[src_obm_2004_n2_f1__Q13.png]]
+
+[[src_obm_2004_n2_f1__Q13]]

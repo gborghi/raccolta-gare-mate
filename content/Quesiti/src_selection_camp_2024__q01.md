@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2024 — Selection Camp — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2024__Q01
 parent: src_selection_camp_2024
 competition: Japan IMO Selection Camp 2024 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer sequence with a recurrence for some fixed shift c*
 
@@ -47,3 +50,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PL_Bn-4WncGMxFABFvS--QrLAcF9eVC7/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza integrale con ricorrenza per alcuni spostamenti fissi c*
+
+> Lasciate che $a_1, a_2, \ldots$ siano numeri interi positivi. Supponiamo che esista un intero $c \ge 2$ tale che, per ogni intero positivo $n$, $$a_{n+c} = 2a_{n+1} - a_n$$ sia valido. Trovare tutte queste sequenze (determinare tutte le sequenze per le quali esiste un $c$ adatto).
+
+[[src_selection_camp_2024__Q01]]

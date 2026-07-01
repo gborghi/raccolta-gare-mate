@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 marzo Student — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_student__Q08
 parent: src_kangourou_2012_student
 competition: Kangourou 2012 marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale funzione soddisfa una relazione data*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1rkNsBBSmF4K9_L2A6slwqLVxZ0JvEjc1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What function satisfies a given report*
+
+> Determine which of the following functions is fulfilled in report A) B) C) D) E)
+
+**Answer:** D
+[[src_kangourou_2012_student__Q08]]

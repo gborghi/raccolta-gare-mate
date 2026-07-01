@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo12yq_yosen__Q07
 parent: src_jmo12yq_yosen
 competition: Japan Mathematical Olympiad 2002 — Yosen (Preliminary)
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Numerator of factorial sum reduced fraction, mod 2002*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Numeratore di frazione ridotta della somma fattoriale, mod 2002< MSK1/>
+
+> Esprimere la seguente espressione come una singola frazione irriducibile (una frazione che non può essere ridotta ulteriormente). Quando il suo numeratore è diviso per $2002$, trova il rimanente. Qui, per un numero naturale $n$, $n!$ indica $1\times 2\times\cdots\times(n-1)\times n$.
+
+[[src_jmo12yq_yosen__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2025 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2025_automne__Q13
 parent: src_canimath_2025_automne
 competition: Coupe Animath Automne 2025
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Grid with equal row/column sums at nonzero cells implies m=n (lycée version)*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Grid con somma di righe/colonne uguale nelle celle non a zero implica m=n (versione liceale)*
+
+> Aurélien riempie una griglia con righe $m$ e colonne $n$ con numeri reali non negativi, in modo tale che ogni riga e ogni colonna contengano almeno un elemento non zero. Vuole anche che per ogni cella che contiene un elemento non zero, la somma degli elementi della sua riga e la somma degli elementi della sua colonna siano identiche. Mostrare che se è riuscito a riempire la griglia rispettando questi vincoli, $m = n$.
+
+[[src_canimath_2025_automne__Q13]]

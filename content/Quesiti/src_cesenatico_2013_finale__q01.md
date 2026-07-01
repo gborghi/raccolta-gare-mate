@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2013 - Finale Nazionale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013_finale__Q01
 parent: src_cesenatico_2013_finale
 competition: Gara a Squadre Cesenatico 2013 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma 10 aree di intersezioni triangoli (p+q)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1193
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total 10 areas of triangular intersections (p+q) *
+
+> On a quiet May afternoon, Root is now tired of being outdoors doing nothing, watching her older sister Maggioret read a thick, thick book. What's the use of a book without figures or dialogues?, he thinks. To distract yourself, imagine a handsome figure with two parallel lines a and b, 1 apart. On a it takes 11 distinct points A−5,A−4,...,A4,A5, on b instead the distinct points B−5,B−4,...,B4,B5, so that AiAi+1 = BiBi+1 = 1 for i = −5,...,4, and AiBi = 1 for i = −5,...,5. Consider then, for each i = −5,...,4, the intersection of the triangles AiAi+1B0 and BiBi+1A0. How much is the sum of the areas of these 10 figures? This p/q solution, expressed as a fraction reduced to minimum terms, is answered by p+q.
+
+**Answer:** 1193
+[[src_cesenatico_2013_finale__Q01]]

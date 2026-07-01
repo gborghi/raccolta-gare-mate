@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student (20 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student__Q12
 parent: src_kangourou_2003_student
 competition: Kangourou 2003 Student (20 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita due gabbiani bianchi adiacenti*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of two adjacent white seals< MSK1/>
+
+> Two white crab and eight gray crab are flying over a river. Suddenly they land on one of the banks of the river, arranged in a straight line in random order. What is the probability that the two white cabbages are next to each other? A) 1/5 B) 1/6 C) 1/7 D) 1/8 E) 1/9
+
+**Answer:** A
+[[src_kangourou_2003_student__Q12]]

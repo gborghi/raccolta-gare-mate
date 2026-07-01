@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2019 - 2° livello — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_2livello__Q11
 parent: src_archimede_2019_2livello
 competition: Archimede Gara di Febbraio 2019 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cerchi centrati nei quadrati perfetti, perimetro castello*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1kYJt4BjeJ4CCdzz5vz6l0GPFzZ6gDPSO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Circles centered in perfect squares, castle perimeter*
+
+> The plan of a castle is realized in this way: a long circumference of 2019 meters is considered with a regular polygon of 2019 vertices inscribed. Once the vertices of the polygon from 1 to 2019 have been numbered in a clockwise direction, the circumferences of length 2019m centred on each numbered point with a perfect square are traced. The plan of the castle consists of the union of all the circles drawn. How many meters does the perimeter of the castle measure?
+>
+> - **(A)** 2692
+> - **(B)** 4038
+> - **(C)** 4627
+> - **(D)** 29370 2π
+> - **(E)** 2019π
+
+**Answer:** B
+[[src_archimede_2019_2livello__Q11]]

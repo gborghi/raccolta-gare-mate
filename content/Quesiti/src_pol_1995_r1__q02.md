@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1995 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1995_r1__Q02
 parent: src_pol_1995_r1
 competition: Olimpiade Matematica Polacca 1995 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic system of equations with absolute values, positive integer n≥2*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sistema ciclico di equazioni con valori assoluti, intero positivo n≥2*
+
+> Per un intero positivo $n \ge 2$, risolvere il seguente sistema di equazioni: $$x_1(n) = x_2(n) + |x_3(n) - 1| \cdot |x_n(n) - 1|,$$ $$x_2(n) = x_3(n) + |x_4(n) - 1| \cdot |x_1(n) - 1|,$$ $$\vdots$$ $$x_n(n) = x_1(n) + |x_2(n) - 1| \cdot |x_{n-1}(n) - 1|.$$
+
+[[src_pol_1995_r1__Q02]]

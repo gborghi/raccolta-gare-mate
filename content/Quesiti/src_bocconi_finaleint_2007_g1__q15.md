@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2007 (prova 1) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2007_g1__Q15
 parent: src_bocconi_finaleint_2007_g1
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Range dei calissons: in quanti modi disporre 16 calissons (rombi) nella scatola esagonale*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 50
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yv38RngpmnvZAW2pTSxa_VOxeycDJDxZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Calcions range: how many ways to dispose of 16 calissons (rombs) in the hexagonal box< MSK1/>
+
+> How many ways can 16 calissons be arranged in a box without overlapping? A calisson and a rum-shaped dessert consisting of two equilateral triangles (see grey example). It can take three different directions. A solution obtained from another by symmetry shall be considered distinct.
+
+![[src_bocconi_finaleint_2007_g1__Q15.png]]
+
+**Answer:** 50
+[[src_bocconi_finaleint_2007_g1__Q15]]

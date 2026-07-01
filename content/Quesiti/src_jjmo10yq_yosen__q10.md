@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary) — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo10yq_yosen__Q10
 parent: src_jjmo10yq_yosen
 competition: Japan Junior Mathematical Olympiad 2012 — Yosen (Preliminary)
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count n<=999 such that S(n)/S(n+1) is an integer*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 17
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13wAAjH-8O3z3X-d5OXGv03XfqnR1FQmR/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta n<=999 tale che S(n)/S(n+1) sia un intero*
+
+> Per un intero positivo $k$, $S(k)$ indica la somma delle sue cifre. Trova il numero di interi positivi $n \le 999$ in modo tale che $\dfrac{S(n)}{S(n+1)}$ sia un intero.
+
+**Risposta:** 17
+[[src_jjmo10yq_yosen__Q10]]

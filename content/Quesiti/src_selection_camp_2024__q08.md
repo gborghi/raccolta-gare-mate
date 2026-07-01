@@ -1,6 +1,7 @@
 ---
 title: Japan IMO Selection Camp 2024 — Selection Camp — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_selection_camp_2024__Q08
 parent: src_selection_camp_2024
 competition: Japan IMO Selection Camp 2024 — Selection Camp
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Function on integer pairs making an expression a perfect square*
 
@@ -47,3 +50,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PL_Bn-4WncGMxFABFvS--QrLAcF9eVC7/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Funzione su coppie di numeri interi che rende un'espressione un quadrato perfetto*
+
+> Trova tutte le funzioni $f$ definite su coppie ordinate di integri positivi e prendi valori di integri positivi in modo tale che, per tutti gli integri positivi $x, y, z$, $$f(x, y)^2 + f(y^4, z) + 2x y^4 z$$ sia un quadrato perfetto.
+
+[[src_selection_camp_2024__Q08]]

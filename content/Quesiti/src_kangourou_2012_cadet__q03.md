@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 Cadet (gara marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_cadet__Q03
 parent: src_kangourou_2012_cadet
 competition: Kangourou 2012 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale lettera produce piu pezzi con un taglio*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YL4hkGzks5mxynuV0oWkB9Z8qsmierT2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which letter produces the most pieces with a cut*
+
+![[src_kangourou_2012_cadet__prob3.png]]
+
+> Mary has five cardboard letters like those drawn below. With a pair of scissors, he cuts each one of them once (along a straight line) so that each letter produces as many pieces as possible. Which letter produces the most pieces? A) B) C) D) E)
+
+**Answer:** E
+[[src_kangourou_2012_cadet__Q03]]

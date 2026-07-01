@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2006 — Round 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2006_r1__Q12
 parent: src_pol_2006_r1
 competition: Olimpiade Matematica Polacca 2006 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sequence a_{i+1}=a_i/2 if even else 3a_i-1; if a_n=a_0 prove 2^n>a_0.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza a_{i+1}=a_i/2 se anche altrimenti 3a_i-1; se a_n=a_0 provare 2^n>a_0.*
+
+> Per un dato numero intero positivo $a_0$ definire la sequenza $(a_n)$ da $$a_{i+1} = \begin{cases} a_i/2 & \text{if } a_i \text{ is even,} \\ 3a_i - 1 & \text{if } a_i \text{ is odd,} \end{cases} \quad i = 0, 1, 2, \ldots$$ Prove che se $n$ è un numero naturale tale da $a_n = a_0$, allora $2^n > a_0$.
+
+[[src_pol_2006_r1__Q12]]

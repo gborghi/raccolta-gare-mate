@@ -1,6 +1,7 @@
 ---
 title: Semifinale di Primavera 2007 — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_primavera_2007__Q06
 parent: src_bocconi_primavera_2007
 competition: Semifinale di Primavera 2007
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tipi di succhi usando uno, due, tre o quattro frutti*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 15 tipi di succhi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vvoXD61TYEehfv-o3Vc2Do2HSNZg0dL-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Type of juice using one, two, three or four fruits*
+
+> In the same situation as before, how many types of fruit juices can Carla prepare using one or two or all four types of fruit she has?
+> 
+> < MSK0/>How many types of juices can you make?< MSK1/>
+
+**Answer:** 15 tipi di succhi
+[[src_bocconi_primavera_2007__Q06]]

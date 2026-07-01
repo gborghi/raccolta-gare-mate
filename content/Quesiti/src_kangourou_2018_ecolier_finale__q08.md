@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Ecolier squadre 2018 Finale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_finale__Q08
 parent: src_kangourou_2018_ecolier_finale
 competition: Kangourou Coppa Ecolier squadre 2018 Finale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte ha indovinato l'indovino*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0015
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/11h-sfCTNK4h02GGzg-BRXel7UlwgJNHG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many times did the fortune teller guess?
+
+> A fortune teller was called to court to make forecasts for the next day every night. The next morning, the king, if he guessed, gave him four gold coins, if he had mistaken the tax of three gold coins. The morning after the 35th prediction the king releases the fortune teller. Lndvino discovers that in this game of prizes and taxes he has neither lost nor gained us. How many times have you guessed?
+
+**Answer:** 0015
+[[src_kangourou_2018_ecolier_finale__Q08]]

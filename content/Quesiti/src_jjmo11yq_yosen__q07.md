@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo11yq_yosen__Q07
 parent: src_jjmo11yq_yosen
 competition: Japan Junior Mathematical Olympiad 2013 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-coloring 100-gon vertices with perpendicular chords*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 235250
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KqvofIIXgEWPDHUAZMRGkscvso3ZVrK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*vertici di 100 goni a due colori con accordi perpendicolari*
+
+> Tra i vertici di un normale $100$-gon, $2$ sono di colore rosso e $2$ sono di colore blu. Quanti modi ci sono per fare questo colorare soddisfacendo la condizione qui sotto? Un vertice non può essere colorato con due colori contemporaneamente, e i colori che coincidono sotto rotazione o riflessione sono anche contati come distinti.
+> 
+> Condizione: la linea attraverso i due vertici rossi e la linea attraverso i due vertici blu sono perpendicolari l'una all'altra.
+
+**Risposta:** 235250
+[[src_jjmo11yq_yosen__Q07]]

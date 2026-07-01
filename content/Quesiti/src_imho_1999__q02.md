@@ -1,6 +1,7 @@
 ---
 title: IMO 1999 (XL International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1999__Q02
 parent: src_imho_1999
 competition: IMO 1999 (XL International Mathematical Olympiad)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Least constant for symmetric sum inequality*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WclaSKYkM_7ZmKkebTw-DQsLSLaQVSUZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Least constant for symmetric sum inequality< MSK1/>
+
+> Let $n$ be a fixed integer, with $n \ge 2$.
+> 
+> (a) Determine the least constant $C$ such that the inequality $$\sum_{1 \le i < j \le n} x_i x_j (x_i^2 + x_j^2) \le C \left( \sum_{1 \le i \le n} x_i \right)^4$$ holds for all real numbers $x_1, \cdots, x_n \ge 0$.
+> 
+> (b) For this constant $C$, determine when equality holds.
+
+[[src_imho_1999__Q02]]

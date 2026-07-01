@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n2_f1__Q14
 parent: src_obm_2007_n2_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 2 — Fase 1
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of rectangle surrounding three unit squares*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rkLHK8a40M_Zn2GCIGEeLzCk8I-i_G71/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di rettangolo che circonda tre quadrati unitari*
+
+> La figura di seguito è costituita da tre quadrati di lato $1$ e da un rettangolo che li circonda. L'area del rettangolo è:
+> 
+> (A) $3\sqrt{2}$ $\quad$ (B) $4\sqrt{2}$ $\quad$ (C) 6 $\quad$ (D) $6\sqrt{2}$ $\quad$ (E) 8
+
+![[src_obm_2007_n2_f1__Q14.png]]
+
+**Risposta:** D
+[[src_obm_2007_n2_f1__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1975-76 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1975-76_round2__Q03
 parent: src_bmo_1975-76_round2
 competition: British Mathematical Olympiad 1975-76 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quadratic form has only trivial integer solution; cubic has infinitely many*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KOrdnSCj31p80BGIDGvH7v-v3TGPV0jd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La forma quadrata ha solo una soluzione di numeri interi triviali; il cubo ha infiniti*
+
+> Prova che l'equazione $x^2 - 3y^2 - 3z^2 + 7t^2 = 0$ non ha soluzioni in numeri interi diversi da $x = y = z = t = 0$.
+> 
+> Prove che $x^3 - 3y^3 - 3z^3 + 7t^3 = 0$ ha infinite soluzioni in numeri interi positivi $x_0, y_0, z_0, t_0$ in nessuno dei quali il rapporto $x:y:z:t$ sia lo stesso.
+
+[[src_bmo_1975-76_round2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_triennio__Q09
 parent: src_archimede_2021_triennio
 competition: Giochi di Archimede 2021 - Gara Triennio (tradizionale)
@@ -26,6 +27,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori di k con polinomio avente radice doppia dell'altra*
 
@@ -43,3 +46,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Values of k with a polynomial having a double root of the other *
+
+> Consider real k such that the polynomial p(x) = x2 −(k + 1)x + (3k + 1) has a root that is twice the other. Indicate the sum of all these values k.
+>
+> - **(A)** 19/2
+> - **(B)** 9
+> - **(C)** 17/4
+> - **(D)** 23/2
+> - **(E)** 19/4
+
+[[src_archimede_2021_triennio__Q09]]

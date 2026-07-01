@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2013-14 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2013-14_round2__Q02
 parent: src_bmo_2013-14_round2
 competition: British Mathematical Olympiad 2013-14 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove no cuboid has volume, surface area and perimeter numerically equal*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gxTVIckVBIyVVlwqu7d6UulSTigrFAu3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove che nessun cuboide ha volume, superficie e perimetro numericamente uguali*
+
+> Prove che è impossibile avere un cuboide per il quale il volume, la superficie e il perimetro sono numericamente uguali.
+> 
+> Il perimetro di un cuboide è la somma delle lunghezze di tutti i suoi dodici bordi.
+
+[[src_bmo_2013-14_round2__Q02]]

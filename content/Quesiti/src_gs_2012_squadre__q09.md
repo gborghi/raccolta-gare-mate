@@ -1,6 +1,7 @@
 ---
 title: Coppa Galileo 2012 - Gara a squadre — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2012_squadre__Q09
 parent: src_gs_2012_squadre
 competition: Coppa Galileo 2012 - Gara a squadre
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soluzioni intere del sistema simmetrico*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0032
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IdLADEtx_rfRd2fsPnMkMaegCJCtNuxb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Whole solutions of the symmetrical system*
+
+> In order to perform a magical rite, the Queen must find the number of quadruples $(x, y, z, t)$ of real numbers such as $$\begin{cases} x^2y^2 + z^2t^2 = 1 \\ x^2z^2 + t^2y^2 = 1 \\ x^2t^2 + y^2z^2 = 1 \\ xyzt = 0 \end{cases}$$ What are they?
+
+**Answer:** 0032
+[[src_gs_2012_squadre__Q09]]

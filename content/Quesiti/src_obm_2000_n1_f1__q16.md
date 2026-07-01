@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q16
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Game of sticks: winning first move from 1000*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Gioco di bastoni: vincere la prima mossa da 1000
+
+> In una partita per due giocatori, i giocatori si alternano per rimuovere i bastoni $1$, $2$, $3$, $4$ o $5$ da una pila che inizia a contenere bastoni $1000$. Il giocatore che prende l'ultimo bastone vince. Quanti bastoni deve togliere il giocatore che va per primo dalla pila iniziale per garantire una vittoria?
+> 
+> (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
+
+**Risposta:** D
+[[src_obm_2000_n1_f1__Q16]]

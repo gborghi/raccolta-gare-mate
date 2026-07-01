@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Gara di Marzo Student — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_student_marzo__Q01
 parent: src_kangourou_2018_student_marzo
 competition: Kangourou 2018 Gara di Marzo Student
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale espressione numerica ha il valore massimo*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which numerical expression has the maximum value*
+
+> Which of the following numerical expressions has the maximum value? A) 2 - 0 × 1 + 8 B) 2 + 0 × 1 × 8 C) 2 × 0 + 1 × 8 D) 2 × (0 + 1 + 8) E) 2 × 0 + 1 + 8
+
+**Answer:** D
+[[src_kangourou_2018_student_marzo__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2009 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2009__Q04
 parent: src_cn_cmo_2009
 competition: China Mathematical Olympiad 2009
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimize sum of cubes of real numbers with pairwise distance at least 1*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimizzare la somma dei cubi di numeri reali con distanza in coppia almeno 1*
+
+> $n \geq 3$ sia un dato numero intero e $a_1, a_2, \ldots, a_n$ sia un numero reale soddisfacente $\min_{1 \leq i < k \leq n} |a_i - a_k| \geq 1$. Trova il valore minimo di $\displaystyle\sum_{i=1}^{n} |a_i|^3$. (Posato da Zhu Huawei)
+
+[[src_cn_cmo_2009__Q04]]

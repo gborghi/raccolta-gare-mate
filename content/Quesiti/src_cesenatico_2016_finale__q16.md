@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q16
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza Luke dall'incentro (60 gradi, BC)*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2016
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Distance of Luke from the centre (60 degrees, BC) < MSK1/>
+
+> Destroy the Black Death! Luke Randomwalker, aboard his fighter, must be able to destroy the Black Death. It shall hit a lens located in the centre of an ABC acute triangle consisting of 3 turrets such that BAC = 60° and BC = 2016 √ 3 m. Luke is located on the same plane as the towers and the target, at a distance of 2016 m from both B and C and on the opposite side of A with respect to BC. How far in meters is Luke from his target?
+
+**Answer:** 2016
+[[src_cesenatico_2016_finale__Q16]]

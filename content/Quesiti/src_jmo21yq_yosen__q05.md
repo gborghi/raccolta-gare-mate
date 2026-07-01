@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2011 — Yosen (Preliminary) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo21yq_yosen__Q05
 parent: src_jmo21yq_yosen
 competition: Japan Mathematical Olympiad 2011 — Yosen (Preliminary)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tens digit of product of integers ≤2011 ending in 3 or 7*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1urUgLmbFmCIBdxrB3HCA_bx94xui6G4b/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dicina cifra del prodotto dei numeri interi ≤2011 che terminano in 3 o 7*
+
+> Il $X$ deve essere il prodotto di tutti i numeri interi positivi non superiori al 2011 il cui numero unitario è 3 o 7. Trova la decina di $X$.
+
+[[src_jmo21yq_yosen__Q05]]

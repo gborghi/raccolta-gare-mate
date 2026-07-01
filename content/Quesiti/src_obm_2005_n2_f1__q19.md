@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q19
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smaller circles of equal radius r, centres at vertices of a square, inside larger circle; ratio of grey areas a/b*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circoli più piccoli di uguale raggio r, centri a vertici di un quadrato, all'interno di un cerchio più grande; rapporto di aree grigie a/b*
+
+> Nella figura, tutti i cerchi più piccoli hanno lo stesso raggio $r$ e i centri dei cerchi che toccano il cerchio più grande sono i vertici di un quadrato. Le zone grigie indicate nella figura sono $a$ e $b$. Quindi il rapporto $\dfrac{a}{b}$ è uguale: A) $\dfrac{1}{2}$ \quad B) $\dfrac{2}{3}$ \quad C) $1$ \quad D) $\dfrac{3}{2}$ \quad E) $2$
+
+![[src_obm_2005_n2_f1__Q19.png]]
+
+**Risposta:** C
+[[src_obm_2005_n2_f1__Q19]]

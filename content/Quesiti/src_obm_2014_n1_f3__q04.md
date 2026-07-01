@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f3__Q04
 parent: src_obm_2014_n1_f3
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 3
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cryptarithmetic: six permutations of OBM summed equal OOOX*
 
@@ -51,3 +54,19 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BIK2jbxEz-Oqq55BaAVlGqtzfFyEKasO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Crittografia aritmetica: sei permutazioni di OBM sommate uguali a OOOX*
+
+> Le lettere O, B e M rappresentano ciascuno di cifre diverse. Pertanto, OBM e BOM sono numeri a tre cifre con cifre distinte non a zero; ad esempio, se $O=1$, $B=2$, $M=3$, allora $OBM=123$ e $BOM=213$.
+> 
+> $$\begin{array}{r} OBM \\ OMB \\ MBO \\ + \quad MOB \\ BMO \\ BOM \\ \hline OOOX \end{array}$$
+> 
+> a) Qual è la somma di tutti i numeri a tre cifre forniti da $O=1$, $B=2$, $M=3$?
+> 
+> b) Quali sono tutti i valori del numero OBM in modo che nell'addizione di cui sopra, X sia anche un numero (cioè il risultato OOOX è un numero a quattro cifre)?
+
+[[src_obm_2014_n1_f3__Q04]]

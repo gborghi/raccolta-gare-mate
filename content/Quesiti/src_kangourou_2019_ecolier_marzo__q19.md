@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q19
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di pagine se la cifra 5 compare 16 volte*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Maximum number of pages if the figure 5 appears 16 times
+
+> The pages of a booklet are numbered from 1. In total, the number 5 appears 16 times in the numbering. How many pages can a booklet have at most? A) 49
+> 	
+> B) 64
+> 	
+> C) 66
+> 	
+> D) 74
+> 	
+> E) 80
+
+**Answer:** B
+[[src_kangourou_2019_ecolier_marzo__Q19]]

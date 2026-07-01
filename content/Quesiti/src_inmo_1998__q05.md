@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1998 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1998__Q05
 parent: src_inmo_1998
 competition: Indian National Mathematical Olympiad 1998
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Real quadratic with complex roots implies triangle inequality*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uAxelJ4GAxypZpM2ox-8kZZSTZuFphZT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Real quadratico con radici complesse implica disuguaglianza triangolare*
+
+> Supponiamo che $a, b, c$ siano numeri reali in modo tale che l'equazione quadrata $$x^2 - (a + b + c)x + (ab + bc + ca) = 0$$ abbia radici della forma $\alpha \pm i\beta$, dove $\alpha > 0$ e $\beta \neq 0$ sono numeri reali. Mostrare che: a) I numeri $a, b, c$ sono tutti positivi. b) I numeri $\sqrt{a}$, $\sqrt{b}$, $\sqrt{c}$ sono i lati di un triangolo.
+
+[[src_inmo_1998__Q05]]

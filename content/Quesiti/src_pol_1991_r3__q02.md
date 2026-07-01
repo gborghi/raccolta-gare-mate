@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1991 — Round 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1991_r3__Q02
 parent: src_pol_1991_r3
 competition: Olimpiade Matematica Polacca 1991 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count lattice paths between two points on x-axis*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1roje33Ik1bzgcqsL7yxrXsm0APZTffe7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i percorsi della reticola tra due punti sull'asse x*
+
+> $X$ sia l'insieme di tutti i punti della griglia del piano (punti $(x, y)$ con $x, y \in \mathbb{Z}$). Un percorso $\{p_1, p_2, \ldots, p_k\}$ di punti di $X$ è una catena $(p_1, p_2, \ldots, p_k)$ tale da $|p_{i+1} - p_i| = 1$ per $i = 1, \ldots, k-1$. $F(n)$ è il numero di percorsi distinti dei passi $n$ che iniziano a un punto $P_0$ della linea $y = 0$ e terminano a un punto $P_n$ della linea $y = 0$. Prove che $F(n) = \binom{2n}{n}$.
+
+[[src_pol_1991_r3__Q02]]

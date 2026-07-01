@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Ecolier (gara 28 marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_ecolier_marzo__Q14
 parent: src_kangourou_2008_ecolier_marzo
 competition: Kangourou 2008 - Ecolier (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo mattoncini 1x2x4 in scatola 4x4x4*
 
@@ -56,3 +59,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Y2PPk0y8EAPu9XdVwcxKDHQ2tA4fBFmN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum bricks 1x2x4 in a box 4x4x4< MSK1/>
+
+![[src_kangourou_2008_ecolier_marzo__prob14.png]]
+
+> You have a number of bricks that are 1cm x 2cm x 4cm. You want to put as many of them as possible in a cubic box whose dimensions are 4 cm x 4 cm x 4 cm, so that the box can be closed by a lid. How many bricks can you put in the box at most? A) 6 B) 7 C) 8 D) 9 E) 10 6 3 2 A) B) C) D) E) Text_08.qxp
+
+**Answer:** C
+[[src_kangourou_2008_ecolier_marzo__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2008 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo18mq_honsen__Q05
 parent: src_jmo18mq_honsen
 competition: Japan Mathematical Olympiad 2008 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of n representing every rational as integer plus n unit fractions*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFw0JBQC4rJhouU4rWc2OR9yO8fSPsSo/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di n che rappresenta ogni razionale come numero intero più n frazioni unitarie*
+
+> Esiste un numero intero positivo $n$ che soddisfa la seguente condizione?
+> 
+> Condizione: per ogni numero razionale $r$, esiste un intero $b$ e un intero non zero $a_1,\dots,a_n$ tale che $$r=b+\frac{1}{a_1}+\cdots+\frac{1}{a_n}.$$
+
+[[src_jmo18mq_honsen__Q05]]

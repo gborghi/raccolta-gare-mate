@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2009 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo19mq_honsen__Q01
 parent: src_jmo19mq_honsen
 competition: Japan Mathematical Olympiad 2009 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integers n with 2^n+n dividing 8^n+n^n*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UkWAtYCNms8aPB0csO1ya8AFPjXe2OlU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti gli integri positivi n con 2^n+n dividendo 8^n+n^n*
+
+> Trova tutti gli integri positivi $n$ in modo tale che $2^n + n$ divida $8^n + n^n$.
+
+[[src_jmo19mq_honsen__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2004 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo2q__Q02
 parent: src_jjmo2q
 competition: Japan Junior Mathematical Olympiad 2004
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Right triangle, angle B exceeds C by 48 degrees*
 
@@ -35,3 +38,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo rettangolo, angolo B superiore a C di 48 gradi*
+
+> C'è un triangolo rettangolo $ABC$ con $\angle A = 90^\circ$. Quando $\angle B$ è $48^\circ$ maggiore di $\angle C$, trovare $\angle B$.
+
+[[src_jjmo2q__Q02]]

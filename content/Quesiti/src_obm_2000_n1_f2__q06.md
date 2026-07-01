@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f2__Q06
 parent: src_obm_2000_n1_f2
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Largest n giving equal remainders for 154, 238, 334*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qZOH-LlPfV09ybTQlFoTrTk4Wq25FjPn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Migliore n dando i rimanenti uguali per 154, 238, 334< MSK1/>
+
+> Qual è il più grande intero positivo $n$ in modo che i rimanenti quando $154$, $238$ e $334$ sono entrambi divisi da $n$ siano tutti uguali?
+
+**Risposta:** 12
+[[src_obm_2000_n1_f2__Q06]]

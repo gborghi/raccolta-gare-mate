@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2024 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_automne__Q13
 parent: src_canimath_2024_automne
 competition: Coupe Animath Automne 2024
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Infinite integer sequence: k+l | a_k+a_l; show k−l | a_k−a_l for k≠l*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ToiF-cbs49nEzqiTXM37UMVM1T4Np7WY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Sequenza di numeri interi infiniti: k+l ∙ a_k+a_l; mostrare k−l ∙ a_k−a_l per k ∙ MSK0/>l ∙ MSK2/>
+
+> Lasciate che $a_1, a_2, \ldots$ sia una sequenza infinita di numeri interi. Supponiamo che per tutti gli integri $k \ge 1$ e $l \ge 1$, $k + l$ divida $a_k + a_l$. Indicare che per tutti gli integri $k \ge 1$ e $l \ge 1$ con $k \ne l$, $k - l$ divide $a_k - a_l$.
+
+[[src_canimath_2024_automne__Q13]]

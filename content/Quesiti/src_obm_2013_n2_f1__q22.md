@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n2_f1__Q22
 parent: src_obm_2013_n2_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 2 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find CG in two overlapping rectangles with parallel sides*
 
@@ -45,3 +48,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aJKmM4BMVNqPgWRw_bPm_vZK6qINyZFI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova CG in due rettangoli sovrapposti con lati paralleli*
+
+> Nella figura, i rettangoli $ABCD$ e $EFGH$ hanno lati paralleli. Poiché $AE = 3$, $BF = 4$ e $DH = 5$, si trova la misura di $CG$.
+> 
+> (A) 6 \quad (B) $\sqrt{32}$ \quad (C) 7 \quad (D) $\sqrt{40}$ \quad (E) $\sqrt{60}$
+
+![[src_obm_2013_n2_f1__Q22.png]]
+
+**Risposta:** D
+[[src_obm_2013_n2_f1__Q22]]

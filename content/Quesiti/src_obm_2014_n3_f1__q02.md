@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q02
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Logic puzzle: four doors, exactly one of four messages lies*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Il puzzle logico: quattro porte, esattamente uno dei quattro messaggi è falso
+
+> Roraima Jonas, un intrépido avventuriero, quando lascia una grotta incontra quattro porte, numerate $1$ a $4$, e quattro messaggi. I messaggi dicono: Messaggio 1: "Le porte 1 e 2 sono sicure". Messaggio 2: "Esattamente due delle porte 1, 2 e 3 sono sicure". Messaggio 3: "La porta 1 è sicura". Messaggio 4: "Tutte le porte sono sicure". Roraima Jonas è studiosa e, per questo motivo, sa che esattamente una delle messaggi mente e le altre dicono la verità (cioè, solo una è una bugia). Tuttavia, esattamente una delle porte non è sicura (avrebbe attivato una trappola). Quale porta può garantire la sicurezza di Roraima Jonas? (A) 1 (B) 2 (C) 3 (D) 4 (E) Non esiste una porta che Roraima Jonas possa garantire di essere sicura.
+
+[[src_obm_2014_n3_f1__Q02]]

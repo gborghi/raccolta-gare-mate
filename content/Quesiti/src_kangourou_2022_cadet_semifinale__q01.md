@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Cadet semifinale individuale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_cadet_semifinale__Q01
 parent: src_kangourou_2022_cadet_semifinale
 competition: Kangourou 2022 Cadet semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quali timbri forniscono la scritta corretta*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Atf906bALqwmRb_kARwP-8Kiu3Prkno0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which stamps give the correct spelling*
+
+![[src_kangourou_2022_cadet_semifinale__prob1.png]]
+
+> (2 points) Palloni Gonfiati has ordered a stamp bearing his name. The figure shows five stamps that were delivered to her, but, by mistake, not all of them in contact with the paper provide the desired writing, which is precisely Palloni Gonfiati. Which of the five do? A) Only five. B) Only one. C) Only 2 and 5. D) Only 3 and 4. E) Only four and five.
+
+**Answer:** D
+[[src_kangourou_2022_cadet_semifinale__Q01]]

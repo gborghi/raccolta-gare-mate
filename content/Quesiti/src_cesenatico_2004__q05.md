@@ -1,6 +1,7 @@
 ---
 title: XX Olimpiade Italiana Cesenatico 2004 - individuale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004__Q05
 parent: src_cesenatico_2004
 competition: XX Olimpiade Italiana Cesenatico 2004 - individuale
@@ -27,6 +28,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Enunciato su successioni reali decomposte in due con somme parziali*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** vero
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1SUJ83wt6O3HsePZYy6Y39_rKksLv5Bk-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Real successions broken down in two by partial sums *
+
+> Determine whether the following statement is true or false: For each succession x1, x2, x3, ... of real numbers greater than or equal to zero there are two successions a1, a2, a3, ... e b1, b2, b3, ... of real numbers greater than or equal to zero such that • xn = an + bn for each n; • a1 + ... + an ≤n for infinite values of n; • b1 + ... + bn ≤n for infinite values of n, possibly different from the previous ones.
+
+**Answer:** vero
+[[src_cesenatico_2004__Q05]]

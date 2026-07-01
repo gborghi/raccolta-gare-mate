@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2005 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo3q__Q07
 parent: src_jjmo3q
 competition: Japan Junior Mathematical Olympiad 2005
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fill 3x3 grid so every row and column product is 2005*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Completare la griglia 3x3 così ogni prodotto di riga e colonna è 2005*
+
+> Riempire ogni cella di una griglia $3 \times 3$ con un intero positivo in modo da soddisfare la seguente condizione: il prodotto dei tre numeri di ogni colonna è $2005$, e il prodotto dei tre numeri di ogni riga è anche $2005$. In quanti modi si può compiere un tale riempimento con integri positivi? Si noti che i riempimenti che coincidono sotto rotazione o riflessione sono ancora contati come distinti.
+
+[[src_jjmo3q__Q07]]

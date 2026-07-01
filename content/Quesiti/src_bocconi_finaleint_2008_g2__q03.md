@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 2) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g2__Q03
 parent: src_bocconi_finaleint_2008_g2
 competition: >-
@@ -36,6 +37,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di diagonali in piccoli quadrati senza incroci né contatti.*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 8 diagonali
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of small square diagonals without crossings or contacts.*
+
+> Divide a rectangle $3 \times 4$ into 12 small squares. What is the maximum number of small diagonals that can be drawn so that: $\bullet$ two diagonals cannot cross; $\bullet$ two diagonals cannot touch one end?
+
+**Answer:** 8 diagonali
+[[src_bocconi_finaleint_2008_g2__Q03]]

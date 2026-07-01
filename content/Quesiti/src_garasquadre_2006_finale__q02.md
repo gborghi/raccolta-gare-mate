@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Finale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_finale__Q02
 parent: src_garasquadre_2006_finale
 competition: VII Gara Nazionale a Squadre 2006 - Finale
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *modi dei mutui rapporti*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0052
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gZSw1a8n1M4j9DvH6wTbhtIqnyyqml42/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*modules of mutual relations*
+
+> Before she begins to color, the conscientious Hermit realizes that the yellow is almost gone, and the three are then forced to use it for one of the square faces. How many different ways are there left to color the prism? Write the answer (1) in the first two digits and the answer (2) in the last two.
+
+**Answer:** 0052
+[[src_garasquadre_2006_finale__Q02]]

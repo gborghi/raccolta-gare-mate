@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Ecolier (20 marzo) — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_ecolier__Q21
 parent: src_kangourou_2003_ecolier
 competition: Kangourou 2003 Ecolier (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Barre nere sottili nel codice a barre*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** ANNULLATO
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1czbNA6G54jyurSAbn017uEvb_LdkVcm7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tiny black bars in the barcode *
+
+![[src_kangourou_2003_ecolier__prob21.png]]
+
+> A barcode consists of 17 black and white bars (of course alternating: the first bar and the last bar are necessarily black). Black bars are of two types: wide or thin. The number of white bars is greater than 3 than the number of wide black bars. So the number of thin black bars is A) 1 B) 2 C) 3 D) 4 E) 5
+
+**Answer:** ANNULLATO
+[[src_kangourou_2003_ecolier__Q21]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2005 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2005__Q11
 parent: src_cn_cmc_2005
 competition: China Mathematical Competition 2005
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum area of square with one side on a line and opposite vertices on parabola*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 80
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area minima di quadrato con un lato su una linea e vertici opposti sulla parabola*
+
+> Se un lato $AB$ del quadrato $ABCD$ si trova sulla linea $y = 2x - 17$, e le altre due vertici $C$ e $D$ si trovano sulla parabola $y = x^2$, allora la superficie minima del quadrato è \underline{\hspace{2cm}}.
+
+**Risposta:** 80
+[[src_cn_cmc_2005__Q11]]

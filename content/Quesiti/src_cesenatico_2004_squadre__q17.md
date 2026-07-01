@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2004 - Finale Nazionale — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2004_squadre__Q17
 parent: src_cesenatico_2004_squadre
 competition: Gara a Squadre Cesenatico 2004 - Finale Nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di scrivere 2004 come somma di 1 (partizioni)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2118
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1_LEGKvPB34N72I_xMIFjTTyBY9JWper8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to write 2004 as the sum of 1 (partitions) *
+
+> The clergyman Didymus, an expert in numerology and magical manipulation of symbols, discovered a spell. To activate it, you must write the magic number 2004 in all possible ways using only the symbol 1 and the sum operation. How many of these ways are possible? Watch your step! For the purpose of counting, two sums which differ only in order of additions shall be counted only once.
+
+**Answer:** 2118
+[[src_cesenatico_2004_squadre__Q17]]

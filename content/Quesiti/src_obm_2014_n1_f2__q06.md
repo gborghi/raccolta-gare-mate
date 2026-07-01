@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f2__Q06
 parent: src_obm_2014_n1_f2
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 2
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *3x3 board filled with integers 1-9; four 2x2 subboard products minus 100 given; find border sum*
 
@@ -52,3 +55,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IPok4PRxy9Hjx2jdMAd1kg06y2bUg7PC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+* tabella 3x3 riempita di numeri integri 1-9; quattro sottoprodotti 2x2 meno 100 dati; trovare somma di confine*
+
+> Juliana scrive nelle cellule di una tavola $3 \times 3$ nove numeri interi da 1 a 9, uno in ogni cellula. Successivamente copia i quattro numeri scritti in ciascuno dei quattro $2 \times 2$ sottotabelloni contenuti nella tabella $3 \times 3$, e annuncia il risultato del prodotto di questi quattro numeri meno 100, come indicato nella figura. I quattro risultati mostrati sono 30, 19, 12 e 21.
+> 
+> Qual è la somma dei numeri scritti nelle celle di confine della lavagna, rappresentate dalle celle grigie della figura?
+
+![[src_obm_2014_n1_f2__Q06.png]]
+
+[[src_obm_2014_n1_f2__Q06]]

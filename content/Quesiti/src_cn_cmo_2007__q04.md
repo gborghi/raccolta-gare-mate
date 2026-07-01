@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2007 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2007__Q04
 parent: src_cn_cmo_2007
 competition: China Mathematical Olympiad 2007
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcenter, incenter, tangent points; prove OI⊥MN*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circumcenter, incenter, punti tangenti; prova OIMN*
+
+> Supponiamo che i punti $O$ e $I$ siano rispettivamente il circoncentro e l'incentro di $\triangle ABC$, e che il cerchio di $\triangle ABC$ sia tangente ai lati $BC$, $CA$, $AB$ rispettivamente ai punti $D$, $E$ e $F$. Le linee $FD$ e $CA$ sono intercettate al punto $P$, mentre le linee $DE$ e $AB$ sono intercettate al punto $Q$. E i punti $M$ e $N$ sono il punto medio dei segmenti $PE$ e $QF$ rispettivamente. Provare che < MSK20/>.
+
+[[src_cn_cmo_2007__Q04]]

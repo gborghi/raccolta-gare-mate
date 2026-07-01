@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2024 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_printemps__Q09
 parent: src_canimath_2024_printemps
 competition: Coupe Animath Printemps 2024
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two linear equations in a,b,c imply a^2+b^2=2c^2*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due equazioni lineari in a,b,c implicano a^2+b^2=2c^2*
+
+> Che $a$, $b$ e $c$ siano tre reali che soddisfano entrambe le equazioni $4a + 3b = c$ e $3a - 4b = 7c$. Mostra che $a^2 + b^2 = 2c^2$.
+
+[[src_canimath_2024_printemps__Q09]]

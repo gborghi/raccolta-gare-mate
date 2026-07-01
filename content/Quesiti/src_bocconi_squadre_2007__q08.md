@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2007 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2007__Q08
 parent: src_bocconi_squadre_2007
 competition: Gara a Squadre 2007
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Terne intere (x,y,z) con 1≤x≤y≤z tali che (x-1)(y-1)(z-1) divide xyz-1*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Integer terms (x,y,z) with 1≤x≤y≤z such that (x-1)
+
+> Write all the $(x, y, z)$ terns of integers $x$, $y$, $z$ with $1 \le x \le y \le z$ such that the product $(x-1)(y-1)(z-1)$ is a divisor of $xyz - 1$ (the product of $x$ for $y$ for $z$, minus 1).
+> 
+> Write 0 if you think there are no tiles with the required feature.
+
+[[src_bocconi_squadre_2007__Q08]]

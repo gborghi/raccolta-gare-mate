@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n2_f2__Q06
 parent: src_obm_2012_n2_f2
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 2 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Palindromes in base 10: find all two-digit ab with ab+ba and ab*ba both palindromes*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eh3-XUlx8DQIfyrafQYPn3K5T8QkbX4r/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Palindromi nella base 10: trovare tutti i due cifre ab con ab+ba e ab*ba entrambi i palindromi*
+
+> Un numero è un *palindromo* quando la sequenza di cifre che si legge da sinistra a destra è la stessa che si legge da destra a sinistra. Ad esempio, $12321$ è un palindromo. Determinare tutti i numeri a due cifre $\overline{ab}$ (in base 10) in modo tale che $\overline{ab} + \overline{ba}$ e $\overline{ab} \times \overline{ba}$ siano entrambi palindromi. Ad esempio, $12 + 21 = 33$ e $12 \times 21 = 252$ mostrano che il numero $12$ soddisfa queste condizioni.
+
+[[src_obm_2012_n2_f2__Q06]]

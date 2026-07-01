@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2019 - Triennio (T1) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2019_triennio__Q11
 parent: src_archimede_2019_triennio
 competition: Giochi di Archimede 2019 - Triennio (T1)
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita somma 10 con dado normale e dado speciale*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3_uhuT3lC5CNryAGU88Y-WFc6Fw1EHC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability sum 10 with normal and special dice*
+
+> Mark has two dice. One of the two is a normal dice game, with faces numbered from 1 to 6. The other is a special dice instead, which has two faces with the number 3, one face with the number 4 and three faces with the number 6. So if you put the two dice together, what's the probability that the sum of the two numbers that came out is equal to 10?
+>
+> - **(A)** 2/9
+> - **(B)** 1/18
+> - **(C)** 1/9
+> - **(D)** 1/6
+> - **(E)** 1/12
+
+**Answer:** C
+[[src_archimede_2019_triennio__Q11]]

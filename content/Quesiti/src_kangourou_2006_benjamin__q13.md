@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q13
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Giri pista perche il dado torni in posizione iniziale*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Run the track so that the dice return to the starting position*
+
+![[src_kangourou_2006_benjamin__prob13.png]]
+
+> A die is in the position indicated in the figure. How many complete turns of the track will it take for the dice, rotating each time with one face, to return to the exact starting position? (a) 1 (b) 2 (c) 3 (d) 4 (e) cannot be determined
+
+**Answer:** A
+[[src_kangourou_2006_benjamin__Q13]]

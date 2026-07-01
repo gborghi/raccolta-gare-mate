@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2013 — Mumbai — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2013__Q02
 parent: src_prmo_2013
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2013
@@ -31,6 +32,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Value of sum of 1/(S_n+S_{n-1}) for n=1 to 99*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Valore della somma di 1/(S_n+S_{n-1}) per n=1 a 99*
+
+> Let < MSK0/>. Qual è il valore di $\sum_{n=1}^{99} \frac{1}{S_n + S_{n-1}}$?
+
+[[src_prmo_2013__Q02]]

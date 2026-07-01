@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1987-88 — Round 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1987-88_round1__Q03
 parent: src_bmo_1987-88_round1
 competition: British Mathematical Olympiad 1987-88 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find unique integer pair r, n with 0<n<200 satisfying two fraction inequalities*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11guDhXvMdprlP2g-JECuN_zy0XPTSGKa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca una coppia di integri unica r, n con 0<n<200 che soddisfa due disuguaglianze frazioni*
+
+> Trovare una coppia di integri $r$, $n$ tale che $0 < n < 200$ e $$\frac{r}{n} < \frac{51}{80} < \frac{r+1}{n}, \qquad \frac{r}{n+1} < \frac{51}{80} < \frac{r+1}{n+1}.$$ Inoltre dimostrare che esiste esattamente una coppia di tali $r$, $n$.
+
+[[src_bmo_1987-88_round1__Q03]]

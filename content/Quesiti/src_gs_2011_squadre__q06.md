@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2011 - Gara a squadre — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2011_squadre__Q06
 parent: src_gs_2011_squadre
 competition: Coppa Fermat 2011 - Gara a squadre
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di ottenere 9 con tre dadi diversi*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1093
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16O8W-zDXe7DKyx9LOMqlVczhvrMYZths/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Probability of obtaining 9 with three different dice< MSK1/>
+
+> Dr. No challenges Bond to a game with three dice: one with 4 faces numbered from $1$ to $4$, one with 6 faces numbered from $1$ to $6$ and the last dice with 8 faces numbered from $1$ to $8$. Bond has to roll all the dice twice and add up the faces. You can leave the island if the result you get is $14$, or you'll be thrown in jail. James pulls all three dice together once, getting $5$ as the sum of the numbers on the faces. What are the odds of Bond not getting thrown in jail? Answer by writing the first four digits after the resulting comma.
+
+**Answer:** 1093
+[[src_gs_2011_squadre__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2011 — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2011__Q20
 parent: src_bocconi_squadre_2011
 competition: Gara a Squadre 2011
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Frazione per cui Luca ha moltiplicato invece di dividere*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** $\frac{2}{5}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csoOdxkAD8Fd4QvzRpEPzVVVOCkJ8l1C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fraction for which Luke multiplied instead of dividing*
+
+> Luke has a really weird way of calculating fractions. He is used to replacing the fractional line with a comma and, when it comes to multiplying, instead divides. So for example, to multiply 12 by 6/25, divide 12 by 6.25. But Luke is also a lucky calculator: today, by proceeding normally in multiplying a number (different from 0) by an irreducible fraction, he has incredibly achieved the exact result. What is the fraction by which Luke multiplied the number?
+
+**Answer:** $\frac{2}{5}$
+[[src_bocconi_squadre_2011__Q20]]

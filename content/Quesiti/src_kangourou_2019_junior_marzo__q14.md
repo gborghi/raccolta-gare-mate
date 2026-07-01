@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Junior (biennio) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_marzo__Q14
 parent: src_kangourou_2019_junior_marzo
 competition: Kangourou 2019 Gara marzo Junior (biennio)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza totale del percorso del triathlon*
 
@@ -52,3 +55,23 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1PtmAtUdOuvdwBrjfK7n2zqybGJv4FQB6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Total length of the triathlon course*
+
+> Triathlon is a discipline that requires three trials: swimming, running, and cycling. Three-quarters of the total distance to be covered shall be cycled, one-fifth of the total distance covered shall be covered on foot and 2 km shall be covered by swimming. How many kilometers is the entire route? A) 10
+> 	
+> B) 20
+> 	
+> C) 38
+> 	
+> D) 40
+> 	
+> E) 60            
+>
+
+**Answer:** D
+[[src_kangourou_2019_junior_marzo__Q14]]

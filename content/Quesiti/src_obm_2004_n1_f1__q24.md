@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q24
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which views match the 3D object shown?*
 
@@ -49,3 +52,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Quali visualizzazioni corrispondono all'oggetto 3D mostrato?
+
+> Osservate la figura. Due delle figure di seguito rappresentano l'oggetto sopra illustrato posizionato in altre posizioni. Sono:
+> 
+> (A) I e II quadrati (B) I e IV quadrati (C) II e IV quadrati (D) I e III quadrati (E) II e III
+
+![[src_obm_2004_n1_f1__Q24.png]]
+
+**Risposta:** B
+[[src_obm_2004_n1_f1__Q24]]

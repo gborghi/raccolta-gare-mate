@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2007 - Gara Biennio — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_biennio__Q19
 parent: src_archimede_2007_biennio
 competition: Giochi di Archimede 2007 - Gara Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cavalieri tra quattro abitanti briganti e cavalieri*
 
@@ -48,3 +51,20 @@ tags:
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1JvWPRPpt26tqZBiBRCLaS3ACaaIWZhVy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Knights between four robbers and knights*
+
+> In a country there are only robbers, who always lie, and knights, who always tell the truth. A journalist interviewed four inhabitants: Arthur, Bernard, Charles, and Darius, who make the following statements. Arthur: Bernard is a brigand; Bernardo: I am the only knight among us four; Charles: At least one between Arthur and Darius is a brigand; Darius: We are 4 knights. How many of the four are knights?
+>
+> - **(A)** No one.
+> - **(B)** One of them.
+> - **(C)** two,
+> - **(D)** three,
+> - **(E)** Four of them.
+
+**Answer:** C
+[[src_archimede_2007_biennio__Q19]]

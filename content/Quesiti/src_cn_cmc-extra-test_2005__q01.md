@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Extra Test) 2005 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-extra-test_2005__Q01
 parent: src_cn_cmc-extra-test_2005
 competition: China Mathematical Competition (Extra Test) 2005
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle tangent circle, incenter and excenter via DE DF*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Circolo tangente triangolare, incentro ed eccentro via DE DF*
+
+> In $\triangle ABC$, $AB > AC$, $l$ è una linea tangente del cerchio circoscritto di $\triangle ABC$. Il cerchio, incentrato a $A$ con raggio $AC$, si interseca con $AB$ a $D$ e $l$ a $E$, $F$ (vedere il diagramma). Provare che le linee $DE$ e $DF$ passano rispettivamente attraverso l'incentro e l'eccentro di $\triangle ABC$.
+
+![[src_cn_cmc-extra-test_2005__Q01.png]]
+
+[[src_cn_cmc-extra-test_2005__Q01]]

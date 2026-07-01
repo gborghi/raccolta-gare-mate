@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Finale Nazionale — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_finale__Q10
 parent: src_cesenatico_2007_squadre_finale
 competition: Gara a Squadre Cesenatico 2007 - Finale Nazionale
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area parte piu piccola dello Yin-Yang tagliato (coeff. pi)*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16pxGYGN_oj3bDy67dfV4MonzkKe7TTZV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> Smaller area of the cut Yin-Yang (coef. pi)*
+
+![[src_cesenatico_2007_squadre_finale__prob10.png]]
+
+> The broken amulet Lo Yin-Yang, the amulet symbol of the village of the Straight, is obtained by taking five aligned and equal-spaced points A, B, C, D, E, and drawing a circumference with a center in C and AC radius and two semicircles of radius AB centered one in B and the other in D as shown in Figure 1. The disgruntled Numeruto cut a Yin-Yang with a straight cut passing B and perpendicular to the AE segment. The cut and the two semi-conferences delimit four parts. If AB is 60 mat-bu, how many mat-bu2 measures the smallest part in which Numerus divided the Yin-Yang? Give the coefficient π as the answer, once all parentheses are dissolved. A B C D E
+
+[[src_cesenatico_2007_squadre_finale__Q10]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2012-13 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2012-13_round1__Q05
 parent: src_bmo_2012-13_round1
 competition: British Mathematical Olympiad 2012-13 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with sides at most 2, 3, 4; maximum area*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JTjNuxTxawi_-KG0TGKqoD76qhZ0NWV_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangolo con lati non più di 2, 3, 4; superficie massima*
+
+> Un triangolo ha lati di lunghezza massima $2$, $3$ e $4$ rispettivamente. Determinare, con prova, l'area massima possibile del triangolo.
+
+**Risposta:** 3
+[[src_bmo_2012-13_round1__Q05]]

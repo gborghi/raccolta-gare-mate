@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2008 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2008__Q04
 parent: src_bocconi_squadre_2008
 competition: Gara a Squadre 2008
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero naturale il cui quadrato termina con 2001*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 249
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-tqq16h03tQiAtD1FLyvqeJRhugh5_Rg/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum natural number whose square ends in 2001*
+
+> What's the smallest natural number whose square ends in 2001?
+
+**Answer:** 249
+[[src_bocconi_squadre_2008__Q04]]

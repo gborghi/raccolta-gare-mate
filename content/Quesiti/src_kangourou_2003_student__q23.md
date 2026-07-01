@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student (20 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student__Q23
 parent: src_kangourou_2003_student
 competition: Kangourou 2003 Student (20 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Proprieta di S=A+B+(A-B)+(A+B) con primi*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KAV2USZ29w8vLlVZoeRXWJ19Wc_h5IXz/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Property of S=A+B+(A-B)+(A+B) with prime *
+
+> Let's say that A>B>1, and B is a positive integer such that A, B, A-B, A+B are all prime numbers. So S=A+B+(A-B)+(A+B) A) is equal to B) is a multiple of 3 C) is a multiple of 5 D) is a multiple of 7 E) is a prime number
+
+**Answer:** E
+[[src_kangourou_2003_student__Q23]]

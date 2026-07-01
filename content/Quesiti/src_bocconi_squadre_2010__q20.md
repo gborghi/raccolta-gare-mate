@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q20
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato minimo del quadrato maggiore che supera 2001 cm²*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 49 m
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum area of the largest square exceeding 2001 cm2< MSK1/>
+
+> A small square is very envious of another square, its friend, which is very large and whose area exceeds its 2001 area.
+> 
+> What's the minimum value of the side of the main square?
+
+**Answer:** 49 m
+[[src_bocconi_squadre_2010__Q20]]

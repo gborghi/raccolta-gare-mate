@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2021 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2021_automne__Q03
 parent: src_canimath_2021_automne
 competition: Coupe Animath Automne 2021
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Village 5 buildings, each person has ≥2 family members in village; show someone shares building with a family member*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zrWTK4eOeJeESB5g_ui9TkaOMi9jbjoU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Village 5 edifici, ogni persona ha ≥2 membri della famiglia nel villaggio; mostrare qualcuno che condivide un edificio con un membro della famiglia*
+
+> Un villaggio è composto da 5 edifici. Nei 5 edifici vivono rispettivamente 5, 15, 25, 35 e 45 persone. Ogni persona conta almeno due membri della propria famiglia (esclusi se stessi) tra gli abitanti del villaggio. Mostrate che esiste una persona che conta un membro della sua famiglia tra gli abitanti del proprio edificio.
+
+[[src_canimath_2021_automne__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f3__Q01
 parent: src_obm_2006_n1_f3
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two digit-shifting sequences: find terms, last term, period*
 
@@ -56,3 +59,23 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FsRdAPbcst2JE6FUdAJxsjzLVbBqnPA7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenze di spostamento a due cifre: trovare termini, ultimo termine, periodo*
+
+> Considerate le seguenti sequenze.
+> 
+> $S_1$: $12345678,\ 81234567,\ 78123456,\ \ldots$, in cui la cifra di unità di un termine diventa la cifra più sinistra del termine successivo (la cifra di unità si sposta in avanti).
+> 
+> $S_2$: $123456789,\ 912345678,\ 891234567,\ \ldots$, in cui la cifra unità di un termine diventa la cifra più sinistra del termine successivo, e la cifra decina di un termine diventa la seconda cifra dalla sinistra del termine successivo.
+> 
+> (a) Trovare il quinto termine di $S_1$ e il quarto termine di $S_2$.
+> 
+> b) La sequenza $S_1$ ha i termini $2006$. Qual è l'ultimo termine?
+> 
+> c) La sequenza $S_3$ termina quando si ripete il primo termine. Quanti termini $S_3$ ha?
+
+[[src_obm_2006_n1_f3__Q01]]

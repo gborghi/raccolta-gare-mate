@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f1__Q06
 parent: src_obm_2002_n2_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Difference of squares of two consecutive integers is always equal to their sum*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La differenza dei quadrati di due numeri interi consecutivi è sempre pari alla loro somma*
+
+> La differenza tra i quadrati di due numeri interi positivi consecutivi è sempre:
+>
+> - **(A)** un numero primo.
+> - **(B)** un multiple di $4$.
+> - **(C)** pari alla somma di questi due numeri.
+> - **(D)** un numero pari.
+> - **(E)** un quadrato perfetto.
+
+**Risposta:** C
+[[src_obm_2002_n2_f1__Q06]]

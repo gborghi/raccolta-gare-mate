@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Cadet - Gara 15 marzo — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_cadet_marzo__Q20
 parent: src_kangourou_2018_cadet_marzo
 competition: Kangourou 2018 Cadet - Gara 15 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza tra il primo e il secondo punto*
 
@@ -59,3 +62,24 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1N8sDWCy5pGctbRhyvzJgD2bLzruK0G_G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance between the first and second point*
+
+> Betta scored 11 points on a horizontal line. The sum of the distances between the first point from the left and each of the other points is 2018 cm. The sum of the distances of the second point to the left from each of the other points, including the first point, is 2000 cm. How many centimeters does the distance between the first and second point measure? A) 18
+> 	
+> B) 9
+> 	
+> C) 6
+> 	
+> D) 3
+> 	
+> E) 2 10° 14° 33° 26° α A B r
+> 
+> The questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** E
+[[src_kangourou_2018_cadet_marzo__Q20]]

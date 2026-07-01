@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2008 — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2008__Q15
 parent: src_bocconi_autunno_2008
 competition: Giochi d'Autunno 2008
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo caselle annerite in griglia 7×7 senza tre consecutive*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 33 caselle
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK1/>Maximum blackened grid boxes 7< MSK0/>7 without three consecutive < MSK2/>
+
+> What is the maximum number of boxes that can be blackened in the < MSK0/> grid of the figure without ever forming three consecutive boxes, aligned horizontally or vertically?
+
+![[src_bocconi_autunno_2008__Q15.png]]
+
+**Answer:** 33 caselle
+[[src_bocconi_autunno_2008__Q15]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2025 - Semifinale 1 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2025_squadre_semifinale1__Q05
 parent: src_archimede_2025_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2025 - Semifinale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie con resti distinti dividendo per 2..100*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0099
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1sWBJ4nme7gGHWMg0oUz1kYs-fhR87X47/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pairs with distinct remains divided by 2,100*
+
+> James Bound sometimes makes use of the collaboration of French secret agent René Mathieu. The first time was when together they solved the following question: How many ways can two numbers between 1 and 100 be chosen that, divided by each number between 2 and 100, always give distinct remains?
+
+**Answer:** 0099
+[[src_archimede_2025_squadre_semifinale1__Q05]]

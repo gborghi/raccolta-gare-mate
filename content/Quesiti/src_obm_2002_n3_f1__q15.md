@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q15
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divisibility claims about x^3+y^3+z^3 given that x+y+z=0*
 
@@ -60,3 +63,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Divisibilità delle affermazioni su x^3+y^3+z^3 dato che x+y+z=0*
+
+> Se il numero $x$, $y$, $z$ è un numero intero tale che $x+y+z=0$. A proposito di $x^3+y^3+z^3$ si fanno le seguenti affermazioni: i) È necessariamente un multiple di 2. ii) È necessariamente un multiple di 3. iii) È necessariamente un multiple di 5. Possiamo affermare che:
+>
+> - **(A)** Solo i) è corretto.
+> - **(B)** solo ii) è corretta.
+> - **(C)** Solo i) e ii) sono corretti.
+> - **(D)** Solo i) e iii) sono corretti.
+> - **(E)** i), ii) e iii) sono corrette.
+
+**Risposta:** D
+[[src_obm_2002_n3_f1__Q15]]

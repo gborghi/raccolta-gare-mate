@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2010 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2010__Q04
 parent: src_bocconi_autunno_2010
 competition: Giochi d'Autunno 2010
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di fiammiferi sul tavolo dopo la sesta mossa del gioco di Debora*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 23
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of matches on the table after the sixth move of Deborah's game*
+
+> With the matches, Deborah has become passionate about a game of matches in which she follows some rules meticulously. On the first move, put a match on the table. In the second, it supports two new matches (in their middle) at its ends. With the third move, support (always in their midpoint) 4 new matches at the 4 free ends. When two ends are very close together, such as in the situations indicated on the figure with arrows, these cannot therefore "host" new matches. In the fourth move, the game continues with four new matches. How many matches will be on the table after the sixth move?
+
+![[src_bocconi_autunno_2010__Q04.png]]
+
+**Answer:** 23
+[[src_bocconi_autunno_2010__Q04]]

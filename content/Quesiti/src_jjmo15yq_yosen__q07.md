@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo15yq_yosen__Q07
 parent: src_jjmo15yq_yosen
 competition: Japan Junior Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find 3-digit n with n = 2P(n) + 27, P = product of digits*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 279, 587
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca n a 3 cifre con n = 2P(n) + 27, P = prodotto di cifre*
+
+> Per un intero positivo $k$, $P(k)$ indica il prodotto delle sue cifre. Trova tutti gli integri positivi $3$ a cifre $n$ soddisfacenti $n = 2P(n) + 27$.
+
+**Risposta:** 279, 587
+[[src_jjmo15yq_yosen__Q07]]

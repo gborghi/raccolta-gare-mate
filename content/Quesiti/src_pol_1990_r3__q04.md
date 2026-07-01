@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1990 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1990_r3__Q04
 parent: src_pol_1990_r3
 competition: Olimpiade Matematica Polacca 1990 — Round 3
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *A triangle with all sides at least 1 is inscribed in a unit square; prove the square's center lies inside or on the triangle.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SP_o4XBA9t_Mr20tlsjjsNkpPD2auONv/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un triangolo con tutti i lati almeno 1 è inscritto in un quadrato unitario; dimostrare che il centro del quadrato si trova all'interno o sul triangolo.*
+
+> Un triangolo il cui lunghezza non è inferiore a 1 è inciso in un quadrato di lunghezza laterale 1. Prova che il centro del quadrato si trova all'interno del triangolo o al suo confine.
+
+[[src_pol_1990_r3__Q04]]

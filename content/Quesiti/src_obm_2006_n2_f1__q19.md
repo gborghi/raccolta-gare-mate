@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f1__Q19
 parent: src_obm_2006_n2_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-digit number called bonito if tens digit > units; count bonitos*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14t6nVajpMlWqHRaEJhIgWxeB33efd9t2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un numero a due cifre chiamato bonito se decine di cifre > unità; contare bonitos*
+
+> Un numero a due cifre con cifre distinte non zero viene chiamato "bonito" (più bello) se la cifra decina è maggiore della cifra di unità. Il numero dei numeri del bonito è:
+> 
+> **A) ** 72 \quad **B) ** 36 \quad **C) ** 35 \quad **D) ** 64 \quad **E) ** 56
+
+**Risposta:** B
+[[src_obm_2006_n2_f1__Q19]]

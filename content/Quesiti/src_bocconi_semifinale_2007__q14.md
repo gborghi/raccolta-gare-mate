@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2007 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2007__Q14
 parent: src_bocconi_semifinale_2007
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2007
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero iniziale di biscotti con quattro marinai e un cane*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 95 biscotti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K6qcXpMfIo922at7TD2hwbN7a60rfYW0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Initial number of biscuits with four sailors and one dog*
+
+> After the shipwreck and their rescue, four superstitious sailors land on a desert island with a dog and a box of biscuits.
+> 
+> During the night, the first sailor wakes up hungry, gives a cookie to the dog and eats half the rest of the contents of the box, then falls asleep again. A little later, a second sailor does the same thing: He gives a cookie to the dog and eats half the contents of the box. Later, a third sailor does the same: He gives the dog a cookie and eats half. The fourth sailor behaves the same way.
+> 
+> When the sun is already high in the sky, the four sailors wake up together and want to eat a cookie each in the morning.
+> 
+> How many cookies were in the box when the sailors landed on the island?
+
+**Answer:** 95 biscotti
+[[src_bocconi_semifinale_2007__Q14]]

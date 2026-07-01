@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Student — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_student__Q11
 parent: src_kangourou_2013_student
 competition: Kangourou 2013 marzo Student
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Di quanti pentagoni e fatto l'anello*
 
@@ -47,3 +50,23 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Keilemxlw1N7Qwo5x0MtJD-GNzu3WCAd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many pentagons and made the ring*
+
+![[src_kangourou_2013_student__prob11.png]]
+
+> Richard has plastic sheets all the same to each other, shaped like a regular pentagon. It adheres to them by gluing the sides without overlapping, so as to create a circular construction as in the figure. How many pieces did you put together? A) 8
+> 	
+> B) 9
+> 	
+> C) 10
+>             
+> D) 12
+> 	
+> E) 15
+
+[[src_kangourou_2013_student__Q11]]

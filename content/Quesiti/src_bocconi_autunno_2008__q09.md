@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2008 — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2008__Q09
 parent: src_bocconi_autunno_2008
 competition: Giochi d'Autunno 2008
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Treni incontrati da Carla e Milena nel viaggio da Milano a Mathville*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9 treni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Trains met by Carla and Milena on their journey from Milan to Mathville
+
+> Carla and Milena have to go to Mathville. From Milan they decide to take a Eurostar to the Central Station. Here they consult the timetable and note that, every hour, there is a train departing for Mathville and also one arriving from Mathville (in the direction of Milan). The journey, in both directions, takes exactly five hours. How many trains go in the opposite direction (from Mathville to Milan) meet Carla and Milena during their journey? (Don't count the trains they see at departure and arrival.)
+
+**Answer:** 9 treni
+[[src_bocconi_autunno_2008__Q09]]

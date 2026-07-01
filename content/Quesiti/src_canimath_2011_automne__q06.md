@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2011 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2011_automne__Q06
 parent: src_canimath_2011_automne
 competition: Coupe Animath Automne 2011
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ball: no boy danced with all girls; find a crossing pair of boys and girls*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi e ragazze che si incrociano
+
+> A un ballo, nessun ragazzo ha ballato con tutte le ragazze, e ogni ragazza ha ballato con almeno un ragazzo. Prova che si possono trovare ragazzi $g$ e $g'$, e ragazze $f$ e $f'$, in modo tale che $g$ abbia ballato con $f$ ma non con $f'$, e $g'$ abbia ballato con $f'$ ma non con $f$.
+
+[[src_canimath_2011_automne__Q06]]

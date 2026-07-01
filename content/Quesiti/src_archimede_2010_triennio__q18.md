@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2010 - Triennio — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2010_triennio__Q18
 parent: src_archimede_2010_triennio
 competition: Giochi di Archimede 2010 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadrati perfetti di almeno tre cifre fino a 2010*2011*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FJYSxr7d8sd3ey7P_8-io-5jVg6OZUfj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Perfect squares of at least three digits until 2010*2011*
+
+> How many perfect squares of at least three digits less than or equal to 2010 · 2011?
+>
+> - **(A)** 1890,
+> - **(B)** 1910,
+> - **(C)** 2001,
+> - **(D)** 2011,
+> - **(E)** 2110.
+
+**Answer:** C
+[[src_archimede_2010_triennio__Q18]]

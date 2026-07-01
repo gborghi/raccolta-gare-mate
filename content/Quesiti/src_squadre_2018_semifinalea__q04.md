@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Semifinale A — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_semifinalea__Q04
 parent: src_squadre_2018_semifinalea
 competition: Gara a Squadre 2018 - Semifinale A
@@ -28,6 +29,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Sequenza autodescrittiva dopo 2018 iterazioni, terzo termine*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0001
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total number of units of measurement for each unit of measurement.
+
+> Complicated dashboard On the dashboard of the DeuLerean there is a digital screen that is capable of depicting a sequence of non-negative integers. As soon as \DOC has finished its construction, a sequence consisting of only the number 100 appears. With each time travel, this sequence is replaced by a new one, according to this rule: for every k ≥0, the (k +1)-th term of the new sequence is equal to the number of times the number k appears in the old one. The new sequence is equal to the maximum number that appears in the old sequence, plus one. For example, if the old sequence was (10,2,0,2), the new sequence would be (1,0,2,0,0,0,0,0,0,0,0,0,0,0,1). After 2018 time travel, what is the value of the third number (left) of the sequence displayed?
+
+**Answer:** 0001
+[[src_squadre_2018_semifinalea__Q04]]

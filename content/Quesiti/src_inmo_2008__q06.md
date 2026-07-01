@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2008 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2008__Q06
 parent: src_inmo_2008
 competition: Indian National Mathematical Olympiad 2008
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Integer polynomial P(x) admits multiples that are polynomials in x^2 and x^3*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IoNn49qAJMt9lqRO6Y5I9UMFKZPua460/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Pollinomio intero P(x) ammette moltipli che sono polinomi in x^2 e x^3*
+
+> Che $P(x)$ sia un dato polinomio con coefficienti interi. Prove che esistono due polinomi $Q(x)$ e $R(x)$, di nuovo con coefficienti interi, in modo tale che (i) $P(x)Q(x)$ sia un polinomio in $x^2$; e (ii) $P(x)R(x)$ sia un polinomio in $x^3$.
+
+[[src_inmo_2008__Q06]]

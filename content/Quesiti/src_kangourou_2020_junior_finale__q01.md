@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Junior squadre 2020 Finale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_finale__Q01
 parent: src_kangourou_2020_junior_finale
 competition: Kangourou Coppa Junior squadre 2020 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo N per sconto k% limitato a 4 ingressi*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0020
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1FHlXv6XSZu8CigCMt0qnx7UwdUaiE9UP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum N for discount k% limited to 4 entries*
+
+> Discount The management of a museum intends to grant a discount of k% on the price of the entrance ticket to groups of k people who will purchase a cumulative ticket. However, it does not want the amount of the discount to exceed the equivalent of 4 free entries for each group of people. What's the greatest possible value of N?
+
+**Answer:** 0020
+[[src_kangourou_2020_junior_finale__Q01]]

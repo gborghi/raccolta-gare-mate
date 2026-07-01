@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f3__Q05
 parent: src_obm_2001_n2_f3
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 3
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all possible values of a symmetric expression in a, b, c given a+b+c=0*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i valori possibili di un'espressione simmetrica in a, b, c dati a+b+c=0*
+
+> Lasciate che $a$, $b$ e $c$ siano numeri reali non zeri come $a+b+c=0$. Calcolare i possibili valori di $$\frac{(a^3+b^3+c^3)^2(a^4+b^4+c^4)}{(a^5+b^5+c^5)^2}.$$
+
+[[src_obm_2001_n2_f3__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1994 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1994__Q08
 parent: src_rmo_1994
 competition: Regional Mathematical Olympiad 1994
@@ -28,6 +29,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove inequality (1+a)(1+b)(1+c) >= 8(1-a)(1-b)(1-c)*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove la disuguaglianza (1+a)
+
+> Se $a$, $b$ e $c$ sono numeri reali positivi come $a + b + c = 1$, dimostrare che $$(1+a)(1+b)(1+c) \ge 8(1-a)(1-b)(1-c).$$
+
+[[src_rmo_1994__Q08]]

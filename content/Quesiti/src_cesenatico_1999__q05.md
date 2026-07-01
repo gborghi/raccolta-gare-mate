@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Cesenatico 1999 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_1999__Q05
 parent: src_cesenatico_1999
 competition: Gara Nazionale Cesenatico 1999
@@ -28,6 +29,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori m,n,p per villaggio di capanne con ponti*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xiVBBYZkZtqAHB0eYNM1QTJV2D_9fS-1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Values m,n,p per village of huts with bridges*
+
+> On a lake there is a village of huts placed on pallets in the nodes of a rectangular lattice $m \times n$ (see example in figure). From the platform of each shed exactly $p$ bridges start, which connect it to one or more of the adjacent sheds (as opposed to the lattice, so not diagonally). For which positive integers $m$, $n$ and $p$ can bridges be placed so that any other hut is reached from each hut? (Of course, between two adjacent huts, more bridges can be placed.) (see figure)
+
+[[src_cesenatico_1999__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2022 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2022__Q17
 parent: src_cn_ctst_2022
 competition: China National Team Selection Test 2022
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Subset of {1,…,n} with no two elements differing by a perfect square: prove size ≥ Cn^α, α>1/2*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sottoinsieme di {1,...,n} senza due elementi che differiscono di un quadrato perfetto: dimostrazione di dimensioni ≥ Cn^α, α>1/2*
+
+> Prove che esistono costanti $C > 0$ e $\alpha > \dfrac{1}{2}$ tali che per qualsiasi intero positivo $n$, esiste un sottoinsieme $A \subseteq \{1, 2, \ldots, n\}$ con $|A| \ge C n^{\alpha}$, in modo tale che la differenza di due elementi distinti di $A$ non sia un quadrato perfetto.
+
+[[src_cn_ctst_2022__Q17]]

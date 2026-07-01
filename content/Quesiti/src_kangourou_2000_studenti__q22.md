@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2000 - 3 maggio (individuale) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2000_studenti__Q22
 parent: src_kangourou_2000_studenti
 competition: Kangourou 2000 - 3 maggio (individuale)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Zollette rimaste dopo strati mangiati*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1X5enG-spqifyAM22_tpblHRc88Z6NPH7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Lessons left after eating layers< MSK1/>
+
+> Mama Clara buys a box of sugar in the pots. Cristina eats the surface layer, i.e. 77 pollen; of what remains she eats the lateral layer, which consists of 55 pollen; finally Cristina eats the frontal layer. How many tiles are left in the box? A) 203 B) 256 C) 295 D) 300 E) 3
+
+**Answer:** D
+[[src_kangourou_2000_studenti__Q22]]

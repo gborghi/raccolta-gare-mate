@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f2__Q09
 parent: src_obm_2006_n1_f2
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 2
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Diagonal sums in a 10×10 grid; sum mod 100 for diagonal 2007*
 
@@ -53,3 +56,19 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1srmyb0DAUnIq9SKYuIOrk5cCPzS2K6he/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa diagonale in una griglia di 10×10; somma mod 100 per la diagonale 2007*
+
+> Considera una griglia $10 \times 10$ in cui ogni cella della riga $i$ (da sopra, $i = 0, 1, \ldots, 9$) e della colonna $j$ (da sinistra, $j = 0, 1, \ldots, 9$) contiene il valore $(i + j) \bmod 10$. Le diagonali sono numerate $1, 2, 3, \ldots$ come indicato nella figura.
+> 
+> a) Qual è la somma degli elementi della diagonale $9$?
+> 
+> b) Qual è il rimanente quando la somma degli elementi di diagonale $2007$ è divisa da $100$?
+
+![[src_obm_2006_n1_f2__Q09.png]]
+
+[[src_obm_2006_n1_f2__Q09]]

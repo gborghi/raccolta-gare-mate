@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q14
 parent: src_archimede_2014_febb_2livello
 competition: Archimede Gara di Febbraio 2014 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cavallo su scacchiera 3x3, percorsi in 12 mosse all'angolo opposto*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 992
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Horse on a 3x3 chessboard, 12 moves in the opposite corner*
+
+![[src_archimede_2014_febb_2livello__prob14.png]]
+
+> A horse is placed in a corner box of a chessboard 3 < MSK0/> 3. A move consists of moving the horse into an accessible box by two horizontal steps followed by a vertical step, or two vertical steps followed by a horizontal step. How many ways can you move it into the opposite corner box, with exactly 12 moves?
+
+**Answer:** 992
+[[src_archimede_2014_febb_2livello__Q14]]

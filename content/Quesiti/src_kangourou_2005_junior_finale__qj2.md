@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (finale nazionale) — Quesito J2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior_finale__QJ2
 parent: src_kangourou_2005_junior_finale
 competition: Kangourou 2005 - Junior (finale nazionale)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *B+I+N+O nella moltiplicazione UN x 6 = BIO*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 16
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DN9SkcNnbA6zI_cH2lP8x9OGdjtWTlV1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*B+I+N+O in multiplication of UN x 6 = BIO*
+
+> In the indicated multiplication, in addition to $6$, two integers, $UN$ and $BIO$, composed using the digits $2, 3, 4, 5, 7$ as a whole, were used. If different letters represent different digits, how much is $B + I + N + O$?
+> 
+> $$UN \times 6 = BIO$$
+
+**Answer:** 16
+[[src_kangourou_2005_junior_finale__QJ2]]

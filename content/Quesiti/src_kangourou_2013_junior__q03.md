@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Junior — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_junior__Q03
 parent: src_kangourou_2013_junior
 competition: Kangourou 2013 marzo Junior
@@ -24,6 +25,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanto paga con l'offerta delle pannocchie*
 
@@ -41,3 +44,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How much does it pay with the offer of pancakes*
+
+> Only three numbers chosen appropriately between 2, 4, 16, 25 and 125 have the product of 1000. What's their sum? A) 70
+> 	
+> B) 77
+> 	
+> C) 145 D) 143 E) 131
+
+[[src_kangourou_2013_junior__Q03]]

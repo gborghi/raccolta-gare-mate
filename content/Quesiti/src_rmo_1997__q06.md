@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1997 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1997__Q06
 parent: src_rmo_1997
 competition: Regional Mathematical Olympiad 1997
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count unordered pairs {A,B} of subsets of X with A not subset of B and A∩B≠X*
 
@@ -46,3 +49,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fsneixMr3FqHhay8mNcRHVWgNyyUmpPY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare le coppie non ordinate {A,B} di sottoinsiemi di X con A non sottoinsieme di B e A∩B≠X*
+
+> Trovare il numero di coppie non ordinate $\{A, B\}$ (cioè le coppie $\{A, B\}$ e $\{B, A\}$ sono considerate uguali) di sottoinsiemi di un insieme $n$ di elementi $X$ che soddisfano le condizioni:
+> 
+> (a) $A \neq B$;
+> 
+> (b) $A \cup B = X$.
+> 
+> [ad esempio, se $X = \{a, b, c, d\}$, allora $\{\{a,b\}, \{b,c,d\}\}$, $\{\{a\}, \{a,b,c,d\}\}$, $\{\{a,b,c,d\}, \{b,c\}\}$, $\{\phi, \{a,b,c,d\}\}$ sono alcune delle coppie ammissibili.]
+
+[[src_rmo_1997__Q06]]

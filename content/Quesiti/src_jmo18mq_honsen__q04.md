@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2008 — Honsen (Final) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo18mq_honsen__Q04
 parent: src_jmo18mq_honsen
 competition: Japan Mathematical Olympiad 2008 — Honsen (Final)
@@ -28,6 +29,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real functions satisfying given functional equation*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SFw0JBQC4rJhouU4rWc2OR9yO8fSPsSo/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le funzioni reali che soddisfano una determinata equazione funzionale*
+
+> Trovare tutte le funzioni $f$, definite sui numeri reali e assumendo valori reali, in modo che per tutti i numeri reali $x,y$, $$f(x+y)\,f\big(f(x)-y\big)=x\,f(x)-y\,f(y).$$
+
+[[src_jmo18mq_honsen__Q04]]

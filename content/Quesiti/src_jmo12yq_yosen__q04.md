@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2002 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo12yq_yosen__Q04
 parent: src_jmo12yq_yosen
 competition: Japan Mathematical Olympiad 2002 — Yosen (Preliminary)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Volume ratio of regular octahedron to regular tetrahedron*
 
@@ -36,3 +39,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Rapporto di volume di ottaedro regolare a tetraedro regolare*
+
+> Quante volte il volume di un tetraedro regolare con lunghezza di bordo $1$ è il volume di un ottaedro regolare con lunghezza di bordo $1$?
+
+**Risposta:** 4
+[[src_jmo12yq_yosen__Q04]]

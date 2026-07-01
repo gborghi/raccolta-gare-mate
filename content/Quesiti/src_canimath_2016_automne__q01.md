@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2016 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2016_automne__Q01
 parent: src_canimath_2016_automne
 competition: Coupe Animath Automne 2016
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Logic: who broke the window among four children*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Cédric
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+La logica: chi ha rotto la finestra tra quattro bambini
+
+> Alice, Bernard, Cédric e Diane stavano giocando a tennis nel cortile. All'improvviso la palla ha rotto la finestra del vicino. Furibilmente, il vicino si avvicinò ai quattro bambini.
+> 
+> Alice disse: "Non sono stato io!". Cédric disse: "Era Diane". Diane disse: "Bernard sta mentendo".
+> 
+> Supponendo che esattamente uno dei quattro bambini abbia detto la verità, quale di loro ha rotto la finestra?
+
+**Risposta:** Cédric
+[[src_canimath_2016_automne__Q01]]

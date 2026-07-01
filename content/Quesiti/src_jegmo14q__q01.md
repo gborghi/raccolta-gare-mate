@@ -1,6 +1,7 @@
 ---
 title: Japan EGMO Selection / Girls MO 2025 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jegmo14q__Q01
 parent: src_jegmo14q
 competition: Japan EGMO Selection / Girls MO 2025
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum number of distinct values among 14 subset sums*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16-NqAuK58hCzJs_f8zhLcVk4UkEgeo1H/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum numero di valori distinti tra 14 somme del sottosetto*
+
+> Lasciate che $a, b, c, d$ siano numeri reali positivi separati in coppia. Tra i seguenti numeri reali $$a,\quad b,\quad c,\quad d,\quad a+b,\quad a+c,\quad a+d,\quad b+c,\quad b+d,\quad c+d,$$ $$a+b+c,\quad a+b+d,\quad a+c+d,\quad b+c+d,\quad a+b+c+d$$ il numero di valori distinti che appaiono è stato esattamente $k$. Trova il valore minimo possibile di $k$.
+
+[[src_jegmo14q__Q01]]

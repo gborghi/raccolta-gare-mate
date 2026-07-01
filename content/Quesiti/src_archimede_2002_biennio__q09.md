@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2002 - Biennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_biennio__Q09
 parent: src_archimede_2002_biennio
 competition: Giochi di Archimede 2002 - Biennio
@@ -24,6 +25,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Eta del giocatore espulso data variazione media*
 
@@ -41,3 +44,19 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rusz_b8QhG0BEelfu4BxCFZYaA008Ow1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Age of player expelled given average change*
+
+> There are 11 players on a football team. The average age is 22. During a match a player is expelled; the average age of the remaining players then becomes 21 years. How old is the player who got kicked out?
+>
+> - **(A)** 22 years
+> - **(B)** 23 years old
+> - **(C)** 28 years
+> - **(D)** 32 years
+> - **(E)** Thirty-three years.
+
+[[src_archimede_2002_biennio__Q09]]

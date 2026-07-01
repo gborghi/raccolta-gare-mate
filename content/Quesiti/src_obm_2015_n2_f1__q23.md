@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1 — Quesito 23
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2015_n2_f1__Q23
 parent: src_obm_2015_n2_f1
 competition: Olimpíada Brasileira de Matemática 2015 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *How many of 1-9 can occupy the center cell of an X with equal arm sums*
 
@@ -52,3 +55,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NXh0PPWEm5WdoFSRzWKiCfAGKC4ugOLj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quanti di 1-9 possono occupare la cellula centrale di un X con pari sommi di braccia*
+
+> Julieta ha fatto un X con nove piccoli quadrati, come nella figura accanto. Lei vuole scrivere i numeri da 1 a 9 in questi quadrati, in modo tale che la somma dei quattro numeri lungo ciascuno dei quattro bracci della X sia uguale. Quanti dei numeri da 1 a 9 possono occupare la cellula centrale (in grigio) della X?
+> 
+> (A) 1 (B) 2 (C) 3 (D) 4 (E) 5
+
+![[src_obm_2015_n2_f1__Q23.png]]
+
+[[src_obm_2015_n2_f1__Q23]]

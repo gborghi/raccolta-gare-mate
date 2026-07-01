@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q19
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find the units digit of a 4-digit sum on a blurry calculator*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il numero unitario di una somma a 4 cifre su una calcolatrice sfocata*
+
+> Quando ha aggiunto cinque numeri consecutivi sulla sua calcolatrice, Esmeralda ha trovato un numero $4$-cifre: $200\square$. L'ultima cifra non è chiara perché lo schermo della calcolatrice è graffiato, ma lei sa che non è zero. Questa cifra può essere solo:
+> 
+> (A) $5$ \quad (B) $4$ \quad (C) $5$ \quad (D) $7$ \quad (E) $9$
+
+**Risposta:** E
+[[src_obm_2004_n1_f1__Q19]]

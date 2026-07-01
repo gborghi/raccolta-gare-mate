@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2009 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2009__Q04
 parent: src_bocconi_semifinale_2009
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2009
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Suddivisione rettangolo in quattro parti con lettere ABCD*
 
@@ -54,3 +57,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** (suddivisione mostrata nella soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rectangular subdivision into four parts with letters ABCD*
+
+> Indicate a subdivision of the rectangle into four parts containing (each) the five letters A, B, C, D, E and having the same shape (whether rotated or reversed). $$\begin{array}{|c|c|c|c|c|} \hline A & B & C & A & E \\ \hline D & B & C & E & D \\ \hline B & A & E & D & C \\ \hline C & E & B & A & D \\ \hline \end{array}$$
+
+**Answer:** (suddivisione mostrata nella soluzione)
+[[src_bocconi_semifinale_2009__Q04]]

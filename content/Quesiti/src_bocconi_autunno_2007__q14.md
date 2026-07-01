@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2007 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2007__Q14
 parent: src_bocconi_autunno_2007
 competition: Giochi d'Autunno 2007
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma delle caselle toccate dal cavallo sulla scacchiera*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7748
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Sum of boxes touched by the horse on the chessboard*
+
+> We play on a chessboard in whose boxes (see figure) the product of multiplication is written: in the first row and first column the numbers from 1 to 9, and in the generic box the product $(r \times c)$ between its row number and that of the column. It starts at $1$ ($1 \times 1$) and moves like a horse on a chessboard, alternating the two directions. What number corresponds to the 49th box visited by the horse?
+
+![[src_bocconi_autunno_2007__Q14.png]]
+
+**Answer:** 7748
+[[src_bocconi_autunno_2007__Q14]]

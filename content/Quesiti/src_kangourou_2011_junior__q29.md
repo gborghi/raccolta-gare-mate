@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Junior (gara marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_junior__Q29
 parent: src_kangourou_2011_junior
 competition: Kangourou 2011 Junior (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dove la retta DE interseca il piano del tetraedro*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1AJCl_AfEoFXnuVsI8nXmEWfRHRXKCZ3O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Where the straight DE intersects the plane of the tetrahedron*
+
+> Assigned a regular tetrahedron ABCD, both Σ the plane containing the face ABC and s the straight line in Σ containing the spindle BC. Therefore, let BCDE be the regular tetrahedron that has in common with ABCD only the face BCD. Where does the straight line passing through D and E intersect plane S ? A) At a point in the triangle ABC B) In the semiplane of Σ determined by s containing A, but outside the triangle ABC C) In the semiplane of Σ determined by s not containing A D) At no point: the straight line is parallel to the plane Σ E) The answer depends on the length of the beam of the tetrahedron
+
+**Answer:** C
+[[src_kangourou_2011_junior__Q29]]

@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary) — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo23yqa_yosen__Q11
 parent: src_jjmo23yqa_yosen
 competition: Japan Junior Mathematical Olympiad 2025 — Yosen (Preliminary)
@@ -35,6 +36,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum total score for student A under given dominance conditions over student B*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 62
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Minimum di punteggio complessivo per lo studente A in condizioni di dominio su lo studente B < MSK1/>
+
+> $a_1, a_2, \ldots, a_7$ sia una permutazione dei numeri interi $1, 2, \ldots, 7$. Gli studenti A e B provano ciascuno 7 problemi numerati $1$ attraverso $7$; per il problema $i$, uno studente guadagna $a_i$ punti se lo risolvono e $0$ punti altrimenti. Supponiamo che le seguenti due condizioni si applichino a ogni sottoinsieme di problemi che A e B potrebbero risolvere:
+> 
+> - Se A risolve più problemi di B, allora il punteggio totale di A è maggiore del punteggio totale di B. - Se A e B risolvono lo stesso numero di problemi, e tra i problemi risolti da esattamente uno di essi quello con il più grande indice è risolto da A, allora il punteggio totale di A è maggiore del punteggio totale di B.
+> 
+> Trova il valore minimo possibile del punteggio totale di A (cioè $\sum_{i \in S} a_i$ dove $S$ è l'insieme dei problemi risolti da A).
+
+**Risposta:** 62
+[[src_jjmo23yqa_yosen__Q11]]

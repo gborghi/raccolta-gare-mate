@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Gara 16 marzo — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_marzo__Q10
 parent: src_kangourou_2017_junior_marzo
 competition: Kangourou 2017 Junior - Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Posizione del cerchio tricolore all'arrivo*
 
@@ -51,3 +54,26 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1T69EmNNwjwiVMjBk_Mp3fbV2JOfFXRKv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Position of the tricolour circle at arrival*
+
+![[src_kangourou_2017_junior_marzo__prob10.png]]
+
+> Look at the figure. A white, gray and black circle with a radius of 1 cm (without stripes) on a straight line; K and L are the points of contact at the start and at the finish respectively: they are 11 < MSK0/> cm apart. Which of the following pictures shows the circle on arrival? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E)
+>  
+> The questions from N. 11 al N. 20 is worth 4 points each.
+
+**Answer:** E
+[[src_kangourou_2017_junior_marzo__Q10]]

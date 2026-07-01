@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2015 Semifinale A — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_squadre_a__Q01
 parent: src_kangourou_2015_squadre_a
 competition: Kangourou Coppa Squadre 2015 Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lato del rombo data busta con lati 12 e 16*
 
@@ -41,3 +44,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 20
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fdQlHGWxaPpY1cf1Vd1-vye_FZXjWsj_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Late of the rim given envelope with sides 12 and 16*
+
+![[src_kangourou_2015_squadre_a__prob1.png]]
+
+> The envelope The figure shows how, by folding a sheet of paper in the shape of a roll, an envelope can be obtained. If the sides of the envelope thus obtained are 12 and 16 cm long, how many centimeters is the length of the rim side?
+
+**Answer:** 20
+[[src_kangourou_2015_squadre_a__Q01]]

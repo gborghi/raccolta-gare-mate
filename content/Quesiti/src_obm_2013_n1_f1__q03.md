@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n1_f1__Q03
 parent: src_obm_2013_n1_f1
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Liters of juice extractable from two 5 kg bags of oranges*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZFAopdNjG-Ynm1d9LROcVImmCRs-HuH/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Liter di succo estrattibili da due sacchetti di arance da 5 kg< MSK1/>
+
+> Un mercato vende arance solo in borse di < MSK0/> kg ciascuna. Di ogni chilogrammo di arancione, $55\%$ è succo. Inoltre, < MSK2/> kg di succo corrisponde a < MSK3/> ml di succo. Quindi, quanti litri di succo possiamo estrarre da due sacchetti di arance?
+> 
+> (A) $4.5$ \quad (B) $4.8$ \quad (C) $4.95$ \quad (D) $5$ \quad (E) $5.1$
+
+[[src_obm_2013_n1_f1__Q03]]

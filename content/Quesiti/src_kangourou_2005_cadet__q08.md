@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (marzo) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet__Q08
 parent: src_kangourou_2005_cadet
 competition: Kangourou 2005 - Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area pavimento stanza a pareti perpendicolari*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15mwXRVmHrVmiLQt5-rN6nFF4zqUp-4a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of floor space perpendicular to the walls*
+
+![[src_kangourou_2005_cadet__prob8.png]]
+
+> The drawing represents the floor of a room. Adjacent walls are perpendicular to each other. The letters a and b represent the length of the walls to which they are attached. What's the floor area of the room? A) 8a + 2b B) b2 - a2 C) 3ab - a2 D) 3ab + a2 E) 3ab
+
+**Answer:** E
+[[src_kangourou_2005_cadet__Q08]]

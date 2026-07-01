@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2006 — Yosen (Preliminary) — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo16yq_yosen__Q08
 parent: src_jmo16yq_yosen
 competition: Japan Mathematical Olympiad 2006 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum days for Jiro and Saburo to finish reading a 120-page book together*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimum di giorni per Jiro e Saburo per finire di leggere insieme un libro di 120 pagine*
+
+> C'è un libro. Jiro lo legge a $2$ pagine al giorno, e Saburo lo legge a $3$ pagine al giorno. Tuttavia, quando uno di essi arriva alla fine di un capitolo, si ferma per il giorno anche se non ha letto il numero richiesto di pagine. Il libro ha capitoli $10$ e pagine $120$ in totale. Ogni giorno ogni persona inizia a leggere dalla prima pagina di un nuovo capitolo. Trova il minimo numero possibile di giorni da quando Jiro inizia a leggere fino a quando Saburo finisce di leggere. Si noti che entrambi possono iniziare a leggere nello stesso giorno.
+
+[[src_jmo16yq_yosen__Q08]]

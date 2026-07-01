@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q02
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -34,6 +35,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation on positive integers; find all n with f(f(n))=99*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale su numeri interi positivi; trovare tutti n con f(f(n))=99*
+
+> Una funzione è definita sull'insieme di integri positivi in modo tale che se $n$ è un intero odd, $f(n) = n - 1$ e se $n$ è un intero pari, $f(n) = n^2 - 1$. Determinare la somma di tutti i possibili valori di $n$ in modo tale che $f(f(n)) = 99$.
+
+[[src_ioqm_2025_sep28__Q02]]

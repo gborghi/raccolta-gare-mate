@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2008 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2008__Q02
 parent: src_cn_cmo_2008
 competition: China Mathematical Olympiad 2008
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Partition set into two subsets avoiding n-term arithmetic-mean condition*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Partzione impostata in due sottoinsiemi evitando la condizione aritmetica-media di n termine*
+
+> Date un numero intero $n \ge 3$, dimostrare che l'insieme $X = \{1, 2, 3, \ldots, n^2 - n\}$ può essere diviso in due sottoinsiemi non intersezionati in modo tale che nessuno di essi contenga elementi $n$ $a_1, a_2, \ldots, a_n$ con $a_1 < a_2 < \cdots < a_n$ e $a_k \le \dfrac{a_{k-1} + a_{k+1}}{2}$ per tutti $k = 2, \ldots, n-1$.
+
+[[src_cn_cmo_2008__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Junior — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_junior__Q24
 parent: src_kangourou_2013_junior
 competition: Kangourou 2013 marzo Junior
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cifre a destra della virgola di 1/1024000*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Cf2YSFVV_3507mEpFlY6gOllWb7-ck9P/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number to the right of the comma of 1/1024000*
+
+> If the number is written in decimal notation with the smallest possible number of digits, how many digits are there to the right of the comma? A) 10
+> 	
+> B) 1024000 C)13 D) 14 E) 1024
+
+**Answer:** C
+[[src_kangourou_2013_junior__Q24]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q30
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valore a-b tra somme di quadrati e prodotti*
 
@@ -57,3 +60,17 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Value a-b between sums of squares and products*
+
+> What is a-b, if a = 12 + 22 + 32 + ... + 20052 and b = 1x3 + 2x4 + 3x5 + ... + 2004x2006? The Commission has therefore decided to take the necessary measures in order to ensure that the Community's financial resources are adequately used to meet the needs of the Union.
+> 
+>  
+> 1 Cadet category For third or upper secondary students
+
+**Answer:** C
+[[src_kangourou_2006_cadet__Q30]]

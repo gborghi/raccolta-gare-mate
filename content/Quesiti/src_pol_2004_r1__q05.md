@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2004 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2004_r1__Q05
 parent: src_pol_2004_r1
 competition: Olimpiade Matematica Polacca 2004 — Round 1
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Show $N(m,n+1)=N(n,m+1)$, where $N(m,n)$ counts non-decreasing length-$m$ sequences from $\{1,\dots,n\}$.*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GXQnlaZJlHbXtEilYIww9juW4GvrNe8u/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Mostra $N(m,n+1)=N(n,m+1)$, dove $N(m,n)$ conti le sequenze di lunghezza non in diminuzione-$m$ da $\{1,\dots,n\}$.*
+
+> Per i numeri interi positivi $m$ e $n$, $N(m,n)$ indica il numero di sequenze non in diminuzione dei termini $m$ provenienti da $\{1,2,\dots,n\}$. Mostra che $N(m,n+1)=N(n,m+1)$.
+
+[[src_pol_2004_r1__Q05]]

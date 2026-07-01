@@ -1,6 +1,7 @@
 ---
 title: Semifinale Campionati Internazionali di Giochi Matematici 2008 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_semifinale_2008__Q02
 parent: src_bocconi_semifinale_2008
 competition: Semifinale Campionati Internazionali di Giochi Matematici 2008
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Indovinare un numero da confronti disordinati*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 28
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Guess a number from a disordered comparison*
+
+> Mary must guess a whole number that Luke chose in great secrecy. Here's the information that it collects, out of order, disorderly: The number to be found is smaller than 39; larger than 25; smaller than 29; larger than 23; smaller than 31; larger than 27 and smaller than 35. What's the number that Luca thought of?
+
+**Answer:** 28
+[[src_bocconi_semifinale_2008__Q02]]

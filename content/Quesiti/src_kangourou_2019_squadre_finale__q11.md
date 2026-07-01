@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa squadre 2019 Finale — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_squadre_finale__Q11
 parent: src_kangourou_2019_squadre_finale
 competition: Kangourou Coppa squadre 2019 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di donne in parlamento 300 deputati*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0149
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ykAp1CYM5aXW15eIFuXdc0-HVqlQPS5y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Minimum number of women in parliament 300 MPs
+
+> Parliament has 300 members; the four parties represented have exactly 10%, 20%, 25% and 45% of the total. In neither party the difference between the two numbers of elected representatives of both sexes is greater than 1. What is the minimum number of women (or men) who can be present in that parliament?
+
+**Answer:** 0149
+[[src_kangourou_2019_squadre_finale__Q11]]

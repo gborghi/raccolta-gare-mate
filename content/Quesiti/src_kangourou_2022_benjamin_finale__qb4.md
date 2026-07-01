@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Benjamin finale individuale — Quesito B4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_benjamin_finale__QB4
 parent: src_kangourou_2022_benjamin_finale
 competition: Kangourou 2022 Benjamin finale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti ciclisti almeno hanno mentito se somma e 36*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/14QgfusYqtaxWZ9wvngN_12GroIjBw4DZ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many cyclists have at least lied if sum and 36
+
+> $10$ cyclists finish a race with different arrival times. After a while, a reporter asks each of them to tell him their order of arrival in that race, of course with a number between $1$ and $10$. The journalist sums up the answers he provides and gets $36$. He concludes that some certainly lied - how many, at least?
+
+**Answer:** 3
+[[src_kangourou_2022_benjamin_finale__QB4]]

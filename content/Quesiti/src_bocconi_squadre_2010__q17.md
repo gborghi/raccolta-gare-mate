@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2010__Q17
 parent: src_bocconi_squadre_2010
 competition: Gara a Squadre 2010
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Più piccolo numero estratto da ciascuno dei cinque amici*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $A=4;\ D=1;\ G=6;\ I=2;\ M=8$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WgbCAMV5Kl0q6_9G7YOspgdCHkB-Egig/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Smallest number extracted from each of the five friends*
+
+> Alessandra, Donato, Giovanni, Ingrid and Michele, after sitting on the bench of No. 6, take part in a prize draw: a prize is associated with each whole number, including 1 to 12 (included). Each of the five boys extracts two numbers, but to move the game, he only communicates to his friends the sum of the extracted numbers: Alexander 11, Donato 4, John 16, Ingrid 7, Michael 19.
+> 
+> What's the smallest number extracted from each of the five friends?
+
+**Answer:** $A=4;\ D=1;\ G=6;\ I=2;\ M=8$
+[[src_bocconi_squadre_2010__Q17]]

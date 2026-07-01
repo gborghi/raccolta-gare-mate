@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 07 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep07__Q11
 parent: src_ioqm_2025_sep07
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -32,6 +33,8 @@ tags:
   - regione/sep07
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fraction a/b closest to 3/4 with gcd(a,b)=1 and b≤15, a/b≠3/4; find a+b*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8FUh-Uf8VyFNSEPuwdIX-Kkc4uUjOjJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Frazione a/b più vicina a 3/4 con gcd(a,b)=1 e b≤15, a/b≠3/4; trovare a+b*
+
+> Considera una frazione $\dfrac{a}{b} \neq \dfrac{3}{4}$, dove $a, b$ sono integri positivi con $\gcd(a, b) = 1$ e $b \le 15$. Se questa frazione è scelta più vicina a $\dfrac{3}{4}$ tra tutte queste frazioni, qual è il valore di $a + b$?
+
+[[src_ioqm_2025_sep07__Q11]]

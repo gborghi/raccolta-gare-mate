@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2007 - Semifinale A — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2007_squadre_semifinale_a__Q06
 parent: src_cesenatico_2007_squadre_semifinale_a
 competition: Gara a Squadre Cesenatico 2007 - Semifinale A
@@ -28,6 +29,8 @@ tags:
   - topic/trigonometria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu piccolo intero maggiore dell'area di ogni shuriken*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12cHg0rsUB_t4WWVdab8PrSPLCZzR33L_/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Smaller whole greater than the area of each shuriken< MSK1/>
+
+> The shuriken is one of the basic weapons used by every morning. Those in the village of Retta have a variable number of points, but they're all made by the same blacksmith. To manufacture a shuriken at n > 1 points, the blacksmith takes a flat metal plate and starts by drawing two concentric circles of radius 9 mat-bu and 31 mat-bu. On the greater sign 2n equidistant points, numbered from 1 to 2n in the anti-clockwise order; from each point it leads the beam and marks a point with the same number corresponding to the intersection with the lesser circumference. It then traces the segments connecting each internal equal point with the two consecutive external odd points (the point 2n is connected to 2n −1 and to 1); finally it cuts along the resulting fracture. What is the smallest integer, greater than the area (in mat-bu2) of any shuriken?
+
+[[src_cesenatico_2007_squadre_semifinale_a__Q06]]

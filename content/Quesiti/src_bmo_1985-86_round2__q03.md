@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1985-86 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1985-86_round2__Q03
 parent: src_bmo_1985-86_round2
 competition: British Mathematical Olympiad 1985-86 — Round 2
@@ -33,6 +34,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Family of 2-element sets with intersection condition; existence proof*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mG_z1yGslDZWUJ7U6HvxDw6ixvIjUXu2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Famiglia di gruppi a 2 elementi con condizione di intersezione; prova di esistenza*
+
+> $P_1, P_2, \ldots, P_n$ ($n \ge 2$) sono set che hanno ciascuno due elementi. $P_i$ e $P_j$ ($i \ne j$) hanno un elemento in comune se e solo se $\{i, j\}$ è uno degli insiemi $P_k$. Prove che uno di $1, 2, \ldots, n$ si trova esattamente in due dei set $P_k$.
+
+[[src_bmo_1985-86_round2__Q03]]

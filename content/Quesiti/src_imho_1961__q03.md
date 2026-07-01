@@ -1,6 +1,7 @@
 ---
 title: IMO 1961 (III International Olympiad) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1961__Q03
 parent: src_imho_1961
 competition: IMO 1961 (III International Olympiad)
@@ -27,6 +28,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risolvere cos^n x - sin^n x = 1*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19oKHAdph4sJuaxtpEyXIRuF3vBNV2I4p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Resolving cos^n x - sin^n x = 1
+
+> Solve the equation $\cos^n x - \sin^n x = 1$, where $n$ is a natural number.
+
+[[src_imho_1961__Q03]]

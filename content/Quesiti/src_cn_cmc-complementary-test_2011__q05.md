@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Complementary Test) 2011 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-complementary-test_2011__Q05
 parent: src_cn_cmc-complementary-test_2011
 competition: China Mathematical Competition (Complementary Test) 2011
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find maximum number of bad cells in a 3×9 array*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 25
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il numero massimo di celle cattive in un array di 3×9*
+
+> (20 punti) Dato un array $3 \times 9$ $A$ con ogni cella contenente un intero positivo, diciamo che un $m \times n$ ($1 \leq m \leq 3$, $1 \leq n \leq 9$) subarray di $A$ è un "buono rettangolo" se ogni numero nelle sue celle è un multiple di $10$. Una cellula di $A$ è "cattiva" se non è contenuta in alcun "buono rettangolo". Trova il numero massimo di "celle cattive" in $A$.
+
+**Risposta:** 25
+[[src_cn_cmc-complementary-test_2011__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1998 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1998_2livello__Q12
 parent: src_archimede_1998_2livello
 competition: Archimede Gara 2º livello 1998
@@ -23,6 +24,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale unica affermazione su età e forza è falsa*
 
@@ -38,3 +41,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/12wKEXpiR7srnNx_Y_5KI8PAdEjUGO5dP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Any single statement about age and strength is false< MSK1/>
+
+> One, and only one, of the following statements is false. What kind?
+>
+> - **(A)** Andrea is younger than Bruno, who is stronger than Carlo.
+> - **(B)** Andrea is stronger than Bruno, who is younger than Carlo.
+> - **(C)** Bruno is older than Andrea.
+> - **(D)** Bruno is weaker than Andrea .
+> - **(E)** Bruno is older and weaker than Carlo.
+
+**Answer:** E
+[[src_archimede_1998_2livello__Q12]]

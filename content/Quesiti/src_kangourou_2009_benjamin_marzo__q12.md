@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q12
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del quadrilatero con due angoli retti*
 
@@ -61,3 +64,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the quadrilateral with two right angles*
+
+![[src_kangourou_2009_benjamin_marzo__prob12.png]]
+
+> In the ABCD quadrilateral you see in the figure, the lengths of the sides in meters are as follows: l(AB) = 11, l(BC) = 7, l(CD) = 9, l(DA) = 3. Also, the angles in A and C are straight. What is the area of the quadrilateral in square meters? A) 30 B) 44 C) 48 D) 52 E) 60 I II III IV V A D C B Texts_09.qxp 15-04-2009 20:25 Page 11
+> 
+> I'm going to pay. I'm going to pay. 12 12 Kang 2009 Kang
+
+**Answer:** C
+[[src_kangourou_2009_benjamin_marzo__Q12]]

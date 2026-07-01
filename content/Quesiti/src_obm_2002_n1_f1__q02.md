@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f1__Q02
 parent: src_obm_2002_n1_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Total weight of a stack of cubic boxes*
 
@@ -53,3 +56,18 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NviJwQmbmihSaakvq3DJSWhViadj6Z5P/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Peso totale di uno stack di scatole cubiche*
+
+> In un magazzino, i pacchetti cubici venivano impilati come mostrato nella figura seguente. Se ciascuna scatola pesa $25$ kg, quanto pesa l'intera pila?
+> 
+> (A) $300$ kg (B) $325$ kg (C) $350$ kg (D) $375$ kg (E) $400$ kg
+
+![[src_obm_2002_n1_f1__Q02.png]]
+
+**Risposta:** C
+[[src_obm_2002_n1_f1__Q02]]

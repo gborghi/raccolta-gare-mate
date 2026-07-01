@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2007 — Round 1 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2007_r1__Q11
 parent: src_pol_2007_r1
 competition: Olimpiade Matematica Polacca 2007 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count permutations of {1,...,6n-1} satisfying two index-difference monotonicity conditions.*
 
@@ -49,3 +52,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxhfJZOeoitCn5uW7BNIMFBNr5rFRMKi/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggi permutazioni di {1,...,6n-1} che soddisfano due condizioni di monotonicità a differenza di indice.*
+
+> Per ogni numero naturale $n$ si trova il numero di permutazioni $(x_1,x_2,\ldots,x_{6n-1})$ dell'insieme $\{1,2,\ldots,6n-1\}$ con le seguenti proprietà:
+> 
+> (i) Se $i-j=2n+1$, allora $x_i>x_j$;
+> 
+> (ii) Se $i-j=4n$, allora $x_i<x_j$.
+
+[[src_pol_2007_r1__Q11]]

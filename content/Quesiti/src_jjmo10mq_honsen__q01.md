@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2012 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo10mq_honsen__Q01
 parent: src_jjmo10mq_honsen
 competition: Japan Junior Mathematical Olympiad 2012 — Honsen (Final)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Pentagon with square base; prove triangle inscribed in circle*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p8xf5NbDh83EXoQV1B0aUTwIqZMewoWT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Pentagono con base quadrata; prova triangolo inciso in cerchio*
+
+> Che $ABCDE$ sia un pentagono tale che il quadrilaterale $ABCD$ sia quadrato. Supponiamo $\angle AEC + \angle BED = 180^\circ$. Prova che il triangolo $\triangle AEC$ è un triangolo acuto. (Un poligono converso è quello in cui tutti gli angoli interni sono inferiori a $180^\circ$.)
+
+[[src_jjmo10mq_honsen__Q01]]

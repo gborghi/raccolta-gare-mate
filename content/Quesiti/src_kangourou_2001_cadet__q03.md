@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Cadet (15 marzo) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_cadet__Q03
 parent: src_kangourou_2001_cadet
 competition: Kangourou 2001 - Cadet (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tagliare un anello per liberarli tutti*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Cutting off a ring to free them all
+
+![[src_kangourou_2001_cadet__prob3.png]]
+
+> 3. By cutting off a single ring, can you free them all? A: yes, cutting A: yes, cutting B: yes, cutting C: yes, cutting D: no.
+
+**Answer:** C
+[[src_kangourou_2001_cadet__Q03]]

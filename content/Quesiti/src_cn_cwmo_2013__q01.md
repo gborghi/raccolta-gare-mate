@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2013 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2013__Q01
 parent: src_cn_cwmo_2013
 competition: China Western Mathematical Olympiad 2013
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count good sets of degree n; prove Fibonacci-type recurrence*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare buoni set di grado n; dimostrare la ricorrenza di tipo Fibonacci*
+
+> Un insieme non vuoto $A \subseteq \{1, 2, 3, \ldots, n\}$ è chiamato un buon insieme di gradi $n$ se $|A| \leq \min_{a \in A} a$. $a_n$ indichi il numero di buoni gruppi di grado $n$. Prova che $a_n = a_{n-1} + a_{n-2} + 1$ per qualsiasi numero intero positivo $n \geq 1$.
+
+[[src_cn_cwmo_2013__Q01]]

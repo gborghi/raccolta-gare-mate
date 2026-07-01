@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Benjamin (gara marzo) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_benjamin_marzo__Q02
 parent: src_kangourou_2017_benjamin_marzo
 competition: Kangourou 2017 Benjamin (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *3 mosche e 2 ragni come 9 canarini e gatti*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1JIywXZWbfWc4ql93ciPsXbJYv-d7cjwP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*3 flies and 2 spiders such as 9 canaries and cats*
+
+> A fly has six legs, a spider has eight. All together, three flies and two spiders have as many legs as nine canaries and... A) Two cats B) Three cats C) Four cats D) Five cats E) Six cats
+
+**Answer:** C
+[[src_kangourou_2017_benjamin_marzo__Q02]]

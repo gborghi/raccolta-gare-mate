@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2019 — Honsen (Final) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo29mq_honsen__Q03
 parent: src_jmo29mq_honsen
 competition: Japan Mathematical Olympiad 2019 — Honsen (Final)
@@ -28,6 +29,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation over positive reals*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d-Z0DI9iKKJVTFxoX0Fz2qworASxs0iM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale su valori reali positivi*
+
+> Trova tutte le funzioni $f$ definite sui numeri reali positivi e prendi valori reali positivi in modo tale che, per tutti i numeri reali positivi $x,y$, $$f\left(\frac{f(y)}{f(x)}+1\right)=f\left(x+\frac{y}{x}+1\right)-f(x).$$
+
+[[src_jmo29mq_honsen__Q03]]

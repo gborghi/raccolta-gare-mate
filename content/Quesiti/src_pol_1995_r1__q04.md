@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1995 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1995_r1__Q04
 parent: src_pol_1995_r1
 competition: Olimpiade Matematica Polacca 1995 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *19 students, 5 olympiads, three pairwise common; two olympiads share ≥7*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1djyNlMUIChNtd3AUQNAC9N1Ua1KYyfkK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK1/>19 studenti, 5 olimpiadi, tre in coppia comuni; due olimpiadi in comune < MSK0/>7< MSK2/>
+
+> In ciascuna scuola 19 studenti partecipano a cinque diverse Olimpiadi. In ciascuna olimpiada partecipano almeno 19 studenti, ma nessuno degli studenti partecipa a più di tre olimpiadi. Prova che se ogni tre Olimpiadi hanno un partecipante comune, allora ci sono almeno due Olimpiadi con almeno 7 partecipanti comuni.
+
+[[src_pol_1995_r1__Q04]]

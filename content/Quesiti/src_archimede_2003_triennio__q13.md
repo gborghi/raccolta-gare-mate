@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2003 - Triennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2003_triennio__Q13
 parent: src_archimede_2003_triennio
 competition: Giochi di Archimede 2003 - Triennio
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *insieme di vertici*
 
@@ -52,3 +55,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1iXkFQBePsfMiibYQQugWV2d_CbpuLTax/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>set of vertices< MSK1/>
+
+> Given the equations on the left, which of the statements on the right is true? (I) x3 −5x2 x2 = 3x −15 3 , (II) x −5 1/2 = 3x −15 3/2 , (III) x −5 2 = x −5 2
+>
+> - **(A)** (I), (II) and (III) are true for every real x
+> - **(B)** (I), (II) and (III) are false for every real x
+> - **(C)** For every real x, if (II) is true, so is (III)
+> - **(D)** For every real x, if (II) is true, so is (I)
+> - **(E)** For every real x, if (I) is true then (III) is false.
+
+[[src_archimede_2003_triennio__Q13]]

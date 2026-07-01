@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n3_f1__Q08
 parent: src_obm_2006_n3_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 3 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For how many values of a is 2a^2+2a+19 not prime.*
 
@@ -48,3 +51,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nz-5xHiBfL5NMh1ynsqX6coeqJHJUyzn/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per quanti valori di a è 2a^2+2a+19 non primo.*
+
+> Per quanti valori di $a$ $2a^2 + 2a + 19$ non è un numero primo?
+> 
+> (A) 50 \quad (B) 37 \quad (C) 9 \quad (D) 5 \quad (E) 1
+
+[[src_obm_2006_n3_f1__Q08]]

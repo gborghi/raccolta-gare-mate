@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2015 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2015__Q04
 parent: src_smc_2015
 competition: Senior Mathematical Challenge 2015
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fraction of larger circle's area inside smaller circle that passes through its centre*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kdcvo2YF9rH7PICzXSwBJHpItQE117bS/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Frazione dell'area del cerchio più grande all'interno del cerchio più piccolo che passa attraverso il suo centro*
+
+> Nel diagramma, il cerchio più piccolo tocca il cerchio più grande e passa anche attraverso il suo centro. Quale frazione della superficie del cerchio più grande è all'interno del cerchio più piccolo?
+>
+> - **(A)** $\dfrac{1}{3}$
+> - **(B)** $\dfrac{1}{4}$
+> - **(C)** $\dfrac{1}{2}$
+> - **(D)** $\dfrac{1}{6}$
+> - **(E)** $\dfrac{3}{4}$
+
+![[src_smc_2015__Q04.png]]
+
+**Risposta:** B
+[[src_smc_2015__Q04]]

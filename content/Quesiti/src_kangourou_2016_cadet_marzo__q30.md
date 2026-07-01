@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Cadet (gara marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_cadet_marzo__Q30
 parent: src_kangourou_2016_cadet_marzo
 competition: Kangourou 2016 Cadet (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *la sesta faccia*
 
@@ -51,3 +54,18 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1R9S9QbZjWG-9uZ-RkBI2zkhEwkGCEN9m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>the sixth face< MSK1/>
+
+![[src_kangourou_2016_cadet_marzo__prob30.png]]
+
+> A cube of spin 3 consists of 15 black cubes and 12 white cubes. The figure shows five of the six faces of the cube. Which of the following figures (excluding rotations) is seen on the sixth face? A)
+> 	
+> B) C) D) E)
+>
+
+[[src_kangourou_2016_cadet_marzo__Q30]]

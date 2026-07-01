@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q14
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di somme dispari di terne adiacenti*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum number of odd sums of adjacent terns< MSK1/>
+
+> We want to align, in any order, the first 1000 positive integers and, for each set of adjacent numbers in the alignment, calculate the sum of the three numbers that make it up. What is the maximum number of odd sums that can be obtained? A) 997 B) 996 C) 995 D) 994 E) 993
+
+**Answer:** A
+[[src_kangourou_2021_student_gara__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Semifinale individuale — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q02
 parent: src_kangourou_2017_junior_semifinale
 competition: Kangourou 2017 Junior - Semifinale individuale
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Strada minima con ponte corto attraverso fiume*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wcjQloPFR27i6zyeHrMFz2T13JxlzXfM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum road with short river bridge*
+
+> 2. Kangcity is located 2 km east and 2 km north of Kangtown and the two towns are separated by a 1 km wide river running from south to north. We want to build a road that crosses the river on a short bridge as much as possible and that, if this demand is met, is the shortest possible. How many miles will the road be? (B) 2√2 (C) √3+1 (D) √5 + 1 (A) 4 (E) 3
+
+**Answer:** D
+[[src_kangourou_2017_junior_semifinale__Q02]]

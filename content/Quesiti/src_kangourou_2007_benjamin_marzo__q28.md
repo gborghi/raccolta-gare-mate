@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q28
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di disegnare triangolo parallelo a distanza 1*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to draw a parallel triangle at a distance 1*
+
+![[src_kangourou_2007_benjamin_marzo__prob28.png]]
+
+> Roberta drew an ABC equilateral triangle with a side of 5 cm as shown in the figure. Her teacher asks her to draw a second triangle, each side parallel to one side of the original triangle and exactly one centimeter away from it. How many different ways can Roberta draw the new triangle she wants? A) 2 B) 3 C) 4 D) 8 E) 10
+
+**Answer:** D
+[[src_kangourou_2007_benjamin_marzo__Q28]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2000 - Triennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_triennio__Q17
 parent: src_archimede_2000_triennio
 competition: Giochi di Archimede 2000 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Divisori di 2^48-1 compresi tra 60 e 70*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Multi-purpose 2^48-1 dividers of a width of 60 to 70 *
+
+> We know that the number 248 −1 has exactly two divisors between 60 and 70. What are they?
+>
+> - **(A)** 61 e 63
+> - **(B)** 61 e 65
+> - **(C)** 63 e 65
+> - **(D)** 61 e 67
+> - **(E)** 63 e 69.
+
+**Answer:** C
+[[src_archimede_2000_triennio__Q17]]

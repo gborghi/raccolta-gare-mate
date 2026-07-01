@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Junior — Semifinale individuale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_semifinale__Q08
 parent: src_kangourou_2022_junior_semifinale
 competition: Kangourou 2022 Junior — Semifinale individuale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quattro circonferenze raggio 1, lunghezza bordo esterno*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1q4eeCpaS_1aSTIYHi1bK45-1x3orSnEw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Four radii circles 1, outer edge length*
+
+![[src_kangourou_2022_junior_semifinale__prob8.png]]
+
+> (5 points) The figure shows four radius 1 circumferences with exactly one point in common with all of them. How long is the outer edge of the figure highlighted by the black striped arches? A) 3π
+>  
+> B) 3π/2 C) 8π/3
+>  
+> D) 4π E) 11π/5
+
+**Answer:** D
+[[src_kangourou_2022_junior_semifinale__Q08]]

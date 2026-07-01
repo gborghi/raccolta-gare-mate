@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f1__Q12
 parent: src_obm_2016_n1_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Ratio of total green to total red surface area after cutting a painted cube into 8.*
 
@@ -50,3 +53,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Relazione tra superficie totale verde e superficie totale rossa dopo aver tagliato un cubo dipinto in 8. *
+
+> Dopo aver tagliato il cubo in otto blocchi più piccoli, trova il rapporto tra superficie verde totale e superficie rossa totale.
+> 
+> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: ogni faccia verde degli otto blocchi più piccoli ottenuti dopo aver tagliato il cubo è opposta a quella rossa e viceversa. Pertanto il rapporto tra superficie verde totale e superficie rossa totale è $1:1$.]
+
+**Risposta:** A
+[[src_obm_2016_n1_f1__Q12]]

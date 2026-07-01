@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2012_n3_f1__Q09
 parent: src_obm_2012_n3_f1
 competition: Olimpíada Brasileira de Matemática 2012 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count convex quadrilaterals with AB=BC=CD=1, integer angles, angle condition*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1skGBK1l2XNRS733OxeO6lGTaDwIKCMXk/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conta i quadrilaterali convexi con AB=BC=CD=1, angoli interi, condizione angolare*
+
+> Il $ABCD$ deve essere un quadrilaterale convex tale che $AB = BC = CD = 1$ e $m(A\hat{B}D) = m(A\hat{C}B)$. Sapendo che le misure di angolo, in gradi, sono numeri interi, determinano quanti quadrilaterali $ABCD$ possono essere costruiti soddisfacendo le condizioni di cui sopra.
+> 
+> **A)** 20 $\quad$ **B)** 21 $\quad$ **C)** 22 $\quad$ **D)** 23 $\quad$ **E)** 24
+
+[[src_obm_2012_n3_f1__Q09]]

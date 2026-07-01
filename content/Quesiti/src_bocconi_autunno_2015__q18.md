@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2015 — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2015__Q18
 parent: src_bocconi_autunno_2015
 competition: Giochi d'Autunno 2015
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti addendi ha sommato Carla nella serie alternata*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 66 (il numero è 2211)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eK88JMTv896JXMMmFL1S8lYcD_i95Nzi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many additions has Carla added to the alternate series?
+
+> It's Carla's alternate math. By alternately adding the squares of the integers according to the $-1^2 + 2^2 - 3^2 + 4^2 - \cdots$ series, Carla obtains a four-digit number, of the form $\overline{qqqq}$ (four equal digits). How many more did Carla add?
+
+**Answer:** 66 (il numero è 2211)
+[[src_bocconi_autunno_2015__Q18]]

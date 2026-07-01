@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q10
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quale costruzione impossibile*
 
@@ -39,3 +42,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*which construction is impossible*
+
+![[src_kangourou_2015_marzo_preecolier__prob10.png]]
+
+> Matteo forms two bricks by gluing two cubes (see figure on the side). Which of the buildings presented below cannot be constructed using those two bricks? (see figure)
+> 
+> (A) (B) (C) (D) (E)
+
+**Answer:** B
+[[src_kangourou_2015_marzo_preecolier__Q10]]

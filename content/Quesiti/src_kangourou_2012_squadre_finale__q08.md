@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2012 squadre finale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2012_squadre_finale__Q08
 parent: src_kangourou_2012_squadre_finale
 competition: Kangourou 2012 squadre finale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piu grande divisore di 2^14-1 distinto dal numero*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5461
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1AICkz2PhYr_lMUOumSm9l_slOo1XeAOW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*For a large divisor of 2^14-1 divided by the number *
+
+> Large divisors What is the largest divisor of the number 214  1 distinct from the number itself?
+
+**Answer:** 5461
+[[src_kangourou_2012_squadre_finale__Q08]]

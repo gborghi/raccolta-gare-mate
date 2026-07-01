@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Triennio — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_triennio__Q04
 parent: src_archimede_2012_triennio
 competition: Giochi di Archimede 2012 - Triennio
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto superfici di due sfere con rapporto volumi 2*
 
@@ -75,3 +78,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1tRJvf_aFHxwNrjDT3ZPhDiVLjPkv5ymq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio of surfaces of two spheres with volume ratio 2*
+
+> The answer is A. The volume of a sphere of radius R is 4πR3 3 , while its surface is 4πR2. Let's use R1 and R2 to indicate the rays of S1 and S2 respectively. We know that 4πR3 2 3 4πR3 1 3 = 2 ⇒ R2 R1 3 = 2 . So R2 R1 is equal to 3√ 2 ⇒R2 2 R2 1 is equal to 3√ 4. Since the ratio of the surface of S2 to that of S1 is R2 2 R2 1 , it is 3√ 4. [Problem proposed by Mr P. I'm going to tell you something.
+
+**Answer:** A
+[[src_archimede_2012_triennio__Q04]]

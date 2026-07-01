@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2025 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo23hq_honsen__Q01
 parent: src_jjmo23hq_honsen
 competition: Japan Junior Mathematical Olympiad 2025 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Min good points on one vertical line via midpoint operations*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19vi3nVIVUo2o9eKwSqYkHbpBfPtGDN5B/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Minimi punti buoni su una linea verticale tramite operazioni di punto medio*
+
+> Nel piano $xy$, un punto il cui $x$-coordinato e $y$-coordinato sono entrambe intere tra $1$ e $2025$ inclusivo è chiamato \emph{good point}. L'operazione \emph{} consiste nel scegliere due punti buoni già trovati $A$ e $B$ (lo stesso punto può essere scelto due volte) e, se il loro punto medio $M$ è anche un punto buono, aggiungere $M$ alla raccolta dei punti buoni trovati.
+> 
+> Iniziamo con due punti positivi scelti e applichiamo una sequenza di operazioni. Tra tutti i buoni punti trovati (compresi i primi due), considerate quelli che si trovano su una singola linea verticale $x = c$ per un numero intero fisso $c$. Trovare il valore minimo possibile di questo conteggio, su tutte le scelte dei due punti buoni iniziali e su tutte le sequenze finite di operazioni valide, dato che almeno una operazione è stata applicata con successo.
+
+[[src_jjmo23hq_honsen__Q01]]

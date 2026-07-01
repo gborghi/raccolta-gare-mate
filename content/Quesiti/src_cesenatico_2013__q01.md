@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2013 - soluzioni — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2013__Q01
 parent: src_cesenatico_2013
 competition: Olimpiade Italiana (Cesenatico) 2013 - soluzioni
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *velocita intere salita/piano/discesa*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (10,12,15),(9,12,18),(8,12,24),(7,12,42)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hXVH2IQIT7lpZOFdPWsSlTLlKUKYJdQt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*full speed up/down/down*
+
+> An automobile model is tested on some 600-meter-long closed circuits, consisting of up- and down-level tracks. All up and down tracts have the same slope. The tests highlight some curious facts: (a) the speed of the model depends only on the fact that the machine is going up, down or down; calling respectively vs, vp and vd these three speeds, we have vs < vp < vd; (b) vs, vp and vd, expressed in meters per second, are integers; (c) however the circuit is composed (with more or less up and down) the travel time is always 50 seconds. Find all possible values of vs, vp and vd.
+
+**Answer:** (10,12,15),(9,12,18),(8,12,24),(7,12,42)
+[[src_cesenatico_2013__Q01]]

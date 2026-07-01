@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Junior (marzo) — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_junior__Q25
 parent: src_kangourou_2005_junior
 competition: Kangourou 2005 - Junior (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti interi n soddisfano due disuguaglianze*
 
@@ -81,3 +84,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e8iPo9MMdPbC2VKpYSfyey4g0a-pI6TH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Total n integers satisfying two inequalities< MSK1/>
+
+> How many positive integers n satisfy both inequalities 2000 < < 2005? A) 1 B) 2 C) 3 D) 4 E) 5 2 3 2 64 () 1 + n 3 64 3 32 2 2 3 − 4 2 1 + 2 2 2 − 2 3 4 + 1 2 − junior_05_D.qxp 21/02/2005 16.13 Page 26
+> 
+> I'm going to pay. I'm going to pay. 27 27 Kang 2005 Kang
+
+**Answer:** E
+[[src_kangourou_2005_junior__Q25]]

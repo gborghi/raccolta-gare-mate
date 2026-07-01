@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 13
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n1_f1__Q13
 parent: src_obm_2008_n1_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *June 14, 2008 is Saturday; when is next June 14 on a Saturday?*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jS9AjIezsp0MUxDiEgVpS7k3MJ9uT3_v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Il 14 giugno 2008 è sabato; quando sarà il prossimo 14 giugno sabato?< MSK1/>
+
+> La prima fase dell'OBM si svolge il 14 giugno, sabato dell'anno bisto 2008. Tra quanti anni il 14 giugno ricadrà sabato?
+> 
+> A) 4 $\quad$ B) 5 $\quad$ C) 6 $\quad$ D) 7 $\quad$ E) 8
+
+**Risposta:** C
+[[src_obm_2008_n1_f1__Q13]]

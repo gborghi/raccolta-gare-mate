@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2021_n3_fx__Q01
 parent: src_obm_2021_n3_fx
 competition: Olimpíada Brasileira de Matemática 2021 — Nível 3 — Fase x
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four circumcenters of subtriangles of convex quadrilateral are concyclic*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17H-vwLFAdIazq1JXS3IN18t1GGmAcKXp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quattro circoncenti di subtriangoli di quadrilaterali convexi sono conciclici*
+
+> Che $ABCD$ sia un quadrilaterale converso nel piano e che $O_1, O_2, O_3, O_4$ siano rispettivamente i circoncenti dei triangoli $BCD$, $CDA$, $DAB$ e $ABC$. Supponiamo che questi quattro circoncentri siano separati in coppia. Prove che questi quattro punti si trovano su un cerchio comune.
+
+[[src_obm_2021_n3_fx__Q01]]

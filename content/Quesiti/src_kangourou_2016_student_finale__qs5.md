@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (finale Cervia) — Quesito S5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_finale__QS5
 parent: src_kangourou_2016_student_finale
 competition: Kangourou 2016 Student (finale Cervia)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo rapporto area parallelogramma su esagono regolare*
 
@@ -62,3 +65,38 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 2/3
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aUKk1biwLcg0St2UFy-7j4t3JVsISp8p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Most parallelogram area ratio over regular hexagon< MSK1/>
+
+![[src_kangourou_2016_student_finale__probS5.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.8]
+  \coordinate (A) at (-0.5, 0.866);
+  \coordinate (B) at (-1,   0);
+  \coordinate (C) at (-0.5,-0.866);
+  \coordinate (D) at ( 0.5,-0.866);
+  \coordinate (E) at ( 1,   0);
+  \coordinate (F) at ( 0.5, 0.866);
+  \draw[thick] (A)--(B)--(C)--(D)--(E)--(F)--cycle;
+  \draw[red, dashed, thick] (A)--(C)--(D)--(F)--cycle;
+  \draw[dotted] (C)--(F);
+  \node[above left]  at (A) {$A$};
+  \node[left]        at (B) {$B$};
+  \node[below left]  at (C) {$C$};
+  \node[below right] at (D) {$D$};
+  \node[right]       at (E) {$E$};
+  \node[above right] at (F) {$F$};
+\end{tikzpicture}
+\end{document}
+```
+
+> A parallelogram is inscribed in a regular hexagon (i.e. its vertices are points on some side of the hexagon) and the centers (of symmetry) of the two polygons coincide. What is the maximum value of the ratio between the area of the parallelogram and the area of the hexagon?
+
+**Answer:** 2/3
+[[src_kangourou_2016_student_finale__QS5]]

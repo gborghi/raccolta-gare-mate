@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q09
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find Maria's initial amount given João's fraction offer*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Trova l'importo iniziale di Maria data l'offerta frazionaria di João
+
+> João disse a Maria: "Se mi dai un quarto di quello che hai, avrò la metà di quello che hai". Maria rispose: "Ti darò 5 reais, e tu mi dai la metà di quello che hai".
+> 
+> (A) 80 reais (B) 90 reais (C) 100 reais (D) 120 reais (E) 130 reais
+
+**Risposta:** B
+[[src_obm_2003_n1_f1__Q09]]

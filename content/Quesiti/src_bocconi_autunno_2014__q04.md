@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2014 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2014__Q04
 parent: src_bocconi_autunno_2014
 competition: Giochi d'Autunno 2014
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Riempire griglia 4x4 con somma 27 su righe e colonne*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (vedi figura nella soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PloiPSpf4_9YADREFtliPjnhVrdcFhjI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Fill 4x4 grid with sum of 27 on rows and columns*
+
+> Place all the numbers $2, 6, 7, 8, 9, 10, 12$ and $14$ in the still empty boxes of the "$5$" of the figure, so that the numbers written in each of the three (horizontal) rows of four boxes and in each of the two (vertical) columns of three boxes always have the sum $27$.
+
+![[src_bocconi_autunno_2014__Q04.png]]
+
+**Answer:** (vedi figura nella soluzione)
+[[src_bocconi_autunno_2014__Q04]]

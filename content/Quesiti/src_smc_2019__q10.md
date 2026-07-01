@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q10
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find n in {10,19,20,21,30} such that neither 6n-1 nor 6n+1 is prime*
 
@@ -49,3 +52,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca n in {10,19,20,21,30} in modo che né 6n-1 né 6n+1 siano prime*
+
+> Quali dei cinque seguenti valori di $n$ sono un contrasemplare dell'affermazione riportata nella casella seguente?
+> 
+> \emph{Per un intero positivo $n$, almeno uno di $6n - 1$ e $6n + 1$ è primo.}
+>
+> - **(A)** 10
+> - **(B)** 19
+> - **(C)** 20
+> - **(D)** 21
+> - **(E)** 30
+
+**Risposta:** C
+[[src_smc_2019__Q10]]

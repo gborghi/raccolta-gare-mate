@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1981-82 — Round 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1981-82_round1__Q04
 parent: src_bmo_1981-82_round1
 competition: British Mathematical Olympiad 1981-82 — Round 1
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Recurrence sequence: describe behaviour as n tends to infinity*
 
@@ -44,3 +47,13 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iBLrHn-nHBI8ucTONz6bQHo1BughmGgq/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenza di ricorrenze: descrivere il comportamento come n tende all'infinito*
+
+> Una sequenza di numeri reali $u_1, u_2, u_3, \ldots$ è data da $u_1$ e la relazione di ricorrenza $$\frac{1}{u_{n+1}} - u_n = \frac{13}{6n}, \quad n \ge 2.$$ Considerando la curva $x^2 + y = \frac{13}{6n}$, o altrimenti descrivendo con prova il comportamento di $u_n$ come $n$ tende all'infinito.
+
+[[src_bmo_1981-82_round1__Q04]]

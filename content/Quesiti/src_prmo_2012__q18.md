@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2012__Q18
 parent: src_prmo_2012
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2012
@@ -33,6 +34,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of squares of roots of quadratic involving floor function*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa dei quadrati delle radici quadratiche che coinvolgono la funzione del pavimento*
+
+> Qual è la somma dei quadrati delle radici dell'equazione $x^2 - 7[x] + 5 = 0$? (Qui $[x]$ indica il numero intero più grande inferiore o uguale a $x$. Per esempio $[3.4] = 3$ e $[-2.3] = -3$.)
+
+[[src_prmo_2012__Q18]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2021 — Quesito 16
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2021__Q16
 parent: src_smc_2021
 competition: Senior Mathematical Challenge 2021
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *25 equally spaced dots in 5×5 grid; O is bottom-left corner; count lines through O and exactly one other dot.*
 
@@ -54,3 +57,22 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nUMsShKFIBACZef_QGUgo0wjI-Ry_66o/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*25 punti spaziati ugualmente nella griglia 5×5; O è l'angolo inferiore sinistro; linee di conteggio attraverso O e esattamente un altro punto.*
+
+> Un array di $25$ punti spaziati ugualmente è disegnato in una griglia quadrata come mostrato. Il punto $O$ si trova nell'angolo inferiore sinistro. Linda vuole disegnare una linea retta attraverso il diagramma che passa attraverso $O$ e esattamente un altro punto. Quante di queste linee può disegnare Linda?
+>
+> - **(A)** 4
+> - **(B)** 6
+> - **(C)** 8
+> - **(D)** 12
+> - **(E)** 24
+
+![[src_smc_2021__Q16.png]]
+
+**Risposta:** C
+[[src_smc_2021__Q16]]

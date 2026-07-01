@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Triennio — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_triennio__Q22
 parent: src_archimede_2006_triennio
 competition: Giochi di Archimede 2006 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di motociclette da veicoli e copertoni*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of motorcycles from vehicles and covers*
+
+> A vandal cuts all the covers of cars and motorcycles parked along a road. The police arrest him and find 44 vehicles damaged. The person responsible is ordered to pay the costs of replacing the 144 blankets he has cut. How many motorcycles were parked on that road?
+>
+> - **(A)** Less than nine.
+> - **(B)** more than 10 and less than 14,
+> - **(C)** more than 15 and less than 19,
+> - **(D)** more than 20 and less than 24,
+> - **(E)** more than 25.
+
+**Answer:** C
+[[src_archimede_2006_triennio__Q22]]

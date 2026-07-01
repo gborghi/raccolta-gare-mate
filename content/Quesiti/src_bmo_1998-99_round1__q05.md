@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1998-99 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1998-99_round1__Q05
 parent: src_bmo_1998-99_round1
 competition: British Mathematical Olympiad 1998-99 — Round 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all p such that f(1999)=p for a bijective function with a recurrence condition*
 
@@ -50,3 +53,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tOfO5w6uysbOqI8KklY9Aj83wX_eK3Cu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le p in modo tale che f(1999)=p per una funzione bijectiva con una condizione di ricorrenza*
+
+> Considera tutte le funzioni $f$ dai numeri interi positivi ai numeri interi positivi in modo che (i) per ogni intero positivo $m$, ci sia un intero positivo unico $n$ in modo che $f(n) = m$; (ii) per ogni intero positivo $n$, abbiamo $$f(n+1) \text{ is either } 4f(n) - 1 \text{ or } f(n) - 1.$$ Trovare l'insieme di interi positivi $p$ in modo che $f(1999) = p$ per qualche funzione $f$ con proprietà (i) e (ii).
+
+[[src_bmo_1998-99_round1__Q05]]

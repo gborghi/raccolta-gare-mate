@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2003 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2003__Q12
 parent: src_cn_cmc_2003
 competition: China Mathematical Competition 2003
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute the limit of the ratio of sum to count of a set of decimal fractions.*
 
@@ -46,3 +49,14 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Calcolare il limite del rapporto somma-conteggio di un insieme di frazioni decimali.*
+
+> $M_n = \{0.\overline{a_1 a_2 \cdots a_n} \mid a_i = 0 \text{ or } 1, 1 \le i \le n-1, a_n = 1\}$ sia un insieme di frazioni decimali. $T_n$ e $S_n$ sono rispettivamente il numero e la somma degli elementi di $M_n$. Poi $\lim_{n \to \infty} \frac{S_n}{T_n} = $ ___.
+
+**Risposta:** $\frac{1}{18}$
+[[src_cn_cmc_2003__Q12]]

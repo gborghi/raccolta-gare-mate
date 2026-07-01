@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2023 - Gara Biennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_biennio__Q15
 parent: src_archimede_2023_biennio
 competition: Giochi di Archimede 2023 - Gara Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Passeggiate di 6 metri che tornano alla tana (senza inversione)*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cdaCakhnUhZtz4LlgOmVvJJRpalObqKb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*6 metres walk back to the pit (without reversing) *
+
+> A turtle occasionally takes a walk, starting from its own lair. The pass is made up of one metre straight sections, always in one of the directions North, South, West, East. When it changes direction, it can rotate only 90°(it cannot turn and reverse the motion). How many six-meter walks are possible, at the end of which the turtle is back in the ditch?
+>
+> - **(A)** 40
+> - **(B)** 54
+> - **(C)** 36
+> - **(D)** 32
+> - **(E)** 48
+
+**Answer:** A
+[[src_archimede_2023_biennio__Q15]]

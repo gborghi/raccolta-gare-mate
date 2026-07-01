@@ -1,6 +1,7 @@
 ---
 title: IMO 2020 papers — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_2020__Q05
 parent: src_imo_2020
 competition: IMO 2020 papers
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *n con media aritmetica=media geometrica forza uguali*
 
@@ -40,3 +43,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lHIqSWrqlVCOmcFjndDhEYM3gZRYMB5g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*n with arithmetic mean=geometric mean equal force*
+
+> A deck of < MSK0/> cards is given. On each card is written a positive integer. The deck has the property that the arithmetic mean of the numbers on each pair of cards is also the geometric mean of the numbers on some collection of one or more cards.
+> 
+> So what does it mean that the numbers on the cards are all the same?
+
+[[src_imo_2020__Q05]]

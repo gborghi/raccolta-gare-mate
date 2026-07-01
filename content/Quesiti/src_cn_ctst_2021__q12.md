@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2021 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2021__Q12
 parent: src_cn_ctst_2021
 competition: China National Team Selection Test 2021
@@ -34,6 +35,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimum side length of equilateral triangle covering 3 unit-circle points*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $\sqrt{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca la lunghezza laterale minima di un triangolo equilaterale che copra 3 punti di cerchio unitario*
+
+> Trovare il numero reale meno positivo $a$ che soddisfa questa condizione: per tutti e tre i punti $A$, $B$, $C$ sul cerchio unitario, esiste un triangolo equilaterale $PQR$ con lunghezza laterale $a$, in modo tale che $A$, $B$, $C$ siano tutti all'interno o sul confine di $\triangle PQR$.
+
+**Risposta:** \sqrt{3}
+[[src_cn_ctst_2021__Q12]]

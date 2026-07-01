@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2024 - Gara Biennio (riserva) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2024_biennio_rec__Q12
 parent: src_archimede_2024_biennio_rec
 competition: Giochi di Archimede 2024 - Gara Biennio (riserva)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ordini d'arrivo compatibili con previsioni parziali*
 
@@ -46,3 +49,19 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zc0JYTnNpi8CAPYei6bpOc9FH3jCHObB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Arrival orders compatible with partial forecasts*
+
+> Six cooks, indicated by A, B, C, D, E, F, participate in a cooking competition. According to the forecasts of the evening, the cook A is considered to be better than B, who is better than C, who in turn is better than D. It is also believed that A is better than E. If all the forecasts were met, assuming that there could be no equally qualified chefs, how many possible orders would be placed for the competition?
+>
+> - **(A)** 18
+> - **(B)** 20
+> - **(C)** 21
+> - **(D)** 16
+> - **(E)** 24
+
+[[src_archimede_2024_biennio_rec__Q12]]

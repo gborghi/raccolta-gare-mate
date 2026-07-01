@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Gara 17 marzo — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student__Q22
 parent: src_kangourou_2022_student
 competition: Kangourou 2022 Student — Gara 17 marzo
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Interi di 3 cifre = 5 volte il prodotto delle cifre*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1FVXTeP7yJ2BOAV7-CyvpmHU_gHT1CPsr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Third digit integers = five times the product of the digits< MSK1/>
+
+> How many three-digit positive integers are equal to five times the product of their own digits? A) 1
+>   
+> B) 2
+>   
+> C) 3
+>   
+> D) 4
+>   
+> E) 5
+
+**Answer:** A
+[[src_kangourou_2022_student__Q22]]

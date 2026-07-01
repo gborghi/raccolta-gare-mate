@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Cadet - gara marzo — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_cadet__Q12
 parent: src_kangourou_2021_cadet
 competition: Kangourou 2021 Cadet - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso del vaso vuoto dati due riempimenti*
 
@@ -70,3 +73,15 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10yr7Z5ayYt9lLdczog-WMVrCLAu5aN2G/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Weight of the empty vessel given two fillings*
+
+> A vessel filled with water for one fifth of its capacity weighs 560 g. The same vessel filled with water for four quintes weighs 740 g. What's the weight of the empty vase? (a) 60 g B) 112 g C) 180 g D) 300 g E) 500 g AB + CD 137 ADCB CBAD ? = + = 5 2 3 7 6 3 4 8 7 4 5 9 180 ° 9 7 0 4 0 8 1 5 1 9 2 6 0 7 8 2 1 8 9 3 2 9 0 4 0 8 6 1 1 9 7 2 2 0 8 3 3 7 8 1 4 8 9 2 5 9 0 3 7 3 2 5 8 4 3 6 9 5 4 7
+>
+
+**Answer:** E
+[[src_kangourou_2021_cadet__Q12]]

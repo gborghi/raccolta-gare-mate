@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2016 - Finale Nazionale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2016_finale__Q08
 parent: src_cesenatico_2016_finale
 competition: Gara a Squadre Cesenatico 2016 - Finale Nazionale
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prime 4 cifre somma codici Fibonacci (controllo)*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1791
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First four digits sum of Fibonacci codes (control) *
+
+> [⋆]The separatist Su Mustafausdorff mine, a volcanic planet where each pair of dots is separated by two craters, has an extensive mineral extraction activity. The droids used for processing are divided into two teams, each of which has assigned a protocol code consisting of a positive integer. The first team's eighth droid is assigned the code a, with a1 = a2 = 1 and an+1 = an +an−1 for n ≥2. The second team's eighth droid is assigned the code bi, with b1 = 1 and bn+1 = an+1 +bn for n ≥1. Due to some malfunctions, quality control is carried out on the droids. The 1792nd droid of the first team is asked to add the protocol codes of the first 1789 droids of his team, add their own code, and subtract from the result the sum of the codes of the first 1789 droids of the second team. What are the first four digits of the number thus obtained?
+
+**Answer:** 1791
+[[src_cesenatico_2016_finale__Q08]]

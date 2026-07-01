@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n2_f1__Q24
 parent: src_obm_2014_n2_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 2 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to fill 2×2014 Bitonho table with 0s and 1s*
 
@@ -51,3 +54,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1W_TJEpNiKG5_Wv_1Ro9r8cAK_s5jtJvI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i modi per riempire 2×2014 Tavola Bitonho con 0s e 1s*
+
+> Bitonho è un gioco di riempire una tabella $2 \times 2014$ con zeri e uno in modo tale che se due celle orizzontalmente adiacenti nella stessa riga sono uguali, allora le due celle dell'altra riga nelle stesse colonne non sono uguali. Per esempio, nel disegno di seguito, le celle $A$ e $B$ non sono uguali. In quanti modi si può compilare una tabella $2 \times 2014$ secondo la regola di Bitonho?
+> 
+> (A) $3 \cdot 2^{2014}$ $\quad$ (B) $4 \cdot 2^{2013}$ $\quad$ (C) $4^{2014}$ $\quad$ (D) $2 \cdot 3^{2014}$ $\quad$ (E) $3 \cdot 4^{2014}$
+
+![[src_obm_2014_n2_f1__Q24.png]]
+
+**Risposta:** A
+[[src_obm_2014_n2_f1__Q24]]

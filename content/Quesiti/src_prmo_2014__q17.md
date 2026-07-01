@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2014 — Mumbai — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2014__Q17
 parent: src_prmo_2014
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2014
@@ -38,6 +39,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smallest b such that N(b)=20, where N(b) counts a for which x^2+ax+b=0 has no integer roots*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 749
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VrbzCXoDBT0owkS--8Qy0U_0edMd4ePn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*La b più piccola tale che N(b) = 20, dove N(b) conta a per la quale x^2+ax+b=0 non ha radici interi*
+
+> Per un numero naturale $b$, $N(b)$ indica il numero di numeri naturali $a$ per i quali l'equazione $x^2 + ax + b = 0$ ha radici interi. Qual è il valore più piccolo di $b$ per il quale $N(b) = 20$?
+
+**Risposta:** 749
+[[src_prmo_2014__Q17]]

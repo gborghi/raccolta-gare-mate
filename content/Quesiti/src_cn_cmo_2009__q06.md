@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2009 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2009__Q06
 parent: src_cn_cmo_2009
 competition: China Mathematical Olympiad 2009
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove existence of n-element set where all subset averages are pairwise coprime composites*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Prove l'esistenza di un insieme di n elementi in cui tutte le medie del sottogruppo sono composti coprimi in coppia*
+
+> Date un numero intero $n \geq 3$, dimostrare che esiste un insieme $S$ di $n$ diversi interi positivi in modo tale che per due sudinsiemi non vuoti $A$ e $B$ di $S$, i numeri $\dfrac{\displaystyle\sum_{x \in A} x}{|A|}$ e $\dfrac{\displaystyle\sum_{x \in B} x}{|B|}$ sono due interi composti copriemi, dove $\displaystyle\sum_{x \in X} x$ indica la somma di tutti gli elementi di un insieme finito $X$, e $|X|$ indica la cardinalità di $X$.
+
+[[src_cn_cmo_2009__Q06]]

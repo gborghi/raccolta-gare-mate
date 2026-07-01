@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2023 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2023__Q02
 parent: src_inmo_2023
 competition: Indian National Mathematical Olympiad 2023
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *101 cyclic polynomials in positive reals; show not all can have all real roots*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kW6GgduaArtuZwxLT_Wd61CJZas0evUz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*101 polinomi ciclici nei reali positivi; mostrare che non tutti possono avere tutte le radici reali*
+
+> Supponiamo che $a_0, a_1, \ldots, a_{100}$ siano numeri reali positivi. Si consideri il seguente polinomio per ogni $k$ in $\{0, 1, \ldots, 100\}$: $$a_{101+k} x^{100} + 100a_{k+1} x^{99} + a_{k+2} x^{98} + \cdots + a_{k+99} x + a_k,$$ in cui gli indici sono presi modulo 101, cioè $a_{101m} = a_0$ per qualsiasi $i$ in $\{1, 2, \ldots, 100\}$.
+> 
+> Mostrare che è impossibile che ciascuno di questi 101 polinomi abbia tutte le sue radici reali.
+
+[[src_inmo_2023__Q02]]

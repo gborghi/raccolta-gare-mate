@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 2024 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_2024__Q01
 parent: src_inmo_2024
 competition: Indian National Mathematical Olympiad 2024
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circumcircle point E gives parallel line intersecting circumcircle at F,G*
 
@@ -35,3 +38,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D0Zw8xFmfCMQngEWwZiI2BY1LTiLM4r7/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il punto del circolo E dà una linea parallela che interseca il circolo a F,G*
+
+> Nel triangolo $ABC$ con $CA = CB$, il punto $E$ si trova sul circoncircolo di $ABC$ in modo tale che $\angle ECB = 90^\circ$. La linea attraverso $E$ parallela a $CB$ si interseca tra $CA$ in $F$ e $AB$ in $G$. Prove che il centro del circoncircolo del triangolo $EGB$ si trova sul circoncircolo del triangolo $ECF$.
+
+[[src_inmo_2024__Q01]]

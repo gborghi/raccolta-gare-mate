@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Biennio — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_biennio__Q15
 parent: src_archimede_2005_biennio
 competition: Giochi di Archimede 2005 - Gara Biennio
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minima distanza tra centri di due cerchi tangenti*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum distance between centers of two tangent circles*
+
+> Two circles have a radius of 1 m and 3 m respectively. Knowing that there are two orthogonal lines between them, each tangent to both circles, what is the minimum possible value of the distance between the two centers?
+>
+> - **(A)** √ 2 m,
+> - **(B)** 2 √ 2 m,
+> - **(C)** ( √ 2 + √ 5) m,
+> - **(D)** 2 √ 5 m,
+> - **(E)** 4 √ 2 m.
+
+**Answer:** B
+[[src_archimede_2005_biennio__Q15]]

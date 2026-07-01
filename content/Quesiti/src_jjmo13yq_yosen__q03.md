@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo13yq_yosen__Q03
 parent: src_jjmo13yq_yosen
 competition: Japan Junior Mathematical Olympiad 2015 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Smeared long-multiplication cryptarithm; find the final product*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 588
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ritmo di criptografia di moltiplicazione lunga mescolato; trovare il prodotto finale< MSK1/>
+
+> Taro fece un problema di moltiplicazione lunga, ma perché alcuni dei numeri scritti divennero macchiati e illeggibili, sostituì ogni cifra illeggibile con uno dei simboli di seguito. Un dato simbolo può rappresentare una delle due cifre, secondo la leggenda: $$\bigcirc \Rightarrow 0 \text{ or } 6,\qquad \ulcorner \Rightarrow 1 \text{ or } 7,\qquad \varphi \Rightarrow 4 \text{ or } 9.$$ La moltiplicazione è scritta nel layout di moltiplicazione a lungo standard (un numero a due cifre volte un numero a due cifre, con due prodotti parziali che vengono quindi aggiunti). Esistono esattamente $2$ modi per ricostruire la moltiplicazione originale; trovare le moltiplicazioni originali e, per ciascuna, il numero scritto nella riga inferiore (il prodotto finale). Nota: un posto vuoto può contenere qualsiasi cifra da $0$ a $9$, e la cifra principale (in posizione più alta) di ciascuna riga non deve essere $0$.
+
+![[src_jjmo13yq_yosen__Q03.png]]
+
+**Risposta:** 588
+[[src_jjmo13yq_yosen__Q03]]

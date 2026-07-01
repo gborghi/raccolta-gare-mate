@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2020 - 2° livello — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2020_2livello__Q08
 parent: src_archimede_2020_2livello
 competition: Archimede Gara di Febbraio 2020 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza tra cifre 1 e cifre 0 da 1 a 2020*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KR0oKhf11E_O5o_ziPZ-sBItN9VoaqZK/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Difference between figures 1 and figures 0 from 1 to 2020*
+
+> Aisha writes on a sheet all the numbers from 1 to 2020. What's the difference between the number of digits 1 and the number of digits 0 you wrote?
+>
+> - **(A)** 78
+> - **(B)** 1010
+> - **(C)** 1089
+> - **(D)** 2020
+> - **(E)** 5005
+
+**Answer:** C
+[[src_archimede_2020_2livello__Q08]]

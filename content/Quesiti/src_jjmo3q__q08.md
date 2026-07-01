@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2005 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo3q__Q08
 parent: src_jjmo3q
 competition: Japan Junior Mathematical Olympiad 2005
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle from two angle bisectors in a triangle*
 
@@ -37,3 +40,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo da due bisettori angolari in un triangolo*
+
+> In triangolo $ABC$, $\angle ABC = 70^\circ$ e $\angle ACB = 50^\circ$. I bisettori di $\angle ABC$ e $\angle ACB$ devono incontrare i lati $AC$ e $AB$ rispettivamente nei punti $D$ e $E$. Trova la misura di $\angle AED$.
+
+[[src_jjmo3q__Q08]]

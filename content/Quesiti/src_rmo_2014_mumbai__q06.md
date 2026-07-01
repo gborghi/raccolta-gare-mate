@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_mumbai__Q06
 parent: src_rmo_2014_mumbai
 competition: Regional Mathematical Olympiad 2014
@@ -34,6 +35,8 @@ tags:
   - regione/r5
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove lines from contact triangle incentres to opposite contact points are concurrent*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xhSfT_YS9hyqePqUnTAQeZVYK635GxN9/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Le linee di prova dagli incentri del triangolo di contatto ai punti di contatto opposti sono simultanee*
+
+> $D, E, F$ siano i punti di contatto dell'incircolo di un triangolo acuto $ABC$ con $BC$, $CA$ e $AB$ rispettivamente. I segmenti $I_1$, $I_2$ e $I_3$ siano rispettivamente gli incentri dei triangoli $AFE$, $BDF$ e $CED$. Prove che le righe $I_1D$, $I_2E$, $I_3F$ sono simultanee.
+
+*Apparizioni nelle regioni: Mumbai, Regione 5.*
+
+[[src_rmo_2014_mumbai__Q06]]

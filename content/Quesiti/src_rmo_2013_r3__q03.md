@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 3 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r3__Q03
 parent: src_rmo_2013_r3
 competition: Regional Mathematical Olympiad 2013
@@ -31,6 +32,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Orthocentre of ABD on circle Γ iff on perpendicular bisector of BC*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LyJj9lZ6d9wJTkSmciSZe9Gn8yrb6GdD/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ortocentro di ABD sul cerchio Γ iff sul bisettore perpendicolare di BC< MSK1/>
+
+> In un triangolo acuto $ABC$ con $AB < AC$, il cerchio $\Gamma$ tocca $AB$ a $B$ e passa attraverso $C$ incrociandosi di nuovo a $AC$ a $D$. Prova che l'ortocentro del triangolo $ABD$ si trova su $\Gamma$ se e solo se si trova sul bisettore perpendicolare di $BC$.
+
+[[src_rmo_2013_r3__Q03]]

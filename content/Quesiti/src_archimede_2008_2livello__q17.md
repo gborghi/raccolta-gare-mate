@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_2livello__Q17
 parent: src_archimede_2008_2livello
 competition: Archimede Gara 2° livello 2008 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *sono cubi?*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** dimostrazione (sì per 7, no per 6)
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Are they cubic?
+
+> A) There are seven positive integers a, b, c, d, e, f, g such that the products ab, bc, cd, de, ef, fg, ga are all perfect cubes. Prove that a, b, c, d, e, f, g are perfect cubes too. (b) You have six positive integers a, b, c, d, e, f such that the products ab, bc, cd, de, ef, fa are all perfect cubes. Is it always true that a, b, c, d, e, f are all perfect cubes? Note: we say perfect cube an integer m such that m = n3 for some integer n.
+
+**Answer:** dimostrazione (sì per 7, no per 6)
+[[src_archimede_2008_2livello__Q17]]

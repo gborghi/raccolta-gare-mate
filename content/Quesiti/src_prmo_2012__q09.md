@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2012 — Mumbai — Quesito 9
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2012__Q09
 parent: src_prmo_2012
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2012
@@ -32,6 +33,8 @@ tags:
   - regione/Mumbai
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find value of X_144 in geometric-like sequence*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $\frac{7}{2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10s_Kzo37wHelslKF_OOQ3wSnEu_qtAW8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il valore di X_144 in una sequenza geometrica*
+
+> Supponiamo che $4^{x_1} = 5$, $5^{x_2} = 6$, $6^{x_3} = 7$, $\ldots$, $126^{x_{123}} = 127$, $127^{x_{124}} = 128$. Qual è il valore di < MSK6/>?
+
+**Risposta:** \frac{7}{2}
+[[src_prmo_2012__Q09]]

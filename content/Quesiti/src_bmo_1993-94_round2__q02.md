@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1993-94 — Round 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1993-94_round2__Q02
 parent: src_bmo_1993-94_round2
 competition: British Mathematical Olympiad 1993-94 — Round 2
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count non-congruent triangles with integer sides and perimeter 1994*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BVQrmCslxiyxp1Rg64CsxnMuP4Y7oEdJ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i triangoli non congruenti con lati interi e perimetro 1994*
+
+> Quanti triangoli diversi (cioè non congruenti in coppia) ci sono con lati interi e con perimetro 1994?
+
+[[src_bmo_1993-94_round2__Q02]]

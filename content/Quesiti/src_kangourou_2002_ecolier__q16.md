@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Ecolier (21 marzo) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_ecolier__Q16
 parent: src_kangourou_2002_ecolier
 competition: Kangourou 2002 - Ecolier (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *A che ora esce di casa Matteo*
 
@@ -51,3 +54,21 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/11KMvq2ZH600CD1Y7IWJYruiJGAqyA0wL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What time does Matthew leave the house?
+
+> Martina leaves home at 6:55 a.m. to get to school at 7:32. Her friend Matteo only arrives at school at 7:45 a.m. although she lives closer to her at school and takes 12 minutes less to reach her. What time does Matteo leave the house?
+>  
+> A. 7:07 B. At 7.20 C. 7: 25 A.M. At 7.30 E. At 7.33am
+>  
+>  
+>  
+>  
+> The questions from N. 17 al N. Twenty-four is worth five points each.
+
+**Answer:** B
+[[src_kangourou_2002_ecolier__Q16]]

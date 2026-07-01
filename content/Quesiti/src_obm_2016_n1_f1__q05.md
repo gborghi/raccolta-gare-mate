@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f1__Q05
 parent: src_obm_2016_n1_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Boy/girl reading magazines per week; on which date they become equal.*
 
@@ -49,3 +52,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Giochi/ragazze che leggono riviste settimanali; a che data diventano uguali.*
+
+> [Fonte è la chiave di risposta; dichiarazione/opzioni originali non riprodotte. Dalla soluzione: con < MSK0/> il numero di settimane, < MSK1/> settimane. Contando $17\times 7 = 119$ giorni dall'inizio della seconda settimana di febbraio, e dal momento che $31+30+31$ (marzo, aprile, maggio) più i giorni di febbraio rimanenti totali $21+31+30+31 = 113$ giorni, si conclude che il ragazzo equivale alla ragazza nel numero di riviste solo alla fine della prima settimana di giugno.]
+
+**Risposta:** D
+[[src_obm_2016_n1_f1__Q05]]

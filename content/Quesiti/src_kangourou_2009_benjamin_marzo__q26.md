@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Benjamin (gara 19 marzo) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_benjamin_marzo__Q26
 parent: src_kangourou_2009_benjamin_marzo
 competition: Kangourou 2009 - Benjamin (gara 19 marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero iniziale per arrivare a 2009 (cammini)*
 
@@ -54,3 +57,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1lxdNTn2VbfWd3pdfNiV483RgIKp8Vf6C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Initial number to reach 2009 (roads) *
+
+![[src_kangourou_2009_benjamin_marzo__prob26.png]]
+
+> Think of an integer and put it in box B. Now follow one of the possible paths indicated by the arrows by performing the corresponding operations. If you choose the correct number to start with, will you be able to get to box F with the number 2009? A) Yes, by following any of the three possible paths. B) Yes, following two of the three possible paths and starting with the same number for both. C) Yes, following two of the three possible paths, but starting with two different numbers. D) Yes, but there is only one possible way. E) No.
+
+**Answer:** B
+[[src_kangourou_2009_benjamin_marzo__Q26]]

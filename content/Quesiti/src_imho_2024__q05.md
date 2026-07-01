@@ -1,6 +1,7 @@
 ---
 title: IMO 2024 (LXV International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2024__Q05
 parent: src_imho_2024
 competition: IMO 2024 (LXV International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Monster game on 2024x2025 grid, minimum guaranteed attempts*
 
@@ -44,3 +47,15 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZrP0tUhDI-NRI5nmXI07Lc5voATX3Y5x/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Monster game on 2024x2025 grid, minimum guaranteed attempts
+
+> Turbo the snail plays a game on a board with rows and columns. There are some monsters in the cells of the board, but he knows that there is at most one monster in each row and at most one monster in each column. Initially, Turbo doesn't know where any of the monsters are. On each attempt, he chooses to go from the first row to the last row. On each attempt, he chooses to start on any cell in the first row, then repeatedly moves to an adjacent cell sharing a common side. If he reaches a cell with a monster, his attempt ends and he is transported back to the first row to start a new attempt. The monsters don't move, and Turbo remembers whether or not every cell he has visited contains a monster. If he reaches any cell in the last row, his attempt ends and the game is over.
+> 
+> Determine the minimum value of $n$ for which Turbo has a strategy that guarantees reaching the last row on the $n^{\mathrm{th}}$ attempt or earlier, regardless of the locations of the monsters.
+
+[[src_imho_2024__Q05]]

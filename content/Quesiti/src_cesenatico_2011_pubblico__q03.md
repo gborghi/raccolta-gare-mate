@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Gara del pubblico — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_pubblico__Q03
 parent: src_cesenatico_2011_pubblico
 competition: Gara a Squadre Cesenatico 2011 - Gara del pubblico
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di pagare 4027 lingotti con bronzo e rame*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8906
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Bz64N6XxJNkZEwUogb9XSbTCWYyUfMI-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How to pay 4027 ingots with bronze and copper
+
+> An unmissable match [20] In Britannia a strange game is fashionable that is played between two teams, using balls, clubs and small arrows planted on the ground. The ticket for the final between Londinium and Cambridges costs 4027 ingots of iron (for the equivalence between the pieces see Problem 2). How many different ways, using only pieces of bronze and pieces of copper, can Cantorax pay for a ticket without having to receive the rest?
+
+**Answer:** 8906
+[[src_cesenatico_2011_pubblico__Q03]]

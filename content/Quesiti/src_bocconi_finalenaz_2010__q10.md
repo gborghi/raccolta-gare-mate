@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2010 — Quesito
   10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2010__Q10
 parent: src_bocconi_finalenaz_2010
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2010
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Bilancia in equilibrio con addizione vera*
 
@@ -51,3 +54,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 7+7=14 oppure 4+8=12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SwpGvc1okXkN0XWCO2BCHl4dO9C7PZjh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> Balance with true addition< MSK1/>
+
+> Look at the balance shown in the figure and ignore the weights of all the elements that make up the balance (of course, even the two plates of the balance  including the upper triangular one  are regularly spaced apart). Each one of them bears a burden.
+> 
+> **Replace the "?" with an integer of kg (if any repeated) chosen between 1, 2, 3, \ldots, $k$, so that the balance is balanced and the addition is accurate.**
+> 
+> In the addition, the two "?" to the second member will be read as a two-digit number; for example $? = 3$ and $? = 2$ is verified because $1 \times 5 = 1 \times 2 \cdot ? + ? = 3 \cdot 2 + 1$.
+
+![[src_bocconi_finalenaz_2010__Q10.png]]
+
+**Answer:** 7+7=14 oppure 4+8=12
+[[src_bocconi_finalenaz_2010__Q10]]

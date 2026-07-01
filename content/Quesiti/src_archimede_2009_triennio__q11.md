@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2009 - Triennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2009_triennio__Q11
 parent: src_archimede_2009_triennio
 competition: Giochi di Archimede 2009 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti paggi tra furfanti, cavalieri e paggi*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1mqChfOWVkCroQK8WGn0oZAZGRhzzFF0m/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many wages between thieves, knights and wages*
+
+> The hidden face of the moon is populated only by crooks, who always lie, knights who always tell the truth, and pagans, who when they utter two consecutive sentences, lie on one and tell the truth on the other, choosing randomly the order between the two. Three residents, Drago, Ludovico, and Orlando, make the following statements. Dragon: I'm a paid man. Louis is a knight. Louis: Orlando is a paycheck. I'm a con man. Orlando: I'm a paid man. We're all paid! How many of them are actually paid?
+>
+> - **(A)** 0,
+> - **(B)** 1,
+> - **(C)** 2,
+> - **(D)** 3,
+> - **(E)** It cannot be determined from the available data.
+
+**Answer:** C
+[[src_archimede_2009_triennio__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f1__Q19
 parent: src_obm_2016_n2_f1
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Compute SR=1 in a circle with similar triangles RSA and XYA*
 
@@ -48,3 +51,16 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Computare SR=1 in un cerchio con triangoli simili RSA e XYA*
+
+> Il $I$ è l'intersezione tra $AD$ e $BF$ e $O$ del centro del cerchio. Poiché $FA=AB=AY=AX$, $FB$ è parallelo a $XY$, quindi i triangoli $RSA$ e $XYA$ sono simili e $$\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\sin\angle ABI)}{1}=\frac12,$$ dal momento che $\angle ABI=30^\circ$ e $AB=AO=OB$. Quindi $SR=1$. Qual è il valore di < MSK13/>? (Nota: le opzioni multiple di scelta originali non sono riprodotte nel gabarito sorgente.)
+
+![[src_obm_2016_n2_f1__Q19.png]]
+
+**Risposta:** A
+[[src_obm_2016_n2_f1__Q19]]

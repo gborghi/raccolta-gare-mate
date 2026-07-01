@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f1__Q06
 parent: src_obm_2002_n3_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 1
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Alice undergoes four successive percentage height changes; find net effect*
 
@@ -50,3 +53,20 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Alice subisce quattro successive variazioni percentuali di altezza; trova effetto netto < MSK1/>
+
+> Durante il suo viaggio nella terra delle meraviglie, Alice subì quattro successivi cambiamenti di altezza, nel seguente modo: prima prese un sorso da una bottiglia sulla quale c'era un adesivo con il messaggio "bevi me, sono 50% in basso", poi prese un sorso da un'altra bottiglia la cui etichetta era stampata con il messaggio "bevi me un sorso 50% più alto". Infine, ha mangiato un pezzo di una tart sulla quale c'era scritto "mangimi, pezzo di tart 20% più alto", e un altro pezzo di tart la cui etichetta diceva "saggiami, pezzo di tart 20% in basso". Dopo il viaggio di Alice, possiamo affermare che lei:
+>
+> - **(A)** E' diminuito dell'1%
+> - **(B)** E' diventato più alto dell'1%
+> - **(C)** E' diminuito del 5%.
+> - **(D)** E' diventato più alto del 5%.
+> - **(E)** Finì per un 10% in meno
+
+**Risposta:** A
+[[src_obm_2002_n3_f1__Q06]]

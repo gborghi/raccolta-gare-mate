@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 25
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q25
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *1x2x3 block rolled on an 8x8 board with faces X,Y,Z turned down in order; how many distinct cells touched*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/> blocco 1x2x3 laminato su una tavola 8x8 con le facce X, Y, Z in ordine verso il basso; quante cellule distinte sono state toccate< MSK1/>
+
+> Un blocco di dimensioni $1\times 2\times 3$ è posizionato su una tavola $8\times 8$, come mostra la figura, con una faccia $X$ di dimensioni $1\times 2$ rivolta verso il basso. Rotoliamo il blocco attorno a uno dei suoi bordi in modo che la faccia $Y$ sia girata verso il basso. Poi lo rotoliamo di nuovo, questa volta in modo che la faccia $Z$ sia girata verso il basso. Rotoliamo il blocco più volte, in varie direzioni sulla lavagna, in modo che le facce $X$, $Y$ e $Z$ siano girate verso il basso, sempre in questo ordine. Quanti piccoli quadrati della lavagna possono essere in contatto con il blocco? A) $18$ \quad B) $19$ \quad C) $20$ \quad D) $21$ \quad E) $22$
+
+![[src_obm_2005_n2_f1__Q25.png]]
+
+[[src_obm_2005_n2_f1__Q25]]

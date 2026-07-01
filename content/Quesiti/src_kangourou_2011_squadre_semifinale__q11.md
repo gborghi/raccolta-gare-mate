@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 squadre semifinale turno A — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_squadre_semifinale__Q11
 parent: src_kangourou_2011_squadre_semifinale
 competition: Kangourou 2011 squadre semifinale turno A
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo somme intere distinte di 10 numeri (uno non intero)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 45
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1sDVUENqsCj11vO1wooUKYy2R9tmA16Nf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of integers of 10 digits (one non-integer) *
+
+> Whole results are assigned 10 positive numbers. The only information we have about them is that at least one of them is not complete. If they are added to pairs in all possible ways (i.e. two different ones are chosen from each other in all possible ways and are added together) what is the maximum number of whole results all different from each other that can be achieved?
+
+**Answer:** 45
+[[src_kangourou_2011_squadre_semifinale__Q11]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2014 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2014__Q17
 parent: src_bocconi_autunno_2014
 competition: Giochi d'Autunno 2014
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Più piccolo multiplo non nullo di 2015 con cifre decrescenti*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 44330
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PloiPSpf4_9YADREFtliPjnhVrdcFhjI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lesser non-zero multiple of 2015 with decreasing figures*
+
+> What is the smallest non-zero multiple of $2015$, whose digits are written in descending order (not necessarily in the strict sense) from left to right?
+
+**Answer:** 44330
+[[src_bocconi_autunno_2014__Q17]]

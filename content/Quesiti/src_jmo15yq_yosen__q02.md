@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2005 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo15yq_yosen__Q02
 parent: src_jmo15yq_yosen
 competition: Japan Mathematical Olympiad 2005 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum distance from line 4x+3y=1 to a lattice point not on the line*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $\frac{1}{5}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Distanza minima dalla linea 4x+3y=1 a un punto della rete non sulla linea*
+
+> Considera la riga $4x + 3y = 1$. Tra tutte le distanze possibili da un punto su questa linea a un punto della rete (un punto con entrambe le coordinate integri) che non si trova sulla linea, trova il valore minimo. Qui un punto reticolo è un punto le cui coordinate $x$- e $y$ sono entrambe enti.
+
+**Risposta:** \frac{1}{5}
+[[src_jmo15yq_yosen__Q02]]

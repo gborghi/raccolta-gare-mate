@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2003 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo1q__Q08
 parent: src_jjmo1q
 competition: Japan Junior Mathematical Olympiad 2003
@@ -31,6 +32,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find area of quadrilateral with given sides and diagonal intersection angle 45°*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16MD0CR3222jwePcS-UGcyoCO-ihqCRNA/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca l'area di un quadrilaterale con i lati dati e l'angolo di intersezione diagonale 45°*
+
+> Il quadrilaterale $ABCD$ soddisfa $AB = 3$, $BC = 4$, $CD = 6$, $DA = 6$. Le diagonali $AC$ e $BD$ si intersecano ad un angolo di $45^\circ$. Trova l'area di questo quadrilaterale.
+
+[[src_jjmo1q__Q08]]

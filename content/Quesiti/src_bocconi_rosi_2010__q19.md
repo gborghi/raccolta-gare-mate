@@ -1,6 +1,7 @@
 ---
 title: Giochi di Rosi 2010 — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_rosi_2010__Q19
 parent: src_bocconi_rosi_2010
 competition: Giochi di Rosi 2010
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Contare rettangoli in griglia 2x3*
 
@@ -47,3 +50,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 18 rettangoli
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pwjn1M0F1YSZ60SMZmZPXENHZGd98Xmt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting rectangles in a 2x3 grid*
+
+> **How many rectangles do you see in the figure?**
+> 
+> (Warning: a square is a particular rectangle!)
+
+![[src_bocconi_rosi_2010__Q19.png]]
+
+**Answer:** 18 rettangoli
+[[src_bocconi_rosi_2010__Q19]]

@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2011 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2011__Q08
 parent: src_cn_cmc_2011
 competition: China Mathematical Competition 2011
@@ -30,6 +31,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Probability code A is used in week 7 given it was used in week 1*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\frac{61}{243}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Il codice di probabilità A viene utilizzato nella settimana 7 dato che è stato utilizzato nella settimana 1< MSK1/>
+
+> Una stazione di informazione utilizza quattro codici diversi, $A$, $B$, $C$ e $D$, per la comunicazione, ma ogni settimana ne utilizza solo uno. Il codice utilizzato in una settimana determinata viene selezionato in modo casuale con pari probabilità tra i tre che non sono stati utilizzati nell'ultima settimana. Supponiamo che il codice utilizzato nella prima settimana sia $A$. La probabilità che $A$ venga utilizzato anche nella settima settimana è quindi __________ (espressa come frazione irriducibile).
+
+**Risposta:** \frac{61}{243}
+[[src_cn_cmc_2011__Q08]]

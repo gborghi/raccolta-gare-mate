@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Junior (gara marzo) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_junior_marzo__Q05
 parent: src_kangourou_2016_junior_marzo
 competition: Kangourou 2016 Junior (gara marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppia che non e vertice del quadrato*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1_FimVNCqMCQXAOhr2PasYRnLSdpOMrZS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pair other than the sum of the squares*
+
+> 5. Four of the ordered pairs you find in the answers, in a Cartesian reference system, represent the vertices of a square. Which one is not a vertex of this square? A) (-1, 3) C) (-2, -1) D) (1, 1) E) (3, -2) B) (0, -4)
+
+**Answer:** A
+[[src_kangourou_2016_junior_marzo__Q05]]

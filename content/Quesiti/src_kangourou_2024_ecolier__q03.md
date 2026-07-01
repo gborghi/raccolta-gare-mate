@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Ecolier 2024 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier__Q03
 parent: src_kangourou_2024_ecolier
 competition: Kangourou Categoria Ecolier 2024
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minimo numero di scale per raggiungere l'incendio*
 
@@ -44,3 +47,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1o8GO-JLSa0QUprbSUzUexia4rMklcbyD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of steps to reach the fire*
+
+![[src_kangourou_2024_ecolier__prob3.png]]
+
+> Look at the figure. The fire broke out on a very high level: the firefighter reached four floors below, at the point indicated, but could not make any jump. What's the minimum number of stairs you'll use to reach the fire? A) 4 B) 5	               C) 6 D) 7 E) 8
+
+**Answer:** C
+[[src_kangourou_2024_ecolier__Q03]]

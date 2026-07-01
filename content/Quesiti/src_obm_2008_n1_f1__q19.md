@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n1_f1__Q19
 parent: src_obm_2008_n1_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cards with 5 colors in 5 regions; rotations make cards equivalent; count distinct cards*
 
@@ -52,3 +55,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jS9AjIezsp0MUxDiEgVpS7k3MJ9uT3_v/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Carte con 5 colori in 5 regioni; rotazioni rendono le carte equivalenti; contare le carte distinte*
+
+> Soninha ha molte carte. Ogni carta ha cinque colori diversi (verde, blu, rosso, giallo, arancione), uno in ogni regione del disegno. Nella figura seguente, ad esempio, le due carte mostrate sono uguali, poiché una può essere girata per corrispondere all'altra. Quante carte diverse può produrre Soninha?
+> 
+> A) 16 $\quad$ B) 25 $\quad$ C) 30 $\quad$ D) 60 $\quad$ E) 120
+
+![[src_obm_2008_n1_f1__Q19.png]]
+
+**Risposta:** C
+[[src_obm_2008_n1_f1__Q19]]

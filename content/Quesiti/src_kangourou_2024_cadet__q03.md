@@ -1,6 +1,7 @@
 ---
 title: Kangourou Categoria Cadet 2024 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_cadet__Q03
 parent: src_kangourou_2024_cadet
 competition: Kangourou Categoria Cadet 2024
@@ -28,6 +29,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti numeri di 4 cifre con i tre gettoni 1,5,11*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1MSOLULdwCM2QkMs69fhcUApvbxNyfKS9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Quantity of 4-digit numbers with three tokens 1.5,11*
+
+> Alice has the three tokens you see in the figure, each of which represents one of the numbers 1, 5, 11. He wants to place them next to each other so that they're a four-digit number. How many different numbers can it make up? A) 3
+>  
+> B) 4
+>  
+> C) 6
+>  
+> D) 8
+>  
+> E) 9
+
+**Answer:** B
+[[src_kangourou_2024_cadet__Q03]]

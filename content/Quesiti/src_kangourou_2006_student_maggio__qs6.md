@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Student finale (maggio) — Quesito S6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_student_maggio__QS6
 parent: src_kangourou_2006_student_maggio
 competition: Kangourou 2006 Student finale (maggio)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Azzeramento numeri su rete triangolare con mosse rombo*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** solo n dispari
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ianQsLYKRWCoToqRQQItfRaLtb1Nj0Gq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Numerization of triangular network numbers with rhomboid movements*
+
+![[src_kangourou_2006_student_maggio__probS6.png]]
+
+> An equilateral triangle of the side $n$ ($n$ integer greater than 1) is divided into $n^2$ small equilateral triangles using segments parallel to the sides, as suggested by the figure. All points on the network (vertices of triangles) thus made are initially associated with the number 0, except for the four points marked with $\bullet$, to which the number 1 is associated. We want to make sure that all of the above points, including the last four, end up being associated with the number 0 after performing a finite number of moves, each of which is exclusively of the following type: add 1 or $-1$ simultaneously to each of the numbers at the four vertices of any rope that is formed by the union of two of the $n^2$ equilateral triangles small. For what values of < MSK6/> can the project be implemented (and with what strategy)? (see figure)
+
+**Answer:** solo n dispari
+[[src_kangourou_2006_student_maggio__QS6]]

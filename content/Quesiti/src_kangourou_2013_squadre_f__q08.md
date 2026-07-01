@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Finale — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q08
 parent: src_kangourou_2013_squadre_f
 competition: Kangourou Coppa Squadre 2013 Finale
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti minuti ha camminato Emma (ora solare)*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 54
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many minutes has Emma walked (solar time)
+
+> There's only one road from Louis' house to Emma's. Every morning Luigi leaves his home by car and arrives at Emma's house at 9:00 a.m. On the morning of 28 October, Emma forgot that during the night the transition from legal time to solar time had taken place: she presented herself at 8.00 at the door of the house and, not seeing Luigi coming, she walked along the road going to meet Luigi's car. After a while she met the car that was going to pick her up: immediately Luigi stopped and reversed the march, Emma got on and the two arrived at Luigi's house 12 minutes early than usual. Louis drives at constant speed and no time was lost in the operation of reversing the march and taking Emma aboard. How many minutes did Emma walk?
+
+**Answer:** 54
+[[src_kangourou_2013_squadre_f__Q08]]

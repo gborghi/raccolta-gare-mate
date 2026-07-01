@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Extra Test) 2004 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-extra-test_2004__Q03
 parent: src_cn_cmc-extra-test_2004
 competition: China Mathematical Competition (Extra Test) 2004
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find minimal f(n) so any m-element subset of n consecutive integers has 3 mutually prime elements*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il minimo f(n) in modo che qualsiasi sottoinsieme di elementi m di n numeri interi consecutivi abbia 3 elementi reciprocamente primi*
+
+> Per il numero intero $n \ge 4$, trovare il numero intero minimo $f(n)$, in modo che per qualsiasi sottoinsieme con $f(n)$ elementi del set $\{m, m+1, \ldots, m+n-1\}$ ($m \in \mathbb{N}$), ci siano almeno 3 elementi reciprocamente primi.
+
+[[src_cn_cmc-extra-test_2004__Q03]]

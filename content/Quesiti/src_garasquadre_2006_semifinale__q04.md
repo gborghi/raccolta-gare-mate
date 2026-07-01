@@ -1,6 +1,7 @@
 ---
 title: VII Gara Nazionale a Squadre 2006 - Semifinale A — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_garasquadre_2006_semifinale__Q04
 parent: src_garasquadre_2006_semifinale
 competition: VII Gara Nazionale a Squadre 2006 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *somma*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8383
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xgDUWXS0Vrq8Cs6BGQF8u2KjsKUvSZiu/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The amount of the sum of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the sums of the
+
+> For a strange, mathematical coincidence, in the Middle Ages the director of the Higher Mathematical School was appointed only in the years with the following peculiar property: it was all the years N between 476 and 1492 for which the equation x4 −y4 = N has solution in positive integers. What's the sum of these years?
+
+**Answer:** 8383
+[[src_garasquadre_2006_semifinale__Q04]]

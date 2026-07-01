@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2014 — Region 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2014_r3__Q02
 parent: src_rmo_2014_r3
 competition: Regional Mathematical Olympiad 2014
@@ -33,6 +34,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real x, y such that x^2+2y^2+1/2 le x(2y+1)*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13_r8SR8Qx6OYP_4_ONgiazaLStX1681S/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutte le vere x, y tali che x^2+2y^2+1/2 le x(2y+1) *
+
+> Trova tutti i numeri reali $x$ e $y$ in modo tale che $$x^2 + 2y^2 + \frac{1}{2} \le x(2y + 1).$$
+
+[[src_rmo_2014_r3__Q02]]

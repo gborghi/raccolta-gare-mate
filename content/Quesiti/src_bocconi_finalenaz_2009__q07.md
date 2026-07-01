@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2009 — Quesito
   7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2009__Q07
 parent: src_bocconi_finalenaz_2009
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2009
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di triangoli non sovrapposti con 7 punti*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 9
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of triangles not overlapping with 7 points*
+
+> TRIANGOLS 5 points in a plane are the vertices, at most, of 5 triangles that do not overlap (as shown in Figure 1). What about seven points? How many non-overlapping triangles can be plotted, at most, in the seven-point plane?
+
+![[src_bocconi_finalenaz_2009__Q07.png]]
+
+**Answer:** 9
+[[src_bocconi_finalenaz_2009__Q07]]

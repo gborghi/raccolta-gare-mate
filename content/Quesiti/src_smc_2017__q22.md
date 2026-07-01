@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2017 — Quesito 22
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2017__Q22
 parent: src_smc_2017
 competition: Senior Mathematical Challenge 2017
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular octagon and inscribed square formed by four diagonals; square edges have length 1. Find area of octagon.*
 
@@ -50,3 +53,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Octogono regolare e quadrato inciso formato da quattro diagonali; bordi quadrati hanno lunghezza 1. Trova area di ottagone.*
+
+> Il diagramma mostra un ottagono regolare e un quadrato formato disegnando quattro diagonali dell'ottagono. I bordi del quadrato hanno lunghezza $1$.
+> 
+> Qual è l'area dell'ottagono?
+>
+> - **(A)** $\dfrac{\sqrt{6}}{2}$
+> - **(B)** $\dfrac{3}{2}$
+> - **(C)** $\dfrac{2\sqrt{2}}{3}$
+> - **(D)** $\sqrt{2}$
+> - **(E)** $\dfrac{\sqrt{6}}{2}$
+
+![[src_smc_2017__Q22.png]]
+
+**Risposta:** D
+[[src_smc_2017__Q22]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Junior — Gara 16 marzo — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_junior__Q17
 parent: src_kangourou_2023_junior
 competition: Kangourou 2023 Junior — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *divisore comune di min e max*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/16McGuArmIHqcFlHrVuvvrFgJbq1ecq0y/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*common divider of min and max*
+
+> Let's say a positive integer of two digits is less-potencies if any of its digits is a nk-type number with n whole and k whole greater than 1. For example, 53 is a powerless number, whereas 54 is not (because 4 = 22). Which of the following numbers is a divisor of both the smallest and the largest of the non-potential numbers? A) 2
+> 	
+> B) 3
+> 	
+> C) 5
+> 	
+> D) 11
+> 	
+> E)13
+
+**Answer:** B
+[[src_kangourou_2023_junior__Q17]]

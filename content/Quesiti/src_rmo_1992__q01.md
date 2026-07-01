@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1992 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1992__Q01
 parent: src_rmo_1992
 competition: Regional Mathematical Olympiad 1992
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integers n such that n²+19n+92 is a perfect square.*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1E3JJBw_abvMOZ21Bh0CQ7FOsWYT93fGu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova tutti gli enti n in modo tale che n2+19n+92 sia un quadrato perfetto.*
+
+> Determinare l'insieme di enti $n$ per il quale $n^2 + 19n + 92$ è un quadrato di un intero.
+
+[[src_rmo_1992__Q01]]

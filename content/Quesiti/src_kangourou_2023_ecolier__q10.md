@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier__Q10
 parent: src_kangourou_2023_ecolier
 competition: Kangourou 2023 Ecolier — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *peso messo da parte*
 
@@ -46,3 +49,17 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bDY_Y5qtxjaNx_dh5X8llzlndfmVtNwJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>weight set aside < MSK1/>
+
+![[src_kangourou_2023_ecolier__prob10.png]]
+
+> Robi has a two-armed bodyweight of 1, 2, 3, 4, 5 and 6 kg. Robi puts five of the six weights on the scale as the figure suggests and sets aside the remainder. The balance is in balance. What weight did you set aside? A) The one of 1 kg. B) The two-kilogram. C) The three-pound one. D) The 4 kg. E) It cannot be established with certainty.
+>
+
+**Answer:** A
+[[src_kangourou_2023_ecolier__Q10]]

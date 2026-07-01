@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2010 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2010__Q03
 parent: src_cn_csmo_2010
 competition: China Southeastern Mathematical Olympiad 2010
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Inscribed circle intersects cevians; prove ratio of products equals 3*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Circolo inciso interseca i ceviani; rapporto di prova dei prodotti è uguale a 3< MSK1/>
+
+> Come mostrato nella figura. 3.1. Il cerchio $I$ di $\triangle ABC$ deve toccare $BC$ e $AB$ rispettivamente a $D$ e $F$. Il segmento $AD$ e il segmento $CF$ devono essere incrociati rispettivamente a $H$ e $K$. Provare che < MSK0/>
+
+![[src_cn_csmo_b11_w277__Q03.png]]
+
+[[src_cn_csmo_2010__Q03]]

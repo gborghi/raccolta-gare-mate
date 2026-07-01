@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo7yq_yosen__Q01
 parent: src_jjmo7yq_yosen
 competition: Japan Junior Mathematical Olympiad 2009 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of triangle OAB given nested right isosceles triangles, area of OCD is 12*
 
@@ -42,3 +45,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JSUMowa9JI8Y3BaqBeZ4gyyU1TBF9Jpp/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Area del triangolo OAB data la nidificazione dei triangoli a destra, area dell'OCD è di 12< MSK1/>
+
+> Nella figura seguente, i triangoli $OAB$, $OBC$, $OCD$ sono triangoli a piega retta con angolazioni rette rispettivamente $\angle OAB$, $\angle OBC$ e $\angle OCD$. Quando l'area del triangolo $OCD$ è $12$, trovare l'area del triangolo $OAB$.
+
+![[src_jjmo7yq_yosen__Q01.png]]
+
+**Risposta:** 3
+[[src_jjmo7yq_yosen__Q01]]

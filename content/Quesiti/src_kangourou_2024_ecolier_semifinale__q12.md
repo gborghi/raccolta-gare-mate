@@ -1,6 +1,7 @@
 ---
 title: Kangourou Semifinale individuale Ecolier 2024 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_semifinale__Q12
 parent: src_kangourou_2024_ecolier_semifinale
 competition: Kangourou Semifinale individuale Ecolier 2024
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ultime quattro cifre del primo numero vivace > 598764*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2345
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/162649dLxQWvMhDkp1XRH0AWwNRAJ6Vou/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Last four digits of the first digit of the live number > 598764*
+
+> (Points 6) Call vivace any number that, like 598.764, can be written using six consecutive digits, even if not listed in their natural order. Determine the first prime number greater than 598,764 and write its last four digits to the right. The answer is 2345. The solution. It's clear that the number you're looking for can't start with 5. If you have to start with 6, you get 612,345.
+
+**Answer:** 2345
+[[src_kangourou_2024_ecolier_semifinale__Q12]]

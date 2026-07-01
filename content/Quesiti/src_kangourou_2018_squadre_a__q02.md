@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2018 Semifinale A — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_squadre_a__Q02
 parent: src_kangourou_2018_squadre_a
 competition: Kangourou Coppa Squadre 2018 Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza del treno da due gallerie e tempi*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 160
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1whBjXMPOU50hYuAx5cQQRE2sNU_CkfUS/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Train length and timing of the two-way train*
+
+> A train traveling at constant speed, a train crosses two tunnels. The first is 980 meters long, and it takes 30 seconds from the train's head entering it to the tail leaving it. The second is 790 meters long, and it takes 25 seconds from when the train head enters to when the tail leaves. How long is the train?
+
+**Answer:** 160
+[[src_kangourou_2018_squadre_a__Q02]]

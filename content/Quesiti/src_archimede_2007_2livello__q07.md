@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2007 (biennio/triennio) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_2livello__Q07
 parent: src_archimede_2007_2livello
 competition: Archimede Gara 2° livello 2007 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punteggio Austria-Danimarca dalla classifica del girone*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Nnb4lxAHI0GOubJv2i1Z7wN2DIr-jhFs/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Austrian-Danish score from the Giro classification*
+
+> At the last World Cups, round A ended with the following ranking: Austria 7, Brazil 5, Cameroon 4, Denmark 0. Austria and Cameroon have each suffered a network. Brazil and Cameroon scored once, while Austria scored three times. With what score did Austria-Denmark finish? Note: Please note that in each match played in the round, the winning team gains 3 points, the losing team 0 points; in the event of a draw each of the two teams gains 1 point.
+>
+> - **(A)** 1–0
+> - **(B)** 2–1
+> - **(C)** 2–0
+> - **(D)** 0–0
+> - **(E)** the data provided alone cannot be determined.
+
+**Answer:** B
+[[src_archimede_2007_2livello__Q07]]

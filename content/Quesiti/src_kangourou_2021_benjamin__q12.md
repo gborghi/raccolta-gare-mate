@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Benjamin - gara marzo — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_benjamin__Q12
 parent: src_kangourou_2021_benjamin
 competition: Kangourou 2021 Benjamin - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza del percorso circolare piu esterno*
 
@@ -54,3 +57,18 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1mOAIQ3JkUndv9oyRIIqhOWVXUJymO16F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Length of outermost circular path*
+
+![[src_kangourou_2021_benjamin__prob12.png]]
+
+> The map shows the capitals A, B and C of three circular bus lines and some of the places they connect. • Capital route A - zoo - port - capital A is 10 km long; • Capital route B - park - zoo - capital B is 12 km long; • Capital route C - port - park - capital C is 13 km long; • The mixed route on three lines: zoo - park - port - zoo is 15 km long. How long is the circular path along the outermost road shown on the map? A) 18 B) 20
+> 	
+> C) 25 D) 35 E) 50
+
+**Answer:** B
+[[src_kangourou_2021_benjamin__Q12]]

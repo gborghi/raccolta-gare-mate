@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2015 — Honsen (Final) — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo25mq_honsen__Q05
 parent: src_jmo25mq_honsen
 competition: Japan Mathematical Olympiad 2015 — Honsen (Final)
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max number of a×a sub-grids with exactly a black cells among n chosen*
 
@@ -46,3 +49,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zjofx858zIB9CmusWvun9lZn5siZE_Lr/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numero massimo di a×una sotto-griglia con esattamente una cellula nera tra n scelti*
+
+> $a$ sia un numero intero positivo. Provare che per tutti gli integri sufficientemente grandi $n$ vale quanto segue:
+> 
+> Selezionare le celle $n$ da una griglia infinita e colorarle in nero. Il $K$ è il numero di $a \times a$ sottogridi (quadrati laterali allineati all'asse $a$) che contengono esattamente $a$ cellule nere. In questo caso, il valore massimo possibile di $K$ è $a(n + 1 - a)$.
+> 
+> (Qui, "rende per tutti $n$ sufficientemente grandi" significa che esiste un numero intero $N$ tale che l'indicazione rende per ogni $n \ge N$.)
+
+[[src_jmo25mq_honsen__Q05]]

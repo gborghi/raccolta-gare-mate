@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Benjamin — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin__Q16
 parent: src_kangourou_2014_benjamin
 competition: Kangourou 2014 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma cifre di numero a tre cifre con prodotto 135*
 
@@ -48,3 +51,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tri-digit number sum with product 135*
+
+> An integer has three digits: if we multiply them between them, we get 135. How much would you get if we added them up? A) 14
+> 	
+> B) 15
+> 	
+> C) 16
+> 	
+> D) 17
+> 	
+> E) 18
+
+**Answer:** D
+[[src_kangourou_2014_benjamin__Q16]]

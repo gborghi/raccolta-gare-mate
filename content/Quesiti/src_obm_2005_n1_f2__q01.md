@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n1_f2__Q01
 parent: src_obm_2005_n1_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 1 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Alcohol-gasoline mixture equalized by adding pure alcohol*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>miscela di alcol e benzina egualizzata con l'aggiunta di alcol puro< MSK1/>
+
+> Il serbatoio della macchina di Esmeralda ha una capacità di 60 litri e contiene una miscela di alcol del 20% e benzina dell'80%, a metà piena. Esmeralda chiese di aggiungere alcolici al serbatoio fino a che la miscela non diventasse uguale quantità di alcol e benzina. Quanti litri di alcol dovrebbero essere aggiunti?
+
+[[src_obm_2005_n1_f2__Q01]]

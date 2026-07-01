@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q03
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale frazione del quadrato grande e ombreggiata*
 
@@ -44,3 +47,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What is the large, shaded fraction of the square*
+
+![[src_kangourou_2020_cadet_marzo__prob3.png]]
+
+> In the figure you see a large square divided into six smaller squares and two triangles. What fraction of the large square is shaded? A) 4/5 B) 3/8
+> 	
+> C) 4/9 D) 1/3 E) 1/2
+
+**Answer:** E
+[[src_kangourou_2020_cadet_marzo__Q03]]

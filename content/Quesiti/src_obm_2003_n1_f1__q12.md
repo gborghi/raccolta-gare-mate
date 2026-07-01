@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2003_n1_f1__Q12
 parent: src_obm_2003_n1_f1
 competition: Olimpíada Brasileira de Matemática 2003 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Number of people at a feast given dish ratios*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XmhS71PXpUDkAI2mjdMYM-x18mnJTRMq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Numero di persone a un banchetto dato i rapporti dei piatti< MSK1/>
+
+> In una tipica festa, ogni piatto di riso è condiviso da 2 persone, ogni piatto di carne è condiviso da 4 persone, e ogni piatto di dessert è condiviso da 5 persone. Sono stati usati esattamente 77 piatti e tutti i piatti offerti sono stati serviti a tutti. Quante persone erano al banchetto?
+> 
+> (A) 20 \quad (B) 30 \quad (C) 45 \quad (D) 60 \quad (E) 75
+
+**Risposta:** D
+[[src_obm_2003_n1_f1__Q12]]

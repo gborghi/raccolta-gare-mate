@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n3_f3__Q04
 parent: src_obm_2004_n3_f3
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 3 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *10x10 table with digits 0–9 each 10 times; largest n guaranteeing a row/column with ≥n distinct digits*
 
@@ -49,3 +52,15 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c6ODX7lMgcQas-StqoLeTzsGE8LAzVUM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*10x10 tabella con cifre 09 ogni 10 volte; più grande n garantendo una riga/colonna con ≥n cifre distinte*
+
+> Considerate tutti i modi di inserire le cifre $0, 1, 2, \ldots, 9$ nelle celle di una tabella $10 \times 10$ in modo che ciascuna cifra appaia esattamente dieci volte.
+> 
+> Trovare il più grande intero $n$ con la proprietà che, in ogni posizionamento, una riga o una colonna contiene almeno $n$ cifre distinte.
+
+[[src_obm_2004_n3_f3__Q04]]

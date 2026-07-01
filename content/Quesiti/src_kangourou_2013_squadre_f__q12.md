@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa Squadre 2013 Finale — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_squadre_f__Q12
 parent: src_kangourou_2013_squadre_f
 competition: Kangourou Coppa Squadre 2013 Finale
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Intero piu vicino a 1000(x-y) tra due somme*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 5238
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1h0erpngyyOtHhXnwUKb09MnCQ4MEkNdI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Inter closer to 1000(x-y) between two sums *
+
+> You know that x is equal to 12/1 + 22/3 + 32/5 + ... + 102/19 and y is equal to 12/3 + 22/5 + 32/7 + ... + 102/21. What's the nearest integer to 1000(x  y) ?
+
+**Answer:** 5238
+[[src_kangourou_2013_squadre_f__Q12]]

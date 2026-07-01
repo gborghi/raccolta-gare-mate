@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Biennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_biennio__Q13
 parent: src_archimede_2016_biennio
 competition: Giochi di Archimede 2016 - Biennio
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *reincontro in un vertice*
 
@@ -50,3 +53,20 @@ tags:
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1w98Us2ogDSfVMh4NQofZesTOzitRRSQB/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*reconnection at a summit*
+
+> A motorcycle and a bicycle run a large square-shaped route, starting at the same time from one of the peaks and proceeding both clockwise. The side of the trail measures 90 km. The motorcycle travels at a constant speed of 65 km/h, the bicycle at 30 km/h. How many hours later will the two meet again at one of the four vertices of the trail?
+>
+> - **(A)** 7
+> - **(B)** 72/7
+> - **(C)** 30/7
+> - **(D)** 72
+> - **(E)** It will never happen again.
+
+**Answer:** D
+[[src_archimede_2016_biennio__Q13]]

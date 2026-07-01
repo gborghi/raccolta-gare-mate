@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2 —
   Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_nu_f2__Q03
 parent: src_obm_2002_nu_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível Universitário — Fase 2
@@ -41,6 +42,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sets with large size and small pairwise intersections; lower bound on union size*
 
@@ -51,3 +54,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18FduMAt9SA0ZkwnDWx59fSsj57iUYLA8/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieme con intersezioni di grande dimensione e piccole coppie; limite inferiore sulla dimensione dell'unione*
+
+> Si deve $A_1, A_2, \ldots, A_k \subseteq \{1, 2, \ldots, n\}$ essere impostato in modo tale che $|A_i| \ge \dfrac{n}{2}$ e $|A_i \cap A_j| \le \dfrac{n}{4}$ per tutti $i, j$ con $i \ne j$. Prove che $\displaystyle\left|\bigcup_{i=1}^{k} A_i\right| \ge \dfrac{k}{k+1} \cdot n$.
+
+[[src_obm_2002_nu_f2__Q03]]

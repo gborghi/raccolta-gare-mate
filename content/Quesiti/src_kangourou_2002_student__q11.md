@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q11
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Relazione tra aree dei triangoli*
 
@@ -47,3 +50,23 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Relationship between areas of triangles*
+
+![[src_kangourou_2002_student__prob11.png]]
+
+> The side figure shows 4 triangles with areas Ai (i = 0, 1, 2, 3). The triangle of area A0 is rectangular, the other three are equilateral. Then it is necessary:
+>  
+>  
+> A. A1 + A2 =A3 B. (A1 )2 + (A2 )2 = (A3 )2
+>  
+> C. A1 + A2 + A3 =3 A0 D. A1 + A2 =A3√ 2
+>  
+> E. None of the above answers are correct.
+
+**Answer:** A
+[[src_kangourou_2002_student__Q11]]

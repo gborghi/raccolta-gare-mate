@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Biennio — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_biennio__Q11
 parent: src_archimede_2005_biennio
 competition: Giochi di Archimede 2005 - Gara Biennio
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Terne di cifre con somma 10 per un lucchetto*
 
@@ -51,3 +54,20 @@ tags:
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dQPJ3pvuqmyEE5g3T4-glGozo_1X_H8j/view)
 **Anche in triennio:** [apri PDF p.1](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Term of digits with a sum of 10 for a lock*
+
+> Fabio finds an old combination lock; to open the lock you must align in the right order three digits, each of which can range from 0 to 9. Fabio doesn't remember the right combination, but he's sure the sum of the three digits is 10. How many attempts will you have to make, at most, to find the right combination?
+>
+> - **(A)** 61,
+> - **(B)** 63,
+> - **(C)** 65,
+> - **(D)** 67,
+> - **(E)** 69.
+
+**Answer:** B
+[[src_archimede_2005_biennio__Q11]]

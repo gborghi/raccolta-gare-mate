@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f2__Q02
 parent: src_obm_2016_n2_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 2
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max students who voted on math exam postponement*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pMNbGFlrYDlG-OKHRMZRxFDZCNFl1iD6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Max studenti che hanno votato sul rinvio degli esami di matematica< MSK1/>
+
+> In una classe, l'insegnante ha tenuto un voto per decidere se l'esame di matematica sarebbe stato rinviato o meno. Tutti gli studenti hanno votato e, di conseguenza, un terzo degli studenti ha votato a favore del rinvio e il resto ha votato contro. Diversi studenti hanno discusso e poi hanno votato di nuovo; 8 studenti hanno cambiato idea, così che $\frac{5}{9}$ degli studenti hanno finito per essere contro il rinvio. Quanti studenti hanno partecipato al voto?
+
+[[src_obm_2016_n2_f2__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Ecolier Finale 1 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier_squadre__Q05
 parent: src_kangourou_2023_ecolier_squadre
 competition: Kangourou Squadre 2023 Ecolier Finale 1
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prezzo bottiglia data promozione e risparmio*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0042
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/106K8XmralkXud0FCT7Eczyct88Hgj-sM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Bottle price given promotion and savings< MSK1/>
+
+> Bottles A wine shop offers the following promotion: if a customer buys two bottles of the same price (which is always an integer of EUR), he can choose whether to pay the second bottle half its price or 23 EUR, whatever its price. Sofia chose the first option and thus saved 2 euros compared to what she would have spent if she had chosen the second. How many euros was the selling price for each of the bottles you bought?
+
+**Answer:** 0042
+[[src_kangourou_2023_ecolier_squadre__Q05]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q30
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Proposizione falsa su somma di 4 dispari consecutivi*
 
@@ -66,3 +69,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*False proposition on the sum of 4 consecutive odd numbers*
+
+> Which of the following is false for the sum S of four consecutive odd positive integers, however chosen? A) S is equal to B) S can be multiplied by 16 C) S is never a perfect square D) S can be a perfect cube E) S is always greater than or equal to 16. (Perfect square means a number that can be expressed as the product of two equal integers, e.g. 4, 9, 25, 64; perfect cube means a number that can be expressed as the product of three equal integers, e.g. 8, 27, 64.) 1 2 4 3 ? 6 A B D C E F H G Texts_07.qxp
+> 
+> 1 Kangourou of Mathematics 2007 Category Benjamin For first or secondary school students of first grade
+
+**Answer:** C
+[[src_kangourou_2007_benjamin_marzo__Q30]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2013_n3_f2__Q03
 parent: src_obm_2013_n3_f2
 competition: Olimpíada Brasileira de Matemática 2013 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Evaluate sum involving 1/(n(n+1)) to find A+B*
 
@@ -52,3 +55,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Evaluare la somma che coinvolge 1/(n(n+1)) per trovare A+B*
+
+> Si osserva che $$\frac{1}{n(n+1)} = \frac{1}{n} - \frac{1}{n+1}.$$ Così possiamo calcolare la serie $$\sum_{n=2}^{\infty} \frac{1}{n(n+1)} = \frac{1}{1 \cdot 2} + \frac{1}{2 \cdot 3} + \frac{1}{3 \cdot 4} + \cdots = \left(1 - \frac{1}{2}\right) + \left(\frac{1}{2} - \frac{1}{3}\right) + \left(\frac{1}{3} - \frac{1}{4}\right) + \cdots = 1.$$ Sapendo che $\displaystyle\sum_{n=1}^{\infty} \frac{1}{n^2} = 1 + \frac{1}{4} + \frac{1}{9} + \cdots = \frac{\pi^2}{6}$, il valore di $$\sum_{n=1}^{\infty} \frac{1}{n(n+1)^2} = \frac{1}{1 \cdot 2^2} + \frac{1}{2 \cdot 3^2} + \frac{1}{3 \cdot 4^2} + \cdots$$ è della forma $A - \dfrac{\pi^2}{B}$, dove $A$ e $B$ sono interi positivi. Determinare il valore di $A + B$.
+
+[[src_obm_2013_n3_f2__Q03]]

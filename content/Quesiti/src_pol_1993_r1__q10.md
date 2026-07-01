@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1993 — Round 1 — Quesito 10
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1993_r1__Q10
 parent: src_pol_1993_r1
 competition: Olimpiade Matematica Polacca 1993 — Round 1
@@ -34,6 +35,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prove that a distance-non-increasing surjection of a cube onto itself is an isometry.*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pfxMK25RWdnix8tcn65nQI3pmNQmU4Ko/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dimostrare che un'isometria è una suriezione non in aumento di distanza di un cubo su se stesso.*
+
+> Che $\mathscr{C}$ sia un cubo e che $f:\mathscr{C}\to\mathscr{C}$ sia una suriezione tale che $|PQ|\ge|f(P)f(Q)|$ per tutti $P,Q\in\mathscr{C}$. Provare che $f$ è un'isometria.
+
+[[src_pol_1993_r1__Q10]]

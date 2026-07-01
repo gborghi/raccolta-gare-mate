@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo20yq_yosen__Q03
 parent: src_jmo20yq_yosen
 competition: Japan Mathematical Olympiad 2010 — Yosen (Preliminary)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max GCD of all six permutations of a 3-digit number with distinct nonzero digits*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 18
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Sfsh40WBf8uWguLAUFNpw2VnrGENHIJY/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Max GCD di tutte e sei le permutazioni di un numero a 3 cifre con cifre distinte non a zero*
+
+> Che $n$ sia un intero positivo a 3 cifre, tutti i cui numeri sono distinti e non zero. Che $g$ sia il più grande divisore comune di tutti e sei i numeri a 3 cifre ottenuti permutando i numeri di $n$. Trova il valore massimo possibile di $g$.
+
+**Risposta:** 18
+[[src_jmo20yq_yosen__Q03]]

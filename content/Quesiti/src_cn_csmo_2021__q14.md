@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2021 — Quesito 14
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2021__Q14
 parent: src_cn_csmo_2021
 competition: China Southeastern Mathematical Olympiad 2021
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all odd integer pairs (a,b)>1 satisfying Euler totient equation*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(a,b)=(15,3)$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le coppie di numeri interi dispari (a,b)>1 che soddisfano l'equazione totiente di Euler*
+
+> Trova tutte le coppie di integri unici $(a, b)$ con $a, b > 1$, in modo tale che $$7\varphi^2(a) - \varphi(ab) + 11\varphi^2(b) = b^2,$$ dove $\varphi(n)$ rappresenta il numero di integri positivi inferiori a $n$ e relativamente primi a $n$.
+
+**Risposta:** $(a,b)=(15,3)$
+[[src_cn_csmo_2021__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2018-19 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2018-19_round1__Q02
 parent: src_bmo_2018-19_round1
 competition: British Mathematical Olympiad 2018-19 — Round 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine how many n in [3,2018] allow an n-ring of positive integers with bounded neighbour products*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13TymyXW8f0WJOfcP7X3v5LIa1mrqdBop/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Determine quante n in [3,2018] consentono un anello di interi positivi con prodotti limitati vicini*
+
+> Per ogni intero positivo $n \ge 3$, definiamo un $n$-anello come un'arrangiamento circolare di integri positivi $n$ (non necessariamente diversi) in modo tale che il prodotto di tutti e tre integri vicini sia nell'intervallo $3 \le s \le 2018$ per gli integri nell'intervallo. Determinare il numero di integri $n$ nell'intervallo $3 \le n \le 2018$ per i quali è possibile formare un anello $n$.
+
+[[src_bmo_2018-19_round1__Q02]]

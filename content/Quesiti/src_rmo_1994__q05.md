@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 1994 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_1994__Q05
 parent: src_rmo_1994
 competition: Regional Mathematical Olympiad 1994
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Set of 16 positive integers with pairwise product not exceeding 1994*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g7BcJVpGLS1QPYQB55JoD22y1IjhP89c/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>insieme di 16 integri positivi con prodotto in coppia non superiore al 1994< MSK1/>
+
+> $A$ sia un insieme di 16 integri positivi con la proprietà che il prodotto di due numeri distinti di $A$ non supererà il 1994. Mostrare che ci sono due numeri $a$ e $b$ in $A$ che non sono relativamente primi.
+
+[[src_rmo_1994__Q05]]

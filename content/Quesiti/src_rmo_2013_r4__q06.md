@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 4 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r4__Q06
 parent: src_rmo_2013_r4
 competition: Regional Mathematical Olympiad 2013
@@ -37,6 +38,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Regular 20-gon vertices 3-coloured; three vertices same colour form isosceles triangle*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1A3xPqFuv-0CPhkgiaHaPOWIfaJVs8RuK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Regularmente i vertici di 20 goni sono di 3 colori; tre vertici dello stesso colore formano un triangolo di uguali osceli< MSK1/>
+
+> Supponiamo che i vertici di un poligono regolare di 20 lati siano colorati con tre colori  rosso, blu e verde  in modo tale che ci siano esattamente tre vertici rossi. Prove che ci sono tre vertici $A, B, C$ del poligono dello stesso colore in modo tale che il triangolo $ABC$ sia isosceles.
+
+[[src_rmo_2013_r4__Q06]]

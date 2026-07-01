@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n1_f1__Q02
 parent: src_obm_2006_n1_f1
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Bar chart: monoculture water/nutrient impact statements*
 
@@ -54,3 +57,22 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ckis-LjMvEA8TGP_DgOcJ2YSaxG6PXf-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Grafica a barre: dichiarazioni di impatto sull'acqua/nutrienti per monocultivazione*
+
+> Il seguente grafico presenta informazioni sull'impatto causato da 4 tipi di monocultivazione sul suolo. Per ciascun tipo di monocultivazione, il grafico mostra la quantità di acqua (in litri) e di nutrienti (azoto, fosforo e potassio), in chilogrammi, consumata per ettaro per produrre 1 kg di canna da zucchero, o 1 kg di soia, o 1 kg di mais, o 1 kg di legno di eucalipto. A proposito di queste monoculture, quale affermazione è corretta?
+>
+> - **(A)** L'eucalyptus ha bisogno di circa < MSK0/> della massa di sostanze nutritive che la canna da zucchero ha bisogno di sviluppare.
+> - **(B)** L'eucalyptus è il raccolto che più secca e impoverisce il suolo, causando uno squilibrio ambientale.
+> - **(C)** La soia è la coltura che ha bisogno di più nutrienti.
+> - **(D)** Il mais ha bisogno del doppio dell'acqua di soia.
+> - **(E)** La canna da zucchero è il raccolto che ha più bisogno di acqua per crescere.
+
+![[src_obm_2006_n1_f1__Q02.png]]
+
+**Risposta:** E
+[[src_obm_2006_n1_f1__Q02]]

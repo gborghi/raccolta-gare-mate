@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f3__Q04
 parent: src_obm_2004_n2_f3
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 3
@@ -39,6 +40,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-player game: alternately pick integer greater than double previous; who reaches 2004?*
 
@@ -51,3 +54,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kyVB4TIFReMV148PiDwXpCdF7gL7rBzq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Gioco a due giocatori: scegliere alternativamente un numero intero superiore al doppio del precedente; chi raggiunge il 2004?
+
+> In una partita per due giocatori, Arnaldo e Bernaldo scelgono alternativamente un intero positivo. A ogni turno, il numero scelto deve essere superiore al doppio dell'ultimo numero scelto. Il vincitore è il primo giocatore a scegliere il numero $2004$.
+> 
+> In questo gioco, Arnaldo va per primo e inizia con il numero $2$. Quale dei due giocatori ha una strategia vincente  cioè può garantire la scelta del numero $2004$ indipendentemente dalle mosse dell'avversario?
+
+[[src_obm_2004_n2_f3__Q04]]

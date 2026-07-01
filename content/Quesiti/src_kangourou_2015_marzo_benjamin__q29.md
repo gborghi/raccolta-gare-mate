@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Benjamin — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_benjamin__Q29
 parent: src_kangourou_2015_marzo_benjamin
 competition: Kangourou 2015 gara 19 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quella mancante*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1AiqamuCK6oQtEOLFArlQVHEyWohLlfzH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>the missing one< MSK1/>
+
+> Alberto scored four distinct points on a straight line and now, for each pair of points, he measures their distance. Of the six different numbers he gets, five are (in increasing order): 2, 3, 11, 12, 14. The missing one is under 14. What is it? A) 1
+> 	
+> B) 5
+> 	
+> C) 6
+> 	
+> D) 9 E) It could be 1 or 9.
+
+**Answer:** E
+[[src_kangourou_2015_marzo_benjamin__Q29]]

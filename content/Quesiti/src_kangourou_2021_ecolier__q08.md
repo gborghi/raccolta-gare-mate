@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Ecolier - gara marzo — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_ecolier__Q08
 parent: src_kangourou_2021_ecolier
 competition: Kangourou 2021 Ecolier - gara marzo
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Peso di ogni sfera bianca dalle bilance*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_8dsdi83awN8kEZ_QIrvDBoE_HS1o7uh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Weight of each white ball from the balance sheet*
+
+![[src_kangourou_2021_ecolier__prob8.png]]
+
+> Rossana has some spheres, three different colors. Spheres of the same colour have the same weight. The balance sheets in the figure show the overall weight of some groups of these spheres. What's the weight of each white sphere? (A) 3 kg B) 4 kg C) 5 kg D) 6 kg E) 7 kg I Questions from N. 9 al N. 16 is worth 4 points each.
+
+**Answer:** C
+[[src_kangourou_2021_ecolier__Q08]]

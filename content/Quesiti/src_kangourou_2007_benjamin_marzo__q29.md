@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Benjamin (marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_benjamin_marzo__Q29
 parent: src_kangourou_2007_benjamin_marzo
 competition: Kangourou 2007 Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del quadrato ABCD (parte ombreggiata 1)*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1sneW12L5R7fKpa9wAZFAkenvYcbMx0I1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of the square ABCD (shaded part 1) *
+
+![[src_kangourou_2007_benjamin_marzo__prob29.png]]
+
+> The two squares ABCD and EFGH shown are equal. The shaded part has area 1. What is the area of the square ABCD? A) 1 B) 2 C) 5/2 D) 3 E) The data are insufficient to answer.
+
+**Answer:** A
+[[src_kangourou_2007_benjamin_marzo__Q29]]

@@ -1,6 +1,7 @@
 ---
 title: Indian Olympiad Qualifier in Mathematics (IOQM) 2025 — Sep 28 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_ioqm_2025_sep28__Q24
 parent: src_ioqm_2025_sep28
 competition: Indian Olympiad Qualifier in Mathematics (IOQM) 2025
@@ -34,6 +35,8 @@ tags:
   - regione/sep28
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Positive integers a,b with 4^a+4a²+4=b²; find maximum a+b*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PH84Gc1LavrbGI7cJAZnf5GK9sO-aBX3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieri interi positivi a,b con 4^a+4a2+4=b2; trovare il massimo a+b*
+
+> Se $a$ e $b$ sono integri positivi che soddisfano $4^a + 4a^2 + 4 = b^2$, qual è il valore massimo possibile di $a + b$?
+
+[[src_ioqm_2025_sep28__Q24]]

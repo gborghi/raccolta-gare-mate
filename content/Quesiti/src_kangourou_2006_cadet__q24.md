@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Cadet (marzo) — Quesito 24
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_cadet__Q24
 parent: src_kangourou_2006_cadet
 competition: Kangourou 2006 - Cadet (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prima cifra del minimo numero con somma cifre 2006*
 
@@ -94,3 +97,38 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10e-TxscoDcp4M8uPj_boLZ3H3hYT107Z/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*First digit of the minimum number with sum 2006 *
+
+> What is the first digit of the smallest positive integer whose sum is 2006? A) 1 B) 3 C) 5 D) 6 E) 8 M I S S I S S I P P I K
+>  
+> I
+>  
+> L
+>  
+> I
+>  
+> M
+>  
+> A
+>  
+> N
+>  
+> J
+>  
+> A
+>  
+> R
+>  
+> O P S I S I M I S S P I
+>  
+> A B Cadet_06bis.qxp 20/02/2006 23.52 Page 20
+> 
+> I'm going to pay. I'm going to pay. 21 21 Kang 2006 Kang
+
+**Answer:** E
+[[src_kangourou_2006_cadet__Q24]]

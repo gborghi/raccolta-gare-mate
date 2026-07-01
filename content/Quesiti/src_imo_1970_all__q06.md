@@ -1,6 +1,7 @@
 ---
 title: IMO 1970 (Twelfth International Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1970_all__Q06
 parent: src_imo_1970_all
 competition: IMO 1970 (Twelfth International Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *At most 70% of triangles from 100 points are acute*
 
@@ -35,3 +38,13 @@ tags:
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>At most 70% of triangles from 100 points are acute< MSK1/>
+
+> In one plane there are 100 points, none of which are collinear with two others. Consider all possible triangles having such points as vertices. Demonstrate that no more than $70\%$ of these triangles is acutaneous.
+
+[[src_imo_1970_all__Q06]]

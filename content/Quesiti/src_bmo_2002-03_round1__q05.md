@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2002-03 — Round 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2002-03_round1__Q05
 parent: src_bmo_2002-03_round1
 competition: British Mathematical Olympiad 2002-03 — Round 1
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all positive integer solutions to factorial-power Diophantine equation*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qbsbqjxO0641BDChyC5CTANb8CFtOG6r/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutte le soluzioni a numeri interi positivi per l'equazione diofantina di potenza fattoriale*
+
+> Trova tutte le soluzioni in numeri interi positivi $a, b$ all'equazione $$a! + b! = a^b + b^a.$$
+
+[[src_bmo_2002-03_round1__Q05]]

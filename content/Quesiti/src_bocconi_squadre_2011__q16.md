@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2011 — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_squadre_2011__Q16
 parent: src_bocconi_squadre_2011
 competition: Gara a Squadre 2011
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Persone sedute al tavolo circolare con coppie miste*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 35
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csoOdxkAD8Fd4QvzRpEPzVVVOCkJ8l1C/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*People sitting at the round table in mixed pairs*
+
+> In a banquet, all the seats on the round table are occupied: 7 ladies have another lady on their right; 12 ladies instead have a man on their right; in turn, exactly 75% of the men present have a lady on their right. How many people are sitting around the table overall?
+
+**Answer:** 35
+[[src_bocconi_squadre_2011__Q16]]

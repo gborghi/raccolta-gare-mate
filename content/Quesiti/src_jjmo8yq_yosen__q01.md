@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo8yq_yosen__Q01
 parent: src_jjmo8yq_yosen
 competition: Japan Junior Mathematical Olympiad 2010 — Yosen (Preliminary)
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two-digit number stays 3 digits after multiplying by 7 twice*
 
@@ -38,3 +41,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un numero a due cifre rimane a 3 cifre dopo essere moltiplicato per 7 due volte*
+
+> C'è un intero positivo a due cifre. Quando viene moltiplicato per $7$, diventa un numero a tre cifre. Quando viene moltiplicato di nuovo per $7$, è ancora un numero a tre cifre. Quanti valori sono possibili per il numero intero originale?
+
+[[src_jjmo8yq_yosen__Q01]]

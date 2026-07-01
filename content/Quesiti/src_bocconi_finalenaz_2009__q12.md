@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2009 — Quesito
   12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2009__Q12
 parent: src_bocconi_finalenaz_2009
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2009
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di tre cifre in ordine decrescente con anagrammi multipli*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 630 ; 540 (due soluzioni)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of three digits in decreasing order with multiple anagrams*
+
+> A number diagram is a number composed of the same digits arranged in (possibly) different order. For example, the number 120 has four anagrams: 102, 120, 201, and 210 (the writing of a number never starts with 0). Now you have a three-digit number that has (at least) an anagram multiple of 2, (at least) an anagram multiple of 4, ... and (at least) an anagram multiple of $N$, with $N$ the largest possible value. What is this three-digit number, knowing that its digits are arranged in descending order?
+
+**Answer:** 630 ; 540 (due soluzioni)
+[[src_bocconi_finalenaz_2009__Q12]]

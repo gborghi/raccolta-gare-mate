@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2013 - 2 livello — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2013_febb_2livello__Q01
 parent: src_archimede_2013_febb_2livello
 competition: Archimede Gara di Febbraio 2013 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita di almeno una risposta giusta su 11 domande*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1sp-kWgl09qZoxHR4mX2G3kYxQ09DBF8B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of at least one correct answer to 11 questions*
+
+> Matteo has to take a crossword puzzle test with 11 questions. Each question has only one correct answer. The first question has 2 possible answers (A and B), the second question has 3 possible answers (A, B, C), and so on, until the 11th question has 12 possible answers. What is the probability that the random Matteo test will give at least one correct answer?
+>
+> - **(A)** 1 12!
+> - **(B)** 1 144
+> - **(C)** 1 2
+> - **(D)** 11 12
+> - **(E)** 121 144
+
+**Answer:** D
+[[src_archimede_2013_febb_2livello__Q01]]

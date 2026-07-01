@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q23
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area intersezione di due quadrati*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Intersecting area of two squares*
+
+![[src_kangourou_2006_junior_marzo__prob23.png]]
+
+> Two squares of 1 metre side are in the position indicated in the figure: they share a vertex and one side of one of the two beds on a diagonal of the other. What is the area of the quadrilateral at their intersection in square meters? A)               B) C) D) E)
+
+**Answer:** A
+[[src_kangourou_2006_junior_marzo__Q23]]

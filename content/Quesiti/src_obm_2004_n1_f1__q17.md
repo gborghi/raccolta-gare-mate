@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f1__Q17
 parent: src_obm_2004_n1_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Fraction of people with blonde hair from a pie chart*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5klwGzekjemeBkehc3fYHvu2LhwtAV5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Fraczione di persone con i capelli biondi da un grafico delle torte< MSK1/>
+
+> I risultati di un sondaggio sul colore dei capelli delle persone < MSK0/> sono riportati nella tabella delle torte qui sotto. Il grafico mostra: castagna < MSK1/>, nero < MSK2/>, auburn < MSK3/> e bionda (il resto del settore). Quante di queste persone hanno i capelli biondi?
+> 
+> (A) $60$ \quad (B) $320$ \quad (C) $360$ \quad (D) $400$ \quad (E) $840$
+
+**Risposta:** C
+[[src_obm_2004_n1_f1__Q17]]

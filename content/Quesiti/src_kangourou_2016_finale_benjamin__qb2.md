@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 finale nazionale Benjamin — Quesito B2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_finale_benjamin__QB2
 parent: src_kangourou_2016_finale_benjamin
 competition: Kangourou 2016 finale nazionale Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *lato del triangolo piu grande*
 
@@ -37,3 +40,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 19
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hKl3-m8efCrVdgDmp4AKfiZmOp4Irx2d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>side of the largest triangle < MSK1/>
+
+![[src_kangourou_2016_finale_benjamin__probB2.png]]
+
+> Look at the figure. All the triangles you can see are equilateral: the sides of the black one (the smallest one) are $2$ cm long, the sides of the gray ones are all $5$ cm long. How long are the sides of the largest triangle (the one that contains them all)? As the figure suggests, the sides of grey triangles and black triangles that have vertices in common are on the same straight line. (see figure)
+
+**Answer:** 19
+[[src_kangourou_2016_finale_benjamin__QB2]]

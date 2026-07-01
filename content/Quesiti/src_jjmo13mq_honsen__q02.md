@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2015 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo13mq_honsen__Q02
 parent: src_jjmo13mq_honsen
 competition: Japan Junior Mathematical Olympiad 2015 — Honsen (Final)
@@ -29,6 +30,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Maximum of a two-variable rational expression*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KO6vJDo2NFREQnMe8CLBm6pqNrYJc_o-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Maximo espressione razionale a due variabili*
+
+> Come $x,y$ intervallo su tutti i numeri reali, trovare il valore massimo di $$\frac{(xy+x+y-1)^2}{(x^2+1)(y^2+1)}.$$
+
+[[src_jjmo13mq_honsen__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Ecolier (gara marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_ecolier__Q12
 parent: src_kangourou_2011_ecolier
 competition: Kangourou 2011 Ecolier (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale lettera non coperta piegando il foglio*
 
@@ -65,3 +68,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1zmvNfFxc-eG7MDwWWrU70iidpqVgyuZa/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which letter is not covered by folding the sheet*
+
+![[src_kangourou_2011_ecolier__prob12.png]]
+
+> Note the figure: If you fold the sheet along the line, which letter will not be covered in a gray square? A) A B) B C) C D) D E) and B) A) C) D) E) A B D E C
+> 
+> I'm going to pay. I'm going to pay. 7 Kang 201 Kang 2011
+
+**Answer:** E
+[[src_kangourou_2011_ecolier__Q12]]

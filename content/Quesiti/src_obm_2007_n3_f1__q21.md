@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1 — Quesito 21
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n3_f1__Q21
 parent: src_obm_2007_n3_f1
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 3 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *At which listed time is the angle between clock hands smallest*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1phTZyNXq38lPPpmVgAQtu6VYCLZz0aeL/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Al momento indicato l'angolo tra le mani dell'orologio è il più piccolo*
+
+> Determinare a quale dei tempi al di sotto dell'angolo determinato dalle mani di un orologio è il più piccolo.
+> 
+> (A) $02\mathrm{h}30$ \quad (B) $06\mathrm{h}20$ \quad (C) $05\mathrm{h}40$ \quad (D) $08\mathrm{h}50$ \quad (E) $09\mathrm{h}55$
+
+**Risposta:** E
+[[src_obm_2007_n3_f1__Q21]]

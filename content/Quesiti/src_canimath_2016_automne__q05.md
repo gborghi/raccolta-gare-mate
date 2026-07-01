@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2016 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2016_automne__Q05
 parent: src_canimath_2016_automne
 competition: Coupe Animath Automne 2016
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all balanced four-digit palindromes that are sums of two four-digit palindromes*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i palindromi a quattro cifre equilibrati che sono somme di due palindromi a quattro cifre*
+
+> Un palindromo è un numero la cui rappresentazione decimale non cambia quando le cifre sono invertite. Ad esempio, 3773 è un palindromo. Un numero $\overline{abcd}$ viene chiamato *equilibrato* se $a + b = c + d$ (ad esempio, 2736 è equilibrato). Determina tutti i numeri quadriciferi bilanciati che sono la somma di due palindromi quadriciferi.
+> 
+> *Nota: un palindromo non può iniziare con uno zero. Ad esempio, il 0770 non è un palindromo.*
+
+[[src_canimath_2016_automne__Q05]]

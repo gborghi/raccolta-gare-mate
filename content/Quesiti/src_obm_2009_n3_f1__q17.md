@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n3_f1__Q17
 parent: src_obm_2009_n3_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 3 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Over all Goldbach representations of 126 as a sum of two primes, find the largest difference between the two primes.*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+In tutte le rappresentazioni di Goldbach di 126 come somma di due numeri primi, trovi la differenza più grande tra i due numeri primi.
+
+> La famosa Conjectura di Goldbach dice che ogni numero intero pari maggiore di $2$ può essere scritto come la somma di due numeri primi. Ad esempio, $18$ può essere rappresentato come $5 + 13$ o, anche, come $7 + 11$. Considerando tutte le possibili rappresentazioni di $126$ come somma di due numeri primi, qual è la più grande differenza tra i due numeri primi che lo formano? (A) $112$ (B) $100$ (C) $92$ (D) $88$ (E) $80$
+
+[[src_obm_2009_n3_f1__Q17]]

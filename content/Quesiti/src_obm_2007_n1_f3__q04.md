@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2007_n1_f3__Q04
 parent: src_obm_2007_n1_f3
 competition: Olimpíada Brasileira de Matemática 2007 — Nível 1 — Fase 3
@@ -40,6 +41,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Construct tables of natural numbers whose row and column sums are exactly 1 through n; determine feasibility*
 
@@ -66,3 +69,29 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CZ3_wEdYuEm-6txjoEjsnqhbbQsygS85/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Construire tabelle di numeri naturali le cui somme di righe e colonne sono esattamente da 1 a n; determinare la fattibilità*
+
+> Considerate la seguente tabella con quattro righe (linee orizzontali) e quattro colonne (linee verticali), riempite di numeri naturali, in cui le ripetizioni sono ammesse:
+> 
+> $$\begin{array}{|c|c|c|c|}\hline 1 & 0 & 0 & 3 \\ \hline 5 & 1 & 2 & 4 \\ \hline 1 & 1 & 2 & 3 \\ \hline 6 & 1 & 4 & 0 \\ \hline \end{array}$$
+> 
+> Quando sommiamo ciascuna delle sue righe (L1, L2, L3, L4) e colonne (C1, C2, C3, C4), otteniamo 8 numeri distinti: $3, 4, 7, 8, 10, 11, 12, 13$. Come mostrato nella tabella seguente:
+> 
+> $$\begin{array}{|c|c|c|c|c|}\hline & C1 & C2 & C3 & C4 & \text{Row sum} \\ \hline L1 & 1 & 0 & 0 & 3 & 4 \\ \hline L2 & 5 & 1 & 2 & 4 & 12 \\ \hline L3 & 1 & 1 & 2 & 3 & 7 \\ \hline L4 & 6 & 1 & 4 & 0 & 11 \\ \hline \text{Col sum} & 13 & 3 & 8 & 10 & \\ \hline \end{array}$$
+> 
+> Determinare, se possibile:
+> 
+> a) Una tabella con 4 righe e 4 colonne, costituita da numeri naturali (si consentono ripetizioni di numeri), in cui la somma della riga e della colonna è esattamente il numero da 1 a 8.
+> 
+> b) Una tabella con 8 righe e 8 colonne, costituita da numeri naturali (si consentono ripetizioni), in cui la somma delle righe e delle colonne è esattamente il numero da 1 a 16.
+> 
+> c) Una tabella con 9 righe e 9 colonne, costituita da numeri naturali (si consentono ripetizioni), in cui la somma delle righe e delle colonne è esattamente il numero da 1 a 18.
+> 
+> **Nota: ** Se non è possibile costruire una tabella, è necessario spiegare il motivo.
+
+[[src_obm_2007_n1_f3__Q04]]

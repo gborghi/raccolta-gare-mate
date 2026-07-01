@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara marzo Student (triennio) — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_student_marzo__Q20
 parent: src_kangourou_2019_student_marzo
 competition: Kangourou 2019 Gara marzo Student (triennio)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Risultato corretto di (a+b)/c dati due risultati errati*
 
@@ -52,3 +55,22 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1HwjFU12BtxFf61HsPYXKD4UpynNobrII/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Right result of (a+b)/c given two wrong results*
+
+> To calculate the value of , where a, b and c are three fixed positive integers, Giorgio types in the order on the keyboard a + b: c = and obtains as a result 11. Then he tries to type b + a: c = and, to his surprise, he gets 14. The calculator is programmed to calculate the divisions before the sums. If he had typed correctly a + b -------- c what would he have gotten? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 4
+> 	
+> E) 5 Questions from N. 21 al N. 30 is worth 5 points each.
+
+**Answer:** E
+[[src_kangourou_2019_student_marzo__Q20]]

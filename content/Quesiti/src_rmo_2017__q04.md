@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2017 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2017__Q04
 parent: src_rmo_2017
 competition: Regional Mathematical Olympiad 2017
@@ -31,6 +32,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum colours to colour n^2 unit squares with distinct-centre condition*
 
@@ -41,3 +44,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aTvWjjCyaztnP6zBTHomfMlYOKdjp_YI/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Minimum di colori per colori n^2 quadrati unitari con condizione di centro distinta< MSK1/>
+
+> Considerare i quadrati di unità $n^2$ nel piano $xy$ centrato al punto $(i, j)$ con coordinate interi, $1 \le i \le n$, $1 \le j \le n$. È necessario colorare ogni quadrato unitario utilizzando uno dei colori $k$ in modo che due quadrati con centri a distanza pari a $\sqrt{5}$ l'uno dall'altro abbiano colori distinti. Qual è il minimo < MSK7/> possibile?
+
+[[src_rmo_2017__Q04]]

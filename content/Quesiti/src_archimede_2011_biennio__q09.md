@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2011 - Biennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2011_biennio__Q09
 parent: src_archimede_2011_biennio
 competition: Giochi di Archimede 2011 - Biennio
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area quadrilatero GEHF in parallelogramma*
 
@@ -46,3 +49,22 @@ tags:
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
 **Anche in triennio:** [apri PDF p.7](https://drive.google.com/file/d/1Gu71ZfE2PWxuxQ8j30Sly_LAuUBR1dOC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Real area of GEHF in parallelogram *
+
+![[src_archimede_2011_biennio__prob9.png]]
+
+> The mean widths of the interior angles of a polygon is 175°. How many sides does the polygon have?
+>
+> - **(A)** 18,
+> - **(B)** 25,
+> - **(C)** 60,
+> - **(D)** 72,
+> - **(E)** 80.
+
+**Answer:** D
+[[src_archimede_2011_biennio__Q09]]

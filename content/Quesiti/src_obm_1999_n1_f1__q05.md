@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n1_f1__Q05
 parent: src_obm_1999_n1_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 1 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Simplify half of $2^{10} + 4^5$.*
 
@@ -47,3 +50,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aWvXDv7cqeiuDpQ1WjtMdqzHgrwVayj5/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK1/>Semplificare la metà di < MSK0/>.< MSK2/>
+
+> Il valore di $\dfrac{2^{10} + 4^5}{2}$ è uguale a:
+> 
+> (A) $2^9 + 4^4$ \quad (B) $2^9 + 2^5$ \quad (C) $1^{10} + 2^5$ \quad (D) $2^{10} + 4^4$ \quad (E) $2^9 + 4^5$
+
+**Risposta:** D
+[[src_obm_1999_n1_f1__Q05]]

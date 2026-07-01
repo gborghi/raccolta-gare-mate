@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2008 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2008__Q07
 parent: src_cn_cmc_2008
 competition: China Mathematical Competition 2008
@@ -32,6 +33,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find a+b for iterated linear function with given seventh iterate*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 5
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova a+b per la funzione lineare iterata con data settima iterata*
+
+> Se $f(x) = ax + b$, con $a, b$ numeri reali; $f_1(x) = f(x)$, $f_{n+1}(x) = f(f_n(x))$, $n = 1, 2, \ldots$ Se $f_7(x) = 128x + 381$, $a + b = $ ________.
+
+**Risposta:** 5
+[[src_cn_cmc_2008__Q07]]

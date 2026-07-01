@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2011 (prova 2) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2011_g2__Q17
 parent: src_bocconi_finaleint_2011_g2
 competition: >-
@@ -39,6 +40,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dimensioni del campo ovale di Padre Ovo*
 
@@ -52,3 +55,16 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(36,64)$, $(130,158)$, $(96,144)$, $(50,90)$, $(112,152)$, $(42,82)$, $(84,136)$, $(58,110)$ (larghezza, lunghezza)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16hZgFkCDgzLDlq4ET--WbM9ElnX4QQ-p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Dimensions of the oval field of Padre Ovo< MSK1/>
+
+> Father Ovo's field is a rectangle. It contains an oval pond (in grey in the figure) whose edge consists of four circular arches. Each arc is tangent to one side of the rectangle at its center point and tangentially connects to the two adjacent arcs. The radius of the two arcs on the left and right is 16 m. The radius of the two arches up and down is 81 meters. What are the width and length of the rectangle, knowing that they are integers of meters? Note: the centre of a circle is not necessarily placed inside the rectangle.
+
+![[src_bocconi_finaleint_2011_g2__Q17.png]]
+
+**Answer:** $(36,64)$, $(130,158)$, $(96,144)$, $(50,90)$, $(112,152)$, $(42,82)$, $(84,136)$, $(58,110)$ (larghezza, lunghezza)
+[[src_bocconi_finaleint_2011_g2__Q17]]

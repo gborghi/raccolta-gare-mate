@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2008 — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2008__Q03
 parent: src_bocconi_autunno_2008
 competition: Giochi d'Autunno 2008
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Età di Sara il 20 agosto 2009*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Sara avrà 13 anni e 11 giorni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Oim936YYtsglRbdjya8mMLO9ns3O2HLY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Age of Sara on 20 August 2009*
+
+> On 20 August 2008, Sara will be 11 years, 11 months and 11 days old. How old will you be on August 20, 2009?
+
+**Answer:** Sara avrà 13 anni e 11 giorni
+[[src_bocconi_autunno_2008__Q03]]

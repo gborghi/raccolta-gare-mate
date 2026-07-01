@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Ecolier finale nazionale — Quesito E3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_ecolier_finale__QE3
 parent: src_kangourou_2004_ecolier_finale
 competition: Kangourou 2004 Ecolier finale nazionale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante tessere del domino 0-0..8-8*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 45
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1G2cU6gqsfkcIkAJRkZw-THMtabRgrAjY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many cards in the 0-0..8-8 domain < MSK1/>
+
+![[src_kangourou_2004_ecolier_finale__probE3.png]]
+
+> A variation of the game of dominoes contains all the cards with the number pairs between double zero and double eight. Each number pair is exactly once. For example, the card in the figure is $2 \times 4$ but also $4 \times 2$. How many cards do you have for the game? (see figure)
+
+**Answer:** 45
+[[src_kangourou_2004_ecolier_finale__QE3]]

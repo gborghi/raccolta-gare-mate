@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2017 - 2 livello — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_febb_2livello__Q14
 parent: src_archimede_2017_febb_2livello
 competition: Archimede Gara di Febbraio 2017 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Lunghezza EF con triangoli congruenti e angoli dati*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*EF length with congruent triangles and data angles*
+
+> Whether ABCD is a convex quadrilateral, F a point on the CD segment, and AC's intersection point with BF. It is known that AB = FC, AE = 14, BE = 10 < MSK1/> 2, \ BAC = \ BFD, \ BEA = < MSK0/>. How large is the EF segment?
+
+**Answer:** 6
+[[src_archimede_2017_febb_2livello__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Nazionale 2026 - Semifinale 1 — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2026_squadre_semifinale1__Q12
 parent: src_archimede_2026_squadre_semifinale1
 competition: Gara a Squadre Nazionale 2026 - Semifinale 1
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Colorazioni 18 scudi con 13 coppie adiacenti uguali*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2156
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GFpvTkI-gMuoNTzosaFnrE5jWYM-PpYX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Colors 18 shields with 13 equal adjacent pairs*
+
+> Challenge on the shields Eugenio Trovarelli It is the day of the long-awaited Quamditch challenge between the team of Rapportaureo and that of Perognesiste, captained by Cedric Villany. Hardy notes that at the end of the racecourse there are 18 shields in a row, each painted with the color of one of the two houses (red or yellow), and that the number of yellow shields is strictly greater than the number of red shields. Before climbing on his broom, Hardy, a little nervous, observes by accident that, of all the adjacent shield pairs, exactly 13 are made up of shields of the same color. How many possible shield colors are there?
+
+**Answer:** 2156
+[[src_archimede_2026_squadre_semifinale1__Q12]]

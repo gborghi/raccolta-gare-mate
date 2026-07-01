@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Junior - Semifinale individuale — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_junior_semifinale__Q05
 parent: src_kangourou_2017_junior_semifinale
 competition: Kangourou 2017 Junior - Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di addendi impossibile per somma di cubi 2017*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wcjQloPFR27i6zyeHrMFz2T13JxlzXfM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of impossible additions by sum of cubes 2017*
+
+> (Points 4) A sum of positive integer cubes is 2017. Which of the following cannot be the number of additions?
+>
+> - **(A)** 3
+> - **(B)** 4
+> - **(C)** 2000
+> - **(D)** 2010
+> - **(E)** 2017
+
+**Answer:** C
+[[src_kangourou_2017_junior_semifinale__Q05]]

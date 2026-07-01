@@ -1,6 +1,7 @@
 ---
 title: Coppa Fermat 2010 - Gara a squadre — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gs_2010_squadre__Q06
 parent: src_gs_2010_squadre
 competition: Coppa Fermat 2010 - Gara a squadre
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area terreni incolti fra lago e recinti*
 
@@ -35,3 +38,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of uncultivated land between lake and fences*
+
+> **Lake in the park** (point 30)
+> 
+> A park comprises a square lake, each shore of which forms the base of an equilateral triangle-shaped oval. The four tops of the gulls that are not on the lake are joined by two to two straight fences. The land between the fences and the fences is left untouched. The area of the lake is $9747$ square meters, how many square meters is the area of the uncultivated land?
+
+[[src_gs_2010_squadre__Q06]]

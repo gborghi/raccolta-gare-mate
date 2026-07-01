@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 squadre semifinale — Quesito 1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_squadre_semifinale__Q01
 parent: src_kangourou_2009_squadre_semifinale
 competition: Kangourou 2009 squadre semifinale
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Esiti distinti lanciando 6 rosse e 5 verdi in scatola*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 42
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1NrckWoWrMkHD4Cs4_FeU6-9nyCfZAut8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Separate results by throwing 6 reds and 5 greens into the box< MSK1/>
+
+> Each pedal is exactly in a few boxes and there is no more than one in each box;
+
+**Answer:** 42
+[[src_kangourou_2009_squadre_semifinale__Q01]]

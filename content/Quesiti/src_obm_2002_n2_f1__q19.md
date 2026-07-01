@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n2_f1__Q19
 parent: src_obm_2002_n2_f1
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count occurrences of digit 5 in all integers from 100 to 999*
 
@@ -52,3 +55,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ukt1uiJQNk_524DspSku5rcM-zdwegvz/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Conteggio delle frequenze della cifra 5 in tutti i numeri interi da 100 a 999*
+
+> Quando si scrivono tutti i numeri interi da $100$ a $999$, quante volte appare la cifra $5$?
+>
+> - **(A)** $250$
+> - **(B)** $270$
+> - **(C)** $271$
+> - **(D)** $280$
+> - **(E)** $292$
+
+**Risposta:** D
+[[src_obm_2002_n2_f1__Q19]]

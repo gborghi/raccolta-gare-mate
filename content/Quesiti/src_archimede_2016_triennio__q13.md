@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Triennio — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_triennio__Q13
 parent: src_archimede_2016_triennio
 competition: Giochi di Archimede 2016 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Confronto di radici n/(n-1) minimo*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum root comparison n/(n-1) *
+
+> Which of these numbers is the smallest?
+>
+> - **(A)** √ 2018 2017
+> - **(B)** √ 2016 2015
+> - **(C)** √ 2019 2018
+> - **(D)** √ 2017 2016
+> - **(E)** √ 2020 2019
+
+**Answer:** E
+[[src_archimede_2016_triennio__Q13]]

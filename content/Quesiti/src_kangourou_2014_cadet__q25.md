@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Cadet — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_cadet__Q25
 parent: src_kangourou_2014_cadet
 competition: Kangourou 2014 marzo Cadet
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto tra le velocità delle due parti del viaggio*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1quz9t5wsEEot3GuEgNf2ZiWIq5aCkB5u/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ratio between the speeds of the two parts of the journey*
+
+> Vincenzo used to go from the center of the village to his garden by bicycle. Today he had planned to arrive at 3 p.m. but, after covering 3/4 of the distance travelled at constant speed, he realized that he had taken 2/3 of the time planned for the full journey. From that point on, he rode more smoothly, always at a steady speed, and arrived at the time he had planned. What is the relationship between the speed of the first part and that of the second part of the journey? A) 5 : 4 B) 4 : 3 C) 3 : 2 D) 2 : 1 E) 3 : 1
+
+**Answer:** C
+[[src_kangourou_2014_cadet__Q25]]

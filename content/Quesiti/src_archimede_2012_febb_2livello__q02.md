@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara Febbraio 2012 (8 feb) - 2 livello — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_febb_2livello__Q02
 parent: src_archimede_2012_febb_2livello
 competition: Archimede Gara Febbraio 2012 (8 feb) - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Torneo calcio balilla, tempo che Marco gioca in difesa*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1_iEEVxGhqyggKnWE2YALvSO2f4WdGhY7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Football tournament, time Marco plays in defence*
+
+> Marco, Fabrizio and Giovanni, three mathematicians, challenge a group of four physicists at a football tournament. They play a match for every possible combination of two mathematicians (one in attack, one in defense) against two physicists (one in attack, one in defense). Each match has the same duration, and in total the tournament lasts 24 hours (without breaks). How long does Marco play defense? It should be noted that, for example, there will be two different encounters of Marco and Fabrizio against a certain attacker and a certain defender among physicists: one with Marco attacking and Fabrizio defender, one vice versa.
+>
+> - **(A)** 2 hours and 24 minutes
+> - **(B)** 4 hours and 48 minutes
+> - **(C)** 6 hours
+> - **(D)** 8 hours
+> - **(E)** 12 hours.
+
+**Answer:** D
+[[src_archimede_2012_febb_2livello__Q02]]

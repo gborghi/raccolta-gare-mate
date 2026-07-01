@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2007 - Gara Biennio — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2007_biennio__Q05
 parent: src_archimede_2007_biennio
 competition: Giochi di Archimede 2007 - Gara Biennio
@@ -23,6 +24,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Segni di a,b con a+b<0 e ab>0*
 
@@ -39,3 +42,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1v9U9yjeq4uMHaGobdL92WPa5S1S9eTET/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Signs of a,b with a+b<0 and ab>0*
+
+> If a and b are two numbers such that a + b < 0 and a · b > 0, which of the following is true?
+>
+> - **(A)** a > 0 e b > 0,
+> - **(B)** a < 0 e b < 0,
+> - **(C)** a > 0 e b < 0,
+> - **(D)** a > −b,
+> - **(E)** b > −a.
+
+**Answer:** B
+[[src_archimede_2007_biennio__Q05]]

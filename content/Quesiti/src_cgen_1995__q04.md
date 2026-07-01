@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 1995 — Matematica — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_1995__Q04
 parent: src_cgen_1995
 competition: Concours Général des Lycées 1995 — Matematica
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Six points with pairwise distances summing to i+j*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sei punti con distanze in coppia che si sommano a i+j*
+
+> Che $A_1$, $A_2$, $A_3$, $B_1$, $B_2$, $B_3$ siano sei punti nel piano in modo tale che per tutti gli integri $i$ e $j$ in $\{1, 2, 3\}$: $$A_i B_j = i + j.$$ Cosa si può dire di questi sei punti?
+
+[[src_cgen_1995__Q04]]

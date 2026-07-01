@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q30
 parent: src_kangourou_2019_benjamin_marzo
 competition: Kangourou 2019 Gara di Marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti gettoni rossi ha ora Filippo dopo 10 giocate*
 
@@ -51,3 +54,23 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1mCVu8mcZWozh4A9IixxiUAmKQbLsElwm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+How many red chips does Philip have now after 10 games?
+
+> Philip plays with two token-changing machines: one gives four red tokens for one white, the other gives three white tokens for one red. By placing one token at a time in one of the two machines and being able to use both, after playing 10 times, the Philippines finds 28 tokens. Knowing that, before you played, you had four white chips, how many red chips do you have now? A) 21
+> 	
+> B) 17
+> 	
+> C) 10
+> 	
+> D) 27
+> 	
+> E) 11
+>
+
+**Answer:** C
+[[src_kangourou_2019_benjamin_marzo__Q30]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2008 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2008_r1__Q06
 parent: src_pol_2008_r1
 competition: Olimpiade Matematica Polacca 2008 — Round 1
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all real-coefficient polynomials W(x) with W(x^2)W(x^3) = W(x)^5 for all real x.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i polinomi di coefficiente reale W(x) con W(x^2) W(x^3) = W(x)^5 per tutti gli x reali.*
+
+> Trovare tutti i polinomi $W(x)$ con coefficienti reali in modo tale che $W(x^2) W(x^3) = W(x)^5$ sia valido per ogni numero reale $x$.
+
+[[src_pol_2008_r1__Q06]]

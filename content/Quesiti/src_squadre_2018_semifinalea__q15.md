@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Semifinale A — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_semifinalea__Q15
 parent: src_squadre_2018_semifinalea
 competition: Gara a Squadre 2018 - Semifinale A
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangolo con angoli dati, ampiezza angolo PAK*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0025
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangle with data angles, angular width PAK*
+
+> An animal physicist \ DOC left the loyal Eisenstein in an extra-temporal enclosure, which in spatial dimensions is an ABC triangle with angles in A,B,C of 50, 60, 70 degrees respectively. If H is the height foot coming out of B and K the point on AB with AH = AK, a straight fence perpendicular to AB joins K to the BH segment, which intersects in P. Eisenstein, endowed with great physical sense, immediately estimates the amplitude in degrees of \PAK: what value does he find?
+
+**Answer:** 0025
+[[src_squadre_2018_semifinalea__Q15]]

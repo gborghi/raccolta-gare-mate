@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Semifinale A — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_semifinalea__Q12
 parent: src_squadre_2018_semifinalea
 competition: Gara a Squadre 2018 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Anni a 4 cifre con migliaia >= somma altre cifre*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0714
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>4-digit years with thousands >= sum of other digits< MSK1/>
+
+> Time circuits have been damaged by lightning: now the DeuLerean can only reach four-digit years such that the number of thousands is greater or equal to the sum of the other three. Little bad says \ DOC, and quickly calculates how many different years it can travel. What number do you get? It means that a four-digit number has the number of thousands, not nothing.
+
+**Answer:** 0714
+[[src_squadre_2018_semifinalea__Q12]]

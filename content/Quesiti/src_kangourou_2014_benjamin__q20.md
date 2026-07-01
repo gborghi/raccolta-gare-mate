@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Benjamin — Quesito 20
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin__Q20
 parent: src_kangourou_2014_benjamin
 competition: Kangourou 2014 marzo Benjamin
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Faccia opposta alla 4 del cubo numerato*
 
@@ -50,3 +53,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Face opposite to 4 of the numbered cube*
+
+> The faces of a cube are numbered from 1 to 6. We know that faces 1 and 6 have a joint and that the same thing happens to faces 1 and 5, 1 and 2, 6 and 5, 6 and 4, 6 and 2. Which face is opposite face 4? A) 1
+> 	
+> B) 2
+> 	
+> C) 3
+> 	
+> D) 5
+>         
+> E) Further information is needed to answer. Questions from n. 21 al n. 30 is worth 5 points each.
+
+**Answer:** A
+[[src_kangourou_2014_benjamin__Q20]]

@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2023 - Gara Biennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_biennio__Q14
 parent: src_archimede_2023_biennio
 competition: Giochi di Archimede 2023 - Gara Biennio
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quadratini attraversati dalla diagonale di rettangolo 83x120*
 
@@ -48,3 +51,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cdaCakhnUhZtz4LlgOmVvJJRpalObqKb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Squares crossed by the diagonal of the rectangle 83x120*
+
+> After drawing a rectangle measuring 83×120 cm, Riccardo divides it into 83·120 = 9960 squares of 1 cm2, then draws a diagonal of the rectangle. How many squares do you cross from the diagonal?
+>
+> - **(A)** 120
+> - **(B)** 181
+> - **(C)** 183
+> - **(D)** 202
+> - **(E)** 193
+
+**Answer:** D
+[[src_archimede_2023_biennio__Q14]]

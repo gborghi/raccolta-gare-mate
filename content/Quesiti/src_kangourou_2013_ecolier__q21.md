@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2013 marzo Ecolier — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2013_ecolier__Q21
 parent: src_kangourou_2013_ecolier
 competition: Kangourou 2013 marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di ripartire 10 campanelle in tre spese uguali*
 
@@ -45,3 +48,19 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/13Dn-lFJ5--skgtkKV5nLpZ5Tv3-3Tm22/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to divide 10 bells into three equal charges*
+
+> In one store there are 10 increasing-sized glass bells: their prices increase with size and are 1, 2, 3,..., 10 euros. Three friends want to buy them all, but they want to make sure they each spend the same amount. How many different ways will the three friends be able to share their bells? A) One only. B) 2
+> 	
+> C) 3
+>         	
+> D) 4 E) They will not be able to do what they want.
+>
+
+**Answer:** E
+[[src_kangourou_2013_ecolier__Q21]]

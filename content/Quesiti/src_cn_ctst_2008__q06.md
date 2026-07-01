@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2008 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2008__Q06
 parent: src_cn_ctst_2008
 competition: China National Team Selection Test 2008
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find maximum M satisfying three sequence conditions for all n*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il massimo M che soddisfi tre condizioni di sequenza per tutte le n*
+
+> Trova il numero massimo positivo $M$ in modo tale che per ogni $n \in \mathbb{N}^*$ ci siano numeri positivi $a_1, a_2, \cdots, a_n$ e $b_1, b_2, \cdots, b_n$ che soddisfino (a) $\sum_{k=1}^{n} b_k = 1$, $2b_k \geq b_{k-1} + b_{k+1}$, $k = 2, 3, \cdots, n-1$, (b) $a_k^2 \leq 1 + \sum_{i=1}^{k} a_i b_i$, $k = 1, 2, \cdots, n$, (c) $a_n = M$.
+
+[[src_cn_ctst_2008__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2014 - 2 livello — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_febb_2livello__Q08
 parent: src_archimede_2014_febb_2livello
 competition: Archimede Gara di Febbraio 2014 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di terne reali del sistema simmetrico x+y+z, ecc.*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1vy-Tu842_Xy0bKKidjx8TEkBSb0vl4bI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of real terns of the symmetric system x+y+z, etc.*
+
+> Given the system       x + y + z = 7 x2 + y2 + z2 = 27 xyz = 5, how many ordered ternes of real numbers (x, y, z) are solution?
+>
+> - **(A)** 6
+> - **(B)** 3
+> - **(C)** 2
+> - **(D)** 0
+> - **(E)** The endless.
+
+**Answer:** B
+[[src_archimede_2014_febb_2livello__Q08]]

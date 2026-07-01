@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 2007-08 — Round 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_2007-08_round1__Q06
 parent: src_bmo_2007-08_round1
 competition: British Mathematical Olympiad 2007-08 — Round 1
@@ -36,6 +37,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Recurrence on positive integers; prove integer values and count solutions to f(n)=2n*
 
@@ -53,3 +56,15 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RB1RkGzKd2r9NM4xaNaiRaoP15anlQ-K/view)
 
 > [!warning] Estratto da scansione a bassa risoluzione — enunciato da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Recurrenza sui numeri interi positivi; prova i valori dei numeri interi e le soluzioni di conteggio a f(n)=2n*
+
+> La funzione $f$ è definita sull'insieme di integri positivi da $f(1) = 1$, $f(2) = 2$ e $$f(n+1) = (1 + (2n + 1)f(n))f(n-1)$$ per $n \geq 2$.
+> 
+> (i) dimostrare che $f(n)$ è sempre un numero intero. (ii) Per quanti integri positivi < MSK1/> è < MSK2/>?
+
+[[src_bmo_2007-08_round1__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 2 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n3_f2__Q07
 parent: src_obm_2002_n3_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 3 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Non-congruent triangles in ABC with altitude AD and given ratio*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gF94S0aX4v_2i-OEAFyuTxXKFKl8xKDl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangoli non congruenti in ABC con altitudine AD e rapporto dato*
+
+> Nel triangolo $ABC$, $AD$ deve essere l'altitudine relativa a $BC$. Quanti triangoli non congruenti soddisfano $$\frac{1}{AB^2} + \frac{1}{AC^2} = \frac{1}{AD^2}$$ con $AD = 2012$ e $BD$ e $CD$ entrambi gli integri? Si noti che $AB$ e $AC$ non devono essere numeri interi.
+
+[[src_obm_2002_n3_f2__Q07]]

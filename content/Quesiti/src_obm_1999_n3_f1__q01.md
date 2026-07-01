@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1999_n3_f1__Q01
 parent: src_obm_1999_n3_f1
 competition: Olimpíada Brasileira de Matemática 1999 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Truck capacity: bricks given sand sacks count*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Qa4iFxZgF-d71Ma7kXuCEOQop_yrsL3/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Capacità del camion: i mattoni contati con sacchi di sabbia*
+
+> Un piccolo camion può trasportare 50 sacchi di sabbia o 400 mattoni. Se sono già stati caricati 32 sacchi di sabbia, quante mattoni possono ancora essere caricati?
+> 
+> A) 132 \quad B) 144 \quad C) 146 \quad D) 148 \quad E) 152
+
+**Risposta:** B
+[[src_obm_1999_n3_f1__Q01]]

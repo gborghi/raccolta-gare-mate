@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 1 —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_nu_f1__Q04
 parent: src_obm_2008_nu_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível Universitário — Fase 1
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest k>0 with ABA^{-1}=B^k for n×n matrices A,B≠I*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19Q_w_UJQHAUlzG-V6lxfVxVODmvyD2Gt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca il più piccolo k>0 con ABA^{-1}=B^k per n ×n matrici A,B≠I*
+
+> Supponiamo che esistano le matrici $n \times n$ $A$ e $B$, diverse dalla matrice di identità $I$ e soddisfacente $$\begin{cases} A^4 = I \\ ABA^{-1} = B^k \end{cases}.$$ Mostri che esiste un intero $k > 0$ tale che $B^k = I$, e determina il più piccolo $k$ con questa proprietà.
+
+[[src_obm_2008_nu_f1__Q04]]

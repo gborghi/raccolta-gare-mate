@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2022 Student — Semifinale individuale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_student_semifinale__Q13
 parent: src_kangourou_2022_student_semifinale
 competition: Kangourou 2022 Student — Semifinale individuale
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (x,y) con x²+y e x+y² entrambi quadrati*
 
@@ -39,3 +42,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Z0Xm-j7zd_DHeMYmYJusVMK7Z6_vLUBf/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Couples (x,y) with x2+y and x+y2 both squared*
+
+> (6 points) For how many pairs (x, y) of positive integers does it happen that both integers x2 + y and x + y2 are perfect squares? (Write 9999 if you think there are infinite pairs.)
+
+**Answer:** 0
+[[src_kangourou_2022_student_semifinale__Q13]]

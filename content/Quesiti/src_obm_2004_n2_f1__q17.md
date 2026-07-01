@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1 — Quesito 17
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n2_f1__Q17
 parent: src_obm_2004_n2_f1
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 2 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Max border points of a 10 cm square at distance 6 from an interior point*
 
@@ -46,3 +49,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zeTetJkAMjdDvCGFPkNvDs3K2OuPEXFc/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punti di confine massimi di un quadrato di 10 cm a distanza 6 da un punto interno*
+
+> Un punto $P$ appartiene all'interno di un quadrato con lato di 10 cm. Quanti punti al confine del quadrato possono essere a una distanza di 6 cm dal punto $P$?
+> 
+> **A)** $1$ $\quad$ **B)** $2$ $\quad$ **C)** $4$ $\quad$ **D)** $6$ $\quad$ **E)** $8$
+
+**Risposta:** E
+[[src_obm_2004_n2_f1__Q17]]

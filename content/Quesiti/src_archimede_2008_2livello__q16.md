@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2° livello 2008 (biennio/triennio) — Quesito 16
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_2livello__Q16
 parent: src_archimede_2008_2livello
 competition: Archimede Gara 2° livello 2008 (biennio/triennio)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Q punto medio di AP è ortocentro di ADE*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1oIbyp4ch1XvQ1pvuoOapUWstrspaawFM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Q the mean point of AP is the ORTOCENTRE of ADE< MSK1/>
+
+> Whether AB is a rope of one circumference and P is an inner point of AB such that AP = 2PB. Either DE the string passing through P and perpendicular to AB. Demonstrate that the mean point Q of AP is the orthocenter of ADE.
+
+**Answer:** dimostrazione
+[[src_archimede_2008_2livello__Q16]]

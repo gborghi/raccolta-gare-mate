@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2006 - Gara Triennio — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2006_triennio__Q17
 parent: src_archimede_2006_triennio
 competition: Giochi di Archimede 2006 - Gara Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto aree quadrati circoscritto e inscritto*
 
@@ -55,3 +58,32 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1a3nkp3X6eDfTP4CCiaNXR3spkcwUbj_2/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Report of enclosed and inscribed square areas*
+
+![[src_archimede_2006_triennio__prob17.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (-2,-2) rectangle (2,2);
+  \draw (0,0) circle (2);
+  \draw (-1.414,-1.414) rectangle (1.414,1.414);
+\end{tikzpicture}
+\end{document}
+```
+
+> In the next figure, we call Q the square surrounded by the circumference and Q′ the square inscribed in the circumference. What is the ratio of the area of Q to that of Q′?
+>
+> - **(A)** √ 2 2 ,
+> - **(B)** √ 2,
+> - **(C)** 2,
+> - **(D)** 2 √ 2,
+> - **(E)** 4.
+
+**Answer:** C
+[[src_archimede_2006_triennio__Q17]]

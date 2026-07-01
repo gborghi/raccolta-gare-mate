@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Cadet — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_cadet_marzo__Q19
 parent: src_kangourou_2020_cadet_marzo
 competition: Kangourou 2020 Gara marzo Cadet
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di cubetti del quartiere (viste dall alto e lato)*
 
@@ -51,3 +54,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1K-eLYWBqlBjV9y8BFf3KakMZeh3txL64/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of cubes in the neighbourhood (upper and side views) *
+
+![[src_kangourou_2020_cadet_marzo__prob19.png]]
+
+> Irene built a neighborhood using many identical wooden cubes. One of the images shows the view of the neighbourhood from above, the other the view from one side, but it is not known from which! What's the maximum number of cubes that Irene could have used? A) 21
+> 	
+> B) 24
+> 	
+> C) 23 D) 22
+> 	
+> E) None of the above
+
+**Answer:** B
+[[src_kangourou_2020_cadet_marzo__Q19]]

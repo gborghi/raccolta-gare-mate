@@ -1,6 +1,7 @@
 ---
 title: China Southeastern Mathematical Olympiad 2009 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_csmo_2009__Q08
 parent: src_cn_csmo_2009
 competition: China Southeastern Mathematical Olympiad 2009
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum grids removed from 8x8 paper to block all T-pentominoes*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 14
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Minimum di griglie rimosse da carta 8x8 per bloccare tutti i T-pentominoes< MSK1/>
+
+> Su un pezzo di carta grafica $8 \times 8$, almeno quante griglie devono essere tolte, e non possiamo tagliare una "T" che ha cinque griglie come mostrato nella figura. 1? (Posato da Sun Wen-Hsien)
+
+![[src_cn_csmo_2009__Q08.png]]
+
+**Risposta:** 14
+[[src_cn_csmo_2009__Q08]]

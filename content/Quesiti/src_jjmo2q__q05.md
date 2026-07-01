@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2004 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo2q__Q05
 parent: src_jjmo2q
 competition: Japan Junior Mathematical Olympiad 2004
@@ -31,6 +32,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cryptarithm: IMO plus JMO plus ampersand terms equals JJMO*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LXmgBrm1PwtsgP3LkwF7lq93TBd1zjmO/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Crittografia: IMO più JMO più ampersand termini uguali a JJMO*
+
+> Risolvi il seguente criptaritmo e scrivi il numero corrispondente a $\mathrm{IMO}$. L'aggiunta viene effettuata colonnalmente come mostrato (le cifre di ciascuna riga sono allineate a destra): $$\begin{array}{cccc} & I & M & O \\ & & & \& \\ & J & M & O \\ & & & \& \\ + & & & \& \\ \hline J & J & M & O \end{array}$$ Qui, risolvere un criptaritmo significa determinare la corrispondenza tra lettere e cifre, secondo le condizioni di seguito, in modo che l'uguaglianza di cui sopra sia valida. - ciascuna delle $I, M, O, \&$ corrisponde a una delle cifre $0, 1, 2, \ldots, 9$. La stessa lettera corrisponde alla stessa cifra, e lettere diverse corrisponde a cifre diverse. Pertanto $\mathrm{IMO}$ indica il numero $3$ di cifre formato scrivendo la cifra corrispondente a $I$, la cifra corrispondente a $M$ e la cifra corrispondente a $O$, in tale ordine. - Le prime lettere < MSK9/> non corrispondono a < MSK10/>. - La cifra corrispondente a $I$ non è necessariamente $1$, e la cifra corrispondente a $O$ non è necessariamente $0$.
+
+[[src_jjmo2q__Q05]]

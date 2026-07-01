@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2017 — Yosen (Preliminary) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo27yq_yosen__Q02
 parent: src_jmo27yq_yosen
 competition: Japan Mathematical Olympiad 2017 — Yosen (Preliminary)
@@ -33,6 +34,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count coprime ordered factorizations a<b of 29!*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $512$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pjGraeHG4yF3Hf3bQovok6OpLhKRwh23/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Contate le fatturazioni ordinate in coprime a<b di 29! < MSK1/>
+
+> Quante coppie di integri positivi $(a,b)$ esistono tali che $a<b$, $ab=29!$, e $a$ e $b$ siano coprime (cioè: $\gcd(a,b)=1$)?
+
+**Risposta:** $512$
+[[src_jmo27yq_yosen__Q02]]

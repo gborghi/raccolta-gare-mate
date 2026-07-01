@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1999 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1999_r3__Q01
 parent: src_pol_1999_r3
 competition: Olimpiade Matematica Polacca 1999 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Point D on side BC with AD>BC; choose E on AC so AE/EC=BD/(AD-BC); prove AD>BE.*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ROAUIuy9-bXiyz6CZTN9mjOsmZlsxMYt/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto D sul lato BC con AD>BC; scegliere E su AC in modo che AE/EC=BD/(AD-BC); prova AD>BE.*
+
+> Il punto $D$ è preso sul lato $BC$ di un triangolo $ABC$ in modo tale che $AD > BC$. Il punto $E$ deve essere un punto sul lato $AC$ tale che $\frac{AE}{EC} = \frac{BD}{AD - BC}$. Mostra che $AD > BE$.
+
+[[src_pol_1999_r3__Q01]]

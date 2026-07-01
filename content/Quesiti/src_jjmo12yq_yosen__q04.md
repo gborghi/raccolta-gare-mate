@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary) — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo12yq_yosen__Q04
 parent: src_jjmo12yq_yosen
 competition: Japan Junior Mathematical Olympiad 2014 — Yosen (Preliminary)
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic pentagon with given sides; find diagonal BE*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** $\frac{19}{2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Pentagono ciclico con lati dati; trovare diagonale BE*
+
+> C'è un pentagono ciclico $ABCDE$ con $AB=2$, $BC=5$, $CD=2$, $DE=5$, $AD=8$. Trova la lunghezza del segmento $BE$. Qui $XY$ indica la lunghezza del segmento $XY$.
+
+**Risposta:** $\frac{19}{2}$
+[[src_jjmo12yq_yosen__Q04]]

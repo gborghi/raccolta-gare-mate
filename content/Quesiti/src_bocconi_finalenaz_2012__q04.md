@@ -3,6 +3,7 @@ title: >-
   Finale Nazionale Campionati Internazionali di Giochi Matematici 2012 — Quesito
   4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finalenaz_2012__Q04
 parent: src_bocconi_finalenaz_2012
 competition: Finale Nazionale Campionati Internazionali di Giochi Matematici 2012
@@ -32,6 +33,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Prossima data con somma delle cifre uguale a 39*
 
@@ -45,3 +48,14 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Next date with the sum of the digits equal to 39*
+
+> A week ago it was May 12, 2012, which you can write as May 12, 2012. If you rewrite these numbers, you get: $1+2+0+5+2+0+1+2=13$. What is the next date for which the sum of the digits (as done with 12 May 2012) is equal to 39?
+
+**Answer:** 29-09-2089
+[[src_bocconi_finalenaz_2012__Q04]]

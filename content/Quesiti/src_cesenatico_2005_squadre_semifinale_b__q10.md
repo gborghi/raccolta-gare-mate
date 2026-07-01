@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2005 - Semifinale B — Quesito 10
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2005_squadre_semifinale_b__Q10
 parent: src_cesenatico_2005_squadre_semifinale_b
 competition: Gara a Squadre Cesenatico 2005 - Semifinale B
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie (a,b) con a^4+4b^4+12ab-9 primo*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0004
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iFfFchZtZKQhrAMA0KsBO1ZR930Z0xA7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Couples (a,b) with a^4+4b^4+12ab-9 first*
+
+> How many pairs of integers are ordered $(a, b)$ so $$\frac{a^2 + 4044}{12ab - 9}$$ is a prime number?
+
+**Answer:** 0004
+[[src_cesenatico_2005_squadre_semifinale_b__Q10]]

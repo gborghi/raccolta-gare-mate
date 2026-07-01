@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Benjamin (15 marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_benjamin__Q19
 parent: src_kangourou_2001_benjamin
 competition: Kangourou 2001 - Benjamin (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area del giardino di Pamela*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KiWhd-eKe5ICJiAgxvUtaXhXnyXw-9J1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Pamela garden area< MSK1/>
+
+![[src_kangourou_2001_benjamin__prob19.png]]
+
+> Pamela's garden has the shape shown in the figure next to it. All angles are straight (90°), and the lengths of the individual sides are expressed in metres. So the area of the garden, in square meters, is
+>
+> - **(A)** 700
+> - **(B)** 750
+> - **(C)** 800
+> - **(D)** 850
+> - **(E)** 900.
+
+**Answer:** E
+[[src_kangourou_2001_benjamin__Q19]]

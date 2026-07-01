@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2017 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2017__Q01
 parent: src_smc_2017
 competition: Senior Mathematical Challenge 2017
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Which of 2017-2, 2017-1, 2017, 2017+1, 2017+2 is prime?*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Qual è il numero primo di 2017-2, 2017-1, 2017, 2017+1, 2017+2?
+
+> Uno dei seguenti numeri è primo. Che cosa è?
+>
+> - **(A)** $2017 - 2$
+> - **(B)** $2017 - 1$
+> - **(C)** $2017$
+> - **(D)** $2017 + 1$
+> - **(E)** $2017 + 2$
+
+**Risposta:** C
+[[src_smc_2017__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1988-89 — Round 2 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1988-89_round2__Q04
 parent: src_bmo_1988-89_round2
 competition: British Mathematical Olympiad 1988-89 — Round 2
@@ -32,6 +33,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find BM in triangle ABC given BAM and BMC have equal inradii*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qspPfEgz7c_HYcRXHmsp-ZYeMDxBdFsP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Ricerca BM nel triangolo ABC dato BAM e BMC hanno uguali inradii< MSK1/>
+
+> $M$ è un punto sul lato $AC$ del triangolo $ABC$ in modo tale che i triangoli $BAM$, $BMC$ abbiano scritti cerchi di uguale raggio. Trova la lunghezza di $BM$ in termini di lunghezza $a, b, c$ dei lati del triangolo $ABC$.
+
+[[src_bmo_1988-89_round2__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2023 Kangourou Finale 1 — Quesito 11
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_kangourou_squadre__Q11
 parent: src_kangourou_2023_kangourou_squadre
 competition: Kangourou Squadre 2023 Kangourou Finale 1
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area KLM in triangolo equilatero ABC*
 
@@ -40,3 +43,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0050
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*KLM area in equilateral triangle ABC*
+
+![[src_kangourou_2023_kangourou_squadre__prob11.png]]
+
+> Two equilateral triangles Within the equilateral triangle ABC in the figure the KLM triangle has each side perpendicular to one of the sides of ABC. The area of ABC is 150. How much is the KLM area worth?
+
+**Answer:** 0050
+[[src_kangourou_2023_kangourou_squadre__Q11]]

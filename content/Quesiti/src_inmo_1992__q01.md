@@ -1,6 +1,7 @@
 ---
 title: Indian National Mathematical Olympiad 1992 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_inmo_1992__Q01
 parent: src_inmo_1992
 competition: Indian National Mathematical Olympiad 1992
@@ -30,6 +31,8 @@ tags:
   - topic/trigonometria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triangle with angle bisector condition implies a^2 = b(b+c)*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EOEsZB8HaiI0YQM_jwUKgpq-22uACryj/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Un triangolo con condizione di angolo bisector implica a^2 = b(b+c) *
+
+> In un triangolo $ABC$, $\angle A = 2\angle B$. Prove che $a^2 = b(b + c)$.
+
+[[src_inmo_1992__Q01]]

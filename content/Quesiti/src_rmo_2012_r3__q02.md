@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2012 — Region 3 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2012_r3__Q02
 parent: src_rmo_2012_r3
 competition: Regional Mathematical Olympiad 2012
@@ -33,6 +34,8 @@ tags:
   - regione/r3
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Divisibility: abc divides (a+b+c)^31 given chained divisibility*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p3hmhNY4gaLMNi2r8GZ88wmUwZnVczZX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Divisibilità: abc divide (a+b+c)^31 data divisibilità incatenata*
+
+> Lasciate che $a, b, c$ siano integri positivi in modo tale che $a$ divida $b^2$, $b$ divida $c^2$ e $c$ divida $a^2$. Provare che $abc$ divide $(a + b + c)^{31}$.
+
+[[src_rmo_2012_r3__Q02]]

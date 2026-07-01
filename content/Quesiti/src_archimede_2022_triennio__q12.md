@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2022 - Gara Triennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_triennio__Q12
 parent: src_archimede_2022_triennio
 competition: Giochi di Archimede 2022 - Gara Triennio
@@ -28,6 +29,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Coppie ordinate (m,n) con m<=n e mcm uguale a 1515*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1bPjV2XwoJVS0JyBoILjsY36NpzhkZAFG/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Ordered pairs (m,n) with m<=n and mcm equal to 1515*
+
+> How many pairs of ordered natural numbers (m, n), with m ⩽n, whose least common multiple is equal to 1515?
+>
+> - **(A)** 12
+> - **(B)** 13
+> - **(C)** 14
+> - **(D)** 11
+> - **(E)** 10
+
+**Answer:** C
+[[src_archimede_2022_triennio__Q12]]

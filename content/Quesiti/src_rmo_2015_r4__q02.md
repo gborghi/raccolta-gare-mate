@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2015 — Region 4 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2015_r4__Q02
 parent: src_rmo_2015_r4
 competition: Regional Mathematical Olympiad 2015
@@ -35,6 +36,8 @@ tags:
   - regione/r4
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Quadratic with integer values at 0,1,2 implies integer coefficients*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x0axIPaHu87ZTGOGDG8_dBEUX9gWmh5k/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadratici con valori interi a 0,1,2 implicano coefficienti interi*
+
+> Che $P(x) = x^2 + ax + b$ sia un polinomio quadratico dove $a$ è reale e $b \neq 2$ è razionale. Supponiamo che $P(0)^2$, $P(1)^2$, $P(2)^2$ siano numeri interi. Provare che $a$ e $b$ sono numeri interi.
+
+[[src_rmo_2015_r4__Q02]]

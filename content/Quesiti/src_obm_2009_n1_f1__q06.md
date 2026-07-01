@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n1_f1__Q06
 parent: src_obm_2009_n1_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/funzionali
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Convolution recurrence with a_0=0, a_1=pi/3; compute the sum of a_k/2^k*
 
@@ -48,3 +51,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gfklUu8Lw7e-icOu2QgoKvp09d7Hdigd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricorrenza di convoluzione con a_0=0, a_1=pi/3; calcolare la somma di a_k/2^k*
+
+> Considera la sequenza $a_0,a_1,a_2,\ldots$ definita da $a_0=0$, $a_1=\pi/3$ e, per $n\geq 1$, $$a_{n+1}=\frac{\pi\,(a_0 a_n+a_1 a_{n-1}+a_2 a_{n-2}+\cdots+a_n a_0)}{3(n+1)}.$$ Calcolo $$\sum_{k=0}^{\infty}\frac{a_k}{2^k}=a_0+\frac{a_1}{2}+\frac{a_2}{4}+\frac{a_3}{8}+\cdots.$$
+
+[[src_obm_2009_n1_f1__Q06]]

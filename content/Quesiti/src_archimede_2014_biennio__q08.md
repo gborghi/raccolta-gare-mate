@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2014 - Biennio (Testo 1) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2014_biennio__Q08
 parent: src_archimede_2014_biennio
 competition: Giochi di Archimede 2014 - Biennio (Testo 1)
@@ -25,6 +26,8 @@ tags:
   - topic/probabilita
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita che tre persone dicano la stessa parola*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Oz_wj_o5ytBhbhCTfVi7OLptFspmtFPH/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The probability that three people will say the same word
+
+> Agata, Nina and Leo decide that at Via! each of them will say (accidentally) BIM, or BUM, or BAM. What's the probability that all three of them will say the same thing? (A) Less than 12, (B) between 12 and 10, (C) between 10 and 18, (D) between 18 and 16, (E) more than 16.
+
+**Answer:** C
+[[src_archimede_2014_biennio__Q08]]

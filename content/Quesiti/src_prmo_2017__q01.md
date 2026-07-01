@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2017 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2017__Q01
 parent: src_prmo_2017
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2017
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers <1000 with digit sum divisible by 7 and divisible by 3*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11bcbV0CqujoDDLF0WQT5trVh5Fr2-UO0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare interi positivi <1000 con somma digitali divisibile per 7 e divisibile per 3*
+
+> Quanti numeri interi positivi inferiori a 1000 hanno la proprietà che la somma delle cifre di ciascun tale numero è divisibile per 7 e il numero stesso è divisibile per 3?
+
+[[src_prmo_2017__Q01]]

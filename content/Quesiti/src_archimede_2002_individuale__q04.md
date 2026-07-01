@@ -1,6 +1,7 @@
 ---
 title: Archimede 2002 - Gara Nazionale Individuale (Cesenatico) — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2002_individuale__Q04
 parent: src_archimede_2002_individuale
 competition: Archimede 2002 - Gara Nazionale Individuale (Cesenatico)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *per quali n le radici sono intere*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** n=2 e n=-2
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Al72TmtFeqXMapJ1ay6jjUJE3H76wCPm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/> for which n roots are integer< MSK1/>
+
+> Determine for which values of $n$ all solutions to the equation $X^3 - 3X + n = 0$ are integers.
+
+**Answer:** n=2 e n=-2
+[[src_archimede_2002_individuale__Q04]]

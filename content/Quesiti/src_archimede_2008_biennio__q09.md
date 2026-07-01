@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2008 - Biennio — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2008_biennio__Q09
 parent: src_archimede_2008_biennio
 competition: Giochi di Archimede 2008 - Biennio
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Conteggio numeri quattro cifre con 5 cifra massima*
 
@@ -45,3 +48,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zCQfOb0UObsmKb5KU_4bYMY75e-cFXnq/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Counting four-digit numbers with a maximum of five digits*
+
+> How many four-digit natural numbers do the number 5 appear in once and only once and it is the largest number present in the number?
+>
+> - **(A)** 225,
+> - **(B)** 400,
+> - **(C)** 425,
+> - **(D)** 525,
+> - **(E)** 600.
+
+**Answer:** C
+[[src_archimede_2008_biennio__Q09]]

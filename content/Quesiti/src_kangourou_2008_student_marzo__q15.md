@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2008 - Student (gara 28 marzo) — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2008_student_marzo__Q15
 parent: src_kangourou_2008_student_marzo
 competition: Kangourou 2008 - Student (gara 28 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area regione ombreggiata (tre cerchi tangenti)*
 
@@ -62,3 +65,35 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1MYmfkCn-GXkKWsIkiXzo_sU3G02yze2F/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Shaded region area (three tangent circles) *
+
+![[src_kangourou_2008_student_marzo__prob15.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=1.2]
+  \coordinate (CL) at (0,0);
+  \coordinate (CR) at (2,0);
+  \coordinate (CT) at (1,1.732);
+  \draw (CL) circle (1);
+  \draw (CR) circle (1);
+  \draw (CT) circle (1);
+  \begin{scope}
+    \clip (CL) circle (1);
+    \clip (CR) circle (1);
+    \fill[gray!40] (CT) circle (1);
+  \end{scope}
+  \draw (CT) -- ++(1,0) node[midway, above] {$1$};
+\end{tikzpicture}
+\end{document}
+```
+
+> Look at the figure. Three radius 1 circles are two to two tangents externally. How much is the shaded area worth? A) B) C) D) E)
+
+**Answer:** A
+[[src_kangourou_2008_student_marzo__Q15]]

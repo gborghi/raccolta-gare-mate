@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 2000 — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2000_2livello__Q13
 parent: src_archimede_2000_2livello
 competition: Archimede Gara 2º livello 2000
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Soluzioni reali positive di 32^x = 64^[x]*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1qWh0TVNpNH2CbPMAX17nJ4ZT1b_kfsNL/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Real positive solutions of 32^x = 64^[x]*
+
+> For each real number $x$, we indicate with $[x]$ the full part of $x$, defined as the largest integer $\leq x$. So for example we have that $[3/2] = 1$, $[\pi] = 3$, $[8] = 8$. Determine how many real positive solutions ($> 0$) of the equation $3^{2x} = 64^{[x]}$ are.
+
+**Answer:** 4
+[[src_archimede_2000_2livello__Q13]]

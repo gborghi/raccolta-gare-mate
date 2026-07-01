@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2012 - Biennio — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2012_biennio__Q12
 parent: src_archimede_2012_biennio
 competition: Giochi di Archimede 2012 - Biennio
@@ -29,6 +30,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Disuguaglianza certa tra frazioni mediante a/b<=c/d<=1*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13kesAdPzQ8k4YwW-asUVUoQ5RPW1gOnt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Certain inequality between fractions by a/b<=c/d<=1*
+
+> 4 positive integers a, b, c, d such that a b ≤c d ≤1 are fixed. Which of the following inequalities is certainly true?
+>
+> - **(A)** a + c b + d ≥a b + c d
+> - **(B)** a + c b + d < a b
+> - **(C)** a + c b + d ≤c d
+> - **(D)** a + c b + d > 1
+> - **(E)** None of the preceding
+
+**Answer:** C
+[[src_archimede_2012_biennio__Q12]]

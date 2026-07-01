@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2009 — Honsen (Final) — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo7mq_honsen__Q02
 parent: src_jjmo7mq_honsen
 competition: Japan Junior Mathematical Olympiad 2009 — Honsen (Final)
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Angle in triangle with BP+CQ=PQ and circumcircle intersection*
 
@@ -44,3 +47,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VL4zACP5rwfmItjWBLiPE5BRD-B6psdw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Angolo triangolare con BP+CQ=PQ e intersezione di circolo *
+
+> I punti $P$ e $Q$ devono essere i punti sui lati $AB$ e $AC$ del triangolo $ABC$, rispettivamente, soddisfacendo $BP + CQ = PQ$. Il $R$ deve essere l'intersezione del bisettore angolare di $\angle BAC$ con il circoncircolo del triangolo $ABC$, diverso da $A$. Set < MSK10/>.
+> 
+> Trova $\angle PRQ$ in termini di $\alpha$.
+> 
+> Qui $XY$ indica la lunghezza del segmento $XY$.
+
+[[src_jjmo7mq_honsen__Q02]]

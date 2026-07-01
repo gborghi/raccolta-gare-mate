@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 27
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q27
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area comune tra triangolo e quadrato*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Common area between triangle and square*
+
+![[src_kangourou_2002_junior__prob27.png]]
+
+> In the figure on the side, however, two points chosen, provided that they are adjacent horizontally or vertically, are 1 metre apart. How much is the area of the common part of the triangle and the square indicated?
+>  
+>  
+>  
+> A. 9 / 10 B. 15 / 16 C. 8 / 9              D. 11 / 12 E. 14 / 15
+
+**Answer:** D
+[[src_kangourou_2002_junior__Q27]]

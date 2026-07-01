@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2022__Q04
 parent: src_cesenatico_2022
 competition: Olimpiade Italiana (Cesenatico) 2022 - testi e soluzioni
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *minimo domande per determinare ak*
 
@@ -94,3 +97,18 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TXGU5iDuDzmKc7nZ8Xbc329kdRiV6EwX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*minimum questions to determine ak*
+
+![[src_cesenatico_2022__prob4.png]]
+
+> Alberto chooses 2022 integers a1, a2, . . . , a2022 (not necessarily positive and not necessarily distinct) and sets them on a table 2022 × 2022 so that in box (i, j) there is the number ak, with k equal to the maximum between i and j, as in the following figure (in which, for greater readability, we have indicated a2022 with an). a1 a2 a2 a3 a3 a3 a4 a4 a4 a4 a5 a5 a5 a5 a5 a2 a2 a3 a3 a3 a4 a4 a4 a4 a5 a5 a5 a5 a5 an an an an an an an an an an an an an . . . ... Italian Olympic Games of Mathematics 2022 -- Texts and solutions -- Page 1 of 16
+> 
+> Barbara doesn't know the numbers Alberto chose, but she knows how they were arranged in the table. Fitted an integer k, with 1 ≤k ≤2022, Barbara wants to determine the value of ak, while she is not interested in determining the values of the other a with the =k. To do this, Barbara can ask Albert one or more questions, each of which asks Albert how much the sum of the numbers contained in the boxes of a percorso is worth, where the term percorso means an ordered list of boxes with the following characteristics: • the path begins with the box above left and ends with the box below right, • the boxes of the path are all distinct, • two consecutive boxes of the path always have a side in common. Determine, when k varies, the minimum number of requests needed by Barbara to determine ak.
+
+**Answer:** 2
+[[src_cesenatico_2022__Q04]]

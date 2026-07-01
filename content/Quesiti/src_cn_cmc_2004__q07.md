@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition 2004 — Quesito 7
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc_2004__Q07
 parent: src_cn_cmc_2004
 competition: China Mathematical Competition 2004
@@ -31,6 +32,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of rectangle under graph of periodic function*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $4\pi$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Area di rettangolo sotto grafico di funzione periodica*
+
+> In un sistema rettangolare piano $xOy$, l'area circondata dai grafici della funzione $f(x) = a\sin x + \cos x$ $(a > 0)$ definiti in un intervallo con il periodo meno positivo e dal grafico della funzione $g(x) = \sqrt{a^2 + 1}$ è ___.
+
+**Risposta:** $4\pi$
+[[src_cn_cmc_2004__Q07]]

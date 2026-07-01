@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2022 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2022__Q02
 parent: src_cn_ctst_2022
 competition: China National Team Selection Test 2022
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Prime p, infinite integer set A: find subset B avoiding p-element means*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Primo p, setto di interi infiniti A: trovare sottosetto B evitando il medio dell'elemento p*
+
+> Date un numero primo $p$ e un insieme infinito $A \subset \mathbb{Z}$. Mostrare che si può sempre trovare un sottoinsieme $B$ di $A$ in modo tale che $B$ contenga elementi $2p - 2$, e per tutti gli elementi $p$ separati in coppia di $B$, la loro media aritmetica non appartiene a $A$.
+
+[[src_cn_ctst_2022__Q02]]

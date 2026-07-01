@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1997 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1997_2livello__Q07
 parent: src_archimede_1997_2livello
 competition: Archimede Gara 2º livello 1997
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale numero non è prodotto di quadrato per cubo*
 
@@ -41,3 +44,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which number is not a product of square per cube*
+
+> Which of these numbers is not the product of a perfect square for a perfect cube?
+>
+> - **(A)** 900
+> - **(B)** 961
+> - **(C)** 968
+> - **(D)** 972
+> - **(E)** 980
+
+**Answer:** E
+[[src_archimede_1997_2livello__Q07]]

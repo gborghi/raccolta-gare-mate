@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1 — Quesito 18
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_1998_n2_f1__Q18
 parent: src_obm_1998_n2_f1
 competition: Olimpíada Brasileira de Matemática 1998 — Nível 2 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count ways to paint flag with 4 colours, two cannot be adjacent*
 
@@ -56,3 +59,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13b_FsjYtLvDLsjdCbbU3453Jhq-KhThw/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Conta i modi per dipingere la bandiera con 4 colori, due non possono essere adiacenti< MSK1/>
+
+> Verrai dipinto la bandiera sotto utilizzando 4 colori: blu, verde, giallo e rosso, un colore per regione.
+> 
+> Se il rosso e il giallo non possono essere vicini, in quanti modi si può dipingere la bandiera?
+> 
+> A) 12 B) 4 C) 18 D) 20 E) 16
+
+![[src_obm_1998_n2_f1__Q18.png]]
+
+**Risposta:** A
+[[src_obm_1998_n2_f1__Q18]]

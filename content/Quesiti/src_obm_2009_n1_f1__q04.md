@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2009_n1_f1__Q04
 parent: src_obm_2009_n1_f1
 competition: Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 1
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count positive integers n <= 31! with 3^n + n divisible by 31*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gfklUu8Lw7e-icOu2QgoKvp09d7Hdigd/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Contate i numeri interi positivi n <= 31! con 3^n + n divisibile per 31*
+
+> Determinare il numero di integri positivi $n$ inferiori o uguali a $31!$ in modo tale che $3^n+n$ sia divisibile da $31$.
+
+[[src_obm_2009_n1_f1__Q04]]

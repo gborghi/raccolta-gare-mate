@@ -1,6 +1,7 @@
 ---
 title: Japan Mathematical Olympiad 2007 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jmo17mq_honsen__Q01
 parent: src_jmo17mq_honsen
 competition: Japan Mathematical Olympiad 2007 — Honsen (Final)
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Winning strategy in a number-calling game up to n*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17fIqEqlKYYACz4yck5j653JkI5UjCss0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Strategia vincente in un gioco di chiamate di numero fino a n *
+
+> $n$ sia un numero intero positivo. Due giocatori si alternano dicendo numeri interi tra $1$ e $n$ inclusivi (ogni numero intero può essere detto una volta al massimo). La partita finisce quando non restano numeri interi. Se la somma dei numeri interi indicati dal primo giocatore è divisibile per $3$, il primo giocatore vince; altrimenti il secondo giocatore vince. Trova tutte le $n$ per le quali il primo giocatore ha una strategia vincente.
+
+[[src_jmo17mq_honsen__Q01]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Ecolier - Semifinale individuale — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_ecolier_semifinale__Q15
 parent: src_kangourou_2017_ecolier_semifinale
 competition: Kangourou 2017 Ecolier - Semifinale individuale
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Triangoli con vertici in punti dati non allineati*
 
@@ -85,3 +88,31 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0070
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1co8VLY7eX2IFrsdR8dsym0lqRaZR1RfW/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Triangles with vertices at non-aligned data points*
+
+![[src_kangourou_2017_ecolier_semifinale__prob15.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  % 4 dots on top row (centered between 5 bottom dots)
+  \foreach \x in {0.5, 1.5, 2.5, 3.5}
+    \fill (\x, 1) circle (0.18);
+  % 5 dots on bottom row
+  \foreach \x in {0, 1, 2, 3, 4}
+    \fill (\x, 0) circle (0.18);
+\end{tikzpicture}
+\end{document}
+```
+
+> (Points 8) How many triangles have the vertices in 3 of the points you see in the figure? (Note: a triangle cannot have vertices at three points aligned and, of the points in the figure, the 4 above and the 5 below are aligned.)
+>  
+> Question No. The answer to question 6 does not appear to be the correct answer which is 8. B
+
+**Answer:** 0070
+[[src_kangourou_2017_ecolier_semifinale__Q15]]

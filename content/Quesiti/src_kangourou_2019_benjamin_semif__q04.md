@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Benjamin — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_semif__Q04
 parent: src_kangourou_2019_benjamin_semif
 competition: Kangourou 2019 Semifinale Benjamin
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale poligono non si puo staccare con un taglio*
 
@@ -62,3 +65,32 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1GyY7FcsM8sclOO2bS-pBXVTpUEtuUikn/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which polygon cannot be detached with a cut*
+
+![[src_kangourou_2019_benjamin_semif__prob4.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \draw (0.000,0.000) -- (9.893,0.000) -- (8.221,5.131) -- (6.945,2.548) -- (4.981,6.548) -- (3.033,2.580) -- (1.758,5.216) -- cycle;
+\end{tikzpicture}
+\end{document}
+```
+
+> (Points 4) From a cardboard we carved a seven-sided polygon like the one shown in the figure. Now, with a single straight cut, we want to separate from this polygon another polygon (like this one, not regular or even convex) with a different number of sides. Which of the following polygons can't be detached? A) A pentagon
+> 	
+> (b) A hexagon
+> 	
+> C) One octagon
+> 	
+> D) A decagon
+> 	
+> E) None of the above answers is correct
+
+**Answer:** E
+[[src_kangourou_2019_benjamin_semif__Q04]]

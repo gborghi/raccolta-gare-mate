@@ -1,6 +1,7 @@
 ---
 title: Pre-Regional Mathematical Olympiad (PRMO) 2018 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_prmo_2018__Q05
 parent: src_prmo_2018
 competition: Pre-Regional Mathematical Olympiad (PRMO) 2018
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Trapezium ABCD with incircle touching AB at Q and CD at P, find PQ*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 84
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lnJtDCgcZpTCbnb-eQ2cohxxZxdnzEYl/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Trapezio ABCD con incircolo che tocca AB a Q e CD a P, trovare PQ< MSK1/>
+
+> Il $ABCD$ deve essere un trapezio in cui $AB \parallel CD$ e $AD \perp AB$. Supponiamo che $ABCD$ abbia un incircolo che tocchi $AB$ a $Q$ e $CD$ a $P$. Poiché $PC = 36$ e $QB = 49$, trovare $PQ$.
+
+**Risposta:** 84
+[[src_prmo_2018__Q05]]

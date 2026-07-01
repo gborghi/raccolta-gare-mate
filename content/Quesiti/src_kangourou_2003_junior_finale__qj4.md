@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Junior finale nazionale — Quesito J4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_junior_finale__QJ4
 parent: src_kangourou_2003_junior_finale
 competition: Kangourou 2003 Junior finale nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Rapporto velocita dei due ciclisti*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 3/2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DYCQm1nF2PohR5Hfzk5zl6q-PHPzDsMy/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Speed ratio of two cyclists*
+
+> Two cyclists run on a circular track each at a constant speed. If they run in the same direction, every ten minutes the fastest rider reaches the other; if they run in opposite directions, they meet every two minutes. What is the relationship between the speed of the fastest rider and the speed of the slowest rider?
+
+**Answer:** 3/2
+[[src_kangourou_2003_junior_finale__QJ4]]

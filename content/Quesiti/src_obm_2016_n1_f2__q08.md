@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2 — Quesito 8
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n1_f2__Q08
 parent: src_obm_2016_n1_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 1 — Fase 2
@@ -40,6 +41,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Perimeter segments vs interior segments quotient for n×n grid; pattern and extremal questions*
 
@@ -52,3 +55,15 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*segmenti di perimetro vs quotiente di segmenti interni per n ×n griglia; modello e domande estreme*
+
+> [Parte B] Associamo a ogni quadrato $n \times n$ (divisi in quadrati unitari) il quotiente del numero di segmenti unitari sul suo perimetro per il numero di segmenti unitari strettamente all'interno. I primi tre valori sono:\n$$\frac{8}{4} = 2, \qquad \frac{12}{12} = 1, \qquad \frac{16}{24} = \frac{2}{3}.$$\n(a) Qual è il quotiente associato al quadrato $5 \times 5$?\n(b) Quanti valori di $n$ danno un quotiente uguale a $\dfrac{1}{2}$?\n(c) La differenza assoluta tra i quotienti di due quadrati consecutivi nella sequenza è sempre $\dfrac{1}{k}$ per qualche valore fisso di $k$. Che cos'è < MSK7/>? Quanti segmenti unitari si trovano sul perimetro del più piccolo quadrato il cui quotiente associato è inferiore a $\dfrac{1}{10}$?
+
+![[src_obm_2016_n1_f2__Q08.png]]
+
+[[src_obm_2016_n1_f2__Q08]]

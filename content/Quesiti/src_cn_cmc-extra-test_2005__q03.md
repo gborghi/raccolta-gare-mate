@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Extra Test) 2005 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-extra-test_2005__Q03
 parent: src_cn_cmc-extra-test_2005
 competition: China Mathematical Competition (Extra Test) 2005
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of floor function involving fractional part of square root*
 
@@ -47,3 +50,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 768
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa della funzione del pavimento che comprende una parte frazionaria della radice quadrata*
+
+> Per ogni intero positivo $n$, definire una funzione $$f(n) = \begin{cases} 0, & \text{if } n \text{ is the square of an integer,} \\ \left[\dfrac{1}{\{\sqrt{n}\}}\right], & \text{if } n \text{ is not the square of an integer.} \end{cases}$$ (qui $[x]$ indica il numero intero massimo non superiore a $x$, e $\{x\} = x - [x]$.) Trova il valore di $\displaystyle\sum_{k=1}^{200} f(k)$.
+
+**Risposta:** 768
+[[src_cn_cmc-extra-test_2005__Q03]]

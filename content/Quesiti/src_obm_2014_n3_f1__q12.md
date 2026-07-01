@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n3_f1__Q12
 parent: src_obm_2014_n3_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 3 — Fase 1
@@ -31,6 +32,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find real a where roots of x^2-ax+b are squares of roots of x^2-bx+a*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova a reale dove le radici di x^2-ax+b sono quadrati di radici di x^2-bx+a*
+
+> Le radici dell'equazione $x^2 - ax + b = 0$ sono diverse da zero e sono i quadrati delle radici dell'equazione $x^2 - bx + a = 0$. Le radici delle equazioni non sono necessariamente reali, ma $a$ e $b$ sono reali. Il valore di $a$ è quindi: (A) $-\sqrt{2}$ (B) $\sqrt{2}$ (C) $\sqrt{3}$ (D) $\sqrt[3]{2}$ (E) $\sqrt[3]{3}$
+
+[[src_obm_2014_n3_f1__Q12]]

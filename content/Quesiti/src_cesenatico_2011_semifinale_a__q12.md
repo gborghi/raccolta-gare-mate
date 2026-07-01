@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale A — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_a__Q12
 parent: src_cesenatico_2011_semifinale_a
 competition: Gara a Squadre Cesenatico 2011 - Semifinale A
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *rapporto q/r*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9990
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/11yciGVfQNFWq1xjqkpFpft6d898AZywj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+The following information is provided by the manufacturer:
+
+> At the suggestion of his druid-spy, Dimostropercertus orders to close all the gates in the hands of the Romans. Abelix and his companions decide to go at random to find an uncontrolled harbor where to dock. They randomly choose a natural n between 1 and 2011, and call q the probability that 11 is 10n −1 and r the probability that 11 is 10n +1. Indicate the first four decimal places of the q/r quotient as a result.
+
+**Answer:** 9990
+[[src_cesenatico_2011_semifinale_a__Q12]]

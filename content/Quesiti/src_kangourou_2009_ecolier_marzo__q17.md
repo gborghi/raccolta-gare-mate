@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier (gara 19 marzo) — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_marzo__Q17
 parent: src_kangourou_2009_ecolier_marzo
 competition: Kangourou 2009 - Ecolier (gara 19 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante cifre diverse nella somma 1+11+...*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1iDKHo8gRXRngkliToglNbcI0IWuh401g/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many different digits in the sum of 1+11+...*
+
+> You've calculated the following sum 1 + 11 + 111 + ... + 111111111 + 11111111 which is the sum of the first ten integers that you can write using only the number 1. How many different numbers do you see in the result? A) 2 B) 5 C) 8 D)9 E) 10
+
+**Answer:** D
+[[src_kangourou_2009_ecolier_marzo__Q17]]

@@ -1,6 +1,7 @@
 ---
 title: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_tfjm_2020__Q02
 parent: src_tfjm_2020
 competition: Tournoi Français des Jeunes Mathématiciens (TFJM²) 2020
@@ -35,6 +36,8 @@ tags:
   - gara/squadre
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Minimum suitcase length to pack n square tiles perfectly or near-rotationally*
 
@@ -65,3 +68,31 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J8zHKpO1Q-BosuE3UiWvjA4Arny60DJ4/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Lunghezza minima della valigia per confezionare n piastrelle quadrate perfettamente o quasi in rotazione< MSK1/>
+
+> Pauline vuole mettere le sue cose nella valigia della sua auto prima di partire per le vacanze.
+> 
+> Ha una valigia di lunghezza laterale reale $L$, insieme a piastrelle quadrate $n$ di una determinata altezza e larghezza reale, inizialmente posizionate in modo che l'altezza di ciascuna piastrella sia parallela a una parte della valigia. L'imballaggio **perfetto** della valigia è un'impostazione di un certo numero di piastrelle che non si sovrappongono all'interno della valigia in modo che nessuna piastrella sia stata rotata. L'imballaggio **pro-rotation** è un'impostazione di piastrelle che non si sovrappongono all'interno della valigia in modo che ciascuna piastrella sia stata girata esattamente un quarto di turno e senza altra rotazione. Nella figura 4 sono mostrate tre imballaggi con piastrelle $n = 3$ di dimensioni $1 \times 3$, $2 \times 2$ e $3 \times 1$: un imballaggio perfetto, un imballaggio a rotazione a destra e un imballaggio non valido in cui due piastrelle si sovrappongono e una supera la valigia.
+> 
+> Qual è la lunghezza minima < MSK0/> necessaria per ottenere un imballaggio perfetto con < MSK1/> piastrelle quadrate laterali < MSK2/>? Inizieremo studiando i casi < MSK3/>.
+> 
+> Qual è la lunghezza minima < MSK0/> necessaria per ottenere un imballaggio perfetto con piastrelle rettangolari < MSK1/> di dimensioni < MSK2/> per un < MSK3/> fisso? Inizieremo studiando i casi < MSK4/>.
+> 
+> **3.** La stessa domanda, ma per un imballaggio a rotazione. Inizieremo studiando il caso $h = 2, 3$, poi il caso in cui $h$ è qualsiasi numero intero, e infine il caso in cui $h$ è qualsiasi numero reale.
+> 
+> **4. ** $n$ sia un numero intero. Pauline ha una valigia laterale < MSK1/> e porta piastrelle laterali < MSK2/> < MSK3/>. Poi il suo amico Franck sceglie di girare alcune piastrelle. Qual è il più piccolo $L$ tale che esista una scelta di piastrelle per Pauline per le quali Franck può sempre ottenere un imballaggio perfetto? Inizieremo studiando i casi < MSK5/>.
+> 
+> **5.** Qual è la $0 \le x \le 1$ più piccola tale che sia sempre possibile ottenere un imballaggio compatibile con le piastrelle $n$ utilizzando una frazione $x$ del totale delle piastrelle utilizzate per l'imballaggio, e $L$ è la lunghezza della valigia? La stessa domanda per un imballaggio a quasi rotazione.
+> 
+> < MSK6/> 6. < MSK7/> Franck dispone di una valigia di dimensioni < MSK0/> con < MSK1/> fissata. Il suo amico vuole giocare un turno, dopo aver posto un certo numero di piastrelle. Da quale dimensione minima della valigia < MSK2/> può sempre ottenere Franck un imballaggio? Inizieremo studiando i casi $n = 2, 3$, poi il caso $h$ intero e infine il caso generale $h$ reale.
+> 
+> **7.** Proporre e studiare altre vie di ricerca.
+
+![[src_tfjm_2020__Q02.png]]
+
+[[src_tfjm_2020__Q02]]

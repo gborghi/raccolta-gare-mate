@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2012 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2012__Q07
 parent: src_bocconi_autunno_2012
 competition: Giochi d'Autunno 2012
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di partenza in gioco Magia con due cifre*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NV-k_HLPNGANyAIvy1osIKx3v70VuvCV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Start number in play Magic with two digits *
+
+> Carla takes a two-digit number (a positive integer), multiplies it by 4 and then subtracts 3 from the result thus obtained. It's magic! The number Carla finally finds is written with the same numbers as the starting number, but in reverse order. What was the departure number?
+
+**Answer:** 16
+[[src_bocconi_autunno_2012__Q07]]

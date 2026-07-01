@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2004_n1_f3__Q04
 parent: src_obm_2004_n1_f3
 competition: Olimpíada Brasileira de Matemática 2004 — Nível 1 — Fase 3
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Determine winning strategy in 2×n domino placement game*
 
@@ -55,3 +58,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R228CrSgz-4pDVGh_rR1ta6PyL78pr17/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Determine la strategia di vincita in 2 ×n gioco di posizionamento di domino*
+
+> Arnaldo e Bernaldo giocano su una tavola. I pezzi del gioco sono $1 \times 2$ domino. Inizialmente Arnaldo pone un domino che copre esattamente due celle della tavola, orizzontale o verticale. I giocatori si alternano poi, ognuno di loro mettendo un domino che copre esattamente due celle della tavola, sempre coprendo esattamente due celle. Non è consentito posizionare un pezzo sopra un pezzo già posto. Il giocatore che non riesce a piazzare un pezzo perde.
+> 
+> Quale dei due giocatori ha una strategia vincente  cioè, una strategia che porta alla vittoria non importa quali mosse fa l'avversario  per: \begin{enumerate} \item[(a)] $n = 2004$? \item[(b)] $n = 2005$? \end{enumere}
+
+![[src_obm_2004_n1_f3__Q04.png]]
+
+[[src_obm_2004_n1_f3__Q04]]

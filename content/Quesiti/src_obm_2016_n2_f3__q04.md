@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n2_f3__Q04
 parent: src_obm_2016_n2_f3
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 2 — Fase 3
@@ -38,6 +39,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Four-digit numbers, distinct digits summing to 12, two even and two odd*
 
@@ -54,3 +57,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pFIjmivzjoZv5XiNmeuw7FxzBsl4gRIj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Numeri a quattro cifre, numeri distinti che sommano a 12, due pari e due unici*
+
+> Carlinhos fa un elenco di tutti i numeri a quattro cifre con cifre distinte che soddisfano le seguenti condizioni: la somma delle cifre è $12$, e tra le cifre due sono pari e due sono odd. Il numero $2703$, ad esempio, è nella sua lista. Ricordate che il numero non può avere un primo zero (zero a sinistra).
+> 
+> a) Qual è il numero più vicino a < MSK0/> che figura nell'elenco di Carlinhos?
+> 
+> b) Determinare la somma di tutti i numeri della lista di Carlinhos inferiori a < MSK0/>.
+
+[[src_obm_2016_n2_f3__Q04]]

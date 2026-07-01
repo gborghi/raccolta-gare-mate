@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Triennio — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_triennio__Q22
 parent: src_archimede_1996_triennio
 competition: Giochi di Archimede 1996 - Triennio
@@ -25,6 +26,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti turni per un torneo di golf a eliminazione*
 
@@ -44,3 +47,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/15qfoYH-L7XVAB0AqkLpKKTlskF3_jqAj/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of rounds for a knockout golf tournament*
+
+> A golf tournament involves 256 players. The tournament provides for 4 competitors in each round: the winner moves on to the next round while the other 3 competitors are eliminated. How many rounds are needed to determine the overall winner of the tournament?
+>
+> - **(A)** 16
+> - **(B)** 64
+> - **(C)** 65
+> - **(D)** 85
+> - **(E)** 128.
+
+**Answer:** D
+[[src_archimede_1996_triennio__Q22]]

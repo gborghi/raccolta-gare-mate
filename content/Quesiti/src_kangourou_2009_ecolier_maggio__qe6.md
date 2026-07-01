@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2009 - Ecolier finale nazionale (Mirabilandia) — Quesito E6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2009_ecolier_maggio__QE6
 parent: src_kangourou_2009_ecolier_maggio
 competition: Kangourou 2009 - Ecolier finale nazionale (Mirabilandia)
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tempo minimo per traghettare quattro barche*
 
@@ -37,3 +40,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 30
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f1h1TJscOH5tK9jr84T2t5qStr4PB-2H/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minimum time to ferry four boats< MSK1/>
+
+> (*22 points*) Four boats $A$, $B$, $C$, $D$ can cross a river from one bank to the other in two directions; the time taken by each boat does not depend on the direction. The boat $A$ takes 2 minutes to cross, the boat $B$ takes 4, the boat $C$ takes 8 and the boat $D$ takes 16. The four boats are moored together on the left bank, all must be ferried on the right bank and only one rudder is available. A boat may drag at most another boat, but in this case the movement of the two boats takes the slower boat's crossing time between the two. Once a cruise has been made, the rudder can return to the starting point only using one of the four boats. Find the shorter time (in minutes) to perform the operation, neglecting the time needed to attach and unload the boats and transfer them from one to the other.
+
+**Answer:** 30
+[[src_kangourou_2009_ecolier_maggio__QE6]]

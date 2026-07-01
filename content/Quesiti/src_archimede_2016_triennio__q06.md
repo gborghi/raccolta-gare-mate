@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2016 - Triennio — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_triennio__Q06
 parent: src_archimede_2016_triennio
 competition: Giochi di Archimede 2016 - Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *x-y tra gare con n e n^2 partecipanti*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a1fEwTMqqjeOJb-GqaaQtcJc3O3zjSOJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*x-y between races with n and n2 participants*
+
+> Each year the team competition of the Grammar Olympics takes place. A rule requires each team to be made up of as many members as the participating teams that year. In addition, it has been noted that each year the number of participating teams increases exactly by 1. By indicating with x the total number of people participating in the 2016 race and with y the number of people participating in the 2000 race, what can be safely said about the value of x −y?
+>
+> - **(A)** Which is divisible by 32.
+> - **(B)** That's a perfect square.
+> - **(C)** That's a prime number.
+> - **(D)** Which is divisible by 101
+> - **(E)** Which is odd.
+
+**Answer:** A
+[[src_archimede_2016_triennio__Q06]]

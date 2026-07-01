@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Ecolier — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_ecolier_marzo__Q05
 parent: src_kangourou_2019_ecolier_marzo
 competition: Kangourou 2019 Gara di Marzo Ecolier
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti etti pesava l intera torta (tagli a meta)*
 
@@ -51,3 +54,24 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1huFrvJXyfJn28o0AQcuuR0EJwmgkj2P9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>How many haids weighed the whole cake (target cuts) < MSK1/>
+
+![[src_kangourou_2019_ecolier_marzo__prob5.png]]
+
+> As shown in the figure, the mother cut a cake in half, then cut in half one of the two halves, then cut in half one of the two parts and finally cut in half one of the last two slices. The smallest slices weigh one hectare. How much did the whole cake weigh? A) 6
+> 	
+> B) 8
+> 	
+> C) 12
+> 	
+> D) 16
+> 	
+> E) 20
+
+**Answer:** D
+[[src_kangourou_2019_ecolier_marzo__Q05]]

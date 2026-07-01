@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 - Benjamin (marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_benjamin__Q09
 parent: src_kangourou_2006_benjamin
 competition: Kangourou 2006 - Benjamin (marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Figura ottenuta piegando esagono regolare*
 
@@ -62,3 +65,33 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1G4I2Jet_HHs5niGfZBI7NhTcGhX4LtYv/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Figure obtained by folding the regular hexagon*
+
+![[src_kangourou_2006_benjamin__prob9.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}
+  \coordinate (A) at (0,1.5);
+  \coordinate (B) at (1.299,0.75);
+  \coordinate (C) at (1.299,-0.75);
+  \coordinate (D) at (0,-1.5);
+  \coordinate (E) at (-1.299,-0.75);
+  \coordinate (F) at (-1.299,0.75);
+  \draw (A) -- (B) -- (C) -- (D) -- (E) -- (F) -- cycle;
+  \fill (A) circle (3pt);
+  \fill (C) circle (3pt);
+  \fill (E) circle (3pt);
+\end{tikzpicture}
+\end{document}
+```
+
+> The figure shows a sheet of paper shaped like a regular hexagon. It is folded so that the three vertices indicated with a ball go exactly to the center of the hexagon and the others remain standing. What figure do you get? A) a six-pointed star B) a dodecahedron C) a hexagon D) a square E) a triangle
+
+**Answer:** E
+[[src_kangourou_2006_benjamin__Q09]]

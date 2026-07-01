@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Cadet (15 marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_cadet__Q29
 parent: src_kangourou_2001_cadet
 competition: Kangourou 2001 - Cadet (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Gruppi con vincolo Federico-Daniele*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1Unyra_qQ9OtPb6r_NhtKaBMBDyYJLbHd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Groupes bound by Federico-Daniel*
+
+> There are 10 kids in a class. Next Saturday, there's going to be a big rock concert at a club in town. How many different groups can the boys form, to attend the concert, if Federico will go to the concert only in case his companion Daniel goes too?
+>
+> - **(A)** 512
+> - **(B)** 640
+> - **(C)** 724
+> - **(D)** 768
+> - **(E)** 1024.
+
+**Answer:** D
+[[src_kangourou_2001_cadet__Q29]]

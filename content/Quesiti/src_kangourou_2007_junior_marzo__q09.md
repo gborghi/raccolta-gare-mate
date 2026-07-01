@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2007 Junior (marzo) — Quesito 9
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2007_junior_marzo__Q09
 parent: src_kangourou_2007_junior_marzo
 competition: Kangourou 2007 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero regioni con 4 segmenti da A e B*
 
@@ -68,3 +71,34 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1p1Q2Sp2vQqHV_PB7wa9DegwRBIUvdu-d/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of regions with 4 segments from A and B*
+
+![[src_kangourou_2007_junior_marzo__prob9.png]]
+
+```tikz
+\begin{document}
+\begin{tikzpicture}[scale=2.5]
+  \coordinate (A) at (2,0);
+  \coordinate (B) at (1.2,1.5);
+  \coordinate (C) at (0,0);
+  \draw[line width=1.2pt] (A) -- (B) -- (C) -- cycle;
+  \node[above right] at (B) {B};
+  \node[below left] at (C) {C};
+  \node[below right] at (A) {A};
+  \draw (A) -- (0.4,0.5);
+  \draw (A) -- (0.8,1.0);
+  \draw (B) -- (0.667,0);
+  \draw (B) -- (1.333,0);
+\end{tikzpicture}
+\end{document}
+```
+
+> In the figure you see an ABC triangle where two different segments start from the A vertex with a second end on the opposite side, and the same happens from the B vertex. The four segments thus charted divide the triangle into 9 regions (except for the edges). If from each of the two vertices A and B four distinct segments, instead of two, are plotted until they meet the opposite side, what is the number of regions (disjoint except for the edges) in which the triangle is distributed? A) 16 B) 25 C) 36 D) 42 E) 49
+
+**Answer:** B
+[[src_kangourou_2007_junior_marzo__Q09]]

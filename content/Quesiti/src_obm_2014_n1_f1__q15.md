@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1 — Quesito 15
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2014_n1_f1__Q15
 parent: src_obm_2014_n1_f1
 competition: Olimpíada Brasileira de Matemática 2014 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Square partitioned into four labeled regions A,B,C,D; which two have equal area*
 
@@ -48,3 +51,17 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tVNNCTZZJ9h1R54Rs0RBj72A7dzcuji_/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrato diviso in quattro regioni etichettate A,B,C,D; due delle quali hanno superficie uguale*
+
+> Il quadrato laterale è stato diviso in quattro regioni, rappresentate dalle lettere $A$, $B$, $C$, $D$. Due di loro hanno la stessa area. Quali due?
+> 
+> (A) $A$ e $B$ \quad (B) $A$ e $C$ \quad (C) $A$ e $D$ \quad (D) $B$ e $C$ \quad (E) $B$ e $D$
+
+![[src_obm_2014_n1_f1__Q15.png]]
+
+[[src_obm_2014_n1_f1__Q15]]

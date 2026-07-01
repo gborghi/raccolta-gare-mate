@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2019 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2019__Q11
 parent: src_smc_2019
 competition: Senior Mathematical Challenge 2019
@@ -33,6 +34,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count integer values of k for which sqrt(200 - sqrt(k)) is an integer*
 
@@ -50,3 +53,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FqGQMIR182b9j6YVgMtLrbuw6ZS1FD_A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i valori dei numeri interi di k per i quali sqrt(200 - sqrt(k)) è un numero intero*
+
+> Per quanti valori interi di $k$ $\sqrt{200 - \sqrt{k}}$ è anche un numero intero?
+>
+> - **(A)** 11
+> - **(B)** 13
+> - **(C)** 15
+> - **(D)** 17
+> - **(E)** 20
+
+**Risposta:** C
+[[src_smc_2019__Q11]]

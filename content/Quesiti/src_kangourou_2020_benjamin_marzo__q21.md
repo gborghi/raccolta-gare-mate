@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Gara marzo Benjamin — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_benjamin_marzo__Q21
 parent: src_kangourou_2020_benjamin_marzo
 competition: Kangourou 2020 Gara marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale figura mostra il traliccio visto dall alto*
 
@@ -54,3 +57,25 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1ggjmifVVACH66ttfFvzch9_b4lPoYHmh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*What figure shows the trachea as seen from above*
+
+![[src_kangourou_2020_benjamin_marzo__prob21.png]]
+
+> Which of the following figures represents the trail here on the right as seen from above? A)
+> 	
+> B)
+> 	
+> C)
+> 	
+> D)
+> 	
+> E) 1 2 3 4 5 6
+>
+
+**Answer:** B
+[[src_kangourou_2020_benjamin_marzo__Q21]]

@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1986-87 — Round 1 — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1986-87_round1__Q02
 parent: src_bmo_1986-87_round1
 competition: British Mathematical Olympiad 1986-87 — Round 1
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Point on side of triangle, prove angle bisector property*
 
@@ -39,3 +42,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U9IQlmby0-sN5N3oaJBnf3PLtxRCMKLa/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Punto sul lato del triangolo, prova proprietà del bisettore angolare*
+
+> In un triangolo $ABC$, $\angle BAC = 100^\circ$ e $AB = AC$. Un punto $D$ è scelto sul lato $AC$ in modo che $\angle ABD = \angle CBD$. Prove che $AD + DB = BC$.
+
+[[src_bmo_1986-87_round1__Q02]]

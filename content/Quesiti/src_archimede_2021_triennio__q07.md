@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2021 - Gara Triennio (tradizionale) — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2021_triennio__Q07
 parent: src_archimede_2021_triennio
 competition: Giochi di Archimede 2021 - Gara Triennio (tradizionale)
@@ -24,6 +25,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Perimetro di esagono circoscritto a una circonferenza*
 
@@ -40,3 +43,19 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Hexagon perimeter circumscribed at one circumference*
+
+> The ABCDEF axis is bounded by a circumference. Its sides AB, BC, CD and EF measure 27 m, 25 m, 19 m and 29 m respectively. What is the perimeter of the hexagon?
+>
+> - **(A)** 150 m
+> - **(B)** 146 m
+> - **(C)** 148 m
+> - **(D)** 152 m
+> - **(E)** 154 m
+
+[[src_archimede_2021_triennio__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Automne 2014 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2014_automne__Q05
 parent: src_canimath_2014_automne
 competition: Coupe Animath Automne 2014
@@ -33,6 +34,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *10 villages, one-way non-crossing roads with no return possible; graph results*
 
@@ -51,3 +54,19 @@ tags:
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15vtKOtQa9ehL1Qp64ICOkTx6pQqg0n_e/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*10 villaggi, strade a senso unico senza incrocio senza possibilità di ritorno; risultati del grafico*
+
+> In un paese ci sono $10$ villaggi. Due di questi villaggi sono collegati direttamente da una sola strada. Le strade non si attraversano tra loro; alcune strade passano sopra le altre come passerelle tramite ponti. Purtroppo, i funzionari del Ministero della Circolazione, evidentemente distratti, hanno orientato le strade in modo tale che ogni strada può essere percorsa solo in una direzione (a prescindere da quale), e quindi è impossibile tornare, anche attraversando villaggi e strade.
+> 
+> a) dimostrare che esiste un villaggio da cui non si può uscire per nessuna strada.
+> 
+> b) dimostrare che esiste un villaggio al quale non si arriva strada.
+> 
+> c) Concludere: sarebbe sufficiente, come minimo, cambiare l'orientamento delle strade in modo da poter andare da qualsiasi luogo a qualsiasi altro luogo (possibilmente in diverse fasi)? Non dare le tue conclusioni senza prove: non passerebbero la prova.
+
+[[src_canimath_2014_automne__Q05]]

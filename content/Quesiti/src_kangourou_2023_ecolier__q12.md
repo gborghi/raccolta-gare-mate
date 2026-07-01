@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2023 Ecolier — Gara 16 marzo — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2023_ecolier__Q12
 parent: src_kangourou_2023_ecolier
 competition: Kangourou 2023 Ecolier — Gara 16 marzo
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *quante a Ovest della Via B*
 
@@ -48,3 +51,24 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1bDY_Y5qtxjaNx_dh5X8llzlndfmVtNwJ/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+* when west of Route B*
+
+![[src_kangourou_2023_ecolier__prob12.png]]
+
+> There are seven houses north of A Street, eight houses east of B Street and five houses south of A Street. How many houses are west of B Street? A) 4
+>     	
+> B) 5
+> 	
+> C) 6
+>    
+> D) 7
+> 	
+> E) 8
+
+**Answer:** A
+[[src_kangourou_2023_ecolier__Q12]]

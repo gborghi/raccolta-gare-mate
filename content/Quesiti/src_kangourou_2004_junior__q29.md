@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2004 Junior (18 marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2004_junior__Q29
 parent: src_kangourou_2004_junior
 competition: Kangourou 2004 Junior (18 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero al 2004-simo posto (div 5 o 11)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1DaToo_DBR2it6HtCjqvfnRO_ynZDQjkP/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number at 2004th place (div 5 or 11) *
+
+> On the board were written, in increasing order, all integers from 1 to 10,000. Then all but those numbers that are not divisible by 5 or 11 were deleted, resulting in a new succession. Which of the remaining numbers comes in fourth place in this new sequence in 2004? A) 1000      B) 5000      C) 10000     D) 6545     E) 7348
+
+**Answer:** E
+[[src_kangourou_2004_junior__Q29]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Semifinale Ecolier — Quesito 15
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_ecolier_semif__Q15
 parent: src_kangourou_2018_ecolier_semif
 competition: Kangourou 2018 Semifinale Ecolier
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti di attesa massima per sapere l ora dai rintocchi*
 
@@ -51,3 +54,16 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 90
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/12RJbo4WQyFx3m4vMHKRiOwlOuiEa6SZd/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Maximum waiting time to know the time from the outlet< MSK1/>
+
+> The clock on a bell tower beats at the time of each hour a number of times corresponding to the numerical value of the hour itself (from 1 to 12) and beats only once at the time of each quarter of an hour, half an hour and three quarters of an hour. At night, you hear a whistle. Based on the facts alone, how many minutes at most does it take to know for sure what time it is?
+> 
+> 0012 1293 0003 0004 5841 0090
+
+**Answer:** 90
+[[src_kangourou_2018_ecolier_semif__Q15]]

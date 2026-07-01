@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Student (15 marzo) — Quesito 28
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_student__Q28
 parent: src_kangourou_2001_student
 competition: Kangourou 2001 - Student (15 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma num e den del prodotto telescopico*
 
@@ -46,3 +49,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Summary number and denomination of the telescopic product< MSK1/>
+
+> Adding the numerator and denominator, when these are reduced to the minimum, to the result of the following expression
+>
+> - **(A)** 2001
+> - **(B)** 3002
+> - **(C)** 4003
+> - **(D)** 5002
+> - **(E)** 6001.
+
+**Answer:** B
+[[src_kangourou_2001_student__Q28]]

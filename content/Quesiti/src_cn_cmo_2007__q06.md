@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2007 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2007__Q06
 parent: src_cn_cmo_2007
 competition: China Mathematical Olympiad 2007
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find smallest n≥9 such that any integers allow b∈{4,7} with 9|sum*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 13
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Trova la più piccola n≥9 tale che qualsiasi numero intero permetta b∈{4,7} con la somma di 9
+
+> Trovare il più piccolo intero positivo $n \geq 9$ che soddisfi che per qualsiasi gruppo di numeri interi $a_1, a_2, \cdots, a_n$, esiste sempre $b_1, b_2, \cdots, b_n \in \{4, 7\}$ tale che $9 \mid (a_1 b_1 + a_2 b_2 + \cdots + a_n b_n)$.
+
+**Risposta:** 13
+[[src_cn_cmo_2007__Q06]]

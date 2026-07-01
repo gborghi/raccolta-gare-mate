@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Junior - gara marzo (biennio) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_junior_marzo__Q26
 parent: src_kangourou_2021_junior_marzo
 competition: Kangourou 2021 Junior - gara marzo (biennio)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Punti di Enrico nel gioco delle parole scritte*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Qd7g_J9YSqaTkiaSwsmsEmHGN7_4hiqi/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Points by Henry in the play of the written word*
+
+> 26. Three boys wrote 10 words each. Each boy, for every word he wrote, gained three points if none of the other boys wrote the same word, gained one point if exactly one of the other boys wrote the same JUNIOR word, no point if the word was also written by the other two. When they compared the three scores they got, they found that they were all different. Paolo had the lowest score, 19 points, while Enrico's score was the highest. How many points did Henry get? A) 20 B) 21 C) 23 D) 24 E) 25
+
+**Answer:** E
+[[src_kangourou_2021_junior_marzo__Q26]]

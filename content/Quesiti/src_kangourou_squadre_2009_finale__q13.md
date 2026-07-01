@@ -1,6 +1,7 @@
 ---
 title: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia) — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_squadre_2009_finale__Q13
 parent: src_kangourou_squadre_2009_finale
 competition: Kangourou Coppa a squadre 2009 - Finale (Mirabilandia)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Secondi di separazione tra Anna e il cane su pista*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0500
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Seconds of separation between Anna and the dog on the track*
+
+> Anna and her dog Anna is walking with her dog on a circular track that surrounds a pond. The runway is 500 meters long. At a certain moment the dog starts running at a speed of 10 km/h; Anna chases him running at a speed of 8 km/h. When the distance between the dog and Anna has become 250 meters, Anna reverses the side of her run, intending to recover the dog (which instead continues to run in the same direction) running towards him. If the dog and Anna's speeds stay the same, how many seconds will Anna be separated from her dog?
+
+**Answer:** 0500
+[[src_kangourou_squadre_2009_finale__Q13]]

@@ -1,6 +1,7 @@
 ---
 title: IMO 1970 (XII International Mathematical Olympiad) — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1970__Q05
 parent: src_imho_1970
 competition: IMO 1970 (XII International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Tetrahedron with right angle BDC and orthocentric foot; prove inequality*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Tetrahedron with right angle BDC and orthocentric foot; evidence of inequality*
+
+> In the tetrahedron $ABCD$, angle $BDC$ is a right angle. Suppose that the foot $H$ of the perpendicular from $D$ to the plane $ABC$ is the intersection of the altitudes of $\triangle ABC$. Prove that for what tetrahedra does equality hold?
+
+[[src_imho_1970__Q05]]

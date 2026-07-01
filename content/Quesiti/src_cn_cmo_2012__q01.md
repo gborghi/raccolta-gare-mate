@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2012 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2012__Q01
 parent: src_cn_cmo_2012
 competition: China Mathematical Olympiad 2012
@@ -30,6 +31,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Two circles tangent to lines AC and AD through vertices and arc midpoints meet again at P; prove AP bisects angle BAC.*
 
@@ -44,3 +47,15 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Due cerchi tangenti alle linee AC e AD attraverso vertici e punti di centro dell'arco si incontrano di nuovo a P; dimostrare che AP divide l'angolo BAC.*
+
+> Come mostrato nella figura. 1.1, $\angle A$ è l'angolo più grande del triangolo $ABC$. Sul circoncircolo di $\triangle ABC$, i punti $D$ e $E$ sono rispettivamente i punti di mezzo dell'arco $ABC$ e dell'arco $ACB$. Nota con $\odot O_1$ il cerchio che attraversa $A$ e $B$, e tangente alla linea $AC$; con $\odot O_2$ il cerchio che attraversa $A$ e $E$, e tangente alla linea $AD$. $\odot O_1$ interseca $\odot O_2$ ai punti $A$ e $P$. Provare che $AP$ è il bisector di $\angle BAC$.
+
+![[src_cn_cmo_b11_w101__Q01.png]]
+
+[[src_cn_cmo_2012__Q01]]

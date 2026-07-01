@@ -1,6 +1,7 @@
 ---
 title: IMO 1985 (26th International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imo_1985__Q02
 parent: src_imo_1985
 competition: IMO 1985 (26th International Mathematical Olympiad)
@@ -26,6 +27,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Two-colored set with coprime conditions all same color*
 
@@ -41,3 +44,19 @@ tags:
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cg1NYtm4dPh2yDOiQw5AK-zPMbUVJynC/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Two-colored set with covrime conditions to the same colour*
+
+> They are $n$ and $k$ relatively prime natural numbers, with $k < n$. Each number in the $M = \{1, 2, \ldots, n-1\}$ set is coloured in blue or white. This is because:
+> 
+> (i) for each $i \in M$, both $i$ and $n - i$ are the same colour;
+> 
+> (ii) for each $i \in M$, $i \neq k$, both $i$ and $|i - k|$ are the same colour.
+> 
+> Demonstrate that all numbers in $M$ must have the same color.
+
+[[src_imo_1985__Q02]]

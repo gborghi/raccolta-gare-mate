@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f2__Q03
 parent: src_obm_2005_n2_f2
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Staircase grid of numbered squares; count tape strips used*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Griglia delle scale di quadrati numerati; nastri di nastro di conteggio utilizzati*
+
+> Juliana stava scrivendo numeri interi positivi in quadrati di carta incollati fianco a fianco in un modello di scala, dove ogni colonna (da sinistra a destra) ha un quadrato in più rispetto alla colonna precedente. Una striscia di nastro viene posizionata lungo ogni bordo interno condiviso da due quadrati adiacenti. Ha scritto al numero $105$ e si è fermata. Quante strisce di nastro ha usato?
+> 
+> (La figura mostra la disposizione delle scale: la colonna $1$ ha $1$ quadrato, la colonna $2$ ha $2$ quadrati, la colonna $3$ ha $3$ quadrati e così via, con i quadrati numerati $1, 2, 3, \ldots$ dall'alto in basso all'interno di ciascuna colonna e colonne ordinate da sinistra a destra.)
+
+![[src_obm_2005_n2_f2__Q03.png]]
+
+[[src_obm_2005_n2_f2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student finale nazionale — Quesito S3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student_finale__QS3
 parent: src_kangourou_2003_student_finale
 competition: Kangourou 2003 Student finale nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Ipotenusa da raggi cerchi inscritto/exscritto*
 
@@ -39,3 +42,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** R-r
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OBeXoq_PUWofvqyA2y-KxF9LlSDsE0IX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Inscribed/excribed circle beam hypotenuse*
+
+![[src_kangourou_2003_student_finale__probS3.png]]
+
+> Determine the length of the hypotenuse of a right triangle $T$ by: - the radius $r$ of the circumference inscribed in $T$; - the radius $R$ of the outer circumference at $T$, to which the hypotenuse of $T$ and the extensions of the two catets of $T$ are tangent.
+
+**Answer:** R-r
+[[src_kangourou_2003_student_finale__QS3]]

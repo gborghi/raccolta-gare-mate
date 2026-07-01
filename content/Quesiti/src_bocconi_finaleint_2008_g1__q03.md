@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 1) — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g1__Q03
 parent: src_bocconi_finaleint_2008_g1
 competition: >-
@@ -35,6 +36,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero di cubetti visibili da un solo punto di vista in un cubo 3x3x3.*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 19 cubetti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of cubes visible from a single point of view in a 3x3x3 cube*
+
+> A cube of < MSK0/> cm on the side was manufactured by gluing together < MSK1/> cubes of < MSK2/> cm on the side. What is the largest number of cubes visible from a single point of view?
+
+**Answer:** 19 cubetti
+[[src_bocconi_finaleint_2008_g1__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2002_n1_f2__Q01
 parent: src_obm_2002_n1_f2
 competition: Olimpíada Brasileira de Matemática 2002 — Nível 1 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Palindrome years: next four after 2002; next odd palindrome after 1991*
 
@@ -47,3 +50,17 @@ tags:
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13KyJPv4dE-PcRKKVGz9NFA82iD0E6DH_/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Anni di palindrome: dopo il 2002; dopo il 1991 < MSK1/>
+
+> L'anno 2002 è un palindromo, cioè si legge lo stesso da sinistra a destra e da destra a sinistra.
+> 
+> a) Dopo il 2002, quali saranno i prossimi quattro anni di palindrome?
+> 
+> b) Il palindromo più recente prima del 1991 è stato strano. Quando si verificherà il prossimo anno palindromo?
+
+[[src_obm_2002_n1_f2__Q01]]

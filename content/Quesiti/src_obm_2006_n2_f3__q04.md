@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2006_n2_f3__Q04
 parent: src_obm_2006_n2_f3
 competition: Olimpíada Brasileira de Matemática 2006 — Nível 2 — Fase 3
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Count 3-element subsets {a,b,c} of {1..100} with b arithmetic mean of a and c*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YkJDppLT4ZSZbNPF1voiSzcsCHYMYSgG/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Contare i sottogruppi di 3 elementi {a,b,c} di {1..100} con b media aritmetica di a e c*
+
+> Quanti sottoinsiemi di tre elementi $\{a, b, c\}$ di $\{1, 2, 3, \ldots, 100\}$ sono tali che $b$ sia la media aritmetica di $a$ e $c$ (con $a < b < c$)?
+
+[[src_obm_2006_n2_f3__Q04]]

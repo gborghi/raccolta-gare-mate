@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2017 Cadet (gara marzo) — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2017_cadet_marzo__Q14
 parent: src_kangourou_2017_cadet_marzo
 competition: Kangourou 2017 Cadet (gara marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *35% donne, uomini 252 in piu*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1LIdvi3Dl-_VtUivy8qww_dZcJFordvMh/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>35% women, 252 more men< MSK1/>
+
+> This year exactly 35% of the participants in the Kangourou marathon were women and the men were 252 times more than the women. Between men and women, how many were in all the marathons? A) 802 B) 810 C) 822 D) 824 E) 840
+
+**Answer:** E
+[[src_kangourou_2017_cadet_marzo__Q14]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Semifinale 1 — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_semifinale1__Q02
 parent: src_squadre_2024_semifinale1
 competition: Gara a Squadre 2024 - Semifinale 1
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area unione di tre rettangoli su diagonali, AB=48 BC=20*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1680
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Area of union of three rectangles on diagonals, AB=48 BC=20*
+
+> Attempting to capture SherLog Hodge and trusted Wolfram build a trap to trap Mongearty. It is an ABCD rectangle with AB length 48dm and BC length 20dm. On the AC diagonal a rectangle is constructed such that AC is one side and the side opposite it passes through B. In the same way on BD you build a rectangle passing through A. If Mongearty enters the area formed by the union of the three rectangles, the trap will break out. Wolfram wonders if the area is enough. How much is the area in dm2?
+
+**Answer:** 1680
+[[src_squadre_2024_semifinale1__Q02]]

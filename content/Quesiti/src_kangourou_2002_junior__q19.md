@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Junior (21 marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_junior__Q19
 parent: src_kangourou_2002_junior
 competition: Kangourou 2002 - Junior (21 marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero ottenibile dal robot*
 
@@ -54,3 +57,21 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1_gHH-Ag_3VBURv7XSm9RnGEfAMluzh_B/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number available from the robot*
+
+> Assigned any real number x, a robot has the only possibilities of transforming it into the number x + 3 or the number x − 2 or the number 1 / x or the number x2. It is allowed to carry out the transformation three times in a row, with full freedom of choice at each step. It is initially assigned the number 1.99. If we show with y the largest number that the robot can get at the end, then
+>  
+> 
+> Junior year 2002. This item is not intended to be used. 5 A. y = (1,99)8 B. y = (4,99)4 C. y = (7,99)2 D. 1.000 < y < 10.000
+>  
+>  
+>  
+> E. y  10.000
+
+**Answer:** E
+[[src_kangourou_2002_junior__Q19]]

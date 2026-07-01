@@ -1,6 +1,7 @@
 ---
 title: IMO 2018 (LIX International Mathematical Olympiad) — Quesito 2
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_2018__Q02
 parent: src_imho_2018
 competition: IMO 2018 (LIX International Mathematical Olympiad)
@@ -32,6 +33,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Find all integers n≥3 with a specific recurrence on real sequences*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tvIX0rbY0Jiofkx0Jp_N_tsr4t5dB-fl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Find all integers n≥3 with a specific recurrence on real sequences*
+
+> Find all integers $n \ge 3$ for which there exist real numbers $a_1, a_2, \ldots, a_{n+2}$, such that $a_{n+1} = a_1$ and $a_{n+2} = a_2$, and $$a_i a_{i+1} + 1 = a_{i+2}$$ for $i = 1, 2, \ldots, n$.
+
+[[src_imho_2018__Q02]]

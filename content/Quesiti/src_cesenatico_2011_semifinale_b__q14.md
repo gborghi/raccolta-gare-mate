@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Cesenatico 2011 - Semifinale B — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_2011_semifinale_b__Q14
 parent: src_cesenatico_2011_semifinale_b
 competition: Gara a Squadre Cesenatico 2011 - Semifinale B
@@ -30,6 +31,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero soluzioni intere di |x|+2|y|=4900*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9800
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16y7yw-U6DomWsaJ94uYyOpHpg8Yy5IT1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Number of whole solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of the number of solutions of solutions of the number of solutions of the number of solutions of the number of solutions of solutions of the number of solutions of the number of solutions of solutions of the number of solutions of the number of solutions of
+
+> Banquet under the stars Another adventure is over, and the village is bound to gather for the traditional banquet. The number of wild boars our greedy Gallic friends have slaughtered is equal to the number of whole solutions of the equation x x x x + 2 y = 4900. How many pigs were needed?
+
+**Answer:** 9800
+[[src_cesenatico_2011_semifinale_b__Q14]]

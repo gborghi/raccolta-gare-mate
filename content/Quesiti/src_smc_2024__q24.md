@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2024 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2024__Q24
 parent: src_smc_2024
 competition: Senior Mathematical Challenge 2024
@@ -32,6 +33,8 @@ tags:
   - topic/insiemi_funzioni
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Functional equation f(x) + f(1/(1-x)) = 24x; find f(3)*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_IO2FdMwCpQgDc4Y5E9UER-IS_9oDw7A/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Equazione funzionale f(x) + f(1/(1-x)) = 24x; trovare f(3) *
+
+> Una funzione $f$ soddisfa l'equazione $f(x) + f\!\left(\dfrac{1}{1-x}\right) = 24x$ per tutti i valori reali di $x$ tranne $x = 0$ e $x = 1$. Qual è il valore di < MSK5/>?
+>
+> - **(A)** $40$
+> - **(B)** $42$
+> - **(C)** $45$
+> - **(D)** $48$
+> - **(E)** $50$
+
+**Risposta:** E
+[[src_smc_2024__Q24]]

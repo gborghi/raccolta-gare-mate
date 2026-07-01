@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Cadet (21 marzo) — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_cadet__Q18
 parent: src_kangourou_2002_cadet
 competition: Kangourou 2002 - Cadet (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi ha mentito tra i quattro figli*
 
@@ -47,3 +50,22 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IsSsUwP9ZviA-r3Clf4ThQDwJ2qoLUiD/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who lied among the four children?
+
+> The mother wants to know which of her four children hid the birthday present from Dad. They make the following statements:
+>  
+>  
+> It wasn't me. It was Dino.
+>  
+>  
+> It was Bruno. If everyone but one told the truth, who lied?
+>  
+> A. Aldo B. This is the case. The Commission shall adopt delegated acts in accordance with Article 21 of this Regulation. Dino E. It is not possible to determine with certainty.
+
+**Answer:** D
+[[src_kangourou_2002_cadet__Q18]]

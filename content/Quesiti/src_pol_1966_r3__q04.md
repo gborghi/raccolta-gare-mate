@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1966 — Round 3 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1966_r3__Q04
 parent: src_pol_1966_r3
 competition: Olimpiade Matematica Polacca 1966 — Round 3
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Sum of squares of face-projection areas constant iff parallelepiped is cube*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cdDIGmzl1s3W08zQNcKL0HCsVXJ-v1sZ/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Suma dei quadrati delle aree di proiezione facciale costante se parallelepiped è cubo< MSK1/>
+
+> Prova che la somma dei quadrati delle aree delle proiezioni delle facce di un parallelepiped rettangolare su un piano è la stessa per tutte le posizioni del piano se e solo se il parallelepiped è un cubo.
+
+[[src_pol_1966_r3__Q04]]

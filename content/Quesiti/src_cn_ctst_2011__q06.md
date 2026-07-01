@@ -1,6 +1,7 @@
 ---
 title: China National Team Selection Test 2011 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_ctst_2011__Q06
 parent: src_cn_ctst_2011
 competition: China National Team Selection Test 2011
@@ -35,6 +36,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Interesting point sequences: prove any two with equal endpoints share a common expansion*
 
@@ -47,3 +50,15 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sequenze di punti di interesse: dimostrare che qualsiasi due con punti di fine uguali condividono un'espansione comune*
+
+> Chiamiamo una sequenza di punti $(A_1, A_2, \ldots, A_n)$ interessante se l'abcissa e l'ordinato di ciascun punto sono interi, le pendenti dei segmenti $OA_1, OA_2, \ldots, OA_n$ sono rigorosamente in aumento ($O$ è l'origine), e l'area di ciascuna $\triangle OA_i A_{i+1}$ ($1 \le i \le n-1$) è uguale a $\dfrac{1}{2}$.
+> 
+> Per una sequenza di punti $(A_1, \ldots, A_n)$, inserendo un punto $A$ adiacente a due punti $A_i, A_{i+1}$ soddisfacendo $\overrightarrow{OA} = \overrightarrow{OA_i} + \overrightarrow{OA_{i+1}}$, possiamo ottenere una nuova sequenza di punti $(A_1, \ldots, A_i, A, A_{i+1}, \ldots, A_n)$. Lasciate che $(A_1, \ldots, A_n)$ e $(B_1, \ldots, B_m)$ siano due sequenze di punti interessanti. Prova che se $A_1 = B_1$ e $A_n = B_m$, si possono espandere entrambe le sequenze di punti a una sequenza di punti comune $(C_1, C_2, \ldots, C_s)$. (Posizionato da Qu Zhenhua)
+
+[[src_cn_ctst_2011__Q06]]

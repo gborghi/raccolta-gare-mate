@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Olympiad 2010 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmo_2010__Q04
 parent: src_cn_cmo_2010
 competition: China Mathematical Olympiad 2010
@@ -33,6 +34,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cover m integers using a small set T plus shifts in [-n,n]*
 
@@ -43,3 +46,13 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Coperire m integri utilizzando un piccolo insieme di T più spostamenti in [-n,n]*
+
+> Date due integri $m$, $n$ più grandi di 1 e $a_1 < a_2 < \cdots < a_m$, dimostrano che esiste un insieme $T$ di integri con $|T| \le 1 + \dfrac{8n}{m-1}$ tale che ogni $a_i$ possa essere scritto come $a_i = t + s$ per alcuni $t \in T$ e alcuni $s \in \{-n, -n+1, \ldots, n\}$. (Posato da Leng Gangsong)
+
+[[src_cn_cmo_2010__Q04]]

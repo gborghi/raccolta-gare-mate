@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2010 squadre semifinale turno A — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2010_squadre_semifinale__Q06
 parent: src_kangourou_2010_squadre_semifinale
 competition: Kangourou 2010 squadre semifinale turno A
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti per correggere 84 elaborati insieme*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 90
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1TFrb4bm9zTPJJC_TxSL_uBXVIqmSdm2D/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minutes to correct 84 worked together< MSK1/>
+
+> Teachers at work To correct 32 mathematical papers on the third-grade examination, one professor takes 80 minutes; another professor, to correct the same number of papers, takes only 60 minutes. Each professor spends the same amount of time correcting each paper. If you put them together and then re-start 84 processes, so that you start and finish the correction together, how many minutes would it take?
+
+**Answer:** 90
+[[src_kangourou_2010_squadre_semifinale__Q06]]

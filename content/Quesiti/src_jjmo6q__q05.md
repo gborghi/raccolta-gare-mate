@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2008 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo6q__Q05
 parent: src_jjmo6q
 competition: Japan Junior Mathematical Olympiad 2008
@@ -30,6 +31,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Area of triangle CBE in unit square with inscribed circle tangent to CE*
 
@@ -42,3 +45,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area del triangolo CBE in quadrato unitario con un cerchio inciso tangente a CE*
+
+> Il $ABCD$ deve essere un quadrato unitario (lenghezza laterale $1$). Il $O$ deve essere il centro del cerchio con diametro $AD$ e il $E$ deve essere un punto laterale $AB$. La linea $CE$ è tangente al cerchio con il centro $O$. Trova l'area del triangolo $CBE$.
+
+![[src_jjmo6q__Q05.png]]
+
+[[src_jjmo6q__Q05]]

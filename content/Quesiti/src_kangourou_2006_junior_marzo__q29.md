@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 29
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q29
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quanti X con X+Y+Z=60 (somme di cifre)*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Quantities of X with X+Y+Z=60 (digit sums) < MSK1/>
+
+> We denote with Y the sum of the digits of the positive integer X and with Z the sum of the digits of the number Y. For how many positive integers X happens that X + Y + Z is equal to 60 ? A) 0 B) 1 C) 2 D) 3 E) More than 3
+
+**Answer:** D
+[[src_kangourou_2006_junior_marzo__Q29]]

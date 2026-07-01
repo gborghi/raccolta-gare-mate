@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Cadet (finale nazionale) — Quesito C1
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_cadet_finale__QC1
 parent: src_kangourou_2005_cadet_finale
 competition: Kangourou 2005 - Cadet (finale nazionale)
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Schede rimaste da esaminare alla una*
 
@@ -35,3 +38,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 120
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xu5y5JpzGNUIyhivHcF8Vczu7vpaLZFN/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Remaining tables to be examined at a*
+
+> Before the optical reader was used, Kangourou's response cards were examined by hand. A human proofreader examined an average of two sheets per minute. At eleven o'clock in the morning of a certain day he had examined half the cards assigned to him for that day. At noon he had examined two thirds of them. If he had never stopped and continued at the same pace, how many sheets would he have left to examine at one o'clock that afternoon?
+
+**Answer:** 120
+[[src_kangourou_2005_cadet_finale__QC1]]

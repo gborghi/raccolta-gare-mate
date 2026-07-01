@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 2 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2001_n2_f2__Q01
 parent: src_obm_2001_n2_f2
 competition: Olimpíada Brasileira de Matemática 2001 — Nível 2 — Fase 2
@@ -35,6 +36,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Tangram parallelogram area given unit square*
 
@@ -48,3 +51,16 @@ tags:
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1/8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1xggI-DZYi_rVkYbSC9aLzBPxq-f6OWiM/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*area del parallelo di tangramma data in unità quadrata*
+
+> I pezzi di un gioco chiamato Tangram sono realizzati tagliando un quadrato in sette parti, come mostrato nella figura: due grandi triangoli rettangolari, un triangolo rettangolo medio, due piccoli triangoli rettangolari, un quadrato e un parallelo. Se l'area del grande quadrato è $1$, qual è l'area del parallelo?
+
+![[src_obm_2001_n2_f2__Q01.png]]
+
+**Risposta:** 1/8
+[[src_obm_2001_n2_f2__Q01]]

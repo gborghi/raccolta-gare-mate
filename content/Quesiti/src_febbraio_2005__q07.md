@@ -1,6 +1,7 @@
 ---
 title: Coppa/Gara di febbraio 2005 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_febbraio_2005__Q07
 parent: src_febbraio_2005
 competition: Coppa/Gara di febbraio 2005
@@ -23,6 +24,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero massimo di soluzioni di equazione con valore assoluto*
 
@@ -34,3 +37,15 @@ tags:
 **Metodo:** [[method_casework|Analisi per casi]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1XbPYC1MEwBm2ptgrJdB927cJnhI7jDD1/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum number of solutions of the equation with absolute value*
+
+> If the real parameter $a$ varies, what is the maximum number of solutions for the equation $\bigl||x - 1| - 4\bigr| + x = a$?
+> 
+> **(A) ** 1 **(B) ** 2 **(C) ** 3 **(D) ** 4 **(E) ** may have an infinite number of them.
+
+[[src_febbraio_2005__Q07]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2020 Junior - gara marzo (biennio) — Quesito 26
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2020_junior_marzo__Q26
 parent: src_kangourou_2020_junior_marzo
 competition: Kangourou 2020 Junior - gara marzo (biennio)
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Cubetti con esattamente una faccia verniciata*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1PKzmcw-VjRrD82slg-WmPBu5I0vBxvR6/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Cubets with exactly one painted face< MSK1/>
+
+> 26. A large cube is obtained by assembling 64 identical cubes. Three of the faces of the large cube are painted. For how many of the cubes, at most, can one face be painted? A) 27 B) 28 C) 32 D) 34 E) 40 1 6 3
+
+**Answer:** C
+[[src_kangourou_2020_junior_marzo__Q26]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Semifinale 1 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_semifinale1__Q14
 parent: src_squadre_2024_semifinale1
 competition: Gara a Squadre 2024 - Semifinale 1
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Distanza A dalla bomba con diametri e tangenti, XY=18*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 1385
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Distance A from the pump with diameters and tangents, XY=18*
+
+> Call the firefighters! MontyHallbano had a blast: a terrorist cell hid a bomb in a circular round. The Commissioner has already managed to locate the round, because he knows that on the edges there are 3 angels: A and B at the ends of a diameter and the other angel X forms an angle \ XAB = 30°. In addition, with the clues collected, Fuzzy is drawing the map: he traces another diameter XY = 18m and calls C,D respectively the intersections between the AX and AY lines with the tangent to the round led by B. M and N are the midpoints of BX and BY . The bomb was placed at the intersection of the CM and DN lines. The gunmen need to know the precise distance of A from the bomb. How much is this distance in centimetres?
+
+**Answer:** 1385
+[[src_squadre_2024_semifinale1__Q14]]

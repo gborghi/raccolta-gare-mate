@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 1996 - Biennio — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1996_biennio__Q14
 parent: src_archimede_1996_biennio
 competition: Giochi di Archimede 1996 - Biennio
@@ -25,6 +26,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di cifre del prodotto di due numeri ripetitivi*
 
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ARzIV3wHmzpV455NSIYGulflPgheKY6p/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of product figures of two repeating numbers*
+
+> It 's m = 999 . . . 99 is the number of 77 digits all equal to 9 and is n = 777 . . . 77 is the 99-digit number, all equal to 7. The number of digits of m · n is
+>
+> - **(A)** 175
+> - **(B)** 176
+> - **(C)** 177
+> - **(D)** 7692
+> - **(E)** 7693.
+
+**Answer:** B
+[[src_archimede_1996_biennio__Q14]]

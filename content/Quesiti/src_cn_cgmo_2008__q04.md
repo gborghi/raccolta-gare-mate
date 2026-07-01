@@ -1,6 +1,7 @@
 ---
 title: China Girls' Mathematical Olympiad 2008 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cgmo_2008__Q04
 parent: src_cn_cgmo_2008
 competition: China Girls' Mathematical Olympiad 2008
@@ -35,6 +36,8 @@ tags:
   - gara/individuale
   - qa/da-verificare
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Equilateral triangles on convex quad sides; maximize ratio y/x*
 
@@ -50,3 +53,16 @@ tags:
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Triangoli equalaterali su lati quadrati convexi; massimizzazione del rapporto y/x*
+
+> Al di fuori di un quadrilaterale converso $ABCD$ costruiamo triangoli equilaterali $ABQ$, $BCR$, $CDS$ e $DAP$. Indicando con $x$ la somma delle diagonali di $ABCD$, e con $y$ la somma dei segmenti di linea che uniscono i punti di mezzo dei lati opposti di $PQRS$, troviamo il valore massimo di $\dfrac{y}{x}$. (Posato da Xiong Bin)
+
+![[src_cn_cgmo_2008__Q04.png]]
+
+**Risposta:** $\dfrac{1+\sqrt{3}}{2}$
+[[src_cn_cgmo_2008__Q04]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2024 - Semifinale 1 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2024_semifinale1__Q07
 parent: src_squadre_2024_semifinale1
 competition: Gara a Squadre 2024 - Semifinale 1
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Raggio con quadrilatero CAPB area uguale a quadrato inscritto*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0894
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Rage with quadrilateral CAPB area equal to square inscribed*
+
+> Jessica Fourier's challenge Jessica Fourier has the classic math writer's block. To distract himself, he challenges Dr. Seven: both have a sheet with an identical circumference drawn and have to cut a quadrilateral. Both quadrilaterals must have the same area. Il Dr. Seven cuts the square inscribed in the circumference. Jessica instead draws an AB rope 400 mm from center C and the tangents at points A and B to the circumference that intersect in P. So cut the CAPB quadrilateral. What is the radius of the two identical circumferences in mm?
+
+**Answer:** 0894
+[[src_squadre_2024_semifinale1__Q07]]

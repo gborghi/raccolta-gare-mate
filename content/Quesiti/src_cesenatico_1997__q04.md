@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Cesenatico 1997 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_cesenatico_1997__Q04
 parent: src_cesenatico_1997
 competition: Gara Nazionale Cesenatico 1997
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Volume tetraedro da spigolo AB e proiezione S*
 
@@ -40,3 +43,17 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1gAfFy7kRpmbdkAKC-cVZKQZi9nJPgz2s/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Volume of AB-beam tetrahedron and S projection *
+
+![[src_cesenatico_1997__prob4.png]]
+
+> either $ABCD$ a generic tetrahedron of which the length $a$ of the $AB$ beam and the $S$ area of the tetrahedron projection on a plane perpendicular to the rectum for $A$ and $B$ are known.
+> 
+> Determine the volume of the tetrahedron.
+
+[[src_cesenatico_1997__Q04]]

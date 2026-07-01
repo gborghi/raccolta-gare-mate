@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2000_n1_f1__Q06
 parent: src_obm_2000_n1_f1
 competition: Olimpíada Brasileira de Matemática 2000 — Nível 1 — Fase 1
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Shaded area in figure with rectangle of area 12*
 
@@ -48,3 +51,18 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mVGzD8QKPy58hpxPfsrR-NMJKg17AgfT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*L'area oscurata in figura con rettangolo di superficie 12*
+
+> Se l'area del rettangolo è $12$, qual è l'area della figura ombrata?
+> 
+> (A) $3$ \quad (B) $4$ \quad (C) $5$ \quad (D) $6$ \quad (E) $8$
+
+![[src_obm_2000_n1_f1__Q06.png]]
+
+**Risposta:** D
+[[src_obm_2000_n1_f1__Q06]]

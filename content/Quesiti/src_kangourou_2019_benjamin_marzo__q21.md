@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Gara di Marzo Benjamin — Quesito 21
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_benjamin_marzo__Q21
 parent: src_kangourou_2019_benjamin_marzo
 competition: Kangourou 2019 Gara di Marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Chi e andato in bicicletta date le implicazioni*
 
@@ -46,3 +49,21 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1mCVu8mcZWozh4A9IixxiUAmKQbLsElwm/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Who rode a bicycle given the implications
+
+> Aldo, Bruno and Carla each have bicycles. You know, if Aldo doesn't ride a bike, then Bruno goes; if Bruno doesn't ride a bike, then Carla goes. Bruno didn't ride his bike today. Who rode a bicycle? A) Both Aldo and Carla
+> 	
+> B) Only Carla
+> 	
+> C) Only Aldo D) No one
+> 	
+> 	
+> E) It is not possible to know
+
+**Answer:** A
+[[src_kangourou_2019_benjamin_marzo__Q21]]

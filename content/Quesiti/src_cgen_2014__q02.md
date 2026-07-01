@@ -1,6 +1,7 @@
 ---
 title: Concours Général des Lycées 2014 — Matematica — Quesito 2
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cgen_2014__Q02
 parent: src_cgen_2014
 competition: Concours Général des Lycées 2014 — Matematica
@@ -36,6 +37,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Dice/coin game 'Vite, pile': each of k players flips a fair coin until heads (score = number of flips). Find probability a given player wins, probability of a unique winner (and limit as n to infinity), and expected number of winners (and limit).*
 
@@ -58,3 +61,25 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1obqFZcNocFah5P6ftcXj9ue3NMcS9ZQn/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Gioco dice/monete 'Vite, pile': ciascuno dei giocatori k lancia una moneta giusta fino a che non capisce (punteggio = numero di lanci). Trova la probabilità che un determinato giocatore vinca, la probabilità di un vincitore unico (e limite come n all'infinito), e il numero previsto di vincitori (e limite).*
+
+> In questo problema, $k$ e $n$ sono integri superiori o uguali a $2$.
+> 
+> Un gruppo di giocatori $k$ si alternano per lanciare una moneta presumibilmente giusta, con la probabilità di ottenere "teste" (\textit{pile}) su un singolo lancio indicato $p$, con $0 < p < 1$.
+> 
+> Ogni giocatore lancia la moneta finché non appaiono le "teste". Pertanto, un giocatore che ottiene "teste" nel primo turno di punteggi $1$; un giocatore la cui prima "teste" appare nel secondo turno di punteggi $2$; e in generale un giocatore la cui prima "teste" appare nel secondo turno di punteggi $n$ $n$, e così via.
+> 
+> Una volta che tutti i giocatori hanno giocato, il punteggio di ciascun giocatore viene confrontato; i vincitori sono i giocatori che hanno ottenuto il punteggio più alto.
+> 
+> Determina la probabilità che un determinato giocatore vinca.
+> 
+> Determinare la probabilità che ci sia un vincitore unico, quindi il limite di questa probabilità come $n$ tende all'infinito.
+> 
+> Determinare il numero atteso di vincitori, quindi il limite di questa aspettativa come $n$ tende all'infinito.
+
+[[src_cgen_2014__Q02]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Semifinale A — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_semifinalea__Q08
 parent: src_squadre_2018_semifinalea
 competition: Gara a Squadre 2018 - Semifinale A
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Piramide tagliata in volumi uguali, rapporto BP/PV*
 
@@ -51,3 +54,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0022
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pyramid cut in equal volumes, BP/PV ratio*
+
+> The theory of future astronauts [⋆⋆] Matryx and \ DOC ended up in ancient Egypt, where to hide the DeuLerean they built a huge straight pyramid based on an ABCD square and V vertex. On the sides V B and V D take two points P and Q respectively with BP PV = DQ QV such that the APQ plane divides the pyramid into two equal-volume rooms. How much is BP PV ? Answer by indicating a+b+2c, where a,b,c are integers such that BP PV = a+ √ b c , and b does not have perfect squares between its divisors.
+
+**Answer:** 0022
+[[src_squadre_2018_semifinalea__Q08]]

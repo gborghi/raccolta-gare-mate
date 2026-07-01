@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2003 Student finale nazionale — Quesito S4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2003_student_finale__QS4
 parent: src_kangourou_2003_student_finale
 competition: Kangourou 2003 Student finale nazionale
@@ -29,6 +30,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Probabilita completare album con 5 figurine*
 
@@ -40,3 +43,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 15/64
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OBeXoq_PUWofvqyA2y-KxF9LlSDsE0IX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Probability of completing an album with 5 digits*
+
+> A small album contains four individual copies. By purchasing five at random, what is the probability (expressed by a number between $0$ and $1$) of completing the album?
+
+**Answer:** 15/64
+[[src_kangourou_2003_student_finale__QS4]]

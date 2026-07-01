@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2023 - 2° livello — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2023_2livello__Q17
 parent: src_archimede_2023_2livello
 competition: Archimede Gara di Febbraio 2023 - 2° livello
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Insiemi labirintici in tabella 2n x 2n, perimetro e limiti*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1SX14myHfXrq7zgKxWwlst9XBbsAhqu3M/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Labyrinth sets in Table 2n x 2n, perimeter and limits*
+
+> DEMOSTRATIVE EXERCISE Given a table 2n×2n, a subset S of its boxes is said to be labyrinthine if it has the following properties: • from each S box it is possible to move to any other S box by moving only from S boxes to adjacent S boxes (horizontal or vertical, i.e. having a side in common with the box of origin); • it is not possible, starting from an S box, to return to the same box by moving only to adjacent S boxes and never crossing the same side twice. (a) Demonstrate that if S is labyrinthine then it cannot have more than 3n2 boxes; (b) Exhibit a set of 12 labyrinthine boxes for n = 2. (c) We call the perimeter of S the number of sides adjacent to at least one S box, but not to two S boxes. If S is labyrinthine and consists of k boxes, how much is its perimeter? (d) Demonstrate that there is no set of 300 labyrinth boxes if n = 10.
+
+[[src_archimede_2023_2livello__Q17]]

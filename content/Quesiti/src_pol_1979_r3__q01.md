@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1979 — Round 3 — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1979_r3__Q01
 parent: src_pol_1979_r3
 competition: Olimpiade Matematica Polacca 1979 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Distinct remainders set: divisibility by n*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mFSc82UPOl-hsqJK3SMN5XvfV4dcKK2I/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*insieme di rimanenti distinti: divisibilità per n*
+
+> Si deve dare un insieme $\{r_1, r_2, \ldots, r_n\}$ di numeri naturali che danno restanti distinti quando diviso da un numero naturale $n$. Prova che se $k \ge n/2$, allora per ogni numero intero $n$ esistono indici $i$ e $j$ (non necessariamente distinti) in modo tale che $r_i + r_j - n$ sia divisibile da $n$.
+
+[[src_pol_1979_r3__Q01]]

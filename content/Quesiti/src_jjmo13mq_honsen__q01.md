@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2015 — Honsen (Final) — Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo13mq_honsen__Q01
 parent: src_jjmo13mq_honsen
 competition: Japan Junior Mathematical Olympiad 2015 — Honsen (Final)
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Cyclic quadrilateral, perpendicular line passes through circumcenter*
 
@@ -36,3 +39,13 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KO6vJDo2NFREQnMe8CLBm6pqNrYJc_o-/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Quadrilaterale ciclico, linea perpendicolare che attraversa il circondocentro*
+
+> Il $ABCD$ deve essere un quadrilaterale inciso in un cerchio. Il punto $P$ deve essere diverso da $A$ e $B$, in modo tale che $\angle PAC = \angle PBD = 90^\circ$. Prove che la linea perpendicolare a MSK6 passa attraverso il centro circostante del triangolo $PAB$.
+
+[[src_jjmo13mq_honsen__Q01]]

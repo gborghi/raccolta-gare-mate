@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2002 - Student (21 marzo) — Quesito 12
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2002_student__Q12
 parent: src_kangourou_2002_student
 competition: Kangourou 2002 - Student (21 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area superficie della scultura dal cubo*
 
@@ -49,3 +52,21 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1avMk9GHcSTwy2eoWkRxzXBAqjQvR2OyM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Surface area of the cube sculpture*
+
+![[src_kangourou_2002_student__prob12.png]]
+
+> The abstract sculpture seen in the figure next to it was obtained by removing a rectangular parallel piped from a solid that was originally a cube. The volume of the original cube was 512 dm3. What is the total area of the sculpture?
+>  
+>  
+> A. 320 dm2 B. 336 dm2 C. 384 dm2 D. 468 dm2
+>  
+> E. Nothing can be said without further information.
+
+**Answer:** C
+[[src_kangourou_2002_student__Q12]]

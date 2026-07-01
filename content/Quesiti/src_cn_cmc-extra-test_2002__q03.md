@@ -1,6 +1,7 @@
 ---
 title: China Mathematical Competition (Extra Test) 2002 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cmc-extra-test_2002__Q03
 parent: src_cn_cmc-extra-test_2002
 competition: China Mathematical Competition (Extra Test) 2002
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *World Cup scheduling: count substitution plans*
 
@@ -40,3 +43,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Programmazione della Coppa del Mondo: piani di sostituzione del conteggio < MSK1/>
+
+> Prima del torneo della Coppa del Mondo, l'allenatore di calcio del paese $F$ permetterà a sette giocatori $A_1$, $A_2$, $\ldots$, $A_7$ di partecipare a tre lezioni di allenamento (90 minuti ciascuno) per valutarli. Supponiamo che, in qualsiasi momento durante una partita, uno e solo uno di loro entri sul campo; e il tempo totale (misurato in minuti) sul campo per ciascuno di $A_1$, $A_2$, $A_3$ e $A_4$ sia divisibile per 7 e il tempo totale per ciascuno di $A_5$, $A_6$ e $A_7$ sia divisibile per 13. Se non vi è alcuna restrizione sul numero di volte di sostituzione di giocatori durante ogni partita, allora quanti possibili casi ci sono all'interno del tempo totale per ogni giocatore sul campo?
+
+[[src_cn_cmc-extra-test_2002__Q03]]

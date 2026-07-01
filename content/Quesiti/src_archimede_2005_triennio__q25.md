@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2005 - Gara Triennio — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2005_triennio__Q25
 parent: src_archimede_2005_triennio
 competition: Giochi di Archimede 2005 - Gara Triennio
@@ -27,6 +28,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Stima di un prodotto di frazioni pari su dispari*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yq3dqYEwi11TSWDPLZ76IBOx7aI-xcMM/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Estimate of a product of equal fractions on odd numbers*
+
+> Both x = 2 · 4 · 6 · 2004 · 2006 1 · 3 · 5 · 2003 · 2005 . So, what?
+>
+> - **(A)** x < 4√ 2006,
+> - **(B)** 4√ 2006 < x < 3√ 2006,
+> - **(C)** 3√ 2006 < x < √ 2006,
+> - **(D)** √ 2006 < x < 2006,
+> - **(E)** x > 2006.
+
+**Answer:** D
+[[src_archimede_2005_triennio__Q25]]

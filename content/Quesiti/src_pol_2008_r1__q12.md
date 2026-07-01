@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 2008 — Round 1 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_2008_r1__Q12
 parent: src_pol_2008_r1
 competition: Olimpiade Matematica Polacca 2008 — Round 1
@@ -36,6 +37,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Given integer m>=2, find the smallest n>=m so that every 2-coloring of {m,...,n} yields a monochromatic a,b,c with ab=c.*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Dato il numero intero m>=2, trovare il più piccolo n>=m in modo che ogni 2 colorazioni di {m,...,n} producano un monocromatico a,b,c con ab=c.*
+
+> Si deve dare un numero intero $m \ge 2$. Trovare il numero intero più piccolo $n \ge m$ con la proprietà che, per ogni partizione del set $\{m, m+1, \ldots, n\}$ in due sottoinsiemi, uno dei sottoinsiemi contiene tre numeri $a, b, c$ (non necessariamente distinti) con $ab = c$.
+
+[[src_pol_2008_r1__Q12]]

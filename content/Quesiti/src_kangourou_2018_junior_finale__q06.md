@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2018 Finale Nazionale Junior — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2018_junior_finale__Q06
 parent: src_kangourou_2018_junior_finale
 competition: Kangourou 2018 Finale Nazionale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Massimo numero complementato non multiplo di 10*
 
@@ -38,3 +41,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0315
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1tG1qF8QiO87G4kUvVH3tGLkGKKlnA5a4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Maximum complementary number not multiple of 10*
+
+> Imagine the plane as a sheet of squares (all on the same side) boundless in every direction and call a node every vertex of every square. It shows that for each $n$ there is a circle containing exactly $n$ nodes inside.
+
+**Answer:** 0315
+[[src_kangourou_2018_junior_finale__Q06]]

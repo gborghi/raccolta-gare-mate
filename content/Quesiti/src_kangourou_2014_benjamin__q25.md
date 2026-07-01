@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2014 marzo Benjamin — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2014_benjamin__Q25
 parent: src_kangourou_2014_benjamin
 competition: Kangourou 2014 marzo Benjamin
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Minuti tra arrivi di messaggeri successivi*
 
@@ -55,3 +58,23 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1BZCN61vpnqifhx1fmaf0xAwkUBfDPdAb/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Minutes between arrivals of subsequent messengers< MSK1/>
+
+> The king and his messengers are traveling from the castle to the summer residence at a speed of 5 Km/h. Every hour the king, from where he is, sends back to the castle a messenger running at the speed of 10 Km/h. How many minutes pass between the arrival of a messenger at the castle and the next? A) 30
+> 	
+> B) 60
+> 	
+> C) 75
+> 	
+> D) 90
+> 	
+> E) 120 A B C D E F 15
+>
+
+**Answer:** D
+[[src_kangourou_2014_benjamin__Q25]]

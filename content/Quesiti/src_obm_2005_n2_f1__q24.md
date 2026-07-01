@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1 — Quesito 24
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2005_n2_f1__Q24
 parent: src_obm_2005_n2_f1
 competition: Olimpíada Brasileira de Matemática 2005 — Nível 2 — Fase 1
@@ -37,6 +38,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Place chosen numbers from 1..10 in white circles so neighbours sum to a perfect square; 2 given; find total sum*
 
@@ -50,3 +53,15 @@ tags:
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Posizionare i numeri scelti da 1,10 in cerchi bianchi in modo che la somma dei vicini sia un quadrato perfetto; 2 dato; trovare la somma totale*
+
+> Tra i numeri $1, 2, 3, 4, 5, 6, 7, 8, 9$ e $10$, selezionate alcuni e inseriteli nei cerchi bianchi in modo che la somma dei numeri in due cerchi vicini sia sempre un quadrato perfetto. Nota: il $2$ è già stato inserito in uno dei cerchi e non sono ammessi numeri ripetuti; inoltre, i cerchi separati dal rettangolo nero non sono vicini. La somma dei numeri inseriti in tutti i cerchi bianchi è: A) $36$ \quad B) $46$ \quad C) $47$ \quad D) $49$ \quad E) $55$
+
+![[src_obm_2005_n2_f1__Q24.png]]
+
+[[src_obm_2005_n2_f1__Q24]]

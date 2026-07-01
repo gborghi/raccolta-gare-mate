@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2005 - Benjamin (marzo) — Quesito 30
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2005_benjamin__Q30
 parent: src_kangourou_2005_benjamin
 competition: Kangourou 2005 - Benjamin (marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Figura che richiede di ripassare un segmento (Euler)*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1H9faZJBCzBf8bLiyxYQUYaWcCfaIGSV4/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Figure requiring a segment to be passed (Euler) *
+
+![[src_kangourou_2005_benjamin__prob30.png]]
+
+> If you want to draw the following figures without ever taking the pen off the sheet, you need to draw a pen over some segment already drawn. What kind? The Commission has decided to extend the scope of this Regulation to the following areas:
+
+**Answer:** B
+[[src_kangourou_2005_benjamin__Q30]]

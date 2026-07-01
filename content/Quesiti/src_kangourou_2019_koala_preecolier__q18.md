@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Koala n.6 Pre-Ecolier — Quesito 18
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_koala_preecolier__Q18
 parent: src_kangourou_2019_koala_preecolier
 competition: Kangourou 2019 Koala n.6 Pre-Ecolier
@@ -24,6 +25,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale figura Mauro ha tagliato nei tre pezzi*
 
@@ -45,3 +48,25 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1T4iZu6dyqXlfhTL_hIKJXtW2MKPYKTGp/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+What figure did Mauro cut into three pieces?
+
+![[src_kangourou_2019_koala_preecolier__prob18.png]]
+
+> By cutting a figure, Mauro got the three pieces you see.
+>
+> (see figure)
+>
+> Which of the following is the figure that Mauro cut?
+>
+> - **(A)** cloud
+> - **(B)** circle
+> - **(C)** U-shape
+> - **(D)** Rectangular
+> - **(E)** heart
+
+[[src_kangourou_2019_koala_preecolier__Q18]]

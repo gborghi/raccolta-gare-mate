@@ -1,6 +1,7 @@
 ---
 title: Giochi di Archimede 2022 - Gara Biennio — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2022_biennio__Q03
 parent: src_archimede_2022_biennio
 competition: Giochi di Archimede 2022 - Gara Biennio
@@ -25,11 +26,13 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Angolo al vertice di triangolo isoscele con punto sul lato*
 
 > ABC è un triangolo isoscele con AC = BC. Si sceglie un punto A′ sul lato AC in
-> modo tale che AB = BA′ = A′C. Qual è l’ampiezza dell’angolo A bCB?
+> modo tale che AB = BA′ = A′C. Qual è l’ampiezza dell’angolo $\widehat{ACB}$?
 >
 > - **(A)** 30°
 > - **(B)** 36°
@@ -42,3 +45,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Daq06A5cNKvPAO0E8Ym-xGnc7AcmRZ_w/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Angle to the top of an isosceles triangle with a point on the side*
+
+> ABC is an isosceles triangle with AC = BC. A point A′ on the AC side shall be chosen so that AB = BA′ = A′C. What is the width of the angle < MSK0/>?
+>
+> - **(A)** 30°
+> - **(B)** 36°
+> - **(C)** 40°
+> - **(D)** 45°
+> - **(E)** 60°
+
+**Answer:** B
+[[src_archimede_2022_biennio__Q03]]

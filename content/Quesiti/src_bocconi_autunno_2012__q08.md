@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2012 — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2012__Q08
 parent: src_bocconi_autunno_2012
 competition: Giochi d'Autunno 2012
@@ -30,6 +31,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quante volte si compone TESTS seguendo percorso nella griglia*
 
@@ -43,3 +46,16 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 23
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NV-k_HLPNGANyAIvy1osIKx3v70VuvCV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How many times TESTS are composed following a path in the grid*
+
+> How many times, including in the example above, can you read the word TESTS by following a path that leads you from one box to another on their common side, but never going through the same box twice?
+
+![[src_bocconi_autunno_2012__Q08.png]]
+
+**Answer:** 23
+[[src_bocconi_autunno_2012__Q08]]

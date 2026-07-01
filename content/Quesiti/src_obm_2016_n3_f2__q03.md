@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2016_n3_f2__Q03
 parent: src_obm_2016_n3_f2
 competition: Olimpíada Brasileira de Matemática 2016 — Nível 3 — Fase 2
@@ -33,6 +34,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find p^q in semicircle geometry with given chord lengths and coprime ratio*
 
@@ -45,3 +48,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Kyx5C-7FL7tKpPOWgJBTaegErI8HPUAU/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca p^q in geometria semicircolare con lunghezze di accordi e rapporto di coprime dati*
+
+> Nella figura seguente $AB = 4$, $BD = 8$, $CB = BE = 2$ e $AGD$ è un semicircolo di diametro $AD$. Dato che $AG/GD = p/q$, dove $p$ e $q$ sono integri positivi che sono reciprocamente primi, trovare $p^q$.
+
+![[src_obm_2016_n3_f2__Q03.png]]
+
+[[src_obm_2016_n3_f2__Q03]]

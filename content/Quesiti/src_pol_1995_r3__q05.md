@@ -1,6 +1,7 @@
 ---
 title: Olimpiade Matematica Polacca 1995 — Round 3 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_pol_1995_r3__Q05
 parent: src_pol_1995_r3
 competition: Olimpiade Matematica Polacca 1995 — Round 3
@@ -34,6 +35,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Urn with n sheets labelled 1..n; expected number of drawings divisible by 4*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/150sL_nAa7PPTRBn0nE8dUnuEVC2dD-qB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Urn con n fogli etichettati 1..n; numero previsto di disegni divisibili per 4*
+
+> Una urna contiene fogli di carta $n$ etichettati $1, 2, \ldots, n$. Tracciamo le foglie una per una senza rimetterle nell'urna fino a ottenere un foglio con un numero divisibile per $4$. Per un $n$ fisso, determinare tutti i valori di $k$ per i quali il valore atteso del numero di disegni è uguale a $k$.
+
+[[src_pol_1995_r3__Q05]]

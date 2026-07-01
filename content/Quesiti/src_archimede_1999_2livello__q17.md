@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara 2º livello 1999 — Quesito 17
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_1999_2livello__Q17
 parent: src_archimede_1999_2livello
 competition: Archimede Gara 2º livello 1999
@@ -26,6 +27,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Pentagono inscritto con diagonali parallele ai lati è regolare*
 
@@ -38,3 +41,15 @@ tags:
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1Z9BhXCPztsJARzbZTLensBdo6z_rFPxw/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Pentagon inscribed with diagonal parallel sides is regular*
+
+> This is the first time I've seen this.
+> 
+> To demonstrate that a pentagon is inscribed in a circumference such that each of its diagonal is parallel to one side, is necessarily regular.
+
+[[src_archimede_1999_2livello__Q17]]

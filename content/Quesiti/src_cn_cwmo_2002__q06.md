@@ -1,6 +1,7 @@
 ---
 title: China Western Mathematical Olympiad 2002 — Quesito 6
 tipo: quesito
+lang: en
 quesito_id: quesito_src_cn_cwmo_2002__Q06
 parent: src_cn_cwmo_2002
 competition: China Western Mathematical Olympiad 2002
@@ -34,6 +35,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Find all integer n-tuples satisfying sum and sum-of-squares conditions*
 
@@ -47,3 +50,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Ricerca tutti i n-tupli interi che soddisfano le condizioni di somma e somma quadrata*
+
+> Supponiamo che $n$ sia un dato numero intero positivo. Trova tutti i gruppi di numeri interi $(a_1, a_2, \ldots, a_n)$ che soddisfano le condizioni: (1) $a_1 + a_2 + \cdots + a_n \ge n^2$; (2) $a_1^2 + a_2^2 + \cdots + a_n^2 \le n^3 + 1$. (Possibile da Pan Chengbiao)
+
+[[src_cn_cwmo_2002__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2010 - Gara del Pubblico — Quesito 3
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2010_pubblico__Q03
 parent: src_gas_2010_pubblico
 competition: Gara a Squadre 2010 - Gara del Pubblico
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Differenza abitanti da affermazioni di sinceri/bugiardi/variabili*
 
@@ -46,3 +49,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8994
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Different inhabitants from truthful/false/variable statements*
+
+> Cannibal Island [30] Will met a small group of 9 savages in Tortuga. The archipelago from which they come is made up of 3 islands for a total of 10000 inhabitants, including themselves. It is known that the inhabitants of Isla Cruces are always sincere (but also cannibals), the inhabitants of Isla de Muerta always lie, and the inhabitants of Isla de Mono can be sincere or lie. The nine stand in line, and in turn, the ninth member of the line says: It is also known that there are 3 people in the line from each island and that at least one of the Isles of Mone has told the truth. What is the maximum difference between the inhabitants of Isla Cruces and those of Isla de Muerta?
+
+**Answer:** 8994
+[[src_gas_2010_pubblico__Q03]]

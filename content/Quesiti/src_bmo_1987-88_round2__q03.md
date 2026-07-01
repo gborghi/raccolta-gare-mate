@@ -1,6 +1,7 @@
 ---
 title: British Mathematical Olympiad 1987-88 — Round 2 — Quesito 3
 tipo: quesito
+lang: en
 quesito_id: quesito_src_bmo_1987-88_round2__Q03
 parent: src_bmo_1987-88_round2
 competition: British Mathematical Olympiad 1987-88 — Round 2
@@ -30,6 +31,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *System of equations in a,b,c,x,y,z; express z and a combined expression*
 
@@ -49,3 +52,16 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1saRGuH3Bwi42EqoEIhAENB9ZwUjztngB/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Sistema di equazioni a,b,c,x,y,z; espresso z e espressione combinata*
+
+> I numeri $a$, $b$, $c$, $x$, $y$, $z$ soddisfano le equazioni $$x^2 - y^2 - z^2 = 2ayz$$ $$-x^2 + y^2 - z^2 = 2bxz$$ $$-x^2 - y^2 + z^2 = 2cxy$$ e anche $xyz \neq 0$.
+> 
+> Usando le prime due equazioni si esprime $z$ in termini di $a$, $b$, $x$, $y$. Prove che $$x^2(1-b^2) = y^2(1-a^2) = xy(ab-c)$$ e quindi trova il valore di $a^4 + b^4 + c^4 - 2a^2b^2 - 2b^2c^2 - 2a^2c^2$ (indipendentemente da $x$, $y$, $z$).
+
+**Risposta:** 1
+[[src_bmo_1987-88_round2__Q03]]

@@ -1,6 +1,7 @@
 ---
 title: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2008_n2_f1__Q05
 parent: src_obm_2008_n2_f1
 competition: Olimpíada Brasileira de Matemática 2008 — Nível 2 — Fase 1
@@ -34,6 +35,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Car-washing earnings split in dimes among three people*
 
@@ -45,3 +48,13 @@ tags:
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Le entrate di lavaggio auto suddivise in dime tra tre persone< MSK1/>
+
+> Edmilson, Carlos ed Eduardo hanno guadagnato un totale di R\$150.00 washing cars. They earned the amounts in dimes (moedas de dez centavos). Since none of them had change to divide the equal amounts among the three, Carlos and Eduardo gave their dimes to Edmilson, who then had more money in dimes, and they divided the dimes among themselves. In the end, each one could divide his original amount of dimes; Eduardo received R\$10.00 in dime e gli altri divisi ugualmente, in modo che ognuno finisse con un numero intero di dime. Quanto guadagnava Eduardo prima della divisione? (A) R\$76.00 \quad (B) R\$51.00 \quad (C) R\$23.00 \quad (D) R\$50.00 \quad (E) R\$100.00
+
+[[src_obm_2008_n2_f1__Q05]]

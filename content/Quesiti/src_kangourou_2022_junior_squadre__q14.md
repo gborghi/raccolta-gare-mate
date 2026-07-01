@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2022 Junior Finale 1 — Quesito 14
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2022_junior_squadre__Q14
 parent: src_kangourou_2022_junior_squadre
 competition: Kangourou Squadre 2022 Junior Finale 1
@@ -29,6 +30,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero triangoli triangolazione poligono 2022*
 
@@ -43,3 +46,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 6064
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GRkoKlR7UzS2vN9Rw8S5kI9fFvcXtFvX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of triangles triangulation polygon 2022*
+
+> How many triangles? Within a convex polygon with 2022 vertices (and hence sides) 2022 points are fixed. If the polygon is divided into triangles with three of the 4044 points mentioned above as vertices, without any triangles whose interior overlaps, how many triangles are obtained?
+
+**Answer:** 6064
+[[src_kangourou_2022_junior_squadre__Q14]]

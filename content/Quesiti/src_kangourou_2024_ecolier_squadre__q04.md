@@ -1,6 +1,7 @@
 ---
 title: Kangourou Squadre 2024 Ecolier Finale 1 — Quesito 4
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2024_ecolier_squadre__Q04
 parent: src_kangourou_2024_ecolier_squadre
 competition: Kangourou Squadre 2024 Ecolier Finale 1
@@ -27,6 +28,8 @@ tags:
   - topic/aritmetica
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero Aldo e Cristina, somma 99 diff max*
 
@@ -44,3 +47,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8118
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fiY-mjUhFMAXFof1HOYgfXMgjmvhSVl5/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+Number of Aldo and Cristina, sum of 99 difference max
+
+> Aldo and Cristina Cristina wrote an integer number of two digits (so no less than 10). Aldo also wrote a two-digit number: Aldo's numbers are the same as Cristina's, Aldo's number is larger than Cristina's, the sum of the numbers written by Aldo and Cristina is 99 and their difference is the largest possible in this situation. Write Aldo's number followed by Cristina's number, that is, if Aldo's number is XY and Cristina's number is ZW, write XYZW Answer: 8118.
+
+**Answer:** 8118
+[[src_kangourou_2024_ecolier_squadre__Q04]]

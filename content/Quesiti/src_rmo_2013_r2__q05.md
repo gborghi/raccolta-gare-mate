@@ -1,6 +1,7 @@
 ---
 title: Regional Mathematical Olympiad 2013 — Region 2 — Quesito 5
 tipo: quesito
+lang: en
 quesito_id: quesito_src_rmo_2013_r2__Q05
 parent: src_rmo_2013_r2
 competition: Regional Mathematical Olympiad 2013
@@ -35,6 +36,8 @@ tags:
   - regione/r2
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Polygon side-perimeter sum inequality*
 
@@ -46,3 +49,13 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uqSSojdtAvGG1PLqgEhOlUA-N31qYiRK/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Summa di disuguaglianza del perimetro laterale di un poligono*
+
+> Che $n \ge 3$ sia un numero naturale e che $P$ sia un poligono con lati $n$. $a_1, a_2, \ldots, a_n$ sia la lunghezza dei lati di $P$ e $p$ sia il suo perimetro. Provare che < MSK0/>
+
+[[src_rmo_2013_r2__Q05]]

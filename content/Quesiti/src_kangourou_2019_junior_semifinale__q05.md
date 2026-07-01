@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2019 Semifinale Junior — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2019_junior_semifinale__Q05
 parent: src_kangourou_2019_junior_semifinale
 competition: Kangourou 2019 Semifinale Junior
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Quale spigolo del cubo da area intera nel taglio*
 
@@ -45,3 +48,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DISykfbsyDVueVK-78qFIHIpc0krevzV/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Which whole area cube shaft in the cut*
+
+> Cutting a cube with a plane that passes through two of its opposite vertices and the midpoints of two opposite vertices that do not contain those vertices gives a quadrilateral whose area, in square centimeters, is expressed by an integer. Which of the following numbers can express the length, in centimeters, of the cube's tips? (A) 1 B) √ 8 C) √ 12 D) √ 27 E) None
+
+**Answer:** E
+[[src_kangourou_2019_junior_semifinale__Q05]]

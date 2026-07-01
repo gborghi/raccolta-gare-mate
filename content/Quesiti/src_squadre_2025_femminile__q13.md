@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre Femminile 2025 - VIII Finale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2025_femminile__Q13
 parent: src_squadre_2025_femminile
 competition: Gara a Squadre Femminile 2025 - VIII Finale
@@ -25,6 +26,8 @@ tags:
   - topic/funzionali
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *p(14) con equazione funzionale e p(10)=100*
 
@@ -68,3 +71,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 200
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*p(14) with functional equation and p(10)=100*
+
+> During an afternoon at the ice cream parlor, Phineas drops his ice cone on Buford's pants, sparking the bull's anger. Buford then decides to challenge Phineas to a chicken tournament. Meanwhile, Doofenshmirtz has built a hypnotizing machine to control people's minds and force them to celebrate his birthday. Only Agent P. It can save humanity! While Doofenshmirtz would like to activate the machine, inserting the value (14) p of a polynomial ( ) p x such that 2 2 ( ) ( ) (2) x p x p x p x   known only as   10 100 p  , Perry deflects the base of the machine by dropping it and destroying it. What value would it have allowed Dr. Doofenshmirtz to see the whole world celebrate his birthday?
+
+**Answer:** 200
+[[src_squadre_2025_femminile__Q13]]

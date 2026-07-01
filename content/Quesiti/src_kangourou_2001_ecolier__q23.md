@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2001 - Ecolier (15 marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2001_ecolier__Q23
 parent: src_kangourou_2001_ecolier
 competition: Kangourou 2001 - Ecolier (15 marzo)
@@ -25,6 +26,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Dollari di Carlo*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/14FPCXDzZ3MCmy_U2sHoXL_DGwwEHC1uI/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+This is the total amount of the loan.
+
+> Alexander has the same amount of money as Billy and Carlo. Billy has $10 more than Carlo. All in all, the three boys have $40. How many dollars does Carlo have?
+>
+> - **(A)** 4
+> - **(B)** 5
+> - **(C)** 10
+> - **(D)** 15
+> - **(E)** 20.
+
+**Answer:** B
+[[src_kangourou_2001_ecolier__Q23]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2016 Student (gara marzo) — Quesito 19
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2016_student_marzo__Q19
 parent: src_kangourou_2016_student_marzo
 competition: Kangourou 2016 Student (gara marzo)
@@ -29,6 +30,8 @@ tags:
   - topic/aritmetica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Valori possibili al cerchietto con condizioni divisibilita per 3*
 
@@ -53,3 +56,20 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1zFNaB4eXTmk_79yqwwb93XC49Kv8Vke-/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Possible values in the circle with conditions divisible by 3*
+
+![[src_kangourou_2016_student_marzo__prob19.png]]
+
+> Each of the ten circles in the figure is assigned a value of 0, 1 or 2, but only the three values marked in the figure are known. You know that the sum of the numbers in the vertices of any white triangle is divisible by 3 whereas the sum of the numbers in the vertices of any black triangle is not. What values can be assigned to the circle marked with the question mark? A) Only 0.
+> 	
+> B) Only one. C) Only two. D) Only 0 or 1.
+> 	
+> E) 0 o 1 o 2.
+
+**Answer:** A
+[[src_kangourou_2016_student_marzo__Q19]]

@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x —
   Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2021_nu_fx__Q04
 parent: src_obm_2021_nu_fx
 competition: Olimpíada Brasileira de Matemática 2021 — Nível Universitário — Fase x
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *For n>1 let k(n) be the max perfect-power exponent; find limit of Cesaro mean*
 
@@ -49,3 +52,13 @@ tags:
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MgR4bVfP7Fq55ZFrheOqs-UCf6k35qyg/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Per n>1 lasciamo k(n) essere l'esponente massimo di potenza perfetta; trova il limite della media Cesaro*
+
+> Per ogni intero $n > 1$, $k(n)$ sia il più grande intero positivo $k$ tale che $n = m^k$ per un intero positivo $m$. Determinazione < MSK0/>
+
+[[src_obm_2021_nu_fx__Q04]]

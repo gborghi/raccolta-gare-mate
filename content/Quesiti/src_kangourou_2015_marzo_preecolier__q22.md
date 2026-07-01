@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2015 gara 19 marzo Pre-Ecolier — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2015_marzo_preecolier__Q22
 parent: src_kangourou_2015_marzo_preecolier
 competition: Kangourou 2015 gara 19 marzo Pre-Ecolier
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *affermazione vera*
 
@@ -43,3 +46,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.22](https://drive.google.com/file/d/1dN8oLWHKMEqueZel3LdcaFHvIUXHt7dO/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>true statement < MSK1/>
+
+> Chiara builds a cube using grey and white cubes (see figure). Two cubes of the same color have no face in common. Which of the following statements regarding the number of cubes used is true?
+>
+> - **(A)** the grey cubes are < MSK0/> in addition to the white cubes
+> - **(B)** the white cubes are < MSK0/> in addition to the grey cubes
+> - **(C)** The grey cubes are as many as the white ones.
+> - **(D)** the white cubes are < MSK0/> in addition to the grey cubes
+> - **(E)** the grey cubes are < MSK0/> in addition to the white cubes
+
+**Answer:** A
+[[src_kangourou_2015_marzo_preecolier__Q22]]

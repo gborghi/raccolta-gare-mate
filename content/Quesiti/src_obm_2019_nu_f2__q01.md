@@ -3,6 +3,7 @@ title: >-
   Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2 —
   Quesito 1
 tipo: quesito
+lang: en
 quesito_id: quesito_src_obm_2019_nu_f2__Q01
 parent: src_obm_2019_nu_f2
 competition: Olimpíada Brasileira de Matemática 2019 — Nível Universitário — Fase 2
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Existence of a rational 2019x2019 matrix satisfying a cubic / quartic polynomial equation*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10ZZ53PN51VCIg4v8FeDtpK_VZe_GuZRq/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Esistenza di una matrice razionale 2019x2019 che soddisfa un'equazione polinomial cubica / quartic*
+
+> Lasciate che $I$ e $0$ siano le matrici identiche e quadrate zero, entrambe di dimensione 2019. Esiste una matrice quadrata $A$ con voci razionali e dimensioni 2019 in modo tale che:
+> 
+> (a) $A^3 + 6A^2 - 2I = 0$?
+> 
+> (b) $A^4 + 6A^3 - 2I = 0$?
+
+[[src_obm_2019_nu_f2__Q01]]

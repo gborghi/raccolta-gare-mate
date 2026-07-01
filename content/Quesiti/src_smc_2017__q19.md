@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2017 — Quesito 19
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2017__Q19
 parent: src_smc_2017
 competition: Senior Mathematical Challenge 2017
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_analitica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Circle radius 1 touches three sides of 2×4 rectangle; diagonal intersects circle at P and Q. Find length of chord PQ.*
 
@@ -55,3 +58,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12VC7RLQaMaRu-nMn_4F1w9xBlhP5u-_i/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Il raggio del cerchio 1 tocca tre lati del rettangolo 2×4; la diagonale interseca il cerchio a P e Q. Trova la lunghezza di accordo PQ.*
+
+> Il diagramma mostra un cerchio di raggio $1$ che tocca tre lati di un rettangolo $2 \times 4$. Una diagonale del rettangolo interseca il cerchio nei punti $P$ e $Q$, come mostrato.
+> 
+> Qual è la lunghezza dell'accordo $PQ$?
+>
+> - **(A)** $\sqrt{5}$
+> - **(B)** $\dfrac{2}{\sqrt{5}}$
+> - **(C)** $\dfrac{5\sqrt{6}}{6}$
+> - **(D)** $\dfrac{5\sqrt{6}}{5}$
+> - **(E)** $2$
+
+![[src_smc_2017__Q19.png]]
+
+**Risposta:** B
+[[src_smc_2017__Q19]]

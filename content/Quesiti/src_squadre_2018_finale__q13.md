@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2018 - Finale Nazionale — Quesito 13
 tipo: quesito
+lang: it
 quesito_id: quesito_src_squadre_2018_finale__Q13
 parent: src_squadre_2018_finale
 competition: Gara a Squadre 2018 - Finale Nazionale
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_solida
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Due sfere uguali scambiabili in tetraedro regolare, raggio massimo*
 
@@ -41,3 +44,14 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 6727
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Two equal interchangeable spheres in regular tetrahedron, maximum radius*
+
+> The universe in a room. Good news, mathematicians. Fredholm this regular tetrahedron-shaped box of side 28 √ 3m contains not one, but two universes, identical, and spherical in shape. Not only that, but the spheres can change places by moving rigidly inside the box, never overlapping. How many millimeters can you measure, at most, the radius of the two spherical universes?
+
+**Answer:** 6727
+[[src_squadre_2018_finale__Q13]]

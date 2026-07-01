@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2006 Junior (marzo) — Quesito 22
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2006_junior_marzo__Q22
 parent: src_kangourou_2006_junior_marzo
 competition: Kangourou 2006 Junior (marzo)
@@ -27,6 +28,8 @@ tags:
   - topic/disuguaglianze
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Proprieta del prodotto p (tre numeri somma 20)*
 
@@ -42,3 +45,14 @@ tags:
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Product property p (three numbers plus 20) *
+
+> Adding up three different positive numbers, you get 20. Let's say p is the product of the two largest numbers. So A) p is certainly less than 99. B) p is certainly greater than 0.001. C) p is certainly different from 25. D) p is certainly different from 75. (e) each of the foregoing statements is false.
+
+**Answer:** E
+[[src_kangourou_2006_junior_marzo__Q22]]

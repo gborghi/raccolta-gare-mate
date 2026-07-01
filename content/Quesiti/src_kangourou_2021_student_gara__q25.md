@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2021 Student gara individuale — Quesito 25
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2021_student_gara__Q25
 parent: src_kangourou_2021_student_gara
 competition: Kangourou 2021 Student gara individuale
@@ -27,6 +28,8 @@ tags:
   - topic/geometria_solida
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Somma dei numeri sulle facce del solido (dodecaedro snub)*
 
@@ -56,3 +59,24 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10rrqjn4r4jCb9YDzjMQtWj5ea5CXm2VX/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>Sum of numbers on the faces of the solid (snube dodecahedron) < MSK1/>
+
+![[src_kangourou_2021_student_gara__prob25.png]]
+
+> The solid in the figure has 12 faces which are regular pentagons, while the other faces are squares or equilateral triangles. Each pentagonal face is adjacent to five square faces while each triangular face is adjacent to three square faces. On each face is a number: 5 on the pentagonal ones, 1 on the triangular ones and 1 on the square ones. What is the sum of all the numbers that appear on the surface of the solid? A) 20
+> 	
+> B) 50
+> 	
+> C) 60
+> 	
+> D) 80
+> 	
+> E) 120
+
+**Answer:** B
+[[src_kangourou_2021_student_gara__Q25]]

@@ -1,6 +1,7 @@
 ---
 title: Senior Mathematical Challenge 2016 — Quesito 4
 tipo: quesito
+lang: en
 quesito_id: quesito_src_smc_2016__Q04
 parent: src_smc_2016
 competition: Senior Mathematical Challenge 2016
@@ -32,6 +33,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Alex draws a scalene triangle with one angle 80°. Which of the listed angles could be another angle of this triangle?*
 
@@ -49,3 +52,20 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D7IjbohfZX-5jLTTcEAsTt9p0otM8Km6/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+Alex disegna un triangolo di scalene con un angolo. Quale degli angoli elencati potrebbe essere un altro angolo di questo triangolo?
+
+> Alex disegna un triangolo di scalene. Uno degli angoli è $80^\circ$. Quale delle seguenti potrebbe essere uno degli altri angoli del triangolo di Alex?
+>
+> - **(A)** $0^\circ$
+> - **(B)** $60^\circ$
+> - **(C)** $80^\circ$
+> - **(D)** $100^\circ$
+> - **(E)** $120^\circ$
+
+**Risposta:** C
+[[src_smc_2016__Q04]]

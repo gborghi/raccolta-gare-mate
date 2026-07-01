@@ -1,6 +1,7 @@
 ---
 title: Gara Nazionale Classi Prime 2016 — Quesito 5
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2016_classiprime__Q05
 parent: src_archimede_2016_classiprime
 competition: Gara Nazionale Classi Prime 2016
@@ -27,6 +28,8 @@ tags:
   - topic/logica
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *morso vincente da 27cm*
 
@@ -53,3 +56,14 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/11_tVYKZUBusCSJwiRULQD9nPIEI-cYvl/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>winning bite by 27cm< MSK1/>
+
+> Claudia and Luca challenge the game Mordi La Striscia: it starts with a strip of whole-length liquorice (expressed in centimeters) and, in turn, each player detaches a piece of whole-length positive (always expressed in centimeters) from it with a bite, but making sure that, at each turn, the liquorice detached from the bite is never more than what remains. In the end, the winner is the one who, after the bite, leaves a strip of only one centimeter. At some point, the licorice strip is 27 centimeters long and it's up to Claudia to bite. If you want to be sure you're winning, how many inches of licorice do you have to take off with your bite? A 12 B 13 C 11 D 10 and 9 F Luke will win whatever Claudia does
+
+**Answer:** A
+[[src_archimede_2016_classiprime__Q05]]

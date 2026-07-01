@@ -1,6 +1,7 @@
 ---
 title: Gara a Squadre 2009 - Gara del Pubblico — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_gas_2009_pubblico__Q08
 parent: src_gas_2009_pubblico
 competition: Gara a Squadre 2009 - Gara del Pubblico
@@ -25,6 +26,8 @@ tags:
   - topic/geometria_piana
   - gara/squadre
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Area di figura a luna fra archi di circonferenza*
 
@@ -53,3 +56,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** 0370
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1dfmDK-io54lWYqoo1sEbOgfaOWBq484r/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Lunar area between arc radii*
+
+![[src_gas_2009_pubblico__prob8.png]]
+
+> The Moon of Puntor [30] Legends tell that the night of the Battle of Puntor was illuminated by a moon shaped like the area enclosed between the arc of circumference AB, BD, DC and CA, where: AB is a half-circle of midpoint L; C and D are such that BC and AD are as long as AB and pass through L; the arcs BD, DC and CA have a center in A, L and B respectively. (See figure.) If AB measured 42 kilometers, how much would the area enclosed by the moon be, in square kilometers? . ..A . .B . .L . .D ..C
+
+**Answer:** 0370
+[[src_gas_2009_pubblico__Q08]]

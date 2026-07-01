@@ -1,6 +1,7 @@
 ---
 title: IMO 1970 (XII International Mathematical Olympiad) — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_imho_1970__Q06
 parent: src_imho_1970
 competition: IMO 1970 (XII International Mathematical Olympiad)
@@ -34,6 +35,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *100 points in general position; at most 70% of triangles are acute*
 
@@ -44,3 +47,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+< MSK0/>100 points in general position; at most 70% of triangles are sharp< MSK1/>
+
+> In a plane there are 100 points, no three of which are collinear. Consider all possible triangles having these points as vertices. Prove that no more than $70\%$ of these triangles are acute-angled.
+
+[[src_imho_1970__Q06]]

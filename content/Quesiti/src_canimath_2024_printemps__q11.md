@@ -1,6 +1,7 @@
 ---
 title: Coupe Animath Printemps 2024 — Quesito 11
 tipo: quesito
+lang: en
 quesito_id: quesito_src_canimath_2024_printemps__Q11
 parent: src_canimath_2024_printemps
 competition: Coupe Animath Printemps 2024
@@ -36,6 +37,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Color n positive reals blue/green/red so each color's sum is less than sum of others (lycee)*
 
@@ -50,3 +53,17 @@ tags:
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+*Colore n positivo reale blu/verde/rosso in modo che la somma di ciascun colore sia inferiore alla somma degli altri (lycee) *
+
+> Baptiste scrive $n$ numeri reali rigorosamente positivi su una lavagna (non necessariamente distinti). Egli nota poi che ogni numero reale scritto sulla lavagna è strettamente inferiore alla somma degli altri numeri reali $n-1$. Baptiste vorrebbe colorare ogni numero reale in blu, verde o rosso, in modo che la somma dei numeri reali di ogni dato colore sia strettamente inferiore alla somma degli altri numeri reali. Baptiste può soddisfare il suo desiderio:
+> 
+> 1) if $n = 4$?
+> 
+> 2) if $n = 5$?
+
+[[src_canimath_2024_printemps__Q11]]

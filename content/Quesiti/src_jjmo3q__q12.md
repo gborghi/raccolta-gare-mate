@@ -1,6 +1,7 @@
 ---
 title: Japan Junior Mathematical Olympiad 2005 — Quesito 12
 tipo: quesito
+lang: en
 quesito_id: quesito_src_jjmo3q__Q12
 parent: src_jjmo3q
 competition: Japan Junior Mathematical Olympiad 2005
@@ -32,6 +33,8 @@ tags:
   - topic/algebra
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="en"></div>
+
 
 *Triples of distinct positives with product equal to 12 times the sum*
 
@@ -42,3 +45,13 @@ tags:
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HkqI1STeIhyrK-Nxz8XApzegeSbRZJJP/view)
+
+
+<span class="qlang-split" data-lang="it"></span>
+
+
+< MSK0/>Tripli di punti positivi distinti con prodotto pari a 12 volte la somma < MSK1/>
+
+> Quante serie di tre diversi integri positivi hanno il prodotto pari a $12$ volte la loro somma? Qui, gli insiemi che differiscono solo nell'ordine dei numeri, come $\{3, 6, 18\}$ e $\{6, 3, 18\}$, sono considerati uguali e contati come uno.
+
+[[src_jjmo3q__Q12]]

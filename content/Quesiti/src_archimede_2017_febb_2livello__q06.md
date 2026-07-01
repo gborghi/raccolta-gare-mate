@@ -1,6 +1,7 @@
 ---
 title: Archimede Gara di Febbraio 2017 - 2 livello — Quesito 6
 tipo: quesito
+lang: it
 quesito_id: quesito_src_archimede_2017_febb_2livello__Q06
 parent: src_archimede_2017_febb_2livello
 competition: Archimede Gara di Febbraio 2017 - 2 livello
@@ -27,6 +28,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Modi di comprare 3 case non adiacenti tra 10 in fila*
 
@@ -47,3 +50,20 @@ tags:
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1oWOL1D3lGNd-0_wUPNgM-0s8UEgwCbda/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*How to buy 3 non-adjacent houses out of 10 in a row*
+
+> Abelarda, Brunilda and Callisto, three old acquaintances, want to buy a house head-on among the 10 row houses on the main street of the city. Because they can't stand each other, they want to avoid being close to home - so they want the houses they buy to be two to two apartments. How many ways can they buy a house to meet this requirement?
+>
+> - **(A)** 56
+> - **(B)** 120
+> - **(C)** 336
+> - **(D)** 480
+> - **(E)** 504
+
+**Answer:** C
+[[src_archimede_2017_febb_2livello__Q06]]

@@ -1,6 +1,7 @@
 ---
 title: Kangourou 2011 Junior (gara marzo) — Quesito 23
 tipo: quesito
+lang: it
 quesito_id: quesito_src_kangourou_2011_junior__Q23
 parent: src_kangourou_2011_junior
 competition: Kangourou 2011 Junior (gara marzo)
@@ -28,6 +29,8 @@ tags:
   - topic/geometria_piana
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di angoli a due a due distinti*
 
@@ -50,3 +53,16 @@ tags:
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1AJCl_AfEoFXnuVsI8nXmEWfRHRXKCZ3O/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of two to two distinct angles*
+
+![[src_kangourou_2011_junior__prob23.png]]
+
+> In an ABC triangle, on the side BC a point D is chosen and on the segment AD a point E is chosen. So we're going to get 9 angles marked with the numbers 1 through 9, as shown in the figure. Whatever the ABC triangle is, some of these angles are necessarily two to two different from each other. In configurations where there are the fewest possible, how many are there? A) 2 B) 3 C) 4 D) 5 E) 6
+
+**Answer:** B
+[[src_kangourou_2011_junior__Q23]]

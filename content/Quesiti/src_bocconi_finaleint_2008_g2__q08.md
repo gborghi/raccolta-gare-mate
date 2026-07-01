@@ -3,6 +3,7 @@ title: >-
   Finale Internazionale Campionati Internazionali di Giochi Matematici (Parigi)
   2008 (prova 2) — Quesito 8
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_finaleint_2008_g2__Q08
 parent: src_bocconi_finaleint_2008_g2
 competition: >-
@@ -38,6 +39,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero minimo di freccette per totalizzare 100 con dieci regioni di valori dati.*
 
@@ -49,3 +52,14 @@ tags:
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5 freccette
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12ogX5H1BaCAZyS5-g9EC80TAfXccBdv8/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Minimum number of arrows for a total of 100 with 10 data value regions.*
+
+> A target has ten regions. Each of these points has a different number of points, chosen from the numbers: $2,\ 7,\ 12,\ 17,\ 22,\ 37,\ 42,\ 57,\ 62$ and $77$. How many arrows do you need to throw, at least, to get a total score of 100?
+
+**Answer:** 5 freccette
+[[src_bocconi_finaleint_2008_g2__Q08]]

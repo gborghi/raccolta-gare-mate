@@ -1,6 +1,7 @@
 ---
 title: Giochi d'Autunno 2007 — Quesito 7
 tipo: quesito
+lang: it
 quesito_id: quesito_src_bocconi_autunno_2007__Q07
 parent: src_bocconi_autunno_2007
 competition: Giochi d'Autunno 2007
@@ -32,6 +33,8 @@ tags:
   - topic/combinatoria
   - gara/individuale
 ---
+<div class="qlang-switch" data-default="it"></div>
+
 
 *Numero di triangoli contenuti nella figura*
 
@@ -45,3 +48,16 @@ tags:
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
+
+
+<span class="qlang-split" data-lang="en"></span>
+
+
+*Number of triangles contained in Figure *
+
+> How many triangles does the figure contain?
+
+![[src_bocconi_autunno_2007__Q07.png]]
+
+**Answer:** 12
+[[src_bocconi_autunno_2007__Q07]]
